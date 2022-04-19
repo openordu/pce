@@ -1,6 +1,0 @@
-Glastonbury Zodiac
-The Glastonbury Zodiac
-In the sixteenth century, Dr. John Dee, astrologer to Queen Elizabeth I, mentioned the existence of a zodiac in or around Glastonbury. What he meant by this is too vague and without any evidence of existence--what kind of images, whether they corresponded to the traditional Greco-Roman Zodiac--is unknown. However, in 1929, Katherine Maltwood, an illustrator, thought that the images could be dicerned from aerial photographs, outlined in roads, earthworks, rivers, and other natural and man-made formations. The earthenworks date to 27,000 BC. 
-Maltwood held that the zodiac was the original meaning of the Grail quest, as laid out in her book Glastonbury Temple of the Stars.  At the center lies Butleigh, Somerset, and Glastonbury Tor and Chalice Hill (Aquarius) is north-northwest of the ten mile circle. Wearyall Hill is identified with Pisces. 
-According to this plan, each of Arthur's knights can be equated with a constellation. For instance, Gawain would be Aries, Perceval would be Pisces, and so on. Of course, most archaeologists dismiss this idea, and probably rightly so--there is really no evidence for the "zodiac" that Maltwood claims to see in the landscape.
-Mary Jones © 2004
