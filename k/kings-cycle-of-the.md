@@ -1,6 +1,6 @@
 ---
 title: Kings, Cycle of the 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

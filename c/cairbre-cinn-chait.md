@@ -1,6 +1,6 @@
 ---
 title: Cairbre Cinn-Chait 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

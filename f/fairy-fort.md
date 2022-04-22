@@ -1,6 +1,6 @@
 ---
 title: fairy fort 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

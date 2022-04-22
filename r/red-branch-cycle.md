@@ -1,6 +1,6 @@
 ---
 title: Red Branch Cycle 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

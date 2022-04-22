@@ -1,6 +1,6 @@
 ---
 title: Conall Corc 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

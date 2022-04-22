@@ -1,6 +1,6 @@
 ---
 title: Diarmait Ua Duibne, mother of 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

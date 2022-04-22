@@ -1,6 +1,6 @@
 ---
 title: dergfhlaith 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

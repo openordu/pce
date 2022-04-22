@@ -1,6 +1,6 @@
 ---
 title: shape-shifting, of poets 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

@@ -1,6 +1,6 @@
 ---
 title: Molling 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

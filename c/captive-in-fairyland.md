@@ -1,6 +1,6 @@
 ---
 title: captive in fairyland 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

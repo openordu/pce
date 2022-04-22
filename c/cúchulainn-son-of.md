@@ -1,6 +1,6 @@
 ---
 title: Cúchulainn, son of 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

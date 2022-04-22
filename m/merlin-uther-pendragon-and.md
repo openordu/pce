@@ -1,6 +1,6 @@
 ---
 title: Merlin, Uther Pendragon and 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

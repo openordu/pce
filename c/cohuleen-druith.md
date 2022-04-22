@@ -1,6 +1,6 @@
 ---
 title: cohuleen druith 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

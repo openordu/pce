@@ -1,6 +1,6 @@
 ---
 title: Deva 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

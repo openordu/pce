@@ -1,6 +1,6 @@
 ---
 title: Rumhann mac Colmáin 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

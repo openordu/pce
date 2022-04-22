@@ -1,6 +1,6 @@
 ---
 title: Conall Clogach 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

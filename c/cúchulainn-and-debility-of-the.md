@@ -1,6 +1,6 @@
 ---
 title: Cúchulainn, and Debility of the 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

@@ -1,6 +1,6 @@
 ---
 title: Roisin Dubh 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

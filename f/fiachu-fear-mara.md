@@ -1,6 +1,6 @@
 ---
 title: Fiachu Fear Mara 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

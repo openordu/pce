@@ -1,6 +1,6 @@
 ---
 title: Cúchulainn, in Táin bó Cuailnge training of 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

@@ -1,6 +1,6 @@
 ---
 title: Wild Hunt 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

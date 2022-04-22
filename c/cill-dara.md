@@ -1,6 +1,6 @@
 ---
 title: Cill Dara 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

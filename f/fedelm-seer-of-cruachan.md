@@ -1,6 +1,6 @@
 ---
 title: Fedelm, seer of Cruachan 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

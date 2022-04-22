@@ -1,6 +1,6 @@
 ---
 title: Jack-in-the-Green 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

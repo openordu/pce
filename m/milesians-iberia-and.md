@@ -1,6 +1,6 @@
 ---
 title: Milesians, Iberia and 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

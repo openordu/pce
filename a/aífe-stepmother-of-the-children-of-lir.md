@@ -1,6 +1,6 @@
 ---
 title: Aífe, stepmother of the Children of Lir 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

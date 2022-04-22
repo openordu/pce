@@ -1,6 +1,6 @@
 ---
 title: Yann-An-Ord 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

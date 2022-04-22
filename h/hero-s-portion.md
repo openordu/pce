@@ -1,6 +1,6 @@
 ---
 title: hero’s portion 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

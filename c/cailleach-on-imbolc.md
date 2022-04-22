@@ -1,6 +1,6 @@
 ---
 title: Cailleach, on Imbolc 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

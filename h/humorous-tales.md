@@ -1,6 +1,6 @@
 ---
 title: humorous tales 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

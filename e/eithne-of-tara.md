@@ -1,6 +1,6 @@
 ---
 title: Eithne of Tara 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

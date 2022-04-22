@@ -1,6 +1,6 @@
 ---
 title: Tir Tairngiri 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

@@ -1,6 +1,6 @@
 ---
 title: druid, prophecy of 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

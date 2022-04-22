@@ -1,6 +1,6 @@
 ---
 title: King of Ireland’s Son kings 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

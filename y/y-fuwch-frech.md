@@ -1,6 +1,6 @@
 ---
 title: y fuwch frech 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

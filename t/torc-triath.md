@@ -1,6 +1,6 @@
 ---
 title: Torc Triath 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

@@ -1,6 +1,6 @@
 ---
 title: shape-shifting, of Manannán mac Lir 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

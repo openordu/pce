@@ -1,6 +1,6 @@
 ---
 title: Milesians, Éremón of 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

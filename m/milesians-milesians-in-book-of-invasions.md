@@ -1,6 +1,6 @@
 ---
 title: Milesians, Milesians, in Book of Invasions 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

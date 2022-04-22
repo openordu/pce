@@ -1,6 +1,6 @@
 ---
 title: Dian Céacht 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

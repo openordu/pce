@@ -1,6 +1,6 @@
 ---
 title: Finn McCool xv, 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

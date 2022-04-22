@@ -1,6 +1,6 @@
 ---
 title: Cathal mac Fionghuine 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

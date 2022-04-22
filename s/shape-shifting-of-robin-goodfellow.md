@@ -1,6 +1,6 @@
 ---
 title: shape-shifting, of Robin Goodfellow 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

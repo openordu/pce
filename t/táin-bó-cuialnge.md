@@ -1,6 +1,6 @@
 ---
 title: Táin bó Cuialnge 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

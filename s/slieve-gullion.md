@@ -1,6 +1,6 @@
 ---
 title: Slieve Gullion 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

@@ -1,6 +1,6 @@
 ---
 title: Ó Dónaill, Mánas 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

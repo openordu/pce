@@ -1,6 +1,6 @@
 ---
 title: Mars, Rigisamus as 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

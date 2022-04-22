@@ -1,6 +1,6 @@
 ---
 title: Ruad Rofessa 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

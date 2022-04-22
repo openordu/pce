@@ -1,6 +1,6 @@
 ---
 title: Mórrígan, as washer at the ford 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

@@ -1,6 +1,6 @@
 ---
 title: Bran mac Feabhail 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

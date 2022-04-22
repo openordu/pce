@@ -1,6 +1,6 @@
 ---
 title: Isles of the Blessed 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

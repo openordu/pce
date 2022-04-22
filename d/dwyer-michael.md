@@ -1,6 +1,6 @@
 ---
 title: Dwyer, Michael 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

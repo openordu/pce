@@ -1,6 +1,6 @@
 ---
 title: Rollright Stones 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

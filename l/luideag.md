@@ -1,6 +1,6 @@
 ---
 title: luideag 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

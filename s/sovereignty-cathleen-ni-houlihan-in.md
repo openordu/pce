@@ -1,6 +1,6 @@
 ---
 title: Sovereignty, Cathleen ni Houlihan in 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

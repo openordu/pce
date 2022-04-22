@@ -1,6 +1,6 @@
 ---
 title: fod seachran 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

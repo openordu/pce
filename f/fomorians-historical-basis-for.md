@@ -1,6 +1,6 @@
 ---
 title: Fomorians, historical basis for 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

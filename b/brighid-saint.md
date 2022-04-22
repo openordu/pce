@@ -1,6 +1,6 @@
 ---
 title: Brighid, saint 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

@@ -1,6 +1,6 @@
 ---
 title: Wayland 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

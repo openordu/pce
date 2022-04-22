@@ -1,6 +1,6 @@
 ---
 title: Hulac Warren 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

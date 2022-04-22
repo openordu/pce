@@ -1,6 +1,6 @@
 ---
 title: Amhairghin Glúngheal 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

@@ -1,6 +1,6 @@
 ---
 title: Cúchulainn, Derbforgaill and 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

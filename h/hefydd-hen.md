@@ -1,6 +1,6 @@
 ---
 title: Hefydd Hen 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

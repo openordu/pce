@@ -1,6 +1,6 @@
 ---
 title: Aillén mac Midgna 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

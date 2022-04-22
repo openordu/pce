@@ -1,6 +1,6 @@
 ---
 title: Ó Conchúir, Cathal Crobhdhearg 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

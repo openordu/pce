@@ -1,6 +1,6 @@
 ---
 title: war furies 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

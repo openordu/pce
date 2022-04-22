@@ -1,6 +1,6 @@
 ---
 title: cú síth 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

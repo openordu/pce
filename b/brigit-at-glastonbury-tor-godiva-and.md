@@ -1,6 +1,6 @@
 ---
 title: Brigit, at Glastonbury Tor Godiva and 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

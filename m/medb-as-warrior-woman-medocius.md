@@ -1,6 +1,6 @@
 ---
 title: Medb, as warrior woman Medocius 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

@@ -1,6 +1,6 @@
 ---
 title: Eithne Aittencháithrech Eithne of Connacht 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

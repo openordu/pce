@@ -1,6 +1,6 @@
 ---
 title: Celtic society 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

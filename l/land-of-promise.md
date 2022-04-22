@@ -1,6 +1,6 @@
 ---
 title: Land of Promise 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

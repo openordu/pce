@@ -1,6 +1,6 @@
 ---
 title: Nanny Button-Cap Nar 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

@@ -1,6 +1,6 @@
 ---
 title: La Belle Dame sans Merci 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

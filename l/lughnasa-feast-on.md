@@ -1,6 +1,6 @@
 ---
 title: Lughnasa, feast on 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

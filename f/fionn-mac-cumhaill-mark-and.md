@@ -1,6 +1,6 @@
 ---
 title: Fionn mac Cumhaill, Mark and 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

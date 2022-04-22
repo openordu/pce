@@ -1,6 +1,6 @@
 ---
 title: Yeats, William Butler 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

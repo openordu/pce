@@ -1,6 +1,6 @@
 ---
 title: divination through touch 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

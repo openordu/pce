@@ -1,6 +1,6 @@
 ---
 title: Urnfield vi, 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

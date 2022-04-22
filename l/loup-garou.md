@@ -1,6 +1,6 @@
 ---
 title: loup-garou 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

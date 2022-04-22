@@ -1,6 +1,6 @@
 ---
 title: Eógan, son of Ailill Olom 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

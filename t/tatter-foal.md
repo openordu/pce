@@ -1,6 +1,6 @@
 ---
 title: tatter-foal 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

@@ -1,6 +1,6 @@
 ---
 title: fairy time 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

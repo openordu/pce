@@ -1,6 +1,6 @@
 ---
 title: Giant’s Causeway 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

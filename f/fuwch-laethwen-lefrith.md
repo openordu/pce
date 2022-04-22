@@ -1,6 +1,6 @@
 ---
 title: Fuwch Laethwen Lefrith 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

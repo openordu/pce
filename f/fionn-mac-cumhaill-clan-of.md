@@ -1,6 +1,6 @@
 ---
 title: Fionn mac Cumhaill, clan of 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

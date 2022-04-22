@@ -1,6 +1,6 @@
 ---
 title: Merlin, Stonehenge and 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

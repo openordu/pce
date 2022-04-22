@@ -1,6 +1,6 @@
 ---
 title: Conall Gulban 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

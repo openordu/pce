@@ -1,6 +1,6 @@
 ---
 title: Connla of the Golden Hair 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

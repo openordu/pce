@@ -1,6 +1,6 @@
 ---
 title: Sovereignty, blemished king and Cailleach and 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

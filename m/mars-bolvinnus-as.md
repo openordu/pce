@@ -1,6 +1,6 @@
 ---
 title: Mars, Bolvinnus as 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

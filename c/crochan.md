@@ -1,6 +1,6 @@
 ---
 title: Crochan 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

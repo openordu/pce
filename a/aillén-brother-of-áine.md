@@ -1,6 +1,6 @@
 ---
 title: Aillén, brother of Áine 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

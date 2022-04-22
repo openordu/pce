@@ -1,6 +1,6 @@
 ---
 title: cauldron of Llassar Llaesgyfnewid 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

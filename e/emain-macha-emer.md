@@ -1,6 +1,6 @@
 ---
 title: Emain Macha Emer 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

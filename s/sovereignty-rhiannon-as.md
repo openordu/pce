@@ -1,6 +1,6 @@
 ---
 title: Sovereignty, Rhiannon as 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

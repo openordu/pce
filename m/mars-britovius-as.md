@@ -1,6 +1,6 @@
 ---
 title: Mars, Britovius as 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

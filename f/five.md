@@ -1,6 +1,6 @@
 ---
 title: five 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

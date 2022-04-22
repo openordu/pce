@@ -1,6 +1,6 @@
 ---
 title: Tir fo Thuinn 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

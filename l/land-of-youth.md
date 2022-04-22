@@ -1,6 +1,6 @@
 ---
 title: Land of Youth 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

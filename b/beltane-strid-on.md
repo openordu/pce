@@ -1,6 +1,6 @@
 ---
 title: Beltane, Strid on 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

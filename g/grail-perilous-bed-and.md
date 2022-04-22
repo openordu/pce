@@ -1,6 +1,6 @@
 ---
 title: Grail, Perilous Bed and 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

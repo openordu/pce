@@ -1,6 +1,6 @@
 ---
 title: Bran, hunting hound 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

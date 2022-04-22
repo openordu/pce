@@ -1,6 +1,6 @@
 ---
 title: folklore movement 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

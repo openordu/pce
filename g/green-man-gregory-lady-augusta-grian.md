@@ -1,6 +1,6 @@
 ---
 title: Green Man Gregory, Lady Augusta Grian 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

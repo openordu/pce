@@ -1,6 +1,6 @@
 ---
 title: votive deposits 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

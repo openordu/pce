@@ -1,6 +1,6 @@
 ---
 title: Dinomogetimarus Dìreach 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

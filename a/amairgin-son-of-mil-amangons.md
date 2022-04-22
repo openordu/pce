@@ -1,6 +1,6 @@
 ---
 title: Amairgin, son of Mil Amangons 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

@@ -1,6 +1,6 @@
 ---
 title: Dagda, as Cera 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

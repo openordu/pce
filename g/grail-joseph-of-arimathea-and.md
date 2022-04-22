@@ -1,6 +1,6 @@
 ---
 title: Grail, Joseph of Arimathea and 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

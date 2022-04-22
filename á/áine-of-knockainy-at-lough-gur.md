@@ -1,6 +1,6 @@
 ---
 title: Áine of Knockainy, at Lough Gur 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

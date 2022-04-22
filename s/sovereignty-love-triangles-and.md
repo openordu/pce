@@ -1,6 +1,6 @@
 ---
 title: Sovereignty, love triangles and 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

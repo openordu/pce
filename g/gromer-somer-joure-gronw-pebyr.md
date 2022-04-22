@@ -1,6 +1,6 @@
 ---
 title: Gromer Somer Joure Gronw Pebyr 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

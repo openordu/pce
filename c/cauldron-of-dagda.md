@@ -1,6 +1,6 @@
 ---
 title: cauldron of Dagda 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

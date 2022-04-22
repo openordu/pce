@@ -1,6 +1,6 @@
 ---
 title: blood 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

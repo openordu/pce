@@ -1,6 +1,6 @@
 ---
 title: divination through letters 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

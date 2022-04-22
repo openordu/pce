@@ -1,6 +1,6 @@
 ---
 title: Flothal 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

@@ -1,6 +1,6 @@
 ---
 title: Green Ladies 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

@@ -1,6 +1,6 @@
 ---
 title: Fir Bolg, Rudraige of 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

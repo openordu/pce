@@ -1,6 +1,6 @@
 ---
 title: snatching by the sídhe 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

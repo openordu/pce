@@ -1,6 +1,6 @@
 ---
 title: Cúchulainn, in Ulster Cycle 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

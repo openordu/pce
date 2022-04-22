@@ -1,6 +1,6 @@
 ---
 title: Áine of Knockainy 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

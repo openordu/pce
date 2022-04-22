@@ -1,6 +1,6 @@
 ---
 title: Napoleon I 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

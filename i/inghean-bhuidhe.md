@@ -1,6 +1,6 @@
 ---
 title: Inghean Bhuidhe 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

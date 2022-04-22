@@ -1,6 +1,6 @@
 ---
 title: teinm laeda 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

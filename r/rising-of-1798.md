@@ -1,6 +1,6 @@
 ---
 title: Rising of 1798 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

@@ -1,6 +1,6 @@
 ---
 title: Merlin, magic practiced by palace of 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

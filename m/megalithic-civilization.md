@@ -1,6 +1,6 @@
 ---
 title: megalithic civilization 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

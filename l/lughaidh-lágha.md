@@ -1,6 +1,6 @@
 ---
 title: Lughaidh Lágha 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

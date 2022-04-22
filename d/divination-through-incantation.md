@@ -1,6 +1,6 @@
 ---
 title: divination through incantation 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

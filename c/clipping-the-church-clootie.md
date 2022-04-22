@@ -1,6 +1,6 @@
 ---
 title: clipping the church clootie 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

@@ -1,6 +1,6 @@
 ---
 title: Tuireann, Sons of 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

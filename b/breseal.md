@@ -1,6 +1,6 @@
 ---
 title: Breseal 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

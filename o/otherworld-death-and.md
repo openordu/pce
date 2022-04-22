@@ -1,6 +1,6 @@
 ---
 title: Otherworld, death and 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

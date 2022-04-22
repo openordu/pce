@@ -1,6 +1,6 @@
 ---
 title: Laoghaire, son of Niall Lasair 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

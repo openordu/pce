@@ -1,6 +1,6 @@
 ---
 title: druids/druidesses 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

@@ -1,6 +1,6 @@
 ---
 title: Cúchulainn, Ulstermen 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

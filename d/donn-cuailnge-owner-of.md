@@ -1,6 +1,6 @@
 ---
 title: Donn Cuailnge, owner of 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

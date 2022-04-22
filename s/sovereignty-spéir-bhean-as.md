@@ -1,6 +1,6 @@
 ---
 title: Sovereignty, spéir-bhean as 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

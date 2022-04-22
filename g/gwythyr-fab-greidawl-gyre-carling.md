@@ -1,6 +1,6 @@
 ---
 title: Gwythyr fab Greidawl Gyre-Carling 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

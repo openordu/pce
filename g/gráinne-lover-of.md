@@ -1,6 +1,6 @@
 ---
 title: Gráinne, lover of 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

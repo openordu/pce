@@ -1,6 +1,6 @@
 ---
 title: Rhydderch Hael 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

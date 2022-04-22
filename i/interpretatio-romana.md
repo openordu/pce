@@ -1,6 +1,6 @@
 ---
 title: Interpretatio Romana 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

@@ -1,6 +1,6 @@
 ---
 title: Táin bó Cuialnge, Sualtaim mac Roich in 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

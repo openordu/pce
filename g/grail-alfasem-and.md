@@ -1,6 +1,6 @@
 ---
 title: Grail, Alfasem and 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

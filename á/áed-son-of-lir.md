@@ -1,6 +1,6 @@
 ---
 title: Áed, son of Lir 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

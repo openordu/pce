@@ -1,6 +1,6 @@
 ---
 title: Cobhthach Caol 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

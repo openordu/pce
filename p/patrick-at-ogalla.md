@@ -1,6 +1,6 @@
 ---
 title: Patrick, at Ogalla 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

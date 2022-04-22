@@ -1,6 +1,6 @@
 ---
 title: Uí Néill 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

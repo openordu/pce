@@ -1,6 +1,6 @@
 ---
 title: pledge to the elements plowing 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

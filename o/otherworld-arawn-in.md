@@ -1,6 +1,6 @@
 ---
 title: Otherworld, Arawn in 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

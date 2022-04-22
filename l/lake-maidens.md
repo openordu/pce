@@ -1,6 +1,6 @@
 ---
 title: lake maidens 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

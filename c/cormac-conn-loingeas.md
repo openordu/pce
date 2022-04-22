@@ -1,6 +1,6 @@
 ---
 title: Cormac Conn Loingeas 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

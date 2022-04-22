@@ -1,6 +1,6 @@
 ---
 title: Diarmait Ua Duibne, Midac killed by 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

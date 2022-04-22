@@ -1,6 +1,6 @@
 ---
 title: Morfessa 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

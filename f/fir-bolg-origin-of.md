@@ -1,6 +1,6 @@
 ---
 title: Fir Bolg, origin of 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

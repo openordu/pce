@@ -1,6 +1,6 @@
 ---
 title: Dáire mac Fiachan 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

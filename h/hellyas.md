@@ -1,6 +1,6 @@
 ---
 title: Hellyas 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

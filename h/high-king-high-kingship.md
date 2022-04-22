@@ -1,6 +1,6 @@
 ---
 title: high-king/high-kingship 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

@@ -1,6 +1,6 @@
 ---
 title: Poisoned Glen 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

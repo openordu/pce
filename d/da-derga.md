@@ -1,6 +1,6 @@
 ---
 title: Da Derga 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

@@ -1,6 +1,6 @@
 ---
 title: Cairbre mac Éadaoine 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

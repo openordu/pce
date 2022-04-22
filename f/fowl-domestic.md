@@ -1,6 +1,6 @@
 ---
 title: fowl, domestic 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

@@ -1,6 +1,6 @@
 ---
 title: Cathleen ni Houlihan 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

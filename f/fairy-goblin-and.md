@@ -1,6 +1,6 @@
 ---
 title: fairy, goblin and 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

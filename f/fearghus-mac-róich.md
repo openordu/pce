@@ -1,6 +1,6 @@
 ---
 title: Fearghus mac Róich 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

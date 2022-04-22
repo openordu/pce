@@ -1,6 +1,6 @@
 ---
 title: Aodh Ruadh R6-Fheasa 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

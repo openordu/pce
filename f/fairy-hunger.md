@@ -1,6 +1,6 @@
 ---
 title: fairy hunger 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

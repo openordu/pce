@@ -1,6 +1,6 @@
 ---
 title: power of the word 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

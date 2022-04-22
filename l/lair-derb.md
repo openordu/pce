@@ -1,6 +1,6 @@
 ---
 title: Lair Derb 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

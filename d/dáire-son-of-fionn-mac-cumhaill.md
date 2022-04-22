@@ -1,6 +1,6 @@
 ---
 title: Dáire, son of Fionn mac Cumhaill 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

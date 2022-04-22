@@ -1,6 +1,6 @@
 ---
 title: gwartheg y llyn 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

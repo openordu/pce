@@ -1,6 +1,6 @@
 ---
 title: Leodegrance 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

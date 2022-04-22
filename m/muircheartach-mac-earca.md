@@ -1,6 +1,6 @@
 ---
 title: Muircheartach mac Earca 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

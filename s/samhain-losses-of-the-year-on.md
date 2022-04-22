@@ -1,6 +1,6 @@
 ---
 title: Samhain, losses of the year on 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

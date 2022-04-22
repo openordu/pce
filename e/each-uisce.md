@@ -1,6 +1,6 @@
 ---
 title: each uisce 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

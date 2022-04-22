@@ -1,6 +1,6 @@
 ---
 title: cosmology, reincarnation in 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

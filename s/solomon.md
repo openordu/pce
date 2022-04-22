@@ -1,6 +1,6 @@
 ---
 title: Solomon 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

@@ -1,6 +1,6 @@
 ---
 title: Dáire of the Poems 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

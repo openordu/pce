@@ -1,6 +1,6 @@
 ---
 title: Elin Gow 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

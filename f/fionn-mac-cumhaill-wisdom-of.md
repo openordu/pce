@@ -1,6 +1,6 @@
 ---
 title: Fionn mac Cumhaill, wisdom of 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

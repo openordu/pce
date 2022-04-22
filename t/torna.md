@@ -1,6 +1,6 @@
 ---
 title: Torna 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

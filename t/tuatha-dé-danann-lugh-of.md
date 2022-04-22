@@ -1,6 +1,6 @@
 ---
 title: Tuatha Dé Danann, Lugh of 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

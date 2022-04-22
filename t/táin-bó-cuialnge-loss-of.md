@@ -1,6 +1,6 @@
 ---
 title: Táin bó Cuialnge, loss of 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

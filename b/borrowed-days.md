@@ -1,6 +1,6 @@
 ---
 title: borrowed days 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

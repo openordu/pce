@@ -1,6 +1,6 @@
 ---
 title: fairy kidnapping, of Áed 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

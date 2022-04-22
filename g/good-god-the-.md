@@ -1,6 +1,6 @@
 ---
 title: Good God, The  
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

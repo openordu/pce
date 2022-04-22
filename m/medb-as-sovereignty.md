@@ -1,6 +1,6 @@
 ---
 title: Medb, as Sovereignty 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

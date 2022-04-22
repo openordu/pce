@@ -1,6 +1,6 @@
 ---
 title: Seven Bishops 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

@@ -1,6 +1,6 @@
 ---
 title: pregnancy, through drinking or eating 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

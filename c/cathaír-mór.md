@@ -1,6 +1,6 @@
 ---
 title: Cathaír Mór 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

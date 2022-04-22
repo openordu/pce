@@ -1,6 +1,6 @@
 ---
 title: Concobar mac Nessa, mother of 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

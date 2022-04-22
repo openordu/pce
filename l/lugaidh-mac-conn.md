@@ -1,6 +1,6 @@
 ---
 title: Lugaidh mac Conn 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

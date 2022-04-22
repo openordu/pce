@@ -1,6 +1,6 @@
 ---
 title: Dea Nutr 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

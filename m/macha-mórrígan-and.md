@@ -1,6 +1,6 @@
 ---
 title: Macha, Mórrígan and 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

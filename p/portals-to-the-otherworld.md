@@ -1,6 +1,6 @@
 ---
 title: portals to the Otherworld 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

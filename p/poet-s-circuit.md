@@ -1,6 +1,6 @@
 ---
 title: poet’s circuit 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

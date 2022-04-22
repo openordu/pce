@@ -1,6 +1,6 @@
 ---
 title: togail 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

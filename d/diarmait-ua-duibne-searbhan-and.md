@@ -1,6 +1,6 @@
 ---
 title: Diarmait Ua Duibne, Searbhan and 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

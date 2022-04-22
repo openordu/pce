@@ -1,6 +1,6 @@
 ---
 title: Mac Dathó 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

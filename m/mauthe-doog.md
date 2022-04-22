@@ -1,6 +1,6 @@
 ---
 title: Mauthe Doog 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

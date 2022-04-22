@@ -1,6 +1,6 @@
 ---
 title: Áine of Knockainy, Munster and 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

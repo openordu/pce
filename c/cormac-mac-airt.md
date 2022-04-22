@@ -1,6 +1,6 @@
 ---
 title: Cormac mac Airt 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

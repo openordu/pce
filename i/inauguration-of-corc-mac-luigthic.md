@@ -1,6 +1,6 @@
 ---
 title: inauguration, of Corc mac Luigthic 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

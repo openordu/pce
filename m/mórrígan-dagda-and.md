@@ -1,6 +1,6 @@
 ---
 title: Mórrígan, Dagda and 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

@@ -1,6 +1,6 @@
 ---
 title: Eochaid mac Eirc 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

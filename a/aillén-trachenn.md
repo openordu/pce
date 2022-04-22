@@ -1,6 +1,6 @@
 ---
 title: Aillén Trachenn 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

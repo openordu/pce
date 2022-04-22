@@ -1,6 +1,6 @@
 ---
 title: Laoghaire Buach 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

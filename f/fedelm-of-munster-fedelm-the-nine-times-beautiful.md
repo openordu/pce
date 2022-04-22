@@ -1,6 +1,6 @@
 ---
 title: Fedelm of Munster Fedelm the Nine-Times Beautiful 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

@@ -1,6 +1,6 @@
 ---
 title: I 
-showinsidebar: true 
+index: false 
 article: false 
 icon: category 
 ---

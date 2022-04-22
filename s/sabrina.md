@@ -1,6 +1,6 @@
 ---
 title: Sabrina 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

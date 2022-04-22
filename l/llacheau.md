@@ -1,6 +1,6 @@
 ---
 title: Llacheau 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

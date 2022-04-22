@@ -1,6 +1,6 @@
 ---
 title: féith na filíochta 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

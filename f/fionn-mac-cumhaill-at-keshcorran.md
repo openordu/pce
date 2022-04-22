@@ -1,6 +1,6 @@
 ---
 title: Fionn mac Cumhaill, at Keshcorran 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

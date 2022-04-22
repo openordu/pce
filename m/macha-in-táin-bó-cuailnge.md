@@ -1,6 +1,6 @@
 ---
 title: Macha, in Táin bó Cuailnge 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

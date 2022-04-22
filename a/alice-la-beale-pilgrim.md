@@ -1,6 +1,6 @@
 ---
 title: Alice la Beale Pilgrim 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

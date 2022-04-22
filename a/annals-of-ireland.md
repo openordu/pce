@@ -1,6 +1,6 @@
 ---
 title: Annals of Ireland 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

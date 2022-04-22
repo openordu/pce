@@ -1,6 +1,6 @@
 ---
 title: Diarmait Ua Duibne, ancestor goddess of ball seirc of 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

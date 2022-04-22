@@ -1,6 +1,6 @@
 ---
 title: Ó Maoilriain, Éamonn an Chnoic 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

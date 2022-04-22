@@ -1,6 +1,6 @@
 ---
 title: Mac Dhomhnaill, Alasdair 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

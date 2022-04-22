@@ -1,6 +1,6 @@
 ---
 title: áes dána 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

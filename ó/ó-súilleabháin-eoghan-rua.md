@@ -1,6 +1,6 @@
 ---
 title: Ó Súilleabháin, Eoghan Rua 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

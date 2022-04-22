@@ -1,6 +1,6 @@
 ---
 title: court tomb 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

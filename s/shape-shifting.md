@@ -1,6 +1,6 @@
 ---
 title: shape-shifting 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

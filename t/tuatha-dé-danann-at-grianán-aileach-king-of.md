@@ -1,6 +1,6 @@
 ---
 title: Tuatha Dé Danann, at Grianán Aileach king of 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

@@ -1,6 +1,6 @@
 ---
 title: Plant Annwn 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

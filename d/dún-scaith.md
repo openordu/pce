@@ -1,6 +1,6 @@
 ---
 title: Dún Scaith 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

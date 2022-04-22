@@ -1,6 +1,6 @@
 ---
 title: O Caoimh, Dónall Na Cásca 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

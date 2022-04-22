@@ -1,6 +1,6 @@
 ---
 title: de Courcy, John 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

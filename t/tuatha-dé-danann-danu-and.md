@@ -1,6 +1,6 @@
 ---
 title: Tuatha Dé Danann, Danu and 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

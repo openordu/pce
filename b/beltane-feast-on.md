@@ -1,6 +1,6 @@
 ---
 title: Beltane, feast on 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

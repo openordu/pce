@@ -1,6 +1,6 @@
 ---
 title: Étain, mother of Cormac mac Airt 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

@@ -1,6 +1,6 @@
 ---
 title: Eithne, wife of Elcmar Elaine 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

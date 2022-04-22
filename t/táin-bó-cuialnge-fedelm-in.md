@@ -1,6 +1,6 @@
 ---
 title: Táin bó Cuialnge, Fedelm in 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

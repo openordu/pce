@@ -1,6 +1,6 @@
 ---
 title: fairy, protection against 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

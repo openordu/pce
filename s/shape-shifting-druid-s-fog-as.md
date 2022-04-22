@@ -1,6 +1,6 @@
 ---
 title: shape-shifting, druid’s fog as 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

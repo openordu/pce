@@ -1,6 +1,6 @@
 ---
 title: Devil 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

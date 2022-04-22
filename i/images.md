@@ -1,6 +1,6 @@
 ---
 title: images 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

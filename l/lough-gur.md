@@ -1,6 +1,6 @@
 ---
 title: Lough Gur 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

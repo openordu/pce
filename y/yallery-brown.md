@@ -1,6 +1,6 @@
 ---
 title: Yallery Brown 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

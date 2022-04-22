@@ -1,6 +1,6 @@
 ---
 title: Plur na mBan 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

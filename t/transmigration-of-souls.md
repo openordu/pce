@@ -1,6 +1,6 @@
 ---
 title: transmigration of souls 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

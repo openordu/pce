@@ -1,6 +1,6 @@
 ---
 title: widdershins 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

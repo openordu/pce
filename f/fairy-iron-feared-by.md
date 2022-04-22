@@ -1,6 +1,6 @@
 ---
 title: fairy, iron feared by 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

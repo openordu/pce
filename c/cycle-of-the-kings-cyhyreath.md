@@ -1,6 +1,6 @@
 ---
 title: Cycle of the Kings Cyhyreath 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

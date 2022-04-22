@@ -1,6 +1,6 @@
 ---
 title: Far Liath 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

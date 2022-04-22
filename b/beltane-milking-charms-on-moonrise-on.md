@@ -1,6 +1,6 @@
 ---
 title: Beltane, milking charms on moonrise on 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

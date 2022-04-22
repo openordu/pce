@@ -1,6 +1,6 @@
 ---
 title: Sovereignty, in Historical Cycle horse and 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

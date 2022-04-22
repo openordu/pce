@@ -1,6 +1,6 @@
 ---
 title: Ceithearnach Caoilriabhach 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

@@ -1,6 +1,6 @@
 ---
 title: Fir Bolg, in Mythological Cycle 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

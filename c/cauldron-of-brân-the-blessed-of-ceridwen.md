@@ -1,6 +1,6 @@
 ---
 title: cauldron of Brân the Blessed of Ceridwen 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

@@ -1,6 +1,6 @@
 ---
 title: Étain, father of 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

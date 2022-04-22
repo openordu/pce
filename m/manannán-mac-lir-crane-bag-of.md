@@ -1,6 +1,6 @@
 ---
 title: Manannán mac Lir, crane bag of 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

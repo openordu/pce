@@ -1,6 +1,6 @@
 ---
 title: Arthur, foster brother of 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

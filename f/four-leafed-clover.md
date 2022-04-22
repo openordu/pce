@@ -1,6 +1,6 @@
 ---
 title: four-leafed clover 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

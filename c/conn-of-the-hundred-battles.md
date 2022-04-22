@@ -1,6 +1,6 @@
 ---
 title: Conn of the Hundred Battles 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

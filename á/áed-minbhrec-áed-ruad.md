@@ -1,6 +1,6 @@
 ---
 title: Áed Minbhrec    Áed Ruad 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

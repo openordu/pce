@@ -1,6 +1,6 @@
 ---
 title: inauguration, buada in 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

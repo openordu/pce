@@ -1,6 +1,6 @@
 ---
 title: Sovereignty, Loathy Lady as 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

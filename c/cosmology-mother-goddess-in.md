@@ -1,6 +1,6 @@
 ---
 title: cosmology, mother goddess in 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

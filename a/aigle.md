@@ -1,6 +1,6 @@
 ---
 title: Aigle 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

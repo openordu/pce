@@ -1,6 +1,6 @@
 ---
 title: Hill of Tara 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

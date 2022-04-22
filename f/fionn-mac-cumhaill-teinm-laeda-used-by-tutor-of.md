@@ -1,6 +1,6 @@
 ---
 title: Fionn mac Cumhaill, teinm laeda used by tutor of 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

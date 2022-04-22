@@ -1,6 +1,6 @@
 ---
 title: Beag mac Dé 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

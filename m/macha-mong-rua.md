@@ -1,6 +1,6 @@
 ---
 title: Macha Mong Rua 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

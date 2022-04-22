@@ -1,6 +1,6 @@
 ---
 title: Diarmait Ua Duibne, geis of 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

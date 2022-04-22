@@ -1,6 +1,6 @@
 ---
 title: Abhartach mac Ildathaigh 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

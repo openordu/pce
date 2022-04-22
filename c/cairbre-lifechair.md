@@ -1,6 +1,6 @@
 ---
 title: Cairbre Lifechair 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

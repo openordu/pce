@@ -1,6 +1,6 @@
 ---
 title: Murchadh mac Briain 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

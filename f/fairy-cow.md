@@ -1,6 +1,6 @@
 ---
 title: fairy cow 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

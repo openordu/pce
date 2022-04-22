@@ -1,6 +1,6 @@
 ---
 title: Mag Réin 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

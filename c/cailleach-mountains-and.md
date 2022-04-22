@@ -1,6 +1,6 @@
 ---
 title: Cailleach, mountains and 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

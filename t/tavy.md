@@ -1,6 +1,6 @@
 ---
 title: Tavy 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

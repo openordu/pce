@@ -1,6 +1,6 @@
 ---
 title: Fintan the salmon 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

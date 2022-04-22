@@ -1,6 +1,6 @@
 ---
 title: I Breasil 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

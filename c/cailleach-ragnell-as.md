@@ -1,6 +1,6 @@
 ---
 title: Cailleach, Ragnell as 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

@@ -1,6 +1,6 @@
 ---
 title: Devil’s Mother 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

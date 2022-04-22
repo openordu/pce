@@ -1,6 +1,6 @@
 ---
 title: Diarmait mac Murchada 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

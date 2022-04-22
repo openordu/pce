@@ -1,6 +1,6 @@
 ---
 title: Stone of Divisions 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

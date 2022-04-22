@@ -1,6 +1,6 @@
 ---
 title: Crón 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

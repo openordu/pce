@@ -1,6 +1,6 @@
 ---
 title: Mac Giolla Ghunna, Cathal Buí 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

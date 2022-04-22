@@ -1,6 +1,6 @@
 ---
 title: Cailleach, Munster and 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

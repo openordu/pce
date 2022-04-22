@@ -1,6 +1,6 @@
 ---
 title: druid’s egg 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

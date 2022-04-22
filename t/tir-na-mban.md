@@ -1,6 +1,6 @@
 ---
 title: Tir na mBan 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

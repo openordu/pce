@@ -1,6 +1,6 @@
 ---
 title: Cairbre Nia Fer 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

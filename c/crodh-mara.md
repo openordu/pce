@@ -1,6 +1,6 @@
 ---
 title: crodh mara 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

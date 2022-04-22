@@ -1,6 +1,6 @@
 ---
 title: Roman Empire, Celtic conflict with 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

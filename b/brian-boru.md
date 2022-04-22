@@ -1,6 +1,6 @@
 ---
 title: Brian Boru 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

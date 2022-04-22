@@ -1,6 +1,6 @@
 ---
 title: Lugaidh Laíghde 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

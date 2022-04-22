@@ -1,6 +1,6 @@
 ---
 title: Ó hAnluain, Réamonn 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

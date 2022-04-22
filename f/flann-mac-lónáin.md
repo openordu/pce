@@ -1,6 +1,6 @@
 ---
 title: Flann mac Lónáin 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

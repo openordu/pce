@@ -1,6 +1,6 @@
 ---
 title: fairy kidnapping, fairy sleep from 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

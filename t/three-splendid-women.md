@@ -1,6 +1,6 @@
 ---
 title: Three Splendid Women 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

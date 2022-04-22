@@ -1,6 +1,6 @@
 ---
 title: Crimthann of Tara Croagh Patrick 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

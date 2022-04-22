@@ -1,6 +1,6 @@
 ---
 title: Mars, Leherennus as 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

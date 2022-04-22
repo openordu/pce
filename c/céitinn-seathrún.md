@@ -1,6 +1,6 @@
 ---
 title: Céitinn, Seathrún 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

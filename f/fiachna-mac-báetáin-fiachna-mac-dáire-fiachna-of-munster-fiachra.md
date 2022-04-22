@@ -1,6 +1,6 @@
 ---
 title: Fiachna mac Báetáin Fiachna mac Dáire Fiachna of Munster Fiachra 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

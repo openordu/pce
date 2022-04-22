@@ -1,6 +1,6 @@
 ---
 title: shape-shifting, of Mórrígan 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

@@ -1,6 +1,6 @@
 ---
 title: Concobar mac Nessa, palace of 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

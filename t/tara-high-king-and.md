@@ -1,6 +1,6 @@
 ---
 title: Tara, high king and 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

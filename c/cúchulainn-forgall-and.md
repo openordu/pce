@@ -1,6 +1,6 @@
 ---
 title: Cúchulainn, Forgall and 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

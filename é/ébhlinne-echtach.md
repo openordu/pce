@@ -1,6 +1,6 @@
 ---
 title: Ébhlinne Echtach 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

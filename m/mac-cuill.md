@@ -1,6 +1,6 @@
 ---
 title: Mac Cuill 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

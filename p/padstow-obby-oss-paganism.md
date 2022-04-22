@@ -1,6 +1,6 @@
 ---
 title: Padstow Obby Oss paganism 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

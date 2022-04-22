@@ -1,6 +1,6 @@
 ---
 title: Matter of Britain 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

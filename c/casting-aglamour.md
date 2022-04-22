@@ -1,6 +1,6 @@
 ---
 title: casting aglamour 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

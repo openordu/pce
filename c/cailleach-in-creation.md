@@ -1,6 +1,6 @@
 ---
 title: Cailleach, in creation 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

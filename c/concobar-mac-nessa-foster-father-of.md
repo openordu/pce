@@ -1,6 +1,6 @@
 ---
 title: Concobar mac Nessa, foster father of 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

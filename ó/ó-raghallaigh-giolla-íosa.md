@@ -1,6 +1,6 @@
 ---
 title: Ó Raghallaigh, Giolla Íosa 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

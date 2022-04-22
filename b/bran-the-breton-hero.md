@@ -1,6 +1,6 @@
 ---
 title: Bran, the Breton hero 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

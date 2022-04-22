@@ -1,6 +1,6 @@
 ---
 title: Laying the Fairies Leborcham 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

@@ -1,6 +1,6 @@
 ---
 title: Lén Línfiaclach 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

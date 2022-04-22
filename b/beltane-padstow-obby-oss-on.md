@@ -1,6 +1,6 @@
 ---
 title: Beltane, Padstow Obby Oss on 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

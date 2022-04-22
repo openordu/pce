@@ -1,6 +1,6 @@
 ---
 title: fairy kidnapping, eating and 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

@@ -1,6 +1,6 @@
 ---
 title: losses of the year 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

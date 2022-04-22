@@ -1,6 +1,6 @@
 ---
 title: Amhairghin mac Éigit Salaigh 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

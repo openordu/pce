@@ -1,6 +1,6 @@
 ---
 title: Lughnasa, hill-climbing on 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

@@ -1,6 +1,6 @@
 ---
 title: turning the jacket 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

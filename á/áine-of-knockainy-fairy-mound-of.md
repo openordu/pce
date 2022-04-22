@@ -1,6 +1,6 @@
 ---
 title: Áine of Knockainy, fairy mound of 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

@@ -1,6 +1,6 @@
 ---
 title: Fionn mac Cumhaill, in Fenian Cycle 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

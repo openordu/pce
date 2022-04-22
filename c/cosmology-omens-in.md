@@ -1,6 +1,6 @@
 ---
 title: cosmology, omens in 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

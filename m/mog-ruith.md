@@ -1,6 +1,6 @@
 ---
 title: Mog Ruith 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

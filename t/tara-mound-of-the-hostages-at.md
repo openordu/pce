@@ -1,6 +1,6 @@
 ---
 title: Tara, Mound of the Hostages at 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

@@ -1,6 +1,6 @@
 ---
 title: god and gods 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

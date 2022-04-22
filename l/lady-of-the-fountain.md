@@ -1,6 +1,6 @@
 ---
 title: Lady of the Fountain 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

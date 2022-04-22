@@ -1,6 +1,6 @@
 ---
 title: Fomorians, Lot of 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

@@ -1,6 +1,6 @@
 ---
 title: Lough Neagh 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

@@ -1,6 +1,6 @@
 ---
 title: Lughnasa, milking charms on Óenach on 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

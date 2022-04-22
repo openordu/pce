@@ -1,6 +1,6 @@
 ---
 title: Mars, Cocidius as 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

@@ -1,6 +1,6 @@
 ---
 title: Fionn mac Cumhaill, Midac and 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

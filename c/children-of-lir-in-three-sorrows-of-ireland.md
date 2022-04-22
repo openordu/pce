@@ -1,6 +1,6 @@
 ---
 title: Children of Lir, in Three Sorrows of Ireland 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

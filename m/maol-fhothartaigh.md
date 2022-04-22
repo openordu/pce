@@ -1,6 +1,6 @@
 ---
 title: Maol Fhothartaigh 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

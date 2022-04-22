@@ -1,6 +1,6 @@
 ---
 title: tylwyth teg 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

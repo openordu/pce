@@ -1,6 +1,6 @@
 ---
 title: Ceithearn mac Fionntain 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

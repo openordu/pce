@@ -1,6 +1,6 @@
 ---
 title: Tara, in Historical Cycle kings of 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

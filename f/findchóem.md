@@ -1,6 +1,6 @@
 ---
 title: Findchóem 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

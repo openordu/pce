@@ -1,6 +1,6 @@
 ---
 title: Tuatha Dé Danann, as fairies 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

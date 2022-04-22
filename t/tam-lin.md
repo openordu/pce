@@ -1,6 +1,6 @@
 ---
 title: Tam Lin 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

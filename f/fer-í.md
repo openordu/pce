@@ -1,6 +1,6 @@
 ---
 title: Fer Í 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

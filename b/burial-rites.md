@@ -1,6 +1,6 @@
 ---
 title: burial rites 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

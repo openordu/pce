@@ -1,6 +1,6 @@
 ---
 title: ley lines 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

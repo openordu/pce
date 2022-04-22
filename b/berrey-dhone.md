@@ -1,6 +1,6 @@
 ---
 title: Berrey Dhone 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

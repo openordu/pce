@@ -1,6 +1,6 @@
 ---
 title: Tuireann 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

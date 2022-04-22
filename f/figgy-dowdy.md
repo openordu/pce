@@ -1,6 +1,6 @@
 ---
 title: Figgy Dowdy 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

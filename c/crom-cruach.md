@@ -1,6 +1,6 @@
 ---
 title: Crom Cruach 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

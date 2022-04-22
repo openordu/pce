@@ -1,6 +1,6 @@
 ---
 title: Concobar mac Nessa, Cúchulainn fostered by 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

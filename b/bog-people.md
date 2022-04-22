@@ -1,6 +1,6 @@
 ---
 title: bog people 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

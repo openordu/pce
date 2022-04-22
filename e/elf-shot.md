@@ -1,6 +1,6 @@
 ---
 title: elf-shot 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

@@ -1,6 +1,6 @@
 ---
 title: Otherworld, in cosmology 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

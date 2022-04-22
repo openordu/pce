@@ -1,6 +1,6 @@
 ---
 title: milking charms 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

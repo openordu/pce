@@ -1,6 +1,6 @@
 ---
 title: Sovereignty, geis and 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

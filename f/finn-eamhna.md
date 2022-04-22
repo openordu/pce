@@ -1,6 +1,6 @@
 ---
 title: Finn Eamhna 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

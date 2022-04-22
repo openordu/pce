@@ -1,6 +1,6 @@
 ---
 title: Midas of the Mountains, King 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

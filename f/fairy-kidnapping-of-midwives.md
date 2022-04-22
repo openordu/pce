@@ -1,6 +1,6 @@
 ---
 title: fairy kidnapping, of midwives 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

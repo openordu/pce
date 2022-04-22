@@ -1,6 +1,6 @@
 ---
 title: Haxey Hood Games hazel tree head 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

@@ -1,6 +1,6 @@
 ---
 title: Sarsfield, Patrick 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

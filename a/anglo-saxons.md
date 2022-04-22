@@ -1,6 +1,6 @@
 ---
 title: Anglo-Saxons 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

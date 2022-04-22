@@ -1,6 +1,6 @@
 ---
 title: Linton Worm 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

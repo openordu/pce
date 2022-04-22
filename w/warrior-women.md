@@ -1,6 +1,6 @@
 ---
 title: warrior women 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

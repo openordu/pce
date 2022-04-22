@@ -1,6 +1,6 @@
 ---
 title: Far Darrig 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

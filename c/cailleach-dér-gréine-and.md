@@ -1,6 +1,6 @@
 ---
 title: Cailleach, Dér Gréine and 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

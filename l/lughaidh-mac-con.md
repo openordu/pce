@@ -1,6 +1,6 @@
 ---
 title: Lughaidh mac Con 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

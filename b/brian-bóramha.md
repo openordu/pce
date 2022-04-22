@@ -1,6 +1,6 @@
 ---
 title: Brian Bóramha 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

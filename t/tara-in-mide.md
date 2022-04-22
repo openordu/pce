@@ -1,6 +1,6 @@
 ---
 title: Tara, in Mide 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

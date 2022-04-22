@@ -1,6 +1,6 @@
 ---
 title: Concobar mac Nessa, Deirdre and 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

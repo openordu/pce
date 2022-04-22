@@ -1,6 +1,6 @@
 ---
 title: witch, shape-shifting by 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

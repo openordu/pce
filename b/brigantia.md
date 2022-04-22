@@ -1,6 +1,6 @@
 ---
 title: Brigantia 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

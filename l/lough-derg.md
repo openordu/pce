@@ -1,6 +1,6 @@
 ---
 title: Lough Derg 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

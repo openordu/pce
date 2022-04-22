@@ -1,6 +1,6 @@
 ---
 title: Tuatha Dé Danann, wisdom masters of 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

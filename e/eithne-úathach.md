@@ -1,6 +1,6 @@
 ---
 title: Eithne Úathach 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

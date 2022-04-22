@@ -1,6 +1,6 @@
 ---
 title: fire, Beltane 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

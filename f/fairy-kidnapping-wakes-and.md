@@ -1,6 +1,6 @@
 ---
 title: fairy kidnapping, wakes and 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

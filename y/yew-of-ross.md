@@ -1,6 +1,6 @@
 ---
 title: Yew of Ross 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

@@ -1,6 +1,6 @@
 ---
 title: Ollamh Fódhla 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

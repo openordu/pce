@@ -1,6 +1,6 @@
 ---
 title: Garravogue Gaul 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

@@ -1,6 +1,6 @@
 ---
 title: Tadhg mac Céin 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

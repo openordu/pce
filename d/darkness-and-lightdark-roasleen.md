@@ -1,6 +1,6 @@
 ---
 title: darkness and lightDark Roasleen 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

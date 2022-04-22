@@ -1,6 +1,6 @@
 ---
 title: Táin bó Cuialnge, Cúchulainn in 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

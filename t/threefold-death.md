@@ -1,6 +1,6 @@
 ---
 title: threefold death 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

@@ -1,6 +1,6 @@
 ---
 title: Donn Ua Duibne 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

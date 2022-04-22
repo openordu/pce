@@ -1,6 +1,6 @@
 ---
 title: Breasal B6-Dhíobhadh 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

@@ -1,6 +1,6 @@
 ---
 title: Fionn mac Cumhaill, silver hair of 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

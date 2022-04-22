@@ -1,6 +1,6 @@
 ---
 title: names for the Otherworld 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

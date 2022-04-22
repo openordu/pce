@@ -1,6 +1,6 @@
 ---
 title: inauguration stones 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

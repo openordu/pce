@@ -1,6 +1,6 @@
 ---
 title: water-leaper 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

@@ -1,6 +1,6 @@
 ---
 title: wasteland 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

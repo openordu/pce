@@ -1,6 +1,6 @@
 ---
 title: Tuatha Dé Danann, Creidne of 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

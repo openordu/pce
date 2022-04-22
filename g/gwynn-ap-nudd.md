@@ -1,6 +1,6 @@
 ---
 title: Gwynn ap Nudd 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

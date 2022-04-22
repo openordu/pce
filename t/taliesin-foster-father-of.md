@@ -1,6 +1,6 @@
 ---
 title: Taliesin, foster father of 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

@@ -1,6 +1,6 @@
 ---
 title: Ocean Sweeper 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

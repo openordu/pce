@@ -1,6 +1,6 @@
 ---
 title: Hill of Uisneach 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

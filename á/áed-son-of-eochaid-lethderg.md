@@ -1,6 +1,6 @@
 ---
 title: Áed, son of Eochaid Lethderg 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

@@ -1,6 +1,6 @@
 ---
 title: Dumaitis 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

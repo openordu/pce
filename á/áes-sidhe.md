@@ -1,6 +1,6 @@
 ---
 title: áes sidhe 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

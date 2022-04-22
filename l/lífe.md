@@ -1,6 +1,6 @@
 ---
 title: Lífe 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

@@ -1,6 +1,6 @@
 ---
 title: Diarmaid mac Cearrbheoil 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

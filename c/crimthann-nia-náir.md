@@ -1,6 +1,6 @@
 ---
 title: Crimthann Nia Náir 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

@@ -1,6 +1,6 @@
 ---
 title: Otherworld, as Mag Mell 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

@@ -1,6 +1,6 @@
 ---
 title: Ailill mac Máta 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

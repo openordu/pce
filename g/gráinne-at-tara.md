@@ -1,6 +1,6 @@
 ---
 title: Gráinne, at Tara 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

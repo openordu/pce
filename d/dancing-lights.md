@@ -1,6 +1,6 @@
 ---
 title: dancing lights 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

@@ -1,6 +1,6 @@
 ---
 title: Glas Ghoibhneann 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

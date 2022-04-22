@@ -1,6 +1,6 @@
 ---
 title: Hallowe’en 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

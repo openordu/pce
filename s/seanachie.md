@@ -1,6 +1,6 @@
 ---
 title: seanachie 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

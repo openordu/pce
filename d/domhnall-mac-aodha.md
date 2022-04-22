@@ -1,6 +1,6 @@
 ---
 title: Domhnall mac Aodha 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

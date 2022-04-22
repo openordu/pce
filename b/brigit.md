@@ -1,6 +1,6 @@
 ---
 title: Brigit 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

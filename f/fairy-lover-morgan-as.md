@@ -1,6 +1,6 @@
 ---
 title: fairy lover, Morgan as 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

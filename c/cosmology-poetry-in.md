@@ -1,6 +1,6 @@
 ---
 title: cosmology, poetry in 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

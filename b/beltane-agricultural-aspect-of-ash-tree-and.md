@@ -1,6 +1,6 @@
 ---
 title: Beltane, agricultural aspect of ash tree and 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

@@ -1,6 +1,6 @@
 ---
 title: boggart 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

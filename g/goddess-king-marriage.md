@@ -1,6 +1,6 @@
 ---
 title: goddess-king marriage 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

@@ -1,6 +1,6 @@
 ---
 title: Fianna, Cycle of Myth 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

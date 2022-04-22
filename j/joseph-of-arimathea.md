@@ -1,6 +1,6 @@
 ---
 title: Joseph of Arimathea 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

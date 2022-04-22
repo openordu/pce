@@ -1,6 +1,6 @@
 ---
 title: Blue Men of the Minch 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

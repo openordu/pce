@@ -1,6 +1,6 @@
 ---
 title: amphibians, reptiles and molluscs 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

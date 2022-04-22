@@ -1,6 +1,6 @@
 ---
 title: Áed Alain 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

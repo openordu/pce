@@ -1,6 +1,6 @@
 ---
 title: Áine of Knockainy, chair of 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

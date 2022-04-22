@@ -1,6 +1,6 @@
 ---
 title: Concobar mac Nessa, in Táin bó Cuailnge in Ulster Cycle 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

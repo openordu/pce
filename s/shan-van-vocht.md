@@ -1,6 +1,6 @@
 ---
 title: Shan Van Vocht 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

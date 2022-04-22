@@ -1,6 +1,6 @@
 ---
 title: Lady of the Lake 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

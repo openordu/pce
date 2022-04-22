@@ -1,6 +1,6 @@
 ---
 title: sun, cosmological concept 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

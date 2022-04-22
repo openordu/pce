@@ -1,6 +1,6 @@
 ---
 title: harvest dollies 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

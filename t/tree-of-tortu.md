@@ -1,6 +1,6 @@
 ---
 title: Tree of Tortu 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

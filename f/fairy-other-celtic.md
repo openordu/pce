@@ -1,6 +1,6 @@
 ---
 title: fairy, other Celtic 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

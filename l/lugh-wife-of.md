@@ -1,6 +1,6 @@
 ---
 title: Lugh, wife of 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

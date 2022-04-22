@@ -1,6 +1,6 @@
 ---
 title: Eochaid Mugmedón Eochaid Ollathair eó fis 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

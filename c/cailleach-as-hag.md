@@ -1,6 +1,6 @@
 ---
 title: Cailleach, as hag 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

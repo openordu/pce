@@ -1,6 +1,6 @@
 ---
 title: Toice Bhrean 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

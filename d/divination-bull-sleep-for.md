@@ -1,6 +1,6 @@
 ---
 title: divination, bull-sleep for 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

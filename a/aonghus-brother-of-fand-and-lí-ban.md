@@ -1,6 +1,6 @@
 ---
 title: Aonghus, brother of Fand and Lí Ban 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

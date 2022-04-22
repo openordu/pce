@@ -1,6 +1,6 @@
 ---
 title: animal divination 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

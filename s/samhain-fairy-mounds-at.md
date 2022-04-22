@@ -1,6 +1,6 @@
 ---
 title: Samhain, fairy mounds at 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

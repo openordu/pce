@@ -1,6 +1,6 @@
 ---
 title: Ní Mhathúna, Máire Rua 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

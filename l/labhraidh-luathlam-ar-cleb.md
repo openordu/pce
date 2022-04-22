@@ -1,6 +1,6 @@
 ---
 title: Labhraidh Luathlam ar Cleb 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

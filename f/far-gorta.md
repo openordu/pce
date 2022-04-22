@@ -1,6 +1,6 @@
 ---
 title: Far Gorta 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

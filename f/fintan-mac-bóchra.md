@@ -1,6 +1,6 @@
 ---
 title: Fintan mac Bóchra 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

@@ -1,6 +1,6 @@
 ---
 title: Celtic people 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

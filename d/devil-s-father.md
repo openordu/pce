@@ -1,6 +1,6 @@
 ---
 title: Devil’s Father 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

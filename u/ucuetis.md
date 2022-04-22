@@ -1,6 +1,6 @@
 ---
 title: Ucuetis 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

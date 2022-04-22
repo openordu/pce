@@ -1,6 +1,6 @@
 ---
 title: Concobar mac Nessa, Maine and 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

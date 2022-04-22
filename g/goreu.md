@@ -1,6 +1,6 @@
 ---
 title: Goreu 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

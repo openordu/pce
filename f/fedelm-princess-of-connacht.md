@@ -1,6 +1,6 @@
 ---
 title: Fedelm, princess of Connacht 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

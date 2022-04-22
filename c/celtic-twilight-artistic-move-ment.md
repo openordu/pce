@@ -1,6 +1,6 @@
 ---
 title: Celtic Twilight artistic move ment 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

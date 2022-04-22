@@ -1,6 +1,6 @@
 ---
 title: Dubhthach Daol Uladh 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

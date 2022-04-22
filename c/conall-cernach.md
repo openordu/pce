@@ -1,6 +1,6 @@
 ---
 title: Conall Cernach 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

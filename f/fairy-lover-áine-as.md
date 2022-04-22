@@ -1,6 +1,6 @@
 ---
 title: fairy lover, Áine as 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

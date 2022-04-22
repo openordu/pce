@@ -1,6 +1,6 @@
 ---
 title: Patrick, Beltane fire of 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

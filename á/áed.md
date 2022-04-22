@@ -1,6 +1,6 @@
 ---
 title: Áed 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

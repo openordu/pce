@@ -1,6 +1,6 @@
 ---
 title: Crom Dubh Cromlech 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

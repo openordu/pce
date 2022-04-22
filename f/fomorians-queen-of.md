@@ -1,6 +1,6 @@
 ---
 title: Fomorians, queen of 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

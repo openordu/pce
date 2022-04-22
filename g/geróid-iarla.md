@@ -1,6 +1,6 @@
 ---
 title: Geróid Iarla 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

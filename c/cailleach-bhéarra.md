@@ -1,6 +1,6 @@
 ---
 title: Cailleach Bhéarra 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

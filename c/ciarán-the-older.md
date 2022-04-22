@@ -1,6 +1,6 @@
 ---
 title: Ciarán the older 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

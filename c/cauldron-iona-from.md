@@ -1,6 +1,6 @@
 ---
 title: cauldron, Iona from 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

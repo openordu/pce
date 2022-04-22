@@ -1,6 +1,6 @@
 ---
 title: Táin bó Cuialnge, Donn Bó in 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

@@ -1,6 +1,6 @@
 ---
 title: Mars, Nodens as 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

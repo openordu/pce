@@ -1,6 +1,6 @@
 ---
 title: É 
-showinsidebar: true 
+index: false 
 article: false 
 icon: category 
 ---

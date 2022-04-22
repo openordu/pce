@@ -1,6 +1,6 @@
 ---
 title: Summer Land 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

@@ -1,6 +1,6 @@
 ---
 title: Mag Muirthemne Magog 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

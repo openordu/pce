@@ -1,6 +1,6 @@
 ---
 title: Cerne Abbas Giant 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

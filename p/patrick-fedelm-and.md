@@ -1,6 +1,6 @@
 ---
 title: Patrick, Fedelm and 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

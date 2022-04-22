@@ -1,6 +1,6 @@
 ---
 title: Samhain, ancestors on 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

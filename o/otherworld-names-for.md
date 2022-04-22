@@ -1,6 +1,6 @@
 ---
 title: Otherworld, names for 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

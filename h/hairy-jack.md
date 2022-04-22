@@ -1,6 +1,6 @@
 ---
 title: Hairy Jack 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

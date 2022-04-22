@@ -1,6 +1,6 @@
 ---
 title: hoard 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

@@ -1,6 +1,6 @@
 ---
 title: fairy lover, of Launfal 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

@@ -1,6 +1,6 @@
 ---
 title: Samhain, thinness on 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

@@ -1,6 +1,6 @@
 ---
 title: Brighid, mythical figure 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

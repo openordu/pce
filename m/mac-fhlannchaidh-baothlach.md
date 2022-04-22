@@ -1,6 +1,6 @@
 ---
 title: Mac Fhlannchaidh, Baothlach 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

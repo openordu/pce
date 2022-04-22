@@ -1,6 +1,6 @@
 ---
 title: Garb Mac Stairn 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

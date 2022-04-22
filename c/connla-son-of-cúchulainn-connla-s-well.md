@@ -1,6 +1,6 @@
 ---
 title: Connla, son of Cúchulainn Connla’s Well 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

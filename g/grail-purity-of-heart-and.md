@@ -1,6 +1,6 @@
 ---
 title: Grail, purity of heart and 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

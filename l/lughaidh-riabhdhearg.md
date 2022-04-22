@@ -1,6 +1,6 @@
 ---
 title: Lughaidh Riabhdhearg 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

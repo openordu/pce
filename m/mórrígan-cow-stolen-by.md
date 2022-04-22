@@ -1,6 +1,6 @@
 ---
 title: Mórrígan, cow stolen by 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

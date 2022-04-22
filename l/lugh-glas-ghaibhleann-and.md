@@ -1,6 +1,6 @@
 ---
 title: Lugh, Glas Ghaibhleann and 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

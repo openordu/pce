@@ -1,6 +1,6 @@
 ---
 title: Feiritéar, Piaras 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

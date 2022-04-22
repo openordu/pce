@@ -1,6 +1,6 @@
 ---
 title: Corc Duibhne 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

@@ -1,6 +1,6 @@
 ---
 title: Manannán mac Lir, Tuag and 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

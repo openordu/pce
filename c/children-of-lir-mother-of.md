@@ -1,6 +1,6 @@
 ---
 title: Children of Lir, mother of 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

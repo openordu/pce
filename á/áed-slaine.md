@@ -1,6 +1,6 @@
 ---
 title: Áed Slaine 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

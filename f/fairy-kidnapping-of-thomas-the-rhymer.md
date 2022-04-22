@@ -1,6 +1,6 @@
 ---
 title: fairy kidnapping, of Thomas the Rhymer 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

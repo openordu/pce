@@ -1,6 +1,6 @@
 ---
 title: inauguration, at Tintagel 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

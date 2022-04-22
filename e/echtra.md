@@ -1,6 +1,6 @@
 ---
 title: echtra 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

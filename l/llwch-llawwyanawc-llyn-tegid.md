@@ -1,6 +1,6 @@
 ---
 title: Llwch Llawwyanawc Llyn Tegid 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

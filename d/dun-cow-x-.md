@@ -1,6 +1,6 @@
 ---
 title: Dun Cow x,    
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

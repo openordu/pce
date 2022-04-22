@@ -1,6 +1,6 @@
 ---
 title: Lleu Llaw Gyffes 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

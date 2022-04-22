@@ -1,6 +1,6 @@
 ---
 title: Tegau Eurfron 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

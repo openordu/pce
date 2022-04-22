@@ -1,6 +1,6 @@
 ---
 title: Mac Moincanta 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

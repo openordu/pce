@@ -1,6 +1,6 @@
 ---
 title: Cúchulainn, in Intocation of the 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

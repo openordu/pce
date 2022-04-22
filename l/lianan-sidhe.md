@@ -1,6 +1,6 @@
 ---
 title: Lianan Sidhe 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

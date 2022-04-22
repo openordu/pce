@@ -1,6 +1,6 @@
 ---
 title: Ó Súilleabháin Béarra, Dónall Cam 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

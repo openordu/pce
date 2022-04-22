@@ -1,6 +1,6 @@
 ---
 title: Cúchulainn, weapon of 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

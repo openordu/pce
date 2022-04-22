@@ -1,6 +1,6 @@
 ---
 title: Tuatha Dé Danann, Lia Fáil of 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

@@ -1,6 +1,6 @@
 ---
 title: Cailleach, Sheela na Gig as 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

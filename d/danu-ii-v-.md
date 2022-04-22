@@ -1,6 +1,6 @@
 ---
 title: Danu ii, v,   
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

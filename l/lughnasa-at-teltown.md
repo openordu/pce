@@ -1,6 +1,6 @@
 ---
 title: Lughnasa, at Teltown 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

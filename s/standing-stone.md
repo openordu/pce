@@ -1,6 +1,6 @@
 ---
 title: standing stone 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

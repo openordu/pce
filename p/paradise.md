@@ -1,6 +1,6 @@
 ---
 title: Paradise 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

@@ -1,6 +1,6 @@
 ---
 title: inauguration, in sacral kingship 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

@@ -1,6 +1,6 @@
 ---
 title: Tuatha Dé Danann, Dôn and 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

@@ -1,6 +1,6 @@
 ---
 title: Otherworld, hounds of 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

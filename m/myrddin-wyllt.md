@@ -1,6 +1,6 @@
 ---
 title: Myrddin Wyllt 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

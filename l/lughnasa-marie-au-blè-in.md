@@ -1,6 +1,6 @@
 ---
 title: Lughnasa, Marie au Blè in 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

@@ -1,6 +1,6 @@
 ---
 title: Fir Domnann 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

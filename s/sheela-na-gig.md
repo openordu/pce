@@ -1,6 +1,6 @@
 ---
 title: Sheela na Gig 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

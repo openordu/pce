@@ -1,6 +1,6 @@
 ---
 title: G 
-showinsidebar: true 
+index: false 
 article: false 
 icon: category 
 ---

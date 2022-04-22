@@ -1,6 +1,6 @@
 ---
 title: Cromwell, Oliver 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

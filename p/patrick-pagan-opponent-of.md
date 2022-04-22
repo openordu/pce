@@ -1,6 +1,6 @@
 ---
 title: Patrick, pagan opponent of 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

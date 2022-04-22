@@ -1,6 +1,6 @@
 ---
 title: Fianna, Abarta in 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

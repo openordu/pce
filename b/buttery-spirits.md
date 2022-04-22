@@ -1,6 +1,6 @@
 ---
 title: buttery spirits 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

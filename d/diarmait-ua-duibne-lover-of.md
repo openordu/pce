@@ -1,6 +1,6 @@
 ---
 title: Diarmait Ua Duibne, lover of 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

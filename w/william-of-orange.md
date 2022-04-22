@@ -1,6 +1,6 @@
 ---
 title: William of Orange 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

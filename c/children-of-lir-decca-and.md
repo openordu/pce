@@ -1,6 +1,6 @@
 ---
 title: Children of Lir, Decca and 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

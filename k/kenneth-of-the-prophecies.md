@@ -1,6 +1,6 @@
 ---
 title: Kenneth of the Prophecies 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

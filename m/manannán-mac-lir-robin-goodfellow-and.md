@@ -1,6 +1,6 @@
 ---
 title: Manannán mac Lir, Robin Goodfellow and 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

@@ -1,6 +1,6 @@
 ---
 title: Eithne Ingubai 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

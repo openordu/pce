@@ -1,6 +1,6 @@
 ---
 title: Diarmaid mac Aodha Sláine 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

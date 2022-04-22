@@ -1,6 +1,6 @@
 ---
 title: Aífe of the crane bag 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

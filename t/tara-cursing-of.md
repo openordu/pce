@@ -1,6 +1,6 @@
 ---
 title: Tara, cursing of 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

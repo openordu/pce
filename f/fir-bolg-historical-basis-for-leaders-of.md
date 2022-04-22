@@ -1,6 +1,6 @@
 ---
 title: Fir Bolg, historical basis for leaders of 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

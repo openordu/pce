@@ -1,6 +1,6 @@
 ---
 title: inauguration, at well 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

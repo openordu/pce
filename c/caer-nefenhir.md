@@ -1,6 +1,6 @@
 ---
 title: Caer Nefenhir 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

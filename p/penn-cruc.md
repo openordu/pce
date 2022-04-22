@@ -1,6 +1,6 @@
 ---
 title: Penn Cruc 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

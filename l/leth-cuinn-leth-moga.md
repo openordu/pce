@@ -1,6 +1,6 @@
 ---
 title: Leth Cuinn, Leth Moga 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

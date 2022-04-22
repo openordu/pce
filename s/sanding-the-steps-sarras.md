@@ -1,6 +1,6 @@
 ---
 title: sanding the steps Sarras 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

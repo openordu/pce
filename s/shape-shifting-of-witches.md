@@ -1,6 +1,6 @@
 ---
 title: shape-shifting, of witches 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

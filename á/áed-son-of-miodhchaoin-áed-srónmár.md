@@ -1,6 +1,6 @@
 ---
 title: Áed, son of Miodhchaoin Áed Srónmár 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

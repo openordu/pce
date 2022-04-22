@@ -1,6 +1,6 @@
 ---
 title: Étain, lover of Eochaid Fedlech 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

@@ -1,6 +1,6 @@
 ---
 title: Tigernmas 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

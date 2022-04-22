@@ -1,6 +1,6 @@
 ---
 title: Purr Mooar 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

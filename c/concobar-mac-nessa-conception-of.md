@@ -1,6 +1,6 @@
 ---
 title: Concobar mac Nessa, conception of 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

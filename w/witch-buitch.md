@@ -1,6 +1,6 @@
 ---
 title: witch, Buitch 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---

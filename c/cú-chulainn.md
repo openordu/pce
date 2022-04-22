@@ -1,6 +1,6 @@
 ---
 title: Cú Chulainn 
-showinsidebar: true 
+index: false 
 article: false 
 icon: article 
 ---
