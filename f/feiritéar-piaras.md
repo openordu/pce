@@ -2,5 +2,7 @@
 title: Feiritéar, Piaras 
 index: false
 article: false 
-icon: article 
+icon: article
+next: fenian-cycle.md
+prev: feircheirdne.md
 ---

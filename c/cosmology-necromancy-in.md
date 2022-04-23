@@ -2,5 +2,7 @@
 title: cosmology, necromancy in 
 index: false
 article: false 
-icon: article 
+icon: article
+next: cosmology-night-in.md
+prev: cosmology-nature-in.md
 ---

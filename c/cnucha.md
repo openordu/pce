@@ -2,5 +2,7 @@
 title: Cnucha 
 index: false
 article: false 
-icon: article 
+icon: article
+next: cnú-dearóil.md
+prev: cnoc-ailinee.md
 ---

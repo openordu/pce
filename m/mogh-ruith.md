@@ -2,5 +2,7 @@
 title: Mogh Ruith 
 index: false
 article: false 
-icon: article 
+icon: article
+next: mogons.md
+prev: mogetius.md
 ---

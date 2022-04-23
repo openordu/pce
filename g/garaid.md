@@ -2,5 +2,7 @@
 title: Garaid 
 index: false
 article: false 
-icon: article 
+icon: article
+next: garb-mac-stairn.md
+prev: ganore.md
 ---

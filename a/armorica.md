@@ -2,5 +2,7 @@
 title: Armorica 
 index: false
 article: false 
-icon: article 
+icon: article
+next: arnemetia.md
+prev: aristotle.md
 ---

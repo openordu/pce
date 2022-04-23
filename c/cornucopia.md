@@ -2,5 +2,7 @@
 title: cornucopia 
 index: false
 article: false 
-icon: article 
+icon: article
+next: cosmology.md
+prev: coins.md
 ---

@@ -2,5 +2,7 @@
 title: Leinster 
 index: false
 article: false 
-icon: article 
+icon: article
+next: len.md
+prev: leherennus.md
 ---

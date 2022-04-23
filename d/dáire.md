@@ -2,5 +2,7 @@
 title: Dáire 
 index: false
 article: false 
-icon: article 
+icon: article
+next: dáire-derg.md
+prev: dylan.md
 ---

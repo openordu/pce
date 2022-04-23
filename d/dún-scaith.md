@@ -2,5 +2,7 @@
 title: Dún Scaith 
 index: false
 article: false 
-icon: article 
+icon: article
+next: eachlach-urlair.md
+prev: dún-delgan.md
 ---

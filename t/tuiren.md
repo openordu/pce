@@ -2,5 +2,7 @@
 title: Tuiren 
 index: false
 article: false 
-icon: article 
+icon: article
+next: turgesius.md
+prev: tuireann-sons-of.md
 ---

@@ -2,5 +2,7 @@
 title: spring 
 index: false
 article: false 
-icon: article 
+icon: article
+next: spring-equinox.md
+prev: spriggans.md
 ---

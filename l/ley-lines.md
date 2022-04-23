@@ -2,5 +2,7 @@
 title: ley lines 
 index: false
 article: false 
-icon: article 
+icon: article
+next: literacy.md
+prev: leprechaun-xv-.md
 ---

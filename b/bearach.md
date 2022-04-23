@@ -2,5 +2,7 @@
 title: Bearach 
 index: false
 article: false 
-icon: article 
+icon: article
+next: bearchán.md
+prev: beag-mac-dé.md
 ---

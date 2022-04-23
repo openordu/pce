@@ -2,5 +2,7 @@
 title: nygel 
 index: false
 article: false 
-icon: article 
+icon: article
+next: oak-tree.md
+prev: numbers.md
 ---

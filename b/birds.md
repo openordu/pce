@@ -2,5 +2,7 @@
 title: birds 
 index: false
 article: false 
-icon: article 
+icon: article
+next: birth.md
+prev: bird.md
 ---

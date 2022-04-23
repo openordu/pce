@@ -2,5 +2,7 @@
 title: Gwyar 
 index: false
 article: false 
-icon: article 
+icon: article
+next: gwyddno.md
+prev: gwri.md
 ---

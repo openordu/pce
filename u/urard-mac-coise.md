@@ -2,5 +2,7 @@
 title: Urard mac Coise 
 index: false
 article: false 
-icon: article 
+icon: article
+next: urban.md
+prev: unseelie-court.md
 ---

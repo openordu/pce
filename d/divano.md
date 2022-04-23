@@ -2,5 +2,7 @@
 title: Divano 
 index: false
 article: false 
-icon: article 
+icon: article
+next: dobharchú.md
+prev: dis-pater.md
 ---

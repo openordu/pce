@@ -2,5 +2,7 @@
 title: rebirth 
 index: false
 article: false 
-icon: article 
+icon: article
+next: red-handed-king.md
+prev: raven.md
 ---

@@ -2,5 +2,7 @@
 title: Sithchenn 
 index: false
 article: false 
-icon: article 
+icon: article
+next: skye.md
+prev: sirona.md
 ---

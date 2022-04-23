@@ -2,5 +2,7 @@
 title: eagle 
 index: false
 article: false 
-icon: article 
+icon: article
+next: east.md
+prev: each-uisce.md
 ---

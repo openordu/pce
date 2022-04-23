@@ -2,5 +2,7 @@
 title: Grail, Lancelot and 
 index: false
 article: false 
-icon: article 
+icon: article
+next: grail-nasciens-and.md
+prev: grail-joseph-of-arimathea-and.md
 ---

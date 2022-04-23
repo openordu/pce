@@ -2,5 +2,7 @@
 title: Llacheau 
 index: false
 article: false 
-icon: article 
+icon: article
+next: llassar-llaesgyfnewid-llefelys.md
+prev: litavis.md
 ---

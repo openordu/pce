@@ -2,5 +2,7 @@
 title: Lífe 
 index: false
 article: false 
-icon: article 
+icon: article
+next: lóequre-búadach-loireag.md
+prev: lí-ban.md
 ---

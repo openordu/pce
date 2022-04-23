@@ -2,5 +2,7 @@
 title: Liadhain 
 index: false
 article: false 
-icon: article 
+icon: article
+next: lianan-sidhe.md
+prev: liadan.md
 ---

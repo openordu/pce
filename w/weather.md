@@ -2,5 +2,7 @@
 title: weather 
 index: false
 article: false 
-icon: article 
+icon: article
+next: well.md
+prev: weasel.md
 ---

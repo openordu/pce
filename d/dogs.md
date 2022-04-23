@@ -2,5 +2,7 @@
 title: dogs 
 index: false
 article: false 
-icon: article 
+icon: article
+next: dolmen.md
+prev: dog.md
 ---

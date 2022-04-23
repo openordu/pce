@@ -2,5 +2,7 @@
 title: Tomás Mór 
 index: false
 article: false 
-icon: article 
+icon: article
+next: tor.md
+prev: tommy-rawhead.md
 ---

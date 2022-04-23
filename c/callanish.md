@@ -2,5 +2,7 @@
 title: Callanish 
 index: false
 article: false 
-icon: article 
+icon: article
+next: callirius.md
+prev: caliburn.md
 ---

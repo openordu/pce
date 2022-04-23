@@ -2,5 +2,7 @@
 title: Lenumius 
 index: false
 article: false 
-icon: article 
+icon: article
+next: lenus.md
+prev: len.md
 ---

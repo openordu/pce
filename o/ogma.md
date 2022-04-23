@@ -2,5 +2,7 @@
 title: Ogma 
 index: false
 article: false 
-icon: article 
+icon: article
+next: ogmia.md
+prev: oghma.md
 ---

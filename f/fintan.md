@@ -2,5 +2,7 @@
 title: Fintan 
 index: false
 article: false 
-icon: article 
+icon: article
+next: fintan-mac-bóchra.md
+prev: finnéces.md
 ---

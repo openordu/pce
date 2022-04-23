@@ -2,5 +2,7 @@
 title: Owein 
 index: false
 article: false 
-icon: article 
+icon: article
+next: oweynagat.md
+prev: otherworld.md
 ---

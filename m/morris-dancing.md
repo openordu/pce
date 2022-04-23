@@ -2,5 +2,7 @@
 title: morris dancing 
 index: false
 article: false 
-icon: article 
+icon: article
+next: mother-goddess.md
+prev: moon.md
 ---

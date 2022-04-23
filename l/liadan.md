@@ -2,5 +2,7 @@
 title: Liadan 
 index: false
 article: false 
-icon: article 
+icon: article
+next: liadhain.md
+prev: lia-fáil.md
 ---

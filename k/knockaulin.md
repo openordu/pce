@@ -2,5 +2,7 @@
 title: Knockaulin 
 index: false
 article: false 
-icon: article 
+icon: article
+next: knockerfierna.md
+prev: knockainy.md
 ---

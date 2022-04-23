@@ -2,5 +2,7 @@
 title: Craiftine 
 index: false
 article: false 
-icon: article 
+icon: article
+next: craiphtine.md
+prev: craebhnat.md
 ---

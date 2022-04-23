@@ -2,5 +2,7 @@
 title: Balor 
 index: false
 article: false 
-icon: article 
+icon: article
+next: ban-naemha.md
+prev: balin.md
 ---

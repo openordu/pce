@@ -2,5 +2,7 @@
 title: Ucuetis 
 index: false
 article: false 
-icon: article 
+icon: article
+next: uffington.md
+prev: uathach.md
 ---

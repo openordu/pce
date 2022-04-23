@@ -2,5 +2,7 @@
 title: Leodegrance 
 index: false
 article: false 
-icon: article 
+icon: article
+next: leth-cuinn-leth-moga.md
+prev: lenus.md
 ---

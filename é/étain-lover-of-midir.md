@@ -2,5 +2,7 @@
 title: Étain, lover of Midir 
 index: false
 article: false 
-icon: article 
+icon: article
+next: étain-mother-of-cormac-mac-airt.md
+prev: étain-lover-of-eógan-mór.md
 ---

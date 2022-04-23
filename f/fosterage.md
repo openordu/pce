@@ -2,5 +2,7 @@
 title: fosterage 
 index: false
 article: false 
-icon: article 
+icon: article
+next: four-leafed-clover.md
+prev: folktale.md
 ---

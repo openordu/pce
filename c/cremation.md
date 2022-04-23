@@ -2,5 +2,7 @@
 title: cremation 
 index: false
 article: false 
-icon: article 
+icon: article
+next: crodh-mara.md
+prev: creation.md
 ---

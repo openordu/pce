@@ -2,5 +2,7 @@
 title: humorous tales 
 index: false
 article: false 
-icon: article 
+icon: article
+next: hungry-grass.md
+prev: human-sacrifice-v-.md
 ---

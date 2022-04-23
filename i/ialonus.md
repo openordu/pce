@@ -2,5 +2,7 @@
 title: Ialonus 
 index: false
 article: false 
-icon: article 
+icon: article
+next: iarbanel.md
+prev: i-breasil.md
 ---

@@ -2,5 +2,7 @@
 title: Mercury 
 index: false
 article: false 
-icon: article 
+icon: article
+next: merlin.md
+prev: melwas.md
 ---

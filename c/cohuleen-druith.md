@@ -2,5 +2,7 @@
 title: cohuleen druith 
 index: false
 article: false 
-icon: article 
+icon: article
+next: coins.md
+prev: cock.md
 ---

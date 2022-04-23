@@ -2,5 +2,7 @@
 title: Mongán 
 index: false
 article: false 
-icon: article 
+icon: article
+next: moninne.md
+prev: mongfhionn.md
 ---

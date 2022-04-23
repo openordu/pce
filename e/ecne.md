@@ -2,5 +2,7 @@
 title: Ecne 
 index: false
 article: false 
-icon: article 
+icon: article
+next: ector.md
+prev: echthge.md
 ---

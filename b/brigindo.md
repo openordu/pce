@@ -2,5 +2,7 @@
 title: Brigindo 
 index: false
 article: false 
-icon: article 
+icon: article
+next: brigit.md
+prev: brighid-saint.md
 ---

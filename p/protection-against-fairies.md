@@ -2,5 +2,7 @@
 title: protection against fairies 
 index: false
 article: false 
-icon: article 
+icon: article
+next: province-.md
+prev: prophecy.md
 ---

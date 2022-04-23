@@ -2,5 +2,7 @@
 title: sun, cosmological concept 
 index: false
 article: false 
-icon: article 
+icon: article
+next: superstition.md
+prev: submerged-city.md
 ---

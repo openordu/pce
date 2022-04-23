@@ -2,5 +2,7 @@
 title: hammer 
 index: false
 article: false 
-icon: article 
+icon: article
+next: hare.md
+prev: hair.md
 ---

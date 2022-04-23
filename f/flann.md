@@ -2,5 +2,7 @@
 title: Flann 
 index: false
 article: false 
-icon: article 
+icon: article
+next: flann-mac-lónáin.md
+prev: flaith.md
 ---

@@ -2,5 +2,7 @@
 title: insects 
 index: false
 article: false 
-icon: article 
+icon: article
+next: intocation.md
+prev: inscriptions.md
 ---

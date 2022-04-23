@@ -2,5 +2,7 @@
 title: Mis 
 index: false
 article: false 
-icon: article 
+icon: article
+next: mithras.md
+prev: minerva.md
 ---

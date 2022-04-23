@@ -2,5 +2,7 @@
 title: Otherworld, birds in 
 index: false
 article: false 
-icon: article 
+icon: article
+next: otherworld-cows-of.md
+prev: otherworld-as-mag-mell.md
 ---

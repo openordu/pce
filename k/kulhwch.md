@@ -2,5 +2,7 @@
 title: Kulhwch 
 index: false
 article: false 
-icon: article 
+icon: article
+next: kulhwch-and-olwen.md
+prev: korrigans.md
 ---

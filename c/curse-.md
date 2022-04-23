@@ -2,5 +2,7 @@
 title: curse     
 index: false
 article: false 
-icon: article 
+icon: article
+next: curse-of.md
+prev: curad-mír.md
 ---

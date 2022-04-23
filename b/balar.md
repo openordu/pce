@@ -2,5 +2,7 @@
 title: Balar 
 index: false
 article: false 
-icon: article 
+icon: article
+next: balin.md
+prev: balan.md
 ---

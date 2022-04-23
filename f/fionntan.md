@@ -2,5 +2,7 @@
 title: Fionntan 
 index: false
 article: false 
-icon: article 
+icon: article
+next: fionnuala.md
+prev: fionnchú.md
 ---

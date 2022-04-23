@@ -2,5 +2,7 @@
 title: five 
 index: false
 article: false 
-icon: article 
+icon: article
+next: foawr.md
+prev: fish.md
 ---

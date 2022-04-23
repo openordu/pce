@@ -2,5 +2,7 @@
 title: Esus 
 index: false
 article: false 
-icon: article 
+icon: article
+next: esyllt.md
+prev: erriapus.md
 ---

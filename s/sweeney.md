@@ -2,5 +2,7 @@
 title: Sweeney 
 index: false
 article: false 
-icon: article 
+icon: article
+next: swift-jonathan.md
+prev: sutugius.md
 ---

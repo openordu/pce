@@ -2,5 +2,7 @@
 title: tulman 
 index: false
 article: false 
-icon: article 
+icon: article
+next: turning-the-jacket.md
+prev: tuath.md
 ---

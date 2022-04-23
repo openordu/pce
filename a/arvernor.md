@@ -2,5 +2,7 @@
 title: Arvernor 
 index: false
 article: false 
-icon: article 
+icon: article
+next: asenora.md
+prev: arvalus.md
 ---

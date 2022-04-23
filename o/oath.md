@@ -2,5 +2,7 @@
 title: oath 
 index: false
 article: false 
-icon: article 
+icon: article
+next: ogham.md
+prev: oakmen.md
 ---

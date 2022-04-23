@@ -2,5 +2,7 @@
 title: cosmology, gods in 
 index: false
 article: false 
-icon: article 
+icon: article
+next: cosmology-heaven-in.md
+prev: cosmology-goddesses-in.md
 ---

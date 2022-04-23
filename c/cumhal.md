@@ -2,5 +2,7 @@
 title: cumhal 
 index: false
 article: false 
-icon: article 
+icon: article
+next: cup.md
+prev: crow.md
 ---

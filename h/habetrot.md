@@ -2,5 +2,7 @@
 title: Habetrot 
 index: false
 article: false 
-icon: article 
+icon: article
+next: habondia.md
+prev: gáilióin.md
 ---

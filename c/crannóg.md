@@ -2,5 +2,7 @@
 title: Crannóg 
 index: false
 article: false 
-icon: article 
+icon: article
+next: creiddylad.md
+prev: crandelmass.md
 ---

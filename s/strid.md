@@ -2,5 +2,7 @@
 title: Strid 
 index: false
 article: false 
-icon: article 
+icon: article
+next: sucellus.md
+prev: stonehenge.md
 ---

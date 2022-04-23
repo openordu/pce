@@ -2,5 +2,7 @@
 title: Lochlann 
 index: false
 article: false 
-icon: article 
+icon: article
+next: long-man.md
+prev: locha.md
 ---

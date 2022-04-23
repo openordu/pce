@@ -2,5 +2,7 @@
 title: Gaiar 
 index: false
 article: false 
-icon: article 
+icon: article
+next: gaiblín.md
+prev: gahmuret.md
 ---

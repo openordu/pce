@@ -2,5 +2,7 @@
 title: Fionn mac Cumhaill, wisdom of 
 index: false
 article: false 
-icon: article 
+icon: article
+next: fionn-mac-cumhaill-wives-of.md
+prev: uigreann.md
 ---

@@ -2,5 +2,7 @@
 title: Celtic people 
 index: false
 article: false 
-icon: article 
+icon: article
+next: celtic-people-definition-of.md
+prev: celtic-pantheon.md
 ---

@@ -2,5 +2,7 @@
 title: Enid 
 index: false
 article: false 
-icon: article 
+icon: article
+next: eochaid.md
+prev: emain-macha-emer.md
 ---

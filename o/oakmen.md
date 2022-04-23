@@ -2,5 +2,7 @@
 title: oakmen 
 index: false
 article: false 
-icon: article 
+icon: article
+next: oath.md
+prev: oak-tree.md
 ---

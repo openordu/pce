@@ -2,5 +2,7 @@
 title: Cromwell, Oliver 
 index: false
 article: false 
-icon: article 
+icon: article
+next: cruachan.md
+prev: crom-dubh-cromlech.md
 ---

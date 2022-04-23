@@ -1,8 +1,8 @@
 ---
 title: S 
-index: 9587
+index: 411
 article: false 
-icon: category 
+icon: folder 
 ---
 1. [See](s/see.md)
 1. [Scenmed](s/scenmed.md)

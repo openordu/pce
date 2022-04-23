@@ -2,5 +2,7 @@
 title: crodh mara 
 index: false
 article: false 
-icon: article 
+icon: article
+next: crooker.md
+prev: cremation.md
 ---

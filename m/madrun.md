@@ -2,5 +2,7 @@
 title: Madrun 
 index: false
 article: false 
-icon: article 
+icon: article
+next: maedoc.md
+prev: madgy-figgy.md
 ---

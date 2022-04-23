@@ -2,5 +2,7 @@
 title: Hy-Brâzil 
 index: false
 article: false 
-icon: article 
+icon: article
+next: hyperboreans.md
+prev: hulac-warren.md
 ---

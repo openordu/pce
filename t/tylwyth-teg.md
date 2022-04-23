@@ -2,5 +2,7 @@
 title: tylwyth teg 
 index: false
 article: false 
-icon: article 
+icon: article
+next: tyrants.md
+prev: two.md
 ---

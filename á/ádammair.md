@@ -2,5 +2,7 @@
 title: Ádammair 
 index: false
 article: false 
-icon: article 
+icon: article
+next: áeb.md
+prev: yarkins.md
 ---

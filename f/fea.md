@@ -2,5 +2,7 @@
 title: Fea 
 index: false
 article: false 
-icon: article 
+icon: article
+next: fear-diadh.md
+prev: faughart.md
 ---

@@ -2,5 +2,7 @@
 title: Easter 
 index: false
 article: false 
-icon: article 
+icon: article
+next: eba.md
+prev: easal.md
 ---

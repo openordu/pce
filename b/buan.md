@@ -2,5 +2,7 @@
 title: Buan 
 index: false
 article: false 
-icon: article 
+icon: article
+next: buitch.md
+prev: brú-na-bóinne.md
 ---

@@ -2,5 +2,7 @@
 title: Cesair 
 index: false
 article: false 
-icon: article 
+icon: article
+next: cet.md
+prev: cernunnos.md
 ---

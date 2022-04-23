@@ -2,5 +2,7 @@
 title: Gareth 
 index: false
 article: false 
-icon: article 
+icon: article
+next: gargantua.md
+prev: garb-mac-stairn.md
 ---

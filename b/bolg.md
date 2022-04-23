@@ -2,5 +2,7 @@
 title: Bolg 
 index: false
 article: false 
-icon: article 
+icon: article
+next: bolvinnus.md
+prev: bog-of-allen.md
 ---

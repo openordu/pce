@@ -2,5 +2,7 @@
 title: Aíbgréne 
 index: false
 article: false 
-icon: article 
+icon: article
+next: aífe.md
+prev: aí.md
 ---

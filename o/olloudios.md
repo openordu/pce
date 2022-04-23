@@ -2,5 +2,7 @@
 title: Olloudios 
 index: false
 article: false 
-icon: article 
+icon: article
+next: olmec.md
+prev: ollototae.md
 ---

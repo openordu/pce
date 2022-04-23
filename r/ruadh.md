@@ -2,5 +2,7 @@
 title: Ruadh 
 index: false
 article: false 
-icon: article 
+icon: article
+next: ruadhán.md
+prev: ruad-rofessa.md
 ---

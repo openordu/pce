@@ -2,5 +2,7 @@
 title: Aodh Ruadh R6-Fheasa 
 index: false
 article: false 
-icon: article 
+icon: article
+next: aodh-sláine.md
+prev: aodh-eangach.md
 ---

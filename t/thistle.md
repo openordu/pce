@@ -2,5 +2,7 @@
 title: thistle 
 index: false
 article: false 
-icon: article 
+icon: article
+next: thorn-tree.md
+prev: thinness.md
 ---

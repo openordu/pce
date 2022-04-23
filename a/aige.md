@@ -2,5 +2,7 @@
 title: Aige 
 index: false
 article: false 
-icon: article 
+icon: article
+next: aigle.md
+prev: aifi.md
 ---

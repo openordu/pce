@@ -2,5 +2,7 @@
 title: Clíona 
 index: false
 article: false 
-icon: article 
+icon: article
+next: cnabetius.md
+prev: clídna.md
 ---

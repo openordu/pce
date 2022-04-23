@@ -2,5 +2,7 @@
 title: Uí Néill 
 index: false
 article: false 
-icon: article 
+icon: article
+next: varia.md
+prev: uí-mhaine.md
 ---

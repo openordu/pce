@@ -2,5 +2,7 @@
 title: decapitation 
 index: false
 article: false 
-icon: article 
+icon: article
+next: deer.md
+prev: death.md
 ---

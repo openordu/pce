@@ -2,5 +2,7 @@
 title: Aleine 
 index: false
 article: false 
-icon: article 
+icon: article
+next: alend.md
+prev: albior.md
 ---

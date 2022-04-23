@@ -2,5 +2,7 @@
 title: Dubthach 
 index: false
 article: false 
-icon: article 
+icon: article
+next: duibne.md
+prev: dubinn.md
 ---

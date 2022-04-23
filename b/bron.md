@@ -2,5 +2,7 @@
 title: Bron 
 index: false
 article: false 
-icon: article 
+icon: article
+next: bronach.md
+prev: brocéliande.md
 ---

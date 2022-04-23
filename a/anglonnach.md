@@ -2,5 +2,7 @@
 title: Anglonnach 
 index: false
 article: false 
-icon: article 
+icon: article
+next: angwish.md
+prev: anglo-saxons.md
 ---

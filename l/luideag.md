@@ -2,5 +2,7 @@
 title: luideag 
 index: false
 article: false 
-icon: article 
+icon: article
+next: lunantishee.md
+prev: lubber.md
 ---

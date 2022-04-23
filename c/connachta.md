@@ -2,5 +2,7 @@
 title: Connachta 
 index: false
 article: false 
-icon: article 
+icon: article
+next: connla.md
+prev: connacht.md
 ---

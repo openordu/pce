@@ -1,7 +1,7 @@
 ---
 title: Z 
-index: 7809
+index: 2189
 article: false 
-icon: category 
+icon: folder 
 ---
 1. [Zeus](z/zeus.md)

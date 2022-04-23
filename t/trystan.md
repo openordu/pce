@@ -2,5 +2,7 @@
 title: Trystan 
 index: false
 article: false 
-icon: article 
+icon: article
+next: tuag.md
+prev: tryamour.md
 ---

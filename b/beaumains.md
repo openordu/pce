@@ -2,5 +2,7 @@
 title: Beaumains 
 index: false
 article: false 
-icon: article 
+icon: article
+next: bebo.md
+prev: beare.md
 ---

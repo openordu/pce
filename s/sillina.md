@@ -2,5 +2,7 @@
 title: Sillina 
 index: false
 article: false 
-icon: article 
+icon: article
+next: silvanus.md
+prev: silkie.md
 ---

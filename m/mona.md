@@ -2,5 +2,7 @@
 title: Mona 
 index: false
 article: false 
-icon: article 
+icon: article
+next: monday-tuesday.md
+prev: molua.md
 ---

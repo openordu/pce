@@ -2,5 +2,7 @@
 title: Mari Lwyd 
 index: false
 article: false 
-icon: article 
+icon: article
+next: marie-au-blè.md
+prev: march.md
 ---

@@ -2,5 +2,7 @@
 title: Iovantucarus 
 index: false
 article: false 
-icon: article 
+icon: article
+next: irish-language.md
+prev: ioua.md
 ---

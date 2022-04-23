@@ -2,5 +2,7 @@
 title: Comhghall 
 index: false
 article: false 
-icon: article 
+icon: article
+next: conaire.md
+prev: comhdhán.md
 ---

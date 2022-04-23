@@ -2,5 +2,7 @@
 title: Mug Nuadat 
 index: false
 article: false 
-icon: article 
+icon: article
+next: muilearach.md
+prev: moyturra.md
 ---

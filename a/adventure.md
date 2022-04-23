@@ -2,5 +2,7 @@
 title: adventure 
 index: false
 article: false 
-icon: article 
+icon: article
+next: afanc.md
+prev: adder.md
 ---

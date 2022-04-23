@@ -2,5 +2,7 @@
 title: Cailleach 
 index: false
 article: false 
-icon: article 
+icon: article
+next: cailleach-bhéarra.md
+prev: cailitin.md
 ---

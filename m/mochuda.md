@@ -2,5 +2,7 @@
 title: Mochuda 
 index: false
 article: false 
-icon: article 
+icon: article
+next: modron.md
+prev: mochaoi.md
 ---

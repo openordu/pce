@@ -2,5 +2,7 @@
 title: outlaws 
 index: false
 article: false 
-icon: article 
+icon: article
+next: owl.md
+prev: otter.md
 ---

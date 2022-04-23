@@ -2,5 +2,7 @@
 title: Lugaidh 
 index: false
 article: false 
-icon: article 
+icon: article
+next: lugaidh-laíghde.md
+prev: luchtar.md
 ---

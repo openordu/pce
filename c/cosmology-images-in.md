@@ -2,5 +2,7 @@
 title: cosmology, images in 
 index: false
 article: false 
-icon: article 
+icon: article
+next: cosmology-immortality-in.md
+prev: cosmology-heaven-in.md
 ---

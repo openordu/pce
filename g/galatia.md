@@ -2,5 +2,7 @@
 title: Galatia 
 index: false
 article: false 
-icon: article 
+icon: article
+next: galehodin.md
+prev: galahaut.md
 ---

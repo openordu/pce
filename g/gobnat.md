@@ -2,5 +2,7 @@
 title: Gobnat 
 index: false
 article: false 
-icon: article 
+icon: article
+next: goborchinn.md
+prev: gobnait.md
 ---

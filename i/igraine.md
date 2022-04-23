@@ -2,5 +2,7 @@
 title: Igraine 
 index: false
 article: false 
-icon: article 
+icon: article
+next: ilberg.md
+prev: igerna.md
 ---

@@ -2,5 +2,7 @@
 title: Kulhwch and Olwen 
 index: false
 article: false 
-icon: article 
+icon: article
+next: kundry.md
+prev: kulhwch.md
 ---

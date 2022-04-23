@@ -1,8 +1,8 @@
 ---
 title: L 
-index: 8736
+index: 1262
 article: false 
-icon: category 
+icon: folder 
 ---
 1. [La Belle Dame sans Merci](l/la-belle-dame-sans-merci.md)
 1. [La Tène](l/la-tène.md)

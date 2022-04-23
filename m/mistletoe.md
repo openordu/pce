@@ -2,5 +2,7 @@
 title: mistletoe 
 index: false
 article: false 
-icon: article 
+icon: article
+next: modern-legends.md
+prev: milking-charms.md
 ---

@@ -2,5 +2,7 @@
 title: Sabrina 
 index: false
 article: false 
-icon: article 
+icon: article
+next: saitada.md
+prev: sabraan.md
 ---

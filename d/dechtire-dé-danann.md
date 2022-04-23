@@ -2,5 +2,7 @@
 title: Dechtire Dé Danann 
 index: false
 article: false 
-icon: article 
+icon: article
+next: dee.md
+prev: decca.md
 ---

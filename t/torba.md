@@ -2,5 +2,7 @@
 title: Torba 
 index: false
 article: false 
-icon: article 
+icon: article
+next: torc-triath.md
+prev: tor.md
 ---

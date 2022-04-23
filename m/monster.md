@@ -2,5 +2,7 @@
 title: monster 
 index: false
 article: false 
-icon: article 
+icon: article
+next: months.md
+prev: modern-legends.md
 ---

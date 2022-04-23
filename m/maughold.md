@@ -2,5 +2,7 @@
 title: Maughold 
 index: false
 article: false 
-icon: article 
+icon: article
+next: mauher-slieve.md
+prev: matter-of-britain.md
 ---

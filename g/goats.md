@@ -2,5 +2,7 @@
 title: goats 
 index: false
 article: false 
-icon: article 
+icon: article
+next: goayr-heddagh.md
+prev: goat.md
 ---

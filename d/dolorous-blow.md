@@ -2,5 +2,7 @@
 title: dolorous blow 
 index: false
 article: false 
-icon: article 
+icon: article
+next: donkeys.md
+prev: dolmen.md
 ---

@@ -2,5 +2,7 @@
 title: borrowing fire 
 index: false
 article: false 
-icon: article 
+icon: article
+next: brehon.md
+prev: borrowed-days.md
 ---

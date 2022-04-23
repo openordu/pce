@@ -2,5 +2,7 @@
 title: fairy boat 
 index: false
 article: false 
-icon: article 
+icon: article
+next: fairy-bride.md
+prev: fairy-blast.md
 ---

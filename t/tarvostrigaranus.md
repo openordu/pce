@@ -2,5 +2,7 @@
 title: Tarvostrigaranus 
 index: false
 article: false 
-icon: article 
+icon: article
+next: tavy.md
+prev: tarbhfheis.md
 ---

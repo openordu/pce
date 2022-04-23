@@ -2,5 +2,7 @@
 title: egret 
 index: false
 article: false 
-icon: article 
+icon: article
+next: elder-tree.md
+prev: egg.md
 ---

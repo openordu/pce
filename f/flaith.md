@@ -2,5 +2,7 @@
 title: Flaith 
 index: false
 article: false 
-icon: article 
+icon: article
+next: flann.md
+prev: fitzgerald.md
 ---

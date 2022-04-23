@@ -2,5 +2,7 @@
 title: Inchiquin Indech 
 index: false
 article: false 
-icon: article 
+icon: article
+next: inghean-bhuidhe.md
+prev: inchiquin.md
 ---

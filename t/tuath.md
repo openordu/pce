@@ -2,5 +2,7 @@
 title: tuath 
 index: false
 article: false 
-icon: article 
+icon: article
+next: tulman.md
+prev: trow.md
 ---

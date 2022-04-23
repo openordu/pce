@@ -2,5 +2,7 @@
 title: Odras 
 index: false
 article: false 
-icon: article 
+icon: article
+next: oengus.md
+prev: octriallach.md
 ---

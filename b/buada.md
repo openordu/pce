@@ -2,5 +2,7 @@
 title: buada 
 index: false
 article: false 
-icon: article 
+icon: article
+next: bucca.md
+prev: brídeóg.md
 ---

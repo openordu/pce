@@ -2,5 +2,7 @@
 title: Esyllt 
 index: false
 article: false 
-icon: article 
+icon: article
+next: ethal-anbuail.md
+prev: esus.md
 ---

@@ -2,5 +2,7 @@
 title: Meath 
 index: false
 article: false 
-icon: article 
+icon: article
+next: medb.md
+prev: meadhbh.md
 ---

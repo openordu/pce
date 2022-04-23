@@ -2,5 +2,7 @@
 title: py 
 index: false
 article: false 
-icon: article 
+icon: article
+next: py-led.md
+prev: puck-.md
 ---

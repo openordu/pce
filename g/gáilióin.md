@@ -2,5 +2,7 @@
 title: Gáilióin 
 index: false
 article: false 
-icon: article 
+icon: article
+next: habetrot.md
+prev: gáe-bulga.md
 ---

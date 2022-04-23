@@ -2,5 +2,7 @@
 title: Aífe of Scotland 
 index: false
 article: false 
-icon: article 
+icon: article
+next: aífe-of-the-crane-bag.md
+prev: aífe.md
 ---

@@ -2,5 +2,7 @@
 title: Connacht 
 index: false
 article: false 
-icon: article 
+icon: article
+next: connachta.md
+prev: conn-of-the-hundred-battles.md
 ---

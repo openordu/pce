@@ -2,5 +2,7 @@
 title: Ebhla 
 index: false
 article: false 
-icon: article 
+icon: article
+next: echthge.md
+prev: eba.md
 ---

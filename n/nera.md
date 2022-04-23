@@ -2,5 +2,7 @@
 title: Nera 
 index: false
 article: false 
-icon: article 
+icon: article
+next: nerbgen.md
+prev: nentres.md
 ---

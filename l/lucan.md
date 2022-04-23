@@ -2,5 +2,7 @@
 title: Lucan 
 index: false
 article: false 
-icon: article 
+icon: article
+next: luchtar.md
+prev: lubbard-fiend.md
 ---

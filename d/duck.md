@@ -2,5 +2,7 @@
 title: duck 
 index: false
 article: false 
-icon: article 
+icon: article
+next: duellists.md
+prev: duality-dub.md
 ---

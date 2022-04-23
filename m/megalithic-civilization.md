@@ -2,5 +2,7 @@
 title: megalithic civilization 
 index: false
 article: false 
-icon: article 
+icon: article
+next: menhir.md
+prev: mead.md
 ---

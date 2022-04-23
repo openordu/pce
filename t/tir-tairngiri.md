@@ -2,5 +2,7 @@
 title: Tir Tairngiri 
 index: false
 article: false 
-icon: article 
+icon: article
+next: tir-fo-thuinn.md
+prev: tintagel.md
 ---

@@ -2,5 +2,7 @@
 title: péist 
 index: false
 article: false 
-icon: article 
+icon: article
+next: questing-beast.md
+prev: py-led.md
 ---

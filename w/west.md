@@ -2,5 +2,7 @@
 title: west 
 index: false
 article: false 
-icon: article 
+icon: article
+next: wheel.md
+prev: well-dressing.md
 ---

@@ -2,5 +2,7 @@
 title: gold 
 index: false
 article: false 
-icon: article 
+icon: article
+next: gorse.md
+prev: gods.md
 ---

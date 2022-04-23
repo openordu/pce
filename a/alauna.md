@@ -2,5 +2,7 @@
 title: Alauna 
 index: false
 article: false 
-icon: article 
+icon: article
+next: albinal.md
+prev: alain.md
 ---

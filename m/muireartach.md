@@ -2,5 +2,7 @@
 title: Muireartach 
 index: false
 article: false 
-icon: article 
+icon: article
+next: nuada.md
+prev: goll-mac-morna-grandfather-of.md
 ---

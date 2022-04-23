@@ -2,5 +2,7 @@
 title: Conall Cernach 
 index: false
 article: false 
-icon: article 
+icon: article
+next: conall-clogach.md
+prev: conall-cearnach.md
 ---

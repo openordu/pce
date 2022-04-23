@@ -2,5 +2,7 @@
 title: dolmen 
 index: false
 article: false 
-icon: article 
+icon: article
+next: dolorous-blow.md
+prev: dogs.md
 ---

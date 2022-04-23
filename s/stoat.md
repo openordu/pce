@@ -2,5 +2,7 @@
 title: stoat 
 index: false
 article: false 
-icon: article 
+icon: article
+next: stolen-bride.md
+prev: standing-stone.md
 ---

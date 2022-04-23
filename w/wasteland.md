@@ -2,5 +2,7 @@
 title: wasteland 
 index: false
 article: false 
-icon: article 
+icon: article
+next: water.md
+prev: washer-at-the-ford.md
 ---

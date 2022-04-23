@@ -2,5 +2,7 @@
 title: Sutugius 
 index: false
 article: false 
-icon: article 
+icon: article
+next: sweeney.md
+prev: summer-land.md
 ---

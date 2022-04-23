@@ -2,5 +2,7 @@
 title: transmigration of souls 
 index: false
 article: false 
-icon: article 
+icon: article
+next: treasure.md
+prev: totem.md
 ---

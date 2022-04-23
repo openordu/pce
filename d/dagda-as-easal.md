@@ -2,5 +2,7 @@
 title: Dagda, as Easal 
 index: false
 article: false 
-icon: article 
+icon: article
+next: dagda-as-ruad-rofessa.md
+prev: dagda-as-cera.md
 ---

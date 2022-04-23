@@ -2,5 +2,7 @@
 title: Eochaid 
 index: false
 article: false 
-icon: article 
+icon: article
+next: eochaid-airem.md
+prev: enid.md
 ---

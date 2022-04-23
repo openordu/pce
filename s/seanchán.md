@@ -2,5 +2,7 @@
 title: Seanchán 
 index: false
 article: false 
-icon: article 
+icon: article
+next: seanchán-toirpéist-searbhan.md
+prev: scéne.md
 ---

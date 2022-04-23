@@ -2,5 +2,7 @@
 title: Eoghan Mór 
 index: false
 article: false 
-icon: article 
+icon: article
+next: eoghanacht.md
+prev: eoghan-béal.md
 ---

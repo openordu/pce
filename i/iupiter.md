@@ -2,5 +2,7 @@
 title: Iupiter 
 index: false
 article: false 
-icon: article 
+icon: article
+next: iwein.md
+prev: iucharba.md
 ---

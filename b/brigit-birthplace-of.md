@@ -2,5 +2,7 @@
 title: Brigit, birthplace of 
 index: false
 article: false 
-icon: article 
+icon: article
+next: brigit-boar-of.md
+prev: brigit-at-glastonbury-tor-godiva-and.md
 ---

@@ -2,5 +2,7 @@
 title: Art mac Cuinn 
 index: false
 article: false 
-icon: article 
+icon: article
+next: artaios.md
+prev: art.md
 ---

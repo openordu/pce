@@ -1,8 +1,8 @@
 ---
 title: M 
-index: 9371
+index: 627
 article: false 
-icon: category 
+icon: folder 
 ---
 1. [Mórrígan](m/mórrígan.md)
 1. [Muireartach](m/muireartach.md)

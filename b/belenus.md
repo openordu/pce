@@ -2,5 +2,7 @@
 title: Belenus 
 index: false
 article: false 
-icon: article 
+icon: article
+next: beli.md
+prev: belatucadros.md
 ---

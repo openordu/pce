@@ -2,5 +2,7 @@
 title: Dreco 
 index: false
 article: false 
-icon: article 
+icon: article
+next: dryantore.md
+prev: dorraghow.md
 ---

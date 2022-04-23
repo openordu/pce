@@ -2,5 +2,7 @@
 title: away 
 index: false
 article: false 
-icon: article 
+icon: article
+next: badger.md
+prev: autumn-equinox.md
 ---

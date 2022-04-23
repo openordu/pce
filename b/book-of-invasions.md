@@ -2,5 +2,7 @@
 title: Book of Invasions 
 index: false
 article: false 
-icon: article 
+icon: article
+next: book-of-kells.md
+prev: bolvinnus.md
 ---

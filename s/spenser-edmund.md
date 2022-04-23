@@ -2,5 +2,7 @@
 title: Spenser, Edmund 
 index: false
 article: false 
-icon: article 
+icon: article
+next: sreng.md
+prev: sovereignty.md
 ---

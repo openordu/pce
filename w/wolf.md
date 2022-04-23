@@ -2,5 +2,7 @@
 title: wolf 
 index: false
 article: false 
-icon: article 
+icon: article
+next: wonder-tales.md
+prev: wodwose.md
 ---

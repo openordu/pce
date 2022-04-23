@@ -2,5 +2,7 @@
 title: Latis 
 index: false
 article: false 
-icon: article 
+icon: article
+next: latobius.md
+prev: latiaran.md
 ---

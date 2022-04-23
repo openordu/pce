@@ -2,5 +2,7 @@
 title: Ana Life 
 index: false
 article: false 
-icon: article 
+icon: article
+next: ancamna.md
+prev: amr.md
 ---

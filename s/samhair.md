@@ -2,5 +2,7 @@
 title: Samhair 
 index: false
 article: false 
-icon: article 
+icon: article
+next: sampait.md
+prev: samhain-wakes-and.md
 ---

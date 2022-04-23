@@ -2,5 +2,7 @@
 title: Annowre 
 index: false
 article: false 
-icon: article 
+icon: article
+next: annwn.md
+prev: annaugh.md
 ---

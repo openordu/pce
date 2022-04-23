@@ -2,5 +2,7 @@
 title: ancestors 
 index: false
 article: false 
-icon: article 
+icon: article
+next: animal-divination.md
+prev: amulet.md
 ---

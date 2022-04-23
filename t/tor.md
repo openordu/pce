@@ -2,5 +2,7 @@
 title: Tor 
 index: false
 article: false 
-icon: article 
+icon: article
+next: torba.md
+prev: tomás-mór.md
 ---

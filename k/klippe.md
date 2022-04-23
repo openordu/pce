@@ -2,5 +2,7 @@
 title: klippe 
 index: false
 article: false 
-icon: article 
+icon: article
+next: knitting.md
+prev: kingship.md
 ---

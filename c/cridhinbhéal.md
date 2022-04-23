@@ -2,5 +2,7 @@
 title: Cridhinbhéal 
 index: false
 article: false 
-icon: article 
+icon: article
+next: crimthann.md
+prev: creidne.md
 ---

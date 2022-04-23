@@ -2,5 +2,7 @@
 title: folktale 
 index: false
 article: false 
-icon: article 
+icon: article
+next: fosterage.md
+prev: folklore-movement.md
 ---

@@ -2,5 +2,7 @@
 title: Cruachan 
 index: false
 article: false 
-icon: article 
+icon: article
+next: crudel.md
+prev: cromwell-oliver.md
 ---

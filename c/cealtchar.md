@@ -2,5 +2,7 @@
 title: Cealtchar 
 index: false
 article: false 
-icon: article 
+icon: article
+next: ceasair.md
+prev: ceallach.md
 ---

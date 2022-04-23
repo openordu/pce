@@ -2,5 +2,7 @@
 title: Faughart 
 index: false
 article: false 
-icon: article 
+icon: article
+next: fea.md
+prev: far-liath.md
 ---

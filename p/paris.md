@@ -2,5 +2,7 @@
 title: Paris 
 index: false
 article: false 
-icon: article 
+icon: article
+next: parthalán.md
+prev: paradise.md
 ---

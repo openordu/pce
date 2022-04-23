@@ -2,5 +2,7 @@
 title: key 
 index: false
 article: false 
-icon: article 
+icon: article
+next: killeen.md
+prev: kelpie.md
 ---

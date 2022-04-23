@@ -2,5 +2,7 @@
 title: Áed Slaine 
 index: false
 article: false 
-icon: article 
+icon: article
+next: áed-husband-of-aíbell.md
+prev: áed-minbhrec-áed-ruad.md
 ---

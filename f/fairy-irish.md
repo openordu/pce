@@ -2,5 +2,7 @@
 title: fairy, Irish 
 index: false
 article: false 
-icon: article 
+icon: article
+next: fairy-faery.md
+prev: fairies.md
 ---

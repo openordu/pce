@@ -2,5 +2,7 @@
 title: Bedwyr 
 index: false
 article: false 
-icon: article 
+icon: article
+next: belatucadros.md
+prev: becfhola.md
 ---

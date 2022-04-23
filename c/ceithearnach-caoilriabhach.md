@@ -2,5 +2,7 @@
 title: Ceithearnach Caoilriabhach 
 index: false
 article: false 
-icon: article 
+icon: article
+next: cellach.md
+prev: ceithearn-mac-fionntain.md
 ---

@@ -2,5 +2,7 @@
 title: Colgrevance 
 index: false
 article: false 
-icon: article 
+icon: article
+next: coligny.md
+prev: coinchenn.md
 ---

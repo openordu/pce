@@ -2,5 +2,7 @@
 title: green 
 index: false
 article: false 
-icon: article 
+icon: article
+next: grove.md
+prev: gorse.md
 ---

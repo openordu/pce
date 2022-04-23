@@ -2,5 +2,7 @@
 title: alder tree 
 index: false
 article: false 
-icon: article 
+icon: article
+next: ale.md
+prev: aisling.md
 ---

@@ -2,5 +2,7 @@
 title: Rigani 
 index: false
 article: false 
-icon: article 
+icon: article
+next: rigatona.md
+prev: rifath-scot.md
 ---

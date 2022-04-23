@@ -2,5 +2,7 @@
 title: cosmology, quintessence in 
 index: false
 article: false 
-icon: article 
+icon: article
+next: cosmology-rainbow-in.md
+prev: cosmology-polytheism-in.md
 ---

@@ -2,5 +2,7 @@
 title: Goban Soar 
 index: false
 article: false 
-icon: article 
+icon: article
+next: gobnait.md
+prev: glewlwyd-gafaelwar-gnome.md
 ---

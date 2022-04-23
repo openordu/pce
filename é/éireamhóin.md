@@ -2,5 +2,7 @@
 title: Éireamhóin 
 index: false
 article: false 
-icon: article 
+icon: article
+next: éirinn.md
+prev: éire.md
 ---

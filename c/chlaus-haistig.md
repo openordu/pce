@@ -2,5 +2,7 @@
 title: Chlaus Haistig 
 index: false
 article: false 
-icon: article 
+icon: article
+next: christianity.md
+prev: chimes-child.md
 ---

@@ -2,5 +2,7 @@
 title: Anind 
 index: false
 article: false 
-icon: article 
+icon: article
+next: anna.md
+prev: angwish.md
 ---

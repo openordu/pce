@@ -2,5 +2,7 @@
 title: Bran, hunting hound 
 index: false
 article: false 
-icon: article 
+icon: article
+next: bran-galed.md
+prev: bran.md
 ---

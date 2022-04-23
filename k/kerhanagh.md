@@ -2,5 +2,7 @@
 title: Kerhanagh 
 index: false
 article: false 
-icon: article 
+icon: article
+next: keshcorran.md
+prev: kenneth-of-the-prophecies.md
 ---

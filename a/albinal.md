@@ -2,5 +2,7 @@
 title: Albinal 
 index: false
 article: false 
-icon: article 
+icon: article
+next: albion.md
+prev: alauna.md
 ---

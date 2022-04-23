@@ -2,5 +2,7 @@
 title: Fairy Flag 
 index: false
 article: false 
-icon: article 
+icon: article
+next: falias.md
+prev: faifne.md
 ---

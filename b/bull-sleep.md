@@ -2,5 +2,7 @@
 title: bull-sleep 
 index: false
 article: false 
-icon: article 
+icon: article
+next: bull.md
+prev: building-to-the-west.md
 ---

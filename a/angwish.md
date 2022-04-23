@@ -2,5 +2,7 @@
 title: Angwish 
 index: false
 article: false 
-icon: article 
+icon: article
+next: anind.md
+prev: anglonnach.md
 ---

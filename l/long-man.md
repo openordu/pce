@@ -2,5 +2,7 @@
 title: Long Man 
 index: false
 article: false 
-icon: article 
+icon: article
+next: lorois.md
+prev: lochlann.md
 ---

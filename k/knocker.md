@@ -2,5 +2,7 @@
 title: knocker 
 index: false
 article: false 
-icon: article 
+icon: article
+next: korrigan.md
+prev: knitting.md
 ---

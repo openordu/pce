@@ -2,5 +2,7 @@
 title: struan 
 index: false
 article: false 
-icon: article 
+icon: article
+next: submerged-city.md
+prev: stroke.md
 ---

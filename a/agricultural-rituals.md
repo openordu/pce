@@ -2,5 +2,7 @@
 title: agricultural rituals 
 index: false
 article: false 
-icon: article 
+icon: article
+next: aiats.md
+prev: afanc.md
 ---

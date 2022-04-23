@@ -2,5 +2,7 @@
 title: need-fire 
 index: false
 article: false 
-icon: article 
+icon: article
+next: nemeton.md
+prev: necromancy.md
 ---

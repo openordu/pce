@@ -2,5 +2,7 @@
 title: Crandelmass 
 index: false
 article: false 
-icon: article 
+icon: article
+next: crannóg.md
+prev: craiphtine.md
 ---

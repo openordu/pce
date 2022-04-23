@@ -2,5 +2,7 @@
 title: yarkins 
 index: false
 article: false 
-icon: article 
+icon: article
+next: ádammair.md
+prev: yannig.md
 ---

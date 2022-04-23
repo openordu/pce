@@ -2,5 +2,7 @@
 title: afanc 
 index: false
 article: false 
-icon: article 
+icon: article
+next: agricultural-rituals.md
+prev: adventure.md
 ---

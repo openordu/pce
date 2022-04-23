@@ -1,8 +1,8 @@
 ---
 title: Y 
-index: 7825
+index: 2173
 article: false 
-icon: category 
+icon: folder 
 ---
 1. [Yallery Brown](y/yallery-brown.md)
 1. [Yann-An-Ord](y/yann-an-ord.md)

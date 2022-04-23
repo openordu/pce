@@ -2,5 +2,7 @@
 title: tatter-foal 
 index: false
 article: false 
-icon: article 
+icon: article
+next: tattoo.md
+prev: tarroo-ushtey.md
 ---

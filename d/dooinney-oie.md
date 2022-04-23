@@ -2,5 +2,7 @@
 title: dooinney-oie 
 index: false
 article: false 
-icon: article 
+icon: article
+next: dragon.md
+prev: donkeys.md
 ---

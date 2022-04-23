@@ -2,5 +2,7 @@
 title: Dyfr 
 index: false
 article: false 
-icon: article 
+icon: article
+next: dylan.md
+prev: dyfed.md
 ---

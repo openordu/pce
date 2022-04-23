@@ -2,5 +2,7 @@
 title: ox 
 index: false
 article: false 
-icon: article 
+icon: article
+next: passage-graves.md
+prev: owl.md
 ---

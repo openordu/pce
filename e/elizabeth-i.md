@@ -2,5 +2,7 @@
 title: Elizabeth I 
 index: false
 article: false 
-icon: article 
+icon: article
+next: elphin.md
+prev: elin-gow.md
 ---

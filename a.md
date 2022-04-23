@@ -1,8 +1,8 @@
 ---
 title: A 
-index: 9998
+index: 0
 article: false 
-icon: category 
+icon: folder 
 ---
 1. [Abarta](a/abarta.md)
 1. [Abbey Lubber](a/abbey-lubber.md)

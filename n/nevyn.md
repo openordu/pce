@@ -2,5 +2,7 @@
 title: Nevyn 
 index: false
 article: false 
-icon: article 
+icon: article
+next: newgrange.md
+prev: nevydd.md
 ---

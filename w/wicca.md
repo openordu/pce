@@ -2,5 +2,7 @@
 title: Wicca 
 index: false
 article: false 
-icon: article 
+icon: article
+next: wild-geese.md
+prev: white-lady.md
 ---

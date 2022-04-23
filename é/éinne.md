@@ -2,5 +2,7 @@
 title: Éinne 
 index: false
 article: false 
-icon: article 
+icon: article
+next: éire.md
+prev: éibhear.md
 ---

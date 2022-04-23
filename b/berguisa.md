@@ -2,5 +2,7 @@
 title: Berguisa 
 index: false
 article: false 
-icon: article 
+icon: article
+next: berrey-dhone.md
+prev: berecynthia.md
 ---

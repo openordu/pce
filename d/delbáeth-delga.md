@@ -2,5 +2,7 @@
 title: Delbáeth Delga 
 index: false
 article: false 
-icon: article 
+icon: article
+next: derbforgaill.md
+prev: delbacháem.md
 ---

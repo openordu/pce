@@ -2,5 +2,7 @@
 title: Mochaoi 
 index: false
 article: false 
-icon: article 
+icon: article
+next: mochuda.md
+prev: moccus.md
 ---

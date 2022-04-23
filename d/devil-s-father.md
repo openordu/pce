@@ -2,5 +2,7 @@
 title: Devil’s Father 
 index: false
 article: false 
-icon: article 
+icon: article
+next: devil-s-mother.md
+prev: devil.md
 ---

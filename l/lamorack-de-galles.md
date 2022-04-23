@@ -2,5 +2,7 @@
 title: Lamorack de Galles 
 index: false
 article: false 
-icon: article 
+icon: article
+next: lancelot.md
+prev: lammas.md
 ---

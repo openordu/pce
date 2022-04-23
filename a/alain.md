@@ -2,5 +2,7 @@
 title: Alain 
 index: false
 article: false 
-icon: article 
+icon: article
+next: alauna.md
+prev: aithirne.md
 ---

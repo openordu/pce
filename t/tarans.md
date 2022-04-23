@@ -2,5 +2,7 @@
 title: tarans 
 index: false
 article: false 
-icon: article 
+icon: article
+next: tarroo-ushtey.md
+prev: tanist.md
 ---

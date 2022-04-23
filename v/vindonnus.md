@@ -2,5 +2,7 @@
 title: Vindonnus 
 index: false
 article: false 
-icon: article 
+icon: article
+next: vinotonus.md
+prev: vikings.md
 ---

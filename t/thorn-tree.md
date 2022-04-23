@@ -2,5 +2,7 @@
 title: thorn tree 
 index: false
 article: false 
-icon: article 
+icon: article
+next: three.md
+prev: thistle.md
 ---

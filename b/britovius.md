@@ -2,5 +2,7 @@
 title: Britovius 
 index: false
 article: false 
-icon: article 
+icon: article
+next: brittany.md
+prev: britannia.md
 ---

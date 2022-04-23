@@ -2,5 +2,7 @@
 title: Ben Bulben 
 index: false
 article: false 
-icon: article 
+icon: article
+next: ben-varrey.md
+prev: beltany.md
 ---

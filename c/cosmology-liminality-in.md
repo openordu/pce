@@ -2,5 +2,7 @@
 title: cosmology, liminality in 
 index: false
 article: false 
-icon: article 
+icon: article
+next: cosmology-magic-in.md
+prev: cosmology-immortality-in.md
 ---

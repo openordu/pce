@@ -2,5 +2,7 @@
 title: Aífe, stepmother of the Children of Lir 
 index: false
 article: false 
-icon: article 
+icon: article
+next: bacorgladhra.md
+prev: aífe-of-the-crane-bag.md
 ---

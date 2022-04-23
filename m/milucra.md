@@ -2,5 +2,7 @@
 title: Milucra 
 index: false
 article: false 
-icon: article 
+icon: article
+next: minerva.md
+prev: milesians-éremón-of.md
 ---

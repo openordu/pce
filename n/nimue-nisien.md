@@ -2,5 +2,7 @@
 title: Nimue Nisien 
 index: false
 article: false 
-icon: article 
+icon: article
+next: nodens.md
+prev: nicnevin.md
 ---

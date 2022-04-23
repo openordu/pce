@@ -2,5 +2,7 @@
 title: pilgrimage 
 index: false
 article: false 
-icon: article 
+icon: article
+next: pin.md
+prev: pigs.md
 ---

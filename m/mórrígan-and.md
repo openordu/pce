@@ -2,5 +2,7 @@
 title: Mórrígan and 
 index: false
 article: false 
-icon: article 
+icon: article
+next: mórrígan-dagda-and.md
+prev: mórrígan.md
 ---

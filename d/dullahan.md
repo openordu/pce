@@ -2,5 +2,7 @@
 title: dullahan 
 index: false
 article: false 
-icon: article 
+icon: article
+next: dunnie.md
+prev: duellists.md
 ---

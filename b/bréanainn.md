@@ -2,5 +2,7 @@
 title: Bréanainn 
 index: false
 article: false 
-icon: article 
+icon: article
+next: bréifne.md
+prev: brâzil.md
 ---

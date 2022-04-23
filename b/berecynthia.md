@@ -2,5 +2,7 @@
 title: Berecynthia 
 index: false
 article: false 
-icon: article 
+icon: article
+next: berguisa.md
+prev: bercilak.md
 ---

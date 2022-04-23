@@ -2,5 +2,7 @@
 title: Donagha Donand 
 index: false
 article: false 
-icon: article 
+icon: article
+next: donn.md
+prev: domnu.md
 ---

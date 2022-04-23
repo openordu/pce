@@ -2,5 +2,7 @@
 title: bucca 
 index: false
 article: false 
-icon: article 
+icon: article
+next: bug.md
+prev: buada.md
 ---

@@ -2,5 +2,7 @@
 title: Bors de Ganis 
 index: false
 article: false 
-icon: article 
+icon: article
+next: borvo.md
+prev: book-of-kells.md
 ---

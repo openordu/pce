@@ -2,5 +2,7 @@
 title: Bith 
 index: false
 article: false 
-icon: article 
+icon: article
+next: black-annis.md
+prev: biróg.md
 ---

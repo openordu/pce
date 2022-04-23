@@ -2,5 +2,7 @@
 title: Ceridwen 
 index: false
 article: false 
-icon: article 
+icon: article
+next: cerne-abbas-giant.md
+prev: cerbnat.md
 ---

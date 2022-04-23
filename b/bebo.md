@@ -2,5 +2,7 @@
 title: Bebo 
 index: false
 article: false 
-icon: article 
+icon: article
+next: bec.md
+prev: beaumains.md
 ---

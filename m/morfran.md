@@ -2,5 +2,7 @@
 title: Morfran 
 index: false
 article: false 
-icon: article 
+icon: article
+next: morfudd.md
+prev: morfessa.md
 ---

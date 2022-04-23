@@ -2,5 +2,7 @@
 title: portal tombs 
 index: false
 article: false 
-icon: article 
+icon: article
+next: portals-to-the-otherworld.md
+prev: pooka.md
 ---

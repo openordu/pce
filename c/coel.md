@@ -2,5 +2,7 @@
 title: Coel 
 index: false
 article: false 
-icon: article 
+icon: article
+next: coinchenn.md
+prev: cod.md
 ---

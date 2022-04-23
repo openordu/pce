@@ -2,5 +2,7 @@
 title: egg 
 index: false
 article: false 
-icon: article 
+icon: article
+next: egret.md
+prev: eel.md
 ---

@@ -2,5 +2,7 @@
 title: Gog 
 index: false
 article: false 
-icon: article 
+icon: article
+next: goibhniu.md
+prev: goewin.md
 ---

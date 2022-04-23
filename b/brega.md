@@ -2,5 +2,7 @@
 title: Brega 
 index: false
 article: false 
-icon: article 
+icon: article
+next: bregon.md
+prev: breasal-b6-dhíobhadh.md
 ---

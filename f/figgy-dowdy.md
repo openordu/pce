@@ -2,5 +2,7 @@
 title: Figgy Dowdy 
 index: false
 article: false 
-icon: article 
+icon: article
+next: find.md
+prev: fiecal.md
 ---

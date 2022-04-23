@@ -2,5 +2,7 @@
 title: Matres 
 index: false
 article: false 
-icon: article 
+icon: article
+next: matrona.md
+prev: matholwch.md
 ---

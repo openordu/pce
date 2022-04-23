@@ -2,5 +2,7 @@
 title: Fionn File 
 index: false
 article: false 
-icon: article 
+icon: article
+next: fionn-mac-cumhaill.md
+prev: fionn-cycle.md
 ---

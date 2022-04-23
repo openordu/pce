@@ -2,5 +2,7 @@
 title: Súantrade 
 index: false
 article: false 
-icon: article 
+icon: article
+next: tadg.md
+prev: sínann.md
 ---

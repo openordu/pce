@@ -2,5 +2,7 @@
 title: Cáel 
 index: false
 article: false 
-icon: article 
+icon: article
+next: cáer.md
+prev: cynan.md
 ---

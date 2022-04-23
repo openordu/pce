@@ -1,8 +1,8 @@
 ---
 title: V 
-index: 7850
+index: 2148
 article: false 
-icon: category 
+icon: folder 
 ---
 1. [Varia](v/varia.md)
 1. [Vates](v/vates.md)

@@ -2,5 +2,7 @@
 title: romantic tales 
 index: false
 article: false 
-icon: article 
+icon: article
+next: rose.md
+prev: river.md
 ---

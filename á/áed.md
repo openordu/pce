@@ -2,5 +2,7 @@
 title: Áed 
 index: false
 article: false 
-icon: article 
+icon: article
+next: áed-abrat.md
+prev: áeb.md
 ---

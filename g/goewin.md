@@ -2,5 +2,7 @@
 title: Goewin 
 index: false
 article: false 
-icon: article 
+icon: article
+next: gog.md
+prev: godiva.md
 ---

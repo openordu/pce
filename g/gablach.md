@@ -2,5 +2,7 @@
 title: Gablach 
 index: false
 article: false 
-icon: article 
+icon: article
+next: gabriel-hounds.md
+prev: gabhair.md
 ---

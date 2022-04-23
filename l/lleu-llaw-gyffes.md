@@ -2,5 +2,7 @@
 title: Lleu Llaw Gyffes 
 index: false
 article: false 
-icon: article 
+icon: article
+next: lludd.md
+prev: llassar-llaesgyfnewid-llefelys.md
 ---

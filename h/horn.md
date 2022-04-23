@@ -2,5 +2,7 @@
 title: horn 
 index: false
 article: false 
-icon: article 
+icon: article
+next: horse-.md
+prev: hooper.md
 ---

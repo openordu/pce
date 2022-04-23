@@ -2,5 +2,7 @@
 title: Lis 
 index: false
 article: false 
-icon: article 
+icon: article
+next: liscannor.md
+prev: lir-.md
 ---

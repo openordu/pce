@@ -2,5 +2,7 @@
 title: Eógan 
 index: false
 article: false 
-icon: article 
+icon: article
+next: eógan-mór.md
+prev: excalibur.md
 ---

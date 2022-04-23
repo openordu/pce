@@ -2,5 +2,7 @@
 title: north 
 index: false
 article: false 
-icon: article 
+icon: article
+next: nuckelavee.md
+prev: night.md
 ---

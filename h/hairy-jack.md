@@ -2,5 +2,7 @@
 title: Hairy Jack 
 index: false
 article: false 
-icon: article 
+icon: article
+next: hallowe-en.md
+prev: hag-s-glen.md
 ---

@@ -2,5 +2,7 @@
 title: Céitinn, Seathrún 
 index: false
 article: false 
-icon: article 
+icon: article
+next: cóiced.md
+prev: céadach.md
 ---

@@ -2,5 +2,7 @@
 title: Ailbhe 
 index: false
 article: false 
-icon: article 
+icon: article
+next: aileach.md
+prev: ailbe.md
 ---

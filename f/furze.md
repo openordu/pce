@@ -2,5 +2,7 @@
 title: furze 
 index: false
 article: false 
-icon: article 
+icon: article
+next: féis.md
+prev: funeral-rites.md
 ---

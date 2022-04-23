@@ -2,5 +2,7 @@
 title: animism 
 index: false
 article: false 
-icon: article 
+icon: article
+next: antlers.md
+prev: animals.md
 ---

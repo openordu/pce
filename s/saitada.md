@@ -2,5 +2,7 @@
 title: Saitada 
 index: false
 article: false 
-icon: article 
+icon: article
+next: samaliliath.md
+prev: sabrina.md
 ---

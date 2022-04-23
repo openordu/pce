@@ -2,5 +2,7 @@
 title: Cycle of the Kings Cyhyreath 
 index: false
 article: false 
-icon: article 
+icon: article
+next: cymon.md
+prev: custennin.md
 ---

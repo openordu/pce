@@ -2,5 +2,7 @@
 title: Gwalchmei 
 index: false
 article: false 
-icon: article 
+icon: article
+next: gwawl.md
+prev: guénolé.md
 ---

@@ -2,5 +2,7 @@
 title: Biddy 
 index: false
 article: false 
-icon: article 
+icon: article
+next: biddy-early.md
+prev: berrey-dhone.md
 ---

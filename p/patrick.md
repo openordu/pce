@@ -2,5 +2,7 @@
 title: Patrick 
 index: false
 article: false 
-icon: article 
+icon: article
+next: patrick.md
+prev: partholón.md
 ---

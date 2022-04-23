@@ -2,5 +2,7 @@
 title: Lugaidh Laíghde 
 index: false
 article: false 
-icon: article 
+icon: article
+next: lugaidh-mac-con-roí-lugaidh-riab-nderg.md
+prev: lugaidh.md
 ---

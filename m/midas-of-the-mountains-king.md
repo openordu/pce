@@ -2,5 +2,7 @@
 title: Midas of the Mountains, King 
 index: false
 article: false 
-icon: article 
+icon: article
+next: mide.md
+prev: michale.md
 ---

@@ -2,5 +2,7 @@
 title: Barrax 
 index: false
 article: false 
-icon: article 
+icon: article
+next: bath.md
+prev: barra.md
 ---

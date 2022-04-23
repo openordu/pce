@@ -2,5 +2,7 @@
 title: Cochrann 
 index: false
 article: false 
-icon: article 
+icon: article
+next: cocidius.md
+prev: cobhthach-caol.md
 ---

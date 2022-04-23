@@ -2,5 +2,7 @@
 title: Hill of Tara 
 index: false
 article: false 
-icon: article 
+icon: article
+next: hill-of-uisneach.md
+prev: hill-of-allen.md
 ---

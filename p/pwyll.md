@@ -2,5 +2,7 @@
 title: Pwyll 
 index: false
 article: false 
-icon: article 
+icon: article
+next: q-celtic.md
+prev: purr-mooar.md
 ---

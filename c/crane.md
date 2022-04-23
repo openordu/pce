@@ -2,5 +2,7 @@
 title: crane 
 index: false
 article: false 
-icon: article 
+icon: article
+next: crane-bag.md
+prev: cow.md
 ---

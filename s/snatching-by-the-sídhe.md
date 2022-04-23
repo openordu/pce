@@ -2,5 +2,7 @@
 title: snatching by the sídhe 
 index: false
 article: false 
-icon: article 
+icon: article
+next: solar-divinities.md
+prev: snail-bead.md
 ---

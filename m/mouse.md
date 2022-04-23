@@ -2,5 +2,7 @@
 title: mouse 
 index: false
 article: false 
-icon: article 
+icon: article
+next: moving-stones.md
+prev: mound.md
 ---

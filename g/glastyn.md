@@ -2,5 +2,7 @@
 title: glastyn 
 index: false
 article: false 
-icon: article 
+icon: article
+next: glám-dícenn.md
+prev: glamour.md
 ---

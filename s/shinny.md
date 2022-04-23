@@ -2,5 +2,7 @@
 title: shinny 
 index: false
 article: false 
-icon: article 
+icon: article
+next: shoemaker.md
+prev: sheep.md
 ---

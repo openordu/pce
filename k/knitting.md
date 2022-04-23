@@ -2,5 +2,7 @@
 title: knitting 
 index: false
 article: false 
-icon: article 
+icon: article
+next: knocker.md
+prev: klippe.md
 ---

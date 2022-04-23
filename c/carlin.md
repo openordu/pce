@@ -2,5 +2,7 @@
 title: Carlin 
 index: false
 article: false 
-icon: article 
+icon: article
+next: carman.md
+prev: caradawg.md
 ---

@@ -2,5 +2,7 @@
 title: province    
 index: false
 article: false 
-icon: article 
+icon: article
+next: puck-.md
+prev: protection-against-fairies.md
 ---

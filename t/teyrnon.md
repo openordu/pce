@@ -2,5 +2,7 @@
 title: Teyrnon 
 index: false
 article: false 
-icon: article 
+icon: article
+next: them.md
+prev: teutates.md
 ---

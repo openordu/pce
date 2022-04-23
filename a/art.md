@@ -2,5 +2,7 @@
 title: Art 
 index: false
 article: false 
-icon: article 
+icon: article
+next: art-mac-cuinn.md
+prev: arnemetia.md
 ---

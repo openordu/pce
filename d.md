@@ -1,8 +1,8 @@
 ---
 title: D 
-index: 9362
+index: 636
 article: false 
-icon: category 
+icon: folder 
 ---
 1. [Da Derga](d/da-derga.md)
 1. [Dagda](d/dagda.md)

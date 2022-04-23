@@ -2,5 +2,7 @@
 title: Táin 
 index: false
 article: false 
-icon: article 
+icon: article
+next: téa.md
+prev: táin-bó-cuialnge.md
 ---

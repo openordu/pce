@@ -2,5 +2,7 @@
 title: Cailleach, Dér Gréine and 
 index: false
 article: false 
-icon: article 
+icon: article
+next: cailleach-dòideag-and.md
+prev: cailleach-caílte-and.md
 ---

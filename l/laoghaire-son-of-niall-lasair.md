@@ -2,5 +2,7 @@
 title: Laoghaire, son of Niall Lasair 
 index: false
 article: false 
-icon: article 
+icon: article
+next: latiaran.md
+prev: laoghaire-buadhach-laoghaire-mac-crimthann.md
 ---

@@ -1,8 +1,8 @@
 ---
 title: W 
-index: 7837
+index: 2161
 article: false 
-icon: category 
+icon: folder 
 ---
 1. [Warna](w/warna.md)
 1. [Wayland](w/wayland.md)

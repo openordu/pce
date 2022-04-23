@@ -2,5 +2,7 @@
 title: kelpie 
 index: false
 article: false 
-icon: article 
+icon: article
+next: key.md
+prev: keening.md
 ---

@@ -2,5 +2,7 @@
 title: Badb 
 index: false
 article: false 
-icon: article 
+icon: article
+next: bademagu.md
+prev: bacorgladhra.md
 ---

@@ -2,5 +2,7 @@
 title: rat 
 index: false
 article: false 
-icon: article 
+icon: article
+next: rath.md
+prev: ram-headed-snake.md
 ---

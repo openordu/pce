@@ -2,5 +2,7 @@
 title: Gwri 
 index: false
 article: false 
-icon: article 
+icon: article
+next: gwyar.md
+prev: gwidion.md
 ---

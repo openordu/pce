@@ -2,5 +2,7 @@
 title: solstice 
 index: false
 article: false 
-icon: article 
+icon: article
+next: soul.md
+prev: solitary-fairies-.md
 ---

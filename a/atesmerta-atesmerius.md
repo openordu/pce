@@ -2,5 +2,7 @@
 title: Atesmerta, Atesmerius 
 index: false
 article: false 
-icon: article 
+icon: article
+next: avalon.md
+prev: assipattle.md
 ---

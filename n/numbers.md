@@ -2,5 +2,7 @@
 title: numbers 
 index: false
 article: false 
-icon: article 
+icon: article
+next: nygel.md
+prev: nuckelavee.md
 ---

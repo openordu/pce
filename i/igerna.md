@@ -2,5 +2,7 @@
 title: Igerna 
 index: false
 article: false 
-icon: article 
+icon: article
+next: igraine.md
+prev: icovellauna.md
 ---

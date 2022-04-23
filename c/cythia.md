@@ -2,5 +2,7 @@
 title: cythia 
 index: false
 article: false 
-icon: article 
+icon: article
+next: scots.md
+prev: sceolan.md
 ---

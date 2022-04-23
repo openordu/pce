@@ -2,5 +2,7 @@
 title: siren 
 index: false
 article: false 
-icon: article 
+icon: article
+next: skriker.md
+prev: shoemaker.md
 ---

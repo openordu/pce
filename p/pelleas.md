@@ -2,5 +2,7 @@
 title: Pelleas 
 index: false
 article: false 
-icon: article 
+icon: article
+next: penarddun.md
+prev: pelagianism.md
 ---

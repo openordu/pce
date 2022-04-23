@@ -2,5 +2,7 @@
 title: taghairm 
 index: false
 article: false 
-icon: article 
+icon: article
+next: talisman.md
+prev: taboo.md
 ---

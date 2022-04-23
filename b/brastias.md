@@ -2,5 +2,7 @@
 title: Brastias 
 index: false
 article: false 
-icon: article 
+icon: article
+next: breas.md
+prev: branwen.md
 ---

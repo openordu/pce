@@ -2,5 +2,7 @@
 title: Launfal 
 index: false
 article: false 
-icon: article 
+icon: article
+next: lavaine.md
+prev: laudine.md
 ---

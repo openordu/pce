@@ -2,5 +2,7 @@
 title: Ulaidh 
 index: false
 article: false 
-icon: article 
+icon: article
+next: ulfius.md
+prev: uisneach.md
 ---

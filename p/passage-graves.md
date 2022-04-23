@@ -2,5 +2,7 @@
 title: passage graves 
 index: false
 article: false 
-icon: article 
+icon: article
+next: patera.md
+prev: ox.md
 ---

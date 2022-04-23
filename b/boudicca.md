@@ -2,5 +2,7 @@
 title: Boudicca 
 index: false
 article: false 
-icon: article 
+icon: article
+next: braciaea.md
+prev: borvo.md
 ---

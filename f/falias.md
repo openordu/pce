@@ -2,5 +2,7 @@
 title: Falias 
 index: false
 article: false 
-icon: article 
+icon: article
+next: fand.md
+prev: fairy-flag.md
 ---

@@ -2,5 +2,7 @@
 title: Vates 
 index: false
 article: false 
-icon: article 
+icon: article
+next: venus.md
+prev: varia.md
 ---

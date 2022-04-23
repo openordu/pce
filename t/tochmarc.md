@@ -2,5 +2,7 @@
 title: tochmarc 
 index: false
 article: false 
-icon: article 
+icon: article
+next: togail.md
+prev: tober.md
 ---

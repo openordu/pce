@@ -2,5 +2,7 @@
 title: Cúchulainn, Forgall and 
 index: false
 article: false 
-icon: article 
+icon: article
+next: cúchulainn-fráech-killed-by.md
+prev: cúchulainn-derbforgaill-and.md
 ---

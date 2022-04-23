@@ -2,5 +2,7 @@
 title: Callirius 
 index: false
 article: false 
-icon: article 
+icon: article
+next: camelot.md
+prev: callanish.md
 ---

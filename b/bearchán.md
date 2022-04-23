@@ -2,5 +2,7 @@
 title: Bearchán 
 index: false
 article: false 
-icon: article 
+icon: article
+next: beare.md
+prev: bearach.md
 ---

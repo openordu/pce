@@ -2,5 +2,7 @@
 title: famine 
 index: false
 article: false 
-icon: article 
+icon: article
+next: father-of.md
+prev: fairyland.md
 ---

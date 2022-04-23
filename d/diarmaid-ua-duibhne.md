@@ -2,5 +2,7 @@
 title: Diarmaid ua Duibhne 
 index: false
 article: false 
-icon: article 
+icon: article
+next: diarmait.md
+prev: diarmaid-mac-cearrbheoil.md
 ---

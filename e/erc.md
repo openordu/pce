@@ -2,5 +2,7 @@
 title: Erc 
 index: false
 article: false 
-icon: article 
+icon: article
+next: erce.md
+prev: epona.md
 ---

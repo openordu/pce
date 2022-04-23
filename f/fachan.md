@@ -2,5 +2,7 @@
 title: fachan 
 index: false
 article: false 
-icon: article 
+icon: article
+next: fairies.md
+prev: eye.md
 ---

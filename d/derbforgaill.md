@@ -2,5 +2,7 @@
 title: Derbforgaill 
 index: false
 article: false 
-icon: article 
+icon: article
+next: derravaragh.md
+prev: delbáeth-delga.md
 ---

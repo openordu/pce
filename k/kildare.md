@@ -2,5 +2,7 @@
 title: Kildare 
 index: false
 article: false 
-icon: article 
+icon: article
+next: kildare-earl-of.md
+prev: keshcorran.md
 ---

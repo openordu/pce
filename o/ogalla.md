@@ -2,5 +2,7 @@
 title: Ogalla 
 index: false
 article: false 
-icon: article 
+icon: article
+next: oghma.md
+prev: oengus.md
 ---

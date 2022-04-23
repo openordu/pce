@@ -2,5 +2,7 @@
 title: Mars, Bolvinnus as 
 index: false
 article: false 
-icon: article 
+icon: article
+next: mars-braciaea-as.md
+prev: mars-belatucadros-as.md
 ---

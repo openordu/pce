@@ -2,5 +2,7 @@
 title: Dorraghow 
 index: false
 article: false 
-icon: article 
+icon: article
+next: dreco.md
+prev: dornoll.md
 ---

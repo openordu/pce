@@ -2,5 +2,7 @@
 title: Zeus 
 index: false
 article: false 
-icon: article 
+icon: article
+next: abair.md
+prev: yvonne-and-yvon.md
 ---

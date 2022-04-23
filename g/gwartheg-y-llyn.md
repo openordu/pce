@@ -2,5 +2,7 @@
 title: gwartheg y llyn 
 index: false
 article: false 
-icon: article 
+icon: article
+next: gwrach-y-rhibyn.md
+prev: guytrash.md
 ---

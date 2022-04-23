@@ -2,5 +2,7 @@
 title: foawr 
 index: false
 article: false 
-icon: article 
+icon: article
+next: fod-seachran.md
+prev: five.md
 ---

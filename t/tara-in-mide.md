@@ -2,5 +2,7 @@
 title: Tara, in Mide 
 index: false
 article: false 
-icon: article 
+icon: article
+next: tara-name-of.md
+prev: tara-in-historical-cycle-kings-of.md
 ---

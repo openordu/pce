@@ -2,5 +2,7 @@
 title: Gorias 
 index: false
 article: false 
-icon: article 
+icon: article
+next: gorlois.md
+prev: gorgon.md
 ---

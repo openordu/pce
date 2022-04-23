@@ -2,5 +2,7 @@
 title: Murias 
 index: false
 article: false 
-icon: article 
+icon: article
+next: murna.md
+prev: murchadh-mac-briain.md
 ---

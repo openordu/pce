@@ -2,5 +2,7 @@
 title: toot mounds 
 index: false
 article: false 
-icon: article 
+icon: article
+next: torc-torque.md
+prev: toili.md
 ---

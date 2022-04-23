@@ -2,5 +2,7 @@
 title: Caillín 
 index: false
 article: false 
-icon: article 
+icon: article
+next: cainneach.md
+prev: cailleach-serpent-and.md
 ---

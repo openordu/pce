@@ -2,5 +2,7 @@
 title: Cathbad 
 index: false
 article: false 
-icon: article 
+icon: article
+next: cathbhadh.md
+prev: cathaír-mór.md
 ---

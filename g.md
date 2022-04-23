@@ -1,8 +1,8 @@
 ---
 title: G 
-index: 9372
+index: 626
 article: false 
-icon: category 
+icon: folder 
 ---
 1. [Garb Mac Stairn home of](g/garb-mac-stairn-home-of.md)
 1. [Goll mac Morna grandfather of](g/goll-mac-morna-grandfather-of.md)

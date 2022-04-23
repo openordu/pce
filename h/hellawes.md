@@ -2,5 +2,7 @@
 title: Hellawes 
 index: false
 article: false 
-icon: article 
+icon: article
+next: hellyas.md
+prev: heilyn.md
 ---

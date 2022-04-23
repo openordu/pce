@@ -2,5 +2,7 @@
 title: horses 
 index: false
 article: false 
-icon: article 
+icon: article
+next: hospitality.md
+prev: horse-sacrifice.md
 ---

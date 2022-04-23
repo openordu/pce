@@ -2,5 +2,7 @@
 title: Orlám 
 index: false
 article: false 
-icon: article 
+icon: article
+next: oscar.md
+prev: orc-triath.md
 ---

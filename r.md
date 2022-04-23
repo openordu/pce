@@ -1,8 +1,8 @@
 ---
 title: R 
-index: 9370
+index: 628
 article: false 
-icon: category 
+icon: folder 
 ---
 1. [Richis](r/richis.md)
 1. [Ragallach](r/ragallach.md)

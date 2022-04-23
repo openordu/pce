@@ -2,5 +2,7 @@
 title: Badhbh 
 index: false
 article: false 
-icon: article 
+icon: article
+next: baile-mac-buain.md
+prev: bademagu.md
 ---

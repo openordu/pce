@@ -2,5 +2,7 @@
 title: Cairbre mac Éadaoine 
 index: false
 article: false 
-icon: article 
+icon: article
+next: cairenn.md
+prev: cairbre-nia-fer.md
 ---

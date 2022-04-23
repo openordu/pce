@@ -2,5 +2,7 @@
 title: Cáer 
 index: false
 article: false 
-icon: article 
+icon: article
+next: céadach.md
+prev: cáel.md
 ---

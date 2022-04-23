@@ -1,8 +1,8 @@
 ---
 title: T 
-index: 8417
+index: 1581
 article: false 
-icon: category 
+icon: folder 
 ---
 1. [Tuatha Dé Danann](t/tuatha-dé-danann.md)
 1. [Tadg](t/tadg.md)

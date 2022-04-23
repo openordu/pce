@@ -2,5 +2,7 @@
 title: Gebrinius 
 index: false
 article: false 
-icon: article 
+icon: article
+next: gelorwydd.md
+prev: gebann.md
 ---

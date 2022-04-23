@@ -2,5 +2,7 @@
 title: Darlughdacha 
 index: false
 article: false 
-icon: article 
+icon: article
+next: dathí.md
+prev: daoine-sídhe.md
 ---

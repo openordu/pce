@@ -2,5 +2,7 @@
 title: frog 
 index: false
 article: false 
-icon: article 
+icon: article
+next: fuath.md
+prev: framing-spell.md
 ---

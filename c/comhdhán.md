@@ -2,5 +2,7 @@
 title: Comhdhán 
 index: false
 article: false 
-icon: article 
+icon: article
+next: comhghall.md
+prev: colm-cille.md
 ---

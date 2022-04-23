@@ -2,5 +2,7 @@
 title: Moriath 
 index: false
 article: false 
-icon: article 
+icon: article
+next: mountain-sunday.md
+prev: morholt.md
 ---

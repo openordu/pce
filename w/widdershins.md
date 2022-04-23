@@ -2,5 +2,7 @@
 title: widdershins 
 index: false
 article: false 
-icon: article 
+icon: article
+next: wild-animals.md
+prev: wicker-man.md
 ---

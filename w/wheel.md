@@ -2,5 +2,7 @@
 title: wheel 
 index: false
 article: false 
-icon: article 
+icon: article
+next: white.md
+prev: west.md
 ---

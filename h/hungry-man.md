@@ -2,5 +2,7 @@
 title: hungry man 
 index: false
 article: false 
-icon: article 
+icon: article
+next: husband-of.md
+prev: hungry-grass.md
 ---

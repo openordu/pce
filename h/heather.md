@@ -2,5 +2,7 @@
 title: heather 
 index: false
 article: false 
-icon: article 
+icon: article
+next: heaven.md
+prev: hearth.md
 ---

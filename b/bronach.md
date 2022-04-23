@@ -2,5 +2,7 @@
 title: Bronach 
 index: false
 article: false 
-icon: article 
+icon: article
+next: bronwen.md
+prev: bron.md
 ---

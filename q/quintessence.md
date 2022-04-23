@@ -2,5 +2,7 @@
 title: quintessence 
 index: false
 article: false 
-icon: article 
+icon: article
+next: rainbow.md
+prev: questing-beast.md
 ---

@@ -2,5 +2,7 @@
 title: Morda 
 index: false
 article: false 
-icon: article 
+icon: article
+next: mordred.md
+prev: morann.md
 ---

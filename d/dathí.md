@@ -2,5 +2,7 @@
 title: Dathí 
 index: false
 article: false 
-icon: article 
+icon: article
+next: daui.md
+prev: darlughdacha.md
 ---

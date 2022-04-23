@@ -2,5 +2,7 @@
 title: Áed, son of Lir 
 index: false
 article: false 
-icon: article 
+icon: article
+next: áed-son-of-miodhchaoin-áed-srónmár.md
+prev: áed-son-of-eochaid-lethderg.md
 ---

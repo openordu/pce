@@ -2,5 +2,7 @@
 title: Find 
 index: false
 article: false 
-icon: article 
+icon: article
+next: findchóem.md
+prev: figgy-dowdy.md
 ---

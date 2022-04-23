@@ -2,5 +2,7 @@
 title: Maponus 
 index: false
 article: false 
-icon: article 
+icon: article
+next: marcassa.md
+prev: maolodhrán.md
 ---

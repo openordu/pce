@@ -2,5 +2,7 @@
 title: Aillén 
 index: false
 article: false 
-icon: article 
+icon: article
+next: aillén-trachenn.md
+prev: aill-na-mireann.md
 ---

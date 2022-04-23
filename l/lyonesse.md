@@ -2,5 +2,7 @@
 title: Lyonesse 
 index: false
 article: false 
-icon: article 
+icon: article
+next: láeg.md
+prev: luxovius.md
 ---

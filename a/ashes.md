@@ -2,5 +2,7 @@
 title: ashes 
 index: false
 article: false 
-icon: article 
+icon: article
+next: astrology.md
+prev: ash-tree.md
 ---

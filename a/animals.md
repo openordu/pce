@@ -2,5 +2,7 @@
 title: animals 
 index: false
 article: false 
-icon: article 
+icon: article
+next: animism.md
+prev: animal-tales.md
 ---

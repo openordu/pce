@@ -2,5 +2,7 @@
 title: Láeg 
 index: false
 article: false 
-icon: article 
+icon: article
+next: lén-línfiaclach.md
+prev: lyonesse.md
 ---

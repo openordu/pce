@@ -2,5 +2,7 @@
 title: destruction 
 index: false
 article: false 
-icon: article 
+icon: article
+next: directions.md
+prev: dergfhlaith.md
 ---

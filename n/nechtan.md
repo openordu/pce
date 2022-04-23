@@ -2,5 +2,7 @@
 title: Nechtan 
 index: false
 article: false 
-icon: article 
+icon: article
+next: nechtanebus.md
+prev: neara.md
 ---

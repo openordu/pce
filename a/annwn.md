@@ -2,5 +2,7 @@
 title: Annwn 
 index: false
 article: false 
-icon: article 
+icon: article
+next: antenociticus.md
+prev: annowre.md
 ---

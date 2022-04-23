@@ -2,5 +2,7 @@
 title: mare 
 index: false
 article: false 
-icon: article 
+icon: article
+next: marriage.md
+prev: mallet.md
 ---

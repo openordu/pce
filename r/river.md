@@ -2,5 +2,7 @@
 title: river 
 index: false
 article: false 
-icon: article 
+icon: article
+next: romantic-tales.md
+prev: rituals.md
 ---

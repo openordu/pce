@@ -2,5 +2,7 @@
 title: guee 
 index: false
 article: false 
-icon: article 
+icon: article
+next: gunna.md
+prev: gruagach.md
 ---

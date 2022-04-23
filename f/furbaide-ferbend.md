@@ -2,5 +2,7 @@
 title: Furbaide Ferbend 
 index: false
 article: false 
-icon: article 
+icon: article
+next: fursa.md
+prev: fuinche.md
 ---

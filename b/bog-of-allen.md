@@ -2,5 +2,7 @@
 title: Bog of Allen 
 index: false
 article: false 
-icon: article 
+icon: article
+next: bolg.md
+prev: bodhmall.md
 ---

@@ -2,5 +2,7 @@
 title: Búanann 
 index: false
 article: false 
-icon: article 
+icon: article
+next: cabyll-ushtey.md
+prev: bóinn.md
 ---

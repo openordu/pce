@@ -2,5 +2,7 @@
 title: inscriptions 
 index: false
 article: false 
-icon: article 
+icon: article
+next: insects.md
+prev: incest.md
 ---

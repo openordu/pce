@@ -2,5 +2,7 @@
 title: Fliodhais 
 index: false
 article: false 
-icon: article 
+icon: article
+next: flonan-cam.md
+prev: flidais.md
 ---

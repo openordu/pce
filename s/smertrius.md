@@ -2,5 +2,7 @@
 title: Smertrius 
 index: false
 article: false 
-icon: article 
+icon: article
+next: smirgat.md
+prev: luagh.md
 ---

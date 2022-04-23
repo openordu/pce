@@ -2,5 +2,7 @@
 title: Medb, Rucht and 
 index: false
 article: false 
-icon: article 
+icon: article
+next: medb-as-sovereignty.md
+prev: medb-oweynagat-and.md
 ---

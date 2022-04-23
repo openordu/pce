@@ -2,5 +2,7 @@
 title: mermaids/merman 
 index: false
 article: false 
-icon: article 
+icon: article
+next: merman.md
+prev: mermaid.md
 ---

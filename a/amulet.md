@@ -2,5 +2,7 @@
 title: amulet 
 index: false
 article: false 
-icon: article 
+icon: article
+next: ancestors.md
+prev: amphibians-reptiles-and-molluscs.md
 ---

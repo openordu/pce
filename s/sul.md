@@ -2,5 +2,7 @@
 title: Sul 
 index: false
 article: false 
-icon: article 
+icon: article
+next: suleviae.md
+prev: suideachan.md
 ---

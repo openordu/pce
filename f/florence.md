@@ -2,5 +2,7 @@
 title: Florence 
 index: false
 article: false 
-icon: article 
+icon: article
+next: flothal.md
+prev: flonan-cam.md
 ---

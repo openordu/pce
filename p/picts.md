@@ -2,5 +2,7 @@
 title: Picts 
 index: false
 article: false 
-icon: article 
+icon: article
+next: plant-annwn.md
+prev: pict.md
 ---

@@ -2,5 +2,7 @@
 title: dunter 
 index: false
 article: false 
-icon: article 
+icon: article
+next: dwarf.md
+prev: dunnie.md
 ---

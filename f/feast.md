@@ -2,5 +2,7 @@
 title: feast 
 index: false
 article: false 
-icon: article 
+icon: article
+next: fenodyree.md
+prev: fawn.md
 ---

@@ -2,5 +2,7 @@
 title: Adsagsona 
 index: false
 article: false 
-icon: article 
+icon: article
+next: aeracura.md
+prev: adra.md
 ---

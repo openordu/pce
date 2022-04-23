@@ -2,5 +2,7 @@
 title: tanist 
 index: false
 article: false 
-icon: article 
+icon: article
+next: tarans.md
+prev: tangie.md
 ---

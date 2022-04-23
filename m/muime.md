@@ -2,5 +2,7 @@
 title: Muime 
 index: false
 article: false 
-icon: article 
+icon: article
+next: muircertach-mac-erc.md
+prev: muilearach.md
 ---

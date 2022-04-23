@@ -2,5 +2,7 @@
 title: Tighearnmhas 
 index: false
 article: false 
-icon: article 
+icon: article
+next: tine-ghealáin.md
+prev: tigernmas.md
 ---

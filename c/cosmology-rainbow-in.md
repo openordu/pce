@@ -2,5 +2,7 @@
 title: cosmology, rainbow in 
 index: false
 article: false 
-icon: article 
+icon: article
+next: cosmology-reincarnation-in.md
+prev: cosmology-quintessence-in.md
 ---

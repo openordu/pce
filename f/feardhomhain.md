@@ -2,5 +2,7 @@
 title: Feardhomhain 
 index: false
 article: false 
-icon: article 
+icon: article
+next: fearghal-mac-maoldúin.md
+prev: fear-diadh.md
 ---

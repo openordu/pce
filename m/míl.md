@@ -2,5 +2,7 @@
 title: Míl 
 index: false
 article: false 
-icon: article 
+icon: article
+next: mór.md
+prev: mythological-cycle.md
 ---

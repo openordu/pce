@@ -2,5 +2,7 @@
 title: fifth province 
 index: false
 article: false 
-icon: article 
+icon: article
+next: fili.md
+prev: fidchell.md
 ---

@@ -2,5 +2,7 @@
 title: Newgrange 
 index: false
 article: false 
-icon: article 
+icon: article
+next: niadh-seaghamhain.md
+prev: nevyn.md
 ---

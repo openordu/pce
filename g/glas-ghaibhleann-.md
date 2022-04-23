@@ -2,5 +2,7 @@
 title: Glas Ghaibhleann        
 index: false
 article: false 
-icon: article 
+icon: article
+next: glas-ghoibhneann.md
+prev: glanlua.md
 ---

@@ -2,5 +2,7 @@
 title: bogan 
 index: false
 article: false 
-icon: article 
+icon: article
+next: boggart.md
+prev: bog-people.md
 ---

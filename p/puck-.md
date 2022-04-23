@@ -2,5 +2,7 @@
 title: puck  
 index: false
 article: false 
-icon: article 
+icon: article
+next: py.md
+prev: province-.md
 ---

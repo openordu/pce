@@ -2,5 +2,7 @@
 title: Muircertach mac Erc 
 index: false
 article: false 
-icon: article 
+icon: article
+next: muircheartach-mac-earca.md
+prev: muime.md
 ---

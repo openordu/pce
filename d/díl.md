@@ -2,5 +2,7 @@
 title: Díl 
 index: false
 article: false 
-icon: article 
+icon: article
+next: díthorba.md
+prev: dígne.md
 ---

@@ -2,5 +2,7 @@
 title: Éremón 
 index: false
 article: false 
-icon: article 
+icon: article
+next: ériu.md
+prev: érainn.md
 ---

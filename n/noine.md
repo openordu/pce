@@ -2,5 +2,7 @@
 title: Noine 
 index: false
 article: false 
-icon: article 
+icon: article
+next: nollaig.md
+prev: nodens.md
 ---

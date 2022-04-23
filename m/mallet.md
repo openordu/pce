@@ -2,5 +2,7 @@
 title: mallet 
 index: false
 article: false 
-icon: article 
+icon: article
+next: mare.md
+prev: magpie.md
 ---

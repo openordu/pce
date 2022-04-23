@@ -2,5 +2,7 @@
 title: Ny Shee 
 index: false
 article: false 
-icon: article 
+icon: article
+next: nynnyaw.md
+prev: nudd.md
 ---

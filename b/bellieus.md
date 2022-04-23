@@ -2,5 +2,7 @@
 title: Bellieus 
 index: false
 article: false 
-icon: article 
+icon: article
+next: beltane.md
+prev: belisama.md
 ---

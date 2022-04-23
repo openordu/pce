@@ -2,5 +2,7 @@
 title: Anfortas 
 index: false
 article: false 
-icon: article 
+icon: article
+next: anglesey.md
+prev: andred.md
 ---

@@ -1,8 +1,8 @@
 ---
 title: C 
-index: 9668
+index: 330
 article: false 
-icon: category 
+icon: folder 
 ---
 1. [Cabyll-Ushtey](c/cabyll-ushtey.md)
 1. [Cado](c/cado.md)

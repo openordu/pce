@@ -2,5 +2,7 @@
 title: Coligny 
 index: false
 article: false 
-icon: article 
+icon: article
+next: colla.md
+prev: colgrevance.md
 ---

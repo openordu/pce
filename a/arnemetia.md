@@ -2,5 +2,7 @@
 title: Arnemetia 
 index: false
 article: false 
-icon: article 
+icon: article
+next: art.md
+prev: armorica.md
 ---

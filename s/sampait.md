@@ -2,5 +2,7 @@
 title: Sampait 
 index: false
 article: false 
-icon: article 
+icon: article
+next: sarsfield-patrick.md
+prev: samhair.md
 ---

@@ -2,5 +2,7 @@
 title: moving stones 
 index: false
 article: false 
-icon: article 
+icon: article
+next: music.md
+prev: mouse.md
 ---

@@ -2,5 +2,7 @@
 title: horse sacrifice 
 index: false
 article: false 
-icon: article 
+icon: article
+next: horses.md
+prev: horse-.md
 ---

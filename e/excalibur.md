@@ -2,5 +2,7 @@
 title: Excalibur 
 index: false
 article: false 
-icon: article 
+icon: article
+next: eógan.md
+prev: ethal-anbuail.md
 ---

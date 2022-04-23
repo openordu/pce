@@ -2,5 +2,7 @@
 title: Witta 
 index: false
 article: false 
-icon: article 
+icon: article
+next: yallery-brown.md
+prev: winefride.md
 ---

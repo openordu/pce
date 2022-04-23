@@ -2,5 +2,7 @@
 title: Fuinche 
 index: false
 article: false 
-icon: article 
+icon: article
+next: furbaide-ferbend.md
+prev: fuamnach.md
 ---

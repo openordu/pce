@@ -2,5 +2,7 @@
 title: fairy hunger 
 index: false
 article: false 
-icon: article 
+icon: article
+next: fairy-islands.md
+prev: fairy-housekeeper.md
 ---

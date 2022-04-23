@@ -2,5 +2,7 @@
 title: Tailtiu 
 index: false
 article: false 
-icon: article 
+icon: article
+next: taise.md
+prev: tadhg-mac-céin.md
 ---

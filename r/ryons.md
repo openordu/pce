@@ -2,5 +2,7 @@
 title: Ryons 
 index: false
 article: false 
-icon: article 
+icon: article
+next: rómit-rígóinmit.md
+prev: ruturugus.md
 ---

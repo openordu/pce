@@ -2,5 +2,7 @@
 title: Étan 
 index: false
 article: false 
-icon: article 
+icon: article
+next: étar.md
+prev: étain-transmigration-of.md
 ---

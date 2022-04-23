@@ -2,5 +2,7 @@
 title: fairy ring 
 index: false
 article: false 
-icon: article 
+icon: article
+next: fairy-sleep.md
+prev: fairy-rath.md
 ---

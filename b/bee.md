@@ -2,5 +2,7 @@
 title: bee 
 index: false
 article: false 
-icon: article 
+icon: article
+next: beech-tree.md
+prev: beating-the-bounds.md
 ---

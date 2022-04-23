@@ -2,5 +2,7 @@
 title: Midwinter 
 index: false
 article: false 
-icon: article 
+icon: article
+next: mil.md
+prev: midsummer.md
 ---

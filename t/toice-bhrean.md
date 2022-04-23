@@ -2,5 +2,7 @@
 title: Toice Bhrean 
 index: false
 article: false 
-icon: article 
+icon: article
+next: tom-thumb.md
+prev: tlachtga.md
 ---

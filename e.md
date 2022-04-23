@@ -1,8 +1,8 @@
 ---
 title: E 
-index: 9224
+index: 774
 article: false 
-icon: category 
+icon: folder 
 ---
 1. [Eachlach Urlair](e/eachlach-urlair.md)
 1. [Eachtach](e/eachtach.md)

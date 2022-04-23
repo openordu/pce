@@ -2,5 +2,7 @@
 title: Gargantua 
 index: false
 article: false 
-icon: article 
+icon: article
+next: garlach-coileánach.md
+prev: gareth.md
 ---

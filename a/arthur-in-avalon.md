@@ -2,5 +2,7 @@
 title: Arthur, in Avalon 
 index: false
 article: false 
-icon: article 
+icon: article
+next: arthur-incest-of.md
+prev: arthur-foster-brother-of.md
 ---

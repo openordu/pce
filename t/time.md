@@ -2,5 +2,7 @@
 title: time 
 index: false
 article: false 
-icon: article 
+icon: article
+next: tober.md
+prev: threefold-death.md
 ---

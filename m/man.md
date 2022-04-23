@@ -2,5 +2,7 @@
 title: Man 
 index: false
 article: false 
-icon: article 
+icon: article
+next: manann.md
+prev: malekin.md
 ---

@@ -2,5 +2,7 @@
 title: blemished king 
 index: false
 article: false 
-icon: article 
+icon: article
+next: blood.md
+prev: birth.md
 ---

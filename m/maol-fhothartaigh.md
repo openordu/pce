@@ -2,5 +2,7 @@
 title: Maol Fhothartaigh 
 index: false
 article: false 
-icon: article 
+icon: article
+next: maol-flidais.md
+prev: maol-dúin.md
 ---

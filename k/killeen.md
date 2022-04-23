@@ -2,5 +2,7 @@
 title: killeen 
 index: false
 article: false 
-icon: article 
+icon: article
+next: kings-kingship.md
+prev: key.md
 ---

@@ -2,5 +2,7 @@
 title: Teltown 
 index: false
 article: false 
-icon: article 
+icon: article
+next: temair.md
+prev: telo.md
 ---

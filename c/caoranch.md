@@ -2,5 +2,7 @@
 title: Caoranch 
 index: false
 article: false 
-icon: article 
+icon: article
+next: caradawg.md
+prev: caolainn.md
 ---

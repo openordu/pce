@@ -2,5 +2,7 @@
 title: Eochaid Airem 
 index: false
 article: false 
-icon: article 
+icon: article
+next: eochaid-fedlech.md
+prev: eochaid.md
 ---

@@ -2,5 +2,7 @@
 title: Mary 
 index: false
 article: false 
-icon: article 
+icon: article
+next: mary-candle.md
+prev: martin.md
 ---

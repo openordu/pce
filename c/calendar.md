@@ -2,5 +2,7 @@
 title: calendar 
 index: false
 article: false 
-icon: article 
+icon: article
+next: canach.md
+prev: calamity-meat.md
 ---

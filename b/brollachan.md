@@ -2,5 +2,7 @@
 title: brollachan 
 index: false
 article: false 
-icon: article 
+icon: article
+next: brounger.md
+prev: brehon.md
 ---

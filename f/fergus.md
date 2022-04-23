@@ -2,5 +2,7 @@
 title: Fergus 
 index: false
 article: false 
-icon: article 
+icon: article
+next: fergus-foga.md
+prev: ferdiad.md
 ---

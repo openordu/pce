@@ -2,5 +2,7 @@
 title: Mars, Mogetius as 
 index: false
 article: false 
-icon: article 
+icon: article
+next: mars-mullo-as.md
+prev: mars-medocius-as.md
 ---

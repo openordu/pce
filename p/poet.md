@@ -2,5 +2,7 @@
 title: poet 
 index: false
 article: false 
-icon: article 
+icon: article
+next: poetry.md
+prev: pledge-to-the-elements-plowing.md
 ---

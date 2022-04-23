@@ -2,5 +2,7 @@
 title: birth 
 index: false
 article: false 
-icon: article 
+icon: article
+next: blemished-king.md
+prev: birds.md
 ---

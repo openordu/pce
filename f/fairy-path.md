@@ -2,5 +2,7 @@
 title: fairy path 
 index: false
 article: false 
-icon: article 
+icon: article
+next: fairy-queen.md
+prev: fairy-ointment.md
 ---

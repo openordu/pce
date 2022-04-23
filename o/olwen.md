@@ -2,5 +2,7 @@
 title: Olwen 
 index: false
 article: false 
-icon: article 
+icon: article
+next: oona.md
+prev: olmec.md
 ---

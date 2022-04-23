@@ -2,5 +2,7 @@
 title: Shoney 
 index: false
 article: false 
-icon: article 
+icon: article
+next: sigmall.md
+prev: shellycoat.md
 ---

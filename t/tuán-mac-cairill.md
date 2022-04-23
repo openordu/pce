@@ -2,5 +2,7 @@
 title: Tuán mac Cairill 
 index: false
 article: false 
-icon: article 
+icon: article
+next: tweedie.md
+prev: turoe-stone.md
 ---

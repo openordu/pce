@@ -2,5 +2,7 @@
 title: red-handed king 
 index: false
 article: false 
-icon: article 
+icon: article
+next: reincarnation-.md
+prev: rebirth.md
 ---

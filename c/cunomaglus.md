@@ -2,5 +2,7 @@
 title: Cunomaglus 
 index: false
 article: false 
-icon: article 
+icon: article
+next: custennin.md
+prev: cunobelinus.md
 ---

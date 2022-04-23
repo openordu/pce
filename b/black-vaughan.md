@@ -2,5 +2,7 @@
 title: Black Vaughan 
 index: false
 article: false 
-icon: article 
+icon: article
+next: bladud.md
+prev: black-dog.md
 ---

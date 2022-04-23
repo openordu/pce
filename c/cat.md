@@ -2,5 +2,7 @@
 title: cat 
 index: false
 article: false 
-icon: article 
+icon: article
+next: cats.md
+prev: casting-aglamour.md
 ---

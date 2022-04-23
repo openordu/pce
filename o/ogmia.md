@@ -2,5 +2,7 @@
 title: Ogmia 
 index: false
 article: false 
-icon: article 
+icon: article
+next: ogmios.md
+prev: ogma.md
 ---

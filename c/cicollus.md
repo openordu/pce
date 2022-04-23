@@ -2,5 +2,7 @@
 title: Cicollus 
 index: false
 article: false 
-icon: article 
+icon: article
+next: cigfa.md
+prev: cichban.md
 ---

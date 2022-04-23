@@ -2,5 +2,7 @@
 title: Gwern 
 index: false
 article: false 
-icon: article 
+icon: article
+next: gwidion.md
+prev: gwenfrewi.md
 ---

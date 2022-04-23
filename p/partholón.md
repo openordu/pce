@@ -2,5 +2,7 @@
 title: Partholón 
 index: false
 article: false 
-icon: article 
+icon: article
+next: patrick.md
+prev: partholonians.md
 ---

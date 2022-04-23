@@ -2,5 +2,7 @@
 title: cosmology, omens in 
 index: false
 article: false 
-icon: article 
+icon: article
+next: cosmology-poetry-in.md
+prev: cosmology-numbers-in.md
 ---

@@ -2,5 +2,7 @@
 title: Adra 
 index: false
 article: false 
-icon: article 
+icon: article
+next: adsagsona.md
+prev: adhnúall.md
 ---

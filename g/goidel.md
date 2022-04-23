@@ -2,5 +2,7 @@
 title: Goidel 
 index: false
 article: false 
-icon: article 
+icon: article
+next: goidelic-celtic.md
+prev: goibniu.md
 ---

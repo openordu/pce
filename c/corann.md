@@ -2,5 +2,7 @@
 title: Corann 
 index: false
 article: false 
-icon: article 
+icon: article
+next: corbenic.md
+prev: conán-maol.md
 ---

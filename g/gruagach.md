@@ -2,5 +2,7 @@
 title: gruagach 
 index: false
 article: false 
-icon: article 
+icon: article
+next: guee.md
+prev: grove.md
 ---

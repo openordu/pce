@@ -2,5 +2,7 @@
 title: pin 
 index: false
 article: false 
-icon: article 
+icon: article
+next: pishogue.md
+prev: pilgrimage.md
 ---

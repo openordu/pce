@@ -2,5 +2,7 @@
 title: Neimheadh 
 index: false
 article: false 
-icon: article 
+icon: article
+next: nemain.md
+prev: nehalennia.md
 ---

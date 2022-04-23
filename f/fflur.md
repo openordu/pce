@@ -2,5 +2,7 @@
 title: Fflur 
 index: false
 article: false 
-icon: article 
+icon: article
+next: fiacclach-mac-conchinn-fiachna.md
+prev: fergus-mac-róich.md
 ---

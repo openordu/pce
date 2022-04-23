@@ -1,8 +1,8 @@
 ---
 title: J 
-index: 8775
+index: 1223
 article: false 
-icon: category 
+icon: folder 
 ---
 1. [Jack-in-Irons](j/jack-in-irons.md)
 1. [Jack-in-the-Green](j/jack-in-the-green.md)

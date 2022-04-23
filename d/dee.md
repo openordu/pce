@@ -2,5 +2,7 @@
 title: Dee 
 index: false
 article: false 
-icon: article 
+icon: article
+next: deimne-.md
+prev: dechtire-dé-danann.md
 ---

@@ -2,5 +2,7 @@
 title: Morfessa 
 index: false
 article: false 
-icon: article 
+icon: article
+next: morfran.md
+prev: mordred.md
 ---

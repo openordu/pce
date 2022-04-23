@@ -2,5 +2,7 @@
 title: Tristan 
 index: false
 article: false 
-icon: article 
+icon: article
+next: tryamour.md
+prev: triduana.md
 ---

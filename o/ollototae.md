@@ -2,5 +2,7 @@
 title: Ollototae 
 index: false
 article: false 
-icon: article 
+icon: article
+next: olloudios.md
+prev: ollipheist.md
 ---

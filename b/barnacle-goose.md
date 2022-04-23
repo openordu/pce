@@ -2,5 +2,7 @@
 title: barnacle goose 
 index: false
 article: false 
-icon: article 
+icon: article
+next: barrow.md
+prev: barguest.md
 ---

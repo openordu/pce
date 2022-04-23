@@ -2,5 +2,7 @@
 title: Laoghaire Buadhach Laoghaire mac Crimthann 
 index: false
 article: false 
-icon: article 
+icon: article
+next: laoghaire-son-of-niall-lasair.md
+prev: laoghaire-buach.md
 ---

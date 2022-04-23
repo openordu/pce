@@ -2,5 +2,7 @@
 title: Tethra 
 index: false
 article: false 
-icon: article 
+icon: article
+next: teutates.md
+prev: tethba.md
 ---

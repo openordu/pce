@@ -2,5 +2,7 @@
 title: marriage 
 index: false
 article: false 
-icon: article 
+icon: article
+next: marvels.md
+prev: mare.md
 ---

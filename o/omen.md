@@ -2,5 +2,7 @@
 title: omen 
 index: false
 article: false 
-icon: article 
+icon: article
+next: oracle.md
+prev: ollam.md
 ---

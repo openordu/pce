@@ -2,5 +2,7 @@
 title: Dáire Derg 
 index: false
 article: false 
-icon: article 
+icon: article
+next: dáire-of-the-poems.md
+prev: dáire.md
 ---

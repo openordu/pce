@@ -1,8 +1,8 @@
 ---
 title: U 
-index: 9368
+index: 630
 article: false 
-icon: category 
+icon: folder 
 ---
 1. [Uath mac Imoman](u/uath-mac-imoman.md)
 1. [Uigreann](u/uigreann.md)

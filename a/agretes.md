@@ -2,5 +2,7 @@
 title: Agretes 
 index: false
 article: false 
-icon: article 
+icon: article
+next: agrona.md
+prev: agravaine.md
 ---

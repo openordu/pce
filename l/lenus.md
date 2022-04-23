@@ -2,5 +2,7 @@
 title: Lenus 
 index: false
 article: false 
-icon: article 
+icon: article
+next: leodegrance.md
+prev: lenumius.md
 ---

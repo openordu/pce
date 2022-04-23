@@ -2,5 +2,7 @@
 title: Creiddylad 
 index: false
 article: false 
-icon: article 
+icon: article
+next: creidne.md
+prev: crannóg.md
 ---

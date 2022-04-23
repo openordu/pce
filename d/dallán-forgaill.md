@@ -2,5 +2,7 @@
 title: Dallán Forgaill 
 index: false
 article: false 
-icon: article 
+icon: article
+next: dalua.md
+prev: daireann.md
 ---

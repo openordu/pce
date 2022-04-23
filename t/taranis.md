@@ -2,5 +2,7 @@
 title: Taranis 
 index: false
 article: false 
-icon: article 
+icon: article
+next: tarbhfheis.md
+prev: taran.md
 ---

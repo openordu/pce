@@ -2,5 +2,7 @@
 title: Moninne 
 index: false
 article: false 
-icon: article 
+icon: article
+next: morann.md
+prev: mongán.md
 ---

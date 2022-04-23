@@ -2,5 +2,7 @@
 title: Airech 
 index: false
 article: false 
-icon: article 
+icon: article
+next: airghialla.md
+prev: ainge.md
 ---

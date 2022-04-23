@@ -2,5 +2,7 @@
 title: Eisteddfod 
 index: false
 article: false 
-icon: article 
+icon: article
+next: eiteag.md
+prev: eisirt.md
 ---

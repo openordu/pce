@@ -2,5 +2,7 @@
 title: Aithirne 
 index: false
 article: false 
-icon: article 
+icon: article
+next: alain.md
+prev: airmid.md
 ---

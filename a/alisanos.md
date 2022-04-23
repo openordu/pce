@@ -2,5 +2,7 @@
 title: Alisanos 
 index: false
 article: false 
-icon: article 
+icon: article
+next: all-saints-day.md
+prev: alisander-le-orphelin.md
 ---

@@ -2,5 +2,7 @@
 title: Bé Chuma 
 index: false
 article: false 
-icon: article 
+icon: article
+next: bó-find.md
+prev: bé-chuille.md
 ---

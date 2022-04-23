@@ -2,5 +2,7 @@
 title: Wild Geese 
 index: false
 article: false 
-icon: article 
+icon: article
+next: wild-hunt.md
+prev: wicca.md
 ---

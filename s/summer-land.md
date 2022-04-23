@@ -2,5 +2,7 @@
 title: Summer Land 
 index: false
 article: false 
-icon: article 
+icon: article
+next: sutugius.md
+prev: suleviae.md
 ---

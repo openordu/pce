@@ -2,5 +2,7 @@
 title: Ailinn 
 index: false
 article: false 
-icon: article 
+icon: article
+next: aill-na-mireann.md
+prev: ailill-milesian-king.md
 ---

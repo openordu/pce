@@ -2,5 +2,7 @@
 title: yew 
 index: false
 article: false 
-icon: article 
+icon: article
+next: yew-of-ross.md
+prev: yeats-william-butler.md
 ---

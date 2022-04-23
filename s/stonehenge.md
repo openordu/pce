@@ -2,5 +2,7 @@
 title: Stonehenge 
 index: false
 article: false 
-icon: article 
+icon: article
+next: strid.md
+prev: stone-of-divisions.md
 ---

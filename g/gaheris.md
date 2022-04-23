@@ -2,5 +2,7 @@
 title: Gaheris 
 index: false
 article: false 
-icon: article 
+icon: article
+next: gahmuret.md
+prev: gaelic.md
 ---

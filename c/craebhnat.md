@@ -2,5 +2,7 @@
 title: Craebhnat 
 index: false
 article: false 
-icon: article 
+icon: article
+next: craiftine.md
+prev: coventina.md
 ---

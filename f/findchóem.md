@@ -2,5 +2,7 @@
 title: Findchóem 
 index: false
 article: false 
-icon: article 
+icon: article
+next: findias.md
+prev: find.md
 ---

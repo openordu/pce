@@ -2,5 +2,7 @@
 title: divination through letters 
 index: false
 article: false 
-icon: article 
+icon: article
+next: divination-through-touch.md
+prev: divination-through-incantation.md
 ---

@@ -2,5 +2,7 @@
 title: Yann-An-Ord 
 index: false
 article: false 
-icon: article 
+icon: article
+next: ychen-bannog.md
+prev: yallery-brown.md
 ---

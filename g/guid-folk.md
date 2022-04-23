@@ -2,5 +2,7 @@
 title: Guid Folk 
 index: false
 article: false 
-icon: article 
+icon: article
+next: guinevere.md
+prev: guaire.md
 ---

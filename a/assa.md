@@ -2,5 +2,7 @@
 title: Assa 
 index: false
 article: false 
-icon: article 
+icon: article
+next: assaroe.md
+prev: asenora.md
 ---

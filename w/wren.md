@@ -2,5 +2,7 @@
 title: wren 
 index: false
 article: false 
-icon: article 
+icon: article
+next: writing.md
+prev: worm.md
 ---

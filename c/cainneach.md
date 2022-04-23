@@ -2,5 +2,7 @@
 title: Cainneach 
 index: false
 article: false 
-icon: article 
+icon: article
+next: cairbre.md
+prev: caillín.md
 ---

@@ -2,5 +2,7 @@
 title: Ainge 
 index: false
 article: false 
-icon: article 
+icon: article
+next: airech.md
+prev: aine.md
 ---

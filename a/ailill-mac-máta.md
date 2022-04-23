@@ -2,5 +2,7 @@
 title: Ailill mac Máta 
 index: false
 article: false 
-icon: article 
+icon: article
+next: ailill-of-aran.md
+prev: ailill-olom.md
 ---

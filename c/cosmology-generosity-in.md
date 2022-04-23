@@ -2,5 +2,7 @@
 title: cosmology, generosity in 
 index: false
 article: false 
-icon: article 
+icon: article
+next: cosmology-goddesses-in.md
+prev: cosmology-five-in.md
 ---

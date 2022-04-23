@@ -2,5 +2,7 @@
 title: Octriallach 
 index: false
 article: false 
-icon: article 
+icon: article
+next: odras.md
+prev: ochren.md
 ---

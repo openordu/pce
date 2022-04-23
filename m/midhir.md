@@ -2,5 +2,7 @@
 title: Midhir 
 index: false
 article: false 
-icon: article 
+icon: article
+next: midir.md
+prev: midhe.md
 ---

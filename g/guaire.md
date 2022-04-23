@@ -2,5 +2,7 @@
 title: Guaire 
 index: false
 article: false 
-icon: article 
+icon: article
+next: guid-folk.md
+prev: gráinne-lover-of.md
 ---

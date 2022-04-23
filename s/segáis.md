@@ -2,5 +2,7 @@
 title: Segáis 
 index: false
 article: false 
-icon: article 
+icon: article
+next: sele.md
+prev: segomo.md
 ---

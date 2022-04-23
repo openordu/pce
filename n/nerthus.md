@@ -2,5 +2,7 @@
 title: Nerthus 
 index: false
 article: false 
-icon: article 
+icon: article
+next: nessa.md
+prev: nerbgen.md
 ---

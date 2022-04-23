@@ -2,5 +2,7 @@
 title: Warna 
 index: false
 article: false 
-icon: article 
+icon: article
+next: wayland.md
+prev: vosegus.md
 ---

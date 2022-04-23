@@ -2,5 +2,7 @@
 title: Eiscir Riada 
 index: false
 article: false 
-icon: article 
+icon: article
+next: eisirt.md
+prev: eire.md
 ---

@@ -2,5 +2,7 @@
 title: Stone of Divisions 
 index: false
 article: false 
-icon: article 
+icon: article
+next: stonehenge.md
+prev: starn.md
 ---

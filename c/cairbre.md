@@ -2,5 +2,7 @@
 title: Cairbre 
 index: false
 article: false 
-icon: article 
+icon: article
+next: cairbre-catcheann.md
+prev: cainneach.md
 ---

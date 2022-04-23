@@ -2,5 +2,7 @@
 title: Lough Derg 
 index: false
 article: false 
-icon: article 
+icon: article
+next: lough-gur.md
+prev: loucetius.md
 ---

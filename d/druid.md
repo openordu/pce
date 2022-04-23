@@ -2,5 +2,7 @@
 title: druid 
 index: false
 article: false 
-icon: article 
+icon: article
+next: druid-mog-ruith.md
+prev: dreams.md
 ---

@@ -2,5 +2,7 @@
 title: Éire 
 index: false
 article: false 
-icon: article 
+icon: article
+next: éireamhóin.md
+prev: éinne.md
 ---

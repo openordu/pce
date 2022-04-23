@@ -2,5 +2,7 @@
 title: Inchiquin 
 index: false
 article: false 
-icon: article 
+icon: article
+next: inchiquin-indech.md
+prev: imbolc.md
 ---

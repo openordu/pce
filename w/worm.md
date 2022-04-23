@@ -2,5 +2,7 @@
 title: worm 
 index: false
 article: false 
-icon: article 
+icon: article
+next: wren.md
+prev: wooing.md
 ---

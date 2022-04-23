@@ -2,5 +2,7 @@
 title: Skye 
 index: false
 article: false 
-icon: article 
+icon: article
+next: slane.md
+prev: sithchenn.md
 ---

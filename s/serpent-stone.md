@@ -2,5 +2,7 @@
 title: serpent stone 
 index: false
 article: false 
-icon: article 
+icon: article
+next: seven.md
+prev: serpent.md
 ---

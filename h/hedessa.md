@@ -2,5 +2,7 @@
 title: Hedessa 
 index: false
 article: false 
-icon: article 
+icon: article
+next: hefydd-hen.md
+prev: heathrow.md
 ---

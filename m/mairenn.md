@@ -2,5 +2,7 @@
 title: Mairenn 
 index: false
 article: false 
-icon: article 
+icon: article
+next: mal.md
+prev: maine.md
 ---

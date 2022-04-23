@@ -2,5 +2,7 @@
 title: derbfine 
 index: false
 article: false 
-icon: article 
+icon: article
+next: dergfhlaith.md
+prev: deosil.md
 ---

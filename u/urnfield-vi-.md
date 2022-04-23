@@ -2,5 +2,7 @@
 title: Urnfield vi, 
 index: false
 article: false 
-icon: article 
+icon: article
+next: uscias.md
+prev: urien.md
 ---

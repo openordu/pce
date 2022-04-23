@@ -2,5 +2,7 @@
 title: foyson 
 index: false
 article: false 
-icon: article 
+icon: article
+next: framing-spell.md
+prev: fox.md
 ---

@@ -2,5 +2,7 @@
 title: Agravaine 
 index: false
 article: false 
-icon: article 
+icon: article
+next: agretes.md
+prev: agnoman.md
 ---

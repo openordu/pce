@@ -1,8 +1,8 @@
 ---
 title: N 
-index: 9050
+index: 948
 article: false 
-icon: category 
+icon: folder 
 ---
 1. [Nuada](n/nuada.md)
 1. [Nabelcus](n/nabelcus.md)

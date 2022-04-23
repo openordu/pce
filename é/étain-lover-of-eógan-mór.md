@@ -2,5 +2,7 @@
 title: Étain, lover of Eógan Mór 
 index: false
 article: false 
-icon: article 
+icon: article
+next: étain-lover-of-midir.md
+prev: étain-lover-of-eochaid-fedlech.md
 ---

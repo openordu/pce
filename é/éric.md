@@ -2,5 +2,7 @@
 title: éric 
 index: false
 article: false 
-icon: article 
+icon: article
+next: .md
+prev: áes-sidhe.md
 ---

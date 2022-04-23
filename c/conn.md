@@ -2,5 +2,7 @@
 title: Conn 
 index: false
 article: false 
-icon: article 
+icon: article
+next: conn-céadchathach.md
+prev: conlae.md
 ---

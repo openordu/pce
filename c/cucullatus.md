@@ -2,5 +2,7 @@
 title: Cucullatus 
 index: false
 article: false 
-icon: article 
+icon: article
+next: cuda.md
+prev: cuailnge.md
 ---

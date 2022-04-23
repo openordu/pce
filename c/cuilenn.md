@@ -2,5 +2,7 @@
 title: Cuilenn 
 index: false
 article: false 
-icon: article 
+icon: article
+next: cuirithir.md
+prev: cuda.md
 ---

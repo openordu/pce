@@ -2,5 +2,7 @@
 title: Habondia 
 index: false
 article: false 
-icon: article 
+icon: article
+next: hafgan.md
+prev: habetrot.md
 ---

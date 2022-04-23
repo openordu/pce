@@ -2,5 +2,7 @@
 title: Berrey Dhone 
 index: false
 article: false 
-icon: article 
+icon: article
+next: biddy.md
+prev: berguisa.md
 ---

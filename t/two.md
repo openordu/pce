@@ -2,5 +2,7 @@
 title: two 
 index: false
 article: false 
-icon: article 
+icon: article
+next: tylwyth-teg.md
+prev: twins.md
 ---

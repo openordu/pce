@@ -2,5 +2,7 @@
 title: triad 
 index: false
 article: false 
-icon: article 
+icon: article
+next: triplicity.md
+prev: tree.md
 ---

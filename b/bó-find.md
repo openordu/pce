@@ -2,5 +2,7 @@
 title: Bó Find 
 index: false
 article: false 
-icon: article 
+icon: article
+next: bóand.md
+prev: bé-chuma.md
 ---

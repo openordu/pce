@@ -2,5 +2,7 @@
 title: Malekin 
 index: false
 article: false 
-icon: article 
+icon: article
+next: man.md
+prev: maledisant.md
 ---

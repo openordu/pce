@@ -2,5 +2,7 @@
 title: Artaios 
 index: false
 article: false 
-icon: article 
+icon: article
+next: artemis.md
+prev: art-mac-cuinn.md
 ---

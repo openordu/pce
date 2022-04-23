@@ -2,5 +2,7 @@
 title: Eithne the Fair 
 index: false
 article: false 
-icon: article 
+icon: article
+next: eithne-úathach.md
+prev: eithne-of-tara.md
 ---

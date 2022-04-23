@@ -2,5 +2,7 @@
 title: Mullo 
 index: false
 article: false 
-icon: article 
+icon: article
+next: mumu.md
+prev: muirthemne.md
 ---

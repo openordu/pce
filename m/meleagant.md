@@ -2,5 +2,7 @@
 title: Meleagant 
 index: false
 article: false 
-icon: article 
+icon: article
+next: mellts.md
+prev: meilge.md
 ---

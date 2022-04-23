@@ -2,5 +2,7 @@
 title: Devona 
 index: false
 article: false 
-icon: article 
+icon: article
+next: dian-céacht.md
+prev: devil-s-mother.md
 ---

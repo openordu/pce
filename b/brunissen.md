@@ -2,5 +2,7 @@
 title: Brunissen 
 index: false
 article: false 
-icon: article 
+icon: article
+next: bruno.md
+prev: bronwen.md
 ---

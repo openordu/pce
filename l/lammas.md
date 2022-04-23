@@ -2,5 +2,7 @@
 title: Lammas 
 index: false
 article: false 
-icon: article 
+icon: article
+next: lamorack-de-galles.md
+prev: lambton-worm.md
 ---

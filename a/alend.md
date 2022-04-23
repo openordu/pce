@@ -2,5 +2,7 @@
 title: Alend 
 index: false
 article: false 
-icon: article 
+icon: article
+next: alfasem.md
+prev: aleine.md
 ---

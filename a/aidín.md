@@ -2,5 +2,7 @@
 title: Aidín 
 index: false
 article: false 
-icon: article 
+icon: article
+next: aifi.md
+prev: aibheaeg.md
 ---

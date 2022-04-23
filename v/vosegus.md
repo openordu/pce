@@ -2,5 +2,7 @@
 title: Vosegus 
 index: false
 article: false 
-icon: article 
+icon: article
+next: warna.md
+prev: viviane.md
 ---

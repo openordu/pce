@@ -2,5 +2,7 @@
 title: Fachtna 
 index: false
 article: false 
-icon: article 
+icon: article
+next: faerie.md
+prev: eógobal.md
 ---

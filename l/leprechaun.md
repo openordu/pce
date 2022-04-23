@@ -2,5 +2,7 @@
 title: leprechaun 
 index: false
 article: false 
-icon: article 
+icon: article
+next: leprechaun-xv-.md
+prev: legend.md
 ---

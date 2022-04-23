@@ -2,5 +2,7 @@
 title: healing stones  
 index: false
 article: false 
-icon: article 
+icon: article
+next: hearth.md
+prev: healing.md
 ---

@@ -2,5 +2,7 @@
 title: Iarbanel 
 index: false
 article: false 
-icon: article 
+icon: article
+next: ibath-ibcan.md
+prev: ialonus.md
 ---

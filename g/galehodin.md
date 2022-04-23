@@ -2,5 +2,7 @@
 title: Galehodin 
 index: false
 article: false 
-icon: article 
+icon: article
+next: galióin.md
+prev: galatia.md
 ---

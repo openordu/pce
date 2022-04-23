@@ -2,5 +2,7 @@
 title: hero tales 
 index: false
 article: false 
-icon: article 
+icon: article
+next: heron.md
+prev: herbs.md
 ---

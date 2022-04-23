@@ -2,5 +2,7 @@
 title: immortality 
 index: false
 article: false 
-icon: article 
+icon: article
+next: immovability.md
+prev: imbas-forosnai.md
 ---

@@ -2,5 +2,7 @@
 title: festival 
 index: false
 article: false 
-icon: article 
+icon: article
+next: fidchell.md
+prev: ferrish.md
 ---

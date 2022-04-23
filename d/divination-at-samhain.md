@@ -2,5 +2,7 @@
 title: divination, at Samhain 
 index: false
 article: false 
-icon: article 
+icon: article
+next: divination-bull-sleep-for.md
+prev: divination-alder-tree-and.md
 ---

@@ -2,5 +2,7 @@
 title: boat 
 index: false
 article: false 
-icon: article 
+icon: article
+next: bodach.md
+prev: boar.md
 ---

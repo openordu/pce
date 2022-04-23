@@ -2,5 +2,7 @@
 title: fenodyree 
 index: false
 article: false 
-icon: article 
+icon: article
+next: feolagan.md
+prev: feast.md
 ---

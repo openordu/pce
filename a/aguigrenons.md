@@ -2,5 +2,7 @@
 title: Aguigrenons 
 index: false
 article: false 
-icon: article 
+icon: article
+next: aibheaeg.md
+prev: agrona.md
 ---

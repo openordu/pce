@@ -2,5 +2,7 @@
 title: na buchtogai 
 index: false
 article: false 
-icon: article 
+icon: article
+next: names-for-fairyland.md
+prev: mythology.md
 ---

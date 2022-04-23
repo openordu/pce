@@ -2,5 +2,7 @@
 title: solitary fairies   
 index: false
 article: false 
-icon: article 
+icon: article
+next: solstice.md
+prev: solar-divinities.md
 ---

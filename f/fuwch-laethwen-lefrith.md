@@ -2,5 +2,7 @@
 title: Fuwch Laethwen Lefrith 
 index: false
 article: false 
-icon: article 
+icon: article
+next: fynnodderee.md
+prev: fursa.md
 ---

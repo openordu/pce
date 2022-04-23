@@ -2,5 +2,7 @@
 title: mother goddess 
 index: false
 article: false 
-icon: article 
+icon: article
+next: motif.md
+prev: morris-dancing.md
 ---

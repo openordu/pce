@@ -2,5 +2,7 @@
 title: Ughaine 
 index: false
 article: false 
-icon: article 
+icon: article
+next: uicce.md
+prev: uffington.md
 ---

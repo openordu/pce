@@ -2,5 +2,7 @@
 title: Korrigans 
 index: false
 article: false 
-icon: article 
+icon: article
+next: kulhwch.md
+prev: knowth.md
 ---

@@ -2,5 +2,7 @@
 title: Tryamour 
 index: false
 article: false 
-icon: article 
+icon: article
+next: trystan.md
+prev: tristan.md
 ---

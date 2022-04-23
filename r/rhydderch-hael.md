@@ -2,5 +2,7 @@
 title: Rhydderch Hael 
 index: false
 article: false 
-icon: article 
+icon: article
+next: riada.md
+prev: rhun.md
 ---

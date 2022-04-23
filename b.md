@@ -1,8 +1,8 @@
 ---
 title: B 
-index: 9842
+index: 156
 article: false 
-icon: category 
+icon: folder 
 ---
 1. [Bacorgladhra](b/bacorgladhra.md)
 1. [Badb](b/badb.md)

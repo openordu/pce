@@ -2,5 +2,7 @@
 title: Cailleach, serpent and 
 index: false
 article: false 
-icon: article 
+icon: article
+next: caillín.md
+prev: cailleach-on-imbolc.md
 ---

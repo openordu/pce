@@ -2,5 +2,7 @@
 title: Goll mac Morna 
 index: false
 article: false 
-icon: article 
+icon: article
+next: golwg.md
+prev: goleuddydd-goll-mac-morna.md
 ---

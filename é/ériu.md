@@ -2,5 +2,7 @@
 title: Ériu 
 index: false
 article: false 
-icon: article 
+icon: article
+next: ésa.md
+prev: éremón.md
 ---

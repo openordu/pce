@@ -2,5 +2,7 @@
 title: Uirne 
 index: false
 article: false 
-icon: article 
+icon: article
+next: uisneach.md
+prev: uigreann.md
 ---

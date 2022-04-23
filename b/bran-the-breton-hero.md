@@ -2,5 +2,7 @@
 title: Bran, the Breton hero 
 index: false
 article: false 
-icon: article 
+icon: article
+next: brandubh.md
+prev: bran-mac-febail.md
 ---

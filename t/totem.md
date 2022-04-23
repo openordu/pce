@@ -2,5 +2,7 @@
 title: totem 
 index: false
 article: false 
-icon: article 
+icon: article
+next: transmigration-of-souls.md
+prev: torc-torque.md
 ---

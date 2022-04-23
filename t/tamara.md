@@ -2,5 +2,7 @@
 title: Tamara 
 index: false
 article: false 
-icon: article 
+icon: article
+next: tara.md
+prev: tam-lin.md
 ---

@@ -2,5 +2,7 @@
 title: geis 
 index: false
 article: false 
-icon: article 
+icon: article
+next: geis.md
+prev: ganconer.md
 ---

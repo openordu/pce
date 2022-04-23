@@ -2,5 +2,7 @@
 title: Fíngein 
 index: false
 article: false 
-icon: article 
+icon: article
+next: fódla.md
+prev: féine.md
 ---

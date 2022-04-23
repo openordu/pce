@@ -2,5 +2,7 @@
 title: fox 
 index: false
 article: false 
-icon: article 
+icon: article
+next: foyson.md
+prev: fowl-domestic.md
 ---

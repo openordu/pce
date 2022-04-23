@@ -2,5 +2,7 @@
 title: Arianrhod 
 index: false
 article: false 
-icon: article 
+icon: article
+next: aristotle.md
+prev: argante.md
 ---

@@ -2,5 +2,7 @@
 title: Agnoman 
 index: false
 article: false 
-icon: article 
+icon: article
+next: agravaine.md
+prev: agallamh-na-seanóarch.md
 ---

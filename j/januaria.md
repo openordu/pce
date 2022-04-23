@@ -2,5 +2,7 @@
 title: Januaria 
 index: false
 article: false 
-icon: article 
+icon: article
+next: janus.md
+prev: janiform.md
 ---

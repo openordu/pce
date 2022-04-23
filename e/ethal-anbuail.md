@@ -2,5 +2,7 @@
 title: Ethal Anbuail 
 index: false
 article: false 
-icon: article 
+icon: article
+next: excalibur.md
+prev: esyllt.md
 ---

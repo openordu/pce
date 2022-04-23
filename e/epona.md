@@ -2,5 +2,7 @@
 title: Epona 
 index: false
 article: false 
-icon: article 
+icon: article
+next: erc.md
+prev: eoghanacht.md
 ---

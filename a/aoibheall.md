@@ -2,5 +2,7 @@
 title: Aoibheall 
 index: false
 article: false 
-icon: article 
+icon: article
+next: aonbárr.md
+prev: aodh-sláine.md
 ---

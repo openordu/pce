@@ -2,5 +2,7 @@
 title: Yspaddaden Penkawr 
 index: false
 article: false 
-icon: article 
+icon: article
+next: yvain.md
+prev: ysgithyrwyn.md
 ---

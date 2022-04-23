@@ -2,5 +2,7 @@
 title: Uffington 
 index: false
 article: false 
-icon: article 
+icon: article
+next: ughaine.md
+prev: ucuetis.md
 ---

@@ -2,5 +2,7 @@
 title: Hengroen 
 index: false
 article: false 
-icon: article 
+icon: article
+next: henky.md
+prev: hen-wife.md
 ---

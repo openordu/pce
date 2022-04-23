@@ -2,5 +2,7 @@
 title: harvest dollies 
 index: false
 article: false 
-icon: article 
+icon: article
+next: hawthorn.md
+prev: harp.md
 ---

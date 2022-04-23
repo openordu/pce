@@ -2,5 +2,7 @@
 title: Imbolc 
 index: false
 article: false 
-icon: article 
+icon: article
+next: inchiquin.md
+prev: ile.md
 ---

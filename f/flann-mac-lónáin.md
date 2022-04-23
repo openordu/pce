@@ -2,5 +2,7 @@
 title: Flann mac Lónáin 
 index: false
 article: false 
-icon: article 
+icon: article
+next: flannán.md
+prev: flann.md
 ---

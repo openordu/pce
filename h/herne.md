@@ -2,5 +2,7 @@
 title: Herne 
 index: false
 article: false 
-icon: article 
+icon: article
+next: herzeloyde.md
+prev: hermes.md
 ---

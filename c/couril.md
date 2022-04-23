@@ -2,5 +2,7 @@
 title: couril 
 index: false
 article: false 
-icon: article 
+icon: article
+next: court-tomb.md
+prev: countless-stones.md
 ---

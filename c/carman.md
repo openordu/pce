@@ -2,5 +2,7 @@
 title: Carman 
 index: false
 article: false 
-icon: article 
+icon: article
+next: carravogue.md
+prev: carlin.md
 ---

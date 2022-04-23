@@ -2,5 +2,7 @@
 title: south 
 index: false
 article: false 
-icon: article 
+icon: article
+next: sow.md
+prev: soul.md
 ---

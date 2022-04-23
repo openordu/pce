@@ -2,5 +2,7 @@
 title: Macpherson, James 
 index: false
 article: false 
-icon: article 
+icon: article
+next: madgy-figgy.md
+prev: macha-mong-rua.md
 ---

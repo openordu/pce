@@ -2,5 +2,7 @@
 title: Garlach Coileánach 
 index: false
 article: false 
-icon: article 
+icon: article
+next: garland-sunday.md
+prev: gargantua.md
 ---

@@ -2,5 +2,7 @@
 title: Dea Nutr 
 index: false
 article: false 
-icon: article 
+icon: article
+next: deae-matres-v-.md
+prev: davy-jones.md
 ---

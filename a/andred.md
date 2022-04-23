@@ -2,5 +2,7 @@
 title: Andred 
 index: false
 article: false 
-icon: article 
+icon: article
+next: anfortas.md
+prev: andraste.md
 ---

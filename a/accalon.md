@@ -2,5 +2,7 @@
 title: Accalon 
 index: false
 article: false 
-icon: article 
+icon: article
+next: achall.md
+prev: abán.md
 ---

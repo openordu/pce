@@ -2,5 +2,7 @@
 title: music 
 index: false
 article: false 
-icon: article 
+icon: article
+next: mythology.md
+prev: moving-stones.md
 ---

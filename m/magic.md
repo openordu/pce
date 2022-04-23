@@ -2,5 +2,7 @@
 title: magic 
 index: false
 article: false 
-icon: article 
+icon: article
+next: magpie.md
+prev: madness.md
 ---

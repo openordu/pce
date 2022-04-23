@@ -1,8 +1,8 @@
 ---
 title: O 
-index: 8286
+index: 1712
 article: false 
-icon: category 
+icon: folder 
 ---
 1. [O Caoimh, Dónall Na Cásca](o/o-caoimh-dónall-na-cásca.md)
 1. [O'Connell, Daniel](o/o-connell-daniel.md)

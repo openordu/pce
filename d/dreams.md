@@ -2,5 +2,7 @@
 title: dreams 
 index: false
 article: false 
-icon: article 
+icon: article
+next: druid.md
+prev: dragon.md
 ---

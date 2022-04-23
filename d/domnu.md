@@ -2,5 +2,7 @@
 title: Domnu 
 index: false
 article: false 
-icon: article 
+icon: article
+next: donagha-donand.md
+prev: domnall.md
 ---

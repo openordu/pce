@@ -2,5 +2,7 @@
 title: vow 
 index: false
 article: false 
-icon: article 
+icon: article
+next: voyage.md
+prev: vough.md
 ---

@@ -2,5 +2,7 @@
 title: Mellts 
 index: false
 article: false 
-icon: article 
+icon: article
+next: melor.md
+prev: meleagant.md
 ---

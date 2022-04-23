@@ -2,5 +2,7 @@
 title: Caldonia 
 index: false
 article: false 
-icon: article 
+icon: article
+next: caliburn.md
+prev: caladbolg.md
 ---

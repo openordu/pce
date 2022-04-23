@@ -2,5 +2,7 @@
 title: Oscar 
 index: false
 article: false 
-icon: article 
+icon: article
+next: osraighe.md
+prev: orlám.md
 ---

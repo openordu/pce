@@ -2,5 +2,7 @@
 title: Erne 
 index: false
 article: false 
-icon: article 
+icon: article
+next: ernmas.md
+prev: erce.md
 ---

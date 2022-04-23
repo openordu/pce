@@ -2,5 +2,7 @@
 title: Herzeloyde 
 index: false
 article: false 
-icon: article 
+icon: article
+next: hibernia.md
+prev: herne.md
 ---

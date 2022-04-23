@@ -2,5 +2,7 @@
 title: Cynan 
 index: false
 article: false 
-icon: article 
+icon: article
+next: cáel.md
+prev: cymru.md
 ---

@@ -2,5 +2,7 @@
 title: dunnie 
 index: false
 article: false 
-icon: article 
+icon: article
+next: dunter.md
+prev: dullahan.md
 ---
