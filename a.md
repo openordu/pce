@@ -1,6 +1,6 @@
 ---
 title: A 
-index: false 
+index: 9999 
 article: false 
 icon: category 
 ---
