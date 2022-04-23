@@ -1,6 +1,6 @@
 ---
 title: C 
-index: 330
+index: 4
 article: false 
 icon: folder 
 ---

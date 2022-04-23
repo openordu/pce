@@ -1,6 +1,6 @@
 ---
 title: PCE 
-index: 9999 
+index: false
 article: false 
 icon: category 
 ---

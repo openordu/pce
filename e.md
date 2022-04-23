@@ -1,6 +1,6 @@
 ---
 title: E 
-index: 774
+index: 6
 article: false 
 icon: folder 
 ---

@@ -1,6 +1,6 @@
 ---
 title: G 
-index: 626
+index: 8
 article: false 
 icon: folder 
 ---
