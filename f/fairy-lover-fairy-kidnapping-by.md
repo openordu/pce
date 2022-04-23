@@ -1,6 +1,6 @@
 ---
 title: fairy lover, fairy kidnapping by 
-index: false 
+index: false
 article: false 
 icon: article 
 ---

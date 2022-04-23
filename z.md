@@ -1,7 +1,7 @@
 ---
 title: Z 
-index: false 
+index: 7809
 article: false 
 icon: category 
 ---
-1. [Zeus](zeus.html)
+1. [Zeus](z/zeus.md)

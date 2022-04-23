@@ -1,6 +1,6 @@
 ---
 title: Mollyndroat 
-index: false 
+index: false
 article: false 
 icon: article 
 ---

@@ -1,6 +1,6 @@
 ---
 title: Ó Rathaille, Aogán 
-index: false 
+index: false
 article: false 
 icon: article 
 ---

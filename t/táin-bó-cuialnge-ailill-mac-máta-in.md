@@ -1,6 +1,6 @@
 ---
 title: Táin bó Cuialnge, Ailill mac Máta in 
-index: false 
+index: false
 article: false 
 icon: article 
 ---

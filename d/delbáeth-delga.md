@@ -1,6 +1,6 @@
 ---
 title: Delbáeth Delga 
-index: false 
+index: false
 article: false 
 icon: article 
 ---

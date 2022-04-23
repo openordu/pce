@@ -1,6 +1,6 @@
 ---
 title: Manannán mac Lir, steed of 
-index: false 
+index: false
 article: false 
 icon: article 
 ---

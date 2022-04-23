@@ -1,6 +1,6 @@
 ---
 title: All Saints’ Day 
-index: false 
+index: false
 article: false 
 icon: article 
 ---

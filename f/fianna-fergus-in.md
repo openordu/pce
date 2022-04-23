@@ -1,6 +1,6 @@
 ---
 title: Fianna, Fergus in 
-index: false 
+index: false
 article: false 
 icon: article 
 ---

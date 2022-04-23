@@ -1,6 +1,6 @@
 ---
 title: Merlin 
-index: false 
+index: false
 article: false 
 icon: article 
 ---

@@ -1,6 +1,6 @@
 ---
 title: Norsemen 
-index: false 
+index: false
 article: false 
 icon: article 
 ---

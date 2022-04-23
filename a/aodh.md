@@ -1,6 +1,6 @@
 ---
 title: Aodh 
-index: false 
+index: false
 article: false 
 icon: article 
 ---

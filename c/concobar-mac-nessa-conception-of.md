@@ -1,6 +1,6 @@
 ---
 title: Concobar mac Nessa, conception of 
-index: false 
+index: false
 article: false 
 icon: article 
 ---

@@ -1,6 +1,6 @@
 ---
 title: Bodb Derg 
-index: false 
+index: false
 article: false 
 icon: article 
 ---

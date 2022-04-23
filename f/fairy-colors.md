@@ -1,6 +1,6 @@
 ---
 title: fairy colors 
-index: false 
+index: false
 article: false 
 icon: article 
 ---

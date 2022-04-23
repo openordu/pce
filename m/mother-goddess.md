@@ -1,6 +1,6 @@
 ---
 title: mother goddess 
-index: false 
+index: false
 article: false 
 icon: article 
 ---

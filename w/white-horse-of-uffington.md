@@ -1,6 +1,6 @@
 ---
 title: White Horse of Uffington 
-index: false 
+index: false
 article: false 
 icon: article 
 ---

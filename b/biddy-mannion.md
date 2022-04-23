@@ -1,6 +1,6 @@
 ---
 title: Biddy Mannion 
-index: false 
+index: false
 article: false 
 icon: article 
 ---

@@ -1,6 +1,6 @@
 ---
 title: Lucan 
-index: false 
+index: false
 article: false 
 icon: article 
 ---

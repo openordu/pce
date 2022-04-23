@@ -1,6 +1,6 @@
 ---
 title: Étain, of the Fair Hair 
-index: false 
+index: false
 article: false 
 icon: article 
 ---

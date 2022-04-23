@@ -1,6 +1,6 @@
 ---
 title: Mars, Intarabus as 
-index: false 
+index: false
 article: false 
 icon: article 
 ---

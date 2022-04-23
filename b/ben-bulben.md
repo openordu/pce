@@ -1,6 +1,6 @@
 ---
 title: Ben Bulben 
-index: false 
+index: false
 article: false 
 icon: article 
 ---

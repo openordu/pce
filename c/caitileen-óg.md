@@ -1,6 +1,6 @@
 ---
 title: Caitileen Óg 
-index: false 
+index: false
 article: false 
 icon: article 
 ---

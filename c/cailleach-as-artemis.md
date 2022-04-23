@@ -1,6 +1,6 @@
 ---
 title: Cailleach, as Artemis 
-index: false 
+index: false
 article: false 
 icon: article 
 ---

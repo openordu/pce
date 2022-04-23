@@ -1,6 +1,6 @@
 ---
 title: power of the word 
-index: false 
+index: false
 article: false 
 icon: article 
 ---

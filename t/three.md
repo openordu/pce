@@ -1,6 +1,6 @@
 ---
 title: three 
-index: false 
+index: false
 article: false 
 icon: article 
 ---

@@ -1,6 +1,6 @@
 ---
 title: Ailill of Aran 
-index: false 
+index: false
 article: false 
 icon: article 
 ---

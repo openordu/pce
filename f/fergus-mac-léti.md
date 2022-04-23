@@ -1,6 +1,6 @@
 ---
 title: Fergus mac Léti 
-index: false 
+index: false
 article: false 
 icon: article 
 ---

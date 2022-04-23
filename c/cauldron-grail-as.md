@@ -1,6 +1,6 @@
 ---
 title: cauldron, Grail as 
-index: false 
+index: false
 article: false 
 icon: article 
 ---

@@ -1,6 +1,6 @@
 ---
 title: Black Vaughan 
-index: false 
+index: false
 article: false 
 icon: article 
 ---

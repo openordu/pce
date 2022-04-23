@@ -1,6 +1,6 @@
 ---
 title: Brân the Blessed 
-index: false 
+index: false
 article: false 
 icon: article 
 ---

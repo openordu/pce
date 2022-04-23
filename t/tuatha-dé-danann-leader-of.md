@@ -1,6 +1,6 @@
 ---
 title: Tuatha Dé Danann, leader of 
-index: false 
+index: false
 article: false 
 icon: article 
 ---

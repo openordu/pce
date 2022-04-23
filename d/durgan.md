@@ -1,6 +1,6 @@
 ---
 title: Durgan 
-index: false 
+index: false
 article: false 
 icon: article 
 ---

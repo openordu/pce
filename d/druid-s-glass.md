@@ -1,6 +1,6 @@
 ---
 title: druid’s glass 
-index: false 
+index: false
 article: false 
 icon: article 
 ---

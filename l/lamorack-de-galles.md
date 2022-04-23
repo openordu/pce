@@ -1,6 +1,6 @@
 ---
 title: Lamorack de Galles 
-index: false 
+index: false
 article: false 
 icon: article 
 ---

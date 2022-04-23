@@ -1,6 +1,6 @@
 ---
 title: Eógan Mór 
-index: false 
+index: false
 article: false 
 icon: article 
 ---

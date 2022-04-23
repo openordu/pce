@@ -1,6 +1,6 @@
 ---
 title: Inchiquin 
-index: false 
+index: false
 article: false 
 icon: article 
 ---

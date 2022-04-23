@@ -1,6 +1,6 @@
 ---
 title: Heilyn 
-index: false 
+index: false
 article: false 
 icon: article 
 ---

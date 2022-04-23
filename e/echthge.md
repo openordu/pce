@@ -1,6 +1,6 @@
 ---
 title: Echthge 
-index: false 
+index: false
 article: false 
 icon: article 
 ---

@@ -1,6 +1,6 @@
 ---
 title: Bréifne 
-index: false 
+index: false
 article: false 
 icon: article 
 ---

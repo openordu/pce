@@ -1,6 +1,6 @@
 ---
 title: witch, cats and 
-index: false 
+index: false
 article: false 
 icon: article 
 ---

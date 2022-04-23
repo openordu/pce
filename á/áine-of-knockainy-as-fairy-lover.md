@@ -1,6 +1,6 @@
 ---
 title: Áine of Knockainy, as fairy lover 
-index: false 
+index: false
 article: false 
 icon: article 
 ---

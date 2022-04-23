@@ -1,6 +1,6 @@
 ---
 title: tree soul 
-index: false 
+index: false
 article: false 
 icon: article 
 ---

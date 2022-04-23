@@ -1,6 +1,6 @@
 ---
 title: Amairgin of Ulster 
-index: false 
+index: false
 article: false 
 icon: article 
 ---

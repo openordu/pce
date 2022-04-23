@@ -1,6 +1,6 @@
 ---
 title: deer 
-index: false 
+index: false
 article: false 
 icon: article 
 ---

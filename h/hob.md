@@ -1,6 +1,6 @@
 ---
 title: hob 
-index: false 
+index: false
 article: false 
 icon: article 
 ---

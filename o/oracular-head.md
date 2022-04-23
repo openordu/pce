@@ -1,6 +1,6 @@
 ---
 title: oracular head 
-index: false 
+index: false
 article: false 
 icon: article 
 ---

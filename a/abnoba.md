@@ -1,6 +1,6 @@
 ---
 title: Abnoba 
-index: false 
+index: false
 article: false 
 icon: article 
 ---

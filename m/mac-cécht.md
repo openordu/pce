@@ -1,6 +1,6 @@
 ---
 title: Mac Cécht 
-index: false 
+index: false
 article: false 
 icon: article 
 ---

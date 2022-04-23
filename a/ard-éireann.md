@@ -1,6 +1,6 @@
 ---
 title: Ard Éireann 
-index: false 
+index: false
 article: false 
 icon: article 
 ---

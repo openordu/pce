@@ -1,6 +1,6 @@
 ---
 title: Patrick, on nature 
-index: false 
+index: false
 article: false 
 icon: article 
 ---

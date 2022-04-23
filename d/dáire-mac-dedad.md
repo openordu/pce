@@ -1,6 +1,6 @@
 ---
 title: Dáire mac Dedad 
-index: false 
+index: false
 article: false 
 icon: article 
 ---

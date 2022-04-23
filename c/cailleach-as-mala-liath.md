@@ -1,6 +1,6 @@
 ---
 title: Cailleach, as Mala Liath 
-index: false 
+index: false
 article: false 
 icon: article 
 ---

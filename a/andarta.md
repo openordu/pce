@@ -1,6 +1,6 @@
 ---
 title: Andarta 
-index: false 
+index: false
 article: false 
 icon: article 
 ---

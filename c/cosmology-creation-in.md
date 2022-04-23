@@ -1,6 +1,6 @@
 ---
 title: cosmology, creation in 
-index: false 
+index: false
 article: false 
 icon: article 
 ---

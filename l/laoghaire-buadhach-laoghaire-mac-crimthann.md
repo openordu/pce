@@ -1,6 +1,6 @@
 ---
 title: Laoghaire Buadhach Laoghaire mac Crimthann 
-index: false 
+index: false
 article: false 
 icon: article 
 ---

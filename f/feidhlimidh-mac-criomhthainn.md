@@ -1,6 +1,6 @@
 ---
 title: Feidhlimidh mac Criomhthainn 
-index: false 
+index: false
 article: false 
 icon: article 
 ---

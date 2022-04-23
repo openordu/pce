@@ -1,6 +1,6 @@
 ---
 title: Lugh, Goll mac Morna and 
-index: false 
+index: false
 article: false 
 icon: article 
 ---

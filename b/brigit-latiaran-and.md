@@ -1,6 +1,6 @@
 ---
 title: Brigit, Latiaran and 
-index: false 
+index: false
 article: false 
 icon: article 
 ---

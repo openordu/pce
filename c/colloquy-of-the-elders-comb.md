@@ -1,6 +1,6 @@
 ---
 title: Colloquy of the Elders comb 
-index: false 
+index: false
 article: false 
 icon: article 
 ---

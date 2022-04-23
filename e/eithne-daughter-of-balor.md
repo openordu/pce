@@ -1,6 +1,6 @@
 ---
 title: Eithne, daughter of Balor 
-index: false 
+index: false
 article: false 
 icon: article 
 ---

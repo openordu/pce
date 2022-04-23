@@ -1,6 +1,6 @@
 ---
 title: Manannán mac Lir, daughter of 
-index: false 
+index: false
 article: false 
 icon: article 
 ---

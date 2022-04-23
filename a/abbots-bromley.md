@@ -1,6 +1,6 @@
 ---
 title: Abbots Bromley 
-index: false 
+index: false
 article: false 
 icon: article 
 ---

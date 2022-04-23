@@ -1,6 +1,6 @@
 ---
 title: mallet 
-index: false 
+index: false
 article: false 
 icon: article 
 ---

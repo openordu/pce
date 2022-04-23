@@ -1,6 +1,6 @@
 ---
 title: folktale 
-index: false 
+index: false
 article: false 
 icon: article 
 ---

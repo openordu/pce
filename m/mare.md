@@ -1,6 +1,6 @@
 ---
 title: mare 
-index: false 
+index: false
 article: false 
 icon: article 
 ---

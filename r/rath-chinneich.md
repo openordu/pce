@@ -1,6 +1,6 @@
 ---
 title: Rath Chinneich 
-index: false 
+index: false
 article: false 
 icon: article 
 ---

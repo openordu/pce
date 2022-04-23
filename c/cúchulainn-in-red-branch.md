@@ -1,6 +1,6 @@
 ---
 title: Cúchulainn, in Red Branch 
-index: false 
+index: false
 article: false 
 icon: article 
 ---

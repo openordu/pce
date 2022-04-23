@@ -1,6 +1,6 @@
 ---
 title: spelling 
-index: false 
+index: false
 article: false 
 icon: article 
 ---

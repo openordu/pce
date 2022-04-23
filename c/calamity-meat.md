@@ -1,6 +1,6 @@
 ---
 title: calamity meat 
-index: false 
+index: false
 article: false 
 icon: article 
 ---

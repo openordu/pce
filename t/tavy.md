@@ -1,6 +1,6 @@
 ---
 title: Tavy 
-index: false 
+index: false
 article: false 
 icon: article 
 ---

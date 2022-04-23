@@ -1,6 +1,6 @@
 ---
 title: Medb, Ferdiad and 
-index: false 
+index: false
 article: false 
 icon: article 
 ---

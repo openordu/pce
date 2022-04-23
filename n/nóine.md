@@ -1,6 +1,6 @@
 ---
 title: Nóine 
-index: false 
+index: false
 article: false 
 icon: article 
 ---

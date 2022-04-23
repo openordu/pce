@@ -1,6 +1,6 @@
 ---
 title: Fionn mac Cumhaill, Diarmait Ua Duibne 
-index: false 
+index: false
 article: false 
 icon: article 
 ---

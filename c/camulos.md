@@ -1,6 +1,6 @@
 ---
 title: Camulos 
-index: false 
+index: false
 article: false 
 icon: article 
 ---

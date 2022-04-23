@@ -1,6 +1,6 @@
 ---
 title: druid, astrology practiced by 
-index: false 
+index: false
 article: false 
 icon: article 
 ---

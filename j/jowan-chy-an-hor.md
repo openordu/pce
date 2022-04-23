@@ -1,6 +1,6 @@
 ---
 title: Jowan Chy an Hor 
-index: false 
+index: false
 article: false 
 icon: article 
 ---

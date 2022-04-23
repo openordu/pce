@@ -1,6 +1,6 @@
 ---
 title: shape-shifting, in shamanism 
-index: false 
+index: false
 article: false 
 icon: article 
 ---

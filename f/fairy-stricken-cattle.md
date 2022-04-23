@@ -1,6 +1,6 @@
 ---
 title: fairy-stricken cattle 
-index: false 
+index: false
 article: false 
 icon: article 
 ---

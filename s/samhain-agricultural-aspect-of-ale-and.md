@@ -1,6 +1,6 @@
 ---
 title: Samhain, agricultural aspect of ale and 
-index: false 
+index: false
 article: false 
 icon: article 
 ---

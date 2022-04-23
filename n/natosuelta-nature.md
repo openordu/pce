@@ -1,6 +1,6 @@
 ---
 title: Natosuelta nature 
-index: false 
+index: false
 article: false 
 icon: article 
 ---

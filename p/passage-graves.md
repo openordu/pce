@@ -1,6 +1,6 @@
 ---
 title: passage graves 
-index: false 
+index: false
 article: false 
 icon: article 
 ---

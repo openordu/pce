@@ -1,6 +1,6 @@
 ---
 title: Book of Kells 
-index: false 
+index: false
 article: false 
 icon: article 
 ---

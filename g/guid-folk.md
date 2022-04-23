@@ -1,6 +1,6 @@
 ---
 title: Guid Folk 
-index: false 
+index: false
 article: false 
 icon: article 
 ---

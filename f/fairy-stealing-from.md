@@ -1,6 +1,6 @@
 ---
 title: fairy, stealing from 
-index: false 
+index: false
 article: false 
 icon: article 
 ---

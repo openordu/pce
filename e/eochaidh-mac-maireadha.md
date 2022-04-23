@@ -1,6 +1,6 @@
 ---
 title: Eochaidh mac Maireadha 
-index: false 
+index: false
 article: false 
 icon: article 
 ---

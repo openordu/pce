@@ -1,6 +1,6 @@
 ---
 title: Sovereignty, Mórrígan as 
-index: false 
+index: false
 article: false 
 icon: article 
 ---

@@ -1,6 +1,6 @@
 ---
 title: Diarmait Ua Duibne, death of 
-index: false 
+index: false
 article: false 
 icon: article 
 ---

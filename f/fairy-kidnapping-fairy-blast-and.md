@@ -1,6 +1,6 @@
 ---
 title: fairy kidnapping, fairy blast and 
-index: false 
+index: false
 article: false 
 icon: article 
 ---

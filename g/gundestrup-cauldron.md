@@ -1,6 +1,6 @@
 ---
 title: Gundestrup Cauldron 
-index: false 
+index: false
 article: false 
 icon: article 
 ---

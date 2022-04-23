@@ -1,6 +1,6 @@
 ---
 title: brounger 
-index: false 
+index: false
 article: false 
 icon: article 
 ---

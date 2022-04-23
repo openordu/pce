@@ -1,6 +1,6 @@
 ---
 title: Mathgen 
-index: false 
+index: false
 article: false 
 icon: article 
 ---

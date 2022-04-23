@@ -1,6 +1,6 @@
 ---
 title: ball seirc 
-index: false 
+index: false
 article: false 
 icon: article 
 ---

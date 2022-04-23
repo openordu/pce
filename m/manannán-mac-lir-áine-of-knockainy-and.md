@@ -1,6 +1,6 @@
 ---
 title: Manannán mac Lir, Áine of Knockainy and 
-index: false 
+index: false
 article: false 
 icon: article 
 ---

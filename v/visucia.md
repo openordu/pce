@@ -1,6 +1,6 @@
 ---
 title: Visucia 
-index: false 
+index: false
 article: false 
 icon: article 
 ---

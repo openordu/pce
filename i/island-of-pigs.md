@@ -1,6 +1,6 @@
 ---
 title: Island of Pigs 
-index: false 
+index: false
 article: false 
 icon: article 
 ---

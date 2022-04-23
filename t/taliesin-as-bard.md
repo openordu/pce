@@ -1,6 +1,6 @@
 ---
 title: Taliesin, as bard 
-index: false 
+index: false
 article: false 
 icon: article 
 ---

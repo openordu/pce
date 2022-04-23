@@ -1,6 +1,6 @@
 ---
 title: cats 
-index: false 
+index: false
 article: false 
 icon: article 
 ---

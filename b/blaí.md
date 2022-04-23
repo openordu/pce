@@ -1,6 +1,6 @@
 ---
 title: Blaí 
-index: false 
+index: false
 article: false 
 icon: article 
 ---

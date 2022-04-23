@@ -1,6 +1,6 @@
 ---
 title: Cathaoir Mór 
-index: false 
+index: false
 article: false 
 icon: article 
 ---

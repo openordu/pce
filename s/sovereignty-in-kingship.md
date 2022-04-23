@@ -1,6 +1,6 @@
 ---
 title: Sovereignty, in kingship 
-index: false 
+index: false
 article: false 
 icon: article 
 ---

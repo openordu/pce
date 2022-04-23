@@ -1,6 +1,6 @@
 ---
 title: divination, by crows 
-index: false 
+index: false
 article: false 
 icon: article 
 ---

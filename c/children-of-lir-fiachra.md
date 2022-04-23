@@ -1,6 +1,6 @@
 ---
 title: Children of Lir, Fiachra 
-index: false 
+index: false
 article: false 
 icon: article 
 ---

@@ -1,6 +1,6 @@
 ---
 title: Brigit, Imbolc and 
-index: false 
+index: false
 article: false 
 icon: article 
 ---

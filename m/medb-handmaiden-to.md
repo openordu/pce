@@ -1,6 +1,6 @@
 ---
 title: Medb, handmaiden to 
-index: false 
+index: false
 article: false 
 icon: article 
 ---

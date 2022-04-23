@@ -1,6 +1,6 @@
 ---
 title: Fionn mac Cumhaill, lover of 
-index: false 
+index: false
 article: false 
 icon: article 
 ---

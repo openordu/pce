@@ -1,6 +1,6 @@
 ---
 title: Dál gCais 
-index: false 
+index: false
 article: false 
 icon: article 
 ---

@@ -1,6 +1,6 @@
 ---
 title: Baile mac Buain 
-index: false 
+index: false
 article: false 
 icon: article 
 ---

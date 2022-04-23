@@ -1,6 +1,6 @@
 ---
 title: Crimthann Mór mac Fidaigh 
-index: false 
+index: false
 article: false 
 icon: article 
 ---

@@ -1,6 +1,6 @@
 ---
 title: Finnegan’s Wake 
-index: false 
+index: false
 article: false 
 icon: article 
 ---

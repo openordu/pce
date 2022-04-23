@@ -1,6 +1,6 @@
 ---
 title: Macha, in Ulster Cycle 
-index: false 
+index: false
 article: false 
 icon: article 
 ---

@@ -1,6 +1,6 @@
 ---
 title: Orc Triath 
-index: false 
+index: false
 article: false 
 icon: article 
 ---

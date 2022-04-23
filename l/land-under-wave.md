@@ -1,6 +1,6 @@
 ---
 title: Land Under Wave 
-index: false 
+index: false
 article: false 
 icon: article 
 ---

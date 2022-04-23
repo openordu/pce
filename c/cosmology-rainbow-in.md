@@ -1,6 +1,6 @@
 ---
 title: cosmology, rainbow in 
-index: false 
+index: false
 article: false 
 icon: article 
 ---

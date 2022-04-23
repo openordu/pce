@@ -1,6 +1,6 @@
 ---
 title: Law of the Innocents 
-index: false 
+index: false
 article: false 
 icon: article 
 ---

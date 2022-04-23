@@ -1,6 +1,6 @@
 ---
 title: Celtchair 
-index: false 
+index: false
 article: false 
 icon: article 
 ---

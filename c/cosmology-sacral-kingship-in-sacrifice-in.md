@@ -1,6 +1,6 @@
 ---
 title: cosmology, sacral kingship in sacrifice in 
-index: false 
+index: false
 article: false 
 icon: article 
 ---

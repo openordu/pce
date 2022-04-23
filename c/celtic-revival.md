@@ -1,6 +1,6 @@
 ---
 title: Celtic revival 
-index: false 
+index: false
 article: false 
 icon: article 
 ---

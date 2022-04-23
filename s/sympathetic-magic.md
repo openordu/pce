@@ -1,6 +1,6 @@
 ---
 title: sympathetic magic 
-index: false 
+index: false
 article: false 
 icon: article 
 ---

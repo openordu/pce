@@ -1,6 +1,6 @@
 ---
 title: Néidhe mac Adhna 
-index: false 
+index: false
 article: false 
 icon: article 
 ---

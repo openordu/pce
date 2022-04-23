@@ -1,6 +1,6 @@
 ---
 title: Assembly of the Wondrous Head 
-index: false 
+index: false
 article: false 
 icon: article 
 ---

@@ -1,6 +1,6 @@
 ---
 title: Conghal Cláiringneach 
-index: false 
+index: false
 article: false 
 icon: article 
 ---

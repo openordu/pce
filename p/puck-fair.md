@@ -1,6 +1,6 @@
 ---
 title: Puck Fair 
-index: false 
+index: false
 article: false 
 icon: article 
 ---

@@ -1,6 +1,6 @@
 ---
 title: Táin 
-index: false 
+index: false
 article: false 
 icon: article 
 ---

@@ -1,6 +1,6 @@
 ---
 title: turning the jacket 
-index: false 
+index: false
 article: false 
 icon: article 
 ---

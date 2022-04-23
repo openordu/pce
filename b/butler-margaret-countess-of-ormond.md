@@ -1,6 +1,6 @@
 ---
 title: Butler, Margaret Countess of Ormond 
-index: false 
+index: false
 article: false 
 icon: article 
 ---

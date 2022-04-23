@@ -1,6 +1,6 @@
 ---
 title: egg 
-index: false 
+index: false
 article: false 
 icon: article 
 ---

@@ -1,6 +1,6 @@
 ---
 title: Cúchulainn, Fráech killed by 
-index: false 
+index: false
 article: false 
 icon: article 
 ---

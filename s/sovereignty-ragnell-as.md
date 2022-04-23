@@ -1,6 +1,6 @@
 ---
 title: Sovereignty, Ragnell as 
-index: false 
+index: false
 article: false 
 icon: article 
 ---

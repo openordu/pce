@@ -1,6 +1,6 @@
 ---
 title: Aonghus of the Fir Bolg 
-index: false 
+index: false
 article: false 
 icon: article 
 ---

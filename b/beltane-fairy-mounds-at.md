@@ -1,6 +1,6 @@
 ---
 title: Beltane, fairy mounds at 
-index: false 
+index: false
 article: false 
 icon: article 
 ---

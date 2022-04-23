@@ -1,6 +1,6 @@
 ---
 title: Dagda, as Easal 
-index: false 
+index: false
 article: false 
 icon: article 
 ---

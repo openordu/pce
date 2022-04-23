@@ -1,6 +1,6 @@
 ---
 title: Cian 
-index: false 
+index: false
 article: false 
 icon: article 
 ---

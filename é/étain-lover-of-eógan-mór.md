@@ -1,6 +1,6 @@
 ---
 title: Étain, lover of Eógan Mór 
-index: false 
+index: false
 article: false 
 icon: article 
 ---

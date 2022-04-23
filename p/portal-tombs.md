@@ -1,6 +1,6 @@
 ---
 title: portal tombs 
-index: false 
+index: false
 article: false 
 icon: article 
 ---

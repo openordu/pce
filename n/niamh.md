@@ -1,6 +1,6 @@
 ---
 title: Niamh 
-index: false 
+index: false
 article: false 
 icon: article 
 ---

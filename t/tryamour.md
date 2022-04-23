@@ -1,6 +1,6 @@
 ---
 title: Tryamour 
-index: false 
+index: false
 article: false 
 icon: article 
 ---

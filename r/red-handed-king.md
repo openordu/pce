@@ -1,6 +1,6 @@
 ---
 title: red-handed king 
-index: false 
+index: false
 article: false 
 icon: article 
 ---

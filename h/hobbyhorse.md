@@ -1,6 +1,6 @@
 ---
 title: hobbyhorse 
-index: false 
+index: false
 article: false 
 icon: article 
 ---

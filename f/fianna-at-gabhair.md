@@ -1,6 +1,6 @@
 ---
 title: Fianna, at Gabhair 
-index: false 
+index: false
 article: false 
 icon: article 
 ---

@@ -1,6 +1,6 @@
 ---
 title: hill 
-index: false 
+index: false
 article: false 
 icon: article 
 ---

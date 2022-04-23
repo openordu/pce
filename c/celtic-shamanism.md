@@ -1,6 +1,6 @@
 ---
 title: Celtic shamanism 
-index: false 
+index: false
 article: false 
 icon: article 
 ---

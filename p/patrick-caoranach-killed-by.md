@@ -1,6 +1,6 @@
 ---
 title: Patrick, Caoranach killed by 
-index: false 
+index: false
 article: false 
 icon: article 
 ---

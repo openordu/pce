@@ -1,6 +1,6 @@
 ---
 title: spells 
-index: false 
+index: false
 article: false 
 icon: article 
 ---

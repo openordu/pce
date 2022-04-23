@@ -1,6 +1,6 @@
 ---
 title: Áed, husband of Aíbell 
-index: false 
+index: false
 article: false 
 icon: article 
 ---

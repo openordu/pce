@@ -1,6 +1,6 @@
 ---
 title: Patrick, dragon killed by 
-index: false 
+index: false
 article: false 
 icon: article 
 ---

@@ -1,6 +1,6 @@
 ---
 title: Fionn mac Cumhaill, mother of 
-index: false 
+index: false
 article: false 
 icon: article 
 ---

@@ -1,6 +1,6 @@
 ---
 title: Donn Cuailnge, in Táin bó Cuailnge 
-index: false 
+index: false
 article: false 
 icon: article 
 ---

@@ -1,6 +1,6 @@
 ---
 title: cosmology, Devil in 
-index: false 
+index: false
 article: false 
 icon: article 
 ---

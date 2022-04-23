@@ -1,6 +1,6 @@
 ---
 title: Eochaid Airem 
-index: false 
+index: false
 article: false 
 icon: article 
 ---

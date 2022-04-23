@@ -1,6 +1,6 @@
 ---
 title: Verbeia 
-index: false 
+index: false
 article: false 
 icon: article 
 ---

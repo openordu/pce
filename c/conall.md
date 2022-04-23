@@ -1,6 +1,6 @@
 ---
 title: Conall 
-index: false 
+index: false
 article: false 
 icon: article 
 ---

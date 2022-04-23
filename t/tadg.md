@@ -1,6 +1,6 @@
 ---
 title: Tadg 
-index: false 
+index: false
 article: false 
 icon: article 
 ---

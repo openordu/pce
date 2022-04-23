@@ -1,6 +1,6 @@
 ---
 title: Joan d’Arc 
-index: false 
+index: false
 article: false 
 icon: article 
 ---

@@ -1,6 +1,6 @@
 ---
 title: cornucopia 
-index: false 
+index: false
 article: false 
 icon: article 
 ---

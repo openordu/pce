@@ -1,6 +1,6 @@
 ---
 title: fairy queen 
-index: false 
+index: false
 article: false 
 icon: article 
 ---

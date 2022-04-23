@@ -1,6 +1,6 @@
 ---
 title: Mars, Medocius as 
-index: false 
+index: false
 article: false 
 icon: article 
 ---

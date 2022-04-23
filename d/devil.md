@@ -1,6 +1,6 @@
 ---
 title: Devil 
-index: false 
+index: false
 article: false 
 icon: article 
 ---

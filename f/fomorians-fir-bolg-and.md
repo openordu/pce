@@ -1,6 +1,6 @@
 ---
 title: Fomorians, Fir Bolg and 
-index: false 
+index: false
 article: false 
 icon: article 
 ---

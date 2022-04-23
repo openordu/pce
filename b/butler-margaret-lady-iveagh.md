@@ -1,6 +1,6 @@
 ---
 title: Butler, Margaret Lady Iveagh 
-index: false 
+index: false
 article: false 
 icon: article 
 ---

@@ -1,6 +1,6 @@
 ---
 title: Maponus 
-index: false 
+index: false
 article: false 
 icon: article 
 ---

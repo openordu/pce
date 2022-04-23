@@ -1,6 +1,6 @@
 ---
 title: Ní Mhaille, Gráinne Mhaol 
-index: false 
+index: false
 article: false 
 icon: article 
 ---

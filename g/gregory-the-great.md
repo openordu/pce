@@ -1,6 +1,6 @@
 ---
 title: Gregory the Great 
-index: false 
+index: false
 article: false 
 icon: article 
 ---

@@ -1,6 +1,6 @@
 ---
 title: Dis Pater 
-index: false 
+index: false
 article: false 
 icon: article 
 ---

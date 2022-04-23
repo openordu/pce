@@ -1,6 +1,6 @@
 ---
 title: cosmology, duality in 
-index: false 
+index: false
 article: false 
 icon: article 
 ---

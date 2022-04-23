@@ -1,6 +1,6 @@
 ---
 title: solar divinities 
-index: false 
+index: false
 article: false 
 icon: article 
 ---

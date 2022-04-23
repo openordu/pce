@@ -1,6 +1,6 @@
 ---
 title: Knight of the Glen 
-index: false 
+index: false
 article: false 
 icon: article 
 ---

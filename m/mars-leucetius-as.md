@@ -1,6 +1,6 @@
 ---
 title: Mars, Leucetius as 
-index: false 
+index: false
 article: false 
 icon: article 
 ---

@@ -1,6 +1,6 @@
 ---
 title: holy wells 
-index: false 
+index: false
 article: false 
 icon: article 
 ---

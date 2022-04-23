@@ -1,6 +1,6 @@
 ---
 title: Medb, sisters of 
-index: false 
+index: false
 article: false 
 icon: article 
 ---

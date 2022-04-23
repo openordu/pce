@@ -1,6 +1,6 @@
 ---
 title: Uther Pendragon 
-index: false 
+index: false
 article: false 
 icon: article 
 ---

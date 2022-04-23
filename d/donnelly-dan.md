@@ -1,6 +1,6 @@
 ---
 title: Donnelly, Dan 
-index: false 
+index: false
 article: false 
 icon: article 
 ---

@@ -1,6 +1,6 @@
 ---
 title: féth fiada 
-index: false 
+index: false
 article: false 
 icon: article 
 ---

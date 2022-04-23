@@ -1,6 +1,6 @@
 ---
 title: Conaire mac Mogha Lámha 
-index: false 
+index: false
 article: false 
 icon: article 
 ---

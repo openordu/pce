@@ -1,6 +1,6 @@
 ---
 title: Fea 
-index: false 
+index: false
 article: false 
 icon: article 
 ---

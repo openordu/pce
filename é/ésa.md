@@ -1,6 +1,6 @@
 ---
 title: Ésa 
-index: false 
+index: false
 article: false 
 icon: article 
 ---

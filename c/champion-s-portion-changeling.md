@@ -1,6 +1,6 @@
 ---
 title: champion’s portion changeling 
-index: false 
+index: false
 article: false 
 icon: article 
 ---

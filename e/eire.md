@@ -1,6 +1,6 @@
 ---
 title: Eire 
-index: false 
+index: false
 article: false 
 icon: article 
 ---

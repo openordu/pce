@@ -1,6 +1,6 @@
 ---
 title: Arthur, mother of 
-index: false 
+index: false
 article: false 
 icon: article 
 ---

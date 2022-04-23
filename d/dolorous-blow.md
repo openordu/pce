@@ -1,6 +1,6 @@
 ---
 title: dolorous blow 
-index: false 
+index: false
 article: false 
 icon: article 
 ---

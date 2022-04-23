@@ -1,6 +1,6 @@
 ---
 title: Laudine 
-index: false 
+index: false
 article: false 
 icon: article 
 ---

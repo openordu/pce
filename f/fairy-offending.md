@@ -1,6 +1,6 @@
 ---
 title: fairy, offending 
-index: false 
+index: false
 article: false 
 icon: article 
 ---

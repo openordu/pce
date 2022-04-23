@@ -1,6 +1,6 @@
 ---
 title: ogham 
-index: false 
+index: false
 article: false 
 icon: article 
 ---

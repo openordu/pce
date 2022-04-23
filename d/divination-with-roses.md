@@ -1,6 +1,6 @@
 ---
 title: divination, with roses 
-index: false 
+index: false
 article: false 
 icon: article 
 ---

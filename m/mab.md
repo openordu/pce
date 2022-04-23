@@ -1,6 +1,6 @@
 ---
 title: Mab 
-index: false 
+index: false
 article: false 
 icon: article 
 ---

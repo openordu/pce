@@ -1,6 +1,6 @@
 ---
 title: cattle raid 
-index: false 
+index: false
 article: false 
 icon: article 
 ---

@@ -1,6 +1,6 @@
 ---
 title: Gahmuret 
-index: false 
+index: false
 article: false 
 icon: article 
 ---

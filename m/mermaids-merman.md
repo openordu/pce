@@ -1,6 +1,6 @@
 ---
 title: mermaids/merman 
-index: false 
+index: false
 article: false 
 icon: article 
 ---

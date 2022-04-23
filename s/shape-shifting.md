@@ -1,6 +1,6 @@
 ---
 title: shape-shifting 
-index: false 
+index: false
 article: false 
 icon: article 
 ---

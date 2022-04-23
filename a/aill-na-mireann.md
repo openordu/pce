@@ -1,6 +1,6 @@
 ---
 title: Aill na Mireann 
-index: false 
+index: false
 article: false 
 icon: article 
 ---

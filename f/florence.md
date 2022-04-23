@@ -1,6 +1,6 @@
 ---
 title: Florence 
-index: false 
+index: false
 article: false 
 icon: article 
 ---

@@ -1,6 +1,6 @@
 ---
 title: Mars, Catur as 
-index: false 
+index: false
 article: false 
 icon: article 
 ---

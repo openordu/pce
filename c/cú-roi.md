@@ -1,6 +1,6 @@
 ---
 title: Cú Roi 
-index: false 
+index: false
 article: false 
 icon: article 
 ---

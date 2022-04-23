@@ -1,6 +1,6 @@
 ---
 title: Gebrinius 
-index: false 
+index: false
 article: false 
 icon: article 
 ---

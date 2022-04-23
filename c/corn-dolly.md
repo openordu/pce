@@ -1,6 +1,6 @@
 ---
 title: Corn Dolly 
-index: false 
+index: false
 article: false 
 icon: article 
 ---

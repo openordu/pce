@@ -1,6 +1,6 @@
 ---
 title: phantom islands 
-index: false 
+index: false
 article: false 
 icon: article 
 ---

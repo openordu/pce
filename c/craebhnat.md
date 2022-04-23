@@ -1,6 +1,6 @@
 ---
 title: Craebhnat 
-index: false 
+index: false
 article: false 
 icon: article 
 ---

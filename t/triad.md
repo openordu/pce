@@ -1,6 +1,6 @@
 ---
 title: triad 
-index: false 
+index: false
 article: false 
 icon: article 
 ---

@@ -1,6 +1,6 @@
 ---
 title: animal sacrifice 
-index: false 
+index: false
 article: false 
 icon: article 
 ---

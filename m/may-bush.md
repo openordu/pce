@@ -1,6 +1,6 @@
 ---
 title: May bush 
-index: false 
+index: false
 article: false 
 icon: article 
 ---

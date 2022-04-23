@@ -1,6 +1,6 @@
 ---
 title: Fothadh Canainne 
-index: false 
+index: false
 article: false 
 icon: article 
 ---

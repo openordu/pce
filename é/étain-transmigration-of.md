@@ -1,6 +1,6 @@
 ---
 title: Étain, transmigration of 
-index: false 
+index: false
 article: false 
 icon: article 
 ---

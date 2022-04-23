@@ -1,6 +1,6 @@
 ---
 title: Fraechnat 
-index: false 
+index: false
 article: false 
 icon: article 
 ---

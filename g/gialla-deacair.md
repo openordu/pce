@@ -1,6 +1,6 @@
 ---
 title: Gialla Deacair 
-index: false 
+index: false
 article: false 
 icon: article 
 ---

@@ -1,6 +1,6 @@
 ---
 title: Beli 
-index: false 
+index: false
 article: false 
 icon: article 
 ---

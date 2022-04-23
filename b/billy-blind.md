@@ -1,6 +1,6 @@
 ---
 title: Billy Blind 
-index: false 
+index: false
 article: false 
 icon: article 
 ---

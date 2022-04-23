@@ -1,6 +1,6 @@
 ---
 title: Peg Powler 
-index: false 
+index: false
 article: false 
 icon: article 
 ---

@@ -1,6 +1,6 @@
 ---
 title: Cnoc Ailinee 
-index: false 
+index: false
 article: false 
 icon: article 
 ---

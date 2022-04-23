@@ -1,6 +1,6 @@
 ---
 title: na buchtogai 
-index: false 
+index: false
 article: false 
 icon: article 
 ---

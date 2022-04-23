@@ -1,6 +1,6 @@
 ---
 title: Áine of the Fenian Cycle 
-index: false 
+index: false
 article: false 
 icon: article 
 ---

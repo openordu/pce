@@ -1,6 +1,6 @@
 ---
 title: Galahaut 
-index: false 
+index: false
 article: false 
 icon: article 
 ---

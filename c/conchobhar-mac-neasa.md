@@ -1,6 +1,6 @@
 ---
 title: Conchobhar mac Neasa 
-index: false 
+index: false
 article: false 
 icon: article 
 ---

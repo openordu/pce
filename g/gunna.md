@@ -1,6 +1,6 @@
 ---
 title: gunna 
-index: false 
+index: false
 article: false 
 icon: article 
 ---

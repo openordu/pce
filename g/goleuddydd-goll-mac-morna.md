@@ -1,6 +1,6 @@
 ---
 title: Goleuddydd Goll mac Morna 
-index: false 
+index: false
 article: false 
 icon: article 
 ---

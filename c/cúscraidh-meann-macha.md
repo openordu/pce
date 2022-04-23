@@ -1,6 +1,6 @@
 ---
 title: Cúscraidh Meann Macha 
-index: false 
+index: false
 article: false 
 icon: article 
 ---

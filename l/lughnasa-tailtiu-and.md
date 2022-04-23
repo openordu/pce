@@ -1,6 +1,6 @@
 ---
 title: Lughnasa, Tailtiu and 
-index: false 
+index: false
 article: false 
 icon: article 
 ---

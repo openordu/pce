@@ -1,6 +1,6 @@
 ---
 title: Cairbre Lifeachair 
-index: false 
+index: false
 article: false 
 icon: article 
 ---

@@ -1,6 +1,6 @@
 ---
 title: Davy Jones 
-index: false 
+index: false
 article: false 
 icon: article 
 ---

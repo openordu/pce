@@ -1,6 +1,6 @@
 ---
 title: Litavis 
-index: false 
+index: false
 article: false 
 icon: article 
 ---

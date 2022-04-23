@@ -1,6 +1,6 @@
 ---
 title: Perilous Bed 
-index: false 
+index: false
 article: false 
 icon: article 
 ---

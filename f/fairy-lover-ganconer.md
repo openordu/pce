@@ -1,6 +1,6 @@
 ---
 title: fairy lover, ganconer 
-index: false 
+index: false
 article: false 
 icon: article 
 ---

@@ -1,6 +1,6 @@
 ---
 title: fairy lights 
-index: false 
+index: false
 article: false 
 icon: article 
 ---

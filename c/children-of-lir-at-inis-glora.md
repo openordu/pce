@@ -1,6 +1,6 @@
 ---
 title: Children of Lir, at Inis Glora 
-index: false 
+index: false
 article: false 
 icon: article 
 ---

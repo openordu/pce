@@ -1,6 +1,6 @@
 ---
 title: O'Connell, Daniel 
-index: false 
+index: false
 article: false 
 icon: article 
 ---

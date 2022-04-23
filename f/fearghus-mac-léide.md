@@ -1,6 +1,6 @@
 ---
 title: Fearghus mac Léide 
-index: false 
+index: false
 article: false 
 icon: article 
 ---

@@ -1,6 +1,6 @@
 ---
 title: Ard Macha 
-index: false 
+index: false
 article: false 
 icon: article 
 ---

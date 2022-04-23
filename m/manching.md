@@ -1,6 +1,6 @@
 ---
 title: Manching 
-index: false 
+index: false
 article: false 
 icon: article 
 ---

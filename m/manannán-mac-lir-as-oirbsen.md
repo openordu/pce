@@ -1,6 +1,6 @@
 ---
 title: Manannán mac Lir, as Oirbsen 
-index: false 
+index: false
 article: false 
 icon: article 
 ---

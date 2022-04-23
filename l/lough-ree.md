@@ -1,6 +1,6 @@
 ---
 title: Lough Ree 
-index: false 
+index: false
 article: false 
 icon: article 
 ---

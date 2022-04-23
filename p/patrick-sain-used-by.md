@@ -1,6 +1,6 @@
 ---
 title: Patrick, sain used by 
-index: false 
+index: false
 article: false 
 icon: article 
 ---

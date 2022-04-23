@@ -1,6 +1,6 @@
 ---
 title: inauguration, Ériu in 
-index: false 
+index: false
 article: false 
 icon: article 
 ---

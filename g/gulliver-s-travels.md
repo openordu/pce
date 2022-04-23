@@ -1,6 +1,6 @@
 ---
 title: Gulliver’s Travels 
-index: false 
+index: false
 article: false 
 icon: article 
 ---

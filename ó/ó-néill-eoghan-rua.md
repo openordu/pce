@@ -1,6 +1,6 @@
 ---
 title: Ó Néill, Eoghan Rua 
-index: false 
+index: false
 article: false 
 icon: article 
 ---

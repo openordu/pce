@@ -1,6 +1,6 @@
 ---
 title: seven 
-index: false 
+index: false
 article: false 
 icon: article 
 ---

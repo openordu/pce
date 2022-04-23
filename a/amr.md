@@ -1,6 +1,6 @@
 ---
 title: Amr 
-index: false 
+index: false
 article: false 
 icon: article 
 ---

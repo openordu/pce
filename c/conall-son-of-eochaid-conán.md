@@ -1,6 +1,6 @@
 ---
 title: Conall, son of Eochaid Conán 
-index: false 
+index: false
 article: false 
 icon: article 
 ---

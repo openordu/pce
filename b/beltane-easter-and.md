@@ -1,6 +1,6 @@
 ---
 title: Beltane, Easter and 
-index: false 
+index: false
 article: false 
 icon: article 
 ---

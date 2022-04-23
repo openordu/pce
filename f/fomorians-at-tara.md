@@ -1,6 +1,6 @@
 ---
 title: Fomorians, at Tara 
-index: false 
+index: false
 article: false 
 icon: article 
 ---

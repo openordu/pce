@@ -1,6 +1,6 @@
 ---
 title: goddess of Sovereignty 
-index: false 
+index: false
 article: false 
 icon: article 
 ---

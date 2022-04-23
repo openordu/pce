@@ -1,6 +1,6 @@
 ---
 title: fairy kidnapping, at Samhain 
-index: false 
+index: false
 article: false 
 icon: article 
 ---

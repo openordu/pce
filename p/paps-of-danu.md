@@ -1,6 +1,6 @@
 ---
 title: Paps of Danu 
-index: false 
+index: false
 article: false 
 icon: article 
 ---

@@ -1,6 +1,6 @@
 ---
 title: Ó Dálaigh, Cearbhall 
-index: false 
+index: false
 article: false 
 icon: article 
 ---

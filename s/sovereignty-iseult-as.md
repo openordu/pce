@@ -1,6 +1,6 @@
 ---
 title: Sovereignty, Iseult as 
-index: false 
+index: false
 article: false 
 icon: article 
 ---

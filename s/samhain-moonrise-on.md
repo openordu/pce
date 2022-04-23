@@ -1,6 +1,6 @@
 ---
 title: Samhain, moonrise on 
-index: false 
+index: false
 article: false 
 icon: article 
 ---

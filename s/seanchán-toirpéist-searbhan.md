@@ -1,6 +1,6 @@
 ---
 title: Seanchán Toirpéist  Searbhan 
-index: false 
+index: false
 article: false 
 icon: article 
 ---

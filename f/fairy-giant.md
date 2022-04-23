@@ -1,6 +1,6 @@
 ---
 title: fairy, giant 
-index: false 
+index: false
 article: false 
 icon: article 
 ---

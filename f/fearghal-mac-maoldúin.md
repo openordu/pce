@@ -1,6 +1,6 @@
 ---
 title: Fearghal mac Maoldúin 
-index: false 
+index: false
 article: false 
 icon: article 
 ---

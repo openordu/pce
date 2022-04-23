@@ -1,6 +1,6 @@
 ---
 title: Shee Finnaha 
-index: false 
+index: false
 article: false 
 icon: article 
 ---

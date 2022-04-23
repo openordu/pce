@@ -1,6 +1,6 @@
 ---
 title: Aífe of Scotland 
-index: false 
+index: false
 article: false 
 icon: article 
 ---

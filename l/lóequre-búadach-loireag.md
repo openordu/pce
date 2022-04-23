@@ -1,6 +1,6 @@
 ---
 title: Lóequre Búadach Loireag 
-index: false 
+index: false
 article: false 
 icon: article 
 ---

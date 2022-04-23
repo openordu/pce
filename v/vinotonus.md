@@ -1,6 +1,6 @@
 ---
 title: Vinotonus 
-index: false 
+index: false
 article: false 
 icon: article 
 ---

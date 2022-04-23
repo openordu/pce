@@ -1,6 +1,6 @@
 ---
 title: Agallamh na Seanóarch 
-index: false 
+index: false
 article: false 
 icon: article 
 ---

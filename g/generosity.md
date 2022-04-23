@@ -1,6 +1,6 @@
 ---
 title: generosity 
-index: false 
+index: false
 article: false 
 icon: article 
 ---

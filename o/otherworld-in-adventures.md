@@ -1,6 +1,6 @@
 ---
 title: Otherworld, in adventures 
-index: false 
+index: false
 article: false 
 icon: article 
 ---

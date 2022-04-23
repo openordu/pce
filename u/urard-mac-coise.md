@@ -1,6 +1,6 @@
 ---
 title: Urard mac Coise 
-index: false 
+index: false
 article: false 
 icon: article 
 ---

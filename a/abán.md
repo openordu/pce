@@ -1,6 +1,6 @@
 ---
 title: Abán 
-index: false 
+index: false
 article: false 
 icon: article 
 ---

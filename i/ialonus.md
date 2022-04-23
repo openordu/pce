@@ -1,6 +1,6 @@
 ---
 title: Ialonus 
-index: false 
+index: false
 article: false 
 icon: article 
 ---

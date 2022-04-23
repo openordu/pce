@@ -1,6 +1,6 @@
 ---
 title: Merlin, sister of 
-index: false 
+index: false
 article: false 
 icon: article 
 ---

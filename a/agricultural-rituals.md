@@ -1,6 +1,6 @@
 ---
 title: agricultural rituals 
-index: false 
+index: false
 article: false 
 icon: article 
 ---

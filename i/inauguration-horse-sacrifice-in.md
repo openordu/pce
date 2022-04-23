@@ -1,6 +1,6 @@
 ---
 title: inauguration, horse sacrifice in 
-index: false 
+index: false
 article: false 
 icon: article 
 ---

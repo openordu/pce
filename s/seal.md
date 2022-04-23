@@ -1,6 +1,6 @@
 ---
 title: seal 
-index: false 
+index: false
 article: false 
 icon: article 
 ---

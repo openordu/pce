@@ -1,6 +1,6 @@
 ---
 title: Otherworld, voyage to 
-index: false 
+index: false
 article: false 
 icon: article 
 ---

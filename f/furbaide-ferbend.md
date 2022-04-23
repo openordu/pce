@@ -1,6 +1,6 @@
 ---
 title: Furbaide Ferbend 
-index: false 
+index: false
 article: false 
 icon: article 
 ---

@@ -1,6 +1,6 @@
 ---
 title: Alisander le Orphelin 
-index: false 
+index: false
 article: false 
 icon: article 
 ---

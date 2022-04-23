@@ -1,6 +1,6 @@
 ---
 title: Beltane, thinness on 
-index: false 
+index: false
 article: false 
 icon: article 
 ---

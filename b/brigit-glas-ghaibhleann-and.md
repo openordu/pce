@@ -1,6 +1,6 @@
 ---
 title: Brigit, Glas Ghaibhleann and 
-index: false 
+index: false
 article: false 
 icon: article 
 ---

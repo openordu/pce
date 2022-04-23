@@ -1,6 +1,6 @@
 ---
 title: fairy, as Daoine sídhe 
-index: false 
+index: false
 article: false 
 icon: article 
 ---

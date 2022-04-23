@@ -1,6 +1,6 @@
 ---
 title: Tintagel 
-index: false 
+index: false
 article: false 
 icon: article 
 ---

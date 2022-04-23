@@ -1,6 +1,6 @@
 ---
 title: Vitiris 
-index: false 
+index: false
 article: false 
 icon: article 
 ---

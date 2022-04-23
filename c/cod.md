@@ -1,6 +1,6 @@
 ---
 title: Cod 
-index: false 
+index: false
 article: false 
 icon: article 
 ---

@@ -1,6 +1,6 @@
 ---
 title: questing beast 
-index: false 
+index: false
 article: false 
 icon: article 
 ---

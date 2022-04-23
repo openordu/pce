@@ -1,6 +1,6 @@
 ---
 title: White Lady 
-index: false 
+index: false
 article: false 
 icon: article 
 ---

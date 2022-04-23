@@ -1,6 +1,6 @@
 ---
 title: Nimue Nisien 
-index: false 
+index: false
 article: false 
 icon: article 
 ---

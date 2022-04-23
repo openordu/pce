@@ -1,6 +1,6 @@
 ---
 title: City of Ys 
-index: false 
+index: false
 article: false 
 icon: article 
 ---

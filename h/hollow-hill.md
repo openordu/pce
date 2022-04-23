@@ -1,6 +1,6 @@
 ---
 title: hollow hill 
-index: false 
+index: false
 article: false 
 icon: article 
 ---

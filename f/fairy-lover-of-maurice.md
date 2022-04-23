@@ -1,6 +1,6 @@
 ---
 title: fairy lover, of Maurice 
-index: false 
+index: false
 article: false 
 icon: article 
 ---

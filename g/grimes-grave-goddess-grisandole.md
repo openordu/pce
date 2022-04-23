@@ -1,6 +1,6 @@
 ---
 title: Grimes Grave Goddess Grisandole 
-index: false 
+index: false
 article: false 
 icon: article 
 ---

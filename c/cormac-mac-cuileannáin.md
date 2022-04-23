@@ -1,6 +1,6 @@
 ---
 title: Cormac mac Cuileannáin 
-index: false 
+index: false
 article: false 
 icon: article 
 ---

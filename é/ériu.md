@@ -1,6 +1,6 @@
 ---
 title: Ériu 
-index: false 
+index: false
 article: false 
 icon: article 
 ---

@@ -1,6 +1,6 @@
 ---
 title: Ailill Olom 
-index: false 
+index: false
 article: false 
 icon: article 
 ---

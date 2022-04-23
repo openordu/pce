@@ -1,6 +1,6 @@
 ---
 title: divination, with hares 
-index: false 
+index: false
 article: false 
 icon: article 
 ---

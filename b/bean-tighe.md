@@ -1,6 +1,6 @@
 ---
 title: bean tighe 
-index: false 
+index: false
 article: false 
 icon: article 
 ---

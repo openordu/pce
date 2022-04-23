@@ -1,6 +1,6 @@
 ---
 title: Dames Vertes Damona 
-index: false 
+index: false
 article: false 
 icon: article 
 ---

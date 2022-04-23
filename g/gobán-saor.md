@@ -1,6 +1,6 @@
 ---
 title: Gobán Saor 
-index: false 
+index: false
 article: false 
 icon: article 
 ---

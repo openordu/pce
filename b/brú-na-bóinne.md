@@ -1,6 +1,6 @@
 ---
 title: Brú na Bóinne 
-index: false 
+index: false
 article: false 
 icon: article 
 ---

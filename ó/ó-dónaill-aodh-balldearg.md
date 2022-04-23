@@ -1,6 +1,6 @@
 ---
 title: Ó Dónaill, Aodh Balldearg 
-index: false 
+index: false
 article: false 
 icon: article 
 ---

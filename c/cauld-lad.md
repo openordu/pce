@@ -1,6 +1,6 @@
 ---
 title: Cauld Lad 
-index: false 
+index: false
 article: false 
 icon: article 
 ---

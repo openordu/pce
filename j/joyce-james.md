@@ -1,6 +1,6 @@
 ---
 title: Joyce, James 
-index: false 
+index: false
 article: false 
 icon: article 
 ---

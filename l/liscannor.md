@@ -1,6 +1,6 @@
 ---
 title: Liscannor 
-index: false 
+index: false
 article: false 
 icon: article 
 ---

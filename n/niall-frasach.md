@@ -1,6 +1,6 @@
 ---
 title: Niall Frasach 
-index: false 
+index: false
 article: false 
 icon: article 
 ---

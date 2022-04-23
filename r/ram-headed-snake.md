@@ -1,6 +1,6 @@
 ---
 title: ram-headed snake 
-index: false 
+index: false
 article: false 
 icon: article 
 ---

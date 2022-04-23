@@ -1,6 +1,6 @@
 ---
 title: Fionnachta 
-index: false 
+index: false
 article: false 
 icon: article 
 ---

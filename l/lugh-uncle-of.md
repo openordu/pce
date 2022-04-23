@@ -1,6 +1,6 @@
 ---
 title: Lugh, uncle of 
-index: false 
+index: false
 article: false 
 icon: article 
 ---

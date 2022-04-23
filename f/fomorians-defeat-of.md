@@ -1,6 +1,6 @@
 ---
 title: Fomorians, defeat of 
-index: false 
+index: false
 article: false 
 icon: article 
 ---

@@ -1,6 +1,6 @@
 ---
 title: Ceat mac Mághach 
-index: false 
+index: false
 article: false 
 icon: article 
 ---

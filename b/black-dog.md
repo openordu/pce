@@ -1,6 +1,6 @@
 ---
 title: Black Dog 
-index: false 
+index: false
 article: false 
 icon: article 
 ---

@@ -1,6 +1,6 @@
 ---
 title: Otherworld, in shamanism 
-index: false 
+index: false
 article: false 
 icon: article 
 ---
