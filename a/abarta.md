@@ -21,11 +21,11 @@ searching, _Fionn Mac Cumhaill_ locates this lazy servant and it is discovered
 he is really _Ábhartach mac Ildathaigh_, who was considered to the the world's
 most powerful druid. Ábhartach offered to pay Fionn but Fionn forgave the taking
 of the fifteen wariors hostage. In later folklore he was described as a blood
-sucking [revenant](../r/#revenant) who drinks blood and spends most his time
+sucking [revenant](../r/revenant.md) who drinks blood and spends most his time
 trapped under a laght(grave monument) in Slaghtaverty. Here he is described as a
 dwarf and a magical wizard who was burried upside down by the local cheiftain so
 that he wouldn't resurect. However, Ó hOgáin draws from versions where _Fionn
-Mac Cumhail_ performs [tenm laida](../t#tenmlaida) and augurs Abarta's one weak
+Mac Cumhail_ performs [tenm laida](../t/tenmlaida.md) and augurs Abarta's one weak
 spot, striking him there, burying him and erecting a monument over him.
 
 > There is a place in the parish of Errigal in Londonderry, called Slaghtaverty,
