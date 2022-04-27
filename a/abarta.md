@@ -20,11 +20,11 @@ also became stuck and were carried off into The Otherworld. After some
 searching, _Fionn Mac Cumhaill_ locates this lazy servant and it is discovered
 he is really _Ábhartach mac Ildathaigh_, who was considered to the the world's
 most powerful druid. Ábhartach offered to pay Fionn but Fionn forgave the taking
-of the fifteen wariors hostage. In later folklore he was described as a blood
+of the fifteen warriors hostage. In later folklore he was described as a blood
 sucking [revenant](../r/revenant.md) who drinks blood and spends most his time
 trapped under a laght(grave monument) in Slaghtaverty. Here he is described as a
-dwarf and a magical wizard who was burried upside down by the local cheiftain so
-that he wouldn't resurect. However, Ó hOgáin draws from versions where _Fionn
+dwarf and a magical wizard who was burried upside down by the local chieftain so
+that he wouldn't resurrect. However, Ó hOgáin draws from versions where _Fionn
 Mac Cumhail_ performs [tenm laida](../t/tenmlaida.md) and augurs Abarta's one weak
 spot, striking him there, burying him and erecting a monument over him.
 
@@ -32,7 +32,7 @@ spot, striking him there, burying him and erecting a monument over him.
 > but it ought to have been called Laghtaverty, the laght or sepulchral monument
 > of the abhartach (avartagh) or dwarf (see p. 61, supra). This dwarf was a
 > magician, and a dreadful tyrant, and after having perpetrated great cruelties
-> on the people he was at last vanquished and slain by a neighbouring chieftain;
+> on the people he was at last vanquished and slain by a neighboring chieftain;
 > some say by Fionn Mac Cumhail. He was buried in a standing posture, but the
 > very next day he appeared in his old haunts, more cruel and vigorous than
 > ever. And the chief slew him a second time and buried him as before, but again
@@ -48,9 +48,9 @@ spot, striking him there, burying him and erecting a monument over him.
 
 This dwarven association is probably not one of size but rather one of
 relatedness with [wurrums](../w#worms) and thus the Fomorians. It's likely that
-this is a banished Bres reprototyped into a half god, half giant who shapeshifts
-to decieve and cause trouble among virtuous heros, chaising down old scores from
-mythological times among the descenants of Ireland where they once ruled.
+this is a banished Bres re-prototyped into a half god, half giant who shapeshifts
+to deceive and cause trouble among virtuous heros, chasing down old scores from
+mythological times among the descendants of Ireland where they once ruled.
 
 [^joyce]: Joyce, P. W. The Origin and History of Irish Names of Places.
     McGlashan &amp; Gill, 1875.
