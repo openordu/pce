@@ -1,5 +1,5 @@
 ---
-title: Fintan mac Bóchra 
+title: Fintan Mac Bóchra 
 index: false
 article: false 
 icon: article

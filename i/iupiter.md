@@ -3,6 +3,6 @@ title: Iupiter
 index: false
 article: false 
 icon: article
-next: iwein.md
-prev: iucharba.md
+next: ivy.md
+prev: iuiacus.md
 ---

@@ -1,5 +1,5 @@
 ---
-title: fairy, goblin and 
+title: Fairy, Goblin And 
 index: false
 article: false 
 icon: article

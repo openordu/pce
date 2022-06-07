@@ -1,8 +1,8 @@
 ---
-title: Patrick, Oisín and 
+title: Patrick, Oisín And 
 index: false
 article: false 
 icon: article
-next: patrick-at-croagh-patrick.md
-prev: patrick-fedelm-and.md
+next: patrick-on-nature.md
+prev: patrick-goat-and.md
 ---

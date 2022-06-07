@@ -1,8 +1,8 @@
 ---
-title: witch, cats and 
+title: Witch, Cats And 
 index: false
 article: false 
 icon: article
 next: witch-fox-and.md
-prev: witch-at-trewa.md
+prev: witch-buitch.md
 ---

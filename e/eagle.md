@@ -1,8 +1,8 @@
 ---
-title: eagle 
+title: Eagle 
 index: false
 article: false 
 icon: article
-next: east.md
-prev: each-uisce.md
+next: easal.md
+prev: eachuisge.md
 ---

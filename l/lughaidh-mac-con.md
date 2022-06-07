@@ -1,8 +1,8 @@
 ---
-title: Lughaidh mac Con 
+title: Lughaidh Mac Con 
 index: false
 article: false 
 icon: article
-next: lughnasa-v-bilberries-in.md
-prev: lughaidh-riabhdhearg.md
+next: lughaidh-riabhdhearg.md
+prev: lughaidh-lámhdhearg.md
 ---

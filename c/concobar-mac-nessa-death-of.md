@@ -1,8 +1,8 @@
 ---
-title: Concobar mac Nessa, death of 
+title: Concobar Mac Nessa, Death Of 
 index: false
 article: false 
 icon: article
-next: concobar-mac-nessa-fool-of.md
+next: concobar-mac-nessa-deirdre-and.md
 prev: concobar-mac-nessa-daughter-of.md
 ---

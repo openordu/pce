@@ -1,8 +1,8 @@
 ---
-title: neo-pagan 
+title: Neo-Pagan 
 index: false
 article: false 
 icon: article
-next: night.md
-prev: nemeton.md
+next: neodruidism.md
+prev: nentres.md
 ---

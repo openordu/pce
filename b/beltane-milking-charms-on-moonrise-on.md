@@ -1,5 +1,5 @@
 ---
-title: Beltane, milking charms on moonrise on 
+title: Beltane, Milking Charms On Moonrise On 
 index: false
 article: false 
 icon: article

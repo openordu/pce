@@ -1,8 +1,8 @@
 ---
-title: Kildare, Earl of 
+title: Kildare, Earl Of 
 index: false
 article: false 
 icon: article
-next: king-of-ireland-s-son-kings.md
+next: killeen.md
 prev: kildare.md
 ---

@@ -1,8 +1,8 @@
 ---
-title: tarans 
+title: Tarans 
 index: false
 article: false 
 icon: article
-next: tarroo-ushtey.md
-prev: tanist.md
+next: tarbfeis.md
+prev: taranis.md
 ---

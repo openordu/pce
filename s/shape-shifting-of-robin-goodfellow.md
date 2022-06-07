@@ -1,8 +1,8 @@
 ---
-title: shape-shifting, of Robin Goodfellow 
+title: Shape-Shifting, Of Robin Goodfellow 
 index: false
 article: false 
 icon: article
-next: shape-shifting-of-poets.md
-prev: shape-shifting-of-mórrígan.md
+next: shape-shifting-of-witches.md
+prev: shape-shifting-of-poets.md
 ---

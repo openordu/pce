@@ -1,8 +1,8 @@
 ---
-title: cohuleen druith 
+title: Cohuleen Druith 
 index: false
 article: false 
 icon: article
-next: coins.md
-prev: cock.md
+next: coinchenn.md
+prev: coel.md
 ---

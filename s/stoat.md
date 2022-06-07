@@ -1,8 +1,8 @@
 ---
-title: stoat 
+title: Stoat 
 index: false
 article: false 
 icon: article
 next: stolen-bride.md
-prev: standing-stone.md
+prev: starn.md
 ---

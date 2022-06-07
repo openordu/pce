@@ -1,5 +1,5 @@
 ---
-title: Tuatha Dé Danann, tuathal 
+title: Tuatha Dé Danann, Tuathal 
 index: false
 article: false 
 icon: article

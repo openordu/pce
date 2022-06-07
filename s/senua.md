@@ -3,6 +3,6 @@ title: Senua
 index: false
 article: false 
 icon: article
-next: sequana.md
+next: senus.md
 prev: senchas-mór.md
 ---

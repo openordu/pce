@@ -1,8 +1,8 @@
 ---
-title: building to the west 
+title: Building To The West 
 index: false
 article: false 
 icon: article
-next: bull-sleep.md
+next: buitch.md
 prev: bug.md
 ---

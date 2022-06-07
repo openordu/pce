@@ -1,8 +1,8 @@
 ---
-title: Cailleach, serpent and 
+title: Cailleach, Serpent And 
 index: false
 article: false 
 icon: article
-next: caillín.md
-prev: cailleach-on-imbolc.md
+next: cailleach-sheela-na-gig-as.md
+prev: cailleach-ragnell-as.md
 ---

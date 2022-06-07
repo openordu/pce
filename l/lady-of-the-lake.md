@@ -1,5 +1,5 @@
 ---
-title: Lady of the Lake 
+title: Lady Of The Lake 
 index: false
 article: false 
 icon: article

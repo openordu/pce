@@ -1,8 +1,8 @@
 ---
-title: phantom islands 
+title: Phantom Islands 
 index: false
 article: false 
 icon: article
-next: pigs.md
-prev: pech.md
+next: phynnodderee.md
+prev: petta.md
 ---

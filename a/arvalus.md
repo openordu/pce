@@ -3,6 +3,6 @@ title: Arvalus
 index: false
 article: false 
 icon: article
-next: arvernor.md
+next: arverni.md
 prev: artio.md
 ---

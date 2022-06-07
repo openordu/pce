@@ -1,8 +1,8 @@
 ---
-title: banshee 
+title: Banshee 
 index: false
 article: false 
 icon: article
-next: banshee.md
-prev: bangaisgedaig.md
+next: banshenchas.md
+prev: bansenchas.md
 ---

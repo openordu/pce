@@ -1,8 +1,8 @@
 ---
-title: sheep 
+title: Sheep 
 index: false
 article: false 
 icon: article
-next: shinny.md
-prev: shape-shifting-of-witches.md
+next: shellycoat.md
+prev: sheela-na-gig.md
 ---

@@ -3,6 +3,6 @@ title: Crandelmass
 index: false
 article: false 
 icon: article
-next: crannóg.md
+next: crane.md
 prev: craiphtine.md
 ---

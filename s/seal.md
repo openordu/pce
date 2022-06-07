@@ -1,8 +1,8 @@
 ---
-title: seal 
+title: Seal 
 index: false
 article: false 
 icon: article
 next: seanachie.md
-prev: sea-fairies.md
+prev: seahenge.md
 ---

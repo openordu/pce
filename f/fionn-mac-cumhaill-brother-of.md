@@ -1,5 +1,5 @@
 ---
-title: Fionn mac Cumhaill, brother of 
+title: Fionn Mac Cumhaill, Brother Of 
 index: false
 article: false 
 icon: article

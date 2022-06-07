@@ -1,8 +1,8 @@
 ---
-title: Otherworld, in adventures 
+title: Otherworld, In Adventures 
 index: false
 article: false 
 icon: article
 next: otherworld-in-cosmology.md
-prev: otherworld-hounds-of.md
+prev: otherworld-ildathach-as.md
 ---

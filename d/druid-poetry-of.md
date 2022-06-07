@@ -1,5 +1,5 @@
 ---
-title: druid, poetry of 
+title: Druid, Poetry Of 
 index: false
 article: false 
 icon: article

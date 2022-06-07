@@ -1,8 +1,8 @@
 ---
-title: fine 
+title: Fine 
 index: false
 article: false 
 icon: article
-next: fir-chlis.md
-prev: fili.md
+next: finn.md
+prev: findias.md
 ---

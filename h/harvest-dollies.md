@@ -1,5 +1,5 @@
 ---
-title: harvest dollies 
+title: Harvest Dollies 
 index: false
 article: false 
 icon: article

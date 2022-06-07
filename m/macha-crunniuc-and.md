@@ -1,5 +1,5 @@
 ---
-title: Macha, Crunniuc and 
+title: Macha, Crunniuc And 
 index: false
 article: false 
 icon: article

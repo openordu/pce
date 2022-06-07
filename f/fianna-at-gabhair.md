@@ -1,8 +1,8 @@
 ---
-title: Fianna, at Gabhair 
+title: Fianna, At Gabhair 
 index: false
 article: false 
 icon: article
-next: fianna-clans-in.md
-prev: fianna-oscar-in.md
+next: fianna-ciabhán-in.md
+prev: fianna-ailna-and.md
 ---

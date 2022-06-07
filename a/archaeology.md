@@ -1,8 +1,8 @@
 ---
-title: archaeology 
+title: Archaeology 
 index: false
 article: false 
 icon: article
-next: ard-rí.md
-prev: apple.md
+next: ard-macha.md
+prev: arberth.md
 ---

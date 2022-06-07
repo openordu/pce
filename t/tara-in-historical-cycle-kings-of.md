@@ -1,5 +1,5 @@
 ---
-title: Tara, in Historical Cycle kings of 
+title: Tara, In Historical Cycle Kings Of 
 index: false
 article: false 
 icon: article

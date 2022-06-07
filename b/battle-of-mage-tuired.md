@@ -1,8 +1,8 @@
 ---
-title: Battle of Mage Tuired 
+title: Battle Of Mage Tuired 
 index: false
 article: false 
 icon: article
-next: baudwin.md
+next: baudihille.md
 prev: bath.md
 ---

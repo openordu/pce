@@ -1,8 +1,8 @@
 ---
-title: inauguration, of Corc mac Luigthic 
+title: Inauguration, Of Corc Mac Luigthic 
 index: false
 article: false 
 icon: article
-next: inauguration-ériu-in.md
+next: inauguration-sovereignty-and.md
 prev: inauguration-locality-of.md
 ---

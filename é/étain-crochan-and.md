@@ -1,8 +1,8 @@
 ---
-title: Étain, Crochan and 
+title: Étain, Crochan And 
 index: false
 article: false 
 icon: article
-next: étain-at-tara.md
-prev: étain.md
+next: étain-daughter-of.md
+prev: étain-conception-of.md
 ---

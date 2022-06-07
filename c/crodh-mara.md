@@ -1,8 +1,8 @@
 ---
-title: crodh mara 
+title: Crodh Mara 
 index: false
 article: false 
 icon: article
-next: crooker.md
-prev: cremation.md
+next: crom.md
+prev: crochan.md
 ---

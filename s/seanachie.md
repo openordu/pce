@@ -1,8 +1,8 @@
 ---
-title: seanachie 
+title: Seanachie 
 index: false
 article: false 
 icon: article
-next: second-sight.md
+next: seanchán.md
 prev: seal.md
 ---

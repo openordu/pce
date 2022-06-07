@@ -3,6 +3,6 @@ title: Ban Naemha
 index: false
 article: false 
 icon: article
-next: banba.md
+next: banais-ríghe.md
 prev: balor.md
 ---

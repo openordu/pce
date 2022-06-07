@@ -1,8 +1,8 @@
 ---
-title: Mórrígan, cow stolen by 
+title: Mórrígan, Cow Stolen By 
 index: false
 article: false 
 icon: article
-next: mórrígan-in-táin-bó-cuailnge.md
+next: mórrígan-dagda-and.md
 prev: mórrígan-cattle-and.md
 ---

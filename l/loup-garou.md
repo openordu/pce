@@ -1,8 +1,8 @@
 ---
-title: loup-garou 
+title: Loup-Garou 
 index: false
 article: false 
 icon: article
-next: lubber.md
-prev: losses-of-the-year.md
+next: luaths-lurgann.md
+prev: lough-ree.md
 ---

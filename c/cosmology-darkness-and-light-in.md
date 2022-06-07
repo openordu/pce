@@ -1,5 +1,5 @@
 ---
-title: cosmology, darkness and light in 
+title: Cosmology, Darkness And Light In 
 index: false
 article: false 
 icon: article

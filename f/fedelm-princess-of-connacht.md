@@ -1,5 +1,5 @@
 ---
-title: Fedelm, princess of Connacht 
+title: Fedelm, Princess Of Connacht 
 index: false
 article: false 
 icon: article

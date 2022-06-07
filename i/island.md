@@ -1,8 +1,8 @@
 ---
-title: island 
+title: Island 
 index: false
 article: false 
 icon: article
-next: ivy.md
-prev: iron.md
+next: island-of-pigs.md
+prev: iseult-of-the-white-hands.md
 ---

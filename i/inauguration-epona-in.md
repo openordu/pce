@@ -1,8 +1,8 @@
 ---
-title: inauguration, Epona in 
+title: Inauguration, Epona In 
 index: false
 article: false 
 icon: article
-next: inauguration-sovereignty-and.md
-prev: inauguration-stones.md
+next: inauguration-horse-sacrifice-in.md
+prev: inauguration-buada-in.md
 ---

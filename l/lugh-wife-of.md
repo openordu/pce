@@ -1,8 +1,8 @@
 ---
-title: Lugh, wife of 
+title: Lugh, Wife Of 
 index: false
 article: false 
 icon: article
-next: lugh.md
+next: lughaidh-lágha.md
 prev: lugh-uncle-of.md
 ---

@@ -1,8 +1,8 @@
 ---
-title: Greek writings, Celts in 
+title: Greek Writings, Celts In 
 index: false
 article: false 
 icon: article
-next: green-children.md
-prev: gray-man.md
+next: green.md
+prev: greatlecan.md
 ---

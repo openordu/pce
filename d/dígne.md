@@ -4,5 +4,5 @@ index: false
 article: false 
 icon: article
 next: díl.md
-prev: dér-gréine.md
+prev: díchetal-do-chennaib.md
 ---

@@ -3,6 +3,6 @@ title: Fraoch
 index: false
 article: false 
 icon: article
-next: friar-rush.md
-prev: fraechnat.md
+next: friagabis.md
+prev: framing-spell.md
 ---

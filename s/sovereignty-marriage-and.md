@@ -1,8 +1,8 @@
 ---
-title: Sovereignty, marriage and 
+title: Sovereignty, Marriage And 
 index: false
 article: false 
 icon: article
-next: sovereignty-polytheism-and.md
-prev: sovereignty-love-triangles-and.md
+next: sovereignty-mongán-and.md
+prev: sovereignty-macha-and.md
 ---

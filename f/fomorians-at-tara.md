@@ -1,8 +1,8 @@
 ---
-title: Fomorians, at Tara 
+title: Fomorians, At Tara 
 index: false
 article: false 
 icon: article
 next: fomorians-defeat-of.md
-prev: fomorians-lot-of.md
+prev: fomhoire.md
 ---

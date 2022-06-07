@@ -1,8 +1,8 @@
 ---
-title: Sovereignty, in kingship 
+title: Sovereignty, In Kingship 
 index: false
 article: false 
 icon: article
-next: sovereignty-love-triangles-and.md
-prev: sovereignty-in-cosmology.md
+next: sovereignty-iseult-as.md
+prev: sovereignty-in-historical-cycle-horse-and.md
 ---

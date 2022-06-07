@@ -1,8 +1,8 @@
 ---
-title: Agallamh na Seanóarch 
+title: Agallamh Na Seanóarch 
 index: false
 article: false 
 icon: article
 next: agnoman.md
-prev: afagddu.md
+prev: afaon.md
 ---

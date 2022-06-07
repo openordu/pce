@@ -4,5 +4,5 @@ index: false
 article: false 
 icon: article
 next: giant-s-causeway.md
-prev: gialla-deacair.md
+prev: giants.md
 ---

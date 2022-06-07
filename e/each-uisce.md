@@ -1,8 +1,8 @@
 ---
-title: each uisce 
+title: Each Uisce 
 index: false
 article: false 
 icon: article
-next: eagle.md
-prev: díchetal-do-chennaib.md
+next: eachlach-urlair.md
+prev: dún-scaith.md
 ---

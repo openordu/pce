@@ -1,8 +1,8 @@
 ---
-title: Aillén mac Midgna 
+title: Aillén Mac Midgna 
 index: false
 article: false 
 icon: article
-next: aillén-brother-of-áine.md
-prev: aillén-trachenn.md
+next: aillén-trachenn.md
+prev: aillén.md
 ---

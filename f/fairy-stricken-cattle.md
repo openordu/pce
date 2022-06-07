@@ -1,5 +1,5 @@
 ---
-title: fairy-stricken cattle 
+title: Fairy-Stricken Cattle 
 index: false
 article: false 
 icon: article

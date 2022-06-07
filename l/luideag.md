@@ -1,8 +1,8 @@
 ---
-title: luideag 
+title: Luideag 
 index: false
 article: false 
 icon: article
 next: lunantishee.md
-prev: lubber.md
+prev: lugos.md
 ---

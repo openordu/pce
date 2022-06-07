@@ -1,8 +1,8 @@
 ---
-title: Dáire mac Fiachan 
+title: Dáire Mac Fiachan 
 index: false
 article: false 
 icon: article
-next: dáirine.md
+next: dáire-of-the-poems.md
 prev: dáire-mac-dedad.md
 ---

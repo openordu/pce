@@ -1,5 +1,5 @@
 ---
-title: Fedelm of Munster Fedelm the Nine-Times Beautiful 
+title: Fedelm Of Munster Fedelm The Nine-Times Beautiful 
 index: false
 article: false 
 icon: article

@@ -1,8 +1,8 @@
 ---
-title: Ailill mac Máta 
+title: Ailill Mac Máta 
 index: false
 article: false 
 icon: article
-next: ailill-of-aran.md
-prev: ailill-olom.md
+next: ailill-molt.md
+prev: ailill.md
 ---

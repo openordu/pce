@@ -1,8 +1,8 @@
 ---
-title: Mórrígan, Morgan and 
+title: Mórrígan, Morgan And 
 index: false
 article: false 
 icon: article
-next: mórrígan-nemian-and.md
+next: mórrígan-mother-of.md
 prev: mórrígan-medb-and.md
 ---

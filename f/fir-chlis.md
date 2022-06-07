@@ -1,8 +1,8 @@
 ---
-title: fir chlis 
+title: Fir Chlis 
 index: false
 article: false 
 icon: article
-next: fire-beltane.md
-prev: fine.md
+next: fir-dea.md
+prev: fir-bolg-rudraige-of.md
 ---

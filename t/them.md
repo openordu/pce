@@ -3,6 +3,6 @@ title: Them
 index: false
 article: false 
 icon: article
-next: thirteen-treasures-of-britain.md
+next: thincsus.md
 prev: teyrnon.md
 ---

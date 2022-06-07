@@ -1,8 +1,8 @@
 ---
-title: cat 
+title: Cat 
 index: false
 article: false 
 icon: article
-next: cats.md
-prev: casting-aglamour.md
+next: cat-sith.md
+prev: caswallawn.md
 ---

@@ -1,5 +1,5 @@
 ---
-title: honor-price 
+title: Honor-Price 
 index: false
 article: false 
 icon: article

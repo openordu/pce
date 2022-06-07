@@ -1,8 +1,8 @@
 ---
-title: Taliesin, Elphin helped by 
+title: Taliesin, Elphin Helped By 
 index: false
 article: false 
 icon: article
-next: taliesin-telgesinus-as.md
-prev: taise.md
+next: taliesin-foster-father-of.md
+prev: taliesin-as-bard.md
 ---

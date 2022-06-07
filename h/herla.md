@@ -4,5 +4,5 @@ index: false
 article: false 
 icon: article
 next: hermes.md
-prev: hercules.md
+prev: hergest1.md
 ---

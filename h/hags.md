@@ -1,8 +1,8 @@
 ---
-title: hags 
+title: Hags 
 index: false
 article: false 
 icon: article
-next: hair.md
+next: hag-s-glen.md
 prev: hag.md
 ---

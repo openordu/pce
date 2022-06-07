@@ -1,8 +1,8 @@
 ---
-title: canach 
+title: Canach 
 index: false
 article: false 
 icon: article
-next: captive-fairies.md
-prev: calendar.md
+next: candlemas.md
+prev: camulos.md
 ---

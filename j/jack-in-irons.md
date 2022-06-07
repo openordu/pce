@@ -1,5 +1,5 @@
 ---
-title: Jack-in-Irons 
+title: Jack-In-Irons 
 index: false
 article: false 
 icon: article

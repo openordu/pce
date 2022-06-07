@@ -1,8 +1,8 @@
 ---
-title: cosmology 
+title: Cosmology 
 index: false
 article: false 
 icon: article
-next: cosmology-devil-in.md
-prev: cornucopia.md
+next: cosmology-creation-in.md
+prev: corrgenn.md
 ---

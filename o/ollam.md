@@ -1,8 +1,8 @@
 ---
-title: ollam 
+title: Ollam 
 index: false
 article: false 
 icon: article
-next: omen.md
+next: ollamh-fódhla.md
 prev: oldest-creature.md
 ---

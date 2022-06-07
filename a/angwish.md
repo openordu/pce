@@ -3,6 +3,6 @@ title: Angwish
 index: false
 article: false 
 icon: article
-next: anind.md
+next: animal-divination.md
 prev: anglonnach.md
 ---

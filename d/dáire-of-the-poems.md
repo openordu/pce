@@ -1,8 +1,8 @@
 ---
-title: Dáire of the Poems 
+title: Dáire Of The Poems 
 index: false
 article: false 
 icon: article
-next: dáire-son-of-fionn-mac-cumhaill.md
-prev: dáire-derg.md
+next: dáire-father-of-lugaidh.md
+prev: dáire-mac-fiachan.md
 ---

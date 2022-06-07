@@ -4,5 +4,5 @@ index: false
 article: false 
 icon: article
 next: finn-eamhna.md
-prev: findias.md
+prev: fine.md
 ---

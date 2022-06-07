@@ -1,8 +1,8 @@
 ---
-title: baptism 
+title: Baptism 
 index: false
 article: false 
 icon: article
 next: bard.md
-prev: banshee.md
+prev: baobhansith.md
 ---

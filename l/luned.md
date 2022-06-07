@@ -3,6 +3,6 @@ title: Luned
 index: false
 article: false 
 icon: article
-next: luxovius.md
-prev: lugos.md
+next: luridan.md
+prev: lunar-divinities.md
 ---

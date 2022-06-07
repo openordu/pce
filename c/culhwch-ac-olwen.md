@@ -1,8 +1,8 @@
 ---
-title: Culhwch ac Olwen 
+title: Culhwch Ac Olwen 
 index: false
 article: false 
 icon: article
-next: culhwch.md
-prev: culann.md
+next: cumaine-fada.md
+prev: culhwch.md
 ---

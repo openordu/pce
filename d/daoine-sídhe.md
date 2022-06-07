@@ -1,8 +1,8 @@
 ---
-title: Daoine sídhe 
+title: Daoine Sídhe 
 index: false
 article: false 
 icon: article
-next: darlughdacha.md
-prev: danu-ii-v-.md
+next: daoinemaite.md
+prev: danube.md
 ---

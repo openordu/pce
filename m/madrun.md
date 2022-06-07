@@ -4,5 +4,5 @@ index: false
 article: false 
 icon: article
 next: maedoc.md
-prev: madgy-figgy.md
+prev: madness.md
 ---

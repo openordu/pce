@@ -3,6 +3,6 @@ title: Dumbarton
 index: false
 article: false 
 icon: article
-next: dun-cow-x-.md
+next: dumbsupper.md
 prev: dumaitis.md
 ---

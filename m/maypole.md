@@ -1,8 +1,8 @@
 ---
-title: maypole 
+title: Maypole 
 index: false
 article: false 
 icon: article
-next: mead.md
-prev: marvels.md
+next: mcm.md
+prev: may-bush.md
 ---

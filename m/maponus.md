@@ -3,6 +3,6 @@ title: Maponus
 index: false
 article: false 
 icon: article
-next: marcassa.md
-prev: maolodhrán.md
+next: maps.md
+prev: maponos.md
 ---

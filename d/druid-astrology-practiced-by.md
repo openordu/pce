@@ -1,8 +1,8 @@
 ---
-title: druid, astrology practiced by 
+title: Druid, Astrology Practiced By 
 index: false
 article: false 
 icon: article
 next: druid-hair-of.md
-prev: druid-mog-ruith.md
+prev: druid.md
 ---

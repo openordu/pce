@@ -1,5 +1,5 @@
 ---
-title: fairy kidnapping, darts and 
+title: Fairy Kidnapping, Darts And 
 index: false
 article: false 
 icon: article

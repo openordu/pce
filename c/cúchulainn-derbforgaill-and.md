@@ -1,8 +1,8 @@
 ---
-title: Cúchulainn, Derbforgaill and 
+title: Cúchulainn, Derbforgaill And 
 index: false
 article: false 
 icon: article
-next: cúchulainn-forgall-and.md
-prev: cúchulainn-cú-roí-and.md
+next: cúchulainn-dog-of.md
+prev: cúchulainn-death-of.md
 ---

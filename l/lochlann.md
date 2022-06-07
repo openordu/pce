@@ -3,6 +3,6 @@ title: Lochlann
 index: false
 article: false 
 icon: article
-next: long-man.md
+next: lone-sod.md
 prev: locha.md
 ---

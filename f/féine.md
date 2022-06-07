@@ -3,6 +3,6 @@ title: Féine
 index: false
 article: false 
 icon: article
-next: fíngein.md
+next: féis.md
 prev: féichin.md
 ---

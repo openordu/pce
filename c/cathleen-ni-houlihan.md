@@ -1,8 +1,8 @@
 ---
-title: Cathleen ni Houlihan 
+title: Cathleen Ni Houlihan 
 index: false
 article: false 
 icon: article
-next: cathubodua.md
+next: cathpalug.md
 prev: cathbhadh.md
 ---

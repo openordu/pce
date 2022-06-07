@@ -1,8 +1,8 @@
 ---
-title: seven 
+title: Seven 
 index: false
 article: false 
 icon: article
-next: seven-daughters-of-the-sea.md
-prev: serpent-stone.md
+next: seven-bishops.md
+prev: setlocenia.md
 ---

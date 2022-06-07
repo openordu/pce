@@ -3,6 +3,6 @@ title: Artaios
 index: false
 article: false 
 icon: article
-next: artemis.md
+next: artaius.md
 prev: art-mac-cuinn.md
 ---

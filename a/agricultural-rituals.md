@@ -1,8 +1,8 @@
 ---
-title: agricultural rituals 
+title: Agricultural Rituals 
 index: false
 article: false 
 icon: article
-next: aiats.md
-prev: afanc.md
+next: agrona.md
+prev: agretes.md
 ---

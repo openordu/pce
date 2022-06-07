@@ -1,8 +1,8 @@
 ---
-title: Amhairghin mac Éigit Salaigh 
+title: Amhairghin Mac Éigit Salaigh 
 index: false
 article: false 
 icon: article
-next: amr.md
+next: amphibians-reptiles-and-molluscs.md
 prev: amhairghin-glúngheal.md
 ---

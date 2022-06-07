@@ -1,8 +1,8 @@
 ---
-title: away 
+title: Away 
 index: false
 article: false 
 icon: article
-next: badger.md
-prev: autumn-equinox.md
+next: awen.md
+prev: aveta.md
 ---

@@ -1,8 +1,8 @@
 ---
-title: triplicity 
+title: Triplicity 
 index: false
 article: false 
 icon: article
-next: trooping-fairies.md
-prev: triad.md
+next: tristan.md
+prev: triplegoddess.md
 ---

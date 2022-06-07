@@ -1,8 +1,8 @@
 ---
-title: Joan d’Arc 
+title: Joan D’Arc 
 index: false
 article: false 
 icon: article
-next: joseph-of-arimathea.md
+next: john.md
 prev: jesus-christ.md
 ---

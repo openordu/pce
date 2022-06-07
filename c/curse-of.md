@@ -1,8 +1,8 @@
 ---
-title: curse of 
+title: Curse Of 
 index: false
 article: false 
 icon: article
-next: cétnad.md
+next: custennin.md
 prev: curse-.md
 ---

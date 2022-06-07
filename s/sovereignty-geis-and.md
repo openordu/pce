@@ -1,5 +1,5 @@
 ---
-title: Sovereignty, geis and 
+title: Sovereignty, Geis And 
 index: false
 article: false 
 icon: article

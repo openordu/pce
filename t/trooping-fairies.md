@@ -1,8 +1,8 @@
 ---
-title: trooping fairies 
+title: Trooping Fairies 
 index: false
 article: false 
 icon: article
 next: trow.md
-prev: triplicity.md
+prev: tristan.md
 ---

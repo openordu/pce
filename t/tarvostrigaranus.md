@@ -3,6 +3,6 @@ title: Tarvostrigaranus
 index: false
 article: false 
 icon: article
-next: tavy.md
-prev: tarbhfheis.md
+next: tatter-foal.md
+prev: tarvostrigaranos.md
 ---

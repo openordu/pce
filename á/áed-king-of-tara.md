@@ -1,5 +1,5 @@
 ---
-title: Áed, king of Tara 
+title: Áed, King Of Tara 
 index: false
 article: false 
 icon: article

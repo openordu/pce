@@ -1,8 +1,8 @@
 ---
-title: Taliesin, wisdom of 
+title: Taliesin, Wisdom Of 
 index: false
 article: false 
 icon: article
-next: taliesin.md
-prev: taliesin-shape-shifting-by.md
+next: taliesin1.md
+prev: taliesin-telgesinus-as.md
 ---

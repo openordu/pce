@@ -1,8 +1,8 @@
 ---
-title: fairy lover, Áine as 
+title: Fairy Lover, Áine As 
 index: false
 article: false 
 icon: article
-next: fairy-lover.md
+next: fairy-midwife.md
 prev: fairy-lover-of-thomas-the-rhymer.md
 ---

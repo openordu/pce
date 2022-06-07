@@ -1,5 +1,5 @@
 ---
-title: Giant’s Causeway 
+title: Giant’S Causeway 
 index: false
 article: false 
 icon: article

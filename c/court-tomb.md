@@ -1,5 +1,5 @@
 ---
-title: court tomb 
+title: Court Tomb 
 index: false
 article: false 
 icon: article

@@ -4,5 +4,5 @@ index: false
 article: false 
 icon: article
 next: coligny.md
-prev: coinchenn.md
+prev: coins.md
 ---

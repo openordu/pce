@@ -1,5 +1,5 @@
 ---
-title: Táin bó Cuialnge, Donn Bó in 
+title: Táin Bó Cuialnge, Donn Bó In 
 index: false
 article: false 
 icon: article

@@ -1,5 +1,5 @@
 ---
-title: Amairgin of Ulster 
+title: Amairgin Of Ulster 
 index: false
 article: false 
 icon: article

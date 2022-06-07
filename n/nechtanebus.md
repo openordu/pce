@@ -3,6 +3,6 @@ title: Nechtanebus
 index: false
 article: false 
 icon: article
-next: necthan-scéne.md
+next: necromancy.md
 prev: nechtan.md
 ---

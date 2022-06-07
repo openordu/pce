@@ -1,8 +1,8 @@
 ---
-title: fawn 
+title: Fawn 
 index: false
 article: false 
 icon: article
-next: feast.md
-prev: father-of.md
+next: fea.md
+prev: faughart.md
 ---

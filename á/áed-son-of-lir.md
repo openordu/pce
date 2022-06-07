@@ -1,5 +1,5 @@
 ---
-title: Áed, son of Lir 
+title: Áed, Son Of Lir 
 index: false
 article: false 
 icon: article

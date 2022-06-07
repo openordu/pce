@@ -1,8 +1,8 @@
 ---
-title: Cailleach, Loughcrew and 
+title: Cailleach, Loughcrew And 
 index: false
 article: false 
 icon: article
-next: cailleach-munster-and.md
+next: cailleach-mountains-and.md
 prev: cailleach-latiaran-and.md
 ---

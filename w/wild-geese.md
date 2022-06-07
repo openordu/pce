@@ -4,5 +4,5 @@ index: false
 article: false 
 icon: article
 next: wild-hunt.md
-prev: wicca.md
+prev: wild-animals.md
 ---

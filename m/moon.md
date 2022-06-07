@@ -1,8 +1,8 @@
 ---
-title: moon 
+title: Moon 
 index: false
 article: false 
 icon: article
-next: morris-dancing.md
+next: morann.md
 prev: months.md
 ---

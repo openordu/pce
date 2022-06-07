@@ -1,8 +1,8 @@
 ---
-title: vision 
+title: Vision 
 index: false
 article: false 
 icon: article
-next: votive-deposits.md
-prev: uruisg.md
+next: visucia.md
+prev: vintius.md
 ---

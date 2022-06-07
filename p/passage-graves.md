@@ -1,8 +1,8 @@
 ---
-title: passage graves 
+title: Passage Graves 
 index: false
 article: false 
 icon: article
 next: patera.md
-prev: ox.md
+prev: parzival.md
 ---

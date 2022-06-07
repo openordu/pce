@@ -1,8 +1,8 @@
 ---
-title: cumhal 
+title: Cumhal 
 index: false
 article: false 
 icon: article
-next: cup.md
-prev: crow.md
+next: cumhall.md
+prev: cumaine-fada.md
 ---

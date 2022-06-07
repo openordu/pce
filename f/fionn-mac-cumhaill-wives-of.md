@@ -1,8 +1,8 @@
 ---
-title: Fionn mac Cumhaill, wives of 
+title: Fionn Mac Cumhaill, Wives Of 
 index: false
 article: false 
 icon: article
-next: fionn-mac-cumhaill.md
+next: fionnachta.md
 prev: fionn-mac-cumhaill-wisdom-of.md
 ---

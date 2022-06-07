@@ -1,8 +1,8 @@
 ---
-title: children of 
+title: Children Of 
 index: false
 article: false 
 icon: article
-next: clipping-the-church-clootie.md
-prev: charm.md
+next: children-of-lir.md
+prev: charmmaking.md
 ---

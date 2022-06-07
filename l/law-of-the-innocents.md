@@ -1,5 +1,5 @@
 ---
-title: Law of the Innocents 
+title: Law Of The Innocents 
 index: false
 article: false 
 icon: article

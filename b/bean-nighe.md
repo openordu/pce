@@ -1,8 +1,8 @@
 ---
-title: bean nighe 
+title: Bean Nighe 
 index: false
 article: false 
 icon: article
 next: bean-tighe.md
-prev: barrow.md
+prev: beag-mac-dé.md
 ---

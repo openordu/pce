@@ -1,8 +1,8 @@
 ---
-title: Cailleach, Ragnell as 
+title: Cailleach, Ragnell As 
 index: false
 article: false 
 icon: article
-next: cailleach-sheela-na-gig-as.md
-prev: cailleach-munster-and.md
+next: cailleach-serpent-and.md
+prev: cailleach-on-imbolc.md
 ---

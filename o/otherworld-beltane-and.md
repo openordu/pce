@@ -1,8 +1,8 @@
 ---
-title: Otherworld, Beltane and 
+title: Otherworld, Beltane And 
 index: false
 article: false 
 icon: article
-next: otherworld-ildathach-as.md
-prev: otherworld-arawn-in.md
+next: otherworld-birds-in.md
+prev: otherworld-as-mag-mell.md
 ---

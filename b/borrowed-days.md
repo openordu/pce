@@ -1,8 +1,8 @@
 ---
-title: borrowed days 
+title: Borrowed Days 
 index: false
 article: false 
 icon: article
 next: borrowing-fire.md
-prev: boobrie.md
+prev: book-of-kells.md
 ---

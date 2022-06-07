@@ -1,8 +1,8 @@
 ---
-title: Medb, birth of 
+title: Medb, Birth Of 
 index: false
 article: false 
 icon: article
-next: medb-cattle-raid-of.md
+next: medb-cailitin-and.md
 prev: medb-at-tara.md
 ---

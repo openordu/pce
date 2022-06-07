@@ -1,8 +1,8 @@
 ---
-title: druineach 
+title: Druineach 
 index: false
 article: false 
 icon: article
-next: duality-dub.md
+next: dryantore.md
 prev: druid-s-glass.md
 ---

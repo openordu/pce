@@ -4,5 +4,5 @@ index: false
 article: false 
 icon: article
 next: cath-paluc.md
-prev: casan-buidhe.md
+prev: cat.md
 ---

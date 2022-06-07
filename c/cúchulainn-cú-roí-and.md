@@ -1,8 +1,8 @@
 ---
-title: Cúchulainn, Cú Roí and 
+title: Cúchulainn, Cú Roí And 
 index: false
 article: false 
 icon: article
-next: cúchulainn-derbforgaill-and.md
+next: cúchulainn-death-of.md
 prev: cúchulainn-culann-and.md
 ---

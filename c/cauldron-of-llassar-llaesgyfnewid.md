@@ -1,5 +1,5 @@
 ---
-title: cauldron of Llassar Llaesgyfnewid 
+title: Cauldron Of Llassar Llaesgyfnewid 
 index: false
 article: false 
 icon: article

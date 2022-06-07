@@ -1,8 +1,8 @@
 ---
-title: bile 
+title: Bile 
 index: false
 article: false 
 icon: article
-next: birch-tree.md
+next: billy-blind.md
 prev: bilberry.md
 ---

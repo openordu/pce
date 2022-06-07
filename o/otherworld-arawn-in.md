@@ -1,8 +1,8 @@
 ---
-title: Otherworld, Arawn in 
+title: Otherworld, Arawn In 
 index: false
 article: false 
 icon: article
-next: otherworld-beltane-and.md
-prev: ossian.md
+next: otherworld-as-mag-mell.md
+prev: otherworld.md
 ---

@@ -1,5 +1,5 @@
 ---
-title: Muircertach mac Erc 
+title: Muircertach Mac Erc 
 index: false
 article: false 
 icon: article

@@ -1,5 +1,5 @@
 ---
-title: Crimthann Mór mac Fidaigh 
+title: Crimthann Mór Mac Fidaigh 
 index: false
 article: false 
 icon: article

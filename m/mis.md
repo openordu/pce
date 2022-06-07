@@ -3,6 +3,6 @@ title: Mis
 index: false
 article: false 
 icon: article
-next: mithras.md
+next: mistletoe.md
 prev: minerva.md
 ---

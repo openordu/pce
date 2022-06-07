@@ -1,8 +1,8 @@
 ---
-title: caul 
+title: Caul 
 index: false
 article: false 
 icon: article
-next: cauldron.md
-prev: cattle.md
+next: cauld-lad.md
+prev: catur.md
 ---

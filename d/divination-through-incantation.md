@@ -1,8 +1,8 @@
 ---
-title: divination through incantation 
+title: Divination Through Incantation 
 index: false
 article: false 
 icon: article
 next: divination-through-letters.md
-prev: directions.md
+prev: divination.md
 ---

@@ -1,8 +1,8 @@
 ---
-title: Cairbre mac Éadaoine 
+title: Cairbre Mac Éadaoine 
 index: false
 article: false 
 icon: article
-next: cairenn.md
-prev: cairbre-nia-fer.md
+next: cairbre-nia-fer.md
+prev: cairbre-lifechair.md
 ---

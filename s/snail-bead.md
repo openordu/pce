@@ -1,5 +1,5 @@
 ---
-title: snail bead 
+title: Snail Bead 
 index: false
 article: false 
 icon: article

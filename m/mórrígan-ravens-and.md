@@ -1,8 +1,8 @@
 ---
-title: Mórrígan, ravens and 
+title: Mórrígan, Ravens And 
 index: false
 article: false 
 icon: article
-next: mórrígan-son-of.md
-prev: mórrígan-mother-of.md
+next: mórrígan-rhiannon-and.md
+prev: mórrígan-oweynagat-and.md
 ---

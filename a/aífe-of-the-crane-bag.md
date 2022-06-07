@@ -1,5 +1,5 @@
 ---
-title: Aífe of the crane bag 
+title: Aífe Of The Crane Bag 
 index: false
 article: false 
 icon: article

@@ -1,8 +1,8 @@
 ---
-title: glamour 
+title: Glamour 
 index: false
 article: false 
 icon: article
-next: glastyn.md
-prev: giants.md
+next: glanlua.md
+prev: giona.md
 ---

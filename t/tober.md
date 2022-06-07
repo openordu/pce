@@ -1,8 +1,8 @@
 ---
-title: tober 
+title: Tober 
 index: false
 article: false 
 icon: article
 next: tochmarc.md
-prev: time.md
+prev: tlachtga.md
 ---

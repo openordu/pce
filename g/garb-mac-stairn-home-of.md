@@ -1,5 +1,5 @@
 ---
-title: Garb Mac Stairn home of 
+title: Garb Mac Stairn Home Of 
 index: false
 article: false 
 icon: article

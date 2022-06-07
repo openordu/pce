@@ -3,6 +3,6 @@ title: Sele
 index: false
 article: false 
 icon: article
-next: semias.md
+next: selkie.md
 prev: segáis.md
 ---

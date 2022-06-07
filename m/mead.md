@@ -1,8 +1,8 @@
 ---
-title: mead 
+title: Mead 
 index: false
 article: false 
 icon: article
-next: megalithic-civilization.md
-prev: maypole.md
+next: meadhbh.md
+prev: mcm.md
 ---

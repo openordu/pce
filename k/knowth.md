@@ -3,6 +3,6 @@ title: Knowth
 index: false
 article: false 
 icon: article
-next: korrigans.md
+next: korrigan.md
 prev: knockshegowna.md
 ---

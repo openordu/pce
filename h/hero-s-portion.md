@@ -1,8 +1,8 @@
 ---
-title: hero’s portion 
+title: Hero’S Portion 
 index: false
 article: false 
 icon: article
-next: high-king.md
+next: herzeloyde.md
 prev: heron.md
 ---

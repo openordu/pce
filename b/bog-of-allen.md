@@ -1,8 +1,8 @@
 ---
-title: Bog of Allen 
+title: Bog Of Allen 
 index: false
 article: false 
 icon: article
-next: bolg.md
-prev: bodhmall.md
+next: bog-people.md
+prev: bog.md
 ---

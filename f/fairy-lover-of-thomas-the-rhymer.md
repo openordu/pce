@@ -1,5 +1,5 @@
 ---
-title: fairy lover, of Thomas the Rhymer 
+title: Fairy Lover, Of Thomas The Rhymer 
 index: false
 article: false 
 icon: article

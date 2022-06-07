@@ -1,5 +1,5 @@
 ---
-title: Samhain, moonrise on 
+title: Samhain, Moonrise On 
 index: false
 article: false 
 icon: article

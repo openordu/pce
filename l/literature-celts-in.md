@@ -1,8 +1,8 @@
 ---
-title: literature, Celts in 
+title: Literature, Celts In 
 index: false
 article: false 
 icon: article
-next: liver.md
+next: literature-cornish.md
 prev: literacy.md
 ---

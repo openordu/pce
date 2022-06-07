@@ -1,8 +1,8 @@
 ---
-title: wild animals 
+title: Wild Animals 
 index: false
 article: false 
 icon: article
-next: willow.md
-prev: widdershins.md
+next: wild-geese.md
+prev: widow.md
 ---

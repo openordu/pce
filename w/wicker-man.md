@@ -1,8 +1,8 @@
 ---
-title: wicker man 
+title: Wicker Man 
 index: false
 article: false 
 icon: article
 next: widdershins.md
-prev: white.md
+prev: wicca.md
 ---

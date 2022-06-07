@@ -1,8 +1,8 @@
 ---
-title: sacral kingship 
+title: Sacral Kingship 
 index: false
 article: false 
 icon: article
 next: sacred-grove.md
-prev: rí.md
+prev: sabrina.md
 ---

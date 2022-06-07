@@ -3,6 +3,6 @@ title: Beare
 index: false
 article: false 
 icon: article
-next: beaumains.md
+next: beating-the-bounds.md
 prev: bearchán.md
 ---

@@ -1,8 +1,8 @@
 ---
-title: Cúchulainn, father of 
+title: Cúchulainn, Father Of 
 index: false
 article: false 
 icon: article
-next: cúchulainn-fosterage-of.md
+next: cúchulainn-forgall-and.md
 prev: cúchulainn-dog-of.md
 ---

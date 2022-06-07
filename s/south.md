@@ -1,8 +1,8 @@
 ---
-title: south 
+title: South 
 index: false
 article: false 
 icon: article
-next: sow.md
+next: sovereignty.md
 prev: soul.md
 ---

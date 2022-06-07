@@ -1,5 +1,5 @@
 ---
-title: Labhraidh Luathlam ar Cleb 
+title: Labhraidh Luathlam Ar Cleb 
 index: false
 article: false 
 icon: article

@@ -1,8 +1,8 @@
 ---
-title: Lugh, Lugos and 
+title: Lugh, Lugos And 
 index: false
 article: false 
 icon: article
-next: lugh-ocean-sweeper-and-on-uisneach.md
-prev: lugh-goll-mac-morna-and.md
+next: lugh-mother-of.md
+prev: lugh-leprechaun-and.md
 ---

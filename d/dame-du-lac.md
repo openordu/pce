@@ -1,5 +1,5 @@
 ---
-title: Dame du Lac 
+title: Dame Du Lac 
 index: false
 article: false 
 icon: article

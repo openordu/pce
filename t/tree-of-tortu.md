@@ -1,8 +1,8 @@
 ---
-title: Tree of Tortu 
+title: Tree Of Tortu 
 index: false
 article: false 
 icon: article
-next: tregeagle.md
-prev: toutior.md
+next: tree-soul.md
+prev: tree-alphabet-.md
 ---

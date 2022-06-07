@@ -3,6 +3,6 @@ title: Breaseal
 index: false
 article: false 
 icon: article
-next: bres.md
-prev: bres.md
+next: brega.md
+prev: breasal-b6-dhíobhadh.md
 ---

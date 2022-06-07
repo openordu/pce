@@ -1,8 +1,8 @@
 ---
-title: Fomorians, Fir Bolg and 
+title: Fomorians, Fir Bolg And 
 index: false
 article: false 
 icon: article
-next: fomorians-lot-of.md
-prev: fomhoire.md
+next: fomorians-goddess-of.md
+prev: fomorians-defeat-of.md
 ---

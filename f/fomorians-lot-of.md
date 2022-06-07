@@ -1,8 +1,8 @@
 ---
-title: Fomorians, Lot of 
+title: Fomorians, Lot Of 
 index: false
 article: false 
 icon: article
-next: fomorians-at-tara.md
-prev: fomorians-fir-bolg-and.md
+next: fomorians-on-uisneach.md
+prev: fomorians-land-of.md
 ---

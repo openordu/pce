@@ -1,8 +1,8 @@
 ---
-title: Ó hAnluain, Réamonn 
+title: Ó HAnluain, Réamonn 
 index: false
 article: false 
 icon: article
-next: óenach.md
-prev: ó-súilleabháin-eoghan-rua.md
+next: ó-maoilriain-éamonn-an-chnoic.md
+prev: ó-dónaill-mánas.md
 ---

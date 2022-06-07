@@ -1,8 +1,8 @@
 ---
-title: Fergus mac Róich 
+title: Fergus Mac Róich 
 index: false
 article: false 
 icon: article
-next: fflur.md
+next: fergus-mór.md
 prev: fergus-mac-léti.md
 ---

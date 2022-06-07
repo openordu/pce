@@ -1,5 +1,5 @@
 ---
-title: Cúchulainn, weapon of 
+title: Cúchulainn, Weapon Of 
 index: false
 article: false 
 icon: article

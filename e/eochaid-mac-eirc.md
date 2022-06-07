@@ -1,8 +1,8 @@
 ---
-title: Eochaid mac Eirc 
+title: Eochaid Mac Eirc 
 index: false
 article: false 
 icon: article
-next: eochaidh.md
-prev: eochaid-mugmedón-eochaid-ollathair-eó-fis.md
+next: eochaid-mugmedón-eochaid-ollathair-eó-fis.md
+prev: eochaid-iúil.md
 ---

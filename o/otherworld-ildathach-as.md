@@ -1,8 +1,8 @@
 ---
-title: Otherworld, Ildathach as 
+title: Otherworld, Ildathach As 
 index: false
 article: false 
 icon: article
-next: otherworld-as-mag-mell.md
-prev: otherworld-beltane-and.md
+next: otherworld-in-adventures.md
+prev: otherworld-hounds-of.md
 ---

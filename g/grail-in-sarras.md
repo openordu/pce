@@ -1,8 +1,8 @@
 ---
-title: Grail, in Sarras 
+title: Grail, In Sarras 
 index: false
 article: false 
 icon: article
-next: grail-purity-of-heart-and.md
-prev: grail-perilous-seat-and.md
+next: grail-joseph-of-arimathea-and.md
+prev: grail-fisher-king-and.md
 ---

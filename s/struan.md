@@ -1,8 +1,8 @@
 ---
-title: struan 
+title: Struan 
 index: false
 article: false 
 icon: article
-next: submerged-city.md
+next: stukeley.md
 prev: stroke.md
 ---

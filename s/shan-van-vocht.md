@@ -3,6 +3,6 @@ title: Shan Van Vocht
 index: false
 article: false 
 icon: article
-next: shee-finnaha.md
-prev: sgeimh-soluis.md
+next: shape-shifting.md
+prev: shamrock.md
 ---

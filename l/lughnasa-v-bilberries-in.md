@@ -1,8 +1,8 @@
 ---
-title: Lughnasa v, bilberries in 
+title: Lughnasa V, Bilberries In 
 index: false
 article: false 
 icon: article
-next: lughnasa-maoilin-and.md
-prev: lughaidh-mac-con.md
+next: lughnasa-at-knofierna.md
+prev: lughaidh-riabhdhearg.md
 ---

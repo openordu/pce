@@ -1,8 +1,8 @@
 ---
-title: festival 
+title: Festival 
 index: false
 article: false 
 icon: article
-next: fidchell.md
-prev: ferrish.md
+next: fferyllt.md
+prev: ferrishyn.md
 ---

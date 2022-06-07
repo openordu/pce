@@ -1,8 +1,8 @@
 ---
-title: witch, Madgy Figgy 
+title: Witch, Madgy Figgy 
 index: false
 article: false 
 icon: article
-next: witch-as-hare.md
-prev: witch-buitch.md
+next: witch-milk-stolen-by.md
+prev: witch-fox-and.md
 ---

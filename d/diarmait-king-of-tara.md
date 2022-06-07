@@ -1,8 +1,8 @@
 ---
-title: Diarmait, king of Tara 
+title: Diarmait, King Of Tara 
 index: false
 article: false 
 icon: article
 next: dinadan.md
-prev: diarmait-mac-murchada.md
+prev: diarmait-ua-duibne-searbhan-and.md
 ---

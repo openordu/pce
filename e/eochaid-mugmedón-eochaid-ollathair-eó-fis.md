@@ -1,8 +1,8 @@
 ---
-title: Eochaid Mugmedón Eochaid Ollathair eó fis 
+title: Eochaid Mugmedón Eochaid Ollathair Eó Fis 
 index: false
 article: false 
 icon: article
-next: eochaid-mac-eirc.md
-prev: eochaid-iúil.md
+next: eochaidh.md
+prev: eochaid-mac-eirc.md
 ---

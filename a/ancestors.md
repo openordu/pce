@@ -1,8 +1,8 @@
 ---
-title: ancestors 
+title: Ancestors 
 index: false
 article: false 
 icon: article
-next: animal-divination.md
-prev: amulet.md
+next: ancomna.md
+prev: ancamna.md
 ---

@@ -1,5 +1,5 @@
 ---
-title: Isles of the Blessed 
+title: Isles Of The Blessed 
 index: false
 article: false 
 icon: article

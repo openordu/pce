@@ -1,8 +1,8 @@
 ---
-title: guee 
+title: Guee 
 index: false
 article: false 
 icon: article
-next: gunna.md
-prev: gruagach.md
+next: guid-folk.md
+prev: guaire.md
 ---

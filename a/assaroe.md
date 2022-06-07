@@ -3,6 +3,6 @@ title: Assaroe
 index: false
 article: false 
 icon: article
-next: assembly-of-the-wondrous-head.md
+next: assembly.md
 prev: assa.md
 ---

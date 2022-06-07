@@ -1,8 +1,8 @@
 ---
-title: Abhartach mac Ildathaigh 
+title: Abhartach Mac Ildathaigh 
 index: false
 article: false 
 icon: article
 next: abnoba.md
-prev: abcán.md
+prev: aberseint.md
 ---

@@ -1,8 +1,8 @@
 ---
-title: Samhain, pooka and 
+title: Samhain, Pooka And 
 index: false
 article: false 
 icon: article
-next: samhain-thinness-on.md
-prev: samhain-night-of.md
+next: samhain-shoney-on.md
+prev: samhain-otherworld-on.md
 ---

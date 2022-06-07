@@ -1,8 +1,8 @@
 ---
-title: swallow 
+title: Swallow 
 index: false
 article: false 
 icon: article
 next: swan.md
-prev: superstition.md
+prev: sutugius.md
 ---

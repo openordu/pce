@@ -1,8 +1,8 @@
 ---
-title: stray sod 
+title: Stray Sod 
 index: false
 article: false 
 icon: article
 next: stream.md
-prev: stone.md
+prev: stonehenge.md
 ---

@@ -1,8 +1,8 @@
 ---
-title: derbfine 
+title: Derbfine 
 index: false
 article: false 
 icon: article
-next: dergfhlaith.md
+next: derbforgaill.md
 prev: deosil.md
 ---

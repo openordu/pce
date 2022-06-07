@@ -1,8 +1,8 @@
 ---
-title: Macha, in Táin bó Cuailnge 
+title: Macha, In Táin Bó Cuailnge 
 index: false
 article: false 
 icon: article
 next: macha-in-ulster-cycle.md
-prev: macha-mother-of.md
+prev: macha-husband-of.md
 ---

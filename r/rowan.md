@@ -1,8 +1,8 @@
 ---
-title: rowan 
+title: Rowan 
 index: false
 article: false 
 icon: article
-next: rune.md
-prev: rose.md
+next: ruad.md
+prev: round-table.md
 ---

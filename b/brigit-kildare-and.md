@@ -1,5 +1,5 @@
 ---
-title: Brigit, Kildare and 
+title: Brigit, Kildare And 
 index: false
 article: false 
 icon: article

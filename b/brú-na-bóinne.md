@@ -1,8 +1,8 @@
 ---
-title: Brú na Bóinne 
+title: Brú Na Bóinne 
 index: false
 article: false 
 icon: article
-next: buan.md
-prev: brí-léith.md
+next: buada.md
+prev: brídeóg.md
 ---

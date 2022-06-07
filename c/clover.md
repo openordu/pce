@@ -1,8 +1,8 @@
 ---
-title: clover 
+title: Clover 
 index: false
 article: false 
 icon: article
 next: cluricaune.md
-prev: clipping-the-church-clootie.md
+prev: clothra.md
 ---

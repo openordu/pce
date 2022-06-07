@@ -3,6 +3,6 @@ title: Ryons
 index: false
 article: false 
 icon: article
-next: rómit-rígóinmit.md
+next: rí.md
 prev: ruturugus.md
 ---

@@ -1,8 +1,8 @@
 ---
-title: fairy lover 
+title: Fairy Lover 
 index: false
 article: false 
 icon: article
-next: fairy-midwife.md
-prev: fairy-lover-áine-as.md
+next: fairy-lover-fairy-kidnapping-by.md
+prev: fairy-lights.md
 ---

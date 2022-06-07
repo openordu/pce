@@ -1,8 +1,8 @@
 ---
-title: lake maidens 
+title: Lake Maidens 
 index: false
 article: false 
 icon: article
-next: laoghaire.md
+next: lambton-worm.md
 prev: lake.md
 ---

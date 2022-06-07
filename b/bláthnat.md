@@ -3,6 +3,6 @@ title: Bláthnat
 index: false
 article: false 
 icon: article
-next: bochtóg.md
+next: boann.md
 prev: blue-men-of-the-minch.md
 ---

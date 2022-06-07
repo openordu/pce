@@ -1,5 +1,5 @@
 ---
-title: Murchadh mac Briain 
+title: Murchadh Mac Briain 
 index: false
 article: false 
 icon: article

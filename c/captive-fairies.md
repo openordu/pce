@@ -1,8 +1,8 @@
 ---
-title: captive fairies 
+title: Captive Fairies 
 index: false
 article: false 
 icon: article
 next: captive-in-fairyland.md
-prev: canach.md
+prev: caoranch.md
 ---

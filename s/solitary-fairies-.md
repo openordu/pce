@@ -1,8 +1,8 @@
 ---
-title: solitary fairies   
+title: Solitary Fairies   
 index: false
 article: false 
 icon: article
-next: solstice.md
+next: solomon.md
 prev: solar-divinities.md
 ---

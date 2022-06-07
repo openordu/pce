@@ -3,6 +3,6 @@ title: Maelduin
 index: false
 article: false 
 icon: article
-next: maer.md
+next: maelgwn.md
 prev: maedoc.md
 ---

@@ -1,8 +1,8 @@
 ---
-title: Mórrígan, in Táin bó Cuailnge 
+title: Mórrígan, In Táin Bó Cuailnge 
 index: false
 article: false 
 icon: article
-next: mórrígan-mother-of.md
-prev: mórrígan-cow-stolen-by.md
+next: mórrígan-medb-and.md
+prev: mórrígan-dagda-and.md
 ---

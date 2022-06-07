@@ -1,8 +1,8 @@
 ---
-title: Mórrígan, mother of 
+title: Mórrígan, Mother Of 
 index: false
 article: false 
 icon: article
-next: mórrígan-ravens-and.md
-prev: mórrígan-in-táin-bó-cuailnge.md
+next: mórrígan-nemian-and.md
+prev: mórrígan-morgan-and.md
 ---

@@ -1,8 +1,8 @@
 ---
-title: Cailleach, Munster and 
+title: Cailleach, Munster And 
 index: false
 article: false 
 icon: article
-next: cailleach-ragnell-as.md
-prev: cailleach-loughcrew-and.md
+next: cailleach-on-imbolc.md
+prev: cailleach-mountains-and.md
 ---

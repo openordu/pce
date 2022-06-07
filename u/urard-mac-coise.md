@@ -1,5 +1,5 @@
 ---
-title: Urard mac Coise 
+title: Urard Mac Coise 
 index: false
 article: false 
 icon: article

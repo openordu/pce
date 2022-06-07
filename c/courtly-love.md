@@ -1,8 +1,8 @@
 ---
-title: courtly love 
+title: Courtly Love 
 index: false
 article: false 
 icon: article
-next: cow.md
+next: coventina.md
 prev: court-tomb.md
 ---

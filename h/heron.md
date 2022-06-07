@@ -1,5 +1,5 @@
 ---
-title: heron 
+title: Heron 
 index: false
 article: false 
 icon: article

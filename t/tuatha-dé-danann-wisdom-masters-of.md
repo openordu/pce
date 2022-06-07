@@ -1,8 +1,8 @@
 ---
-title: Tuatha Dé Danann, wisdom masters of 
+title: Tuatha Dé Danann, Wisdom Masters Of 
 index: false
 article: false 
 icon: article
-next: tuathal-teachtmhar.md
+next: tuathadedanann.md
 prev: carman.md
 ---

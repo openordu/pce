@@ -3,6 +3,6 @@ title: Epona
 index: false
 article: false 
 icon: article
-next: erc.md
+next: equinox-v-.md
 prev: eoghanacht.md
 ---

@@ -1,8 +1,8 @@
 ---
-title: lubber 
+title: Lubber 
 index: false
 article: false 
 icon: article
-next: luideag.md
-prev: loup-garou.md
+next: lucan.md
+prev: lubbard-fiend.md
 ---

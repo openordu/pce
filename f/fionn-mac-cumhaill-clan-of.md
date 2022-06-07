@@ -1,5 +1,5 @@
 ---
-title: Fionn mac Cumhaill, clan of 
+title: Fionn Mac Cumhaill, Clan Of 
 index: false
 article: false 
 icon: article

@@ -4,5 +4,5 @@ index: false
 article: false 
 icon: article
 next: ancamna.md
-prev: amr.md
+prev: amulet.md
 ---

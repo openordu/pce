@@ -4,5 +4,5 @@ index: false
 article: false 
 icon: article
 next: inchiquin-indech.md
-prev: imbolc.md
+prev: incest.md
 ---

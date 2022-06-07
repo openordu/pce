@@ -1,8 +1,8 @@
 ---
-title: Samhain, Otherworld on 
+title: Samhain, Otherworld On 
 index: false
 article: false 
 icon: article
-next: samhain-shoney-on.md
-prev: samhain-guy-fawkes-and.md
+next: samhain-pooka-and.md
+prev: samhain-night-of.md
 ---

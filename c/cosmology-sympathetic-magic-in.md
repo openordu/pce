@@ -1,5 +1,5 @@
 ---
-title: cosmology, sympathetic magic in 
+title: Cosmology, Sympathetic Magic In 
 index: false
 article: false 
 icon: article

@@ -1,5 +1,5 @@
 ---
-title: Grail, Perilous Bed and 
+title: Grail, Perilous Bed And 
 index: false
 article: false 
 icon: article

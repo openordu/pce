@@ -4,5 +4,5 @@ index: false
 article: false 
 icon: article
 next: naithí.md
-prev: mórrígan-son-of.md
+prev: na-buchtogai.md
 ---

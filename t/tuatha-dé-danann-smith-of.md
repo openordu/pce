@@ -1,5 +1,5 @@
 ---
-title: Tuatha Dé Danann, smith of 
+title: Tuatha Dé Danann, Smith Of 
 index: false
 article: false 
 icon: article

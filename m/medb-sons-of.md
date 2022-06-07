@@ -1,5 +1,5 @@
 ---
-title: Medb, sons of 
+title: Medb, Sons Of 
 index: false
 article: false 
 icon: article

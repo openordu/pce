@@ -1,8 +1,8 @@
 ---
-title: shinny 
+title: Shinny 
 index: false
 article: false 
 icon: article
-next: shoemaker.md
-prev: sheep.md
+next: shiveringboy.md
+prev: shellycoat.md
 ---

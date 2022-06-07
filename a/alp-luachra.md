@@ -1,8 +1,8 @@
 ---
-title: alp-luachra 
+title: Alp-Luachra 
 index: false
 article: false 
 icon: article
 next: altar.md
-prev: ale.md
+prev: allobroges.md
 ---

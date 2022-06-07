@@ -1,8 +1,8 @@
 ---
-title: Thomas the Rhymer 
+title: Thomas The Rhymer 
 index: false
 article: false 
 icon: article
-next: three-sorrows-of-ireland.md
+next: thorn-tree.md
 prev: thiten.md
 ---

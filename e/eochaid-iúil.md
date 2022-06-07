@@ -3,6 +3,6 @@ title: Eochaid Iúil
 index: false
 article: false 
 icon: article
-next: eochaid-mugmedón-eochaid-ollathair-eó-fis.md
+next: eochaid-mac-eirc.md
 prev: eochaid-garbh.md
 ---

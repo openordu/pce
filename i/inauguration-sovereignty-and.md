@@ -1,8 +1,8 @@
 ---
-title: inauguration, Sovereignty and 
+title: Inauguration, Sovereignty And 
 index: false
 article: false 
 icon: article
-next: inauguration-at-tintagel.md
-prev: inauguration-epona-in.md
+next: inauguration-ériu-in.md
+prev: inauguration-of-corc-mac-luigthic.md
 ---

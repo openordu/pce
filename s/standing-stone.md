@@ -1,8 +1,8 @@
 ---
-title: standing stone 
+title: Standing Stone 
 index: false
 article: false 
 icon: article
-next: stoat.md
+next: starn.md
 prev: stag.md
 ---

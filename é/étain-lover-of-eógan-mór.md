@@ -1,5 +1,5 @@
 ---
-title: Étain, lover of Eógan Mór 
+title: Étain, Lover Of Eógan Mór 
 index: false
 article: false 
 icon: article

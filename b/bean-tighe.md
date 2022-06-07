@@ -1,8 +1,8 @@
 ---
-title: bean tighe 
+title: Bean Tighe 
 index: false
 article: false 
 icon: article
-next: bear.md
+next: beannighe.md
 prev: bean-nighe.md
 ---

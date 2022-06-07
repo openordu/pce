@@ -1,5 +1,5 @@
 ---
-title: Patrick, sain used by 
+title: Patrick, Sain Used By 
 index: false
 article: false 
 icon: article

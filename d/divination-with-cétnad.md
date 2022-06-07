@@ -1,5 +1,5 @@
 ---
-title: divination, with cétnad 
+title: Divination, With Cétnad 
 index: false
 article: false 
 icon: article

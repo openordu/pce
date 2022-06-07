@@ -1,8 +1,8 @@
 ---
-title: bogie 
+title: Bogie 
 index: false
 article: false 
 icon: article
-next: boobrie.md
+next: boii.md
 prev: boggart.md
 ---

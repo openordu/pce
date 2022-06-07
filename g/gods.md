@@ -1,8 +1,8 @@
 ---
-title: gods 
+title: Gods 
 index: false
 article: false 
 icon: article
-next: gold.md
-prev: goddesses.md
+next: goewin.md
+prev: godiva.md
 ---

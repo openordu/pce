@@ -1,8 +1,8 @@
 ---
-title: Kings, Cycle of the 
+title: Kings, Cycle Of The 
 index: false
 article: false 
 icon: article
-next: knight-of-the-glen.md
+next: kings-kingship.md
 prev: king-of-ireland-s-son-kings.md
 ---

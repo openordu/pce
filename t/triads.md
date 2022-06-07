@@ -4,5 +4,5 @@ index: false
 article: false 
 icon: article
 next: triduana.md
-prev: trewa.md
+prev: triad.md
 ---

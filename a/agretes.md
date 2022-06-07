@@ -3,6 +3,6 @@ title: Agretes
 index: false
 article: false 
 icon: article
-next: agrona.md
+next: agricultural-rituals.md
 prev: agravaine.md
 ---

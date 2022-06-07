@@ -3,6 +3,6 @@ title: Redcap
 index: false
 article: false 
 icon: article
-next: reid-thome.md
-prev: red-etin.md
+next: reddragon.md
+prev: red-handed-king.md
 ---

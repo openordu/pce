@@ -3,6 +3,6 @@ title: Cúscraidh Meann Macha
 index: false
 article: false 
 icon: article
-next: da-derga.md
-prev: mórrígan.md
+next: c-wn-annwn.md
+prev: cúchulainn-wife-of.md
 ---

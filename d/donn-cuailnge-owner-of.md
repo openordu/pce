@@ -1,8 +1,8 @@
 ---
-title: Donn Cuailnge, owner of 
+title: Donn Cuailnge, Owner Of 
 index: false
 article: false 
 icon: article
 next: donn-cuailnge-reincarnation-as.md
-prev: donn-cuailnge-in-ulster-cycle.md
+prev: donn-cuailnge-mórrígan-and.md
 ---

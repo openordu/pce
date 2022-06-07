@@ -1,8 +1,8 @@
 ---
-title: pattern 
+title: Pattern 
 index: false
 article: false 
 icon: article
-next: pech.md
-prev: patera.md
+next: pceltic.md
+prev: patrick.md
 ---

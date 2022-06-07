@@ -1,8 +1,8 @@
 ---
-title: hill 
+title: Hill 
 index: false
 article: false 
 icon: article
-next: hoard.md
+next: hill-of-allen.md
 prev: high-king-high-kingship.md
 ---

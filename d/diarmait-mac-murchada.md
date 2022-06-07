@@ -1,8 +1,8 @@
 ---
-title: Diarmait mac Murchada 
+title: Diarmait Mac Murchada 
 index: false
 article: false 
 icon: article
-next: diarmait-king-of-tara.md
-prev: diarmait-ua-duibne-mother-of.md
+next: diarmait-ua-duibne.md
+prev: diarmait.md
 ---

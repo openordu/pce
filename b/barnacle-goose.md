@@ -1,8 +1,8 @@
 ---
-title: barnacle goose 
+title: Barnacle Goose 
 index: false
 article: false 
 icon: article
-next: barrow.md
-prev: barguest.md
+next: barra.md
+prev: barinthus.md
 ---

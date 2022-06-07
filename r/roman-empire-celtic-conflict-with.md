@@ -1,8 +1,8 @@
 ---
-title: Roman Empire, Celtic conflict with 
+title: Roman Empire, Celtic Conflict With 
 index: false
 article: false 
 icon: article
-next: romano-celtic.md
+next: romandugraal.md
 prev: rollright-stones.md
 ---

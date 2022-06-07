@@ -1,5 +1,5 @@
 ---
-title: Conn mac Lir 
+title: Conn Mac Lir 
 index: false
 article: false 
 icon: article

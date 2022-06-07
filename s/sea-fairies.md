@@ -1,8 +1,8 @@
 ---
-title: sea fairies 
+title: Sea Fairies 
 index: false
 article: false 
 icon: article
-next: seal.md
-prev: satire.md
+next: seahenge.md
+prev: scéne.md
 ---

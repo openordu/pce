@@ -1,8 +1,8 @@
 ---
-title: religious tales 
+title: Religious Tales 
 index: false
 article: false 
 icon: article
-next: rituals.md
+next: rex.md
 prev: religion.md
 ---

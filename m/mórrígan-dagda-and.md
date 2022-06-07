@@ -1,8 +1,8 @@
 ---
-title: Mórrígan, Dagda and 
+title: Mórrígan, Dagda And 
 index: false
 article: false 
 icon: article
-next: mórrígan-medb-and.md
-prev: mórrígan-and.md
+next: mórrígan-in-táin-bó-cuailnge.md
+prev: mórrígan-cow-stolen-by.md
 ---

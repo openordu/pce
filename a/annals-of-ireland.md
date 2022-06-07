@@ -1,5 +1,5 @@
 ---
-title: Annals of Ireland 
+title: Annals Of Ireland 
 index: false
 article: false 
 icon: article

@@ -1,8 +1,8 @@
 ---
-title: nemeton 
+title: Nemeton 
 index: false
 article: false 
 icon: article
-next: neo-pagan.md
-prev: need-fire.md
+next: nemetona.md
+prev: nemetius.md
 ---

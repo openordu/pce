@@ -3,6 +3,6 @@ title: Partholón
 index: false
 article: false 
 icon: article
-next: patrick.md
+next: parzival.md
 prev: partholonians.md
 ---

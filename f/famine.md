@@ -1,8 +1,8 @@
 ---
-title: famine 
+title: Famine 
 index: false
 article: false 
 icon: article
-next: father-of.md
-prev: fairyland.md
+next: fand.md
+prev: falias.md
 ---

@@ -1,8 +1,8 @@
 ---
-title: bog people 
+title: Bog People 
 index: false
 article: false 
 icon: article
 next: bogan.md
-prev: bog.md
+prev: bog-of-allen.md
 ---

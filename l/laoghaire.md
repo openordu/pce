@@ -3,6 +3,6 @@ title: Laoghaire
 index: false
 article: false 
 icon: article
-next: laoghaire-buach.md
-prev: land-of-youth.md
+next: laoghaire.md
+prev: land-under-wave.md
 ---

@@ -3,6 +3,6 @@ title: Ector
 index: false
 article: false 
 icon: article
-next: efnisien.md
+next: edern.md
 prev: ecne.md
 ---

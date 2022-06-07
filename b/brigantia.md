@@ -3,6 +3,6 @@ title: Brigantia
 index: false
 article: false 
 icon: article
-next: brighid-mythical-figure.md
-prev: bricriu.md
+next: brigantii-rhaetia.md
+prev: brigantes-britain.md
 ---

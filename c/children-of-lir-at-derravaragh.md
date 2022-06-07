@@ -1,8 +1,8 @@
 ---
-title: Children of Lir, at Derravaragh 
+title: Children Of Lir, At Derravaragh 
 index: false
 article: false 
 icon: article
 next: children-of-lir-at-inis-glora.md
-prev: children-of-lir-fionnuala.md
+prev: children-of-lir.md
 ---

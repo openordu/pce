@@ -4,5 +4,5 @@ index: false
 article: false 
 icon: article
 next: biddy.md
-prev: berguisa.md
+prev: bernezinc.md
 ---

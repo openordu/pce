@@ -3,6 +3,6 @@ title: Stonehenge
 index: false
 article: false 
 icon: article
-next: strid.md
+next: stray-sod.md
 prev: stone-of-divisions.md
 ---

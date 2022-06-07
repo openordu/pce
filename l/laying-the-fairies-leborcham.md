@@ -1,8 +1,8 @@
 ---
-title: Laying the Fairies Leborcham 
+title: Laying The Fairies Leborcham 
 index: false
 article: false 
 icon: article
-next: leherennus.md
+next: leabharbreac.md
 prev: law-of-the-innocents.md
 ---

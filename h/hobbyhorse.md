@@ -1,8 +1,8 @@
 ---
-title: hobbyhorse 
+title: Hobbyhorse 
 index: false
 article: false 
 icon: article
-next: holed-stones-.md
+next: hogmany.md
 prev: hob.md
 ---

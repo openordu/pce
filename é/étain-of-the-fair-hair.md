@@ -1,5 +1,5 @@
 ---
-title: Étain, of the Fair Hair 
+title: Étain, Of The Fair Hair 
 index: false
 article: false 
 icon: article

@@ -1,8 +1,8 @@
 ---
-title: Sheela na Gig 
+title: Sheela Na Gig 
 index: false
 article: false 
 icon: article
-next: shellycoat.md
+next: sheep.md
 prev: shee-finnaha.md
 ---

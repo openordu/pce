@@ -1,5 +1,5 @@
 ---
-title: Mars, Rigisamus as 
+title: Mars, Rigisamus As 
 index: false
 article: false 
 icon: article

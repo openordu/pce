@@ -1,5 +1,5 @@
 ---
-title: Celtic revival 
+title: Celtic Revival 
 index: false
 article: false 
 icon: article

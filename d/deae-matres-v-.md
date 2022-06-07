@@ -1,8 +1,8 @@
 ---
-title: Deae Matres v, 
+title: Deae Matres V, 
 index: false
 article: false 
 icon: article
 next: deaglán.md
-prev: dea-nutr.md
+prev: dead-hand.md
 ---

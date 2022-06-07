@@ -1,8 +1,8 @@
 ---
-title: Celtic society 
+title: Celtic Society 
 index: false
 article: false 
 icon: article
-next: center.md
+next: celtic-twilight-artistic-move-ment.md
 prev: celtic-shamanism.md
 ---

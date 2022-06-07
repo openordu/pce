@@ -1,5 +1,5 @@
 ---
-title: fairy, second sight and 
+title: Fairy, Second Sight And 
 index: false
 article: false 
 icon: article

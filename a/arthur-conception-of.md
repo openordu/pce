@@ -1,8 +1,8 @@
 ---
-title: Arthur, conception of 
+title: Arthur, Conception Of 
 index: false
 article: false 
 icon: article
 next: arthur-court-of.md
-prev: arthur-merlin-and.md
+prev: arthur-bedwyr-and.md
 ---

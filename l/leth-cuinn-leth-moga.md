@@ -4,5 +4,5 @@ index: false
 article: false 
 icon: article
 next: lethderg.md
-prev: leodegrance.md
+prev: ler.md
 ---

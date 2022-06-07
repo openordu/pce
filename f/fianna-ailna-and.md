@@ -1,8 +1,8 @@
 ---
-title: Fianna, Ailna and 
+title: Fianna, Ailna And 
 index: false
 article: false 
 icon: article
-next: fianna-ciabhán-in.md
+next: fianna-at-gabhair.md
 prev: fianna-abarta-in.md
 ---

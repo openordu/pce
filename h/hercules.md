@@ -3,6 +3,6 @@ title: Hercules
 index: false
 article: false 
 icon: article
-next: herla.md
-prev: henwen.md
+next: hergest1.md
+prev: herbs.md
 ---

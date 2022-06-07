@@ -1,8 +1,8 @@
 ---
-title: Fir Bolg, Geali Dianvir of 
+title: Fir Bolg, Geali Dianvir Of 
 index: false
 article: false 
 icon: article
-next: fir-bolg-rudraige-of.md
-prev: fir-bolg.md
+next: fir-bolg-historical-basis-for-leaders-of.md
+prev: fir-bolg-fort-of.md
 ---

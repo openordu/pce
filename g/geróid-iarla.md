@@ -3,6 +3,6 @@ title: Geróid Iarla
 index: false
 article: false 
 icon: article
-next: gialla-deacair.md
+next: ghost.md
 prev: george.md
 ---

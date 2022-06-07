@@ -1,8 +1,8 @@
 ---
-title: Kenneth of the Prophecies 
+title: Kenneth Of The Prophecies 
 index: false
 article: false 
 icon: article
 next: kerhanagh.md
-prev: kay.md
+prev: kelpie.md
 ---

@@ -1,8 +1,8 @@
 ---
-title: cait sith 
+title: Cait Sith 
 index: false
 article: false 
 icon: article
-next: cake.md
+next: caitileen-óg.md
 prev: cairn.md
 ---

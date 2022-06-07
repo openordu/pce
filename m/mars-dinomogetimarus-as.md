@@ -1,5 +1,5 @@
 ---
-title: Mars, Dinomogetimarus as 
+title: Mars, Dinomogetimarus As 
 index: false
 article: false 
 icon: article

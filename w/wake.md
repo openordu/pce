@@ -1,8 +1,8 @@
 ---
-title: wake 
+title: Wake 
 index: false
 article: false 
 icon: article
-next: war-furies.md
+next: waltermap.md
 prev: waff.md
 ---

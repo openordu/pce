@@ -1,5 +1,5 @@
 ---
-title: fairy kidnapping, fairy blast and 
+title: Fairy Kidnapping, Fairy Blast And 
 index: false
 article: false 
 icon: article

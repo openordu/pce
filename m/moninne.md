@@ -3,6 +3,6 @@ title: Moninne
 index: false
 article: false 
 icon: article
-next: morann.md
+next: monster.md
 prev: mongán.md
 ---

@@ -3,6 +3,6 @@ title: Bademagu
 index: false
 article: false 
 icon: article
-next: badhbh.md
+next: badger.md
 prev: badb.md
 ---

@@ -1,5 +1,5 @@
 ---
-title: féith na filíochta 
+title: Féith Na Filíochta 
 index: false
 article: false 
 icon: article

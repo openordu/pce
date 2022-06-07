@@ -1,8 +1,8 @@
 ---
-title: rí 
+title: Rí 
 index: false
 article: false 
 icon: article
-next: sacral-kingship.md
-prev: rushes.md
+next: rómit-rígóinmit.md
+prev: ryons.md
 ---

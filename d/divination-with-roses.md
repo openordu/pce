@@ -1,8 +1,8 @@
 ---
-title: divination, with roses 
+title: Divination, With Roses 
 index: false
 article: false 
 icon: article
-next: divination.md
+next: dobharchú.md
 prev: divination-with-hares.md
 ---

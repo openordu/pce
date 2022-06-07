@@ -1,8 +1,8 @@
 ---
-title: ale 
+title: Ale 
 index: false
 article: false 
 icon: article
-next: alp-luachra.md
+next: aleine.md
 prev: alder-tree.md
 ---

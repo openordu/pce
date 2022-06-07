@@ -1,5 +1,5 @@
 ---
-title: humorous tales 
+title: Humorous Tales 
 index: false
 article: false 
 icon: article

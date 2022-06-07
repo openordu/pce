@@ -1,8 +1,8 @@
 ---
-title: ghosts 
+title: Ghosts 
 index: false
 article: false 
 icon: article
-next: giants.md
+next: gialla-deacair.md
 prev: ghost.md
 ---

@@ -1,8 +1,8 @@
 ---
-title: snatching by the sídhe 
+title: Snatching By The Sídhe 
 index: false
 article: false 
 icon: article
-next: solar-divinities.md
+next: snowdonia.md
 prev: snail-bead.md
 ---

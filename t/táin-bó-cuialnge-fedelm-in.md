@@ -1,5 +1,5 @@
 ---
-title: Táin bó Cuialnge, Fedelm in 
+title: Táin Bó Cuialnge, Fedelm In 
 index: false
 article: false 
 icon: article

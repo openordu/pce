@@ -1,8 +1,8 @@
 ---
-title: stone circles 
+title: Stone Circles 
 index: false
 article: false 
 icon: article
-next: stone.md
-prev: stolen-bride.md
+next: stone-of-divisions.md
+prev: stone.md
 ---

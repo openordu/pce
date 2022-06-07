@@ -1,8 +1,8 @@
 ---
-title: imbas forosnai 
+title: Imbas Forosnai 
 index: false
 article: false 
 icon: article
-next: immortality.md
-prev: images.md
+next: imbolc.md
+prev: imbas.md
 ---

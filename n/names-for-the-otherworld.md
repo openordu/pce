@@ -1,8 +1,8 @@
 ---
-title: names for the Otherworld 
+title: Names For The Otherworld 
 index: false
 article: false 
 icon: article
-next: names-for-the-fairies-.md
-prev: names-for-fairyland.md
+next: nanny-button-cap-nar.md
+prev: names-for-the-fairies-.md
 ---

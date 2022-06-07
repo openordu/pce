@@ -1,8 +1,8 @@
 ---
-title: magpie 
+title: Magpie 
 index: false
 article: false 
 icon: article
-next: mallet.md
+next: maiden-castle.md
 prev: magic.md
 ---

@@ -1,5 +1,5 @@
 ---
-title: Cúchulainn, in Ulster Cycle 
+title: Cúchulainn, In Ulster Cycle 
 index: false
 article: false 
 icon: article

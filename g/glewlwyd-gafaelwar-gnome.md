@@ -1,8 +1,8 @@
 ---
-title: Glewlwyd Gafaelwar gnome 
+title: Glewlwyd Gafaelwar Gnome 
 index: false
 article: false 
 icon: article
-next: goban-soar.md
-prev: glen-lyon.md
+next: glám-dícenn.md
+prev: glendalough.md
 ---

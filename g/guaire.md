@@ -3,6 +3,6 @@ title: Guaire
 index: false
 article: false 
 icon: article
-next: guid-folk.md
-prev: gráinne-lover-of.md
+next: guee.md
+prev: gráinne-searbhan-and.md
 ---

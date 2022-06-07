@@ -1,8 +1,8 @@
 ---
-title: Fianna, poet of 
+title: Fianna, Poet Of 
 index: false
 article: false 
 icon: article
 next: sgeimh-soluis.md
-prev: fianna-in-fenian-cycle.md
+prev: fianna-oscar-in.md
 ---

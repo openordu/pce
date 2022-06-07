@@ -1,8 +1,8 @@
 ---
-title: Otherworld, birds in 
+title: Otherworld, Birds In 
 index: false
 article: false 
 icon: article
 next: otherworld-cows-of.md
-prev: otherworld-as-mag-mell.md
+prev: otherworld-beltane-and.md
 ---

@@ -1,5 +1,5 @@
 ---
-title: cauldron of Cymidei Cymeinfoll 
+title: Cauldron Of Cymidei Cymeinfoll 
 index: false
 article: false 
 icon: article

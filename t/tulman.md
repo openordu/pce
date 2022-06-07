@@ -1,8 +1,8 @@
 ---
-title: tulman 
+title: Tulman 
 index: false
 article: false 
 icon: article
-next: turning-the-jacket.md
-prev: tuath.md
+next: turgesius.md
+prev: tuiren.md
 ---

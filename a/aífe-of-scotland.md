@@ -1,5 +1,5 @@
 ---
-title: Aífe of Scotland 
+title: Aífe Of Scotland 
 index: false
 article: false 
 icon: article

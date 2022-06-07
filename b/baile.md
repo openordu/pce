@@ -3,6 +3,6 @@ title: Baile
 index: false
 article: false 
 icon: article
-next: bairrind.md
-prev: baile-mac-buain.md
+next: baile-mac-buain.md
+prev: badon.md
 ---

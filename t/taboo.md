@@ -1,8 +1,8 @@
 ---
-title: taboo 
+title: Taboo 
 index: false
 article: false 
 icon: article
-next: taghairm.md
-prev: sídhe.md
+next: tadg.md
+prev: súantrade.md
 ---

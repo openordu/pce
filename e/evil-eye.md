@@ -1,8 +1,8 @@
 ---
-title: evil eye 
+title: Evil Eye 
 index: false
 article: false 
 icon: article
-next: excarnation.md
-prev: equinox-v-.md
+next: excalibur.md
+prev: evans.md
 ---

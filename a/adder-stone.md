@@ -1,8 +1,8 @@
 ---
-title: adder stone 
+title: Adder Stone 
 index: false
 article: false 
 icon: article
-next: adder-stone.md
+next: adhamhnán.md
 prev: adder.md
 ---

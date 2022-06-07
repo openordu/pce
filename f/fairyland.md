@@ -1,8 +1,8 @@
 ---
-title: fairyland 
+title: Fairyland 
 index: false
 article: false 
 icon: article
-next: famine.md
+next: falias.md
 prev: fairy-stricken-cattle.md
 ---

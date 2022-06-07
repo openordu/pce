@@ -4,5 +4,5 @@ index: false
 article: false 
 icon: article
 next: trystan.md
-prev: tristan.md
+prev: trow.md
 ---

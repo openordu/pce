@@ -1,8 +1,8 @@
 ---
-title: intocation 
+title: Intocation 
 index: false
 article: false 
 icon: article
-next: invasions.md
-prev: insects.md
+next: intocation-of-the-ulstermen.md
+prev: interpretatio-romana.md
 ---

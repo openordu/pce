@@ -1,5 +1,5 @@
 ---
-title: Mars, Buxenus as 
+title: Mars, Buxenus As 
 index: false
 article: false 
 icon: article

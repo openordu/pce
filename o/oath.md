@@ -1,8 +1,8 @@
 ---
-title: oath 
+title: Oath 
 index: false
 article: false 
 icon: article
-next: ogham.md
+next: oberon.md
 prev: oakmen.md
 ---

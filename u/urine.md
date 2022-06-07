@@ -1,8 +1,8 @@
 ---
-title: urine 
+title: Urine 
 index: false
 article: false 
 icon: article
-next: uruisg.md
-prev: tyrants.md
+next: urisk.md
+prev: urien.md
 ---

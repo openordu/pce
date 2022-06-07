@@ -1,8 +1,8 @@
 ---
-title: calamity meat 
+title: Calamity Meat 
 index: false
 article: false 
 icon: article
-next: calendar.md
-prev: cake.md
+next: caldonia.md
+prev: caladbolg.md
 ---

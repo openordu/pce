@@ -1,8 +1,8 @@
 ---
-title: Cúchulainn, Medb and 
+title: Cúchulainn, Medb And 
 index: false
 article: false 
 icon: article
-next: cúchulainn-orlám-killed-by.md
-prev: cúchulainn-fráech-killed-by.md
+next: cúchulainn-mother-of.md
+prev: cúchulainn-lover-of.md
 ---

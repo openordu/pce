@@ -3,6 +3,6 @@ title: Rigrus Roisclethan Ríonach
 index: false
 article: false 
 icon: article
-next: rising-of-1798.md
+next: riothamus.md
 prev: rigatona.md
 ---

@@ -1,8 +1,8 @@
 ---
-title: Medb, consort of 
+title: Medb, Consort Of 
 index: false
 article: false 
 icon: article
-next: medb-daughter-of.md
+next: medb-cruachan-and.md
 prev: medb-comb-and.md
 ---

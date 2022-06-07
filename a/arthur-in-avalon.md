@@ -1,5 +1,5 @@
 ---
-title: Arthur, in Avalon 
+title: Arthur, In Avalon 
 index: false
 article: false 
 icon: article

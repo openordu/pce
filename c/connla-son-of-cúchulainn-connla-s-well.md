@@ -1,5 +1,5 @@
 ---
-title: Connla, son of Cúchulainn Connla’s Well 
+title: Connla, Son Of Cúchulainn Connla’S Well 
 index: false
 article: false 
 icon: article

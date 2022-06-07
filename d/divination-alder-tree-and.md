@@ -1,5 +1,5 @@
 ---
-title: divination, alder tree and 
+title: Divination, Alder Tree And 
 index: false
 article: false 
 icon: article

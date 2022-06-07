@@ -1,8 +1,8 @@
 ---
-title: Beltane, Easter and 
+title: Beltane, Easter And 
 index: false
 article: false 
 icon: article
-next: beltane-otherworld-on.md
+next: beltane-fairy-mounds-at.md
 prev: beltane-creiddylad-in.md
 ---

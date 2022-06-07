@@ -4,5 +4,5 @@ index: false
 article: false 
 icon: article
 next: segomo.md
-prev: 1.md
+prev: second-sight.md
 ---

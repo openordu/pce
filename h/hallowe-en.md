@@ -1,8 +1,8 @@
 ---
-title: Hallowe’en 
+title: Hallowe’En 
 index: false
 article: false 
 icon: article
-next: handsel-monday.md
+next: hammer.md
 prev: hairy-jack.md
 ---

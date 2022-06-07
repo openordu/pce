@@ -3,6 +3,6 @@ title: Ethal Anbuail
 index: false
 article: false 
 icon: article
-next: excalibur.md
-prev: esyllt.md
+next: ethne.md
+prev: etain.md
 ---

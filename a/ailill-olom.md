@@ -3,6 +3,6 @@ title: Ailill Olom
 index: false
 article: false 
 icon: article
-next: ailill-mac-máta.md
-prev: ailill-molt.md
+next: ailill-milesian-king.md
+prev: ailill-of-aran.md
 ---

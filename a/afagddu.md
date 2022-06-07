@@ -3,6 +3,6 @@ title: Afagddu
 index: false
 article: false 
 icon: article
-next: agallamh-na-seanóarch.md
+next: afallach.md
 prev: aeí.md
 ---

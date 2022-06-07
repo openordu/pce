@@ -1,8 +1,8 @@
 ---
-title: Donn Cuailnge, in Ulster Cycle 
+title: Donn Cuailnge, In Ulster Cycle 
 index: false
 article: false 
 icon: article
-next: donn-cuailnge-owner-of.md
+next: donn-cuailnge-medb-and.md
 prev: donn-cuailnge-in-táin-bó-cuailnge.md
 ---

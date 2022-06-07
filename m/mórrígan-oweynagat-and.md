@@ -1,8 +1,8 @@
 ---
-title: Mórrígan, Oweynagat and 
+title: Mórrígan, Oweynagat And 
 index: false
 article: false 
 icon: article
-next: mórrígan-rhiannon-and.md
+next: mórrígan-ravens-and.md
 prev: mórrígan-nera-and.md
 ---

@@ -1,8 +1,8 @@
 ---
-title: Sovereignty, polytheism and 
+title: Sovereignty, Polytheism And 
 index: false
 article: false 
 icon: article
-next: sovereignty-spéir-bhean-as.md
-prev: sovereignty-marriage-and.md
+next: sovereignty-ragnell-as.md
+prev: sovereignty-niall-and.md
 ---

@@ -1,8 +1,8 @@
 ---
-title: hawthorn 
+title: Hawthorn 
 index: false
 article: false 
 icon: article
-next: healing.md
+next: haxey-hood-games-hazel-tree-head.md
 prev: harvest-dollies.md
 ---

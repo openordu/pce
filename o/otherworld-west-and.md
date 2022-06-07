@@ -1,8 +1,8 @@
 ---
-title: Otherworld, west and 
+title: Otherworld, West And 
 index: false
 article: false 
 icon: article
-next: otherworld.md
+next: otter.md
 prev: paradise.md
 ---

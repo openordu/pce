@@ -1,8 +1,8 @@
 ---
-title: giants 
+title: Giants 
 index: false
 article: false 
 icon: article
-next: glamour.md
-prev: ghosts.md
+next: giants-dance.md
+prev: gialla-deacair.md
 ---

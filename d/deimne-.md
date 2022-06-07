@@ -4,5 +4,5 @@ index: false
 article: false 
 icon: article
 next: deiotaros.md
-prev: dee.md
+prev: defrobani.md
 ---

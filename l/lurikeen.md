@@ -1,8 +1,8 @@
 ---
-title: lurikeen 
+title: Lurikeen 
 index: false
 article: false 
 icon: article
-next: madness.md
+next: luxovius.md
 prev: luridan.md
 ---

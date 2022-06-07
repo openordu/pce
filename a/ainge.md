@@ -3,6 +3,6 @@ title: Ainge
 index: false
 article: false 
 icon: article
-next: airech.md
-prev: aine.md
+next: ainnle.md
+prev: aine2.md
 ---

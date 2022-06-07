@@ -1,8 +1,8 @@
 ---
-title: Cúchulainn, death of 
+title: Cúchulainn, Death Of 
 index: false
 article: false 
 icon: article
-next: cúchulainn-dog-of.md
-prev: cúchulainn-conception-of.md
+next: cúchulainn-derbforgaill-and.md
+prev: cúchulainn-cú-roí-and.md
 ---

@@ -1,8 +1,8 @@
 ---
-title: fire, Beltane 
+title: Fire, Beltane 
 index: false
 article: false 
 icon: article
 next: first-footer.md
-prev: fir-chlis.md
+prev: fir-ghorm.md
 ---

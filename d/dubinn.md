@@ -3,6 +3,6 @@ title: Dubinn
 index: false
 article: false 
 icon: article
-next: dubthach.md
+next: dubnocaratiacus.md
 prev: dubhthach-daol-uladh.md
 ---

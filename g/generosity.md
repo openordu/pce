@@ -1,8 +1,8 @@
 ---
-title: generosity 
+title: Generosity 
 index: false
 article: false 
 icon: article
 next: genius-cucullatus.md
-prev: geis.md
+prev: gelorwydd.md
 ---

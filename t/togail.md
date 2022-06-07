@@ -1,8 +1,8 @@
 ---
-title: togail 
+title: Togail 
 index: false
 article: false 
 icon: article
-next: toili.md
+next: toice-bhrean.md
 prev: tochmarc.md
 ---

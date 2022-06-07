@@ -1,5 +1,5 @@
 ---
-title: Ciarán the younger 
+title: Ciarán The Younger 
 index: false
 article: false 
 icon: article

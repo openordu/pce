@@ -1,8 +1,8 @@
 ---
-title: Sovereignty, love triangles and 
+title: Sovereignty, Love Triangles And 
 index: false
 article: false 
 icon: article
-next: sovereignty-marriage-and.md
-prev: sovereignty-in-kingship.md
+next: sovereignty-macha-and.md
+prev: sovereignty-loathy-lady-as.md
 ---

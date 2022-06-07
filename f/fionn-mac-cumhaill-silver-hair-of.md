@@ -1,5 +1,5 @@
 ---
-title: Fionn mac Cumhaill, silver hair of 
+title: Fionn Mac Cumhaill, Silver Hair Of 
 index: false
 article: false 
 icon: article

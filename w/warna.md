@@ -3,6 +3,6 @@ title: Warna
 index: false
 article: false 
 icon: article
-next: wayland.md
-prev: vosegus.md
+next: warrior-women.md
+prev: war-furies.md
 ---

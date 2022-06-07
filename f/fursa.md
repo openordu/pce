@@ -3,6 +3,6 @@ title: Fursa
 index: false
 article: false 
 icon: article
-next: fuwch-laethwen-lefrith.md
+next: furze.md
 prev: furbaide-ferbend.md
 ---

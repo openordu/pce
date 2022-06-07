@@ -1,8 +1,8 @@
 ---
-title: north 
+title: North 
 index: false
 article: false 
 icon: article
-next: nuckelavee.md
-prev: night.md
+next: northumbria.md
+prev: norsemen.md
 ---

@@ -3,6 +3,6 @@ title: Beli
 index: false
 article: false 
 icon: article
-next: belisama.md
+next: belimawr.md
 prev: belenus.md
 ---

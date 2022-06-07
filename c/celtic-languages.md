@@ -1,8 +1,8 @@
 ---
-title: Celtic languages 
+title: Celtic Languages 
 index: false
 article: false 
 icon: article
 next: celtic-life.md
-prev: celtic-twilight-artistic-move-ment.md
+prev: celtchair.md
 ---

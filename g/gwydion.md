@@ -3,6 +3,6 @@ title: Gwydion
 index: false
 article: false 
 icon: article
-next: gwynn-ap-nudd.md
+next: gwyllion.md
 prev: gwyddno.md
 ---

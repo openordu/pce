@@ -1,8 +1,8 @@
 ---
-title: Beltane, cattle in 
+title: Beltane, Cattle In 
 index: false
 article: false 
 icon: article
-next: beltane-fairy-mounds-at.md
-prev: beltane-agricultural-aspect-of-ash-tree-and.md
+next: beltane-creiddylad-in.md
+prev: beltane-belenus-and.md
 ---

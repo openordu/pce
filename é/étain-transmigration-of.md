@@ -1,5 +1,5 @@
 ---
-title: Étain, transmigration of 
+title: Étain, Transmigration Of 
 index: false
 article: false 
 icon: article

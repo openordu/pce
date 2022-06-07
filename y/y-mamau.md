@@ -1,8 +1,8 @@
 ---
-title: y mamau 
+title: Y Mamau 
 index: false
 article: false 
 icon: article
-next: yannig.md
+next: yallery-brown.md
 prev: y-fuwch-frech.md
 ---

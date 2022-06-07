@@ -1,8 +1,8 @@
 ---
-title: fish 
+title: Fish 
 index: false
 article: false 
 icon: article
-next: five.md
+next: fisher-king.md
 prev: first-footer.md
 ---

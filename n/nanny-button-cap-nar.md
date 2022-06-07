@@ -4,5 +4,5 @@ index: false
 article: false 
 icon: article
 next: napoleon-i.md
-prev: naithí.md
+prev: names-for-the-otherworld.md
 ---

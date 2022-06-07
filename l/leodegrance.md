@@ -3,6 +3,6 @@ title: Leodegrance
 index: false
 article: false 
 icon: article
-next: leth-cuinn-leth-moga.md
+next: leprechaun.md
 prev: lenus.md
 ---

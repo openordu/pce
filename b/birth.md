@@ -1,8 +1,8 @@
 ---
-title: birth 
+title: Birth 
 index: false
 article: false 
 icon: article
-next: blemished-king.md
+next: biróg.md
 prev: birds.md
 ---

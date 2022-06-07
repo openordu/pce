@@ -1,8 +1,8 @@
 ---
-title: knitting 
+title: Knitting 
 index: false
 article: false 
 icon: article
-next: knocker.md
-prev: klippe.md
+next: knockainy.md
+prev: knight-of-the-glen.md
 ---

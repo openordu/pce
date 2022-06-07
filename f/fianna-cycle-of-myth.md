@@ -1,8 +1,8 @@
 ---
-title: Fianna, Cycle of Myth 
+title: Fianna, Cycle Of Myth 
 index: false
 article: false 
 icon: article
-next: fianna-abarta-in.md
-prev: fianna.md
+next: fianna-destruction-of.md
+prev: fianna-clans-in.md
 ---

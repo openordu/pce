@@ -1,8 +1,8 @@
 ---
-title: goddess and goddesses 
+title: Goddess And Goddesses 
 index: false
 article: false 
 icon: article
-next: goddess-king-marriage.md
-prev: goddess-of-sovereignty.md
+next: goddess-of-sovereignty.md
+prev: god-and-gods.md
 ---

@@ -3,6 +3,6 @@ title: Moriath
 index: false
 article: false 
 icon: article
-next: mountain-sunday.md
+next: morrigan.md
 prev: morholt.md
 ---

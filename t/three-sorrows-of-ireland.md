@@ -1,8 +1,8 @@
 ---
-title: Three Sorrows of Ireland 
+title: Three Sorrows Of Ireland 
 index: false
 article: false 
 icon: article
 next: three-splendid-women.md
-prev: thomas-the-rhymer.md
+prev: three.md
 ---

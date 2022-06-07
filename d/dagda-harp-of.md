@@ -1,5 +1,5 @@
 ---
-title: Dagda, harp of 
+title: Dagda, Harp Of 
 index: false
 article: false 
 icon: article

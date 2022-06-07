@@ -1,8 +1,8 @@
 ---
-title: legend 
+title: Legend 
 index: false
 article: false 
 icon: article
-next: leprechaun.md
-prev: laoghaire.md
+next: leherennus.md
+prev: leborgabala.md
 ---

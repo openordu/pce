@@ -3,6 +3,6 @@ title: Camlan
 index: false
 article: false 
 icon: article
-next: camulos.md
+next: camlann.md
 prev: camelot.md
 ---

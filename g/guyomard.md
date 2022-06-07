@@ -3,6 +3,6 @@ title: Guyomard
 index: false
 article: false 
 icon: article
-next: guénolé.md
+next: guytrash.md
 prev: guy-fawkes.md
 ---

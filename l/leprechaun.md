@@ -1,8 +1,8 @@
 ---
-title: leprechaun 
+title: Leprechaun 
 index: false
 article: false 
 icon: article
 next: leprechaun-xv-.md
-prev: legend.md
+prev: leodegrance.md
 ---

@@ -1,8 +1,8 @@
 ---
-title: na buchtogai 
+title: Na Buchtogai 
 index: false
 article: false 
 icon: article
-next: names-for-fairyland.md
-prev: mythology.md
+next: nabelcus.md
+prev: mórrígan-son-of.md
 ---

@@ -1,8 +1,8 @@
 ---
-title: oracular head 
+title: Oracular Head 
 index: false
 article: false 
 icon: article
-next: otter.md
+next: orc-triath.md
 prev: oracle.md
 ---

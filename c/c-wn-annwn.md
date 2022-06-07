@@ -1,8 +1,8 @@
 ---
-title: c’wn annwn 
+title: C’Wn Annwn 
 index: false
 article: false 
 icon: article
-next: dancing-lights.md
-prev: cú-síth.md
+next: da-derga.md
+prev: cúscraidh-meann-macha.md
 ---

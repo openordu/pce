@@ -1,8 +1,8 @@
 ---
-title: Marie au Blè 
+title: Marie Au Blè 
 index: false
 article: false 
 icon: article
-next: mark.md
+next: mariechampagne.md
 prev: mari-lwyd.md
 ---

@@ -1,8 +1,8 @@
 ---
-title: luagh 
+title: Luagh 
 index: false
 article: false 
 icon: article
-next: smertrius.md
+next: sluagh.md
 prev: slieve-gullion.md
 ---

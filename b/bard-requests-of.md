@@ -1,5 +1,5 @@
 ---
-title: bard, requests of 
+title: Bard, Requests Of 
 index: false
 article: false 
 icon: article

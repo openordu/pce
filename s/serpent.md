@@ -1,8 +1,8 @@
 ---
-title: serpent 
+title: Serpent 
 index: false
 article: false 
 icon: article
 next: serpent-stone.md
-prev: second-sight.md
+prev: series.md
 ---

@@ -1,8 +1,8 @@
 ---
-title: divination 
+title: Divination 
 index: false
 article: false 
 icon: article
-next: dobie.md
-prev: divination-with-roses.md
+next: divination-through-incantation.md
+prev: divano.md
 ---

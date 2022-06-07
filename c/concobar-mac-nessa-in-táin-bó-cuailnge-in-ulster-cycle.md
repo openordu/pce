@@ -1,5 +1,5 @@
 ---
-title: Concobar mac Nessa, in Táin bó Cuailnge in Ulster Cycle 
+title: Concobar Mac Nessa, In Táin Bó Cuailnge In Ulster Cycle 
 index: false
 article: false 
 icon: article

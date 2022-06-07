@@ -1,8 +1,8 @@
 ---
-title: Brigit, at Glastonbury Tor Godiva and 
+title: Brigit, At Glastonbury Tor Godiva And 
 index: false
 article: false 
 icon: article
 next: brigit-birthplace-of.md
-prev: brigit-latiaran-and.md
+prev: brigit.md
 ---

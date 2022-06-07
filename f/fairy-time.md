@@ -1,5 +1,5 @@
 ---
-title: fairy time 
+title: Fairy Time 
 index: false
 article: false 
 icon: article

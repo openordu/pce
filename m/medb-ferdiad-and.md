@@ -1,8 +1,8 @@
 ---
-title: Medb, Ferdiad and 
+title: Medb, Ferdiad And 
 index: false
 article: false 
 icon: article
-next: medb-mab-and.md
-prev: medb-cruachan-and.md
+next: medb-handmaiden-to.md
+prev: medb-father-of.md
 ---

@@ -1,5 +1,5 @@
 ---
-title: fairy kidnapping, eating and 
+title: Fairy Kidnapping, Eating And 
 index: false
 article: false 
 icon: article

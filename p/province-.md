@@ -1,8 +1,8 @@
 ---
-title: province    
+title: Province    
 index: false
 article: false 
 icon: article
-next: puck-.md
+next: prydein.md
 prev: protection-against-fairies.md
 ---

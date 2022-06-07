@@ -1,8 +1,8 @@
 ---
-title: ganconer 
+title: Ganconer 
 index: false
 article: false 
 icon: article
-next: geis.md
-prev: féth-fiada.md
+next: ganore.md
+prev: gamh.md
 ---

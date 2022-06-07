@@ -3,6 +3,6 @@ title: Blaí
 index: false
 article: false 
 icon: article
-next: blodeuwedd.md
+next: blemished-king.md
 prev: blarney-stone.md
 ---

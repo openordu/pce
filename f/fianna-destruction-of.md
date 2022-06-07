@@ -1,8 +1,8 @@
 ---
-title: Fianna, destruction of 
+title: Fianna, Destruction Of 
 index: false
 article: false 
 icon: article
-next: fianna-in-fenian-cycle.md
-prev: fianna-clans-in.md
+next: fianna-dáire-in.md
+prev: fianna-cycle-of-myth.md
 ---

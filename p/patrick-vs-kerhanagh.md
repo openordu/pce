@@ -1,8 +1,8 @@
 ---
-title: Patrick, vs. Kerhanagh 
+title: Patrick, Vs. Kerhanagh 
 index: false
 article: false 
 icon: article
-next: starn.md
+next: stag.md
 prev: patrick-vs-corra.md
 ---

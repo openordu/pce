@@ -1,8 +1,8 @@
 ---
-title: midwife  
+title: Midwife  
 index: false
 article: false 
 icon: article
-next: milk.md
+next: midwinter.md
 prev: midwife.md
 ---

@@ -1,8 +1,8 @@
 ---
-title: Bres mac Elatha 
+title: Bres Mac Elatha 
 index: false
 article: false 
 icon: article
-next: breton.md
-prev: breseal.md
+next: breseal.md
+prev: bres.md
 ---

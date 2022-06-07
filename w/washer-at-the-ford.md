@@ -1,5 +1,5 @@
 ---
-title: washer at the ford 
+title: Washer At The Ford 
 index: false
 article: false 
 icon: article

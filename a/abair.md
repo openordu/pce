@@ -1,8 +1,8 @@
 ---
-title: abair 
+title: Abair 
 index: false
 article: false 
 icon: article
-next: ad-bene.md
-prev: zeus.md
+next: abandinus.md
+prev: 21lessons.md
 ---

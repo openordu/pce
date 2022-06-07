@@ -1,5 +1,5 @@
 ---
-title: Children of Lir, stepmother of 
+title: Children Of Lir, Stepmother Of 
 index: false
 article: false 
 icon: article

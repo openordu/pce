@@ -3,6 +3,6 @@ title: Glas Ghoibhneann
 index: false
 article: false 
 icon: article
-next: glastonbury.md
+next: glashtyn.md
 prev: glas-ghaibhleann-.md
 ---

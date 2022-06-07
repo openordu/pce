@@ -1,5 +1,5 @@
 ---
-title: Diarmaid mac Cearrbheoil 
+title: Diarmaid Mac Cearrbheoil 
 index: false
 article: false 
 icon: article

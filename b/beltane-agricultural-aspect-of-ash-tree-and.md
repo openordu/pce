@@ -1,8 +1,8 @@
 ---
-title: Beltane, agricultural aspect of ash tree and 
+title: Beltane, Agricultural Aspect Of Ash Tree And 
 index: false
 article: false 
 icon: article
-next: beltane-cattle-in.md
-prev: beltane-strid-on.md
+next: beltane-belenus-and.md
+prev: beltane-fire.md
 ---

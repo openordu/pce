@@ -3,6 +3,6 @@ title: Bran
 index: false
 article: false 
 icon: article
-next: bran-hunting-hound.md
+next: bran-galed.md
 prev: braciaea.md
 ---

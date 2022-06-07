@@ -1,5 +1,5 @@
 ---
-title: Fedelm, seer of Cruachan 
+title: Fedelm, Seer Of Cruachan 
 index: false
 article: false 
 icon: article

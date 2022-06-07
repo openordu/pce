@@ -1,8 +1,8 @@
 ---
-title: ceremony 
+title: Ceremony 
 index: false
 article: false 
 icon: article
-next: ceó-druídecta.md
-prev: center.md
+next: ceridwen.md
+prev: cerbnat.md
 ---

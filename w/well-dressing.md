@@ -1,8 +1,8 @@
 ---
-title: well dressing 
+title: Well Dressing 
 index: false
 article: false 
 icon: article
-next: west.md
+next: welsh.md
 prev: well.md
 ---

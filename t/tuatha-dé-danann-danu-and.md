@@ -1,5 +1,5 @@
 ---
-title: Tuatha Dé Danann, Danu and 
+title: Tuatha Dé Danann, Danu And 
 index: false
 article: false 
 icon: article

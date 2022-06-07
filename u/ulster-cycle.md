@@ -3,6 +3,6 @@ title: Ulster Cycle
 index: false
 article: false 
 icon: article
-next: undry.md
+next: ulstercycle.md
 prev: ulster.md
 ---

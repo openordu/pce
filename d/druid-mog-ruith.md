@@ -1,8 +1,8 @@
 ---
-title: druid, Mog Ruith 
+title: Druid, Mog Ruith 
 index: false
 article: false 
 icon: article
-next: druid-astrology-practiced-by.md
-prev: druid.md
+next: druid-oak-and.md
+prev: druid-hair-of.md
 ---

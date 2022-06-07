@@ -1,8 +1,8 @@
 ---
-title: llamhigyn y dwr 
+title: Llamhigyn Y Dwr 
 index: false
 article: false 
 icon: article
-next: lob.md
-prev: liver.md
+next: llandav.md
+prev: llamhigyn.md
 ---

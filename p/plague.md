@@ -1,8 +1,8 @@
 ---
-title: plague 
+title: Plague 
 index: false
 article: false 
 icon: article
-next: planxty.md
+next: plant-annwn.md
 prev: place-lore.md
 ---

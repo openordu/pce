@@ -1,8 +1,8 @@
 ---
-title: uruisg 
+title: Uruisg 
 index: false
 article: false 
 icon: article
-next: vision.md
-prev: urine.md
+next: uscias.md
+prev: ursula.md
 ---

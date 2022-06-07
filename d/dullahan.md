@@ -1,8 +1,8 @@
 ---
-title: dullahan 
+title: Dullahan 
 index: false
 article: false 
 icon: article
-next: dunnie.md
-prev: duellists.md
+next: dumaitis.md
+prev: duibne.md
 ---

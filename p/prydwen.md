@@ -3,6 +3,6 @@ title: Prydwen
 index: false
 article: false 
 icon: article
-next: puck-fair.md
+next: pseudo-kings-british.md
 prev: pryderi.md
 ---

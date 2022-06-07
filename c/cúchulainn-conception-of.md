@@ -1,8 +1,8 @@
 ---
-title: Cúchulainn, conception of 
+title: Cúchulainn, Conception Of 
 index: false
 article: false 
 icon: article
-next: cúchulainn-death-of.md
+next: cúchulainn-culann-and.md
 prev: cúchulainn-and-debility-of-the.md
 ---

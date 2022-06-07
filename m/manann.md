@@ -3,6 +3,6 @@ title: Manann
 index: false
 article: false 
 icon: article
-next: manannán.md
+next: manannan.md
 prev: man.md
 ---

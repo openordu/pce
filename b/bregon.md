@@ -3,6 +3,6 @@ title: Bregon
 index: false
 article: false 
 icon: article
-next: brenhines-y-nef.md
+next: brehon.md
 prev: brega.md
 ---

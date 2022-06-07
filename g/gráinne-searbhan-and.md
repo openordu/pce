@@ -1,8 +1,8 @@
 ---
-title: Gráinne, Searbhan and 
+title: Gráinne, Searbhan And 
 index: false
 article: false 
 icon: article
-next: gráinne-at-tara.md
-prev: gráinne-iseult-and.md
+next: guaire.md
+prev: gráinne-lover-of.md
 ---

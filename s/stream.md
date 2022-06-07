@@ -1,8 +1,8 @@
 ---
-title: stream 
+title: Stream 
 index: false
 article: false 
 icon: article
-next: stroke.md
+next: strid.md
 prev: stray-sod.md
 ---

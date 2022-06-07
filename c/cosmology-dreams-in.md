@@ -1,5 +1,5 @@
 ---
-title: cosmology, dreams in 
+title: Cosmology, Dreams In 
 index: false
 article: false 
 icon: article

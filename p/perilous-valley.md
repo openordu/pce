@@ -3,6 +3,6 @@ title: Perilous Valley
 index: false
 article: false 
 icon: article
-next: pict.md
+next: petta.md
 prev: perilous-seat.md
 ---

@@ -3,6 +3,6 @@ title: Ailill Molt
 index: false
 article: false 
 icon: article
-next: ailill-olom.md
-prev: ailill.md
+next: ailill-of-aran.md
+prev: ailill-mac-máta.md
 ---

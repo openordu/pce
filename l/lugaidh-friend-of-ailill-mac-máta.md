@@ -1,5 +1,5 @@
 ---
-title: Lugaidh, friend of Ailill mac Máta 
+title: Lugaidh, Friend Of Ailill Mac Máta 
 index: false
 article: false 
 icon: article

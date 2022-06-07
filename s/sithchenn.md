@@ -3,6 +3,6 @@ title: Sithchenn
 index: false
 article: false 
 icon: article
-next: skye.md
+next: skriker.md
 prev: sirona.md
 ---

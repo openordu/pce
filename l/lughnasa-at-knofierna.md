@@ -1,8 +1,8 @@
 ---
-title: Lughnasa, at Knofierna 
+title: Lughnasa, At Knofierna 
 index: false
 article: false 
 icon: article
 next: lughnasa-at-teltown.md
-prev: lughnasa-tailtiu-and.md
+prev: lughnasa-v-bilberries-in.md
 ---

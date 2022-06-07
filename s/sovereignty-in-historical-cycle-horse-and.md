@@ -1,8 +1,8 @@
 ---
-title: Sovereignty, in Historical Cycle horse and 
+title: Sovereignty, In Historical Cycle Horse And 
 index: false
 article: false 
 icon: article
-next: sovereignty-in-cosmology.md
-prev: sovereignty-hag-and.md
+next: sovereignty-in-kingship.md
+prev: sovereignty-in-cosmology.md
 ---

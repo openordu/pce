@@ -1,8 +1,8 @@
 ---
-title: shape-shifting, of Mórrígan 
+title: Shape-Shifting, Of Mórrígan 
 index: false
 article: false 
 icon: article
-next: shape-shifting-of-robin-goodfellow.md
+next: shape-shifting-of-poets.md
 prev: shape-shifting-of-manannán-mac-lir.md
 ---

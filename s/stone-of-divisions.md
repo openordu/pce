@@ -1,8 +1,8 @@
 ---
-title: Stone of Divisions 
+title: Stone Of Divisions 
 index: false
 article: false 
 icon: article
 next: stonehenge.md
-prev: starn.md
+prev: stone-circles.md
 ---

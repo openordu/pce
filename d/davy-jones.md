@@ -3,6 +3,6 @@ title: Davy Jones
 index: false
 article: false 
 icon: article
-next: dea-nutr.md
+next: de-courcy-john.md
 prev: daui.md
 ---

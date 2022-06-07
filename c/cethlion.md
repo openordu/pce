@@ -3,6 +3,6 @@ title: Cethlion
 index: false
 article: false 
 icon: article
-next: children-of-lir.md
+next: ceó-druídecta.md
 prev: cethern-mac-fintain.md
 ---

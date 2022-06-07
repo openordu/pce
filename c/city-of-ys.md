@@ -1,5 +1,5 @@
 ---
-title: City of Ys 
+title: City Of Ys 
 index: false
 article: false 
 icon: article

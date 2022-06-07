@@ -1,8 +1,8 @@
 ---
-title: ash tree 
+title: Ash Tree 
 index: false
 article: false 
 icon: article
 next: ashes.md
-prev: ard-rí.md
+prev: asenora.md
 ---

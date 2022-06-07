@@ -1,5 +1,5 @@
 ---
-title: Fionn mac Cumhaill, lover of 
+title: Fionn Mac Cumhaill, Lover Of 
 index: false
 article: false 
 icon: article

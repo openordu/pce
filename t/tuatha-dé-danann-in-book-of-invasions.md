@@ -1,8 +1,8 @@
 ---
-title: Tuatha Dé Danann, in Book of Invasions 
+title: Tuatha Dé Danann, In Book Of Invasions 
 index: false
 article: false 
 icon: article
 next: tuatha-dé-danann-in-mythological-cycle.md
-prev: tuatha-dé-danann-druid-s-fog-received-by.md
+prev: tuatha-dé-danann-dôn-and.md
 ---

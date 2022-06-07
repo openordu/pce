@@ -1,8 +1,8 @@
 ---
-title: patera 
+title: Patera 
 index: false
 article: false 
 icon: article
-next: pattern.md
+next: patrick.md
 prev: passage-graves.md
 ---

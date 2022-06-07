@@ -1,8 +1,8 @@
 ---
-title: cosmology, creation in 
+title: Cosmology, Creation In 
 index: false
 article: false 
 icon: article
 next: cosmology-darkness-and-light-in.md
-prev: cosmology-paradise-in.md
+prev: cosmology.md
 ---

@@ -3,6 +3,6 @@ title: Bodhmall
 index: false
 article: false 
 icon: article
-next: bog-of-allen.md
+next: bodiocasses.md
 prev: bodhbh-dearg.md
 ---

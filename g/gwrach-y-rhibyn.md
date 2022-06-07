@@ -1,8 +1,8 @@
 ---
-title: gwrach y rhibyn 
+title: Gwrach Y Rhibyn 
 index: false
 article: false 
 icon: article
-next: gwragedd-annwn.md
-prev: gwartheg-y-llyn.md
+next: gwrachyrhibyn.md
+prev: gwion.md
 ---

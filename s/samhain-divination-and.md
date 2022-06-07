@@ -1,5 +1,5 @@
 ---
-title: Samhain, divination and 
+title: Samhain, Divination And 
 index: false
 article: false 
 icon: article

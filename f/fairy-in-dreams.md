@@ -1,8 +1,8 @@
 ---
-title: fairy, in dreams 
+title: Fairy, In Dreams 
 index: false
 article: false 
 icon: article
-next: fairy-iron-feared-by.md
+next: fairy-irish.md
 prev: fairy-goblin-and.md
 ---

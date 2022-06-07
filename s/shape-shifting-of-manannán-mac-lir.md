@@ -1,5 +1,5 @@
 ---
-title: shape-shifting, of Manannán mac Lir 
+title: Shape-Shifting, Of Manannán Mac Lir 
 index: false
 article: false 
 icon: article

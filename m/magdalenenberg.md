@@ -3,6 +3,6 @@ title: Magdalenenberg
 index: false
 article: false 
 icon: article
-next: maiden-castle.md
+next: magic.md
 prev: maga.md
 ---

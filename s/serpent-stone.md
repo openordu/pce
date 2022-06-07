@@ -1,8 +1,8 @@
 ---
-title: serpent stone 
+title: Serpent Stone 
 index: false
 article: false 
 icon: article
-next: seven.md
+next: setlocenia.md
 prev: serpent.md
 ---

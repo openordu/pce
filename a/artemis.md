@@ -4,5 +4,5 @@ index: false
 article: false 
 icon: article
 next: arthur.md
-prev: artaios.md
+prev: artaius.md
 ---

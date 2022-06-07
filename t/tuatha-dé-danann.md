@@ -4,5 +4,5 @@ index: false
 article: false 
 icon: article
 next: milesians-éremón-of.md
-prev: milesians-origin-of.md
+prev: milesians-scota-of.md
 ---

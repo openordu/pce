@@ -1,8 +1,8 @@
 ---
-title: Otherworld, hounds of 
+title: Otherworld, Hounds Of 
 index: false
 article: false 
 icon: article
-next: otherworld-in-adventures.md
+next: otherworld-ildathach-as.md
 prev: otherworld-death-and.md
 ---

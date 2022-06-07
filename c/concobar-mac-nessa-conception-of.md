@@ -1,8 +1,8 @@
 ---
-title: Concobar mac Nessa, conception of 
+title: Concobar Mac Nessa, Conception Of 
 index: false
 article: false 
 icon: article
-next: concobar-mac-nessa-daughter-of.md
-prev: concobar-mac-nessa-maine-and.md
+next: concobar-mac-nessa-cúchulainn-fostered-by.md
+prev: concobar-mac-nessa.md
 ---

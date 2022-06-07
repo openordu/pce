@@ -1,8 +1,8 @@
 ---
-title: animal divination 
+title: Animal Divination 
 index: false
 article: false 
 icon: article
 next: animal-sacrifice.md
-prev: ancestors.md
+prev: angwish.md
 ---

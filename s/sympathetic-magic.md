@@ -1,8 +1,8 @@
 ---
-title: sympathetic magic 
+title: Sympathetic Magic 
 index: false
 article: false 
 icon: article
 next: sétanta.md
-prev: swarth.md
+prev: swordstone.md
 ---

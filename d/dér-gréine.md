@@ -3,6 +3,6 @@ title: Dér Gréine
 index: false
 article: false 
 icon: article
-next: dígne.md
+next: díchetal-do-chennaib.md
 prev: déise.md
 ---

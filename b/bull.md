@@ -1,8 +1,8 @@
 ---
-title: bull 
+title: Bull 
 index: false
 article: false 
 icon: article
-next: burial-rites.md
-prev: bull-sleep.md
+next: bull-sleep.md
+prev: buitch.md
 ---

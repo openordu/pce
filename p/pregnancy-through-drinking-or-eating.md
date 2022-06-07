@@ -1,8 +1,8 @@
 ---
-title: pregnancy, through drinking or eating 
+title: Pregnancy, Through Drinking Or Eating 
 index: false
 article: false 
 icon: article
-next: priest.md
+next: prester.md
 prev: power-of-the-word.md
 ---

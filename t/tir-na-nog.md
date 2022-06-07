@@ -1,8 +1,8 @@
 ---
-title: Tir na nOg 
+title: Tir Na NOg 
 index: false
 article: false 
 icon: article
-next: titania.md
+next: tir-tairngiri.md
 prev: tir-na-mban.md
 ---

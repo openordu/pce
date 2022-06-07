@@ -1,8 +1,8 @@
 ---
-title: gruagach 
+title: Gruagach 
 index: false
 article: false 
 icon: article
-next: guee.md
+next: gráinne-at-tara.md
 prev: grove.md
 ---

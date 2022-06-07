@@ -1,5 +1,5 @@
 ---
-title: Fir Bolg, in Book of Invasions 
+title: Fir Bolg, In Book Of Invasions 
 index: false
 article: false 
 icon: article

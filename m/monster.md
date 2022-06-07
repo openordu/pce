@@ -1,8 +1,8 @@
 ---
-title: monster 
+title: Monster 
 index: false
 article: false 
 icon: article
 next: months.md
-prev: modern-legends.md
+prev: moninne.md
 ---

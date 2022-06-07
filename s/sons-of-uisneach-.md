@@ -1,8 +1,8 @@
 ---
-title: Sons of Uisneach        
+title: Sons Of Uisneach        
 index: false
 article: false 
 icon: article
 next: souconna.md
-prev: solomon.md
+prev: solstice.md
 ---

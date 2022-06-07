@@ -1,5 +1,5 @@
 ---
-title: Sovereignty, Mórrígan as 
+title: Sovereignty, Mórrígan As 
 index: false
 article: false 
 icon: article

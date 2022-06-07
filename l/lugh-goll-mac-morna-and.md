@@ -1,8 +1,8 @@
 ---
-title: Lugh, Goll mac Morna and 
+title: Lugh, Goll Mac Morna And 
 index: false
 article: false 
 icon: article
-next: lugh-lugos-and.md
+next: lugh-in-mythological-cycle.md
 prev: lugh-glas-ghaibhleann-and.md
 ---

@@ -1,8 +1,8 @@
 ---
-title: Celtic Twilight artistic move ment 
+title: Celtic Twilight Artistic Move Ment 
 index: false
 article: false 
 icon: article
-next: celtic-languages.md
-prev: celtchair.md
+next: celtictreecalendar.md
+prev: celtic-society.md
 ---

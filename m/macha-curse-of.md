@@ -1,5 +1,5 @@
 ---
-title: Macha, curse of 
+title: Macha, Curse Of 
 index: false
 article: false 
 icon: article

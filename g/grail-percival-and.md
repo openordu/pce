@@ -1,5 +1,5 @@
 ---
-title: Grail, Percival and 
+title: Grail, Percival And 
 index: false
 article: false 
 icon: article

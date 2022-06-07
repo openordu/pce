@@ -1,8 +1,8 @@
 ---
-title: cétnad 
+title: Cétnad 
 index: false
 article: false 
 icon: article
-next: cú-síth.md
-prev: curse-of.md
+next: cóiced.md
+prev: céitinn-seathrún.md
 ---

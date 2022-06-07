@@ -1,8 +1,8 @@
 ---
-title: nuckelavee 
+title: Nuckelavee 
 index: false
 article: false 
 icon: article
-next: numbers.md
-prev: north.md
+next: nudd.md
+prev: nuala.md
 ---

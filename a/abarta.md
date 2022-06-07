@@ -3,30 +3,30 @@ title: Abarta
 index: false
 article: false 
 icon: article
-next: abbey-lubber.md
-prev: éric.md
+next: abartach.md
+prev: abandinus.md
 ---
 Main Designation: <Badge text="Irish god" />
 
 Abarta (Ábartach, Ábhartach). A minor Fomorian according to Monaghan[^monaghan],
-but one of the Tuatha Dé according to Ó hOgáin[^ohogain], and a vampire in later
-folklore. In the Finnian cycle when the Fianna were hunting near Cnoc Áine, this
-figure posing as an unemployed lazy vassal begged _Fionn Mac Cumhaill_ to become
-his servant and join his warband. After agreeing he was given the name _Giolla
-Deacair_ meaning 'difficult servant'. He had an ugly and terrifying horse which
-he tricked _Conán Maol_ into riding, who then became stuck like when one touches
-the mane of a waterhorse. Trying to right the situation 14 other _Fianna_ were
-also became stuck and were carried off into The Otherworld. After some
-searching, _Fionn Mac Cumhaill_ locates this lazy servant and it is discovered
-he is really _Ábhartach mac Ildathaigh_, who was considered to the the world's
-most powerful druid. Ábhartach offered to pay Fionn but Fionn forgave the taking
-of the fifteen warriors hostage. In later folklore he was described as a blood
-sucking [revenant](../r/revenant.md) who drinks blood and spends most his time
-trapped under a laght(grave monument) in Slaghtaverty. Here he is described as a
-dwarf and a magical wizard who was burried upside down by the local chieftain so
-that he wouldn't resurrect. However, Ó hOgáin draws from versions where _Fionn
-Mac Cumhail_ performs [tenm laida](../t/tenmlaida.md) and augurs Abarta's one weak
-spot, striking him there, burying him and erecting a monument over him.
+ but one of the Tuatha Dé according to Ó hOgáin[^ohogain], and a vampire in later
+ folklore. In the Finnian cycle when the Fianna were hunting near Cnoc Áine, this
+ figure posing as an unemployed lazy vassal begged _Fionn Mac Cumhaill_ to become
+ his servant and join his warband. After agreeing he was given the name _Giolla
+ Deacair_ meaning 'difficult servant'. He had an ugly and terrifying horse which
+ he tricked _Conán Maol_ into riding, who then became stuck like when one touches
+ the mane of a waterhorse. Trying to right the situation 14 other _Fianna_ were
+ also became stuck and were carried off into The Otherworld. After some
+ searching, _Fionn Mac Cumhaill_ locates this lazy servant and it is discovered
+ he is really _Ábhartach mac Ildathaigh_, who was considered to the the world's
+ most powerful druid. Ábhartach offered to pay Fionn but Fionn forgave the taking
+ of the fifteen warriors hostage. In later folklore he was described as a blood
+ sucking [revenant](../r/revenant.md) who drinks blood and spends most his time
+ trapped under a laght(grave monument) in Slaghtaverty. Here he is described as a
+ dwarf and a magical wizard who was burried upside down by the local chieftain so
+ that he wouldn't resurrect. However, Ó hOgáin draws from versions where _Fionn
+ Mac Cumhail_ performs [tenm laida](../t/tenmlaida.md) and augurs Abarta's one weak
+ pot, striking him there, burying him and erecting a monument over him.
 
 > There is a place in the parish of Errigal in Londonderry, called Slaghtaverty,
 > but it ought to have been called Laghtaverty, the laght or sepulchral monument
@@ -47,14 +47,11 @@ spot, striking him there, burying him and erecting a monument over him.
 > — Joyce, The Origin and History of Irish Names of Places[^joyce]
 
 This dwarven association is probably not one of size but rather one of
-relatedness with [wurrums](../w#worms) and thus the Fomorians. It's likely that
-this is a banished Bres re-prototyped into a half god, half giant who shapeshifts
-to deceive and cause trouble among virtuous heros, chasing down old scores from
-mythological times among the descendants of Ireland where they once ruled.
+ relatedness with [wurrums](../w#worms) and thus the Fomorians. It's likely that
+ this is a banished Bres re-prototyped into a half god, half giant who shapeshifts
+ to deceive and cause trouble among virtuous heros, chasing down old scores from
+ mythological times among the descendants of Ireland where they once ruled.
 
-[^joyce]: Joyce, P. W. The Origin and History of Irish Names of Places.
-    McGlashan &amp; Gill, 1875.
-[^monaghan]: Monaghan, Patricia. The Encyclopedia of Celtic Mythology and
-    Folklore. Checkmark Books, 2008.
-[^ohogain]:  Ó hÓgáin, Dáithí. The Lore of Ireland: An Encyclopedia of
-    Myth, Legend and Romance. Boydell Press, 2006.
+[^joyce]: Joyce, P. W. The Origin and History of Irish Names of Places. McGlashan &amp; Gill, 1875.
+[^monaghan]: Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
+[^ohogain]:  Ó hÓgáin, Dáithí. The Lore of Ireland: An Encyclopedia of Myth, Legend and Romance. Boydell Press, 2006.

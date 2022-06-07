@@ -1,5 +1,5 @@
 ---
-title: fairy, as Daoine sídhe 
+title: Fairy, As Daoine Sídhe 
 index: false
 article: false 
 icon: article

@@ -1,5 +1,5 @@
 ---
-title: Patrick, vs. Corra 
+title: Patrick, Vs. Corra 
 index: false
 article: false 
 icon: article

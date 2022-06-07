@@ -1,8 +1,8 @@
 ---
-title: stone 
+title: Stone 
 index: false
 article: false 
 icon: article
-next: stray-sod.md
-prev: stone-circles.md
+next: stone-circles.md
+prev: stolen-bride.md
 ---

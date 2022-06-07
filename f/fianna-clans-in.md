@@ -1,8 +1,8 @@
 ---
-title: Fianna, clans in 
+title: Fianna, Clans In 
 index: false
 article: false 
 icon: article
-next: fianna-destruction-of.md
-prev: fianna-at-gabhair.md
+next: fianna-cycle-of-myth.md
+prev: fianna-ciabhán-in.md
 ---

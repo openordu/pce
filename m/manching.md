@@ -3,6 +3,6 @@ title: Manching
 index: false
 article: false 
 icon: article
-next: manx.md
-prev: manawydan.md
+next: mandubracius.md
+prev: manawydan-branch.md
 ---

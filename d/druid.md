@@ -1,8 +1,8 @@
 ---
-title: druid 
+title: Druid 
 index: false
 article: false 
 icon: article
-next: druid-mog-ruith.md
-prev: dreams.md
+next: druid-astrology-practiced-by.md
+prev: dreco.md
 ---

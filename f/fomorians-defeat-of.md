@@ -1,8 +1,8 @@
 ---
-title: Fomorians, defeat of 
+title: Fomorians, Defeat Of 
 index: false
 article: false 
 icon: article
-next: fomorians-goddess-of.md
+next: fomorians-fir-bolg-and.md
 prev: fomorians-at-tara.md
 ---

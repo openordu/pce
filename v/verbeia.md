@@ -3,6 +3,6 @@ title: Verbeia
 index: false
 article: false 
 icon: article
-next: viereckschanzen.md
+next: verbia.md
 prev: venus.md
 ---

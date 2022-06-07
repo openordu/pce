@@ -3,6 +3,6 @@ title: Aguigrenons
 index: false
 article: false 
 icon: article
-next: aibheaeg.md
+next: aiats.md
 prev: agrona.md
 ---

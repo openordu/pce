@@ -1,8 +1,8 @@
 ---
-title: Fir Bolg, Rudraige of 
+title: Fir Bolg, Rudraige Of 
 index: false
 article: false 
 icon: article
-next: fir-bolg-at-tara.md
-prev: fir-bolg-geali-dianvir-of.md
+next: fir-chlis.md
+prev: fir-bolg-origin-of.md
 ---

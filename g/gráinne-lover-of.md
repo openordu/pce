@@ -1,8 +1,8 @@
 ---
-title: Gráinne, lover of 
+title: Gráinne, Lover Of 
 index: false
 article: false 
 icon: article
-next: guaire.md
-prev: gráinne-daughter-of.md
+next: gráinne-searbhan-and.md
+prev: gráinne-iseult-and.md
 ---

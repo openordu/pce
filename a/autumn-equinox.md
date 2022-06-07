@@ -1,8 +1,8 @@
 ---
-title: autumn equinox 
+title: Autumn Equinox 
 index: false
 article: false 
 icon: article
-next: away.md
-prev: athach.md
+next: avalon.md
+prev: aubrey.md
 ---

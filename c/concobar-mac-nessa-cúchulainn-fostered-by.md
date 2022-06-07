@@ -1,8 +1,8 @@
 ---
-title: Concobar mac Nessa, Cúchulainn fostered by 
+title: Concobar Mac Nessa, Cúchulainn Fostered By 
 index: false
 article: false 
 icon: article
-next: concobar-mac-nessa-deirdre-and.md
-prev: concobar-mac-nessa.md
+next: concobar-mac-nessa-daughter-of.md
+prev: concobar-mac-nessa-conception-of.md
 ---

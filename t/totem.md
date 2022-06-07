@@ -1,8 +1,8 @@
 ---
-title: totem 
+title: Totem 
 index: false
 article: false 
 icon: article
-next: transmigration-of-souls.md
-prev: torc-torque.md
+next: toutenos.md
+prev: torna.md
 ---

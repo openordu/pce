@@ -3,6 +3,6 @@ title: Melwas
 index: false
 article: false 
 icon: article
-next: mercury.md
+next: menhir.md
 prev: melor.md
 ---

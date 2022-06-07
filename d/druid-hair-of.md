@@ -1,8 +1,8 @@
 ---
-title: druid, hair of 
+title: Druid, Hair Of 
 index: false
 article: false 
 icon: article
-next: druid-oak-and.md
+next: druid-mog-ruith.md
 prev: druid-astrology-practiced-by.md
 ---

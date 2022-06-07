@@ -1,8 +1,8 @@
 ---
-title: gold 
+title: Gold 
 index: false
 article: false 
 icon: article
-next: gorse.md
-prev: gods.md
+next: goleuddydd-goll-mac-morna.md
+prev: goidelic-celtic.md
 ---

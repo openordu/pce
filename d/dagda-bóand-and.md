@@ -1,8 +1,8 @@
 ---
-title: Dagda, Bóand and 
+title: Dagda, Bóand And 
 index: false
 article: false 
 icon: article
-next: dagda-mórrígan-and.md
-prev: dagda.md
+next: dagda-cauldron-of.md
+prev: dagda-as-ruad-rofessa.md
 ---

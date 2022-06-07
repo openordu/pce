@@ -1,8 +1,8 @@
 ---
-title: equinox v, 
+title: Equinox V, 
 index: false
 article: false 
 icon: article
-next: evil-eye.md
-prev: environment.md
+next: erc.md
+prev: epona.md
 ---

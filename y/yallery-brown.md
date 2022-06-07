@@ -4,5 +4,5 @@ index: false
 article: false 
 icon: article
 next: yann-an-ord.md
-prev: witta.md
+prev: y-mamau.md
 ---

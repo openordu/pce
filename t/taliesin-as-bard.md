@@ -1,8 +1,8 @@
 ---
-title: Taliesin, as bard 
+title: Taliesin, As Bard 
 index: false
 article: false 
 icon: article
-next: taliesin-foster-father-of.md
-prev: taliesin-telgesinus-as.md
+next: taliesin-elphin-helped-by.md
+prev: taliesin.md
 ---

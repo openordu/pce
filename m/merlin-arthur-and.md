@@ -1,8 +1,8 @@
 ---
-title: Merlin, Arthur and 
+title: Merlin, Arthur And 
 index: false
 article: false 
 icon: article
-next: merlin-stonehenge-and.md
+next: merlin-imprisonment-of.md
 prev: merlin.md
 ---

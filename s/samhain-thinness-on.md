@@ -1,8 +1,8 @@
 ---
-title: Samhain, thinness on 
+title: Samhain, Thinness On 
 index: false
 article: false 
 icon: article
-next: samhain-wakes-and.md
-prev: samhain-pooka-and.md
+next: samhain-tine-ghealáin-at-at-tlachtga.md
+prev: samhain-shoney-on.md
 ---

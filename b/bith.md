@@ -3,6 +3,6 @@ title: Bith
 index: false
 article: false 
 icon: article
-next: black-annis.md
+next: bituriges.md
 prev: biróg.md
 ---

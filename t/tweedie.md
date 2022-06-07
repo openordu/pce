@@ -3,6 +3,6 @@ title: Tweedie
 index: false
 article: false 
 icon: article
-next: twrch-trwyth.md
+next: twins.md
 prev: tuán-mac-cairill.md
 ---

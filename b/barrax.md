@@ -3,6 +3,6 @@ title: Barrax
 index: false
 article: false 
 icon: article
-next: bath.md
+next: barrow.md
 prev: barra.md
 ---

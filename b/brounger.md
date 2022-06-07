@@ -1,8 +1,8 @@
 ---
-title: brounger 
+title: Brounger 
 index: false
 article: false 
 icon: article
 next: brownie.md
-prev: brollachan.md
+prev: bronwen.md
 ---

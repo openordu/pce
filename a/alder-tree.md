@@ -1,8 +1,8 @@
 ---
-title: alder tree 
+title: Alder Tree 
 index: false
 article: false 
 icon: article
 next: ale.md
-prev: aisling.md
+prev: albius.md
 ---

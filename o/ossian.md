@@ -3,6 +3,6 @@ title: Ossian
 index: false
 article: false 
 icon: article
-next: otherworld-arawn-in.md
+next: otherworld.md
 prev: osraighe.md
 ---

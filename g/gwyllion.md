@@ -1,8 +1,8 @@
 ---
-title: gwyllion 
+title: Gwyllion 
 index: false
 article: false 
 icon: article
-next: hag.md
-prev: gwragedd-annwn.md
+next: gwyn.md
+prev: gwydion.md
 ---

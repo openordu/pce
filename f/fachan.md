@@ -1,8 +1,8 @@
 ---
-title: fachan 
+title: Fachan 
 index: false
 article: false 
 icon: article
-next: fairies.md
-prev: eye.md
+next: fachtna.md
+prev: eógobal.md
 ---

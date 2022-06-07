@@ -1,8 +1,8 @@
 ---
-title: burial rites 
+title: Burial Rites 
 index: false
 article: false 
 icon: article
-next: buttery-spirits.md
-prev: bull.md
+next: butler-margaret-countess-of-ormond.md
+prev: bull-sleep.md
 ---

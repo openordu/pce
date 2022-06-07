@@ -1,8 +1,8 @@
 ---
-title: mare 
+title: Mare 
 index: false
 article: false 
 icon: article
-next: marriage.md
-prev: mallet.md
+next: mari-lwyd.md
+prev: march.md
 ---

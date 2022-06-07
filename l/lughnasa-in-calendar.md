@@ -1,8 +1,8 @@
 ---
-title: Lughnasa, in calendar 
+title: Lughnasa, In Calendar 
 index: false
 article: false 
 icon: article
-next: lughnasa-milking-charms-on-óenach-on.md
+next: lughnasa-maoilin-and.md
 prev: lughnasa-hill-climbing-on.md
 ---

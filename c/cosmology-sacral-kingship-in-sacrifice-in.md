@@ -1,5 +1,5 @@
 ---
-title: cosmology, sacral kingship in sacrifice in 
+title: Cosmology, Sacral Kingship In Sacrifice In 
 index: false
 article: false 
 icon: article

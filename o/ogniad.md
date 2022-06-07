@@ -3,6 +3,6 @@ title: Ogniad
 index: false
 article: false 
 icon: article
-next: ogyrvran.md
+next: ogyrfen.md
 prev: ogmios.md
 ---

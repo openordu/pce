@@ -4,5 +4,5 @@ index: false
 article: false 
 icon: article
 next: nerbgen.md
-prev: nentres.md
+prev: neodruidism.md
 ---

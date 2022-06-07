@@ -1,8 +1,8 @@
 ---
-title: Milesians, at Tara 
+title: Milesians, At Tara 
 index: false
 article: false 
 icon: article
-next: milesians-landing-of.md
-prev: milesians-scota-of.md
+next: milesians-iberia-and.md
+prev: milesians.md
 ---

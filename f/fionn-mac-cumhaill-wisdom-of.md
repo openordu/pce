@@ -1,5 +1,5 @@
 ---
-title: Fionn mac Cumhaill, wisdom of 
+title: Fionn Mac Cumhaill, Wisdom Of 
 index: false
 article: false 
 icon: article

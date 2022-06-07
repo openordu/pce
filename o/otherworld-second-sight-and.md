@@ -1,5 +1,5 @@
 ---
-title: Otherworld, second sight and 
+title: Otherworld, Second Sight And 
 index: false
 article: false 
 icon: article

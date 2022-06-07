@@ -3,6 +3,6 @@ title: Dinadan
 index: false
 article: false 
 icon: article
-next: dindraine.md
+next: dinas.md
 prev: diarmait-king-of-tara.md
 ---

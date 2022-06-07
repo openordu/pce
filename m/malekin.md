@@ -3,6 +3,6 @@ title: Malekin
 index: false
 article: false 
 icon: article
-next: man.md
+next: mallet.md
 prev: maledisant.md
 ---

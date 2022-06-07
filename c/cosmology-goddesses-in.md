@@ -1,5 +1,5 @@
 ---
-title: cosmology, goddesses in 
+title: Cosmology, Goddesses In 
 index: false
 article: false 
 icon: article

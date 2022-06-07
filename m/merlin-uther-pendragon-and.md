@@ -1,8 +1,8 @@
 ---
-title: Merlin, Uther Pendragon and 
+title: Merlin, Uther Pendragon And 
 index: false
 article: false 
 icon: article
-next: merlin-imprisonment-of.md
+next: merlin-wife-of.md
 prev: merlin-stonehenge-and.md
 ---

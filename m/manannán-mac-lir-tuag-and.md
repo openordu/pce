@@ -1,8 +1,8 @@
 ---
-title: Manannán mac Lir, Tuag and 
+title: Manannán Mac Lir, Tuag And 
 index: false
 article: false 
 icon: article
-next: manannán-mac-lir-as-oirbsen.md
-prev: manannán-mac-lir-robin-goodfellow-and.md
+next: manannán-mac-lir-áine-of-knockainy-and.md
+prev: manannán-mac-lir-steed-of.md
 ---

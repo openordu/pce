@@ -4,5 +4,5 @@ index: false
 article: false 
 icon: article
 next: augustine.md
-prev: spenser-edmund.md
+prev: spéir-bhean.md
 ---

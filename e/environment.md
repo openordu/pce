@@ -1,8 +1,8 @@
 ---
-title: environment 
+title: Environment 
 index: false
 article: false 
 icon: article
-next: equinox-v-.md
-prev: elm-tree.md
+next: eochaid.md
+prev: enid.md
 ---

@@ -1,8 +1,8 @@
 ---
-title: names for the fairies# 
+title: Names For The Fairies# 
 index: false
 article: false 
 icon: article
-next: necromancy.md
-prev: names-for-the-otherworld.md
+next: names-for-the-otherworld.md
+prev: names-for-fairyland.md
 ---

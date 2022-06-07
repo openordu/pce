@@ -1,8 +1,8 @@
 ---
-title: ogham 
+title: Ogham 
 index: false
 article: false 
 icon: article
-next: ogham.md
-prev: oath.md
+next: oghma.md
+prev: ogalla.md
 ---

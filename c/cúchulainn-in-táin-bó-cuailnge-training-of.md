@@ -1,5 +1,5 @@
 ---
-title: Cúchulainn, in Táin bó Cuailnge training of 
+title: Cúchulainn, In Táin Bó Cuailnge Training Of 
 index: false
 article: false 
 icon: article

@@ -1,8 +1,8 @@
 ---
-title: knocker 
+title: Knocker 
 index: false
 article: false 
 icon: article
-next: korrigan.md
-prev: knitting.md
+next: knockerfierna.md
+prev: knockaulin.md
 ---

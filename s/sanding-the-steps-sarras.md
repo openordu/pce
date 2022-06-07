@@ -1,8 +1,8 @@
 ---
-title: sanding the steps Sarras 
+title: Sanding The Steps Sarras 
 index: false
 article: false 
 icon: article
-next: satire.md
+next: sarsfield-patrick.md
 prev: sanctuary.md
 ---

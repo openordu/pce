@@ -1,5 +1,5 @@
 ---
-title: Eithne the Fair 
+title: Eithne The Fair 
 index: false
 article: false 
 icon: article

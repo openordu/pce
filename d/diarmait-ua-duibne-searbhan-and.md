@@ -1,8 +1,8 @@
 ---
-title: Diarmait Ua Duibne, Searbhan and 
+title: Diarmait Ua Duibne, Searbhan And 
 index: false
 article: false 
 icon: article
-next: diarmait-ua-duibne-ancestor-goddess-of-ball-seirc-of.md
-prev: diarmait-ua-duibne-midac-killed-by.md
+next: diarmait-king-of-tara.md
+prev: diarmait-ua-duibne-mother-of.md
 ---

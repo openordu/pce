@@ -1,8 +1,8 @@
 ---
-title: oak tree 
+title: Oak Tree 
 index: false
 article: false 
 icon: article
 next: oakmen.md
-prev: nygel.md
+prev: o-connell-daniel.md
 ---

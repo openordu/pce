@@ -1,8 +1,8 @@
 ---
-title: heather 
+title: Heather 
 index: false
 article: false 
 icon: article
-next: heaven.md
+next: heathrow.md
 prev: hearth.md
 ---

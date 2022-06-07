@@ -1,8 +1,8 @@
 ---
-title: losses of the year 
+title: Losses Of The Year 
 index: false
 article: false 
 icon: article
-next: loup-garou.md
-prev: lone-sod.md
+next: lot.md
+prev: lorois.md
 ---

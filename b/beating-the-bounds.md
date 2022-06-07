@@ -1,8 +1,8 @@
 ---
-title: beating the bounds 
+title: Beating The Bounds 
 index: false
 article: false 
 icon: article
-next: bee.md
-prev: bear.md
+next: beaumains.md
+prev: beare.md
 ---

@@ -1,8 +1,8 @@
 ---
-title: Samhain, agricultural aspect of ale and 
+title: Samhain, Agricultural Aspect Of Ale And 
 index: false
 article: false 
 icon: article
 next: samhain-ancestors-on.md
-prev: samhain-tine-ghealáin-at-at-tlachtga.md
+prev: samhain.md
 ---

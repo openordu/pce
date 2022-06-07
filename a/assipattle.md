@@ -3,6 +3,6 @@ title: Assipattle
 index: false
 article: false 
 icon: article
-next: atesmerta-atesmerius.md
-prev: assembly.md
+next: astrology.md
+prev: assembly-of-the-wondrous-head.md
 ---

@@ -1,8 +1,8 @@
 ---
-title: framing spell 
+title: Framing Spell 
 index: false
 article: false 
 icon: article
-next: frog.md
-prev: foyson.md
+next: fraoch.md
+prev: fraechnat.md
 ---

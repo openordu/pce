@@ -1,8 +1,8 @@
 ---
-title: bodach 
+title: Bodach 
 index: false
 article: false 
 icon: article
-next: bog.md
-prev: boat.md
+next: bodb-derg.md
+prev: bochtóg.md
 ---

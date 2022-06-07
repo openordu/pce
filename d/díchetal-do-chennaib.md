@@ -1,8 +1,8 @@
 ---
-title: díchetal do chennaib 
+title: Díchetal Do Chennaib 
 index: false
 article: false 
 icon: article
-next: each-uisce.md
-prev: dwarf.md
+next: dígne.md
+prev: dér-gréine.md
 ---

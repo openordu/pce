@@ -1,5 +1,5 @@
 ---
-title: adder 
+title: Adder 
 index: false
 article: false 
 icon: article

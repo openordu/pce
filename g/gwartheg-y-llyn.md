@@ -1,8 +1,8 @@
 ---
-title: gwartheg y llyn 
+title: Gwartheg Y Llyn 
 index: false
 article: false 
 icon: article
-next: gwrach-y-rhibyn.md
-prev: guytrash.md
+next: gwawl.md
+prev: gwarchan.md
 ---

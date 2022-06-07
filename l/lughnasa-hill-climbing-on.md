@@ -1,5 +1,5 @@
 ---
-title: Lughnasa, hill-climbing on 
+title: Lughnasa, Hill-Climbing On 
 index: false
 article: false 
 icon: article

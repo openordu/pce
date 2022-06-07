@@ -1,8 +1,8 @@
 ---
-title: inauguration, Ériu in 
+title: Inauguration, Ériu In 
 index: false
 article: false 
 icon: article
-next: inauguration.md
-prev: inauguration-of-corc-mac-luigthic.md
+next: incest.md
+prev: inauguration-sovereignty-and.md
 ---

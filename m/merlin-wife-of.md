@@ -1,8 +1,8 @@
 ---
-title: Merlin, wife of 
+title: Merlin, Wife Of 
 index: false
 article: false 
 icon: article
-next: merry-maidens.md
-prev: merlin-sister-of.md
+next: mermaid.md
+prev: merlin-uther-pendragon-and.md
 ---

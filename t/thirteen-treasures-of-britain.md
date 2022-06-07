@@ -1,8 +1,8 @@
 ---
-title: Thirteen Treasures of Britain 
+title: Thirteen Treasures Of Britain 
 index: false
 article: false 
 icon: article
-next: thiten.md
-prev: them.md
+next: thistle.md
+prev: thinness.md
 ---

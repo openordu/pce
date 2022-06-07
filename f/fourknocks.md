@@ -3,6 +3,6 @@ title: Fourknocks
 index: false
 article: false 
 icon: article
-next: fraechnat.md
-prev: fothadh-canainne.md
+next: fowl-domestic.md
+prev: four-leafed-clover.md
 ---

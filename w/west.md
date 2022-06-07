@@ -1,8 +1,8 @@
 ---
-title: west 
+title: West 
 index: false
 article: false 
 icon: article
 next: wheel.md
-prev: well-dressing.md
+prev: welsh.md
 ---

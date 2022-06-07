@@ -4,5 +4,5 @@ index: false
 article: false 
 icon: article
 next: bodhbh-dearg.md
-prev: bochtóg.md
+prev: bodach.md
 ---

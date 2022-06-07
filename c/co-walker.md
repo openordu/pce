@@ -1,8 +1,8 @@
 ---
-title: co-walker 
+title: Co-Walker 
 index: false
 article: false 
 icon: article
-next: cock.md
-prev: cluricaune.md
+next: cobhthach.md
+prev: cnú-deiréil.md
 ---

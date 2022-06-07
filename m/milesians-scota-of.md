@@ -1,8 +1,8 @@
 ---
-title: Milesians, Scota of 
+title: Milesians, Scota Of 
 index: false
 article: false 
 icon: article
-next: milesians-at-tara.md
-prev: milesians-milesians-in-book-of-invasions.md
+next: tuatha-dé-danann.md
+prev: milesians-origin-of.md
 ---

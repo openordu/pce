@@ -1,8 +1,8 @@
 ---
-title: eel 
+title: Eel 
 index: false
 article: false 
 icon: article
-next: egg.md
-prev: echtra.md
+next: efniessin.md
+prev: edern.md
 ---

@@ -1,8 +1,8 @@
 ---
-title: casting aglamour 
+title: Casting Aglamour 
 index: false
 article: false 
 icon: article
-next: cat.md
-prev: captive-in-fairyland.md
+next: caswallawn.md
+prev: cassivellaunus.md
 ---

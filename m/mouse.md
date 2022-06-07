@@ -1,8 +1,8 @@
 ---
-title: mouse 
+title: Mouse 
 index: false
 article: false 
 icon: article
 next: moving-stones.md
-prev: mound.md
+prev: mountain-sunday.md
 ---

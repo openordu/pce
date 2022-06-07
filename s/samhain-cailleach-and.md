@@ -1,8 +1,8 @@
 ---
-title: Samhain, Cailleach and 
+title: Samhain, Cailleach And 
 index: false
 article: false 
 icon: article
-next: samhain-guy-fawkes-and.md
-prev: samaliliath.md
+next: samhain-dead-during.md
+prev: samhain-at-tara.md
 ---

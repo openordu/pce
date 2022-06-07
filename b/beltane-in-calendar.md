@@ -1,5 +1,5 @@
 ---
-title: Beltane, in calendar 
+title: Beltane, In Calendar 
 index: false
 article: false 
 icon: article

@@ -1,8 +1,8 @@
 ---
-title: ard rí 
+title: Ard Rí 
 index: false
 article: false 
 icon: article
-next: ash-tree.md
-prev: archaeology.md
+next: ard-éireann.md
+prev: ard-macha.md
 ---

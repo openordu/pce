@@ -1,5 +1,5 @@
 ---
-title: La Belle Dame sans Merci 
+title: La Belle Dame Sans Merci 
 index: false
 article: false 
 icon: article

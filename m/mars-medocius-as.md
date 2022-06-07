@@ -1,5 +1,5 @@
 ---
-title: Mars, Medocius as 
+title: Mars, Medocius As 
 index: false
 article: false 
 icon: article

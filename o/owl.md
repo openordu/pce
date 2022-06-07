@@ -1,8 +1,8 @@
 ---
-title: owl 
+title: Owl 
 index: false
 article: false 
 icon: article
 next: ox.md
-prev: outlaws.md
+prev: oweynagat.md
 ---

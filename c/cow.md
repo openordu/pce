@@ -1,8 +1,8 @@
 ---
-title: cow 
+title: Cow 
 index: false
 article: false 
 icon: article
-next: crane.md
-prev: courtly-love.md
+next: craebhnat.md
+prev: coventina.md
 ---

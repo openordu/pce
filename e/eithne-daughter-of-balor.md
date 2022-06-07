@@ -1,5 +1,5 @@
 ---
-title: Eithne, daughter of Balor 
+title: Eithne, Daughter Of Balor 
 index: false
 article: false 
 icon: article

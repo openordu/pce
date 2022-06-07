@@ -1,8 +1,8 @@
 ---
-title: glastyn 
+title: Glastyn 
 index: false
 article: false 
 icon: article
-next: glám-dícenn.md
-prev: glamour.md
+next: glen-lyon.md
+prev: glastonburyzodiac.md
 ---

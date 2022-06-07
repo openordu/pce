@@ -1,8 +1,8 @@
 ---
-title: tree alphabet  
+title: Tree Alphabet  
 index: false
 article: false 
 icon: article
-next: tree-soul.md
-prev: treasure.md
+next: tree-of-tortu.md
+prev: tree.md
 ---

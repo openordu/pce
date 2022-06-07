@@ -1,8 +1,8 @@
 ---
-title: Baile mac Buain 
+title: Baile Mac Buain 
 index: false
 article: false 
 icon: article
-next: baile.md
-prev: badhbh.md
+next: bairrind.md
+prev: baile.md
 ---

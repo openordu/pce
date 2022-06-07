@@ -1,5 +1,5 @@
 ---
-title: Mars, Cocidius as 
+title: Mars, Cocidius As 
 index: false
 article: false 
 icon: article

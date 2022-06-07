@@ -1,8 +1,8 @@
 ---
-title: crow 
+title: Crow 
 index: false
 article: false 
 icon: article
-next: cumhal.md
+next: cruachan.md
 prev: crossing-water.md
 ---

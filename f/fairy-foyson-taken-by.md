@@ -1,8 +1,8 @@
 ---
-title: fairy, foyson taken by 
+title: Fairy, Foyson Taken By 
 index: false
 article: false 
 icon: article
 next: fairy-ghosts-and.md
-prev: fairy-death-and.md
+prev: fairy-faery.md
 ---

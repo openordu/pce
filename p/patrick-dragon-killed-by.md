@@ -1,8 +1,8 @@
 ---
-title: Patrick, dragon killed by 
+title: Patrick, Dragon Killed By 
 index: false
 article: false 
 icon: article
-next: patrick-goat-and.md
+next: patrick-dumbarton-and.md
 prev: patrick-divination-and.md
 ---

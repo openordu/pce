@@ -1,5 +1,5 @@
 ---
-title: Fionn mac Cumhaill, grandson of 
+title: Fionn Mac Cumhaill, Grandson Of 
 index: false
 article: false 
 icon: article

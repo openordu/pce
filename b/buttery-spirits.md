@@ -1,8 +1,8 @@
 ---
-title: buttery spirits 
+title: Buttery Spirits 
 index: false
 article: false 
 icon: article
-next: bóraimhe.md
-prev: burial-rites.md
+next: buxenus.md
+prev: butler-theobald.md
 ---

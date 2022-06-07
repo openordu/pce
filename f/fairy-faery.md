@@ -1,8 +1,8 @@
 ---
-title: fairy, faery 
+title: Fairy, Faery 
 index: false
 article: false 
 icon: article
-next: fairy-other-celtic.md
-prev: fairy-irish.md
+next: fairy-foyson-taken-by.md
+prev: fairy-death-and.md
 ---

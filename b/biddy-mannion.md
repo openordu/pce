@@ -3,6 +3,6 @@ title: Biddy Mannion
 index: false
 article: false 
 icon: article
-next: billy-blind.md
+next: bilberry.md
 prev: biddy-early.md
 ---

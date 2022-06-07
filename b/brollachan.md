@@ -1,8 +1,8 @@
 ---
-title: brollachan 
+title: Brollachan 
 index: false
 article: false 
 icon: article
-next: brounger.md
-prev: brehon.md
+next: bron.md
+prev: brocéliande.md
 ---

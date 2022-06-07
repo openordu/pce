@@ -1,8 +1,8 @@
 ---
-title: cornucopia 
+title: Cornucopia 
 index: false
 article: false 
 icon: article
-next: cosmology.md
-prev: coins.md
+next: corotiacus.md
+prev: cornouaille.md
 ---

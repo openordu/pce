@@ -3,6 +3,6 @@ title: Gentle Annie
 index: false
 article: false 
 icon: article
-next: geodruisge.md
-prev: gelorwydd.md
+next: gentry.md
+prev: genius-loci.md
 ---

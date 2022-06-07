@@ -1,5 +1,5 @@
 ---
-title: Cano mac Gartnáin 
+title: Cano Mac Gartnáin 
 index: false
 article: false 
 icon: article

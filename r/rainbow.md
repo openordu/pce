@@ -1,8 +1,8 @@
 ---
-title: rainbow 
+title: Rainbow 
 index: false
 article: false 
 icon: article
-next: ram-headed-snake.md
-prev: quintessence.md
+next: raithe.md
+prev: rahn.md
 ---

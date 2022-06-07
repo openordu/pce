@@ -1,8 +1,8 @@
 ---
-title: fairy kidnapping, of Thomas the Rhymer 
+title: Fairy Kidnapping, Of Thomas The Rhymer 
 index: false
 article: false 
 icon: article
-next: fairy-kidnapping-of-brides.md
-prev: fairy-kidnapping-need-fire-and.md
+next: fairy-kidnapping-of-áed.md
+prev: fairy-kidnapping-of-midwives.md
 ---

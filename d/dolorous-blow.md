@@ -1,8 +1,8 @@
 ---
-title: dolorous blow 
+title: Dolorous Blow 
 index: false
 article: false 
 icon: article
-next: donkeys.md
+next: domhnall-mac-aodha.md
 prev: dolmen.md
 ---

@@ -1,8 +1,8 @@
 ---
-title: spiral 
+title: Spiral 
 index: false
 article: false 
 icon: article
 next: spontaneous-speech.md
-prev: spells.md
+prev: spenser-edmund.md
 ---

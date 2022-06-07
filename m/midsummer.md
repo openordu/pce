@@ -3,6 +3,6 @@ title: Midsummer
 index: false
 article: false 
 icon: article
-next: midwinter.md
+next: midwife.md
 prev: midir.md
 ---

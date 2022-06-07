@@ -1,8 +1,8 @@
 ---
-title: Táin bó Cuialnge, Ailill mac Máta in 
+title: Táin Bó Cuialnge, Ailill Mac Máta In 
 index: false
 article: false 
 icon: article
 next: táin-bó-cuialnge-cúchulainn-in.md
-prev: tyronoe.md
+prev: táin-bó-cuialnge.md
 ---

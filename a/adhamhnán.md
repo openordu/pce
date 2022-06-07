@@ -4,5 +4,5 @@ index: false
 article: false 
 icon: article
 next: adhnúall.md
-prev: achtan-.md
+prev: adder-stone.md
 ---

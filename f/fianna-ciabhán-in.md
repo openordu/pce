@@ -1,8 +1,8 @@
 ---
-title: Fianna, Ciabhán in 
+title: Fianna, Ciabhán In 
 index: false
 article: false 
 icon: article
-next: fianna-dáire-in.md
-prev: fianna-ailna-and.md
+next: fianna-clans-in.md
+prev: fianna-at-gabhair.md
 ---

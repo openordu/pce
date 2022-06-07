@@ -1,8 +1,8 @@
 ---
-title: Cúchulainn, Orlám killed by 
+title: Cúchulainn, Orlám Killed By 
 index: false
 article: false 
 icon: article
-next: cúchulainn-ulstermen.md
-prev: cúchulainn-medb-and.md
+next: cúchulainn-son-of.md
+prev: cúchulainn-name-of.md
 ---

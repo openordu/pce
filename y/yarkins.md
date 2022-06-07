@@ -1,8 +1,8 @@
 ---
-title: yarkins 
+title: Yarkins 
 index: false
 article: false 
 icon: article
-next: ádammair.md
+next: ychen-bannog.md
 prev: yannig.md
 ---

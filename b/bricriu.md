@@ -3,6 +3,6 @@ title: Bricriu
 index: false
 article: false 
 icon: article
-next: brigantia.md
+next: brigantes-britain.md
 prev: briccriu.md
 ---

@@ -1,8 +1,8 @@
 ---
-title: father of 
+title: Father Of 
 index: false
 article: false 
 icon: article
-next: fawn.md
-prev: famine.md
+next: faughart.md
+prev: far-liath.md
 ---

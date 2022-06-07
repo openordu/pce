@@ -4,5 +4,5 @@ index: false
 article: false 
 icon: article
 next: lochlann.md
-prev: loathy-lady.md
+prev: location-of-otherworld.md
 ---

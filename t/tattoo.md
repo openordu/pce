@@ -1,8 +1,8 @@
 ---
-title: tattoo 
+title: Tattoo 
 index: false
 article: false 
 icon: article
-next: teinm-laeda.md
+next: tavy.md
 prev: tatter-foal.md
 ---

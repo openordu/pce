@@ -3,6 +3,6 @@ title: Madgy Figgy
 index: false
 article: false 
 icon: article
-next: madrun.md
+next: madness.md
 prev: macpherson-james.md
 ---

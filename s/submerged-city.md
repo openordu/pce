@@ -1,8 +1,8 @@
 ---
-title: submerged city 
+title: Submerged City 
 index: false
 article: false 
 icon: article
-next: sun-cosmological-concept.md
-prev: struan.md
+next: sucellos.md
+prev: stwmp.md
 ---

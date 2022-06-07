@@ -1,5 +1,5 @@
 ---
-title: Arthur, Annowre and 
+title: Arthur, Annowre And 
 index: false
 article: false 
 icon: article

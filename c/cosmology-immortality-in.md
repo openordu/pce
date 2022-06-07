@@ -1,5 +1,5 @@
 ---
-title: cosmology, immortality in 
+title: Cosmology, Immortality In 
 index: false
 article: false 
 icon: article

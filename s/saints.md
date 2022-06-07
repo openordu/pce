@@ -1,8 +1,8 @@
 ---
-title: saints 
+title: Saints 
 index: false
 article: false 
 icon: article
-next: salmon.md
+next: saitada.md
 prev: ainnth.md
 ---

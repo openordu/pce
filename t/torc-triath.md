@@ -3,6 +3,6 @@ title: Torc Triath
 index: false
 article: false 
 icon: article
-next: torna.md
+next: torc-torque.md
 prev: torba.md
 ---

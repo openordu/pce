@@ -4,5 +4,5 @@ index: false
 article: false 
 icon: article
 next: manann.md
-prev: malekin.md
+prev: mam.md
 ---

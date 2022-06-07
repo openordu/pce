@@ -3,6 +3,6 @@ title: Cumaine Fada
 index: false
 article: false 
 icon: article
-next: cumhall.md
-prev: culhwch.md
+next: cumhal.md
+prev: culhwch-ac-olwen.md
 ---

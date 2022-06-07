@@ -1,5 +1,5 @@
 ---
-title: Medb, death of 
+title: Medb, Death Of 
 index: false
 article: false 
 icon: article

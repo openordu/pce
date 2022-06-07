@@ -4,5 +4,5 @@ index: false
 article: false 
 icon: article
 next: seanchán-toirpéist-searbhan.md
-prev: scéne.md
+prev: seanachie.md
 ---

@@ -1,8 +1,8 @@
 ---
-title: darkness and lightDark Roasleen 
+title: Darkness And LightDark Roasleen 
 index: false
 article: false 
 icon: article
-next: de-courcy-john.md
-prev: dancing-lights.md
+next: darlughdacha.md
+prev: daoinesidhe.md
 ---

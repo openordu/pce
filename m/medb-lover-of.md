@@ -1,8 +1,8 @@
 ---
-title: Medb, lover of 
+title: Medb, Lover Of 
 index: false
 article: false 
 icon: article
-next: medb-mother-of.md
+next: medb-mab-and.md
 prev: medb-in-táin-bó-cuailnge.md
 ---

@@ -1,5 +1,5 @@
 ---
-title: Crunniuc and 
+title: Crunniuc And 
 index: false
 article: false 
 icon: article

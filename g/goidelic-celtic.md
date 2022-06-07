@@ -3,6 +3,6 @@ title: Goidelic Celtic
 index: false
 article: false 
 icon: article
-next: goleuddydd-goll-mac-morna.md
+next: gold.md
 prev: goidel.md
 ---

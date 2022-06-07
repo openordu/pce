@@ -1,5 +1,5 @@
 ---
-title: Mars, Camulos as 
+title: Mars, Camulos As 
 index: false
 article: false 
 icon: article

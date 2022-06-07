@@ -3,6 +3,6 @@ title: Gamh
 index: false
 article: false 
 icon: article
-next: ganore.md
+next: ganconer.md
 prev: galvia.md
 ---

@@ -1,8 +1,8 @@
 ---
-title: barrow 
+title: Barrow 
 index: false
 article: false 
 icon: article
-next: bean-nighe.md
-prev: barnacle-goose.md
+next: barzaz.md
+prev: barrax.md
 ---

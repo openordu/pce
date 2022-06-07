@@ -3,6 +3,6 @@ title: Wild Hunt
 index: false
 article: false 
 icon: article
-next: william-of-orange.md
+next: wildhunt.md
 prev: wild-geese.md
 ---

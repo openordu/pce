@@ -1,5 +1,5 @@
 ---
-title: Otherworld, location of 
+title: Otherworld, Location Of 
 index: false
 article: false 
 icon: article

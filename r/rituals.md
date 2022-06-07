@@ -1,8 +1,8 @@
 ---
-title: rituals 
+title: Rituals 
 index: false
 article: false 
 icon: article
 next: river.md
-prev: religious-tales.md
+prev: ritona.md
 ---

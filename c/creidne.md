@@ -3,6 +3,6 @@ title: Creidne
 index: false
 article: false 
 icon: article
-next: cridhinbhéal.md
+next: cremation.md
 prev: creiddylad.md
 ---

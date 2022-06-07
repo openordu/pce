@@ -4,5 +4,5 @@ index: false
 article: false 
 icon: article
 next: orlám.md
-prev: oppida.md
+prev: oracular-head.md
 ---

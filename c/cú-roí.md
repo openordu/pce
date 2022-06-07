@@ -3,6 +3,6 @@ title: Cú Roí
 index: false
 article: false 
 icon: article
-next: cúchulainn.md
+next: cú-síth.md
 prev: cú-roi.md
 ---

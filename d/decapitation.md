@@ -1,8 +1,8 @@
 ---
-title: decapitation 
+title: Decapitation 
 index: false
 article: false 
 icon: article
-next: deer.md
-prev: death.md
+next: decca.md
+prev: deboron.md
 ---

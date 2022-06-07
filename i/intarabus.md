@@ -3,6 +3,6 @@ title: Intarabus
 index: false
 article: false 
 icon: article
-next: interpretatio-romana.md
-prev: inis-glora.md
+next: interpretatio.md
+prev: insects.md
 ---

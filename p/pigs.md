@@ -1,8 +1,8 @@
 ---
-title: pigs 
+title: Pigs 
 index: false
 article: false 
 icon: article
-next: pigs.md
-prev: phantom-islands.md
+next: pilgrimage.md
+prev: picts.md
 ---

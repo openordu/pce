@@ -1,8 +1,8 @@
 ---
-title: questing beast 
+title: Questing Beast 
 index: false
 article: false 
 icon: article
 next: quintessence.md
-prev: péist.md
+prev: qceltic.md
 ---

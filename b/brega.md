@@ -4,5 +4,5 @@ index: false
 article: false 
 icon: article
 next: bregon.md
-prev: breasal-b6-dhíobhadh.md
+prev: breaseal.md
 ---

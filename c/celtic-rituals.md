@@ -1,5 +1,5 @@
 ---
-title: Celtic rituals 
+title: Celtic Rituals 
 index: false
 article: false 
 icon: article

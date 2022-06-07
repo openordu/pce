@@ -3,6 +3,6 @@ title: Iucharba
 index: false
 article: false 
 icon: article
-next: iupiter.md
+next: iuiacus.md
 prev: iuchair.md
 ---

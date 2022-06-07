@@ -1,8 +1,8 @@
 ---
-title: leprechaun xv, 
+title: Leprechaun Xv, 
 index: false
 article: false 
 icon: article
-next: ley-lines.md
+next: ler.md
 prev: leprechaun.md
 ---

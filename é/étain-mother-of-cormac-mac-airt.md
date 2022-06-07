@@ -1,5 +1,5 @@
 ---
-title: Étain, mother of Cormac mac Airt 
+title: Étain, Mother Of Cormac Mac Airt 
 index: false
 article: false 
 icon: article

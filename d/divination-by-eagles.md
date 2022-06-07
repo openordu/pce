@@ -1,5 +1,5 @@
 ---
-title: divination, by eagles 
+title: Divination, By Eagles 
 index: false
 article: false 
 icon: article

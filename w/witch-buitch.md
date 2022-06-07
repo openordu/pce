@@ -1,8 +1,8 @@
 ---
-title: witch, Buitch 
+title: Witch, Buitch 
 index: false
 article: false 
 icon: article
-next: witch-madgy-figgy.md
-prev: witch.md
+next: witch-cats-and.md
+prev: witch-at-trewa.md
 ---

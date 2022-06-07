@@ -1,5 +1,5 @@
 ---
-title: Yew of Ross 
+title: Yew Of Ross 
 index: false
 article: false 
 icon: article

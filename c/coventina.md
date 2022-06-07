@@ -3,6 +3,6 @@ title: Coventina
 index: false
 article: false 
 icon: article
-next: craebhnat.md
-prev: corrgenn.md
+next: cow.md
+prev: courtly-love.md
 ---

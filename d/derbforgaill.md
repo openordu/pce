@@ -3,6 +3,6 @@ title: Derbforgaill
 index: false
 article: false 
 icon: article
-next: derravaragh.md
-prev: delbáeth-delga.md
+next: dergfhlaith.md
+prev: derbfine.md
 ---

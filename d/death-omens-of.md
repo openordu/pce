@@ -1,8 +1,8 @@
 ---
-title: death, omens of 
+title: Death, Omens Of 
 index: false
 article: false 
 icon: article
-next: death.md
+next: debility-of-the-ulstermen.md
 prev: death-coach.md
 ---

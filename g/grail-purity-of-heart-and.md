@@ -1,8 +1,8 @@
 ---
-title: Grail, purity of heart and 
+title: Grail, Purity Of Heart And 
 index: false
 article: false 
 icon: article
-next: grana.md
-prev: grail-in-sarras.md
+next: grainne.md
+prev: grail-perilous-seat-and.md
 ---

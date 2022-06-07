@@ -1,8 +1,8 @@
 ---
-title: bangaisgedaig 
+title: Bangaisgedaig 
 index: false
 article: false 
 icon: article
-next: banshee.md
+next: bansenchas.md
 prev: bandrui.md
 ---

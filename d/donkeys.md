@@ -1,8 +1,8 @@
 ---
-title: donkeys 
+title: Donkeys 
 index: false
 article: false 
 icon: article
-next: dooinney-oie.md
-prev: dolorous-blow.md
+next: donn.md
+prev: donagha-donand.md
 ---

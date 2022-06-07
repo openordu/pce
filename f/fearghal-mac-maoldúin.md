@@ -1,5 +1,5 @@
 ---
-title: Fearghal mac Maoldúin 
+title: Fearghal Mac Maoldúin 
 index: false
 article: false 
 icon: article

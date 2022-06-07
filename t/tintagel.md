@@ -3,6 +3,6 @@ title: Tintagel
 index: false
 article: false 
 icon: article
-next: tir-tairngiri.md
+next: tiocobrextion.md
 prev: tine-ghealáin.md
 ---

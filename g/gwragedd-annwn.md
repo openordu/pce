@@ -1,8 +1,8 @@
 ---
-title: gwragedd annwn 
+title: Gwragedd Annwn 
 index: false
 article: false 
 icon: article
-next: gwyllion.md
-prev: gwrach-y-rhibyn.md
+next: gwrageddannwn.md
+prev: gwrachyrhibyn.md
 ---

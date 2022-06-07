@@ -3,6 +3,6 @@ title: Bóinn
 index: false
 article: false 
 icon: article
-next: búanann.md
+next: bóraimhe.md
 prev: bóand.md
 ---

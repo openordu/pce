@@ -1,8 +1,8 @@
 ---
-title: List of Entries 
+title: List Of Entries 
 index: false
 article: false 
 icon: article
-next: litavis.md
-prev: liscannor.md
+next: litavia.md
+prev: lismore.md
 ---

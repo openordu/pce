@@ -1,8 +1,8 @@
 ---
-title: korrigan 
+title: Korrigan 
 index: false
 article: false 
 icon: article
-next: lake.md
-prev: knocker.md
+next: korrigans.md
+prev: knowth.md
 ---

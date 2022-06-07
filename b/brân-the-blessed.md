@@ -1,5 +1,5 @@
 ---
-title: Brân the Blessed 
+title: Brân The Blessed 
 index: false
 article: false 
 icon: article

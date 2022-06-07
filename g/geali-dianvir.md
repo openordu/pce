@@ -3,6 +3,6 @@ title: Geali Dianvir
 index: false
 article: false 
 icon: article
-next: gebann.md
+next: geas.md
 prev: gawain.md
 ---

@@ -1,8 +1,8 @@
 ---
-title: Fintan the salmon 
+title: Fintan The Salmon 
 index: false
 article: false 
 icon: article
-next: fiongalla.md
+next: fintan1.md
 prev: fintan-mac-bóchra.md
 ---

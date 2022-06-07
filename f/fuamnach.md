@@ -3,6 +3,6 @@ title: Fuamnach
 index: false
 article: false 
 icon: article
-next: fuinche.md
+next: fuath.md
 prev: fráech.md
 ---

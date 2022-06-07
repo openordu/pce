@@ -1,8 +1,8 @@
 ---
-title: night 
+title: Night 
 index: false
 article: false 
 icon: article
-next: north.md
-prev: neo-pagan.md
+next: nimue-nisien.md
+prev: niessin.md
 ---

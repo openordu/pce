@@ -1,8 +1,8 @@
 ---
-title: spéir-bhean 
+title: Spéir-Bhean 
 index: false
 article: false 
 icon: article
-next: stag.md
+next: sreng.md
 prev: spring-equinox.md
 ---

@@ -1,8 +1,8 @@
 ---
-title: duellists 
+title: Duellists 
 index: false
 article: false 
 icon: article
-next: dullahan.md
+next: duibne.md
 prev: duck.md
 ---

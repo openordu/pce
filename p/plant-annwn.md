@@ -3,6 +3,6 @@ title: Plant Annwn
 index: false
 article: false 
 icon: article
-next: plur-na-mban.md
-prev: picts.md
+next: plantannwn.md
+prev: plague.md
 ---

@@ -1,8 +1,8 @@
 ---
-title: fuath 
+title: Fuath 
 index: false
 article: false 
 icon: article
-next: funeral-rites.md
-prev: frog.md
+next: fuinche.md
+prev: fuamnach.md
 ---

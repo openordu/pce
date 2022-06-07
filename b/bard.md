@@ -1,8 +1,8 @@
 ---
-title: bard 
+title: Bard 
 index: false
 article: false 
 icon: article
-next: bard-féith-na-filíochta-of-festivals-of.md
+next: bard-cursing-by.md
 prev: baptism.md
 ---

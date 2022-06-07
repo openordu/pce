@@ -1,8 +1,8 @@
 ---
-title: red-handed king 
+title: Red-Handed King 
 index: false
 article: false 
 icon: article
-next: reincarnation-.md
-prev: rebirth.md
+next: redcap.md
+prev: red-etin.md
 ---

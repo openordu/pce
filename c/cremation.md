@@ -1,8 +1,8 @@
 ---
-title: cremation 
+title: Cremation 
 index: false
 article: false 
 icon: article
-next: crodh-mara.md
-prev: creation.md
+next: cridhinbhéal.md
+prev: creidne.md
 ---

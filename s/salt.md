@@ -1,8 +1,8 @@
 ---
-title: salt 
+title: Salt 
 index: false
 article: false 
 icon: article
-next: sanctuary.md
+next: samaliliath.md
 prev: salmon.md
 ---

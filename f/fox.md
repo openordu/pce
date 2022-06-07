@@ -1,5 +1,5 @@
 ---
-title: fox 
+title: Fox 
 index: false
 article: false 
 icon: article

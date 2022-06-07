@@ -1,8 +1,8 @@
 ---
-title: calendar 
+title: Calendar 
 index: false
 article: false 
 icon: article
-next: canach.md
-prev: calamity-meat.md
+next: caliburn.md
+prev: caldonia.md
 ---

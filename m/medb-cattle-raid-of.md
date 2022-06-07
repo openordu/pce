@@ -1,8 +1,8 @@
 ---
-title: Medb, cattle raid of 
+title: Medb, Cattle Raid Of 
 index: false
 article: false 
 icon: article
 next: medb-comb-and.md
-prev: medb-birth-of.md
+prev: medb-cailitin-and.md
 ---

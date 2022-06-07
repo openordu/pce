@@ -1,8 +1,8 @@
 ---
-title: fowl, domestic 
+title: Fowl, Domestic 
 index: false
 article: false 
 icon: article
 next: fox.md
-prev: four-leafed-clover.md
+prev: fourknocks.md
 ---

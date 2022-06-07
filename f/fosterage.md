@@ -1,8 +1,8 @@
 ---
-title: fosterage 
+title: Fosterage 
 index: false
 article: false 
 icon: article
-next: four-leafed-clover.md
-prev: folktale.md
+next: fothad-canainne-four.md
+prev: fortunate-isles.md
 ---

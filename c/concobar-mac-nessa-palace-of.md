@@ -1,5 +1,5 @@
 ---
-title: Concobar mac Nessa, palace of 
+title: Concobar Mac Nessa, Palace Of 
 index: false
 article: false 
 icon: article

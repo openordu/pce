@@ -1,8 +1,8 @@
 ---
-title: Ailill, Milesian king 
+title: Ailill, Milesian King 
 index: false
 article: false 
 icon: article
-next: ailinn.md
-prev: ailill-of-aran.md
+next: ailill1.md
+prev: ailill-olom.md
 ---

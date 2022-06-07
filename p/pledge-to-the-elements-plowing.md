@@ -1,8 +1,8 @@
 ---
-title: pledge to the elements plowing 
+title: Pledge To The Elements Plowing 
 index: false
 article: false 
 icon: article
-next: poet.md
+next: plentinnewid.md
 prev: planxty.md
 ---

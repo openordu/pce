@@ -1,5 +1,5 @@
 ---
-title: Diarmait Ua Duibne, death of 
+title: Diarmait Ua Duibne, Death Of 
 index: false
 article: false 
 icon: article

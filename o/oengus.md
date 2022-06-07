@@ -3,6 +3,6 @@ title: Oengus
 index: false
 article: false 
 icon: article
-next: ogalla.md
+next: oethanoeth.md
 prev: odras.md
 ---

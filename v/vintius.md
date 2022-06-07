@@ -3,6 +3,6 @@ title: Vintius
 index: false
 article: false 
 icon: article
-next: visucia.md
+next: vision.md
 prev: vinotonus.md
 ---

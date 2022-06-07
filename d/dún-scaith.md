@@ -3,6 +3,6 @@ title: Dún Scaith
 index: false
 article: false 
 icon: article
-next: eachlach-urlair.md
+next: each-uisce.md
 prev: dún-delgan.md
 ---

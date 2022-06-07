@@ -1,8 +1,8 @@
 ---
-title: Land of Promise 
+title: Land Of Promise 
 index: false
 article: false 
 icon: article
 next: land-of-women.md
-prev: land-under-wave.md
+prev: lancelot.md
 ---

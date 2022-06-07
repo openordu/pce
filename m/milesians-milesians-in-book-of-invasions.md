@@ -1,8 +1,8 @@
 ---
-title: Milesians, Milesians, in Book of Invasions 
+title: Milesians, Milesians, In Book Of Invasions 
 index: false
 article: false 
 icon: article
-next: milesians-scota-of.md
-prev: milesians-iberia-and.md
+next: milesians-on-uisneach.md
+prev: milesians-leader-of.md
 ---

@@ -1,8 +1,8 @@
 ---
-title: foawr 
+title: Foawr 
 index: false
 article: false 
 icon: article
 next: fod-seachran.md
-prev: five.md
+prev: flothal.md
 ---

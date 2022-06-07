@@ -1,5 +1,5 @@
 ---
-title: druid, second sight of 
+title: Druid, Second Sight Of 
 index: false
 article: false 
 icon: article

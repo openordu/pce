@@ -1,8 +1,8 @@
 ---
-title: need-fire 
+title: Need-Fire 
 index: false
 article: false 
 icon: article
-next: nemeton.md
-prev: necromancy.md
+next: nehalennia.md
+prev: necthan-scéne.md
 ---

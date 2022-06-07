@@ -1,8 +1,8 @@
 ---
-title: aiats 
+title: Aiats 
 index: false
 article: false 
 icon: article
-next: aisling.md
-prev: agricultural-rituals.md
+next: aibheaeg.md
+prev: aguigrenons.md
 ---

@@ -1,8 +1,8 @@
 ---
-title: Jack-o-Lantern 
+title: Jack-O-Lantern 
 index: false
 article: false 
 icon: article
-next: james-ii.md
+next: jack1.md
 prev: jack-in-the-green.md
 ---

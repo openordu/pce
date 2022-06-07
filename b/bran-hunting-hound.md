@@ -1,8 +1,8 @@
 ---
-title: Bran, hunting hound 
+title: Bran, Hunting Hound 
 index: false
 article: false 
 icon: article
-next: bran-galed.md
-prev: bran.md
+next: bran-the-breton-hero.md
+prev: bran-mac-febail.md
 ---

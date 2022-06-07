@@ -1,8 +1,8 @@
 ---
-title: deer 
+title: Deer 
 index: false
 article: false 
 icon: article
-next: deosil.md
-prev: decapitation.md
+next: defrobani.md
+prev: dee.md
 ---

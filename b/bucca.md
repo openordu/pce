@@ -1,8 +1,8 @@
 ---
-title: bucca 
+title: Bucca 
 index: false
 article: false 
 icon: article
-next: bug.md
-prev: buada.md
+next: budenicus.md
+prev: buan.md
 ---

@@ -1,8 +1,8 @@
 ---
-title: skriker 
+title: Skriker 
 index: false
 article: false 
 icon: article
-next: smith.md
-prev: siren.md
+next: skye.md
+prev: sithchenn.md
 ---

@@ -1,8 +1,8 @@
 ---
-title: blood 
+title: Blood 
 index: false
 article: false 
 icon: article
-next: boar.md
-prev: blemished-king.md
+next: blue-men-of-the-minch.md
+prev: blondine.md
 ---

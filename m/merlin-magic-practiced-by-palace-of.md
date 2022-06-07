@@ -1,5 +1,5 @@
 ---
-title: Merlin, magic practiced by palace of 
+title: Merlin, Magic Practiced By Palace Of 
 index: false
 article: false 
 icon: article

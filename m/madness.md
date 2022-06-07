@@ -1,8 +1,8 @@
 ---
-title: madness 
+title: Madness 
 index: false
 article: false 
 icon: article
-next: magic.md
-prev: lurikeen.md
+next: madrun.md
+prev: madgy-figgy.md
 ---

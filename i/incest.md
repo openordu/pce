@@ -1,8 +1,8 @@
 ---
-title: incest 
+title: Incest 
 index: false
 article: false 
 icon: article
-next: inscriptions.md
-prev: inauguration.md
+next: inchiquin.md
+prev: inauguration-ériu-in.md
 ---

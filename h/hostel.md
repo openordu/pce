@@ -1,5 +1,5 @@
 ---
-title: hostel 
+title: Hostel 
 index: false
 article: false 
 icon: article

@@ -4,5 +4,5 @@ index: false
 article: false 
 icon: article
 next: lorois.md
-prev: lochlann.md
+prev: lone-sod.md
 ---

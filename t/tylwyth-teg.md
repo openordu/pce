@@ -1,8 +1,8 @@
 ---
-title: tylwyth teg 
+title: Tylwyth Teg 
 index: false
 article: false 
 icon: article
-next: tyrants.md
-prev: two.md
+next: tylwythteg.md
+prev: twrch-trwyth.md
 ---

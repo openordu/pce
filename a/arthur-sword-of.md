@@ -1,5 +1,5 @@
 ---
-title: Arthur, sword of 
+title: Arthur, Sword Of 
 index: false
 article: false 
 icon: article

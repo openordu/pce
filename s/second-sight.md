@@ -1,8 +1,8 @@
 ---
-title: second sight 
+title: Second Sight 
 index: false
 article: false 
 icon: article
-next: serpent.md
-prev: seanachie.md
+next: seelie-court.md
+prev: seanán.md
 ---

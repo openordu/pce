@@ -1,5 +1,5 @@
 ---
-title: Merlin, lover of 
+title: Merlin, Lover Of 
 index: false
 article: false 
 icon: article

@@ -4,5 +4,5 @@ index: false
 article: false 
 icon: article
 next: vitiris.md
-prev: vintius.md
+prev: vision.md
 ---

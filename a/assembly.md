@@ -3,6 +3,6 @@ title: Assembly
 index: false
 article: false 
 icon: article
-next: assipattle.md
-prev: assembly-of-the-wondrous-head.md
+next: assembly-of-the-wondrous-head.md
+prev: assaroe.md
 ---

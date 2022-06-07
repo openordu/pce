@@ -4,5 +4,5 @@ index: false
 article: false 
 icon: article
 next: beli.md
-prev: belatucadros.md
+prev: belenos.md
 ---

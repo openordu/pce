@@ -3,6 +3,6 @@ title: Berguisa
 index: false
 article: false 
 icon: article
-next: berrey-dhone.md
+next: bergusia.md
 prev: berecynthia.md
 ---

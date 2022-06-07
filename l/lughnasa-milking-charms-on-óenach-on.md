@@ -1,8 +1,8 @@
 ---
-title: Lughnasa, milking charms on Óenach on 
+title: Lughnasa, Milking Charms On Óenach On 
 index: false
 article: false 
 icon: article
-next: lugos.md
-prev: lughnasa-in-calendar.md
+next: lughnasa-tailtiu-and.md
+prev: lughnasa-midsummer-and.md
 ---

@@ -1,8 +1,8 @@
 ---
-title: Ailill of Aran 
+title: Ailill Of Aran 
 index: false
 article: false 
 icon: article
-next: ailill-milesian-king.md
-prev: ailill-mac-máta.md
+next: ailill-olom.md
+prev: ailill-molt.md
 ---

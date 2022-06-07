@@ -3,6 +3,6 @@ title: Clothra
 index: false
 article: false 
 icon: article
-next: clídna.md
+next: clover.md
 prev: clota.md
 ---

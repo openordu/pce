@@ -3,6 +3,6 @@ title: Mythological Cycle
 index: false
 article: false 
 icon: article
-next: míl.md
-prev: myrddin.md
+next: mythology.md
+prev: mythological.md
 ---

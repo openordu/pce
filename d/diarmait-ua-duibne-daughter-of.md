@@ -1,5 +1,5 @@
 ---
-title: Diarmait Ua Duibne, daughter of 
+title: Diarmait Ua Duibne, Daughter Of 
 index: false
 article: false 
 icon: article

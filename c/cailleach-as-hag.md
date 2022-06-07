@@ -1,8 +1,8 @@
 ---
-title: Cailleach, as hag 
+title: Cailleach, As Hag 
 index: false
 article: false 
 icon: article
-next: cailleach-eye-of.md
-prev: cailleach-as-muilearach.md
+next: cailleach-as-mala-liath.md
+prev: cailleach-as-carlin.md
 ---

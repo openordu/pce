@@ -4,5 +4,5 @@ index: false
 article: false 
 icon: article
 next: fódla.md
-prev: féine.md
+prev: féth-fiada.md
 ---

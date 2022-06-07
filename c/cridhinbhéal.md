@@ -4,5 +4,5 @@ index: false
 article: false 
 icon: article
 next: crimthann.md
-prev: creidne.md
+prev: cremation.md
 ---

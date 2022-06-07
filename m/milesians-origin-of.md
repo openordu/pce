@@ -1,8 +1,8 @@
 ---
-title: Milesians, origin of 
+title: Milesians, Origin Of 
 index: false
 article: false 
 icon: article
-next: tuatha-dé-danann.md
+next: milesians-scota-of.md
 prev: milesians-on-uisneach.md
 ---

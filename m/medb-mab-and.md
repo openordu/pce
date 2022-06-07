@@ -1,8 +1,8 @@
 ---
-title: Medb, Mab and 
+title: Medb, Mab And 
 index: false
 article: false 
 icon: article
-next: medb-mórrígan-and.md
-prev: medb-ferdiad-and.md
+next: medb-mother-of.md
+prev: medb-lover-of.md
 ---

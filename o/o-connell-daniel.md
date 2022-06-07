@@ -3,6 +3,6 @@ title: O'Connell, Daniel
 index: false
 article: false 
 icon: article
-next: oberon.md
+next: oak-tree.md
 prev: o-caoimh-dónall-na-cásca.md
 ---

@@ -1,5 +1,5 @@
 ---
-title: Flann mac Lónáin 
+title: Flann Mac Lónáin 
 index: false
 article: false 
 icon: article

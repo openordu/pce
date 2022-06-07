@@ -1,8 +1,8 @@
 ---
-title: magic 
+title: Magic 
 index: false
 article: false 
 icon: article
 next: magpie.md
-prev: madness.md
+prev: magdalenenberg.md
 ---

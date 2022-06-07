@@ -1,8 +1,8 @@
 ---
-title: Tir fo Thuinn 
+title: Tir Fo Thuinn 
 index: false
 article: false 
 icon: article
 next: tir-na-mban.md
-prev: tir-tairngiri.md
+prev: tiocobrextion.md
 ---

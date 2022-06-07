@@ -1,8 +1,8 @@
 ---
-title: egret 
+title: Egret 
 index: false
 article: false 
 icon: article
-next: elder-tree.md
+next: eiddilig-gor.md
 prev: egg.md
 ---

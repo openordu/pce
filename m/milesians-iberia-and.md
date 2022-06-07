@@ -1,8 +1,8 @@
 ---
-title: Milesians, Iberia and 
+title: Milesians, Iberia And 
 index: false
 article: false 
 icon: article
-next: milesians-milesians-in-book-of-invasions.md
-prev: milesians.md
+next: milesians-landing-of.md
+prev: milesians-at-tara.md
 ---

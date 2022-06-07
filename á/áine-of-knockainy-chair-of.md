@@ -1,5 +1,5 @@
 ---
-title: Áine of Knockainy, chair of 
+title: Áine Of Knockainy, Chair Of 
 index: false
 article: false 
 icon: article

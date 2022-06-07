@@ -1,8 +1,8 @@
 ---
-title: milking charms 
+title: Milking Charms 
 index: false
 article: false 
 icon: article
-next: mistletoe.md
+next: milucra.md
 prev: milk.md
 ---

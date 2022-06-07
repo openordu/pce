@@ -1,8 +1,8 @@
 ---
-title: creation 
+title: Creation 
 index: false
 article: false 
 icon: article
-next: cremation.md
-prev: crane-bag.md
+next: creiddylad.md
+prev: crannóg.md
 ---

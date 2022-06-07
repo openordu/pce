@@ -1,8 +1,8 @@
 ---
-title: Tadhg mac Céin 
+title: Tadhg Mac Céin 
 index: false
 article: false 
 icon: article
-next: tailtiu.md
+next: taghairm.md
 prev: tadg.md
 ---

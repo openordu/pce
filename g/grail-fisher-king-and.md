@@ -1,8 +1,8 @@
 ---
-title: Grail, Fisher King and 
+title: Grail, Fisher King And 
 index: false
 article: false 
 icon: article
-next: grail-joseph-of-arimathea-and.md
+next: grail-in-sarras.md
 prev: grail-amangons-and.md
 ---

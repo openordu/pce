@@ -1,8 +1,8 @@
 ---
-title: poet’s circuit 
+title: Poet’S Circuit 
 index: false
 article: false 
 icon: article
-next: political-lore.md
+next: poisoned-glen.md
 prev: poets-poetesses.md
 ---

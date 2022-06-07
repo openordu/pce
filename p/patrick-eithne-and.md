@@ -1,5 +1,5 @@
 ---
-title: Patrick, Eithne and 
+title: Patrick, Eithne And 
 index: false
 article: false 
 icon: article

@@ -3,6 +3,6 @@ title: Brí Léith
 index: false
 article: false 
 icon: article
-next: brú-na-bóinne.md
+next: brídeóg.md
 prev: brí.md
 ---

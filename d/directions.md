@@ -1,8 +1,8 @@
 ---
-title: directions 
+title: Directions 
 index: false
 article: false 
 icon: article
-next: divination-through-incantation.md
-prev: destruction.md
+next: dirona.md
+prev: dinomogetimarus-dìreach.md
 ---

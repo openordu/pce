@@ -1,8 +1,8 @@
 ---
-title: high king 
+title: High King 
 index: false
 article: false 
 icon: article
 next: high-king-high-kingship.md
-prev: hero-s-portion.md
+prev: hibernia.md
 ---

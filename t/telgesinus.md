@@ -4,5 +4,5 @@ index: false
 article: false 
 icon: article
 next: telo.md
-prev: tegid-voel.md
+prev: teinmlaida.md
 ---

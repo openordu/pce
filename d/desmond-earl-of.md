@@ -1,8 +1,8 @@
 ---
-title: Desmond, Earl of 
+title: Desmond, Earl Of 
 index: false
 article: false 
 icon: article
-next: deva.md
+next: destruction.md
 prev: derravaragh.md
 ---

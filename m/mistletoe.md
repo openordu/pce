@@ -1,8 +1,8 @@
 ---
-title: mistletoe 
+title: Mistletoe 
 index: false
 article: false 
 icon: article
-next: modern-legends.md
-prev: milking-charms.md
+next: mithras.md
+prev: mis.md
 ---

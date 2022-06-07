@@ -1,5 +1,5 @@
 ---
-title: bird 
+title: Bird 
 index: false
 article: false 
 icon: article

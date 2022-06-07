@@ -1,8 +1,8 @@
 ---
-title: ley lines 
+title: Ley Lines 
 index: false
 article: false 
 icon: article
-next: literacy.md
-prev: leprechaun-xv-.md
+next: lia-fáil.md
+prev: leucetius.md
 ---

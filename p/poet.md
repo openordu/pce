@@ -1,8 +1,8 @@
 ---
-title: poet 
+title: Poet 
 index: false
 article: false 
 icon: article
 next: poetry.md
-prev: pledge-to-the-elements-plowing.md
+prev: plur-na-mban.md
 ---

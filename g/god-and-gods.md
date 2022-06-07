@@ -1,8 +1,8 @@
 ---
-title: god and gods 
+title: God And Gods 
 index: false
 article: false 
 icon: article
-next: goddess-of-sovereignty.md
-prev: goblin.md
+next: goddess-and-goddesses.md
+prev: gobán-saor.md
 ---

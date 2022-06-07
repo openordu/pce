@@ -1,8 +1,8 @@
 ---
-title: Brigit, Latiaran and 
+title: Brigit, Latiaran And 
 index: false
 article: false 
 icon: article
-next: brigit-at-glastonbury-tor-godiva-and.md
+next: brigit-puppet-of.md
 prev: brigit-kildare-and.md
 ---

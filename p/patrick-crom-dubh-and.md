@@ -1,8 +1,8 @@
 ---
-title: Patrick, Crom Dubh and 
+title: Patrick, Crom Dubh And 
 index: false
 article: false 
 icon: article
-next: patrick-dumbarton-and.md
+next: patrick-divination-and.md
 prev: patrick-caoranach-killed-by.md
 ---

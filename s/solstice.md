@@ -1,8 +1,8 @@
 ---
-title: solstice 
+title: Solstice 
 index: false
 article: false 
 icon: article
-next: soul.md
-prev: solitary-fairies-.md
+next: sons-of-uisneach-.md
+prev: solomon.md
 ---

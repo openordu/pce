@@ -1,8 +1,8 @@
 ---
-title: taghairm 
+title: Taghairm 
 index: false
 article: false 
 icon: article
-next: talisman.md
-prev: taboo.md
+next: tailtiu.md
+prev: tadhg-mac-céin.md
 ---

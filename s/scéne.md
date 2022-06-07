@@ -3,6 +3,6 @@ title: Scéne
 index: false
 article: false 
 icon: article
-next: seanchán.md
+next: sea-fairies.md
 prev: scáthach.md
 ---

@@ -1,8 +1,8 @@
 ---
-title: Land of Youth 
+title: Land Of Youth 
 index: false
 article: false 
 icon: article
-next: laoghaire.md
+next: land-under-wave.md
 prev: land-of-women.md
 ---

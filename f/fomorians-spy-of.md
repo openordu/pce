@@ -1,5 +1,5 @@
 ---
-title: Fomorians, spy of 
+title: Fomorians, Spy Of 
 index: false
 article: false 
 icon: article

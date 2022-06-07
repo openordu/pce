@@ -1,5 +1,5 @@
 ---
-title: months 
+title: Months 
 index: false
 article: false 
 icon: article

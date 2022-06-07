@@ -4,5 +4,5 @@ index: false
 article: false 
 icon: article
 next: aguigrenons.md
-prev: agretes.md
+prev: agricultural-rituals.md
 ---

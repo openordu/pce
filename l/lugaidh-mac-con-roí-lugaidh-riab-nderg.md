@@ -1,5 +1,5 @@
 ---
-title: Lugaidh mac Con Roí Lugaidh Riab nDerg 
+title: Lugaidh Mac Con Roí Lugaidh Riab NDerg 
 index: false
 article: false 
 icon: article

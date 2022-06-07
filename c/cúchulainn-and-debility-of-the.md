@@ -1,8 +1,8 @@
 ---
-title: Cúchulainn, and Debility of the 
+title: Cúchulainn, And Debility Of The 
 index: false
 article: false 
 icon: article
 next: cúchulainn-conception-of.md
-prev: cúchulainn-ulstermen.md
+prev: cúchulainn-abcán-and.md
 ---

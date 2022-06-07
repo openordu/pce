@@ -1,5 +1,5 @@
 ---
-title: shape-shifting, in shamanism 
+title: Shape-Shifting, In Shamanism 
 index: false
 article: false 
 icon: article

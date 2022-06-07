@@ -1,8 +1,8 @@
 ---
-title: Hill of Allen 
+title: Hill Of Allen 
 index: false
 article: false 
 icon: article
 next: hill-of-tara.md
-prev: hibernia.md
+prev: hill.md
 ---

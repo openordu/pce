@@ -1,8 +1,8 @@
 ---
-title: Étain, at Tara 
+title: Étain, At Tara 
 index: false
 article: false 
 icon: article
 next: étain-conception-of.md
-prev: étain-crochan-and.md
+prev: étain.md
 ---

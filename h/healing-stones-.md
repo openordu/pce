@@ -1,5 +1,5 @@
 ---
-title: healing stones  
+title: Healing Stones  
 index: false
 article: false 
 icon: article

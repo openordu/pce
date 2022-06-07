@@ -1,8 +1,8 @@
 ---
-title: hag 
+title: Hag 
 index: false
 article: false 
 icon: article
 next: hags.md
-prev: gwyllion.md
+prev: hafgan.md
 ---

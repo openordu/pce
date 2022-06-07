@@ -1,5 +1,5 @@
 ---
-title: Crimthann of Tara Croagh Patrick 
+title: Crimthann Of Tara Croagh Patrick 
 index: false
 article: false 
 icon: article

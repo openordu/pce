@@ -1,8 +1,8 @@
 ---
-title: Cúchulainn, Abcán and 
+title: Cúchulainn, Abcán And 
 index: false
 article: false 
 icon: article
-next: cúchulainn-culann-and.md
+next: cúchulainn-and-debility-of-the.md
 prev: cúchulainn.md
 ---

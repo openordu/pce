@@ -1,5 +1,5 @@
 ---
-title: fairy, shape-shifting by 
+title: Fairy, Shape-Shifting By 
 index: false
 article: false 
 icon: article

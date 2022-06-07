@@ -1,8 +1,8 @@
 ---
-title: borrowing fire 
+title: Borrowing Fire 
 index: false
 article: false 
 icon: article
-next: brehon.md
+next: bors-de-ganis.md
 prev: borrowed-days.md
 ---

@@ -1,8 +1,8 @@
 ---
-title: Gwynn ap Nudd 
+title: Gwynn Ap Nudd 
 index: false
 article: false 
 icon: article
 next: gwythyr-fab-greidawl-gyre-carling.md
-prev: gwydion.md
+prev: gwyn.md
 ---

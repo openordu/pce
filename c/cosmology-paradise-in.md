@@ -1,8 +1,8 @@
 ---
-title: cosmology, Paradise in 
+title: Cosmology, Paradise In 
 index: false
 article: false 
 icon: article
-next: cosmology-creation-in.md
+next: cosmology-poetry-in.md
 prev: cosmology-otherworld-in.md
 ---

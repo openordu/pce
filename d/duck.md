@@ -1,8 +1,8 @@
 ---
-title: duck 
+title: Duck 
 index: false
 article: false 
 icon: article
 next: duellists.md
-prev: duality-dub.md
+prev: dubthach.md
 ---

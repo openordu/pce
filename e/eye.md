@@ -1,8 +1,8 @@
 ---
-title: eye 
+title: Eye 
 index: false
 article: false 
 icon: article
-next: fachan.md
+next: eógan.md
 prev: external-soul.md
 ---

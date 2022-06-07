@@ -1,8 +1,8 @@
 ---
-title: blemished king 
+title: Blemished King 
 index: false
 article: false 
 icon: article
-next: blood.md
-prev: birth.md
+next: blodeuwedd.md
+prev: blaí.md
 ---

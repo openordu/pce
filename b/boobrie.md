@@ -1,8 +1,8 @@
 ---
-title: boobrie 
+title: Boobrie 
 index: false
 article: false 
 icon: article
-next: borrowed-days.md
-prev: bogie.md
+next: book-of-invasions.md
+prev: bolvinnus.md
 ---

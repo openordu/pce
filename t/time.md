@@ -1,8 +1,8 @@
 ---
-title: time 
+title: Time 
 index: false
 article: false 
 icon: article
-next: tober.md
-prev: threefold-death.md
+next: tine-ghealáin.md
+prev: tighearnmhas.md
 ---

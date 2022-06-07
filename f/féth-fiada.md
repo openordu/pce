@@ -1,8 +1,8 @@
 ---
-title: féth fiada 
+title: Féth Fiada 
 index: false
 article: false 
 icon: article
-next: ganconer.md
+next: fíngein.md
 prev: féith-na-filíochta.md
 ---

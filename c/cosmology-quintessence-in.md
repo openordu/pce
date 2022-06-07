@@ -1,5 +1,5 @@
 ---
-title: cosmology, quintessence in 
+title: Cosmology, Quintessence In 
 index: false
 article: false 
 icon: article

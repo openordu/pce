@@ -4,5 +4,5 @@ index: false
 article: false 
 icon: article
 next: tintagel.md
-prev: tighearnmhas.md
+prev: time.md
 ---

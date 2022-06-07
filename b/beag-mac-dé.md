@@ -1,8 +1,8 @@
 ---
-title: Beag mac Dé 
+title: Beag Mac Dé 
 index: false
 article: false 
 icon: article
-next: bearach.md
+next: bean-nighe.md
 prev: ba-al.md
 ---

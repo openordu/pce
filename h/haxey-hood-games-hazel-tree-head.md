@@ -1,8 +1,8 @@
 ---
-title: Haxey Hood Games hazel tree head 
+title: Haxey Hood Games Hazel Tree Head 
 index: false
 article: false 
 icon: article
-next: heathrow.md
-prev: handsel-monday.md
+next: healing.md
+prev: hawthorn.md
 ---

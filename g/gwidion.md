@@ -3,6 +3,6 @@ title: Gwidion
 index: false
 article: false 
 icon: article
-next: gwri.md
+next: gwion.md
 prev: gwern.md
 ---

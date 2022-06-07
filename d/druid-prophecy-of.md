@@ -1,5 +1,5 @@
 ---
-title: druid, prophecy of 
+title: Druid, Prophecy Of 
 index: false
 article: false 
 icon: article

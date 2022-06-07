@@ -1,8 +1,8 @@
 ---
-title: Ó Maoilriain, Éamonn an Chnoic 
+title: Ó Maoilriain, Éamonn An Chnoic 
 index: false
 article: false 
 icon: article
 next: ó-néill-eoghan-rua.md
-prev: ó-dónaill-mánas.md
+prev: ó-hanluain-réamonn.md
 ---

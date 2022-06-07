@@ -1,8 +1,8 @@
 ---
-title: cats 
+title: Cats 
 index: false
 article: false 
 icon: article
 next: cattle.md
-prev: cat.md
+prev: cathubodua.md
 ---

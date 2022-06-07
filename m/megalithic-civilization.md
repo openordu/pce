@@ -1,8 +1,8 @@
 ---
-title: megalithic civilization 
+title: Megalithic Civilization 
 index: false
 article: false 
 icon: article
-next: menhir.md
-prev: mead.md
+next: meiche.md
+prev: meg-mullach.md
 ---

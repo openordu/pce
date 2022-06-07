@@ -1,8 +1,8 @@
 ---
-title: marriage 
+title: Marriage 
 index: false
 article: false 
 icon: article
-next: marvels.md
-prev: mare.md
+next: marrock.md
+prev: mark.md
 ---

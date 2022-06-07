@@ -1,8 +1,8 @@
 ---
-title: Gráinne, daughter of 
+title: Gráinne, Daughter Of 
 index: false
 article: false 
 icon: article
-next: gráinne-lover-of.md
+next: gráinne-godiva-and.md
 prev: gráinne-at-tara.md
 ---

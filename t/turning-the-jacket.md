@@ -1,8 +1,8 @@
 ---
-title: turning the jacket 
+title: Turning The Jacket 
 index: false
 article: false 
 icon: article
-next: twins.md
-prev: tulman.md
+next: turoe-stone.md
+prev: turgesius.md
 ---

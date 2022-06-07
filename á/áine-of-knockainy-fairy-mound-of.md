@@ -1,5 +1,5 @@
 ---
-title: Áine of Knockainy, fairy mound of 
+title: Áine Of Knockainy, Fairy Mound Of 
 index: false
 article: false 
 icon: article

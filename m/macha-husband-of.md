@@ -1,8 +1,8 @@
 ---
-title: Macha, husband of 
+title: Macha, Husband Of 
 index: false
 article: false 
 icon: article
-next: macha-mórrígan-and.md
+next: macha-in-táin-bó-cuailnge.md
 prev: macha-father-of.md
 ---

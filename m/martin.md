@@ -3,6 +3,6 @@ title: Martin
 index: false
 article: false 
 icon: article
-next: mary.md
-prev: mars-in-interpretatio-romana.md
+next: marvels.md
+prev: mars-sutugius-as.md
 ---

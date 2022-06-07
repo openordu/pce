@@ -1,8 +1,8 @@
 ---
-title: witch, fox and 
+title: Witch, Fox And 
 index: false
 article: false 
 icon: article
-next: witch-milk-stolen-by.md
+next: witch-madgy-figgy.md
 prev: witch-cats-and.md
 ---

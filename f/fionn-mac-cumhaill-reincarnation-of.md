@@ -1,5 +1,5 @@
 ---
-title: Fionn mac Cumhaill, reincarnation of 
+title: Fionn Mac Cumhaill, Reincarnation Of 
 index: false
 article: false 
 icon: article

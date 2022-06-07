@@ -1,8 +1,8 @@
 ---
-title: votive deposits 
+title: Votive Deposits 
 index: false
 article: false 
 icon: article
 next: vough.md
-prev: vision.md
+prev: vosegus.md
 ---

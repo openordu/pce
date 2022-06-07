@@ -1,8 +1,8 @@
 ---
-title: Gabriel hounds 
+title: Gabriel Hounds 
 index: false
 article: false 
 icon: article
-next: gadelus.md
+next: gabrielhounds.md
 prev: gablach.md
 ---

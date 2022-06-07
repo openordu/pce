@@ -1,5 +1,5 @@
 ---
-title: Beltane, Óenach on 
+title: Beltane, Óenach On 
 index: false
 article: false 
 icon: article

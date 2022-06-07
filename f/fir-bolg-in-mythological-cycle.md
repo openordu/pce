@@ -1,5 +1,5 @@
 ---
-title: Fir Bolg, in Mythological Cycle 
+title: Fir Bolg, In Mythological Cycle 
 index: false
 article: false 
 icon: article

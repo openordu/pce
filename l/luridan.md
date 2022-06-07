@@ -1,8 +1,8 @@
 ---
-title: luridan 
+title: Luridan 
 index: false
 article: false 
 icon: article
 next: lurikeen.md
-prev: lunar-divinities.md
+prev: luned.md
 ---

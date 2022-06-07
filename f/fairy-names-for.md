@@ -1,5 +1,5 @@
 ---
-title: fairy, names for 
+title: Fairy, Names For 
 index: false
 article: false 
 icon: article

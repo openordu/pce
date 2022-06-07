@@ -1,5 +1,5 @@
 ---
-title: Children of Lir, mother of 
+title: Children Of Lir, Mother Of 
 index: false
 article: false 
 icon: article

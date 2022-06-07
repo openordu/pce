@@ -1,8 +1,8 @@
 ---
-title: foyson 
+title: Foyson 
 index: false
 article: false 
 icon: article
-next: framing-spell.md
+next: fraechnat.md
 prev: fox.md
 ---

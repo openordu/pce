@@ -1,8 +1,8 @@
 ---
-title: Lugh, leprechaun and 
+title: Lugh, Leprechaun And 
 index: false
 article: false 
 icon: article
-next: lugh-mother-of.md
+next: lugh-lugos-and.md
 prev: lugh-in-mythological-cycle.md
 ---

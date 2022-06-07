@@ -4,5 +4,5 @@ index: false
 article: false 
 icon: article
 next: bearchán.md
-prev: beag-mac-dé.md
+prev: bear.md
 ---

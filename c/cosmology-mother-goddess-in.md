@@ -1,5 +1,5 @@
 ---
-title: cosmology, mother goddess in 
+title: Cosmology, Mother Goddess In 
 index: false
 article: false 
 icon: article

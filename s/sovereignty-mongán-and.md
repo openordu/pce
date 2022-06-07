@@ -1,8 +1,8 @@
 ---
-title: Sovereignty, Mongán and 
+title: Sovereignty, Mongán And 
 index: false
 article: false 
 icon: article
 next: sovereignty-mórrígan-as.md
-prev: sovereignty-macha-and.md
+prev: sovereignty-marriage-and.md
 ---

@@ -1,5 +1,5 @@
 ---
-title: horse sacrifice 
+title: Horse Sacrifice 
 index: false
 article: false 
 icon: article

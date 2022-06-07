@@ -1,8 +1,8 @@
 ---
-title: menhir 
+title: Menhir 
 index: false
 article: false 
 icon: article
-next: mermaid.md
-prev: megalithic-civilization.md
+next: mercury.md
+prev: melwas.md
 ---

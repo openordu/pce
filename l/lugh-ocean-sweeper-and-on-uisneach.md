@@ -1,8 +1,8 @@
 ---
-title: Lugh, Ocean Sweeper and on Uisneach 
+title: Lugh, Ocean Sweeper And On Uisneach 
 index: false
 article: false 
 icon: article
-next: lugh-dog-of.md
-prev: lugh-lugos-and.md
+next: lugh-uncle-of.md
+prev: lugh-mother-of.md
 ---

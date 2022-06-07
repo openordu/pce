@@ -1,8 +1,8 @@
 ---
-title: torc/torque 
+title: Torc/Torque 
 index: false
 article: false 
 icon: article
-next: totem.md
-prev: toot-mounds.md
+next: torna.md
+prev: torc-triath.md
 ---

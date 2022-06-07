@@ -1,8 +1,8 @@
 ---
-title: tuath 
+title: Tuath 
 index: false
 article: false 
 icon: article
-next: tulman.md
-prev: trow.md
+next: tuatha-dé-danann.md
+prev: tuan-mac-cairill.md
 ---

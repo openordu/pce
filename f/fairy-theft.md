@@ -1,5 +1,5 @@
 ---
-title: fairy theft 
+title: Fairy Theft 
 index: false
 article: false 
 icon: article

@@ -1,5 +1,5 @@
 ---
-title: Fionn mac Cumhaill, teinm laeda used by tutor of 
+title: Fionn Mac Cumhaill, Teinm Laeda Used By Tutor Of 
 index: false
 article: false 
 icon: article

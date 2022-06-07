@@ -1,8 +1,8 @@
 ---
-title: three 
+title: Three 
 index: false
 article: false 
 icon: article
-next: threefold-death.md
+next: three-sorrows-of-ireland.md
 prev: thorn-tree.md
 ---

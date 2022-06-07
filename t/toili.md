@@ -1,8 +1,8 @@
 ---
-title: toili 
+title: Toili 
 index: false
 article: false 
 icon: article
-next: toot-mounds.md
-prev: togail.md
+next: toland.md
+prev: toice-bhrean.md
 ---

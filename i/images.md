@@ -1,8 +1,8 @@
 ---
-title: images 
+title: Images 
 index: false
 article: false 
 icon: article
-next: imbas-forosnai.md
-prev: husband-of.md
+next: imbas.md
+prev: ile.md
 ---

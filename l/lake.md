@@ -1,8 +1,8 @@
 ---
-title: lake 
+title: Lake 
 index: false
 article: false 
 icon: article
 next: lake-maidens.md
-prev: korrigan.md
+prev: lair-derb.md
 ---

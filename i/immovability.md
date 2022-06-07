@@ -1,8 +1,8 @@
 ---
-title: immovability 
+title: Immovability 
 index: false
 article: false 
 icon: article
-next: imp.md
+next: immram.md
 prev: immortality.md
 ---

@@ -1,8 +1,8 @@
 ---
-title: hoard 
+title: Hoard 
 index: false
 article: false 
 icon: article
 next: hob.md
-prev: hill.md
+prev: historia.md
 ---

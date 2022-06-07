@@ -1,5 +1,5 @@
 ---
-title: cosmology, totem in 
+title: Cosmology, Totem In 
 index: false
 article: false 
 icon: article

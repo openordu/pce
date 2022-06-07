@@ -1,8 +1,8 @@
 ---
-title: Macha, children of 
+title: Macha, Children Of 
 index: false
 article: false 
 icon: article
 next: macha-crunniuc-and.md
-prev: macha.md
+prev: macha-mong-rua.md
 ---

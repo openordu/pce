@@ -1,8 +1,8 @@
 ---
-title: witchcraft 
+title: Witchcraft 
 index: false
 article: false 
 icon: article
-next: wodwose.md
+next: witta.md
 prev: witch-transport-of.md
 ---

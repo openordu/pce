@@ -1,5 +1,5 @@
 ---
-title: Tara, cursing of 
+title: Tara, Cursing Of 
 index: false
 article: false 
 icon: article

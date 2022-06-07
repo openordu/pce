@@ -1,8 +1,8 @@
 ---
-title: fairy animals 
+title: Fairy Animals 
 index: false
 article: false 
 icon: article
 next: fairy-arrow.md
-prev: fairy-other-celtic.md
+prev: fairies.md
 ---

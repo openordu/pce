@@ -1,8 +1,8 @@
 ---
-title: Mars, Sutugius as 
+title: Mars, Sutugius As 
 index: false
 article: false 
 icon: article
-next: mars-in-interpretatio-romana.md
+next: martin.md
 prev: mars-rudiobus-as.md
 ---

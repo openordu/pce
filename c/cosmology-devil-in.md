@@ -1,8 +1,8 @@
 ---
-title: cosmology, Devil in 
+title: Cosmology, Devil In 
 index: false
 article: false 
 icon: article
-next: cosmology-otherworld-in.md
-prev: cosmology.md
+next: cosmology-directions-in.md
+prev: cosmology-death-in.md
 ---

@@ -3,6 +3,6 @@ title: Tighearnmhas
 index: false
 article: false 
 icon: article
-next: tine-ghealáin.md
+next: time.md
 prev: tigernmas.md
 ---

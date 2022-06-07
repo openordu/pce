@@ -1,8 +1,8 @@
 ---
-title: Sovereignty, Guinevere as 
+title: Sovereignty, Guinevere As 
 index: false
 article: false 
 icon: article
-next: sovereignty-iseult-as.md
-prev: sovereignty-cathleen-ni-houlihan-in.md
+next: sovereignty-hag-and.md
+prev: sovereignty-goddesses-and.md
 ---

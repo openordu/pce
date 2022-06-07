@@ -1,5 +1,5 @@
 ---
-title: Fomorians, in Mythological Cycle 
+title: Fomorians, In Mythological Cycle 
 index: false
 article: false 
 icon: article

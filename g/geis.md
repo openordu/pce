@@ -1,8 +1,8 @@
 ---
-title: geis 
+title: Geis 
 index: false
 article: false 
 icon: article
-next: geis.md
-prev: ganconer.md
+next: gelorwydd.md
+prev: gebrinius.md
 ---

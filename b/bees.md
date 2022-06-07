@@ -1,8 +1,8 @@
 ---
-title: bees 
+title: Bees 
 index: false
 article: false 
 icon: article
-next: bilberry.md
+next: belatucadros.md
 prev: beech-tree.md
 ---

@@ -1,8 +1,8 @@
 ---
-title: Mórrígan, son of 
+title: Mórrígan, Son Of 
 index: false
 article: false 
 icon: article
-next: nabelcus.md
-prev: mórrígan-ravens-and.md
+next: na-buchtogai.md
+prev: mórrígan-rhiannon-and.md
 ---

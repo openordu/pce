@@ -4,5 +4,5 @@ index: false
 article: false 
 icon: article
 next: tech-duinn.md
-prev: tarvostrigaranus.md
+prev: tattoo.md
 ---

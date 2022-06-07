@@ -1,8 +1,8 @@
 ---
-title: May bush 
+title: May Bush 
 index: false
 article: false 
 icon: article
-next: meadhbh.md
+next: maypole.md
 prev: mauthe-doog.md
 ---

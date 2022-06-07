@@ -1,5 +1,5 @@
 ---
-title: cosmology, three in 
+title: Cosmology, Three In 
 index: false
 article: false 
 icon: article

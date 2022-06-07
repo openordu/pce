@@ -1,5 +1,5 @@
 ---
-title: Irish language 
+title: Irish Language 
 index: false
 article: false 
 icon: article

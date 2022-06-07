@@ -1,5 +1,5 @@
 ---
-title: Áed, son of Eochaid Lethderg 
+title: Áed, Son Of Eochaid Lethderg 
 index: false
 article: false 
 icon: article

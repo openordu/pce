@@ -1,8 +1,8 @@
 ---
-title: witch, milk stolen by 
+title: Witch, Milk Stolen By 
 index: false
 article: false 
 icon: article
 next: witch-shape-shifting-by.md
-prev: witch-fox-and.md
+prev: witch-madgy-figgy.md
 ---

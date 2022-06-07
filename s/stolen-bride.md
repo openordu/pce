@@ -1,8 +1,8 @@
 ---
-title: stolen bride 
+title: Stolen Bride 
 index: false
 article: false 
 icon: article
-next: stone-circles.md
+next: stone.md
 prev: stoat.md
 ---

@@ -1,8 +1,8 @@
 ---
-title: external soul 
+title: External Soul 
 index: false
 article: false 
 icon: article
 next: eye.md
-prev: excarnation.md
+prev: excingiorigiatis.md
 ---

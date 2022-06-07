@@ -3,6 +3,6 @@ title: Tech Duinn
 index: false
 article: false 
 icon: article
-next: tegau-eurfron.md
+next: techduinn.md
 prev: tavy.md
 ---

@@ -1,8 +1,8 @@
 ---
-title: bull-sleep 
+title: Bull-Sleep 
 index: false
 article: false 
 icon: article
-next: bull.md
-prev: building-to-the-west.md
+next: burial-rites.md
+prev: bull.md
 ---

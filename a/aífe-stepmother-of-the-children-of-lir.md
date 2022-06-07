@@ -1,5 +1,5 @@
 ---
-title: Aífe, stepmother of the Children of Lir 
+title: Aífe, Stepmother Of The Children Of Lir 
 index: false
 article: false 
 icon: article

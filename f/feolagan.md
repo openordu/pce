@@ -1,8 +1,8 @@
 ---
-title: feolagan 
+title: Feolagan 
 index: false
 article: false 
 icon: article
-next: ferrish.md
+next: fer-í.md
 prev: fenodyree.md
 ---

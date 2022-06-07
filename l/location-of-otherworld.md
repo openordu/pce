@@ -1,8 +1,8 @@
 ---
-title: location of Otherworld 
+title: Location Of Otherworld 
 index: false
 article: false 
 icon: article
-next: lone-sod.md
+next: locha.md
 prev: lob.md
 ---

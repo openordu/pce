@@ -1,8 +1,8 @@
 ---
-title: clipping the church clootie 
+title: Clipping The Church Clootie 
 index: false
 article: false 
 icon: article
-next: clover.md
-prev: children-of.md
+next: clota.md
+prev: clauariates.md
 ---

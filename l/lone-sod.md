@@ -1,8 +1,8 @@
 ---
-title: lone sod 
+title: Lone Sod 
 index: false
 article: false 
 icon: article
-next: losses-of-the-year.md
-prev: location-of-otherworld.md
+next: long-man.md
+prev: lochlann.md
 ---

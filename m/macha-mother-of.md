@@ -1,8 +1,8 @@
 ---
-title: Macha, mother of 
+title: Macha, Mother Of 
 index: false
 article: false 
 icon: article
-next: macha-in-táin-bó-cuailnge.md
-prev: macha-mórrígan-and.md
+next: macha-mórrígan-and.md
+prev: macha-in-ulster-cycle.md
 ---

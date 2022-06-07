@@ -1,8 +1,8 @@
 ---
-title: fairy kidnapping, wakes and 
+title: Fairy Kidnapping, Wakes And 
 index: false
 article: false 
 icon: article
-next: fairy-kidnapping.md
+next: fairy-lights.md
 prev: fairy-kidnapping-pins-in.md
 ---

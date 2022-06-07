@@ -1,8 +1,8 @@
 ---
-title: dancing lights 
+title: Dancing Lights 
 index: false
 article: false 
 icon: article
-next: darkness-and-lightdark-roasleen.md
-prev: c-wn-annwn.md
+next: danu.md
+prev: dana.md
 ---

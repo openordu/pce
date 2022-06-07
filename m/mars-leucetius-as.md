@@ -1,5 +1,5 @@
 ---
-title: Mars, Leucetius as 
+title: Mars, Leucetius As 
 index: false
 article: false 
 icon: article

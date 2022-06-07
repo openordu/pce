@@ -1,8 +1,8 @@
 ---
-title: moving stones 
+title: Moving Stones 
 index: false
 article: false 
 icon: article
-next: music.md
+next: moyturra.md
 prev: mouse.md
 ---

@@ -1,8 +1,8 @@
 ---
-title: Plur na mBan 
+title: Plur Na MBan 
 index: false
 article: false 
 icon: article
-next: poisoned-glen.md
-prev: plant-annwn.md
+next: poet.md
+prev: plentinnewid.md
 ---

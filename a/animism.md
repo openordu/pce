@@ -1,8 +1,8 @@
 ---
-title: animism 
+title: Animism 
 index: false
 article: false 
 icon: article
-next: antlers.md
+next: anind.md
 prev: animals.md
 ---

@@ -1,8 +1,8 @@
 ---
-title: banais ríghe 
+title: Banais Ríghe 
 index: false
 article: false 
 icon: article
-next: bandrui.md
-prev: ball-seirc.md
+next: banba.md
+prev: ban-naemha.md
 ---

@@ -1,8 +1,8 @@
 ---
-title: cú síth 
+title: Cú Síth 
 index: false
 article: false 
 icon: article
-next: c-wn-annwn.md
-prev: cétnad.md
+next: cúchulainn.md
+prev: cú-roí.md
 ---

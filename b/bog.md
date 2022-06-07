@@ -1,8 +1,8 @@
 ---
-title: bog 
+title: Bog 
 index: false
 article: false 
 icon: article
-next: bog-people.md
-prev: bodach.md
+next: bog-of-allen.md
+prev: bodiocasses.md
 ---

@@ -1,5 +1,5 @@
 ---
-title: Diarmait Ua Duibne, geis of 
+title: Diarmait Ua Duibne, Geis Of 
 index: false
 article: false 
 icon: article

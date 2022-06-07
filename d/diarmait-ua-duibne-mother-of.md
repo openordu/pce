@@ -1,8 +1,8 @@
 ---
-title: Diarmait Ua Duibne, mother of 
+title: Diarmait Ua Duibne, Mother Of 
 index: false
 article: false 
 icon: article
-next: diarmait-mac-murchada.md
-prev: diarmait-ua-duibne-lover-of.md
+next: diarmait-ua-duibne-searbhan-and.md
+prev: diarmait-ua-duibne-midac-killed-by.md
 ---

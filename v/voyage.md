@@ -1,8 +1,8 @@
 ---
-title: voyage 
+title: Voyage 
 index: false
 article: false 
 icon: article
-next: waff.md
+next: vulgate.md
 prev: vow.md
 ---

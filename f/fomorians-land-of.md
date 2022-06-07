@@ -1,8 +1,8 @@
 ---
-title: Fomorians, land of 
+title: Fomorians, Land Of 
 index: false
 article: false 
 icon: article
-next: fomorians-on-uisneach.md
+next: fomorians-lot-of.md
 prev: fomorians-king-of.md
 ---

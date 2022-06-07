@@ -3,6 +3,6 @@ title: Fionnchú
 index: false
 article: false 
 icon: article
-next: fionntan.md
+next: fionncycle.md
 prev: fionnachta.md
 ---

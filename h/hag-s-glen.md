@@ -1,8 +1,8 @@
 ---
-title: Hag’s Glen 
+title: Hag’S Glen 
 index: false
 article: false 
 icon: article
-next: hairy-jack.md
-prev: hafgan.md
+next: hair.md
+prev: hags.md
 ---

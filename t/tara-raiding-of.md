@@ -1,8 +1,8 @@
 ---
-title: Tara, raiding of 
+title: Tara, Raiding Of 
 index: false
 article: false 
 icon: article
-next: taran.md
+next: tara-samhain-and.md
 prev: tara-queens-of.md
 ---

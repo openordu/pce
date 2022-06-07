@@ -3,6 +3,6 @@ title: Drystan
 index: false
 article: false 
 icon: article
-next: dubhthach-daol-uladh.md
+next: duality-dub.md
 prev: dryantore.md
 ---

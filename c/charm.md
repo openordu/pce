@@ -1,8 +1,8 @@
 ---
-title: charm 
+title: Charm 
 index: false
 article: false 
 icon: article
-next: children-of.md
+next: charmmaking.md
 prev: chariot.md
 ---

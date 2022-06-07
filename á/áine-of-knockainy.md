@@ -1,8 +1,8 @@
 ---
-title: Áine of Knockainy 
+title: Áine Of Knockainy 
 index: false
 article: false 
 icon: article
-next: áine-of-knockainy-manannán-mac-lir-and.md
+next: áine-of-knockainy-as-fairy-lover.md
 prev: áine-of-donegal.md
 ---

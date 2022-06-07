@@ -1,8 +1,8 @@
 ---
-title: trow 
+title: Trow 
 index: false
 article: false 
 icon: article
-next: tuath.md
+next: tryamour.md
 prev: trooping-fairies.md
 ---

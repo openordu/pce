@@ -1,8 +1,8 @@
 ---
-title: Iseult of the White Hands 
+title: Iseult Of The White Hands 
 index: false
 article: false 
 icon: article
-next: iseult.md
-prev: is.md
+next: island.md
+prev: iseult.md
 ---

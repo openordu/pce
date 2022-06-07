@@ -1,5 +1,5 @@
 ---
-title: Alisander le Orphelin 
+title: Alisander Le Orphelin 
 index: false
 article: false 
 icon: article

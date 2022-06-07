@@ -4,5 +4,5 @@ index: false
 article: false 
 icon: article
 next: uí-mhaine.md
-prev: usnach.md
+prev: uther.md
 ---

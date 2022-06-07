@@ -1,8 +1,8 @@
 ---
-title: Cúchulainn, wife of 
+title: Cúchulainn, Wife Of 
 index: false
 article: false 
 icon: article
-next: mórrígan.md
+next: cúscraidh-meann-macha.md
 prev: cúchulainn-weapon-of.md
 ---

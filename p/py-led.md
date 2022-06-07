@@ -1,8 +1,8 @@
 ---
-title: py-led 
+title: Py-Led 
 index: false
 article: false 
 icon: article
-next: péist.md
+next: pytheas.md
 prev: py.md
 ---

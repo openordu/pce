@@ -1,8 +1,8 @@
 ---
-title: fairies 
+title: Fairies 
 index: false
 article: false 
 icon: article
-next: fairy-irish.md
-prev: fachan.md
+next: fairy-animals.md
+prev: fair-unknown.md
 ---

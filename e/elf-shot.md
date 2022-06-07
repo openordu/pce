@@ -1,8 +1,8 @@
 ---
-title: elf-shot 
+title: Elf-Shot 
 index: false
 article: false 
 icon: article
-next: elm-tree.md
+next: elgnad.md
 prev: elf-locks.md
 ---

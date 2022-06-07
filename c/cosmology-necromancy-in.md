@@ -1,5 +1,5 @@
 ---
-title: cosmology, necromancy in 
+title: Cosmology, Necromancy In 
 index: false
 article: false 
 icon: article

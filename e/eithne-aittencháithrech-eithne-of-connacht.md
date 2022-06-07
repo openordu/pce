@@ -1,5 +1,5 @@
 ---
-title: Eithne Aittencháithrech Eithne of Connacht 
+title: Eithne Aittencháithrech Eithne Of Connacht 
 index: false
 article: false 
 icon: article

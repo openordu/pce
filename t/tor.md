@@ -4,5 +4,5 @@ index: false
 article: false 
 icon: article
 next: torba.md
-prev: tomás-mór.md
+prev: toot-mounds.md
 ---

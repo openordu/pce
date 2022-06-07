@@ -1,8 +1,8 @@
 ---
-title: crooker 
+title: Crooker 
 index: false
 article: false 
 icon: article
 next: crossing-water.md
-prev: crodh-mara.md
+prev: cromwell-oliver.md
 ---

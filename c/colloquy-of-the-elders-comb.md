@@ -1,5 +1,5 @@
 ---
-title: Colloquy of the Elders comb 
+title: Colloquy Of The Elders Comb 
 index: false
 article: false 
 icon: article

@@ -3,6 +3,6 @@ title: Becfhola
 index: false
 article: false 
 icon: article
-next: bedwyr.md
+next: beda.md
 prev: bec.md
 ---

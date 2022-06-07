@@ -1,8 +1,8 @@
 ---
-title: Gráinne, Godiva and 
+title: Gráinne, Godiva And 
 index: false
 article: false 
 icon: article
 next: gráinne-guinevere-and.md
-prev: gromer-somer-joure-gronw-pebyr.md
+prev: gráinne-daughter-of.md
 ---

@@ -1,8 +1,8 @@
 ---
-title: hot water 
+title: Hot Water 
 index: false
 article: false 
 icon: article
-next: human-life.md
+next: hrb.md
 prev: hostel.md
 ---

@@ -1,8 +1,8 @@
 ---
-title: treasure 
+title: Treasure 
 index: false
 article: false 
 icon: article
-next: tree-alphabet-.md
+next: tree.md
 prev: transmigration-of-souls.md
 ---

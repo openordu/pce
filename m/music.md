@@ -1,8 +1,8 @@
 ---
-title: music 
+title: Music 
 index: false
 article: false 
 icon: article
-next: mythology.md
-prev: moving-stones.md
+next: myrddin.md
+prev: murna.md
 ---

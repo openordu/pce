@@ -1,8 +1,8 @@
 ---
-title: frog 
+title: Frog 
 index: false
 article: false 
 icon: article
-next: fuath.md
-prev: framing-spell.md
+next: fráech.md
+prev: friuch.md
 ---

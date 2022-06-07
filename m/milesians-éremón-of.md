@@ -1,8 +1,8 @@
 ---
-title: Milesians, Éremón of 
+title: Milesians, Éremón Of 
 index: false
 article: false 
 icon: article
-next: milucra.md
+next: milk.md
 prev: tuatha-dé-danann.md
 ---

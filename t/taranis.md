@@ -3,6 +3,6 @@ title: Taranis
 index: false
 article: false 
 icon: article
-next: tarbhfheis.md
+next: tarans.md
 prev: taran.md
 ---

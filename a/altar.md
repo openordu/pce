@@ -1,8 +1,8 @@
 ---
-title: altar 
+title: Altar 
 index: false
 article: false 
 icon: article
-next: amphibians-reptiles-and-molluscs.md
+next: amadán.md
 prev: alp-luachra.md
 ---

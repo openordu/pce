@@ -1,8 +1,8 @@
 ---
-title: bóraimhe 
+title: Bóraimhe 
 index: false
 article: false 
 icon: article
-next: caepion.md
-prev: buttery-spirits.md
+next: búanann.md
+prev: bóinn.md
 ---

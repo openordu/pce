@@ -1,8 +1,8 @@
 ---
-title: badger 
+title: Badger 
 index: false
 article: false 
 icon: article
-next: ball-seirc.md
-prev: away.md
+next: badhbh.md
+prev: bademagu.md
 ---

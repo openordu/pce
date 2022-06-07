@@ -1,8 +1,8 @@
 ---
-title: goddesses 
+title: Goddesses 
 index: false
 article: false 
 icon: article
-next: gods.md
+next: godiva.md
 prev: goddess-king-marriage.md
 ---

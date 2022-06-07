@@ -1,8 +1,8 @@
 ---
-title: Cúchulainn, son of 
+title: Cúchulainn, Son Of 
 index: false
 article: false 
 icon: article
-next: ferdiad.md
-prev: cúchulainn-name-of.md
+next: cúchulainn-ulstermen.md
+prev: cúchulainn-orlám-killed-by.md
 ---

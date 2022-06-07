@@ -1,8 +1,8 @@
 ---
-title: Taliesin, Telgesinus as 
+title: Taliesin, Telgesinus As 
 index: false
 article: false 
 icon: article
-next: taliesin-as-bard.md
-prev: taliesin-elphin-helped-by.md
+next: taliesin-wisdom-of.md
+prev: taliesin-shape-shifting-by.md
 ---

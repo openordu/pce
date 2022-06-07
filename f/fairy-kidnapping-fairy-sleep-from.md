@@ -1,5 +1,5 @@
 ---
-title: fairy kidnapping, fairy sleep from 
+title: Fairy Kidnapping, Fairy Sleep From 
 index: false
 article: false 
 icon: article

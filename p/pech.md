@@ -1,8 +1,8 @@
 ---
-title: pech 
+title: Pech 
 index: false
 article: false 
 icon: article
-next: phantom-islands.md
-prev: pattern.md
+next: peg.md
+prev: pceltic.md
 ---

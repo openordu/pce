@@ -3,6 +3,6 @@ title: Smirgat
 index: false
 article: false 
 icon: article
-next: solomon.md
+next: smith.md
 prev: smertrius.md
 ---

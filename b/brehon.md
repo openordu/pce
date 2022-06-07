@@ -1,8 +1,8 @@
 ---
-title: brehon 
+title: Brehon 
 index: false
 article: false 
 icon: article
-next: brollachan.md
-prev: borrowing-fire.md
+next: brenhines-y-nef.md
+prev: bregon.md
 ---

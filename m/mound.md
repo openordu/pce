@@ -1,8 +1,8 @@
 ---
-title: mound 
+title: Mound 
 index: false
 article: false 
 icon: article
-next: mouse.md
+next: mountain-sunday.md
 prev: motif.md
 ---

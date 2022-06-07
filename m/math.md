@@ -3,6 +3,6 @@ title: Math
 index: false
 article: false 
 icon: article
-next: mathgen.md
+next: math-branch.md
 prev: mary-morgan.md
 ---

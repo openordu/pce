@@ -1,8 +1,8 @@
 ---
-title: bard, shape-shifting by 
+title: Bard, Shape-Shifting By 
 index: false
 article: false 
 icon: article
 next: bard-three-and.md
-prev: bard-seanachie-and.md
+prev: bard-seanchán-toirpéist-second-sight-of.md
 ---

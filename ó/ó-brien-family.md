@@ -1,5 +1,5 @@
 ---
-title: Ó Brien family 
+title: Ó Brien Family 
 index: false
 article: false 
 icon: article

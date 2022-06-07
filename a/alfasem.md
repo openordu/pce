@@ -3,6 +3,6 @@ title: Alfasem
 index: false
 article: false 
 icon: article
-next: alice-la-beale-pilgrim.md
+next: aliborix.md
 prev: alend.md
 ---

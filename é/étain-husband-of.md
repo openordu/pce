@@ -1,5 +1,5 @@
 ---
-title: Étain, husband of 
+title: Étain, Husband Of 
 index: false
 article: false 
 icon: article

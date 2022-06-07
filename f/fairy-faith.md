@@ -1,8 +1,8 @@
 ---
-title: fairy faith 
+title: Fairy Faith 
 index: false
 article: false 
 icon: article
-next: fairy-food.md
+next: fairy-flag.md
 prev: fairy-dart.md
 ---

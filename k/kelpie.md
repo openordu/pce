@@ -1,8 +1,8 @@
 ---
-title: kelpie 
+title: Kelpie 
 index: false
 article: false 
 icon: article
-next: key.md
+next: kenneth-of-the-prophecies.md
 prev: keening.md
 ---

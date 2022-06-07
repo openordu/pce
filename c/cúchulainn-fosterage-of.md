@@ -1,8 +1,8 @@
 ---
-title: Cúchulainn, fosterage of 
+title: Cúchulainn, Fosterage Of 
 index: false
 article: false 
 icon: article
-next: cúchulainn-horse-of.md
-prev: cúchulainn-father-of.md
+next: cúchulainn-fráech-killed-by.md
+prev: cúchulainn-forgall-and.md
 ---

@@ -3,6 +3,6 @@ title: Herne
 index: false
 article: false 
 icon: article
-next: herzeloyde.md
+next: hero-tales.md
 prev: hermes.md
 ---

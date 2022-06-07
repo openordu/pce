@@ -4,5 +4,5 @@ index: false
 article: false 
 icon: article
 next: alend.md
-prev: albior.md
+prev: ale.md
 ---

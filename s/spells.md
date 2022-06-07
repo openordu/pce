@@ -1,8 +1,8 @@
 ---
-title: spells 
+title: Spells 
 index: false
 article: false 
 icon: article
-next: spiral.md
+next: spenser-edmund.md
 prev: spelling.md
 ---

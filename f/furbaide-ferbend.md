@@ -4,5 +4,5 @@ index: false
 article: false 
 icon: article
 next: fursa.md
-prev: fuinche.md
+prev: funeral-rites.md
 ---

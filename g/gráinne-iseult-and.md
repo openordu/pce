@@ -1,8 +1,8 @@
 ---
-title: Gráinne, Iseult and 
+title: Gráinne, Iseult And 
 index: false
 article: false 
 icon: article
-next: gráinne-searbhan-and.md
+next: gráinne-lover-of.md
 prev: gráinne-guinevere-and.md
 ---

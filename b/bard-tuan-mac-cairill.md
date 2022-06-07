@@ -1,8 +1,8 @@
 ---
-title: bard, Tuan mac Cairill 
+title: Bard, Tuan Mac Cairill 
 index: false
 article: false 
 icon: article
-next: bard-cursing-by.md
-prev: bard-seanchán-toirpéist-second-sight-of.md
+next: barddas.md
+prev: bard-three-and.md
 ---

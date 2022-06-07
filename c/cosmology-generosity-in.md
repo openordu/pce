@@ -1,5 +1,5 @@
 ---
-title: cosmology, generosity in 
+title: Cosmology, Generosity In 
 index: false
 article: false 
 icon: article

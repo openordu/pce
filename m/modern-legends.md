@@ -1,8 +1,8 @@
 ---
-title: modern legends 
+title: Modern Legends 
 index: false
 article: false 
 icon: article
-next: monster.md
-prev: mistletoe.md
+next: modron.md
+prev: modena-archivolt.md
 ---

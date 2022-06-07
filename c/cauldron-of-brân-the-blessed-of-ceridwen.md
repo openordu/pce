@@ -1,5 +1,5 @@
 ---
-title: cauldron of Brân the Blessed of Ceridwen 
+title: Cauldron Of Brân The Blessed Of Ceridwen 
 index: false
 article: false 
 icon: article

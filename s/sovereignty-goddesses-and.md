@@ -1,8 +1,8 @@
 ---
-title: Sovereignty, goddesses and 
+title: Sovereignty, Goddesses And 
 index: false
 article: false 
 icon: article
-next: sovereignty-hag-and.md
+next: sovereignty-guinevere-as.md
 prev: sovereignty-geis-and.md
 ---

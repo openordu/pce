@@ -1,8 +1,8 @@
 ---
-title: rushes 
+title: Rushes 
 index: false
 article: false 
 icon: article
-next: rí.md
+next: ruturugus.md
 prev: rune.md
 ---

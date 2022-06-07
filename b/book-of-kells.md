@@ -1,8 +1,8 @@
 ---
-title: Book of Kells 
+title: Book Of Kells 
 index: false
 article: false 
 icon: article
-next: bors-de-ganis.md
+next: borrowed-days.md
 prev: book-of-invasions.md
 ---

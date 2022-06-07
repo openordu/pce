@@ -1,8 +1,8 @@
 ---
-title: Fianna, Fergus in 
+title: Fianna, Fergus In 
 index: false
 article: false 
 icon: article
-next: fianna-irnan-and.md
+next: fianna-in-fenian-cycle.md
 prev: fianna-dáire-in.md
 ---

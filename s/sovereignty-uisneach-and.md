@@ -1,8 +1,8 @@
 ---
-title: Sovereignty, Uisneach and 
+title: Sovereignty, Uisneach And 
 index: false
 article: false 
 icon: article
-next: sovereignty-agricultural-rituals-in-ale-as-symbol-of.md
-prev: sovereignty-sheela-na-gig-as.md
+next: sow.md
+prev: sovereignty-three-and.md
 ---

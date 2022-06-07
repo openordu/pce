@@ -1,8 +1,8 @@
 ---
-title: Cailleach, eye of 
+title: Cailleach, Eye Of 
 index: false
 article: false 
 icon: article
 next: cailleach-in-creation.md
-prev: cailleach-as-hag.md
+prev: cailleach-echthge-and.md
 ---

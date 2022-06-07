@@ -1,8 +1,8 @@
 ---
-title: Beltane, Strid on 
+title: Beltane, Strid On 
 index: false
 article: false 
 icon: article
-next: beltane-agricultural-aspect-of-ash-tree-and.md
+next: beltane-thinness-on.md
 prev: beltane-robin-hood-and.md
 ---

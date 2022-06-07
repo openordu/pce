@@ -4,5 +4,5 @@ index: false
 article: false 
 icon: article
 next: raghallach.md
-prev: q-celtic.md
+prev: quintessence.md
 ---

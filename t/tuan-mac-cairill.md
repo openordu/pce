@@ -1,8 +1,8 @@
 ---
-title: Tuan mac Cairill 
+title: Tuan Mac Cairill 
 index: false
 article: false 
 icon: article
-next: tuatha-dé-danann.md
+next: tuath.md
 prev: tuairisgeal.md
 ---

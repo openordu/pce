@@ -1,8 +1,8 @@
 ---
-title: heaven 
+title: Heaven 
 index: false
 article: false 
 icon: article
-next: herbs.md
-prev: heather.md
+next: heavenlybodies.md
+prev: heathrow.md
 ---

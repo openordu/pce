@@ -1,8 +1,8 @@
 ---
-title: Tuatha Dé Danann, druid’s fog received by 
+title: Tuatha Dé Danann, Druid’S Fog Received By 
 index: false
 article: false 
 icon: article
-next: tuatha-dé-danann-in-book-of-invasions.md
-prev: tuatha-dé-danann-cities-of.md
+next: tuatha-dé-danann-dôn-and.md
+prev: tuatha-dé-danann-dian-cécht-of.md
 ---

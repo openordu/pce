@@ -1,8 +1,8 @@
 ---
-title: iron 
+title: Iron 
 index: false
 article: false 
 icon: article
-next: island.md
-prev: iorasglach.md
+next: is.md
+prev: irnan.md
 ---

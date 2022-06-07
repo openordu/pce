@@ -1,8 +1,8 @@
 ---
-title: fairy lover, ganconer 
+title: Fairy Lover, Ganconer 
 index: false
 article: false 
 icon: article
-next: fairy-lover-of-launfal.md
+next: fairy-lover-morgan-as.md
 prev: fairy-lover-fairy-kidnapping-by.md
 ---

@@ -1,8 +1,8 @@
 ---
-title: thistle 
+title: Thistle 
 index: false
 article: false 
 icon: article
-next: thorn-tree.md
-prev: thinness.md
+next: thiten.md
+prev: thirteen-treasures-of-britain.md
 ---

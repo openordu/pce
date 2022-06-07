@@ -1,8 +1,8 @@
 ---
-title: péist 
+title: Péist 
 index: false
 article: false 
 icon: article
-next: questing-beast.md
-prev: py-led.md
+next: q-celtic.md
+prev: pytheas.md
 ---

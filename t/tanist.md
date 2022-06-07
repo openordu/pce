@@ -1,8 +1,8 @@
 ---
-title: tanist 
+title: Tanist 
 index: false
 article: false 
 icon: article
-next: tarans.md
+next: tara.md
 prev: tangie.md
 ---

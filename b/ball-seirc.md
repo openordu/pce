@@ -1,8 +1,8 @@
 ---
-title: ball seirc 
+title: Ball Seirc 
 index: false
 article: false 
 icon: article
-next: banais-ríghe.md
-prev: badger.md
+next: ballymote.md
+prev: balin.md
 ---

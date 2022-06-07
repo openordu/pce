@@ -1,5 +1,5 @@
 ---
-title: cosmology, reincarnation in 
+title: Cosmology, Reincarnation In 
 index: false
 article: false 
 icon: article

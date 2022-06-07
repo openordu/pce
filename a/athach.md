@@ -1,8 +1,8 @@
 ---
-title: athach 
+title: Athach 
 index: false
 article: false 
 icon: article
-next: autumn-equinox.md
-prev: astrology.md
+next: atrebates.md
+prev: atesmerta-atesmerius.md
 ---

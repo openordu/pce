@@ -4,5 +4,5 @@ index: false
 article: false 
 icon: article
 next: brân-the-blessed.md
-prev: bruno.md
+prev: brutus.md
 ---

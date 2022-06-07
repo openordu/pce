@@ -1,8 +1,8 @@
 ---
-title: boat 
+title: Boat 
 index: false
 article: false 
 icon: article
-next: bodach.md
+next: bochtóg.md
 prev: boar.md
 ---

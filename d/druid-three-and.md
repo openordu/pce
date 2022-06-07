@@ -1,8 +1,8 @@
 ---
-title: druid, three and 
+title: Druid, Three And 
 index: false
 article: false 
 icon: article
-next: druids-druidesses.md
+next: druidegg.md
 prev: druid-shape-shifting-by.md
 ---

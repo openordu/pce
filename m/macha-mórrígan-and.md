@@ -1,8 +1,8 @@
 ---
-title: Macha, Mórrígan and 
+title: Macha, Mórrígan And 
 index: false
 article: false 
 icon: article
-next: macha-mother-of.md
-prev: macha-husband-of.md
+next: macpherson.md
+prev: macha-mother-of.md
 ---

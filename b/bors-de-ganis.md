@@ -1,8 +1,8 @@
 ---
-title: Bors de Ganis 
+title: Bors De Ganis 
 index: false
 article: false 
 icon: article
 next: borvo.md
-prev: book-of-kells.md
+prev: borrowing-fire.md
 ---

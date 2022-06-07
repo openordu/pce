@@ -1,8 +1,8 @@
 ---
-title: gentry 
+title: Gentry 
 index: false
 article: false 
 icon: article
-next: ghost.md
-prev: genius-loci.md
+next: geodruisge.md
+prev: gentle-annie.md
 ---

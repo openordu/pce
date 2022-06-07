@@ -1,8 +1,8 @@
 ---
-title: William of Orange 
+title: William Of Orange 
 index: false
 article: false 
 icon: article
-next: winefride.md
-prev: wild-hunt.md
+next: willjack.md
+prev: wildhunt.md
 ---

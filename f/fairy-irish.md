@@ -1,8 +1,8 @@
 ---
-title: fairy, Irish 
+title: Fairy, Irish 
 index: false
 article: false 
 icon: article
-next: fairy-faery.md
-prev: fairies.md
+next: fairy-iron-feared-by.md
+prev: fairy-in-dreams.md
 ---

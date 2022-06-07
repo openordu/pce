@@ -1,8 +1,8 @@
 ---
-title: herbs 
+title: Herbs 
 index: false
 article: false 
 icon: article
-next: hero-tales.md
-prev: heaven.md
+next: hercules.md
+prev: henwen.md
 ---

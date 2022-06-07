@@ -1,8 +1,8 @@
 ---
-title: dunter 
+title: Dunter 
 index: false
 article: false 
 icon: article
-next: dwarf.md
+next: durgan.md
 prev: dunnie.md
 ---

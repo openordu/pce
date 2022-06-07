@@ -1,8 +1,8 @@
 ---
-title: political lore 
+title: Political Lore 
 index: false
 article: false 
 icon: article
 next: polytheism.md
-prev: poet-s-circuit.md
+prev: poisoned-glen.md
 ---

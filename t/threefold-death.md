@@ -1,8 +1,8 @@
 ---
-title: threefold death 
+title: Threefold Death 
 index: false
 article: false 
 icon: article
-next: time.md
-prev: three.md
+next: tiddy-mun.md
+prev: three-splendid-women.md
 ---

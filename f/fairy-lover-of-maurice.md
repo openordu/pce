@@ -1,5 +1,5 @@
 ---
-title: fairy lover, of Maurice 
+title: Fairy Lover, Of Maurice 
 index: false
 article: false 
 icon: article

@@ -1,5 +1,5 @@
 ---
-title: Devil’s Father 
+title: Devil’S Father 
 index: false
 article: false 
 icon: article

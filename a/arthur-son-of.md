@@ -1,5 +1,5 @@
 ---
-title: Arthur, son of 
+title: Arthur, Son Of 
 index: false
 article: false 
 icon: article

@@ -1,8 +1,8 @@
 ---
-title: rebirth 
+title: Rebirth 
 index: false
 article: false 
 icon: article
-next: red-handed-king.md
+next: red-book-of-hergst.md
 prev: raven.md
 ---

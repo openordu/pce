@@ -1,5 +1,5 @@
 ---
-title: Diarmaid ua Duibhne 
+title: Diarmaid Ua Duibhne 
 index: false
 article: false 
 icon: article

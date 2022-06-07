@@ -1,8 +1,8 @@
 ---
-title: hair 
+title: Hair 
 index: false
 article: false 
 icon: article
-next: hammer.md
-prev: hags.md
+next: hairy-jack.md
+prev: hag-s-glen.md
 ---

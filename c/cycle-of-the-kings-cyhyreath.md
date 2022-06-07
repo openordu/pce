@@ -1,8 +1,8 @@
 ---
-title: Cycle of the Kings Cyhyreath 
+title: Cycle Of The Kings Cyhyreath 
 index: false
 article: false 
 icon: article
-next: cymon.md
-prev: custennin.md
+next: cyclekings.md
+prev: cwnannwn.md
 ---

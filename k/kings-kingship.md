@@ -1,8 +1,8 @@
 ---
-title: kings/kingship 
+title: Kings/Kingship 
 index: false
 article: false 
 icon: article
 next: kingship.md
-prev: killeen.md
+prev: kings-cycle-of-the.md
 ---

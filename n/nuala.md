@@ -3,6 +3,6 @@ title: Nuala
 index: false
 article: false 
 icon: article
-next: nudd.md
+next: nuckelavee.md
 prev: nuadhu.md
 ---

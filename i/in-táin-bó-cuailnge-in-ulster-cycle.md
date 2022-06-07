@@ -1,8 +1,8 @@
 ---
-title: in Táin bó Cuailnge in Ulster Cycle 
+title: In Táin Bó Cuailnge In Ulster Cycle 
 index: false
 article: false 
 icon: article
-next: inauguration-stones.md
+next: inauguration.md
 prev: imram.md
 ---

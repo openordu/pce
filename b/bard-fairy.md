@@ -1,5 +1,5 @@
 ---
-title: bard, fairy 
+title: Bard, Fairy 
 index: false
 article: false 
 icon: article

@@ -1,8 +1,8 @@
 ---
-title: Brigit, hson of 
+title: Brigit, Hson Of 
 index: false
 article: false 
 icon: article
-next: brigit-puppet-of.md
-prev: brigit-fire-of.md
+next: brigit-imbolc-and.md
+prev: brigit-glas-ghaibhleann-and.md
 ---

@@ -1,5 +1,5 @@
 ---
-title: Goll mac Morna grandfather of 
+title: Goll Mac Morna Grandfather Of 
 index: false
 article: false 
 icon: article

@@ -3,6 +3,6 @@ title: Aristotle
 index: false
 article: false 
 icon: article
-next: armorica.md
+next: armagh.md
 prev: arianrhod.md
 ---

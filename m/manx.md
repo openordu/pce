@@ -4,5 +4,5 @@ index: false
 article: false 
 icon: article
 next: maodhóg.md
-prev: manching.md
+prev: manteis.md
 ---

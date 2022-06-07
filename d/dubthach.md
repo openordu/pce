@@ -3,6 +3,6 @@ title: Dubthach
 index: false
 article: false 
 icon: article
-next: duibne.md
-prev: dubinn.md
+next: duck.md
+prev: dubnocaratiacus.md
 ---

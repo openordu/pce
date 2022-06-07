@@ -1,5 +1,5 @@
 ---
-title: Fir Bolg, defeat of 
+title: Fir Bolg, Defeat Of 
 index: false
 article: false 
 icon: article

@@ -3,6 +3,6 @@ title: Giona
 index: false
 article: false 
 icon: article
-next: glanlua.md
+next: glamour.md
 prev: gillian.md
 ---

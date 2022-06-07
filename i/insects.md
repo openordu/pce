@@ -1,8 +1,8 @@
 ---
-title: insects 
+title: Insects 
 index: false
 article: false 
 icon: article
-next: intocation.md
+next: intarabus.md
 prev: inscriptions.md
 ---

@@ -1,8 +1,8 @@
 ---
-title: Alice la Beale Pilgrim 
+title: Alice La Beale Pilgrim 
 index: false
 article: false 
 icon: article
 next: alisander-le-orphelin.md
-prev: alfasem.md
+prev: aliborix.md
 ---

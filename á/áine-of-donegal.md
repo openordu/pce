@@ -1,5 +1,5 @@
 ---
-title: Áine of Donegal 
+title: Áine Of Donegal 
 index: false
 article: false 
 icon: article

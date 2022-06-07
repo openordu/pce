@@ -1,8 +1,8 @@
 ---
-title: thinness 
+title: Thinness 
 index: false
 article: false 
 icon: article
-next: thistle.md
-prev: temple.md
+next: thirteen-treasures-of-britain.md
+prev: thincsus.md
 ---

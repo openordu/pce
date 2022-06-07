@@ -1,8 +1,8 @@
 ---
-title: toot mounds 
+title: Toot Mounds 
 index: false
 article: false 
 icon: article
-next: torc-torque.md
-prev: toili.md
+next: tor.md
+prev: tomás-mór.md
 ---

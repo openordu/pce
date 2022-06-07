@@ -1,8 +1,8 @@
 ---
-title: quintessence 
+title: Quintessence 
 index: false
 article: false 
 icon: article
-next: rainbow.md
+next: ragallach.md
 prev: questing-beast.md
 ---

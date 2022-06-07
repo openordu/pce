@@ -1,8 +1,8 @@
 ---
-title: coins 
+title: Coins 
 index: false
 article: false 
 icon: article
-next: cornucopia.md
-prev: cohuleen-druith.md
+next: colgrevance.md
+prev: coinchenn.md
 ---

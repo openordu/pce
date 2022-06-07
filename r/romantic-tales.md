@@ -1,8 +1,8 @@
 ---
-title: romantic tales 
+title: Romantic Tales 
 index: false
 article: false 
 icon: article
-next: rose.md
-prev: river.md
+next: ronán.md
+prev: romano-celtic.md
 ---

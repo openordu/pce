@@ -3,6 +3,6 @@ title: Hafgan
 index: false
 article: false 
 icon: article
-next: hag-s-glen.md
+next: hag.md
 prev: habondia.md
 ---

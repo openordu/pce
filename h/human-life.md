@@ -1,8 +1,8 @@
 ---
-title: human life 
+title: Human Life 
 index: false
 article: false 
 icon: article
 next: human-sacrifice-v-.md
-prev: hot-water.md
+prev: hulac-warren.md
 ---

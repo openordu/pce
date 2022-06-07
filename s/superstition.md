@@ -1,8 +1,8 @@
 ---
-title: superstition 
+title: Superstition 
 index: false
 article: false 
 icon: article
-next: swallow.md
+next: survivors.md
 prev: sun-cosmological-concept.md
 ---

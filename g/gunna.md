@@ -1,8 +1,8 @@
 ---
-title: gunna 
+title: Gunna 
 index: false
 article: false 
 icon: article
-next: guytrash.md
-prev: guee.md
+next: gutuater.md
+prev: gundestrupcauldron.md
 ---

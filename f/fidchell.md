@@ -1,8 +1,8 @@
 ---
-title: fidchell 
+title: Fidchell 
 index: false
 article: false 
 icon: article
-next: fifth-province.md
-prev: festival.md
+next: fideal.md
+prev: sgeimh-soluis.md
 ---

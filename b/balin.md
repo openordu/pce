@@ -3,6 +3,6 @@ title: Balin
 index: false
 article: false 
 icon: article
-next: balor.md
+next: ball-seirc.md
 prev: balar.md
 ---

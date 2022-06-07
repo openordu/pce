@@ -1,8 +1,8 @@
 ---
-title: antlers 
+title: Antlers 
 index: false
 article: false 
 icon: article
-next: apple.md
-prev: animism.md
+next: anu.md
+prev: antenociticus.md
 ---

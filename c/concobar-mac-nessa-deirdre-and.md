@@ -1,8 +1,8 @@
 ---
-title: Concobar mac Nessa, Deirdre and 
+title: Concobar Mac Nessa, Deirdre And 
 index: false
 article: false 
 icon: article
-next: concobar-mac-nessa-maine-and.md
-prev: concobar-mac-nessa-cúchulainn-fostered-by.md
+next: concobar-mac-nessa-fool-of.md
+prev: concobar-mac-nessa-death-of.md
 ---

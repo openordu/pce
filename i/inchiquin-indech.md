@@ -3,6 +3,6 @@ title: Inchiquin Indech
 index: false
 article: false 
 icon: article
-next: inghean-bhuidhe.md
+next: independent.md
 prev: inchiquin.md
 ---

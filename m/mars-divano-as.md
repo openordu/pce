@@ -1,8 +1,8 @@
 ---
-title: Mars, Divano as 
+title: Mars, Divano As 
 index: false
 article: false 
 icon: article
-next: mars-intarabus-as.md
+next: mars-in-interpretatio-romana.md
 prev: mars-dinomogetimarus-as.md
 ---

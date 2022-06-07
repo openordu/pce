@@ -1,5 +1,5 @@
 ---
-title: Tuatha Dé Danann, in Mythological Cycle 
+title: Tuatha Dé Danann, In Mythological Cycle 
 index: false
 article: false 
 icon: article

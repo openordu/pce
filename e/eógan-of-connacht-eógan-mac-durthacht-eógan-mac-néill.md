@@ -1,5 +1,5 @@
 ---
-title: Eógan of Connacht Eógan mac Durthacht Eógan mac Néill 
+title: Eógan Of Connacht Eógan Mac Durthacht Eógan Mac Néill 
 index: false
 article: false 
 icon: article

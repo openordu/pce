@@ -1,8 +1,8 @@
 ---
-title: amphibians, reptiles and molluscs 
+title: Amphibians, Reptiles And Molluscs 
 index: false
 article: false 
 icon: article
-next: amulet.md
-prev: altar.md
+next: amr.md
+prev: amhairghin-mac-éigit-salaigh.md
 ---

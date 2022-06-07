@@ -1,8 +1,8 @@
 ---
-title: teinm laeda 
+title: Teinm Laeda 
 index: false
 article: false 
 icon: article
-next: temple.md
-prev: tattoo.md
+next: teinmlaida.md
+prev: tegid-voel.md
 ---

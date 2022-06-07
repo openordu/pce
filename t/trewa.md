@@ -3,6 +3,6 @@ title: Trewa
 index: false
 article: false 
 icon: article
-next: triads.md
+next: triad.md
 prev: trenfher.md
 ---

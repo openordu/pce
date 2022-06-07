@@ -3,6 +3,6 @@ title: Aveta
 index: false
 article: false 
 icon: article
-next: aí.md
+next: away.md
 prev: avenable.md
 ---

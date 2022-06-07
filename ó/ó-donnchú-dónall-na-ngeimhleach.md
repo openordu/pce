@@ -1,5 +1,5 @@
 ---
-title: Ó Donnchú, Dónall Na nGeimhleach 
+title: Ó Donnchú, Dónall Na NGeimhleach 
 index: false
 article: false 
 icon: article

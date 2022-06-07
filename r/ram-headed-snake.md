@@ -1,8 +1,8 @@
 ---
-title: ram-headed snake 
+title: Ram-Headed Snake 
 index: false
 article: false 
 icon: article
 next: rat.md
-prev: rainbow.md
+prev: raithe.md
 ---

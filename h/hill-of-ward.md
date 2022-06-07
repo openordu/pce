@@ -1,8 +1,8 @@
 ---
-title: Hill of Ward 
+title: Hill Of Ward 
 index: false
 article: false 
 icon: article
-next: hogmany.md
+next: historia.md
 prev: hill-of-uisneach.md
 ---

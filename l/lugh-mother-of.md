@@ -1,8 +1,8 @@
 ---
-title: Lugh, mother of 
+title: Lugh, Mother Of 
 index: false
 article: false 
 icon: article
-next: lugh-uncle-of.md
-prev: lugh-leprechaun-and.md
+next: lugh-ocean-sweeper-and-on-uisneach.md
+prev: lugh-lugos-and.md
 ---

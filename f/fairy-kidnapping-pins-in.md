@@ -1,5 +1,5 @@
 ---
-title: fairy kidnapping, pins in 
+title: Fairy Kidnapping, Pins In 
 index: false
 article: false 
 icon: article

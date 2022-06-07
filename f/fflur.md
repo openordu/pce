@@ -4,5 +4,5 @@ index: false
 article: false 
 icon: article
 next: fiacclach-mac-conchinn-fiachna.md
-prev: fergus-mac-róich.md
+prev: fferyllt.md
 ---

@@ -3,6 +3,6 @@ title: Dáire Derg
 index: false
 article: false 
 icon: article
-next: dáire-of-the-poems.md
+next: dáire-mac-dedad.md
 prev: dáire.md
 ---

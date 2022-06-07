@@ -1,8 +1,8 @@
 ---
-title: duality Dub 
+title: Duality Dub 
 index: false
 article: false 
 icon: article
-next: duck.md
-prev: druineach.md
+next: dubhthach-daol-uladh.md
+prev: drystan.md
 ---

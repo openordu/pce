@@ -1,8 +1,8 @@
 ---
-title: Fothad Canainne four 
+title: Fothad Canainne Four 
 index: false
 article: false 
 icon: article
 next: fothadh-canainne.md
-prev: fortunate-isles.md
+prev: fosterage.md
 ---

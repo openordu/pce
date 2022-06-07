@@ -3,6 +3,6 @@ title: Nodens
 index: false
 article: false 
 icon: article
-next: noine.md
+next: noggle.md
 prev: nimue-nisien.md
 ---

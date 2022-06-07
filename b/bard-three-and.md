@@ -1,8 +1,8 @@
 ---
-title: bard, three and 
+title: Bard, Three And 
 index: false
 article: false 
 icon: article
-next: barguest.md
+next: bard-tuan-mac-cairill.md
 prev: bard-shape-shifting-by.md
 ---

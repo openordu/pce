@@ -1,8 +1,8 @@
 ---
-title: de Courcy, John 
+title: De Courcy, John 
 index: false
 article: false 
 icon: article
-next: dead-hand.md
-prev: darkness-and-lightdark-roasleen.md
+next: dea-nutr.md
+prev: davy-jones.md
 ---

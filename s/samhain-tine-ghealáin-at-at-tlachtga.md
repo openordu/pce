@@ -1,8 +1,8 @@
 ---
-title: Samhain, Tine Ghealáin at at Tlachtga 
+title: Samhain, Tine Ghealáin At At Tlachtga 
 index: false
 article: false 
 icon: article
-next: samhain-agricultural-aspect-of-ale-and.md
-prev: samhain-shoney-on.md
+next: samhain-wakes-and.md
+prev: samhain-thinness-on.md
 ---

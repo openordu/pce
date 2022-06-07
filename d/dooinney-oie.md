@@ -1,8 +1,8 @@
 ---
-title: dooinney-oie 
+title: Dooinney-Oie 
 index: false
 article: false 
 icon: article
-next: dragon.md
-prev: donkeys.md
+next: dornoll.md
+prev: donnelly-dan.md
 ---

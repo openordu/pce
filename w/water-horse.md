@@ -1,5 +1,5 @@
 ---
-title: water horse 
+title: Water Horse 
 index: false
 article: false 
 icon: article

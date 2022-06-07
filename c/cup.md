@@ -1,8 +1,8 @@
 ---
-title: cup 
+title: Cup 
 index: false
 article: false 
 icon: article
 next: curad-mír.md
-prev: cumhal.md
+prev: cunomaglus.md
 ---

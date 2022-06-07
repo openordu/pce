@@ -3,6 +3,6 @@ title: Uisneach
 index: false
 article: false 
 icon: article
-next: ulaidh.md
+next: uisucius.md
 prev: uirne.md
 ---

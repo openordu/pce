@@ -1,8 +1,8 @@
 ---
-title: fairy, other Celtic 
+title: Fairy, Other Celtic 
 index: false
 article: false 
 icon: article
-next: fairy-animals.md
-prev: fairy-faery.md
+next: fairy-protection-against.md
+prev: fairy-origin-of.md
 ---

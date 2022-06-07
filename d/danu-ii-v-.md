@@ -1,8 +1,8 @@
 ---
-title: Danu ii, v,   
+title: Danu Ii, V,   
 index: false
 article: false 
 icon: article
-next: daoine-sídhe.md
+next: danube.md
 prev: danu.md
 ---

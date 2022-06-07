@@ -1,8 +1,8 @@
 ---
-title: widdershins 
+title: Widdershins 
 index: false
 article: false 
 icon: article
-next: wild-animals.md
+next: widow.md
 prev: wicker-man.md
 ---

@@ -1,8 +1,8 @@
 ---
-title: Sovereignty, Niall and 
+title: Sovereignty, Niall And 
 index: false
 article: false 
 icon: article
-next: sovereignty-ragnell-as.md
+next: sovereignty-polytheism-and.md
 prev: sovereignty-mórrígan-as.md
 ---

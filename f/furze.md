@@ -1,8 +1,8 @@
 ---
-title: furze 
+title: Furze 
 index: false
 article: false 
 icon: article
-next: féis.md
-prev: funeral-rites.md
+next: fuwch-laethwen-lefrith.md
+prev: fursa.md
 ---

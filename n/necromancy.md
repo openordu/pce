@@ -1,8 +1,8 @@
 ---
-title: necromancy 
+title: Necromancy 
 index: false
 article: false 
 icon: article
-next: need-fire.md
-prev: names-for-the-fairies-.md
+next: necthan-scéne.md
+prev: nechtanebus.md
 ---

@@ -1,8 +1,8 @@
 ---
-title: Intocation of the Ulstermen 
+title: Intocation Of The Ulstermen 
 index: false
 article: false 
 icon: article
-next: iollann-airmdhearg.md
-prev: interpretatio-romana.md
+next: invasions.md
+prev: intocation.md
 ---

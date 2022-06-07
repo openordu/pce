@@ -1,8 +1,8 @@
 ---
-title: Táin bó Cuialnge, loss of 
+title: Táin Bó Cuialnge, Loss Of 
 index: false
 article: false 
 icon: article
-next: táin-bó-cuialnge.md
-prev: táin-bó-cuialnge-sualtaim-mac-roich-in.md
+next: táin-bó-cuialnge-medb-in.md
+prev: táin-bó-cuialnge-fráech-in.md
 ---

@@ -1,8 +1,8 @@
 ---
-title: thorn tree 
+title: Thorn Tree 
 index: false
 article: false 
 icon: article
 next: three.md
-prev: thistle.md
+prev: thomas-the-rhymer.md
 ---

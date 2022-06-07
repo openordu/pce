@@ -1,8 +1,8 @@
 ---
-title: Medb, Cruachan and 
+title: Medb, Cruachan And 
 index: false
 article: false 
 icon: article
-next: medb-ferdiad-and.md
-prev: medb-cailitin-and.md
+next: medb-daughter-of.md
+prev: medb-consort-of.md
 ---

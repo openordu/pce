@@ -1,8 +1,8 @@
 ---
-title: Brenhines-y-Nef 
+title: Brenhines-Y-Nef 
 index: false
 article: false 
 icon: article
-next: brennius.md
-prev: bregon.md
+next: breninllwyd.md
+prev: brehon.md
 ---

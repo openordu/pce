@@ -1,8 +1,8 @@
 ---
-title: tyrants 
+title: Tyrants 
 index: false
 article: false 
 icon: article
-next: urine.md
-prev: tylwyth-teg.md
+next: tyronoe.md
+prev: tylwythteg.md
 ---

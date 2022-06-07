@@ -1,8 +1,8 @@
 ---
-title: klippe 
+title: Klippe 
 index: false
 article: false 
 icon: article
-next: knitting.md
+next: knight-of-the-glen.md
 prev: kingship.md
 ---

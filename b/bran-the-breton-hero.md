@@ -1,8 +1,8 @@
 ---
-title: Bran, the Breton hero 
+title: Bran, The Breton Hero 
 index: false
 article: false 
 icon: article
 next: brandubh.md
-prev: bran-mac-febail.md
+prev: bran-hunting-hound.md
 ---

@@ -3,6 +3,6 @@ title: Gebrinius
 index: false
 article: false 
 icon: article
-next: gelorwydd.md
+next: geis.md
 prev: gebann.md
 ---

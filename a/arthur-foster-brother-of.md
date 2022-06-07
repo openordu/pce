@@ -1,5 +1,5 @@
 ---
-title: Arthur, foster brother of 
+title: Arthur, Foster Brother Of 
 index: false
 article: false 
 icon: article

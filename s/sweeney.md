@@ -4,5 +4,5 @@ index: false
 article: false 
 icon: article
 next: swift-jonathan.md
-prev: sutugius.md
+prev: swarth.md
 ---

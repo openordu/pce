@@ -1,8 +1,8 @@
 ---
-title: Mórrígan, Rhiannon and 
+title: Mórrígan, Rhiannon And 
 index: false
 article: false 
 icon: article
-next: mórrígan-as-washer-at-the-ford.md
-prev: mórrígan-oweynagat-and.md
+next: mórrígan-son-of.md
+prev: mórrígan-ravens-and.md
 ---

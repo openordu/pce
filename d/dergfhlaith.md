@@ -1,8 +1,8 @@
 ---
-title: dergfhlaith 
+title: Dergfhlaith 
 index: false
 article: false 
 icon: article
-next: destruction.md
-prev: derbfine.md
+next: derravaragh.md
+prev: derbforgaill.md
 ---

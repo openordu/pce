@@ -1,8 +1,8 @@
 ---
-title: Lugh, father of 
+title: Lugh, Father Of 
 index: false
 article: false 
 icon: article
-next: lugh-in-mythological-cycle.md
+next: lugh-glas-ghaibhleann-and.md
 prev: lugh-dog-of.md
 ---

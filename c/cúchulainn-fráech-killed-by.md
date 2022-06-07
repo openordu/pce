@@ -1,8 +1,8 @@
 ---
-title: Cúchulainn, Fráech killed by 
+title: Cúchulainn, Fráech Killed By 
 index: false
 article: false 
 icon: article
-next: cúchulainn-medb-and.md
-prev: cúchulainn-forgall-and.md
+next: cúchulainn-horse-of.md
+prev: cúchulainn-fosterage-of.md
 ---

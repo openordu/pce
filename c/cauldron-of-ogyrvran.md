@@ -1,5 +1,5 @@
 ---
-title: cauldron of Ogyrvran 
+title: Cauldron Of Ogyrvran 
 index: false
 article: false 
 icon: article

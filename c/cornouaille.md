@@ -3,6 +3,6 @@ title: Cornouaille
 index: false
 article: false 
 icon: article
-next: corotiacus.md
+next: cornucopia.md
 prev: cornish.md
 ---

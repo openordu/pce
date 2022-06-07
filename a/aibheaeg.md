@@ -3,6 +3,6 @@ title: Aibheaeg
 index: false
 article: false 
 icon: article
-next: aidín.md
-prev: aguigrenons.md
+next: aided.md
+prev: aiats.md
 ---

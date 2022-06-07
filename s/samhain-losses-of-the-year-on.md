@@ -1,5 +1,5 @@
 ---
-title: Samhain, losses of the year on 
+title: Samhain, Losses Of The Year On 
 index: false
 article: false 
 icon: article

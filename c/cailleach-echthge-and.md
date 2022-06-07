@@ -1,8 +1,8 @@
 ---
-title: Cailleach, Echthge and 
+title: Cailleach, Echthge And 
 index: false
 article: false 
 icon: article
-next: cailleach-latiaran-and.md
+next: cailleach-eye-of.md
 prev: cailleach-dòideag-and.md
 ---

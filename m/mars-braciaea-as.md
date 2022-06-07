@@ -1,5 +1,5 @@
 ---
-title: Mars, Braciaea as 
+title: Mars, Braciaea As 
 index: false
 article: false 
 icon: article

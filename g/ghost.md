@@ -1,8 +1,8 @@
 ---
-title: ghost 
+title: Ghost 
 index: false
 article: false 
 icon: article
 next: ghosts.md
-prev: gentry.md
+prev: geróid-iarla.md
 ---

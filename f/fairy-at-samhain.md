@@ -1,5 +1,5 @@
 ---
-title: fairy, at Samhain 
+title: Fairy, At Samhain 
 index: false
 article: false 
 icon: article

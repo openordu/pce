@@ -1,8 +1,8 @@
 ---
-title: Samhain, Shoney on 
+title: Samhain, Shoney On 
 index: false
 article: false 
 icon: article
-next: samhain-tine-ghealáin-at-at-tlachtga.md
-prev: samhain-otherworld-on.md
+next: samhain-thinness-on.md
+prev: samhain-pooka-and.md
 ---

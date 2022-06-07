@@ -1,5 +1,5 @@
 ---
-title: divination through letters 
+title: Divination Through Letters 
 index: false
 article: false 
 icon: article

@@ -1,8 +1,8 @@
 ---
-title: dreams 
+title: Dreams 
 index: false
 article: false 
 icon: article
-next: druid.md
+next: dreco.md
 prev: dragon.md
 ---

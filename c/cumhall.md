@@ -4,5 +4,5 @@ index: false
 article: false 
 icon: article
 next: cunedda.md
-prev: cumaine-fada.md
+prev: cumhal.md
 ---

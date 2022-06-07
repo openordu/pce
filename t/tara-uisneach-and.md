@@ -1,8 +1,8 @@
 ---
-title: Tara, Uisneach and 
+title: Tara, Uisneach And 
 index: false
 article: false 
 icon: article
-next: tara-burning-of.md
+next: taran.md
 prev: tara-samhain-and.md
 ---

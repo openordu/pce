@@ -1,8 +1,8 @@
 ---
-title: sun, cosmological concept 
+title: Sun, Cosmological Concept 
 index: false
 article: false 
 icon: article
 next: superstition.md
-prev: submerged-city.md
+prev: summerlands.md
 ---

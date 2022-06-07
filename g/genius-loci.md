@@ -1,8 +1,8 @@
 ---
-title: genius loci 
+title: Genius Loci 
 index: false
 article: false 
 icon: article
-next: gentry.md
+next: gentle-annie.md
 prev: genius-cucullatus.md
 ---

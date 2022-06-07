@@ -1,8 +1,8 @@
 ---
-title: witch, as hare 
+title: Witch, As Hare 
 index: false
 article: false 
 icon: article
 next: witch-at-trewa.md
-prev: witch-madgy-figgy.md
+prev: witch.md
 ---

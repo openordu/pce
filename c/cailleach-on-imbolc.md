@@ -1,8 +1,8 @@
 ---
-title: Cailleach, on Imbolc 
+title: Cailleach, On Imbolc 
 index: false
 article: false 
 icon: article
-next: cailleach-serpent-and.md
-prev: cailleach-mountains-and.md
+next: cailleach-ragnell-as.md
+prev: cailleach-munster-and.md
 ---

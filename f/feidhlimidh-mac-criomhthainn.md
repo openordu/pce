@@ -1,5 +1,5 @@
 ---
-title: Feidhlimidh mac Criomhthainn 
+title: Feidhlimidh Mac Criomhthainn 
 index: false
 article: false 
 icon: article

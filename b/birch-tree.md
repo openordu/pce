@@ -1,8 +1,8 @@
 ---
-title: birch tree 
+title: Birch Tree 
 index: false
 article: false 
 icon: article
 next: bird.md
-prev: bile.md
+prev: billy-blind.md
 ---

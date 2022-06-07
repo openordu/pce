@@ -4,5 +4,5 @@ index: false
 article: false 
 icon: article
 next: luchtar.md
-prev: lubbard-fiend.md
+prev: lubber.md
 ---

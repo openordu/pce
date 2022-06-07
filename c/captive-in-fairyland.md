@@ -1,8 +1,8 @@
 ---
-title: captive in fairyland 
+title: Captive In Fairyland 
 index: false
 article: false 
 icon: article
-next: casting-aglamour.md
+next: caractacus.md
 prev: captive-fairies.md
 ---

@@ -1,8 +1,8 @@
 ---
-title: nygel 
+title: Nygel 
 index: false
 article: false 
 icon: article
-next: oak-tree.md
-prev: numbers.md
+next: nynniaw.md
+prev: ny-shee.md
 ---

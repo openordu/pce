@@ -3,6 +3,6 @@ title: Gorm
 index: false
 article: false 
 icon: article
-next: govannon.md
+next: gorre.md
 prev: gorlois.md
 ---

@@ -1,8 +1,8 @@
 ---
-title: killeen 
+title: Killeen 
 index: false
 article: false 
 icon: article
-next: kings-kingship.md
-prev: key.md
+next: king.md
+prev: kildare-earl-of.md
 ---

@@ -1,8 +1,8 @@
 ---
-title: Dáire, father of Lugaidh 
+title: Dáire, Father Of Lugaidh 
 index: false
 article: false 
 icon: article
-next: dáire-mac-dedad.md
-prev: dáire-son-of-fionn-mac-cumhaill.md
+next: dáire-son-of-fionn-mac-cumhaill.md
+prev: dáire-of-the-poems.md
 ---

@@ -4,5 +4,5 @@ index: false
 article: false 
 icon: article
 next: christianity.md
-prev: chimes-child.md
+prev: chirk.md
 ---

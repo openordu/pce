@@ -1,8 +1,8 @@
 ---
-title: war furies 
+title: War Furies 
 index: false
 article: false 
 icon: article
-next: warrior-women.md
-prev: wake.md
+next: warna.md
+prev: waltermap.md
 ---

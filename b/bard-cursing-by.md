@@ -1,8 +1,8 @@
 ---
-title: bard, cursing by 
+title: Bard, Cursing By 
 index: false
 article: false 
 icon: article
 next: bard-druids-and.md
-prev: bard-tuan-mac-cairill.md
+prev: bard.md
 ---

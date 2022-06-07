@@ -1,5 +1,5 @@
 ---
-title: Fomorians, in Book of Invasions 
+title: Fomorians, In Book Of Invasions 
 index: false
 article: false 
 icon: article

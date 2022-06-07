@@ -1,5 +1,5 @@
 ---
-title: wren 
+title: Wren 
 index: false
 article: false 
 icon: article

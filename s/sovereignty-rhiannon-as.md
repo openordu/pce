@@ -1,5 +1,5 @@
 ---
-title: Sovereignty, Rhiannon as 
+title: Sovereignty, Rhiannon As 
 index: false
 article: false 
 icon: article

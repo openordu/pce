@@ -4,5 +4,5 @@ index: false
 article: false 
 icon: article
 next: blondine.md
-prev: blaí.md
+prev: blemished-king.md
 ---

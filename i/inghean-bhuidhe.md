@@ -4,5 +4,5 @@ index: false
 article: false 
 icon: article
 next: inis-glora.md
-prev: inchiquin-indech.md
+prev: independent.md
 ---

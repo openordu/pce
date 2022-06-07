@@ -1,8 +1,8 @@
 ---
-title: numbers 
+title: Numbers 
 index: false
 article: false 
 icon: article
-next: nygel.md
-prev: nuckelavee.md
+next: ny-shee.md
+prev: nudd.md
 ---

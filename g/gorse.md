@@ -1,8 +1,8 @@
 ---
-title: gorse 
+title: Gorse 
 index: false
 article: false 
 icon: article
-next: green.md
-prev: gold.md
+next: gorsedd.md
+prev: gorre.md
 ---

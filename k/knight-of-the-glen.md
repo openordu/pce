@@ -1,8 +1,8 @@
 ---
-title: Knight of the Glen 
+title: Knight Of The Glen 
 index: false
 article: false 
 icon: article
-next: knockainy.md
-prev: kings-cycle-of-the.md
+next: knitting.md
+prev: klippe.md
 ---

@@ -1,8 +1,8 @@
 ---
-title: Padstow Obby Oss paganism 
+title: Padstow Obby Oss Paganism 
 index: false
 article: false 
 icon: article
-next: palomides-pamp.md
+next: paleodruidism.md
 prev: padfoot.md
 ---

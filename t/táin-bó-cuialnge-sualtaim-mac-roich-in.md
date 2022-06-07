@@ -1,8 +1,8 @@
 ---
-title: Táin bó Cuialnge, Sualtaim mac Roich in 
+title: Táin Bó Cuialnge, Sualtaim Mac Roich In 
 index: false
 article: false 
 icon: article
-next: táin-bó-cuialnge-loss-of.md
+next: téa.md
 prev: táin-bó-cuialnge-medb-in.md
 ---

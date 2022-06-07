@@ -1,8 +1,8 @@
 ---
-title: marvels 
+title: Marvels 
 index: false
 article: false 
 icon: article
-next: maypole.md
-prev: marriage.md
+next: mary.md
+prev: martin.md
 ---

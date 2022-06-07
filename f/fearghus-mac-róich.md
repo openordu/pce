@@ -1,8 +1,8 @@
 ---
-title: Fearghus mac Róich 
+title: Fearghus Mac Róich 
 index: false
 article: false 
 icon: article
-next: fedelm.md
+next: feast.md
 prev: fearghus-mac-léide.md
 ---

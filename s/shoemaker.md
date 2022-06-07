@@ -1,8 +1,8 @@
 ---
-title: shoemaker 
+title: Shoemaker 
 index: false
 article: false 
 icon: article
-next: siren.md
-prev: shinny.md
+next: shoney.md
+prev: shiveringboy.md
 ---

@@ -1,8 +1,8 @@
 ---
-title: brídeóg 
+title: Brídeóg 
 index: false
 article: false 
 icon: article
-next: buada.md
-prev: brownie.md
+next: brú-na-bóinne.md
+prev: brí-léith.md
 ---

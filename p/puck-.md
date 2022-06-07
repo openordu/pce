@@ -1,8 +1,8 @@
 ---
-title: puck  
+title: Puck  
 index: false
 article: false 
 icon: article
-next: py.md
-prev: province-.md
+next: puck-fair.md
+prev: pseudo-kings-british.md
 ---

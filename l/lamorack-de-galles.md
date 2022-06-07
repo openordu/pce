@@ -1,5 +1,5 @@
 ---
-title: Lamorack de Galles 
+title: Lamorack De Galles 
 index: false
 article: false 
 icon: article

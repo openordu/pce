@@ -1,8 +1,8 @@
 ---
-title: inauguration, buada in 
+title: Inauguration, Buada In 
 index: false
 article: false 
 icon: article
-next: inauguration-horse-sacrifice-in.md
+next: inauguration-epona-in.md
 prev: inauguration-at-well.md
 ---

@@ -1,5 +1,5 @@
 ---
-title: Medb, in Táin bó Cuailnge 
+title: Medb, In Táin Bó Cuailnge 
 index: false
 article: false 
 icon: article

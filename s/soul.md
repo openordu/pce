@@ -1,8 +1,8 @@
 ---
-title: soul 
+title: Soul 
 index: false
 article: false 
 icon: article
 next: south.md
-prev: solstice.md
+prev: souconna.md
 ---

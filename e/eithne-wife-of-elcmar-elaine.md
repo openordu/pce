@@ -1,5 +1,5 @@
 ---
-title: Eithne, wife of Elcmar Elaine 
+title: Eithne, Wife Of Elcmar Elaine 
 index: false
 article: false 
 icon: article

@@ -1,5 +1,5 @@
 ---
-title: holly 
+title: Holly 
 index: false
 article: false 
 icon: article

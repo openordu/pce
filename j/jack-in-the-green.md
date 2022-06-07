@@ -1,5 +1,5 @@
 ---
-title: Jack-in-the-Green 
+title: Jack-In-The-Green 
 index: false
 article: false 
 icon: article

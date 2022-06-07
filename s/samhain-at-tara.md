@@ -1,8 +1,8 @@
 ---
-title: Samhain, at Tara 
+title: Samhain, At Tara 
 index: false
 article: false 
 icon: article
-next: samhain-dead-during.md
+next: samhain-cailleach-and.md
 prev: samhain-ancestors-on.md
 ---

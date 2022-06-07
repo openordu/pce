@@ -3,6 +3,6 @@ title: Mab
 index: false
 article: false 
 icon: article
-next: mabinogion-x-.md
+next: mabinogi.md
 prev: lóequre-búadach-loireag.md
 ---

@@ -3,6 +3,6 @@ title: Adsagsona
 index: false
 article: false 
 icon: article
-next: aeracura.md
+next: adsmerius.md
 prev: adra.md
 ---

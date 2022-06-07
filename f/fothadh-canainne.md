@@ -3,6 +3,6 @@ title: Fothadh Canainne
 index: false
 article: false 
 icon: article
-next: fourknocks.md
+next: fotla.md
 prev: fothad-canainne-four.md
 ---

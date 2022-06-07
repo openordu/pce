@@ -1,5 +1,5 @@
 ---
-title: high-king/high-kingship 
+title: High-King/High-Kingship 
 index: false
 article: false 
 icon: article

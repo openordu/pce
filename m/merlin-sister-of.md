@@ -1,8 +1,8 @@
 ---
-title: Merlin, sister of 
+title: Merlin, Sister Of 
 index: false
 article: false 
 icon: article
-next: merlin-wife-of.md
+next: merlin-stonehenge-and.md
 prev: merlin-magic-practiced-by-palace-of.md
 ---

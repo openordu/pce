@@ -1,8 +1,8 @@
 ---
-title: brownie 
+title: Brownie 
 index: false
 article: false 
 icon: article
-next: brídeóg.md
+next: brunissen.md
 prev: brounger.md
 ---

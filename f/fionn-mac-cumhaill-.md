@@ -1,5 +1,5 @@
 ---
-title: Fionn mac Cumhaill, 
+title: Fionn Mac Cumhaill, 
 index: false
 article: false 
 icon: article

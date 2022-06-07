@@ -1,8 +1,8 @@
 ---
-title: shape-shifting 
+title: Shape-Shifting 
 index: false
 article: false 
 icon: article
 next: shape-shifting-animals-and.md
-prev: shamrock.md
+prev: shan-van-vocht.md
 ---

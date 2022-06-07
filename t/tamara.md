@@ -3,6 +3,6 @@ title: Tamara
 index: false
 article: false 
 icon: article
-next: tara.md
+next: tangie.md
 prev: tam-lin.md
 ---

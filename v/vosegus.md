@@ -3,6 +3,6 @@ title: Vosegus
 index: false
 article: false 
 icon: article
-next: warna.md
+next: votive-deposits.md
 prev: viviane.md
 ---

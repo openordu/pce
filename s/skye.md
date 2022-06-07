@@ -4,5 +4,5 @@ index: false
 article: false 
 icon: article
 next: slane.md
-prev: sithchenn.md
+prev: skriker.md
 ---

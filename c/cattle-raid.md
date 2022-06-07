@@ -1,8 +1,8 @@
 ---
-title: cattle raid 
+title: Cattle Raid 
 index: false
 article: false 
 icon: article
-next: cattle.md
+next: catur.md
 prev: cattle.md
 ---

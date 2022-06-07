@@ -1,8 +1,8 @@
 ---
-title: solar divinities 
+title: Solar Divinities 
 index: false
 article: false 
 icon: article
 next: solitary-fairies-.md
-prev: snatching-by-the-sídhe.md
+prev: snowdonia.md
 ---

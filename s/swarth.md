@@ -1,8 +1,8 @@
 ---
-title: swarth 
+title: Swarth 
 index: false
 article: false 
 icon: article
-next: sympathetic-magic.md
+next: sweeney.md
 prev: swan-maiden.md
 ---

@@ -1,8 +1,8 @@
 ---
-title: willow 
+title: Willow 
 index: false
 article: false 
 icon: article
-next: witch.md
-prev: wild-animals.md
+next: winefride.md
+prev: willjack.md
 ---

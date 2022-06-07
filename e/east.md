@@ -1,8 +1,8 @@
 ---
-title: east 
+title: East 
 index: false
 article: false 
 icon: article
-next: echtra.md
-prev: eagle.md
+next: easter.md
+prev: easal.md
 ---

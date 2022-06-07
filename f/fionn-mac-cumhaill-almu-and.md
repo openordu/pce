@@ -1,8 +1,8 @@
 ---
-title: Fionn mac Cumhaill, Almu and 
+title: Fionn Mac Cumhaill, Almu And 
 index: false
 article: false 
 icon: article
-next: fionn-mac-cumhaill-diarmait-ua-duibne.md
+next: fionn-mac-cumhaill-and.md
 prev: fionn-mac-cumhaill-.md
 ---

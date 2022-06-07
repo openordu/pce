@@ -1,8 +1,8 @@
 ---
-title: Macha, in Ulster Cycle 
+title: Macha, In Ulster Cycle 
 index: false
 article: false 
 icon: article
-next: macha-mong-rua.md
+next: macha-mother-of.md
 prev: macha-in-táin-bó-cuailnge.md
 ---

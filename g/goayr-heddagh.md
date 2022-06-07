@@ -1,8 +1,8 @@
 ---
-title: goayr heddagh 
+title: Goayr Heddagh 
 index: false
 article: false 
 icon: article
-next: goblin.md
+next: goban-soar.md
 prev: goats.md
 ---

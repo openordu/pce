@@ -1,5 +1,5 @@
 ---
-title: mother goddess 
+title: Mother Goddess 
 index: false
 article: false 
 icon: article

@@ -3,6 +3,6 @@ title: Lorois
 index: false
 article: false 
 icon: article
-next: lot.md
+next: losses-of-the-year.md
 prev: long-man.md
 ---

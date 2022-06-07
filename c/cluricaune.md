@@ -1,8 +1,8 @@
 ---
-title: cluricaune 
+title: Cluricaune 
 index: false
 article: false 
 icon: article
-next: co-walker.md
+next: clídna.md
 prev: clover.md
 ---

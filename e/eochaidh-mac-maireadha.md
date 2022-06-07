@@ -1,5 +1,5 @@
 ---
-title: Eochaidh mac Maireadha 
+title: Eochaidh Mac Maireadha 
 index: false
 article: false 
 icon: article

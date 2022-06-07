@@ -1,5 +1,5 @@
 ---
-title: fairy circle 
+title: Fairy Circle 
 index: false
 article: false 
 icon: article

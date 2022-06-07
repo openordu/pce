@@ -1,5 +1,5 @@
 ---
-title: shape-shifting, animals and 
+title: Shape-Shifting, Animals And 
 index: false
 article: false 
 icon: article

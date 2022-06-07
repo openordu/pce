@@ -1,8 +1,8 @@
 ---
-title: reincarnation    
+title: Reincarnation    
 index: false
 article: false 
 icon: article
 next: religion.md
-prev: red-handed-king.md
+prev: reid-thome.md
 ---

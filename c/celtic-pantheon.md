@@ -1,5 +1,5 @@
 ---
-title: Celtic pantheon 
+title: Celtic Pantheon 
 index: false
 article: false 
 icon: article

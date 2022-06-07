@@ -1,8 +1,8 @@
 ---
-title: funeral rites 
+title: Funeral Rites 
 index: false
 article: false 
 icon: article
-next: furze.md
-prev: fuath.md
+next: furbaide-ferbend.md
+prev: fuinche.md
 ---

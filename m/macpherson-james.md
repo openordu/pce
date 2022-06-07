@@ -4,5 +4,5 @@ index: false
 article: false 
 icon: article
 next: madgy-figgy.md
-prev: macha-mong-rua.md
+prev: macpherson.md
 ---

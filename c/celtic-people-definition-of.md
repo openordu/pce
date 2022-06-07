@@ -1,5 +1,5 @@
 ---
-title: Celtic people, definition of 
+title: Celtic People, Definition Of 
 index: false
 article: false 
 icon: article

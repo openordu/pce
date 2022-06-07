@@ -1,5 +1,5 @@
 ---
-title: Tuatha Dé Danann, at Grianán Aileach king of 
+title: Tuatha Dé Danann, At Grianán Aileach King Of 
 index: false
 article: false 
 icon: article

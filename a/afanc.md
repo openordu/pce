@@ -1,8 +1,8 @@
 ---
-title: afanc 
+title: Afanc 
 index: false
 article: false 
 icon: article
-next: agricultural-rituals.md
-prev: adventure.md
+next: afaon.md
+prev: afallach.md
 ---

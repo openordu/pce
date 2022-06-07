@@ -1,8 +1,8 @@
 ---
-title: Dun Cow x,    
+title: Dun Cow X,    
 index: false
 article: false 
 icon: article
-next: dunlop-bessie.md
-prev: dumbarton.md
+next: duncow.md
+prev: dun.md
 ---

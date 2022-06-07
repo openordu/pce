@@ -3,6 +3,6 @@ title: Macha
 index: false
 article: false 
 icon: article
-next: macha-children-of.md
+next: macha-mong-rua.md
 prev: macinelly.md
 ---

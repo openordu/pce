@@ -1,8 +1,8 @@
 ---
-title: holed stones  
+title: Holed Stones  
 index: false
 article: false 
 icon: article
 next: hollow-hill.md
-prev: hobbyhorse.md
+prev: hogmany.md
 ---

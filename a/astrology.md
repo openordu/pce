@@ -1,8 +1,8 @@
 ---
-title: astrology 
+title: Astrology 
 index: false
 article: false 
 icon: article
-next: athach.md
-prev: ashes.md
+next: atepomarus.md
+prev: assipattle.md
 ---

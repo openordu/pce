@@ -1,5 +1,5 @@
 ---
-title: Áine of the Fenian Cycle 
+title: Áine Of The Fenian Cycle 
 index: false
 article: false 
 icon: article

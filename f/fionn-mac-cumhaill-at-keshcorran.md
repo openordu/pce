@@ -1,5 +1,5 @@
 ---
-title: Fionn mac Cumhaill, at Keshcorran 
+title: Fionn Mac Cumhaill, At Keshcorran 
 index: false
 article: false 
 icon: article

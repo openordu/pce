@@ -1,8 +1,8 @@
 ---
-title: egg 
+title: Egg 
 index: false
 article: false 
 icon: article
 next: egret.md
-prev: eel.md
+prev: efrawg.md
 ---

@@ -1,5 +1,5 @@
 ---
-title: Tuán mac Cairill 
+title: Tuán Mac Cairill 
 index: false
 article: false 
 icon: article

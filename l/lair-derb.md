@@ -3,6 +3,6 @@ title: Lair Derb
 index: false
 article: false 
 icon: article
-next: lambton-worm.md
+next: lake.md
 prev: laighin.md
 ---

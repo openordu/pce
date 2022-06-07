@@ -1,8 +1,8 @@
 ---
-title: fairy, death and 
+title: Fairy, Death And 
 index: false
 article: false 
 icon: article
-next: fairy-foyson-taken-by.md
+next: fairy-faery.md
 prev: fairy-at-samhain.md
 ---

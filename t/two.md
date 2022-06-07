@@ -1,8 +1,8 @@
 ---
-title: two 
+title: Two 
 index: false
 article: false 
 icon: article
-next: tylwyth-teg.md
+next: twrch-trwyth.md
 prev: twins.md
 ---

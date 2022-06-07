@@ -1,5 +1,5 @@
 ---
-title: human sacrifice v, 
+title: Human Sacrifice V, 
 index: false
 article: false 
 icon: article

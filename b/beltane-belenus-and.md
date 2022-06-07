@@ -1,8 +1,8 @@
 ---
-title: Beltane, Belenus and 
+title: Beltane, Belenus And 
 index: false
 article: false 
 icon: article
-next: beltane-creiddylad-in.md
-prev: beltane-fire.md
+next: beltane-cattle-in.md
+prev: beltane-agricultural-aspect-of-ash-tree-and.md
 ---

@@ -1,8 +1,8 @@
 ---
-title: Dáire mac Dedad 
+title: Dáire Mac Dedad 
 index: false
 article: false 
 icon: article
 next: dáire-mac-fiachan.md
-prev: dáire-father-of-lugaidh.md
+prev: dáire-derg.md
 ---

@@ -1,8 +1,8 @@
 ---
-title: Mórrígan and 
+title: Mórrígan And 
 index: false
 article: false 
 icon: article
-next: mórrígan-dagda-and.md
+next: mórrígan-as-washer-at-the-ford.md
 prev: mórrígan.md
 ---
