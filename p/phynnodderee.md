@@ -5,4 +5,9 @@ article: false
 icon: article
 next: pict.md
 prev: phantom-islands.md
+contributor: Mary Jones
 ---
+phynnodderee
+Phynnodderee
+also, Fenoderee
+A Manx fairy; he helps in shepherding, and harvesting before a storm hits.

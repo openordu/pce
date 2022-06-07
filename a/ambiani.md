@@ -5,4 +5,8 @@ article: false
 icon: article
 next: ambigatus.md
 prev: ambarri.md
+contributor: Mary Jones
 ---
+Ambiani
+Ambiani
+Gallic tribe at the mouth of the Somme.  Their name is retained in the city Amiens, originally called Samarobriva.

@@ -5,4 +5,14 @@ article: false
 icon: article
 next: medb-as-sovereignty.md
 prev: meath.md
+contributor: Mary Jones
 ---
+Medb
+Medb
+Irish: "meed" or "drunk on meed".  Anglicized as Maeve.
+Medb (or really Medhbh), queen of Connacht and daughter of Eochaid, High King of Ireland, supposedly at the time of Christ.  The most beautiful, generous, and gracious of the daughters of Eochaid, she was also the deadliest, and could hold her own with any man. 
+One way of securing power for herself included seducing her three brothers in order to produce the hero Lugaid Riab n-Derg.  The brothers were rising up against their father, and she decided that at least one of them must produce an heir.  However, afterwards, she convinced her brothers not to rise against their father, the High King.  And so the brothers lost the battle, and Medb became queen of Connacht, taking Ailill as her consort.  She then killed her sister Clothru for spending the tributes brought to Connacht.
+Considering herself equal to her husband Ailill, she added up all her belonging, added up all of his, and found herself lacking only one bull. Resourceful woman that she was, she offered both her and her daughter Findabhar to Conchobor mac Nessa, her ex-lover, if she could have his Brown Bull of Cooley. He, being more enamored with the hapless Deirdre, refused. "Well, if you're gonna be a jerk about it, I declare war!" And so the Tain Bo Cuailnge took place. 
+She was killed when her nephew Furbaide mac Conchobair found her bathing.  It was revenge on his mother Clothu.
+It is thought that Medb later became incorporated into fairy lore as Queen Mab or Maeve, whose husband was Oberon. As such, she is equated with Titiana. This is fitting, as Titiana and Oberon went to war over who was more powerful, just as Medb and Ailill did.
+As to the importance of Medb, we must examine two things--her name, and the text "The Violent Death of Medb".  First, her name means "mead", which was a sacred drink, connected to the goddess of sovereignty, who is often depicted with a horse.  In the text, it is stated that "Medb assumed the kingship of Connaught and took Ailill into sovereignty with her".  Thus, through both her name and the text, it is reasonable to assume that Medb is a manifestation of the goddess of sovereignty whom each king must marry in order to gain the true kingship of the land.  In this sense, she is related to the horse goddesses Epona, Rhiannon, and Macha.

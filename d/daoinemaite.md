@@ -5,4 +5,8 @@ article: false
 icon: article
 next: daoinesidhe.md
 prev: daoine-sídhe.md
+contributor: Mary Jones
 ---
+daoine maite
+daoine maite
+"The Good People," a euphamism for the Irish sidhe.

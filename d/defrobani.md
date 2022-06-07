@@ -5,4 +5,16 @@ article: false
 icon: article
 next: deimne-.md
 prev: deer.md
+contributor: Mary Jones
 ---
+Defrobani
+Defrobani
+Alternate: Deffrobani
+From "Taprobana", the Greek name for Sri Lanka, itself derived from the Sansrkit tamraparni meaning "copper-leaved."
+In Iolo Morgannwg's mythology, the so-called "Summerland" (Gwlad y Haf)1 that was the original home of the Britons before being lead westward by Hu Gadarn.  The identification of Debrofani seems to have been Constantinople, but this is Morgannwg's invention.
+In reality, Defrobani is the Welsh approximation of the Greek Taprobana, now known as Sri Lanka or Ceylon.  It is first mentioned in the West by Ptolemy, but really enters the Western consciousness in the writings of Marco Polo and John Mandeville.  Polo describes Taprobana as having a Mount Serendib, upon which is buried some artifacts belonging to the Biblical Adam; it is also then identified with Eden.
+Knowing this, it is not strange that Iolo would identify Defrobani with the original home of the Britains. So as Sri Lanka/Deffrobani was identified with the original home of mankind, and Hu Gadarn was identified with Constantinople, Iolo decided to move the association with Sri Lanka away from that to Constantinople, and make that the original home of the Cymru.  Or something.  It's all very confusing, not the least because Morgannwg was an opium addict whose writings repeat and at times even contradict themselves.  
+What is not understood, however, is why he picked an obscure figure from a romance about Charlemage and made him one of the founders of Britain.
+Defrobani has also been rationalized as Dyffynbanu or Dyffynalbanu, supposedly refering to "the deep valleys of Albania."  This interpretation is largely dependant on the medieval idea that the Celts were originally Scythian.  Though there was certainly trade and cultural contact with the Scythians, the Celts were decidedly a different culture, speaking a different language group.  However, the identification with the Scythians, and the Scythians with the Lost Tribes of Israel is still an unfortunately-present idea, being part of the "British-Israelite" nonsense.
+NOTES
+1. Gwlad y Haf: this is actually the name for Somerset, derived from the Old English Somersæte, meaning "land of summer", maybe because the climate of southeastern Britain is much milder than the rest of the island.  The region itself did not fall to the Saxons until at latest 710 CE, after the Battle of Llongborth.  Prior to that time, it was mostly part of Dumnonia.
