@@ -5,7 +5,7 @@ article: false
 icon: article
 next: gorm.md
 prev: gorias.md
-author: Mary Jones
+author: "Mary Jones"
 ---
 Gorlois
 Gorlois

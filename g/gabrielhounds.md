@@ -5,7 +5,7 @@ article: false
 icon: article
 next: gabrus.md
 prev: gabriel-hounds.md
-author: Mary Jones
+author: "Mary Jones"
 ---
 Gabriel Hounds
 Gabriel Hounds

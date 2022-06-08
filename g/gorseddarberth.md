@@ -5,7 +5,7 @@ article: false
 icon: article
 next: gorseddprayer.md
 prev: gorsedd.md
-author: Mary Jones
+author: "Mary Jones"
 ---
 Gorsedd Arberth
 Gorsedd Arberth

@@ -5,7 +5,7 @@ article: false
 icon: article
 next: berrey-dhone.md
 prev: bergusia.md
-author: Mary Jones
+author: "Mary Jones"
 ---
 Berne zinc tablet
 Berne zinc tablet

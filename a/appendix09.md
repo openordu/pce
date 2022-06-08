@@ -5,7 +5,7 @@ article: false
 icon: article
 next: appendix10.md
 prev: appendix08.md
-author: Mary Jones
+author: "Mary Jones"
 ---
 The Welsh Gods
 Welsh Gods of the Mabinogion and Corresponding Triads:

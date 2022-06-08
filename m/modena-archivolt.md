@@ -5,7 +5,7 @@ article: false
 icon: article
 next: modern-legends.md
 prev: mochuda.md
-author: Mary Jones
+author: "Mary Jones"
 ---
 Modena Archivolt
 Modena Archivolt

@@ -5,7 +5,7 @@ article: false
 icon: article
 next: tom-thumb.md
 prev: toili.md
-author: Mary Jones
+author: "Mary Jones"
 ---
 John Toland
 John Toland

@@ -5,7 +5,7 @@ article: false
 icon: article
 next: cormac3.md
 prev: cormac1.md
-author: Mary Jones
+author: "Mary Jones"
 ---
 Cormac mac Cuilennáin
 Cormac son of Cuilennan

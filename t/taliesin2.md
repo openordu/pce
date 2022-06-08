@@ -5,7 +5,7 @@ article: false
 icon: article
 next: talisman.md
 prev: taliesin1.md
-author: Mary Jones
+author: "Mary Jones"
 ---
 Llyfr Taliesin
 Llyfr Talyessin

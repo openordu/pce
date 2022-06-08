@@ -5,7 +5,7 @@ article: false
 icon: article
 next: bademagu.md
 prev: bacorgladhra.md
-author: Mary Jones
+author: "Mary Jones"
 ---
 Badb
 Badb/Bodb

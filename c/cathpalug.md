@@ -5,7 +5,7 @@ article: false
 icon: article
 next: cathubodua.md
 prev: cathleen-ni-houlihan.md
-author: Mary Jones
+author: "Mary Jones"
 ---
 Cath Palug
 Cath Palug

@@ -5,7 +5,7 @@ article: false
 icon: article
 next: yew.md
 prev: yeats-william-butler.md
-author: Mary Jones
+author: "Mary Jones"
 ---
 Yellow Book of Lecan
 The Yellow Book of Lecan

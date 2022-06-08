@@ -5,7 +5,7 @@ article: false
 icon: article
 next: clipping-the-church-clootie.md
 prev: clas-myrddin.md
-author: Mary Jones
+author: "Mary Jones"
 ---
 Clauariates
 Mercury Clauariates/Clavariates

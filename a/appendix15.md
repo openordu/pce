@@ -5,7 +5,7 @@ article: false
 icon: article
 next: appendix16.md
 prev: appendix14.md
-author: Mary Jones
+author: "Mary Jones"
 ---
 Modern Druid Organizations
 Modern Druid Organizations

@@ -5,7 +5,7 @@ article: false
 icon: article
 next: ainnth.md
 prev: sacrifice-inauguration.md
-author: Mary Jones
+author: "Mary Jones"
 ---
 The Sailors' Pillar of Notre Dame
 The Sailors' Pillar of Notre Dame

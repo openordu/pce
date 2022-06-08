@@ -5,7 +5,7 @@ article: false
 icon: article
 next: cathal-mac-fionghuine.md
 prev: cath-paluc.md
-author: Mary Jones
+author: "Mary Jones"
 ---
 An Cathach
 An Cathach

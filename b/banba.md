@@ -5,7 +5,7 @@ article: false
 icon: article
 next: bandrui.md
 prev: banais-ríghe.md
-author: Mary Jones
+author: "Mary Jones"
 ---
 Banba
 Banba

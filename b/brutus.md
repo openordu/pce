@@ -5,7 +5,7 @@ article: false
 icon: article
 next: brythonic-celtic.md
 prev: brut.md
-author: Mary Jones
+author: "Mary Jones"
 ---
 Brutus
 Brutus

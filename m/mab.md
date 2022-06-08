@@ -5,7 +5,7 @@ article: false
 icon: article
 next: mabinogi.md
 prev: lóequre-búadach-loireag.md
-author: Mary Jones
+author: "Mary Jones"
 ---
 Queen Mab
 Queen Mab

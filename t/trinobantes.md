@@ -5,7 +5,7 @@ article: false
 icon: article
 next: trinovantum.md
 prev: triduana.md
-author: Mary Jones
+author: "Mary Jones"
 ---
 Trinobantes
 Trinobantes

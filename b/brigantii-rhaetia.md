@@ -5,7 +5,7 @@ article: false
 icon: article
 next: brighid-mythical-figure.md
 prev: brigantia.md
-author: Mary Jones
+author: "Mary Jones"
 ---
 Brigantii (Rhaetia)
 Brigantii

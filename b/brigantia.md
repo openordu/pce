@@ -5,7 +5,7 @@ article: false
 icon: article
 next: brigantii-rhaetia.md
 prev: brigantes-britain.md
-author: Mary Jones
+author: "Mary Jones"
 ---
 Brigantia
 Brigantia

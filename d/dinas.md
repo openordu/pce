@@ -5,7 +5,7 @@ article: false
 icon: article
 next: dindraine.md
 prev: dinadan.md
-author: Mary Jones
+author: "Mary Jones"
 ---
 dinas
 dinas

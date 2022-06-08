@@ -5,7 +5,7 @@ article: false
 icon: article
 next: oghma.md
 prev: ogalla.md
-author: Mary Jones
+author: "Mary Jones"
 ---
 ogham
 ogham

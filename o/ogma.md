@@ -5,7 +5,7 @@ article: false
 icon: article
 next: ogmia.md
 prev: oghma.md
-author: Mary Jones
+author: "Mary Jones"
 ---
 Oghma Grianainech
 Oghma Grianainech

@@ -5,7 +5,7 @@ article: false
 icon: article
 next: teutates.md
 prev: tethba.md
-author: Mary Jones
+author: "Mary Jones"
 ---
 Tethra
 Tethra 

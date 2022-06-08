@@ -5,7 +5,7 @@ article: false
 icon: article
 next: gog.md
 prev: goewin.md
-author: Mary Jones
+author: "Mary Jones"
 ---
 Gofannon
 Gofannon

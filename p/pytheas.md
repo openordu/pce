@@ -5,7 +5,7 @@ article: false
 icon: article
 next: péist.md
 prev: py-led.md
-author: Mary Jones
+author: "Mary Jones"
 ---
 Pytheas of Massalia
 Pytheas of Massalia

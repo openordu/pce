@@ -5,7 +5,7 @@ article: false
 icon: article
 next: perilous-bed.md
 prev: percival.md
-author: Mary Jones
+author: "Mary Jones"
 ---
 Peredur
 Semi-legendary figure from Welsh history and myth.

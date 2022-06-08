@@ -5,7 +5,7 @@ article: false
 icon: article
 next: appendix09.md
 prev: appendix07.md
-author: Mary Jones
+author: "Mary Jones"
 ---
 Deity Archetypes
 Appendix VIII: Deity Archetypes

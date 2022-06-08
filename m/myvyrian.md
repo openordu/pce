@@ -5,7 +5,7 @@ article: false
 icon: article
 next: míl.md
 prev: mythology.md
-author: Mary Jones
+author: "Mary Jones"
 ---
 Myvyrian Archaiology
 Y Myvyrian Archaiology

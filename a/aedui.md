@@ -5,7 +5,7 @@ article: false
 icon: article
 next: aeracura.md
 prev: aeddmawr.md
-author: Mary Jones
+author: "Mary Jones"
 ---
 Aedui
 Aedui

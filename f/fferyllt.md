@@ -5,7 +5,7 @@ article: false
 icon: article
 next: fflur.md
 prev: festival.md
-author: Mary Jones
+author: "Mary Jones"
 ---
 Llyfr Fferyllt
 Llyfr Fferyllt

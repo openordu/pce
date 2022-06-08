@@ -5,7 +5,7 @@ article: false
 icon: article
 next: ram-headed-snake.md
 prev: rainbow.md
-author: Mary Jones
+author: "Mary Jones"
 ---
 ráithe
 ráithe

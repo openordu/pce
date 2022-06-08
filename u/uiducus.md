@@ -5,7 +5,7 @@ article: false
 icon: article
 next: uigreann.md
 prev: uidlua.md
-author: Mary Jones
+author: "Mary Jones"
 ---
 Mercury Uiducus
 Uiducus

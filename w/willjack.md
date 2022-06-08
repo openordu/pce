@@ -5,7 +5,7 @@ article: false
 icon: article
 next: willow.md
 prev: william-of-orange.md
-author: Mary Jones
+author: "Mary Jones"
 ---
 Will-o-the-wisp/Jack-o-Lantern
 Will-o'-the-wisp

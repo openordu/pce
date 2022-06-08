@@ -5,7 +5,7 @@ article: false
 icon: article
 next: solar-divinities.md
 prev: snatching-by-the-sídhe.md
-author: Mary Jones
+author: "Mary Jones"
 ---
 Snowdonia
 Snowdonia and Mount Snowdon

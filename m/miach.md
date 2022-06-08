@@ -5,7 +5,7 @@ article: false
 icon: article
 next: michale.md
 prev: mess-buachalla.md
-author: Mary Jones
+author: "Mary Jones"
 ---
 Miach
 Miach

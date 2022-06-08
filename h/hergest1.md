@@ -5,7 +5,7 @@ article: false
 icon: article
 next: herla.md
 prev: hercules.md
-author: Mary Jones
+author: "Mary Jones"
 ---
 Red Book of Hergest
 Llyfr Coch Hergest

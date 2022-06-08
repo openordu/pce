@@ -5,7 +5,7 @@ article: false
 icon: article
 next: berguisa.md
 prev: bercilak.md
-author: Mary Jones
+author: "Mary Jones"
 ---
 Berecynthia
 Berecynthia

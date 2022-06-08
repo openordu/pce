@@ -5,7 +5,7 @@ article: false
 icon: article
 next: rhydderch-hael.md
 prev: rhun-ap-urien.md
-author: Mary Jones
+author: "Mary Jones"
 ---
 White Book of Rhydderch
 Llyfyr Gwyn o Rhydderch

@@ -5,7 +5,7 @@ article: false
 icon: article
 next: abair.md
 prev: 1.md
-author: Mary Jones
+author: "Mary Jones"
 ---
 The 21 Lessons of Merlyn
 The 21 Lessons of Merlyn

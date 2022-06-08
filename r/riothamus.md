@@ -5,7 +5,7 @@ article: false
 icon: article
 next: rising-of-1798.md
 prev: rigrus-roisclethan-ríonach.md
-author: Mary Jones
+author: "Mary Jones"
 ---
 Riothamus
 Riothamus

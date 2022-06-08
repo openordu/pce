@@ -5,7 +5,7 @@ article: false
 icon: article
 next: eufyd.md
 prev: ethne.md
-author: Mary Jones
+author: "Mary Jones"
 ---
 Ethniu
 Ethniu

@@ -5,7 +5,7 @@ article: false
 icon: article
 next: mythological-cycle.md
 prev: myrddin-wyllt.md
-author: Mary Jones
+author: "Mary Jones"
 ---
 Irish Mythological Cycle
 The Irish Mythological Cycle

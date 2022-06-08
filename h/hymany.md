@@ -5,7 +5,7 @@ article: false
 icon: article
 next: hyperboreans.md
 prev: hy-brâzil.md
-author: Mary Jones
+author: "Mary Jones"
 ---
 Book of Hy Many
 The Book of Hy Many

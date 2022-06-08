@@ -5,7 +5,7 @@ article: false
 icon: article
 next: manching.md
 prev: manawydan.md
-author: Mary Jones
+author: "Mary Jones"
 ---
 Manawydan fab Llyr: Third Branch of the Mabinogi
 Manawydan fab Llyr: Third Branch of the Mabinogi

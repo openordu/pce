@@ -5,7 +5,7 @@ article: false
 icon: article
 next: rhiannon.md
 prev: religious-tales.md
-author: Mary Jones
+author: "Mary Jones"
 ---
 Rex quondam, Rexque Futurus
 Rex quondam, Rexque Futurus

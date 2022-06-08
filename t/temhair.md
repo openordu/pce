@@ -5,7 +5,7 @@ article: false
 icon: article
 next: temple.md
 prev: temair.md
-author: Mary Jones
+author: "Mary Jones"
 ---
 Temhair Brega
 Temhair Brega

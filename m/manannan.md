@@ -5,7 +5,7 @@ article: false
 icon: article
 next: manannán.md
 prev: manann.md
-author: Mary Jones
+author: "Mary Jones"
 ---
 Manannán mac Lír
 Manannán mac Lír

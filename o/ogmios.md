@@ -5,7 +5,7 @@ article: false
 icon: article
 next: ogniad.md
 prev: ogmia.md
-author: Mary Jones
+author: "Mary Jones"
 ---
 Ogmios
 Ogmios

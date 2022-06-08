@@ -5,7 +5,7 @@ article: false
 icon: article
 next: glastonburythorn.md
 prev: glastonbury.md
-author: Mary Jones
+author: "Mary Jones"
 ---
 Glastonbury Cross
 Glastonbury Cross

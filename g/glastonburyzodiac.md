@@ -5,7 +5,7 @@ article: false
 icon: article
 next: glastyn.md
 prev: glastonburythorn.md
-author: Mary Jones
+author: "Mary Jones"
 ---
 Glastonbury Zodiac
 The Glastonbury Zodiac

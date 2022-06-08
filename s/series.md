@@ -5,7 +5,7 @@ article: false
 icon: article
 next: serpent.md
 prev: sequana.md
-author: Mary Jones
+author: "Mary Jones"
 ---
 Series of Old Welsh Texts
 Series of Old Welsh Texts

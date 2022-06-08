@@ -5,7 +5,7 @@ article: false
 icon: article
 next: gwyn.md
 prev: gwydion.md
-author: Mary Jones
+author: "Mary Jones"
 ---
 gwyllion
 gwyllion

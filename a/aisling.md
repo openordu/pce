@@ -5,7 +5,7 @@ article: false
 icon: article
 next: aithirne.md
 prev: airmid.md
-author: Mary Jones
+author: "Mary Jones"
 ---
 aisling
 aisling

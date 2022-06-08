@@ -5,7 +5,7 @@ article: false
 icon: article
 next: hugh.md
 prev: hu.md
-author: Mary Jones
+author: "Mary Jones"
 ---
 Hu Gadarn
 Hu Gadarn

@@ -5,7 +5,7 @@ article: false
 icon: article
 next: hedessa.md
 prev: heaven.md
-author: Mary Jones
+author: "Mary Jones"
 ---
 Heavenly bodies named for Celtic subjects
 Heavenly Bodies Named for Celtic Subjects

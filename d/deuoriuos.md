@@ -5,7 +5,7 @@ article: false
 icon: article
 next: deva.md
 prev: detroyes.md
-author: Mary Jones
+author: "Mary Jones"
 ---
 Deuoriuos Riuri
 Deuoriuos Riuri

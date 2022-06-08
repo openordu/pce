@@ -5,7 +5,7 @@ article: false
 icon: article
 next: boar.md
 prev: bláthnat.md
-author: Mary Jones
+author: "Mary Jones"
 ---
 Boann
 Boann/Boand

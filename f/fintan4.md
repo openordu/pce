@@ -5,7 +5,7 @@ article: false
 icon: article
 next: fiongalla.md
 prev: fintan3.md
-author: Mary Jones
+author: "Mary Jones"
 ---
 St. Fintan (Munnu) of Taghmon
 St. Fintan (Munnu) of Taghmon

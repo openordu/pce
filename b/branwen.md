@@ -5,7 +5,7 @@ article: false
 icon: article
 next: branwen-branch.md
 prev: brannovices.md
-author: Mary Jones
+author: "Mary Jones"
 ---
 Branwen
 Branwen

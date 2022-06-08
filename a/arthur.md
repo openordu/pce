@@ -5,7 +5,7 @@ article: false
 icon: article
 next: arthur-annowre-and.md
 prev: artemis.md
-author: Mary Jones
+author: "Mary Jones"
 ---
 King Arthur
 King Arthur

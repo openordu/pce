@@ -5,7 +5,7 @@ article: false
 icon: article
 next: macha-mong-rua.md
 prev: macinelly.md
-author: Mary Jones
+author: "Mary Jones"
 ---
 Macha
 Macha

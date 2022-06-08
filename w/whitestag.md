@@ -5,7 +5,7 @@ article: false
 icon: article
 next: whiting.md
 prev: whitehorse.md
-author: Mary Jones
+author: "Mary Jones"
 ---
 White Stag
 The White Stag

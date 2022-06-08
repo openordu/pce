@@ -5,7 +5,7 @@ article: false
 icon: article
 next: rhonabwy.md
 prev: rex.md
-author: Mary Jones
+author: "Mary Jones"
 ---
 Rhiannon
 Rhiannon

@@ -5,7 +5,7 @@ article: false
 icon: article
 next: kenneth-of-the-prophecies.md
 prev: keening.md
-author: Mary Jones
+author: "Mary Jones"
 ---
 kelpie
 kelpie

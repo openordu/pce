@@ -5,7 +5,7 @@ article: false
 icon: article
 next: man.md
 prev: mallet.md
-author: Mary Jones
+author: "Mary Jones"
 ---
 Isle of Mam
 Isle of Mam

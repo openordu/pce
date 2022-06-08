@@ -5,7 +5,7 @@ article: false
 icon: article
 next: leanansidhe.md
 prev: laying-the-fairies-leborcham.md
-author: Mary Jones
+author: "Mary Jones"
 ---
 Leabhar Breac: the Speckled Book
 The Speckled Book

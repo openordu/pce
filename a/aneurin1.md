@@ -5,7 +5,7 @@ article: false
 icon: article
 next: aneurin2.md
 prev: andred.md
-author: Mary Jones
+author: "Mary Jones"
 ---
 Aneirin
 Aneirin

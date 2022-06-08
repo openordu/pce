@@ -5,7 +5,7 @@ article: false
 icon: article
 next: nentres.md
 prev: nennius.md
-author: Mary Jones
+author: "Mary Jones"
 ---
 Nennian Alphabet
 Nennian Alphabet

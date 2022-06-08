@@ -5,7 +5,7 @@ article: false
 icon: article
 next: mabinogion.md
 prev: mab.md
-author: Mary Jones
+author: "Mary Jones"
 ---
 mabinogi
 Y Mabinogi

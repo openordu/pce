@@ -5,7 +5,7 @@ article: false
 icon: article
 next: emain-macha-emer.md
 prev: elysium.md
-author: Mary Jones
+author: "Mary Jones"
 ---
 Emhain Abhlach
 Emhain Abhlach

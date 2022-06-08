@@ -5,7 +5,7 @@ article: false
 icon: article
 next: mog-ruith.md
 prev: modern-legends.md
-author: Mary Jones
+author: "Mary Jones"
 ---
 Modron
 Modron

@@ -5,7 +5,7 @@ article: false
 icon: article
 next: external-soul.md
 prev: excarnation.md
-author: Mary Jones
+author: "Mary Jones"
 ---
 Excingiorigiatis
 Excingiorigiatis/Mercury Excingiorigiatis

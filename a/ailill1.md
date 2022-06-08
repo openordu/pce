@@ -5,7 +5,7 @@ article: false
 icon: article
 next: ailill2.md
 prev: ailill-milesian-king.md
-author: Mary Jones
+author: "Mary Jones"
 ---
 Ailill mac Mágach of Connacht
 Ailill mac Mágach of Connacht

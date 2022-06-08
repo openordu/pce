@@ -5,7 +5,7 @@ article: false
 icon: article
 next: chimes-child.md
 prev: children-of-llyr.md
-author: Mary Jones
+author: "Mary Jones"
 ---
 Children of Ler
 Clann Lir/Plant Lyr

@@ -5,7 +5,7 @@ article: false
 icon: article
 next: rainbow.md
 prev: ragnell.md
-author: Mary Jones
+author: "Mary Jones"
 ---
 Otto Rahn
 Otto Rahn

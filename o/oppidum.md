@@ -5,7 +5,7 @@ article: false
 icon: article
 next: oracle.md
 prev: oppida.md
-author: Mary Jones
+author: "Mary Jones"
 ---
 oppidum
 oppidum

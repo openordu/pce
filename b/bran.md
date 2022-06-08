@@ -5,7 +5,7 @@ article: false
 icon: article
 next: bran-galed.md
 prev: braciaea.md
-author: Mary Jones
+author: "Mary Jones"
 ---
 Bran
 Bendigedfran ap Llyr/Bran the Blessed

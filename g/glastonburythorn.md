@@ -5,7 +5,7 @@ article: false
 icon: article
 next: glastonburyzodiac.md
 prev: glastonburycross.md
-author: Mary Jones
+author: "Mary Jones"
 ---
 Glastonbury Thorn
 Glastonbury Thorn

@@ -5,7 +5,7 @@ article: false
 icon: article
 next: cesair.md
 prev: cernunnos.md
-author: Mary Jones
+author: "Mary Jones"
 ---
 Cerridwen
 Cerridwen

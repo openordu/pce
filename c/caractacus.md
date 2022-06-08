@@ -5,7 +5,7 @@ article: false
 icon: article
 next: caradawg.md
 prev: captive-in-fairyland.md
-author: Mary Jones
+author: "Mary Jones"
 ---
 Caractacus
 Caractacus

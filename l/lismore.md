@@ -5,7 +5,7 @@ article: false
 icon: article
 next: list-of-entries.md
 prev: liscannor.md
-author: Mary Jones
+author: "Mary Jones"
 ---
 Book of Lismore
 Book of Lismore

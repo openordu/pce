@@ -5,7 +5,7 @@ article: false
 icon: article
 next: wild-animals.md
 prev: widdershins.md
-author: Mary Jones
+author: "Mary Jones"
 ---
 Widow's Son
 The Widow's Son

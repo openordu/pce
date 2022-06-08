@@ -5,7 +5,7 @@ article: false
 icon: article
 next: evil-eye.md
 prev: eufyd.md
-author: Mary Jones
+author: "Mary Jones"
 ---
 John Gwenogvryn Evans
 John Gwenogvryn Evans

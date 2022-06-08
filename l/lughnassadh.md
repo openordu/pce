@@ -5,7 +5,7 @@ article: false
 icon: article
 next: lugos.md
 prev: lughnasa-tailtiu-and.md
-author: Mary Jones
+author: "Mary Jones"
 ---
 Lughnassadh
 Lughnassadh

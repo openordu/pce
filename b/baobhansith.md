@@ -5,7 +5,7 @@ article: false
 icon: article
 next: baptism.md
 prev: banshenchas.md
-author: Mary Jones
+author: "Mary Jones"
 ---
 Baobhan sith
 Baobhan Sith

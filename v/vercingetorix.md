@@ -5,7 +5,7 @@ article: false
 icon: article
 next: viereckschanzen.md
 prev: verbia.md
-author: Mary Jones
+author: "Mary Jones"
 ---
 Vercingetorix
 Vercingetorix

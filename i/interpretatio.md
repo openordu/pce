@@ -5,7 +5,7 @@ article: false
 icon: article
 next: interpretatio-romana.md
 prev: intarabus.md
-author: Mary Jones
+author: "Mary Jones"
 ---
 interpretatio romana
 Interpretatio Romana

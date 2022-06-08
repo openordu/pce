@@ -5,7 +5,7 @@ article: false
 icon: article
 next: mess-buachalla.md
 prev: mesgedhera.md
-author: Mary Jones
+author: "Mary Jones"
 ---
 Mesodruidism
 Mesodruidism

@@ -5,7 +5,7 @@ article: false
 icon: article
 next: manogan.md
 prev: manching.md
-author: Mary Jones
+author: "Mary Jones"
 ---
 Mandubracius
 Mandubracius

@@ -5,7 +5,7 @@ article: false
 icon: article
 next: rothniam.md
 prev: rosmerta.md
-author: Mary Jones
+author: "Mary Jones"
 ---
 Rosslyn Chapel
 Rosslyn Chapel

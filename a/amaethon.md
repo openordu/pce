@@ -5,7 +5,7 @@ article: false
 icon: article
 next: amairgin.md
 prev: amadán.md
-author: Mary Jones
+author: "Mary Jones"
 ---
 Amaethon fab Dôn
 Amaethon fab Dôn

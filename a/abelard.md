@@ -5,7 +5,7 @@ article: false
 icon: article
 next: abello.md
 prev: abcán.md
-author: Mary Jones
+author: "Mary Jones"
 ---
 Peter Abelard
 Peter Abelard

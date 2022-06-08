@@ -5,7 +5,7 @@ article: false
 icon: article
 next: percival.md
 prev: perceval1.md
-author: Mary Jones
+author: "Mary Jones"
 ---
 Perceval, or, the Story of the Grail
 Perceval, Or, the Story of the Grail

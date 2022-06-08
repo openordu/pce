@@ -5,7 +5,7 @@ article: false
 icon: article
 next: smertrius.md
 prev: luagh.md
-author: Mary Jones
+author: "Mary Jones"
 ---
 sluagh
 sluagh

@@ -5,7 +5,7 @@ article: false
 icon: article
 next: penn-cruc.md
 prev: pendaran.md
-author: Mary Jones
+author: "Mary Jones"
 ---
 pendragon
 Pendragon

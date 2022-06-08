@@ -5,7 +5,7 @@ article: false
 icon: article
 next: len.md
 prev: leherennus.md
-author: Mary Jones
+author: "Mary Jones"
 ---
 Book of Leinster
 The Book of Leinster

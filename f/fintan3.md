@@ -5,7 +5,7 @@ article: false
 icon: article
 next: fintan4.md
 prev: fintan2.md
-author: Mary Jones
+author: "Mary Jones"
 ---
 St. Fintan of Clonenagh
 St. Fintan of Clonenagh

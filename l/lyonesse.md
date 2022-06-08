@@ -5,7 +5,7 @@ article: false
 icon: article
 next: láeg.md
 prev: luxovius.md
-author: Mary Jones
+author: "Mary Jones"
 ---
 Lyonesse
 Lyonesse

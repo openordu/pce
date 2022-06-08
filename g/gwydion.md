@@ -5,7 +5,7 @@ article: false
 icon: article
 next: gwyllion.md
 prev: gwyddno.md
-author: Mary Jones
+author: "Mary Jones"
 ---
 Gwydion
 Gwydion

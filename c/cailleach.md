@@ -5,7 +5,7 @@ article: false
 icon: article
 next: cailleach-bhéarra.md
 prev: cailitin.md
-author: Mary Jones
+author: "Mary Jones"
 ---
 Cailleach
 Cailleach

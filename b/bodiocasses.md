@@ -5,7 +5,7 @@ article: false
 icon: article
 next: bog.md
 prev: bodhmall.md
-author: Mary Jones
+author: "Mary Jones"
 ---
 Bodiocasses
 Bodiocasses

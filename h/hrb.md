@@ -5,7 +5,7 @@ article: false
 icon: article
 next: hu.md
 prev: hot-water.md
-author: Mary Jones
+author: "Mary Jones"
 ---
 The History of the Kings of Britain
 The History of the Kings of Britain

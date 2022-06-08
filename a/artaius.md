@@ -5,7 +5,7 @@ article: false
 icon: article
 next: artemis.md
 prev: artaios.md
-author: Mary Jones
+author: "Mary Jones"
 ---
 Artaius
 Artaius

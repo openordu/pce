@@ -5,7 +5,7 @@ article: false
 icon: article
 next: nechtanebus.md
 prev: neara.md
-author: Mary Jones
+author: "Mary Jones"
 ---
 Nechtan
 Nechtan

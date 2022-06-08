@@ -5,7 +5,7 @@ article: false
 icon: article
 next: sutugius.md
 prev: superstition.md
-author: Mary Jones
+author: "Mary Jones"
 ---
 The Seven Survivors of Prydain
 The Seven Survivors of Prydein

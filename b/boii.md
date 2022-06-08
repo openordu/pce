@@ -5,7 +5,7 @@ article: false
 icon: article
 next: bolg.md
 prev: bogie.md
-author: Mary Jones
+author: "Mary Jones"
 ---
 Boii
 Boii

@@ -5,7 +5,7 @@ article: false
 icon: article
 next: coll.md
 prev: colgrevance.md
-author: Mary Jones
+author: "Mary Jones"
 ---
 Coligny Calendar
 Coligny Calendar

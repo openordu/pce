@@ -5,7 +5,7 @@ article: false
 icon: article
 next: argante.md
 prev: arduinna.md
-author: Mary Jones
+author: "Mary Jones"
 ---
 Aremorica
 Aremorica

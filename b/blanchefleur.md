@@ -5,7 +5,7 @@ article: false
 icon: article
 next: blarney-stone.md
 prev: blaise.md
-author: Mary Jones
+author: "Mary Jones"
 ---
 Blanchefleur
 Blanchefleur

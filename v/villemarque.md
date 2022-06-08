@@ -5,7 +5,7 @@ article: false
 icon: article
 next: vindonnus.md
 prev: vikings.md
-author: Mary Jones
+author: "Mary Jones"
 ---
 Vicomte Théodore Hersart de la Villemarqué
 Vicomte Théodore Hersart de la Villemarqué

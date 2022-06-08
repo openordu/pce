@@ -5,7 +5,7 @@ article: false
 icon: article
 next: liver.md
 prev: literature-celts-in.md
-author: Mary Jones
+author: "Mary Jones"
 ---
 Cornish Literature
 Cornish Literature

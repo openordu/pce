@@ -5,7 +5,7 @@ article: false
 icon: article
 next: uigreann.md
 prev: muireartach.md
-author: Mary Jones
+author: "Mary Jones"
 ---
 Nuada Airgetlam
 Nuada Airgetlam

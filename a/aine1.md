@@ -5,7 +5,7 @@ article: false
 icon: article
 next: aine2.md
 prev: aine.md
-author: Mary Jones
+author: "Mary Jones"
 ---
 Áine Clí
 Áine Clí

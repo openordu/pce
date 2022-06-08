@@ -5,7 +5,7 @@ article: false
 icon: article
 next: sequana.md
 prev: senua.md
-author: Mary Jones
+author: "Mary Jones"
 ---
 Mercury Senus
 Senus

@@ -5,7 +5,7 @@ article: false
 icon: article
 next: pelagianism.md
 prev: peg-powler.md
-author: Mary Jones
+author: "Mary Jones"
 ---
 Peibaw
 Peibaw

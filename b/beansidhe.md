@@ -5,7 +5,7 @@ article: false
 icon: article
 next: bear.md
 prev: beannighe.md
-author: Mary Jones
+author: "Mary Jones"
 ---
 Bean Sídhe
 Bean Sídhe

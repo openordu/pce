@@ -5,7 +5,7 @@ article: false
 icon: article
 next: goblin.md
 prev: goban-soar.md
-author: Mary Jones
+author: "Mary Jones"
 ---
 Gobannos
 Gobannus/Gobannos

@@ -5,7 +5,7 @@ article: false
 icon: article
 next: gorseddarberth.md
 prev: gorse.md
-author: Mary Jones
+author: "Mary Jones"
 ---
 gorsedd
 gorsedd

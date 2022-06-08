@@ -5,7 +5,7 @@ article: false
 icon: article
 next: sympathetic-magic.md
 prev: swift-jonathan.md
-author: Mary Jones
+author: "Mary Jones"
 ---
 The Sword in the Stone
 The Sword in the Stone

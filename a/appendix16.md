@@ -5,7 +5,7 @@ article: false
 icon: article
 next: appendix17.md
 prev: appendix15.md
-author: Mary Jones
+author: "Mary Jones"
 ---
 Celtic Calendar
 Celtic Calendar

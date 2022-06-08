@@ -5,7 +5,7 @@ article: false
 icon: article
 next: gwynn-ap-nudd.md
 prev: gwyllion.md
-author: Mary Jones
+author: "Mary Jones"
 ---
 Gwyn ap Nudd
 Gwyn ap Nudd

@@ -5,7 +5,7 @@ article: false
 icon: article
 next: prydwen.md
 prev: prydein.md
-author: Mary Jones
+author: "Mary Jones"
 ---
 Pryderi
 Pryderi ap Pwyll

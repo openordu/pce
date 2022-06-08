@@ -5,7 +5,7 @@ article: false
 icon: article
 next: bres.md
 prev: brennius.md
-author: Mary Jones
+author: "Mary Jones"
 ---
 Brennus
 Brennus

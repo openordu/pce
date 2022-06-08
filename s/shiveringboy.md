@@ -5,7 +5,7 @@ article: false
 icon: article
 next: shoemaker.md
 prev: shinny.md
-author: Mary Jones
+author: "Mary Jones"
 ---
 The Shivering Boy
 The Shivering Boy

@@ -5,7 +5,7 @@ article: false
 icon: article
 next: fergus-foga.md
 prev: ferdiad.md
-author: Mary Jones
+author: "Mary Jones"
 ---
 Fergus mac Roich
 Fergus mac Roich

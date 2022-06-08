@@ -5,7 +5,7 @@ article: false
 icon: article
 next: marcassa.md
 prev: maponus.md
-author: Mary Jones
+author: "Mary Jones"
 ---
 Maps of the Celtic World
 Early Cultures

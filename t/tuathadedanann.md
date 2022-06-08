@@ -5,7 +5,7 @@ article: false
 icon: article
 next: tuathal-teachtmhar.md
 prev: tuatha-dé-danann-wisdom-masters-of.md
-author: Mary Jones
+author: "Mary Jones"
 ---
 Tuatha Dé Danann
 Tuatha Dé Danann

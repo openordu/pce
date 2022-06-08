@@ -5,7 +5,7 @@ article: false
 icon: article
 next: ethniu.md
 prev: ethal-anbuail.md
-author: Mary Jones
+author: "Mary Jones"
 ---
 Ethne
 Ethne

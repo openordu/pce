@@ -5,7 +5,7 @@ article: false
 icon: article
 next: conchobhar-mac-neasa.md
 prev: conaran.md
-author: Mary Jones
+author: "Mary Jones"
 ---
 Conchobar mac Nessa
 Conchobor mac Nessa

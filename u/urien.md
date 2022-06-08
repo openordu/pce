@@ -5,7 +5,7 @@ article: false
 icon: article
 next: urine.md
 prev: urban.md
-author: Mary Jones
+author: "Mary Jones"
 ---
 Urien of Rheged
 Urien, King of North Rheged

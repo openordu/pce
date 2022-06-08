@@ -5,7 +5,7 @@ article: false
 icon: article
 next: gwrach-y-rhibyn.md
 prev: gwidion.md
-author: Mary Jones
+author: "Mary Jones"
 ---
 Gwion Bach
 Gwion Bach

@@ -5,7 +5,7 @@ article: false
 icon: article
 next: brigit-at-glastonbury-tor-godiva-and.md
 prev: brigindo.md
-author: Mary Jones
+author: "Mary Jones"
 ---
 Brigit
 Brigit

@@ -5,7 +5,7 @@ article: false
 icon: article
 next: appendix08.md
 prev: appendix06.md
-author: Mary Jones
+author: "Mary Jones"
 ---
 Appendix: Cryptozoology
 Appendix VII: Cryptozoology

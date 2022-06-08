@@ -5,7 +5,7 @@ article: false
 icon: article
 next: aguigrenons.md
 prev: agricultural-rituals.md
-author: Mary Jones
+author: "Mary Jones"
 ---
 Agrona
 Agrona

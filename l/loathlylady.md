@@ -5,7 +5,7 @@ article: false
 icon: article
 next: loathy-lady.md
 prev: llyr.md
-author: Mary Jones
+author: "Mary Jones"
 ---
 The Loathly Lady
 The Loathly Lady 

@@ -5,7 +5,7 @@ article: false
 icon: article
 next: brigantia.md
 prev: bricriu.md
-author: Mary Jones
+author: "Mary Jones"
 ---
 Brigantes
 Brigantes

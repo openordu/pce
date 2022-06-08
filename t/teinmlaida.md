@@ -5,7 +5,7 @@ article: false
 icon: article
 next: telgesinus.md
 prev: teinm-laeda.md
-author: Mary Jones
+author: "Mary Jones"
 ---
 teinm laida
 teinm laida

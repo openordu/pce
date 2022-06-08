@@ -5,7 +5,7 @@ article: false
 icon: article
 next: colla.md
 prev: coligny.md
-author: Mary Jones
+author: "Mary Jones"
 ---
 Coll ap Collfrewy
 Coll ap Collfrewy

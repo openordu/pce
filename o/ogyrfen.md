@@ -5,7 +5,7 @@ article: false
 icon: article
 next: ogyrvran.md
 prev: ogniad.md
-author: Mary Jones
+author: "Mary Jones"
 ---
 ogyrfen
 Ogyrven

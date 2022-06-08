@@ -5,7 +5,7 @@ article: false
 icon: article
 next: medb-as-sovereignty.md
 prev: meath.md
-author: Mary Jones
+author: "Mary Jones"
 ---
 Medb
 Medb

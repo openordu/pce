@@ -5,7 +5,7 @@ article: false
 icon: article
 next: tanist.md
 prev: tamara.md
-author: Mary Jones
+author: "Mary Jones"
 ---
 tangie
 tangie

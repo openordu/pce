@@ -5,7 +5,7 @@ article: false
 icon: article
 next: autumn-equinox.md
 prev: atrebates.md
-author: Mary Jones
+author: "Mary Jones"
 ---
 John Aubrey
 John Aubrey 

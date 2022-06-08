@@ -5,7 +5,7 @@ article: false
 icon: article
 next: beansidhe.md
 prev: bean-tighe.md
-author: Mary Jones
+author: "Mary Jones"
 ---
 Bean Nighe
 Bean Nighe

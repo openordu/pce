@@ -5,7 +5,7 @@ article: false
 icon: article
 next: dyfed.md
 prev: dwyer-michael.md
-author: Mary Jones
+author: "Mary Jones"
 ---
 Dwyn
 Dwyn

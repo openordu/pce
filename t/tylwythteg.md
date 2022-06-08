@@ -5,7 +5,7 @@ article: false
 icon: article
 next: tyrants.md
 prev: tylwyth-teg.md
-author: Mary Jones
+author: "Mary Jones"
 ---
 Tylwyth Teg
 Tylwyth Teg

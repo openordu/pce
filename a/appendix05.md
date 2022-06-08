@@ -5,7 +5,7 @@ article: false
 icon: article
 next: appendix06.md
 prev: appendix04.md
-author: Mary Jones
+author: "Mary Jones"
 ---
 Geoffrey of Monmouth's Kings of Britain
 Appendix V: Geoffrey of Monmouth's Kings

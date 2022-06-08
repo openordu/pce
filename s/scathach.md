@@ -5,7 +5,7 @@ article: false
 icon: article
 next: scenmed.md
 prev: scantlie-mab.md
-author: Mary Jones
+author: "Mary Jones"
 ---
 Scathach
 Scathach

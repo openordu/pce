@@ -5,7 +5,7 @@ article: false
 icon: article
 next: cunobelinus.md
 prev: cunedda.md
-author: Mary Jones
+author: "Mary Jones"
 ---
 Cuneglasus/Cynglas Goch
 Cuneglasus

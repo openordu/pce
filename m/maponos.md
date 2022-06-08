@@ -5,7 +5,7 @@ article: false
 icon: article
 next: maponus.md
 prev: maolodhrán.md
-author: Mary Jones
+author: "Mary Jones"
 ---
 Apollo Maponos
 Apollo Maponos

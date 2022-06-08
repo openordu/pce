@@ -5,7 +5,7 @@ article: false
 icon: article
 next: wicca.md
 prev: whitestag.md
-author: Mary Jones
+author: "Mary Jones"
 ---
 Richard Whiting
 elsewhere, Richard Whyting

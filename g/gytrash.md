@@ -5,7 +5,7 @@ article: false
 icon: article
 next: gáe-assail.md
 prev: gwythyr-fab-greidawl-gyre-carling.md
-author: Mary Jones
+author: "Mary Jones"
 ---
 gytrash
 Gytrash

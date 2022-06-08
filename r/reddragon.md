@@ -5,7 +5,7 @@ article: false
 icon: article
 next: reid-thome.md
 prev: redcap.md
-author: Mary Jones
+author: "Mary Jones"
 ---
 Red Dragon of Wales
 Red Dragon of Wales
