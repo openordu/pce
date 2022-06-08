@@ -5,7 +5,7 @@ article: false
 icon: article
 next: cerridwen.md
 prev: cerne-abbas-giant.md
-contributor: Mary Jones
+author: Mary Jones
 ---
 Cernunnos
 Cernunnos

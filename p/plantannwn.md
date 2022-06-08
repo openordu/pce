@@ -5,7 +5,7 @@ article: false
 icon: article
 next: plantdon.md
 prev: plant-annwn.md
-contributor: Mary Jones
+author: Mary Jones
 ---
 Plant Annwn
 Plant Annwn

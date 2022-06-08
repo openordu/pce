@@ -5,7 +5,7 @@ article: false
 icon: article
 next: baobhansith.md
 prev: banshee.md
-contributor: Mary Jones
+author: Mary Jones
 ---
 Banshenchas
 Banshenchas

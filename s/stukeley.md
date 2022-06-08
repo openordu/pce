@@ -5,7 +5,7 @@ article: false
 icon: article
 next: stwmp.md
 prev: struan.md
-contributor: Mary Jones
+author: Mary Jones
 ---
 William Stukeley
 Rev. Dr. William Stukeley

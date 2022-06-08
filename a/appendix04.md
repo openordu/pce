@@ -5,7 +5,7 @@ article: false
 icon: article
 next: appendix05.md
 prev: appendix03.md
-contributor: Mary Jones
+author: Mary Jones
 ---
 Irish Story Types
 Appendix IV: Irish Story Types

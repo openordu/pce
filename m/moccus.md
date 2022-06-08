@@ -5,7 +5,7 @@ article: false
 icon: article
 next: mochaoi.md
 prev: mithras.md
-contributor: Mary Jones
+author: Mary Jones
 ---
 Moccus
 Moccus

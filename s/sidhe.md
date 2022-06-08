@@ -5,7 +5,7 @@ article: false
 icon: article
 next: siege.md
 prev: shoney.md
-contributor: Mary Jones
+author: Mary Jones
 ---
 sidhe
 sídhe

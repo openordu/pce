@@ -5,7 +5,7 @@ article: false
 icon: article
 next: brutus.md
 prev: bruno.md
-contributor: Mary Jones
+author: Mary Jones
 ---
 brut
 brut

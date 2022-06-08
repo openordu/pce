@@ -5,7 +5,7 @@ article: false
 icon: article
 next: ayglin.md
 prev: away.md
-contributor: Mary Jones
+author: Mary Jones
 ---
 awen
 awen

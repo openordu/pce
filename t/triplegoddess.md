@@ -5,7 +5,7 @@ article: false
 icon: article
 next: triplicity.md
 prev: trinovantum.md
-contributor: Mary Jones
+author: Mary Jones
 ---
 Triple Goddess of the Celts
 The Triple Goddess of the Celts

@@ -5,7 +5,7 @@ article: false
 icon: article
 next: leborgabala.md
 prev: leabharbreac.md
-contributor: Mary Jones
+author: Mary Jones
 ---
 Leanan Sídhe
 Leanan Sídhe

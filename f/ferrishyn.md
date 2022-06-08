@@ -5,7 +5,7 @@ article: false
 icon: article
 next: festival.md
 prev: ferrish.md
-contributor: Mary Jones
+author: Mary Jones
 ---
 Ferrishyn
 Ferrishyn

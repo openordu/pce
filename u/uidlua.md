@@ -5,7 +5,7 @@ article: false
 icon: article
 next: uiducus.md
 prev: uicce.md
-contributor: Mary Jones
+author: Mary Jones
 ---
 uidlua
 u̯idlu̯ā

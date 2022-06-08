@@ -5,7 +5,7 @@ article: false
 icon: article
 next: balor.md
 prev: ball-seirc.md
-contributor: Mary Jones
+author: Mary Jones
 ---
 Book of Ballymote
 The Book of Ballymote

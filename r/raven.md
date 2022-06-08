@@ -5,7 +5,7 @@ article: false
 icon: article
 next: rebirth.md
 prev: rathcrogan.md
-contributor: Mary Jones
+author: Mary Jones
 ---
 raven
 raven

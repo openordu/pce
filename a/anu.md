@@ -5,7 +5,7 @@ article: false
 icon: article
 next: aodh.md
 prev: antlers.md
-contributor: Mary Jones
+author: Mary Jones
 ---
 Anu/Anann
 Anu

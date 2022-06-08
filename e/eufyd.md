@@ -5,7 +5,7 @@ article: false
 icon: article
 next: evans.md
 prev: ethniu.md
-contributor: Mary Jones
+author: Mary Jones
 ---
 Eufydd uab Dôn
 Eufydd uab Dôn

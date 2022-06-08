@@ -5,7 +5,7 @@ article: false
 icon: article
 next: ocean-sweeper.md
 prev: oath.md
-contributor: Mary Jones
+author: Mary Jones
 ---
 Oberon
 Oberon

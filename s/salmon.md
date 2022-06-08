@@ -5,7 +5,7 @@ article: false
 icon: article
 next: salt.md
 prev: saitada.md
-contributor: Mary Jones
+author: Mary Jones
 ---
 salmon
 salmon 

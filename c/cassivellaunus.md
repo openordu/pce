@@ -5,7 +5,7 @@ article: false
 icon: article
 next: casting-aglamour.md
 prev: casan-buidhe.md
-contributor: Mary Jones
+author: Mary Jones
 ---
 Cassivellaunus
 Cassivellaunus

@@ -5,7 +5,7 @@ article: false
 icon: article
 next: merlin-arthur-and.md
 prev: mercury.md
-contributor: Mary Jones
+author: Mary Jones
 ---
 Merlin
 Merlin

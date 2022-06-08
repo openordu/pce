@@ -5,7 +5,7 @@ article: false
 icon: article
 next: aidín.md
 prev: aibheaeg.md
-contributor: Mary Jones
+author: Mary Jones
 ---
 aided
 aided

@@ -5,7 +5,7 @@ article: false
 icon: article
 next: bolvinnus.md
 prev: bolg.md
-contributor: Mary Jones
+author: Mary Jones
 ---
 Mars Boluinnus
 Bolvinnus

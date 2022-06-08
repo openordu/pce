@@ -5,7 +5,7 @@ article: false
 icon: article
 next: gunna.md
 prev: gundestrup-cauldron.md
-contributor: Mary Jones
+author: Mary Jones
 ---
 Gundestrup Cauldron
 Gundestrup Cauldron

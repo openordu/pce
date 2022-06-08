@@ -5,7 +5,7 @@ article: false
 icon: article
 next: owein.md
 prev: outlaws.md
-contributor: Mary Jones
+author: Mary Jones
 ---
 ovate
 ovate

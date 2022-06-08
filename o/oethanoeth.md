@@ -5,7 +5,7 @@ article: false
 icon: article
 next: ogalla.md
 prev: oengus.md
-contributor: Mary Jones
+author: Mary Jones
 ---
 Caer Oeth Anoeth
 Caer Oeth Anoeth

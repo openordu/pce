@@ -5,7 +5,7 @@ article: false
 icon: article
 next: priest.md
 prev: pregnancy-through-drinking-or-eating.md
-contributor: Mary Jones
+author: Mary Jones
 ---
 Prester John
 Prester John

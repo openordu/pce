@@ -5,7 +5,7 @@ article: false
 icon: article
 next: taise.md
 prev: taghairm.md
-contributor: Mary Jones
+author: Mary Jones
 ---
 Tailtiu
 Tailtiu 

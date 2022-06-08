@@ -5,7 +5,7 @@ article: false
 icon: article
 next: aquae-sulis.md
 prev: apple.md
-contributor: Mary Jones
+author: Mary Jones
 ---
 The Apprentice Pillar
 Apprentice Pillar

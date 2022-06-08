@@ -5,7 +5,7 @@ article: false
 icon: article
 next: appendix12.md
 prev: appendix10.md
-contributor: Mary Jones
+author: Mary Jones
 ---
 Celtic "Sacred" Sites
 Celtic "Sacred" Sites

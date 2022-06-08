@@ -5,7 +5,7 @@ article: false
 icon: article
 next: war-furies.md
 prev: wake.md
-contributor: Mary Jones
+author: Mary Jones
 ---
 Walter Map
 Walter Map

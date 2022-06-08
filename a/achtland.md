@@ -5,7 +5,7 @@ article: false
 icon: article
 next: ad-bene.md
 prev: achtan-.md
-contributor: Mary Jones
+author: Mary Jones
 ---
 Achtland
 Achtland

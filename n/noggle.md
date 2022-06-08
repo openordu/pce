@@ -5,7 +5,7 @@ article: false
 icon: article
 next: noine.md
 prev: nodens.md
-contributor: Mary Jones
+author: Mary Jones
 ---
 noggle
 noggle

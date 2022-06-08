@@ -5,7 +5,7 @@ article: false
 icon: article
 next: taliesin2.md
 prev: taliesin-wisdom-of.md
-contributor: Mary Jones
+author: Mary Jones
 ---
 Taliesin
 Taliesin

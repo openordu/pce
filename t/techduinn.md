@@ -5,7 +5,7 @@ article: false
 icon: article
 next: tegau-eurfron.md
 prev: tech-duinn.md
-contributor: Mary Jones
+author: Mary Jones
 ---
 Tech Duinn
 Tech Duinn

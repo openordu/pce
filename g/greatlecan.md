@@ -5,7 +5,7 @@ article: false
 icon: article
 next: greek-writings-celts-in.md
 prev: greatireland.md
-contributor: Mary Jones
+author: Mary Jones
 ---
 Great Book of Lecan
 The Great Book of Lecan

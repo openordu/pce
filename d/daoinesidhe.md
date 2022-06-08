@@ -5,7 +5,7 @@ article: false
 icon: article
 next: darkness-and-lightdark-roasleen.md
 prev: daoinemaite.md
-contributor: Mary Jones
+author: Mary Jones
 ---
 daoine sidhe
 daoine sidhe

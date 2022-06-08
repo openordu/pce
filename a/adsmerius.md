@@ -5,7 +5,7 @@ article: false
 icon: article
 next: adsullata.md
 prev: adsagsona.md
-contributor: Mary Jones
+author: Mary Jones
 ---
 Adsmerius
 Mercury Adsmerius

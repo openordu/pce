@@ -5,7 +5,7 @@ article: false
 icon: article
 next: nimue-nisien.md
 prev: niessin.md
-contributor: Mary Jones
+author: Mary Jones
 ---
 Night of the Long Knives
 Night of the Long Knives

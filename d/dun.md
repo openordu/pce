@@ -5,7 +5,7 @@ article: false
 icon: article
 next: dun-cow-x-.md
 prev: dumias.md
-contributor: Mary Jones
+author: Mary Jones
 ---
 dun
 dún

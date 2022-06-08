@@ -5,7 +5,7 @@ article: false
 icon: article
 next: loathlylady.md
 prev: llwch-llawwyanawc-llyn-tegid.md
-contributor: Mary Jones
+author: Mary Jones
 ---
 Llyr
 Llŷr Llediath

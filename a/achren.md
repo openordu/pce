@@ -5,7 +5,7 @@ article: false
 icon: article
 next: achtan-.md
 prev: achall.md
-contributor: Mary Jones
+author: Mary Jones
 ---
 Achren
 Achren

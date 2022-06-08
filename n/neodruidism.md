@@ -5,7 +5,7 @@ article: false
 icon: article
 next: nera.md
 prev: neo-pagan.md
-contributor: Mary Jones
+author: Mary Jones
 ---
 Neodruidism
 Neodruidism

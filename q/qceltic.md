@@ -5,7 +5,7 @@ article: false
 icon: article
 next: questing-beast.md
 prev: q-celtic.md
-contributor: Mary Jones
+author: Mary Jones
 ---
 Q-Celtic
 Q-Celtic

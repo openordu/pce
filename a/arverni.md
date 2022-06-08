@@ -5,7 +5,7 @@ article: false
 icon: article
 next: arvernor.md
 prev: arvalus.md
-contributor: Mary Jones
+author: Mary Jones
 ---
 Arverni
 Arverni

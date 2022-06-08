@@ -5,7 +5,7 @@ article: false
 icon: article
 next: sun-cosmological-concept.md
 prev: summer-land.md
-contributor: Mary Jones
+author: Mary Jones
 ---
 Summerlands
 The Summerlands/Summer Country

@@ -5,7 +5,7 @@ article: false
 icon: article
 next: baile-mac-buain.md
 prev: badon.md
-contributor: Mary Jones
+author: Mary Jones
 ---
 baile
 baile

@@ -5,7 +5,7 @@ article: false
 icon: article
 next: pech.md
 prev: pattern.md
-contributor: Mary Jones
+author: Mary Jones
 ---
 P-Celtic
 P-Celtic

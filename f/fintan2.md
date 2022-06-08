@@ -5,7 +5,7 @@ article: false
 icon: article
 next: fintan3.md
 prev: fintan1.md
-contributor: Mary Jones
+author: Mary Jones
 ---
 Fintan the Historian
 Fintan the Historian

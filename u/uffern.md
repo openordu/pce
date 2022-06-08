@@ -5,7 +5,7 @@ article: false
 icon: article
 next: uffington.md
 prev: uellaunus.md
-contributor: Mary Jones
+author: Mary Jones
 ---
 Uffern
 Uffern

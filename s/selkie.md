@@ -5,7 +5,7 @@ article: false
 icon: article
 next: semias.md
 prev: sele.md
-contributor: Mary Jones
+author: Mary Jones
 ---
 selkie
 selkie

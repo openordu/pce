@@ -5,7 +5,7 @@ article: false
 icon: article
 next: agallamh-na-seanóarch.md
 prev: afanc.md
-contributor: Mary Jones
+author: Mary Jones
 ---
 Afaon ap Taliesin
 Afaon ap Taliesin

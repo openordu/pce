@@ -5,7 +5,7 @@ article: false
 icon: article
 next: james-ii.md
 prev: jack-o-lantern.md
-contributor: Mary Jones
+author: Mary Jones
 ---
 Jack-in-Irons
 Jack-In-Irons

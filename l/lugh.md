@@ -5,7 +5,7 @@ article: false
 icon: article
 next: lugh-biróg-and.md
 prev: lugaidh-friend-of-ailill-mac-máta.md
-contributor: Mary Jones
+author: Mary Jones
 ---
 Lugh
 Lugh Lamhfada

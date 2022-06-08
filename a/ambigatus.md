@@ -5,7 +5,7 @@ article: false
 icon: article
 next: amhairghin-glúngheal.md
 prev: ambiani.md
-contributor: Mary Jones
+author: Mary Jones
 ---
 Ambigatus
 Ambigatus

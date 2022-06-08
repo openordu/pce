@@ -5,7 +5,7 @@ article: false
 icon: article
 next: artio.md
 prev: arthurian-cycle.md
-contributor: Mary Jones
+author: Mary Jones
 ---
 Arthur O'Bower
 Arthur O'Bower

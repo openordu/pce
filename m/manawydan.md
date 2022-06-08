@@ -5,7 +5,7 @@ article: false
 icon: article
 next: manawydan-branch.md
 prev: manannán-mac-lir-áine-of-knockainy-and.md
-contributor: Mary Jones
+author: Mary Jones
 ---
 Manawyddan fab Llyr
 Manawyddan

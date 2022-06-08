@@ -5,7 +5,7 @@ article: false
 icon: article
 next: macpherson-james.md
 prev: macha-mórrígan-and.md
-contributor: Mary Jones
+author: Mary Jones
 ---
 James Macpherson
 James Macpherson

@@ -5,7 +5,7 @@ article: false
 icon: article
 next: camulos.md
 prev: camlan.md
-contributor: Mary Jones
+author: Mary Jones
 ---
 Camlann
 Battle of Camlann

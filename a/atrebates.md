@@ -5,7 +5,7 @@ article: false
 icon: article
 next: aubrey.md
 prev: athach.md
-contributor: Mary Jones
+author: Mary Jones
 ---
 Atrebates
 Atrebates

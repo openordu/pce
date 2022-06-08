@@ -5,7 +5,7 @@ article: false
 icon: article
 next: beltane-fire.md
 prev: bellovaci.md
-contributor: Mary Jones
+author: Mary Jones
 ---
 Beltane
 Beltane

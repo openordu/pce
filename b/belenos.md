@@ -5,7 +5,7 @@ article: false
 icon: article
 next: belenus.md
 prev: belatucadros.md
-contributor: Mary Jones
+author: Mary Jones
 ---
 Belenos
 Belenos

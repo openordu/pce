@@ -5,7 +5,7 @@ article: false
 icon: article
 next: aberseint.md
 prev: aberalaw.md
-contributor: Mary Jones
+author: Mary Jones
 ---
 Aber Cleddyf
 Aber Cleddyf

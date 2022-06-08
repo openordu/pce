@@ -5,7 +5,7 @@ article: false
 icon: article
 next: friar-rush.md
 prev: fraoch.md
-contributor: Mary Jones
+author: Mary Jones
 ---
 Friagabis
 Friagabis

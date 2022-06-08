@@ -5,7 +5,7 @@ article: false
 icon: article
 next: triplegoddess.md
 prev: trinobantes.md
-contributor: Mary Jones
+author: Mary Jones
 ---
 Trinovantum
 Trinovantum

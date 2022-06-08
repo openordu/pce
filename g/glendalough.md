@@ -5,7 +5,7 @@ article: false
 icon: article
 next: glewlwyd-gafaelwar-gnome.md
 prev: glen-lyon.md
-contributor: Mary Jones
+author: Mary Jones
 ---
 Book of Glendalough
 Leabhar Glinne Dá Locha

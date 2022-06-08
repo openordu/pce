@@ -5,7 +5,7 @@ article: false
 icon: article
 next: uruisg.md
 prev: urnfield-vi-.md
-contributor: Mary Jones
+author: Mary Jones
 ---
 Ursula
 St. Ursula

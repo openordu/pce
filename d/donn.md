@@ -5,7 +5,7 @@ article: false
 icon: article
 next: donn-bó.md
 prev: donkeys.md
-contributor: Mary Jones
+author: Mary Jones
 ---
 Donn
 Donn

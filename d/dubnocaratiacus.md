@@ -5,7 +5,7 @@ article: false
 icon: article
 next: dubthach.md
 prev: dubinn.md
-contributor: Mary Jones
+author: Mary Jones
 ---
 Mercury Dubnocaratiacus
 Mercury Dubnocaratiacus

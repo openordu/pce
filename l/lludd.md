@@ -5,7 +5,7 @@ article: false
 icon: article
 next: llwch-llawwyanawc-llyn-tegid.md
 prev: lleuelys.md
-contributor: Mary Jones
+author: Mary Jones
 ---
 Lludd
 Lludd Llaw Ereint

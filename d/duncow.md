@@ -5,7 +5,7 @@ article: false
 icon: article
 next: dunlop-bessie.md
 prev: dun-cow-x-.md
-contributor: Mary Jones
+author: Mary Jones
 ---
 Book of the Dun Cow
 The Book of the Dun Cow

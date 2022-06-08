@@ -5,7 +5,7 @@ article: false
 icon: article
 next: alp-luachra.md
 prev: all-saints-day.md
-contributor: Mary Jones
+author: Mary Jones
 ---
 Allobroges
 Allobroges

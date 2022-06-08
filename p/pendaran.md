@@ -5,7 +5,7 @@ article: false
 icon: article
 next: pendragon.md
 prev: penarddun.md
-contributor: Mary Jones
+author: Mary Jones
 ---
 Pendaran Dyfed
 Pendaran Dyfed

@@ -5,7 +5,7 @@ article: false
 icon: article
 next: andraste.md
 prev: andarta.md
-contributor: Mary Jones
+author: Mary Jones
 ---
 Andescociuoucus
 Mercury Andescociuoucus

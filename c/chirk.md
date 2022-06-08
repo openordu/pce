@@ -5,7 +5,7 @@ article: false
 icon: article
 next: chlaus-haistig.md
 prev: chimes-child.md
-contributor: Mary Jones
+author: Mary Jones
 ---
 Black Book of Chirk
 The Black Book of Chirk

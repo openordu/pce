@@ -5,7 +5,7 @@ article: false
 icon: article
 next: ysgithyrwyn.md
 prev: ys.md
-contributor: Mary Jones
+author: Mary Jones
 ---
 Ysbaddaden Penkawr
 Ysbaddaden Penkawr

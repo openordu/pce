@@ -5,7 +5,7 @@ article: false
 icon: article
 next: brastias.md
 prev: branwen.md
-contributor: Mary Jones
+author: Mary Jones
 ---
 Branwen uerch Lyr: Second Branch of the Mabinogi
 Branwen uerch Lyr: Second Branch of the Mabinogi

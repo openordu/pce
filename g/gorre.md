@@ -5,7 +5,7 @@ article: false
 icon: article
 next: gorse.md
 prev: gorm.md
-contributor: Mary Jones
+author: Mary Jones
 ---
 Gorre
 Gorre

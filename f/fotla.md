@@ -5,7 +5,7 @@ article: false
 icon: article
 next: four-leafed-clover.md
 prev: fothadh-canainne.md
-contributor: Mary Jones
+author: Mary Jones
 ---
 Fotla
 Fotla

@@ -5,7 +5,7 @@ article: false
 icon: article
 next: dwarf.md
 prev: durrow.md
-contributor: Mary Jones
+author: Mary Jones
 ---
 Du-sith
 du-sith

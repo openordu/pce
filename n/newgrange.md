@@ -5,7 +5,7 @@ article: false
 icon: article
 next: niadh-seaghamhain.md
 prev: nevyn.md
-contributor: Mary Jones
+author: Mary Jones
 ---
 Newgrange/Brú na Bóinne
 Newgrange

@@ -5,7 +5,7 @@ article: false
 icon: article
 next: king-of-ireland-s-son-kings.md
 prev: killeen.md
-contributor: Mary Jones
+author: Mary Jones
 ---
 king
 king

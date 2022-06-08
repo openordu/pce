@@ -5,7 +5,7 @@ article: false
 icon: article
 next: excarnation.md
 prev: evil-eye.md
-contributor: Mary Jones
+author: Mary Jones
 ---
 Excalibur
 Excalibur

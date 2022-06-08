@@ -5,7 +5,7 @@ article: false
 icon: article
 next: pwyll-branch.md
 prev: purr-mooar.md
-contributor: Mary Jones
+author: Mary Jones
 ---
 Pwyll
 Pwyll pendeuc Dyfed/Pwyll pen Annwfn

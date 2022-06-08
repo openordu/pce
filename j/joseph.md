@@ -5,7 +5,7 @@ article: false
 icon: article
 next: joseph-of-arimathea.md
 prev: john.md
-contributor: Mary Jones
+author: Mary Jones
 ---
 Joseph of Arimathea
 Joseph of Arimathea

@@ -5,7 +5,7 @@ article: false
 icon: article
 next: children-of.md
 prev: charm.md
-contributor: Mary Jones
+author: Mary Jones
 ---
 Charm of Making
 The Charm of Making

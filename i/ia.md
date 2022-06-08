@@ -5,7 +5,7 @@ article: false
 icon: article
 next: ialonus.md
 prev: i-breasil.md
-contributor: Mary Jones
+author: Mary Jones
 ---
 St. Ia
 Saint Ia

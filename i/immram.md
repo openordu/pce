@@ -5,7 +5,7 @@ article: false
 icon: article
 next: imp.md
 prev: immovability.md
-contributor: Mary Jones
+author: Mary Jones
 ---
 immram
 Immram

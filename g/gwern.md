@@ -5,7 +5,7 @@ article: false
 icon: article
 next: gwidion.md
 prev: gwenfrewi.md
-contributor: Mary Jones
+author: Mary Jones
 ---
 Gwern
 Gwern

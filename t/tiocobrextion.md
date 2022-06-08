@@ -5,7 +5,7 @@ article: false
 icon: article
 next: tir-fo-thuinn.md
 prev: tintagel.md
-contributor: Mary Jones
+author: Mary Jones
 ---
 Tiocobrextion
 Tiocobrextion

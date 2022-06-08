@@ -5,7 +5,7 @@ article: false
 icon: article
 next: romano-celtic.md
 prev: roman-empire-celtic-conflict-with.md
-contributor: Mary Jones
+author: Mary Jones
 ---
 Le Roman du Graal
 Le Roman du Graal

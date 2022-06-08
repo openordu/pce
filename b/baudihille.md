@@ -5,7 +5,7 @@ article: false
 icon: article
 next: baudwin.md
 prev: battle-of-mage-tuired.md
-contributor: Mary Jones
+author: Mary Jones
 ---
 Baudihille
 Baudahillia/Baudihille

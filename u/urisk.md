@@ -5,7 +5,7 @@ article: false
 icon: article
 next: urnfield-vi-.md
 prev: urine.md
-contributor: Mary Jones
+author: Mary Jones
 ---
 urisk
 urisk

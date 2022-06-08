@@ -5,7 +5,7 @@ article: false
 icon: article
 next: dun.md
 prev: dumbsupper.md
-contributor: Mary Jones
+author: Mary Jones
 ---
 Mercury Dumias
 Mercury Dumias

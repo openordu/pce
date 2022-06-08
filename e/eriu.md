@@ -5,7 +5,7 @@ article: false
 icon: article
 next: erne.md
 prev: erce.md
-contributor: Mary Jones
+author: Mary Jones
 ---
 Ériu
 Ériu

@@ -5,7 +5,7 @@ article: false
 icon: article
 next: ethal-anbuail.md
 prev: esyllt.md
-contributor: Mary Jones
+author: Mary Jones
 ---
 Etain Echraide
 Etain Echraide

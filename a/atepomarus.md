@@ -5,7 +5,7 @@ article: false
 icon: article
 next: atesmerta-atesmerius.md
 prev: astrology.md
-contributor: Mary Jones
+author: Mary Jones
 ---
 Atepomarus
 Atepomarus

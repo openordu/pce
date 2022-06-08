@@ -5,7 +5,7 @@ article: false
 icon: article
 next: sigmall.md
 prev: sidhe.md
-contributor: Mary Jones
+author: Mary Jones
 ---
 Siege Perilous
 Siege Perilous

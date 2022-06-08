@@ -5,7 +5,7 @@ article: false
 icon: article
 next: ban-naemha.md
 prev: ballymote.md
-contributor: Mary Jones
+author: Mary Jones
 ---
 Balor
 Balor

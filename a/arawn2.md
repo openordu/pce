@@ -5,7 +5,7 @@ article: false
 icon: article
 next: arberth.md
 prev: arawn1.md
-contributor: Mary Jones
+author: Mary Jones
 ---
 Arawn ap Cynfarch
 Arawn ap Cynfarch

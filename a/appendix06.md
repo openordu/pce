@@ -5,7 +5,7 @@ article: false
 icon: article
 next: appendix07.md
 prev: appendix05.md
-contributor: Mary Jones
+author: Mary Jones
 ---
 Medieval Celtic Manuscripts
 Appendix VI: Medieval Celtic Manuscripts

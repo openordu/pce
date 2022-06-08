@@ -5,7 +5,7 @@ article: false
 icon: article
 next: druidism.md
 prev: druidiccalendar.md
-contributor: Mary Jones
+author: Mary Jones
 ---
 Druidic Symbols
 Druidic Symbols

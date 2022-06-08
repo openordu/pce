@@ -5,7 +5,7 @@ article: false
 icon: article
 next: oethanoeth.md
 prev: odras.md
-contributor: Mary Jones
+author: Mary Jones
 ---
 Oengus mac ind-Og
 Óengus mac ind-Óg

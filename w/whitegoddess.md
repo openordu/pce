@@ -5,7 +5,7 @@ article: false
 icon: article
 next: whitehorse.md
 prev: white-lady.md
-contributor: Mary Jones
+author: Mary Jones
 ---
 The White Goddess
 The White Goddess: A Historical Grammar of Poetic Myth

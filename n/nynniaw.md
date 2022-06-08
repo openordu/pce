@@ -5,7 +5,7 @@ article: false
 icon: article
 next: nynnyaw.md
 prev: nygel.md
-contributor: Mary Jones
+author: Mary Jones
 ---
 Nynniaw
 Nynniaw

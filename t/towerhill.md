@@ -5,7 +5,7 @@ article: false
 icon: article
 next: transmigration-of-souls.md
 prev: toutior.md
-contributor: Mary Jones
+author: Mary Jones
 ---
 Tower Hill
 Tower Hill

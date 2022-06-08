@@ -5,7 +5,7 @@ article: false
 icon: article
 next: palomides-pamp.md
 prev: padstow-obby-oss-paganism.md
-contributor: Mary Jones
+author: Mary Jones
 ---
 Paleodruidism
 Paleodruidism

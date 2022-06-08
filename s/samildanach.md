@@ -5,7 +5,7 @@ article: false
 icon: article
 next: sampait.md
 prev: samhair.md
-contributor: Mary Jones
+author: Mary Jones
 ---
 Samildánach
 Samildánach

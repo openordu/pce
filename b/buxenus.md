@@ -5,7 +5,7 @@ article: false
 icon: article
 next: bé-chuille.md
 prev: buttery-spirits.md
-contributor: Mary Jones
+author: Mary Jones
 ---
 Mars Buxenus
 Buxenus

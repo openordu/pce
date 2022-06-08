@@ -5,7 +5,7 @@ article: false
 icon: article
 next: carlin.md
 prev: caractacus.md
-contributor: Mary Jones
+author: Mary Jones
 ---
 Caradawg fab Bran
 Caradawg fab Bran

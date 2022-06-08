@@ -5,7 +5,7 @@ article: false
 icon: article
 next: ulaidh.md
 prev: uisneach.md
-contributor: Mary Jones
+author: Mary Jones
 ---
 Mercury Visucius
 Uisucius

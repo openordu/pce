@@ -5,7 +5,7 @@ article: false
 icon: article
 next: tarvostrigaranus.md
 prev: tarroo-ushtey.md
-contributor: Mary Jones
+author: Mary Jones
 ---
 Tarvos Trigaranos
 Tarvos Trigaranos

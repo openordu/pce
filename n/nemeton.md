@@ -5,7 +5,7 @@ article: false
 icon: article
 next: nemetona.md
 prev: nemetius.md
-contributor: Mary Jones
+author: Mary Jones
 ---
 nemeton
 nemeton

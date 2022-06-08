@@ -5,7 +5,7 @@ article: false
 icon: article
 next: cat.md
 prev: casting-aglamour.md
-contributor: Mary Jones
+author: Mary Jones
 ---
 Casswallawn
 Caswallawn

@@ -5,7 +5,7 @@ article: false
 icon: article
 next: ambigatus.md
 prev: ambarri.md
-contributor: Mary Jones
+author: Mary Jones
 ---
 Ambiani
 Ambiani

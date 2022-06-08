@@ -5,7 +5,7 @@ article: false
 icon: article
 next: gwalchmei.md
 prev: guénolé.md
-contributor: Mary Jones
+author: Mary Jones
 ---
 Cantre'r Gwaelod
 Cantre'r Gwaelod/Maes Gwyddno

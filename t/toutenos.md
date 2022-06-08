@@ -5,7 +5,7 @@ article: false
 icon: article
 next: toutior.md
 prev: totem.md
-contributor: Mary Jones
+author: Mary Jones
 ---
 Mercury Toutenos
 Toutenos

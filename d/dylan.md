@@ -5,7 +5,7 @@ article: false
 icon: article
 next: dáire.md
 prev: dyfr.md
-contributor: Mary Jones
+author: Mary Jones
 ---
 Dylan eil Ton
 Dylan Eil Ton

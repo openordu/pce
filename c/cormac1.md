@@ -5,7 +5,7 @@ article: false
 icon: article
 next: cormac2.md
 prev: cormac-mac-cuileannáin.md
-contributor: Mary Jones
+author: Mary Jones
 ---
 Cormac mac Airt
 Cormac mac Airt mac Conn Céad Cathach

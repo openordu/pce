@@ -5,7 +5,7 @@ article: false
 icon: article
 next: night.md
 prev: nicnevin.md
-contributor: Mary Jones
+author: Mary Jones
 ---
 Niessin
 Niessin

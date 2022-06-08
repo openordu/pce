@@ -5,7 +5,7 @@ article: false
 icon: article
 next: passage-graves.md
 prev: partholón.md
-contributor: Mary Jones
+author: Mary Jones
 ---
 Parzival
 Parzival

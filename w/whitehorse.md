@@ -5,7 +5,7 @@ article: false
 icon: article
 next: whitestag.md
 prev: whitegoddess.md
-contributor: Mary Jones
+author: Mary Jones
 ---
 White Horse of Uffington
 White Horse of Uffington

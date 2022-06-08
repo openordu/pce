@@ -5,7 +5,7 @@ article: false
 icon: article
 next: shamanism.md
 prev: sgeimh-soluis.md
-contributor: Mary Jones
+author: Mary Jones
 ---
 Elaine of Astolat/The Lady of Shalott
 The title and subject of one of Tennyson's best-known poems.  It is loosely based on the figure of Elaine, the Fair Maid of Astolat in Malory, book XVIII, chapters 9-20.  

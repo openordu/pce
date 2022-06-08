@@ -5,7 +5,7 @@ article: false
 icon: article
 next: daoine-sídhe.md
 prev: danu-ii-v-.md
-contributor: Mary Jones
+author: Mary Jones
 ---
 Danube River
 Danube River

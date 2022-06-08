@@ -5,7 +5,7 @@ article: false
 icon: article
 next: dusith.md
 prev: durgan.md
-contributor: Mary Jones
+author: Mary Jones
 ---
 Book of Durrow
 The Book of Durrow

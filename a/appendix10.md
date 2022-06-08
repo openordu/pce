@@ -5,7 +5,7 @@ article: false
 icon: article
 next: appendix11.md
 prev: appendix09.md
-contributor: Mary Jones
+author: Mary Jones
 ---
 A Medieval Arthurian Reading List and Sourcebook
 A Medieval Arthurian Reading List and Sourcebook

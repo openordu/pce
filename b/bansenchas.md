@@ -5,7 +5,7 @@ article: false
 icon: article
 next: banshee.md
 prev: bangaisgedaig.md
-contributor: Mary Jones
+author: Mary Jones
 ---
 Bansenchas
 Banshenchas

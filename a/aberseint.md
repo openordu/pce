@@ -5,7 +5,7 @@ article: false
 icon: article
 next: abhartach-mac-ildathaigh.md
 prev: abercleddyv.md
-contributor: Mary Jones
+author: Mary Jones
 ---
 Aber Seint
 Aber Seint and Caer Aber Seint

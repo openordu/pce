@@ -5,7 +5,7 @@ article: false
 icon: article
 next: rose.md
 prev: rosault.md
-contributor: Mary Jones
+author: Mary Jones
 ---
 rosc
 rosc

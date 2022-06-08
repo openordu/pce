@@ -5,7 +5,7 @@ article: false
 icon: article
 next: beltane.md
 prev: bellieus.md
-contributor: Mary Jones
+author: Mary Jones
 ---
 Bellovaci
 Bellovaci

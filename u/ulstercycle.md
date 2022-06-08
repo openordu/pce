@@ -5,7 +5,7 @@ article: false
 icon: article
 next: undry.md
 prev: ulster-cycle.md
-contributor: Mary Jones
+author: Mary Jones
 ---
 The Ulster Cycle
 The Ulster Cycle

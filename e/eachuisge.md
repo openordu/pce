@@ -5,7 +5,7 @@ article: false
 icon: article
 next: eagle.md
 prev: eachtach.md
-contributor: Mary Jones
+author: Mary Jones
 ---
 Each uisge/Aughisky
 Each uisge/Aughisky

@@ -5,7 +5,7 @@ article: false
 icon: article
 next: belenos.md
 prev: bees.md
-contributor: Mary Jones
+author: Mary Jones
 ---
 Mars Belatucadros
 Mars Belatucadros

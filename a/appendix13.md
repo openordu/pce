@@ -5,7 +5,7 @@ article: false
 icon: article
 next: appendix14.md
 prev: appendix12.md
-contributor: Mary Jones
+author: Mary Jones
 ---
 Misconceptions About Druids
 Misconceptions About the Druids

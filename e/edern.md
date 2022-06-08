@@ -5,7 +5,7 @@ article: false
 icon: article
 next: eel.md
 prev: ector.md
-contributor: Mary Jones
+author: Mary Jones
 ---
 Edern ap Nudd
 Edern ap Nudd

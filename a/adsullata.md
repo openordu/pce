@@ -5,7 +5,7 @@ article: false
 icon: article
 next: adventure.md
 prev: adsmerius.md
-contributor: Mary Jones
+author: Mary Jones
 ---
 Adsullata
 Adsullata

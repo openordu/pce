@@ -5,7 +5,7 @@ article: false
 icon: article
 next: ailinn.md
 prev: ailill5.md
-contributor: Mary Jones
+author: Mary Jones
 ---
 Ailill Áine
 Ailill Áine

@@ -5,7 +5,7 @@ article: false
 icon: article
 next: elm-tree.md
 prev: elizabeth-i.md
-contributor: Mary Jones
+author: Mary Jones
 ---
 ellyll
 ellyll

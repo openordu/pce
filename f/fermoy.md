@@ -5,7 +5,7 @@ article: false
 icon: article
 next: ferrish.md
 prev: fergus-mór.md
-contributor: Mary Jones
+author: Mary Jones
 ---
 The Book of Fermoy
 The Book of Fermoy

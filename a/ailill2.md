@@ -5,7 +5,7 @@ article: false
 icon: article
 next: ailill3.md
 prev: ailill1.md
-contributor: Mary Jones
+author: Mary Jones
 ---
 Ailill Anglonnach / Aillil Anguba
 Ailill Anglonnach (One Stain) or Aillil Anguba

@@ -5,7 +5,7 @@ article: false
 icon: article
 next: inghean-bhuidhe.md
 prev: inchiquin-indech.md
-contributor: Mary Jones
+author: Mary Jones
 ---
 Independent Irish narratives
 Independent Irish Narratives

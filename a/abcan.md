@@ -5,7 +5,7 @@ article: false
 icon: article
 next: abcán.md
 prev: abbots-bromley-abcán.md
-contributor: Mary Jones
+author: Mary Jones
 ---
 Abcan
 Abcan mac Bicelmois

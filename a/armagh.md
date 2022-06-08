@@ -5,7 +5,7 @@ article: false
 icon: article
 next: armorica.md
 prev: aristotle.md
-contributor: Mary Jones
+author: Mary Jones
 ---
 Liber Ardmachanus: The Book of Armagh
 The Book of Armagh

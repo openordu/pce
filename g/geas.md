@@ -5,7 +5,7 @@ article: false
 icon: article
 next: gebann.md
 prev: geali-dianvir.md
-contributor: Mary Jones
+author: Mary Jones
 ---
 geas
 geas

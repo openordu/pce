@@ -5,7 +5,7 @@ article: false
 icon: article
 next: gwri.md
 prev: gwragedd-annwn.md
-contributor: Mary Jones
+author: Mary Jones
 ---
 Gwragedd Annwn
 Gwragedd Annwn

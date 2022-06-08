@@ -5,7 +5,7 @@ article: false
 icon: article
 next: gramarye.md
 prev: grail-purity-of-heart-and.md
-contributor: Mary Jones
+author: Mary Jones
 ---
 Grainne
 Grainne

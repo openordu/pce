@@ -5,7 +5,7 @@ article: false
 icon: article
 next: pryderi.md
 prev: province-.md
-contributor: Mary Jones
+author: Mary Jones
 ---
 Prydein son of Aedd Mawr
 Prydein son of Aedd Mawr

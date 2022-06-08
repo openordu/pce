@@ -5,7 +5,7 @@ article: false
 icon: article
 next: avebur.md
 prev: autumn-equinox.md
-contributor: Mary Jones
+author: Mary Jones
 ---
 Avalon
 Avalon

@@ -5,7 +5,7 @@ article: false
 icon: article
 next: planxty.md
 prev: plantdon.md
-contributor: Mary Jones
+author: Mary Jones
 ---
 Plant Rhys Dwfen
 Plant Rhys Dwfen

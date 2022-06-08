@@ -5,7 +5,7 @@ article: false
 icon: article
 next: iupiter.md
 prev: iucharba.md
-contributor: Mary Jones
+author: Mary Jones
 ---
 Iuiacus
 Iuiacus/Mercury Iuiacus

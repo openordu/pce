@@ -5,7 +5,7 @@ article: false
 icon: article
 next: greatlecan.md
 prev: gray-man.md
-contributor: Mary Jones
+author: Mary Jones
 ---
 Great Ireland
 Great Ireland

@@ -5,7 +5,7 @@ article: false
 icon: article
 next: alder-tree.md
 prev: albior.md
-contributor: Mary Jones
+author: Mary Jones
 ---
 Abilus
 Albius

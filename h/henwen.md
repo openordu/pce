@@ -5,7 +5,7 @@ article: false
 icon: article
 next: herbs.md
 prev: henky.md
-contributor: Mary Jones
+author: Mary Jones
 ---
 Hen Wen
 Hen Wen

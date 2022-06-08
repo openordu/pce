@@ -5,7 +5,7 @@ article: false
 icon: article
 next: appendix04.md
 prev: appendix01.md
-contributor: Mary Jones
+author: Mary Jones
 ---
 Examples of Interpretatio Romana
 Appendix III: Examples of Interpretatio Romana

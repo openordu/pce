@@ -5,7 +5,7 @@ article: false
 icon: article
 next: hoard.md
 prev: hill-of-ward.md
-contributor: Mary Jones
+author: Mary Jones
 ---
 Historia Brittonum
 Historia Brittonum

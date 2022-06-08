@@ -5,7 +5,7 @@ article: false
 icon: article
 next: manx.md
 prev: manogan.md
-contributor: Mary Jones
+author: Mary Jones
 ---
 manteis
 manteis

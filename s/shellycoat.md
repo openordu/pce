@@ -5,7 +5,7 @@ article: false
 icon: article
 next: shinny.md
 prev: sheep.md
-contributor: Mary Jones
+author: Mary Jones
 ---
 Shellycoat
 Shellycoat

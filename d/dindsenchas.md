@@ -5,7 +5,7 @@ article: false
 icon: article
 next: dindshenchas.md
 prev: dindraine.md
-contributor: Mary Jones
+author: Mary Jones
 ---
 dindsenchas
 dindsenchas

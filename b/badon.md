@@ -5,7 +5,7 @@ article: false
 icon: article
 next: baile.md
 prev: badhbh.md
-contributor: Mary Jones
+author: Mary Jones
 ---
 Battle of Mount Badon
 Battle of Mount Badon

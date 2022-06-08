@@ -5,7 +5,7 @@ article: false
 icon: article
 next: plantrhys.md
 prev: plantannwn.md
-contributor: Mary Jones
+author: Mary Jones
 ---
 Plant Dôn
 Plant Dôn

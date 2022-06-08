@@ -5,7 +5,7 @@ article: false
 icon: article
 next: gadelus.md
 prev: gabrielhounds.md
-contributor: Mary Jones
+author: Mary Jones
 ---
 Gabrus
 Gabrus/Mercury Gabrus

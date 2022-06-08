@@ -5,7 +5,7 @@ article: false
 icon: article
 next: mark.md
 prev: mariechampagne.md
-contributor: Mary Jones
+author: Mary Jones
 ---
 Mari Llwyd
 Mari Llwyd

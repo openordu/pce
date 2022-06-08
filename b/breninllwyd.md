@@ -5,7 +5,7 @@ article: false
 icon: article
 next: brennius.md
 prev: brenhines-y-nef.md
-contributor: Mary Jones
+author: Mary Jones
 ---
 Brenin Llwyd
 Brenin Llwyd

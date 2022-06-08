@@ -5,7 +5,7 @@ article: false
 icon: article
 next: cill-dara.md
 prev: cicollus.md
-contributor: Mary Jones
+author: Mary Jones
 ---
 Cigfa
 Cigfa

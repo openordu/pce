@@ -5,7 +5,7 @@ article: false
 icon: article
 next: tarbhfheis.md
 prev: tarans.md
-contributor: Mary Jones
+author: Mary Jones
 ---
 tarb feis
 tarb feis

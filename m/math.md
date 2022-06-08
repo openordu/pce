@@ -5,7 +5,7 @@ article: false
 icon: article
 next: math-branch.md
 prev: mary-morgan.md
-contributor: Mary Jones
+author: Mary Jones
 ---
 Math ap Mathonwy
 Math ap Mathonwy

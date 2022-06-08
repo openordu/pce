@@ -5,7 +5,7 @@ article: false
 icon: article
 next: arawn.md
 prev: aquae-sulis.md
-contributor: Mary Jones
+author: Mary Jones
 ---
 Aquitania
 Aquitania

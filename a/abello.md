@@ -5,7 +5,7 @@ article: false
 icon: article
 next: aberalaw.md
 prev: abelard.md
-contributor: Mary Jones
+author: Mary Jones
 ---
 Abello
 Abello

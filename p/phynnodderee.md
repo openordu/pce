@@ -5,7 +5,7 @@ article: false
 icon: article
 next: pict.md
 prev: phantom-islands.md
-contributor: Mary Jones
+author: Mary Jones
 ---
 phynnodderee
 Phynnodderee

@@ -5,7 +5,7 @@ article: false
 icon: article
 next: center.md
 prev: celtic-twilight-artistic-move-ment.md
-contributor: Mary Jones
+author: Mary Jones
 ---
 Celtic Tree Calendar
 The Celtic Tree Calendar

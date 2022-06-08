@@ -5,7 +5,7 @@ article: false
 icon: article
 next: waff.md
 prev: voyage.md
-contributor: Mary Jones
+author: Mary Jones
 ---
 Vulgate/Lancelot-Grail Cycle
 The Vulgate Cycle

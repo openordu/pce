@@ -5,7 +5,7 @@ article: false
 icon: article
 next: ambiani.md
 prev: amairgin-son-of-mil-amangons.md
-contributor: Mary Jones
+author: Mary Jones
 ---
 Ambarri
 Ambarri

@@ -5,7 +5,7 @@ article: false
 icon: article
 next: billy-blind.md
 prev: bilberry.md
-contributor: Mary Jones
+author: Mary Jones
 ---
 Bile
 Bile

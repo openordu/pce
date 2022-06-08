@@ -5,7 +5,7 @@ article: false
 icon: article
 next: rhydderch.md
 prev: rhun.md
-contributor: Mary Jones
+author: Mary Jones
 ---
 Rhun ap Urien
 Rhun ap Urien

@@ -5,7 +5,7 @@ article: false
 icon: article
 next: ceibhfhionn.md
 prev: ceat-mac-mághach.md
-contributor: Mary Jones
+author: Mary Jones
 ---
 ceffyl-dwr
 ceffyl-dwr

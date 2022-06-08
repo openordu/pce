@@ -5,7 +5,7 @@ article: false
 icon: article
 next: decapitation.md
 prev: debility-of-the-ulstermen-celidon.md
-contributor: Mary Jones
+author: Mary Jones
 ---
 Robert de Boron
 Robert de Boron 

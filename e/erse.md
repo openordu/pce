@@ -5,7 +5,7 @@ article: false
 icon: article
 next: esus.md
 prev: erriapus.md
-contributor: Mary Jones
+author: Mary Jones
 ---
 Erse
 Erse

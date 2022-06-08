@@ -5,7 +5,7 @@ article: false
 icon: article
 next: gwartheg-y-llyn.md
 prev: gwalchmei.md
-contributor: Mary Jones
+author: Mary Jones
 ---
 Gwarchan of Maelderw
 gwarchan/Gwarchan of Maelderw

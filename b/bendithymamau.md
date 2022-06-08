@@ -5,7 +5,7 @@ article: false
 icon: article
 next: bendonner.md
 prev: ben-varrey.md
-contributor: Mary Jones
+author: Mary Jones
 ---
 Bendith y Mamau
 Bendith y Mamau

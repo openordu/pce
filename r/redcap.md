@@ -5,7 +5,7 @@ article: false
 icon: article
 next: reddragon.md
 prev: red-handed-king.md
-contributor: Mary Jones
+author: Mary Jones
 ---
 Red Cap
 Red Cap

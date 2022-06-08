@@ -5,7 +5,7 @@ article: false
 icon: article
 next: lludd.md
 prev: lleu-llaw-gyffes.md
-contributor: Mary Jones
+author: Mary Jones
 ---
 Llefelys
 Lleuelys fab Beli

@@ -5,7 +5,7 @@ article: false
 icon: article
 next: alauna.md
 prev: alain.md
-contributor: Mary Jones
+author: Mary Jones
 ---
 Alaisiagae
 Alaisiagae

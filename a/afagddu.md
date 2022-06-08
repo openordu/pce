@@ -5,7 +5,7 @@ article: false
 icon: article
 next: afallach.md
 prev: aeí.md
-contributor: Mary Jones
+author: Mary Jones
 ---
 Afagddu
 Afagddu

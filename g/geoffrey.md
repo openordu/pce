@@ -5,7 +5,7 @@ article: false
 icon: article
 next: george.md
 prev: geodruisge.md
-contributor: Mary Jones
+author: Mary Jones
 ---
 Geoffrey of Monmouth
 Geoffrey of Monmouth

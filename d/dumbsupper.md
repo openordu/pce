@@ -5,7 +5,7 @@ article: false
 icon: article
 next: dumias.md
 prev: dumbarton.md
-contributor: Mary Jones
+author: Mary Jones
 ---
 dumb supper
 dumb supper

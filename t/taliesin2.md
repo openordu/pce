@@ -5,7 +5,7 @@ article: false
 icon: article
 next: talisman.md
 prev: taliesin1.md
-contributor: Mary Jones
+author: Mary Jones
 ---
 Llyfr Taliesin
 Llyfr Talyessin

@@ -5,7 +5,7 @@ article: false
 icon: article
 next: hero-tales.md
 prev: hermes.md
-contributor: Mary Jones
+author: Mary Jones
 ---
 Herne
 Herne

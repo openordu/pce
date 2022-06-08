@@ -5,7 +5,7 @@ article: false
 icon: article
 next: aristotle.md
 prev: argante.md
-contributor: Mary Jones
+author: Mary Jones
 ---
 Aranrhod ferch Dôn
 Aranrhod ferch Dôn

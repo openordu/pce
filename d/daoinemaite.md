@@ -5,7 +5,7 @@ article: false
 icon: article
 next: daoinesidhe.md
 prev: daoine-sídhe.md
-contributor: Mary Jones
+author: Mary Jones
 ---
 daoine maite
 daoine maite

@@ -5,7 +5,7 @@ article: false
 icon: article
 next: joseph.md
 prev: joan-d-arc.md
-contributor: Mary Jones
+author: Mary Jones
 ---
 John Barleycorn
 John Barleycorn

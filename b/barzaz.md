@@ -5,7 +5,7 @@ article: false
 icon: article
 next: bath.md
 prev: barrow.md
-contributor: Mary Jones
+author: Mary Jones
 ---
 Barzaz Breiz
 Barzaz Breiz

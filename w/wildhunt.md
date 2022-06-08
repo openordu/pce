@@ -5,7 +5,7 @@ article: false
 icon: article
 next: william-of-orange.md
 prev: wild-hunt.md
-contributor: Mary Jones
+author: Mary Jones
 ---
 Wild Hunt
 Wild Hunt

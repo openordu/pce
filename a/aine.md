@@ -5,7 +5,7 @@ article: false
 icon: article
 next: aine1.md
 prev: aimend.md
-contributor: Mary Jones
+author: Mary Jones
 ---
 Áine Clí
 Áine Clí

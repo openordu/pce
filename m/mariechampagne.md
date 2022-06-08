@@ -5,7 +5,7 @@ article: false
 icon: article
 next: marillwyd.md
 prev: marie-au-blè.md
-contributor: Mary Jones
+author: Mary Jones
 ---
 Marie de Champagne
 Marie de Champaigne

@@ -5,7 +5,7 @@ article: false
 icon: article
 next: goidel.md
 prev: goibhniu.md
-contributor: Mary Jones
+author: Mary Jones
 ---
 Goibniu
 Goibniu

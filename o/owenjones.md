@@ -5,7 +5,7 @@ article: false
 icon: article
 next: oweynagat.md
 prev: owein.md
-contributor: Mary Jones
+author: Mary Jones
 ---
 Owen Jones
 Owen Jones

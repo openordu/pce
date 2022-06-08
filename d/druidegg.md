@@ -5,7 +5,7 @@ article: false
 icon: article
 next: druidiccalendar.md
 prev: druid-three-and.md
-contributor: Mary Jones
+author: Mary Jones
 ---
 Druid's Egg
 Druid's egg

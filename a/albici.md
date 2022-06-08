@@ -5,7 +5,7 @@ article: false
 icon: article
 next: albinal.md
 prev: alauna.md
-contributor: Mary Jones
+author: Mary Jones
 ---
 Albici
 Albici

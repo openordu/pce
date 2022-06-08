@@ -5,7 +5,7 @@ article: false
 icon: article
 next: bedwyr.md
 prev: becfhola.md
-contributor: Mary Jones
+author: Mary Jones
 ---
 Beda
 Beda

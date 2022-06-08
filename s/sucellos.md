@@ -5,7 +5,7 @@ article: false
 icon: article
 next: sucellus.md
 prev: submerged-city.md
-contributor: Mary Jones
+author: Mary Jones
 ---
 Sucellos
 Sucellos

@@ -5,7 +5,7 @@ article: false
 icon: article
 next: fintan2.md
 prev: fintan-the-salmon.md
-contributor: Mary Jones
+author: Mary Jones
 ---
 Fintan the Wise
 Fintan the Wise

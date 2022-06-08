@@ -5,7 +5,7 @@ article: false
 icon: article
 next: annwn.md
 prev: annowre.md
-contributor: Mary Jones
+author: Mary Jones
 ---
 Annwfn
 Annwfn (ah-NOO-vin)

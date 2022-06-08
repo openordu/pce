@@ -5,7 +5,7 @@ article: false
 icon: article
 next: grana.md
 prev: grainne.md
-contributor: Mary Jones
+author: Mary Jones
 ---
 Book of Gramarye
 Book of Gramarye

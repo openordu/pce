@@ -5,7 +5,7 @@ article: false
 icon: article
 next: aedui.md
 prev: adventure.md
-contributor: Mary Jones
+author: Mary Jones
 ---
 Aedd Mawr
 Aedd Mawr

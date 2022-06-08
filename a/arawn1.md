@@ -5,7 +5,7 @@ article: false
 icon: article
 next: arawn2.md
 prev: arawn.md
-contributor: Mary Jones
+author: Mary Jones
 ---
 Arawn
 Arawn

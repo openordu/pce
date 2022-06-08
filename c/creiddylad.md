@@ -5,7 +5,7 @@ article: false
 icon: article
 next: creidne.md
 prev: creation.md
-contributor: Mary Jones
+author: Mary Jones
 ---
 Creiddylad
 Creiddylad

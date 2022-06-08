@@ -5,7 +5,7 @@ article: false
 icon: article
 next: tarroo-ushtey.md
 prev: tarbhfheis.md
-contributor: Mary Jones
+author: Mary Jones
 ---
 tarbh uisge
 tarbh uisge

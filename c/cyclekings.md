@@ -5,7 +5,7 @@ article: false
 icon: article
 next: cyhiraeth.md
 prev: cycle-of-the-kings-cyhyreath.md
-contributor: Mary Jones
+author: Mary Jones
 ---
 The Cycle of the Kings
 The Cycle of the Kings

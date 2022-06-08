@@ -5,7 +5,7 @@ article: false
 icon: article
 next: barenton.md
 prev: bard-tuan-mac-cairill.md
-contributor: Mary Jones
+author: Mary Jones
 ---
 Barddas
 Barddas

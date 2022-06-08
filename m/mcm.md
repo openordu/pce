@@ -5,7 +5,7 @@ article: false
 icon: article
 next: mead.md
 prev: maypole.md
-contributor: Mary Jones
+author: Mary Jones
 ---
 Medieval Celtic Manuscripts
 Medieval Celtic Manuscripts

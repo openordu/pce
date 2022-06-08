@@ -5,7 +5,7 @@ article: false
 icon: article
 next: bronach.md
 prev: brollachan.md
-contributor: Mary Jones
+author: Mary Jones
 ---
 Bron
 Bron

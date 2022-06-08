@@ -5,7 +5,7 @@ article: false
 icon: article
 next: otherworld-arawn-in.md
 prev: ossian.md
-contributor: Mary Jones
+author: Mary Jones
 ---
 Otherworld
 The Otherworld

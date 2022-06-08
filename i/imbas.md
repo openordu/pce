@@ -5,7 +5,7 @@ article: false
 icon: article
 next: imbas-forosnai.md
 prev: images.md
-contributor: Mary Jones
+author: Mary Jones
 ---
 Imbas
 Imbas Forosnai

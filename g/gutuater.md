@@ -5,7 +5,7 @@ article: false
 icon: article
 next: gutuatros.md
 prev: gunna.md
-contributor: Mary Jones
+author: Mary Jones
 ---
 gutuater
 gutuater

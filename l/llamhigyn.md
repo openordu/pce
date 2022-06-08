@@ -5,7 +5,7 @@ article: false
 icon: article
 next: llamhigyn-y-dwr.md
 prev: llacheau.md
-contributor: Mary Jones
+author: Mary Jones
 ---
 Llamhigyn Y Dwr
 Llamhigyn Y Dwr

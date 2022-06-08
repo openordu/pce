@@ -5,7 +5,7 @@ article: false
 icon: article
 next: iorasglach.md
 prev: iollann-airmdhearg.md
-contributor: Mary Jones
+author: Mary Jones
 ---
 Iolo Morgannwg
 Edward Williams/Iolo Morganwg/Iolo Morgannwg

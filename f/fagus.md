@@ -5,7 +5,7 @@ article: false
 icon: article
 next: faifne.md
 prev: faerie.md
-contributor: Mary Jones
+author: Mary Jones
 ---
 Fagus
 Fagus

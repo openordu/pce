@@ -5,7 +5,7 @@ article: false
 icon: article
 next: uffern.md
 prev: ucuetis.md
-contributor: Mary Jones
+author: Mary Jones
 ---
 Uellaunus
 Uellaunus

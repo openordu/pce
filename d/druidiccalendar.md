@@ -5,7 +5,7 @@ article: false
 icon: article
 next: druidicsymbols.md
 prev: druidegg.md
-contributor: Mary Jones
+author: Mary Jones
 ---
 Modern Druidic Calendar
 The Modern Druidic Calendar

@@ -5,7 +5,7 @@ article: false
 icon: article
 next: gwragedd-annwn.md
 prev: gwrach-y-rhibyn.md
-contributor: Mary Jones
+author: Mary Jones
 ---
 Gwrach y Rhibyn
 Gwrach y Rhibyn

@@ -5,7 +5,7 @@ article: false
 icon: article
 next: ailill6.md
 prev: ailill4.md
-contributor: Mary Jones
+author: Mary Jones
 ---
 Ailill Aolum
 Ailill Aolum

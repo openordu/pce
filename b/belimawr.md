@@ -5,7 +5,7 @@ article: false
 icon: article
 next: belisama.md
 prev: beli.md
-contributor: Mary Jones
+author: Mary Jones
 ---
 Beli Mawr
 Beli Mawr

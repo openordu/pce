@@ -5,7 +5,7 @@ article: false
 icon: article
 next: nudd.md
 prev: nuala.md
-contributor: Mary Jones
+author: Mary Jones
 ---
 nuckelavee
 Nuckelavee

@@ -5,7 +5,7 @@ article: false
 icon: article
 next: seal.md
 prev: sea-fairies.md
-contributor: Mary Jones
+author: Mary Jones
 ---
 Seahenge
 Seahenge

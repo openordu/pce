@@ -5,7 +5,7 @@ article: false
 icon: article
 next: fairies.md
 prev: faifne.md
-contributor: Mary Jones
+author: Mary Jones
 ---
 The Fair Unknown
 The Fair Unknown

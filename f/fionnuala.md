@@ -5,7 +5,7 @@ article: false
 icon: article
 next: fir-bolg.md
 prev: fionntan.md
-contributor: Mary Jones
+author: Mary Jones
 ---
 Fionnuala
 Fionnuala

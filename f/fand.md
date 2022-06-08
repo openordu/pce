@@ -5,7 +5,7 @@ article: false
 icon: article
 next: far-darrig.md
 prev: famine.md
-contributor: Mary Jones
+author: Mary Jones
 ---
 Fand
 Fand

@@ -5,7 +5,7 @@ article: false
 icon: article
 next: lir-.md
 prev: lios.md
-contributor: Mary Jones
+author: Mary Jones
 ---
 Ler
 Ler

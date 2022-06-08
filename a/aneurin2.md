@@ -5,7 +5,7 @@ article: false
 icon: article
 next: anfortas.md
 prev: aneurin1.md
-contributor: Mary Jones
+author: Mary Jones
 ---
 Llyfr Aneirin
 Llyfr Aneirin

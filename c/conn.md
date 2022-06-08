@@ -5,7 +5,7 @@ article: false
 icon: article
 next: conn-céadchathach.md
 prev: conlae.md
-contributor: Mary Jones
+author: Mary Jones
 ---
 Conn Céad Cathach
 Conn Céadcathach

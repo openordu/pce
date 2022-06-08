@@ -5,7 +5,7 @@ article: false
 icon: article
 next: abarta.md
 prev: abair.md
-contributor: Mary Jones
+author: Mary Jones
 ---
 Abandinus
 Abandinus

@@ -5,7 +5,7 @@ article: false
 icon: article
 next: alice-la-beale-pilgrim.md
 prev: alfasem.md
-contributor: Mary Jones
+author: Mary Jones
 ---
 Albiorix
 Albiorix

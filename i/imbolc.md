@@ -5,7 +5,7 @@ article: false
 icon: article
 next: immortality.md
 prev: imbas-forosnai.md
-contributor: Mary Jones
+author: Mary Jones
 ---
 Imbolc
 Imbolc

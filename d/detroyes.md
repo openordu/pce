@@ -5,7 +5,7 @@ article: false
 icon: article
 next: deuoriuos.md
 prev: destruction.md
-contributor: Mary Jones
+author: Mary Jones
 ---
 Chrétien de Troyes
 Chrétien de Troyes

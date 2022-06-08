@@ -5,7 +5,7 @@ article: false
 icon: article
 next: abán.md
 prev: abhartach-mac-ildathaigh.md
-contributor: Mary Jones
+author: Mary Jones
 ---
 Abnoba
 Abnoba

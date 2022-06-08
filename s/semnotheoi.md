@@ -5,7 +5,7 @@ article: false
 icon: article
 next: senach.md
 prev: semias.md
-contributor: Mary Jones
+author: Mary Jones
 ---
 semnotheoi
 semnotheoi

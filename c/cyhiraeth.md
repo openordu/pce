@@ -5,7 +5,7 @@ article: false
 icon: article
 next: cymon.md
 prev: cyclekings.md
-contributor: Mary Jones
+author: Mary Jones
 ---
 Cyhiraeth
 Cyhiraeth

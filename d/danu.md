@@ -5,7 +5,7 @@ article: false
 icon: article
 next: danu-ii-v-.md
 prev: dancing-lights.md
-contributor: Mary Jones
+author: Mary Jones
 ---
 Danu
 Danu

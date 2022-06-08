@@ -5,7 +5,7 @@ article: false
 icon: article
 next: lianan-sidhe.md
 prev: liadhain.md
-contributor: Mary Jones
+author: Mary Jones
 ---
 Lia Fail
 Lia Fail

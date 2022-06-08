@@ -5,7 +5,7 @@ article: false
 icon: article
 next: puck-.md
 prev: prydwen.md
-contributor: Mary Jones
+author: Mary Jones
 ---
 Pseudohistorical Kings of Britain
 Pseudohistorical Kings of Britain

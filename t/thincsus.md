@@ -5,7 +5,7 @@ article: false
 icon: article
 next: thinness.md
 prev: them.md
-contributor: Mary Jones
+author: Mary Jones
 ---
 Mars Thincsus
 Mars Thincsus/Thingsus

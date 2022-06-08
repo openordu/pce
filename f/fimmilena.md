@@ -5,7 +5,7 @@ article: false
 icon: article
 next: find.md
 prev: fili.md
-contributor: Mary Jones
+author: Mary Jones
 ---
 Fimmilena
 Fimmilena

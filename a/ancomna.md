@@ -5,7 +5,7 @@ article: false
 icon: article
 next: andarta.md
 prev: ancestors.md
-contributor: Mary Jones
+author: Mary Jones
 ---
 Ancomna
 Ancomna

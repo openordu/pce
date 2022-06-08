@@ -5,7 +5,7 @@ article: false
 icon: article
 next: nennius-alphabet.md
 prev: nemglan.md
-contributor: Mary Jones
+author: Mary Jones
 ---
 Nennius
 Nennius

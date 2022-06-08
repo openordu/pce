@@ -5,7 +5,7 @@ article: false
 icon: article
 next: leth-cuinn-leth-moga.md
 prev: leprechaun-xv-.md
-contributor: Mary Jones
+author: Mary Jones
 ---
 Ler
 Ler

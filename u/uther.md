@@ -5,7 +5,7 @@ article: false
 icon: article
 next: uther-pendragon.md
 prev: usnach.md
-contributor: Mary Jones
+author: Mary Jones
 ---
 Uther Pendragon
 Uther Pendragon

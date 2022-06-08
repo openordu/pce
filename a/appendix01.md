@@ -5,7 +5,7 @@ article: false
 icon: article
 next: appendix03.md
 prev: apollo.md
-contributor: Mary Jones
+author: Mary Jones
 ---
 Types of Fair Folk
 Appendix I: Types of Fair Folk

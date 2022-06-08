@@ -5,7 +5,7 @@ article: false
 icon: article
 next: perceval2.md
 prev: penn-cruc.md
-contributor: Mary Jones
+author: Mary Jones
 ---
 Sir Perceval
 Sir Perceval

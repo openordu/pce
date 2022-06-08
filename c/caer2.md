@@ -5,8 +5,8 @@ article: false
 icon: article
 next: cai.md
 prev: caer1.md
-contributor: Mary Jones
-contributor: Mary Jones
+author: Mary Jones
+author: Mary Jones
 ---
 caer
 caer

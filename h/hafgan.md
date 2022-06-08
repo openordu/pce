@@ -5,7 +5,7 @@ article: false
 icon: article
 next: hag.md
 prev: habondia.md
-contributor: Mary Jones
+author: Mary Jones
 ---
 Hafgan
 Hafgan

@@ -5,7 +5,7 @@ article: false
 icon: article
 next: enid.md
 prev: emain-macha-emer.md
-contributor: Mary Jones
+author: Mary Jones
 ---
 Emain Macha
 Emain Macha

@@ -5,7 +5,7 @@ article: false
 icon: article
 next: appendix13.md
 prev: appendix11.md
-contributor: Mary Jones
+author: Mary Jones
 ---
 Animals & Monsters
 Animals & Monsters

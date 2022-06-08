@@ -5,7 +5,7 @@ article: false
 icon: article
 next: govannon.md
 prev: gorseddarberth.md
-contributor: Mary Jones
+author: Mary Jones
 ---
 Gorsedd Prayer
 Gorsedd Prayer

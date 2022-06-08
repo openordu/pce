@@ -5,7 +5,7 @@ article: false
 icon: article
 next: abbey-lubber.md
 prev: abarta.md
-contributor: Mary Jones
+author: Mary Jones
 ---
 Abartach
 Abartach

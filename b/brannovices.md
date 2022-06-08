@@ -5,7 +5,7 @@ article: false
 icon: article
 next: branwen.md
 prev: brangeien.md
-contributor: Mary Jones
+author: Mary Jones
 ---
 Brannovices
 Brannovices

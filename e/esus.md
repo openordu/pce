@@ -5,7 +5,7 @@ article: false
 icon: article
 next: esyllt.md
 prev: erse.md
-contributor: Mary Jones
+author: Mary Jones
 ---
 Esus
 Esus

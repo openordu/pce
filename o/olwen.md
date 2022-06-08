@@ -5,7 +5,7 @@ article: false
 icon: article
 next: omen.md
 prev: olmec.md
-contributor: Mary Jones
+author: Mary Jones
 ---
 Olwen
 Olwen

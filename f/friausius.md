@@ -5,7 +5,7 @@ article: false
 icon: article
 next: friuch.md
 prev: friar-rush.md
-contributor: Mary Jones
+author: Mary Jones
 ---
 Friausius
 Friausius

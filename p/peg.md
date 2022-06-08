@@ -5,7 +5,7 @@ article: false
 icon: article
 next: peg-o-nell.md
 prev: pech.md
-contributor: Mary Jones
+author: Mary Jones
 ---
 Peg Powler
 Peg Powler / Jenny Greenteeth

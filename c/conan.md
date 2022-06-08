@@ -5,7 +5,7 @@ article: false
 icon: article
 next: conaran.md
 prev: conall-son-of-eochaid-conán.md
-contributor: Mary Jones
+author: Mary Jones
 ---
 Conan Meriadoc
 Conan Meriadoc

@@ -5,7 +5,7 @@ article: false
 icon: article
 next: ailill5.md
 prev: ailill3.md
-contributor: Mary Jones
+author: Mary Jones
 ---
 Alill Agach
 Ailill Agach (Edge of Battle)

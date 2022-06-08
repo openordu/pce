@@ -5,7 +5,7 @@ article: false
 icon: article
 next: plur-na-mban.md
 prev: pledge-to-the-elements-plowing.md
-contributor: Mary Jones
+author: Mary Jones
 ---
 plentin newid
 plentin newid
