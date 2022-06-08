@@ -6,7 +6,6 @@ icon: article
 next: cai.md
 prev: caer1.md
 author: "Mary Jones"
-author: "Mary Jones"
 ---
 caer
 caer
