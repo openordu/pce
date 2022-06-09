@@ -4,6 +4,7 @@ index: false
 article: false 
 icon: article
 author: "Mary Jones"
+prev: ../s.md
 ---
 The Sailors' Pillar of Notre Dame
 The Sailors' Pillar of Notre Dame

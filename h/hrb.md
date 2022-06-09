@@ -4,6 +4,7 @@ index: false
 article: false 
 icon: article
 author: "Mary Jones"
+prev: ../h.md
 ---
 The History of the Kings of Britain
 The History of the Kings of Britain

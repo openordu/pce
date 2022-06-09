@@ -4,6 +4,7 @@ index: false
 article: false 
 icon: article
 author: "Mary Jones"
+prev: ../2.md
 ---
 The 21 Lessons of Merlyn
 The 21 Lessons of Merlyn

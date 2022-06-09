@@ -4,6 +4,7 @@ index: false
 article: false 
 icon: article
 author: "Mary Jones"
+prev: ../d.md
 ---
 Druid's Egg
 Druid's egg

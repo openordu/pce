@@ -4,6 +4,7 @@ index: false
 article: false 
 icon: article
 author: "Mary Jones"
+prev: ../a.md
 ---
 The Welsh Gods
 Welsh Gods of the Mabinogion and Corresponding Triads:

@@ -4,6 +4,7 @@ index: false
 article: false 
 icon: article
 author: "Mary Jones"
+prev: ../s.md
 ---
 William Stukeley
 Rev. Dr. William Stukeley

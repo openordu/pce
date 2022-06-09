@@ -4,6 +4,7 @@ index: false
 article: false 
 icon: article
 author: "Mary Jones"
+prev: ../m.md
 ---
 Marie de Champagne
 Marie de Champaigne

@@ -4,6 +4,7 @@ index: false
 article: false 
 icon: article
 author: "Mary Jones"
+prev: ../a.md
 ---
 The Apprentice Pillar
 Apprentice Pillar

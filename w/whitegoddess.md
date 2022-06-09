@@ -4,6 +4,7 @@ index: false
 article: false 
 icon: article
 author: "Mary Jones"
+prev: ../w.md
 ---
 The White Goddess
 The White Goddess: A Historical Grammar of Poetic Myth

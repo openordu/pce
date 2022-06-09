@@ -4,6 +4,7 @@ index: false
 article: false 
 icon: article
 author: "Mary Jones"
+prev: ../p.md
 ---
 Petta and Euxenos
 According to Athenaesus' Deipnosophistae XIII.36, which claims to be recounting Aristotle's lost Massalioton Politeia, the founding of the Greek colony of Massalia unfolded as follows: Euxenos ("Good Foreigner"), leader of a group of Phocaean Greeks, come to the land in what's now southern France; there he meets the local king, Nannos, who invites Euxenos to the wedding feast of his daughter Petta. Petta herself doesn't have a groom yet; the ritual consists of Petta greeting the assembled men of the feast, and awarding one of them a cup and thus the kingship of the land. Petta then procedes to give Euxenos the cup (though Athenaesus notes that there's disagreement as to whether it was intentional or not)--Nannos declares it the will of the gods, and the couple are married. Euxenos changes Petta's name to a Greek one--Aristoxene, meaning "best foreign woman"--and their son is named Protis--"first". Thus the Greek colony of Massalia--modern Marseilles--is founded.

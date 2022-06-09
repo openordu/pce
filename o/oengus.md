@@ -4,6 +4,7 @@ index: false
 article: false 
 icon: article
 author: "Mary Jones"
+prev: ../o.md
 ---
 Oengus mac ind-Og
 Óengus mac ind-Óg

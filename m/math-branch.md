@@ -4,6 +4,7 @@ index: false
 article: false 
 icon: article
 author: "Mary Jones"
+prev: ../m.md
 ---
 Math fab Mathonwy: Fourth Branch of the Mabinogi
 Math fab Mathonwy: Fourth Branch of the Mabinogi

@@ -4,6 +4,7 @@ index: false
 article: false 
 icon: article
 author: "Mary Jones"
+prev: ../a.md
 ---
 Afallach
 Afallach: av-AHL-akh

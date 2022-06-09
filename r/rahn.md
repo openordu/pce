@@ -4,6 +4,7 @@ index: false
 article: false 
 icon: article
 author: "Mary Jones"
+prev: ../r.md
 ---
 Otto Rahn
 Otto Rahn

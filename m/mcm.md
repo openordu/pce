@@ -4,6 +4,7 @@ index: false
 article: false 
 icon: article
 author: "Mary Jones"
+prev: ../m.md
 ---
 Medieval Celtic Manuscripts
 Medieval Celtic Manuscripts

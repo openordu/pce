@@ -4,6 +4,7 @@ index: false
 article: false 
 icon: article
 author: "Mary Jones"
+prev: ../j.md
 ---
 Jack-in-Irons
 Jack-In-Irons

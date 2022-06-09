@@ -4,6 +4,7 @@ index: false
 article: false 
 icon: article
 author: "Mary Jones"
+prev: ../p.md
 ---
 Prydein son of Aedd Mawr
 Prydein son of Aedd Mawr

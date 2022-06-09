@@ -4,6 +4,7 @@ index: false
 article: false 
 icon: article
 author: "Mary Jones"
+prev: ../c.md
 ---
 Black Book of Chirk
 The Black Book of Chirk

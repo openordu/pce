@@ -4,6 +4,7 @@ index: false
 article: false 
 icon: article
 author: "Mary Jones"
+prev: ../t.md
 ---
 Triple Goddess of the Celts
 The Triple Goddess of the Celts

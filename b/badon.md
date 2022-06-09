@@ -4,6 +4,7 @@ index: false
 article: false 
 icon: article
 author: "Mary Jones"
+prev: ../b.md
 ---
 Battle of Mount Badon
 Battle of Mount Badon

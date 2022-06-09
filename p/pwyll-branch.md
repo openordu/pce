@@ -4,6 +4,7 @@ index: false
 article: false 
 icon: article
 author: "Mary Jones"
+prev: ../p.md
 ---
 Pwyll Pendeuc Dyfed: First Branch of the Mabinogi
 Pwyll Pendeuc Dyfed: First Branch of the Mabinogi

@@ -4,6 +4,7 @@ index: false
 article: false 
 icon: article
 author: "Mary Jones"
+prev: ../r.md
 ---
 Rex quondam, Rexque Futurus
 Rex quondam, Rexque Futurus

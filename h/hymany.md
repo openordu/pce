@@ -4,6 +4,7 @@ index: false
 article: false 
 icon: article
 author: "Mary Jones"
+prev: ../h.md
 ---
 Book of Hy Many
 The Book of Hy Many

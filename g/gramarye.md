@@ -4,6 +4,7 @@ index: false
 article: false 
 icon: article
 author: "Mary Jones"
+prev: ../g.md
 ---
 Book of Gramarye
 Book of Gramarye

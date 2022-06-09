@@ -4,6 +4,7 @@ index: false
 article: false 
 icon: article
 author: "Mary Jones"
+prev: ../y.md
 ---
 Yellow Book of Lecan
 The Yellow Book of Lecan

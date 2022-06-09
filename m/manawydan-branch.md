@@ -4,6 +4,7 @@ index: false
 article: false 
 icon: article
 author: "Mary Jones"
+prev: ../m.md
 ---
 Manawydan fab Llyr: Third Branch of the Mabinogi
 Manawydan fab Llyr: Third Branch of the Mabinogi

@@ -4,6 +4,7 @@ index: false
 article: false 
 icon: article
 author: "Mary Jones"
+prev: ../w.md
 ---
 Will-o-the-wisp/Jack-o-Lantern
 Will-o'-the-wisp

@@ -4,6 +4,7 @@ index: false
 article: false 
 icon: article
 author: "Mary Jones"
+prev: ../f.md
 ---
 Fergus mac Roich
 Fergus mac Roich

@@ -4,6 +4,7 @@ index: false
 article: false 
 icon: article
 author: "Mary Jones"
+prev: ../h.md
 ---
 Heavenly bodies named for Celtic subjects
 Heavenly Bodies Named for Celtic Subjects

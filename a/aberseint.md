@@ -4,6 +4,7 @@ index: false
 article: false 
 icon: article
 author: "Mary Jones"
+prev: ../a.md
 ---
 Aber Seint
 Aber Seint and Caer Aber Seint

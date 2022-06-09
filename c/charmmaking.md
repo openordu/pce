@@ -4,6 +4,7 @@ index: false
 article: false 
 icon: article
 author: "Mary Jones"
+prev: ../c.md
 ---
 Charm of Making
 The Charm of Making

@@ -4,6 +4,7 @@ index: false
 article: false 
 icon: article
 author: "Mary Jones"
+prev: ../d.md
 ---
 Book of the Dun Cow
 The Book of the Dun Cow

@@ -4,6 +4,7 @@ index: false
 article: false 
 icon: article
 author: "Mary Jones"
+prev: ../m.md
 ---
 Maps of the Celtic World
 Early Cultures

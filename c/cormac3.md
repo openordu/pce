@@ -4,6 +4,7 @@ index: false
 article: false 
 icon: article
 author: "Mary Jones"
+prev: ../c.md
 ---
 Cormac's Glossary
 Sanas Chormaic

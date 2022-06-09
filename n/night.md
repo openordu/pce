@@ -4,6 +4,7 @@ index: false
 article: false 
 icon: article
 author: "Mary Jones"
+prev: ../n.md
 ---
 Night of the Long Knives
 Night of the Long Knives

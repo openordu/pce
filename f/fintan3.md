@@ -4,6 +4,7 @@ index: false
 article: false 
 icon: article
 author: "Mary Jones"
+prev: ../f.md
 ---
 St. Fintan of Clonenagh
 St. Fintan of Clonenagh

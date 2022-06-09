@@ -4,6 +4,7 @@ index: false
 article: false 
 icon: article
 author: "Mary Jones"
+prev: ../f.md
 ---
 The Fair Unknown
 The Fair Unknown

@@ -4,6 +4,7 @@ index: false
 article: false 
 icon: article
 author: "Mary Jones"
+prev: ../s.md
 ---
 The Seven Survivors of Prydain
 The Seven Survivors of Prydein

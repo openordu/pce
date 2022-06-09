@@ -4,6 +4,7 @@ index: false
 article: false 
 icon: article
 author: "Mary Jones"
+prev: ../f.md
 ---
 The Book of Fermoy
 The Book of Fermoy

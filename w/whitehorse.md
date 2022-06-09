@@ -4,6 +4,7 @@ index: false
 article: false 
 icon: article
 author: "Mary Jones"
+prev: ../w.md
 ---
 White Horse of Uffington
 White Horse of Uffington

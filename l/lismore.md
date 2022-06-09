@@ -4,6 +4,7 @@ index: false
 article: false 
 icon: article
 author: "Mary Jones"
+prev: ../l.md
 ---
 Book of Lismore
 Book of Lismore
