@@ -3,8 +3,6 @@ title: Armagh
 index: false
 article: false 
 icon: article
-next: armorica.md
-prev: aristotle.md
 author: "Mary Jones"
 ---
 Liber Ardmachanus: The Book of Armagh

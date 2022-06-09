@@ -3,8 +3,6 @@ title: Bansenchas
 index: false
 article: false 
 icon: article
-next: banshee.md
-prev: bangaisgedaig.md
 author: "Mary Jones"
 ---
 Bansenchas

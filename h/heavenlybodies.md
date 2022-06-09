@@ -3,8 +3,6 @@ title: Heavenlybodies
 index: false
 article: false 
 icon: article
-next: hedessa.md
-prev: heaven.md
 author: "Mary Jones"
 ---
 Heavenly bodies named for Celtic subjects

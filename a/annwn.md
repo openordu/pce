@@ -3,6 +3,4 @@ title: Annwn
 index: false
 article: false 
 icon: article
-next: antenociticus.md
-prev: annwfn.md
 ---

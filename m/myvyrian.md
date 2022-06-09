@@ -3,8 +3,6 @@ title: Myvyrian
 index: false
 article: false 
 icon: article
-next: míl.md
-prev: mythology.md
 author: "Mary Jones"
 ---
 Myvyrian Archaiology

@@ -3,8 +3,6 @@ title: Pseudo_kings_british
 index: false
 article: false 
 icon: article
-next: puck-.md
-prev: prydwen.md
 author: "Mary Jones"
 ---
 Pseudohistorical Kings of Britain

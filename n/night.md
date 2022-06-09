@@ -3,8 +3,6 @@ title: Night
 index: false
 article: false 
 icon: article
-next: nimue-nisien.md
-prev: niessin.md
 author: "Mary Jones"
 ---
 Night of the Long Knives

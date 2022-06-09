@@ -3,8 +3,6 @@ title: 21lessons
 index: false
 article: false 
 icon: article
-next: abair.md
-prev: 1.md
 author: "Mary Jones"
 ---
 The 21 Lessons of Merlyn

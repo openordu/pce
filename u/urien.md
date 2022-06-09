@@ -3,8 +3,6 @@ title: Urien
 index: false
 article: false 
 icon: article
-next: urine.md
-prev: urban.md
 author: "Mary Jones"
 ---
 Urien of Rheged

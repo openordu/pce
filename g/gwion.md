@@ -3,8 +3,6 @@ title: Gwion
 index: false
 article: false 
 icon: article
-next: gwrach-y-rhibyn.md
-prev: gwidion.md
 author: "Mary Jones"
 ---
 Gwion Bach

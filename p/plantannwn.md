@@ -3,8 +3,6 @@ title: Plantannwn
 index: false
 article: false 
 icon: article
-next: plantdon.md
-prev: plant-annwn.md
 author: "Mary Jones"
 ---
 Plant Annwn

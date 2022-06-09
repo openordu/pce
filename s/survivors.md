@@ -3,8 +3,6 @@ title: Survivors
 index: false
 article: false 
 icon: article
-next: sutugius.md
-prev: superstition.md
 author: "Mary Jones"
 ---
 The Seven Survivors of Prydain

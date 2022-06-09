@@ -3,8 +3,6 @@ title: Villemarque
 index: false
 article: false 
 icon: article
-next: vindonnus.md
-prev: vikings.md
 author: "Mary Jones"
 ---
 Vicomte Théodore Hersart de la Villemarqué

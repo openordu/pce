@@ -3,6 +3,4 @@ title: Mars, Mullo As
 index: false
 article: false 
 icon: article
-next: mars-nabelcus-as.md
-prev: mars-mogetius-as.md
 ---

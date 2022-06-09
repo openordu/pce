@@ -3,8 +3,6 @@ title: Arianrhod
 index: false
 article: false 
 icon: article
-next: aristotle.md
-prev: argante.md
 author: "Mary Jones"
 ---
 Aranrhod ferch Dôn

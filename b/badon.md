@@ -3,8 +3,6 @@ title: Badon
 index: false
 article: false 
 icon: article
-next: baile.md
-prev: badhbh.md
 author: "Mary Jones"
 ---
 Battle of Mount Badon

@@ -3,8 +3,6 @@ title: Manannan
 index: false
 article: false 
 icon: article
-next: manannán.md
-prev: manann.md
 author: "Mary Jones"
 ---
 Manannán mac Lír

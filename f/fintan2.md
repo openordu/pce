@@ -3,8 +3,6 @@ title: Fintan2
 index: false
 article: false 
 icon: article
-next: fintan3.md
-prev: fintan1.md
 author: "Mary Jones"
 ---
 Fintan the Historian

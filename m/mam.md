@@ -3,8 +3,6 @@ title: Mam
 index: false
 article: false 
 icon: article
-next: man.md
-prev: mallet.md
 author: "Mary Jones"
 ---
 Isle of Mam

@@ -3,8 +3,6 @@ title: Abarta
 index: false
 article: false 
 icon: article
-next: abartach.md
-prev: abandinus.md
 ---
 Main Designation: <Badge text="Irish god" />
 

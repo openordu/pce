@@ -3,8 +3,6 @@ title: Math-Branch
 index: false
 article: false 
 icon: article
-next: mathgen.md
-prev: math.md
 author: "Mary Jones"
 ---
 Math fab Mathonwy: Fourth Branch of the Mabinogi

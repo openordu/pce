@@ -3,8 +3,6 @@ title: Dylan
 index: false
 article: false 
 icon: article
-next: dáire.md
-prev: dyfr.md
 author: "Mary Jones"
 ---
 Dylan eil Ton

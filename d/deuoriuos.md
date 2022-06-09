@@ -3,8 +3,6 @@ title: Deuoriuos
 index: false
 article: false 
 icon: article
-next: deva.md
-prev: detroyes.md
 author: "Mary Jones"
 ---
 Deuoriuos Riuri

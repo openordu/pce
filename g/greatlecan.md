@@ -3,8 +3,6 @@ title: Greatlecan
 index: false
 article: false 
 icon: article
-next: greek-writings-celts-in.md
-prev: greatireland.md
 author: "Mary Jones"
 ---
 Great Book of Lecan

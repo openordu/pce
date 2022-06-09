@@ -3,8 +3,6 @@ title: Gorseddarberth
 index: false
 article: false 
 icon: article
-next: gorseddprayer.md
-prev: gorsedd.md
 author: "Mary Jones"
 ---
 Gorsedd Arberth

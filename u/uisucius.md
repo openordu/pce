@@ -3,8 +3,6 @@ title: Uisucius
 index: false
 article: false 
 icon: article
-next: ulaidh.md
-prev: uisneach.md
 author: "Mary Jones"
 ---
 Mercury Visucius

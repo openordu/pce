@@ -3,8 +3,6 @@ title: Loathlylady
 index: false
 article: false 
 icon: article
-next: loathy-lady.md
-prev: llyr.md
 author: "Mary Jones"
 ---
 The Loathly Lady

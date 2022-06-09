@@ -3,8 +3,6 @@ title: Pendaran
 index: false
 article: false 
 icon: article
-next: pendragon.md
-prev: penarddun.md
 author: "Mary Jones"
 ---
 Pendaran Dyfed

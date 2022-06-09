@@ -3,8 +3,6 @@ title: Brennus
 index: false
 article: false 
 icon: article
-next: bres.md
-prev: brennius.md
 author: "Mary Jones"
 ---
 Brennus

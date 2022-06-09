@@ -3,8 +3,6 @@ title: Fferyllt
 index: false
 article: false 
 icon: article
-next: fflur.md
-prev: festival.md
 author: "Mary Jones"
 ---
 Llyfr Fferyllt

@@ -3,6 +3,4 @@ title: Druid, Second Sight Of
 index: false
 article: false 
 icon: article
-next: druid-shape-shifting-by.md
-prev: druid-rituals-of.md
 ---

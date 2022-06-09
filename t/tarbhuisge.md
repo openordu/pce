@@ -3,8 +3,6 @@ title: Tarbhuisge
 index: false
 article: false 
 icon: article
-next: tarroo-ushtey.md
-prev: tarbhfheis.md
 author: "Mary Jones"
 ---
 tarbh uisge

@@ -3,8 +3,6 @@ title: Shalott
 index: false
 article: false 
 icon: article
-next: shamanism.md
-prev: sgeimh-soluis.md
 author: "Mary Jones"
 ---
 Elaine of Astolat/The Lady of Shalott

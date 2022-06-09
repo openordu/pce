@@ -3,8 +3,6 @@ title: Druidegg
 index: false
 article: false 
 icon: article
-next: druidiccalendar.md
-prev: druid-three-and.md
 author: "Mary Jones"
 ---
 Druid's Egg

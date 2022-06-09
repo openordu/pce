@@ -3,8 +3,6 @@ title: Druidiccalendar
 index: false
 article: false 
 icon: article
-next: druidicsymbols.md
-prev: druidegg.md
 author: "Mary Jones"
 ---
 Modern Druidic Calendar

@@ -3,8 +3,6 @@ title: Triplegoddess
 index: false
 article: false 
 icon: article
-next: triplicity.md
-prev: trinovantum.md
 author: "Mary Jones"
 ---
 Triple Goddess of the Celts
