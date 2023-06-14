@@ -1,0 +1,96 @@
+{
+    "name": "sanctuary",
+    "attributes": [
+        {
+            "entity": "Belgic temple",
+            "attribute": "rectangular building"
+        },
+        {
+            "entity": "Celto-Ligurian site",
+            "attribute": "classical temple structure"
+        },
+        {
+            "entity": "Roman influence",
+            "attribute": "resulting in Celto-Ligurian site"
+        }
+    ],
+    "entities": [
+        {
+            "entity": "Belgic temple",
+            "type": "building"
+        },
+        {
+            "entity": "Celto-Ligurian site",
+            "type": "archaeological site"
+        },
+        {
+            "entity": "Roman influence",
+            "type": "historical influence"
+        }
+    ],
+    "sources": [
+        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+    ],
+    "data": {
+        "entities": [
+            {
+                "entity": "building",
+                "type": "object"
+            },
+            {
+                "entity": "Belgic temple",
+                "type": "object"
+            },
+            {
+                "entity": "sacrificial goods",
+                "type": "attribute",
+                "belongsTo": "Belgic temple"
+            },
+            {
+                "entity": "Roman influence",
+                "type": "object"
+            },
+            {
+                "entity": "Celto-Ligurian site",
+                "type": "object"
+            },
+            {
+                "entity": "classical temple structure",
+                "type": "attribute",
+                "belongsTo": "Celto-Ligurian site"
+            }
+        ],
+        "attributes": [
+            {
+                "attribute": "rectangular",
+                "belongsTo": "building"
+            },
+            {
+                "attribute": "similar to the Belgic temple",
+                "belongsTo": "building"
+            },
+            {
+                "attribute": "lacking any sacrificial goods",
+                "belongsTo": "building"
+            },
+            {
+                "attribute": "rare",
+                "belongsTo": "Celto-Ligurian site"
+            },
+            {
+                "attribute": "resulting from Roman influence",
+                "belongsTo": "Celto-Ligurian site"
+            },
+            {
+                "attribute": "much like a classical temple structure",
+                "belongsTo": "Celto-Ligurian site"
+            }
+        ]
+    },
+    "image": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Sanctuary_marker_for_Holyrood_Abbey%2C_Royal_Mile%2C_Edinburgh.jpg/1200px-Sanctuary_marker_for_Holyrood_Abbey%2C_Royal_Mile%2C_Edinburgh.jpg"
+    ],
+    "cyphertext": "e49wdzpiNJioUpt80xwn8zvQa9dizt5vLw_iR7wzvXiTHTe1SRdZ1fr5hKT9tp8Ew6gzg7FFC8Ns6IOPImIRuyibdK9sY3kLhwy8sNBLcRSrG0RHoNgcvIu4Zaq6uO5ZMPOb6TowYi6qi2vjsAQwv_lFqiQR6_BGkyiiEuzyzHR3ovE3IFTBPJrAbSrxLs1kcq2_C9tz4j8NSHlxmQfk8OXbMOzUGDefFZDaCqvEguECw7s6feABRuD_T4lNGMguSe9XTdcVpO8VfRglTjSR-m9mK1uhe89HqKzkNz1ntnLkJgabB6EfvyA4ILqkvqiubh-B6sWbrln7fm4sTukigSvDtgpUplgiY4L8_zw0hkEgUknLn08ZQNYmNPyOSOD_jbmDxoT6GVwjy8KuhwRbHA-syreDkP7oxfxT9dwX1Zgjy2PByJGFOlPRC-F8GTqjoIUb6OY-TzUbYu2et-tEd6h3FU1Iqm-ymcml3DLeQCOYsR_xUTO0W4Koi7aWAtDzZ6d-jI5YvnDq5nNsFpIGCuzhMQzREB8ri0hMTQR7a3FjImqRq8P-vVsH4fbntFQ6lhAGuX6liDpafA3wmhw1mGj820C_6aUbJKrYFuychWbZXsLGNcu4z90rvgShkJrq69RJM6Isy1Ejjzn9JCr7JwZRy5hQM5mcmUlkryrTPLM9687czVDdWoKCj3f1E93DgYR4khBm-XXNO9izQ2xUxE0YoQWOTBRLbUijYnljZFCyrrYoWcOkt8ObAsrlgfN3zLGq4CkJm-7jHfrQ1phEQ_haTnZ0FQpkeMCrjNjkugs1J8I0A2heknZQOYBpFx58aYUVhIjk0qcR2S6z7Fk3iCxqEPAh3Iy0LPYt8-sQVvSKfA1PQhgC_tyfgjFSFq5IEaRJUukmrO0u6g50yurm8cXPzMgA0riq3piO2j9zlHAIg57aqT1P4fodEIrQ5P-gzFiMRfxCIlu8HTSd-LKzANVSd5haf3mmesONy4YzfXmN1IaIyfxv59tsGgU20DQG5cYwPl_JY2wszur4PWYfGYeOF2ExuC2ppjMsQYOPq7g0LdsNo6q96c4rlxHzwHm60ea0TnnIwQlm4JfK9blXWZhzZhVhpk6ZnUmwauxiPgulFdLbLMHF7QI2PHy5mnn5wqc5nLsnCxQErsx5KC8j3Q6-Wty29H-9xMjl6tuf1OUE",
+    "salt": "k1Zv9w37w3zcZHJpstH1Cw==",
+    "text": "Celtic sanctuaries were integral to their religious practices and could take various forms, such as the Nemeton - a tree grove - and sacred water sources such as a spring, well or pond. These sites were known to exist as far back as the La T\u00c8NE period, where various weapons and other objects were sacrificed and left at these shrines. While worshipping in the open air was typical, archaeologists have identified three types of sacred buildings - the Belgic type, Viereckschanzen and Celto-Ligurian. The Belgic temple was a ritual structure for sacrifice and was often rich in valuable objects such as jewelry and weapons. The Viereckschanzen was a rectangular building similar to the Belgic temple without the sacrificial goods. Lastly, the Celto-Ligurian site - a rare type of sanctuary - resembled a classical temple and was influenced by Roman architecture."
+}

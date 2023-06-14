@@ -1,0 +1,48 @@
+{
+    "name": "milk",
+    "attributes": [
+        {
+            "entity": "witch",
+            "attribute": "able to bewitch cows"
+        },
+        {
+            "entity": "cow",
+            "attribute": "able to produce milk for entire neighborhood"
+        },
+        {
+            "entity": "cow",
+            "attribute": "produces thin fluid when bewitched"
+        },
+        {
+            "entity": "milk",
+            "attribute": "can be protected by recitation of Milking Charms"
+        }
+    ],
+    "entities": [
+        {
+            "entity": "witch",
+            "type": "person"
+        },
+        {
+            "entity": "cow",
+            "type": "animal"
+        },
+        {
+            "entity": "milk",
+            "type": "food"
+        },
+        {
+            "entity": "Milking Charms",
+            "type": "spell"
+        }
+    ],
+    "sources": [
+        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+    ],
+    "image": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Glass_of_Milk_%2833657535532%29.jpg/1200px-Glass_of_Milk_%2833657535532%29.jpg"
+    ],
+    "cyphertext": "4GrvMFeoEr8_5OnVRPO1BGEr5LAG0lA4YtUk9JE8_9QgL12IaMHWZVmrDuuA-51aw3xDpd3PPotI2N9Y4ev9oqLYCelj_yLv_qq7nQXU2wGI8hLcRnFTEHuTlpfUEhuX9YudAn6m6Jk9HiHrQJiOFtiRLqOUe69RrZBykHiyuBkLpE70CpldR3FgtFyzSIMfN_uoKXAR4hfC52_SlsXn-aCYtvsf9tA-h3qKeFeXH8DuFo6v1Sf5yTfKqIrocK-R0G0LNhdJ602Rqy5JPFzqVZkHzVB2H082R85PvGaf7ACQJwppS99uMo5CzmhnNNZlOOv57JIr8nvj2kC1WwC_p4xT-xpcOyt-sHYYuJpIkPOaNHX80TwMcBme-16_SkBzo3h_baPNSxeIKy_S4lTYrpu8S0C9kg_DPxl68ISXOuF6f_Mg7XqEXw1lfbGBpctKdFE5JtXdAx40JAdMm7_nFe2C6aTyfaEpVjj1Z8VHqwex7r-AzGYKTqLRW3ipoogOXvvOGRqvTNR2iZexc2pMsFcezImmpWOnn8SpYZs2Fo0Iajk7Aha5DY_DPghVs-fXCve963-swEndfEPHsfWxYFUwfwWsxI-VNFVF9uXBGhdQg8QQ04IKev417QvVk3gBOJtXImT0FjfuptraZtgZJUHOgEy4CNBDB5CyJAtjg_ZBJAbyWd8pbAXXhrFK2hWZt9PJvthO5BNShHAZlnKFCitBb9Ym1ewHRw2e7whbVh69auYlHaNqoxg7_fr0GDP185TUXHZn9JxGing9O_1JiV1_j6gUqcYXnqDAKAx0a-bH5uku7CCZ5z5wYsrfyTmlfYqmX8vvv_7BpooXeijyFwgVlUwNYF1-_nwbO3819NNvwMYXwFIzbkNCDO1KsT9jsKyhRCqPk6E1Jzq6hjyV8tqIAjCqaUNCr_oUqHvsDyYGsny98NB_HSCmKRfJIGtKQWE9pkk7Lradw_ByXfEYiEv6EOV4U-rKKjr_oz1juzfifldRyjHwxk1hEMIIUCzSOjgPXlwHkjPSIQ0hOi_jRjISfaud5kmM4UtyrmGb2I8mtwhDcktreKnw6uLPTX-PQGGEBP5o0Bq0dk-t-Uv1UzFD3fRbTDQO0-KS_KPGDTfhKOGbvPqytHUZAnOhz_0iwzeayc7D0waWcO7Vo-lym-KzT9sDvCdGAS7Aav8EvRMa-6TSCfUa5kFtc0QPcuPuzWWwn6txZ5UyiwmO15h5LaM8D0ewzKLm5FV5fPVDrO4cVWaI4fEuv40hViWb1_LuiFfkVgdaNn1XKkCXuHqp3fys_dc_-1Q4oto0Fgv2om7oKxpaGtyMw3NtlQbE4QId0fiRJCza1PRI8C7-lvZPQ0WxxsPLLavpU5QbTML9EBSDM73ZXlhvrLZzjVrwQGJ8WVMhJCzwHEjrJX2pizUM53llLhQwoir1qmJeI_gGfXBmPTgjyLRtOF1Jn6tOkW1YrdPnuQ_iHeVstyMcu81zpRCj3bQOYHgkgTtXXnIBYK8JaigKE-gq4p28J3m1IrMHmExSHUFWLBk_1ME5S-V4eHfmK9DZ_6kHj1BcPRWhOoVl5oNa4Hwz5AXFvPxdi4tF7NwkOYyOISudE7CXLMQmS0RnOvk4P30XbLQ7xakJ-1lSItdPDCeuGcaQBQn-17P9pVomS3eBowCveyYfb5QiLChhu8C57uY84NLy2z4rXZWDswIYux7n22Pyc17dWmIXGCeC0Dy6cdZu31v3P84tO1WmveP5O7wKz64Utxlkh-HYio1RW3tJrFkyjLfqRYRaLJ0m9o88x17pTkV7L8VloQeKJdR0lAp43GcqTTXLXS0ZEl6wgnjawd6mNzynpScnN-lf0R6AiH_FgXuzlSoZZSjntImbR13OEvyJ1XFJeGxeS5WGviDlebZPoTellrBtNmcMKVizxGict_U1HzFBKVx1RIhmDWL8ypFh-vnsdu2U8rH90c86wK6dBQPh81YjmEkFnVS9m6mO1SywKE_XRQ==",
+    "salt": "5XmIANXYVoNKom6UjVkAfA==",
+    "text": "Cattle played a vital role in the Celtic people's diet, and as a result, there is a significant amount of folklore surrounding milk. When calving, a cow would produce roughly a gallon to a gallon and a half of milk per day for nine months, making a milch cow (a cow with a calf) a valuable source of liquid nourishment, butter, and cheese. As a matter of fact, milch cows were so valuable that they were the basis of exchange and valuation of other goods in ancient Ireland, and even determined people's social ranking. The Glas Ghaibhleann, a cow that did not require calving to produce milk, was commonly mentioned in Irish mythology. She could fill any container to overflowing, but her great power vanished when someone tried to take advantage of her by milking her into a sieve. Stealing milk was a recurring theme in folklore, with witches claiming to be able to extract it from cows without the use of a container, using a needle or other implements such as dung-forks and chimney crooks. The witch could then make use of this milk to bewitch other neighbourhood cows, which started to produce a thin and ineffective fluid that was unsuitable for the production of butter and cheese.\n\n(Total words: 134) No introduction of topics, personal pronouns or unnecessary phrases is present in Nora Chadwick's writing style. In accordance with this style, the recitation of Milking Charms might be considered protective of milk."
+}

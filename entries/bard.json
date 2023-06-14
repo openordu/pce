@@ -1,0 +1,152 @@
+{
+    "name": "bard",
+    "entities": [
+        {
+            "entity": "Gaul",
+            "type": "location"
+        },
+        {
+            "entity": "Ireland",
+            "type": "location"
+        },
+        {
+            "entity": "bards",
+            "type": "social role"
+        },
+        {
+            "entity": "reciters",
+            "type": "social role"
+        },
+        {
+            "entity": "diviners",
+            "type": "social role"
+        },
+        {
+            "entity": "prophets",
+            "type": "social role"
+        },
+        {
+            "entity": "vates",
+            "type": "social role"
+        },
+        {
+            "entity": "fili",
+            "type": "social role"
+        },
+        {
+            "entity": "druids",
+            "type": "social role"
+        },
+        {
+            "entity": "magician-priests",
+            "type": "social role"
+        },
+        {
+            "entity": "men",
+            "type": "gender"
+        },
+        {
+            "entity": "women",
+            "type": "gender"
+        },
+        {
+            "entity": "potential bard",
+            "type": "requirement for social role"
+        },
+        {
+            "entity": "training",
+            "type": "requirement"
+        },
+        {
+            "entity": "extemporaneous composition",
+            "type": "skill"
+        },
+        {
+            "entity": "altered states",
+            "type": "skill"
+        },
+        {
+            "entity": "Prophecy",
+            "type": "connected skill"
+        },
+        {
+            "entity": "spell-casting",
+            "type": "connected skill"
+        }
+    ],
+    "attributes": [
+        {
+            "entity": "bards",
+            "attribute": "social role"
+        },
+        {
+            "entity": "reciters",
+            "attribute": "social role"
+        },
+        {
+            "entity": "diviners",
+            "attribute": "social role"
+        },
+        {
+            "entity": "prophets",
+            "attribute": "social role"
+        },
+        {
+            "entity": "vates",
+            "attribute": "social role"
+        },
+        {
+            "entity": "fili",
+            "attribute": "social role"
+        },
+        {
+            "entity": "druids",
+            "attribute": "social role"
+        },
+        {
+            "entity": "magician-priests",
+            "attribute": "social role"
+        },
+        {
+            "entity": "men",
+            "attribute": "gender"
+        },
+        {
+            "entity": "women",
+            "attribute": "gender"
+        },
+        {
+            "entity": "potential bard",
+            "attribute": "requirement for social role"
+        },
+        {
+            "entity": "memorization of hundreds of narratives",
+            "attribute": "training requirement"
+        },
+        {
+            "entity": "extemporaneous composition",
+            "attribute": "skill requirement"
+        },
+        {
+            "entity": "altered states",
+            "attribute": "skill requirement"
+        },
+        {
+            "entity": "Prophecy",
+            "attribute": "connected skill"
+        },
+        {
+            "entity": "spell-casting",
+            "attribute": "connected skill"
+        }
+    ],
+    "sources": [
+        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+    ],
+    "image": [
+        "https://upload.wikimedia.org/wikipedia/commons/9/90/Hope-coventina01a.jpg"
+    ],
+    "cyphertext": "WxZ8F5YQ_z43WfrRAdc5V1LRkn5f8vAeD7nKaGZmm7SKgJCyHUlOGDsS72hyKmXO9nT44GnQJGdZrX3ZRD8_Vg7657Azn9XuBqjtBw1uTHpwxKqgsMUPnmdH0TY78kkGag0uvKXiWaPi5bdumohrW8fwQ3nECnI2_6JsV_T62_VWQSno4BNniWgw7rALNIrwv8iMwdZjW0-s2OsUm5paPLwHYBnGCmr5TftvUzAK8X9QgeDHl2UVZ9mFiXO2297ILc1vPhQa6mjuxMTnVKHnjzGpQh27tZqkwwDJ0iNOK2i71Kd7qCcIOQezmxnj_wYpIxISELZrne--WV7NworV2IdvBgSmDfTGoQCVmqc1exRHPcxqIMFQF-w7FGfQwN-rrMZeV9dIoJUm_fkfB8xlj18TrpE8SulZNcts0Waw9jZhfO-W2XfGQga1IYT7r-_5B_7tqxKu7DK98oTdVxyMbdzFpf7aSAcdrLP1Ap1uA-6Luy-qUvWJGU4Q7lu_KKAziRAq_UV0rZt4FJ7tCP1vk6NiaBaeYWWBp_rNB5wjPWnRgLWsWEI3ky5m17jyyRhSxRd2XWfUP4LGO-GhauQWuHpQhM8Siad9yd2uPWUESnDu_sGY4qkqm-p6UgDoNThO3BfmPebH1BkRqJNxsk4EUeCZ2ULouP50uDtRA1kez-1S4XsJkdriaG_aboYv4jz3f1kouzm1tCkU5iflWlo4DNuo7YXLAi2koL5qqqKowJyIP1fSlIv9U_WDYqR50mRRVv1Lq8Ljy0J16Q==",
+    "salt": "pcZndrL3KdqkguNp4M48QA==",
+    "text": "The Celtic world held the role of the poet in high esteem due to their supposed power to curse and bless individuals. This power was connected to magic due to the use of transformation techniques; metaphor in poetry and Shape-Shifting in magic. The importance that the Celts placed on honor and reputation made the words of a satirist greatly feared. Although the term bard is often used to describe Celtic poets, it does not accurately reflect the lowest among the various types of poets found in Gaul according to Roman writers. Bards were singers and reciters, who held great importance in a world that relied on recitation instead of writing. They also acted as historians and were not permitted to alter any of the basic facts of a story or genealogy. Memory was important for bards, but the higher orders, Vates and Druids or priests, emphasized vision. In Ireland, the bard was a low-ranked poet who was still studying around four hundred myths and legends. Ascending the scale led to becoming a more distinguished caste of poet called Fili, with the Ollam as their highest rank. Both Gaul and Ireland reflected a similar hierarchy: bards or reciters, diviners or prophets (vates and fili), and druids or magician-priests. These social roles were open to anyone with the potential to become a bard, regardless of gender, and were not generally hereditary. The ancient Irish had a unique conception of poets who were not limited to only composing poetry. They were required to undergo intensive training that involved memorizing hundreds of narratives before progressing to extemporaneous composition in highly structured forms. Such composition required familiarity with altered states and was linked with Prophecy and spell-casting. Among the Irish, the poet-seers were called upon to discern the next king in the bloody rite named the Bull-Sleep or tarbhfleis. The most elevated poet was the satirist who could punish any king who was found unworthy to rule with his stinging words. Thus, the distinction between poet, judge, historian, and prophet was not clear-cut among the ancient Irish. Myth and legend tell of various bards, some of whom had heroic or semidivine status. Tuan Mac Cairill, one of the bards, claims to have lived in various bodies since the beginning of time. Amairgin, the Milesian poet, spoke the first words upon the arrival of his people in Ireland. In Wales, the greatest poet was Taliesin, who, by accidentally drinking the brew of the goddess Ceridwen, gained complete knowledge. Pursued and persecuted by her, Taliesin transformed into the shapes of various animals and birds to evade her. However, Ceridwen finally consumed him as a grain of wheat when she was a hen, but she later bore him as a child whom she threw into the sea. The shape-shifting theme suggests that the ancient Irish believed that poets could turn into animals and birds while preserving human consciousness. The ancient Irish poets used to travel freely around the countryside, along with their students and retainers, demanding hospitality from every king in Ireland. From as early as the sixth century C.E., Wales had a continuous line of poets. For more than a thousand years, the Bardic Order (Bardd Teulu) served the Welsh monarchs, and it is on record that assemblages of bards, referred to as Eisteddfod, existed as far back as 1176. Nonetheless, later bards chose to align themselves with specific noble families. As time passed, and their conventional patrons got expelled by English settlement, the bardic orders dwindled into itinerant poets such as Anthony Raftery, a Co. Galway historical figure in the 1700s; like Raftery, a considerable proportion of these poets lacked physical sight."
+}

@@ -1,0 +1,76 @@
+{
+    "name": "rowan",
+    "entities": [
+        {
+            "entity": "rowans",
+            "type": "plant"
+        },
+        {
+            "entity": "house",
+            "type": "property"
+        },
+        {
+            "entity": "property line",
+            "type": "property"
+        },
+        {
+            "entity": "witches",
+            "type": "person"
+        },
+        {
+            "entity": "ash",
+            "type": "plant"
+        },
+        {
+            "entity": "rods",
+            "type": "tool"
+        },
+        {
+            "entity": "rowan wood",
+            "type": "material"
+        },
+        {
+            "entity": "Spells",
+            "type": "action"
+        },
+        {
+            "entity": "Fairy Trees",
+            "type": "plant"
+        },
+        {
+            "entity": "fairies",
+            "type": "mythical creature"
+        }
+    ],
+    "attributes": [
+        {
+            "entity": "rowans",
+            "attribute": "good magic against the envy of witches"
+        },
+        {
+            "entity": "ash",
+            "attribute": "substituted for rowans"
+        },
+        {
+            "entity": "rods",
+            "attribute": "made of rowan wood"
+        },
+        {
+            "entity": "Fairy Trees",
+            "attribute": "long-lived in areas where people believed in fairies"
+        },
+        {
+            "entity": "rowans",
+            "attribute": "tended to be long-lived in areas where people believed in fairies"
+        }
+    ],
+    "sources": [
+        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+    ],
+    "image": [
+        "https://upload.wikimedia.org/wikipedia/commons/d/d7/Rowanberries_in_late_August_2004_in_Helsinki.jpg"
+    ],
+    "cyphertext": "Ab2Pg5OjqRrGkhnjsBetiPJizOk_zfAMwFNbdFF1KpZgBPOR3J0p3bCUUKaiOtyyusbbYO3S19-bUHpv78SkTP8pZIEyDmW3mfgMqpA56ypS89y_MDj0Bv_tgIwY8kkjUIL3jPQh_9bV581XBONyrgo4z5DQ1rYSJeQkPdVxeHPIsbJC-s_eMdlpWHHF_THhxeoK0xBxOkGWoXb3TATpT2bbWZJeHQjy4sRLPpCdpg34yQFvPrMFd1fFl-gzVZz1c0u-TX1fF514aTT61tciRBXKm-kJvFBkTZ_R6EzBwF0m8Tx5X02TRihAXu55Vdw-w_qh_v-cv7k1m8dwlRYaj5i3sk1ZVzMth2Gqm1QJPm4og7H3Tmr_M8AzviWCsOnkCkPdlCScpL5S3Of4NOlubdrhqfmhWw1lix4LjGyFdkEvLfYOGobDOdDCKg3WrwaT42Cu3jeIKlXgir8PV1DtoZ-iIt_clabiJQsyzC6QovuqaiJpkCKMO_8jDA5UiDf-gI_mWqcc7pPPb3Z0HhbdmOItFg6ejw2eT29yCxWl_USmSgY9Dv-KJToNppo3OTkcIvTcjex5gRhqVt8_nLREwK52_cpountyv76Izf2wq2VQjckW_mXwlNVUESLRFf7IA9L_YvvzR8g8fIUmQZ4V4429s8xg8YMwXDActzaOyzjUXnPF7U444RUaGDlcVCSGbyzAGA80m-FWLng3jhJ8xSqCRTX9_IdblGX631aeTy4NyU8nGkyuxOLXodeegIHB4yQviPcJ3tZPKXD514WnDj2Kz7n9a3XUKasWlBk5bIvqAeYXvGSc0_kBBCZC-ff9biZwRFvDdT5QeswwriaT0koBfDa1xGlT5vAUTFtXRQv08PVDktLx8K2T3XQU4jbxZJbwNXXNtEJ4kX9AMXVLqIRBulRgoj9qGLGLpmiPrzAItmM_ua_YOIppu_zg0dFKnW_cvgldIAqzNZVKE1SZEPnYFciKxptbc1vI3lj3N6WLIJWCqSCwV3yRoiEWs4rQQ5qkxXGw5hhRvREdrxQG-VrihyqPKudUbuZr3zHikfEMs01PMd4I-MgbUFZXHjhIOkK-pVPnq_1RXd0-pt1rJPFo2jAFRoxH0-isGB4OS8ZI_Qa7msiJA2okkKm23fGWNJuZNrrOe1m_c7KuMxREkvERnxUtrnyqKnV3B3iHUsh7KTuh9fWyvM7jGNph2MMnrnvABBUA049vcUAUO4DSKR8VHXRYxYxLPAPoPSlTLTGcQfHugGQz0xDaFZ8V_sjIKAZGAwcKvlOxWIE6OReg73RHMwwnsbi-FORnvjonBYimXv1P8-E_2W0JGRk1MlWVPVocwlHdn42KE0zl-fx5cX2bE8PHkxUFtuS1T_jmLUO6AuMGtSMExLCYwwzX80OrLSFfkjbHX_E4F9vOulbeijzKe-DNGewTnpQPOKmOOJNf9eetOWbq6bJtzuPjwD2CAB5icJI14VUdXKUyWBpGuvgMq6veIz3ZwGmHkipGCWY78vU3TD3hLt8uLpBaX0ozlP0hwktW4zNlt1cL-Id1y78DnwInyxYWJ_Sn8FJMdof_26s3bDgELRxMl0r6P-komMGXr4nqCd4eTK8GcaHZchYutUGlNUthT68vW0agHrzYriyIP6kUWcp54zeKD41jhUD03AAFJxjdT6o29sdvLg-qhD-powghYumLYHmweHw--kKKdoO5O0wv-FOwdAZgsJG20LhRqroZIQIN740PVM5kBgxe2608gdwcBRJLPulvQQNQRsclk_GrF_2WLRRQpLzjL1zPmSpv6aid3MsrqkzE4hRhXckukEhn1u5ZLbdpkEskmPJPOo8AcvArkIe-4V-VGhlGcobAFwXMhg-0BZCPfDxbWpY3obucX8CT_kV19aKAyYLAKrkaIXc=",
+    "salt": "ZECWE5L1miSCZuXOrzHsHg==",
+    "text": "Symbolic plant, the rowan (also known as mountain ash, wild-ash, quickbean, and quicken tree) is not actually an Ash tree at all. The delicately leafed rowan, belonging to the genus Sorbus, was frequently associated with Fairies, Witches, and the Otherworld throughout Celtic lands. In fact, the tree is often found among Stone Circles and other ancient ruins, as well as in cemeteries, which may have contributed to the Tree's mystical ties. Supposedly, ripe berries of the tree offered a foolproof way of determining witches. Before turning red, immature berries were dangled over a suspected witch, revealing instant confessions. A Scottish rhyming proverb claims that \"Rowan, amber, and red thread puts witches to their speed.\" Using a mixture of pounded and strained berry juice as a prophylactic against bewitchment was also common; however, it remains unclear how the juice was used. Whether swallowed, applied to the skin, or simply carried by people, it remains a matter of conjecture. Rowan wood crosses were believed to deflect the evil eye, while the sticks were useful for driving cattle to pasture since they kept spirits at bay. Planting rowans around homes or at property boundaries was believed to be a form of protective magic against the envy of witches, with ash occasionally used as a substitute. Casting spells and constructing rods made of rowan wood was also prevalent. Like other Fairy Trees, rowans thrived where fairy belief persisted due to the widespread belief that terrible misfortune would follow the cutting down of such trees."
+}

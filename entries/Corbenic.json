@@ -1,0 +1,44 @@
+{
+    "name": "Corbenic",
+    "entities": [
+        {
+            "entity": "Corbenic",
+            "type": "Arthurian site"
+        },
+        {
+            "entity": "castle",
+            "type": "building"
+        },
+        {
+            "entity": "Fisher King",
+            "type": "character"
+        },
+        {
+            "entity": "Latin words",
+            "type": "language"
+        }
+    ],
+    "attributes": [
+        {
+            "entity": "castle",
+            "attribute": "name"
+        },
+        {
+            "entity": "Fisher King",
+            "attribute": "possible origin of name"
+        },
+        {
+            "entity": "Latin words",
+            "attribute": "possible origin of name"
+        }
+    ],
+    "sources": [
+        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+    ],
+    "image": [
+        "https://upload.wikimedia.org/wikipedia/commons/6/60/The_Castle_of_Carboneck.png"
+    ],
+    "cyphertext": "2EwubB6eARpgnEx7kuKpZimpDvUD_pPkdy1wCE3X0f5i-RN5aKCD9MuH4yVqowVAJ5lTpv03rh9aDP148P1jHXdQKnw2r4G4l2x8EPnwC0P-wRzjTgGS1LABWGaxKdLgoA_yJhwxf98EwvUbPtiG7X725dcTLNv3GsY1rv7edBqPfOHDQzT4qr_ewqDTwKJAu0JOLQwHDw==",
+    "salt": "vZrIe8CkelfaqsdkH-npgg==",
+    "text": "Arthurian legend attributes the name of the castle of the Fisher King to the Latin phrase, \"blessed body.\" The site in question is that of Corbenic."
+}

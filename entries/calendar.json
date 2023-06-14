@@ -1,0 +1,105 @@
+{
+    "name": "calendar",
+    "attributes": [
+        {
+            "entity": "lunar months",
+            "attribute": "organization"
+        },
+        {
+            "entity": "Coligny Calendar",
+            "attribute": "shows the months"
+        },
+        {
+            "entity": "lunar year",
+            "attribute": "adapted to the longer solar year"
+        }
+    ],
+    "entities": [
+        {
+            "entity": "lunar months",
+            "type": "time"
+        },
+        {
+            "entity": "full moon",
+            "type": "time"
+        },
+        {
+            "entity": "new moon",
+            "type": "time"
+        },
+        {
+            "entity": "Coligny Calendar",
+            "type": "calendar"
+        },
+        {
+            "entity": "continental Celtic people",
+            "type": "culture"
+        },
+        {
+            "entity": "Samonious",
+            "type": "month"
+        },
+        {
+            "entity": "Dumannios",
+            "type": "month"
+        },
+        {
+            "entity": "Ruaros",
+            "type": "month"
+        },
+        {
+            "entity": "Anagantios",
+            "type": "month"
+        },
+        {
+            "entity": "Ogronios",
+            "type": "month"
+        },
+        {
+            "entity": "Cutios",
+            "type": "month"
+        },
+        {
+            "entity": "Giamonios",
+            "type": "month"
+        },
+        {
+            "entity": "Simivisonios",
+            "type": "month"
+        },
+        {
+            "entity": "Equos",
+            "type": "month"
+        },
+        {
+            "entity": "Elembiuos",
+            "type": "month"
+        },
+        {
+            "entity": "Edrinios",
+            "type": "month"
+        },
+        {
+            "entity": "Cantlos",
+            "type": "month"
+        },
+        {
+            "entity": "Mid Samonious",
+            "type": "month"
+        },
+        {
+            "entity": "solar year",
+            "type": "time"
+        }
+    ],
+    "sources": [
+        "Danaher, Kevin. \u201cIrish Folk Tradition and the Celtic Calendar.\u201d In The Celtic Consciousness, edited by Robert O\u2019Driscoll, 217\u2013242. New York: George Braziller, 1981.",
+        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+    ],
+    "image": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Kalender_Indonesia.jpg/1200px-Kalender_Indonesia.jpg"
+    ],
+    "cyphertext": "tYMOKdzh-0LR7Cp_djBeRhSUYP2hhzHbt4x2eJUFMNrxpSDIt7nnKxUcU-TWGDbetpZ8OTxTx0emYe0FBRnl4oys9Xqs4I0ni2glRBgP169u96B_7a1GVbhTLxoldTm2wxNyJTtkGHfJloeQmaWHJo7z2-O6NtL-AY8xaOSh0NlWQ-Q9eOSmHTCOG5-f3hlbC3cqEiM36CxZNNdy-OcBUN6DvbYky_iYdmAePRaggdaPZPahUNSiSPxW5ZaMipYEWwGtKMJ_CZwA9_J5bBatSRvUiaZg7olBhZ_V04ljIp892IxZP35a6J-B8WC5kZjIxkEExyviUB0A2lftK1iziiFVWlR5xFJy4GaVE2xAmW-zEi9Lqs-ItBWrXaZMEz1hB8ob0gxBM2-zy02RT1GC8Ytth-Dxn9WdoDMN6nH0kLFD_zqMaSGHuPiLc9-KEKdm38korZl83sIcmb-cgGCzA_JNRbPaFyJMlyTTnMiTpAcsKw58dIz3o2my4qCkE23JXtoH4ity2hhA6NO0qm4-CPYZCxSbfqV3YjKeJuxKcPdlfTnR_zIUZaZoUlnpytlztHtgNOnT8S0WuIic8ZJ1j6zMgw8yZmQ2I2WqM_4KiMxXXW60sulaIKzuscGrWwqmPb-HWCUxixMYxya1ad7TLpuTy7t5S5aqYRLqLIFDKlojWVut6_EoYxjysRm7jqRgYg30aMqneh8XglsHoLaMegSphOgBlpd8zCNohWgZyTZ4tLGKDs6RVori7hAWPLbGK6dKdV0VP32FvJXE14SzgkC8o84vbOWgi66aFtqOTN7vqEpUqNmBPwc87_ywiRybKdBQ-Fll8COs5LIxOz1HpIOffxChGKwU2tK4a0u4Z_9GPWDmV2hIUyNiL4o7pIY0yT-CKfVPdvaxBkxVkdL_DIVfBPdT7zR7E1J6xe7ipj-AQCG6exikc9iroT5R0XoEgb-m0Rlh5e9oXq1O6l8ElQSzqd8JttKCd1e4ktIRjUp4t9WzRss7CTNXsN4-jEPmwB5z0pRnnl7OA_2vwrn6SLH1t9UehsPee7f4gS9SPcSYuVDOdZOroZatR9GbnwSz9S8pZIdBEgJ9Fs9rzwU37Oi9zFggK9-9h6FTnSMGzTO8270BDHun081dFwd5lM2JOgPREGzl4VLr0Dv580ZP7wraQNhtrRUwMXisfF0RHrQrZ8mdO51tQqddo8Rdgk-zypfL2IRBgxFLXzcMxIxp53gb6QnrfL1ooSlFz556oRFZtM6EKlfMgHCYpa6mXnJwRmOk_5lcCJa5jXcj6NT2SwBzufF5WzU_lLR0rlkjbpx5MVf5JC5BnlWGiHjvUNs2bMT9uR9N0ldWGyv4X2liLIX8xDRQwoAEgaxs1FH1QSmyNz_z7ice3wiuAzHSPAmDSCG5UZopkQsShugr7vUiEeIpveKOmbkf0MTqBY5z6ciiQzE0QM4wAwFUG38ez0SFFjj3mIEabNckjRZN0-FdoTmcHZYjES-7Y3Vpzn3rmvlFrAwjiD5qZbBRByuQtTUBWs-XgrDdLR5D-U2U6Cbv-B9pyAOKO0uwbeH9_IP5U-J4Y4PM4NReLTSF2AA8zjLRgVRsiSTNuCBF5MXCxLJdvibSxRjZW2OCn2kldeZpC6enbs0M1BK8PvNNOIxgSPqAxSRJnAMQG4rq1W-jKUSXToHeLJYb8kFmlbRKkKrEZqbyCCvDtRDXMbM5cAdjrLPLSwtpncNDxgcvW6gxfK08-3fSEXeNSdKtZz7QQSYbfBib2VqZft-NZn4_yesdWLQePMEyCyyKo4-aYvfrIgX6BFho3bXxGvRxupy4QZOzo01cHtXIFlUqWafgLRlc4_5YG6SFVnuphNBT3bE9C9Dk19NS4Sr0VGl2IaVdRofsH3cf-w5lKI7wWh-1LmPLKiFIQT8DW124-xvSoUnDk4s5ElI2cEPmbxgdjFQDRCWXLHVL8giGBe8pCqFhNtKo6J-VF1I5O02B5HWS2EqJiYnIRfp_LqrMCkxD8aIOigK-_inKKh-ratrE7IntvrkCPvaQbPOZ-4sTgxf3YHZ1sfZOLPEv0UmnieYMQ-SvW1Q-BmxgozzlqlUTz1JEwrJJH5Qqh39TLA000VIKwtfA9Dyox4AoYPCkGh2YHlHDCu7naZFLfXrS_DkyeCf3qRRxg5OJKcF3pFRsmFK71dR4X7IkWQGVANMZjD9J40nt3RdH0aqO-Rk1jNpoQ_dfeDFfbKNeeA6IRQhLNAnDeo8luhK0KYPUBErQoOT-CjQzOHXVyea9j-F8ObxDJX75k8xxuSrCUHZZzwQG15_hNPYGMxGhgcyg71p5K2NEMVQm0J-O98DsAcnZ-R5xNInIshaApbLDW3krklJobIo27UOBZcW3TtDn63VyNOVTedhCFzxPkZbRvaJSJYFY8vAS6_YkfNyCEZBALabTRrd97GkqHbSmgh99EY6qxb0qLtB2FTv1PsWI_IVd8bMiVmyYGXLB-w7mggR0esTAXN9r__DK6YvsEMiU6L8cGeFMITtAjvfDCokWq0oljAf8adPVVCUz8F4uX5FUIAWpyn6b5wiBW8wo50DZJqBEH95t141tlp47Ph9vGUgOHbg79o7uh5GuJuvI4aXfx2FFTWtaNRvB1Lei9ewQDlxRChhGJxQ8TBPjp5qR2TzJBZVn3jchP24NoI-2ICnOj7Vh3Ux3vkcTuEgjVi9xFequFo1cpXLsy21OLm2fXK0Ru9cL3m2Gyh-8VV0U8S93sMyERuHhCUaSYj3n-11aRA2Gmgel6pfHvItsNbx39Hs8tyWfyLHmUuixigVqpqGc0i5TUZ-9bwOaJc7xor0f5LHbsWXJsil0aMnV7nprYE_vxRLfP2Zw_qqok_R4IEHWht8tlnk4q_Ktl9d3zzldY5pvZM27K8GNvQFVrVHd_0jZ8mAATgXtfyh99bUb4uerQLMAkLo6S7GDYKq9Wed4RTCwUVepjhLtULdn73MZ27DsdSaDbR8RL9orYVJDKE4Yd0fh80Y7tThivfWE8j5LgNn4bidOagvPxzMkfmyHgojU8AC_ajUNJVG3NW2Whm9qgdL2qBmwwgdYRqqFqKUcJjCEkjlIuMJjGoXI-Zp4twPRmYHgbdJrXbhCpfSgC9Yrl0NUtVeh8IDIXo-mo0kv6--YYMlp0cnNT9R3c9M1Sck8rOLlGe2_yNFdqG6xa0jyNIX4hCsRbURUAYV6qtqyzHDDe3ggjoXuowkGjggOpnXHAMJOLO6VLHBQJqjSzbuuDb86qFcyobFNqSEToRLo3VW7",
+    "salt": "kYt0fvgpxXhOSqHq5tsbhA==",
+    "text": "The Celts had a unique cosmological concept when it came to the division of seasons. Instead of marking the Solstices and Equinoxes as the beginning and end of seasons, they celebrated the central points between them. For instance, November 1st, known as Samhain, marked the beginning of winter, placing it midway between the autumnal equinox and the winter solstice. The Celts also celebrated the beginning of spring on Imbolc (February 1st), summer on Beltane (May 1st), and fall on Lughnasa (August 1st). There is some dispute among scholars as to whether this division was purely Celtic or Irish, as it is not found among continental Celts and may better reflect the seasonal cycle of Ireland than France. The Celts adapted pre-Celtic stone monuments such as Stonehenge and Newgrange to their own use, but these monuments were originally designed to mark the points of the solar year rather than the midpoints celebrated by the Celts. Nonetheless, the Celts wove myth and legend around these monuments. Darkness preceded light in both the diurnal and annual cycle for the Celts. For this reason, Samhain began on the evening of October 31st, which we now refer to as Hallowe\u2019en or the \u201challowed evening.\u201d Samhain marked both the beginning of the new year and the end of the old. The idea of darkness preceding light has led to theories of a dualistic struggle between light and dark, as well as the notion of a matrifocal society that honors women's cycles. Currently, neither has been conclusively proven or disproven. In the organization of the lunar months, the Celtic people broke the pattern, starting with the full moon. This was likely because it was easier to observe than the new moon. The Coligny Calendar displays the months as: Samonious (October/November), Dumannios (November/December), Ruaros (December/January), Anagantios (January/February), Ogronios (February/March), Cutios (March/April), Giamonios (April/May), Simivisonios (May/June), Equos (June/July), Elembiuos (July/August), Edrinios (August/September), and Cantlos (September/October). To adjust the lunar year to the lengthier solar year, a 13th month called Mid Samonious, was included on a 30-month cycle."
+}

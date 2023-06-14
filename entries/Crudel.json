@@ -1,0 +1,73 @@
+{
+    "name": "Crudel",
+    "attributes": [
+        {
+            "entity": "Arthurian",
+            "attribute": "hero"
+        },
+        {
+            "entity": "Joseph Of Arimathea",
+            "attribute": "Jewish merchant"
+        },
+        {
+            "entity": "Grail",
+            "attribute": "cup"
+        },
+        {
+            "entity": "Jesus Christ",
+            "attribute": "used at his Last Supper"
+        },
+        {
+            "entity": "Last Supper",
+            "attribute": "event"
+        },
+        {
+            "entity": "Crudel",
+            "attribute": "pagan king"
+        },
+        {
+            "entity": "Christian warriors",
+            "attribute": "warriors"
+        }
+    ],
+    "entities": [
+        {
+            "entity": "Arthurian",
+            "type": "Hero"
+        },
+        {
+            "entity": "Joseph Of Arimathea",
+            "type": "Jewish merchant"
+        },
+        {
+            "entity": "Britain",
+            "type": "Location"
+        },
+        {
+            "entity": "Grail",
+            "type": "Cup"
+        },
+        {
+            "entity": "Jesus Christ",
+            "type": "Religious figure"
+        },
+        {
+            "entity": "Last Supper",
+            "type": "Event"
+        },
+        {
+            "entity": "Crudel",
+            "type": "Pagan king"
+        },
+        {
+            "entity": "Christian warriors",
+            "type": "Group"
+        }
+    ],
+    "sources": [
+        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+    ],
+    "cyphertext": "WT-vr0SG6_K8lYyu2HTw5YiE3xjq9vxEpg1tn0hWYanHyt0c7LJsSX1ClhIai5OOGlR7XDktG6s7Ji9ilTysQwY9cbkanP49F1qd0NlOroGAVyN_dvRNKLKyh4WI0QNJu3jKJ686yTAVRSrMErmc2QMBlUA5RUUuVWz9IKWHsg5Ku_Jz3A3VvEFEhIu5uvZX5ZfXItmGMlVq7-l70jL2SgyDGC-vL5qC2_agROHmaEWv_cgNLcbbad-h_xOkX-XQR4vxYxlNBy6EkL4HSNtuI48Ydh6Xz1I2KPC9P_d8a6xkrcF15MizALx5Zhgl6BcT2KpOOO0fcaBJHy50wNcQdh1eB-h8Ay48RngiHKtnScT2f9v9sOok5p5YY_8o_ZzNgL5qj6-mqsq4Cw==",
+    "salt": "-FYXlHtnyQVHKQOyXKNMFA==",
+    "text": "Arthurian hero, known for his cruelty, encountered the Jewish merchant Joseph of Arimathea upon his arrival in Britain with the Grail, which was the cup used by Jesus Christ during his last supper. Crudel, the pagan king, imprisoned Joseph, only to be later released by Christian warriors."
+}

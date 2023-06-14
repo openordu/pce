@@ -1,0 +1,71 @@
+{
+    "name": "river",
+    "entities": [
+        {
+            "entity": "River sources",
+            "type": "location"
+        },
+        {
+            "entity": "male spirit",
+            "type": "spirit"
+        },
+        {
+            "entity": "Salmon of Wisdom",
+            "type": "spirit"
+        },
+        {
+            "entity": "Boyne",
+            "type": "location"
+        },
+        {
+            "entity": "Shannon",
+            "type": "location"
+        },
+        {
+            "entity": "magical Hazel trees",
+            "type": "tree"
+        },
+        {
+            "entity": "Eels",
+            "type": "fish"
+        },
+        {
+            "entity": "trout",
+            "type": "fish"
+        },
+        {
+            "entity": "sacred springs",
+            "type": "location"
+        }
+    ],
+    "attributes": [
+        {
+            "entity": "male spirit",
+            "attribute": "resident within river sources"
+        },
+        {
+            "entity": "Salmon of Wisdom",
+            "attribute": "lived in the spring at the source of the Boyne or the Shannon in Ireland"
+        },
+        {
+            "entity": "magical Hazel trees",
+            "attribute": "source of nuts for the Salmon of Wisdom"
+        },
+        {
+            "entity": "Eels and trout",
+            "attribute": "live in sacred springs"
+        }
+    ],
+    "sources": [
+        "MacCulloch, J. A. The Religion of the Ancient Celts. London: Constable, 1911.",
+        "O\u2019Rahilly, Thomas. Early Irish History and Mythology. (Dublin: The Dublin Institute for Advanced Studies, 1946), 3.",
+        "Ross, Anne. Folklore of the Scottish Highlands. London: B. T. Batsford, Ltd., 1976, 78.",
+        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+    ],
+    "image": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Amazonrivermap.svg/1200px-Amazonrivermap.svg.png"
+    ],
+    "cyphertext": "BUOFRLISVJ-sVUM-Qz5e8cFLKLMVz5cd2GR9JQPlJvNwj5NmoijRz1DYjr2_mhkegVOiLXj-pHddZ0I9GGL35J-eM-omayyjOEP2jVhFB-zxw_8NZUCrEY_L413kjZ6zFpNweH0X7KSWBOtwWRvtSb9CyDVrdXZI5xc_1Q-v_sGzkzXHrMXtvQ_t3pDU03fLn4v6GodRALmaoDIDeWTjHNePUr3aJATSEiZqy_Iq1r5tFDmV9jn0pkURjrVjdiVR-gDgpg0gn_zr7-7-vPGmEE7f4HIZg2ICospqCM5Z9JHjxPM3ifgUSd9i4glEyxfkyImVn21SchOAKxeV_7q_Bz3zIAnrJqANb2Ua8FrizmzTqeZDOtyjNqp1zqAknuFxqFSJBJNubi0XuzWxw6_XwE1otA1AzqDKoXIbYtKQyXyh2Xo7zMi6_soFfrFZKPXOHRFkRFgYHaOsNN4vp7Ks8ji_Odye-TY8TE7c7WH6sNulYCcYX3MdWYgSJtE3A3JiE9aX5prbFK2R_ai1nnGHCMCwPNyInA1nTNcrmEoGD5OskBz3VRQPt8wK1XWdHme1RLWQu3g6Vw-K8M0Pz1HDThHqt2VK_L0jvIhioIfkwTeD5q4euxj6v7Q1orewaTg7TT90W-yo5Fdw8cPB8haKpqzp8Y3o6Q2YYdk1GWZ25N3oq08Nlj60n_YvP82F-PxWqupuFWBYyAUYPL291_593VFymQSGSw-A8XG8Efibl98_aSvf0vTJ0cYibGlsojwmp8WSkkWXCcFK2389aBQdNEgc5d6pHJ9dcZbfgWuWQrPdhpjC2g9PIcy4eoACcDyO5wgpgF-xCCnuMYdEZxw8BZwMRFflcktLDKzLRmKvHX0cwjE_W5XHW0Stc-iL9zG8t_iILq2juFD08kTdvJQgDFR1NT_WsBipTd1S5hRYmiNWTmH2M69EmwE-GCTjlDbv5UzNXUtDwqZbX8EDNgUoyn_bQXrSh9DEbge_KSdEKCliV3O_7uOGgkIN-7zB1tA3yCHey2Wqh56T0sgsSkjg3PPtTQZUPbvQHDiFj73NgB5Cb8lTV4r38Sy8gmWz6nEYk_3bYXjgKNNfm1EdUR-JhexSmtcBtwSps6js3MHEMbGfD6y8ZO0zcbdPfPCr25Jtr2X4ArA7wnZwnRpuVzdS-CxcJtXZE4ZtAXKAv4ozuwH0o1qF1TTtl9brldFVVbTsTFKUP1pProAc1MSJ7D2a1THcbsCI9ZvLpWdN2XrjOkvrm0zj24I2yWiJmIcVKz1C3xJNujnfQRGjVGJ2keSRRllRBMW0jJI3gBSdHoacdC4JJpfkuXJfEYI7d7mV2txBkO55mXlnQhApGoV0OBNpRculwrd-jPhtEkzLpnqh9C-iUh1vhcJfLjB2XWMpyzdT63kxLyUcFkQ2QaRb_xNbMStFhLuxxWjckTBqFug02UfNJndulrZbf--5fl-JXmcPBAbck-bK9ZdOfJC19NPRNVhwC_aiW2XP8IhuxstPw7b3L9H9t7G8GbLVhsV1FgN2O_Xn4yccBJ9w8IvJeqHN0yeKbgCFchHCTgWXHROiUj2qSMKglDJ3MMGBijj6TnNajmE04ZcQ3pH6ngEHTaPq9oYdvJH-pqblkFbMAfl_NmqhL7sVvnubFtgau4Y9UPzAB1vl7jldxE9_GLTRvxL_vOMgn3oh__L5liiAbJnq3REfzXSY-IGLqcWKJ1wtekUoKYnz3LLfIENzLuUvswTBQQGzlvIwZrTbz2R5eUkT1wmsUD-zegZQRBdWg6NuyDcm5dDcTy1bLMyHbRItB_mbcWrkoYwZrfy7O06fzfb3KMcvCbrTNU_RRuNPB3BqB8KFO4H3ZsA-eUR-kz4syvhfdYAYmiJwMulMI4Jp3HLe4nKHYsJOtD1EQ4u1tquiWmvOlrwDDGvHYET8VZ4_e2r_6Ve_i47ldnCytl_KMrr8eJJM__5vuWkscZr98yjshkXJQatakFRcbEA-pJrD0GoKEgGBxu0gi_lcHl8atL5gM5jUZntk3gbbSfp_D2hyLf8r4YmFtSifaKH-AGr-sfWJzsYy5XWdxv91oP3fLHM6ZGATdRsDnWCrLy31vZA0rzuVlN9iqOZvLidN6NogkPBL7lZpKY6TvU_gVPhMoeMB6GhAFzvinr1G-tEmh1q6Kg1yFQzYUi8et0p7QhELVlCeU50K8WF7evbDfk3CgPn_rKJatXEi9zjHmkcJLjfOLMSJajq4xNcYJZmIiXaDpKTnW7l-baRW3JiCw3f4Hu7DUFO4qF-Xe1F_K_pwEPzgWFlJVxLtyBTrqTQPIC7KUfB4Dj4-gre60qIyr7yI5CRoh4YNIMJScNEj--Q3W50tPFgL9mjzzD-LqFZptGuPnPVKkmwdzneNuriauYEV8Uet4LzbkcGXU5d2VNue5Xy8WKMRK8SdXwfIHwslJCryzpjz2nD9RzQxLzy4JJvVp9Dp_A7ZOewvcESGfLSvZxXx0UBOHZMrmPRezmJLd3o-i0VJPMzfy63f4tPJGM2kug0Czcdkc-KAtxu59N4-wUEAq9DstX0C6u7OnWgqYa0GhAZHu4GUA8oelZqu_qrUBfIpVkfaGTlay9Nj_FdpOAohvJ0BaTx0UWEaYmMLX9oT8KXIzwPkHqyxB3DSTVzwBvYrhYqhSb7CVFH1wMWy6JtbdGwhy5ZWDX9zSMXRJamwy-acLk7npHR8XVsAdJ-mofbxmgWJG6mSQ2NnM3Z6_nNmyeDY3QiEL53GxsZp0x0fiyLsvEXnfDuMT2Kxen7m6F7CF_assoNezs1Pkmlf6Mpw2ZS8uFDYrjVrp1UgkEAMuZIUm5gsRs5hhyU5c1oNJngF5cm0FXSGUM1sc_tT0K9Jkh8jf4PV7lS2nw-43WZAWYBKdYjLWtFZ1ha1Hwt3VIPaLmoF2wcTR5VkEefYqYsYhEjccdER-0M7kUPaTC_zV-XTBDcRoJOJ9EnVmhB87xg4_uK0r4gBHmBNdfngAxZQK5JEGX6q-ZeDCwrpejh3oIet6-Y2luYbMbz8MJ0iHrpRrXtnMAc4m9sJqGFUOeqZflqvdlnMuijGS6wMq-WfkxR5Hezmzhq45hgk5NlGAPQLWkYM28Syvv2J36yrq4UBvQp8nQ0yo0QArAu5y1xeedvqkiuAfd3yrDaJ06UH6EM3cazgjEtC-Tb2AG1YrM2JtaS3Wj8RoiIbud9pBdUfD8PV7jshN6T535W7pBh8sd2vTAwhds4Pdov2i8lt9PUsN5ylqZHNnhkyb4ARPxU1ajO5u7I5VUT6Bs6jGkRVu_XOkGDKislzUnGZZYhfCx4ymfg1DsXClC34SePBnfSMzSFMnB6cex3iM1HahdwjLhfSCOp_JodjKGUWnIah53zonyAnpkxcaC8tWZ8QM5yboipUSEWphIVTxLL0-NJHyTVNApAQGA3RbIS80M1nbgGKWd2J5RBX2whOSDrs2HJi0pI-JT2CydBNzFxJvttWSgUpkvVeJXLuZZGAHBP8bmnBNy0nBkcoVaOwrGHBTYffILJ6DSn9WBqAso0dlEaJsl4595mYae1XUgdcw-K2oUeZ8TI4uUS7sY3_hO-3KcvJr0JNXNSDVdNL3FK4b8MHOKNwooRBJJtMDz1mynZyrWqj3SSZpTDTrB6kjbZqMX9adutuLdXJU8HmiByIIHhX_8CN-Ri94CBwov-az4xBztmA3nhdpSW_26KlV19LsKNY9WGVP144wzOJMRSMgOjOHyoo_d30-IYNrjfAk01562O1zO_fWq749_a7b0BqJcUn1sJFVOrahtqXevW8l-_gmGVlp1yHuOML1jzkLaZoxvbzXKFaMutwHRR44ES_6VSEZZG5jqq7SgKJ-iWEfbL4FOIPmBWxDozGpGIPFUX5DlLTRyt2oUV5lz2ZCWFH1j_MF-TUjzmpyUKSOgF1jIyVs33Hnao8y0ie46a3Ce0kb05h_05QH_ZotesEwouip2aKCpsjSYPTvKJDjgBLV_-QClIDnDYDQZ9Yvpk6TUNoc1RUUykdm4vasg0D1JpoU2iUBEd3ic6XOfaFuaIzgnpCZHnh1l-diSubEz-s4mA8yIcAEvjJHR6CtbKesYv5GD1KzZ8xkr2jbfqgdDH6mHaAG9KjwfcoeFRlO5_2byFqdgT2Ka1G7R9aoIrHBRlaKll0AxTcfgJPffBMPe5PYBem6Xjd0f26_ICEePnpH5ldypSaB5ruT1cKDq6nsi02V9cWqh0NovR9jaJPvSHA_oSWlx4_3tFpfn3MEpdHx4WbAsePPTeSGm9-2FFjUy0vNZgBeOun3DUwqEJ1QoR3FWifPq8n_J7-OcC7fmAmyY0bmHlwQs9AsdnujvozLWr0qcPPpzbzOiHUM_vcd6U9SWfztdn0rmxVA75CFWb0nJc6W5Bc1BDlm5lL4CKuGiyxionkWy3wZO238DgtPI_n3cjFKD6ePCnIwtPpbLsCuVIhPYe1OZxn404BbDj-taUh6cd2HeemHVXgurp2OljGu6iPzq7YRADhDOp8BXlOxVEkZfnTP4drUP3E_ganAHY7l1qOgt5HYOD9975F-hdBU1FHFaW9Y6ArrF9Frj_3-vzisH_vSKwEsFb4URrKg7h6zUGsWz6woqx1_FX0ylqxY98trK2drOv2QVIc3SZ7qeVX_u_QGEw8mKSlstmRveZn-94P985K8NBLZ52IFvKnKX-Ug2oxRmoo7Xnuz0TTIEX1AYI0kk1eQHb-JyMxti6fCFj1hVVre6qZMAuUYjeNdJoc4r9gHH-QtbeXB2D5sK9RTQ8To5R-hcEO_ImNO8lGTl4B0ckjbj5wCknwjS9a5_OJWOyyawWTsCgru-k0wo7lKanLM-1hJ_0IGfXWvW-lQeAB6RxMYiRuqzMpcYNoJs-KPvDnM8UGsZSLJNS3FYvjVWOn7rriGXnQGNsL6syw6xr-5rY3NrodCn3tkVuM0UfMRwcZa43zWP0qq1apYBHF9COvWZVI6FC_ZhxFCfWsAjPQ23yEzY343xzcT9yAVW3oNIjQtmwTOPA2vMGYkRB46_DLHAcmDuB9wAaTTnQtR_RrL-cpCIyZ-6i2wSq30D2aNbBLxx870w==",
+    "salt": "iojvxpaxRcrYb7yt3EaMUQ==",
+    "text": "Rivers were revered by the Celts, who viewed them as goddesses. They often bore the names of goddesses believed to reside within or whose passing released their waters. The river goddess was typically portrayed as a nurturing figure who provided sustenance to the people living along her banks. She was associated with Deae Matres, a group of maternal goddesses revered by the continental Celts. The river provided fish and water for crops and cattle, making it a vital resource for the people. The Celts even associated the river goddess with a Cow and her waters with Milk. The source of a river was highly regarded, as it was believed to have immense healing power. Offerings were made at these sources, indicating that rituals aimed at promoting recovery from illness or injury took place there. The Celts viewed Springs, especially hot ones, as sacred sites that possessed therapeutic properties. Bath in England is an example of a site with hot springs that was used by both the Celts and Romans for medicinal purposes. Bathing in hot springs was believed to alleviate chronic conditions like arthritis. Folk beliefs in hauntings or Fairy activity are frequently associated with holy wells and rivers, leading some scholars to argue that they are a vestige of ancient Celtic religion. There are legends of many Fairy Queens being connected to water, which supports this interpretation. However, this view is somewhat controversial. The Celtic river divinities include both goddesses and gods, with the goddesses often being associated with rivers. Of note are Abnoba (Danube, Avon), Alauna (Alaunus, Alun), Belisama (Ribble), Berba (Barrow), B\u00f3and (Boyne), Brigantia (Braint, Brent), Cluta (Clyde), Coventina (Carrawburgh), Danu (Danube), Dee/Deva/Divona (Dee, Dive), Erne (Erne), Fial (Feale), Garravogue (Garravogue), Icauna (Yonne), Matrona (Marne, Madder, Moder, Maronne, Maronna), Natosuelta (Trent), Sabrina (Severn), Sequana (Seine), and S\u00ednann (Shannon). Additionally, there are folkloric figures like Peg O\u2019Nell (Ribble) and Peg Powler (Tees) who are associated with rivers. Although rivers were typically feminine forces in Celtic mythology, it is sometimes the case that a god appears as the consort of a river goddess. Less frequently, river gods are found on their own, though it is not known if their feminine counterparts have been lost. The gods of rivers (such as Danuvius in connection with Danube and Nodens in connection with Severn) as well as the folkloric figures Tavy and Davy Jones (Tavy) are typically associated with healing springs (see Borvo, Apollo Grannos, Luxovius). River sources, which are often similar to springs, frequently house a male spirit, often in the form of a fish, such as the Salmon of Wisdom (sometimes named Fintan) who lived in the spring at the source of the Boyne or the Shannon in Ireland, eating nuts from magical Hazel trees and gaining wisdom. Legends of Eels and trout residing in sacred springs can be found on the Continent, notably in Brittany. Observing such a creature either emerging from the water or gliding below the surface was considered highly fortuitous."
+}

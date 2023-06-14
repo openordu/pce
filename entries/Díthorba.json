@@ -1,0 +1,117 @@
+{
+    "name": "D\u00edthorba",
+    "entities": [
+        {
+            "entity": "D\u00edthorba",
+            "type": "Person"
+        },
+        {
+            "entity": "Macha",
+            "type": "Person"
+        },
+        {
+            "entity": "father",
+            "type": "FamilyRelation"
+        },
+        {
+            "entity": "sons",
+            "type": "FamilyRelation"
+        },
+        {
+            "entity": "Burren",
+            "type": "Location"
+        },
+        {
+            "entity": "Co. Clare",
+            "type": "Location"
+        },
+        {
+            "entity": "Hag",
+            "type": "Person"
+        },
+        {
+            "entity": "Emain Macha",
+            "type": "Location"
+        },
+        {
+            "entity": "Ulster",
+            "type": "Location"
+        },
+        {
+            "entity": "Hillfort",
+            "type": "Location"
+        }
+    ],
+    "attributes": [
+        {
+            "entity": "Macha",
+            "attribute": "niece"
+        },
+        {
+            "entity": "father",
+            "attribute": "deceased"
+        },
+        {
+            "entity": "D\u00edthorba",
+            "attribute": "opposed Macha"
+        },
+        {
+            "entity": "Macha",
+            "attribute": "took D\u00edthorba's place in the kingly cycle"
+        },
+        {
+            "entity": "Macha",
+            "attribute": "went to war for her rights"
+        },
+        {
+            "entity": "D\u00edthorba",
+            "attribute": "killed by Macha"
+        },
+        {
+            "entity": "sons",
+            "attribute": "escaped to the Burren"
+        },
+        {
+            "entity": "Macha",
+            "attribute": "hunted down D\u00edthorba's sons"
+        },
+        {
+            "entity": "Hag",
+            "attribute": "disguised as"
+        },
+        {
+            "entity": "Hag",
+            "attribute": "approached D\u00edthorba's sons"
+        },
+        {
+            "entity": "sons",
+            "attribute": "attempted to rape Hag"
+        },
+        {
+            "entity": "Hag",
+            "attribute": "overpowered D\u00edthorba's sons"
+        },
+        {
+            "entity": "sons",
+            "attribute": "tied together"
+        },
+        {
+            "entity": "Macha",
+            "attribute": "led D\u00edthorba's sons back to Emain Macha"
+        },
+        {
+            "entity": "Hillfort",
+            "attribute": "impressive"
+        },
+        {
+            "entity": "Hillfort",
+            "attribute": "still visible today"
+        }
+    ],
+    "sources": [
+        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+    ],
+    "cyphertext": "qWPDfZFy3wmaiyei44SZLlR2hPjAlWHJ6AofreWA60tb3UauzHHRuSmWhGf_YnrHbKaoUd4ztPucVfiYh_nDSqk-qIHeFNoMFjDbwPppTrprG-NPbfC_jeuUkrNTTAKjFMoeM4_rPVnwPuyCC84PJBIFssoSXCI--PgOS8MusKzxJeZAmdX3ylZ32AWGbInRuKXnYpNuPIhLQqXr1tRmr5zSmMm2iqPeAB7xYAtoBC_mZgjqbS32r3Cj21v5AsBXCOhNgNqSFdXJhMKpRkaHgXGbkBr0VAXJ3nw2JqeOddxkGY1gLogit807wZTO9uGwWmpBVxM_y-YgnenClG13q7u_p9N4Oz4YHHnxkxpryVZx4YbIJ0nffMZq1Zx-ZMBamP-fXcfyuoMiOBz7_3VG0y6VhNPmfu9PHdRBarr7BhPBQNNfTaudQFafVkykiZ9DF6WcAZt6kkGvAkm9xiqWNn_nq8CyHiqlA-hKEXllh8SP9_hrRgKo9jJVXz1b0fj0Eb-m4CALKR3INUaGHIni1V9MqH70NtFcVIbv1i-jN4kdJMwoKV8IL247WnGDyIWuvVAKVUDUW-dZjyFX8IuuTGHfphsi3L-i8aFUdKflj8D86P_c6MXNVcpEPuANkOuplNRD-abXdc9GQhdwLd2KMYlbPT3E8VcQB3kleDnSly7Y13k7eg_4zlgFze3bxAW_M6P_4xjg_G79puHD08wAOitnGX2pEJ2RS_aW074_966rDV1-FmGxci924ySl4tYBsUKnCq4yazFH2Ku09WzpTSVivhKiQX3HnM_YduHJXhIVSaWs42zSDsVXYxzDY3ZXGRdoBFyCESUou_lDOhnzTsS7MS750oImDaSC_IpSJ0ZZa3cGIumOvKJRwO2iugw0K8WxVfHiyqRLX_mvSklnGfKOOWFnmkJj0g1iL3q2bbTECibbrFNJf1MRRGIncuve6hhE99hwjE3e2ag_3Mz5TiD3rRBTY-fJl6vd37_q3c2rADVNGlMffrbzmlW2Oo4ZGEELZqbht7M0h_SyQ7gt3x2nPm9Fv8Hi04KicEIi-oXC1k_UBJV9nzHfeFPES7LCLJ80EEzZMl9fXgHh9xtoKlNzuvpgNFmb6YPVjevoyXUP7254W8ytiR317h1IHrgsvfJi07tJO0NaoVV3vhyZrsMVKbgj4XDBUUN5MCKltmokxFtC-fKSojhSDr5BEl6h7bjAc4Xk9lMwAuTkWlBAN8gL02pFahh73B57FezCHGfB9D6v3HFz_OMw88UMCY3GmZ7IKoDFC1Hpse-eOnpFMjI5eKQ_t2mSvOPRxy3d0-Z_JKimLxKH8a7tIBWAEHJTj7SlBMyeHOVDKeqNlfJj2f5mVa5QNq6YxMsav18uh5kNHU_-Tg9-ogXZv1McVYDPYGkWaXG9r_I5EI3icG9MFAeMcSYmD6_Z1pnBb6zWWg3zcDea",
+    "salt": "TTt5zg8Wv9v-Rn0f6Vzn0g==",
+    "text": "Irish hero named D\u00edthorba played a prominent role in the tale of Red-Haired Macha. D\u00edthorba was an Ulster king who supposedly shared the rulership of his kingdom with Macha\u2019s father, \u00c1ed Ruad, and Cimb\u00e1eth. The story incorporates mystical numbers, as there are three kings with seven-year reigns, and the rulership is further occupied by seven Druids, seven Bards, and seven nobles. The presence of these numbers hints at the tale's mythological nature rather than its historical accuracy. D\u00edthorba opposed Macha, his niece, when she ascended to the throne. Macha fought back and killed D\u00edthorba. His sons fled to the Burren, Co. Clare. However, Macha hunted them down and, disguised as a Hag, tricked them into attempting to rape her. When they attacked her, she overpowered them and tied them up. Macha then led them back to the Ulster capital called Emain Macha, where she forced them to dig the Hillfort that remains visible today."
+}

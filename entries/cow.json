@@ -1,0 +1,110 @@
+{
+    "name": "cow",
+    "attributes": [
+        {
+            "entity": "grass",
+            "attribute": "color: greener"
+        },
+        {
+            "entity": "grass",
+            "attribute": "taste: sweeter"
+        },
+        {
+            "entity": "farmers",
+            "attribute": "wealth: grew wealthier"
+        },
+        {
+            "entity": "cows",
+            "attribute": "origin: descendants of Otherworld cows"
+        },
+        {
+            "entity": "B\u00f3 Find",
+            "attribute": "color: white"
+        },
+        {
+            "entity": "B\u00f3 Ruadh",
+            "attribute": "color: red"
+        },
+        {
+            "entity": "B\u00f3 Duh",
+            "attribute": "color: black"
+        },
+        {
+            "entity": "women",
+            "attribute": "activity: did the milking"
+        },
+        {
+            "entity": "women",
+            "attribute": "activity: made the butter"
+        },
+        {
+            "entity": "women",
+            "attribute": "activity: tended the cows"
+        },
+        {
+            "entity": "cows",
+            "attribute": "association: with women"
+        }
+    ],
+    "entities": [
+        {
+            "entity": "grass",
+            "type": "plant"
+        },
+        {
+            "entity": "farmers",
+            "type": "occupation"
+        },
+        {
+            "entity": "scholars",
+            "type": "occupation"
+        },
+        {
+            "entity": "cow-cults",
+            "type": "religion"
+        },
+        {
+            "entity": "Indo-European lands",
+            "type": "geography"
+        },
+        {
+            "entity": "cows",
+            "type": "animal"
+        },
+        {
+            "entity": "Ireland",
+            "type": "geography"
+        },
+        {
+            "entity": "Otherworld cows",
+            "type": "mythical animal"
+        },
+        {
+            "entity": "B\u00f3 Find",
+            "type": "mythical animal"
+        },
+        {
+            "entity": "B\u00f3 Ruadh",
+            "type": "mythical animal"
+        },
+        {
+            "entity": "B\u00f3 Duh",
+            "type": "mythical animal"
+        },
+        {
+            "entity": "women",
+            "type": "gender"
+        }
+    ],
+    "sources": [
+        "oheochaidh, S\u00e9an. Fairy Legends of Donegal. Translated by M\u00e1ire MacNeill. Dublin: Comhairle Bh\u00e9aloideas \u00c9ireann, 1977.",
+        "O\u2019Sullivan, Patrick V. Irish Superstitions and Legends of Animals and Birds. Cork: Mercier, 1991, 10.",
+        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+    ],
+    "image": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Cow_%28Fleckvieh_breed%29_Oeschinensee_Slaunger_2009-07-07.jpg/1200px-Cow_%28Fleckvieh_breed%29_Oeschinensee_Slaunger_2009-07-07.jpg"
+    ],
+    "cyphertext": "jUNBEVgUu0FkxaKXEbsJBeZ-EmBUWPBGxOKoD-PZu8rnwuBYWw7g42X9z7JP7NGl8re5A2lfFi7vLhsrNDBA7KcMDuwqMY0zeQ7Uu55whZBZf3s1Tg2R1NLGckLyqV_MrZov9jACbbiDHiQa3OUJWULLCx93K9hV5h1kD_UovDIwHXrXrFBtgSrA-nvackBzfHpwGhIJb7Jfo019hPJ5JwpVdZ_g6gaqanJFkl5XwnOHnNnaQTTZshdDF_gfjsxDN_wuDxd-O4BJXkvpl01qfpNEXPqOLfWH0L0zO9P0bM3M_0ZpoRZA-WzAdF3WJLc8F3-PhJawMivZsvcL04a6QWc4xuluqFCHpfZ_Nj1HnMeTsVlp3KKyZ1E_XPw407qU910QODeSwk4eQHc9FiJWDGkYOBZjhKB-3jAfHOoS1Hc5F9wB-skx_lGrZkWBaplwdzQz6rHUraCHprxxnMd41rf9mhhjkt92EH2fj_ZaZvIjaysn3mTndpetEZUqhQUdsGamiqxKXWt7wNjC4HcWsuNbWZtwf-gZNAYumHLjf0AGMQsr9SuZyNVTvOeFFgNpn3oi3b9fq_SbDaD7zsB_OsonXdfvWWaT3MIknZ6Dz2fzEcOstefpQdyZnsWEOlf3If9KEtrv-1RdhxMyRtA-q0gqJi_eQVb300cUf6TBs0j9hqGVIEYUbcDLuPmOHbkhridHqY1LjvJ9cyEZCtNZQNdw-c-7j2KeoRc00HQ1ZL3Y3HbJEIjxcvfSsE3zg6WhcxfvgZ1sWytGBwVynPzbfMyAANX5J0ZSEVen47TJXBKGkHk3WNzPBH-_t-856v4pytwgd36yv7ogLMz0BCCpDnaaVRFdR2DG-3CrmHGixuHPaU7lc7wQyKwYUmADB-HqqwmHJyXWtyFgyJ6VZ_JAKI9L4FXwA_jDwBMAEIt9dDzdatEi7dKCg4oFODV0ItQrx4zzATHE9pk0iJWy78BuvPSquevyTyBrKgi2xk7cVE8uF2yDIJNCAEBFRhU3WkIcMVm2mm8V6tt4ReQvHPR0rqWXhEUnegI6CD9tDZFGfPbBLAggu2AXGa6A4XeGO8FaUnk7CUuPfxASXAPUoM_86YT1HSltvkUjnqfj8JTBpL2SDuAnqFS65aRKDte_xXJ_LR-JPEIzwpaQhnfV6S9OjjS9ift_shAs8QNWul1r_weKacfXHqAnad1ZYSNxn36fev0XN57fIjjTSNG6s45GS9Q6cI6sl8wK5Uh4IkdlZ0AGQJ5Ydq_NxBPE-B5zkGPzM4nvpPkXEF5DIZO1GQ3NMGoXj1mh6nVziEw3gmoI-mQgcz63YS6k_trrEGuw408ONwHJ8VN9mtcYOJ3c0AY6SzXIm_a9YPT7zBskPUxc-5BZFKou-yuieUfbTLkl_ZZuBxCMaDHf6uX2DkpxJiS78ejcrbekRpfqmAoCSojIbqCI7nu4Q-StHnJ9Ep3ITz9JeYpt7ifrIgCOdZi2TfLLRxEMOnpv4HEGdxLZ23f6HAqW_PQIePpFW8OMMnH6h-0bEnvXgqx5J0aHVAoy7XWEaC8ChsgI-7e_Vd1HF3J_TnZq-tkhe_zbu8bSaRU-N9l2Wbex_E2HzwXIxURwisvjNb4ixn5fHeLplSBjxvr1ZYE4wF5M-5_nSWQ9635FwGL8SxLR7bJd2vb7MnJFSqKu9yX9ffNHGZrkd8GpeZOril9W8rpmYhJNSYIawqa53myh04kn0PNsRNZVqMcRfdsBqr9aMubfmUwjO9fS4DvW2n_pqqjVn-jibl2ttt500ZDz8CT0a75edIu2kRIU4_7Qp8QK5Ghfjoed9IvNaLAl2uU6MGnfj1SCULCaMZjnvloUhaKzkUYGWXF61tBBzkfzC92sU3GZDJ5e-R6DKxltmSgMhx3_1NxuOr01eUJ22yVYTBueFylBKINhpA01GBXXtr6AyECl1huPB0LIwnQxq52bo3RUHDGnOYJBmTJxX22C6zbxWb2_w26Bhwrhd5nLprXcA6EuQRhgVnrHL92jBw==",
+    "salt": "CJxvyvwD6Y67cvBaxsXSfg==",
+    "text": "The cow is a powerful symbol in Celtic culture, representing both feminine and masculine powers through the bull and cow, respectively. The bull signifies warrior strength, while the cow represents abundance and prosperity. In ancient Ireland, cows were used to calculate wealth and were vital in providing milk and butter, making them valuable foodstuffs. Goddesses such as Brigit, B\u00f3and, and the M\u00f3rr\u00edgan were often associated with cows, as they were viewed as divine creatures. For instance, the Glas Ghaibhleann, a magical white cow with green spots, provided milk from her inexhaustible udder to all who wished it. As she moved about the land, the grass grew greener and sweeter while farmers grew wealthier. Scholars believe that these associations indicate a connection with cow-cults in other Indo-European lands. Legend has it that all cows in Ireland are descendants of the Otherworld cows that emerged from the western ocean at the beginning of time, including B\u00f3 Find, the white cow, and her sisters B\u00f3 Ruadh and B\u00f3 Duh, the red and black cows, respectively. Women were closely tied to cows in both legend and reality, as they were responsible for milking, making butter, and tending to the cows during summer pastures."
+}

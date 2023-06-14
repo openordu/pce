@@ -1,0 +1,56 @@
+{
+    "name": "directions",
+    "attributes": [
+        {
+            "entity": "Clocks",
+            "attribute": "rotate as they do because the sun moves in that direction around the horizon"
+        },
+        {
+            "entity": "south",
+            "attribute": "defined as the direction of the sun at noon from the Northern Hemisphere"
+        },
+        {
+            "entity": "deosil (deiseal, desiul)",
+            "attribute": "move in the direction of natural order"
+        },
+        {
+            "entity": "tuathal",
+            "attribute": "the opposite, to go against nature"
+        },
+        {
+            "entity": "widdershins",
+            "attribute": "counterclockwise, in a ritual circle brings bad luck"
+        }
+    ],
+    "entities": [
+        {
+            "entity": "Clocks",
+            "type": "object"
+        },
+        {
+            "entity": "sun",
+            "type": "object"
+        },
+        {
+            "entity": "south",
+            "type": "direction"
+        },
+        {
+            "entity": "Northern Hemisphere",
+            "type": "location"
+        },
+        {
+            "entity": "Neo-Pagans",
+            "type": "group"
+        }
+    ],
+    "sources": [
+        "Dames, Michael. Mythic Ireland. London: Thames and Hudson, 1992.",
+        "Hull, Eleanor. Folklore of the British Isles. London: Methuen & Co. Ltd., 1928. Pp. 72-80.",
+        "MacCulloch, J. A. The Religion of the Ancient Celts. London: Constable, 1911, 193, 237.",
+        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+    ],
+    "cyphertext": "zh6R0QePaHEVK-11BWdlt_9_T8Q31XXI1olYj_29zMDAlHBDvZ4MrBYFR7f3RBrGJCOTHFHpcthRwO4Fe2kCyiejUbrgzxU92EOliXlAAP86MZd1dy9mNZ_WJQMwVJjYf1Yu3FaotlU1IK_sUOY9BwOkUfm2nKI8rowMLTVrP521h_JomCp6w1sFAJFuey1mis3GB-3LvHfSJH8pB3r1sPOqyxHh7wKriJ3zHFNkMfqIjzLEIonFpf9GkNU60iwvhnL4uglAtI5JpQs31Rg85qomrmhRQUtUWJnYGjKrhHqFfR1lxq6qZt12RTgoVU3cJ15JI2Di_9EpMhckAVk9QgqNInvy5olpMCx4lOLFMyrFtC4gdvCxFg4ZFebKYX3wnd4q8RRpP_byZtdmmaVmEIrtgYgLheZoh_I1BsUq92PVu9cbLNK9WJT3tLHSiBqF42zdxb5YE7J2hO-qwAZE89bP7J1N6XlUEZtXkr2_LR9idlLLyimSqT_sCG7OEaTDWLH1hVcYrJ29uX9VUlyfhWctfP-2VFIdgcW_j81Kacvzl011KnnUP1aVw8mwTGkCDziiBXmG3xDfzw0pSvA1bOoPXuzXNuYGniW3ZtFxkxZkwyiE0zbmbCEEh2X-gItZD7ORxN3y4AoR_RsBIbl3fWTimSK_Az6wg8kpxcjiFaokS8wU7jlX5wMNT8J3VLrWOBFYYeiMI_W-4n32b1pP8w0OrG3IfzLxP0gbajkf-GI7qSt2LRtPz35Ki6te-Z7xr-JgIduZvxDCpiTZ-MyLsDciOuoHzDRDIb3YN23yZ-9Dk0x8vIHpQphwPT-2P8LuAemcbYG8CjMN3zo7HMww0bfpxbik4N7INW9k_fxXOkAKZ9xukTBCZZPL7g6OP4JLjjXaPi2NWwgjmhhMkEdd04uHWk01UROy1tygJXA2mB6dTVF4Y2pKiSjcVOKiw_qGdO9w7r22oXq4TQu_Pu0cgPeQ5na50MutexkiVUEEojOK5W1cpyRRq6k-f3_VZbugga1UGODSvP9efpld2yysZfGQH0cpD4gDmHK29BZbWP1_lj2ZCKH7V_3rg43hu0K1AM47Zs6LxV6qXLwq4FNxtKCJDytKA5D045TKoWww7pC0O0CbaVgyihk6bockvMnWIp1w-jIEBXKadyAItn8c5DFsGGlWPowddA05JfNL1VIufXFRvDz-4gwqz9JUkxVGZ4-rFjC9KS0p9iovkAlwOKEB_cE9paDhe8P9OZIETMUid-M5rTMFDNT-9Ic1e5hUbaUtHI2I1dO32abPY_wnDAaty5hNCB3mv6O3TZbfnqWYTRgTKrytWLHRItk9jsKAInBQfL9vT6QWocdiWhYqDuaUUuISAf3rD_ZkctbKeHXMfRY3BHLX73Osa_0iLvMECO7xVFcFlmV9srr-Yc5mOus_vyW9b-EELTr5Ebmt4H0GECJyTUXWM2e2WSGSp2_Pu4kgMXHU9b7dYYACX5r9k13xtdYxepyR2xCuyT16EZ9_G49e5QwdpabrH3MQiAarmgYAK1OsEcPivlYnfN-XUbe6KFQ7Y0NP3mpwMKX06MxY_1SSMoZTBsryJbr70QWdG480XyRa7yq7375prhQ42cjqEyoUFvJl9DC-wi3Dl-jWQEus2aw-MvOpctV8-d5RWKju13rPsHZkaUITAl9SjyqQ-txSAFnbu2Hikt1rX-9v9qjg90q9wKp54AzJU2PO2sBti3-zefHHLpl28bGV7HWAB1UizunnFla6iRsaMDZ0BUYPyS33VoUUy80wPXbvG8rnSTCEmZoP_HfzeF0zzU_yC2TQQ5Yv4pilu1gBrU7bF3X3AznJYfnED1lSOYuBQyH757t3Gj5gPdhLPmD9id9z3VEYulcwAdN4TmvxEJKhMrpDr-s2Mm0bphFjl6XB9gOMwaqdSCAgr7940BJjQhIdkm0NWMTPKL7sigiW_6Mi2VdZul0IXwRltb40q4P7AYGbH2JeqAcoauh2bjdEJ1EbyfzQKtTXzuXi9q_vnFk3aiD15joimkmwiFxyWLXrZmGMNJKl3c2ckL8ZNwb7TLiDLmDnfdiQjppt0SKlw_zKePR_VdpiT7TYqZDjc9LSf5ey8LeO_pwFG7ajK0jY7v6NWbkD8tahq7I5D_EfBAH5NLe8fyPBukAFyCFx9w0lXm_zdGxgZzZ3ly2PNxVtH0SB_rUwWIhdDuR62a8EZUdTBjbzDfgI2iMqOkIYMPalw9yWG0mPINvlKSJEzi3egd8eJyMZw5aqmLoeqyHLbh8uTzO5pDU-TYkTURab816ek0zd3WRQ2IhhZcEN-82cpraZVTaW2sFk4MK4o0Yo9vJMNvI-rnVRg2HcKw6ijZSiyH8kvb60CWbp0jN5FejIHZPWS6QywJ2uENXB2aT-tPCpq7K0SqzS0Gbe4yy0-PCqh8q5mKTz8VjUQ0EA7j9lc3kvPLQLg0XhmuG99VolUgPetQq67Rs_Bj2yWcdsFiZwZf5MempMhXjv5Qn_uuLVKLxpzMNBUu09QjE6JO9UOHXDSX9Q9R0U0ICSK2nXJzrz72ftoicI6RHAa6XtSeWGT5aE-o_bvEI8B2jllN7b_Ida94NfVGbQPQAww-YLhXo5RcDvejMTm8-QUJdHxeqgq8EoMYz46JX49D6MF9IMyj_2u_6ReEGsPmMaBAf1KET6axmFrJfPjhqB1v1188eNQX0kVGJ2MLKf3NImb8gInfsqjNCmV_6pRZ_6x6_NRQ3SExw2NdLToPhudF_tWgKnW3zcTTDFolquEaRNPCJ8QEQreH4hqM5ns39F6yjmwEnFjPvFvkOQLg33TMWng7_QnKNo2zAROPdhhIBGFsIPxaK-2vOptGxMeHmOQfSApM-bqnygaHlF6Y7WCU4WlPasCerAlhoqwA71V9EaXQtlfE-X_ckB3iOFR-Z2tkMejvD1wN8PSkoPkVJfZOjLqiK_RcD5Eza7ZWdxl52F9FXId2BvOMCmY3BMJe5PVAmHke5pfSs0p2vwf2DIAjLbaWhpSYHzd1q3HiajXvGV_YCypC0lb8nKgvDbExSqC0s6CPlFHkt7IRpbq_Eku4c8vO_J6DwhBnQyYrncOVLDIBuGTW7I82Wmakz-rUmJDYUnbI6fguPt9LOZTDVqiqSNTebbCHa5pv4_phQ5mE9eVxy6ZS5KzA5f8Qf3SvimQWcxeOfQr_8Z3QB-gwN6n1fi_8bT_zTDAiAj0bGk_0fqnxIyrkRJiVRkCaCXmhYM0GeSK5HAlSnNiHoVDza-jWd9NqoSui53Zx84QO8VWohrGMuJqu-LKKODkCkWutp13dAaan4Kd7z0IYae3mbGoqvebGi9Xx_WtwqdQ2ZdFd5BL_jUCkWBdcs19JkwrdX9AXnk9bF4TQO5WOAQORO4ysBND8Z_aOZjyevdy-maNkRK3-iOlBUvvPabYj8h6ooQ6UHYKZXouW8E-EXH_aTjg-A1Hg-i9KkHiB85pfeJHhnxFy25qfYfoJEnUpzrXzxDC0_C8KXHCwJz9431FD8=",
+    "salt": "E3Loolm_N8wk_7sKX5uGWg==",
+    "text": "Celtic Cosmology involves directions, including aiats, deosil, and tuathal. Unlike the four direction model, the Celts incorporated five directions: North, South, East, West, and center. The fifth direction emphasizes the subjectivity of the other directions, as they are measured from the position of the speaker. The center acts as both a directional marker and a spiritual or philosophical concept. As the speaker moves, the center moves, and all other directions are measured from the center's position. This concept of direction appears in the mythical division of Ireland into Provinces; five provinces exist - four on Earth and the fifth, the center, which is neither fixed nor limited to one place. Medieval times designated a central province called Mide or Meath; however, the original fifth province was a multi-locational one. Each of the four provinces has a center - Leinster in the east, Munster in the southwest, Connacht in the west, and Ulster in the north. Meanwhile, the island has two centers, the hills of Uisneach and Tara. The Stone of Divisions, an enormous boulder revealing a map of Ireland, stands on Uisneach and is considered the center's most central point. As such, the center is both in many places and in no place, according to Irish mythological thought. In addition to north, south, east, and west, the Celts also valued directions in relation to deosil and tuathal. While the former means to move southward in a circle, the latter means to move northward. Clockwise and anticlockwise or counterclockwise are the terms used presently to describe the two different directions. But the origin of these terms traces back to the time when people used to keep track of time with the help of the Sun, the Moon, and the stars only. The movement of the clocks imitates the movement of the Sun around the horizon in a clockwise direction, moving towards the south. The southern direction is identified as the direction of the sun at noon from the Northern Hemisphere. Moving deosil (deiseal, desiul) signifies the movement in the direction of natural order, which is clockwise. Conversely, moving tuathal stands for the opposite direction, i.e., against nature or counterclockwise. This idea of natural order still persists among contemporary Neo-Pagans, who believe that moving widdershins, or counterclockwise in a ritual circle, is believed to bring ill-fortune."
+}

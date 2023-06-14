@@ -1,0 +1,60 @@
+{
+    "name": "fire",
+    "attributes": [
+        {
+            "entity": "Need-Fire",
+            "attribute": "practiced when famine or epidemic threatened"
+        },
+        {
+            "entity": "hearth fires",
+            "attribute": "extinguished"
+        },
+        {
+            "entity": "group of men",
+            "attribute": "created a new fire by rubbing planks of wood together"
+        },
+        {
+            "entity": "flame",
+            "attribute": "burst forth"
+        },
+        {
+            "entity": "ceremony",
+            "attribute": "attended"
+        },
+        {
+            "entity": "new fire",
+            "attribute": "flame of the new fire taken to their home"
+        },
+        {
+            "entity": "original fire",
+            "attribute": "doused with water"
+        },
+        {
+            "entity": "ashes",
+            "attribute": "smeared on cattle for protection"
+        }
+    ],
+    "entities": [
+        {
+            "entity": "Scotland",
+            "type": "Location"
+        },
+        {
+            "entity": "Need-Fire",
+            "type": "Custom"
+        }
+    ],
+    "sources": [
+        "Danaher, Kevin. *The Year in Ireland.* Cork: Mercier Press, 1922, 135.",
+        "MacCulloch, J. A. The Religion of the Ancient Celts. London: Constable, 1911.",
+        "McCrickard, Janet. Eclipse of the Sun. (Glastonbury: Gothic Image, 1994), 22.",
+        "Ross, Anne. Folklore of the Scottish Highlands. London: B. T. Batsford, Ltd., 1976, 98.",
+        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+    ],
+    "image": [
+        "https://upload.wikimedia.org/wikipedia/commons/3/36/Large_bonfire.jpg"
+    ],
+    "cyphertext": "sH_zohGUorQNNqfTLXzjkkLAaNnZ8CHVm0NCxR_gpTl6ZDUvUugeL-PR4-AfrtdRVZXqaVnuDkqa_31_AFJZxOcFZOYSJNtSb7XaJ2ypCz2ePBBRivfRJ6H5oCzJhnG-O6MqS4PVlT8XfptlX2bfPsxNzrQle9dm7DjGQsEDNw6iNpbqRoRh3dQpBU6FSri_Rs_RXUyfOdQckzOLk3R_vVXESyrGp-rgNneloSfx32FO71Ce1HMHjQuZ2oNDMMREt32zSobH2v1AEWps6Gj4WO8Ex-6ploOSiNEPE5KjTIfKqW0sBl5pk6Rke7BZU_wXL3iEiP_T6xakr2Vi4050llGcKB_sT-3gueN9Wmawnn3Eqi3jJ5NRJn3qXA4ZFisdyOdCBuGBd0knz2kIrJ0gkKMgKlsdyWP1YRwOiQQzZe_MZcfbbIzDJL3a2ybboJWAS8YpcNxTxdJc1GC9keUIKCa1epEeCp51EKka0xXHKax6WVzjw10e6wp8wNaSTPRtEbg_0jAAWB_Wc4zvWha_wDQ2lJ6l582Ipb3aL7ixGWn7mFVA8bv3qwPXS36ks7Ze7QbMPbQ69ku0TECkA_6y8cqgF6VvYXV211NWhXP2oGJEzCAuXLKkRQt-6br46z5YEXrcxfssCi5GEc_Qrwn5jk2ijmSpCjYorG3HpCnno-AIz0TQcBAFyj9gYpIdV3rnr9zDs7wf5ALD-KRxasGHwTopQLM1aJao0rvOv7LNx_W5-OtwDFt9-3Y17REGMu8D6xooG_TbVeC0kPiMkaW5ZPV4P1udEku_5tABkoeunBBElGgc7WSGObHaq1meJy2TARCHAgJupNAAu_Lu3NMN8vIWmfTSzLMeEonntEDizcW9uKnn6FW6AilyC94Crx5rc9VvAJ4mdqCGU1kYU16yoMX258BjxUFTvghhYuOnZDvWqQhvjv_m9CAwQzdegSi2eNDPgUenSaOIXHOMiWq_XiIklocmm6j_1NozwUphK2ZPZNU7lRsoGw_PYIYB_Pa82MkgFiVVsOuEwBafOzR2LmUk1vwRcU9-X7bS6tbphf3KJwdU4npSB8_34q01d1PqP_8g7tW9iRxHHuKs3CyUyIfssk_K3mrhXiYGOzzPywPVcviebZ8Ke9Tf6UawB8QlFe0-MjqPQnzRQrDB80mcImKFK8f2SP3ot3zO2DZj6sy3XU5WOU0jc2laT7sWrQwUCq_IeVVb6TMoESqOXaTJiXK3RTofL6oVkJQAbGvZH31HcfRcTQNn73UerrwfmyW_z4R2L-S5UQ7Vs_IoqB_CYFHxJsQP85Gs0iGsyL9fy8HA16Ba-Zs1X1DMHkuH2tQz3SQlGzlZEM3V7UT3aXi4Rb-8Wi4tFcZGbwa7Lej_qCY_yxrMShtcVGKKBUgsV_rz9OCojVupXsskrkYgiKsgI2uirI8z0_4dS71NHPte59w8oVvGCsKCMIg1Zn1_9nTElV45XXe1GzNQGnTFRJvT5gG9xgaXPktybzYhJhFpzIyVv46ak_lqXWOdBgci3f3yHuop0jF8_vyqwxbN4cwNhYU7GiS2SwZWB0puN886_vrJsRTvg1ZCc4y9KmghHIYAaWDFzFBuhJP6cYMjdw3d9U8sCofdOkZgg4wiqDwSdo-axdbLzqfYQ0Wj3zwJGZoHMCA9Qsbf6EEM9jOWJpCzhgI8oC2YHVBmG1NwSA7s8lGZxaTvrs5GQggOFc0--fcW1Ie55jvXz-j2Cb5SOT_GcCWqo-PyPVPkEoXgzPsap3reuN07fEoV6ERo65GDB849eWscXAD3PccPi9xWsVUls7Uc8Y_rI8Prq2qHimYmQRgYJiaQ6hDP8Awy7__MeigK1CkmOfi5aiYRqpaLO5TC3_iR3XiblCHOeiCD9bJMmxR7-O-cOfRRO_KutuWNmKKIB2pgHCNYxZB8McjCaejlZcYO_xWq3YjfHhUelHkJpgoZjzC9i1UMw-StYSeabbwer9bZrptrUrF5QF8h8-y9lx8YqDPym-OvFV7ZDY1cXzQGV4vF63J6Q_2VO2EEEyzWh2nNzfmrP7Iv0L0SmfGzB1dCSeoDWRuOEXfdhbITzPCapysbqWT3a54E7gA6tDfio6e84RuJq-UNAHmGklbLcegC6uiXkK3_pn3jB-qYQVfChXhbyv9lL3mBUVtKP8yJuUJYz8sKEwSQ3ZYxzGK7q8CRi4olFM-3iE3Yqb40NPRE5qqnCApMK2JpqCN5jCq_AW-L7ODH0xBt95vlnQOH3MrRoL0-71LPJ4WaMRgdJIj1NI-BaRuRKDgVn5oe5Lt3ZEOc9JS-iMWis7QQW5bTzblHXEtf6EybK-t1R4FFNR-iO2VFxte1SmS_rJUo4ANCNWAWM-g7iG_3DiY3P-DCyMbSx__DaKwqTRJ7TaBNnK8cI9tBb8c59rZusaE5lkUqvYbHow1j_yV7gq-9o1BgCDJKIMWo1AZ8toVzO56NqOF4xTUhMfx8vi9Ar-7Yfa1NL-oVjIXIaLazjBo723fLLg6gQwevqJllsR5esjCZZ1eYU0PctTokwBscD63Y-Tmfl0AHZRt2aQSmCUK325PXIOkFARXXRJ8T_ycNWZVZtZ6pCXI_5LXT_ZfCiMo4YD-Y4_qxUuE4dqzLp4jPj2lZvxXo0dlhCCgzaYN3nmwCofSxDNkAxgGJ5PnUgqPaIUtfjdIPZ2sKqD8ZDDIigdCZPJhh7hgcOb4osSvdIOrw98s8kXmfbHzjwiqj5jCoMpjTlZ8sZePu9AKpoW_zswP-fa7QjNxriAjMFGoImr8acGRmrP9gsFUqBp1tImnkF9Zu1BBguJduYMd_iKvAGToAa4-TDLFiNqotUVUD4lseekSl7wiInKvGRkAik1Rbxaix7x9UqzCK2cNTpjLXigy2MFhFgg3kl8xOnT_vYSGrEHPuownKUHeH5G3d1r2DdWxFqmi-sH52N-C8RmrMibavzvkCjYp1-rRzS5__AOmhw6YJTBHPzx5w0Ci9orO51PBDKHsUyW2KfXtrsnLWzYZWisRzFk-jQToSZR5aEAR2TOCjTyGoC5a6qym8MCTldvWAEj7-PSYmyAMR2VMMcaDRJiL0BqoClIDuFUIfQF3HYDVE3V0366uN6qeHWK7M5KLkSWQon5Cb_gb_19M69lKSSddgnoqDAw56mjtUConx2ZJ53MYc9BL6kdYfDtppr_du73T9U4xCq-RxWc_9pVWQurS-cbZcBmqDsV4fioiAVa1ZJLWkuQR2IeKcMyWJf8Fk69jpdT-5DQyAikkBMEFGn_tpjBqxi_nceeio9DyjxBPd-yP7Njwdu3JtmFCGM1c4el27vIvZHkY_g19g5lYYzUsCZ63pOfllyrX40vsaPmI8QTc-d59JeheVszJXs1GFuKgKfxJTZVyUjcKOaCe3kvXdsE3pitS0JslUHWlOr9Ve9zE9P8oWtfqozyMAZ0jHwJcsHI--qbjKmfwPNUKWoQMUT4crpbwQ6a9fQuRXMn8OU1S2r-C5BlK5_j0zGzAerpYsrtUe0yUnEVlUv7s99K2fArVpvsOWNC5Cdvx9xvG-_LotwuvHFVnjW3G1bD2CgTTt6aWgjG6AN3Dtdoqe3GzSDSqd2K_WJzqLIkOyfOKwcbDc6B4euxjGmiODFK1p1M7Y931CCMkoAp2Op_IkFAE7Q8pubRWAP9UgiTKebMXc9uILkld8vael1159UljjuD-iNodWx4F60iCXsiKGIb76jZsNJ5MWp4XzFjY8eJE0x4djaM7nvkrYp1n26bFCrYg82ooFobLntnuj-G7Y_QSgscvWW9KrNZMwrduzjd4Wj1Hmm5w_IAp3CsV-KpHD9viZMf36SUUR67gh_0WZjXoBxefF9tHwLJjJa0W7hFySkzgrbhdevbD0PV7aQXwibaeyF6FdLK9jRd6drBzV6-NANWhwqbN8RYVfQiGguoAdeP89MI-T3t70XiJAF-kkPH3cB4qdv-vfIQUO6EUATuzMo7GSix9r7fkl6AhoWPwp416j8DiUwmz6XgcWfpy7WXNH0g2WltF3I5n3ktIhBkMR_pkB9iVUEOhQIdWBoiPBpS06phLi8GwvOoDo9Ub6K_LcaH8kGxE0ko9FRd_kA-Lg1qJL7wd9tUevUnD3v4Cj_Hffi_bM9Kqy9F5Fd2KVUmZVD1PffKpG1SHsEBABAJHAJ1ZwHkyPZrzKt6nX9Pn5VEJ6m7zE6SDPV5LJg-9TYP73j1fSDMLjoecCmFSB9ZKWG5PIlVq9ebOZ3uwLwXwigL6Q-gZ-yqHhbYk5VzGd4gWHQDnjM3zQSuVA16NMFkP7rVtwX5knAxFuhwPisab0Df5-cpjgTjzNzpjnmAM7mALzj8yq6r6cjC7HfwLIjvIWallmP9DDlAwVfeKDRPXUXXY4mT7EyXZIjiy0f8CLc6WpguzDQMxCLJF7ilF_trkFuC1hU4YuONW6epgm3g6kCj_qdpWuZvr8MbQ24JVpQ4hHhuqjhivVrHZrEaPGNv1EUNoPInYNyzYv_C5blgtkQYGXZzlm5_n1DY8LH-V_Cy60WhVlhgfn5V4Q-dVcKTKnpk9CL92HcsKcXQM3XKKBwvPchLVoycVyTM9pZrpjkufLCSVQ_2oq8X2tqebf8o64G0V1w2od0GFJ2Rigi9JJUKALiR0gRwoZzUp708sIBhQyquLgcF1U3EnpfgLh4s9D_U5DWneWcBY4vjfcMIimtmS9QJUeAp1X3nRHZ6rywfTLHm00EagFB-pU69n_6SQpbipZZ_OF51jGHtGTevLFgTV3qPRr_IwuJqWIZHKzSAykTsrzgKkTHE_Q-sguN4wgsCSSlVcNXpi86qa0Yevz7hV0FzCb7hB1r45pdKvQaOvt8epo9w5amAH7zU0iSzd4fuu-MFfMV3RiYSEVXeRdJmCsdFJWMxqTsWzby3jO0qNpSFLiHllniYBNwrldd1c-JJGkLz8ZkpmTjRiZYsRGopyq_jdtfk9oLt2U44sSnqWwEhrK27N0SMv1xyR-M9vbgxwO-rkCSFiVBpBA0RIvQiOLLu5MuH5gZPXEaH-4v_OkKMXwQiDfYGUgM3KiZEqzo6OMTfJH_TEm359MB_gP49hJqr4477UXUtJoDctXQaaf-UeW4AHUG769tD47virAbH-Vl7y2so52VpozmI4_PmwDyuRGlE0tVgLygq7_C8CnUvrRGALfsabcaLsMcJs8KUqDcbcGa_mRHzUVBEwlXVBnhT0gotAZvZDIkjAuC6IRi3pgDhQ7GnMoAsgMC4f6wuVRJiE3buKSRzxG4bNB_fwQiDl3kQNIiadSADhfeLBSQxvH90nmCnX4ZPMGQhej9_15ax-RI0dnOmwD-n7Si7n7s_ySrCQehDcYzucsPl9TvPi3TbAGYdqZoCLMLtJjiB-dfAzDz3dl0q-80944-thgAQ==",
+    "salt": "JTTLK9S-C1Mx2WVLAhlXIw==",
+    "text": "Fire is a symbolic element that is distinct from other major elements as it is not constant. Unlike water, which is present in various forms like rain, rivers, and oceans, and earth, which surrounds us, fire is only found in two ways. It exists within the domestic hearth and in the flames of wildfires, which are commonly caused by lightning. Additionally, fire can be perceived as present in the Sun, often depicted as a ball of flame. The Celts documented a connection between the earthly and solar fires. Celtic mythology includes fire deities that are commonly male for wildfire divinities and female for hearth fire divinities. Continental Celtic thunder god, Taranis, was connected with lightning and the fires that often followed it. Similarly, Lugh appears to have served the same function in insular mythology. The Celts shared the belief of honoring the hearth fire with their Indo-European kin from numerous areas, including Lithuania and India. They followed the ritual of serving the Roman Vesta cult, which was run by a college of priestesses. The Irish goddess Brigit was served by a similar college, and interlocutors argue that the Christian sisterhood of Kildare perpetuated the Celtic tradition. The tradition included tending to an ashless, ever-burning fire, which was taken up by one sister each night for 19 nights, and the 20th day was left for Brigit herself. The flame burnt for over 10 centuries until it was blown out by a Protestant bishop. The Brigidine order, which was established by St. Brigid, relit the holy flame in 1994. With an abundance of female hearthfire divinities and the connection between fire and the sun, one might assume that the sun would be perceived as a goddess. However, the long-standing belief that all cultures considered the sun a masculine force has hindered investigation into this possibility until recently. In recent decades, mounting evidence suggests that sun goddesses were more prevalent than previously thought. Many scholars now argue that the Celts viewed the sun as a nurturing, feminine force, much like the hearth goddess. Others suggest a dual rulership over the sun by both god and goddess. In Ireland, fire was linked with numerous festivals, such as Midsummer. This celebration may have originated from pre-Celtic times or been displaced from Lughnasa, the Celtic summer festival. St. John\u2019s Eve, held on June 23rd, just two days after the summer Solstice, was known as Bonfire Night in many parts of Ireland. Circular fires were lit near holy wells and other sacred sites, and dances were held throughout the night. Failing to light the fires may have resulted in fish not entering the rivers or crops not growing. In Co. Limerick, there was a tradition of striking dancers with a recently cut reed to protect them from illness. The reeds were then thrown into the fire to burn away any potential contagion. The bravest dancers would jump over the fire, and its ashes were used in blessings for crops, livestock, and homes. Fire held a dual significance in Scotland - it was seen as having the power to protect and purify. To safeguard a house and its inhabitants from harm, fire was carried around it in a sunwise direction. The Need-Fire, an ancient practice that persisted in Scotland till fairly recently, was invoked as a means of dealing with famine or epidemic. To ensure success, all hearth fires within a region were first extinguished, after which a group of men would rub planks of wood together until a flame emerged. Those present at the ceremony could then carry a flame from the newly created fire back to their homes. Meanwhile, the original fire would be extinguished with water and its ashes applied on the cattle for protection."
+}

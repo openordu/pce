@@ -1,0 +1,49 @@
+{
+    "name": "banshee",
+    "entities": [
+        {
+            "entity": "families",
+            "type": "group"
+        },
+        {
+            "entity": "banshees",
+            "type": "creature"
+        },
+        {
+            "entity": "New World",
+            "type": "place"
+        },
+        {
+            "entity": "O'Gradys",
+            "type": "family"
+        },
+        {
+            "entity": "Canada",
+            "type": "place"
+        }
+    ],
+    "attributes": [
+        {
+            "entity": "banshee",
+            "attribute": "found occasionally in the New World"
+        },
+        {
+            "entity": "O'Gradys",
+            "attribute": "traveled to Canada"
+        }
+    ],
+    "sources": [
+        "Croker, T. Crofton. Fairy Legends and Traditions of the South of Ireland. London: William Tegg, 1862, 110.",
+        "Delaney, Mary Murray. *Of Irish Ways.* (New York: Harper & Row, 1973), 170.",
+        "MacDougall, James. Folk Tales and Fairy Lore in Gaelic and English. Edinburgh: John Grant, 1910. Pp. 175-179.",
+        "Westropp, T. J. Folklore of Clare: A Folklore Survey of County Clare and County Clare FolkTales and Myths. Ennis, Co. Clare: Clasp Press, 2000, pp. 6\u201310.",
+        "Wilde, Lady. Ancient Legends, Mystic Charms and Superstitions of Ireland. London: Chatto and Windus, 1902, 136.",
+        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+    ],
+    "image": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Banshee.jpg/1200px-Banshee.jpg"
+    ],
+    "cyphertext": "3K4Mo154srVqwSxkQAzS1TqtDoZsczFGeTgK_hoLGxzqfBmu0uurVoLrJ3A667R-lXfrnTzw4eWqa8fRLQiBqdeNYxfCeUeuncYtmzfVH7BXAkj-FRBzqNu5Lsz0osClH4qTNlJZLeaoYImtARpG1y6YOh_9yEBvoPqMmmwOO2eBBWHej9EPkhHYMHmnKkAivMZMssEo_-F2LltxQfCSHNA2DP4dA3o4OUC_ePskSX_BsqKMSemWvPrsxi9Sj0MWvswZkL6DrAKjz_zd1tZ3zA3lc48j4r6dcWAL2GNXoEzmT76WXxE2FVpi6W5fZrui0BR6lORYersPhS9mkNJQ2kQG5f80OVHBhKFAZOdvoevDeaiSExsJUVnJiYdI-i3Y7wE97j7tlS7cpZ7QvRSrj1BwS9kZRwrZEvRwtaWI-ZnKawAkl5Sg1GG9WTIA_ehPg2o-VSJ6rsSAqRukhrnzPmJlWwLhdg8ifLWJZaf9LfjmOuLVfWXMhX5jwmFHmKGjNk1RWEpyugugqqc98dAISTsUWS72ZdHE1vrxNgQYY6bRwULb49cHWJKe5rxI3VCVu-NDkgRffZ9CV8RZLL9iTUKQ1acpfEWIJpW6MEPZL_d3jD2DIIhPPVsy2fGC1-UWxrduYxjoIaGrsQKIs-xW-sehgSUeb3I_iV2h8gDGWvj_ytPuAdpJnZyyYRfi-Zcuqjez9a4Wqyb9wzG7oMHvveQjHB0MA-lVbdNIVDPqQu8xjEgYRH9ZjIDrbPhuCGHRxGYd7ZYvt5Hw-L_gH_bmmYMA7cnbUG5x6Qw8TIBfF9eczC1w-Hrjs-LgWa_yOH7N0Y-ynDu92O7EXZ3FaiRvL1bV3K2vz2jz1Q0H3kyq_gfuese3T8dGOudyDEAybInnfn_m5MktVSDGh0x7H7vA8xH01NaWbM2CSSc6cDTcg1sQYl5dCCCZu4TBm0-zMpxk0LcNcwOMyL0V-ANeoYXrm8hVS1lKtVacCEnxqYxuFwN1uS0KCxaMh8cSyEiX0KVNk6sl2uvgjmgslgjxglrNOdilFpf1zo-y_piRW1YdcOjLAz8DROlSWvejbCq8zeHryzowtC99_pXlIPWtJdahm1jf1ENY19A5HM2JVxQtw_4qnRj6yTxBqXlCwwZ1HMMYkamG9ZFSh6QLNEhTyPbIJ6PpJtCBV4CaSBYRjREQMZEp2o6yjMwAetVek_3vPk20LKo5-0CaVbXKMgAZZ50o1eTbCyypdXrrjrRCBs-vkocErI0TBDWOPhQOveLARYtb2aNmOfC1a2CTir9CZ9YSr-60ogGA8fGouhMYeNclY-dzyIGkV0T1qav2Hv7z3hRFXiR83C67pYnlL_1e1lim0W6Ysfov3TKPcKi5buNLu1C_Ccka6AuIo2YHl94Hr3RMrn4TDg8C4MXZZZ1BLdlULtcdFGd_SiGMv8k3400BN0Pcnrq6muFDKMD49q4KAsRuMk6Nud6dksCp1sNwxKp5E06p1Ot31XfSW2PwFoFE_Z7BRsZOQzXNbcDtqI3iFxavQpxY2HI_vzZ8EHPRkz-GH4BOaKnkdYJoI-kGGRUJYQ06u6OmRW3qVddeeDh_uqQntT-UFAvdkza32O8Dy_PYzYDiUI6Ipzxpoz2EYSXy7a0khTUzm9bK1ZTH8kFn-bw7FHr3wQvLZNG2YK2rohpuxaxgyXQR8T5acs_0FI0V6EtZwb16z69ph_AhF2j_DRgmLUhMUFdK6dOOgrLFal48GA-3CSMugpTI_jiPUx0iKWHnnPm_v6xLbNThbKmFyOItQxJnbR3AFLuhSGMEG8lfSmOUWRDlbCRw5rq5ldbh3MkVm2GnxK9CkudkbksIuzxE1KG66XmgHslXA8M8dKDIFMWGIKfy3l1d1MrHzSlWyvb9GTMvGm5rGjL1AfW1HhCnizSKqfiJ16CqBMvxDGBY1-f3ph1R-Xxdyld8iuvcWu_Owekyh9sAaYrYzy90tzkYL6hEh4E8LgXbq7iM3D9g6v2IsGFgu4aN1jNAMurShLVTFuhcLyTdkfMh5ecn6O2JSO6EgO98IPlYgIKzS0oNwxcl3dXQipQ_zL3JaiWe8Xy60k_40dU9vEczzQFVD3lSrNrPvM-N39sANRUXIlokODtrkgQ11uf3QlsCrqgRWefMr38-a87wxog8L5tvzj0CH8b3wVJ2vSONBeQUSAF1Nl75b-Yto3hi52szXmVkQTQCeTHqg5boCIWKYvxHCM0baOiBtSzJl_JlCOLV7dyjlDtI_DiPeCHL8fz3jDHjTBUOdy94ZJnrtQ56-uGM4aLRuGNTE0vmGWiLolmCVvcEbV_Hs9LpUCo3Gx0SDBABwEyuz6zD0uGdMjKyIXaKk1gyRkhv_Iz5pDk9pS4zxEQHPJ6zr0RzJoxCQZfCVz04H-oGtZ4hxM3nGLXCcQNoTWX4D4JfPcwI97pnqWP-UTcT9JpufTJ-ShuMVQLfxX9d3pAdjJrf6vZU3ReDGgl9breTG1MPLPlC_TAqstEqe1MWlsr0HdD4QiXK60Uc5Vb_pbEkFtHY0_X5ElaP-aOsu7VfxESJ2CgkKwejq0aaO8fCNib6kj7FzSVEdUv_kcJN9N7iMuf4_nHGKQqoSfTjl-ffYeTZcKIsU7uLwCJT8l6yTgCbPCuEqe2e-_c8ZipJpoVm9hjjCyXv3xPN4Ul7j44s299k5tl3-vrliUyvME-mX-44q1ajoic_umuJ6apVJg1VYAhQ6Lxwtid_Ql04FwJlJa3MeTsowsvSYvIUKkWlg1SICVl-fhY7pSVt6b_nvPfZY0OBnSJfHhty18yLJkqiUIy6GDTjVXkXjVRCL8icJMNB4Ag7obFYBOL4WWvcsJ9xQ1KTFCCsXUmx9sFpolpNCJjI5hTqbZGTKItwrJ9-ohWzvQD7Rgn_A6CRzlyxoswxWxGpOP20pQNhF8FZcXjagK2qmdgmTH92YRqYdmv_oyzGwDVlqLWfY1nGgU3Hswr0S2aShJnv4ECNOTBFZ3A0Y1k8NkVITGVMFohdwTm4D1YIDqWmnhNt_LWkBHchQLquJwPd_fdq_RCkwx6qqjBw7IXDw-G89guauKcyKHlwvwkuXc9EGnYNxOpS8zoxZLUHpWAaJuV3DgG8W_zL6cMw-B4WPxxZuRJR5DZM41k7s_g-t1D4G-kbdqUhqr33_Y82rn61Xa_NuswqdSY-gHvNhzFR2Q09pOyhobPh5qW9VnfjNimCYafqyBidq7mvxSbx2nkCI1XQq2L_-lSIRL8sJQvVxXz1T03mnUTem5OSHD_TroA0dN184hgB5zS6x9OuEqqcnFGn7DEKoRLL62coTm_mKLUdRFSMhj0pk-4jMgDPC6j6nqUGOEMnrWqstgNtzQmLB1uMFWVKFk3Ibt_U-Smfon3AEeh1lyRx35EmgRWby2ECIu5ceDDxYiikNMRba9pvmBaHcZwZ9qg0fg4ejQmGqt8=",
+    "salt": "Xv6-i54njhtqWSSeMi-8Tw==",
+    "text": "The Celtic mythological being known as banshee, bean s\u00eddhe, ben s\u00edd, bean s\u00ed, ben s\u00edde in Scotland, ban-s\u00ecth, bean-sh\u00ecth, and bean s\u00ecth on the Isle of Man is said to have had a broader interpretation in the past. Bean-sidhe referred to any otherworldly woman, often associated with land or of Sovereignty, considered as an early goddess. As the times changed when conquerors arrived, the worshipers of the banshee's domain diminished, and the banshee herself was limited to becoming a spirit who foretold imminent death. This was considered a result of the English's seizure of Irish lands during the 16th and 17th centuries. Although similar to the Washer at the Ford, who foretold death in battle by washing the clothes of the soon-to-be-deceased, the Banshee announces death due to causes other than war. In the beginning, the Banshee was not a literary figure but a part of folklore. She was only introduced in written documents in the 17th century, becoming a commonplace character after that. The Banshee's appearance varies, as she can assume the form of an old Hag or a beautiful young woman. In folklore, it is not uncommon for the two forms to be interchangeable (See Cailleach). Her red hair or white or green's clothing often signifies her fairy blood. At times, she is said to wear bright red shoes, and she combs her hair with a golden comb while wailing in anticipation of grief, particularly at noon. Certain Irish families claim to have banshees who indicate the death of their family members. These are mostly among the ancient families of a particular region, with names starting with \u00d3 or Mac. A possible rephrased text could be:\n\nA possible explanation for this connection may lie in the continuation of ancient Celtic customs, as the banshee has been associated with Celtic deities like \u00c1ine. Some of these families' banshees have been encountered in the Americas, where they have followed their migrating charges, as happened with the banshee of the O'Gradys, who journeyed to Canada to fulfill her role as a mourner."
+}

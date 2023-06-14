@@ -1,0 +1,68 @@
+{
+    "name": "beating the bounds",
+    "entities": [
+        {
+            "entity": "England",
+            "type": "Country"
+        },
+        {
+            "entity": "parishes",
+            "type": "Organization"
+        },
+        {
+            "entity": "priest",
+            "type": "Person"
+        },
+        {
+            "entity": "minister",
+            "type": "Person"
+        },
+        {
+            "entity": "Standing Stones",
+            "type": "Landmark"
+        },
+        {
+            "entity": "children",
+            "type": "Person"
+        },
+        {
+            "entity": "sacred springs",
+            "type": "Landmark"
+        },
+        {
+            "entity": "ponds",
+            "type": "Landmark"
+        }
+    ],
+    "attributes": [
+        {
+            "entity": "children",
+            "attribute": "pushed against the boulders"
+        },
+        {
+            "entity": "children",
+            "attribute": "ducked in sacred springs or ponds along the route"
+        },
+        {
+            "entity": "parishes",
+            "attribute": "walking the boundaries on certain holidays"
+        },
+        {
+            "entity": "procession",
+            "attribute": "led by a priest or minister"
+        },
+        {
+            "entity": "tradition",
+            "attribute": "walking the boundaries of parishes"
+        }
+    ],
+    "sources": [
+        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+    ],
+    "image": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Beating_the_Bounds_Oriel_Oxford.jpg/1200px-Beating_the_Bounds_Oriel_Oxford.jpg"
+    ],
+    "cyphertext": "d5t8t4Jf4abknEhDZ4Pwt8hcQ4bn5_idueQhWD5HoZSsFpFoz63G04Vrz3lYJxsOuF68aTpJjW0sMLrqJTmMjPVaOlxnryvAAwTeu1UiXnIMkvvLfrpPbKA8qbT4GhAGNwjEXA-W-SHasGI9gg3F0VfwlRzgmhMeMlRz6PlPYZn-4UrtF2Zs8NFNVYW68zDdpp6JsI2Tie5s0TUksCQrNOgMcuHGvxEUsbBliux3AFjf8OVXvz5f4EbGstmYGuNI9Ra4Ld66LlOS5NE_cstAOYCX5oIj9KfCPrsG-xTKs0T-TZoj9dqIMI-SC-iQSIZRa9CsT2FjD7ylG9udigZoEmR-GnAi2UISHsUn-BwbQZU79PNd-Ylllz2CZBEHORuftxQlgV2YSBc-Hu9obCPszBUc5FmmSwAYRlQ0OoRnkpiMTQBubXfjfHP4Thl9C6fL99mnme2ZZhXMpEPLr7rvZ1W6-r3WrrKZyYbQS4bY3DhuCps523wKRFY_jo7iGHQyAoITAz_J-GODGUj-b3WF1LXtVhba2RmiB71rLZHx70--KBhQ-ekTjUNA9vaHEjwKoHerml-qJ0wKIIlsDkJQ5oHMWnPJZ-ouaeh1s67FehQ_zZ3lee9mOLuCnlOsilxfOVr7D0LM",
+    "salt": "_6E486qZB2m8_VQ9bqwceA==",
+    "text": "British folklore describes a rural tradition of walking the boundaries of parishes on certain holidays, known as beating the bounds. This ritual, which persisted until recent times, was headed by a priest or minister, though its origins are thought to be pre-Christian. The procession included passing by ancient Standing Stones where children were pushed against the boulders, as well as dunking children in sacred springs or ponds along the route."
+}

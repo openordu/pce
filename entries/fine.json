@@ -1,0 +1,62 @@
+{
+    "name": "fine",
+    "attributes": [
+        {
+            "entity": "honor price",
+            "attribute": "usually paid in Cows"
+        },
+        {
+            "entity": "heads of kin groups",
+            "attribute": "chosen by election"
+        },
+        {
+            "entity": "heads of kin groups",
+            "attribute": "negotiated for the group"
+        },
+        {
+            "entity": "heads of kin groups",
+            "attribute": "represented them in public gatherings"
+        }
+    ],
+    "entities": [
+        {
+            "entity": "member",
+            "type": "person"
+        },
+        {
+            "entity": "fine",
+            "type": "punishment"
+        },
+        {
+            "entity": "group",
+            "type": "collection of people"
+        },
+        {
+            "entity": "honor price",
+            "type": "monetary compensation"
+        },
+        {
+            "entity": "Cows",
+            "type": "animal"
+        },
+        {
+            "entity": "heads of kin groups",
+            "type": "leaders"
+        },
+        {
+            "entity": "election",
+            "type": "voting process"
+        },
+        {
+            "entity": "public gatherings",
+            "type": "meetings"
+        }
+    ],
+    "sources": [
+        "Kelly, Fergus. A Guide to Early Irish Law. (Dublin: School of Celtic Studies, Dublin Institute for Advanced Studies, 1988), 12-13.",
+        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+    ],
+    "cyphertext": "qmSS-A7i6LMrH1uR_spJrwpFJyota2UhXRBqUg3CbIkN9Iq9jdZ-DkqF6492hIjtbqAt9SSdDdAe_njfKYBJG9g48JNS9GXyD4F_1A6ea7Kd68jlasoIsQyFYh4XdMwUNvjmqnGBP00xm8H3PAKZVgpdugpYwq1wFC6Y1sY08diSM7Opo9obHqvJnRuTKDvsrOIMIIqPdpRpV1BT0eoNtADMrHZgoRCEnbmZIEneYRfeVHRp2MX32YBA2mwp4WJwXd5wu2QJJ8YRcAgDujgXneZo983DAQRpg33hU1es4Z9eZ9wYpKUG34fRcS64eP3l6xABTFVj72rxo_QFDcw9k_IxCcA0OmIeMJXD8f181s10pgtsXtH4JoKgD90H9b-M-m474OzI5U5Pj2tI5WyIzo_XKfFUqom9ACvM4cYn7YX-7Zsk1syGBrcZXrtC5CcizTsBPW83I19Jv10tlAlIQPP47WwmP7xzspGmx5abf1lcN_0ZYHtxbNOJsTTvUAmQkZ2zclTwFpcYSGMu7sMp42phk3RRLQGt-YuW6U-ca8J8KZ1TxTLmqZYBizCUGf7mnQRDbUxslArNL47NtYp_22ROS8BtBEysuv9e4N_4VM47XJGDSEmZGIYiQV2bNHq0x4VJLd55zP4fxOL9fHDYHvzHvnAnWGIXKwmXXZ_NsIwxHq2TW0Z1Oi8dtn-Ag5eqV_QhUk7nT_JrQRjppVktILeBigd-NkogM2x1RpqzuOjd6oQHKsSQkyIaZVhusCxAERvBXdv-qhlPHl5aApW78wgB_svo4Xt2-LOeQrY8TgcVeipdL7ugHnF1CNMuecMzs7SyFhA7XMQ3IGnB0l8FazdhM5b5MvSJlXEURAXtwcsP-aK_YABLXbL2V-0i_CB5ZqaBhvSqjt2FQlqeAT4CMSv0OFtBVExgbLcJwhU05oNpZFeP6KxAfivrgheKgs9kTsMDaemRyC_deP8VDHjwvHEGNfOI6VkwuiAvkiGlQvq5_Tr5Bps3lWZto-cV_ufjwQ0Wx96wP8hGhz7AF28mCslMLBvIATiwEzs2ZcOnMDXOBjBavzITmypJjT1TkIBxE_sRjWo7m4u0R1W761OkLKL8X4Tp6O9UjBDav4J9CCxd1Rh5gedaHNF8BxLu5khXZAcKxVHIpFrXB37m8pujbQHP6lFhikw-4NO0g4SsnBHTeQENhJZEqYhoek6plGCT9Qoo_7LM2f0rLt1YohPKROip-7m-_DkS_FfSt8YwcUtc68F3ngFcrUGdn2YOuy6abu3ujfpG6wv_pf7bq4we8wxZcsxtQxQIZKlbkKu67t8vq1cKCmfTNWCS3hF4cbdL",
+    "salt": "qCil1C31UfggOzGHDLun5w==",
+    "text": "The ancient Irish society had a significant social organization known as the fine or the \"kin group\". The fine consisted of individuals originating from the same great-grandfather, referred to as the derbfine or the \"true kin\". This group possessed land that could not be sold by any member of the fine without the consent of others. Those who were less related belonged to the same fine. The individual was accountable to the whole kin group for his actions since the entire fine was held responsible for any injury or killing of a member of another kin group, and any \u00c9ric or honor price in this regard was demanded from the entire group. Conversely, whenever a member of the fine was injured or killed, the entire group bore the honor price which was typically paid in Cows. Electoral heads of kin groups negotiated for the fine and represented them in public assemblies."
+}

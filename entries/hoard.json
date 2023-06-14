@@ -1,0 +1,84 @@
+{
+    "name": "hoard",
+    "attributes": [
+        {
+            "entity": "Celtic hoards",
+            "attribute": "include gold Torcs"
+        },
+        {
+            "entity": "Celtic hoards",
+            "attribute": "embellished Cauldrons"
+        },
+        {
+            "entity": "Celtic hoards",
+            "attribute": "lunae or moon-collars"
+        },
+        {
+            "entity": "treasures",
+            "attribute": "deposited in the bogs to protect them against theft by invaders"
+        },
+        {
+            "entity": "treasures",
+            "attribute": "perhaps Vikings"
+        },
+        {
+            "entity": "Hoards",
+            "attribute": "intended as Sacrifice"
+        },
+        {
+            "entity": "Hoards",
+            "attribute": "perhaps in cases of epidemics or other disasters, either threatened or actual"
+        }
+    ],
+    "entities": [
+        {
+            "entity": "Archaeological site",
+            "type": "Location"
+        },
+        {
+            "entity": "Celtic hoards",
+            "type": "Artifact"
+        },
+        {
+            "entity": "Bogs",
+            "type": "Location"
+        },
+        {
+            "entity": "Scholars",
+            "type": "Person"
+        },
+        {
+            "entity": "treasures",
+            "type": "Artifact"
+        },
+        {
+            "entity": "Vikings",
+            "type": "Group"
+        },
+        {
+            "entity": "Hoards",
+            "type": "Artifact"
+        },
+        {
+            "entity": "Sacrifice",
+            "type": "Action"
+        },
+        {
+            "entity": "epidemics",
+            "type": "Event"
+        },
+        {
+            "entity": "disasters",
+            "type": "Event"
+        }
+    ],
+    "sources": [
+        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+    ],
+    "image": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Silver_coin_hoard.jpg/1200px-Silver_coin_hoard.jpg"
+    ],
+    "cyphertext": "sD8aTsqyYyccUaTRND2P6OLb1i6GBJ83une_A6-KHqu_3bvbBcpoCpVrz1cVNPv6YBFZKRy77TcVsYfg5y-DydSOhJIGOdOUOcbctXQIJROvTZpHKf7Fy4uSjFeLE-pwInuEP5KdAbS3iXNv7k7btSRCrBkSyrtuO5XAmz0jxRzZq7wJMesXfhsBH2WbBiTtMrryLEhbM7WYT0b2ryMpuwvL9-FtF5zPMh1tMLrAbRYfWDnsglM7mDM-6jN59DGxx8OIbwnYvM0Ot-_uufCc6RB7bfYPQ-Zg6xPQWCn_6ysNhTs9Pl8aJevFP0_GAQtaj-uiJYCH0NeHfzwrkaXy2PrzDO5Dxt5jPGN1MLH-cP3KzY1App-hmucXdFlSFK2y2qNG6E6rfaUw-V0ErFah616vJ5_HXPvkJN6cj717YySfhYPtzuTUgTbrXpWRXJwWMiuz-wA8zFfNZiq81zBj87y9Sg9RoHFMviqMDIycVluhWal0DNoTox0IfhWVPyAktwpPq6Uty6PVE8eBjR5mkXOdxPdIYFmurPwE6-AdUXPg3tKWOP8p",
+    "salt": "I1QUMJf07DLHWfR6l0NcGQ==",
+    "text": "Archaeological sites that contain Celtic hoards are typically found in bogs or locations where items can be hidden, and may consist of gold Torcs, decorated Cauldrons, and lunae or moon-collars. Scholars theorize that these treasures were deposited in bogs as a way of safeguarding them against possible theft by invaders, possibly Vikings. It's also believed that hoards may have been left as Sacrifice during times of disaster, such as epidemics or other threatening occurrences."
+}

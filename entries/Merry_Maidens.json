@@ -1,0 +1,68 @@
+{
+    "name": "Merry Maidens",
+    "attributes": [
+        {
+            "entity": "dancing",
+            "attribute": "usual activity punished by petrification"
+        },
+        {
+            "entity": "Witchcraft",
+            "attribute": "brings stony paralysis on Long Meg and her Daughters in Cumbria"
+        },
+        {
+            "entity": "farm chores",
+            "attribute": "doing on Sunday caused other people to be turned to stone"
+        }
+    ],
+    "entities": [
+        {
+            "entity": "dancing",
+            "type": "activity"
+        },
+        {
+            "entity": "petrification",
+            "type": "result"
+        },
+        {
+            "entity": "Witchcraft",
+            "type": "activity"
+        },
+        {
+            "entity": "Long Meg and her Daughters",
+            "type": "person"
+        },
+        {
+            "entity": "Cumbria",
+            "type": "location"
+        },
+        {
+            "entity": "farm chores",
+            "type": "activity"
+        },
+        {
+            "entity": "shearing sheep",
+            "type": "activity"
+        },
+        {
+            "entity": "digging turnips",
+            "type": "activity"
+        },
+        {
+            "entity": "Sunday",
+            "type": "day"
+        },
+        {
+            "entity": "people",
+            "type": "person"
+        }
+    ],
+    "sources": [
+        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+    ],
+    "image": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/The_Merry_Maidens_Penwith.jpg/1200px-The_Merry_Maidens_Penwith.jpg"
+    ],
+    "cyphertext": "Ox4a_LjU8KgP6UOZNsSVA24Th0CqONzZ_G9-v7Cv3jSH329QtkHJn6tETOu598LHdKtXd-lkB_QV6PPdrnF0-V4u2ykVxCtmCCAQflPKH0X2AySiBtl-Btfl5mDZRLSO4S-5oX-yhnamJ91w-gWcGQV5drDS2y7nrvOuzY5q24BYtXg8DUu_u3SRQL_HyDjF7uHWopVYQ8FQPKgSxcHE5mTDYUYVknMoDRWDljP79I4YT5YKUgXwYQ2cF59oSOv6Z4j_ekP73xHy81W_ZdnmFiltRIOcUO_coF_LLadDB2ZYcKP9mV0nL3GYvTpxjLiDdpL-BXcD7YiGpTO1k8a1OafoKT_8IHE8pV6WkM3fc3LPAUYHhSy28lGqQcT0W42vZDAyz33jbhK1UBgC0XlR5IhgdWFd0l36JyrJdxKvf9EnOQYHVYGWPPwfdhFbHhYbL8zYmZWkaB1vsLF5H8AYyHjYMfnVEPbQxMH_9iNnTMtqSoxGCGcf52Jgka2NnZG9aOGaJbbcwfXKyqPq8IMgU4CS8XigTDg-cSU7xzXx1AK74zNIp1o_Wlx-DRUpDvltETYc-HZA70f6FAwmOimJAz-GfGLp8PNVbgyb8cmgzDC1jp-sxhpqUXCnnl7y4A-HEl3DrvgL2TVcecMERV8P3zvl0PHqeYEc1S3WKuBso6H24gKIvI99Nd3o_uBLAf2e-Ztofym_GZDQO1RHEwr6GS8isdA5JZUkJGb2pKMuBu5tN_VuDkj_8q3KxJVdTQNJpyvGycUTzPU-4NKzZEzpgK3sVJ3uF3yVtEjU-LC9viB9-Uwvb-8B0xIvYBA7ZOl60ydeFM_w_YGkh7oHE7NlsxjXJDXR7vzWZHC7_gIJSp-Ryl4yzcvbtyUdY5OhlxlI6NlFya8XAK7pwPP23TUjCmJEP10F9AKFqFtlzG_aXjwmhabHfdQj4YIKukIrxgSxSx4zhJAjgAvtlVDozZuOB7qpFgLhqJYeUtfKgXC0FpAcSVEQWm1sA_qziBU0kDsVzIlYko1nLyvvsccyEjTBgliKeoKGSmjdTGpxOdBcRtcUoIZrMyofDHUlrPtYQTJpP14a6_Kuc_i74E0R8Xz9eYEhmFWQo2bwEtOt7snXYC1v-vX2j15wzWLp5fgVok2naGywVVEBUZwPEAHw23zixZfcbfL12wFYFrVb8GOBGX-AgOijG4uvtUzj5PvojC8Am4_mwQgQ4nEy52jgcv_0dlKQi56c-I8ZoploPo6PxaVLaqVnnkIqDP_n3QR0s0QMWNKA1J84n0p0QDx9eHFqp-FdBYYSOdgi40F2obTGcr3w3aQgFQAWXak4R4e5g804VSy_U398lZTty6KqGN9wmCBwubUwFMzELkBOWf54fp9RbaOcm4QCGn1nkj0fC22zEDoNky0Rd4V1pD0pyQ0yiZlDSs56f2MtHNrNfMK4sOTWvxa8DkcOpkZTnIQAb0Ls1iwea18X8UgZjuAzLjJBrIFjpQaYAFg_Zc7v-xLZQY0Mnkca7LqxkT8MetWy5mUlU3W5hXqTjkGe3F3mtdt6YmMEtdtz0RI4OaFEtX6jxrmrAvPFdPnBdtYynJbgczQh-2dMj2MDqUyXou0hVNTqTotvfQ5GBACTpRMFfA4ob83mRmRBkzlWRSa-XGla1FBJCofQ680-qwuJdR1nArEV-vK3fzLd81nt2liA-mRnXxI5b5OXfCFPXnms-ZAybAHFo_Ofb1MMwI0_2D29kX3WiiTri751mBqXE9QQJgZKTkfwWktBA7Y2cV56ZVojBukV_ct37IPAIQIy5vMkPl2H6_ysuOHVpColwNPuo5-OphHBvevDG2DgqYblvNvNEocBBsPqWWjCBC-0YGDcZnme6zDO6ssZS1uFd6EzluB7494WwPXVGrSBTyRmXIHF2iixwaTN9_Xcnk0L3k87Q3jTtLfYcP5IgD4CM7DWfHY_gkE6cwGnV4CKDRLP7YnAMyxVHvtoUTSfDbQ1HEHIVbxO3GX8AtCUM5RZ_i0Nmj0ADobJmkdg4EkjSBwjIH-uJEdQCCfWi8TqQVbB9B_IHQGAFkYT1wM2-G5haUXjV6gMoEX-TXo3sVZKoIbOmZ1_n0RiBvNWUAjA9KQaXidOk-qSBCSKFG-o4wOS026Qes8qJqcz4K372xwWp8zuMzWBReTfIvbCVuudQd3x5-D_BCgjLB9B_fNjZYDCPBJ8JGumrCeV8zsHgnOThsdKoNTYO2RM2eWy3S84iVOIuLTC5Pe64kQx4EHc9_1wrmb_XP-ODjwjJ5M4gDPuRERtZE8H19JlbBpS4o4L_Q92gf-vdHqLIt0j8P2kFEzvx2d7UmwwBM1w_HiAgz9stwqXTF99ChioyuYHv1BQaNbUcmQUDzgnu9X0WAawr3ZaeFTZR0gngYn4tdgQm-krwUIZnRKyhqYh0EDecH5U-HtLqHULcUp9Q6i5lgRkMQtFPyIAitKiYJuMPQm9IbfRudZLLhl_BLsB0G5b2cpfvA==",
+    "salt": "KmOJGmOvOhF2ygrPUI7Mwg==",
+    "text": "Numerous Stone Circles across Britain are commonly referred to as the Merry Maidens British folkloric site. Local legend has it that these stones were initially women who danced on Sunday and were subsequently turned to stone for their heresy. The stones are occasionally called \u201cnine maidens,\u201d which may not actually be in reference to the number of stones, but rather \u201cnoon\u201d - the ninth hour of the church day, also known as \u201cnones,\u201d the midday service - for the time during which they were transformed. At Stanton Drew, a wedding dance was so lively that nobody noticed the passing of the entire Saturday night. As Sunday morning approached, a stranger dressed in black appeared and took the fiddle from the lead musician. The stranger played music that was impossible to resist, causing even the exhausted and those who couldn't dance to start dancing. The dancers continued to spin around, without stopping, until they finally all turned to stone at dawn. The fiddler was, of course, the Devil, who assured them that he would return to play for them again. However, as devils are untrustworthy beings, he never did come back, leaving the dancers petrified to the present day. The legend of dancers transforming into stone can be found in many variations: StoneHENGE is occasionally referred to as the Giant\u2019s Dance, indicating an ancient tale about the stones being transformed dancers; in Devon, when dancing at an inappropriate time, a man named Ragged Dick and his companions were transformed into stone; and in the Shetland Isles, trolls and their musician were transformed into stone at Haltadans (\u201cstop the dancing\u201d) when the sun rose, a distinct remnant of Scandinavian mythology. No changes have been made to the original text."
+}

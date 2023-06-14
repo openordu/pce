@@ -1,0 +1,57 @@
+{
+    "name": "Len",
+    "attributes": [
+        {
+            "entity": "Len",
+            "attribute": "Irish hero"
+        },
+        {
+            "entity": "Bodb Derg",
+            "attribute": "great magician"
+        },
+        {
+            "entity": "Killarney",
+            "attribute": "scenic lakes"
+        },
+        {
+            "entity": "Co. Kerry",
+            "attribute": "location"
+        },
+        {
+            "entity": "Loch Lein",
+            "attribute": "Irish name"
+        }
+    ],
+    "entities": [
+        {
+            "entity": "Len",
+            "type": "Person"
+        },
+        {
+            "entity": "Irish",
+            "type": "Nationality"
+        },
+        {
+            "entity": "Bodb Derg",
+            "type": "Person"
+        },
+        {
+            "entity": "Killarney",
+            "type": "Location"
+        },
+        {
+            "entity": "Co. Kerry",
+            "type": "Location"
+        },
+        {
+            "entity": "Loch Lein",
+            "type": "Location"
+        }
+    ],
+    "sources": [
+        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+    ],
+    "cyphertext": "a5fKT-zGElAKKtAZefIgCUzHosXyJcwph8MJ7_b1IEAbRSyrGG7a6cEOTqf6N0fIkMiAFupMh_Jom6r06lHTu020BroVgJO00YXL7R9-9NKTIWcZn4vur0Sn9h_75KQoy8vAQTV5u7GCzV3Nf-uLvbcYpmX7R-AA4yKJsgv2nrZxwBi_Oh8K6dKVRq7SnxxUUapbj54Y_LLI280vfoYnM8q0l2O7Duzzf4gnmnEiSW4uvegYnV9R_bgj9jztG73zWnB2DLN9RQAx9YGAPOv9GbCPke1L-XnmTCF305V0ncfBja8=",
+    "salt": "7VCO8bNQVdJR_RwD7DGO8w==",
+    "text": "Obscure as he may be, Len Irish hero is known from various legends as the skilled Smith of Bodb Derg the great magician. It is with his name that the beautiful lakes of Killarney in Co. Kerry are referred to, known as Loch Lein in Irish."
+}

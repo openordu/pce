@@ -1,0 +1,52 @@
+{
+    "name": "cairn",
+    "entities": [
+        {
+            "entity": "Celtic lands",
+            "type": "Location"
+        },
+        {
+            "entity": "Megalithic Civilization",
+            "type": "Culture"
+        },
+        {
+            "entity": "Celts",
+            "type": "Culture"
+        },
+        {
+            "entity": "Court Tombs",
+            "type": "Mythological Site"
+        }
+    ],
+    "attributes": [
+        {
+            "entity": "cairn",
+            "attribute": "Mythological site"
+        },
+        {
+            "entity": "mounds of rock",
+            "attribute": "found on tops of mountains and other significant places"
+        },
+        {
+            "entity": "interior chambers",
+            "attribute": "found in some cairns"
+        },
+        {
+            "entity": "legend",
+            "attribute": "associated with many cairns"
+        },
+        {
+            "entity": "ritual",
+            "attribute": "possibly associated with cairns"
+        }
+    ],
+    "sources": [
+        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+    ],
+    "image": [
+        "https://upload.wikimedia.org/wikipedia/commons/4/4a/Cairn_at_Garvera%2C_Surselva%2C_Graubuenden%2C_Switzerland.jpg"
+    ],
+    "cyphertext": "adgRIlz36J6O8c41XckCKLUnEUxv8td_sqSIjXM3zk8JtzFLSVRL4jp9BGV14Y1K073qCYhzpydrMxAdcYzRH9UOROaOdeo0J7AUJZVlJ2q6nz257rz4E2InvI9-w3WQCAH_W98QnGtx-uSRVej4LCDXdkqPzlly_y39h0LToQnFl2nOiLQqjsedfaB8ozYTWZ-RqOIGNIgsluY15O7fVvIqmBj2fgYWqrPqUSi1LlN13J--7hmoVKCFDa-KsTPHaSbkJKKIkiUKpDDtp6RqMUgjkupmaowL5irpiulswgymRi2eoq4SsV3oiJPfWLGp9MMKBS2Q4RG49xI7L7Gg1s_xj5DYffwgImZMzjQO_bYJJtHW1zA1oDGVbdh6Y7FsEuBRMxd5ji7RyhFBMRN1zfApxsyt9ayOD9l44Z3m77uvtinIcG7j2l1-sG6eR4ENsipt-FMBJgVpL6fZingzSiaQguz_YVerKcOv5FDUZlKC8RL_YB26IBK471KwSBThw_8kayyh0ELZxFo-T5CIjx5T_ODv-m4t29KAD7vdjbFp1o83RxgPNfJJTSjXYYaiWbdRbHN69VD0CPGC5EwA2bIN",
+    "salt": "A7N0P9F5TMt1tDCN54QZWA==",
+    "text": "Mounds of rocks, known as cairns, can be found at significant locations throughout Celtic lands, including mountain tops. The Megalithic Civilization left these structures, and it is unknown whether their interior holds chambers. The Celts later used cairns for their own mythological purposes, resulting in numerous sites becoming legends and potentially being used for rituals as well (see Court Tombs)."
+}

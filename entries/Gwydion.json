@@ -1,0 +1,69 @@
+{
+    "name": "Gwydion",
+    "attributes": [
+        {
+            "entity": "magician",
+            "attribute": "occupation"
+        },
+        {
+            "entity": "poet",
+            "attribute": "occupation"
+        },
+        {
+            "entity": "trickster",
+            "attribute": "occupation"
+        },
+        {
+            "entity": "Welsh god",
+            "attribute": "origin"
+        },
+        {
+            "entity": "stars",
+            "attribute": "location"
+        },
+        {
+            "entity": "Milky Way",
+            "attribute": "location"
+        },
+        {
+            "entity": "underworld of Annwn",
+            "attribute": "location"
+        }
+    ],
+    "entities": [
+        {
+            "entity": "Otherworld of Annwn",
+            "type": "Place"
+        },
+        {
+            "entity": "text",
+            "type": "Object"
+        },
+        {
+            "entity": "magical swine",
+            "type": "Object"
+        },
+        {
+            "entity": "Welsh god",
+            "type": "Person"
+        },
+        {
+            "entity": "Milky Way",
+            "type": "Place"
+        },
+        {
+            "entity": "underworld of Annwn",
+            "type": "Place"
+        }
+    ],
+    "sources": [
+        "Evans-Wentz, W. Y. The Fairy-Faith in Celtic Countries. Gerrards Cross: Colin Smythe Humanities Press, 1911, 378.",
+        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+    ],
+    "image": [
+        "https://upload.wikimedia.org/wikipedia/commons/8/80/Gwydion_Conquers_Pryderi.jpeg"
+    ],
+    "cyphertext": "cw4VwiyUS6ICVjmQeCfJjIb93HEGFC6CebG5_GaTtymDxro7zxMzm-_2EagaH3RMZdFRTkSkp8258y6Ymo1D9uwzMjyv9xn8bS2_vEU3I0PacOUEIa5WpU6EZHkLRTLpI4O1zpqmhw2nHdWLHyLnklkUly0rw-mSPIyxkd6f1Sg60uCaiijHCA4F3Dh10gxkEfy-Bix46guTyd4-WzNy7tbmzfn4TiGl3oByn-U_Jog2x7FLJIYtFd5rdb8KtQA3RtWgLCprbhVejtbzLMI3gk50r-90PBaIGWmpxoISH5ILzrb49sqh7n2QtPrGAe-hkSjaMaV6GgJXjfk-mPWp1gG0AwJ8X7kdy1JmgExUvGSkKtevC7w2qfkdp7MBS48tdybbL8gtNOZJxe8mQtUOiuJQEApdWlxeSQSufxswkl_ok-iUjOAe7iB6bMDaJthr1v6vDP7etWOrE2RFLf0lyMkOlzDEv96SKViJo6vE4pFDEKYIC97U150tKwJ92gV2hMU10E_sYC9uDsCIXTzWnota74A2lX9THZI4sGb--YSYPrh_ieM7GY5tysE1W34P7rh9K1XcN_Pkzyi5gzpGYlx-Dk8kRlLut6JFN1I_46yxRIMuYEziurXIUDp2tyvSvJGJt3panricH0tMsUKhV_z0is5_feD800WmgEoP6LJKPB-TA-cEhgYsBZfMxjgFqJ3VWaOQrEX-OPQCqfFTVgrtf2mlBUnMjJi_Nt90OBT7z6EZhYaa8d9OE9lUsYWxc2rKmAMguY5lOcsRQkS6KozIZWHGAlq27u28QMYEGs42tCsU5ZcvIQcBips_JrrLm47xPvYj0QMQwLqwH2ZolxfLYJo4VwWjM__nLgvP5sxHaFJLPVLRthLs64SyBcNegRFJkSZQvCjABEtgvetBq4ySmHHIreaWy7JTT6O5XS_JI0kHbpyTrWdY_NGLPpJpy6ttyfYuE9KDlTdBFhzLrt8uMlxoON-dafOetzBCM5tN8gnrwhwS3sFKTj0VdmGXojAW6HrziU5pNsMz6j36YL8OjmscVl03gxBeyGlDLY4vNASljqVI3Dr8SJm9MsRKIGOUxEXqt4OAOevT7IQQM0nOefizTTQ7IFEdwWVJIBXqRbxyUC5X4RdCjzEaMFndX4dtUp_rb-p674c1o5v2rXLU5OxIulhdrFV6z68jZ8kZe_PNouxm46stLuImTVdUEF35A26RZ6xuGUd8KAgmryf8VKyV-_p-NGnG5mpxFAsHIL-Mhrhf0CPd-DSrG5r8m-SFnIxMZph3wnoxJHP_BBKSbG3WgHL8zrF9qmJPw_mPMW1obD5V_P4BJgXTOy_BzM7QlJdeEwqEsw6lxAVZ0bNTEq_Vg2YoJo9wGPvRCw6sXG1EM6Asaqx8dVOjMLh__YnfNnVj6VEfBL7DapdSelsNnQ3ucbspKDSxJZ_4aNsXpz9CfJTBr6XjP3hKkjw1sKl-l6zIl1XvQkKErbgID50Jc_DuWdBLgoebxLJqY_BEeVtzSMujQSQGeUBtVicostdXwSy1rC6xb8Qq54uYWub2lsPLDKLSinbn4VPR-8OhFtdjdeB1g5Lqvg25YXjO_qu2i3BXObXanoQaNv9W7B3EuF-CqnZttK9dzFHcOP2KCSHAOxhHsA-ewFhlHxTYgHw2aw64pgMFhjJ01aLrAtQTgcvP-got6A9OZCWz78u5LNQxH0JYCtE94SYdpylUVJ7yqVepFPkTdftAuuklrYyxBixjdVFM1EdavMG9aYIj8Fk5yiGylNLXNk5Nejs4Cep_RjHlkeFz5Bch7eC2j5qogj7yYymr9Qd4nZH0RhmqQzipPucLDswVJbcaJV3buJ3zUztKZN6VNOXoFYkHE4XPGGiL0HnnfznJUJZL0PFWdM9hc__zRC6CJrjy66L7nhCwoUdPfbo3pbcQKV2jt85uSLJUzOENFv1F32hhiq299cCmdWfsXTB5uvcWHE1VbSw86gHueRXYIBBwY50Mwuy8AjvpUq_ulK1lsYBaFqbGIgp0feD_FBd9wescBNeazakAWoMSHOlf3GlobcMlUOCqNC3njCdGMmQUzkJ3s42uzexlLgROw8XEkZ9-6-o08WTAHu7s6s09YAEmjen48wJewwAxydephoPb6Wx3Q6M57fnRqx5TDGJJQ07Y4vXUGjFj8O3E6S3X70M-0969lhNxId4wSlRm3bcEIqYI57AJgB2sodJCnUQo4rrNt8jypB1fJ_qc2gsSxCDxoUPEefGgMZ5AtlONIklID0mg6UFCuc05vMXZxL0McZfCIvVBSL37kpAIbmauuTL4ZjsOK1tEcl38GKE3xASxqbhdzV2A8mTCNZNhAfihQS3teYAtCOsqSUpBWKFyu_-Ba8Hx611KHTCUecNedKH9TfVMg4gVNLSbbOrCLMS4sFqbDZFZsbkUHn-3fzjfnwm7TpCytm1MzZRge5XC2sXyxtQbtprOzkSrO4xqHzzSStdtuxVWt6gOHUVaq7Yks-04WAQEOfSczXhPKyfUURoW-MGSqfT1M_5FoSCZhKpR_O6Mg72Rzi6yI9NMdBPAIOuUFLgTv_Id2KzrLWYQZ0IoKXQxFqe3nzNA_zlVZyqWkAKVcgLFW_q9lkjO6c20w8LuKhRXp65oU8f31_vj0trTo_1xtBgRNIunoFX4w99k5lwBWAAbaeFcImQMEGhuqNxYQV_zwoq4kQYVRupCf6u1IqfrEQekEG-xJ4aVIlmGcl3H1JtVKr2tLlEhWYUSl5D0jwD9rtKM92-ezt6jBM9cYk8sPEizNymuaxvq1vY5HhZKihseZS5Dbt73P-6vc3QDBa0-yxzQeyaVmU4rpzRHf_mdzXvFIKQr3mvzm6icYjh5hMLVdOaPx2eF5C6xj8c48U_XQqLw1hyub_UUA86VIxsT9MlvGsdg5BkME5YyX7r78MiB0M-5sEGXWWsXxkvf",
+    "salt": "TnTq-TEFtA5DyqRhF0WMrA==",
+    "text": "Welsh hero Gwydion (Gwidion, Gwydion ab D\u00f4n) is a significant figure in the Mabinogion, a compilation of Welsh myths. Despite the centrality of his role, Gwydion plays a supporting role to his more active brother Gilfaethwy, uncle Math, and sister Arianrhod. When Gilfaethwy became infatuated with the virgin footholder of king Math, Goewin, Gwydion aided him in raping her. As punishment, Math transformed the brothers successively into Deer, Pigs and Wolves, and then back to their human forms. Gwydion suggested that Arianrhod, instead of the deflowered Goewin, become the footholder to King Math. But Arianrhod failed a magical virginity test, leading her to give birth to an ill-formed child that Gwydion gloomily nursed to health. Angered by Gwydion's manipulation, Arianrhod refused to name the child but was later tricked into bestowing upon him the name Lleu Llaw Gyffes. With the help of Math, Gwydion created a woman called Blodeuwedd out of flowers to be Lleu's bride. However, this union ends terribly with Blodeuwedd attempting to murder Lleu who turns into an Eagle. Then, with the help of Magic, Gwydion restores Lleu to human form and sends Blodeuwedd away as an Owl. Other tales recall Gwydion changing fungus into horses and creating seagoing ships from thin air. Imprisoned in the Otherworld, he attained the status of a Bard and came to be known as Gwion. His inspiration in the realm of Annwn may have resulted in more than his poetic prowess, as an account mentions him stealing magical swine and bringing them to the world above. This being encompasses the traits of a magician, poet, and trickster, and is considered a lesser form of a previous deity in Welsh mythology who presided over the stars, residing in Caer Gwydion in the Milky Way, as well as the underworld of Annwn."
+}

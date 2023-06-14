@@ -1,0 +1,64 @@
+{
+    "name": "magpie",
+    "attributes": [
+        {
+            "entity": "magpie",
+            "attribute": "Symbolic bird"
+        },
+        {
+            "entity": "Ireland",
+            "attribute": "Country"
+        },
+        {
+            "entity": "speckled horse",
+            "attribute": "Unlucky to see when setting out on a journey"
+        },
+        {
+            "entity": "magpie pony",
+            "attribute": "Almost as unlucky to see when setting out on a journey"
+        },
+        {
+            "entity": "four magpies",
+            "attribute": "Indicates a death in the family"
+        }
+    ],
+    "entities": [
+        {
+            "entity": "magpie",
+            "type": "Symbolic bird"
+        },
+        {
+            "entity": "Ireland",
+            "type": "Country"
+        },
+        {
+            "entity": "speckled horse",
+            "type": "Animal"
+        },
+        {
+            "entity": "magpie pony",
+            "type": "Animal"
+        },
+        {
+            "entity": "four magpies",
+            "type": "Number"
+        },
+        {
+            "entity": "death",
+            "type": "Event"
+        },
+        {
+            "entity": "family",
+            "type": "Group"
+        }
+    ],
+    "sources": [
+        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+    ],
+    "image": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Pica_pica_-_Compans_Caffarelli_-_2012-03-16.jpg/1200px-Pica_pica_-_Compans_Caffarelli_-_2012-03-16.jpg"
+    ],
+    "cyphertext": "htyc_XJsn1s383x8CsqI43wBLmNosDH0kbRPkD-a0kecyegEbiby5MFrFAVkreDPTJuQDzjHvYObn9iJ7-O0ISqbxHwB3HbCSYVG9OyQkGZ5lc5YdEW02Ry-fthvpyiWRGqwsKfCeM02HI4NLoXC2Mf-fwgNZnZaRwEk1bcIhl-Ii9vVRorE85uNvr2APkfEmDL4ncibaxbKXkEN7fOeEl6SDP4YQn3BWIWIvQ2tRfoLR8mneYqr-UV5Y_DzMjYA55edkrSziX5EUIh6qPOyp_bOadKt4YqHG-Z43Sc2Lj5gd0P0QRjor62qz8qkrPBbuQXZ_Y6NKW_sOMknIzbH8DXANnjkQSxb9MJW",
+    "salt": "T4gGtPbR60jzbb6bYThm7A==",
+    "text": "Symbolic of bad luck, the magpie was regarded as an ill omen in Ireland when encountered at the beginning of a trip. Likewise, sighting a speckled horse or a \"magpie pony\" was hardly less unfortunate. Four magpies seen in a sequence foretold a fatality within the household."
+}
