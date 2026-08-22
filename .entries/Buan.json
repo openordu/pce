@@ -1,57 +1,63 @@
 {
-    "name": "Buan",
-    "attributes": [
-        {
-            "entity": "Mac Dath\u00f3",
-            "attribute": "severed head"
-        },
-        {
-            "entity": "Buan",
-            "attribute": "asked questions"
-        },
-        {
-            "entity": "Br\u00e2n The Blessed",
-            "attribute": "spoke back"
-        },
-        {
-            "entity": "Buan",
-            "attribute": "wept herself into her grave"
-        },
-        {
-            "entity": "Hazel Coll Buana",
-            "attribute": "used as divination tools"
-        },
-        {
-            "entity": "Buan",
-            "attribute": "descend from the early goddess B\u00faanann"
-        }
-    ],
-    "entities": [
-        {
-            "entity": "Buan",
-            "type": "Irish heroine"
-        },
-        {
-            "entity": "Mac Dath\u00f3",
-            "type": "hero"
-        },
-        {
-            "entity": "Br\u00e2n The Blessed",
-            "type": "famous head"
-        },
-        {
-            "entity": "Hazel Coll Buana",
-            "type": "magical hazel bushes"
-        },
-        {
-            "entity": "B\u00faanann",
-            "type": "early goddess"
-        }
-    ],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "cyphertext": "lGvhh8ImwvDMvgTy9UpQLPpkS2YembRN65hPUHkc6kzG60Xx3awRWTZa6Pj3fkm1pNwNuLqV4l0l4mLNXNBn99sgX6NrWqBi0C-bL50z7msy32XCVdqj1CbmCFU0kt4gpzXIkSNEZPim2VfZBQGlx2vjUqCATb2X8GREQxo1wDscdxf20YYoBmUHBYxGN6B3-8o5VHp0tkGdFEl8LwK0cUrJciyVHC1YZ49kuEPDbEFUBVyTQseo2DF8B44exe4piJ6yyUw0gC9XYIjh_HydVuFxWbS1A8YlFCARSETlCHhHR_wnRv4lVjtdh_WxThryRsJS7WdWgQzyWzsYZB35_jxvXcqwjdH8Rv2KanGGCzqnqxViXgC3DcFBWahJKuTlo0XyeCZQ7QpxpcKV7mW0zSFtcTgrRprBZ3_WG9YtnHSYnYUxzG7a29E8XCD2_SKGj1pyUWPTpIlOXwnC2alDmQEySuBzLOcbkvfCPWMZD3lpLEBwka2Vnb_cD_mIGRLiCKe3vXU6YINKvhaTBJd7jmWsMozj1Cn8kiOLV_ArjfO7-zfH7NHXJys6Q2KKgMIxeXwvAbanbAPdkRxqTNSGgbq99aXVGMt3sUFI10z-iysSBz9KER0Gig==",
-    "salt": "6QMtMIsTBvDAdkmjrebTdw==",
-    "text": "An Irish figure, Buan, acted as a heroine. After the hero, Mac Dath\u00f3, met his demise, his wife Buan received his severed head. She posed questions towards it, and like Br\u00e2n The Blessed's renowned head, it responded and disclosed the betrayal that caused his death. Buan experienced overwhelming grief till the point of death, and from her grave bloomed the enchanted Hazel Coll Buana; divination tools made use of branches from these hazel bushes. Buan's lineage may have originated from the ancient goddess, B\u00faanann."
+ "name": "Buan",
+ "attributes": [
+  {
+   "entity": "Buan",
+   "attribute": "an Irish heroine"
+  },
+  {
+   "entity": "Buan",
+   "attribute": "wife of the hero Mac Dathó"
+  },
+  {
+   "entity": "Buan",
+   "attribute": "received and questioned his severed head"
+  },
+  {
+   "entity": "Buan",
+   "attribute": "wept herself into her grave"
+  },
+  {
+   "entity": "Coll Buana",
+   "attribute": "a magical hazel that grew from her grave"
+  },
+  {
+   "entity": "Buan",
+   "attribute": "possible descendant of the goddess Búanann"
+  }
+ ],
+ "entities": [
+  {
+   "entity": "Buan",
+   "type": "Person"
+  },
+  {
+   "entity": "Mac Dathó",
+   "type": "Person"
+  },
+  {
+   "entity": "Coll Buana",
+   "type": "Concept"
+  },
+  {
+   "entity": "Búanann",
+   "type": "Deity"
+  }
+ ],
+ "sources": [
+  "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+ ],
+ "cyphertext": "lGvhh8ImwvDMvgTy9UpQLPpkS2YembRN65hPUHkc6kzG60Xx3awRWTZa6Pj3fkm1pNwNuLqV4l0l4mLNXNBn99sgX6NrWqBi0C-bL50z7msy32XCVdqj1CbmCFU0kt4gpzXIkSNEZPim2VfZBQGlx2vjUqCATb2X8GREQxo1wDscdxf20YYoBmUHBYxGN6B3-8o5VHp0tkGdFEl8LwK0cUrJciyVHC1YZ49kuEPDbEFUBVyTQseo2DF8B44exe4piJ6yyUw0gC9XYIjh_HydVuFxWbS1A8YlFCARSETlCHhHR_wnRv4lVjtdh_WxThryRsJS7WdWgQzyWzsYZB35_jxvXcqwjdH8Rv2KanGGCzqnqxViXgC3DcFBWahJKuTlo0XyeCZQ7QpxpcKV7mW0zSFtcTgrRprBZ3_WG9YtnHSYnYUxzG7a29E8XCD2_SKGj1pyUWPTpIlOXwnC2alDmQEySuBzLOcbkvfCPWMZD3lpLEBwka2Vnb_cD_mIGRLiCKe3vXU6YINKvhaTBJd7jmWsMozj1Cn8kiOLV_ArjfO7-zfH7NHXJys6Q2KKgMIxeXwvAbanbAPdkRxqTNSGgbq99aXVGMt3sUFI10z-iysSBz9KER0Gig==",
+ "salt": "6QMtMIsTBvDAdkmjrebTdw==",
+ "text": "Buan is an Irish heroine. She was the wife of the hero Mac Dathó. When he died, his severed head was carried home to her. Buan asked questions of the head. It spoke back to her. The head uncovered the treachery behind his death. Buan wept until she died. A magical hazel called Coll Buana grew from her grave. Cut rods of those hazel bushes served for divination. Buan may descend from the early goddess Búanann.",
+ "okr": {
+  "objective": "Describe Buan, the Irish heroine who questioned her husband's severed head.",
+  "key_results": [
+   "Buan was wife of the hero Mac Dathó.",
+   "His severed head spoke to her.",
+   "The head revealed the treachery behind his death.",
+   "She wept into her grave, from which the hazel Coll Buana grew."
+  ],
+  "evidence": "Monaghan 2008, s.v. 'Buan'."
+ }
 }
