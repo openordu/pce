@@ -1,11 +1,38 @@
 {
-    "name": "Cnoc Ailinee",
-    "attributes": {},
-    "entities": [],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+  "name": "Cnoc Ailinee",
+  "attributes": [
+    {
+      "entity": "Cnoc Ailinee",
+      "attribute": "brief entry that points the reader onward"
+    },
+    {
+      "entity": "Knockaulin",
+      "attribute": "main heading that holds the full account"
+    }
+  ],
+  "entities": [
+    {
+      "entity": "Cnoc Ailinee",
+      "type": "location"
+    },
+    {
+      "entity": "Knockaulin",
+      "type": "location"
+    }
+  ],
+  "sources": [
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+  ],
+  "cyphertext": "xQ24EMLmGRdIcH6OU7OTPTH3oBZeuyAW1-fZDJHpL9RCDZ0MUemcf87ubpwMjj6dlJNuSp4WZifV",
+  "salt": "ihzH8B4fgaUXTjYSipTorA==",
+  "text": "Cnoc Ailinee is a cross-reference entry in the encyclopedia. It sends the reader to the main account under the name Knockaulin.",
+  "okr": {
+    "objective": "Cnoc Ailinee directs readers to the main account under Knockaulin.",
+    "key_results": [
+      "Cnoc Ailinee is a cross-reference entry.",
+      "It points the reader to the heading Knockaulin.",
+      "No separate account appears under Cnoc Ailinee."
     ],
-    "cyphertext": "xQ24EMLmGRdIcH6OU7OTPTH3oBZeuyAW1-fZDJHpL9RCDZ0MUemcf87ubpwMjj6dlJNuSp4WZifV",
-    "salt": "ihzH8B4fgaUXTjYSipTorA==",
-    "text": "Cnoc Ailinee See Knockaulin."
+    "evidence": "Monaghan, Encyclopedia of Celtic Mythology and Folklore"
+  }
 }

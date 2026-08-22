@@ -1,53 +1,54 @@
 {
-    "name": "Clan Morna",
-    "attributes": [
-        {
-            "entity": "Clan Morna",
-            "attribute": "followers"
-        },
-        {
-            "entity": "Clan Morna",
-            "attribute": "traditional enemies of Clan Ba\u00edscne"
-        },
-        {
-            "entity": "Goll Mac Morna",
-            "attribute": "great warrior"
-        },
-        {
-            "entity": "Clan Ba\u00edscne",
-            "attribute": "served Fionn Mac Cumhaill"
-        },
-        {
-            "entity": "Fianna",
-            "attribute": "formed by joining rival clans"
-        }
+  "name": "Clan Morna",
+  "attributes": [
+    {
+      "entity": "Clan Morna",
+      "attribute": "followers of the warrior Goll Mac Morna"
+    },
+    {
+      "entity": "Clan Baíscne",
+      "attribute": "old rival clan that served Fionn Mac Comhaill"
+    },
+    {
+      "entity": "Fianna",
+      "attribute": "band formed when the two enemy clans joined"
+    }
+  ],
+  "entities": [
+    {
+      "entity": "Clan Morna",
+      "type": "concept"
+    },
+    {
+      "entity": "Goll Mac Morna",
+      "type": "person"
+    },
+    {
+      "entity": "Clan Baíscne",
+      "type": "concept"
+    },
+    {
+      "entity": "Fionn Mac Cumhaill",
+      "type": "hero"
+    },
+    {
+      "entity": "Fianna",
+      "type": "concept"
+    }
+  ],
+  "sources": [
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+  ],
+  "cyphertext": "WRAtHn7vHsmjW_1OqvR0Ddl9Qn2_IduQg6TNu9xQ6JQ64_CD3LYnKpeXPzixC_vMt66RQSxEPGv9h1Jk44MA5Q8m3DODdbEl2TmxqDg3lW3hsPrZjgxciV_X5-ti-Lgu18tXXJnvCi1dux5alac6ouxH7lRDGB9GwFtKf-dQ-v8KALlflc2EyuwXroNBUdUnHJ4fk5pQFnaI3XLewRBc5NwvBhyyHH14UnBICPErHLfLoN9LEYTHNWavRyiypAWQZCDglScJnC5ogUtEEINi0WBaoFuICtvBL4LCagfp_15g_SlynSQXFDY7E8OplJx9mmdoN6_hAkU3xU6r5Ps0do-MzC7Qa4xV0URV0iGK6-piO2Y--8DxkwznFYtqfykaJhpwWRw=",
+  "salt": "blzGdJ45oLPVM8YDy0CJrg==",
+  "text": "The Clan Morna is the name for the followers of the warrior Goll Mac Morna. They were the old rivals of the Clan Baíscne, who served the hero Fionn Mac Cumhaill. After a long run of skirmishes the two enemy clans came together to shape the band called the Fianna.",
+  "okr": {
+    "objective": "The Clan Morna was the war band of Goll, and its union with the Clan Baíscne created the Fianna.",
+    "key_results": [
+      "The Clan Morna describes the followers of Goll Mac Morna.",
+      "The Clan Baíscne served the hero Fionn Mac Cumhaill.",
+      "The two rival clans joined to form the Fianna."
     ],
-    "entities": [
-        {
-            "entity": "Clan Morna",
-            "type": "tribe"
-        },
-        {
-            "entity": "Goll Mac Morna",
-            "type": "warrior"
-        },
-        {
-            "entity": "Clan Ba\u00edscne",
-            "type": "tribe"
-        },
-        {
-            "entity": "Fionn Mac Cumhaill",
-            "type": "hero"
-        },
-        {
-            "entity": "Fianna",
-            "type": "group"
-        }
-    ],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "cyphertext": "WRAtHn7vHsmjW_1OqvR0Ddl9Qn2_IduQg6TNu9xQ6JQ64_CD3LYnKpeXPzixC_vMt66RQSxEPGv9h1Jk44MA5Q8m3DODdbEl2TmxqDg3lW3hsPrZjgxciV_X5-ti-Lgu18tXXJnvCi1dux5alac6ouxH7lRDGB9GwFtKf-dQ-v8KALlflc2EyuwXroNBUdUnHJ4fk5pQFnaI3XLewRBc5NwvBhyyHH14UnBICPErHLfLoN9LEYTHNWavRyiypAWQZCDglScJnC5ogUtEEINi0WBaoFuICtvBL4LCagfp_15g_SlynSQXFDY7E8OplJx9mmdoN6_hAkU3xU6r5Ps0do-MzC7Qa4xV0URV0iGK6-piO2Y--8DxkwznFYtqfykaJhpwWRw=",
-    "salt": "blzGdJ45oLPVM8YDy0CJrg==",
-    "text": "In Irish lore, there exist Clan Morna heroes who are the loyalists or the community that supports the renowned fighter named Goll Mac Morna. Their rivals are the Clan Ba\u00edscne, who fought alongside the hero Fionn Mac Cumhaill. Many battles ensued before the opposing clans put their differences aside and united to become the Fianna."
+    "evidence": "Monaghan, Encyclopedia of Celtic Mythology and Folklore"
+  }
 }

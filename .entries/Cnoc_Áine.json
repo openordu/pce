@@ -1,15 +1,38 @@
 {
-    "name": "Cnoc \u00c1ine",
-    "attributes": {},
-    "entities": [
-        {
-            "text": "Cnoc \u00c1ine See"
-        }
+  "name": "Cnoc Áine",
+  "attributes": [
+    {
+      "entity": "Cnoc Áine",
+      "attribute": "brief entry that points the reader onward"
+    },
+    {
+      "entity": "Knockainy",
+      "attribute": "main heading that holds the full account"
+    }
+  ],
+  "entities": [
+    {
+      "entity": "Cnoc Áine",
+      "type": "location"
+    },
+    {
+      "entity": "Knockainy",
+      "type": "location"
+    }
+  ],
+  "sources": [
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+  ],
+  "cyphertext": "gKn4_L7Qlo3tBn-ZvYyppgO70fLDd657r0JqdXszRVBJDnRawR4SHurVJJarOEnniwcnckRI",
+  "salt": "RwTElYiJlyR2GydmeiigBg==",
+  "text": "Cnoc Áine is a cross-reference entry in the encyclopedia. It sends the reader to the main account under Knockainy.",
+  "okr": {
+    "objective": "Cnoc Áine directs readers to the main account under Knockainy.",
+    "key_results": [
+      "Cnoc Áine is a cross-reference entry.",
+      "It points the reader to the heading Knocainy.",
+      "No separate account appears under Cnoc Áine."
     ],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "cyphertext": "gKn4_L7Qlo3tBn-ZvYyppgO70fLDd657r0JqdXszRVBJDnRawR4SHurVJJarOEnniwcnckRI",
-    "salt": "RwTElYiJlyR2GydmeiigBg==",
-    "text": "Cnoc \u00c1ine See Knockainy."
+    "evidence": "Monaghan, Encyclopedia of Celtic Mythology and Folklore"
+  }
 }

@@ -1,37 +1,62 @@
 {
-    "name": "Cochrann",
-    "attributes": [
-        {
-            "entity": "half-brother",
-            "attribute": "relation to protagonist"
-        },
-        {
-            "entity": "revenge",
-            "attribute": "motive"
-        },
-        {
-            "entity": "unfortunate state",
-            "attribute": "condition of protagonist"
-        }
+  "name": "Cochrann",
+  "attributes": [
+    {
+      "entity": "Cochrann",
+      "attribute": "mother of the romantic hero Diarmad Ua Duibne"
+    },
+    {
+      "entity": "Diarmad Ua Duibne",
+      "attribute": "romantic hero whose mother is Cochrann"
+    },
+    {
+      "entity": "River Slaney",
+      "attribute": "river near Tara read as the pregnant woman in a dream"
+    },
+    {
+      "entity": "Tara",
+      "attribute": "place near the River Slaney in the dream tale"
+    }
+  ],
+  "entities": [
+    {
+      "entity": "Cochrann",
+      "type": "character"
+    },
+    {
+      "entity": "Diarmait Ua Duibne",
+      "type": "hero"
+    },
+    {
+      "entity": "Cathaír",
+      "type": "person"
+    },
+    {
+      "entity": "druid",
+      "type": "person"
+    },
+    {
+      "entity": "River Slaney",
+      "type": "place"
+    },
+    {
+      "entity": "Tara",
+      "type": "place"
+    }
+  ],
+  "sources": [
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+  ],
+  "cyphertext": "RWOzauSsrAqmCmq-Dl54sTZwA-VysLOJ7KDj2pPQNJ8A1n-MYTl2cbtwyMjOb_jLWRaKcVoS98tJ3N84MgyDxdp0QR4e08KrT21ibM0gxiqZkIInvNW_CUbpjfRYz9ELhR7Nkl-uMy0Zp9Tq2xHdYgH44L_MKc2b5TJUvh9Mq8f4AxwGt2WW0ShkdYKwBA9mGliSQRQS3ZGD1USwwG5Ilb2pfZ1qesot_y2b9qo1n-AlpHsRyfoq6RglIZ5_UHDw7pL59iY0G1fejFA7N6JjdlEtHib0BS8VRO7LFs25zfR7bIEZLYc0aVv_rw2EskVh3G7e6s_cV4so20gWZ2viQwFFOJ6AYOzaJIHDWM5oiDYnn7bk8z_x-VvA6N2ZbO0ratpN7GGIqeh93cyH0qIG6OKEjSDRx9HT1hFOkGr0Zt1qnWZHRXbIRTOLtYjlx_DeoND36nWwXiF2t41P_XIVxbeHGaI2IE_JRSs-c_IeMlhQ2seUm5YYj_d5m568kRPWd8c3SWmSW60aDCgPMznKANbfJK2b9fKrIeYgU8WcYb7_W8E9hdQem7Eb8IcAjYDYI-ORghD2MRQpWKiLONMCIUmA8DLfKSbJ5feUUUE4Z-xr1lgUZkLrm_lwToGcZgZfrqEkwVguOV0qOr9JtwmEcnsY_kAy11thUVgiyDL8gYmkaq-YSENPvk_-1AtKXHOsB3rraaFhpT4Zx0rM-mRc-QkSTwZzdI5b-z9l0qvVkdng505KE5U-SsUPYYC5UiT6g5YmeipOg1FE9tMAOMY5Ct1Piguz1TrtF6T-5_0DFbbHVLbvp_wWvNFh0HyHpqQ0iG55UIrnQ_o1XqnBoQhBfVlb7fDNW0ogVAoZwijaMCKlgrX2Eeef3KVhUYhxj5kiPw==",
+  "salt": "7zJVaMk9TWWtaabxlRqAnA==",
+  "text": "Cochrann is the mother of the romantic hero Diarmaid Ua Duibne. One text records a dream of the king. In the dream a woman stayed pregnant for a long time and at last gave birth to a son near a fragrant, singing fruit tree. His druid read the dream. The lady was the River Slaney that ran near Tara. Her child was the harbor at the river's mouth. The singing tree was the king himself.",
+  "okr": {
+    "objective": "Cochrann is the mother of Diarmad, who appears through the dream of a king.",
+    "key_results": [
+      "Cochrann is the mother of Diarmad Ua Duibne.",
+      "A king's dream and its reading connect her to the River Slaney.",
+      "The druid saw the river, the harbor, and the king in the dream."
     ],
-    "entities": [
-        {
-            "entity": "half-brother",
-            "type": "person"
-        },
-        {
-            "entity": "revenge",
-            "type": "emotion"
-        },
-        {
-            "entity": "protagonist",
-            "type": "person"
-        }
-    ],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "cyphertext": "RWOzauSsrAqmCmq-Dl54sTZwA-VysLOJ7KDj2pPQNJ8A1n-MYTl2cbtwyMjOb_jLWRaKcVoS98tJ3N84MgyDxdp0QR4e08KrT21ibM0gxiqZkIInvNW_CUbpjfRYz9ELhR7Nkl-uMy0Zp9Tq2xHdYgH44L_MKc2b5TJUvh9Mq8f4AxwGt2WW0ShkdYKwBA9mGliSQRQS3ZGD1USwwG5Ilb2pfZ1qesot_y2b9qo1n-AlpHsRyfoq6RglIZ5_UHDw7pL59iY0G1fejFA7N6JjdlEtHib0BS8VRO7LFs25zfR7bIEZLYc0aVv_rw2EskVh3G7e6s_cV4so20gWZ2viQwFFOJ6AYOzaJIHDWM5oiDYnn7bk8z_x-VvA6N2ZbO0ratpN7GGIqeh93cyH0qIG6OKEjSDRx9HT1hFOkGr0Zt1qnWZHRXbIRTOLtYjlx_DeoND36nWwXiF2t41P_XIVxbeHGaI2IE_JRSs-c_IeMlhQ2seUm5YYj_d5m568kRPWd8c3SWmSW60aDCgPMznKANbfJK2b9fKrIeYgU8WcYb7_W8E9hdQem7Eb8IcAjYDYI-ORghD2MRQpWKiLONMCIUmA8DLfKSbJ5feUUUE4Z-xr1lgUZkLrm_lwToGcZgZfrqEkwVguOV0qOr9JtwmEcnsY_kAy11thUVgiyDL8gYmkaq-YSENPvk_-1AtKXHOsB3rraaFhpT4Zx0rM-mRc-QkSTwZzdI5b-z9l0qvVkdng505KE5U-SsUPYYC5UiT6g5YmeipOg1FE9tMAOMY5Ct1Piguz1TrtF6T-5_0DFbbHVLbvp_wWvNFh0HyHpqQ0iG55UIrnQ_o1XqnBoQhBfVlb7fDNW0ogVAoZwijaMCKlgrX2Eeef3KVhUYhxj5kiPw==",
-    "salt": "7zJVaMk9TWWtaabxlRqAnA==",
-    "text": "Daughter of Tara's king Catha\u00edr M\u00f3r, Cochrann was an Irish heroine who bore romantic hero Diarmait Ua Duibne and also his nemesis. Her infidelity with a shepherd who wielded magical powers resulted in her lover killing their newborn son. Yet, the child was revived by the shepherd's Hazel wand to emerge as the wild boar Donn Ua Duibne. Unhappy about his half-brother's resurrection and transformation, the boar aspired to avenge his sorry fate by taking on Diarmait."
+    "evidence": "Monaghan, Encyclopedia of Celtic Mythology and Folklore"
+  }
 }
