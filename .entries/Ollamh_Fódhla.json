@@ -1,61 +1,59 @@
 {
-    "name": "Ollamh F\u00f3dhla",
-    "attributes": [
-        {
-            "entity": "Ollamh F\u00f3dhla",
-            "attribute": "Legendary Irish king"
-        },
-        {
-            "entity": "Tara",
-            "attribute": "throne location"
-        },
-        {
-            "entity": "F\u00f3dla",
-            "attribute": "goddess of the Irish land"
-        },
-        {
-            "entity": "poet",
-            "attribute": "position held by Ollamh"
-        },
-        {
-            "entity": "Brehons",
-            "attribute": "judges"
-        },
-        {
-            "entity": "law",
-            "attribute": "codified by Ollamh"
-        },
-        {
-            "entity": "kingship",
-            "attribute": "position held by Ollamh"
-        }
+  "name": "Ollamh Fódhla",
+  "attributes": [
+    {
+      "entity": "Ollamh Fódhla",
+      "attribute": "legendary Irish king"
+    },
+    {
+      "entity": "Ollamh Fódhla",
+      "attribute": "took the throne of Tara in 714 B.C.E."
+    },
+    {
+      "entity": "Ollamh Fódhla",
+      "attribute": "first to codify the law of the land"
+    },
+    {
+      "entity": "Ollamh Fódhla",
+      "attribute": "name may mean poet of Fódla"
+    },
+    {
+      "entity": "Fódla",
+      "attribute": "a goddess of the Irish land"
+    }
+  ],
+  "entities": [
+    {
+      "entity": "Ollamh Fódhla",
+      "type": "person"
+    },
+    {
+      "entity": "Tara",
+      "type": "place"
+    },
+    {
+      "entity": "Fódla",
+      "type": "god"
+    },
+    {
+      "entity": "brehon",
+      "type": "concept"
+    }
+  ],
+  "sources": [
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+  ],
+  "cyphertext": "xb-76yIz9tlIF_fYicSChAdHeWWjcQ9lwkG2JQ0naT21_5Y_xp2Fy7kuFlzu0nwkmALvyIO97d9RPtDfcmCMK3UxTQf0tpD_UL8yanCcIU9gg-kMr_4zzrcAXvbvCkepcixRY4wIjLfXaFWZgx7uxM8dNZQ3SkxOP2toeHMigPtxIgXUfFwN4jxy1z6r3dlJD9KxDQFY8YXP1xHRa9yvC3b-3VOE7vg-UJ8-AAJMrJPjeHt7nIQHZntKliRZEdjAagofDFqJ-9TTyt9WahSMan1DBe_nuE7XHF6nr_19WZ2IHbyrZMx-NPLg9rtBrwWNQp43lhOEQpQb7rhzAq231eRdsvLfL43NTpZotoruUs8S8xVPF4gmlaxNzFWIeqHkPQ403iLJvUh_EKTJszFO4xcDK92TT6gxAC8DXjYHwXGObYhdDeulftNRvybJAO74aHcQ9gvMl7U9B69yXX6poH3aLUWsRxnIPIrmsOZBQeFcX2DOAs8lHSHAvkGdu6yV6xnnTBHpZhwjsyfFAh8N8rXiExStrEMs5K53I6a-wXoWY7LyTeCbXaI-mA==",
+  "salt": "kKAElmWM01zx4e3gQwqJGw==",
+  "text": "Ollamh Fódhla is a legendary Irish king. Stories say he claimed the high seat of Tara in about 714 B.C.E. He was the first to codify the law of the land. The name Ollamh is read as poet of Fódla, a goddess of Ireland's land. Poets held the office of brehon, another word for judge. So Ollamh may have served as a judge before the kingship.",
+  "okr": {
+    "objective": "Ollamh Fódhla is the legendary king who first codified Irish law.",
+    "key_results": [
+      "Ollamh Fódhla took the throne of Tara in 714 B.C.E.",
+      "He was the first to codify the law of the land.",
+      "His name may mean poet of Fódla, a goddess of the Irish land.",
+      "Poets were also brehons, so he may have been a judge before king."
     ],
-    "entities": [
-        {
-            "entity": "Ollamh F\u00f3dhla",
-            "type": "Legendary Irish king"
-        },
-        {
-            "entity": "Tara",
-            "type": "throne location"
-        },
-        {
-            "entity": "F\u00f3dla",
-            "type": "goddess of the Irish land"
-        },
-        {
-            "entity": "poets",
-            "type": "Brehons or judges"
-        },
-        {
-            "entity": "law",
-            "type": "codified law"
-        }
-    ],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "cyphertext": "xb-76yIz9tlIF_fYicSChAdHeWWjcQ9lwkG2JQ0naT21_5Y_xp2Fy7kuFlzu0nwkmALvyIO97d9RPtDfcmCMK3UxTQf0tpD_UL8yanCcIU9gg-kMr_4zzrcAXvbvCkepcixRY4wIjLfXaFWZgx7uxM8dNZQ3SkxOP2toeHMigPtxIgXUfFwN4jxy1z6r3dlJD9KxDQFY8YXP1xHRa9yvC3b-3VOE7vg-UJ8-AAJMrJPjeHt7nIQHZntKliRZEdjAagofDFqJ-9TTyt9WahSMan1DBe_nuE7XHF6nr_19WZ2IHbyrZMx-NPLg9rtBrwWNQp43lhOEQpQb7rhzAq231eRdsvLfL43NTpZotoruUs8S8xVPF4gmlaxNzFWIeqHkPQ403iLJvUh_EKTJszFO4xcDK92TT6gxAC8DXjYHwXGObYhdDeulftNRvybJAO74aHcQ9gvMl7U9B69yXX6poH3aLUWsRxnIPIrmsOZBQeFcX2DOAs8lHSHAvkGdu6yV6xnnTBHpZhwjsyfFAh8N8rXiExStrEMs5K53I6a-wXoWY7LyTeCbXaI-mA==",
-    "salt": "kKAElmWM01zx4e3gQwqJGw==",
-    "text": "Legendary Irish king, Ollamh F\u00f3dhla (Ollam Fodla, Ollamh Fodhla), is believed to have ascended the throne of Tara in 714 B.C.E. As the first person to codify the law of the Irish land, he holds a significant place in Irish history. The name Ollamh F\u00f3dhla appears to mean \u201cpoet of F\u00f3dla,\u201d and it is possible that he held the position of a Brehon or judge, as poets were also Brehons. Later, he was elevated to the position of the king."
+    "evidence": "Monaghan, Encyclopedia of Celtic Mythology and Folklore"
+  }
 }

@@ -1,14 +1,37 @@
 {
-    "name": "Olmec",
-    "attributes": {},
-    "entities": [],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+  "name": "Olmec",
+  "attributes": [
+    {
+      "entity": "Olmec",
+      "attribute": "cross-reference to Imbolc"
+    }
+  ],
+  "entities": [
+    {
+      "entity": "Olmec",
+      "type": "concept"
+    },
+    {
+      "entity": "Imbolc",
+      "type": "event"
+    }
+  ],
+  "sources": [
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+  ],
+  "image": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Olmec_Heartland_Overview_4.svg/1200px-Olmec_Heartland_Overview_4.svg.png"
+  ],
+  "cyphertext": "j-mNIRnp02k6KkvMAGJgfPyOc3_5inG1arFuyADJvfsiDYk5bC8qecI_fmFSjzUvSMQrBQLndGY2",
+  "salt": "rlCL66NOoKC7PVzQBACPRQ==",
+  "text": "Olmec is a cross-reference that directs the reader to the Imbolc entry.",
+  "okr": {
+    "objective": "Olmec points the reader to the Imbolc entry.",
+    "key_results": [
+      "Olmec is a cross-reference entry.",
+      "It directs the reader to the Imbolc entry.",
+      "It offers no separate festival description."
     ],
-    "image": [
-        "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Olmec_Heartland_Overview_4.svg/1200px-Olmec_Heartland_Overview_4.svg.png"
-    ],
-    "cyphertext": "j-mNIRnp02k6KkvMAGJgfPyOc3_5inG1arFuyADJvfsiDYk5bC8qecI_fmFSjzUvSMQrBQLndGY2",
-    "salt": "rlCL66NOoKC7PVzQBACPRQ==",
-    "text": "Olmec (O\u00edlmelc) See Imbolc."
+    "evidence": "Monaghan, Encyclopedia of Celtic Mythology and Folklore"
+  }
 }

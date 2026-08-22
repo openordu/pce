@@ -1,15 +1,34 @@
 {
-    "name": "Oona",
-    "attributes": {},
-    "entities": [
-        {
-            "text": "\u00dana"
-        }
+  "name": "Oona",
+  "attributes": [
+    {
+      "entity": "Oona",
+      "attribute": "cross-reference to Una"
+    }
+  ],
+  "entities": [
+    {
+      "entity": "Oona",
+      "type": "character"
+    },
+    {
+      "entity": "Una",
+      "type": "character"
+    }
+  ],
+  "sources": [
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+  ],
+  "cyphertext": "u0jbzQg8Kuccy9l6hT3PD0G8OgxtDVKBZaXs1U6t8uE2s7xp6HKFCvVkLZl82MEJqw==",
+  "salt": "s8-FKJVPt_AcFiMrko0d5A==",
+  "text": "Oona is a cross-reference that directs the reader to the Una entry.",
+  "okr": {
+    "objective": "Oona points the reader to the Una entry.",
+    "key_results": [
+      "Oona is a cross-reference entry.",
+      "It directs the reader to the Una entry.",
+      "It offers no separate description of its own."
     ],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "cyphertext": "u0jbzQg8Kuccy9l6hT3PD0G8OgxtDVKBZaXs1U6t8uE2s7xp6HKFCvVkLZl82MEJqw==",
-    "salt": "s8-FKJVPt_AcFiMrko0d5A==",
-    "text": "Oona (Ona) See \u00dana."
+    "evidence": "Monaghan, Encyclopedia of Celtic Mythology and Folklore"
+  }
 }

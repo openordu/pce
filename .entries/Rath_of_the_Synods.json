@@ -1,11 +1,34 @@
 {
     "name": "Rath of the Synods",
-    "attributes": {},
-    "entities": [],
+    "entities": [
+        {
+            "entity": "Rath of the Synods",
+            "type": "place"
+        },
+        {
+            "entity": "Tara",
+            "type": "place"
+        }
+    ],
+    "attributes": [
+        {
+            "entity": "Rath of the Synods",
+            "attribute": "cross-reference to the Tara entry"
+        }
+    ],
     "sources": [
         "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
     ],
     "cyphertext": "U7UT0MKJQ43m0wIF_S5o_UhhbtC6cd7VBpXjGDx29UoRre8qtbBXUq60CFzd7zN834IFGOqBWl9_",
     "salt": "7SRLqCs9p-KHU3rf8kFnBw==",
-    "text": "Rath of the Synods See Tara."
+    "text": "Rath of the Synods is an Irish site. This entry sends the reader to the Tara entry.",
+    "okr": {
+        "objective": "Rath of the Synods is a cross-reference to Tara.",
+        "key_results": [
+            "Rath of the Synods is an Irish site.",
+            "The entry directs the reader to the Tara entry.",
+            "Monaghan lists it under this heading with a see-also reference."
+        ],
+        "evidence": "Monaghan, Encyclopedia of Celtic Mythology and Folklore"
+    }
 }

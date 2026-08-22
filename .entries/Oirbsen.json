@@ -1,41 +1,50 @@
 {
-    "name": "Oirbsen",
-    "attributes": [
-        {
-            "entity": "Mannan\u00e1n Mac Lir",
-            "attribute": "shape-shifting god of the sea"
-        },
-        {
-            "entity": "Loch Oirbsen",
-            "attribute": "lake"
-        },
-        {
-            "entity": "Lough Corrib",
-            "attribute": "current name of Loch Oirbsen"
-        }
+  "name": "Oirbsen",
+  "attributes": [
+    {
+      "entity": "Oirbsen",
+      "attribute": "alternate name of Mannanán Mac Lir"
+    },
+    {
+      "entity": "Mannanán Mac Lir",
+      "attribute": "shape-shifting god of the sea"
+    },
+    {
+      "entity": "Loch Oirbsen",
+      "attribute": "now called Lough Corrib"
+    }
+  ],
+  "entities": [
+    {
+      "entity": "Oirbsen",
+      "type": "god"
+    },
+    {
+      "entity": "Mannanán Mac Lir",
+      "type": "god"
+    },
+    {
+      "entity": "Loch Oirbsen",
+      "type": "place"
+    },
+    {
+      "entity": "Lough Corrib",
+      "type": "place"
+    }
+  ],
+  "sources": [
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+  ],
+  "cyphertext": "PzAnKxS_ZnawBMA3Ph1slRFDLM0Z_Ot67XtN094h_5WXcH10jgYr3IdjwbG6V6pnP_3UzHOacMd5_Pl94NTwPx9UwfOHSImUKTCqbp6Y5nyAGmti_dUJz8v9nf1LO55aRT96Eh7Mogo9JPkXHB5bSt5sb0RzPE9zcMQZI9xl2yxkIbk2xkSgMsZKviOLy1pzZ94GsVizGvrtKjq7qZpD-YvIQG-zhcnLZYzlRz1YA_JtzZ095SWOPDeyDd07QUznMWmb5dYEbGrpdL102SuoUlKhSpPUSgw=",
+  "salt": "zWbrEHGgGx1jFXPMUJ6L6A==",
+  "text": "Oirbsen is an alternate name for the shape-shifting sea god Mannanán Mac Lir. The term is obscure and old. Legend says the god drowned in the water of Loch Oirbsen. That lake is currently called Lough Corrib.",
+  "okr": {
+    "objective": "Oirbsen is an alternate title of the Irish sea god Mannanán Mac Lir.",
+    "key_results": [
+      "Oirbsen is another name for the shape-shifting sea god.",
+      "The god drowned in a lake called Loch Oirbsen.",
+      "That lake is now known as Lough Corrib."
     ],
-    "entities": [
-        {
-            "entity": "Oirbsen",
-            "type": "Irish god"
-        },
-        {
-            "entity": "Mannan\u00e1n Mac Lir",
-            "type": "shape-shifting god of the sea"
-        },
-        {
-            "entity": "Loch Oirbsen",
-            "type": "lake"
-        },
-        {
-            "entity": "Lough Corrib",
-            "type": "current name of Loch Oirbsen"
-        }
-    ],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "cyphertext": "PzAnKxS_ZnawBMA3Ph1slRFDLM0Z_Ot67XtN094h_5WXcH10jgYr3IdjwbG6V6pnP_3UzHOacMd5_Pl94NTwPx9UwfOHSImUKTCqbp6Y5nyAGmti_dUJz8v9nf1LO55aRT96Eh7Mogo9JPkXHB5bSt5sb0RzPE9zcMQZI9xl2yxkIbk2xkSgMsZKviOLy1pzZ94GsVizGvrtKjq7qZpD-YvIQG-zhcnLZYzlRz1YA_JtzZ095SWOPDeyDd07QUznMWmb5dYEbGrpdL102SuoUlKhSpPUSgw=",
-    "salt": "zWbrEHGgGx1jFXPMUJ6L6A==",
-    "text": "An obscure term used for the shape-shifting god of the sea, Mannan\u00e1n Mac Lir, who drowned in a lake which is currently known as Lough Corrib is Oirbsen, an alternate name or title for this Irish god."
+    "evidence": "Monaghan, Encyclopedia of Celtic Mythology and Folklore"
+  }
 }

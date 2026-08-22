@@ -1,23 +1,31 @@
 {
     "name": "Orc Triath",
-    "attributes": [
-        {
-            "entity": "Orc Triath",
-            "attribute": "Irish mythological beast"
-        },
-        {
-            "entity": "Twrch Trwyth",
-            "attribute": "magical Boar owned by the goddess Brigit"
-        }
-    ],
     "entities": [
         {
             "entity": "Orc Triath",
-            "type": "mythological beast"
+            "type": "mythological creature"
+        },
+        {
+            "entity": "Twrch Trwyth",
+            "type": "mythological creature"
         },
         {
             "entity": "Brigit",
-            "type": "goddess"
+            "type": "god"
+        }
+    ],
+    "attributes": [
+        {
+            "entity": "Orc Triath",
+            "attribute": "magical beast of Irish myth"
+        },
+        {
+            "entity": "Orc Triath",
+            "attribute": "Irish parallel to the Welsh Twrch Trwyth"
+        },
+        {
+            "entity": "Orc Triath",
+            "attribute": "a magical boar owned by Brigit"
         }
     ],
     "sources": [
@@ -25,5 +33,14 @@
     ],
     "cyphertext": "LTvZMIlZ2V-6oKnkdRquS1rbvkqILJxBwW0MW0Yo38kfMuJpA-5vr0ZDVC4jj7y57LnXe5QEIh5a_DDa_LZ5gttTAYRrKkJOmFT7DrOVteYTZmIe0WyzVkveKyGAE3RFGI8awblsU3yrpqayZAxRa5gfq7j0_olJaD-8caAEDVvU5mIX3Z2fCjBYj8siM-0rccvfX9AQrhvsLXxyU-0v",
     "salt": "JLLdWueV8vFRqFNAtep5Yg==",
-    "text": "Irish mythology has a creature known as Orc Triath which is equivalent to the Welsh Twrch Trwyth. It is a magical Boar that belonged to the goddess Brigit."
+    "text": "In Irish myth Orc Triath is a magical beast. The name marks the Irish form of the Welsh Twrch Trwyth. The goddess Brigit kept this creature as a boar.",
+    "okr": {
+        "objective": "Orc Triath is the magical boar of the goddess Brigit.",
+        "key_results": [
+            "Orc Triath is a beast in Irish myth.",
+            "It stands as the Irish form of the Welsh Twrch Trwyth.",
+            "The goddess Brigit owned this magical boar."
+        ],
+        "evidence": "Monaghan, Encyclopedia of Celtic Mythology and Folklore"
+    }
 }

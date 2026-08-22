@@ -1,18 +1,37 @@
 {
     "name": "Rathcrogan",
-    "attributes": {},
     "entities": [
         {
-            "text": "Rathcrogan See Cruachan"
+            "entity": "Rathcrogan",
+            "type": "place"
+        },
+        {
+            "entity": "Cruachan",
+            "type": "place"
+        }
+    ],
+    "attributes": [
+        {
+            "entity": "Rathcrogan",
+            "attribute": "cross-reference to the Cruachan entry"
         }
     ],
     "sources": [
         "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
     ],
-    "image": [
-        "https://upload.wikimedia.org/wikipedia/commons/f/fa/Rathcroghan_mound.jpg"
-    ],
     "cyphertext": "jGhaMWrv-rg5NIyoAot_0qFywZajuBTEjSgV_XA5uClaAeEvNfL6T0aH6hfxAx_0ORonEyY=",
     "salt": "01CLhA8EPd8h6JGLPH3M0A==",
-    "text": "Rathcrogan See Cruachan."
+    "text": "Rathcrogan is an Irish site. This entry sends the reader to the Cruachan entry.",
+    "okr": {
+        "objective": "Rathcrogan is a cross-reference to Cruachan.",
+        "key_results": [
+            "Rathcrogan is an Irish site.",
+            "The entry directs the reader to the Cruachan entry.",
+            "Monaghan lists it under this heading with a see-also reference."
+        ],
+        "evidence": "Monaghan, Encyclopedia of Celtic Mythology and Folklore"
+    },
+    "image": [
+        "https://upload.wikimedia.org/wikipedia/commons/f/fa/Rathcroghan_mound.jpg"
+    ]
 }
