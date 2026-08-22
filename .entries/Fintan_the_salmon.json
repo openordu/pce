@@ -1,85 +1,83 @@
 {
-    "name": "Fintan the salmon",
-    "attributes": [
-        {
-            "entity": "Fintan the salmon",
-            "attribute": "also known as Goll Essa Ruaid (\u201cthe one-eyed one of the red waterfall\u201d)"
-        },
-        {
-            "entity": "Ireland",
-            "attribute": "location"
-        },
-        {
-            "entity": "Boyne",
-            "attribute": "river"
-        },
-        {
-            "entity": "Erne",
-            "attribute": "river"
-        },
-        {
-            "entity": "Hazel nuts",
-            "attribute": "magical"
-        },
-        {
-            "entity": "Druid Finn\u00e9ces",
-            "attribute": "caught Fintan the salmon"
-        },
-        {
-            "entity": "Fionn Mac Cumhaill",
-            "attribute": "great hero"
-        },
-        {
-            "entity": "Wisdom",
-            "attribute": "gained by Fionn Mac Cumhaill"
-        }
+  "name": "Fintan the salmon",
+  "attributes": [
+    {
+      "entity": "Fintan the salmon",
+      "attribute": "called Goll Essa Ruaid"
+    },
+    {
+      "entity": "Boyne",
+      "attribute": "one possible source of his pool"
+    },
+    {
+      "entity": "Erne",
+      "attribute": "another possible source of his pool"
+    },
+    {
+      "entity": "hazel nuts",
+      "attribute": "his food from magical bushes"
+    },
+    {
+      "entity": "Finneces",
+      "attribute": "druid who caught him"
+    },
+    {
+      "entity": "Fionn mac Cumhaill",
+      "attribute": "ate him by accident"
+    },
+    {
+      "entity": "wisdom",
+      "attribute": "gained by Fionn"
+    }
+  ],
+  "entities": [
+    {
+      "entity": "Fintan the salmon",
+      "type": "mythological creature"
+    },
+    {
+      "entity": "Goll Essa Ruaid",
+      "type": "mythological creature"
+    },
+    {
+      "entity": "Boyne",
+      "type": "place"
+    },
+    {
+      "entity": "Erne",
+      "type": "place"
+    },
+    {
+      "entity": "hazel nuts",
+      "type": "artifact"
+    },
+    {
+      "entity": "Finneces",
+      "type": "character"
+    },
+    {
+      "entity": "Fionn mac Cumhaill",
+      "type": "hero"
+    },
+    {
+      "entity": "wisdom",
+      "type": "concept"
+    }
+  ],
+  "sources": [
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+  ],
+  "cyphertext": "ewgmdVLxrhCVo0PFpgWgVNq5mT0jipLLIvYqsUJK329Z-qzc5oKmSr-pbklGLRDPx4FcGrNrj2O57EZFE3Y6qTGTHNUalTzzz5BBsA9yf9FcSJnMWuvNfRejTEChiOt0kV0VMtGMn5edQC-8SVxSq7lprs8ivhaY7IyFd5v_IDmAtmpYj2Cmv3fVw4JASGvH_rLvKCaGPoqsIl8naBaQVHrXDPf9V0UdFyy6r3dTYBsJtUN_VvnEZMTZcbIAvqF7ms2jPTVttg4jmilSnaJrPluAMdLFRUZh1EOndi6OOH9dd71qQMeIIaLUShSbbkKoJiE72kFOgTvV7KRfgQsU9U8Y-eNGsK6YsmcHgEac1WHmWCJD7nd4R6sXUAfa6uOxdHPkGymKWrkc-ldztItPY406yCl1x9DEgt1cSIwduKEAxWLweWBqV8Qp3NOWSzntK5pXdqGbJ-9xvWV6HiUpta7_u9fGxx0Qw9ScRGRul1fwjI4hAr49jLpfFGu1jUceFwx4sFvC_1zsrIHwSQPHCswQ_TNEem23Jr-kkuOqLnw7VvO85XIY4_uVbLFu3pncMW6zxLdHi60qfqHQS2M=",
+  "salt": "i5-ptRFtQs_yLTLu15hS4A==",
+  "text": "Fintan the salmon was also called Goll Essa Ruaid. The name means the one-eyed one of the red waterfall. He swam in a pool at the source of an Irish river. The river was either the Boyne or the Erne. He nibbled the hazel nuts that dropped from magical bushes. The druid Finneces caught him. The hero Fionn mac Cumhaill ate him by accident. Fionn then gained immense wisdom.",
+  "okr": {
+    "objective": "Fintan the salmon carries the wisdom that Fionn mac Cumhaill consumed.",
+    "key_results": [
+      "Fintan the salmon is also called Goll Essa Ruaid.",
+      "He swam at the source of the Boyne or the Erne.",
+      "He ate hazel nuts from magical bushes.",
+      "Fionn mac Cumhaill gained wisdom by eating him."
     ],
-    "entities": [
-        {
-            "entity": "Fintan the salmon",
-            "type": "character"
-        },
-        {
-            "entity": "Goll Essa Ruaid",
-            "type": "nickname"
-        },
-        {
-            "entity": "Ireland",
-            "type": "location"
-        },
-        {
-            "entity": "Boyne",
-            "type": "river"
-        },
-        {
-            "entity": "Erne",
-            "type": "river"
-        },
-        {
-            "entity": "Hazel nuts",
-            "type": "object"
-        },
-        {
-            "entity": "magical bushes",
-            "type": "object"
-        },
-        {
-            "entity": "Druid Finn\u00e9ces",
-            "type": "character"
-        },
-        {
-            "entity": "Fionn Mac Cumhaill",
-            "type": "character"
-        },
-        {
-            "entity": "Wisdom",
-            "type": "attribute"
-        }
-    ],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "cyphertext": "ewgmdVLxrhCVo0PFpgWgVNq5mT0jipLLIvYqsUJK329Z-qzc5oKmSr-pbklGLRDPx4FcGrNrj2O57EZFE3Y6qTGTHNUalTzzz5BBsA9yf9FcSJnMWuvNfRejTEChiOt0kV0VMtGMn5edQC-8SVxSq7lprs8ivhaY7IyFd5v_IDmAtmpYj2Cmv3fVw4JASGvH_rLvKCaGPoqsIl8naBaQVHrXDPf9V0UdFyy6r3dTYBsJtUN_VvnEZMTZcbIAvqF7ms2jPTVttg4jmilSnaJrPluAMdLFRUZh1EOndi6OOH9dd71qQMeIIaLUShSbbkKoJiE72kFOgTvV7KRfgQsU9U8Y-eNGsK6YsmcHgEac1WHmWCJD7nd4R6sXUAfa6uOxdHPkGymKWrkc-ldztItPY406yCl1x9DEgt1cSIwduKEAxWLweWBqV8Qp3NOWSzntK5pXdqGbJ-9xvWV6HiUpta7_u9fGxx0Qw9ScRGRul1fwjI4hAr49jLpfFGu1jUceFwx4sFvC_1zsrIHwSQPHCswQ_TNEem23Jr-kkuOqLnw7VvO85XIY4_uVbLFu3pncMW6zxLdHi60qfqHQS2M=",
-    "salt": "i5-ptRFtQs_yLTLu15hS4A==",
-    "text": "Fintan, the salmon named Goll Essa Ruaid or \"the one-eyed one of the red waterfall\", lived in a pool at the beginning of one of Ireland's rivers, which could be either the Boyne or the Erne. He fed on the enchanted Hazel nuts that fell from the bushes near the water. Fintan was captured by the Druid Finn\u00e9ces and was eaten unintentionally by the renowned hero Fionn Mac Cumhaill. This event led to Fionn gaining immense wisdom."
+    "evidence": "Monaghan, Encyclopedia of Celtic Mythology and Folklore"
+  }
 }

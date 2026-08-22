@@ -1,25 +1,99 @@
 {
-    "name": "Fintan",
-    "entities": [
-        {
-            "entity": "Fintan",
-            "type": "Irish hero or god"
-        },
-        {
-            "entity": "the white ancient",
-            "type": "meaning of the name"
-        }
+  "name": "Fintan",
+  "entities": [
+    {
+      "entity": "Fintan",
+      "type": "mythological figure"
+    },
+    {
+      "entity": "eagle",
+      "type": "animal"
+    },
+    {
+      "entity": "Henwen",
+      "type": "mythological creature"
+    },
+    {
+      "entity": "Lleu Llaw Gyffes",
+      "type": "hero"
+    },
+    {
+      "entity": "oracle",
+      "type": "concept"
+    },
+    {
+      "entity": "omen",
+      "type": "concept"
+    },
+    {
+      "entity": "magician",
+      "type": "person"
+    },
+    {
+      "entity": "bard",
+      "type": "person"
+    },
+    {
+      "entity": "Wales",
+      "type": "location"
+    },
+    {
+      "entity": "Mount Snowdon",
+      "type": "place"
+    },
+    {
+      "entity": "wolves",
+      "type": "animal"
+    },
+    {
+      "entity": "bees",
+      "type": "animal"
+    }
+  ],
+  "sources": [
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+  ],
+  "attributes": [
+    {
+      "entity": "Fintan",
+      "attribute": "shape-shifting ancient invader"
+    },
+    {
+      "entity": "eagle",
+      "attribute": "one of his many forms"
+    },
+    {
+      "entity": "Henwen",
+      "attribute": "magical pig of British legend"
+    },
+    {
+      "entity": "Lleu Llaw Gyffes",
+      "attribute": "changed into an eagle"
+    },
+    {
+      "entity": "eagle",
+      "attribute": "associated with oracles and omens"
+    },
+    {
+      "entity": "Mount Snowdon",
+      "attribute": "home of oracular eagles"
+    },
+    {
+      "entity": "eagle flesh",
+      "attribute": "gave psychic powers to descendants"
+    }
+  ],
+  "cyphertext": "FApYOWNvxGVIrSOaniGzV82NrL00qOVXpCqCtrgV-tL9fGjIYw2n2-7pb0Q5qgbIWslp6UrCWCjCr_T4IOdXYOUn7lHh_dboq3dB1Pk6GibC0JfnHesW7qyxQkRu8nfUsUrceXQwlgI2OZOUrS2YXBSwOtWuXMRHxpDDV_U6WCSL0MpeTnPo0Mts8mCpSfnnRHkOywCx9hIjrjUjjm5VClXzyRI=",
+  "salt": "XC0NUhp4_XC9TBcKtfm8Xw==",
+  "text": "Fintan was an ancient invader who could change form, and one of his shapes was the eagle. In British legend the magical pig Henwen brought forth eaglets, bees, and wolves. The hero Lleu Llaw Gyffes of Wales entered the eagle's form after his wife killed him. The bird was tied to oracles, and its arrival could be read as a sign of what lay ahead. A shape-shifting magician or a bard might wear the eagle's shape. In Welsh folklore the eagles of Mount Snowdon were oracular and could manage the weather. People were thought to gain psychic powers if their forebears had dined on eagle, and that gift reached the ninth generation.",
+  "okr": {
+    "objective": "Fintan is an ancient shape-shifter who took the form of an eagle.",
+    "key_results": [
+      "Fintan changed into many forms, including an eagle.",
+      "The magical pig Henwen gave birth to eaglets, bees, and wolves.",
+      "Lleu Llaw Gyffes took the eagle's form after his murder.",
+      "The eagles of Mount Snowdon were thought to be oracular."
     ],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "attributes": [
-        {
-            "entity": "Fintan",
-            "attribute": "important mythological figure"
-        }
-    ],
-    "cyphertext": "FApYOWNvxGVIrSOaniGzV82NrL00qOVXpCqCtrgV-tL9fGjIYw2n2-7pb0Q5qgbIWslp6UrCWCjCr_T4IOdXYOUn7lHh_dboq3dB1Pk6GibC0JfnHesW7qyxQkRu8nfUsUrceXQwlgI2OZOUrS2YXBSwOtWuXMRHxpDDV_U6WCSL0MpeTnPo0Mts8mCpSfnnRHkOywCx9hIjrjUjjm5VClXzyRI=",
-    "salt": "XC0NUhp4_XC9TBcKtfm8Xw==",
-    "text": "A figure of great significance in Irish mythology is Fintan, who embodies either the qualities of a hero or a god. The name Fintan holds the interpretation of \"The white ancient\" and has been associated with multiple noteworthy mythological characters."
+    "evidence": "Monaghan, Encyclopedia of Celtic Mythology and Folklore"
+  }
 }

@@ -1,18 +1,34 @@
 {
-    "name": "Fir Domnann",
-    "attributes": {},
-    "entities": [
-        {
-            "text": "Fir Domnann"
-        },
-        {
-            "text": "Fir Bolg"
-        }
+  "name": "Fir Domnann",
+  "attributes": [
+    {
+      "entity": "Fir Domnann",
+      "attribute": "another name for the Fir Bolg"
+    }
+  ],
+  "entities": [
+    {
+      "entity": "Fir Domnann",
+      "type": "group"
+    },
+    {
+      "entity": "Fir Bolg",
+      "type": "group"
+    }
+  ],
+  "sources": [
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+  ],
+  "cyphertext": "DeLGU55PebnSbADEclYXPoqGihC-qIt1Xdj_Q7jfv2zeidInDC9KV8adIaNPRVm-x7r83nVc",
+  "salt": "CotggfSomoglI6ZWBGT-FQ==",
+  "text": "Fir Domnann is a tribal name in Irish myth. The term points to the Fir Bolg. For the full account of this people, see the entry on the Fir Bolg. ",
+  "okr": {
+    "objective": "Fir Domnann is a cross-reference to the Fir Bolg.",
+    "key_results": [
+      "Fir Domnann is a tribal name in Irish myth.",
+      "The term points to the Fir Bolg.",
+      "See the entry on the Fir Bolg for the full account."
     ],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "cyphertext": "DeLGU55PebnSbADEclYXPoqGihC-qIt1Xdj_Q7jfv2zeidInDC9KV8adIaNPRVm-x7r83nVc",
-    "salt": "CotggfSomoglI6ZWBGT-FQ==",
-    "text": "Fir Domnann See Fir Bolg."
+    "evidence": "Monaghan, Encyclopedia of Celtic Mythology and Folklore"
+  }
 }

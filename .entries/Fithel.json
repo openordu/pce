@@ -1,73 +1,59 @@
 {
-    "name": "Fithel",
-    "attributes": [
-        {
-            "entity": "Fithel",
-            "attribute": "Irish hero"
-        },
-        {
-            "entity": "F\u00edtheal",
-            "attribute": "wise judge or Brehon of Irish tradition"
-        },
-        {
-            "entity": "F\u00edothal",
-            "attribute": "N/A"
-        },
-        {
-            "entity": "Fithil",
-            "attribute": "N/A"
-        },
-        {
-            "entity": "Fianna",
-            "attribute": "warrior band"
-        },
-        {
-            "entity": "Fionn Mac Cumhaill",
-            "attribute": "brother of Fithel"
-        },
-        {
-            "entity": "CORMac Mac Airt",
-            "attribute": "king"
-        },
-        {
-            "entity": "Tara",
-            "attribute": "location"
-        }
+  "name": "Fithel",
+  "attributes": [
+    {
+      "entity": "Fithel",
+      "attribute": "an Irish hero and a wise judge"
+    },
+    {
+      "entity": "Fithel",
+      "attribute": "settled the quarrels of the Fianna"
+    },
+    {
+      "entity": "Fionn Mac Cumhaill",
+      "attribute": "brother of Fithel"
+    },
+    {
+      "entity": "Fithel",
+      "attribute": "served king Cormac Mac Airt at Tara"
+    }
+  ],
+  "entities": [
+    {
+      "entity": "Fithel",
+      "type": "hero"
+    },
+    {
+      "entity": "Fianna",
+      "type": "group"
+    },
+    {
+      "entity": "Fionn Mac Cumhaill",
+      "type": "hero"
+    },
+    {
+      "entity": "Cormac Mac Airt",
+      "type": "character"
+    },
+    {
+      "entity": "Tara",
+      "type": "place"
+    }
+  ],
+  "sources": [
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+  ],
+  "cyphertext": "RMOrHLmtVSBbcAlzQ_zA2cxLjEseKZlQv4hfRiiDJKGRPHrenQy2wrHVVCx86pcMYkPeOEkfptBzr0Yxft8BqBlu9LIJDzrJ2KVOjjYsM4jf-pROQcB211FA9Wyvm-_GqHNXLUUwGRRjlIynk2-12gfTcASdpZfuvTqCGbvwOgsxPlGEnD4oYhdS-Mq8pniSC1CEWqYbM1ZYpucnzqalu-sQ8Ywwv-Pvo0uVSFRWIsefq-LNpvSoXCXpvJ7ISACOvtx9aBeu3dKbFxX44rv2Acrh5nXNJE4DdRlErguGCe1h2V_DwWQgX88wu7ZulYn5PC3GxIoDKRy3alUYbLeOQAec3MYjU0H8kpSa-AXZQMlTUCKS8zi9eu-ehGitlK_Tf1DU6-2sS4JP",
+  "salt": "mUwerc-lx3dXyKPVPOemiQ==",
+  "text": "Fithel also appears as Fitheal, Fiothal, and Fithil. Irish tradition calls him a hero and a wise judge, a Brehon. He settled the quarrels of the Fianna, the warriors who followed his brother Fionn Mac Cumhaill. Later he left that band to give counsel to Cormac Mac Airt, king of Tara.",
+  "okr": {
+    "objective": "Fithel is the Irish hero and Brehon who judged the quarrels of the Fianna.",
+    "key_results": [
+      "Fithel appears under the names Fitheal, Fiothal, and Fithil.",
+      "He was a wise judge, a Brehon of the old tradition.",
+      "He settled the quarrels of the Fianna.",
+      "He later served king Cormac Mac Airt at Tara."
     ],
-    "entities": [
-        {
-            "entity": "Fithel",
-            "type": "Irish hero"
-        },
-        {
-            "entity": "Brehon",
-            "type": "profession"
-        },
-        {
-            "entity": "Irish tradition",
-            "type": "culture"
-        },
-        {
-            "entity": "Fianna",
-            "type": "warrior band"
-        },
-        {
-            "entity": "Fionn Mac Cumhaill",
-            "type": "person"
-        },
-        {
-            "entity": "CORMac Mac Airt",
-            "type": "king"
-        },
-        {
-            "entity": "Tara",
-            "type": "location"
-        }
-    ],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "cyphertext": "RMOrHLmtVSBbcAlzQ_zA2cxLjEseKZlQv4hfRiiDJKGRPHrenQy2wrHVVCx86pcMYkPeOEkfptBzr0Yxft8BqBlu9LIJDzrJ2KVOjjYsM4jf-pROQcB211FA9Wyvm-_GqHNXLUUwGRRjlIynk2-12gfTcASdpZfuvTqCGbvwOgsxPlGEnD4oYhdS-Mq8pniSC1CEWqYbM1ZYpucnzqalu-sQ8Ywwv-Pvo0uVSFRWIsefq-LNpvSoXCXpvJ7ISACOvtx9aBeu3dKbFxX44rv2Acrh5nXNJE4DdRlErguGCe1h2V_DwWQgX88wu7ZulYn5PC3GxIoDKRy3alUYbLeOQAec3MYjU0H8kpSa-AXZQMlTUCKS8zi9eu-ehGitlK_Tf1DU6-2sS4JP",
-    "salt": "mUwerc-lx3dXyKPVPOemiQ==",
-    "text": "Irish hero Fithel (also known as F\u00edtheal, F\u00edothal, and Fithil) had a crucial role in Irish tradition as a knowledgeable judge or Brehon. Fithel was responsible for resolving the conflicts of the Fianna, a group of warriors who served his brother Fionn Mac Cumhaill. Later on, Fithel left to serve King Cormac Mac Airt at Tara."
+    "evidence": "Monaghan, Encyclopedia of Celtic Mythology and Folklore"
+  }
 }

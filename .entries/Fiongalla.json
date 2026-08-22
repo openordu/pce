@@ -1,77 +1,79 @@
 {
-    "name": "Fiongalla",
-    "entities": [
-        {
-            "entity": "Fiongalla",
-            "type": "Irish heroine"
-        },
-        {
-            "entity": "Munster",
-            "type": "Province"
-        },
-        {
-            "entity": "Amerach",
-            "type": "Druid"
-        },
-        {
-            "entity": "Ulster",
-            "type": "Place"
-        },
-        {
-            "entity": "Yew berries",
-            "type": "Magical item"
-        },
-        {
-            "entity": "Holly boughs",
-            "type": "Magical item"
-        },
-        {
-            "entity": "marigolds",
-            "type": "Magical item"
-        },
-        {
-            "entity": "Feargal",
-            "type": "Hero"
-        }
+  "name": "Fiongalla",
+  "entities": [
+    {
+      "entity": "Fiongalla",
+      "type": "hero"
+    },
+    {
+      "entity": "Munster",
+      "type": "place"
+    },
+    {
+      "entity": "Amerach",
+      "type": "character"
+    },
+    {
+      "entity": "Ulster",
+      "type": "place"
+    },
+    {
+      "entity": "yew berries",
+      "type": "artifact"
+    },
+    {
+      "entity": "holly boughs",
+      "type": "artifact"
+    },
+    {
+      "entity": "marigolds",
+      "type": "artifact"
+    },
+    {
+      "entity": "Feargal",
+      "type": "hero"
+    }
+  ],
+  "sources": [
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+  ],
+  "attributes": [
+    {
+      "entity": "Fiongalla",
+      "attribute": "Irish heroine"
+    },
+    {
+      "entity": "Munster",
+      "attribute": "province linked with her"
+    },
+    {
+      "entity": "Amerach",
+      "attribute": "powerful woman druid of Ulster"
+    },
+    {
+      "entity": "Amerach",
+      "attribute": "ageless"
+    },
+    {
+      "entity": "Fiongalla",
+      "attribute": "vowed not to sleep with a man"
+    },
+    {
+      "entity": "Feargal",
+      "attribute": "completed the near-impossible task"
+    }
+  ],
+  "cyphertext": "3ePn2OOI76eSv546hc9YGwHvaCZkxBXZvuHhsQqPQrPzOzvnkdWVOIPwGxEHEsXtV6nTbeR5Yj1F2LtnuMOjdksSwM5if47wUAon7cSivUb2xNLq3qVRNVkhI6qrfJohkfwxTUbRCSwXorioghY5KbgFzTWzoJxlOmDyq5rJTBzBNTOuvjGmQTITYFUR3lPa5GfKtGOyRqc_ablTTUKr15NBtgRItPEgAbRf7ak8oKdzXa9_kltQJk5N-jGgkxF0MKKlXRDX4xWBLKOaMEBHiVSDr2xzqrDThFYzweReriHHpwW-6mPrwUh7NH7BbSI2ZXKCJPg69OM2C0LgKqnSNlQ596n15gz3CfJ7msKBX8Sab4ERKJZRGYo_It89moHpOmWDCbmZpKn5HVsLl6zyZr3qb1FBBjaPM4Kg5zXF_NeuJr0SZY-B2-PuvoLpsYfyLwAlgZAzK1L9KMouqY6tm85gBwxRdWDsf2fldtAJB-Z6vPR2SLbP7DlcTw1srd9m8x581Q0xbzreVWLuHWcahpJc7U5bXV4oJXGBIFf3sGkn7Ww-jQ_v8aMreJ9vB2QTJRCTkcxZ_qAyxe_-k2Zkl_YyXpgtNFJCH39g22X1AsrgTJm23rlRGF4R2cRw749m1RRsNTvtRFONa-ff",
+  "salt": "5nNAQUB8SvMxKZrmWsUVhw==",
+  "text": "Fiongalla is an obscure Irish heroine linked with the province of Munster. The powerful woman druid Amerach came from Ulster, and she did not age as the years passed. She bewitched Fiongalla, the fair-cheeked one, and made her swear that she would not lie with any man until one delivered yew berries, holly boughs, plus marigolds. The hero Feargal performed this difficult task, and then Amerach's hold on Fiongalla was gone.",
+  "okr": {
+    "objective": "Fiongalla is a Munster heroine freed from a druid's spell.",
+    "key_results": [
+      "Fiongalla is an Irish heroine linked with Munster.",
+      "The druid Amerach bewitched her and stayed ageless.",
+      "Amerach made her vow to remain celibate until a task was done.",
+      "The hero Feargal freed her by gathering three magical plants."
     ],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "attributes": [
-        {
-            "entity": "Fiongalla",
-            "attribute": "Irish heroine"
-        },
-        {
-            "entity": "Munster",
-            "attribute": "southwestern Province"
-        },
-        {
-            "entity": "Amerach",
-            "attribute": "powerful woman Druid"
-        },
-        {
-            "entity": "Ulster",
-            "attribute": "connected with"
-        },
-        {
-            "entity": "Yew berries",
-            "attribute": "magical"
-        },
-        {
-            "entity": "Holly boughs",
-            "attribute": "magical"
-        },
-        {
-            "entity": "marigolds",
-            "attribute": "magical"
-        },
-        {
-            "entity": "Feargal",
-            "attribute": "hero named"
-        }
-    ],
-    "cyphertext": "3ePn2OOI76eSv546hc9YGwHvaCZkxBXZvuHhsQqPQrPzOzvnkdWVOIPwGxEHEsXtV6nTbeR5Yj1F2LtnuMOjdksSwM5if47wUAon7cSivUb2xNLq3qVRNVkhI6qrfJohkfwxTUbRCSwXorioghY5KbgFzTWzoJxlOmDyq5rJTBzBNTOuvjGmQTITYFUR3lPa5GfKtGOyRqc_ablTTUKr15NBtgRItPEgAbRf7ak8oKdzXa9_kltQJk5N-jGgkxF0MKKlXRDX4xWBLKOaMEBHiVSDr2xzqrDThFYzweReriHHpwW-6mPrwUh7NH7BbSI2ZXKCJPg69OM2C0LgKqnSNlQ596n15gz3CfJ7msKBX8Sab4ERKJZRGYo_It89moHpOmWDCbmZpKn5HVsLl6zyZr3qb1FBBjaPM4Kg5zXF_NeuJr0SZY-B2-PuvoLpsYfyLwAlgZAzK1L9KMouqY6tm85gBwxRdWDsf2fldtAJB-Z6vPR2SLbP7DlcTw1srd9m8x581Q0xbzreVWLuHWcahpJc7U5bXV4oJXGBIFf3sGkn7Ww-jQ_v8aMreJ9vB2QTJRCTkcxZ_qAyxe_-k2Zkl_YyXpgtNFJCH39g22X1AsrgTJm23rlRGF4R2cRw749m1RRsNTvtRFONa-ff",
-    "salt": "5nNAQUB8SvMxKZrmWsUVhw==",
-    "text": "Obscure and mysterious, Fiongalla is a heroic figure in Irish lore. Hailing from the southwest province of Munster, she was bewitched by the powerful Druid Amerach from Ulster, a woman who defied the years and remained ageless. Amerach demanded that Fiongalla vow to never lie with a man until she received the magical Yew berries, Holly boughs, and marigolds. Only when the task was completed by the hero Feargal did Amerach lose her hold over Fiongalla."
+    "evidence": "Monaghan, Encyclopedia of Celtic Mythology and Folklore"
+  }
 }

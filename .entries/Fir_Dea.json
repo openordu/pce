@@ -1,11 +1,34 @@
 {
-    "name": "Fir Dea",
-    "attributes": {},
-    "entities": [],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+  "name": "Fir Dea",
+  "attributes": [
+    {
+      "entity": "Fir Dea",
+      "attribute": "another name for the Tuatha De Danann"
+    }
+  ],
+  "entities": [
+    {
+      "entity": "Fir Dea",
+      "type": "group"
+    },
+    {
+      "entity": "Tuatha De Danann",
+      "type": "group"
+    }
+  ],
+  "sources": [
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+  ],
+  "cyphertext": "06OIDxA9jJI1y9GYhdjsAE-m3BdiR-hMW6lderXH7MATrzgeJVxH5sfzVmJL-52NpBCSIeR9vSgk1hY=",
+  "salt": "7YW2IjoLCxmqY62eR_G3PA==",
+  "text": "Fir Dea is an Irish name for a mythical people. The term points to the Tuatha De Danann. For the full account of this race, see the entry on the Tuatha De Danann. ",
+  "okr": {
+    "objective": "Fir Dea is a cross-reference to the Tuatha De Danann.",
+    "key_results": [
+      "Fir Dea is an Irish name for a mythical people.",
+      "The term points to the Tuatha De Danann.",
+      "See the entry on the Tuatha De Danann for the full account."
     ],
-    "cyphertext": "06OIDxA9jJI1y9GYhdjsAE-m3BdiR-hMW6lderXH7MATrzgeJVxH5sfzVmJL-52NpBCSIeR9vSgk1hY=",
-    "salt": "7YW2IjoLCxmqY62eR_G3PA==",
-    "text": "Fir Dea See Tuatha D\u00e9 Danann."
+    "evidence": "Monaghan, Encyclopedia of Celtic Mythology and Folklore"
+  }
 }

@@ -1,73 +1,71 @@
 {
-    "name": "Flann",
-    "entities": [
-        {
-            "entity": "Flann",
-            "type": "Irish hero"
-        },
-        {
-            "entity": "Irish mythology",
-            "type": "mythology"
-        },
-        {
-            "entity": "Flann mac D\u00edma",
-            "type": "Irish mythological figure"
-        },
-        {
-            "entity": "Mugain",
-            "type": "wife of Diarmait mac Cerbaill"
-        },
-        {
-            "entity": "Diarmait mac Cerbaill",
-            "type": "Irish mythological figure"
-        },
-        {
-            "entity": "Flann ua Fedach",
-            "type": "Irish mythological figure"
-        },
-        {
-            "entity": "Fairy King",
-            "type": "mythological creature"
-        },
-        {
-            "entity": "queen of Tara",
-            "type": "royalty"
-        }
+  "name": "Flann",
+  "entities": [
+    {
+      "entity": "Flann",
+      "type": "hero"
+    },
+    {
+      "entity": "Flann mac Dima",
+      "type": "character"
+    },
+    {
+      "entity": "Mugain",
+      "type": "character"
+    },
+    {
+      "entity": "Diarmait mac Cerbaill",
+      "type": "character"
+    },
+    {
+      "entity": "Flann ua Fedach",
+      "type": "character"
+    },
+    {
+      "entity": "Becfhola",
+      "type": "character"
+    },
+    {
+      "entity": "Tara",
+      "type": "place"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Flann",
+      "attribute": "an Irish hero whose name means blood-red"
+    },
+    {
+      "entity": "Flann mac Dima",
+      "attribute": "lover of Mugain, wife of Diarmait mac Cerbaill"
+    },
+    {
+      "entity": "Diarmait mac Cerbaill",
+      "attribute": "burned Flann's house and made him drown"
+    },
+    {
+      "entity": "Flann ua Fedach",
+      "attribute": "the Fairy King who eloped with Becfhola"
+    },
+    {
+      "entity": "Becfhola",
+      "attribute": "queen of Tara"
+    }
+  ],
+  "sources": [
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+  ],
+  "cyphertext": "6esVCzS1wY7GA2HZ-dtRKgNqCK75-ONpifAL1J-LzrqebHwMJb_cxFixSFL16OWsiKz_IVRIP1TXyyP7d4FOP2zVTn1178vBmllOLTzHOJpPcXM3J9DNt6CUjgJuDSBOPB901c6zDVB00S1QspeTyJrSVv3AKAi23PlOSEzZZ44Q8B26Zfwrdd1nk5KhFBe7ocUBrKYxcQjv-XQTBHXfKlWr9VJcwdu0mf0_3jZ1X9wa79NPF6uQYvxuS1pEry-k9U3xd8crkJ87Onr_WeLFDF2kryk0bxby24UVmkBZmTilji6Mv1t2X-jLyVmBq4fVSGGdA0AXK5bMR4K34cbqxiBgehxPOuLVm7VxdNo9GVDmQfSzzUK0WP3N6U-heSx_PAyMXaJ4NnHnIwoaA0uVHAxFKcwXD4lYxn0UUC-XU3SU994PHAiHExe3GJpM-rJGcarOj53KxCzXLCQXKbToIMEsBCAwA1aKJmr9wVDVDqa2Mi6R94frutax84ALp6TI41MaTaHIq1UetFDahVfuwjt1NGmE7VBfpHZX9_91OaRff63JjTggjbB4dRDQtqUVSCZLOxL0ezlvlnHt9wvFTSNXLEqYXnVuS3Njkw==",
+  "salt": "CuIjdOcHVWjBDdNWSPDrAQ==",
+  "text": "Flann is an Irish hero, and the name means blood-red. Several minor mythic figures carry the name. Two of them stand out, and both are famed lovers. They may be two forms of one man. Flann mac Dima loved Mugain, the wife of Diarmait mac Cerbaill. Diarmait burned down Flann's house and made him drown. That deed drew a curse onto Diarmait. Flann ua Fedach is the other figure. This Fairy King ran off with Becfhola, the queen of Tara.",
+  "okr": {
+    "objective": "Flann is the name of several famed Irish lovers in the old tales.",
+    "key_results": [
+      "Flann is an Irish hero, and his name means blood-red.",
+      "Flann mac Dima loved Mugain, the wife of Diarmait mac Cerbaill.",
+      "Diarmait burned Flann's house and made him drown.",
+      "Flann ua Fedach, the Fairy King, eloped with Becfhola of Tara."
     ],
-    "attributes": [
-        {
-            "entity": "Flann mac D\u00edma",
-            "attribute": "lover of Mugain"
-        },
-        {
-            "entity": "Diarmait mac Cerbaill",
-            "attribute": "husband of Mugain"
-        },
-        {
-            "entity": "Flann mac D\u00edma",
-            "attribute": "had his house burned down by Diarmait mac Cerbaill"
-        },
-        {
-            "entity": "Flann mac D\u00edma",
-            "attribute": "drowned as a result of Diarmait mac Cerbaill's actions"
-        },
-        {
-            "entity": "Flann ua Fedach",
-            "attribute": "Fairy King"
-        },
-        {
-            "entity": "Becfhola",
-            "attribute": "queen of Tara"
-        },
-        {
-            "entity": "Flann ua Fedach",
-            "attribute": "eloped with Becfhola"
-        }
-    ],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "cyphertext": "6esVCzS1wY7GA2HZ-dtRKgNqCK75-ONpifAL1J-LzrqebHwMJb_cxFixSFL16OWsiKz_IVRIP1TXyyP7d4FOP2zVTn1178vBmllOLTzHOJpPcXM3J9DNt6CUjgJuDSBOPB901c6zDVB00S1QspeTyJrSVv3AKAi23PlOSEzZZ44Q8B26Zfwrdd1nk5KhFBe7ocUBrKYxcQjv-XQTBHXfKlWr9VJcwdu0mf0_3jZ1X9wa79NPF6uQYvxuS1pEry-k9U3xd8crkJ87Onr_WeLFDF2kryk0bxby24UVmkBZmTilji6Mv1t2X-jLyVmBq4fVSGGdA0AXK5bMR4K34cbqxiBgehxPOuLVm7VxdNo9GVDmQfSzzUK0WP3N6U-heSx_PAyMXaJ4NnHnIwoaA0uVHAxFKcwXD4lYxn0UUC-XU3SU994PHAiHExe3GJpM-rJGcarOj53KxCzXLCQXKbToIMEsBCAwA1aKJmr9wVDVDqa2Mi6R94frutax84ALp6TI41MaTaHIq1UetFDahVfuwjt1NGmE7VBfpHZX9_91OaRff63JjTggjbB4dRDQtqUVSCZLOxL0ezlvlnHt9wvFTSNXLEqYXnVuS3Njkw==",
-    "salt": "CuIjdOcHVWjBDdNWSPDrAQ==",
-    "text": "Irish mythology boasts of Flann, an Irish hero who is mentioned in connection to multiple minor figures. The name Flann denotes the color \u201cblood-red.\u201d Two principal personas linked to this name stand out owing to their fame as lovers: Flann mac D\u00edma, who was in love with Mugain, wife of Diarmait mac Cerbaill. Unfortunately, Diarmait ended up causing a curse on himself following the incineration of Flann\u2019s abode, leading to Flann\u2019s drowning. The other figure is Flann ua Fedach, also known as the Fairy King, who eloped with Becfhola, queen of Tara."
+    "evidence": "Monaghan, Encyclopedia of Celtic Mythology and Folklore"
+  }
 }

@@ -1,14 +1,41 @@
 {
-    "name": "Flaith",
-    "attributes": {},
-    "entities": [],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+  "name": "Flaith",
+  "attributes": [
+    {
+      "entity": "Flaith",
+      "attribute": "the Irish name for the goddesses of sovereignty"
+    },
+    {
+      "entity": "Sovereignty",
+      "attribute": "has its full account under its own entry"
+    }
+  ],
+  "entities": [
+    {
+      "entity": "Flaith",
+      "type": "god"
+    },
+    {
+      "entity": "Sovereignty",
+      "type": "concept"
+    }
+  ],
+  "sources": [
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+  ],
+  "cyphertext": "R79daYzWB82Ysdz9zVnftpRpZE0dy3ZdS8-9MZkdAXG6vxiPkeiCg3djwPTsSEq1nCllrqpeWhA1cKqIdAwhpQ==",
+  "salt": "RXMlPKVNmAcguIKJwHRxMQ==",
+  "text": "Flaith, written Flaithius as well, is the name the Irish used for the goddesses of sovereignty. The full account of this figure stands in the entry on Sovereignty.",
+  "okr": {
+    "objective": "Flaith is a cross-reference to the goddesses of sovereignty.",
+    "key_results": [
+      "Flaith also appears as Flaithius.",
+      "The name points to the goddesses of sovereignty.",
+      "The full account stands under the entry Sovereignty."
     ],
-    "image": [
-        "https://upload.wikimedia.org/wikipedia/commons/0/0d/Sign_for_Prince_Connell%27s_Grave_-_geograph.org.uk_-_1119118.jpg"
-    ],
-    "cyphertext": "R79daYzWB82Ysdz9zVnftpRpZE0dy3ZdS8-9MZkdAXG6vxiPkeiCg3djwPTsSEq1nCllrqpeWhA1cKqIdAwhpQ==",
-    "salt": "RXMlPKVNmAcguIKJwHRxMQ==",
-    "text": "Flaith (Flaithius) See Sovereignty."
+    "evidence": "Monaghan, Encyclopedia of Celtic Mythology and Folklore"
+  },
+  "image": [
+    "https://upload.wikimedia.org/wikipedia/commons/0/0d/Sign_for_Prince_Connell%27s_Grave_-_geograph.org.uk_-_1119118.jpg"
+  ]
 }
