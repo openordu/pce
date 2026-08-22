@@ -1,21 +1,56 @@
 {
-    "name": "Dinny-Mara",
-    "attributes": {},
-    "entities": [
-        {
-            "text": "Dinny-Mara"
-        },
-        {
-            "text": "Dooinney Marrey"
-        },
-        {
-            "text": "Dunya Mara"
-        }
-    ],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "cyphertext": "029RKrhmwiMftISemKuaIqi_4gobBJOT3fA5oi2NMYm5nDuNiIycd4j2xNevFzqCPTJ2bUL-qlXiW97MImi2UWcYTBXkngUv7oTr2rqOBLn-",
-    "salt": "nN7iJEdiOwe7Q8TdEEaGyg==",
-    "text": "Dinny-Mara (Dooinney Marrey, Dunya Mara) See Merman."
+  "name": "Dinny-Mara",
+  "attributes": [
+    {
+      "entity": "Dinny-Mara",
+      "attribute": "an Irish and Scottish male half-fish fairy"
+    },
+    {
+      "entity": "Wild Man of Oxford",
+      "attribute": "a merman captured alive in the reign of King John of England"
+    },
+    {
+      "entity": "Dinny-Mara",
+      "attribute": "had piggy eyes and a red nose from brandy saved from wrecks"
+    },
+    {
+      "entity": "Holinshed",
+      "attribute": "an early British historian who recorded the captured merman"
+    }
+  ],
+  "entities": [
+    {
+      "entity": "Dinny-Mara",
+      "type": "folkloric figure"
+    },
+    {
+      "entity": "Dooinney Marrey",
+      "type": "folkloric figure"
+    },
+    {
+      "entity": "Holinshed",
+      "type": "person"
+    },
+    {
+      "entity": "King John",
+      "type": "king"
+    },
+    {
+      "entity": "Wild Man of Oxford",
+      "type": "folkloric figure"
+    }
+  ],
+  "sources": [
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+  ],
+  "cyphertext": "029RKrhmwiMftISemKuaIqi_4gobBJOT3fA5oi2NMYm5nDuNiIycd4j2xNevFzqCPTJ2bUL-qlXiW97MImi2UWcYTBXkngUv7oTr2rqOBLn-",
+  "salt": "nN7iJEdiOwe7Q8TdEEaGyg==",
+  "text": "The Irish and Scottish folkloric figure Dinny-Mara, also called Dooinney Marrey, names a male half-fish fairy of the sea. Most sea fairies were female, but literature records occasional mermen. The merman was rarely attractive. He had piggy eyes and a red nose from drinking brandy saved from wrecked ships. His breath smelled because he ate uncooked fish. The British historian Holinshed reported a merman captured alive in the reign of King John of England. People called him the Wild Man of Oxford, and he did not live long in captivity.",
+  "objective": "Record the male Merman form of Celtic sea fairies as Dinny-Mara.",
+  "key_results": [
+    "Mermen appear only occasionally in Celtic sea folklore",
+    "Holinshed recorded a merman captured in the reign of King John",
+    "The captive was called the Wild Man of Oxford and died soon after"
+  ],
+  "evidence": "Monaghan, The Encyclopedia of Celtic Mythology and Folklore"
 }
