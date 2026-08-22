@@ -1,61 +1,68 @@
 {
-    "name": "Derravaragh",
-    "entities": [
-        {
-            "entity": "Derravaragh",
-            "type": "Location"
-        },
-        {
-            "entity": "Lake Derravaragh",
-            "type": "Location"
-        },
-        {
-            "entity": "Darravaraugh",
-            "type": "Location"
-        },
-        {
-            "entity": "Co. Westmeath",
-            "type": "Location"
-        },
-        {
-            "entity": "Fionnuala",
-            "type": "Person"
-        },
-        {
-            "entity": "Children Of Lir",
-            "type": "Group"
-        },
-        {
-            "entity": "A\u00edfe",
-            "type": "Person"
-        }
-    ],
-    "attributes": [
-        {
-            "entity": "Children Of Lir",
-            "attribute": "brothers of Fionnuala"
-        },
-        {
-            "entity": "Fionnuala",
-            "attribute": "sister of the Children Of Lir"
-        },
-        {
-            "entity": "A\u00edfe",
-            "attribute": "evil stepmother"
-        },
-        {
-            "entity": "Children Of Lir",
-            "attribute": "turned into swans"
-        },
-        {
-            "entity": "Derravaragh",
-            "attribute": "scenic lake"
-        }
-    ],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "cyphertext": "rYfAEYGbuowivG47NLJLwXjlOlFyFRKDtON6Fqp5-2SsNAMU-INqFfz3XMZQOVUKxVX_TRN1T4-JqWwXg-BwDlP3EKftBUDO92OHAdLbSH14IfpGLB8R90OrBCRibCkuUfTWVjrr3jd1b7Tb-6KZWSFopDql-nZUVll-9QDMOiKIe1BFBStkyVn4a7QgtZ-UFmv9E99YjCALKptrZzFN_4G5ba0i95xFMMXJtjjuLC7xa_1dbuzaP8gUrhd_1wb4NlqbKwbEYwHvMB4S3_V7-U_LYpYLFaN-01mj0Ier39geWWlSMacCnzhtmFHl68U7SM6e9OJ2TCx1VNqyyp_Lkrzh",
-    "salt": "lvSVYcyDhYwggAV8LO2vJw==",
-    "text": "Irish folklore speaks of Derravaragh, also known as Lake Derravaragh or Darravaraugh. Located in County Westmeath, this scenic lake is the site where a well-known mythological event took place. According to legend, Fionnuala and her siblings, known as the Children of Lir, were transformed into graceful swans by their wicked stepmother, A\u00edfe, while residing on the lake's shores."
+  "name": "Derravaragh",
+  "entities": [
+    {
+      "entity": "Lake Derravaragh",
+      "type": "Place"
+    },
+    {
+      "entity": "County Westmeath",
+      "type": "Place"
+    },
+    {
+      "entity": "Fionnuala",
+      "type": "Person"
+    },
+    {
+      "entity": "Children of Lir",
+      "type": "group"
+    },
+    {
+      "entity": "Aífe",
+      "type": "Person"
+    },
+    {
+      "entity": "swans",
+      "type": "creature"
+    },
+    {
+      "entity": "Lir",
+      "type": "Person"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Lake Derravaragh",
+      "attribute": "mythological location and scenic lake in County Westmeath"
+    },
+    {
+      "entity": "Aífe",
+      "attribute": "evil stepmother who cursed the Children of Lir"
+    },
+    {
+      "entity": "Children of Lir",
+      "attribute": "turned into swans"
+    },
+    {
+      "entity": "Fionnuala",
+      "attribute": "transformed into a swan on the lake shores"
+    },
+    {
+      "entity": "Lake Derravaragh",
+      "attribute": "home of the transformed swans"
+    }
+  ],
+  "sources": [
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+  ],
+  "cyphertext": "rYfAEYGbuowivG47NLJLwXjlOlFyFRKDtON6Fqp5-2SsNAMU-INqFfz3XMZQOVUKxVX_TRN1T4-JqWwXg-BwDlP3EKftBUDO92OHAdLbSH14IfpGLB8R90OrBCRibCkuUfTWVjrr3jd1b7Tb-6KZWSFopDql-nZUVll-9QDMOiKIe1BFBStkyVn4a7QgtZ-UFmv9E99YjCALKptrZzFN_4G5ba0i95xFMMXJtjjuLC7xa_1dbuzaP8gUrhd_1wb4NlqbKwbEYwHvMB4S3_V7-U_LYpYLFaN-01mj0Ier39geWWlSMacCnzhtmFHl68U7SM6e9OJ2TCx1VNqyyp_Lkrzh",
+  "salt": "lvSVYcyDhYwggAV8LO2vJw==",
+  "text": "Lake Derravaragh is an Irish mythological location. The lake lies in County Westmeath. It is also written Darravaraugh. It is a scenic body of water. On its shores Fionnuala and her brothers suffered a transformation. The brothers were the Children of Lir. Their evil stepmother Aífe worked the curse. Aífe turned the children into swans. The swans took to the lake and its waters. The transformation gave the lake its mythic fame. The Children of Lir became the swans of Derravaragh. The tale is among Ireland's best-known sorrow stories. The lake carries the memory of the curse. It stands as a mythological site in the Irish landscape. Aífe used her magic to bind the children. The swan form made the lake their home. The story places the site firmly in Irish myth.",
+  "objective": "Present Lake Derravaragh as the mythological site of the Children of Lir's transformation.",
+  "key_results": [
+    "Locate the lake in County Westmeath",
+    "Name Fionnuala and her brothers as the Children of Lir",
+    "State that stepmother Aífe turned them into swans",
+    "Link the swan form to the lake's waters"
+  ]
 }
