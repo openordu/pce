@@ -1,33 +1,50 @@
 {
-    "name": "Necthan Sc\u00e9ne",
-    "attributes": [
-        {
-            "entity": "Necthan Sc\u00e9ne",
-            "attribute": "mother of several heroes"
-        },
-        {
-            "entity": "heroes",
-            "attribute": "lost their lives to C\u00fachulainn"
-        }
+  "name": "Necthan Scéne",
+  "attributes": [
+    {
+      "entity": "Necthan Scene",
+      "attribute": "Irish heroine"
+    },
+    {
+      "entity": "Necthan Scene",
+      "attribute": "mother of several heroes"
+    },
+    {
+      "entity": "Cuchulainn",
+      "attribute": "killed the heroes who were sons of Necthan Scene"
+    },
+    {
+      "entity": "Ulster",
+      "attribute": "home of the super-hero Cuchulainn"
+    }
+  ],
+  "entities": [
+    {
+      "entity": "Necthan Scene",
+      "type": "character"
+    },
+    {
+      "entity": "Cuchulainn",
+      "type": "hero"
+    },
+    {
+      "entity": "Ulster",
+      "type": "location"
+    }
+  ],
+  "sources": [
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+  ],
+  "cyphertext": "1WsgpM93m4_0vaejnOfMBa5Eua0ATinHMzUgM7qmsgJVkbmlKCRTekqa9F4ZMXTnWWZsKz7atzvfrywRO4P8qJLvUX2CA8SlBbABb5Wqv7B2H4DAVNGRAqWAjiwBqO_jQSMyT9h98ZtlCCRWSoCZn8-4Rim_ROGIdzK23vrRCWloFv_h4AXyUWd_QLnMZE0xy4ipqQwBx4DlbiNQICEcEytFy2Nz0ljLrlMGNlZlZKo4Kmk=",
+  "salt": "p4K7AAsd9tHia1t52zfrww==",
+  "text": "Necthan Scene is an Irish heroine. She is an obscure figure and the mother of several heroes. Each of those heroes lost his life to the Ulster champion Cuchulainn.",
+  "okr": {
+    "objective": "Necthan Scene is an Irish heroine whose sons died at the hand of Cuchulain.",
+    "key_results": [
+      "Necthan Scene is an Irish heroine.",
+      "She was the mother of several heroes.",
+      "All her sons lost their lives to the Ulster hero Cuchulain."
     ],
-    "entities": [
-        {
-            "entity": "Necthan Sc\u00e9ne",
-            "type": "Irish heroine"
-        },
-        {
-            "entity": "Ulster",
-            "type": "superhero"
-        },
-        {
-            "entity": "C\u00fachulainn",
-            "type": "hero"
-        }
-    ],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "cyphertext": "1WsgpM93m4_0vaejnOfMBa5Eua0ATinHMzUgM7qmsgJVkbmlKCRTekqa9F4ZMXTnWWZsKz7atzvfrywRO4P8qJLvUX2CA8SlBbABb5Wqv7B2H4DAVNGRAqWAjiwBqO_jQSMyT9h98ZtlCCRWSoCZn8-4Rim_ROGIdzK23vrRCWloFv_h4AXyUWd_QLnMZE0xy4ipqQwBx4DlbiNQICEcEytFy2Nz0ljLrlMGNlZlZKo4Kmk=",
-    "salt": "p4K7AAsd9tHia1t52zfrww==",
-    "text": "Irish heroine Necthan Sc\u00e9ne is a little known character who is mentioned as the mother of multiple heroes that perished due to the actions of C\u00fachulainn, the legendary hero of Ulster."
+    "evidence": "Monaghan, Encyclopedia of Celtic Mythology and Folklore"
+  }
 }

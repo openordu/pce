@@ -1,15 +1,38 @@
 {
-    "name": "Navel Stone",
-    "attributes": {},
-    "entities": [
-        {
-            "text": "Navel Stone See"
-        }
+  "name": "Navel Stone",
+  "attributes": [
+    {
+      "entity": "Navel Stone",
+      "attribute": "a cross-reference entry"
+    },
+    {
+      "entity": "Stone of Divisions",
+      "attribute": "the full account of the Navel Stone appears here"
+    }
+  ],
+  "entities": [
+    {
+      "entity": "Navel Stone",
+      "type": "artifact"
+    },
+    {
+      "entity": "Stone of Divisions",
+      "type": "artifact"
+    }
+  ],
+  "sources": [
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+  ],
+  "cyphertext": "wqJ-8xwxVedsvdzqB9-C-DnNUXuucey-yZtNxwr_QSqamR7sH9dS5kPEdBBHLQtgsI_dVy1UerHPFxOwY5_45w==",
+  "salt": "NkqrYi1jawFiVGqJ2d7iwA==",
+  "text": "The Navel Stone is a cross-reference entry. It directs the reader to the STONE OF DIVISIONS for the full account.",
+  "okr": {
+    "objective": "The Navel Stone is an artifact detailed under the Stone of Divisions.",
+    "key_results": [
+      "The Navel Stone is a cross-reference entry.",
+      "It points to the Stone of Divisions.",
+      "The full account appears under that heading."
     ],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "cyphertext": "wqJ-8xwxVedsvdzqB9-C-DnNUXuucey-yZtNxwr_QSqamR7sH9dS5kPEdBBHLQtgsI_dVy1UerHPFxOwY5_45w==",
-    "salt": "NkqrYi1jawFiVGqJ2d7iwA==",
-    "text": "Navel Stone See Stone Of Divisions."
+    "evidence": "Monaghan, Encyclopedia of Celtic Mythology and Folklore"
+  }
 }

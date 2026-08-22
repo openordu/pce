@@ -1,37 +1,59 @@
 {
-    "name": "Nasciens",
-    "attributes": [
-        {
-            "entity": "Nasciens",
-            "attribute": "blinded by arrogant attempt to look upon the Grail"
-        },
-        {
-            "entity": "Nasciens",
-            "attribute": "hermit monk"
-        },
-        {
-            "entity": "Nasciens",
-            "attribute": "advised the knights who rode out in the quest of the sacred object"
-        }
+  "name": "Nasciens",
+  "attributes": [
+    {
+      "entity": "Nasciens",
+      "attribute": "Arthurian hero"
+    },
+    {
+      "entity": "Nasciens",
+      "attribute": "once a pagan ruler named Seraphe"
+    },
+    {
+      "entity": "Nasciens",
+      "attribute": "means one who knows nothing"
+    },
+    {
+      "entity": "Grail",
+      "attribute": "his look upon it blinded Nasciens"
+    },
+    {
+      "entity": "Nasciens",
+      "attribute": "became a hermit monk who advised Grail knights"
+    }
+  ],
+  "entities": [
+    {
+      "entity": "Nasciens",
+      "type": "hero"
+    },
+    {
+      "entity": "Seraphe",
+      "type": "character"
+    },
+    {
+      "entity": "Grail",
+      "type": "artifact"
+    },
+    {
+      "entity": "hermit monk",
+      "type": "person"
+    }
+  ],
+  "sources": [
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+  ],
+  "cyphertext": "6oM5esewEMxWSjTT86Uu-w5HKkhvde20cDXeMuhbq5Onxm65KjMwEi8Fz4Uz2NdvGYrVZOpqrXA5qHsEsmEoM8TlnSLKtVO8DdFwQKCTcQwLgVj3912hLnxOyDQXJ_MrYzmrvPornrmDwL7JiRyIBVkpNFflrA-49ps9X2dv4yfpAsvlBlWz8Kk6kjMJUcZr4I8Lqf6LEYuZLiZoGu8_AhSGe5p5yKAnaOudwBuYOA7T8auSkfKo6V2tCklFDRQKIq6z2T5Ax6dUvdUyaElYKiWw0sZCoVGQ79M1DtIX-6zrwqH5vMcgZnJdY1fmJ7Ir4IIk1N28-_tpDv_Ov6teu3lWGiYw6O5nJ6mP1uWoIZ-UZHpZvWHKj-AOkIP8B5jcZho4ChykEbAZZyGLQU8=",
+  "salt": "xo5R39KzxMoILc00itZioA==",
+  "text": "Nasciens was an Arthurian hero. He once ruled as a pagan king under the name Seraphe. The new name Nasciens means one who knows nothing. His bold effort to gaze on the Grail struck him blind. He then turned hermit monk and guided the men riding out on the Grail quest.",
+  "okr": {
+    "objective": "Nasciens is an Arthurian hero who turned to the Grail quest.",
+    "key_results": [
+      "Nasciens is an Arthurian hero.",
+      "He once ruled as a pagan king named Seraphe.",
+      "His name means one who knows nothing.",
+      "He became a hermit monk who advised the Grail knights."
     ],
-    "entities": [
-        {
-            "entity": "Nasciens",
-            "type": "Arthurian hero"
-        },
-        {
-            "entity": "Seraphe",
-            "type": "pagan ruler"
-        },
-        {
-            "entity": "Grail",
-            "type": "sacred object"
-        }
-    ],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "cyphertext": "6oM5esewEMxWSjTT86Uu-w5HKkhvde20cDXeMuhbq5Onxm65KjMwEi8Fz4Uz2NdvGYrVZOpqrXA5qHsEsmEoM8TlnSLKtVO8DdFwQKCTcQwLgVj3912hLnxOyDQXJ_MrYzmrvPornrmDwL7JiRyIBVkpNFflrA-49ps9X2dv4yfpAsvlBlWz8Kk6kjMJUcZr4I8Lqf6LEYuZLiZoGu8_AhSGe5p5yKAnaOudwBuYOA7T8auSkfKo6V2tCklFDRQKIq6z2T5Ax6dUvdUyaElYKiWw0sZCoVGQ79M1DtIX-6zrwqH5vMcgZnJdY1fmJ7Ir4IIk1N28-_tpDv_Ov6teu3lWGiYw6O5nJ6mP1uWoIZ-UZHpZvWHKj-AOkIP8B5jcZho4ChykEbAZZyGLQU8=",
-    "salt": "xo5R39KzxMoILc00itZioA==",
-    "text": "Arthurian hero Nasciens, formerly known as Seraphe, was a pagan ruler who changed his name after being blinded by his own arrogance when attempting to glimpse the Grail. He later became a hermit monk, providing counsel to the knights who embarked on the search for the sacred object."
+    "evidence": "Monaghan, Encyclopedia of Celtic Mythology and Folklore"
+  }
 }

@@ -1,49 +1,55 @@
 {
-    "name": "Kulhwch",
-    "entities": [
-        {
-            "entity": "Kulhwch",
-            "type": "Welsh hero"
-        },
-        {
-            "entity": "Wales",
-            "type": "Location"
-        },
-        {
-            "entity": "Arthur",
-            "type": "Legendary king"
-        },
-        {
-            "entity": "Welsh",
-            "type": "Nationality"
-        },
-        {
-            "entity": "divinity",
-            "type": "Ancient Welsh"
-        },
-        {
-            "entity": "Kulhwch And Olwen",
-            "type": "Literary tale"
-        }
+  "name": "Kulhwch",
+  "entities": [
+    {
+      "entity": "Kulhwch",
+      "type": "hero"
+    },
+    {
+      "entity": "Olwen",
+      "type": "character"
+    },
+    {
+      "entity": "Arthur",
+      "type": "character"
+    },
+    {
+      "entity": "Camelot",
+      "type": "place"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Kulhwch",
+      "attribute": "hero of Arthurian legend"
+    },
+    {
+      "entity": "Kulhwch",
+      "attribute": "encouraged by his father to seek help"
+    },
+    {
+      "entity": "Kulhwch",
+      "attribute": "sought his true love Olwen"
+    },
+    {
+      "entity": "Arthur",
+      "attribute": "cousin of Kulhwch and king of Camelot"
+    }
+  ],
+  "sources": [
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+  ],
+  "cyphertext": "4zTwxODKMw3Wop6dDMllk4JMIBkhGpG8QXyHGjrPy1ywkbrTEThCGi_d7xp7TzpM9dPeowWIygEEz2jJheTw7jj4oXD3VsF5CD79SQu7_96amH7Mmipc0V-j0yypEmdt6_LMO--ydMnE6YYtSU_iR88J2ysGjhCZqobUR2JtTYQKGyEKq3BjMFHjjeHcuDRQcJonb_jIpVow1f3h17EiYywJ82K9z_6cuC7sF2xcfmIQZwCKXCsLOOmGCHoXdnOiUseHgFa2qsxhHlooiR0KfFAwM7jlbOJjDdn-TQrWcfZ6kyz_AOkpVFZ2Dy3pS8cfNNGtlq651U0ILTg=",
+  "salt": "4Jciql1Cfhn4RBiTkXAcyQ==",
+  "text": "Kulhwch is a hero of Welsh or Arthurian legend. His father urged him to seek aid in winning his true love Olwen. The father told him to travel to Camelot, where his cousin Arthur sat as king. Kulhwch set out for that court to win Arthur's help.",
+  "okr": {
+    "objective": "Kulhwch asked King Arthur for help finding his love Olwen.",
+    "key_results": [
+      "Kulhwch is a hero of Arthurian legend.",
+      "His father urged him to ask for help.",
+      "He sought his true love Olwen.",
+      "He traveled to the court of King Arthur of Camelot."
     ],
-    "attributes": [
-        {
-            "entity": "Kulhwch",
-            "attribute": "cousin of Arthur"
-        },
-        {
-            "entity": "Kulhwch",
-            "attribute": "descended from an ancient Welsh divinity"
-        },
-        {
-            "entity": "Kulhwch And Olwen",
-            "attribute": "important"
-        }
-    ],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "cyphertext": "4zTwxODKMw3Wop6dDMllk4JMIBkhGpG8QXyHGjrPy1ywkbrTEThCGi_d7xp7TzpM9dPeowWIygEEz2jJheTw7jj4oXD3VsF5CD79SQu7_96amH7Mmipc0V-j0yypEmdt6_LMO--ydMnE6YYtSU_iR88J2ysGjhCZqobUR2JtTYQKGyEKq3BjMFHjjeHcuDRQcJonb_jIpVow1f3h17EiYywJ82K9z_6cuC7sF2xcfmIQZwCKXCsLOOmGCHoXdnOiUseHgFa2qsxhHlooiR0KfFAwM7jlbOJjDdn-TQrWcfZ6kyz_AOkpVFZ2Dy3pS8cfNNGtlq651U0ILTg=",
-    "salt": "4Jciql1Cfhn4RBiTkXAcyQ==",
-    "text": "Welsh mythology tells the story of Kulhwch, also known as Culhwch or Kilhwch, who is celebrated as a heroic figure. It is said that he was a cousin of King Arthur, the famous legendary leader. Furthermore, Kulhwch may have had roots in the divine heritage of ancient Welsh culture. Readers can refer to the story of Kulhwch And Olwen for more information related to this topic."
+    "evidence": "Monaghan, Encyclopedia of Celtic Mythology and Folklore"
+  }
 }

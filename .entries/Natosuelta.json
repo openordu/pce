@@ -1,52 +1,78 @@
 {
-    "name": "Natosuelta",
-    "attributes": [
-        {
-            "entity": "Natosuelta",
-            "attribute": "name translated as \u201cmeanandering river\u201d"
-        },
-        {
-            "entity": "Nantosuelta",
-            "attribute": "name translated as \u201cwinding brook\u201d"
-        },
-        {
-            "entity": "Natosuelta",
-            "attribute": "goddess of fresh water"
-        },
-        {
-            "entity": "River Trent",
-            "attribute": "land ruled by Natosuelta"
-        },
-        {
-            "entity": "Romanized images",
-            "attribute": "do not stress her riverine"
-        }
+  "name": "Natosuelta",
+  "attributes": [
+    {
+      "entity": "Natosuelta",
+      "attribute": "Continental Celtic goddess of fresh water"
+    },
+    {
+      "entity": "Natosuelta",
+      "attribute": "name means meandering river or winding brook"
+    },
+    {
+      "entity": "River Trent",
+      "attribute": "ruled by the watershed of Natosuelta"
+    },
+    {
+      "entity": "Natosuelta",
+      "attribute": "guardian of the home and hearth"
+    },
+    {
+      "entity": "Sucellus",
+      "attribute": "Continental god linked with Natosuelta"
+    }
+  ],
+  "entities": [
+    {
+      "entity": "Natosuelta",
+      "type": "god"
+    },
+    {
+      "entity": "Nantosuelta",
+      "type": "god"
+    },
+    {
+      "entity": "River Trent",
+      "type": "location"
+    },
+    {
+      "entity": "Britain",
+      "type": "location"
+    },
+    {
+      "entity": "Ad Pontem",
+      "type": "location"
+    },
+    {
+      "entity": "East Stoke",
+      "type": "location"
+    },
+    {
+      "entity": "Sucellus",
+      "type": "god"
+    },
+    {
+      "entity": "raven",
+      "type": "animal"
+    }
+  ],
+  "sources": [
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+  ],
+  "image": [
+    "https://upload.wikimedia.org/wikipedia/commons/6/6a/Nantosuelta_HistMusPfalz_3482a.jpg"
+  ],
+  "cyphertext": "MAJncPBeMvbcuOBeQ90qdRzZgz7PTC0eJLNHsnNQBVIT4uQDHrgpTVCeeJQFxtBt-MA4YuMBpQSIQPSPaZBo62c_3lR3ViTwuaojTee-oO0YLofyad2qqHRqLK2imIKya3bur1KFJ4Bz970fYzTCDgxRwYJJmtEzBQj5s8aqaaNmPu7IJLmF0a187ZlBdp78zJRTB92lzaZ5zPI515SYxX-TdFuuX-_a_RFT7_jJLSCaPQtdbVyROwZnxWfTQqjxeTf6b_fDhcJ6z2gAfNIb8wcBV6bLt7IKesmZcEfJulPVpR62z-4-Y4ObPq5Dsvy_d0Q-kk51b_LqThlK1PN9FnxSozsBj6nDTLlk3qB-VnrL-mOIlubrZn7t_EWdTyZCpfMqdmQf57t0FdXJWbYGyiW3vtejg33bQAkLD_9HBUWQY0HP3FjxnwNhPgvVYn-IBHdnvq308rIZvUT8GfvN6sFgV4ukaJxWg5qefbXq8daz7vNZuPX8i5nhMgVN5Wk84X5pzUv5tPpaU_hrAZ9MagmyQJ8nXlWXMGCVVbUilwnJDoRhNrJw",
+  "salt": "uUBkVTVmXyED-DJtJnLVNg==",
+  "text": "Natosuelta, also written Nantosuelta, was a Continental Celtic goddess of fresh water. Her name has been read as meandering river or winding brook. Like other river goddesses she held sway over the ground fed by her stream, here the River Trent in Britain. Roman-era images do not press her river nature. They show her holding a pot, a sign that she guarded the hearth and the domestic realm. Some images place a house on a pole, with a raven, the symbol of prophecy, perched on it. A shrine to her rose at the Roman town of Ad Pontem, which is East Stoke in Nottinghamshire. There she appeared beside an unnamed male god. On the European mainland she was at times joined with the god Sucellus.",
+  "okr": {
+    "objective": "Natosuelta is a Continental Celtic goddess of fresh water and the home.",
+    "key_results": [
+      "Natosuelta, also Nantosuelta, is a Continental Celtic goddess of fresh water.",
+      "Her name translates to meandering river or winding brook.",
+      "A shrine to her stood at Ad Pontus in Nottinghamshire.",
+      "On the Continent she was linked with the god Sucellus."
     ],
-    "entities": [
-        {
-            "entity": "Natosuelta",
-            "type": "Continental Celtic goddess"
-        },
-        {
-            "entity": "Nantosuelta",
-            "type": "Continental Celtic goddess"
-        },
-        {
-            "entity": "River Trent",
-            "type": "fresh water river"
-        },
-        {
-            "entity": "Britain",
-            "type": "country"
-        }
-    ],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "image": [
-        "https://upload.wikimedia.org/wikipedia/commons/6/6a/Nantosuelta_HistMusPfalz_3482a.jpg"
-    ],
-    "cyphertext": "MAJncPBeMvbcuOBeQ90qdRzZgz7PTC0eJLNHsnNQBVIT4uQDHrgpTVCeeJQFxtBt-MA4YuMBpQSIQPSPaZBo62c_3lR3ViTwuaojTee-oO0YLofyad2qqHRqLK2imIKya3bur1KFJ4Bz970fYzTCDgxRwYJJmtEzBQj5s8aqaaNmPu7IJLmF0a187ZlBdp78zJRTB92lzaZ5zPI515SYxX-TdFuuX-_a_RFT7_jJLSCaPQtdbVyROwZnxWfTQqjxeTf6b_fDhcJ6z2gAfNIb8wcBV6bLt7IKesmZcEfJulPVpR62z-4-Y4ObPq5Dsvy_d0Q-kk51b_LqThlK1PN9FnxSozsBj6nDTLlk3qB-VnrL-mOIlubrZn7t_EWdTyZCpfMqdmQf57t0FdXJWbYGyiW3vtejg33bQAkLD_9HBUWQY0HP3FjxnwNhPgvVYn-IBHdnvq308rIZvUT8GfvN6sFgV4ukaJxWg5qefbXq8daz7vNZuPX8i5nhMgVN5Wk84X5pzUv5tPpaU_hrAZ9MagmyQJ8nXlWXMGCVVbUilwnJDoRhNrJw",
-    "salt": "uUBkVTVmXyED-DJtJnLVNg==",
-    "text": "Deity Natosuelta (Nantosuelta) was a goddess of the Continental Celtic origin. Her appellation has been interpreted to signify both \u201cwinding brook\u201d and \u201cmeandering river\u201d, both which underline her dominion over fresh water. Her power likely extended over the terrain of her watershed, namely the River Trent of Britain, akin to other Celtic River goddesses. The depictions of this goddess under Roman influence do not accentuate her association with rivers."
+    "evidence": "Monaghan, Encyclopedia of Celtic Mythology and Folklore"
+  }
 }

@@ -1,73 +1,79 @@
 {
-    "name": "Nechtanebus",
-    "attributes": [
-        {
-            "entity": "Nechtanebus",
-            "attribute": "Irish hero"
-        },
-        {
-            "entity": "Scota",
-            "attribute": "daughter of Nechtanebus"
-        },
-        {
-            "entity": "M\u00edl",
-            "attribute": "wandering soldier"
-        },
-        {
-            "entity": "Milesians",
-            "attribute": "children of M\u00edl"
-        },
-        {
-            "entity": "Ireland",
-            "attribute": "settled by the Milesians"
-        },
-        {
-            "entity": "Book Of Invasions",
-            "attribute": "mythological history"
-        },
-        {
-            "entity": "pharaohs",
-            "attribute": "several by the name of Nechtanebus"
-        },
-        {
-            "entity": "Nechtan",
-            "attribute": "hero or god derived from the name Nechtanebus"
-        }
+  "name": "Nechtanebus",
+  "attributes": [
+    {
+      "entity": "Nechtanebus",
+      "attribute": "an entry under the heading Nechtan or Elcmar"
+    },
+    {
+      "entity": "Boyne",
+      "attribute": "rises near Sid Nechtain, the fairy mound of Nechtan"
+    },
+    {
+      "entity": "Nechtan",
+      "attribute": "Irish god or hero often equated with Nuada"
+    },
+    {
+      "entity": "Boand",
+      "attribute": "wife of Nechtan who eloped with the Dagda"
+    },
+    {
+      "entity": "Aonghus Og",
+      "attribute": "child of the Dagda who tricked Nechtan"
+    }
+  ],
+  "entities": [
+    {
+      "entity": "Nechtan",
+      "type": "god"
+    },
+    {
+      "entity": "Elcmar",
+      "type": "character"
+    },
+    {
+      "entity": "Boand",
+      "type": "goddess"
+    },
+    {
+      "entity": "Boyne",
+      "type": "location"
+    },
+    {
+      "entity": "Sid Nechtain",
+      "type": "place"
+    },
+    {
+      "entity": "Nuada",
+      "type": "god"
+    },
+    {
+      "entity": "Bru na Boinne",
+      "type": "place"
+    },
+    {
+      "entity": "Dagda",
+      "type": "god"
+    },
+    {
+      "entity": "Aonghus Og",
+      "type": "god"
+    }
+  ],
+  "sources": [
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+  ],
+  "cyphertext": "7HwjNVD9te4zxcW0mZakqpWWTJNhThvGBXoVO1FVCsN_16HDGASiP3DYXXiSteDFMHOhnZo2uNnEDCZMD6f4i1gJDx-YI1pReUobPc9E09vxBRte-NfVZNR1ZYyN7fnoKi0H1RD_pqpuC-acCJ9qWRkPiL0m9KwD4fTnhBEkHCcdJFWduSgkRuGRdSl_4w9QYBHVGggHE73vkP8gxynCHnrmRBREnsDZHTZG9FK2yvluw23DQJC1OazDaEghxhrqBy5PIgWxZnxdcEm0Vf6VODg-bOv0E84qDNzdi9on_RSYrk8toeKJn32NSe3E1qn-8RF7goZXtOughSESAW03O7nA77X4TZwU6iuXHrxmubWled2oZjFoKY3n8k0Ci2dW7BmuapQU0tTU7vcRxld3dXaqJkweqGXmWmvyWYQmStIFwISTdhpnq84VR94t3cxeIWHN7FD303pgXP9tDxcAs5jN02j-jPkPpK4FiFDr1uWOEheYS1O9rIjJO6wI1x5eq3U5j6x9DJZrOv7U-CO6K1xcZcm7NaxhM25nosn4J33hPtxaC7wHjIbTmhYzFav44xBfgjriSGLNEB2CiL4x2q8cxbQnD0un1Kk74byTe4Bg9chXywCa7y1xy092ySatsuHupjeLpROLaT8xw22vGGk3c4MPlIvFR9t4VW8Dd20VHluo2aUDYC24Wx1ryG22SvgoGwck",
+  "salt": "53afdGepF6s6n143WQr89g==",
+  "text": "Nechtanebus is recorded under the heading of Nechtan, also called Elcmar, an Irish god or hero. The extract returns to one tale: the Boyne rises near the hillfort Sid Nechtain, a fairy mound, and Nechtan is sometimes equated with the god Nuada. Nechtan dwelt at Bru na Boinne with his wife Boand. Boand wanted the powerful Dagda and tricked her husband. The pair fled, and the Dagda kept the sun from moving for nine months, long enough for their child to arrive before Nechtan knew of the matter. The son, Aonghus Og, then deceived Nechtan into surrendering Bru na Boinne on the claim that he alone had no fairy palace.",
+  "okr": {
+    "objective": "Nechtanebus records the Irish god Nechtan and his loss of Bru na Boinne.",
+    "key_results": [
+      "Nechtanebus is an entry under the Irish god Nechtan, or Elcmar.",
+      "The Boyne rises near his fairy mound, Sid Nechtain.",
+      "His wife Boand eloped with the Dagda.",
+      "His son Aonghus Og tricked him out of Bru na Boinne."
     ],
-    "entities": [
-        {
-            "entity": "Nechtanebus",
-            "type": "Egyptian pharaoh"
-        },
-        {
-            "entity": "Scota",
-            "type": "person"
-        },
-        {
-            "entity": "M\u00edl",
-            "type": "person"
-        },
-        {
-            "entity": "Milesians",
-            "type": "group of people"
-        },
-        {
-            "entity": "Ireland",
-            "type": "place"
-        },
-        {
-            "entity": "Book Of Invasions",
-            "type": "book"
-        },
-        {
-            "entity": "Nechtanebus",
-            "type": "hero or god"
-        }
-    ],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "cyphertext": "7HwjNVD9te4zxcW0mZakqpWWTJNhThvGBXoVO1FVCsN_16HDGASiP3DYXXiSteDFMHOhnZo2uNnEDCZMD6f4i1gJDx-YI1pReUobPc9E09vxBRte-NfVZNR1ZYyN7fnoKi0H1RD_pqpuC-acCJ9qWRkPiL0m9KwD4fTnhBEkHCcdJFWduSgkRuGRdSl_4w9QYBHVGggHE73vkP8gxynCHnrmRBREnsDZHTZG9FK2yvluw23DQJC1OazDaEghxhrqBy5PIgWxZnxdcEm0Vf6VODg-bOv0E84qDNzdi9on_RSYrk8toeKJn32NSe3E1qn-8RF7goZXtOughSESAW03O7nA77X4TZwU6iuXHrxmubWled2oZjFoKY3n8k0Ci2dW7BmuapQU0tTU7vcRxld3dXaqJkweqGXmWmvyWYQmStIFwISTdhpnq84VR94t3cxeIWHN7FD303pgXP9tDxcAs5jN02j-jPkPpK4FiFDr1uWOEheYS1O9rIjJO6wI1x5eq3U5j6x9DJZrOv7U-CO6K1xcZcm7NaxhM25nosn4J33hPtxaC7wHjIbTmhYzFav44xBfgjriSGLNEB2CiL4x2q8cxbQnD0un1Kk74byTe4Bg9chXywCa7y1xy092ySatsuHupjeLpROLaT8xw22vGGk3c4MPlIvFR9t4VW8Dd20VHluo2aUDYC24Wx1ryG22SvgoGwck",
-    "salt": "53afdGepF6s6n143WQr89g==",
-    "text": "Irish lineage traces back to Nechtanebus, who supposedly ruled over Egypt and that through his daughter Scota, the Irish people descend from him. Scota wedded M\u00edl, the itinerant soldier, whose offspring, the Milesians, are considered the last group to settle in Ireland. This story comes from the Book of Invasions, a mythological historic text, that most experts regard as unreliable. Even though there is skepticism, many pharaohs named Nechtanebus existed, and it appears that the title of the hero or god Nechtan is derived from this name."
+    "evidence": "Monaghan, Encyclopedia of Celtic Mythology and Folklore"
+  }
 }

@@ -1,18 +1,41 @@
 {
-    "name": "Kundry",
-    "attributes": {},
-    "entities": [
-        {
-            "text": "Kundry See Cunrie"
-        }
+  "name": "Kundry",
+  "attributes": [
+    {
+      "entity": "Kundry",
+      "attribute": "cross-reference entry"
+    },
+    {
+      "entity": "Kundry",
+      "attribute": "points to Cunrie"
+    }
+  ],
+  "entities": [
+    {
+      "entity": "Kundry",
+      "type": "character"
+    },
+    {
+      "entity": "Cunrie",
+      "type": "character"
+    }
+  ],
+  "sources": [
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+  ],
+  "image": [
+    "https://upload.wikimedia.org/wikipedia/commons/7/7e/Parsifal_%281882_retuschiert%29.jpg"
+  ],
+  "cyphertext": "fil6Qq73bjG8GZ53SJ9SYPF2Nf5kVXP6RJy_6-zznoOvcv6n31RBA3M3EUXVFfc=",
+  "salt": "pFCQfCkpwFStLDCF_ECP1w==",
+  "text": "Kundry points the reader to the entry for Cunrie. The two names are links in the encyclopedia. No separate account of Kundry is given here.",
+  "okr": {
+    "objective": "Kundry is a cross-reference to the entry for Cunrie.",
+    "key_results": [
+      "Kundry is a cross-reference entry.",
+      "It points the reader to the entry Cunrie.",
+      "No separate account of Kundry is provided."
     ],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "image": [
-        "https://upload.wikimedia.org/wikipedia/commons/7/7e/Parsifal_%281882_retuschiert%29.jpg"
-    ],
-    "cyphertext": "fil6Qq73bjG8GZ53SJ9SYPF2Nf5kVXP6RJy_6-zznoOvcv6n31RBA3M3EUXVFfc=",
-    "salt": "pFCQfCkpwFStLDCF_ECP1w==",
-    "text": "Kundry See Cunrie."
+    "evidence": "Monaghan, Encyclopedia of Celtic Mythology and Folklore"
+  }
 }

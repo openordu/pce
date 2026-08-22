@@ -1,41 +1,59 @@
 {
-    "name": "Nar",
-    "attributes": [
-        {
-            "entity": "Nar",
-            "attribute": "obscure goddess"
-        },
-        {
-            "entity": "N\u00e1ir",
-            "attribute": "modesty"
-        },
-        {
-            "entity": "Flaith",
-            "attribute": "goddess of Sovereignty"
-        }
+  "name": "Nar",
+  "attributes": [
+    {
+      "entity": "Nar",
+      "attribute": "Irish goddess"
+    },
+    {
+      "entity": "Nar",
+      "attribute": "known as modesty"
+    },
+    {
+      "entity": "Nar",
+      "attribute": "granted wealth to a high king of Ireland"
+    },
+    {
+      "entity": "Flaith",
+      "attribute": "goddess of sovereignty"
+    }
+  ],
+  "entities": [
+    {
+      "entity": "Nar",
+      "type": "goddess"
+    },
+    {
+      "entity": "Nair",
+      "type": "goddess"
+    },
+    {
+      "entity": "Flaith",
+      "type": "goddess"
+    },
+    {
+      "entity": "Ireland",
+      "type": "location"
+    },
+    {
+      "entity": "sovereignty",
+      "type": "concept"
+    }
+  ],
+  "sources": [
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+  ],
+  "cyphertext": "fCkPbQS0tAn3EjlWVa60-nLA30vdT7LVL5LRXikC3bBqSBef5WWq2Pj6UCj_sUzVbAcBcSKhh7pQ5SRRc5RGsQ6vRBXDinyFSGMuR9leR2nfb4AzZYuhDjqHrmdNiFDQ0JLb2-W6KB7OHxF0nPoatFb9nUdruSBiPx6ZNh1yRtbwib-f_LsXQK-7jAdUthggGvHClP_UmewSnnNfX82uRYMAtrlvi8kQAqSJcqchNEn8pjMfTgilSOgWvnSRH3MTzECycBjb1UbkTY4TMVVQU9cDYRFa7QgmtT5TmkL_dxIwWF6JptniycPurTdrNI72MIG8xKA6nXskHjGBu786-muuDZ8=",
+  "salt": "dhZplg9shKHAGAsVCNLJSQ==",
+  "text": "Nar, sometimes written Nair, is an Irish goddess. Her name carries the sense of modesty. In some accounts she granted great wealth to a high king of Ireland. Scholars weigh her as a possible form of Flaith, the goddess of sovereignty.",
+  "okr": {
+    "objective": "Nar is an obscure Irish goddess linked to modesty and wealth.",
+    "key_results": [
+      "Nar is an Irish goddess of modesty.",
+      "The name also appears as Nair.",
+      "She granted wealth to a high king of Ireland.",
+      "She is a possible form of Flaith, goddess of sovereignty."
     ],
-    "entities": [
-        {
-            "entity": "Nar",
-            "type": "Irish goddess"
-        },
-        {
-            "entity": "N\u00e1ir",
-            "type": "Irish goddess"
-        },
-        {
-            "entity": "Ireland",
-            "type": "location"
-        },
-        {
-            "entity": "Flaith",
-            "type": "goddess of Sovereignty"
-        }
-    ],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "cyphertext": "fCkPbQS0tAn3EjlWVa60-nLA30vdT7LVL5LRXikC3bBqSBef5WWq2Pj6UCj_sUzVbAcBcSKhh7pQ5SRRc5RGsQ6vRBXDinyFSGMuR9leR2nfb4AzZYuhDjqHrmdNiFDQ0JLb2-W6KB7OHxF0nPoatFb9nUdruSBiPx6ZNh1yRtbwib-f_LsXQK-7jAdUthggGvHClP_UmewSnnNfX82uRYMAtrlvi8kQAqSJcqchNEn8pjMfTgilSOgWvnSRH3MTzECycBjb1UbkTY4TMVVQU9cDYRFa7QgmtT5TmkL_dxIwWF6JptniycPurTdrNI72MIG8xKA6nXskHjGBu786-muuDZ8=",
-    "salt": "dhZplg9shKHAGAsVCNLJSQ==",
-    "text": "Obscurely known as modesty, Nar or N\u00e1ir is an Irish goddess mentioned in certain texts as the one who bestowed upon a high king of Ireland immense wealth. It is possible that she is another manifestation of Flaith, the more popularly known goddess of Sovereignty."
+    "evidence": "Monaghan, Encyclopedia of Celtic Mythology and Folklore"
+  }
 }
