@@ -3,21 +3,25 @@
     "attributes": [
         {
             "entity": "Ancamna",
-            "attribute": "maternal goddess of prosperity"
+            "attribute": "consort of Mars"
         },
         {
             "entity": "Ancamna",
-            "attribute": "Healing"
+            "attribute": "mother goddess of prosperity and healing"
         }
     ],
     "entities": [
         {
             "entity": "Ancamna",
-            "type": "Continental Celtic goddess"
+            "type": "Person"
         },
         {
             "entity": "Mars",
-            "type": "Roman name given to Celtic war gods"
+            "type": "Person"
+        },
+        {
+            "entity": "Continental Celtic goddess",
+            "type": "Concept"
         }
     ],
     "sources": [
@@ -28,5 +32,11 @@
     ],
     "cyphertext": "h1blnaflQNIvw6Q9Hs5UGdwQgdxb6mXtVwapHhX2aDu8LkKK6WgSMvJ4Q9teQv1v1shaofFtGsAHzaHGb6QFJArrmDBshOzoP3ZGkL7wcLsQXOr0CXsJf_Y1NzAIv3wDmNE4JMOUfxIl8Hbf_1D4VwmbHG5w0DRnFQkq-8kpcgp7rnZIWJflQjn3kk0Z71jUkFtfm39Ui1jwOpna8GooomX02bkjUE6vJOjevhRtMpLzb05wI3jFCvFwmkntt2galpqJ72IxRuvVNafngWdkiKkUFHETHIC2w7eSoEnxpqSLekb7d0o=",
     "salt": "CJBfwkDcQuZrGqhlnJoGEg==",
-    "text": "Continental Celtic deity Ancamna is believed to have been a goddess of prosperity and healing, and was also the consort of Mars. It should be noted that Mars was not the original name of the Celtic war gods with which she was associated."
+    "text": "Ancamna is a Continental Celtic goddess. She was the consort of Mars. Mars is the Roman name the Romans gave to many Celtic war gods; it was not her partner’s original name. Ancamna appears to have been a mother goddess of prosperity and healing.",
+    "objective": "Record Ancamna, a Continental Celtic goddess.",
+    "key_results": [
+        "Show her role as consort of Mars.",
+        "Show her as a mother goddess of prosperity and healing."
+    ],
+    "evidence": "Monaghan 2003, s.v. Ancamna; Koch 2006, s.v. Ancamna"
 }

@@ -3,49 +3,29 @@
     "attributes": [
         {
             "entity": "Andred",
-            "attribute": "cousin of Tristan"
+            "attribute": "cousin of Tristan and a spy for King Mark"
         },
         {
             "entity": "Andred",
-            "attribute": "spy for king Mark"
-        },
-        {
-            "entity": "Tristan",
-            "attribute": "romantic hero"
-        },
-        {
-            "entity": "Tristan",
-            "attribute": "lover of Iseult"
-        },
-        {
-            "entity": "Iseult",
-            "attribute": "lover of Tristan"
-        },
-        {
-            "entity": "Andred",
-            "attribute": "murdered Tristan"
-        },
-        {
-            "entity": "Andred",
-            "attribute": "curry favor with the king"
+            "attribute": "said to have killed Tristan for the king’s favor"
         }
     ],
     "entities": [
         {
             "entity": "Andred",
-            "type": "Arthurian hero"
+            "type": "Person"
         },
         {
             "entity": "Tristan",
-            "type": "romantic hero"
+            "type": "Person"
         },
         {
-            "entity": "king Mark",
-            "type": "king"
+            "entity": "King Mark",
+            "type": "Person"
         },
         {
             "entity": "Iseult",
-            "type": "lover"
+            "type": "Person"
         }
     ],
     "sources": [
@@ -53,5 +33,11 @@
     ],
     "cyphertext": "HvuuCCLsQEeNjMpS1RhYpIqvGv6eRQmGlZyEhmxDOqtRYzJZdNU2zgwk0RfrkDE2yOJfTr1yxMCoSYHZakewPW5j69I4Xx2jFgme0TLOKbjche5wJzEAqiV7cOnqzjZH-PHzMqN_TrPWR-IJAzNCtyyAmmxlcK8HzxSSYHCY5jpnxrxhWRu-CrfzEACDt3GFC1cjx7bXhIIQzP2P6xw0AI3MiZOTseHuKezNTM45hjSD-R1KRJeHpjqcCcRUTmPTd1sOs5GssrTH3qo2T14gftqcx8NmbPORj5-uZFdXpUDMGbQ1dDSlLQ==",
     "salt": "Ld9WFtdahq5nkkMS8CAKVA==",
-    "text": "Arthurian hero Andred was a cousin of the romantic hero Tristan and acted as a spy for King Mark, who was the husband of Iseult, the lover of Tristan. According to certain texts, Andred assassinated Tristan in order to win the king's favor."
+    "text": "Andred is an Arthurian hero. He was a cousin of the celebrated hero, Tristan. Andred served King Mark as a spy. Mark was the husband of Iseult, the woman Tristan loved. Some texts say that Andred killed Tristan to win the king’s favor.",
+    "objective": "Record Andred, an Arthurian knight.",
+    "key_results": [
+        "Show his spy work for King Mark.",
+        "Show the charge that he killed Tristan."
+    ],
+    "evidence": "Monaghan 2003, s.v. Andred; Koch 2006, s.v. Andred"
 }

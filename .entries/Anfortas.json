@@ -1,9 +1,23 @@
 {
     "name": "Anfortas",
-    "attributes": {},
+    "attributes": [
+        {
+            "entity": "Anfortas",
+            "attribute": "a name for the Fisher King in Grail tales"
+        }
+    ],
     "entities": [
         {
-            "text": "Anfortas See Fisher King"
+            "entity": "Anfortas",
+            "type": "Person"
+        },
+        {
+            "entity": "Fisher King",
+            "type": "Person"
+        },
+        {
+            "entity": "Holy Grail",
+            "type": "Artifact"
         }
     ],
     "sources": [
@@ -14,5 +28,10 @@
     ],
     "cyphertext": "8juk8nxIb1_2zpKdk6egSZ3JrvNyJH_8lsg6uNilbns0WL8HFoYVnnNqlFGqw0t1LIAH7VjR",
     "salt": "Lpd1Kg0X8I6rteu0g-FuGQ==",
-    "text": "Anfortas See Fisher King."
+    "text": "Anfortas is the name given to the Fisher King in some versions of the Grail story. He is the wounded keeper of the Holy Grail. See Fisher King.",
+    "objective": "Record Anfortas, a name of the Fisher King.",
+    "key_results": [
+        "Show his link to the Grail and to the Fisher King."
+    ],
+    "evidence": "Monaghan 2003, s.v. Anfortas; Koch 2006, s.v. Anfortas"
 }
