@@ -1,14 +1,50 @@
 {
-    "name": "Candlemas",
-    "attributes": {},
-    "entities": [],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+  "name": "Candlemas",
+  "entities": [
+    {
+      "entity": "Candlemas",
+      "type": "event"
+    },
+    {
+      "entity": "Imbolc",
+      "type": "festival"
+    },
+    {
+      "entity": "February 2",
+      "type": "concept"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Candlemas",
+      "attribute": "Christian feast held on February 2"
+    },
+    {
+      "entity": "Candlemas",
+      "attribute": "shares its date with Imbolc"
+    },
+    {
+      "entity": "Imbolc",
+      "attribute": "Celtic festival on the same day"
+    }
+  ],
+  "sources": [
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+  ],
+  "image": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/2017Candlemas.jpg/1200px-2017Candlemas.jpg"
+  ],
+  "cyphertext": "0p10sQP-JF4XL4I0pjCSYQ1x-4cjfRWEqUDj2T6kEOkiDm_llFAAO_PrwZ7As9JxKH4=",
+  "salt": "gV7CPzAMCne2_Aim6AxoSw==",
+  "text": "Candlemas is a Christian feast. Christians observe the day on February 2. The feast shares that date with the Celtic festival of Imbolc. Monaghan’s entry sends readers to Imbolc for the full account.",
+  "okr": {
+    "objective": "Candlemas is a Christian feast aligned with Imbolc.",
+    "key_results": [
+      "Candlemas is a Christian feast.",
+      "It falls on February 2.",
+      "Imbolc shares the same date.",
+      "The source directs a reader to Imbolc."
     ],
-    "image": [
-        "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/2017Candlemas.jpg/1200px-2017Candlemas.jpg"
-    ],
-    "cyphertext": "0p10sQP-JF4XL4I0pjCSYQ1x-4cjfRWEqUDj2T6kEOkiDm_llFAAO_PrwZ7As9JxKH4=",
-    "salt": "gV7CPzAMCne2_Aim6AxoSw==",
-    "text": "Candlemas See Imbolc."
+    "evidence": "Monaghan, Encyclopedia of Celtic Mythology and Folklore"
+  }
 }

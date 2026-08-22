@@ -1,33 +1,54 @@
 {
-    "name": "Caer Nefenhir",
-    "attributes": [
-        {
-            "entity": "Caer Nefenhir",
-            "attribute": "mysterious"
-        },
-        {
-            "entity": "Caer Nefenhir",
-            "attribute": "castle of high heaven"
-        },
-        {
-            "entity": "Kulhwch And Olwen",
-            "attribute": "story"
-        }
+  "name": "Caer Nefenhir",
+  "attributes": [
+    {
+      "entity": "Caer Nefenhir",
+      "attribute": "Welsh mythological site"
+    },
+    {
+      "entity": "Caer Nefenhir",
+      "attribute": "name means the castle of high heaven"
+    },
+    {
+      "entity": "Caer Nefenhir",
+      "attribute": "located in the Otherworld"
+    },
+    {
+      "entity": "Caer Nefenhir",
+      "attribute": "named in the story of Kulhwch and Olwen"
+    }
+  ],
+  "entities": [
+    {
+      "entity": "Caer Nefenhir",
+      "type": "location"
+    },
+    {
+      "entity": "castle of high heaven",
+      "type": "concept"
+    },
+    {
+      "entity": "Otherworld",
+      "type": "location"
+    },
+    {
+      "entity": "Kulhwch and Olwen",
+      "type": "concept"
+    }
+  ],
+  "sources": [
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+  ],
+  "cyphertext": "jIxAKKsyuPnI_qq__CV9fdH7LYiUucB8zHt_EhyiHyxN9X-apeehAmtw3FQETsCKc2R9uI52xl-iM1PSTIwz74zS04G56Nf7YN8V0IAcVvUV-Y4LRuiYuggIo_Qk4sskgq_cDcGayWGLwH1mf9ujTGc22mv-ZFn7ctZywEgEvq8Shf8TySNpWwg-bGjy21KL12YQR4Ddm-fC-MTokZEPiBYDCatTxXV0nhNAUk8rGqGz1PEWQGcJcjs3Zl1gQ8PO0JhEwohRZWeLYXhl6Rtmu7syrlxp3Rp7I8Y=",
+  "salt": "Gk3ZKNQM_UN5F40-zsIKRw==",
+  "text": "Caer Nefenhir is a Welsh mythological site. The name means the castle of high heaven. It lies in the Otherworld. The site appears in several old texts. The texts include the story of Kulhwch and Olwen.",
+  "okr": {
+    "objective": "Caer Nefenhir is the castle of high heaven in Welsh myth.",
+    "key_results": [
+      "Its name means the castle of high heaven.",
+      "It lies in the Otherworld.",
+      "Several old texts name it, including the tale of Kulhwch and Olwen."
     ],
-    "entities": [
-        {
-            "entity": "Caer Nefenhir",
-            "type": "mythological site"
-        },
-        {
-            "entity": "Kulhwch And Olwen",
-            "type": "ancient text"
-        }
-    ],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "cyphertext": "jIxAKKsyuPnI_qq__CV9fdH7LYiUucB8zHt_EhyiHyxN9X-apeehAmtw3FQETsCKc2R9uI52xl-iM1PSTIwz74zS04G56Nf7YN8V0IAcVvUV-Y4LRuiYuggIo_Qk4sskgq_cDcGayWGLwH1mf9ujTGc22mv-ZFn7ctZywEgEvq8Shf8TySNpWwg-bGjy21KL12YQR4Ddm-fC-MTokZEPiBYDCatTxXV0nhNAUk8rGqGz1PEWQGcJcjs3Zl1gQ8PO0JhEwohRZWeLYXhl6Rtmu7syrlxp3Rp7I8Y=",
-    "salt": "Gk3ZKNQM_UN5F40-zsIKRw==",
-    "text": "An Otherworld location known as Caer Nefenhir, which translates to \"castle of high heaven,\" is a Welsh mythological site mentioned in various ancient texts, including the tale of Kulhwch And Olwen."
+    "evidence": "Monaghan, Encyclopedia of Celtic Mythology and Folklore"
+  }
 }

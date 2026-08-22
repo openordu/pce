@@ -1,37 +1,63 @@
 {
-    "name": "Caoimhe",
-    "attributes": [
-        {
-            "entity": "Caoimhe",
-            "attribute": "daughter of Fionn Mac Cumhaill"
-        },
-        {
-            "entity": "Caoimhe",
-            "attribute": "wife of Goll Mac Morna"
-        }
+  "name": "Caoimhe",
+  "attributes": [
+    {
+      "entity": "Caoimhe",
+      "attribute": "an Irish heroine, also called Keeva and Keeva of the White Skin"
+    },
+    {
+      "entity": "Caoimhe",
+      "attribute": "the daughter of Fionn Mac Cumhaill"
+    },
+    {
+      "entity": "Caoimhe",
+      "attribute": "the wife of Goll Mac Morna"
+    },
+    {
+      "entity": "Caoimhe",
+      "attribute": "not a central figure in the legends"
+    },
+    {
+      "entity": "Goll Mac Morna",
+      "attribute": "an enemy of Fionn Mac Cumhaill"
+    }
+  ],
+  "entities": [
+    {
+      "entity": "Caoimhe",
+      "type": "hero"
+    },
+    {
+      "entity": "Keeva",
+      "type": "hero"
+    },
+    {
+      "entity": "Keeva of the White Skin",
+      "type": "hero"
+    },
+    {
+      "entity": "Fionn Mac Cumhaill",
+      "type": "hero"
+    },
+    {
+      "entity": "Goll Mac Morna",
+      "type": "hero"
+    }
+  ],
+  "sources": [
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+  ],
+  "cyphertext": "IRygXV67CP-kOzQ3Ku8o-4vLTzH1iK_TLZX5rK6F39Om6_R4hWxwNjTfF8twBuGoW0ocYsJEk1wyVIUB_pM3nqvwnFwm23heWaSOMl7C41h2ck_2zJkjneSdAJfS5ldC1oOFX4nohgeAPyK70gxvD6h6lt--04tpzOQACgcIz-tqiv7-rx4amvSDDcFVvDH85usNL_rPX0u2bzPi7o-005uH02w3e1p-TWt45iIJiiy5RtnNhG1Cb-x85o3bcVLLW_n4zz_T-WycT8Dta--uvk6XWWboWr9LhoCvQ6mO8Nnxv8kv0Ehb2MqSV-THbN-5YQ==",
+  "salt": "LsnYwXxFbANDZgjIn--K3Q==",
+  "text": "Caoimhe is an Irish heroine.\nHer other names are Keeva and Keeva of the White Skin.\nShe is the daughter of Fionn Mac Cumhaill.\nFionn is the great hero of Irish legend.\nCaoimhe does not hold a central place in the tales.\nHer link rests on one bond: she married Goll Mac Morna.\nGoll was an enemy of Fionn.",
+  "okr": {
+    "objective": "Caoimhe is an Irish heroine and the daughter of Fionn Mac Cumhaill.",
+    "key_results": [
+      "Caoimhe is also called Keeva and Keeva of the White Skin.",
+      "She is the daughter of the hero Fionn Mac Cumhaill.",
+      "She does not hold a central place in Irish legend.",
+      "She marries Goll Mac Morna, an enemy of Fionn."
     ],
-    "entities": [
-        {
-            "entity": "Caoimhe",
-            "type": "Irish heroine"
-        },
-        {
-            "entity": "Keeva",
-            "type": "Irish heroine"
-        },
-        {
-            "entity": "Fionn Mac Cumhaill",
-            "type": "great hero"
-        },
-        {
-            "entity": "Goll Mac Morna",
-            "type": "great enemy"
-        }
-    ],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "cyphertext": "IRygXV67CP-kOzQ3Ku8o-4vLTzH1iK_TLZX5rK6F39Om6_R4hWxwNjTfF8twBuGoW0ocYsJEk1wyVIUB_pM3nqvwnFwm23heWaSOMl7C41h2ck_2zJkjneSdAJfS5ldC1oOFX4nohgeAPyK70gxvD6h6lt--04tpzOQACgcIz-tqiv7-rx4amvSDDcFVvDH85usNL_rPX0u2bzPi7o-005uH02w3e1p-TWt45iIJiiy5RtnNhG1Cb-x85o3bcVLLW_n4zz_T-WycT8Dta--uvk6XWWboWr9LhoCvQ6mO8Nnxv8kv0Ehb2MqSV-THbN-5YQ==",
-    "salt": "LsnYwXxFbANDZgjIn--K3Q==",
-    "text": "Irish legend tells of a heroine named Caoimhe, also known as Keeva or Keeva of the White Skin. Though she was the offspring of the renowned hero Fionn Mac Cumhaill, she was not a prominent figure in Irish folklore except for being married to Goll Mac Morna, one of Fionn's primary adversaries."
+    "evidence": "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+  }
 }

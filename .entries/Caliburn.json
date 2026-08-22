@@ -1,48 +1,44 @@
 {
-    "name": "Caliburn",
-    "attributes": [
-        {
-            "entity": "Caliburn",
-            "attribute": "Alternative name for Excalibur"
-        },
-        {
-            "entity": "Excalibur",
-            "attribute": "magical sword of Arthur"
-        }
+  "name": "Caliburn",
+  "attributes": [
+    {
+      "entity": "Caliburn",
+      "attribute": "another name for Excalibur"
+    },
+    {
+      "entity": "Excalibur",
+      "attribute": "the magic sword of Arthur"
+    }
+  ],
+  "entities": [
+    {
+      "entity": "Caliburn",
+      "type": "artifact"
+    },
+    {
+      "entity": "Excalibur",
+      "type": "artifact"
+    },
+    {
+      "entity": "Arthur",
+      "type": "character"
+    }
+  ],
+  "sources": [
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+  ],
+  "image": [
+    "https://upload.wikimedia.org/wikipedia/commons/0/0f/Arthur-Pyle_Excalibur_the_Sword.JPG"
+  ],
+  "cyphertext": "1JuvGVPohXaEPm4Gg_U95r3cuYdMqyt6iVC1U5QAheb4gzz6UX1REY2NMxRJq3g6eErJcpDZ-hsKXdpnDu5VwMq_BytfZksSGdF3MRueNChXlSY53W3YlvDg8PfaM5bwB_t7dL6O4cinxxBH120ir3iWgwySOCy3y9yBtAPFCqo20OcY3OxePUhVQKb6lp0-z30um7Tpajt0VryKGi1iTQ4U8pM=",
+  "salt": "StL7RsoX6HZ8KYKXZB015w==",
+  "text": "Caliburn is a name for Excalibur. Excalibur is the magic sword of King Arthur. Other forms of the name are Carliburnus, Caladfwlch, and Caedvwlch.",
+  "okr": {
+    "objective": "A name for the magic sword of Arthur",
+    "key_results": [
+      "Caliburn is another name for Excalibur.",
+      "Excalibur is the magic sword of Arthur."
     ],
-    "entities": [
-        {
-            "entity": "Caliburn",
-            "type": "British mythological object"
-        },
-        {
-            "entity": "Carliburnus",
-            "type": "British mythological object"
-        },
-        {
-            "entity": "Caladfwlch",
-            "type": "British mythological object"
-        },
-        {
-            "entity": "Caedvwlch",
-            "type": "British mythological object"
-        },
-        {
-            "entity": "Excalibur",
-            "type": "magical sword"
-        },
-        {
-            "entity": "Arthur",
-            "type": "person"
-        }
-    ],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "image": [
-        "https://upload.wikimedia.org/wikipedia/commons/0/0f/Arthur-Pyle_Excalibur_the_Sword.JPG"
-    ],
-    "cyphertext": "1JuvGVPohXaEPm4Gg_U95r3cuYdMqyt6iVC1U5QAheb4gzz6UX1REY2NMxRJq3g6eErJcpDZ-hsKXdpnDu5VwMq_BytfZksSGdF3MRueNChXlSY53W3YlvDg8PfaM5bwB_t7dL6O4cinxxBH120ir3iWgwySOCy3y9yBtAPFCqo20OcY3OxePUhVQKb6lp0-z30um7Tpajt0VryKGi1iTQ4U8pM=",
-    "salt": "StL7RsoX6HZ8KYKXZB015w==",
-    "text": "A British mythical object known as Caliburn (also referred to as Carliburnus, Caladfwlch, Caedvwlch) is another name for the enchanted sword of King Arthur, also known as Excalibur."
+    "evidence": "Monaghan, Encyclopedia of Celtic Mythology and Folklore, 2008."
+  }
 }
