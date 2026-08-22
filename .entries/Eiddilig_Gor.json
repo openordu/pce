@@ -1,33 +1,38 @@
 {
-    "name": "Eiddilig Gor",
-    "attributes": [
-        {
-            "entity": "Eiddilig",
-            "attribute": "One of the Three Enchanters of Britain"
-        },
-        {
-            "entity": "Dwarf",
-            "attribute": "could escape any pursuer by changing his form into any being of earth, air, or water"
-        }
-    ],
-    "entities": [
-        {
-            "entity": "Eiddilig",
-            "type": "British mythological figure"
-        },
-        {
-            "entity": "Three Enchanters of Britain",
-            "type": "group"
-        },
-        {
-            "entity": "Dwarf",
-            "type": "being"
-        }
-    ],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "cyphertext": "qsQ7LRcedmaVArIaHREobONJ_J2MdXZHlkKsw9j3gZhTexi_1lOuSqVMyfIP9podEaj6uwvK_p8Tr9P3-aH9_57qVyhQlVXZ8WJBp2ptx8B0imNI4VZ1DMlS30gzFMbzDy5WaXsBHyYvhUaJ-BVJji71e8UmsBVRZXM9Yv8CCK-3wikq5FdWXWSkXBFzn5vDLijjSD6PGfcE5r9cD4-LII4Rq7UJK1wkUHrhQxjPBuQHxVtL0TDHIDyQ1xMM27Dxv0gD-r25hBxP73tG8axF",
-    "salt": "_1HeosoYbPswuv8ZMnqzig==",
-    "text": "A British mythological figure by the name of Eiddilig Gor possessed the ability to transform into any creature of earth, air, or water in order to evade capturers. This Dwarf was one of the Three Enchanters of Britain."
+ "name": "Eiddilig Gor",
+ "attributes": [
+  {
+   "entity": "Eiddilig Gor",
+   "attribute": "a dwarf and one of the Three Enchanters of Britain"
+  },
+  {
+   "entity": "Eiddilig Gor",
+   "attribute": "could take the form of any creature of earth, air, or water"
+  }
+ ],
+ "entities": [
+  {
+   "entity": "Eiddilig Gor",
+   "type": "Being"
+  },
+  {
+   "entity": "Three Enchanters of Britain",
+   "type": "Group"
+  }
+ ],
+ "sources": [
+  "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+ ],
+ "cyphertext": "qsQ7LRcedmaVArIaHREobONJ_J2MdXZHlkKsw9j3gZhTexi_1lOuSqVMyfIP9podEaj6uwvK_p8Tr9P3-aH9_57qVyhQlVXZ8WJBp2ptx8B0imNI4VZ1DMlS30gzFMbzDy5WaXsBHyYvhUaJ-BVJji71e8UmsBVRZXM9Yv8CCK-3wikq5FdWXWSkXBFzn5vDLijjSD6PGfcE5r9cD4-LII4Rq7UJK1wkUHrhQxjPBuQHxVtL0TDHIDyQ1xMM27Dxv0gD-r25hBxP73tG8axF",
+ "salt": "_1HeosoYbPswuv8ZMnqzig==",
+ "text": "Eiddilig Gor is a British figure. He numbers among the Three Enchanters of Britain. A dwarf, he can flee any hunter. He shifts his form into any being of the land, sea, or air.",
+ "okr": {
+  "objective": "Set out the British dwarf Eiddilig Gor, a master of change among the Three Enchanters.",
+  "key_results": [
+   "He counts among Britannia's Enchanters, a famous trio of Britain.",
+   "He can take the form of any being of the land, sea, or air.",
+   "This power lets him escape any pursuer."
+  ],
+  "evidence": "Monaghan 2008, s.v. 'Eiddilig Gor'."
+ }
 }
