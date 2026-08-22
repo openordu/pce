@@ -1,23 +1,23 @@
 {
-    "name": "Aonb\u00e1rr",
+    "name": "Aonbárr",
     "attributes": [
         {
-            "entity": "Aonb\u00e1rr",
-            "attribute": "enchanted steed"
+            "entity": "Aonbarr",
+            "attribute": "the enchanted steed of Manannan Mac Lir, his name meaning froth"
         },
         {
-            "entity": "Manann\u00e1n Mac Lir",
-            "attribute": "name suggests the seafoam"
+            "entity": "Manannan Mac Lir",
+            "attribute": "the Irish sea god who owns Aonbarr"
         }
     ],
     "entities": [
         {
-            "entity": "Aonb\u00e1rr",
-            "type": "Irish mythological beast"
+            "entity": "Aonbarr",
+            "type": "Being"
         },
         {
-            "entity": "Manann\u00e1n Mac Lir",
-            "type": "Irish sea god"
+            "entity": "Manannan Mac Lir",
+            "type": "Person"
         }
     ],
     "sources": [
@@ -25,5 +25,11 @@
     ],
     "cyphertext": "DWlWb0rM1EkPw72HRhMWgApMhJCLPxqkG1xaYnDL-2crCO-SJKj-XtHmDSyQyLsJJmgN9zRzqlX18o68WEIoI6Z8cY2oqddIJqzCVR_5fJc8-Y18XinYUhDcAWJqh8j685vM8sVK0l5nuo2bcFVsdthSBHa9gm-h8rYot3W2O7Y2JuH8w4vAwiP1UUwnfCCPhK6QsJRaWNfIKHbTosaErrygGx5faRFnYJk=",
     "salt": "PGbE0r-WUWiPjGumXf-lGg==",
-    "text": "Irish sea god Manann\u00e1n Mac Lir has a mythological beast named Aonb\u00e1rr, also known as the enchanted steed. Its name hints towards the seafoam, which is Manann\u00e1n Mac Lir's domain."
+    "text": "Aonbarr is an Irish mythological beast. He is the enchanted steed of the Irish sea god Manannan Mac Lir. His name means froth, and it suggests the seafoam.",
+    "objective": "Record Aonbarr, an Irish mythological beast.",
+    "key_results": [
+        "Show him as the steed of Manannan Mac Lir.",
+        "Show his name meaning froth and suggesting the seafoam."
+    ],
+    "evidence": "Monaghan 2003, s.v. Aonbarr"
 }
