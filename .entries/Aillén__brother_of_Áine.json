@@ -1,35 +1,35 @@
 {
-    "name": "Aill\u00e9n, brother of \u00c1ine",
+    "name": "Aillén, brother of Áine",
     "attributes": [
         {
-            "entity": "Aill\u00e9n",
-            "attribute": "brother of \u00c1ine"
+            "entity": "Aillén",
+            "attribute": "brother of Áine"
         },
         {
-            "entity": "\u00c1ine",
-            "attribute": "goddess of Fairy Queen of Munster"
+            "entity": "Áine",
+            "attribute": "goddess and fairy queen of Munster"
         },
         {
-            "entity": "Manann\u00e1n Mac Lir",
-            "attribute": "sea god"
+            "entity": "Aillén",
+            "attribute": "fell in love with the wife of Manannán Mac Lir"
         }
     ],
     "entities": [
         {
-            "entity": "Aill\u00e9n",
-            "type": "person"
+            "entity": "Aillén",
+            "type": "Person"
         },
         {
-            "entity": "\u00c1ine",
-            "type": "mythical being"
+            "entity": "Áine",
+            "type": "Person"
         },
         {
-            "entity": "Fairy Queen of Munster",
-            "type": "mythical being"
+            "entity": "Munster",
+            "type": "Place"
         },
         {
-            "entity": "Manann\u00e1n Mac Lir",
-            "type": "mythical being"
+            "entity": "Manannán Mac Lir",
+            "type": "Person"
         }
     ],
     "sources": [
@@ -38,5 +38,12 @@
     ],
     "cyphertext": "4z9NUVj9b-zCLpkHGr_e-H5lz9RVO2xGB-7dIjo9-6bdVda7H7goI4QLuOSBbd2AewS4oeULCYgYnPVqavtjB4-HZOWXvZeBzr6CrzDqo32EIikJGDln20r1edLTVVWl9SUDHMW5mZQbW_zpjwyzHZPhTJrnoKrQfNJxad1bQWNxfz6pCfdfWpN2oV-3sg4VeHnFiAsIgbziQhVGPJZLqDTD-QjM3frfW9AYcIX8qhs0l40HA4xCbzl-XIq2l626KyPM2S8oInQ8UvSg-Ar6B3ukdZf-uXj8a8RuueTSzStVf4wGhCIvPqUlgP_6e98I5lKw4VPkOAlvCIm2FNT9eN38hYkFpkwgvLKbxps0A-5F8a7FVvWznRYKWoAxekcGgRa7jXNHRzqj0i1JyOJ1n9Ai9lQ5IWGzyt16WA8=",
     "salt": "TmbJ-5qMVvmP6QndLZX0Tg==",
-    "text": "Aill\u00e9n, brother of the Fairy Queen of Munster named \u00c1ine, had developed romantic feelings towards the spouse of Manann\u00e1n Mac Lir, who happened to be a deity of the sea."
+    "text": "Aillén, brother of Áine, appears in Irish myth. Áine is the goddess and fairy queen of Munster. Aillén fell in love with the wife of the sea god Manannán Mac Lir.",
+    "objective": "Record Aillén, brother of the goddess Áine.",
+    "key_results": [
+        "Show his kinship with Áine and his love for the spouse of the sea god."
+    ],
+    "evidence": [
+        "Monaghan 2003, s.v. Aillén"
+    ]
 }

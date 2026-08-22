@@ -3,21 +3,21 @@
     "attributes": [
         {
             "entity": "Aimend",
-            "attribute": "obscure"
+            "attribute": "an obscure Irish goddess"
         },
         {
             "entity": "Aimend",
-            "attribute": "early"
+            "attribute": "an early solar divinity"
         }
     ],
     "entities": [
         {
             "entity": "Aimend",
-            "type": "Irish goddess"
+            "type": "Person"
         },
         {
-            "entity": "solar divinity",
-            "type": "divinity"
+            "entity": "sun",
+            "type": "Concept"
         }
     ],
     "sources": [
@@ -25,5 +25,10 @@
     ],
     "cyphertext": "74-ZMvHWw5_4XIwyn0d1uBXJRyqed5yhBet179CiGsQn0lvtrY8g9G9AkxjptA4oxryPVEYqWzpGIfHVGfBVnwQT8qQi7NB1ZbP3bn2zIEiBUkKKwri1DlSS2JZ18UXSJKdOJ3DdxFZscpyVmnOb-oBD8EvQ",
     "salt": "EDuPiqbtuh-ppxa2vhiIxw==",
-    "text": "Obscure and enigmatic, Aimend is a goddess from Irish mythology who holds her place among the ranks of early solar deities."
+    "text": "Aimend was an Irish goddess. She is an obscure figure who appears to have been an early solar divinity.",
+    "objective": "Record Aimend, an obscure Irish solar goddess.",
+    "key_results": [
+        "Provide her known identity as an early sun goddess."
+    ],
+    "evidence": "Monaghan 2003, s.v. Aimend"
 }
