@@ -3,35 +3,15 @@
     "attributes": [
         {
             "entity": "Aifi",
-            "attribute": "Irish heroine"
+            "attribute": "one of the five wives of Partholón"
         },
         {
-            "entity": "Book Of Invasions",
-            "attribute": "named in"
+            "entity": "Aifi",
+            "attribute": "named in the Book of Invasions"
         },
         {
-            "entity": "Parthol\u00f3n",
-            "attribute": "hero"
-        },
-        {
-            "entity": "Elgnad",
-            "attribute": "wife of Parthol\u00f3n"
-        },
-        {
-            "entity": "Dealgnaid",
-            "attribute": "wife of Parthol\u00f3n"
-        },
-        {
-            "entity": "Cerbnat",
-            "attribute": "wife of Parthol\u00f3n"
-        },
-        {
-            "entity": "Cichban",
-            "attribute": "wife of Parthol\u00f3n"
-        },
-        {
-            "entity": "Nerbgen",
-            "attribute": "wife of Parthol\u00f3n"
+            "entity": "Partholón",
+            "attribute": "a hero of Irish myth"
         },
         {
             "entity": "Aifi",
@@ -41,35 +21,35 @@
     "entities": [
         {
             "entity": "Aifi",
-            "type": "Irish heroine"
+            "type": "Person"
         },
         {
-            "entity": "Book Of Invasions",
-            "type": "text"
+            "entity": "Book of Invasions",
+            "type": "Artifact"
         },
         {
-            "entity": "Parthol\u00f3n",
-            "type": "hero"
+            "entity": "Partholón",
+            "type": "Person"
         },
         {
             "entity": "Elgnad",
-            "type": "wife"
+            "type": "Person"
         },
         {
             "entity": "Dealgnaid",
-            "type": "wife"
+            "type": "Person"
         },
         {
             "entity": "Cerbnat",
-            "type": "wife"
+            "type": "Person"
         },
         {
             "entity": "Cichban",
-            "type": "wife"
+            "type": "Person"
         },
         {
             "entity": "Nerbgen",
-            "type": "wife"
+            "type": "Person"
         }
     ],
     "sources": [
@@ -77,5 +57,12 @@
     ],
     "cyphertext": "uiBObc2dLvIxsdoVYWgleDUDrxY5FnxSWCHFgsTjxfZxTtGQGuGebYtJTI8z4m5aKa3u8B-oI5hNlk7ruT5c2ehp6tbKChqn4jyznN6G_MHGvN1SR2Cm4a_lmN18T58-lzxEVNjU-OiW-PGZTVW2MBcKSF6hmJLUqmm59KoUqvTbmbwBRoWircshYywYhb9aQLt2rPqx5T6KA6vxzpRTaVQKKH_gyY7a2F3a2utB-M8vBI1uTf6pC8WWHypjZwkXyzwmey-K7UCiNvs0oFMugrCn0Y9td3k39gvvakNlJlj2yDgozYvJGjbDZa6cmSS4",
     "salt": "2abXzk_IcpGWJZ2Ipv72-w==",
-    "text": "Obscurely mentioned in the Book of Invasions, Aifi is one of the Five wives of the hero Parthol\u00f3n. elgnad or Dealgnaid, Cerbnat, Cichban, and Nerbgen are the other four. Her identity is unknown apart from this."
+    "text": "Aifi was an obscure Irish heroine. The Book of Invasions names her as one of the five wives of the hero Partholón. The other four were Elgnad or Dealgnaid, Cerbnat, Cichban, and Nerbgen. Apart from this list, her identity is unknown.",
+    "objective": "Record Aifi, a wife of the hero Partholón.",
+    "key_results": [
+        "Show her place among the five wives named in the Book of Invasions."
+    ],
+    "evidence": [
+        "Monaghan 2003, s.v. Aifi"
+    ]
 }

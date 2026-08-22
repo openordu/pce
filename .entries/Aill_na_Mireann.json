@@ -1,9 +1,15 @@
 {
     "name": "Aill na Mireann",
-    "attributes": {},
+    "attributes": [
+        {
+            "entity": "Aill na Mireann",
+            "attribute": "cross-reference to the Stone of Divisions"
+        }
+    ],
     "entities": [
         {
-            "text": "Aill na Mireann See"
+            "entity": "Stone of Divisions",
+            "type": "Artifact"
         }
     ],
     "sources": [
@@ -11,5 +17,12 @@
     ],
     "cyphertext": "TsivDZCRn9OUqL4HotBVG7pbhCStYIMe56lYx2tX3ADRx2V0DS8eGSdIqTELymo9YTPAfj3Qto6yFPgpzBEtcQfo0Ao=",
     "salt": "ppEVyh70HxXDbeUPNl4XQw==",
-    "text": "Aill na Mireann See Stone Of Divisions."
+    "text": "Aill na Mireann See Stone of Divisions.",
+    "objective": "Direct readers to the Stone of Divisions entry.",
+    "key_results": [
+        "Provide the cross reference to the Stone of Divisions."
+    ],
+    "evidence": [
+        "Monaghan 2003, s.v. Aill na Mireann"
+    ]
 }
