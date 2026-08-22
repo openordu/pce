@@ -1,29 +1,66 @@
 {
-    "name": "\u00c1dammair",
-    "attributes": [
-        {
-            "entity": "\u00c1dammair",
-            "attribute": "husband of Flidais"
-        },
-        {
-            "entity": "\u00c1dammair",
-            "attribute": "few known myths"
-        }
-    ],
-    "entities": [
-        {
-            "entity": "\u00c1dammair",
-            "type": "Irish god"
-        },
-        {
-            "entity": "Flidais",
-            "type": "Irish woodland goddess"
-        }
-    ],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "cyphertext": "pzfLpLkJdN4PMIqdaYZktrd9U6zF_j1PyGTgHiQCLNuiTLLjLmGBNKuxcJWX_eW-hOx41bYNWJ0gj19Zt8eavnYyshFTM4VOo9HsOgYnzWonLZx1ybObQk8We_T2TMgQEIaw2BIubK7k5IRSUjuwXvuU0frIdr1zZ0_ILW5jbr4qbVqOD862fiDg7jnfv5Jl7btN5Txs0Q3qoMqDGM95Ya6iDpU=",
-    "salt": "fwJnTkqCe95bGQ9PjwOsDA==",
-    "text": "Obscurity surrounds \u00c1dammair, the Irish deity known for being the husband of Flidais, the goddess of the woods. Despite being tied to such a prominent figure, very few myths or legends are known about him."
+  "name": "Ádammair",
+  "attributes": [
+    {
+      "entity": "Ádammair",
+      "attribute": "is an Irish god"
+    },
+    {
+      "entity": "Ádammair",
+      "attribute": "is the husband of the goddess Flidais"
+    },
+    {
+      "entity": "Ádammair",
+      "attribute": "is obscure compared to his consort"
+    },
+    {
+      "entity": "Ádammair",
+      "attribute": "has few known myths"
+    },
+    {
+      "entity": "Flidais",
+      "attribute": "is an Irish woodland goddess"
+    },
+    {
+      "entity": "Flidais",
+      "attribute": "rode in a chariot drawn by deer"
+    },
+    {
+      "entity": "Ádammair",
+      "attribute": "is called a fairy in some accounts"
+    }
+  ],
+  "entities": [
+    {
+      "entity": "Ádammair",
+      "type": "god"
+    },
+    {
+      "entity": "Flidais",
+      "type": "goddess"
+    },
+    {
+      "entity": "woodland goddess",
+      "type": "goddess"
+    },
+    {
+      "entity": "fairy",
+      "type": "being"
+    }
+  ],
+  "sources": [
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+  ],
+  "cyphertext": "pzfLpLkJdN4PMIqdaYZktrd9U6zF_j1PyGTgHiQCLNuiTLLjLmGBNKuxcJWX_eW-hOx41bYNWJ0gj19Zt8eavnYyshFTM4VOo9HsOgYnzWonLZx1ybObQk8We_T2TMgQEIaw2BIubK7k5IRSUjuwXvuU0frIdr1zZ0_ILW5jbr4qbVqOD862fiDg7jnfv5Jl7btN5Txs0Q3qoMqDGM95Ya6iDpU=",
+  "salt": "fwJnTkqCe95bGQ9PjwOsDA==",
+  "text": "Ádammair is an Irish god. He is the husband of the Irish woodland goddess Flidais. He is obscure in comparison to his famous consort. He has few known myths of his own. Flidais was a goddess of wild animals and the hunt. She rode in a chariot drawn by deer. In some accounts Ádammair is called a fairy. Nothing else is known about him beyond his marriage to the goddess. His name survives mainly through his connection to Flidais.",
+  "objective": "This article establishes Ádammair as the obscure Irish god husband of the woodland goddess Flidais.",
+  "key_results": [
+    "Ádammair is an Irish god.",
+    "He is the husband of the woodland goddess Flidais.",
+    "He is obscure in comparison to his consort.",
+    "He has few known myths.",
+    "He is called a fairy in some accounts."
+  ],
+  "evidence": "Monaghan 2003"
 }

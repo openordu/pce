@@ -1,57 +1,71 @@
 {
-    "name": "A\u00ed",
-    "attributes": [
-        {
-            "entity": "A\u00ed",
-            "attribute": "minor Irish divinity"
-        },
-        {
-            "entity": "A\u00ed",
-            "attribute": "poet"
-        },
-        {
-            "entity": "A\u00ed",
-            "attribute": "prophesized to wield great power"
-        },
-        {
-            "entity": "Aoi mac Ollamain",
-            "attribute": "Irish god"
-        },
-        {
-            "entity": "Tuatha D\u00e9 Danann",
-            "attribute": "magical race of Ireland"
-        },
-        {
-            "entity": "prophet",
-            "attribute": "predicted A\u00ed's destiny"
-        },
-        {
-            "entity": "king",
-            "attribute": "attempted to murder A\u00ed"
-        }
-    ],
-    "entities": [
-        {
-            "entity": "A\u00ed",
-            "type": "Irish god"
-        },
-        {
-            "entity": "Aoi",
-            "type": "Irish god"
-        },
-        {
-            "entity": "Aoi mac Ollamain",
-            "type": "Irish god"
-        },
-        {
-            "entity": "Tuatha D\u00e9 Danann",
-            "type": "magical race of Ireland"
-        }
-    ],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "cyphertext": "aAwPGqZvHzHGPqGIcWoyoQ_mpCG-9rRGulTYbDOKgfe07WL-0rlQeAaBe16mLYjodLIq2QjJWlSSZUhT1LjcWXT-UeU0zW4XcLaML55OCNsPCH40nRRszoSq7awDqt9OEVxfb_Tfa8Cm5FYwXkwEKOoLvdWBxou410fV8msjdph8zuVBtI5onBBr7fjojHVn96A6MdQvK6KGJukESuRkdr9vEicIK40Rk6VbrTvPRZJQuzUrOypf5tw0m7MljfYwj80Klb01KceiYqiX-vrbrvBt1iAzoGZzmz8NiDCptcJrohk-6qQ4N_Q28H2Pp6C3NRasTRKcLNhiFyXzE53ExjOgBWmvylAGC-W_8DVeyc3vl67_Mn-TrNLb3njY6ENmEkjuXFgcR3BIRIKpHcQFUNKuBRYO9WeptDNFkkchSai3tHOGGE7WUvWGD-ft8L_PnCXHis9JM-gvSgXoHCn7O7WpvPWgvoe5IK49GIoVbj3ISNVVVqt1j7g8CqCvz7hFEvO3xDbdPgrhwYFxOjc=",
-    "salt": "8R_9qmfjZuMU2jVLgle4XQ==",
-    "text": "Aoi (also known as Aoi mac Ollamain), an Irish deity, belonged to the magical tribe of Ireland called the Tuatha D\u00e9 Danann. A prophet foretold his immense power at birth. This prophecy led a king to plot the murder of the infant. A\u00ed's father managed to save him, allowing his destiny to unfold, although the exact details of this predestined greatness are not known."
+  "name": "Aí",
+  "attributes": [
+    {
+      "entity": "Aí",
+      "attribute": "is an Irish god"
+    },
+    {
+      "entity": "Aí",
+      "attribute": "was a poet of the Tuatha Dé Danann"
+    },
+    {
+      "entity": "Aí",
+      "attribute": "was predicted to wield great power"
+    },
+    {
+      "entity": "Aí",
+      "attribute": "was saved by his father from a king's murder plot"
+    },
+    {
+      "entity": "Aí",
+      "attribute": "is also written Aoi mac Ollamain"
+    },
+    {
+      "entity": "Aoi mac Ollamain",
+      "attribute": "links him to the office of chief poet"
+    }
+  ],
+  "entities": [
+    {
+      "entity": "Aí",
+      "type": "god"
+    },
+    {
+      "entity": "Tuatha Dé Danann",
+      "type": "people"
+    },
+    {
+      "entity": "prophet",
+      "type": "person"
+    },
+    {
+      "entity": "king",
+      "type": "person"
+    },
+    {
+      "entity": "Aoi mac Ollamain",
+      "type": "god"
+    },
+    {
+      "entity": "chief poet",
+      "type": "concept"
+    }
+  ],
+  "sources": [
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+  ],
+  "cyphertext": "aAwPGqZvHzHGPqGIcWoyoQ_mpCG-9rRGulTYbDOKgfe07WL-0rlQeAaBe16mLYjodLIq2QjJWlSSZUhT1LjcWXT-UeU0zW4XcLaML55OCNsPCH40nRRszoSq7awDqt9OEVxfb_Tfa8Cm5FYwXkwEKOoLvdWBxou410fV8msjdph8zuVBtI5onBBr7fjojHVn96A6MdQvK6KGJukESuRkdr9vEicIK40Rk6VbrTvPRZJQuzUrOypf5tw0m7MljfYwj80Klb01KceiYqiX-vrbrvBt1iAzoGZzmz8NiDCptcJrohk-6qQ4N_Q28H2Pp6C3NRasTRKcLNhiFyXzE53ExjOgBWmvylAGC-W_8DVeyc3vl67_Mn-TrNLb3njY6ENmEkjuXFgcR3BIRIKpHcQFUNKuBRYO9WeptDNFkkchSai3tHOGGE7WUvWGD-ft8L_PnCXHis9JM-gvSgXoHCn7O7WpvPWgvoe5IK49GIoVbj3ISNVVVqt1j7g8CqCvz7hFEvO3xDbdPgrhwYFxOjc=",
+  "salt": "8R_9qmfjZuMU2jVLgle4XQ==",
+  "text": "Aí is an Irish god. This minor divinity was a poet of the magical race of Ireland, the Tuatha Dé Danann. At his birth a prophet predicted that he would wield great power. This prediction alarmed a king. The king tried to murder the infant. Aí's father saved the child so that his destiny could be fulfilled. The details of that destined greatness are lost. Only the opening of the tale survives in the sources. The name Aí is also written Aoi or Aoi mac Ollamain. The title mac Ollamain links him to the office of chief poet. His story shows how the Tuatha Dé Danann guarded the fates of their young.",
+  "objective": "This article establishes Aí as a minor Irish god and poet of the Tuatha Dé Danann whose fated power was lost.",
+  "key_results": [
+    "Aí is a minor Irish divinity.",
+    "He was a poet of the Tuatha Dé Danann.",
+    "A prophet predicted he would wield great power.",
+    "A king tried to murder him, but his father saved him.",
+    "The details of his destined greatness are lost.",
+    "His name is also written Aoi mac Ollamain."
+  ],
+  "evidence": "Monaghan 2003"
 }
