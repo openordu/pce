@@ -3,45 +3,29 @@
     "attributes": [
         {
             "entity": "Achall",
-            "attribute": "Ulster princess"
+            "attribute": "died of grief at her brother's end"
         },
         {
-            "entity": "Achall",
-            "attribute": "died of sorrow when Conall Cernach killed her brother, Erc"
-        },
-        {
-            "entity": "Achall",
-            "attribute": "considered one of the six noblest women in Ireland because of her sisterly love"
-        },
-        {
-            "entity": "Tara",
-            "attribute": "just east of Tara"
+            "entity": "Conall Cernach",
+            "attribute": "slew Erc, brother of Achall"
         }
     ],
     "entities": [
         {
             "entity": "Achall",
-            "type": "Irish heroine"
-        },
-        {
-            "entity": "Tara",
-            "type": "ancient center of royal power in Ireland"
-        },
-        {
-            "entity": "Ulster",
-            "type": "region in Ireland"
+            "type": "Person"
         },
         {
             "entity": "Conall Cernach",
-            "type": "person"
+            "type": "Person"
         },
         {
             "entity": "Erc",
-            "type": "person"
+            "type": "Person"
         },
         {
-            "entity": "six noblest women in Ireland",
-            "type": "group"
+            "entity": "Tara",
+            "type": "Place"
         }
     ],
     "sources": [
@@ -49,5 +33,12 @@
     ],
     "cyphertext": "aqOaY0gCQjSryuq-AI802DWiaUPyMCnShNLdn0SlgzHn7mRu2M47S9lKp6dI__DJNQTueFltYpLaoPrUl6nArK1bGdh5hSX4rdtoo32on7moavCv4I7CAKTmAh02dw0jsBSJ-tHFopJPTY_lVxPNgI8G8E5cbGsEM5nTLyH6KKw_O7nszlkKDenDlOO5pHdB12AXF-lRQ_OnO1SFR4DEEjeEotdPyxxE0_JUW-URWlp22MEEAJYRyCjFB9Kvb391ufdk41I3sWs35BLrG__PVD-4_qzOhXp_EMNGYVvOmqdp5zUq2-OwvjiiUgbyDg-IpYyNvDS09-xf3D_q9IhFCRKJQ2R2oi2mi3NKqvjkB2AHmMP48DclawcJwOrGumTs3klK30z0XRxtcBkfp36Yztzl7K8-2Mk=",
     "salt": "cL6cT3rKE7c06JGKG3QCXA==",
-    "text": "An Ulster princess named Achall is renowned as an Irish heroine. Situated just east of Tara, the historical locus of Ireland's royal power, stands a hill named after this woman who perished of heartbreak when Conall Cernach took the life of her brother, Erc. She was regarded as one of the six most notable women of Ireland, thanks to her selfless devotion to her sibling."
+    "text": "Achall is an Irish heroine. A hill east of Tara, the seat of kings, holds her name. She was a princess of Ulster. She died of grief when Conall Cernach slew her brother Erc. Such love for her brother placed her among the six women of Ireland known for loyalty.",
+    "objective": "Describe the Irish heroine Achall.",
+    "evidence": "Monaghan, s.v. Achall.",
+    "key_results": [
+        "A hill east of Tara holds her name",
+        "She died of grief for her brother",
+        "She was among the six best women."
+    ]
 }
