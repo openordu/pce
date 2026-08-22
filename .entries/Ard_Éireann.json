@@ -1,31 +1,31 @@
 {
-    "name": "Ard \u00c9ireann",
+    "name": "Ard Éireann",
     "attributes": [
         {
-            "entity": "Slieve Bloom",
-            "attribute": "peak"
+            "entity": "Ard Éireann",
+            "attribute": "a peak in the Slieve Bloom mountains of central Ireland"
         },
         {
-            "entity": "Slieve Bloom",
-            "attribute": "height of Ireland"
-        },
-        {
-            "entity": "Ireland",
-            "attribute": "mythical birthplace"
+            "entity": "Ard Éireann",
+            "attribute": "mythic birthplace of Ireland"
         }
     ],
     "entities": [
         {
-            "entity": "Ard \u00c9ireann",
-            "type": "mythological site"
+            "entity": "Ard Éireann",
+            "type": "Place"
         },
         {
             "entity": "Slieve Bloom",
-            "type": "mountains"
+            "type": "Place"
         },
         {
             "entity": "Ireland",
-            "type": "land"
+            "type": "Place"
+        },
+        {
+            "entity": "height of Ireland",
+            "type": "Concept"
         }
     ],
     "sources": [
@@ -33,5 +33,11 @@
     ],
     "cyphertext": "X8D66O345GO3EwtvZDwmPM0USDBOXZR5BlDpq6CYCSLcnTU8AzxnnG8QSqKK9JpONcl0Ov7HkuXXsVPbqAyoswa_YiINM_NXAtWh9y5DPuRpBApRurYCHMeY4p6gwu1scHS1fm8LWfuubeMtvpOcF78WEc5wzWlwvVhQfQuxt43P3WHPOnABWQX5D4f_2nbLVyMW-w__MXWy3ZWpnab0JZf2cTej627bt3hmDigze2M4jjdBcQm0jL2tWE_Uo4uamqM8lrnEUBtRul9X-N8WLcfafWfPhp6LP1UgCa1EsfgHlHHNQD6Soe7zDbxv3DSb07SOT5gc1NZZZ1t8hazHBngUVeI77NO18P5hL1xlfa16uf2LRvr9WxeRHkkm1Kwj_c1tU22g5za9SKZlV2ehDAfOJTu4XGMeF6EDfRf4fVSivw==",
     "salt": "0oqx2WyHwPf9CCs0r0MLsA==",
-    "text": "Irish mythological site, Ard \u00c9ireann, is located in the mountains of central Ireland known as Slieve Bloom. Despite not being the highest geographical point in the land, one of its peaks bears the same name which translates to \u201cheight of Ireland.\u201d According to mythology, this summit is the birthplace of the island of Ireland."
+    "text": "Ard Éireann is an Irish mythological site. It is a peak in the Slieve Bloom mountains of central Ireland. The name means height of Ireland. This peak is not the highest point in the land. Myth marks its summit as the birthplace of the island of Ireland.",
+    "objective": "Record Ard Éireann, a peak seen as the mythic birthplace of Ireland.",
+    "key_results": [
+        "Show its place in the Slieve Bloom mountains.",
+        "Show the meaning height of Ireland and the birthplace."
+    ],
+    "evidence": "Monaghan 2003, s.v. Ard Éireann"
 }
