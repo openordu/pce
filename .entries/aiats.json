@@ -1,11 +1,29 @@
 {
     "name": "aiats",
-    "attributes": {},
-    "entities": [],
+    "entities": [
+        {
+            "entity": "directions",
+            "type": "Concept"
+        }
+    ],
+    "attributes": [
+        {
+            "entity": "aiats",
+            "attribute": "a Celtic term for directions"
+        }
+    ],
     "sources": [
         "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
     ],
+    "image": [],
     "cyphertext": "785DYRnxz4FpO4j3fUlbBVcVnVieyxlpQYy5CFT-iKAj0gT9ANsfpODetkqkO7ghXW4=",
     "salt": "iU8ocO22GqbZS6_gCluj9A==",
-    "text": "aiats See Directions."
+    "text": "aiats See DIRECTIONS.",
+    "objective": "Direct readers to the directions entry.",
+    "key_results": [
+        "Provide the cross reference to directions."
+    ],
+    "evidence": [
+        "Monaghan 2003, s.v. aiats"
+    ]
 }

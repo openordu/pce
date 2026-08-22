@@ -1,74 +1,75 @@
 {
     "name": "agricultural rituals",
-    "attributes": [
-        {
-            "entity": "Irish myths and rituals",
-            "attribute": "agricultural"
-        },
-        {
-            "entity": "the king",
-            "attribute": "married to the goddess of the region"
-        },
-        {
-            "entity": "Fertility",
-            "attribute": "reliant upon the rectitude of his actions"
-        },
-        {
-            "entity": "god Amaethon",
-            "attribute": "human farmer"
-        },
-        {
-            "entity": "the most unlikely wastelands",
-            "attribute": "able to make bloom"
-        },
-        {
-            "entity": "rituals",
-            "attribute": "offered to him were not recorded"
-        }
-    ],
     "entities": [
         {
-            "entity": "Irish myths and rituals",
-            "type": "belief"
+            "entity": "Celts",
+            "type": "Concept"
+        },
+        {
+            "entity": "Beltane",
+            "type": "Concept"
+        },
+        {
+            "entity": "Crom Dubh",
+            "type": "Being"
+        },
+        {
+            "entity": "Samhain",
+            "type": "Concept"
         },
         {
             "entity": "king",
-            "type": "person"
+            "type": "Person"
         },
         {
             "entity": "goddess",
-            "type": "mythical being"
+            "type": "Being"
         },
         {
-            "entity": "Fertility",
-            "type": "concept"
+            "entity": "Amaethon",
+            "type": "Being"
         },
         {
-            "entity": "Wales",
-            "type": "region"
+            "entity": "Kulhwch and Olwen",
+            "type": "Artifact"
+        }
+    ],
+    "attributes": [
+        {
+            "entity": "Celts",
+            "attribute": "developed farming and new rites"
         },
         {
-            "entity": "god Amaethon",
-            "type": "mythical being"
+            "entity": "Beltane",
+            "attribute": "a time for driving animals between fires"
         },
         {
-            "entity": "epic poem Kulhwch And Olwen",
-            "type": "literary work"
+            "entity": "Crom Dubh",
+            "attribute": "the god who received fruit offerings at Samhain"
         },
         {
-            "entity": "agricultural fertility",
-            "type": "concept"
+            "entity": "king",
+            "attribute": "bound to the goddess of the region"
         },
         {
-            "entity": "rituals",
-            "type": "practice"
+            "entity": "Amaethon",
+            "attribute": "a god of agricultural fertility"
         }
     ],
     "sources": [
         "MacCulloch, J. A. The Religion of the Ancient Celts. London: Constable, 1911, 57, 80.",
         "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
     ],
+    "image": [],
     "cyphertext": "W6yx8ul_uvUlWCqyX81GJMJilq7KCROFZAzp7c2ZChlFTRq6h6U3e81gWr_xVuM6wOmcy9P2GTnHqp58hpM4WESZN16eKCAPI6Jcr4g4gPlZjCW3EpwkLS5cUfGBBxEzWZPSkBfDuBFgq9Y3KE5tQPWtbaOA_-Rglk0OZPvZqfOGCCSC7jCV8t-3E652aiBuBUCJWx3WzzL0pDB1ZbPrTQDXGhxdRWYhCZQohWwbP0jnu_kvufaTzmejiqu7LFT02DXAG5BZwJXGXNkBEtQFq5PAmf46nADDrIBdeBYKJrU9fpexslYDU9hAw_DjRDgtuegBsmAtFYmJnYjMlKePOQ50X2BY1VbrZk2KlJJdOeBgXkTyeAGPOS_iqS3Jr2QDbr8WO-uY8GPYjJZnexCKxGPfv3TDbMR6sBhd8cz6coHVVAfODLQ77JolVda5d3tAliCj6XifyvgApqAEZMeZzsLqGOo8Cd4fiNm84rUO6dCC2kcq9hh_pcpF6qAezkZb6VmxV9-9XjhzRNWN3D9xIl9cGN0iSca2kKyERYgw1gWMOf_O1IMq_fz1bxAItOItkVas1iczmQeDUxH_a9VtrQqvyBJc84OB2VjhYRkv0pe19sHHGeAoDT3YipRsWn_Madfc9siM7QQsT0SqGgq6VbyXSAQY-9NxUtTXKhpwFyrody7zCxLXdmTF7M7iWn4B9O_n-Cw-PxcemOJYr5rxpkDB9cbfm0tsxjgY7tovN3ZZO6dyDvcavDq1f1xJan7S5F4R9B4jMI8x8RypQrjnFjegVe-rAMcIoVFMcjKGhVF_8XUrLoFCARBQGK4gY6WUFQ6KRt6UfLwkVSH0IVAoYaI9ayRRFV3V0e6_l0c9WvinbI-KdAUDaGl7h38aoVU2rUPmg0qPkja3JPEND4Vkquh9My5ynSxX9TG0413J3m26zNTJ0qQDficdOwvcuPtDL8kVYMP63Z1fa3TxD1f7qhttubtYyLg4HPJDltrBrVm6spc9PJDQZjUPczMnC14IyVAXKWeUw39X1FuNLVceZDFVjHgKMLhZ3yLdPpBeZIqii97CtXpZlQ_-qyINUkPVQAyaLwdYFEns_JWU5kxFmALwDDaVapJkUvKRK9x8e_ywPX26hzNdYrj-4M7LZJaC72nQXCDZCNR1xZE4_lbxvqzx0AQH9vtIbjdftj7FwZu1Du8VtkerGcUxCcdGQdglGu-t6Zf77hYZ3hsta-uuZ-j2r32jC_6HAZiaBHDH3ck0AEaV1aavOUQi7c05Tx2UaHqx2vybCS5NhuzPtq6xt3DygjO2JwQBi5ksh3hix-oJ3NHCdw0gTUCHzZPiRvcKDJADlYNND3WF7UGKZMXnRSdzYPzH1tzQwf8p0mN_LXpbfaCtwHc14-dM8_GTrNAHyF5s4N74_kHqINh-DKLK1qhpSFnouVYSAOt-c5yxfabYbrv-uHCuyXAKOInuBt9p4Lq3OuUU4Z7IZKrtRQ2F4WYxn9ODwpDllNutEnVCZ0Kpo-f3Q5UsLac5BFOar59bULJDZgP4ZdY50BISksl9Yn0TMxNV1Vc1u816QlZ6UGdmnAcRPa5IqKPVbkBuvANF2lDgY4JOT3YMCebCcKP0Ho_VAJgTmTvI2UPi4cnFnlBzFlx1uYMqgRinLyA=",
     "salt": "VF0y-WN69MoTA_Y1ivRWNQ==",
-    "text": "The Celts, initially known as nomadic tribes, eventually developed agriculture which led to the creation of new religious ceremonies to support this new way of life. Whether these ceremonies were Celtic innovations or borrowed from pre-Celtic cultures remains a subject of dispute. Rituals associated with farming, like the presentation of fruits to the god Crom Dubh during Samhain, and those related to herding, such as driving animals between Beltane fires, were observed in Ireland. This indicates a hybrid economy that depended on both fields and livestock. Tales and rituals of Ireland that uphold the belief that the king was married to the region's goddess, with the Fertility of the area hinging on his actions (See Sovereignty, Inauguration), more directly acknowledge the importance of the agriculture industry. In Wales, the human farmer god Amaethon, who could make barren lands fertile, is mentioned in the epic poem Kulhwch And Olwen as a symbol of agricultural fertility, without any recorded rituals."
+    "text": "The Celts entered history as migratory herding tribes. They soon took up farming, perhaps from contact with settled peoples. New religious rites grew to support the new lifestyle. The rites may have been Celtic inventions or adaptations from pre-Celtic cultures. In Ireland, some rituals linked with herding, such as driving animals between the Beltane fires. Others linked with farming. People offered fruits to the god Crom Dubh at Samhain. Together they show a mixed economy. Irish myths also held that the king was married to the goddess of the region, and that her fertility relied on his actions. In Wales, the god Amaethon appears in the epic poem Kulhwch and Olwen as a human farmer who made barren wastelands bloom. The rituals offered to him were not recorded.",
+    "objective": "Record the farming and herding rituals of the Celts.",
+    "key_results": [
+        "Show the mixed economy of Ireland, the king bond to the goddess, and the Welsh god Amaethon."
+    ],
+    "evidence": [
+        "MacCulloch 1911, 57, 80",
+        "Monaghan 2003, s.v. agricultural rituals"
+    ]
 }

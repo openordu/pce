@@ -1,83 +1,55 @@
 {
     "name": "Agravaine",
-    "attributes": [
-        {
-            "entity": "Agravaine",
-            "attribute": "Arthurian hero"
-        },
-        {
-            "entity": "Arthur",
-            "attribute": "king"
-        },
-        {
-            "entity": "knights",
-            "attribute": "Round Table"
-        },
-        {
-            "entity": "Gawain",
-            "attribute": "brother"
-        },
-        {
-            "entity": "Gaheris",
-            "attribute": "brother"
-        },
-        {
-            "entity": "Gareth",
-            "attribute": "brother"
-        },
-        {
-            "entity": "Lancelot",
-            "attribute": "killer"
-        },
-        {
-            "entity": "Mordred",
-            "attribute": "evil"
-        },
-        {
-            "entity": "Agravaine",
-            "attribute": "member of Round Table"
-        },
-        {
-            "entity": "Lancelot",
-            "attribute": "killed Agravaine"
-        },
-        {
-            "entity": "Agravaine",
-            "attribute": "plotted with Mordred"
-        }
-    ],
     "entities": [
         {
             "entity": "Agravaine",
-            "type": "Arthurian hero"
+            "type": "Person"
         },
         {
             "entity": "Arthur",
-            "type": "king"
-        },
-        {
-            "entity": "knights",
-            "type": "Round Table"
+            "type": "Person"
         },
         {
             "entity": "Gawain",
-            "type": "brother"
+            "type": "Person"
         },
         {
             "entity": "Gaheris",
-            "type": "brother"
+            "type": "Person"
         },
         {
             "entity": "Gareth",
-            "type": "brother"
+            "type": "Person"
         },
         {
             "entity": "Lancelot",
-            "type": "killer"
+            "type": "Person"
         },
         {
             "entity": "Mordred",
-            "type": "evil"
+            "type": "Person"
+        },
+        {
+            "entity": "Round Table",
+            "type": "Concept"
+        }
+    ],
+    "attributes": [
+        {
+            "entity": "Agravaine",
+            "attribute": "member of the Round Table"
+        },
+        {
+            "entity": "Agravaine",
+            "attribute": "brother of Gawain, Gaheris, and Gareth"
+        },
+        {
+            "entity": "Agravaine",
+            "attribute": "killed by Lancelot"
+        },
+        {
+            "entity": "Mordred",
+            "attribute": "the one Agravaine plotted with"
         }
     ],
     "sources": [
@@ -88,5 +60,12 @@
     ],
     "cyphertext": "f51AjpOmNFoBUc9QJ3hi2sK6PZ89_MEx9S8PmtdXKZ360s1sjRZlxWlMsr8I2PO3DCz7Ko4WkIsk1qJY5FvBcLRdZC5V0UfI0L3konPI2emyxrEY3qqwwCUlEm-5Lmr72LB4UbePcvonaRgkJbyPV9DxX-hy-kYcAwBNzlJZmq82YSJQdUbf7Gdg-rftPvqtMAb8xgfDEJI2dJZOU3fFc2KMD630SHBzfXvw7nw1GCNbisgFT-K88XrwjGv49WscQjWWp5wqW26NFxMQCFds7hi648kYrtTjX6DrZF2N8_nTHlyMQgFF53gwHOH-sUqs0wBb6EPNs9LE_SYOCR9wozViEOMsso3AEdw6IFozTFKxMBECM-t6vXA9B7uYUNGqwKY=",
     "salt": "J5qcheVTeCn9qYFHzYRP9A==",
-    "text": "Agravaine was one of the members of the Knights of the Round Table, which also included his brothers Gawain, Gaheris and Gareth, and was a minor character in the legends of King Arthur. Unfortunately, Agravaine met his demise when he plotted with the wicked Mordred and was killed by Lancelot."
+    "text": "Agravaine was a minor figure in the legends of King Arthur and his knights of the Round Table. He was a member of that assembly, as were his brothers Gawain, Gaheris, and Gareth. He plotted with the evil Mordred. Lancelot killed him for that plot.",
+    "objective": "Record Agravaine, an Arthurian knight of the Round Table.",
+    "key_results": [
+        "Show his family ties and his death at the hands of Lancelot."
+    ],
+    "evidence": [
+        "Monaghan 2003, s.v. Agravaine"
+    ]
 }

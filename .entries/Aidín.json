@@ -1,53 +1,53 @@
 {
-    "name": "Aid\u00edn",
+    "name": "Aidín",
     "entities": [
         {
-            "entity": "Aid\u00edn",
-            "type": "Irish heroine"
+            "entity": "Aidín",
+            "type": "Person"
         },
         {
             "entity": "Oscar",
-            "type": "warrior of the elite Fianna"
+            "type": "Person"
         },
         {
             "entity": "Fianna",
-            "type": "elite group of warriors in Irish lore"
+            "type": "Concept"
         },
         {
-            "entity": "Ois\u00edn",
-            "type": "Bard"
+            "entity": "Oisín",
+            "type": "Person"
         },
         {
-            "entity": "Benn \u00c9tair",
-            "type": "hill"
+            "entity": "Benn Étair",
+            "type": "Place"
         }
     ],
     "attributes": [
         {
-            "entity": "Aid\u00edn",
-            "attribute": "wife of Oscar"
+            "entity": "Aidín",
+            "attribute": "wife of the warrior Oscar"
         },
         {
-            "entity": "Aid\u00edn",
-            "attribute": "minor figure in Irish lore"
+            "entity": "Oscar",
+            "attribute": "a warrior of the elite Fianna"
         },
         {
-            "entity": "Aid\u00edn",
-            "attribute": "died of grief at her husband\u2019s death"
-        },
-        {
-            "entity": "Ois\u00edn",
-            "attribute": "buried her with high honors"
-        },
-        {
-            "entity": "Benn \u00c9tair",
-            "attribute": "hill called Benn \u00c9tair"
+            "entity": "Oisín",
+            "attribute": "buried Aidín under a cairn"
         }
     ],
     "sources": [
         "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
     ],
+    "image": [],
     "cyphertext": "Kk2tNCVmzyCf8h67LpAnTSPY-hNSW-zyih662qdTi0i-0PQfKgwXAj1nRV4ZqW3_FsbG_Mt15hs-NdUMQ8aIScKSFA2aJxIHHE3fvqO8oHoum794hSQs1UXrK77RFSeKiQcCvjnMAzoD-wEs8BvrXars8J3eeiZjNuEso_zFK6J6dwwYIsFOG1LZNU7JSfeKYioBM62jMXeoSA0-W8D7Je0GfzNjbCBXxo_o5J2G4cHfxV0cSuymD2q6x_UpQqqtMrf8s6q5pXXxK2E_n-cyunKI7NgEM8kZcezdhhcRknd-4GH-b3PhLxjRJrc3LhdstLGi5G0wn4fh5uLoK8HoOc7an1ULqVX50amKnYoQjrwdy8RhfKsqs9qRIFqsdy8qxa5cPVknQsJ4uKyXrMA=",
     "salt": "O6cgaytctZCKLWb3sE7SDw==",
-    "text": "Irish heroine Aid\u00edn (also known as Aideen) is a figure in Irish lore who was married to Oscar, a warrior belonging to the elite Fianna clan. Although considered a minor character, Aid\u00edn's story involves her heartbreaking death caused by her husband's passing. Following her death, the Bard Ois\u00edn gave her a burial of high honors and laid her to rest beneath a Cairn on the hill known as Benn \u00c9tair."
+    "text": "Aidín, also called Aideen, was a minor figure in Irish lore. She was the wife of Oscar, a warrior of the elite Fianna. She died of grief at the death of her husband. The bard Oisín buried her with high honors under a cairn on the hill called Benn Étair.",
+    "objective": "Record Aidín, the wife of the warrior Oscar.",
+    "key_results": [
+        "Show her grief and her burial by the bard Oisín."
+    ],
+    "evidence": [
+        "Monaghan 2003, s.v. Aidín"
+    ]
 }

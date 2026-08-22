@@ -1,53 +1,57 @@
 {
     "name": "Agretes",
-    "attributes": [
-        {
-            "entity": "Agretes",
-            "attribute": "Arthurian hero"
-        },
-        {
-            "entity": "Camelot",
-            "attribute": "kingdom"
-        },
-        {
-            "entity": "Arthur",
-            "attribute": "king"
-        },
-        {
-            "entity": "Holy Land",
-            "attribute": "place"
-        },
-        {
-            "entity": "Grail",
-            "attribute": "great chalice"
-        }
-    ],
     "entities": [
         {
             "entity": "Agretes",
-            "type": "hero"
+            "type": "Person"
         },
         {
             "entity": "Arthur",
-            "type": "hero"
+            "type": "Person"
         },
         {
             "entity": "Camelot",
-            "type": "kingdom"
+            "type": "Place"
         },
         {
             "entity": "Holy Land",
-            "type": "place"
+            "type": "Place"
         },
         {
             "entity": "Grail",
-            "type": "object"
+            "type": "Artifact"
+        }
+    ],
+    "attributes": [
+        {
+            "entity": "Agretes",
+            "attribute": "an Arthurian hero"
+        },
+        {
+            "entity": "Agretes",
+            "attribute": "reigned at Camelot before Arthur"
+        },
+        {
+            "entity": "Agretes",
+            "attribute": "refused to aid a pilgrim bearing the Grail"
+        },
+        {
+            "entity": "Agretes",
+            "attribute": "stricken mad and died"
         }
     ],
     "sources": [
         "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
     ],
+    "image": [],
     "cyphertext": "SSbEDIaYv3CxRGQhcwaNhSS_upRGZwsKi819M3DS_WcCDepk-qQRgg9ZAiAEk_-yZQL75JOQyMaNtIQUhmmw6hMz12aMRQy1N7YC_k1Z-LTudBmS57riujAQh4YylrQsAzXYYlC0RamzhNrfx7oPmWaVYmq9Ge814WSJQkOvYx6CBm6Kj4qKNPyIiY25fn49rE1JZofw9ulMEgrXnHdbLVpHE82DlW7dv4LXPGa7sTT_RfYLaQ95gxf4QyTmd1KzPGDgHH22HD3lDfUnm4_akaPcrkJLwE81sdyOPCE_MymAJpwdB0VF8hSnEyXQOLH1_p13m7_RRdS7P3aVkd5i9Vsc",
     "salt": "vP1ylStRjMAULs7VDercVw==",
-    "text": "A heroic figure known as Agretes once ruled over Camelot before King Arthur ascended to the throne. Agretes' life came to a tragic end due to his refusal to aid a pilgrim from the Holy Land who possessed the revered Grail. His refusal resulted in him being struck with madness, leading to his ultimate demise."
+    "text": "Agretes was an Arthurian hero. He reigned over Camelot long before King Arthur took its throne. He refused to assist a pilgrim from the Holy Land who bore a great chalice called the Grail. Because of that refusal, he was stricken mad and died.",
+    "objective": "Record the reign and fate of Agretes, a king before Arthur.",
+    "key_results": [
+        "Show his refusal to aid the grail pilgrim and its consequence."
+    ],
+    "evidence": [
+        "Monaghan 2003, s.v. Agretes"
+    ]
 }
