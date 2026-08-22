@@ -3,33 +3,29 @@
     "entities": [
         {
             "entity": "Britovius",
-            "type": "god"
+            "type": "Deity"
         },
         {
-            "entity": "region near N\u00eemes in France",
-            "type": "location"
-        },
-        {
-            "entity": "Romans",
-            "type": "people"
+            "entity": "Nîmes",
+            "type": "Place"
         },
         {
             "entity": "Mars",
-            "type": "warrior god"
+            "type": "Deity"
         }
     ],
     "attributes": [
         {
             "entity": "Britovius",
-            "attribute": "Continental Celtic god"
+            "attribute": "a Continental Celtic god"
         },
         {
-            "entity": "region near N\u00eemes in France",
-            "attribute": "location"
+            "entity": "Britovius",
+            "attribute": "a god of the region near Nîmes"
         },
         {
-            "entity": "Romans",
-            "attribute": "viewed Britovius as similar to their own warrior god Mars"
+            "entity": "Britovius",
+            "attribute": "compared by the Romans to their god Mars"
         }
     ],
     "sources": [
@@ -37,5 +33,15 @@
     ],
     "cyphertext": "9bn2I0DBCb_hAQDuJvmb7di9Ae2QNo_rZr2ZJw2swyKT0X77REzvcyfQoWZNOCV29suIaHFtmkon_I5Fv-r36GT29UBhRuKdg0q-z70FPeaW7-BxK8ooObOWnlgmTuNxRRh9QzrLA8p_ygUTXxR-ZCZ-MqBfxSeUe3gjMrY_93qgtVT-EoIMoKRkV5DxyeHk7DEDH8-pJCyaIlAsXieamku51hR0VszOs6B8nGegHIS-MyHYXx7de5M9b8LUb0Em",
     "salt": "CilVPHuXxkJTTA3uYf298A==",
-    "text": "A deity named Britovius was worshipped in the Continental Celtic regions near N\u00eemes, France. Information about this god remains scarce. However, the Romans viewed Britovius as being comparable to their own god of war, Mars."
+    "text": "Britovius is a Continental Celtic god. People knew little about him. He ruled a region near the city of Nîmes in France. The Romans saw him as similar to their own warrior god Mars.",
+    "okr": {
+        "objective": "Describe Britovius, the Continental Celtic god known from Nîmes.",
+        "key_results": [
+            "Britovius was a Continental Celtic god.",
+            "People knew little about him.",
+            "His region lay near the city of Nîmes.",
+            "The Romans compared him to Mars."
+        ],
+        "evidence": "Monaghan 2008, s.v. 'Britovius'."
+    }
 }

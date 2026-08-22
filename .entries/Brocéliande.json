@@ -1,83 +1,51 @@
 {
-    "name": "Broc\u00e9liande",
+    "name": "Brocéliande",
     "entities": [
         {
-            "entity": "Broc\u00e9liande",
-            "type": "Arthurian site"
+            "entity": "Brocéliande",
+            "type": "Place"
         },
         {
             "entity": "Merlin",
-            "type": "magician"
+            "type": "Person"
         },
         {
             "entity": "Viviane",
-            "type": "mistress"
-        },
-        {
-            "entity": "forest",
-            "type": "legendary"
-        },
-        {
-            "entity": "Brittany",
-            "type": "location"
-        },
-        {
-            "entity": "Celts",
-            "type": "culture"
-        },
-        {
-            "entity": "Trees",
-            "type": "sacredness"
+            "type": "Person"
         },
         {
             "entity": "Rennes",
-            "type": "location"
+            "type": "Place"
         },
         {
             "entity": "Forest of Paimpont",
-            "type": "primeval forest"
+            "type": "Place"
         },
         {
-            "entity": "Nemeton",
-            "type": "sacred site"
+            "entity": "nemeton",
+            "type": "Concept"
         }
     ],
     "attributes": [
         {
-            "entity": "Merlin",
-            "attribute": "imprisoned by Viviane"
+            "entity": "Brocéliande",
+            "attribute": "an Arthurian forest in eastern Brittany"
         },
         {
             "entity": "Merlin",
-            "attribute": "lives forever within a great tree"
+            "attribute": "imprisoned there by his mistress Viviane"
         },
         {
-            "entity": "forest",
-            "attribute": "legendary"
-        },
-        {
-            "entity": "forest",
-            "attribute": "piercingly cold fountain"
-        },
-        {
-            "entity": "fountain",
-            "attribute": "brews storms at the behest of its lady guardian"
-        },
-        {
-            "entity": "Brittany",
-            "attribute": "eastern"
-        },
-        {
-            "entity": "Rennes",
-            "attribute": "near"
+            "entity": "Viviane",
+            "attribute": "she sought to trick his magic from him"
         },
         {
             "entity": "Forest of Paimpont",
-            "attribute": "now called"
+            "attribute": "the current name of the forest near Rennes"
         },
         {
-            "entity": "Nemeton",
-            "attribute": "Europe's last remaining"
+            "entity": "Brocéliande",
+            "attribute": "perhaps Europe's last remaining nemeton"
         }
     ],
     "sources": [
@@ -88,5 +56,15 @@
     ],
     "cyphertext": "JpfXDlRqFiI2G8bezt6lKxCvetLhUfq-UFDCTwLhdDMrjZyvAvZiHwvqOx2OgRyAptI6jcLpszQvZaM6fqaA8qKNbWfG_ymRCEWF5qiu0QP7BJxno8Ed2iBmd8QtYELHtfrjE9xxZVFcmAW5eUGs3DY1Nc4g5XAr-Y97A3njvsbnElMlmzygIwmlGOwa1_Fb0CAYOoMot38e6EcUyGLwPDm1JPYFWxZpsDgcAsBLeQufMjoKc4UMB85UuCHCj4rIxOxTQP-0AEciL4fhaCaxWRDy98GmwcYbLo0avztw3KahlE_12ymw9tOjGQZefLydOq8ilA7ZgHsTuiZJU7tD8A2PcWEaAaedvHhygVvXKtml47unVRZ2Na9FRqc4rwhcelc3epsLyICo124RbojVkS08xNcTJBc8LAIFwoyenGKyVfXNNCSSUU_oItRUMXpA-qnSXsDGCMV6zrbjqoNu8uoswGJRNF-B-44vOhGQWQOFkIGEClz5KPz_rJ1sgTDn0nEVYyqdntC8hl7vrOFXUMnw1nFBORllmVKWXZvf3F0guqBvzuI3q4KeckE1cReYc7Yy2FNf3gwHCvHQ11g-02KjjRsH7dF731uq8b4dpo_BnJT03C4mxW_u9H1dgCi7fZOAV_RxnCseus6U-K0E0C2vpDr4SK_dDnRDT-TuNE_lS377Axvu-JKEaTaiLcXqKvZGfCNhQfznUqRJjcMTsYRGxpH8Nut2_CzAExMHqtXXBnarMhA0VuFc_stc1QYbN5vkciZ8tbOc4E-fJ-wpswvLCFQ5-c_zToW2BztowP29zRLQmZS8Y37g-Dqn2ceH3ktWTbH-PpHgxS7Dmr2oIjwoPJAmm1rpDSxP0D4XCkS--fLBuL_yFrBqab9NMcXzik12N34g",
     "salt": "70b1iJBa-7C92B8bRITI3w==",
-    "text": "Broc\u00e9liande, an Arthurian site located in eastern Brittany, is a legendary forest that is believed to have been the place where Merlin, the great magician, was imprisoned by his mistress, Viviane. The fair but ambitious woman intended to trick Merlin into relinquishing his magical knowledge, and legend insists that he lives on within a great tree in the region. Additionally, within this multilayered forest is a fountain that, at the behest of its guardian (see Owein and Barenton), stirs up storms in its wake. Known for their belief in the sacredness of trees, the Celts revered this still-standing primeval forest near Rennes (now referred to as the Forest of Paimpont), now potentially recognized as Europe's sole remaining Nemeton."
+    "text": "Brocéliande is an Arthurian site. This legendary forest sits in eastern Brittany. People say the magician Merlin rests there. His mistress Viviane imprisoned him in the wood. She sought to trick his magical knowledge from him. Legend holds that he lives forever inside a great tree. A cold fountain also stands in the forest. It brews storms at the bidding of its lady guardian. The forest stands near Rennes. Today people call it the Forest of Paimpont. It may be Europe's last remaining nemeton.",
+    "okr": {
+        "objective": "Describe Brocéliande, the Arthurian forest that may hold Europe's last nemeton.",
+        "key_results": [
+            "Brocéliande is an Arthurian forest in eastern Brittany.",
+            "The magician Merlin is said to rest there.",
+            "His mistress Viviane imprisoned him in the wood.",
+            "It may be Europe's last remaining nemeton."
+        ],
+        "evidence": "Monaghan 2008, s.v. 'Brocéliande'."
+    }
 }
