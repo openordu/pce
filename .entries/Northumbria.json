@@ -1,60 +1,66 @@
 {
-    "name": "Northumbria",
-    "attributes": [
-        {
-            "entity": "Northumbria",
-            "attribute": "Celtic region"
-        },
-        {
-            "entity": "Celtic times",
-            "attribute": null
-        },
-        {
-            "entity": "Britain",
-            "attribute": "climatically harsh part"
-        },
-        {
-            "entity": "Northumbria",
-            "attribute": "called Bernicia"
-        },
-        {
-            "entity": "southern part",
-            "attribute": "more fertile"
-        },
-        {
-            "entity": "southern part",
-            "attribute": "called Deira"
-        }
+  "name": "Northumbria",
+  "sources": [
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+  ],
+  "cyphertext": "7GVp1k9auZI8IrOOmgsh7A3EG7KDHVICA7XcjzVPDpdhaw8eno8_fS3oKYmt4oeuU4CT-2J6JrOtYC7wnc0l5ssC4ZlhtYTWuY1HQ5ZJWsnwJxOwUldK8VIpslx83xvv5dzB4GRxAr8TmKqcalptIv3bk3xnuq4L2GK_GTFvlMIGqf8f2dmbKf_h6qUkKxKgHAMFWbxBdG7YjO5CpMeG4sZgqPEIxXN32A0UdA5WwBKifGBFf9qnP8b7bBZX0FNHc6oau9DHLGddtFN6R9_y6A==",
+  "salt": "Eujc73FzmR9MzbxcDvCLUg==",
+  "image": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Map_of_the_Kingdom_of_Northumbria_around_700_AD.svg/1200px-Map_of_the_Kingdom_of_Northumbria_around_700_AD.svg.png"
+  ],
+  "text": "Northumbria is the setting for a tale of a mischievous sprite. The sprite disguised itself as a midwife's horse while a childbirth was under way, then vanished and left the midwife without help. It played the same trick on a plowman who went to harness his team. The sprite left the plowman alone with his empty team in the barn. In the north of Britain people called the creature a doonie. It often wore the shape of a horse, or of an old man or woman, and drew the same wicked teasing as its southern relative.",
+  "entities": [
+    {
+      "entity": "sprite",
+      "type": "mythological creature"
+    },
+    {
+      "entity": "Northumbria",
+      "type": "place"
+    },
+    {
+      "entity": "doonie",
+      "type": "mythological creature"
+    },
+    {
+      "entity": "Scotland",
+      "type": "place"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "sprite",
+      "attribute": "a mischievous being of Northumbria"
+    },
+    {
+      "entity": "sprite",
+      "attribute": "disguised itself as a midwife's horse"
+    },
+    {
+      "entity": "sprite",
+      "attribute": "disappeared, leaving the midwife stranded"
+    },
+    {
+      "entity": "sprite",
+      "attribute": "played the same trick on plowmen"
+    },
+    {
+      "entity": "doonie",
+      "attribute": "the same creature in Scotland"
+    },
+    {
+      "entity": "doonie",
+      "attribute": "appeared as a horse or as an old person"
+    }
+  ],
+  "okr": {
+    "objective": "Northumbria is home to a mischievous sprite that tricked a midwife and plowmen.",
+    "key_results": [
+      "A sprite in Northumbria disguised itself as a midwife's horse during a birth.",
+      "The sprite then disappeared, leaving the midwife stranded.",
+      "It played the same trick on plowmen who went to hitch their team.",
+      "In Scotland the same creature was called a doonie."
     ],
-    "entities": [
-        {
-            "entity": "Northumbria",
-            "type": "Location"
-        },
-        {
-            "entity": "Celtic times",
-            "type": "Time"
-        },
-        {
-            "entity": "Britain",
-            "type": "Location"
-        },
-        {
-            "entity": "Bernicia",
-            "type": "Location"
-        },
-        {
-            "entity": "Deira",
-            "type": "Location"
-        }
-    ],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "image": [
-        "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Map_of_the_Kingdom_of_Northumbria_around_700_AD.svg/1200px-Map_of_the_Kingdom_of_Northumbria_around_700_AD.svg.png"
-    ],
-    "cyphertext": "7GVp1k9auZI8IrOOmgsh7A3EG7KDHVICA7XcjzVPDpdhaw8eno8_fS3oKYmt4oeuU4CT-2J6JrOtYC7wnc0l5ssC4ZlhtYTWuY1HQ5ZJWsnwJxOwUldK8VIpslx83xvv5dzB4GRxAr8TmKqcalptIv3bk3xnuq4L2GK_GTFvlMIGqf8f2dmbKf_h6qUkKxKgHAMFWbxBdG7YjO5CpMeG4sZgqPEIxXN32A0UdA5WwBKifGBFf9qnP8b7bBZX0FNHc6oau9DHLGddtFN6R9_y6A==",
-    "salt": "Eujc73FzmR9MzbxcDvCLUg==",
-    "text": "Bernicia and Deira were the names given to the region now known as Northumbria during Celtic times. The harsher, northern part of the region was known as Bernicia, while the more fertile southern part was known as Deira."
+    "evidence": "Monaghan, Encyclopedia of Celtic Mythology and Folklore"
+  }
 }

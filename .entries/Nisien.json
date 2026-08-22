@@ -1,45 +1,67 @@
 {
-    "name": "Nisien",
-    "attributes": [
-        {
-            "entity": "Nisien",
-            "attribute": "plays a relatively small part in the story"
-        },
-        {
-            "entity": "Nisien",
-            "attribute": "may be simply a positive foil for his evil brother"
-        },
-        {
-            "entity": "evil brother",
-            "attribute": "Nisien may be simply a positive foil for him"
-        },
-        {
-            "entity": "Welsh tales",
-            "attribute": "recorded as the Mabinogion"
-        }
+  "name": "Nisien",
+  "sources": [
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+  ],
+  "cyphertext": "5khP8nJj3u9GQtWn4xWk0HFMSxVKEFZPdMcCW6GQ9J541W24PcBrFt-Rft_5dEeBdds-cQyQ3ahQFlxX6Xr9hpYuVCKQAc1bK7Z1rF8Yi9su6eRQhN4J27vq7FIGTw7WycXghWerJb1GFKB8d0UsD2L1gdNcM-3DLeEBNRJluxs_cfSgBm7LwNGyzscgp_ajKkOo9dX3g_fUdbiuZ_40yKTDSzyTH-iUh1FjL7mJMx59e2z6QPSKdITb1kuMcW979GKneWSrReNIm2QJbcXdNBADfNafN9GXQaoVFm4mOBUW8VmkHLnsM3j4npaksArg2ocS4ull2ShasVfu0MjmhzQMzGDywIwNPvY11WL1XOXe9wwQwb11oQJMVV88GPKInQgTB33_KY_exWnLHitLWVfXjXb0V0Inyt7vbbdde5h_Jk9CXrJQG0NjerdxhFT_UEo8kyu6U9zbOVWRKJPB1i64wcVeIRJkgiDjEDJ7igvXmHCvnIr32t676IWAzTlck5joe6dCqnY_5LUiWxFKaIdgpA75GSsVGuWovrEx8gqLsvZcrIsGf3DpQRf5WPCFLsyHLP9A5GF1Uw70C_QL4kQRMf_66ClUKfMxDVQJrTQWkQbnvrKUln4-0Vf3hgKuGPt6S_E18FdNf1ug2f1Xoju8tRj3NBWBCwTWdyGVoFV-M1KYrDBNToYxpMh110i8tL9KSPcvS7gHxFqXj70pMX2wkW1U6NhU_Rg2uW8n73F0cc9dEp3Tu_uJEL7wAU9mbeXVoJJI9dDmoCbYeB5MGqp8RyNJ_zGuCrKqX81xkIE8yT89Db7bXhSvLbKUU_F2FeCaKQh2YhHbcoRM4KBSdZvVby9qZdnCioGVyyoIXXCiZKu_1iNlx9a0LCum2N5B92qHokQ1IeOgSsV2VGkx_XzE0KG0L50U3GSFkN6eLZHsU4nFxBqbWzKf-6nMvfQzbEf38XB_J4zvtHYN32d-rsd2",
+  "salt": "3q7TnWhRlfYFU-noyWIJNg==",
+  "text": "Nisien is a Welsh hero or god. He was the gentle half brother of Brân the Blessed and wished only the best for everyone. His brother Efnisien was his opposite, a being who made mischief of every kind. Efnisien started the great war that ended with Brân's death in Ireland. His cruelty made the king of that land turn against Wales forever. Nisien sought to mend the trouble and to say words of apology for his brother, but his effort came to nothing. Nisien plays a small part in the Welsh tales recorded in the Mabinogion and may serve simply as a good contrast to his evil brother.",
+  "entities": [
+    {
+      "entity": "Nisien",
+      "type": "hero"
+    },
+    {
+      "entity": "Brân the Blessed",
+      "type": "god"
+    },
+    {
+      "entity": "Efnisien",
+      "type": "character"
+    },
+    {
+      "entity": "Mabinogion",
+      "type": "artifact"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Nisien",
+      "attribute": "a Welsh hero or god"
+    },
+    {
+      "entity": "Nisien",
+      "attribute": "gentle half brother of Brân the Blessed"
+    },
+    {
+      "entity": "Nisien",
+      "attribute": "wished only the best for everyone"
+    },
+    {
+      "entity": "Efnisien",
+      "attribute": "evil brother who caused the great war"
+    },
+    {
+      "entity": "Efnisien",
+      "attribute": "led to Brân's death in Ireland"
+    },
+    {
+      "entity": "Nisien",
+      "attribute": "tried to intervene but failed"
+    },
+    {
+      "entity": "Nisien",
+      "attribute": "plays a small part in the Mabinogion"
+    }
+  ],
+  "okr": {
+    "objective": "Nisien is the gentle Welsh hero whose evil brother Efnisien caused the war that killed Brân.",
+    "key_results": [
+      "Nisien was the gentle half brother of Brân the Blessed.",
+      "His brother Efnisien caused the great war that led to Brân's death in Ireland.",
+      "Nisien tried to intervene and to offer apologies but failed.",
+      "Nisien plays a small part in the Mabinogion and may be a foil for his brother."
     ],
-    "entities": [
-        {
-            "entity": "Nisien",
-            "type": "character"
-        },
-        {
-            "entity": "Welsh tales",
-            "type": "literary work"
-        },
-        {
-            "entity": "Mabinogion",
-            "type": "literary work"
-        },
-        {
-            "entity": "evil brother",
-            "type": "character"
-        }
-    ],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "cyphertext": "5khP8nJj3u9GQtWn4xWk0HFMSxVKEFZPdMcCW6GQ9J541W24PcBrFt-Rft_5dEeBdds-cQyQ3ahQFlxX6Xr9hpYuVCKQAc1bK7Z1rF8Yi9su6eRQhN4J27vq7FIGTw7WycXghWerJb1GFKB8d0UsD2L1gdNcM-3DLeEBNRJluxs_cfSgBm7LwNGyzscgp_ajKkOo9dX3g_fUdbiuZ_40yKTDSzyTH-iUh1FjL7mJMx59e2z6QPSKdITb1kuMcW979GKneWSrReNIm2QJbcXdNBADfNafN9GXQaoVFm4mOBUW8VmkHLnsM3j4npaksArg2ocS4ull2ShasVfu0MjmhzQMzGDywIwNPvY11WL1XOXe9wwQwb11oQJMVV88GPKInQgTB33_KY_exWnLHitLWVfXjXb0V0Inyt7vbbdde5h_Jk9CXrJQG0NjerdxhFT_UEo8kyu6U9zbOVWRKJPB1i64wcVeIRJkgiDjEDJ7igvXmHCvnIr32t676IWAzTlck5joe6dCqnY_5LUiWxFKaIdgpA75GSsVGuWovrEx8gqLsvZcrIsGf3DpQRf5WPCFLsyHLP9A5GF1Uw70C_QL4kQRMf_66ClUKfMxDVQJrTQWkQbnvrKUln4-0Vf3hgKuGPt6S_E18FdNf1ug2f1Xoju8tRj3NBWBCwTWdyGVoFV-M1KYrDBNToYxpMh110i8tL9KSPcvS7gHxFqXj70pMX2wkW1U6NhU_Rg2uW8n73F0cc9dEp3Tu_uJEL7wAU9mbeXVoJJI9dDmoCbYeB5MGqp8RyNJ_zGuCrKqX81xkIE8yT89Db7bXhSvLbKUU_F2FeCaKQh2YhHbcoRM4KBSdZvVby9qZdnCioGVyyoIXXCiZKu_1iNlx9a0LCum2N5B92qHokQ1IeOgSsV2VGkx_XzE0KG0L50U3GSFkN6eLZHsU4nFxBqbWzKf-6nMvfQzbEf38XB_J4zvtHYN32d-rsd2",
-    "salt": "3q7TnWhRlfYFU-noyWIJNg==",
-    "text": "A hero or god in Welsh mythology is Nisien (Nissien, Nisyen). Br\u00e2n The Blessed, a Welsh god, had two half-brothers with opposite temperaments. One of them was the gentle Nisien, who only wished good for everyone, while his brother Efnisien caused nothing but trouble. Efnisien was responsible for the great war that resulted in Br\u00e2n's death in Ireland. He did so through a thoughtless act of cruelty that caused the king of that land to be set against Wales permanently. Nisien attempted to mediate the situation by seeking a diplomatic resolution and apologizing for his brother's behavior, but with no success. In the Welsh tales of the Mabinogion, Nisien plays a minor role and serves as a positive contrast to his wicked brother."
+    "evidence": "Monaghan, Encyclopedia of Celtic Mythology and Folklore"
+  }
 }

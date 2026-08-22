@@ -1,18 +1,54 @@
 {
-    "name": "Nemedians",
-    "attributes": {},
-    "entities": [
-        {
-            "text": "Nemed"
-        }
+  "name": "Nemedians",
+  "attributes": [
+    {
+      "entity": "Nemedians",
+      "attribute": "the people who followed Nemed"
+    },
+    {
+      "entity": "Nemedians",
+      "attribute": "left the family home in Scythia"
+    },
+    {
+      "entity": "Nemedians",
+      "attribute": "migrated together to Ireland"
+    }
+  ],
+  "entities": [
+    {
+      "entity": "Nemedians",
+      "type": "group"
+    },
+    {
+      "entity": "Nemed",
+      "type": "mythological figure"
+    },
+    {
+      "entity": "Scythia",
+      "type": "place"
+    },
+    {
+      "entity": "Ireland",
+      "type": "place"
+    }
+  ],
+  "sources": [
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+  ],
+  "image": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Myths_and_legends%3B_the_Celtic_race_%281910%29_%2814760452906%29.jpg/1200px-Myths_and_legends%3B_the_Celtic_race_%281910%29_%2814760452906%29.jpg"
+  ],
+  "cyphertext": "w1Mmg0FqVRml51JbOfCRdU59euEj_AvUNs0_hvxBLTEPN5KtsoCC3KQtJS3O-RM3Kw==",
+  "salt": "aSPl2-X2MFk8jkXy0mFeWA==",
+  "text": "The Nemedians are the people who followed the leader Nemed. They left the family home in Scythia. They migrated together to Ireland. Their journey forms part of the invasion tales of Ireland. Some scholars believe such myths carry faint memory of history now lost.",
+  "okr": {
+    "objective": "The Nemedians are the people of Nemed who migrated to Ireland.",
+    "key_results": [
+      "The Nemedians followed the leader Nemed.",
+      "They left the family home in Scythia.",
+      "They migrated together to Ireland.",
+      "Their journey is part of the invasion tales of Ireland."
     ],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "image": [
-        "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Myths_and_legends%3B_the_Celtic_race_%281910%29_%2814760452906%29.jpg/1200px-Myths_and_legends%3B_the_Celtic_race_%281910%29_%2814760452906%29.jpg"
-    ],
-    "cyphertext": "w1Mmg0FqVRml51JbOfCRdU59euEj_AvUNs0_hvxBLTEPN5KtsoCC3KQtJS3O-RM3Kw==",
-    "salt": "aSPl2-X2MFk8jkXy0mFeWA==",
-    "text": "Nemedians See Nemed."
+    "evidence": "Monaghan, Encyclopedia of Celtic Mythology and Folklore"
+  }
 }

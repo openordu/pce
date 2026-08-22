@@ -1,15 +1,34 @@
 {
-    "name": "Nevydd",
-    "attributes": {},
-    "entities": [
-        {
-            "text": "Nevydd See Nevyn"
-        }
+  "name": "Nevydd",
+  "attributes": [
+    {
+      "entity": "Nevydd",
+      "attribute": "cross-reference to the entry Nevyn"
+    }
+  ],
+  "entities": [
+    {
+      "entity": "Nevydd",
+      "type": "character"
+    },
+    {
+      "entity": "Nevyn",
+      "type": "character"
+    }
+  ],
+  "sources": [
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+  ],
+  "cyphertext": "8H2xIOaLyz9foKYZzW4f0dYPhcrl_efqPRt_rPnaVwPY-fACLXXPmotQ7djbfg==",
+  "salt": "x9Zd914Fm_nsYpbvEgNm8g==",
+  "text": "Nevydd is a cross-reference within the encyclopedia. The entry directs the reader to the entry Nevyn. It carries no account of its own.",
+  "okr": {
+    "objective": "Nevydd is a cross-reference pointing to the entry Nevyn.",
+    "key_results": [
+      "Nevydd is a cross-reference within the encyclopedia.",
+      "It directs the reader to the entry Nevyn.",
+      "It carries no account of its own."
     ],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "cyphertext": "8H2xIOaLyz9foKYZzW4f0dYPhcrl_efqPRt_rPnaVwPY-fACLXXPmotQ7djbfg==",
-    "salt": "x9Zd914Fm_nsYpbvEgNm8g==",
-    "text": "Nevydd See Nevyn."
+    "evidence": "Monaghan, Encyclopedia of Celtic Mythology and Folklore"
+  }
 }

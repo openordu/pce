@@ -1,45 +1,63 @@
 {
-    "name": "Nicnevin",
-    "entities": [
-        {
-            "entity": "Nicnevin",
-            "type": "Scottish folkloric figure"
-        },
-        {
-            "entity": "Habetrot",
-            "type": "Fairy Queen"
-        },
-        {
-            "entity": "Wild Hunt",
-            "type": "mythical event"
-        },
-        {
-            "entity": "fairies",
-            "type": "mythical creatures"
-        }
+  "name": "Nicnevin",
+  "sources": [
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+  ],
+  "cyphertext": "w1lwiRIr-bY1U4Q4IZORzPTGjpi1oUhD4e_1Ze9kqWySS0cGw6jBY1Vv9T2_UkSg7CjqkWTlKO2MSyapMt7Uf34YjGtR_B21UGt1dig9ft5Y5TQSVpYN6xPwqym_pyLWcPsIB8XCZHBI9wXpEl-BLxEG9izg_miT44tbDWzTuCBEyy1c_-r2aqIl1Q7RU4yizRtwo8QTi8xkkuQa2RUTRqppmrYk7BqUSRHl8TsPhIxlAxqOX5awAI_zb2Ckf6JVqlYFKLJZIQgXvNcI3yFfkFWjZxt88bEFrJUWheGBDBBv692HRI6MdVeV-13BZzJm9YNkcX_FiN-WkEw26IXRgVhuVGpA9htEpuRi24isPQBHEatchAAnnGvC0akiwdhdMmT6u18OAOtB-Gtj2r0=",
+  "salt": "1ThRvcm6VX3xiTd_Dyybww==",
+  "text": "Nicnevin is a figure of Scottish folklore. In some sources this name belongs to the figure also called Habetrot. Habetrot is a beautiful fairy queen. In her malevolent guise she leads the Wild Hunt. This hunt steals people from their homes. The stolen people are made to entertain the fairies.",
+  "entities": [
+    {
+      "entity": "Nicnevin",
+      "type": "mythological figure"
+    },
+    {
+      "entity": "Habetrot",
+      "type": "mythological figure"
+    },
+    {
+      "entity": "Wild Hunt",
+      "type": "event"
+    },
+    {
+      "entity": "fairies",
+      "type": "mythological creature"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Nicnevin",
+      "attribute": "a figure of Scottish folklore"
+    },
+    {
+      "entity": "Nicnevin",
+      "attribute": "another name for the figure called Habetrot"
+    },
+    {
+      "entity": "Habetrot",
+      "attribute": "a beautiful fairy queen"
+    },
+    {
+      "entity": "Habetrot",
+      "attribute": "in malevolent guise leads the Wild Hunt"
+    },
+    {
+      "entity": "Wild Hunt",
+      "attribute": "steals people from their homes"
+    },
+    {
+      "entity": "Wild Hunt",
+      "attribute": "makes stolen people entertain the fairies"
+    }
+  ],
+  "okr": {
+    "objective": "Nicnevin is a Scottish fairy queen who leads the Wild Hunt that steals people from their homes.",
+    "key_results": [
+      "Nicnevin is a figure of Scottish folklore.",
+      "In some sources the name belongs to the figure also called Habetrot.",
+      "Habetrot is a beautiful fairy queen in malevolent guise.",
+      "As leader of the Wild Hunt she steals people from their homes to entertain the fairies."
     ],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "attributes": [
-        {
-            "entity": "Nicnevin",
-            "attribute": "Scottish folkloric figure"
-        },
-        {
-            "entity": "Habetrot",
-            "attribute": "beautiful Fairy Queen in a malevolent guise as the leader of the Wild Hunt that steals people from their homes to become entertainments for the fairies"
-        },
-        {
-            "entity": "Wild Hunt",
-            "attribute": "steals people from their homes to become entertainments for the fairies"
-        },
-        {
-            "entity": "fairies",
-            "attribute": "entertainments for the fairies"
-        }
-    ],
-    "cyphertext": "w1lwiRIr-bY1U4Q4IZORzPTGjpi1oUhD4e_1Ze9kqWySS0cGw6jBY1Vv9T2_UkSg7CjqkWTlKO2MSyapMt7Uf34YjGtR_B21UGt1dig9ft5Y5TQSVpYN6xPwqym_pyLWcPsIB8XCZHBI9wXpEl-BLxEG9izg_miT44tbDWzTuCBEyy1c_-r2aqIl1Q7RU4yizRtwo8QTi8xkkuQa2RUTRqppmrYk7BqUSRHl8TsPhIxlAxqOX5awAI_zb2Ckf6JVqlYFKLJZIQgXvNcI3yFfkFWjZxt88bEFrJUWheGBDBBv692HRI6MdVeV-13BZzJm9YNkcX_FiN-WkEw26IXRgVhuVGpA9htEpuRi24isPQBHEatchAAnnGvC0akiwdhdMmT6u18OAOtB-Gtj2r0=",
-    "salt": "1ThRvcm6VX3xiTd_Dyybww==",
-    "text": "A Scottish folkloric figure that goes by the name of Nicnevin is sometimes referred to as Habetrot in other sources. Nicnevin or Habetrot is depicted as a beautiful Fairy Queen who disguises herself as the leader of the Wild Hunt. This hunt is composed of fairies who steal people from their homes to become entertainments for the fairy community."
+    "evidence": "Monaghan, Encyclopedia of Celtic Mythology and Folklore"
+  }
 }
