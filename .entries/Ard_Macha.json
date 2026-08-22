@@ -1,9 +1,39 @@
 {
     "name": "Ard Macha",
-    "attributes": {},
+    "attributes": [
+        {
+            "entity": "Ard Macha",
+            "attribute": "the heights of Emain Macha, the name behind the city of Armagh"
+        },
+        {
+            "entity": "Emain Macha",
+            "attribute": "the mythical capital of Ulster, today's Navan Fort"
+        }
+    ],
     "entities": [
         {
-            "text": "Ard Macha See Emain Macha"
+            "entity": "Ard Macha",
+            "type": "Place"
+        },
+        {
+            "entity": "Emain Macha",
+            "type": "Place"
+        },
+        {
+            "entity": "County Armagh",
+            "type": "Place"
+        },
+        {
+            "entity": "Macha",
+            "type": "Person"
+        },
+        {
+            "entity": "Ulster",
+            "type": "Place"
+        },
+        {
+            "entity": "Navan Fort",
+            "type": "Place"
         }
     ],
     "sources": [
@@ -14,5 +44,11 @@
     ],
     "cyphertext": "luU7-S6wLaKAhVYKpBvYo6ZFe3wZpjk9UapitFxj-qh5Ljs8p8b_4tawEzIoNhPe8yE38AKsIg==",
     "salt": "URuGfSAtt8n1cs_xwhfoxA==",
-    "text": "Ard Macha See Emain Macha."
+    "text": "Ard Macha is an Irish name for the heights of Emain Macha. The name of Armagh in today's Northern Ireland derives from Ard Macha, the heights of the goddess Macha. Emain Macha is a late Bronze Age hillfort in County Armagh. It is the mythical capital of the ancient province of Ulster. One tradition tells of the warrior queen Macha Mong Rua. She marked out a vast hillfort with a brooch and forced her captives to build it. Today the site is called Navan Fort. It is a heritage site equal in stature to Cruachan, Tara, and Knockaulin.",
+    "objective": "Record Ard Macha, the heights of Emain Macha.",
+    "key_results": [
+        "Show the name behind the city of Armagh.",
+        "Show the hillfort and its warrior queen Macha Mong Rua."
+    ],
+    "evidence": "Monaghan 2003, s.v. Emain Macha; Ard Macha"
 }

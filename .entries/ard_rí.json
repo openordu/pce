@@ -1,7 +1,41 @@
 {
-    "name": "ard r\u00ed",
-    "attributes": {},
-    "entities": [],
+    "name": "ard rí",
+    "attributes": [
+        {
+            "entity": "ard ri",
+            "attribute": "the high king of Ireland, a ceremonial and religious role rather than a political one"
+        }
+    ],
+    "entities": [
+        {
+            "entity": "ard ri",
+            "type": "Concept"
+        },
+        {
+            "entity": "Tara",
+            "type": "Place"
+        },
+        {
+            "entity": "tuath",
+            "type": "Concept"
+        },
+        {
+            "entity": "geis",
+            "type": "Concept"
+        },
+        {
+            "entity": "Niall of the Nine Hostages",
+            "type": "Person"
+        },
+        {
+            "entity": "Conn of the Hundred Battles",
+            "type": "Person"
+        },
+        {
+            "entity": "Conaire",
+            "type": "Person"
+        }
+    ],
     "sources": [
         "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
     ],
@@ -10,5 +44,11 @@
     ],
     "cyphertext": "-oTkGpVyUn4tQP6l6nA6ph6It-Goflxl8VYotWPkV_IIhLiexCIoimx2sXLECo5Y8qhXnbE4X6ZZeMAMeA6Eac9JtiYgrms=",
     "salt": "kRWOCIP86H3AnPCptOv5iQ==",
-    "text": "ard r\u00ed (ard ri, ard righe) See High King."
+    "text": "Ard ri is an Irish social role. It means high king. The question of the power of the king of Tara over other Irish kings is far from settled. A king's power came from his tuath, his people and their land, and from his union with the goddess of the land. Tara's king seems to have held no central political authority. He held a ceremonial and religious office. He could not command other kings to follow his orders. He kept Ireland fertile by following his sacred vows and taboos, his buada and geasa. Many high kings figure in myth, including Niall of the Nine Hostages, Conn of the Hundred Battles, and Conaire.",
+    "objective": "Record ard ri, the Irish high king.",
+    "key_results": [
+        "Show the ceremonial, religious power of the king of Tara.",
+        "Show the named high kings of myth."
+    ],
+    "evidence": "Monaghan 2003, s.v. high king"
 }

@@ -3,29 +3,25 @@
     "attributes": [
         {
             "entity": "Ard-Greimne",
-            "attribute": "father of Sc\u00e1thach and A\u00edfe"
-        },
-        {
-            "entity": "Sc\u00e1thach",
-            "attribute": "sister/rival of A\u00edfe"
+            "attribute": "father of the warrior women Scathach and Aífe"
         }
     ],
     "entities": [
         {
             "entity": "Ard-Greimne",
-            "type": "Irish hero"
+            "type": "Person"
         },
         {
-            "entity": "Warrior Women",
-            "type": "Isle of Skye"
+            "entity": "Scathach",
+            "type": "Person"
         },
         {
-            "entity": "Sc\u00e1thach",
-            "type": "Warrior Women"
+            "entity": "Aífe",
+            "type": "Person"
         },
         {
-            "entity": "A\u00edfe",
-            "type": "Warrior Women"
+            "entity": "Isle of Skye",
+            "type": "Place"
         }
     ],
     "sources": [
@@ -33,5 +29,10 @@
     ],
     "cyphertext": "QcLzC4nBEnB_OMjhcMHm_IYkAGPlBrUhQEAFQoeE4jULyErUptwpBb9FjRTiMs_GJz2sbz7SMdhawHxzYBtr5zsIZHT0tZMIr0l7JysdrAwEJD-Lun8gjb7xu1CUxaPg_Hr4qXUBhtlDde0SViMPCmrjU8AfxPSdpj81Iu_OcAanr0frI1uoFZe7bsOgXVoUZkHPFmvnYQAKOXGXCrRx6lnEr1eECnJ7TGa-lt3Yik2PTPJeTTQB",
     "salt": "OTFezGzanA4kQqk_nXcb-g==",
-    "text": "Irish hero Ard-Greimne was the parent of Sc\u00e1thach and A\u00edfe, the renowned Warrior Women of the Isle of Skye, although little is known about him otherwise."
+    "text": "Ard-Greimne is an Irish mythological figure. He is otherwise obscure in the tales. He is the father of the great warrior women of the Isle of Skye, Scathach and her sister or rival Aífe.",
+    "objective": "Record Ard-Greimne, an Irish hero.",
+    "key_results": [
+        "Show him as the father of Scathach and Aífe."
+    ],
+    "evidence": "Monaghan 2003, s.v. Ard-Greimne"
 }

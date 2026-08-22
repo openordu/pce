@@ -3,41 +3,29 @@
     "attributes": [
         {
             "entity": "Aquae Sulis",
-            "attribute": "British goddess"
+            "attribute": "Roman name for the shrine and hot springs at Bath dedicated to the sun goddess Sulis"
         },
         {
-            "entity": "Bath",
-            "attribute": "hot Springs"
-        },
-        {
-            "entity": "Sun goddess Sul",
-            "attribute": "dedicated to"
+            "entity": "Sulis",
+            "attribute": "the sun goddess of the hot springs at Bath"
         }
     ],
     "entities": [
         {
             "entity": "Aquae Sulis",
-            "type": "Shrine"
+            "type": "Place"
         },
         {
-            "entity": "British goddess",
-            "type": "Deity"
-        },
-        {
-            "entity": "Roman",
-            "type": "Nationality"
+            "entity": "Sulis",
+            "type": "Person"
         },
         {
             "entity": "Bath",
-            "type": "City"
+            "type": "Place"
         },
         {
-            "entity": "England",
-            "type": "Country"
-        },
-        {
-            "entity": "Sun goddess Sul",
-            "type": "Deity"
+            "entity": "Sulis Minerva",
+            "type": "Concept"
         }
     ],
     "sources": [
@@ -48,5 +36,11 @@
     ],
     "cyphertext": "GSa5ofClNw4xeob9IjFto4dwmwsgf8OuwnE2qp_XQur05rNMbwL_KR3BdbIduYUdf_K9yJqxcj6URMryjVGhYWKKJz4icM-fkxzOVRtW32fa3DgmqmtAb0TEabUWDHMo43IsU-3JwZiHEKPERlXD4qtOyfIIw_KbHZJAtKcztKX9A3vxjWHbNt_S1Txex-RTSa8nt2bOmKz8",
     "salt": "qWHGkXmP4MyIEY6gcuy71A==",
-    "text": "British goddess Sul, also known as Aquae Sulis, is the deity worshipped at the Roman bath shrine located in Bath, England. The shrine is dedicated to Sul, the Sun goddess."
+    "text": "Aquae Sulis is a British goddess. It is the Roman name for the shrine and hot springs at Bath in England. The site was dedicated to the sun goddess Sulis. The Romans called it Aquae Sulis, the waters of Sulis. Bath is famous for its hot mineral springs. The temple there carried the name Sulis Minerva. It joined the Celtic Sulis to the Roman Minerva. Excavations at Bath recovered coins, offering vessels, and inscribed curse tablets. The names on the tablets are mostly Roman, with a significant Celtic share.",
+    "objective": "Record Aquae Sulis, the British goddess of Bath.",
+    "key_results": [
+        "Show the Roman name for the shrine and hot springs at Bath.",
+        "Show the dedication to the sun goddess Sul and the temple Sulis Minerva."
+    ],
+    "evidence": "Monaghan 2003, s.v. Aquae Sulis; Koch 2006, s.v. Bath"
 }
