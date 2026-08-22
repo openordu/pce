@@ -1,28 +1,54 @@
 {
-    "name": "Deimne",
-    "attributes": [
-        {
-            "entity": "Fionn Mac Cumhaill",
-            "attribute": "adult name means \u201cfair\u201d or \u201cbrilliant\u201d"
-        }
-    ],
-    "entities": [
-        {
-            "entity": "Deimne",
-            "type": "Irish hero"
-        },
-        {
-            "entity": "Fionn Mac Cumhaill",
-            "type": "hero"
-        }
-    ],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "image": [
-        "https://upload.wikimedia.org/wikipedia/commons/d/d9/Finn_Mccool_Comes_to_Aid_the_Fianna.png"
-    ],
-    "cyphertext": "8S6sGC0RVIkdBQFO5ajdfkeHFOYNRxQusEccqwmTHPEIArlugXl4fm0dEms1Z7tF10gxBYodRU_vFUdp2E45KIgN0LY8eBiKvFhB40nAjkXYu-CrIb6_38Ym1qYz3Xk6jYxmgWb1zSeLAD28AoNegg_v7ldRd4awaiDuVY8IWYbvsTqvIjMSKWKGRYdoycVytog6qj_ldmFEoYPwN4UTEc_aogQ17FVA4h8InXm-BVQ=",
-    "salt": "7CUoI9HIRlS8F1oLlggNWQ==",
-    "text": "Irish hero Deimne, also known as Demna or Demne, had the childhood name of the well-known hero Fionn Mac Cumhaill. Fionn's adult name translates to \"fair\" or \"brilliant.\""
+  "name": "Deimne",
+  "attributes": {
+    "category": "mythology",
+    "domain": "celtic",
+    "associations": [
+      "childhood name",
+      "Fionn mac Cumhaill",
+      "fair",
+      "brilliant",
+      "Fianna"
+    ]
+  },
+  "entities": [
+    {
+      "name": "Deimne",
+      "type": "Hero"
+    },
+    {
+      "name": "Demna",
+      "type": "Hero"
+    },
+    {
+      "name": "Demne",
+      "type": "Hero"
+    },
+    {
+      "name": "Fionn mac Cumhaill",
+      "type": "Hero"
+    },
+    {
+      "name": "Fianna",
+      "type": "Group"
+    }
+  ],
+  "sources": [
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+  ],
+  "image": [
+    "https://upload.wikimedia.org/wikipedia/commons/d/d9/Finn_Mccool_Comes_to_Aid_the_Fianna.png"
+  ],
+  "cyphertext": "8S6sGC0RVIkdBQFO5ajdfkeHFOYNRxQusEccqwmTHPEIArlugXl4fm0dEms1Z7tF10gxBYodRU_vFUdp2E45KIgN0LY8eBiKvFhB40nAjkXYu-CrIb6_38Ym1qYz3Xk6jYxmgWb1zSeLAD28AoNegg_v7ldRd4awaiDuVY8IWYbvsTqvIjMSKWKGRYdoycVytog6qj_ldmFEoYPwN4UTEc_aogQ17FVA4h8InXm-BVQ=",
+  "salt": "7CUoI9HIRlS8F1oLlggNWQ==",
+  "text": "Deimne, also given as Demna or Demne, was the childhood name of the Irish hero Fionn mac Cumhaill. The adult name Fionn means 'fair' or 'brilliant.' He bore the name Deimne in his boyhood before he became the celebrated leader of the Fianna. The two names track the same figure from youth to fame in Irish legend.",
+  "objective": "Records Deimne, the childhood name of the Irish hero Fionn mac Cumhaill.",
+  "key_results": [
+    "Deimne was the childhood name of the hero Fionn mac Cumhaill.",
+    "The variants Demna and Demne were also used.",
+    "Fionn's adult name meant 'fair' or 'brilliant.'"
+  ],
+  "evidence": [
+    "Monaghan 2003 — Deimne"
+  ]
 }
