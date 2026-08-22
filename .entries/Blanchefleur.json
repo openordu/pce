@@ -1,64 +1,62 @@
 {
-    "name": "Blanchefleur",
-    "attributes": [
-        {
-            "entity": "Blanchefleur",
-            "attribute": "Arthurian heroine"
-        },
-        {
-            "entity": "Percival",
-            "attribute": "Round Table knight"
-        },
-        {
-            "entity": "Fisher King",
-            "attribute": "wounded"
-        },
-        {
-            "entity": "Blanchefleur",
-            "attribute": "beautiful"
-        },
-        {
-            "entity": "Blanchefleur",
-            "attribute": "white flower"
-        },
-        {
-            "entity": "Percival",
-            "attribute": "sister"
-        },
-        {
-            "entity": "Dindraine",
-            "attribute": "otherwise known as"
-        }
-    ],
-    "entities": [
-        {
-            "entity": "Blanchefleur",
-            "type": "Arthurian heroine"
-        },
-        {
-            "entity": "Round Table",
-            "type": "knight"
-        },
-        {
-            "entity": "Percival",
-            "type": "character"
-        },
-        {
-            "entity": "Fisher King",
-            "type": "character"
-        },
-        {
-            "entity": "Dindraine",
-            "type": "character"
-        }
-    ],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "image": [
-        "https://upload.wikimedia.org/wikipedia/commons/9/9a/Edwin_Austin_Abbey_-_Galahad_Parts_from_His_Bride%2C_Blanchefleur.jpg"
-    ],
-    "cyphertext": "iGhLKQntSbXYblpU9BYVqNjlbw3RqQHQLvMU8XlQCoQVY80BUdib1QgRsywL65dl782vB9v6YIFOOKYvODq_1IHQ4cYyrofEhPpsENVAoX3GAazQnmglmNHx1vy0oKbV6N4Oh7n2kw6CXBFhR__HSnd9fLPpWKUmKG5g5EA6gadOj3Ckday7LaxeLWHTEiMrlVkmB_79reVD0MtiY4KabT0wVT6MPtxJHiVnzrd0mZnNxp_BK90YuOv8XjD-iBDa_tUIM-l7nflrbW2uBzAemj8V3k3Uhx_Td_37c6hL2G3oulkyGOZ37s5Bn4jRY_PhxLjMUeFss32f-UcQiPdmEwJSHWScLoBqH2Mtt4dyDLbonL9jNnEVsWubbhiOM11zVEXkwFBP7Lc3liNUe-nT6djJwNFB7S90gV_sdEqVPfBZ__3P",
-    "salt": "oSkIxY99RuBeSrPBYNBqCQ==",
-    "text": "Arthurian heroine Blanchefleur, also known as Blancheflor, was wooed by Round Table knight Percival upon his arrival at the domain of the wounded Fisher King. It is worth noting that in some texts, Blanchefleur's name is assigned to Percival's sister, who is otherwise known as Dindraine."
+ "name": "Blanchefleur",
+ "attributes": [
+  {
+   "entity": "Blanchefleur",
+   "attribute": "also called Blancheflor"
+  },
+  {
+   "entity": "Percival",
+   "attribute": "entered the domain of the wounded Fisher King"
+  },
+  {
+   "entity": "Blanchefleur",
+   "attribute": "wooed by the Round Table knight Percival"
+  },
+  {
+   "entity": "Blanchefleur",
+   "attribute": "name means white flower"
+  },
+  {
+   "entity": "Blanchefleur",
+   "attribute": "known as Dindraine in some versions"
+  }
+ ],
+ "entities": [
+  {
+   "entity": "Blanchefleur",
+   "type": "Person"
+  },
+  {
+   "entity": "Percival",
+   "type": "Person"
+  },
+  {
+   "entity": "Fisher King",
+   "type": "Title"
+  },
+  {
+   "entity": "Dindraine",
+   "type": "Person"
+  }
+ ],
+ "sources": [
+  "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+ ],
+ "image": [
+  "https://upload.wikimedia.org/wikipedia/commons/9/9a/Edwin_Austin_Abbey_-_Galahad_Parts_from_His_Bride%2C_Blanchefleur.jpg"
+ ],
+ "cyphertext": "iGhLKQntSbXYblpU9BYVqNjlbw3RqQHQLvMU8XlQCoQVY80BUdib1QgRsywL65dl782vB9v6YIFOOKYvODq_1IHQ4cYyrofEhPpsENVAoX3GAazQnmglmNHx1vy0oKbV6N4Oh7n2kw6CXBFhR__HSnd9fLPpWKUmKG5g5EA6gadOj3Ckday7LaxeLWHTEiMrlVkmB_79reVD0MtiY4KabT0wVT6MPtxJHiVnzrd0mZnNxp_BK90YuOv8XjD-iBDa_tUIM-l7nflrbW2uBzAemj8V3k3Uhx_Td_37c6hL2G3oulkyGOZ37s5Bn4jRY_PhxLjMUeFss32f-UcQiPdmEwJSHWScLoBqH2Mtt4dyDLbonL9jNnEVsWubbhiOM11zVEXkwFBP7Lc3liNUe-nT6djJwNFB7S90gV_sdEqVPfBZ__3P",
+ "salt": "oSkIxY99RuBeSrPBYNBqCQ==",
+ "text": "Blanchefleur is an Arthurian heroine. She is also called Blancheflor. The knight Percival entered the land of the wounded Fisher King. There he found the fair woman and asked for her hand. Her name means white flower. In some texts the name belongs to Percival's sister. That sister is otherwise known as Dindraine.",
+ "okr": {
+  "objective": "Describe Blanchefleur, the Arthurian heroine whom the knight Percival wooed.",
+  "key_results": [
+   "The knight Perceval entered the domain of the wounded Fisher King.",
+   "Percival met and wooed the beautiful Blanchefleur.",
+   "Blanchefleur's name means white flower.",
+   "In some texts she is the sister of Percival."
+  ],
+  "evidence": "Monaghan 2008, s.v. 'Blanchefleur'."
+ }
 }
