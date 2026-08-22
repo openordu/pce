@@ -1,29 +1,87 @@
 {
-    "name": "Celtchair",
-    "attributes": [
-        {
-            "entity": "Celtchair",
-            "attribute": "honor intact"
-        },
-        {
-            "entity": "poisonous blood",
-            "attribute": "ended Celtchair's life"
-        }
+  "name": "Celtchair",
+  "attributes": [
+    {
+      "entity": "Celtchair",
+      "attribute": "Irish hero"
+    },
+    {
+      "entity": "Celtchair",
+      "attribute": "spilled blood on the Fidchell board"
+    },
+    {
+      "entity": "Celtchair",
+      "attribute": "took on three impossible tasks"
+    },
+    {
+      "entity": "Celtchair",
+      "attribute": "finished two of the three tasks"
+    },
+    {
+      "entity": "Celtchair",
+      "attribute": "killed the spectral dog"
+    },
+    {
+      "entity": "Concobar Mac Nessa",
+      "attribute": "his king played a game against Cúchulainn"
+    },
+    {
+      "entity": "Cúchulainn",
+      "attribute": "hero who contended on the Fidchell board"
+    },
+    {
+      "entity": "spectral Dog",
+      "attribute": "scourge of the land"
+    },
+    {
+      "entity": "spectral Dog",
+      "attribute": "its poisonous blood killed Celtchair"
+    },
+    {
+      "entity": "Hospitality",
+      "attribute": "a serious law among the Celts"
+    }
+  ],
+  "entities": [
+    {
+      "entity": "Celtchair",
+      "type": "hero"
+    },
+    {
+      "entity": "Concobar Mac Nessa",
+      "type": "person"
+    },
+    {
+      "entity": "Cúchulainn",
+      "type": "hero"
+    },
+    {
+      "entity": "Fidchell",
+      "type": "artifact"
+    },
+    {
+      "entity": "spectral Dog",
+      "type": "mythological creature"
+    },
+    {
+      "entity": "Hospitality",
+      "type": "concept"
+    }
+  ],
+  "sources": [
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+  ],
+  "cyphertext": "0FJf7RrztpjjAwIBSirCm2RqjHApMUBakHUvSXU-R8fHBYBRyVPRO7fFqepSWyn_6w5gFJOL7l77oiHLfE1ZwdNwK1d2s2Mk1JoODrnthr-B-JL-VEixNHwVClTTcpUcY466yiftTdzc0HevY-y08aNnMStlOrYoMqhU5b4a6Luf4z9s-hRdiaof9c46LryB__I3Ol7Bs4YEKqrKFUL8QHZkFA4KR9_zqOTdxtdfD_v36lEzz_BzknFiZpXhDehEGhk9tYR3dnrN52LCmIOubcaFclJsQjYJvxCIhY8H78noA3PkvvmRv5r_2ldndf9hgyX_EM2rnI3K-Uf1F7-gVayZ0uXUqIWHf5tT3uSnJtoLrNI0QAIln3MiUMX-5h8smOyZpzSEZTxxkS4AvBzfMe0XVbJgcMzMDAzRa9bFylpDCSTmbdJKdh_S0IUbV9BywC2Ty6TedT1l0j5q7xVAPMNOHw-M8vdCLuo9OfVFCeTsBA62qmg1XgU8CHyV4PDxZz-iQ15UsYvzrLSzA9mgzFGzw5el7GGD1oR__CXqW-9dMKm_4irHuCeTaKWsbEzMdtiWN9ftfAT0L0-jlyPSgulSx5DbrcqneCWcFY5yy-6pUgYCn6se4pxyFgsJZyuJ2Nlux6Jt2Y4N5z7Mcfr0q2yk3sZK-GMnF0n25ZPOAhx0L54OB3TIeZ7kaix1ICwqbFcyylMyHh2Xqiy3rI99xdbcBce_y8l0xD3jY6rj7eZzEh-lYZWFrpWJ-AUumWB3EK6eZl9XyyLmJHqCUGd0mSGnfYzogEKIq-CTacKd-A==",
+  "salt": "5ksMRDtiFtbCyRzVIkdEcw==",
+  "text": "Celtchair is an Irish hero. The Celts treated the laws of Hospitality as serious duty. Celtchair broke that tradition when he spilled blood on the Fidchell board. His king, Concobar Mac Nessa, was playing a game there against the hero Cúchulainn. To repair his damaged reputation, Celtchair took on three impossible tasks. He finished two of them. He then killed a spectral dog that had plagued the land. The dog's poisonous blood ended his life. He died with his honor intact.",
+  "okr": {
+    "objective": "Celtchair is the Irish hero who repaired his reputation and died with honor.",
+    "key_results": [
+      "He spilled blood on the Fidchell board at a game between king and Cúchulainn.",
+      "He completed two of three impossible tasks.",
+      "He killed the spectral dog that plagued the land.",
+      "The dog's poisonous blood ended his life."
     ],
-    "entities": [
-        {
-            "entity": "Celtchair",
-            "type": "person"
-        },
-        {
-            "entity": "poisonous blood",
-            "type": "substance"
-        }
-    ],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "cyphertext": "0FJf7RrztpjjAwIBSirCm2RqjHApMUBakHUvSXU-R8fHBYBRyVPRO7fFqepSWyn_6w5gFJOL7l77oiHLfE1ZwdNwK1d2s2Mk1JoODrnthr-B-JL-VEixNHwVClTTcpUcY466yiftTdzc0HevY-y08aNnMStlOrYoMqhU5b4a6Luf4z9s-hRdiaof9c46LryB__I3Ol7Bs4YEKqrKFUL8QHZkFA4KR9_zqOTdxtdfD_v36lEzz_BzknFiZpXhDehEGhk9tYR3dnrN52LCmIOubcaFclJsQjYJvxCIhY8H78noA3PkvvmRv5r_2ldndf9hgyX_EM2rnI3K-Uf1F7-gVayZ0uXUqIWHf5tT3uSnJtoLrNI0QAIln3MiUMX-5h8smOyZpzSEZTxxkS4AvBzfMe0XVbJgcMzMDAzRa9bFylpDCSTmbdJKdh_S0IUbV9BywC2Ty6TedT1l0j5q7xVAPMNOHw-M8vdCLuo9OfVFCeTsBA62qmg1XgU8CHyV4PDxZz-iQ15UsYvzrLSzA9mgzFGzw5el7GGD1oR__CXqW-9dMKm_4irHuCeTaKWsbEzMdtiWN9ftfAT0L0-jlyPSgulSx5DbrcqneCWcFY5yy-6pUgYCn6se4pxyFgsJZyuJ2Nlux6Jt2Y4N5z7Mcfr0q2yk3sZK-GMnF0n25ZPOAhx0L54OB3TIeZ7kaix1ICwqbFcyylMyHh2Xqiy3rI99xdbcBce_y8l0xD3jY6rj7eZzEh-lYZWFrpWJ-AUumWB3EK6eZl9XyyLmJHqCUGd0mSGnfYzogEKIq-CTacKd-A==",
-    "salt": "5ksMRDtiFtbCyRzVIkdEcw==",
-    "text": "An Irish hero named Celtchair is the subject of this tale. The Celts believed in the importance of the laws of Hospitality, which Celtchair neglected. During a Fidchell game, one in which his king Concobar Mac Nessa played against hero C\u00fachulainn, Celtchair spilled blood on the game board. To restore his reputation, he was given three impossible tasks. Although he was successful in completing two of these tasks, Celtchair perished when he killed a spectral Dog, an evil creature that had terrorized the land for some time. The blood of the Dog was poisonous and ultimately fatal to Celtchair, but he died having saved his honor."
+    "evidence": "Monaghan, Encyclopedia of Celtic Mythology and Folklore"
+  }
 }

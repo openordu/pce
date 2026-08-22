@@ -1,40 +1,58 @@
 {
-    "name": "Cat Sith",
-    "entities": [
-        {
-            "entity": "Cat Sith",
-            "type": "Scottish folkloric figure"
-        },
-        {
-            "entity": "Highlands",
-            "type": "Location"
-        },
-        {
-            "entity": "Fairy",
-            "type": "Mythical creature"
-        },
-        {
-            "entity": "Witch",
-            "type": "Mythical creature"
-        }
+  "name": "Cat Sith",
+  "entities": [
+    {
+      "entity": "Cat Sith",
+      "type": "mythological creature"
+    },
+    {
+      "entity": "Highlands",
+      "type": "location"
+    },
+    {
+      "entity": "fairy",
+      "type": "mythological creature"
+    },
+    {
+      "entity": "witch",
+      "type": "mythological creature"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Cat Sith",
+      "attribute": "a huge dark cat"
+    },
+    {
+      "entity": "Cat Sith",
+      "attribute": "lived in the Scottish Highlands"
+    },
+    {
+      "entity": "Cat Sith",
+      "attribute": "was a fairy in disguise to some"
+    },
+    {
+      "entity": "Cat Sith",
+      "attribute": "was a witch in cat form to others"
+    }
+  ],
+  "sources": [
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+  ],
+  "image": [
+    "https://upload.wikimedia.org/wikipedia/commons/3/38/Page_158_illustration_in_More_English_Fairy_Tales.png"
+  ],
+  "cyphertext": "kuwgtN8bct4i7ur_bmWDeTwbqsBkDaEPWBiNvKUp6dE97gLdZkqn3s8WQICvjE48vCAIQA4zmy4dhOfzuQGHoMBPnVgqkONt8aOhuyDV2sK3C6vKvANoYJ7XBuLm11C2tRwcxxGE7B_mk6-0TnwPoQhe9tW7rtmW3SH81TZdH9l3Yl3UmSoQbHS5k_L7RIE_oBcP9xnzKa8hH-gMnSK4O_P75FU=",
+  "salt": "BNeYeZBMvREX9GsxeSfmoA==",
+  "text": "The Cat Sith is a dark cat of the Highlands of Scotland. People supposed this animal was a fairy in disguise. Others counted it a witch in cat form.",
+  "okr": {
+    "objective": "The Cat Sith is a dark Highland cat believed to hide a fairy or witch.",
+    "key_results": [
+      "It was a huge dark cat.",
+      "It lived in the Highlands of Scotland.",
+      "Some saw it as a disguised fairy.",
+      "Some saw it as a witch in cat form."
     ],
-    "attributes": [
-        {
-            "entity": "Cat Sith",
-            "attribute": "Huge dark creature"
-        },
-        {
-            "entity": "Cat Sith",
-            "attribute": "Believed to be either a Fairy or a Witch in disguise"
-        }
-    ],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "image": [
-        "https://upload.wikimedia.org/wikipedia/commons/3/38/Page_158_illustration_in_More_English_Fairy_Tales.png"
-    ],
-    "cyphertext": "kuwgtN8bct4i7ur_bmWDeTwbqsBkDaEPWBiNvKUp6dE97gLdZkqn3s8WQICvjE48vCAIQA4zmy4dhOfzuQGHoMBPnVgqkONt8aOhuyDV2sK3C6vKvANoYJ7XBuLm11C2tRwcxxGE7B_mk6-0TnwPoQhe9tW7rtmW3SH81TZdH9l3Yl3UmSoQbHS5k_L7RIE_oBcP9xnzKa8hH-gMnSK4O_P75FU=",
-    "salt": "BNeYeZBMvREX9GsxeSfmoA==",
-    "text": "Scottish folklore features the Cat Sith, a massive dark entity that was thought to be a Fairy or Witch in disguise, particularly in the Highlands."
+    "evidence": "Monaghan, Encyclopedia of Celtic Mythology and Folklore"
+  }
 }

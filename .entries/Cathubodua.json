@@ -1,33 +1,71 @@
 {
-    "name": "Cathubodua",
-    "entities": [
-        {
-            "entity": "Cathubodua",
-            "type": "Continental Celtic goddess"
-        },
-        {
-            "entity": "Gaulish",
-            "type": "language"
-        },
-        {
-            "entity": "Badb",
-            "type": "Celtic goddess"
-        }
+  "name": "Cathubodua",
+  "entities": [
+    {
+      "entity": "Cathubodua",
+      "type": "goddess"
+    },
+    {
+      "entity": "Badb",
+      "type": "goddess"
+    },
+    {
+      "entity": "Haute-Savoie",
+      "type": "location"
+    },
+    {
+      "entity": "Anglesey",
+      "type": "location"
+    },
+    {
+      "entity": "druids",
+      "type": "group"
+    },
+    {
+      "entity": "Neolithic goddess",
+      "type": "goddess"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Cathubodua",
+      "attribute": "a Gaulish war goddess"
+    },
+    {
+      "entity": "Cathubodua",
+      "attribute": "cult seated in the Haute-Savoie"
+    },
+    {
+      "entity": "Badb",
+      "attribute": "a war goddess linked to Cathubodua"
+    },
+    {
+      "entity": "druids",
+      "attribute": "imitated the Badb and screamed in battle"
+    },
+    {
+      "entity": "Anglesey",
+      "attribute": "site of a destroyed druidic college"
+    },
+    {
+      "entity": "Badb",
+      "attribute": "possibly traced from a Neolithic goddess"
+    }
+  ],
+  "sources": [
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+  ],
+  "cyphertext": "lDvNum8tk3Hr5ooRwVchiyoTz3lPdIK12hHyPYzoGI4AwKhKM2peQjhrEajoRqCYgzmhKdwxu6L_kkIzpYIYiL4oQQza990QIh5IvF5sI9YtiS0Y3HPXqFwHY1V7S4FgKGhqc7OTsrHW0x_Gvvdu_mxiFhEmmCQFuzHv1fq3pEMZn8Jfl9U-npnNLEdZ-oQ0eFWAXPJvVsL-wqM=",
+  "salt": "f1g7VNbIPpzSs1T0WqpmnA==",
+  "text": "Cathubodua is a Gaulish goddess. Her cult appears in the Haute-Savoie region of France. The tribal name Boduogenos carries her root. It means 'people of Bodua'. Writers tie Cathubodua to the war goddess Badb. Black-robed women copied the Badb in battle. These women acted as druids. They stood on the sidelines and screamed. The screams drove the warriors onward. People saw this at the ruin of the druidic college at Anglesey. Scholars debate whether the Badb began as a Celtic or pre-Celtic figure. Her bird form may come from a Neolithic goddess of the same shape.",
+  "okr": {
+    "objective": "Cathubodua is a Gaulish war goddess tied to the bird-formed Badb.",
+    "key_results": [
+      "Her cult is found in the Haute-Savoie.",
+      "The tribal name carries her root.",
+      "Druids imitated the Badb and screamed in battle.",
+      "Her bird form links to a Neolithic goddess."
     ],
-    "attributes": [
-        {
-            "entity": "Cathubodua",
-            "attribute": "name means \"Battle Raven\""
-        },
-        {
-            "entity": "Badb",
-            "attribute": "also known as Cauth Bova"
-        }
-    ],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "cyphertext": "lDvNum8tk3Hr5ooRwVchiyoTz3lPdIK12hHyPYzoGI4AwKhKM2peQjhrEajoRqCYgzmhKdwxu6L_kkIzpYIYiL4oQQza990QIh5IvF5sI9YtiS0Y3HPXqFwHY1V7S4FgKGhqc7OTsrHW0x_Gvvdu_mxiFhEmmCQFuzHv1fq3pEMZn8Jfl9U-npnNLEdZ-oQ0eFWAXPJvVsL-wqM=",
-    "salt": "f1g7VNbIPpzSs1T0WqpmnA==",
-    "text": "Continental Celtic deity Cathubodua, also known by the names Cauth Bova and Badb Catha, is a goddess of Gaulish origin whose appellation translates to \"Battle Raven.\" For further information on this goddess, refer to Badb."
+    "evidence": "Monaghan, Encyclopedia of Celtic Mythology and Folklore"
+  }
 }

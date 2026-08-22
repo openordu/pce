@@ -1,41 +1,67 @@
 {
-    "name": "Cath Paluc",
-    "entities": [
-        {
-            "entity": "Cath Paluc",
-            "type": "mythological figure"
-        },
-        {
-            "entity": "Welsh",
-            "type": "culture"
-        },
-        {
-            "entity": "Paluc",
-            "type": "monster"
-        },
-        {
-            "entity": "Celtic mythology",
-            "type": "mythology"
-        }
+  "name": "Cath Paluc",
+  "entities": [
+    {
+      "entity": "Cath Paluc",
+      "type": "mythological creature"
+    },
+    {
+      "entity": "Paluc",
+      "type": "person"
+    },
+    {
+      "entity": "cat",
+      "type": "mythological creature"
+    },
+    {
+      "entity": "cult of the cat",
+      "type": "concept"
+    },
+    {
+      "entity": "Celtic mythology",
+      "type": "concept"
+    },
+    {
+      "entity": "Wales",
+      "type": "location"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Cath Paluc",
+      "attribute": "a monster of Welsh lore in cat form"
+    },
+    {
+      "entity": "Cath Paluc",
+      "attribute": "ate 180 men at each meal"
+    },
+    {
+      "entity": "Celtic mythology",
+      "attribute": "holds many such cat figures"
+    },
+    {
+      "entity": "cult of the cat",
+      "attribute": "noted from such tales of cats"
+    },
+    {
+      "entity": "Cath Paluc",
+      "attribute": "a trace of that cat cult"
+    }
+  ],
+  "sources": [
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+  ],
+  "cyphertext": "C7RLYsz26U0kvNOqOj69bJJA6o4a_VcyFZWD_AIEPRPWschvo-Qqeob2h_tO4PT_IRF33bFlH3G76wlbrHzm-nRHQ2_t77y3R5z-M965scL6Zf3QhcdlDMIqYDcK9d4slUI82fd3ttWaDt-0TST1dZk7glN1uK7nwzjOdEviL99_Q6SeI2oVKwri8ConUXE2KBcIZd3DeY0MGj2NK8GgcI6lFdyBTGabswL8ByMYYs0ZxLjFAtIYPmOvMk9s0uoVQEmXrZUiQwWSXVUM9oTirQMh3vIZ2FfgpYNKYCuJEhkLC9vPFjnlEdYvqaUajxnrFH1Lh9N_gopeW2o8_Pem0jO2_fG67MjfoDLf1R445d5mi9fGnEGT2JBd4zGFzOJ0KTSW3JpSXfCxJJwBDUqtpA==",
+  "salt": "EkxuLBKwfb2kV8vLDMIRBA==",
+  "text": "Cath Paluc, or Paluc's Cat, is a monster of Welsh mythology. It appears in cat form. It ate 180 men at every meal. Such cats recur across Celtic folklore. Some writers argue these tales show a cat cult of old. They see Cath Paluc as a surviving trace of that cult.",
+  "okr": {
+    "objective": "Cath Paluc is a ravenous Welsh cat tied to an old cat cult.",
+    "key_results": [
+      "It is a monster of Welsh lore shaped like a cat.",
+      "It devoured 180 men at each meal.",
+      "Similar cats appear across Celtic lore.",
+      "Scholars see it as a trace of a cat cult."
     ],
-    "attributes": [
-        {
-            "entity": "Paluc",
-            "attribute": "ate 180 men at every meal"
-        },
-        {
-            "entity": "Celtic mythology",
-            "attribute": "has led some to argue for an ancient cult of the Cat"
-        },
-        {
-            "entity": "Cath Paluc",
-            "attribute": "is believed to be a vestige"
-        }
-    ],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "cyphertext": "C7RLYsz26U0kvNOqOj69bJJA6o4a_VcyFZWD_AIEPRPWschvo-Qqeob2h_tO4PT_IRF33bFlH3G76wlbrHzm-nRHQ2_t77y3R5z-M965scL6Zf3QhcdlDMIqYDcK9d4slUI82fd3ttWaDt-0TST1dZk7glN1uK7nwzjOdEviL99_Q6SeI2oVKwri8ConUXE2KBcIZd3DeY0MGj2NK8GgcI6lFdyBTGabswL8ByMYYs0ZxLjFAtIYPmOvMk9s0uoVQEmXrZUiQwWSXVUM9oTirQMh3vIZ2FfgpYNKYCuJEhkLC9vPFjnlEdYvqaUajxnrFH1Lh9N_gopeW2o8_Pem0jO2_fG67MjfoDLf1R445d5mi9fGnEGT2JBd4zGFzOJ0KTSW3JpSXfCxJJwBDUqtpA==",
-    "salt": "EkxuLBKwfb2kV8vLDMIRBA==",
-    "text": "A legendary character from Welsh mythology is Cath Paluc, also known as \"Paluc's Cat.\" This creature, appearing in the form of a feline, was said to have consumed 180 men during each meal. Scholars have suggested that the existence of similar figures in Celtic lore might imply the existence of an ancient Cat cult, and Cath Paluc might be a remnant."
+    "evidence": "Monaghan, Encyclopedia of Celtic Mythology and Folklore"
+  }
 }

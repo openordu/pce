@@ -1,45 +1,67 @@
 {
-    "name": "Cellach",
-    "attributes": [
-        {
-            "entity": "Cormac Mac Airt",
-            "attribute": "father of Cellach"
-        },
-        {
-            "entity": "Cellach",
-            "attribute": "rapist son of Cormac Mac Airt"
-        },
-        {
-            "entity": "Cormac Mac Airt",
-            "attribute": "lost his eye in a fight with the vengeful father of Cellach's victim"
-        },
-        {
-            "entity": "Tara",
-            "attribute": "the throne that Cormac Mac Airt stepped down from"
-        },
-        {
-            "entity": "Cormac Mac Airt",
-            "attribute": "Blemished King"
-        }
+  "name": "Cellach",
+  "attributes": [
+    {
+      "entity": "Cellach",
+      "attribute": "Irish hero"
+    },
+    {
+      "entity": "Cellach",
+      "attribute": "son of Cormac Mac Airt"
+    },
+    {
+      "entity": "Cellach",
+      "attribute": "caused the end of his father's reign"
+    },
+    {
+      "entity": "Cormac Mac Airt",
+      "attribute": "lost an eye fighting the victim's vengeful father"
+    },
+    {
+      "entity": "Cormac Mac Airt",
+      "attribute": "had to step down from the throne of Tara"
+    },
+    {
+      "entity": "Cormac Mac Airt",
+      "attribute": "a blemished king could not reign"
+    },
+    {
+      "entity": "Tara",
+      "attribute": "throne of Cormac Mac Airt"
+    }
+  ],
+  "entities": [
+    {
+      "entity": "Cellach",
+      "type": "hero"
+    },
+    {
+      "entity": "Cormac Macn Airt",
+      "type": "person"
+    },
+    {
+      "entity": "Tara",
+      "type": "location"
+    },
+    {
+      "entity": "Blemished King",
+      "type": "concept"
+    }
+  ],
+  "sources": [
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+  ],
+  "cyphertext": "XpsZotW9nkSZ6rliOeRXB33I8sPa7YqiTgEpTr_ByJsjybZgrBw5VT_Cy2fahM6DUR3NK8ftNpdlIqIKhXPBK-gS0AgZGLYIuUSkI-dviZvbOcjXGH8aERUZsAPTDPCjZM79m6IlqO-UNKLpOXtzV15TEhXfTwzzOoLiQb0nsXbdIUp3kYP6Ua-G6vMtbhYfisaJrF7XJAqWZb8P37AL4OUc6PTT1rmZVjOEti5Lc0ZitaOGT10xf6i5ICPlCnM0Sh9M_OZqluYc82qT3hw1F2EdwEMMIUayELjldXtwVkoxzNZ8nchAh5eyPZ_T-KP2GuQSfwS2p_l-qAWZCHAYmAzUOB4D_F1c07031PHEVeKLrOi631p5knSu4sDcc6L-tfkrya97ecXXVc0cCaD8cNLxe6ABHylQ8XaDJOrrkHNU44DApPmMQpVTrt7t094VQgHKPPSNPiUUezuDFIXN",
+  "salt": "Br-yZq1ZLdR9Ax0cKlFtaw==",
+  "text": "Cellach is an Irish hero. He was the son of the good king Cormac Mac Airt. His acts against a woman drew the wrath of her vengeful father. Cormac fought that man and lost an eye. A blemished king could not reign. Cormac had to step down from the throne of Tara. Cellach played little part in myth except to end his father's reign.",
+  "okr": {
+    "objective": "Cellach is the Irish warrior whose deeds ended his father Cormac Mac Airt's reign.",
+    "key_results": [
+      "He is the son of the king Cormac Mac Airt.",
+      "His deeds against a woman provoked her father's revenge.",
+      "Cormac lost an eye and became a blemished king.",
+      "A blemished king could not rule the throne of Tara."
     ],
-    "entities": [
-        {
-            "entity": "Cellach",
-            "type": "Irish hero"
-        },
-        {
-            "entity": "Cormac Mac Airt",
-            "type": "good king"
-        },
-        {
-            "entity": "Tara",
-            "type": "throne"
-        }
-    ],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "cyphertext": "XpsZotW9nkSZ6rliOeRXB33I8sPa7YqiTgEpTr_ByJsjybZgrBw5VT_Cy2fahM6DUR3NK8ftNpdlIqIKhXPBK-gS0AgZGLYIuUSkI-dviZvbOcjXGH8aERUZsAPTDPCjZM79m6IlqO-UNKLpOXtzV15TEhXfTwzzOoLiQb0nsXbdIUp3kYP6Ua-G6vMtbhYfisaJrF7XJAqWZb8P37AL4OUc6PTT1rmZVjOEti5Lc0ZitaOGT10xf6i5ICPlCnM0Sh9M_OZqluYc82qT3hw1F2EdwEMMIUayELjldXtwVkoxzNZ8nchAh5eyPZ_T-KP2GuQSfwS2p_l-qAWZCHAYmAzUOB4D_F1c07031PHEVeKLrOi631p5knSu4sDcc6L-tfkrya97ecXXVc0cCaD8cNLxe6ABHylQ8XaDJOrrkHNU44DApPmMQpVTrt7t094VQgHKPPSNPiUUezuDFIXN",
-    "salt": "Br-yZq1ZLdR9Ax0cKlFtaw==",
-    "text": "Irish hero Cellach was known to be the rapist son of the good king Cormac Mac Airt. Although his significance is of lesser importance in mythology, he had brought about the downfall of his father's reign. As a result of Cormac fighting the vengeful father of Cellach's victim, he lost his eye which eventually led him to relinquish his throne at Tara because it was believed that a Blemished King was unfit for ruling."
+    "evidence": "Monaghan, Encyclopedia of Celtic Mythology and Folklore"
+  }
 }

@@ -1,37 +1,55 @@
 {
-    "name": "Caturix",
-    "entities": [
-        {
-            "entity": "Caturix",
-            "type": "Continental Celtic god"
-        },
-        {
-            "entity": "Mars",
-            "type": "warrior god"
-        }
+  "name": "Caturix",
+  "entities": [
+    {
+      "entity": "Caturix",
+      "type": "god"
+    },
+    {
+      "entity": "Mars",
+      "type": "god"
+    },
+    {
+      "entity": "central Europe",
+      "type": "location"
+    },
+    {
+      "entity": "Romans",
+      "type": "group"
+    }
+  ],
+  "sources": [
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+  ],
+  "attributes": [
+    {
+      "entity": "Caturix",
+      "attribute": "a Continental Celtic god"
+    },
+    {
+      "entity": "Caturix",
+      "attribute": "name may mean king of battle"
+    },
+    {
+      "entity": "Caturix",
+      "attribute": "an obscure deity of central Europe"
+    },
+    {
+      "entity": "Romans",
+      "attribute": "identified Caturix with Mars"
+    }
+  ],
+  "cyphertext": "n-j9rVDSnRmlGciyB6fhTkN4HRi9YK7PZXlfmhNWxRWhopSC29zfDHQjmb4wXBbSbv-8QwwtbG7Z7R6RKpH6wePKuw5-jU87PlCk-XH9v9FJns46nK-6CdCK7ZxYfrwv9xg8IF1GIFDgoP_G2eL-a-1HpJOV2GeGDgUZxWRpS15h7rhthWQmQlrn4dDxdXAkN34pMbOKdmlqUvltxGaSAHPqDCRx-S-pmrWkt0CQ9wDZcSajl-QXUgB2kqmfdXnWqvf8e_okTzWLANpz-QFpGpX4phMU5xaEcv_Xg9rRI7OPSdYy5KlwPVyHMaYVA0lu3OkVbxfsPqgVugsiFLEN",
+  "salt": "Fv492PAgTQZfO0WCTvcowQ==",
+  "text": "Caturix is a Continental Celtic god. Inscriptions to this obscure deity appear across central Europe. His name may mean 'king of battle'. The occupying Romans identified Caturix with their war god Mars. The records describe Caturix as an obscure figure.",
+  "okr": {
+    "objective": "Caturix is an obscure Continental Celtic war god later tied to Mars.",
+    "key_results": [
+      "His inscriptions appear across central Europe.",
+      "His name may mean king of battle.",
+      "The Romans identified him with Mars.",
+      "The records describe him as obscure."
     ],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "attributes": [
-        {
-            "entity": "Caturix",
-            "attribute": "obscure god"
-        },
-        {
-            "entity": "Caturix",
-            "attribute": "name means 'king of battle'"
-        },
-        {
-            "entity": "Caturix",
-            "attribute": "found in central European regions"
-        },
-        {
-            "entity": "Caturix",
-            "attribute": "identified with Mars by occupying Romans"
-        }
-    ],
-    "cyphertext": "n-j9rVDSnRmlGciyB6fhTkN4HRi9YK7PZXlfmhNWxRWhopSC29zfDHQjmb4wXBbSbv-8QwwtbG7Z7R6RKpH6wePKuw5-jU87PlCk-XH9v9FJns46nK-6CdCK7ZxYfrwv9xg8IF1GIFDgoP_G2eL-a-1HpJOV2GeGDgUZxWRpS15h7rhthWQmQlrn4dDxdXAkN34pMbOKdmlqUvltxGaSAHPqDCRx-S-pmrWkt0CQ9wDZcSajl-QXUgB2kqmfdXnWqvf8e_okTzWLANpz-QFpGpX4phMU5xaEcv_Xg9rRI7OPSdYy5KlwPVyHMaYVA0lu3OkVbxfsPqgVugsiFLEN",
-    "salt": "Fv492PAgTQZfO0WCTvcowQ==",
-    "text": "Obscure inscriptions found in central European regions refer to Caturix as a Continental Celtic god whose name implies his role as the \"king of battle\". The Romans, during their occupation, connected Caturix with their own god of war, Mars."
+    "evidence": "Monaghan, Encyclopedia of Celtic Mythology and Folklore"
+  }
 }

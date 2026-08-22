@@ -1,11 +1,33 @@
 {
-    "name": "Carravogue",
-    "attributes": {},
-    "entities": [],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+  "name": "Carravogue",
+  "attributes": [
+    {
+      "entity": "Carravogue",
+      "attribute": "cross-reference given to Garravogue"
+    }
+  ],
+  "entities": [
+    {
+      "entity": "Carravogue",
+      "type": "place"
+    },
+    {
+      "entity": "Garravogue",
+      "type": "place"
+    }
+  ],
+  "sources": [
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+  ],
+  "cyphertext": "0C7tjZhaN-NBmnY4w94gQr2OSgzuF9NKk-Hf8dsD79nnYvQodCob9SH-ZUA-jjzMo-D4qhfLHg==",
+  "salt": "aO7_yA0iKAHTCGO5yq2_NQ==",
+  "text": "Carravogue is an alternate spelling. It points to the entry Garravogue. The encyclopedia treats the two names as one.",
+  "okr": {
+    "objective": "Carravogue is a cross-reference entry that points to Garravogue.",
+    "key_results": [
+      "The entry redirects the reader to Garravogue.",
+      "The two names denote the same thing."
     ],
-    "cyphertext": "0C7tjZhaN-NBmnY4w94gQr2OSgzuF9NKk-Hf8dsD79nnYvQodCob9SH-ZUA-jjzMo-D4qhfLHg==",
-    "salt": "aO7_yA0iKAHTCGO5yq2_NQ==",
-    "text": "Carravogue See Garravogue."
+    "evidence": "Monaghan, Encyclopedia of Celtic Mythology and Folklore"
+  }
 }

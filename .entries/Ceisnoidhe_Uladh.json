@@ -1,15 +1,38 @@
 {
-    "name": "Ceisnoidhe Uladh",
-    "attributes": {},
-    "entities": [
-        {
-            "text": "Ceisnoidhe Uladh See Debility Of The Ulstermen"
-        }
+  "name": "Ceisnoidhe Uladh",
+  "attributes": [
+    {
+      "entity": "Ceisnoidhe Uladh",
+      "attribute": "cross-references Debility Of The Ulstermen"
+    },
+    {
+      "entity": "Debility Of The Ulstermen",
+      "attribute": "same subject as Ceisnoidhe Uladh"
+    }
+  ],
+  "entities": [
+    {
+      "entity": "Ceisnoidhe Uladh",
+      "type": "event"
+    },
+    {
+      "entity": "Debility Of The Ulstermen",
+      "type": "event"
+    }
+  ],
+  "sources": [
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+  ],
+  "cyphertext": "_KUwIERYBNPEaezsgi-Vwt1iNRyyBugOFdymv3b-3S4Jo4zM7hKUojZRObDmN65f2dEqz950MxapHi1VPEWYvGLnUqbHCeBV7pnr-A==",
+  "salt": "7FgUYwyQubOnOQ5nE_NzKw==",
+  "text": "Ceisnoidhe Uladh is a cross-reference entry. The name points the reader to the entry Debility Of The Ulstermen. The two names describe the same subject. The entry carries no separate narrative.",
+  "okr": {
+    "objective": "Ceisnoidhe Uladh is an alternate name for the episode Debility Of The Ulstermen.",
+    "key_results": [
+      "The name appears as a cross-reference heading.",
+      "The source directs readers to Debility Of The Ulstermen.",
+      "The two names name the same subject."
     ],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "cyphertext": "_KUwIERYBNPEaezsgi-Vwt1iNRyyBugOFdymv3b-3S4Jo4zM7hKUojZRObDmN65f2dEqz950MxapHi1VPEWYvGLnUqbHCeBV7pnr-A==",
-    "salt": "7FgUYwyQubOnOQ5nE_NzKw==",
-    "text": "Ceisnoidhe Uladh See Debility Of The Ulstermen."
+    "evidence": "Monaghan, Encyclopedia of Celtic Mythology and Folklore"
+  }
 }

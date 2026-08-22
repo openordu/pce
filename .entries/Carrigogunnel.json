@@ -1,11 +1,33 @@
 {
-    "name": "Carrigogunnel",
-    "attributes": {},
-    "entities": [],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+  "name": "Carrigogunnel",
+  "attributes": [
+    {
+      "entity": "Carrigogunnel",
+      "attribute": "cross-reference pointing to Grana"
+    }
+  ],
+  "entities": [
+    {
+      "entity": "Carrigogunnel",
+      "type": "place"
+    },
+    {
+      "entity": "Grana",
+      "type": "mythological figure"
+    }
+  ],
+  "sources": [
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+  ],
+  "cyphertext": "kluvrPLgmLEEl0lFrqrkzw1riCNGAqyWtCkOQxdzDA9SFXBWoYOmZT-bYOIuFQpCYvI4pKc=",
+  "salt": "bH1sbDyP3SRY6wkIvqtXng==",
+  "text": "Carrigogunnel is a cross-reference. The encyclopedia sends the reader to Grana for the fuller account.",
+  "okr": {
+    "objective": "Carrigogunnel is a cross-reference entry that points readers to Grana.",
+    "key_results": [
+      "The entry redirects the reader to Grana.",
+      "Grana carries the fuller account."
     ],
-    "cyphertext": "kluvrPLgmLEEl0lFrqrkzw1riCNGAqyWtCkOQxdzDA9SFXBWoYOmZT-bYOIuFQpCYvI4pKc=",
-    "salt": "bH1sbDyP3SRY6wkIvqtXng==",
-    "text": "Carrigogunnel See Grana."
+    "evidence": "Monaghan, Encyclopedia of Celtic Mythology and Folklore"
+  }
 }
