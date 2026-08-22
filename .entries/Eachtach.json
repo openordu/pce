@@ -3,57 +3,37 @@
     "attributes": [
         {
             "entity": "Eachtach",
-            "attribute": "loyal daughter of Diarmait Ua Duibne and Gr\u00e1inne"
+            "attribute": "an Irish heroine, loyal daughter of Diarmait Ua Duibne"
+        },
+        {
+            "entity": "Gráinne",
+            "attribute": "the beloved spouse of Diarmait Ua Duibne and mother of Eachtach"
         },
         {
             "entity": "Eachtach",
-            "attribute": "attacked Fionn Mac Cumhaill"
-        },
-        {
-            "entity": "Diarmait Ua Duibne",
-            "attribute": "Irish hero"
-        },
-        {
-            "entity": "Gr\u00e1inne",
-            "attribute": "beloved spouse of Diarmait Ua Duibne"
-        },
-        {
-            "entity": "Fionn Mac Cumhaill",
-            "attribute": "lord of Diarmait Ua Duibne"
-        },
-        {
-            "entity": "enchanted Boar",
-            "attribute": "fought to the death with Diarmait Ua Duibne"
-        },
-        {
-            "entity": "each uisce",
-            "attribute": "also known as each uisge"
+            "attribute": "attacked Fionn Mac Cumhaill after his refusal to help her father"
         }
     ],
     "entities": [
         {
             "entity": "Eachtach",
-            "type": "Irish heroine"
+            "type": "Person"
         },
         {
             "entity": "Diarmait Ua Duibne",
-            "type": "Irish hero"
+            "type": "Person"
         },
         {
-            "entity": "Gr\u00e1inne",
-            "type": "spouse of Diarmait Ua Duibne"
+            "entity": "Gráinne",
+            "type": "Person"
         },
         {
             "entity": "Fionn Mac Cumhaill",
-            "type": "lord of Diarmait Ua Duibne"
+            "type": "Person"
         },
         {
-            "entity": "enchanted Boar",
-            "type": "mythical creature"
-        },
-        {
-            "entity": "each uisce",
-            "type": "Water Horse"
+            "entity": "boar",
+            "type": "Animal"
         }
     ],
     "sources": [
@@ -61,5 +41,14 @@
     ],
     "cyphertext": "2Ve2SK7Den6IhMplLenPBFjzMaD-9Bzqh1DaWnG7pm_bT-FQvQYtS9kzPI1j46Wd7awPtcFag7xbqwcynwBYhaHekw50V_wR9QUQ_9ggVO1cWpyh6EN7CvA-3Rcm2R8oPYjiGDYeXrONY8XKFYdlTP5qfXFbyfNdqusjA342Dc_RGYsg_tSMKeeUdM104E9K3ZJhUM4z2OptzYHWKSoCQdcuJdUQ-ZxK4g3ShK9SmSs3XjvSfkJxEPZU8lxxbGDUiMTMPCBF1j27lsx-QDxIQcnnO753Ii2TLBuaaJRIByK5KnfMNfbnk9Jwpd-zSzy6cx_GbXgjx43eBVeCcphBbbXEEQDvmP7rJe7QUK4Us075ysvhW7MrWnHXPqwg6lKSD4049rlWbN--3DBhxOqSd35WWINPQsvUKcvyJ4iZ6nGjLA==",
     "salt": "LakMQcgWSoovfkSDBwVqcg==",
-    "text": "The brave Eachtach was an Irish heroine who fought against Fionn Mac Cumhaill, lord of her father Diarmait Ua Duibne, and his beloved wife Gr\u00e1inne. This courageous act was in response to Fionn's refusal to aid Diarmait in his fight against a mystical Boar. Furthermore, it is worth noting that Eachtach is connected to the mythical creature known as the Water Horse, also called each uisce or each uisge."
+    "text": "Eachtach is an Irish heroine and the loyal daughter of Diarmait Ua Duibne and Gráinne. She attacked Fionn Mac Cumhaill, her father's lord. Fionn had refused to stand by Diarmait as he fought to the death with an enchanted boar. Her blow followed this refusal of aid to her father.",
+    "okr": {
+        "objective": "Describe Eachtach, the loyal daughter who attacked Fionn Mac Cumhaill.",
+        "key_results": [
+            "Eachtach was the loyal daughter of Diarmait Ua Duibne and Gráinne.",
+            "She attacked Fionn Mac Cumhaill, her father's lord.",
+            "Fionn had refused to help Diarmait as he fought an enchanted boar."
+        ],
+        "evidence": "Monaghan 2008, s.v. 'Eachtach'."
+    }
 }

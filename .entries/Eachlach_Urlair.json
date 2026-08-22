@@ -3,53 +3,41 @@
     "attributes": [
         {
             "entity": "Eachlach Urlair",
-            "attribute": "feminine spirit"
+            "attribute": "a Scottish folkloric figure"
         },
         {
             "entity": "Eachlach Urlair",
-            "attribute": "Bogie or Witch"
+            "attribute": "a feminine spirit, a bogie or a witch"
         },
         {
             "entity": "Eachlach Urlair",
-            "attribute": "Scottish folkloric figure"
+            "attribute": "believed to live near castles and serve their residents"
         },
         {
             "entity": "Eachlach Urlair",
-            "attribute": "lived near castles"
-        },
-        {
-            "entity": "Eachlach Urlair",
-            "attribute": "provided unspecified, even mysterious, service to their residents"
-        },
-        {
-            "entity": "Eachlach Urlair",
-            "attribute": "name came to mean any domestic servant"
-        },
-        {
-            "entity": "Highland folklore",
-            "attribute": "described as having originated not in the human world but in the Otherworld"
+            "attribute": "came from the Otherworld, not the human world"
         }
     ],
     "entities": [
         {
             "entity": "Eachlach Urlair",
-            "type": "Scottish folkloric figure"
+            "type": "Being"
         },
         {
-            "entity": "Bogie",
-            "type": "feminine spirit"
+            "entity": "bogie",
+            "type": "Being"
         },
         {
-            "entity": "Witch",
-            "type": "feminine spirit"
-        },
-        {
-            "entity": "Highland folklore",
-            "type": "folklore"
+            "entity": "witch",
+            "type": "Role"
         },
         {
             "entity": "Otherworld",
-            "type": "mythical world"
+            "type": "Concept"
+        },
+        {
+            "entity": "Highlands",
+            "type": "Place"
         }
     ],
     "sources": [
@@ -57,5 +45,15 @@
     ],
     "cyphertext": "Lc1hweqoTMWf2S34au_l6GyNQThmSWW8pAEANHvBurtT1G4UkSdURf2PHAEiOsbh6Oy9E8wECduIjVMO6F-1-pRDtWGakTNWvBWkvFALaMO-TIjEdrt9fgsKt6-DSgJ3zN5IhuWgo0kvOGtr69oiSuPeC4A1-H4M2CNjl-1rMYSy7j0UBR3AU0Czjh_Lg95dVKzjZPoJ7W1Sd7HBp2giOu8c7w03TMVciBwaVnXLvCXftdSc_cbW6e6xyPg-3euU14SIwwIbCFYK66fqULx6e3vTT8iKRYv2l8anq9Ge34Fw8jJrIKOmgCeMe2HK6vfKcNgxqOvmpBCKZ4TzNXesKzqGUx9HrS7ecjCl6Qi4QrLdGoENclENGpgc4GIGmihswSTBFX55h8WVJrZr47yHSOw2dbZukNE0rfPgqseP8ZLNtRKGPp26L3TMfvKI_hnASFZSsxuNfdTbmsvsQ72hToFUu-QvFScqhO0jg0qzRk0ifAn2Miq_-cP5gIIUgH0R5xMwcNQm08RF1tI4IvoDpn8Ku2eFxij6UXkrmWMfVna-4Ps5Y5IuLpxiMm2AhUkxf2T7QOBYG1bR5We1osnAOQ==",
     "salt": "EgtWE29mtW5LFfooI8XuEg==",
-    "text": "An important figure in Scottish folklore is Eachlach Urlair, also known as Eclock Urleer, Eachrais \u00f9rlair, Creeper on the Floor, or Trouble-the-House. This entity, believed to be a feminine spirit, is classified as a Bogie or Witch and was thought to reside near castles, providing an array of mysterious services to residents. Her name eventually came to represent any sort of domestic servant, although in Highland folklore, it is believed that she comes from the Otherworld, rather than the human world."
+    "text": "Eachlach Urlair is a Scottish folkloric figure. This spirit is female and is a bogie or a witch. She was believed to live near castles. She offered residents mysterious service of no fixed kind. Her name came to mean any domestic servant. Highland lore says she began not in the human world but in the Otherworld.",
+    "okr": {
+        "objective": "Describe Eachlach Urlair as a Scottish household spirit.",
+        "key_results": [
+            "Eachlach Urlair is a feminine Scottish spirit.",
+            "She was a bogie or a witch who lived near castles.",
+            "Her name came to mean any domestic servant.",
+            "Highland lore places her origin in the Otherworld."
+        ],
+        "evidence": "Monaghan 2008, s.v. 'Eachlach Urlair'."
+    }
 }
