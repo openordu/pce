@@ -1,15 +1,58 @@
 {
-    "name": "Biddy Mannion",
-    "attributes": {},
-    "entities": [
-        {
-            "text": "Biddy Mannion See Fairy Midwife"
-        }
-    ],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "cyphertext": "UtiVMuH_PCJST0mdzI7SrtoIelVtGRaa6whcHz-AfBbI4y5gVKIkNYwTSkseNMXpku6d1BgdTZUTA8SmgA==",
-    "salt": "mSTS9utJFsX0E7DTw3ArNA==",
-    "text": "Biddy Mannion See Fairy Midwife."
+ "name": "Biddy Mannion",
+ "attributes": [
+  {
+   "entity": "Biddy Mannion",
+   "attribute": "came from the island of Inishshark"
+  },
+  {
+   "entity": "Biddy Mannion",
+   "attribute": "worked as a human midwife"
+  },
+  {
+   "entity": "Biddy Mannion",
+   "attribute": "was taken by a fairy king and queen to nurse a sick child"
+  },
+  {
+   "entity": "glamour",
+   "attribute": "hid her absence from her own family"
+  }
+ ],
+ "entities": [
+  {
+   "entity": "Biddy Mannion",
+   "type": "Person"
+  },
+  {
+   "entity": "fairy king",
+   "type": "Being"
+  },
+  {
+   "entity": "fairy queen",
+   "type": "Being"
+  },
+  {
+   "entity": "Inishshark",
+   "type": "Place"
+  },
+  {
+   "entity": "glamour",
+   "type": "Concept"
+  }
+ ],
+ "sources": [
+  "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+ ],
+ "cyphertext": "UtiVMuH_PCJST0mdzI7SrtoIelVtGRaa6whcHz-AfBbI4y5gVKIkNYwTSkseNMXpku6d1BgdTZUTA8SmgA==",
+ "salt": "mSTS9utJFsX0E7DTw3ArNA==",
+ "text": "Biddy Mannion is a human midwife from the Irish island of Inishshark. A fairy king and fairy queen carried her away to nurse their sick child. Biddy cared for the child until it grew better, and she served the fairies well. When she finally returned home, a glamour hid her absence, so her own family never knew she was gone.",
+ "okr": {
+  "objective": "Describe Biddy Mannion as a human midwife who nursed the child of the fairy royalty.",
+  "key_results": [
+   "Biddy Mannion came from the Irish island of Inishshark.",
+   "The king and queen of the fairies carried her away to tend a sick child.",
+   "A glamour hid her absence from her own family."
+  ],
+  "evidence": "Monaghan 2008, s.v. 'Biddy Mannion'."
+ }
 }

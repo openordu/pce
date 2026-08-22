@@ -1,81 +1,46 @@
 {
-    "name": "Black Vaughan",
-    "attributes": [
-        {
-            "entity": "Black Vaughan",
-            "attribute": "British folkloric figure"
-        },
-        {
-            "entity": "Black Vaughan",
-            "attribute": "savage Ghost"
-        },
-        {
-            "entity": "Black Vaughan",
-            "attribute": "vile in life"
-        },
-        {
-            "entity": "Black Vaughan",
-            "attribute": "remained on earth"
-        },
-        {
-            "entity": "Black Vaughan",
-            "attribute": "torment his neighbors"
-        },
-        {
-            "entity": "Black Vaughan",
-            "attribute": "Shape-Shifting into a fly"
-        },
-        {
-            "entity": "Black Vaughan",
-            "attribute": "drive their horses wild"
-        },
-        {
-            "entity": "Black Vaughan",
-            "attribute": "finally exorcised"
-        },
-        {
-            "entity": "woman",
-            "attribute": "with a newborn baby"
-        },
-        {
-            "entity": "woman",
-            "attribute": "whose purity and innocence"
-        }
-    ],
-    "entities": [
-        {
-            "entity": "Black Vaughan",
-            "type": "British folkloric figure"
-        },
-        {
-            "entity": "Lancastershire",
-            "type": "Location"
-        },
-        {
-            "entity": "Ghost",
-            "type": "Supernatural being"
-        },
-        {
-            "entity": "Shape-Shifting",
-            "type": "Ability"
-        },
-        {
-            "entity": "fly",
-            "type": "Insect"
-        },
-        {
-            "entity": "woman",
-            "type": "Human"
-        },
-        {
-            "entity": "newborn baby",
-            "type": "Human"
-        }
-    ],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "cyphertext": "X7VrefP7dTU7ErwwzVp4VYUOVJp7JBd09EFC4sMwOeI4ys0sgpDdKvNjJ_OmxNeUSLNYVO80Y1-Ve03LNseOW9x46lyRe_UoHMMjde-8ESgs8jqumzPZnNA1CFwiAaMgHIx1X9qEamO46V9SoUECLaCw12TimE9XnOVqeMHE7uZ6flgaC6Noj8SK_-gjvPbYv6irpzKCrcYyGeAe9x08NTQsLa2JY6kd4MFmDmOTArnhEmtBTZBNEf3Y2H4kUtzoXHTpVNAM1X1ON9TxjOZlGdasSL8gXp3vagRC2DYPXBIOIaJOwnqWwLHoatMWO39VYFMqgm6PKsuuPlGQuEfI-xKRseKnc2ETCchmqIegCEjwkoQdwDEIMSacP87lXviqGCa_hK42sz4dNCuSIu2PpbznwGIFVZnlOigJddK5INAnxIYXwHHee8toSjFN30DtZ_qAXlnb78zvx0jn9izDGlGx3vEln7FZ4auyW4O8frPSM1usLbc-5iEHqZvlWyy4dneRI4W1LAqu4iN9APkmZXtbebJBnnY=",
-    "salt": "VjhB_rWYXL-h0wO25-Uk_A==",
-    "text": "A British folkloric figure known as Black Vaughan is said to have haunted Lancastershire after his death. This savage ghost was so despicable in life that he continued to torment his neighbors even in death. There were even reports of him transforming into a fly to scare horses. However, the ghost was eventually expelled by a woman with a newborn baby. It was said that Black Vaughan could not bear the purity and innocence of the child."
+ "name": "Black Vaughan",
+ "attributes": [
+  {
+   "entity": "Black Vaughan",
+   "attribute": "was a savage ghost"
+  },
+  {
+   "entity": "Black Vaughan",
+   "attribute": "remained on earth to torment his neighbors"
+  },
+  {
+   "entity": "Black Vaughan",
+   "attribute": "shifted into a fly to drive horses wild"
+  },
+  {
+   "entity": "Black Vaughan",
+   "attribute": "was driven away by a woman with a newborn baby"
+  }
+ ],
+ "entities": [
+  {
+   "entity": "Black Vaughan",
+   "type": "Being"
+  },
+  {
+   "entity": "Lancashire",
+   "type": "Place"
+  }
+ ],
+ "sources": [
+  "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+ ],
+ "cyphertext": "X7VrefP7dTU7ErwwzVp4VYUOVJp7JBd09EFC4sMwOeI4ys0sgpDdKvNjJ_OmxNeUSLNYVO80Y1-Ve03LNseOW9x46lyRe_UoHMMjde-8ESgs8jqumzPZnNA1CFwiAaMgHIx1X9qEamO46V9SoUECLaCw12TimE9XnOVqeMHE7uZ6flgaC6Noj8SK_-gjvPbYv6irpzKCrcYyGeAe9x08NTQsLa2JY6kd4MFmDmOTArnhEmtBTZBNEf3Y2H4kUtzoXHTpVNAM1X1ON9TxjOZlGdasSL8gXp3vagRC2DYPXBIOIaJOwnqWwLHoatMWO39VYFMqgm6PKsuuPlGQuEfI-xKRseKnc2ETCchmqIegCEjwkoQdwDEIMSacP87lXviqGCa_hK42sz4dNCuSIu2PpbznwGIFVZnlOigJddK5INAnxIYXwHHee8toSjFN30DtZ_qAXlnb78zvx0jn9izDGlGx3vEln7FZ4auyW4O8frPSM1usLbc-5iEHqZvlWyy4dneRI4W1LAqu4iN9APkmZXtbebJBnnY=",
+ "salt": "VjhB_rWYXL-h0wO25-Uk_A==",
+ "text": "Black_Vaughan is a savage ghost from English folklore. He once lived in Lancashire and was vile in life. After death he stayed on earth to torment his neighbors. He could change his shape into a fly to drive their horses wild. A woman holding a newborn baby finally drove him away, for he could not stand her pure and innocent state.",
+ "okr": {
+  "objective": "Recount Black_Vaughan as an evil ghost that a woman with a newborn baby drove away.",
+  "key_results": [
+   "Black_Vaughan was a savage ghost in British folklore.",
+   "He returned after death to torment neighbors and could become a fly.",
+   "A woman holding a newborn baby finally drove him away."
+  ],
+  "evidence": "Monaghan 2008, s.v. 'Black Vaughan'."
+ }
 }

@@ -1,29 +1,38 @@
 {
-    "name": "Blaise",
-    "entities": [
-        {
-            "entity": "Blaise",
-            "type": "Arthurian hero"
-        },
-        {
-            "entity": "Merlin",
-            "type": "great"
-        }
-    ],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "attributes": [
-        {
-            "entity": "Blaise",
-            "attribute": "obscure figure"
-        },
-        {
-            "entity": "Blaise",
-            "attribute": "taught magic to Merlin"
-        }
-    ],
-    "cyphertext": "NRssawyw2zyq-XToPTMGYtzo2VEwUrNrOdXKTWGHne2pERw3vqhMHMsCBzzi4BuuvIKKNPxUf8y93sFl-pfLJ0SILaLEYbLkAAjVEwhHNTJ5zZY_ixDnwTo6OZ3PiV810WdIxPze5-U-m43Gn9d1TePD4jsHA2zqjRs=",
-    "salt": "TqXLO2DPGZEilTW9ow8mgA==",
-    "text": "Arthurian hero Blaise is known for his teaching of magic to the prominent Merlin despite his own lesser-known status."
+ "name": "Blaise",
+ "entities": [
+  {
+   "entity": "Blaise",
+   "type": "Person"
+  },
+  {
+   "entity": "Merlin",
+   "type": "Person"
+  }
+ ],
+ "sources": [
+  "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+ ],
+ "attributes": [
+  {
+   "entity": "Blaise",
+   "attribute": "taught magic to Merlin"
+  },
+  {
+   "entity": "Blaise",
+   "attribute": "was an otherwise obscure Arthurian figure"
+  }
+ ],
+ "cyphertext": "NRssawyw2zyq-XToPTMGYtzo2VEwUrNrOdXKTWGHne2pERw3vqhMHMsCBzzi4BuuvIKKNPxUf8y93sFl-pfLJ0SILaLEYbLkAAjVEwhHNTJ5zZY_ixDnwTo6OZ3PiV810WdIxPze5-U-m43Gn9d1TePD4jsHA2zqjRs=",
+ "salt": "TqXLO2DPGZEilTW9ow8mgA==",
+ "text": "Blaise is a figure in Arthurian legend, though not a hero in the usual sense. He is an obscure man. People remember him for one deed. Blaise taught magic to the great wizard Merlin. His own fame rests on the strength of that pupil.",
+ "okr": {
+  "objective": "Show Blaise as the obscure Arthurian teacher of Merlin.",
+  "key_results": [
+   "Blaise is an Arthurian hero.",
+   "He taught magic to the great Merlin.",
+   "Beyond that deed, he remains an obscure figure."
+  ],
+  "evidence": "Monaghan 2008, s.v. 'Blaise'."
+ }
 }
