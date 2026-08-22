@@ -1,15 +1,30 @@
 {
-    "name": "Ben-Varrey",
-    "attributes": {},
-    "entities": [
-        {
-            "text": "Ben-Varrey"
-        }
+  "name": "Ben-Varrey",
+  "attributes": [
+    {
+      "entity": "Ben-Varrey",
+      "attribute": "cross-reference entry pointing to Mermaid"
+    }
+  ],
+  "entities": [
+    {
+      "entity": "Ben-Varrey",
+      "type": "Being"
+    }
+  ],
+  "sources": [
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+  ],
+  "cyphertext": "LUeXR7TdxhHO4WHtB7xFksz4tFI8XoCulMx2UgUPe45wAt0KXccPRm1iS7Tyb75ftMwsVA==",
+  "salt": "QewdwEkC1ANK-IqhqkZ1Tw==",
+  "text": "Ben-Varrey is the title of a Manx-water figure. It is a pointer entry in the online encyclopedia. It directs the reader to the entry on the Mermaid, where the spirits of the sea are treated in full. Ben-Varrey therefore names the same folk being that is described under the broader headword Mermaid. Treat this entry as a cross-reference to that main article.",
+  "okr": {
+    "objective": "Ben-Varrey points the reader to the Mermaid entry for the fuller account of the sun.",
+    "key_results": [
+      "Ben-Varrey is a cross-reference in the encyclopedia",
+      "It directs the reader to the main Mermaid article",
+      "It is a title for the folk spirit of the sea"
     ],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "cyphertext": "LUeXR7TdxhHO4WHtB7xFksz4tFI8XoCulMx2UgUPe45wAt0KXccPRm1iS7Tyb75ftMwsVA==",
-    "salt": "QewdwEkC1ANK-IqhqkZ1Tw==",
-    "text": "Ben-Varrey See Mermaid."
+    "evidence": "Monaghan, Encyclopedia of Celtic Mythology and Folklore"
+  }
 }
