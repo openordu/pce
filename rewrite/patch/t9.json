@@ -1,0 +1,595 @@
+{
+  "Bog_of_Allen.json": {
+    "text": "Alend is an Irish goddess. The old capital Almu carried her name. That city ruled the eastern province of Leinster. The hill where it once stood is the Hill of Allen today. It lies in County Kildare. Her name also marks the wide Bog of Allen. People personified the hill as Almu, which means all white. A hidden door to the Otherworld stood on the hill. King Nuada held it first. The hero Fionn Mac Cumhaill seized it from Nuada by force. The hill was named his birthplace. A small mound on top was his seat. Some confuse Almu with Knockaulin.",
+    "entities": [
+      {
+        "entity": "Alend",
+        "type": "Deity"
+      },
+      {
+        "entity": "Almu",
+        "type": "Place"
+      },
+      {
+        "entity": "Hill of Allen",
+        "type": "Place"
+      },
+      {
+        "entity": "Bog of Allen",
+        "type": "Place"
+      },
+      {
+        "entity": "Leinster",
+        "type": "Place"
+      },
+      {
+        "entity": "Otherworld",
+        "type": "Concept"
+      },
+      {
+        "entity": "Nuada",
+        "type": "Person"
+      },
+      {
+        "entity": "Fionn Mac Cumhaill",
+        "type": "Person"
+      },
+      {
+        "entity": "Knockaulin",
+        "type": "Place"
+      }
+    ],
+    "attributes": [
+      {
+        "entity": "Alend",
+        "attribute": "royal and heroic Irish goddess"
+      },
+      {
+        "entity": "Alend",
+        "attribute": "her capital Almu ruled the province of Leinster"
+      },
+      {
+        "entity": "Alend",
+        "attribute": "her name marks the Bog of Allen"
+      },
+      {
+        "entity": "Almu",
+        "attribute": "personified as all white"
+      },
+      {
+        "entity": "Nuada",
+        "attribute": "original holder of the hill"
+      },
+      {
+        "entity": "Fionn Mac Cumhaill",
+        "attribute": "seized the hill from Nuada by force"
+      }
+    ],
+    "okr": {
+      "objective": "Describe Alend, the Irish goddess who gave her name to the Bog of Allen.",
+      "key_results": [
+        "Alend was a royal and heroic Irish goddess.",
+        "Her name marked the old capital Almu.",
+        "The Hill of Allen and the Bog of Allen carry her name.",
+        "The hero Fionn Mac Cumhaill took the hill by force."
+      ],
+      "evidence": "Monaghan 2008, s.v. 'Alend'."
+    }
+  },
+  "Bolg.json": {
+    "text": "Bolg is a cross reference in this book. The reader should look to Fir Bolg. The Fir Bolg were an Irish race of legend. They were the Nemedians under a new name. They returned to Ireland after years of bondage. The Tuatha De Danann then landed among them. These people were the folk of the goddess Danu. They defeated the Fir Bolg and the rest of the Fomorians. Later the Sons of Moles took the land in turn.",
+    "entities": [
+      {
+        "entity": "Fir Bolg",
+        "type": "Group"
+      },
+      {
+        "entity": "Nemedians",
+        "type": "Group"
+      },
+      {
+        "entity": "Tuatha Dé Danann",
+        "type": "Group"
+      },
+      {
+        "entity": "Danu",
+        "type": "Deity"
+      },
+      {
+        "entity": "Fomorians",
+        "type": "Group"
+      },
+      {
+        "entity": "Milesians",
+        "type": "Group"
+      }
+    ],
+    "attributes": [
+      {
+        "entity": "Bolg",
+        "attribute": "a cross reference to the Fir Bolg"
+      },
+      {
+        "entity": "Fir Bolg",
+        "attribute": "the old Nemedians under a new name"
+      },
+      {
+        "entity": "Tuatha Dé Danann",
+        "attribute": "defeated the Fir Bolg and the Fomorians"
+      },
+      {
+        "entity": "Tuatha Dé Danann",
+        "attribute": "the people of the goddess Danu"
+      },
+      {
+        "entity": "Milesians",
+        "attribute": "later took the land of Ireland"
+      }
+    ],
+    "okr": {
+      "objective": "Route the reader from Bolg to the Fir Bolg race.",
+      "key_results": [
+        "Bolg is a cross reference entry.",
+        "The Fir Bolg were the Nemedians under a new name.",
+        "They regained Ireland after years in bondage.",
+        "The Tuatha Dé Danann eventually defeated them."
+      ],
+      "evidence": "Monaghan 2008, s.v. 'Bolg'."
+    }
+  },
+  "Bolvinnus.json": {
+    "text": "Bolvinnus is a Continental Celtic god. He came from the land of Gaul. Little is known about him. The Romans saw him as the same god as their own warrior god Mars. The sources say no more about Bolvinnus.",
+    "entities": [
+      {
+        "entity": "Bolvinnus",
+        "type": "Deity"
+      },
+      {
+        "entity": "Mars",
+        "type": "Deity"
+      },
+      {
+        "entity": "Gaul",
+        "type": "Place"
+      }
+    ],
+    "attributes": [
+      {
+        "entity": "Bolvinnus",
+        "attribute": "a god from the province of Gaul"
+      },
+      {
+        "entity": "Bolvinnus",
+        "attribute": "equated by the Romans with Mars"
+      }
+    ],
+    "okr": {
+      "objective": "Describe Bolvinnus, the little-known Gallic god equated with Mars.",
+      "key_results": [
+        "Bolvinnus was a Continental Celtic god.",
+        "He came from Gaul.",
+        "The Romans identified him with Mars."
+      ],
+      "evidence": "Monaghan 2008, s.v. 'Bolvinnus'."
+    }
+  },
+  "Book_of_Invasions.json": {
+    "text": "The Book of Invasions is an Irish literary text. Its Irish title is Lebor Gabála Érenn. The title carries the sense of the Takings of Ireland. The work gathers about twelve separate manuscripts. Most are from the twelfth century. Older passages survive in them. The text is poetic. It tells how Ireland was won in six invasions. The tale runs from the great flood to the final settlers. It is a strong aid for scholars of ancient myth.",
+    "entities": [
+      {
+        "entity": "Book of Invasions",
+        "type": "Title"
+      },
+      {
+        "entity": "Lebor Gabála Érenn",
+        "type": "Title"
+      },
+      {
+        "entity": "Ireland",
+        "type": "Place"
+      }
+    ],
+    "attributes": [
+      {
+        "entity": "Book of Invasions",
+        "attribute": "an Irish literary text"
+      },
+      {
+        "entity": "Lebor Gabála Érenn",
+        "attribute": "means the Takings of Ireland"
+      },
+      {
+        "entity": "Book of Invasions",
+        "attribute": "tells of six invasions"
+      },
+      {
+        "entity": "Book of Invasions",
+        "attribute": "a key source for Celtic mythology"
+      }
+    ],
+    "okr": {
+      "objective": "Describe the Book of Invasions, the account of the six invasions of Ireland.",
+      "key_results": [
+        "The Book of Invasions is an Irish literary text.",
+        "Its Irish title is Lebor Gal Gabála Érenn.",
+        "It gathers twelve separate manuscripts.",
+        "It recounts six invasions from the flood onward."
+      ],
+      "evidence": "Monaghan 2008, s.v. 'Book of Invasions'."
+    }
+  },
+  "Bors_de_Ganis.json": {
+    "text": "Bors de Ganis is an Arthurian hero. He sat among the knights of the Round Table. He was the cousin of the lord Lancelot. The Grail is a sacred cup. Only three knights were pure enough to reach it. They were Percival, Galahad, and Bors de Ganis. Bors was the least known of the three.",
+    "entities": [
+      {
+        "entity": "Bors de Ganis",
+        "type": "Person"
+      },
+      {
+        "entity": "Round Table",
+        "type": "Group"
+      },
+      {
+        "entity": "Grail",
+        "type": "Artifact"
+      },
+      {
+        "entity": "Percival",
+        "type": "Person"
+      },
+      {
+        "entity": "Galahad",
+        "type": "Person"
+      },
+      {
+        "entity": "Lancelot",
+        "type": "Person"
+      }
+    ],
+    "attributes": [
+      {
+        "entity": "Bors de Ganis",
+        "attribute": "an Arthurian hero"
+      },
+      {
+        "entity": "Bors de Ganis",
+        "attribute": "cousin of Lancelot"
+      },
+      {
+        "entity": "Bors de Ganis",
+        "attribute": "one of three who reached the Grail"
+      },
+      {
+        "entity": "Grail",
+        "attribute": "a sacred cup"
+      }
+    ],
+    "okr": {
+      "objective": "Describe Bors de Ganis, the least known of the three Grail knights.",
+      "key_results": [
+        "Bors de Ganis was an Arthurian hero.",
+        "He was the cousin of Lancelot.",
+        "Only three knights reached the Grail.",
+        "The three were Percival, Galahad, and Bors de Ganis."
+      ],
+      "evidence": "Monaghan 2008, s.v. 'Bors de Ganis'."
+    }
+  },
+  "Borvo.json": {
+    "text": "Borvo was the Gaulish god of the healing springs. He is also called Bormanus and Bormo. He is the male form of the goddess Ulkin. The plural form is the Suleviae. Artists drew him as a warrior. A horned serpent rested beneath him. He was the son of the goddess Sirona. He was the consort of Damona, dubbed Bormana. The Romans held he was the same as Apollo. His name may mean to boil. That fits a god of the hot springs.",
+    "entities": [
+      {
+        "entity": "Borvo",
+        "type": "Deity"
+      },
+      {
+        "entity": "Bormanus",
+        "type": "Deity"
+      },
+      {
+        "entity": "Bormo",
+        "type": "Deity"
+      },
+      {
+        "entity": "Sul",
+        "type": "Deity"
+      },
+      {
+        "entity": "Suleviae",
+        "type": "Group"
+      },
+      {
+        "entity": "Sirona",
+        "type": "Deity"
+      },
+      {
+        "entity": "Damona",
+        "type": "Deity"
+      },
+      {
+        "entity": "Bormana",
+        "type": "Deity"
+      },
+      {
+        "entity": "Apollo",
+        "type": "Deity"
+      },
+      {
+        "entity": "Gaul",
+        "type": "Place"
+      }
+    ],
+    "attributes": [
+      {
+        "entity": "Borvo",
+        "attribute": "god of the healing springs"
+      },
+      {
+        "entity": "Borvo",
+        "attribute": "male form of the goddess Sul and the Suleviae"
+      },
+      {
+        "entity": "Borvo",
+        "attribute": "son of the goddess Sirona"
+      },
+      {
+        "entity": "Borvo",
+        "attribute": "consort of the goddess Damona"
+      },
+      {
+        "entity": "Borvo",
+        "attribute": "equated with the god Apollo by the Romans"
+      },
+      {
+        "entity": "Borvo",
+        "attribute": "name may mean to boil"
+      }
+    ],
+    "okr": {
+      "objective": "Describe Borvo, the Gaulish god of the healing springs.",
+      "key_results": [
+        "Borvo was god of the healing springs.",
+        "He was the male form of the goddess Sul.",
+        "His consort was the goddess Damona, also called Bormana.",
+        "The Romans equated him with Apollo."
+      ],
+      "evidence": "Monaghan 2008, s.v. 'Borvo'."
+    }
+  },
+  "Boudicca.json": {
+    "text": "Boudicca was a heroic queen of Britain. Her people were the Iceni. They lived in the southeast of the island. The Romans broke the priest center on the isle of Anglesey. After the loss of her husband and the ruin of her own family, she rose. She called on the war goddess Andraste at her last hour. The revolt did not hold. Defeated, she ended her own life.",
+    "entities": [
+      {
+        "entity": "Boudicca",
+        "type": "Person"
+      },
+      {
+        "entity": "Iceni",
+        "type": "Group"
+      },
+      {
+        "entity": "Andraste",
+        "type": "Deity"
+      },
+      {
+        "entity": "Anglesey",
+        "type": "Place"
+      },
+      {
+        "entity": "Britain",
+        "type": "Place"
+      }
+    ],
+    "attributes": [
+      {
+        "entity": "Boudicca",
+        "attribute": "a heroic queen of Britain"
+      },
+      {
+        "entity": "Boudicca",
+        "attribute": "leader of the Iceni"
+      },
+      {
+        "entity": "Boudicca",
+        "attribute": "her rising against the Romans"
+      },
+      {
+        "entity": "Boudicca",
+        "attribute": "called on the goddess Andraste"
+      },
+      {
+        "entity": "Boudicca",
+        "attribute": "died by her own hand"
+      }
+    ],
+    "okr": {
+      "objective": "Describe Boudicca, the Iceni queen who rose against Rome.",
+      "key_results": [
+        "Boudicca was queen of the Iceni.",
+        "She rose against the Romans after the ruin of Anglesey.",
+        "She called on the war goddess Andraste.",
+        "She died by her own hand when defeated."
+      ],
+      "evidence": "Monaghan 2008, s.v. 'Boudicca'."
+    }
+  },
+  "Braciaea.json": {
+    "text": "Braciaea is a god of the continental Celts done in Gaul. The record on him is slight. The people of Rome set him beside their god of war Mars. His name may come from a word for malt. The root lives in Gaulish and Welsh. The root links drink of grain to battle heat. Lords of the Celts gave their soldiers drink before a war.",
+    "entities": [
+      {
+        "entity": "Braciaea",
+        "type": "Deity"
+      },
+      {
+        "entity": "Mars",
+        "type": "Deity"
+      },
+      {
+        "entity": "Gaul",
+        "type": "Place"
+      }
+    ],
+    "attributes": [
+      {
+        "entity": "Braciaea",
+        "attribute": "a Continental Celtic god"
+      },
+      {
+        "entity": "Braciaea",
+        "attribute": "equated with Mars by the Romans"
+      },
+      {
+        "entity": "Braciaea",
+        "attribute": "name may come from a word for malt"
+      }
+    ],
+    "okr": {
+      "objective": "Describe Braciaea, the Continental Celtic god tied to Mars.",
+      "key_results": [
+        "Braciaea was a god of the Continental Celts.",
+        "His home was Gaul.",
+        "The Romans equated him with Mars.",
+        "His name may derive from a word for malt."
+      ],
+      "evidence": "Monaghan 2008, s.v. 'Braciaea'."
+    }
+  },
+  "Bran.json": {
+    "text": "Bran was a hunting hound in Irish story. He served the hero Fionn Mac Cumhaill. The name Bran means crow. He was born of four feet. His mother was the woman Uirne. She was a sister of Fionn. A jealous rival turned her to a dog. She gave birth to Bran and his twin. Then she came back to human form. The two cubs stayed as dogs. Bran was yellow foot and red eared. He became his master's favorite. He was so quick he could outrun a bird.",
+    "entities": [
+      {
+        "entity": "Bran",
+        "type": "Animal"
+      },
+      {
+        "entity": "Fionn Mac Cumhaill",
+        "type": "Person"
+      },
+      {
+        "entity": "Uirne",
+        "type": "Person"
+      },
+      {
+        "entity": "Sceolan",
+        "type": "Animal"
+      },
+      {
+        "entity": "Oisín",
+        "type": "Person"
+      }
+    ],
+    "attributes": [
+      {
+        "entity": "Bran",
+        "attribute": "a hunting hound of Fionn"
+      },
+      {
+        "entity": "Bran",
+        "attribute": "name means crow"
+      },
+      {
+        "entity": "Uirne",
+        "attribute": "mother of the hound"
+      },
+      {
+        "entity": "Bran",
+        "attribute": "master's favorite hound"
+      },
+      {
+        "entity": "Bran",
+        "attribute": "fast enough to overtake a bird"
+      }
+    ],
+    "okr": {
+      "objective": "Describe Bran, the great hound of the hero Fionn Mac Cumhaill.",
+      "key_results": [
+        "Bran was a hunting hound in Irish myth.",
+        "His master was the hero Fionn Mac Cumhaill.",
+        "His name means crow.",
+        "His mother, Uirne, was turned into a dog."
+      ],
+      "evidence": "Monaghan 2008, s.v. 'Bran'."
+    }
+  },
+  "Branwen.json": {
+    "text": "Branwen is a woman of the Welsh stories. She was the child of Llyr. Her brother was the hero Brân the Blessed. She belongs to the second branch of the Mabinogion. She was given as a bride to a king of Ireland. The king was called Matholwch, and Ireland was his land. Her kinsman Efnisien struck at the Irish by harming their horses. Grief came for Branwen in her time there. She died, and they say she looked like the goddess Rhiannon in her sorrow.",
+    "entities": [
+      {
+        "entity": "Branwen",
+        "type": "Person"
+      },
+      {
+        "entity": "Llyr",
+        "type": "Person"
+      },
+      {
+        "entity": "Brân the Blessed",
+        "type": "Person"
+      },
+      {
+        "entity": "Matholwch",
+        "type": "Person"
+      },
+      {
+        "entity": "Rhiannon",
+        "type": "Person"
+      },
+      {
+        "entity": "Mabinogion",
+        "type": "Title"
+      },
+      {
+        "entity": "Bedd Branwen",
+        "type": "Place"
+      },
+      {
+        "entity": "Ireland",
+        "type": "Place"
+      },
+      {
+        "entity": "Efnisien",
+        "type": "Person"
+      }
+    ],
+    "attributes": [
+      {
+        "entity": "Branwen",
+        "attribute": "a Welsh heroine"
+      },
+      {
+        "entity": "Branwen",
+        "attribute": "daughter of Llyr"
+      },
+      {
+        "entity": "Branwen",
+        "attribute": "sister of Brân the Blessed"
+      },
+      {
+        "entity": "Branwen",
+        "attribute": "married to a king of Ireland"
+      },
+      {
+        "entity": "Branwen",
+        "attribute": "sent a bird with her message"
+      },
+      {
+        "entity": "Branwen",
+        "attribute": "compared to the goddess Rhiannon"
+      },
+      {
+        "entity": "Branwen",
+        "attribute": "her kinsman Efnisien harmed the Irish horses"
+      }
+    ],
+    "okr": {
+      "objective": "Describe Branwen, the Welsh heroine who wed a king of Ireland.",
+      "key_results": [
+        "Branwen was a Welsh heroine, the daughter of Llyr.",
+        "She was the sister of Brân the Blessed.",
+        "She was given in marriage to a king of Ireland.",
+        "She died in sorrow at the far shore."
+      ],
+      "evidence": "Monaghan 2008, s.v. 'Branwen'."
+    }
+  }
+}

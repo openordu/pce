@@ -3,29 +3,25 @@
     "attributes": [
         {
             "entity": "Bolvinnus",
-            "attribute": "Little is known"
+            "attribute": "a god from the province of Gaul"
         },
         {
-            "entity": "Romans",
-            "attribute": "identified with their warrior god Mars"
+            "entity": "Bolvinnus",
+            "attribute": "equated by the Romans with Mars"
         }
     ],
     "entities": [
         {
             "entity": "Bolvinnus",
-            "type": "Continental Celtic god"
-        },
-        {
-            "entity": "Gaul",
-            "type": "Location"
-        },
-        {
-            "entity": "Romans",
-            "type": "Culture"
+            "type": "Deity"
         },
         {
             "entity": "Mars",
-            "type": "Warrior god"
+            "type": "Deity"
+        },
+        {
+            "entity": "Gaul",
+            "type": "Place"
         }
     ],
     "sources": [
@@ -33,5 +29,14 @@
     ],
     "cyphertext": "MP4JTI38GGy5Fn8AYFyGWaJIk2VVF0xG9S9L11YRbuBk0JzTZgZr8oNdqhHeUo2qApgNa0IWWVDveMy6gccTUNGgxmC5NwW6hKC3HEchM8KTmeMw8ifIgtIMG8SKk2vvcYtfiUo71Cv8Wj-0SapDVgYuqiO2RlepxHoLCuXQmIXD8md6y65RkQjdyO9-0yMZzeT80DAXSnPpPrCK",
     "salt": "BNQz7KgS6VckGo-o_tHG7Q==",
-    "text": "Continental Celtic deity Bolvinnus is a scarcely documented god originating from Gaul, who the Romans associated with their own god of war, Mars."
+    "text": "Bolvinnus is a Continental Celtic god. He came from the land of Gaul. Little is known about him. The Romans saw him as the same god as their own warrior god Mars. The sources say no more about Bolvinnus.",
+    "okr": {
+        "objective": "Describe Bolvinnus, the little-known Gallic god equated with Mars.",
+        "key_results": [
+            "Bolvinnus was a Continental Celtic god.",
+            "He came from Gaul.",
+            "The Romans identified him with Mars."
+        ],
+        "evidence": "Monaghan 2008, s.v. 'Bolvinnus'."
+    }
 }

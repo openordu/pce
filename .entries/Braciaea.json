@@ -3,45 +3,29 @@
     "entities": [
         {
             "entity": "Braciaea",
-            "type": "Continental Celtic god"
+            "type": "Deity"
         },
         {
-            "entity": "Romans",
-            "type": "warrior god Mars"
+            "entity": "Mars",
+            "type": "Deity"
         },
         {
-            "entity": "Gaulish",
-            "type": null
-        },
-        {
-            "entity": "Welsh",
-            "type": null
-        },
-        {
-            "entity": "Celtic leaders",
-            "type": null
+            "entity": "Gaul",
+            "type": "Place"
         }
     ],
     "attributes": [
         {
             "entity": "Braciaea",
-            "attribute": "obscure Gaulish god"
+            "attribute": "a Continental Celtic god"
         },
         {
-            "entity": "Romans",
-            "attribute": "warrior god"
+            "entity": "Braciaea",
+            "attribute": "equated with Mars by the Romans"
         },
         {
-            "entity": "Mars",
-            "attribute": null
-        },
-        {
-            "entity": "Gaulish",
-            "attribute": "name may derive from a Gaulish or Welsh word for \u201cmalt,\u201d suggesting a connection between drunkenness and aggression"
-        },
-        {
-            "entity": "Celtic leaders",
-            "attribute": "gave their warriors alcoholic beverages before battle"
+            "entity": "Braciaea",
+            "attribute": "name may come from a word for malt"
         }
     ],
     "sources": [
@@ -49,5 +33,15 @@
     ],
     "cyphertext": "LhjeuGohgC7oGAQlc9ywqWk6lELBvWemtsKutLoKX64GAvvyn2d8Gr1TfQkFJDMWWR8-KmuymbWX7bHP9aYVGqmVDschhTALhspYuNOvxkhAdSWnxgefC0Fls305Pt1VyFYLDDqNSZPlDqlZ4hax6P0GqfdQO_g4c_0-oDPA6Fp0zk1HDZTSapNj5i5wBnNcsBwqWvrW5O14I9pZVdo2j1OHsw9-cs0zP4wHcOzbmZF2gQHaVl-s4Q5J6MxsQEmzV4YKJ5KoV_mFM_dtfNh7sFmwbWf3VxgQMdZ-VxPcxPqOjilFQg3n8WI7nK7X0vFt5T3dCfJ6XgPcTmpkqvUbaEode-X2HBS1zNjDQ73RsWOc09tg8mp7kIsW1jgRJeTJTeaWMLbG6GNxE_-MW2LwOQ1KCyoWpl2HrEGrBax6zLdn5ciqHUjbevHPZNUp88xRYpXmyvqUAP22nmh1wQGIVlc9TAnbFZcuisDH6rU=",
     "salt": "EkW3orXt0lvybMgNTKmEIg==",
-    "text": "A Continental Celtic divinity known as Braciaea represents an enigmatic Gallic deity. In Roman mythology, he was identified as Mars, the god of war. Braciaea's name is plausibly linked to a Gaulish or Welsh term that means \"malt\". This indicates that there could be a correlation between drunkenness and hostility. It is also reflective of the Celtic practice of serving their fighters alcoholic drinks prior to entering the battlefield."
+    "text": "Braciaea is a god of the continental Celts done in Gaul. The record on him is slight. The people of Rome set him beside their god of war Mars. His name may come from a word for malt. The root lives in Gaulish and Welsh. The root links drink of grain to battle heat. Lords of the Celts gave their soldiers drink before a war.",
+    "okr": {
+        "objective": "Describe Braciaea, the Continental Celtic god tied to Mars.",
+        "key_results": [
+            "Braciaea was a god of the Continental Celts.",
+            "His home was Gaul.",
+            "The Romans equated him with Mars.",
+            "His name may derive from a word for malt."
+        ],
+        "evidence": "Monaghan 2008, s.v. 'Braciaea'."
+    }
 }

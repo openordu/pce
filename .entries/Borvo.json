@@ -3,97 +3,69 @@
     "attributes": [
         {
             "entity": "Borvo",
-            "attribute": "god of healing Springs"
-        },
-        {
-            "entity": "Sul",
-            "attribute": "singular form of the goddess"
-        },
-        {
-            "entity": "SulEVIAE",
-            "attribute": "plural form of the goddess"
-        },
-        {
-            "entity": "Serpent",
-            "attribute": "horned"
-        },
-        {
-            "entity": "Sirona",
-            "attribute": "mother of Borvo"
-        },
-        {
-            "entity": "Damona",
-            "attribute": "consort of Borvo"
-        },
-        {
-            "entity": "Bormana",
-            "attribute": "alternative name for Damona"
-        },
-        {
-            "entity": "Apollo",
-            "attribute": "healing"
+            "attribute": "god of the healing springs"
         },
         {
             "entity": "Borvo",
-            "attribute": "son of Sirona"
+            "attribute": "male form of the goddess Sul and the Suleviae"
         },
         {
             "entity": "Borvo",
-            "attribute": "depicted as a warrior seated beneath a horned Serpent"
+            "attribute": "son of the goddess Sirona"
         },
         {
             "entity": "Borvo",
-            "attribute": "male version of Sul"
+            "attribute": "consort of the goddess Damona"
         },
         {
             "entity": "Borvo",
-            "attribute": "identical with the healing Apollo"
+            "attribute": "equated with the god Apollo by the Romans"
         },
         {
             "entity": "Borvo",
-            "attribute": "name may mean \u201cboiling,\u201d an appropriate name for a god of hot springs"
+            "attribute": "name may mean to boil"
         }
     ],
     "entities": [
         {
             "entity": "Borvo",
-            "type": "Continental Celtic god"
+            "type": "Deity"
         },
         {
-            "entity": "Gauls",
-            "type": "ethnic group"
+            "entity": "Bormanus",
+            "type": "Deity"
         },
         {
-            "entity": "Springs",
-            "type": "healing Springs"
+            "entity": "Bormo",
+            "type": "Deity"
         },
         {
             "entity": "Sul",
-            "type": "goddess"
+            "type": "Deity"
         },
         {
-            "entity": "SulEVIAE",
-            "type": "plural form of Sul"
-        },
-        {
-            "entity": "Serpent",
-            "type": "horned Serpent"
+            "entity": "Suleviae",
+            "type": "Group"
         },
         {
             "entity": "Sirona",
-            "type": "mother of Borvo"
+            "type": "Deity"
         },
         {
             "entity": "Damona",
-            "type": "consort of Borvo"
+            "type": "Deity"
         },
         {
             "entity": "Bormana",
-            "type": "alternative name for Damona"
+            "type": "Deity"
         },
         {
             "entity": "Apollo",
-            "type": "healing god"
+            "type": "Deity"
+        },
+        {
+            "entity": "Gaul",
+            "type": "Place"
         }
     ],
     "sources": [
@@ -101,5 +73,15 @@
     ],
     "cyphertext": "gE-xDeFJhvAkQms8T816SlrPdjU7FM_Ryfc5vjxv19Ecuu_Mf0jAO-Hwn_RhRhAR3mSgSU5Vd99ZEOEcG2HTVJERvRXXTXNt7hfSk4l60cvgzI_Rho8WEdHuXerSjgMiEgI8QB1Jgj7fjBQ5eeJ3gwsBg2pdcV2hmAWsW1t0_7dS_UEcr5cYjXbZKrd0nS0cmSsoxSGT3TXf6bqF1dyd3ePVcOHo7MlDv2fdnYjs0ceq4BhhH8IX-gUaWGdBo5aVjY3F6cZWxcdk_ezJkX9-sE9GfAvM9QqmHd1uXm1mZG0FPtB9-MG4SVgFOABH39MxxRagAGoAVvmAYgVhLtD9ojISVZkcOIWo4ptHWf4c1GM-cOQcqgYZY6hZd8hPIxxgfYcsvAv6-NISBMzWPsDTFvazxe6_2C2HmLCyccjkAsBecXnHR4fEiC8VnfMzvL8BxnI966g2N2EuVlw98sHhSaKSSxyo_sLIwPzKCOG60GK6LlfFqClQR6vvUZh7h-KDQLZw5JFpjFwGF93Ka4WLf8EHBfjGmO-CjvmDRZiF6L-c08K67fEk2kUUxNy4BnnjNoiJQCHil1bnqCNgbU7jdsTgO2A9n-p0mAVFH35eL9Xc63d7HVO6kDJXgbLYZ79NSQ==",
     "salt": "4FiMgOqbWXCBtTpDTNfxQA==",
-    "text": "Male deity Borvo, also referred to as Bormanus or Bormo, is a god belonging to the Continental Celtic pantheon. In Gaul, he was venerated as the god of healing springs, representing the male counterpart of Sul, who was revered in the singular and in the plural as the SulEVIAE. His iconography displays him as a seated warrior under a horned Serpent. His mother was Sirona and his consort was Damona, also known as Bormana. Among the Romans, Borvo was equated with the healing god Apollo. The meaning behind his name may originate from the term \"boiling,\" a fitting name for a divine being that presides over hot springs."
+    "text": "Borvo was the Gaulish god of the healing springs. He is also called Bormanus and Bormo. He is the male form of the goddess Ulkin. The plural form is the Suleviae. Artists drew him as a warrior. A horned serpent rested beneath him. He was the son of the goddess Sirona. He was the consort of Damona, dubbed Bormana. The Romans held he was the same as Apollo. His name may mean to boil. That fits a god of the hot springs.",
+    "okr": {
+        "objective": "Describe Borvo, the Gaulish god of the healing springs.",
+        "key_results": [
+            "Borvo was god of the healing springs.",
+            "He was the male form of the goddess Sul.",
+            "His consort was the goddess Damona, also called Bormana.",
+            "The Romans equated him with Apollo."
+        ],
+        "evidence": "Monaghan 2008, s.v. 'Borvo'."
+    }
 }
