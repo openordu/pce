@@ -1,52 +1,73 @@
 {
-    "name": "Daoine s\u00eddhe",
-    "entities": [
-        {
-            "entity": "Daoine s\u00eddhe",
-            "type": "Irish folklore figures"
-        },
-        {
-            "entity": "Fairy Mound",
-            "type": "prehistoric monuments of Ireland"
-        },
-        {
-            "entity": "The Good Folk",
-            "type": "daoine maithe"
-        },
-        {
-            "entity": "The Gentry",
-            "type": "daoine uaisle"
-        }
-    ],
-    "attributes": [
-        {
-            "entity": "Daoine s\u00eddhe",
-            "attribute": "Irish folklore figures"
-        },
-        {
-            "entity": "Fairy people of Ireland",
-            "attribute": "believed to live in the ancient Barrows, Hillforts, and other prehistoric monuments of Ireland"
-        },
-        {
-            "entity": "The Good Folk",
-            "attribute": "cordial and flattering terms were used"
-        },
-        {
-            "entity": "The Gentry",
-            "attribute": "cordial and flattering terms were used"
-        },
-        {
-            "entity": "Them",
-            "attribute": "simply Them"
-        }
-    ],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "image": [
-        "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Four_Provinces_Flag.svg/1200px-Four_Provinces_Flag.svg.png"
-    ],
-    "cyphertext": "xy6XQNIAHFPj3kr9YhbcLNLqs3KLK38NCtzyc7GLb2eAhz59nCE6VK2B5oTQyCql9_KoEeBGMFq40h6HrhGS7QYLgxXc6TWJSXYLud0qu_5ylNT5IvHqfuqyCYJKEC62D-uKgVavk5oaauwAfBd7UkXkePXdpGYo_vuWlZyIOaBdQ-VvymuZq3vK-pYMTJriwJ3KYa7IKkO70Gfq00bcG82WDydzaZMl-6WHfEHUuyH05ojUj1mizLza2-6Z-hKrXhW0xFvRINB1ZLowWWojBBobfuMDL2TRVFA4juYz9YKueQFaxXYsvdVW3Nnnx436CmGFFJWfffz1Q8BKV9KAz4DMFOFe30Uxxf-bH7_2V-icRXeoSYNf78te8glAwVeOc3cbzL4_2fyOxIynHAxtbF1MK8CCVRZNB1-ON42MYRJsy_LjxkeYiHS7OIxcH-yIim2w_EArjG38Q_z3lFasBLsuru83QzXnzUrbXbBuChnS2KLly4MoRy7f7KMx9edMCO7We21SsCvFXXqvGYunv3qw0tILDp0pLWNKGyFzU5gh1gGsgzM6kvL3kIXr8y8kflFKlYoALSMq6T4QjwkJs4KLbi0zUF-AoyVeExuaqmeVHA7ijj7gQfYS3DLpCBytpXub4cOOj_sOZ-hQ8CVD1g9bEX5CCs-0DUbP0pl5imt4lLWtkMWoCC41XhfSHyQb",
-    "salt": "rns1lB0RrpfJMlM9Xor1NQ==",
-    "text": "Euphemisms such as Daoine s\u00eddhe were used to refer to the Fairy people of Ireland. This label translates to \u201cfolk from the mound,\u201d which gives reference to the Fairy\u2019s belief to reside in the ancient Barrows, Hillforts, and other prehistoric monuments of Ireland, as seen in Fairy Mound. The Irish also made use of other cordial and flattering terms to ensure that the amoral and occasionally mischievous fairies would grant them good will, such as The Good Folk (daoine maithe), The Gentry (daoine uaisle), and Them."
+  "name": "Daoine sídhe",
+  "entities": [
+    {
+      "name": "Daoine sídhe",
+      "type": "Being"
+    },
+    {
+      "name": "Tuatha Dé Danann",
+      "type": "Being"
+    },
+    {
+      "name": "barrow",
+      "type": "Place"
+    },
+    {
+      "name": "hillfort",
+      "type": "Place"
+    },
+    {
+      "name": "daoine maithe",
+      "type": "Being"
+    },
+    {
+      "name": "daoine uaisle",
+      "type": "Being"
+    }
+  ],
+  "attributes": [
+    {
+      "name": "Daoine sídhe",
+      "attribute": "euphemism for fairy folk",
+      "value": "meaning folk from the mound"
+    },
+    {
+      "name": "Tuatha Dé Danann",
+      "attribute": "diminished deities",
+      "value": "resettled into fairy folk"
+    },
+    {
+      "name": "barrow",
+      "attribute": "ancient mound home of the fairies",
+      "value": "Ireland"
+    },
+    {
+      "name": "daoine maithe",
+      "attribute": "flattering term for fairies",
+      "value": "The Good Folk"
+    },
+    {
+      "name": "daoine uaisle",
+      "attribute": "flattering term for fairies",
+      "value": "The Gentry"
+    }
+  ],
+  "sources": [
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+  ],
+  "image": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Four_Provinces_Flag.svg/1200px-Four_Provinces_Flag.svg.png"
+  ],
+  "cyphertext": "xy6XQNIAHFPj3kr9YhbcLNLqs3KLK38NCtzyc7GLb2eAhz59nCE6VK2B5oTQyCql9_KoEeBGMFq40h6HrhGS7QYLgxXc6TWJSXYLud0qu_5ylNT5IvHqfuqyCYJKEC62D-uKgVavk5oaauwAfBd7UkXkePXdpGYo_vuWlZyIOaBdQ-VvymuZq3vK-pYMTJriwJ3KYa7IKkO70Gfq00bcG82WDydzaZMl-6WHfEHUuyH05ojUj1mizLza2-6Z-hKrXhW0xFvRINB1ZLowWWojBBobfuMDL2TRVFA4juYz9YKueQFaxXYsvdVW3Nnnx436CmGFFJWfffz1Q8BKV9KAz4DMFOFe30Uxxf-bH7_2V-icRXeoSYNf78te8glAwVeOc3cbzL4_2fyOxIynHAxtbF1MK8CCVRZNB1-ON42MYRJsy_LjxkeYiHS7OIxcH-yIim2w_EArjG38Q_z3lFasBLsuru83QzXnzUrbXbBuChnS2KLly4MoRy7f7KMx9edMCO7We21SsCvFXXqvGYunv3qw0tILDp0pLWNKGyFzU5gh1gGsgzM6kvL3kIXr8y8kflFKlYoALSMq6T4QjwkJs4KLbi0zUF-AoyVeExuaqmeVHA7ijj7gQfYS3DLpCBytpXub4cOOj_sOZ-hQ8CVD1g9bEX5CCs-0DUbP0pl5imt4lLWtkMWoCC41XhfSHyQb",
+  "salt": "rns1lB0RrpfJMlM9Xor1NQ==",
+  "text": "Daoine Sidhe is an Irish term for fairy folk. The name means folk from the mound. These figures were once deities. The Tuatha Dé Danann were reduced to folktale figures. They came to live in ancient barrows. They also lived in hillforts. They used other prehistoric monuments of Ireland. People used many flattering names to win their good will. The fairies could be amoral and mischievous. People called them The Good Folk, daoine maithe. People called them The Gentry, daoine uaisle. Some simply called them Them. The mound was their traditional home.",
+  "objective": "This record documents Daoine sídhe, an Irish euphemism for fairy folk meaning folk from the mound.",
+  "key_results": [
+    "Daoine sídhe means folk from the mound.",
+    "The diminished Tuatha Dé Danann live in barrows and hillforts.",
+    "Flattering names such as daoine maithe aimed to win fairy good will.",
+    "The Good Folk and The Gentry are alternate euphemisms."
+  ],
+  "evidence": "Monaghan (2003), entry 'Daoine sídhe'."
 }

@@ -1,15 +1,52 @@
 {
-    "name": "Dark Rosaleen",
-    "attributes": {},
-    "entities": [
-        {
-            "text": "Dark Rosaleen See"
-        }
-    ],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "cyphertext": "UdK52mWUuxTq2LYNk16G-B-fvinXFWw9UFfpNx5npvrJS0mEK8TgzjYjfib6_aDrHa7HkqtISIqC1n4=",
-    "salt": "suUVFKWW4bbwbz1sq4fBCA==",
-    "text": "Dark Rosaleen See Roisin Dubh."
+  "name": "Dark Rosaleen",
+  "attributes": [
+    {
+      "name": "Roisin Dubh",
+      "attribute": "dark-haired maiden of the aisling",
+      "value": "meaning Dark Rosaleen"
+    },
+    {
+      "name": "aisling",
+      "attribute": "vision poem of Irish tradition",
+      "value": "veiled national allegory"
+    },
+    {
+      "name": "sovereignty",
+      "attribute": "ancient goddess reborn as the maiden",
+      "value": "late form of the sovereignty goddess"
+    }
+  ],
+  "entities": [
+    {
+      "name": "Roisin Dubh",
+      "type": "Being"
+    },
+    {
+      "name": "Dark Rosaleen",
+      "type": "Being"
+    },
+    {
+      "name": "aisling",
+      "type": "Concept"
+    },
+    {
+      "name": "sovereignty",
+      "type": "Concept"
+    }
+  ],
+  "sources": [
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+  ],
+  "cyphertext": "UdK52mWUuxTq2LYNk16G-B-fvinXFWw9UFfpNx5npvrJS0mEK8TgzjYjfib6_aDrHa7HkqtISIqC1n4=",
+  "salt": "suUVFKWW4bbwbz1sq4fBCA==",
+  "text": "Roisin Dubh means Dark Rosaleen. This name belongs to an aisling figure. An aisling is a vision poem. The figure is a dark-haired maiden. She wanders the roadways alone. She hopes to meet a king. The king must be strong enough to break her bondage. She is a late form of the ancient goddess of sovereignty. The name carries political weight in Irish verse. Poets used the veiled figure to speak of the nation under English rule. Dark Rosaleen stood for Ireland herself.",
+  "objective": "This record documents Roisin Dubh, the dark-haired maiden of Irish aisling verse who stands for sovereignty.",
+  "key_results": [
+    "Roisin Dubh translates as Dark Rosaleen.",
+    "The dark-haired maiden wanders the roadways alone.",
+    "She seeks a king strong enough to break her bondage.",
+    "She is a late form of the sovereignty goddess."
+  ],
+  "evidence": "Monaghan (2003), entry 'Roisin Dubh' (cross-referenced by 'Dark Rosaleen')."
 }

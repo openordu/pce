@@ -1,15 +1,69 @@
 {
-    "name": "Dana",
-    "attributes": {},
-    "entities": [
-        {
-            "text": "Dana See"
-        }
-    ],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "cyphertext": "d0vNAyzMpgCT_y-BZOxgO5uYW9xk_m0uCE1rqK-N4MM83oSuZnnSSPPcnA==",
-    "salt": "sone9cvtN04GJS09Xy0z2w==",
-    "text": "Dana See Danu."
+  "name": "Dana",
+  "attributes": [
+    {
+      "name": "Dana",
+      "attribute": "variant spelling of Danu",
+      "value": "headword variant"
+    },
+    {
+      "name": "Danu",
+      "attribute": "mother goddess of the Tuatha Dé Danann",
+      "value": "divine ancestor"
+    },
+    {
+      "name": "Paps of Danu",
+      "attribute": "breast-shaped hills topped by cairns",
+      "value": "Munster, Ireland"
+    },
+    {
+      "name": "Danube",
+      "attribute": "river named from the same stem",
+      "value": "eastern Europe"
+    }
+  ],
+  "entities": [
+    {
+      "name": "Dana",
+      "type": "Deity"
+    },
+    {
+      "name": "Danu",
+      "type": "Deity"
+    },
+    {
+      "name": "Anu",
+      "type": "Deity"
+    },
+    {
+      "name": "Tuatha Dé Danann",
+      "type": "Being"
+    },
+    {
+      "name": "Paps of Danu",
+      "type": "Place"
+    },
+    {
+      "name": "Munster",
+      "type": "Place"
+    },
+    {
+      "name": "Danube",
+      "type": "Place"
+    }
+  ],
+  "sources": [
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+  ],
+  "cyphertext": "d0vNAyzMpgCT_y-BZOxgO5uYW9xk_m0uCE1rqK-N4MM83oSuZnnSSPPcnA==",
+  "salt": "sone9cvtN04GJS09Xy0z2w==",
+  "text": "Dana is a variant spelling of the Irish goddess Danu. Both names refer to the same figure. Danu appears in Irish tradition as a mother goddess. No myths about her survive today. Her name appears across many place-names. The Dane Hills carry her name. The river Danube in eastern Europe carries a related name. The Paps of Danu stand in Munster. These are two breast-shaped hills. The divine race called the Tuatha Dé Danann (Tuatha De Danann) takes its name from her. This name means the people of the goddess Danu. Some texts equate her with Anu. Scholars treat the names as related but distinct. The Tuatha Dé Danann later became the fairies of folklore.",
+  "objective": "This record documents Dana as a variant headword of the Irish mother goddess Danu and her namesake places.",
+  "key_results": [
+    "Dana and Danu name the same mother goddess in Irish tradition.",
+    "The Paps of Danu stand in Munster as two cairn-topped hills.",
+    "The Tuatha Dé Danann take their name from the goddess.",
+    "Danube and the Dane Hills carry related place-names."
+  ],
+  "evidence": "Monaghan (2003) 'Danu' cross-reference entry 'Dana'; Koch (2006) 'Anu', 'Danu'."
 }

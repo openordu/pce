@@ -1,11 +1,52 @@
 {
-    "name": "dancing lights",
-    "attributes": {},
-    "entities": [],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "cyphertext": "ednZWeLOP4MW0BUds6q0OCODORmCtlQmrHIOnLN4f-V8r6DsJnpZq1O28QIIveYRCWIdf3l1SJgb8OBRxw==",
-    "salt": "NUfVx4wiYCd-YVZlETGcBQ==",
-    "text": "dancing lights See Fairy Lights."
+  "name": "dancing lights",
+  "attributes": [
+    {
+      "name": "Fairy lights",
+      "attribute": "folkloric motif",
+      "value": "twinkling torchlight parades"
+    },
+    {
+      "name": "trouping fairies",
+      "attribute": "travel between otherworld dance halls",
+      "value": "carried torches above their heads"
+    },
+    {
+      "name": "procession",
+      "attribute": "follows straight invisible pathways",
+      "value": "always-straight route"
+    }
+  ],
+  "entities": [
+    {
+      "name": "Fairy lights",
+      "type": "Concept"
+    },
+    {
+      "name": "trouping fairies",
+      "type": "Being"
+    },
+    {
+      "name": "otherworld",
+      "type": "Concept"
+    },
+    {
+      "name": "procession",
+      "type": "Concept"
+    }
+  ],
+  "sources": [
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+  ],
+  "cyphertext": "ednZWeLOP4MW0BUds6q0OCODORmCtlQmrHIOnLN4f-V8r6DsJnpZq1O28QIIveYRCWIdf3l1SJgb8OBRxw==",
+  "salt": "NUfVx4wiYCd-YVZlETGcBQ==",
+  "text": "Fairy lights describe the sight of trouping fairies on the move. The fairies travel from one otherworld dance hall to another. They move in great processions. Each figure carries a torch above their head. Fairies are smaller than humans. People saw the parades as twinkling lights. The lights streamed along invisible but always-straight pathways. The path stayed straight wherever the band passed. The procession moved across the land at night. Observers mistook the small glowing band for scattered points of light.",
+  "objective": "This record documents fairy lights as the folkloric sight of trouping fairies travelling in torchlit procession.",
+  "key_results": [
+    "Trouping fairies move between otherworld dance halls in procession.",
+    "Each fairy carries a torch above its head.",
+    "Humans see the small figures as twinkling lights.",
+    "The processions follow invisible but always-straight pathways."
+  ],
+  "evidence": "Monaghan (2003), entry 'Fairy Lights' (cross-referenced by 'dancing lights')."
 }
