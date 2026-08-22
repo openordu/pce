@@ -1,7 +1,37 @@
 {
     "name": "Beaumains",
-    "attributes": {},
-    "entities": [],
+    "attributes": [
+        {
+            "entity": "Beaumains",
+            "attribute": "cross-reference to the Gareth entry"
+        },
+        {
+            "entity": "Beaumains",
+            "attribute": "name given by Kay meaning beautiful hands"
+        },
+        {
+            "entity": "Gareth",
+            "attribute": "Arthurian hero of Orkney"
+        }
+    ],
+    "entities": [
+        {
+            "entity": "Beaumains",
+            "type": "Person"
+        },
+        {
+            "entity": "Gareth",
+            "type": "Person"
+        },
+        {
+            "entity": "Gareth of Orkney",
+            "type": "Person"
+        },
+        {
+            "entity": "Kay",
+            "type": "Person"
+        }
+    ],
     "sources": [
         "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
     ],
@@ -10,5 +40,14 @@
     ],
     "cyphertext": "qZ0rrhQpa1LISgXdECjL6wZ9NQlMkJQ51iZnzp7Tx13hgtfIuDBVPtjQSpnaJB275UU=",
     "salt": "NGRHX89u_TixOXM4fAW7CA==",
-    "text": "Beaumains See Gareth."
+    "text": "Beaumains is a cross-reference entry. The source text points to the entry Gareth. Gareth is an Arthurian hero of the northern realm. The texts also know him as Gareth of Orkney. His most notable trait won him the alias. Kay named him Beaumains, a word meaning \"beautiful hands.\"\n\nThe full account of his deeds sits under the Gareth entry. Readers who seek Beaumains should turn there.",
+    "okr": {
+        "objective": "Present Beaumains as a cross-reference to the Arthurian hero Gareth.",
+        "key_results": [
+            "The source text for Beaumains reads See Gareth.",
+            "Kay named Gareth Beaumains, meaning beautiful hands.",
+            "The full biography lives under the Gareth entry."
+        ],
+        "evidence": "Monaghan, Encyclopedia of Celtic Mythology and Folklore"
+    }
 }

@@ -3,49 +3,37 @@
     "entities": [
         {
             "entity": "Bebo",
-            "type": "Irish heroine"
+            "type": "Person"
         },
         {
-            "entity": "Iubdan",
-            "type": "Fairy king"
-        },
-        {
-            "entity": "Ulster",
-            "type": "land"
+            "entity": "Iubdán",
+            "type": "Person"
         },
         {
             "entity": "Fergus",
-            "type": "king"
+            "type": "Person"
         },
         {
-            "entity": "magical shoes",
-            "type": "object"
+            "entity": "Ulster",
+            "type": "Place"
         }
     ],
     "attributes": [
         {
             "entity": "Bebo",
-            "attribute": "wife of Iubdan"
+            "attribute": "wife of the fairy king Iubdán"
         },
         {
             "entity": "Bebo",
-            "attribute": "queen"
+            "attribute": "mistress of the Ulster king Fergus"
         },
         {
             "entity": "Fergus",
-            "attribute": "caught the eye of Bebo"
+            "attribute": "king of Ulster who charmed Bebo"
         },
         {
-            "entity": "Fergus",
-            "attribute": "mistress of Bebo for a year"
-        },
-        {
-            "entity": "Iubdan",
-            "attribute": "husband of Bebo"
-        },
-        {
-            "entity": "Iubdan",
-            "attribute": "offered magical shoes to Fergus"
+            "entity": "Magical shoes",
+            "attribute": "offered by Iubdán to gain Bebo back"
         }
     ],
     "sources": [
@@ -56,5 +44,15 @@
     ],
     "cyphertext": "mKQPJkxV4fw1j6kfqsHRT_sO46I7loWS0-NYCUfzR1PIdt5sUhMDO-vG1LlvpduaxDPc5zMmcteuwlS6BHwtz8m2LzzgTomepQtv5-0a24n_OGwAWl2_q3mlbRYsE2xmCa-66VrCu87zKhavNHDjX6Zojw6Et-vNzX2U6_Hx66b66od_G15YRJuP0qkdr0w-GZE0hkuD8xmMuvzNJ-YQ7Om26Ylu6UwGF9Z8dVoLevVAt1aMPf2B1FlpiNdnfky1TfvvpKfl_4UbevXDpQWAJgvrYY5XkxwP3wWhxDF2P5a_pZIemP8C04VvOXSbJYOd77y8rTO5_1CHZUXH1zS1F9Ean7KCoIhNe9xvjz5dXzUXLFhuYJ1Zc1c4UobkopBem6i77LpsorVKpznhorLmYFu_VLd_0tqRSUyWVlaSYL1hhuUCl7_k4nPxUxOM0zSGgQHQsz_Z4gmQLOjgQuiF3MQXtthBt2YWgg190qgISmgB2rPf4rLnaUzoX14pBEiOdN7uWkt3CZZ9eDIbRiC3lPqC6QY0gKrLA4b2O-jl5E7PZycIfCdvcgsYJrXoMABF-lfc1qaJgmcg2-Pu3Y4OjiEm4Nksn6O08q5xwIxiKxv7u0kHUdhhTdghF1Q=",
     "salt": "ckAV3geF6PIPvKB07du79g==",
-    "text": "An Irish heroine named Bebo, who was married to the Fairy king Iubdan and was equally small in stature, journeyed with her husband to the land of Ulster, where they perceived the inhabitants to be Giants. The charming and petite queen drew the attention of the king of Ulster, Fergus. Despite facing certain physical difficulties (as his phallus was larger than her entire body), Bebo became Fergus's paramour for a span of one year. Nevertheless, Fergus was obliged to surrender her back to Iubdan after he had offered a pair of enchanted shoes to Fergus in exchange for her."
+    "text": "Bebo is an Irish heroine. She was the small wife of the tiny fairy king Iubdán. She traveled with this husband to the land of Ulster. The region seemed full of giants to the pair. The lovely queen caught the eye of the Ulster king, Fergus.\n\nBebo became Fergus's mistress for a year. The bond held despite the great physical difference. Fergus then gave Bebo back. Her husband offered him a pair of magical shoes. The enchanted pair sealed the exchange.",
+    "okr": {
+        "objective": "Tell of Bebo, the fairy queen who became mistress of Fergus of Ulster.",
+        "key_results": [
+            "Bebo was the small wife of the fairy king.",
+            "She traveled with him to Ulster, which seemed the land of giants.",
+            "Bebo became the mistress of Ulster's king, Fergus.",
+            "The fairy king offered a pair of magical shoes to win her back."
+        ],
+        "evidence": "Monaghan, Encyclopedia of Celtic Mythology and Folklore"
+    }
 }

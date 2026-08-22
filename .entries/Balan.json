@@ -1,9 +1,39 @@
 {
     "name": "Balan",
-    "attributes": {},
+    "attributes": [
+        {
+            "entity": "Balan",
+            "attribute": "cross-reference to the Balin entry"
+        },
+        {
+            "entity": "Balin",
+            "attribute": "Arthurian knight and brother of the Fisher King"
+        },
+        {
+            "entity": "Balin",
+            "attribute": "struck the Dolorous Blow"
+        }
+    ],
     "entities": [
         {
-            "text": "Balan See Balin"
+            "entity": "Balan",
+            "type": "Person"
+        },
+        {
+            "entity": "Balin",
+            "type": "Person"
+        },
+        {
+            "entity": "Pelles",
+            "type": "Person"
+        },
+        {
+            "entity": "Fisher King",
+            "type": "Person"
+        },
+        {
+            "entity": "Dolorous Blow",
+            "type": "Event"
         }
     ],
     "sources": [
@@ -11,5 +41,15 @@
     ],
     "cyphertext": "wDEdv4EsWzP0Eau36Esp8SxVyrgof2KxYPU19hLXMBXp8UCzPR36e1KTWghY",
     "salt": "8vlf9tOuj4s0EH4RO9HGCA==",
-    "text": "Balan See Balin."
+    "text": "Balan is a cross-reference entry in this encyclopedia. The original text points the reader to the entry for Balin. Balan itself carries no separate biography. The source gives only the pointer line.\n\nThe Balin entry tells the shared account. It describes an Arthurian knight named Balin. He was the brother of Pelles, the Fisher King. Balin struck the Dolorous Blow. That single strike caused the Fisher King's crippling wound. Readers seeking the story of Balan should turn to the Balin entry.",
+    "okr": {
+        "objective": "Present Balan as a cross-reference directing readers to the Balin entry.",
+        "key_results": [
+            "The source text for Balan reads only See Balin.",
+            "Balan carries no separate biography in the reference.",
+            "The full account of the pair lives under the Balin entry.",
+            "Balin is an Arthurian knight and brother of the Fisher King."
+        ],
+        "evidence": "Monaghan, Encyclopedia of Celtic Mythology and Folklore"
+    }
 }

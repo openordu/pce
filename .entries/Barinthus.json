@@ -6,34 +6,34 @@
             "attribute": "ferryman of the Otherworld"
         },
         {
-            "entity": "Arthur",
-            "attribute": "wounded"
-        },
-        {
-            "entity": "Arthur",
-            "attribute": "final battle"
+            "entity": "Barinthus",
+            "attribute": "known also as Saint Barrind"
         },
         {
             "entity": "Barinthus",
-            "attribute": "carried Arthur away from the surface world to the Otherworld"
+            "attribute": "carried wounded Arthur to the Otherworld"
+        },
+        {
+            "entity": "Arthur",
+            "attribute": "wounded in his final battle"
         }
     ],
     "entities": [
         {
             "entity": "Barinthus",
-            "type": "Arthurian hero"
+            "type": "Person"
         },
         {
             "entity": "Saint Barrind",
-            "type": "Arthurian hero"
-        },
-        {
-            "entity": "Otherworld",
-            "type": "place"
+            "type": "Person"
         },
         {
             "entity": "Arthur",
-            "type": "king"
+            "type": "Person"
+        },
+        {
+            "entity": "Otherworld",
+            "type": "Place"
         }
     ],
     "sources": [
@@ -41,5 +41,14 @@
     ],
     "cyphertext": "3GC-u4QSG-X-3ESL7NK_P7EbuKknU445w6MJEZ3tdLc-QEZqKdt5VSbVi0iQacB-cB-GTvwBL4UHPWSkGM6a7Ej79qwzPT03zRWOkoNiXlZkyKkTD88sqvtlfeFd_HSWXYjku6Bx-e_zlVg71yr6KSNznMOYZGvJFp16cHqgagVZL-zULuB091N9J7d1VBjxb2X4Vz_q7OM3BFXHeaAK1ix75NH9aJRGC41MoPQ-VoJKefQa-B3gMNmjEklTE4z7j7HWlAsbfDZLEiVxic3gyRmdqGM-dQ==",
     "salt": "Eu3w_2DMTpMCPSQEflHRIA==",
-    "text": "Arthurian hero Barinthus, also known as Saint Barrind, is recognized as the ferryman of the Otherworld. Post the last battle of the injured king Arthur, Barinthus transported him from the surface world to the Otherworld."
+    "text": "Barinthus is an Arthurian hero. The texts also call him Saint Barrind. He served as the ferryman of the Otherworld. His task was to carry journeys between realms.\n\nHis great duty came at the end of King Arthur's story. Arthur fought a final battle and was wounded. Barinthus then carried the wounded king away. He took Arthur from the surface world to the Otherworld. The act seals Barinthus as a liminal guide between the living world and the supernatural land.",
+    "okr": {
+        "objective": "Profile Barinthus as Arthurian ferryman who took a wounded Arthur to the Otherworld.",
+        "key_results": [
+            "Barinthus is called Saint Barrind in the record.",
+            "He carried the wounded king Arthur to the Otherworld.",
+            "The king was hurt in his final battle before this journey."
+        ],
+        "evidence": "Monaghan, Encyclopedia of Celtic Mythology and Folklore"
+    }
 }
