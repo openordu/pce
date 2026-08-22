@@ -1,11 +1,38 @@
 {
-    "name": "deosil",
-    "attributes": {},
-    "entities": [],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "cyphertext": "EpSzAgu5RIwLLKYPteynt4Sg4CYVX-kiB5oAOF44CnawteYFSmKpxLurrU3JVQZ0ut2K",
-    "salt": "1TG-jCK6KmQxmsuyXcIhyQ==",
-    "text": "deosil See Directions."
+  "name": "deosil",
+  "attributes": {
+    "category": "mythology",
+    "domain": "celtic",
+    "associations": [
+      "sunwise",
+      "clockwise",
+      "directions",
+      "tuathal"
+    ]
+  },
+  "entities": [
+    {
+      "name": "deosil",
+      "type": "Concept"
+    },
+    {
+      "name": "tuathal",
+      "type": "Concept"
+    }
+  ],
+  "sources": [
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+  ],
+  "cyphertext": "EpSzAgu5RIwLLKYPteynt4Sg4CYVX-kiB5oAOF44CnawteYFSmKpxLurrU3JVQZ0ut2K",
+  "salt": "1TG-jCK6KmQxmsuyXcIhyQ==",
+  "text": "Deosil was the Irish term for sunwise motion. It meant moving the way the sun appears to move across the sky. The mover kept the sun on the right hand and travelled in a southward circle. Deosil was the auspicious direction of turn. Its opposite was tuathal, the widdersins or counter-clockwise turn. The Celts mapped five directions, not four. They marked north, south, east, west, and the center.",
+  "objective": "This entry records deosil, the Irish term for sunwise or clockwise motion.",
+  "key_results": [
+    "Deosil meant motion in the direction the sun appears to move.",
+    "The movement formed a southward circle on the mover's right hand.",
+    "Deosil was the auspicious direction of turn.",
+    "Tuathal was its opposite, the counter-clockwise or widdersins turn.",
+    "The Celts recognised five directions: north, south, east, west, and center."
+  ],
+  "evidence": "Rewritten from Monaghan directions entry; controller preserves original sources field."
 }
