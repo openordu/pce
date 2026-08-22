@@ -1,18 +1,86 @@
 {
-    "name": "Celtic pantheon",
-    "attributes": {},
-    "entities": [
-        {
-            "text": "Celtic"
-        }
+  "name": "Celtic pantheon",
+  "attributes": [
+    {
+      "entity": "Celtic religion",
+      "attribute": "fundamentally pantheistic"
+    },
+    {
+      "entity": "Celtic religion",
+      "attribute": "tribal and local in structure"
+    },
+    {
+      "entity": "Tuath",
+      "attribute": "unit of population tied to local divinities"
+    },
+    {
+      "entity": "Mercury",
+      "attribute": "Roman name applied to many Celtic gods"
+    },
+    {
+      "entity": "Minerva",
+      "attribute": "Roman name applied to many Celtic goddesses"
+    },
+    {
+      "entity": "Apollo",
+      "attribute": "god of healing in one place"
+    },
+    {
+      "entity": "Apollo",
+      "attribute": "god of song and magic in another place"
+    },
+    {
+      "entity": "Roman mythology",
+      "attribute": "absorbed Celtic deities as versions of its own gods"
+    }
+  ],
+  "entities": [
+    {
+      "entity": "Celtic religion",
+      "type": "religion"
+    },
+    {
+      "entity": "Greek mythology",
+      "type": "concept"
+    },
+    {
+      "entity": "Roman mythology",
+      "type": "concept"
+    },
+    {
+      "entity": "Tuath",
+      "type": "group"
+    },
+    {
+      "entity": "Mercury",
+      "type": "god"
+    },
+    {
+      "entity": "Minerva",
+      "type": "goddess"
+    },
+    {
+      "entity": "Apollo",
+      "type": "god"
+    }
+  ],
+  "sources": [
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+  ],
+  "image": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Epona.jpg/1200px-Epona.jpg"
+  ],
+  "cyphertext": "9MS94q1LbMjmcqjUhV00TnZE5oqosDc_zsFT0WzMJK3hHioYT66n4Ia-4hE=",
+  "salt": "rR6YVTh629zmVx3KD180VA==",
+  "text": "Celtic religion held a strong belief in many gods rather than a single deity. This made it fundamentally pantheistic. The religious world was fiercely tribal and local. It differed sharply from the structured and hierarchical mythologies of Greece and Rome. Most Celtic gods and goddesses are known from only one text or inscription. Many of them served a small region or a tiny group of people. This extreme polytheism produced the oath used by Celts in Roman times. They swore by the gods their people swore by. Literature and archaeology do not support an organized Celtic pantheon. No one deity stood at the top with ranked gods beneath. The invading Romans met a huge number of Celtic deities. They interpreted all of them as versions of Roman gods. This produced many titles for Mercury and Minerva. It is impossible to know how closely the Celtic deities matched the Roman ones. The Apollo of one place might be a healing god. The Apollo of another place could serve song and magic. Roman renaming kept the regional divinities alive in vestigial form. It also cloaked their true identities.",
+  "okr": {
+    "objective": "Celtic religion was a local, tribal polytheism with no unified pantheon.",
+    "key_results": [
+      "Celtic religion was pantheistic, with belief in many gods.",
+      "Most Celtic divinities appear in a single text or inscription.",
+      "No organized Celtic pantheon with a chief deity is evidenced.",
+      "Romans renamed Celtic deities as versions of Mercury, Minerva, and Apollo."
     ],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "image": [
-        "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Epona.jpg/1200px-Epona.jpg"
-    ],
-    "cyphertext": "9MS94q1LbMjmcqjUhV00TnZE5oqosDc_zsFT0WzMJK3hHioYT66n4Ia-4hE=",
-    "salt": "rR6YVTh629zmVx3KD180VA==",
-    "text": ""
+    "evidence": "Monaghan, Encyclopedia of Celtic Mythology and Folklore"
+  }
 }

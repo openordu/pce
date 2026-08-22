@@ -1,64 +1,65 @@
 {
-    "name": "Children of Llyr",
-    "attributes": [
-        {
-            "entity": "Llyr",
-            "attribute": "Father of Branwen"
-        },
-        {
-            "entity": "Welsh",
-            "attribute": "Nationality of heroes and heroines"
-        },
-        {
-            "entity": "Mabinogion",
-            "attribute": "Book that tells the story"
-        },
-        {
-            "entity": "Wales",
-            "attribute": "Location of the war"
-        },
-        {
-            "entity": "Ireland",
-            "attribute": "Opponent in the war"
-        },
-        {
-            "entity": "Branwen",
-            "attribute": "Book related to the story"
-        }
+  "name": "Children of Llyr",
+  "attributes": [
+    {
+      "entity": "Children of Llyr",
+      "attribute": "Welsh heroes and heroines"
+    },
+    {
+      "entity": "Children of Llyr",
+      "attribute": "second branch of the Mabinogion"
+    },
+    {
+      "entity": "Children of Llyr",
+      "attribute": "tells of a war between Wales and Ireland"
+    },
+    {
+      "entity": "Branwen",
+      "attribute": "story linked to the Children of Llyr"
+    }
+  ],
+  "entities": [
+    {
+      "entity": "Children of Llyr",
+      "type": "mythological figure"
+    },
+    {
+      "entity": "Wales",
+      "type": "location"
+    },
+    {
+      "entity": "Ireland",
+      "type": "location"
+    },
+    {
+      "entity": "Mabinogion",
+      "type": "artifact"
+    },
+    {
+      "entity": "Branwen",
+      "type": "character"
+    },
+    {
+      "entity": "war",
+      "type": "event"
+    }
+  ],
+  "sources": [
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+  ],
+  "image": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/John_Duncan_%281924%29_Children_of_Lir.jpg/1200px-John_Duncan_%281924%29_Children_of_Lir.jpg"
+  ],
+  "cyphertext": "f8lZsCFf5COvpuDVhpIWPzqzV1ouXWVPn70XhhQZgjxHHMM030nhcxbkUS0wiXgyH1jQsaX8-8BrT5qPIQMVesY8QjMxEE5whUBQLDrxDJmqAI2j_GUZnjrFj5Y9kADsvWhhvlPRuzgukqf5Duc3MEaJPQnY_BJhW2Sc58R6DYtXYRtDpZaIk54bjPSjTGWeodGHKz5ypUFvZk8NzTHEAxzHODESi13-Z9D1ksPRSDS3RiE=",
+  "salt": "NwpRhTuHapoGqOV-yuFEbQ==",
+  "text": "The Children of Llyr are Welsh heroes and heroines. They form the second branch of the Mabinogion. The branch tells of a war between Wales and Ireland. The tale links to the story of Branwen.",
+  "okr": {
+    "objective": "The Children of Llyr open the second branch of the Mabinogion.",
+    "key_results": [
+      "They are Welsh heroes and heroines.",
+      "The branch tells of a war between Wales and Ireland.",
+      "The tale links to the story of Branwen."
     ],
-    "entities": [
-        {
-            "entity": "Llyr",
-            "type": "Character"
-        },
-        {
-            "entity": "Welsh",
-            "type": "Nationality"
-        },
-        {
-            "entity": "Mabinogion",
-            "type": "Book"
-        },
-        {
-            "entity": "Wales",
-            "type": "Location"
-        },
-        {
-            "entity": "Ireland",
-            "type": "Location"
-        },
-        {
-            "entity": "Branwen",
-            "type": "Book"
-        }
-    ],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "image": [
-        "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/John_Duncan_%281924%29_Children_of_Lir.jpg/1200px-John_Duncan_%281924%29_Children_of_Lir.jpg"
-    ],
-    "cyphertext": "f8lZsCFf5COvpuDVhpIWPzqzV1ouXWVPn70XhhQZgjxHHMM030nhcxbkUS0wiXgyH1jQsaX8-8BrT5qPIQMVesY8QjMxEE5whUBQLDrxDJmqAI2j_GUZnjrFj5Y9kADsvWhhvlPRuzgukqf5Duc3MEaJPQnY_BJhW2Sc58R6DYtXYRtDpZaIk54bjPSjTGWeodGHKz5ypUFvZk8NzTHEAxzHODESi13-Z9D1ksPRSDS3RiE=",
-    "salt": "NwpRhTuHapoGqOV-yuFEbQ==",
-    "text": "Welsh heroes and heroines are featured in the Children of Llyr. One of the branches in the Welsh Mabinogion recounts the tale of a conflict between Wales and Ireland, which can be found by referring to the story of Branwen."
+    "evidence": "Monaghan, Encyclopedia of Celtic Mythology and Folklore"
+  }
 }

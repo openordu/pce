@@ -1,18 +1,40 @@
 {
-    "name": "Cill Dara",
-    "attributes": {},
-    "entities": [
-        {
-            "text": "Cill Dara"
-        }
+  "name": "Cill Dara",
+  "attributes": [
+    {
+      "entity": "Cill Dara",
+      "attribute": "Irish form of the name Kildare"
+    },
+    {
+      "entity": "Kildare",
+      "attribute": "place that the Cill Dara entry directs the reader to"
+    }
+  ],
+  "entities": [
+    {
+      "entity": "Cill Dara",
+      "type": "location"
+    },
+    {
+      "entity": "Kildare",
+      "type": "location"
+    }
+  ],
+  "sources": [
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+  ],
+  "image": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Kildare_Cathedral_Tower_as_seen_from_the_Round_Tower_2013_09_04.jpg/1200px-Kildare_Cathedral_Tower_as_seen_from_the_Round_Tower_2013_09_04.jpg"
+  ],
+  "cyphertext": "vK-Og5Tf612sy4Z4p96--FAWd0ge4gkzUS2TSkIddzF7TGnc3_2k0vu3WNmrburyZoSx",
+  "salt": "OTkgsGON6XSJ8s2I6Vrntg==",
+  "text": "Cill Dara is the Irish form of the name Kildare. The encyclopedia treats it as a cross-reference. It points the reader to the fuller entry under the name Kildare.",
+  "okr": {
+    "objective": "Cill Dara is a cross-reference entry that directs readers to the fuller account under Kildare.",
+    "key_results": [
+      "Cill Dara is the Irish form of the name Kildare.",
+      "The entry is a cross-reference to the main Kildare account."
     ],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "image": [
-        "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Kildare_Cathedral_Tower_as_seen_from_the_Round_Tower_2013_09_04.jpg/1200px-Kildare_Cathedral_Tower_as_seen_from_the_Round_Tower_2013_09_04.jpg"
-    ],
-    "cyphertext": "vK-Og5Tf612sy4Z4p96--FAWd0ge4gkzUS2TSkIddzF7TGnc3_2k0vu3WNmrburyZoSx",
-    "salt": "OTkgsGON6XSJ8s2I6Vrntg==",
-    "text": "Cill Dara See Kildare."
+    "evidence": "Monaghan, Encyclopedia of Celtic Mythology and Folklore"
+  }
 }
