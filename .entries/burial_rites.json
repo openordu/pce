@@ -1,7 +1,21 @@
 {
     "name": "burial rites",
-    "attributes": {},
-    "entities": [],
+    "attributes": [
+        {
+            "entity": "burial rites",
+            "attribute": "a cross-reference that points to funeral rites"
+        }
+    ],
+    "entities": [
+        {
+            "entity": "burial rites",
+            "type": "Concept"
+        },
+        {
+            "entity": "funeral rites",
+            "type": "Concept"
+        }
+    ],
     "sources": [
         "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
     ],
@@ -10,5 +24,13 @@
     ],
     "cyphertext": "yO_yZI-Sl3qjD1p5N_l2zvRJ_3MimHOUhkgZ2uRG_DcpvHyAQPQATLbfBgfc3dRfVnlRDsjMFpBCx9NC",
     "salt": "kO7JoRNOXYKFJlU5dkmXdg==",
-    "text": "burial rites See Funeral Rites."
+    "text": "Burial rites covers the customs that surround the dead in Celtic tradition. This entry directs the reader to the funeral rites entry for the fuller account of custom and belief.",
+    "okr": {
+        "objective": "Route the reader to the fuller funeral rites entry.",
+        "key_results": [
+            "Burial rites is a short cross-reference entry.",
+            "The full account of custom and belief sits under funeral rites."
+        ],
+        "evidence": "Monaghan 2008, s.v. 'burial rites'."
+    }
 }

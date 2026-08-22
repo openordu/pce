@@ -1,11 +1,33 @@
 {
     "name": "bwca",
-    "attributes": {},
-    "entities": [],
+    "attributes": [
+        {
+            "entity": "bwca",
+            "attribute": "a Welsh form of the sprite recorded as bucca"
+        }
+    ],
+    "entities": [
+        {
+            "entity": "bwca",
+            "type": "Being"
+        },
+        {
+            "entity": "bucca",
+            "type": "Being"
+        }
+    ],
     "sources": [
         "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
     ],
     "cyphertext": "l5fhOHLAdXgC16-F36Q0OLxyPr-EtVRVlrivsluuMXQxfVcYvybbulVl6Rbt",
     "salt": "WjhmrrZvy0QixH1PPGDNvQ==",
-    "text": "bwca See Bucca."
+    "text": "The bwca is a Welsh form of the sprite that the encyclopedia records as bucca. This entry sends the reader to the bucca entry for the fuller account of this household being.",
+    "okr": {
+        "objective": "Route the reader to the fuller bucca entry.",
+        "key_results": [
+            "Bwca is a Welsh variant name for the bucca.",
+            "The fuller account of this household being sits under bucca."
+        ],
+        "evidence": "Monaghan 2008, s.v. 'bwca'."
+    }
 }

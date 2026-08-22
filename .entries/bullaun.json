@@ -3,53 +3,33 @@
     "attributes": [
         {
             "entity": "bullaun",
-            "attribute": "Symbolic object"
+            "attribute": "a symbolic stone with a hole found at holy wells"
         },
         {
-            "entity": "stones",
-            "attribute": "round"
+            "entity": "bullaun",
+            "attribute": "carried healing power for conception and pregnancy"
         },
         {
-            "entity": "holes",
-            "attribute": "in them"
-        },
-        {
-            "entity": "holy Wells",
-            "attribute": "sacred sites in Ireland"
-        },
-        {
-            "entity": "yoni stones",
-            "attribute": "feminine symbols like the yoni stones of India"
-        },
-        {
-            "entity": "healing power",
-            "attribute": "helping women to conceive or to survive difficult pregnancies"
-        },
-        {
-            "entity": "bullauns",
-            "attribute": "large flat boulders with basins, either natural or artificial"
-        },
-        {
-            "entity": "women",
-            "attribute": "would drink water ritually"
-        },
-        {
-            "entity": "bullauns",
-            "attribute": "receptacles for libations or fluid offerings"
+            "entity": "bullaun",
+            "attribute": "used as a receptacle for libations and fluid offerings"
         }
     ],
     "entities": [
         {
             "entity": "bullaun",
-            "type": "Symbolic object"
+            "type": "Object"
+        },
+        {
+            "entity": "holy wells",
+            "type": "Place"
         },
         {
             "entity": "yoni stones",
-            "type": "feminine symbols"
+            "type": "Artifact"
         },
         {
-            "entity": "Ireland",
-            "type": "location"
+            "entity": "India",
+            "type": "Place"
         }
     ],
     "sources": [
@@ -60,5 +40,15 @@
     ],
     "cyphertext": "s1X0y-_qYEy4E6QFuutCx1OayXmKshBmQG-0aIxdED_n99VIR6LUwbUnMtLZKVL2vUmdjC41FSoaX5gL2Uovn2Cer6-SupizB5BrxPh5cU4876HwANCsPhOb10UasTirWcua6h9CM3c2N_cfskCKcM9v2HJ96stG20WkJjoMy_AqH_Bs9TVL5zGyQ8OBUDWIp1d-svbrcoaAHYaOE-ktMVV64UzXscZulEdrk4UByGK8izV0H_GlarknWHUGbdLRSViDMVX7csx8qIzSBUXxGl1TpAVttMELiz2_rmVXKBUKCRTCfuzCszmhv0v_AYwaOjpuoAXCoxZEZTFLKypIS6IZNZ6Ff2Lq6dicAuNmERHr07MvIgcc_yg6plcCy2MBYSRIhtEFIQ3ZSOywaGP24RbnE4hBfVr5DF2_lEf4IwmFE-Z6gV-ssYaLDM8Ne3fL3HsgyK6Ql33LRUcVlUhZ-6wY-Q7EqUa5NQW-P_BkwOU0ZILv_XV_eN_bBFh_BesZL3hIa1tnKfAWHlSm9nDo4lMGyvn3LOZizMtzQOH8A7Nma1FDqYinJcmgePgWQXKyY5yzjSauZ8QE2bUImZc-iydhhKJpHgX4Nl8SCwtakiZI5393cGJS3Ag-UcYZ3S-oxLlF1xUb6pcIeLTs5LR6HWhAUH_woDgE6foBRDprgFzO6SyRlhfDhVmRxmli6z3rFNujQ5s=",
     "salt": "Kp4LRkJZ2t9U1Lj8jIb7Mw==",
-    "text": "Round stones with holes in them found at holy wells and other sacred sites in Ireland, bullauns are considered as symbolic objects. They were believed to have healing powers, particularly assisting women who are trying to conceive or going through hard pregnancies. These stones were deemed as feminine symbols, similar to the yoni stones found in India. Large flat boulders with natural or artificial basins, possibly used as vessels for fluid offerings, or to ritualistically drink water were also used as bullauns."
+    "text": "A bullaun is a symbolic stone with a hole in it. These round stones appear at holy wells and at other sacred sites in Ireland. Writers have read them as feminine symbols, much like the yoni stones of India. People held bullauns to carry healing power. The stones helped women to conceive and to survive hard pregnancies. Some bullauns were large flat boulders with basins. The basins could be natural or man-made. Women drank water from these basins as a ritual. Bullauns also served as receptacles for libations and fluid offerings.",
+    "okr": {
+        "objective": "Describe the bullaun as a symbolic healing stone found at Irish holy wells.",
+        "key_results": [
+            "Bullauns are round stones with holes found at holy wells and sacred sites.",
+            "Writers describe them as feminine symbols like the yoni stones of India.",
+            "The stones were held to help women conceive and survive difficult pregnancies.",
+            "Bullauns also received libations and fluid offerings."
+        ],
+        "evidence": "Monaghan 2008, s.v. 'bullaun'."
+    }
 }

@@ -2,14 +2,42 @@
     "name": "buada",
     "attributes": [
         {
-            "entity": "Kingship",
-            "attribute": "See also"
+            "entity": "buada",
+            "attribute": "required regulations a king must follow after inauguration"
+        },
+        {
+            "entity": "geis",
+            "attribute": "forbidden acts that bound the king"
+        },
+        {
+            "entity": "Tara",
+            "attribute": "where the king ate the meat of the hares of Naas"
+        },
+        {
+            "entity": "hares of Naas",
+            "attribute": "food taboo to people other than the king"
         }
     ],
     "entities": [
         {
-            "entity": "Kingship",
+            "entity": "buada",
             "type": "Concept"
+        },
+        {
+            "entity": "geis",
+            "type": "Concept"
+        },
+        {
+            "entity": "Tara",
+            "type": "Place"
+        },
+        {
+            "entity": "Naas",
+            "type": "Place"
+        },
+        {
+            "entity": "hares",
+            "type": "Animal"
         }
     ],
     "sources": [
@@ -17,5 +45,15 @@
     ],
     "cyphertext": "FWbA79qGapP6ovIUyMKIas7mwuxjOezGr3sT5Cwdw3anFpunKge--r-MVbq8tX8D2DzMZH8SVLigOBcoG_LIj4D2kgX-7jkeKrvhSfvu1-trEQeAyC6BhvG6I3Oi1rrZ1FpYXDmfG4WQlI8YJsV30g9LniJs14us616YesGqDni5zbVTfrl1SjXnyEh2qxDuvLhQMZFSZnkQAd5k6KmWuiA5yKVL7X3qcrFPoRRgYA7WnvQXaPVBSiJpAeyDjEojno1UzZRl-Ni3zgb7fAVx87ZU3dCV1P-TCibl3w-1nhZfB2H_DBNFjBbWSqX0bLmGIdceYpKtGpuZTDxGzHSyRw2OV76hiVHeuniDUmVI1zLOzwl5UvEaFuFXdI1ipUGzbARSbqAvhBCvJth7Vwpg8SVEDoxYLjZBk5u_PbApn-nDrkGA_fVmOHNJ4AInh3btdRYlQZeTsKYKkvmPQppcj0Ro-1AAuWj0CaHPRZqzCA9LVpaX3cxyzN31_sYBFXvyxjx2uUcuY9aseU95Vr3wlJyW97JO9awqQ-E_kUd_AeE15NuwoOSwnH61pVjASdu0BmOqG6SHxrEuFTugHFq5NnD4-zcOZmzAG37Zxrl9Ibb6ty8_6C8BdQql1pSM18QJluUKlp4zqciPmj-hs6eO_VSl_G7XanPo2qEto0nZKC2wVVFk2hDgw87eQxz-iJ3EFMMAIL5BM_4BoStaosdGigzqSX_GZPVqieuT",
     "salt": "NVdJOUkXNXKzSvNJNlyaMw==",
-    "text": "Irish ritual called buada (or buadha) subjected the king, in ancient Ireland, to a series of mystic regulations after his Inauguration. Some of these regulations were prohibitions, known as Geis, whereas others, called buada, were mandatory. Buada included eating certain foods and behaving in certain ways. For instance, the king at Tara was required to eat the meat of the Hares of Naas, a food that was considered taboo by others. Breaking these regulations would cause the land to stop bearing food, which would consequently result in the king's removal from his office. The topic of Kingship is also related to this practice."
+    "text": "In Ireland the word buada names the good regulations that bound a king once he took office. After his inauguration the king had to obey a set of mystic rules. Some acts were forbidden to him, as set by geis. Other acts were required and these were the buada. He had to eat certain foods and behave in certain ways. The king at Tara had to eat the meat of the hares of Naas. This food was taboo to other people. If the king broke these rules, the land would stop bearing food. That failure would lead to his removal from office.",
+    "okr": {
+        "objective": "Describe buada as the required regulations laid on a king after his inauguration in ancient Ireland.",
+        "key_results": [
+            "The king was subject to mystic regulations once he was inaugurated.",
+            "Some acts were forbidden by geis while others, termed buada, were required.",
+            "The king at Tara had to eat the meat of the hares of Naas, a food taboo to others.",
+            "Breaking these rules made the land cease bearing food and led to the king's removal."
+        ],
+        "evidence": "Monaghan 2008, s.v. 'buada'."
+    }
 }
