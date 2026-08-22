@@ -1,53 +1,135 @@
 {
-    "name": "N\u00e1s",
-    "attributes": [
-        {
-            "entity": "Lugh",
-            "attribute": "reputedly instituted the great assembly"
-        },
-        {
-            "entity": "Teltown",
-            "attribute": "great assembly of Teltown"
-        },
-        {
-            "entity": "N\u00e1s",
-            "attribute": "festival organized to honor N\u00e1s"
-        },
-        {
-            "entity": "Tailtiu",
-            "attribute": "foster mother of Lugh"
-        }
+  "name": "Nás",
+  "sources": [
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+  ],
+  "cyphertext": "4cE8LhpAEE2o44rzTlEw4O90SlJhjtw4Lu9OMVQk5ZDRYv3Dbe5nxV669z3IfTPADSZpJkkttvPxrOg0zNW8UbYVfSv7O8dwIlRh8skwFAQYmhhqwqpTSa4m_XZDPKhKsshPCUQ30SKOFmmWPZjDG8tG-t-9XFPeWp1OWXQ1lllBJHMkW7HwQqlRdEkJUovSh0qqT1YIbWwLqC0r1-BvQT8v--Kfm9j6wuPiVAZUAcECclGrxdEccaPayiCHUCo_E2FbPYoTRbxCxpKr8TzvrNOMowMnQkTCjiTG3aydAo5EfcZ0xat5uO0p-1sZd-jePYeLGThjQHOT7IAW8RKQqF-n-w4MgciQbLvvHVCvZPPwg10WmtyUvNgsHqOxbiYwhhoa4WeaY66A3cF4KnY_v2USlIvKxZ3ahk69fDQp6lykEFrbxrjzq1JFI3CLHUMBfYWBaoP62ir9Uf9T3cH0iuE0C5GydhUZDcbFxVCuDwv_TeXdnPhnBWa3SQEkBOkfG2DRcb2nWhrpAwXuutcIiO6JCpBbwXl82GPy6J2lvF4yheItWnQMCieeXuOqQo6WgW-SwKSRjIF-H9IarQkBcguVw_T4_sf1ZlAS23QJVj1k4cT1nxDSG9S4NQ8uS9lML6C-ZZPqBO_RTJFqjUfRYMFED5oALmgx8zuUJmrc-zwkVxD4E5D2pyIrh1fX0Vb69xnYZyaktMFOniBQc47NK1SSIRutmN3CeqBiYe9i_AESbY-gSPFzoTuoSfc9CdjYstYXMo0TH_bwiFGZcWE147iUQjRhzvNjdiCT-KwyPjHMsBIDxdBGsW84Lz4jY415Vamk89PISsIK4KKdqyblOHsf_xpGmVZ-ypnnY6t3zBXWuDPc8G_6miVJQf93no4bgujEaLe53lT9O-Yk",
+  "salt": "xzb3YK9Fw181LkBkAu5-5Q==",
+  "text": "The Fir Bolg reached Ireland under their leader Dela, the people the extract calls NASA. Dela split the island among his sons. Gann and Sengann took Munster. Leinster went to Slane, and Ulster to Rudraige. Notable Fir Bolg kings included Eochaid mac Eirc, master of the central province with his wife Tailtiu. Rinnal devised spear points. Delga raised Dun Delgan, the fort later called Dundalk in Co. Louth. The Fir Bolg also counted the healer Fingein Fisiochda and the hero Sreng among them. The Fir Bolg held power for just 37 years before the Tuatha De Danann appeared. At the first fight at Mag Tuired, Nuada pushed the Fir Bolg from Ireland at the cost of his arm and his throne. The defeated Fir Bolg fell back to the Aran Islands, where their king Aonghus built Dun Aongusa, and to islands off Scotland and wild Connemara. Their memory survives in place-names such as Dun Bolg (Co. Wicklow), Moherbullog (Co. Clare), and Moyboulogue (Co. Cavan).",
+  "entities": [
+    {
+      "entity": "Nás",
+      "type": "hero"
+    },
+    {
+      "entity": "Fir Bolg",
+      "type": "group"
+    },
+    {
+      "entity": "Dela",
+      "type": "person"
+    },
+    {
+      "entity": "Gann",
+      "type": "person"
+    },
+    {
+      "entity": "Sengann",
+      "type": "person"
+    },
+    {
+      "entity": "Slane",
+      "type": "person"
+    },
+    {
+      "entity": "Rudraige",
+      "type": "person"
+    },
+    {
+      "entity": "Munster",
+      "type": "place"
+    },
+    {
+      "entity": "Leinster",
+      "type": "place"
+    },
+    {
+      "entity": "Ulster",
+      "type": "place"
+    },
+    {
+      "entity": "Eochaid mac Eirc",
+      "type": "person"
+    },
+    {
+      "entity": "Tailtiu",
+      "type": "person"
+    },
+    {
+      "entity": "Rinnal",
+      "type": "person"
+    },
+    {
+      "entity": "Delga",
+      "type": "person"
+    },
+    {
+      "entity": "Dun Delgan",
+      "type": "place"
+    },
+    {
+      "entity": "Fingein Fisiochda",
+      "type": "person"
+    },
+    {
+      "entity": "Sreng",
+      "type": "hero"
+    },
+    {
+      "entity": "Tuatha De Danann",
+      "type": "group"
+    },
+    {
+      "entity": "Nuada",
+      "type": "god"
+    },
+    {
+      "entity": "Mag Tuired",
+      "type": "place"
+    },
+    {
+      "entity": "Aran Islands",
+      "type": "place"
+    },
+    {
+      "entity": "Dun Aongusa",
+      "type": "place"
+    },
+    {
+      "entity": "Connemara",
+      "type": "place"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Fir Bolg",
+      "attribute": "reached Ireland under the leadership of Dela"
+    },
+    {
+      "entity": "Dela",
+      "attribute": "divided the island among his sons"
+    },
+    {
+      "entity": "Fir Bolg",
+      "attribute": "ruled for 37 years before the Tuatha De Danann arrived"
+    },
+    {
+      "entity": "Nuada",
+      "attribute": "drove the Fir Bolg out at the first battle of Mag Tuired"
+    },
+    {
+      "entity": "Fir Bolg",
+      "attribute": "retreated to the Aran Islands and other fringes"
+    }
+  ],
+  "okr": {
+    "objective": "Nas is the name behind the account of the Fir Bolg and their rule of Ireland.",
+    "key_results": [
+      "Dela divided Ireland among his sons, giving each province a ruler.",
+      "Notable Fir Bolg kings included Eochaid mac Eirc, Rinnal, and Delga.",
+      "The Fir Bolg ruled 37 years before the Tuatha De Danann arrived.",
+      "Nuada drove them out at Mag Tuired, losing his arm and his throne in the process."
     ],
-    "entities": [
-        {
-            "entity": "Lugh",
-            "type": "deity"
-        },
-        {
-            "entity": "assembly",
-            "type": "event"
-        },
-        {
-            "entity": "Teltown",
-            "type": "location"
-        },
-        {
-            "entity": "N\u00e1s",
-            "type": "deity"
-        },
-        {
-            "entity": "festival",
-            "type": "event"
-        },
-        {
-            "entity": "Tailtiu",
-            "type": "deity"
-        }
-    ],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "cyphertext": "4cE8LhpAEE2o44rzTlEw4O90SlJhjtw4Lu9OMVQk5ZDRYv3Dbe5nxV669z3IfTPADSZpJkkttvPxrOg0zNW8UbYVfSv7O8dwIlRh8skwFAQYmhhqwqpTSa4m_XZDPKhKsshPCUQ30SKOFmmWPZjDG8tG-t-9XFPeWp1OWXQ1lllBJHMkW7HwQqlRdEkJUovSh0qqT1YIbWwLqC0r1-BvQT8v--Kfm9j6wuPiVAZUAcECclGrxdEccaPayiCHUCo_E2FbPYoTRbxCxpKr8TzvrNOMowMnQkTCjiTG3aydAo5EfcZ0xat5uO0p-1sZd-jePYeLGThjQHOT7IAW8RKQqF-n-w4MgciQbLvvHVCvZPPwg10WmtyUvNgsHqOxbiYwhhoa4WeaY66A3cF4KnY_v2USlIvKxZ3ahk69fDQp6lykEFrbxrjzq1JFI3CLHUMBfYWBaoP62ir9Uf9T3cH0iuE0C5GydhUZDcbFxVCuDwv_TeXdnPhnBWa3SQEkBOkfG2DRcb2nWhrpAwXuutcIiO6JCpBbwXl82GPy6J2lvF4yheItWnQMCieeXuOqQo6WgW-SwKSRjIF-H9IarQkBcguVw_T4_sf1ZlAS23QJVj1k4cT1nxDSG9S4NQ8uS9lML6C-ZZPqBO_RTJFqjUfRYMFED5oALmgx8zuUJmrc-zwkVxD4E5D2pyIrh1fX0Vb69xnYZyaktMFOniBQc47NK1SSIRutmN3CeqBiYe9i_AESbY-gSPFzoTuoSfc9CdjYstYXMo0TH_bwiFGZcWE147iUQjRhzvNjdiCT-KwyPjHMsBIDxdBGsW84Lz4jY415Vamk89PISsIK4KKdqyblOHsf_xpGmVZ-ypnnY6t3zBXWuDPc8G_6miVJQf93no4bgujEaLe53lT9O-Yk",
-    "salt": "xzb3YK9Fw181LkBkAu5-5Q==",
-    "text": "N\u00e1s (Naas) was an Irish goddess or heroine who was only known as the wife of Lugh, a great hero. N\u00e1s is still remembered today in Ireland because Naas, a prosperous town near Dublin, is said to be the location of her death or burial. An ancient demand called Buada required the king at Tara to dine on Hares from Naas, which is why the town is called Naas na R\u00ed, which means \u201cNaas of the Kings.\u201d It is believed that Lugh established the great assembly of Teltown in honor of N\u00e1s, though this festival is more commonly said to have been organized to honor his foster mother, the goddess Tailtiu."
+    "evidence": "Monaghan, Encyclopedia of Celtic Mythology and Folklore"
+  }
 }

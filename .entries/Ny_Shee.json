@@ -1,45 +1,54 @@
 {
-    "name": "Ny Shee",
-    "attributes": [
-        {
-            "entity": "Ny Shee",
-            "attribute": "folkloric figure"
-        },
-        {
-            "entity": "Isle of Man",
-            "attribute": "place of origin"
-        },
-        {
-            "entity": "S\u00eddhe",
-            "attribute": "Irish name"
-        }
+  "name": "Ny Shee",
+  "sources": [
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+  ],
+  "cyphertext": "ShJ5IgwhfFgrC3Khu4GrqIRb17KwWLRNsk19AZ7glcsZC5w8TvXgEnAvjWt1h0ANJ3OiQVheht8lmQCQ2ewOg38GZxlpghbRKchzoHdTGXEoW-gznrDvHTwH9IzJ8tU-kwMvQzd-poIUJ-XY3v8738LU521c9F7eksYEQ3JhVvTvByGUIAq3LsFKsWtbZyRlaVuVK6nRRevUVgRct5NGug==",
+  "salt": "8bUMEdjlwJnn4HMD1FNNZw==",
+  "text": "Ny Shee is a Manx folkloric figure. The term belongs to the speech of the Isle of Man. It names the fairy folk that Irish speakers call the Sidhe.",
+  "entities": [
+    {
+      "entity": "Ny Shee",
+      "type": "mythological figure"
+    },
+    {
+      "entity": "Isle of Man",
+      "type": "place"
+    },
+    {
+      "entity": "fairy folk",
+      "type": "mythological creature"
+    },
+    {
+      "entity": "Sidhe",
+      "type": "mythological creature"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Ny Shee",
+      "attribute": "a Manx folkloric figure"
+    },
+    {
+      "entity": "Isle of Man",
+      "attribute": "home of the term Ny Shee"
+    },
+    {
+      "entity": "Sidhe",
+      "attribute": "the Irish name for this fairy folk"
+    },
+    {
+      "entity": "fairy folk",
+      "attribute": "called Ny Shee in Manx and Sidhe in Irish"
+    }
+  ],
+  "okr": {
+    "objective": "Ny Shee is the Manx name for the fairy folk called the Sidhe in Irish.",
+    "key_results": [
+      "Ny Shee is a Manx folkloric figure.",
+      "The term comes from the language of the Isle of Man.",
+      "It refers to the fairy folk that Irish speakers call the Sidhe."
     ],
-    "entities": [
-        {
-            "entity": "Ny Shee",
-            "type": "folkloric figure"
-        },
-        {
-            "entity": "Isle of Man",
-            "type": "place"
-        },
-        {
-            "entity": "Fairy folk",
-            "type": "mythical creature"
-        },
-        {
-            "entity": "S\u00eddhe",
-            "type": "mythical creature"
-        },
-        {
-            "entity": "Irish",
-            "type": "language"
-        }
-    ],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "cyphertext": "ShJ5IgwhfFgrC3Khu4GrqIRb17KwWLRNsk19AZ7glcsZC5w8TvXgEnAvjWt1h0ANJ3OiQVheht8lmQCQ2ewOg38GZxlpghbRKchzoHdTGXEoW-gznrDvHTwH9IzJ8tU-kwMvQzd-poIUJ-XY3v8738LU521c9F7eksYEQ3JhVvTvByGUIAq3LsFKsWtbZyRlaVuVK6nRRevUVgRct5NGug==",
-    "salt": "8bUMEdjlwJnn4HMD1FNNZw==",
-    "text": "Manx folklore features a character known as Ny Shee, which is the Island language's equivalent to the Irish term for the Fairy folk, the S\u00eddhe."
+    "evidence": "Monaghan, Encyclopedia of Celtic Mythology and Folklore"
+  }
 }

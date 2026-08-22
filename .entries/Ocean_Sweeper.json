@@ -1,77 +1,50 @@
 {
-    "name": "Ocean Sweeper",
-    "attributes": [
-        {
-            "entity": "Ocean Sweeper",
-            "attribute": "Irish mythological object"
-        },
-        {
-            "entity": "Otherworld",
-            "attribute": "great treasure"
-        },
-        {
-            "entity": "boat",
-            "attribute": "magic"
-        },
-        {
-            "entity": "boat",
-            "attribute": "moved through the sea"
-        },
-        {
-            "entity": "pilot",
-            "attribute": "power of thoughts"
-        },
-        {
-            "entity": "Lugh",
-            "attribute": "heroic"
-        },
-        {
-            "entity": "magic boat",
-            "attribute": "property of Manann\u00e1n Mac Lir"
-        },
-        {
-            "entity": "Manann\u00e1n Mac Lir",
-            "attribute": "ocean god"
-        }
+  "name": "Ocean Sweeper",
+  "entities": [
+    {
+      "entity": "Ocean Sweeper",
+      "type": "artifact"
+    },
+    {
+      "entity": "Otherworld",
+      "type": "place"
+    },
+    {
+      "entity": "Lugh",
+      "type": "hero"
+    },
+    {
+      "entity": "Manannan mac Lir",
+      "type": "god"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Ocean Sweeper",
+      "attribute": "one of the great treasures of the Irish Otherworld"
+    },
+    {
+      "entity": "Lugh",
+      "attribute": "brought the magic boat from the Otherworld"
+    },
+    {
+      "entity": "Manannan mac Lir",
+      "attribute": "ocean god who came to own it"
+    }
+  ],
+  "sources": [
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+  ],
+  "cyphertext": "eVgdK_kEDQtIfA-BgRVf2Kh-6K4-QTk723B5gR2O8IlqizCQSwv3PpA5F-Mlsds-O2PL1ZiLSlumO8kDYXqf5bqeGRwLsAJTKpP4ge3IJO6At04ZbU5YKdu0Wv7vkAV00HKZzZC_yb6RAXBvp7ttj_LjMyDKhJZ9PNMC2TfQIKAs4n3PoXyZpHWSR-4OxS4sBufqets858kfaDvU1FWUiQhDzuzQJWoijweg237KfqYyfb2AkqnMKQfB5RWRynkLwKmn1N9bsXQ8tqaQt5vujiaAhwBF_BRKj1l57NdxC9128z4DaLTpZPUdoTM2w0viTe0rxPLW3L5aA4tSv3VzDY1xwLCANKWqk9M1_G9pTZKlVb5R47XhUhMPjW0RpVh_XQ3EVDtVCczKxU_7vHb5gWmqW4GeNPc22QUKr1xTk0LcdsD8f8yuLaACwuuDw9o94boI-Yo=",
+  "salt": "EpWiT11s-KNRyUWp923kbg==",
+  "text": "The Ocean Sweeper is an Irish mythological object. This artifact stood with the finest treasures of the Irish Otherworld. The boat moved through the sea by the power of its pilot's thoughts. The hero Lugh carried it out of the Otherworld. It became the property of Manannan mac Lir, the ocean god.",
+  "okr": {
+    "objective": "The Ocean Sweeper is a magical boat prized in the Irish Otherworld.",
+    "key_results": [
+      "It moved across the sea by its pilot's thoughts.",
+      "Lugh brought it from the Otherworld.",
+      "Manannan mac Lir, the ocean god, owned it."
     ],
-    "entities": [
-        {
-            "entity": "Ocean Sweeper",
-            "type": "mythological object"
-        },
-        {
-            "entity": "Aig\u00e9an scuabadoir",
-            "type": "mythological object"
-        },
-        {
-            "entity": "Irish",
-            "type": "nationality"
-        },
-        {
-            "entity": "Otherworld",
-            "type": "mythological place"
-        },
-        {
-            "entity": "Lugh",
-            "type": "mythological character"
-        },
-        {
-            "entity": "magic boat",
-            "type": "object"
-        },
-        {
-            "entity": "ocean god",
-            "type": "mythological character"
-        },
-        {
-            "entity": "Manann\u00e1n Mac Lir",
-            "type": "mythological character"
-        }
-    ],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "cyphertext": "eVgdK_kEDQtIfA-BgRVf2Kh-6K4-QTk723B5gR2O8IlqizCQSwv3PpA5F-Mlsds-O2PL1ZiLSlumO8kDYXqf5bqeGRwLsAJTKpP4ge3IJO6At04ZbU5YKdu0Wv7vkAV00HKZzZC_yb6RAXBvp7ttj_LjMyDKhJZ9PNMC2TfQIKAs4n3PoXyZpHWSR-4OxS4sBufqets858kfaDvU1FWUiQhDzuzQJWoijweg237KfqYyfb2AkqnMKQfB5RWRynkLwKmn1N9bsXQ8tqaQt5vujiaAhwBF_BRKj1l57NdxC9128z4DaLTpZPUdoTM2w0viTe0rxPLW3L5aA4tSv3VzDY1xwLCANKWqk9M1_G9pTZKlVb5R47XhUhMPjW0RpVh_XQ3EVDtVCczKxU_7vHb5gWmqW4GeNPc22QUKr1xTk0LcdsD8f8yuLaACwuuDw9o94boI-Yo=",
-    "salt": "EpWiT11s-KNRyUWp923kbg==",
-    "text": "A mystical item from Irish mythology is the Ocean Sweeper (Aig\u00e9an scuabadoir). Within the Irish Otherworld, this artifact was considered a wondrous treasure due to its ability to travel through water with the mere thoughts of its pilot. The Ocean Sweeper was initially brought to our world by the brave hero Lugh, but ultimately became the prized possession of the powerful ocean deity Manann\u00e1n Mac Lir."
+    "evidence": "Monaghan, Encyclopedia of Celtic Mythology and Folklore"
+  }
 }

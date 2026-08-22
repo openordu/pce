@@ -1,61 +1,63 @@
 {
-    "name": "Nuala",
-    "attributes": [
-        {
-            "entity": "Nuala",
-            "attribute": "Irish heroine"
-        },
-        {
-            "entity": "Fionnuala",
-            "attribute": "shortened version"
-        },
-        {
-            "entity": "Fairy Queen",
-            "attribute": "otherwise known as \u00dana"
-        },
-        {
-            "entity": "king",
-            "attribute": "of the Fairies"
-        },
-        {
-            "entity": "Finnbheara",
-            "attribute": "lover of the Fairy Queen"
-        }
+  "name": "Nuala",
+  "sources": [
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+  ],
+  "cyphertext": "dZ2MbmEdRZ5DgourYrA7kUbfnYgvVnGNgTx5Y5toyt6B7rNg6t9Tot_wYds2bxvEZB8kLb8Rwv_zw6WscwFNJai0PH1IPaIGVnZoz-QQgOZ4v09S-9Q6JrkqFnNkaUwoqFyRM6TZzKSXZLWunEnqR4GBcljmOzs8mZ1cDsYmORuyEbvSszt9sMzuWa2A5Ut3Hj_HyNcmXiO28zVfeqRT4nBte7-3UKU8K1M1oFkgvesPslF7w2OGVlZA_EWhwsiKfZw0lyo0aEkE_4frXJ5iy8p--rUVYi9xp3TfkJR19ZkmUh2pFczpTfU=",
+  "salt": "9aXgU5rcUx5JM6LpN0FfIA==",
+  "text": "Nuala was one of the children of Lir. She and her four brothers could still speak like people even though their bodies had become swans. Decca demanded to see the swan-children. Her husband refused, and she left him. He then yielded and ordered the swans carried to the palace. There Decca watched them turn back into people. At once they died of old age and turned to dust before her eyes.",
+  "entities": [
+    {
+      "entity": "Nuala",
+      "type": "mythological figure"
+    },
+    {
+      "entity": "Lir",
+      "type": "god"
+    },
+    {
+      "entity": "children of Lir",
+      "type": "group"
+    },
+    {
+      "entity": "Decca",
+      "type": "character"
+    },
+    {
+      "entity": "swans",
+      "type": "animal"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Nuala",
+      "attribute": "was one of the children of Lir"
+    },
+    {
+      "entity": "children of Lir",
+      "attribute": "kept human voices despite their swan bodies"
+    },
+    {
+      "entity": "Decca",
+      "attribute": "demanded to see the swan-children"
+    },
+    {
+      "entity": "children of Lir",
+      "attribute": "turned human again and then turned to dust"
+    },
+    {
+      "entity": "swans",
+      "attribute": "carried the transformed children of Lir"
+    }
+  ],
+  "okr": {
+    "objective": "Nuala is a child of Lir whose swan form still held a human voice.",
+    "key_results": [
+      "Nuala and her four brothers kept human voices after becoming swans.",
+      "Decca demanded to see the swan-children and left her husband when he refused.",
+      "The swans were brought to the palace, where Decca saw them.",
+      "The children turned human again, then died of advanced age and turned to dust."
     ],
-    "entities": [
-        {
-            "entity": "Nuala",
-            "type": "Irish heroine"
-        },
-        {
-            "entity": "Fionnuala",
-            "type": "name"
-        },
-        {
-            "entity": "Fairy Queen",
-            "type": "title"
-        },
-        {
-            "entity": "\u00dana",
-            "type": "name"
-        },
-        {
-            "entity": "king",
-            "type": "title"
-        },
-        {
-            "entity": "Fairies",
-            "type": "group"
-        },
-        {
-            "entity": "Finnbheara",
-            "type": "name"
-        }
-    ],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "cyphertext": "dZ2MbmEdRZ5DgourYrA7kUbfnYgvVnGNgTx5Y5toyt6B7rNg6t9Tot_wYds2bxvEZB8kLb8Rwv_zw6WscwFNJai0PH1IPaIGVnZoz-QQgOZ4v09S-9Q6JrkqFnNkaUwoqFyRM6TZzKSXZLWunEnqR4GBcljmOzs8mZ1cDsYmORuyEbvSszt9sMzuWa2A5Ut3Hj_HyNcmXiO28zVfeqRT4nBte7-3UKU8K1M1oFkgvesPslF7w2OGVlZA_EWhwsiKfZw0lyo0aEkE_4frXJ5iy8p--rUVYi9xp3TfkJR19ZkmUh2pFczpTfU=",
-    "salt": "9aXgU5rcUx5JM6LpN0FfIA==",
-    "text": "A notable figure in Irish mythology is Nuala, often considered a diminutive form of Fionnuala. However, Nuala is also attributed to the Fairy Queen, also known as \u00dana, who was romantically involved with Finnbheara, the Fairy King."
+    "evidence": "Monaghan, Encyclopedia of Celtic Mythology and Folklore"
+  }
 }

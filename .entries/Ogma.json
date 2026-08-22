@@ -1,57 +1,79 @@
 {
-    "name": "Ogma",
-    "entities": [
-        {
-            "entity": "Ogma",
-            "type": "Irish god"
-        },
-        {
-            "entity": "Dagda",
-            "type": "father god"
-        },
-        {
-            "entity": "\u00c9tain",
-            "type": "goddess"
-        },
-        {
-            "entity": "Cairbre mac \u00c9adaoine",
-            "type": "poet"
-        },
-        {
-            "entity": "Ogham",
-            "type": "writing script"
-        }
+  "name": "Ogma",
+  "entities": [
+    {
+      "entity": "Ogma",
+      "type": "god"
+    },
+    {
+      "entity": "Milesians",
+      "type": "group"
+    },
+    {
+      "entity": "Mac Cuill",
+      "type": "mythological figure"
+    },
+    {
+      "entity": "Mac Greine",
+      "type": "mythological figure"
+    },
+    {
+      "entity": "Mac Cecht",
+      "type": "hero"
+    },
+    {
+      "entity": "Conaire",
+      "type": "character"
+    },
+    {
+      "entity": "Da Derga",
+      "type": "place"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Ogma",
+      "attribute": "god of eloquence"
+    },
+    {
+      "entity": "Ogma",
+      "attribute": "died fighting a Milesian invader"
+    },
+    {
+      "entity": "Mac Cuill",
+      "attribute": "brother of Ogma"
+    },
+    {
+      "entity": "Mac Greine",
+      "attribute": "brother of Ogma"
+    },
+    {
+      "entity": "Mac Cuill and Mac Greine",
+      "attribute": "husbands of the three land goddesses"
+    },
+    {
+      "entity": "Mac Cecht",
+      "attribute": "a different hero who championed Conaire"
+    },
+    {
+      "entity": "Conaire",
+      "attribute": "doomed king at Da Derga's hostel"
+    }
+  ],
+  "sources": [
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+  ],
+  "cyphertext": "8ZjEK62Ez2pCtKAZSD2wNZzXbCDSKeboNhXWfnChcS61PNjfLsc-koGlkCS-CJ-sRJHgRZ2LrEglYt3vnhl0KYrTMyNOOEKDZvJPdbvJU0WIWB3Oya6vBHHOMOGUB3ZrAtf1RbfoxkAJ6hQQgucPrwvBrf4C1YlmFFqrlsVf6PCN5hCrBRhx0yvXV8TD3KbciP9RpsiTnztXMJET2SZfAnpULSkuVrOhDIGEc8EqdoA4UUUInIR_Im-mxd3sK_iF4ps9Ln97nVxICesfrl0Wb5FL16KhRdk8PAhrlLOz7ADC8wwlfHND0aN1-kk7Q3QPw-0s2hY1SPs-0JqK0G96ZDf3CmddgjFdwMzK2ZSVYxltXyrGS-EMr-7nT4fEQ131Zbf4yHAnb9Decw2rHWZfoJqABeaP78TswCZgrvg8WfIDSD4pwotsd-5Z1VVCVkOAwHjAQrMhB8GXVVQJqcSAzEN3GGcjRP7ZLe7eOiOMgfnQH2tzPZxKjQ9FRB0a_FzGclL9CGGqoTUMs9DLobE78kirLANhXqsgExEixD8PhYE_7lk9-cmJmQ-3PWy8xvAzyf3wxA==",
+  "salt": "Mwt1VbNN8e58cvBF_2kONA==",
+  "text": "Ogma was the Irish god of eloquence. He lost his life fighting a Milesian invader. Mac Cuill and Mac Greine, his brothers, were wed to the three land goddesses. The three made a trio of parallel gods. A different Mac Cecht stood by the doomed king Conaire. At the hostel of Da Derga he slew the man who had beheaded the king, then gave the king's severed head its last drink.",
+  "okr": {
+    "objective": "Ogma is the Irish god of eloquence.",
+    "key_results": [
+      "He fell fighting a Milesian invader.",
+      "His brothers married the three land goddesses.",
+      "Mac Cecht killed the man who beheaded Conaire.",
+      "He gave the king's severed head its last drink."
     ],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "attributes": [
-        {
-            "entity": "Ogma",
-            "attribute": "believed parallel or cognate to the continental Celtic god Ogmios"
-        },
-        {
-            "entity": "Ogma",
-            "attribute": "invented the writing script called, after him, Ogham"
-        },
-        {
-            "entity": "Ogma",
-            "attribute": "eloquent of speech and a great poet"
-        },
-        {
-            "entity": "the Dagda",
-            "attribute": "beneficent father god"
-        },
-        {
-            "entity": "\u00c9tain",
-            "attribute": "important goddess"
-        },
-        {
-            "entity": "Cairbre mac \u00c9adaoine",
-            "attribute": "poet"
-        }
-    ],
-    "cyphertext": "8ZjEK62Ez2pCtKAZSD2wNZzXbCDSKeboNhXWfnChcS61PNjfLsc-koGlkCS-CJ-sRJHgRZ2LrEglYt3vnhl0KYrTMyNOOEKDZvJPdbvJU0WIWB3Oya6vBHHOMOGUB3ZrAtf1RbfoxkAJ6hQQgucPrwvBrf4C1YlmFFqrlsVf6PCN5hCrBRhx0yvXV8TD3KbciP9RpsiTnztXMJET2SZfAnpULSkuVrOhDIGEc8EqdoA4UUUInIR_Im-mxd3sK_iF4ps9Ln97nVxICesfrl0Wb5FL16KhRdk8PAhrlLOz7ADC8wwlfHND0aN1-kk7Q3QPw-0s2hY1SPs-0JqK0G96ZDf3CmddgjFdwMzK2ZSVYxltXyrGS-EMr-7nT4fEQ131Zbf4yHAnb9Decw2rHWZfoJqABeaP78TswCZgrvg8WfIDSD4pwotsd-5Z1VVCVkOAwHjAQrMhB8GXVVQJqcSAzEN3GGcjRP7ZLe7eOiOMgfnQH2tzPZxKjQ9FRB0a_FzGclL9CGGqoTUMs9DLobE78kirLANhXqsgExEixD8PhYE_7lk9-cmJmQ-3PWy8xvAzyf3wxA==",
-    "salt": "Mwt1VbNN8e58cvBF_2kONA==",
-    "text": "Irish lore tells of the deity Ogma (also spelled Oghma or Ogme), who many believe is equivalent to the continental Celtic god Ogmios. The Dagda, a father god known for his benevolence, sired Ogma, who went on to father prominent goddess \u00c9tain and the poet Cairbre mac \u00c9adaoine. While not extensively detailed in mythology, Ogma is credited with inventing a writing system known as Ogham, named after him. In addition, he was known for his impressive oratory skills and poetic talents."
+    "evidence": "Monaghan, Encyclopedia of Celtic Mythology and Folklore"
+  }
 }

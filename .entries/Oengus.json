@@ -1,14 +1,37 @@
 {
-    "name": "Oengus",
-    "attributes": {},
-    "entities": [],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+  "name": "Oengus",
+  "entities": [
+    {
+      "entity": "Aonghus",
+      "type": "mythological figure"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Oengus",
+      "attribute": "cross-reference to Aonghus"
+    },
+    {
+      "entity": "Aonghus",
+      "attribute": "main entry for this name"
+    }
+  ],
+  "sources": [
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+  ],
+  "cyphertext": "usQEAf3ZennXXF7et-B_d1RpTjWU43qmR_QYzfKiNOdUyRQ9tWUvOnktLnvVTU5S",
+  "salt": "TsVUBEXIS3rowhG5nXhlZg==",
+  "image": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Heroes_of_the_dawn_%281914%29_%2814566173909%29.jpg/1200px-Heroes_of_the_dawn_%281914%29_%2814566173909%29.jpg"
+  ],
+  "text": "Oengus is a cross-reference in the encyclopedia. The name directs the reader to the Aonghus entry.",
+  "okr": {
+    "objective": "Oengus points to the Aonghus entry.",
+    "key_results": [
+      "The name Oengus is a cross-reference.",
+      "The reader is directed to Aonghus.",
+      "No biography appears under Oengus itself."
     ],
-    "image": [
-        "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Heroes_of_the_dawn_%281914%29_%2814566173909%29.jpg/1200px-Heroes_of_the_dawn_%281914%29_%2814566173909%29.jpg"
-    ],
-    "cyphertext": "usQEAf3ZennXXF7et-B_d1RpTjWU43qmR_QYzfKiNOdUyRQ9tWUvOnktLnvVTU5S",
-    "salt": "TsVUBEXIS3rowhG5nXhlZg==",
-    "text": "Oengus See Aonghus."
+    "evidence": "Monaghan, Encyclopedia of Celtic Mythology and Folklore"
+  }
 }
