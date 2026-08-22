@@ -1,18 +1,27 @@
 {
-    "name": "Agallamh na Sean\u00f3arch",
-    "attributes": {},
-    "entities": [
-        {
-            "text": "Agallamh"
-        },
-        {
-            "text": "Sean\u00f3arch See Colloquy Of The Elders"
-        }
-    ],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "cyphertext": "6PdAI8AQRKc95PeihkHTlI2TFFhse4DFhQlh0cGjOkGEJHhy_QNWl041Sf2z93Lqfl5tRbx4PraXPqp0bQme1knS239iGAuc39QcTYJerg==",
-    "salt": "C1EXB14jF5wg60nSJ8lOrA==",
-    "text": "Agallamh na Sean\u00f3arch See Colloquy Of The Elders."
+  "name": "Agallamh na Seanóarch",
+  "attributes": [],
+  "entities": [
+    {
+      "entity": "Agallamh na Seanóarch",
+      "type": "Concept"
+    },
+    {
+      "entity": "Colloquy of the Elders",
+      "type": "Concept"
+    }
+  ],
+  "sources": [
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+  ],
+  "cyphertext": "6PdAI8AQRKc95PeihkHTlI2TFFhse4DFhQlh0cGjOkGEJHhy_QNWl041Sf2z93Lqfl5tRbx4PraXPqp0bQme1knS239iGAuc39QcTYJerg==",
+  "salt": "C1EXB14jF5wg60nSJ8lOrA==",
+  "text": "Agallamh na Seanóarch is the Irish name of the text called the Colloquy of the Elders. See the entry for the Colloquy of the Elders for its account.",
+  "objective": "Point the reader to the Colloquy of the Elders.",
+  "key_results": [
+    "Show the Irish title and its subject."
+  ],
+  "evidence": [
+    "Monaghan 2003, s.v. Agallamh na Seanóarch"
+  ]
 }

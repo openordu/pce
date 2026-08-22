@@ -1,45 +1,56 @@
 {
-    "name": "Ae\u00ed",
-    "entities": [
-        {
-            "entity": "Ae\u00ed",
-            "type": "mythological site"
-        },
-        {
-            "entity": "T\u00e1in B\u00f3 Cuailnge",
-            "type": "Irish epic"
-        },
-        {
-            "entity": "Connacht",
-            "type": "region"
-        },
-        {
-            "entity": "Ulster",
-            "type": "region"
-        }
-    ],
-    "attributes": [
-        {
-            "entity": "Ae\u00ed",
-            "attribute": "location"
-        },
-        {
-            "entity": "T\u00e1in B\u00f3 Cuailnge",
-            "attribute": "story"
-        },
-        {
-            "entity": "Connacht",
-            "attribute": "opposing region"
-        },
-        {
-            "entity": "Ulster",
-            "attribute": "opposing region"
-        }
-    ],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "cyphertext": "CSuHqqpFKBYEYOef_x2DYeqJaV0RyMHJeaAX4g2aPL3GBRauv6TDGrIamqtJidEfWrOL7QvJKnYtO4QjOnoxEZnE_v3Q97ZF6q7O6sDhN-xWDygN73-Fqgk8i7gA96aKcIuZalF4zWkzC-fzOVB5MIdxBu7nnQS1_Y5fPp-N4nLhrpDwMdPcDAW9Bmqj8fd-XxN04F4D3mNsY4k6pQw0wwY_a2oacaR3gRFHNpfMEGLRzj61LIbmZ1Of-SbtpNHOM9u9j47dd_EeYhiJyvtoW4DmJiMBxisTGwLMN1b3zc4ceLBJv2Ol3EkEJWg5oQtPPZuSl9vNpQnzfm5viG3B6lUoCNlcjYv71-8O9XmYmXG3wPyoCI8aQkkqkahVCRYn7kyJwe4SO1Mr6y_33uFUhdnOT-tyBR-zRMVunE6JEdv8GqdHgSHAZSqzWDZfwLmFgm2x3PwPE-0czooe3vn9p1SE1xCDjKfUPkUloyrXySdvowTqc1YhNXwEfEfkg8zKkyZaIQcJPyR9aWjceRF3vaCYtRfgMKNhlFLUdiyBEbxtl5skSaBK9ADZyAtJZjutO1hIae8YITxVvTxytkEXx8YB9BMbwv3aOLxczoJc8-sgFmbcyoRT1GpM66SPYHiGWMWY_8lusgU4Z454qX-L0VeLNq070jo8IlQfCdSj7f6M_VZXEWZ8IgAFLXV2WZJYRrxBE4BxwsxgnZBIjEd6zwGf9WYJ",
-    "salt": "b0CtCo3jMybpjoD8bux_3w==",
-    "text": "Located in the actual Irish landscape is the Plain of Ae\u00ed, an Irish mythological site. In the renowned T\u00e1in B\u00f3 Cuailnge, which recounts the story of the Cattle Raid of Connacht against Ulster, the two great bulls of the opposing peoples engage in a final battle on the plain of Ae\u00ed. Reincarnated as human enemies fated to battle in each lifetime, the bulls fought for three days and three nights, tearing each other to pieces, so that both lay dead by the battle's end. The plain of Ae\u00ed has been situated variably within the Irish landscape."
+  "name": "Aeí",
+  "entities": [
+    {
+      "entity": "Plain of Aeí",
+      "type": "Place"
+    },
+    {
+      "entity": "Tain Bo Cuailnge",
+      "type": "Concept",
+      "subtype": "Irish epic"
+    },
+    {
+      "entity": "Connacht",
+      "type": "Place",
+      "subtype": "Irish province"
+    },
+    {
+      "entity": "Ulster",
+      "type": "Place",
+      "subtype": "Irish province"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Plain of Aeí",
+      "attribute": "place of a great bull battle"
+    },
+    {
+      "entity": "Connacht",
+      "attribute": "land of one bull"
+    },
+    {
+      "entity": "Ulster",
+      "attribute": "land of the other bull"
+    },
+    {
+      "entity": "Tain Bo Cuailnge",
+      "attribute": "the Irish epic"
+    }
+  ],
+  "sources": [
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+  ],
+  "cyphertext": "CSuHqqpFKBYEYOef_x2DYeqJaV0RyMHJeaAX4g2aPL3GBRauv6TDGrIamqtJidEfWrOL7QvJKnYtO4QjOnoxEZnE_v3Q97ZF6q7O6sDhN-xWDygN73-Fqgk8i7gA96aKcIuZalF4zWkzC-fzOVB5MIdxBu7nnQS1_Y5fPp-N4nLhrpDwMdPcDAW9Bmqj8fd-XxN04F4D3mNsY4k6pQw0wwY_a2oacaR3gRFHNpfMEGLRzj61LIbmZ1Of-SbtpNHOM9u9j47dd_EeYhiJyvtoW4DmJiMBxisTGwLMN1b3zc4ceLBJv2Ol3EkEJWg5oQtPPZuSl9vNpQnzfm5viG3B6lUoCNlcjYv71-8O9XmYmXG3wPyoCI8aQkkqkahVCRYn7kyJwe4SO1Mr6y_33uFUhdnOT-tyBR-zRMVunE6JEdv8GqdHgSHAZSqzWDZfwLmFgm2x3PwPE-0czooe3vn9p1SE1xCDjKfUPkUloyrXySdvowTqc1YhNXwEfEfkg8zKkyZaIQcJPyR9aWjceRF3vaCYtRfgMKNhlFLUdiyBEbxtl5skSaBK9ADZyAtJZjutO1hIae8YITxVvTxytkEXx8YB9BMbwv3aOLxczoJc8-sgFmbcyoRT1GpM66SPYHiGWMWY_8lusgU4Z454qX-L0VeLNq070jo8IlQfCdSj7f6M_VZXEWZ8IgAFLXV2WZJYRrxBE4BxwsxgnZBIjEd6zwGf9WYJ",
+  "salt": "b0CtCo3jMybpjoD8bux_3w==",
+  "text": "The plain of Aeí is a place in Irish myth. In the great epic the Tain Bo Cuailnge, the two great bulls of the cattle raid of Connacht against Ulster fight their last battle on this plain. They were reborn men who had to fight again across each lifetime. They fought for three days and three nights, until both lay dead. Writers have set the plain of Aeí in many parts of the Irish landscape.",
+  "objective": "Put the plain of Aeí and its great battle on record.",
+  "key_results": [
+    "Give the plain of Aeí its place in the epic.",
+    "Tell of the bulls and the three nights of battle."
+  ],
+  "evidence": [
+    "Monaghan 2003, s.v. Aeí"
+  ]
 }
