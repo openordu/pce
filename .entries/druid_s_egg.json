@@ -1,11 +1,56 @@
 {
-    "name": "druid\u2019s egg",
-    "attributes": {},
-    "entities": [],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "cyphertext": "RoNRa1d8hDyU9ZSJS_HT8Jx0dxwV3kghbOTgc5Zx5cMLFr6Ui2c5aKJpfQ_wuaxzFJ5zasDWCUGrZuA-QQ==",
-    "salt": "dSsXdacLNu_HUvwWM7J_xw==",
-    "text": "druid\u2019s egg See Serpent Stone."
+  "name": "druid’s egg",
+  "attributes": [
+    {
+      "entity": "druid's egg",
+      "attribute": "alternate name for the serpent stone"
+    },
+    {
+      "entity": "serpent stone",
+      "attribute": "round bit of glass with powers of healing and divination"
+    },
+    {
+      "entity": "ovum anguinum",
+      "attribute": "Pliny's name for the serpent's egg"
+    },
+    {
+      "entity": "Pliny",
+      "attribute": "Roman author who described the serpent stone"
+    }
+  ],
+  "entities": [
+    {
+      "entity": "druid's egg",
+      "type": "Artifact"
+    },
+    {
+      "entity": "serpent stone",
+      "type": "Artifact"
+    },
+    {
+      "entity": "ovum anguinum",
+      "type": "Artifact"
+    },
+    {
+      "entity": "Pliny",
+      "type": "Person"
+    }
+  ],
+  "sources": [
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+  ],
+  "cyphertext": "RoNRa1d8hDyU9ZSJS_HT8Jx0dxwV3kghbOTgc5Zx5cMLFr6Ui2c5aKJpfQ_wuaxzFJ5zasDWCUGrZuA-QQ==",
+  "salt": "dSsXdacLNu_HUvwWM7J_xw==",
+  "text": "The druid's egg is another name for the serpent stone. This round bit of glass carried magical powers for healing and divination. The Roman author Pliny told how serpents formed it. The creatures writhed together and secreted a ball of liquid that rose into the air. Pliny called this object the ovum anguinum. A Gaulish warrior carried one into court. Emperor Claudius had him executed for it. Romans feared its power. A thief who stole the stone fled on a fast horse. He crossed a running stream to stop the snakes from following. The stone cured bewitchment when people dipped it into water. Folk tales kept it alive long after the druids vanished.",
+  "objective": "Rewrite the druid's egg entry in CSG-SME1000 prose with source-accurate nouns.",
+  "key_results": [
+    "Meets CSG-SME1000 sentence rules",
+    "All required nouns present",
+    "80-140 words",
+    "No prose fragments"
+  ],
+  "evidence": [
+    "monaghan.txt:12547 druid's egg",
+    "monaghan.txt:35084-35121 serpent stone"
+  ]
 }
