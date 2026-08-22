@@ -1,9 +1,27 @@
 {
     "name": "Baile",
-    "attributes": {},
+    "attributes": [
+        {
+            "entity": "Baile",
+            "attribute": "cross-referenced to the entry on Ailinn"
+        },
+        {
+            "entity": "Baile Binnbhéarlach",
+            "attribute": "sweet-spoken prince of Ulster and lover of Ailinn"
+        }
+    ],
     "entities": [
         {
-            "text": "Baile See Ailinn"
+            "entity": "Baile",
+            "type": "Person"
+        },
+        {
+            "entity": "Ailinn",
+            "type": "Person"
+        },
+        {
+            "entity": "Baile Binnbhéarlach",
+            "type": "Person"
         }
     ],
     "sources": [
@@ -11,5 +29,14 @@
     ],
     "cyphertext": "GlLV5ebnI7vZKyBZgWNhhFdOHKz-x1X45jWCRUnw3ufqW_wHTym5hKxAySdnLg==",
     "salt": "9yMmftYDoF6L8XRzFgC-EA==",
-    "text": "Baile See Ailinn."
+    "text": "The encyclopedia directs readers from Baile to the entry on Ailinn. The name belongs to Baile Binnbhéarlach, the sweet-spoken prince of Ulster who was Ailinn's lover. See Ailinn.",
+    "okr": {
+        "objective": "Cross-reference Baile to the story of Ailinn and her lover Baile Binnbhéarlach.",
+        "key_results": [
+            "The Baile entry points to the entry on Ailinn.",
+            "Baile Binnbhéarlach was a prince of Ulster.",
+            "Baile Binnbhéarlach was the lover of Ailinn."
+        ],
+        "evidence": "Monaghan 2008, s.v. 'Baile'."
+    }
 }

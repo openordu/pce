@@ -2,34 +2,50 @@
     "name": "Bademagu",
     "attributes": [
         {
-            "entity": "Lancelot",
-            "attribute": "had to fight Meleagant"
+            "entity": "Bademagu",
+            "attribute": "father of Meleagant"
         },
         {
             "entity": "Meleagant",
-            "attribute": "kidnapped queen"
+            "attribute": "king or god of the Otherworld who kidnapped Queen Guinevere"
+        },
+        {
+            "entity": "Meleagant",
+            "attribute": "held the queen and the knight Kay in the city of Gorre"
         },
         {
             "entity": "Bademagu",
-            "attribute": "kindly king"
+            "attribute": "kindly king who forced his son to return the kidnapped queen"
         }
     ],
     "entities": [
         {
-            "entity": "Lancelot",
-            "type": "character"
+            "entity": "Bademagu",
+            "type": "Person"
         },
         {
             "entity": "Meleagant",
-            "type": "character"
+            "type": "Person"
         },
         {
-            "entity": "Bademagu",
-            "type": "character"
+            "entity": "Guinevere",
+            "type": "Person"
         },
         {
-            "entity": "queen",
-            "type": "object"
+            "entity": "Lancelot",
+            "type": "Person"
+        },
+        {
+            "entity": "Gawain",
+            "type": "Person"
+        },
+        {
+            "entity": "Kay",
+            "type": "Person"
+        },
+        {
+            "entity": "Gorre",
+            "type": "Place"
         }
     ],
     "sources": [
@@ -37,5 +53,15 @@
     ],
     "cyphertext": "MvgDr-IAKY7f3T49hJY3xrsmRGEib_DGz54HKOCgp16PfpK1QCNJonazo0ZIvhuCdsUyUkWP9AQmeVqq2AE5hkZC-Dkm6I_mCviLszjam5LttkAK2e2KffedsmSZ2aj1hRqQFDGgkMGjM5XbFyCtXmI0o_KXKEGsQbjwGB7RwdJZCmYVb0uzhYy3WdqEcE5BN6m_OdFLqeagIOiU-gZbf1cHi8N4-1yF0BTQQcQjUlZt3GGcz2mpjT-VkwmnGIcD8WWDCBlT7FNdSo-fjt9G3RZV1PyVZIMsV0s7o1_fmBJfwh2CD5jSFv0pbTJDajDZjvw0d4HdBwTCPZUzb8u9vyHlQiA_plXX2biZL6rqgCLiBilKRum64HMhHn-L-iq9ic3Ue4TMyUg6RItu7E-z3aKvMDGe-PDmBtnFzHKYA_qvkcaRXtMTk-NmDOaShig_phF1XLHP3qIdZW54t2A4C82orAUPF4Nm8pSNGPRdK2VCoR8lL-9FpZwTduHDxzsdaapDe0GZWt19-dRJpHH7nceXwewZdQeHGCGdWMgOfNQoHC7gFm2sUnyh7zR2vPypVVPdfDmKwWeB4I6mbmVwheMs9Fo0WSJqRciSmwUGuaaN5nnQhaLuW5L1mI430fNvc41EJ_swhsTULGaXERXlnqkKaw_IK1wYKraVmkKsz7u1n9gsa1YwjlHE0cNVuIZESN8i8C4q7LhYvvCNVUdEhhRnu1QP1UJlQPwKoZJdmKYpq9iq5B412shTsa-ORcjw1qKAqRCtyV7T9bLfc94a0ij6XyaAZX3PV4JLNjFmWzJ_dHALXnCWlKn0emAQLx9cHMeDx7dPAUQque2NKgYuWBkogdJ8dhKPzAR77ICF35g1TXyYGrDhAn5dCc0uCq-soRLV3uCivv4288PLHe0BVNyLUXC1_hROHUIR9AIDZrKqM-AY8HEcgx7Kt5QmI7Ubtqym7YUVng0WT9uM5oJW1OBu9xn6xF_VI7tB3eSDo4U5Xf90pE0M1w3XXHcP5ZiCKmFreEVlfRu4dOdenl_Dl6zUQ99lryCjzqykVScEu7mk4fwY6GxRkHs1Vhu6orgDWRlTfMIpfVw2TOLb40s_49zIM_yE3ShNuKR9BJFwLZNOhbXTMXhltN5xhjCAbbeKUpu8pI0jdJHBRtRH1UT26UMIje2BR9lYnTznEJDMh5_VLe--F9mjcHS0LPmrWAYLdOZO3J2QahlnPpOG6E2NF4-UF3FbhSWH9bLq49VIgH2QodKYUHCOlCGKXD89BgJanhpio22dDuSvJFnWsdkhGBTeXA==",
     "salt": "-2-OERzT1aHuA6vbsZ-aag==",
-    "text": "In one of the lesser-known tales of the Arthurian cycle, an Arthurian hero named Bademagu (Maelwas) was the father of Meleagant. Meleagant, who was the king or god of the Otherworld, had abducted queen Guinevere, with the intention of making her his consort. Kay, the knight, followed the kidnapped queen but was himself taken hostage because he could not win her escape. Therefore, Lancelot, the queen's beloved, had to locate and release the hostages. He was accompanied by the pure knight Gawain. However, the place where the hostages were kept in the city of Gorre was hard to find. When they got there, the heroes had to cross a dangerous and tumultuous river. There were two ways to cross; one was through a sword-sharp bridge, and the other was through an underwater route, which was safer. Gawain chose the latter option while Lancelot, eager for Guinevere, chose the upper bridge and was grievously wounded. In his injured state, Lancelot had to fight Meleagant. King Bademagu, Meleagant's father, a kind man, compelled his son to return the kidnapped queen."
+    "text": "Bademagu is an Arthurian hero, also called Maelwas. He was the father of Meleagant, the king or god of the Otherworld. Meleagant carried off Queen Guinevere and meant to force her to become his consort. He held her, and the knight Kay, in the city of Gorre.\n\nLancelot, the queen's beloved, set out to free them. The knight Gawain accompanied him. The road to Gorre crossed a turbulent river. Gawain took a safer underwater route. Lancelot raced across a sword-sharp upper bridge and was deeply wounded. In that state Lancelot fought Meleagant. Bademagu, a kindly king, forced his son to return the kidnapped queen.",
+    "okr": {
+        "objective": "Describe Bademagu, the Arthurian king who compelled his son to restore the kidnapped Queen Guinevere.",
+        "key_results": [
+            "Bademagu was the father of Meleagant, the Otherworld king who carried off Queen Guinevere.",
+            "Meleagant held the queen and the knight Kay in the city of Gorre.",
+            "Lancelot and Gawain crossed a turbulent river to reach the captives.",
+            "Bademagu forced Meleagant to return the kidnapped queen."
+        ],
+        "evidence": "Monaghan 2008, s.v. 'Bademagu'."
+    }
 }

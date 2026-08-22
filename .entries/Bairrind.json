@@ -3,25 +3,45 @@
     "attributes": [
         {
             "entity": "Bairrind",
-            "attribute": "wife of Bith"
+            "attribute": "sailed to Ireland among Cesair's fifty women"
+        },
+        {
+            "entity": "Bith",
+            "attribute": "took Bairrind as his primary bride"
+        },
+        {
+            "entity": "Cesair",
+            "attribute": "led the flight of fifty women and three men from the biblical Flood"
         },
         {
             "entity": "Bairrind",
-            "attribute": "activities parallel Cesair"
+            "attribute": "paired with Bith in parallel to the goddesses Banba, Fódla, and Ériu"
         }
     ],
     "entities": [
         {
             "entity": "Bairrind",
-            "type": "Irish heroine"
-        },
-        {
-            "entity": "Bith",
-            "type": "early invader"
+            "type": "Person"
         },
         {
             "entity": "Cesair",
-            "type": "important"
+            "type": "Person"
+        },
+        {
+            "entity": "Bith",
+            "type": "Person"
+        },
+        {
+            "entity": "Fintan",
+            "type": "Person"
+        },
+        {
+            "entity": "Ladra",
+            "type": "Person"
+        },
+        {
+            "entity": "Book of Invasions",
+            "type": "Title"
         }
     ],
     "sources": [
@@ -29,5 +49,14 @@
     ],
     "cyphertext": "uwsDwcN7GuJELqdsB678R9dR841HOxPbkukFTIEBrw-UrMPAePKJlrhSYNiQxtqxVqZmG_sRgqK9OzZwGHA7zUxaOAkaoqoG2LG3p-GZ3XBkL52QNUptyewqX7RTKFhUsmwzQkKoUlEtct-HqRuKz6Jv2ztRGir5hcP32xLalQC1NOpijXOumP9dar6bPWKiQkqbrWi5XQkLByL0QDBnQdeTou6pEQHUp7hM_MppGOMgn6aU",
     "salt": "GY3R8mGtpd-WlxzDDUfuhA==",
-    "text": "Irish heroine Bairrind, though not as prominent as Cesair, is known as the wife of early invader Bith and is noteworthy for her similar pursuits."
+    "text": "Bairrind is an Irish mythological being. She was one of the women who traveled to Ireland with Cesair. Cesair fled the biblical Flood and arrived before the waters covered the earth. Three men sailed with the fifty women. In the Book of Invasions, Bith took Bairrind as his primary bride. So paired, Bith and Bairrind echoed the better-known trio of the goddesses Banba, Fódla, and Ériu.",
+    "okr": {
+        "objective": "Describe Bairrind, the companion of Cesair and wife of the early invader Bith.",
+        "key_results": [
+            "Bairrind sailed to Ireland among Cesair's fifty women.",
+            "Bith took Bairrind as his primary bride in the Book of Invasions.",
+            "Bith and Bairrind paralleled the trio of Banba, Fódla, and Ériu."
+        ],
+        "evidence": "Monaghan 2008, s.v. 'Bairrind'."
+    }
 }
