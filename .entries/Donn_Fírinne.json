@@ -1,57 +1,58 @@
 {
-    "name": "Donn F\u00edrinne",
-    "attributes": [
-        {
-            "entity": "Donn F\u00edrinne",
-            "attribute": "Kidnapped mortal women"
-        },
-        {
-            "entity": "Donn",
-            "attribute": "Obscure Otherworld king of the dead"
-        }
-    ],
-    "entities": [
-        {
-            "entity": "Donn F\u00edrinne",
-            "type": "Fairy king"
-        },
-        {
-            "entity": "Knockfierna",
-            "type": "Mountain"
-        },
-        {
-            "entity": "Cnoc F\u00edrinne",
-            "type": "Hill"
-        },
-        {
-            "entity": "Co. Limerick",
-            "type": "County"
-        },
-        {
-            "entity": "S\u00eddhe",
-            "type": "Fairy palace"
-        },
-        {
-            "entity": "Ireland",
-            "type": "Country"
-        },
-        {
-            "entity": "Tuatha D\u00e9 Danann",
-            "type": "Magical race"
-        },
-        {
-            "entity": "Otherworld",
-            "type": "Kingdom"
-        },
-        {
-            "entity": "Donn",
-            "type": "King of the dead"
-        }
-    ],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "cyphertext": "RQisFhVpPTDGo83izN6J9JEgIWM8EEQ4lDH8r7SvLXFDG-kvE98-aiXFPvBHjSYL5wKcrWvdi9fserGQcGY6ei8d7RjiGBwCkqGrFyfTvU2js8aB9hUBkJa_iNhcKKTwRnIGQh6-4GUhgRlH7fgjBhmLAL16NXGU2wpiX89LrgjR4x4CcbzkgutlFPedAZDq_xS8Ze73V8Q9cqveELcbZ9-rlPA1h1IbLLfRYHObYOYtVNYQKAgmDFfP8Sgt0-TVNBdjHatlHbImpJ4_s7ZEVgmOUKLgFEhO_b3wV3cf0qTu7EP0Ns8kT7Obhj85zdTUE49NVgRB902f1_Dlk7ZwrhkBBi2j-76YgaM4aSgdIdVJJA1OjK0LHLfWFhJRz5g_Ubh-siOvK5fK9mG7I4JkFSM3-xABcWuEbWLWsPG7VPAuWB8FJwbSiy811Yfik7E7N72S8Cmbp6bR3czy4VSoDnlf-Qj4XTWbtWAHH_NfBuA0Pzt0FeRb5-4UHDsScQRWD55onNqZKAkayHkTfeqUAc2ZayXB_VYmvDLoTiBsyAMVU1wjPcfsy1YPH5uh-xiUeFznStblBXy2BKjiz1wsn9vMrychJtGq0owerUPaSUWdl5MvWWVJ3cGBa1Hh-xYz2h8DK9j_YEVljq7pNmiaS9IjG6VtXL00gBHGGvfGAvl1",
-    "salt": "wEjMREWKp8DY8fqDXgeZrw==",
-    "text": "Irish legend tells of a renowned fairy ruler named Donn F\u00edrinne, who reigned over the magical Tuatha D\u00e9 Danann. His palace, or S\u00eddhe, was nestled within the mountain of Knockfierna (also known as Cnoc F\u00edrinne) located in Co. Limerick. In local folklore, Donn F\u00edrinne was famous for abducting mortal women to join him in his fairy revelries. Given that these women were never again seen above ground, some speculate that Donn F\u00edrinne may have been linked to the enigmatic king of the dead in Irish myth known as Donn."
+  "name": "Donn Fírinne",
+  "attributes": [
+    {
+      "entity": "Donn Fírinne",
+      "attribute": "king of Ireland's magical race, the Tuatha Dé Danann"
+    },
+    {
+      "entity": "Donn Fírinne",
+      "attribute": "lived in a fairy palace inside Knockfierna mountain"
+    },
+    {
+      "entity": "Donn Fírinne",
+      "attribute": "one of the best-known fairy kings of Ireland"
+    },
+    {
+      "entity": "Donn Fírinne",
+      "attribute": "kidnapped mortal women for his fairy dances"
+    }
+  ],
+  "entities": [
+    {
+      "entity": "Donn Fírinne",
+      "type": "Irish fairy king"
+    },
+    {
+      "entity": "Knockfierna",
+      "type": "place"
+    },
+    {
+      "entity": "Tuatha Dé Danann",
+      "type": "mythological race"
+    },
+    {
+      "entity": "sídhe",
+      "type": "concept"
+    },
+    {
+      "entity": "Donn",
+      "type": "Irish god"
+    }
+  ],
+  "sources": [
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+  ],
+  "cyphertext": "RQisFhVpPTDGo83izN6J9JEgIWM8EEQ4lDH8r7SvLXFDG-kvE98-aiXFPvBHjSYL5wKcrWvdi9fserGQcGY6ei8d7RjiGBwCkqGrFyfTvU2js8aB9hUBkJa_iNhcKKTwRnIGQh6-4GUhgRlH7fgjBhmLAL16NXGU2wpiX89LrgjR4x4CcbzkgutlFPedAZDq_xS8Ze73V8Q9cqveELcbZ9-rlPA1h1IbLLfRYHObYOYtVNYQKAgmDFfP8Sgt0-TVNBdjHatlHbImpJ4_s7ZEVgmOUKLgFEhO_b3wV3cf0qTu7EP0Ns8kT7Obhj85zdTUE49NVgRB902f1_Dlk7ZwrhkBBi2j-76YgaM4aSgdIdVJJA1OjK0LHLfWFhJRz5g_Ubh-siOvK5fK9mG7I4JkFSM3-xABcWuEbWLWsPG7VPAuWB8FJwbSiy811Yfik7E7N72S8Cmbp6bR3czy4VSoDnlf-Qj4XTWbtWAHH_NfBuA0Pzt0FeRb5-4UHDsScQRWD55onNqZKAkayHkTfeqUAc2ZayXB_VYmvDLoTiBsyAMVU1wjPcfsy1YPH5uh-xiUeFznStblBXy2BKjiz1wsn9vMrychJtGq0owerUPaSUWdl5MvWWVJ3cGBa1Hh-xYz2h8DK9j_YEVljq7pNmiaS9IjG6VtXL00gBHGGvfGAvl1",
+  "salt": "wEjMREWKp8DY8fqDXgeZrw==",
+  "text": "Donn Fírinne was an Irish fairy king. He ruled within Knockfierna mountain in County Limerick. The mountain is Cnoc Fírinne, the hill of Fírinne. Inside sat his fairy palace, the sídhe. He belonged to the fairy race, the Tuatha Dé Danann. He was one of the best-known fairy kings of Ireland. He sometimes kidnapped mortal women. The women joined his fairy dances. They never appeared in the surface world again. He may connect to Donn, the obscure king of the dead.",
+  "objective": "Records Donn Fírinne, a Tuatha Dé Danann fairy king who ruled from a palace inside Knockfierna and kidnapped mortal women.",
+  "key_results": [
+    "Donn Fírinne was a fairy king within Knockfierna mountain in County Limerick.",
+    "He belonged to the Tuatha Dé Danann, Ireland's magical race.",
+    "He was one of the best-known fairy kings of the land.",
+    "He sometimes kidnapped mortal women, who were never seen again on the surface.",
+    "He may be connected to Donn, the obscure king of the dead."
+  ],
+  "evidence": "Monaghan (Donn Fírinne)"
 }

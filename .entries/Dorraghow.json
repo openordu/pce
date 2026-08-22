@@ -1,69 +1,54 @@
 {
-    "name": "Dorraghow",
-    "attributes": [
-        {
-            "entity": "dove",
-            "attribute": "Symbolic bird"
-        },
-        {
-            "entity": "dove",
-            "attribute": "Associated with Healing"
-        },
-        {
-            "entity": "dove",
-            "attribute": "Associated with Oracles"
-        },
-        {
-            "entity": "Celts",
-            "attribute": "Continental and British"
-        },
-        {
-            "entity": "Celts",
-            "attribute": "Associated with dove"
-        },
-        {
-            "entity": "ill",
-            "attribute": "Eager for insight into the future"
-        }
-    ],
-    "entities": [
-        {
-            "entity": "Dorraghow",
-            "type": "Location"
-        },
-        {
-            "entity": "Dobharch\u00fa",
-            "type": "Animal"
-        },
-        {
-            "entity": "continental",
-            "type": "Location"
-        },
-        {
-            "entity": "British",
-            "type": "Location"
-        },
-        {
-            "entity": "Celts",
-            "type": "Culture"
-        },
-        {
-            "entity": "dove",
-            "type": "Animal"
-        },
-        {
-            "entity": "Healing",
-            "type": "Concept"
-        },
-        {
-            "entity": "Oracles",
-            "type": "Concept"
-        }
-    ],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "cyphertext": "8Si-imVKEr_p2Qmo7tFm3pZJRzRAtuEZh6oRaMNI5oluj_C-oGqz4VAdSH1K8OJVqResSXryG1Dah3JJg0fzWe7UpDs3cG1-GsgsbZLDfgJK40QrNJ3u9xR2p2hQny-V1vJ8ltt-iDuOTAP5j6vLh-nXGKkvmFlrV4r6IMqupe_yYgelsrn7wG57LRJ0P7tDSgIGDdvmVpr7PSujS8YcidFTEpQ300U31IOdSFvtcBijnl4dGcsDsAixUK937gxnXs7BbcqUrZhqI3BPopTksPBXoBTGQ5uvpGn5yHacWFFqrtJduEZrxvBHdCJAyZPh5aQ4n15wgVBniuw06uhpg6zQRHzJS7_c",
-    "salt": "cIgP7sXM-LhNMKue5HUpgw==",
-    "text": "Dorraghow does not introduce the topic and instead dives right in, discussing the symbol of the dove among the continental and British Celts. The dove was viewed symbolically, representing both healing and oracles. This connection between the dove and oracles may have arisen because the sick often seek insight into the future."
+  "name": "Dorraghow",
+  "attributes": [
+    {
+      "entity": "Dobharchú",
+      "attribute": "unsleeping black-and-white striped king of the otters"
+    },
+    {
+      "entity": "Dobharchú",
+      "attribute": "supernatural being who hunted and killed humans"
+    },
+    {
+      "entity": "Dobharchú",
+      "attribute": "vulnerable only to silver bullets"
+    },
+    {
+      "entity": "Dobharchú",
+      "attribute": "a successful hunter usually died within a day"
+    },
+    {
+      "entity": "Dobharchú",
+      "attribute": "even a small piece of his hide protected its holder from drowning"
+    }
+  ],
+  "entities": [
+    {
+      "entity": "Dobharchú",
+      "type": "Irish folkloric figure"
+    },
+    {
+      "entity": "McMurrows",
+      "type": "family"
+    },
+    {
+      "entity": "silver bullet",
+      "type": "object"
+    }
+  ],
+  "sources": [
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+  ],
+  "cyphertext": "8Si-imVKEr_p2Qmo7tFm3pZJRzRAtuEZh6oRaMNI5oluj_C-oGqz4VAdSH1K8OJVqResSXryG1Dah3JJg0fzWe7UpDs3cG1-GsgsbZLDfgJK40QrNJ3u9xR2p2hQny-V1vJ8ltt-iDuOTAP5j6vLh-nXGKkvmFlrV4r6IMqupe_yYgelsrn7wG57LRJ0P7tDSgIGDdvmVpr7PSujS8YcidFTEpQ300U31IOdSFvtcBijnl4dGcsDsAixUK937gxnXs7BbcqUrZhqI3BPopTksPBXoBTGQ5uvpGn5yHacWFFqrtJduEZrxvBHdCJAyZPh5aQ4n15wgVBniuw06uhpg6zQRHzJS7_c",
+  "salt": "cIgP7sXM-LhNMKue5HUpgw==",
+  "text": "This entry points to Dobharchú, also written Dorraghow, Dobharchu, or Otter King. Dobharchú is an Irish folkloric figure. He was the unsleeping king of the otters. He had black-and-white stripes. He was a supernatural being who hunted and killed humans. He was hard to kill. He was vulnerable only to silver bullets. Hunting him was dangerous. A successful hunter often died within a day. Some still took the risk. The king otter's hide was valuable. Even a small piece of the hide kept its holder from drowning. Merchants sold bits of ordinary otter fur into historical times. The fur went to sailors. Sailors had great need of protection from death by water. Several families claimed descent from otters. The McMurrows were the most notable.",
+  "objective": "Records the Dobharchú (Dorraghow), the king otter whose hide protected from drowning and whose killing brought danger.",
+  "key_results": [
+    "Dorraghow is a cross-reference to the Dobharchú, the Otter King.",
+    "The Dobharchú was a black-and-white striped supernatural otter that hunted humans.",
+    "Only silver bullets could kill him, and a successful hunter often died within a day.",
+    "Even a small piece of his hide protected the holder from drowning.",
+    "The McMurrows famously claimed descent from otters."
+  ],
+  "evidence": "Monaghan (Dorraghow → DOBHARCHÚ)"
 }
