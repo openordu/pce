@@ -1,41 +1,50 @@
 {
-    "name": "Corann",
-    "entities": [
-        {
-            "entity": "Corann",
-            "type": "Irish heroine or goddess"
-        },
-        {
-            "entity": "Co. Sligo",
-            "type": "location"
-        }
+  "name": "Corann",
+  "entities": [
+    {
+      "entity": "Cox",
+      "type": "mythological figure"
+    },
+    {
+      "entity": "hunting dogs",
+      "type": "animal"
+    },
+    {
+      "entity": "wild boar",
+      "type": "animal"
+    },
+    {
+      "entity": "mound",
+      "type": "artifact"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Coran",
+      "attribute": "an Irish heroine or goddess"
+    },
+    {
+      "entity": "Coral",
+      "attribute": "gave a name to a woodland"
+    },
+    {
+      "entity": "wild boar",
+      "attribute": "killed her hunting dogs"
+    }
+  ],
+  "sources": [
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+  ],
+  "cyphertext": "snjCAiLSluki1mHDMK_p5m6QdJMia_gFAEdxOPEiof0PgQ8RGqDvJzgi9QqKEYBHgYRFbQ9Fa0FDy2PAxcNeOWY5m0rL0myM2KFElzAoNYqO3SW4c1gJYDk3x8BYbSs0JfzM7BF1EctH44tkNHwP4m53RSaUJvilMDkuYOPxSpsWg0WL9sHqI0xegC43zZIuY3793DQ8gfxsE72-gLoF4W77151O8nxE4o0w2fuuPT5mjXyEAxo7vQmv341MLaBA_34l_UPipMbkvuwhsU4nhqwsr-fsKBH04ilBd5AuPJTidAJjGEgMjDxA5LAzqrz2JxTfVyUoFx_Na0q32zV8gbYrsH9PKRJjB-wpmp2ByXtSorL1wlos3iXw5sxGYQ==",
+  "salt": "_vOEEn3O9umZ6Gbza_PHZA==",
+  "text": "Coran is an Irish heroine or goddess. She is not well known. Her name marks a wooded region in the north-west of Ireland. When a wild boar killed some of her hunting dogs, she buried them and raised a mound over them.",
+  "okr": {
+    "objective": "Corann is an Irish heroine tied to a woodland and a mound.",
+    "key_results": [
+      "She is an Irish heroine or goddess.",
+      "A wooded region bears her name.",
+      "She buried her dogs slain by a boar and made a mound."
     ],
-    "attributes": [
-        {
-            "entity": "Corann",
-            "attribute": "Irish heroine or goddess"
-        },
-        {
-            "entity": "Co. Sligo",
-            "attribute": "wooded region in Ireland's northwest"
-        },
-        {
-            "entity": "hunting dogs",
-            "attribute": "favorite"
-        },
-        {
-            "entity": "wild Boar",
-            "attribute": "killed hunting dogs"
-        },
-        {
-            "entity": "ceremonial mound",
-            "attribute": "raised over buried hunting dogs"
-        }
-    ],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "cyphertext": "snjCAiLSluki1mHDMK_p5m6QdJMia_gFAEdxOPEiof0PgQ8RGqDvJzgi9QqKEYBHgYRFbQ9Fa0FDy2PAxcNeOWY5m0rL0myM2KFElzAoNYqO3SW4c1gJYDk3x8BYbSs0JfzM7BF1EctH44tkNHwP4m53RSaUJvilMDkuYOPxSpsWg0WL9sHqI0xegC43zZIuY3793DQ8gfxsE72-gLoF4W77151O8nxE4o0w2fuuPT5mjXyEAxo7vQmv341MLaBA_34l_UPipMbkvuwhsU4nhqwsr-fsKBH04ilBd5AuPJTidAJjGEgMjDxA5LAzqrz2JxTfVyUoFx_Na0q32zV8gbYrsH9PKRJjB-wpmp2ByXtSorL1wlos3iXw5sxGYQ==",
-    "salt": "_vOEEn3O9umZ6Gbza_PHZA==",
-    "text": "Obscure as she may be, Corann is a name that resonates in the wooded area of Co. Sligo in the northwest of Ireland. She is either a heroine or goddess who mourned the loss of some of her beloved hunting dogs that were hunted down by a wild boar. With due respect, she opted to bury them and raise a ceremonial mound as a tribute to honor their memory."
+    "evidence": "Monaghan, Encyclopedia of Celtic Mythology and Folklore"
+  }
 }

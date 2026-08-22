@@ -1,15 +1,37 @@
 {
-    "name": "Cooley",
-    "attributes": {},
-    "entities": [
-        {
-            "text": "Cooley See Cuailnge"
-        }
+  "name": "Cooley",
+  "entities": [
+    {
+      "entity": "Cooley",
+      "type": "location"
+    },
+    {
+      "entity": "Cuailnge",
+      "type": "location"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Cooley",
+      "attribute": "pointed to Cuailnge in the index"
+    },
+    {
+      "entity": "Cuailnge",
+      "attribute": "the fuller entry"
+    }
+  ],
+  "sources": [
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+  ],
+  "cyphertext": "d_aqbwO3d6aQSykElPrzDJvk_386EqbnEaI-Bog8O8qzuvtm_vTjpLTBgDSk1pCAvQ==",
+  "salt": "sbSXKbzfkYBZdcBpczuqPw==",
+  "text": "Cooley is a name in the index of the work. The line points the reader to the entry Cuailnge. The figure of Cuailnge carries the fuller telling.",
+  "okr": {
+    "objective": "Cooley is an index term for Cuailng.",
+    "key_results": [
+      "The index links Cooley to Cuailnge.",
+      "Cuailnge holds the fuller account."
     ],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "cyphertext": "d_aqbwO3d6aQSykElPrzDJvk_386EqbnEaI-Bog8O8qzuvtm_vTjpLTBgDSk1pCAvQ==",
-    "salt": "sbSXKbzfkYBZdcBpczuqPw==",
-    "text": "Cooley See Cuailnge."
+    "evidence": "Monaghan, Encyclopedia of Celtic Mythology and Folklore"
+  }
 }

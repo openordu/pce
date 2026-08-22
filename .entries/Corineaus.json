@@ -1,41 +1,42 @@
 {
-    "name": "Corineaus",
-    "entities": [
-        {
-            "entity": "Corineaus",
-            "type": "British hero"
-        },
-        {
-            "entity": "Gog",
-            "type": "monstrous Giant"
-        },
-        {
-            "entity": "Gogmagog",
-            "type": "monstrous Giant"
-        }
+  "name": "Corineaus",
+  "entities": [
+    {
+      "entity": "Corineaus",
+      "type": "hero"
+    },
+    {
+      "entity": "Gogmagog",
+      "type": "mythological creature"
+    },
+    {
+      "entity": "Gog",
+      "type": "mythological creature"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Corineaus",
+      "attribute": "defeated the giant Gogmagog"
+    },
+    {
+      "entity": "Gogmagog",
+      "attribute": "was slain by Corineaus"
+    }
+  ],
+  "sources": [
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+  ],
+  "cyphertext": "uCnxiZWAURHjwrNemq-eEl7O-08e_avJyHNeCp9dunMkklGtgA_KhHDO2u--A0zOXAjYGh0zJNETEArd-YNXCQMJkVZLKLBvQR3oQ6BvwYm-Ym9f1Mh6vmLZNsmhUnPRWHj2kCeSqWuryreP5gazF6luyFFndscN1K4bfcsd1EtSmtjLUk12vswSa3AwgD596ZiJABST6FMFeQ==",
+  "salt": "mqTdcrTxEiCdjvlBwXk2ig==",
+  "text": "Corineaus is a hero of British legend. He fought and defeated the giant named Gog or Gogmagog. Little else is recorded of him. His chief deed is the slaying of the monster.",
+  "okr": {
+    "objective": "Corineaus is a British hero who slew a giant.",
+    "key_results": [
+      "He defeated the giant called Gog or Gogmagog.",
+      "He was an ancient British warrior.",
+      "Little else is known of him."
     ],
-    "attributes": [
-        {
-            "entity": "Corineaus",
-            "attribute": "British hero"
-        },
-        {
-            "entity": "Gog",
-            "attribute": "monstrous"
-        },
-        {
-            "entity": "Gogmagog",
-            "attribute": "monstrous"
-        },
-        {
-            "entity": "Gogmagog",
-            "attribute": "defeated by Corineaus"
-        }
-    ],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "cyphertext": "uCnxiZWAURHjwrNemq-eEl7O-08e_avJyHNeCp9dunMkklGtgA_KhHDO2u--A0zOXAjYGh0zJNETEArd-YNXCQMJkVZLKLBvQR3oQ6BvwYm-Ym9f1Mh6vmLZNsmhUnPRWHj2kCeSqWuryreP5gazF6luyFFndscN1K4bfcsd1EtSmtjLUk12vswSa3AwgD596ZiJABST6FMFeQ==",
-    "salt": "mqTdcrTxEiCdjvlBwXk2ig==",
-    "text": "A legendary figure highly esteemed by the British, Corineaus is credited with the vanquishing of a colossal creature called Gog or Gogmagog. The information available about this valiant warrior is scarce."
+    "evidence": "Monaghan, Encyclopedia of Celtic Mythology and Folklore"
+  }
 }

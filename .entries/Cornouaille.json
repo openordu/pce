@@ -1,52 +1,33 @@
 {
-    "name": "Cornouaille",
-    "attributes": [
-        {
-            "entity": "Cornouaille Breton mythological site",
-            "attribute": "famous in myth and legend as the home of the dissolute princess Dahut"
-        },
-        {
-            "entity": "Tristan",
-            "attribute": "brought the fair Iseult at the beginning of one of Brittany\u2019s most romantic tales"
-        },
-        {
-            "entity": "Iseult",
-            "attribute": "fair"
-        },
-        {
-            "entity": "Brittany",
-            "attribute": "romantic"
-        }
+  "name": "Cornouaille",
+  "entities": [
+    {
+      "entity": "Cornouaille",
+      "type": "place"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Cornouaille",
+      "attribute": "a kingdom of Brittany"
+    }
+  ],
+  "sources": [
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+  ],
+  "cyphertext": "Ug8rSNsiLwNnC56yYvHDFVPz86lAbw3-GikTiAws_a1w8IDG9iUocc9y7Ytyaqm30bNusLVEoIjUMDBtfgLH2c-ioR8_Bxe2A5NNoJlzRJXwYx0L-0lK7D_HlYjdKqyMIxYENmzvqfrbXSgmzm0GE3eI8WZhjr414DwnVJaqOGAVkhEX7GrM6K_jq2EwaHfSe6iWoyctEWEBBA8fhCJ_HkKVUqf1NX_SIM3jUqyd47Ep2YwpTUgsb9yGpYSov3YSWYyEkEFA-OwGdOrnGV9ykF9WNOZ9ROxpbvC4R_859tVs58IXqKRG0br7yJC3ubYBt0--0hretwzVG-YIqMSg1Lw80T2eepPJDD_CSHDhWB2Hg6BaA6Dl7LcEgaU=",
+  "salt": "TSJBEmxt-djr1iWHMsyT2Q==",
+  "text": "Cornouaille is a Breton mythological site. It was a kingdom of Brittany famous in myth and legend. Its name and its tales mark it as a center of Celtic story.",
+  "okr": {
+    "objective": "Cornouaille is a famed Breton mythological kingdom.",
+    "key_results": [
+      "It was a kingdom of Brittany.",
+      "It was famous in myth and legend.",
+      "It stands in the Celtic story world."
     ],
-    "entities": [
-        {
-            "entity": "Cornouaille Breton mythological site",
-            "type": "Location"
-        },
-        {
-            "entity": "princess Dahut",
-            "type": "Person"
-        },
-        {
-            "entity": "Tristan",
-            "type": "Person"
-        },
-        {
-            "entity": "Iseult",
-            "type": "Person"
-        },
-        {
-            "entity": "Brittany",
-            "type": "Location"
-        }
-    ],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "image": [
-        "https://upload.wikimedia.org/wikipedia/commons/8/8e/Map-Bro-Gernev.png"
-    ],
-    "cyphertext": "Ug8rSNsiLwNnC56yYvHDFVPz86lAbw3-GikTiAws_a1w8IDG9iUocc9y7Ytyaqm30bNusLVEoIjUMDBtfgLH2c-ioR8_Bxe2A5NNoJlzRJXwYx0L-0lK7D_HlYjdKqyMIxYENmzvqfrbXSgmzm0GE3eI8WZhjr414DwnVJaqOGAVkhEX7GrM6K_jq2EwaHfSe6iWoyctEWEBBA8fhCJ_HkKVUqf1NX_SIM3jUqyd47Ep2YwpTUgsb9yGpYSov3YSWYyEkEFA-OwGdOrnGV9ykF9WNOZ9ROxpbvC4R_859tVs58IXqKRG0br7yJC3ubYBt0--0hretwzVG-YIqMSg1Lw80T2eepPJDD_CSHDhWB2Hg6BaA6Dl7LcEgaU=",
-    "salt": "TSJBEmxt-djr1iWHMsyT2Q==",
-    "text": "A site of Cornouaille Breton mythology is renowned for being the homeland of the dissolute princess Dahut, as well as the land where the fair Iseult was taken by Tristan in one of Brittany's most romantic tales."
+    "evidence": "Monaghan, Encyclopedia of Celtic Mythology and Folklore"
+  },
+  "image": [
+    "https://upload.wikimedia.org/wikipedia/commons/8/8e/Map-Bro-Gernev.png"
+  ]
 }

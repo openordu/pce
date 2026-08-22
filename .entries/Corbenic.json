@@ -1,44 +1,54 @@
 {
-    "name": "Corbenic",
-    "entities": [
-        {
-            "entity": "Corbenic",
-            "type": "Arthurian site"
-        },
-        {
-            "entity": "castle",
-            "type": "building"
-        },
-        {
-            "entity": "Fisher King",
-            "type": "character"
-        },
-        {
-            "entity": "Latin words",
-            "type": "language"
-        }
+  "name": "Corbenic",
+  "entities": [
+    {
+      "entity": "Corbenic",
+      "type": "place"
+    },
+    {
+      "entity": "Brisen",
+      "type": "character"
+    },
+    {
+      "entity": "Lancelot",
+      "type": "hero"
+    },
+    {
+      "entity": "Guinevere",
+      "type": "character"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Brisen",
+      "attribute": "tricked Lancelot at Corbenic"
+    },
+    {
+      "entity": "Lancelot",
+      "attribute": "was deceived by Brisen"
+    },
+    {
+      "entity": "Corbenic",
+      "attribute": "was the site of the trick"
+    }
+  ],
+  "sources": [
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+  ],
+  "cyphertext": "2EwubB6eARpgnEx7kuKpZimpDvUD_pPkdy1wCE3X0f5i-RN5aKCD9MuH4yVqowVAJ5lTpv03rh9aDP148P1jHXdQKnw2r4G4l2x8EPnwC0P-wRzjTgGS1LABWGaxKdLgoA_yJhwxf98EwvUbPtiG7X725dcTLNv3GsY1rv7edBqPfOHDQzT4qr_ewqDTwKJAu0JOLQwHDw==",
+  "salt": "vZrIe8CkelfaqsdkH-npgg==",
+  "text": "Corbenic is a place in Arthurian legend. The magician Brisen used it to test Lancelot. She made Lancelot drunk and told him the queen waited in a secret chamber. He entered and met a beautiful woman instead. Brisen meant the trick as a kindness to her friend, who loved Lancelot. The night passed as an illusion. Lancelot learned of the ruse when he woke.",
+  "okr": {
+    "objective": "Corbenic is the place where Brisen tricked Lancelot.",
+    "key_results": [
+      "Brisen made Lancelot drunk at Corbenic.",
+      "A beautiful woman waited in a secret chamber.",
+      "Lancelot spent a blissful night there.",
+      "He learned of the trick when he woke."
     ],
-    "attributes": [
-        {
-            "entity": "castle",
-            "attribute": "name"
-        },
-        {
-            "entity": "Fisher King",
-            "attribute": "possible origin of name"
-        },
-        {
-            "entity": "Latin words",
-            "attribute": "possible origin of name"
-        }
-    ],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "image": [
-        "https://upload.wikimedia.org/wikipedia/commons/6/60/The_Castle_of_Carboneck.png"
-    ],
-    "cyphertext": "2EwubB6eARpgnEx7kuKpZimpDvUD_pPkdy1wCE3X0f5i-RN5aKCD9MuH4yVqowVAJ5lTpv03rh9aDP148P1jHXdQKnw2r4G4l2x8EPnwC0P-wRzjTgGS1LABWGaxKdLgoA_yJhwxf98EwvUbPtiG7X725dcTLNv3GsY1rv7edBqPfOHDQzT4qr_ewqDTwKJAu0JOLQwHDw==",
-    "salt": "vZrIe8CkelfaqsdkH-npgg==",
-    "text": "Arthurian legend attributes the name of the castle of the Fisher King to the Latin phrase, \"blessed body.\" The site in question is that of Corbenic."
+    "evidence": "Monaghan, Encyclopedia of Celtic Mythology and Folklore"
+  },
+  "image": [
+    "https://upload.wikimedia.org/wikipedia/commons/6/60/The_Castle_of_Carboneck.png"
+  ]
 }

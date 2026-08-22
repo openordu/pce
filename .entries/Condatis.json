@@ -1,33 +1,38 @@
 {
-    "name": "Condatis",
-    "attributes": [
-        {
-            "entity": "Condatis",
-            "attribute": "British god"
-        },
-        {
-            "entity": "shrines",
-            "attribute": "situated at the confluence of Rivers"
-        },
-        {
-            "entity": "minor water deity Condatis",
-            "attribute": "situated at the confluence of Rivers"
-        }
+  "name": "Condatis",
+  "entities": [
+    {
+      "entity": "Condatis",
+      "type": "god"
+    },
+    {
+      "entity": "confluence of rivers",
+      "type": "location"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Condatis",
+      "attribute": "a British water deity"
+    },
+    {
+      "entity": "Condatis",
+      "attribute": "worshipped at river confluences"
+    }
+  ],
+  "sources": [
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+  ],
+  "cyphertext": "W0YVfald5eBzLY0UzIAjxx1Gf484_jtiPrFLF92zQpZZJmA9w_cpr7rX2yxuzl7PuKgiu6MHvSqyKa7eHiZwXAlutQlRuQq452eNU6Jd7BYmeE5iVvutNv52s_YWsNmHbP7TpGLlfyCqYffYk4jVmzwYuPNOIuHmfyGtNPV3psVEhZg-DW17_8VWCQ==",
+  "salt": "KGw0knx8rIQUaLtFq4k2LQ==",
+  "text": "Condatis is a British god. He was a minor water deity. His shrines stood at the point where rivers meet. The meeting of rivers was his sacred ground.",
+  "okr": {
+    "objective": "Condatis is a British water god whose shrines rose at river junctions.",
+    "key_results": [
+      "Condatis is a minor British water god.",
+      "His shrines sat at the confluence of rivers.",
+      "His cult was tied to the joining of waters."
     ],
-    "entities": [
-        {
-            "entity": "Condatis",
-            "type": "deity"
-        },
-        {
-            "entity": "Rivers",
-            "type": "geographic feature"
-        }
-    ],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "cyphertext": "W0YVfald5eBzLY0UzIAjxx1Gf484_jtiPrFLF92zQpZZJmA9w_cpr7rX2yxuzl7PuKgiu6MHvSqyKa7eHiZwXAlutQlRuQq452eNU6Jd7BYmeE5iVvutNv52s_YWsNmHbP7TpGLlfyCqYffYk4jVmzwYuPNOIuHmfyGtNPV3psVEhZg-DW17_8VWCQ==",
-    "salt": "KGw0knx8rIQUaLtFq4k2LQ==",
-    "text": "British god Condatis was worshiped at the places where Rivers converge. The deity was associated with water and had shrines located at these confluences."
+    "evidence": "Monaghan, Encyclopedia of Celtic Mythology and Folklore"
+  }
 }

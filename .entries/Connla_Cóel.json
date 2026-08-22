@@ -1,18 +1,63 @@
 {
-    "name": "Connla C\u00f3el",
-    "attributes": {},
-    "entities": [
-        {
-            "text": "\u2022 Connla C\u00f3el"
-        },
-        {
-            "text": "Fairy"
-        }
+  "name": "Connla Cóel",
+  "entities": [
+    {
+      "entity": "Connla",
+      "type": "mythological figure"
+    },
+    {
+      "entity": "Culantair",
+      "type": "hero"
+    },
+    {
+      "entity": "Acle",
+      "type": "mythological figure"
+    },
+    {
+      "entity": "Connla Colo",
+      "type": "mythological figure"
+    },
+    {
+      "entity": "Connla of the Golden Hair",
+      "type": "mythological figure"
+    },
+    {
+      "entity": "Ulster",
+      "type": "place"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Connla",
+      "attribute": "son of the hero Colmo"
+    },
+    {
+      "entity": "Connla",
+      "attribute": "slew by his own father"
+    },
+    {
+      "entity": "Connla Colo",
+      "attribute": "a king of the fairies"
+    },
+    {
+      "entity": "Connla of the Golden Hair",
+      "attribute": "went with a fairy woman"
+    }
+  ],
+  "sources": [
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+  ],
+  "cyphertext": "ki8FWKde4ZB57IgLdkdHdGGxXhZUCoSAt9j7qyjB6nSTwfv3HM_V-g3mkT6NhqSXp2waYLOa4ZChZUF1",
+  "salt": "ZLkj-y5PPCOAU0Pu7u1clQ==",
+  "text": "More than a dozen Irish figures share the name Connla. One Connla was the son of the hero Colsen. His mother was the warrior woman Ayin. He met his father in Ulster and refused to give his name. He fought his father and was killed by him. A second Connla, called Connla Colo, is a king of the fairies. A third, Connla of the Golden Hair, is the son of the king of Tara. He left the earth with a woman of the fairy race to win endless life.",
+  "okr": {
+    "objective": "Several Irish figures bear the name Connla.",
+    "key_results": [
+      "More than a dozen figures share the name.",
+      "One Connla was killed by his father.",
+      "A Connla Colc is a fairy king.",
+      "Connla of the Golden Hair left the world with a fairy."
     ],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "cyphertext": "ki8FWKde4ZB57IgLdkdHdGGxXhZUCoSAt9j7qyjB6nSTwfv3HM_V-g3mkT6NhqSXp2waYLOa4ZChZUF1",
-    "salt": "ZLkj-y5PPCOAU0Pu7u1clQ==",
-    "text": ""
+    "evidence": "Monaghan, Encyclopedia of Celtic Mythology and Folklore"
+  }
 }
