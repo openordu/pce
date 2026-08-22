@@ -1,41 +1,50 @@
 {
-    "name": "Cr\u00f3n\u00e1nach",
-    "attributes": [
-        {
-            "entity": "Cr\u00f3n\u00e1nach",
-            "attribute": "ugly appearance"
-        },
-        {
-            "entity": "Otherworld piper",
-            "attribute": "played marvelously"
-        },
-        {
-            "entity": "Otherworld piper",
-            "attribute": "transformed into a handsome man"
-        },
-        {
-            "entity": "Otherworld piper",
-            "attribute": "could pass for a king"
-        }
+  "name": "Crónánach",
+  "attributes": [
+    {
+      "entity": "Crónánach",
+      "attribute": "an Otherworld piper"
+    },
+    {
+      "entity": "Crónánach",
+      "attribute": "grew handsome in the morning"
+    },
+    {
+      "entity": "Fenian Cycle",
+      "attribute": "home to his story"
+    }
+  ],
+  "entities": [
+    {
+      "entity": "Crónánach",
+      "type": "hero"
+    },
+    {
+      "entity": "Otherworld",
+      "type": "place"
+    },
+    {
+      "entity": "Fenian Cycle",
+      "type": "artifact"
+    },
+    {
+      "entity": "piper",
+      "type": "person"
+    }
+  ],
+  "sources": [
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+  ],
+  "cyphertext": "A5JBxHgVvyfVAGQgcZ792d0lE6uCl27OyUO1GcqDLx499LHs-7kPol85aG4DI0Slf3wQ1ca03Xvn7AaqzUVGHIUZLfPUcONWPZPTJ_5h3Vl9jb8GCiMxRMx71SJWa461ffrEVMfW_gUmvtms43cWP0pADW-6Pjsg0c9H6KnssFR2QLu7_Y9zrNsv3ccI99zjYC0Lrij1FkVWC6LrMLjA_FQfDppwc__uMru5HHfKKEzDxybwyCf4EZ6wXWT8jc667_OLQzqwOb4lMTZ8KOlcVjObw9Bp2PuRF5G2kUP1vaVXu5WZoMgmZk_gjqxJHz_s1cJsnUfHwczdrHbe_8c5ybPyewczBHOyPfOh",
+  "salt": "JgVJPB7I51eaBRyFFSVtIg==",
+  "text": "Crónánach is a hero of the Irish Fenian tale. His face carried no beauty, yet his piping was superb. At dawn his features became handsome, fit to pass as a king.",
+  "okr": {
+    "objective": "Crónánach is an Otherworld piper whose plain face hides a king's looks.",
+    "key_results": [
+      "He pipes with great skill despite an ugly cast.",
+      "Morning light turns him into a handsome man.",
+      "His story comes from the Fenian Cycle."
     ],
-    "entities": [
-        {
-            "entity": "Cr\u00f3n\u00e1nach",
-            "type": "Irish hero"
-        },
-        {
-            "entity": "Otherworld piper",
-            "type": "character"
-        },
-        {
-            "entity": "Fenian Cycle",
-            "type": "mythology"
-        }
-    ],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "cyphertext": "A5JBxHgVvyfVAGQgcZ792d0lE6uCl27OyUO1GcqDLx499LHs-7kPol85aG4DI0Slf3wQ1ca03Xvn7AaqzUVGHIUZLfPUcONWPZPTJ_5h3Vl9jb8GCiMxRMx71SJWa461ffrEVMfW_gUmvtms43cWP0pADW-6Pjsg0c9H6KnssFR2QLu7_Y9zrNsv3ccI99zjYC0Lrij1FkVWC6LrMLjA_FQfDppwc__uMru5HHfKKEzDxybwyCf4EZ6wXWT8jc667_OLQzqwOb4lMTZ8KOlcVjObw9Bp2PuRF5G2kUP1vaVXu5WZoMgmZk_gjqxJHz_s1cJsnUfHwczdrHbe_8c5ybPyewczBHOyPfOh",
-    "salt": "JgVJPB7I51eaBRyFFSVtIg==",
-    "text": "An Irish hero known as Cr\u00f3n\u00e1nach is described as having an unattractive appearance, but in spite of it, he played the pipes perfectly. Cr\u00f3n\u00e1nach belonged to the Otherworld and was a part of the Fenian Cycle. As soon as the first light of day appeared, he would change his guise and become a stunning man who could be taken for a king."
+    "evidence": "Monaghan, Encyclopedia of Celtic Mythology and Folklore"
+  }
 }

@@ -1,11 +1,30 @@
 {
-    "name": "Culhwch",
-    "attributes": {},
-    "entities": [],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+  "name": "Culhwch",
+  "attributes": [
+    {
+      "entity": "Kulhwch",
+      "attribute": "subject of the cross reference"
+    }
+  ],
+  "entities": [
+    {
+      "entity": "Kulhwch",
+      "type": "mythological figure"
+    }
+  ],
+  "sources": [
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+  ],
+  "cyphertext": "xDTpbjnzjjZrEVoInkpSeVanfzmSyb79Q2Fd7ZGanJMqWIk_0ou4uOq4s8pe4wghEA==",
+  "salt": "CRv3ixmpq1eEtcUaafhIuQ==",
+  "text": "The source lists the name Culhwch to lead the reader elsewhere. The full account of this Welsh hero opens beneath the heading Kulhwch.",
+  "okr": {
+    "objective": "Culhwch is a Welsh hero whom the source treats under the heading Kulhwch.",
+    "key_results": [
+      "The leaf is a cross reference only.",
+      "The fuller note sits under Kulhwch.",
+      "The hero also appears in the account of Culhwch ac Olwen."
     ],
-    "cyphertext": "xDTpbjnzjjZrEVoInkpSeVanfzmSyb79Q2Fd7ZGanJMqWIk_0ou4uOq4s8pe4wghEA==",
-    "salt": "CRv3ixmpq1eEtcUaafhIuQ==",
-    "text": "Culhwch See Kulhwch."
+    "evidence": "Monaghan, Encyclopedia of Celtic Mythology and Folklore"
+  }
 }

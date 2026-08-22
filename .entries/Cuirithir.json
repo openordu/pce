@@ -1,11 +1,30 @@
 {
-    "name": "Cuirithir",
-    "attributes": {},
-    "entities": [],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+  "name": "Cuirithir",
+  "attributes": [
+    {
+      "entity": "Cuirithir",
+      "attribute": "figure tied to the account of Liadan"
+    }
+  ],
+  "entities": [
+    {
+      "entity": "Liada",
+      "type": "mythological figure"
+    }
+  ],
+  "sources": [
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+  ],
+  "cyphertext": "ARvulTeyGTQM0F3T8xzVQrU8NCUdCLg5XR7bYsRk7H38Si-PluPadM9DcjIaaCLsEzw=",
+  "salt": "PDLwA6GQAvxWYWUC3_FQ5w==",
+  "text": "The source prints the name Cuirithir only as a pointer. It sends the reader to the account of Liadan for the fuller story.",
+  "okr": {
+    "objective": "Cuirithir is a companion whose story is easier to follow under Liadan.",
+    "key_results": [
+      "The leaf is only a cross reference to Liadan.",
+      "The full story sits under the name Liadan.",
+      "The name serves chiefly as a route into the Liadan account."
     ],
-    "cyphertext": "ARvulTeyGTQM0F3T8xzVQrU8NCUdCLg5XR7bYsRk7H38Si-PluPadM9DcjIaaCLsEzw=",
-    "salt": "PDLwA6GQAvxWYWUC3_FQ5w==",
-    "text": "Cuirithir See Liadan."
+    "evidence": "Monaghan, Encyclopedia of Celtic Mythology and Folklore"
+  }
 }

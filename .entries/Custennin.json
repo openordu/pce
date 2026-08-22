@@ -1,57 +1,55 @@
 {
-    "name": "Custennin",
-    "attributes": [
-        {
-            "entity": "Custennin",
-            "attribute": "hero"
-        },
-        {
-            "entity": "Kulhwych",
-            "attribute": "story"
-        },
-        {
-            "entity": "Olwen",
-            "attribute": "father"
-        },
-        {
-            "entity": "Yspaddaden Penkawr",
-            "attribute": "father"
-        },
-        {
-            "entity": "Yspaddaden Penkawr",
-            "attribute": "herdsman"
-        }
+  "name": "Custennin",
+  "attributes": [
+    {
+      "entity": "Custennin",
+      "attribute": "Welsh hero"
+    },
+    {
+      "entity": "Custennin",
+      "attribute": "has a small part in the tale of Kulhwch and Olwen"
+    },
+    {
+      "entity": "Custennin",
+      "attribute": "serves as the giant's herdsman"
+    },
+    {
+      "entity": "Yspaddaden Penkawr",
+      "attribute": "the giant who is father of Olwen"
+    }
+  ],
+  "entities": [
+    {
+      "entity": "Custennin",
+      "type": "hero"
+    },
+    {
+      "entity": "Kulhwch and Olwen",
+      "type": "artifact"
+    },
+    {
+      "entity": "Olwen",
+      "type": "mythological figure"
+    },
+    {
+      "entity": "Yspaddaden Penkawr",
+      "type": "being"
+    }
+  ],
+  "sources": [
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+  ],
+  "cyphertext": "xUt6CcJsUSDMNgun2oPqtKIfannV-r0bujQKNeg9yyRSpz0nbRqkUPjQOAJn3CQqiTz4l1deXTt1JJzp_tCAFwnepVkhST6s0EyK-1cEk6I7D0A0lNzC5nrzu4AfGxaaGWNygK9WIiY-MWJndbUoHEYWlU4eN1Tx-5FzG4JMw93-H0QIA4eySfzQU8bApomc-9oYo9TZ1k_hDgu3jbI80etbfLxFxEsiZ2Jt",
+  "salt": "oJQ20za5J_gJLootgNYqcw==",
+  "text": "Custennin is a hero of Welsh tradition. His part in the tale of Kulhwch and Olwen is small. In that tale he is the herdsman of a giant. The giant is named Yspaddaden Penkawr, and he is the father of the maiden Olwen.",
+  "okr": {
+    "objective": "Custennin is a hero of Welsh tradition.",
+    "key_results": [
+      "Custennin is a hero of Welsh tradition.",
+      "His part in the tale of Kulhwch and Olwen is small.",
+      "He acts as herdsman to the giant Yspaddaden Penkawr.",
+      "Yspaddaden Penkawr is the father of Olwen."
     ],
-    "entities": [
-        {
-            "entity": "Custennin",
-            "type": "Person"
-        },
-        {
-            "entity": "Welsh",
-            "type": "Nationality"
-        },
-        {
-            "entity": "Kulhwych",
-            "type": "Person"
-        },
-        {
-            "entity": "Olwen",
-            "type": "Person"
-        },
-        {
-            "entity": "Yspaddaden Penkawr",
-            "type": "Person"
-        },
-        {
-            "entity": "Giant",
-            "type": "JobTitle"
-        }
-    ],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "cyphertext": "xUt6CcJsUSDMNgun2oPqtKIfannV-r0bujQKNeg9yyRSpz0nbRqkUPjQOAJn3CQqiTz4l1deXTt1JJzp_tCAFwnepVkhST6s0EyK-1cEk6I7D0A0lNzC5nrzu4AfGxaaGWNygK9WIiY-MWJndbUoHEYWlU4eN1Tx-5FzG4JMw93-H0QIA4eySfzQU8bApomc-9oYo9TZ1k_hDgu3jbI80etbfLxFxEsiZ2Jt",
-    "salt": "oJQ20za5J_gJLootgNYqcw==",
-    "text": "Welsh hero, Custennin, played a limited role in the tale of Kulhwych And Olwen as he served as the attendant to the giant Yspaddaden Penkawr, who was Olwen's father."
+    "evidence": "Monaghan, Encyclopedia of Celtic Mythology and Folklore"
+  }
 }

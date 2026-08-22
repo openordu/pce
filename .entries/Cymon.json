@@ -1,45 +1,55 @@
 {
-    "name": "Cymon",
-    "attributes": [
-        {
-            "entity": "Cymon",
-            "attribute": "Welsh hero"
-        },
-        {
-            "entity": "Owein",
-            "attribute": "hero"
-        },
-        {
-            "entity": "Lady Of The Fountain",
-            "attribute": "lovely"
-        },
-        {
-            "entity": "Black Knight",
-            "attribute": "beleaguering the lady\u2019s domain"
-        }
+  "name": "Cymon",
+  "attributes": [
+    {
+      "entity": "Cymon",
+      "attribute": "Welsh hero"
+    },
+    {
+      "entity": "Cymon",
+      "attribute": "holds a minor place in the tale of Owein"
+    },
+    {
+      "entity": "Owein",
+      "attribute": "the hero who married the lady"
+    },
+    {
+      "entity": "Cymon",
+      "attribute": "sets the quest in motion by losing a fight to the black knight"
+    }
+  ],
+  "entities": [
+    {
+      "entity": "Cymon",
+      "type": "hero"
+    },
+    {
+      "entity": "Owein",
+      "type": "hero"
+    },
+    {
+      "entity": "Lady of the Fountain",
+      "type": "character"
+    },
+    {
+      "entity": "Black Knight",
+      "type": "character"
+    }
+  ],
+  "sources": [
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+  ],
+  "cyphertext": "cP3iDJzUQDFxIqfblvhvUSBbIsYR0gzUS-qI5fqSkN-zd9y-yoiN6hgeg3EhtwY9qKmIUVmhQlWaTL_sQ5W2IZp77YLE7vUP0Fg9OuWhdEKtVY39jo5fP3hXMXkKzxwbJ9D20zTuBL8yCMsOKQChCaY0cBX2BkJQrTIHoXwlBmZITzwhXsiEqMVFYPflKmwp1rkh1OlaXofaNsGDYd0iABhusXBg-xEU8Q_YEnW-wgj8LRTNEE4MHoXLN3OJBw5PFXHt9GTIx5Hez7pv_FDwlwRR8d478R5KcL3RX9_HLf-C5qYK54PGqgffEj5NTPZB7lDLwnYoF-cUNiLDKba1jx1CQFR6h8i01-s_1kQCEzITXKrgwVw7",
+  "salt": "gKLNo7re_KspaIGXNBUgkg==",
+  "text": "Cymon is a hero of Welsh story. He holds a minor place in the tale of Owein. Owein is the hero who married the lady of the fountain. Cymon sets the quest in motion. He fights the black knight who is laying siege to the lady's domain, and he loses the fight. That defeat sends Owein toward the lady's land.",
+  "okr": {
+    "objective": "Cymon is a hero of Welsh story tied to the tale of Owein.",
+    "key_results": [
+      "Cymon is a hero of Welsh story.",
+      "He holds a minor place in the tale of Owein.",
+      "He fights the black knight who lays siege to the lady's domain.",
+      "Losing that fight sets the hero's quest in motion."
     ],
-    "entities": [
-        {
-            "entity": "Cymon",
-            "type": "Person"
-        },
-        {
-            "entity": "Owein",
-            "type": "Person"
-        },
-        {
-            "entity": "Lady Of The Fountain",
-            "type": "Person"
-        },
-        {
-            "entity": "Black Knight",
-            "type": "Person"
-        }
-    ],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "cyphertext": "cP3iDJzUQDFxIqfblvhvUSBbIsYR0gzUS-qI5fqSkN-zd9y-yoiN6hgeg3EhtwY9qKmIUVmhQlWaTL_sQ5W2IZp77YLE7vUP0Fg9OuWhdEKtVY39jo5fP3hXMXkKzxwbJ9D20zTuBL8yCMsOKQChCaY0cBX2BkJQrTIHoXwlBmZITzwhXsiEqMVFYPflKmwp1rkh1OlaXofaNsGDYd0iABhusXBg-xEU8Q_YEnW-wgj8LRTNEE4MHoXLN3OJBw5PFXHt9GTIx5Hez7pv_FDwlwRR8d478R5KcL3RX9_HLf-C5qYK54PGqgffEj5NTPZB7lDLwnYoF-cUNiLDKba1jx1CQFR6h8i01-s_1kQCEzITXKrgwVw7",
-    "salt": "gKLNo7re_KspaIGXNBUgkg==",
-    "text": "A Welsh hero named Cymon played a small part in the story of Owein, the hero who wedded the beautiful Lady of the Fountain. Cymon triggered Owein's mission by futilely battling the Black Knight who was besieging the lady's territory."
+    "evidence": "Monaghan, Encyclopedia of Celtic Mythology and Folklore"
+  }
 }

@@ -1,11 +1,38 @@
 {
-    "name": "Cyhyreath",
-    "attributes": {},
-    "entities": [],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+  "name": "Cyhyreath",
+  "attributes": [
+    {
+      "entity": "Cyhyreath",
+      "attribute": "carries no separate account"
+    },
+    {
+      "entity": "Cyhyreath",
+      "attribute": "sends the reader to the Caointeach entry"
+    }
+  ],
+  "entities": [
+    {
+      "entity": "Cyhyreath",
+      "type": "concept"
+    },
+    {
+      "entity": "Caointeach",
+      "type": "mythological figure"
+    }
+  ],
+  "sources": [
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+  ],
+  "cyphertext": "_N2406tatTAmS80jYn231qTDCfdmJS0YXIiwEg5TlspHcMLFbQQoP9Nt5KLOzOe5GP5Fri9r",
+  "salt": "Rzj3ghXjwL8XQJYvurDjsA==",
+  "text": "Cyhyreath is a term that holds no separate account of its own. Its one entry sends the reader to another heading. That heading is the entry for Caointeach.",
+  "okr": {
+    "objective": "Cyhyreath is a cross reference that leads to Caointeach.",
+    "key_results": [
+      "Cyhyreath carries no separate account of its own.",
+      "Its entry names another heading.",
+      "That heading is the entry for Caointeach."
     ],
-    "cyphertext": "_N2406tatTAmS80jYn231qTDCfdmJS0YXIiwEg5TlspHcMLFbQQoP9Nt5KLOzOe5GP5Fri9r",
-    "salt": "Rzj3ghXjwL8XQJYvurDjsA==",
-    "text": "Cyhyreath See Caointeach."
+    "evidence": "Monaghan, Encyclopedia of Celtic Mythology and Folklore"
+  }
 }

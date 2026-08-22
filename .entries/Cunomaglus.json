@@ -1,15 +1,34 @@
 {
-    "name": "Cunomaglus",
-    "attributes": {},
-    "entities": [
-        {
-            "text": "Apollo"
-        }
+  "name": "Cunomaglus",
+  "attributes": [
+    {
+      "entity": "Cunomaglus",
+      "attribute": "a cross reference to Apollo"
+    }
+  ],
+  "entities": [
+    {
+      "entity": "Cunomaglus",
+      "type": "god"
+    },
+    {
+      "entity": "Apollo",
+      "type": "god"
+    }
+  ],
+  "sources": [
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+  ],
+  "cyphertext": "i0B-dl-m7kKGKNjo8Ny0CD_aUUjPMprw9X9SHVKXMkau0P70cythtaVbO86rsZ9ntwhD",
+  "salt": "4OtALoeoD5xbxMhf_g_WHg==",
+  "text": "Cunomaglus is a title the source hands over to the god Apollo. The page holds nothing beyond that pointer.",
+  "okr": {
+    "objective": "Cunomaglus is a name of the god Apollo given by a cross reference.",
+    "key_results": [
+      "The page is only a pointer.",
+      "It names the god Apollo.",
+      "The pointer preserves the god under an older local title."
     ],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "cyphertext": "i0B-dl-m7kKGKNjo8Ny0CD_aUUjPMprw9X9SHVKXMkau0P70cythtaVbO86rsZ9ntwhD",
-    "salt": "4OtALoeoD5xbxMhf_g_WHg==",
-    "text": "Cunomaglus See Apollo."
+    "evidence": "Monaghan, Encyclopedia of Celtic Mythology and Folklore"
+  }
 }
