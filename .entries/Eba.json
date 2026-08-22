@@ -3,49 +3,37 @@
     "attributes": [
         {
             "entity": "Eba",
-            "attribute": "Irish heroine"
-        },
-        {
-            "entity": "Eba",
-            "attribute": "healer"
-        },
-        {
-            "entity": "Traig Eba",
-            "attribute": "shore where Eba slept"
+            "attribute": "an obscure healer drowned by the rising tide on Traig Eba"
         },
         {
             "entity": "Abba",
-            "attribute": "companion of the first settler to reach Ireland"
+            "attribute": "the companion of Cesair, the first settler in Ireland"
         },
         {
-            "entity": "Cesair",
-            "attribute": "first settler to reach Ireland"
+            "entity": "Book of Invasions",
+            "attribute": "the source that names Eba as a healer"
         }
     ],
     "entities": [
         {
             "entity": "Eba",
-            "type": "Irish heroine"
+            "type": "Person"
         },
         {
-            "entity": "Book Of Invasions",
-            "type": "mythological text"
+            "entity": "Book of Invasions",
+            "type": "Title"
         },
         {
             "entity": "Traig Eba",
-            "type": "shore"
+            "type": "Place"
         },
         {
             "entity": "Abba",
-            "type": "companion"
-        },
-        {
-            "entity": "Ireland",
-            "type": "location"
+            "type": "Person"
         },
         {
             "entity": "Cesair",
-            "type": "woman"
+            "type": "Person"
         }
     ],
     "sources": [
@@ -56,5 +44,15 @@
     ],
     "cyphertext": "0P0uWU2TfYQEu5UJ-5dpoD7McB3TFyDr0nGVxp9-CVpqVpjVpf_VLi1g2HzirmJt6fBJJnZNGHvRnuXaSqKeci3KzVJneeAjrKUAXDlxeGu9A-xsN8RQOojec-HJPpXqc0Kx-BRHyzAJW90XuTc19oeVjwaNmGSNoxK_aXf2kFp5cD5Z523Hbn6wxFt1zhWQpyH-I2uIVpSVmkSQ_Nr916xPy1suHVxQdu9HqptgZjcECGJq9E-_KIcut8NjfsHW3Y7rvvtzZmn8bcZ_qmh0B1yW3yMEnny0LyiAR5P9d3HVZSoBzsutODNxduPXELZgMY3q2_AKwueAH-F-TwK9L1c4Pv4tL94WDtzQ46aSjotV_D1LvoJ_8sI3oVCrVz8t_aV1souM3cIG4Vn6NLS_N9gIn-E1xKGN9_MEZf64N_mtvvR6",
     "salt": "T3mpR8KpGuBgle-64H32JQ==",
-    "text": "Obscure mythological figure Eba was a healer featured in the Book of Invasions. The tales suggest that she fell asleep on the shores of Traig (Tr\u00e1) Eba and eventually drowned as the tide rolled in. Some believe that she is the same figure as Abba, who accompanied the woman known as Cesair, Ireland's original settler."
+    "text": "Eba is an obscure Irish heroine. The Book of Invasions names her as a healer. She fell asleep on a shore called Traig Eba. The rising tide drowned her there. She may be the same as Abba. Abba was the companion of Cesair, the first settler to reach Ireland.",
+    "okr": {
+        "objective": "Record Eba as an obscure healer whose sleep on Traig Eba ended in drowning.",
+        "key_results": [
+            "The Book of Invasions calls Eba a healer.",
+            "She slept on a shore called Traig Eba.",
+            "The rising tide drowned her.",
+            "She may be the same as Abba, companion of Cesair."
+        ],
+        "evidence": "Monaghan 2008, s.v. 'Eba'."
+    }
 }

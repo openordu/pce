@@ -3,33 +3,41 @@
     "attributes": [
         {
             "entity": "Ebhla",
-            "attribute": "daughter of Cathbad and Maga"
+            "attribute": "daughter of Cathbad and Maga, mother of the Sons of Uisneach"
         },
         {
-            "entity": "Ebhla",
-            "attribute": "granddaughter of Aonghus \u00d3g"
+            "entity": "Cathbad",
+            "attribute": "the evil druid who was Ebhla's father"
+        },
+        {
+            "entity": "Aonghus Óg",
+            "attribute": "god of poetry and grandfather of Ebhla"
+        },
+        {
+            "entity": "Sons of Uisneach",
+            "attribute": "the fated children of Ebhla"
         }
     ],
     "entities": [
         {
             "entity": "Ebhla",
-            "type": "Irish heroine"
+            "type": "Person"
         },
         {
             "entity": "Cathbad",
-            "type": "evil druid"
+            "type": "Person"
         },
         {
             "entity": "Maga",
-            "type": "wife of Cathbad"
+            "type": "Person"
         },
         {
-            "entity": "Aonghus \u00d3g",
-            "type": "god of poetry"
+            "entity": "Aonghus Óg",
+            "type": "Deity"
         },
         {
-            "entity": "Sons Of Uisneach",
-            "type": "fated children of Ebhla"
+            "entity": "Sons of Uisneach",
+            "type": "Group"
         }
     ],
     "sources": [
@@ -37,5 +45,14 @@
     ],
     "cyphertext": "1hJZkLL-1xYNnkVgzg4WcMWCjMznzOhSjG1FNneJHwCUfydzrVlhMfSxFlkv3xfd29JDipqV239t4CXjC_JCzfncZ05c8zK_oE6DE8hW7hVLyqsyuPv-GgKOXsRkykVz5XfgZyiWKm9g_MsIEh1mGkSIxMSWwWnP2srgkMwDLBf8zgj6Yh646NnQ9mQRxantJ02aM9zMr7KsTE2jLTQ5khAiXy0hO6p30MAq4wkTZtIhmc1fZgUBdSQ8T5uKNPDuUNJ_HpgT-VA6RnSUSvI_usy4LSY=",
     "salt": "8a0la2kc58k1klY_S2FMAg==",
-    "text": "Offspring of the cruel magician Cathbad and Maga, his wife, Ebhla was a prominent figure in Irish folklore. Her grandfather was the god of poetry, Aonghus \u00d3g. Ebhla bore the Sons of Uisneach, who were bound by destiny."
+    "text": "Ebhla is an Irish heroine. She was the daughter of Cathbad, the evil druid, and his wife Maga. Through him she was the granddaughter of Aonghus Óg, the god of poetry. Ebhla raised the fated Sons of Uisneach.",
+    "okr": {
+        "objective": "Give the genealogy of the Irish heroine Ebhla.",
+        "key_results": [
+            "Ebhla was the daughter of the druid Cathbad and his wife Maga.",
+            "Through them she was the granddaughter of the god Aonghus Óg.",
+            "Her children were the fated Sons of Uisneach."
+        ],
+        "evidence": "Monaghan 2008, s.v. 'Ebhla'."
+    }
 }

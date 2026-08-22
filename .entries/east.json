@@ -3,41 +3,29 @@
     "attributes": [
         {
             "entity": "east",
-            "attribute": "direction of commerce and wealth"
+            "attribute": "the direction of commerce and wealth in old Irish thought"
         },
         {
-            "entity": "west",
-            "attribute": "province of wisdom"
+            "entity": "east",
+            "attribute": "the direction of sunrise, beginnings and openings"
         },
         {
-            "entity": "sunrise",
-            "attribute": "metaphorically, of beginnings and openings"
-        },
-        {
-            "entity": "Province of Leinster",
-            "attribute": "connected with youthful vigor and enterprise"
+            "entity": "Leinster",
+            "attribute": "the province located in the east, tied to youthful vigor"
         }
     ],
     "entities": [
         {
-            "entity": "ancient Irish",
-            "type": "culture"
-        },
-        {
             "entity": "east",
-            "type": "direction"
+            "type": "Concept"
         },
         {
-            "entity": "west",
-            "type": "direction"
+            "entity": "Leinster",
+            "type": "Place"
         },
         {
-            "entity": "Province of Leinster",
-            "type": "location"
-        },
-        {
-            "entity": "Directions",
-            "type": "concept"
+            "entity": "directions",
+            "type": "Concept"
         }
     ],
     "sources": [
@@ -48,5 +36,15 @@
     ],
     "cyphertext": "qW1cTfXNPJYHGlaelVaPNGVN8nYtp0caZg9WeZzzmIVyedU8NZk4LvOyPlC-C9g5g3OzaAN7zLnHrDZfD-OYXVpfs53zq-l_xdHivvkCHvv3iQyAV4kf9gUY2wYWXjfrcJX4SeeLJ2wYzhW-y7DnKGJbryhf0dtWXpBKlBytlM3oB1rLpy4qDVy3ownY8pWnQdhxU4NnrrtZVt4Rk2ons73hM6I9q-inVk328DKcgiA9izt55p5BP4ZHDLi1OQIY6zQCWYG4Co3FoRMZxkT-QxAwg0E3YdIJvxC0XefydSjLaXBXxXKwRG16-KrXNQOE0a7DagF-59Tn1phDtIHuqz_7HFpXKs571u6KJqKm0NEtxhrMUPdMhgptHp2w4B-T8OHHfqrl1SRzWMNzryNgLet7QVIvnnMuMb5N90QYxtD9xMbZZqFgfk6vYWPeZkmuzo9jseKAe-2iWo0jFCQPBBF_148LvQ4Y7D6lsR76FgViYFn9xWXcQb-jezlLpIocQ_ajX-mpp06aj3w=",
     "salt": "N4BeZkPINWVKQzOGNxjWXQ==",
-    "text": "An ancient Irish mythological concept deemed the east as the direction of commerce and wealth, contrasting it with the western province of wisdom. The east marked the direction of sunrise symbolizing new beginnings and opportunities. With the Province of Leinster located in the east, it was associated with youthful energy and boldness. For further information refer to Directions."
+    "text": "In the old Irish scheme of directions, east ruled commerce and wealth. It stood opposite the western province of wisdom. Because the sun rises there, east meant beginnings and openings. East also holds the province of Leinster. That land carries youthful vigor and enterprise. The entry sends the reader to the directions entry for the full scheme.",
+    "okr": {
+        "objective": "Define east as a directional concept of commerce, wealth and fresh beginnings.",
+        "key_results": [
+            "East was the Irish direction of commerce and wealth.",
+            "It stood opposite the western province of wisdom.",
+            "East meant beginnings and openings as the direction of sunrise.",
+            "The province of Leinster sits in the east and signals youthful vigor."
+        ],
+        "evidence": "Monaghan 2008, s.v. 'east'."
+    }
 }
