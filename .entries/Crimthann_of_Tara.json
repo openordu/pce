@@ -1,49 +1,67 @@
 {
-    "name": "Crimthann of Tara",
-    "attributes": [
-        {
-            "entity": "Crimthann of Tara",
-            "attribute": "fosterling of king Diarmait"
-        },
-        {
-            "entity": "queen Becfhola",
-            "attribute": "charms caught the eye of Crimthann of Tara"
-        },
-        {
-            "entity": "Crimthann of Tara",
-            "attribute": "unwillingness to travel on Sunday"
-        },
-        {
-            "entity": "queen Becfhola",
-            "attribute": "available for a tryst on Sunday"
-        },
-        {
-            "entity": "their affair",
-            "attribute": "ended prematurely"
-        }
+  "name": "Crimthann of Tara",
+  "entities": [
+    {
+      "entity": "Crimthann of Tara",
+      "type": "person"
+    },
+    {
+      "entity": "Diarmait",
+      "type": "person"
+    },
+    {
+      "entity": "Tara",
+      "type": "location"
+    },
+    {
+      "entity": "Becfhola",
+      "type": "person"
+    },
+    {
+      "entity": "Sunday",
+      "type": "concept"
+    },
+    {
+      "entity": "affair",
+      "type": "event"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Crimthann of Tara",
+      "attribute": "fosterling of king Diarmait"
+    },
+    {
+      "entity": "Becfhola",
+      "attribute": "queen charmed by Crimthann of Tara"
+    },
+    {
+      "entity": "Becfhola",
+      "attribute": "offered her tryst on Sunday"
+    },
+    {
+      "entity": "Crimthann of Tara",
+      "attribute": "would not travel on Sunday"
+    },
+    {
+      "entity": "affair",
+      "attribute": "ended prematurely because Crimthann refused to travel on Sunday"
+    }
+  ],
+  "sources": [
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+  ],
+  "cyphertext": "Ipj4Uni378EO-6Y16ghwphikdgdGOP03C4YlU8q2XIuMzaL5qlHcUUl5-_zzmgaiEBPoCi6CvjgOY6xs4ukbNaYbgCGMBhb_g43H_HZKKyA5fWeHEMC8AScRb58hfrmtxlQoSTXsSz64DjJjYCE3SXyuSOidrLesJuzR7xAxSQIcXJ6iI72tNs8lbxkq9d5AWGAtxcjhfi1u4VkClAabs3DbwgK_SN8_oZnqNFN0ClfCcucSlwfMWQsc4I7qNcsM4xxWJAG-kM4SN-UvLxahbFhkWWbyAG9GSKIp6rNwIUPg-nQ0KEOU6P4Ul7M=",
+  "salt": "VyufFLPu16JHIuVpddgxkg==",
+  "text": "Crimthann of Tara was raised as the ward of king Diarmait. Queen Becfhola took notice of his good looks. She offered a meeting on a Sunday, yet Crimthann refused to travel on that day. His unwillingness to move then cut their affair short.",
+  "okr": {
+    "objective": "Crimthann of Tara was a king whose affair with queen Becfhola ended over Sunday travel.",
+    "key_results": [
+      "He was the fosterling of king Diarmait.",
+      "Queen Becfhola gave his charms attention.",
+      "She offered a rendezvous on Sunday, and he refused to travel that day.",
+      "His refusal ended their affair prematurely."
     ],
-    "entities": [
-        {
-            "entity": "Crimthann of Tara",
-            "type": "Person"
-        },
-        {
-            "entity": "king Diarmait",
-            "type": "Person"
-        },
-        {
-            "entity": "queen Becfhola",
-            "type": "Person"
-        },
-        {
-            "entity": "Sunday",
-            "type": "Day"
-        }
-    ],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "cyphertext": "Ipj4Uni378EO-6Y16ghwphikdgdGOP03C4YlU8q2XIuMzaL5qlHcUUl5-_zzmgaiEBPoCi6CvjgOY6xs4ukbNaYbgCGMBhb_g43H_HZKKyA5fWeHEMC8AScRb58hfrmtxlQoSTXsSz64DjJjYCE3SXyuSOidrLesJuzR7xAxSQIcXJ6iI72tNs8lbxkq9d5AWGAtxcjhfi1u4VkClAabs3DbwgK_SN8_oZnqNFN0ClfCcucSlwfMWQsc4I7qNcsM4xxWJAG-kM4SN-UvLxahbFhkWWbyAG9GSKIp6rNwIUPg-nQ0KEOU6P4Ul7M=",
-    "salt": "VyufFLPu16JHIuVpddgxkg==",
-    "text": "Fostered by king Diarmait of Tara was Crimthann. Queen Becfhola took notice of him due to his charming character. However, their affair was short-lived as Crimthann was not willing to meet her on Sundays, the day when she was available for a rendezvous."
+    "evidence": "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+  }
 }

@@ -1,41 +1,75 @@
 {
-    "name": "Crimthann",
-    "attributes": [
-        {
-            "entity": "Crimthann",
-            "attribute": "Name of several kings of Ireland"
-        },
-        {
-            "entity": "Crimthann",
-            "attribute": "Name of a Christian saint"
-        },
-        {
-            "entity": "Colum Cille",
-            "attribute": "Missionary scholar"
-        }
+  "name": "Crimthann",
+  "entities": [
+    {
+      "entity": "Crimthann",
+      "type": "person"
+    },
+    {
+      "entity": "Ireland",
+      "type": "location"
+    },
+    {
+      "entity": "Colum Cille",
+      "type": "person"
+    },
+    {
+      "entity": "Crimthann of Tara",
+      "type": "person"
+    },
+    {
+      "entity": "Crimthann Mór mac Fidaigh",
+      "type": "person"
+    },
+    {
+      "entity": "Crimthann Nia Náir",
+      "type": "person"
+    },
+    {
+      "entity": "Intoxication of the Ulstermen",
+      "type": "event"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Crimthann",
+      "attribute": "a name borne by several kings of Ireland"
+    },
+    {
+      "entity": "Colum Cille",
+      "attribute": "the Christian saint who also bore the name Crimthann"
+    },
+    {
+      "entity": "Crimthann of Tara",
+      "attribute": "one of the most important figures named Crimthann"
+    },
+    {
+      "entity": "Crimthann Mór mac Fidaigh",
+      "attribute": "one of the most important figures named Crimthann"
+    },
+    {
+      "entity": "Crimthann Nia Náir",
+      "attribute": "one of the most important figures named Crimthann"
+    },
+    {
+      "entity": "Crimthann Nia Náir",
+      "attribute": "died in the battle of the Intoxication of the Ulstermen"
+    }
+  ],
+  "sources": [
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+  ],
+  "cyphertext": "5pneXLqHyGi61kfbsO7i3miweKnDoOKIRMpDkN-pPUyPBZH9QS5XHDip-V2d1IzxxQZAWSRn6WZ7scxLbNH9TRUBiS23p36hiXYfhXCH33NG52jr5yZXt-5D_vPsw4v4VwtxhvJg3t5ronjiGOwBJNjuQZHmRG9iCVleB1N47qF98sI00QdBdcTyQFayh-6fF4E1FZdCj7TMleSWZbofUWr47SP183DImHv3VHZqXFoNiPU_dOiupZzc7P498x5bwQVkeyi9y_Une3Bi6SoCLjxJXcE=",
+  "salt": "deZdZUEx-DLL4R1YBR_aYQ==",
+  "text": "Crimthann was a name borne by several Irish kings. The Christian saint who later became Colum Cille, the missionary scholar, also used it. Three Crimthanns stand out above the rest. Crimthann of Tara drew a queen's eye with his charms. Crimthann Mór mac Fidaigh ruled as a king of Tara. Crimthann Nia Náir died at the battle named Intoxication of the Ulstermen.",
+  "okr": {
+    "objective": "Crimthann is a name shared by several Irish kings and the saint Colum Cille.",
+    "key_results": [
+      "Several kings of Ireland bore the name Crimthann.",
+      "The Christian saint Colum Cille also carried the name.",
+      "The three most important figures are Crimthann of Tara, Crimthann Mór mac Fidaigh, and Crimthann Nia Náir.",
+      "Crimthann Nia Náir died in the battle of the Intoxication of the Ulstermen."
     ],
-    "entities": [
-        {
-            "entity": "Crimthann",
-            "type": "Name"
-        },
-        {
-            "entity": "Ireland",
-            "type": "Location"
-        },
-        {
-            "entity": "Christian",
-            "type": "Religion"
-        },
-        {
-            "entity": "Colum Cille",
-            "type": "Name"
-        }
-    ],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "cyphertext": "5pneXLqHyGi61kfbsO7i3miweKnDoOKIRMpDkN-pPUyPBZH9QS5XHDip-V2d1IzxxQZAWSRn6WZ7scxLbNH9TRUBiS23p36hiXYfhXCH33NG52jr5yZXt-5D_vPsw4v4VwtxhvJg3t5ronjiGOwBJNjuQZHmRG9iCVleB1N47qF98sI00QdBdcTyQFayh-6fF4E1FZdCj7TMleSWZbofUWr47SP183DImHv3VHZqXFoNiPU_dOiupZzc7P498x5bwQVkeyi9y_Une3Bi6SoCLjxJXcE=",
-    "salt": "deZdZUEx-DLL4R1YBR_aYQ==",
-    "text": "Named after Christian saint Colum Cille, who was a missionary scholar, several kings in Ireland were also called by the name Crimthann. The Crimthanns were significant figures, and the text does not dive into a specific topic but instead mentions the prominent figures with the name."
+    "evidence": "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+  }
 }

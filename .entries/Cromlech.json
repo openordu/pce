@@ -1,18 +1,42 @@
 {
-    "name": "Cromlech",
-    "attributes": {},
-    "entities": [
-        {
-            "text": "Cromlech See  Dolmen"
-        },
-        {
-            "text": "Civilization"
-        }
+  "name": "Cromlech",
+  "attributes": [
+    {
+      "entity": "Cromlech",
+      "attribute": "a cross-reference entry"
+    },
+    {
+      "entity": "Cromlech",
+      "attribute": "points to the entries for Dolmen and Megalithic Civilization"
+    }
+  ],
+  "entities": [
+    {
+      "entity": "Cromlech",
+      "type": "concept"
+    },
+    {
+      "entity": "Dolmen",
+      "type": "artifact"
+    },
+    {
+      "entity": "Megalithic Civilization",
+      "type": "concept"
+    }
+  ],
+  "sources": [
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+  ],
+  "cyphertext": "pebt7hj9Veb81NCCx-U0LQOMsi9JsvOXhy_auL33mQ5_N8OtgKPsRX-Y1tDIrEgP9RS0RL__WVvjUU9Wn0Goa6w7eesR6iiRBh7YGA==",
+  "salt": "5Ha_XWhYUW1sevoxG_T8Mg==",
+  "text": "Cromlech is a cross-reference entry. It sends the reader to the articles on Dolmen and Megalithic Civilization.",
+  "okr": {
+    "objective": "Cromlech is a cross-reference entry pointing to Dolmen and Megalithic Civilization.",
+    "key_results": [
+      "The Cromlech entry is a cross-reference.",
+      "It directs the reader to the entry for Dolmen.",
+      "It directs the reader to the entry for Megalithic Civilization."
     ],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "cyphertext": "pebt7hj9Veb81NCCx-U0LQOMsi9JsvOXhy_auL33mQ5_N8OtgKPsRX-Y1tDIrEgP9RS0RL__WVvjUU9Wn0Goa6w7eesR6iiRBh7YGA==",
-    "salt": "5Ha_XWhYUW1sevoxG_T8Mg==",
-    "text": "Cromlech See Dolmen, Megalithic Civilization."
+    "evidence": "Monaghan, Encyclopedia of Celtic Mythology and Folklore"
+  }
 }

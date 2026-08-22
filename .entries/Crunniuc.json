@@ -1,41 +1,66 @@
 {
-    "name": "Crunniuc",
-    "attributes": [
-        {
-            "entity": "Macha",
-            "attribute": "faster than the king\u2019s swiftest horses"
-        },
-        {
-            "entity": "Twins",
-            "attribute": "born as Macha died"
-        },
-        {
-            "entity": "Debility Of The Ulstermen",
-            "attribute": "famous curse on the entire region"
-        }
+  "name": "Crunniuc",
+  "attributes": [
+    {
+      "entity": "Crunniuc",
+      "attribute": "the mortal man chosen by Macha, who lived on his farm"
+    },
+    {
+      "entity": "Crunniuc",
+      "attribute": "broke a promise to keep Macha a secret and boasted she could outrun the king’s horses"
+    },
+    {
+      "entity": "Macha",
+      "attribute": "a goddess or fairy queen who lived with Crunniuc and brought prosperity and wealth"
+    },
+    {
+      "entity": "Macha",
+      "attribute": "won a race, then died giving birth to twins"
+    },
+    {
+      "entity": "Debility of the Ulstermen",
+      "attribute": "the curse Macha laid on the region after the race"
+    }
+  ],
+  "entities": [
+    {
+      "entity": "Crunniuc",
+      "type": "hero"
+    },
+    {
+      "entity": "Macha",
+      "type": "god"
+    },
+    {
+      "entity": "Assembly of Ulster",
+      "type": "event"
+    },
+    {
+      "entity": "Ulster",
+      "type": "location"
+    },
+    {
+      "entity": "Twins",
+      "type": "being"
+    },
+    {
+      "entity": "Debility of the Ulstermen",
+      "type": "concept"
+    }
+  ],
+  "sources": [
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+  ],
+  "cyphertext": "vvbdZx7k4iltgNP8tVmOLjvxnuV0fYk3ZwruISw16gFnWte4_AWVnQgM_CKxh_S3zjOsT6_7d031R_hUQMAEHn1DvbVprJOdeVcsCUtWQrq76QNyxtNpRAS0nJxqe4SW0juuQuRYO1UgZOIL5rIWxLAm2V5eNsXlO1lu3yPt8X746Y3LjVQJ_dqAVSZDq2qON1a9L3N2ZTkseClW5Dn3otQqYcr9o5uKH12aVFOlQEj56iFHnXbuZBwtFgoxWHMkP3MomIr9ywO1euTjba1YPzUFEKz_AkUKgYCOI7xcbMzDnq2vdIvUqsihRbJEGPhvpazCpWTEzl7Csqb6PSmfRQw7YSkV7E78iP7LtDCeBFRoqU08q60IGSldlcKYXhjyjDIXVZRek_Asmyxj9gxNFBLoak4OdO_GSiX1YESqIUxqi42dcre-lUoWifD2AQt0ma22eQ6AVyPAlFzR-6VCj3s2gJn8B57qZYYin1qNXPTNJZ99m7wgnT-AdQe5yhpiHqBEknL2eUSmDp_WPwRk4DZjPFruvQf6pMzWUd1ZO8fruYJtPE2vSRlouxCWpDIIYFd9Baon2w9CRWSuSdsc63vBGbymVFLxHI2yqlmVmy3eTmplo1lrZTEWgVurRNqrWeHxyilNE8iLLwI4av-3P5Zelk9HyDfEqHq8WsGq6Y_tDMBtR8vx1n238m8bOqTPu6TQSX7n_ULYxcrJWFYwb3dmt9ehwdcP3_Oy2tu-BAKWqbsXupd9CArV4AXRbffV0IzeklBGAihw-EhLw2G_n9ErpvX60kpEvNcd-K50RCsWK-C5fCrByKSCp89C_Hgxo7dQD_g7XVobRL1DfQIA0PbFyAgajzwyuGGQSld7-SnwlvyRfoupqleH1Y2asd9QIf8lkZRNp2cAQXoYTtfnjNsIhkmUuGvG04PSoIT4Bx_kbry3hCaPSQexqu4Ba9pWlAOmrt1lduCvxhlhxPye7MQNzq6j5u2raKXH23-hgk0PIp_2KleUKdTgq_v7ywFc1IbTvXt4rQbJ8675eniK_kD0GcG2IdJUssnTW9n7NHRvgO81sjwRvHfKwU2lW6TDABfb3qsLs7IGiJGxZstaM-mWrmlX8j1ujrpjmQqoBGIXrBI6dC8zuOqqMXoHyVbg2FoovufNh4h1xnB2PLgO_fo-aYkVavHvjxAxuU522I9TdTEJ48gcoHmZ3NeAys8=",
+  "salt": "tCHQIkkYxUyxnEEoYO6gsA==",
+  "text": "Crunniuc, also called Cronnchu or Crunnchu, is an Irish hero. The goddess Macha, a fairy queen by some accounts, chose this mortal man and shared his farm. She brought riches and good fortune to both the man and his land. When Crunniuc said he meant to ride to the Assembly of Ulster, Macha, now with child, begged him to stay. He would hear none of it. So she won his word that he would name her to no one and never say she lived with him. Crunniuc broke that vow, boasting that Macha could outrun all the king's horses. A race followed that Macha won, only to fall at the line. The twins came even as she died, and she set on the whole region the curse known as the Debility of the Ulstermen. The records fall silent on Crunniuc after his wife's death, yet he can hardly have stayed well liked.",
+  "okr": {
+    "objective": "Crunniuc is the mortal husband whose boast led Macha to race, give birth to twins, and curse Ulster.",
+    "key_results": [
+      "He was the mortal man chosen by the goddess or fairy queen Macha, who lived on his farm.",
+      "He broke his promise not to mention her and boasted she was faster than the king’s swiftest horses.",
+      "After Macha won the race, she gave birth to twins as she died and cursed the region with the Debility of the Ulstermen."
     ],
-    "entities": [
-        {
-            "entity": "Crunniuc",
-            "type": "Person"
-        },
-        {
-            "entity": "Macha",
-            "type": "Person"
-        },
-        {
-            "entity": "Twins",
-            "type": "Person"
-        },
-        {
-            "entity": "Debility Of The Ulstermen",
-            "type": "Curse"
-        }
-    ],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "cyphertext": "vvbdZx7k4iltgNP8tVmOLjvxnuV0fYk3ZwruISw16gFnWte4_AWVnQgM_CKxh_S3zjOsT6_7d031R_hUQMAEHn1DvbVprJOdeVcsCUtWQrq76QNyxtNpRAS0nJxqe4SW0juuQuRYO1UgZOIL5rIWxLAm2V5eNsXlO1lu3yPt8X746Y3LjVQJ_dqAVSZDq2qON1a9L3N2ZTkseClW5Dn3otQqYcr9o5uKH12aVFOlQEj56iFHnXbuZBwtFgoxWHMkP3MomIr9ywO1euTjba1YPzUFEKz_AkUKgYCOI7xcbMzDnq2vdIvUqsihRbJEGPhvpazCpWTEzl7Csqb6PSmfRQw7YSkV7E78iP7LtDCeBFRoqU08q60IGSldlcKYXhjyjDIXVZRek_Asmyxj9gxNFBLoak4OdO_GSiX1YESqIUxqi42dcre-lUoWifD2AQt0ma22eQ6AVyPAlFzR-6VCj3s2gJn8B57qZYYin1qNXPTNJZ99m7wgnT-AdQe5yhpiHqBEknL2eUSmDp_WPwRk4DZjPFruvQf6pMzWUd1ZO8fruYJtPE2vSRlouxCWpDIIYFd9Baon2w9CRWSuSdsc63vBGbymVFLxHI2yqlmVmy3eTmplo1lrZTEWgVurRNqrWeHxyilNE8iLLwI4av-3P5Zelk9HyDfEqHq8WsGq6Y_tDMBtR8vx1n238m8bOqTPu6TQSX7n_ULYxcrJWFYwb3dmt9ehwdcP3_Oy2tu-BAKWqbsXupd9CArV4AXRbffV0IzeklBGAihw-EhLw2G_n9ErpvX60kpEvNcd-K50RCsWK-C5fCrByKSCp89C_Hgxo7dQD_g7XVobRL1DfQIA0PbFyAgajzwyuGGQSld7-SnwlvyRfoupqleH1Y2asd9QIf8lkZRNp2cAQXoYTtfnjNsIhkmUuGvG04PSoIT4Bx_kbry3hCaPSQexqu4Ba9pWlAOmrt1lduCvxhlhxPye7MQNzq6j5u2raKXH23-hgk0PIp_2KleUKdTgq_v7ywFc1IbTvXt4rQbJ8675eniK_kD0GcG2IdJUssnTW9n7NHRvgO81sjwRvHfKwU2lW6TDABfb3qsLs7IGiJGxZstaM-mWrmlX8j1ujrpjmQqoBGIXrBI6dC8zuOqqMXoHyVbg2FoovufNh4h1xnB2PLgO_fo-aYkVavHvjxAxuU522I9TdTEJ48gcoHmZ3NeAys8=",
-    "salt": "tCHQIkkYxUyxnEEoYO6gsA==",
-    "text": "An Irish hero named Crunniuc (also known as Cronnchu or Crunnchu) was favored by the goddess (or Fairy Queen) Macha, who lived with him on his farm and brought prosperity and wealth to their land. Despite being pregnant, Macha failed to dissuade Crunniuc from attending the Assembly of Ulster, but she did manage to extract a promise from him not to speak of her to anyone, nor even refer to her existence. Crunniuc, however, broke his promise when he boasted that Macha was faster than the king\u2019s swiftest horses, which led to a race that Macha won. Sadly, Macha died giving birth to twins and cursed the entire region with Debility of the UlsterMen. There is no mention of Crunniuc after his wife's death, and it can be assumed that he was not looked upon favorably by others."
+    "evidence": "Monaghan, Encyclopedia of Celtic Mythology and Folklore"
+  }
 }
