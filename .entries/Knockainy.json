@@ -1,37 +1,83 @@
 {
-    "name": "Knockainy",
-    "attributes": [
-        {
-            "entity": "Collkilla",
-            "attribute": "ancient name"
-        },
-        {
-            "entity": "Hazel",
-            "attribute": "sacred spots"
-        },
-        {
-            "entity": "\u00c1ine",
-            "attribute": "hill"
-        }
+  "name": "Knockainy",
+  "attributes": [
+    {
+      "entity": "Knockainy",
+      "attribute": "an Irish festival site"
+    },
+    {
+      "entity": "Lough Gur",
+      "attribute": "the lake beside the hill"
+    },
+    {
+      "entity": "Aine",
+      "attribute": "the fairy queen of the mound"
+    },
+    {
+      "entity": "Aine",
+      "attribute": "a possible sun goddess"
+    },
+    {
+      "entity": "Lughnasa",
+      "attribute": "the harvest feast celebrated there"
+    },
+    {
+      "entity": "Aine",
+      "attribute": "prayed to for the good of the herds"
+    },
+    {
+      "entity": "Knockainy",
+      "attribute": "once named Collkilla, meaning hazel wood"
+    }
+  ],
+  "entities": [
+    {
+      "entity": "Knockainy",
+      "type": "location"
+    },
+    {
+      "entity": "Lough Gur",
+      "type": "location"
+    },
+    {
+      "entity": "Aine",
+      "type": "god"
+    },
+    {
+      "entity": "Anu",
+      "type": "god"
+    },
+    {
+      "entity": "Danu",
+      "type": "god"
+    },
+    {
+      "entity": "Tuatha De Danann",
+      "type": "group"
+    },
+    {
+      "entity": "Lughnasa",
+      "type": "event"
+    },
+    {
+      "entity": "Collkilla",
+      "type": "location"
+    }
+  ],
+  "sources": [
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+  ],
+  "cyphertext": "3AgotY-KMlu6VJPe5Ur2ADZhUjSV7u_E0d6F2auCyTuhQDT9xcMB8vRv5c8m-NSXYLM0MPCIf4JIqu9_HUJCzU7HfTRnjS3dEiS41UyQpVd1_YZTqJMBNSj-Nc6HumCK4LF8xcEF0JPgS7RKVxL1jf2qkNSd3sBnBE_uATEf93ZPcjtraWGSHHoiEOuyd1gmxMxLJKuqhkq7A31vMkQfKBTs7DL88pIUdV-iKqxQL-kzCwizvREg2McpMeHe925I-CAJ5jWWltjHvVtdv_F03KYM-IR6OjQiSbn25KftTOsLWgXd8tyvRwiX8y3EBA07GQlKHA7lhsXHlL-db-mJAcl5Eect4EZqHKyZWT7-93fc2QXah1WwGpnFv6FQ83xEsJkHiJgB0yB4cgJcggdAmO1iJ9gWfb5PSyFgbM8MmeDIDyZ-e7-Clm-x36jUv63A5aQYXo0XJR_tSVIijOhiuyC5Ya9-ce-4Nm8ntMJaec1TC5RGG-KeXwcp_m_FzzCNDH-_-M9nmQl4aQaROp6T-qiQnyGUQlodXZgbDQwWSYpmEsROzGzsDFulVr4YPJPSsBFkwlfmwo-dQi0XUAfKy18riCwmsXzB7e9B3QxbkdFr4rNQpEp85678FQ7EWkFzxA2ZsEhmTdsHuO7FFvHy9cRc6Sut7LulcHI4NXOxfr8qe7YObVzukvtUOxPurbgI9FPdJ9MAOb9uMUEMvrBXZSh7U96FEpSNVMsaeXystmn-Cyd8IjMUsyLz-PddKCj4MRjPK5zB4QgbxCukQ636RtbJySg-c5pOH3fKuBqhU_7r_kGWU0eHA8APp7nhgjfqGSmpdTqGNkPfmA3zhKC9lgzTzmnz8HGacy2VyLuoO5f50z8HX29FhxyFGRHfUjUF_cLY5VoUn0u4-uWlxGRj9S6oCuimXhVfEfeoIDmAPGe6esDNXFswZEkTKPrRUrLljgdWoPPKilNXBw2nT1ZCvi0lxRbdi9QX5UwqPTSRrMaNkgE2YnT7Hk94Fh8jyULPDAQv9XkcF954yySlIIyj2SQJyhhSU59pZlWkwqfUqIcf0eaNP1GRcf16ekM1YECgHbHxe29IKDlGFjk--vuBPa3XTOs9jyFb_DX6JCCIXtVZTA245qIo-gS31jqFrJhdNyl0Clh1gz4cIiRjV3jo5bByPJvhZk6DEjrBJQI5iw==",
+  "salt": "rjmMIZyjS-ZsMJ8dbkMy9A==",
+  "text": "Knockainy is an Irish mythological site. Its Gaelic name is Cnoc Aine. The low mountain stands near the waters of Lough Gur in County Limerick. A single stone cairn crowns the peak. The place is held to be the sidhe, or home, of the fairy queen Aine. She may once have been the district goddess called Anu or Danu. The gods called the Tuatha De Danann are her children. A few traditions name Aine a solar deity, since a well on the hillside bears her name. Knockainy drew people at Midsummer and at the harvest gathering of Lughnasa. People carried clars, straw torches, and moved their cattle up the slopes to seek Aine's care. The hill was once named Collkilla, the hazel wood. As the hazel marks sacred ground where wisdom is won, that old name points to the power of Aine's home.",
+  "okr": {
+    "objective": "Knockainy is the mound of the fairy queen Aine and a festival site.",
+    "key_results": [
+      "It is near Lough Gur in County Limerick.",
+      "It is the sidhe of the fairy queen Aine.",
+      "Herds were driven up the hill at Lughnasa.",
+      "The old name Collkilla means hazel wood."
     ],
-    "entities": [
-        {
-            "entity": "Collkilla",
-            "type": "place"
-        },
-        {
-            "entity": "Hazel",
-            "type": "tree"
-        },
-        {
-            "entity": "\u00c1ine",
-            "type": "deity"
-        }
-    ],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "cyphertext": "3AgotY-KMlu6VJPe5Ur2ADZhUjSV7u_E0d6F2auCyTuhQDT9xcMB8vRv5c8m-NSXYLM0MPCIf4JIqu9_HUJCzU7HfTRnjS3dEiS41UyQpVd1_YZTqJMBNSj-Nc6HumCK4LF8xcEF0JPgS7RKVxL1jf2qkNSd3sBnBE_uATEf93ZPcjtraWGSHHoiEOuyd1gmxMxLJKuqhkq7A31vMkQfKBTs7DL88pIUdV-iKqxQL-kzCwizvREg2McpMeHe925I-CAJ5jWWltjHvVtdv_F03KYM-IR6OjQiSbn25KftTOsLWgXd8tyvRwiX8y3EBA07GQlKHA7lhsXHlL-db-mJAcl5Eect4EZqHKyZWT7-93fc2QXah1WwGpnFv6FQ83xEsJkHiJgB0yB4cgJcggdAmO1iJ9gWfb5PSyFgbM8MmeDIDyZ-e7-Clm-x36jUv63A5aQYXo0XJR_tSVIijOhiuyC5Ya9-ce-4Nm8ntMJaec1TC5RGG-KeXwcp_m_FzzCNDH-_-M9nmQl4aQaROp6T-qiQnyGUQlodXZgbDQwWSYpmEsROzGzsDFulVr4YPJPSsBFkwlfmwo-dQi0XUAfKy18riCwmsXzB7e9B3QxbkdFr4rNQpEp85678FQ7EWkFzxA2ZsEhmTdsHuO7FFvHy9cRc6Sut7LulcHI4NXOxfr8qe7YObVzukvtUOxPurbgI9FPdJ9MAOb9uMUEMvrBXZSh7U96FEpSNVMsaeXystmn-Cyd8IjMUsyLz-PddKCj4MRjPK5zB4QgbxCukQ636RtbJySg-c5pOH3fKuBqhU_7r_kGWU0eHA8APp7nhgjfqGSmpdTqGNkPfmA3zhKC9lgzTzmnz8HGacy2VyLuoO5f50z8HX29FhxyFGRHfUjUF_cLY5VoUn0u4-uWlxGRj9S6oCuimXhVfEfeoIDmAPGe6esDNXFswZEkTKPrRUrLljgdWoPPKilNXBw2nT1ZCvi0lxRbdi9QX5UwqPTSRrMaNkgE2YnT7Hk94Fh8jyULPDAQv9XkcF954yySlIIyj2SQJyhhSU59pZlWkwqfUqIcf0eaNP1GRcf16ekM1YECgHbHxe29IKDlGFjk--vuBPa3XTOs9jyFb_DX6JCCIXtVZTA245qIo-gS31jqFrJhdNyl0Clh1gz4cIiRjV3jo5bByPJvhZk6DEjrBJQI5iw==",
-    "salt": "rjmMIZyjS-ZsMJ8dbkMy9A==",
-    "text": "Near the bewitching waters of Lough Gur in Co. Limerick lies the Irish mythological site of Knockainy, a low mountain surmounted by a solitary stone Cairn, known as the abode of the Fairy Queen, named \u00c1ine. Some readings suggest that \u00c1ine was initially the district goddess Anu or DAnu, who bore the gods known as the Tuatha D\u00e9 Danann. Some associate \u00c1ine as a Sun goddess due to the presence of \"sun-Well\", near Knockainy that goes by her name. Knockainy was of particular importance during the Midsummer festivals and the harvest celebration of Lughnasa on August 1. During the festivities, the bearers of clars or straw torches marched along with their cattle on the hill slopes, seeking protection from \u00c1ine. The original name of the mountain was Collkilla or \"hazel-wood,\" and since Hazels marked the consecrated lands wherein knowledge could be gained, the ancient name also indicates the importance of \u00c1ine's hill."
+    "evidence": "Monaghan, Encyclopedia of Celtic Mythology and Folklore"
+  }
 }

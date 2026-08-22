@@ -1,15 +1,79 @@
 {
-    "name": "Fuwch Laethwen Lefrith",
-    "attributes": {},
-    "entities": [
-        {
-            "text": "Laethwen Lefrith"
-        }
+  "name": "Fuwch Laethwen Lefrith",
+  "attributes": [
+    {
+      "entity": "Fuwch Laethwen Lefrith",
+      "attribute": "a milk-white milch cow"
+    },
+    {
+      "entity": "Fuwch Laethwen Lefrith",
+      "attribute": "mother of the Ychen Bannog"
+    },
+    {
+      "entity": "Ychen Bannog",
+      "attribute": "two long-horned oxen"
+    },
+    {
+      "entity": "Ychen Bannog",
+      "attribute": "killers of the Afanc"
+    },
+    {
+      "entity": "Dun Cow",
+      "attribute": "a magic always-yielding cow"
+    },
+    {
+      "entity": "Book of the Dun Cow",
+      "attribute": "tanned vellum"
+    },
+    {
+      "entity": "Tain Bo Cuailnge",
+      "attribute": "a great cattle raid"
+    },
+    {
+      "entity": "Book of the Dun Cow",
+      "attribute": "a record of Irish myths"
+    }
+  ],
+  "entities": [
+    {
+      "entity": "Fuwch Laethwen Lefrith",
+      "type": "mythological creature"
+    },
+    {
+      "entity": "Ychen Bannog",
+      "type": "mythological creature"
+    },
+    {
+      "entity": "Afanc",
+      "type": "mythological creature"
+    },
+    {
+      "entity": "Dun Cow",
+      "type": "mythological creature"
+    },
+    {
+      "entity": "Book of the Dun Cow",
+      "type": "artifact"
+    },
+    {
+      "entity": "Tain Bo Cuailnge",
+      "type": "event"
+    }
+  ],
+  "sources": [
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+  ],
+  "cyphertext": "bdX3wSkSX6hPfEwpYdurTJQIjBnrxC7xufIPKJUUmewK7Wkoo97gvO-l5I8ASQqK6XiFgVV2q_H-AA10Afo6Pg==",
+  "salt": "ahbJUtqDlO3Ccdgm45hT4Q==",
+  "text": "Fuwch Laethwen Lefrith is a mythic cow of Celtic story. Her name translates as the white, milk-giving cow. She gave birth to two long-horned oxen. Those oxen are the Ychen Bannog. They killed the monstrous Afanc. A second Dun Cow was a magic animal that never failed to give milk. An Irish saint kept that Dun Cow. When the cow died, the saint had her hide turned into vellum. That vellum was made into the celebrated Dun Cow manuscript. It holds many of the great myths of Ireland. It records the cattle raid of the Tain Bo Cuailnge.",
+  "okr": {
+    "objective": "Fuwch Laethwen Lefrith is the mythic cow at the root of the Book of the Dun Cow.",
+    "key_results": [
+      "The name means the milk-white milch cow.",
+      "She gave birth to the Ychen Bannog oxen.",
+      "The oxen killed the monstrous Afanc.",
+      "The Book of the Dun Cow was written on tanned vellum."
     ],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "cyphertext": "bdX3wSkSX6hPfEwpYdurTJQIjBnrxC7xufIPKJUUmewK7Wkoo97gvO-l5I8ASQqK6XiFgVV2q_H-AA10Afo6Pg==",
-    "salt": "ahbJUtqDlO3Ccdgm45hT4Q==",
-    "text": "Fuwch Laethwen Lefrith See Dun Cow."
+    "evidence": "Monaghan, Encyclopedia of Celtic Mythology and Folklore"
+  }
 }

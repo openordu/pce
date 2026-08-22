@@ -1,15 +1,38 @@
 {
-    "name": "Fuinche",
-    "attributes": {},
-    "entities": [
-        {
-            "text": "Fuinche See"
-        }
+  "name": "Fuinche",
+  "attributes": [
+    {
+      "entity": "Fuinche",
+      "attribute": "a cross-reference entry"
+    },
+    {
+      "entity": "Fuinche",
+      "attribute": "points to the article on Murna"
+    }
+  ],
+  "entities": [
+    {
+      "entity": "Fuinche",
+      "type": "character"
+    },
+    {
+      "entity": "Murna",
+      "type": "character"
+    }
+  ],
+  "sources": [
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+  ],
+  "cyphertext": "aylx6GrtErOExPZT7zjAUIH_SRbejw5K5AgF1IIeNEtyVETnk_v6vDjSoXqbIMc=",
+  "salt": "PT033cOiUs091TiM8aMMYA==",
+  "text": "This entry works as a cross-reference. The name points the reader to the main article stored under the name Murna. No separate story stands here.",
+  "okr": {
+    "objective": "Fuinche directs the reader to the note on Murna.",
+    "key_results": [
+      "Fuinche is a cross-reference.",
+      "The reader is sent to Murna.",
+      "No own story stands here."
     ],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "cyphertext": "aylx6GrtErOExPZT7zjAUIH_SRbejw5K5AgF1IIeNEtyVETnk_v6vDjSoXqbIMc=",
-    "salt": "PT033cOiUs091TiM8aMMYA==",
-    "text": "Fuinche See Murna."
+    "evidence": "Monaghan, Encyclopedia of Celtic Mythology and Folklore"
+  }
 }

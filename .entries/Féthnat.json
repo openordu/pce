@@ -1,25 +1,42 @@
 {
-    "name": "F\u00e9thnat",
-    "entities": [
-        {
-            "entity": "F\u00e9thnat",
-            "type": "Irish goddess"
-        },
-        {
-            "entity": "Tuatha D\u00e9 Danann",
-            "type": "magical race"
-        }
+  "name": "Féthnat",
+  "entities": [
+    {
+      "entity": "Féthnat",
+      "type": "god"
+    },
+    {
+      "entity": "Tuatha Dé Danann",
+      "type": "group"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Féthnat",
+      "attribute": "an Irish goddess"
+    },
+    {
+      "entity": "Féthnat",
+      "attribute": "a member of the Tuatha Dé Danann"
+    },
+    {
+      "entity": "Féthnat",
+      "attribute": "a gifted musician"
+    }
+  ],
+  "sources": [
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+  ],
+  "cyphertext": "w4_XMuK0coyirxoBkMF5Dk7uCxbpIqu0oYtsqDP3XzIymr59Fhw_0om-nhLSTV_o7L6bp5EPq6SxlaaCfQWy2ii-fATT1kFdJ3wI9fnn4BkjWBy7wobADviO12ArSEq-YHyj65El-pBSzxCEGJb9ZXDhS6MjwMx6iTOj8h2nddTH1mkIhVfAmqmOmA==",
+  "salt": "Po9FCSSejlN3omjwvfJ0wg==",
+  "text": "Féthnat is an Irish goddess. She is a little-known member of the magical race called the Tuatha Dé Danann. She is remembered for her gift of music. She has no famous myth of her own. Her name survives chiefly because of her skill in playing.",
+  "okr": {
+    "objective": "Féthnat is a minor Irish goddess known for music.",
+    "key_results": [
+      "She is a member of the Tuatha Dé Danann.",
+      "She is an obscure figure in the group.",
+      "She was a gifted musician."
     ],
-    "attributes": [
-        {
-            "entity": "F\u00e9thnat",
-            "attribute": "gifted musician"
-        }
-    ],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "cyphertext": "w4_XMuK0coyirxoBkMF5Dk7uCxbpIqu0oYtsqDP3XzIymr59Fhw_0om-nhLSTV_o7L6bp5EPq6SxlaaCfQWy2ii-fATT1kFdJ3wI9fnn4BkjWBy7wobADviO12ArSEq-YHyj65El-pBSzxCEGJb9ZXDhS6MjwMx6iTOj8h2nddTH1mkIhVfAmqmOmA==",
-    "salt": "Po9FCSSejlN3omjwvfJ0wg==",
-    "text": "Obscure among the magical beings known as the Tuatha D\u00e9 Danann, F\u00e9thnat was a goddess of music."
+    "evidence": "Monaghan, Encyclopedia of Celtic Mythology and Folklore"
+  }
 }

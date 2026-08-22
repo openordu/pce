@@ -1,62 +1,76 @@
 {
-    "name": "Kerhanagh",
-    "attributes": [
-        {
-            "entity": "Kerhanagh",
-            "attribute": "may be the same figure as Corra and/or Caoranach"
-        },
-        {
-            "entity": "Devil'S Mother",
-            "attribute": "sometimes called by the English name"
-        }
+  "name": "Kerhanagh",
+  "attributes": [
+    {
+      "entity": "Kerhanagh",
+      "attribute": "an Irish monster whose name means fire-spitter"
+    },
+    {
+      "entity": "Kerhanagh",
+      "attribute": "driven by Patrick from Croagh Patrick"
+    },
+    {
+      "entity": "Kerhanagh",
+      "attribute": "its breath befouled holy wells"
+    },
+    {
+      "entity": "Kerhanagh",
+      "attribute": "maybe the same as Corra and Caoranach"
+    },
+    {
+      "entity": "Devil's Mother",
+      "attribute": "the English name for Kerhanagh"
+    }
+  ],
+  "entities": [
+    {
+      "entity": "Kerhanagh",
+      "type": "mythological creature"
+    },
+    {
+      "entity": "Patrick",
+      "type": "person"
+    },
+    {
+      "entity": "Connacht",
+      "type": "location"
+    },
+    {
+      "entity": "Croagh Patrick",
+      "type": "location"
+    },
+    {
+      "entity": "Tullaghan",
+      "type": "location"
+    },
+    {
+      "entity": "Corra",
+      "type": "mythological creature"
+    },
+    {
+      "entity": "Caoranach",
+      "type": "mythological creature"
+    },
+    {
+      "entity": "Devil's Mother",
+      "type": "mythological creature"
+    }
+  ],
+  "sources": [
+    "MacNeill, Máire. \"The Festival of Lughnasa, Parts I and II.\" Dublin: Comhairle Bhéaloideas Éireann, 1982, 515.",
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+  ],
+  "cyphertext": "R8RnTKla4gZxu1xS9J_YRjRzbiTU9aydpPSTeZ0fLwKJAm-VtnZVyuh4d_3o0R0LwD_xUTmi5i3KbEVZd6TXIoXFU5_z-tEAvjORK78IiqbJTg1lVU0LZndFkDK0qHZ82FI1vI9qsuLdP33P5qAv9ZY26bf_Q0hrpvm9coLOZtnp949fu7fLtQ-8XFCPFyWyptuzJMDm9nIX4PCgAFpwWOfXWMPAAnBAa5DgBxhl3IQ3uEDdglodqGeye2wiU90sCttmyH6I0bXeFlBg1P87EGYnXtb7G0u6DwCM-bWjdRKcrQzuWY0yanp5gJ7ESGkhCi-NTFngCg86s8FffgRE6HQOI1gKR_eyQDS47Fmjnd22Ar1_0YBnnbVuVKBIRZk91fYmUEtc6m5I751tafqyn3dFQLKzkavHFuc1WBPN3XdkebOCWMCgDPUG1juQIkIAgsOlTMOKPXiFLWdxBolyE4Bcw0dr2AhLa6vCTHYeTOtsjaLu9HwC-KbJWPMIHBYktQjB4drGkJoQwL4XIDlFFLgIPVcRVjUGl_uKEQS1t1fA1dWr4egoy1btxSw6bW_sXcgCT1v_S98cW3NvCgCjoFwtTFmBKUoGAWTyhnmBSxwMV0Mu39B4NyTHqh0mEy6qW1VMAjVJNYCM5J2_017Fdo7x3uGsbhX-scTutk-Djk0rZvhBCAVkJC35RMnxTjx904xcwYFxNE_JoVX45sJj4ACAIj5QQ2xr4Ed8hQp4JwTvoxenWSzbwtS8gi0gLGp6BDlc0TREF4tMIdSDlrXum5k5N7siMIV-84FNzKZ2crTcRNovWPkWeu0upZhoTHjzHGVximn14ssvCWZmRuyDRIagBrRdsxcQoGcYw9onbanrblXVX-NP6CK393caoDHVU-A1xDPWCp2V4lQ3P0WyX742kCOqrzWuIKCeGvjMy1NkPoSpHnCJZCGdpNlDpDQxRrbQydByPJ91EC0R8GmPBjcnUx9yVhwtfwBpHyqCXjigogEeJ4DnBaYKvwJnaY7ZNbuZjCz25YcqAuga4CwRyBj-kRmFCzueqGy_GsNTnG5PHcUywIkRi6hCYruguW25hfIAihp5ZN_VP4SyAuH0gDCSrvcDjxxS1dTm-fGQWh7PND6SktFPm8FB8zix_8W9OvfC6QzcSJZET018TqZRwi8MPt1liXEgwK2PVtue2cdywe5OFHZGbNbYRPhDl3oAxV1DkJ3QyoRtC1OAf7jPv_LZJHmN5i_vJaWggyApcQ6dtMFdWBdvXLpFhMAEJVsn6n23h0lFAEKpURPt2B1UY_OIYOfrBUl_nTmf_MkytrXM7edU87NyOD2NoTw5WPkLsIySB8FiNLLT0YfbcntLBg8x6TFF45GVITtQ0v-NJUzo2jbUfICWn6qt-tAAalW5-g5SgK8OQHnzDDcgIKVeSth0Nd0MH-VfkjegIi1W8oDvx2cFAzTKEb6qmknZ8hZOm78ESzNHrAbikwbJDm0a8KJ7Uz5mvx2FNNBOgI1doHRciafPhZCtJ_O1DtZB431WydVUMeWf1dm77vwy8hL5EeWI6TJ1vGL47bUkkQ==",
+  "salt": "6LImy1wvduYjbBK66PL1rQ==",
+  "text": "Kerhanagh is an Irish monster. The name is also written Kiraqhna. It means one who spits fire. Folk in the western province of Connacht say Saint Patrick expelled this beast from the great holy hill of Croagh Patrick. The demon then moved across the land and befouled holy wells with its breath. Patrick chased him and almost lost the scent in County Sligo. At a rock beside Tullaghan hill the saint hammered his staff, and fresh water gushed from the stone. Refreshed by the flow, Patrick turned on the monster and won the fight. Some read these tales as the triumph of Christian over pagan ways. Others say Patrick took the place of an earlier hero who drove off bad spirits. Kerhanagh may be the same being as Corra and Caoranach, though the stories are not the same. In English she is sometimes called the Devil's Mother.",
+  "okr": {
+    "objective": "Kerhanagh is a fire-spitting Irish beast that Saint Patrick overcame.",
+    "key_results": [
+      "The name means one who spits fire.",
+      "Saint Patrick drove her from Croagh Patrick.",
+      "Her breath befouled holy wells.",
+      "In English she is called the Devil's Mother."
     ],
-    "entities": [
-        {
-            "entity": "Patrick",
-            "type": "Person"
-        },
-        {
-            "entity": "monsters",
-            "type": "Creature"
-        },
-        {
-            "entity": "Christian",
-            "type": "Religion"
-        },
-        {
-            "entity": "pagan",
-            "type": "Religion"
-        },
-        {
-            "entity": "Celtic",
-            "type": "Culture"
-        },
-        {
-            "entity": "Kerhanagh",
-            "type": "Mythological Creature"
-        },
-        {
-            "entity": "Corra",
-            "type": "Mythological Creature"
-        },
-        {
-            "entity": "Caoranach",
-            "type": "Mythological Creature"
-        },
-        {
-            "entity": "English",
-            "type": "Language"
-        },
-        {
-            "entity": "Devil'S Mother",
-            "type": "Mythological Creature"
-        }
-    ],
-    "sources": [
-        "MacNeill, M\u00e1ire. \"The Festival of Lughnasa, Parts I and II.\" Dublin: Comhairle Bh\u00e9aloideas \u00c9ireann, 1982, 515.",
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "cyphertext": "R8RnTKla4gZxu1xS9J_YRjRzbiTU9aydpPSTeZ0fLwKJAm-VtnZVyuh4d_3o0R0LwD_xUTmi5i3KbEVZd6TXIoXFU5_z-tEAvjORK78IiqbJTg1lVU0LZndFkDK0qHZ82FI1vI9qsuLdP33P5qAv9ZY26bf_Q0hrpvm9coLOZtnp949fu7fLtQ-8XFCPFyWyptuzJMDm9nIX4PCgAFpwWOfXWMPAAnBAa5DgBxhl3IQ3uEDdglodqGeye2wiU90sCttmyH6I0bXeFlBg1P87EGYnXtb7G0u6DwCM-bWjdRKcrQzuWY0yanp5gJ7ESGkhCi-NTFngCg86s8FffgRE6HQOI1gKR_eyQDS47Fmjnd22Ar1_0YBnnbVuVKBIRZk91fYmUEtc6m5I751tafqyn3dFQLKzkavHFuc1WBPN3XdkebOCWMCgDPUG1juQIkIAgsOlTMOKPXiFLWdxBolyE4Bcw0dr2AhLa6vCTHYeTOtsjaLu9HwC-KbJWPMIHBYktQjB4drGkJoQwL4XIDlFFLgIPVcRVjUGl_uKEQS1t1fA1dWr4egoy1btxSw6bW_sXcgCT1v_S98cW3NvCgCjoFwtTFmBKUoGAWTyhnmBSxwMV0Mu39B4NyTHqh0mEy6qW1VMAjVJNYCM5J2_017Fdo7x3uGsbhX-scTutk-Djk0rZvhBCAVkJC35RMnxTjx904xcwYFxNE_JoVX45sJj4ACAIj5QQ2xr4Ed8hQp4JwTvoxenWSzbwtS8gi0gLGp6BDlc0TREF4tMIdSDlrXum5k5N7siMIV-84FNzKZ2crTcRNovWPkWeu0upZhoTHjzHGVximn14ssvCWZmRuyDRIagBrRdsxcQoGcYw9onbanrblXVX-NP6CK393caoDHVU-A1xDPWCp2V4lQ3P0WyX742kCOqrzWuIKCeGvjMy1NkPoSpHnCJZCGdpNlDpDQxRrbQydByPJ91EC0R8GmPBjcnUx9yVhwtfwBpHyqCXjigogEeJ4DnBaYKvwJnaY7ZNbuZjCz25YcqAuga4CwRyBj-kRmFCzueqGy_GsNTnG5PHcUywIkRi6hCYruguW25hfIAihp5ZN_VP4SyAuH0gDCSrvcDjxxS1dTm-fGQWh7PND6SktFPm8FB8zix_8W9OvfC6QzcSJZET018TqZRwi8MPt1liXEgwK2PVtue2cdywe5OFHZGbNbYRPhDl3oAxV1DkJ3QyoRtC1OAf7jPv_LZJHmN5i_vJaWggyApcQ6dtMFdWBdvXLpFhMAEJVsn6n23h0lFAEKpURPt2B1UY_OIYOfrBUl_nTmf_MkytrXM7edU87NyOD2NoTw5WPkLsIySB8FiNLLT0YfbcntLBg8x6TFF45GVITtQ0v-NJUzo2jbUfICWn6qt-tAAalW5-g5SgK8OQHnzDDcgIKVeSth0Nd0MH-VfkjegIi1W8oDvx2cFAzTKEb6qmknZ8hZOm78ESzNHrAbikwbJDm0a8KJ7Uz5mvx2FNNBOgI1doHRciafPhZCtJ_O1DtZB431WydVUMeWf1dm77vwy8hL5EeWI6TJ1vGL47bUkkQ==",
-    "salt": "6LImy1wvduYjbBK66PL1rQ==",
-    "text": "In Connacht, a fabled creature by the name of Kerhanagh (Kiraqhna) was revered as a monster that breathed fire. Legend has it that St. Patrick banished the creature from the sacred mountaintop named Croagh Patrick. This menacing demon traversed the land and polluted sacred Wells with its foul breath while Patrick, in pursuit, nearly lost its trail in Sligo. Eventually, however, the saint managed to strike a rock near Tullaghan with his staff, which resulted in sweet water gushing forth. Reinvigorated by fresh water, Patrick finally defeated the beast in battle. Myths of Patrick and his encounters with monsters have been interpreted distinctly as a symbol of Christian eradication of previous pagan practices; some interpret it as Patrick replacing an earlier mythological hero who drove away ominous spirits. The Kerhanagh may be the same entity as Corra and/or Caoranach, even though the legends are not identical. Interestingly, the Devil\u2019s Mother is another name by which Kerhanagh is known in English."
+    "evidence": "Monaghan, Encyclopedia of Celtic Mythology and Folklore"
+  }
 }

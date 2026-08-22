@@ -1,49 +1,59 @@
 {
-    "name": "Fraechnat",
-    "attributes": [
-        {
-            "entity": "Fraechnat",
-            "attribute": "died and was buried on Slieve Fraech"
-        },
-        {
-            "entity": "Fraechnat",
-            "attribute": "arrived with the first boatload of invaders into Ireland"
-        },
-        {
-            "entity": "Fraechnat",
-            "attribute": "may have been a local divinity adapted to the tale"
-        }
+  "name": "Fraechnat",
+  "attributes": [
+    {
+      "entity": "Fráech",
+      "attribute": "a romantic hero who loves Finnabair"
+    },
+    {
+      "entity": "Fráech",
+      "attribute": "the most handsome man in Ireland"
+    },
+    {
+      "entity": "Bébinn",
+      "attribute": "goddess mother of Fráech"
+    },
+    {
+      "entity": "Ailill",
+      "attribute": "set the bride-price of the red-eared cows"
+    }
+  ],
+  "entities": [
+    {
+      "entity": "Fráech",
+      "type": "hero"
+    },
+    {
+      "entity": "Finnabair",
+      "type": "character"
+    },
+    {
+      "entity": "Medb",
+      "type": "character"
+    },
+    {
+      "entity": "Bébinn",
+      "type": "god"
+    },
+    {
+      "entity": "Ailill",
+      "type": "character"
+    }
+  ],
+  "sources": [
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+  ],
+  "cyphertext": "MDKppNEZPJarTLsZnpAxbIuGC3wywOXJow5RJsf0cTWZ2rw8a7sOaDMseyO2QZAJuVCjFYrOcdJrEasNJONjR-OA-2I_0PkCOazt86eatN3Zc96-R0Ghdyp9blX1Z7Q2cK3t12xoQytDHionvFXw-_nYp2eWeeZaItnZENpJvcKp-imq4txPIyzMrHJSmZ-joIyjxnfWkLZ44bwsXV5HoQBgd4QtRpozwU2kF8_5IR2peVC7W1godixaRsQIXm5BWS_6pT53xd67GKs4rytOARNOcEUHuPEdLeMMjsrglcXcOCm9GBf37O_o75xCCOchRJ6RqQsSxr2J81i95uBg_cvR6wBFxBqONdrDi8OQ6lmhz-9uuMrroxzH24BXiah3SyG5w77WiGTpcsmUkS495n12sU4ey7cSGjBAPxAuErwaWLvzpzydoDlBnVaHzW5dh41mUQn6d5M067gRz-dnyk504irRjtV4xkNh8oZfqi8DE9xHhLVgGiZprMLItTRTdbPQoaaxQJcUf75Yj7JO13dWVGdKSYwNaF2SFL8vqBxvt3Zq84h-qYIFhTwwmCnCgSnypg==",
+  "salt": "9RcfbHlVEm5Y-csBYMq3nw==",
+  "text": "The source for the hero Fráech tells a story of love. His other names are Fraoch, Fraich, and Fróeach. He loved Finnabair, the daughter of the ruler named Medb. Through his mother, the goddess Bébinn, he was partly divine. He stood out as the island's most handsome man. At the court at Cruachan he was known before he arrived. The maid grew fond of him by hearsay and fonder at their meeting. She handed him a ring from her father Ailill. The man asked for the red-eared cows of the maid's mother. The hero endured many trials and a dragon, then won her hand.",
+  "okr": {
+    "objective": "Fráech is the romantic hero who wins the hand of Finnabair.",
+    "key_results": [
+      "Fráech was the son of the goddess Bébinn.",
+      "He was the most handsome man in Ireland.",
+      "He loved Finnabair, the daughter of Medb.",
+      "He won her hand after hard trials."
     ],
-    "entities": [
-        {
-            "entity": "Fraechnat",
-            "type": "Irish heroine or goddess"
-        },
-        {
-            "entity": "Ireland",
-            "type": "place"
-        },
-        {
-            "entity": "Dindshenchas",
-            "type": "placelore"
-        },
-        {
-            "entity": "Slieve Fraech",
-            "type": "mountain"
-        },
-        {
-            "entity": "Cesair",
-            "type": "companion"
-        },
-        {
-            "entity": "Book Of Invasions",
-            "type": "book"
-        }
-    ],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "cyphertext": "MDKppNEZPJarTLsZnpAxbIuGC3wywOXJow5RJsf0cTWZ2rw8a7sOaDMseyO2QZAJuVCjFYrOcdJrEasNJONjR-OA-2I_0PkCOazt86eatN3Zc96-R0Ghdyp9blX1Z7Q2cK3t12xoQytDHionvFXw-_nYp2eWeeZaItnZENpJvcKp-imq4txPIyzMrHJSmZ-joIyjxnfWkLZ44bwsXV5HoQBgd4QtRpozwU2kF8_5IR2peVC7W1godixaRsQIXm5BWS_6pT53xd67GKs4rytOARNOcEUHuPEdLeMMjsrglcXcOCm9GBf37O_o75xCCOchRJ6RqQsSxr2J81i95uBg_cvR6wBFxBqONdrDi8OQ6lmhz-9uuMrroxzH24BXiah3SyG5w77WiGTpcsmUkS495n12sU4ey7cSGjBAPxAuErwaWLvzpzydoDlBnVaHzW5dh41mUQn6d5M067gRz-dnyk504irRjtV4xkNh8oZfqi8DE9xHhLVgGiZprMLItTRTdbPQoaaxQJcUf75Yj7JO13dWVGdKSYwNaF2SFL8vqBxvt3Zq84h-qYIFhTwwmCnCgSnypg==",
-    "salt": "9RcfbHlVEm5Y-csBYMq3nw==",
-    "text": "One of the heroines or goddesses in Irish mythology was Fraechnat. The Dindshenchas, a placelore, stated that she was among the women who came with the first wave of invaders to Ireland and died later. Her final resting place is said to be on top of a mountain, Slieve Fraech, which bears her name. Interestingly, Fraechnat was not included on the list of companions that Cesair brought with her, as recorded in the Book Of Invasions. It is therefore possible that she was a deity from the local area whose story was adapted into the tale."
+    "evidence": "Monaghan, Encyclopedia of Celtic Mythology and Folklore"
+  }
 }
