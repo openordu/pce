@@ -1,11 +1,50 @@
 {
     "name": "bean tighe",
-    "attributes": {},
-    "entities": [],
+    "attributes": [
+        {
+            "entity": "bean tighe",
+            "attribute": "the fairy housekeeper of Ireland"
+        },
+        {
+            "entity": "Lough Gur",
+            "attribute": "the enchanted lake in County Limerick where she dwells"
+        },
+        {
+            "entity": "bean tighe",
+            "attribute": "revealed once every seven years when the lake drains away"
+        }
+    ],
+    "entities": [
+        {
+            "entity": "bean tighe",
+            "type": "Being"
+        },
+        {
+            "entity": "Fairy Housekeeper",
+            "type": "Being"
+        },
+        {
+            "entity": "Lough Gur",
+            "type": "Place"
+        },
+        {
+            "entity": "County Limerick",
+            "type": "Place"
+        }
+    ],
     "sources": [
         "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
     ],
     "cyphertext": "M9XKG99EoO3vAeIvqFKk5iz8paVBAzkw1fnkcceVhjtMjOq0rkuOKjzR6IGOhMF6p2pYNxnBxbVsZD3B4sc=",
     "salt": "2KJG9IVYvabXdSiIoxK2uw==",
-    "text": "bean tighe See Fairy Housekeeper."
+    "text": "The bean tighe is the Fairy Housekeeper of Irish folktale. She lives at the bottom of the enchanted Lough Gur. This lake sits in County Limerick.\n\nOnce every seven years the lake water drains away. The dry lake bed then reveals her. The fairy housekeeper walks across the exposed floor. She reaches a stone chair on the shore. She sits there for a few hours. When the water returns, she disappears once more.",
+    "okr": {
+        "objective": "Describe the bean tighe, the Fairy Housekeeper of Lough Gur.",
+        "key_results": [
+            "The fairy housekeeper dwells at the bottom of Lough Gur.",
+            "The lake drains every seven years to reveal her.",
+            "She sits on a stone chair for a few hours before the water returns."
+        ],
+        "evidence": "Monaghan 2008, s.v. 'fairy housekeeper'."
+    }
 }

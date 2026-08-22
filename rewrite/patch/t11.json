@@ -1,0 +1,560 @@
+{
+    "barrow.json": {
+        "text": "A barrow is a pre-Celtic grave. Builders set stones in a line that ends in a burial mound. Some barrows hold more than one body.\n\nThe Wiltshire Downs carry the largest group of barrows in England. Stonehenge rises above those downs. Barrows also appear throughout Ireland. Local people revere the graves near their homes. They tell tales of hauntings at the mounds. Black Dogs of the fairy race and wandering ghosts frequent these sites. See the entry for the Fairy Mound.",
+        "entities": [
+            {
+                "entity": "barrow",
+                "type": "Place"
+            },
+            {
+                "entity": "Wiltshire Downs",
+                "type": "Place"
+            },
+            {
+                "entity": "Stonehenge",
+                "type": "Place"
+            },
+            {
+                "entity": "England",
+                "type": "Place"
+            },
+            {
+                "entity": "Ireland",
+                "type": "Place"
+            },
+            {
+                "entity": "Black Dogs",
+                "type": "Creature"
+            },
+            {
+                "entity": "Fairy Mound",
+                "type": "Place"
+            }
+        ],
+        "attributes": [
+            {
+                "entity": "barrow",
+                "attribute": "a pre-Celtic grave built of a line of stones ending in a mound"
+            },
+            {
+                "entity": "barrow",
+                "attribute": "sometimes holds more than one burial"
+            },
+            {
+                "entity": "Wiltshire Downs",
+                "attribute": "carries the largest group of barrows in England"
+            },
+            {
+                "entity": "Stonehenge",
+                "attribute": "rises on the Wiltshire Downs"
+            },
+            {
+                "entity": "Black Dogs",
+                "attribute": "fairy creatures said to haunt barrows"
+            },
+            {
+                "entity": "Fairy Mound",
+                "attribute": "related cross-reference entry"
+            }
+        ],
+        "okr": {
+            "objective": "Describe the barrow as a pre-Celtic burial site and the folklore attached to it.",
+            "key_results": [
+                "A barrow is a grave of pre-Celtic origin built from stones.",
+                "The Wiltshire Downs hold the largest group of barrows in England.",
+                "Barrows appear across Ireland and are linked to hauntings."
+            ],
+            "evidence": "Monaghan 2008, s.v. 'barrow'."
+        }
+    },
+    "bean_nighe.json": {
+        "text": "The bean nighe is an Irish and Scottish folk figure. She is the Washer at the Ford. She acts as a form of the banshee. This death prophet arrives before a death.\n\nShe washes the clothes of the doomed in a river or a stream. A passerby hears a noise like rippling water. That noise is her slapping the wet clothes. She appears as a small woman in a green gown. Her feet are red and webbed.\n\nSome say she is the ghost of a woman who died in childbirth. That mother left her laundry unfinished. Others count her among the fairy race. She can see things in the future beyond the death. If you catch sight of her before she sees you, you may request a prophecy. Her prophecy always proves accurate. The chance to ask still brings risk.",
+        "entities": [
+            {
+                "entity": "bean nighe",
+                "type": "Being"
+            },
+            {
+                "entity": "banshee",
+                "type": "Creature"
+            },
+            {
+                "entity": "Washer at the Ford",
+                "type": "Person"
+            },
+            {
+                "entity": "Ireland",
+                "type": "Place"
+            },
+            {
+                "entity": "Scotland",
+                "type": "Place"
+            }
+        ],
+        "attributes": [
+            {
+                "entity": "bean nighe",
+                "attribute": "a form of the banshee or a death prophet"
+            },
+            {
+                "entity": "bean nighe",
+                "attribute": "washes the clothes of the doomed in a river before a death"
+            },
+            {
+                "entity": "bean nighe",
+                "attribute": "appears as a small green-clad woman with webbed red feet"
+            },
+            {
+                "entity": "bean nighe",
+                "attribute": "gives a true prophecy if seen before she sees"
+            },
+            {
+                "entity": "Washer at the Ford",
+                "attribute": "the name most people use for the bean nighe"
+            }
+        ],
+        "okr": {
+            "objective": "Explain the bean nighe as the washer-at-the-ford figure and a form of the banshee.",
+            "key_results": [
+                "The bean nighe washes the clothes of the dying at a river.",
+                "She appears as a small woman with a green gown and webbed red feet.",
+                "Some say she is the ghost of a woman who died in childbirth.",
+                "She grants an accurate prophecy to one who sees her first."
+            ],
+            "evidence": "Monaghan 2008, s.v. 'washer at the ford'."
+        }
+    },
+    "bean_tighe.json": {
+        "text": "The bean tighe is the Fairy Housekeeper of Irish folktale. She lives at the bottom of the enchanted Lough Gur. This lake sits in County Limerick.\n\nOnce every seven years the lake water drains away. The dry lake bed then reveals her. The fairy housekeeper walks across the exposed floor. She reaches a stone chair on the shore. She sits there for a few hours. When the water returns, she disappears once more.",
+        "entities": [
+            {
+                "entity": "bean tighe",
+                "type": "Being"
+            },
+            {
+                "entity": "Fairy Housekeeper",
+                "type": "Being"
+            },
+            {
+                "entity": "Lough Gur",
+                "type": "Place"
+            },
+            {
+                "entity": "County Limerick",
+                "type": "Place"
+            }
+        ],
+        "attributes": [
+            {
+                "entity": "bean tighe",
+                "attribute": "the fairy housekeeper of Ireland"
+            },
+            {
+                "entity": "Lough Gur",
+                "attribute": "the enchanted lake in County Limerick where she dwells"
+            },
+            {
+                "entity": "bean tighe",
+                "attribute": "revealed once every seven years when the lake drains away"
+            }
+        ],
+        "okr": {
+            "objective": "Describe the bean tighe, the Fairy Housekeeper of Lough Gur.",
+            "key_results": [
+                "The fairy housekeeper dwells at the bottom of Lough Gur.",
+                "The lake drains every seven years to reveal her.",
+                "She sits on a stone chair for a few hours before the water returns."
+            ],
+            "evidence": "Monaghan 2008, s.v. 'fairy housekeeper'."
+        }
+    },
+    "bear.json": {
+        "text": "The bear is a symbolic animal. It sees dimly but hears with sharp ears. The creature runs fast and climbs with skill. Early people gave the bear their fear and their respect. They prized the strength of the beast.\n\nThe bear can stand and walk like a man. A skinned bear looks like the carcass of a person. These habits made people think of the bear as nearly human.\n\nThe Celts had their origin in the mountains of central Europe. That land was prime bear country. Caves in the Alps hold signs of an old bear cult. That worship may have shaped the Celtic view of the bear. The name Berne means the bear. A sculpture there shows Artio, the Celtic bear goddess.",
+        "entities": [
+            {
+                "entity": "bear",
+                "type": "Animal"
+            },
+            {
+                "entity": "Artio",
+                "type": "Deity"
+            },
+            {
+                "entity": "Berne",
+                "type": "Place"
+            },
+            {
+                "entity": "Celts",
+                "type": "Group"
+            }
+        ],
+        "attributes": [
+            {
+                "entity": "bear",
+                "attribute": "dim-sighted but sharp-eared, with great speed and strength"
+            },
+            {
+                "entity": "bear",
+                "attribute": "thought of as nearly human because a skinned bear looks like a human"
+            },
+            {
+                "entity": "Artio",
+                "attribute": "Celtic bear goddess honored with a sculpture at Berne"
+            },
+            {
+                "entity": "Berne",
+                "attribute": "a city whose name means the bear"
+            },
+            {
+                "entity": "bear",
+                "attribute": "honored by all early people who met it"
+            }
+        ],
+        "okr": {
+            "objective": "Explain the bear as a symbolic and respected animal in Celtic lore.",
+            "key_results": [
+                "The bear was feared and respected for its strength and speed.",
+                "People thought of the bear as nearly human.",
+                "An old bear cult in Alpine caves may have shaped the Celtic view.",
+                "Artio, the Celtic bear goddess, was honored at Berne."
+            ],
+            "evidence": "Monaghan 2008, s.v. 'bear'."
+        }
+    },
+    "beating_the_bounds.json": {
+        "text": "Beating the bounds is a British rural ritual. Folk in the English countryside walk the lines of their parish on set holidays. They kept this custom until recent times. A priest or a minister leads the walk. The rite likely reaches back to pre-Christian days.\n\nWhen the walk passes ancient Standing Stones, the guide presses children against the boulders. The children also get ducked in a sacred spring or a pond along the route. In this way the young learn the limits of their parish.",
+        "entities": [
+            {
+                "entity": "beating the bounds",
+                "type": "Concept"
+            },
+            {
+                "entity": "England",
+                "type": "Place"
+            },
+            {
+                "entity": "priest",
+                "type": "Person"
+            },
+            {
+                "entity": "minister",
+                "type": "Person"
+            },
+            {
+                "entity": "children",
+                "type": "Person"
+            }
+        ],
+        "attributes": [
+            {
+                "entity": "beating the bounds",
+                "attribute": "a British ritual of walking the boundary lines of a parish"
+            },
+            {
+                "entity": "priest",
+                "attribute": "a figure who led the parish procession"
+            },
+            {
+                "entity": "beating the bounds",
+                "attribute": "probably began in pre-Christian times"
+            },
+            {
+                "entity": "children",
+                "attribute": "pressed against stones and ducked in water along the way"
+            }
+        ],
+        "okr": {
+            "objective": "Describe the British custom of beating the boundaries of a parish.",
+            "key_results": [
+                "Folk in rural England walked the lines of their parish on set holidays.",
+                "A priest or a minister led the procession.",
+                "The rite probably dates back to pre-Christian times.",
+                "Children were pressed against stones and ducked in springs."
+            ],
+            "evidence": "Monaghan 2008, s.v. 'beating the bounds'."
+        }
+    },
+    "bee.json": {
+        "text": "Bees rarely appear in Celtic legend. When they do come, they stand for wisdom. The bee was said to be a drop that fell from heaven.\n\nOn the Isle of Man, fishermen caught bees in the early spring. Each sailor carried a bee as an amulet of safety at sea. In Ireland the bee had no pre-Christian mark of religion. Some Irish saints still kept bees. The Welsh saint Domnoc and the Munster nun Gobnat were tied to the craft of keeping bees.",
+        "entities": [
+            {
+                "entity": "bee",
+                "type": "Animal"
+            },
+            {
+                "entity": "Wisdom",
+                "type": "Concept"
+            },
+            {
+                "entity": "Isle of Man",
+                "type": "Place"
+            },
+            {
+                "entity": "Ireland",
+                "type": "Place"
+            },
+            {
+                "entity": "Domnoc",
+                "type": "Person"
+            },
+            {
+                "entity": "Gobnat",
+                "type": "Person"
+            }
+        ],
+        "attributes": [
+            {
+                "entity": "bee",
+                "attribute": "a rare symbol of wisdom in Celtic legend"
+            },
+            {
+                "entity": "bee",
+                "attribute": "said to drop down from heaven to the earth"
+            },
+            {
+                "entity": "bee",
+                "attribute": "carried by fishermen as an amulet of safety at sea"
+            },
+            {
+                "entity": "Domnoc",
+                "attribute": "a saint tied to the craft of beekeeping"
+            },
+            {
+                "entity": "Gobnat",
+                "attribute": "a Munster nun tied to the craft of beekeeping"
+            }
+        ],
+        "okr": {
+            "objective": "Describe the bee as a rare but symbolic insect in Celtic legend.",
+            "key_results": [
+                "Bees appear as a symbol of wisdom in rare Celtic tales.",
+                "The bee was said to fall from heaven to the earth.",
+                "Isle of Man fishermen carried bees as amulets at sea.",
+                "Saint Domnoc and the nun Gobnat became linked to bees."
+            ],
+            "evidence": "Monaghan 2008, s.v. 'bee'."
+        }
+    },
+    "beech_tree.json": {
+        "text": "The beech is one of the sacred trees of the Celts. This tree belongs to the genus Fagus. It stands as a large close kin of the oak. Its gray trunk looks thick and muscular. Its crown hangs low and full.\n\nThe beech held an honored place among the sacred plants of the Celts. Its wide branches cast a broad shade. Many a grove gave the tree its glory. The shape stayed low and full for the life of the tree.",
+        "entities": [
+            {
+                "entity": "beech",
+                "type": "Concept"
+            },
+            {
+                "entity": "Fagus",
+                "type": "Concept"
+            },
+            {
+                "entity": "oak",
+                "type": "Concept"
+            },
+            {
+                "entity": "Celts",
+                "type": "Group"
+            }
+        ],
+        "attributes": [
+            {
+                "entity": "beech",
+                "attribute": "one of the sacred trees of the Celts"
+            },
+            {
+                "entity": "beech",
+                "attribute": "a large tree of the genus Fagus that is kin to the oak"
+            },
+            {
+                "entity": "beech",
+                "attribute": "has a muscular gray trunk and a low full crown"
+            }
+        ],
+        "okr": {
+            "objective": "Present the beech as a sacred tree of the Celtic world.",
+            "key_results": [
+                "The beech stands among the sacred trees of the Celts.",
+                "It belongs to the genus Fagus and is kin to the oak.",
+                "It keeps a muscular gray trunk and a low, full crown."
+            ],
+            "evidence": "Monaghan 2008, s.v. 'beech'."
+        }
+    },
+    "bilberry.json": {
+        "text": "The bilberry is a symbolic plant of Ireland. Its Latin name is Vaccinium myrtillus. The fruit is also called the whortleberry or the mulberry. It has been a calendar marker of Ireland up to today.\n\nFolk climb the hills at Lughnasa to gather the berries. They eat the fruit on the spot or save it for pies and wine. They say the berries lose their flavor after Lughnasa. The start of the berry season also opens the harvest.\n\nPeople read omens from the berry bushes at this time. Plenty of berries meant a good crop would come. A few berries warned that hunger and hard times drew near.",
+        "entities": [
+            {
+                "entity": "bilberry",
+                "type": "Concept"
+            },
+            {
+                "entity": "Vaccinium myrtillus",
+                "type": "Concept"
+            },
+            {
+                "entity": "Ireland",
+                "type": "Place"
+            },
+            {
+                "entity": "Lughnasa",
+                "type": "Event"
+            }
+        ],
+        "attributes": [
+            {
+                "entity": "bilberry",
+                "attribute": "a symbolic plant that marks the calendar of Ireland"
+            },
+            {
+                "entity": "bilberry",
+                "attribute": "gathered at the Lughnasa summer feast"
+            },
+            {
+                "entity": "bilberry",
+                "attribute": "the start of its season opens the harvest"
+            },
+            {
+                "entity": "bilberry",
+                "attribute": "plenty of berries meant good crops, scarce berries meant a lean season"
+            },
+            {
+                "entity": "Lughnasa",
+                "attribute": "the feast that begins the gathering of berries"
+            }
+        ],
+        "okr": {
+            "objective": "Explain the bilberry as a calendar marker and harvest symbol of Ireland.",
+            "key_results": [
+                "The bilberry marks the Celtic calendar of Ireland.",
+                "Berries at Lughnasa serve as food, pie filling, and wine.",
+                "A good berry season promised a strong harvest.",
+                "A sparse season warned that hunger might follow."
+            ],
+            "evidence": "Monaghan 2008, s.v. 'bilberry'."
+        }
+    },
+    "bile__bele__pl___bili_.json": {
+        "text": "A bile is a sacred tree. It often grows beside a holy well or another honored place. People in Ireland still hang strips of cloth on the branches. These cloth strips are called clooties. The tree droops with these offerings today.\n\nIn old times a bile marked the place where a king was installed. Its branches were cut to shape the ruler's staff. A god named Bile also appears in Irish legend. He is the ancestral father of the Milesians. They were the last invaders of Ireland.\n\nIt may be that the tree holds a link to the god. The link is not certain. The term bile names a sacred tree of any species. Oak, yew, and ash held the chief power. The Dindsenchas, the place poems, sing of the great trees of Ireland. They tell of an oak that bore nuts and apples along with its acorns. The Yew of Ross was a firm strong god. The Ash of Uisneach fell and spread out fifty miles.",
+        "entities": [
+            {
+                "entity": "bile",
+                "type": "Concept"
+            },
+            {
+                "entity": "well",
+                "type": "Place"
+            },
+            {
+                "entity": "clooties",
+                "type": "Artifact"
+            },
+            {
+                "entity": "Bile",
+                "type": "Deity"
+            },
+            {
+                "entity": "Milesians",
+                "type": "Group"
+            },
+            {
+                "entity": "Dindsenchas",
+                "type": "Concept"
+            },
+            {
+                "entity": "oak",
+                "type": "Concept"
+            },
+            {
+                "entity": "yew",
+                "type": "Concept"
+            },
+            {
+                "entity": "ash",
+                "type": "Concept"
+            }
+        ],
+        "attributes": [
+            {
+                "entity": "bile",
+                "attribute": "a sacred tree often near a holy well, draped with clootie cloth"
+            },
+            {
+                "entity": "bile",
+                "attribute": "marks the place of a king's inauguration"
+            },
+            {
+                "entity": "Bile",
+                "attribute": "the god who is ancestral father of the Milesians"
+            },
+            {
+                "entity": "Dindsenchas",
+                "attribute": "the place poems that tell of the great trees of Ireland"
+            },
+            {
+                "entity": "oak",
+                "attribute": "one of the sacred trees with special powers"
+            }
+        ],
+        "okr": {
+            "objective": "Explain the bile as a sacred tree and as the name of a god of the Milesians.",
+            "key_results": [
+                "A bile marks a sacred tree beside a holy well.",
+                "Its branches made the wood for the king's scepter.",
+                "Bile is the ancestral father of the Milesians.",
+                "The Dindsenchas tell of the five great trees of Ireland."
+            ],
+            "evidence": "Monaghan 2008, s.v. 'bile'."
+        }
+    },
+    "birch_tree.json": {
+        "text": "The birch is one of the sacred plants of the Celts. Its sign holds the second slot of the Tree Alphabet. The birch species betula is short-lived. Still it is graceful, with pale white bark.\n\nThe wood of the birch gives a pole to hold. The Celts shaped it into a Maypole for the dances. Those dances came at the feast of Beltane. So the birch holds its place in the rites of the old Celts.",
+        "entities": [
+            {
+                "entity": "birch",
+                "type": "Concept"
+            },
+            {
+                "entity": "betula",
+                "type": "Concept"
+            },
+            {
+                "entity": "Tree Alphabet",
+                "type": "Concept"
+            },
+            {
+                "entity": "Maypole",
+                "type": "Artifact"
+            },
+            {
+                "entity": "Beltane",
+                "type": "Event"
+            }
+        ],
+        "attributes": [
+            {
+                "entity": "birch",
+                "attribute": "holds the second slot of the Tree Alphabet"
+            },
+            {
+                "entity": "birch",
+                "attribute": "a short-lived but graceful tree with white bark"
+            },
+            {
+                "entity": "birch",
+                "attribute": "wood for the Maypole used in Beltane dances"
+            },
+            {
+                "entity": "Beltane",
+                "attribute": "the feast that uses the Maypole in dance"
+            }
+        ],
+        "okr": {
+            "objective": "Cite the birch as a sacred tree and the second letter of the Tree Alphabet.",
+            "key_results": [
+                "The birch takes the second slot in the Tree Alphabet.",
+                "Its bark is white, and it is graceful despite a short life.",
+                "Birch wood formed the Maypole used in Beltane dances."
+            ],
+            "evidence": "Monaghan 2008, s.v. 'birch'."
+        }
+    }
+}

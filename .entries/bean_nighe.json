@@ -1,9 +1,47 @@
 {
     "name": "bean nighe",
-    "attributes": {},
+    "attributes": [
+        {
+            "entity": "bean nighe",
+            "attribute": "a form of the banshee or a death prophet"
+        },
+        {
+            "entity": "bean nighe",
+            "attribute": "washes the clothes of the doomed in a river before a death"
+        },
+        {
+            "entity": "bean nighe",
+            "attribute": "appears as a small green-clad woman with webbed red feet"
+        },
+        {
+            "entity": "bean nighe",
+            "attribute": "gives a true prophecy if seen before she sees"
+        },
+        {
+            "entity": "Washer at the Ford",
+            "attribute": "the name most people use for the bean nighe"
+        }
+    ],
     "entities": [
         {
-            "text": "Ford"
+            "entity": "bean nighe",
+            "type": "Being"
+        },
+        {
+            "entity": "banshee",
+            "type": "Creature"
+        },
+        {
+            "entity": "Washer at the Ford",
+            "type": "Person"
+        },
+        {
+            "entity": "Ireland",
+            "type": "Place"
+        },
+        {
+            "entity": "Scotland",
+            "type": "Place"
         }
     ],
     "sources": [
@@ -11,5 +49,15 @@
     ],
     "cyphertext": "Zb9yO4NWnwnYzJnHhyqSlYk2on139bjX1ZOFswKD0NGmEo2dgXEJyWxq5gBkx1C7U-KqSJttSUq1eO5ahUsx",
     "salt": "wqqxb_xxPZAXSheztwNHuA==",
-    "text": "bean nighe See Washer At The Ford."
+    "text": "The bean nighe is an Irish and Scottish folk figure. She is the Washer at the Ford. She acts as a form of the banshee. This death prophet arrives before a death.\n\nShe washes the clothes of the doomed in a river or a stream. A passerby hears a noise like rippling water. That noise is her slapping the wet clothes. She appears as a small woman in a green gown. Her feet are red and webbed.\n\nSome say she is the ghost of a woman who died in childbirth. That mother left her laundry unfinished. Others count her among the fairy race. She can see things in the future beyond the death. If you catch sight of her before she sees you, you may request a prophecy. Her prophecy always proves accurate. The chance to ask still brings risk.",
+    "okr": {
+        "objective": "Explain the bean nighe as the washer-at-the-ford figure and a form of the banshee.",
+        "key_results": [
+            "The bean nighe washes the clothes of the dying at a river.",
+            "She appears as a small woman with a green gown and webbed red feet.",
+            "Some say she is the ghost of a woman who died in childbirth.",
+            "She grants an accurate prophecy to one who sees her first."
+        ],
+        "evidence": "Monaghan 2008, s.v. 'washer at the ford'."
+    }
 }
