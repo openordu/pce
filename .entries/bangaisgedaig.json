@@ -1,15 +1,91 @@
 {
-    "name": "bangaisgedaig",
-    "attributes": {},
-    "entities": [
-        {
-            "text": "See Warrior Women"
-        }
-    ],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "cyphertext": "NRtrx5iHFRqtnbf4td6tMIAPCjhFS8YwXrB5XXNmUNkbG42qdh9XDFBRQIULwnMuamoQATSZJjB80dbmAA==",
-    "salt": "kQmeLd0QkxMAQ4aKUsRcbw==",
-    "text": "bangaisgedaig See Warrior Women."
+ "text": "The bangaisgedaig are the warrior women of Celtic myth. It is a motif that runs across the old Celtic lands. Some of them were goddesses of war. The British Andraste and the Irish Badb count among these. So does the Gaulish Cathubodua. Others were queens who fought. Medb of Connacht led her armies against Ulster. Scathach of the Isle of Skye trained the heroes. Her daughter Aife did the same too. The pattern held in history as well. The British queens Boudicca and Cartimandua led their tribes to battle.",
+ "entities": [
+  {
+   "entity": "bangaisgedaig",
+   "type": "Group"
+  },
+  {
+   "entity": "Andraste",
+   "type": "Deity"
+  },
+  {
+   "entity": "Badb",
+   "type": "Deity"
+  },
+  {
+   "entity": "Cathubodua",
+   "type": "Deity"
+  },
+  {
+   "entity": "Medb",
+   "type": "Person"
+  },
+  {
+   "entity": "Scathach",
+   "type": "Person"
+  },
+  {
+   "entity": "Aife",
+   "type": "Person"
+  },
+  {
+   "entity": "Boudicca",
+   "type": "Person"
+  },
+  {
+   "entity": "Cartimandua",
+   "type": "Person"
+  }
+ ],
+ "attributes": [
+  {
+   "entity": "bangaisgedaig",
+   "attribute": "warrior women, a mythic motif across the Celtic lands"
+  },
+  {
+   "entity": "Andraste",
+   "attribute": "British war goddess"
+  },
+  {
+   "entity": "Badb",
+   "attribute": "Irish war goddess"
+  },
+  {
+   "entity": "Cathubodua",
+   "attribute": "Gaulish war goddess"
+  },
+  {
+   "entity": "Medb",
+   "attribute": "led the armies of Connacht against Ulster"
+  },
+  {
+   "entity": "Scathach",
+   "attribute": "trained heroes on the Isle of Skye"
+  },
+  {
+   "entity": "Boudicca",
+   "attribute": "British queen who led her tribe into battle"
+  },
+  {
+   "entity": "Cartimandua",
+   "attribute": "British queen who led her tribe into battle"
+  }
+ ],
+ "okr": {
+  "objective": "The bangaisgedaig are the warrior women of Celtic legend, from goddesses of war to queens who led armies.",
+  "key_results": [
+   "The bangaisgedaig is a mythic motif of warrior women in the Celtic lands",
+   "Goddesses of war include the British Andraste, the Irish Badb, and the Gaulish Cathubodua",
+   "Medb led her army from Connacht against Ulster",
+   "The historic queens Boudicca and Cartimandua led their tribes into battle"
+  ],
+  "evidence": "Monaghan 2008, s.v. 'bangaisgedaig'."
+ },
+ "cyphertext": "NRtrx5iHFRqtnbf4td6tMIAPCjhFS8YwXrB5XXNmUNkbG42qdh9XDFBRQIULwnMuamoQATSZJjB80dbmAA==",
+ "salt": "kQmeLd0QkxMAQ4aKUsRcbw==",
+ "sources": [
+  "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+ ],
+ "name": "bangaisgedaig"
 }

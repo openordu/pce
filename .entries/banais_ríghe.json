@@ -1,11 +1,55 @@
 {
-    "name": "banais r\u00edghe",
-    "attributes": {},
-    "entities": [],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "cyphertext": "X4cZpIzP35bJ7FyqXWB61BkTKCbtaNFWprbn5ftJAw84O6xTjJHh0uOq2uC3bm7C2sffTxexp2epiNNjja6gK3oIvxxIlvJNOQGLnwQ=",
-    "salt": "qXi3wZl6gr3YNKYlQoOQnw==",
-    "text": "banais r\u00edghe See Inauguration, Horse Sacrifice."
+ "text": "The banais ríghe is the Irish feast of inauguration. It marked the sacred marriage of the king and the land. In the rite the goddess of Sovereignty wed her chosen king. The bond tied his fortune to the land. One old account says the king mated with a white mare. The mare was then killed and boiled into a broth. The king drank the broth. This feast joins inauguration to the horse sacrifice.",
+ "entities": [
+  {
+   "entity": "banais ríghe",
+   "type": "Concept"
+  },
+  {
+   "entity": "Sovereignty",
+   "type": "Deity"
+  },
+  {
+   "entity": "king",
+   "type": "Person"
+  },
+  {
+   "entity": "Tara",
+   "type": "Place"
+  }
+ ],
+ "attributes": [
+  {
+   "entity": "banais ríghe",
+   "attribute": "the feast of inauguration in Ireland"
+  },
+  {
+   "entity": "banais ríghe",
+   "attribute": "marked the sacred marriage of the king and the goddess of Sovereignty"
+  },
+  {
+   "entity": "banais ríghe",
+   "attribute": "tied the king's fortune to the land"
+  },
+  {
+   "entity": "banais ríghe",
+   "attribute": "could involve a white mare killed and cooked into broth"
+  }
+ ],
+ "okr": {
+  "objective": "The banais ríghe is the Irish feast that unites a king with the goddess of the land in a sacred marriage.",
+  "key_results": [
+   "The banais ríghe is the feast of inauguration",
+   "It marked the sacred marriage of the king with the goddess of Sovereignty",
+   "The rite tied the king's fortune to the land",
+   "One account links it to a horse sacrifice with a white mare"
+  ],
+  "evidence": "Monaghan 2008, s.v. 'banais ríghe'."
+ },
+ "cyphertext": "X4cZpIzP35bJ7FyqXWB61BkTKCbtaNFWprbn5ftJAw84O6xTjJHh0uOq2uC3bm7C2sffTxexp2epiNNjja6gK3oIvxxIlvJNOQGLnwQ=",
+ "salt": "qXi3wZl6gr3YNKYlQoOQnw==",
+ "sources": [
+  "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+ ],
+ "name": "banais ríghe"
 }

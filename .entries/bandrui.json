@@ -1,15 +1,47 @@
 {
-    "name": "bandrui",
-    "attributes": {},
-    "entities": [
-        {
-            "text": "Druid"
-        }
-    ],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "cyphertext": "_rABVyKFAEyayEuHKpIcaAn0Qk1Kz0X9is32MEX2Z18jAi3RwarZLw0srF4kUw27pKy8QHbjf9gONyRx",
-    "salt": "SS7tUiy6SQAscW_slxV8Vw==",
-    "text": ""
+ "text": "Bandrui is the Irish word for a woman druid. Both men and women served as druids. The two may have served in different ways. The word gives the female role a clear name. It shows that a woman could hold the druid office. Women had a place in the old Celtic religious order.",
+ "entities": [
+  {
+   "entity": "bandrui",
+   "type": "Concept"
+  },
+  {
+   "entity": "druid",
+   "type": "Group"
+  },
+  {
+   "entity": "woman",
+   "type": "Person"
+  }
+ ],
+ "attributes": [
+  {
+   "entity": "bandrui",
+   "attribute": "Irish word that means woman druid"
+  },
+  {
+   "entity": "bandrui",
+   "attribute": "shows the priesthood was not limited to one gender"
+  },
+  {
+   "entity": "woman",
+   "attribute": "served as druids in the Celtic priesthood"
+  }
+ ],
+ "okr": {
+  "objective": "Bandrui is the Irish name for a woman druid, and so is proof that women held priestly office.",
+  "key_results": [
+   "Bandrui is the Irish word for woman druid",
+   "Both men and women served as druids",
+   "The two may have served in different ways",
+   "The word shows the priesthood was not limited to one gender"
+  ],
+  "evidence": "Monaghan 2008, s.v. 'bandrui'."
+ },
+ "cyphertext": "_rABVyKFAEyayEuHKpIcaAn0Qk1Kz0X9is32MEX2Z18jAi3RwarZLw0srF4kUw27pKy8QHbjf9gONyRx",
+ "salt": "SS7tUiy6SQAscW_slxV8Vw==",
+ "sources": [
+  "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+ ],
+ "name": "bandrui"
 }
