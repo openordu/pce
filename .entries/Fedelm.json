@@ -1,53 +1,99 @@
 {
-    "name": "Fedelm",
-    "attributes": [
-        {
-            "entity": "Fedelm",
-            "attribute": "Irish heroine or goddess"
-        },
-        {
-            "entity": "Fidelma",
-            "attribute": "Irish heroine or goddess"
-        },
-        {
-            "entity": "Feidhelm",
-            "attribute": "Irish heroine or goddess"
-        },
-        {
-            "entity": "Feithline",
-            "attribute": "Irish heroine or goddess"
-        },
-        {
-            "entity": "heroic Irish women",
-            "attribute": "bear the name Fedelm"
-        }
+  "name": "Fedelm",
+  "attributes": [
+    {
+      "entity": "Fedelm",
+      "attribute": "name shared by several heroic Irish women"
+    },
+    {
+      "entity": "Fedelm, seer of Cruachan",
+      "attribute": "a poet and druid who met Queen Medb"
+    },
+    {
+      "entity": "Fedelm, seer of Cruachan",
+      "attribute": "rode armed in a chariot with golden hair"
+    },
+    {
+      "entity": "Fedelm, seer of Cruachan",
+      "attribute": "foretold crimson and red for Medb"
+    },
+    {
+      "entity": "Fedelm, princess of Connacht",
+      "attribute": "met Saint Patrick at a sacred spring"
+    },
+    {
+      "entity": "Conall Cernach",
+      "attribute": "chosen by Fedelm the Nine-Times Beautiful over her husband"
+    },
+    {
+      "entity": "Cuchulain",
+      "attribute": "a possible lover of Fedelm the Nine-Times Beautiful"
+    },
+    {
+      "entity": "Fedelm of Munster",
+      "attribute": "cared for the king of Cashel"
+    }
+  ],
+  "entities": [
+    {
+      "entity": "Fedelm",
+      "type": "mythological figure"
+    },
+    {
+      "entity": "Fedelm, seer of Cruachan",
+      "type": "mythological figure"
+    },
+    {
+      "entity": "Queen Medb",
+      "type": "mythological figure"
+    },
+    {
+      "entity": "Conall Cernach",
+      "type": "hero"
+    },
+    {
+      "entity": "Cuchulain",
+      "type": "hero"
+    },
+    {
+      "entity": "Saint Patrick",
+      "type": "person"
+    },
+    {
+      "entity": "Eithne",
+      "type": "mythological figure"
+    },
+    {
+      "entity": "Fedelm the Nine-Times Beautiful",
+      "type": "mythological figure"
+    },
+    {
+      "entity": "Fedelm of Munster",
+      "type": "mythological figure"
+    },
+    {
+      "entity": "Fedelm, princess of Connacht",
+      "type": "mythological figure"
+    },
+    {
+      "entity": "Cashel",
+      "type": "location"
+    }
+  ],
+  "sources": [
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+  ],
+  "cyphertext": "4TttaXnbpcKivaKcm6rB9WY1IcSxHMrRu2X8o06v7J08972tc0J3Rayf8fRRmSjnP4BJsl_Rss0IEpZbl5TrXp8JQiclq-1L0kMkgTphEtZNkh8NFxP_ol2Nh6CVFyA8VfATtZfPgcxtBsGo5qTGek_1fOsEhu3V5Wcw0JULqrodux40KQqiw9qbOoHGqPkubm4=",
+  "salt": "kvNdHU7ZizSUI0H5b5OLuw==",
+  "text": "Several heroic Irish women carry the name Fedelm. Some are called goddesses. The best known is Fedelm, seer of Cruachan. This poet and druid met Queen Medb before the cattle raid told in the Tain Bo Cuailnge. Fedelm rode in a chariot with a sword, her golden hair past her waist and each eye holding three irises. Medb asked if she held the imbas forosnai. Fedelm said she did. Medb asked what lay ahead for her war. Fedelm saw crimson and red. Her words proved true, and the raid ended in blood with many of Medb's warriors dead. Fedelm, princess of Connacht, met Saint Patrick with her sister Eithne. The pair bathed at the sacred spring of Ogalla when white-clad men They took the men for druids and asked about a god who lived in nature. They accepted baptism and died at once to keep their purity. Fedelm the Nine-Times Beautiful chose the hero Conall Cernach over her husband Cairbre Nia Fer. She may have taken Cuchulain as a lover as well. Fedelm of Munster looked after the future King of Cashel. The name may mean a woman prophet. A related name appears in an early Celtic inscription.",
+  "okr": {
+    "objective": "Fedelm names several heroic Irish women and goddesses.",
+    "key_results": [
+      "Several Irish women bear the name Fedelm.",
+      "The seer of Cruachan met Queen Medb before the cattle raid.",
+      "The princess of Connacht met Saint Patrick at a spring.",
+      "The name may mean a woman prophet."
     ],
-    "entities": [
-        {
-            "entity": "Fedelm",
-            "type": "Irish heroine or goddess"
-        },
-        {
-            "entity": "Fidelma",
-            "type": "Irish heroine or goddess"
-        },
-        {
-            "entity": "Feidhelm",
-            "type": "Irish heroine or goddess"
-        },
-        {
-            "entity": "Feithline",
-            "type": "Irish heroine or goddess"
-        },
-        {
-            "entity": "Irish women",
-            "type": "heroic"
-        }
-    ],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "cyphertext": "4TttaXnbpcKivaKcm6rB9WY1IcSxHMrRu2X8o06v7J08972tc0J3Rayf8fRRmSjnP4BJsl_Rss0IEpZbl5TrXp8JQiclq-1L0kMkgTphEtZNkh8NFxP_ol2Nh6CVFyA8VfATtZfPgcxtBsGo5qTGek_1fOsEhu3V5Wcw0JULqrodux40KQqiw9qbOoHGqPkubm4=",
-    "salt": "kvNdHU7ZizSUI0H5b5OLuw==",
-    "text": "A name common to several heroic Irish women and goddesses is Fedelm (also known as Fidelma, Feidhelm, Feithline)."
+    "evidence": "Monaghan, Encyclopedia of Celtic Mythology and Folklore"
+  }
 }

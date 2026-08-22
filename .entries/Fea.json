@@ -1,37 +1,55 @@
 {
-    "name": "Fea",
-    "attributes": [
-        {
-            "entity": "Fea",
-            "attribute": "war goddess"
-        },
-        {
-            "entity": "Fea",
-            "attribute": "sister of Badb"
-        },
-        {
-            "entity": "Fea",
-            "attribute": "little is known"
-        }
+  "name": "Fea",
+  "attributes": [
+    {
+      "entity": "Fea",
+      "attribute": "context of this extract is the Christianization of old sites"
+    },
+    {
+      "entity": "pagan holy site",
+      "attribute": "had churches built on it"
+    },
+    {
+      "entity": "saint",
+      "attribute": "pagan divinities were canonized as such"
+    },
+    {
+      "entity": "Ireland",
+      "attribute": "consecrated ancient sites to Christian use"
+    }
+  ],
+  "entities": [
+    {
+      "entity": "Fea",
+      "type": "mythological figure"
+    },
+    {
+      "entity": "Ireland",
+      "type": "location"
+    },
+    {
+      "entity": "pagan holy site",
+      "type": "location"
+    },
+    {
+      "entity": "saint",
+      "type": "person"
+    }
+  ],
+  "sources": [
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+  ],
+  "cyphertext": "BHn82B2VaD0fiHFT1bKwxpHF4pyrAehcxBaIvA95ng6gRVZyJjdHt5piA6csyXgS29GJPw0tds_szFWB-PXp-G5KoTUHoWPoJUtkGYNQvdTV5rKaoreiCsUKKr-z7S8d6KPQ3OrzzEnCWmFYFfr0L5GmYaLydp2omQ==",
+  "salt": "7H6KuU8N5BAa2k-VPv5TIA==",
+  "text": "Fea in this extract frames the spread of Christianity across old holy grounds. Churches were built where pagan sites had stood. Pagan gods were turned into saints. Ireland followed the same general path. Ancient places were set to Christian use. The role of the clergy sets Ireland apart from the other Celtic lands. Ireland drew a clear line between the church and the older world.",
+  "okr": {
+    "objective": "Fea's extract places her within the Christianization of Celtic sites.",
+    "key_results": [
+      "The extract covers the building of churches on old holy grounds.",
+      "Pagan deities were canonized as saints.",
+      "Ireland followed the same consecration pattern.",
+      "Ireland's role differs from that of other Celtic lands."
     ],
-    "entities": [
-        {
-            "entity": "Fea",
-            "type": "Irish goddess"
-        },
-        {
-            "entity": "Badb",
-            "type": "Irish war goddess"
-        },
-        {
-            "entity": "Irish",
-            "type": "culture"
-        }
-    ],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "cyphertext": "BHn82B2VaD0fiHFT1bKwxpHF4pyrAehcxBaIvA95ng6gRVZyJjdHt5piA6csyXgS29GJPw0tds_szFWB-PXp-G5KoTUHoWPoJUtkGYNQvdTV5rKaoreiCsUKKr-z7S8d6KPQ3OrzzEnCWmFYFfr0L5GmYaLydp2omQ==",
-    "salt": "7H6KuU8N5BAa2k-VPv5TIA==",
-    "text": "Irish mythology features Fea, a war goddess about whom only limited information exists, and who was Badb's sibling."
+    "evidence": "Monaghan, Encyclopedia of Celtic Mythology and Folklore"
+  }
 }

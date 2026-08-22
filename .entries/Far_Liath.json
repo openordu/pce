@@ -1,11 +1,71 @@
 {
-    "name": "Far Liath",
-    "attributes": {},
-    "entities": [],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+  "name": "Far Liath",
+  "attributes": [
+    {
+      "entity": "Far Liath",
+      "attribute": "points to the gray man entry"
+    },
+    {
+      "entity": "fasting",
+      "attribute": "a ritual in early Ireland and Wales"
+    },
+    {
+      "entity": "fasting",
+      "attribute": "also called troscad in Irish"
+    },
+    {
+      "entity": "fasting",
+      "attribute": "also called ymprydio in Welsh"
+    },
+    {
+      "entity": "king",
+      "attribute": "could avoid the honor price"
+    },
+    {
+      "entity": "bard",
+      "attribute": "could avoid the honor price"
+    }
+  ],
+  "entities": [
+    {
+      "entity": "Far Liath",
+      "type": "mythological figure"
+    },
+    {
+      "entity": "fasting",
+      "type": "concept"
+    },
+    {
+      "entity": "Ireland",
+      "type": "location"
+    },
+    {
+      "entity": "Wales",
+      "type": "location"
+    },
+    {
+      "entity": "king",
+      "type": "person"
+    },
+    {
+      "entity": "bard",
+      "type": "person"
+    }
+  ],
+  "sources": [
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+  ],
+  "cyphertext": "Zt2P_Z5KSSSvJTC5z3Jb7h5MCqsAueHpIViY2RQ5kMAzdhEOR-mdVoTE8bi9nNJtzaa8IA==",
+  "salt": "mkVnwMFlmV5BYV3B1GpR5g==",
+  "text": "Far Liath directs the reader to the gray man entry. The source text then turns to fasting, a ritual of early Ireland and Wales. The Irish call it troscad and the Welsh call it ymprydio. A wronged person would sit at the doorstep of the offender. That person took no food and told passersby about the crime. A King or a bard might escape the honor price for harm they caused. For those hurt, fasting was the only answer left. This protest often ended with the wrong at last being set right. The tradition did not die out and was used again as nonviolent protest.",
+  "okr": {
+    "objective": "Far Liath links to the gray man, and the extract covers Celtic fasting.",
+    "key_results": [
+      "The text leads the reader to the gray man figure.",
+      "Fasting was a ritual in Ireland and Wales.",
+      "A wronged person sat at the offender's door and took no food.",
+      "Kings and bards could skip the honor price, leaving fasting as the reply."
     ],
-    "cyphertext": "Zt2P_Z5KSSSvJTC5z3Jb7h5MCqsAueHpIViY2RQ5kMAzdhEOR-mdVoTE8bi9nNJtzaa8IA==",
-    "salt": "mkVnwMFlmV5BYV3B1GpR5g==",
-    "text": "Far Liath See Gray Man."
+    "evidence": "Monaghan, Encyclopedia of Celtic Mythology and Folklore"
+  }
 }

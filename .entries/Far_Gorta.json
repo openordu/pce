@@ -1,61 +1,71 @@
 {
-    "name": "Far Gorta",
-    "attributes": [
-        {
-            "entity": "Far Gorta",
-            "attribute": "Irish folkloric figure"
-        },
-        {
-            "entity": "Fear Gorta",
-            "attribute": "Irish folkloric figure"
-        },
-        {
-            "entity": "Fir Gorta",
-            "attribute": "pl."
-        },
-        {
-            "entity": "Ghost",
-            "attribute": "died of famine or a wraith from the Otherworld"
-        },
-        {
-            "entity": "Irish",
-            "attribute": "nationality"
-        },
-        {
-            "entity": "Hungry Grass",
-            "attribute": "See"
-        }
+  "name": "Far Gorta",
+  "attributes": [
+    {
+      "entity": "Far Gorta",
+      "attribute": "listed on page 180 of the index"
+    },
+    {
+      "entity": "Far Liath",
+      "attribute": "indexed to the gray man entry"
+    },
+    {
+      "entity": "fasting",
+      "attribute": "indexed beside Far Gorta"
+    },
+    {
+      "entity": "Faughart",
+      "attribute": "indexed beside Far Gorta"
+    },
+    {
+      "entity": "Fea",
+      "attribute": "indexed beside Far Gorta"
+    },
+    {
+      "entity": "feast",
+      "attribute": "indexed beside Far Gorta"
+    }
+  ],
+  "entities": [
+    {
+      "entity": "Far Gorta",
+      "type": "mythological figure"
+    },
+    {
+      "entity": "Far Liath",
+      "type": "mythological figure"
+    },
+    {
+      "entity": "fasting",
+      "type": "concept"
+    },
+    {
+      "entity": "Faughart",
+      "type": "location"
+    },
+    {
+      "entity": "Fea",
+      "type": "mythological figure"
+    },
+    {
+      "entity": "feast",
+      "type": "event"
+    }
+  ],
+  "sources": [
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+  ],
+  "cyphertext": "-9KlehpICRrKrvMhaioK2iWWfiAxSFuC6SNmWNz5jwjwC2lp_OhB-QHDvOxg8MPufOJbQkWV7c3LSY-vnu9xz9Fy0jGvgaU4UMREoiCfSZVoK6qF4M0NjWvtfZDFEM7BN4Yb4XfTnafOXgcBqIyHqC5UX5Wgn0GvAeUdKjTf7023bCRISJFzsWuIIUWphlgVlJi_7HuZgc3a9BYaokEtDl2S31bj7Rdlv2zPk4hgaqGPDul7oiW-8OrCzGNkfQ2YAM2kprndC25fIbHe1QTdvLNvUaeH4ZOamf1atXzJJS-CD-mUmMyB4BcHofqyebj9Ld4DnPzO1PMA74JhirigFzGcMPFRUMiB-oCYU2IZDjLgi-oPnmnDOuOWMqKAxb_4L48g3pnzNsxDx5HCTjGGvzwcYmang6MhyteW",
+  "salt": "VnfE4Ectdp5uO3FWmTzozA==",
+  "text": "Far Gorta is a name listed in the index of the encyclopedia. The index places Far Gorta on page 180. The name opens a run of terms that begin with the letters Far. Rows beside it cover fasting, Faughart, Fea, and feast. The row for Far Liath sends the reader to the gray man figure. These entries share one page. They open the F section of the index.",
+  "okr": {
+    "objective": "Far Gorta is an indexed figure at the opening of the F section.",
+    "key_results": [
+      "The index lists Far Gorta on page 180.",
+      "Rows for fasting, Faughart, Fea, and feast stand beside it.",
+      "The row for Far Liath points to the gray man.",
+      "The F section opens with this cluster of names."
     ],
-    "entities": [
-        {
-            "entity": "Far Gorta",
-            "type": "Irish folkloric figure"
-        },
-        {
-            "entity": "Fear Gorta",
-            "type": "Irish folkloric figure"
-        },
-        {
-            "entity": "Fir Gorta",
-            "type": "Irish folkloric figure"
-        },
-        {
-            "entity": "Ghost",
-            "type": "supernatural being"
-        },
-        {
-            "entity": "Irish",
-            "type": "nationality"
-        },
-        {
-            "entity": "Hungry Grass",
-            "type": "Irish legend"
-        }
-    ],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "cyphertext": "-9KlehpICRrKrvMhaioK2iWWfiAxSFuC6SNmWNz5jwjwC2lp_OhB-QHDvOxg8MPufOJbQkWV7c3LSY-vnu9xz9Fy0jGvgaU4UMREoiCfSZVoK6qF4M0NjWvtfZDFEM7BN4Yb4XfTnafOXgcBqIyHqC5UX5Wgn0GvAeUdKjTf7023bCRISJFzsWuIIUWphlgVlJi_7HuZgc3a9BYaokEtDl2S31bj7Rdlv2zPk4hgaqGPDul7oiW-8OrCzGNkfQ2YAM2kprndC25fIbHe1QTdvLNvUaeH4ZOamf1atXzJJS-CD-mUmMyB4BcHofqyebj9Ld4DnPzO1PMA74JhirigFzGcMPFRUMiB-oCYU2IZDjLgi-oPnmnDOuOWMqKAxb_4L48g3pnzNsxDx5HCTjGGvzwcYmang6MhyteW",
-    "salt": "VnfE4Ectdp5uO3FWmTzozA==",
-    "text": "Irish folklore has a character known as Far Gorta (also called Fear Gorta or in plural, Fir Gorta). This figure is referred to as the \"hungry man\" in Irish legends and is believed to be the Ghost of a person who perished in a famine or a wraith from the Otherworld. Far Gorta was often seen begging by the side of the road, and anyone who provided him with alms was rewarded with good fortune. For further context, one can refer to the legend of Hungry Grass."
+    "evidence": "Monaghan, Encyclopedia of Celtic Mythology and Folklore"
+  }
 }

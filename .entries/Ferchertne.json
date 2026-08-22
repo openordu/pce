@@ -1,45 +1,63 @@
 {
-    "name": "Ferchertne",
-    "attributes": [
-        {
-            "entity": "Ferchertne",
-            "attribute": "Irish hero"
-        },
-        {
-            "entity": "C\u00fa Ro\u00ed",
-            "attribute": "heroic king"
-        },
-        {
-            "entity": "Bl\u00e1thnat",
-            "attribute": "woman abducted from the Otherworld"
-        },
-        {
-            "entity": "Munster",
-            "attribute": "cliff"
-        }
+  "name": "Ferchertne",
+  "attributes": [
+    {
+      "entity": "Ferchertne",
+      "attribute": "Irish hero and bard"
+    },
+    {
+      "entity": "Ferchertne",
+      "attribute": "leapt from a cliff with a woman in his arms"
+    },
+    {
+      "entity": "Cu Roi",
+      "attribute": "heroic king who took Blathnat from the Otherworld"
+    },
+    {
+      "entity": "Blathnat",
+      "attribute": "worked against the king who captured her"
+    },
+    {
+      "entity": "Munster",
+      "attribute": "site of the hero's fatal leap"
+    }
+  ],
+  "entities": [
+    {
+      "entity": "Ferchertne",
+      "type": "hero"
+    },
+    {
+      "entity": "Cu Roi",
+      "type": "hero"
+    },
+    {
+      "entity": "Blathnat",
+      "type": "character"
+    },
+    {
+      "entity": "Munster",
+      "type": "location"
+    },
+    {
+      "entity": "Otherworld",
+      "type": "location"
+    }
+  ],
+  "sources": [
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+  ],
+  "cyphertext": "ZA_iwXukCnwPtjiA5rbwaO3zPoN59-fwIc6Eo0WTGrsvVG2rC-Md9v4i26xsBNVHKxj-JhF93kbpBwkcOuTtL_iKJSVJs0H1ICR0n9RgeY5beQfNg5uxIYSUUjjk_buerlwrhEoTG29e0uWXteJBl_bwTOFQlSJTcJu0eufhqon7L9DhBBMh8qVZGhfQ_tH5tEWgVZpmQjnLw_dhg4iQyBx7ZR4ILqJ8_czH0t7oyxEzVsvfr_3JyD_7rpcqr_LrhXFxAq7lqesy38KAsFgqX4D1LykY0Lnk5vYB4sKoAae6gfJdpO7JuGBMi7ul8ELbUrWSIJgs0Hbez4Aquh09QztRPR_Su3o8vndtsgHGxiFRHDj6usJQC6gEIMGgwVgUGUSyEasMxJQ_asLv79dREngdWmWEfg2S0CG4qoVBOnb3dco0Pd9zFUMeICb5zEMJ4czQIm6yyT1dUQ==",
+  "salt": "cTLPA-lRp-HIbOQ20LponA==",
+  "text": "Irish hero Ferchertne, also known as Fercetrniu, served under the heroic king Cú Roí. The king abducted a woman named Bláthnat from the Otherworld, who then conspired with his enemies to cause his demise. In a loyal act, Ferchertne jumped off a Munster cliff with Bláthnat, resulting in both their deaths.",
+  "okr": {
+    "objective": "Ferchertne follows his king across a cliff into death.",
+    "key_results": [
+      "He served King Cu Roi as a loyal bard.",
+      "King Cu Roi took Blathnat from the Otherworld.",
+      "Blathnat plotted with his enemies, and the king died.",
+      "The faithful hero leapt from a Munster cliff and pulled her over with him."
     ],
-    "entities": [
-        {
-            "entity": "Ferchertne",
-            "type": "Irish hero"
-        },
-        {
-            "entity": "C\u00fa Ro\u00ed",
-            "type": "heroic king"
-        },
-        {
-            "entity": "Bl\u00e1thnat",
-            "type": "woman from the Otherworld"
-        },
-        {
-            "entity": "Munster",
-            "type": "location"
-        }
-    ],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "cyphertext": "ZA_iwXukCnwPtjiA5rbwaO3zPoN59-fwIc6Eo0WTGrsvVG2rC-Md9v4i26xsBNVHKxj-JhF93kbpBwkcOuTtL_iKJSVJs0H1ICR0n9RgeY5beQfNg5uxIYSUUjjk_buerlwrhEoTG29e0uWXteJBl_bwTOFQlSJTcJu0eufhqon7L9DhBBMh8qVZGhfQ_tH5tEWgVZpmQjnLw_dhg4iQyBx7ZR4ILqJ8_czH0t7oyxEzVsvfr_3JyD_7rpcqr_LrhXFxAq7lqesy38KAsFgqX4D1LykY0Lnk5vYB4sKoAae6gfJdpO7JuGBMi7ul8ELbUrWSIJgs0Hbez4Aquh09QztRPR_Su3o8vndtsgHGxiFRHDj6usJQC6gEIMGgwVgUGUSyEasMxJQ_asLv79dREngdWmWEfg2S0CG4qoVBOnb3dco0Pd9zFUMeICb5zEMJ4czQIm6yyT1dUQ==",
-    "salt": "cTLPA-lRp-HIbOQ20LponA==",
-    "text": "Irish hero Ferchertne, also known as Fercetrniu, served under the heroic king C\u00fa Ro\u00ed. The king abducted a woman named Bl\u00e1thnat from the Otherworld, who then conspired with his enemies to cause his demise. In a loyal act, Ferchertne jumped off a Munster cliff with Bl\u00e1thnat, resulting in both their deaths."
+    "evidence": "Monaghan, Encyclopedia of Celtic Mythology and Folklore"
+  }
 }
