@@ -1,57 +1,44 @@
 {
-    "name": "ad-hene",
-    "attributes": [
-        {
-            "entity": "Manx spirits",
-            "attribute": "called their neighbors in the ghostly Otherworld by euphemisms such as this one, which means simply \u201cThemselves.\u201d"
-        },
-        {
-            "entity": "Residents of the Isle of Man",
-            "attribute": "called their neighbors in the ghostly Otherworld by euphemisms such as ad-hene Manx spirits."
-        },
-        {
-            "entity": "Celtic lands",
-            "attribute": "called their neighbors in the ghostly Otherworld by euphemisms such as ad-hene Manx spirits."
-        },
-        {
-            "entity": "Isle of Man",
-            "attribute": "residents called their neighbors in the ghostly Otherworld by euphemisms such as ad-hene Manx spirits."
-        },
-        {
-            "entity": "Otherworld",
-            "attribute": "called by euphemisms such as ad-hene Manx spirits."
-        },
-        {
-            "entity": "Names For The Fairies",
-            "attribute": "See"
-        }
-    ],
-    "entities": [
-        {
-            "entity": "Manx spirits",
-            "type": "Spirit"
-        },
-        {
-            "entity": "Celtic lands",
-            "type": "Location"
-        },
-        {
-            "entity": "Isle of Man",
-            "type": "Location"
-        },
-        {
-            "entity": "Otherworld",
-            "type": "Mythical place"
-        },
-        {
-            "entity": "Names For The Fairies",
-            "type": "Book"
-        }
-    ],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "cyphertext": "ZK3twe_ZgxuvMj990xk1GTW_aUwaL5_ZaKbR7QBTocYPj9mI2i5kf7XBv_pcDmXtiWFfCQp_UujzsRSIymKctDbMJSAYmr_I7007FOmOJKuCpd7p-LpjllJ3rF9sn1B_GaNiQam2AL_EdKeedvmqgimml-OM5JWyKNI_O9J2bGeHbqZRK2qMH8Hh_t39X1CMQCWI1iHX84Nrin3AGC8ixVzYzlb_21ebPutIIXbhY7FjCcVwvhL7GJVDIOrPdspE10sPC48Kvs0pRnwr3pTbnjr5RP9b4QnDBTgykQrohl99WA4in93MXxFQZBdFG5brfSqGg05nP2eJSNPuMKs=",
-    "salt": "Cj6vXu8OwyV7Snahuwmo_g==",
-    "text": "Manx spirits, much like their counterparts in other Celtic territories, were referred to by the inhabitants of the Isle of Man using polite expressions, such as \u201cThemselves.\u201d This term was employed to denote residents of the ghostly Otherworld. For more information, consult the section on Names For The Fairies."
+ "name": "ad-hene",
+ "attributes": [
+  {
+   "entity": "ad-hene",
+   "attribute": "Manx euphemism meaning 'themselves' for Otherworld spirits"
+  },
+  {
+   "entity": "Isle of Man",
+   "attribute": "people used ad-hene as a gentle name for the fairies"
+  },
+  {
+   "entity": "Names For The Fairies",
+   "attribute": "ad-hene is one of the euphemisms listed there"
+  }
+ ],
+ "entities": [
+  {
+   "entity": "ad-hene",
+   "type": "Being"
+  },
+  {
+   "entity": "Isle of Man",
+   "type": "Place"
+  },
+  {
+   "entity": "Otherworld",
+   "type": "Place"
+  }
+ ],
+ "sources": [
+  "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+ ],
+ "cyphertext": "ZK3twe_ZgxuvMj990xk1GTW_aUwaL5_ZaKbR7QBTocYPj9mI2i5kf7XBv_pcDmXtiWFfCQp_UujzsRSIymKctDbMJSAYmr_I7007FOmOJKuCpd7p-LpjllJ3rF9sn1B_GaNiQam2AL_EdKeedvmqgimml-OM5JWyKNI_O9J2bGeHbqZRK2qMH8Hh_t39X1CMQCWI1iHX84Nrin3AGC8ixVzYzlb_21ebPutIIXbhY7FjCcVwvhL7GJVDIOrPdspE10sPC48Kvs0pRnwr3pTbnjr5RP9b4QnDBTgykQrohl99WA4in93MXxFQZBdFG5brfSqGg05nP2eJSNPuMKs=",
+ "salt": "Cj6vXu8OwyV7Snahuwmo_g==",
+ "text": "On the Isle of Man, people used the name ad-hene for the spirits of the Otherworld. The name means 'themselves'. The people avoided the true names of the fairies. They used gentle euphemisms instead. The term is one of several Names For The Fairies.",
+ "objective": "Define the Manx euphemism ad-hene and its use for Otherworld spirits.",
+ "key_results": [
+  "States ad-hene means 'themselves'",
+  "States the name is a euphemism for the fairies on the Isle of Man",
+  "Links the term to Names For The Fairies."
+ ],
+ "evidence": "Monaghan, The Encyclopedia of Celtic Mythology and Folklore, s.v. ad-hene."
 }

@@ -1,49 +1,47 @@
 {
-    "name": "Adhn\u00faall",
-    "attributes": [
-        {
-            "entity": "Adhn\u00faall",
-            "attribute": "hunting dog"
-        },
-        {
-            "entity": "Fionn Mac Cumhaill",
-            "attribute": "Irish hero"
-        },
-        {
-            "entity": "Bran",
-            "attribute": "primary companion hound"
-        },
-        {
-            "entity": "Sceolan",
-            "attribute": "primary companion hound"
-        }
-    ],
-    "entities": [
-        {
-            "entity": "Adhn\u00faall",
-            "type": "mythological animal"
-        },
-        {
-            "entity": "Irish",
-            "type": "nationality"
-        },
-        {
-            "entity": "Fionn Mac Cumhaill",
-            "type": "Irish hero"
-        },
-        {
-            "entity": "Bran",
-            "type": "hunting dog"
-        },
-        {
-            "entity": "Sceolan",
-            "type": "hunting dog"
-        }
-    ],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "cyphertext": "LhV_fI4Z1OQzcP6fiL30w61LnvlFQmYL1-zOMSNVp_Y1uAVLfkTRqnCkZAt7MAYx98jW9_4FQgbe4eOqxyNj70Dl_CIKBN_x18owyHLzDsP8zpM8GNr9xgd6wuiYM21ihUXwZOF-WVhTabpbtImIcN6HrJ5_rrQ2NnRXREtlnmD5uiGyUPsXdGzJHv8NHRlQkcByZrIZRcD6XIUWgfAiUpVDcfYLEIwhywWlgQerOudIhEeOUjOeVg4E3AD4V_C8bKwiU3I_Dst6PvczoPL6htve1XSXYZ0eErCRing7L9R7IhRv9ibQJuJ2MzeZXMfcmverGQ==",
-    "salt": "xEE1FQEqZoiI9uDq78PlpQ==",
-    "text": "Irish folklore recounts the existence of Adhn\u00faall (Adnual), an animal featured in the tales of the legendary hero of Ireland, Fionn Mac Cumhaill. Adhn\u00faall is one of Fionn's hunting Dogs, albeit not as frequently seen as Fionn's trusted companions, Bran and Sceolan."
+ "name": "Adhnúall",
+ "attributes": [
+  {
+   "entity": "Adhnúall",
+   "attribute": "hunting dog of Fionn Mac Cumhaill"
+  },
+  {
+   "entity": "Fionn Mac Cumhaill",
+   "attribute": "Adhnúall is one of his hunting dogs"
+  },
+  {
+   "entity": "Bran and Sceolan",
+   "attribute": "primary companion hounds of Fionn"
+  }
+ ],
+ "entities": [
+  {
+   "entity": "Adhnúall",
+   "type": "Being"
+  },
+  {
+   "entity": "Fionn Mac Cumhaill",
+   "type": "Person"
+  },
+  {
+   "entity": "Bran",
+   "type": "Being"
+  },
+  {
+   "entity": "Sceolan",
+   "type": "Being"
+  }
+ ],
+ "sources": [
+  "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+ ],
+ "cyphertext": "LhV_fI4Z1OQzcP6fiL30w61LnvlFQmYL1-zOMSNVp_Y1uAVLfkTRqnCkZAt7MAYx98jW9_4FQgbe4eOqxyNj70Dl_CIKBN_x18owyHLzDsP8zpM8GNr9xgd6wuiYM21ihUXwZOF-WVhTabpbtImIcN6HrJ5_rrQ2NnRXREtlnmD5uiGyUPsXdGzJHv8NHRlQkcByZrIZRcD6XIUWgfAiUpVDcfYLEIwhywWlgQerOudIhEeOUjOeVg4E3AD4V_C8bKwiU3I_Dst6PvczoPL6htve1XSXYZ0eErCRing7L9R7IhRv9ibQJuJ2MzeZXMfcmverGQ==",
+ "salt": "xEE1FQEqZoiI9uDq78PlpQ==",
+ "text": "Adhnúall (Adnual) is an animal of Irish mythology. He is one of the hunting dogs of the hero Fionn Mac Cumhaill. He travels with his master less often than the primary hounds Bran and Sceolan do.",
+ "objective": "Describe Adhnúall as a hunting dog of Fionn Mac Cumhaill.",
+ "key_results": [
+  "Names Adhnúall as a hunting dog of Fionn",
+  "States he travels with Fionn less often than Bran and Sceolan."
+ ],
+ "evidence": "Monaghan, The Encyclopedia of Celtic Mythology and Folklore, s.v. Adhnúall."
 }
