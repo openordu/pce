@@ -1,45 +1,42 @@
 {
-    "name": "Berguisa",
-    "attributes": [
-        {
-            "entity": "Berguisa",
-            "attribute": "Goddess of crafts"
-        },
-        {
-            "entity": "Celts",
-            "attribute": "ethnic group"
-        },
-        {
-            "entity": "Burgundy",
-            "attribute": "eastern"
-        },
-        {
-            "entity": "Ucuetis",
-            "attribute": "consort"
-        }
+  "name": "Berguisa",
+  "attributes": [
+    {
+      "entity": "Berguisa",
+      "attribute": "goddess of crafts among the Celts"
+    },
+    {
+      "entity": "Berguisa",
+      "attribute": "her cult stood in eastern Burgundy"
+    },
+    {
+      "entity": "Berguisa",
+      "attribute": "consort of the god Ucuetis"
+    }
+  ],
+  "entities": [
+    {
+      "entity": "Berguisa",
+      "type": "Deity"
+    },
+    {
+      "entity": "Ucuetis",
+      "type": "Deity"
+    }
+  ],
+  "sources": [
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+  ],
+  "cyphertext": "54pqQbDBLlSJxaIru1MpcJD7f2iZCVmA3AlX1hebTI5vFWBP7rQ4pYUnXmsqtQWVNla9ohz5XB3vQ2G7y9jzjA8hUJUY9O17nvbgJtsNwtcCJUUydn7W9-bG1BVO1ARAFVLdmta6SOpKQcd_-69v_uuo82jVAywzmA5TMAEVcHOONrcA4zmg_D4AwJf0tIDiiA9OrMAHJNmrC7_qy7Ua94TNpCaSGhxYVAKtko_D",
+  "salt": "xZnl-AyZvUt9xxphG127jQ==",
+  "text": "Berguisa is a Continental Celtic goddess. She was the goddess of crafts among the Celts. Her cult stood in what is now eastern Burgundy. The god Ucuetis was her consort. The source gives little more than this short note.",
+  "okr": {
+    "objective": "Berguisa is a Continental goddess of crafts united with the god Ucuetis in eastern Burgundy.",
+    "key_results": [
+      "Berguisa is a goddess of crafts",
+      "Her cult stood in what is now eastern Burgundy",
+      "Her consort is the god Ucuetis"
     ],
-    "entities": [
-        {
-            "entity": "Berguisa",
-            "type": "Continental Celtic goddess"
-        },
-        {
-            "entity": "Celts",
-            "type": "ethnic group"
-        },
-        {
-            "entity": "Burgundy",
-            "type": "region"
-        },
-        {
-            "entity": "Ucuetis",
-            "type": "god"
-        }
-    ],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "cyphertext": "54pqQbDBLlSJxaIru1MpcJD7f2iZCVmA3AlX1hebTI5vFWBP7rQ4pYUnXmsqtQWVNla9ohz5XB3vQ2G7y9jzjA8hUJUY9O17nvbgJtsNwtcCJUUydn7W9-bG1BVO1ARAFVLdmta6SOpKQcd_-69v_uuo82jVAywzmA5TMAEVcHOONrcA4zmg_D4AwJf0tIDiiA9OrMAHJNmrC7_qy7Ua94TNpCaSGhxYVAKtko_D",
-    "salt": "xZnl-AyZvUt9xxphG127jQ==",
-    "text": "Continental Celtic deity Berguisa, revered by the Celts inhabiting eastern Burgundy, was associated with craftsmanship and served as the mate of the deity Ucuetis."
+    "evidence": "Monaghan 2008, s.v. 'Berguisa'."
+  }
 }

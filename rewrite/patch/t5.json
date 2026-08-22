@@ -1,0 +1,234 @@
+{
+  "Ben_Bulben.json": {
+    "text": "Ben Bulben is an Irish mythological site. The peak rises on the coast above the town of Sligo. A mound of stone sits near its summit. The hero Diarmait Ua Duibne died beside it. A magical boar had carried the hero on its back. Diarmait killed the beast. He then brushed against its body and pierced himself on a poisonous bristle. Fionn Mac Cumhaill was a healer and could have saved him. He chose to taunt the dying man instead. Grainne, Fionn's intended wife, had loved the younger Diarmait for years. That love drained Fionn as he chased the pair across Ireland. The peak now shadows the grave of William Butler Yeats.",
+    "entities": [
+      { "entity": "Ben Bulben", "type": "Place" },
+      { "entity": "Diarmait Ua Duibne", "type": "Person" },
+      { "entity": "Fionn Mac Cumhaill", "type": "Person" },
+      { "entity": "Grainne", "type": "Person" },
+      { "entity": "William Butler Yeats", "type": "Person" },
+      { "entity": "Sligo", "type": "Place" }
+    ],
+    "attributes": [
+      { "entity": "Ben Bulben", "attribute": "Irish mythological peak on the coast above Sligo" },
+      { "entity": "Diarmait Ua Duibne", "attribute": "died at Ben Bulben from the wound of a magical boar" },
+      { "entity": "Fionn Mac Cumhaill", "attribute": "a healer who could have saved Diarmait but chose to taunt him" },
+      { "entity": "Ben Bulben", "attribute": "shadows the grave of William Butler Yeats" }
+    ],
+    "okr": {
+      "objective": "Ben Bulben is the Sligo peak where the hero Diarmait Ua Duibne died, now tied to the poet Yeats.",
+      "key_results": [
+        "Ben Bulben is a peak above Sligo in the west of Ireland",
+        "Diarmait Ua Duibne died there from the wound of a magical boar",
+        "Fionn Mac Cumhaill could heal him but chose to taunt him",
+        "The peak now shadows the grave of William Butler Yeats"
+      ],
+      "evidence": "Monaghan 2008, s.v. 'Ben Bulben'."
+    }
+  },
+  "Bendonner.json": {
+    "text": "Bendonner is an Irish folk figure. This Scottish giant terrorized the coast of Ulster. The residents asked the giant Finn MacCOOL for help. Finn Mac Cool is a folk form of the hero Fionn Mac Cumhaill. Finn challenged Bendonner, then dressed in swaddling clothes. He posed as an enormous baby in an immense cradle. Bendonner saw the baby, feared its strength, and fled. He never troubled the coastal people again.",
+    "entities": [
+      { "entity": "Bendonner", "type": "Being" },
+      { "entity": "Finn Mac Cool", "type": "Person" },
+      { "entity": "Fionn Mac Cumhaill", "type": "Person" },
+      { "entity": "Ulster", "type": "Place" }
+    ],
+    "attributes": [
+      { "entity": "Bendonner", "attribute": "giant who terrorized the coast of Ulster" },
+      { "entity": "Bendonner", "attribute": "fled from Finn posing as an enormous baby" },
+      { "entity": "Bendonner", "attribute": "never troubled the Ulster people again" }
+    ],
+    "okr": {
+      "objective": "Bendonner is a giant whose terror of the Ulster coast ends when Finn Mac Cool tricks him with a baby disguise.",
+      "key_results": [
+        "Bendonner terrorized the coast of Ulster",
+        "The residents asked Finn Mac Cool for help",
+        "Finn posed as an enormous baby in swaddling clothes",
+        "Bendonner fled and never troubled Ulster again"
+      ],
+      "evidence": "Monaghan 2008, s.v. 'Bendonner'."
+    }
+  },
+  "Benn_Étair.json": {
+    "text": "Benn Étair is an Irish mythological hill. It is now the Hill of Howth near Dublin. The site appears in many legends. In the tale of the Sons of Tuireann, the weary heroes said their strength would return once they saw Benn Étair. The hill may have held healing power. Aidin, the widow of the hero Oscar, was buried there by the bard Oisin. A fairy woman, Etain of the Fair Hair, lived on the hill. She died of grief when her mortal husband was killed. The hill is named for her father, Étair.",
+    "entities": [
+      { "entity": "Benn Étair", "type": "Place" },
+      { "entity": "Howth", "type": "Place" },
+      { "entity": "Oscar", "type": "Person" },
+      { "entity": "Aidin", "type": "Person" },
+      { "entity": "Oisin", "type": "Person" },
+      { "entity": "Etain", "type": "Being" },
+      { "entity": "Étair", "type": "Person" }
+    ],
+    "attributes": [
+      { "entity": "Benn Étair", "attribute": "now the Hill of Howth near Dublin" },
+      { "entity": "Benn Étair", "attribute": "its sight was believed to restore the heroes' strength" },
+      { "entity": "Benn Étair", "attribute": "named for the father of Etain of the Fair Hair" },
+      { "entity": "Aidin", "attribute": "buried at Benn Étair by the bard Oisin" }
+    ],
+    "okr": {
+      "objective": "Benn Étair is the Dublin hill whose healing power, burials, and name bind the heroes, bard, and fairy woman of legend.",
+      "key_results": [
+        "Benn Étair is now the Hill of Howth near Dublin",
+        "The Sons of Tuireann believed its sight restored their strength",
+        "Aidin, widow of the hero Oscar, was buried there by Oisin",
+        "A fairy woman, Etain of the Fair Hair, died of grief on the hill"
+      ],
+      "evidence": "Monaghan 2008, s.v. 'Benn Étair'; Koch, Encyclopedia of Celtic Culture."
+    }
+  },
+  "Berba.json": {
+    "text": "Berba is an Irish goddess. She is the tutelary goddess of the River Barrow. In the Book of Invasions, the goddess Cesair is also called Berba. Cesair was Ireland's first settler. Berba is the proper title of the Barrow's guardian. She keeps a place among the Irish river goddesses.",
+    "entities": [
+      { "entity": "Berba", "type": "Deity" },
+      { "entity": "River Barrow", "type": "Place" },
+      { "entity": "Cesair", "type": "Person" }
+    ],
+    "attributes": [
+      { "entity": "Berba", "attribute": "tutelary goddess of the River Barrow" },
+      { "entity": "Berba", "attribute": "linked to Cesair, said to be the first to settle Ireland" }
+    ],
+    "okr": {
+      "objective": "Berba is an Irish river goddess guarding the Barrow, whose name also names the early figure Cesair.",
+      "key_results": [
+        "Berba is the tutelary goddess of the River Barrow",
+        "The Book of Invasions links the name Berba to Cesair",
+        "Berba stands among the Irish river goddesses"
+      ],
+      "evidence": "Monaghan 2008, s.v. 'Berba'."
+    }
+  },
+  "Bercilak.json": {
+    "text": "Bercilak is an Arthurian figure. This encyclopedia holds no separate Celtic account for him. The present entry is a cross-reference. It redirects the reader to the Gawain article. Treat this page as a pointer to that fuller account.",
+    "entities": [
+      { "entity": "Bercilak", "type": "Person" },
+      { "entity": "Gawain", "type": "Person" }
+    ],
+    "attributes": [
+      { "entity": "Bercilak", "attribute": "an Arthurian figure kept as a cross-reference" },
+      { "entity": "Bercilak", "attribute": "this entry points the reader to Gawain" }
+    ],
+    "okr": {
+      "objective": "Bercilak is an Arthurian name that this encyclopedia folds into the Gawain article rather than a whole separate entry.",
+      "key_results": [
+        "Bercilak is a cross-reference entry",
+        "It directs the reader to the Gawain article",
+        "No separate Celtic account exists for this name"
+      ],
+      "evidence": "Monaghan 2008, s.v. 'Bercilak'."
+    }
+  },
+  "Berecynthia.json": {
+    "text": "Berecynthia is a Continental Celtic goddess. The early Christian writer Gregory of Tours gave the record of her. Her image, veiled in white, was carried through the fields each spring. The rite also ran when crops threatened to fail. She may be a form of the goddess Brigindo. Both act as regional fertility spirits. Martin of Tours destroyed most of the region's pagan idols. Because of this no image of Berecynthia is likely to survive.",
+    "entities": [
+      { "entity": "Berecynthia", "type": "Deity" },
+      { "entity": "Brigindo", "type": "Deity" },
+      { "entity": "Gregory of Tours", "type": "Person" },
+      { "entity": "Martin of Tours", "type": "Person" }
+    ],
+    "attributes": [
+      { "entity": "Berecynthia", "attribute": "obscure Continental Celtic goddess" },
+      { "entity": "Berecynthia", "attribute": "her white-veiled image passed through the fields in spring" },
+      { "entity": "Berecynthia", "attribute": "possibly related to the goddess Brigindo" }
+    ],
+    "okr": {
+      "objective": "Berecynthia is a scantily known Continental goddess carried through the fields as a white-veiled image each spring.",
+      "key_results": [
+        "Gregory of Tours gives the chief record",
+        "Her white-veiled image moved through the fields in spring",
+        "The rite also ran when crops threatened to fail",
+        "Martin of Tours destroyed most idols, so images likely do not survive"
+      ],
+      "evidence": "Monaghan 2008, s.v. 'Berecynthia'."
+    }
+  },
+  "Berguisa.json": {
+    "text": "Berguisa is a Continental Celtic goddess. She was the goddess of crafts among the Celts. Her cult stood in what is now eastern Burgundy. The god Ucuetis was her consort. The source gives little more than this short note.",
+    "entities": [
+      { "entity": "Berguisa", "type": "Deity" },
+      { "entity": "Ucuetis", "type": "Deity" }
+    ],
+    "attributes": [
+      { "entity": "Berguisa", "attribute": "goddess of crafts among the Celts" },
+      { "entity": "Berguisa", "attribute": "her cult stood in eastern Burgundy" },
+      { "entity": "Berguisa", "attribute": "consort of the god Ucuetis" }
+    ],
+    "okr": {
+      "objective": "Berguisa is a Continental goddess of crafts united with the god Ucuetis in eastern Burgundy.",
+      "key_results": [
+        "Berguisa is a goddess of crafts",
+        "Her cult stood in what is now eastern Burgundy",
+        "Her consort is the god Ucuetis"
+      ],
+      "evidence": "Monaghan 2008, s.v. 'Berguisa'."
+    }
+  },
+  "Berrey_Dhone.json": {
+    "text": "Berrey Dhone is a Manx goddess. Her name means Brown Berry. She was a hag or witch on the Isle of Man. She lived on top of North Barrule Mountain or inside it. Like other forms of the Cailleach, she was a giant. Her rocky heelprint can still be seen on the mountainside.",
+    "entities": [
+      { "entity": "Berrey Dhone", "type": "Deity" },
+      { "entity": "North Barrule", "type": "Place" },
+      { "entity": "Isle of Man", "type": "Place" },
+      { "entity": "Cailleach", "type": "Being" }
+    ],
+    "attributes": [
+      { "entity": "Berrey Dhone", "attribute": "Manx goddess whose name means Brown Berry" },
+      { "entity": "Berrey Dhone", "attribute": "lived on or inside North Barrule" },
+      { "entity": "Berrey Dhone", "attribute": "a giant like other forms of the Cailleach" }
+    ],
+    "okr": {
+      "objective": "Berrey Dhone is a Manx goddess whose mountain home and giant footprint mark the Isle of Man.",
+      "key_results": [
+        "Berrey Dhone is a Manx goddess",
+        "She lived on or inside North Barrule",
+        "Like the Cailleach, she was a giant"
+      ],
+      "evidence": "Monaghan 2008, s.v. 'Berrey Dhone'."
+    }
+  },
+  "Biddy.json": {
+    "text": "Biddy is an Irish name for the goddess Brigit. People used it on the spring feast of Imbolc. Children then went begging from house to house. In Kerry, white-garbed young men were the Biddy Boys. They sang a short verse for the poor. The custom faded late in the twentieth century. It has since been revived in Kerry itself.",
+    "entities": [
+      { "entity": "Biddy", "type": "Title" },
+      { "entity": "Brigit", "type": "Deity" },
+      { "entity": "Imbolc", "type": "Event" },
+      { "entity": "Kerry", "type": "Place" }
+    ],
+    "attributes": [
+      { "entity": "Biddy", "attribute": "a nickname for the goddess Brigit" },
+      { "entity": "Biddy", "attribute": "used on the feast of Imbolc" },
+      { "entity": "Biddy", "attribute": "linked to the Biddy Boys of Kerry" }
+    ],
+    "okr": {
+      "objective": "Biddy is a folk name for Brigit that survives in a custom and dance around the feast of Imbolc.",
+      "key_results": [
+        "Biddy is a nickname for the goddess Brigit",
+        "The name was used on the feast of Imbolc",
+        "Biddy Boys of Kerry sang for alms on the street"
+      ],
+      "evidence": "Monaghan 2008, s.v. 'Biddy'."
+    }
+  },
+  "Biddy_Early.json": {
+    "text": "Biddy Early was an Irish folk heroine. People called her the White Witch of Clare. She was a healer in the eastern part of County Clare in the 19th century. Her name still stands a century and a half later. She was a real woman of the parish of Feakle in the Slieve Aughty hills. The fairies were said to have given her a magical blue bottle. She looked into it to learn the cause of an illness. She often clashed with the local clergy. When she died she threw the bottle into a stream. Locals say it still rests there today.",
+    "entities": [
+      { "entity": "Biddy Early", "type": "Person" },
+      { "entity": "County Clare", "type": "Place" }
+    ],
+    "attributes": [
+      { "entity": "Biddy Early", "attribute": "healer known as the White Witch of Clare" },
+      { "entity": "Biddy Early", "attribute": "a real woman of the eastern part of County Clare" }
+    ],
+    "okr": {
+      "objective": "Biddy Early is a folk heroine based on a real healer from County Clare, remembered by the white bottle legend.",
+      "key_results": [
+        "Biddy Early healed in the eastern part of County Clare in the 19th century",
+        "She was called the White Witch of Clare",
+        "The fairies were said to give her a magical bottle",
+        "She threw the bottle into a stream on her death"
+      ],
+      "evidence": "Monaghan 2008, s.v. 'Biddy Early'."
+    }
+  }
+}
