@@ -3,33 +3,37 @@
     "attributes": [
         {
             "entity": "Arvernorix",
-            "attribute": "obscure god"
+            "attribute": "known from only a few inscriptions"
         },
         {
-            "entity": "Arverni",
-            "attribute": "tribal divinity"
-        },
-        {
-            "entity": "Arvernus",
+            "entity": "Arvernorix",
             "attribute": "may have been the tribal divinity of the Arverni"
         },
         {
-            "entity": "two spellings",
-            "attribute": "represent different gods or the same one"
+            "entity": "Arvernorix",
+            "attribute": "possibly the same god as Arvernus"
+        },
+        {
+            "entity": "Arvernus",
+            "attribute": "alternate spelling of Arvernorix"
         }
     ],
     "entities": [
         {
             "entity": "Arvernorix",
-            "type": "Continental Celtic god"
+            "type": "Person"
         },
         {
             "entity": "Arvernus",
-            "type": "Continental Celtic god"
+            "type": "Person"
         },
         {
             "entity": "Arverni",
-            "type": "tribe"
+            "type": "Group"
+        },
+        {
+            "entity": "Gaul",
+            "type": "Place"
         }
     ],
     "sources": [
@@ -37,5 +41,12 @@
     ],
     "cyphertext": "h3r7FTSuZqtJZfHYrYnyQiMw86YAKujwil70kwN0fABXSnmich0LQanclJ2ksPL1ae7WM_w9N8AnM9V-7PROYIfWjioMeY26_r2-AD5mDAJNGunTOdRkyhliXXiHUpU5I9oGptxMXhuKmElUW7j_qIftaM_oZkjW7YoyNZ8jHfBcuxPg143dBN3iXaqt0wGazWxTnoRlY52OvAjWCgpL5CJodEICWhhSSN23iQj9BxzTMb0yE3qC5bowmSU43IAm7Avt2J48bDvF77DcyTuwEt3IEX5eEoNBmDqF8aVqGlyUTOiYYLVIi3CRqe4KwF-GF07kMK_7j-y8aPUNBbvNJIijOwzam6TBgw==",
     "salt": "ICKw_myimENNQevzYbpkOw==",
-    "text": "An unknown Continental Celtic deity named Arvernorix, who is known from a limited number of inscriptions, is believed to have been the Arverni's tribal god. It is uncertain whether the alternate spellings indicate distinct gods or simply one."
+    "text": "Arvernorix was an obscure Continental Celtic god. Scholars know him from only a few inscriptions. He may have been the tribal divinity of the Arverni. The Arverni were a Celtic people of Gaul. It is unclear whether the two spellings mean two separate gods. Arvernorix and Arvernus might instead name a single god. The surviving records are very few. This scarcity makes the god's true nature hard to judge. His link to the Arverni remains a reasonable guess. The name of the tribe supports the idea. Still, scholars must treat the link with caution.",
+    "objective": "Record Arvernorix as a Person.",
+    "key_results": [
+        "Document Arvernorix as an obscure Continental Celtic god.",
+        "Record his possible role as tribal divinity of the Arverni.",
+        "Note the unclear relation to the spelling Arvernus."
+    ],
+    "evidence": "Monaghan 2003, s.v. Arvernorix."
 }
