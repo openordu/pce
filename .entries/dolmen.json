@@ -1,88 +1,92 @@
 {
-    "name": "dolmen",
-    "entities": [
-        {
-            "entity": "stone uprights",
-            "type": "artifact"
-        },
-        {
-            "entity": "prehistoric people",
-            "type": "culture"
-        },
-        {
-            "entity": "structures",
-            "type": "artifact"
-        },
-        {
-            "entity": "burials",
-            "type": "event"
-        },
-        {
-            "entity": "dolmens",
-            "type": "artifact"
-        },
-        {
-            "entity": "Human Sacrifice",
-            "type": "concept"
-        },
-        {
-            "entity": "remains",
-            "type": "artifact"
-        },
-        {
-            "entity": "people",
-            "type": "group"
-        },
-        {
-            "entity": "high status",
-            "type": "attribute"
-        },
-        {
-            "entity": "distinguished burial",
-            "type": "attribute"
-        }
-    ],
-    "attributes": [
-        {
-            "entity": "stone uprights",
-            "attribute": "capped with huge crossbeams"
-        },
-        {
-            "entity": "prehistoric people",
-            "attribute": "engineering was so exact"
-        },
-        {
-            "entity": "structures",
-            "attribute": "still standing today"
-        },
-        {
-            "entity": "burials",
-            "attribute": "few in comparison to the population"
-        },
-        {
-            "entity": "remains",
-            "attribute": "sometimes cremated elsewhere"
-        },
-        {
-            "entity": "dolmens",
-            "attribute": "victims of Human Sacrifice"
-        },
-        {
-            "entity": "people",
-            "attribute": "high status"
-        },
-        {
-            "entity": "people",
-            "attribute": "considered worthy of a distinguished burial"
-        }
-    ],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "image": [
-        "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Macro%2C_Liquid_drop_on_Feather%2C_70-300mm-Coupler_%26_reverse_Lens-213.jpg/1200px-Macro%2C_Liquid_drop_on_Feather%2C_70-300mm-Coupler_%26_reverse_Lens-213.jpg"
-    ],
-    "cyphertext": "IX5Mpf0x0k0X-wxxdKPs_Uzhdy8Mp27PikS15xV8YM8jyhncjnL3RyVmLnFO5OGywbwOdYp1GYOZrke95h5aSo5czhnr4E_wEFPH5zmcAy2afY3VBRYwyMz-1GOzqFH8dV3fRTVXPhfDoiLpFin7Id26qiEiOWITauLe1xQDXISDgW3xr8NVx3AuPjlxyl873HcQ035QK9x0eCJgx7M4YL-DQ9IBP6qdUGfbubimw23Ks1m5Ydr88ywz97x6Y31WjLZ0GSXMgqcKY1TnWPQA6A4Q7RaaDIXU6IKMb3SWyWlr4IRaQuz85wCFc1W60J0DuseoVPrj-FQSXBaHjS0fu9SZH3-yjJTxjZmh_HxEkQ0j1FNsPaWh8i6unSLSPwRo6diKMD3bMmMCsJiziDUmoGVmswoJr11YxZoQbvGfoR78m9u1UI1PE6qu9hnRjZQdfg6zX73SmYyUzfoCec0CAJ7wlPHMigAcxtQ60TlsgRPX6ukWzFgBmrPNFdD1GM31bcec1hbcvURQKg9tHxxlUS9JNoePJYSviUyO_bhc2tpsgsX8lQXuQVD4o4AD9vYDjMaiKk1Ernoz41Hxkjps1gC1JYsU6pwrkpQI93pdlzp8YGVCGy8DIDmvDdVoOtOJQ9Cy8FCMUuXxWKuduiQxCGkvKCuGfTjxuPt1iNiX1vo2NGPQWh_IQmPidNeYeCeEMNtSsM66qr_bUmuh27jxrDqeSg1v3XOuWU-oCvKtoHTpXzfzoqK-vMfPkcKJflKLkgB64g6sX6D3yycGpbgTqkBn3TxkfjyCbnnHADSk_U_Vb5IHnTb1dD6wz6Nw-j2KXiceoMMRd-h-4OlmKucMbDeKdmutXg==",
-    "salt": "D6y7wDV6NW3kolp580VcFg==",
-    "text": "Symbolic structures known as dolmens dot Celtic lands, standing as doorways of stone leading nowhere. These stone structures are found in fields, pastures, on rocky hills and in verdant valleys, and are called dolmens, which means \u201ctable of stone\u201d in Breton. While contemporary archaeologists prefer the term portal tomb, in Wales they are called cromlechs, from words meaning \u201cbent\u201d and \u201cflat stone\u201d. Druid altars is another common name for dolmens, although they were built thousands of years before the Celts and their priests arrived in the land. Even after approximately 6,000 years have elapsed since their creation, these structures created by the mysterious prehistoric people can still be seen throughout the land, their engineering proving to be so precise. While dolmens are often referred to as tombs due to indications of burials found in recesses beneath them, these burials were few compared to the population. Some of those buried beneath the dolmens might have been victims of human sacrifice, or may have been individuals of high status who were given an esteemed burial. Nevertheless, these structures may have had purposes other than funereal. In fact, dolmen-like structures found in the Canadian arctic serve as both geographical markers and shamanic pathways to another world. Even though the Celts who created many stories about the dolmens arrived much later, tales such as \u201cbeds of Diarmait and Gr\u00e1inne\u201d are still told in Ireland, wherein the fleeing couple reportedly slept on different dolmens each night while escaping Gr\u00e1inne\u2019s furious intended husband, Fionn Mac Cumhaill. The dolmens are linked to Fertility and sexuality, as per this myth, as well as in frequent folktales which suggest that the stones either result in sterility and barrenness or increase the probability of conception. These legends may reflect pre-Celtic conceptions of the pre-Celtic structures, might be of Celtic origin, or might signify Christian insertions into Celtic legend."
+  "name": "dolmen",
+  "entities": [
+    {
+      "entity": "dolmen",
+      "type": "symbolic structure"
+    },
+    {
+      "entity": "portal tomb",
+      "type": "archaeological term"
+    },
+    {
+      "entity": "cromlech",
+      "type": "stone structure"
+    },
+    {
+      "entity": "Druid altar",
+      "type": "popular label"
+    },
+    {
+      "entity": "Diarmait",
+      "type": "Irish hero"
+    },
+    {
+      "entity": "Gráinne",
+      "type": "Irish folkloric figure"
+    },
+    {
+      "entity": "Fionn mac Cumhaill",
+      "type": "Irish hero"
+    },
+    {
+      "entity": "shamanic doorway",
+      "type": "concept"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "dolmen",
+      "attribute": "called a portal tomb by archaeologists"
+    },
+    {
+      "entity": "dolmen",
+      "attribute": "called a cromlech in Wales"
+    },
+    {
+      "entity": "dolmen",
+      "attribute": "built thousands of years before the Celts arrived"
+    },
+    {
+      "entity": "dolmen",
+      "attribute": "noted for precise stone engineering"
+    },
+    {
+      "entity": "dolmen",
+      "attribute": "contains burial recesses under it"
+    },
+    {
+      "entity": "dolmen",
+      "attribute": "called the beds of Diarmait and Gráinne in Ireland"
+    },
+    {
+      "entity": "Diarmait and Gráinne",
+      "attribute": "slept on a different dolmen each night while eloping"
+    },
+    {
+      "entity": "Fionn mac Cumhaill",
+      "attribute": "was Gráinne's intended husband"
+    },
+    {
+      "entity": "dolmen",
+      "attribute": "linked to fertility and sexuality by folklore"
+    }
+  ],
+  "sources": [
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+  ],
+  "image": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Macro%2C_Liquid_drop_on_Feather%2C_70-300mm-Coupler_%26_reverse_Lens-213.jpg/1200px-Macro%2C_Liquid_drop_on_Feather%2C_70-300mm-Coupler_%26_reverse_Lens-213.jpg"
+  ],
+  "cyphertext": "IX5Mpf0x0k0X-wxxdKPs_Uzhdy8Mp27PikS15xV8YM8jyhncjnL3RyVmLnFO5OGywbwOdYp1GYOZrke95h5aSo5czhnr4E_wEFPH5zmcAy2afY3VBRYwyMz-1GOzqFH8dV3fRTVXPhfDoiLpFin7Id26qiEiOWITauLe1xQDXISDgW3xr8NVx3AuPjlxyl873HcQ035QK9x0eCJgx7M4YL-DQ9IBP6qdUGfbubimw23Ks1m5Ydr88ywz97x6Y31WjLZ0GSXMgqcKY1TnWPQA6A4Q7RaaDIXU6IKMb3SWyWlr4IRaQuz85wCFc1W60J0DuseoVPrj-FQSXBaHjS0fu9SZH3-yjJTxjZmh_HxEkQ0j1FNsPaWh8i6unSLSPwRo6diKMD3bMmMCsJiziDUmoGVmswoJr11YxZoQbvGfoR78m9u1UI1PE6qu9hnRjZQdfg6zX73SmYyUzfoCec0CAJ7wlPHMigAcxtQ60TlsgRPX6ukWzFgBmrPNFdD1GM31bcec1hbcvURQKg9tHxxlUS9JNoePJYSviUyO_bhc2tpsgsX8lQXuQVD4o4AD9vYDjMaiKk1Ernoz41Hxkjps1gC1JYsU6pwrkpQI93pdlzp8YGVCGy8DIDmvDdVoOtOJQ9Cy8FCMUuXxWKuduiQxCGkvKCuGfTjxuPt1iNiX1vo2NGPQWh_IQmPidNeYeCeEMNtSsM66qr_bUmuh27jxrDqeSg1v3XOuWU-oCvKtoHTpXzfzoqK-vMfPkcKJflKLkgB64g6sX6D3yycGpbgTqkBn3TxkfjyCbnnHADSk_U_Vb5IHnTb1dD6wz6Nw-j2KXiceoMMRd-h-4OlmKucMbDeKdmutXg==",
+  "salt": "D6y7wDV6NW3kolp580VcFg==",
+  "text": "The dolmen is a symbolic stone structure. Doorways of stone stand in fields and pasture across the Celtic lands. They rest on rocky hills and in green valleys. The Breton word dolmen means table of stone. Only a giant could eat off most dolmens. Archaeologists prefer the term portal tomb. In Wales the same structures are called cromlechs, from words meaning bent and flat stone. People also call them Druid altars. But they were built thousands of years before the Celts and their priests arrived. Some 6,000 years have passed since stone uprights met huge crossbeams. The builders were so precise that many structures still stand. Burials appear in recesses under the dolmens. This is why archaeologists call them tombs. Yet burials were few compared to the population. Those buried beneath may have been victims of human sacrifice. Or they may have been people of high birth deemed worthy of a special grave. Similar stone structures in the Canadian arctic mark geography and open shamanic doorways. In Ireland these stones are called the beds of Diarmait and Gráinne. The eloping couple was said to sleep on a different one each night. They fled Fionn mac Cumhaill, her angry intended husband. This legend links dolmens to fertility and sexuality. Folklore claims the stones cause sterility, or that they raise the chance of conception.",
+  "objective": "Record the dolmen as a prehistoric Celtic stone tomb and fertility-linked landmark.",
+  "key_results": [
+    "The Breton word dolmen means table of stone, and archaeologists call it a portal tomb.",
+    "The structures predate the Celts and Druids by thousands of years.",
+    "Burial recesses under dolmens point to tombs and possible human sacrifice.",
+    "In Ireland the stones are called the beds of Diarmait and Gráinne and linked to fertility."
+  ],
+  "evidence": "Monaghan, The Encyclopedia of Celtic Mythology and Folklore (dolmen)"
 }
