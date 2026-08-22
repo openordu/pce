@@ -1,37 +1,91 @@
 {
-    "name": "Fergus Lethderg",
-    "attributes": [
-        {
-            "entity": "Fergus Lethderg",
-            "attribute": "son of Nemed"
-        },
-        {
-            "entity": "Nemed",
-            "attribute": "mythological settler"
-        },
-        {
-            "entity": "British people",
-            "attribute": "ancestral father"
-        }
+  "name": "Fergus Lethderg",
+  "attributes": [
+    {
+      "entity": "Fergus Lethderg",
+      "attribute": "ancestral father of the British people"
+    },
+    {
+      "entity": "Fergus Lethderg",
+      "attribute": "settled on the island east of his home"
+    },
+    {
+      "entity": "Semeon",
+      "attribute": "ancestor of the Fir Bolg"
+    },
+    {
+      "entity": "Tuatha Dé Danann",
+      "attribute": "won Ireland at Mag Tuired"
+    },
+    {
+      "entity": "Fergus Lethderg",
+      "attribute": "name relates to the word nemeton"
+    }
+  ],
+  "entities": [
+    {
+      "entity": "Fergus Lethderg",
+      "type": "hero"
+    },
+    {
+      "entity": "Britán",
+      "type": "person"
+    },
+    {
+      "entity": "Britannia",
+      "type": "god"
+    },
+    {
+      "entity": "British people",
+      "type": "group"
+    },
+    {
+      "entity": "Semeon",
+      "type": "person"
+    },
+    {
+      "entity": "Fir Bolg",
+      "type": "group"
+    },
+    {
+      "entity": "Fomorians",
+      "type": "group"
+    },
+    {
+      "entity": "Tuatha Dé Danann",
+      "type": "group"
+    },
+    {
+      "entity": "Mag Tuired",
+      "type": "place"
+    },
+    {
+      "entity": "nemeton",
+      "type": "concept"
+    },
+    {
+      "entity": "druid",
+      "type": "person"
+    },
+    {
+      "entity": "Book of Invasions",
+      "type": "artifact"
+    }
+  ],
+  "sources": [
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+  ],
+  "cyphertext": "V8Jjwtla7XMfZi_DI_AXWt2qQ9Vkr-TBcsPUMmPVntc4nJO3JD0jHzntWcQNckolmuLXp2YyUtdcZInvBNuBscAsexT1CYa49WUVPA8UMyhP9EBQkA9XvkoqkXx3XNLLYHgf8ARyY2KBIXJrBfe6dKZWhDqt3F_e4w879hbIKAi3O72zLVNOY-zwgZLrD6x2MQ==",
+  "salt": "sy7kdTeulmFsEqBJDSYOyw==",
+  "text": "Fergus Lethderg moved to the island east of his home. He settled there with his son Britán. Some claim the island took its name from Britán. Others point instead to a goddess called Britannia. From him the British people traced their ancestry. Semeon, yet another of his descendants, journeyed as far as Greece. From him the Fir Bolg traced their line there. The Fir Bolg came back to Ireland and fought the Fomorians once more. Other descendants went far to the north. This band became known as the Tuatha Dé Danann. They came back and took Ireland from both peoples, winning the battles fought at Mag Tuired. His name draws on the Celtic word nemeton, signifying a hallowed grove or place. This god or hero may take his name from the idea of a sacred person or a druid. The Book of Invasions may hold some real history within its tales. The Nemedians appear to be a Celtic people who dwelt in Ireland before settling in Britain. They stayed powerful until the Angles and Saxons arrived. Reading the Book of Invasions as real settlement history stays conjecture.",
+  "okr": {
+    "objective": "Fergus Lethderg is a son of the settler Nemed who became the ancestral father of the British people.",
+    "key_results": [
+      "Fergus Lethderg settled on the island east of his home and became the ancestral father of the British people.",
+      "His descendant Semeon became the ancestor of the Fir Bolg.",
+      "Other descendants became the Tuatha Dé Danann, who won Ireland at Mag Tuired.",
+      "His name may connect to the Celtic word nemeton, meaning sacred place."
     ],
-    "entities": [
-        {
-            "entity": "Fergus Lethderg",
-            "type": "person"
-        },
-        {
-            "entity": "Nemed",
-            "type": "person"
-        },
-        {
-            "entity": "British people",
-            "type": "group"
-        }
-    ],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "cyphertext": "V8Jjwtla7XMfZi_DI_AXWt2qQ9Vkr-TBcsPUMmPVntc4nJO3JD0jHzntWcQNckolmuLXp2YyUtdcZInvBNuBscAsexT1CYa49WUVPA8UMyhP9EBQkA9XvkoqkXx3XNLLYHgf8ARyY2KBIXJrBfe6dKZWhDqt3F_e4w879hbIKAi3O72zLVNOY-zwgZLrD6x2MQ==",
-    "salt": "sy7kdTeulmFsEqBJDSYOyw==",
-    "text": "Ancestral father to the British people was Fergus Lethderg - one of the three sons of the mythological settler Nemed."
+    "evidence": "Monaghan, Encyclopedia of Celtic Mythology and Folklore"
+  }
 }

@@ -1,37 +1,46 @@
 {
-    "name": "Fiecal",
-    "attributes": [
-        {
-            "entity": "Fiecal",
-            "attribute": "Irish"
-        },
-        {
-            "entity": "Fionn Mac Cumhaill",
-            "attribute": "hero"
-        },
-        {
-            "entity": "wise women",
-            "attribute": "minor role"
-        }
+  "name": "Fiecal",
+  "sources": [
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+  ],
+  "cyphertext": "sVQgmJrKjAdmoXVfdmt-nS6EOskqWgNTVeK0ptSnMyF7Nk50Mh6QESDvxT4DILLAcW_fcF-wV_9z7FLakbsVQ4ro3ibwifDbyW2d3KbP4SsGBJIvlygkMd7UrVQ97KAzYvIfAZC7ZA7ttvHUHWjLmzHuFOW9vhkVt9uO4WqoC4k6hYQRAkTVpgAy0VTWp1okx6WqVjhkCbGhXQe1qH4e8UZxYLf-AKAb6mZ_xLfIpg==",
+  "salt": "NcFe9gfuWz_xpFJnj4fwGQ==",
+  "text": "Fiecal stands among the heroines of Ireland. She formed part of the circle of wise women who brought up Fionn Mac Cumhaill, the great hero. Within the tales that follow his life, her part stays small.",
+  "entities": [
+    {
+      "entity": "Fiecal",
+      "type": "hero"
+    },
+    {
+      "entity": "wise women",
+      "type": "group"
+    },
+    {
+      "entity": "Fionn Mac Cumhaill",
+      "type": "hero"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Fiecal",
+      "attribute": "an Irish heroine"
+    },
+    {
+      "entity": "Fiecal",
+      "attribute": "one of the wise women who reared Fionn Mac Cumhaill"
+    },
+    {
+      "entity": "Fiecal",
+      "attribute": "plays a minor role in the Fenian cycle"
+    }
+  ],
+  "okr": {
+    "objective": "Fiecal is an Irish heroine and one of the wise women who reared Fionn Mac Cumhaill.",
+    "key_results": [
+      "An Irish heroine.",
+      "One of the wise women who reared Fionn Mac Cumhaill.",
+      "A minor figure in the cycle of stories about him."
     ],
-    "entities": [
-        {
-            "entity": "Fiecal",
-            "type": "Irish heroine"
-        },
-        {
-            "entity": "wise women",
-            "type": "character"
-        },
-        {
-            "entity": "Fionn Mac Cumhaill",
-            "type": "hero"
-        }
-    ],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "cyphertext": "sVQgmJrKjAdmoXVfdmt-nS6EOskqWgNTVeK0ptSnMyF7Nk50Mh6QESDvxT4DILLAcW_fcF-wV_9z7FLakbsVQ4ro3ibwifDbyW2d3KbP4SsGBJIvlygkMd7UrVQ97KAzYvIfAZC7ZA7ttvHUHWjLmzHuFOW9vhkVt9uO4WqoC4k6hYQRAkTVpgAy0VTWp1okx6WqVjhkCbGhXQe1qH4e8UZxYLf-AKAb6mZ_xLfIpg==",
-    "salt": "NcFe9gfuWz_xpFJnj4fwGQ==",
-    "text": "A heroine of the Irish mythology, Fiecal was among the wise women who raised Fionn Mac Cumhaill. While her part in the stories centered around him is minimal, she is still regarded an important figure in the cycle."
+    "evidence": "Monaghan, Encyclopedia of Celtic Mythology and Folklore"
+  }
 }

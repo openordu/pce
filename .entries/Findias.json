@@ -1,37 +1,63 @@
 {
-    "name": "Findias",
-    "entities": [
-        {
-            "entity": "Findias",
-            "type": "mythological site"
-        },
-        {
-            "entity": "Irish",
-            "type": "nationality"
-        },
-        {
-            "entity": "Tuatha D\u00e9 Danann",
-            "type": "magical group"
-        },
-        {
-            "entity": "Uscias",
-            "type": "master of Wisdom"
-        },
-        {
-            "entity": "Nuada",
-            "type": "king"
-        }
+  "name": "Findias",
+  "sources": [
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+  ],
+  "cyphertext": "FAi1MpIfBKVC_htkKHJJP5pM0S4XrH4GbIoorItqRpYQ_aOtT-0WjFTHzC8_btBZC_NTNufQrqJ9VOdQI7_gplaTpYffLuWpT9g71wb5eqUDRT1ioGi-ZeITj9LUWYr2311C-LWeOd0ANYKKzLXQ9fKaPNXwzWVLlQ9q0yfrvK_0Ahq1h_4D_wMF8hqelJQ6YzuubH-0Man0OOvSTEgYVozW_jOrFDU9NLh5TkIy9FO8E9ebHd5xhZqjK6a8qqQl5IVbds7BfK401A6eX06W8uH7FDAcLCxTZUPm7onfS5cKOP4eTol1C6s=",
+  "salt": "mLzuE-TnhwUTn7Zj5Hkx9w==",
+  "text": "The entry for Findias concerns Find, a divinity of Ireland. This word, meaning white, turns up within the names of many mythic figures and heroes of folk tale. Evidence hints at an early deity with this name, perhaps a god who came before the great hero Fionn Mac Cumhaill, alternatively a goddess tied to Bóand, a white cow goddess who gave her name to the River Boyne. Later, the geographer Ptolemy spoke of a deity he called Bouvinda during the second century of the Common Era, whose name shares a root with the magic cow Bó Find, a creature that may itself appear as an aspect of Bóand. One cannot say whether the term functions as a name or merely a title, or whether it points to one being or to the shining quality of divinity at large.",
+  "entities": [
+    {
+      "entity": "Find",
+      "type": "concept"
+    },
+    {
+      "entity": "Fionn Mac Cumhaill",
+      "type": "hero"
+    },
+    {
+      "entity": "Bóand",
+      "type": "god"
+    },
+    {
+      "entity": "Bó Find",
+      "type": "animal"
+    },
+    {
+      "entity": "Bouvinda",
+      "type": "god"
+    },
+    {
+      "entity": "River Boyne",
+      "type": "place"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Find",
+      "attribute": "an Irish divinity whose word means white"
+    },
+    {
+      "entity": "Bóand",
+      "attribute": "a white cow goddess whose name the River Boyne carries"
+    },
+    {
+      "entity": "Bó Find",
+      "attribute": "a magical cow possibly an aspect of Bóand"
+    },
+    {
+      "entity": "Bouvinda",
+      "attribute": "a divinity named by Ptolemy, linked to Bó Find"
+    }
+  ],
+  "okr": {
+    "objective": "Findias covers Find, an Irish divinity whose word means white.",
+    "key_results": [
+      "Find is an Irish divinity, the word meaning white.",
+      "Possibly a god prefiguring Fionn Mac Cumhaill or a goddess tied to Bóand.",
+      "Ptolemy, in the second century C.E., named a divinity Bouvinda linked to the cow Bó Find.",
+      "It is unclear whether the word is a name or a title."
     ],
-    "attributes": [
-        {
-            "entity": "king Nuada",
-            "attribute": "unerring sword"
-        }
-    ],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "cyphertext": "FAi1MpIfBKVC_htkKHJJP5pM0S4XrH4GbIoorItqRpYQ_aOtT-0WjFTHzC8_btBZC_NTNufQrqJ9VOdQI7_gplaTpYffLuWpT9g71wb5eqUDRT1ioGi-ZeITj9LUWYr2311C-LWeOd0ANYKKzLXQ9fKaPNXwzWVLlQ9q0yfrvK_0Ahq1h_4D_wMF8hqelJQ6YzuubH-0Man0OOvSTEgYVozW_jOrFDU9NLh5TkIy9FO8E9ebHd5xhZqjK6a8qqQl5IVbds7BfK401A6eX06W8uH7FDAcLCxTZUPm7onfS5cKOP4eTol1C6s=",
-    "salt": "mLzuE-TnhwUTn7Zj5Hkx9w==",
-    "text": "A land called Findias (also known as Finias or Findrias) is cited in Irish mythology. It is a city of the Tuatha D\u00e9 Danann, a group of mystical beings, and was governed by an individual highly adept in Wisdom by the name of Uscias. The unerring sword of the ruler Nuada was discovered in Findias."
+    "evidence": "Monaghan, Encyclopedia of Celtic Mythology and Folklore"
+  }
 }

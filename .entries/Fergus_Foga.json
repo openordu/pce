@@ -1,18 +1,46 @@
 {
-    "name": "Fergus Foga",
-    "attributes": {},
-    "entities": [
-        {
-            "text": "\u2022 Fergus Foga"
-        },
-        {
-            "text": "Ulster"
-        }
+  "name": "Fergus Foga",
+  "attributes": [
+    {
+      "entity": "Fergus Foga",
+      "attribute": "early king of Ulster"
+    },
+    {
+      "entity": "Fergus Foga",
+      "attribute": "invented the spear"
+    },
+    {
+      "entity": "Fergus Foga",
+      "attribute": "an important bearer of the Fergus name"
+    }
+  ],
+  "entities": [
+    {
+      "entity": "Fergus Foga",
+      "type": "hero"
+    },
+    {
+      "entity": "Ulster",
+      "type": "place"
+    },
+    {
+      "entity": "spear",
+      "type": "artifact"
+    }
+  ],
+  "sources": [
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+  ],
+  "cyphertext": "UPCQCaytlKV7ue-lOYIzy2gClrhWwiUasEHfOqxex9eLjAOgF8CUVf-_PW2Fjp5iCoCwglISLMxrpYdSIQaZpEnyilY5v-U9Yd-rv9Uk_p9nU1zW1UcoezDMR8A_",
+  "salt": "Ka0qNwPFDA-WZ4_ElW2G5A==",
+  "text": "Fergus Foga ranked among Ulster's earliest kings. He appears among the most important figures who bore the name Fergus. He is credited with inventing the spear. His name came to mean male potency or manhood. Most bearers of the name were minor, but Foga stands out for this invention.",
+  "okr": {
+    "objective": "Fergus Foga is an early king of Ulster who is credited with inventing the spear.",
+    "key_results": [
+      "Fergus Foga ruled as an early king of Ulster.",
+      "He is credited with inventing the spear.",
+      "He ranks among the most important figures who bore the name Fergus."
     ],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "cyphertext": "UPCQCaytlKV7ue-lOYIzy2gClrhWwiUasEHfOqxex9eLjAOgF8CUVf-_PW2Fjp5iCoCwglISLMxrpYdSIQaZpEnyilY5v-U9Yd-rv9Uk_p9nU1zW1UcoezDMR8A_",
-    "salt": "Ka0qNwPFDA-WZ4_ElW2G5A==",
-    "text": ""
+    "evidence": "Monaghan, Encyclopedia of Celtic Mythology and Folklore"
+  }
 }

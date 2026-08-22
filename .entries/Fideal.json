@@ -1,53 +1,47 @@
 {
-    "name": "Fideal",
-    "attributes": [
-        {
-            "entity": "Fideal",
-            "attribute": "Scottish folkloric figure"
-        },
-        {
-            "entity": "Highland",
-            "attribute": "location"
-        },
-        {
-            "entity": "Vough",
-            "attribute": "species"
-        },
-        {
-            "entity": "siren figure",
-            "attribute": "description"
-        },
-        {
-            "entity": "lakes and ponds",
-            "attribute": "location"
-        },
-        {
-            "entity": "handsome young men",
-            "attribute": "target"
-        },
-        {
-            "entity": "drowned",
-            "attribute": "method"
-        }
+  "name": "Fideal",
+  "sources": [
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+  ],
+  "cyphertext": "HoTl22Rm6dMBa9aAFao0npw1lQjT9TeNkF5YdKsyyn5khSFLEPrBJ9aSJSCWMXB32QJJdvs0YYrewCun1Gnb_vKcFIw2Deln8tL2bP81cESTHPF6cUdTFOxTXNaWxlABfuxRlo-JQuAKP5w7S9zIG1T_3egJ38gmlXqeeQLpdOI0tfVkCbNQmoWXhqitEZEqow3m22nfpaouk2o-XdiiRAtyEId5or-TBfJK4rjCAe-nRsxDcsU=",
+  "salt": "tieO8o2zBHNGMuskJzxdTw==",
+  "text": "Fideal is a figure from the folklore of Scotland. This Highland water spirit led attractive young men toward lakes and ponds, where she drowned them. She counts as a kind of Vough.",
+  "entities": [
+    {
+      "entity": "Fideal",
+      "type": "mythological creature"
+    },
+    {
+      "entity": "Highland",
+      "type": "place"
+    },
+    {
+      "entity": "Vough",
+      "type": "species"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Fideal",
+      "attribute": "a Highland siren"
+    },
+    {
+      "entity": "Fideal",
+      "attribute": "lured young men into lakes and drowned them"
+    },
+    {
+      "entity": "Fideal",
+      "attribute": "a species of the Vough"
+    }
+  ],
+  "okr": {
+    "objective": "Fideal is a Scottish water siren and a species of the Vough.",
+    "key_results": [
+      "A figure from Scottish folklore.",
+      "A Highland siren who lured handsome young men into lakes and ponds.",
+      "She drowned her victims.",
+      "Classed as a species of the Vough."
     ],
-    "entities": [
-        {
-            "entity": "Fideal",
-            "type": "Scottish folkloric figure"
-        },
-        {
-            "entity": "Highland",
-            "type": "location"
-        },
-        {
-            "entity": "Vough",
-            "type": "species"
-        }
-    ],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "cyphertext": "HoTl22Rm6dMBa9aAFao0npw1lQjT9TeNkF5YdKsyyn5khSFLEPrBJ9aSJSCWMXB32QJJdvs0YYrewCun1Gnb_vKcFIw2Deln8tL2bP81cESTHPF6cUdTFOxTXNaWxlABfuxRlo-JQuAKP5w7S9zIG1T_3egJ38gmlXqeeQLpdOI0tfVkCbNQmoWXhqitEZEqow3m22nfpaouk2o-XdiiRAtyEId5or-TBfJK4rjCAe-nRsxDcsU=",
-    "salt": "tieO8o2zBHNGMuskJzxdTw==",
-    "text": "Scottish folklore includes the Fideal, a figure known for luring attractive young men into lakes and ponds and drowning them. This Highland siren is classified as a type of Vough."
+    "evidence": "Monaghan, Encyclopedia of Celtic Mythology and Folklore"
+  }
 }

@@ -1,25 +1,38 @@
 {
-    "name": "Fiachra",
-    "attributes": [
-        {
-            "attribute": "Irish hero",
-            "entity": "Fiachra"
-        }
+  "name": "Fiachra",
+  "sources": [
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+  ],
+  "cyphertext": "txBF7JX16QxYO3RNtSzGD76VYqhB-6h2EfgTQ7wChtJ0gvu3hnySgTjonDhwP0RUTd4GAxI1tRQ8WpVusB77XPO6avYkklMMRnmJK26hnh3gpU0UOOLiWXme3WX2i7QhAFsfnHfb6WDu_dKltnlmPtIjY9LzLI7Gc3QhyMC05b3MTueWYWSbc6493pHQ8wuh2ZzsW4tV",
+  "salt": "-RSmq1yZAIkvMjWa91CLow==",
+  "text": "Several minor figures in Irish myth bear the name Fiachra, which marks an Irish hero. The best remembered of them is a member of the ill-fated Children of Lir.",
+  "entities": [
+    {
+      "entity": "Fiachra",
+      "type": "hero"
+    },
+    {
+      "entity": "Children of Lir",
+      "type": "group"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Fiachra",
+      "attribute": "an Irish hero"
+    },
+    {
+      "entity": "Children of Lir",
+      "attribute": "one doomed child is named Fiachra"
+    }
+  ],
+  "okr": {
+    "objective": "Fiachra is an Irish hero also carried by several minor figures, best known as one of the Children of Lir.",
+    "key_results": [
+      "Classed as an Irish hero.",
+      "A name held by several minor mythological characters.",
+      "The most prominent bearer is one of the doomed Children of Lir."
     ],
-    "entities": [
-        {
-            "entity": "Fiachra",
-            "type": "mythological character"
-        },
-        {
-            "entity": "Children Of Lir",
-            "type": "mythological group"
-        }
-    ],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "cyphertext": "txBF7JX16QxYO3RNtSzGD76VYqhB-6h2EfgTQ7wChtJ0gvu3hnySgTjonDhwP0RUTd4GAxI1tRQ8WpVusB77XPO6avYkklMMRnmJK26hnh3gpU0UOOLiWXme3WX2i7QhAFsfnHfb6WDu_dKltnlmPtIjY9LzLI7Gc3QhyMC05b3MTueWYWSbc6493pHQ8wuh2ZzsW4tV",
-    "salt": "-RSmq1yZAIkvMjWa91CLow==",
-    "text": "Irish folklore tells of a hero named Fiachra, who is also the name of various minor mythological figures, including one of the ill-fated Children of Lir."
+    "evidence": "Monaghan, Encyclopedia of Celtic Mythology and Folklore"
+  }
 }

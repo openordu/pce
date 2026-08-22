@@ -1,61 +1,66 @@
 {
-    "name": "Fflur",
-    "attributes": [
-        {
-            "entity": "Fflur",
-            "attribute": "Welsh heroine or goddess"
-        },
-        {
-            "entity": "Welsh Triads",
-            "attribute": "text"
-        },
-        {
-            "entity": "Caswallawn",
-            "attribute": "hero"
-        },
-        {
-            "entity": "Julius Caesar",
-            "attribute": "historical figure"
-        },
-        {
-            "entity": "Blodeuwedd",
-            "attribute": "flowermaiden"
-        },
-        {
-            "entity": "Sovereignty",
-            "attribute": "goddess"
-        }
+  "name": "Fflur",
+  "attributes": [
+    {
+      "entity": "Fflur",
+      "attribute": "a Welsh heroine or goddess"
+    },
+    {
+      "entity": "Caswallawn",
+      "attribute": "beloved of Fflur"
+    },
+    {
+      "entity": "Caswallawn",
+      "attribute": "fought Julius Caesar for her hand"
+    },
+    {
+      "entity": "Fflur",
+      "attribute": "possibly related to Blodeuwedd"
+    },
+    {
+      "entity": "Fflur",
+      "attribute": "legend almost completely lost"
+    }
+  ],
+  "entities": [
+    {
+      "entity": "Fflur",
+      "type": "person"
+    },
+    {
+      "entity": "Welsh Triads",
+      "type": "artifact"
+    },
+    {
+      "entity": "Caswallawn",
+      "type": "hero"
+    },
+    {
+      "entity": "Julius Caesar",
+      "type": "person"
+    },
+    {
+      "entity": "Blodeuwedd",
+      "type": "character"
+    },
+    {
+      "entity": "Sovereignty",
+      "type": "concept"
+    }
+  ],
+  "sources": [
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+  ],
+  "cyphertext": "8pfK9lsqZc64fG-2ksB7D3ZZChcuv4W6kBPjYdMwcyRAj5y0YWjLqo4yubc2kKw9ORWymgDiVHAofSZR6HJ99kQa0BVKhfZe-aILyACrPBy73iPaIkF9aQhXd8XLv-U_6LdYycMuYSN7qYhy2GvvVOVNYZqgbbYDy4ZyhqUPGDfrhkdt_hOwrdUO1m8otGaPhcKVlsPeNvgKezdMpbjVJa2KHlkSfkD1DN5EMVAtqXiXYcODpfd7x3tCBhXS-2QEdEe8vDkIf4TnHlkk8vygVCD7K9w3v3GkLvColdKqjEgcGUy-s-EATSYD5zQ-P8JLS2zl1SQWFeA0-9LQpQXfoagoMlQA-UZ1VO5mWA-6URnD0TdmG1zMSRqOXEdDdhvvjBuFbgTRjkAJFOl9JXE5oM48cYk64_SGn1UxlIT4LWOQ5I-AKW1WVK56lOn0JAvul_5aUDqjs9EDTrOPpzn-ME_hZ1wRKUz6vYBZQL4hvl4v59Rk1bNsOuyv-1EbwTAqVHbeDx0XExwfZqxrID68fikjt2Dp",
+  "salt": "qmviv8bty1K2Bf9PVTqnFQ==",
+  "text": "Fflur was a Welsh heroine or goddess. The Welsh Triads mention this obscure figure. The hero Caswallawn held her in his affection. Caswallawn fought Julius Caesar to win her hand. Her name points toward the flower-maiden Blodeuwedd. A rivalry between two rulers suggests the goddess of Sovereignty. Yet Fflur's legend and its meaning are almost completely lost.",
+  "okr": {
+    "objective": "Fflur is an obscure Welsh heroine or goddess whose legend is almost completely lost.",
+    "key_results": [
+      "Fflur appears in the Welsh Triads as the beloved of Caswallawn.",
+      "Caswallawn fought Julius Caesar for her hand.",
+      "Her name may link her to the flower-maiden Blodeuwedd."
     ],
-    "entities": [
-        {
-            "entity": "Fflur",
-            "type": "Welsh heroine or goddess"
-        },
-        {
-            "entity": "Welsh Triads",
-            "type": "text"
-        },
-        {
-            "entity": "Caswallawn",
-            "type": "hero"
-        },
-        {
-            "entity": "Julius Caesar",
-            "type": "historical figure"
-        },
-        {
-            "entity": "Blodeuwedd",
-            "type": "flowermaiden"
-        },
-        {
-            "entity": "Sovereignty",
-            "type": "goddess"
-        }
-    ],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "cyphertext": "8pfK9lsqZc64fG-2ksB7D3ZZChcuv4W6kBPjYdMwcyRAj5y0YWjLqo4yubc2kKw9ORWymgDiVHAofSZR6HJ99kQa0BVKhfZe-aILyACrPBy73iPaIkF9aQhXd8XLv-U_6LdYycMuYSN7qYhy2GvvVOVNYZqgbbYDy4ZyhqUPGDfrhkdt_hOwrdUO1m8otGaPhcKVlsPeNvgKezdMpbjVJa2KHlkSfkD1DN5EMVAtqXiXYcODpfd7x3tCBhXS-2QEdEe8vDkIf4TnHlkk8vygVCD7K9w3v3GkLvColdKqjEgcGUy-s-EATSYD5zQ-P8JLS2zl1SQWFeA0-9LQpQXfoagoMlQA-UZ1VO5mWA-6URnD0TdmG1zMSRqOXEdDdhvvjBuFbgTRjkAJFOl9JXE5oM48cYk64_SGn1UxlIT4LWOQ5I-AKW1WVK56lOn0JAvul_5aUDqjs9EDTrOPpzn-ME_hZ1wRKUz6vYBZQL4hvl4v59Rk1bNsOuyv-1EbwTAqVHbeDx0XExwfZqxrID68fikjt2Dp",
-    "salt": "qmviv8bty1K2Bf9PVTqnFQ==",
-    "text": "Obscure and enigmatic, Fflur is a Welsh goddess or heroine. The Welsh Triads recount that she was the beloved of Caswallawn, a hero who battled Julius Caesar for her affections. The connection between Fflur and Blodeuwedd, the flowermaiden, is possible given their similar names. Additionally, the existence of two competing monarchs in the legend points towards a potential link to the goddess of Sovereignty. However, Fflur's legend has been all but forgotten, and its significance remains elusive."
+    "evidence": "Monaghan, Encyclopedia of Celtic Mythology and Folklore"
+  }
 }

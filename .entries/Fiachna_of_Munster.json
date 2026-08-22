@@ -1,37 +1,42 @@
 {
-    "name": "Fiachna of Munster",
-    "attributes": [
-        {
-            "entity": "Fiachna of Munster",
-            "attribute": "incestuous king"
-        },
-        {
-            "entity": "Mugain",
-            "attribute": "daughter of Fiachna of Munster"
-        },
-        {
-            "entity": "Fiachna of Munster",
-            "attribute": "father of Mugain's son"
-        }
+  "name": "Fiachna of Munster",
+  "sources": [
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+  ],
+  "cyphertext": "EFxrxfp3GdZhpfpRYMIaislAKXCZ5rsC_enU2OLXpTeKKccLe5jnhdC5LyUZw3KEBEGJdFzwLEgXRfmi0F77AaEiF64EYmVivnQ-MtWli8TyDY5FDUWqeeTtFQE5dMXrQNCKBJvb4k6POmOr5870SXU0",
+  "salt": "g6JofLzZqXvU93JYAkVEXw==",
+  "text": "Fiachna of Munster is listed in the encyclopedia index at page 185. The page also indexes the F-headings that follow, among them Fiachra (pages 87-88 and 185), Fial (185), Fianna (185-186 and 192), Fideal (186), Fiecal (186), Figgy Dowdy (186-187), Find (187), Findchóem (187), Findias (187), Finn (188), and Finn McCool (pages 44, 190, 213, 295). The same index entry notes that the Fionn Cycle is also called the Fenian Cycle.",
+  "entities": [
+    {
+      "entity": "Fiachna of Munster",
+      "type": "person"
+    },
+    {
+      "entity": "Fianna",
+      "type": "group"
+    },
+    {
+      "entity": "Fenian Cycle",
+      "type": "concept"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Fiachna of Munster",
+      "attribute": "indexed at page 185"
+    },
+    {
+      "entity": "Fenian Cycle",
+      "attribute": "also called the Fionn Cycle"
+    }
+  ],
+  "okr": {
+    "objective": "Fiachna of Munster is a figure indexed at page 185, grouped with the following F-headings.",
+    "key_results": [
+      "Indexed at page 185.",
+      "Grouped with Fiachra, Fial, Fianna, Fideal, Fiecal, Figgy Dowdy, Find, Findchóem, Findias, Finn, and Finn McCool.",
+      "The Fionn Cycle is cross-referenced to the Fenian Cycle."
     ],
-    "entities": [
-        {
-            "entity": "Fiachna of Munster",
-            "type": "king"
-        },
-        {
-            "entity": "Mugain",
-            "type": "daughter"
-        },
-        {
-            "entity": "son",
-            "type": "offspring"
-        }
-    ],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "cyphertext": "EFxrxfp3GdZhpfpRYMIaislAKXCZ5rsC_enU2OLXpTeKKccLe5jnhdC5LyUZw3KEBEGJdFzwLEgXRfmi0F77AaEiF64EYmVivnQ-MtWli8TyDY5FDUWqeeTtFQE5dMXrQNCKBJvb4k6POmOr5870SXU0",
-    "salt": "g6JofLzZqXvU93JYAkVEXw==",
-    "text": "A king named Fiachna from Munster had a son named Mugain with his own daughter, making him an incestuous figure."
+    "evidence": "Monaghan, Encyclopedia of Celtic Mythology and Folklore"
+  }
 }

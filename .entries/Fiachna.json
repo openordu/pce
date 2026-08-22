@@ -1,57 +1,103 @@
 {
-    "name": "Fiachna",
-    "entities": [
-        {
-            "entity": "Fiachna",
-            "type": "name"
-        },
-        {
-            "entity": "Irish hero",
-            "type": "occupation"
-        },
-        {
-            "entity": "Irish mythology",
-            "type": "origin"
-        },
-        {
-            "entity": "raven",
-            "type": "meaning"
-        },
-        {
-            "entity": "minor heroes",
-            "type": "group"
-        },
-        {
-            "entity": "exceptions",
-            "type": "group"
-        }
+  "name": "Fiachna",
+  "entities": [
+    {
+      "entity": "Fiachna",
+      "type": "hero"
+    },
+    {
+      "entity": "Fiachna of Munster",
+      "type": "person"
+    },
+    {
+      "entity": "Mugain",
+      "type": "person"
+    },
+    {
+      "entity": "Fiachna mac Báetáin",
+      "type": "person"
+    },
+    {
+      "entity": "Caíntigern",
+      "type": "person"
+    },
+    {
+      "entity": "Manannán Mac Lir",
+      "type": "god"
+    },
+    {
+      "entity": "Fiachna mac Dáire",
+      "type": "person"
+    },
+    {
+      "entity": "worm",
+      "type": "mythological creature"
+    },
+    {
+      "entity": "Donn Cuailnge",
+      "type": "animal"
+    },
+    {
+      "entity": "Medb",
+      "type": "person"
+    },
+    {
+      "entity": "Connacht",
+      "type": "place"
+    },
+    {
+      "entity": "Cattle Raid",
+      "type": "event"
+    },
+    {
+      "entity": "Finnbennach",
+      "type": "animal"
+    },
+    {
+      "entity": "Ailill mac Máta",
+      "type": "person"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Fiachna",
+      "attribute": "an Irish hero name"
+    },
+    {
+      "entity": "Fiachna",
+      "attribute": "may mean raven"
+    },
+    {
+      "entity": "Fiachna of Munster",
+      "attribute": "fathered a son on his daughter Mugain"
+    },
+    {
+      "entity": "Fiachna mac Báetáin",
+      "attribute": "wife Caíntigern bought his victory"
+    },
+    {
+      "entity": "Fiachna mac Dáire",
+      "attribute": "snagged a talking worm while fishing"
+    },
+    {
+      "entity": "Donn Cuailnge",
+      "attribute": "object of the Cattle Raid"
+    }
+  ],
+  "sources": [
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+  ],
+  "cyphertext": "j9rvd_7lG42x-FTKfNKhbBzGrJ2bWMgjZZuuj_XNqjESICPFgq4182kAwGKpTkvLRMERShfOvenZswmuFjuJFbEARzmILUQyXIURIBhrQ87JKkluKast-pL6Kzh2wK0DeBhg8GxcAI_oSjB85APrV1ulFLPJLC4a4LR9XL1Sp-FUfN21gVWS0QPuj3OeUobkA4gZ_13JTQsW4b4mBqCWhL35V9PT",
+  "salt": "KVM0DhEC-yoQrmgKnyuwhg==",
+  "text": "Fiachna is an Irish hero name common in Irish mythology. The name may mean raven. Most bearers are minor heroes. A few stand out. Fiachna of Munster was an incestuous king. He had a son with his own daughter Mugain. This other bearer, Fiachna mac Báetáin, won a battle when his wife Caíntigern lay with the ocean deity Manannán Mac Lir. This Fiachna might have been a real king, but his parthenogenetic conception suggests a divine ancestor or a totem. Fiachna mac Dáire snagged a worm while fishing at Cuailnge in Ulster. The talking worm forecast a coming conflict over the region's bull. The worm carried the soul of a reborn swineherd; it later manifested as the Brown Bull Donn Cuailnge. Queen Medb of Connacht launched the Cattle Raid over that bull. A second worm, the swineherd's bitter enemy who became the White Bull Finnbennach, had advised Medb to wed Ailill mac Máta. The two bulls then met in an epic final battle.",
+  "okr": {
+    "objective": "Fiachna is an Irish hero name whose notable bearers shaped stories of kingship and the Cattle Raid.",
+    "key_results": [
+      "The name Fiachna may mean raven.",
+      "Fiachna of Munster was an incestuous king who fathered a son on his daughter Mugain.",
+      "Fiachna mac Báetáin won a battle after his wife slept with the sea god Manannán Mac Lir.",
+      "Fiachna mac Dáire snagged a talking worm that foretold the Cattle Raid over Donn Cuailnge."
     ],
-    "attributes": [
-        {
-            "entity": "Fiachna",
-            "attribute": "Irish hero"
-        },
-        {
-            "entity": "Irish mythology",
-            "attribute": "origin of Fiachna's name"
-        },
-        {
-            "entity": "raven",
-            "attribute": "possible meaning of Fiachna's name"
-        },
-        {
-            "entity": "minor heroes",
-            "attribute": "mostly borne by Fiachna"
-        },
-        {
-            "entity": "exceptions",
-            "attribute": "Fiachna is also borne by major heroes"
-        }
-    ],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "cyphertext": "j9rvd_7lG42x-FTKfNKhbBzGrJ2bWMgjZZuuj_XNqjESICPFgq4182kAwGKpTkvLRMERShfOvenZswmuFjuJFbEARzmILUQyXIURIBhrQ87JKkluKast-pL6Kzh2wK0DeBhg8GxcAI_oSjB85APrV1ulFLPJLC4a4LR9XL1Sp-FUfN21gVWS0QPuj3OeUobkA4gZ_13JTQsW4b4mBqCWhL35V9PT",
-    "salt": "KVM0DhEC-yoQrmgKnyuwhg==",
-    "text": "A familiar name in Irish mythology, Fiachna is an Irish hero whose name possibly translates to \u201craven.\u201d Although mostly associated with minor heroes, there are a few significant exceptions:"
+    "evidence": "Monaghan, Encyclopedia of Celtic Mythology and Folklore"
+  }
 }
