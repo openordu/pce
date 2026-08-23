@@ -1,15 +1,49 @@
 {
-    "name": "portent",
-    "attributes": {},
-    "entities": [
-        {
-            "text": "Prophecy"
-        }
-    ],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "cyphertext": "8tNVPUuo2cHh76fouQA8dzLSIHdRDTYfAsTAv2Nl60_4URv_JGX3rwJZmIYPH7rgZ8p4j_9Mvz0=",
-    "salt": "BSmvv5OW-v2KY19p0l0qoA==",
-    "text": "portent See Omen; Prophecy."
+ "name": "portent",
+ "attributes": [
+  {
+   "entity": "portent",
+   "attribute": "unsought sign that foretells an event"
+  },
+  {
+   "entity": "portent",
+   "attribute": "interpreted by the druids"
+  }
+ ],
+ "entities": [
+  {
+   "entity": "portent",
+   "type": "Concept"
+  },
+  {
+   "entity": "omen",
+   "type": "Concept"
+  },
+  {
+   "entity": "prophecy",
+   "type": "Ritual"
+  },
+  {
+   "entity": "druid",
+   "type": "Role"
+  },
+  {
+   "entity": "barguest",
+   "type": "Creature"
+  }
+ ],
+ "sources": [
+  "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+ ],
+ "cyphertext": "8tNVPUuo2cHh76fouQA8dzLSIHdRDTYfAsTAv2Nl60_4URv_JGX3rwJZmIYPH7rgZ8p4j_9Mvz0=",
+ "salt": "BSmvv5OW-v2KY19p0l0qoA==",
+ "text": "A portent is a sign that foretells an event. The entry is a cross-reference. The full account appears under OMEN and PROPHECY. A portent is an unsought gift. The flight of birds could act as a portent. It existed like an act of nature. Interpreting its meaning was a skill of the druids. The barguest led all the dogs of the dead, and it was a portent of death. A figure could also be a portent of doom, warning of misfortune to come.",
+ "okr": {
+  "objective": "Present the portent as a cross-reference to omen and prophecy.",
+  "key_results": [
+   "Cross-references portent to OMEN and PROPHECY",
+   "Contrasts the portent as an unsought gift with prophecy as a courted ritual"
+  ],
+  "evidence": "Monaghan 2008, s.v. 'portent'."
+ }
 }
