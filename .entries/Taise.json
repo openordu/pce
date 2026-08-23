@@ -1,45 +1,49 @@
 {
-    "name": "Taise",
-    "attributes": [
-        {
-            "entity": "Taise",
-            "attribute": "Irish heroine"
-        },
-        {
-            "entity": "Fionn Mac Cumhaill",
-            "attribute": "hero"
-        },
-        {
-            "entity": "Abarta",
-            "attribute": "father"
-        },
-        {
-            "entity": "Fianna",
-            "attribute": "imprisonment"
-        }
-    ],
-    "entities": [
-        {
-            "entity": "Taise",
-            "type": "Person"
-        },
-        {
-            "entity": "Fionn Mac Cumhaill",
-            "type": "Person"
-        },
-        {
-            "entity": "Abarta",
-            "type": "Person"
-        },
-        {
-            "entity": "Fianna",
-            "type": "Organization"
-        }
-    ],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "cyphertext": "qy9n1pVgQ8ZXBHahI5e02qQ8EXFVctCvSLDcPsLKKr0Ij5A8a9iRB-rFYUPJZm4dPHHNvcv74FcjGQhwrDaPx5n4YDkfN6eQ1KzNf0TIro-zp-bAixzP7XEQlm0X1Gog8OvaQqqi4w3cTpjZiOBZj5An8jumFT2jrP1YW9LVYMIsnVCqW2LAp5icQ1OdL0b7kG5V7EYZouuPy8_nar7WPZohGKjqbPHAkrACyCo-fAt1kZ8bcCv2BUid6lnApy9gOd7z3jdlOUWEdOA=",
-    "salt": "eDKbYNxo-Sy2G6Qz8nwoaw==",
-    "text": "A legendary character named Taise, known for her bravery as an Irish heroine, married the hero Fionn Mac Cumhaill as a means of rescuing her father named Abarta from imprisonment by the Fianna."
+ "name": "Taise",
+ "attributes": [
+  {
+   "entity": "Taise",
+   "attribute": "an Irish heroine of legend"
+  },
+  {
+   "entity": "Taise",
+   "attribute": "a wife of the hero Fionn Mac Cumhaill"
+  },
+  {
+   "entity": "Taise",
+   "attribute": "married to free her father Abarta from the Fianna"
+  }
+ ],
+ "entities": [
+  {
+   "entity": "Taise",
+   "type": "Person"
+  },
+  {
+   "entity": "Fionn Mac Cumhaill",
+   "type": "Person"
+  },
+  {
+   "entity": "Abarta",
+   "type": "Person"
+  },
+  {
+   "entity": "Fianna",
+   "type": "Group"
+  }
+ ],
+ "sources": [
+  "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+ ],
+ "cyphertext": "qy9n1pVgQ8ZXBHahI5e02qQ8EXFVctCvSLDcPsLKKr0Ij5A8a9iRB-rFYUPJZm4dPHHNvcv74FcjGQhwrDaPx5n4YDkfN6eQ1KzNf0TIro-zp-bAixzP7XEQlm0X1Gog8OvaQqqi4w3cTpjZiOBZj5An8jumFT2jrP1YW9LVYMIsnVCqW2LAp5icQ1OdL0b7kG5V7EYZouuPy8_nar7WPZohGKjqbPHAkrACyCo-fAt1kZ8bcCv2BUid6lnApy9gOd7z3jdlOUWEdOA=",
+ "salt": "eDKbYNxo-Sy2G6Qz8nwoaw==",
+ "text": "Taise is a minor Irish heroine of the old tales. She married the hero Fionn Mac Cumhaill. She did this to free her father. Her father Abarta had been captured and placed in the care of the Fianna.",
+ "okr": {
+  "objective": "Describe Taise, a minor Irish heroine.",
+  "key_results": [
+   "Taise became a wife of the hero Fionn Mac Cumhaill.",
+   "She married to free her father Abarta from the Fianna."
+  ],
+  "evidence": "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+ }
 }
