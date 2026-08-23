@@ -1,11 +1,42 @@
 {
-    "name": "Tuiren",
-    "attributes": {},
-    "entities": [],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+  "name": "Tuiren",
+  "attributes": [
+    {
+      "entity": "Tuiren",
+      "attribute": "another name pointing to the Uirne entry"
+    },
+    {
+      "entity": "Uirne",
+      "attribute": "mother of the twin hounds Bran and Sceolan"
+    }
+  ],
+  "entities": [
+    {
+      "entity": "Tuiren",
+      "type": "Person"
+    },
+    {
+      "entity": "Uirne",
+      "type": "Person"
+    },
+    {
+      "entity": "Fionn Mac Cumhaill",
+      "type": "Person"
+    }
+  ],
+  "sources": [
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+  ],
+  "cyphertext": "J8M2GO7yyejenxwT3fpFXgyJtBWYE9jeXcu1d5soyJFulg24lzAjlCgbuAONZg==",
+  "salt": "KAL6IovpMmyFdmHp6E7sgw==",
+  "text": "Tuiren is a cross-reference heading. The source points the reader to the Uirne entry. Uirne, also called Tuiren, was the mother of Bran and Sceolan. Those twin hounds became the favorite hunting dogs of the hero Fionn Mac Cumhaill.",
+  "okr": {
+    "objective": "Explain Tuiren as a cross-reference to the Uirne entry.",
+    "key_results": [
+      "Name Tuiren as an alternative spelling for Uirne",
+      "Point the reader to the fuller Uirne entry",
+      "Note that Uirne was the mother of Fionn's hounds Bran and Sceolan"
     ],
-    "cyphertext": "J8M2GO7yyejenxwT3fpFXgyJtBWYE9jeXcu1d5soyJFulg24lzAjlCgbuAONZg==",
-    "salt": "KAL6IovpMmyFdmHp6E7sgw==",
-    "text": "Tuiren See Uirne."
+    "evidence": "Monaghan 2008, s.v. 'Tuiren'."
+  }
 }

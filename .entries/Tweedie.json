@@ -1,37 +1,34 @@
 {
-    "name": "Tweedie",
-    "attributes": [
-        {
-            "entity": "Tweedie",
-            "attribute": "minor water spirit"
-        },
-        {
-            "entity": "water demon",
-            "attribute": "parent of Tweedie"
-        },
-        {
-            "entity": "Tweed River",
-            "attribute": "location of water demon"
-        }
+  "name": "Tweedie",
+  "attributes": [
+    {
+      "entity": "Tweedie",
+      "attribute": "a minor water spirit of the Tweed River"
+    }
+  ],
+  "entities": [
+    {
+      "entity": "Tweedie",
+      "type": "Creature"
+    },
+    {
+      "entity": "Tweed River",
+      "type": "Place"
+    }
+  ],
+  "sources": [
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+  ],
+  "cyphertext": "rSdl8ORrvt-YaSNT_iP3NMcnizQEzOmU-WfX7YPKYxGVFOC3LXiPC8w4EKzvhmHTl3usRe_WWp8TIIT8B0jlU6yu1XEI--4BWp-aNYx2CPVaB7makyJcw09nNft-KVMtwVr7ejHQt3O4gvXHrBVeFlZsd6bIMNqT4_i_bduEIJzzWHnpqgdMq8et0mXqpZYtiR57EQ==",
+  "salt": "1fbE_DQhyH4EtT5xt9ZsRw==",
+  "text": "Tweedie is a minor spirit in Scottish folklore. It was the child of a water demon that lived in the Tweed River. The Tweed runs through the Border country of southern Scotland. As a water spirit, Tweedie belonged to the natural world that the people of the Borders knew well.",
+  "okr": {
+    "objective": "Record the Scottish water spirit Tweedie.",
+    "key_results": [
+      "Name Tweedie as a minor water spirit of Scottish folklore",
+      "Note that it was the child of a water demon in the Tweed River",
+      "Place the Tweed in the Border country of Scotland"
     ],
-    "entities": [
-        {
-            "entity": "Tweedie",
-            "type": "Scottish folkloric figure"
-        },
-        {
-            "entity": "water demon",
-            "type": "mythical creature"
-        },
-        {
-            "entity": "Tweed River",
-            "type": "river"
-        }
-    ],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "cyphertext": "rSdl8ORrvt-YaSNT_iP3NMcnizQEzOmU-WfX7YPKYxGVFOC3LXiPC8w4EKzvhmHTl3usRe_WWp8TIIT8B0jlU6yu1XEI--4BWp-aNYx2CPVaB7makyJcw09nNft-KVMtwVr7ejHQt3O4gvXHrBVeFlZsd6bIMNqT4_i_bduEIJzzWHnpqgdMq8et0mXqpZYtiR57EQ==",
-    "salt": "1fbE_DQhyH4EtT5xt9ZsRw==",
-    "text": "A Scottish folkloric character by the name of Tweedie was believed to be a minor water spirit. It was said that Tweedie was the offspring of a water demon that resided in the Tweed River."
+    "evidence": "Monaghan 2008, s.v. 'Tweedie'."
+  }
 }
