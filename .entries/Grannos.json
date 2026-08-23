@@ -1,24 +1,62 @@
 {
-    "name": "Grannos",
-    "attributes": {},
-    "entities": [
-        {
-            "text": "Grannos"
-        },
-        {
-            "text": "Grannus"
-        },
-        {
-            "text": "Apollo"
-        }
-    ],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "image": [
-        "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Lauingen_Apollo-Grannus-Tempel.jpg/1200px-Lauingen_Apollo-Grannus-Tempel.jpg"
-    ],
-    "cyphertext": "3cP6e84w4cI8svMWH6UvtXcAvG7HIlXrGXFtXGGneDVMz6uYadk2U-H1NzdUetLc9rWGDRkDiY5ogA==",
-    "salt": "ZnAx1uxW7MlueW05lQImhA==",
-    "text": "Grannos (Grannus) See Apollo."
+ "name": "Grannos",
+ "attributes": [
+  {
+   "entity": "Grannos",
+   "attribute": "a form of Apollo who governed healing waters"
+  },
+  {
+   "entity": "Grannos",
+   "attribute": "consort of the goddess Sirona"
+  },
+  {
+   "entity": "Grannos",
+   "attribute": "name shares a root with the Irish sun goddess Grian"
+  },
+  {
+   "entity": "Grannos",
+   "attribute": "honored in Auvergne with burning grain sheafs"
+  }
+ ],
+ "entities": [
+  {
+   "entity": "Grannos",
+   "type": "Deity"
+  },
+  {
+   "entity": "Apollo",
+   "type": "Deity"
+  },
+  {
+   "entity": "Sirona",
+   "type": "Deity"
+  },
+  {
+   "entity": "Grian",
+   "type": "Deity"
+  },
+  {
+   "entity": "Auvergne",
+   "type": "Place"
+  }
+ ],
+ "sources": [
+  "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+ ],
+ "image": [
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Lauingen_Apollo-Grannus-Tempel.jpg/1200px-Lauingen_Apollo-Grannus-Tempel.jpg"
+ ],
+ "cyphertext": "3cP6e84w4cI8svMWH6UvtXcAvG7HIlXrGXFtXGGneDVMz6uYadk2U-H1NzdUetLc9rWGDRkDiY5ogA==",
+ "salt": "ZnAx1uxW7MlueW05lQImhA==",
+ "text": "Grannos, also named Grannus, is another face of Apollo. He governed healing waters throughout Europe and Scotland, sharing his cult with the goddess Sirona. His name seems to spring from the same root as Grian, the Irish sun goddess. In the Auvergne region of France, worshippers set grain sheafs on fire and sang to him, calling him friend, father, and mother, a sign of a dual or unclear gender.",
+ "okr": {
+  "objective": "Present Grannos as Apollo's healing-water aspect, Sirona's consort, and the Auvergne ritual.",
+  "key_results": [
+   "Grannos is a form of Apollo tied to healing springs in Europe and Scotland.",
+   "He shared his cult with the goddess Sirona.",
+   "His name links to Grian, the Irish sun goddess.",
+   "In Auvergne people burned grain sheafs and sang to him."
+  ],
+  "evidence": "Monaghan, The Encyclopedia of Celtic Mythology and Folklore, 2003"
+ }
 }

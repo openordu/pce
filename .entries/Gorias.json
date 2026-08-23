@@ -1,41 +1,50 @@
 {
-    "name": "Gorias",
-    "entities": [
-        {
-            "entity": "Gorias",
-            "type": "mythological site"
-        },
-        {
-            "entity": "Otherworld",
-            "type": "mythological place"
-        },
-        {
-            "entity": "Tuatha D\u00e9 Danann",
-            "type": "mythological group"
-        },
-        {
-            "entity": "Lugh",
-            "type": "mythological figure"
-        }
-    ],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "attributes": [
-        {
-            "entity": "Gorias",
-            "attribute": "magical city"
-        },
-        {
-            "entity": "Tuatha D\u00e9 Danann",
-            "attribute": "received one of their great treasures"
-        },
-        {
-            "entity": "spear of Lugh",
-            "attribute": "great treasure"
-        }
-    ],
-    "cyphertext": "SszVMZLbRLNBWhz7HW99aNk9lov0iO1qijI7pcQ_nGlA87NY4iyAL52qTsuhvemJYFO8OYBuRYKFRdbSh-9akGegwqo_l7HgeGachACMwf2pTPcOY1d-EQjUBOSWvNutlGibXF_pTr8oKtHOZmGvCsZ33pzbhKjqrCaEiCTH6k-wuO_37DMWIv8UJa8Bb8U47-rn63NlWG9IzJbAc_OSErbInb6wIH0VI4bTvd2xWNvAjurk0nWtUVSNOWbsX73_YudR9NzrIntBBgtrCORNQYOwvw==",
-    "salt": "r8D0R0QSURpwkkRrOe4Xqg==",
-    "text": "The spear of Lugh was one of the many great treasures bestowed to the Tuatha D\u00e9 Danann. It originated from the magical city of Gorias, situated in the Otherworld according to Irish mythology."
+ "name": "Gorias",
+ "entities": [
+  {
+   "entity": "Gorias",
+   "type": "Place"
+  },
+  {
+   "entity": "Tuatha Dé Danann",
+   "type": "Group"
+  },
+  {
+   "entity": "Lugh",
+   "type": "Deity"
+  },
+  {
+   "entity": "Spear of Lugh",
+   "type": "Artifact"
+  }
+ ],
+ "sources": [
+  "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+ ],
+ "attributes": [
+  {
+   "entity": "Gorias",
+   "attribute": "magical city located somewhere in the Otherworld"
+  },
+  {
+   "entity": "Tuatha Dé Danann",
+   "attribute": "received one of their four great treasures from Gorias"
+  },
+  {
+   "entity": "Spear of Lugh",
+   "attribute": "one of the treasures the Tuatha Dé Danann received from Gorias"
+  }
+ ],
+ "cyphertext": "SszVMZLbRLNBWhz7HW99aNk9lov0iO1qijI7pcQ_nGlA87NY4iyAL52qTsuhvemJYFO8OYBuRYKFRdbSh-9akGegwqo_l7HgeGachACMwf2pTPcOY1d-EQjUBOSWvNutlGibXF_pTr8oKtHOZmGvCsZ33pzbhKjqrCaEiCTH6k-wuO_37DMWIv8UJa8Bb8U47-rn63NlWG9IzJbAc_OSErbInb6wIH0VI4bTvd2xWNvAjurk0nWtUVSNOWbsX73_YudR9NzrIntBBgtrCORNQYOwvw==",
+ "salt": "r8D0R0QSURpwkkRrOe4Xqg==",
+ "text": "Gorias was a magical city hidden somewhere in the Irish Otherworld. From it the Tuatha Dé Danann received one of their four great treasures. That treasure was the spear of Lugh, the bright god of skill. The tale places this city beyond the mortal world.",
+ "okr": {
+  "objective": "Describe Gorias as a magical Otherworld city and the source of Lugh's spear.",
+  "key_results": [
+   "Gorias stood somewhere in the Irish Otherworld.",
+   "The Tuatha Dé Danann took one of their four great treasures from Gorias.",
+   "That treasure was the spear of Lugh."
+  ],
+  "evidence": "Monaghan, The Encyclopedia of Celtic Mythology and Folklore, 2003"
+ }
 }
