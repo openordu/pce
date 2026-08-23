@@ -1,18 +1,50 @@
 {
-    "name": "G\u00e1ili\u00f3in",
-    "attributes": {},
-    "entities": [
-        {
-            "text": "G\u00e1ili\u00f3in"
-        },
-        {
-            "text": "Fir Bolg"
-        }
-    ],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "cyphertext": "ZizvHQ9zW_vXxHDR72IxF342jdGErEYiwPUjERbDwo_t5r0OFA_QwDV8N-8VEZbbzTa1i1k=",
-    "salt": "ckxrKiOqJZaLzDS0K5bkrA==",
-    "text": "G\u00e1ili\u00f3in See Fir Bolg."
+ "name": "Gáilióin",
+ "attributes": [
+  {
+   "entity": "Gáilióin",
+   "attribute": "Another name for the Fir Bolg."
+  },
+  {
+   "entity": "Fir Bolg",
+   "attribute": "One of the ancient mythic races of Ireland."
+  },
+  {
+   "entity": "Fir Bolg",
+   "attribute": "They ruled Ireland until the Tuatha Dé Danann defeated them at Mag Tuired."
+  }
+ ],
+ "entities": [
+  {
+   "entity": "Gáilióin",
+   "type": "Group"
+  },
+  {
+   "entity": "Fir Bolg",
+   "type": "Group"
+  },
+  {
+   "entity": "Tuatha Dé Danann",
+   "type": "Group"
+  },
+  {
+   "entity": "Mag Tuired",
+   "type": "Place"
+  }
+ ],
+ "sources": [
+  "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+ ],
+ "cyphertext": "ZizvHQ9zW_vXxHDR72IxF342jdGErEYiwPUjERbDwo_t5r0OFA_QwDV8N-8VEZbbzTa1i1k=",
+ "salt": "ckxrKiOqJZaLzDS0K5bkrA==",
+ "text": "Gáilióin is another name for the Fir Bolg, an early mythic people of Ireland. See the entry for Fir Bolg. The Fir Bolg ruled Ireland until the Tuatha Dé Danann defeated them at Mag Tuired.",
+ "okr": {
+  "objective": "Clarify Gáilióin as an alternate name of the Fir Bolg, an ancient mythic race of Ireland.",
+  "key_results": [
+   "Gáilióin is another name for the Fir Bolg",
+   "The Fir Bolg were one of the ancient mythic races of Ireland",
+   "They ruled Ireland until the Tuatha Dé Danann defeated them at Mag Tuired"
+  ],
+  "evidence": "Monaghan, The Encyclopedia of Celtic Mythology and Folklore, 2003"
+ }
 }

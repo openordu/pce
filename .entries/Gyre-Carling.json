@@ -1,15 +1,46 @@
 {
-    "name": "Gyre-Carling",
-    "attributes": {},
-    "entities": [
-        {
-            "text": "Gyre-Carling See Habetrot"
-        }
-    ],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "cyphertext": "tbcYH74kKYYky-b42b9UgbyXhqXBFZknI7YYyzVxhda5qDyWnhDaKGCAcdMqqcJGjWsYB7HpJ7c=",
-    "salt": "929lbVRtE_6xYUeaf6KunA==",
-    "text": "Gyre-Carling See Habetrot."
+ "name": "Gyre-Carling",
+ "attributes": [
+  {
+   "entity": "Gyre-Carling",
+   "attribute": "An alternate name for the spinner spirit Habetrot."
+  },
+  {
+   "entity": "Habetrot",
+   "attribute": "A healing spirit; those she wove a garment for never fell ill."
+  },
+  {
+   "entity": "Gyre-Carling",
+   "attribute": "In some areas she was a fairy queen who stole flax left unspun at the year's end."
+  }
+ ],
+ "entities": [
+  {
+   "entity": "Gyre-Carling",
+   "type": "Being"
+  },
+  {
+   "entity": "Gy-Carlin",
+   "type": "Being"
+  },
+  {
+   "entity": "Habetrot",
+   "type": "Being"
+  }
+ ],
+ "sources": [
+  "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+ ],
+ "cyphertext": "tbcYH74kKYYky-b42b9UgbyXhqXBFZknI7YYyzVxhda5qDyWnhDaKGCAcdMqqcJGjWsYB7HpJ7c=",
+ "salt": "929lbVRtE_6xYUeaf6KunA==",
+ "text": "Gyre-Carling is an alternate name for the spinner spirit Habetrot. See the entry for Habetrot. Those whom this healing fairy wove a garment for never fell ill. In some areas she appeared as a fairy queen, Gyre-Carling or Gy-Carlin, who stole any flax left unspun at the end of a year.",
+ "okr": {
+  "objective": "Clarify Gyre-Carling as an alternate name of the healing fairy spinner Habetrot.",
+  "key_results": [
+   "Gyre-Carling is another name for the fairy Habetrot",
+   "Habetrot was a healing spirit whose garments kept the wearer free of illness",
+   "As a fairy queen Gyre-Carling stole flax left unspun at the end of a year"
+  ],
+  "evidence": "Monaghan, The Encyclopedia of Celtic Mythology and Folklore, 2003"
+ }
 }
