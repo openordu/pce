@@ -1,69 +1,71 @@
 {
-    "name": "Eithne",
-    "entities": [
-        {
-            "entity": "Eithne",
-            "type": "Irish name"
-        },
-        {
-            "entity": "Ethna",
-            "type": "Irish name"
-        },
-        {
-            "entity": "Ethne",
-            "type": "Irish name"
-        },
-        {
-            "entity": "Ethn\u00e9",
-            "type": "Irish name"
-        },
-        {
-            "entity": "Annie",
-            "type": "Irish name"
-        },
-        {
-            "entity": "Irish mythology",
-            "type": "Mythology"
-        }
-    ],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "attributes": [
-        {
-            "entity": "Eithne",
-            "attribute": "meaning"
-        },
-        {
-            "entity": "Irish name",
-            "attribute": "meaning"
-        },
-        {
-            "entity": "dozens",
-            "attribute": "quantity"
-        },
-        {
-            "entity": "queens",
-            "attribute": "type"
-        },
-        {
-            "entity": "heroines",
-            "attribute": "type"
-        },
-        {
-            "entity": "goddesses",
-            "attribute": "type"
-        },
-        {
-            "entity": "Irish mythology",
-            "attribute": "origin"
-        },
-        {
-            "entity": "most common",
-            "attribute": "quantity"
-        }
-    ],
-    "cyphertext": "iRms3BiOGgtthI74CEgquLoUKE4OUWopz7icsY0r7KYwrmPc0CgY1DISKam7O2RwO0fuXB4wGxz1G8cFuj_A6TsJb21Puhwf5NyZ59qWuWniSSjCyCWAMsWf5GZyBkVNRo1c6MwTIdj13bV_ZLmLHrPRyHCfrFtMLaabzwF46rYDgZcxXvLaLy19Bgz9Y-8KpnZY5JE8a8ovxf1EvQzBw3GWcu3fAi1jU7K8l_-jnEsu7ce7c_wQsDVINjHPkhkpT6gwW2muNnB1bkoO6xMsVE02W9ReSZ1HMVv6dhtDoCHRz5JmNz7F1z95T2j2wXb7qvffnD_p",
-    "salt": "PzBwdFo5hqo-olYv0eIPkg==",
-    "text": "Numerous women in Irish mythology were known as Eithne (also spelled as Ethna, Ethne, Ethn\u00e9, and Annie) and were either goddesses or heroines. This popular name in Ireland, which translates to \u201csweet nutmeat,\u201d was associated with many queens and heroines."
+ "name": "Eithne",
+ "entities": [
+  {
+   "entity": "Eithne",
+   "type": "Person"
+  },
+  {
+   "entity": "Balor",
+   "type": "Person"
+  },
+  {
+   "entity": "Lugh",
+   "type": "Person"
+  },
+  {
+   "entity": "Cian",
+   "type": "Person"
+  },
+  {
+   "entity": "Biróg",
+   "type": "Person"
+  },
+  {
+   "entity": "Bóand",
+   "type": "Deity"
+  },
+  {
+   "entity": "Finnbheara",
+   "type": "Person"
+  },
+  {
+   "entity": "Medb",
+   "type": "Person"
+  },
+  {
+   "entity": "Concobar",
+   "type": "Person"
+  }
+ ],
+ "sources": [
+  "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+ ],
+ "attributes": [
+  {
+   "entity": "Eithne",
+   "attribute": "a common Irish name meaning sweet, borne by many heroines"
+  },
+  {
+   "entity": "Balor",
+   "attribute": "king of the Fomorian host, grandfather of Eithne's son"
+  },
+  {
+   "entity": "Lugh",
+   "attribute": "the hero and son of Eithne"
+  }
+ ],
+ "cyphertext": "iRms3BiOGgtthI74CEgquLoUKE4OUWopz7icsY0r7KYwrmPc0CgY1DISKam7O2RwO0fuXB4wGxz1G8cFuj_A6TsJb21Puhwf5NyZ59qWuWniSSjCyCWAMsWf5GZyBkVNRo1c6MwTIdj13bV_ZLmLHrPRyHCfrFtMLaabzwF46rYDgZcxXvLaLy19Bgz9Y-8KpnZY5JE8a8ovxf1EvQzBw3GWcu3fAi1jU7K8l_-jnEsu7ce7c_wQsDVINjHPkhkpT6gwW2muNnB1bkoO6xMsVE02W9ReSZ1HMVv6dhtDoCHRz5JmNz7F1z95T2j2wXb7qvffnD_p",
+ "salt": "PzBwdFo5hqo-olYv0eIPkg==",
+ "text": "Eithne is a common name of Ireland that means sweet nutmeat. Many queens and heroines bear it. One Eithne is the daughter of Balor of the Evil Eye. She becomes the mother of Lugh. Her father, king of the Fomorian host, feared he would die at his grandson's hand. He shut her in a tower on Tory Island. Balor then stole the magic cow Glas Gaibhleann from the keeper Cian. Yet Cian slipped in with the help of a druid named Biróg. Eithne bore triplets. Only Lugh survived, and he slew Balor at the second war. A second Eithne gives a name to the river goddess Bóand. A third, Eithne the Fair, fell under a fairy sleep from Finnbheara. Her husband broke it and woke her at home. One other Eithne is a sister of the queen Medb and wife of Concobar.",
+ "okr": {
+  "objective": "Set out the many Irish women who share the name Eithne.",
+  "key_results": [
+   "One Eithne, daughter of Balor, is the mother of the hero Lugh.",
+   "Balor stole the never-dry cow Glas Gaibhleann from Cian's care, and Biróg helped the keeper slip past.",
+   "Another Eithne lends her name to the river goddess Bóand.",
+   "One other Eithne is a sister of the queen Medb and a wife of Concobar."
+  ],
+  "evidence": "Monaghan 2008, s.v. 'Eithne'."
+ }
 }

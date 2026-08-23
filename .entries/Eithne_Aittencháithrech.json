@@ -1,43 +1,35 @@
 {
-    "name": "Eithne Aittench\u00e1ithrech",
+    "name": "Eithne Aittencháithrech",
     "attributes": [
         {
-            "entity": "Eithne Aittench\u00e1ithrech",
-            "attribute": "sister of Medb"
+            "entity": "Eithne Aittencháithrech",
+            "attribute": "sister of the great queen Medb"
         },
         {
-            "entity": "Eithne Aittench\u00e1ithrech",
-            "attribute": "wife of Concobar"
+            "entity": "Eithne Aittencháithrech",
+            "attribute": "her name means 'having furze hair'"
         },
         {
-            "entity": "Eithne Aittench\u00e1ithrech",
-            "attribute": "having furze hair"
-        },
-        {
-            "entity": "Medb",
-            "attribute": "great queen"
-        },
-        {
-            "entity": "Concobar",
-            "attribute": "king of Ulster"
+            "entity": "Eithne Aittencháithrech",
+            "attribute": "wife of Conchobar, king of Ulster, like all her sisters"
         }
     ],
     "entities": [
         {
-            "entity": "Eithne Aittench\u00e1ithrech",
-            "type": "person"
+            "type": "Person",
+            "entity": "Eithne Aittencháithrech"
         },
         {
-            "entity": "Medb",
-            "type": "person"
+            "type": "Person",
+            "entity": "Medb"
         },
         {
-            "entity": "Concobar",
-            "type": "person"
+            "type": "Person",
+            "entity": "Conchobar"
         },
         {
-            "entity": "Ulster",
-            "type": "place"
+            "type": "Place",
+            "entity": "Ulster"
         }
     ],
     "sources": [
@@ -45,5 +37,14 @@
     ],
     "cyphertext": "QnQUj-a0icgBxWl60EAYDtVgU55cqaK3eMvVZvA-HUnz4p_p9UnQvcZzqDwOGt598WEG635aa-4Rmy1gziq5WqDiXFhEW5e7pQeF3HDijgO4CMmI0UJGYx0vyyawbLUV5J_St8gVimHBltx3N131s2VbFwayjN1riXml0A5jLzvUtmbYhAX09SiBNcevKs3bHAUSgvBSzaw14VL0SYqtiQM9Y_mUHgXBC_M-H13N2wyfcoJn_SFuMmjOTqHtVdbUUbTdNUkrG00XZTQTZ_sPqEQ7TXqrNagZ96Iakvc7nV9y4nb9hvo0Davi8doJY5CgqLr483z2Via0ASc=",
     "salt": "D8EL9l6e7HzkBAjgVp18_g==",
-    "text": "One of the sisters of the illustrious queen Medb was Eithne Aittench\u00e1ithrech, whose name means \"having furze hair\". She was married to king Concobar of Ulster, just like her other sisters. Nonetheless, she is not a notable figure in tales and is often overshadowed by her more famous siblings."
+    "text": "Eithne Aittencháithrech was a sister of Medb, the great queen of Ireland. Her name means 'having furze hair.' She wed Conchobar, king of Ulster, as did all her sisters. Eithne holds no great role in legend. Her famous sisters overshadow her.",
+    "okr": {
+        "objective": "Rewrite the Eithne Aittencháithrech cross-reference entry as clean, grounded CSG-SME1000 prose.",
+        "key_results": [
+            "text is 150+ characters of short, active, unhedged sentences",
+            "all named entities carry a typed entity entry",
+            "facts match the source monograph on Medb's sister and Conchobar's wife"
+        ],
+        "evidence": "Monaghan, The Encyclopedia of Celtic Mythology and Folklore, 2008"
+    }
 }

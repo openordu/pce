@@ -3,45 +3,41 @@
     "attributes": [
         {
             "entity": "Barrax",
-            "attribute": "known from one dedication only"
-        },
-        {
-            "entity": "Barrax",
             "attribute": "obscure British god"
         },
         {
             "entity": "Barrax",
-            "attribute": "likened by the occupying Roman armies to their warrior god Mars"
+            "attribute": "known from one dedication only"
         },
         {
             "entity": "Barrax",
-            "attribute": "Celtic name seems to mean \u201csupreme\u201d or \u201clordly.\u201d"
+            "attribute": "likened by the Romans to Mars"
+        },
+        {
+            "entity": "Barrax",
+            "attribute": "Celtic name meaning supreme or lordly"
         }
     ],
     "entities": [
         {
             "entity": "Barrax",
-            "type": "British god"
+            "type": "Deity"
         },
         {
             "entity": "Barrecis",
-            "type": "British god"
+            "type": "Deity"
         },
         {
             "entity": "Barrex",
-            "type": "British god"
-        },
-        {
-            "entity": "Roman",
-            "type": "occupying army"
+            "type": "Deity"
         },
         {
             "entity": "Mars",
-            "type": "warrior god"
+            "type": "Deity"
         },
         {
-            "entity": "Celtic",
-            "type": "language"
+            "entity": "Roman",
+            "type": "Group"
         }
     ],
     "sources": [
@@ -52,5 +48,15 @@
     ],
     "cyphertext": "t528_CkF58RTb3oDnnZNN-RyFftKiVmxH-2gjLdEwvCcTYBaWPJTi7CZZZQOi7UbpKVAndBHrdxXMvDNAEZY2JDF4RGUPeAxzhitFlrI89J3yt0K6uk4cFDSOjSzQW7Vw61Yk1Oz6gRIjd08K-6fIJh3iaiH_7UShZuG45Kt-9xh09t7XYHgswcCkQ-3COlD9dbhZcdsQWp56RhdZryiom2i7HJ3ORlMHI-nln2UpVPQvCwbbr3mlXcd4Y4BGCopql1K0XWQVYvT_68BOUo7JNeTm-cDWN-iB-tJOlmfMJ12MzWwApITSxCTY_GC5htqSaDWWuaIasCmvMhNDMo=",
     "salt": "sMiJ3vyg6V24LrOFQI5PTw==",
-    "text": "Obscure and known from a single dedication only, Barrax (Barrecis, Barrex) is a British god. The Roman occupying forces likened this British god to their own deity of war, Mars. The word 'Barrax' in Celtic signifies 'supreme' or 'lordly'."
+    "text": "Barrax is an obscure British god. The record lists him under the forms Barrecis and Barrex. He is known from a single dedication only. The occupying Roman armies likened him to their god of war, Mars.\n\nThe name carries a concrete meaning. Barrax in the Celtic tongue seems to mean \"supreme\" or \"lordly.\" This sparse record leaves little else. Only one inscription witnesses his worship. He remains one of the faintest British gods.",
+    "okr": {
+        "objective": "Record Barrax, an obscure British god known only from one dedication.",
+        "key_results": [
+            "Barrax is also recorded as Barrecis and Barrex.",
+            "The god is known from a single dedication.",
+            "Roman armies likened Barrax to their god of war, Mars.",
+            "The Celtic name means supreme or lordly."
+        ],
+        "evidence": "Monaghan, Encyclopedia of Celtic Mythology and Folklore"
+    }
 }

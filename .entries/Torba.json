@@ -1,11 +1,37 @@
 {
-    "name": "Torba",
-    "attributes": {},
-    "entities": [],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "cyphertext": "UwdO64CM4kRfIFAUFU1X_FKQtXBbT_lZh7Dkznazk5vwrcYUlP2rh5kxhKTw",
-    "salt": "uYjQgV3XrEXnb_e-iE7lCA==",
-    "text": "Torba See Murna."
+ "name": "Torba",
+ "attributes": [
+  {
+   "entity": "Torba",
+   "attribute": "a cross reference"
+  },
+  {
+   "entity": "hero",
+   "attribute": "the subject of a fuller record"
+  }
+ ],
+ "entities": [
+  {
+   "entity": "Torba",
+   "type": "Title"
+  },
+  {
+   "entity": "hero",
+   "type": "Role"
+  }
+ ],
+ "sources": [
+  "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+ ],
+ "cyphertext": "UwdO64CM4kRfIFAUFU1X_FKQtXBbT_lZh7Dkznazk5vwrcYUlP2rh5kxhKTw",
+ "salt": "uYjQgV3XrEXnb_e-iE7lCA==",
+ "text": "Torba is a cross reference in the old book of lore. The name sends the reader to a fuller record. That record holds the life of a hero's house. Torba names only the link, and it adds no new tale. Seek the longer page for the whole history and keep this one brief.",
+ "okr": {
+  "objective": "Note the cross reference of Torba.",
+  "key_results": [
+   "It links to a fuller record",
+   "It names the hero's mother only"
+  ],
+  "evidence": "Monaghan 2008, s.v. 'Torba'."
+ }
 }

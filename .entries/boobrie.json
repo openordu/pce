@@ -3,41 +3,37 @@
     "attributes": [
         {
             "entity": "boobrie",
-            "attribute": "preys upon calves and lambs"
+            "attribute": "shape-shifting specter of Highland tradition"
         },
         {
             "entity": "boobrie",
-            "attribute": "danger to subsistence farmers"
+            "attribute": "sometimes appears as a cow or water horse"
         },
         {
             "entity": "boobrie",
-            "attribute": "eats otters when cattle are not available"
+            "attribute": "haunts lakes and cries like a strange bird"
+        },
+        {
+            "entity": "boobrie",
+            "attribute": "preys on calves, lambs, and otters"
         }
     ],
     "entities": [
         {
             "entity": "boobrie",
-            "type": "bird"
+            "type": "Creature"
         },
         {
-            "entity": "calves",
-            "type": "animal"
+            "entity": "tarbh boibhre",
+            "type": "Creature"
         },
         {
-            "entity": "lambs",
-            "type": "animal"
+            "entity": "water horse",
+            "type": "Creature"
         },
         {
-            "entity": "subsistence farmers",
-            "type": "occupation"
-        },
-        {
-            "entity": "cattle",
-            "type": "animal"
-        },
-        {
-            "entity": "otters",
-            "type": "animal"
+            "entity": "otter",
+            "type": "Animal"
         }
     ],
     "sources": [
@@ -48,5 +44,15 @@
     ],
     "cyphertext": "KvpUTpW2WEQ4olueHVY-Vr5OlW0-dzH5-_ADgZADS0RXBA-6B5ds3RMeP_-rscqSmSRA7pkZSIevPLLO3CL-hCQdTVYUcY3sKO7jgYKU2hi8eAaUrpw5DoQHhbclrEVUnp2zRfrLNuGEiSZ7qZ5H1tYER2Up5aCnNE9g41n05ri__FUlbFvH0dKry2Un6qVHfIcd59KcWX4Iw7ghNlmERlpvoUsG2oa3kKp1YYJCa7vNqCqTJyRpwBC6gT9NYW45h3VtIzV-SyVxigLrP4FyNMDar0SGrEoGS24ermsJn9saT4GNbrbbQkgtYYTHjmFYjsK1HxwmtHCKfXd7ceDpbeXPjkwNFQJsf05AyeB1sAykZpIvACFo1wAx7mIAWRMeS_W38s_8j_Axc5n8ztZe3BMPgqAvy6CORyMfofV-nAhWOZz4S1lZmASO9oZMQG3A6EIBeRKt6fA1Db5CagzcrbhQfeNBbYe9_K8HIxj7EdrDwbWHuOoBxdZQMmet0LCVqzxPO21cLjwUyLBZFZZ68Zf4PFY_1XQ1aDOh1co2kWiyWAlc1l5mB9XBFKiXS7wW0jzp7dr2bEeK8q6zZTeDO3s6b2kHq5etSgiFpRtK_kFC7Pv0LAjGAKDxFm_FQbkRG7R-AxrQcZEp4D3tc1e7Wtm-1sfHI6v9YktRpfpNZe9bJ5g5JnXRAJdBMqXoKQoWQFnTcGB4FKNn8Zfdl1LvNSHSHOFrjLIyeNNbakLSxaKwfQ3tdMI0EUOrS769hgKo8-GyBcGNwiVxYOiaOwA348jrRxh2dx2EEEMnX3g97XJDRYgiQHWKmvb3OOyJg_tUNe5ZKmdUPO9yiB0evOkKN8A=",
     "salt": "dGoS0oD3ET3Bqx_1Mqg40w==",
-    "text": "A Scottish folkloric figure known as the boobrie (tarbh boibhre) is a shape-shifting specter of Highland tradition. It was often seen as a Cow or a Water Horse, and on occasion, it would take on the form of a massive insect with long tentacles that would suck horses\u2019 blood. Haunting Lakes, the boobrie would cry like a strange bird and frequently assume the form of a waterbird that was much larger than any duck or swan ever seen. Its footprint on land was said to be as large as a deer's antlers. The boobrie preyed upon livestock such as calves and lambs, making it a threat to subsistence farmers. When cattle were not available, it would feed on Otters."
+    "text": "The boobrie is a Scottish folkloric figure. Its other name is tarbh boibhre. This Highland specter changes its shape. It sometimes appears as a cow. At other times it is a water horse. On occasion it takes the form of a huge insect. That insect has long tentacles. It sucks the blood of horses. The boobrie haunts lakes. It cries like a strange bird. Its common form is a waterbird. That bird is far larger than any duck or swan. Its footprint is the size of a large deer's antlers. It preys on calves and lambs. This makes it a danger to subsistence farmers. When cattle are absent it eats otters.",
+    "okr": {
+        "objective": "Describe the boobrie as the shape-shifting specter that preys on farm livestock.",
+        "key_results": [
+            "The boobrie appears as a cow, water horse, or a huge insect.",
+            "It commonly takes the form of a waterbird far larger than a swan.",
+            "The boobrie haunts lakes and cries like a strange bird.",
+            "It preys on calves, lambs, and otters."
+        ],
+        "evidence": "Monaghan 2008, s.v. 'boobrie'."
+    }
 }

@@ -1,9 +1,35 @@
 {
-    "name": "e\u00f3 fis",
-    "attributes": {},
+    "name": "eó fis",
+    "attributes": [
+        {
+            "entity": "eó fis",
+            "attribute": "the bubbles of wisdom in the well"
+        },
+        {
+            "entity": "salmon",
+            "attribute": "the fish of knowledge"
+        },
+        {
+            "entity": "Fintan",
+            "attribute": "a name for the salmon"
+        }
+    ],
     "entities": [
         {
-            "text": "Salmon"
+            "entity": "eó fis",
+            "type": "Concept"
+        },
+        {
+            "entity": "salmon",
+            "type": "Animal"
+        },
+        {
+            "entity": "hazel",
+            "type": "Object"
+        },
+        {
+            "entity": "Fintan",
+            "type": "Being"
         }
     ],
     "sources": [
@@ -11,5 +37,14 @@
     ],
     "cyphertext": "cxH1ARnqXThvRHuPiPil-EzynOeztUojfpspNoOi7TYYcHBazshhDXMVWvVdvjc3",
     "salt": "2mx6pHxP-gPbLfrX6L47rQ==",
-    "text": "e\u00f3 fis See Salmon."
+    "text": "Eó fis is the fish of knowledge in Irish lore. Bubbles named eó fis rise in a sacred well. Hazel nuts fall into the water and give the fish wisdom. Eating the fish passes wisdom to a person. This salmon of wisdom is sometimes called Fintan. See also SALMON.",
+    "okr": {
+        "objective": "Rewrite the eó fis cross-reference with the fish of knowledge claims.",
+        "key_results": [
+            "Define eó fis as bubbles of knowledge",
+            "Record the hazel nuts that grant wisdom",
+            "Name Fintan as one of the fish identities"
+        ],
+        "evidence": "Monaghan, The Encyclopedia of Celtic Mythology and Folklore, 2008, s.v. eó fis."
+    }
 }

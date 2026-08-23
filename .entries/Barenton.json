@@ -2,82 +2,30 @@
     "name": "Barenton",
     "attributes": [
         {
-            "entity": "Fountain That Makes Rain",
-            "attribute": "Magical"
+            "entity": "Barenton",
+            "attribute": "a Breton mythological site"
         },
         {
-            "entity": "Fountain That Makes Rain",
-            "attribute": "Hidden"
+            "entity": "Barenton",
+            "attribute": "home of the magical Fountain That Makes Rain"
         },
         {
-            "entity": "Broc\u00e9liande",
-            "attribute": "Legendary forest"
-        },
-        {
-            "entity": "Visitors",
-            "attribute": "Drew water from the fountain"
-        },
-        {
-            "entity": "Visitors",
-            "attribute": "Sprinkled water around"
-        },
-        {
-            "entity": "Fountain",
-            "attribute": "Unleashed fierce storms"
-        },
-        {
-            "entity": "Laudine",
-            "attribute": "Lady Of The Fountain"
-        },
-        {
-            "entity": "Arthurian hero",
-            "attribute": "Owein"
-        },
-        {
-            "entity": "Legendary site",
-            "attribute": "Reflects a folk memory of a Nemeton or Celtic sacred wood"
+            "entity": "Barenton",
+            "attribute": "also called Belenton"
         }
     ],
     "entities": [
         {
             "entity": "Barenton",
-            "type": "Location"
+            "type": "Place"
         },
         {
-            "entity": "Belenton",
-            "type": "Location"
+            "entity": "Fountain That Makes Rain",
+            "type": "Artifact"
         },
         {
             "entity": "Brittany",
-            "type": "Location"
-        },
-        {
-            "entity": "Broc\u00e9liande",
-            "type": "Location"
-        },
-        {
-            "entity": "Laudine",
-            "type": "Person"
-        },
-        {
-            "entity": "Lady Of The Fountain",
-            "type": "Person"
-        },
-        {
-            "entity": "Arthurian",
-            "type": "Culture"
-        },
-        {
-            "entity": "Owein",
-            "type": "Person"
-        },
-        {
-            "entity": "Nemeton",
-            "type": "Location"
-        },
-        {
-            "entity": "Celtic",
-            "type": "Culture"
+            "type": "Place"
         }
     ],
     "sources": [
@@ -88,5 +36,14 @@
     ],
     "cyphertext": "VzZlN6386Ua_4cizqXKzj2FnrKs8CwrEOtSAeteM4S5rGMTOij8A_I5u7SjHpDlpVWJREQHia7FOnnZ6shiK35nYHW5YejEXaDTqVcf3SHuUVs59f8H9-566JI6OoUmEpVET42ZJ3puciHhONZPd-AQCaWxWb7LdK4Txeu-zdhj8MiuOKQCqnveoTrRpDq1LPzHepgcTUAWK7RjykFI81oD2_9S8NB7zuNZrVW2IbNj4XISr7gOgxyMge9x2DEIampQiAZxGXLkkE7N9jI0EarE_dhzcKqjn1nxxAy-kAlT76FYAtErEc7DSUrfw73ioysXphBh2kgetH73-jkOYwLCNHDamKnj8gn6pjiHe_PyVbUVRn-BWGWEcgZNcfgmCrtc5BwYr0MS0uSp36bZx65uhrGgfZJSXE7wTW93PTz_WF_RvQJWzPr4QUp9eVGieOckHtQPxkpwCQfpFKG2ODgiwVyJieQovAuDvuh1aH8pvMzIbTMQfDN2ChZrg8kGonqAuoN6totXS0pGYR_hJSsZZ9H0wdZStuABtGb-g7oj0TlOTOquwmzm6Iubk4_n91HuUQz6Oo9MFWSGb7Pu8AkA1JgYqrvaImnOxAAeKp92HiTr4C7oRtyja55XU5tiw3fd_",
     "salt": "nlAnLK5ZIncW-ia-aIbS5A==",
-    "text": "Breton mythology features the site of Barenton (Belenton). Known for hoarding the magical Fountain That Makes Rain, the legendary forest of Broc\u00e9liande hides it in the heart of Brittany. A rumour has it that those who draw water from the Fountain and sprinkle it around run the risk of causing tempests. Laudine is believed to govern the same Fountain, as Lady of the Fountain and lover of the hero of Arthurian legend, Owein. Barenton might also relate to a remembrance of a Nemeton or Celtic holy grove."
+    "text": "Barenton is a Breton mythological site, also called Belenton. It is the home of the magical Fountain That Makes Rain. The fountain holds rain-making power in the folklore of Brittany.",
+    "okr": {
+        "objective": "Describe Barenton, the Breton site of the magic rain-making fountain.",
+        "key_results": [
+            "Barenton is a Breton mythological site.",
+            "It is known for the magical Fountain That Makes Rain.",
+            "The site carries the alternate name Belenton."
+        ],
+        "evidence": "Monaghan 2008, s.v. 'Barenton'."
+    }
 }

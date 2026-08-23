@@ -3,37 +3,33 @@
     "attributes": [
         {
             "entity": "Eithne Ingubai",
-            "attribute": "wife or mistress of the hero C\u00fachulainn"
+            "attribute": "wife or mistress of the hero Cúchulainn in occasional texts"
         },
         {
-            "entity": "C\u00fachulainn",
-            "attribute": "hero"
+            "entity": "Cúchulainn",
+            "attribute": "his more common wife is named Emer"
         },
         {
-            "entity": "Emer",
-            "attribute": "wife of C\u00fachulainn"
-        },
-        {
-            "entity": "Fand",
-            "attribute": "mistress of C\u00fachulainn"
+            "entity": "Cúchulainn",
+            "attribute": "his more common mistress is named Fand"
         }
     ],
     "entities": [
         {
-            "entity": "Eithne Ingubai",
-            "type": "Person"
+            "type": "Person",
+            "entity": "Eithne Ingubai"
         },
         {
-            "entity": "C\u00fachulainn",
-            "type": "Person"
+            "type": "Person",
+            "entity": "Cúchulainn"
         },
         {
-            "entity": "Emer",
-            "type": "Person"
+            "type": "Person",
+            "entity": "Emer"
         },
         {
-            "entity": "Fand",
-            "type": "Person"
+            "type": "Person",
+            "entity": "Fand"
         }
     ],
     "sources": [
@@ -41,5 +37,14 @@
     ],
     "cyphertext": "lVqZM6IhGqxetmJimXnQ73y9UjKNJgNA12Hxad2VMK75eQmj_K-cK5NDlTdxjmOlPUXfvhTRGFJB2FZRGooHZbh3wwClvWCP3_CBdvaULaUtm3fH11vGpb7l_2-3ttLR_eCiUNs9jGwJ04JcHmcObqAG_zxAwQszmgHFiB4-T56Sfd6ypiF8Bvx3LaFhSh0Ki_arZWDg-RKGZAZZF7DDHdO_DF0leARrMPiyeOKn9cSmjb0AVQEy_mlA2P3B",
     "salt": "uU6ExgomNhEeZtN0t4UOQg==",
-    "text": "Eithne Ingubai occasionally appears as the wife or mistress of the hero C\u00fachulainn in some texts; however, his wife is more commonly referred to as Emer, and his mistress as Fand."
+    "text": "Eithne Ingubai appears in some texts as a wife or mistress of the hero Cúchulainn. His more common wife bears the name Emer. His mistress carries the name Fand. Eithne Ingubai is the rarer form.",
+    "okr": {
+        "objective": "Correct the Eithne Ingubai entry toward human-quality CSG-SME1000 prose.",
+        "key_results": [
+            "text exceeds 150 characters in short active sentences",
+            "typed entities cover Eithne, Cúchulainn, Emer, and Fand",
+            "attributes match the source note on the rarer name for Cúchulainn's consort"
+        ],
+        "evidence": "Monaghan, The Encyclopedia of Celtic Mythology and Folklore, 2008"
+    }
 }

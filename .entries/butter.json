@@ -2,14 +2,42 @@
     "name": "butter",
     "entities": [
         {
-            "entity": "Buttery Spirits",
-            "type": "alcoholic beverage"
+            "entity": "butter",
+            "type": "Object"
+        },
+        {
+            "entity": "fairies",
+            "type": "Being"
+        },
+        {
+            "entity": "witchcraft",
+            "type": "Concept"
+        },
+        {
+            "entity": "Ireland",
+            "type": "Place"
+        },
+        {
+            "entity": "Scotland",
+            "type": "Place"
+        },
+        {
+            "entity": "buttermilk",
+            "type": "Object"
         }
     ],
     "attributes": [
         {
-            "entity": "Buttery Spirits",
-            "attribute": "flavor"
+            "entity": "butter",
+            "attribute": "linked in folklore to fairies and witchcraft"
+        },
+        {
+            "entity": "buttermilk",
+            "attribute": "the leftover liquid, consumed as a nourishing drink"
+        },
+        {
+            "entity": "butter",
+            "attribute": "could fail to come from the liquid milk during churning"
         }
     ],
     "sources": [
@@ -20,5 +48,15 @@
     ],
     "cyphertext": "SpGjlULybdJQvZ0tJE_jiCWg40hJVdb9XlcAkMzqPXrABQkIrUg20Andb2c8UpRgn_q0i7_TFqHEdaFXedaOvGa7VE7sRQBPKF2O5ScZzXIX7ZLD_KX03eVB64n2Cb4xk91ePCA_6-tYdsQGfGtMOyMwps_4i3l17_9kOEhOigKS0YHXDE_jDktsD2PiUO3_ESe9RVM1uGO22oN-ZhSjl-zPxp2z1FmuLboH5UZzCDZrh74EiwXCh4JZ-mNNM2BfNyW_rdi7a4hqZ0k2hZZNKKy3oJv4SJAwYvYgkpYJWqvzLwnAgRh092ZeE2i59vPUCHXyJG411vK_aW0Uv1Y9FxqSyv3eW38OO5HV6LuFN-naoGWxSq7ywbxT85QU1_vRhNsHGUvp85vvkBAVzNd6XnojGbtY0sLcxxJrNL96iKXc52mO5SWegIDsNFOp-NlfyiI33pBGu2GZo6G5oWIv96l6QDzmd8dwvPwuobxuV1whzCBOTtwT4hxCeOjsvMe_NLnsTfKJY9xh6OrbptZ4aUseRErunGevLfvVRHJqc8alJrjkXbDnzc7GETjiCUUo8D7KAyING22uKOlMaAbLLm3TKW2IyagRguIl7A2GLBI0Xq0DCWpzkLVsqW20m-997Gcdc60W47of6FuMQ5Lu0Jvu4KR6lpMqvsu_cfM8tmBiKWvdwpdBfwy7pLqDr4IrpyA55DpBm15cgqOkZSCw0E3s5qXPWQyl_9quyisN2a1CDCA1wlTFHhaqBnwXlHTaYjXO405DA7oSMo37RYBXAzO1a_C9B93BYkJ4tyrNVh_LPpF9MWMv23owQ0bEmaJyF5v95XHjfjGfE4GL6YaKkjodft3lipB5vhheP7bTkQs_LaTH9WZ9WfuI7ZmhFZwrhLp__fR3n5xDLJiz_s8LQWOGESvYWHccPv6NyfUNryUe_hzwPhFBtqSWeyRvJ_VbZYrrwZ8Yb223QJR4pCkNRVIq3Src6c5QxbT09ArFl2QnTwydB0OC4_guAH3CpB98PbQVuN3vSqH9ps00rCnZFSj7tWNA1yLxalCx3-olpjM5Qslc47jO1wGwO0GvRJzoNRy-EH5Lng9AQNf4IHaWRopOdJ4ZfvJoyePgi7450Rbkbpg_kopZqGt9_ozuHzr68YhuiE6Mnr7j_E60MTrqsVMSRcdxGAcVBNxCb1bZff7_FilkGFt8wB3Ur_3VqULFrgwW_qq-gjYKdmcf6QxqdnkURsSrhcFs8hfIGg_26kOi7s0f5WBKl7gz3dn6Z3S748rlaN6EXk61inGfj00ROdx6uka_0yvkfttWIFezI0mtXwIqBioqTk3g74bHpVRM-FFcWMpeTdRuviJw9VWaiLXjRQ4sX0H9K4xfr_UD0uHDGK2msB-E9-ZZdPlYgvsjjtgZMBH7AqL0tZ1nO-lU59HK8ltG",
     "salt": "OjU4homS0DP2RXHV_rVULQ==",
-    "text": "In folklore, butter was a mythical object that held connections to Fairies and Witchcraft. The rural life in Ireland and Scotland centered around Cattle, which provided essential food sources in the form of milk, cheese, and butter, as well as meat. Women\u2019s work in these regions revolved primarily around churning butter from cows\u2019 milk: they would beat the milk until the butterfat would congeal, forming a yellow mass. The leftover buttermilk was consumed as a drink, while the butter itself was shaped and kept for future use. However, the process was prone to failing, sometimes leaving behind only a half-congealed and half-liquid mess instead of thick butter. The most common complaint was that, no matter how hard they churned, the butter would not thicken from the liquid milk. It was believed that someone was \"stealing\" the butter, which was forming within the churn but was being whisked away. Fairies were commonly blamed, as they had a particular hunger for butter, but Witches were also accused of the butter theft. (See Buttery Spirits.)"
+    "text": "Butter held a folkloric link to fairies and to witchcraft. Rural life in Ireland and Scotland turned on cattle. The herd gave milk, butter, cheese and meat. Churning butter from cow's milk was a core part of women's work in these lands. The maker beat the milk until the butterfat set into a yellow mass. The leftover buttermilk served as a nourishing drink. The butter itself was shaped and stored for later use. At any stage the work could go wrong and spoil the butter into a half-set, half-liquid mess. The usual complaint was that the butter would not come from the liquid milk. No matter how hard the woman churned, the butter stayed thin.",
+    "okr": {
+        "objective": "Present butter as a folkloric object tied to fairies and to the churning work of women.",
+        "key_results": [
+            "Butter was connected in folklore to fairies and witchcraft.",
+            "Churning milk to set the butterfat was core women's work in Ireland and Scotland.",
+            "The leftover buttermilk was drunk as a nourishing drink.",
+            "The butter could spoil, leaving a half-set, half-liquid mess."
+        ],
+        "evidence": "Monaghan 2008, s.v. 'butter'."
+    }
 }

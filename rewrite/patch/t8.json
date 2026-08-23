@@ -1,0 +1,257 @@
+{
+  "Blanchefleur.json": {
+    "text": "Blanchefleur is an Arthurian heroine. She is also called Blancheflor. The knight Percival entered the land of the wounded Fisher King. There he found the fair woman and asked for her hand. Her name means white flower. In some texts the name belongs to Percival's sister. That sister is otherwise known as Dindraine.",
+    "entities": [
+      {"entity": "Blanchefleur", "type": "Person"},
+      {"entity": "Percival", "type": "Person"},
+      {"entity": "Fisher King", "type": "Title"},
+      {"entity": "Dindraine", "type": "Person"}
+    ],
+    "attributes": [
+      {"entity": "Blanchefleur", "attribute": "also called Blancheflor"},
+      {"entity": "Percival", "attribute": "entered the domain of the wounded Fisher King"},
+      {"entity": "Blanchefleur", "attribute": "wooed by the Round Table knight Percival"},
+      {"entity": "Blanchefleur", "attribute": "name means white flower"},
+      {"entity": "Blanchefleur", "attribute": "known as Dindraine in some versions"}
+    ],
+    "okr": {
+      "objective": "Describe Blanchefleur, the Arthurian heroine whom the knight Percival wooed.",
+      "key_results": [
+        "The knight Perceval entered the domain of the wounded Fisher King.",
+        "Percival met and wooed the beautiful Blanchefleur.",
+        "Blanchefleur's name means white flower.",
+        "In some texts she is the sister of Percival."
+      ],
+      "evidence": "Monaghan 2008, s.v. 'Blanchefleur'."
+    }
+  },
+  "Blarney_Stone.json": {
+    "text": "The Blarney Stone is an Irish folkloric site. It sits in the fifteenth-century Blarney Castle in County Cork. The stone gives eloquence to any person who kisses it. This gift does not require honesty. People journey to the castle for the sake of that speech.",
+    "entities": [
+      {"entity": "Blarney Stone", "type": "Place"},
+      {"entity": "Blarney Castle", "type": "Place"},
+      {"entity": "County Cork", "type": "Place"}
+    ],
+    "attributes": [
+      {"entity": "Blarney Stone", "attribute": "an Irish folkloric site in Blarney Castle"},
+      {"entity": "Blarney Castle", "attribute": "dates from the fifteenth century"},
+      {"entity": "Blarney Castle", "attribute": "stands in County Cork"},
+      {"entity": "Blarney Stone", "attribute": "conveys eloquence upon those who kiss it"},
+      {"entity": "Blarney Stone", "attribute": "offers eloquence without the requirement of honesty"}
+    ],
+    "okr": {
+      "objective": "Describe the Blarney Stone, the Cork relic that grants eloquence to its kissers.",
+      "key_results": [
+        "The Blarney Stone lies in the fifteenth-century Blarney Castle.",
+        "The castle stands in County Cork.",
+        "Kissing the stone conveys eloquence.",
+        "The gift of eloquence comes without honesty."
+      ],
+      "evidence": "Monaghan 2008, s.v. 'Blarney Stone'."
+    }
+  },
+  "Blaí.json": {
+    "text": "Blaí is an Irish heroine. She is the mother of Oisín, the poet of the band called the Fianna. A magical enemy turned her into a deer. She bore her son while in that deer shape. Fionn Mac Cumhaill fathered the boy. Her son entered life in human shape. Blaí was warned not to touch him. She still stroked him with her tongue. A small furry patch stayed on his brow. The heroine often carries the name Sadb.",
+    "entities": [
+      {"entity": "Blaí", "type": "Person"},
+      {"entity": "Oisín", "type": "Person"},
+      {"entity": "Fianna", "type": "Group"},
+      {"entity": "Fionn Mac Cumhaill", "type": "Person"},
+      {"entity": "Sadb", "type": "Person"}
+    ],
+    "attributes": [
+      {"entity": "Blaí", "attribute": "mother of Oisín"},
+      {"entity": "Blaí", "attribute": "turned into a deer by a magical enemy"},
+      {"entity": "Oisín", "attribute": "the poet of the band called the Fianna"},
+      {"entity": "Fionn Mac Cumhaill", "attribute": "father of Oisín"},
+      {"entity": "Blaí", "attribute": "often given the name Sadb"}
+    ],
+    "okr": {
+      "objective": "Describe Blaí, the mother of the Fianna poet Oisín who bore him in deer form.",
+      "key_results": [
+        "Blaí was the mother of Oisín, the poet of the Fianna.",
+        "A magical enemy turned Blaí into a deer.",
+        "Fionn Mac Cumhaill fathered her son Oisín.",
+        "Writers often call the heroine Sadb."
+      ],
+      "evidence": "Monaghan 2008, s.v. 'Blaí'."
+    }
+  },
+  "Blodeuwedd.json": {
+    "text": "Blodeuwedd is a Welsh goddess. Her name means flower face. The white maiden Arianrhod bore a son after a trick. She then cursed the boy. He could not hold a name, weapons, or a wife. Her brother Gwydion tricked her again. He won a name and a weapon for the young. Gwydion crafted a wife with the magician Math. In the fourth branch of the Mabinogion they worked this feat. They shaped Blodeuwedd from nine wildflowers. Among those plants were meadowsweet and oak, then broom, primrose, and cockle.",
+    "entities": [
+      {"entity": "Blodeuwedd", "type": "Deity"},
+      {"entity": "Arianrhod", "type": "Being"},
+      {"entity": "Gwydion", "type": "Person"},
+      {"entity": "Math", "type": "Person"},
+      {"entity": "Mabinogion", "type": "Title"}
+    ],
+    "attributes": [
+      {"entity": "Blodeuwedd", "attribute": "Welsh goddess whose name means flower face"},
+      {"entity": "Arianrhod", "attribute": "cursed her son, denying a name, arms, or wife"},
+      {"entity": "Gwydion", "attribute": "created a wife for the young man with Math"},
+      {"entity": "Blodeuwedd", "attribute": "made from nine kinds of wildflowers"},
+      {"entity": "Mabinogion", "attribute": "tells the tale in its fourth branch"}
+    ],
+    "okr": {
+      "objective": "Describe Blodeuwedd, the flower-formed wife that Gwydion and Math built.",
+      "key_results": [
+        "Arianrhod cursed her son, denying him a name.",
+        "Gwydion tricked her to secure what the youth required.",
+        "Blodeuwedd's name means flower face.",
+        "She was formed of nine wildflowers in the Mabinogion."
+      ],
+      "evidence": "Monaghan 2008, s.v. 'Blodeuwedd'."
+    }
+  },
+  "Blondine.json": {
+    "text": "Blondine is a heroine of Brittany. She appears in a folktale of that land. The tale is rich with myth signs. Some readers name her a fallen goddess. A youth called Cado mocked a fairy. The fairy then cast a spell. Only a princess could break that spell. She was called Blondine. No man could guide Cado to her land. He heard crows speaking about her. They told him the way. Cado rode on the back of a crow. The bird led him to Blondine. She waited by a good well. Cado took her from her wizard father. The father fired weak spells as they ran. On the earth Cado broke his promise. He lost the ring she had pressed on him. He forgot her completely. He planned to wed another. Blondine came to that wedding in her ring. Cado then recalled his true bride. The two were wed at last.",
+    "entities": [
+      {"entity": "Blondine", "type": "Person"},
+      {"entity": "Cado", "type": "Person"},
+      {"entity": "Brittany", "type": "Place"},
+      {"entity": "Fairy", "type": "Being"}
+    ],
+    "attributes": [
+      {"entity": "Blondine", "attribute": "heroine of a folktale from Brittany"},
+      {"entity": "Cado", "attribute": "cursed by a fairy, only Blondine could free him"},
+      {"entity": "Blondine", "attribute": "found with the help of crows by Cado"},
+      {"entity": "Cado", "attribute": "reached Blondine by riding a crow"},
+      {"entity": "Blondine", "attribute": "wed Cado at last in the end"}
+    ],
+    "okr": {
+      "objective": "Describe Blondine, the Breton maiden who could break a fairy's curse.",
+      "key_results": [
+        "Blondine can be met in a folktale of Brittany.",
+        "Cado was placed under the spell only she could cast away.",
+        "He came to her by riding on a crow's back.",
+        "They were married at last in the tale."
+      ],
+      "evidence": "Monaghan 2008, s.v. 'Blondine'."
+    }
+  },
+  "Blue_Men_of_the_Minch.json": {
+    "text": "The Blue Men of the Minch are Scottish folkloric figures. They are also called Fir Gorm and Fir Ghorma. The channel of the Minch divides the Hebrides. Blue-skinned beings haunt the coastal water. They may come from seals. They may be fallen angels. The Blue Men rule the weather of the channel. They rule the ships that cross it too.",
+    "entities": [
+      {"entity": "Blue Men of the Minch", "type": "Group"},
+      {"entity": "Minch", "type": "Place"},
+      {"entity": "Hebrides", "type": "Place"}
+    ],
+    "attributes": [
+      {"entity": "Blue Men of the Minch", "attribute": "Scottish folkloric figures"},
+      {"entity": "Minch", "attribute": "body of water between the Hebrides"},
+      {"entity": "Blue Men of the Minch", "attribute": "may descend from seals or be fallen angels"},
+      {"entity": "Blue Men of the Minch", "attribute": "control the weather and the ship traffic"}
+    ],
+    "okr": {
+      "objective": "Describe the Blue Men of the Minch, the blue beings of the channel.",
+      "key_results": [
+        "The Blue Men of the Minch are Scottish figures.",
+        "They haunt the water between the Hebrides.",
+        "They may come from seals or from an angel race.",
+        "They rule the weather and the ships."
+      ],
+      "evidence": "Monaghan 2008, s.v. 'Blue Men of the Minch'."
+    }
+  },
+  "Bláthnat.json": {
+    "text": "Bláthnat is an Irish goddess. Her name means little flower. A tale names her the daughter of Midir. Midir was the king of the Irish fairies. Another tale says she was the child of Ulster's ruler. That ruler was Concobar Mac Nessa. The hero Cúchulainn carried Bláthnat from the Otherworld. He carried her magic cattle and a cauldron too. His comrade in that raid was Cú Roí. Cú Roí then stole the cattle and the cauldron. Cú Roí also buried the maiden. She did not live well beside Cú Roí. She planned his murder within a year. Bláthnat took the hero Cúchulainn as her lover. She told him the secret to kill her husband. This makes her the Irish form of the Welsh Blodeuwedd. Cú Roí's poet Fercheertne pushed her over a cliff. He died in the same act. She later chose the forgiven life of a nun.",
+    "entities": [
+      {"entity": "Bláthnat", "type": "Deity"},
+      {"entity": "Midir", "type": "Person"},
+      {"entity": "Concobar Mac Nessa", "type": "Person"},
+      {"entity": "Cúchulainn", "type": "Person"},
+      {"entity": "Cú Roí", "type": "Person"}
+    ],
+    "attributes": [
+          {"entity": "Bláthnat", "attribute": "Irish goddess whose name means little flower"},
+          {"entity": "Bláthnat", "attribute": "daughter of Midir, king of the Irish fairies"},
+          {"entity": "Bláthnat", "attribute": "brought from the Otherworld by the hero Cúchulainn"},
+          {"entity": "Cú Roí", "attribute": "stole her cattle and cauldron and buried her"},
+          {"entity": "Bláthnat", "attribute": "became the lover of Cúchulainn"},
+          {"entity": "Bláthnat", "attribute": "chose the life of a convent"}
+        ],
+        "okr": {
+          "objective": "Describe Bláthnat, the Irish goddess who turned against the lord who kept her.",
+          "key_results": [
+            "Bláthnat's name means little flower.",
+            "Cúchulainn carried her from the Otherworld.",
+            "Cú Roí stole her treasure and buried her.",
+            "Bláthnat told her lover how to kill Cú Roí."
+          ],
+          "evidence": "Monaghan 2008, s.v. 'Bláthnat'."
+        }
+      },
+  "Bochtóg.json": {
+    "text": "Bochtóg is an Irish heroine. A fairy woman saved people from drowning. She woke sleepers on the shore as the tide rose. That wakeful act saved them from the sea. She was seen in rough weather. When visible she was a beautiful woman. Her waist-length hair was blonde.",
+    "entities": [
+      {"entity": "Bochtóg", "type": "Person"}
+    ],
+    "attributes": [
+      {"entity": "Bochtóg", "attribute": "an Irish fairy woman"},
+      {"entity": "Bochtóg", "attribute": "saved people from drowning"},
+      {"entity": "Bochtóg", "attribute": "woke those who slept on the shore"},
+      {"entity": "Bochtóg", "attribute": "seen usually in rough weather"},
+      {"entity": "Bochtóg", "attribute": "a beautiful woman with waist-length blonde hair"}
+    ],
+    "okr": {
+      "objective": "Describe Bochtóg, the fairy who woke sleepers on the shore.",
+      "key_results": [
+        "Bochtóg was an Irish fairy woman.",
+        "She saved people from drowning.",
+        "She woke those who slept on the shore as the tide rose.",
+        "She appeared as a beautiful woman with long fine hair."
+      ],
+      "evidence": "Monaghan 2008, s.v. 'Bochtóg'."
+    }
+  },
+  "Bodb_Derg.json": {
+    "text": "Bodb Derg is an Irish god or hero. He was the strongest magician of the Tuatha Dé Danann. He was the son of the good god Dagda. He was also the brother of Aonghus Óg, the god of poetry. He ruled from a great palace on the edge of Lough Derg. The Tuatha Dé elected him king. That choice angered the god Lir. Bodb Derg then punished Aífe. She had enchanted the children of Lir into swans. He turned Aífe into a demon or a crane.",
+    "entities": [
+      {"entity": "Bodb Derg", "type": "Person"},
+      {"entity": "Dagda", "type": "Deity"},
+      {"entity": "Aonghus Óg", "type": "Person"},
+      {"entity": "Lough Derg", "type": "Place"},
+      {"entity": "Lir", "type": "Person"},
+      {"entity": "Tuatha Dé Danann", "type": "Group"}
+    ],
+    "attributes": [
+      {"entity": "Bodb Derg", "attribute": "most powerful magician of the Tuatha Dé Danann"},
+      {"entity": "Bodb Derg", "attribute": "son of the god Dagda"},
+      {"entity": "Bodb Derg", "attribute": "brother of Aonghus Óg, the god of poetry"},
+      {"entity": "Bodb Derg", "attribute": "elected king of the Tuatha Dé Danann"},
+      {"entity": "Bodb Derg", "attribute": "lived by Lough Derg"}
+    ],
+    "okr": {
+      "objective": "Describe Bodb Derg, the magician whom the Tuatha named king.",
+      "key_results": [
+        "Bodb Derg is the son of the good god Dagda.",
+        "The people made him the king of the Tuatha.",
+        "The choice angered the god Lir",
+        "He lived by the shore of Lough Derg."
+      ],
+      "evidence": "Monaghan 2008, s.v. 'Bodb Derg'."
+    }
+  },
+  "Bodhmall.json": {
+    "text": "Bodhmall is an Irish heroine. She was a druid. She raised the great hero Fionn Mac Cumhaill as her own. He had no kinder nurse than her. Bodhmall trained the boy in secret arts. Her learning fell full on the champion of the tale.",
+    "entities": [
+      {"entity": "Bodhmall", "type": "Person"},
+      {"entity": "Fionn Mac Cumhaill", "type": "Person"}
+    ],
+    "attributes": [
+      {"entity": "Bodhmall", "attribute": "an Irish druid"},
+      {"entity": "Bodhmall", "attribute": "foster mother of Fionn Mac Cumhaill"},
+      {"entity": "Bodhmall", "attribute": "instructed Fionn in the occult arts"}
+    ],
+    "okr": {
+      "objective": "Describe Bodhmall, the druid who fostered Fionn Mac Cumhaill.",
+      "key_results": [
+        "Bodhmall was a druid.",
+        "She was the foster mother of Fionn Mac Cumhaill.",
+        "She instructed the hero in the occult arts."
+      ],
+      "evidence": "Monaghan 2008, s.v. 'Bodhmall'."
+    }
+  }
+}

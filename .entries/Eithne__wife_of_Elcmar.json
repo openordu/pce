@@ -2,16 +2,24 @@
     "name": "Eithne, wife of Elcmar",
     "entities": [
         {
-            "entity": "Eithne",
-            "type": "Person"
+            "type": "Person",
+            "entity": "Eithne"
         },
         {
-            "entity": "Elcmar",
-            "type": "Person"
+            "type": "Deity",
+            "entity": "Elcmar"
         },
         {
-            "entity": "B\u00f3and",
-            "type": "Mythical being"
+            "type": "Deity",
+            "entity": "Bóand"
+        },
+        {
+            "type": "Place",
+            "entity": "Brú na Bóinne"
+        },
+        {
+            "type": "Deity",
+            "entity": "Dagda"
         }
     ],
     "sources": [
@@ -20,14 +28,31 @@
     "attributes": [
         {
             "entity": "Eithne",
-            "attribute": "wife of Elcmar"
+            "attribute": "wife of Elcmar, an alternative name for the river goddess Bóand"
         },
         {
-            "entity": "B\u00f3and",
-            "attribute": "River goddess"
+            "entity": "Elcmar",
+            "attribute": "husband of Bóand in legends linked to the Brú na Bóinne monument"
+        },
+        {
+            "entity": "Bóand",
+            "attribute": "goddess of the River Boyne"
+        },
+        {
+            "entity": "Bóand",
+            "attribute": "cuckolded Elcmar with the god Dagda"
         }
     ],
     "cyphertext": "dePgaFWbVx6M20yQLrxZOmXS_hkE8CB0EPsYH60OeIZ8N3IOrbRfUCDjXgRXWKFgSspBa7m4fJxSr1KiFwV_hxdkwrouGhWEAbS6UZzqx9UmAbUkAiMKiNonHidvyTcVO_oD-s2WwN4yaQ==",
     "salt": "fYAoa56UXVEHt7szl7kqRQ==",
-    "text": "River goddess B\u00f3and is also known as Eithne, who happens to be the wife of Elcmar."
+    "text": "The name Eithne, wife of Elcmar, is an alternative name for Bóand, goddess of the River Boyne. Elcmar was her husband in legends linked to the Brú na Bóinne monument. Bóand later cuckolded Elcmar with the god Dagda.",
+    "okr": {
+        "objective": "Produce a correct, grounded CSG-SME1000 rewrite of the Eithne wife-of-Elcmar cross-reference.",
+        "key_results": [
+            "text is 150+ characters of short active sentences",
+            "typed entities cover Eithne, Elcmar, Bóand, the Brú na Bóinne, and the Dagda",
+            "attributes match the source on Bóand as the alternative name"
+        ],
+        "evidence": "Monaghan, The Encyclopedia of Celtic Mythology and Folklore, 2008"
+    }
 }

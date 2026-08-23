@@ -2,33 +2,29 @@
     "name": "Garb Mac Stairn",
     "attributes": [
         {
-            "entity": "Garb",
-            "attribute": "superhuman hero"
+            "entity": "Garb Mac Stairn",
+            "attribute": "was a Scottish folk giant in a legend of Cú Chulainn"
         },
         {
-            "entity": "C\u00fachulainn",
-            "attribute": "fierce Scottish giant"
+            "entity": "Garb Mac Stairn",
+            "attribute": "desired a bull owned by the hero Cú Chulainn"
         },
         {
-            "entity": "Finn Mccool",
-            "attribute": "folkloric version of the hero Fionn Mac Cumhaill"
+            "entity": "Garb Mac Stairn",
+            "attribute": "fought the baby that was the hero Cú Chulainn for a week"
+        },
+        {
+            "entity": "Cú Chulainn",
+            "attribute": "took a week to defeat the giant Garb Mac Stairn"
         }
     ],
     "entities": [
         {
-            "entity": "Garb",
-            "type": "Person"
+            "entity": "Garb Mac Stairn",
+            "type": "Creature"
         },
         {
-            "entity": "C\u00fachulainn",
-            "type": "Person"
-        },
-        {
-            "entity": "Scottish",
-            "type": "Nationality"
-        },
-        {
-            "entity": "Finn Mccool",
+            "entity": "Cú Chulainn",
             "type": "Person"
         },
         {
@@ -41,5 +37,14 @@
     ],
     "cyphertext": "BLFJ-cCpmoqJXbDcuKdJ-cgzYGw4V1Wx8oPiZRPFnBruyqRjFLEaWVZhLeh6-icrkhXmVbk5dpEbAlXQ2de1GDS7UavbPqIQtNoz3anQErTsc6o2A1BpOkcaSuwfvy3Dh7bKJ6c6wTSKcYqvRw9vJ0qUq1uEhysJZG2yFSwCoCit5mh3ic9RoE81tOBGjuGuphbFwyd7SydIlLvT_pUd2ZE8nbZv2QSJ0r-vBf8PhgVKtOfmqTuMLRm_o4U6l76aZSkCVWT4TWm6H2O3KO9t6HRpqkdLXozJqVUI5RQumt-iwSF05OyUdvbnAf8ebyl45kskp4DD96-6XvSpNTzp66mUkqvWCGrXcE2sVWFmYS_03KdC1rGAQxluHvIz6Io6zelfqXGQWYNIVxMlxDqmK0mLBq1hkFFRm3YDVwx-3FY8OABJ-A8qOLY9Csua_aTDfEuOrg_9GYqZ9rebk_pbZsKwe2w6C4K920jqVNYY88XtYvRqPNgJS6DLgEwuGVPTXnjfRnF6xqUGDubdfmKomVosbtHah7u32DTrSClIW-bYE4sodkAEuO4KXg6BU9NUTdG16JTqx8-osuHrRGVkTAQCh_3xddpaGHm-l--Vyzimq94IbbB8ThmeE1ykv9Qvlq4tlQUSuoOYkm8xaRTt0wLIFlGYPiwPmVPP3CozWx1bHKE-cCUQh6fxJqOrttgKY-jt1FfNoPDctZmjL8lfZ--L8wX0T0r5ssaD41IKKTKA92ZrBjLhAPx1EedabUCS5CY_VOVT27FR7nRnBZcBCEg7a1ugJG9r64-YexL9hkePtytdAx5NfdU8krHtjVO8cK3kQ6v_PioXduBAw9wmXKjnO59muH08awl0zFa6VmM03eYwiNJywxZkVRca9gwOu7oFjt40vc5aC0ZK_0hMQh_N4NHJHDvWxLTRlxi6hk_5bSK5hAFGHAX5OXebzwn29I81jvf_mmCu8jJbBXBzZEL4j-0DczyKYT2EZiSTToZiuGpCHLciqMcHdCnNdAxgQgZv_8NOwcly4TBiREJzeSDg9OwWLtuR8WyCgBNXlLH-zCXv6XsaoYtvSYfmNr04_jUBxksDQIPg2d8UnyKb_prICyshD0MZDmlmHLr5zg==",
     "salt": "K28Vsl1nkg221gwSdvLLdg==",
-    "text": "A figure in Scottish folklore, Garb Mac Stairn, is featured in a legend about the Irish hero C\u00fachulainn. Garb wished to possess the hero's bull, so he journeyed to Ireland. Upon reaching C\u00fachulainn's house, Garb met a servant who stated that the house was empty except for the servant's ill mistress. Despite this, Garb demanded to see the house's owner and forced his way into the sickroom. There he discovered the sickly woman nursing a large baby. The giant stuck his finger into the baby's mouth, but the infant responded by biting down hard enough to draw blood. Garb and C\u00fachulainn, revealed to be the baby, engaged in a week-long battle that ended with the superhuman hero's victory over the fierce Scottish giant. A version of this story also exists about Finn MacCool, the folkloric equivalent of Fionn Mac Cumhaill."
+    "text": "Garb Mac Stairn was a Scottish folkloric giant. He appears in a legend of the Irish hero Cú Chulainn. He wanted a bull that the hero owned. He traveled to Ireland and found only a servant. The servant said the house was empty except for a sick mistress. Garb forced his way into the room. He saw a woman suckling a large babe. He poked his finger into the baby's mouth. The baby bit down until it struck bone. Garb and the baby fought to the death. The hero took a week to win. A similar tale is told of Fionn mac Cumhaill.",
+    "okr": {
+        "objective": "Record the Scottish giant Garb Mac Stairn.",
+        "key_results": [
+            "Describe Garb's desire for the bull and his trip to Ireland.",
+            "Relate the scene with the babe in the wounded woman's room.",
+            "Note the week long battle with the hero Cú Chulainn."
+        ],
+        "evidence": "Monaghan, The Encyclopedia of Celtic Mythology and Folklore, 2008, s.v. 'Garb Mac Stairn'."
+    }
 }

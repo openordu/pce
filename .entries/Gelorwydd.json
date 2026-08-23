@@ -3,29 +3,21 @@
     "attributes": [
         {
             "entity": "Gelorwydd",
-            "attribute": "Welsh hero"
+            "attribute": "is an obscure Welsh hero"
         },
         {
-            "entity": "warrior",
+            "entity": "Gelorwydd",
             "attribute": "bathed the dying on battlefields with his own blood"
         },
         {
-            "entity": "dying",
-            "attribute": "on battlefields"
-        },
-        {
-            "entity": "dying",
-            "attribute": "great peace"
+            "entity": "Gelorwydd",
+            "attribute": "brought the wounded great peace"
         }
     ],
     "entities": [
         {
             "entity": "Gelorwydd",
-            "type": "person"
-        },
-        {
-            "entity": "warrior",
-            "type": "person"
+            "type": "Person"
         }
     ],
     "sources": [
@@ -33,5 +25,13 @@
     ],
     "cyphertext": "690gzfq5BxassjkENgp7CchV49ft6WuODb_819YAc1D8Zfj0aeQ49aOLRF6ux8GJCk4z2SkpfKxyRM_78vPklYJlSwa4c6H4NSV6TJtwuHuMexjR6KUNmpLHvTB6W2pwa6AzBlCN91dDXsDwb7ftbX36zkHk9Geie2ckF3iLkE9bfS47wZ1Y73aBbE4oQEM7odmIxa8_KlxvKpeauIhnHooJDoJ00SpLnSVoCFZ_xT2GiCU5rTl-vPsCjr-mrw==",
     "salt": "5S1Sp2pOS6n31fFTU-lSWA==",
-    "text": "An obscure Welsh hero named Gelorwydd is mentioned in some texts. He was known for bathing the dying on battlefields with his own blood, providing them with great comfort."
+    "text": "Gelorwydd is an obscure Welsh hero. Some texts describe him as a warrior who bathed the dying on battlefields with his own blood. That act is said to have brought the wounded great peace in their final moments. Little else is known about him.",
+    "okr": {
+        "objective": "Document Gelorwydd as an obscure Welsh hero with a distinctive battlefield mercy.",
+        "key_results": [
+            "Establish Gelorwydd as a Person-typed Welsh hero",
+            "Record the act of bathing the dying with his own blood"
+        ],
+        "evidence": "Monaghan, The Encyclopedia of Celtic Mythology and Folklore, 2003"
+    }
 }

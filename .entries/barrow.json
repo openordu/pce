@@ -3,89 +3,57 @@
     "entities": [
         {
             "entity": "barrow",
-            "type": "grave"
+            "type": "Place"
         },
         {
             "entity": "Wiltshire Downs",
-            "type": "location"
+            "type": "Place"
         },
         {
             "entity": "Stonehenge",
-            "type": "sacred site"
+            "type": "Place"
         },
         {
             "entity": "England",
-            "type": "location"
+            "type": "Place"
         },
         {
             "entity": "Ireland",
-            "type": "location"
-        },
-        {
-            "entity": "Barrows",
-            "type": "sacred sites"
-        },
-        {
-            "entity": "fairy creatures",
-            "type": "mythical beings"
+            "type": "Place"
         },
         {
             "entity": "Black Dogs",
-            "type": "mythical beings"
-        },
-        {
-            "entity": "ghosts",
-            "type": "supernatural beings"
+            "type": "Creature"
         },
         {
             "entity": "Fairy Mound",
-            "type": "sacred site"
+            "type": "Place"
         }
     ],
     "attributes": [
         {
             "entity": "barrow",
-            "attribute": "sacred site"
+            "attribute": "a pre-Celtic grave built of a line of stones ending in a mound"
         },
         {
             "entity": "barrow",
-            "attribute": "pre-Celtic grave"
-        },
-        {
-            "entity": "barrow",
-            "attribute": "made from stones set in a line ending in a grave"
-        },
-        {
-            "entity": "barrow",
-            "attribute": "more than one burial is sometimes found"
+            "attribute": "sometimes holds more than one burial"
         },
         {
             "entity": "Wiltshire Downs",
-            "attribute": "has the greatest collection of barrow graves in England"
+            "attribute": "carries the largest group of barrows in England"
         },
         {
-            "entity": "barrow graves",
-            "attribute": "found throughout Ireland"
-        },
-        {
-            "entity": "Barrows",
-            "attribute": "revered by those who dwelt around them"
-        },
-        {
-            "entity": "fairy creatures",
-            "attribute": "hauntings by"
+            "entity": "Stonehenge",
+            "attribute": "rises on the Wiltshire Downs"
         },
         {
             "entity": "Black Dogs",
-            "attribute": "type of fairy creature"
-        },
-        {
-            "entity": "ghosts",
-            "attribute": "hauntings by"
+            "attribute": "fairy creatures said to haunt barrows"
         },
         {
             "entity": "Fairy Mound",
-            "attribute": "related to"
+            "attribute": "related cross-reference entry"
         }
     ],
     "sources": [
@@ -93,5 +61,14 @@
     ],
     "cyphertext": "i0sxuaUiWm4x9z_ueVFoOAjibZp88ml4a6F4rnZIZRkVweN39wgV1DF0bw-gSvBZ41N-ek8W63KUGxXaEvrxjwprZwRaSopebpvQaDa27U-0nMKxgb3SSVbodLj2zl_Ilnm239HUjQO5su7qr2Be6mrhXgG6Ks8lM8Zll1e0Cvza3ma5D4FcExsuZzP7fHKzOHZRXhrk1MEWmB4ScPzxPJiqX_cIBS195RfLBKeMbEJR8q7-n2xfWFI-0mYYiJTfnJJJheXL_ZB0Ei03UbTVZ98CrXn2AKF0GVaIOxZk0vKJymQvpjoWhPzaNYWqzfhzsW3P_6Nsc0HodrNNnoAYPvSptIW3WNyRo3CBHQNXtQS7ebpSYLDh1dqhSEhBIS5HUmZNJVVgAQorIu8HYCfJgRwKFRDhJkhxUzM3O7qLLvVQm5p8UtAOhihB6p49fa4DTAwl08m58Vw4qhGOYGCSMDjCbrUrPkubV8E5pcS5vyhkgNx9E1JAGGdwiqiYtO1J-ROcpYW-W7IYfRimZXGrwy3pONRQ0hJ4TIeL2BafZudKHQnES8ldaesTEkl0yDI3BthiGG2AG7_WCv0Og8oeL-QXnyTO6aLQdylmClGaQ4rPCuyglej-Hk4RTAOmdsRx17u-0DGTqA==",
     "salt": "-JQj0a9U-ZsddQTIiQoTrw==",
-    "text": "Stones set in a line, culminating in a grave, compose a pre-Celtic burial known as barrow. These sacred sites are occasionally home to multiple burials and are commonly found throughout Ireland. The Wiltshire Downs, the location of Stonehenge, boasts England's largest collection of barrows. Locals who reside beside these graves hold them in high esteem and recount tales of supernatural beings such as Black Dogs and ghosts haunting them. Refer to Fairy Mound for additional information."
+    "text": "A barrow is a pre-Celtic grave. Builders set stones in a line that ends in a burial mound. Some barrows hold more than one body.\n\nThe Wiltshire Downs carry the largest group of barrows in England. Stonehenge rises above those downs. Barrows also appear throughout Ireland. Local people revere the graves near their homes. They tell tales of hauntings at the mounds. Black Dogs of the fairy race and wandering ghosts frequent these sites. See the entry for the Fairy Mound.",
+    "okr": {
+        "objective": "Describe the barrow as a pre-Celtic burial site and the folklore attached to it.",
+        "key_results": [
+            "A barrow is a grave of pre-Celtic origin built from stones.",
+            "The Wiltshire Downs hold the largest group of barrows in England.",
+            "Barrows appear across Ireland and are linked to hauntings."
+        ],
+        "evidence": "Monaghan 2008, s.v. 'barrow'."
+    }
 }

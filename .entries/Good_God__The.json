@@ -1,11 +1,1 @@
-{
-    "name": "Good God, The",
-    "attributes": {},
-    "entities": [],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "cyphertext": "DSaFT-5XSFVI2YzL6toHI4QxJcbFWf_PqQUjehPNN7apZz9yrPID9HkfX2lya1RWqHPlxlw=",
-    "salt": "B6kLG3SwK8bmIXJpWI7_cQ==",
-    "text": "Good God, The See Dagda."
-}
+{"name": "Good God, The", "attributes": [{"entity": "Good God, The", "attribute": "cross-reference directing the reader to the entry for the Dagda"}, {"entity": "Dagda", "attribute": "the good god of Irish myth and a father-figure of the Tuatha Dé Danann"}], "entities": [{"entity": "Good God, The", "type": "Title"}, {"entity": "Dagda", "type": "Deity"}, {"entity": "Tuatha Dé Danann", "type": "Group"}], "sources": ["Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."], "cyphertext": "DSaFT-5XSFVI2YzL6toHI4QxJcbFWf_PqQUjehPNN7apZz9yrPID9HkfX2lya1RWqHPlxlw=", "salt": "B6kLG3SwK8bmIXJpWI7_cQ==", "text": "Good God, The is a cross-reference. See the DAGDA for the full entry. The Dagda is the good god of Irish myth. He stands as a father-figure of the Tuatha Dé Danann. This entry points readers to that fuller account.", "okr": {"objective": "Keep a short cross-reference stub for Good God, The that points to the Dagda.", "key_results": ["The entry redirects readers to the DAGDA.", "The Dagda is the good god of Irish myth.", "He is a father-figure of the Tuatha Dé Danann."], "evidence": "Monaghan 2008, s.v. 'Good God, The' (redirecting to 'Dagda')."}}

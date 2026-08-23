@@ -1,53 +1,47 @@
 {
-    "name": "Lugaidh mac Conn",
-    "attributes": [
-        {
-            "entity": "Lugaidh mac Conn",
-            "attribute": "foster son and enemy of the Munster ruler Ailill Olom"
-        },
-        {
-            "entity": "Ailill Olom",
-            "attribute": "Munster ruler"
-        },
-        {
-            "entity": "Ailill's army",
-            "attribute": "defeated by Lugaidh at the battle of Mag Mucramhan"
-        },
-        {
-            "entity": "Lugaidh",
-            "attribute": "tried to apologize to the Munster king"
-        },
-        {
-            "entity": "Ailill",
-            "attribute": "infected Lugaidh with his poisoned breath"
-        },
-        {
-            "entity": "Lugaidh",
-            "attribute": "died"
-        }
-    ],
-    "entities": [
-        {
-            "entity": "Lugaidh mac Conn",
-            "type": "Person"
-        },
-        {
-            "entity": "Munster",
-            "type": "Location"
-        },
-        {
-            "entity": "Ailill Olom",
-            "type": "Person"
-        },
-        {
-            "entity": "Mag Mucramhan",
-            "type": "Location"
-        }
-    ],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "cyphertext": "sFvoeniG-jBtlZm1BYOKi0xTH8r8X0aFmA10BBgKYWXw6rfm9tkML2S6nT5JnGF4rrA2iAHJu4usl9uDcu8D4MWa4wNBdrIKq3OT3MmSAOgb6C-ffOJQuUDYXF6p0vtzhHPrwjr-8lDMIfLwIA1vlJEPzpAw6nT013ZTuwgMnTxN52e2eeS5ddUB7Y7qKtNlrPBkufQgEg6TbNuIIIAL4PstpOg_aJCP-jpQAOPtVlvnEg9jP6qsu8x8fckBsxTwgvPhEw2x3Vvl2gwngipMTZjxbIfEMcKLqCEiVij0RsrdOxevUNRhkPzChSmMJ5P8N5l0HCuglniPkIN6JbHVAG1dzXafWf_tJq-8Usn0F1Aan98eZoLDcJ-lzQ1jvO5VGQ==",
-    "salt": "amIBEg6ZSs7lf4OIk0Tcbg==",
-    "text": "Fostered by Conn and an adversary of Ailill Olom, the ruler of Munster, was Lugaidh mac Conn. In a critical battle waged in Mag Mucramhan, Lugaidh vanquished Ailill's army. Subsequently, Lugaidh attempted to reconcile with the Munster monarch, however, Ailill's poisoned breath proved fatal and Lugaidh met his demise."
+ "name": "Lugaidh mac Conn",
+ "attributes": [
+  {
+   "entity": "Lugaidh",
+   "attribute": "foster son and later enemy of Ailill Olom"
+  },
+  {
+   "entity": "Lugaidh",
+   "attribute": "defeated Ailill's army at Mag Murmhain"
+  },
+  {
+   "entity": "Lugaidh",
+   "attribute": "died when Ailill breathed poison on him"
+  }
+ ],
+ "entities": [
+  {
+   "entity": "Lugaidh",
+   "type": "Person"
+  },
+  {
+   "entity": "Ailill Olom",
+   "type": "Person"
+  },
+  {
+   "entity": "Mag Murmhain",
+   "type": "Place"
+  }
+ ],
+ "sources": [
+  "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+ ],
+ "cyphertext": "sFvoeniG-jBtlZm1BYOKi0xTH8r8X0aFmA10BBgKYWXw6rfm9tkML2S6nT5JnGF4rrA2iAHJu4usl9uDcu8D4MWa4wNBdrIKq3OT3MmSAOgb6C-ffOJQuUDYXF6p0vtzhHPrwjr-8lDMIfLwIA1vlJEPzpAw6nT013ZTuwgMnTxN52e2eeS5ddUB7Y7qKtNlrPBkufQgEg6TbNuIIIAL4PstpOg_aJCP-jpQAOPtVlvnEg9jP6qsu8x8fckBsxTwgvPhEw2x3Vvl2gwngipMTZjxbIfEMcKLqCEiVij0RsrdOxevUNRhkPzChSmMJ5P8N5l0HCuglniPkIN6JbHVAG1dzXafWf_tJq-8Usn0F1Aan98eZoLDcJ-lzQ1jvO5VGQ==",
+ "salt": "amIBEg6ZSs7lf4OIk0Tcbg==",
+ "text": "Lugaidh mac Conn was an Irish hero and the foster son of Ailill Olom, the ruler of Munster. He later turned against the king and took on his forces. At the battle of Mag Murmhain Lugaidh defeated Ailill's army. Afterward he sought to make peace with the king, but Ailill breathed his poisoned breath upon Lugaidh while he still lived, and so the hero died.",
+ "okr": {
+  "objective": "Document Lugaidh mac Conn and his quarrel with Ailill Olom.",
+  "key_results": [
+   "He was the foster son of Ailill Olom of Munster",
+   "He later turned against the king",
+   "He defeated Ailill's army at Mag Murmhain",
+   "Ailill slew him with poisoned breath"
+  ],
+  "evidence": "Monaghan, The Encyclopedia of Celtic Mythology and Folklore, 2003."
+ }
 }

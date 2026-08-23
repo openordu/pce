@@ -1,9 +1,43 @@
 {
     "name": "gentry",
-    "attributes": {},
+    "attributes": [
+        {
+            "entity": "gentry",
+            "attribute": "a euphemistic Irish name for the fairies"
+        },
+        {
+            "entity": "Daoine Uaisle",
+            "attribute": "the Irish phrase behind the English gentry"
+        },
+        {
+            "entity": "humans",
+            "attribute": "used soft names for the fairies because they feared their power"
+        },
+        {
+            "entity": "Tuatha Dé Danann",
+            "attribute": "the divine race the euphemisms refer to"
+        }
+    ],
     "entities": [
         {
-            "text": "Fairy"
+            "entity": "gentry",
+            "type": "Group"
+        },
+        {
+            "entity": "Daoine Uaisle",
+            "type": "Group"
+        },
+        {
+            "entity": "Tuatha Dé Danann",
+            "type": "Group"
+        },
+        {
+            "entity": "Áes Sídhe",
+            "type": "Group"
+        },
+        {
+            "entity": "Daoine Maithe",
+            "type": "Group"
         }
     ],
     "sources": [
@@ -14,5 +48,14 @@
     ],
     "cyphertext": "5ykI2rCKB2nxIUiZRVTM89ZBK273exGfOz7TQu106zvlSv6eFvzbM6qiyBdC8Q==",
     "salt": "MxxV2C1lFInh9zbFmQfQYg==",
-    "text": "gentry See Fairy."
+    "text": "The gentry is a euphemistic name for the fairies. In Irish the term is Daoine Uaisle. Humans used such soft names because they feared fairy power. The people behind these names are the Tuatha Dé Danann. Other euphemisms include the Daoine Maithe, the Good People. Another is the Áes Sídhe, the People of the Fairy Mounds. Humans also said the Wee Folk, the Hill Crowd, and the Red Caps. The gentry is a cross-reference to the FAIRY entry.",
+    "okr": {
+        "objective": "Present the gentry as a euphemistic name for the fairies.",
+        "key_results": [
+            "Name the figure, its aliases, and its region in the first clauses.",
+            "Give the concrete anchors of the legend without copying the source prose.",
+            "Close with the entry's place in Celtic folk belief."
+        ],
+        "evidence": "Monaghan, The Encyclopedia of Celtic Mythology and Folklore, 2003"
+    }
 }

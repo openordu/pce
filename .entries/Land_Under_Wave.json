@@ -1,18 +1,37 @@
 {
-    "name": "Land Under Wave",
-    "attributes": {},
-    "entities": [
-        {
-            "text": "Land Under Wave See Tir"
-        },
-        {
-            "text": "Thuinn"
-        }
-    ],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "cyphertext": "8OdC5h8AOkBxoqg9_SqXFJrbiQxF-r5suukTejZYLqoQh4V8x_9LeSzoYH7-eRX6TW3yWPPuK-JzF5aP47T5",
-    "salt": "S-JG4BELHMLX9HaKoe8zag==",
-    "text": "Land Under Wave See Tir Fo Thuinn."
+ "name": "Land Under Wave",
+ "attributes": [
+  {
+   "entity": "Land Under Wave",
+   "attribute": "a name for the Otherworld that means under the wave"
+  }
+ ],
+ "entities": [
+  {
+   "entity": "Land Under Wave",
+   "type": "Place"
+  },
+  {
+   "entity": "Tir Fo Thuinn",
+   "type": "Place"
+  },
+  {
+   "entity": "Otherworld",
+   "type": "Place"
+  }
+ ],
+ "sources": [
+  "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+ ],
+ "cyphertext": "8OdC5h8AOkBxoqg9_SqXFJrbiQxF-r5suukTejZYLqoQh4V8x_9LeSzoYH7-eRX6TW3yWPPuK-JzF5aP47T5",
+ "salt": "S-JG4BELHMLX9HaKoe8zag==",
+ "text": "Land Under Wave is one of the many names for the Celtic Otherworld. The source spells it as Tir Fo Thuinn, the land under the wave. The Otherworld is also called the plain of honey and the great plain. These names point to a land across the sea.",
+ "okr": {
+  "objective": "Explain the Otherworld name that means under the wave.",
+  "key_results": [
+   "The source spells it Tir Fo Thuinn, the land under the wave.",
+   "Other names for the realm include the plain of honey and the great plain."
+  ],
+  "evidence": "Monaghan, Encyclopedia of Celtic Mythology and Folklore (Checkmark 2008), s.v. Land Under Wave."
+ }
 }

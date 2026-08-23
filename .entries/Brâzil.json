@@ -1,18 +1,55 @@
 {
-    "name": "Br\u00e2zil",
-    "attributes": {},
-    "entities": [
-        {
-            "text": "Br\u00e2zil"
-        },
-        {
-            "text": "Brazil"
-        }
-    ],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "cyphertext": "Stiq5HHMVmhy6Q8zrfrUF89IpnRfDDkyPM8aHvKKpc9brNPBqbHg71VNtQpnaATrNNdPpvF-P298VOMxdQ==",
-    "salt": "5j9TyZWzhJmnSmJAaOe3YQ==",
-    "text": "Br\u00e2zil (Brazil) See Hy-Br\u00e2zil."
+ "name": "Brâzil",
+ "attributes": [
+  {
+   "entity": "Brâzil",
+   "attribute": "a cross reference to Hy-Brâzil"
+  },
+  {
+   "entity": "Hy-Brâzil",
+   "attribute": "a magical island of peace and plenty"
+  },
+  {
+   "entity": "Hy-Brâzil",
+   "attribute": "ruled by King Bres or a fairy queen"
+  },
+  {
+   "entity": "Hy-Brâzil",
+   "attribute": "appeared every seven years"
+  }
+ ],
+ "entities": [
+  {
+   "entity": "Brâzil",
+   "type": "Place"
+  },
+  {
+   "entity": "Hy-Brâzil",
+   "type": "Place"
+  },
+  {
+   "entity": "Bres",
+   "type": "Person"
+  },
+  {
+   "entity": "Brazil",
+   "type": "Place"
+  }
+ ],
+ "sources": [
+  "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+ ],
+ "cyphertext": "Stiq5HHMVmhy6Q8zrfrUF89IpnRfDDkyPM8aHvKKpc9brNPBqbHg71VNtQpnaATrNNdPpvF-P298VOMxdQ==",
+ "salt": "5j9TyZWzhJmnSmJAaOe3YQ==",
+ "text": "Brâzil is a cross reference in this book. See Hy-Brâzil. That site was a magical island of peace and plenty in the ocean. A king named Bres or a fairy queen ruled it. The island appeared every seven years. The South American country of Brazil carries its name.",
+ "okr": {
+  "objective": "Route the reader from Brâzil to the island site Hy-Brâzil.",
+  "key_results": [
+   "Brâzil is a cross reference entry.",
+   "It points to Hy-Brâzil.",
+   "Hy-Brâzil was a magical island of peace and plenty.",
+   "Brazil, the South American country, carries its name."
+  ],
+  "evidence": "Monaghan 2008, s.v. 'Brâzil'."
+ }
 }

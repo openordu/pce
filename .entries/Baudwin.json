@@ -3,37 +3,33 @@
     "entities": [
         {
             "entity": "Baudwin",
-            "type": "Arthurian hero"
+            "type": "Person"
         },
         {
             "entity": "Baudwin of Brittany",
-            "type": "Arthurian hero"
-        },
-        {
-            "entity": "knights",
-            "type": "occupation"
+            "type": "Person"
         },
         {
             "entity": "Camlan",
-            "type": "location"
+            "type": "Event"
         },
         {
-            "entity": "king Arthur",
-            "type": "monarch"
-        },
-        {
-            "entity": "hermit",
-            "type": "occupation"
+            "entity": "Arthur",
+            "type": "Person"
         }
     ],
     "attributes": [
         {
             "entity": "Baudwin",
-            "attribute": "survived the brutal battle of Camlan"
+            "attribute": "also called Baudwin of Brittany"
         },
         {
             "entity": "Baudwin",
-            "attribute": "became a hermit thereafter"
+            "attribute": "survived the battle of Camlan"
+        },
+        {
+            "entity": "Baudwin",
+            "attribute": "became a hermit after the battle"
         }
     ],
     "sources": [
@@ -41,5 +37,14 @@
     ],
     "cyphertext": "utf40YeI5jg-7jdzKz2BQg9Uz2GJ-1HO2uYY2-LXtuVXsQJdH690TRZWbgiVEFeV2GKZB0xPQt8lYqFnl4unrDdioHpUjeXSHM4JrQjR_G0oqumLTF4SGUqhcDmfatl7zbjcVa7SVly49gVDgiM9zzD2dr4fmk7XaHKzc5k28Ty8av3M0G-F0LdxEvFCXbQB5KeHnPk85GXn3wKluXfxWGPkpsmVdICr5WCEID941f0gl3RgzkTAN6oPPDAOA0sr3wNmRoPwu-FI6A17PV6v",
     "salt": "C6knVvVHQESM5HPRhTIDuQ==",
-    "text": "Baudwin of Brittany, an Arthurian hero, managed to survive the harsh battle at Camlan during the end of king Arthur's reign. Following the battle, he chose to live as a hermit."
+    "text": "Baudwin is an Arthurian hero. The texts also call him Baudwin of Brittany. He was one of the few knights to survive the brutal battle of Camlan. This battle came near the end of King Arthur's reign.\n\nAfter the battle, Baudwin changed his life. He chose to live as a hermit. His survival and retreat mark a quiet end to a knight's career.",
+    "okr": {
+        "objective": "Profile Baudwin the survivor of Camlan who became a hermit.",
+        "key_results": [
+            "Baudwin is also known as Baudwin of Brittany.",
+            "He was one of the few knights to survive the battle of Camlan.",
+            "After the battle he chose the life of a hermit."
+        ],
+        "evidence": "Monaghan, Encyclopedia of Celtic Mythology and Folklore"
+    }
 }

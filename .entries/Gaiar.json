@@ -3,25 +3,33 @@
     "attributes": [
         {
             "entity": "Gaiar",
-            "attribute": "Irish hero"
+            "attribute": "was an obscure Irish hero named as a son of Deirdre and Noísiú"
         },
         {
-            "entity": "Deirdre and Nois\u00edu",
-            "attribute": "doomed lovers"
+            "entity": "Aíbgéne",
+            "attribute": "was a daughter of Deirdre and Noísiú in some texts"
+        },
+        {
+            "entity": "Deirdre",
+            "attribute": "was one of the doomed lovers to whom Gaiar is linked"
         }
     ],
     "entities": [
         {
             "entity": "Gaiar",
-            "type": "Irish hero"
+            "type": "Person"
         },
         {
             "entity": "Deirdre",
-            "type": "lover"
+            "type": "Person"
         },
         {
-            "entity": "Nois\u00edu",
-            "type": "lover"
+            "entity": "Noísiú",
+            "type": "Person"
+        },
+        {
+            "entity": "Aíbgéne",
+            "type": "Person"
         }
     ],
     "sources": [
@@ -29,5 +37,14 @@
     ],
     "cyphertext": "S2sPGdv851Ru_aarRa7pyVEBWlRBfDwnXUaDFJzgLqHGN9pJf5er5e017m_eALVl0eSEW1qxuRT-oQut6YW7gVAsyRBo0OuaggD_LHjs1iADceWpo1EoCjjRWVtDIlldeN6eZKq1kNs6hrZXn4JvkbLNhYUX-Tbobkt3klsrmgwdbkuT6Q58EzV4UCX0Q6wj",
     "salt": "PEGos3VOEPKmRFQ6K0rA8Q==",
-    "text": "Irish hero Gaiar appears in some texts as the offspring of the ill-fated lovers Deirdre and Nois\u00edu, though he remains a relatively unknown character."
+    "text": "Gaiar was an obscure Irish hero. Some texts name him a son of the doomed lovers Deirdre and Noísiú. A daughter, Aíbgéne, also appears in that telling. The two children surface in only a few versions of the lovers' tale. Otherwise the record says little of Gaiar.",
+    "okr": {
+        "objective": "Set down the scarce record of the obscure hero Gaiar.",
+        "key_results": [
+            "Name Gaiar as a son of Deirdre and Noísiú in some texts.",
+            "Note his sister Aíbgéne in the same telling.",
+            "Keep the entry brief given the thin source record."
+        ],
+        "evidence": "Monaghan, The Encyclopedia of Celtic Mythology and Folklore, 2008."
+    }
 }

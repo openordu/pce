@@ -1,11 +1,46 @@
 {
-    "name": "goddess of sovereignty",
-    "attributes": {},
-    "entities": [],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "cyphertext": "ZpiMtXWeD8DNmVPyrfy0CJ-nuJhKm4yUjOLi7RF4FunUAtv26mSm3xrqasIg2BJ3Lq8L-3uRt_kps8x01GWZYwaaRBE=",
-    "salt": "uZhTfacVLvNb4LJKnwrRFQ==",
-    "text": "goddess of sovereignty See Sovereignty."
+ "name": "goddess of sovereignty",
+ "attributes": [
+  {
+   "entity": "sovereignty goddess",
+   "attribute": "confirms or withholds a king's rule"
+  },
+  {
+   "entity": "sovereignty goddess",
+   "attribute": "works through the sacred marriage rite"
+  },
+  {
+   "entity": "king",
+   "attribute": "depends on her approval to keep the kingship"
+  }
+ ],
+ "entities": [
+  {
+   "entity": "sovereignty goddess",
+   "type": "Deity"
+  },
+  {
+   "entity": "banais righe",
+   "type": "Concept"
+  },
+  {
+   "entity": "king",
+   "type": "Role"
+  }
+ ],
+ "sources": [
+  "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+ ],
+ "cyphertext": "ZpiMtXWeD8DNmVPyrfy0CJ-nuJhKm4yUjOLi7RF4FunUAtv26mSm3xrqasIg2BJ3Lq8L-3uRt_kps8x01GWZYwaaRBE=",
+ "salt": "uZhTfacVLvNb4LJKnwrRFQ==",
+ "text": "The sovereignty goddess confirms or withholds a Celtic king's right to rule. Her favor, granted through the sacred marriage rite called the banais righe, legitimates the monarch. A ruler who lacks this approval risks losing the kingship.",
+ "okr": {
+  "objective": "Present the sovereignty goddess as the source of legitimate Celtic kingship.",
+  "key_results": [
+   "The sovereignty goddess sanctions the king's right to rule.",
+   "She operates through the sacred marriage rite.",
+   "Without her favor a ruler can lose the kingship."
+  ],
+  "evidence": "Monaghan, The Encyclopedia of Celtic Mythology and Folklore, 2003"
+ }
 }

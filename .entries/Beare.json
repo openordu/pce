@@ -2,22 +2,42 @@
     "name": "Beare",
     "attributes": [
         {
-            "entity": "consonants",
-            "attribute": "mutate"
+            "entity": "Beare",
+            "attribute": "Irish goddess who gave name to the Beare peninsula"
         },
         {
-            "entity": "name",
-            "attribute": "Mom\u00e9a"
+            "entity": "Beare",
+            "attribute": "said to have been a Spanish princess"
+        },
+        {
+            "entity": "Cailleach Bhéirre",
+            "attribute": "pre-Celtic land goddess known as the Hag of Beare"
+        },
+        {
+            "entity": "Hag of Beare",
+            "attribute": "visible as a boulder looking toward the sea"
         }
     ],
     "entities": [
         {
-            "entity": "consonants",
-            "type": "letter"
+            "entity": "Beare",
+            "type": "Deity"
         },
         {
-            "entity": "name",
-            "type": "person"
+            "entity": "Cailleach Bhéirre",
+            "type": "Deity"
+        },
+        {
+            "entity": "Hag of Beare",
+            "type": "Deity"
+        },
+        {
+            "entity": "Munster",
+            "type": "Place"
+        },
+        {
+            "entity": "Beare Peninsula",
+            "type": "Place"
         }
     ],
     "sources": [
@@ -28,5 +48,15 @@
     ],
     "cyphertext": "UgMG7IOS9rAcnIsbr-NqQvLqMrXgXxDCciQwi2WZ6pJVefhrvLBh-m5yTGvoeKOUNMo3WFsuCvRHymthof6_Em4U9cClxQ93gH-KYlCyA3Jr4kPqyMogBprD9RnXmPp5sHTfsDIa4Ocugu4PM98a95Wkkf0Wf5RV8Ozc8VF34a2nAQg_KsEeW-w0vIHTPxQxlXm0sx766VhpOTIOGWrpM5y1UmM48ZuQ5W-TLcOhlxPvRyRWTsANT_r17ou7nYgalC-K1NFAT_b-3bzKdRjpKK7LB0FcaJT4UG6QYSiVBUk8qTklcRayPnTReROMKKyO-KQ0XZY0xwqfcY9wx_qkQD8encF6RH2--P7Mp88Rb2p1ggqGDH_C0Ls8Ao9mkGknS-3XJYfuj_46_h2baClY2nSAM7pscQMUz7MZLXC_bri-ll0RbaTR9ssvuVKKD_nLed_AWOKKyJAs1ULLMHKvtkkDssQuICvI8BtuxfS_wW6yrAdQ2MLPVViffQ81vATOcsVwCMgaDqZIUB6bF4J6ZbjJ_BAvhgx9TRU7VZl-FpQ3arFw2hv6LW0Mgh8GFJ2hm7ULec_sYE2EC5zBo6CiRsk1fDZOdbNaGjC3qEk4-ulawLQWmBwD6FrK05JwyRr9Gn_X64PUA6VnNab1h3RPGg-PwTekkFmgvoQtl6mexh5wEHBfQd-8uGVoor8HohOcG22l5myQbbuHJultHZMpFJ_7bAGnqoojeHBkow_HPHgGO8IDoDWg8xPBzfgOoOzAmu81Ey8s1d6QTH1VUlQomxdjHaCcjv36aCOxnlqI9r4nOfYh1KSToauATkad8avv3Hn1BQKCfYbWGvGXsHIb4UHUXR5JaIs6hiZVDSmsujkByLyQaBoqEo3cYrTVX54RwE8yeVI7Bw==",
     "salt": "SsgxCnb7gUzF7gmsXJO8Rg==",
-    "text": "In the province of Munster, at the far southwest of Ireland, a thin peninsula that is rich in both antiquities and legend stretches out to the sea. This land is called Beare (Bheara) peninsula, named after the Irish goddess Beare (also known as Bera, B\u00e9irre, or Mom\u00e9a). Although little legend remains about Beare, it is said that she was a Spanish princess. More significant in mythology was the Cailleach Bh\u00e9irre, an ancient land goddess of the pre-Celtic people, also known as the Hag of Beare. Even today, she is associated with the area and she can be seen in the shape of a boulder, looking towards the sea on the north side of the peninsula. At times, her name is mutated making it Mom\u00e9a."
+    "text": "Beare is an Irish goddess. She gave her name to a peninsula in the far southwest of Ireland. The land lies in the province of Munster. The thin Beare peninsula stretches out to sea. It is rich in both antiquities and legend.\n\nBeare is also called Bera, Béirre, or Moméa. Little of her own legend survives. She is said to have been a Spanish princess. The greater fame belongs to the Cailleach Bhéirre, the Hag of Beare. She was an ancient land goddess of the pre-Celtic people.\n\nThe Hag stays bound to the peninsula. A boulder in her shape looks toward the sea from the north side. In some tellings the consonants shift. Then her name becomes Moméa.",
+    "okr": {
+        "objective": "Portray Beare as the goddess behind the Beare peninsula and its Hag of Beare tradition.",
+        "key_results": [
+            "The Beare peninsula in Munster takes its name from the goddess.",
+            "Little legend of Beare survives; she is said to have been a Spanish princess.",
+            "The Cailleach Bhéirre, or Hag of Beare, was a pre-Celtic land goddess.",
+            "A boulder in the Hag's shape looks toward the sea on the north side."
+        ],
+        "evidence": "Monaghan, Encyclopedia of Celtic Mythology and Folklore"
+    }
 }

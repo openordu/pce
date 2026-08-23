@@ -1,7 +1,29 @@
 {
     "name": "Brittany",
-    "attributes": {},
-    "entities": [],
+    "attributes": [
+        {
+            "entity": "Brittany",
+            "attribute": "a cross-reference pointing to GAUL"
+        },
+        {
+            "entity": "GAUL",
+            "attribute": "an ancient Celtic land now forming much of France"
+        },
+        {
+            "entity": "GAUL",
+            "attribute": "a land brought under Roman rule"
+        }
+    ],
+    "entities": [
+        {
+            "entity": "Brittany",
+            "type": "Place"
+        },
+        {
+            "entity": "GAUL",
+            "type": "Place"
+        }
+    ],
     "sources": [
         "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
     ],
@@ -10,5 +32,15 @@
     ],
     "cyphertext": "0xKrJgAbppb1TW7oOyFuXlRYEPTZKtd8oo16_x1dSLmAR7wpWDn4xgjuhWMjZgY=",
     "salt": "ZyRBBE_5fEkkupIXx11lqw==",
-    "text": "Brittany See Gaul."
+    "text": "Brittany is a cross-reference in this book. It points the reader to GAUL. Gaul was an ancient Celtic land. That land now forms much of modern France. Rome brought it under its rule. The Gallic tribes shared a common language.",
+    "okr": {
+        "objective": "Route the reader from Brittany to the entry for GAUL.",
+        "key_results": [
+            "Brittany is a cross-reference in this book.",
+            "It points the reader to GAUL.",
+            "GAUL was an ancient Celtic land.",
+            "That land now forms much of modern France."
+        ],
+        "evidence": "Monaghan 2008, s.v. 'Brittany'."
+    }
 }

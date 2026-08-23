@@ -1,44 +1,44 @@
 {
-    "name": "Tethba",
-    "entities": [
-        {
-            "entity": "Tethba",
-            "type": "Irish goddess or heroine"
-        },
-        {
-            "entity": "Co. Westmeath",
-            "type": "location"
-        },
-        {
-            "entity": "Irish midlands",
-            "type": "location"
-        }
-    ],
-    "attributes": [
-        {
-            "entity": "Tethba",
-            "attribute": "little-known goddess"
-        },
-        {
-            "entity": "Tethba",
-            "attribute": "gave her secret name to the lands she most loved"
-        },
-        {
-            "entity": "Tethba",
-            "attribute": "now parts of Co. Westmeath in the Irish midlands"
-        },
-        {
-            "entity": "goddess of the land\u2019s Sovereignty",
-            "attribute": "consort of the king"
-        }
-    ],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "image": [
-        "https://upload.wikimedia.org/wikipedia/commons/d/d5/Ireland_early_peoples_and_politics.gif"
-    ],
-    "cyphertext": "V-dcWV5-OM56O6tJ8ki73mWyvPZCg1fT64D4SyvF3LJacijWcH7XXKfVRooOKaObq-lftyzWsYSiT1pIPCpafCqa7uxA9ohlvPsXCrFy8icj0sVPvpSLaTDlJfRC8nbnDmJhnTtCuh-zLmn7cKY7maUSoH48EB-W4eAOlt2aMyFGJOuS6xdF45J9NcJPZUhS6yhw_9YgEGftf9uLM_RnOBpa3DKi39oCx-gDcm6H7eDBMsjszLQ8-xX1TGYd_MmfxpYoNbHXPgSMpf8oxt0A1Mwilv0hovHRbhph0FK9a56zUdi3IuTeaM9bChdOQT-SMQlTRck1aYRNCInmzKCrvrXyUIW1BFMTZFIQNNw0qo8piTEDzKrL_3d2hz8_HXknT_gwIGIMEnashf24zpqIuyo=",
-    "salt": "Gxzn_pOeNUBRy-zCHWJGVQ==",
-    "text": "A goddess or heroine named Tethba is mentioned in Irish lore. Despite being lesser known, it is said that Tethba imparted her secret name upon the lands she held dearest, now located in Co. Westmeath in the Irish midlands. Such tales are commonly told of the Sovereignty goddess, who is revered as the patron of the land and the king's partner."
+ "name": "Tethba",
+ "entities": [
+  {
+   "entity": "Tethba",
+   "type": "Person"
+  },
+  {
+   "entity": "Westmeath",
+   "type": "Place"
+  },
+  {
+   "entity": "sovereignty goddess",
+   "type": "Concept"
+  }
+ ],
+ "attributes": [
+  {
+   "entity": "Tethba",
+   "attribute": "gave her secret name to the lands she loved, now County Westmeath"
+  },
+  {
+   "entity": "Tethba",
+   "attribute": "consort of the king in the land-sovereignty pattern"
+  }
+ ],
+ "sources": [
+  "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+ ],
+ "image": [
+  "https://upload.wikimedia.org/wikipedia/commons/d/d5/Ireland_early_peoples_and_politics.gif"
+ ],
+ "cyphertext": "V-dcWV5-OM56O6tJ8ki73mWyvPZCg1fT64D4SyvF3LJacijWcH7XXKfVRooOKaObq-lftyzWsYSiT1pIPCpafCqa7uxA9ohlvPsXCrFy8icj0sVPvpSLaTDlJfRC8nbnDmJhnTtCuh-zLmn7cKY7maUSoH48EB-W4eAOlt2aMyFGJOuS6xdF45J9NcJPZUhS6yhw_9YgEGftf9uLM_RnOBpa3DKi39oCx-gDcm6H7eDBMsjszLQ8-xX1TGYd_MmfxpYoNbHXPgSMpf8oxt0A1Mwilv0hovHRbhph0FK9a56zUdi3IuTeaM9bChdOQT-SMQlTRck1aYRNCInmzKCrvrXyUIW1BFMTZFIQNNw0qo8piTEDzKrL_3d2hz8_HXknT_gwIGIMEnashf24zpqIuyo=",
+ "salt": "Gxzn_pOeNUBRy-zCHWJGVQ==",
+ "text": "Tethba is an Irish goddess or heroine. The record about her is thin. She gave her secret name to the lands she loved. Those lands now form part of County Westmeath, in the Irish midlands. Stories of this kind are told of the land-sovereignty goddess. She was the consort of the king. Her secret name was the key to holding the land. The tale of Tethba fits that older pattern. Little else survives about her.",
+ "okr": {
+  "objective": "Record Tethba as an obscure Irish sovereignty goddess.",
+  "key_results": [
+   "Names her link to the lands now in County Westmeath",
+   "Places her in the consort-of-the-king sovereignty pattern"
+  ],
+  "evidence": "Monaghan 2008, s.v. 'Tethba'."
+ }
 }

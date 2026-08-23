@@ -1,9 +1,39 @@
 {
     "name": "boggart",
-    "attributes": {},
+    "attributes": [
+        {
+            "entity": "boggart",
+            "attribute": "trickster version of the brownie"
+        },
+        {
+            "entity": "boggart",
+            "attribute": "found in Cornwall"
+        },
+        {
+            "entity": "boggart",
+            "attribute": "causes destruction and tosses things about the house"
+        },
+        {
+            "entity": "brownie",
+            "attribute": "becomes a boggart when mistreated by its family"
+        }
+    ],
     "entities": [
         {
-            "text": "Brownie"
+            "entity": "boggart",
+            "type": "Creature"
+        },
+        {
+            "entity": "brownie",
+            "type": "Creature"
+        },
+        {
+            "entity": "barguest",
+            "type": "Creature"
+        },
+        {
+            "entity": "bogie",
+            "type": "Creature"
         }
     ],
     "sources": [
@@ -11,5 +41,15 @@
     ],
     "cyphertext": "Ld7zWwexkLWuaR3hWGzfx-2pq-bfkoqpJ_kkgY0I8OTRaUX17oi5tWMbHTF-m1Rbww==",
     "salt": "-1WKxW2HAKI1YDYLvXDWXQ==",
-    "text": "boggart See Brownie."
+    "text": "The boggart is a trickster being. It is a version of the brownie. It appears often in Cornwall. People find it hard to tell from the bogies. The barguest is a close kin. A brownie can become a boggart. This change happens when the family mistreats it. The boggart causes destruction. It tosses things about the house on a whim. Its name comes from the boge syllable. That syllable appears in many sprite names. It carries the sense of a meddling spirit.",
+    "okr": {
+        "objective": "Describe the boggart as the malicious trickster form of the brownie.",
+        "key_results": [
+            "The boggart is a trickster version of the brownie found in Cornwall.",
+            "A brownie becomes a boggart when its family mistreats it.",
+            "The boggart causes destruction and flings objects about the house.",
+            "The name rests on the boge syllable shared by many spirit names."
+        ],
+        "evidence": "Monaghan 2008, s.v. 'Brownie' and 'boggart'."
+    }
 }

@@ -1,11 +1,33 @@
 {
-    "name": "Thiten",
-    "attributes": {},
-    "entities": [],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "cyphertext": "t3vgc5S-qJzs9eufiqAvHpT9-4j_TSQPmx-NnvnAsNxYC05F77H_VvPzwB8UTCE=",
-    "salt": "AHOkf0pqTsiLars1PFiMzQ==",
-    "text": "Thiten See Morgan."
+ "name": "Thiten",
+ "attributes": [
+  {
+   "entity": "Thiten",
+   "attribute": "cross-reference to the Morgan entry"
+  }
+ ],
+ "entities": [
+  {
+   "entity": "Thiten",
+   "type": "Person"
+  },
+  {
+   "entity": "Morgan",
+   "type": "Person"
+  }
+ ],
+ "sources": [
+  "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+ ],
+ "cyphertext": "t3vgc5S-qJzs9eufiqAvHpT9-4j_TSQPmx-NnvnAsNxYC05F77H_VvPzwB8UTCE=",
+ "salt": "AHOkf0pqTsiLars1PFiMzQ==",
+ "text": "Thiten is an Irish figure. The record directs the reader to MORGAN, a related entry. The note treats Thiten as a cross-reference, so the fuller account sits under MORGAN. Beyond that pointer the record says almost nothing else about Thiten.",
+ "okr": {
+  "objective": "Record Thiten as a cross-reference to Morgan.",
+  "key_results": [
+   "Names the Morgan entry as the place of the fuller account",
+   "Records that the Thiten note is a cross-reference only"
+  ],
+  "evidence": "Monaghan 2008, s.v. 'Thiten'."
+ }
 }

@@ -1,11 +1,46 @@
 {
-    "name": "grove",
-    "attributes": {},
-    "entities": [],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "cyphertext": "WE7naj07B-9HqFvNoWSTc45-WAUjLZqsTdGWBR21umFVWjPvFly0bJ57ao5g5YU=",
-    "salt": "fRlarOBr07Ja-ei46ryi4Q==",
-    "text": "grove See Nemeton."
+ "name": "grove",
+ "attributes": [
+  {
+   "entity": "grove",
+   "attribute": "sacred wood where people worshipped"
+  },
+  {
+   "entity": "nemeton",
+   "attribute": "the holiest form of grove"
+  },
+  {
+   "entity": "grove",
+   "attribute": "a place of open-air rites"
+  }
+ ],
+ "entities": [
+  {
+   "entity": "grove",
+   "type": "Concept"
+  },
+  {
+   "entity": "nemeton",
+   "type": "Concept"
+  },
+  {
+   "entity": "oak",
+   "type": "Concept"
+  }
+ ],
+ "sources": [
+  "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+ ],
+ "cyphertext": "WE7naj07B-9HqFvNoWSTc45-WAUjLZqsTdGWBR21umFVWjPvFly0bJ57ao5g5YU=",
+ "salt": "fRlarOBr07Ja-ei46ryi4Q==",
+ "text": "A grove is a sacred clearing or wood in Celtic religion, where people held rites of worship. Such spaces of trees formed the holy place called a nemeton. They stood in open land and drew the devotions of the folk.",
+ "okr": {
+  "objective": "Present the grove as a sacred space of Celtic worship.",
+  "key_results": [
+   "Groves gave the Celts a scene for rites.",
+   "A holy grove could be called a nemeton.",
+   "People kept worship in these clearings."
+  ],
+  "evidence": "Monaghan, The Encyclopedia of Celtic Mythology and Folklore, 2003"
+ }
 }

@@ -3,57 +3,41 @@
     "attributes": [
         {
             "entity": "Gilfaethwy",
-            "attribute": "violent"
+            "attribute": "is a brother of Gwydion and a son of Dôn"
         },
         {
-            "entity": "Gilvaethwy",
-            "attribute": "alternate spelling"
-        },
-        {
-            "entity": "Gwydion",
-            "attribute": "Welsh poet-hero"
-        },
-        {
-            "entity": "D\u00d4N",
-            "attribute": "mother goddess"
+            "entity": "Gilfaethwy",
+            "attribute": "raped the virgin Goewin"
         },
         {
             "entity": "Goewin",
-            "attribute": "virgin"
+            "attribute": "served King Math as ceremonial footholder"
         },
         {
-            "entity": "Math",
-            "attribute": "uncle and king"
-        },
-        {
-            "entity": "Mabinogion",
-            "attribute": "Welsh compilation of mythology"
+            "entity": "Gilfaethwy",
+            "attribute": "was transformed into a deer, pig, and wolf"
         }
     ],
     "entities": [
         {
             "entity": "Gilfaethwy",
-            "type": "Welsh hero"
+            "type": "Person"
         },
         {
             "entity": "Gwydion",
-            "type": "Welsh poet-hero"
+            "type": "Person"
         },
         {
-            "entity": "D\u00d4N",
-            "type": "mother goddess"
+            "entity": "Dôn",
+            "type": "Deity"
         },
         {
             "entity": "Goewin",
-            "type": "ceremonial footholder"
+            "type": "Person"
         },
         {
             "entity": "Math",
-            "type": "king"
-        },
-        {
-            "entity": "Mabinogion",
-            "type": "Welsh compilation of mythology"
+            "type": "Person"
         }
     ],
     "sources": [
@@ -61,5 +45,14 @@
     ],
     "cyphertext": "79xv6pkfDpiqHtRHn9MsHeg9XzkMnj3eNOWXtYElCxKwKvkPADE1dgcjYSyEejX5I431ZAuZHwinDfTk9hV0cSkeCx4jlFI3qatgWjnUHcAH15Ko9gE2_xdqdVOzz6eoThSOlFS6Q5t4aK22D8PE5nzjEnjwykerC05ryREgobDwtlVwlMFzTHWRjHpBfUJo-YIi9osqcCTzhuk4J1S40_VQSr0P-101MLfK218AFefoMzArS1Fnm0Kg5fAa-HESgwVci2jXRUwQxJPuR_JjUOX699RCp5sGsFKDzznL7O9loVwuExyfUahPYK7dB93UZho437BDwwHegzCaTI4lFuMyN658ukV0qtoLLsEIRMvYfaCnRBHgoRMUZxKfIdiQc-JxzfpssWDvJVpVnFPJOUBxBegdZIyA6pLxBsD1VDNKTU2SLLNDrjk4zGvmmzgr2NHxJTb8pSTkoTvX_QFUaBzLhZ8VYzydpOCfwEU28-Y4qCYqEf9h9BlRT9puqECI-eZEewoO6UAKxkwxRrMfmPQPcBUt6GGg7GIfOSwd2hSI6-7YQZjfcHB9nihiDzYrrVUlcXXrMEz1Ld-Bfd_eOSey_TY9VbFr7pmvUX6CcZhdyQxwrygffi_Yxxd0Zft7sh2hfP-KywJeyDRYFbm-YHxfreEImtC032A0SICfqQsi_2s=",
     "salt": "9p_qg8_JyQtHaFlGtrjfHA==",
-    "text": "Gilfaethwy, a Welsh hero and son of the mother goddess D\u00d4N, had a violent disposition towards his uncle\u2019s servant, the virgin Goewin, according to the Welsh compilation of mythology, the Mabinogion. Gilfaethwy, who was the brother of the Welsh poet-hero Gwydion, had an insatiable desire for her, which she did not reciprocate. Despite her refusal, he proceeded to sexually assault and rape her. As a punishment, Gilfaethwy was transformed into a Deer, then a Pig, and finally a Wolf."
+    "text": "Gilfaethwy is a violent Welsh hero. He is the brother of Gwydion and the son of the mother goddess Dôn. He desired Goewin, the virgin who served his uncle King Math as ceremonial footholder. Goewin refused him. Gilfaethwy ignored her and raped her. As punishment he was turned into a deer, then a pig, and then a wolf.",
+    "okr": {
+        "objective": "Document the Welsh hero Gilfaethwy and his punishment for rape.",
+        "key_results": [
+            "Establish Gilfaethwy as a Person-typed Welsh hero",
+            "Record his kinship with Gwydion, Dôn, and Math",
+            "Record his assault on Goewin and transformation into three beasts"
+        ],
+        "evidence": "Monaghan, The Encyclopedia of Celtic Mythology and Folklore, 2003"
+    }
 }

@@ -1,31 +1,47 @@
 {
-    "name": "E\u00f3gan",
+    "name": "Eógan",
     "entities": [
         {
-            "entity": "E\u00f3gan",
-            "type": "Irish hero"
+            "entity": "Eógan",
+            "type": "Person"
         },
         {
-            "entity": "Irish",
-            "type": "Nationality"
+            "entity": "Eógan son of Ailill Olom",
+            "type": "Person"
+        },
+        {
+            "entity": "Eógan mac Néill",
+            "type": "Person"
+        },
+        {
+            "entity": "Eógan of Connacht",
+            "type": "Person"
+        },
+        {
+            "entity": "Eógan Mór",
+            "type": "Person"
+        },
+        {
+            "entity": "Tyrone",
+            "type": "Place"
+        },
+        {
+            "entity": "Munster",
+            "type": "Place"
         }
     ],
     "attributes": [
         {
-            "entity": "E\u00f3gan",
-            "attribute": "Name"
+            "entity": "Eógan",
+            "attribute": "means yew tree"
         },
         {
-            "entity": "E\u00f3gan",
-            "attribute": "Meaning of name: yew tree"
+            "entity": "Eógan mac Néill",
+            "attribute": "founded the kingdom of Tyrone"
         },
         {
-            "entity": "Irish",
-            "attribute": "Nationality"
-        },
-        {
-            "entity": "Irish kings",
-            "attribute": "Quasi-historical"
+            "entity": "Eógan Mór",
+            "attribute": "fought Conn of the Hundred Battles"
         }
     ],
     "sources": [
@@ -33,5 +49,14 @@
     ],
     "cyphertext": "9CJgAddYnodM42PblhEE5GwRWGCMEYaGLiJwFSpeLr62oGxqilfXZjKtPX4CaAoaWRy5XPHKLIbo4HemSpewePmQAs26WJGu13Z7SdqF3JhptWj_fzBkI0_-cTsMQqm53BE_tD7IaG2kfqhh3rZsNDAoVqWB4VDMmezxihtZDnC3gB8LcPM8yFHszfRtft5kFg==",
     "salt": "x2hba0bC_dgQoNvTaOG1Ng==",
-    "text": "Irish hero E\u00f3gan (Owen) was a common moniker for numerous quasi-historical kings from Ireland, all of whom held the meaning \"yew tree.\""
+    "text": "Eógan is the Irish form of Owen. The name means yew tree. Several quasi-historical Irish kings bore this name. Eógan son of Ailill Olom founded the Eóganacht dynasty of the south. Eógan mac Néill founded the kingdom of Tyrone in Ulster. Eógan of Connacht asked to be buried upright for defense. Eógan Mór fought Conn of the Hundred Battles.",
+    "okr": {
+        "objective": "Rewrite the Eógan overview entry with the source list of kings.",
+        "key_results": [
+            "Put the name Eógan to the yew tree",
+            "Name the several kings who carried it",
+            "List the distinct Eógans in the source"
+        ],
+        "evidence": "Monaghan, The Encyclopedia of Celtic Mythology and Folklore, 2008, s.v. Eógan."
+    }
 }

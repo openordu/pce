@@ -2,18 +2,46 @@
     "name": "boat",
     "attributes": [
         {
-            "entity": "Nehalennia",
-            "attribute": "Goddess of the sea"
+            "entity": "boat",
+            "attribute": "a symbolic object"
         },
         {
-            "entity": "Nehalennia",
-            "attribute": "Worshipped by the Gauls"
+            "entity": "boat",
+            "attribute": "linked to the Celtic goddess of waters"
+        },
+        {
+            "entity": "Nuits-Saint-Georges",
+            "attribute": "site of a goddess sculpture holding a cornucopia on a boat"
+        },
+        {
+            "entity": "Fortuna",
+            "attribute": "Roman goddess also associated with these symbols"
+        },
+        {
+            "entity": "boat",
+            "attribute": "may link Celtic fertility and Roman abundance"
         }
     ],
     "entities": [
         {
+            "entity": "boat",
+            "type": "Artifact"
+        },
+        {
+            "entity": "Nuits-Saint-Georges",
+            "type": "Place"
+        },
+        {
+            "entity": "Fortuna",
+            "type": "Deity"
+        },
+        {
             "entity": "Nehalennia",
             "type": "Deity"
+        },
+        {
+            "entity": "cornucopia",
+            "type": "Artifact"
         }
     ],
     "sources": [
@@ -24,5 +52,15 @@
     ],
     "cyphertext": "cHw4Jg9zddBtFbh0MRe-szC9nMWtqironYk3ceAam1ycfJ1QDZJMIDifouZIzqGfRSgbTmdWLp-QUeMsnvlG43z-q-FfohAJRhu_e14EldCGuLFroJLkoiNSfxB5I6LUf1mX1RfxcqgeB2AimQQKZo45tJXcMe1gkwyKAsQfER3RQL5ERhdDQz2hZfAuh8Rt68mtrNz3ah9GLwzuOZO15bcCHsweaGFnzN6Rg_JUyE9JHykeeyBu1-6tks6l85PWPUTDeTGRDyFo9D4MDQv1ic5dr8vCHCH2rq_1uB_WbV4s779axFMIuPgY826CIwn1LjpoOnhshJ1yn696kAmKXHsAepz1wNvGxG9YRG80MU-m9ZXP26CGesr4HnoS_F5kpLkeLQ0w4F8c2izAgE6nriWDdKR_-JRTei0sFbRl-YZ8fqMRi3JZgACvKFFXjzfipEvXkc-l2-Tl2VmLK_nAQ0wwJ5oPc5dqh41cwji7TlR0dzdWuJvyotTccppXKXWZq_t_8QLTZaU_WxXYNPxJZE8cObm7wV_6GtDq8oTDXEyvPsDLcVmDf6wCa659ooHCN7uUW9zInGhrjdilSYlLdSq9XkqfBirWiV_icF6EDSYBfGFbjaJrBSOHS0-qCDOaIJiLoyc6M5gdzzH2DxeUIme4ToNnLx1sbIOprEpRyTFgOh3HKZ0oQ7IwCqaUTW7ft-eLTaxK4EgpXZI=",
     "salt": "zazav-8ajME1lF8re_wyag==",
-    "text": "The boat is a symbolic entity which holds great significance in connection to the Celtic goddess of waters. During the Roman period, sculptures were found that incorporated this important image. In particular, the goddess from Nuits-Saint-Georges in France was showcased holding a Cornucopia while standing on the prow and rudder of a boat, although the goddess herself was not named. These symbols were also linked with the Roman goddess Fortuna, which suggests that the boat could serve as a connection between the ideas of Fertility (as perceived by the Celts because water nourished the land) and abundance (as the Romans associated Fortuna with the goddess of fortune). For further reference, please see Nehalennia."
+    "text": "The boat is a symbolic object. It links to the Celtic goddess of waters. Sculptures from the Roman period show this. An unnamed goddess at Nuits-Saint-Georges in France holds a cornucopia. She stands on the prow and rudder of a boat. Those symbols also belong to the Roman goddess Fortuna. The boat may join fertility and abundance. The Celts tied fertility to waters feeding the land. The Romans saw abundance as fortune. See Nehalennia.",
+    "okr": {
+        "objective": "Describe the boat as a symbol of the Celtic goddess of waters.",
+        "key_results": [
+            "The boat links to the Celtic goddess of waters.",
+            "A goddess at Nuits-Saint-Georges holds a cornucopia on a boat.",
+            "The same symbols belong to the Roman goddess Fortuna.",
+            "The boat may join fertility and abundance."
+        ],
+        "evidence": "Monaghan 2008, s.v. 'boat'."
+    }
 }

@@ -1,15 +1,41 @@
 {
-    "name": "Grisandole",
-    "attributes": {},
-    "entities": [
-        {
-            "text": "Avenable"
-        }
-    ],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "cyphertext": "ErL5VWlbWVWwmoUZDgaU-KI63Uxn9bzuhjnJU35YzS7BTm80_M-M1XNWobnD51QUDSAoN2c=",
-    "salt": "sn4Hnx_4-dtkI2-4hIyacQ==",
-    "text": "Grisandole See Avenable."
+ "name": "Grisandole",
+ "attributes": [
+  {
+   "entity": "Avenable",
+   "attribute": "French heroine who took the name Grisandole"
+  },
+  {
+   "entity": "Roman emperor",
+   "attribute": "master whom Avenable served as seneschal"
+  }
+ ],
+ "entities": [
+  {
+   "entity": "Grisandole",
+   "type": "Person"
+  },
+  {
+   "entity": "Avenable",
+   "type": "Person"
+  },
+  {
+   "entity": "Roman emperor",
+   "type": "Role"
+  }
+ ],
+ "sources": [
+  "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+ ],
+ "cyphertext": "ErL5VWlbWVWwmoUZDgaU-KI63Uxn9bzuhjnJU35YzS7BTm80_M-M1XNWobnD51QUDSAoN2c=",
+ "salt": "sn4Hnx_4-dtkI2-4hIyacQ==",
+ "text": "Grisandole is the false name worn by Avenable, a French heroine. To win the post of seneschal to the Roman emperor, Avenable disguised herself as a man and carried this name. For the fuller account, see the entry for Avenable.",
+ "okr": {
+  "objective": "Cross-reference the name Grisandole to the heroine Avenable.",
+  "key_results": [
+   "Grisandole is a name worn by Avenable.",
+   "Avenable disguised herself as a man to serve the Roman emperor as seneschal."
+  ],
+  "evidence": "Monaghan, The Encyclopedia of Celtic Mythology and Folklore, 2003"
+ }
 }

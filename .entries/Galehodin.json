@@ -3,41 +3,37 @@
     "entities": [
         {
             "entity": "Galehodin",
-            "type": "Arthurian hero"
+            "type": "Person"
         },
         {
             "entity": "Lancelot",
-            "type": "Arthurian hero"
-        },
-        {
-            "entity": "Round Table",
-            "type": "location"
+            "type": "Person"
         },
         {
             "entity": "Galahad",
-            "type": "Arthurian hero"
+            "type": "Person"
         },
         {
             "entity": "Galahaut",
-            "type": "Arthurian hero"
+            "type": "Person"
         }
     ],
     "attributes": [
         {
-            "entity": "Lancelot",
-            "attribute": "most outstanding knight of the Round Table"
-        },
-        {
             "entity": "Galehodin",
-            "attribute": "brother of Lancelot"
+            "attribute": "was the only brother of Lancelot"
         },
         {
             "entity": "Galahad",
-            "attribute": "similar name to Galehodin"
+            "attribute": "shares a name similar to Galehodin"
         },
         {
             "entity": "Galahaut",
-            "attribute": "similar name to Galehodin"
+            "attribute": "shares a name similar to Galehodin"
+        },
+        {
+            "entity": "Galehodin",
+            "attribute": "was an obscure figure in the Arthurian record"
         }
     ],
     "sources": [
@@ -45,5 +41,14 @@
     ],
     "cyphertext": "DTJxjDdvOuAsNgd4mrlIoJD9JEHd2RyJxLQa_LyaRiFo6gNJnUsw-o4mV9SUyH3SZRIwnP6qy-EjJ1cButH0upSiHDKnZ0-xj1oaxrUzjZLZENgRsawwCRqEefnYSci7TLKkJFBnK-Ni69AC0OJW_KrTqGR3hhXYw22JZnSdpv7wecbZaU1R9I5_4bxK9UxE0kCMPeAFXipAzu7fDxCEWlGjIkQvqyOpgsPO_amKIPXBJJEE3AmhqjTkNAaP4s_TRjDRmTXflrO817Z1vaEnE-PP9xEfSqTowXN-7g7B_jx3EuhK1ISy4LhwjQMo-0Xa6N84YU2awVuwwMqjS_S-VV0gKxqL7bn72UsiA6SHyxGPluve_IRJ9umMUpBeOA4Wvm6xIqPCAirTl2T5JIP-Ccp3J7VFh1f7fjrFoqc=",
     "salt": "ywQVTddq_r15KnqyfIrMwA==",
-    "text": "Arthurian hero Galehodin was the lesser-known brother of Lancelot, the most prominent knight of the Round Table. Despite his obscurity, several individuals, such as Galahad and Galahaut, who are connected to Lancelot, have comparable names, possibly originating from a common source."
+    "text": "Galehodin was an Arthurian hero. He was the only brother of Lancelot. He otherwise stays obscure in the record. Several figures around Lancelot carry similar names. These include Galahad and Galahaut. The names may all come from a single original.",
+    "okr": {
+        "objective": "Record Galehodin as the obscure brother of Lancelot.",
+        "key_results": [
+            "Identify Galehodin as the only brother of Lancelot.",
+            "Name the similar figures Galahad and Galahaut.",
+            "Note the possible common origin of the names."
+        ],
+        "evidence": "Monaghan, The Encyclopedia of Celtic Mythology and Folklore, 2008, s.v. 'Galehodin'."
+    }
 }

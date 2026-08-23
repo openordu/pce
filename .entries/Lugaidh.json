@@ -1,15 +1,31 @@
 {
-    "name": "Lugaidh",
-    "attributes": {},
-    "entities": [
-        {
-            "text": "Irish"
-        }
-    ],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "cyphertext": "CWlex8O99PO7Imk3zbI85cRMjfvj-cvJqRe3vAaTzotRgYjmJlqru-DpQlr0nbcJvAwueC4jfgYzkRFyYY_W8MvP3CsL7GvURAb001j-SRlmshK71eekgILLjCxbn1sDe36hO4cBrWQ=",
-    "salt": "pqlYSTzrjbVYeOmxnS1m-A==",
-    "text": ""
+ "name": "Lugaidh",
+ "attributes": [
+  {
+   "entity": "Lugaidh",
+   "attribute": "a name shared by several Irish heroes"
+  }
+ ],
+ "entities": [
+  {
+   "entity": "Lugaidh",
+   "type": "Person"
+  }
+ ],
+ "sources": [
+  "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+ ],
+ "cyphertext": "CWlex8O99PO7Imk3zbI85cRMjfvj-cvJqRe3vAaTzotRgYjmJlqru-DpQlr0nbcJvAwueC4jfgYzkRFyYY_W8MvP3CsL7GvURAb001j-SRlmshK71eekgILLjCxbn1sDe36hO4cBrWQ=",
+ "salt": "pqlYSTzrjbVYeOmxnS1m-A==",
+ "text": "Lugaidh, also written Lugaid or Lughaidh, is a name that several heroes in Irish legend share. The old tales give the name to a number of different men, each with his own story.",
+ "okr": {
+  "objective": "Document the name Lugaidh and the heroes who carried it.",
+  "key_results": [
+   "Lugaidh is a name used by several heroes",
+   "It is also written Lugaid and Lughaidh",
+   "Each hero who bore it has a separate tale",
+   "The name appears across many old Irish stories"
+  ],
+  "evidence": "Monaghan, The Encyclopedia of Celtic Mythology and Folklore, 2003."
+ }
 }

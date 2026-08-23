@@ -1,33 +1,59 @@
 {
-    "name": "Gwri",
-    "attributes": [
-        {
-            "entity": "Pryderi",
-            "attribute": "kidnapped hero"
-        },
-        {
-            "entity": "Beltane",
-            "attribute": "night sky"
-        }
-    ],
-    "entities": [
-        {
-            "entity": "Gwri",
-            "type": "Welsh hero"
-        },
-        {
-            "entity": "Pryderi",
-            "type": "hero"
-        },
-        {
-            "entity": "Beltane",
-            "type": "event"
-        }
-    ],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "cyphertext": "MaVYwWpv7qbFnCX5_lALSVfHeDVa--Jem748JxiFCbsx1QAzwE-THQ_xgXHZcJ1pbrfDBdugxYA3lgVgWcPzyYVdgot54kYiETNFanFswuIbvKSmk643w8NExcaw8X_iN-q0_tpCrqi_FNzSoCmrorGCVMc6dnsR5KMa8kE6_1xHMspjKyWVf-qq7AnzdCXkYoARTKnaDkMblkP1ZW7VhWgYJPpag5PA4Yocpp6CxOZ1GzwStrF3oF1DNEUYzM5x2qjCiA==",
-    "salt": "FTTICQL-Hvm6BRGQWpzGfg==",
-    "text": "Welsh legend tells of a hero by the name of Gwri. This title was bestowed upon Pryderi, a boy who was abducted and then miraculously appeared on Beltane, by his foster father."
+ "name": "Gwri",
+ "attributes": [
+  {
+   "entity": "Gwri",
+   "attribute": "Name given to the kidnapped hero Pryderi by his foster father."
+  },
+  {
+   "entity": "Gwri",
+   "attribute": "He appeared miraculously from the night sky on Beltane."
+  },
+  {
+   "entity": "Gwri",
+   "attribute": "Called Gwri Wallt Eurin, meaning golden hair."
+  },
+  {
+   "entity": "Gwri",
+   "attribute": "Restored to his parents and renamed Pryderi."
+  },
+  {
+   "entity": "Gwri",
+   "attribute": "Appeared in place of a foal in Teyrnon's household."
+  }
+ ],
+ "entities": [
+  {
+   "entity": "Gwri",
+   "type": "Person"
+  },
+  {
+   "entity": "Pryderi",
+   "type": "Person"
+  },
+  {
+   "entity": "Teyrnon",
+   "type": "Person"
+  },
+  {
+   "entity": "Beltane",
+   "type": "Event"
+  }
+ ],
+ "sources": [
+  "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+ ],
+ "cyphertext": "MaVYwWpv7qbFnCX5_lALSVfHeDVa--Jem748JxiFCbsx1QAzwE-THQ_xgXHZcJ1pbrfDBdugxYA3lgVgWcPzyYVdgot54kYiETNFanFswuIbvKSmk643w8NExcaw8X_iN-q0_tpCrqi_FNzSoCmrorGCVMc6dnsR5KMa8kE6_1xHMspjKyWVf-qq7AnzdCXkYoARTKnaDkMblkP1ZW7VhWgYJPpag5PA4Yocpp6CxOZ1GzwStrF3oF1DNEUYzM5x2qjCiA==",
+ "salt": "FTTICQL-Hvm6BRGQWpzGfg==",
+ "text": "Gwri is the name given to the abducted hero Pryderi by his foster father. The boy appeared miraculously from the night sky on one Beltane. In another telling he was called Gwri Wallt Eurin, meaning golden hair, and he appeared mysteriously where a foal was expected within the household of Teyrnon of Gwent. He was finally restored to his parents as Pryderi.",
+ "okr": {
+  "objective": "Present Gwri as the childhood name of the hero Pryderi.",
+  "key_results": [
+   "Gwri was the name given to Pryderi by his foster father",
+   "He appeared from the night sky on Beltane",
+   "Gwri Wallt Eurin means golden hair",
+   "He was restored to his parents as Pryderi"
+  ],
+  "evidence": "Monaghan, The Encyclopedia of Celtic Mythology and Folklore, 2003"
+ }
 }

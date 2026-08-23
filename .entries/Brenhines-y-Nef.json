@@ -3,19 +3,15 @@
     "attributes": [
         {
             "entity": "Brenhines-y-Nef",
-            "attribute": "ancient"
+            "attribute": "a Welsh goddess"
         },
         {
             "entity": "Brenhines-y-Nef",
-            "attribute": "obscure"
+            "attribute": "an ancient and obscure sky goddess"
         },
         {
             "entity": "Brenhines-y-Nef",
-            "attribute": "sky goddess"
-        },
-        {
-            "entity": "Brenhines-y-Nef",
-            "attribute": "maternal force"
+            "attribute": "a maternal force"
         },
         {
             "entity": "Brenhines-y-Nef",
@@ -25,11 +21,11 @@
     "entities": [
         {
             "entity": "Brenhines-y-Nef",
-            "type": "Welsh goddess"
+            "type": "Deity"
         },
         {
-            "entity": "Welsh",
-            "type": "language"
+            "entity": "Wales",
+            "type": "Place"
         }
     ],
     "sources": [
@@ -37,5 +33,15 @@
     ],
     "cyphertext": "BdfqDZ9ybcR1tbjz2Evl9Y5KfuEYk3revu6PCCe2kcRJMblx4O1T_D7-Mi7MBoVZUINzUxDsrCh617-jQpnssVPlEVXSm0LV5xPRieHkoNSF3pPEq81DiTcfkW0UivLrFilu12kfVFzM-HCyboFcrkY2vKlRp-59JmpNozuQRJGAlhVTNCpjJ_PAHsEe1Xeb5nZX",
     "salt": "dvYEnKyaXU1vCh85veZAIw==",
-    "text": "Ancient Welsh sky goddess and maternal force, Brenhines-y-Nef is regarded as the ancestral mother of all humanity although she remains a somewhat mysterious figure in Welsh mythology."
+    "text": "Brenhines-y-Nef is a Welsh goddess. She is an ancient and obscure sky goddess. She also acts as a maternal force. The Welsh held her to be an ancestral mother of all humanity.",
+    "okr": {
+        "objective": "Describe Brenhines-y-Nef, the ancient Welsh sky goddess.",
+        "key_results": [
+            "Brenhines-y-Nef was a Welsh goddess.",
+            "She was an ancient and obscure sky goddess.",
+            "She served as a maternal force.",
+            "The Welsh saw her as an ancestral mother of humanity."
+        ],
+        "evidence": "Monaghan 2008, s.v. 'Brenhines-y-Nef'."
+    }
 }

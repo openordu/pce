@@ -1,11 +1,37 @@
 {
-    "name": "Land of Promise",
-    "attributes": {},
-    "entities": [],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "cyphertext": "uA7HVMTu7w9N6ZVi9p_6LbbDHqZzSEkBO-AuPgv0JHfX4ZeISMTreFztByp5pjyZkrKqB5LIUAhpYlerImn9q7Q=",
-    "salt": "l5SUI6p_c0mqqJgeKqeVCQ==",
-    "text": "Land of Promise See T\u00edr Tairnigiri."
+ "name": "Land of Promise",
+ "attributes": [
+  {
+   "entity": "Land of Promise",
+   "attribute": "a name for the Otherworld meaning land of promise"
+  }
+ ],
+ "entities": [
+  {
+   "entity": "Land of Promise",
+   "type": "Place"
+  },
+  {
+   "entity": "Tir Tairngiri",
+   "type": "Place"
+  },
+  {
+   "entity": "Otherworld",
+   "type": "Place"
+  }
+ ],
+ "sources": [
+  "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+ ],
+ "cyphertext": "uA7HVMTu7w9N6ZVi9p_6LbbDHqZzSEkBO-AuPgv0JHfX4ZeISMTreFztByp5pjyZkrKqB5LIUAhpYlerImn9q7Q=",
+ "salt": "l5SUI6p_c0mqqJgeKqeVCQ==",
+ "text": "Land of Promise is one of the names for the Celtic Otherworld. The source spells it as Tir Tairngiri, the land of promise. The western sea was said to hold that realm. See the Otherworld for the full account.",
+ "okr": {
+  "objective": "Explain the Otherworld name that means land of promise.",
+  "key_results": [
+   "The source spells it Tir Tairngiri, the land of promise.",
+   "The phrase names the Celtic world that lies beyond the sea."
+  ],
+  "evidence": "Monaghan, Encyclopedia of Celtic Mythology and Folklore (Checkmark 2008), s.v. Land of Promise."
+ }
 }

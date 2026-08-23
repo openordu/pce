@@ -1,11 +1,42 @@
 {
-    "name": "togail",
-    "attributes": {},
-    "entities": [],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+  "name": "togail",
+  "attributes": [
+    {
+      "entity": "togail",
+      "attribute": "the Irish word meaning destruction"
+    },
+    {
+      "entity": "Destruction",
+      "attribute": "a class of heroic tales in which a building is destroyed"
+    }
+  ],
+  "entities": [
+    {
+      "entity": "togail",
+      "type": "Concept"
+    },
+    {
+      "entity": "Destruction",
+      "type": "Text"
+    },
+    {
+      "entity": "Da Derga's Hostel",
+      "type": "Text"
+    }
+  ],
+  "sources": [
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+  ],
+  "cyphertext": "ZDKmtAYZ6DPzDhYzXiZBBbmXcF86wKfzl5AB8oXp5brbhrM79KaidxfizsS-G5O78WlZiA==",
+  "salt": "kZCEfW1azAXVKRTvRiRSkg==",
+  "text": "togail is an Irish term that means destruction. The heading points the reader to the Destruction entry. Destructions are a class of heroic Irish tales in which a building is destroyed, often by fire. The best known of them is the Destruction of Da Derga's Hostel, which tells how a king's broken vows led to his death.",
+  "okr": {
+    "objective": "Explain togail as the Irish term for destruction.",
+    "key_results": [
+      "Translate togail as the Irish word for destruction",
+      "Point the reader to the Destruction entry",
+      "Note that destructions are heroic tales ending in a burnt building"
     ],
-    "cyphertext": "ZDKmtAYZ6DPzDhYzXiZBBbmXcF86wKfzl5AB8oXp5brbhrM79KaidxfizsS-G5O78WlZiA==",
-    "salt": "kZCEfW1azAXVKRTvRiRSkg==",
-    "text": "togail See Destruction."
+    "evidence": "Monaghan 2008, s.v. 'togail'."
+  }
 }

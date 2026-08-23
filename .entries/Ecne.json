@@ -1,48 +1,50 @@
 {
-    "name": "Ecne",
-    "attributes": [
-        {
-            "entity": "Ecne",
-            "attribute": "grandson or greatgrandson of Danu"
-        },
-        {
-            "entity": "Ecne",
-            "attribute": "early divinity"
-        },
-        {
-            "entity": "Ecne",
-            "attribute": "plays little part in myth"
-        }
-    ],
-    "entities": [
-        {
-            "entity": "Ecne",
-            "type": "Irish hero or god"
-        },
-        {
-            "entity": "Danu",
-            "type": "Irish goddess"
-        },
-        {
-            "entity": "poetry",
-            "type": "divinity"
-        },
-        {
-            "entity": "Wisdom",
-            "type": "divinity"
-        },
-        {
-            "entity": "inspiration",
-            "type": "divinity"
-        }
-    ],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "image": [
-        "https://upload.wikimedia.org/wikipedia/commons/9/90/Hope-coventina01a.jpg"
-    ],
-    "cyphertext": "pcFJRYclL7eK0iSO6nSBYYMOF_rAXx0bEK809Yyhhc4eCTM9KEsi-O-ZpB29h-nUq8mJWE9yNMbvGLebHGBtDvy3uXgya9MhDOxlButXaxXTkCEORvGI5ZuUWnqily0bTSX47SZGSk_hAZL4gffKGPJINO4hbJvKNdgc4B5PD9p6r13cP-gOZRyey4DRwjubbiEwgsBNwlNuU9ZVG2yRckJa5_LaRHsTN0HWAf6rJqgb5mJQ7i_8fCQ533wMOHJU42plyxGuHfdPdXaG7GBv7A==",
-    "salt": "25LR3qKVhDnbr2jerDF7vA==",
-    "text": "Descended from the Irish goddess Danu, Ecne was a deity associated with poetry, wisdom, and inspiration. While considered a hero or god, his role in mythology is minimal."
+ "name": "Ecne",
+ "attributes": [
+  {
+   "entity": "Ecne",
+   "attribute": "the Irish god of wisdom, son of three gods of craft"
+  },
+  {
+   "entity": "salmon",
+   "attribute": "a magic fish whose flesh imparts wisdom"
+  },
+  {
+   "entity": "Well Segais",
+   "attribute": "the hidden well that keeps the wisdom fish"
+  }
+ ],
+ "entities": [
+  {
+   "entity": "Ecne",
+   "type": "Deity"
+  },
+  {
+   "entity": "salmon",
+   "type": "Animal"
+  },
+  {
+   "entity": "Well Segais",
+   "type": "Place"
+  }
+ ],
+ "sources": [
+  "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+ ],
+ "image": [
+  "https://upload.wikimedia.org/wikipedia/commons/9/90/Hope-coventina01a.jpg"
+ ],
+ "cyphertext": "pcFJRYclL7eK0iSO6nSBYYMOF_rAXx0bEK809Yyhhc4eCTM9KEsi-O-ZpB29h-nUq8mJWE9yNMbvGLebHGBtDvy3uXgya9MhDOxlButXaxXTkCEORvGI5ZuUWnqily0bTSX47SZGSk_hAZL4gffKGPJINO4hbJvKNdgc4B5PD9p6r13cP-gOZRyey4DRwjubbiEwgsBNwlNuU9ZVG2yRckJa5_LaRHsTN0HWAf6rJqgb5mJQ7i_8fCQ533wMOHJU42plyxGuHfdPdXaG7GBv7A==",
+ "salt": "25LR3qKVhDnbr2jerDF7vA==",
+ "text": "Ecne is an Irish deity of wisdom. His name means wisdom. Three gods of craft and knowledge are his fathers. That birth links wisdom to the body. He also holds a bond to water. A person gains wisdom by eating a magic salmon. The fish lives in a hidden well called Segais. Wisdom is earned by effort, not given as grace. Yet the effort is more Otherworldly than plain work. This wisdom also reaches into the arts.",
+ "okr": {
+  "objective": "Present the Irish god of wisdom as a figure won by effort through the body, water, and the arts.",
+  "key_results": [
+   "His name means wisdom and three gods of craft are his fathers.",
+   "A person gains wisdom by eating a magic salmon from a hidden well.",
+   "Wisdom is earned by effort, not given like grace.",
+   "That wisdom also feeds the arts."
+  ],
+  "evidence": "Monaghan 2008, s.v. 'Ecne'."
+ }
 }

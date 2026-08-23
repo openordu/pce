@@ -1,18 +1,42 @@
 {
-    "name": "Berba",
-    "attributes": {},
-    "entities": [
-        {
-            "text": "Berba Irish"
-        },
-        {
-            "text": "the River Barrow"
-        }
+  "name": "Berba",
+  "attributes": [
+    {
+      "entity": "Berba",
+      "attribute": "tutelary goddess of the River Barrow"
+    },
+    {
+      "entity": "Berba",
+      "attribute": "linked to Cesair, said to be the first to settle Ireland"
+    }
+  ],
+  "entities": [
+    {
+      "entity": "Berba",
+      "type": "Deity"
+    },
+    {
+      "entity": "River Barrow",
+      "type": "Place"
+    },
+    {
+      "entity": "Cesair",
+      "type": "Person"
+    }
+  ],
+  "sources": [
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+  ],
+  "cyphertext": "cWeZGoFtjAtbOhsK-jSUD8lMt0nifpJy6prNzwpISGYrjS9jG1tuB95emGuNQ4ikqYmOh8OuvCIkUDky4LTAAJ7k3nlLEy1O1ANbuiZWgvDdvFbVXha00G1ugOBaC4zXHnmyyZyP--QO",
+  "salt": "fk0RC1-x_1XU_8VmOTgkhw==",
+  "text": "Berba is an Irish goddess. She is the tutelary goddess of the River Barrow. In the Book of Invasions, the goddess Cesair is also called Berba. Cesair was Ireland's first settler. Berba is the proper title of the Barrow's guardian. She keeps a place among the Irish river goddesses.",
+  "okr": {
+    "objective": "Berba is an Irish river goddess guarding the Barrow, whose name also names the early figure Cesair.",
+    "key_results": [
+      "Berba is the tutelary goddess of the River Barrow",
+      "The Book of Invasions links the name Berba to Cesair",
+      "Berba stands among the Irish river goddesses"
     ],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "cyphertext": "cWeZGoFtjAtbOhsK-jSUD8lMt0nifpJy6prNzwpISGYrjS9jG1tuB95emGuNQ4ikqYmOh8OuvCIkUDky4LTAAJ7k3nlLEy1O1ANbuiZWgvDdvFbVXha00G1ugOBaC4zXHnmyyZyP--QO",
-    "salt": "fk0RC1-x_1XU_8VmOTgkhw==",
-    "text": ""
+    "evidence": "Monaghan 2008, s.v. 'Berba'."
+  }
 }

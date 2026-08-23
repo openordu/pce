@@ -1,9 +1,27 @@
 {
     "name": "Ganore",
-    "attributes": {},
+    "attributes": [
+        {
+            "entity": "Ganore",
+            "attribute": "is an occasional alternate spelling of Guinevere"
+        },
+        {
+            "entity": "Ganore",
+            "attribute": "refers to Guinevere, wife of Arthur and central figure of the romances"
+        }
+    ],
     "entities": [
         {
-            "text": "Ganore Occasional"
+            "entity": "Ganore",
+            "type": "Person"
+        },
+        {
+            "entity": "Guinevere",
+            "type": "Person"
+        },
+        {
+            "entity": "Arthur",
+            "type": "Person"
         }
     ],
     "sources": [
@@ -11,5 +29,14 @@
     ],
     "cyphertext": "OIDOrERqgtNbSKMc8t8trhIot1ZX_wLs_c8vWDeh3-kVsyoLom9UG7SvOD5YLhsYhrDGma7A5ghFAAHF4sBht7x_",
     "salt": "G9O5-lKyd6a7G_5fyAaraQ==",
-    "text": ""
+    "text": "Ganore is an occasional alternate spelling of Guinevere in Arthurian tales. Guinevere is the wife of Arthur and a central figure of the medieval romances. Scribes wrote her name in several forms. They used Guenièvre, Gwenhwyvar, Gwenhwyfar, and Ganore. All of these names refer to the same queen, not to separate characters. Her story tells of her love for Lancelot and his rescue of her from the executioner’s flames.",
+    "okr": {
+        "objective": "Cross-reference Ganore to Guinevere as an alternate spelling in the Arthurian cycle.",
+        "key_results": [
+            "Identify Ganore as an occasional alternate spelling of Guinevere.",
+            "Note the other recorded scribal forms Guenièvre, Gwenhwyvar, and Gwenhwyfar.",
+            "Set Ganore in the Arthurian cycle with Guinevere as Arthur’s wife, wife of the king."
+        ],
+        "evidence": "Monaghan, The Encyclopedia of Celtic Mythology and Folklore, 2008, s.v. 'Ganore' and s.v. 'Guinevere'."
+    }
 }

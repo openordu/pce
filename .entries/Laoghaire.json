@@ -1,29 +1,45 @@
 {
-    "name": "Laoghaire",
-    "attributes": [
-        {
-            "entity": "Laoghaire",
-            "attribute": "Irish hero"
-        },
-        {
-            "entity": "Irish heroes",
-            "attribute": "common name"
-        }
-    ],
-    "entities": [
-        {
-            "entity": "Laoghaire",
-            "type": "Irish hero"
-        },
-        {
-            "entity": "Irish heroes",
-            "type": "group"
-        }
-    ],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "cyphertext": "yaqTuYkwj5VxeRQcLhPyszjOOPwDkZ7UkyyxUoWTdAe0EoC78PF1FyRVttulThPtZldUpFeTYJR_yBjiZShF0BaqJY_Xwi0E14Ti0N9pLxjXs8b6Yt2IyDkJAXNFK5virX9lYxCNT2UhfvTuwUir4zmhYbkMs6A=",
-    "salt": "TuumO1FITUt_Lu93YbY3Nw==",
-    "text": "An Irish hero known as Laoghaire (also spelled as Loegaire or Leary) was noted for his exploits. This name was not unique to him as it was shared among other Irish heroes."
+ "name": "Laoghaire",
+ "attributes": [
+  {
+   "entity": "Laoghaire",
+   "attribute": "a name common among Irish heroes"
+  },
+  {
+   "entity": "Laoghaire",
+   "attribute": "also spelled Loegaire and Leary"
+  }
+ ],
+ "entities": [
+  {
+   "entity": "Laoghaire",
+   "type": "Person"
+  },
+  {
+   "entity": "Loegaire",
+   "type": "Person"
+  },
+  {
+   "entity": "Leary",
+   "type": "Person"
+  },
+  {
+   "entity": "Ireland",
+   "type": "Place"
+  }
+ ],
+ "sources": [
+  "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+ ],
+ "cyphertext": "yaqTuYkwj5VxeRQcLhPyszjOOPwDkZ7UkyyxUoWTdAe0EoC78PF1FyRVttulThPtZldUpFeTYJR_yBjiZShF0BaqJY_Xwi0E14Ti0N9pLxjXs8b6Yt2IyDkJAXNFK5virX9lYxCNT2UhfvTuwUir4zmhYbkMs6A=",
+ "salt": "TuumO1FITUt_Lu93YbY3Nw==",
+ "text": "Laoghaire is an Irish heroic name. The source also spells it Loegaire and Leary. The name was common among the heroes of Ireland. Many men of that name appear in the old tales, and a few became kings.",
+ "okr": {
+  "objective": "Explain Laoghaire as a name shared by many Irish heroes.",
+  "key_results": [
+   "The source calls the name common among Irish heroes.",
+   "It gives the forms Loegaire and Leary."
+  ],
+  "evidence": "Monaghan, Encyclopedia of Celtic Mythology and Folklore (Checkmark 2008), s.v. Laoghaire."
+ }
 }

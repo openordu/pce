@@ -1,15 +1,34 @@
 {
-    "name": "Patrick",
-    "attributes": {},
-    "entities": [
-        {
-            "text": "Patrick See St"
-        }
-    ],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "cyphertext": "s4sI0HcQTkB1Bs-F9MrGGcF_yBBGNuiugLrnBfOpYkHRsBvIvngxfMKP9EYsHZa191YN97E=",
-    "salt": "Sl3iSSZJgZ6i5Rc5d4TSCQ==",
-    "text": "Patrick See St. Patrick."
+ "name": "Patrick",
+ "attributes": [
+  {
+   "entity": "Patrick",
+   "attribute": "the name of the Irish saint"
+  }
+ ],
+ "entities": [
+  {
+   "entity": "Patrick",
+   "type": "Person"
+  },
+  {
+   "entity": "St. Patrick",
+   "type": "Person"
+  }
+ ],
+ "sources": [
+  "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+ ],
+ "cyphertext": "s4sI0HcQTkB1Bs-F9MrGGcF_yBBGNuiugLrnBfOpYkHRsBvIvngxfMKP9EYsHZa191YN97E=",
+ "salt": "Sl3iSSZJgZ6i5Rc5d4TSCQ==",
+ "text": "Patrick See St. Patrick. The name belongs to the Irish saint and folkloric hero. No fifth-century writer mentions him. Gildas and Bede never refer to a man of this name. Some scholars doubt he existed. Most writers agree that folk motifs gathered around a historic figure.",
+ "okr": {
+  "objective": "Describe Patrick and the record of the Irish saint.",
+  "key_results": [
+   "The name Patrick belongs to the Irish saint and hero.",
+   "No fifth-century writer names him directly, which raises doubt.",
+   "Most writers agree folkloric motifs gathered around a historic figure."
+  ],
+  "evidence": "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+ }
 }

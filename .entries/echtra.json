@@ -1,9 +1,79 @@
 {
     "name": "echtra",
-    "attributes": {},
+    "attributes": [
+        {
+            "entity": "echtra",
+            "attribute": "a class of Irish adventure tale often set in the Otherworld"
+        },
+        {
+            "entity": "imram",
+            "attribute": "voyage tales that also visit the Otherworld"
+        },
+        {
+            "entity": "Bé Chuma",
+            "attribute": "fairy woman who desires Art son of Conn"
+        },
+        {
+            "entity": "Niall",
+            "attribute": "king of Tara whose birth appears in an echtra"
+        },
+        {
+            "entity": "Nera",
+            "attribute": "warrior who enters the Otherworld through the cave of Cruachan"
+        }
+    ],
     "entities": [
         {
-            "text": "Adventure"
+            "entity": "echtra",
+            "type": "Concept"
+        },
+        {
+            "entity": "imram",
+            "type": "Concept"
+        },
+        {
+            "entity": "Otherworld",
+            "type": "Concept"
+        },
+        {
+            "entity": "Bé Chuma",
+            "type": "Being"
+        },
+        {
+            "entity": "Art son of Conn",
+            "type": "Person"
+        },
+        {
+            "entity": "Niall",
+            "type": "Person"
+        },
+        {
+            "entity": "Nera",
+            "type": "Person"
+        },
+        {
+            "entity": "Connla",
+            "type": "Person"
+        },
+        {
+            "entity": "Cormac",
+            "type": "Person"
+        },
+        {
+            "entity": "Laoghaire Mac Crimthann",
+            "type": "Person"
+        },
+        {
+            "entity": "Eochaid Mugmedón",
+            "type": "Person"
+        },
+        {
+            "entity": "Cruachan",
+            "type": "Place"
+        },
+        {
+            "entity": "Tara",
+            "type": "Place"
         }
     ],
     "sources": [
@@ -11,5 +81,15 @@
     ],
     "cyphertext": "a6GPtsupt21NhHqihIfW1OzAJDxmXnRQ8stI40yemiHzeRjpCYi8-2IaUhOripmK92Q=",
     "salt": "o-TwVf1I1yG2oE8_Yx1yHg==",
-    "text": "echtra See Adventure."
+    "text": "The echtra is a class of Irish adventure tale. The hero often journeys to the Otherworld on the venture. The imram, the voyage tale, also visits that distant realm. Famous echtra texts follow named heroes. Bé Chuma, a fairy woman, desires Art son of Conn. The sons of Eochaid Mugmedón bring the birth of Niall, a king of Tara. Nera enters the Otherworld through the cave of Cruachan. Connla yields to a fairy woman's lure. Cormac follows fairy music to seek an Otherworld lover. Laoghaire Mac Crimthann makes his own venture.",
+    "okr": {
+        "objective": "Rewrite the echtra genre entry in clear CSG-SME1000 prose from the printed encyclopedia.",
+        "key_results": [
+            "Define the echtra as an Irish adventure tale of the Otherworld",
+            "Contrast the echtra with the imram voyage class",
+            "Name the famous echtra texts and their heroes",
+            "Name the Otherworld locations such as Tara and Cruachan"
+        ],
+        "evidence": "Monaghan, The Encyclopedia of Celtic Mythology and Folklore, 2008, s.v. Adventure (echtra)."
+    }
 }

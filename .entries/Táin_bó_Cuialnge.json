@@ -1,11 +1,29 @@
 {
-    "name": "T\u00e1in b\u00f3 Cuialnge",
-    "attributes": {},
-    "entities": [],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "cyphertext": "jl2S70o6AqJAorBN_ZsPqIYk8wHDvWFSX_zvop_tH4rMQ06aloF0wyZOdvYn2WnmyZZvZdhMwatApDRti5WikFQ=",
-    "salt": "z2TTrcfN-KKj8woQkCeoKQ==",
-    "text": "T\u00e1in b\u00f3 Cuialnge See Cattle Raid."
+ "name": "Táin bó Cuialnge",
+ "attributes": [
+  {
+   "entity": "Táin bó Cuialnge",
+   "attribute": "variant spelling, fuller account under CATTLE RAID"
+  }
+ ],
+ "entities": [
+  {
+   "entity": "Táin bó Cuialnge",
+   "type": "Concept"
+  }
+ ],
+ "sources": [
+  "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+ ],
+ "cyphertext": "jl2S70o6AqJAorBN_ZsPqIYk8wHDvWFSX_zvop_tH4rMQ06aloF0wyZOdvYn2WnmyZZvZdhMwatApDRti5WikFQ=",
+ "salt": "z2TTrcfN-KKj8woQkCeoKQ==",
+ "text": "The Táin bó Cuialnge is a variant spelling of the Irish epic. The fuller account appears under CATTLE RAID. That entry holds the tale of the raid and its heroes. The reader should follow the cross-reference for the complete story.",
+ "okr": {
+  "objective": "Point the reader from this spelling to the full Cattle Raid entry.",
+  "key_results": [
+   "Names the CATTLE RAID entry as the place of the full account",
+   "Flags this file as a variant spelling of the same epic"
+  ],
+  "evidence": "Monaghan 2008, s.v. 'Tain bo Frailie'."
+ }
 }

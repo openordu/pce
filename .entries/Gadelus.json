@@ -1,7 +1,45 @@
 {
     "name": "Gadelus",
-    "attributes": {},
-    "entities": [],
+    "attributes": [
+        {
+            "entity": "Gadelus",
+            "attribute": "is another name for the hero Goidel"
+        },
+        {
+            "entity": "Goidel",
+            "attribute": "was the ancestor of the Goidelic Celts of Ireland, Scotland, and the Isle of Man"
+        },
+        {
+            "entity": "Goidel",
+            "attribute": "was said to be a grandson of an Egyptian Pharaoh healed by Moses"
+        },
+        {
+            "entity": "Goidel",
+            "attribute": "may correspond to Míl of the Milesians"
+        }
+    ],
+    "entities": [
+        {
+            "entity": "Gadelus",
+            "type": "Person"
+        },
+        {
+            "entity": "Goidel",
+            "type": "Person"
+        },
+        {
+            "entity": "Goidelic Celts",
+            "type": "Group"
+        },
+        {
+            "entity": "Egyptian Pharaoh",
+            "type": "Role"
+        },
+        {
+            "entity": "Míl",
+            "type": "Person"
+        }
+    ],
     "sources": [
         "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
     ],
@@ -10,5 +48,14 @@
     ],
     "cyphertext": "LVBgyRQvm8AEO-40mT7m3mTJtorGzzUhlwgBdi1uvDdXptJJCMpzbBLXBFpmoAIP",
     "salt": "lE96cMSjRo9ov2HoJa7Npg==",
-    "text": "Gadelus See Goidel."
+    "text": "Gadelus is another name for the Irish hero Goidel. Texts cast him as the ancestor of the Goidelic Celts of Ireland, Scotland, and the Isle of Man. One Christianized tale calls him the grandson of an Egyptian Pharaoh healed by Moses. Scholars also link him to Míl of the Milesians. See Goidel.",
+    "okr": {
+        "objective": "Cross-reference Gadelus to the hero Goidel.",
+        "key_results": [
+            "Identify Gadelus as another name for Goidel.",
+            "State Goidel's role as ancestor of the Goidelic Celts.",
+            "Note the link between Goidel and Míl of the Milesians."
+        ],
+        "evidence": "Monaghan, The Encyclopedia of Celtic Mythology and Folklore, 2008, s.v. Goidel."
+    }
 }

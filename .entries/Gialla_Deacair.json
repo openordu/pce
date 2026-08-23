@@ -1,9 +1,35 @@
 {
     "name": "Gialla Deacair",
-    "attributes": {},
+    "attributes": [
+        {
+            "entity": "Gialla Deacair",
+            "attribute": "redirects to the entry ABARTA"
+        },
+        {
+            "entity": "Gialla Deacair",
+            "attribute": "means 'lazy servant'"
+        },
+        {
+            "entity": "Abarta",
+            "attribute": "used the name Gialla Deacair to trick the Fianna"
+        }
+    ],
     "entities": [
         {
-            "text": "Gilla Dacker"
+            "entity": "Gialla Deacair",
+            "type": "Concept"
+        },
+        {
+            "entity": "Abarta",
+            "type": "Person"
+        },
+        {
+            "entity": "Fionn mac Cumhaill",
+            "type": "Person"
+        },
+        {
+            "entity": "Fianna",
+            "type": "Group"
         }
     ],
     "sources": [
@@ -11,5 +37,13 @@
     ],
     "cyphertext": "fcjrnsrsss0ykbcfNAEALItTcGUnMsFTv5JC4A3UcbAdW9DxGdmBtXBX-SAa_duDXQYlSkE0ZEnB5B_jFcDvz01EgUeXhQ==",
     "salt": "vmjKg7zU7jFqAOsyytyiFw==",
-    "text": "Gialla Deacair (Gilla Dacker) See Abarta."
+    "text": "Gialla Deacair, also called Gilla Dacker, is a redirect entry. The name means 'lazy servant.' Abarta took this name when he tricked the Fianna into mounting his frail horse and carried them off. For the full story, see the entry s.v. ABARTA.",
+    "okr": {
+        "objective": "Keep Gialla Deacair as a short redirect cross-reference to ABARTA.",
+        "key_results": [
+            "Classify Gialla Deacair as a Concept-typed cross-reference",
+            "Record the 'lazy servant' meaning"
+        ],
+        "evidence": "s.v. ABARTA"
+    }
 }

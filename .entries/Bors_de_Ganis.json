@@ -3,45 +3,45 @@
     "entities": [
         {
             "entity": "Bors de Ganis",
-            "type": "Arthurian hero"
+            "type": "Person"
         },
         {
             "entity": "Round Table",
-            "type": "object"
+            "type": "Group"
+        },
+        {
+            "entity": "Grail",
+            "type": "Artifact"
         },
         {
             "entity": "Percival",
-            "type": "knight"
+            "type": "Person"
         },
         {
             "entity": "Galahad",
-            "type": "knight"
+            "type": "Person"
         },
         {
             "entity": "Lancelot",
-            "type": "knight"
+            "type": "Person"
         }
     ],
     "attributes": [
         {
             "entity": "Bors de Ganis",
-            "attribute": "Arthurian hero"
+            "attribute": "an Arthurian hero"
         },
         {
-            "entity": "Round Table",
-            "attribute": "magical chalice called the Grail"
+            "entity": "Bors de Ganis",
+            "attribute": "cousin of Lancelot"
         },
         {
-            "entity": "Percival",
-            "attribute": "pure enough of heart"
+            "entity": "Bors de Ganis",
+            "attribute": "one of three who reached the Grail"
         },
         {
-            "entity": "Galahad",
-            "attribute": "pure enough of heart"
-        },
-        {
-            "entity": "Lancelot",
-            "attribute": "cousin of Bors de Ganis"
+            "entity": "Grail",
+            "attribute": "a sacred cup"
         }
     ],
     "sources": [
@@ -52,5 +52,15 @@
     ],
     "cyphertext": "CrNOKdO0ameF-E4rRZJmnrRlH8qZIzkp0BN6Doeh7Xf6bSM6_ysTFfMLp8T8f7RjU6jeKxRoHQNRKaJ-MJe33ec4-iutwiB6eyrIlQSv5l2RaMkSUgVQZAnQ2lCzztiqJqnYqHw6ZWusyJEzqHEK9ljUgDhhWljcu-9NMrerFtc_G0-i68J2Zk9zvMtpo5JwNJjseFqxGik6Rj9_l2W-vsD1RG5jbsL108Zxgt0DqTi1zRgTYwrutdttIOXrKPLYVb6sws6-z_N3t87X9DLwA0Ef992dTGhFgqWYO_Zb72IH_ky09vrd2pdUbpaOfLIMg1LgvWrO6LttSKae7L263g==",
     "salt": "35XwTszZTRtNyf1a3MtKYw==",
-    "text": "An Arthurian hero comes in the form of Bors de Ganis. Among the knights of the Round Table, only three were able to obtain the magical chalice called the Grail, and these were individuals with pure hearts. Lancelot\u2019s cousin, Bors de Ganis, is one of these three knights, though he is the least known among them."
+    "text": "Bors de Ganis is an Arthurian hero. He sat among the knights of the Round Table. He was the cousin of the lord Lancelot. The Grail is a sacred cup. Only three knights were pure enough to reach it. They were Percival, Galahad, and Bors de Ganis. Bors was the least known of the three.",
+    "okr": {
+        "objective": "Describe Bors de Ganis, the least known of the three Grail knights.",
+        "key_results": [
+            "Bors de Ganis was an Arthurian hero.",
+            "He was the cousin of Lancelot.",
+            "Only three knights reached the Grail.",
+            "The three were Percival, Galahad, and Bors de Ganis."
+        ],
+        "evidence": "Monaghan 2008, s.v. 'Bors de Ganis'."
+    }
 }

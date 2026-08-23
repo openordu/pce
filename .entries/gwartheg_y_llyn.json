@@ -1,49 +1,63 @@
 {
-    "name": "gwartheg y llyn",
-    "entities": [
-        {
-            "entity": "fairy cow",
-            "type": "mythical creature"
-        },
-        {
-            "entity": "Glas Ghaibhleann",
-            "type": "mythical cow of abundance"
-        },
-        {
-            "entity": "farmer",
-            "type": "occupation"
-        },
-        {
-            "entity": "progeny",
-            "type": "offspring"
-        },
-        {
-            "entity": "Lake-maiden",
-            "type": "mythical creature"
-        }
-    ],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "attributes": [
-        {
-            "entity": "fairy cow",
-            "attribute": "produces prodigious amounts of Milk"
-        },
-        {
-            "entity": "Glas Ghaibhleann",
-            "attribute": "driven away by greed"
-        },
-        {
-            "entity": "farmer",
-            "attribute": "attempted to slaughter his fairy cow"
-        },
-        {
-            "entity": "progeny",
-            "attribute": "called Away by a Lake-maiden"
-        }
-    ],
-    "cyphertext": "uUwq4mA0D7HJz31NqDSJLFvoUKqjnm-9tu7GaxHgmfMbUUIuWTimiMqAdywEnPc7aiTQBp81K3M_X_ZI8TGJKWSfxnqJqV7MJcX-Vx_VLUk8TU_20e1ZFayfzNbBontWfFWNr-e4MDeOedrePOWZNkOOYuAl_QoxM-xUiC_p6eWJJ1U7xUbecXnXlD5trrIkLVkuJ1Mx3eb-1qcRC7lpj9kR3FEkHaaHJRkiwtN5QUbY03k_5FPSv7MzuATrzaa8z_Hhp8JrJefVLdJGX0PpfioCHTWbP33r-x0bUmH_S87IZjRlwv_5kf0nv6tECWirLEPh3PHe4Qy8tdAQUn50nWIkKLpP84FwOOm42iP0dC4GnqdDvt5bjAgIPsYSGKDAGfJfb_LqFe90rZWrUKuXVvE-QP3asSaro_yB1QZgAq9TEpCZTBa_mORQoWHn-aNVq3nP5id0-WNksul3YqnDPakTxJ285TWa3tsHONZiEfILmHlEoaRJ-j_lWpx5-JnxSRM--0CzCft5fceEHyZadYAxo1JM6EMaDATEq0Pm6A-iAiNOWPaRB_IRSCjsJ8hUP1XD1KF_hMAe0U7xEl2hWai6CWEysU28l9w7Ae42EQvG_vFKXeGMJTQNwx2ZLsQ5Cqs2TwUt3XXltVj5-yWwvYyUSYLkcuLRTxJSrFrv1q4f5_JMwDpL2U5rDoJEhzpQ5NKcaJIA5tUdmHoDGANQhK_A0RzgxvS6klhMZ7zuH8YwZYXuIXE3YBekzs9VcZT-uPYrgNe_Ghw44P2k-Uw0SFeCsEDH7r9mox1GP6jyqTr5e7qZXl0ZYle43kpD4nWMtHq4s-mCp2q1M0uZRuecvs8thDjsyROmKwVpgHrsT_kZlSRUC5A4PTm7TEEF_YcsFLnwg3lSFFHC1Tkp-_DHJfSvAcuunSQp76TWgAzdoeKFFDA619SNxKsYR4n_z1_RODNenceHWm9xFqVEWflHO9xOVMFu_mahBT-i721lCQx_r1d4nJ_mw3duQa32b4E91_GhWgspfVNg1wKqa2H-vSZQ_U_9Ar2syOqKK7IHRR6R-4jJzkAcjMpCsz7eYuTcJCbkIqzLpG4xiAZWfNEqW2mmHpGQ5_JhU4N-CyUexnuWbrsUcTkqSVhqcGNbZpsgXzmC8oVvNwL2AK0fifmBIx8VSox1OFis",
-    "salt": "RG8t8g_EpSnemNG9wgNviw==",
-    "text": "Folkloric figures named gwartheg y llyn are prominent in Welsh stories. Like other Celtic nations, the ancient Celts valued their herds and tales of Fairy Cows are well-known. The cattle were believed to be from the Otherworld in Scotland and Ireland, and commonly had red bodies and white ears as typical coloring of fairy beings. However, in Wales, these cattle were entirely white like ghosts and were called gwartheg. They could crossbreed with earthly farmers' stock, which was beneficial to the mortal cows visited by a stray white fairy bull. At times, a fairy cow might opt to reside on this side of the veil, giving rise to prodigious amounts of milk until, as with the Glas Ghaibhleann myth of the cow of abundance, she was driven away by avarice. One farmer who tried to slaughter his fairy cow found her and her offspring called away by a Lake-maiden."
+ "name": "gwartheg y llyn",
+ "entities": [
+  {
+   "entity": "gwartheg y llyn",
+   "type": "Animal"
+  },
+  {
+   "entity": "Plant Annwn",
+   "type": "Group"
+  },
+  {
+   "entity": "C'wn Annwn",
+   "type": "Animal"
+  },
+  {
+   "entity": "Wales",
+   "type": "Place"
+  }
+ ],
+ "sources": [
+  "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+ ],
+ "attributes": [
+  {
+   "entity": "gwartheg y llyn",
+   "attribute": "The red-eared fairy cattle of Wales."
+  },
+  {
+   "entity": "Plant Annwn",
+   "attribute": "The Plant Annwn kept them below the surface of lakes."
+  },
+  {
+   "entity": "Plant Annwn",
+   "attribute": "The Plant Annwn also kept teams of white dogs called C'wn Annwn."
+  },
+  {
+   "entity": "gwartheg y llyn",
+   "attribute": "In Scotland and Ireland such cattle had red bodies and white ears."
+  },
+  {
+   "entity": "gwartheg y llyn",
+   "attribute": "The Welsh gwartheg were wholly white like ghosts."
+  },
+  {
+   "entity": "gwartheg y llyn",
+   "attribute": "They could breed with the stock of mortal farmers."
+  }
+ ],
+ "cyphertext": "uUwq4mA0D7HJz31NqDSJLFvoUKqjnm-9tu7GaxHgmfMbUUIuWTimiMqAdywEnPc7aiTQBp81K3M_X_ZI8TGJKWSfxnqJqV7MJcX-Vx_VLUk8TU_20e1ZFayfzNbBontWfFWNr-e4MDeOedrePOWZNkOOYuAl_QoxM-xUiC_p6eWJJ1U7xUbecXnXlD5trrIkLVkuJ1Mx3eb-1qcRC7lpj9kR3FEkHaaHJRkiwtN5QUbY03k_5FPSv7MzuATrzaa8z_Hhp8JrJefVLdJGX0PpfioCHTWbP33r-x0bUmH_S87IZjRlwv_5kf0nv6tECWirLEPh3PHe4Qy8tdAQUn50nWIkKLpP84FwOOm42iP0dC4GnqdDvt5bjAgIPsYSGKDAGfJfb_LqFe90rZWrUKuXVvE-QP3asSaro_yB1QZgAq9TEpCZTBa_mORQoWHn-aNVq3nP5id0-WNksul3YqnDPakTxJ285TWa3tsHONZiEfILmHlEoaRJ-j_lWpx5-JnxSRM--0CzCft5fceEHyZadYAxo1JM6EMaDATEq0Pm6A-iAiNOWPaRB_IRSCjsJ8hUP1XD1KF_hMAe0U7xEl2hWai6CWEysU28l9w7Ae42EQvG_vFKXeGMJTQNwx2ZLsQ5Cqs2TwUt3XXltVj5-yWwvYyUSYLkcuLRTxJSrFrv1q4f5_JMwDpL2U5rDoJEhzpQ5NKcaJIA5tUdmHoDGANQhK_A0RzgxvS6klhMZ7zuH8YwZYXuIXE3YBekzs9VcZT-uPYrgNe_Ghw44P2k-Uw0SFeCsEDH7r9mox1GP6jyqTr5e7qZXl0ZYle43kpD4nWMtHq4s-mCp2q1M0uZRuecvs8thDjsyROmKwVpgHrsT_kZlSRUC5A4PTm7TEEF_YcsFLnwg3lSFFHC1Tkp-_DHJfSvAcuunSQp76TWgAzdoeKFFDA619SNxKsYR4n_z1_RODNenceHWm9xFqVEWflHO9xOVMFu_mahBT-i721lCQx_r1d4nJ_mw3duQa32b4E91_GhWgspfVNg1wKqa2H-vSZQ_U_9Ar2syOqKK7IHRR6R-4jJzkAcjMpCsz7eYuTcJCbkIqzLpG4xiAZWfNEqW2mmHpGQ5_JhU4N-CyUexnuWbrsUcTkqSVhqcGNbZpsgXzmC8oVvNwL2AK0fifmBIx8VSox1OFis",
+ "salt": "RG8t8g_EpSnemNG9wgNviw==",
+ "text": "Gwartheg y llyn were the red-eared fairy cattle of Wales. The Plant Annwn, the tribe of the Otherworld, kept them below the surface of lakes beside teams of white dogs called C'wn Annwn. In Scotland and Ireland such cattle had red bodies and white ears, but the Welsh gwartheg were wholly white like ghosts. They could breed with mortal cattle and stood as a mark of the Otherworld herds.",
+ "okr": {
+  "objective": "Present gwartheg y llyn as the red-eared fairy cattle kept in lakes by the Plant Annwn.",
+  "key_results": [
+   "Gwartheg y llyn were the red-eared fairy cattle of Wales",
+   "The Plant Annwn kept them beneath lakes with white dogs called C'wn Annwn",
+   "In Scotland and Ireland the cattle had red bodies and white ears, but the Welsh forms were white",
+   "They could breed with the stock of mortal farmers"
+  ],
+  "evidence": "Monaghan, The Encyclopedia of Celtic Mythology and Folklore, 2003"
+ }
 }

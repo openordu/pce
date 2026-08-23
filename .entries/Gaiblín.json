@@ -1,9 +1,47 @@
 {
-    "name": "Gaibl\u00edn",
-    "attributes": {},
+    "name": "Gaiblín",
+    "attributes": [
+        {
+            "entity": "Gaiblín",
+            "attribute": "is another name for the hero Gavida"
+        },
+        {
+            "entity": "Gavida",
+            "attribute": "was brother of Cian and uncle of Lugh"
+        },
+        {
+            "entity": "Gavida",
+            "attribute": "fostered Lugh until he could kill Bálor of the Evil Eye"
+        },
+        {
+            "entity": "Gavida",
+            "attribute": "is sometimes identified with the smith god Goibniu"
+        }
+    ],
     "entities": [
         {
-            "text": "Gavida"
+            "entity": "Gaiblín",
+            "type": "Person"
+        },
+        {
+            "entity": "Gavida",
+            "type": "Person"
+        },
+        {
+            "entity": "Cian",
+            "type": "Person"
+        },
+        {
+            "entity": "Lugh",
+            "type": "Person"
+        },
+        {
+            "entity": "Bálor",
+            "type": "Creature"
+        },
+        {
+            "entity": "Goibniu",
+            "type": "Deity"
         }
     ],
     "sources": [
@@ -11,5 +49,14 @@
     ],
     "cyphertext": "rQFpPjtdF5ohr7PVEpqlp7Jqb2SMBSJ_CnhhtfIt_7FFYwVQNOeGKsHY5iufRhKv9A==",
     "salt": "VhTlJ1Tdq3APYn7dgeOXDg==",
-    "text": "Gaibl\u00edn See Gavida."
+    "text": "Gaiblín is another name for the Irish hero Gavida. Some sources also call him Gaibhleen or Goibhleann. Gavida was the brother of Cian and the uncle of the hero Lugh. He fostered Lugh until the youth was old enough to slay his monstrous grandfather Bálor of the Evil Eye. Some accounts identify Gavida with the smith god Goibniu. See Gavida.",
+    "okr": {
+        "objective": "Cross-reference Gaiblín to the hero Gavida.",
+        "key_results": [
+            "Identify Gaiblín as another name for Gavida.",
+            "State Gavida's kinship with Cian and Lugh.",
+            "Note Gavida's link to the smith god Goibniu."
+        ],
+        "evidence": "Monaghan, The Encyclopedia of Celtic Mythology and Folklore, 2008, s.v. Gavida."
+    }
 }

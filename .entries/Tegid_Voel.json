@@ -1,33 +1,50 @@
 {
-    "name": "Tegid Voel",
-    "entities": [
-        {
-            "entity": "Tegid Voel",
-            "type": "Welsh god"
-        },
-        {
-            "entity": "Ceridwen",
-            "type": "Hag goddess"
-        },
-        {
-            "entity": "Lake Bala",
-            "type": "Lake"
-        }
-    ],
-    "attributes": [
-        {
-            "entity": "Tegid Voel",
-            "attribute": "consort of Ceridwen"
-        },
-        {
-            "entity": "Lake Bala",
-            "attribute": "home of Tegid Voel and Ceridwen"
-        }
-    ],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "cyphertext": "wvOvO7KV0FFrkwfXf6sYhlskwmbQND5HQtYu472GNUs-uivbNapEOAOUm0s2gI0p21sJCLbBXPWIqydOGJAgK-S-eJriUoe-6QJBJJFnJQaS21x7Z4FeFf12cYVqZTJDhlNyvv2yGPTN_mV4tBEzt0dI9FsxLPN8wdQPTok1fFrYOyz7FyWQlMFSO0_Cjf83TCtRBA1ZryAaPkpcljm5Tz9wSLh2LSEZyiAkWKG-nifD8dKmcAvw0f0hBXwJa_1v5bYzazLCU6tZtrUXFbzYSniTwIp4SOCxxiPC3cdLkuD1zEXBNexhq_GiZ3fECd53wjuP5zWBeIXTX1i_SNUYolRwPeMYvDE=",
-    "salt": "5XGtTR3s0j3_k_fpvfu33A==",
-    "text": "Welsh deity Tegid Voel, also spelled as Tegid Foel or Tegyd Fo\u00ebl, is a rather mysterious figure, often overshadowed by his partner, the renowned Hag goddess Ceridwen. Although it is known that he was her companion, not much else has been recorded about him apart from the fact that the lake which served as their dwelling - currently known as Lake Bala - was named after him."
+ "name": "Tegid Voel",
+ "entities": [
+  {
+   "entity": "Tegid Voel",
+   "type": "Deity"
+  },
+  {
+   "entity": "Tegid Foel",
+   "type": "Deity"
+  },
+  {
+   "entity": "Ceridwen",
+   "type": "Deity"
+  },
+  {
+   "entity": "Lake Bala",
+   "type": "Place"
+  }
+ ],
+ "attributes": [
+  {
+   "entity": "Tegid Voel",
+   "attribute": "an obscure Welsh god or giant"
+  },
+  {
+   "entity": "Tegid Voel",
+   "attribute": "the consort of the hag goddess Ceridwen"
+  },
+  {
+   "entity": "Tegid Voel",
+   "attribute": "had a lake named for him, now called Lake Bala"
+  }
+ ],
+ "sources": [
+  "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+ ],
+ "cyphertext": "wvOvO7KV0FFrkwfXf6sYhlskwmbQND5HQtYu472GNUs-uivbNapEOAOUm0s2gI0p21sJCLbBXPWIqydOGJAgK-S-eJriUoe-6QJBJJFnJQaS21x7Z4FeFf12cYVqZTJDhlNyvv2yGPTN_mV4tBEzt0dI9FsxLPN8wdQPTok1fFrYOyz7FyWQlMFSO0_Cjf83TCtRBA1ZryAaPkpcljm5Tz9wSLh2LSEZyiAkWKG-nifD8dKmcAvw0f0hBXwJa_1v5bYzazLCU6tZtrUXFbzYSniTwIp4SOCxxiPC3cdLkuD1zEXBNexhq_GiZ3fECd53wjuP5zWBeIXTX1i_SNUYolRwPeMYvDE=",
+ "salt": "5XGtTR3s0j3_k_fpvfu33A==",
+ "text": "Tegid Voel is an obscure Welsh god. He is also called Tegid Foel or Tegyd Foel. Some call him a giant. He was the consort of the hag goddess Ceridwen. Little else is known of him. The lake where the pair made their home bore his name. That lake is now Lake Bala.",
+ "okr": {
+  "objective": "Describe the Welsh god Tegid Voel.",
+  "key_results": [
+   "He was the consort of the hag goddess Ceridwen.",
+   "He is known from little more than the lake that bore his name.",
+   "That lake is now known as Lake Bala."
+  ],
+  "evidence": "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+ }
 }

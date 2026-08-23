@@ -1,65 +1,59 @@
 {
-    "name": "gwrach y rhibyn",
-    "attributes": [
-        {
-            "entity": "gwrach y rhibyn",
-            "attribute": "Welsh folkloric figure"
-        },
-        {
-            "entity": "the Washer At The Ford",
-            "attribute": "Banshee-like Fairy woman"
-        },
-        {
-            "entity": "imminent death",
-            "attribute": "warned of"
-        },
-        {
-            "entity": "crossroads",
-            "attribute": "standing at"
-        },
-        {
-            "entity": "stream",
-            "attribute": "near a bend in"
-        },
-        {
-            "entity": "huge",
-            "attribute": "physical description"
-        },
-        {
-            "entity": "hideous",
-            "attribute": "physical description"
-        },
-        {
-            "entity": "Red hair",
-            "attribute": "physical description"
-        },
-        {
-            "entity": "massive nose",
-            "attribute": "physical description"
-        },
-        {
-            "entity": "eyes",
-            "attribute": "physical description"
-        },
-        {
-            "entity": "red",
-            "attribute": "color of eyes"
-        }
-    ],
-    "entities": [
-        {
-            "entity": "gwrach y rhibyn",
-            "type": "Welsh folkloric figure"
-        },
-        {
-            "entity": "the Washer At The Ford",
-            "type": "Banshee-like Fairy woman"
-        }
-    ],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "cyphertext": "bRe6XXFWzkY70H2lU75eg-eahkZjN3E7hg59YF8g47VDuAYHXdbKE4qraKcLaaa4Lrmp7JLh1ZyV6HlSI30mf9NPRKQtKc5EaR50Jzz94pDSn1-A8NJxSRHVU04ph22EvVEOUss-NjMiQhKsNGINE6EcHftjeA1WrxdAYa60ThIO_oP1tlzY9DZTO8vx5vDP9IvjWiEY9lVcZmBaqFt-H5oreRGz1c2AWHMPFjE28P5n3iG9elFy-_SaZPZJ6wlClEFhdYAfJEh2N-W8mk3xP26_Zmjv1X9XrCRgtmHI3w_BmdEj5cqw_EH3q_donKk5QKFlNj5qdFiXw0jqR1UqUlyGMnRbBY0-bPDeO57RIcuoFzp9VjkdLEl4M_qpKsFrTpN20vAw-_zpLu2L-2pPFjl9",
-    "salt": "UxNlURiBuyIcbYtJgNnSnA==",
-    "text": "A figure featured in Welsh folklore is the gwrach y rhibyn. Similar to the Washer At The Ford, this Fairy woman, resembling a Banshee, would give notice of upcoming death. Her usual location was near a stream's bend or at a crossroads. The gwrach y rhibyn was a monstrous being with scarlet mother, a massive nose, and eyes that glimmered red."
+ "name": "gwrach y rhibyn",
+ "attributes": [
+  {
+   "entity": "gwrach y rhibyn",
+   "attribute": "appeared at a crossroads or a stream bend"
+  },
+  {
+   "entity": "gwrach y rhibyn",
+   "attribute": "warned people that death was near"
+  },
+  {
+   "entity": "gwrach y rhibyn",
+   "attribute": "huge and hideous"
+  },
+  {
+   "entity": "gwrach y rhibyn",
+   "attribute": "coarse red hair and a massive nose"
+  },
+  {
+   "entity": "gwrach y rhibyn",
+   "attribute": "eyes with a red glow"
+  }
+ ],
+ "entities": [
+  {
+   "entity": "gwrach y rhibyn",
+   "type": "Being"
+  },
+  {
+   "entity": "Washer At The Ford",
+   "type": "Being"
+  },
+  {
+   "entity": "Banshee",
+   "type": "Being"
+  },
+  {
+   "entity": "Wales",
+   "type": "Place"
+  }
+ ],
+ "sources": [
+  "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+ ],
+ "cyphertext": "bRe6XXFWzkY70H2lU75eg-eahkZjN3E7hg59YF8g47VDuAYHXdbKE4qraKcLaaa4Lrmp7JLh1ZyV6HlSI30mf9NPRKQtKc5EaR50Jzz94pDSn1-A8NJxSRHVU04ph22EvVEOUss-NjMiQhKsNGINE6EcHftjeA1WrxdAYa60ThIO_oP1tlzY9DZTO8vx5vDP9IvjWiEY9lVcZmBaqFt-H5oreRGz1c2AWHMPFjE28P5n3iG9elFy-_SaZPZJ6wlClEFhdYAfJEh2N-W8mk3xP26_Zmjv1X9XrCRgtmHI3w_BmdEj5cqw_EH3q_donKk5QKFlNj5qdFiXw0jqR1UqUlyGMnRbBY0-bPDeO57RIcuoFzp9VjkdLEl4M_qpKsFrTpN20vAw-_zpLu2L-2pPFjl9",
+ "salt": "UxNlURiBuyIcbYtJgNnSnA==",
+ "text": "The gwrach y rhibyn is a figure from Welsh folklore. She resembles the Washer At The Ford. Like a Banshee, this fairy woman warned that death was close. Her usual place was a crossroads or the bend of a stream. She was huge and hideous to the eye. Thick red hair hung about her face, her nose was large, and a red glow rose from her eyes. Those who met her knew at once what her presence meant.",
+ "okr": {
+  "objective": "Describe the gwrach y rhibyn, a Welsh folk figure who warned that death was near.",
+  "key_results": [
+   "The source compares her to the Washer At The Ford and a Banshee.",
+   "It places her at a crossroads or a water bend.",
+   "It describes her as huge with coarse hair and a massive nose.",
+   "It says a red glow had risen from her eyes."
+  ],
+  "evidence": "Monaghan, Encyclopedia of Celtic Mythology and Folklore (Checkmark 2008), s.v. gwrach y rhibyn."
+ }
 }

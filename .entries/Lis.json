@@ -1,11 +1,46 @@
 {
-    "name": "Lis",
-    "attributes": {},
-    "entities": [],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "cyphertext": "dhFjgTFAjRr7KHqcPOnwda9iBmY65xshLLAvgcS3_yww48LTDADts4SsjotgDfAqIEqVX-g=",
-    "salt": "StyJJfuVBfNXokx60WW7qw==",
-    "text": "Lis (Lios) See Hillfort."
+ "name": "Lis",
+ "attributes": [
+  {
+   "entity": "Lis",
+   "attribute": "an Irish term for an enclosed site"
+  },
+  {
+   "entity": "Lis",
+   "attribute": "a spelling shared with Lios"
+  },
+  {
+   "entity": "Lis",
+   "attribute": "a cross reference to Hillfort"
+  }
+ ],
+ "entities": [
+  {
+   "entity": "Lis",
+   "type": "Place"
+  },
+  {
+   "entity": "Lios",
+   "type": "Place"
+  },
+  {
+   "entity": "Hillfort",
+   "type": "Place"
+  }
+ ],
+ "sources": [
+  "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+ ],
+ "cyphertext": "dhFjgTFAjRr7KHqcPOnwda9iBmY65xshLLAvgcS3_yww48LTDADts4SsjotgDfAqIEqVX-g=",
+ "salt": "StyJJfuVBfNXokx60WW7qw==",
+ "text": "Lis is an Irish term for a protective or enclosed site. The source prints the word with the spelling Lios and keeps a short cross reference in the record. It sends the reader to the fuller account of the hillfort, where the enclosed defensive ground of ancient Ireland is treated at length. This entry stays as a marker for that main topic.",
+ "okr": {
+  "objective": "Keep Lis as a short cross reference to the hillfort topic.",
+  "key_results": [
+   "Give Lis as an Irish term for an enclosed site.",
+   "Show the Lios spelling variant.",
+   "Point the record to the main Hillfort entry."
+  ],
+  "evidence": "Monaghan 2008, s.v. Lis."
+ }
 }

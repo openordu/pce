@@ -1,11 +1,50 @@
 {
-    "name": "llamhigyn y dwr",
-    "attributes": {},
-    "entities": [],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "cyphertext": "2yYpGLml4Csd2qYN8AewkfXVjAvOD8GUwakqa-yYgBQWeMUgyjpro6Q4H3JGKxY1EH8yJLnvgKubjDYhl8w=",
-    "salt": "zsjdH69d_zTmQqa0_CPuXw==",
-    "text": "llamhigyn y dwr See Water-Leaper."
+ "name": "llamhigyn y dwr",
+ "attributes": [
+  {
+   "entity": "Llamhigyn y dwr",
+   "attribute": "the Welsh water leaper"
+  },
+  {
+   "entity": "Llamhigyn y dwr",
+   "attribute": "a giant toad of the deep"
+  },
+  {
+   "entity": "Llamhigyn y dwr",
+   "attribute": "drags its prey underwater"
+  }
+ ],
+ "entities": [
+  {
+   "entity": "Llamhigyn y dwr",
+   "type": "Creature"
+  },
+  {
+   "entity": "water leaper",
+   "type": "Creature"
+  },
+  {
+   "entity": "water bull",
+   "type": "Creature"
+  },
+  {
+   "entity": "water horse",
+   "type": "Creature"
+  }
+ ],
+ "sources": [
+  "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+ ],
+ "cyphertext": "2yYpGLml4Csd2qYN8AewkfXVjAvOD8GUwakqa-yYgBQWeMUgyjpro6Q4H3JGKxY1EH8yJLnvgKubjDYhl8w=",
+ "salt": "zsjdH69d_zTmQqa0_CPuXw==",
+ "text": "Llamhigyn y dwr is the Welsh water leaper. It is a monster that moves in the water with the shape of a giant toad. It is a kin of the WATER BULL and the WATER HORSE. The beast hid under the surface until a man or an ox passed by. Then it sprang out and gripped the prey and dragged it down to feed. A plain crossing of a river could end in a sudden death in Welsh lore.",
+ "okr": {
+  "objective": "Record the Welsh water leaper Llamhigyn y dwr.",
+  "key_results": [
+   "Give its shape and kindred beasts.",
+   "Tell how it leaps on and drags its prey.",
+   "Set the danger of a plain water crossing."
+  ],
+  "evidence": "Monaghan 2008, s.v. 'llamhigyn y dwr'."
+ }
 }

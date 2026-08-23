@@ -1,15 +1,41 @@
 {
-    "name": "power of the word",
-    "attributes": {},
-    "entities": [
-        {
-            "text": "Poetry"
-        }
-    ],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "cyphertext": "uz8roTFE5K4EOPeBicr1tWQIMRFrLEH4wAW08sdw3lrtCoPgaztnn9zBiGEE7NQ0A4gSVrTvCuaBSw==",
-    "salt": "st4KGAnB7nGH6btf42MC8g==",
-    "text": "power of the word see Poetry."
+ "name": "power of the word",
+ "attributes": [
+  {
+   "entity": "power of the word",
+   "attribute": "the spoken or chanted word carried force"
+  },
+  {
+   "entity": "power of the word",
+   "attribute": "satire and praise shaped standing"
+  }
+ ],
+ "entities": [
+  {
+   "entity": "power of the word",
+   "type": "Concept"
+  },
+  {
+   "entity": "POETRY",
+   "type": "Concept"
+  },
+  {
+   "entity": "poet",
+   "type": "Role"
+  }
+ ],
+ "sources": [
+  "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+ ],
+ "cyphertext": "uz8roTFE5K4EOPeBicr1tWQIMRFrLEH4wAW08sdw3lrtCoPgaztnn9zBiGEE7NQ0A4gSVrTvCuaBSw==",
+ "salt": "st4KGAnB7nGH6btf42MC8g==",
+ "text": "The power of the word is a concept in Celtic belief. The entry is a cross-reference. The full account appears under POETRY. In Celtic tradition the spoken word carried force. Satire and praise shaped a person's standing. A poet's words could wound or bless. The entry directs the reader to POETRY for the full account of this power.",
+ "okr": {
+  "objective": "Point the reader to poetry for the power of the spoken word.",
+  "key_results": [
+   "Cross-references power of the word to POETRY",
+   "Notes the poet's words could wound or bless"
+  ],
+  "evidence": "Monaghan 2008, s.v. 'power of the word'."
+ }
 }

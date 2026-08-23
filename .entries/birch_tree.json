@@ -3,57 +3,41 @@
     "attributes": [
         {
             "entity": "birch",
-            "attribute": "Symbolic plant"
+            "attribute": "holds the second slot of the Tree Alphabet"
         },
         {
             "entity": "birch",
-            "attribute": "stands for the second letter of the Tree Alphabet"
+            "attribute": "a short-lived but graceful tree with white bark"
         },
         {
             "entity": "birch",
-            "attribute": "shortlived"
+            "attribute": "wood for the Maypole used in Beltane dances"
         },
         {
-            "entity": "birch",
-            "attribute": "graceful"
-        },
-        {
-            "entity": "birch",
-            "attribute": "white-barked"
-        },
-        {
-            "entity": "birch",
-            "attribute": "provided wood for the Maypoles used in Beltane dances"
-        },
-        {
-            "entity": "Celtic sacred trees",
-            "attribute": "one of"
-        },
-        {
-            "entity": "Maypoles",
-            "attribute": "used in Beltane dances"
+            "entity": "Beltane",
+            "attribute": "the feast that uses the Maypole in dance"
         }
     ],
     "entities": [
         {
             "entity": "birch",
-            "type": "species"
+            "type": "Concept"
         },
         {
-            "entity": "Celtic sacred trees",
-            "type": "symbolic"
+            "entity": "betula",
+            "type": "Concept"
         },
         {
             "entity": "Tree Alphabet",
-            "type": "alphabet"
+            "type": "Concept"
         },
         {
-            "entity": "Maypoles",
-            "type": "object"
+            "entity": "Maypole",
+            "type": "Artifact"
         },
         {
-            "entity": "Beltane dances",
-            "type": "event"
+            "entity": "Beltane",
+            "type": "Event"
         }
     ],
     "sources": [
@@ -64,5 +48,14 @@
     ],
     "cyphertext": "K48nhiIPXB0dmZAKXCuCc5nbqdvyAXzVT2S_urFSaaeYJ0UZyhb36K6y__O1kcQY70SoUeX7S1hsgrlCGhKRNnsnm7aEt_8xP74yiDRSx0C6b-Scx1UsbTZExTnlLXp20ldfq30fr5Yb3zbD9H1Np1CIxix9vEfL9AVBZ6osZpTGJdrKX5KBgpj84FqW6IrrtBBYA2B9OryE9lGh0yg-jTPSlDEqadfvbzFl4SbGI0Q-tSIl-6wKj8XO2XhZvmW-uZWAixz8DXNF0m2vXB70cArjL4_xTVq3akNXckD7tgV21FmQgnmbtxtSPKo2sxWcNYwewYOPs1speBKYG_QTy3NZhmUzLiarK9iy2f4HcKd02DY=",
     "salt": "gzpu4yozbxBhhTXvnNRvRw==",
-    "text": "Symbolic of the birch tree holds significant value as it is considered one of the sacred trees in the Celtic tradition. The second letter in the Tree Alphabet, the birch is a delicate but elegant tree with white bark that is short-lived. It was used as a source of wood for the Maypoles, which were instrumental in the Beltane dances."
+    "text": "The birch is one of the sacred plants of the Celts. Its sign holds the second slot of the Tree Alphabet. The birch species betula is short-lived. Still it is graceful, with pale white bark.\n\nThe wood of the birch gives a pole to hold. The Celts shaped it into a Maypole for the dances. Those dances came at the feast of Beltane. So the birch holds its place in the rites of the old Celts.",
+    "okr": {
+        "objective": "Cite the birch as a sacred tree and the second letter of the Tree Alphabet.",
+        "key_results": [
+            "The birch takes the second slot in the Tree Alphabet.",
+            "Its bark is white, and it is graceful despite a short life.",
+            "Birch wood formed the Maypole used in Beltane dances."
+        ],
+        "evidence": "Monaghan 2008, s.v. 'birch'."
+    }
 }

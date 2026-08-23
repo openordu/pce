@@ -1,7 +1,49 @@
 {
     "name": "Brennius",
-    "attributes": {},
-    "entities": [],
+    "attributes": [
+        {
+            "entity": "Brennius",
+            "attribute": "a cross reference to Belenus"
+        },
+        {
+            "entity": "Belenus",
+            "attribute": "a Continental Celtic god"
+        },
+        {
+            "entity": "Belenus",
+            "attribute": "connected to the spring festival of Beltane"
+        },
+        {
+            "entity": "Belenus",
+            "attribute": "compared by the Romans to Apollo"
+        },
+        {
+            "entity": "Belenus",
+            "attribute": "honored at healing waters like Aquae Borvonis"
+        }
+    ],
+    "entities": [
+        {
+            "entity": "Brennius",
+            "type": "Person"
+        },
+        {
+            "entity": "Belenus",
+            "type": "Deity"
+        },
+        {
+            "entity": "Beltane",
+            "type": "Event"
+        },
+        {
+            "entity": "Apollo",
+            "type": "Deity"
+        },
+        {
+            "entity": "Aquae Borvonis",
+            "type": "Place"
+        }
+    ],
     "sources": [
         "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
     ],
@@ -10,5 +52,15 @@
     ],
     "cyphertext": "z8lhI7IXACW7zOWAx9Lcgio1d2QMZsuPnrqP9XS7cZuY73cK3cCE5av6LEu6QvTKxoApnMriShNjAzSc",
     "salt": "aMkRYAgbRvvST7vpUMe4_Q==",
-    "text": "Brennius (Brennus) See Belenus."
+    "text": "Brennius is a cross reference. The book sends the reader to Belenus. Belenus was a Continental Celtic god. The spring festival of Beltane may take its name from him. The Romans compared him to Apollo. Believers honored him at healing waters such as Aquae Borvonis in France. The healing plant Belinuntia carries his name.",
+    "okr": {
+        "objective": "Route the reader from Brennius to the god Belenus.",
+        "key_results": [
+            "Brennius is a cross reference to Belenus.",
+            "Belenus was a Continental Celtic god.",
+            "The spring festival of Beltane may bear his name.",
+            "The Romans compared him to Apollo."
+        ],
+        "evidence": "Monaghan 2008, s.v. 'Brennius'."
+    }
 }

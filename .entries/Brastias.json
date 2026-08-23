@@ -3,57 +3,49 @@
     "attributes": [
         {
             "entity": "Brastias",
-            "attribute": "Arthurian hero"
+            "attribute": "served Gorlois, the duke of Cornwall"
         },
         {
-            "entity": "Gorlois",
-            "attribute": "duke of Cornwall"
+            "entity": "Brastias",
+            "attribute": "helped Uther Pendragon enter Igraine's chamber"
+        },
+        {
+            "entity": "Brastias",
+            "attribute": "acted in league with Merlin"
+        },
+        {
+            "entity": "Brastias",
+            "attribute": "became a strong supporter of Arthur"
         },
         {
             "entity": "Uther Pendragon",
-            "attribute": "bewitched"
-        },
-        {
-            "entity": "Merlin",
-            "attribute": "great magician"
-        },
-        {
-            "entity": "Uther",
-            "attribute": "disguised as Gorlois"
-        },
-        {
-            "entity": "Arthur",
-            "attribute": "future king"
+            "attribute": "begot Arthur with Igraine"
         }
     ],
     "entities": [
         {
             "entity": "Brastias",
-            "type": "Arthurian hero"
+            "type": "Person"
         },
         {
             "entity": "Gorlois",
-            "type": "duke of Cornwall"
+            "type": "Person"
         },
         {
             "entity": "Uther Pendragon",
-            "type": "person"
-        },
-        {
-            "entity": "Merlin",
-            "type": "magician"
+            "type": "Person"
         },
         {
             "entity": "Igraine",
-            "type": "person"
+            "type": "Person"
         },
         {
-            "entity": "Uther",
-            "type": "person"
+            "entity": "Merlin",
+            "type": "Person"
         },
         {
             "entity": "Arthur",
-            "type": "future king"
+            "type": "Person"
         }
     ],
     "sources": [
@@ -61,5 +53,15 @@
     ],
     "cyphertext": "haSbmbwXFJgaR2qWlTIlg7NyIIh8IykGK6ojWasEiAaNi_VIpKS9l1D50TyEEANUH_pGy4yg1giYAhOEUhA2IgIhnKu55Kqp_Bc0RCDZc5MKAGd8gPXBPxyLoDMEblHrMV2sK9JmZ4R1A1PkroQajGXcJNnvlhw3E4nePLV0F9O3Bk0IuIOqmnvI5skE1KvvYbXvgIYpiBtXVIgUFdw1_OXElgsWY7HACBG7Xm_CzOhupLwQL33oldODgov_FhEWysY07a5t2toq87J7SG5G_N87CisfGmuYf-j2nKtsVU_K6FS2OYZQtgDzrLeOqOV4ldJEGvlEXGUWXKU6vIdHDpbXkZMaeZHOBQI3VYd5h0L4-rl5nECY7gGqggtcR_TaEyMcnYKoxIhXQuTxBf_o6xsgZrAmliclnqmtn77P7tenvejhAmFEio638zZj7dLyr0_muPpv2fnu7tizuloLpxlV684FrunPzPjlB2gDlYisZqtrO-0S6aNOif3YgrBEOdXwHKW32JQfHisyJnwQeEo8oI-aodCtn2-HKCtYw8u-4FV9ROUNuL2XwuGzjZ85tbhHdCrGP4K4VtmZ1GEwsHLa3pWPb8ItFr0hQ5tXokb0Cyg72W0esQKUXNg2Fj46_ANcZsrqct26ECcTRblfQAwoh3iCTnLSjGXKjTkLaVLkNjUdjhIf2ewB3uqq0luZ1KrYE-0W-Y6No4TCh4-_pN70VmstvgC8YUaaTirgsLn35M5XsjDyW_Wv_itbmsQwOAOI7y7OdBo9",
     "salt": "zXvymnaqQN25Bl_c6G02GA==",
-    "text": "A knight named Brastias was a hero of Arthurian legend. Brastias was previously in the service of the Duke of Cornwall, Gorlois, but helped Uther Pendragon, who was under a spell, sneak into the bedroom of Gorlois' wife, Igraine. Through the magical abilities of Merlin, Uther's appearance was altered to resemble Gorlois, fooling everyone. Brastias was aware of the plan and welcomed Uther. It was on that night that Arthur was conceived between Uther and Igraine, though no one other than the three of them knew the truth. When Arthur came to the throne, Brastias became a loyal ally and supporter of the future king."
+    "text": "Brastias was an Arthurian knight. He served Gorlois, the duke of Cornwall. He helped the disguised Uther Pendragon reach the chamber of Igraine, the duke's wife. The magician Merlin had changed Uther's face so he looked like Gorlois home from battle. This knight welcomed Uther inside on Merlin's behalf. Arthur was conceived with Igraine that same night. After Arthur became king, Brastias ranked among his most loyal nobles.",
+    "okr": {
+        "objective": "Describe Brastias, the Arthurian knight who aided Uther Pendragon.",
+        "key_results": [
+            "Brastias served Gorlois, the duke of Cornwall.",
+            "He helped the disguised Uther reach the chamber of Igraine.",
+            "He worked in league with the magician Merlin.",
+            "He became one of Arthur's strongest supporters."
+        ],
+        "evidence": "Monaghan 2008, s.v. 'Brastias'."
+    }
 }

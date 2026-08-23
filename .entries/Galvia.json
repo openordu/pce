@@ -3,53 +3,33 @@
     "attributes": [
         {
             "entity": "Galvia",
-            "attribute": "obscure figure"
-        },
-        {
-            "entity": "Galway",
-            "attribute": "contemporary county"
-        },
-        {
-            "entity": "Galway",
-            "attribute": "derives from Galvia"
+            "attribute": "gave her name to the county of Galway"
         },
         {
             "entity": "Galvia",
-            "attribute": "said to have been a princess drowned in the River"
+            "attribute": "was a princess who drowned in the river that bears her name"
         },
         {
-            "entity": "S\u00ednann",
-            "attribute": "important goddess of the watershed"
-        },
-        {
-            "entity": "B\u00f3and",
-            "attribute": "important goddess of the watershed"
+            "entity": "Galvia",
+            "attribute": "was likely once a goddess of the watershed like Sínann and Bóand"
         }
     ],
     "entities": [
         {
             "entity": "Galvia",
-            "type": "mythological figure"
+            "type": "Deity"
         },
         {
             "entity": "Galway",
-            "type": "county"
+            "type": "Place"
         },
         {
-            "entity": "River",
-            "type": "body of water"
+            "entity": "Sínann",
+            "type": "Deity"
         },
         {
-            "entity": "S\u00ednann",
-            "type": "goddess"
-        },
-        {
-            "entity": "B\u00f3and",
-            "type": "goddess"
-        },
-        {
-            "entity": "watershed",
-            "type": "geographic feature"
+            "entity": "Bóand",
+            "type": "Deity"
         }
     ],
     "sources": [
@@ -57,5 +37,14 @@
     ],
     "cyphertext": "GLNpRw3zc5gqmdQ-9UCBTzmKcWzi-0gM8-3Km_-MSG08yTMuAF3aQNwK9ZxKOaKw4D2LDTTjsncvu0PWTIIOC-iXShlx_XZFbk8JxD8GNaWsJgrYoBPTtqZh4j8GZvhpWHC-BwELL7ihXI-OPoPyXOBVQDhGnazSSVLzM4pYMsOBB9W4WXAR1_HrXSqhS17fzO1J57-HBqqz5jl_yfSNZZbXGKzPuvkcUO6oBdc-Til1cvoYqFzC-GMQrPKCFwWLaamoIyGbxZcduO-47bxB0twg3lE-lz48JOuxyPn-AJeEtfZJtAOgQ-Vd0DLEzJ7zWrzuxrcHrp2TmoLOauEcdbwSPbwAAFslGbyr3joCelxRDMyNMgaMXNXWsuWG1JpBIlaapngJUk48GrmFLQqJCJ25rkVl8rtG5Awj8RTYQ_RCK0zgcTmQ4BKjsFNOWUto9m51_6l9FBBr82uSF18=",
     "salt": "Hkld6SRs2i6H5p1g1xtjlw==",
-    "text": "Obscure Galvia, a figure in Irish mythology, is said to be the princess who drowned in the river that is now named after her, and from which the contemporary Galway County derives its name. This legend is also attributed to two other goddesses, S\u00ednann and B\u00f3and, which suggests that Galvia may have been a significant goddess of the area's watershed in ancient times."
+    "text": "Galvia was an Irish mythological figure. She was obscure. The county of Galway takes its name from her. She was said to be a princess. She drowned in the river that bears her name. The same tale is told of the goddesses Sínann and Bóand. Galvia was likely once an important goddess of the watershed.",
+    "okr": {
+        "objective": "Record the Irish figure Galvia and her link to the county of Galway.",
+        "key_results": [
+            "Trace the county name Galway to the figure Galvia.",
+            "Describe the character of the woman who drowned in her own river.",
+            "Connect Galvia to the goddesses Sínann and Bóand."
+        ],
+        "evidence": "Monaghan, The Encyclopedia of Celtic Mythology and Folklore, 2008, s.v. 'Galvia'."
+    }
 }

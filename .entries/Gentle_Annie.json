@@ -3,49 +3,33 @@
     "attributes": [
         {
             "entity": "Gentle Annie",
-            "attribute": "supernatural Hag with blue-black skin"
+            "attribute": "is a Scottish folkloric hag with blue-black skin"
         },
         {
             "entity": "Gentle Annie",
-            "attribute": "weather spirit"
+            "attribute": "is the weather spirit of Cromarthy Firth"
         },
         {
             "entity": "Gentle Annie",
-            "attribute": "brought raw winds down Cromarthy Firth in Scotland"
+            "attribute": "has a name connected to the goddess Anu"
         },
         {
             "entity": "Gentle Annie",
-            "attribute": "flattering and mollifying name"
-        },
-        {
-            "entity": "Anu",
-            "attribute": "ancient goddess name connected to Gentle Annie's name"
-        },
-        {
-            "entity": "Cailleach",
-            "attribute": "resembles Gentle Annie's appearance and personality"
+            "attribute": "resembles the Cailleach in appearance and nature"
         }
     ],
     "entities": [
         {
             "entity": "Gentle Annie",
-            "type": "Scottish folkloric figure"
-        },
-        {
-            "entity": "Cromarthy Firth",
-            "type": "location"
-        },
-        {
-            "entity": "Scotland",
-            "type": "location"
+            "type": "Being"
         },
         {
             "entity": "Anu",
-            "type": "ancient goddess name"
+            "type": "Deity"
         },
         {
             "entity": "Cailleach",
-            "type": "personality"
+            "type": "Being"
         }
     ],
     "sources": [
@@ -53,5 +37,15 @@
     ],
     "cyphertext": "bcoevL0qQZg1jsFF0nuxcKVepIzZMS9GBrqC8opNvEY7x--_0fbau94PAgUP3JwVWFMybFjv1d3U-CG6PPmFwyw6z-G1iN9mByu3ucznWRdsjuDJhW8AuQWiiNRCYJJepjXPTZu59vAEW_ukLHxBSYOlPbvO2vvX2N_Tk8uS3UMBkfTSYlnF3k-qrZ4JO6GBJnpanx3pVFa6pjR-9nw9bjk3eTYxNqNlmwTvXwTWiIThJhYDOXY0ZsccXvjK33fKJgwETvkSbATCq1fWOL4KsM-tFDfkGl9IDhN6v5ZjYJY7AtVBF3wcxYd4ON6eM3ADdqakaFbm-xqxswbdQPqJA7AhQBO1TXo_e6mzHdis3tRXnw2cC1UiDZhmpVkSh0ZurycJ8sgSLLe4k6c27DwalRH-mkxy9f47RDvyST8i1-6OQRshYKCQpcecrBgPFGeYyhBF4khQ8vh7dAfXmoDsyRYTmHVcOKHArKQp2ZKBKmN4InGSaSbs6hdbaT0RPpc=",
     "salt": "w7ZEpjdwQXoJ0lxCcegMpw==",
-    "text": "A Scottish legendary character, Gentle Annie (also called Gentle Annis), was a supernatural figure with blue-black skin. She acted as a weather spirit who brought harsh winds over Cromarthy Firth in Scotland. Her name, though flattering and appeasing, has been linked to the name of an ancient goddess Anu. Her characteristics and nature are similar to that of the Cailleach."
+    "text": "Gentle Annie, also called Gentle Annis, is a Scottish folkloric figure. She is a supernatural hag with blue-black skin. She served as the weather spirit who brought raw winds down Cromarthy Firth. Her flattering name has been linked to the ancient goddess Anu. Her form and nature resemble the Cailleach.",
+    "okr": {
+        "objective": "Document Gentle Annie as a Scottish supernatural hag and weather spirit.",
+        "key_results": [
+            "Establish Gentle Annie as a Being-typed folkloric figure",
+            "Record the blue-black-skinned hag form",
+            "Record the weather-spirit role over Cromarthy Firth",
+            "Note the links to Anu and the Cailleach"
+        ],
+        "evidence": "Monaghan, The Encyclopedia of Celtic Mythology and Folklore, 2003"
+    }
 }

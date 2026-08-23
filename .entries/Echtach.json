@@ -3,33 +3,37 @@
     "entities": [
         {
             "entity": "Echtach",
-            "type": "Irish heroine or goddess"
-        },
-        {
-            "entity": "spectral Owl",
-            "type": "animal"
-        },
-        {
-            "entity": "east Co. Clare",
-            "type": "location"
-        },
-        {
-            "entity": "Eachtach",
-            "type": "unknown"
+            "type": "Deity"
         },
         {
             "entity": "Echthge",
-            "type": "cannibal woman"
+            "type": "Person"
+        },
+        {
+            "entity": "Eachtach",
+            "type": "Person"
+        },
+        {
+            "entity": "Clare",
+            "type": "Place"
+        },
+        {
+            "entity": "owl",
+            "type": "Animal"
         }
     ],
     "attributes": [
         {
-            "entity": "Echthge",
-            "attribute": "rival of Echtach"
+            "entity": "Echtach",
+            "attribute": "a spectral owl haunting east county Clare"
         },
         {
             "entity": "Echthge",
-            "attribute": "sister of Echtach"
+            "attribute": "Echtach's sister, the cannibal woman of the region"
+        },
+        {
+            "entity": "Eachtach",
+            "attribute": "a similarly named figure, possibly the same as Echtach"
         }
     ],
     "sources": [
@@ -37,5 +41,15 @@
     ],
     "cyphertext": "G8Wwo37Mak_1d2XXfguepqAXKaapwtlwpOIIBt_r54u7AWouCMRdGOYHWGO0ebnd5Q1-BhL5wgU4bGvBAV2XyXIiSWKbHHk0pgMlkBY1lAeMucAe2Tw18wVVar7igxfqnX6zfAR3xVtxs4aEQF3qZ8dbn1ZUfhythpzdiilaegXyzjOJyOLBBCVbnl1fAmxJnHhREWyL70CdD0h8YWVxekA160EIlEU85vHI00NqGZl1XyLakXn4WBa8d-P3LcGMk3L4pej3I3xho8natOFZCsw2dz2rZjbb8nQQpoVQb9qVDfr-9wxkqVMWpr_Fbbwk0pkxdAwbF7nmXMO_2vQ11MQ4XiD7qpcwwWgTMuYUh9alojcPkhNOL2ghoHYeP0fLZXkyQGZlqODSsffAoYMmi9H8B8AmYrMe8xEZsvI0d4k9pu8TtaZlkWVtnLJgicI1mspjJFji2s0014jkyVE2V_zPm7WneVETYtV0wlw=",
     "salt": "MHEgqWS07gXQKjwnO_pZFA==",
-    "text": "Echtach, an Irish heroine or goddess, was often depicted as a spectral Owl who haunted east Co. Clare, the homeland of her sister Echthge, who was known for her cannibalism. It is uncertain whether Echtach is the same entity as Eachtach or not. There are some sources that consider Echtach to be a rival of Echthge rather than a sister. The relationship between the two figures remains unclear."
+    "text": "Echtach is an obscure Irish heroine or goddess. She haunts east county Clare as a spectral owl. Her sister was Echthge, the cannibal woman of the same region. It is unclear whether Echtach matches the similar Eachtach. Some sources call Echtach Echthge's rival rather than her sister.",
+    "okr": {
+        "objective": "Describe Echtach as an obscure owl goddess of east county Clare.",
+        "key_results": [
+            "Echtach appears as a spectral owl in east county Clare.",
+            "Her sister Echthge was a cannibal woman of the same region.",
+            "It is unclear whether Echtach is the same as the similar Eachtach.",
+            "Some sources make Echtach Echthge's rival instead of her sister."
+        ],
+        "evidence": "Monaghan 2008, s.v. 'Echtach'."
+    }
 }

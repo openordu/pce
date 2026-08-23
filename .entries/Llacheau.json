@@ -1,33 +1,42 @@
 {
-    "name": "Llacheau",
-    "entities": [
-        {
-            "entity": "Llacheau",
-            "type": "Arthurian hero"
-        },
-        {
-            "entity": "king Arthur",
-            "type": "Arthurian king"
-        }
-    ],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "attributes": [
-        {
-            "entity": "Llacheau",
-            "attribute": "Arthurian hero"
-        },
-        {
-            "entity": "king Arthur",
-            "attribute": "father of Llacheau"
-        },
-        {
-            "entity": "illegitimate son",
-            "attribute": "status of Llacheau's birth"
-        }
-    ],
-    "cyphertext": "N4YwxIgkGIqXeRpAV-d99ZPIG39oYCi-koYsXl10jaqpeHnXqvhU--Y75eWl4KxkQ9inLRZjiE1q5e6-wGYwpxGgLPWoaSSRuWmoTx6ADWjXQVmXnWga3ZktAzj2HTydq7QkwD5fjzgUhakYxw1p9e0a2u47A5XDwU72hi370TUO-WaFqD5Vah-RGg==",
-    "salt": "hyPBEBRaXf9bP5ije5DB2A==",
-    "text": "Arthurian legend includes a character named Llacheau (Lohot), who is considered a hero. This character, being the son of King Arthur, was purportedly illegitimate in nature."
+ "name": "Llacheau",
+ "entities": [
+  {
+   "entity": "Llacheau",
+   "type": "Person"
+  },
+  {
+   "entity": "King Arthur",
+   "type": "Person"
+  }
+ ],
+ "sources": [
+  "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+ ],
+ "attributes": [
+  {
+   "entity": "Llacheau",
+   "attribute": "an Arthurian hero"
+  },
+  {
+   "entity": "Llacheau",
+   "attribute": "an illegitimate son of King Arthur"
+  },
+  {
+   "entity": "Llacheau",
+   "attribute": "a lesser figure kept near the king"
+  }
+ ],
+ "cyphertext": "N4YwxIgkGIqXeRpAV-d99ZPIG39oYCi-koYsXl10jaqpeHnXqvhU--Y75eWl4KxkQ9inLRZjiE1q5e6-wGYwpxGgLPWoaSSRuWmoTx6ADWjXQVmXnWga3ZktAzj2HTydq7QkwD5fjzgUhakYxw1p9e0a2u47A5XDwU72hi370TUO-WaFqD5Vah-RGg==",
+ "salt": "hyPBEBRaXf9bP5ije5DB2A==",
+ "text": "Llacheau (Lohot) is an Arthurian hero. The source calls this obscure figure the illegitimate son of King Arthur. He appears among the lesser names the later stories kept near the king without giving them a noted part of their own. The record marks him as a member of the Arthurian family rather than as a leading figure.",
+ "okr": {
+  "objective": "Say plainly who Llacheau is in the Arthurian list.",
+  "key_results": [
+   "Name Llacheau an Arthurian hero.",
+   "State his birth as an illegitimate son of King Arthur.",
+   "Mark him as a lesser figure of the court."
+  ],
+  "evidence": "Monaghan 2008, s.v. Llacheau."
+ }
 }

@@ -1,0 +1,29 @@
+{
+  "Badb.json": {
+    "text": "Badb is an Irish war goddess. Her name means the hoodie crow or the scald crow. She took the form of a carrion bird that flew over battlefields. Her loud cry frightened warriors and stoked their rage.\n\nBadb worked beside two other war goddesses, Macha and the Morrigan. The three formed the triple war unit of ancient Ireland. She also fought with Medb and Fea. Together these furies were known as Badb and her sisters.\n\nHer cry carried grim news. The banshee, a being that wails before a death, is tied to her. After the last mythic battle for control of Ireland, she listed the disasters that would strike the land.\n\nA Gaulish goddess, Cathubodua, acted as Badb's match. She could appear as a raven riding a horse. The Gaulish tribe named Boduogenos honored her. The name means people of Bodua. Inscriptions to her were found in the Haute-Savoie.\n\nScholars disagree on whether Badb was Celtic or pre-Celtic. Some tie her bird form to a Neolithic goddess, often drawn as a bird.",
+    "entities": [
+      {"entity": "Badb", "type": "Deity"},
+      {"entity": "Macha", "type": "Deity"},
+      {"entity": "Morrigan", "type": "Deity"},
+      {"entity": "Cathubodua", "type": "Deity"},
+      {"entity": "Banshee", "type": "Creature"},
+      {"entity": "crow", "type": "Animal"}
+    ],
+    "attributes": [
+      {"entity": "Badb", "attribute": "war goddess of Ireland"},
+      {"entity": "Badb", "attribute": "one of the three Morrigna"},
+      {"entity": "Badb", "attribute": "flew over battlefields as a carrion bird"},
+      {"entity": "Cathubodua", "attribute": "Gallic counterpart as a raven"}
+    ],
+    "okr": {
+      "objective": "Describe Badb as one of the three war furies of Ireland and her role as a battle bird.",
+      "key_results": [
+        "Badb joined Macha and the Morrigan in the three Morrigna.",
+        "Badb flew over battlefields as a crow to frighten warriors.",
+        "Cathubodua was her Gaulish counterpart, a raven goddess.",
+        "Badb is connected to the banshee and its cry of coming death."
+      ],
+      "evidence": "Monaghan 2008, s.v. 'Badb'."
+    }
+  }
+}

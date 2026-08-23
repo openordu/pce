@@ -1,11 +1,50 @@
 {
-    "name": "Gwidion",
-    "attributes": {},
-    "entities": [],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "cyphertext": "wij2JlPaLtRhGjAR_5pvZ0LkrkkiS1TPnYz2Q5U_Z8gICN-ydanZFF_y8gnDzFF3Nw==",
-    "salt": "hQfK6nTmDY2FxhMU7SToSg==",
-    "text": "Gwidion See Gwydion."
+ "name": "Gwidion",
+ "attributes": [
+  {
+   "entity": "Gwidion",
+   "attribute": "An alternate spelling of Gwydion."
+  },
+  {
+   "entity": "Gwydion",
+   "attribute": "A Welsh hero and magician in the Mabinogion."
+  },
+  {
+   "entity": "Gwydion",
+   "attribute": "Son of the mother goddess Dôn."
+  }
+ ],
+ "entities": [
+  {
+   "entity": "Gwidion",
+   "type": "Person"
+  },
+  {
+   "entity": "Gwydion",
+   "type": "Person"
+  },
+  {
+   "entity": "Dôn",
+   "type": "Deity"
+  },
+  {
+   "entity": "Mabinogion",
+   "type": "Title"
+  }
+ ],
+ "sources": [
+  "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+ ],
+ "cyphertext": "wij2JlPaLtRhGjAR_5pvZ0LkrkkiS1TPnYz2Q5U_Z8gICN-ydanZFF_y8gnDzFF3Nw==",
+ "salt": "hQfK6nTmDY2FxhMU7SToSg==",
+ "text": "Gwidion is an alternate spelling of Gwydion. Gwydion was a Welsh hero and magician who was the son of the great mother goddess Dôn in the Mabinogion. The name appears as a cross-reference pointing readers to the fuller entry on Gwydion.",
+ "okr": {
+  "objective": "Clarify Gwidion as an alternate spelling of the hero Gwydion.",
+  "key_results": [
+   "Gwidion is an alternate spelling of Gwydion",
+   "Gwydion was a Welsh hero and magician",
+   "He was the son of the mother goddess Dôn in the Mabinogion"
+  ],
+  "evidence": "Monaghan, The Encyclopedia of Celtic Mythology and Folklore, 2003"
+ }
 }

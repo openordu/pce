@@ -1,12 +1,31 @@
 {
     "name": "Garland Sunday",
-    "attributes": {},
-    "entities": [
+    "attributes": [
         {
-            "text": "Garland"
+            "entity": "Garland Sunday",
+            "attribute": "a name for the festival of Lughnasa"
         },
         {
-            "text": "Lughnasa"
+            "entity": "Garland Sunday",
+            "attribute": "also called Garden Sunday and Garlic Sunday"
+        },
+        {
+            "entity": "Garland Sunday",
+            "attribute": "falls on the first Sunday of August"
+        }
+    ],
+    "entities": [
+        {
+            "entity": "Garland Sunday",
+            "type": "Concept"
+        },
+        {
+            "entity": "Lughnasa",
+            "type": "Event"
+        },
+        {
+            "entity": "Lugh",
+            "type": "Deity"
         }
     ],
     "sources": [
@@ -17,5 +36,14 @@
     ],
     "cyphertext": "uOvly2mBdaqD7xR_Wb37L8GPela4_GtxXAVrzLBaeAM6KOreIvUP5genx3iQOFjdVl5cZuoZX8OBdcKEDhbbA_RigNI_FqDoRFIkidSUyZAY1Erlsxn1pQ==",
     "salt": "-nZ0CrRIEfkTwn0QrmXcWQ==",
-    "text": "Garland Sunday (Garden Sunday, Garlic Sunday) See Lughnasa."
+    "text": "Garland Sunday is another name for a Celtic festival. Garden Sunday and Garlic Sunday are related names. The day is the first Sunday of August. It is the festival of Lughnasa on that date. The festival is named for the god Lugh. See Lughnasa for the full account.",
+    "okr": {
+        "objective": "Record Garland Sunday as an alternate name for the festival of Lughnasa.",
+        "key_results": [
+            "Garland Sunday was a name for the festival of Lughnasa.",
+            "The day fell on the first Sunday of August.",
+            "The festival was named for the god Lugh."
+        ],
+        "evidence": "s.v. LUGHNASA"
+    }
 }

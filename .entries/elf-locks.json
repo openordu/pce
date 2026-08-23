@@ -2,18 +2,30 @@
     "name": "elf-locks",
     "entities": [
         {
-            "entity": "Fairy",
-            "type": "folkloric motif"
+            "entity": "elf-locks",
+            "type": "Concept"
         },
         {
-            "entity": "human",
-            "type": "folkloric motif"
+            "entity": "fairy",
+            "type": "Being"
+        },
+        {
+            "entity": "elf",
+            "type": "Being"
         }
     ],
     "attributes": [
         {
-            "entity": "hair",
-            "attribute": "hopelessly tangled"
+            "entity": "elf-locks",
+            "attribute": "folkloric motif of tangled hair after a fairy visit"
+        },
+        {
+            "entity": "fairy",
+            "attribute": "left human hair tangled after a romantic dream"
+        },
+        {
+            "entity": "elf-locks",
+            "attribute": "named for the elves or fairies who made the knots"
         }
     ],
     "sources": [
@@ -24,5 +36,15 @@
     ],
     "cyphertext": "ZvdHDQkBuhU_-NdfzOuLWO7TXa6JiOXSRibxHwKgYOeUwn1I82miDJscZT_Ta4yv9cyYaMDsBSx5C9s1XUG8ZiZTb7nCfxqSEsQoZgjyJ6oGDZZIv5k9CdRIQTP5_FGQErqE15S2AIuGzv0YrpSJjmwXcv898tmx9aL60TFTHUWssMMRxHoVxYEj5roJOWiTPeQ7Xgwg8cGty71yfgJl_ozVMQZ6Fqs2-kqsQ0ZFK4lpxrM5_Iox22eL8eVh9RjhoCtd87poN53nGg7Aukl2BEHdM8jPbDCskrKQcIGlSAeRf0xdTNfsK6RY_Xes7f1LglqjyIDW_p7IhfZnYYnoeShyaDICCoeejlp7goDlzeF8_DB2LH0Vng04h04zGkufzWf6Pa4dQqBXehF6btAIoMaMkKnt860yz1YnzdwckfOloumrSteAByzf3M6N_jTmUgDIdAOk_Ai_0-6BxF2tDgXMThbW6q1t",
     "salt": "t4_YU7EfGk1Y222HaiGv4Q==",
-    "text": "Folkloric narratives often feature the motif of elf-locks. Fairies visiting humans during sleep would often plant dream sequences of blissful romantic encounters. However, those who were seduced in their dreams would awake to find their hair hopelessly tangled and impossible to comb out. Such playfulness was commonplace in interactions between fairies and humans, whether they occurred during waking life or dreams."
+    "text": "Elf-locks is a folkloric motif. When a fairy visited a sleeping human, the sleeper dreamed of a blissful romantic meeting. On waking, the dreamer found the hair hopelessly tangled. The knots defied every comb. Such mischief occurred when fairies and humans met, in sleep or in waking life.",
+    "okr": {
+        "objective": "Rewrite the elf-locks motif in clear prose from the source.",
+        "key_results": [
+            "Define elf-locks as a folkloric motif",
+            "Describe the fairy visit and the romantic dream",
+            "Note the hopelessly tangled hair left behind",
+            "Keep the entry brief to match its motif length"
+        ],
+        "evidence": "Monaghan, The Encyclopedia of Celtic Mythology and Folklore, 2008, s.v. elf-locks."
+    }
 }

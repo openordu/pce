@@ -1,11 +1,41 @@
 {
-    "name": "portal tombs",
-    "attributes": {},
-    "entities": [],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "cyphertext": "1kd3eGylRlhvhRMF7i9wnPpAZeSxSCAUMRtb9H-vBTHQpnU6Zpme37Fqf8iCE84i6vwoXok=",
-    "salt": "wISANDNOY5mILPcsKfmUxA==",
-    "text": "portal tombs See Dolmen."
+ "name": "portal tombs",
+ "attributes": [
+  {
+   "entity": "portal tomb",
+   "attribute": "door-like stone structure built by pre-Celtic people"
+  },
+  {
+   "entity": "portal tomb",
+   "attribute": "place where one could enter the Otherworld"
+  }
+ ],
+ "entities": [
+  {
+   "entity": "portal tomb",
+   "type": "Artifact"
+  },
+  {
+   "entity": "DOLMEN",
+   "type": "Artifact"
+  },
+  {
+   "entity": "Otherworld",
+   "type": "Concept"
+  }
+ ],
+ "sources": [
+  "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+ ],
+ "cyphertext": "1kd3eGylRlhvhRMF7i9wnPpAZeSxSCAUMRtb9H-vBTHQpnU6Zpme37Fqf8iCE84i6vwoXok=",
+ "salt": "wISANDNOY5mILPcsKfmUxA==",
+ "text": "Portal tombs are a type of prehistoric monument. The entry is a cross-reference. The full account appears under DOLMEN. A portal tomb is a door-like structure of stone. Pre-Celtic people built these monuments for reasons that are not certain. Such tombs were cross points into the Otherworld. The record of portal tombs is thin, so the dolmen entry carries the detail.",
+ "okr": {
+  "objective": "Show portal tombs as a cross-reference to the dolmen entry.",
+  "key_results": [
+   "Cross-references portal tombs to DOLMEN",
+   "Notes the portal tomb as a stone structure linked to the Otherworld"
+  ],
+  "evidence": "Monaghan 2008, s.v. 'portal tombs'."
+ }
 }

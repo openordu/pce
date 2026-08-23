@@ -3,29 +3,29 @@
     "attributes": [
         {
             "entity": "Bregon",
-            "attribute": "ancestor of the Milesians"
+            "attribute": "an Irish hero"
         },
         {
-            "entity": "Milesians",
-            "attribute": "final conquerors of the island"
+            "entity": "Bregon",
+            "attribute": "named in the Book of Invasions"
+        },
+        {
+            "entity": "Bregon",
+            "attribute": "an ancestor of the Milesians"
         }
     ],
     "entities": [
         {
             "entity": "Bregon",
-            "type": "Irish hero"
+            "type": "Person"
         },
         {
-            "entity": "Book Of Invasions",
-            "type": "Irish mythological history"
+            "entity": "Book of Invasions",
+            "type": "Title"
         },
         {
             "entity": "Milesians",
-            "type": "final conquerors"
-        },
-        {
-            "entity": "island",
-            "type": "geographical location"
+            "type": "Group"
         }
     ],
     "sources": [
@@ -36,5 +36,15 @@
     ],
     "cyphertext": "Bt2jZ688-BbL4uW4G0gexWbh7w3cCq3T-5mxkq12u4gGjXaAcZ65V_ngD1ZnwjhANYetHMDpP-_RX2j4KAVC9lEFaYP22XN3EVuGJsTcIZ954m_QY3DnR8peCokOv02Dan_IAykY9AX34r6FVL5ZHkhsyO0fWbSwUKOakeuV06twHGsqENGbZ3eTqTlmpGyRFeaJ0ITYpjbFdmaOejhW7YUZHeiyXJuAqUXH8jHTRBuHxlkY6j5sXuYEz_GnFLB6eQ==",
     "salt": "3nD6OCzijgHXUfO5NrTlnQ==",
-    "text": "Irish hero Bregon is featured in the Book of Invasions as an ancestor of the Milesians, the eventual conquerors of the island in Irish mythological history."
+    "text": "Bregon is an Irish hero. The Book of Invasions names him. That text tells Irish mythological history. He was an ancestor of the Milesians. The Milesians were the final conquerors of the island.",
+    "okr": {
+        "objective": "Describe Bregon, the Irish hero and ancestor of the Milesians.",
+        "key_results": [
+            "Bregon was an Irish hero.",
+            "The Book of Invasions names him.",
+            "He was an ancestor of the Milesians.",
+            "The Milesians were the final conquerors of the island."
+        ],
+        "evidence": "Monaghan 2008, s.v. 'Bregon'."
+    }
 }

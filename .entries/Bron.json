@@ -1,9 +1,39 @@
 {
     "name": "Bron",
-    "attributes": {},
+    "attributes": [
+        {
+            "entity": "Bron",
+            "attribute": "a cross-reference pointing to FISHER KING"
+        },
+        {
+            "entity": "Fisher King",
+            "attribute": "a hero of Grail legend"
+        },
+        {
+            "entity": "Fisher King",
+            "attribute": "sits injured in his boat and fishes"
+        },
+        {
+            "entity": "Fisher King",
+            "attribute": "left near death by a lance wound"
+        }
+    ],
     "entities": [
         {
-            "text": "Bron See"
+            "entity": "Bron",
+            "type": "Person"
+        },
+        {
+            "entity": "Fisher King",
+            "type": "Title"
+        },
+        {
+            "entity": "Grail",
+            "type": "Artifact"
+        },
+        {
+            "entity": "Percival",
+            "type": "Person"
         }
     ],
     "sources": [
@@ -14,5 +44,15 @@
     ],
     "cyphertext": "5U6zZr5GsEuDdBEyKcJsnI99EPWYzN6QjoWXywz6blDZHRJAVNkwa0XgJ2Jb3C7Rzvw=",
     "salt": "b6CUcxUiHxsyjpptrMggcw==",
-    "text": "Bron See Fisher King."
+    "text": "Bron is a cross-reference in this book. It sends the reader to the entry for FISHER KING. The Fisher King is a hero of Grail legend. He sits injured in his boat and fishes. The land around him withers and dies. A lance wound in his groin left him near death. His story appears in tales of the knight Percival.",
+    "okr": {
+        "objective": "Route the reader from Bron to the entry for the Fisher King.",
+        "key_results": [
+            "Bron is a cross-reference in this book.",
+            "It sends the reader to FISHER KING.",
+            "The Fisher King is a hero of Grail legend.",
+            "He sits injured in his boat while his land withers."
+        ],
+        "evidence": "Monaghan 2008, s.v. 'Bron'."
+    }
 }

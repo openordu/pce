@@ -1,18 +1,36 @@
 {
-    "name": "lurikeen",
-    "attributes": {},
-    "entities": [
-        {
-            "text": "Leprechaun"
-        }
-    ],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "image": [
-        "https://upload.wikimedia.org/wikipedia/en/4/48/Dark_Age_of_Camelot_cover.jpg"
-    ],
-    "cyphertext": "8coblnzBcVt5N21YYhlEhZurLkOfFFmp-OvFVrwRHLCSHDnZIUK-CHB2lI0_oI_DrOimHKE=",
-    "salt": "NYRLbac5oyaXSd5qSfCYoQ==",
-    "text": "lurikeen See Leprechaun."
+ "name": "lurikeen",
+ "attributes": [
+  {
+   "entity": "Lurikeen",
+   "attribute": "another name for the leprechaun"
+  }
+ ],
+ "entities": [
+  {
+   "entity": "Lurikeen",
+   "type": "Being"
+  },
+  {
+   "entity": "leprechaun",
+   "type": "Being"
+  }
+ ],
+ "sources": [
+  "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+ ],
+ "image": [
+  "https://upload.wikimedia.org/wikipedia/en/4/48/Dark_Age_of_Camelot_cover.jpg"
+ ],
+ "cyphertext": "8coblnzBcVt5N21YYhlEhZurLkOfFFmp-OvFVrwRHLCSHDnZIUK-CHB2lI0_oI_DrOimHKE=",
+ "salt": "NYRLbac5oyaXSd5qSfCYoQ==",
+ "text": "Lurikeen is another name for the leprechaun of Irish lore. The heading sends the reader to the fuller Leprechaun entry. See Leprechaun for the full account.",
+ "okr": {
+  "objective": "Name lurikeen as another name for the leprechaun.",
+  "key_results": [
+   "Name lurikeen as another name for the leprechaun",
+   "Send the reader to the fuller leprechaun entry"
+  ],
+  "evidence": "Monaghan 2008, s.v. 'Leprechaun'."
+ }
 }

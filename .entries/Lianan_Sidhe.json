@@ -1,15 +1,41 @@
 {
-    "name": "Lianan Sidhe",
-    "attributes": {},
-    "entities": [
-        {
-            "text": "Lianan Sidhe"
-        }
-    ],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "cyphertext": "tOtcdyZlCktYhMSLtA5XLgpGo8xzRjiEzE1zyGcKNvm3W_JGTPQT-mYl8qE3KEIO5zvYNMcD9E7auSMRTvElG0P1vhu8eEAbfg==",
-    "salt": "s_eyiXPulaSllCKUhU5LIA==",
-    "text": "Lianan Sidhe (Liannan-Shee) See Fairy Lover."
+ "name": "Lianan Sidhe",
+ "attributes": [
+  {
+   "entity": "Lianan Sidhe",
+   "attribute": "a fairy lover in Irish lore"
+  },
+  {
+   "entity": "Lianan Sidhe",
+   "attribute": "also written Liannan-Shee"
+  },
+  {
+   "entity": "Fairy Lover",
+   "attribute": "the fuller topic this marker leads to"
+  }
+ ],
+ "entities": [
+  {
+   "entity": "Lianan Sidhe",
+   "type": "Being"
+  },
+  {
+   "entity": "Fairy Lover",
+   "type": "Concept"
+  }
+ ],
+ "sources": [
+  "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+ ],
+ "cyphertext": "tOtcdyZlCktYhMSLtA5XLgpGo8xzRjiEzE1zyGcKNvm3W_JGTPQT-mYl8qE3KEIO5zvYNMcD9E7auSMRTvElG0P1vhu8eEAbfg==",
+ "salt": "s_eyiXPulaSllCKUhU5LIA==",
+ "text": "Lianan Sidhe is the name for a fairy lover in Irish lore, also written Liannan-Shee. The term points to a fairy mistress or a fairy bride who pairs with a human. This page is a short marker that leads to the fuller entry for Fairy Lover. The record keeps the name as a cross-reference to that topic.",
+ "okr": {
+  "objective": "Keep the fairy lover Lianan Sidhe as a short cross-reference.",
+  "key_results": [
+   "State the name as an Irish fairy lover.",
+   "Link it to the fuller Fairy Lover topic."
+  ],
+  "evidence": "Monaghan 2008, s.v. 'Lianan Sidhe'."
+ }
 }

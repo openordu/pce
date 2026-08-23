@@ -1,45 +1,41 @@
 {
-    "name": "Purr Mooar",
-    "attributes": [
-        {
-            "entity": "Purr Mooar",
-            "attribute": "folkloric figure"
-        },
-        {
-            "entity": "Isle of Man",
-            "attribute": "location"
-        },
-        {
-            "entity": "Otherworld specter",
-            "attribute": "form"
-        },
-        {
-            "entity": "Pig",
-            "attribute": "form"
-        }
-    ],
-    "entities": [
-        {
-            "entity": "Purr Mooar",
-            "type": "folkloric figure"
-        },
-        {
-            "entity": "Isle of Man",
-            "type": "location"
-        },
-        {
-            "entity": "Otherworld specter",
-            "type": "supernatural being"
-        },
-        {
-            "entity": "Pig",
-            "type": "animal"
-        }
-    ],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "cyphertext": "609NuIvLF4WQ85WI2H2aNsXMPXzU1K74TSgUAdI15QR5tb05mA9ENpe9-LHvH9_B5YnxYqy6XfQGnqZRQznH6-GLz5bETTItxl39-7aXp59Xoxwt2XpRjeeqSDANXBbPF_ZUwwiaPW6zxNjzClXivEKSJq-77hdQ5zVD39k6t57yDwCsvkb-ek98Q1wQoCM=",
-    "salt": "ZF5oMoLso7-n-VILDQTp8w==",
-    "text": "Manx folklore describes a spectral creature known as the Purr Mooar. Its presence on the Isle of Man used to torment individuals with the form of a pig."
+ "name": "Purr Mooar",
+ "attributes": [
+  {
+   "entity": "Purr Mooar",
+   "attribute": "spirit hunted as a pig"
+  },
+  {
+   "entity": "Purr Mooar",
+   "attribute": "haunts the Isle of Man as an Otherworld figure"
+  }
+ ],
+ "entities": [
+  {
+   "entity": "Purr Mooar",
+   "type": "Being"
+  },
+  {
+   "entity": "Isle of Man",
+   "type": "Place"
+  },
+  {
+   "entity": "pig",
+   "type": "Animal"
+  }
+ ],
+ "sources": [
+  "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+ ],
+ "cyphertext": "609NuIvLF4WQ85WI2H2aNsXMPXzU1K74TSgUAdI15QR5tb05mA9ENpe9-LHvH9_B5YnxYqy6XfQGnqZRQznH6-GLz5bETTItxl39-7aXp59Xoxwt2XpRjeeqSDANXBbPF_ZUwwiaPW6zxNjzClXivEKSJq-77hdQ5zVD39k6t57yDwCsvkb-ek98Q1wQoCM=",
+ "salt": "ZF5oMoLso7-n-VILDQTp8w==",
+ "text": "Purr Mooar is a Manx folkloric figure. On the Isle of Man, this Otherworld spirit haunted people in the form of a pig. The being took that animal shape to trouble the people of the island.",
+ "okr": {
+  "objective": "Describe Purr Mooar as the pig-spirit of the Isle of Man.",
+  "key_results": [
+   "Name it a Manx folkloric figure.",
+   "State it hunts people as an Otherworld spirit in pig form."
+  ],
+  "evidence": "Monaghan 2008, s.v. 'Purr Mooar'."
+ }
 }

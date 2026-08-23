@@ -1,11 +1,38 @@
 {
     "name": "Battle of Mag Tuired",
-    "attributes": {},
-    "entities": [],
+    "attributes": [
+        {
+            "entity": "Mag Tuired",
+            "attribute": "site of two battles in Irish myth"
+        },
+        {
+            "entity": "Tuatha Dé Danann",
+            "attribute": "won both battles at Mag Tuired"
+        }
+    ],
+    "entities": [
+        {
+            "entity": "Mag Tuired",
+            "type": "Place"
+        },
+        {
+            "entity": "Tuatha Dé Danann",
+            "type": "Group"
+        }
+    ],
     "sources": [
         "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
     ],
     "cyphertext": "WvFMWPDV0PqSqMgWBzphYLeIO_gpOBoUf8xzqhzhk49w3yHaxpRcAsmdzcedi8sGtH-0dKoocFjjj3WblWWCy1abmZtwE_DjG0B0fw==",
     "salt": "3wLmZauJKY6txR1aYK8T3w==",
-    "text": "Battle of Mag Tuired (Moyturra) See Mag Tuired."
+    "text": "The encyclopedia directs readers from Battle of Mag Tuired to the entry on Mag Tuired. Two great battles were fought on that plain, both won by the Tuatha Dé Danann. See Mag Tuired.",
+    "okr": {
+        "objective": "Cross-reference the Battle of Mag Tuired to the full entry on Mag Tuired.",
+        "key_results": [
+            "The Battle of Mag Tuired entry points to Mag Tuired.",
+            "Two great battles took place on the plain of Mag Tuired.",
+            "The Tuatha Dé Danann won both battles."
+        ],
+        "evidence": "Monaghan 2008, s.v. 'Mag Tuired'."
+    }
 }

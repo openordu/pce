@@ -2,42 +2,30 @@
     "name": "Elphin",
     "entities": [
         {
-            "entity": "Elphin",
-            "type": "person"
+            "type": "Person",
+            "entity": "Elphin"
         },
         {
-            "entity": "child",
-            "type": "person"
+            "type": "Person",
+            "entity": "Taliesin"
         },
         {
-            "entity": "Taliesin",
-            "type": "person"
-        },
-        {
-            "entity": "filial devotion",
-            "type": "attribute"
-        },
-        {
-            "entity": "foster son",
-            "type": "relationship"
+            "type": "Deity",
+            "entity": "Ceridwen"
         }
     ],
     "attributes": [
         {
             "entity": "Elphin",
-            "attribute": "never completely reformed"
+            "attribute": "the foster father of Taliesin"
+        },
+        {
+            "entity": "Taliesin",
+            "attribute": "found in the pond, the boy of the poet"
         },
         {
             "entity": "Elphin",
-            "attribute": "occasionally needed to be rescued"
-        },
-        {
-            "entity": "Taliesin",
-            "attribute": "repaid Elphin with filial devotion"
-        },
-        {
-            "entity": "Taliesin",
-            "attribute": "willingly obliged to rescue Elphin"
+            "attribute": "brought the child up and was rescued by him"
         }
     ],
     "sources": [
@@ -45,5 +33,14 @@
     ],
     "cyphertext": "V2d9q8mMu5NJaJY9Bx7WymnQPvc0HHibOyVv5uj0VNcPuH3tcgO4YtiJTAhYh1OpAyGNpN_DYw1_QwVpiZtAIuw6-srbG7jxvJcRlah63uRLZnqPyh2lLMl-0XoU8Wkq2Eg64IOxcAP6Rh7he6JhBQEnEqKcv9TQXEGoSZwY-eQztLS8EvT6TefFXz0RJfzv6V07CScZG-NuvC3fGqXULPVsbLN2V5nDAdwTqedoe7ZnAojWlZYbKqowK7W5qHUo0neQdv9fz2JiLWddVcSAzckx52vYyuuaGERoosVjdeHygi3CH-wBx8wSTYwuMqCIfP7sQ2gQripvuJj6cGAmZb-BNfjMtl06Y4a9B_-s8fkMdzLbrBGiTsxEb2XRmLzsTw2Ll9isG0c1kfwfOSkUjOkqLfV2OmGP1MgcY94vY5I8hDy8URNqx18wLaiJ_QgUowAjJ7LeYeuDyzUN_psCkyxnYlQq7FK9yRiPl14Y-yhh2OkjH_1MIrmEPAUupWTFZQRLSSpyA47nsTpQrsJ8NFXPWLewMs7691_DpNPxC8_W17_y7yYPOAdA7lshUA98z9k7fGA31fow5sxPkTNLxbc5Fro6TBD_ixu5pHQh4i49J86VK9Aqk7e4oZsU0qdDKgb0M8M7LdsLH-ypX7i9dAgkn7DmvC4Hn2FnwGhaTAuE14XKEEnf0F9zijFg1Gbps3vpjBnYjzaL4FkBCKb0tomn1N1ICWtUGEF7wyxDt_Tqp6UumOs8zGbaNGuydf_3VBNP1rN78LDJzNip7XKOV6mzKfkFt-t75qKwZBcj6byRZ_o4PDPoAG_bd7_kDE9EXNMpgRksVrBWa-ZV3gsPUuWsD55XEuR8nDGECSQqAidTviEQQQQKYhyvR4hT5TCZZyqoDTWxo69CuYKLXlLc9eJCbFi65GtSj0HWSPmoL2dbm9xea3xvwsgej1y749iiYCvP4Ji_NxpgQRwj5u3r3JwnCJmSNkGsBPQz-FcOJZSxO3VDOy5V9bdemeTyzqJ74wK4L7vP44crF9pP2JK9bZlG_pXKVlSk6NsFDHAkFDf1aqabo777h3gqLsHsyfB48POsJMIQgbF0G0kFsEROSrFA8Geu5XcXWtuioJdxTHXQbfswOga409eOEN63qV38hBbdQMk=",
     "salt": "ja2l_iq_sDiUw35HYrFc0A==",
-    "text": "Elphin, a Welsh hero, was not the most competent individual and had a tendency to find himself in trouble. His father realized this when he discovered that Elphin was spending his inheritance without any thought for the future. As a result, Elphin's father sent him to a fish-weir and informed him that his future wealth would come exclusively from water. On that very day, Taliesin - the famed Welsh poet who had been reborn and had accidentally consumed a magical fluid, making him incomparably wise while he was a servant boy in the home of the goddess Ceridwen - was recovered from the sea, where he had been thrown at birth. Elphin took the child home and raised him with love, and Taliesin demonstrated his gratitude by showing him immense filial devotion. Despite this, Elphin was never able to completely reform his ways and occasionally required rescue from his foster son, who was happy to oblige."
+    "text": "Elphin, also spelled Elffin, is a Welsh hero. He is the foster father of the great poet Taliesin. His own father sent him to a fish weir, and told him that there his fortune must be found. In the water he brought up the child Taliesin, a boy reborn and full of light from the sea. Elphin took the boy home and raised him with love. The boy repaid him with affection. He often drew Elphin out of danger that his own faults had brought on.",
+    "okr": {
+        "objective": "Rewrite the Elphin entry as clean prose.",
+        "key_results": [
+            "the fish weir and the foster bond appear",
+            "typed entities cover father and poet and the goddess",
+            "text is more than one hundred and fifty characters"
+        ],
+        "evidence": "Monaghan, The Encyclopedia of Celtic Mythology and Folklore, 2008"
+    }
 }

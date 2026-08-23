@@ -1,18 +1,36 @@
 {
-    "name": "Laudine",
-    "attributes": {},
-    "entities": [
-        {
-            "text": "Fountain"
-        }
-    ],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "image": [
-        "https://upload.wikimedia.org/wikipedia/commons/7/75/Burne-Jones%2C_Edward_Owain-departs-from-landine.jpg"
-    ],
-    "cyphertext": "PRpqgOzGet5AMxJo8j9VdiVjoQBBvlQYWoSvBiOzeCYqzz1pGfosuujX_WS52EA7Bb0sl8Em8xK1dugA4PU=",
-    "salt": "rdfsHjivL-pVqcEzxizhMg==",
-    "text": "Laudine See Lady Of The Fountain."
+ "name": "Laudine",
+ "attributes": [
+  {
+   "entity": "Laudine",
+   "attribute": "the Lady of the Fountain"
+  }
+ ],
+ "entities": [
+  {
+   "entity": "Laudine",
+   "type": "Person"
+  },
+  {
+   "entity": "Lady of the Fountain",
+   "type": "Person"
+  }
+ ],
+ "sources": [
+  "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+ ],
+ "image": [
+  "https://upload.wikimedia.org/wikipedia/commons/7/75/Burne-Jones%2C_Edward_Owain-departs-from-landine.jpg"
+ ],
+ "cyphertext": "PRpqgOzGet5AMxJo8j9VdiVjoQBBvlQYWoSvBiOzeCYqzz1pGfosuujX_WS52EA7Bb0sl8Em8xK1dugA4PU=",
+ "salt": "rdfsHjivL-pVqcEzxizhMg==",
+ "text": "Laudine is a name in the Arthurian tales. She is the Lady of the Fountain. The entry sends the reader to the Lady of the Fountain. She is the wife of the Black Knight and of Owein.",
+ "okr": {
+  "objective": "Point the reader to the Lady of the Fountain.",
+  "key_results": [
+   "Laudine is the Lady of the Fountain.",
+   "The reader is sent to that entry."
+  ],
+  "evidence": "Monaghan 2008, s.v. 'Laudine'."
+ }
 }

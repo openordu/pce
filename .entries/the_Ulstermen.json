@@ -1,11 +1,67 @@
 {
-    "name": "the Ulstermen",
-    "attributes": {},
-    "entities": [],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "cyphertext": "M5ylkY5TNQZbZUglCY-bCSZJgofhoVcoaEaiLcZcbx-p4IKcHvW6ISFH2yHiQTKqv6LfXBAsLr7sIjcRuPt5MWpCEYNXkspBLSI79WrvlCoftCH8LL2TWZ38",
-    "salt": "oTRl23C6t-Rw9AyRq0Z4lg==",
-    "text": ""
+ "name": "the Ulstermen",
+ "attributes": [
+  {
+   "entity": "Macha",
+   "attribute": "cursed the men of Ulster with the Debility"
+  },
+  {
+   "entity": "Ulstermen",
+   "attribute": "chief figures of the Ulster Cycle"
+  },
+  {
+   "entity": "Cuchulainn",
+   "attribute": "not born of Ulster blood and exempt from the curse"
+  }
+ ],
+ "entities": [
+  {
+   "entity": "Ulstermen",
+   "type": "Group"
+  },
+  {
+   "entity": "Ulster",
+   "type": "Place"
+  },
+  {
+   "entity": "Ulster Cycle",
+   "type": "Text"
+  },
+  {
+   "entity": "Macha",
+   "type": "Person"
+  },
+  {
+   "entity": "Conchobar Mac Nessa",
+   "type": "Person"
+  },
+  {
+   "entity": "Medb",
+   "type": "Person"
+  },
+  {
+   "entity": "Cuchulainn",
+   "type": "Person"
+  },
+  {
+   "entity": "Donn Cuailnge",
+   "type": "Being"
+  }
+ ],
+ "sources": [
+  "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+ ],
+ "cyphertext": "M5ylkY5TNQZbZUglCY-bCSZJgofhoVcoaEaiLcZcbx-p4IKcHvW6ISFH2yHiQTKqv6LfXBAsLr7sIjcRuPt5MWpCEYNXkspBLSI79WrvlCoftCH8LL2TWZ38",
+ "salt": "oTRl23C6t-Rw9AyRq0Z4lg==",
+ "text": "The Ulstermen are the people of Ulster, the northern province of Ireland. They are the chief figures of the Ulster Cycle. That group of tales is one of the most renowned in Irish literature. The cycle opens with Macha, a goddess betrayed by her husband. He laid a wager that she could outdistance the royal mounts of King Conchobar Mac Nessa. She won the race though she was near to giving birth to twins. As she died, Macha cursed the men of Ulster. They would fall into intense pain whenever invasion threatened. The sources call this weakness the Debility of the Ulstermen. The province lay open to attack. Queen Medb of Connacht exploited that when she marched to seize the bull Donn Cuailnge. The hero Cuchulainn held her armies back. He was not born of Ulster blood, so he stood outside the curse.",
+ "okr": {
+  "objective": "Record the people of Ulster and their curse.",
+  "key_results": [
+   "The Ulstermen dominate the tales of the Ulster Cycle",
+   "Macha cursed the men to pain when invasion threatened",
+   "Medb's armies entered the province after the curse",
+   "Cuchulainn held them back as he was not of Ulster blood"
+  ],
+  "evidence": "Monaghan 2008, s.v. 'the Ulstermen' and 'Debility of the Ulstermen'."
+ }
 }

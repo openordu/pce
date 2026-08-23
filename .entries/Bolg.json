@@ -1,9 +1,51 @@
 {
     "name": "Bolg",
-    "attributes": {},
+    "attributes": [
+        {
+            "entity": "Bolg",
+            "attribute": "a cross reference to the Fir Bolg"
+        },
+        {
+            "entity": "Fir Bolg",
+            "attribute": "the old Nemedians under a new name"
+        },
+        {
+            "entity": "Tuatha Dé Danann",
+            "attribute": "defeated the Fir Bolg and the Fomorians"
+        },
+        {
+            "entity": "Tuatha Dé Danann",
+            "attribute": "the people of the goddess Danu"
+        },
+        {
+            "entity": "Milesians",
+            "attribute": "later took the land of Ireland"
+        }
+    ],
     "entities": [
         {
-            "text": "Bolg See"
+            "entity": "Fir Bolg",
+            "type": "Group"
+        },
+        {
+            "entity": "Nemedians",
+            "type": "Group"
+        },
+        {
+            "entity": "Tuatha Dé Danann",
+            "type": "Group"
+        },
+        {
+            "entity": "Danu",
+            "type": "Deity"
+        },
+        {
+            "entity": "Fomorians",
+            "type": "Group"
+        },
+        {
+            "entity": "Milesians",
+            "type": "Group"
         }
     ],
     "sources": [
@@ -11,5 +53,15 @@
     ],
     "cyphertext": "_sQ2Giu8ol8agwvB-oXWmLoBlpy2YgjJikqBs-E9R4iVHzaVDw4-6RdO723BrZI=",
     "salt": "RllYYvqtLBBoxDQC_kgVVA==",
-    "text": "Bolg See Fir Bolg."
+    "text": "Bolg is a cross reference in this book. The reader should look to Fir Bolg. The Fir Bolg were an Irish race of legend. They were the Nemedians under a new name. They returned to Ireland after years of bondage. The Tuatha De Danann then landed among them. These people were the folk of the goddess Danu. They defeated the Fir Bolg and the rest of the Fomorians. Later the Sons of Moles took the land in turn.",
+    "okr": {
+        "objective": "Route the reader from Bolg to the Fir Bolg race.",
+        "key_results": [
+            "Bolg is a cross reference entry.",
+            "The Fir Bolg were the Nemedians under a new name.",
+            "They regained Ireland after years in bondage.",
+            "The Tuatha Dé Danann eventually defeated them."
+        ],
+        "evidence": "Monaghan 2008, s.v. 'Bolg'."
+    }
 }

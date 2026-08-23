@@ -1,31 +1,27 @@
 {
-    "name": "Eochaid I\u00fail",
+    "name": "Eochaid Iúil",
     "attributes": [
         {
-            "entity": "Eochaid I\u00fail",
-            "attribute": "god of the Otherworld"
+            "entity": "Eochaid Iúil",
+            "attribute": "a god of the Otherworld"
         },
         {
-            "entity": "Eochaid I\u00fail",
-            "attribute": "husband to the fairy queen Fand"
-        },
-        {
-            "entity": "fairy queen Fand",
-            "attribute": "wife of Eochaid I\u00fail"
+            "entity": "Fand",
+            "attribute": "a fairy queen whom some texts name his wife"
         }
     ],
     "entities": [
         {
-            "entity": "Eochaid I\u00fail",
-            "type": "god"
+            "entity": "Eochaid Iúil",
+            "type": "Deity"
         },
         {
             "entity": "Otherworld",
-            "type": "place"
+            "type": "Place"
         },
         {
-            "entity": "fairy queen Fand",
-            "type": "fairy"
+            "entity": "Fand",
+            "type": "Deity"
         }
     ],
     "sources": [
@@ -33,5 +29,14 @@
     ],
     "cyphertext": "tuQo2rvWjfUGz60g4y2wRXkELg68eKS1V0z5jeYArJLoSXeF0W7_ZrGiiftfjfJ5lV2-Y2-zhP8OQNbAVOCPfPpM_9gYxKJCF5U2wligtvUDLsFIfGsJ6KCssxETI4zdVHrJMhUwJT1nzEbP5NtNlBN0CZfrYqG4_qI=",
     "salt": "cp9TxI9hucINhpinDwc0oA==",
-    "text": "God of the Otherworld and, in certain written works, spouse of the fairy monarch Fand is Eochaid I\u00fail."
+    "text": "Eochaid Iúil is a god of the Otherworld. In some texts he stands as the husband of the fairy queen Fand. He belongs to the shadowy band of rulers who sit beyond the mortal world. His name is one of several borne by the Eochaid figures of Irish myth. The texts that pair him with Fand set him among the sovereign powers of the hidden realm.",
+    "okr": {
+        "objective": "Rewrite the Eochaid Iúil entry in clean prose.",
+        "key_results": [
+            "the text names him a god of the Otherworld",
+            "typed entities cover the god, the realm, and Fand",
+            "text is longer than one hundred and fifty characters"
+        ],
+        "evidence": "Monaghan, The Encyclopedia of Celtic Mythology and Folklore, 2008"
+    }
 }

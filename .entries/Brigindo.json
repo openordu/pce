@@ -3,25 +3,29 @@
     "entities": [
         {
             "entity": "Brigindo",
-            "type": "Celtic goddess"
+            "type": "Deity"
         },
         {
-            "entity": "Continental Celtic",
-            "type": "culture"
+            "entity": "Brigit",
+            "type": "Deity"
+        },
+        {
+            "entity": "Imbolc",
+            "type": "Event"
         }
     ],
     "attributes": [
         {
             "entity": "Brigindo",
-            "attribute": "protector goddess"
+            "attribute": "a name variant of the goddess Brigit"
         },
         {
-            "entity": "Brigindo",
-            "attribute": "invoked to assure abundance of crops"
+            "entity": "Brigit",
+            "attribute": "a divinity who appears in many places"
         },
         {
-            "entity": "Continental Celtic",
-            "attribute": "obscure"
+            "entity": "Imbolc",
+            "attribute": "the feast day of Brigit, on February 1"
         }
     ],
     "sources": [
@@ -32,5 +36,15 @@
     ],
     "cyphertext": "NDNOfpj2QlyXLe94nM8jrY4eDmImdACq-vuPEGQXYZ_tAYpYuIXXveqxHSktSsehBRB1-xUWXs8XDU2jWr1EBOwPKnEkMEYoerocAnKbI2Hc7_VOclaurlcSAh5o6ErEkuB2ZBQHpEb5_nvbrFsFWj5QkwwzPJoFbtsuClU_ntQQbUiktLzViw==",
     "salt": "Uk1vpxcf9kUgM9bVcwduwQ==",
-    "text": "Celtic goddess Brigindo is known as a protector goddess in Continental Celtic culture. Her role is to guarantee an ample harvest of crops. She is not widely mentioned in historical text."
+    "text": "Brigindo is a name variant of the goddess Brigit. Her variants include Brig, Bride, and Brixia. Brigit stood out among Celtic gods. She appeared in many places. Her feast day is Imbolc, falling on February 1. Ireland still celebrates that day.",
+    "okr": {
+        "objective": "Describe Brigindo as a name variant of the goddess Brigit.",
+        "key_results": [
+            "Brigindo is a name variant of the goddess Brigit.",
+            "The variants include Brig, Bride, and Brixia.",
+            "Brigit appeared in many places across the Celtic world.",
+            "Her feast day Imbolc falls on February 1."
+        ],
+        "evidence": "Monaghan 2008, s.v. 'Brigindo'."
+    }
 }

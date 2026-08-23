@@ -1,41 +1,37 @@
 {
-    "name": "powrie",
-    "attributes": [
-        {
-            "entity": "powrie",
-            "attribute": "noisy spirits"
-        },
-        {
-            "entity": "old buildings and towers",
-            "attribute": "places where powrie set up a racket"
-        },
-        {
-            "entity": "noise",
-            "attribute": "growing impossibly loud"
-        },
-        {
-            "entity": "death or ill fortune",
-            "attribute": "approaching the hearer"
-        }
-    ],
-    "entities": [
-        {
-            "entity": "powrie",
-            "type": "folkloric figure"
-        },
-        {
-            "entity": "Scottish",
-            "type": "nationality"
-        },
-        {
-            "entity": "British",
-            "type": "nationality"
-        }
-    ],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "cyphertext": "KjqrSpJ2ZSeO6fe5YMM3Y7y_OdS7--mpfISPuaof18GCoyvXB3Z3h_ibX6WSKPsl0UxIQVrhVw881KHHXnBVBOpibTeAMf3C-PmE28k8r19hzoV7vIGzTmZLWEHGq_dvjkM5jrafNrSCqUIcZs36a0CumsP4syBM2FxA2aYRh2UPuNdqur-hpuP7zveVr4mSVSOYnucb_A3XF0evrLlmPPAssroYe1lodU37byxGBP4hdOWVM4QbXzUaLhHVwHt2-k53Hrcrm5xhbgd6WnJHnHxghmqZgXYxOXzMrctY1S5sLa-ALICggwE4CQ==",
-    "salt": "u5p2cn9AoHIUK9zkmnSRmg==",
-    "text": "Scholars have chronicled the existence of Powries (Dunters), which are considered as folkloric figures in Scotland and Britain. These entities are known for making loud noises in old edifices and towers. According to lore, the intensity of the sounds created by Powries would indicate the proximity of death or bad luck to those who hear them."
+ "name": "powrie",
+ "attributes": [
+  {
+   "entity": "powrie",
+   "attribute": "noisy spirit that racks old buildings and towers"
+  },
+  {
+   "entity": "powrie",
+   "attribute": "loud noise warned of death or ill fortune"
+  }
+ ],
+ "entities": [
+  {
+   "entity": "powrie",
+   "type": "Being"
+  },
+  {
+   "entity": "dunter",
+   "type": "Being"
+  }
+ ],
+ "sources": [
+  "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+ ],
+ "cyphertext": "KjqrSpJ2ZSeO6fe5YMM3Y7y_OdS7--mpfISPuaof18GCoyvXB3Z3h_ibX6WSKPsl0UxIQVrhVw881KHHXnBVBOpibTeAMf3C-PmE28k8r19hzoV7vIGzTmZLWEHGq_dvjkM5jrafNrSCqUIcZs36a0CumsP4syBM2FxA2aYRh2UPuNdqur-hpuP7zveVr4mSVSOYnucb_A3XF0evrLlmPPAssroYe1lodU37byxGBP4hdOWVM4QbXzUaLhHVwHt2-k53Hrcrm5xhbgd6WnJHnHxghmqZgXYxOXzMrctY1S5sLa-ALICggwE4CQ==",
+ "salt": "u5p2cn9AoHIUK9zkmnSRmg==",
+ "text": "The powrie, or dunter, is a noisy Scottish and British folk figure. Powries set up a racket in old buildings and towers. A swelling clamor marked approaching death or ill fortune for the hearer. The powrie is a house spirit whose noise warns of coming misfortune.",
+ "okr": {
+  "objective": "Describe the powrie as a noisy warning spirit.",
+  "key_results": [
+   "Characterizes the powrie as a Scottish and British racket-making spirit",
+   "Links its loudest noise to approaching death or ill fortune"
+  ],
+  "evidence": "Monaghan 2008, s.v. 'powrie'."
+ }
 }

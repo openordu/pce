@@ -3,57 +3,49 @@
     "attributes": [
         {
             "entity": "Gaheris",
-            "attribute": "Son of king Lot of Orkney and Morgause"
+            "attribute": "was a son of King Lot of Orkney and Morgause"
         },
         {
             "entity": "Morgause",
-            "attribute": "Half-sister of king Arthur"
+            "attribute": "was the half-sister of Arthur and mother of Mordred"
         },
         {
-            "entity": "Morgause",
-            "attribute": "Gave birth to Arthur\u2019s illegitimate son and implacable enemy, Mordred"
+            "entity": "Lancelot",
+            "attribute": "killed Gaheris while saving Guinevere from burning"
         },
         {
-            "entity": "LANCELot",
-            "attribute": "Killed Gaheris"
-        },
-        {
-            "entity": "Guinevere",
-            "attribute": "Rescued by LANCELot from execution by burning"
+            "entity": "Gaheris",
+            "attribute": "died in the rescue of Queen Guinevere"
         }
     ],
     "entities": [
         {
             "entity": "Gaheris",
-            "type": "Arthurian hero"
-        },
-        {
-            "entity": "Orkney",
-            "type": "Location"
+            "type": "Person"
         },
         {
             "entity": "Lot",
-            "type": "King"
+            "type": "Person"
         },
         {
             "entity": "Morgause",
-            "type": "Half-sister"
+            "type": "Person"
         },
         {
             "entity": "Arthur",
-            "type": "King"
+            "type": "Person"
         },
         {
             "entity": "Mordred",
-            "type": "Illegitimate son and implacable enemy"
+            "type": "Person"
         },
         {
-            "entity": "LANCELot",
-            "type": "Arthurian hero"
+            "entity": "Lancelot",
+            "type": "Person"
         },
         {
             "entity": "Guinevere",
-            "type": "Queen"
+            "type": "Person"
         }
     ],
     "sources": [
@@ -64,5 +56,14 @@
     ],
     "cyphertext": "KO27Dp3mtDUqH5RAUE7N-cf0rVr6RHeJbk3GbZq2RU_qrGolEDYpSpobHpoA-2KeEN_woop1yYmvxDj2S7CecvPbu2BWdFjyzBYGdjGUGXxC2gCcrO0gKcTIjh-TI5TxskieGE-zPI-ntgTIdjt-AJBMuV1a0uKap4Cf9zWxr3q1HsGqxRSPK5dn-ranLmX4NHBHPDi86_BhxbcB8delfIIopxwpCaIhZQK8614LrMv570n5HBerx1p3F4KCfPgRBN1gqtjA7RsqHzffmmYhy3hFkJxpMrwkjUuYsBV2_oqwDtzsmASagtk_QihR4xfthhRVxzg1ScwMfJYPbzAwFTIfz8RvEEPYFWYia-8lS-qK8M6vdEfI6E60AwpBNQjJDgXM64qfHQk5lPnaoNHgMMkfZ_3bF4v1lO-ILuBJHfvpSdp-9QA49-gZmMQ5Ifjr2e7fig==",
     "salt": "K_uHpnS3chS-1IF6QIIWIw==",
-    "text": "Gaheris of Orkney was a heroic figure in Arthurian legend. He was the progeny of King Lot of Orkney and Morgause, who was both King Arthur's half-sister and the mother of Mordred, Arthur's illegitimate son and sworn adversary. During the rescue of queen Guinevere from a fiery execution, Lancelot killed Gaheris alongside others."
+    "text": "Gaheris of Orkney was an Arthurian hero. He was a son of King Lot of Orkney and Morgause. Morgause was the half-sister of King Arthur. She also bore Mordred, Arthur's illegitimate son and tireless enemy. Lancelot killed Gaheris while rescuing Queen Guinevere from death by burning. Gaheris was one of the knights who died in that rescue.",
+    "okr": {
+        "objective": "Record Gaheris of Orkney as an Arthurian hero and son of Lot and Morgause.",
+        "key_results": [
+            "Name Gaheris as a son of Lot and Morgause.",
+            "Connect Morgause to Arthur and to her son Mordred.",
+            "Describe Lancelot killing Gaheris during Guinevere's rescue."
+        ],
+        "evidence": "Monaghan, The Encyclopedia of Celtic Mythology and Folklore, 2008."
+    }
 }

@@ -1,52 +1,54 @@
 {
-    "name": "badger",
-    "attributes": [
-        {
-            "entity": "badger",
-            "attribute": "Symbolic animal"
-        },
-        {
-            "entity": "badger",
-            "attribute": "Shape-Shifting person"
-        },
-        {
-            "entity": "Tadg",
-            "attribute": "Irish hero"
-        },
-        {
-            "entity": "Tadg",
-            "attribute": "found badger meat revolting"
-        },
-        {
-            "entity": "badger",
-            "attribute": "cousins of Tadg"
-        }
-    ],
-    "entities": [
-        {
-            "entity": "badger",
-            "type": "animal"
-        },
-        {
-            "entity": "Seal",
-            "type": "animal"
-        },
-        {
-            "entity": "Tadg",
-            "type": "person"
-        },
-        {
-            "entity": "Irish",
-            "type": "nationality"
-        }
-    ],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "image": [
-        "https://upload.wikimedia.org/wikipedia/commons/7/7f/Badger_laying_on_ground._-_DPLA_-_0335977b4d1504edc799834081ca4fd5.jpg"
-    ],
-    "cyphertext": "AL-XtjpG7XrE60RVEO6R5KlLFD2jliSsCl-EtFyWPt9sdpFeN1DoIaYJdqaIAv9XElDqR9hgTcWKQJH_AZK2WuJnWYuUBeTFoDVLOIJ9go1DyyqtOrGMmnwzhBXuM3S5txFF19sVMpo7UXqTOGbb4IPiQt8VcQUdJYo9VNJu-QD43FBUVyEhFow2j3x0CohUupzdyGEcAdBxUH5mLwsGUpsH4cCQ_Cb0McbTZUbTBr1XWV6_zm90u9tpBhuKc8QKrCZWbJUYX2rpc3CetyUZd7JDUPe1773Zs8nfDl7uEPRsviQD",
-    "salt": "BEzLVqJKZ61l2RAFkCA0fQ==",
-    "text": "Symbolic animal, the badger was sometimes viewed as a shape-shifting being, similar to the Seal. The meat of the badger was found to be repulsive by the Irish hero Tadg. Unbeknownst to him, the badger was actually his kin."
+ "text": "The badger is a symbolic animal in Celtic mythology. It was seen as a shape-shifting person, much like the seal. The Irish hero Tadg found badger meat revolting. He did not understand why it disgusted him. The truth is that the badgers were his own kin. Their power to change form tied them to him. He shunned them without knowing of the bond.",
+ "entities": [
+  {
+   "entity": "badger",
+   "type": "Animal"
+  },
+  {
+   "entity": "Seal",
+   "type": "Animal"
+  },
+  {
+   "entity": "Tadg",
+   "type": "Person"
+  }
+ ],
+ "attributes": [
+  {
+   "entity": "badger",
+   "attribute": "symbolic animal"
+  },
+  {
+   "entity": "badger",
+   "attribute": "seen as a shape-shifting person like the seal"
+  },
+  {
+   "entity": "Tadg",
+   "attribute": "Irish hero who found badger meat revolting"
+  },
+  {
+   "entity": "badger",
+   "attribute": "were the kin of Tadg"
+  }
+ ],
+ "okr": {
+  "objective": "The badger is a Celtic shape-shifting animal whose hidden kinship with the hero Tadg mirrors the seal.",
+  "key_results": [
+   "The badger is a symbolic animal in Celtic tradition",
+   "The badger was seen, like the seal, as a shape-shifting person",
+   "The Irish hero Tadg found badger meat revolting",
+   "The badgers were really Tadg's kin"
+  ],
+  "evidence": "Monaghan 2008, s.v. 'badger'."
+ },
+ "image": [
+  "https://upload.wikimedia.org/wikipedia/commons/7/7f/Badger_laying_on_ground._-_DPLA_-_0335977b4d1504edc799834081ca4fd5.jpg"
+ ],
+ "cyphertext": "AL-XtjpG7XrE60RVEO6R5KlLFD2jliSsCl-EtFyWPt9sdpFeN1DoIaYJdqaIAv9XElDqR9hgTcWKQJH_AZK2WuJnWYuUBeTFoDVLOIJ9go1DyyqtOrGMmnwzhBXuM3S5txFF19sVMpo7UXqTOGbb4IPiQt8VcQUdJYo9VNJu-QD43FBUVyEhFow2j3x0CohUupzdyGEcAdBxUH5mLwsGUpsH4cCQ_Cb0McbTZUbTBr1XWV6_zm90u9tpBhuKc8QKrCZWbJUYX2rpc3CetyUZd7JDUPe1773Zs8nfDl7uEPRsviQD",
+ "salt": "BEzLVqJKZ61l2RAFkCA0fQ==",
+ "sources": [
+  "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+ ],
+ "name": "badger"
 }

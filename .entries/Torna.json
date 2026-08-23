@@ -1,45 +1,42 @@
 {
-    "name": "Torna",
-    "attributes": [
-        {
-            "entity": "Torna",
-            "attribute": "minor character"
-        },
-        {
-            "entity": "Niall of the Nine Hostages",
-            "attribute": "baby"
-        },
-        {
-            "entity": "Niall of the Nine Hostages",
-            "attribute": "prophesied a great future"
-        },
-        {
-            "entity": "Cairenn",
-            "attribute": "mother"
-        }
-    ],
-    "entities": [
-        {
-            "entity": "Torna",
-            "type": "Irish hero"
-        },
-        {
-            "entity": "Niall of the Nine Hostages",
-            "type": "great king of Tara"
-        },
-        {
-            "entity": "Bard",
-            "type": "occupation"
-        },
-        {
-            "entity": "Cairenn",
-            "type": "mother"
-        }
-    ],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "cyphertext": "v7rGudfn0iGgyqaMoAyOP7ZuldlRK8QIsv6bUQ-_7tdusZD1435UspelXidhrcOj2iot-MtDBN8vo3ULKQ0HiRQMY1J2a3cU3jgYpXl17mCeAeUL3EPDvX8QKbypH5dCwmR1p8a6Gdcdnroh9rn-_EapmeWHRU5fJMjXrgVEkbXgdPYszoc5sjoV1ogtQsrZeqjZU7ypwRd4uTcLeAbQGhy6yHywOgYJLOcygKWFhTRVkzXpkm5CibBfpFQfPsbpcOb9OjHaLA1G82GlWSsrb5aVKVhjNkjBq6bn-8HJlL0-N1gzYd44ErhKhx6kcaYIXH3r-g==",
-    "salt": "30mnLRec2BhW8_dmXeowWQ==",
-    "text": "Irish scholar Nora Chadwick presents the story of Torna, a Bard who played a minor role in the legend of Niall of the Nine Hostages, the great king of Tara. Torna prophesied that the infant Niall would have a great future and offered help to Niall's mother, Cairenn."
+ "name": "Torna",
+ "attributes": [
+  {
+   "entity": "Torna",
+   "attribute": "a hero of the Irish"
+  },
+  {
+   "entity": "Niall",
+   "attribute": "a High King of the nine hostages"
+  }
+ ],
+ "entities": [
+  {
+   "entity": "Torna",
+   "type": "Person"
+  },
+  {
+   "entity": "Niall of the Nine Hostages",
+   "type": "Person"
+  },
+  {
+   "entity": "Catherine",
+   "type": "Person"
+  }
+ ],
+ "sources": [
+  "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+ ],
+ "cyphertext": "v7rGudfn0iGgyqaMoAyOP7ZuldlRK8QIsv6bUQ-_7tdusZD1435UspelXidhrcOj2iot-MtDBN8vo3ULKQ0HiRQMY1J2a3cU3jgYpXl17mCeAeUL3EPDvX8QKbypH5dCwmR1p8a6Gdcdnroh9rn-_EapmeWHRU5fJMjXrgVEkbXgdPYszoc5sjoV1ogtQsrZeqjZU7ypwRd4uTcLeAbQGhy6yHywOgYJLOcygKWFhTRVkzXpkm5CibBfpFQfPsbpcOb9OjHaLA1G82GlWSsrb5aVKVhjNkjBq6bn-8HJlL0-N1gzYd44ErhKhx6kcaYIXH3r-g==",
+ "salt": "30mnLRec2BhW8_dmXeowWQ==",
+ "text": "Torna is a hero of the sons of Ireland. He is a smaller voice in the tale of the High King Niall. He is a poet of true worth at the court. His verse told the future of the child king. He gave his aid to Niall's mother in the hours of her need. He stands in the story of the Nine Hostages.",
+ "okr": {
+  "objective": "Record the poet of the court.",
+  "key_results": [
+   "He is a poet for the king",
+   "His verse told the child's future",
+   "He aided Niall's mother"
+  ],
+  "evidence": "Monaghan 2008, s.v. 'Torna'."
+ }
 }

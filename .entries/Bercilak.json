@@ -1,21 +1,41 @@
 {
-    "name": "Bercilak",
-    "attributes": {},
-    "entities": [
-        {
-            "text": "Bercilak See"
-        },
-        {
-            "text": "Gawain"
-        }
+  "name": "Bercilak",
+  "attributes": [
+    {
+      "entity": "Bercilak",
+      "attribute": "an Arthurian figure kept as a cross-reference"
+    },
+    {
+      "entity": "Bercilak",
+      "attribute": "this entry points the reader to Gawain"
+    }
+  ],
+  "entities": [
+    {
+      "entity": "Bercilak",
+      "type": "Person"
+    },
+    {
+      "entity": "Gawain",
+      "type": "Person"
+    }
+  ],
+  "sources": [
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+  ],
+  "image": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Gawain_and_the_Green_Knight.jpg/1200px-Gawain_and_the_Green_Knight.jpg"
+  ],
+  "cyphertext": "_xlCQ2re1IaRdVLMFvcRr9-ui5LZHKCiqtk_5IT2v7NbWFUEVtcwHBa3ZKDuW0lGPg==",
+  "salt": "4Upj7mPXOIPmJNIfJpQxnw==",
+  "text": "Bercilak is an Arthurian figure. This encyclopedia holds no separate Celtic account for him. The present entry is a cross-reference. It redirects the reader to the Gawain article. Treat this page as a pointer to that fuller account.",
+  "okr": {
+    "objective": "Bercilak is an Arthurian name that this encyclopedia folds into the Gawain article rather than a whole separate entry.",
+    "key_results": [
+      "Bercilak is a cross-reference entry",
+      "It directs the reader to the Gawain article",
+      "No separate Celtic account exists for this name"
     ],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "image": [
-        "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Gawain_and_the_Green_Knight.jpg/1200px-Gawain_and_the_Green_Knight.jpg"
-    ],
-    "cyphertext": "_xlCQ2re1IaRdVLMFvcRr9-ui5LZHKCiqtk_5IT2v7NbWFUEVtcwHBa3ZKDuW0lGPg==",
-    "salt": "4Upj7mPXOIPmJNIfJpQxnw==",
-    "text": "Bercilak See Gawain."
+    "evidence": "Monaghan 2008, s.v. 'Bercilak'."
+  }
 }

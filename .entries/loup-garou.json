@@ -1,14 +1,36 @@
 {
-    "name": "loup-garou",
-    "attributes": {},
-    "entities": [],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "image": [
-        "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Werwolf.png/1200px-Werwolf.png"
-    ],
-    "cyphertext": "NSPIu9V2OPqc5cd9QeKejXzX8ci1YidpjkjOtAN_zGEoES1lq0EBX_SoSPhdzhzWfdWZ97E5a_pQitfkIeEXgL7tGCImcEUh",
-    "salt": "TicMH8AgPYPnODCyYM5P_A==",
-    "text": "loup-garou (loup-garow) See Shapeshifting."
+ "name": "loup-garou",
+ "attributes": [
+  {
+   "entity": "loup-garou",
+   "attribute": "a French term for a shape-shifting wolf"
+  }
+ ],
+ "entities": [
+  {
+   "entity": "loup-garou",
+   "type": "Concept"
+  },
+  {
+   "entity": "shape-shifting",
+   "type": "Concept"
+  }
+ ],
+ "sources": [
+  "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+ ],
+ "image": [
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Werwolf.png/1200px-Werwolf.png"
+ ],
+ "cyphertext": "NSPIu9V2OPqc5cd9QeKejXzX8ci1YidpjkjOtAN_zGEoES1lq0EBX_SoSPhdzhzWfdWZ97E5a_pQitfkIeEXgL7tGCImcEUh",
+ "salt": "TicMH8AgPYPnODCyYM5P_A==",
+ "text": "loup-garou is the French term for a man who changes shape into a wolf. The book sends the reader to the entry for Shape-shifting. There the being with the changing form is told of at length.",
+ "okr": {
+  "objective": "Note the French term loup-garou and its bookkeeping.",
+  "key_results": [
+   "The term names a shape-changing wolf",
+   "The book sends the reader to the Shape-shifting entry"
+  ],
+  "evidence": "Monaghan, The Encyclopedia of Celtic Mythology and Folklore, 2003."
+ }
 }

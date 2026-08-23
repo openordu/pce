@@ -1,37 +1,47 @@
 {
-    "name": "Lugaidh Riab nDerg",
-    "entities": [
-        {
-            "entity": "Lugaidh Riab nDerg",
-            "type": "Person"
-        },
-        {
-            "entity": "Clothra",
-            "type": "Person"
-        },
-        {
-            "entity": "Medb",
-            "type": "Person"
-        }
-    ],
-    "attributes": [
-        {
-            "entity": "Lugaidh Riab nDerg",
-            "attribute": "son of Clothra"
-        },
-        {
-            "entity": "Lugaidh Riab nDerg",
-            "attribute": "son of three brothers"
-        },
-        {
-            "entity": "Lugaidh Riab nDerg",
-            "attribute": "three red stripes across his body"
-        }
-    ],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "cyphertext": "Kp7t2Bpwm_8gi7ZKOebb-vsYWkqc5mZCtcBD6iFqnWyl9ufDf-O-xl-bWNswEAyBrJQfm1QvOyOLtovb76iCNud7Ni-ZkA19wwoN4j1VFbBIKIbqoKnvHSOhIEW-hXM76s6MOTlOHCVFFnX0pwQesq1wFkd6kHwAFFNVgl2nbbyHVFH9Af3EilmGDLa1RMq-Gxd5W_XBIVhssev3iBlyLJZLAyDrYXRAZbgAPmVijI2OfNySFVS31-qBPtZ7ctg5VrJCpDHpW_vcer3XgZY8ye8ZpHNDyAxIQDDNytLvPmEmrKIl6zDNez3jLSFz0SGofKVth55kH4vIkXLyfAQVikz3uOxcqthxxrY107zT2f8gDVO3-6cR5wgOaZyxohHL4FZwCDKbGhYQOav_85zDl0jyy14iGlPisQ==",
-    "salt": "xhANPbh4szfFG95BBA3SUQ==",
-    "text": "Descended from Medb's own sister, Clothra, Lugaidh Riab nDerg, or Lugaigh of the Red Stripes, was conceived by three different brothers at once, and thus, bore the unique distinction of being the son of all three. Each part of his body that was sired by each of the brothers was demarcated by three red stripes that ran across his frame."
+ "name": "Lugaidh Riab nDerg",
+ "entities": [
+  {
+   "entity": "Lugaidh Riab nDerg",
+   "type": "Person"
+  },
+  {
+   "entity": "Clothra",
+   "type": "Person"
+  },
+  {
+   "entity": "Medb",
+   "type": "Person"
+  }
+ ],
+ "attributes": [
+  {
+   "entity": "Lugaidh Riab nDerg",
+   "attribute": "son of Clothra, sister of Medb"
+  },
+  {
+   "entity": "Lugaidh Riab nDerg",
+   "attribute": "son of three brothers at once"
+  },
+  {
+   "entity": "Lugaidh Riab nDerg",
+   "attribute": "wore three red stripes that marked his fathers"
+  }
+ ],
+ "sources": [
+  "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+ ],
+ "cyphertext": "Kp7t2Bpwm_8gi7ZKOebb-vsYWkqc5mZCtcBD6iFqnWyl9ufDf-O-xl-bWNswEAyBrJQfm1QvOyOLtovb76iCNud7Ni-ZkA19wwoN4j1VFbBIKIbqoKnvHSOhIEW-hXM76s6MOTlOHCVFFnX0pwQesq1wFkd6kHwAFFNVgl2nbbyHVFH9Af3EilmGDLa1RMq-Gxd5W_XBIVhssev3iBlyLJZLAyDrYXRAZbgAPmVijI2OfNySFVS31-qBPtZ7ctg5VrJCpDHpW_vcer3XgZY8ye8ZpHNDyAxIQDDNytLvPmEmrKIl6zDNez3jLSFz0SGofKVth55kH4vIkXLyfAQVikz3uOxcqthxxrY107zT2f8gDVO3-6cR5wgOaZyxohHL4FZwCDKbGhYQOav_85zDl0jyy14iGlPisQ==",
+ "salt": "xhANPbh4szfFG95BBA3SUQ==",
+ "text": "Lugaidh Riab nDerg was an Irish hero whose name means Lugaidh of the Red Stripes. He was the son of Clothra, the sister of the queen-goddess Medb. Three brothers lay with Clothra at the same time, and Lugaidh was said to be the son of all three at once. Three red stripes crossed his body, and each stripe marked the part of him fathered by one brother.",
+ "okr": {
+  "objective": "Document Lugaidh Riab nDerg, the hero with the three red stripes.",
+  "key_results": [
+   "His name means Lugaidh of the Red Stripes",
+   "He was the son of Clothra, the sister of Medb",
+   "Three brothers fathered him at the same time",
+   "Each red stripe on his body marked one father"
+  ],
+  "evidence": "Monaghan, The Encyclopedia of Celtic Mythology and Folklore, 2003."
+ }
 }

@@ -1,11 +1,51 @@
 {
-    "name": "tober",
-    "attributes": {},
-    "entities": [],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "cyphertext": "cIypVT_KXZDoe2ZbJZMEvwOHwIocoU6q17ngnU2Ki7q5rFpVX53-UDx-9t8=",
-    "salt": "rEZwL6M0-Yu_ogxA4kyyVQ==",
-    "text": "tober See Well."
+ "name": "tober",
+ "attributes": [
+  {
+   "entity": "tober",
+   "attribute": "the Irish word for a well"
+  },
+  {
+   "entity": "well",
+   "attribute": "holy place where offerings were made"
+  },
+  {
+   "entity": "Tobereevul",
+   "attribute": "the well of the fairy queen Aeval"
+  }
+ ],
+ "entities": [
+  {
+   "entity": "tober",
+   "type": "Object"
+  },
+  {
+   "entity": "well",
+   "type": "Place"
+  },
+  {
+   "entity": "Aeval",
+   "type": "Person"
+  },
+  {
+   "entity": "Tobereevul",
+   "type": "Place"
+  }
+ ],
+ "sources": [
+  "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+ ],
+ "cyphertext": "cIypVT_KXZDoe2ZbJZMEvwOHwIocoU6q17ngnU2Ki7q5rFpVX53-UDx-9t8=",
+ "salt": "rEZwL6M0-Yu_ogxA4kyyVQ==",
+ "text": "Tober is the Irish word for a well. The Monaghan encyclopedia sends the reader to the fuller entry on WELL for the sacred springs of the Celtic lands. Holy wells were places of worship where offerings were made and where rites such as inauguration might be performed. The name appears in many place names, signaling a well that once held the reverence of the local people. Tobereevul, for example, is the well of the fairy queen Aeval, gushing from beneath the crag Craganeevul in County Clare.",
+ "okr": {
+  "objective": "Record the meaning of tober.",
+  "key_results": [
+   "Tober is the Irish word for a well",
+   "The entry points to the fuller WELL entry",
+   "Holy wells were places of offerings and rites",
+   "Tobereevul is the well of the fairy queen Aeval"
+  ],
+  "evidence": "Monaghan 2008, s.v. 'tober'."
+ }
 }

@@ -1,11 +1,59 @@
 {
-    "name": "tochmarc",
-    "attributes": {},
-    "entities": [],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "cyphertext": "KQsuXxsQM2UXqw2vxih865pGtbZQG0rIrirU3B8Np5LZ8jtnF6WxCvQq3EkftaLlrg==",
-    "salt": "mef3qbVTiYpC1X6wSRGDWw==",
-    "text": "tochmarc See Wooing."
+ "name": "tochmarc",
+ "attributes": [
+  {
+   "entity": "tochmarc",
+   "attribute": "an Irish word for a wooing or courtship"
+  },
+  {
+   "entity": "Becfhola",
+   "attribute": "queen of Tara who stood for sovereignty"
+  },
+  {
+   "entity": "Flann ua Fedach",
+   "attribute": "fairy lover of Becfhola"
+  }
+ ],
+ "entities": [
+  {
+   "entity": "tochmarc",
+   "type": "Concept"
+  },
+  {
+   "entity": "wooing",
+   "type": "Concept"
+  },
+  {
+   "entity": "Becfhola",
+   "type": "Person"
+  },
+  {
+   "entity": "Flann ua Fedach",
+   "type": "Person"
+  },
+  {
+   "entity": "Diarmait",
+   "type": "Person"
+  },
+  {
+   "entity": "Crimthann",
+   "type": "Person"
+  }
+ ],
+ "sources": [
+  "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+ ],
+ "cyphertext": "KQsuXxsQM2UXqw2vxih865pGtbZQG0rIrirU3B8Np5LZ8jtnF6WxCvQq3EkftaLlrg==",
+ "salt": "mef3qbVTiYpC1X6wSRGDWw==",
+ "text": "Tochmarc is an Irish word for a wooing or courtship. The Monaghan encyclopedia sends the reader to the entry on WOOING. The word appears in the titles of tales that record the courtship of heroes and fairies. The Tochmarc Becfhola, or Wooing of Becfhola, tells of Becfhola's affair with a fairy lover. His name is Flann ua Fedach. As queen of Tara, Becfhola stood for sovereignty. Her unhappiness with king Diarmait may have cost him his rule. She turned instead toward the hero Crimthann. The tochmarc tales thus join romance to the fate of kings.",
+ "okr": {
+  "objective": "Record the meaning of tochmarc and the wooing tales.",
+  "key_results": [
+   "Tochmarc is an Irish word for a wooing",
+   "The entry points to the fuller WOOING entry",
+   "The Tochmarc Becfhola tells of Becfhola's affair with a fairy lover",
+   "Becfhola's choices as queen could cost a king his rule"
+  ],
+  "evidence": "Monaghan 2008, s.v. 'tochmarc'."
+ }
 }

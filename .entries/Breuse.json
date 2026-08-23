@@ -3,31 +3,33 @@
     "attributes": [
         {
             "entity": "Breuse",
-            "attribute": "nickname",
-            "value": "without pity"
+            "attribute": "an Arthurian character"
         },
         {
-            "entity": "king Arthur",
-            "attribute": "relationship",
-            "value": "enemy"
+            "entity": "Breuse",
+            "attribute": "called Breuse sans Pitié"
+        },
+        {
+            "entity": "Breuse",
+            "attribute": "an evil knight"
+        },
+        {
+            "entity": "Breuse",
+            "attribute": "one of the great enemies of King Arthur"
         }
     ],
     "entities": [
         {
             "entity": "Breuse",
-            "type": "Arthurian hero"
+            "type": "Person"
         },
         {
-            "entity": "nickname",
-            "type": "attribute"
-        },
-        {
-            "entity": "king Arthur",
-            "type": "Arthurian hero"
+            "entity": "Arthur",
+            "type": "Person"
         },
         {
             "entity": "Camelot",
-            "type": "place"
+            "type": "Place"
         }
     ],
     "sources": [
@@ -35,5 +37,15 @@
     ],
     "cyphertext": "pOHrxD1MIhF-uDqd0kyIywMnfjyVG4_D7iM2tjSPLCJnQOplkwzj_FF85fFyTArVSUiGJST2wTKQjMgg8UrcrKTySBH99wN0QRDDDF6Mm2m8YXZpD_GyERdjPn3U--B3ZtVoUjedqRWuzVal3imxVTSUylbNoujqSfzzQuFfIKy2Sb5AVO64vOe4qLleykix6M6j_GIp5BWPrC_DiflvxZOceQOx3MY2hwHBWLBgwP1kvXR6ueF-q9JREGR3pQ==",
     "salt": "cOMo0Lf9T7xF7RAxn18JRA==",
-    "text": "Arthurian figure Breuse, commonly known as Breuse sans Pitie, was notorious for his malevolence towards King Arthur of Camelot, and his name reflects his merciless nature."
+    "text": "Breuse is an Arthurian character. His full name is Breuse sans Pitié. The nickname means without pity. He was an evil knight and one of the great enemies of King Arthur of Camelot.",
+    "okr": {
+        "objective": "Describe Breuse, the pitiless knight who opposed King Arthur.",
+        "key_results": [
+            "Breuse was an Arthurian character.",
+            "His nickname meant without pity.",
+            "He was an evil knight.",
+            "He numbered among the great enemies of Arthur."
+        ],
+        "evidence": "Monaghan 2008, s.v. 'Breuse'."
+    }
 }

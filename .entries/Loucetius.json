@@ -1,18 +1,62 @@
 {
-    "name": "Loucetius",
-    "attributes": {},
-    "entities": [
-        {
-            "text": "Loucetius See Leucetius"
-        }
-    ],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "image": [
-        "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Autel_d%C3%A9di%C3%A9_%C3%A0_Mars_Loucetios-Mus%C3%A9e_arch%C3%A9ologique_de_Strasbourg.jpg/1200px-Autel_d%C3%A9di%C3%A9_%C3%A0_Mars_Loucetios-Mus%C3%A9e_arch%C3%A9ologique_de_Strasbourg.jpg"
-    ],
-    "cyphertext": "ypEfY1F-iHySWP_8wkgyJIhQzzFGa9ekAVhbbX7K4zUyUA8brnQGDAko6L-HJZwAP_SAET4=",
-    "salt": "uRXnBbQyFaGy58_gh0R-1Q==",
-    "text": "Loucetius See Leucetius."
+ "name": "Loucetius",
+ "attributes": [
+  {
+   "entity": "Loucetius",
+   "attribute": "worshipped in Gaul and Britain"
+  },
+  {
+   "entity": "Loucetius",
+   "attribute": "consort of the goddess Nemetona"
+  },
+  {
+   "entity": "Loucetius",
+   "attribute": "linked to healing at the shrine of Bath"
+  },
+  {
+   "entity": "Loucetius",
+   "attribute": "seen as a form of Mars in Gaul"
+  }
+ ],
+ "entities": [
+  {
+   "entity": "Loucetius",
+   "type": "Deity"
+  },
+  {
+   "entity": "Nemetona",
+   "type": "Deity"
+  },
+  {
+   "entity": "Mars",
+   "type": "Deity"
+  },
+  {
+   "entity": "Bath",
+   "type": "Place"
+  },
+  {
+   "entity": "Aquae Sulis",
+   "type": "Place"
+  }
+ ],
+ "sources": [
+  "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+ ],
+ "image": [
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Autel_d%C3%A9di%C3%A9_%C3%A0_Mars_Loucetios-Mus%C3%A9e_arch%C3%A9ologique_de_Strasbourg.jpg/1200px-Autel_d%C3%A9di%C3%A9_%C3%A0_Mars_Loucetios-Mus%C3%A9e_arch%C3%A9ologique_de_Strasbourg.jpg"
+ ],
+ "cyphertext": "ypEfY1F-iHySWP_8wkgyJIhQzzFGa9ekAVhbbX7K4zUyUA8brnQGDAko6L-HJZwAP_SAET4=",
+ "salt": "uRXnBbQyFaGy58_gh0R-1Q==",
+ "text": "Loucetius was a Celtic god worshipped in Gaul and Britain, also spelled Leucetius. He appears in a few inscriptions found in continental Gaul and in Britain. Loucetius was the consort of Nemetona, a goddess of sacred groves. A pair inscription was found at the healing shrine of Bath, which the Romans called Aquae Sulis, so Loucetius may have been a healing god. People in Gaul saw him as a form of Mars, the war god, and Mars could fight off disease. His name holds a syllable that means bright or shining, and scholars have read it as lightning.",
+ "okr": {
+  "objective": "Document the continental Celtic god Loucetius as a consort deity tied to healing and to Mars.",
+  "key_results": [
+   "Loucetius is attested in inscriptions in Gaul and Britain",
+   "He pairs with the grove goddess Nemetona",
+   "An inscription at Bath links him to healing",
+   "People in Gaul equated him with Mars"
+  ],
+  "evidence": "Monaghan, The Encyclopedia of Celtic Mythology and Folklore, 2003."
+ }
 }
