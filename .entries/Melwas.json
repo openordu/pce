@@ -1,11 +1,54 @@
 {
-    "name": "Melwas",
-    "attributes": {},
-    "entities": [],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "cyphertext": "-ZT5fUcxHsp-_P0Opk0AC4kbc0AQ5dSZ1B8uXKEWZcfT5RKNCrG2yi0_VLNAX7BUF7g=",
-    "salt": "P_Whfcwesnf66ctNCbsk8A==",
-    "text": "Melwas See Meleagant."
+  "name": "Melwas",
+  "attributes": [
+    {
+      "entity": "Melwas",
+      "attribute": "the Welsh form of the name Meleagant"
+    },
+    {
+      "entity": "Melwas",
+      "attribute": "the king who took Queen Guinevere"
+    },
+    {
+      "entity": "Melwas",
+      "attribute": "Gildas settled the argument between him and Arthur"
+    }
+  ],
+  "entities": [
+    {
+      "entity": "Melwas",
+      "type": "Person"
+    },
+    {
+      "entity": "Meleagant",
+      "type": "Person"
+    },
+    {
+      "entity": "Gwenhwyfar",
+      "type": "Person"
+    },
+    {
+      "entity": "Arthur",
+      "type": "Person"
+    },
+    {
+      "entity": "Gildas",
+      "type": "Person"
+    }
+  ],
+  "sources": [
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+  ],
+  "cyphertext": "-ZT5fUcxHsp-_P0Opk0AC4kbc0AQ5dSZ1B8uXKEWZcfT5RKNCrG2yi0_VLNAX7BUF7g=",
+  "salt": "P_Whfcwesnf66ctNCbsk8A==",
+  "text": "Melwas is another name for Meleagant. In Arthurian legend he was the king who took Queen Guinevere. In one Welsh poem there is a dialogue between him and Gwenhwyfar. The early source makes the saint Gildas settle the quarrel between Melwas and King Arthur.",
+  "objective": "Document Melwas, the Welsh name of Meleagant.",
+  "key_results": [
+    "he is the same as Meleagant",
+    "he took the queen",
+    "Gildas made peace with Arthur"
+  ],
+  "evidence": [
+    "Monaghan, P. The Encyclopedia of Celtic Mythology and Folklore (2008): Melwas See Meleagant, p. 323."
+  ]
 }

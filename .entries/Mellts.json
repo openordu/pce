@@ -1,29 +1,39 @@
 {
-    "name": "Mellts",
-    "attributes": [
-        {
-            "entity": "Mellts",
-            "attribute": "obscure"
-        },
-        {
-            "entity": "Mellts",
-            "attribute": "ancestral divinity"
-        }
-    ],
-    "entities": [
-        {
-            "entity": "Mellts",
-            "type": "Welsh god"
-        },
-        {
-            "entity": "Welsh god",
-            "type": "mythological being"
-        }
-    ],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "cyphertext": "_VPb1LM_vaFwVKPEIKQDXNyv8WfpWTksiNm0IOdcODivg7AsA43BEjeGVnQ3akcdNx-piUVjbMiIxUUy8DEmiVHonzNQPASS9rBXzTxyyw12Er8i1EeIVKpOSnniLJcVA736GCVxQZ1lnj2flbXqGWc=",
-    "salt": "TswT3B4em6GqIh3UK5JhSg==",
-    "text": "Ancestors worship seems to have been the focus of Mellts, a little-known Welsh god."
+  "name": "Mellts",
+  "attributes": [
+    {
+      "entity": "Mellts",
+      "attribute": "a Welsh god of whom little is known"
+    },
+    {
+      "entity": "Mellts",
+      "attribute": "appears to have been an ancestral god"
+    }
+  ],
+  "entities": [
+    {
+      "entity": "Mellts",
+      "type": "Person"
+    },
+    {
+      "entity": "Welsh god",
+      "type": "Concept"
+    }
+  ],
+  "sources": [
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+  ],
+  "cyphertext": "_VPb1LM_vaFwVKPEIKQDXNyv8WfpWTksiNm0IOdcODivg7AsA43BEjeGVnQ3akcdNx-piUVjbMiIxUUy8DEmiVHonzNQPASS9rBXzTxyyw12Er8i1EeIVKpOSnniLJcVA736GCVxQZ1lnj2flbXqGWc=",
+  "salt": "TswT3B4em6GqIh3UK5JhSg==",
+  "text": "Mellts is a Welsh god. Very little survives about him. He seems to have been an ancestor god, one who watched over a line of kin. The record gives no more.",
+  "objective": "Document the scant the Welsh god Mellts.",
+  "key_results": [
+    "Mellts is a Welsh god",
+    "the record about him is thin",
+    "he seems to be a god of the ancestors"
+  ],
+  "evidence": [
+    "Monaghan, P. The Encyclopedia of Celtic Mythology and Folklore (2008): Mellts, p. 323.",
+    "Koch, J. T. Encyclopedia of Celtic Culture (2006) — no separate Mellts entry; rewrote from Monaghan alone."
+  ]
 }
