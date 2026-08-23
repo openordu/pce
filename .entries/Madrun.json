@@ -1,15 +1,79 @@
 {
-    "name": "Madrun",
-    "attributes": {},
-    "entities": [
-        {
-            "text": "Madrun See Modron"
-        }
-    ],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "cyphertext": "Oi0784Ph55DOkze6kuwsSkNIQFk_NmqKkOZ3kmDyNJLBBtvC4utal0aRs6nDMEc=",
-    "salt": "GNF7lBuS3wEAmk7CAtKyWA==",
-    "text": "Madrun See Modron."
+  "name": "Madrun",
+  "attributes": [
+    {
+      "entity": "Madrun",
+      "attribute": "a Welsh figure whose article points to the entry on Modron"
+    },
+    {
+      "entity": "Madrun",
+      "attribute": "daughter of Gwerthefyr's father Gwrtheyrn and mother of St Ceidiaw"
+    },
+    {
+      "entity": "Madrun",
+      "attribute": "possibly a dynastic mother goddess validating successive generations of kings"
+    },
+    {
+      "entity": "Modron",
+      "attribute": "the goddess to whom the Madrun entry points"
+    },
+    {
+      "entity": "Carn Fadrun",
+      "attribute": "a place in Llyn, north Wales, recalling the name Madrun"
+    },
+    {
+      "entity": "Garthmadrun",
+      "attribute": "a place in Brycheiniog recalling the name Madrun"
+    }
+  ],
+  "entities": [
+    {
+      "entity": "Madrun",
+      "type": "Person"
+    },
+    {
+      "entity": "Modron",
+      "type": "Being"
+    },
+    {
+      "entity": "Gwerthefyr",
+      "type": "Person"
+    },
+    {
+      "entity": "Gwrtheyrn",
+      "type": "Person"
+    },
+    {
+      "entity": "St Ceidiaw",
+      "type": "Person"
+    },
+    {
+      "entity": "Wales",
+      "type": "Place"
+    },
+    {
+      "entity": "Brycheiniog",
+      "type": "Place"
+    },
+    {
+      "entity": "Llyn",
+      "type": "Place"
+    }
+  ],
+  "sources": [
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+  ],
+  "cyphertext": "Oi0784Ph55DOkze6kuwsSkNIQFk_NmqKkOZ3kmDyNJLBBtvC4utal0aRs6nDMEc=",
+  "salt": "GNF7lBuS3wEAmk7CAtKyWA==",
+  "text": "Madrun is a Welsh figure whose article points to the fuller entry on Modron. Koch records her as the daughter of Gwerthefyr's father Gwrtheyrn and the mother of St Ceidiaw. This may reflect confusion in the transmitted pedigrees. It may also preserve her original status as a dynastic mother goddess who validated successive generations of kings in a recurrent conception myth. Two place names recall her: Carn Fadrun in Llyn, north Wales, and Garthmadrun in Brycheiniog.",
+  "objective": "Document Madrun as a Welsh figure cross-referenced to Modron and a possible dynastic mother goddess.",
+  "key_results": [
+    "Record the cross-reference to Modron.",
+    "Record her parentage and maternity per Koch.",
+    "Record the place names Carn Fadrun and Garthmadrun."
+  ],
+  "evidence": [
+    "Monaghan, P. The Encyclopedia of Celtic Mythology and Folklore (2008): Madrun entry, See Modron.",
+    "Koch, J. T. Encyclopedia of Celtic Culture (2006): Madrun entry, linking her to Gwrtheyrn and St Ceidiaw."
+  ]
 }
