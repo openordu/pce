@@ -61,16 +61,18 @@
   "cyphertext": "OKZhkYiZKZCJkCr4TpEbmxhhmNUFiLbN5lwih-kjE_dRSKobj8ho8kGEHKhIVVyerBVhHQqRCQ==",
   "salt": "Gmap7SN7-5tlAO4LJ8IbxQ==",
   "text": "Dowth is one of three great mounds at Brú na Bóinne on the River Boyne in Ireland. The others are Knowth and Newgrange. The Celts did not build these mounds. Unknown people raised them about 5,000 years ago. Newgrange is the palace of Bóand, the river goddess. She lived there and bore Oengus Mac ind Óc, the boy-god and son of the Dagda. Dowth means darkness. It is smaller than the other mounds and holds two ornate inner chambers. Knowth carries rock art unmatched in Europe. The mounds each enclose a passageway of standing stones carved with spirals and stars. Astronomers engineered Newgrange so it catches the winter solstice sunrise.",
-  "objective": "Rewrite the Dowth entry in CSG-SME1000 prose with source-accurate nouns.",
-  "key_results": [
-    "Meets CSG-SME1000 sentence rules",
-    "All required nouns present",
-    "80-140 words",
-    "No prose fragments"
-  ],
-  "evidence": [
-    "monaghan.txt:6153-6228 Brú na Bóinne",
-    "monaghan.txt:12318 Dowth",
-    "koch.txt:11938-11951 Boyne/Oengus Mac ind Óc"
-  ]
+  "okr": {
+    "objective": "Rewrite the Dowth entry in CSG-SME1000 prose with source-accurate nouns.",
+    "key_results": [
+      "Meets CSG-SME1000 sentence rules",
+      "All required nouns present",
+      "80-140 words",
+      "No prose fragments"
+    ],
+    "evidence": [
+      "monaghan.txt:6153-6228 Brú na Bóinne",
+      "monaghan.txt:12318 Dowth",
+      "koch.txt:11938-11951 Boyne/Oengus Mac ind Óc"
+    ]
+  }
 }

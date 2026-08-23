@@ -38,14 +38,16 @@
   "cyphertext": "4OaxOYqPFVtJyZldSoKqikpTCc3cdZdN6enDmiR-594XoXz_tkUe18koE13VVTdDMtKgBGAZIug-gneRJgHHI4IMak_YWtsdrShLdq4I5jQ57D0wiqcNGwn4wWZKNEwiMmP5mnn1pcnWfrwqTF4II2pdIRJkPiSuut1dmS9TS60wdRjRtn7kQk1zbery0NquQmUautE82dE7qyOCpsZkkR08qo7UWHUN9qTKF-gm-0bMGhu3wY-7Zcs03kvP8g3gQIt42TaFb7YBuNb8-e8ynn5MPqJTId62YgyIHNI=",
   "salt": "GayCGI6IBf4R7Fq-I1t7dg==",
   "text": "The druineach is a Scottish folkloric spirit. This Highland being rarely appears to humans. The druineach emerges each spring. The spirit beats upon the ground with force. That beating brings forth the first green growth. Folklore casts the druineach as a bringer of life. Its work marks the turn from winter to growth. Shepherds and farmers honored the spirit’s visit. They saw it as a promise of plenty for the land.",
-  "objective": "Rewrite the druineach entry in CSG-SME1000 prose with source-accurate nouns.",
-  "key_results": [
-    "Meets CSG-SME1000 sentence rules",
-    "All required nouns present",
-    "60-140 words",
-    "No prose fragments"
-  ],
-  "evidence": [
-    "monaghan.txt:12569-12571 druineach"
-  ]
+  "okr": {
+    "objective": "Rewrite the druineach entry in CSG-SME1000 prose with source-accurate nouns.",
+    "key_results": [
+      "Meets CSG-SME1000 sentence rules",
+      "All required nouns present",
+      "60-140 words",
+      "No prose fragments"
+    ],
+    "evidence": [
+      "monaghan.txt:12569-12571 druineach"
+    ]
+  }
 }

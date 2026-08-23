@@ -50,14 +50,16 @@
   "cyphertext": "-D65ZQykcycQ1qj3L9a43JJzI6stHEIR-r6hyGbFGUGLmrwc4YS95-ijcso9izVDFitd7WJunVLdp10Z6IS2eTVoAVZzUVB2p4x9HTVZ2pdQ4Lms8QYCGhdP-7pgnfzc5KvAPijiU9XPHiRQmK5pda-8R_NgrTwzuhcRG9EwVCorP3qNUlGAJgTwXajpPRj_WtOZiLQRDIrxj5xFbAG4LzUjPxgr-2sLpoISHx7E88pehB_w7ToArycWdc-jOvmP605brTxxVA_ndMX4lu0SpN8F6Ui7DbkeEolUOpg7rVG82U7t8AFPuWxAOTlFUcrC6tys17t-qJ_eK1tRpdE63JbB7uYKojtpRfCz43Kp5c8-D0wEMC6hNUJhqlW5TDgogyxMCcSTTWmmskI_E9erhczbK0JVc0xQM6Kp6o166CnLHydzEQmOiPQRAQkwCPQPpWd1mFBg_s4GJHaZferxi551PaX34th8J5W-o_XiVOl_VyKmELAPe8OBbM9JmWAUCKN-P_ZEDz5RLSyvug3acdoFotu9PxC_l-KFsKYAMvSo_bLm8PnnJ2d-4XInjhVRCqlMXjJSJL7NCVxzfViDtnOC8EpdBrO36PdyGiam1jVY44GFEmCHrifIpLYDreml_dT_ovFzv0OZrwdGGzdXjIbMMS70s12dg1PIgKU8hV-W74mKyf6OEeLSeuiU9pKZMmf3yVXaL64L3JNUjdftwO5NENDud9vKDXhUCWd1WOna99icxEvWDd7GTKmDfAyLGg5U0BD70zGE1pH3zr3NkdEfz_wVhGQ6Ool15fw9QPuFZrx5L0OTBwXGKF9GT-kvuV-uSZtzReFdiDFaaOhvkMGSskIbL0JGFKn5HdeKLnbyCUILra7FhW_YHrLqC1rQ0aCN8H1LUu3G--WPYLlwKZhDZ5Pj5ZoL9J835esGzbYfuHBr742b0Pv7cRfI9j1Vzq4BHxR8P-e0BClMHSGcRIcqROHwWgzpaHEebP1_1Mnpm9hiq4-YLkURfWltAEBCT990DFbPlW-PD_PtC2-B7wfYZUOYD4pgO-_oeeUCjYjXzbQJBYbUuWq9z62Q2dly00Dknm8oobmZKHPOfMPpKgtkTm3IvfGIwwnUkXARgb_pYTIKMtAuOp3civkSiZHire6da0RxmzcyuXTUmxx5DokG3z-rXpiV_Gslx7wROr367KaKChm5hE8AmWR18bE0sf7jNBoi0j3_p0p5xQFvY4zoex222j-De_wKZFQ=",
   "salt": "r34If33wJ6ZKYc0bYVfRHg==",
   "text": "The druid's fog was a power some druids possessed. They wrapped themselves in mist and passed by enemies unseen. This mist was also called the féth fiada. The passing druid might become a veil of mist, much like a shape-shifter who becomes an animal. People said the Tuatha Dé Danann received this fog as a consolation prize after they lost Ireland to the Milesians. St. Patrick was also believed to hide himself with this gift. In the poem St. Patrick's Breastplate, he and a companion passed by dangerous druids. The druids saw only a fawn and a deer.",
-  "objective": "Rewrite the druid's fog entry in CSG-SME1000 prose with source-accurate nouns.",
-  "key_results": [
-    "Meets CSG-SME1000 sentence rules",
-    "All required nouns present",
-    "80-140 words",
-    "No prose fragments"
-  ],
-  "evidence": [
-    "monaghan.txt:12548-12564 druid's fog (féth fiada)"
-  ]
+  "okr": {
+    "objective": "Rewrite the druid's fog entry in CSG-SME1000 prose with source-accurate nouns.",
+    "key_results": [
+      "Meets CSG-SME1000 sentence rules",
+      "All required nouns present",
+      "80-140 words",
+      "No prose fragments"
+    ],
+    "evidence": [
+      "monaghan.txt:12548-12564 druid's fog (féth fiada)"
+    ]
+  }
 }

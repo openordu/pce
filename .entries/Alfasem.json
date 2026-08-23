@@ -1,46 +1,48 @@
 {
-    "name": "Alfasem",
-    "entities": [
-        {
-            "entity": "Alfasem",
-            "type": "Person"
-        },
-        {
-            "entity": "Blemished Kings",
-            "type": "Concept"
-        },
-        {
-            "entity": "Grail",
-            "type": "Artifact"
-        },
-        {
-            "entity": "Grail quest",
-            "type": "Concept"
-        }
-    ],
-    "attributes": [
-        {
-            "entity": "Alfasem",
-            "attribute": "one of the Blemished Kings"
-        },
-        {
-            "entity": "Alfasem",
-            "attribute": "looked at the Grail before his soul was pure"
-        },
-        {
-            "entity": "Alfasem",
-            "attribute": "wounded in his loins until the quest was done"
-        }
-    ],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "cyphertext": "IBSWazHIqlgapqFd6Am-r7jcUjueylZFHx_um_GOuGvSil_kkMOu_KfKFfUUsMaT30YMvrjRY-erZsQhuxAMDO9gAozLjePvDkOOUJzsrU4hsWmgWojIEbX9TTyWWDkwU1euV68LlXAzEtnpivdI-D1pI8I_0bqkt-rRt13p0TVdV52aMe4hluhjNeDkU4FkdH4KdbQnLsb5EwWxe0p6NK4nyzvEbKD9Dbuw9Kd_vfSJTnDTMs2pmSOd4A--9kQ8cp6bxAVyqsrr3fhSxAwdkrB0GZJXd5nsmnmDqDS5PNVLENbx2TsPhvtp_Ayzm6D4XylbH6QPdstTDg8TNZwGMM6GNVn78PudohFO2YF-8_pmbq4kjuUpnM43mWRk6nxkdOUCH1VqWiHk",
-    "salt": "STZ8EtUsw_egYXud2mQKNA==",
-    "text": "Alfasem is one of the Blemished Kings of Arthurian legend. He tried to look at the Grail before his soul was pure. The glance cost him a wound in his loins, and he stayed hurt until the Grail quest was done.",
+  "name": "Alfasem",
+  "entities": [
+    {
+      "entity": "Alfasem",
+      "type": "Person"
+    },
+    {
+      "entity": "Blemished Kings",
+      "type": "Concept"
+    },
+    {
+      "entity": "Grail",
+      "type": "Artifact"
+    },
+    {
+      "entity": "Grail quest",
+      "type": "Concept"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Alfasem",
+      "attribute": "one of the Blemished Kings"
+    },
+    {
+      "entity": "Alfasem",
+      "attribute": "looked at the Grail before his soul was pure"
+    },
+    {
+      "entity": "Alfasem",
+      "attribute": "wounded in his loins until the quest was done"
+    }
+  ],
+  "sources": [
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+  ],
+  "cyphertext": "IBSWazHIqlgapqFd6Am-r7jcUjueylZFHx_um_GOuGvSil_kkMOu_KfKFfUUsMaT30YMvrjRY-erZsQhuxAMDO9gAozLjePvDkOOUJzsrU4hsWmgWojIEbX9TTyWWDkwU1euV68LlXAzEtnpivdI-D1pI8I_0bqkt-rRt13p0TVdV52aMe4hluhjNeDkU4FkdH4KdbQnLsb5EwWxe0p6NK4nyzvEbKD9Dbuw9Kd_vfSJTnDTMs2pmSOd4A--9kQ8cp6bxAVyqsrr3fhSxAwdkrB0GZJXd5nsmnmDqDS5PNVLENbx2TsPhvtp_Ayzm6D4XylbH6QPdstTDg8TNZwGMM6GNVn78PudohFO2YF-8_pmbq4kjuUpnM43mWRk6nxkdOUCH1VqWiHk",
+  "salt": "STZ8EtUsw_egYXud2mQKNA==",
+  "text": "Alfasem is one of the Blemished Kings of Arthurian legend. He tried to look at the Grail before his soul was pure. The glance cost him a wound in his loins, and he stayed hurt until the Grail quest was done.",
+  "okr": {
     "objective": "Record Alfasem, a wounded Grail king.",
     "key_results": [
-        "Show his rash glance and its cost."
+      "Show his rash glance and its cost."
     ],
     "evidence": "Monaghan 2003, s.v. Alfasem"
+  }
 }

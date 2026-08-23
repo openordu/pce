@@ -41,10 +41,12 @@
   "cyphertext": "brYbFXb6Sjt08ac6wnLFuWbn080HjStU5bJQY9bUB6KKq61uP0zvQioWWAyam37L8g2jSyqpBgL9c2a3V6L56Cb05546QPjv7bpehoBioD0gbeMi9Bhdw0c_BfOUq_c5dHpqz7LFmf2u51an6JtzoZuwfOvr3ul5nZXVjF5LN-e7JC3vARtD0d0vuoehnKLckyan5A6R8VBI-7WA3OXpVaOoev8VC4gAyEKRlCnpBXsJm_sPAvewENNnpab7w3r3VHX7O5gPLaBXLFjM9xNIYlA-uZZ_Waag0TxLe1J37y8enW_ycQ7s7rHZI7Y582Na0eGC3NiWaqrMcsSuHCaXDSygTy1XUhDxlTy0NtODa_XEbRM1G_RzSsbSHic-Bccmbz8siIsJn6j0yNE_PvXGPVyVRRt85q3PGz9WJC-dpbaDY73-kI2YfTFWvJrSOTrxFEtrY6Y=",
   "salt": "fva6P53gz2oKZXi-SrUGOQ==",
   "text": "The swarth is a folkloric figure of Scotland. The swarth is a magical double of a person. It was dangerous to meet the swarth on the road. To see the image of yourself was read as an almost certain sign that death was near. If you were brave enough to speak with the swarth, you could gain magical knowledge and second sight. The swarth therefore carried two faces. For most people a meeting on the road was a warning of the end. For the bold, the same meeting was a chance to learn what the spirits knew.",
-  "objective": "Replace the weak machine text for swarth with a fresh CSG-SME1000 rewrite from Monaghan.",
-  "key_results": [
-    "text is a fresh rewrite of the Scottish magical double",
-    "entities and attributes fixed"
-  ],
-  "evidence": "Monaghan 2003 (swarth, magical double, road, death, second sight)."
+  "okr": {
+    "objective": "Replace the weak machine text for swarth with a fresh CSG-SME1000 rewrite from Monaghan.",
+    "key_results": [
+      "text is a fresh rewrite of the Scottish magical double",
+      "entities and attributes fixed"
+    ],
+    "evidence": "Monaghan 2003 (swarth, magical double, road, death, second sight)."
+  }
 }

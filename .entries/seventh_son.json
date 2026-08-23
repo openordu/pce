@@ -38,10 +38,12 @@
   "cyphertext": "Y8D2FvQ5EzWfkbzklNC4p7ClXz0_r_UXNUfc_IH238ov7nRq4Ce_umI8M0H9FumcFRqCVhD-jlSspC1sxEnJB2pqLezfY0bDDcx4O_J0GIi1-iYIWVj2poJ9LoyFi8fZv9IbKZtmBY0bz3e0ar_ywQUBcSmT44QF-zWafelqzG-Ib0-OqNm-bFHfS5WThlhRjfWeSBsMBRpBar9t_ZRt2uIVvaAxvkfnrauEV_ee9QZwS65F_Dhvk2XTYmMOycYjC7zw30nWZFLbC6g_gBrmlW0wACCxlikStYkhtKbnWFfVAR0-5u_SQ_3wROQ2YZkkBG42urvfUcdhnMi43jUoZM81XwnygbIjX5iekzvoSYsqqZCppHj89a2XCzhzAkM50K9W_yriG32WK-UV_TsQkdO0jqx63lAf79V_diCfjIaoFgJhTTItQ68w8-S0qrWbyTshslRhSD8hKDLd7rRjJU-iAmF7dPPZKBDHnTpaCCBKa1sxAyaZmQuPRH8JoH3HUiCC7UJU7cNKL6YgJK2JJAifO79dHEZlMkeElDQhfrPUabN-Dw78Fj-ua_o29Ymo15ThKq35shdnDehP3jgl2JLE4KCd3UVKfN-Qpk1pFGDXcE1EllLzmGPYHbhS9p_aHXzRPM5LJoUlH8prMCysW5k9ni-_x365u1J_1uithEM=",
   "salt": "cMy8xu0c9vwuJ_gLCBjOlA==",
   "text": "The seventh son is a folkloric motif in the Celtic world. In several lands of Celtic influence, people believed that birth order gave some the gift of second sight. The seventh son of a seventh son stood out as the most gifted or the most cursed. In the Cotswolds people held that such a person could see the double of one about to die. The belief said this same person served as a co-walker beside the dying. The belief survived in parts of America where many people had come from Celtic lands. The motif rests on the old power of repeated numbers and of an inherited gift.",
-  "objective": "Replace the machine text for seventh son with a fresh CSG-SME1000 rewrite from Monaghan.",
-  "key_results": [
-    "text holds a fresh CSG-SME1000 rewrite, not a copy of the machine prose",
-    "entities and attributes corrected and enriched for the kgraph"
-  ],
-  "evidence": "Monaghan 2003; Koch 2006."
+  "okr": {
+    "objective": "Replace the machine text for seventh son with a fresh CSG-SME1000 rewrite from Monaghan.",
+    "key_results": [
+      "text holds a fresh CSG-SME1000 rewrite, not a copy of the machine prose",
+      "entities and attributes corrected and enriched for the kgraph"
+    ],
+    "evidence": "Monaghan 2003; Koch 2006."
+  }
 }

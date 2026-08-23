@@ -34,14 +34,16 @@
   "cyphertext": "m3O3v7e092eR--lT172p3hL2ogLq4jOB8FTm90jMnK9rJYOVjQs-AotOoy7dzydFM2eeWVDBvfbtS9nzmQ0PMbVvqULpTI2saYmQ4Z_824H-AIpGCPpSjyTdyXfMXKdsXvg7QxRMn7D1y9xcoI-cMQdalM6SRFyfbgfEfNr3NxxqdWXh8osQzDZAKZtSYFSR1fryWfcpLdtzeMYA2Xvby5BKqQdF8Kp0bTodcrWI9uv1SV3ocg0geMZxS-zo3EeQtw1vXJ8fIOaNWsHu0E_ThHNd5twS8WmbQYeO7X4e5_xeKJbv4qXSwpBgNeZo-vTe9RdYwM-ShJmIviac4P4R8cdkFW9YLHjf3wWx6zhq_R-V50MlsY3Nv6PXl5WsuiKJRut5Im2lHY4u3BV0ui-RiClqpeLtfnS3Ushcwo7FXqONXZYcrGXMt6BXgesBzROkZM0wnpzVMlj1frhfi67x4tlbmPUSzTE4MqrlWSabvxdRj9TlI_zZ0O94G7LbDfdVVLycgSCJ2hw4XOv0jQ5s_9evBYjDJiWqAUnDHDdzeFKEQbmNP6surtvjMMIYnwplxgYS7J0RXfLVceyo92aX9yRQ5u8qkDQlocuFGFo7GlNWBH3dK0zXgrop2hguPoU3USGF1m-lmIQUWI3_m6T-MFPLGisRVLWOzONIvNnYLIF-txnIO1iXid2-dWSBwcj2g4J6nyG0HseVtlzqb5o-O08c43HgjmZGloKKRC2_0yyfOIBkDZmVky8u_sTfhFwFHliDz7DUle7hnJxBtF8oxMRRH0-9Hq2hmrmK44a_tZOSLKNIGPjMb4QVvD_M2rqhEdoZ9teYE8XuM-V3jayo1iKZ2o96XOH8wKOIs4hjxGP41E2ULG4hN12VxoYcgpUpIdjwRFo=",
   "salt": "x-3dOq38uz1CgXlfu3KNMw==",
   "text": "The dracae are evil water fairies in Scottish folklore. They lure travelers by shifting shape into golden objects that float in lakes and rivers. A traveler reaches for the gold cup, but it drifts away. The victim falls into the water and drowns. One captive of the dracae ended up in a beautiful land beneath the waves. There the fairies enslaved her as a midwife. When she finally returned, she touched her eye with Fairy Ointment. That ointment let her see the dracae as they truly were. She perceived them pretending to be normal men and women who walk among us without notice.",
-  "objective": "Rewrite the dracae entry in CSG-SME1000 prose with source-accurate nouns.",
-  "key_results": [
-    "Meets CSG-SME1000 sentence rules",
-    "All required nouns present",
-    "80-140 words",
-    "No prose fragments"
-  ],
-  "evidence": [
-    "monaghan.txt:12319-12331 dracae"
-  ]
+  "okr": {
+    "objective": "Rewrite the dracae entry in CSG-SME1000 prose with source-accurate nouns.",
+    "key_results": [
+      "Meets CSG-SME1000 sentence rules",
+      "All required nouns present",
+      "80-140 words",
+      "No prose fragments"
+    ],
+    "evidence": [
+      "monaghan.txt:12319-12331 dracae"
+    ]
+  }
 }

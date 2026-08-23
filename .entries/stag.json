@@ -37,10 +37,12 @@
   "cyphertext": "ya-e7hBLJtwrEEgGKsJs9kw0Pz2aPNzfYsGp-4RMBS8xLRywESj0avRsJBInoZt35zGUrrKomR3ZCE3SSxDnyRlPSUXvgt9f7QbzBh6Wa25_XvjowFb-3-A3P2rdzwo7qCJDJ7MEwXyJg2GeYa2v4aeyc3luJH2-LHRGyeI3ay5OehQGl9CByUgYSZxM1cSZerJeinft-j35jtiSooA3qXlSXY32S4CWakz2JGd95H7VKX5EAkp0YwskbPBgojyA",
   "salt": "Sa0353AE1XLnsY5KVPk9cg==",
   "text": "The stag is a mythic animal. It is the horned male of the deer. It holds a strong place in the images of the god Cernunnos. He wears antlers in many sculptures and reliefs. The horns are those of a stag, not of a tame beast. So the stag carries the power of the wildwood. Deer sprout antlers in the spring and shed them in the fall. The stag thus also marks the turn of the seasons. In story the stag stands for the wild and the hunt. It is the great beast of the woods.",
-  "objective": "Replace the machine text for stag with a fresh CSG-SME1000 rewrite from Monaghan.",
-  "key_results": [
-    "text holds a fresh CSG-SME1000 rewrite",
-    "entities and attributes corrected for the kgraph"
-  ],
-  "evidence": "Monaghan 2003 (stag, Mythic animal, deer, Cernunnos, antlers)."
+  "okr": {
+    "objective": "Replace the machine text for stag with a fresh CSG-SME1000 rewrite from Monaghan.",
+    "key_results": [
+      "text holds a fresh CSG-SME1000 rewrite",
+      "entities and attributes corrected for the kgraph"
+    ],
+    "evidence": "Monaghan 2003 (stag, Mythic animal, deer, Cernunnos, antlers)."
+  }
 }

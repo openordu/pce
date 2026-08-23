@@ -1,44 +1,46 @@
 {
-    "name": "Accalon",
-    "attributes": [
-        {
-            "entity": "Morgan",
-            "attribute": "stole the scabbard of Excalibur"
-        },
-        {
-            "entity": "Accalon",
-            "attribute": "struck and failed at Arthur"
-        }
-    ],
-    "entities": [
-        {
-            "entity": "Accalon",
-            "type": "Person"
-        },
-        {
-            "entity": "Morgan",
-            "type": "Being"
-        },
-        {
-            "entity": "Arthur",
-            "type": "Person"
-        },
-        {
-            "entity": "Merlin",
-            "type": "Being"
-        }
-    ],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "cyphertext": "ieq--RpsUlWY7VfSZYloNPT6YCqjxRou0pk_OB6726SkTNHaKcCiW88oXRRPTEOuKfFSS08pgiQaYdaETXiTtwQBMB7RELFI-86jLyt6_nzLu9FQA6F8KniYrasqmYbdjNl-aI_rr9JMUXqR1bHqZMkm9aOnRZ9VJRT-2QgygHtkRjt4jM1eA-PlA_iWPi71W1wqgbEGGl3jCCvigZgAPHlXHyOvbSX8I1O-L5QZ8MEc5pTzcAdjFGll22uf_iS-DLvJVO1u3A74uZXcypJU-VjELz0M7JBg89F8ykWOYiFhRJhPSSip405fRzcBPQ7Rbe700nlYu7T5Q2bg1QUBq4a0sO54zW5U_O_RZJuga5q8ESAuJCkAsUUOwbrsUX0CarHCRa_s3vGDxhOe7K6T5Jdp5scNUQIdkBXWsfQkeV58gwt2exqzDbLEPXEosp9paW2RNQXnpa4U9MnUSo8gu1Hw9wc-xagkg9ZQ6CgfvbZqazEifx5ld_eqIRsDMdd-hM20TYinnugFDekqOEkJKZxIv8lFOCV9vuRxmDmxFrae3WKRk9MCUcWdQw==",
-    "salt": "T12hfgjguTYCLhyVkbStRg==",
-    "text": "Accalon is a hero of Arthur's court and the lover of Morgan. He came from Gaul and was one of King Arthur's last foes in battle. Morgan stole the scabbard of Excalibur. That took away Arthur's magic shield against wounds. Accalon hoped to kill the king. But Merlin gave Arthur strength. Accalon fell under Arthur's blow.",
+  "name": "Accalon",
+  "attributes": [
+    {
+      "entity": "Morgan",
+      "attribute": "stole the scabbard of Excalibur"
+    },
+    {
+      "entity": "Accalon",
+      "attribute": "struck and failed at Arthur"
+    }
+  ],
+  "entities": [
+    {
+      "entity": "Accalon",
+      "type": "Person"
+    },
+    {
+      "entity": "Morgan",
+      "type": "Being"
+    },
+    {
+      "entity": "Arthur",
+      "type": "Person"
+    },
+    {
+      "entity": "Merlin",
+      "type": "Being"
+    }
+  ],
+  "sources": [
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+  ],
+  "cyphertext": "ieq--RpsUlWY7VfSZYloNPT6YCqjxRou0pk_OB6726SkTNHaKcCiW88oXRRPTEOuKfFSS08pgiQaYdaETXiTtwQBMB7RELFI-86jLyt6_nzLu9FQA6F8KniYrasqmYbdjNl-aI_rr9JMUXqR1bHqZMkm9aOnRZ9VJRT-2QgygHtkRjt4jM1eA-PlA_iWPi71W1wqgbEGGl3jCCvigZgAPHlXHyOvbSX8I1O-L5QZ8MEc5pTzcAdjFGll22uf_iS-DLvJVO1u3A74uZXcypJU-VjELz0M7JBg89F8ykWOYiFhRJhPSSip405fRzcBPQ7Rbe700nlYu7T5Q2bg1QUBq4a0sO54zW5U_O_RZJuga5q8ESAuJCkAsUUOwbrsUX0CarHCRa_s3vGDxhOe7K6T5Jdp5scNUQIdkBXWsfQkeV58gwt2exqzDbLEPXEosp9paW2RNQXnpa4U9MnUSo8gu1Hw9wc-xagkg9ZQ6CgfvbZqazEifx5ld_eqIRsDMdd-hM20TYinnugFDekqOEkJKZxIv8lFOCV9vuRxmDmxFrae3WKRk9MCUcWdQw==",
+  "salt": "T12hfgjguTYCLhyVkbStRg==",
+  "text": "Accalon is a hero of Arthur's court and the lover of Morgan. He came from Gaul and was one of King Arthur's last foes in battle. Morgan stole the scabbard of Excalibur. That took away Arthur's magic shield against wounds. Accalon hoped to kill the king. But Merlin gave Arthur strength. Accalon fell under Arthur's blow.",
+  "okr": {
     "objective": "Describe the Arthurian hero Accalon.",
-    "evidence": "Monaghan, s.v. Accalon.",
     "key_results": [
-        "Names Morgan as his love",
-        "Names him a late foe of Arthur",
-        "States he fell when Merlin helped Arthur."
-    ]
+      "Names Morgan as his love",
+      "Names him a late foe of Arthur",
+      "States he fell when Merlin helped Arthur."
+    ],
+    "evidence": "Monaghan, s.v. Accalon."
+  }
 }

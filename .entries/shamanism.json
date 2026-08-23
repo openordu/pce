@@ -41,10 +41,12 @@
   "cyphertext": "E-s-Q3Yk_RIRg7IZrxCHcdZWW9ro3qT7v8hxDlEV8rark6CYnlbJaLO2435pNsaTeQAB4nFqF9T8ZabN",
   "salt": "TvDx55EXpgjoitb1xl4-Ig==",
   "text": "Shamanism is a religion of the far north. The word shaman comes from the Tungus tongue of south Siberia. Some scholars find a shamanic thread in early Celtic faith. That thread is the poet as a shape-shifting seer. The poet saw an Otherworld, a realm separate from ours yet joined to it. The Song of Amairgin calls the poet a wave of the sea and a tear of the sun. A northern shaman drums and dances into a trance and takes the form of a bear. Both the poet and the shaman cross into another body. The poet kept the group in balance through satire. The Celts drank ale toward this state, not mind-changing plants. We cannot prove an arctic hysteria among them. Scholars stay split on whether the word fits. Some want shamanism kept for Asia. Others doubt we can read an old faith.",
-  "objective": "Replace the machine text for shamanism with a fresh CSG-SME1000 rewrite from Monaghan.",
-  "key_results": [
-    "text holds a fresh CSG-SME1000 rewrite, not a copy of the machine prose",
-    "entities and attributes corrected and enriched for the kgraph"
-  ],
-  "evidence": "Monaghan 2003 (Celtic shamanism); Lonigan, Shamanism in the Old Irish Tradition."
+  "okr": {
+    "objective": "Replace the machine text for shamanism with a fresh CSG-SME1000 rewrite from Monaghan.",
+    "key_results": [
+      "text holds a fresh CSG-SME1000 rewrite, not a copy of the machine prose",
+      "entities and attributes corrected and enriched for the kgraph"
+    ],
+    "evidence": "Monaghan 2003 (Celtic shamanism); Lonigan, Shamanism in the Old Irish Tradition."
+  }
 }

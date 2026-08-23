@@ -1,39 +1,41 @@
 {
-    "name": "Annaugh",
-    "attributes": [
-        {
-            "entity": "Annaugh",
-            "attribute": "known only at Collins Wood in Connemara"
-        },
-        {
-            "entity": "Annaugh",
-            "attribute": "the genius or spirit of that place"
-        }
-    ],
-    "entities": [
-        {
-            "entity": "Annaugh",
-            "type": "Person"
-        },
-        {
-            "entity": "Collins Wood",
-            "type": "Place"
-        },
-        {
-            "entity": "Connemara",
-            "type": "Place"
-        }
-    ],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "cyphertext": "bfZodyJ_OAeD4ceZmWj-2isY86lEPdTN_ZJ77VyiQiXXAJLG1kaQBKJz_E5mcAUhoO3eoKdmMPqaKV6gNf8OozSDUq3hQr684MknLrKH4E8DW1PSwUyVREk4x9dF4_3EMHxrEIMCAFRHQpfgpSatURZhZy0dj8-speX5JAoNeSIyCPtiViB-oo-dZL8G97KxXgneykXBNCIB3oh-hdtirbXGeIQRwk-ywtInTw==",
-    "salt": "keGrEI9JyX_vERpz7mjGVA==",
-    "text": "Annaugh, also called Anna, is an Irish goddess. She is an obscure figure. People knew her in only one place, Collins Wood in Connemara. There she was the genius loci, the guiding spirit of the site.",
+  "name": "Annaugh",
+  "attributes": [
+    {
+      "entity": "Annaugh",
+      "attribute": "known only at Collins Wood in Connemara"
+    },
+    {
+      "entity": "Annaugh",
+      "attribute": "the genius or spirit of that place"
+    }
+  ],
+  "entities": [
+    {
+      "entity": "Annaugh",
+      "type": "Person"
+    },
+    {
+      "entity": "Collins Wood",
+      "type": "Place"
+    },
+    {
+      "entity": "Connemara",
+      "type": "Place"
+    }
+  ],
+  "sources": [
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+  ],
+  "cyphertext": "bfZodyJ_OAeD4ceZmWj-2isY86lEPdTN_ZJ77VyiQiXXAJLG1kaQBKJz_E5mcAUhoO3eoKdmMPqaKV6gNf8OozSDUq3hQr684MknLrKH4E8DW1PSwUyVREk4x9dF4_3EMHxrEIMCAFRHQpfgpSatURZhZy0dj8-speX5JAoNeSIyCPtiViB-oo-dZL8G97KxXgneykXBNCIB3oh-hdtirbXGeIQRwk-ywtInTw==",
+  "salt": "keGrEI9JyX_vERpz7mjGVA==",
+  "text": "Annaugh, also called Anna, is an Irish goddess. She is an obscure figure. People knew her in only one place, Collins Wood in Connemara. There she was the genius loci, the guiding spirit of the site.",
+  "okr": {
     "objective": "Record Annaugh (Anna), an Irish goddess of one place.",
     "key_results": [
-        "Show her worship only at Collins Wood in Connemara.",
-        "Show her role as the genius loci."
+      "Show her worship only at Collins Wood in Connemara.",
+      "Show her role as the genius loci."
     ],
     "evidence": "Monaghan 2003, s.v. Annaugh"
+  }
 }

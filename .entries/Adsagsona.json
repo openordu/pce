@@ -1,40 +1,42 @@
 {
- "name": "Adsagsona",
- "attributes": [
-  {
-   "entity": "Adsagsona",
-   "attribute": "Continental Celtic goddess of magic and the Otherworld"
-  },
-  {
-   "entity": "Adsagsona",
-   "attribute": "called 'weaver of spells' and 'she who seeks out'"
-  },
-  {
-   "entity": "Adsagsona",
-   "attribute": "found the object of any curse or blessing"
+  "name": "Adsagsona",
+  "attributes": [
+    {
+      "entity": "Adsagsona",
+      "attribute": "Continental Celtic goddess of magic and the Otherworld"
+    },
+    {
+      "entity": "Adsagsona",
+      "attribute": "called 'weaver of spells' and 'she who seeks out'"
+    },
+    {
+      "entity": "Adsagsona",
+      "attribute": "found the object of any curse or blessing"
+    }
+  ],
+  "entities": [
+    {
+      "entity": "Adsagsona",
+      "type": "Being"
+    },
+    {
+      "entity": "Otherworld",
+      "type": "Place"
+    }
+  ],
+  "sources": [
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+  ],
+  "cyphertext": "dt_Ls66NADyzSOYKJrtIs2jNF9KSIyP-Us1utqd3J3jEuf4HvXLbHwJ6onYWZVUXshIlBRoxXjIfkXomRht6rB8L3wfPuIGbuJNOZ_wfRBW0GOoHYDD9R1I4af0vW6zW2kPqj9i_gwd7fbdHiSdblzjoKxcqZDhKIqxzzYjsEuvIGIL8IHX-XAbaXe9nTTqLNWB_jsncSsMHWp69nRKz2xF27PcHmxDy8MxwKtTzgLfBkUhlhg10JCKSf7icH1PPziPKw3NFRHI38GMNwnr7b2D6Gae41uy8F4uAhGd5eah2LU7FsfQgYxCKkOIRtq4JClOKgHpj42gJAma2rbwoBNc=",
+  "salt": "8FWPrKMr-hlLKarFe5h2Mg==",
+  "text": "Adsagsona is a goddess of the Continental Celts. Her worshippers called her 'weaver of spells'. They also called her 'she who seeks out'. She found the object of any curse or blessing. She was a divinity of magic and of the Otherworld.",
+  "okr": {
+    "objective": "Describe Adsagsona as a Continental Celtic goddess of magic.",
+    "key_results": [
+      "Names Adsagsona as a Continental Celtic goddess",
+      "Lists her titles 'weaver of spells' and 'she who seeks out'",
+      "States she found the object of any curse or blessing."
+    ],
+    "evidence": "Monaghan, The Encyclopedia of Celtic Mythology and Folklore, s.v. Adsagsona."
   }
- ],
- "entities": [
-  {
-   "entity": "Adsagsona",
-   "type": "Being"
-  },
-  {
-   "entity": "Otherworld",
-   "type": "Place"
-  }
- ],
- "sources": [
-  "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
- ],
- "cyphertext": "dt_Ls66NADyzSOYKJrtIs2jNF9KSIyP-Us1utqd3J3jEuf4HvXLbHwJ6onYWZVUXshIlBRoxXjIfkXomRht6rB8L3wfPuIGbuJNOZ_wfRBW0GOoHYDD9R1I4af0vW6zW2kPqj9i_gwd7fbdHiSdblzjoKxcqZDhKIqxzzYjsEuvIGIL8IHX-XAbaXe9nTTqLNWB_jsncSsMHWp69nRKz2xF27PcHmxDy8MxwKtTzgLfBkUhlhg10JCKSf7icH1PPziPKw3NFRHI38GMNwnr7b2D6Gae41uy8F4uAhGd5eah2LU7FsfQgYxCKkOIRtq4JClOKgHpj42gJAma2rbwoBNc=",
- "salt": "8FWPrKMr-hlLKarFe5h2Mg==",
- "text": "Adsagsona is a goddess of the Continental Celts. Her worshippers called her 'weaver of spells'. They also called her 'she who seeks out'. She found the object of any curse or blessing. She was a divinity of magic and of the Otherworld.",
- "objective": "Describe Adsagsona as a Continental Celtic goddess of magic.",
- "key_results": [
-  "Names Adsagsona as a Continental Celtic goddess",
-  "Lists her titles 'weaver of spells' and 'she who seeks out'",
-  "States she found the object of any curse or blessing."
- ],
- "evidence": "Monaghan, The Encyclopedia of Celtic Mythology and Folklore, s.v. Adsagsona."
 }

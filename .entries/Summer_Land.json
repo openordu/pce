@@ -45,10 +45,12 @@
   "cyphertext": "OLNR3xGXt5lAovHE5Qa69Ypi76MzlX9Nkz_vOT14LCXVRZnQOdGhjk1n5CxqJQd6qj1Gmou2VFwN8oeL648Z_MZijlvO1jDYL9uZ0Z4zgO53yGTSJgoh8ovow2xTFqsH9arVb1U28BWk0yIWBueM_d65MEaM26sf1OI03lYfKrrlr1_ud3As4rZOqWjwkISjyOFRKirWfxl9ybVMQ2wFJfB3xBfxXW1BKA04jWAez04EFjIhp7GR9gSpsBZOKeMo_i6JaPstyOX_2VtlFwiIxwZ282XllcFDYRu4GafbybDv6O8uwcR5Qg67Jo6BL3usbC5Ss3a4UBODCbOZ9e_sBKe4ubVzcZ37jrAWs61GFMPQ1Hf3b8FQqj0PhTyXdqe_jHZqVj-t573SIkynLmWY3SfH5f2bffOK6g-l66ROvliH1BjA2k-n3zENHAU_WE_wESIjzmF-fC5uz8E-pxRghc2SG_1SUlieJHJf3KdreqnjjG3_clcxshMkCw==",
   "salt": "mGVwXjK8gJg4e9yhFGF5og==",
   "text": "Summer Land, also called the Summer Country, is a British folkloric site. Writers often used the name for the Otherworld, where the weather is always fair, flowers bloom without end, and fruit hangs ripe from the trees. Other texts use the name for the land of Meleagant, the ogre who held Queen Guinevere until the knight Lancelot came to free her. The name marks a place apart from the daily round, where want and weather have no hold. For the writers of Arthur, it kept the shape of an otherworld, rich and open, that a man could reach only by a rare road.",
-  "objective": "Replace the weak machine text for Summer Land with a fresh CSG-SME1000 rewrite from Monaghan.",
-  "key_results": [
-    "text is a fresh rewrite of the British folkloric site",
-    "entities and attributes corrected"
-  ],
-  "evidence": "Monaghan 2003 (Summer Land, Summer Country, Meleagant, Guinevere, Lancelot)."
+  "okr": {
+    "objective": "Replace the weak machine text for Summer Land with a fresh CSG-SME1000 rewrite from Monaghan.",
+    "key_results": [
+      "text is a fresh rewrite of the British folkloric site",
+      "entities and attributes corrected"
+    ],
+    "evidence": "Monaghan 2003 (Summer Land, Summer Country, Meleagant, Guinevere, Lancelot)."
+  }
 }

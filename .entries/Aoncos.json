@@ -1,30 +1,32 @@
 {
-    "name": "Aoncos",
-    "attributes": [
-        {
-            "entity": "Aoncos",
-            "attribute": "a magical island of the Irish Otherworld held aloft by a silver pillar"
-        }
-    ],
-    "entities": [
-        {
-            "entity": "Aoncos",
-            "type": "Place"
-        },
-        {
-            "entity": "silver pillar",
-            "type": "Artifact"
-        }
-    ],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "cyphertext": "4ABuMN2DclKYRT7-QI7uBIoEQdYHM6PDS1FgkKPCdZPpW-R7X-yLd3ej51cz8m90F1EEX5YCCapZ3DAzgCJAg6ukeG3WvZOXl90YqNPhK6FMESTm4bTuFbcbC-EbfY1cjL0DjT8NjuvDbefLUuoqW5UsK83ynvDJEzkDtlwSnMDpZgNLTaXF8_zzdIBSDmk9aRiI6HjmzjlycHLXdRLnN-Y7kBkPmbhh4sSbxFC6T-TQ6j2eevRuPX8RMZ8MuDnoDyR-iEsBARFRXY4u8A==",
-    "salt": "UqzS4kBICbCfn3qVh4u0kA==",
-    "text": "Aoncos is an Irish mythological site. It is one of the many magical islands of the Irish Otherworld. A silver pillar held the island aloft above the ocean waves.",
+  "name": "Aoncos",
+  "attributes": [
+    {
+      "entity": "Aoncos",
+      "attribute": "a magical island of the Irish Otherworld held aloft by a silver pillar"
+    }
+  ],
+  "entities": [
+    {
+      "entity": "Aoncos",
+      "type": "Place"
+    },
+    {
+      "entity": "silver pillar",
+      "type": "Artifact"
+    }
+  ],
+  "sources": [
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+  ],
+  "cyphertext": "4ABuMN2DclKYRT7-QI7uBIoEQdYHM6PDS1FgkKPCdZPpW-R7X-yLd3ej51cz8m90F1EEX5YCCapZ3DAzgCJAg6ukeG3WvZOXl90YqNPhK6FMESTm4bTuFbcbC-EbfY1cjL0DjT8NjuvDbefLUuoqW5UsK83ynvDJEzkDtlwSnMDpZgNLTaXF8_zzdIBSDmk9aRiI6HjmzjlycHLXdRLnN-Y7kBkPmbhh4sSbxFC6T-TQ6j2eevRuPX8RMZ8MuDnoDyR-iEsBARFRXY4u8A==",
+  "salt": "UqzS4kBICbCfn3qVh4u0kA==",
+  "text": "Aoncos is an Irish mythological site. It is one of the many magical islands of the Irish Otherworld. A silver pillar held the island aloft above the ocean waves.",
+  "okr": {
     "objective": "Record Aoncos, a magical Irish island.",
     "key_results": [
-        "Show the silver pillar that held it aloft above the waves."
+      "Show the silver pillar that held it aloft above the waves."
     ],
     "evidence": "Monaghan 2003, s.v. Aoncos"
+  }
 }

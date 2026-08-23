@@ -1,51 +1,53 @@
 {
-    "name": "Angwish",
-    "attributes": [
-        {
-            "entity": "Angwish",
-            "attribute": "king of Ireland and father of Iseult"
-        },
-        {
-            "entity": "Morholt",
-            "attribute": "his brother, whose clash brought Tristan to his court"
-        }
-    ],
-    "entities": [
-        {
-            "entity": "Angwish",
-            "type": "Person"
-        },
-        {
-            "entity": "Iseult",
-            "type": "Person"
-        },
-        {
-            "entity": "Arthur",
-            "type": "Person"
-        },
-        {
-            "entity": "Morholt",
-            "type": "Person"
-        },
-        {
-            "entity": "Tristan",
-            "type": "Person"
-        },
-        {
-            "entity": "Ireland",
-            "type": "Place"
-        }
-    ],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "cyphertext": "GpehUD9VfwSHjLGhUpxDAMzRV_n3tEbX7zqzhgdvP3e8OqDFanMp5IWbP_NonHS3eQulVvF5Ax0gBoT6yuauL4MLIXRh0mbtuKHm1gYvFRtqWcsavflQx9IsvwJdsGis4xcyi0QLPp8thFxRD-I4XZjTtTJJRuXneLa0SM-sX4nNhSu4OHqj7bZKvyV2eynOSxUWLd-nv8DP9Pk7RDATTrl4gToqJqiHBP5YVss0Hmyn-BR8U1xXVdDl1kFJb-etsL8RrZoFhysMhOGwIAsymoWCDicr55fKaUTqgLOMsk39t3q6LC25htnM4Fo8d3Q2JeP0PlrreNTciWirC3tXva4_OS9upbh3rDiM-CVi11M2tXl5SVLZXI7oOUnBSTYomoRo-bhunlmRHUOaY_59qAzpKZtO5Jwq_f_gPjJsQbbHgyOKebtr_8jAvtWhLHh9xrGcuRj-kP5Y4tKCcVQbDovGDHtz4TBkKvmZeDBwFM1hcTqvTpMYcjveRI0b6PwDGN3BuAKIAuSa8iYuymaO8OuAD92z6BPGj-KyKeI4Qd8xU0O4L4T4g9EwTg==",
-    "salt": "8SBuER-vsosXURdlS6Poog==",
-    "text": "Angwish, also called Arwisance, is an Arthurian hero. He was the king of Ireland and the father of Iseult, the woman around whom one of the great Arthurian romances turns. He began as the enemy of King Arthur, then became his ally. His brother Morholt caused the battle that brought the fated lover Tristan to Angwish’s court. There Tristan first set eyes on Iseult.",
+  "name": "Angwish",
+  "attributes": [
+    {
+      "entity": "Angwish",
+      "attribute": "king of Ireland and father of Iseult"
+    },
+    {
+      "entity": "Morholt",
+      "attribute": "his brother, whose clash brought Tristan to his court"
+    }
+  ],
+  "entities": [
+    {
+      "entity": "Angwish",
+      "type": "Person"
+    },
+    {
+      "entity": "Iseult",
+      "type": "Person"
+    },
+    {
+      "entity": "Arthur",
+      "type": "Person"
+    },
+    {
+      "entity": "Morholt",
+      "type": "Person"
+    },
+    {
+      "entity": "Tristan",
+      "type": "Person"
+    },
+    {
+      "entity": "Ireland",
+      "type": "Place"
+    }
+  ],
+  "sources": [
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+  ],
+  "cyphertext": "GpehUD9VfwSHjLGhUpxDAMzRV_n3tEbX7zqzhgdvP3e8OqDFanMp5IWbP_NonHS3eQulVvF5Ax0gBoT6yuauL4MLIXRh0mbtuKHm1gYvFRtqWcsavflQx9IsvwJdsGis4xcyi0QLPp8thFxRD-I4XZjTtTJJRuXneLa0SM-sX4nNhSu4OHqj7bZKvyV2eynOSxUWLd-nv8DP9Pk7RDATTrl4gToqJqiHBP5YVss0Hmyn-BR8U1xXVdDl1kFJb-etsL8RrZoFhysMhOGwIAsymoWCDicr55fKaUTqgLOMsk39t3q6LC25htnM4Fo8d3Q2JeP0PlrreNTciWirC3tXva4_OS9upbh3rDiM-CVi11M2tXl5SVLZXI7oOUnBSTYomoRo-bhunlmRHUOaY_59qAzpKZtO5Jwq_f_gPjJsQbbHgyOKebtr_8jAvtWhLHh9xrGcuRj-kP5Y4tKCcVQbDovGDHtz4TBkKvmZeDBwFM1hcTqvTpMYcjveRI0b6PwDGN3BuAKIAuSa8iYuymaO8OuAD92z6BPGj-KyKeI4Qd8xU0O4L4T4g9EwTg==",
+  "salt": "8SBuER-vsosXURdlS6Poog==",
+  "text": "Angwish, also called Arwisance, is an Arthurian hero. He was the king of Ireland and the father of Iseult, the woman around whom one of the great Arthurian romances turns. He began as the enemy of King Arthur, then became his ally. His brother Morholt caused the battle that brought the fated lover Tristan to Angwish’s court. There Tristan first set eyes on Iseult.",
+  "okr": {
     "objective": "Record Angwish, king of Ireland and father of Iseult.",
     "key_results": [
-        "Show his enmity then alliance with Arthur.",
-        "Show Morholt bringing Tristan to his court."
+      "Show his enmity then alliance with Arthur.",
+      "Show Morholt bringing Tristan to his court."
     ],
     "evidence": "Monaghan 2003, s.v. Angwish"
+  }
 }

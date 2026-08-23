@@ -42,10 +42,12 @@
   "cyphertext": "SsVX1xRXfSDbh6jmW0jdQfwM9hH_rg65e8peasHtkT3KDOCJiDo6nNsHXUr1aH4qYb9Hyc3Dd-8AHFvgBbDej0e4h25OR8DiQnSx8E7Kg_fQNeaRWanIk5gnPRK8TrCwla7XOop-E2l1EBiDRJBKc8NfwpnhtMha4I6W064U8_Q9-001xMz4tJlE7vIBeIJFoBT8MrlM_yToUE2bxceLRwXIFCa7TXSXF_CK738K9PCk_cF3g74daRlFOLIcFbEeZfl0wicw4UYeTksbRWLNkL4WDUa_l3S5Eszp96NbwkdAfL2p4ySyp7cVv_hZZSown0oFxN3wX-xnJBJbyUpeUEYey3qWVVvzkrtNdHllZg==",
   "salt": "OaMjGCHkxHUmM5_s0j4cew==",
   "text": "Shee Finnaha is an Irish mythological site. It was the palace of Lir, one of the kings of the Tuatha Dé Danann. The people of the Tuatha Dé Danann were the old divine race of Ireland. The palace stood near the town of Newtown Hamilton. The town sits on the border of counties Armagh and Monaghan. Today it lies in Northern Ireland. No ruin marks the spot. The name survives in story as the home of Lir and his fateful children. The same Lir saw his sons and daughter turned to swans, a tale of the Children of Lir. Shee Finnaha keeps that sorrow tied to a place on the map.",
-  "objective": "Replace the machine text for Shee Finnaha with a fresh CSG-SME1000 rewrite from Monaghan.",
-  "key_results": [
-    "text holds a fresh CSG-SME1000 rewrite, not a copy of the machine prose",
-    "entities and attributes corrected and enriched for the kgraph"
-  ],
-  "evidence": "Monaghan 2003 (Shee Finnaha); Koch 2006 cross-ref."
+  "okr": {
+    "objective": "Replace the machine text for Shee Finnaha with a fresh CSG-SME1000 rewrite from Monaghan.",
+    "key_results": [
+      "text holds a fresh CSG-SME1000 rewrite, not a copy of the machine prose",
+      "entities and attributes corrected and enriched for the kgraph"
+    ],
+    "evidence": "Monaghan 2003 (Shee Finnaha); Koch 2006 cross-ref."
+  }
 }

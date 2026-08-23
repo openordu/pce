@@ -1,61 +1,63 @@
 {
-    "name": "ashes",
-    "attributes": [
-        {
-            "entity": "ashes",
-            "attribute": "thrown at unmarried people on Ash Wednesday"
-        },
-        {
-            "entity": "ashes",
-            "attribute": "a Midsummer fertility symbol"
-        },
-        {
-            "entity": "ashes",
-            "attribute": "taken from Lughnasa bonfires"
-        },
-        {
-            "entity": "ashes",
-            "attribute": "used to bless cattle, fields, and people"
-        }
-    ],
-    "entities": [
-        {
-            "entity": "ashes",
-            "type": "Artifact"
-        },
-        {
-            "entity": "Ash Wednesday",
-            "type": "Concept"
-        },
-        {
-            "entity": "Lent",
-            "type": "Concept"
-        },
-        {
-            "entity": "Midsummer",
-            "type": "Concept"
-        },
-        {
-            "entity": "Lughnasa",
-            "type": "Concept"
-        },
-        {
-            "entity": "Ireland",
-            "type": "Place"
-        }
-    ],
-    "sources": [
-        "Danaher, Kevin. *The Year in Ireland.* Cork: Mercier Press, 1922. Pp. 50, 135.",
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "cyphertext": "eNhhCu-k8kDzVSt-2M_KF3qUlxJ5Jga9rcEuMNzlUgJaslRiwEVPC8AV9GD3oblGgsLErmfwW8bP_xJyohqbENfLrOhWNLT3d5TIlX1SjSVUBcJ4If3ueekzRSJ8v9Bkb_wMygJsDVPp7h2_vBTzGmc3Uy9yErrr3asvAszEm0o_rhU5VI5DO1pbfRNZK_MUAv1kfH2aSfTyQPHeOw_w44fYldK6Pdv5jmwDyP8u6lmxkR5MF4qUMBNWlhyaAMYl7DNJ3aRMqSpm0oyoSNq_CZNcw82Qt85Cp--FyIaZ6aCiBdvp1KjL8ZbfVMDqCIUWkilXrLYaeVw2l1ohUO0zUOCiziE-s3D4Nq2_MgjX1X0H-Hi2jzRYeNt3cpY0LGmGlsHU49wTPGGAUzxl27tDuW3MjvOT7L3slcxxkJJ4MxEEXiEigPyGgVojD1LXsPQvgQ-c3DLgeb268hPa8fPKjIjdMzyL7EYOy1wtR2yhKLcP79TSVplEk6eH4w30UXEMEV3XRboVR1Ab5_gUAL7INscb7UFZU3dnpwxsI_UMIz5AkrQiFFwp4AchMyWiCegtE7QMKzLARlKmWTbx2fvWiBtGZacZPftGAaMiuD36xekzdmYnCtnvYAMxIaewHRbK_8pkwjo1jDwnA7LSSVDV7uA-QQoFUAWh1onmNltHEmu-XbkujRoBlrYrhVmi86V38uGx6YUHqoWTWGQDVYVMp37qZg7K7LPee__Moj8oynablOLZC9_vNKGHE4glJZxqUruJLZPn4P0Vdm7n-MxatZ-Yj-J2GLERFDLBL8CHnpIQGJl-LuXC7EU7n12db_r7jKTaZo_P9w32JXAYkrT-ONJoSIMbQ8rfyDTmYNoZ85p241-ixB59f4kC7KTjup6O0qCdYt9M6w58s-32L-PLpkLPsg==",
-    "salt": "EGIPRRl85gOV4FyxIakOog==",
-    "text": "Remnant ash from peat fires played a role in Irish folk tradition. Some traditions come from Christianity. Ash Wednesday begins the penitential season of Lent. People threw ashes at unmarried people then. This gave rise to a saying. The saying said a person would get the ash-bag thrown at them. The phrase meant the person was unmarriageable. Older traditions are probably pre-Christian. They used ashes as a Midsummer fertility symbol. The Lenten rite may have grown from this custom. People used ashes from Lughnasa bonfires to bless cattle. They also blessed fields and people with these ashes.",
+  "name": "ashes",
+  "attributes": [
+    {
+      "entity": "ashes",
+      "attribute": "thrown at unmarried people on Ash Wednesday"
+    },
+    {
+      "entity": "ashes",
+      "attribute": "a Midsummer fertility symbol"
+    },
+    {
+      "entity": "ashes",
+      "attribute": "taken from Lughnasa bonfires"
+    },
+    {
+      "entity": "ashes",
+      "attribute": "used to bless cattle, fields, and people"
+    }
+  ],
+  "entities": [
+    {
+      "entity": "ashes",
+      "type": "Artifact"
+    },
+    {
+      "entity": "Ash Wednesday",
+      "type": "Concept"
+    },
+    {
+      "entity": "Lent",
+      "type": "Concept"
+    },
+    {
+      "entity": "Midsummer",
+      "type": "Concept"
+    },
+    {
+      "entity": "Lughnasa",
+      "type": "Concept"
+    },
+    {
+      "entity": "Ireland",
+      "type": "Place"
+    }
+  ],
+  "sources": [
+    "Danaher, Kevin. *The Year in Ireland.* Cork: Mercier Press, 1922. Pp. 50, 135.",
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+  ],
+  "cyphertext": "eNhhCu-k8kDzVSt-2M_KF3qUlxJ5Jga9rcEuMNzlUgJaslRiwEVPC8AV9GD3oblGgsLErmfwW8bP_xJyohqbENfLrOhWNLT3d5TIlX1SjSVUBcJ4If3ueekzRSJ8v9Bkb_wMygJsDVPp7h2_vBTzGmc3Uy9yErrr3asvAszEm0o_rhU5VI5DO1pbfRNZK_MUAv1kfH2aSfTyQPHeOw_w44fYldK6Pdv5jmwDyP8u6lmxkR5MF4qUMBNWlhyaAMYl7DNJ3aRMqSpm0oyoSNq_CZNcw82Qt85Cp--FyIaZ6aCiBdvp1KjL8ZbfVMDqCIUWkilXrLYaeVw2l1ohUO0zUOCiziE-s3D4Nq2_MgjX1X0H-Hi2jzRYeNt3cpY0LGmGlsHU49wTPGGAUzxl27tDuW3MjvOT7L3slcxxkJJ4MxEEXiEigPyGgVojD1LXsPQvgQ-c3DLgeb268hPa8fPKjIjdMzyL7EYOy1wtR2yhKLcP79TSVplEk6eH4w30UXEMEV3XRboVR1Ab5_gUAL7INscb7UFZU3dnpwxsI_UMIz5AkrQiFFwp4AchMyWiCegtE7QMKzLARlKmWTbx2fvWiBtGZacZPftGAaMiuD36xekzdmYnCtnvYAMxIaewHRbK_8pkwjo1jDwnA7LSSVDV7uA-QQoFUAWh1onmNltHEmu-XbkujRoBlrYrhVmi86V38uGx6YUHqoWTWGQDVYVMp37qZg7K7LPee__Moj8oynablOLZC9_vNKGHE4glJZxqUruJLZPn4P0Vdm7n-MxatZ-Yj-J2GLERFDLBL8CHnpIQGJl-LuXC7EU7n12db_r7jKTaZo_P9w32JXAYkrT-ONJoSIMbQ8rfyDTmYNoZ85p241-ixB59f4kC7KTjup6O0qCdYt9M6w58s-32L-PLpkLPsg==",
+  "salt": "EGIPRRl85gOV4FyxIakOog==",
+  "text": "Remnant ash from peat fires played a role in Irish folk tradition. Some traditions come from Christianity. Ash Wednesday begins the penitential season of Lent. People threw ashes at unmarried people then. This gave rise to a saying. The saying said a person would get the ash-bag thrown at them. The phrase meant the person was unmarriageable. Older traditions are probably pre-Christian. They used ashes as a Midsummer fertility symbol. The Lenten rite may have grown from this custom. People used ashes from Lughnasa bonfires to bless cattle. They also blessed fields and people with these ashes.",
+  "okr": {
     "objective": "Record ashes as an Artifact.",
     "key_results": [
-        "Document ashes as a symbolic material in Irish folk tradition.",
-        "Record the Ash Wednesday and Lenten association.",
-        "Note the pre-Christian Midsummer and Lughnasa uses."
+      "Document ashes as a symbolic material in Irish folk tradition.",
+      "Record the Ash Wednesday and Lenten association.",
+      "Note the pre-Christian Midsummer and Lughnasa uses."
     ],
     "evidence": "Monaghan 2003, s.v. ashes.\nDanaher, Kevin. The Year in Ireland. Cork: Mercier Press, 1972, pp. 50, 135."
+  }
 }

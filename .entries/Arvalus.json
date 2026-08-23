@@ -1,60 +1,62 @@
 {
-    "name": "Arvalus",
-    "attributes": [
-        {
-            "entity": "Arvalus",
-            "attribute": "a Continental Celtic god of healing"
-        },
-        {
-            "entity": "Romans",
-            "attribute": "equated Arvalus with Apollo"
-        },
-        {
-            "entity": "Apollo",
-            "attribute": "name applied to divinities of thermal springs"
-        },
-        {
-            "entity": "Arvalus",
-            "attribute": "may have ruled a thermal spring shrine"
-        }
-    ],
-    "entities": [
-        {
-            "entity": "Arvalus",
-            "type": "Person"
-        },
-        {
-            "entity": "Apollo",
-            "type": "Person"
-        },
-        {
-            "entity": "Romans",
-            "type": "Group"
-        },
-        {
-            "entity": "Continental Celts",
-            "type": "Group"
-        },
-        {
-            "entity": "thermal springs",
-            "type": "Concept"
-        },
-        {
-            "entity": "Healing",
-            "type": "Concept"
-        }
-    ],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "cyphertext": "jRNyiJoxUqu2SsCr-O8Kzba6ljxhHZJSkAGPfEwe1L4VZF6KRPmN1uojHPSgQIVI2_ic8mJB6W3ezhZmAhNzpM6YDoUkDi6zjH3GyLCYn5_0ctvNDaKDBQ5EEqvEHtKj5N4RNw7sOZ-Hzm3HNzHknreZVVEahNG8_1_Ygdv4_umLQt1X6ory5d5W_4nGaqEkF_-tkmzOIdb6DfL9Z7GfZFv1y_HWSEu6iYz4zR_zwZNN7fTyuvwm2FNRVA2dF-5DBoJjahwehDcdRvx8bwFiFKOBLeQ8HBSrcC0886_PUGttkjgQEoS5CPbJkj2KLJO8_mzcFP6LdaeB7yk=",
-    "salt": "7fRW8J5zgsq2ComM-IYuCg==",
-    "text": "Arvalus was an obscure Continental Celtic god of healing. The invading Romans equated him with Apollo. The Romans used the name Apollo for divinities of thermal springs. Arvalus may once have ruled such a shrine. Roman writers recorded little about him. Modern scholars know few details of his cult. His association with Apollo points to a healing and water god. The shrines he guarded drew pilgrims who sought cures. Such warm spring sanctuaries held great importance in the Roman world. The equation helped Romans fit a local god into their own pantheon.",
+  "name": "Arvalus",
+  "attributes": [
+    {
+      "entity": "Arvalus",
+      "attribute": "a Continental Celtic god of healing"
+    },
+    {
+      "entity": "Romans",
+      "attribute": "equated Arvalus with Apollo"
+    },
+    {
+      "entity": "Apollo",
+      "attribute": "name applied to divinities of thermal springs"
+    },
+    {
+      "entity": "Arvalus",
+      "attribute": "may have ruled a thermal spring shrine"
+    }
+  ],
+  "entities": [
+    {
+      "entity": "Arvalus",
+      "type": "Person"
+    },
+    {
+      "entity": "Apollo",
+      "type": "Person"
+    },
+    {
+      "entity": "Romans",
+      "type": "Group"
+    },
+    {
+      "entity": "Continental Celts",
+      "type": "Group"
+    },
+    {
+      "entity": "thermal springs",
+      "type": "Concept"
+    },
+    {
+      "entity": "Healing",
+      "type": "Concept"
+    }
+  ],
+  "sources": [
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+  ],
+  "cyphertext": "jRNyiJoxUqu2SsCr-O8Kzba6ljxhHZJSkAGPfEwe1L4VZF6KRPmN1uojHPSgQIVI2_ic8mJB6W3ezhZmAhNzpM6YDoUkDi6zjH3GyLCYn5_0ctvNDaKDBQ5EEqvEHtKj5N4RNw7sOZ-Hzm3HNzHknreZVVEahNG8_1_Ygdv4_umLQt1X6ory5d5W_4nGaqEkF_-tkmzOIdb6DfL9Z7GfZFv1y_HWSEu6iYz4zR_zwZNN7fTyuvwm2FNRVA2dF-5DBoJjahwehDcdRvx8bwFiFKOBLeQ8HBSrcC0886_PUGttkjgQEoS5CPbJkj2KLJO8_mzcFP6LdaeB7yk=",
+  "salt": "7fRW8J5zgsq2ComM-IYuCg==",
+  "text": "Arvalus was an obscure Continental Celtic god of healing. The invading Romans equated him with Apollo. The Romans used the name Apollo for divinities of thermal springs. Arvalus may once have ruled such a shrine. Roman writers recorded little about him. Modern scholars know few details of his cult. His association with Apollo points to a healing and water god. The shrines he guarded drew pilgrims who sought cures. Such warm spring sanctuaries held great importance in the Roman world. The equation helped Romans fit a local god into their own pantheon.",
+  "okr": {
     "objective": "Record Arvalus as a Person.",
     "key_results": [
-        "Document Arvalus as an obscure Continental Celtic healing god.",
-        "Record his equation with Apollo by the Romans.",
-        "Note his possible rule over a thermal spring shrine."
+      "Document Arvalus as an obscure Continental Celtic healing god.",
+      "Record his equation with Apollo by the Romans.",
+      "Note his possible rule over a thermal spring shrine."
     ],
     "evidence": "Monaghan 2003, s.v. Arvalus."
+  }
 }

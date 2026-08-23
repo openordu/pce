@@ -38,10 +38,12 @@
   "cyphertext": "8bJ456LvsXX7BsM0WoehCpnk3F-fZjwI80wFcTGEFYfLwHcpAhBke6KtDt18OVgNulz0lKmX76buPKEN0QY-_vveGBh93o1c6ERKNUVupg9W7Ty-L4tKu4UV5zDra_dE1RcEJWUlEs3hVXYO6toMBXn97GO37_u90vOVW0QYHDS3f1ueSvWsIPVIMOFx62vdhON2DUUTLS5zkA73g0xxnNnKkCQX4ToBrWmolkU40q7K09wADqMQMwH5yccG49hTEFZkrS8C21jIf07ic7veM0GkzWTgzVkhv3_taz1N3noMdWOSf9h_sumjkCQ2HJumXYLpb0ZAukNFKyggRfaP9pWrkYXRp_3kGr8mdQ2i8djhWz1lncF4dtcsSpM2QfzDtnQ-rpsTLeu1m-1hzNoUcs644yHGYbetbYKhUp_bNjc-F3UH6_noeAl1xPO0mFAiGo54qHGReqrXvGm_OTg=",
   "salt": "Fgbo2L52ZM7J0KCjcdRvig==",
   "text": "The skriker is a figure of the British folk tradition. Its name comes from a word that means a trash or a scrap. The skriker tells that a death is close. It appears, like the banshee, to warn of the loss to come. It walks the forests of Yorkshire and of Lancashire, where it cries through the night. Like the fairy folk it can shift its shape. The skriker may turn itself into a huge black dog, and that shape is hard to face. The one who sees it knows that death will follow. The dog form is only one of its shapes. The skriker keeps to the northern lanes and carries the cold sign of the death of a life with it, moving from hedge to hedge until the news reaches the house that will mourn.",
-  "objective": "Replace the machine text for skriker with a fresh CSG-SME1000 rewrite sourced from Monaghan.",
-  "key_results": [
-    "A fresh CSG-SME1000 rewrite holds in the text field",
-    "entities and attributes enriched for the kgraph"
-  ],
-  "evidence": "Monaghan 2003 (skriker); Briggs, A Dictionary of Fairies."
+  "okr": {
+    "objective": "Replace the machine text for skriker with a fresh CSG-SME1000 rewrite sourced from Monaghan.",
+    "key_results": [
+      "A fresh CSG-SME1000 rewrite holds in the text field",
+      "entities and attributes enriched for the kgraph"
+    ],
+    "evidence": "Monaghan 2003 (skriker); Briggs, A Dictionary of Fairies."
+  }
 }

@@ -1,47 +1,49 @@
 {
-    "name": "Angharad",
-    "attributes": [
-        {
-            "entity": "Angharad",
-            "attribute": "an obscure Arthurian heroine courted by Peredur"
-        },
-        {
-            "entity": "Angharad",
-            "attribute": "may have begun as a goddess of the land’s sovereignty"
-        }
-    ],
-    "entities": [
-        {
-            "entity": "Angharad",
-            "type": "Person"
-        },
-        {
-            "entity": "Peredur",
-            "type": "Person"
-        },
-        {
-            "entity": "Angharad Law Eurawc",
-            "type": "Person"
-        },
-        {
-            "entity": "Angharad of the Golden Hand",
-            "type": "Person"
-        },
-        {
-            "entity": "sovereignty",
-            "type": "Concept"
-        }
-    ],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "cyphertext": "FkEINWQxBCnt7iklfkFNd1gSsX2Rsrm5Yc1XmNcMzyha8-h7otRcGPGllLhhKEG0YMs7FqwQL3KMy48DPovV8rlSZ3GlwKwyE9vkPwShzh8bODq2uhbg-lVQAgNljChUORwatcewzOkexdtv9vIZ-92TjxuVorGP7YlCosk-L1S2yvUvKpwtxOBlWRwSj1svxQ-48sPrn6AyhmeAy_0RWm54XVn_-VIlxGFS9ffK66L6hNP9M4640NGh4b2-NDCSOVd70JwRqNq4Tud5H4zUyULtpa9CVDEFvlIUYFzEaidD68mggzlJ",
-    "salt": "FCEWNCOFGY6B_HGCVd8SCQ==",
-    "text": "Angharad, also called Angharad Law Eurawc and Angharad of the Golden Hand, is an Arthurian heroine. She is an obscure figure. The knight Peredur courted her. Some scholars suggest she began as a goddess of the land’s sovereignty. In this reading she stands for the kingdom that a worthy king must win.",
+  "name": "Angharad",
+  "attributes": [
+    {
+      "entity": "Angharad",
+      "attribute": "an obscure Arthurian heroine courted by Peredur"
+    },
+    {
+      "entity": "Angharad",
+      "attribute": "may have begun as a goddess of the land’s sovereignty"
+    }
+  ],
+  "entities": [
+    {
+      "entity": "Angharad",
+      "type": "Person"
+    },
+    {
+      "entity": "Peredur",
+      "type": "Person"
+    },
+    {
+      "entity": "Angharad Law Eurawc",
+      "type": "Person"
+    },
+    {
+      "entity": "Angharad of the Golden Hand",
+      "type": "Person"
+    },
+    {
+      "entity": "sovereignty",
+      "type": "Concept"
+    }
+  ],
+  "sources": [
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+  ],
+  "cyphertext": "FkEINWQxBCnt7iklfkFNd1gSsX2Rsrm5Yc1XmNcMzyha8-h7otRcGPGllLhhKEG0YMs7FqwQL3KMy48DPovV8rlSZ3GlwKwyE9vkPwShzh8bODq2uhbg-lVQAgNljChUORwatcewzOkexdtv9vIZ-92TjxuVorGP7YlCosk-L1S2yvUvKpwtxOBlWRwSj1svxQ-48sPrn6AyhmeAy_0RWm54XVn_-VIlxGFS9ffK66L6hNP9M4640NGh4b2-NDCSOVd70JwRqNq4Tud5H4zUyULtpa9CVDEFvlIUYFzEaidD68mggzlJ",
+  "salt": "FCEWNCOFGY6B_HGCVd8SCQ==",
+  "text": "Angharad, also called Angharad Law Eurawc and Angharad of the Golden Hand, is an Arthurian heroine. She is an obscure figure. The knight Peredur courted her. Some scholars suggest she began as a goddess of the land’s sovereignty. In this reading she stands for the kingdom that a worthy king must win.",
+  "okr": {
     "objective": "Record Angharad, an obscure Arthurian heroine.",
     "key_results": [
-        "Show her names and her suitor Peredur.",
-        "Show the claim that she began as a sovereignty goddess."
+      "Show her names and her suitor Peredur.",
+      "Show the claim that she began as a sovereignty goddess."
     ],
     "evidence": "Monaghan 2003, s.v. Angharad"
+  }
 }

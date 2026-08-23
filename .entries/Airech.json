@@ -1,46 +1,48 @@
 {
-    "name": "Airech",
-    "attributes": [
-        {
-            "entity": "Airech",
-            "attribute": "an Irish hero, foster son of Amairgin"
-        },
-        {
-            "entity": "Airech",
-            "attribute": "steered the ship of the mysterious Donn"
-        },
-        {
-            "entity": "Airech",
-            "attribute": "may be the steersman of the death barge"
-        }
-    ],
-    "entities": [
-        {
-            "entity": "Airech",
-            "type": "Person"
-        },
-        {
-            "entity": "Amairgin",
-            "type": "Person"
-        },
-        {
-            "entity": "Milesians",
-            "type": "Concept"
-        },
-        {
-            "entity": "Donn",
-            "type": "Person"
-        }
-    ],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "cyphertext": "Km1pPwvc7odXARjFRP6KYc9ZU6E-Z4OCnzEXLTFpE6lsIfFvVSkBqPIBrVFUH__mO-Um2Osv5UCkJiDPvEdtRx1PTeahMBz73K98SqKG14YD0BKS4elhGqRX-WjyR-0O5tJ2GgeL9qlzn2PYjqN17JGd95U0DRwUT2oGcGfU_b7VvkUCY90F7dxpKYgdDnU_1VtjP93b_6fhetKjn7RrAmnbi2HUfdrBXDlKzjNYug96EvU-bd5n2GAbdRG193oVeHnXmI67gfCpl8SOOAzx_mVeXuzZIEM9hXoIpXHi2xRvqEr3HeuwsbZNDGWtDuEvsJ0VMZmkxVE9ThfgfFNQqLIyHW8vjHxrc9wGQhIcrtyArQG7oTK584L3sTrxd9E2Qv9weZ4C774-CbvwBPFAkOKugpHa-nHnzLwc",
-    "salt": "j5jcpO1zY28snfZJAXbH-w==",
-    "text": "Airech was an Irish hero and the foster son of Amairgin, the great bard of the Milesians. He plays a small part in Irish mythology. He steered the ship of the mysterious Donn. Because Donn is sometimes read as a ruler of death, Airech may be the steersman of the death barge.",
+  "name": "Airech",
+  "attributes": [
+    {
+      "entity": "Airech",
+      "attribute": "an Irish hero, foster son of Amairgin"
+    },
+    {
+      "entity": "Airech",
+      "attribute": "steered the ship of the mysterious Donn"
+    },
+    {
+      "entity": "Airech",
+      "attribute": "may be the steersman of the death barge"
+    }
+  ],
+  "entities": [
+    {
+      "entity": "Airech",
+      "type": "Person"
+    },
+    {
+      "entity": "Amairgin",
+      "type": "Person"
+    },
+    {
+      "entity": "Milesians",
+      "type": "Concept"
+    },
+    {
+      "entity": "Donn",
+      "type": "Person"
+    }
+  ],
+  "sources": [
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+  ],
+  "cyphertext": "Km1pPwvc7odXARjFRP6KYc9ZU6E-Z4OCnzEXLTFpE6lsIfFvVSkBqPIBrVFUH__mO-Um2Osv5UCkJiDPvEdtRx1PTeahMBz73K98SqKG14YD0BKS4elhGqRX-WjyR-0O5tJ2GgeL9qlzn2PYjqN17JGd95U0DRwUT2oGcGfU_b7VvkUCY90F7dxpKYgdDnU_1VtjP93b_6fhetKjn7RrAmnbi2HUfdrBXDlKzjNYug96EvU-bd5n2GAbdRG193oVeHnXmI67gfCpl8SOOAzx_mVeXuzZIEM9hXoIpXHi2xRvqEr3HeuwsbZNDGWtDuEvsJ0VMZmkxVE9ThfgfFNQqLIyHW8vjHxrc9wGQhIcrtyArQG7oTK584L3sTrxd9E2Qv9weZ4C774-CbvwBPFAkOKugpHa-nHnzLwc",
+  "salt": "j5jcpO1zY28snfZJAXbH-w==",
+  "text": "Airech was an Irish hero and the foster son of Amairgin, the great bard of the Milesians. He plays a small part in Irish mythology. He steered the ship of the mysterious Donn. Because Donn is sometimes read as a ruler of death, Airech may be the steersman of the death barge.",
+  "okr": {
     "objective": "Record Airech, the foster son of Amairgin who steered Donn's ship.",
     "key_results": [
-        "Show his part as steersman and his link to the figure of Donn."
+      "Show his part as steersman and his link to the figure of Donn."
     ],
     "evidence": "Monaghan 2003, s.v. Airech"
+  }
 }

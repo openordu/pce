@@ -27,14 +27,16 @@
   "cyphertext": "i9sjTVhSIK0gBQNxfGvUWz7DsEWdB2V4zyRn-g1wZK-UBGxLEj7GQYnWb6oqvtPYKS83vmpGAcRQM4WUKaqzhxXniWkToCCHS3Y-4QaAQNl3Em19QLNTp8VrRVlIFDIcmMZ_G9wqmsxhHp1RlcuVQaW2JL1UKk6JnQ_8XR2tob_ybubso7USqXApICNATG3Hn38-fvkeYjXqDqKMV4ZTGsfO59YLjoSjBaKnH1VlSKIRudZzMgeF9aejqajeW6bEGLlvOxoFpCXNqBL37IbRAAxFOnJMgNshTC0NW7chOzP8EE6AZbBc9nJY4zlJfYEEmu-_sT25FNLCSubtqYB_zcJb1M72NQl1xmefYvN3g61zoDpjd3YvqMI2-1s7bX5c8nZTAbRA6owEuwovZXGwdawGz3iZOYGE1Vc39UFvGSNF2JGllFxlWeN4wrbXT5x8o-PUIUd6pbMEC3aX23KMLhKqCMK324OENZqwYtWd7vzf5wN11H7banCJJ6A2dGU702AgwybbMeIaIj7GkxQf638hA8tXzKFeQvYqS65fuqweYU0cBff_aWo8UnwRy_fITZ26RF9cINf_0l4_ZRIPg6jz5KrQXqSpOFG3vSXCbsLzKGkIwsIzufD0yCDTCZd8J44BgssynIRj5FbmVx6Uc0k6uABRU-QXPjizxBh6hd8Yw5e3U_G8gHl0DerFz33Nk69YUdf_h5zeCK1d1DkfhX110W6xOb3MKBMvK0E4sa7zx8tYM_fq5eDxpW7LGyOrSXndgUyp5xbgWTsZiTXHnEd4ez_0F8XR7b7mgS3eC5AW6pkWwA87fqfa-pBKI1RyvaIH12DDQK79jpIvuN7rz8mCEW6UGhR5pu4KPBTCWeiCeYRVxaS3AC6ALeO69SxmXiym",
   "salt": "lor9fNlsOQlPPlxsgImumw==",
   "text": "The dunnie was a mischievous Northumbrian sprite. During a woman's labor it disguised itself as the midwife's horse. It then disappeared, leaving the midwife stranded. It played the same trick on ploughmen who went to harness the team in a barn. In Scotland the same creature took the name doonie. It often appeared in the shape of a horse. It could also seem to be an old woman or a man. The doonie shared the wicked and sometimes dangerous teasing of its southern relative.",
-  "objective": "Rewrite the dunnie (doonie) entry in CSG-SME1000 prose with source-accurate nouns.",
-  "key_results": [
-    "Meets CSG-SME1000 sentence rules",
-    "All required nouns present (dunnie, doonie)",
-    "83 words",
-    "No prose fragments"
-  ],
-  "evidence": [
-    "monaghan.txt:12780-12795 dunnie (doonie)"
-  ]
+  "okr": {
+    "objective": "Rewrite the dunnie (doonie) entry in CSG-SME1000 prose with source-accurate nouns.",
+    "key_results": [
+      "Meets CSG-SME1000 sentence rules",
+      "All required nouns present (dunnie, doonie)",
+      "83 words",
+      "No prose fragments"
+    ],
+    "evidence": [
+      "monaghan.txt:12780-12795 dunnie (doonie)"
+    ]
+  }
 }

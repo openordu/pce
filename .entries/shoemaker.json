@@ -42,10 +42,12 @@
   "cyphertext": "zmKxMEZDHuzHG2KYoVzgMbOO3twW6L3020VsNZ-G6mE6b5X7uHSYYV3AdZnEKkke8p4YyxCFTb-7QAJwOrBCiPw_jN_i_wgM7hQDuvH9TQRjYiu1k227Bedp-kiyPKRL4w0aisHyzE8vQHJSiOkKU2rIogBKQx9u7NWbNCmJhMFdaskk1SyZPrUfBue1DwKvh3934SC05Hko2PTSK2bLldk93SQtOW5ot8lnjAeNs81Iirq01O7W--ZIfXShOGJ3mVp4-6CWdMRo4tOEuviafF6GgOV8pdoMyJzyQRsD_4FkjiYRyzwyeDQSgmQtmioP4R-m6WXiKQez7HS_eHtiXFf7wJ-1PeTCV9RH7FhJqsdxAdPuG1goKNlHHiHH7VsWGGA0EqVY3faghkUCYCNlaQ06O_nPc17rsbx6uXcSEnprNHEyx0fzkGKGasEHAuWl4pLGCDSD3S6led6BBQou7ZTqkKPBB3tQ9InF-WqRoSuByhU7x2WY4LscrSSAiotIhh1JnzpRoGYqyCAh1SXgJkUkAkRdx0TuJIQuqO3Ahve14TueHX5-2nbZ7Ojhh7kYk3B8AXy7peIM_eGzj0UD-VW7VHeszVfyMMJ_LR_l6iUczBE6tWfcoJL6loOjDJ2PBk4VOAYoSxVyhUC2kAA0u4mvRkaIWSJnf7O92vaLwadJfUQHCvtFN8cri0yjcEe94lyZcmrvgQDLLSF1lAeKczQrathsKDs3iTTIfMXGYYa-3u4jPk5Lx7ar5_KzFFJcOQdyFkKakOMLusu7OUOwTKTYprN5c4jHk0whg8lttoB4hvqTSQlSo-5OIKE=",
   "salt": "o6ehUXGcUIQTVBjcDRH7HQ==",
   "text": "The shoemaker holds high rank in Irish folklore. A common craftsman rarely gets such honor. The name of the fairy shoemaker, the leprechaun, lifts him. Shoemakers are clever men. Their cleverness can cause trouble. In one tale a man learned shoemaking from the fairies. He made shoes for the parish priest. The priest could not say Mass while he wore them. The fairy shoemaker is Lugh-chromain, the little stooped Lugh. Lugh once ruled the arts and treasure. After Christianization he became a small folklore figure. The leprechaun lives on in books. James Stephens wrote the comic novel Crock of Gold. It became the American musical and film Finian's Rainbow.",
-  "objective": "Replace the machine text for shoemaker with a fresh CSG-SME1000 rewrite from Monaghan.",
-  "key_results": [
-    "text holds a fresh CSG-SME1000 rewrite, not a copy of the machine prose",
-    "entities and attributes corrected and enriched for the kgraph"
-  ],
-  "evidence": "Monaghan 2003 (shoemaker + Lugh-chromain; Crock of Gold; Finian's Rainbow)."
+  "okr": {
+    "objective": "Replace the machine text for shoemaker with a fresh CSG-SME1000 rewrite from Monaghan.",
+    "key_results": [
+      "text holds a fresh CSG-SME1000 rewrite, not a copy of the machine prose",
+      "entities and attributes corrected and enriched for the kgraph"
+    ],
+    "evidence": "Monaghan 2003 (shoemaker + Lugh-chromain; Crock of Gold; Finian's Rainbow)."
+  }
 }

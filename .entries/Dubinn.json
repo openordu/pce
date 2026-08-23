@@ -34,14 +34,16 @@
   "cyphertext": "h6-MLxMtslaDoZ0JEtdFTiNA1mhYTgJpJLUBlHDelGHffTwmqLIR3rNkSJeEYACLM7DIJnKQfdHJUlwNyds677lHeoN-jqswf9W_ci2B3583tsffOT9GmmGpxzNXsxEDuqEeR_czC1Vb0_KcE5z1pgc967ty38IQobnIGKlfTkmj2G93PtMUMFHmWI_ZQ4wti3pViw1zgIL7HOsw",
   "salt": "tAK2aIiwW4nXuh3PhST-Lw==",
   "text": "Dubinn is an obscure Irish goddess. Her fame rests on a famous descendant. That descendant is Diarmait Ua Duibne. Diarmait ranks as Ireland’s most romantic hero. The goddess of that line earns a small place in the lore. Yet her name lives on through her kin. She stands among the older beings of the island. Scholars honor her through the tales of Diarmait. The romance of his deeds keeps her memory bright.",
-  "objective": "Rewrite the Dubinn entry in CSG-SME1000 prose with source-accurate nouns.",
-  "key_results": [
-    "Meets CSG-SME1000 sentence rules",
-    "All required nouns present",
-    "60-140 words",
-    "No prose fragments"
-  ],
-  "evidence": [
-    "monaghan.txt:12642-12644 Dubinn"
-  ]
+  "okr": {
+    "objective": "Rewrite the Dubinn entry in CSG-SME1000 prose with source-accurate nouns.",
+    "key_results": [
+      "Meets CSG-SME1000 sentence rules",
+      "All required nouns present",
+      "60-140 words",
+      "No prose fragments"
+    ],
+    "evidence": [
+      "monaghan.txt:12642-12644 Dubinn"
+    ]
+  }
 }

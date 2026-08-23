@@ -1,77 +1,79 @@
 {
-    "name": "Aillén Trechenn",
-    "attributes": [
-        {
-            "entity": "Aillén Trechenn",
-            "attribute": "a triple-headed monster"
-        },
-        {
-            "entity": "Aillén Trechenn",
-            "attribute": "attacked Tara and Emain Macha"
-        },
-        {
-            "entity": "Aillén Trechenn",
-            "attribute": "lived in the cave Oweynagat at Cruachan"
-        },
-        {
-            "entity": "Aillén Trechenn",
-            "attribute": "dispatched by the poet Amairgin"
-        },
-        {
-            "entity": "Aillén Trechenn",
-            "attribute": "may be connected with the Mórrígan"
-        }
-    ],
-    "entities": [
-        {
-            "entity": "Aillén Trechenn",
-            "type": "Being"
-        },
-        {
-            "entity": "Tara",
-            "type": "Place"
-        },
-        {
-            "entity": "Emain Macha",
-            "type": "Place"
-        },
-        {
-            "entity": "Ulster",
-            "type": "Place"
-        },
-        {
-            "entity": "Oweynagat",
-            "type": "Place"
-        },
-        {
-            "entity": "Connacht",
-            "type": "Place"
-        },
-        {
-            "entity": "Cruachan",
-            "type": "Place"
-        },
-        {
-            "entity": "Amairgin",
-            "type": "Person"
-        },
-        {
-            "entity": "Mórrígan",
-            "type": "Person"
-        }
-    ],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "image": [
-        "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Four_Provinces_Flag.svg/1200px-Four_Provinces_Flag.svg.png"
-    ],
-    "cyphertext": "0PjVxOHx6Ai8mp66NgBcNHcbYRGyGOTtfLglUYUw1L_kzYwIyUbRx0K02RvlYoaLOqhBVoy9dSx0EDmfCyyiCystykdJzgoSaSXivaL4F3DuupQUNWZIkVWcyDCZreG_eedR2hp_MjiqMTKCUgqZoXxUeHAOl0ElRYVxdlog-ZQA0lqawEgiVFHhV3CaCsB8pbUAXDnq_yZ5EHDMs7fZSasunmYDqTDzmmTiSj_ma61apVErLg1wMTGvNDu9EmQIBnadMeIWZafnQy0tqM-cMP1uDb0NWjJA0YzC3K0TycVEPYCN9fOyAUyGxl8vGRDwsm1KcV-HxGU9DUtQrD_ioAwzxEVtp3SDdE_XTjPyHO6fv-ExJda-WXL37vyVlAtcq-O7Z5MQVUB6-9GAJqu5T87yYGnXh2B-6tY-ZSKdG60xo5rjGPm8AQzTxrl6pz76BHwnJvPILGbo4phZc5Uhpv12Y1lOC6EaCCX0TrT8VHHDpCJDFYF1EshbXUkzb8WYpOrQyBdwzCCgMstKC6MEMhimAJiAqLjXChXJvBJuikbmpV0MQ-gPgo8xLStBzCEAfO-QSQxSIfjoL8yAvELdir7niWaYGLXc_DZEMqtkIC2lGmEATmsNHRosCCwVe3_Wykon9Qik_z00BCLSz7IrdEfCicsSVKKvqEIjqYLSi3_y7W7aZdegnz4OJPSmodpP-X8pgu3m_lm3t8MfuXDaMNFmlfCrt2UjHSmmtA1AL7GMAOZep46c8d-faeC_sg0KTcmWVmDbvh9AzZldlp8rpCLSy22iBek=",
-    "salt": "glbKPTPCoxOrZtzDiScs9g==",
-    "text": "Aillén Trechenn was a triple-headed monster of Irish myth. He attacked Ireland's great capital, Tara, and the regional capital of Emain Macha in Ulster. Writers describe him sometimes as male and sometimes as female. The monster lived in the cave called Oweynagat at the Connacht capital of Cruachan. The poet Amairgin finally dispatched the monster and freed Tara from its grip. Because the usual resident of Oweynagat is the Mórrígan, this figure may be connected with her. The difference between this murderous monster and Aillén mac Midgna is hard to tell.",
+  "name": "Aillén Trechenn",
+  "attributes": [
+    {
+      "entity": "Aillén Trechenn",
+      "attribute": "a triple-headed monster"
+    },
+    {
+      "entity": "Aillén Trechenn",
+      "attribute": "attacked Tara and Emain Macha"
+    },
+    {
+      "entity": "Aillén Trechenn",
+      "attribute": "lived in the cave Oweynagat at Cruachan"
+    },
+    {
+      "entity": "Aillén Trechenn",
+      "attribute": "dispatched by the poet Amairgin"
+    },
+    {
+      "entity": "Aillén Trechenn",
+      "attribute": "may be connected with the Mórrígan"
+    }
+  ],
+  "entities": [
+    {
+      "entity": "Aillén Trechenn",
+      "type": "Being"
+    },
+    {
+      "entity": "Tara",
+      "type": "Place"
+    },
+    {
+      "entity": "Emain Macha",
+      "type": "Place"
+    },
+    {
+      "entity": "Ulster",
+      "type": "Place"
+    },
+    {
+      "entity": "Oweynagat",
+      "type": "Place"
+    },
+    {
+      "entity": "Connacht",
+      "type": "Place"
+    },
+    {
+      "entity": "Cruachan",
+      "type": "Place"
+    },
+    {
+      "entity": "Amairgin",
+      "type": "Person"
+    },
+    {
+      "entity": "Mórrígan",
+      "type": "Person"
+    }
+  ],
+  "sources": [
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+  ],
+  "image": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Four_Provinces_Flag.svg/1200px-Four_Provinces_Flag.svg.png"
+  ],
+  "cyphertext": "0PjVxOHx6Ai8mp66NgBcNHcbYRGyGOTtfLglUYUw1L_kzYwIyUbRx0K02RvlYoaLOqhBVoy9dSx0EDmfCyyiCystykdJzgoSaSXivaL4F3DuupQUNWZIkVWcyDCZreG_eedR2hp_MjiqMTKCUgqZoXxUeHAOl0ElRYVxdlog-ZQA0lqawEgiVFHhV3CaCsB8pbUAXDnq_yZ5EHDMs7fZSasunmYDqTDzmmTiSj_ma61apVErLg1wMTGvNDu9EmQIBnadMeIWZafnQy0tqM-cMP1uDb0NWjJA0YzC3K0TycVEPYCN9fOyAUyGxl8vGRDwsm1KcV-HxGU9DUtQrD_ioAwzxEVtp3SDdE_XTjPyHO6fv-ExJda-WXL37vyVlAtcq-O7Z5MQVUB6-9GAJqu5T87yYGnXh2B-6tY-ZSKdG60xo5rjGPm8AQzTxrl6pz76BHwnJvPILGbo4phZc5Uhpv12Y1lOC6EaCCX0TrT8VHHDpCJDFYF1EshbXUkzb8WYpOrQyBdwzCCgMstKC6MEMhimAJiAqLjXChXJvBJuikbmpV0MQ-gPgo8xLStBzCEAfO-QSQxSIfjoL8yAvELdir7niWaYGLXc_DZEMqtkIC2lGmEATmsNHRosCCwVe3_Wykon9Qik_z00BCLSz7IrdEfCicsSVKKvqEIjqYLSi3_y7W7aZdegnz4OJPSmodpP-X8pgu3m_lm3t8MfuXDaMNFmlfCrt2UjHSmmtA1AL7GMAOZep46c8d-faeC_sg0KTcmWVmDbvh9AzZldlp8rpCLSy22iBek=",
+  "salt": "glbKPTPCoxOrZtzDiScs9g==",
+  "text": "Aillén Trechenn was a triple-headed monster of Irish myth. He attacked Ireland's great capital, Tara, and the regional capital of Emain Macha in Ulster. Writers describe him sometimes as male and sometimes as female. The monster lived in the cave called Oweynagat at the Connacht capital of Cruachan. The poet Amairgin finally dispatched the monster and freed Tara from its grip. Because the usual resident of Oweynagat is the Mórrígan, this figure may be connected with her. The difference between this murderous monster and Aillén mac Midgna is hard to tell.",
+  "okr": {
     "objective": "Record Aillén Trechenn, the triple-headed monster.",
     "key_results": [
-        "Show its attacks on Tara and Emain Macha and its defeat by Amairgin."
+      "Show its attacks on Tara and Emain Macha and its defeat by Amairgin."
     ],
     "evidence": "Monaghan 2003, s.v. Aillén (Ellen, Aillene)"
+  }
 }

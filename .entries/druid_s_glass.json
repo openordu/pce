@@ -58,14 +58,16 @@
   "cyphertext": "pqSH6vagyDe7Q5x8z_UXCu1VVdUbFYbV7koApYxvIVRSuj6vMhxB6bMKOwO0GqKLNwFLzVrVqD32p9CeYSnT",
   "salt": "icwLfV3sBpy--HtT5GGWmA==",
   "text": "The serpent stone is a small round piece of glass. The druids used it for divination and healing. Romans called it druid’s glass or ovum anguinum. Pliny wrote that a Vocontian warrior carried one. Emperor Claudius had that warrior executed because Rome feared the stone. Serpents formed the stone in summer at a certain moon phase. They writhed together and secreted a liquid ball into the air. The garter snake shows similar mating behavior. The stone healed bewitchment. A glass of water held the stone after dipping. The cure served sufferers of many kinds. Folklore treasured the stone as medicine long after the druids faded.",
-  "objective": "Rewrite the druid’s glass entry in CSG-SME1000 prose with source-accurate nouns.",
-  "key_results": [
-    "Meets CSG-SME1000 sentence rules",
-    "All required nouns present",
-    "110-140 words",
-    "No prose fragments"
-  ],
-  "evidence": [
-    "monaghan.txt:35084-35121 serpent stone (serpent’s egg, druid’s glass...)"
-  ]
+  "okr": {
+    "objective": "Rewrite the druid’s glass entry in CSG-SME1000 prose with source-accurate nouns.",
+    "key_results": [
+      "Meets CSG-SME1000 sentence rules",
+      "All required nouns present",
+      "110-140 words",
+      "No prose fragments"
+    ],
+    "evidence": [
+      "monaghan.txt:35084-35121 serpent stone (serpent’s egg, druid’s glass...)"
+    ]
+  }
 }

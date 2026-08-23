@@ -1,45 +1,47 @@
 {
-    "name": "Agrona",
-    "entities": [
-        {
-            "entity": "Agrona",
-            "type": "Being"
-        },
-        {
-            "entity": "Britain",
-            "type": "Place"
-        },
-        {
-            "entity": "Wales",
-            "type": "Place"
-        },
-        {
-            "entity": "Mórrígan",
-            "type": "Person"
-        }
-    ],
-    "attributes": [
-        {
-            "entity": "Agrona",
-            "attribute": "an obscure goddess of war"
-        },
-        {
-            "entity": "Agrona",
-            "attribute": "kin of the death queen Mórrígan"
-        }
-    ],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "image": [],
-    "cyphertext": "6osqbsCTlnI6TuPQ4UoTCrrST1NhmghL4Ow_wzibGaZBZhc6coxOfHRTKmv3NIX4_ZxZ6AOX23wqUiERpwlWL7w-3fJOK57HTDZHbBj_xFG9YmN1zgb2Kc5YTxgN__G6jRos57LF_0PXYIKrBhvtVZXq8mJ79ofSYxiVvmjQf4IZYGLtKgNDE8I8GF0I8cnULBCrLD86v3eYefJ6-s-5a3pDYhbcatZXUkn-2BVyIXUFjH0d688UdQKCZsTjqHfZI2NX",
-    "salt": "jSh3pc9Vs3SYw1gwJPKWWw==",
-    "text": "Agrona was an obscure British goddess of war. She was found in Britain and perhaps in Wales. Some scholars describe her as kin of the Irish death queen Mórrígan.",
+  "name": "Agrona",
+  "entities": [
+    {
+      "entity": "Agrona",
+      "type": "Being"
+    },
+    {
+      "entity": "Britain",
+      "type": "Place"
+    },
+    {
+      "entity": "Wales",
+      "type": "Place"
+    },
+    {
+      "entity": "Mórrígan",
+      "type": "Person"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Agrona",
+      "attribute": "an obscure goddess of war"
+    },
+    {
+      "entity": "Agrona",
+      "attribute": "kin of the death queen Mórrígan"
+    }
+  ],
+  "sources": [
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+  ],
+  "image": [],
+  "cyphertext": "6osqbsCTlnI6TuPQ4UoTCrrST1NhmghL4Ow_wzibGaZBZhc6coxOfHRTKmv3NIX4_ZxZ6AOX23wqUiERpwlWL7w-3fJOK57HTDZHbBj_xFG9YmN1zgb2Kc5YTxgN__G6jRos57LF_0PXYIKrBhvtVZXq8mJ79ofSYxiVvmjQf4IZYGLtKgNDE8I8GF0I8cnULBCrLD86v3eYefJ6-s-5a3pDYhbcatZXUkn-2BVyIXUFjH0d688UdQKCZsTjqHfZI2NX",
+  "salt": "jSh3pc9Vs3SYw1gwJPKWWw==",
+  "text": "Agrona was an obscure British goddess of war. She was found in Britain and perhaps in Wales. Some scholars describe her as kin of the Irish death queen Mórrígan.",
+  "okr": {
     "objective": "Record the obscure British war goddess Agrona.",
     "key_results": [
-        "Show her homelands and her link to the Mórrígan."
+      "Show her homelands and her link to the Mórrígan."
     ],
     "evidence": [
-        "Monaghan 2003, s.v. Agrona"
+      "Monaghan 2003, s.v. Agrona"
     ]
+  }
 }

@@ -1,38 +1,40 @@
 {
- "name": "adder stone",
- "attributes": [
-  {
-   "entity": "adder stone",
-   "attribute": "a glass bead also called a serpent stone"
-  },
-  {
-   "entity": "serpent stone",
-   "attribute": "full account of the adder stone is found there"
+  "name": "adder stone",
+  "attributes": [
+    {
+      "entity": "adder stone",
+      "attribute": "a glass bead also called a serpent stone"
+    },
+    {
+      "entity": "serpent stone",
+      "attribute": "full account of the adder stone is found there"
+    }
+  ],
+  "entities": [
+    {
+      "entity": "adder stone",
+      "type": "Artifact"
+    },
+    {
+      "entity": "serpent stone",
+      "type": "Artifact"
+    }
+  ],
+  "sources": [
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+  ],
+  "image": [
+    "https://upload.wikimedia.org/wikipedia/commons/5/57/Feuerstein_mit_Loch-Huehnergott.jpg"
+  ],
+  "cyphertext": "CuFY5cTegwwV8kG3EsgtEG7WOY5FERKCbxMLPbEKojZDK4P3W8_sGAmsdhDUZq4B-qB5D7pOAOcQfm0=",
+  "salt": "vhc4A6tw9bHbdxZmJjYJ0w==",
+  "text": "The adder stone is a glass bead. Some traditions call it a serpent stone. It carries the full account in the Serpent Stone entry.",
+  "okr": {
+    "objective": "Point the reader to the Serpent Stone entry for the adder stone.",
+    "key_results": [
+      "Names the adder stone as a glass bead",
+      "States the full account is in the Serpent Stone entry."
+    ],
+    "evidence": "Monaghan, The Encyclopedia of Celtic Mythology and Folklore, s.v. adder stone."
   }
- ],
- "entities": [
-  {
-   "entity": "adder stone",
-   "type": "Artifact"
-  },
-  {
-   "entity": "serpent stone",
-   "type": "Artifact"
-  }
- ],
- "sources": [
-  "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
- ],
- "image": [
-  "https://upload.wikimedia.org/wikipedia/commons/5/57/Feuerstein_mit_Loch-Huehnergott.jpg"
- ],
- "cyphertext": "CuFY5cTegwwV8kG3EsgtEG7WOY5FERKCbxMLPbEKojZDK4P3W8_sGAmsdhDUZq4B-qB5D7pOAOcQfm0=",
- "salt": "vhc4A6tw9bHbdxZmJjYJ0w==",
- "text": "The adder stone is a glass bead. Some traditions call it a serpent stone. It carries the full account in the Serpent Stone entry.",
- "objective": "Point the reader to the Serpent Stone entry for the adder stone.",
- "key_results": [
-  "Names the adder stone as a glass bead",
-  "States the full account is in the Serpent Stone entry."
- ],
- "evidence": "Monaghan, The Encyclopedia of Celtic Mythology and Folklore, s.v. adder stone."
 }

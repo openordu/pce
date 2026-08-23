@@ -1,46 +1,48 @@
 {
-    "name": "Aleine",
-    "attributes": [
-        {
-            "entity": "Aleine",
-            "attribute": "an Arthurian heroine"
-        },
-        {
-            "entity": "Aleine",
-            "attribute": "niece of Gawain"
-        },
-        {
-            "entity": "Aleine",
-            "attribute": "lover of Percival"
-        }
-    ],
-    "entities": [
-        {
-            "entity": "Aleine",
-            "type": "Person"
-        },
-        {
-            "entity": "Arthur",
-            "type": "Person"
-        },
-        {
-            "entity": "Gawain",
-            "type": "Person"
-        },
-        {
-            "entity": "Percival",
-            "type": "Person"
-        }
-    ],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "cyphertext": "LF4aJNCNAqv1UlF4r9QrgmtizL3O2zom0IMlMssFVhypR8xwvuxwMShwbteGObbnXy2uHoSHA98SRyOEe52xkb-rbwfkqqkNWOK5ilLKdB8GSoK866PcdxnTWiz8BDoDvEQfcADTSWSyyVxHNHsPhcPpveP5xg_rNwjG2e8lr4hkPevJeB3heqvKPx6VMo5npQhj9Vgc",
-    "salt": "Fz9v17WQbn4JOD0ROruIQw==",
-    "text": "Aleine is a minor figure in the legends of king Arthur. She is a heroine of that world. Aleine was the niece of Gawain and the lover of Percival.",
+  "name": "Aleine",
+  "attributes": [
+    {
+      "entity": "Aleine",
+      "attribute": "an Arthurian heroine"
+    },
+    {
+      "entity": "Aleine",
+      "attribute": "niece of Gawain"
+    },
+    {
+      "entity": "Aleine",
+      "attribute": "lover of Percival"
+    }
+  ],
+  "entities": [
+    {
+      "entity": "Aleine",
+      "type": "Person"
+    },
+    {
+      "entity": "Arthur",
+      "type": "Person"
+    },
+    {
+      "entity": "Gawain",
+      "type": "Person"
+    },
+    {
+      "entity": "Percival",
+      "type": "Person"
+    }
+  ],
+  "sources": [
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+  ],
+  "cyphertext": "LF4aJNCNAqv1UlF4r9QrgmtizL3O2zom0IMlMssFVhypR8xwvuxwMShwbteGObbnXy2uHoSHA98SRyOEe52xkb-rbwfkqqkNWOK5ilLKdB8GSoK866PcdxnTWiz8BDoDvEQfcADTSWSyyVxHNHsPhcPpveP5xg_rNwjG2e8lr4hkPevJeB3heqvKPx6VMo5npQhj9Vgc",
+  "salt": "Fz9v17WQbn4JOD0ROruIQw==",
+  "text": "Aleine is a minor figure in the legends of king Arthur. She is a heroine of that world. Aleine was the niece of Gawain and the lover of Percival.",
+  "okr": {
     "objective": "Record Aleine, a minor Arthurian heroine.",
     "key_results": [
-        "Show her link to Gawain and Percival."
+      "Show her link to Gawain and Percival."
     ],
     "evidence": "Monaghan 2003, s.v. Aleine"
+  }
 }

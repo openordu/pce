@@ -30,10 +30,12 @@
   "cyphertext": "SbFcd8sGb4_YOFUqKbX9hp8C-BGgtqUeNah6CxmRhTcdc_IqX3tNgkVrgregPPuxr1toRVc_RMlnU4wdkOv2Qyc9ioTm2am03_PX1E894CWAOD-F4pf6sTEXUyxr523Jyh9k0_XTGby-Jdx5p5wBfbZNE199r9fexRIX2vBrs50OswNG4QkCdfffywTocCzM7GmNQjwE8tG_WaaeH5wXXRjpm0ATVoRMiv-DncGh6VM5faBRlP3v1n-gW1MKwB0zkEMlZFjpObtifGY9RaYR5ClL757jfLh3hJvOxxYeHIdpZo6ydgNONN53Pa4P",
   "salt": "f_Quuv-lrirhd8ECwxm1pw==",
   "text": "Sillina is a British goddess. Her existence is not proven. Scholars believe a goddess of this name once gave her name to the Isles of Scilly. A large Roman-era shrine was found there. The shrine offers a clue to the old faith. The goddess may have been honored on the western isles before the Romans came. The isles keep her memory in their name. No inscription names her. The link rests on the name of the isles alone. Still, the shrine marks a holy place that the Romans built over an earlier one.",
-  "objective": "Replace the machine text for Sillina with a fresh CSG-SME1000 rewrite from Monaghan.",
-  "key_results": [
-    "text holds a fresh CSG-SME1000 rewrite, not a copy of the machine prose",
-    "entities and attributes corrected and enriched for the kgraph"
-  ],
-  "evidence": "Monaghan 2003 (Sillina)."
+  "okr": {
+    "objective": "Replace the machine text for Sillina with a fresh CSG-SME1000 rewrite from Monaghan.",
+    "key_results": [
+      "text holds a fresh CSG-SME1000 rewrite, not a copy of the machine prose",
+      "entities and attributes corrected and enriched for the kgraph"
+    ],
+    "evidence": "Monaghan 2003 (Sillina)."
+  }
 }

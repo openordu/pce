@@ -33,10 +33,12 @@
   "cyphertext": "1Lz-Yp8wnubCg9d9SaSoyNFPZCDHNRm0MMscsONigbhFMRhQ-XUwIPZjjdd-zJq1RQNKYFvD9cA824-PbOE-a9lahqPg6p30V64xQtMbpD8wmhr2PfK5UBE2Rdpqq9BsXreTODJHjbaSloFJJTmao3EcnKDDi7G8oQft0PNW71jq2ek-uGahVOpxm7L_X02cfGZYb_TYq5ishP5Sdo6k2eh3KaquW3qWAyGXQxU-zrPlV2QGXDMfwa6gMK0sInlQGRzrBOXyI7D1O9PS38zzzD9BhEB_9tYmwMDY1a6PtoUJClWmHzPhDF3cWb9JGvK8QtqVaoJTeVRwG4Kz55-MIfbDwm7ct9Lct3z12jyphAoWf0U1V7rZDPWJcZnWjVi-v-fC7T00B3BtSdt3EXXlKgwdt1OT1YcWFM6SbWhxRC1Cjs4wJj9uUiv1b2GWs0Yh4vKPA9KPw97OERPzq2wxI48_jI9YxwmYt4VM-m9PmRUCbi-2yy1Ptx9ct2md4a4c8eQVeYTbTaYabZAp-1SO0oY5WhGTkyyeSWqOOtxoSeLepikR0sIZhR7AvZt0YAS_60fmvkrH57Sr5cWWFxfRI_2RrApEt5aZFUqwr35l_7mb",
   "salt": "wxKwiq4WTAk0Q1ByvkNcRQ==",
   "text": "Spriggans are Cornish folk figures. They are the ghosts of a race of giants, reduced to fairies. They guard other fairies as bodyguards. They are playful but not violent. A spriggan will chase an intruder from a fairy gathering rather than hurt him. They are old thieves. They steal butter and other valuables from the fields. Some stories set them in old mounds and ruins, watching a buried treasure. Other Cornish tales give a giant the same charge of the land.",
-  "objective": "Replace the machine text for spriggans with a true rewrite from Monaghan and Koch.",
-  "key_results": [
-    "text holds a fresh CSG-SME1000 rewrite",
-    "entities and attributes corrected for the kgraph"
-  ],
-  "evidence": "Monaghan 2003 (spriggans, giants, fairies, thieves); Koch 2006 (Cornwall, buried treasure)."
+  "okr": {
+    "objective": "Replace the machine text for spriggans with a true rewrite from Monaghan and Koch.",
+    "key_results": [
+      "text holds a fresh CSG-SME1000 rewrite",
+      "entities and attributes corrected for the kgraph"
+    ],
+    "evidence": "Monaghan 2003 (spriggans, giants, fairies, thieves); Koch 2006 (Cornwall, buried treasure)."
+  }
 }
