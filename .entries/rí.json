@@ -1,9 +1,23 @@
 {
-    "name": "r\u00ed",
-    "attributes": {},
+    "name": "rí",
+    "attributes": [
+        {
+            "entity": "rí",
+            "attribute": "Irish word for king"
+        },
+        {
+            "entity": "rí",
+            "attribute": "cross-reference to the Kingship entry"
+        }
+    ],
     "entities": [
         {
-            "text": "Kingship"
+            "entity": "rí",
+            "type": "concept"
+        },
+        {
+            "entity": "Kingship",
+            "type": "concept"
         }
     ],
     "sources": [
@@ -11,5 +25,14 @@
     ],
     "cyphertext": "2H0sKajg43uaNk4QBtmeUqEJXEDTlM8p8d_SDlKGBwU1jMpayPNLhGcWCVbuY817UGvt",
     "salt": "TcyyJEFeyNBmeze1KY5SRw==",
-    "text": "r\u00ed (ri) See Kingship."
+    "text": "Rí is a cross-reference. It is the Irish word for king. The entry directs readers to the Kingship entry.",
+    "okr": {
+        "objective": "The rí entry is a cross-reference to Kingship.",
+        "key_results": [
+            "Rí is the Irish word for king.",
+            "The entry directs readers to the Kingship entry.",
+            "It carries no separate account of its own."
+        ],
+        "evidence": "Monaghan, Encyclopedia of Celtic Mythology and Folklore"
+    }
 }

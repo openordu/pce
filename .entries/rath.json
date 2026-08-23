@@ -1,11 +1,34 @@
 {
-    "name": "rath",
-    "attributes": {},
-    "entities": [],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+  "name": "rath",
+  "attributes": [
+    {
+      "entity": "Rath",
+      "attribute": "cross-reference to Hillfort"
+    }
+  ],
+  "entities": [
+    {
+      "entity": "Rath",
+      "type": "concept"
+    },
+    {
+      "entity": "Hillfort",
+      "type": "location"
+    }
+  ],
+  "sources": [
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+  ],
+  "cyphertext": "QnGnulhmQZk05QcOXNamT_SX0p_YEsuWgOFlYjSxPYpWCT2AgS86S5lQSOhxbBI=",
+  "salt": "zSvPzmVrGh7hsfT9NCUjxw==",
+  "text": "Rath is a cross-reference within this book. It points the reader to the entry for Hillfort. The source at this heading sets the trail to that page.",
+  "okr": {
+    "objective": "Rath stands as a route to the fuller text at Hillfort.",
+    "key_results": [
+      "Rath is a cross-reference within the work.",
+      "It sends the reader onward to Hillfort.",
+      "The heading at Rath holds no other detail."
     ],
-    "cyphertext": "QnGnulhmQZk05QcOXNamT_SX0p_YEsuWgOFlYjSxPYpWCT2AgS86S5lQSOhxbBI=",
-    "salt": "zSvPzmVrGh7hsfT9NCUjxw==",
-    "text": "rath See Hillfort."
+    "evidence": "Monaghan, Encyclopedia of Celtic Mythology and Folklore"
+  }
 }

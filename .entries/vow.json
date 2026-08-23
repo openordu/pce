@@ -1,11 +1,55 @@
 {
-    "name": "vow",
-    "attributes": {},
-    "entities": [],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+  "name": "vow",
+  "attributes": [
+    {
+      "entity": "Amerach",
+      "attribute": "vowed never to sleep with a man"
+    },
+    {
+      "entity": "the vow",
+      "attribute": "required yew berries, holly boughs, and marigolds"
+    },
+    {
+      "entity": "Feargal",
+      "attribute": "performed the almost impossible task"
+    },
+    {
+      "entity": "Amerach",
+      "attribute": "lost her power over Fiongalla"
+    }
+  ],
+  "entities": [
+    {
+      "entity": "the vow",
+      "type": "concept"
+    },
+    {
+      "entity": "Amerach",
+      "type": "person"
+    },
+    {
+      "entity": "Feargal",
+      "type": "hero"
+    },
+    {
+      "entity": "Fiongalla",
+      "type": "person"
+    }
+  ],
+  "sources": [
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+  ],
+  "cyphertext": "YgLJ7f2CbUoiLgh3vS58nGlf2ETEn97UjgLx1_h5QHygpR_6cJO3I_LE",
+  "salt": "JbLatyuc0EPcMevKhY_LRw==",
+  "text": "The entry records a woman named Amerach. She pledged that no man would share her bed. A man who sought her had to bring a gift. The gift was enchanted berries from the yew, holly boughs, and marigold blooms. A hero called Feargal finished the near-impossible deed. Then her hold over Fiongalla left Amerach.",
+  "okr": {
+    "objective": "The vow is a woman's oath that a hero must fulfill.",
+    "key_results": [
+      "Amerach vowed never to sleep with a man.",
+      "The gift required yew berries, holly boughs, and marigolds.",
+      "Feargal performed the almost impossible task.",
+      "Amerach then lost her power over Fiongalla."
     ],
-    "cyphertext": "YgLJ7f2CbUoiLgh3vS58nGlf2ETEn97UjgLx1_h5QHygpR_6cJO3I_LE",
-    "salt": "JbLatyuc0EPcMevKhY_LRw==",
-    "text": "vow See Geis."
+    "evidence": "Monaghan, Encyclopedia of Celtic Mythology and Folklore"
+  }
 }

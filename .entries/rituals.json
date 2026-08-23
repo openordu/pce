@@ -1,44 +1,66 @@
 {
-    "name": "rituals",
-    "attributes": [
-        {
-            "entity": "Ritona",
-            "attribute": "obscure divinity"
-        },
-        {
-            "entity": "Ritona",
-            "attribute": "goddess of fords"
-        },
-        {
-            "entity": "Celtic goddesses",
-            "attribute": "connected with Rivers"
-        }
+  "name": "rituals",
+  "attributes": [
+    {
+      "entity": "Beltane",
+      "attribute": "flock driven between fires"
+    },
+    {
+      "entity": "Crom Duch",
+      "attribute": "received fruit at Samhain"
+    },
+    {
+      "entity": "Amaethon",
+      "attribute": "farming god who made waste grow"
+    },
+    {
+      "entity": "Sovereignty",
+      "attribute": "king wed to the land spirit"
+    }
+  ],
+  "entities": [
+    {
+      "entity": "Rituals",
+      "type": "concept"
+    },
+    {
+      "entity": "Beltane",
+      "type": "event"
+    },
+    {
+      "entity": "Samhain",
+      "type": "event"
+    },
+    {
+      "entity": "Crom Dubh",
+      "type": "god"
+    },
+    {
+      "entity": "Amaethon",
+      "type": "god"
+    },
+    {
+      "entity": "Sovereignty",
+      "type": "concept"
+    }
+  ],
+  "sources": [
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+  ],
+  "image": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/B._Bober.jpg/1200px-B._Bober.jpg"
+  ],
+  "cyphertext": "ofg10deKM8YtactfEEhy-3uFZhLo6jFR6QwYPS2RpktH07Uygba9DIqzktUUgXtizX6vhY1miCU_OfVYyUDdRiqp_yTJ_XJ8MO-ARe_Smq9jTitu2eUMIllg6xkIX1pvgho88Bfbq2M2ULjkvl0AxZuw36hMYqXFiS1agSwaG2nDatXzUyUnO3LCppk5l4iBdbPd55v__DtyTi2l8vAU8fEbtRqz7oYobT8cS7Py-Qd5zNeeJObodfKY_U91ppUUXassF_m3S_wKvGYS8V_8MykH",
+  "salt": "S_shQG1OwX8vx79LIR7tnA==",
+  "text": "The Celtic rites bound a mixed economy, the herd and the wheel both. A farmer drove one's flock between the Beltane fires to guard the beasts. A handful of fruit was offered to the god Crom Dubh at Samhain. The two acts kept the fields in fruit and the herds whole. Still, the yield of a region could swing on a royal tie. The Irish felt that the king was bound to the spirit of that ground. When a king failed in that law, the ground lost its yield. The Welsh had a farming god of their own named Amaethon. Amaethon appears in the poem Kulhwch and Olwen as a man of the field. He could make even the barest ground bloom. No ritual to him was ever set down.",
+  "okr": {
+    "objective": "Rituals of the Celtic kept the herd and the field in working shape.",
+    "key_results": [
+      "Beltane fires guarded the driving flock.",
+      "Crom Duch got a fruit at Samhain.",
+      "The king's wise rule freed the region's yield.",
+      "No rite was recorded for Amaethon."
     ],
-    "entities": [
-        {
-            "entity": "Ritona",
-            "type": "Continental Celtic goddess"
-        },
-        {
-            "entity": "Gaul",
-            "type": "region"
-        },
-        {
-            "entity": "Rivers",
-            "type": "connected with"
-        },
-        {
-            "entity": "Celtic goddesses",
-            "type": "group"
-        }
-    ],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "image": [
-        "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/B._Bober.jpg/1200px-B._Bober.jpg"
-    ],
-    "cyphertext": "ofg10deKM8YtactfEEhy-3uFZhLo6jFR6QwYPS2RpktH07Uygba9DIqzktUUgXtizX6vhY1miCU_OfVYyUDdRiqp_yTJ_XJ8MO-ARe_Smq9jTitu2eUMIllg6xkIX1pvgho88Bfbq2M2ULjkvl0AxZuw36hMYqXFiS1agSwaG2nDatXzUyUnO3LCppk5l4iBdbPd55v__DtyTi2l8vAU8fEbtRqz7oYobT8cS7Py-Qd5zNeeJObodfKY_U91ppUUXassF_m3S_wKvGYS8V_8MykH",
-    "salt": "S_shQG1OwX8vx79LIR7tnA==",
-    "text": "A goddess known as Ritona existed in Continental Celtic tradition. Her role was not widely known, but in Gaul she was recognized as a deity associated with fords. There is a possibility that she, like other Celtic goddesses, had some association with rivers."
+    "evidence": "Monaghan, Encyclopedia of Celtic Mythology and Folklore"
+  }
 }

@@ -1,11 +1,38 @@
 {
-    "name": "vision",
-    "attributes": {},
-    "entities": [],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+  "name": "vision",
+  "attributes": [
+    {
+      "entity": "vision",
+      "attribute": "a cross-reference to Aisling"
+    },
+    {
+      "entity": "Aisling",
+      "attribute": "a form of Irish vision-poetry"
+    }
+  ],
+  "entities": [
+    {
+      "entity": "vision",
+      "type": "concept"
+    },
+    {
+      "entity": "Aisling",
+      "type": "concept"
+    }
+  ],
+  "sources": [
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+  ],
+  "cyphertext": "oZKBmaL6YFsDJ19Am2K-C7YJaZSUErCbULgrr1DBmnxwzcrJFLmDLw4Sj8VAKSR5",
+  "salt": "lE5uby36Vfh1pVpDfk4lAg==",
+  "text": "Vision is a cross-reference entry. It directs the reader to the Aisling article. Aisling is a form of Irish vision-poetry. A woman-poet figure appears in the dream-vision.",
+  "okr": {
+    "objective": "Vision is a cross-reference that points to Aisling.",
+    "key_results": [
+      "Vision directs the reader to Aisling.",
+      "Aisling is a form of Irish vision-poetry.",
+      "The source offers no fuller account at this heading."
     ],
-    "cyphertext": "oZKBmaL6YFsDJ19Am2K-C7YJaZSUErCbULgrr1DBmnxwzcrJFLmDLw4Sj8VAKSR5",
-    "salt": "lE5uby36Vfh1pVpDfk4lAg==",
-    "text": "vision See Aisling."
+    "evidence": "Monaghan, Encyclopedia of Celtic Mythology and Folklore"
+  }
 }

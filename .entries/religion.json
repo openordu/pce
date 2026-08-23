@@ -1,14 +1,62 @@
 {
-    "name": "religion",
-    "attributes": {},
-    "entities": [],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+  "name": "religion",
+  "attributes": [
+    {
+      "entity": "Leprechaun",
+      "attribute": "sought for a pot of gold"
+    },
+    {
+      "entity": "Fairy gold",
+      "attribute": "marked by a patch of thistle"
+    },
+    {
+      "entity": "Celtic religion",
+      "attribute": "magic turned to money in tales"
+    },
+    {
+      "entity": "Money Hole of Munster",
+      "attribute": "a coin and a mountain wealth"
+    }
+  ],
+  "entities": [
+    {
+      "entity": "Celtic religion",
+      "type": "concept"
+    },
+    {
+      "entity": "Leprechaun",
+      "type": "mythological creature"
+    },
+    {
+      "entity": "Fairy gold",
+      "type": "artifact"
+    },
+    {
+      "entity": "Money Hole of Munster",
+      "type": "place"
+    },
+    {
+      "entity": "Thistles",
+      "type": "species"
+    }
+  ],
+  "sources": [
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+  ],
+  "image": [
+    "https://upload.wikimedia.org/wikipedia/commons/7/7a/16_religious_symbol.jpg"
+  ],
+  "cyphertext": "k__RjIkTmEPUSW2AROMdlpgJ0za_MJMilK9EvIssIJRS181nMufdEPgCQTnma4qkuAymz3iaeJVCSQ==",
+  "salt": "CGtw89-cKX2Hhc_w7wC7hg==",
+  "text": "The old Celtic religion left a part in later folk tales. The magic of the faith turned toward gain in the tales. Leprechauns came to be sought for the gold at their pot. The treasure of a goddess turned into a spot called the Money Hole, one place in the mountain that gave wealth on one's bare hand. In places a thistle rises where the gold of a fairy lies below. A thing of the old rites slid into a search for the purse.",
+  "okr": {
+    "objective": "Religion’s old magic changed into a search for the gold in Irish folk tales.",
+    "key_results": [
+      "Old magic set a price in later tales.",
+      "Leprechauns were sought for their gold.",
+      "A goddess's treasure became the Money Hole of Munster.",
+      "Thistles rise where fairy gold lies below."
     ],
-    "image": [
-        "https://upload.wikimedia.org/wikipedia/commons/7/7a/16_religious_symbol.jpg"
-    ],
-    "cyphertext": "k__RjIkTmEPUSW2AROMdlpgJ0za_MJMilK9EvIssIJRS181nMufdEPgCQTnma4qkuAymz3iaeJVCSQ==",
-    "salt": "CGtw89-cKX2Hhc_w7wC7hg==",
-    "text": "religion See Celtic Religion."
+    "evidence": "Monaghan, Encyclopedia of Celtic Mythology and Folklore"
+  }
 }
