@@ -1,18 +1,43 @@
 {
-    "name": "Slemuin",
-    "attributes": {},
-    "entities": [
-        {
-            "text": "Slemuin See"
-        },
-        {
-            "text": "Odras"
-        }
-    ],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "cyphertext": "so3tt62vAQmLcdEfG3FeGSrJ3pt9NyDSz01GOCDj9vouZv0NgMNOPrEUaPXtSPE=",
-    "salt": "Qi0bXGO8OXyJVwAoeCGIJQ==",
-    "text": "Slemuin See Odras."
+  "name": "Slemuin",
+  "attributes": [
+    {
+      "entity": "Slemuin",
+      "attribute": "smooth bull of the Otherworld"
+    },
+    {
+      "entity": "Mórrígan",
+      "attribute": "took the cow of Odras to the bull"
+    },
+    {
+      "entity": "Odras",
+      "attribute": "turned into the lake that keeps her name"
+    }
+  ],
+  "entities": [
+    {
+      "entity": "Slemuin",
+      "type": "Being"
+    },
+    {
+      "entity": "Mórrígan",
+      "type": "Goddess"
+    },
+    {
+      "entity": "Odras",
+      "type": "Heroine"
+    }
+  ],
+  "sources": [
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+  ],
+  "cyphertext": "so3tt62vAQmLcdEfG3FeGSrJ3pt9NyDSz01GOCDj9vouZv0NgMNOPrEUaPXtSPE=",
+  "salt": "Qi0bXGO8OXyJVwAoeCGIJQ==",
+  "text": "Slemuin is a being of the Otherworld in the Irish tale of Odras. He is the smooth bull of the spirit world. The death-queen Mórrígan took a cow from Odras so the cow could stand with the royal bull of the other world. Bold Odras set out to win the cow back. She went down toward the great caves of the Otherworld that open near the old royal seat of Cruachan. There a sleep of wonder came over her. She fell asleep beneath a great oak and never woke, for Mórrígan turned her into the small lake that takes her name. The bull Slemuin remains beside the queen of the spirits. The girl who came seeking her cow became water. The bull and the lake hold the two halves of the old tale of the cow that was taken away.",
+  "objective": "Replace the machine text for Slemuin with a fresh CSG-SME1000 rewrite from Monaghan's Odras entry.",
+  "key_results": [
+    "A fresh CSG-SME1000 rewrite holds in the text field",
+    "entities and attributes enriched for the kgraph"
+  ],
+  "evidence": "Monaghan 2003 (Slemuin cross-ref to Odras; the bull Slemuin the Smooth)."
 }

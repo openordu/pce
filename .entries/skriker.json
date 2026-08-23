@@ -1,69 +1,47 @@
 {
-    "name": "skriker",
-    "attributes": [
-        {
-            "entity": "skriker",
-            "attribute": "British folkloric figure"
-        },
-        {
-            "entity": "skriker",
-            "attribute": "appeared like a Banshee"
-        },
-        {
-            "entity": "skriker",
-            "attribute": "predicted the event to come"
-        },
-        {
-            "entity": "skriker",
-            "attribute": "wandered the forests of Yorkshire and Lancashire"
-        },
-        {
-            "entity": "skriker",
-            "attribute": "screaming"
-        },
-        {
-            "entity": "skriker",
-            "attribute": "engaged in Shape-Shifting"
-        },
-        {
-            "entity": "skriker",
-            "attribute": "transforming himself into a terrifying Dog"
-        }
-    ],
-    "entities": [
-        {
-            "entity": "skriker",
-            "type": "British folkloric figure"
-        },
-        {
-            "entity": "Banshee",
-            "type": "mythical creature"
-        },
-        {
-            "entity": "forests",
-            "type": "location"
-        },
-        {
-            "entity": "Yorkshire",
-            "type": "location"
-        },
-        {
-            "entity": "Lancashire",
-            "type": "location"
-        },
-        {
-            "entity": "Fairies",
-            "type": "mythical creature"
-        },
-        {
-            "entity": "Dog",
-            "type": "animal"
-        }
-    ],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "cyphertext": "8bJ456LvsXX7BsM0WoehCpnk3F-fZjwI80wFcTGEFYfLwHcpAhBke6KtDt18OVgNulz0lKmX76buPKEN0QY-_vveGBh93o1c6ERKNUVupg9W7Ty-L4tKu4UV5zDra_dE1RcEJWUlEs3hVXYO6toMBXn97GO37_u90vOVW0QYHDS3f1ueSvWsIPVIMOFx62vdhON2DUUTLS5zkA73g0xxnNnKkCQX4ToBrWmolkU40q7K09wADqMQMwH5yccG49hTEFZkrS8C21jIf07ic7veM0GkzWTgzVkhv3_taz1N3noMdWOSf9h_sumjkCQ2HJumXYLpb0ZAukNFKyggRfaP9pWrkYXRp_3kGr8mdQ2i8djhWz1lncF4dtcsSpM2QfzDtnQ-rpsTLeu1m-1hzNoUcs644yHGYbetbYKhUp_bNjc-F3UH6_noeAl1xPO0mFAiGo54qHGReqrXvGm_OTg=",
-    "salt": "Fgbo2L52ZM7J0KCjcdRvig==",
-    "text": "A figure of British folklore known as skriker (meaning trash) was believed to appear before death, similar to the Banshee. The skriker was often seen wandering in the forests of Yorkshire and Lancashire while screaming, or practicing Shape-Shifting, a skill common among other Fairies, to transform into a frightening Dog."
+  "name": "skriker",
+  "attributes": [
+    {
+      "entity": "skriker",
+      "attribute": "British figure that warns of coming death"
+    },
+    {
+      "entity": "skriker",
+      "attribute": "shifts shape into a large black dog"
+    },
+    {
+      "entity": "banshee",
+      "attribute": "similar warning figure of the Gaelic world"
+    }
+  ],
+  "entities": [
+    {
+      "entity": "skriker",
+      "type": "Being"
+    },
+    {
+      "entity": "banshee",
+      "type": "Being"
+    },
+    {
+      "entity": "Yorkshire",
+      "type": "Place"
+    },
+    {
+      "entity": "Lancashire",
+      "type": "Place"
+    }
+  ],
+  "sources": [
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+  ],
+  "cyphertext": "8bJ456LvsXX7BsM0WoehCpnk3F-fZjwI80wFcTGEFYfLwHcpAhBke6KtDt18OVgNulz0lKmX76buPKEN0QY-_vveGBh93o1c6ERKNUVupg9W7Ty-L4tKu4UV5zDra_dE1RcEJWUlEs3hVXYO6toMBXn97GO37_u90vOVW0QYHDS3f1ueSvWsIPVIMOFx62vdhON2DUUTLS5zkA73g0xxnNnKkCQX4ToBrWmolkU40q7K09wADqMQMwH5yccG49hTEFZkrS8C21jIf07ic7veM0GkzWTgzVkhv3_taz1N3noMdWOSf9h_sumjkCQ2HJumXYLpb0ZAukNFKyggRfaP9pWrkYXRp_3kGr8mdQ2i8djhWz1lncF4dtcsSpM2QfzDtnQ-rpsTLeu1m-1hzNoUcs644yHGYbetbYKhUp_bNjc-F3UH6_noeAl1xPO0mFAiGo54qHGReqrXvGm_OTg=",
+  "salt": "Fgbo2L52ZM7J0KCjcdRvig==",
+  "text": "The skriker is a figure of the British folk tradition. Its name comes from a word that means a trash or a scrap. The skriker tells that a death is close. It appears, like the banshee, to warn of the loss to come. It walks the forests of Yorkshire and of Lancashire, where it cries through the night. Like the fairy folk it can shift its shape. The skriker may turn itself into a huge black dog, and that shape is hard to face. The one who sees it knows that death will follow. The dog form is only one of its shapes. The skriker keeps to the northern lanes and carries the cold sign of the death of a life with it, moving from hedge to hedge until the news reaches the house that will mourn.",
+  "objective": "Replace the machine text for skriker with a fresh CSG-SME1000 rewrite sourced from Monaghan.",
+  "key_results": [
+    "A fresh CSG-SME1000 rewrite holds in the text field",
+    "entities and attributes enriched for the kgraph"
+  ],
+  "evidence": "Monaghan 2003 (skriker); Briggs, A Dictionary of Fairies."
 }
