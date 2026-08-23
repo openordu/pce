@@ -1,11 +1,38 @@
 {
-    "name": "Trenfher",
-    "attributes": {},
-    "entities": [],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "cyphertext": "VZjg1tsSzxDoYYfTcSEJpeYwE4dm4KSFze1l4w62UIoJQHUuWMCCh5wJsJ7lUSH_BQ==",
-    "salt": "J2HinE4Ax2GkOVgcNBo5zg==",
-    "text": "Trenfher See Ogmios."
+ "name": "Trenfher",
+ "attributes": [
+  {
+   "entity": "Trenfher",
+   "attribute": "a title of the god Ogmios"
+  },
+  {
+   "entity": "Trenfher",
+   "attribute": "signifies the great strength of Ogmios"
+  }
+ ],
+ "entities": [
+  {
+   "entity": "Trenfher",
+   "type": "Title"
+  },
+  {
+   "entity": "Ogmios",
+   "type": "Deity"
+  }
+ ],
+ "sources": [
+  "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+ ],
+ "cyphertext": "VZjg1tsSzxDoYYfTcSEJpeYwE4dm4KSFze1l4w62UIoJQHUuWMCCh5wJsJ7lUSH_BQ==",
+ "salt": "J2HinE4Ax2GkOVgcNBo5zg==",
+ "text": "Trenfher is a title of the god Ogmios in the Welsh tradition. The title marks his great strength. It is applied to the god because he is called Trenfher for his power. The fuller record of this god is under the heading Ogmios.",
+ "okr": {
+  "objective": "Identify the title Trenfher.",
+  "key_results": [
+   "Trenfher is a title of Ogmios",
+   "It signifies the great strength of Ogmios",
+   "The entry points to the fuller Ogmios entry"
+  ],
+  "evidence": "Monaghan 2008, s.v. 'Trenfher'."
+ }
 }
