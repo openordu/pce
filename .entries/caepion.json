@@ -1,15 +1,38 @@
 {
-    "name": "caepion",
-    "attributes": {},
-    "entities": [
-        {
-            "text": "Lake"
-        }
+  "name": "caepion",
+  "attributes": [
+    {
+      "entity": "caepion",
+      "attribute": "is a cross-reference directing the reader to Lake"
+    },
+    {
+      "entity": "source",
+      "attribute": "offers no further detail about caepion"
+    }
+  ],
+  "entities": [
+    {
+      "entity": "caepion",
+      "type": "concept"
+    },
+    {
+      "entity": "Lake",
+      "type": "location"
+    }
+  ],
+  "sources": [
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+  ],
+  "cyphertext": "0_A4RiqpJuFxztT76rHDQKILeUj-zca83BX0FYoic6yAxPD212_AnlihghNSgQ==",
+  "salt": "tlAfvahSK24wHJ8YOkmqEA==",
+  "text": "caepion is a cross-reference in the encyclopedia. The entry directs the reader to the entry Lake. The source offers no further detail about caepion.",
+  "okr": {
+    "objective": "caepion directs the reader to the entry Lake.",
+    "key_results": [
+      "caepion is a cross-reference within the encyclopedia.",
+      "It directs the reader to the entry Lake.",
+      "The source gives no further detail about caepion."
     ],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "cyphertext": "0_A4RiqpJuFxztT76rHDQKILeUj-zca83BX0FYoic6yAxPD212_AnlihghNSgQ==",
-    "salt": "tlAfvahSK24wHJ8YOkmqEA==",
-    "text": "caepion See Lake."
+    "evidence": "Monaghan, Encyclopedia of Celtic Mythology and Folklore"
+  }
 }

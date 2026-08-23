@@ -1,11 +1,38 @@
 {
-    "name": "casting a glamour",
-    "attributes": {},
-    "entities": [],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+  "name": "casting a glamour",
+  "attributes": [
+    {
+      "entity": "casting a glamour",
+      "attribute": "cross-reference to glamour"
+    },
+    {
+      "entity": "glamour",
+      "attribute": "subject of the cross-reference"
+    }
+  ],
+  "entities": [
+    {
+      "entity": "casting a glamour",
+      "type": "concept"
+    },
+    {
+      "entity": "glamour",
+      "type": "concept"
+    }
+  ],
+  "sources": [
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+  ],
+  "cyphertext": "YrjauUchzLzsAazjRW52sZBJNZtQBSguCn_2CHhmb6eO1S2VrX6CBnflF1pYpYOyUKb0reSQ7P2hm1M=",
+  "salt": "qXDJIa5tEvW5qsQKmlMSqw==",
+  "text": "Casting a glamour is a cross-reference entry. It directs the reader to the entry for glamour. The source adds no further detail at this heading.",
+  "okr": {
+    "objective": "Casting a glamour points to the glamour entry.",
+    "key_results": [
+      "Casting a glamour is a cross-reference entry.",
+      "It directs the reader to glamour.",
+      "The source offers no further detail at this heading."
     ],
-    "cyphertext": "YrjauUchzLzsAazjRW52sZBJNZtQBSguCn_2CHhmb6eO1S2VrX6CBnflF1pYpYOyUKb0reSQ7P2hm1M=",
-    "salt": "qXDJIa5tEvW5qsQKmlMSqw==",
-    "text": "casting a glamour See Glamour."
+    "evidence": "Monaghan, Encyclopedia of Celtic Mythology and Folklore"
+  }
 }

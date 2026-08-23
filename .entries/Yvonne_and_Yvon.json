@@ -1,66 +1,76 @@
 {
-    "name": "Yvonne and Yvon",
-    "attributes": [
-        {
-            "entity": "Yvon",
-            "attribute": "perseverance"
-        },
-        {
-            "entity": "Yvon",
-            "attribute": "determination"
-        },
-        {
-            "entity": "Yvon",
-            "attribute": "bravery"
-        },
-        {
-            "entity": "Yvon",
-            "attribute": "loyalty"
-        },
-        {
-            "entity": "land of the sun",
-            "attribute": "mythical"
-        },
-        {
-            "entity": "sister",
-            "attribute": "happy"
-        },
-        {
-            "entity": "sister",
-            "attribute": "content"
-        },
-        {
-            "entity": "ages",
-            "attribute": "long"
-        },
-        {
-            "entity": "memory",
-            "attribute": "lost"
-        }
+  "name": "Yvonne and Yvon",
+  "attributes": [
+    {
+      "entity": "Yvonne",
+      "attribute": "was carried off by the sun for her beauty, diligence, and patience"
+    },
+    {
+      "entity": "sun",
+      "attribute": "carried Yvonne to his home in the sky"
+    },
+    {
+      "entity": "Yvon",
+      "attribute": "walked toward the western horizon with his five brothers"
+    },
+    {
+      "entity": "Yvon",
+      "attribute": "alone found his sister in the sun's house"
+    },
+    {
+      "entity": "Yvonne",
+      "attribute": "lived happily in the sun's house"
+    },
+    {
+      "entity": "Yvon",
+      "attribute": "found ages had passed on his return home"
+    },
+    {
+      "entity": "memory of his family",
+      "attribute": "had vanished from the land"
+    }
+  ],
+  "entities": [
+    {
+      "entity": "Yvonne",
+      "type": "hero"
+    },
+    {
+      "entity": "Yvon",
+      "type": "hero"
+    },
+    {
+      "entity": "sun",
+      "type": "mythological figure"
+    },
+    {
+      "entity": "sun's house",
+      "type": "place"
+    },
+    {
+      "entity": "western horizon",
+      "type": "location"
+    },
+    {
+      "entity": "Brittany",
+      "type": "location"
+    }
+  ],
+  "sources": [
+    "Luzel, F. M. Celtic Folk-Tales from Amorica. Translated by Derek Bryce. Dyfed, Wales: Llanerch Enterprises, 1985. Pages 7-18.",
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+  ],
+  "cyphertext": "5lmPJYF59DSzQrdmEoQHjAgPLUL8-PcEtUwywYxaV9mllTa9wGJR633NhKwGyswiFJVw9mKiVXEKhLWqWhBehMEzlAw0_EJ2wIZbIsiAKH2GLNgdkeEpLZ7a8RD18nHktK5Ux4QpijmFV1DoGAQNZ6-u9zPqn6rfwIrI39y_RqCVCh8PC0646izlzXCRrfmgAMRHQZTLDeXTMyMrz0RhXGIQb8k-UDesfjyzPTPN_ESRKoGBXFRKsCeZUtPsVc3S-h4NVBwSoGtEuAZxobEz3KFsAkuaNP376jXW-3eYWhKb7-vI5RYfc-c6_saN8iDBTXWUXX04J6BSdFZN9rQv5k_sgF_JLqHYMIiMkdFnwaOKjPDeXpJL_7kRbMoUYkr5XWiBGIkyoFjH2n4308eHNSklaF6w4MId4sa-eUMImjQEoKHD89Y8fTWtobzoMPujAt2V7JADakzY5E3-dYbo3bpoudbwsEb5KjLbkeyZ_mz1XM-9vC1ASxDEj-WCuiBFfBHl4YECaxFH3fqNBa5fX2Y_qTE-P4GZSPAi1cjtwO0J8T7ivi6u4Uo8cC0gBGlkfY9xpfhFwqQBRxGqa3XSOT3dulxT-AYmNGD8eakVMd2oz01R4q748Q3JJPfusRLKyLYdnSNKMDRkCuTlv7_fn2GMJ13dm5k7ovkDBGRwCnsv7w==",
+  "salt": "isapybop-IsL_Mc0VnYMBQ==",
+  "text": "A folktale of Brittany, likely Celtic in origin, tells of Yvonne and her brother Yvon. The sun saw Yvonne's beauty, diligence, and patience. One day he carried her away to the sky where he dwelled. A year passed and the family heard nothing more of her. Yvon walked toward the western horizon with his five brothers. They hoped to reach the sun's domain. Many adventures followed and the brothers grew discouraged. Yvon alone pressed on through trials until he found his sister. She lived happily in the sun's house. When Yvon returned home, ages had passed. Every trace of his family had vanished from the land.",
+  "okr": {
+    "objective": "Yvonne and Yvon is a Breton folktale of a maiden carried off by the sun.",
+    "key_results": [
+      "The sun carried off Yvonne for her beauty, diligence, and patience.",
+      "Yvon and his five brothers walked toward the western horizon to find her.",
+      "Yvon alone reached the sun's house, where his sister lived happily.",
+      "When Yvon returned home, ages had passed and all memory of his family was gone."
     ],
-    "entities": [
-        {
-            "entity": "western horizon",
-            "type": "location"
-        },
-        {
-            "entity": "land of the sun",
-            "type": "location"
-        },
-        {
-            "entity": "Yvon",
-            "type": "person"
-        },
-        {
-            "entity": "sister",
-            "type": "person"
-        }
-    ],
-    "sources": [
-        "Luzel, F. M. Celtic Folk-Tales from Amorica. Translated by Derek Bryce. Dyfed, Wales: Llanerch Enterprises, 1985. Pages 7-18.",
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "cyphertext": "5lmPJYF59DSzQrdmEoQHjAgPLUL8-PcEtUwywYxaV9mllTa9wGJR633NhKwGyswiFJVw9mKiVXEKhLWqWhBehMEzlAw0_EJ2wIZbIsiAKH2GLNgdkeEpLZ7a8RD18nHktK5Ux4QpijmFV1DoGAQNZ6-u9zPqn6rfwIrI39y_RqCVCh8PC0646izlzXCRrfmgAMRHQZTLDeXTMyMrz0RhXGIQb8k-UDesfjyzPTPN_ESRKoGBXFRKsCeZUtPsVc3S-h4NVBwSoGtEuAZxobEz3KFsAkuaNP376jXW-3eYWhKb7-vI5RYfc-c6_saN8iDBTXWUXX04J6BSdFZN9rQv5k_sgF_JLqHYMIiMkdFnwaOKjPDeXpJL_7kRbMoUYkr5XWiBGIkyoFjH2n4308eHNSklaF6w4MId4sa-eUMImjQEoKHD89Y8fTWtobzoMPujAt2V7JADakzY5E3-dYbo3bpoudbwsEb5KjLbkeyZ_mz1XM-9vC1ASxDEj-WCuiBFfBHl4YECaxFH3fqNBa5fX2Y_qTE-P4GZSPAi1cjtwO0J8T7ivi6u4Uo8cC0gBGlkfY9xpfhFwqQBRxGqa3XSOT3dulxT-AYmNGD8eakVMd2oz01R4q748Q3JJPfusRLKyLYdnSNKMDRkCuTlv7_fn2GMJ13dm5k7ovkDBGRwCnsv7w==",
-    "salt": "isapybop-IsL_Mc0VnYMBQ==",
-    "text": "With their sights set on the western horizon in search of the land of the sun, the brothers embarked on a perilous journey. Overcoming various hardships along the way, their resolve began to waver, except for that of Yvon, who persisted through obstacles until he finally discovered his sister living joyfully in the sun's abode. Upon his return home, Yvon was disheartened to find that ages had gone by and that all recollection of his kin had vanished from the land."
+    "evidence": "Monaghan, Encyclopedia of Celtic Mythology and Folklore"
+  }
 }
