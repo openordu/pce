@@ -1,57 +1,51 @@
 {
-    "name": "Shee Finnaha",
-    "entities": [
-        {
-            "entity": "Shee Finnaha",
-            "type": "Irish mythological site"
-        },
-        {
-            "entity": "palace of Lir",
-            "type": "location"
-        },
-        {
-            "entity": "kings",
-            "type": "title"
-        },
-        {
-            "entity": "Tuatha D\u00e9 Danann",
-            "type": "people"
-        },
-        {
-            "entity": "town",
-            "type": "location"
-        },
-        {
-            "entity": "Newtown Hamilton",
-            "type": "town"
-        },
-        {
-            "entity": "counties",
-            "type": "administrative division"
-        },
-        {
-            "entity": "Armagh",
-            "type": "county"
-        },
-        {
-            "entity": "Monaghan",
-            "type": "county"
-        },
-        {
-            "entity": "Northern Ireland",
-            "type": "country"
-        }
-    ],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "attributes": [
-        {
-            "entity": "palace of Lir",
-            "attribute": "located near the town of Newtown Hamilton, on the borders of counties Armagh and Monaghan in today\u2019s Northern Ireland"
-        }
-    ],
-    "cyphertext": "SsVX1xRXfSDbh6jmW0jdQfwM9hH_rg65e8peasHtkT3KDOCJiDo6nNsHXUr1aH4qYb9Hyc3Dd-8AHFvgBbDej0e4h25OR8DiQnSx8E7Kg_fQNeaRWanIk5gnPRK8TrCwla7XOop-E2l1EBiDRJBKc8NfwpnhtMha4I6W064U8_Q9-001xMz4tJlE7vIBeIJFoBT8MrlM_yToUE2bxceLRwXIFCa7TXSXF_CK738K9PCk_cF3g74daRlFOLIcFbEeZfl0wicw4UYeTksbRWLNkL4WDUa_l3S5Eszp96NbwkdAfL2p4ySyp7cVv_hZZSown0oFxN3wX-xnJBJbyUpeUEYey3qWVVvzkrtNdHllZg==",
-    "salt": "OaMjGCHkxHUmM5_s0j4cew==",
-    "text": "Irish mythology speaks of Shee Finnaha, an ancient site where the palace of Lir stood. One of the celebrated kings of the Tuatha D\u00e9 Danann, Lir's abode was situated in proximity to the present-day Northern Irish town of Newtown Hamilton, on the limits of counties Armagh and Monaghan."
+  "name": "Shee Finnaha",
+  "entities": [
+    {
+      "entity": "Shee Finnaha",
+      "type": "Place"
+    },
+    {
+      "entity": "Lir",
+      "type": "Person"
+    },
+    {
+      "entity": "Tuatha Dé Danann",
+      "type": "People"
+    },
+    {
+      "entity": "Newtown Hamilton",
+      "type": "Place"
+    },
+    {
+      "entity": "Armagh",
+      "type": "Place"
+    }
+  ],
+  "sources": [
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+  ],
+  "attributes": [
+    {
+      "entity": "Shee Finnaha",
+      "attribute": "palace of Lir"
+    },
+    {
+      "entity": "Lir",
+      "attribute": "king of the Tuatha Dé Danann"
+    },
+    {
+      "entity": "Shee Finnaha",
+      "attribute": "near Newtown Hamilton on the Armagh-Monaghan border"
+    }
+  ],
+  "cyphertext": "SsVX1xRXfSDbh6jmW0jdQfwM9hH_rg65e8peasHtkT3KDOCJiDo6nNsHXUr1aH4qYb9Hyc3Dd-8AHFvgBbDej0e4h25OR8DiQnSx8E7Kg_fQNeaRWanIk5gnPRK8TrCwla7XOop-E2l1EBiDRJBKc8NfwpnhtMha4I6W064U8_Q9-001xMz4tJlE7vIBeIJFoBT8MrlM_yToUE2bxceLRwXIFCa7TXSXF_CK738K9PCk_cF3g74daRlFOLIcFbEeZfl0wicw4UYeTksbRWLNkL4WDUa_l3S5Eszp96NbwkdAfL2p4ySyp7cVv_hZZSown0oFxN3wX-xnJBJbyUpeUEYey3qWVVvzkrtNdHllZg==",
+  "salt": "OaMjGCHkxHUmM5_s0j4cew==",
+  "text": "Shee Finnaha is an Irish mythological site. It was the palace of Lir, one of the kings of the Tuatha Dé Danann. The people of the Tuatha Dé Danann were the old divine race of Ireland. The palace stood near the town of Newtown Hamilton. The town sits on the border of counties Armagh and Monaghan. Today it lies in Northern Ireland. No ruin marks the spot. The name survives in story as the home of Lir and his fateful children. The same Lir saw his sons and daughter turned to swans, a tale of the Children of Lir. Shee Finnaha keeps that sorrow tied to a place on the map.",
+  "objective": "Replace the machine text for Shee Finnaha with a fresh CSG-SME1000 rewrite from Monaghan.",
+  "key_results": [
+    "text holds a fresh CSG-SME1000 rewrite, not a copy of the machine prose",
+    "entities and attributes corrected and enriched for the kgraph"
+  ],
+  "evidence": "Monaghan 2003 (Shee Finnaha); Koch 2006 cross-ref."
 }
