@@ -1,18 +1,34 @@
 {
-    "name": "ce\u00f3 dru\u00eddecta",
-    "attributes": {},
-    "entities": [
-        {
-            "text": "Druid"
-        },
-        {
-            "text": "Fog"
-        }
+  "name": "ceó druídecta",
+  "attributes": [
+    {
+      "entity": "ceó druídecta",
+      "attribute": "points to the Druid's Fog entry"
+    }
+  ],
+  "entities": [
+    {
+      "entity": "ceó druídecta",
+      "type": "concept"
+    },
+    {
+      "entity": "Druid's Fog",
+      "type": "concept"
+    }
+  ],
+  "sources": [
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+  ],
+  "cyphertext": "9thez-q7zprpZs8N4WON87y4jXlMh616H3-5n8xNW_4kmHBFo_igRSCFl2yzU7aJg1jamNRUMEc6Rmv_v2Zo",
+  "salt": "BVPFFVCtYKZCP0cz4tTDGw==",
+  "text": "ceó druídecta is an Irish phrase that stands as a heading in this encyclopedia. The heading sends the reader to the Druid's Fog entry for the full account. No separate tale is told under this title.",
+  "okr": {
+    "objective": "ceó druídecta is a cross-reference pointing to Druid's Fog.",
+    "key_results": [
+      "The heading holds two words that form an Irish phrase.",
+      "It directs the reader to the Druid's Fog entry.",
+      "No other detail appears under this heading."
     ],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "cyphertext": "9thez-q7zprpZs8N4WON87y4jXlMh616H3-5n8xNW_4kmHBFo_igRSCFl2yzU7aJg1jamNRUMEc6Rmv_v2Zo",
-    "salt": "BVPFFVCtYKZCP0cz4tTDGw==",
-    "text": "ce\u00f3 dru\u00eddecta See Druid\u2019S Fog."
+    "evidence": "Monaghan, Encyclopedia of Celtic Mythology and Folklore"
+  }
 }
