@@ -1,15 +1,65 @@
 {
-    "name": "D\u00e9 Danann",
-    "attributes": {},
-    "entities": [
-        {
-            "text": "D\u00e9 Danann"
-        }
-    ],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "cyphertext": "-NyeVkm9vOKW-EdNO10J7QgUJhb1RUAvj0OVu4Ujz7JxUnvLVF0gWTBLFy8Je476qyIAP7QUo-ZTIJ3rJ4Lr8bQwzuBX-RYIcKY=",
-    "salt": "f3E845Ide1qNEie8W6okUw==",
-    "text": "D\u00e9 Danann (De Danaan) See Tuatha D\u00e9 Danann."
+  "name": "Dé Danann",
+  "attributes": [
+    {
+      "entity": "Tuatha Dé Danann",
+      "attribute": "magical Irish race"
+    },
+    {
+      "entity": "Danu",
+      "attribute": "goddess of the race"
+    },
+    {
+      "entity": "Tuatha Dé Danann",
+      "attribute": "defeated the Fomorians and Fir Bolg"
+    },
+    {
+      "entity": "Tuatha Dé Danann",
+      "attribute": "ruled Ireland for nearly 3,000 years"
+    },
+    {
+      "entity": "Tuatha Dé Danann",
+      "attribute": "defeated by the Milesians and became fairy people"
+    }
+  ],
+  "entities": [
+    {
+      "text": "Dé Danann",
+      "entity": "Dé Danann",
+      "type": "Group"
+    },
+    {
+      "text": "Danu",
+      "entity": "Danu",
+      "type": "Deity"
+    },
+    {
+      "text": "Dagda",
+      "entity": "Dagda",
+      "type": "Person"
+    },
+    {
+      "text": "Nuada",
+      "entity": "Nuada",
+      "type": "Person"
+    },
+    {
+      "text": "Brigit",
+      "entity": "Brigit",
+      "type": "Person"
+    }
+  ],
+  "sources": [
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+  ],
+  "cyphertext": "-NyeVkm9vOKW-EdNO10J7QgUJhb1RUAvj0OVu4Ujz7JxUnvLVF0gWTBLFy8Je476qyIAP7QUo-ZTIJ3rJ4Lr8bQwzuBX-RYIcKY=",
+  "salt": "f3E845Ide1qNEie8W6okUw==",
+  "text": "Dé Danann is the short name for the Tuatha Dé Danann. Readers also see the form 'De Danaan'. The phrase points to the main entry. The Tuatha Dé Danann are a magical Irish race. The name means 'people of the goddess Danu'. They were the penultimate invaders of Ireland in the Book of Invasions. They fought and defeated the monstrous Fomorians and the hard Fir Bolg. They ruled Ireland for nearly 3,000 years. The final invaders were the Milesians. The Milesians fought the Tuatha Dé and won. A treaty put the inner world under the Tuatha Dé. The Milesians kept the surface. The race became the fairy people. Key members include the Dagda, Nuada, and Brigit.",
+  "objective": "Present the Tuatha Dé Danann as the referent of the Dé Danann cross-reference entry.",
+  "key_results": [
+    "Define the Tuatha Dé Danann as a magical race, the people of the goddess Danu",
+    "State that they defeated the Fomorians and Fir Bolg and ruled Ireland for nearly 3,000 years",
+    "Note the treaty with the Milesians that made them the fairy people"
+  ],
+  "evidence": "Monaghan, Encyclopedia of Celtic Mythology and History (Checkmark 2008), entry 'Dé Danann (De Danaan)' and referent 'Tuatha Dé Danann' (pp. 386-387, Book of Invasions)."
 }
