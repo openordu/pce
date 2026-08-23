@@ -1,7 +1,33 @@
 {
     "name": "evil eye",
-    "attributes": {},
-    "entities": [],
+    "attributes": [
+        {
+            "entity": "evil eye",
+            "attribute": "could curse a person or gain an object through a gaze"
+        },
+        {
+            "entity": "evil eye",
+            "attribute": "feared in rural Ireland and Scotland"
+        },
+        {
+            "entity": "Balor",
+            "attribute": "called Balor of the Evil Eye"
+        }
+    ],
+    "entities": [
+        {
+            "entity": "evil eye",
+            "type": "Concept"
+        },
+        {
+            "entity": "Balor",
+            "type": "Deity"
+        },
+        {
+            "entity": "red thread",
+            "type": "Object"
+        }
+    ],
     "sources": [
         "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
     ],
@@ -10,5 +36,15 @@
     ],
     "cyphertext": "WgRNgZwyMo6K_FGA1HF_mZzDknhQLLEG4AZnEfjGhWwGzi29Y06YsBAApizLEw==",
     "salt": "qJZ1dY31rwPFAt3TloZPUQ==",
-    "text": "evil eye See Eye."
+    "text": "The evil eye is a harmful power carried in a gaze. A spiteful person could curse another with a single glance. Covetous people could take an object with one sharp look. Squinting, seen in the nearsighted, was sometimes read as a curse. These guards stayed used in rural Ireland through the 1800s. People relied on spoken charms and protective gestures. Scots kept full-bladdered cows from the barn and tied red thread. This folk fear links to Balor of the Evil Eye. See also EYE.",
+    "okr": {
+        "objective": "Rewrite the evil eye cross-reference with the source folkloric claims only.",
+        "key_results": [
+            "Define the evil eye as a curse through a look",
+            "Note the envious gaining objects by gaze",
+            "Name Balor of the Evil Eye as the tied figure",
+            "Record the Scotland safeguards and red thread"
+        ],
+        "evidence": "Monaghan, The Encyclopedia of Celtic Mythology and Folklore, 2008, s.v. Eye and Balor."
+    }
 }

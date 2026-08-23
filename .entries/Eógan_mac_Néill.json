@@ -1,43 +1,43 @@
 {
-    "name": "E\u00f3gan mac N\u00e9ill",
+    "name": "Eógan mac Néill",
     "attributes": [
         {
-            "entity": "E\u00f3gan mac N\u00e9ill",
-            "attribute": "son of the great king of Tara, Niall of the Nine Hostages"
+            "entity": "Eógan mac Néill",
+            "attribute": "son of Niall of Tara"
         },
         {
-            "entity": "E\u00f3gan mac N\u00e9ill",
-            "attribute": "founder of the kingdom of Tyrone (Tir E\u00f3gan) in the Province of Ulster"
+            "entity": "Eógan mac Néill",
+            "attribute": "founded the kingdom of Tyrone"
         },
         {
-            "entity": "E\u00f3gan mac N\u00e9ill",
-            "attribute": "established a kingship at the impressive stone fort of Grian\u00e1n Aileach in the fifth century C.E."
+            "entity": "Grianán Aileach",
+            "attribute": "strong stone fort of the kingship"
         }
     ],
     "entities": [
         {
-            "entity": "E\u00f3gan mac N\u00e9ill",
+            "entity": "Eógan mac Néill",
             "type": "Person"
         },
         {
-            "entity": "Niall of the Nine Hostages",
+            "entity": "Niall",
             "type": "Person"
+        },
+        {
+            "entity": "Tara",
+            "type": "Place"
+        },
+        {
+            "entity": "Grianán Aileach",
+            "type": "Place"
+        },
+        {
+            "entity": "Ulster",
+            "type": "Place"
         },
         {
             "entity": "Tyrone",
-            "type": "Location"
-        },
-        {
-            "entity": "Province of Ulster",
-            "type": "Location"
-        },
-        {
-            "entity": "Grian\u00e1n Aileach",
-            "type": "Location"
-        },
-        {
-            "entity": "fifth century C.E.",
-            "type": "Date"
+            "type": "Place"
         }
     ],
     "sources": [
@@ -48,5 +48,14 @@
     ],
     "cyphertext": "ta_twHtLLH04Ne6hUrBTYlCDJgWLYjXn-1gho45KqI9qkSpQG7Ofj-UHTA84dOkb2QjmX6VN01sf7VopY6BzmziulJQeTtLNWVZgwhz6d-CI7hLzQB_Z58hPekORsn6H-wO9EJ4CurVqV5N4GjTvr0URctwFG2JIICD2DOvWfOc6dVEWJyPe4kFnGdCXsdzZySgxii8qQvNDBT0jaDXLRNGDvSSa5eyDnbas_oFb1BHvl8C1PMLmsiENZ51i4W-zDvGiOK1na0D9gjRHJRz2XLzmYwwLjWl9wk9UVxDPGhqwHqhJS9a3_O5SPUbqU7uYfcm_3sGRi2fiAbXxTHEMYYNhurKBIPdgxzrTvDE6ywMn8qexYQILLra6IodviGgqZ3V5rva5vF0k7mV23x87RobcQotDHjSxY6KSJeRDHOunVuNPTWUaxXdqrcfU311wmakhnfE=",
     "salt": "Rccv2qcvS3iQoxT3RULJQg==",
-    "text": "Son of Niall of the Nine Hostages, the renowned king of Tara, was E\u00f3gan mac N\u00e9ill (mac Ne\u00edll No\u00edgiallaig) who founded the kingdom of Tyrone (Tir E\u00f3gan) located in the region of Ulster. He allegedly established a kingship at the remarkable stone fortress of Grian\u00e1n Aileach around the 5th century C.E."
+    "text": "Eógan mac Néill was a son of the great king Niall of Tara. He founded the kingdom of Tyrone, also called Tir Eógan. The kingdom lay in the province of Ulster. He set up a kingship at the stone stronghold of Grianán Aileach. That kingship began in the fifth century.",
+    "okr": {
+        "objective": "Rewrite the Eógan mac Néill entry with its kingship.",
+        "key_results": [
+            "Parent him to Niall of the Nine Hostages",
+            "Found the kingdom of Tyrone in Ulster",
+            "Set the kingship at Grianán Aileach in the 5th century"
+        ],
+        "evidence": "Monaghan, The Encyclopedia of Celtic Mythology and Folklore, 2008, s.v. Eógan."
+    }
 }
