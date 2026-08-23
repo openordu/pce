@@ -2,26 +2,50 @@
     "name": "Gabhair",
     "attributes": [
         {
-            "entity": "Fionn",
-            "attribute": "grandson of Fionn"
+            "entity": "Gabhair",
+            "attribute": "is a plain near Garristown in County Dublin"
+        },
+        {
+            "entity": "Fianna",
+            "attribute": "were warriors who followed Fionn Mac Cumhaill and were routed at Gabhair"
+        },
+        {
+            "entity": "Cairbre Cinn-Chait",
+            "attribute": "decided to end the Fianna's supremacy and was killed by Oscar"
         },
         {
             "entity": "Oscar",
-            "attribute": "warrior"
-        },
-        {
-            "entity": "Oscar",
-            "attribute": "killed in the battle"
+            "attribute": "killed Cairbre and died in the same battle"
         }
     ],
     "entities": [
         {
-            "entity": "Fionn",
-            "type": "person"
+            "entity": "Gabhair",
+            "type": "Place"
+        },
+        {
+            "entity": "Fianna",
+            "type": "Group"
+        },
+        {
+            "entity": "Fionn Mac Cumhaill",
+            "type": "Person"
+        },
+        {
+            "entity": "Cairbre Cinn-Chait",
+            "type": "Person"
         },
         {
             "entity": "Oscar",
-            "type": "person"
+            "type": "Person"
+        },
+        {
+            "entity": "Garristown",
+            "type": "Place"
+        },
+        {
+            "entity": "Dublin",
+            "type": "Place"
         }
     ],
     "sources": [
@@ -29,5 +53,14 @@
     ],
     "cyphertext": "5zks20jisixgvd5N8XMOzE0UH137NRfjTXjjKXgLV452no0KArBAIQG4GgPCawiW5QxpaHlFIJtd1k8jI6lXakFPqOOAli8h4unI4029Q0uIh62vt5MW25rTAbooTT80fyBryWYIRerNY7oo_p_9y_4Cb6GnvTeDvSsGOyvXpL7BTUFy5DXAjwntxuYYFzapSvhF5SxrmE9RzQ10bMe8UavgbtrY8hnWcuqcLYlE7hQwLzu-LdBGmYVxXZNhdB7KM3slyZLCp_iPmy5-o9mWG7uDi4yaQajXjKc5AUsM-VKu4rc4_WOXAc-0isgp2VXIYEBePppgOCWpI2IB7dWgWcPKGD36cQKM0KaMk_jUpgLhd3WW5bvh1_Qbs_140AqoXDjfPb-aVkUhObdbXTkhBfzSJ8wD116X-lwcP9CtByxlvDs-_B9Osf7NGh6M5foOWWFEkwyg0Ptp-qqfdyD-R5XQUmmi6KV6oeOEDbzmh4pTniymbLX5z183RBBq35o1vK0Dfmsh0BP1GI5YBTRTTeK8C_wgKxnFf7-zOubvzYED6McO1vLXTVR4e8T0-aO-NIuFqM6iJWFBD5CLgj1LiGsFew3oUah2pxvAjSUCcLotZdaM5z59E3-haiu3bz4szZuOM1z3rULJMZXsDm5t_cl1MEPswxCPstDXqMOvc7vTy4NARDlVUlflp3AFSM5zTme7IrYmvcsyCuAI_S3pSdernKJgaa8ZUZaG7fL23Lq8deNxIuQyg89XIevZW2wOIeOeJPLR5zks4TkPSSeXbGCgnFand6fvKONOs3r9_693UeE29RRjhST-Svie2kl10DyJA3w6WlbHfGVLL52JBwnD952bamke8uLtZlD989F-GQ1L",
     "salt": "CyH0n8TXnOMGG8z5wu_2eA==",
-    "text": "A plain near Garristown in County Dublin, Gabhair (also known as Gavra or Gowra) is a site of Irish mythology where the legendary Fianna, a great legion of warriors led by the epic hero Fionn Mac Cumhaill, suffered their first and final defeat. Despite their success in battle, the Fianna ultimately met their match in Gabhair, where the high king Cairbre Cinn-Chait, fed up with the Fianna's arrogance and troublemaking, finally put an end to their domination over the land. As a result of the battle, Cairbre lost his life to Oscar, Fionn's grandson who himself was also killed in the conflict."
+    "text": "Gabhair was an Irish mythological site. Sources also call it Gavra or Gowra. It may be a plain near Garristown in County Dublin. A great battle there broke the power of the Fianna. Those warriors followed the hero Fionn Mac Cumhaill. They had grown arrogant and troublesome. High King Cairbre Cinn-Chait sought to end their hold on the land. He won the battle but lost his life. Oscar, the grandson of Fionn, killed him. Oscar also died in the same fight.",
+    "okr": {
+        "objective": "Record Gabhair as the site of the Fianna's final defeat.",
+        "key_results": [
+            "Locate Gabhair as a plain near Garristown in County Dublin.",
+            "Name the Fianna and their leader Fionn Mac Cumhaill.",
+            "Describe High King Cairbre Cinn-Chait's death at the hand of Oscar."
+        ],
+        "evidence": "Monaghan, The Encyclopedia of Celtic Mythology and Folklore, 2008."
+    }
 }
