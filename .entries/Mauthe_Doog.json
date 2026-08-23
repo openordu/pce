@@ -1,15 +1,50 @@
 {
-    "name": "Mauthe Doog",
-    "attributes": {},
-    "entities": [
-        {
-            "text": "Mauthe Doog See Black Dog"
-        }
-    ],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "cyphertext": "HL4XfbLpOgigKnb8Hlmy_r40Zn_0YOSb7Hdn0wPFn9sspIwy9pvA12PM3qpIhh1oaeHrjYbcYw==",
-    "salt": "yow_Iplf-wr_G0ZZQPmojw==",
-    "text": "Mauthe Doog See Black Dog."
+  "name": "Mauthe Doog",
+  "attributes": [
+    {
+      "entity": "Mauthe Doog",
+      "attribute": "the Manx name of the Black Dog"
+    },
+    {
+      "entity": "Mauthe Doog",
+      "attribute": "a spectral creature, usually shaggy and as big as a calf"
+    },
+    {
+      "entity": "Mauthe Doog",
+      "attribute": "an indication of great change and probable death"
+    },
+    {
+      "entity": "Mauthe Doog",
+      "attribute": "a glance from its eyes could kill"
+    }
+  ],
+  "entities": [
+    {
+      "entity": "Mauthe Doog",
+      "type": "Being"
+    },
+    {
+      "entity": "Black Dog",
+      "type": "Being"
+    },
+    {
+      "entity": "spectral creature",
+      "type": "Concept"
+    }
+  ],
+  "sources": [
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+  ],
+  "cyphertext": "HL4XfbLpOgigKnb8Hlmy_r40Zn_0YOSb7Hdn0wPFn9sspIwy9pvA12PM3qpIhh1oaeHrjYbcYw==",
+  "salt": "yow_Iplf-wr_G0ZZQPmojw==",
+  "text": "Mauthe Doog is the Manx name of the Black Dog. Monaghan directs the reader to the fuller Black Dog entry. This spectral creature was usually shaggy and about the size of a calf. It was known throughout the insular Celtic world. The dog was an indication of great change and probable death. Black Dogs could sometimes be helpful. A single glance from the dog's eyes could kill.",
+  "objective": "Document Mauthe Doog, the Manx name of the spectral Black Dog.",
+  "key_results": [
+    "Record Mauthe Doog as the Manx name of the Black Dog.",
+    "Record the spectral appearance of the creature.",
+    "Record its meaning as an indication of change and probable death."
+  ],
+  "evidence": [
+    "Monaghan, P. The Encyclopedia of Celtic Mythology and Folklore (2008): Mauthe Doog entry, p. 318; Black Dog entry, p. 47."
+  ]
 }
