@@ -1,15 +1,37 @@
 {
-    "name": "Land of Women",
-    "attributes": {},
-    "entities": [
-        {
-            "text": "Land of Women See Tir Na"
-        }
-    ],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "cyphertext": "OjjjIvgq7UDIkDnBEq_L6EKxEgaXQnY-5IMaS5Vltvwil7LOeoA9BvHjB2Lz7TwXOQEYRy7qUZ6Bzkg=",
-    "salt": "EepqG47fqGhe1v33xFoIUg==",
-    "text": "Land of Women See Tir Na Mban."
+ "name": "Land of Women",
+ "attributes": [
+  {
+   "entity": "Land of Women",
+   "attribute": "an Irish name for the Otherworld"
+  }
+ ],
+ "entities": [
+  {
+   "entity": "Land of Women",
+   "type": "Place"
+  },
+  {
+   "entity": "Tir Na Mban",
+   "type": "Place"
+  },
+  {
+   "entity": "Otherworld",
+   "type": "Place"
+  }
+ ],
+ "sources": [
+  "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+ ],
+ "cyphertext": "OjjjIvgq7UDIkDnBEq_L6EKxEgaXQnY-5IMaS5Vltvwil7LOeoA9BvHjB2Lz7TwXOQEYRy7qUZ6Bzkg=",
+ "salt": "EepqG47fqGhe1v33xFoIUg==",
+ "text": "Land of Women is a name for the Celtic Otherworld. The source spells it as Tir Na Mban, the land of women. It is one of many Irish names for that far realm. See the Otherworld for the full account.",
+ "okr": {
+  "objective": "Define the Otherworld name that means land of women.",
+  "key_results": [
+   "The source spells it Tir Na Mban, the land of women.",
+   "It is one name among many for the Celtic world beyond the sea."
+  ],
+  "evidence": "Monaghan, Encyclopedia of Celtic Mythology and Folklore (Checkmark 2008), s.v. Land of Women."
+ }
 }

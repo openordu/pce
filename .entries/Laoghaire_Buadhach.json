@@ -1,41 +1,49 @@
 {
-    "name": "Laoghaire Buadhach",
-    "attributes": [
-        {
-            "entity": "Laoghaire Buadhach",
-            "attribute": "hero of the Ulster Cycle"
-        },
-        {
-            "entity": "Aodh",
-            "attribute": "poet"
-        },
-        {
-            "entity": "Concobar Mac Nessa",
-            "attribute": "angry king"
-        }
-    ],
-    "entities": [
-        {
-            "entity": "Laoghaire Buadhach",
-            "type": "hero"
-        },
-        {
-            "entity": "Ulster Cycle",
-            "type": "mythological cycle"
-        },
-        {
-            "entity": "Aodh",
-            "type": "poet"
-        },
-        {
-            "entity": "Concobar Mac Nessa",
-            "type": "king"
-        }
-    ],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "cyphertext": "2nik-TFQvLp7MbND1vD8Alz4ewafMpWTFZYE0REeTZLmhPCHPhnd1QTTePP0r5SIi_0IYlt5VCL3lcQY-uc7ANq2JgCdHSrrfcMi5b1qkML6pg6TsG1npp5xT-I86dErsyK8bR0RiDfkHECW_9SbQezlE7obKyvV3q65sJbcB6-pmTNr8WRD3srUQGHooIkMlSWWuJ1ggYDlXJ0oTND_I3gcECKtvkCxC5WgPda1U2EixwRl7L1Pt-vGxkY77yq2NghdwnE6",
-    "salt": "AGyaGeLyc1HC06ccHVLMjQ==",
-    "text": "Laoghaire Buadhach, also known as \"Laoghaire the victorious,\" is a courageous warrior from the Ulster Cycle. He displayed his bravery by sacrificing his life to save a poet named Aodh from the wrath of the furious king Concobar Mac Nessa."
+ "name": "Laoghaire Buadhach",
+ "attributes": [
+  {
+   "entity": "Laoghaire Buadhach",
+   "attribute": "a hero of the Ulster Cycle"
+  },
+  {
+   "entity": "Laoghaire Buadhach",
+   "attribute": "died so the poet Aodh would not be killed"
+  },
+  {
+   "entity": "Concobar Mac Nessa",
+   "attribute": "the angry king who wanted the poet dead"
+  }
+ ],
+ "entities": [
+  {
+   "entity": "Laoghaire Buadhach",
+   "type": "Person"
+  },
+  {
+   "entity": "Ulster Cycle",
+   "type": "Concept"
+  },
+  {
+   "entity": "Aodh",
+   "type": "Person"
+  },
+  {
+   "entity": "Concobar Mac Nessa",
+   "type": "Person"
+  }
+ ],
+ "sources": [
+  "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+ ],
+ "cyphertext": "2nik-TFQvLp7MbND1vD8Alz4ewafMpWTFZYE0REeTZLmhPCHPhnd1QTTePP0r5SIi_0IYlt5VCL3lcQY-uc7ANq2JgCdHSrrfcMi5b1qkML6pg6TsG1npp5xT-I86dErsyK8bR0RiDfkHECW_9SbQezlE7obKyvV3q65sJbcB6-pmTNr8WRD3srUQGHooIkMlSWWuJ1ggYDlXJ0oTND_I3gcECKtvkCxC5WgPda1U2EixwRl7L1Pt-vGxkY77yq2NghdwnE6",
+ "salt": "AGyaGeLyc1HC06ccHVLMjQ==",
+ "text": "Laoghaire Buadhach, the Victorious, was a hero of the Ulster Cycle. He gave his life so that a poet named Aodh would not be slain by the angry king Concobar Mac Nessa. His death was an honor within the warrior code of Ulster.",
+ "okr": {
+  "objective": "Present Laoghaire Buadhach as the Ulster hero who died for a poet.",
+  "key_results": [
+   "The source calls him Laoghaire the Victorious.",
+   "It says he died rather than let the poet Aodh be killed by the king."
+  ],
+  "evidence": "Monaghan, Encyclopedia of Celtic Mythology and Folklore (Checkmark 2008), s.v. Laoghaire Buadhach."
+ }
 }

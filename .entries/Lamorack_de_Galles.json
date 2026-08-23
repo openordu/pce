@@ -1,61 +1,62 @@
 {
-    "name": "Lamorack de Galles",
-    "attributes": [
-        {
-            "entity": "Lamorack de Galles",
-            "attribute": "Arthurian hero"
-        },
-        {
-            "entity": "King Pellinore",
-            "attribute": "Arthurian king"
-        },
-        {
-            "entity": "Round Table",
-            "attribute": "Arthurian legend"
-        },
-        {
-            "entity": "Arthur",
-            "attribute": "Arthurian king"
-        },
-        {
-            "entity": "Morgause",
-            "attribute": "Arthur's half-sister"
-        },
-        {
-            "entity": "Gawain",
-            "attribute": "Arthurian knight"
-        }
-    ],
-    "entities": [
-        {
-            "entity": "Lamorack de Galles",
-            "type": "Arthurian hero"
-        },
-        {
-            "entity": "King Pellinore",
-            "type": "Arthurian king"
-        },
-        {
-            "entity": "Round Table",
-            "type": "Arthurian legend"
-        },
-        {
-            "entity": "Arthur",
-            "type": "Arthurian king"
-        },
-        {
-            "entity": "Morgause",
-            "type": "Arthur's half-sister"
-        },
-        {
-            "entity": "Gawain",
-            "type": "Arthurian knight"
-        }
-    ],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "cyphertext": "LMNaFZKtb3fKp9vNOysWj2HB52kN5uv86ksxPqbe69OVvb5dlTw-K_K9ILZFHY1qh7b3IcvZbvDckte-JkqCC5_WSIcKEStfvPw3ROTRncOJ68z0mIljzkrwoEgHoui9bYns0ydZO7c0MNwbN4uczh784VgklSEsBH_i5IsYrXslL2O47dRTvjgRIMvD1LhYUmC4UB8m6w2M2numJn5eGsAXNZfAqSxsYVxiU22F_EDgnokDUnqkLRYe6WK8tJjh1h8LNXjMKwhsSqvhAPMAM7CMKsBrC5iXpxmdzBA-Lgh4dslJiDeKxkj8CTJjkqFgXY9653jrX5qagYki9PsEIw==",
-    "salt": "Z7jnGiPkyQBkahgke6E64Q==",
-    "text": "Arthurian hero Lamorack de Galles was known for his prowess in battle and his membership in the Round Table, being the son of King Pellinore. In an act of aggression, he slayed the husband of King Arthur's half-sister Morgause. In retribution, Morgause's sons, including Gawain, sought revenge and ultimately killed Lamorack de Galles."
+ "name": "Lamorack de Galles",
+ "attributes": [
+  {
+   "entity": "Lamorack de Galles",
+   "attribute": "son of King Pellinore"
+  },
+  {
+   "entity": "Lamorack de Galles",
+   "attribute": "famous warrior of the Round Table"
+  },
+  {
+   "entity": "Lamorack de Galles",
+   "attribute": "killed the husband of Morgause"
+  },
+  {
+   "entity": "Morgause",
+   "attribute": "sons, including Gawain, killed Lamorack in revenge"
+  }
+ ],
+ "entities": [
+  {
+   "entity": "Lamorack de Galles",
+   "type": "Person"
+  },
+  {
+   "entity": "King Pellinore",
+   "type": "Person"
+  },
+  {
+   "entity": "Round Table",
+   "type": "Role"
+  },
+  {
+   "entity": "King Arthur",
+   "type": "Person"
+  },
+  {
+   "entity": "Morgause",
+   "type": "Person"
+  },
+  {
+   "entity": "Gawain",
+   "type": "Person"
+  }
+ ],
+ "sources": [
+  "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+ ],
+ "cyphertext": "LMNaFZKtb3fKp9vNOysWj2HB52kN5uv86ksxPqbe69OVvb5dlTw-K_K9ILZFHY1qh7b3IcvZbvDckte-JkqCC5_WSIcKEStfvPw3ROTRncOJ68z0mIljzkrwoEgHoui9bYns0ydZO7c0MNwbN4uczh784VgklSEsBH_i5IsYrXslL2O47dRTvjgRIMvD1LhYUmC4UB8m6w2M2numJn5eGsAXNZfAqSxsYVxiU22F_EDgnokDUnqkLRYe6WK8tJjh1h8LNXjMKwhsSqvhAPMAM7CMKsBrC5iXpxmdzBA-Lgh4dslJiDeKxkj8CTJjkqFgXY9653jrX5qagYki9PsEIw==",
+ "salt": "Z7jnGiPkyQBkahgke6E64Q==",
+ "text": "Lamorack de Galles was an Arthurian hero. He was the son of King Pellinore and a famous warrior of the court. Lamorack slew the husband of Arthur's half-sister Morgause, which earned him her enmity. Her sons, Gawain among them, killed him in revenge. The feud destroyed a great knight of the realm.",
+ "okr": {
+  "objective": "Present Lamorack de Galles as an Arthurian hero undone by a family feud.",
+  "key_results": [
+   "The source names him the son of King Pellinore.",
+   "It calls him a famous warrior of the Round Table.",
+   "It says he slew Morgause's husband and her sons killed him in return."
+  ],
+  "evidence": "Monaghan, Encyclopedia of Celtic Mythology and Folklore (Checkmark 2008), s.v. Lamorack de Galles."
+ }
 }

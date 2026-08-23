@@ -1,15 +1,37 @@
 {
-    "name": "Land of Youth",
-    "attributes": {},
-    "entities": [
-        {
-            "text": "Nog"
-        }
-    ],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "cyphertext": "r-FLoLcET4oAdrHP-5gCfThjDu7VcOgGdfph3lLe-QjxsdY-ESEqV-6U26RR3avfp7iS3Uf4g0ei4Q==",
-    "salt": "vOcnfiH3Tx4YE-SqHxZwtQ==",
-    "text": "Land of Youth See Tir Na Nog."
+ "name": "Land of Youth",
+ "attributes": [
+  {
+   "entity": "Land of Youth",
+   "attribute": "a name for the Otherworld meaning land of youth"
+  }
+ ],
+ "entities": [
+  {
+   "entity": "Land of Youth",
+   "type": "Place"
+  },
+  {
+   "entity": "Tir Na Nog",
+   "type": "Place"
+  },
+  {
+   "entity": "Otherworld",
+   "type": "Place"
+  }
+ ],
+ "sources": [
+  "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+ ],
+ "cyphertext": "r-FLoLcET4oAdrHP-5gCfThjDu7VcOgGdfph3lLe-QjxsdY-ESEqV-6U26RR3avfp7iS3Uf4g0ei4Q==",
+ "salt": "vOcnfiH3Tx4YE-SqHxZwtQ==",
+ "text": "Land of Youth is a name for the Celtic Otherworld. The source spells it as Tir Na Nog, the land of youth. The title points to the lasting beauty of the folk who live there. See the Otherworld for the full account.",
+ "okr": {
+  "objective": "Explain the Otherworld name that means land of youth.",
+  "key_results": [
+   "The source spells it Tir Na Nog, the land of youth.",
+   "The name speaks to the unfading beauty of its inhabitants."
+  ],
+  "evidence": "Monaghan, Encyclopedia of Celtic Mythology and Folklore (Checkmark 2008), s.v. Land of Youth."
+ }
 }
