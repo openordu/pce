@@ -3,45 +3,49 @@
   "attributes": [
     {
       "entity": "áes dána",
-      "attribute": "means a group of nationally acclaimed artists in modern Ireland"
+      "attribute": "Old Irish term that today names celebrated artists in Ireland"
     },
     {
       "entity": "áes dána",
-      "attribute": "derives from the Old Irish term for poets"
+      "attribute": "derived from the Old Irish word for poets"
     },
     {
       "entity": "áes dána",
-      "attribute": "also applied to Druids, Brehons, or lawyers"
+      "attribute": "also applied to druids, brehons, and lawyers"
     },
     {
       "entity": "Well of wisdom",
-      "attribute": "source of the gift of inspiration"
+      "attribute": "gave the gift of inspiration to those who drank from it"
     },
     {
       "entity": "salmon",
-      "attribute": "its flesh conveyed inspiration to those who tasted it"
+      "attribute": "its flesh passed on inspiration to those who tasted it"
     }
   ],
   "entities": [
     {
       "entity": "áes dána",
-      "type": "Old Irish term for poets"
+      "type": "concept"
     },
     {
-      "entity": "Druids",
-      "type": "learned class"
+      "entity": "poets",
+      "type": "group"
     },
     {
-      "entity": "Brehons",
-      "type": "judges"
+      "entity": "druids",
+      "type": "group"
+    },
+    {
+      "entity": "brehons",
+      "type": "group"
     },
     {
       "entity": "Well of wisdom",
-      "type": "source of inspiration"
+      "type": "place"
     },
     {
       "entity": "salmon",
-      "type": "source of wisdom"
+      "type": "animal"
     }
   ],
   "sources": [
@@ -52,7 +56,17 @@
   ],
   "cyphertext": "Dn7N3-RTkw04CgHjCqPpIHURNydzItDkK_SbVbCbuVnZpoALDlERNlZuFIh4KdXeHYCvsSeHIZoVkdEA3omjbBo5yN8QUBZc7rr_9KugMBm1Rh9ge3hy_FG6t8zn3ov4GMKp2-A6o_pzocZWz0M9kE7o5wbmn8LvPpHPqXpbhRQbn7SWU3k8euglE3emEokKl6ZqVXXRLo32NG_L_v6UME3Ku9QxE0qL2s0ewxYLGFgJKcdMGc-Zs5q3pT-9tC73-a_zYUX8w_2PFXA3BQBWaRbyJy1DMtFYKxkEuyP1Xdhlt7EoDNDwbPrakIhDRzSal9oNQpNl-heXwoWFXAwW7qg0b9cJBAmnsTMTFMCuG-pEWuOpZPgdg_ex20drRQH-wwcd4HuX7hS93SrToBrnVvKoKA7CQVTRzU2pZLgF7mprt9AeyuErRAskhcHgl6b9Q5CnKdygsWccFm0TP8A9zsYRw8YUO48az30PDgzmz9WF77bsM-b6MnJXwifRF70Uu89maMPiPEiM_MvGF_U8fmhgMhz1CuAJhBKeqiMKZfYKwDWY2y6P1QQPVUvsALGpgcLVmAbtIaM4BiWzhIBJaW4P_9L0L1ldBOyTy5rDkSfgydyWTydewBxGFqSlorRq1RaWz5MynA==",
   "salt": "YbWoaoPfw6voZbKlJDihcA==",
-  "text": "Áes dána, also written aos dana or aes dana, is an Irish phrase for a hero or heroine. In modern Ireland, the phrase designates a group of nationally acclaimed artists. It derives from the Old Irish term for poets. The term was also sometimes applied to Druids, Brehons, or lawyers.\n\nIn Old Irish, the áes dána were the learned classes. They helped shape the common spoken and literary language of their day. Their knowledge held a high place in the culture.\n\nTo gain the gift of inspiration, one had to drink from the Well of wisdom. One might eat the hazel nuts floating there. One might taste the flesh of the salmon that swam in it. Each act was thought to pass on the power of poetic knowledge.\n\nThe Well of wisdom and its hazel nuts appear throughout Irish lore. The salmon that swam in the well held the same wisdom. Anyone who tasted its flesh took in that insight. This path to inspiration served poets, Druids, and judges alike.\n\nThe term unites these roles under one idea. All drew on the same source of insight. All served the community through knowledge. The modern meaning, a group of acclaimed artists, keeps that older sense alive.\n\nToday the phrase honors those who create and guard the culture. It remembers that Irish art grew from the well of learning. The poets who drank from it set the standard for those who follow.",
+  "text": "Áes dána is an Old Irish phrase. Today in Ireland it names the country's most celebrated artists. The term began as the Old Irish word for poets. It also covered druids, brehons, and lawyers. A seeker gained inspiration by drinking from the Well of wisdom. One could eat the hazel nuts floating in it. Or one could eat of the salmon that swam in that water.",
+  "okr": {
+    "objective": "Áes dána is the Old Irish phrase for poets and artists.",
+    "key_results": [
+      "Today áes dána names a group of celebrated artists in Ireland.",
+      "The term derives from the Old Irish word for poets.",
+      "It also applied to druids, brehons, and lawyers.",
+      "Inspiration came from the Well of wisdom, its hazel nuts, or the salmon in it."
+    ],
+    "evidence": "Monaghan, Encyclopedia of Celtic Mythology and Folklore"
+  },
   "objective": "To explain the meaning and origin of the Irish phrase áes dána.",
   "key_results": [
     "In modern Ireland the phrase means a group of nationally acclaimed artists.",

@@ -1,91 +1,99 @@
 {
-    "name": "\u00c9rem\u00f3n",
+    "name": "Éremón",
     "attributes": [
         {
-            "entity": "the two brothers",
-            "attribute": "disagreed on who should rule the land"
+            "entity": "Milesians",
+            "attribute": "the last invaders of Ireland"
+        },
+        {
+            "entity": "Eremon",
+            "attribute": "son of Mil"
+        },
+        {
+            "entity": "Eremon",
+            "attribute": "fought the Tuatha De Danann"
+        },
+        {
+            "entity": "Eremon",
+            "attribute": "won the land"
         },
         {
             "entity": "Amairgin",
-            "attribute": "divided it in two along the low glacial hills"
+            "attribute": "divided the land on low hills"
         },
         {
             "entity": "Eiscir Riada",
-            "attribute": "stretch from today\u2019s Dublin to Galway"
+            "attribute": "runs from Dublin to Galway"
         },
         {
-            "entity": "\u00c9rem\u00f3n",
-            "attribute": "getting the north"
+            "entity": "Eremon",
+            "attribute": "took the north"
         },
         {
-            "entity": "\u00c9ber Finn",
-            "attribute": "getting the south"
+            "entity": "Eber Finn",
+            "attribute": "took the south"
         },
         {
-            "entity": "\u00c9ber Finn",
-            "attribute": "remained disgruntled"
+            "entity": "Eber Finn",
+            "attribute": "waged a long war"
         },
         {
-            "entity": "\u00c9ber Finn",
-            "attribute": "waged unrelenting war upon \u00c9rem\u00f3n"
+            "entity": "Eremon",
+            "attribute": "killed Eber Finn"
         },
         {
-            "entity": "\u00c9rem\u00f3n",
-            "attribute": "forced to kill his brother"
-        },
-        {
-            "entity": "\u00c9rem\u00f3n",
+            "entity": "Eremon",
             "attribute": "king of a united Ireland"
         },
         {
-            "entity": "\u00c9rem\u00f3n",
-            "attribute": "established the kingship at Tara"
+            "entity": "Tara",
+            "attribute": "seat of the kingship"
         },
         {
-            "entity": "T\u00e9a",
-            "attribute": "wife of \u00c9rem\u00f3n"
+            "entity": "Tea",
+            "attribute": "the wife of Eremon"
         }
     ],
     "entities": [
         {
+            "entity": "Eremon",
+            "type": "person"
+        },
+        {
+            "entity": "Eber Finn",
+            "type": "person"
+        },
+        {
             "entity": "Amairgin",
             "type": "person"
         },
         {
-            "entity": "Dublin",
-            "type": "location"
-        },
-        {
-            "entity": "Galway",
-            "type": "location"
-        },
-        {
-            "entity": "Eiscir Riada",
-            "type": "location"
-        },
-        {
-            "entity": "\u00c9rem\u00f3n",
+            "entity": "Mil",
             "type": "person"
         },
         {
-            "entity": "\u00c9ber Finn",
-            "type": "person"
+            "entity": "Milesians",
+            "type": "group"
+        },
+        {
+            "entity": "Tuatha De Danann",
+            "type": "group"
         },
         {
             "entity": "Ireland",
-            "type": "location"
+            "type": "place"
+        },
+        {
+            "entity": "Eiscir Riada",
+            "type": "place"
         },
         {
             "entity": "Tara",
-            "type": "location"
-        },
-        {
-            "entity": "T\u00e9a",
-            "type": "person"
+            "type": "place"
         }
     ],
     "sources": [
-        "Gwynn, Edward. The Metrical Dindshenchas. Part II, vol. IX. Royal Irish Academy, Todd Lecture Series. Dublin: Hodges, Figgis, and Co., Ltd., 1906\u20131924, 22.",
+        "Gwynn, Edward. The Metrical Dindshenchas. Part II, vol. IX. Royal Irish Academy, Todd Lecture Series. Dublin: Hodges, Figgis, and Co., Ltd., 1906–1924, 22.",
         "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
     ],
     "image": [
@@ -93,5 +101,15 @@
     ],
     "cyphertext": "64zlsJwaC0aUeaFOs2dtmPcV3dH-eonJsJLdOqX4afbpY94Q5sfw3b-IHOds070uRrOyY6wcJKeaonhpbXqYj9K_HA1Vf9p8VFQLLo_qeRlpKZVVZ5YixrcYCwrBN0_IbC_13tH4TSUqMTJjcKSc5y7noM6xnwlvpDD_NWoTW320bPDIjs-CjpiQOV82nKyCxa5cCmQs1XKcbNd0YIcBwXxHcGCr13bJL7exR_OK-c6IrTMZT9Kg8_-WiAP4wPAHVQS0Wd9rP7xgnwLjI3XMgrJ2jsThVI4YAGlnKaiJOQGM3UdkDm2MeKfMjQwNa9_8WV3-p4ccFJG-PpVX16y7UKswCdADgxevffu0evrw72xqoKDb3r3B0oN6GmKK3G8ZG4pKelHc8cgEk_JQF16-TGtcHfBRa4QKZqOdq-M87iewJZfvUk0txPQiTvdMsQvIdwPdlyRRFiNlopr-r61_yNBjZmX7zrR-e3crLsXB5yigRTMaaCnzkY4AzQ6XAHr4YbxdDmlUq07HSvsUr7AOK2_JnOIJWcTY49MZzbzgqKLhr48ozf2RRTMb_ldw4tLCmqwRA2Sb4CUH4K0aK0fCOB8k9IN8wrjb6MnLIOxYBiAWEdnJhum3LcEEWH9pZBdcUZq6cDAEC8poHyB92Uwh8LOOlueO9B-7PLD2B1n1tgmHYGDKuO1IeWC5s74w6I_3cPWY_7RakQYr82six2BQEN-9_Z-eC_mHwnB-67C0NauuhaBlfv-X7y9oIh5_4-r9i3nwHaqxhhaE8ZyRZ78Zk7xaIMfhqovYgi86SfuEDKAJOB6Ae-6TnQ1nBsR_uOhUyOrY8waCsit0_9qb7pRUlYAXdN9bNox7fTBahLML3rEGyGYLT13hRaaKNoWCUj1bChiUp0Rwbaw5T719n96J-WeCVgb_ADr6callBCfeDpyb4zUgr5jw-11dv2mWCSFch9jFH0yjNCbkW6nPuR9azI_UTc4BdUUis_gXod3iiF0EOmBd6pOGkbboM-0M7UHfFujup-R5xD70mB8fHZftSYR3Wx6K6mL9M9TEWgu7qZRCVBXTF50uvnXPPBkXpUCPmR9aCASaA7tEb87niMMB1Co6LaUcECoL6wilkjPlu5cYkX3mKHQR4W45D2LwHmb7tEK5fRTvn34eQIi0HynC982digdvmqQfC5BFzP8lIcYtsgx3BRXVwktFvxFVsF8NR8c6H9PpKH1zLoPuaZBNbV-2UUwLnv4PMUoCtlWsYsZe-I1LGMj3SfT8Tgx1A1NE404-ioWqyuXqGzRi1-J1QzqBXrzDdOgWyE9ATjokFTCfRLBO_5eIL3nw5EGWR-tTh6aYIiRyp4dwPUrYucncTYfGhBosm7HclcoekLWw0iUgugna4pim9EUNIyrKUDtJtyaeFHzgBbeWiC7FFfsxHZZRfQstrL-FuAHY-Uv_zNGIO9JqMgTDPzxQocYbRuTjasLXA7AmZi4IyJnmvBJNmyUL3ME5q_UcRjLMqpLKMwZayzeQyfz2OBwKWe5YmqVeVzeb-z4yB6OlieiuOpycy6kdb43sSewCqUmBJRlxupxcO7jITs-gB3h5JsSOEwro1k_JoUaZdajfoF8lkbLfN5VaoYsgMvBVlYp6tz426VTL0Q4ucfK8Hg==",
     "salt": "dXlJHo3vIthLJoD8CJOhDQ==",
-    "text": "An Irish hero named \u00c9rem\u00f3n (also known as Heremon or Eremon) emerged as a leader of the Milesians. According to the Book of Invasions, the Milesians were the final group of invaders to arrive in Ireland. The mythical story tells how \u00c9rem\u00f3n and his brother, \u00c9ber Finn, fought against the magical forces of the Tuatha D\u00e9 Danann for control of the island and won. The event is believed to be rooted in a historical memory of a final wave of Celts who came to Ireland and overtook the earlier Celtic and non-Celtic peoples who lived there. However, after the victory, the two brothers disagreed on who should rule the land. Wise poet Amairgin intervened and divided the territory in two, along the low glacial hills stretching from present-day Dublin to Galway, known as the Eiscir Riada. \u00c9rem\u00f3n was given the north, while \u00c9ber Finn received the south. Despite this, \u00c9ber Finn remained dissatisfied and waged an unrelenting war against his brother until \u00c9rem\u00f3n was eventually forced to kill him. Following this, \u00c9rem\u00f3n became king of a united Ireland and established the kingship at Tara, which he named after his wife, T\u00e9a."
+    "text": "Eremon is an Irish hero. His other names are Heremon and Eremon. The Book of Invasions calls the Milesians the last wave of settlers. They were the men of Mil. Eremon led the attack with his brother Eber Finn. The two fought the magical host of the Tuatha De Danann. They won control of the island. The myth may hold a memory of a real Celtic arrival. Those settlers took rule from the older tribes. After the win, the brothers argued about the rule. The poet Amairgin settled the land in two. He drew a line on the low glacial hills. The line runs from present-day Dublin to Galway. This strip is the Eiscir Riada. Eremon took the north. Eber Finn held the south. Eber Finn stayed angry. He opened a long war. Eremon had to end his brother's life. Eremon then ruled a united Ireland. He founded the kingship at Tara. He gave the sacred hill the name of his wife Tea.",
+    "okr": {
+        "objective": "the Milesian hero Éremón who founded the kingship at Tara",
+        "key_results": [
+            "Eremon was a hero among the Milesians.",
+            "He fought the Tuatha De Danann for the island.",
+            "Amairgin divided the land along the Eiscir Riada.",
+            "Eremon founded the Irish kingship at Tara."
+        ],
+        "evidence": "Monaghan, Encyclopedia of Celtic Mythology and Folklore"
+    }
 }

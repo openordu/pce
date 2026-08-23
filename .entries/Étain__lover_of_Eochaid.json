@@ -1,30 +1,26 @@
 {
-    "name": "\u00c9tain, lover of Eochaid",
+    "name": "Étain, lover of Eochaid",
     "attributes": [
         {
-            "entity": "\u00c9tain",
-            "attribute": "lover of Eochaid Fedlech"
+            "entity": "Etain",
+            "attribute": "beloved of Eochaid Fedlech"
         },
         {
-            "entity": "\u00c9tain",
-            "attribute": "daughter of the king \u00c9tar"
-        },
-        {
-            "entity": "\u00c9tain \u00d3g",
-            "attribute": "child of \u00c9tain"
+            "entity": "Etain Og",
+            "attribute": "daughter of Etain"
         },
         {
             "entity": "Eochaid Airem",
-            "attribute": "brother of Eochaid Fedlech"
+            "attribute": "born to the brother of Eochaid Fedlech"
         },
         {
-            "entity": "Eochaid Airem",
-            "attribute": "father of \u00c9tain \u00d3g"
+            "entity": "Etar",
+            "attribute": "father of Etain"
         }
     ],
     "entities": [
         {
-            "entity": "\u00c9tain",
+            "entity": "Etain",
             "type": "person"
         },
         {
@@ -32,15 +28,15 @@
             "type": "person"
         },
         {
-            "entity": "\u00c9tar",
-            "type": "person"
-        },
-        {
-            "entity": "\u00c9tain \u00d3g",
-            "type": "person"
-        },
-        {
             "entity": "Eochaid Airem",
+            "type": "person"
+        },
+        {
+            "entity": "Etain Og",
+            "type": "person"
+        },
+        {
+            "entity": "Etar",
             "type": "person"
         }
     ],
@@ -49,5 +45,14 @@
     ],
     "cyphertext": "UV48T4t8Y95ntlBej_4VNFYcUzt4B_pgF13JlHxXVZ1WJW1HEPVPOOxs9VOqEsB6vmcSijALtPiyP5VHeMbrH34MfzsMahHrHU383JzY5Aj0NZNP3CDQpYxxik0VFRHlWXtDtPnFYLJovrUjnXqjzqKo6xyr1m7wNesHfSLB6YN3LDnhMmt-_r0IuhGjeyb5ti6kAeAGdRL5Thfla4EYAL9ryiA9Enrynt2YSYYgLp2hn23EbsJ9bEpco5HCAR7HaQaLiAcphvuTlcOqc-bH9gunLuYdjJdm-4HaezIFDGGS4cgk6fyzssYOV1P_p2p2F9s8G_9S78vbpGH4YnqVRQ==",
     "salt": "81I8K7161mAqSSn0RtEKSw==",
-    "text": "Daughter of King \u00c9tar, \u00c9tain was the beloved of Eochaid Fedlech. \u00c9tain \u00d3g was born to Eochaid Fedlech's brother, who shared the same name as him, Eochaid Airem. This usage of identical names is frequent in the literature of ancient Ireland."
+    "text": "In the old Irish records, Etain marks the name of a beloved woman. She was the daughter of King Etar and the beloved of King Eochaid Fedlech. A child called Etain Og was born to the brother of Eochaid Fedlech. That brother shared his name and was called Eochaid Airem. The habit of reusing the same name is common in the books of old Ireland.",
+    "okr": {
+        "objective": "the Etain recorded with King Eochaid",
+        "key_results": [
+            "Etain was recorded as the beloved of Eochaid Fedlech.",
+            "Her child bore the name Etain Og.",
+            "Two kings in the record reused the name Eochaid."
+        ],
+        "evidence": "Monaghan, Encyclopedia of Celtic Mythology and Folklore"
+    }
 }

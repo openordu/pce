@@ -3,37 +3,45 @@
   "entities": [
     {
       "entity": "Íth",
-      "type": "Person"
+      "type": "hero"
     },
     {
       "entity": "Book of Invasions",
-      "type": "Artifact"
+      "type": "artifact"
     },
     {
       "entity": "Milesians",
-      "type": "Group"
-    },
-    {
-      "entity": "Ireland",
-      "type": "Place"
+      "type": "group"
     },
     {
       "entity": "Tuatha Dé Danann",
-      "type": "Group"
+      "type": "group"
+    },
+    {
+      "entity": "Ireland",
+      "type": "place"
     },
     {
       "entity": "Míl Despaine",
-      "type": "Person"
+      "type": "person"
     }
   ],
   "attributes": [
     {
       "entity": "Íth",
-      "attribute": "the first Milesian to spot Ireland on the horizon, killed by the Tuatha Dé Danann"
+      "attribute": "the first Milesian to glimpse Ireland across the sea"
+    },
+    {
+      "entity": "Íth",
+      "attribute": "killed by the Tuatha Dé Danann after he landed"
     },
     {
       "entity": "Míl Despaine",
-      "attribute": "Íth's nephew, who avenged his murder by leading the Milesian invasion"
+      "attribute": "nephew of Íth who avenged his death"
+    },
+    {
+      "entity": "Míl Despaine",
+      "attribute": "led the Milesians in a successful invasion"
     }
   ],
   "sources": [
@@ -44,7 +52,17 @@
   ],
   "cyphertext": "3vJ-LRhba7c_NpZulKbH0hIbdxxCNV2VPzdN5zbwssuIliDYiygHFZI4S6RUlZsLVtRIIcuUjGR5le71qLxkzB3VaCjAGlz4AbJnSy2bFOGtWbdNkNOipgXYegJPqSvd8qBfcRH3_Og5A3mU6OaA5GGi7TiIFBqeSHeHlX3rNlzx7pZRHVfrG2u9IL5Ja4KPwbfXSYOtO-t0yPOSFp_XEk5dkva28K82DvrirfvvI7H77XDqzC5PPVj7tqEMrmQchZ8lu5cY52zm3x5AM1CzegPrsmerp65dZ0ZbKzvxMR8f1HlvE7D7K20ejh9v4V2Ee9V_1ZO1H0If_h2UgWsiPErB4NRchHcyivRGR-kfY9V_8HX8G8CZd0k3xAG1Qbqd5rbjZ6q40aTujrOsPVT-8awFFiHu8ghxbBkOUNAq6wH_51r6C9s7Ry2J-F3gu1_ri6PpA8fpE8UOHjoIZeIK6bzcxMH1wpDHgexQ5xJPJrBMm-yO5xm9naHsPSXFbjdnV5wLjpEOfCzd49iB7cn9Klh3zxzSzjAiK1LMLL4julh3alOCFSx5qMbhOR4=",
   "salt": "8cSTlJu3eM8uQJtN0lZMWA==",
-  "text": "Íth was an Irish hero. He appears in the Book of Invasions. He was the first of his tribe, the Milesians, to spot the green island of Ireland on the horizon. He led a group of his people there. The magical Tuatha Dé Danann, who already lived on the land, quickly killed him. His nephew Míl Despaine avenged his murder. Míl led the Milesians in a successful invasion of Ireland.",
+  "text": "Íth was an Irish hero in the Book of Invasions. He was a Milesian, and the first of them to glimpse Ireland across the sea. He guided a band of kin to the island. The magical Tuatha Dé Danann slew him soon after. They already ruled the land. His nephew Míl Despaine repaid the slaying. Then Míl led the Milesians into Ireland and won the land.",
+  "okr": {
+    "objective": "Íth is an Irish hero of the Book of Invasions.",
+    "key_results": [
+      "Íth was the first Milesian to glimpse Ireland across the sea.",
+      "He guided a band of kin to the island and the Tuatha Dé Danann slew him.",
+      "His nephew Míl Despaine avenged his death.",
+      "Míl then led the Milesians in a successful invasion."
+    ],
+    "evidence": "Monaghan, Encyclopedia of Celtic Mythology and Folklore"
+  },
   "objective": "Document Íth as an Irish hero of the Book of Invasions.",
   "key_results": [
     "Record how Íth first spotted Ireland.",
