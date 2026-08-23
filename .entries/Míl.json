@@ -1,15 +1,74 @@
 {
-    "name": "M\u00edl",
-    "attributes": {},
-    "entities": [
-        {
-            "text": "Milesius"
-        }
-    ],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "cyphertext": "jvF9N4Rl0XBL3nUjwhETRYbcwvRtqybrzEXN0sEHNX302o9FbT1xsH2SuDKMCVASFMcg24Iil5WpoDaRXVbdL8Knmd13cKz58V9bEGhb0bXstxTEc2xCzzQ=",
-    "salt": "5_A-RFxU8x9cqCJ49RKhqw==",
-    "text": "M\u00edl (M\u00edl Despaine, Milesius, M\u00edlE Easpain) See Milesians."
+  "name": "Míl",
+  "attributes": [
+    {
+      "entity": "Míl",
+      "attribute": "the mythological ancestor of the Milesians, also called Milesius"
+    },
+    {
+      "entity": "Míl",
+      "attribute": "died at sea on his way to avenge his uncle Íth"
+    },
+    {
+      "entity": "Milesians",
+      "attribute": "descendants of Míl whose sons conquered Ireland"
+    },
+    {
+      "entity": "Goidel",
+      "attribute": "a descendant who formed the Irish language from many tongues"
+    }
+  ],
+  "entities": [
+    {
+      "entity": "Míl",
+      "type": "Person"
+    },
+    {
+      "entity": "Milesians",
+      "type": "Group"
+    },
+    {
+      "entity": "Japheth",
+      "type": "Person"
+    },
+    {
+      "entity": "Goidel",
+      "type": "Person"
+    },
+    {
+      "entity": "Íth",
+      "type": "Person"
+    },
+    {
+      "entity": "Scota",
+      "type": "Person"
+    },
+    {
+      "entity": "Tuatha Dé Danann",
+      "type": "Group"
+    },
+    {
+      "entity": "Ireland",
+      "type": "Place"
+    },
+    {
+      "entity": "Spain",
+      "type": "Place"
+    }
+  ],
+  "sources": [
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+  ],
+  "cyphertext": "jvF9N4Rl0XBL3nUjwhETRYbcwvRtqybrzEXN0sEHNX302o9FbT1xsH2SuDKMCVASFMcg24Iil5WpoDaRXVbdL8Knmd13cKz58V9bEGhb0bXstxTEc2xCzzQ=",
+  "salt": "5_A-RFxU8x9cqCJ49RKhqw==",
+  "text": "Míl is the mythological ancestor of the Milesian people. His other names are Míl Despaine, Milesius, and Míle Easpain. The title probably comes from the Latin words miles Hispaniae, which mean the soldier of Spain. Myth traces his line back to the biblical figure Japheth, a son of Noah. His descendants wandered through Scythia and Egypt before they reached Spain. One ancestor, Fénius the Ancient, knew every language spoken at the Tower of Babel. His descendant Goidel mixed those tongues to form the Irish language. The snakes of Egypt brought no harm to that line. From Spain the group sailed the Caspian Sea. Mermaids blocked their path until they sealed their ears with melted wax. Míl's uncle Íth sighted Ireland from a tower and led settlers there. The Tuatha Dé Danann killed Íth. Míl set sail for revenge but died on the way. His wife Scota fell in battle. Their sons finished the conquest and took the whole island. Their line, the Milesians, displaced the older gods of the land.",
+  "objective": "Document Míl as ancestor of the Milesians.",
+  "key_results": [
+    "Record Míl Despaine as the Milesian ancestor.",
+    "Record the migration from Scythia and Egypt to Ireland.",
+    "Record the conquest completed by his sons after his death."
+  ],
+  "evidence": [
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore (2008): Milesians entry, under Míl."
+  ]
 }
