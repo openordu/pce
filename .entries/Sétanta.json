@@ -1,40 +1,51 @@
 {
-    "name": "S\u00e9tanta",
-    "attributes": [
-        {
-            "entity": "S\u00e9tanta",
-            "attribute": "name"
-        },
-        {
-            "entity": "C\u00fachulainn",
-            "attribute": "old name"
-        },
-        {
-            "entity": "C\u00fachulainn",
-            "attribute": "new name"
-        },
-        {
-            "entity": "C\u00fachulainn",
-            "attribute": "represents a debt of honor"
-        }
-    ],
-    "entities": [
-        {
-            "entity": "S\u00e9tanta",
-            "type": "Irish hero"
-        },
-        {
-            "entity": "C\u00fachulainn",
-            "type": "Ulster hero"
-        }
-    ],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "image": [
-        "https://upload.wikimedia.org/wikipedia/commons/6/60/Cuslayshound.jpg"
-    ],
-    "cyphertext": "s8XYT1k2yY0G0jxOC3zif1Qzc2TnoDm5Jx_up74G5nbbSgnRzCeqPxhxr6lECPowCpQsrpxTcP0j4K6MYg8Y3oPt3PnQWgfEa_jw8uX4bBrszi5h8T7rcJ66aPenXhocqVPmEs1NfILteVFeFk2J30DYCrDQT5-6TH1ZvyQS6I2kyLVC__zisfm-FYjKetELMhwgfjVF4OYfClRfanz-OKwTb78sw_GHOZug45HWFN4K171Pg83bsNj4lKXgY72R9-PylJMxu8QpUMD_n2FnQ1VtQePC9LW4MCa0F6dv-pon9kTD6CoNz-Ph0g==",
-    "salt": "7sXwDhBD5qts5cJU_ehUTQ==",
-    "text": "Irish hero S\u00e9tanta, also known as C\u00fachulainn, received his childhood name but changed it to a new one when he became old enough to fight, which symbolized his obligation to maintain his honor."
+  "name": "Sétanta",
+  "attributes": [
+    {
+      "entity": "Setanta",
+      "attribute": "the boyhood name of the hero Cu Chulainn"
+    },
+    {
+      "entity": "Cu Chulainn",
+      "attribute": "a hero whose new name stood for a debt of honor"
+    },
+    {
+      "entity": "Culann",
+      "attribute": "the smith whose hound gave the hero his name"
+    }
+  ],
+  "entities": [
+    {
+      "entity": "Setanta",
+      "type": "Person"
+    },
+    {
+      "entity": "Cu Chulainn",
+      "type": "Person"
+    },
+    {
+      "entity": "Culann",
+      "type": "Person"
+    },
+    {
+      "entity": "Ulster",
+      "type": "Place"
+    }
+  ],
+  "sources": [
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+  ],
+  "image": [
+    "https://upload.wikimedia.org/wikipedia/commons/6/60/Cuslayshound.jpg"
+  ],
+  "cyphertext": "s8XYT1k2yY0G0jxOC3zif1Qzc2TnoDm5Jx_up74G5nbbSgnRzCeqPxhxr6lECPowCpQsrpxTcP0j4K6MYg8Y3oPt3PnQWgfEa_jw8uX4bBrszi5h8T7rcJ66aPenXhocqVPmEs1NfILteVFeFk2J30DYCrDQT5-6TH1ZvyQS6I2kyLVC__zisfm-FYjKetELMhwgfjVF4OYfClRfanz-OKwTb78sw_GHOZug45HWFN4K171Pg83bsNj4lKXgY72R9-PylJMxu8QpUMD_n2FnQ1VtQePC9LW4MCa0F6dv-pon9kTD6CoNz-Ph0g==",
+  "salt": "7sXwDhBD5qts5cJU_ehUTQ==",
+  "text": "Setanta was the boyhood name of the great Ulster hero Cu Chulainn. When he was a boy he carried this name. When he grew old enough to fight he took a new name that stood for a debt of honor. The name Cu Chulainn came from a grown choice. It meant the hound of Culann, and it bound him to duties he would never lay down. Monaghan reads the change as a mark of honor, not vanity. Koch sets the boy in the Ulster Cycle and tells how the name was earned. The young Setanta slew the monstrous hound of the smith Culann. In fairness he offered himself as the guard the hound had been. The folk of Ulster named him the hound of Culann from that day. So the boy Setanta became the man Cu Chulainn, the greatest warrior of the province.",
+  "objective": "Replace the weak machine text for Setanta with a fresh CSG-SME1000 rewrite from Monaghan and Koch.",
+  "key_results": [
+    "text states the boyhood name of the Ulster hero",
+    "text explains how the new name paid the debt of honor",
+    "entities and attributes fixed"
+  ],
+  "evidence": "Monaghan 2003 (Setanta, Cu Chulainn, debt of honor); Koch 2006 (Setantae, Ulster Cycle, Culann's hound)."
 }

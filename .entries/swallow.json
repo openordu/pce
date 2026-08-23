@@ -1,40 +1,42 @@
 {
-    "name": "swallow",
-    "attributes": [
-        {
-            "entity": "swallow",
-            "attribute": "Folkloric animal"
-        },
-        {
-            "entity": "Ireland",
-            "attribute": "geographic location"
-        },
-        {
-            "entity": "swallow",
-            "attribute": "helpful bird"
-        },
-        {
-            "entity": "swallow",
-            "attribute": "brings bad luck if killed"
-        }
-    ],
-    "entities": [
-        {
-            "entity": "swallow",
-            "type": "animal"
-        },
-        {
-            "entity": "Ireland",
-            "type": "geographic location"
-        }
-    ],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "image": [
-        "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Pied-winged_swallow_%28Hirundo_leucosoma%29.jpg/1200px-Pied-winged_swallow_%28Hirundo_leucosoma%29.jpg"
-    ],
-    "cyphertext": "UMUMp_fOixvs-uOXJWuNbPuoK0ICvjDO4gJrDNtTkSylh1fOHhsTkqLQtE8n-CDmigHWKSuueIYO4cgEJc8IkdJfII-4kJou6F7u5MGjd-P-KJGpHn-PR-n6Xm5gPI-k0i8gQosmnXtVvhkjkAiRyxUZPg-eANmg0ij7klDx2E0447qqI5DMIm6O",
-    "salt": "SoyMsPcNxSUTQz7Cd0ZiwQ==",
-    "text": "Folklore attributes positive qualities to the swallow, which was revered as a beneficial creature in Ireland. The bird was believed to bring good luck, and causing its death was thought to be an unlucky act."
+  "name": "swallow",
+  "attributes": [
+    {
+      "entity": "swallow",
+      "attribute": "a helping bird whose killing brought bad luck"
+    },
+    {
+      "entity": "Ireland",
+      "attribute": "the country where the belief was found"
+    },
+    {
+      "entity": "swallow",
+      "attribute": "kept the farm clear of small insects"
+    }
+  ],
+  "entities": [
+    {
+      "entity": "swallow",
+      "type": "Being"
+    },
+    {
+      "entity": "Ireland",
+      "type": "Place"
+    }
+  ],
+  "sources": [
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+  ],
+  "image": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Pied-winged_swallow_%28Hirundo_leucosoma%29.jpg/1200px-Pied-winged_swallow_%28Hirundo_leucosoma%29.jpg"
+  ],
+  "cyphertext": "UMUMp_fOixvs-uOXJWuNbPuoK0ICvjDO4gJrDNtTkSylh1fOHhsTkqLQtE8n-CDmigHWKSuueIYO4cgEJc8IkdJfII-4kJou6F7u5MGjd-P-KJGpHn-PR-n6Xm5gPI-k0i8gQosmnXtVvhkjkAiRyxUZPg-eANmg0ij7klDx2E0447qqI5DMIm6O",
+  "salt": "SoyMsPcNxSUTQz7Cd0ZiwQ==",
+  "text": "The swallow is a folkloric bird of Ireland. In old belief the swallow was a helpful bird. It nested near houses and returned with the season. A family counted its arrival a good sign. To kill a swallow brought bad luck. Some said the bad luck stayed with the one who killed it. Others said the whole household felt the harm. The bird kept the farm clear of small insects, so people left it in peace. The swallow gave early warning of weather and moved with the turning of the year. Farmers watched the bird to read the season. If the swallow left, the warm time was over. In this the bird held a quiet, trusted place in Irish custom. It was not a spirit of fear, but a useful neighbor that people did not harm.",
+  "objective": "Replace the weak machine text for swallow with a fresh CSG-SME1000 rewrite from Monaghan.",
+  "key_results": [
+    "text is a fresh CSG-SME1000 rewrite of the Irish folkloric bird",
+    "entities and attributes corrected and enriched"
+  ],
+  "evidence": "Monaghan 2003 (swallow, Ireland, helpful bird, bad luck)."
 }

@@ -1,15 +1,52 @@
 {
-    "name": "Sweeney",
-    "attributes": {},
-    "entities": [
-        {
-            "text": "Sweeney See Suibhne"
-        }
-    ],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "cyphertext": "c8hee9wbSBBHDqf5MOV_HeV2StkRFoeOa6dKzpYa7SAtd1MXbTLvAPewMYWsnc1D0w==",
-    "salt": "9lCZpXS61sAoBGi6lWYfUA==",
-    "text": "Sweeney See Suibhne."
+  "name": "Sweeney",
+  "attributes": [
+    {
+      "entity": "Sweeney",
+      "attribute": "the anglicized form of the mad king Suibhne"
+    },
+    {
+      "entity": "Sweeney",
+      "attribute": "a form of the wild seer Merlin"
+    },
+    {
+      "entity": "Sweeney",
+      "attribute": "cross-referenced to the entry SUIBHNE"
+    }
+  ],
+  "entities": [
+    {
+      "entity": "Sweeney",
+      "type": "Person"
+    },
+    {
+      "entity": "Suibhne",
+      "type": "Person"
+    },
+    {
+      "entity": "Ulster",
+      "type": "Place"
+    },
+    {
+      "entity": "Molling",
+      "type": "Person"
+    },
+    {
+      "entity": "Merlin",
+      "type": "Person"
+    }
+  ],
+  "sources": [
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+  ],
+  "cyphertext": "c8hee9wbSBBHDqf5MOV_HeV2StkRFoeOa6dKzpYa7SAtd1MXbTLvAPewMYWsnc1D0w==",
+  "salt": "9lCZpXS61sAoBGi6lWYfUA==",
+  "text": "Sweeney is the anglicized form of Suibhne, the mad king of Irish legend. Monaghan sends the reader from Sweeney to the full entry under SUIBHNE. In that account Suibhne was a king of a small region of Ulster. He insulted a saint and a curse fell on him. At the height of a battle he lost his wits and believed he was a bird. He climbed a yew tree and moved from tree to tree across the land. He spoke at last with Saint Molling and told his adventures. Then a man stabbed him with a spear and he died. Some scholars read Suibhne as an Irish form of the wild seer Merlin. For the complete story, see the entry SUIBHNE.",
+  "objective": "Rewrite the Sweeney entry as the anglicized cross-reference to Suibhne with a clear summary.",
+  "key_results": [
+    "text names the entry as the anglicized form of Suibhne",
+    "text summarizes the mad king's tale from Monaghan",
+    "entities and attributes fixed"
+  ],
+  "evidence": "Monaghan 2003 (Sweeney: See SUIBHNE; mad king, yew tree, Ulster, Molling, Merlin)."
 }
