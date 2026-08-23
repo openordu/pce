@@ -1,36 +1,36 @@
 {
-    "name": "Iucharba",
-    "attributes": [
-        {
-            "entity": "Iucharba",
-            "attribute": "minor god"
-        },
-        {
-            "entity": "Iucharba",
-            "attribute": "one of the Sons Of Tuireann"
-        },
-        {
-            "entity": "Iucharba",
-            "attribute": "had little role separate from his brothers"
-        }
-    ],
-    "entities": [
-        {
-            "entity": "Iucharba",
-            "type": "Irish divinity"
-        },
-        {
-            "entity": "Sons Of Tuireann",
-            "type": "group of Irish mythological characters"
-        }
-    ],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "image": [
-        "https://upload.wikimedia.org/wikipedia/commons/5/5a/Brian_pig-skin_Millar.jpg"
-    ],
-    "cyphertext": "8tpqaPCHSyYGid5mtyEtFa-_HxqTsNcGZ_kFwcXgXvMYHPFQELvwsIyOjgvKyXrodQetKVnrUBE-zZ-rFYtoWQv4diA9yCh5I1e_71gu7dl4fSK9UHTSeoxhcXnIByPivqxQq-FVdmc7ID9ts4rk8gTmV8ShLsgn31DX0aSh_52Sp04-2Yst1iCsaV0GIZieF3_iSA==",
-    "salt": "MYAfXmBPuDRY-wBLj-hgpA==",
-    "text": "Irish divinity Iucharba, belonged to the group Sons of Tuireann, and played a negligible part in comparison to his siblings."
+  "name": "Iucharba",
+  "attributes": [
+    {
+      "entity": "Iucharba",
+      "attribute": "a minor Irish divinity and one of the Sons of Tuireann"
+    }
+  ],
+  "entities": [
+    {
+      "entity": "Iucharba",
+      "type": "Person"
+    },
+    {
+      "entity": "Sons of Tuireann",
+      "type": "Group"
+    }
+  ],
+  "sources": [
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+  ],
+  "image": [
+    "https://upload.wikimedia.org/wikipedia/commons/5/5a/Brian_pig-skin_Millar.jpg"
+  ],
+  "cyphertext": "8tpqaPCHSyYGid5mtyEtFa-_HxqTsNcGZ_kFwcXgXvMYHPFQELvwsIyOjgvKyXrodQetKVnrUBE-zZ-rFYtoWQv4diA9yCh5I1e_71gu7dl4fSK9UHTSeoxhcXnIByPivqxQq-FVdmc7ID9ts4rk8gTmV8ShLsgn31DX0aSh_52Sp04-2Yst1iCsaV0GIZieF3_iSA==",
+  "salt": "MYAfXmBPuDRY-wBLj-hgpA==",
+  "text": "Iucharba is an Irish divinity. He was one of the Sons of Tuireann. He had a small role and little separate from this brothers.",
+  "objective": "Document Iucharba as a minor Irish divinity.",
+  "key_results": [
+    "Record Iucharba as one of the Sons of Tuireann.",
+    "Note his small part."
+  ],
+  "evidence": [
+    "Monaghan, P. The Encyclopedia of Celtic Mythology and Folklore (2008): Iucharba entry."
+  ]
 }

@@ -1,18 +1,36 @@
 {
-    "name": "Iupiter",
-    "attributes": {},
-    "entities": [
-        {
-            "text": "Iupiter See Jupiter"
-        }
-    ],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "image": [
-        "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Giove%2C_I_sec_dc%2C_con_parti_simulanti_il_bronzo_moderne_02.JPG/1200px-Giove%2C_I_sec_dc%2C_con_parti_simulanti_il_bronzo_moderne_02.JPG"
-    ],
-    "cyphertext": "TsNGWwvPWSLuhIeP4GHiFJYPtAL-RRu74eqN8Q-i0X2-Y2GRvIYglrcwNBKLevOXBA==",
-    "salt": "UOPFeeDc3MB88kqdtUt_mQ==",
-    "text": "Iupiter See Jupiter."
+  "name": "Iupiter",
+  "attributes": [
+    {
+      "entity": "Iupiter",
+      "attribute": "an alternate spelling of Jupiter, a Roman name applied to several Celtic gods"
+    }
+  ],
+  "entities": [
+    {
+      "entity": "Iupiter",
+      "type": "Person"
+    },
+    {
+      "entity": "Jupiter",
+      "type": "Person"
+    }
+  ],
+  "sources": [
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+  ],
+  "image": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Giove%2C_I_sec_dc%2C_con_parti_simulanti_il_bronzo_moderne_02.JPG/1200px-Giove%2C_I_sec_dc%2C_con_parti_simulanti_il_bronzo_moderne_02.JPG"
+  ],
+  "cyphertext": "TsNGWwvPWSLuhIeP4GHiFJYPtAL-RRu74eqN8Q-i0X2-Y2GRvIYglrcwNBKLevOXBA==",
+  "salt": "UOPFeeDc3MB88kqdtUt_mQ==",
+  "text": "Iupiter is an alternate spelling of the name Jupiter. See Jupiter.",
+  "objective": "Document Iupiter as a cross-reference to Jupiter.",
+  "key_results": [
+    "Record Iupiter as a variant spelling.",
+    "Cross-reference the Jupiter entry."
+  ],
+  "evidence": [
+    "Monaghan, P. The Encyclopedia of Celtic Mythology and Folklore (2008): Iupiter entry."
+  ]
 }
