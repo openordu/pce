@@ -1,14 +1,64 @@
 {
-    "name": "sacred grove",
-    "attributes": {},
-    "entities": [],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "image": [
-        "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Ancient_monoliths_in_Mawphlang_sacred_grove.jpg/1200px-Ancient_monoliths_in_Mawphlang_sacred_grove.jpg"
-    ],
-    "cyphertext": "GYMA-qZ2QhDsmOqb-LlRPFwMe33Y5ttk1Yj-v0p-5xRzn4oc6z7dXBrzdCJZXBKa3HPHZdp4",
-    "salt": "tqQfhxIXWsUfIQ-RkjjyJw==",
-    "text": "sacred grove See Nemeton."
+  "name": "sacred grove",
+  "attributes": [
+    {
+      "entity": "sacred grove",
+      "attribute": "an outdoor ritual site of the Celts, called a nemeton"
+    },
+    {
+      "entity": "nemeton",
+      "attribute": "the Celtic word for a sacred grove, later used for a stone temple"
+    }
+  ],
+  "entities": [
+    {
+      "entity": "sacred grove",
+      "type": "Concept"
+    },
+    {
+      "entity": "nemeton",
+      "type": "Concept"
+    },
+    {
+      "entity": "Strabo",
+      "type": "Person"
+    },
+    {
+      "entity": "Pliny the Elder",
+      "type": "Person"
+    },
+    {
+      "entity": "Tacitus",
+      "type": "Person"
+    },
+    {
+      "entity": "Lucan",
+      "type": "Person"
+    },
+    {
+      "entity": "Drunemeton",
+      "type": "Place"
+    },
+    {
+      "entity": "Vernemeton",
+      "type": "Place"
+    }
+  ],
+  "sources": [
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+  ],
+  "image": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Ancient_monoliths_in_Mawphlang_sacred_grove.jpg/1200px-Ancient_monoliths_in_Mawphlang_sacred_grove.jpg"
+  ],
+  "cyphertext": "GYMA-qZ2QhDsmOqb-LlRPFwMe33Y5ttk1Yj-v0p-5xRzn4oc6z7dXBrzdCJZXBKa3HPHZdp4",
+  "salt": "tqQfhxIXWsUfIQ-RkjjyJw==",
+  "text": "A sacred grove is a ritual site. The Celts worshiped outside, not in buildings. They met in clearings of trees called nemetons. The name comes from words for glade and sacred. It may link to the Irish root nem, which meant heaven. Some classical writers described these groves. Strabo told of the oak groves of the Galatians. Pliny and Tacitus wrote of them among the continental Celts. Lucan pictured groves untouched by human hands since ancient times. Their boughs made a space of darkness and cold shade. Worshippers cut images of gods from felled tree trunks. After Romanization the word nemeton came to mean a stone temple. Many settlement names kept the word, such as Drunemeton and Vernemeton.",
+  "objective": "Document the sacred grove as the Celtic ritual site.",
+  "key_results": [
+    "Record the nemeton as the outdoor Celtic meeting place.",
+    "Record classical accounts and settlement names that keep the word."
+  ],
+  "evidence": [
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore (2008): nemeton (ritual site), referenced from sacred grove."
+  ]
 }
