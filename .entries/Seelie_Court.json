@@ -46,10 +46,12 @@
   "cyphertext": "7HhnrqvQCCNufjWG4_YeXM8BqgmaijBNjQ2FUNSmh9w-nMwFIDGB6bG7u19KX2EUwy8xWf2od3sYDrhcrDTM0COfayL-t6hpQzr8Kj0alKgIG1gzKlGR7OZ8D_XZgZx5ufXnRez2Hr6sOoY_V09ErLFr5X6Z42grKz61D8wRU7aByeyQ6GUUGw75QYHxq1YIuJfCEU_YOK4MJqcEcN9VBsB5ux2mqvxKu_FcPsIE406hLCV5LHsgyYfKvxAbcmn44XzjGjffxCXsMLgp2Yfj3mNUN5wMz0ISmnxuBNGi9aB7pCy3t4qF1QVLVYV8mU3RqH_gqcsvaPz8Vw8ZfwfP-G8=",
   "salt": "4qq5jtNudPzjD-EjpVXA6w==",
   "text": "Seelie Court is a British folkloric motif. It is the opposite of the Unseelie Court. The Seelie Court is a group of trooping fairies. These fairies brought only blessings to the people they passed. They traveled through the land. Their journeys fell on the great holidays of Beltane and Samhain. The fairies of the Seelie Court moved across the country and left good fortune behind them. The Unseelie Court is the other half of the pair. Its fairies brought harm. The two courts are the paired hosts of the fairy world.",
-  "objective": "Erase the machine text for Seelie Court and replace it with a fresh CSG-SME1000 rewrite sourced from the PDFs.",
-  "key_results": [
-    "text holds a fresh CSG-SME1000 rewrite, not a copy of the machine prose",
-    "entities and attributes corrected and enriched for the kgraph"
-  ],
-  "evidence": "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2003."
+  "okr": {
+    "objective": "Erase the machine text for Seelie Court and replace it with a fresh CSG-SME1000 rewrite sourced from the PDFs.",
+    "key_results": [
+      "text holds a fresh CSG-SME1000 rewrite, not a copy of the machine prose",
+      "entities and attributes corrected and enriched for the kgraph"
+    ],
+    "evidence": "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2003."
+  }
 }

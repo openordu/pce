@@ -78,14 +78,16 @@
   "cyphertext": "tF8H5WbbUHBaeRPj65ld92XP-8NARadghFxVkfySlgDl4DiUJMvrj39XzDjINE7VLSV1yngNhNS7gGyeGUeHT8p0GmhrWWZVCiz5XQ-ZPHNXNu5N4ufrIBCKWRkZSfW88R89YBKfpxFiSGusq4j-6bhPt2GQrsf1Syv58V7CCug2wbNMAFMsIEM_TpTleNf_hsaSZAtoGgBxRCReQ4TEUgNWgXo9QuuXSh0U_omAquZ1IcvoBiRUEACpaUCnWYDBzCYee279hGDgRad4EonvXw==",
   "salt": "ti5PzSjUEVCPbp3aBKSalA==",
   "text": "Dub is an Irish heroine or goddess. The capital city of Ireland is named for her. Dublin rose from older names, Dubhlinn and Dubh-linn. Dubh-linn means the pool of Dub. A deep pool sat in the mouth of the River Liffey. Dub fell there after a slingshot killed her. The shot came in revenge. Dub had drowned a woman her husband consorted with. Dubh also means dark, so the city reads as dark pool. Dub was a bard and a druid woman. Norsemen founded the town and called it Dyflinasrski. In Irish the city is Baile Átha Cliath. That name means the town on the wicker ford. The bard Aithirne built the wicker bridge.",
-  "objective": "Rewrite the Dub entry in CSG-SME1000 prose with source-accurate nouns.",
-  "key_results": [
-    "Meets CSG-SME1000 sentence rules",
-    "All required nouns present",
-    "120-140 words",
-    "No prose fragments"
-  ],
-  "evidence": [
-    "monaghan.txt:12624-12641 Dub (Dubh, Dubhlinn, Dublind)"
-  ]
+  "okr": {
+    "objective": "Rewrite the Dub entry in CSG-SME1000 prose with source-accurate nouns.",
+    "key_results": [
+      "Meets CSG-SME1000 sentence rules",
+      "All required nouns present",
+      "120-140 words",
+      "No prose fragments"
+    ],
+    "evidence": [
+      "monaghan.txt:12624-12641 Dub (Dubh, Dubhlinn, Dublind)"
+    ]
+  }
 }

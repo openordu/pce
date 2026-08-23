@@ -1,51 +1,53 @@
 {
-    "name": "Andarta",
-    "attributes": [
-        {
-            "entity": "Andarta",
-            "attribute": "goddess of the Voconces, a Celtic tribe of Gaul"
-        },
-        {
-            "entity": "Andarta",
-            "attribute": "linked by name to the war goddess Andraste"
-        },
-        {
-            "entity": "Andarta",
-            "attribute": "may mean “great bear”"
-        }
-    ],
-    "entities": [
-        {
-            "entity": "Andarta",
-            "type": "Person"
-        },
-        {
-            "entity": "Voconces",
-            "type": "Organization"
-        },
-        {
-            "entity": "Andraste",
-            "type": "Person"
-        },
-        {
-            "entity": "bear gods",
-            "type": "Concept"
-        },
-        {
-            "entity": "wildlife",
-            "type": "Concept"
-        }
-    ],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "cyphertext": "F9skUERrr6eZvBU6mCnTQscLhRca7-bwxILh7NT-U07EAoyD7q1LeGh30BFDg0aAtb1fqrPWW8RsGtP-XkQCnowtQtDZC3pS2wpj1WvVwy15wMPR_341f4G8ERHn6TNHHH8JVkMC8qyRCJtBqqhtlLmUAMnhcLbqGR-nCdaYSqTnmb7jeF0L-RN6fsE9LIPjkMJXwFDTSV704rbFc0jKK_DRHlmv2sI8mXv4jpJHhecb_mSOMaa7q5snYYnQ73MNwh5IPTdtRCnyijHeLytFSa0YPUDkZBHCtF64bv3s7Kgbl7x6gYdXF1rKcez0BgqAyzPWimY1_IDAZC292rg-DzqeiQkNcqS3yTzWiprZhlHh2uxYa2GjGkgnfpevNc39lucwu80346oQvdY81EB-HcuCdZSpZ9rrxdMqB3qr976jMg7YOcjTYkeXwDoKEnqkPwl_Gi2ZuwSWsmYN9zWScHdzDmgT3_7xY-uiJKy3HhqWzjcLvtXd_amyOqgH-c1-h25rnAwT__r4Vw==",
-    "salt": "mV6qexbxmKP87ZOl9FD9hg==",
-    "text": "Andarta is a Continental Celtic goddess. She was the goddess of the Voconces, a Celtic tribe of Gaul. Her name sounds like Andraste, the war goddess, so some scholars link the two. Andarta may also mean “great bear.” The second part of her name, art, appears in the names of many Celtic bear gods. Some readers see her as a goddess of wild things.",
+  "name": "Andarta",
+  "attributes": [
+    {
+      "entity": "Andarta",
+      "attribute": "goddess of the Voconces, a Celtic tribe of Gaul"
+    },
+    {
+      "entity": "Andarta",
+      "attribute": "linked by name to the war goddess Andraste"
+    },
+    {
+      "entity": "Andarta",
+      "attribute": "may mean “great bear”"
+    }
+  ],
+  "entities": [
+    {
+      "entity": "Andarta",
+      "type": "Person"
+    },
+    {
+      "entity": "Voconces",
+      "type": "Organization"
+    },
+    {
+      "entity": "Andraste",
+      "type": "Person"
+    },
+    {
+      "entity": "bear gods",
+      "type": "Concept"
+    },
+    {
+      "entity": "wildlife",
+      "type": "Concept"
+    }
+  ],
+  "sources": [
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+  ],
+  "cyphertext": "F9skUERrr6eZvBU6mCnTQscLhRca7-bwxILh7NT-U07EAoyD7q1LeGh30BFDg0aAtb1fqrPWW8RsGtP-XkQCnowtQtDZC3pS2wpj1WvVwy15wMPR_341f4G8ERHn6TNHHH8JVkMC8qyRCJtBqqhtlLmUAMnhcLbqGR-nCdaYSqTnmb7jeF0L-RN6fsE9LIPjkMJXwFDTSV704rbFc0jKK_DRHlmv2sI8mXv4jpJHhecb_mSOMaa7q5snYYnQ73MNwh5IPTdtRCnyijHeLytFSa0YPUDkZBHCtF64bv3s7Kgbl7x6gYdXF1rKcez0BgqAyzPWimY1_IDAZC292rg-DzqeiQkNcqS3yTzWiprZhlHh2uxYa2GjGkgnfpevNc39lucwu80346oQvdY81EB-HcuCdZSpZ9rrxdMqB3qr976jMg7YOcjTYkeXwDoKEnqkPwl_Gi2ZuwSWsmYN9zWScHdzDmgT3_7xY-uiJKy3HhqWzjcLvtXd_amyOqgH-c1-h25rnAwT__r4Vw==",
+  "salt": "mV6qexbxmKP87ZOl9FD9hg==",
+  "text": "Andarta is a Continental Celtic goddess. She was the goddess of the Voconces, a Celtic tribe of Gaul. Her name sounds like Andraste, the war goddess, so some scholars link the two. Andarta may also mean “great bear.” The second part of her name, art, appears in the names of many Celtic bear gods. Some readers see her as a goddess of wild things.",
+  "okr": {
     "objective": "Record Andarta, a Continental Celtic goddess.",
     "key_results": [
-        "Show her tribe, the Voconces.",
-        "Show her link to Andraste and to the bear gods."
+      "Show her tribe, the Voconces.",
+      "Show her link to Andraste and to the bear gods."
     ],
     "evidence": "Monaghan 2003, s.v. Andarta; Koch 2006, s.v. Andarta"
+  }
 }

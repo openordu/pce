@@ -37,14 +37,16 @@
   "cyphertext": "0vh_kKRIR1bjlm7X5tT1S8g4NzSrNGJ8S5eaJg0zRInPjTazV8AMgZ7UH0St_Idjtecyomd-tsOPApfW5WxN4BNBeV2Z-jz2tvekIz_HcSlMcz2XlW8QlM0AkJQxMfgoW06iGkSrMBacaxABpBUHKYri475fcUHj3BfoSYxcDUSRaupOSTBR667NZ2yH8TfJD2Jz5FJKQWrotxzYRFsA9IC-_RnjIOnwOXZ_wn2_OC0OVh4Ot374wFIRbt80XgYR4kmjf4cDPN8AKlniUojFr7B6uveWGkeX34PMNkbAmnFlc9vB0TRHwZGnw9wosAZjaPTKGfp84XaOd9MHDJD-ESVQ-jGREa3kBk8Y8rJsbh-CA42oNyHouTBWARwEWsA4r_5NpMsZYETg7S3WyiZ9pYrKLqwLgXibtxjJYs-TcYioCzgreOied6yZRyWl5LDHZJLWtW3lAgDC0153bwAu8MlotDm635xk9BHtFtPEmRh9CixhGq3J_zwUYBaX5EI09vTjC0DL6plVV45nHUanL4pycnXgffIbQjMcSfyQQLWvHQE6D5HNK28qrmjpD_hzXLhA8YssLecF2cQxpUfM0fXo2Z2BLMFq53eOGpn3TBRcQSTuGpcu46-DOjcHx5D1L6s1GE29VC-LVmYoAlahY6iio3tZoSUUknoqpEs43ZUh8upMqWTnmaASp4GAu1MKZGU=",
   "salt": "QX58zTLz4jyb1ynRQmmGoA==",
   "text": "The dullahan, also written dulachan, is the headless horseman of Irish tradition. Some accounts make him the driver of the Death Coach. Others describe a phantom riding a horse that itself lost its head. The dullahan is a masculine and lesser-known form of the Banshee, the wailing fairy that predicted death. He carried news of impending death to anyone who saw him pass. A flick of his whip could strike out their eyes.",
-  "objective": "Rewrite the dullahan entry in CSG-SME1000 prose with source-accurate nouns.",
-  "key_results": [
-    "Meets CSG-SME1000 sentence rules",
-    "All required nouns present (dullahan, Death Coach, Banshee, fairy)",
-    "70 words",
-    "No prose fragments"
-  ],
-  "evidence": [
-    "monaghan.txt:12662-12672 dullahan (dulachan)"
-  ]
+  "okr": {
+    "objective": "Rewrite the dullahan entry in CSG-SME1000 prose with source-accurate nouns.",
+    "key_results": [
+      "Meets CSG-SME1000 sentence rules",
+      "All required nouns present (dullahan, Death Coach, Banshee, fairy)",
+      "70 words",
+      "No prose fragments"
+    ],
+    "evidence": [
+      "monaghan.txt:12662-12672 dullahan (dulachan)"
+    ]
+  }
 }

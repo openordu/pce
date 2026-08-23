@@ -49,11 +49,13 @@
   "cyphertext": "ZBM8c1RN15K3bUcg7KyppXZ1uhUD6gs9QVrBhs-D4FD0ngZv-gdspiud76KdeLoGHEQUZTtKGncoYS6Qw5X2TBMt_RiH0eOjSZVmaQ5uVmxuWeFQzJtQN7CWVqWdpmbSoACe1IFVKuQUzs3EjI51NdG_Pjxd8f-AWv8xEVTr5SPuBwn1DSBNHq788DjBB3zOO2ahT5aNxuyvpjwEe7PNHgf0XhSN81wZzmNfaUklAhOgZuJCDTe_Klwvd-MXfyvYhAmPGNqVRzZ0gIbNrfMtWb8dTKD879o_RaW5fobkfCnSPUitSY9-fJVpoDjx7WjTh2K0Tyv2W4_XH0uQM7UjkTIhBr7YUtfo6ntuId77PwS2bHPIswuzhmRAMOvdgw-L2VL6QmO8E1WJVnFyhxx-ZahqeKE3_Esnjz_x-c6TwkvKWSj3qa-Y8u9Gpi6hOhmQg4pNO5LBQH68zDGYYCQOT5ZUcOACY_adeVcafL1pJUWTMLhr8vCdE6rm_fzkpNNJvN8REz0CA5MzyEhsXGPNAFP510cNIlTBnufCwSrZqHbyBhxZXMZtQc8Ilj9SNzbsdy_nfvq1KpzPXZvMGqJLjZE0NEYu7EMVD7YsJsFEuLEFAu3RcscTI-NbJuiR6mU0Eh7uZL8H6NjoaNhWJxuAx7fNTji9Y8PtlRfdSEyTCxahsp86x_hYauJHO4lOa2WSFbIxYnRlX8fMwzVlvKZIWpp_0RQLRzZCHX5ylorCIjjsnj4osg4mmbmaBx86vYAQdn4yOAafFSJ5x_Z2pk211FndMUl8vwcrXmXUDdjLrsgEjjT8xGkj0k0Lilu8QTG-6VPMy2ZTJWTm9FiUTplTlPI6_vocwiwH0D3ky4SfGfgt13ExZ56Pj9HezTlLTWhtwsLumvjU6XIkRlBYrfINW_3AT2wGjpRFsQmyKBSZ3aJ8i3GZY1QHTuAB5y2H85_Qjd_JKNJPisAYRK_e5hU_eupekFJagHI4lACHfcXpxExt7a4YbMhKZNoukyxc74J8VFalHLY=",
   "salt": "jlV89yOuY2nEMdTNOrc4HQ==",
   "text": "The sidhe is an Irish folkloric figure. The word carries two connected meanings. The first meaning is a fairy mound, a hill beneath which the people of the Otherworld live. The mound stands out of sight of ordinary eyes. Those with second sight can see the dwellers of the rundown. By extension the word sidhe names the fairies themselves, a short form of the phrase people of the sidhe. Many legends read the people of the sidhe as the Tuatha De Danann, the ancient race of the goddess Danu. When the Milesians took Ireland, that race was forced down into the earth. There it live in the hollow mounds that are dotted across the Irish land.",
-  "objective": "Replace the weak machine text for sidhe with a fresh CSG-SME1000 rewrite from Monaghan.",
-  "key_results": [
-    "text explains the two meanings of the word sidhe",
-    "text links the people of the sidhe to the Tuatha De and the goddess Danu",
-    "entities and attributes fixed"
-  ],
-  "evidence": "Monaghan 2003 (sidhe, fairy mound, Otherworld, people of the sidhe, Tuatha De Danann, Danu, Milesians)."
+  "okr": {
+    "objective": "Replace the weak machine text for sidhe with a fresh CSG-SME1000 rewrite from Monaghan.",
+    "key_results": [
+      "text explains the two meanings of the word sidhe",
+      "text links the people of the sidhe to the Tuatha De and the goddess Danu",
+      "entities and attributes fixed"
+    ],
+    "evidence": "Monaghan 2003 (sidhe, fairy mound, Otherworld, people of the sidhe, Tuatha De Danann, Danu, Milesians)."
+  }
 }

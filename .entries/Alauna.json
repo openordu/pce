@@ -1,50 +1,52 @@
 {
-    "name": "Alauna",
-    "attributes": [
-        {
-            "entity": "Alauna",
-            "attribute": "a river goddess"
-        },
-        {
-            "entity": "Alauna",
-            "attribute": "found in rivers of Brittany and Wales"
-        },
-        {
-            "entity": "Alun",
-            "attribute": "a river near the Dee"
-        }
-    ],
-    "entities": [
-        {
-            "entity": "Alauna",
-            "type": "Person"
-        },
-        {
-            "entity": "Brittany",
-            "type": "Place"
-        },
-        {
-            "entity": "Wales",
-            "type": "Place"
-        },
-        {
-            "entity": "Alun",
-            "type": "Place"
-        },
-        {
-            "entity": "Dee",
-            "type": "Place"
-        }
-    ],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "cyphertext": "6GNjXsqedKd_m5NvuFflCsnhq6qN8IR45uPe7jQZ1tlYjYTYaFZ2HsaDus33LBTfimHHolHAecF4P1Z7CxAqtOq_p44VuDuCqnadocPbDsCom8VvmbGI482FFYDLVVEBUUK6T-GOzetdz9FDMk8AC384WDvwEtv8tpL-1xUxn85a6yJdPq3CIHC4U1VnpX4CPi94Oph8OBq9SpLNBR2kEZValEju8pUQblUt7hcN5jXxHPGfNgLi381iMUhwcH0dBXMTCdJeaJ3p1ec6MjdKVPar9Fhuep5H-hy4kR_slgNsHeYn-m-kDG4uk7FqyB1FRujMZN_prtLUnciGy4QXlNjnl-S6N2UoHIUY1NaZdLisGXMV4XAwiWiATNBsNV0locq5LDQYbk-HTLzNXpZa3LXTGe8glgscoDfDEgwEk_jYGdb_VMMOHKaUkJd6gNwT",
-    "salt": "N0miWy8LX05zfrMsv3iciw==",
-    "text": "Alauna was a Continental Celtic river goddess. She was honored in Brittany by the river, and in Wales by the river Alun in Pembrokeshire. A fish from her river came to the shore to stare at the men.",
+  "name": "Alauna",
+  "attributes": [
+    {
+      "entity": "Alauna",
+      "attribute": "a river goddess"
+    },
+    {
+      "entity": "Alauna",
+      "attribute": "found in rivers of Brittany and Wales"
+    },
+    {
+      "entity": "Alun",
+      "attribute": "a river near the Dee"
+    }
+  ],
+  "entities": [
+    {
+      "entity": "Alauna",
+      "type": "Person"
+    },
+    {
+      "entity": "Brittany",
+      "type": "Place"
+    },
+    {
+      "entity": "Wales",
+      "type": "Place"
+    },
+    {
+      "entity": "Alun",
+      "type": "Place"
+    },
+    {
+      "entity": "Dee",
+      "type": "Place"
+    }
+  ],
+  "sources": [
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+  ],
+  "cyphertext": "6GNjXsqedKd_m5NvuFflCsnhq6qN8IR45uPe7jQZ1tlYjYTYaFZ2HsaDus33LBTfimHHolHAecF4P1Z7CxAqtOq_p44VuDuCqnadocPbDsCom8VvmbGI482FFYDLVVEBUUK6T-GOzetdz9FDMk8AC384WDvwEtv8tpL-1xUxn85a6yJdPq3CIHC4U1VnpX4CPi94Oph8OBq9SpLNBR2kEZValEju8pUQblUt7hcN5jXxHPGfNgLi381iMUhwcH0dBXMTCdJeaJ3p1ec6MjdKVPar9Fhuep5H-hy4kR_slgNsHeYn-m-kDG4uk7FqyB1FRujMZN_prtLUnciGy4QXlNjnl-S6N2UoHIUY1NaZdLisGXMV4XAwiWiATNBsNV0locq5LDQYbk-HTLzNXpZa3LXTGe8glgscoDfDEgwEk_jYGdb_VMMOHKaUkJd6gNwT",
+  "salt": "N0miWy8LX05zfrMsv3iciw==",
+  "text": "Alauna was a Continental Celtic river goddess. She was honored in Brittany by the river, and in Wales by the river Alun in Pembrokeshire. A fish from her river came to the shore to stare at the men.",
+  "okr": {
     "objective": "Record Alauna, a river goddess.",
     "key_results": [
-        "Show her rivers in Brittany and Wales."
+      "Show her rivers in Brittany and Wales."
     ],
     "evidence": "Monaghan 2003, s.v. Alauna"
+  }
 }

@@ -1,31 +1,33 @@
 {
-    "name": "Aileach",
-    "attributes": [
-        {
-            "entity": "Aileach",
-            "attribute": "cross-reference to Grianán Aileach"
-        }
-    ],
-    "entities": [
-        {
-            "entity": "Grianán Aileach",
-            "type": "Place"
-        }
-    ],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "image": [
-        "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Ireland900.png/1200px-Ireland900.png"
-    ],
-    "cyphertext": "dnPEXkQ4SLoU5ZxHRuxrbQg4i42MnVmWtq2mAN8BMA9h4haPIZbBaMng4KOmye7sDqBYmbBTgVoZ6g==",
-    "salt": "g0ocU2lMtmKyoInwVMIvww==",
-    "text": "Aileach See Grianán Aileach.",
+  "name": "Aileach",
+  "attributes": [
+    {
+      "entity": "Aileach",
+      "attribute": "cross-reference to Grianán Aileach"
+    }
+  ],
+  "entities": [
+    {
+      "entity": "Grianán Aileach",
+      "type": "Place"
+    }
+  ],
+  "sources": [
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+  ],
+  "image": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Ireland900.png/1200px-Ireland900.png"
+  ],
+  "cyphertext": "dnPEXkQ4SLoU5ZxHRuxrbQg4i42MnVmWtq2mAN8BMA9h4haPIZbBaMng4KOmye7sDqBYmbBTgVoZ6g==",
+  "salt": "g0ocU2lMtmKyoInwVMIvww==",
+  "text": "Aileach See Grianán Aileach.",
+  "okr": {
     "objective": "Direct readers to the Grianán Aileach entry.",
     "key_results": [
-        "Provide the cross reference to Grianán Aileach."
+      "Provide the cross reference to Grianán Aileach."
     ],
     "evidence": [
-        "Monaghan 2003, s.v. Aileach"
+      "Monaghan 2003, s.v. Aileach"
     ]
+  }
 }

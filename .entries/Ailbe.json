@@ -1,67 +1,69 @@
 {
-    "name": "Ailbe",
-    "entities": [
-        {
-            "entity": "Ailbe",
-            "type": "Being"
-        },
-        {
-            "entity": "Mac Dathó",
-            "type": "Person"
-        },
-        {
-            "entity": "Concobar Mac Nessa",
-            "type": "Person"
-        },
-        {
-            "entity": "Ailill Mac Mata",
-            "type": "Person"
-        },
-        {
-            "entity": "Ulster",
-            "type": "Place"
-        },
-        {
-            "entity": "Connacht",
-            "type": "Place"
-        }
-    ],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "attributes": [
-        {
-            "entity": "Ailbe",
-            "attribute": "a famous hunting dog owned by Mac Dathó"
-        },
-        {
-            "entity": "Mac Dathó",
-            "attribute": "promised Ailbe to two kings"
-        },
-        {
-            "entity": "Concobar Mac Nessa",
-            "attribute": "king of Ulster who desired Ailbe"
-        },
-        {
-            "entity": "Ailill Mac Mata",
-            "attribute": "king of Connacht who desired Ailbe"
-        },
-        {
-            "entity": "Ailbe",
-            "attribute": "killed in the argument"
-        }
-    ],
-    "image": [
-        "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/StAilbe%27sChurchEmly.JPG/1200px-StAilbe%27sChurchEmly.JPG"
-    ],
-    "cyphertext": "5-SYGhR5Lf45H56OV1vOcXOuGB-8pqXbtimUzVI6QZwAlTxEQ8oUQGwZpKaaCSL7HAMiYRUuZ7Qq2FxohwAAC26eqziDTlKwB6yHzsdrKSKDQ--IsX48xakvY0GBW1k8ZJxF0YHtlPVXbFjemhhMVWibcjC3DAAxKe3qnlfKN4NSucvz5Y81kW8Mm4_H1zZ9_xTaZIcc0DiO9iYS2u6iKbTG2ZTGQvftkvx4zkiRyZK2mXHPk6oR_pdQR76gTnxt02isIG8olUdzstdj8jbGz_9irrbax3BAAhEwtt0PQrzjsaC8VgBXhzUQ8CRlXGJdT8JThGWHljsfHjDFfH3r5LHFccYttZc7T7a73P20smgEbUDM2UzUkILR78K4GJdo0EekYWp9eO7iwsOhODejGrWsdc26e9vY0qbDp7BEFpftL_bm18MiatHe1DtsF89hTbGqwd0soDIzVDD5a0rawmJsfXHvURpoyrxRPyxT6F2gxrnP5FqYxq9pXdulq94QkDw_MDKJNw==",
-    "salt": "LhtLAUvGAzhytc6ImBWT8Q==",
-    "text": "Ailbe, also called Ailba, was a famous hunting dog in Irish myth. The warrior Mac Dathó owned him. Two powerful provincial kings each wanted the dog, and Mac Dathó wished to satisfy both. He promised Ailbe to Concobar Mac Nessa of Ulster and to Ailill Mac Mata of Connacht. The argument that followed ended with the dog killed.",
+  "name": "Ailbe",
+  "entities": [
+    {
+      "entity": "Ailbe",
+      "type": "Being"
+    },
+    {
+      "entity": "Mac Dathó",
+      "type": "Person"
+    },
+    {
+      "entity": "Concobar Mac Nessa",
+      "type": "Person"
+    },
+    {
+      "entity": "Ailill Mac Mata",
+      "type": "Person"
+    },
+    {
+      "entity": "Ulster",
+      "type": "Place"
+    },
+    {
+      "entity": "Connacht",
+      "type": "Place"
+    }
+  ],
+  "sources": [
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+  ],
+  "attributes": [
+    {
+      "entity": "Ailbe",
+      "attribute": "a famous hunting dog owned by Mac Dathó"
+    },
+    {
+      "entity": "Mac Dathó",
+      "attribute": "promised Ailbe to two kings"
+    },
+    {
+      "entity": "Concobar Mac Nessa",
+      "attribute": "king of Ulster who desired Ailbe"
+    },
+    {
+      "entity": "Ailill Mac Mata",
+      "attribute": "king of Connacht who desired Ailbe"
+    },
+    {
+      "entity": "Ailbe",
+      "attribute": "killed in the argument"
+    }
+  ],
+  "image": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/StAilbe%27sChurchEmly.JPG/1200px-StAilbe%27sChurchEmly.JPG"
+  ],
+  "cyphertext": "5-SYGhR5Lf45H56OV1vOcXOuGB-8pqXbtimUzVI6QZwAlTxEQ8oUQGwZpKaaCSL7HAMiYRUuZ7Qq2FxohwAAC26eqziDTlKwB6yHzsdrKSKDQ--IsX48xakvY0GBW1k8ZJxF0YHtlPVXbFjemhhMVWibcjC3DAAxKe3qnlfKN4NSucvz5Y81kW8Mm4_H1zZ9_xTaZIcc0DiO9iYS2u6iKbTG2ZTGQvftkvx4zkiRyZK2mXHPk6oR_pdQR76gTnxt02isIG8olUdzstdj8jbGz_9irrbax3BAAhEwtt0PQrzjsaC8VgBXhzUQ8CRlXGJdT8JThGWHljsfHjDFfH3r5LHFccYttZc7T7a73P20smgEbUDM2UzUkILR78K4GJdo0EekYWp9eO7iwsOhODejGrWsdc26e9vY0qbDp7BEFpftL_bm18MiatHe1DtsF89hTbGqwd0soDIzVDD5a0rawmJsfXHvURpoyrxRPyxT6F2gxrnP5FqYxq9pXdulq94QkDw_MDKJNw==",
+  "salt": "LhtLAUvGAzhytc6ImBWT8Q==",
+  "text": "Ailbe, also called Ailba, was a famous hunting dog in Irish myth. The warrior Mac Dathó owned him. Two powerful provincial kings each wanted the dog, and Mac Dathó wished to satisfy both. He promised Ailbe to Concobar Mac Nessa of Ulster and to Ailill Mac Mata of Connacht. The argument that followed ended with the dog killed.",
+  "okr": {
     "objective": "Record Ailbe, the hunting dog of Mac Dathó.",
     "key_results": [
-        "Show how the promise to two kings led to the dog's death."
+      "Show how the promise to two kings led to the dog's death."
     ],
     "evidence": [
-        "Monaghan 2003, s.v. Ailbe (Ailba)"
+      "Monaghan 2003, s.v. Ailbe (Ailba)"
     ]
+  }
 }

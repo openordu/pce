@@ -1,28 +1,30 @@
 {
-    "name": "Aill na Mireann",
-    "attributes": [
-        {
-            "entity": "Aill na Mireann",
-            "attribute": "cross-reference to the Stone of Divisions"
-        }
-    ],
-    "entities": [
-        {
-            "entity": "Stone of Divisions",
-            "type": "Artifact"
-        }
-    ],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "cyphertext": "TsivDZCRn9OUqL4HotBVG7pbhCStYIMe56lYx2tX3ADRx2V0DS8eGSdIqTELymo9YTPAfj3Qto6yFPgpzBEtcQfo0Ao=",
-    "salt": "ppEVyh70HxXDbeUPNl4XQw==",
-    "text": "Aill na Mireann See Stone of Divisions.",
+  "name": "Aill na Mireann",
+  "attributes": [
+    {
+      "entity": "Aill na Mireann",
+      "attribute": "cross-reference to the Stone of Divisions"
+    }
+  ],
+  "entities": [
+    {
+      "entity": "Stone of Divisions",
+      "type": "Artifact"
+    }
+  ],
+  "sources": [
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+  ],
+  "cyphertext": "TsivDZCRn9OUqL4HotBVG7pbhCStYIMe56lYx2tX3ADRx2V0DS8eGSdIqTELymo9YTPAfj3Qto6yFPgpzBEtcQfo0Ao=",
+  "salt": "ppEVyh70HxXDbeUPNl4XQw==",
+  "text": "Aill na Mireann See Stone of Divisions.",
+  "okr": {
     "objective": "Direct readers to the Stone of Divisions entry.",
     "key_results": [
-        "Provide the cross reference to the Stone of Divisions."
+      "Provide the cross reference to the Stone of Divisions."
     ],
     "evidence": [
-        "Monaghan 2003, s.v. Aill na Mireann"
+      "Monaghan 2003, s.v. Aill na Mireann"
     ]
+  }
 }

@@ -62,16 +62,18 @@
   "cyphertext": "wWhyfplgxvof2xdWDgKNvS3wl-_SrLvQ23hrfHZBCzNOGXn5UPy5BrXfS8ONNZRaZQ==",
   "salt": "_AS9xTow9rJwN3A8lEV0bA==",
   "text": "Trystan is a Welsh hero. A Welsh-language version tells the tale of Tristan and Isolt. The lovers are named Trystan and Esyllt. Esyllt is the wife of king March ap Meirchion. The couple eloped into a forest. March’s three armies besieged them there. King Arthur stepped in to negotiate a truce. Arthur said they must share Esyllt by season. One would have her in summer, the other in winter. March chose winter, when nights run longest. Trystan tricked him with yew trees. The yew stays green year-round. So Trystan claimed he would keep Esyllt forever. In Welsh sources the pair is called Drystan ac Esyllt. The name Drystan may derive from Pictish lore.",
-  "objective": "Rewrite the Drystan entry in CSG-SME1000 prose with source-accurate nouns.",
-  "key_results": [
-    "Meets CSG-SME1000 sentence rules",
-    "All required nouns present",
-    "110-140 words",
-    "No prose fragments"
-  ],
-  "evidence": [
-    "monaghan.txt:12582 Trystan ref",
-    "monaghan.txt:38451-38470 Trystan (Drystan...)",
-    "koch.txt:31648-31727 Drystan ac Esyllt"
-  ]
+  "okr": {
+    "objective": "Rewrite the Drystan entry in CSG-SME1000 prose with source-accurate nouns.",
+    "key_results": [
+      "Meets CSG-SME1000 sentence rules",
+      "All required nouns present",
+      "110-140 words",
+      "No prose fragments"
+    ],
+    "evidence": [
+      "monaghan.txt:12582 Trystan ref",
+      "monaghan.txt:38451-38470 Trystan (Drystan...)",
+      "koch.txt:31648-31727 Drystan ac Esyllt"
+    ]
+  }
 }

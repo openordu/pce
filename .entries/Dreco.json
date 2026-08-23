@@ -55,14 +55,16 @@
   "cyphertext": "ZmrP93hjUSTxdjU3mR1IXXenOZhw8HO5SqNhEkQApLr4K9QEAKAH1f9fCzrAu1vHy__odCSP-kLBF_skDqkRVs3U3vn2H5Utu-FfJWG6MSvQd60JqLcYoe9fW8RaUs6QCRLZrVqDQSsBZ_cZv-K1k_UqXmlSTVQ6zSjAllo4p3SnmikUBNQzvNIdATYqXQwGNzIydaxIbjgVvB6GwDLKWujgrgJeMfGJcEKezy2k1CZhP6vqDNl6UthjncOlVeZZ6DsMM9oORYanDt9obvmASiFQ-UiXkPLCVqhP4v5N3C8MmxPoF9i_gEv8O7g_13NA2n5nrkqu9tG3APwzFafJwJX7WLI6Eb5QttrWvMA0WWZ0KU6rBbRJ9AzldjQ_cmck6ooS_ruINpoRM_6DrKjjb-ReJvDLrpnH0QajALx6Y46yrzvxTriIIu51Cn3A6Cvxtazv-ZMxpxcdgJFKR3J18UIb_J7JKiY2ETeMuyRca9ZmcMqvL9s3a4wzmBRBJmIqRtv7VYO0sHp4oGRuY1TQYnU_DK6mVcV-FxD5PUbyDsGbqcaPiD12EEMxrYoessCLa5oBm7MIzrxtmCpGh7tCJUS7RV8hMZN9X7ce0WYjNgB_rQQ9ieh90BeIsJDFUzDLdtCpWdmEbEk8Jh39qiJicovER-aMGxy_ijBMF5Vfy2CAt2teyaQiQhD0klO45WaOCrR0o4kMIWdl2HiMyrfKgkUAlnXxkBzA9zeH4wlrh3o3x7dVwWJPod2AWyhM3872fOGhtySy",
   "salt": "J2uSIFdlQlMXUstdDdT7PQ==",
   "text": "Dreco is an Irish heroine in the mythological history of Ireland. She was a sorceress of the Fomorians, a people the Book of Invasions describes as monstrous. Dreco used a poison draught to kill twenty warriors who were sent against her. Irish place-name poetry records the exact site of that slaughter. It happened at Nephin, also called Nemthend, a mountain overlooking Lough Conn in County Mayo. The same poetry calls Dreco a bard as well as a magician. Her tale survives in the Metrical Dindshenchas, an Irish collection of place-name verse.",
-  "objective": "Rewrite the Dreco entry in CSG-SME1000 prose with source-accurate nouns.",
-  "key_results": [
-    "Meets CSG-SME1000 sentence rules",
-    "All required nouns present",
-    "80-140 words",
-    "No prose fragments"
-  ],
-  "evidence": [
-    "monaghan.txt:12419-12430 Dreco"
-  ]
+  "okr": {
+    "objective": "Rewrite the Dreco entry in CSG-SME1000 prose with source-accurate nouns.",
+    "key_results": [
+      "Meets CSG-SME1000 sentence rules",
+      "All required nouns present",
+      "80-140 words",
+      "No prose fragments"
+    ],
+    "evidence": [
+      "monaghan.txt:12419-12430 Dreco"
+    ]
+  }
 }

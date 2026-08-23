@@ -1,35 +1,37 @@
 {
- "name": "adder",
- "attributes": [
-  {
-   "entity": "adder",
-   "attribute": "cross-referenced to the Serpent entry"
-  },
-  {
-   "entity": "Serpent",
-   "attribute": "full account of the adder is found there"
+  "name": "adder",
+  "attributes": [
+    {
+      "entity": "adder",
+      "attribute": "cross-referenced to the Serpent entry"
+    },
+    {
+      "entity": "Serpent",
+      "attribute": "full account of the adder is found there"
+    }
+  ],
+  "entities": [
+    {
+      "entity": "adder",
+      "type": "Being"
+    },
+    {
+      "entity": "Serpent",
+      "type": "Concept"
+    }
+  ],
+  "sources": [
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+  ],
+  "cyphertext": "-nu4LHVGFclQW_BM8T4c2Gui6nXjLdNaHFNVv7QKRDunbuJxe98YfQexkegF8v0=",
+  "salt": "KNOyM9HRJGjJBMzpX2-oZA==",
+  "text": "The adder is a snake. Some Celtic tales give it magical power. The full account of the animal sits under the Serpent entry.",
+  "okr": {
+    "objective": "Point the reader to the Serpent entry for the adder.",
+    "key_results": [
+      "Names the adder as a snake",
+      "States the full account is in the Serpent entry."
+    ],
+    "evidence": "Monaghan, The Encyclopedia of Celtic Mythology and Folklore, s.v. adder."
   }
- ],
- "entities": [
-  {
-   "entity": "adder",
-   "type": "Being"
-  },
-  {
-   "entity": "Serpent",
-   "type": "Concept"
-  }
- ],
- "sources": [
-  "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
- ],
- "cyphertext": "-nu4LHVGFclQW_BM8T4c2Gui6nXjLdNaHFNVv7QKRDunbuJxe98YfQexkegF8v0=",
- "salt": "KNOyM9HRJGjJBMzpX2-oZA==",
- "text": "The adder is a snake. Some Celtic tales give it magical power. The full account of the animal sits under the Serpent entry.",
- "objective": "Point the reader to the Serpent entry for the adder.",
- "key_results": [
-  "Names the adder as a snake",
-  "States the full account is in the Serpent entry."
- ],
- "evidence": "Monaghan, The Encyclopedia of Celtic Mythology and Folklore, s.v. adder."
 }

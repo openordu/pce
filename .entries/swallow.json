@@ -33,10 +33,12 @@
   "cyphertext": "UMUMp_fOixvs-uOXJWuNbPuoK0ICvjDO4gJrDNtTkSylh1fOHhsTkqLQtE8n-CDmigHWKSuueIYO4cgEJc8IkdJfII-4kJou6F7u5MGjd-P-KJGpHn-PR-n6Xm5gPI-k0i8gQosmnXtVvhkjkAiRyxUZPg-eANmg0ij7klDx2E0447qqI5DMIm6O",
   "salt": "SoyMsPcNxSUTQz7Cd0ZiwQ==",
   "text": "The swallow is a folkloric bird of Ireland. In old belief the swallow was a helpful bird. It nested near houses and returned with the season. A family counted its arrival a good sign. To kill a swallow brought bad luck. Some said the bad luck stayed with the one who killed it. Others said the whole household felt the harm. The bird kept the farm clear of small insects, so people left it in peace. The swallow gave early warning of weather and moved with the turning of the year. Farmers watched the bird to read the season. If the swallow left, the warm time was over. In this the bird held a quiet, trusted place in Irish custom. It was not a spirit of fear, but a useful neighbor that people did not harm.",
-  "objective": "Replace the weak machine text for swallow with a fresh CSG-SME1000 rewrite from Monaghan.",
-  "key_results": [
-    "text is a fresh CSG-SME1000 rewrite of the Irish folkloric bird",
-    "entities and attributes corrected and enriched"
-  ],
-  "evidence": "Monaghan 2003 (swallow, Ireland, helpful bird, bad luck)."
+  "okr": {
+    "objective": "Replace the weak machine text for swallow with a fresh CSG-SME1000 rewrite from Monaghan.",
+    "key_results": [
+      "text is a fresh CSG-SME1000 rewrite of the Irish folkloric bird",
+      "entities and attributes corrected and enriched"
+    ],
+    "evidence": "Monaghan 2003 (swallow, Ireland, helpful bird, bad luck)."
+  }
 }

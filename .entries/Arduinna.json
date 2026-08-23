@@ -1,48 +1,50 @@
 {
-    "name": "Arduinna",
-    "attributes": [
-        {
-            "entity": "Arduinna",
-            "attribute": "goddess who rides a wild boar through the Ardennes"
-        },
-        {
-            "entity": "Ardennes",
-            "attribute": "the Gaulish forest bearing her name"
-        },
-        {
-            "entity": "ard",
-            "attribute": "a root meaning height or highland"
-        }
-    ],
-    "entities": [
-        {
-            "entity": "Arduinna",
-            "type": "Person"
-        },
-        {
-            "entity": "boar",
-            "type": "Being"
-        },
-        {
-            "entity": "Ardennes",
-            "type": "Place"
-        },
-        {
-            "entity": "ard",
-            "type": "Concept"
-        }
-    ],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "cyphertext": "kQaSO5B7o6f2ohVoWoJMmbSO6ngwancTuikxHqkpjcSNR9_r7pumoe0oAym-frzVD37wJb6VmMXTg8O_SNYU98Hh7m3pBg7OhQj6mvhXanFbmDM9mtX5kcqJ_5SkjDzrO0j-kGfvbEdPbXBrUR4B1HYl1oE7kAzAjnD4e4XYz7llNcOa6UlMxrMsLV_RZQ6HoKzY0kqjJwSuL57S3_hocHPdJRWXf7ZerwCWAdrHEWbV9eILV6tgOdL1CkzHkcVzjzzdkC68tMkhQESnxnBcA7ya1kPZZ-EIzXAODyO_3f9YmjZPAmDT-Az_yYMs2nPAPXrQv4ByHSRMSJBVPTL9ioEFgDN66X2wxu1vXD91h47RoTOwHcYhfbF1DTXmX0pAgJ2wPmWIC7prD_ZzbIzPTQGA41Cc1Oe5NunX1Qq4Dyy6D3p7jECTaNWrva2kClL9hD9uI3Rd0ctkSd_tVOQgyZEwyCl-DLK_OV6e2NiUEN-8XdWh1zMc6Bl0aXZzrmHoomyagJyXvyZK-jijHpkOAbHGZKwlSlIVJm1vsVASjF0X4ssscGmnaXcu20VQ_mqoUF6h1xBL",
-    "salt": "i2IZ3Ip6re_g4loiRKISjA==",
-    "text": "Arduinna is a Continental Celtic goddess. Writers also spell her name Ardwinna, Arduenna, and Arduanna. Some link her to the Roman Diana or the Greek Artemis. She rode a wild boar through the Gaulish forest that bore her name, the Ardennes. Hunters entered her woods only if they left money for the animals they killed. Her name may hold ard, the word for height or highland.",
+  "name": "Arduinna",
+  "attributes": [
+    {
+      "entity": "Arduinna",
+      "attribute": "goddess who rides a wild boar through the Ardennes"
+    },
+    {
+      "entity": "Ardennes",
+      "attribute": "the Gaulish forest bearing her name"
+    },
+    {
+      "entity": "ard",
+      "attribute": "a root meaning height or highland"
+    }
+  ],
+  "entities": [
+    {
+      "entity": "Arduinna",
+      "type": "Person"
+    },
+    {
+      "entity": "boar",
+      "type": "Being"
+    },
+    {
+      "entity": "Ardennes",
+      "type": "Place"
+    },
+    {
+      "entity": "ard",
+      "type": "Concept"
+    }
+  ],
+  "sources": [
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+  ],
+  "cyphertext": "kQaSO5B7o6f2ohVoWoJMmbSO6ngwancTuikxHqkpjcSNR9_r7pumoe0oAym-frzVD37wJb6VmMXTg8O_SNYU98Hh7m3pBg7OhQj6mvhXanFbmDM9mtX5kcqJ_5SkjDzrO0j-kGfvbEdPbXBrUR4B1HYl1oE7kAzAjnD4e4XYz7llNcOa6UlMxrMsLV_RZQ6HoKzY0kqjJwSuL57S3_hocHPdJRWXf7ZerwCWAdrHEWbV9eILV6tgOdL1CkzHkcVzjzzdkC68tMkhQESnxnBcA7ya1kPZZ-EIzXAODyO_3f9YmjZPAmDT-Az_yYMs2nPAPXrQv4ByHSRMSJBVPTL9ioEFgDN66X2wxu1vXD91h47RoTOwHcYhfbF1DTXmX0pAgJ2wPmWIC7prD_ZzbIzPTQGA41Cc1Oe5NunX1Qq4Dyy6D3p7jECTaNWrva2kClL9hD9uI3Rd0ctkSd_tVOQgyZEwyCl-DLK_OV6e2NiUEN-8XdWh1zMc6Bl0aXZzrmHoomyagJyXvyZK-jijHpkOAbHGZKwlSlIVJm1vsVASjF0X4ssscGmnaXcu20VQ_mqoUF6h1xBL",
+  "salt": "i2IZ3Ip6re_g4loiRKISjA==",
+  "text": "Arduinna is a Continental Celtic goddess. Writers also spell her name Ardwinna, Arduenna, and Arduanna. Some link her to the Roman Diana or the Greek Artemis. She rode a wild boar through the Gaulish forest that bore her name, the Ardennes. Hunters entered her woods only if they left money for the animals they killed. Her name may hold ard, the word for height or highland.",
+  "okr": {
     "objective": "Record Arduinna, the Continental goddess of the boar and the Ardennes.",
     "key_results": [
-        "Show her alternate names and her boar.",
-        "Show the hunters' payment rule.",
-        "Show the ard root and the Diana-Artemis link."
+      "Show her alternate names and her boar.",
+      "Show the hunters' payment rule.",
+      "Show the ard root and the Diana-Artemis link."
     ],
     "evidence": "Monaghan 2003, s.v. Arduinna; Koch 2006"
+  }
 }

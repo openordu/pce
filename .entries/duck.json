@@ -33,14 +33,16 @@
   "cyphertext": "m7oG8jkl8lAzKSJMEi2bXzI7OQE76BzVrnGOgf0iVhokoTC9AEaz6j7nNnZRijiq9oDZLjGQbdO5EMIr_gMjcK5hYehpdoTSB6GLQxCjAyiVvBFFQeAfpk0xVNDA8SKW-By0p_BWs5mj6r2rvihv-YhUW0FeUxjWuz5-DrSESsFxn3Hrn7NnVrww0y38ThZsAp-o1xz6tAJwg9VoJgG6iYV6bnakDiLhgt9bJDQKjyOfeCzOzO8DiCcsZ1W8PEMepYrKeYk_3RPR3bWoe_xYvsGvzKYV3YHrIpgmsnbi3EwP4RLLsW3y9O8-FWOS7qxiEg6zdfw-LV26PTcG0YmsTmx_MY-ZnCxeo7dhQ3vOc_4aEQ==",
   "salt": "schMostoi00zYjYAdBmD0g==",
   "text": "The duck acted as a symbol bird in Celtic tradition. It was the animal of Sequana, the goddess of the source of France's river Seine. Artists often showed Sequana sailing in a boat. The prow of that boat was shaped into a duck's head. Birds frequently stand for Celtic divinity. Goddesses draw this bird symbolism most often.",
-  "objective": "Rewrite the duck entry in CSG-SME1000 prose with source-accurate nouns.",
-  "key_results": [
-    "Meets CSG-SME1000 sentence rules",
-    "All required nouns present (Sequana, Seine)",
-    "59 words",
-    "No prose fragments"
-  ],
-  "evidence": [
-    "monaghan.txt:12656 duck (symbolic bird)"
-  ]
+  "okr": {
+    "objective": "Rewrite the duck entry in CSG-SME1000 prose with source-accurate nouns.",
+    "key_results": [
+      "Meets CSG-SME1000 sentence rules",
+      "All required nouns present (Sequana, Seine)",
+      "59 words",
+      "No prose fragments"
+    ],
+    "evidence": [
+      "monaghan.txt:12656 duck (symbolic bird)"
+    ]
+  }
 }

@@ -38,12 +38,14 @@
   "cyphertext": "ltRTA4wa-y2QkTpFdRf6JOxkUfJZmhZfbiLzfCS25nPUUbRUSAAfT02BvK-C4WDjQTo4OWtfdIhaylmYWR45xeP8eRvj2o6avqRNzY2cSvqLIolr2kLBO0rtBmj88QyyuwfTHTBmh6VPDHUnjK-ZFeMz3T3IzGgmJ7YjXkuT4574Z4WS7C3HQQBcQDpzyI-DyR09sQ==",
   "salt": "LpQhLhH-NF-gVSjHYD_8pQ==",
   "text": "Súantrade is an Irish hero and a legendary harper. Tradition holds that the music he played was so sad that those who heard it died of broken hearts. The sorrow in his playing was absolute and could not be endured. In folk memory he stands among the great musicians of Irish legend, a figure whose art held real power over its listeners. The tale is an exaggeration, but it shows the high value that old Ireland placed on the harper. Music was not mere entertainment in that world. It could move the heart, stir grief, and touch the very edge of death. Súantrade embodies that belief.",
-  "objective": "Replace the weak machine text for Súantrade with a fresh CSG-SME1000 rewrite from Monaghan.",
-  "key_results": [
-    "text names Súantrade as a legendary Irish harper",
-    "text records the claim that his music broke hearts",
-    "text notes the cultural value placed on the harper",
-    "entities and attributes fixed"
-  ],
-  "evidence": "Monaghan 2003 (Súantrade, Irish hero, legendary harper)."
+  "okr": {
+    "objective": "Replace the weak machine text for Súantrade with a fresh CSG-SME1000 rewrite from Monaghan.",
+    "key_results": [
+      "text names Súantrade as a legendary Irish harper",
+      "text records the claim that his music broke hearts",
+      "text notes the cultural value placed on the harper",
+      "entities and attributes fixed"
+    ],
+    "evidence": "Monaghan 2003 (Súantrade, Irish hero, legendary harper)."
+  }
 }

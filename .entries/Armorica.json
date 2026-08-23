@@ -1,46 +1,48 @@
 {
-    "name": "Armorica",
-    "attributes": [
-        {
-            "entity": "Armorica",
-            "attribute": "a coast of Gaul facing the Atlantic"
-        },
-        {
-            "entity": "Brittany",
-            "attribute": "the later land assigned this name"
-        }
-    ],
-    "entities": [
-        {
-            "entity": "Armorica",
-            "type": "Place"
-        },
-        {
-            "entity": "Brittany",
-            "type": "Place"
-        },
-        {
-            "entity": "Gaul",
-            "type": "Place"
-        },
-        {
-            "entity": "Aremorica",
-            "type": "Place"
-        }
-    ],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "image": [
-        "https://upload.wikimedia.org/wikipedia/commons/7/73/Armorica.png"
-    ],
-    "cyphertext": "kcfFTXQ-EjmLV8a02st0nOdDynfgnuE5jFvrldaeaIXBjrAkpS1XXwJsXucV33dF1jyr",
-    "salt": "RdIXEjz3Lw19HJENz8mXyA==",
-    "text": "Armorica is an ancient place-name. It names the coast of Gaul facing the Atlantic. The name means country facing the sea. Koch also records the older spelling Aremorica. Modern works often use Armorica for the land later called Brittany.",
+  "name": "Armorica",
+  "attributes": [
+    {
+      "entity": "Armorica",
+      "attribute": "a coast of Gaul facing the Atlantic"
+    },
+    {
+      "entity": "Brittany",
+      "attribute": "the later land assigned this name"
+    }
+  ],
+  "entities": [
+    {
+      "entity": "Armorica",
+      "type": "Place"
+    },
+    {
+      "entity": "Brittany",
+      "type": "Place"
+    },
+    {
+      "entity": "Gaul",
+      "type": "Place"
+    },
+    {
+      "entity": "Aremorica",
+      "type": "Place"
+    }
+  ],
+  "sources": [
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+  ],
+  "image": [
+    "https://upload.wikimedia.org/wikipedia/commons/7/73/Armorica.png"
+  ],
+  "cyphertext": "kcfFTXQ-EjmLV8a02st0nOdDynfgnuE5jFvrldaeaIXBjrAkpS1XXwJsXucV33dF1jyr",
+  "salt": "RdIXEjz3Lw19HJENz8mXyA==",
+  "text": "Armorica is an ancient place-name. It names the coast of Gaul facing the Atlantic. The name means country facing the sea. Koch also records the older spelling Aremorica. Modern works often use Armorica for the land later called Brittany.",
+  "okr": {
     "objective": "Record Armorica, the old name of a Gaulish coast.",
     "key_results": [
-        "Show its meaning country facing the sea.",
-        "Show its later use for Brittany."
+      "Show its meaning country facing the sea.",
+      "Show its later use for Brittany."
     ],
     "evidence": "Monaghan 2003, s.v. Armorica"
+  }
 }

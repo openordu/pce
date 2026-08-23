@@ -50,10 +50,12 @@
   "cyphertext": "_qEzuRXAxMWnnMCOV7-CBmELgV8faqWnizbGXHqFG8lo1GZzZS9Pw0I7piZaTl9tYBxehjC047GTiVi6Cg==",
   "salt": "ugwkxS5A1ITgIaMe2QCLew==",
   "text": "Shan Van Vocht is one name for the spéir-bhean, the sky woman of Irish story. She is a late form of the goddess of Sovereignty. By her right a king could hold Ireland. The bards of the 16th to 18th centuries drew her as a young beauty from the Otherworld. She walked the roads to seek out the true leader of the land. Writers gave her other names. One was Cathleen Ni Houlihan. Another was Roisin Dubh, the Dark Rosaleen. In the form of the Shan Van Vocht she is the poor old woman. This figure recalls the hag who becomes young again when the rightful ruler kisses her. The most famous telling stands in Yeats's play. That play shares her name with Maude Gonne, the woman who roused a nation to rise.",
-  "objective": "Replace the machine text for Shan Van Vocht with a fresh CSG-SME1000 rewrite from Monaghan.",
-  "key_results": [
-    "text holds a fresh CSG-SME1000 rewrite, not a copy of the machine prose",
-    "entities and attributes corrected and enriched for the kgraph"
-  ],
-  "evidence": "Monaghan 2003 (spéir-bhean cross-ref); Clark, The Great Queens."
+  "okr": {
+    "objective": "Replace the machine text for Shan Van Vocht with a fresh CSG-SME1000 rewrite from Monaghan.",
+    "key_results": [
+      "text holds a fresh CSG-SME1000 rewrite, not a copy of the machine prose",
+      "entities and attributes corrected and enriched for the kgraph"
+    ],
+    "evidence": "Monaghan 2003 (spéir-bhean cross-ref); Clark, The Great Queens."
+  }
 }

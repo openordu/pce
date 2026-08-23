@@ -1,71 +1,73 @@
 {
-    "name": "Agravaine",
-    "entities": [
-        {
-            "entity": "Agravaine",
-            "type": "Person"
-        },
-        {
-            "entity": "Arthur",
-            "type": "Person"
-        },
-        {
-            "entity": "Gawain",
-            "type": "Person"
-        },
-        {
-            "entity": "Gaheris",
-            "type": "Person"
-        },
-        {
-            "entity": "Gareth",
-            "type": "Person"
-        },
-        {
-            "entity": "Lancelot",
-            "type": "Person"
-        },
-        {
-            "entity": "Mordred",
-            "type": "Person"
-        },
-        {
-            "entity": "Round Table",
-            "type": "Concept"
-        }
-    ],
-    "attributes": [
-        {
-            "entity": "Agravaine",
-            "attribute": "member of the Round Table"
-        },
-        {
-            "entity": "Agravaine",
-            "attribute": "brother of Gawain, Gaheris, and Gareth"
-        },
-        {
-            "entity": "Agravaine",
-            "attribute": "killed by Lancelot"
-        },
-        {
-            "entity": "Mordred",
-            "attribute": "the one Agravaine plotted with"
-        }
-    ],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "image": [
-        "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Blason_Agravain.svg/1200px-Blason_Agravain.svg.png"
-    ],
-    "cyphertext": "f51AjpOmNFoBUc9QJ3hi2sK6PZ89_MEx9S8PmtdXKZ360s1sjRZlxWlMsr8I2PO3DCz7Ko4WkIsk1qJY5FvBcLRdZC5V0UfI0L3konPI2emyxrEY3qqwwCUlEm-5Lmr72LB4UbePcvonaRgkJbyPV9DxX-hy-kYcAwBNzlJZmq82YSJQdUbf7Gdg-rftPvqtMAb8xgfDEJI2dJZOU3fFc2KMD630SHBzfXvw7nw1GCNbisgFT-K88XrwjGv49WscQjWWp5wqW26NFxMQCFds7hi648kYrtTjX6DrZF2N8_nTHlyMQgFF53gwHOH-sUqs0wBb6EPNs9LE_SYOCR9wozViEOMsso3AEdw6IFozTFKxMBECM-t6vXA9B7uYUNGqwKY=",
-    "salt": "J5qcheVTeCn9qYFHzYRP9A==",
-    "text": "Agravaine was a minor figure in the legends of King Arthur and his knights of the Round Table. He was a member of that assembly, as were his brothers Gawain, Gaheris, and Gareth. He plotted with the evil Mordred. Lancelot killed him for that plot.",
+  "name": "Agravaine",
+  "entities": [
+    {
+      "entity": "Agravaine",
+      "type": "Person"
+    },
+    {
+      "entity": "Arthur",
+      "type": "Person"
+    },
+    {
+      "entity": "Gawain",
+      "type": "Person"
+    },
+    {
+      "entity": "Gaheris",
+      "type": "Person"
+    },
+    {
+      "entity": "Gareth",
+      "type": "Person"
+    },
+    {
+      "entity": "Lancelot",
+      "type": "Person"
+    },
+    {
+      "entity": "Mordred",
+      "type": "Person"
+    },
+    {
+      "entity": "Round Table",
+      "type": "Concept"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Agravaine",
+      "attribute": "member of the Round Table"
+    },
+    {
+      "entity": "Agravaine",
+      "attribute": "brother of Gawain, Gaheris, and Gareth"
+    },
+    {
+      "entity": "Agravaine",
+      "attribute": "killed by Lancelot"
+    },
+    {
+      "entity": "Mordred",
+      "attribute": "the one Agravaine plotted with"
+    }
+  ],
+  "sources": [
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+  ],
+  "image": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Blason_Agravain.svg/1200px-Blason_Agravain.svg.png"
+  ],
+  "cyphertext": "f51AjpOmNFoBUc9QJ3hi2sK6PZ89_MEx9S8PmtdXKZ360s1sjRZlxWlMsr8I2PO3DCz7Ko4WkIsk1qJY5FvBcLRdZC5V0UfI0L3konPI2emyxrEY3qqwwCUlEm-5Lmr72LB4UbePcvonaRgkJbyPV9DxX-hy-kYcAwBNzlJZmq82YSJQdUbf7Gdg-rftPvqtMAb8xgfDEJI2dJZOU3fFc2KMD630SHBzfXvw7nw1GCNbisgFT-K88XrwjGv49WscQjWWp5wqW26NFxMQCFds7hi648kYrtTjX6DrZF2N8_nTHlyMQgFF53gwHOH-sUqs0wBb6EPNs9LE_SYOCR9wozViEOMsso3AEdw6IFozTFKxMBECM-t6vXA9B7uYUNGqwKY=",
+  "salt": "J5qcheVTeCn9qYFHzYRP9A==",
+  "text": "Agravaine was a minor figure in the legends of King Arthur and his knights of the Round Table. He was a member of that assembly, as were his brothers Gawain, Gaheris, and Gareth. He plotted with the evil Mordred. Lancelot killed him for that plot.",
+  "okr": {
     "objective": "Record Agravaine, an Arthurian knight of the Round Table.",
     "key_results": [
-        "Show his family ties and his death at the hands of Lancelot."
+      "Show his family ties and his death at the hands of Lancelot."
     ],
     "evidence": [
-        "Monaghan 2003, s.v. Agravaine"
+      "Monaghan 2003, s.v. Agravaine"
     ]
+  }
 }

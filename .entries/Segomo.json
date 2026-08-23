@@ -46,10 +46,12 @@
   "cyphertext": "GrNQqqW8PCO0S0AqgjgDxC1JWBgErPYqPRPh3UsFsUtBeyBUZHesEIfx0qrItdUDi6TrpNdtX4ZKAqc4lEde_kZvGuHXJHEkPocH4Y007B93bwD1Hg2YmrWD3Ux6Yd-laSUWNN0ASQp31vuX7Z1CM2oC9NEhDz51GrPKQXIRMC6U2rt8WyYtUopMQLY_eLU8m1GJzZwHnpldpzRhg3U8wlNVZ4JmzIK4qT21m818J-LMWhJ0SLLkwxTZ3abTuLlIYIVM7ozRjCaJmmQbnSl8LZulqUUyOkI93HGK6Xbe1BiAxQwpPcwDPWHL2eMD36KGQOGmm9kHPOP5MuuPQn0EAKDK5NQvKzrUgpk=",
   "salt": "tZe86tOKYzShMvNrF2z35w==",
   "text": "Segomo is a Continental Celtic god. The name is also recorded as Segamonas and Neta Segamonas. The name may mean the victor, or the victorious one. The god is now obscure. Once it had a wide following across the Celtic lands. Evidence of the cult survives in inscriptions. Those inscriptions come from Britain and from Gaul. The finds show a god honored on both sides of the Channel. Segomo stands today among the Continental gods known chiefly through stone and votive records.",
-  "objective": "Erase the machine text for Segomo and replace it with a fresh CSG-SME1000 rewrite sourced from the PDFs.",
-  "key_results": [
-    "text holds a fresh CSG-SME1000 rewrite, not a copy of the machine prose",
-    "entities and attributes corrected and enriched for the kgraph"
-  ],
-  "evidence": "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2003."
+  "okr": {
+    "objective": "Erase the machine text for Segomo and replace it with a fresh CSG-SME1000 rewrite sourced from the PDFs.",
+    "key_results": [
+      "text holds a fresh CSG-SME1000 rewrite, not a copy of the machine prose",
+      "entities and attributes corrected and enriched for the kgraph"
+    ],
+    "evidence": "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2003."
+  }
 }

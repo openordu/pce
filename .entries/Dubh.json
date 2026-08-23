@@ -53,14 +53,16 @@
   "cyphertext": "C2aRdZLYYXOKj-56ri8PcRKch8w3q4iTRWR0SHVAj1-nAAjME1-mSyjw49vJ10suwvVjKA21iXqP4le5AE62hPj-gHvYLeRaip-7mo5r7l_e9TLjjPr4ewpv5_2Fko5SdPFszZAAys1tgfIOiXZtyBC8Rzp3H5vCES3VvmRR05WmA4pz46qYtMjfpZ_p5Kzv_Z5PjO0Y47sRwd2MHe6QQMb10X4RMNbSt0ZQYKMQh4E11aohIDS2o7qercMQltQxCRy9iWNckk2A0KD9EuTAwtfqUEeef2r1KgdmtCHdK__ox1BimjHokzEIfVEw8Bx9oHujoBCMfmmZ8uDLTcLbg5gGLfeRKD4oXRra5W8X-TZk490FEhtiWQX1uzXpfX0AsHez4rcHFk4vTONn4lUwwjM3Pbo87GtquGUqXEiNrefNmH2KdmDX65Zz54iKc2JUNXHke2kBOUCiQwFH4rc4lTsUNfPGNk5o7WjIBXuTQDzSvMeJBCjNeOj0DD75KTO4lJrA7eNfN3hqaCHBCdYX4aorxY3Dg8TbXUolHTkJRf8JHcyA8hA1FAFYAU1ubUFFoNMERj6TRhEA0uhhXGeGr5JiF_wN7eKVv56clOQ3GhONC5_6XH7fLqsoxzQ4LYaQ0aOmdzf8KhLhucfhsGv08035f69h_sj0-h4IfAYbQGc5eGv7tLn3UsNnBKo_CILJKCyBL84kjAC5ecQgtoXmYkY9mYa6Of2qJYBK7IJUH20ITGmCDu6_zq9xeH5osOd7NV36aZrd9FEQNGYCWl-k1axpS7pbsCW34U0i4w29u9DVZixSnUqZbtS-xdbBvuuoUT_cyE7vVfJ5RuejQDmatDZhr_hjRIGdMpyAZQpi8m2jgyg_KDZHaMykHwBVF2FR_vi2avT8zZQ3O6YvKMQmjYEypjgLHm4TjZoydCffKfUH0sOEaJ6n",
   "salt": "s6OyWTrohNPXC_HCjpXloQ==",
   "text": "Dubh is a figure tied to a place. Dublin carries her story in its name. The old form Dubh-linn means the pool of Dub. A deep pool opened in the mouth of the River Liffey. Dubh means dark, so the name reads as dark pool. A slingshot killed her near that water. She had drowned a woman her husband consorted with. The killing became a tangle of betrayal and revenge. The pool sat where fresh water met the sea. Dubh’s fate fused water, revenge, and a city.",
-  "objective": "Rewrite the Dubh entry in CSG-SME1000 prose with source-accurate nouns.",
-  "key_results": [
-    "Meets CSG-SME1000 sentence rules",
-    "All required nouns present",
-    "70-140 words",
-    "No prose fragments"
-  ],
-  "evidence": [
-    "monaghan.txt:12624-12641 Dub (Dubh, Dubhlinn, Dublind)"
-  ]
+  "okr": {
+    "objective": "Rewrite the Dubh entry in CSG-SME1000 prose with source-accurate nouns.",
+    "key_results": [
+      "Meets CSG-SME1000 sentence rules",
+      "All required nouns present",
+      "70-140 words",
+      "No prose fragments"
+    ],
+    "evidence": [
+      "monaghan.txt:12624-12641 Dub (Dubh, Dubhlinn, Dublind)"
+    ]
+  }
 }

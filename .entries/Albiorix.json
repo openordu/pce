@@ -1,46 +1,48 @@
 {
-    "name": "Albiorix",
-    "attributes": [
-        {
-            "entity": "Albiorix",
-            "attribute": "a Continental Celtic war god"
-        },
-        {
-            "entity": "Albiorix",
-            "attribute": "his name is on old stones in Gaul"
-        },
-        {
-            "entity": "Albiorix",
-            "attribute": "the name means king of the world"
-        },
-        {
-            "entity": "Albiorix",
-            "attribute": "joined with the Roman god Mars"
-        }
-    ],
-    "entities": [
-        {
-            "entity": "Albiorix",
-            "type": "Person"
-        },
-        {
-            "entity": "Gaul",
-            "type": "Place"
-        },
-        {
-            "entity": "Mars",
-            "type": "Person"
-        }
-    ],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "cyphertext": "9Jg5hpgocgHz0sK8ulaHDvAPl8C7s9CvQPJiganKOc9j9cjeOrHovULdJLu85FcSM5eZREAI8SjipGAvV3l6B-o0kFH22VtBYovXC_hToOBqiJ9m1Oly6ad41yTh9GiFwThAQ339Ur3p6S6EFbPPcxKSlp6hjXTP3IHraTk6K7qkJZOHuxcBR2nXwOrC4PEOUABlMfTdx-igOeZGT20BPmBA8w77Qjzd0-HlfzwDQ7QyC_kN8Nts-EkhoXB--bff9m5eiB_-B7m4kD7JRk0elljtrLJGMvl-Bvg=",
-    "salt": "Ty-uDr9X-8ApUVUu7Rg9PA==",
-    "text": "Albiorix was a Continental Celtic god of war. His name is found on the old stones of Gaul. The name means the king of the world. The Romans joined him with their own god of war Mars.",
+  "name": "Albiorix",
+  "attributes": [
+    {
+      "entity": "Albiorix",
+      "attribute": "a Continental Celtic war god"
+    },
+    {
+      "entity": "Albiorix",
+      "attribute": "his name is on old stones in Gaul"
+    },
+    {
+      "entity": "Albiorix",
+      "attribute": "the name means king of the world"
+    },
+    {
+      "entity": "Albiorix",
+      "attribute": "joined with the Roman god Mars"
+    }
+  ],
+  "entities": [
+    {
+      "entity": "Albiorix",
+      "type": "Person"
+    },
+    {
+      "entity": "Gaul",
+      "type": "Place"
+    },
+    {
+      "entity": "Mars",
+      "type": "Person"
+    }
+  ],
+  "sources": [
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+  ],
+  "cyphertext": "9Jg5hpgocgHz0sK8ulaHDvAPl8C7s9CvQPJiganKOc9j9cjeOrHovULdJLu85FcSM5eZREAI8SjipGAvV3l6B-o0kFH22VtBYovXC_hToOBqiJ9m1Oly6ad41yTh9GiFwThAQ339Ur3p6S6EFbPPcxKSlp6hjXTP3IHraTk6K7qkJZOHuxcBR2nXwOrC4PEOUABlMfTdx-igOeZGT20BPmBA8w77Qjzd0-HlfzwDQ7QyC_kN8Nts-EkhoXB--bff9m5eiB_-B7m4kD7JRk0elljtrLJGMvl-Bvg=",
+  "salt": "Ty-uDr9X-8ApUVUu7Rg9PA==",
+  "text": "Albiorix was a Continental Celtic god of war. His name is found on the old stones of Gaul. The name means the king of the world. The Romans joined him with their own god of war Mars.",
+  "okr": {
     "objective": "Record Albiorix, a war god of Gaul.",
     "key_results": [
-        "Show the god, the name, and Mars."
+      "Show the god, the name, and Mars."
     ],
     "evidence": "Monaghan 2003, s.v. Albiorix"
+  }
 }

@@ -1,75 +1,77 @@
 {
-    "name": "amulet",
-    "attributes": [
-        {
-            "entity": "coral",
-            "attribute": "worn as a decoration and, on Pliny’s word, as an amulet"
-        },
-        {
-            "entity": "La Tène",
-            "attribute": "early Celtic site that yielded apparent amulets"
-        },
-        {
-            "entity": "Hallstatt",
-            "attribute": "early Celtic site that yielded apparent amulets"
-        },
-        {
-            "entity": "Serpent Stone",
-            "attribute": "the most famous Celtic amulet"
-        }
-    ],
-    "entities": [
-        {
-            "entity": "coral",
-            "type": "Material"
-        },
-        {
-            "entity": "Pliny",
-            "type": "Person"
-        },
-        {
-            "entity": "amber",
-            "type": "Material"
-        },
-        {
-            "entity": "quartz",
-            "type": "Material"
-        },
-        {
-            "entity": "animal figures",
-            "type": "Artifact"
-        },
-        {
-            "entity": "La Tène",
-            "type": "Place"
-        },
-        {
-            "entity": "Hallstatt",
-            "type": "Place"
-        },
-        {
-            "entity": "evil Eye",
-            "type": "Concept"
-        },
-        {
-            "entity": "Serpent Stone",
-            "type": "Artifact"
-        }
-    ],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "image": [
-        "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Cheshm-Nazar.JPG/1200px-Cheshm-Nazar.JPG"
-    ],
-    "cyphertext": "EQ2HgXcT9CwYTkGKJ491iMRKlASMqrC_DPmjJ1exdaR6b13jG0PBdzTlJYicWktJ8N3ID802KC8kYUdCNPeF98GGWFfTUVVcgYweL-JmKgj6I2Xuo1BTpJyxtTybonC-x3v0oZ4r0yL9zpQAFPqlfst1eKYsReRV6qoEhB-CWHXA4LrJxGfHWpH-XsiMSFUW_B5pUykDOdqqpL9GyXdG8xo_oMkHWFyYUf8C36Gq_QpZzH6HcAgt1mi_-nrmYqj_4xkuJNuOTElHKiUHQmjAtZYfMFYjGMwBTpzpSyqLT3Rppl2b8PqZSWvU0a-4UvVis9W6_KslS1VwYOAJ2B2npHGhmEC_KqsYKCeYgwt2CgnNbZqvjDL7kuUmVHWjkqWXyDa-fuDjnSYWCyXojAmNPorIYfu59R66wtQJl02PK6Y7ZKjsBInK8qeAOHMDmbWfHzBhEhGGpUg4sGtLWh9Yilz42snynx3aEcNF8Tme5f6ktg9fCY7JW3OMWatGD23dT8jZ_2wXP9znpA_kAxYNhp0MiivEjLVJxMNZGPwxJ6bmFCGWaJt8-ikQc_yzqIX11hWosihJHqBVQhjGdLqGpt8eu3s4H9QM1qeHrgLMSuMlb-LQOC_a6NAtTAUT3lZ1iOsv0bTju8bPxpGL0GFRI_mkZw719KZuXBGV9UGzlWhfy-f_11Bg2d7zFMpZnMA4tHsoTPWcx4T5J5jVdREWK7E_xuhmVTl8Bbdfmjtw1Zwi2PI3TmkaZhYriOuVjlZ_1I_BXAjG5rR56dOq4NF1U30Uwwhvi7Rl5MMCKIdZGFc8l8zvcQWxMhFkAD1Kl-8VueBxmOBPiEvpmaR9umVjVa02Mnlq-BUhHdfVcKHhNTpnJ1XSIuEQZWtNDxm8a7IfSm_KpXSXiytLbJDwwjSde3piMcCufpxocV1G-F430qAoef-_AM0_xXLZNMQ1pvJNSxJEXOjdXYJ9-D7BPFANzQXtz6MOYahHQHDQRB0ClFyirsgebtIBoflbU4qtcT8WXWOKW-4HA-OoNzIAQgAAxukoY40QCM6Roq9tmPcYnnYQjOK9SY5OKHU3krocv9NwbnbiWR-GdZlu_ZZzSIcLwx--u320pWTPbO8dAW0lQLEi_sAavBF1JV5480Rscm7gXKteS8zoVvcaMJLRDpGY9Svaw10XvQnViGd4ZKDIJj2VC0nfOjtKCyWWeEIUDay4eZaCcBZE-W3OeDiTNP1ybTMBX4RPxMrFaUmj_lfIEwLxp6MZtkMShnP7FbJqlSuI7nTg-94B6cGveDOPnora47ISjyXiE6bR_i8TwVrNFZLGLTjRYzatTdRB9nRKPlwhrpvBH-n0O4q1Paa9",
-    "salt": "5FIAzsonJZ1PR6TRMyrVBA==",
-    "text": "An amulet is an object worn or carried to keep off harm. The Celts used amulets from the earliest times. An amulet is not the same as a talisman. A talisman draws good luck, or the blessing of the gods, to its owner. An amulet drives off evil spirits and bad luck. Early Celtic magic carried two aims. It kept bad events away, and it drew good things near. An amulet served the first aim. Archaeologists have found apparent amulets at the early Celtic sites of La Tène and Hallstatt. For the most famous Celtic amulet, see Serpent Stone.",
+  "name": "amulet",
+  "attributes": [
+    {
+      "entity": "coral",
+      "attribute": "worn as a decoration and, on Pliny’s word, as an amulet"
+    },
+    {
+      "entity": "La Tène",
+      "attribute": "early Celtic site that yielded apparent amulets"
+    },
+    {
+      "entity": "Hallstatt",
+      "attribute": "early Celtic site that yielded apparent amulets"
+    },
+    {
+      "entity": "Serpent Stone",
+      "attribute": "the most famous Celtic amulet"
+    }
+  ],
+  "entities": [
+    {
+      "entity": "coral",
+      "type": "Material"
+    },
+    {
+      "entity": "Pliny",
+      "type": "Person"
+    },
+    {
+      "entity": "amber",
+      "type": "Material"
+    },
+    {
+      "entity": "quartz",
+      "type": "Material"
+    },
+    {
+      "entity": "animal figures",
+      "type": "Artifact"
+    },
+    {
+      "entity": "La Tène",
+      "type": "Place"
+    },
+    {
+      "entity": "Hallstatt",
+      "type": "Place"
+    },
+    {
+      "entity": "evil Eye",
+      "type": "Concept"
+    },
+    {
+      "entity": "Serpent Stone",
+      "type": "Artifact"
+    }
+  ],
+  "sources": [
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+  ],
+  "image": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Cheshm-Nazar.JPG/1200px-Cheshm-Nazar.JPG"
+  ],
+  "cyphertext": "EQ2HgXcT9CwYTkGKJ491iMRKlASMqrC_DPmjJ1exdaR6b13jG0PBdzTlJYicWktJ8N3ID802KC8kYUdCNPeF98GGWFfTUVVcgYweL-JmKgj6I2Xuo1BTpJyxtTybonC-x3v0oZ4r0yL9zpQAFPqlfst1eKYsReRV6qoEhB-CWHXA4LrJxGfHWpH-XsiMSFUW_B5pUykDOdqqpL9GyXdG8xo_oMkHWFyYUf8C36Gq_QpZzH6HcAgt1mi_-nrmYqj_4xkuJNuOTElHKiUHQmjAtZYfMFYjGMwBTpzpSyqLT3Rppl2b8PqZSWvU0a-4UvVis9W6_KslS1VwYOAJ2B2npHGhmEC_KqsYKCeYgwt2CgnNbZqvjDL7kuUmVHWjkqWXyDa-fuDjnSYWCyXojAmNPorIYfu59R66wtQJl02PK6Y7ZKjsBInK8qeAOHMDmbWfHzBhEhGGpUg4sGtLWh9Yilz42snynx3aEcNF8Tme5f6ktg9fCY7JW3OMWatGD23dT8jZ_2wXP9znpA_kAxYNhp0MiivEjLVJxMNZGPwxJ6bmFCGWaJt8-ikQc_yzqIX11hWosihJHqBVQhjGdLqGpt8eu3s4H9QM1qeHrgLMSuMlb-LQOC_a6NAtTAUT3lZ1iOsv0bTju8bPxpGL0GFRI_mkZw719KZuXBGV9UGzlWhfy-f_11Bg2d7zFMpZnMA4tHsoTPWcx4T5J5jVdREWK7E_xuhmVTl8Bbdfmjtw1Zwi2PI3TmkaZhYriOuVjlZ_1I_BXAjG5rR56dOq4NF1U30Uwwhvi7Rl5MMCKIdZGFc8l8zvcQWxMhFkAD1Kl-8VueBxmOBPiEvpmaR9umVjVa02Mnlq-BUhHdfVcKHhNTpnJ1XSIuEQZWtNDxm8a7IfSm_KpXSXiytLbJDwwjSde3piMcCufpxocV1G-F430qAoef-_AM0_xXLZNMQ1pvJNSxJEXOjdXYJ9-D7BPFANzQXtz6MOYahHQHDQRB0ClFyirsgebtIBoflbU4qtcT8WXWOKW-4HA-OoNzIAQgAAxukoY40QCM6Roq9tmPcYnnYQjOK9SY5OKHU3krocv9NwbnbiWR-GdZlu_ZZzSIcLwx--u320pWTPbO8dAW0lQLEi_sAavBF1JV5480Rscm7gXKteS8zoVvcaMJLRDpGY9Svaw10XvQnViGd4ZKDIJj2VC0nfOjtKCyWWeEIUDay4eZaCcBZE-W3OeDiTNP1ybTMBX4RPxMrFaUmj_lfIEwLxp6MZtkMShnP7FbJqlSuI7nTg-94B6cGveDOPnora47ISjyXiE6bR_i8TwVrNFZLGLTjRYzatTdRB9nRKPlwhrpvBH-n0O4q1Paa9",
+  "salt": "5FIAzsonJZ1PR6TRMyrVBA==",
+  "text": "An amulet is an object worn or carried to keep off harm. The Celts used amulets from the earliest times. An amulet is not the same as a talisman. A talisman draws good luck, or the blessing of the gods, to its owner. An amulet drives off evil spirits and bad luck. Early Celtic magic carried two aims. It kept bad events away, and it drew good things near. An amulet served the first aim. Archaeologists have found apparent amulets at the early Celtic sites of La Tène and Hallstatt. For the most famous Celtic amulet, see Serpent Stone.",
+  "okr": {
     "objective": "Record the amulet, an object the Celts wore to drive off evil.",
     "key_results": [
-        "Show the difference between amulet and talisman.",
-        "Show the La Tène and Hallstatt finds.",
-        "Point to the Serpent Stone."
+      "Show the difference between amulet and talisman.",
+      "Show the La Tène and Hallstatt finds.",
+      "Point to the Serpent Stone."
     ],
     "evidence": "Monaghan 2003, s.v. amulet; La Tène and Hallstatt sites; Koch 2006, s.v. amulet"
+  }
 }

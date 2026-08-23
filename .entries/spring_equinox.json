@@ -46,10 +46,12 @@
   "cyphertext": "ybWfR4-OiHP026iW4rh7FEFTzE8gKpfgSRbwOVHar4ql8RQB2ndLdJOGhJs9xajexBDtNr8Uqcc7uYRYRnqGSsX9KoZA9GuyWtsItIefJ8orw9MjPVTelTYiCoeSemtaUfVy65moE1YqQuGsnYFtxyAWa4Y9MLTQOlw8O2g9vQJS7sDHorp9iu3qLzcxM54JDeOvF814wG-mTgGZv4HVlsRRQ_cvqRiJSK4aGtnVnr90h9aFTUL3NMUmLzvlrvWlJnZ4qtuJz5t3YaOYsZADE_2p7_yGiXoa1co2P3sV7IZUUGtGp6SQY9byp1kLGObiWWzHXPi8OPn2t2GM-dCgICTfvW3FXFE-EJiOM7TmgR1_o2Zv6Vg45Bj1SMoRFaesUNoMaEjU53-ouo4VCqGXxATosPzMOM1uvx0h0wYVZzh-YJKGp6sB5zCxk5h--yLQSfv6dsKRrVsRF8HufaB__H1sdng7EtT9nUwHfPgtmnNNbPUaf8v7nKh3bFc57qvG0RUz2C1bmVSyHRDxi-tG_sheuWTGRcActBzPcJyLMtShWc3cnLo6fXwAzt3NrAnduU4TTOx0lBRbfE77-CzXaT4BNDFhzyOyCQWgBFnHO1_w-ZkVdwem3d0p1XxtkpPBzVaILbte_hzaaKc21z7RaxBaLGXOv-YhteMFPFWeN5zZ4tsip1s98ZiDYzk8bvlOg7MmOJ6NRcCv16yDeQsFqi0MxEd82lePAywYIEnInDuGKWtXwcJpubcRm8Y3xove-2UuDRAlh3FT-ydpFh0am8Z9Na9go3FFjlJu0k1OEvWyCHbDT54fWVfAmrD9oHkapPWlvF5wggqS2CXf3Ve_Fl52v2KJGkh27qo9IsDPN9wBq_ZJd9dotLlCfIjTAI6WuUtNe-RupQ==",
   "salt": "iHPJYMa-Sr9IT_HLb81dkA==",
   "text": "The spring equinox is a calendar point. The Celts did not mark the equinoxes. On that day the day and the night are equal, but the Celts did not keep it. They kept the festivals that fall between the equinoxes and the solstices. These are Samhain, Imbolc, Beltane, and Lughnasa. Yet the equinox has a meaning to an older people. Some monuments face the sunrise and the fall of the year. The great tomb of Brú na Bóinne is aligned to the sun. The Celts left the festival, but the stones remember.",
-  "objective": "Replace the machine text for spring equinox with a true rewrite from Monaghan.",
-  "key_results": [
-    "text holds a fresh CSG-SME1000 rewrite",
-    "entities and attributes corrected for the kgraph"
-  ],
-  "evidence": "Monaghan 2003 (spring equinox; Samhain, Imbolc, Beltane, Lughnasa; Brú na Bóinne)."
+  "okr": {
+    "objective": "Replace the machine text for spring equinox with a true rewrite from Monaghan.",
+    "key_results": [
+      "text holds a fresh CSG-SME1000 rewrite",
+      "entities and attributes corrected for the kgraph"
+    ],
+    "evidence": "Monaghan 2003 (spring equinox; Samhain, Imbolc, Beltane, Lughnasa; Brú na Bóinne)."
+  }
 }

@@ -31,10 +31,12 @@
   "cyphertext": "neUa97Z85W6FU9n0TCUWwoXpLmbk3BhvmCCPGuRw93rPcRAZKsoinZbV3JvFhdNfwLANWICUsrxXNQPsa37TjbzYFeybX5jlBGBiYv3IEvq4YG_WakfoQKS77VncSm9KjF-N3s30Y-KoQAqdJjrVnMkqFoHn8V1nS93hFJ9js3dSWPNDuM2Qipy22yVggYihBfBRnobAFsQCfjd41fMqOV5G-dRdfbqfKJK6zmtwQoZZQ7dh7ZM0330yzGnKBxyGRht9tjAYKmdpmr8KBZ18arTz7vPI-_lysiZL1fV5DHJOmWdG3ok7R71EvB3c42oPErBNxKnHE4N6UJpSQW1moyrrPnEgkPjUqI4PWNNmmNZzsMwDz_zhl0TLd_Ob1zVo9LJiWbB5LATP__FTwGhFrO9zdHWJGMlrZfWMUS-5gcsJZZGSXnxJFTBE77EQngWJ6GGSJ23SCN_EgenV8PtrqL_JSBgfQhveSBieTvBuvUIPuCRDJYJsROAV6dBISdzvsklZvoEdajtam9KZKTuyNCQWLyPkoo3yMOoG8EJ_qC2C8OfluTxZGg-JTlmyA8AMiEJHQRN-piwFUxgBIo0RK6nZoo2d8351n1I=",
   "salt": "NH2oNJklZdKcqFP21kKq4Q==",
   "text": "Shellycoat is a Scottish monster. This huge water beast lived in the port of Edinburgh. When sailors tried to pass out to sea, he hid under a coat of shells. He tormented them from under that cover. When still and not at his work, he left the coat beneath a rock. Without it he was weak and open to attack. The power lay in the shells. Once the coat left his back, the terror left with it. He could do no harm until he gathered the shell coat again. The tale keeps the old fear of hidden force in the seaward city.",
-  "objective": "Replace the machine text for Shellycoat with a fresh CSG-SME1000 rewrite from Monaghan.",
-  "key_results": [
-    "text holds a fresh CSG-SME1000 rewrite, not a copy of the machine prose",
-    "entities and attributes corrected and enriched for the kgraph"
-  ],
-  "evidence": "Monaghan 2003 (Shellycoat); Spence, The Minor Traditions of British Mythology."
+  "okr": {
+    "objective": "Replace the machine text for Shellycoat with a fresh CSG-SME1000 rewrite from Monaghan.",
+    "key_results": [
+      "text holds a fresh CSG-SME1000 rewrite, not a copy of the machine prose",
+      "entities and attributes corrected and enriched for the kgraph"
+    ],
+    "evidence": "Monaghan 2003 (Shellycoat); Spence, The Minor Traditions of British Mythology."
+  }
 }

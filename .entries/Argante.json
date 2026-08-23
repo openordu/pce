@@ -1,47 +1,49 @@
 {
-    "name": "Argante",
-    "attributes": [
-        {
-            "entity": "Argante",
-            "attribute": "queen of the Otherworld island Avalon"
-        },
-        {
-            "entity": "Arthur",
-            "attribute": "taken to her island to heal his wounds"
-        }
-    ],
-    "entities": [
-        {
-            "entity": "Argante",
-            "type": "Person"
-        },
-        {
-            "entity": "Avalon",
-            "type": "Place"
-        },
-        {
-            "entity": "Arianrhod",
-            "type": "Person"
-        },
-        {
-            "entity": "Morgan Le Fay",
-            "type": "Person"
-        },
-        {
-            "entity": "Arthur",
-            "type": "Person"
-        }
-    ],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "cyphertext": "L45zNxlb5S4LB5Q2EtvNsxWI6H62FXtTNDlNP_cUvyzylqL_cNuFT2HYxACGMz0RKhzboY5RQA9B8WZEudgxXV5oJenABwEncV9F7hr0O0BE2tQNABsMCVb2fbfjTdJ30Hic28Sk-PWXphnbkIlD3GMNNSP7fPHUsQgBhbNMtL71JZA-7lEyywrNMH_Khj3ApPO3r-6diab-JLCVXvuxMIX8KSe9pr4ZgIL_GvWWAGRBd2JPShEtuk_gwKSvhYIeli2RbhZ7I9tg2PDyWW4BtngStozjqRdwlcZ34c9WZQpmMkA66U5NcJpaKQktaxMlqVmjA2YRHEiX1nd4RVnNLCJZFe4YXUOzuTvSCBa02skB3A6dYoBo-RPH115l9-XAtYLwpDpsLhW84xtNrusz",
-    "salt": "1YQUuuHm2drAQsaPBoNMCg==",
-    "text": "Argante is a British heroine or goddess. She is the queen of the Otherworld island of Avalon. Writers describe her as a form of Arianrhod or of Morgan Le Fay. The wounded King Arthur was taken to her realm to heal. He has not yet returned from it.",
+  "name": "Argante",
+  "attributes": [
+    {
+      "entity": "Argante",
+      "attribute": "queen of the Otherworld island Avalon"
+    },
+    {
+      "entity": "Arthur",
+      "attribute": "taken to her island to heal his wounds"
+    }
+  ],
+  "entities": [
+    {
+      "entity": "Argante",
+      "type": "Person"
+    },
+    {
+      "entity": "Avalon",
+      "type": "Place"
+    },
+    {
+      "entity": "Arianrhod",
+      "type": "Person"
+    },
+    {
+      "entity": "Morgan Le Fay",
+      "type": "Person"
+    },
+    {
+      "entity": "Arthur",
+      "type": "Person"
+    }
+  ],
+  "sources": [
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+  ],
+  "cyphertext": "L45zNxlb5S4LB5Q2EtvNsxWI6H62FXtTNDlNP_cUvyzylqL_cNuFT2HYxACGMz0RKhzboY5RQA9B8WZEudgxXV5oJenABwEncV9F7hr0O0BE2tQNABsMCVb2fbfjTdJ30Hic28Sk-PWXphnbkIlD3GMNNSP7fPHUsQgBhbNMtL71JZA-7lEyywrNMH_Khj3ApPO3r-6diab-JLCVXvuxMIX8KSe9pr4ZgIL_GvWWAGRBd2JPShEtuk_gwKSvhYIeli2RbhZ7I9tg2PDyWW4BtngStozjqRdwlcZ34c9WZQpmMkA66U5NcJpaKQktaxMlqVmjA2YRHEiX1nd4RVnNLCJZFe4YXUOzuTvSCBa02skB3A6dYoBo-RPH115l9-XAtYLwpDpsLhW84xtNrusz",
+  "salt": "1YQUuuHm2drAQsaPBoNMCg==",
+  "text": "Argante is a British heroine or goddess. She is the queen of the Otherworld island of Avalon. Writers describe her as a form of Arianrhod or of Morgan Le Fay. The wounded King Arthur was taken to her realm to heal. He has not yet returned from it.",
+  "okr": {
     "objective": "Record Argante, queen of the Otherworld island Avalon.",
     "key_results": [
-        "Show her identity as a form of Arianrhod or Morgane le Fay.",
-        "Show Arthur taken to her to heal."
+      "Show her identity as a form of Arianrhod or Morgane le Fay.",
+      "Show Arthur taken to her to heal."
     ],
     "evidence": "Monaghan 2003, s.v. Argante"
+  }
 }

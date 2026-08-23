@@ -1,45 +1,47 @@
 {
-    "name": "Albion",
-    "attributes": [
-        {
-            "entity": "Albion",
-            "attribute": "a British giant, son of a sea god"
-        },
-        {
-            "entity": "Albion",
-            "attribute": "his name is the old name for the island"
-        },
-        {
-            "entity": "Albion",
-            "attribute": "a name tied to the god Albiorix"
-        }
-    ],
-    "entities": [
-        {
-            "entity": "Albion",
-            "type": "Person"
-        },
-        {
-            "entity": "Britain",
-            "type": "Place"
-        },
-        {
-            "entity": "Albiorix",
-            "type": "Person"
-        }
-    ],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "image": [
-        "https://upload.wikimedia.org/wikipedia/commons/7/7e/White_cliffs_of_dover_09_2004.jpg"
-    ],
-    "cyphertext": "6XxUtlJKgqLeBEZagxyOo7V-ZUbXXXuDe2CKVhTE1UO6aPkfDRrPFdinhanpFSqYh8vUo8bik6Dt6zvE_hmMNrNWOscx6Fk7KqLpt5MhChFLDdiV2Wv7E6DapiDOKaqF7YbvQQ7wJd6KPB87ZKzqoz7wPLGv-fbzf_ANaLpcKeknpz_mULE_7L9Orzl0zSTZSDAyB-KZxmudO5RU6987zUUWYa5kYpMoImvBaN1Tr0tCkL57i1v6QS-lVFKSIn2IwThT5P-i3RriTmqqmH98LJJrhZoVoHeyCnkjj57u5m-0Y-IMbWreDRjLkruyNNPJy6eVsN95gUChNQWj",
-    "salt": "dcIcIRciEDjtbd8ehKId_A==",
-    "text": "Albion was a British giant, son of a sea god. His name is the old one for the island of Britain. It is tied to the Continental Celtic god Albiorix.",
+  "name": "Albion",
+  "attributes": [
+    {
+      "entity": "Albion",
+      "attribute": "a British giant, son of a sea god"
+    },
+    {
+      "entity": "Albion",
+      "attribute": "his name is the old name for the island"
+    },
+    {
+      "entity": "Albion",
+      "attribute": "a name tied to the god Albiorix"
+    }
+  ],
+  "entities": [
+    {
+      "entity": "Albion",
+      "type": "Person"
+    },
+    {
+      "entity": "Britain",
+      "type": "Place"
+    },
+    {
+      "entity": "Albiorix",
+      "type": "Person"
+    }
+  ],
+  "sources": [
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+  ],
+  "image": [
+    "https://upload.wikimedia.org/wikipedia/commons/7/7e/White_cliffs_of_dover_09_2004.jpg"
+  ],
+  "cyphertext": "6XxUtlJKgqLeBEZagxyOo7V-ZUbXXXuDe2CKVhTE1UO6aPkfDRrPFdinhanpFSqYh8vUo8bik6Dt6zvE_hmMNrNWOscx6Fk7KqLpt5MhChFLDdiV2Wv7E6DapiDOKaqF7YbvQQ7wJd6KPB87ZKzqoz7wPLGv-fbzf_ANaLpcKeknpz_mULE_7L9Orzl0zSTZSDAyB-KZxmudO5RU6987zUUWYa5kYpMoImvBaN1Tr0tCkL57i1v6QS-lVFKSIn2IwThT5P-i3RriTmqqmH98LJJrhZoVoHeyCnkjj57u5m-0Y-IMbWreDRjLkruyNNPJy6eVsN95gUChNQWj",
+  "salt": "dcIcIRciEDjtbd8ehKId_A==",
+  "text": "Albion was a British giant, son of a sea god. His name is the old one for the island of Britain. It is tied to the Continental Celtic god Albiorix.",
+  "okr": {
     "objective": "Record Albion, a British giant.",
     "key_results": [
-        "Show his name, his father, and his link to Albiorix."
+      "Show his name, his father, and his link to Albiorix."
     ],
     "evidence": "Monaghan 2003, s.v. Albion"
+  }
 }

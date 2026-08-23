@@ -1,43 +1,45 @@
 {
-    "name": "Artaios",
-    "attributes": [
-        {
-            "entity": "Artaios",
-            "attribute": "a Continental bear god"
-        },
-        {
-            "entity": "Mercury",
-            "attribute": "the Roman god he was equated with"
-        },
-        {
-            "entity": "Artaios",
-            "attribute": "also spelled Artaius"
-        }
-    ],
-    "entities": [
-        {
-            "entity": "Artaios",
-            "type": "Person"
-        },
-        {
-            "entity": "bear",
-            "type": "Being"
-        },
-        {
-            "entity": "Mercury",
-            "type": "Person"
-        }
-    ],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "cyphertext": "WzYd6uyQI7DZBS0ciDwXkzu0aOTbgEexgC5fmYhizg_etMZgesA7LA4n-lYCQhS4ug==",
-    "salt": "CAq3ksq6451exY3wHnxcdg==",
-    "text": "Artaios is a Continental Celtic god. Some writers spell his name Artaius. He is a bear god, kin to the goddess of wisdom. He was equated with the Roman Mercury by some Gaul peoples.",
+  "name": "Artaios",
+  "attributes": [
+    {
+      "entity": "Artaios",
+      "attribute": "a Continental bear god"
+    },
+    {
+      "entity": "Mercury",
+      "attribute": "the Roman god he was equated with"
+    },
+    {
+      "entity": "Artaios",
+      "attribute": "also spelled Artaius"
+    }
+  ],
+  "entities": [
+    {
+      "entity": "Artaios",
+      "type": "Person"
+    },
+    {
+      "entity": "bear",
+      "type": "Being"
+    },
+    {
+      "entity": "Mercury",
+      "type": "Person"
+    }
+  ],
+  "sources": [
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+  ],
+  "cyphertext": "WzYd6uyQI7DZBS0ciDwXkzu0aOTbgEexgC5fmYhizg_etMZgesA7LA4n-lYCQhS4ug==",
+  "salt": "CAq3ksq6451exY3wHnxcdg==",
+  "text": "Artaios is a Continental Celtic god. Some writers spell his name Artaius. He is a bear god, kin to the goddess of wisdom. He was equated with the Roman Mercury by some Gaul peoples.",
+  "okr": {
     "objective": "Record Artaios, a Continental bear god equated with Mercury.",
     "key_results": [
-        "Show his bear form.",
-        "Show his identification with Mercury."
+      "Show his bear form.",
+      "Show his identification with Mercury."
     ],
     "evidence": "Monaghan 2003, s.v. Artaios"
+  }
 }

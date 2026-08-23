@@ -29,10 +29,12 @@
   "cyphertext": "uKzs3brvT5-c8CqbhtjNjVES7agTOz9HHzrrS7Ykn65J1YAhIlLNEVHOJYOW6Y-RISPwdrz0fkx24nFslbO6DJIFkJjpIDw_sratuRyDOS7by6B6Ro2Z1xADfCXejUjWowYm9BkfpBtGr9yL1DisjjoxXwsk0ZWe51_0Rn8KmXIteROSoukpNuW516pIQmWRAgaceQkxATe0TzU2ZA6wh0kp_F2xFAMGg37nf1_6KCl2OqQzNNqUn7GR6EoGAYJDjDWjc5dJ757k1jf4vPHXo-6M2EHTgecfppvhCJTinxb_erZSGAxd4UYwdrcklj7abyDjYIewAVc6R-HOlQ7oG05ZTUamsPKEt1AbKDjgN3MKREEe-HufigdGrTQFF8m6gEkpJp1Sb4Oji8GD964diRoO_QJBbbPZLTxWaYYIo-qi9J5NlCipPJIxorJc9RI=",
   "salt": "nP2xVevBd5UctXfUOhNtRw==",
   "text": "Souconna is a goddess of the continental Celts. The record of her is thin but kept alive by the stone and the river. She may have been a river goddess who ruled the Saône in eastern France, for the river once bore her name in ancient times. There may have been two goddesses of the same name, for an inscription found at a distance from the river also named Souconna. The scarce record keeps her fixed to the water, a power bound to the Saône and remembered in the stray stone. Her worship tells of a small river godfolk, little known and yet carved in the memory of the place.",
-  "objective": "Rewrite the Souconna text in CSG-SME1000 sourced from Monaghan.",
-  "key_results": [
-    "text holds a fresh CSG-SME1000 rewrite, not a copy of the machine prose",
-    "entities and attributes enriched and corrected for the kgraph"
-  ],
-  "evidence": "Monaghan 2003 (Souconna; isn't a well)."
+  "okr": {
+    "objective": "Rewrite the Souconna text in CSG-SME1000 sourced from Monaghan.",
+    "key_results": [
+      "text holds a fresh CSG-SME1000 rewrite, not a copy of the machine prose",
+      "entities and attributes enriched and corrected for the kgraph"
+    ],
+    "evidence": "Monaghan 2003 (Souconna; isn't a well)."
+  }
 }

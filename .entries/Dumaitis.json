@@ -30,14 +30,16 @@
   "cyphertext": "51SxIVoQwcZeyHHKdSQMmZ6XxCXrSKeufEyuxjG-bGo5kJztwMlv_ONhRSdm0_hKJMPD0nrLhAgrl18sVj-qep73vf94J3-lmczExt9crRCoQwmYbT2FFgg58ZDcG34_74IDiBuM-gLmu27fSBUCq0CQvElLw-n_p4GmNf2w0wf65fUSiI61nwd9mWjUYY6NigcqEDkeD3Gm5P5M5rIu6BoKArp2oHD2YAAUre4HZ7Oee2P6u9pmdwTqf2SgoYFCD02I",
   "salt": "VnP7H-Cgyfs2rFwdBf62kA==",
   "text": "Dumaitis was a Continental Celtic god from Gaul. He remains an obscure figure in Celtic religion. The invading Romans identified him with their god Mercury. Scholars know Dumaitis only from a single inscription. No other record of his cult survives. Romans matched unknown local gods to their own pantheon. Mercury filled that role for Dumaitis. The one inscription provides the only evidence of his worship.",
-  "objective": "Rewrite the Dumaitis entry in CSG-SME1000 prose with source-accurate nouns.",
-  "key_results": [
-    "Meets CSG-SME1000 sentence rules",
-    "All required nouns present (Dumaitis, Gaul, Mercury)",
-    "69 words",
-    "No prose fragments"
-  ],
-  "evidence": [
-    "monaghan.txt:12673-12676 Dumaitis"
-  ]
+  "okr": {
+    "objective": "Rewrite the Dumaitis entry in CSG-SME1000 prose with source-accurate nouns.",
+    "key_results": [
+      "Meets CSG-SME1000 sentence rules",
+      "All required nouns present (Dumaitis, Gaul, Mercury)",
+      "69 words",
+      "No prose fragments"
+    ],
+    "evidence": [
+      "monaghan.txt:12673-12676 Dumaitis"
+    ]
+  }
 }

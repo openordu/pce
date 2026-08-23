@@ -1,58 +1,60 @@
 {
-    "name": "antlers",
-    "attributes": [
-        {
-            "entity": "antlers",
-            "attribute": "a symbol of prosperity worn by gods and goddesses"
-        },
-        {
-            "entity": "Cernunnos",
-            "attribute": "a Gaulish god with antlers or horns, torcs, and stags"
-        }
-    ],
-    "entities": [
-        {
-            "entity": "antlers",
-            "type": "Concept"
-        },
-        {
-            "entity": "Cernunnos",
-            "type": "Person"
-        },
-        {
-            "entity": "torc",
-            "type": "Artifact"
-        },
-        {
-            "entity": "Gundestrup cauldron",
-            "type": "Artifact"
-        },
-        {
-            "entity": "stag",
-            "type": "Being"
-        },
-        {
-            "entity": "Clermont-Ferrand",
-            "type": "Place"
-        },
-        {
-            "entity": "Besancon",
-            "type": "Place"
-        }
-    ],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "image": [
-        "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Red_deer_stag_2009_denmark.jpg/1200px-Red_deer_stag_2009_denmark.jpg"
-    ],
-    "cyphertext": "i-ChbzgWSzqNjkmCa7yGWkxkbOJ-xFeLfTcxMyB2DeDwHvQ-EaqU_2PuS9l-Lvwr0IucNNcjNFlqrXlbYOaM57U2c5Ye-ymoOhhYc-UYdNgOOFtQ5Ikcm4n0TPG8slBVxHCtmIAwnRJZMEmCgUusf3OQdGb8Q7Dv4sQvWz57hc1o0HSN2vjLAIstnm6faeP64Ocq_ZXrkj6am59n-RZ7Q53N72OuIf1-yTfdYN9mJt6VYXUazHqYQYRKxXUdHBgfL4cJ0td_BBJQozUAgdCwWFBWYoXM1Er4NoxsYY6RXPRBMwNzErhqXnVZBvMPDcMvsh1ueE1Gz03JbZMJERHaN1v8pPyotp2uDB5HCh8OpSbIvmXNfrYCFwkopIwGjXTpXPac5jUzfEsLKN0Xcda35UbQM0YuoNid0dFspmJRUAa0Z_HpVINGJdx_OpQvTWHHEuhCm5PAJHtTeG4YgVba_zcECcVFrqW7tIw-9Z8KKPQPRAkztY2GvfUeZcEeYbpzvWbApSqlKdLe5M20zntd",
-    "salt": "YsZHDyc6s82SvEsmkhoGjw==",
-    "text": "Antlers are a symbolic image. Celtic divinities often appeared in animal form. That appearance shows a connection to shamanic transformation. At other times the deities kept their usual shape but carried animal traits. The most common traits were horns or antlers. Antlers stood for prosperity. Both gods and goddesses wore them. The Gaulish god Cernunnos is the example. He bore antlers or horns on his head, wore multiple neck-rings called torcs, and stood among stags. Sometimes a ram-horned snake joined him. The Gundestrup cauldron shows an antlered figure seated cross-legged. Antlered goddesses are known from Clermont-Ferrand and Besancon.",
+  "name": "antlers",
+  "attributes": [
+    {
+      "entity": "antlers",
+      "attribute": "a symbol of prosperity worn by gods and goddesses"
+    },
+    {
+      "entity": "Cernunnos",
+      "attribute": "a Gaulish god with antlers or horns, torcs, and stags"
+    }
+  ],
+  "entities": [
+    {
+      "entity": "antlers",
+      "type": "Concept"
+    },
+    {
+      "entity": "Cernunnos",
+      "type": "Person"
+    },
+    {
+      "entity": "torc",
+      "type": "Artifact"
+    },
+    {
+      "entity": "Gundestrup cauldron",
+      "type": "Artifact"
+    },
+    {
+      "entity": "stag",
+      "type": "Being"
+    },
+    {
+      "entity": "Clermont-Ferrand",
+      "type": "Place"
+    },
+    {
+      "entity": "Besancon",
+      "type": "Place"
+    }
+  ],
+  "sources": [
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+  ],
+  "image": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Red_deer_stag_2009_denmark.jpg/1200px-Red_deer_stag_2009_denmark.jpg"
+  ],
+  "cyphertext": "i-ChbzgWSzqNjkmCa7yGWkxkbOJ-xFeLfTcxMyB2DeDwHvQ-EaqU_2PuS9l-Lvwr0IucNNcjNFlqrXlbYOaM57U2c5Ye-ymoOhhYc-UYdNgOOFtQ5Ikcm4n0TPG8slBVxHCtmIAwnRJZMEmCgUusf3OQdGb8Q7Dv4sQvWz57hc1o0HSN2vjLAIstnm6faeP64Ocq_ZXrkj6am59n-RZ7Q53N72OuIf1-yTfdYN9mJt6VYXUazHqYQYRKxXUdHBgfL4cJ0td_BBJQozUAgdCwWFBWYoXM1Er4NoxsYY6RXPRBMwNzErhqXnVZBvMPDcMvsh1ueE1Gz03JbZMJERHaN1v8pPyotp2uDB5HCh8OpSbIvmXNfrYCFwkopIwGjXTpXPac5jUzfEsLKN0Xcda35UbQM0YuoNid0dFspmJRUAa0Z_HpVINGJdx_OpQvTWHHEuhCm5PAJHtTeG4YgVba_zcECcVFrqW7tIw-9Z8KKPQPRAkztY2GvfUeZcEeYbpzvWbApSqlKdLe5M20zntd",
+  "salt": "YsZHDyc6s82SvEsmkhoGjw==",
+  "text": "Antlers are a symbolic image. Celtic divinities often appeared in animal form. That appearance shows a connection to shamanic transformation. At other times the deities kept their usual shape but carried animal traits. The most common traits were horns or antlers. Antlers stood for prosperity. Both gods and goddesses wore them. The Gaulish god Cernunnos is the example. He bore antlers or horns on his head, wore multiple neck-rings called torcs, and stood among stags. Sometimes a ram-horned snake joined him. The Gundestrup cauldron shows an antlered figure seated cross-legged. Antlered goddesses are known from Clermont-Ferrand and Besancon.",
+  "okr": {
     "objective": "Record antlers as a symbolic image in Celtic myth.",
     "key_results": [
-        "Show antlers as a sign of prosperity worn by gods and goddesses.",
-        "Show Cernunnos as the clearest antlered god with torcs and stags."
+      "Show antlers as a sign of prosperity worn by gods and goddesses.",
+      "Show Cernunnos as the clearest antlered god with torcs and stags."
     ],
     "evidence": "Monaghan 2003, s.v. antlers; Koch 2006, s.v. Cernunnos"
+  }
 }

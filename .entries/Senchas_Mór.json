@@ -43,10 +43,12 @@
   "cyphertext": "wf5X7hfXxJlV4Eiy3e90DfIg37uHMwkROeuvICOaj3EKKqVtBb_9csiZxBJYSbWhWXrAxDvPnTQIS9yAWLORcAbDpOYaH0GatoJr2U7sadJAwx72t3Du8tVhSESlPbxtDqR_fwk4x0Oj3bUKVo-0TsOz8YuERZroaFW5fls4292lGnxD3adQgAyl88Ewu8-gvQ83GhHY36buXbayb_7DV9SRSpE-FyfWqGEVbV-Rx4EpcjKXctg92TY--7QEnI4b63fPcyDVTvQY2YOXR8l0jBNMdQ6Pd26vnPTKDSi87owW7N96guZpo64VdnMSoyRjgEKUOfxbc6Gfvaq9dw-iXV5mt9-um6xg2UkTGnLuZXVCX5avUdMyGRBtUMQzS0-BsYtKt13MtF2NhvNMoS1DicRorNbcBfMCGauocT0Aamu4mD9hlXX5P0v1e1DM4wsr2sjZa5aIdvOm1qqdqltdFunQSjvE2TQqESBW0Kp3aav8-YZZxgfaqsYUZJvXdjwjBtXTCC8oGwNbmDKvHfg6IArH94w2r0shZNp71ghmRODFlpGzPsTiew1nX_CWyfbXYraGiLamgtQNekoWpb8hhVjNkYPxjQGYxKRI9L6-lYwwAe8Lb5T4j9BR-VZdOzjIvOLkqTPz3yrCsFv2w1Zls6Y6dcietMrjL6OhGbsLMDj0DsjZq2tsimbu6Yom0cP4_0B7Lt3riZpYq1k1edhpshrORoLGEYUMJKXUUvNrJUWLOrTWLRkLp5Zvaak7P8MQaZQuwGhPWSWS-4-WK1N5gjXilpnRFtyC6GT9SzfJ3BK762rw99hLlym0Kp1xjTBztRUTttsgQMITQQIisVSTmsUK8tshylpXkk7qfMfQXDMX84d4N-BaIp8Soh1xQKpx9RPFCdjRKxYWAGRaGTD3YK8sbEoiHvBm2cRJU37nWMPjd4UXlQNqSUN31DVI33zhfcuSQIvvUiLBuOS7px4FWYnHtJ3cCQi-kNLkdsmG7qT_2D-xOvr1ouErgsMF-SdOAaMkqlEJu_UB5Apfe6EFeXPnaxPv-Jjs",
   "salt": "WU4dWahdP5_4HKnR-LPCzQ==",
   "text": "Senchas Mór, also recorded as Senchas Már or Senchus Mor, is a collection of laws from medieval Ireland. It dates from about the fifth century, when custom ruled the land. The text is one of the earliest bodies of Irish law. It sets out the rules of the Brehon, the judges of the old order, whose craft predated the written code of the land. The work also carries some myth. One line in the laws scolds Ailill mac Máta, the husband of Medb of Connacht, for hasty judgment. Another notes that bards sit as judges in the time of the Ulster king, Concobar mac Nessa. The two notes give the dry law a touch of the old stories.",
-  "objective": "Erase the machine text for Senchas Mór and replace it with a fresh CSG-SME1000 rewrite sourced from the PDFs.",
-  "key_results": [
-    "text holds a fresh CSG-SME1000 rewrite, not a copy of the machine prose",
-    "entities and attributes corrected and enriched for the kgraph"
-  ],
-  "evidence": "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2003. Senchus Mor. Dublin: Alexander Thom, 1856."
+  "okr": {
+    "objective": "Erase the machine text for Senchas Mór and replace it with a fresh CSG-SME1000 rewrite sourced from the PDFs.",
+    "key_results": [
+      "text holds a fresh CSG-SME1000 rewrite, not a copy of the machine prose",
+      "entities and attributes corrected and enriched for the kgraph"
+    ],
+    "evidence": "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2003. Senchus Mor. Dublin: Alexander Thom, 1856."
+  }
 }

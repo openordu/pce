@@ -34,10 +34,12 @@
   "cyphertext": "2WW4J3z193JxBeWJh7oX8q6yoJEzpZjC6SfuhYZpf36gLEPjInxxPJpt8H3WnaNEqixnqjM0bhLQgKkl1b7GANB60IcQP7Z-SzWRb8-ds73kxCtocQhnj1Hr_zZKqt4B9bisn_RkFzo-bqbXaYIio4iLFv-neYlpYWej5SThOlIIOW77BJTu4UyY6qmzW6fUEPLP1nrVHDPTK3qBMvUp-OJwp3EA7KHzNxyfCV8yeo5wo6bRuJbrncDBZMyGmZIMRaYMk5idYt49wyoxNhWglngSIArRrZyE4nJ_oNDbbedbDlcG3N9goFdfbRdrCNCtQANHjfmldTXv9dard5zjvGMUbMWpTJaY9l1Fsr7IEYQCHJcCapiA7DPW4iEDy4wztUnw9byOW-YaXMCPreJlHfF_miOAwNGpIzXBTN2FykazPLJPlrJ8aHjvUzSkMEaM-Y2pA5crO57nVGAW63fVI0O6NbKTmui3w4hFJZ2GUOg3Bhcou3OuHnioc4U1Z3DnaH1T2mOH9aRGUdrCCMFqn6slV33QwZB8PfOPYZUb2uimBf4hLTEScfOJ98nhEeF6icyZFrL8AUNGuKofhkKkhgW94IyWUf1wa5yFXDiAArfzKZJ9gi6_fn53DXBsFsCO6oHlNepUhmZFQn8If02ad-Buv79NOlIkPHBinIagpe1SHPnr0RiY1a6DnJv8BeIm1WHOyUGCW7oRoeEo8yrt9qjPxvL7keq-01Q8fRbpdKNikbQNP-vgcY-HZ_v4rDKQCNxWf2GYw-bU1_YKcXLqVSVr-iaG5LiiHQ-BYZ3zFXOB4OHrd60hAJ2xgbbbSIGxH9vjtM1V2gcbxV9dKDex71byHc1jMmn1y-VaDn71QeCaVgC46x8HWfWMTaP6DL6gFvz3Vc3Fo1aO39LJAkmCe83JtHoIzt_AgAjrbA9x8hPr-Sy7oMq5HsxVFyPHQgR4PmN8rV7zIl_CEfSdRrgAbfQ4uwj4R97AIElXBxUtMUVeRIMj_Eqy8_K4apIP4pS57f1WqViY21loPpmgcaAD0hnElPgI9oFD6Z1Lk0TNSbGtxelPq43LKt-6gN4zuHxDqqqKyPAqJwqu41AvsGCfUdcL0WewVHR2KKS1Jj48fotjYOb1lW6kjC4X0mWoIQS_vPPthlkJPME5I5op4bTKsUvDn0pyryoxityVF3ZhtokDCndp-z1rXQFWjemudHFTTuEw2UPhsw==",
   "salt": "_53HAfUTwLBnzeUK-HtnJw==",
   "text": "The seven Daughters of the Sea are a small band of Irish goddesses. People called on them in a cétnad, a chant of divination, to learn how long a person would live. The chant says I invoke the seven Daughters of the Sea. It asks that three deaths be taken away, that three spans of age be granted, and that seven waves of good fortune arrive. The speaker asks to walk unharmed and to reach old age. Apart from this chant the figures are unknown. They may connect to the Seven Sisters whose name marks holy wells and ancient stone circles across Ireland. Seven carried magic in Ireland, though its holiness may come from Christian influence. Three and five were more often sacred to the Celts.",
-  "objective": "Replace the machine text for seven Daughters of the Sea with a fresh CSG-SME1000 rewrite from Monaghan.",
-  "key_results": [
-    "text holds a fresh CSG-SME1000 rewrite, not a copy of the machine prose",
-    "entities and attributes corrected and enriched for the kgraph"
-  ],
-  "evidence": "Monaghan 2003; Koch 2006."
+  "okr": {
+    "objective": "Replace the machine text for seven Daughters of the Sea with a fresh CSG-SME1000 rewrite from Monaghan.",
+    "key_results": [
+      "text holds a fresh CSG-SME1000 rewrite, not a copy of the machine prose",
+      "entities and attributes corrected and enriched for the kgraph"
+    ],
+    "evidence": "Monaghan 2003; Koch 2006."
+  }
 }

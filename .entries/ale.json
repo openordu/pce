@@ -1,81 +1,83 @@
 {
-    "name": "ale",
-    "attributes": [
-        {
-            "entity": "ale",
-            "attribute": "brewed from hops and malt as dergfhlaith"
-        },
-        {
-            "entity": "ale",
-            "attribute": "the drink stood for sovereignty"
-        },
-        {
-            "entity": "Sovereignty",
-            "attribute": "gave a cup of red ale to the new king"
-        },
-        {
-            "entity": "Goibniu",
-            "attribute": "his ale conferred immortality"
-        },
-        {
-            "entity": "ale",
-            "attribute": "linked by epics to the festival of Samhain"
-        }
-    ],
-    "entities": [
-        {
-            "entity": "ale",
-            "type": "Artifact"
-        },
-        {
-            "entity": "dergfhlaith",
-            "type": "Artifact"
-        },
-        {
-            "entity": "mead",
-            "type": "Artifact"
-        },
-        {
-            "entity": "Sovereignty",
-            "type": "Person"
-        },
-        {
-            "entity": "Partholonians",
-            "type": "Concept"
-        },
-        {
-            "entity": "Tuatha Dé Danann",
-            "type": "Concept"
-        },
-        {
-            "entity": "Goibniu",
-            "type": "Person"
-        },
-        {
-            "entity": "Samhain",
-            "type": "Concept"
-        },
-        {
-            "entity": "Otherworld",
-            "type": "Place"
-        },
-        {
-            "entity": "Ireland",
-            "type": "Place"
-        }
-    ],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "image": [
-        "https://upload.wikimedia.org/wikipedia/commons/6/6b/Real_Ale_2004-05-09_cropped.jpg"
-    ],
-    "cyphertext": "19nbUR5xk2RnRFJSVPYHuS0GcgjXTTZ_KQ6uj814-07MLRMoIiHv1NK0UpY2FuLrMTp54Lf3HJ85-JLa-C7jD-PFjV47V_XXcDHHi-w86XaHMAWQnd3_I88StXLv4fe0AXRKt2U10KMXKnR0v8C2VUEiHkXXm1mKoS0u1QV9Vhh8UCY7xUVZvXkpk3jQ2MoHsMYPkEIpjNoyMyAhesTvXfqejd8cNRBe8uRHVMUhxGuliMo6kGIvsHw1LbWDOP4mh1H8LCSjns7JFXwLgiH8KezZV9HssL6D-xqlIKZiq_QFtF46fyiCG8dpANwaJrk8Z1gHlSkL3gWsJhw9oTv6G_N_var4IQRjWJQk2xmRBmMdyUiAbi66QB_xPD9OxaNkau7PresVjSdy1K_NeFi6mD-iZ-8pek5WbkU9OXjHbnCLQECJ7L97gs1IW0cmmH45WBJSWBPN84LyqjzG7ThvW-tQq6CaV7o-Y5baOWMi2PlsiaXVJJy9x2qxVNbe7eK3uQ8UQps2Bk8xpcfNK1oBdd_L2YY_9j0lYs2E25qRnRLw-aaYcYEAaJnmI4nIafSe4k_ljZ6-CI00UvaPlXLusonJLwB4lYFCJI6UjBRGuAcpzXRSzk0VCVYauxCU-lF6tCem8WFH0Pc7lPAEJAx5jkVru8T2l7hZs_UPHLIi1R_P2yY2xg4pxfqZVAF0jNw43M1Dfv_2XY8aPMBjo1fxCPfxl2HGPeVtgqt-Th2SVaP0lwdEv6AxoHnmEWolABsSUcpiL--2vpVrh-OilwaGFjlY1cdmDy0m3_h1rmQII7eTqfuh6hjyqnRv-cHpp2OuVp29CWuPC3PXa8zBECWXU2rrWVSIXqxlMv0NUpFlWrqCpGPpGhxNCRXQMVMI-SBkPxd_N_BS92t84Zhc1UJavdmJWAUMqKhyJ0oSdCT1lFAdlKeLeOjhv3G9tH9tChTlwb0dlTQ6A4yMqdwn2DS723r9cIDQqDx1p5lGLMbzrMebX0bJavozJRKDXGw368cEC6FkbFNYfm8sJSlG6_C-43UXo5ATExjzoTQQd03BcLAkGyYVD3C-3P7UQE3SRuvxp-vrsyWteEcSq80I-gnkygQbJxjGvRPhzrR5ZPXAMcx05eEPwHXtc-Dd-9JYmh81vxLaoy3Z9la7niG73HoCTNwA_n6mrzCDElO_QyqwPMK-MXYfniQeBTicuE7vIWQP_FKOLPzusWZ4Qga5PkdPo-bnM86QzCWW5nOPTt2STMW7iAhHdLYxriZzcLpVqViySZ1idFqG",
-    "salt": "dc9NqhJ0z0nqeHOQhwqnkQ==",
-    "text": "Ale was a sacred drink of the ancient Irish. They brewed it from hops and malt and called it dergfhlaith, the red ale. They also fermented honey into mead. The drink stood for sovereignty. The goddess of Sovereignty gave a cup of red ale to the new king at his crowning. The Partholonians, a legendary people, were said to have carried the drink to Ireland. The Tuatha Dé Danann later refined the brewing. The ale of their smith and brewer Goibniu grew so strong that the drinker gained immortality. Irish epics link ale to the festival of Samhain, when the wall between this world and the Otherworld grew thin. Archaeologists found old brewing cauldrons but no storage vessels, so the Irish may have drunk ale only in one season of the year.",
+  "name": "ale",
+  "attributes": [
+    {
+      "entity": "ale",
+      "attribute": "brewed from hops and malt as dergfhlaith"
+    },
+    {
+      "entity": "ale",
+      "attribute": "the drink stood for sovereignty"
+    },
+    {
+      "entity": "Sovereignty",
+      "attribute": "gave a cup of red ale to the new king"
+    },
+    {
+      "entity": "Goibniu",
+      "attribute": "his ale conferred immortality"
+    },
+    {
+      "entity": "ale",
+      "attribute": "linked by epics to the festival of Samhain"
+    }
+  ],
+  "entities": [
+    {
+      "entity": "ale",
+      "type": "Artifact"
+    },
+    {
+      "entity": "dergfhlaith",
+      "type": "Artifact"
+    },
+    {
+      "entity": "mead",
+      "type": "Artifact"
+    },
+    {
+      "entity": "Sovereignty",
+      "type": "Person"
+    },
+    {
+      "entity": "Partholonians",
+      "type": "Concept"
+    },
+    {
+      "entity": "Tuatha Dé Danann",
+      "type": "Concept"
+    },
+    {
+      "entity": "Goibniu",
+      "type": "Person"
+    },
+    {
+      "entity": "Samhain",
+      "type": "Concept"
+    },
+    {
+      "entity": "Otherworld",
+      "type": "Place"
+    },
+    {
+      "entity": "Ireland",
+      "type": "Place"
+    }
+  ],
+  "sources": [
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+  ],
+  "image": [
+    "https://upload.wikimedia.org/wikipedia/commons/6/6b/Real_Ale_2004-05-09_cropped.jpg"
+  ],
+  "cyphertext": "19nbUR5xk2RnRFJSVPYHuS0GcgjXTTZ_KQ6uj814-07MLRMoIiHv1NK0UpY2FuLrMTp54Lf3HJ85-JLa-C7jD-PFjV47V_XXcDHHi-w86XaHMAWQnd3_I88StXLv4fe0AXRKt2U10KMXKnR0v8C2VUEiHkXXm1mKoS0u1QV9Vhh8UCY7xUVZvXkpk3jQ2MoHsMYPkEIpjNoyMyAhesTvXfqejd8cNRBe8uRHVMUhxGuliMo6kGIvsHw1LbWDOP4mh1H8LCSjns7JFXwLgiH8KezZV9HssL6D-xqlIKZiq_QFtF46fyiCG8dpANwaJrk8Z1gHlSkL3gWsJhw9oTv6G_N_var4IQRjWJQk2xmRBmMdyUiAbi66QB_xPD9OxaNkau7PresVjSdy1K_NeFi6mD-iZ-8pek5WbkU9OXjHbnCLQECJ7L97gs1IW0cmmH45WBJSWBPN84LyqjzG7ThvW-tQq6CaV7o-Y5baOWMi2PlsiaXVJJy9x2qxVNbe7eK3uQ8UQps2Bk8xpcfNK1oBdd_L2YY_9j0lYs2E25qRnRLw-aaYcYEAaJnmI4nIafSe4k_ljZ6-CI00UvaPlXLusonJLwB4lYFCJI6UjBRGuAcpzXRSzk0VCVYauxCU-lF6tCem8WFH0Pc7lPAEJAx5jkVru8T2l7hZs_UPHLIi1R_P2yY2xg4pxfqZVAF0jNw43M1Dfv_2XY8aPMBjo1fxCPfxl2HGPeVtgqt-Th2SVaP0lwdEv6AxoHnmEWolABsSUcpiL--2vpVrh-OilwaGFjlY1cdmDy0m3_h1rmQII7eTqfuh6hjyqnRv-cHpp2OuVp29CWuPC3PXa8zBECWXU2rrWVSIXqxlMv0NUpFlWrqCpGPpGhxNCRXQMVMI-SBkPxd_N_BS92t84Zhc1UJavdmJWAUMqKhyJ0oSdCT1lFAdlKeLeOjhv3G9tH9tChTlwb0dlTQ6A4yMqdwn2DS723r9cIDQqDx1p5lGLMbzrMebX0bJavozJRKDXGw368cEC6FkbFNYfm8sJSlG6_C-43UXo5ATExjzoTQQd03BcLAkGyYVD3C-3P7UQE3SRuvxp-vrsyWteEcSq80I-gnkygQbJxjGvRPhzrR5ZPXAMcx05eEPwHXtc-Dd-9JYmh81vxLaoy3Z9la7niG73HoCTNwA_n6mrzCDElO_QyqwPMK-MXYfniQeBTicuE7vIWQP_FKOLPzusWZ4Qga5PkdPo-bnM86QzCWW5nOPTt2STMW7iAhHdLYxriZzcLpVqViySZ1idFqG",
+  "salt": "dc9NqhJ0z0nqeHOQhwqnkQ==",
+  "text": "Ale was a sacred drink of the ancient Irish. They brewed it from hops and malt and called it dergfhlaith, the red ale. They also fermented honey into mead. The drink stood for sovereignty. The goddess of Sovereignty gave a cup of red ale to the new king at his crowning. The Partholonians, a legendary people, were said to have carried the drink to Ireland. The Tuatha Dé Danann later refined the brewing. The ale of their smith and brewer Goibniu grew so strong that the drinker gained immortality. Irish epics link ale to the festival of Samhain, when the wall between this world and the Otherworld grew thin. Archaeologists found old brewing cauldrons but no storage vessels, so the Irish may have drunk ale only in one season of the year.",
+  "okr": {
     "objective": "Record ale, a sacred drink of the Irish.",
     "key_results": [
-        "Show dergfhlaith, Sovereignty, Goibniu, and the Samhain link."
+      "Show dergfhlaith, Sovereignty, Goibniu, and the Samhain link."
     ],
     "evidence": "Monaghan 2003, s.v. ale; Koch 2006, s.v. Samhain"
+  }
 }

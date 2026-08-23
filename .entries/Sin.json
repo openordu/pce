@@ -37,10 +37,12 @@
   "cyphertext": "kukYyc-BRNGA-6pT_lnAkW6j1l9SvLFvhq53IIEPRTGL_ZDx-Udf_fT6_wgYvsUTQWO01jjG5hRGrMzvsrhFmfQjnsISrPTEvuEsjaFo-FCbAJCtzq9mESa9sDmM8MPnY1d6nJhgvB-NduU3ZTnqMQJ9Y29YS8pBBbfU4p97Prq_NJAOeulGNp-24wSrBms4g_-2Zj0VWjsg9lggPWfXlAAPJD5eotS2C6UR5gYAUXoh7zv_x0x9i-31CKvpLleVqy9O6BBFbu2oIJ1rhxPjN2aRQ-IRNV5YjuICyqxXR5DnQZz_TkflWgMUgTSExnWb8D59SAw5LgtMaBFpwJT7W6cNwalva_aU-jyHH_RcevEsEdt5oEe8YeV2a08Z05wHMOBp5U5E70XY67r3aRmYZYkFm_F7PmYtTsyWKzyMFy2Qv7bnLRMjJbPfWOZWLw2_qzLMKkuRiD13yXxI9MQnIjttDHTKQL-qyhqBTZmNzQ2CHSAL7oK-T8GJHMbcgQCvbs5Cue1ss2WgfbZ_5Q==",
   "salt": "1mvylMXHHQEdSGDQxNMFOw==",
   "text": "Sin is an Irish heroine. She is a fairy woman. Scholars see her as a remnant of an early goddess. She made wine from water. She made swine from leaves. She fed the warriors she had called up with her spells. She appears in a tale of the king Muircertach mac Erc. Sin seduced the king and drove him mad. She sought to punish him for killing her family when she was a child. Her magic turns his power against him.",
-  "objective": "Replace the machine text for Sin with a fresh CSG-SME1000 rewrite from Monaghan.",
-  "key_results": [
-    "The text holds a fresh CSG-SME1000 rewrite, not a copy of the machine text",
-    "entities and attributes corrected and enriched for the kgraph"
-  ],
-  "evidence": "Monaghan 2003 (Sin; Muircertach mac Erc)."
+  "okr": {
+    "objective": "Replace the machine text for Sin with a fresh CSG-SME1000 rewrite from Monaghan.",
+    "key_results": [
+      "The text holds a fresh CSG-SME1000 rewrite, not a copy of the machine text",
+      "entities and attributes corrected and enriched for the kgraph"
+    ],
+    "evidence": "Monaghan 2003 (Sin; Muircertach mac Erc)."
+  }
 }

@@ -34,10 +34,12 @@
   "cyphertext": "grXbcrA5wqHA6sXFgcPk0Aq2L6tkgC4EKxe3d-eqQiCFGdrZWgj1FNSehQQbUes=",
   "salt": "_O78URLmJ-rP8c4gybJAaQ==",
   "text": "The siren is a figure of Greek myth, not a native of the Celtic shore. She appears as a bird, or as a singing maiden who lures sailors to the deep. In the folklore of the Celtic lands the siren merges with the mermaid. The mermaid is a half-human, half-fish being who lives in the shallow coastal water. She often tries to draw people into the brine and to their death. Her sweet singing lulls folk to sleep so the water can drown them. Mermaids were said to love brandy, and they wrecked ships to reach the bottles. A mermaid wears a small cap called the cohuleen druith. The cap lets her swim in safety under the waves. If a man takes the cap, the mermaid stays with him as his wife. If she finds the cap again, she returns to the sea and leaves her family behind. The siren and the mermaid share the fatal song and the pull of the deep water.",
-  "objective": "Replace the machine text for siren with a fresh CSG-SME1000 rewrite sourced from Monaghan.",
-  "key_results": [
-    "text holds a fresh CSG-SME1000 rewrite, not a copy of the machine prose",
-    "entities and attributes corrected and enriched for the kgraph"
-  ],
-  "evidence": "Monaghan 2003 (siren cross-ref; mermaid entry)."
+  "okr": {
+    "objective": "Replace the machine text for siren with a fresh CSG-SME1000 rewrite sourced from Monaghan.",
+    "key_results": [
+      "text holds a fresh CSG-SME1000 rewrite, not a copy of the machine prose",
+      "entities and attributes corrected and enriched for the kgraph"
+    ],
+    "evidence": "Monaghan 2003 (siren cross-ref; mermaid entry)."
+  }
 }

@@ -1,58 +1,60 @@
 {
-    "name": "Aillén (Ellen, Aillene)",
-    "entities": [
-        {
-            "entity": "Aillén",
-            "type": "Person"
-        },
-        {
-            "entity": "Aillén mac Midgna",
-            "type": "Person"
-        },
-        {
-            "entity": "Aillén Trechenn",
-            "type": "Being"
-        },
-        {
-            "entity": "Tara",
-            "type": "Place"
-        },
-        {
-            "entity": "Áine",
-            "type": "Person"
-        }
-    ],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "attributes": [
-        {
-            "entity": "Aillén",
-            "attribute": "a name borne by heroes, heroines, and spirits"
-        },
-        {
-            "entity": "Aillén",
-            "attribute": "the name is related to words for sprite and monster"
-        },
-        {
-            "entity": "Aillén mac Midgna",
-            "attribute": "the most famous bearer, the burner of Tara"
-        },
-        {
-            "entity": "Aillén Trechenn",
-            "attribute": "a triple-headed monster"
-        },
-        {
-            "entity": "Aillén",
-            "attribute": "one bearer is the brother of the goddess Áine"
-        }
-    ],
-    "cyphertext": "sVgGN20btSNugj6Xmu-9vD2MzcUvim4AFGGVoIiaVBSx3g8592VyRGXmpU_8Noyx74P9DRoynhHJv2RMdLuoMylmafyAPX5Rnt2h7CKlp5N-lls9wyTXQGAquek66TfZfq7mWJ0XXCMlybrDBHvYl5orKzMwCfYAh1J7OlcdoBSxcWMcJgU08UsORWYemRtXYcp_6y8DJUhSQtK32sLkJGmb81Nx9TeBDcVz-s2mRfLsEQRd8BOZd9aShRNYcVIpi7Qo06FUYEz-Omhab5gIE0mPWSy1dYhbD0JeumynI9oGDFPquhfIe3qmlNSfdOMjaNDwrUWCCviXJtwFp23zi4BilXicviuzqyj6JW0a-xj4q6A9vWOno9z5TcZdFwe2LJdgvfOX",
-    "salt": "hDl_p6Mo4KEJQOwunmUnaw==",
-    "text": "Aillén, also written Ellen or Aillene, is a name given to a number of legendary Irish figures. A bearer of the name may be a hero, a heroine, or a spirit. The name is related to Irish words for sprite and for monster. Several of the figures who bear it are so similar that they may be the same being, or descendants of one original. The most famous is Aillén mac Midgna, the burner of Tara. Another is Aillén Trechenn, the triple-headed monster. A third is the brother of the goddess Áine.",
+  "name": "Aillén (Ellen, Aillene)",
+  "entities": [
+    {
+      "entity": "Aillén",
+      "type": "Person"
+    },
+    {
+      "entity": "Aillén mac Midgna",
+      "type": "Person"
+    },
+    {
+      "entity": "Aillén Trechenn",
+      "type": "Being"
+    },
+    {
+      "entity": "Tara",
+      "type": "Place"
+    },
+    {
+      "entity": "Áine",
+      "type": "Person"
+    }
+  ],
+  "sources": [
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+  ],
+  "attributes": [
+    {
+      "entity": "Aillén",
+      "attribute": "a name borne by heroes, heroines, and spirits"
+    },
+    {
+      "entity": "Aillén",
+      "attribute": "the name is related to words for sprite and monster"
+    },
+    {
+      "entity": "Aillén mac Midgna",
+      "attribute": "the most famous bearer, the burner of Tara"
+    },
+    {
+      "entity": "Aillén Trechenn",
+      "attribute": "a triple-headed monster"
+    },
+    {
+      "entity": "Aillén",
+      "attribute": "one bearer is the brother of the goddess Áine"
+    }
+  ],
+  "cyphertext": "sVgGN20btSNugj6Xmu-9vD2MzcUvim4AFGGVoIiaVBSx3g8592VyRGXmpU_8Noyx74P9DRoynhHJv2RMdLuoMylmafyAPX5Rnt2h7CKlp5N-lls9wyTXQGAquek66TfZfq7mWJ0XXCMlybrDBHvYl5orKzMwCfYAh1J7OlcdoBSxcWMcJgU08UsORWYemRtXYcp_6y8DJUhSQtK32sLkJGmb81Nx9TeBDcVz-s2mRfLsEQRd8BOZd9aShRNYcVIpi7Qo06FUYEz-Omhab5gIE0mPWSy1dYhbD0JeumynI9oGDFPquhfIe3qmlNSfdOMjaNDwrUWCCviXJtwFp23zi4BilXicviuzqyj6JW0a-xj4q6A9vWOno9z5TcZdFwe2LJdgvfOX",
+  "salt": "hDl_p6Mo4KEJQOwunmUnaw==",
+  "text": "Aillén, also written Ellen or Aillene, is a name given to a number of legendary Irish figures. A bearer of the name may be a hero, a heroine, or a spirit. The name is related to Irish words for sprite and for monster. Several of the figures who bear it are so similar that they may be the same being, or descendants of one original. The most famous is Aillén mac Midgna, the burner of Tara. Another is Aillén Trechenn, the triple-headed monster. A third is the brother of the goddess Áine.",
+  "okr": {
     "objective": "Record the name Aillén and its several legendary bearers.",
     "key_results": [
-        "List the shared name origin, then the three principal bearers."
+      "List the shared name origin, then the three principal bearers."
     ],
     "evidence": "Monaghan 2003, s.v. Aillén (Ellen, Aillene)"
+  }
 }

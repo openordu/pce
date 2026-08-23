@@ -1,95 +1,97 @@
 {
- "name": "adventure",
- "attributes": [
-  {
-   "entity": "Adventure (echtra)",
-   "attribute": "Irish literary form with mythological material"
-  },
-  {
-   "entity": "Adventure (echtra)",
-   "attribute": "often includes a journey to the Otherworld"
-  },
-  {
-   "entity": "Voyages (imram)",
-   "attribute": "a class of tales describing Otherworld visits"
-  },
-  {
-   "entity": "Art Son of Conn",
-   "attribute": "subject of an Adventure desired by Bé Chuma"
-  },
-  {
-   "entity": "Nera",
-   "attribute": "entered the Otherworld through the cave of Cruachan"
-  },
-  {
-   "entity": "Connla",
-   "attribute": "lured to the Otherworld by a fairy woman"
-  },
-  {
-   "entity": "Cormac",
-   "attribute": "drawn by fairy music to seek an Otherworld lover"
-  },
-  {
-   "entity": "Laoghaire (Mac Crimthann)",
-   "attribute": "helped an Otherworld peer free his wife"
+  "name": "adventure",
+  "attributes": [
+    {
+      "entity": "Adventure (echtra)",
+      "attribute": "Irish literary form with mythological material"
+    },
+    {
+      "entity": "Adventure (echtra)",
+      "attribute": "often includes a journey to the Otherworld"
+    },
+    {
+      "entity": "Voyages (imram)",
+      "attribute": "a class of tales describing Otherworld visits"
+    },
+    {
+      "entity": "Art Son of Conn",
+      "attribute": "subject of an Adventure desired by Bé Chuma"
+    },
+    {
+      "entity": "Nera",
+      "attribute": "entered the Otherworld through the cave of Cruachan"
+    },
+    {
+      "entity": "Connla",
+      "attribute": "lured to the Otherworld by a fairy woman"
+    },
+    {
+      "entity": "Cormac",
+      "attribute": "drawn by fairy music to seek an Otherworld lover"
+    },
+    {
+      "entity": "Laoghaire (Mac Crimthann)",
+      "attribute": "helped an Otherworld peer free his wife"
+    }
+  ],
+  "entities": [
+    {
+      "entity": "Adventure (echtra)",
+      "type": "Concept"
+    },
+    {
+      "entity": "Otherworld",
+      "type": "Place"
+    },
+    {
+      "entity": "Voyages (imram)",
+      "type": "Concept"
+    },
+    {
+      "entity": "Art Son of Conn",
+      "type": "Person"
+    },
+    {
+      "entity": "Bé Chuma",
+      "type": "Being"
+    },
+    {
+      "entity": "Nera",
+      "type": "Person"
+    },
+    {
+      "entity": "Cruachan",
+      "type": "Place"
+    },
+    {
+      "entity": "Connla",
+      "type": "Person"
+    },
+    {
+      "entity": "Cormac",
+      "type": "Person"
+    },
+    {
+      "entity": "Laoghaire (Mac Crimthann)",
+      "type": "Person"
+    }
+  ],
+  "sources": [
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+  ],
+  "image": [
+    "https://upload.wikimedia.org/wikipedia/commons/a/ab/Whitewater_Rafting_-_geograph.org.uk_-_1530594.jpg"
+  ],
+  "cyphertext": "hOEjSJ0xF8svt-Fp3a1tV87Da2ez6aDSrEVLolomHzRt197IsVExIXgsI3-h9MSV4Yg9nOqboUc8cQHlGNqINPZqCraGh--zKuKLEgIBDaZLHolDAajR4Rcsq5hWrrt53cHg5vNSYLwdjLmjK_xS0mNJqa_uIjIEHj4kIWrSECapTq6KBUg4yfbMC7noCc_8AC6O5bDO2pDDYk1HykgUKOCdWQ2SSQq5zr1Yi1ZVG5BlPiM9SLDbti4EdcHLAuaUDjn0wsBILdafbEsfC0yoXuPTM1rnJWVRZPDQWfhZUoAg84HHd6o8tGulzOKWYzKpGwuuc3rIIIVRg_9FLebDMf5dOxtVLnlcpiag6ZqtyDWaHKeIcXQjxk9N80vRPJ9_jh91jkp7pxNWUzDgA-lSez4a-FqIW1fYvCbQzNiPMelcpDqwUZvHplrkkL0WTgz8b8FGnVL6SueCaCTWZeqFcn9PVMVsqyY-HAwLK3SeQvthGFjWBhOBWhzx_Rc8BsdQe1KfpRGauimKnq8CCbqKXZ641aqdQ7BYVQ8cLOcAzEt686Jc5NP-ty5fQlJGSQzgyOMW5DPOY9_iRJaa5IDv2CQAJncTQTAEXoY816kq3q9GQchPWaGPVOjnteNdjdJZ-dWEc38ZaRs3C29OAEXG0rEN9gHFjzI9nb_KjFQG2H3VYHwJ2WN2eav0qM9J40G8skgyWzA7wpPbVZlwVBY78e3JFxFxNTjuqN5ll-OU27hSQqiZxiHBJrC003ggnDd8OOsLsSd9IyRE0dMRLKwBjW7yZWyGpPYv1LwD94uuSVbtnNnTnngkpPTXOLASuGqNoe7ITis1OQ91u8kuP9HJq5caQDC_CRs22Zmf24eeAXbsNRr_zG7zv7GJeXtU5TrOKQzvB1YLijCMz5koojVT7NlcRr3WpfinAUUon3L70n-ZO6GGDvH5KGJZ3PdMtTOSI33o-bnLopeRx9GwVgnKjjSzCbHd7-I-y_lsuA5Gr3HBNJV2k4z5z3zTDtH8LywbhKAZ7pOydJMLwXcdm5TDScrTeH7oqh-T3FTF1kfmqrGOikS2N_6fXq-Hzl1IZK9vmytLonepaKy1MRRaoKpAHljzLx_3EfL8dPGFMK4xskBu5290iuar1ARU0J9_SysnTiEEURHRbNqivp_clY47Upl33hAEtKK0XTepsPhGm7bVC7RPx4ppw4OMGEZdTsLkZNWvZ5fX_c0c5_jtpaIl-J0s3kNRdtqS-WrmGHitdlZxxRHLB8wEMwk1YrMQRB-S_FrHA9BjAy4IFo_itMKT0az8gKWefHmAvE90ecBCW0UVmqgs9omHrYE1002CBIZFIZaPgjxEstEHa1kP",
+  "salt": "CcacwuIbMVxb7i9X0gOD-A==",
+  "text": "Adventure (echtra) is an Irish literary form. These tales often hold mythological material. Many Adventures include a journey to the Otherworld. The class of stories called Voyages (imram) also describes visits to the Otherworld. Famous texts of the genre include the Adventure of Art Son of Conn, in which the fairy woman Bé Chuma desires Art, the son of the king of Tara. The Adventure of the Sons of Eochaid (Mugmedón) tells the birth of Niall, another king of Tara. In the Adventure of Nera, a warrior reaches the Otherworld through the cave of Cruachan. In the Adventure of Connla, a fairy woman lures Connla to the Otherworld. In the Adventure of Cormac, fairy music draws that king to seek an Otherworld lover. In the Adventure of Laoghaire (Mac Crimthann), the king helps a peer from the Otherworld release his wife from captivity in the surface world.",
+  "okr": {
+    "objective": "Describe Adventure (echtra) as an Irish literary form and list its famous texts.",
+    "key_results": [
+      "Defines Adventure (echtra) as an Irish literary form",
+      "States many Adventures include a journey to the Otherworld",
+      "Lists the famous texts of the genre."
+    ],
+    "evidence": "Monaghan, The Encyclopedia of Celtic Mythology and Folklore, s.v. adventure."
   }
- ],
- "entities": [
-  {
-   "entity": "Adventure (echtra)",
-   "type": "Concept"
-  },
-  {
-   "entity": "Otherworld",
-   "type": "Place"
-  },
-  {
-   "entity": "Voyages (imram)",
-   "type": "Concept"
-  },
-  {
-   "entity": "Art Son of Conn",
-   "type": "Person"
-  },
-  {
-   "entity": "Bé Chuma",
-   "type": "Being"
-  },
-  {
-   "entity": "Nera",
-   "type": "Person"
-  },
-  {
-   "entity": "Cruachan",
-   "type": "Place"
-  },
-  {
-   "entity": "Connla",
-   "type": "Person"
-  },
-  {
-   "entity": "Cormac",
-   "type": "Person"
-  },
-  {
-   "entity": "Laoghaire (Mac Crimthann)",
-   "type": "Person"
-  }
- ],
- "sources": [
-  "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
- ],
- "image": [
-  "https://upload.wikimedia.org/wikipedia/commons/a/ab/Whitewater_Rafting_-_geograph.org.uk_-_1530594.jpg"
- ],
- "cyphertext": "hOEjSJ0xF8svt-Fp3a1tV87Da2ez6aDSrEVLolomHzRt197IsVExIXgsI3-h9MSV4Yg9nOqboUc8cQHlGNqINPZqCraGh--zKuKLEgIBDaZLHolDAajR4Rcsq5hWrrt53cHg5vNSYLwdjLmjK_xS0mNJqa_uIjIEHj4kIWrSECapTq6KBUg4yfbMC7noCc_8AC6O5bDO2pDDYk1HykgUKOCdWQ2SSQq5zr1Yi1ZVG5BlPiM9SLDbti4EdcHLAuaUDjn0wsBILdafbEsfC0yoXuPTM1rnJWVRZPDQWfhZUoAg84HHd6o8tGulzOKWYzKpGwuuc3rIIIVRg_9FLebDMf5dOxtVLnlcpiag6ZqtyDWaHKeIcXQjxk9N80vRPJ9_jh91jkp7pxNWUzDgA-lSez4a-FqIW1fYvCbQzNiPMelcpDqwUZvHplrkkL0WTgz8b8FGnVL6SueCaCTWZeqFcn9PVMVsqyY-HAwLK3SeQvthGFjWBhOBWhzx_Rc8BsdQe1KfpRGauimKnq8CCbqKXZ641aqdQ7BYVQ8cLOcAzEt686Jc5NP-ty5fQlJGSQzgyOMW5DPOY9_iRJaa5IDv2CQAJncTQTAEXoY816kq3q9GQchPWaGPVOjnteNdjdJZ-dWEc38ZaRs3C29OAEXG0rEN9gHFjzI9nb_KjFQG2H3VYHwJ2WN2eav0qM9J40G8skgyWzA7wpPbVZlwVBY78e3JFxFxNTjuqN5ll-OU27hSQqiZxiHBJrC003ggnDd8OOsLsSd9IyRE0dMRLKwBjW7yZWyGpPYv1LwD94uuSVbtnNnTnngkpPTXOLASuGqNoe7ITis1OQ91u8kuP9HJq5caQDC_CRs22Zmf24eeAXbsNRr_zG7zv7GJeXtU5TrOKQzvB1YLijCMz5koojVT7NlcRr3WpfinAUUon3L70n-ZO6GGDvH5KGJZ3PdMtTOSI33o-bnLopeRx9GwVgnKjjSzCbHd7-I-y_lsuA5Gr3HBNJV2k4z5z3zTDtH8LywbhKAZ7pOydJMLwXcdm5TDScrTeH7oqh-T3FTF1kfmqrGOikS2N_6fXq-Hzl1IZK9vmytLonepaKy1MRRaoKpAHljzLx_3EfL8dPGFMK4xskBu5290iuar1ARU0J9_SysnTiEEURHRbNqivp_clY47Upl33hAEtKK0XTepsPhGm7bVC7RPx4ppw4OMGEZdTsLkZNWvZ5fX_c0c5_jtpaIl-J0s3kNRdtqS-WrmGHitdlZxxRHLB8wEMwk1YrMQRB-S_FrHA9BjAy4IFo_itMKT0az8gKWefHmAvE90ecBCW0UVmqgs9omHrYE1002CBIZFIZaPgjxEstEHa1kP",
- "salt": "CcacwuIbMVxb7i9X0gOD-A==",
- "text": "Adventure (echtra) is an Irish literary form. These tales often hold mythological material. Many Adventures include a journey to the Otherworld. The class of stories called Voyages (imram) also describes visits to the Otherworld. Famous texts of the genre include the Adventure of Art Son of Conn, in which the fairy woman Bé Chuma desires Art, the son of the king of Tara. The Adventure of the Sons of Eochaid (Mugmedón) tells the birth of Niall, another king of Tara. In the Adventure of Nera, a warrior reaches the Otherworld through the cave of Cruachan. In the Adventure of Connla, a fairy woman lures Connla to the Otherworld. In the Adventure of Cormac, fairy music draws that king to seek an Otherworld lover. In the Adventure of Laoghaire (Mac Crimthann), the king helps a peer from the Otherworld release his wife from captivity in the surface world.",
- "objective": "Describe Adventure (echtra) as an Irish literary form and list its famous texts.",
- "key_results": [
-  "Defines Adventure (echtra) as an Irish literary form",
-  "States many Adventures include a journey to the Otherworld",
-  "Lists the famous texts of the genre."
- ],
- "evidence": "Monaghan, The Encyclopedia of Celtic Mythology and Folklore, s.v. adventure."
 }

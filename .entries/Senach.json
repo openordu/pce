@@ -26,10 +26,12 @@
   "cyphertext": "27QiLFk2lFzFax_9-wZK9V66n_-4QkekHzVOsDQ35KMEeEeKD1lWVbrpVztzCvCPURurH-dYov-NFprnRUlliBxr5F2MM-yzPGb13ts3Oe-nCbZM-r2N1Lb0SnzNkLA7dzZ5BofKg8kPXHRZZ_H8A4Dy8ZaoPg51nPwrp23-nKbUvnwfPOogx7fBYAkK9msRyvAVWv_sQAJW16eBdKqbnxIAQutQuwc365_aQpE-MydgrJjYfi6IqtMtBSAdKXeWhHuHuR5v4F-zxg==",
   "salt": "YSPYBWhWOlTvBmrbXDn-Hg==",
   "text": "Senach is an Irish goddess. The record of her is thin. A magical charm names her. The charm gives her command of seven periods of time, the seven turns of the year that the old text counts. Fairy women nursed her, and that one line links her to the fairy men of the earth. Few other facts survive. Her name and her power live only in that charm. She is one of many gods and goddesses whose whole mark on the record is a single line. The charm is the only gate to her, and it tells us that her rule reached across the span of years.",
-  "objective": "Erase the machine text for Senach and replace it with a fresh CSG-SME1000 rewrite sourced from the PDFs.",
-  "key_results": [
-    "text holds a fresh CSG-SME1000 rewrite, not a copy of the machine prose",
-    "entities and attributes corrected and enriched for the kgraph"
-  ],
-  "evidence": "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2003."
+  "okr": {
+    "objective": "Erase the machine text for Senach and replace it with a fresh CSG-SME1000 rewrite sourced from the PDFs.",
+    "key_results": [
+      "text holds a fresh CSG-SME1000 rewrite, not a copy of the machine prose",
+      "entities and attributes corrected and enriched for the kgraph"
+    ],
+    "evidence": "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2003."
+  }
 }

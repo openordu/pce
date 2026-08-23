@@ -1,33 +1,35 @@
 {
-    "name": "All Saints’ Day",
-    "attributes": [
-        {
-            "entity": "All Saints' Day",
-            "attribute": "the church name for Samhain"
-        }
-    ],
-    "entities": [
-        {
-            "entity": "All Saints' Day",
-            "type": "Concept"
-        },
-        {
-            "entity": "Samhain",
-            "type": "Concept"
-        }
-    ],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "image": [
-        "https://upload.wikimedia.org/wikipedia/commons/e/e0/All-Saints.jpg"
-    ],
-    "cyphertext": "uCv3q1A2tDP_dIF4ZJpDeZZoBzNiZ9OgQYecUOxG6nIQkjZQPCgu9uDdI3xJgOdICKsTDNCtyJnTejUI",
-    "salt": "rLY8lnDBzTs_QDK_TMVN_w==",
-    "text": "All Saints' Day is the later church name for the Celtic festival of Samhain.",
+  "name": "All Saints’ Day",
+  "attributes": [
+    {
+      "entity": "All Saints' Day",
+      "attribute": "the church name for Samhain"
+    }
+  ],
+  "entities": [
+    {
+      "entity": "All Saints' Day",
+      "type": "Concept"
+    },
+    {
+      "entity": "Samhain",
+      "type": "Concept"
+    }
+  ],
+  "sources": [
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+  ],
+  "image": [
+    "https://upload.wikimedia.org/wikipedia/commons/e/e0/All-Saints.jpg"
+  ],
+  "cyphertext": "uCv3q1A2tDP_dIF4ZJpDeZZoBzNiZ9OgQYecUOxG6nIQkjZQPCgu9uDdI3xJgOdICKsTDNCtyJnTejUI",
+  "salt": "rLY8lnDBzTs_QDK_TMVN_w==",
+  "text": "All Saints' Day is the later church name for the Celtic festival of Samhain.",
+  "okr": {
     "objective": "Record All Saints' Day as the church name for Samhain.",
     "key_results": [
-        "Point the reader to Samhain."
+      "Point the reader to Samhain."
     ],
     "evidence": "Monaghan 2003, s.v. All Saints' Day; Koch 2006, s.v. Samhain"
+  }
 }

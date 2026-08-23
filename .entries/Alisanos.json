@@ -1,54 +1,56 @@
 {
-    "name": "Alisanos",
-    "attributes": [
-        {
-            "entity": "Alisanos",
-            "attribute": "an obscure Continental Celtic god"
-        },
-        {
-            "entity": "Alisanos",
-            "attribute": "his name may have named the town Alesia"
-        },
-        {
-            "entity": "Alesia",
-            "attribute": "a Celtic oppidum, capital of the Mandubii"
-        },
-        {
-            "entity": "Alesia",
-            "attribute": "site of the last Gaul-Roman battle in 52 BC"
-        }
-    ],
-    "entities": [
-        {
-            "entity": "Alisanos",
-            "type": "Person"
-        },
-        {
-            "entity": "Alesia",
-            "type": "Place"
-        },
-        {
-            "entity": "Mandubii",
-            "type": "Concept"
-        },
-        {
-            "entity": "Burgundy",
-            "type": "Place"
-        },
-        {
-            "entity": "Gaul",
-            "type": "Place"
-        }
-    ],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "cyphertext": "isjZnEFjxnW_LpbmZgBCl8fLL-XaHkJ281cM5lUefnFXHKvi2sI7XosEVT1WMXpZhk3XdrrLz-B3rfcw1XTsukAyP-5xCrgAfZW2rTgsWQFoKbJ9w5soS6kqCIlraBUGvFtODbggkKU9B_6zWNWWi1PE9t2BXXUWd67ObNcA_L2vF1sqkLACYokFC8cgyvgq9uTq5ksMY4nXoApF-N0R_i_xgKqXGCnroSb19Fl0i3g5oD-9MpvxJxbFI7Z5fZrOgCbwzvjbgxJowcFJjjiyt1-ZP4RqXNZc",
-    "salt": "94opBsqYzC0hMSNu4cVlCg==",
-    "text": "Alisanos, also Alisanus, is an obscure Continental Celtic god of the Gauls. His name may have been given to the great settlement of Alesia. The name is read in different ways: as stone, as alder, or as rowan. Koch derives the second element from the alder tree. Alesia was a Celtic oppidum, the capital of the Mandubii in Burgundy, and the site of the last fight between the Gauls and the Romans in 52 BC.",
+  "name": "Alisanos",
+  "attributes": [
+    {
+      "entity": "Alisanos",
+      "attribute": "an obscure Continental Celtic god"
+    },
+    {
+      "entity": "Alisanos",
+      "attribute": "his name may have named the town Alesia"
+    },
+    {
+      "entity": "Alesia",
+      "attribute": "a Celtic oppidum, capital of the Mandubii"
+    },
+    {
+      "entity": "Alesia",
+      "attribute": "site of the last Gaul-Roman battle in 52 BC"
+    }
+  ],
+  "entities": [
+    {
+      "entity": "Alisanos",
+      "type": "Person"
+    },
+    {
+      "entity": "Alesia",
+      "type": "Place"
+    },
+    {
+      "entity": "Mandubii",
+      "type": "Concept"
+    },
+    {
+      "entity": "Burgundy",
+      "type": "Place"
+    },
+    {
+      "entity": "Gaul",
+      "type": "Place"
+    }
+  ],
+  "sources": [
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+  ],
+  "cyphertext": "isjZnEFjxnW_LpbmZgBCl8fLL-XaHkJ281cM5lUefnFXHKvi2sI7XosEVT1WMXpZhk3XdrrLz-B3rfcw1XTsukAyP-5xCrgAfZW2rTgsWQFoKbJ9w5soS6kqCIlraBUGvFtODbggkKU9B_6zWNWWi1PE9t2BXXUWd67ObNcA_L2vF1sqkLACYokFC8cgyvgq9uTq5ksMY4nXoApF-N0R_i_xgKqXGCnroSb19Fl0i3g5oD-9MpvxJxbFI7Z5fZrOgCbwzvjbgxJowcFJjjiyt1-ZP4RqXNZc",
+  "salt": "94opBsqYzC0hMSNu4cVlCg==",
+  "text": "Alisanos, also Alisanus, is an obscure Continental Celtic god of the Gauls. His name may have been given to the great settlement of Alesia. The name is read in different ways: as stone, as alder, or as rowan. Koch derives the second element from the alder tree. Alesia was a Celtic oppidum, the capital of the Mandubii in Burgundy, and the site of the last fight between the Gauls and the Romans in 52 BC.",
+  "okr": {
     "objective": "Record Alisanos, a Gaulish god.",
     "key_results": [
-        "Show his name, Alesia, and the readings of the name."
+      "Show his name, Alesia, and the readings of the name."
     ],
     "evidence": "Monaghan 2003, s.v. Alisanos; Koch 2006, s.v. Alesia"
+  }
 }
