@@ -3,57 +3,33 @@
     "attributes": [
         {
             "entity": "Geodruisge",
-            "attribute": "Irish folkloric figure"
+            "attribute": "is an Irish folkloric giant from County Mayo"
         },
         {
-            "entity": "Co. Mayo",
-            "attribute": "location"
+            "entity": "Geodruisge",
+            "attribute": "had a palace at Downpatrick Head called Dun Geodruisge"
         },
         {
-            "entity": "Downpatrick Head",
-            "attribute": "local name: D\u00fan Geodruisge"
+            "entity": "Geodruisge",
+            "attribute": "stole cattle from a powerful witch"
         },
         {
-            "entity": "Cattle",
-            "attribute": "stolen by Geodruisge"
-        },
-        {
-            "entity": "Witch",
-            "attribute": "powerful"
-        },
-        {
-            "entity": "palace",
-            "attribute": "belonging to Geodruisge"
-        },
-        {
-            "entity": "mainland",
-            "attribute": "where Geodruisge's palace broke off from"
-        },
-        {
-            "entity": "thieving giant",
-            "attribute": "Geodruisge"
-        },
-        {
-            "entity": "sea",
-            "attribute": "where Geodruisge was sent"
+            "entity": "Geodruisge",
+            "attribute": "was cursed so his palace broke from the mainland"
         }
     ],
     "entities": [
         {
             "entity": "Geodruisge",
-            "type": "folkloric figure"
-        },
-        {
-            "entity": "Co. Mayo",
-            "type": "location"
+            "type": "Creature"
         },
         {
             "entity": "Downpatrick Head",
-            "type": "location"
+            "type": "Place"
         },
         {
-            "entity": "Witch",
-            "type": "folkloric figure"
+            "entity": "Dun Geodruisge",
+            "type": "Place"
         }
     ],
     "sources": [
@@ -61,5 +37,14 @@
     ],
     "cyphertext": "v5omLFojj46BoBNC0Q-nDxjkgtk4YV6dRJojYFcTdVNtp_9cV1TF0N6tM4BnFufTKRM7NcajRfBUTSP7CSWtvJ550gVvHo-U3P-vOAT-xcV7KSgiBoqXGVGMNaEEf3QKfysLRIYuCIDjHAQTLHwdhkC_HzMXbqwLjmvoOaiZ1LkSVP29YiFOBKTyNFkToD2nB6bSpQuKuwf3WTOHdpS2Sjx63w-3Dv79AqG62c37jDF5Fx6nr_S0z_XJLBwapXS2JMxPAJsjrzwopHHEHfp47ZxdpP6ulYZdK4Km3sKZSxfZYaXxNC5xzwlWKBKI1-5WE33W3QWfCtd2IrMLYr9Te5nSDfBqR5rHkL1yPny35P0Ed1lUJP5paL2RsDSQ6FS0Pbsvme0uNXRh",
     "salt": "T03Y3wCzpPUYp_0iO5Q9SQ==",
-    "text": "A prominent figure in Irish folklore is Geodruisge. Belonging to Co. Mayo, he was a gigantic being with a palace located on Downpatrick Head, known as D\u00fan Geodruisge by the locals. This colossal creature committed the act of stealing cattle owned by a mighty witch, resulting in her putting a curse on him. As a result, his palace detached from the mainland, causing Geodruisge to be swept away to sea."
+    "text": "Geodruisge is an Irish folkloric giant. He came from County Mayo. His palace stood on Downpatrick Head, locally called Dun Geodruisge. He stole cattle from a powerful witch, who cursed him so that his palace broke from the mainland. The thieving giant then drifted out to sea.",
+    "okr": {
+        "objective": "Document Geodruisge as a cursed Irish giant of County Mayo.",
+        "key_results": [
+            "Establish Geodruisge as a Creature-typed giant",
+            "Record the palace site at Downpatrick Head",
+            "Record the witch's curse that carried him out to sea"
+        ],
+        "evidence": "Monaghan, The Encyclopedia of Celtic Mythology and Folklore, 2003"
+    }
 }

@@ -1,12 +1,27 @@
 {
     "name": "George",
-    "attributes": {},
-    "entities": [
+    "attributes": [
         {
-            "text": "George See St"
+            "entity": "George",
+            "attribute": "redirects to the entry ST. GEORGE"
         },
         {
-            "text": "George"
+            "entity": "St. George",
+            "attribute": "is the patron saint of England"
+        },
+        {
+            "entity": "St. George",
+            "attribute": "is not a native Celtic divinity"
+        }
+    ],
+    "entities": [
+        {
+            "entity": "George",
+            "type": "Concept"
+        },
+        {
+            "entity": "St. George",
+            "type": "Title"
         }
     ],
     "sources": [
@@ -14,5 +29,13 @@
     ],
     "cyphertext": "QizNOKZ3bAFfnZ34lJPaY_ZEzOdo7ZBMAdNznFoEdhE45_8GSMcoYlzm6npdS2ChnqyO",
     "salt": "zJol4LQhugMJ2pp6jjOwzA==",
-    "text": "George See St. George."
+    "text": "George is a redirect entry. St. George is the patron saint of England. His figure is not a native Celtic divinity. For the full treatment, see the entry s.v. ST. GEORGE.",
+    "okr": {
+        "objective": "Keep George as a short redirect cross-reference to ST. GEORGE.",
+        "key_results": [
+            "Classify George as a Concept-typed cross-reference",
+            "Record that the figure of St. George is not a native Celtic divinity"
+        ],
+        "evidence": "s.v. ST. GEORGE"
+    }
 }

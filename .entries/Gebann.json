@@ -3,15 +3,15 @@
     "entities": [
         {
             "entity": "Gebann",
-            "type": "Irish god"
+            "type": "Deity"
         },
         {
-            "entity": "Cl\u00eddna",
-            "type": "goddess"
+            "entity": "Clidna",
+            "type": "Person"
         },
         {
-            "entity": "Manann\u00e1n Mac Lir",
-            "type": "sea god"
+            "entity": "Manannan Mac Lir",
+            "type": "Deity"
         }
     ],
     "sources": [
@@ -20,14 +20,27 @@
     "attributes": [
         {
             "entity": "Gebann",
-            "attribute": "father of Cl\u00eddna"
+            "attribute": "is an obscure Irish god"
         },
         {
             "entity": "Gebann",
-            "attribute": "chief Druid of Manann\u00e1n Mac Lir"
+            "attribute": "is the father of the goddess Clidna"
+        },
+        {
+            "entity": "Gebann",
+            "attribute": "serves as chief druid to the sea god Manannan Mac Lir"
         }
     ],
     "cyphertext": "eqFYAhBu81CbPR__a4myPcmuLhwTz061cQCpFuFaZePnvqjDk1ltanuC9iE2mntoGYOgu2HJzuHMbIP6X9CIJEiYGoxgoDvbYGXR9T8jjtObByjDq6-YRFB2bNrPy6hPErE8W_8WyGzTTeLg_AGd5AfPRh96ta2DVfPcf7XMLVTlc7S_f3jXKSVE-p7Cu7U_IvZSvE7fdYazPnz0jwS1D2Qj-BZrDdYTrIguwFK8TcBAn569KgY=",
     "salt": "YxpWHXndPA91sxCXRxvxwQ==",
-    "text": "An elusive figure in Irish mythology, Gebann is recognized solely as both the patriarch of the stunning Cl\u00eddna and the head Druid in service to the sea god Manann\u00e1n Mac Lir."
+    "text": "Gebann is an obscure Irish god. He is known only as the father of the beautiful goddess Clidna and as the chief druid of the sea god Manannan Mac Lir. No other exploits or honors are recorded for him in the surviving sources.",
+    "okr": {
+        "objective": "Document Gebann as an obscure Irish deity known for two associations.",
+        "key_results": [
+            "Establish Gebann as a Deity-typed Irish god",
+            "Record the father-daughter link to Clidna",
+            "Record the druid role under Manannan Mac Lir"
+        ],
+        "evidence": "Monaghan, The Encyclopedia of Celtic Mythology and Folklore, 2003"
+    }
 }
