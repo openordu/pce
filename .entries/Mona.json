@@ -1,15 +1,68 @@
 {
-    "name": "Mona",
-    "attributes": {},
-    "entities": [
-        {
-            "text": "Mona See Anglesey"
-        }
-    ],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "cyphertext": "gNacXE4TZ7S3sDBTLNIgCPvC1J7etg8sBxSAgrggml8NNIToQ6nxCLhNROTrrTA=",
-    "salt": "KVoBZR0tuirtpCKUl18N0A==",
-    "text": "Mona See Anglesey."
+  "name": "Mona",
+  "attributes": [
+    {
+      "entity": "Mona",
+      "attribute": "another name for Anglesey, a sacred British and Welsh island"
+    },
+    {
+      "entity": "Anglesey",
+      "attribute": "site of a Druid sanctuary and college destroyed by Roman soldiers about 59-64 CE"
+    },
+    {
+      "entity": "druids",
+      "attribute": "killed in battle or executed, with the great forests burned"
+    },
+    {
+      "entity": "Anglesey",
+      "attribute": "yielded troves of goods in Celtic design from its bogs and lakes"
+    },
+    {
+      "entity": "Bryn-Celli-Dhu",
+      "attribute": "an ancient cairn at its hilltop marks possible pre-Celtic sanctity"
+    }
+  ],
+  "entities": [
+    {
+      "entity": "Mona",
+      "type": "Place"
+    },
+    {
+      "entity": "Anglesey",
+      "type": "Place"
+    },
+    {
+      "entity": "Tacitus",
+      "type": "Person"
+    },
+    {
+      "entity": "druids",
+      "type": "Group"
+    },
+    {
+      "entity": "Mórrígan",
+      "type": "Deity"
+    },
+    {
+      "entity": "Bryn-Celli-Dhu",
+      "type": "Place"
+    }
+  ],
+  "sources": [
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+  ],
+  "cyphertext": "gNacXE4TZ7S3sDBTLNIgCPvC1J7etg8sBxSAgrggml8NNIToQ6nxCLhNROTrrTA=",
+  "salt": "KVoBZR0tuirtpCKUl18N0A==",
+  "text": "Mona is another name for Anglesey, a British and Welsh sacred island. The Roman historian Tacitus described a Druid sanctuary on it. Roman soldiers destroyed that sanctuary around 59 to 64 CE. Druids ran a college on the island. Celtic women priestesses, robed in black, screamed like the raven-goddess Mórrígan while the priests fought. Romans had already cut sacred groves and massacred clergy in other Celtic lands. The druids of Anglesey knew what fate awaited their houses and their honored trees. The druids died in battle or were executed, and the great forests burned. Bogs and lakes on Anglesey later yielded troves in Celtic design. The Druids likely hid them during the invasion. The island may have been sacred before the Celts, since an ancient cairn sits atop the hill of Bryn-Celli-Dhu. Diana Paxson depicted the destruction in her Arthurian trilogy.",
+  "objective": "Document the sacred island of Mona, also known as Anglesey.",
+  "key_results": [
+    "Record Mona as another name for the sacred island Anglesey.",
+    "Record the Druid sanctuary and college destroyed by Romans about 59-64 CE.",
+    "Record the troves in Celtic design hidden in the island's bogs and lakes.",
+    "Record the ancient cairn of Bryn-Celli-Dhu and the Arthurian depiction of Diana Paxson."
+  ],
+  "evidence": [
+    "Monaghan, P. The Encyclopedia of Celtic Mythology and Folklore (2008): Anglesey (Mona) entry, pp. 18-19.",
+    "Straffon, C. The Earth Goddess: Celtic and Pagan Legacy of the Landscape (1997), pp. 16, 169."
+  ]
 }
