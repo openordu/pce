@@ -1,57 +1,50 @@
 {
-    "name": "Heilyn",
-    "attributes": [
-        {
-            "entity": "Heilyn Minor",
-            "attribute": "Welsh hero"
-        },
-        {
-            "entity": "Br\u00e2n The Blessed",
-            "attribute": "fierce war on Ireland"
-        },
-        {
-            "entity": "Mabinogion",
-            "attribute": "Welsh epic"
-        },
-        {
-            "entity": "Heilyn",
-            "attribute": "survivor of the battles"
-        },
-        {
-            "entity": "magic door",
-            "attribute": "opened by Heilyn"
-        },
-        {
-            "entity": "survivors",
-            "attribute": "escaped through the magic door"
-        }
-    ],
-    "entities": [
-        {
-            "entity": "Heilyn Minor",
-            "type": "Person"
-        },
-        {
-            "entity": "Br\u00e2n The Blessed",
-            "type": "Person"
-        },
-        {
-            "entity": "Ireland",
-            "type": "Location"
-        },
-        {
-            "entity": "Welsh",
-            "type": "Nationality"
-        },
-        {
-            "entity": "Mabinogion",
-            "type": "Book"
-        }
-    ],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "cyphertext": "aP7Y_Yq97T4O99awu4bS2eHbPvoRkCBAe8MKvt2xD-bHPBecIUgssAL626eTX-lHjvpXMJfbsc9t5G_I4F7_jJtjG0TZObNr8I6Tb88fw0iUcKAiYIIXV7Ijs406XJX7OWZpNVXNtZyYRaJPBdi9JMW3Tf7zFrOpBKQebMIYvTIPB3U5B8vSTaMxwBUfLXZgm30-56IJlyGm1GhI47k9QnGUnAFEvVuz8RzeIgfb7jCc2r3Uj9dnyfT3DeIOP3hVBfDzzJ98ymJE3x3fZVfEjZsCVSXGTt_SHT2yDZh9H67nMlPkti2OQIudwa09-DItQEtOF7O-vxtlEmPAK9T3iSF-",
-    "salt": "bnB-BfrLsr7XNDqKdFoB0Q==",
-    "text": "Welsh hero Heilyn Minor played a crucial role in the Welsh epic Mabinogion where he was among the survivors of the fierce battles of Br\u00e2n The Blessed's war on Ireland. Heilyn opened the magic door that allowed the warriors to escape."
+  "name": "Heilyn",
+  "attributes": [
+    {
+      "entity": "Heilyn",
+      "attribute": "minor Welsh hero of the Mabinogion, a survivor of Brân the Blessed's war on Ireland"
+    },
+    {
+      "entity": "Heilyn",
+      "attribute": "opened the magic door through which the surviving warriors escaped"
+    }
+  ],
+  "entities": [
+    {
+      "entity": "Heilyn",
+      "type": "Person"
+    },
+    {
+      "entity": "Mabinogion",
+      "type": "Artifact"
+    },
+    {
+      "entity": "Brân the Blessed",
+      "type": "Person"
+    },
+    {
+      "entity": "Ireland",
+      "type": "Place"
+    },
+    {
+      "entity": "Welsh",
+      "type": "Culture"
+    }
+  ],
+  "sources": [
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+  ],
+  "cyphertext": "aP7Y_Yq97T4O99awu4bS2eHbPvoRkCBAe8MKvt2xD-bHPBecIUgssAL626eTX-lHjvpXMJfbsc9t5G_I4F7_jJtjG0TZObNr8I6Tb88fw0iUcKAiYIIXV7Ijs406XJX7OWZpNVXNtZyYRaJPBdi9JMW3Tf7zFrOpBKQebMIYvTIPB3U5B8vSTaMxwBUfLXZgm30-56IJlyGm1GhI47k9QnGUnAFEvVuz8RzeIgfb7jCc2r3Uj9dnyfT3DeIOP3hVBfDzzJ98ymJE3x3fZVfEjZsCVSXGTt_SHT2yDZh9H67nMlPkti2OQIudwa09-DItQEtOF7O-vxtlEmPAK9T3iSF-",
+  "salt": "bnB-BfrLsr7XNDqKdFoB0Q==",
+  "text": "Heilyn is a minor Welsh hero. He fought in the Welsh epic the Mabinogion. Brân the Blessed waged a fierce war on Ireland in that tale. Only a few warriors survived the battles. Heilyn was one of them. He opened the magic door through which the survivors escaped.",
+  "objective": "Document Heilyn, the minor Welsh hero who opened the escape door.",
+  "key_results": [
+    "Record his place in the Mabinogion.",
+    "Describe the war of Brân the Blessed on Ireland.",
+    "Note that Heilyn opened the magic door for the survivors."
+  ],
+  "evidence": [
+    "Monaghan, P. The Encyclopedia of Celtic Mythology and Folklore (2008): Heilyn entry."
+  ]
 }

@@ -1,33 +1,46 @@
 {
-    "name": "Hefydd Hen",
-    "attributes": [
-        {
-            "entity": "Hefydd Hen",
-            "attribute": "father of Rhiannon"
-        },
-        {
-            "entity": "Rhiannon",
-            "attribute": "diminished goddess"
-        },
-        {
-            "entity": "Hefydd Hen",
-            "attribute": "ancestral Welsh divinity"
-        }
-    ],
-    "entities": [
-        {
-            "entity": "Hefydd Hen",
-            "type": "Welsh hero or god"
-        },
-        {
-            "entity": "Rhiannon",
-            "type": "mythological horsewoman"
-        }
-    ],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "cyphertext": "DWKMxntptIb-ebCQO-3sggop9S8kLC6PPxKCdy0_sUEt80rmNVDwitqO-UHceEsYAMtT7jHv6O6wh0xVVvwWVZnUvnf25FsTzt5zV0ribWWJEK43qlvbG15_xSK2kwbdDig42rADi99fINZvUMZ5vTz5YI3GpklJgn4cI1nyT_g-wyZen67dv7c98rRAFEm_wQsk6JwxurDJSuiJf_R-mBZKTfDxABkWJq6d-yAQBGmHwDuKwIDBA-4q2pmzXK1XtbhDnUYVbbY-N2U89sIHFcA532STrgQxEHDEzUULYnSu289V4u6tsfpEMPLbvKSHAxznUorwUiTFMS3LPa-xDBOlKJV9fcbec20DkCqJPVKhmL5HygqVpFklQvl_UHI32oRduXyCQpY4yqfcTaZzRJO2Xgup-nzXs03wz1NmCabksU1tQwz-_H3eqBkxi7aW3A==",
-    "salt": "xo6yQgfnL1wJ8Mb-VIufzg==",
-    "text": "Welsh hero or god, Hefydd Hen (also known as Hefaidd Hen or Heveidd Henn) was the father of Rhiannon, the legendary horsewoman depicted as a weakened goddess. Although there is no recorded tale that details his mythical purpose, it is possible that Hefydd the Ancient (or Old Hefydd) was an ancestral Welsh divinity."
+  "name": "Hefydd Hen",
+  "attributes": [
+    {
+      "entity": "Hefydd Hen",
+      "attribute": "Welsh hero or god, also named Hefaidd Hen and Heveidd Henn, meaning the Ancient or Old Hefydd"
+    },
+    {
+      "entity": "Hefydd Hen",
+      "attribute": "father of Rhiannon, the mythological horsewoman who appears to be a diminished goddess"
+    },
+    {
+      "entity": "Hefydd Hen",
+      "attribute": "may have been an ancestral Welsh divinity, though no recorded story explains his function"
+    }
+  ],
+  "entities": [
+    {
+      "entity": "Hefydd Hen",
+      "type": "Person"
+    },
+    {
+      "entity": "Rhiannon",
+      "type": "Person"
+    },
+    {
+      "entity": "Welsh",
+      "type": "Culture"
+    }
+  ],
+  "sources": [
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+  ],
+  "cyphertext": "DWKMxntptIb-ebCQO-3sggop9S8kLC6PPxKCdy0_sUEt80rmNVDwitqO-UHceEsYAMtT7jHv6O6wh0xVVvwWVZnUvnf25FsTzt5zV0ribWWJEK43qlvbG15_xSK2kwbdDig42rADi99fINZvUMZ5vTz5YI3GpklJgn4cI1nyT_g-wyZen67dv7c98rRAFEm_wQsk6JwxurDJSuiJf_R-mBZKTfDxABkWJq6d-yAQBGmHwDuKwIDBA-4q2pmzXK1XtbhDnUYVbbY-N2U89sIHFcA532STrgQxEHDEzUULYnSu289V4u6tsfpEMPLbvKSHAxznUorwUiTFMS3LPa-xDBOlKJV9fcbec20DkCqJPVKhmL5HygqVpFklQvl_UHI32oRduXyCQpY4yqfcTaZzRJO2Xgup-nzXs03wz1NmCabksU1tQwz-_H3eqBkxi7aW3A==",
+  "salt": "xo6yQgfnL1wJ8Mb-VIufzg==",
+  "text": "Hefydd Hen is a Welsh hero or god. His name is also written Hefaidd Hen and Heveidd Henn. The title means Hefydd the Ancient, or Old Hefydd. He was the father of Rhiannon. Rhiannon is the mythological horsewoman who appears to be a diminished goddess. Hefydd himself may have been an ancestral Welsh divinity. No recorded story explains his mythical purpose.",
+  "objective": "Document Hefydd Hen, the Welsh ancestral divinity and father of Rhiannon.",
+  "key_results": [
+    "Record his alternative names and their meaning.",
+    "Describe his role as the father of Rhiannon.",
+    "Note the possibility that he was an ancestral Welsh divinity."
+  ],
+  "evidence": [
+    "Monaghan, P. The Encyclopedia of Celtic Mythology and Folklore (2008): Hefydd Hen entry."
+  ]
 }
