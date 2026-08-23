@@ -3,37 +3,33 @@
     "attributes": [
         {
             "entity": "Erriapus",
-            "attribute": "connected with Mercury"
+            "attribute": "Continental Celtic and British god"
+        },
+        {
+            "entity": "Erriapus",
+            "attribute": "linked by the Romans to Mercury"
         },
         {
             "entity": "Cernunnos",
-            "attribute": "linked with Erriapus"
+            "attribute": "horned god linked to Erriapus"
         }
     ],
     "entities": [
         {
             "entity": "Erriapus",
-            "type": "Continental Celtic and British god"
+            "type": "Deity"
         },
         {
             "entity": "Gaul",
-            "type": "region"
-        },
-        {
-            "entity": "Romans",
-            "type": "people"
+            "type": "Place"
         },
         {
             "entity": "Mercury",
-            "type": "god of commerce"
-        },
-        {
-            "entity": "England",
-            "type": "country"
+            "type": "Deity"
         },
         {
             "entity": "Cernunnos",
-            "type": "horned god"
+            "type": "Deity"
         }
     ],
     "sources": [
@@ -44,5 +40,14 @@
     ],
     "cyphertext": "PAkpbKyAKY8LpkvXPp4SOR-gtw3WAnv1g2JX7GawfMNYZ0rA5SyOprQVARnMQ3RughCYJpsi18h7AFCfv7irHQRCVjlbyKRxGBsW-HOuT6JxIB0lTktNrK4wBIKZx1mC7Y0V-aK0MrE6G1BAqe2SLuArndirtUPaImtEa9aFLXUu5MwuqdP0Mcfb1qwUF0vE1vSd6xAMPMgnf0uyDNHIxpPMqfgggRzMt9y9GyNEbuDop7v8zrCwLHz6cdsFovmCoWwsKL8Svuxays_hl9d0jLEckZ1xrb37VvuR5mX9Vn7JGluNWr5kBPzI_bcpRZGwE_sVdPjtWNx8WDNSphN2Nmw=",
     "salt": "SViSINf1htZH0BCkEv3Mkw==",
-    "text": "A deity named Erriapus, who belongs to the Continental Celtic and British mythology, is mentioned in inscriptions found in Gaul. The Romans associated Erriapus with their god of commerce, Mercury. In England, horned gods similar to Cernunnos have been connected to Erriapus, although he remains an enigmatic figure."
+    "text": "Erriapus was a Celtic god of the Continent and Britain. Gaulish inscriptions record this god's worship. The Romans equated him with Mercury, their god of commerce. In England, horned gods such as Cernunnos connect to this obscure figure. His cult was thin and his story lean. Only scattered stone and place records carry his memory.",
+    "okr": {
+        "objective": "Rewrite the lean Erriapus entry in clear prose.",
+        "key_results": [
+            "Describe the god from Gaulish inscriptions",
+            "Link him to Mercury, god of commerce",
+            "Mention the horned gods like Cernunnos"
+        ],
+        "evidence": "Monaghan, The Encyclopedia of Celtic Mythology and Folklore, 2008, s.v. Erriapus."
+    }
 }

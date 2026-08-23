@@ -3,61 +3,29 @@
     "attributes": [
         {
             "entity": "Erce",
-            "attribute": "obscure"
+            "attribute": "British goddess"
         },
         {
             "entity": "Erce",
-            "attribute": "exalted"
+            "attribute": "called the mother of earth"
         },
         {
             "entity": "Erce",
-            "attribute": "British"
-        },
-        {
-            "entity": "Erce",
-            "attribute": "goddess"
-        },
-        {
-            "entity": "mother of earth",
-            "attribute": "called"
-        },
-        {
-            "entity": "Charms",
-            "attribute": "early"
-        },
-        {
-            "entity": "Charms",
-            "attribute": "verbal"
-        },
-        {
-            "entity": "Germanic",
-            "attribute": "possible ethnicity"
-        },
-        {
-            "entity": "Celtic",
-            "attribute": "possible ethnicity"
+            "attribute": "known from early British verbal charms"
         }
     ],
     "entities": [
         {
             "entity": "Erce",
-            "type": "British goddess"
+            "type": "Deity"
+        },
+        {
+            "entity": "Britain",
+            "type": "Place"
         },
         {
             "entity": "mother of earth",
-            "type": "title"
-        },
-        {
-            "entity": "Charms",
-            "type": "verbal formulae"
-        },
-        {
-            "entity": "Germanic",
-            "type": "ethnicity"
-        },
-        {
-            "entity": "Celtic",
-            "type": "ethnicity"
+            "type": "Title"
         }
     ],
     "sources": [
@@ -65,5 +33,14 @@
     ],
     "cyphertext": "c1LfyqLf5DHc6qs2_O1IpvoL0-ASMm6wFeaxVRkpqF4dqJZsSM3lLzGgBrQTxrNZciZBt71FkUtcBqDixBp67G-26MeBOVrZJ5_y--LoflG1HyCg4oNUPC7_CyYA0KPGhpAKv9K7092GqVcind9Shr6xnuzmTIO7JKDLad0AtEVq5uVW8G0yXSJW0_vIwikzbbe16vrjWT04PUhdowhUzmTf7jt5s2CdBKevY2hlBQZC9xLHLnTGlRCwXmJGhM8GAhUDxW9W_q2BNZ8MlBQT15HpPDJj6wk6tEe6MsDFxYX0Zgvwbj6-1q8H762Cvh2HOvkhgVNZ34qRnuYzkf6SmqZf0UvQ3Q9zy4MSODD3NcUg4TYs7TxhCPRJkjzCxPA9ncTZQgQ-plrcosfr7mDIbM52pAeNFzlm8zWklKj5RP1mm6-EJpqvZEnZ2AXpE3cQpyVm4DeQ0mmPfgFgjcAyS-T6ylsA3-EDG11af0Lh1N1lLZjWHs99o8IpUVsk711kec42",
     "salt": "7zssU8CcO8UC9xtRbR_HOg==",
-    "text": "Obscurely known from early British verbal formulae called Charms is the British goddess Erce. She is referred to as the \"mother of earth\" and her name is believed to signify the \"exalted one.\" It is challenging to differentiate whether she belonged to the Germanic or Celtic tribes since these historical communities cohabited and worshipped together."
+    "text": "Erce was a British goddess and an obscure figure. She was called the mother of earth. Bards knew her from early British verbal formulae, the charms of that land. Her identity survives in these formulaic words. Little else about her cult has come down to us.",
+    "okr": {
+        "objective": "Write a faithful but concise rewrite of the thin Erce entry.",
+        "key_results": [
+            "State that Erce was a British mother of earth goddess",
+            "Note her survival in early British verbal formulae",
+            "Keep the entry brief to match her obscure source"
+        ],
+        "evidence": "Monaghan, The Encyclopedia of Celtic Mythology and Folklore, 2008, s.v. Erce."
+    }
 }

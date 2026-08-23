@@ -3,29 +3,41 @@
     "attributes": [
         {
             "entity": "Ethal Anbuail",
-            "attribute": "Fairy king of Connacht"
+            "attribute": "Irish hero"
         },
         {
-            "entity": "C\u00e1er",
-            "attribute": "beloved of Aonghus \u00d3g"
+            "entity": "Ethal Anbuail",
+            "attribute": "father of Caer"
+        },
+        {
+            "entity": "Ethal Anbuail",
+            "attribute": "a fairy king of Connacht"
+        },
+        {
+            "entity": "Caer",
+            "attribute": "beloved of Aonghus Óg"
         }
     ],
     "entities": [
         {
             "entity": "Ethal Anbuail",
-            "type": "Irish hero"
+            "type": "Person"
         },
         {
-            "entity": "C\u00e1er",
-            "type": "romantic heroine"
+            "entity": "Caer",
+            "type": "Person"
         },
         {
-            "entity": "Aonghus \u00d3g",
-            "type": "god of arts"
+            "entity": "Aonghus Óg",
+            "type": "Deity"
         },
         {
-            "entity": "Connacht",
-            "type": "Fairy kingdom"
+            "entity": "Bodb Derg",
+            "type": "Person"
+        },
+        {
+            "entity": "Brug na Bóinne",
+            "type": "Place"
         }
     ],
     "sources": [
@@ -33,5 +45,14 @@
     ],
     "cyphertext": "2hRqmTutRDXTmoHjxLRUSmFw-hDe-rXhCRrNkcixRFqa3ECBPYPEvQ4MZbbR14mKHZ_mTEZ3mC0tAEX_WbI8lUFMZu-Ex0HRipKzhS3KcCjTW8pa4_A5QRimZKn40x2kl5sAmbQHWTK2PHWijqRHUAh7Zs-rC6ZUCOtxBJ0wmZW4joIZXeLIe3-t2LX6Odq5Zw-V9QovokqpAhyd4nUcKDZekddhJzHcQDrwUG9mBmxmYonewmAwzNwQAWl19ckXsUc=",
     "salt": "fiQV-DWacnaoqa_TKAguzg==",
-    "text": "An Irish hero named Ethal Anbuail, who was considered a Fairy king of Connacht, was the father of C\u00e1er, the romantic heroine who was loved by Aonghus \u00d3g, the god of arts."
+    "text": "Ethal Anbuail was an Irish hero. He was the father of Caer, the romantic heroine beloved of Aonghus Óg, the god of the arts. He was a fairy king of Connacht. Koch recounts that Oengus longed for the woman he saw in his dream. Oengus waited a year for her. With the aid of Bodb Derg, he named her. The lovers met and flew to Brug na Bóinne as swans. Those who heard that swan sang slept not for three days and nights.",
+    "okr": {
+        "objective": "Rewrite the Ethal Anbuail entry with the full Caer narrative.",
+        "key_results": [
+            "Describe him as the father of the heroine Caer",
+            "Note the fairy kingdom of Connacht",
+            "Cross the Koch dream and swan motif with the Brug na Bóinne"
+        ],
+        "evidence": "Monaghan, The Encyclopedia of Celtic Mythology and Folklore, 2008, s.v. Ethal Anbuail; Koch, Encyclopedia of Celtic Culture, 2006, s.v. Oengus."
+    }
 }
