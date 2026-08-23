@@ -3,69 +3,49 @@
     "entities": [
         {
             "entity": "Gareth",
-            "type": "Arthurian hero"
+            "type": "Person"
         },
         {
             "entity": "Arthur",
-            "type": "king"
+            "type": "Person"
         },
         {
             "entity": "Morgause",
-            "type": "half-sister of Arthur"
+            "type": "Person"
         },
         {
             "entity": "Lot of Orkney",
-            "type": "king"
+            "type": "Person"
         },
         {
             "entity": "Kay",
-            "type": "character"
+            "type": "Person"
         },
         {
-            "entity": "LANCELot",
-            "type": "character"
+            "entity": "Lancelot",
+            "type": "Person"
         },
         {
-            "entity": "queen Guinevere",
-            "type": "queen"
-        },
-        {
-            "entity": "executioner",
-            "type": "profession"
+            "entity": "Guinevere",
+            "type": "Person"
         }
     ],
     "attributes": [
-        {
-            "entity": "Gareth",
-            "attribute": "Arthurian hero"
-        },
-        {
-            "entity": "Gareth",
-            "attribute": "minor hero"
-        },
         {
             "entity": "Gareth",
             "attribute": "nephew of king Arthur"
         },
         {
             "entity": "Gareth",
-            "attribute": "son of his half-sister Morgause and king Lot of Orkney"
+            "attribute": "son of Morgause and king Lot of Orkney"
         },
         {
             "entity": "Gareth",
-            "attribute": "most notable physical trait: beautiful hands"
+            "attribute": "named Beaumains by Kay for his beautiful hands"
         },
         {
-            "entity": "LANCELot",
-            "attribute": "best friend of Gareth"
-        },
-        {
-            "entity": "LANCELot",
-            "attribute": "accidentally killed Gareth"
-        },
-        {
-            "entity": "queen Guinevere",
-            "attribute": "was being saved by LANCELot from the executioner's flames"
+            "entity": "Gareth",
+            "attribute": "killed by Lancelot by accident"
         }
     ],
     "sources": [
@@ -76,5 +56,14 @@
     ],
     "cyphertext": "OL6ufJq2qmjhjSmuE497R-E5v6gqrBU1jjJz0iNjJCn5Dx6sCpDp6Qb-OprdWKVMsktz2YdsOGQcn_r7MIhX_j8UPoD70VdQq_kaQRTXCkvOHZwmUDBJU94MV85M5_AKn9cUseDLmtwPB1heYIuJG8iEcNcll3M_MVwz3-Nzs4w3brGQzc5HDbfSCjklV20PD3Mdv5ckSsoGaXgditPOiDsSBbPglH0YS1tA1UvXkqKjQ1_XvZEnChHTPIXQkUX97i6p_Tnvl41bYfiKqBKbYpGpltvMt79P7B3tPdLaD33cR30y4nNZw2CaJ1W3QwqcNBEPXZpFeHrBQt5432t3tdrbFqfQvc85qL3G83AgUo5DdHSmg6lZoLGYHDZgC2m9RVjAZxkVEE41rBoGFipMZB85THzi3XdQaNtGdagBByxRNExjyXFoAXYblMO1euhCyIwKro6h1N_UPdCpGFFtTUE8xY8wMe5p600W-QVXczikvHyFK8mWUv0z_-Y2kC442SZQ51B3FOK8-hlk5_-yFMqWs1Xjqfl7RZyhem7dh924tr74QEy5EdFhSlue-0_d_M0Q7z339Trd8D_vjWmRvMg6ol4VFoDCeLah",
     "salt": "rlbDmkALI4ETdWGe_Zibfw==",
-    "text": "Gareth, also known as Gareth of Orkney or Beaumains or Gaheriet, was a hero of Arthurian legends. This minor hero happened to be the son of King Lot of Orkney and Morgause, Arthur's half-sister, and was therefore Arthur's nephew. He was given the nickname \"Beaumains,\" which means \"beautiful hands,\" by Kay due to his most notable physical trait. Unfortunately, Gareth's fate was not kind as he was accidentally killed by his closest friend, Lancelot, in a valiant attempt to save Queen Guinevere from the fiery death penalty."
+    "text": "Gareth, called Gareth of Orkney, was an Arthurian hero. He also bore the names Beaumains and Gaheriet. He was the nephew of king Arthur. His mother was Morgause, the half-sister of Arthur. His father was king Lot of Orkney. Gareth was a minor hero of Arthurian romance. His hands were so beautiful that Kay named him Beaumains. The name means beautiful hands. Lancelot killed Gareth by accident. Lancelot was fighting to save queen Guinevere from the executioner's flames.",
+    "okr": {
+        "objective": "Record Gareth as a minor Arthurian hero and nephew of king Arthur.",
+        "key_results": [
+            "Gareth was the son of Morgause and king Lot of Orkney.",
+            "Kay named him Beaumains for his beautiful hands.",
+            "Lancelot killed Gareth while defending queen Guinevere."
+        ],
+        "evidence": "Monaghan, The Encyclopedia of Celtic Mythology and Folklore, 2003"
+    }
 }
