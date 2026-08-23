@@ -1,57 +1,58 @@
 {
-    "name": "Scenmed",
-    "attributes": [
-        {
-            "entity": "Scenmed",
-            "attribute": "Irish heroine"
-        },
-        {
-            "entity": "C\u00fachulainn",
-            "attribute": "great Ulster hero"
-        },
-        {
-            "entity": "Emer",
-            "attribute": "niece of Scenmed"
-        },
-        {
-            "entity": "Sc\u00e1thach",
-            "attribute": "amazonian woman from Scotland"
-        }
-    ],
-    "entities": [
-        {
-            "entity": "Scenmed",
-            "type": "Warrior Woman"
-        },
-        {
-            "entity": "army",
-            "type": "group of soldiers"
-        },
-        {
-            "entity": "battle",
-            "type": "conflict between opposing forces"
-        },
-        {
-            "entity": "C\u00fachulainn",
-            "type": "hero"
-        },
-        {
-            "entity": "Emer",
-            "type": "niece"
-        },
-        {
-            "entity": "Sc\u00e1thach",
-            "type": "amazonian woman"
-        },
-        {
-            "entity": "Scotland",
-            "type": "country"
-        }
-    ],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "cyphertext": "VlWRfIHUV4--fZkPhMpdriR0xiJAu9tAyb7FR6c9IxF3pfCON0b8GI-oaoO7UcxYfDP76V4hN0aTD8K4f_Vdfv3HtsYYkoOlEQcZfLf2-MjBrYHWm6SeswCM9hQT0rVjUOLEu6V0nX8tDQbtqIyzsuhsktUVq1HTeQeJG82xx9-4-6oOOe82TmMr83Ob6-ouLwzyOUmm7WMmbGYcYov1tosmradb-3yNQDzH5hhVfalbN-ynTo3MQEq25yo2iMoYxfXUJMRM1yKM96pqIk_yR0vBbReePtSKbRwcOqHWvfP1uCgr8GzOE547OdNsSkoK17VAiAYq2O-IpS-iEpZreHvZkp__UXLc62zUf_8KOzD6OE2k2xU_F1-U_EE454cPQ9hn0gDNXG4=",
-    "salt": "hdedSZzngL2QFzYIxASWmw==",
-    "text": "Warrior Woman Scenmed from Ireland held the position of a heroine. She, along with her army, confronted the well-known hero of Ulster, C\u00fachulainn, when he seized her niece, Emer. However, C\u00fachulainn, who had been tutored in fighting by another woman warrior, Sc\u00e1thach from Scotland, managed to overpower Scenmed's forces."
+  "name": "Scenmed",
+  "attributes": [
+    {
+      "entity": "Scenmed",
+      "attribute": "an Irish warrior woman heroine"
+    },
+    {
+      "entity": "Scenmed",
+      "attribute": "fought Cúchulainn after he carried off Emer"
+    },
+    {
+      "entity": "Emer",
+      "attribute": "the niece of Scenmed"
+    },
+    {
+      "entity": "Cúchulainn",
+      "attribute": "defeated Scenmed with Scáthach's training"
+    }
+  ],
+  "entities": [
+    {
+      "entity": "Scenmed",
+      "type": "Person"
+    },
+    {
+      "entity": "Cúchulainn",
+      "type": "Person"
+    },
+    {
+      "entity": "Emer",
+      "type": "Person"
+    },
+    {
+      "entity": "Scáthach",
+      "type": "Person"
+    },
+    {
+      "entity": "Scotland",
+      "type": "Place"
+    }
+  ],
+  "sources": [
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+  ],
+  "cyphertext": "VlWRfIHUV4--fZkPhMpdriR0xiJAu9tAyb7FR6c9IxF3pfCON0b8GI-oaoO7UcxYfDP76V4hN0aTD8K4f_Vdfv3HtsYYkoOlEQcZfLf2-MjBrYHWm6SeswCM9hQT0rVjUOLEu6V0nX8tDQbtqIyzsuhsktUVq1HTeQeJG82xx9-4-6oOOe82TmMr83Ob6-ouLwzyOUmm7WMmbGYcYov1tosmradb-3yNQDzH5hhVfalbN-ynTo3MQEq25yo2iMoYxfXUJMRM1yKM96pqIk_yR0vBbReePtSKbRwcOqHWvfP1uCgr8GzOE547OdNsSkoK17VAiAYq2O-IpS-iEpZreHvZkp__UXLc62zUf_8KOzD6OE2k2xU_F1-U_EE454cPQ9hn0gDNXG4=",
+  "salt": "hdedSZzngL2QFzYIxASWmw==",
+  "text": "Scenmed was an Irish heroine. She was a warrior woman who led her army into battle against the great Ulster hero Cúchulainn. She took this course after Cúchulainn carried off her niece Emer. The hero used the battle skills he had learned from Scáthach, an amazonian woman of Scotland, to defeat Scenmed. Her defeat belongs to the cycle of Cúchulainn, that great champion of the Ulaid. The tale shows a woman who led men in arms, a role allowed in Irish legend. Scenmed met the hero in open battle rather than from ambush. Her loss set no mark on the wider record, yet the note survives that a warrior woman could stand against the foremost fighter of the land.",
+  "objective": "Document the Irish heroine Scenmed.",
+  "key_results": [
+    "Record Scenmed as a warrior woman heroine.",
+    "Record her battle against Cúchulainn over the abduction of Emer.",
+    "Record that Cúchulainn defeated her with skills learned from Scáthach."
+  ],
+  "evidence": [
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore (2008): Scenmed."
+  ]
 }
