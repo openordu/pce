@@ -1,11 +1,38 @@
 {
-    "name": "oracular head",
-    "attributes": {},
-    "entities": [],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+  "name": "oracular head",
+  "attributes": [
+    {
+      "entity": "oracular head",
+      "attribute": "cross-reference"
+    },
+    {
+      "entity": "oracular head",
+      "attribute": "points to Head"
+    }
+  ],
+  "entities": [
+    {
+      "entity": "oracular head",
+      "type": "concept"
+    },
+    {
+      "entity": "Head",
+      "type": "concept"
+    }
+  ],
+  "sources": [
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+  ],
+  "cyphertext": "inrAwTlfaAZ4tU8ApYihISSxuN_z86BW-2j5WtvpcpWLKvTUGlAR12TvAEpSA82ZrOhn-A==",
+  "salt": "8IWTDioJ7qR71h_XVQz65A==",
+  "text": "The oracular head is a cross-reference in the source. It directs the reader to the entry titled Head. The source notes that heading holds the fuller account.",
+  "okr": {
+    "objective": "Point the reader from the oracular head note to the Head entry.",
+    "key_results": [
+      "The oracular head appears as a cross-reference.",
+      "It directs the reader to the Head entry.",
+      "The source includes no other facts under this heading."
     ],
-    "cyphertext": "inrAwTlfaAZ4tU8ApYihISSxuN_z86BW-2j5WtvpcpWLKvTUGlAR12TvAEpSA82ZrOhn-A==",
-    "salt": "8IWTDioJ7qR71h_XVQz65A==",
-    "text": "oracular head See Head."
+    "evidence": "Monaghan, Encyclopedia of Celtic Mythology and Folklore"
+  }
 }

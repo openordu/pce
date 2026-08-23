@@ -1,44 +1,66 @@
 {
-    "name": "ollam",
-    "attributes": [
-        {
-            "entity": "ollam",
-            "attribute": "Irish bardic title"
-        },
-        {
-            "entity": "Fili",
-            "attribute": "one of the seven levels of poet"
-        },
-        {
-            "entity": "ollam",
-            "attribute": "prepared to recite all of the 250 important stories of the land"
-        },
-        {
-            "entity": "ollam",
-            "attribute": "prepared to recite 100 of the lesser tales"
-        }
+  "name": "ollam",
+  "attributes": [
+    {
+      "entity": "ollam",
+      "attribute": "bardic title"
+    },
+    {
+      "entity": "ollam",
+      "attribute": "highest poet rank"
+    },
+    {
+      "entity": "Fili",
+      "attribute": "poet class"
+    },
+    {
+      "entity": "ollam",
+      "attribute": "recites 250 chief tales"
+    },
+    {
+      "entity": "ollam",
+      "attribute": "also recites 100 lesser tales"
+    }
+  ],
+  "entities": [
+    {
+      "entity": "ollam",
+      "type": "word"
+    },
+    {
+      "entity": "ollamh",
+      "type": "word"
+    },
+    {
+      "entity": "ollave",
+      "type": "word"
+    },
+    {
+      "entity": "Fili",
+      "type": "group"
+    },
+    {
+      "entity": "bardic order",
+      "type": "concept"
+    }
+  ],
+  "sources": [
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+  ],
+  "image": [
+    "https://upload.wikimedia.org/wikipedia/commons/6/6d/Alexander_III_and_Ollamh_R%C3%ADgh.JPG"
+  ],
+  "cyphertext": "EkGjdWZqB3AHgLFlc2MUol-HX2dhscV-YXSS1aBjaGsqplEBLURRV-iJgbw7CZVtkbA8yn6yvUYqgPT6OQnsvIVDkPRd-noLKFjRm0M5oNXgQ7XHyc6AhJD4YvQpvWETr1jjEf8wJTCg7vQ7AXl-UqGFem4TvSujO6cHOrzCBIFiKG_ZW97Ik4Lw8mzI4qEWGkzAm8NtAYkoz8YZCxQ-KsQCz9jbjszUOzE3sOQYlpGrRox46XP0KKKk4iR0lYOO9zL0G5ZGvhKA4qMQAj57lXnOLn2qDlY1AtqeK5IK3oiFVA==",
+  "salt": "2_Feu3WpRjaWTEHfacfJyQ==",
+  "text": "The ollam was the top rank in the Irish bardic order. Irish custom set seven levels for the Fili, the class of poets. The ollam stood at the highest step. Someone of this rank had to give all 250 chief stories of the country. The task also covered 100 of the lesser tales.",
+  "okr": {
+    "objective": "Define the ollam as the highest Irish bardic rank among the seven levels of Fili.",
+    "key_results": [
+      "The ollam ranks above the other six bard levels.",
+      "The ollam must recite all 250 chief tales of the country.",
+      "The ollam also recites 100 lesser tales.",
+      "The title was also spelled ollamh or ollave."
     ],
-    "entities": [
-        {
-            "entity": "ollam",
-            "type": "bardic title"
-        },
-        {
-            "entity": "seven level",
-            "type": "poet level"
-        },
-        {
-            "entity": "Fili",
-            "type": "poet"
-        }
-    ],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "image": [
-        "https://upload.wikimedia.org/wikipedia/commons/6/6d/Alexander_III_and_Ollamh_R%C3%ADgh.JPG"
-    ],
-    "cyphertext": "EkGjdWZqB3AHgLFlc2MUol-HX2dhscV-YXSS1aBjaGsqplEBLURRV-iJgbw7CZVtkbA8yn6yvUYqgPT6OQnsvIVDkPRd-noLKFjRm0M5oNXgQ7XHyc6AhJD4YvQpvWETr1jjEf8wJTCg7vQ7AXl-UqGFem4TvSujO6cHOrzCBIFiKG_ZW97Ik4Lw8mzI4qEWGkzAm8NtAYkoz8YZCxQ-KsQCz9jbjszUOzE3sOQYlpGrRox46XP0KKKk4iR0lYOO9zL0G5ZGvhKA4qMQAj57lXnOLn2qDlY1AtqeK5IK3oiFVA==",
-    "salt": "2_Feu3WpRjaWTEHfacfJyQ==",
-    "text": "With regards to the Irish bardic hierarchy, the ollam (alternatively spelled \"ollamh\" or \"ollave\") is the highest of the seven levels of Fili or poet. As a person occupying this rank, the ollam was expected to have thorough familiarity with all 250 crucial tales of the country, as well as 100 of the more minor stories."
+    "evidence": "Monaghan, Encyclopedia of Celtic Mythology and Folklore"
+  }
 }

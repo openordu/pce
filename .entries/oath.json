@@ -1,77 +1,87 @@
 {
-    "name": "oath",
-    "attributes": [
-        {
-            "entity": "oath",
-            "attribute": "ritual act"
-        },
-        {
-            "entity": "divine forces",
-            "attribute": "witness the truth of a statement"
-        },
-        {
-            "entity": "Celts",
-            "attribute": "put great stock in verbal truthfulness"
-        },
-        {
-            "entity": "written language",
-            "attribute": "none"
-        },
-        {
-            "entity": "oaths",
-            "attribute": "made by calling upon either gods or elemental powers"
-        },
-        {
-            "entity": "gods",
-            "attribute": "would punish the speaker for lying"
-        },
-        {
-            "entity": "elemental powers",
-            "attribute": "would punish the speaker for lying"
-        },
-        {
-            "entity": "Celts",
-            "attribute": "radically polytheistic"
-        }
+  "name": "oath",
+  "attributes": [
+    {
+      "entity": "oath",
+      "attribute": "ritual act"
+    },
+    {
+      "entity": "divine forces",
+      "attribute": "verify the truth"
+    },
+    {
+      "entity": "Celts",
+      "attribute": "valued spoken word"
+    },
+    {
+      "entity": "written tongue",
+      "attribute": "none"
+    },
+    {
+      "entity": "gods",
+      "attribute": "sworn by in oath"
+    },
+    {
+      "entity": "elemental powers",
+      "attribute": "called upon in oath"
+    }
+  ],
+  "entities": [
+    {
+      "entity": "oath",
+      "type": "ritual"
+    },
+    {
+      "entity": "divine forces",
+      "type": "mythological figure"
+    },
+    {
+      "entity": "Celts",
+      "type": "group"
+    },
+    {
+      "entity": "spoken truth",
+      "type": "concept"
+    },
+    {
+      "entity": "written tongue",
+      "type": "concept"
+    },
+    {
+      "entity": "gods",
+      "type": "religion"
+    },
+    {
+      "entity": "Sun",
+      "type": "being"
+    },
+    {
+      "entity": "Moon",
+      "type": "being"
+    },
+    {
+      "entity": "air",
+      "type": "being"
+    }
+  ],
+  "sources": [
+    "Cowan, Tom. “The Pledge to the Elements.” In Patricia Monaghan, ed. Irish Spirit: Pagan, Celtic, Christian, Global. Dublin: Wolfhound Press, 2001.",
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+  ],
+  "image": [
+    "https://upload.wikimedia.org/wikipedia/commons/a/a1/Sec_of_State_Kissinger.png"
+  ],
+  "cyphertext": "YeznlCkUnfB2sWkhls8bXEYVKi38WpifqKq_K0fewtmjq6MloHo9f_M_aH9882DA4nPntOFT3ECvSIFRJEDCt9UoR2PehDK2knNrEcTIssxq5QJYDZhsDdI9faVx5C6banAtFubTu6e0kXpen2CHd83UL-WqNYxvSjQWFBQzlE6j6cxNSpfsTJggLBDMHgBYNdMPaXbydJd_ijFsrS7sfAVB8VKqXPvrQHDR5paCte4D2B9quuccUl7l0KadwwJL4hQ6eqjlM7BJQc-PdRUrfskDJMVrzceuV8lGC-GndqIKYExN5Kn8PffTqF436S6tNnQWN8zL73CNTCe_Yf2Nootu13hUn0ejdzsvnuyZFlO-jdC4TzjKwgRKNi9fm3d0rXBNAiLqQqz4XKOH7g4fJOZUuSrHdH8bVnKgmCzY-WB5jBTGCO9rI85XW7yWbES6JcuzuXP1E1aR-etmg63EyUzSWS17LgaeVi61uOIXvmM3fmkvTAyUyvRI8-FjGcpcywFvovapKtvkqPLggGQ-b0eyFeCVQYz67GtsQf_jTFIk99sgDbMwKrEHV68xbTofzzFRjzx3bZJvNLQkT6Bx6vFEB4Ni4lKU0U1PUDMDKumLlR9Sw1T55QBG-LgoO4ZOHjDHT3xBmXB7J9yGJi1h7DqfYrmi4nCCQ3ugCFfkbvTteclc8BJz5Nct1B0hfBJlvSMWZFZb8XoPm-AT2vJ5somqTwv96IgfWqQMsk8nDEEmDdUaUvNe0oFI4KowWbYashAA_AWZOdCyndNW2Roc41L1ZlPWtu0avT6_hvuzZ_CjoG398kJjKEQz_tXAt9Mr8qSitbMh5ogyVpr1KSjFksYTOCHnuBIGi5YSJsLn",
+  "salt": "jd2EJ_4Omyjtl85Xd6Q_Dg==",
+  "text": "An oath was a ritual act that asked divine forces to witness a claim. The Celts placed deep trust in spoken truth, partly because they had no written tongue. A speaker made an oath by calling on gods or on elemental powers such as the Sun, the Moon, and air. Those powers would punish a speaker who lied. The common Celtic sort of oath swore by the gods of one's own people.",
+  "okr": {
+    "objective": "Present the oath as a Celtic ritual that calls on divine powers to verify spoken truth.",
+    "key_results": [
+      "An oath calls on gods or elemental powers like the Sun and Moon.",
+      "The Celts honored spoken truth because they lacked a written language.",
+      "The powers named in an oath would punish a speaker who lied.",
+      "A common Celtic formula swore to the gods of one's own people."
     ],
-    "entities": [
-        {
-            "entity": "oath",
-            "type": "ritual act"
-        },
-        {
-            "entity": "divine forces",
-            "type": "unknown"
-        },
-        {
-            "entity": "Celts",
-            "type": "society"
-        },
-        {
-            "entity": "verbal truthfulness",
-            "type": "unknown"
-        },
-        {
-            "entity": "written language",
-            "type": "unknown"
-        },
-        {
-            "entity": "gods",
-            "type": "divine forces"
-        },
-        {
-            "entity": "elemental powers",
-            "type": "divine forces"
-        }
-    ],
-    "sources": [
-        "Cowan, Tom. \u201cThe Pledge to the Elements.\u201d In Patricia Monaghan, ed. Irish Spirit: Pagan, Celtic, Christian, Global. Dublin: Wolfhound Press, 2001.",
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "image": [
-        "https://upload.wikimedia.org/wikipedia/commons/a/a1/Sec_of_State_Kissinger.png"
-    ],
-    "cyphertext": "YeznlCkUnfB2sWkhls8bXEYVKi38WpifqKq_K0fewtmjq6MloHo9f_M_aH9882DA4nPntOFT3ECvSIFRJEDCt9UoR2PehDK2knNrEcTIssxq5QJYDZhsDdI9faVx5C6banAtFubTu6e0kXpen2CHd83UL-WqNYxvSjQWFBQzlE6j6cxNSpfsTJggLBDMHgBYNdMPaXbydJd_ijFsrS7sfAVB8VKqXPvrQHDR5paCte4D2B9quuccUl7l0KadwwJL4hQ6eqjlM7BJQc-PdRUrfskDJMVrzceuV8lGC-GndqIKYExN5Kn8PffTqF436S6tNnQWN8zL73CNTCe_Yf2Nootu13hUn0ejdzsvnuyZFlO-jdC4TzjKwgRKNi9fm3d0rXBNAiLqQqz4XKOH7g4fJOZUuSrHdH8bVnKgmCzY-WB5jBTGCO9rI85XW7yWbES6JcuzuXP1E1aR-etmg63EyUzSWS17LgaeVi61uOIXvmM3fmkvTAyUyvRI8-FjGcpcywFvovapKtvkqPLggGQ-b0eyFeCVQYz67GtsQf_jTFIk99sgDbMwKrEHV68xbTofzzFRjzx3bZJvNLQkT6Bx6vFEB4Ni4lKU0U1PUDMDKumLlR9Sw1T55QBG-LgoO4ZOHjDHT3xBmXB7J9yGJi1h7DqfYrmi4nCCQ3ugCFfkbvTteclc8BJz5Nct1B0hfBJlvSMWZFZb8XoPm-AT2vJ5somqTwv96IgfWqQMsk8nDEEmDdUaUvNe0oFI4KowWbYashAA_AWZOdCyndNW2Roc41L1ZlPWtu0avT6_hvuzZ_CjoG398kJjKEQz_tXAt9Mr8qSitbMh5ogyVpr1KSjFksYTOCHnuBIGi5YSJsLn",
-    "salt": "jd2EJ_4Omyjtl85Xd6Q_Dg==",
-    "text": "Ritual acts are an integral part of many societies, including the Celts. In societies like theirs, where there was no written language, great emphasis was placed on verbal truthfulness. Oaths were a means of calling upon divine forces to bear witness to the truth of a statement. Among the Celts, these oaths were often made by invoking either gods or elemental powers like the Sun, Moon, or air, which would then punish the speaker for any falsehood. A common form of the oath among the Celts, who were radically polytheistic, was the phrase, \u201cI swear by the gods my people swear by.\u201d"
+    "evidence": "Monaghan, Encyclopedia of Celtic Mythology and Folklore"
+  }
 }

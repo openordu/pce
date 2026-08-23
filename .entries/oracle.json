@@ -1,84 +1,70 @@
 {
-    "name": "oracle",
-    "entities": [
-        {
-            "entity": "oracle",
-            "type": "Symbolic object or event"
-        },
-        {
-            "entity": "Systems of Divination",
-            "type": ""
-        },
-        {
-            "entity": "Flights of birds",
-            "type": ""
-        },
-        {
-            "entity": "unusual weather",
-            "type": ""
-        },
-        {
-            "entity": "untimely blossoming",
-            "type": ""
-        },
-        {
-            "entity": "oracle",
-            "type": "more neutral or positive"
-        },
-        {
-            "entity": "prophet",
-            "type": ""
-        },
-        {
-            "entity": "Oracle of Dephi",
-            "type": ""
-        },
-        {
-            "entity": "Greece",
-            "type": ""
-        },
-        {
-            "entity": "Celtic",
-            "type": ""
-        }
+  "name": "oracle",
+  "entities": [
+    {
+      "entity": "oracle",
+      "type": "artifact"
+    },
+    {
+      "entity": "divination",
+      "type": "event"
+    },
+    {
+      "entity": "bird's flight",
+      "type": "event"
+    },
+    {
+      "entity": "seashell",
+      "type": "artifact"
+    },
+    {
+      "entity": "omen",
+      "type": "artifact"
+    },
+    {
+      "entity": "Oracle at Delphi",
+      "type": "place"
+    },
+    {
+      "entity": "Greece",
+      "type": "place"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "oracle",
+      "attribute": "a sign that divination reads to known the future"
+    },
+    {
+      "entity": "oracle",
+      "attribute": "often misplaced in place or in season"
+    },
+    {
+      "entity": "omen",
+      "attribute": "marks bad, while an oracle stays neutral or fair"
+    },
+    {
+      "entity": "oracle",
+      "attribute": "names a seer in the Greek classic use"
+    }
+  ],
+  "sources": [
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+  ],
+  "image": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/John_William_Waterhouse_-_Consulting_the_Oracle_-_Christie%27s.jpg/1200px-John_William_Waterhouse_-_Consulting_the_Oracle_-_Christie%27s.jpg"
+  ],
+  "cyphertext": "hU21ph05RuWLHAgu0hPTZ3mIs_navXyBH4zjVWNUz6jkFbDq3q84KeFPCQvkfPxrEHcOA7yHRvTrCzyFGvQ7YozEhXqKRC4dh7kVU3aj7kW-TI7xGIJgrwG5Jm2AtBqxolHU4kzbNKQ2beBlWtw1qHIP__5AI1FaaqG__lk9IE7beHFFQjSIo1RibEVUSDZCv8thpPep8JHLk0gk1uHJlXG6EaVxSq0c6Rp_4c8O37hE0-6fS30h4Oc2QtDHO6iCcDlWq7XqOGGhhO3uHDKSVi4nh-Av0ofERMV8ruyptCLZtpeuDuVoLrvTTw9_mMJ8faOCP5nnXH9edPPuocsmprjIAnJiFK8snVg_ILSqWJQYH_wwWI0QbuVaH-pf_ADRyXqDyBlKysjjHgbuS75I_AdShqAL8aTgVCfj5xMkQ5tVaw2jm-Q3m_6tWkBNmmuiSwDYfOcG4313FhXWuS48MciMxUEeKw6A99HqkEVD2ixGxnpH_REM6_PlvzLzg_znfH3ICBkF8kYm2dlAVdUNBh3FVRBOsAAZR_8fMQepGiDEnps1_R1gEbJwrmwoA2n_aiN34HUwH3vHmUPVjoG5shzQe4YGLvSCTH-qWwkXupnOXam0bsJZgcEQ3ITnMLWHsWweLfs3eVGkD6KNHRi8N3vUjU7DkKazY2V6uD2PRuQtdYb1V0pAzK6aGZqveGNR9x5EMKVZI63uL03Mj_H4W5ACTohZEdYbdgbrjhhs-H-yPvZV5sAWfXYFELa7hJVs9rQ1h38sMOEzpKr4gkZePQTJZVeaJghTC4KZeLzT8ePQmCC8TGzxGWwRA4tMmI--rwnQpvICJSBefcgb6oBOhmnipubw3Y6yC7oIMTaNNBk=",
+  "salt": "Igb9j7RwmgzQmDWCMJKALQ==",
+  "text": "An oracle is a mark or a turn that a divination rule reads to draw what follows. Such a system leans to signs to set the course of a thing. The sign may be the flight of birds, untimely clouds, or a bloom opening in the wrong season. Again and again the oracle sits shifted out of its own place, such as a shell lying on a summit or a tree flowering in winter. Some writers split the omen, which marks bad luck, from the oracle, which reads neither good nor ill. The word also names a seer, a use that is chiefly Greek, as at the Oracle of Delphi.",
+  "okr": {
+    "objective": "Separate the oracle, a sign or seer, from the omen while noting the Greek use of the word.",
+    "key_results": [
+      "Oracles read the future by bird flight or by strange weather.",
+      "An oracle often appears driven out of its place or season.",
+      "An omen marks bad, while an oracle reads quiet or fair.",
+      "The Oracle at Delphi shows the Greek sense of the word."
     ],
-    "attributes": [
-        {
-            "entity": "oracle",
-            "attribute": "Symbolic object or event"
-        },
-        {
-            "entity": "Systems of Divination",
-            "attribute": "require the employment of oracles to indicate the future"
-        },
-        {
-            "entity": "Flights of birds, unusual weather, untimely blossoming",
-            "attribute": "could predict the outcome of events"
-        },
-        {
-            "entity": "typically or positive oracle",
-            "attribute": "more neutral"
-        },
-        {
-            "entity": "prophet",
-            "attribute": "used to describe a"
-        },
-        {
-            "entity": "Oracle of Dephi",
-            "attribute": "in Greece"
-        },
-        {
-            "entity": "Celtic",
-            "attribute": ""
-        }
-    ],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "image": [
-        "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/John_William_Waterhouse_-_Consulting_the_Oracle_-_Christie%27s.jpg/1200px-John_William_Waterhouse_-_Consulting_the_Oracle_-_Christie%27s.jpg"
-    ],
-    "cyphertext": "hU21ph05RuWLHAgu0hPTZ3mIs_navXyBH4zjVWNUz6jkFbDq3q84KeFPCQvkfPxrEHcOA7yHRvTrCzyFGvQ7YozEhXqKRC4dh7kVU3aj7kW-TI7xGIJgrwG5Jm2AtBqxolHU4kzbNKQ2beBlWtw1qHIP__5AI1FaaqG__lk9IE7beHFFQjSIo1RibEVUSDZCv8thpPep8JHLk0gk1uHJlXG6EaVxSq0c6Rp_4c8O37hE0-6fS30h4Oc2QtDHO6iCcDlWq7XqOGGhhO3uHDKSVi4nh-Av0ofERMV8ruyptCLZtpeuDuVoLrvTTw9_mMJ8faOCP5nnXH9edPPuocsmprjIAnJiFK8snVg_ILSqWJQYH_wwWI0QbuVaH-pf_ADRyXqDyBlKysjjHgbuS75I_AdShqAL8aTgVCfj5xMkQ5tVaw2jm-Q3m_6tWkBNmmuiSwDYfOcG4313FhXWuS48MciMxUEeKw6A99HqkEVD2ixGxnpH_REM6_PlvzLzg_znfH3ICBkF8kYm2dlAVdUNBh3FVRBOsAAZR_8fMQepGiDEnps1_R1gEbJwrmwoA2n_aiN34HUwH3vHmUPVjoG5shzQe4YGLvSCTH-qWwkXupnOXam0bsJZgcEQ3ITnMLWHsWweLfs3eVGkD6KNHRi8N3vUjU7DkKazY2V6uD2PRuQtdYb1V0pAzK6aGZqveGNR9x5EMKVZI63uL03Mj_H4W5ACTohZEdYbdgbrjhhs-H-yPvZV5sAWfXYFELa7hJVs9rQ1h38sMOEzpKr4gkZePQTJZVeaJghTC4KZeLzT8ePQmCC8TGzxGWwRA4tMmI--rwnQpvICJSBefcgb6oBOhmnipubw3Y6yC7oIMTaNNBk=",
-    "salt": "Igb9j7RwmgzQmDWCMJKALQ==",
-    "text": "A symbolic object or event is often used as an oracle to predict the future in Divination systems. The outcome of events is foretold by various occurrences, such as flights of birds, unusual weather, and untimely blossoming. Oracles are usually objects or events that are out of place, such as a seashell found on a mountain or a tree blossoming in winter. Omens, which predict ill-fortune, are sometimes distinguished from oracles, which are neutral or positive in nature. The term \"oracle\" can also refer to a prophet; however, this usage is more commonly associated with classical culture, like the Oracle of Delphi in Greece, rather than Celtic culture."
+    "evidence": "Monaghan, Encyclopedia of Celtic Mythology and Folklore"
+  }
 }
