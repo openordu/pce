@@ -1,34 +1,19 @@
 {
-    "name": "Eithne \u00daathach",
+    "name": "Eithne Úathach",
     "attributes": [
         {
-            "entity": "Eithne \u00daathach",
-            "attribute": "nickname",
-            "value": "Eithne the Horrible"
+            "entity": "Eithne Úathach",
+            "attribute": "called Eithne the Horrible"
         },
         {
-            "entity": "Eithne \u00daathach",
-            "attribute": "physical trait",
-            "value": "more beautiful"
-        },
-        {
-            "entity": "Eithne \u00daathach",
-            "attribute": "cannibalistic behavior",
-            "value": "devoured infant flesh"
+            "entity": "Eithne Úathach",
+            "attribute": "cannibal woman who grew more beautiful the more infant flesh she devoured"
         }
     ],
     "entities": [
         {
-            "entity": "Eithne \u00daathach",
-            "type": "Person"
-        },
-        {
-            "entity": "cannibal",
-            "type": "Trait"
-        },
-        {
-            "entity": "woman",
-            "type": "Gender"
+            "type": "Being",
+            "entity": "Eithne Úathach"
         }
     ],
     "sources": [
@@ -36,5 +21,14 @@
     ],
     "cyphertext": "yhnu83kyB57ieofDb_EoqJFvbxfxWCtXvGS2SziWCxuMAGWAB8Kv-ns3GolF5JY6tRf4Rsjur0X5zPyG_MxWdCC96JNeIg2WPpkdepcDqY_pAm8CC8vWdmHUZgy3uz74vrdio67ZtQa80UIwI_4ZsEwYaH-E7xDq3Z10OL4Mro_xJtdhilCZwd_7nvcD70zSpxlloaowEg==",
     "salt": "hwgDXmoJVOWVw9HDUMADUw==",
-    "text": "A woman named Eithne \u00daathach or Eithne the Horrible, gained a reputation for being a cannibal. It was believed that she became more beautiful as she ate more flesh from infants."
+    "text": "Eithne Úathach, also called Eithne the Horrible, was a cannibal woman in Irish legend. She grew more beautiful with each infant whose flesh she devoured. Horror and beauty merge in her terrible form.",
+    "okr": {
+        "objective": "Rewrite the Eithne Úathach entry as grounded, human-quality CSG-SME1000 prose.",
+        "key_results": [
+            "text is 150+ characters of short active sentences",
+            "the entry names her alias Eithne the Horrible",
+            "the cannibal attribute is stated plainly without hedging"
+        ],
+        "evidence": "Monaghan, The Encyclopedia of Celtic Mythology and Folklore, 2008"
+    }
 }
