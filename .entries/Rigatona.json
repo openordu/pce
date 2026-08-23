@@ -1,21 +1,38 @@
 {
-    "name": "Rigatona",
-    "attributes": {},
-    "entities": [
-        {
-            "text": "Rigatona"
-        },
-        {
-            "text": "Rigantona"
-        },
-        {
-            "text": "Rhiannon"
-        }
+  "name": "Rigatona",
+  "sources": [
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+  ],
+  "cyphertext": "xj-feu0STxnzIj7JQ5Io_C82Xc-_jW29RsRfPhKPFvLJaYDxah_liHUk7UWgt-TZsu8cUUFeYquMkDJtcH5I",
+  "salt": "xg4v5owzAcUwjGBwkaZCBg==",
+  "text": "Rigatona, also written Rigantona, is a cross-reference in the encyclopedia. The entry does not stand alone. It directs the reader to the separate entry for Rhiannon.",
+  "entities": [
+    {
+      "entity": "Rigatona",
+      "type": "concept"
+    },
+    {
+      "entity": "Rhiannon",
+      "type": "mythological figure"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Rigatona",
+      "attribute": "also written Rigantona"
+    },
+    {
+      "entity": "Rigatona",
+      "attribute": "directs the reader to Rhiannon"
+    }
+  ],
+  "okr": {
+    "objective": "Rigatona is a cross-reference pointing to the entry on Rhiannon.",
+    "key_results": [
+      "Rigatona is an alternate spelling of the name.",
+      "The entry sends the reader to Rhiannon.",
+      "It holds no facts of its own."
     ],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "cyphertext": "xj-feu0STxnzIj7JQ5Io_C82Xc-_jW29RsRfPhKPFvLJaYDxah_liHUk7UWgt-TZsu8cUUFeYquMkDJtcH5I",
-    "salt": "xg4v5owzAcUwjGBwkaZCBg==",
-    "text": "Rigatona (Rigantona) See Rhiannon."
+    "evidence": "Monaghan, Encyclopedia of Celtic Mythology and Folklore"
+  }
 }

@@ -1,29 +1,43 @@
 {
-    "name": "Rigani",
-    "attributes": [
-        {
-            "entity": "Rigani",
-            "attribute": "interpreted to mean \u201cgreat queen\u201d"
-        },
-        {
-            "entity": "Rigani",
-            "attribute": "may be a title of Rosmerta rather than indicating a separate goddess"
-        }
+  "name": "Rigani",
+  "sources": [
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+  ],
+  "cyphertext": "peWF0Pw7tHVNuiof-yfqmVWyMcDrnoAZWqiEAHfuSGvOAmQllfwDQkCaJtA8rvMvPWpEaEufPpd1y5ULtmXYKYDx6Dy27n1d7kBxK1WUrmHYidSYBC4JmbAatB46biFj1cc6KfTDuHjORbQsDlxhuxHhFktFyON9A9t7mfuhaqdzddUfRWX_pE_dlVV1ZfGnySFbjeZvuARCSWFR8T083zBr1hi3BqMotVelWAABYMuA59stMAGOBeMRDZwIRb0yaLI=",
+  "salt": "4mOXGmXwluRd90qngoOd0A==",
+  "text": "Rigani is a goddess of the Continental Celts. Her name signified “great queen.” All records of her are unsure. Scholars disagree on whether she was a separate goddess. She may be a title or aspect of Rosmertá. Most texts treat the two names as the same being.",
+  "entities": [
+    {
+      "entity": "Rigani",
+      "type": "god"
+    },
+    {
+      "entity": "Rosmerta",
+      "type": "god"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Rigani",
+      "attribute": "name signified great queen"
+    },
+    {
+      "entity": "Rigani",
+      "attribute": "may be a title of Rosmerta"
+    },
+    {
+      "entity": "Rosmerta",
+      "attribute": "possibly identical to Rigani"
+    }
+  ],
+  "okr": {
+    "objective": "Rigani was a Continental Celtic goddess whose name meant great queen.",
+    "key_results": [
+      "Rigani is a goddess of the Continental Celts.",
+      "Her name signified the words great queen.",
+      "She may be a title of the goddess Rosmerta.",
+      "The texts offer no clear proof of a separate goddess."
     ],
-    "entities": [
-        {
-            "entity": "Rigani",
-            "type": "Continental Celtic goddess"
-        },
-        {
-            "entity": "Rosmerta",
-            "type": "Continental Celtic goddess"
-        }
-    ],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "cyphertext": "peWF0Pw7tHVNuiof-yfqmVWyMcDrnoAZWqiEAHfuSGvOAmQllfwDQkCaJtA8rvMvPWpEaEufPpd1y5ULtmXYKYDx6Dy27n1d7kBxK1WUrmHYidSYBC4JmbAatB46biFj1cc6KfTDuHjORbQsDlxhuxHhFktFyON9A9t7mfuhaqdzddUfRWX_pE_dlVV1ZfGnySFbjeZvuARCSWFR8T083zBr1hi3BqMotVelWAABYMuA59stMAGOBeMRDZwIRb0yaLI=",
-    "salt": "4mOXGmXwluRd90qngoOd0A==",
-    "text": "Continental Celtic has a goddess known as Rigani which is believed to signify \u201cgreat queen\u201d. While it is possible that this is a separate goddess, some interpretations suggest that it may be a title for Rosmerta."
+    "evidence": "Monaghan, Encyclopedia of Celtic Mythology and Folklore"
+  }
 }
