@@ -1,15 +1,34 @@
 {
-    "name": "na buchtogai",
-    "attributes": {},
-    "entities": [
-        {
-            "text": "See Sea"
-        }
+  "name": "na buchtogai",
+  "attributes": [
+    {
+      "entity": "na buchtogai",
+      "attribute": "cross-reference to Sea Fairies"
+    }
+  ],
+  "entities": [
+    {
+      "entity": "na buchtogai",
+      "type": "mythological creature"
+    },
+    {
+      "entity": "Sea Fairies",
+      "type": "mythological creature"
+    }
+  ],
+  "sources": [
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+  ],
+  "cyphertext": "p7gDhZIPRpFdCG5WJdGODc5erDuRs1Tu2XkUYde-EqIrs3Wi5B_Tn0CH2ZEsEFdc_wc5RgwLYVFbSw==",
+  "salt": "HG98jOnK8ui95JQJffk26A==",
+  "text": "Na Buchtogai is a cross-reference that directs the reader to the Sea Fairies entry.",
+  "okr": {
+    "objective": "na buchtogai is a cross-reference to Sea Fairies.",
+    "key_results": [
+      "Na Buchtogai is an Irish term for sea fairies.",
+      "The entry points to the Sea Fairies article.",
+      "It carries no separate account of its own."
     ],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "cyphertext": "p7gDhZIPRpFdCG5WJdGODc5erDuRs1Tu2XkUYde-EqIrs3Wi5B_Tn0CH2ZEsEFdc_wc5RgwLYVFbSw==",
-    "salt": "HG98jOnK8ui95JQJffk26A==",
-    "text": "na buchtogai See Sea Fairies."
+    "evidence": "Monaghan, Encyclopedia of Celtic Mythology and Folklore"
+  }
 }

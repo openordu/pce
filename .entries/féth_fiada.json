@@ -1,18 +1,34 @@
 {
-    "name": "f\u00e9th fiada",
-    "attributes": {},
-    "entities": [
-        {
-            "text": "Druid"
-        },
-        {
-            "text": "Fog"
-        }
+  "name": "féth fiada",
+  "attributes": [
+    {
+      "entity": "féth fiada",
+      "attribute": "cross-reference to Druid's Fog"
+    }
+  ],
+  "entities": [
+    {
+      "entity": "féth fiada",
+      "type": "concept"
+    },
+    {
+      "entity": "Druid's Fog",
+      "type": "concept"
+    }
+  ],
+  "sources": [
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+  ],
+  "cyphertext": "FlIQuT5VWSgw14BjneXHcja8xULq0YsckiDxZG6_SY_SCsVBkE7mLeqQ3g_PYnYYwP-TuvHt9QD-Mco=",
+  "salt": "6HWDzUlaYq6CcMV80UWbFw==",
+  "text": "Féth fiada is a cross-reference that directs the reader to the Druid's Fog entry.",
+  "okr": {
+    "objective": "féth fiada is a cross-reference to Druid's Fog.",
+    "key_results": [
+      "Féth fiada is an Irish term.",
+      "The entry points to the Druid's Fog article.",
+      "It holds no account of its own."
     ],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "cyphertext": "FlIQuT5VWSgw14BjneXHcja8xULq0YsckiDxZG6_SY_SCsVBkE7mLeqQ3g_PYnYYwP-TuvHt9QD-Mco=",
-    "salt": "6HWDzUlaYq6CcMV80UWbFw==",
-    "text": "f\u00e9th fiada See Druid\u2019S Fog."
+    "evidence": "Monaghan, Encyclopedia of Celtic Mythology and Folklore"
+  }
 }

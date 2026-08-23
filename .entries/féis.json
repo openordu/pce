@@ -1,18 +1,41 @@
 {
-    "name": "f\u00e9is",
-    "attributes": {},
-    "entities": [
-        {
-            "text": "Feast"
-        }
+  "name": "féis",
+  "attributes": [
+    {
+      "entity": "féis",
+      "attribute": "cross-reference to Feast"
+    },
+    {
+      "entity": "féis",
+      "attribute": "Celtic term for a feast"
+    }
+  ],
+  "entities": [
+    {
+      "entity": "féis",
+      "type": "event"
+    },
+    {
+      "entity": "Feast",
+      "type": "event"
+    }
+  ],
+  "sources": [
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+  ],
+  "image": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Feis_competition.jpg/1200px-Feis_competition.jpg"
+  ],
+  "cyphertext": "8SMUvKvXNqcpef37pPKECGT4Wog4Etcws-K1ahZBJie1RPxAttReGZ_Q96MF",
+  "salt": "wZYLgJ-DcgmVJ_jrrXQ1hw==",
+  "text": "Féis is a cross-reference that directs the reader to the Feast entry.",
+  "okr": {
+    "objective": "féis is a Celtic feast cross-reference.",
+    "key_results": [
+      "Féis is a Celtic term.",
+      "The entry points to the Feast article.",
+      "It carries no separate account of its own."
     ],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "image": [
-        "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Feis_competition.jpg/1200px-Feis_competition.jpg"
-    ],
-    "cyphertext": "8SMUvKvXNqcpef37pPKECGT4Wog4Etcws-K1ahZBJie1RPxAttReGZ_Q96MF",
-    "salt": "wZYLgJ-DcgmVJ_jrrXQ1hw==",
-    "text": "f\u00e9is See Feast."
+    "evidence": "Monaghan, Encyclopedia of Celtic Mythology and Folklore"
+  }
 }
