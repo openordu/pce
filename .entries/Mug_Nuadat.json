@@ -1,18 +1,62 @@
 {
-    "name": "Mug Nuadat",
-    "attributes": {},
-    "entities": [
-        {
-            "text": "Mug Nuadat Irish"
-        },
-        {
-            "text": "E\u00f3gan"
-        }
-    ],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "cyphertext": "ux667f1vtFQ11tQx1SBhf-46rFV0zuYyH8CrVsRgquYIbL0J49ooLf7Bdqh6dc6wWRDuq56osGLCvqnT98dh",
-    "salt": "JdvJkdnZ967KfckyEEfY1g==",
-    "text": ""
+  "name": "Mug Nuadat",
+  "attributes": [
+    {
+      "entity": "Mug Nuadat",
+      "attribute": "a name for a hero-king who ruled the south of Munster"
+    },
+    {
+      "entity": "Mug Nuadat",
+      "attribute": "fought a long war against Conn of the Hundred Battles"
+    },
+    {
+      "entity": "Mug Nuadat",
+      "attribute": "married Beare, the Spanish princess of a long peninsula"
+    },
+    {
+      "entity": "Mug Nuadat",
+      "attribute": "the founding name of the Eoganacht line"
+    }
+  ],
+  "entities": [
+    {
+      "entity": "Mug Nuadat",
+      "type": "Person"
+    },
+    {
+      "entity": "Eogan",
+      "type": "Person"
+    },
+    {
+      "entity": "Munster",
+      "type": "Place"
+    },
+    {
+      "entity": "Beare",
+      "type": "Person"
+    },
+    {
+      "entity": "Conn of the Hundred Battles",
+      "type": "Person"
+    },
+    {
+      "entity": "Eoganacht",
+      "type": "Group"
+    }
+  ],
+  "sources": [
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+  ],
+  "cyphertext": "ux667f1vtFQ11tQx1SBhf-46rFV0zuYyH8CrVsRgquYIbL0J49ooLf7Bdqh6dc6wWRDuq56osGLCvqnT98dh",
+  "salt": "JdvJkdnZ967KfckyEEfY1g==",
+  "text": "Mug Nuadat is an Irish name for a hero-king. The same man appears in the tales as Eógan, in his full form Eógan Mór. He ruled the south of Ireland, the province the tales call Munster. Old books make him the husband of the Spanish princess Beare, who gave her name to a long peninsula. In some accounts that princess hides an old goddess of the land. Eógan waged war without end against his rival Conn, the king who bore the name of the Hundred Battles. When Conn invaded his land, Eógan ran away to Spain. He came back to fight again. He was beaten again, and Conn killed him at last. His memory lived on as the founding name of the Eoganacht, the royal line that long ruled the south.",
+  "objective": "Document Mug Nuadat.",
+  "key_results": [
+    "Record the king of Munster and his wife Beare.",
+    "Record the long war with Conn of the Hundred Battles.",
+    "Record the Eoganacht line that he founded."
+  ],
+  "evidence": [
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore (2008): Eogan entry."
+  ]
 }

@@ -1,18 +1,58 @@
 {
-    "name": "Mumu",
-    "attributes": {},
-    "entities": [
-        {
-            "text": "Muman"
-        },
-        {
-            "text": "Munster"
-        }
-    ],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "cyphertext": "IIYb-PPnlg-MXIBsJn4XhOaOmZCtXjE6os4d3YzaDyhb6JY8lApX2Q-5nnwWR9xbjL695n5S",
-    "salt": "T4nKwcdZv-S9c9zLCP1hIA==",
-    "text": "Mumu (Muman) See Munster."
+  "name": "Mumu",
+  "attributes": [
+    {
+      "entity": "Mumu",
+      "attribute": "an old name for the province of Munster"
+    },
+    {
+      "entity": "Munster",
+      "attribute": "the south province of music and song in the tale"
+    },
+    {
+      "entity": "Meath",
+      "attribute": "the center that was a symbol, not a real land"
+    }
+  ],
+  "entities": [
+    {
+      "entity": "Mumu",
+      "type": "Place"
+    },
+    {
+      "entity": "Munster",
+      "type": "Place"
+    },
+    {
+      "entity": "Leinster",
+      "type": "Place"
+    },
+    {
+      "entity": "Connacht",
+      "type": "Place"
+    },
+    {
+      "entity": "Ulster",
+      "type": "Place"
+    },
+    {
+      "entity": "Meath",
+      "type": "Place"
+    }
+  ],
+  "sources": [
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+  ],
+  "cyphertext": "IIYb-PPnlg-MXIBsJn4XhOaOmZCtXjE6os4d3YzaDyhb6JY8lApX2Q-5nnwWR9xbjL695n5S",
+  "salt": "T4nKwcdZv-S9c9zLCP1hIA==",
+  "text": "Mumu is an old name for the province of Munster, and the two names sit side by side in the books. In the old order of Ireland the earlier tale divided the island into four lands. Leinster in the east held the wealth. Connacht in the west held the wisdom. Ulster in the north held the war and its fierce men. Munster toward the southwest held the music and the song. A fifth land, Meath, took the center, but it was a symbol of the myth, not a real map. Munster the south was known for the fertile valley and for the goddesses of its high places.",
+  "objective": "Document Mumu.",
+  "key_results": [
+    "Record Mumu as an old name for Munster.",
+    "Record the four lands of the tale.",
+    "Record Munster as the land of music and song."
+  ],
+  "evidence": [
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore (2008): Munster entry."
+  ]
 }
