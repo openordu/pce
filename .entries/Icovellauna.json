@@ -1,62 +1,52 @@
 {
-    "name": "Icovellauna",
-    "attributes": [
-        {
-            "entity": "Icovellauna",
-            "attribute": "meaning"
-        },
-        {
-            "entity": "Icovellauna",
-            "attribute": "cult"
-        },
-        {
-            "entity": "Icovellauna",
-            "attribute": "presumed type"
-        },
-        {
-            "entity": "Healing goddess",
-            "attribute": "location of shrine"
-        },
-        {
-            "entity": "octagonal shrine",
-            "attribute": "shape"
-        }
-    ],
-    "entities": [
-        {
-            "entity": "Icovellauna",
-            "type": "Continental Celtic goddess"
-        },
-        {
-            "entity": "Metz",
-            "type": "Location"
-        },
-        {
-            "entity": "Trier",
-            "type": "Location"
-        },
-        {
-            "entity": "Water divinity",
-            "type": "Type of deity"
-        },
-        {
-            "entity": "Healing goddess",
-            "type": "Type of deity"
-        },
-        {
-            "entity": "octagonal shrine",
-            "type": "Type of structure"
-        },
-        {
-            "entity": "Spring of Sablon",
-            "type": "Location"
-        }
-    ],
-    "sources": [
-        "Green, Miranda. Symbol and Image in Celtic Religious Art. London: Routledge, 1989, 40.",
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "cyphertext": "rMiif-nt2Sl4Y1WN5-MtpozHgz9-15AzHF0lDjWqzGVYq33lIZzKBWVntrZth7i3BsD0qGPiHU054mepcVFsIJm69lHQ_3FDKibY120US57MTDwcqrpLe5t6X2Kd0Rzd_3REqfxGAIyFLHbuq6X2fk1jwATwpELG-c5h84sSIh-5dOXPABcZl9TpFjglgh494bQ2-MvxiTaz0Lpbeyrxc1efVDB3tXV_QInk8SD1AVDOutIXD4KJGuHXwBRassa9sfr7z-YTyZxVaFU4ldM1r3Qf8gsFZGH_VdUMLqi6yU8_WHxZUZRo2HSyDQBnk5sJqnlTw0jz2RT8UeCC-DpkhvtLI1SyIEq9jngpeaRc9UfdFrTkLxeNeWnmvF0ckl57lVMFXiyGrd30fuHbMgVzF4UF-DL-UyW9ANsn8kp4DGff4DXg5m8eI9F7v82JuhwTEQNDTaDYvGTEsHRn-UY0is8KDjHEJL_q9g8GjnO5GF8XONQmknBJUkixYue2lLptuL7XNZchRH5JniP-MjG222CNB6IkNnfgHkhEAI69rzIiSvg-9b4FrAfrDCai0ElOcERlk-Vu9KWkJSEe2xSC9IsxfJtQ9WBUHHGjLW8DHZZQd53DPW2fBdSs",
-    "salt": "5ZN_-8piaxznepPKfT4cUA==",
-    "text": "Goddess Icovellauna is a Continental Celtic deity whose inscriptions have been discovered in Germany's Metz and Trier. Nevertheless, her significance and worship are not well-understood. Based on the interpretation of the initial part of her name (-Ico) which pertains to \"water,\" it is assumed that she is a water divinity, potentially the goddess of healing who was venerated in the octagonal sanctuary uncovered in the Sablon Spring."
+  "name": "Icovellauna",
+  "attributes": [
+    {
+      "entity": "Icovellauna",
+      "attribute": "a Continental Celtic goddess with inscriptions at Metz and Trier"
+    },
+    {
+      "entity": "Icovellauna",
+      "attribute": "likely a water and healing goddess, with an eight-sided shrine at the Spring of Sablo"
+    }
+  ],
+  "entities": [
+    {
+      "entity": "Icovellauna",
+      "type": "Person"
+    },
+    {
+      "entity": "Metz",
+      "type": "Place"
+    },
+    {
+      "entity": "Trier",
+      "type": "Place"
+    },
+    {
+      "entity": "Spring of Sablon",
+      "type": "Place"
+    },
+    {
+      "entity": "Germany",
+      "type": "Place"
+    }
+  ],
+  "sources": [
+    "Green, Miranda. Symbol and Image in Celtic Religious Art. London: Routledge, 1989, 40.",
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+  ],
+  "cyphertext": "rMiif-nt2Sl4Y1WN5-MtpozHgz9-15AzHF0lDjWqzGVYq33lIZzKBWVntrZth7i3BsD0qGPiHU054mepcVFsIJm69lHQ_3FDKibY120US57MTDwcqrpLe5t6X2Kd0Rzd_3REqfxGAIyFLHbuq6X2fk1jwATwpELG-c5h84sSIh-5dOXPABcZl9TpFjglgh494bQ2-MvxiTaz0Lpbeyrxc1efVDB3tXV_QInk8SD1AVDOutIXD4KJGuHXwBRassa9sfr7z-YTyZxVaFU4ldM1r3Qf8gsFZGH_VdUMLqi6yU8_WHxZUZRo2HSyDQBnk5sJqnlTw0jz2RT8UeCC-DpkhvtLI1SyIEq9jngpeaRc9UfdFrTkLxeNeWnmvF0ckl57lVMFXiyGrd30fuHbMgVzF4UF-DL-UyW9ANsn8kp4DGff4DXg5m8eI9F7v82JuhwTEQNDTaDYvGTEsHRn-UY0is8KDjHEJL_q9g8GjnO5GF8XONQmknBJUkixYue2lLptuL7XNZchRH5JniP-MjG222CNB6IkNnfgHkhEAI69rzIiSvg-9b4FrAfrDCai0ElOcERlk-Vu9KWkJSEe2xSC9IsxfJtQ9WBUHHGjLW8DHZZQd53DPW2fBdSs",
+  "salt": "5ZN_-8piaxznepPKfT4cUA==",
+  "text": "Icovellauna is a Continental Celtic goddess. Inscriptions to her have been found at Metz and Trier in Germany. Little is known about her meaning or cult. The first syllable of her name, Ico- , means water. She is presumably a water divinity. She is probably the healing goddess. Her eight-sided shrine was excavated at the Spring of Sablon.",
+  "objective": "Document the Continental Celtic goddess Icovellauna and her inscriptions.",
+  "key_results": [
+    "Record the inscriptions at Metz and Trier.",
+    "Note the water meaning of the Ico- syllable.",
+    "Note the eight-sided shrine at the Spring of Sablon."
+  ],
+  "evidence": [
+    "Monaghan, P. The Encyclopedia of Celtic Myth and Folklore (2008): Icovellauna entry.",
+    "Green, M. Symbol and Image in Celtic Religious Art. London: Routledge, 1989, p. 40."
+  ]
 }

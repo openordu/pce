@@ -1,18 +1,36 @@
 {
-    "name": "Igerna",
-    "attributes": {},
-    "entities": [
-        {
-            "text": "Igerna See Igraine"
-        }
-    ],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "image": [
-        "https://upload.wikimedia.org/wikipedia/commons/c/ca/Uther_and_Igraine.jpg"
-    ],
-    "cyphertext": "qIHYDzVGMTFoCSv0HxPxOoN04PchSqdKU4b8QWaI-dDeUhB5wvKYqYaBQx3yber2",
-    "salt": "CHGGS8OxnOPUylbN46J_TQ==",
-    "text": "Igerna See Igraine."
+  "name": "Igerna",
+  "attributes": [
+    {
+      "entity": "Igerna",
+      "attribute": "an alternate spelling of Igraine"
+    }
+  ],
+  "entities": [
+    {
+      "entity": "Igerna",
+      "type": "Person"
+    },
+    {
+      "entity": "Igraine",
+      "type": "Person"
+    }
+  ],
+  "sources": [
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+  ],
+  "image": [
+    "https://upload.wikimedia.org/wikipedia/commons/c/ca/Uther_and_Igraine.jpg"
+  ],
+  "cyphertext": "qIHYDzVGMTFoCSv0HxPxOoN04PchSqdKU4b8QWaI-dDeUhB5wvKYqYaBQx3yber2",
+  "salt": "CHGGS8OxnOPUylbN46J_TQ==",
+  "text": "Igerna is another spelling of Igraine. See the Igraine entry.",
+  "objective": "Cross-reference the name Igerna to Igraine.",
+  "key_results": [
+    "Record Igerna as an alternate spelling.",
+    "Send the reader to the Igraine entry."
+  ],
+  "evidence": [
+    "Monaghan, P. The Encyclopedia of Celtic Mythology and Folklore (2008): Igerna entry."
+  ]
 }
