@@ -3,97 +3,45 @@
     "attributes": [
         {
             "entity": "Gallizenae",
-            "attribute": "Breton folkloric figures"
+            "attribute": "were Druid women who lived off Brittany on the Isle de Sena"
         },
         {
-            "entity": "Druid women",
-            "attribute": "historical"
+            "entity": "Gallizenae",
+            "attribute": "formed a college of priestesses like the one that served the Irish Brigit"
         },
         {
-            "entity": "Isle de Sein",
-            "attribute": "off the west coast of Brittany"
-        },
-        {
-            "entity": "Pointe de Raz",
-            "attribute": "near Isle de Sein"
-        },
-        {
-            "entity": "Dahut",
-            "attribute": "dissolute pagan princess"
-        },
-        {
-            "entity": "Ys",
-            "attribute": "city of Dahut"
-        },
-        {
-            "entity": "college of priestesses",
-            "attribute": "believed to have been"
-        },
-        {
-            "entity": "Irish Brigit",
-            "attribute": "one thought to have served"
-        },
-        {
-            "entity": "Divination",
-            "attribute": "practicing"
-        },
-        {
-            "entity": "Magic",
-            "attribute": "practicing"
-        },
-        {
-            "entity": "men",
-            "attribute": "without intercourse, social or otherwise, with"
+            "entity": "Gallizenae",
+            "attribute": "practiced divination and magic without contact with men"
         }
     ],
     "entities": [
         {
             "entity": "Gallizenae",
-            "type": "folkloric figures"
-        },
-        {
-            "entity": "Druid women",
-            "type": "historical"
+            "type": "Group"
         },
         {
             "entity": "Brittany",
-            "type": "location"
+            "type": "Place"
         },
         {
-            "entity": "Isle de Sein",
-            "type": "location"
+            "entity": "Isle de Seine",
+            "type": "Place"
         },
         {
             "entity": "Pointe de Raz",
-            "type": "location"
+            "type": "Place"
         },
         {
             "entity": "Dahut",
-            "type": "pagan princess"
+            "type": "Person"
         },
         {
             "entity": "Ys",
-            "type": "city"
+            "type": "Place"
         },
         {
-            "entity": "college of priestesses",
-            "type": "religious group"
-        },
-        {
-            "entity": "Irish Brigit",
-            "type": "religious figure"
-        },
-        {
-            "entity": "Divination",
-            "type": "practice"
-        },
-        {
-            "entity": "Magic",
-            "type": "practice"
-        },
-        {
-            "entity": "men",
-            "type": "gender"
+            "entity": "Brigit",
+            "type": "Deity"
         }
     ],
     "sources": [
@@ -104,5 +52,14 @@
     ],
     "cyphertext": "S1_FLkUHQ3j_j9J1OYiNldBtNBg9RKOn2sFrDGDQqq_ELrOkoxU4OXTZk_qSqsrh1i3QGrR_z04RgOOkkv87WnLPNJsMhgwr9hT9Dve5AjjWF1j7_9nTWUScPdC0LCcHrBICa2990jW4DQjxevBFi_ENQVBVB0YuekW3bSP4Hk_e56XcDZAym9SSH9CWn-ql_zh-FN02likAylpHV29VQ2YLgo914ALrjW4SGwmMr4ac2PhVEBRUyAjgOEXzeMyX3dtvXH_y1nbBjcaUqztT0B3HGzPE8D622vxN2jbhLl2PaEcYuYiHIZXJxeSmfRV6Jnqjmk3WH9aVDs5wxAMBGGkk6Uwmb9WK2RLeUh47XrOmqTg2LfhRVhE_wAbdNwaKuJWGmnq2MJyS61RXkapjtL0ZIoxUGgpYK_OWFUH5IZcdad8dRlheTQfDg9hGYD9qr8oNSNHRCVIUka4Xbnkqy8knUqRuYvgwi0MOiQHIdsZhQDfsiFyDYNSakgq7fwKP7CLiVTZVDqDbywH5FLM5x0Q7pllBr5fO2EaF07UsZsy7z-IKSunRO12SWlQmLah411GJXvZouIY_g1QUmnMzN6S5bnuyt38jTYvNFwp4RaBAW_zl469QdHZpDUQGagLhokmoRsk3y-4j5L3o",
     "salt": "NE091r5BmhrPs5PzhXE92A==",
-    "text": "Breton folklore is rich with legends of the Gallizenae, Druid women who resided on the Isle de Sein near Pointe de Raz off the west coast of Brittany. The location is often associated with the story of Princess Dahut and her city of Ys, known for its immoral ways. The Gallizenae were believed to be a group of priestesses, similar to the Irish Brigit, who practiced divination and other types of magic. It was said that they did not engage in any social or physical interaction with men."
+    "text": "The Gallizenae were Breton folkloric figures. They were Druid women. They lived off the west coast of Brittany on the Isle de Seine. The isle lies near Pointe de Raz. They connect to the tales of the dissolute princess Dahut and her city of Ys. They formed a college of priestesses. The college resembled the one that served the Irish Brigit. They practiced divination and other magic without contact with men.",
+    "okr": {
+        "objective": "Record the Gallizenae as Druid women of Breton legend.",
+        "key_results": [
+            "Place the Gallizenae on the Isle de Sena near Pointe de Raz.",
+            "Describe them as a college of priestesses linked to the Irish Brigit.",
+            "State their practice of divination and magic apart from men."
+        ],
+        "evidence": "Monaghan, The Encyclopedia of Celtic Mythology and Folklore, 2008, s.v. 'Gallizenae'."
+    }
 }

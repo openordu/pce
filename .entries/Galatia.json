@@ -3,45 +3,33 @@
     "attributes": [
         {
             "entity": "Galatia",
-            "attribute": "settled by Celts"
+            "attribute": "was an ancient Celtic land in central Anatolia"
         },
         {
-            "entity": "Galatia",
-            "attribute": "mentioned by St. Paul"
-        },
-        {
-            "entity": "Anatolia",
-            "attribute": "now Turkey"
+            "entity": "Celts",
+            "attribute": "settled in Galatia in the third century B.C.E."
         },
         {
             "entity": "St. Paul",
-            "attribute": "wrote epistles to the residents of the region"
+            "attribute": "wrote to the residents of Galatia in his epistles"
         }
     ],
     "entities": [
         {
             "entity": "Galatia",
-            "type": "Ancient Celtic land"
+            "type": "Place"
         },
         {
             "entity": "Anatolia",
-            "type": "Region"
-        },
-        {
-            "entity": "Turkey",
-            "type": "Country"
+            "type": "Place"
         },
         {
             "entity": "Celts",
-            "type": "Ethnic group"
-        },
-        {
-            "entity": "third century B.C.E.",
-            "type": "Time period"
+            "type": "Group"
         },
         {
             "entity": "St. Paul",
-            "type": "Christian"
+            "type": "Person"
         }
     ],
     "sources": [
@@ -52,5 +40,14 @@
     ],
     "cyphertext": "Ztvwlnv5IXuBMRGhgj8QC5GWgbdjSQOWUMK9zCAgNziV8ZppdZ9uVGvcCFYCyIzoNugC9U4hReG7HOxwp4Edy1b1xnHXqmsry0voQnridpoEFsSMh-ymrBVIxFSFQrNXLqkSW2eZTt0LK1EbmTHV91ScpRpvMBW030eHUG1Hu9GIwq-krdGZIZ7Yb_hFAwaRhMSbYwfxAd850LupTXgl6z-Fvqd1klmFhAo_SFz63wpZ5GJZrNrY0O5J1Bp9lUPVBL7RLfaZ43deGXBnKpdQCizfc0TJkl48xHPmVG1TEHLUHdDWS4rJqcSSyg==",
     "salt": "FsETR0Y8vvYzGdpBS_DygQ==",
-    "text": "Ancient Celtic land of Galatia, located in central Anatolia (which is now Turkey), was settled by Celts in the third century B.C.E. St. Paul mentioned this region in his epistles to the inhabitants of Galatia."
+    "text": "Galatia was an ancient Celtic land. It stood in central Anatolia. That region is now part of Turkey. Celts settled there in the third century B.C.E. St. Paul mentioned the region in his epistles. He wrote to the residents of the land.",
+    "okr": {
+        "objective": "Record the ancient Celtic land of Galatia.",
+        "key_results": [
+            "Place Galatia in central Anatolia in modern Turkey.",
+            "State that the Celts settled there in the third century B.C.E.",
+            "Name St. Paul's letter to the residents of the region."
+        ],
+        "evidence": "Monaghan, The Encyclopedia of Celtic Mythology and Folklore, 2008, s.v. 'Galatia'."
+    }
 }
