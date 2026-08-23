@@ -1,11 +1,46 @@
 {
-    "name": "Mountain Sunday",
-    "attributes": {},
-    "entities": [],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "cyphertext": "8GoF7mJgAEN67ANsu4RU7t3_wPUClrwyj3SMggSRmo9-rCFJqTV4NDLPJ_58v7yy_oSQIn2xYqMSbQ==",
-    "salt": "3D0Q0SBn1UHrdu-zSyGHdA==",
-    "text": "Mountain Sunday See Lughnasa."
+  "name": "Mountain Sunday",
+  "attributes": [
+    {
+      "entity": "Mountain Sunday",
+      "attribute": "the last Sunday of July, a climb kept from the feast of Lughnasa"
+    },
+    {
+      "entity": "Lughnasa",
+      "attribute": "the Celtic harvest feast that opened the season on August 1"
+    },
+    {
+      "entity": "Croagh Patrick",
+      "attribute": "a holy peak in the west of Ireland climbed on that Sunday"
+    }
+  ],
+  "entities": [
+    {
+      "entity": "Mountain Sunday",
+      "type": "Holiday"
+    },
+    {
+      "entity": "Lughnasa",
+      "type": "Holiday"
+    },
+    {
+      "entity": "Croagh Patrick",
+      "type": "Place"
+    }
+  ],
+  "sources": [
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+  ],
+  "cyphertext": "8GoF7mJgAEN67ANsu4RU7t3_wPUClrwyj3SMggSRmo9-rCFJqTV4NDLPJ_58v7yy_oSQIn2xYqMSbQ==",
+  "salt": "3D0Q0SBn1UHrdu-zSyGHdA==",
+  "text": "Mountain Sunday is a later form of the feast of Lughnasa. It comes on the last Sunday of July. On that day the faithful climb a high hill, a rite that began with the old Celtic harvest feast. That feast, which the Celts called Lughnasa, opened the harvest on August 1. To climb a high place at Lughnasa was old Celtic custom. The best known climb today is to the peak of Croagh Patrick in the west of Ireland. The holy mount holds the old feast alive in a new Christian rite. The climb keeps a link to the summer feast of the first day of August.",
+  "objective": "Document Mountain Sunday.",
+  "key_results": [
+    "Record the climb on the last Sunday of July.",
+    "Record the root in the feast of Lughnasa.",
+    "Record the climb of Croagh Patrick."
+  ],
+  "evidence": [
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore (2008): Mountain Sunday, Lughnasa, Croagh Patrick."
+  ]
 }

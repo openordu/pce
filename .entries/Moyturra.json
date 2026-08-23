@@ -1,18 +1,66 @@
 {
-    "name": "Moyturra",
-    "attributes": {},
-    "entities": [
-        {
-            "text": "Moyturra See"
-        },
-        {
-            "text": "Mag"
-        }
-    ],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "cyphertext": "OW-aBzhdaWSgTMxvvgQJqq3w1hy9KnWRjI9vzS64njnMhDw5O9sYt2rsvT2P6lgFBu-yxUs=",
-    "salt": "7zm08tCopIntVF4mBx8kaw==",
-    "text": "Moyturra See Mag Tuired."
+  "name": "Moyturra",
+  "attributes": [
+    {
+      "entity": "Moyturra",
+      "attribute": "the plain of Mag Tuired where two great fights took place"
+    },
+    {
+      "entity": "Tuatha De Danann",
+      "attribute": "the winners of both fights on the plain"
+    },
+    {
+      "entity": "Moyturra",
+      "attribute": "a site in Connacht, in County Mayo or County Sligo"
+    },
+    {
+      "entity": "Moyturra",
+      "attribute": "a name that means plain of the pillars"
+    }
+  ],
+  "entities": [
+    {
+      "entity": "Moyturra",
+      "type": "Place"
+    },
+    {
+      "entity": "Mag Tuired",
+      "type": "Place"
+    },
+    {
+      "entity": "Tuatha De Danann",
+      "type": "Group"
+    },
+    {
+      "entity": "Fir Bolg",
+      "type": "Group"
+    },
+    {
+      "entity": "Fomorians",
+      "type": "Group"
+    },
+    {
+      "entity": "Nuada",
+      "type": "Person"
+    },
+    {
+      "entity": "Connacht",
+      "type": "Place"
+    }
+  ],
+  "sources": [
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+  ],
+  "cyphertext": "OW-aBzhdaWSgTMxvvgQJqq3w1hy9KnWRjI9vzS64njnMhDw5O9sYt2rsvT2P6lgFBu-yxUs=",
+  "salt": "7zm08tCopIntVF4mBx8kaw==",
+  "text": "Moyturra, also called Mag Tuired, is an Irish place of myth. Two great fights of Irish legend took place on the plain of Mag Tuired. Both fights gave the victory to the Tuatha De Danann, the folk of the goddess Danu. In the first fight the heroes of Danu under king Nuada took Ireland from the older folk, the Fir Bolg. In the second, better known fight, the tribe of Danu drove out the Fomorians. The true site of the plain is still disputed. It lay in the west, in the province of Connacht. Both County Mayo and County Sligo have been proposed. In Sligo many old stones lie over the field and may have given the plain its name, plain of the pillars.",
+  "objective": "Document the plain Mag Tuired.",
+  "key_results": [
+    "Record the plain as the site of two great fights.",
+    "Record the win of the Tuatha De Danann.",
+    "Record the open site in the west of Ireland."
+  ],
+  "evidence": [
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore (2008): Mag Tuired entry."
+  ]
 }
