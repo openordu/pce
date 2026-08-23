@@ -1,11 +1,38 @@
 {
-    "name": "cumhal",
-    "attributes": {},
-    "entities": [],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+  "name": "cumhal",
+  "attributes": [
+    {
+      "entity": "cumhal",
+      "attribute": "cross-reference heading"
+    },
+    {
+      "entity": "cumhal",
+      "attribute": "directs the reader to the article on milk"
+    }
+  ],
+  "entities": [
+    {
+      "entity": "cumhal",
+      "type": "concept"
+    },
+    {
+      "entity": "milk",
+      "type": "concept"
+    }
+  ],
+  "sources": [
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+  ],
+  "cyphertext": "T2muoyogcPi93XeXcGhLhFNGRFMm8QFzq8pep-mw58dzGmKj9KL5-2qiuup7",
+  "salt": "vPSH1GpN5jUFGTn9E7jxHQ==",
+  "text": "The index uses cumhal as a cross-reference heading. It directs the reader to the entry on milk.",
+  "okr": {
+    "objective": "cumhal is a cross-reference to the article on milk.",
+    "key_results": [
+      "The entry cumhal directs the reader to milk.",
+      "The source offers no further detail at this heading.",
+      "Milk is the topic toward which the heading points."
     ],
-    "cyphertext": "T2muoyogcPi93XeXcGhLhFNGRFMm8QFzq8pep-mw58dzGmKj9KL5-2qiuup7",
-    "salt": "vPSH1GpN5jUFGTn9E7jxHQ==",
-    "text": "cumhal See Milk."
+    "evidence": "Monaghan, Encyclopedia of Celtic Mythology and Folklore"
+  }
 }

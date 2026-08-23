@@ -1,15 +1,38 @@
 {
-    "name": "curad-m\u00edr",
-    "attributes": {},
-    "entities": [
-        {
-            "text": "curad-m\u00edr"
-        }
+  "name": "curad-mír",
+  "attributes": [
+    {
+      "entity": "curad-mír",
+      "attribute": "cross-reference heading"
+    },
+    {
+      "entity": "curad-mír",
+      "attribute": "directs the reader to the article on the champion's portion"
+    }
+  ],
+  "entities": [
+    {
+      "entity": "curad-mír",
+      "type": "concept"
+    },
+    {
+      "entity": "champion's portion",
+      "type": "concept"
+    }
+  ],
+  "sources": [
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+  ],
+  "cyphertext": "9mnZ__EqSYJx5D8f31YRouaH1_x_nKOPgcS3ItR3R2vF8YMuRoXt_xhYNNs2psrnvjCUUSM-EIE5AphbzxKChP9QB5obf8HkaUIsfUc=",
+  "salt": "ujAqn-MZHJe-F4rkUDdSJg==",
+  "text": "The index uses curad-mir, also spelled curadmir, as a cross-reference heading. It directs the reader to the entry on the champion's portion.",
+  "okr": {
+    "objective": "curad-mir is a cross-reference to the article on the champion's portion.",
+    "key_results": [
+      "The entry curad-mir directs the reader to the champion's portion.",
+      "The source offers no further detail at this heading.",
+      "The champion's portion is the topic toward which the heading points."
     ],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "cyphertext": "9mnZ__EqSYJx5D8f31YRouaH1_x_nKOPgcS3ItR3R2vF8YMuRoXt_xhYNNs2psrnvjCUUSM-EIE5AphbzxKChP9QB5obf8HkaUIsfUc=",
-    "salt": "ujAqn-MZHJe-F4rkUDdSJg==",
-    "text": "curad-m\u00edr (curadmir) See Champion\u2019S Portion."
+    "evidence": "Monaghan, Encyclopedia of Celtic Mythology and Folklore"
+  }
 }

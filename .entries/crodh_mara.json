@@ -1,49 +1,58 @@
 {
-    "name": "crodh mara",
-    "attributes": [
-        {
-            "entity": "Cattle",
-            "attribute": "supernatural"
-        },
-        {
-            "entity": "Cattle",
-            "attribute": "red"
-        },
-        {
-            "entity": "Cattle",
-            "attribute": "gray"
-        },
-        {
-            "entity": "Cattle",
-            "attribute": "dun"
-        }
+  "name": "crodh mara",
+  "attributes": [
+    {
+      "entity": "crodh mara",
+      "attribute": "hornless supernatural cattle"
+    },
+    {
+      "entity": "crodh mara",
+      "attribute": "kept by fairies in the ocean deeps"
+    },
+    {
+      "entity": "crodh mara",
+      "attribute": "came ashore to mate with mortal cows"
+    },
+    {
+      "entity": "crodh mara",
+      "attribute": "often red, sometimes gray or dun"
+    }
+  ],
+  "entities": [
+    {
+      "entity": "crodh mara",
+      "type": "mythological creature"
+    },
+    {
+      "entity": "fairies",
+      "type": "being"
+    },
+    {
+      "entity": "cattle",
+      "type": "animal"
+    },
+    {
+      "entity": "cows",
+      "type": "animal"
+    },
+    {
+      "entity": "Scotland",
+      "type": "place"
+    }
+  ],
+  "sources": [
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+  ],
+  "cyphertext": "CyrEt9qGYb1BbDDglEnBl9Vz7mvK5lU9xv8OAGF3n03xaSOaSnmQdyjwZY0DhpI_M7y1m_1qq6a7FGHjP4-xBsNGP-M5PcgtuW8aRpSoARPUzLMk097ctYkYuhqQAaTOgTStvsg7MUG7m-KQjdQZKevF3-qKhn1ZX3hxqDdKBtSScRWAfw2sQQNYC5Xl4NlQHI3-8OkNula8CQde8r0NtgtRrlfdslAJipK8eG8wIJUeLnzbVHsbUXecVpgrcXlWVqKIh2NU5_wQpH7S_B_SYC3_rr_Sh6kxrpqvmrR8EbPGw60d6ZuwsznBRNkd9m76mWJG91DWodTZZEdeF7rcK1Li31FE7Ib-Y8lahTr48HKiqnqtP5t1wgzQkIS6JQzBUkwN5oFzij8frgZpAptxmV2lNT57jW3BoDLmQEoUq3Br3yBAwgiZQ6Z0OLw1qJhoKgLFJNesAuPLfkDooYvGUt1FV0j3iPU=",
+  "salt": "6MhUvyV0PTG5yRuNvnG52Q==",
+  "text": "The Highlanders of Scotland called this mythological animal crodh mara. They believed hornless supernatural cattle belonged to the fairies and dwelt in the ocean deeps. The cattle could leave the sea and pair with ordinary cows. The pairing bettered the herds of the land. The cattle usually carried a red coat, a color shared by many fairy beasts. Sometimes they appeared gray or dun in color.",
+  "okr": {
+    "objective": "crodh mara are fairy cattle of the Scottish ocean deeps.",
+    "key_results": [
+      "Highlanders of Scotland believed fairies kept these hornless cattle at sea.",
+      "The cattle came ashore to mate with mortal cows and bettered earthly herds.",
+      "They were often red and sometimes seen as gray or dun."
     ],
-    "entities": [
-        {
-            "entity": "crodh mara",
-            "type": "Scottish mythological animal"
-        },
-        {
-            "entity": "Highlanders of Scotland",
-            "type": "people"
-        },
-        {
-            "entity": "Fairies",
-            "type": "supernatural beings"
-        },
-        {
-            "entity": "Cattle",
-            "type": "hornless supernatural Cattle"
-        },
-        {
-            "entity": "mortal Cows",
-            "type": "animals"
-        }
-    ],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "cyphertext": "CyrEt9qGYb1BbDDglEnBl9Vz7mvK5lU9xv8OAGF3n03xaSOaSnmQdyjwZY0DhpI_M7y1m_1qq6a7FGHjP4-xBsNGP-M5PcgtuW8aRpSoARPUzLMk097ctYkYuhqQAaTOgTStvsg7MUG7m-KQjdQZKevF3-qKhn1ZX3hxqDdKBtSScRWAfw2sQQNYC5Xl4NlQHI3-8OkNula8CQde8r0NtgtRrlfdslAJipK8eG8wIJUeLnzbVHsbUXecVpgrcXlWVqKIh2NU5_wQpH7S_B_SYC3_rr_Sh6kxrpqvmrR8EbPGw60d6ZuwsznBRNkd9m76mWJG91DWodTZZEdeF7rcK1Li31FE7Ib-Y8lahTr48HKiqnqtP5t1wgzQkIS6JQzBUkwN5oFzij8frgZpAptxmV2lNT57jW3BoDLmQEoUq3Br3yBAwgiZQ6Z0OLw1qJhoKgLFJNesAuPLfkDooYvGUt1FV0j3iPU=",
-    "salt": "6MhUvyV0PTG5yRuNvnG52Q==",
-    "text": "Scottish folklore describes a creature known as crodh mara. As legend has it, the Fairies possessed hornless, mystical cattle that dwelt in the depths of the ocean. These creatures would occasionally venture onto land to mate with mortal cows, resulting in improved herds. Most accounts depict them as red, which is a common color among fairy beings, while others claim they appeared gray or dun-colored."
+    "evidence": "Monaghan, Encyclopedia of Celtic Mythology and Folklore"
+  }
 }

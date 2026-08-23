@@ -1,61 +1,59 @@
 {
-    "name": "crossing water",
-    "attributes": [
-        {
-            "entity": "Fairies",
-            "attribute": "cannot cross running water"
-        },
-        {
-            "entity": "Wild Hunt",
-            "attribute": "pursues individuals"
-        },
-        {
-            "entity": "Fairies",
-            "attribute": "live on islands in or under the waves of lakes"
-        }
+  "name": "crossing water",
+  "attributes": [
+    {
+      "entity": "fairies",
+      "attribute": "could not cross running water"
+    },
+    {
+      "entity": "wild hunt",
+      "attribute": "pursued people on land"
+    },
+    {
+      "entity": "running water",
+      "attribute": "offered protection from the wild hunt"
+    },
+    {
+      "entity": "fairies",
+      "attribute": "often lived on islands in or under lakes"
+    }
+  ],
+  "entities": [
+    {
+      "entity": "crossing water",
+      "type": "concept"
+    },
+    {
+      "entity": "fairies",
+      "type": "being"
+    },
+    {
+      "entity": "Isle of Man",
+      "type": "place"
+    },
+    {
+      "entity": "wild hunt",
+      "type": "being"
+    },
+    {
+      "entity": "running water",
+      "type": "concept"
+    }
+  ],
+  "sources": [
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+  ],
+  "cyphertext": "L1oWH6CXek5eVjUqK37FJl5fgbsacqAjWhGMM3KVJ1i7vD8rqMbDUULdgQP3hwrBbeUmk2tSm4O8ON-5yDrfrIstMImKDooWMp2bGEipOTU5RCebwCh5SDAVkewRVEfm0Wo9NszbKMutVc7JEnL387ucFN03wNYL2PrTmd0ITmWYPmohUzQKMvuZnYs2rMPxM3ZghNDDWsJXP42Nudg4R6SicL_58f4AO8QNDB7IYbdM1qWOoaoOMyrBD5pCMdBXHcYC1rc9MhPKSoYDZPB5pNnMI_fh-T7QutPiSTJ5FtxqJU7nNgv1YKTBPt0wbZweDKe0-Iy2c4GjnsB7CocAvw5kH4kV_hJEQphHkH4-lxZhWOLQwGiMlvHfHczgbH11-UwHMz_nYZE7sx0C9ZAXM9nKfYb5qc4k5GpvVVhqKXekp0rrZ2cnuq8skT2AnQHboI5qKjD04Dddi0IBAT328bBKVOopyWx1pzEOWrHLIQ8cZAuKQuYSBscd-AV6eKaMTHAehZ5t9eCC4N8=",
+  "salt": "mjbu9RwWo-RAgqdlXn9iZw==",
+  "text": "A common folk belief kept fairies from crossing running water. People held this idea in some Celtic areas, such as the Isle of Man. If the wild hunt pursued a person, running across a stream offered protection. Standing water gave no help. Fairies in Ireland often made their homes on islands that sat in or below the wave tops of lakes.",
+  "okr": {
+    "objective": "Crossing running water is a folkloric protection motif.",
+    "key_results": [
+      "In some Celtic lands fairies could not cross running water.",
+      "Running across a stream offered protection from the wild hunt.",
+      "Standing water gave no help to the pursued.",
+      "Fairies in Ireland were said to live on islands in or under lakes."
     ],
-    "entities": [
-        {
-            "entity": "Celtic lands",
-            "type": "Location"
-        },
-        {
-            "entity": "Isle of Man",
-            "type": "Location"
-        },
-        {
-            "entity": "Fairies",
-            "type": "Mythical Creature"
-        },
-        {
-            "entity": "Wild Hunt",
-            "type": "Mythical Creature"
-        },
-        {
-            "entity": "Stream",
-            "type": "Water Body"
-        },
-        {
-            "entity": "Standing water",
-            "type": "Water Body"
-        },
-        {
-            "entity": "Ireland",
-            "type": "Location"
-        },
-        {
-            "entity": "Islands",
-            "type": "Geographical Feature"
-        },
-        {
-            "entity": "Lakes",
-            "type": "Water Body"
-        }
-    ],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "cyphertext": "L1oWH6CXek5eVjUqK37FJl5fgbsacqAjWhGMM3KVJ1i7vD8rqMbDUULdgQP3hwrBbeUmk2tSm4O8ON-5yDrfrIstMImKDooWMp2bGEipOTU5RCebwCh5SDAVkewRVEfm0Wo9NszbKMutVc7JEnL387ucFN03wNYL2PrTmd0ITmWYPmohUzQKMvuZnYs2rMPxM3ZghNDDWsJXP42Nudg4R6SicL_58f4AO8QNDB7IYbdM1qWOoaoOMyrBD5pCMdBXHcYC1rc9MhPKSoYDZPB5pNnMI_fh-T7QutPiSTJ5FtxqJU7nNgv1YKTBPt0wbZweDKe0-Iy2c4GjnsB7CocAvw5kH4kV_hJEQphHkH4-lxZhWOLQwGiMlvHfHczgbH11-UwHMz_nYZE7sx0C9ZAXM9nKfYb5qc4k5GpvVVhqKXekp0rrZ2cnuq8skT2AnQHboI5qKjD04Dddi0IBAT328bBKVOopyWx1pzEOWrHLIQ8cZAuKQuYSBscd-AV6eKaMTHAehZ5t9eCC4N8=",
-    "salt": "mjbu9RwWo-RAgqdlXn9iZw==",
-    "text": "Folkloric motif pertaining to crossing water is found in some Celtic regions such as the Isle of Man. According to the belief, Fairies were unable to cross running water. So, if one was being chased by the Wild Hunt, running across a stream would provide shelter. However, standing water was not considered an alternative since fairies resided in or beneath waves of lakes, particularly in Ireland."
+    "evidence": "Monaghan, Encyclopedia of Celtic Mythology and Folklore"
+  }
 }
