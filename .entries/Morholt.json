@@ -1,72 +1,57 @@
 {
-    "name": "Morholt",
-    "entities": [
-        {
-            "entity": "Morholt",
-            "type": "Irish hero"
-        },
-        {
-            "entity": "Irish Giant",
-            "type": "warrior"
-        },
-        {
-            "entity": "land",
-            "type": "geographical"
-        },
-        {
-            "entity": "king Mark",
-            "type": "royalty"
-        },
-        {
-            "entity": "Cornwall",
-            "type": "geographical"
-        },
-        {
-            "entity": "Tristan",
-            "type": "knight"
-        },
-        {
-            "entity": "poisoned sword",
-            "type": "weapon"
-        },
-        {
-            "entity": "niece",
-            "type": "family"
-        },
-        {
-            "entity": "Iseult",
-            "type": "fair"
-        }
-    ],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "attributes": [
-        {
-            "entity": "Morholt",
-            "attribute": "Irish hero"
-        },
-        {
-            "entity": "Irish Giant",
-            "attribute": "warrior"
-        },
-        {
-            "entity": "Tristan",
-            "attribute": "knight"
-        },
-        {
-            "entity": "poisoned sword",
-            "attribute": "weapon"
-        },
-        {
-            "entity": "Iseult",
-            "attribute": "fair"
-        }
-    ],
-    "image": [
-        "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Holy_Grail_Tapestry_-The_Arming_and_Departure_of_the_Kniights.jpg/1200px-Holy_Grail_Tapestry_-The_Arming_and_Departure_of_the_Kniights.jpg"
-    ],
-    "cyphertext": "gPvDIhz_orJRIxkz36BvichCIYYSFxQAauu81N9OTq8L6mbgo4CgJTJ9uEhfKFKXxvT3NIHIO8RE8ppBt902J6Y6upliuTyFeEzdqOqrWAtWHXZsuSCG7b2Ucoh0DUe6TMzxMbD4JIffMgdE0sJ_hjqGECFCNC5k6pXewOPJeZ1kAyxdUU-3OU-JHwqIf0XkOqL3p5Pq5y2jl4YI8xL69hCSH1s-Oz0Uqu64rUr7LsmvYhEzpBCaxiVW0HSbaug_m8FLlLDnIv8zx3PmlgpTNGnf_WE0NlzJ390cWs0hQIw84itxDwVTysyMuofS3DPOQBpkZzBdN85Uaoqs5nCwj28MenSrc29kXajPieFhJG_ag8cJNbNE9CvIWvu3vN6A5wXInAGEKIlAm4IwqaMXXbM4sXzibcJM7XzPC-Nsw-nBHut2KUVk7mUPvk8=",
-    "salt": "BNRdLZWjnj74G_mEZnH6Bg==",
-    "text": "Irish hero Morholt, also known as Morhold, was a formidable warrior and giant who imposed a yearly tribute on the land of Cornwall's king, Mark. After a fierce battle, Morholt was slain by the valiant knight Tristan, who barely survived the encounter with the Irishman's poisonous sword. Eventually, Tristan fell deeply in love with Morholt's beautiful niece, the fair Iseult."
+  "name": "Morholt",
+  "entities": [
+    {
+      "entity": "Morholt",
+      "type": "Person"
+    },
+    {
+      "entity": "Mark",
+      "type": "Person"
+    },
+    {
+      "entity": "Cornwall",
+      "type": "Place"
+    },
+    {
+      "entity": "Tristan",
+      "type": "Person"
+    },
+    {
+      "entity": "Iseult",
+      "type": "Person"
+    }
+  ],
+  "sources": [
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+  ],
+  "attributes": [
+    {
+      "entity": "Morholt",
+      "attribute": "an Irish hero and a giant warrior who came yearly to king Mark's land of Cornwall to claim tribute"
+    },
+    {
+      "entity": "Tristan",
+      "attribute": "killed Morholt, almost dying from his poisoned sword"
+    },
+    {
+      "entity": "Tristan",
+      "attribute": "later fell in love with Morholt's niece, the fair Iseult"
+    }
+  ],
+  "image": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Holy_Grail_Tapestry_-The_Arming_and_Departure_of_the_Kniights.jpg/1200px-Holy_Grail_Tapestry_-The_Arming_and_Departure_of_the_Kniights.jpg"
+  ],
+  "cyphertext": "gPvDIhz_orJRIxkz36BvichCIYYSFxQAauu81N9OTq8L6mbgo4CgJTJ9uEhfKFKXxvT3NIHIO8RE8ppBt902J6Y6upliuTyFeEzdqOqrWAtWHXZsuSCG7b2Ucoh0DUe6TMzxMbD4JIffMgdE0sJ_hjqGECFCNC5k6pXewOPJeZ1kAyxdUU-3OU-JHwqIf0XkOqL3p5Pq5y2jl4YI8xL69hCSH1s-Oz0Uqu64rUr7LsmvYhEzpBCaxiVW0HSbaug_m8FLlLDnIv8zx3PmlgpTNGnf_WE0NlzJ390cWs0hQIw84itxDwVTysyMuofS3DPOQBpkZzBdN85Uaoqs5nCwj28MenSrc29kXajPieFhJG_ag8cJNbNE9CvIWvu3vN6A5wXInAGEKIlAm4IwqaMXXbM4sXzibcJM7XzPC-Nsw-nBHut2KUVk7mUPvk8=",
+  "salt": "BNRdLZWjnj74G_mEZnH6Bg==",
+  "text": "Morholt, also spelled Morhold, was an Irish hero. He was a giant warrior who came each year to the land of king Mark of Cornwall. He claimed a tribute or tax there from the Cornish folk. The strong knight Tristan killed him, almost dying from Morholt's poisoned sword. The wound festered until Tristan found healing. Tristan later fell in love with Morholt's niece, the fair Iseult. Iseult was promised to king Mark, yet she and Tristan shared a fateful passion. Morholt's death set in motion the famous tragedy of the two lovers.",
+  "objective": "Document the Irish hero Morholt and his death at Tristan's hands.",
+  "key_results": [
+    "Record Morholt as an Irish giant warrior who claimed tribute from Cornwall.",
+    "Record Tristan's killing of Morholt, almost dying from the poisoned sword.",
+    "Record Tristan's later love for Morholt's niece Iseult."
+  ],
+  "evidence": [
+    "Monaghan, P. The Encyclopedia of Celtic Mythology and Folklore (2008): Morholt entry, p. 339."
+  ]
 }

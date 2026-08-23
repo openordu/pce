@@ -1,53 +1,51 @@
 {
-    "name": "Morfudd",
-    "attributes": [
-        {
-            "entity": "Morfudd",
-            "attribute": "daughter of Urien"
-        },
-        {
-            "entity": "Morfudd",
-            "attribute": "obscure heroine"
-        },
-        {
-            "entity": "Morfudd",
-            "attribute": "ferch Urien"
-        },
-        {
-            "entity": "Morfudd",
-            "attribute": "Welsh"
-        },
-        {
-            "entity": "Urien",
-            "attribute": "king"
-        },
-        {
-            "entity": "Modron",
-            "attribute": "goddess"
-        },
-        {
-            "entity": "Morfudd",
-            "attribute": "heroine"
-        }
-    ],
-    "entities": [
-        {
-            "entity": "Morfudd",
-            "type": "Welsh heroine"
-        },
-        {
-            "entity": "Urien",
-            "type": "king"
-        },
-        {
-            "entity": "Modron",
-            "type": "goddess"
-        }
-    ],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "cyphertext": "rLoDjnQS_KaGgYDpQvc9_WpgplFUJn28h2SNNKhReW3EJQBYgz8kZIXPHeqziBs2_SQDNXbfiH8FMkME3eBfVFSc_jKWeycV4As5T0g65FxJ85kRp4Z6fMChBn8dziCmnqjrqGZ_kf6ShuGC3DA_sGScqRRl9jhHXlPpydYiVq9LTI8nPja5ID9ZM0aW1UzHqHZaewCbHcDazsjG4_detdLVC5yqTYkQ7W3n",
-    "salt": "Jo-Nt__VyPVxfO97nwC7Jg==",
-    "text": "Welsh heroine Morfudd, also known as Morfudd ferch Urien, had a mysterious origin. She was the offspring of King Urien and probably the deity Modron."
+  "name": "Morfudd",
+  "attributes": [
+    {
+      "entity": "Morfudd",
+      "attribute": "an obscure Welsh heroine and the daughter of king Urien"
+    },
+    {
+      "entity": "Modron",
+      "attribute": "possibly the mother of Morfudd"
+    },
+    {
+      "entity": "Morfudd",
+      "attribute": "the twin sister of Owain ab Urien"
+    }
+  ],
+  "entities": [
+    {
+      "entity": "Morfudd",
+      "type": "Person"
+    },
+    {
+      "entity": "Urien",
+      "type": "Person"
+    },
+    {
+      "entity": "Modron",
+      "type": "Deity"
+    },
+    {
+      "entity": "Owain",
+      "type": "Person"
+    }
+  ],
+  "sources": [
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+  ],
+  "cyphertext": "rLoDjnQS_KaGgYDpQvc9_WpgplFUJn28h2SNNKhReW3EJQBYgz8kZIXPHeqziBs2_SQDNXbfiH8FMkME3eBfVFSc_jKWeycV4As5T0g65FxJ85kRp4Z6fMChBn8dziCmnqjrqGZ_kf6ShuGC3DA_sGScqRRl9jhHXlPpydYiVq9LTI8nPja5ID9ZM0aW1UzHqHZaewCbHcDazsjG4_detdLVC5yqTYkQ7W3n",
+  "salt": "Jo-Nt__VyPVxfO97nwC7Jg==",
+  "text": "Morfudd, also called Morfudd ferch Urien, was a Welsh heroine. This obscure figure was the daughter of king Urien. Her mother may have been the goddess Modron. Koch's encyclopedia records her as one of Urien's children. She was the twin sister of Owain ab Urien. The early Welsh poets wrote of Bountiful and beautiful Morfudd. She was sometimes counted among the notable women of Britain. Her story survives mostly through the genealogies of Urien's house and the praises of the bards.",
+  "objective": "Document the Welsh heroine Morfudd and her kinship.",
+  "key_results": [
+    "Record Morfudd as the daughter of king Urien.",
+    "Record her mother may have been the goddess Modron.",
+    "Record her as twin sister to Owain ab Urien."
+  ],
+  "evidence": [
+    "Monaghan, P. The Encyclopedia of Celtic Mythology and Folklore (2008): Morfudd entry, p. 338.",
+    "Koch, J. T., ed. Celtic Culture: A Historical Encyclopedia (2006): Morfudd, p. 1523."
+  ]
 }
