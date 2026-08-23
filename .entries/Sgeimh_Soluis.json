@@ -1,57 +1,59 @@
 {
-    "name": "Sgeimh Soluis",
-    "entities": [
-        {
-            "entity": "Sgeimh Soluis",
-            "type": "Irish heroine"
-        },
-        {
-            "entity": "Fianna",
-            "type": "warriors"
-        },
-        {
-            "entity": "Fionn Mac Cumhaill",
-            "type": "leader"
-        },
-        {
-            "entity": "Tara",
-            "type": "kingdom"
-        },
-        {
-            "entity": "CORMac Mac Airt",
-            "type": "great king"
-        },
-        {
-            "entity": "Gabhair",
-            "type": "battle"
-        }
-    ],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "attributes": [
-        {
-            "entity": "Fianna",
-            "attribute": "became unpopular"
-        },
-        {
-            "entity": "Fianna",
-            "attribute": "grew greedy and violent"
-        },
-        {
-            "entity": "Sgeimh Soluis",
-            "attribute": "Irish heroine"
-        },
-        {
-            "entity": "CORMac Mac Airt",
-            "attribute": "great king of Tara"
-        },
-        {
-            "entity": "Gabhair",
-            "attribute": "utterly defeated"
-        }
-    ],
-    "cyphertext": "qXdhoTwOPQZBXKE630RRNQ3zj5X5hEQX5YwLIwnxZMYgyTxElFbC0F6RgIpfyURuTKdIpz1w2pVy7M2aC1X8HilsiaUBPWLSBhSwQqW2CrVXR6OX9UMFb7MbAARr8h-9-YrACLdyZ4H1QmbqnVEiJ4BYe35Ce7tQ9goXvJ9hMGWztVgdnGrfdnofqXo8hc2y7psEnVXuVv_44aQGQMBwIy4x_F6zRV6wCocAZuPsrSOc-lf-focOtsLgGObvlRbVk7dXHB89AbI5BEApLVA6NglIslY7e3dhN88_nsTDpbMrKMikPnouQzqvP7uX3m2RghFdy0b199O-VVtm_0ZGOoEhews2QGmU4S5WZAmGQ2WGla-i7eO8FOAK0joEOWd5eukovI18kvm0AC3iDuI9Z8Xm0aoR7HGKPA9XoTjYCuvqzD1REHhsAvj4H8OwTq3tZGbOFx144lLwl3m9KtqM63aOXsZ0Bqwm3kekzPuGJwojIanSFaY-ES8GvCpv0yTDHnDA-W0EzAwuvBPf1U7PLYmbqPlM",
-    "salt": "QjmgBVY-9leQ7nMTwcewqg==",
-    "text": "Irish legend talks about Sgeimh Soluis, a heroine who stood up against the Fianna, a group of warriors led by Fionn Mac Cumhaill. After Fionn's passing, the Fianna's actions turned violent and greedy, causing them to fall out of favor. As a granddaughter of Cormac Mac Airt, the high king of Tara, Sgeimh Soluis refused to pay tribute to the Fianna before her marriage. In retaliation, the Fianna attacked her, and she courageously fought back, leading to the Battle of Gabhair, where they were ultimately defeated."
+  "name": "Sgeimh Soluis",
+  "entities": [
+    {
+      "entity": "Sgeimh Soluis",
+      "type": "Irish heroine"
+    },
+    {
+      "entity": "Fianna",
+      "type": "Warrior band"
+    },
+    {
+      "entity": "Fionn Mac Cumhaill",
+      "type": "Hero"
+    },
+    {
+      "entity": "Cormac Mac Airt",
+      "type": "King"
+    },
+    {
+      "entity": "Tara",
+      "type": "Place"
+    },
+    {
+      "entity": "Gabhair",
+      "type": "Battlefield"
+    }
+  ],
+  "sources": [
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+  ],
+  "attributes": [
+    {
+      "entity": "Sgeimh Soluis",
+      "attribute": "granddaughter of Cormac the king of Tara"
+    },
+    {
+      "entity": "Sgeimh Soluis",
+      "attribute": "refused tribute to the Fianna before marriage"
+    },
+    {
+      "entity": "Fianna",
+      "attribute": "grew greedy and violent after Fionn's death"
+    },
+    {
+      "entity": "Fianna",
+      "attribute": "defeated at the battle of Gabhair"
+    }
+  ],
+  "cyphertext": "qXdhoTwOPQZBXKE630RRNQ3zj5X5hEQX5YwLIwnxZMYgyTxElFbC0F6RgIpfyURuTKdIpz1w2pVy7M2aC1X8HilsiaUBPWLSBhSwQqW2CrVXR6OX9UMFb7MbAARr8h-9-YrACLdyZ4H1QmbqnVEiJ4BYe35Ce7tQ9goXvJ9hMGWztVgdnGrfdnofqXo8hc2y7psEnVXuVv_44aQGQMBwIy4x_F6zRV6wCocAZuPsrSOc-lf-focOtsLgGObvlRbVk7dXHB89AbI5BEApLVA6NglIslY7e3dhN88_nsTDpbMrKMikPnouQzqvP7uX3m2RghFdy0b199O-VVtm_0ZGOoEhews2QGmU4S5WZAmGQ2WGla-i7eO8FOAK0joEOWd5eukovI18kvm0AC3iDuI9Z8Xm0aoR7HGKPA9XoTjYCuvqzD1REHhsAvj4H8OwTq3tZGbOFx144lLwl3m9KtqM63aOXsZ0Bqwm3kekzPuGJwojIanSFaY-ES8GvCpv0yTDHnDA-W0EzAwuvBPf1U7PLYmbqPlM",
+  "salt": "QjmgBVY-9leQ7nMTwcewqg==",
+  "text": "Sgeimh Soluis is an Irish heroine. The great band of warriors called the Fianna lost favor after the death of their leader Fionn Mac Cumhaill. They grew greedy and violent. Sgeimh Soluis was the granddaughter of Cormac Mac Airt, the great king of Tara. Before her marriage she refused to pay tribute to the Fianna. The warriors attacked her. At the battle of Gabhair they met utter defeat. Sgeimh Soluis stands as the woman who broke the Fianna's pride and turned their strength to ruin. Her story survives as a tale of a single refusal that brought down a violent band.",
+  "objective": "Replace the machine text for Sgeimh Soluis with a fresh CSG-SME1000 rewrite from Monaghan.",
+  "key_results": [
+    "text holds a fresh CSG-SME1000 rewrite, not a copy of the machine prose",
+    "entities and attributes corrected and enriched for the kgraph"
+  ],
+  "evidence": "Monaghan 2003; Koch 2006."
 }
