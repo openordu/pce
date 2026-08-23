@@ -3,61 +3,37 @@
     "attributes": [
         {
             "entity": "elf-shot",
-            "attribute": "weapon used by fairies"
+            "attribute": "folkloric motif of tiny invisible arrows flung by fairies"
         },
         {
-            "entity": "fairies",
-            "attribute": "mythical creatures"
+            "entity": "elf-shot",
+            "attribute": "one shot could bring down a cow"
         },
         {
-            "entity": "beast",
-            "attribute": "target of fairy attacks"
+            "entity": "fairy stroke",
+            "attribute": "old name for the paralysis left by an elf-shot"
         },
         {
-            "entity": "person",
-            "attribute": "target of fairy attacks"
-        },
-        {
-            "entity": "tiny arrows",
-            "attribute": "weapon used by fairies"
-        },
-        {
-            "entity": "Cow",
-            "attribute": "animal brought down by elf-shot"
-        },
-        {
-            "entity": "Fairy Stroke",
-            "attribute": "name for paralysis caused by elf-shot"
+            "entity": "elf-shot",
+            "attribute": "also called elf-smitten"
         }
     ],
     "entities": [
         {
             "entity": "elf-shot",
-            "type": "folkloric motif"
+            "type": "Concept"
         },
         {
-            "entity": "fairies",
-            "type": "mythical creatures"
+            "entity": "fairy",
+            "type": "Being"
         },
         {
-            "entity": "beast",
-            "type": "target of fairy attacks"
+            "entity": "cow",
+            "type": "Animal"
         },
         {
-            "entity": "person",
-            "type": "target of fairy attacks"
-        },
-        {
-            "entity": "tiny arrows",
-            "type": "weapon used by fairies"
-        },
-        {
-            "entity": "Cow",
-            "type": "animal"
-        },
-        {
-            "entity": "Fairy Stroke",
-            "type": "paralysis"
+            "entity": "fairy stroke",
+            "type": "Concept"
         }
     ],
     "sources": [
@@ -68,5 +44,15 @@
     ],
     "cyphertext": "S-cJvM_ip06UoGNTuHMLeo-isPH89VRo64IJq3Dk7UyXsVds7ODWBthcZARXnfzph-Vo3y6E6rNBCCP3qj5QdAnbnSMZUm3HmLrJFYESiqux9IKiI_K019spD9Fk1cRfdTfkQoCw0qk1O2Fg_pfAKPTjB521mwWpLVvockYEjE_oCkIjZPoiAJoK7e-GcaT3OfCVV0O1nByGuFXgz7ZHmrQPFrcM3uPwWbxIeTNa2qWf2Zdu5z6qQJjDNCt0L-lGP6sgF-6yLSHlNHyPXUIUbDk9JeASXGE4mv3_UzIL-pUM8ElqeaRhjwyZHN4tbf0A2LJGpu6GhHP1MkTq-VUrAV8IDlp5cRcFrmUHU7nMZsr42cue8N7W8wgxd2z3DQwq6jjhDpM9ZnXFzUO8N1GhlD-_M87UvACcQ-SCLCrda0jD4oM23Ej6X8Ov2En9WuGazEHJ9gL3wEdjt5c-yY9ugUnnBo9B7JeJQaoAlla95SOKHeGSTF3RgI73F9zfv26slYpC4nbw4uF1fiYRiFvrKSI2ClgSsoEjZ8YRQ09Mha0AHdBbs1jwOrMPw3tN1V3hI0RZCVzftKvo6o8_JRwaMsdX_NN0y9uS_n0=",
     "salt": "J-0NxLiB3f1iV1n4i2_iOA==",
-    "text": "Folklore features the motif of elf-shot, also known as elf-smitten. Fairies were not unarmed when attacking humans or animals, as they had miniature arrows they could use as weapons. Despite their almost invisibility, they could cause tremendous damage due to their great force. It is said that a single elf-shot was powerful enough to incapacitate a cow. Those struck by such an arrow would experience either partial or full paralysis, referred to as Fairy Stroke."
+    "text": "Elf-shot is a folkloric motif, also called elf-smitten. Fairies used tiny, almost invisible arrows against beasts and people. The arrows flew with great force and caused real damage. One elf-shot could bring down a cow. Those struck fell into partial or full paralysis. People still call that state by its old name, fairy stroke.",
+    "okr": {
+        "objective": "Rewrite the elf-shot motif in clear prose from the source.",
+        "key_results": [
+            "Define elf-shot as a folkloric motif of fairy arrows",
+            "State that one shot could bring down a cow",
+            "Note the resulting paralysis called fairy stroke",
+            "Keep the entry brief to match its motif length"
+        ],
+        "evidence": "Monaghan, The Encyclopedia of Celtic Mythology and Folklore, 2008, s.v. elf-shot."
+    }
 }

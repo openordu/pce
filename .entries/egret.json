@@ -3,81 +3,37 @@
     "attributes": [
         {
             "entity": "egret",
-            "attribute": "Symbolic bird"
+            "attribute": "special symbol of the god Esus"
         },
         {
-            "entity": "Waterbirds",
-            "attribute": "important religious symbols to the Celts"
-        },
-        {
-            "entity": "Celts",
-            "attribute": "people who considered waterbirds as important religious symbols"
-        },
-        {
-            "entity": "elements",
-            "attribute": "various habitats where waterbirds lived comfortably"
-        },
-        {
-            "entity": "air",
-            "attribute": "one of the elements where waterbirds lived comfortably"
-        },
-        {
-            "entity": "water",
-            "attribute": "one of the elements where waterbirds lived comfortably"
-        },
-        {
-            "entity": "land",
-            "attribute": "one of the elements where waterbirds lived comfortably"
-        },
-        {
-            "entity": "egret",
-            "attribute": "special symbol of the continental Celtic god Esus"
-        },
-        {
-            "entity": "continental Celtic god Esus",
-            "attribute": "god associated with the egret"
-        },
-        {
-            "entity": "Crane",
+            "entity": "crane",
             "attribute": "also appears in the iconography of Esus"
+        },
+        {
+            "entity": "waterbird",
+            "attribute": "important religious symbols because they lived in air, water, and land"
+        },
+        {
+            "entity": "Esus",
+            "attribute": "continental Celtic god whose symbol was the egret"
         }
     ],
     "entities": [
         {
             "entity": "egret",
-            "type": "bird"
+            "type": "Animal"
         },
         {
-            "entity": "Waterbirds",
-            "type": "animals"
+            "entity": "crane",
+            "type": "Animal"
         },
         {
-            "entity": "Celts",
-            "type": "people"
+            "entity": "Esus",
+            "type": "Deity"
         },
         {
-            "entity": "elements",
-            "type": "natural phenomena"
-        },
-        {
-            "entity": "air",
-            "type": "natural element"
-        },
-        {
-            "entity": "water",
-            "type": "natural element"
-        },
-        {
-            "entity": "land",
-            "type": "natural element"
-        },
-        {
-            "entity": "continental Celtic god Esus",
-            "type": "deity"
-        },
-        {
-            "entity": "Crane",
-            "type": "bird"
+            "entity": "waterbird",
+            "type": "Animal"
         }
     ],
     "sources": [
@@ -88,5 +44,15 @@
     ],
     "cyphertext": "4qW6DdUDo5wAatiyCqSLlZz11gFv6yp2I4zKy4G8puZTazl29aifcK_Kt-T2-3hPFpfcvs1rUA_y4GsJw8eGcqusJmgS6LKzMg92-Jbm0PjnTImTfi7BBtCjhyzGAuO5jz2Z-Vdcl-13DGS-R-wk2X9CaoaoyAZrl-cYlNS43Uu-vQssgjenEizd3-PbsydX-Hl6PY8b81i0dBryPoBM658HwbpKxQ612eCY7zQFoAL21Qb8aZBbvwoAP85p7awelztM1a4Vh8koTIrZN-HsdQQAfnhogRmfsPx8xJRWGKmEkTjH3kGM978Nj0TW-ChpDAQM1Aae9VAF6HwT-n4lCvXXTsRojh1R7WCu0Six_4Tn_n0yWkK2FeSPpbLCwEsZXHHBI7BUSy-AAcgivTiw",
     "salt": "sx4Y2uoF96YKgdB_5bWQ7Q==",
-    "text": "Waterbirds played a significant role as religious symbols for the Celts due to their ability to adapt to different environments such as air, water, and land. The egret, a bird known for its elegant feathers, served as a distinctive symbol for the continent's Celtic god, Esus. However, the Crane also held a place in Esus' iconography."
+    "text": "The egret is a symbolic bird. Waterbirds carried religious weight for the Celts. They lived easily in the air, in water, and on land. This bird served as the emblem of Esus, a continental Celtic god. The crane kept a place in his iconography as well.",
+    "okr": {
+        "objective": "Rewrite the thin egret entry with the source's factual claims only.",
+        "key_results": [
+            "Present the egret as a symbolic waterbird",
+            "Link the egret to the god Esus",
+            "Note the crane in the same iconography",
+            "Keep the entry brief to match the thin source"
+        ],
+        "evidence": "Monaghan, The Encyclopedia of Celtic Mythology and Folklore, 2008, s.v. egret."
+    }
 }

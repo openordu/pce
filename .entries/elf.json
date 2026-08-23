@@ -2,58 +2,54 @@
     "name": "elf",
     "attributes": [
         {
-            "attribute": "name",
-            "value": "elf"
+            "entity": "elf",
+            "attribute": "word for the people of the Otherworld"
         },
         {
-            "attribute": "other names",
-            "value": "elves, elven, elfin folk"
+            "entity": "elf",
+            "attribute": "came to Britain with the Vikings from Scandinavia"
         },
         {
-            "attribute": "origin",
-            "value": "Scandinavia"
+            "entity": "elf",
+            "attribute": "used as often as fairy and brownie in Britain"
         },
         {
-            "attribute": "introduction to Britain",
-            "value": "with Viking raiders and immigrants"
+            "entity": "ellyll",
+            "attribute": "small, transparent fairy that acted like a brownie"
         },
         {
-            "attribute": "naturalization",
-            "value": "soon after introduction"
-        },
-        {
-            "attribute": "frequency of use",
-            "value": "as often as such words as Fairy and Brownie"
+            "entity": "Mab",
+            "attribute": "queen under whom the ellyllon danced"
         }
     ],
     "entities": [
         {
-            "entity": "people of the Otherworld",
-            "type": "name"
+            "entity": "elf",
+            "type": "Being"
         },
         {
-            "entity": "Britain",
-            "type": "location"
+            "entity": "Otherworld",
+            "type": "Concept"
         },
         {
-            "entity": "Scandinavia",
-            "type": "location"
+            "entity": "Viking",
+            "type": "Group"
         },
         {
-            "entity": "Viking raiders",
-            "type": "group"
+            "entity": "fairy",
+            "type": "Being"
         },
         {
-            "entity": "immigrants",
-            "type": "group"
+            "entity": "brownie",
+            "type": "Being"
         },
         {
-            "entity": "Fairy",
-            "type": "name"
+            "entity": "ellyll",
+            "type": "Being"
         },
         {
-            "entity": "Brownie",
-            "type": "name"
+            "entity": "Mab",
+            "type": "Being"
         }
     ],
     "sources": [
@@ -64,5 +60,15 @@
     ],
     "cyphertext": "H-WrWB3tWVotqEDJvzexocV0mhH3LMitH_OOKVxtUx_B65cR5xRhpo8lYC-ANZ-GJuU0kkwDMRXZ2S3fncBjMeerfz_ZzLibVnx6mcEVtiAjHYPNkvAVTDcc8tlbSzVfxmNu4bELOZKEsJUrS0rquNtRaSIcFmBr1VAvR0ClS94bncJVzMlmHK_TQUus2uJ5VvJOq_FTYc4HdvFvng0AQ7eHT6qIRJZoPXwVfbcSOKnz3rvTuEyY9FlfX6SgUHmvLKFn_Ao-znQtge_hNmoWWwBh-2PTTs63_wIZOvgm2aMYPes471aO-1gdiCHRZ09OnqFLO3fS-aFa-QyTcwSaoxr1",
     "salt": "WGha3tRZHHjtd6xn9YUgeQ==",
-    "text": "The elven folk, also known as elves or elfin folk, were brought to Britain from Scandinavia by Viking raiders and immigrants. This name became a common term and was naturalized quickly alongside other similar terms such as Fairy and Brownie."
+    "text": "Elf is a word for the people of the Otherworld. The name reached Britain from Scandinavia with the Viking raiders and immigrants. The term became naturalized in Britain. People used it as often as fairy and brownie. The small, transparent ellyll usually worked alone, yet the ellyllon could gather under their queen Mab to dance as troopers.",
+    "okr": {
+        "objective": "Rewrite the elf entry with the source's account of the term's origin.",
+        "key_results": [
+            "Explain elf as a name for the Otherworld people",
+            "State that the term came to Britain from Scandinavia with the Vikings",
+            "Note its equal standing with fairy and brownie",
+            "Describe the ellyll and the queen Mab"
+        ],
+        "evidence": "Monaghan, The Encyclopedia of Celtic Mythology and Folklore, 2008, s.v. elf."
+    }
 }
