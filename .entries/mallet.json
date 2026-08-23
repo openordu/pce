@@ -1,64 +1,59 @@
 {
-    "name": "mallet",
-    "attributes": [
-        {
-            "entity": "Celtic gods",
-            "attribute": "carry a tool that resembles a Hammer"
-        },
-        {
-            "entity": "tool",
-            "attribute": "resembles a Hammer"
-        },
-        {
-            "entity": "tool",
-            "attribute": "called a mallet"
-        },
-        {
-            "entity": "phallic symbolism",
-            "attribute": "clear"
-        },
-        {
-            "entity": "Irish god Dagda",
-            "attribute": "known for his enormous mallet"
-        },
-        {
-            "entity": "mallet",
-            "attribute": "enormous"
-        },
-        {
-            "entity": "mallet",
-            "attribute": "dragged around on a wheeled cart"
-        }
-    ],
-    "entities": [
-        {
-            "entity": "mallet",
-            "type": "tool"
-        },
-        {
-            "entity": "Celtic gods",
-            "type": "deity"
-        },
-        {
-            "entity": "Sucellus",
-            "type": "Celtic god"
-        },
-        {
-            "entity": "bat",
-            "type": "tool"
-        },
-        {
-            "entity": "Irish god Dagda",
-            "type": "deity"
-        }
-    ],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "image": [
-        "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Rubber_mallets.jpg/1200px-Rubber_mallets.jpg"
-    ],
-    "cyphertext": "JjASGSachlAuFWMSpEwWXTjSFGLkQ0Oz3I9Cbazs6z3yUf3KnSwi9yFIVM9xfybuA7RzBYk9XLgcmjFEvt48tnT5MerdHC_bL0_QS6-PfEBFKr0hZEINOGbYX4nSrl3Au87zP8Olmui7CCCexaDj348g7IGyReVLaYImIxwEvBP3XoGaqRqJQtaASUqD0tb8oixvhWNAu0ZQzXY7DAgXh0ELbl4VEwRBtbNo_97gZqpPVpmhc_jVXZAWzNbsyHzc_4NGe_nN1_OxwkTl1YtnCWfbk5gKhM6tk4VioXYfXP7xjsI-l8IHx5phqHgVT8HrFZrkafDLIpc9oWyG-yCR9lS-yXMcQeRaRS_Y14f0VId1tJWyItfHIfTxX6-S1aALDtFZSWFT1Lt7uQPcPhRayYH_OxE5Mk-AsT3oWGm5mnMCMGReTJldjDlQgxfZ6G1yfX1YJ5klinGKjfEl",
-    "salt": "qxftSwSdi51saKnvDWUG5A==",
-    "text": "Symbolic object, the mallet was a tool often carried by various Celtic gods, most notably by Sucellus. Some gods were depicted carrying a much larger form of the tool, commonly referred to as a mallet, which resembled a bat and held clear phallic symbolism. One such figure was the Irish god Dagda, who was famed for his enormous mallet, so large that he had to pull it around with a wheeled cart."
+  "name": "mallet",
+  "attributes": [
+    {
+      "entity": "Mallet",
+      "attribute": "a symbolic object, a large tool carried by several Celtic gods, especially Sucellus"
+    },
+    {
+      "entity": "Mallet",
+      "attribute": "a kind of bat whose phallic symbolism is clear"
+    },
+    {
+      "entity": "Dagda",
+      "attribute": "the Irish god known for an enormous mallet he dragged on a wheeled cart"
+    },
+    {
+      "entity": "Sucellus",
+      "attribute": "a Celtic god who carries a hammer-like mallet"
+    }
+  ],
+  "entities": [
+    {
+      "entity": "Mallet",
+      "type": "Artifact"
+    },
+    {
+      "entity": "Sucellus",
+      "type": "Person"
+    },
+    {
+      "entity": "Hammer",
+      "type": "Artifact"
+    },
+    {
+      "entity": "Dagda",
+      "type": "Person"
+    }
+  ],
+  "sources": [
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+  ],
+  "image": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Rubber_mallets.jpg/1200px-Rubber_mallets.jpg"
+  ],
+  "cyphertext": "JjASGSachlAuFWMSpEwWXTjSFGLkQ0Oz3I9Cbazs6z3yUf3KnSwi9yFIVM9xfybuA7RzBYk9XLgcmjFEvt48tnT5MerdHC_bL0_QS6-PfEBFKr0hZEINOGbYX4nSrl3Au87zP8Olmui7CCCexaDj348g7IGyReVLaYImIxwEvBP3XoGaqRqJQtaASUqD0tb8oixvhWNAu0ZQzXY7DAgXh0ELbl4VEwRBtbNo_97gZqpPVpmhc_jVXZAWzNbsyHzc_4NGe_nN1_OxwkTl1YtnCWfbk5gKhM6tk4VioXYfXP7xjsI-l8IHx5phqHgVT8HrFZrkafDLIpc9oWyG-yCR9lS-yXMcQeRaRS_Y14f0VId1tJWyItfHIfTxX6-S1aALDtFZSWFT1Lt7uQPcPhRayYH_OxE5Mk-AsT3oWGm5mnMCMGReTJldjDlQgxfZ6G1yfX1YJ5klinGKjfEl",
+  "salt": "qxftSwSdi51saKnvDWUG5A==",
+  "text": "The mallet was a symbolic object. Several Celtic gods, especially Sucellus, carry a tool that resembles a hammer. Others carry a much larger tool, usually called a mallet. It is a type of bat whose phallic symbolism is evident. The Irish god Dagda was known for his enormous mallet, so large that he dragged it around on a wheeled cart.",
+  "objective": "Document the mallet as a symbolic object carried by Celtic gods.",
+  "key_results": [
+    "Record the mallet as a symbolic object of Celtic gods.",
+    "Record Sucellus carrying a hammer-like tool.",
+    "Record the phallic symbolism of the larger mallet.",
+    "Record the Dagda's enormous mallet dragged on a wheeled cart."
+  ],
+  "evidence": [
+    "Monaghan, P. The Encyclopedia of Celtic Mythology and Folklore (2008): mallet entry, pp. 310, 431.",
+    "Koch, J. T. Encyclopedia of Celtic Culture (2006): no separate mallet entry."
+  ]
 }
