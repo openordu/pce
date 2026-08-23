@@ -1,18 +1,40 @@
 {
-    "name": "Pelleas",
-    "attributes": {},
-    "entities": [
-        {
-            "text": "Fisher King"
-        }
-    ],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "image": [
-        "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Arthur-Pyle_Sir_Pellias%2C_The_Gentle_Knight.JPG/1200px-Arthur-Pyle_Sir_Pellias%2C_The_Gentle_Knight.JPG"
-    ],
-    "cyphertext": "tHdJFYVQnvzLsUoJVpuP_pH06_T3rYdtavhcTyn1Aloj2DpIGbu-kflV6bINFB5sjFDQpr6ZvhPK3u5drqg=",
-    "salt": "WgdFQ4FuWopgSx_VQyobjw==",
-    "text": "Pelleas (Pelles) See Fisher King."
+ "name": "Pelleas",
+ "attributes": [
+  {
+   "entity": "Pelleas",
+   "attribute": "also called Pelles, related to the Fisher King"
+  }
+ ],
+ "entities": [
+  {
+   "entity": "Pelleas",
+   "type": "Person"
+  },
+  {
+   "entity": "Pelles",
+   "type": "Person"
+  },
+  {
+   "entity": "Fisher King",
+   "type": "Title"
+  }
+ ],
+ "sources": [
+  "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+ ],
+ "image": [
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Arthur-Pyle_Sir_Pellias%2C_The_Gentle_Knight.JPG/1200px-Arthur-Pyle_Sir_Pellias%2C_The_Gentle_Knight.JPG"
+ ],
+ "cyphertext": "tHdJFYVQnvzLsUoJVpuP_pH06_T3rYdtavhcTyn1Aloj2DpIGbu-kflV6bINFB5sjFDQpr6ZvhPK3u5drqg=",
+ "salt": "WgdFQ4FuWopgSx_VQyobjw==",
+ "text": "Pelleas is another name for Pelles, the guardian of the holy cup. The reader is sent to the fuller FISHER KING entry. The name Pelleas is tied to the same cycle of knights who sought the cup.",
+ "okr": {
+  "objective": "Route the reader from Pelleas to the fuller Fisher King entry.",
+  "key_results": [
+   "Identify Pelleas as another name for Pelles",
+   "Point the reader to the Fisher King entry"
+  ],
+  "evidence": "Monaghan 2008, s.v. 'Pelleas'."
+ }
 }
