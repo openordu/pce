@@ -1,40 +1,110 @@
 {
-    "name": "D\u00fan",
-    "attributes": [
-        {
-            "attribute": "location",
-            "value": "D\u00fan Mythic"
-        },
-        {
-            "attribute": "meaning",
-            "value": "fortress"
-        },
-        {
-            "attribute": "language",
-            "value": "Irish and Scottish Gaelic"
-        },
-        {
-            "attribute": "mythological sites",
-            "value": "many"
-        }
-    ],
-    "entities": [
-        {
-            "entity": "D\u00fan Mythic",
-            "type": "location"
-        },
-        {
-            "entity": "Irish and Scottish Gaelic",
-            "type": "language"
-        }
-    ],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "image": [
-        "https://upload.wikimedia.org/wikipedia/commons/3/3a/Loch_Steinacleit.jpg"
-    ],
-    "cyphertext": "eFnnlR-WkKBK8HzDqq4aOjkkHtJ5kX146kUCEPM2Vz9Ovlv1optLO-kTGsdwn5-gaB1DsaEge4ecL8brxIR4iWgKBJ1RyHLZYO6Ibc_9emfW4yk6L_4XPu1ZyR5O_OhHfuSuKXUzNoRcFxemMYTuC6cTyV5EnSG18MBIanWalwffxLRBrU0OmJNR-niEmnbvCNoT7Jt17iYzMQFJw_X-0hZA",
-    "salt": "x5dDS2yWg-13MQpCsB2o1Q==",
-    "text": "Mythical site known as D\u00fan. This term, meaning \"fortress\" in Irish and Scottish Gaelic, is commonly applied to various mythological locations, including:"
+  "name": "Dún",
+  "attributes": [
+    {
+      "entity": "dún",
+      "attribute": "means fortress"
+    },
+    {
+      "entity": "Dún Ailinne",
+      "attribute": "hillfort in County Kildare"
+    },
+    {
+      "entity": "Dún Ailinne",
+      "attribute": "Celtic provincial capital by seventh century C.E."
+    },
+    {
+      "entity": "Dún Ailinne",
+      "attribute": "named for Alend"
+    },
+    {
+      "entity": "Dún Aonghusa",
+      "attribute": "fort on the Aran Islands"
+    },
+    {
+      "entity": "Dún Bolg",
+      "attribute": "battle site against cow-tribute"
+    },
+    {
+      "entity": "Dún Delgan",
+      "attribute": "base of Cúchulainn"
+    }
+  ],
+  "entities": [
+    {
+      "entity": "Dún Ailinne",
+      "type": "Location"
+    },
+    {
+      "entity": "Knockaulin Hill",
+      "type": "Location"
+    },
+    {
+      "entity": "County Kildare",
+      "type": "Location"
+    },
+    {
+      "entity": "Alend",
+      "type": "Deity"
+    },
+    {
+      "entity": "Dún Aonghusa",
+      "type": "Location"
+    },
+    {
+      "entity": "Aran Islands",
+      "type": "Location"
+    },
+    {
+      "entity": "Fir Bolg",
+      "type": "Group"
+    },
+    {
+      "entity": "Angus",
+      "type": "Person"
+    },
+    {
+      "entity": "Dún Bolg",
+      "type": "Location"
+    },
+    {
+      "entity": "Leinster",
+      "type": "Location"
+    },
+    {
+      "entity": "Tara",
+      "type": "Location"
+    },
+    {
+      "entity": "Dún Delgan",
+      "type": "Location"
+    },
+    {
+      "entity": "Delga",
+      "type": "Person"
+    },
+    {
+      "entity": "Cúchulainn",
+      "type": "Person"
+    }
+  ],
+  "sources": [
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+  ],
+  "image": [
+    "https://upload.wikimedia.org/wikipedia/commons/3/3a/Loch_Steinacleit.jpg"
+  ],
+  "cyphertext": "eFnnlR-WkKBK8HzDqq4aOjkkHtJ5kX146kUCEPM2Vz9Ovlv1optLO-kTGsdwn5-gaB1DsaEge4ecL8brxIR4iWgKBJ1RyHLZYO6Ibc_9emfW4yk6L_4XPu1ZyR5O_OhHfuSuKXUzNoRcFxemMYTuC6cTyV5EnSG18MBIanWalwffxLRBrU0OmJNR-niEmnbvCNoT7Jt17iYzMQFJw_X-0hZA",
+  "salt": "x5dDS2yWg-13MQpCsB2o1Q==",
+  "text": "Dún means fortress in Irish and Scottish Gaelic. The word names many mythological sites. Dún Ailinne was a great hillfort in County Kildare begun in Neolithic times. The Celts took it over as a provincial capital around the seventh century C.E. It now stands as Knockaulin Hill. Excavation has revealed large earthworks, a causeway, and foundations of ancient structures. The site bears the name of the obscure goddess Alend. Dún Aonghusa on the Aran Islands uses a sheer cliff for one side and stone walls for the rest. Legend says the Fir Bolg built it and named it after Angus, their chief. Dún Bolg was a battle site where Leinster warriors resisted the cow-tribute paid to the king of Tara. Dún Delgan, named for the Fomorian chief Delga, became the base of Cúchulainn.",
+  "objective": "Explain the meaning of dún and list the principal mythological sites that carry the name.",
+  "key_results": [
+    "Dún means fortress in Irish and Scottish Gaelic.",
+    "Dún Ailinne was a hillfort in County Kildare and a Celtic provincial capital.",
+    "Legend credits the Fir Bolg with building Dún Aonghusa on the Aran Islands.",
+    "Dún Delgan, named for Delga, became the base of Cúchulainn."
+  ],
+  "evidence": [
+    "Monaghan, Encyclopedia of Celtic Mythology and Folklore (2003): Dún."
+  ]
 }
