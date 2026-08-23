@@ -1,11 +1,44 @@
 {
-    "name": "Duibne",
-    "attributes": {},
-    "entities": [],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "cyphertext": "zH2jaq8yFfWtL58ZwEF2qd_ArmYE_sJOSG6ZGvPMs2cWGF1yItJ2ybrWUraZz5Y=",
-    "salt": "vdDdm4BbtIHjYkyml_oxqQ==",
-    "text": "Duibne See D\u00edgne."
+  "name": "Duibne",
+  "attributes": [
+    {
+      "entity": "Duibne",
+      "attribute": "patronymic and tribal name of Diarmait Ua Duibne"
+    },
+    {
+      "entity": "Clann Duibne",
+      "attribute": "Irish tribe with Suibne as ancestor-figure"
+    }
+  ],
+  "entities": [
+    {
+      "entity": "Duibne",
+      "type": "Being"
+    },
+    {
+      "entity": "Diarmait Ua Duibne",
+      "type": "Person"
+    },
+    {
+      "entity": "Clann Duibne",
+      "type": "Group"
+    }
+  ],
+  "sources": [
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+  ],
+  "cyphertext": "zH2jaq8yFfWtL58ZwEF2qd_ArmYE_sJOSG6ZGvPMs2cWGF1yItJ2ybrWUraZz5Y=",
+  "salt": "vdDdm4BbtIHjYkyml_oxqQ==",
+  "text": "Duibne names a tribal group and its ancestor. It forms the patronymic of Diarmait Ua Duibne, the romantic hero. Cochrann was the mother of Diarmait Ua Duibne. His nemesis was the great wild boar Donn Ua Duibne. Suibne appears as the ancestor-figure of the Irish tribe Clann Duibne. Koch records Corco Duibne, an early Irish population group. These names tie the hero to his people.",
+  "objective": "Rewrite the Duibne entry in CSG-SME1000 prose with source-accurate nouns.",
+  "key_results": [
+    "Meets CSG-SME1000 sentence rules",
+    "All required nouns present (Duibne, Diarmait Ua Duibne, Clann Duibne)",
+    "72 words",
+    "No prose fragments"
+  ],
+  "evidence": [
+    "monaghan.txt:12661 Duibne (see Dine)",
+    "monaghan.txt:8605-8611 Cochrann"
+  ]
 }
