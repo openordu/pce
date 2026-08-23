@@ -1,72 +1,59 @@
 {
-    "name": "Magdalenenberg",
-    "attributes": [
-        {
-            "entity": "Magdalenenberg Continental Celtic archaeological site",
-            "attribute": "significant gravesite of the continental Celts"
-        },
-        {
-            "entity": "VillingenSchwenningen",
-            "attribute": "location of the gravesite"
-        },
-        {
-            "entity": "burial mounds",
-            "attribute": "size of the Magdalenenberg mound"
-        },
-        {
-            "entity": "numerous ritual and personal artifacts",
-            "attribute": "found in the graves"
-        }
-    ],
-    "entities": [
-        {
-            "entity": "Magdalenenberg Continental Celtic archaeological site",
-            "type": "archaeological site"
-        },
-        {
-            "entity": "continental Celts",
-            "type": "culture"
-        },
-        {
-            "entity": "VillingenSchwenningen",
-            "type": "location"
-        },
-        {
-            "entity": "Germany",
-            "type": "country"
-        },
-        {
-            "entity": "Celtic culture",
-            "type": "culture"
-        },
-        {
-            "entity": "burial mounds",
-            "type": "structure"
-        },
-        {
-            "entity": "region",
-            "type": "location"
-        },
-        {
-            "entity": "graves",
-            "type": "structure"
-        },
-        {
-            "entity": "ritual artifacts",
-            "type": "artifact"
-        },
-        {
-            "entity": "personal artifacts",
-            "type": "artifact"
-        }
-    ],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "image": [
-        "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Magdalenenberg_bei_Villingen.JPG/1200px-Magdalenenberg_bei_Villingen.JPG"
-    ],
-    "cyphertext": "BB4oPhBIwa-wiMP0PvBN_8wcqfZwKK7fCS0DxPRFxZyy1nfoaCOY65n0mWUOGiwHEI8ZPYHFMPYxYvq7xaYMLslkBOPY75DgQHABnbHRu19P0C66fs2qKSda6sWYIUwP74e0Jd3QyN51Z2jqAY_jAfr5LN0F4q4SV7_7TAk-6TmQK2B6umj4kOHnf5oNxV_yBqOqsnUCp0FGyiFjwldYbkFr1JdspuQZj3nxoKDTk3BKekt3Ye4YJbprUa3TrawUCyMC5YRiWR5Qyjgsstcvq0NkAXo2C_NwYpeZKMIL5U3mxF_mjRX7g9EDTozsC2q1nWS5gQpLAC6RkGcR6HOtWCY0NPqigNCPE8Eno9D4flrUbA1GctumXuO06q2OCLLltOaCSblides5WaLQNYjaLZiIIYWeJ3t9_izLJ2RPiWI0V39VtcTkumFrsELuzEgF8hHZ7Jq-5UuhIrgFFKXo5MdWdWh1FmMczeUFKJzoqAh3r_mbEWBnE2m1im33KLzF5Tf1n8O-HZ9lkiAzy-yfPGrr6bxL4xMPqs4jDN0UTnN-AHdhn6Ug",
-    "salt": "GLn0_N8VoveCNgGTXF8t2g==",
-    "text": "A grave of great importance belonging to the Celtic people residing in the European continent was uncovered during the early 1890s and further explored in the 1970s at Villingen-Schwenningen, located in Germany. This location stood close to the source of the original Celtic customs. Widely considered as one of the most prominent burial mounds in the area, it housed over a hundred graves, each adorned with various ceremonial and individual items of significance."
+  "name": "Magdalenenberg",
+  "attributes": [
+    {
+      "entity": "Magdalenenberg",
+      "attribute": "a Continental Celtic archaeological site, a large burial mound at Villingen-Schwenningen in Germany"
+    },
+    {
+      "entity": "Magdalenenberg",
+      "attribute": "excavated in the early 1890s and again in the 1970s"
+    },
+    {
+      "entity": "Magdalenenberg",
+      "attribute": "covered more than a hundred graves with ritual and personal artifacts"
+    },
+    {
+      "entity": "Magdalenenberg",
+      "attribute": "recognized as the largest Hallstatt period tumulus in the west Hallstatt province"
+    },
+    {
+      "entity": "Villingen-Schwenningen",
+      "attribute": "the German town near the site of Magdalenenberg"
+    }
+  ],
+  "entities": [
+    {
+      "entity": "Magdalenenberg",
+      "type": "Place"
+    },
+    {
+      "entity": "Villingen-Schwenningen",
+      "type": "Place"
+    },
+    {
+      "entity": "Germany",
+      "type": "Place"
+    }
+  ],
+  "sources": [
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+  ],
+  "image": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Magdalenenberg_bei_Villingen.JPG/1200px-Magdalenenberg_bei_Villingen.JPG"
+  ],
+  "cyphertext": "BB4oPhBIwa-wiMP0PvBN_8wcqfZwKK7fCS0DxPRFxZyy1nfoaCOY65n0mWUOGiwHEI8ZPYHFMPYxYvq7xaYMLslkBOPY75DgQHABnbHRu19P0C66fs2qKSda6sWYIUwP74e0Jd3QyN51Z2jqAY_jAfr5LN0F4q4SV7_7TAk-6TmQK2B6umj4kOHnf5oNxV_yBqOqsnUCp0FGyiFjwldYbkFr1JdspuQZj3nxoKDTk3BKekt3Ye4YJbprUa3TrawUCyMC5YRiWR5Qyjgsstcvq0NkAXo2C_NwYpeZKMIL5U3mxF_mjRX7g9EDTozsC2q1nWS5gQpLAC6RkGcR6HOtWCY0NPqigNCPE8Eno9D4flrUbA1GctumXuO06q2OCLLltOaCSblides5WaLQNYjaLZiIIYWeJ3t9_izLJ2RPiWI0V39VtcTkumFrsELuzEgF8hHZ7Jq-5UuhIrgFFKXo5MdWdWh1FmMczeUFKJzoqAh3r_mbEWBnE2m1im33KLzF5Tf1n8O-HZ9lkiAzy-yfPGrr6bxL4xMPqs4jDN0UTnN-AHdhn6Ug",
+  "salt": "GLn0_N8VoveCNgGTXF8t2g==",
+  "text": "Magdalenenberg was a Continental Celtic archaeological site. In the early 1890s, and again in the 1970s, workers excavated a significant gravesite at Villingen-Schwenningen in Germany. The town stands near the original source of Celtic culture. One of the largest burial mounds in the region, it covered more than a hundred graves. The graves held many ritual and personal artifacts. Koch records it as a Hallstatt period tumulus, the largest in the west Hallstatt province. It measured about 102 meters in diameter and about 8 meters in height. Its burials date from around 625 to 550 B.C.E.",
+  "objective": "Document Magdalenenberg, the large Continental Celtic burial mound in Germany.",
+  "key_results": [
+    "Record the location at Villingen-Schwenningen in Germany.",
+    "Record the excavations in the early 1890s and the 1970s.",
+    "Record the size and more than a hundred graves.",
+    "Record the Hallstatt period dating around 625 to 550 B.C.E."
+  ],
+  "evidence": [
+    "Monaghan, P. The Encyclopedia of Celtic Mythology and Folklore (2008): Magdalenenberg entry, p. 307.",
+    "Koch, J. T. Encyclopedia of Celtic Culture (2006): Magdalenenberg entry, p. 1240."
+  ]
 }

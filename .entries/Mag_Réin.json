@@ -1,18 +1,38 @@
 {
-    "name": "Mag R\u00e9in",
-    "attributes": {},
-    "entities": [
-        {
-            "text": "Mag R\u00e9in See"
-        },
-        {
-            "text": "Otherworld"
-        }
-    ],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "cyphertext": "lx0tYLvlMPSZJTFf64LegbjlGOf5yPW02BxkgNDBsnQnBi6twKCob7bzdyoGF0geD3yCBS4TalxSVom3VBy-MhL-kMQ=",
-    "salt": "5YImEm0R0g_dlhqFf4H6Nw==",
-    "text": "Mag R\u00e9in See Names For The OTheRWORLD."
+  "name": "Mag Réin",
+  "attributes": [
+    {
+      "entity": "Mag Réin",
+      "attribute": "a cross-reference entry that points to the article on names for the Otherworld"
+    },
+    {
+      "entity": "Otherworld",
+      "attribute": "the realm named in the article to which the Mag Réin entry directs the reader"
+    }
+  ],
+  "entities": [
+    {
+      "entity": "Mag Réin",
+      "type": "Concept"
+    },
+    {
+      "entity": "Otherworld",
+      "type": "Concept"
+    }
+  ],
+  "sources": [
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+  ],
+  "cyphertext": "lx0tYLvlMPSZJTFf64LegbjlGOf5yPW02BxkgNDBsnQnBi6twKCob7bzdyoGF0geD3yCBS4TalxSVom3VBy-MhL-kMQ=",
+  "salt": "5YImEm0R0g_dlhqFf4H6Nw==",
+  "text": "Mag Réin is a cross-reference entry. The Monaghan encyclopedia points the reader to the fuller article on names for the Otherworld. It records no separate facts of its own.",
+  "objective": "Document Mag Réin as a cross-reference entry pointing to the names for the Otherworld.",
+  "key_results": [
+    "Record the cross-reference to names for the Otherworld.",
+    "Record that the entry carries no separate facts."
+  ],
+  "evidence": [
+    "Monaghan, P. The Encyclopedia of Celtic Mythology and Folklore (2008): Mag Réin entry, See Names for the Otherworld.",
+    "Koch, J. T. Encyclopedia of Celtic Culture (2006): no separate Mag Réin entry."
+  ]
 }

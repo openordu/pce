@@ -1,18 +1,38 @@
 {
-    "name": "Maga",
-    "attributes": {},
-    "entities": [
-        {
-            "text": "Maga"
-        },
-        {
-            "text": "Ebhla"
-        }
-    ],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "cyphertext": "qvltuo6uLeqKA-UNIxfovVeM0l1oQZw04Gfo9US_UkUnz3GOeHlAhfDxxHU=",
-    "salt": "2T4RbvneZBKYx3WIr4lF2A==",
-    "text": "Maga See Ebhla."
+  "name": "Maga",
+  "attributes": [
+    {
+      "entity": "Maga",
+      "attribute": "a cross-reference entry that points to the article on Ebhla"
+    },
+    {
+      "entity": "Ebhla",
+      "attribute": "the figure to whom the Maga entry directs the reader"
+    }
+  ],
+  "entities": [
+    {
+      "entity": "Maga",
+      "type": "Person"
+    },
+    {
+      "entity": "Ebhla",
+      "type": "Person"
+    }
+  ],
+  "sources": [
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+  ],
+  "cyphertext": "qvltuo6uLeqKA-UNIxfovVeM0l1oQZw04Gfo9US_UkUnz3GOeHlAhfDxxHU=",
+  "salt": "2T4RbvneZBKYx3WIr4lF2A==",
+  "text": "Maga is a cross-reference entry. The Monaghan encyclopedia points the reader to the fuller article on Ebhla. It records no separate facts of its own.",
+  "objective": "Document Maga as a cross-reference entry pointing to Ebhla.",
+  "key_results": [
+    "Record the cross-reference to Ebhla.",
+    "Record that the entry carries no separate facts."
+  ],
+  "evidence": [
+    "Monaghan, P. The Encyclopedia of Celtic Mythology and Folklore (2008): Maga entry, See Ebhla.",
+    "Koch, J. T. Encyclopedia of Celtic Culture (2006): no separate Maga entry."
+  ]
 }
