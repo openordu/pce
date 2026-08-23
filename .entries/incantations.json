@@ -1,18 +1,66 @@
 {
-    "name": "incantations",
-    "attributes": {},
-    "entities": [
-        {
-            "text": "Imbas Forosnai"
-        }
-    ],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "image": [
-        "https://upload.wikimedia.org/wikipedia/commons/4/46/Book_of_incantations_f.7v.png"
-    ],
-    "cyphertext": "5haAAON3kS9SukWjzUlvFwDTqvzvE4b6EFQcGUcXfFym9p_Kqf75_70VA7PTYo7SKpFKDEW3RWKkO4-wK_GsCN4Rcya5Was-Kw==",
-    "salt": "ZtenE4lB9crModGlYvGr5A==",
-    "text": "incantations See Divination, Imbas Forosnai."
+  "name": "incantations",
+  "attributes": [
+    {
+      "entity": "incantations",
+      "attribute": "chanted formulae the Irish druids and bards used to reach the altered state for prophecy"
+    },
+    {
+      "entity": "divination",
+      "attribute": "a Celtic practice that used incantation, trance, psychometry, and letters"
+    }
+  ],
+  "entities": [
+    {
+      "entity": "incantations",
+      "type": "Concept"
+    },
+    {
+      "entity": "divination",
+      "type": "Concept"
+    },
+    {
+      "entity": "druids",
+      "type": "Group"
+    },
+    {
+      "entity": "bards",
+      "type": "Group"
+    },
+    {
+      "entity": "diechetal do chennaib",
+      "type": "Concept"
+    },
+    {
+      "entity": "teinm laeda",
+      "type": "Concept"
+    },
+    {
+      "entity": "imbas forosnai",
+      "type": "Concept"
+    },
+    {
+      "entity": "ogham",
+      "type": "Concept"
+    }
+  ],
+  "sources": [
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+  ],
+  "image": [
+    "https://upload.wikimedia.org/wikipedia/commons/4/46/Book_of_incantations_f.7v.png"
+  ],
+  "cyphertext": "5haAAON3kS9SukWjzUlvFwDTqvzvE4b6EFQcGUcXfFym9p_Kqf75_70VA7PTYo7SKpFKDEW3RWKkO4-wK_GsCN4Rcya5Was-Kw==",
+  "salt": "ZtenE4lB9crModGlYvGr5A==",
+  "text": "Incantations are chanted formulae used in Celtic divination. The Irish druids, and above all the bards, used divination often. They chanted incantations to reach the altered state needed to speak prophecy. Other methods were psychometry, trance, and the use of letters. The practices carried names such as diechetal do chennaib, teinm laeda, and imbas forosnai. Through these the seer found hidden knowledge and foretold the future.",
+  "objective": "Document the place of incantations in Celtic divination.",
+  "key_results": [
+    "Record the druids' and bards' use of divination.",
+    "Name the incantation practices diechetal do chennaib, teinm laeda, and imbas forosnai.",
+    "Note that incantations preceded prophecy."
+  ],
+  "evidence": [
+    "Monaghan, P. The Encyclopedia of Celtic Mythology and Folklore (2008): incantations, divination entries.",
+    "Koch, J. T. Encyclopedia of Celtic Culture (2006): divination entry."
+  ]
 }
