@@ -1,18 +1,58 @@
 {
-    "name": "festival",
-    "attributes": {},
-    "entities": [
-        {
-            "text": "Feast"
-        }
+  "name": "festival",
+  "attributes": [
+    {
+      "entity": "festival",
+      "attribute": "marked the midpoints between solar events"
+    },
+    {
+      "entity": "Imbolc",
+      "attribute": "fell on February 1"
+    },
+    {
+      "entity": "Lughnasa",
+      "attribute": "fell on August 1"
+    },
+    {
+      "entity": "sacred center",
+      "attribute": "a geographical and spiritual concept"
+    }
+  ],
+  "entities": [
+    {
+      "entity": "festival",
+      "type": "event"
+    },
+    {
+      "entity": "Imbolc",
+      "type": "event"
+    },
+    {
+      "entity": "Lughnasa",
+      "type": "event"
+    },
+    {
+      "entity": "sacred center",
+      "type": "concept"
+    }
+  ],
+  "sources": [
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+  ],
+  "image": [
+    "https://upload.wikimedia.org/wikipedia/commons/6/64/Village_Feast_Fac_simile_of_a_Woodcut_of_the_Sandrin_ou_Verd_Galant_facetious_Work_of_the_End_of_the_Sixteenth_Century_edition_of_1609.png"
+  ],
+  "cyphertext": "Y0BF3ObR6-SjVwr_TJTEMMzDdymIV2xE2U2TFTKTaAIfAIg0u_Vor_NckpaVLHhjpNGuj0vQ-oIb1Q==",
+  "salt": "bBY18ey7hPDEsOfkqU4_Ww==",
+  "text": "Celtic peoples marked the midpoints between great solar events. Imbolc fell on February 1, when winter moved toward spring. Lughnasa fell on August 1, when summer passed into fall. Other peoples divided their year by the solstices, on June 21 and December 21, and by the equinoxes, on March 21 and September 21. The Celts watched the midpoints rather than the points of change. This choice may spring from a belief in the sacred center, a concept both geographical and spiritual.",
+  "okr": {
+    "objective": "The festival entry explains the Celtic marking of midpoints between solar events.",
+    "key_results": [
+      "Imbolc fell on February 1.",
+      "Lughnasa fell on August 1.",
+      "Other peoples marked the solstices and equinoxes.",
+      "The sacred center is both geographical and spiritual."
     ],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "image": [
-        "https://upload.wikimedia.org/wikipedia/commons/6/64/Village_Feast_Fac_simile_of_a_Woodcut_of_the_Sandrin_ou_Verd_Galant_facetious_Work_of_the_End_of_the_Sixteenth_Century_edition_of_1609.png"
-    ],
-    "cyphertext": "Y0BF3ObR6-SjVwr_TJTEMMzDdymIV2xE2U2TFTKTaAIfAIg0u_Vor_NckpaVLHhjpNGuj0vQ-oIb1Q==",
-    "salt": "bBY18ey7hPDEsOfkqU4_Ww==",
-    "text": "festival See Calendar, Feast."
+    "evidence": "Monaghan, Encyclopedia of Celtic Mythology and Folklore"
+  }
 }

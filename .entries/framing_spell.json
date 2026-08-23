@@ -1,33 +1,46 @@
 {
-    "name": "framing spell",
-    "attributes": [
-        {
-            "entity": "threads",
-            "attribute": "crossing two threads"
-        },
-        {
-            "entity": "Scotland",
-            "attribute": "occasional spell in Scotland"
-        }
+  "name": "framing spell",
+  "attributes": [
+    {
+      "entity": "framing spell",
+      "attribute": "Scottish magical belief"
+    },
+    {
+      "entity": "threads",
+      "attribute": "crossed as on a loom"
+    },
+    {
+      "entity": "threads",
+      "attribute": "an occasional spell in Scotland"
+    }
+  ],
+  "entities": [
+    {
+      "entity": "framing spell",
+      "type": "concept"
+    },
+    {
+      "entity": "threads",
+      "type": "artifact"
+    },
+    {
+      "entity": "Scotland",
+      "type": "place"
+    }
+  ],
+  "sources": [
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+  ],
+  "cyphertext": "yZ0O0w3evAUnaT43cr4QcIhGjLvDPHHzKqRh8kYpKPSgnfeAbzlzehxkBOUtx0Ayjet7-STn60R1MTiaaWpNQzu5VefQY3IstpVCpeBRtpnktLZ5kzYpbTGreXqr7Cn_t4aNLl4nnYwOZraU5c32IVIdq_AvrWbOpe92rq0mcWYtSz6JMhtkaI07N7vTggdERlYXNUsuTIT9412jUvknmH2_k53oco1xkX6sRtU=",
+  "salt": "D9H_INRT1mbLoaiRMb5QMg==",
+  "text": "Framing spell is a Scottish magical belief. To cross two threads, in the manner used when a loom wove them together, served now and then in Scotland as a spell. The source stores no fuller detail.",
+  "okr": {
+    "objective": "A framing spell is a Scottish magical act made by crossing threads.",
+    "key_results": [
+      "A framing spell crossed two threads as on a loom.",
+      "The practice counted once in a while as a spell in Scotland.",
+      "The source records no fuller detail."
     ],
-    "entities": [
-        {
-            "entity": "spell",
-            "type": "magical belief"
-        },
-        {
-            "entity": "threads",
-            "type": "material"
-        },
-        {
-            "entity": "Scotland",
-            "type": "location"
-        }
-    ],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "cyphertext": "yZ0O0w3evAUnaT43cr4QcIhGjLvDPHHzKqRh8kYpKPSgnfeAbzlzehxkBOUtx0Ayjet7-STn60R1MTiaaWpNQzu5VefQY3IstpVCpeBRtpnktLZ5kzYpbTGreXqr7Cn_t4aNLl4nnYwOZraU5c32IVIdq_AvrWbOpe92rq0mcWYtSz6JMhtkaI07N7vTggdERlYXNUsuTIT9412jUvknmH2_k53oco1xkX6sRtU=",
-    "salt": "D9H_INRT1mbLoaiRMb5QMg==",
-    "text": "Scottish magical belief involves the use of framing spells. An occasional spell in Scotland includes crossing two threads in the same way they would be interwoven on a loom."
+    "evidence": "Monaghan, Encyclopedia of Celtic Mythology and Folklore"
+  }
 }

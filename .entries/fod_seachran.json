@@ -1,11 +1,34 @@
 {
-    "name": "fod seachran",
-    "attributes": {},
-    "entities": [],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+  "name": "fod seachran",
+  "attributes": [
+    {
+      "entity": "fod seachran",
+      "attribute": "cross-reference to Stray Sod"
+    }
+  ],
+  "entities": [
+    {
+      "entity": "fod seachran",
+      "type": "concept"
+    },
+    {
+      "entity": "Stray Sod",
+      "type": "concept"
+    }
+  ],
+  "sources": [
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+  ],
+  "cyphertext": "HlcddIe5tF5b5xkU0jzTB-_WNYofl0K-GT2wQmjENLncjtIfLA8QTtEH8Hx-7OGDp2wxVq-lTGc=",
+  "salt": "syiITg4rIXm3zQWVpRWutw==",
+  "text": "fod seachran is a cross-reference entry. It directs the reader to the entry Stray Sod. The source records no other detail about fod seachran.",
+  "okr": {
+    "objective": "fod seachran is a short cross-reference to Stray Sod.",
+    "key_results": [
+      "fod seachran directs the reader to the entry Stray Sod.",
+      "The source records no other detail about it.",
+      "It serves as a redirect style entry in the encyclopedia."
     ],
-    "cyphertext": "HlcddIe5tF5b5xkU0jzTB-_WNYofl0K-GT2wQmjENLncjtIfLA8QTtEH8Hx-7OGDp2wxVq-lTGc=",
-    "salt": "syiITg4rIXm3zQWVpRWutw==",
-    "text": "fod seachran See Stray Sod."
+    "evidence": "Monaghan, Encyclopedia of Celtic Mythology and Folklore"
+  }
 }

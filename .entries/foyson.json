@@ -1,29 +1,67 @@
 {
-    "name": "foyson",
-    "attributes": [
-        {
-            "entity": "food",
-            "attribute": "nourishment"
-        }
+  "name": "foyson",
+  "attributes": [
+    {
+      "entity": "foyson",
+      "attribute": "essence within every substance"
+    },
+    {
+      "entity": "foyson",
+      "attribute": "nourishment of food"
+    },
+    {
+      "entity": "fairies",
+      "attribute": "stripped foyson from stolen food"
+    },
+    {
+      "entity": "milk",
+      "attribute": "stayed creamy but held no nourishment without foyson"
+    },
+    {
+      "entity": "charms",
+      "attribute": "protected the foyson of food"
+    }
+  ],
+  "entities": [
+    {
+      "entity": "foyson",
+      "type": "concept"
+    },
+    {
+      "entity": "toradh",
+      "type": "concept"
+    },
+    {
+      "entity": "essence",
+      "type": "concept"
+    },
+    {
+      "entity": "fairies",
+      "type": "mythological figure"
+    },
+    {
+      "entity": "milk",
+      "type": "concept"
+    },
+    {
+      "entity": "charms",
+      "type": "artifact"
+    }
+  ],
+  "sources": [
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+  ],
+  "cyphertext": "R2Q8FaQy2vT8558yxBKXJE_l7S2CC4f2-sa3gtgNe8VLVUZuDImfc2E-hZ-lBd1od7PsC8bm6VbmccuaZiZPs-MzUXVMjlIudzK2_TI4CXLeLxXlUHzpQEJth-h-TqeYTIfHLyHL3DjWD9kV8BL4LUaNrwZb_Mi6-M-r1_YjisE3Fk7CIhwsCyHOegrHd2YIP_jtCYxFWyCLAvuSJp4j1yZlgR8aZsdEf9I1UOCR4JiQnvqyaBKDozQsYXmfOIfubb0PeMilhXTUywuLDeKBNVzzB9Ym4kiLVCmjn1R2c_jae629kf03s3jSXZUNyQNs3NXaxuebPd7s_tNBrv6-Xm-1sYSKf34eA_DbeNvmMhJ3CyfHG1jGwHyE6XKDf6XtZvxQOBb4RujfPfAbNH9Ywdci-hkMtR2cP73k0nsLHHSFIUvfzYbEw6YLW5EWj0OuM1hHQ3vFgHbpPgcjQlibU5KTE-S5EcqETNM02fb7D7CcAgOrAOBo6LoaNNDTwPhXWGsx4Hc6M3BL5vmI7ftYK_0NgAh3HQ_omYfG-CfZC8lPVwDmPE8x47ewvWn2cdPhF3kGYlkoPpH-sLpskOFX67hBImvxJwWiaT1bpSTJrijW1udVAs6K_QtmGAlU4w==",
+  "salt": "peu_fM0qgo-I3WZlnGc6Cg==",
+  "text": "foyson is a folkloric motive. Every substance holds within it a foyson or toradh, its essence. The foyson of a food means its power to nourish. When fairies stole food they took that power away. The milk may stay in the pail, still creamy in the eye, yet without its foyson it carries no nourishment. Many rituals and verbal charms guarded the foyson of food from the thieves.",
+  "okr": {
+    "objective": "foyson is the essence that fairies could strip from food.",
+    "key_results": [
+      "Every substance holds a foyson or toradh, its essence.",
+      "Fairies stripped that essence from food when they stole it.",
+      "Milk can stay creamy in the pail but hold no nourishment once its foyson is gone.",
+      "Rituals and verbal charms guarded foyson from the thieves."
     ],
-    "entities": [
-        {
-            "entity": "Fairies",
-            "type": "folklore creature"
-        },
-        {
-            "entity": "food",
-            "type": "substance"
-        },
-        {
-            "entity": "Milk",
-            "type": "foodstuff"
-        }
-    ],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "cyphertext": "R2Q8FaQy2vT8558yxBKXJE_l7S2CC4f2-sa3gtgNe8VLVUZuDImfc2E-hZ-lBd1od7PsC8bm6VbmccuaZiZPs-MzUXVMjlIudzK2_TI4CXLeLxXlUHzpQEJth-h-TqeYTIfHLyHL3DjWD9kV8BL4LUaNrwZb_Mi6-M-r1_YjisE3Fk7CIhwsCyHOegrHd2YIP_jtCYxFWyCLAvuSJp4j1yZlgR8aZsdEf9I1UOCR4JiQnvqyaBKDozQsYXmfOIfubb0PeMilhXTUywuLDeKBNVzzB9Ym4kiLVCmjn1R2c_jae629kf03s3jSXZUNyQNs3NXaxuebPd7s_tNBrv6-Xm-1sYSKf34eA_DbeNvmMhJ3CyfHG1jGwHyE6XKDf6XtZvxQOBb4RujfPfAbNH9Ywdci-hkMtR2cP73k0nsLHHSFIUvfzYbEw6YLW5EWj0OuM1hHQ3vFgHbpPgcjQlibU5KTE-S5EcqETNM02fb7D7CcAgOrAOBo6LoaNNDTwPhXWGsx4Hc6M3BL5vmI7ftYK_0NgAh3HQ_omYfG-CfZC8lPVwDmPE8x47ewvWn2cdPhF3kGYlkoPpH-sLpskOFX67hBImvxJwWiaT1bpSTJrijW1udVAs6K_QtmGAlU4w==",
-    "salt": "peu_fM0qgo-I3WZlnGc6Cg==",
-    "text": "Every substance on earth has its own foyson or toradh, which refers to its essence. The nourishment of food is its foyson, and according to Irish folklore, it is the very thing that the Fairies would steal when they took food. The Milk may still be present in the milk pail, but it would lack its nourishing foyson. Various rituals and verbal Charms were employed to safeguard the foyson of foodstuffs from being stolen Away by fairies."
+    "evidence": "Monaghan, Encyclopedia of Celtic Mythology and Folklore"
+  }
 }

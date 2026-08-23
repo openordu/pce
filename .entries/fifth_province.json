@@ -1,11 +1,34 @@
 {
-    "name": "fifth province",
-    "attributes": {},
-    "entities": [],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+  "name": "fifth province",
+  "attributes": [
+    {
+      "entity": "fifth province",
+      "attribute": "a cross-reference directing to Mide"
+    }
+  ],
+  "entities": [
+    {
+      "entity": "fifth province",
+      "type": "concept"
+    },
+    {
+      "entity": "Mide",
+      "type": "location"
+    }
+  ],
+  "sources": [
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+  ],
+  "cyphertext": "ANv_7XwbyRUbcC2FXJo3nL4D98aCpwOauoLqjg4s_I0p9gnPmEr4jXj3HpO5dvatMpCVy6A=",
+  "salt": "XxZvAkl8BerPh7zbZNImww==",
+  "text": "fifth province is a cross-reference entry. It sends the reader to Mide.",
+  "okr": {
+    "objective": "fifth province is a cross-reference directing the entry to Mide.",
+    "key_results": [
+      "fifth province is a cross-reference entry.",
+      "The entry sends the reader to Mide.",
+      "The source gives no further detail on the fifth province."
     ],
-    "cyphertext": "ANv_7XwbyRUbcC2FXJo3nL4D98aCpwOauoLqjg4s_I0p9gnPmEr4jXj3HpO5dvatMpCVy6A=",
-    "salt": "XxZvAkl8BerPh7zbZNImww==",
-    "text": "fifth province See Mide."
+    "evidence": "Monaghan, Encyclopedia of Celtic Mythology and Folklore"
+  }
 }

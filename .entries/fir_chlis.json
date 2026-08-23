@@ -1,29 +1,42 @@
 {
-    "name": "fir chlis",
-    "attributes": [
-        {
-            "entity": "fir chlis",
-            "attribute": "nimble man"
-        }
+  "name": "fir chlis",
+  "attributes": [
+    {
+      "entity": "fir chlis",
+      "attribute": "a Scottish folk figure"
+    },
+    {
+      "entity": "fir chlis",
+      "attribute": "personified the northern lights"
+    }
+  ],
+  "entities": [
+    {
+      "entity": "fir chlis",
+      "type": "mythological figure"
+    },
+    {
+      "entity": "northern lights",
+      "type": "concept"
+    },
+    {
+      "entity": "aurora borealis",
+      "type": "concept"
+    }
+  ],
+  "sources": [
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+  ],
+  "cyphertext": "HW0zL9A_0S2J9IrmJ32s1JHdr_qEelRONLZfbelrrcuV9ubSeePTrDVj52ofD3WcRCFHd1XXF-Y356LvcbRoLRpMK3APKAXr6Hgw2MUk7Jjjoxv53UC2Hb2K_nJDAj8TB0SydCg428Lv3Jr0w5jiwVF_xLlfgFgjDxXqAEluQNciDdqST28q-evdZnt1Q9rmRyFThQ5AugODS-PUMSGM",
+  "salt": "Ts5xXFO7E95q6NdMuAqcnw==",
+  "text": "Fir chlis is a figure of Scottish folklore. Known as the nimble man, he stood for the northern lights, called the aurora borealis. He appears in the folklore of Scotland.",
+  "okr": {
+    "objective": "fir chlis is the nimble man who personified the northern lights.",
+    "key_results": [
+      "fir chlis appears in Scottish folklore.",
+      "The nimble man stood for the northern lights.",
+      "The aurora borealis was his symbol."
     ],
-    "entities": [
-        {
-            "entity": "fir chlis",
-            "type": "Scottish folkloric figure"
-        },
-        {
-            "entity": "northern lights",
-            "type": "aurora borealis"
-        },
-        {
-            "entity": "Scottish folklore",
-            "type": "folklore"
-        }
-    ],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "cyphertext": "HW0zL9A_0S2J9IrmJ32s1JHdr_qEelRONLZfbelrrcuV9ubSeePTrDVj52ofD3WcRCFHd1XXF-Y356LvcbRoLRpMK3APKAXr6Hgw2MUk7Jjjoxv53UC2Hb2K_nJDAj8TB0SydCg428Lv3Jr0w5jiwVF_xLlfgFgjDxXqAEluQNciDdqST28q-evdZnt1Q9rmRyFThQ5AugODS-PUMSGM",
-    "salt": "Ts5xXFO7E95q6NdMuAqcnw==",
-    "text": "The Scottish folklore depicted a figure called fir chlis who represented the northern lights or aurora borealis. He was known as the \"nimble man.\""
+    "evidence": "Monaghan, Encyclopedia of Celtic Mythology and Folklore"
+  }
 }
