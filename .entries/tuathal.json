@@ -1,11 +1,34 @@
 {
-    "name": "tuathal",
-    "attributes": {},
-    "entities": [],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "cyphertext": "IImgYDctpY_z2XbedMwPt1dUnpNmd0Kww_uO667sYyZ186ewxQ5lzPqYmyG03MsiDapJUQ==",
-    "salt": "Q9iaapr_kQqccneNxtm4_A==",
-    "text": "tuathal See Directions."
+ "name": "tuathal",
+ "attributes": [
+  {
+   "entity": "tuathal",
+   "attribute": "a ritual direction moved counterclockwise, against the sun"
+  }
+ ],
+ "entities": [
+  {
+   "entity": "tuathal",
+   "type": "Concept"
+  },
+  {
+   "entity": "Deosil",
+   "type": "Concept"
+  }
+ ],
+ "sources": [
+  "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+ ],
+ "cyphertext": "IImgYDctpY_z2XbedMwPt1dUnpNmd0Kww_uO667sYyZ186ewxQ5lzPqYmyG03MsiDapJUQ==",
+ "salt": "Q9iaapr_kQqccneNxtm4_A==",
+ "text": "Tuathal is an Irish term for one of the Celtic ritual directions. To move tuathal is to move counterclockwise, against the sun's path. The Celts saw this as moving against the natural order. It is the opposite of deosil, which follows the sun. Today some call this motion widdershins and hold it to bring bad luck. See DIRECTIONS.",
+ "okr": {
+  "objective": "Set out the Irish ritual direction tuathal and its meaning.",
+  "key_results": [
+   "It is moved counterclockwise, against the sun's path",
+   "The Celts held it to move against the natural order",
+   "It is the opposite of deosil, which follows the sun"
+  ],
+  "evidence": "Monaghan 2008, s.v. 'tuathal'."
+ }
 }
