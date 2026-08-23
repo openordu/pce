@@ -1,73 +1,64 @@
 {
-    "name": "Mary Morgan",
-    "attributes": [
-        {
-            "entity": "Mary Morgan",
-            "attribute": "Breton folkloric figure"
-        },
-        {
-            "entity": "Mary Morgan",
-            "attribute": "siren"
-        },
-        {
-            "entity": "Mary Morgan",
-            "attribute": "Mermaid"
-        },
-        {
-            "entity": "Brittany",
-            "attribute": "shore"
-        },
-        {
-            "entity": "Brittany",
-            "attribute": "Bay of Douaranez"
-        },
-        {
-            "entity": "princess Dahut",
-            "attribute": "legendary"
-        },
-        {
-            "entity": "princess Dahut",
-            "attribute": "crystal city of Ys"
-        },
-        {
-            "entity": "sailors",
-            "attribute": "warned"
-        },
-        {
-            "entity": "Mary Morgan",
-            "attribute": "rocks"
-        },
-        {
-            "entity": "sailors",
-            "attribute": "carry a crucifix or other Amulet"
-        }
-    ],
-    "entities": [
-        {
-            "entity": "Mary Morgan",
-            "type": "Breton folkloric figure"
-        },
-        {
-            "entity": "Brittany",
-            "type": "location"
-        },
-        {
-            "entity": "Bay of Douaranez",
-            "type": "location"
-        },
-        {
-            "entity": "princess Dahut",
-            "type": "legendary figure"
-        },
-        {
-            "entity": "sailors",
-            "type": "group of people"
-        }
-    ],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "cyphertext": "LESCu8Vh7ppF-O_uLRSKxtd5CYxQtOnxRk2TERR__HfB90Kz9BjGwsacpglNffOS6qmzDPTV4KE2I2AMXCvn7zKlKjuOAG2Mulruya3TwGXD1TYJ4vm5FHEAFoo2DmfIvu_y65IKLVBNPjGP50muX3x-lcz3rH8L4fHBPkFfCMFDhDLct809cqZ9mQgWL_xFpTJRWO-HuuAXN7UjhH11Q-ZSdc3l9PM48E5n1TT1oe-bVMP0ijycv-K_j3xOLKdUIr5cp1IdUG_aeBIlxHDCp2w70yk8--vMYSr28kVKRsZU9wSYq5RPZrETcJxyS1PXxev4-n6vJMGAFfDBMl8K-cwipvDX1xfaMc-DhmQVSzPWuvSDdn1dq9GQoY5vp93JPLka7gfk6t1VSx78g8MxEIVycvJgV9DNkIbkjEsoqvrtebNys_N3GfRKByDxlqEzPg_Cr9lyE_iQJyxm1N0D10oC1RNeuykJNPWVVTWZ5aZPQJrkHa5FnLZmb6mP9bUKdREkTy5pu-jruX2ilk5bquyf1Hs3NaeD_2k1TC0INaEJzruRDY7hx1_YUgwnMAgeUhjBDsLn3-kfusDGgg==",
-    "salt": "mbV8goPCrwlw_9pSNYc_mw==",
-    "text": "A legendary figure in Breton folklore is Mary Morgan, also known as Morrigain. According to tales, she is a siren or mermaid who would haunt the coasts of Brittany, singing beautifully to lure sailors towards her treacherous rocks. The Bay of Douaranez is a particular location where she is often associated, as it is where the princess Dahut supposedly erected her crystal city of Ys. It was said that sailors ought to have a crucifix or another type of amulet with them when passing by the rocks where Mary Morgan resided in order to be protected."
+  "name": "Mary Morgan",
+  "attributes": [
+    {
+      "entity": "Mary Morgan",
+      "attribute": "a Breton folkloric figure, a siren or mermaid who haunted the shores of Brittany"
+    },
+    {
+      "entity": "Mary Morgan",
+      "attribute": "sang sweetly to draw sailors to her dangerous rocks"
+    },
+    {
+      "entity": "Mary Morgan",
+      "attribute": "linked to the Bay of Douarnenez and the city of Ys of the princess Dahut"
+    },
+    {
+      "entity": "sailors",
+      "attribute": "warned to carry a crucifix or amulet when sailing past Mary Morgan's rocks"
+    }
+  ],
+  "entities": [
+    {
+      "entity": "Mary Morgan",
+      "type": "Being"
+    },
+    {
+      "entity": "Brittany",
+      "type": "Place"
+    },
+    {
+      "entity": "Bay of Douarnenez",
+      "type": "Place"
+    },
+    {
+      "entity": "Dahut",
+      "type": "Person"
+    },
+    {
+      "entity": "Ys",
+      "type": "Place"
+    },
+    {
+      "entity": "siren",
+      "type": "Being"
+    }
+  ],
+  "sources": [
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+  ],
+  "cyphertext": "LESCu8Vh7ppF-O_uLRSKxtd5CYxQtOnxRk2TERR__HfB90Kz9BjGwsacpglNffOS6qmzDPTV4KE2I2AMXCvn7zKlKjuOAG2Mulruya3TwGXD1TYJ4vm5FHEAFoo2DmfIvu_y65IKLVBNPjGP50muX3x-lcz3rH8L4fHBPkFfCMFDhDLct809cqZ9mQgWL_xFpTJRWO-HuuAXN7UjhH11Q-ZSdc3l9PM48E5n1TT1oe-bVMP0ijycv-K_j3xOLKdUIr5cp1IdUG_aeBIlxHDCp2w70yk8--vMYSr28kVKRsZU9wSYq5RPZrETcJxyS1PXxev4-n6vJMGAFfDBMl8K-cwipvDX1xfaMc-DhmQVSzPWuvSDdn1dq9GQoY5vp93JPLka7gfk6t1VSx78g8MxEIVycvJgV9DNkIbkjEsoqvrtebNys_N3GfRKByDxlqEzPg_Cr9lyE_iQJyxm1N0D10oC1RNeuykJNPWVVTWZ5aZPQJrkHa5FnLZmb6mP9bUKdREkTy5pu-jruX2ilk5bquyf1Hs3NaeD_2k1TC0INaEJzruRDY7hx1_YUgwnMAgeUhjBDsLn3-kfusDGgg==",
+  "salt": "mbV8goPCrwlw_9pSNYc_mw==",
+  "text": "Mary Morgan was a Breton folkloric figure. This siren, or mermaid, was said to haunt the shores of Brittany, singing sweetly to draw sailors toward her dangerous rocks. She was especially linked to the Bay of Douarnenez, where the legendary princess Dahut was said to have built her crystal city of Ys. Sailors were warned to carry a crucifix or other amulet with them when they sailed past Mary Morgan's rocks.",
+  "objective": "Document Mary Morgan, the Breton siren who lured sailors to the rocks.",
+  "key_results": [
+    "Record Mary Morgan as a siren or mermaid of Brittany.",
+    "Record her sweet singing that drew sailors to danger.",
+    "Record her link to the Bay of Douarnenez and the city of Ys.",
+    "Record the sailors' warning to carry a crucifix or amulet."
+  ],
+  "evidence": [
+    "Monaghan, P. The Encyclopedia of Celtic Mythology and Folklore (2008): Mary Morgan entry, p. 316.",
+    "Koch, J. T. Encyclopedia of Celtic Culture (2006): Ys and Douarnenez cross-reference."
+  ]
 }

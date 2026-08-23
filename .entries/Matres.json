@@ -1,14 +1,63 @@
 {
-    "name": "Matres",
-    "attributes": {},
-    "entities": [],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "image": [
-        "https://upload.wikimedia.org/wikipedia/commons/8/8e/Deesses_de_Vertault_%28mus%C3%A9e_de_Bibracte%29.jpg"
-    ],
-    "cyphertext": "Bnjcllv2-Suc6l6Em2erXVr3GQnfZGTZTiGCXOPqyL80zsIBThWzGkLExQN9vBSKUqqKmg==",
-    "salt": "wE_nuT2MfsdoO18wLrIerg==",
-    "text": "Matres See Deae Matres."
+  "name": "Matres",
+  "attributes": [
+    {
+      "entity": "Matres",
+      "attribute": "Continental Celtic goddesses whose name means Divine Mothers"
+    },
+    {
+      "entity": "Matres",
+      "attribute": "usually shown as a maiden, a mother, and a crone"
+    },
+    {
+      "entity": "Matres",
+      "attribute": "held sacred objects of food and abundance"
+    },
+    {
+      "entity": "Dea Nutrix",
+      "attribute": "the nourishing form of the Mothers"
+    }
+  ],
+  "entities": [
+    {
+      "entity": "Matres",
+      "type": "Person"
+    },
+    {
+      "entity": "Dea Nutrix",
+      "type": "Person"
+    },
+    {
+      "entity": "Venus",
+      "type": "Person"
+    },
+    {
+      "entity": "mother goddesses",
+      "type": "Concept"
+    },
+    {
+      "entity": "fertility",
+      "type": "Concept"
+    }
+  ],
+  "sources": [
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+  ],
+  "image": [
+    "https://upload.wikimedia.org/wikipedia/commons/8/8e/Deesses_de_Vertault_%28mus%C3%A9e_de_Bibracte%29.jpg"
+  ],
+  "cyphertext": "Bnjcllv2-Suc6l6Em2erXVr3GQnfZGTZTiGCXOPqyL80zsIBThWzGkLExQN9vBSKUqqKmg==",
+  "salt": "wE_nuT2MfsdoO18wLrIerg==",
+  "text": "Matres were Continental Celtic goddesses. The Latin name means Divine Mothers and the image is among the most common goddess figures in Celtic lands. The statues sometimes show two mothers. The usual form shows three. The three could appear as a maiden, a fertile mother, and an aging crone, or as similar triplets. The Mothers sat and held sacred objects, such as a sacrificial knife, an offering plate, food, bread, or fish. The goddesses connected the abundance of the land and of the people who relied upon it. They also appeared as Dea Nutrix, the nourishing goddess, and as a form called the pseudo-Venus, a single woman holding the symbols of fertility.",
+  "objective": "Document the Matres, the Divine Mothers of the Continental Celtic world.",
+  "key_results": [
+    "Record the meaning of the Matres as Divine Mothers.",
+    "Record the usual three figures of maiden, mother, and crone.",
+    "Record the sacred objects of food and abundance.",
+    "Record the forms of Dea Nutrix and the pseudo-Venus."
+  ],
+  "evidence": [
+    "Monaghan, P. The Encyclopedia of Celtic Mythology and Folklore (2008): Deae Matres entry, p. 136.",
+    "Koch, J. T. Encyclopedia of Celtic Culture (2006): Deae Matres entry, pp. 1027-1028."
+  ]
 }
