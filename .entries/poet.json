@@ -1,18 +1,41 @@
 {
-    "name": "poet",
-    "attributes": {},
-    "entities": [
-        {
-            "text": "Bard"
-        }
-    ],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "image": [
-        "https://upload.wikimedia.org/wikipedia/commons/f/f6/Books_and_Scroll_Ornament_with_Open_Book.png"
-    ],
-    "cyphertext": "KKdUPrkFhrmRObSM72a7teb3V0p7yXKZfYISITSEQTDea-BX4-FE-oswig==",
-    "salt": "u-XB10KHT-mIQd8hVL0GTQ==",
-    "text": "poet See Bard."
+ "name": "poet",
+ "attributes": [
+  {
+   "entity": "poet",
+   "attribute": "the same figure as the bard"
+  },
+  {
+   "entity": "poet",
+   "attribute": "poetry was a form of magic"
+  }
+ ],
+ "entities": [
+  {
+   "entity": "poet",
+   "type": "Role"
+  },
+  {
+   "entity": "Bard",
+   "type": "Role"
+  }
+ ],
+ "sources": [
+  "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+ ],
+ "image": [
+  "https://upload.wikimedia.org/wikipedia/commons/f/f6/Books_and_Scroll_Ornament_with_Open_Book.png"
+ ],
+ "cyphertext": "KKdUPrkFhrmRObSM72a7teb3V0p7yXKZfYISITSEQTDea-BX4-FE-oswig==",
+ "salt": "u-XB10KHT-mIQd8hVL0GTQ==",
+ "text": "Poet is the word for the bard in Celtic tradition. The craft of poetry was a form of magic in Ireland, tied to incantation and enchantment. A fully trained poet could travel a circuit of the land. See Bard for the fuller account.",
+ "okr": {
+  "objective": "Keep poet as a redirect to Bard with its key fact.",
+  "key_results": [
+   "names the poet as the bard",
+   "calls poetry a form of magic",
+   "points to Bard for the full entry"
+  ],
+  "evidence": "Monaghan 2008, s.v. 'poet'."
+ }
 }
