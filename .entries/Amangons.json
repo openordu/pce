@@ -1,44 +1,46 @@
 {
-    "name": "Amangons",
-    "entities": [
-        {
-            "entity": "Amangons",
-            "type": "Person"
-        },
-        {
-            "entity": "Grail",
-            "type": "Artifact"
-        },
-        {
-            "entity": "Wells",
-            "type": "Place"
-        },
-        {
-            "entity": "Britain",
-            "type": "Place"
-        }
-    ],
-    "attributes": [
-        {
-            "entity": "Amangons",
-            "attribute": "a king of Arthurian legend"
-        },
-        {
-            "entity": "Amangons",
-            "attribute": "started the Grail quest"
-        },
-        {
-            "entity": "Amangons",
-            "attribute": "harmed the sacred wells"
-        }
-    ],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "cyphertext": "Z89q2AwOVP_hBOnU3COTh5VyXjUj8FEO9QiiF6gi_-NiZDYvfJ_6_Rt5VPe6l93rEQxwRSpLxG5Df4I3zB1qerWUkKZCqREN-eDusvK0UHsTlhHnXocJlLI6Yfyd4rf66gfrVp8eCzGIu_4uZC9IeMAZnmX0qyBZZMcx8SxGl45CC1Fab3Bcgihj5gSKEi0M7ej0A0dJKhT8-7GIzmwgaC6aQM0hET3LeHFfF7vsGDAAuBPfH_f5EDICDBztyvpG3VR-6sUYkO51HhRv00ErbFo=",
-    "salt": "Q3tr0VDvv212U71DiQov9g==",
-    "text": "Amangons is a king of Arthurian legend. He brings the quest for the Grail about because of his shame. He and his men broke the maidens who guarded the sacred wells in the deep forest of Britain. With the keepers harmed, the land grew waste. So the quest for the Grail began to heal the hurt.",
-    "objective": "Record the King Amangons.",
-    "key_results": "Show the crime and the quest it sets.",
-    "evidence": "Monaghan 2003, s.v. Amangons; Koch 2006, s.v. Grail"
+  "name": "Amangons",
+  "entities": [
+    {
+      "entity": "Amangons",
+      "type": "Person"
+    },
+    {
+      "entity": "Grail",
+      "type": "Artifact"
+    },
+    {
+      "entity": "Wells",
+      "type": "Place"
+    },
+    {
+      "entity": "Britain",
+      "type": "Place"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Amangons",
+      "attribute": "a king of Arthurian legend"
+    },
+    {
+      "entity": "Amangons",
+      "attribute": "started the Grail quest"
+    },
+    {
+      "entity": "Amangons",
+      "attribute": "harmed the sacred wells"
+    }
+  ],
+  "sources": [
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+  ],
+  "cyphertext": "Z89q2AwOVP_hBOnU3COTh5VyXjUj8FEO9QiiF6gi_-NiZDYvfJ_6_Rt5VPe6l93rEQxwRSpLxG5Df4I3zB1qerWUkKZCqREN-eDusvK0UHsTlhHnXocJlLI6Yfyd4rf66gfrVp8eCzGIu_4uZC9IeMAZnmX0qyBZZMcx8SxGl45CC1Fab3Bcgihj5gSKEi0M7ej0A0dJKhT8-7GIzmwgaC6aQM0hET3LeHFfF7vsGDAAuBPfH_f5EDICDBztyvpG3VR-6sUYkO51HhRv00ErbFo=",
+  "salt": "Q3tr0VDvv212U71DiQov9g==",
+  "text": "Amangons is a king of Arthurian legend. He brings the quest for the Grail about because of his shame. He and his men broke the maidens who guarded the sacred wells in the deep forest of Britain. With the keepers harmed, the land grew waste. So the quest for the Grail began to heal the hurt.",
+  "objective": "Record the King Amangons.",
+  "key_results": [
+    "Show the crime and the quest it sets."
+  ],
+  "evidence": "Monaghan 2003, s.v. Amangons; Koch 2006, s.v. Grail"
 }
