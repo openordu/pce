@@ -1,37 +1,37 @@
 {
-    "name": "Licke",
-    "entities": [
-        {
-            "entity": "Licke",
-            "type": "Fairy"
-        },
-        {
-            "entity": "Otherworld",
-            "type": null
-        }
-    ],
-    "attributes": [
-        {
-            "entity": "Licke",
-            "attribute": "named"
-        },
-        {
-            "entity": "Licke",
-            "attribute": "small"
-        },
-        {
-            "entity": "Licke",
-            "attribute": "worked as a cook"
-        },
-        {
-            "entity": "Otherworld",
-            "attribute": null
-        }
-    ],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "cyphertext": "sUiqOJN10ALknoaSOmyD1sSWrvMts1su9NUr7c1YEcVwbGi6FxAWsOTEskoHM_WzCHPuQ1alS4c2qqJA-0d_Uc-vDZGgsMIi2xpnFIMfzekKeptvULSyEW4Bf9aZOEw7ryJh6hMQ9F-rQecrOsn40pYulqprJ6ldzaE9UrHprq_ZvRWGGFzaGr0avwg=",
-    "salt": "TgFYzuGsljQTFv0aIGHikg==",
-    "text": "As per various textual references, there exists a small Fairy called Licke who served as a cook in the Otherworld, similar to the British fairy tales."
+ "name": "Licke",
+ "entities": [
+  {
+   "entity": "Licke",
+   "type": "Being"
+  },
+  {
+   "entity": "Otherworld",
+   "type": "Place"
+  }
+ ],
+ "attributes": [
+  {
+   "entity": "Licke",
+   "attribute": "a small fairy who worked as a cook"
+  },
+  {
+   "entity": "Otherworld",
+   "attribute": "the fairy realm where Licke cooked"
+  }
+ ],
+ "sources": [
+  "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+ ],
+ "cyphertext": "sUiqOJN10ALknoaSOmyD1sSWrvMts1su9NUr7c1YEcVwbGi6FxAWsOTEskoHM_WzCHPuQ1alS4c2qqJA-0d_Uc-vDZGgsMIi2xpnFIMfzekKeptvULSyEW4Bf9aZOEw7ryJh6hMQ9F-rQecrOsn40pYulqprJ6ldzaE9UrHprq_ZvRWGGFzaGr0avwg=",
+ "salt": "TgFYzuGsljQTFv0aIGHikg==",
+ "text": "Licke is a small fairy from British tales. More than one text names him as a cook in the realm of the Otherworld. The page keeps his place as a minor being of the fairy court. No great deed is told of him, but his cooked work stays a steady part of the Otherworld hearth.",
+ "okr": {
+  "objective": "Give the small fairy cook Licke a short correct entry.",
+  "key_results": [
+   "State him as a tiny fairy cook.",
+   "Put him inside the realm of the Otherworld."
+  ],
+  "evidence": "Monaghan 2008, s.v. 'Licke'."
+ }
 }
