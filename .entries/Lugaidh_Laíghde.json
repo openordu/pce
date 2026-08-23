@@ -1,53 +1,43 @@
 {
-    "name": "Lugaidh La\u00edghde",
-    "attributes": [
-        {
-            "entity": "Lugaidh La\u00edghde",
-            "attribute": "had five brothers"
-        },
-        {
-            "entity": "Lo\u00edgde",
-            "attribute": "brother of Lugaidh La\u00edghde"
-        },
-        {
-            "entity": "Hag",
-            "attribute": "guarding a Well"
-        },
-        {
-            "entity": "Well",
-            "attribute": "guarded by a Hag"
-        },
-        {
-            "entity": "goddess of Sovereignty",
-            "attribute": "revealed herself to Lugaidh La\u00edghde"
-        }
-    ],
-    "entities": [
-        {
-            "entity": "Lugaidh La\u00edghde",
-            "type": "Person"
-        },
-        {
-            "entity": "Lo\u00edgde",
-            "type": "Person"
-        },
-        {
-            "entity": "Hag",
-            "type": "Mythical Creature"
-        },
-        {
-            "entity": "Well",
-            "type": "Object"
-        },
-        {
-            "entity": "goddess of Sovereignty",
-            "type": "Mythical Creature"
-        }
-    ],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "cyphertext": "SyQMq2zALMsjs--UOiFKO7QF0op087BW4D6J22YB6_WA3N-i23ZFk_nPjsFUP1RnPf1DLshh7ubNw1zXBd5TOZtlBzsV0Bt9olFqGaGZeopKQKm5JzMQgYbRcXfUhx2vmLDz1g-Obz5UoUOH_ZB9KyLZRwspCtgz2GkOpSqUysm5nMmfXGZINdoJbVwMv2lkIIM_x0fdWgIfflyZ_Au_B6pvU2FonoAR07NPKl9yrQElfvWWuvjwJJmB7JM5rTNMUDlX7JsSK-RUBN4VKA5pmSBqerqtQhYLL8X-eGrOzzda73yZMrAqEMBGjLPjqaXM0sbTHiU4KMm_IrBigBbfsrAzvcIulLgFXTKDpwXQLXP4SrbDUk6mLpDXv-cCZ1ZH-91wckOTiltzSffsAGDJgY8ov5iboJhkXr-WeW_hphn-RseLnhpd8gR9MZxQtyBlwg8tVSNL5-Szf25hSQV6L6lKkLCzUOzV1iPPul_u5T9UZfrA-VncGFkH-vIQ5m01Gd8NmPlKygK2h62ndRoab5rDwdjI4KRb-AWtDs3qP5OX_wN6p1AK-qBZ",
-    "salt": "EBUhPH3lb6AyaGg2TK89GA==",
-    "text": "Five brothers went hunting and crossed paths with a Hag. The Hag was guarding a Well and insisted that one of them spend the night with her. All the brothers, named Lugaidh except for Lugaidh La\u00edghde, were repulsed, but Lugaidh La\u00edghde accepted the proposition and slept with her. The Hag, delighted with his potency, transformed into a beautiful and youthful maiden. She disclosed herself to him as the goddess of Sovereignty."
+ "name": "Lugaidh Laíghde",
+ "attributes": [
+  {
+   "entity": "Lugaidh Laigh",
+   "attribute": "one of five brothers all named Lugaidh"
+  },
+  {
+   "entity": "Lugaidh Laigh",
+   "attribute": "lay with a hag who guarded a well"
+  },
+  {
+   "entity": "Lugaidh Laigh",
+   "attribute": "the hag revealed herself as the sovereignty goddess"
+  }
+ ],
+ "entities": [
+  {
+   "entity": "Lugaidh Laigh",
+   "type": "Person"
+  },
+  {
+   "entity": "Sovereignty",
+   "type": "Being"
+  }
+ ],
+ "sources": [
+  "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+ ],
+ "cyphertext": "SyQMq2zALMsjs--UOiFKO7QF0op087BW4D6J22YB6_WA3N-i23ZFk_nPjsFUP1RnPf1DLshh7ubNw1zXBd5TOZtlBzsV0Bt9olFqGaGZeopKQKm5JzMQgYbRcXfUhx2vmLDz1g-Obz5UoUOH_ZB9KyLZRwspCtgz2GkOpSqUysm5nMmfXGZINdoJbVwMv2lkIIM_x0fdWgIfflyZ_Au_B6pvU2FonoAR07NPKl9yrQElfvWWuvjwJJmB7JM5rTNMUDlX7JsSK-RUBN4VKA5pmSBqerqtQhYLL8X-eGrOzzda73yZMrAqEMBGjLPjqaXM0sbTHiU4KMm_IrBigBbfsrAzvcIulLgFXTKDpwXQLXP4SrbDUk6mLpDXv-cCZ1ZH-91wckOTiltzSffsAGDJgY8ov5iboJhkXr-WeW_hphn-RseLnhpd8gR9MZxQtyBlwg8tVSNL5-Szf25hSQV6L6lKkLCzUOzV1iPPul_u5T9UZfrA-VncGFkH-vIQ5m01Gd8NmPlKygK2h62ndRoab5rDwdjI4KRb-AWtDs3qP5OX_wN6p1AK-qBZ",
+ "salt": "EBUhPH3lb6AyaGg2TK89GA==",
+ "text": "Lugaidh Laigh, also called Loighde, was one of five brothers who all carried the name Lugaidh. While out hunting the brothers met a hag who guarded a well. She asked that one of them sleep with her. All the brothers drew back in distaste except Lugaidh Laigh, who made love to her. Pleased with his deed, the hag turned into a young and beautiful woman and revealed that she was the goddess of sovereignty.",
+ "okr": {
+  "objective": "Document Lugaidh Laigh as the brother who won the favour of the well-hag.",
+  "key_results": [
+   "He was one of five brothers all named Lugaidh",
+   "The brothers met a hag guarding a well",
+   "Only Lugaidh Laigh lay with the hag",
+   "The hag then became the goddess of sovereignty"
+  ],
+  "evidence": "Monaghan, The Encyclopedia of Celtic Mythology and Folklore, 2003."
+ }
 }
