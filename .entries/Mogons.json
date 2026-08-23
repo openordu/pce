@@ -1,41 +1,76 @@
 {
-    "name": "Mogons",
-    "attributes": [
-        {
-            "entity": "Mogons",
-            "attribute": "obscure god"
-        },
-        {
-            "entity": "Mogounos",
-            "attribute": "name variation"
-        },
-        {
-            "entity": "word",
-            "attribute": "meaning of Mogons' name"
-        },
-        {
-            "entity": "divinity",
-            "attribute": "associated with strength and fertility"
-        }
-    ],
-    "entities": [
-        {
-            "entity": "Mogons",
-            "type": "Continental Celtic god"
-        },
-        {
-            "entity": "Mogounos",
-            "type": "Continental Celtic god"
-        },
-        {
-            "entity": "Fertility",
-            "type": "divinity"
-        }
-    ],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "cyphertext": "WiCMokny5V-PE6ZAKYoH5Ml7z7rpTXBZe5CF_UavnDoMTChlpoyGbEFXkkYGvFz0mmXiXNEkVJJI2bHxpB3Jbv99Ucype0yBPTRosPxHbf0TOuZtYqmwg-ajWItclVPSQ8my8WyCdRpNmFj3Rb_AZCsYxHwuVKteGgmcsVGXGU13qPugdlVETb0zGuPLsc9Z5dtfgh52F1NXc51ssDyS0uEv5OVIYyre_LKgN16EIPKKoKGmzUInFH-yhEqStydK5_KF",
-    "salt": "XGMjEj4jibU8ntRCKOonYg==",
-    "text": "Continental Celtic god Mogons (Mogounos) is believed to be obscure. His name possibly originates from a term that connotes \"to increase,\" signifying his significance as a deity of potency and productivity."
+  "name": "Mogons",
+  "attributes": [
+    {
+      "entity": "Mogons",
+      "attribute": "a Continental Celtic deity"
+    },
+    {
+      "entity": "Mogons",
+      "attribute": "name means to increase, a god of strength and fertility"
+    },
+    {
+      "entity": "Mogons",
+      "attribute": "an epithet of Vitiris at Netherby"
+    },
+    {
+      "entity": "Mogons",
+      "attribute": "linked with the place name of Mainz"
+    },
+    {
+      "entity": "Mogons",
+      "attribute": "name closes to the word for the great"
+    }
+  ],
+  "entities": [
+    {
+      "entity": "Mogons",
+      "type": "Being"
+    },
+    {
+      "entity": "Mogounos",
+      "type": "Being"
+    },
+    {
+      "entity": "Vitiris",
+      "type": "Being"
+    },
+    {
+      "entity": "Netherby",
+      "type": "Place"
+    },
+    {
+      "entity": "Penrith",
+      "type": "Place"
+    },
+    {
+      "entity": "Cumbria",
+      "type": "Place"
+    },
+    {
+      "entity": "Mainz",
+      "type": "Place"
+    },
+    {
+      "entity": "Mogontiacum",
+      "type": "Place"
+    }
+  ],
+  "sources": [
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+  ],
+  "cyphertext": "WiCMokny5V-PE6ZAKYoH5Ml7z7rpTXBZe5CF_UavnDoMTChlpoyGbEFXkkYGvFz0mmXiXNEkVJJI2bHxpB3Jbv99Ucype0yBPTRosPxHbf0TOuZtYqmwg-ajWItclVPSQ8my8WyCdRpNmFj3Rb_AZCsYxHwuVKteGgmcsVGXGU13qPugdlVETb0zGuPLsc9Z5dtfgh52F1NXc51ssDyS0uEv5OVIYyre_LKgN16EIPKKoKGmzUInFH-yhEqStydK5_KF",
+  "salt": "XGMjEj4jibU8ntRCKOonYg==",
+  "text": "Mogons, also called Mogounos, is a Continental Celtic god. The name may come from a word that means to increase, so he reads as a deity of strength and fertility. In Roman Britain Mogons appears as an epithet of the god Vitiris on a stone from Castra Exploratorum at Netherby, close to the west end of Hadrian's Wall. An independent deity of the same name is known at Voreda, the old Penrith in Cumbria. The name is an old form that sits with the word for great, the same stem behind the place-name Mogontiacum, the city that is now Mainz on the Rhine.",
+  "objective": "Document Mogons, the god of strength and fertility.",
+  "key_results": [
+    "Record the name and the variant Mogounos.",
+    "Record the increase meaning.",
+    "Record the epithet of Vitiris at Netherby.",
+    "Record the name echo in Mainz and Mogontiacum."
+  ],
+  "evidence": [
+    "Monaghan, P. The Encyclopedia of Celtic Mythology and Folklore (2008): Mogons entry, p. 334.",
+    "Koch, J. T. The Encyclopedia of Celtic Culture (2006): Mogons entry, with Vitiris and Mogontiacum."
+  ]
 }

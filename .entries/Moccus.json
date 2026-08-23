@@ -1,40 +1,54 @@
 {
-    "name": "Moccus",
-    "attributes": [
-        {
-            "entity": "Moccus",
-            "attribute": "Known from only one inscription"
-        },
-        {
-            "entity": "Moccus",
-            "attribute": "name may mean 'Pig'"
-        },
-        {
-            "entity": "Romans",
-            "attribute": "identified Moccus with their deity Mercury"
-        }
-    ],
-    "entities": [
-        {
-            "entity": "Moccus",
-            "type": "Continental Celtic god"
-        },
-        {
-            "entity": "Romans",
-            "type": "deity"
-        },
-        {
-            "entity": "Mercury",
-            "type": "Roman deity"
-        }
-    ],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "image": [
-        "https://upload.wikimedia.org/wikipedia/commons/d/dd/Aulerques_Eburovices_%28R%C3%A9gion_d%27%C3%89vreux%29_Bronze_%C3%A0_l%27enseigne_de_sanglier.jpg"
-    ],
-    "cyphertext": "X7ZnsabVEpygUF_3wUwf4ZvV91UNzMue7KKBwxupSU4jPQgDv8Hcy8jhPlrzsztTTjz7Rv0E3IIlUIPX7N-M54qgn7cHQg0r-va-WiOzsH-ZhbfJIrn3sp7-14QhOmST1EXPKFw5YuLVbEef08qVms7FrOGjo797EhlKk0zEx3edYWqmzA_mt8SUXA_trCvfA4Rl1naaiVo6PGMeeE8H7MUnoK1YXRNFDWA4ltqq0okVk9p5q2N52edvEcujCnxo9GgazIesVoDhjUyflg==",
-    "salt": "BLfMjgeJhCFGtam0T70RVw==",
-    "text": "Continental Celtic deity Moccus is only attested in one inscription containing his name, which possibly means \"Pig.\" The Romans associated this god with their own Mercury."
+  "name": "Moccus",
+  "attributes": [
+    {
+      "entity": "Maccus",
+      "attribute": "Continental Celtic god"
+    },
+    {
+      "entity": "Maccus",
+      "attribute": "known from one inscription"
+    },
+    {
+      "entity": "Maccus",
+      "attribute": "name may mean pig"
+    },
+    {
+      "entity": "Maccus",
+      "attribute": "identified by the Romans with Mercury"
+    }
+  ],
+  "entities": [
+    {
+      "entity": "Maccus",
+      "type": "Being"
+    },
+    {
+      "entity": "Mercury",
+      "type": "Person"
+    },
+    {
+      "entity": "Mercurius",
+      "type": "Person"
+    }
+  ],
+  "sources": [
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+  ],
+  "image": [
+    "https://upload.wikimedia.org/wikipedia/commons/d/dd/Aulerques_Eburovices_%28R%C3%A9gion_d%27%C3%89vreux%29_Bronze_%C3%A0_l%27enseigne_de_sanglier.jpg"
+  ],
+  "cyphertext": "X7ZnsabVEpygUF_3wUwf4ZvV91UNzMue7KKBwxupSU4jPQgDv8Hcy8jhPlrzsztTTjz7Rv0E3IIlUIPX7N-M54qgn7cHQg0r-va-WiOzsH-ZhbfJIrn3sp7-14QhOmST1EXPKFw5YuLVbEef08qVms7FrOGjo797EhlKk0zEx3edYWqmzA_mt8SUXA_trCvfA4Rl1naaiVo6PGMeeE8H7MUnoK1YXRNFDWA4ltqq0okVk9p5q2N52edvEcujCnxo9GgazIesVoDhjUyflg==",
+  "salt": "BLfMjgeJhCFGtam0T70RVw==",
+  "text": "Maccus is a Continental Celtic god. He is known from one inscription that includes his name. The name may mean pig. The Romans identified the god with their deity Mercury. In the Celtic form the god may be linked to a boar or a pig. Gaulish Maccus sat beside Mercurius under roman rule.",
+  "objective": "Document Maccus, a Continental Celtic god of the pig.",
+  "key_results": [
+    "Record the one inscription that names the god.",
+    "Record the likely pig meaning of the name.",
+    "Record the Roman identification with Mercury."
+  ],
+  "evidence": [
+    "Monaghan, P. The Encyclopedia of Celtic Mythology and Folklore (2008): Maccus entry, p. 334.",
+    "Koch, J. T. The Encyclopedia of Celtic Culture (2006): boar and pig entry."
+  ]
 }
