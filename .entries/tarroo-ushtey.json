@@ -1,52 +1,45 @@
 {
-    "name": "tarroo-ushtey",
-    "entities": [
-        {
-            "entity": "tarroo-ushtey",
-            "type": "folkloric figure"
-        },
-        {
-            "entity": "Water Bull",
-            "type": "creature"
-        },
-        {
-            "entity": "Isle of Man",
-            "type": "location"
-        },
-        {
-            "entity": "Fairy creatures",
-            "type": "creature"
-        },
-        {
-            "entity": "wand",
-            "type": "object"
-        },
-        {
-            "entity": "Rowan",
-            "type": "plant"
-        }
-    ],
-    "attributes": [
-        {
-            "entity": "Water Bull",
-            "attribute": "not as dangerous as other water monsters"
-        },
-        {
-            "entity": "tarroo-ushtey",
-            "attribute": "merely blighted the crops"
-        },
-        {
-            "entity": "Fairy creatures",
-            "attribute": "could be warded off with a wand of Rowan"
-        }
-    ],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "image": [
-        "https://upload.wikimedia.org/wikipedia/commons/1/1c/Colum-KOIS%28Holt1916%29-Pogany-illustr-p226-glashan.jpg"
-    ],
-    "cyphertext": "lyTZFd3h0UMOQi6cQnTTSDzOf6f7xBq1EkUgkYiDciLWh-0_QrYxwC-_V7pWWn225W1ovZDPNsMgHnRBUMhZHiHvTu5mdBBpRx3fILhRMD8pfa_ugCqt_gbRF5P8dBhfqimt6YKDstVz4RGwrQ6XbVTmb0ZF3Q8LtcUCPJkqd-SHtPIzcj1r71pIQEJxZpp2b76rHvZ-4W0yfIbZCOZpiyP9XzfakphbnJqZLVy6Fjegh6e4vZuPekKPFdMWSymfzKPtujsOkhVOYP5zvuLhw0KSCH8pP6Cj4TgDN4ccu_XnJJJSFEHdBddsVtbmS7zWntfAI9qaCbNJyNSWcJXLb8OD2Pa5JFZq3UepS6WjrLD4YqWIHrekDK5_TXEMxaQulbTpJT6Cj5ObTQKCpcBZT1rjL4tjnOcejpQhkZpmncVbume8PW7Ste6R20nx4SK_WPgKoUeNpRlDa6Yk3JsKktHpKMqcKNYV",
-    "salt": "kxJCl1RSMicC1THSS9ixKg==",
-    "text": "Manx folklore tells of a curious character known as the tarroo-ushtey. This Water Bull of the Isle of Man was, surprisingly, less harmful than other water monsters typically are. Instead of devouring people and cattle as they tend to do in other countries, the tarroo-ushtey's impact was limited to damaging crops. Like many other entities of fairy lore, the Water Bull could be repelled with a Rowan wand."
+ "name": "tarroo-ushtey",
+ "entities": [
+  {
+   "entity": "tarroo-ushtey",
+   "type": "Being"
+  },
+  {
+   "entity": "rowan",
+   "type": "Plant"
+  },
+  {
+   "entity": "Isle of Man",
+   "type": "Place"
+  }
+ ],
+ "attributes": [
+  {
+   "entity": "tarroo-ushtey",
+   "attribute": "water bull of the Isle of Man"
+  },
+  {
+   "entity": "tarroo-ushtey",
+   "attribute": "blighted crops rather than eating people"
+  }
+ ],
+ "sources": [
+  "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+ ],
+ "image": [
+  "https://upload.wikimedia.org/wikipedia/commons/1/1c/Colum-KOIS%28Holt1916%29-Pogany-illustr-p226-glashan.jpg"
+ ],
+ "cyphertext": "lyTZFd3h0UMOQi6cQnTTSDzOf6f7xBq1EkUgkYiDciLWh-0_QrYxwC-_V7pWWn225W1ovZDPNsMgHnRBUMhZHiHvTu5mdBBpRx3fILhRMD8pfa_ugCqt_gbRF5P8dBhfqimt6YKDstVz4RGwrQ6XbVTmb0ZF3Q8LtcUCPJkqd-SHtPIzcj1r71pIQEJxZpp2b76rHvZ-4W0yfIbZCOZpiyP9XzfakphbnJqZLVy6Fjegh6e4vZuPekKPFdMWSymfzKPtujsOkhVOYP5zvuLhw0KSCH8pP6Cj4TgDN4ccu_XnJJJSFEHdBddsVtbmS7zWntfAI9qaCbNJyNSWcJXLb8OD2Pa5JFZq3UepS6WjrLD4YqWIHrekDK5_TXEMxaQulbTpJT6Cj5ObTQKCpcBZT1rjL4tjnOcejpQhkZpmncVbume8PW7Ste6R20nx4SK_WPgKoUeNpRlDa6Yk3JsKktHpKMqcKNYV",
+ "salt": "kxJCl1RSMicC1THSS9ixKg==",
+ "text": "The tarroo-ushtey was the water bull of the Isle of Man. It was far less fierce than most water beasts. Other monsters of the deep ate people and cattle. The tarroo-ushtey only ruined the farmers' crops. The farmer could guard against it with a wand of rowan. The rod from the rowan tree turned it away.",
+ "okr": {
+  "objective": "Record the tarroo-ushtey as the mild water bull of the Isle of Man.",
+  "key_results": [
+   "Identifies the tarroo-ushtey as a Manx water bull",
+   "States it blighted crops rather than devoured people",
+   "Notes a rowan wand could stop it"
+  ],
+  "evidence": "Monaghan 2008, s.v. 'tarroo-ushtey'."
+ }
 }
