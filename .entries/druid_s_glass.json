@@ -1,11 +1,71 @@
 {
-    "name": "druid\u2019s glass",
-    "attributes": {},
-    "entities": [],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "cyphertext": "pqSH6vagyDe7Q5x8z_UXCu1VVdUbFYbV7koApYxvIVRSuj6vMhxB6bMKOwO0GqKLNwFLzVrVqD32p9CeYSnT",
-    "salt": "icwLfV3sBpy--HtT5GGWmA==",
-    "text": "druid\u2019s glass See Serpent Stone."
+  "name": "druid’s glass",
+  "attributes": [
+    {
+      "entity": "serpent stone",
+      "attribute": "round piece of glass used for divination and healing"
+    },
+    {
+      "entity": "Pliny",
+      "attribute": "Roman author who recorded the stone’s power"
+    },
+    {
+      "entity": "Claudius",
+      "attribute": "emperor who executed a Vocontian warrior"
+    },
+    {
+      "entity": "bewitchment",
+      "attribute": "healed by water holding the dipped stone"
+    },
+    {
+      "entity": "garter snake",
+      "attribute": "mating habit mirrors the stone’s formation tale"
+    }
+  ],
+  "entities": [
+    {
+      "entity": "serpent stone",
+      "type": "Artifact"
+    },
+    {
+      "entity": "druid’s glass",
+      "type": "Artifact"
+    },
+    {
+      "entity": "Pliny",
+      "type": "Person"
+    },
+    {
+      "entity": "ovum anguinum",
+      "type": "Artifact"
+    },
+    {
+      "entity": "Claudius",
+      "type": "Person"
+    },
+    {
+      "entity": "Vocontian",
+      "type": "Group"
+    },
+    {
+      "entity": "garter snake",
+      "type": "Being"
+    }
+  ],
+  "sources": [
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+  ],
+  "cyphertext": "pqSH6vagyDe7Q5x8z_UXCu1VVdUbFYbV7koApYxvIVRSuj6vMhxB6bMKOwO0GqKLNwFLzVrVqD32p9CeYSnT",
+  "salt": "icwLfV3sBpy--HtT5GGWmA==",
+  "text": "The serpent stone is a small round piece of glass. The druids used it for divination and healing. Romans called it druid’s glass or ovum anguinum. Pliny wrote that a Vocontian warrior carried one. Emperor Claudius had that warrior executed because Rome feared the stone. Serpents formed the stone in summer at a certain moon phase. They writhed together and secreted a liquid ball into the air. The garter snake shows similar mating behavior. The stone healed bewitchment. A glass of water held the stone after dipping. The cure served sufferers of many kinds. Folklore treasured the stone as medicine long after the druids faded.",
+  "objective": "Rewrite the druid’s glass entry in CSG-SME1000 prose with source-accurate nouns.",
+  "key_results": [
+    "Meets CSG-SME1000 sentence rules",
+    "All required nouns present",
+    "110-140 words",
+    "No prose fragments"
+  ],
+  "evidence": [
+    "monaghan.txt:35084-35121 serpent stone (serpent’s egg, druid’s glass...)"
+  ]
 }
