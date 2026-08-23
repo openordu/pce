@@ -1,49 +1,70 @@
 {
-    "name": "Herzeloyde",
-    "attributes": [
-        {
-            "entity": "Herzeloyde",
-            "attribute": "heartbroken"
-        },
-        {
-            "entity": "Percival",
-            "attribute": "son of Herzeloyde"
-        },
-        {
-            "entity": "Percival",
-            "attribute": "heroic blood"
-        },
-        {
-            "entity": "Percival",
-            "attribute": "joined king Arthur at Camelot"
-        }
-    ],
-    "entities": [
-        {
-            "entity": "Herzeloyde",
-            "type": "Person"
-        },
-        {
-            "entity": "woodland cottage",
-            "type": "Location"
-        },
-        {
-            "entity": "Percival",
-            "type": "Person"
-        },
-        {
-            "entity": "king Arthur",
-            "type": "Person"
-        },
-        {
-            "entity": "Camelot",
-            "type": "Location"
-        }
-    ],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "cyphertext": "0FvUpHN2s2fuJ91SThsoauF9D7WDh77TeytGC2wMcgMxojNqTZycnJkgt5YSJ0gBN-Wq88XELKvmbeQ-6A8Ao1WP82IWLcjk4kAnMlRO-kxORAOJEPlmN7PgYAXm_y1e5Dd24sUOF9CKZRzUvKGAeUOmhqEIQFs3a2OwHEojfd41W0tBs_T15xzszk4IoWNk-y1ccRR1zh76-nDbFOoKfidpc14AV2H6au9XgSDeRrz-wrar5u1jZcsepaGJIeBoUH-Q2FouuaKk6wOM9Tu4TK2ekCA6L2oMUjRX7_Td3i1KKEDqhWBLEbaBG_cgTlHXisWrrUHDw03H7mqhhepcdxRhW2dHu2TheShqHjSKu8gir7QrbtFYwSIuNP9hyWlNV2l2bhvf8LJGPbaCI-4K6_OvidfzpnoY6QEadcsvQGdNEKP_YheokknsolfwKDH11M5txspgra8ddfYguw71XK3NfKs2-sYCUrX3XIe3-eUbHrZn1XYgJiNe9Mkq2VC9wa0VGGi6PzMUO4iLoOPsH8nuZDTsfT28o6f2zSg_H2JHuhjYvJPTxIFh3Y47QJBScjPjXeJNWqDIRqpmlXC8f_0Hy4p13lFM4edtOGSlSoYl2qxh_qCgrWE2Q5FL48_umNfA7MJUoWNceqA8eAR-5R7UfKclqMJHvbhh9AFCneo1fmYbf5sJrtSFonXzFZIG-gpCliFJT5O8PEfq-RFL1y3T0xzNrSZ6_cU5_v0YfJDd5bJfaE057CnyKmg4jQ6Isy2Unhbc-mQ9NgeqzZPHvq3bOiefBeEfFH-rcCJLJzLCklEWxXHrxbDyUh0zjSCLKhyCx8s2bvMutLDKkxhnEqvvWgwwzJYmALmSWtJ7MnGwdqvYUnb-XufT3e8TP_LztfiiAAeDlxHw-ve2cbyAr0BSbAvMgAFv18AMQ12IRKCymZM4wbiBAcK-vXa_rHhrstbszbwAGGeJhRCe8ckhOSucOE5cQLuGMmjbB9AU1_RA",
-    "salt": "tFwLNqHV4CDtdieoo18VBg==",
-    "text": "A Welsh princess named Herzeloyde was a character in Arthurian literature. She was a heroine who refused to marry just anyone; she wanted a man who was genuinely valorous. As a result, she announced that whoever won a tournament would gain her hand in marriage. After many years voyaging in the east, the soldier Gahmuret arrived on the scene in time to claim the prize. Gahmuret was rather restless and, after impregnating his bride, departed once again for the east, where he met his downfall and was killed. Heartbroken, Herzeloyde moved to a tiny forest cottage where she gave birth to her son, Percival, whom she intended to raise without any knowledge of his lineage. However, when Percival was of age, his heroic blood eventually led him to become a member of King Arthur's court at Camelot."
+  "name": "Herzeloyde",
+  "attributes": [
+    {
+      "entity": "Herzeloyde",
+      "attribute": "Arthurian heroine and princess of Wales who demanded a truly heroic husband"
+    },
+    {
+      "entity": "Herzeloyde",
+      "attribute": "offered her hand to the winner of a tournament, claimed by the warrior Gahmuret"
+    },
+    {
+      "entity": "Herzeloyde",
+      "attribute": "moved to a small woodland cottage after Gahmuret's death and raised her son Percival there"
+    },
+    {
+      "entity": "Gahmuret",
+      "attribute": "warrior who won Herzeloyde's hand after years of adventure in the east and was later slain there"
+    },
+    {
+      "entity": "Percival",
+      "attribute": "son of Herzeloyde and Gahmuret whose heroic blood led him to join King Arthur at Camelot"
+    }
+  ],
+  "entities": [
+    {
+      "entity": "Herzeloyde",
+      "type": "Person"
+    },
+    {
+      "entity": "Gahmuret",
+      "type": "Person"
+    },
+    {
+      "entity": "Percival",
+      "type": "Person"
+    },
+    {
+      "entity": "King Arthur",
+      "type": "Person"
+    },
+    {
+      "entity": "Camelot",
+      "type": "Place"
+    },
+    {
+      "entity": "Wales",
+      "type": "Place"
+    },
+    {
+      "entity": "woodland cottage",
+      "type": "Place"
+    }
+  ],
+  "sources": [
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+  ],
+  "cyphertext": "0FvUpHN2s2fuJ91SThsoauF9D7WDh77TeytGC2wMcgMxojNqTZycnJkgt5YSJ0gBN-Wq88XELKvmbeQ-6A8Ao1WP82IWLcjk4kAnMlRO-kxORAOJEPlmN7PgYAXm_y1e5Dd24sUOF9CKZRzUvKGAeUOmhqEIQFs3a2OwHEojfd41W0tBs_T15xzszk4IoWNk-y1ccRR1zh76-nDbFOoKfidpc14AV2H6au9XgSDeRrz-wrar5u1jZcsepaGJIeBoUH-Q2FouuaKk6wOM9Tu4TK2ekCA6L2oMUjRX7_Td3i1KKEDqhWBLEbaBG_cgTlHXisWrrUHDw03H7mqhhepcdxRhW2dHu2TheShqHjSKu8gir7QrbtFYwSIuNP9hyWlNV2l2bhvf8LJGPbaCI-4K6_OvidfzpnoY6QEadcsvQGdNEKP_YheokknsolfwKDH11M5txspgra8ddfYguw71XK3NfKs2-sYCUrX3XIe3-eUbHrZn1XYgJiNe9Mkq2VC9wa0VGGi6PzMUO4iLoOPsH8nuZDTsfT28o6f2zSg_H2JHuhjYvJPTxIFh3Y47QJBScjPjXeJNWqDIRqpmlXC8f_0Hy4p13lFM4edtOGSlSoYl2qxh_qCgrWE2Q5FL48_umNfA7MJUoWNceqA8eAR-5R7UfKclqMJHvbhh9AFCneo1fmYbf5sJrtSFonXzFZIG-gpCliFJT5O8PEfq-RFL1y3T0xzNrSZ6_cU5_v0YfJDd5bJfaE057CnyKmg4jQ6Isy2Unhbc-mQ9NgeqzZPHvq3bOiefBeEfFH-rcCJLJzLCklEWxXHrxbDyUh0zjSCLKhyCx8s2bvMutLDKkxhnEqvvWgwwzJYmALmSWtJ7MnGwdqvYUnb-XufT3e8TP_LztfiiAAeDlxHw-ve2cbyAr0BSbAvMgAFv18AMQ12IRKCymZM4wbiBAcK-vXa_rHhrstbszbwAGGeJhRCe8ckhOSucOE5cQLuGMmjbB9AU1_RA",
+  "salt": "tFwLNqHV4CDtdieoo18VBg==",
+  "text": "Herzeloyde is an Arthurian heroine. She was a princess of Wales. She refused to marry just anyone. She demanded a man who was truly heroic. She announced that the winner of a tournament would win her hand as well. After years of adventure in the east, the warrior Gahmuret arrived in time to claim the prize. Gahmuret was footloose. After he impregnated his bride he left for the east again. There his luck ran out and he was slain. Heartbroken, Herzeloyde moved to a small woodland cottage. There she gave birth to her son, Percival. She intended to keep him from all knowledge of his heritage. His heroic blood found its way out. When Percival was old enough he joined King Arthur at Camelot.",
+  "objective": "Document Herzeloyde, the Arthurian heroine and mother of Percival.",
+  "key_results": [
+    "Record her refusal to marry anyone but a truly heroic man.",
+    "Describe her union with the warrior Gahmuret and his death in the east.",
+    "Note her son Percival's rise to join King Arthur at Camelot."
+  ],
+  "evidence": [
+    "Monaghan, P. The Encyclopedia of Celtic Mythology and Folklore (2008): Herzeloyde entry."
+  ]
 }

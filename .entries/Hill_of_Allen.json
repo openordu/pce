@@ -1,18 +1,35 @@
 {
-    "name": "Hill of Allen",
-    "attributes": {},
-    "entities": [
-        {
-            "text": "Allen See Almu"
-        }
-    ],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "image": [
-        "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/HillofAllen25.JPG/1200px-HillofAllen25.JPG"
-    ],
-    "cyphertext": "xAwwDwRD2qALuVAKGmaaV8ZvUxbVBgy-R0WD-KJdBslQua3lkBXdRcYHviP6KWbubovTCQ==",
-    "salt": "92d4bHKQtcl01TQVLFgtkw==",
-    "text": "Hill of Allen See Almu."
+  "name": "Hill of Allen",
+  "attributes": [
+    {
+      "entity": "Hill of Allen",
+      "attribute": "cross-reference to the place Almu"
+    }
+  ],
+  "entities": [
+    {
+      "entity": "Hill of Allen",
+      "type": "Place"
+    },
+    {
+      "entity": "Almu",
+      "type": "Place"
+    }
+  ],
+  "sources": [
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+  ],
+  "image": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/HillofAllen25.JPG/1200px-HillofAllen25.JPG"
+  ],
+  "cyphertext": "xAwwDwRD2qALuVAKGmaaV8ZvUxbVBgy-R0WD-KJdBslQua3lkBXdRcYHviP6KWbubovTCQ==",
+  "salt": "92d4bHKQtcl01TQVLFgtkw==",
+  "text": "Hill of Allen is a cross-reference in the encyclopedia. The proper name of this place is Almu. See ALMU.",
+  "objective": "Direct readers to the Almu entry.",
+  "key_results": [
+    "Provide the cross reference to Almu."
+  ],
+  "evidence": [
+    "Monaghan, P. The Encyclopedia of Celtic Mythology and Folklore (2008): Hill of Allen entry."
+  ]
 }

@@ -1,14 +1,35 @@
 {
-    "name": "hill",
-    "attributes": {},
-    "entities": [],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "image": [
-        "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Vue_du_village_de_Saint-Paul-de-Vence_depuis_la_route_de_La_Colle.jpg/1200px-Vue_du_village_de_Saint-Paul-de-Vence_depuis_la_route_de_La_Colle.jpg"
-    ],
-    "cyphertext": "FzqGQZAlStr1GwZr6lDNb-u6xC_8tk9khib3MBVVGe834xW0g-y_XJU9g2w05tkOdg4=",
-    "salt": "ro-wE7BV5SvrqbTk8GvMmw==",
-    "text": "hill See Fairy Mound."
+  "name": "hill",
+  "attributes": [
+    {
+      "entity": "hill",
+      "attribute": "cross-reference to the fairy mound"
+    }
+  ],
+  "entities": [
+    {
+      "entity": "hill",
+      "type": "Concept"
+    },
+    {
+      "entity": "fairy mound",
+      "type": "Place"
+    }
+  ],
+  "sources": [
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+  ],
+  "image": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Vue_du_village_de_Saint-Paul-de-Vence_depuis_la_route_de_La_Colle.jpg/1200px-Vue_du_village_de_Saint-Paul-de-Vence_depuis_la_route_de_La_Colle.jpg"
+  ],
+  "cyphertext": "FzqGQZAlStr1GwZr6lDNb-u6xC_8tk9khib3MBVVGe834xW0g-y_XJU9g2w05tkOdg4=",
+  "salt": "ro-wE7BV5SvrqbTk8GvMmw==",
+  "text": "Hill is a cross-reference in the encyclopedia. The term hill points to the concept of the fairy mound. See FAIRY MOUND.",
+  "objective": "Direct readers to the Fairy Mound entry.",
+  "key_results": [
+    "Provide the cross reference to the fairy mound."
+  ],
+  "evidence": [
+    "Monaghan, P. The Encyclopedia of Celtic Mythology and Folklore (2008): hill entry."
+  ]
 }
