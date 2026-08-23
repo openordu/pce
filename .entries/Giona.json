@@ -3,33 +3,33 @@
     "attributes": [
         {
             "entity": "Giona",
-            "attribute": "lazy fellow"
+            "attribute": "is an Irish hero of the Fianna"
         },
         {
             "entity": "Giona",
-            "attribute": "uninspiring leader"
-        },
-        {
-            "entity": "Fionn",
-            "attribute": "tutelage"
+            "attribute": "is the grandson of Fionn Mac Cumhaill"
         },
         {
             "entity": "Giona",
-            "attribute": "great hero"
+            "attribute": "was lazy and could not control his warriors"
+        },
+        {
+            "entity": "Fionn Mac Cumhaill",
+            "attribute": "tutored Giona into a great hero"
         }
     ],
     "entities": [
         {
             "entity": "Giona",
-            "type": "Irish hero"
+            "type": "Person"
         },
         {
             "entity": "Fionn Mac Cumhaill",
-            "type": "great hero"
+            "type": "Person"
         },
         {
             "entity": "Fianna",
-            "type": "group of warriors"
+            "type": "Group"
         }
     ],
     "sources": [
@@ -37,5 +37,14 @@
     ],
     "cyphertext": "KvBz84c2ovqEwUjHLk975lYdZrKIF-2LBZWd14YZtCOxKr645giwzC7R7LgKBlR8n5eJ_hzHyDeEHVIp6G6rdEFy84K-a6S6a-sP8tn3R90yL0VWHs0pbtVAVmFy3Wi6dVdFZAWgkko2Akv6B53e9PjsWPvkHrUOgHb2v0VAWqAonSY_IenPGx-ZpJXKjG8Zj23xcVO-EKoEql5qpVGU6ZtRwpRqMdIJP69y-rqPAQHyWVAw6-FxL8S-BrqGQ-5RKM1QlVzmqdK394-SR-B80CHpQdkL-UIeAfg1T6n3zYNvZOM_6TjrMr7qLb1OSx5Ej9QJSzAiSFDUP5TAvcEEA0JFE7xuXaponY9uyWDEYRW-vIsPrhZoM7F_96zxauBHeBnHUW7rXaPJLskH0JiJHls5xR2aAP-UxqiYOBaP_A==",
     "salt": "VIKx2iIPPEZG6014CLweNg==",
-    "text": "Irish hero Giona, also known as Giona mac Lugha, had an illustrious family background. As a grandson of the renowned hero Fionn Mac Cumhaill, Giona was expected to lead by example, but his lack of discipline and control made him an uninspiring leader for his warriors. To address this issue, Fionn took Giona under his guidance and transformed him into a formidable hero of the Fianna."
+    "text": "Giona is an Irish hero of the Fianna. He was the grandson of Fionn Mac Cumhaill. A lazy fellow, Giona struggled to command his warriors, who saw him as a weak chief. Fionn took him under his care and shaped him into a great Fenian hero.",
+    "okr": {
+        "objective": "Document Giona as a Fianna hero shaped by his grandfather.",
+        "key_results": [
+            "Establish Giona as a Person-typed Irish hero",
+            "Record his kinship with Fionn Mac Cumhaill and the Fianna",
+            "Record Fionn's tutelage that made him a great warrior"
+        ],
+        "evidence": "Monaghan, The Encyclopedia of Celtic Mythology and Folklore, 2003"
+    }
 }
