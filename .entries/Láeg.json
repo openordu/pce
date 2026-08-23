@@ -1,44 +1,49 @@
 {
-    "name": "L\u00e1eg",
-    "attributes": [
-        {
-            "entity": "L\u00e1eg",
-            "attribute": "Irish hero"
-        },
-        {
-            "entity": "C\u00fachulainn",
-            "attribute": "greatest of Ulster\u2019s heroes"
-        },
-        {
-            "entity": "L\u00e1eg",
-            "attribute": "charioteer to C\u00fachulainn"
-        },
-        {
-            "entity": "L\u00e1eg",
-            "attribute": "saved C\u00fachulainn by taking a spear intended for him"
-        }
-    ],
-    "entities": [
-        {
-            "entity": "L\u00e1eg",
-            "type": "person"
-        },
-        {
-            "entity": "Ulster",
-            "type": "place"
-        },
-        {
-            "entity": "C\u00fachulainn",
-            "type": "person"
-        }
-    ],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "image": [
-        "https://upload.wikimedia.org/wikipedia/commons/7/72/Cuinbattle.jpg"
-    ],
-    "cyphertext": "uSj8C39Mkku36BUHMNHApNyIy-6m7PHfxaXOyRLP1Ud6lL5GSlkp9dlHNwc-XKKYFjlyw4NbzlcI4l2Soa2duvI-WexzHqQ024Kv4pvhkx6pIuM_712XgqbNLYuHE8vAn7ZHUAYKhrJpUyOWRk21qeRP1u75KQPpCAfu5cXlK0uoadXx9SahBOdlrf-18XTHdEdwaBlWMhUwOqspw6aM-TA6unmirMXtiRnCGV0xansu12i-WQ==",
-    "salt": "Ur_MSq9IUClx0xiRAhNzKw==",
-    "text": "Irish hero L\u00e1eg, also known as Laeg or Loeg, held the position of charioteer to C\u00fachulainn, one of the greatest heroes of Ulster. In a selfless act, L\u00e1eg shielded his master by intercepting a spear intended for him."
+ "name": "Láeg",
+ "attributes": [
+  {
+   "entity": "Laeg",
+   "attribute": "the chariot-driver of Cuchulainn"
+  },
+  {
+   "entity": "Laeg",
+   "attribute": "an Irish hero of Ulster"
+  },
+  {
+   "entity": "Laeg",
+   "attribute": "died to save his master from a spear"
+  }
+ ],
+ "entities": [
+  {
+   "entity": "Láeg",
+   "type": "Person"
+  },
+  {
+   "entity": "Láeg",
+   "type": "Person"
+  },
+  {
+   "entity": "Láeg",
+   "type": "Place"
+  }
+ ],
+ "sources": [
+  "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+ ],
+ "image": [
+  "https://upload.wikimedia.org/wikipedia/commons/7/72/Cuinbattle.jpg"
+ ],
+ "cyphertext": "uSj8C39Mkku36BUHMNHApNyIy-6m7PHfxaXOyRLP1Ud6lL5GSlkp9dlHNwc-XKKYFjlyw4NbzlcI4l2Soa2duvI-WexzHqQ024Kv4pvhkx6pIuM_712XgqbNLYuHE8vAn7ZHUAYKhrJpUyOWRk21qeRP1u75KQPpCAfu5cXlK0uoadXx9SahBOdlrf-18XTHdEdwaBlWMhUwOqspw6aM-TA6unmirMXtiRnCGV0xansu12i-WQ==",
+ "salt": "Ur_MSq9IUClx0xiRAhNzKw==",
+ "text": "Láeg, also written Laeg or Loeg, drove the chariot of the hero Cuchulainn. He served the great hero of Ulster. Láeg saved his master by taking a spear that was aimed at him. He gave his life for his lord.",
+ "okr": {
+  "objective": "Record the chariot-driver Laeg and his service to Cuchulainn.",
+  "key_results": [
+   "Laeg drove the chariot of Cuchulainn",
+   "He served the great hero of Ulster",
+   "He took a spear meant for his master"
+  ],
+  "evidence": "Monaghan, The Encyclopedia of Celtic Mythology and Folklore, 2003."
+ }
 }
