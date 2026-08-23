@@ -1,11 +1,58 @@
 {
     "name": "goddess-king marriage",
-    "attributes": {},
-    "entities": [],
+    "attributes": [
+        {
+            "entity": "goddess-king marriage",
+            "attribute": "union of the land goddess and the king"
+        },
+        {
+            "entity": "Sovereignty",
+            "attribute": "figure of the land goddess wed to the king at inauguration"
+        },
+        {
+            "entity": "Niall",
+            "attribute": "given a drink by the loathy Hag"
+        },
+        {
+            "entity": "Ériu",
+            "attribute": "titular goddess of the island"
+        }
+    ],
+    "entities": [
+        {
+            "entity": "goddess-king marriage",
+            "type": "Concept"
+        },
+        {
+            "entity": "Sovereignty",
+            "type": "Concept"
+        },
+        {
+            "entity": "Niall",
+            "type": "Person"
+        },
+        {
+            "entity": "Ériu",
+            "type": "Deity"
+        },
+        {
+            "entity": "Medb",
+            "type": "Person"
+        }
+    ],
     "sources": [
         "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
     ],
     "cyphertext": "GHNglvXdptRVqAPdWatnEEdZCkQwZrPoUkuvRvFwrM9doCJHUVEMJjw08rqcZmFMgJFb8E-Q9un6erCIllZI6wltNQ==",
     "salt": "jJBYfbrka-MhTjYBK63Y9g==",
-    "text": "goddess-king marriage See Sovereignty."
+    "text": "The goddess-king marriage names the union of the land goddess and the king. See SOVEREIGNTY for the full entry. In Celtic Ireland the land goddess wed the king at his inauguration. The figure of Sovereignty varies. She can be the loathy Hag who gives Niall a drink. She can be Ériu, the land's titular goddess. She can be Medb, who weds king after king. The king must keep the land fertile through righteous rule. He must offer hospitality and honor sacred taboos.",
+    "okr": {
+        "objective": "Give a short cross-reference stub for goddess-king marriage pointing to Sovereignty.",
+        "key_results": [
+            "The entry redirects the reader to SOVEREIGNTY.",
+            "The land goddess wed the king at his inauguration.",
+            "Sovereignty could appear as the Hag, Ériu, or Medb."
+        ],
+        "evidence": "Monaghan 2008, s.v. 'goddess-king marriage'."
+    }
 }

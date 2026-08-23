@@ -3,11 +3,15 @@
     "attributes": [
         {
             "entity": "Glewlwyd Gafaelwar",
-            "attribute": "Welsh hero"
+            "attribute": "Welsh hero and guardian figure"
         },
         {
-            "entity": "Arthurian legend",
-            "attribute": "watchman at the gates of king Arthur\u2019s court at Camelot"
+            "entity": "Glewlwyd Gafaelwar",
+            "attribute": "watchman at the gates of King Arthur's court"
+        },
+        {
+            "entity": "Camelot",
+            "attribute": "court of King Arthur"
         }
     ],
     "entities": [
@@ -16,16 +20,12 @@
             "type": "Person"
         },
         {
-            "entity": "Wales",
-            "type": "Location"
-        },
-        {
-            "entity": "Arthurian legend",
-            "type": "Mythology"
+            "entity": "Arthur",
+            "type": "Person"
         },
         {
             "entity": "Camelot",
-            "type": "Location"
+            "type": "Place"
         }
     ],
     "sources": [
@@ -33,5 +33,14 @@
     ],
     "cyphertext": "k_hNP6B2o5V_c4ewPO1eQkmH9sLzZDRxVumCeFWr0O9xqmKZxrv0ng1TOwchfVnrlkRV79TPHjxZHk2Oe4dCXQzUWgy5cCAA15GIysY-vuAouFJNuVMcdrGo6uII0JJiJrRwJIVkhJFEk3RMZdTxrFHlYuO1hQex43a1bhVquQEkk_qLbzp_9L4xL3MDHIGxLS9wKUo_GUUHyap8murWSHEU8wheA6NhViiS_E0JlIXExEgQCstHhLpU9H1MJJiGKq44C7k1ka08jw==",
     "salt": "obs12p2djl7LEQgZ1gokSA==",
-    "text": "A Welsh hero by the name of Glewlwyd Gafaelwar was incorporated into Arthurian legend as the sentinel stationed at the entryway of King Arthur's court in Camelot. Glewlwyd was not only a brave fighter but also a protector of the land of Wales."
+    "text": "Glewlwyd Gafaelwar is a Welsh hero. This warrior and guardian figure came from Wales. He passed into Arthurian legend as a watchman. He guarded the gates of King Arthur's court at Camelot. His role made him a keeper of access to the king.",
+    "okr": {
+        "objective": "Present Glewlwyd Gafaelwar as a Welsh hero who became the gatekeeper of Arthurian Camelot.",
+        "key_results": [
+            "Glewlwyd Gafaelwar was a Welsh hero and guardian.",
+            "Arthurian legend folded him in as a court watchman.",
+            "He guarded the gates of King Arthur's court at Camelot."
+        ],
+        "evidence": "Monaghan 2008, s.v. 'Glewlwyd Gafaelwar'."
+    }
 }
