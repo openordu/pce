@@ -1,11 +1,46 @@
 {
-    "name": "Is (Ys)",
-    "attributes": {},
-    "entities": [],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "cyphertext": "bsGWPlcSMMBlByBd1gVp2CUi3Q0MqOC0jMrmItXLdHng1Toop6aCfM2UIGw=",
-    "salt": "dnVoaLl0zvag1zLmrYObJA==",
-    "text": "Is (Ys) See Ys."
+  "name": "Is (Ys)",
+  "attributes": [
+    {
+      "entity": "Is",
+      "attribute": "an alternate name for the Breton city of Ys"
+    },
+    {
+      "entity": "Ys",
+      "attribute": "the Breton city also called Ker-Ys and the City of Ys"
+    }
+  ],
+  "entities": [
+    {
+      "entity": "Is",
+      "type": "Place"
+    },
+    {
+      "entity": "Ys",
+      "type": "Place"
+    },
+    {
+      "entity": "Ker-Ys",
+      "type": "Place"
+    },
+    {
+      "entity": "Brittany",
+      "type": "Place"
+    }
+  ],
+  "sources": [
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+  ],
+  "cyphertext": "bsGWPlcSMMBlByBd1gVp2CUi3Q0MqOC0jMrmItXLdHng1Toop6aCfM2UIGw=",
+  "salt": "dnVoaLl0zvag1zLmrYObJA==",
+  "text": "Is is an alternate name for the Breton city of Ys. It also appears as Ker-Ys and as the City of Ys. For the legend of the sunken city, see Ys.",
+  "objective": "Document the alternate name Is for the city of Ys.",
+  "key_results": [
+    "Record Is as an alternate name for Ys.",
+    "Note the forms Ker-Ys and City of Ys.",
+    "Point the reader to the legend under Ys."
+  ],
+  "evidence": [
+    "Monaghan, P. The Encyclopedia of Celtic Mythology and Folklore (2008): Is entry."
+  ]
 }
