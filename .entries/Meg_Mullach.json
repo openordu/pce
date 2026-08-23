@@ -1,29 +1,72 @@
 {
-    "name": "Meg Mullach",
-    "entities": [
-        {
-            "entity": "brownie",
-            "type": "mythical creature"
-        },
-        {
-            "entity": "Meg",
-            "type": "person"
-        }
-    ],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "attributes": [
-        {
-            "entity": "brownie",
-            "attribute": "forbidden to offer recompense"
-        },
-        {
-            "entity": "Meg",
-            "attribute": "disappeared upon receiving her wages"
-        }
-    ],
-    "cyphertext": "QCF2yD3dzym-4JuHRXcUylTj_JxBsqj9VApWQOP2iTNvY_pLM-70MePQAODy_-SE3sDkyFlO-5xTZ017ZzBgu6B8nwNmbft8DdIdCIuW7ak-7o7vx4GUltOMBldl9gImdIRBytaMh-1ZfOL4j_lEpX14dxaEE9DwHoo5NimVNWCW0IaRxu7QMuCaXddXl2OyZXH_11-m0GNbTDJk9-3-rK2VIjojg9ZiRZ_29UvTEmWBL096xpVFp2dr85s4fhda9Zmh01tZLpQT-temuStugJX__iz4PI5cMr4bDtFo62CcNikH2ap4q1nN_C6wVIcwDljxiLXwLx9fAxLkC5vfGw0kb109MhrVfp19CJF-4qgqZdPRfy8OBWh5h-jZGWllCfe_PyMxpv8qVT9pVdZyKma8KaJcMfGZFfaGwqnS0fY9Y9iGf_cSlLAFyfsOfjC_lTFA9zlAAibVc3-t5yubQpDjGMFccavVhYXEFsvL8u69OqJDPBUwJ3yXJS7n0u1JvKdslGzvtumTcEXga5NeWhPmJHqxVLtlDLYv9jrzifniWYhiYaFM-GfbK49ZmojCuyE1jhAGc3bdqqIAb3mni8QMz2s0gad2oxqPYRwZ3h8jvFkVaz9wNy3bI35m0VJlkdgPF7oVSExF0hHO24wcZnr5GoOHtJLG7qOJvsLiaozVWpbOUo-xTKF76ug0awYgaJY6PBD-VKGsu7FhD1W8trey19d5UIeiozjJvlapOa9yJ-Qzm3h9CsRdEDxnTyjYIJVJuv23Np2HkRTIswdHTP8teHzTQBCBkFbegZFZ-A_LzxIVZsePYxXk3MnY03omXrH3EYkpoM0G9jhp0SrGxBH6ULo0F69aSuHm8X6DNzgwqG4SK3ZKGTvALxqmIy_c1n1HYwz2XSaE7CGsyxZRImsz_xlcPeQRUFOoCuXqwu8F9sgt2_5kagZLfChJMmL8jH4SpAzP81ouVkLVXX9m7F_XIUpH4RkoGLCV2xK52MIFkU3fkT_R8QGrNKcBNf7RCqM6XQGsktctIHlridpKL9FIkjhiGjZ0WqUpM0K7Eb43z810sjUr",
-    "salt": "2JnDWOWm-wgDrQAyZoe1OA==",
-    "text": "Meg Mullach, also known as Maug Moulach or Maggie Moloch, is a notable folkloric figure from Scotland. As a Brownie, Meg was one of many who aided humans with their never-ending work. She took care of Tullochgorm castle, which was owned by the Grant family. Despite Meg's childlike appearance, she had an impressive head of hair, which led to her being nicknamed Hairy Meg. In certain versions of her story, it is said that she also had hairy hands and would sometimes reach down chimneys to steal children. One memorable incident involved her helping a stingy farmer who had dismissed all his farmhands when he realized that Meg would do everything for free. However, Meg requested her wages too, which was forbidden as per the tradition of Laying The Fairies. So, when she disappeared after receiving her payment, she was merely exercising her rights as a Brownie."
+  "name": "Meg Mullach",
+  "entities": [
+    {
+      "entity": "Meg Mullach",
+      "type": "Person"
+    },
+    {
+      "entity": "Maug Moulach",
+      "type": "Person"
+    },
+    {
+      "entity": "Maggie Moloch",
+      "type": "Person"
+    },
+    {
+      "entity": "brownie",
+      "type": "Being"
+    },
+    {
+      "entity": "Tullochgorm Castle",
+      "type": "Place"
+    },
+    {
+      "entity": "Grant family",
+      "type": "Group"
+    },
+    {
+      "entity": "Scotland",
+      "type": "Place"
+    }
+  ],
+  "sources": [
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+  ],
+  "attributes": [
+    {
+      "entity": "Meg Mullach",
+      "attribute": "a Scottish folk figure also called Maug Moulach or Maggie Moloch"
+    },
+    {
+      "entity": "Meg Mullach",
+      "attribute": "a brownie who looked after Tullochgorm Castle, home of the Grant family"
+    },
+    {
+      "entity": "Meg Mullach",
+      "attribute": "her great head of hair earned her the nickname Hairy Meg"
+    },
+    {
+      "entity": "Meg Mullach",
+      "attribute": "vanished when paid a wage, for the tradition forbids paying a brownie"
+    },
+    {
+      "entity": "brownie",
+      "attribute": "a household spirit that did chores for humans without pay"
+    }
+  ],
+  "cyphertext": "QCF2yD3dzym-4JuHRXcUylTj_JxBsqj9VApWQOP2iTNvY_pLM-70MePQAODy_-SE3sDkyFlO-5xTZ017ZzBgu6B8nwNmbft8DdIdCIuW7ak-7o7vx4GUltOMBldl9gImdIRBytaMh-1ZfOL4j_lEpX14dxaEE9DwHoo5NimVNWCW0IaRxu7QMuCaXddXl2OyZXH_11-m0GNbTDJk9-3-rK2VIjojg9ZiRZ_29UvTEmWBL096xpVFp2dr85s4fhda9Zmh01tZLpQT-temuStugJX__iz4PI5cMr4bDtFo62CcNikH2ap4q1nN_C6wVIcwDljxiLXwLx9fAxLkC5vfGw0kb109MhrVfp19CJF-4qgqZdPRfy8OBWh5h-jZGWllCfe_PyMxpv8qVT9pVdZyKma8KaJcMfGZFfaGwqnS0fY9Y9iGf_cSlLAFyfsOfjC_lTFA9zlAAibVc3-t5yubQpDjGMFccavVhYXEFsvL8u69OqJDPBUwJ3yXJS7n0u1JvKdslGzvtumTcEXga5NeWhPmJHqxVLtlDLYv9jrzifniWYhiYaFM-GfbK49ZmojCuyE1jhAGc3bdqqIAb3mni8QMz2s0gad2oxqPYRwZ3h8jvFkVaz9wNy3bI35m0VJlkdgPF7oVSExF0hHO24wcZnr5GoOHtJLG7qOJvsLiaozVWpbOUo-xTKF76ug0awYgaJY6PBD-VKGsu7FhD1W8trey19d5UIeiozjJvlapOa9yJ-Qzm3h9CsRdEDxnTyjYIJVJuv23Np2HkRTIswdHTP8teHzTQBCBkFbegZFZ-A_LzxIVZsePYxXk3MnY03omXrH3EYkpoM0G9jhp0SrGxBH6ULo0F69aSuHm8X6DNzgwqG4SK3ZKGTvALxqmIy_c1n1HYwz2XSaE7CGsyxZRImsz_xlcPeQRUFOoCuXqwu8F9sgt2_5kagZLfChJMmL8jH4SpAzP81ouVkLVXX9m7F_XIUpH4RkoGLCV2xK52MIFkU3fkT_R8QGrNKcBNf7RCqM6XQGsktctIHlridpKL9FIkjhiGjZ0WqUpM0K7Eb43z810sjUr",
+  "salt": "2JnDWOWm-wgDrQAyZoe1OA==",
+  "text": "Meg Mullach, also called Maug Moulach or Maggie Moloch, was a Scottish folk figure. She was a brownie, one of the household spirits that did chores for humans. Meg looked after Tullochgorm Castle, home of the Grant family. Despite a childlike look, she had a great head of hair, which earned her the nickname Hairy Meg. Some stories give her hairy hands and say she reached down chimneys to carry off children. Southern Scots told of brownies that gathered about the hearth with the family. A brownie served without pay. When a farmer found Meg would work for free, he dismissed his hired workers. The farmer then offered Meg a wage. She vanished at once, for the tradition of laying a brownie forbids payment.",
+  "objective": "Document Meg Mullach, the Scottish brownie of Tullochgorm Castle.",
+  "key_results": [
+    "Record Meg Mullach as a Scottish folk figure and brownie.",
+    "Record her care of Tullochgorm Castle for the Grant family.",
+    "Record her nickname Hairy Meg from her head of hair.",
+    "Record the tradition that forbids paying a brownie."
+  ],
+  "evidence": [
+    "Monaghan, P. The Encyclopedia of Celtic Mythology and Folklore (2008): brownie tradition.",
+    "Koch, J. T. Encyclopedia of Celtic Culture (2006): Scotland — brownies, p. 1638."
+  ]
 }
