@@ -1,24 +1,50 @@
 {
-    "name": "gorse",
-    "entities": [
-        {
-            "entity": "Furze",
-            "type": "Plant"
-        }
-    ],
-    "attributes": [
-        {
-            "entity": "Furze",
-            "attribute": "See also"
-        }
-    ],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "image": [
-        "https://upload.wikimedia.org/wikipedia/commons/5/5f/Whin_or_Gorse_on_Fife_Coastal_Trail.jpg"
-    ],
-    "cyphertext": "oJdggL4VnQ0qKapRMJgAcd7nCuT-dF_-zgX3aLn80ZfbDknZVQ7CWp16-QSgUIyIwKyWAY8QJr4PLKbXgPZ3Jd38brjYr5C3bCa8czk5DNGn9Stt1F81y5BDLkIIiO8V2dqoDimY___k6QBFPbJCk_1_TmaRRFUqiKTKaH5THL4kMvvB4ybyzcMowjASmYqDpG3lwrzLjlBwv2d80ID5EGlL_CRYWDxo6wHv0Yl_9y7kF6oHEDHYs1IxJ1ySMM3VfRrmFJB7l_8ajcvzbkEH_5e-5-YxzNBYGWidQEe8ARNguJzzdApneQFCwPKVIBZczLj5hZgIseAO7lbJLbTKcVSKWOcJd7brBfzAi5XTxIZz3yvKOpDjOIpliRWleJnikEm7vR0GPbGk_SP-0RSdEHkQScWHlgwP84aW_yEnKQP4EkM9PjwTTrFnnNzKNKFniJRVa38acH4V44rk3Zm6_Dtgt0tkJsoGe1HGjYiFIsAWDMybODpDdoLCDbTKIL69OzJvD3cbZqltC0Tg-TYy6FVwkATgRRDrdmXPsZd_Wj8PPJ_Rji6obxZKGikVXdA-yfWkmtMrroWysykpajRUUp6JqkYm6ibkuL-5S9K2GlpMYATAoB0zY1AEf7F71KzQ71uSsM0rlwQthfXfm7Y-ctS787c-k6OXPG4eAcPdNjrtlH8z-0g3ECEazlRqtU9BtbyTttSxCACD1A==",
-    "salt": "jeUScUdIrNevJJikPf23og==",
-    "text": "A plant with symbolic meaning is the gorse. This sturdy plant is prevalent in harsh as well as fertile conditions throughout Britain and Ireland. In the spring, the rough spiky bushes blossom with velvety fragrant yellow flowers, some of which last through summer. It served two main purposes: as a source of fuel because of its abundance and intense heat it produces when burned, and as the main element in hedges since Cattle avoid its thorny and thick growth. In Wales, a sprig of gorse was worn for protection against Witchcraft. (Topic Furze is also relevant.)"
+ "name": "gorse",
+ "entities": [
+  {
+   "entity": "gorse",
+   "type": "Concept"
+  },
+  {
+   "entity": "Wales",
+   "type": "Place"
+  },
+  {
+   "entity": "yellow flowers",
+   "type": "Concept"
+  }
+ ],
+ "attributes": [
+  {
+   "entity": "gorse",
+   "attribute": "hardy plant of Ireland and Britain"
+  },
+  {
+   "entity": "gorse",
+   "attribute": "burns hot and forms hedges"
+  },
+  {
+   "entity": "gorse",
+   "attribute": "used in Wales against sorcery"
+  }
+ ],
+ "sources": [
+  "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+ ],
+ "image": [
+  "https://upload.wikimedia.org/wikipedia/commons/5/5f/Whin_or_Gorse_on_Fife_Coastal_Trail.jpg"
+ ],
+ "cyphertext": "oJdggL4VnQ0qKapRMJgAcd7nCuT-dF_-zgX3aLn80ZfbDknZVQ7CWp16-QSgUIyIwKyWAY8QJr4PLKbXgPZ3Jd38brjYr5C3bCa8czk5DNGn9Stt1F81y5BDLkIIiO8V2dqoDimY___k6QBFPbJCk_1_TmaRRFUqiKTKaH5THL4kMvvB4ybyzcMowjASmYqDpG3lwrzLjlBwv2d80ID5EGlL_CRYWDxo6wHv0Yl_9y7kF6oHEDHYs1IxJ1ySMM3VfRrmFJB7l_8ajcvzbkEH_5e-5-YxzNBYGWidQEe8ARNguJzzdApneQFCwPKVIBZczLj5hZgIseAO7lbJLbTKcVSKWOcJd7brBfzAi5XTxIZz3yvKOpDjOIpliRWleJnikEm7vR0GPbGk_SP-0RSdEHkQScWHlgwP84aW_yEnKQP4EkM9PjwTTrFnnNzKNKFniJRVa38acH4V44rk3Zm6_Dtgt0tkJsoGe1HGjYiFIsAWDMybODpDdoLCDbTKIL69OzJvD3cbZqltC0Tg-TYy6FVwkATgRRDrdmXPsZd_Wj8PPJ_Rji6obxZKGikVXdA-yfWkmtMrroWysykpajRUUp6JqkYm6ibkuL-5S9K2GlpMYATAoB0zY1AEf7F71KzQ71uSsM0rlwQthfXfm7Y-ctS787c-k6OXPG4eAcPdNjrtlH8z-0g3ECEazlRqtU9BtbyTttSxCACD1A==",
+ "salt": "jeUScUdIrNevJJikPf23og==",
+ "text": "Gorse is a hardy plant found across Ireland and Britain. It grows in harsh soil as well as in fertile land, and in spring its prickly stems break out in yellow flowers. People used gorse as a fast-burning fuel and as a hedge that cattle would not enter. In Wales, a sprig of gorse was thought to guard the wearer against magic.",
+ "okr": {
+  "objective": "Present gorse as the hardy plant used for fuel, hedges, and defense.",
+  "key_results": [
+   "Gorse flourishes across Ireland and Britain.",
+   "Its stems bloom into yellow flowers in spring.",
+   "It burns as fuel and keeps cattle out of hedges.",
+   "Welsh custom used gorse against magic."
+  ],
+  "evidence": "Monaghan, The Encyclopedia of Celtic Mythology and Folklore, 2003"
+ }
 }
