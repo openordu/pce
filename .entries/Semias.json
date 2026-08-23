@@ -1,49 +1,51 @@
 {
-    "name": "Semias",
-    "attributes": [
-        {
-            "entity": "Semias",
-            "attribute": "master of Wisdom"
-        },
-        {
-            "entity": "Murias",
-            "attribute": "ruled by a master of Wisdom"
-        },
-        {
-            "entity": "Cauldron of abundance",
-            "attribute": "great"
-        },
-        {
-            "entity": "Dagda",
-            "attribute": "beneficent"
-        }
-    ],
-    "entities": [
-        {
-            "entity": "Semias",
-            "type": "Irish hero"
-        },
-        {
-            "entity": "Tuatha D\u00e9 Danann",
-            "type": "magical group"
-        },
-        {
-            "entity": "Murias",
-            "type": "city"
-        },
-        {
-            "entity": "Cauldron of abundance",
-            "type": "magical object"
-        },
-        {
-            "entity": "Dagda",
-            "type": "god"
-        }
-    ],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "cyphertext": "-GfPQKCH-dc3fpps24VB-stn0S6_rzV6n4eEZsPCeRtcYvWZ0kwYjMqqHey10qDFvpQKwAzjKofxvntz_CRxDSNeWkwz5bp_Nqx7VCfJ00t8qoXf5B3La27cWZr6_nxkXuCU996MaL0Z-dSu__Cglyx7VW3yUyjI6BeuTrcTEI8oNFVvA-KjZbiMuxJ_3e4-6tn1I5oKdqdad5jD75lsqqHvMFzRfpWdAQYKuk6dJB4R1op7jIngmii5G7GIlY5imKuzLQKFsr_5CTowKYkTYWknLyCc30ERLiJZYqm5WVwNZUrf4LHrN21Ef1Q61W2UFJqbBDDvHwwPA2UFJgMXIXTZ_RdkP8yN8du-4xNHN2qimoyoBJuJbmzQqgJxdiY=",
-    "salt": "m5WrwkKZ8ec7R7YmopsRcA==",
-    "text": "Irish hero Semias was among the esteemed members of Tuatha D\u00e9 Danann, who hailed from four cities and were governed by masters of Wisdom. Semias served as the master of Murias and was in possession of the grand Cauldron of abundance, which he gifted to the generous god Dagda."
+  "name": "Semias",
+  "attributes": [
+    {
+      "entity": "Semias",
+      "attribute": "master of wisdom"
+    },
+    {
+      "entity": "Murias",
+      "attribute": "a city of the Tuatha Dé Danann"
+    },
+    {
+      "entity": "Cauldron",
+      "attribute": "gifted by Semias to the god Dagda"
+    }
+  ],
+  "entities": [
+    {
+      "entity": "Semias",
+      "type": "Irish hero"
+    },
+    {
+      "entity": "Tuatha Dé Danann",
+      "type": "Supernatural people"
+    },
+    {
+      "entity": "Murias",
+      "type": "City"
+    },
+    {
+      "entity": "Cauldron",
+      "type": "Magical object"
+    },
+    {
+      "entity": "Dagda",
+      "type": "God"
+    }
+  ],
+  "sources": [
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+  ],
+  "cyphertext": "-GfPQKCH-dc3fpps24VB-stn0S6_rzV6n4eEZsPCeRtcYvWZ0kwYjMqqHey10qDFvpQKwAzjKofxvntz_CRxDSNeWkwz5bp_Nqx7VCfJ00t8qoXf5B3La27cWZr6_nxkXuCU996MaL0Z-dSu__Cglyx7VW3yUyjI6BeuTrcTEI8oNFVvA-KjZbiMuxJ_3e4-6tn1I5oKdqdad5jD75lsqqHvMFzRfpWdAQYKuk6dJB4R1op7jIngmii5G7GIlY5imKuzLQKFsr_5CTowKYkTYWknLyCc30ERLiJZYqm5WVwNZUrf4LHrN21Ef1Q61W2UFJqbBDDvHwwPA2UFJgMXIXTZ_RdkP8yN8du-4xNHN2qimoyoBJuJbmzQqgJxdiY=",
+  "salt": "m5WrwkKZ8ec7R7YmopsRcA==",
+  "text": "Semias is an Irish hero. He is a member of the Tuatha Dé Danann. The Tuatha came from four cities, each with its own master of wisdom. Semias was the master of the city of Murias. He owned a great cauldron of abundance. The cauldron fed every guest who came to it, no matter how many. He gave the cauldron to the god Dagda, the good father of the Tuatha. The gift made the cauldron a sacred object of the people. Later it became one of the four great treasures of Ireland. Each of those treasures came from one of the four cities, and each held a gift for the land.",
+  "objective": "Erase the machine text for Semias and replace it with a fresh CSG-SME1000 rewrite sourced from the PDFs.",
+  "key_results": [
+    "text holds a fresh CSG-SME1000 rewrite, not a copy of the machine prose",
+    "entities and attributes corrected and enriched for the kgraph"
+  ],
+  "evidence": "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2003."
 }
