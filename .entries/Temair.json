@@ -1,18 +1,44 @@
 {
-    "name": "Temair",
-    "attributes": {},
-    "entities": [
-        {
-            "text": "Temuir"
-        }
-    ],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "image": [
-        "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Stone_of_Destiny_2018-07-24.jpg/1200px-Stone_of_Destiny_2018-07-24.jpg"
-    ],
-    "cyphertext": "zL5Ng54ZMxQj6uEoX0qCirriYzy3HpsDyLgHY0v31lViJn7sLfdDGEupufuIGDYmD2MVEAP1",
-    "salt": "KPHjvypxlHUdzYpB7uXBtw==",
-    "text": "Temair (Temuir) See Tara."
+ "name": "Temair",
+ "attributes": [
+  {
+   "entity": "Temair",
+   "attribute": "another name for the Irish hill site of Tara"
+  },
+  {
+   "entity": "Tara",
+   "attribute": "the royal hill of the high kings of Ireland"
+  }
+ ],
+ "entities": [
+  {
+   "entity": "Temair",
+   "type": "Place"
+  },
+  {
+   "entity": "Temuir",
+   "type": "Place"
+  },
+  {
+   "entity": "Tara",
+   "type": "Place"
+  }
+ ],
+ "sources": [
+  "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+ ],
+ "image": [
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Stone_of_Destiny_2018-07-24.jpg/1200px-Stone_of_Destiny_2018-07-24.jpg"
+ ],
+ "cyphertext": "zL5Ng54ZMxQj6uEoX0qCirriYzy3HpsDyLgHY0v31lViJn7sLfdDGEupufuIGDYmD2MVEAP1",
+ "salt": "KPHjvypxlHUdzYpB7uXBtw==",
+ "text": "Temair is another name for Tara. It also appears as Temuir. See the entry for Tara for the details. Temair was the royal hill of the high kings of Ireland.",
+ "okr": {
+  "objective": "Describe Temair as a name for Tara.",
+  "key_results": [
+   "Temair, also written Temir, is an alternate name for Tara.",
+   "The entry for Tara gives the full record of the royal hill of Ireland's high kings."
+  ],
+  "evidence": "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+ }
 }

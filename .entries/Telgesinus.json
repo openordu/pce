@@ -1,37 +1,41 @@
 {
-    "name": "Telgesinus",
-    "attributes": [
-        {
-            "entity": "Taliesin",
-            "attribute": "instructed the magician Merlin in the secret ways of the universe"
-        }
-    ],
-    "entities": [
-        {
-            "entity": "Telgesinus",
-            "type": "Person"
-        },
-        {
-            "entity": "Welsh",
-            "type": "Nationality"
-        },
-        {
-            "entity": "Bard",
-            "type": "Occupation"
-        },
-        {
-            "entity": "Taliesin",
-            "type": "Person"
-        },
-        {
-            "entity": "Merlin",
-            "type": "Person"
-        }
-    ],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "cyphertext": "Qv1iSmtL_N5EDF8zx3V7i-v7968RbNxSMEx8DZ6Sq3qPwlgftKDynekRFtF0WS6pOUNhCqi_W_d47wX7jdo--sO58Esermy4nfxW2Dp-Pinr20fcyuVkH84NqPzP-gnkJoAcOPdMzIXrG9p_U_JmL2EkAmcEfC2F_AdEECGUlo0347IjnReONu8RutQhCeCUmqjDECjiiRGjhWyBFRrwSID8c2ZuInuFEehO5v3i6dAcDGrPdbbibyrAIIAncA==",
-    "salt": "GwYYIbgtMh-em6XJYhUMQg==",
-    "text": "Welsh legend speaks of Telgesinus, a great Bard known as Taliesin, who imparted knowledge of the secrets of the universe to the magician Merlin, as stated in a Welsh text."
+ "name": "Telgesinus",
+ "attributes": [
+  {
+   "entity": "Telgesinus",
+   "attribute": "a Welsh hero who is one and the same as the bard Taliesin"
+  },
+  {
+   "entity": "Taliesin",
+   "attribute": "instructed the magician Merlin in the secret ways of the universe"
+  }
+ ],
+ "entities": [
+  {
+   "entity": "Telgesinus",
+   "type": "Person"
+  },
+  {
+   "entity": "Taliesin",
+   "type": "Person"
+  },
+  {
+   "entity": "Merlin",
+   "type": "Person"
+  }
+ ],
+ "sources": [
+  "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+ ],
+ "cyphertext": "Qv1iSmtL_N5EDF8zx3V7i-v7968RbNxSMEx8DZ6Sq3qPwlgftKDynekRFtF0WS6pOUNhCqi_W_d47wX7jdo--sO58Esermy4nfxW2Dp-Pinr20fcyuVkH84NqPzP-gnkJoAcOPdMzIXrG9p_U_JmL2EkAmcEfC2F_AdEECGUlo0347IjnReONu8RutQhCeCUmqjDECjiiRGjhWyBFRrwSID8c2ZuInuFEehO5v3i6dAcDGrPdbbibyrAIIAncA==",
+ "salt": "GwYYIbgtMh-em6XJYhUMQg==",
+ "text": "Telgesinus is a Welsh hero. A Welsh text uses this name for the great bard Taliesin. Taliesin was the one who taught the magician Merlin the secret ways of the universe.",
+ "okr": {
+  "objective": "Describe Telgesinus, a name for the bard Taliesin.",
+  "key_results": [
+   "One Welsh text gives this name to the great bard Taliesin.",
+   "Thus named, Taliesin instructed the magician Merlin in the secret ways of the universe."
+  ],
+  "evidence": "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+ }
 }
