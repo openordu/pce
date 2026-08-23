@@ -1,65 +1,68 @@
 {
-    "name": "March",
-    "attributes": [
-        {
-            "entity": "March",
-            "attribute": "Welsh hero"
-        },
-        {
-            "entity": "Mark",
-            "attribute": "King of the legend of Tristan and Iseult"
-        },
-        {
-            "entity": "Three Seafarers of the Island of Britain",
-            "attribute": "Title given to March"
-        },
-        {
-            "entity": "Norsemen",
-            "attribute": "Land from where March arrived"
-        },
-        {
-            "entity": "Arthur",
-            "attribute": "Cousin of March and King"
-        }
-    ],
-    "entities": [
-        {
-            "entity": "March",
-            "type": "Welsh hero"
-        },
-        {
-            "entity": "Welsh",
-            "type": "Nationality"
-        },
-        {
-            "entity": "Mark",
-            "type": "King"
-        },
-        {
-            "entity": "Tristan",
-            "type": "Legend"
-        },
-        {
-            "entity": "Iseult",
-            "type": "Legend"
-        },
-        {
-            "entity": "Three Seafarers of the Island of Britain",
-            "type": "Title"
-        },
-        {
-            "entity": "Norsemen",
-            "type": "Nationality"
-        },
-        {
-            "entity": "Arthur",
-            "type": "King"
-        }
-    ],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "cyphertext": "BNK4x3X4tudeGU2Lqtw3EvKoJPyX-UI1ebgg3CKlE1KVEh7FYeDE0FEGut8tH7CcWKlpzYNFva-JiyqlFmmdYcFQksPsN1bo8MdaQP8jQIJL2-ol4pZSNj3hPIlILVRkP74BxrHLB-zWrmr9UqELHAtzrUL_bPKKic76zdimLjsPftl_7EQjvPT9Gqu017MKhyXBAlvugL7AdO2-3qaHklPH0vZ_tTUEjE2diGxZdRXMAnBTYFsBSbKouPvwb7zWiNy8z5XrgsPXq8x3RpJgRlDoE0-Av8J-Di7k_I7sk2ESUH7nBaFzAUk7RBGN4zBIRdjg8wH8IrgEeWyLLqyZ1tSgVapXCQLBBNScEtrqn9Zgv50ro2vBOOA225L1TruWTgy9Go5JrilKUnVCmiYoRYA2gkIiHCE7jcC2taUo0JAV8yVr2fMWTA==",
-    "salt": "xRxCwBCMxq7xD5qM7IUFeg==",
-    "text": "Welsh hero, March fab Merchiawn, served as the Welsh equivalent to the legendary king Mark of Tristan and Iseult. March was among the \u201cThree Seafarers of the Island of Britain,\u201d arriving by boat from the Norseman land to offer counsel to his cousin, King Arthur, from time to time."
+  "name": "March",
+  "attributes": [
+    {
+      "entity": "March",
+      "attribute": "a Welsh hero, the corollary to king Mark of the Tristan and Iseult legend"
+    },
+    {
+      "entity": "March",
+      "attribute": "called one of the three seafarers of the island of Britain"
+    },
+    {
+      "entity": "March",
+      "attribute": "arrived on a boat from the land of the Norsemen"
+    },
+    {
+      "entity": "March",
+      "attribute": "the occasional adviser to his cousin king Arthur"
+    }
+  ],
+  "entities": [
+    {
+      "entity": "March",
+      "type": "Person"
+    },
+    {
+      "entity": "Mark",
+      "type": "Person"
+    },
+    {
+      "entity": "Tristan",
+      "type": "Person"
+    },
+    {
+      "entity": "Iseult",
+      "type": "Person"
+    },
+    {
+      "entity": "Island of Britain",
+      "type": "Place"
+    },
+    {
+      "entity": "Norsemen",
+      "type": "Group"
+    },
+    {
+      "entity": "Arthur",
+      "type": "Person"
+    }
+  ],
+  "sources": [
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+  ],
+  "cyphertext": "BNK4x3X4tudeGU2Lqtw3EvKoJPyX-UI1ebgg3CKlE1KVEh7FYeDE0FEGut8tH7CcWKlpzYNFva-JiyqlFmmdYcFQksPsN1bo8MdaQP8jQIJL2-ol4pZSNj3hPIlILVRkP74BxrHLB-zWrmr9UqELHAtzrUL_bPKKic76zdimLjsPftl_7EQjvPT9Gqu017MKhyXBAlvugL7AdO2-3qaHklPH0vZ_tTUEjE2diGxZdRXMAnBTYFsBSbKouPvwb7zWiNy8z5XrgsPXq8x3RpJgRlDoE0-Av8J-Di7k_I7sk2ESUH7nBaFzAUk7RBGN4zBIRdjg8wH8IrgEeWyLLqyZ1tSgVapXCQLBBNScEtrqn9Zgv50ro2vBOOA225L1TruWTgy9Go5JrilKUnVCmiYoRYA2gkIiHCE7jcC2taUo0JAV8yVr2fMWTA==",
+  "salt": "xRxCwBCMxq7xD5qM7IUFeg==",
+  "text": "March was a Welsh hero. He was the Welsh corollary to king Mark of the legend of Tristan and Iseult. March was called one of the three seafarers of the island of Britain. He arrived on a boat from the land of the Norsemen. He became the occasional adviser to his cousin king Arthur.",
+  "objective": "Document March, the Welsh hero and corollary to king Mark of the Tristan and Iseult legend.",
+  "key_results": [
+    "Record March as a Welsh hero and corollary to king Mark.",
+    "Record his title among the three seafarers of Britain.",
+    "Record his arrival by boat from the Norsemen.",
+    "Record his role as occasional adviser to king Arthur."
+  ],
+  "evidence": [
+    "Monaghan, P. The Encyclopedia of Celtic Mythology and Folklore (2008): March entry, pp. 314, 454-455.",
+    "Koch, J. T. Encyclopedia of Celtic Culture (2006): March fab Meirchiawn cross-reference."
+  ]
 }

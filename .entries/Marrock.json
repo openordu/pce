@@ -1,81 +1,52 @@
 {
-    "name": "Marrock",
-    "entities": [
-        {
-            "entity": "Marrock",
-            "type": "Arthurian hero"
-        },
-        {
-            "entity": "werewolf",
-            "type": "creature"
-        },
-        {
-            "entity": "human form",
-            "type": "form"
-        },
-        {
-            "entity": "human clothing",
-            "type": "item"
-        },
-        {
-            "entity": "King Arthur",
-            "type": "legendary figure"
-        },
-        {
-            "entity": "enchantment",
-            "type": "magic"
-        },
-        {
-            "entity": "home",
-            "type": "place"
-        },
-        {
-            "entity": "marriage",
-            "type": "relationship"
-        }
-    ],
-    "attributes": [
-        {
-            "entity": "Marrock",
-            "attribute": "Arthurian hero"
-        },
-        {
-            "entity": "Marrock",
-            "attribute": "werewolf"
-        },
-        {
-            "entity": "Marrock",
-            "attribute": "could not assume human form unless he had human clothing"
-        },
-        {
-            "entity": "Marrock",
-            "attribute": "forced to live as a Wolf in the hills"
-        },
-        {
-            "entity": "King Arthur",
-            "attribute": "encountered Marrock"
-        },
-        {
-            "entity": "Marrock",
-            "attribute": "was under an enchantment"
-        },
-        {
-            "entity": "King Arthur",
-            "attribute": "brought Marrock home"
-        },
-        {
-            "entity": "Marrock",
-            "attribute": "was friendly to King Arthur's wife"
-        },
-        {
-            "entity": "Marrock",
-            "attribute": "resumed his humanity and his marriage"
-        }
-    ],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "cyphertext": "KEKKXJIWA742VZaRSNOjSqzsqyUatgJmk2NviNmIuSCI8JMJDmQL_jBTiub4Ufr9stTOMJsghF0a2aoXdlC4T2VMqlTiBzEM-xJlFooweM_ZVlJ2vCvr2Ez-Tq84lX4XnV3Q0zVw1GDq1lI4wrxqoSl8UJqekzm4YZFbcjJJNZY0L1Nxnc7L6oxIgGoFGTY1H7vwDp_AMztxY3iKLJS6iZvUJOK0ZkYCnKrO3bLDFRIn7ZkI65FJh25PnfGVnQpayAXEaKF2RJwkYQ8627RfkcidnzA5QCgvi9Jawe6O9eeEgGuG6RJFz9ZhYCZNIXci-5JGtu1URzQCpqL0gu1zqRRN0tRpqP3nf205Jelygo9RT2SNscTGId3BAWLACn2iGY7M5ln9R15F-xhCiT6J_heNLjLApfveypWzJTGavzs84nBOaP_stAnUj9HWKdlr-md2eiexO4NEIh3kzBpWacq67Kx9NKa89mXmec06MhMX7VkrxxjVj_mwo_UobJUnPsCYXaqESS3_6tO00ig6PwFuFMRKrekikbxGs6tBrZ2mgDmWeWJUUhidpRvkYZMxmq7Fttemj6ejsKnCpttgd8_g-nrGcidax3eY6n2bX2Hi2WHbuGd4T-WoqQM=",
-    "salt": "-GFHmLwHdjnwnX1q5StXFg==",
-    "text": "A figure of Arthurian folklore, Marrock was a hero who was also a werewolf. One peculiar trait of Marrock was that he needed human apparel to transform into his human form. One day, Marrock's wife, who desired to be with her lover, took away his clothes, depriving him of his human form, thus causing him to live as a wolf in the hills. It so happened that Marrock was fortunately encountered by King Arthur, who realized that he was under a spell. King Arthur brought Marrock to his home and while there, Marrock developed an amiable relationship with Arthur's wife. She later relented and returned Marrock's clothes which enabled him to reacquire his humanity and restore his marriage."
+  "name": "Marrock",
+  "entities": [
+    {
+      "entity": "Marrock",
+      "type": "Person"
+    },
+    {
+      "entity": "Arthur",
+      "type": "Person"
+    },
+    {
+      "entity": "werewolf",
+      "type": "Being"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Marrock",
+      "attribute": "an Arthurian hero, a werewolf who needed human clothing to assume human form"
+    },
+    {
+      "entity": "Marrock",
+      "attribute": "forced to live as a wolf when his wife hid his clothes to be with her lover"
+    },
+    {
+      "entity": "Marrock",
+      "attribute": "brought home by king Arthur, who realized he was under an enchantment"
+    },
+    {
+      "entity": "Marrock",
+      "attribute": "regained his humanity and his marriage when his wife returned his clothes"
+    }
+  ],
+  "sources": [
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+  ],
+  "cyphertext": "KEKKXJIWA742VZaRSNOjSqzsqyUatgJmk2NviNmIuSCI8JMJDmQL_jBTiub4Ufr9stTOMJsghF0a2aoXdlC4T2VMqlTiBzEM-xJlFooweM_ZVlJ2vCvr2Ez-Tq84lX4XnV3Q0zVw1GDq1lI4wrxqoSl8UJqekzm4YZFbcjJJNZY0L1Nxnc7L6oxIgGoFGTY1H7vwDp_AMztxY3iKLJS6iZvUJOK0ZkYCnKrO3bLDFRIn7ZkI65FJh25PnfGVnQpayAXEaKF2RJwkYQ8627RfkcidnzA5QCgvi9Jawe6O9eeEgGuG6RJFz9ZhYCZNIXci-5JGtu1URzQCpqL0gu1zqRRN0tRpqP3nf205Jelygo9RT2SNscTGId3BAWLACn2iGY7M5ln9R15F-xhCiT6J_heNLjLApfveypWzJTGavzs84nBOaP_stAnUj9HWKdlr-md2eiexO4NEIh3kzBpWacq67Kx9NKa89mXmec06MhMX7VkrxxjVj_mwo_UobJUnPsCYXaqESS3_6tO00ig6PwFuFMRKrekikbxGs6tBrZ2mgDmWeWJUUhidpRvkYZMxmq7Fttemj6ejsKnCpttgd8_g-nrGcidax3eY6n2bX2Hi2WHbuGd4T-WoqQM=",
+  "salt": "-GFHmLwHdjnwnX1q5StXFg==",
+  "text": "Marrock was an Arthurian hero. A werewolf, Marrock could not assume a man's form unless he had a man's clothing. His wife, wishing to spend time with her lover, hid Marrock's clothes and forced him to dwell as a wolf in the hills. King Arthur encountered him and, realizing he was under an enchantment, brought him home. Marrock was so friendly to his wife that she relented and returned his clothes. Thereupon he resumed his humanity and his marriage.",
+  "objective": "Document Marrock, the Arthurian werewolf hero whose wife hid his clothes.",
+  "key_results": [
+    "Record Marrock as a werewolf who needed clothing to be human.",
+    "Record his wife's hiding of his clothes for her lover.",
+    "Record king Arthur's rescue of Marrock from the enchantment.",
+    "Record Marrock's return to humanity and marriage."
+  ],
+  "evidence": [
+    "Monaghan, P. The Encyclopedia of Celtic Mythology and Folklore (2008): Marrock entry, p. 315.",
+    "Koch, J. T. Encyclopedia of Celtic Culture (2006): werewolf/Arthur cross-reference."
+  ]
 }
