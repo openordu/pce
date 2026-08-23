@@ -1,53 +1,50 @@
 {
-    "name": "Litavis",
-    "attributes": [
-        {
-            "entity": "Litavis",
-            "attribute": "name"
-        },
-        {
-            "entity": "Litavis",
-            "attribute": "associated with earth"
-        },
-        {
-            "entity": "Litavis",
-            "attribute": "associated with the wide world"
-        },
-        {
-            "entity": "Cicollus",
-            "attribute": "god"
-        },
-        {
-            "entity": "Cicollus",
-            "attribute": "sometimes described as consort of Litavis"
-        },
-        {
-            "entity": "Mars",
-            "attribute": "Roman god"
-        },
-        {
-            "entity": "Mars",
-            "attribute": "similar to Cicollus"
-        }
-    ],
-    "entities": [
-        {
-            "entity": "Litavis",
-            "type": "Continental Celtic goddess"
-        },
-        {
-            "entity": "Cicollus",
-            "type": "god"
-        },
-        {
-            "entity": "Mars",
-            "type": "Roman god"
-        }
-    ],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "cyphertext": "gQy2547ic2CYNmBtvTqMdupSqehOx73IP_hetbCFCuNjM9ZCzU4ieMxAGXhWxG9hErZQjQqAXrMu9n_uR4d8W8AxEVZd9kqrC3DmeEfUoGEYkrxqJ-k1nCfFKAJ_ehfjQrpQtxlOC196qwtNh8aRyFjxY7L34jnuCgv2xq0oxr0k2HVJl3OoqLwRPJPGuZzFfsjCq939l21UKMbcMzpHANg4pxTOgiryVCbHsEODhoWtlSbNZQAztO-8kUVfCXMFeDIhWmFqewB_UfEFn1iWpTxGl2tf5FzI2Lv2Yic4b0MeLSEOnKhpeW6UzqA08tfXSfYNjgBICGx1qICJXxeI9_uQKm2tUf_7zObbPDCenFp0ci-zYEUQG3_yAoV2c0ttFrC95V7LJfLNnxxZxw2MX4DjhtH7z0puNOJPsIs2a-nSFVSDM7tV0HMRgHZoLLSsaHpU1JqJoZlEeqix4z5UYR-K9Oeof8zMnkKmKnhMKI9vzSVCoSfSU2XTvMl6s4MAf1OZ9AbdNQu2dsF_eVG2C9o=",
-    "salt": "GB4TloS9uqWGCYCufauoPw==",
-    "text": "A Celtic goddess by the name of Litavis (Litavus) remains somewhat of a mystery. Her name appears to be tied to words meaning \u201cearth\u201d or \u201cbroad,\u201d hinting at her potential role as a divine presence of the world as a whole. According to some accounts, she was the partner of the deity Cicollus, whom the Romans equated with their god Mars, but it appears that unlike Cicollus, Litavis was not given a new name by the invading Roman legions."
+ "name": "Litavis",
+ "attributes": [
+  {
+   "entity": "Litavis",
+   "attribute": "a Continental Celtic goddess"
+  },
+  {
+   "entity": "Litavis",
+   "attribute": "a name tied to words for earth or broad"
+  },
+  {
+   "entity": "Litavis",
+   "attribute": "described as the consort of Cicollus"
+  },
+  {
+   "entity": "Cicollus",
+   "attribute": "likened by the Romans to Mars"
+  }
+ ],
+ "entities": [
+  {
+   "entity": "Litavis",
+   "type": "Deity"
+  },
+  {
+   "entity": "Cicollus",
+   "type": "Deity"
+  },
+  {
+   "entity": "Mars",
+   "type": "Deity"
+  }
+ ],
+ "sources": [
+  "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+ ],
+ "cyphertext": "gQy2547ic2CYNmBtvTqMdupSqehOx73IP_hetbCFCuNjM9ZCzU4ieMxAGXhWxG9hErZQjQqAXrMu9n_uR4d8W8AxEVZd9kqrC3DmeEfUoGEYkrxqJ-k1nCfFKAJ_ehfjQrpQtxlOC196qwtNh8aRyFjxY7L34jnuCgv2xq0oxr0k2HVJl3OoqLwRPJPGuZzFfsjCq939l21UKMbcMzpHANg4pxTOgiryVCbHsEODhoWtlSbNZQAztO-8kUVfCXMFeDIhWmFqewB_UfEFn1iWpTxGl2tf5FzI2Lv2Yic4b0MeLSEOnKhpeW6UzqA08tfXSfYNjgBICGx1qICJXxeI9_uQKm2tUf_7zObbPDCenFp0ci-zYEUQG3_yAoV2c0ttFrC95V7LJfLNnxxZxw2MX4DjhtH7z0puNOJPsIs2a-nSFVSDM7tV0HMRgHZoLLSsaHpU1JqJoZlEeqix4z5UYR-K9Oeof8zMnkKmKnhMKI9vzSVCoSfSU2XTvMl6s4MAf1OZ9AbdNQu2dsF_eVG2C9o=",
+ "salt": "GB4TloS9uqWGCYCufauoPw==",
+ "text": "Litavis (Litavus) is a Continental Celtic goddess. Not much is known of her. Her name seems tied to words for earth or broad, which would make her a deity of the wide world. The source sometimes names her the partner of the god Cicollus. The Romans saw Cicollus as close to their own god Mars. The invading legions did not rename Litavis as they reworked so many continental divinities.",
+ "okr": {
+  "objective": "Capture the limited known part of the goddess Litavis.",
+  "key_results": [
+   "Type Litavis a Continental Celtic goddess.",
+   "Link her name to the earth and the wide world.",
+   "Name the god Cicollus as her consort and identify his Roman peer Mars."
+  ],
+  "evidence": "Monaghan 2008, s.v. Litavis."
+ }
 }

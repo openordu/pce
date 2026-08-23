@@ -1,15 +1,50 @@
 {
-    "name": "Linton Worm",
-    "attributes": {},
-    "entities": [
-        {
-            "text": "Linton Worm See"
-        }
-    ],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "cyphertext": "fRtZJbCkhAuAXFvws3zGQ1GePfxubJIWY0URaH5W4bublMm2xKFBTqADYrW8bVU6cn0SeQ==",
-    "salt": "d1TZxYL_-ZGZD22a87R44Q==",
-    "text": "Linton Worm See Dragon."
+ "name": "Linton Worm",
+ "attributes": [
+  {
+   "entity": "Linton Worm",
+   "attribute": "a dragon of northern English legend"
+  },
+  {
+   "entity": "Linton Worm",
+   "attribute": "a saver of land near Linton in Northumberland"
+  },
+  {
+   "entity": "Linton Worm",
+   "attribute": "a cross reference to the Dragon topic"
+  },
+  {
+   "entity": "Dragon",
+   "attribute": "the fuller topic that the worm points to"
+  }
+ ],
+ "entities": [
+  {
+   "entity": "Linton Worm",
+   "type": "Creature"
+  },
+  {
+   "entity": "Dragon",
+   "type": "Creature"
+  },
+  {
+   "entity": "Northumberland",
+   "type": "Place"
+  }
+ ],
+ "sources": [
+  "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+ ],
+ "cyphertext": "fRtZJbCkhAuAXFvws3zGQ1GePfxubJIWY0URaH5W4bublMm2xKFBTqADYrW8bVU6cn0SeQ==",
+ "salt": "d1TZxYL_-ZGZD22a87R44Q==",
+ "text": "Linton Worm is a dragon from one neighborhood of northern England. For generations the creature was said to ravage the land around its lair near Linton in Northumberland. The source keeps no separate entry for the worm. It preserves the name only as a cross reference that sends the reader to the main Dragon topic. The record holds the term as a marker for that fuller account.",
+ "okr": {
+  "objective": "Record Linton Worm as a dragon cross reference as the source prints it.",
+  "key_results": [
+   "Type Linton Worm as a Creature.",
+   "State that the source keeps it as a cross reference to Dragon.",
+   "Place the beast in Northumberland."
+  ],
+  "evidence": "Monaghan 2008, s.v. Linton Worm."
+ }
 }

@@ -1,33 +1,50 @@
 {
-    "name": "Lionel",
-    "attributes": [
-        {
-            "entity": "Lionel",
-            "attribute": "Arthurian hero"
-        },
-        {
-            "entity": "Lancelot",
-            "attribute": "superlative"
-        }
-    ],
-    "entities": [
-        {
-            "entity": "Lionel",
-            "type": "Knight"
-        },
-        {
-            "entity": "Round Table",
-            "type": "Object"
-        },
-        {
-            "entity": "Lancelot",
-            "type": "Knight"
-        }
-    ],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "cyphertext": "TjEHBQ8pDk2j0_0ZkiRW72_TZUn0M8WdRtTWrgKl4y8XDTshTUdfRqPkVpXbdjO4ero8B2onNrEBHz0Nmoa1pl_MZPOE4t88xArDO_S22GkhIjg789S9Jj0ESGxc6hIsR2UOzkksjD_tH8oCngiAEO0YHcMwoyvpzOimsVtcgx96dw==",
-    "salt": "ZlRBFNTfkLbMbNC2vTLYlA==",
-    "text": "Arthurian hero Lionel, cousin of the remarkable Lancelot, was a minor knight of the Round Table."
+ "name": "Lionel",
+ "attributes": [
+  {
+   "entity": "Lionel",
+   "attribute": "an Arthurian hero"
+  },
+  {
+   "entity": "Lionel",
+   "attribute": "a minor knight of the Round Table"
+  },
+  {
+   "entity": "Lionel",
+   "attribute": "a cousin of Lancelot"
+  },
+  {
+   "entity": "Round Table",
+   "attribute": "the order that Lionel serves"
+  }
+ ],
+ "entities": [
+  {
+   "entity": "Lionel",
+   "type": "Person"
+  },
+  {
+   "entity": "Lancelot",
+   "type": "Person"
+  },
+  {
+   "entity": "Round Table",
+   "type": "Concept"
+  }
+ ],
+ "sources": [
+  "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+ ],
+ "cyphertext": "TjEHBQ8pDk2j0_0ZkiRW72_TZUn0M8WdRtTWrgKl4y8XDTshTUdfRqPkVpXbdjO4ero8B2onNrEBHz0Nmoa1pl_MZPOE4t88xArDO_S22GkhIjg789S9Jj0ESGxc6hIsR2UOzkksjD_tH8oCngiAEO0YHcMwoyvpzOimsVtcgx96dw==",
+ "salt": "ZlRBFNTfkLbMbNC2vTLYlA==",
+ "text": "Lionel is a minor knight of the Round Table. The source marks him as the cousin of the remarkable Lancelot. Of Lionel himself little separate story survives. He stands as one of the many lesser figures the court keeps beside its great champion. The record places him in the Arthurian company rather than at the center of any tale.",
+ "okr": {
+  "objective": "Place Lionel correctly in the list of Arthurian knights.",
+  "key_results": [
+   "Call Lionel a minor knight of the Round Table.",
+   "Name Lancelot as his cousin.",
+   "Mark the small amount of separate story that survives."
+  ],
+  "evidence": "Monaghan 2008, s.v. Lionel."
+ }
 }
