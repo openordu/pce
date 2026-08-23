@@ -1,41 +1,43 @@
 {
-    "name": "Silvanus",
-    "attributes": [
-        {
-            "entity": "Silvanus",
-            "attribute": "Roman god"
-        },
-        {
-            "entity": "Celtic woodland gods",
-            "attribute": "indigenous"
-        },
-        {
-            "entity": "most of whose names",
-            "attribute": "lost"
-        },
-        {
-            "entity": "Interpretatio Romana",
-            "attribute": "result"
-        }
-    ],
-    "entities": [
-        {
-            "entity": "Silvanus",
-            "type": "Roman god"
-        },
-        {
-            "entity": "Roman",
-            "type": "culture"
-        },
-        {
-            "entity": "Celtic",
-            "type": "culture"
-        }
-    ],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "cyphertext": "_M_mb8JgYgY_FL84S2BftRF8xypQkDNwNT0fnrxf9ks-9aiWXYZ8WWUCC-CW30O1inMo1ETFhYCsAa36wDs4z-D_6b2gtEoGQnq1C_E64YWzW4v8e30QoMgD4i8tBpcfnLq-tCbTxqCYT_qvwKvX5Th-9fb1we6PThYRh0w7x7gwwYGBZgj4XaWqBV-vJF3Qmofet7fOGi5sM_NO_pkTIrt8drjl5plI62OGJvYLIWvrW_M4XrNzhs85O9umZ-EgRfSOrs9q",
-    "salt": "b-k56aXXDnzoFW7mTcu3Kg==",
-    "text": "Roman deity Silvanus was identified with indigenous Celtic gods of the forest, whose original names have been lost due to Interpretatio Romana."
+  "name": "Silvanus",
+  "attributes": [
+    {
+      "entity": "Silvanus",
+      "attribute": "Roman name for Celtic woodland gods"
+    },
+    {
+      "entity": "interpretatio romana",
+      "attribute": "habit of recasting local gods as Roman ones"
+    },
+    {
+      "entity": "Sucellus",
+      "attribute": "Celtic god linked with Silvanus by Koch"
+    }
+  ],
+  "entities": [
+    {
+      "entity": "Silvanus",
+      "type": "God"
+    },
+    {
+      "entity": "interpretatio romana",
+      "type": "Concept"
+    },
+    {
+      "entity": "Sucellus",
+      "type": "God"
+    }
+  ],
+  "sources": [
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+  ],
+  "cyphertext": "_M_mb8JgYgY_FL84S2BftRF8xypQkDNwNT0fnrxf9ks-9aiWXYZ8WWUCC-CW30O1inMo1ETFhYCsAa36wDs4z-D_6b2gtEoGQnq1C_E64YWzW4v8e30QoMgD4i8tBpcfnLq-tCbTxqCYT_qvwKvX5Th-9fb1we6PThYRh0w7x7gwwYGBZgj4XaWqBV-vJF3Qmofet7fOGi5sM_NO_pkTIrt8drjl5plI62OGJvYLIWvrW_M4XrNzhs85O9umZ-EgRfSOrs9q",
+  "salt": "b-k56aXXDnzoFW7mTcu3Kg==",
+  "text": "Silvanus is a Roman god. The Romans gave this name to native Celtic woodland gods. Most of the native names have vanished. They fell to the interpretatio romana, the habit of recasting local gods as Roman ones. The Celtic wood god faded under the Roman title. Koch links him with Sucellus, another Celtic god. The bond shows that a native god kept power under a Roman name. No single native name survives to pair with him. The link is not proven at every site. It remains one clear case of the habit at work across the Celtic lands.",
+  "objective": "Replace the machine text for Silvanus with a fresh CSG-SME1000 rewrite from Monaghan.",
+  "key_results": [
+    "The text holds a fresh CSG-SME1000 rewrite, not a copy of the machine text",
+    "entities and attributes corrected and enriched for the kgraph"
+  ],
+  "evidence": "Monaghan 2003 (Silvanus); Koch 2006 (woodland god, Sucellus link)."
 }
