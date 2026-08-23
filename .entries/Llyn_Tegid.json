@@ -1,18 +1,44 @@
 {
-    "name": "Llyn Tegid",
-    "attributes": {},
-    "entities": [
-        {
-            "text": "Llyn Tegid"
-        }
-    ],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "image": [
-        "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Bala_Lake.jpg/1200px-Bala_Lake.jpg"
-    ],
-    "cyphertext": "54LPTJqLDIzvh8aQ6YCNJbuXjn1FokHH_LsabucYSj8UZ8hd_DrJNVoik_QtGBV4ixw=",
-    "salt": "eNn9szp3orNeaO8oTZ5iCw==",
-    "text": "Llyn Tegid See Tegid."
+ "name": "Llyn Tegid",
+ "attributes": [
+  {
+   "entity": "Llyn Tegid",
+   "attribute": "the lake Bala in north Wales"
+  },
+  {
+   "entity": "Ceridwen",
+   "attribute": "lived on an isle in the lake"
+  }
+ ],
+ "entities": [
+  {
+   "entity": "Llyn Tegid",
+   "type": "Place"
+  },
+  {
+   "entity": "Ceridwen",
+   "type": "Deity"
+  },
+  {
+   "entity": "Tegid",
+   "type": "Person"
+  }
+ ],
+ "sources": [
+  "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+ ],
+ "image": [
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Bala_Lake.jpg/1200px-Bala_Lake.jpg"
+ ],
+ "cyphertext": "54LPTJqLDIzvh8aQ6YCNJbuXjn1FokHH_LsabucYSj8UZ8hd_DrJNVoik_QtGBV4ixw=",
+ "salt": "eNn9szp3orNeaO8oTZ5iCw==",
+ "text": "Llyn Tegid is a cross reference to the fuller note on TEGID. The words name the lake Bala in north Wales. The record says a fearsome goddess, CERIDWEN, lived with her mate TEGID VOEL on an isle in the middle of the lake. The reader is sent to the main Tegid entry for the full tale.",
+ "okr": {
+  "objective": "Keep the cross note Llyn Tegid to the Tegid account.",
+  "key_results": [
+   "Name the lake and its isle.",
+   "Point to the fuller Tegid record."
+  ],
+  "evidence": "Monaghan 2008, s.v. 'Llyn Tegid'."
+ }
 }
