@@ -1,14 +1,35 @@
 {
-    "name": "herbs",
-    "attributes": {},
-    "entities": [],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "image": [
-        "https://upload.wikimedia.org/wikipedia/commons/2/27/Garden_of_herbs.jpg"
-    ],
-    "cyphertext": "SmhXp9EIr0JhptPb970GGKr-5m3wXyIb-xdhs9eDNYgNoUo2jEJi5a5aXAkC_-E=",
-    "salt": "0pXik75ZKHgxVxt29IO9WA==",
-    "text": "herbs See Healing."
+  "name": "herbs",
+  "attributes": [
+    {
+      "entity": "herbs",
+      "attribute": "cross-reference to healing"
+    }
+  ],
+  "entities": [
+    {
+      "entity": "herbs",
+      "type": "Concept"
+    },
+    {
+      "entity": "Healing",
+      "type": "Concept"
+    }
+  ],
+  "sources": [
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+  ],
+  "image": [
+    "https://upload.wikimedia.org/wikipedia/commons/2/27/Garden_of_herbs.jpg"
+  ],
+  "cyphertext": "SmhXp9EIr0JhptPb970GGKr-5m3wXyIb-xdhs9eDNYgNoUo2jEJi5a5aXAkC_-E=",
+  "salt": "0pXik75ZKHgxVxt29IO9WA==",
+  "text": "Herbs connect to healing across Celtic tradition. See HEALING.",
+  "objective": "Direct readers to the Healing entry.",
+  "key_results": [
+    "Provide the cross reference to Healing."
+  ],
+  "evidence": [
+    "Monaghan, P. The Encyclopedia of Celtic Mythology and Folklore (2008): herbs entry."
+  ]
 }

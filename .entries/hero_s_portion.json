@@ -1,11 +1,32 @@
 {
-    "name": "hero\u2019s portion",
-    "attributes": {},
-    "entities": [],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "cyphertext": "xOX_XjtiCaIYgy2_9a0mH6g4eAfu_JRbqJAa3KDu1SkQ7OHbp5F7G4a4hPXxCYn_-LmJhdzASD2FV174DSuaM_VJG8gTM5o=",
-    "salt": "OFuUdqeZSSZzogEbeXwuQg==",
-    "text": "hero\u2019s portion See Champion\u2019S Portion."
+  "name": "hero’s portion",
+  "attributes": [
+    {
+      "entity": "hero's portion",
+      "attribute": "cross-reference to the Champion's Portion"
+    }
+  ],
+  "entities": [
+    {
+      "entity": "hero's portion",
+      "type": "Concept"
+    },
+    {
+      "entity": "Champion's Portion",
+      "type": "Concept"
+    }
+  ],
+  "sources": [
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+  ],
+  "cyphertext": "xOX_XjtiCaIYgy2_9a0mH6g4eAfu_JRbqJAa3KDu1SkQ7OHbp5F7G4a4hPXxCYn_-LmJhdzASD2FV174DSuaM_VJG8gTM5o=",
+  "salt": "OFuUdqeZSSZzogEbeXwuQg==",
+  "text": "Hero's portion is a cross-reference in the encyclopedia. It points to the custom of the Champion's Portion. See CHAMPION'S PORTION.",
+  "objective": "Direct readers to the Champion's Portion entry.",
+  "key_results": [
+    "Provide the cross reference to the Champion's Portion."
+  ],
+  "evidence": [
+    "Monaghan, P. The Encyclopedia of Celtic Mythology and Folklore (2008): hero's portion entry."
+  ]
 }
