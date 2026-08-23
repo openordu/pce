@@ -1,14 +1,122 @@
 {
-    "name": "holy wells",
-    "attributes": {},
-    "entities": [],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "image": [
-        "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Holy_Well%2C_Coole_Upper_Two_Churches%2C_North_Cork.JPG/1200px-Holy_Well%2C_Coole_Upper_Two_Churches%2C_North_Cork.JPG"
-    ],
-    "cyphertext": "GrNtggNCGQeV02eOfD8HUMV4QraWoYQoEwm6ygL3VM6yK9nq9Foa7HDBhJH5Y81q8w==",
-    "salt": "zj1DHJF9JffzfljfqU5oOQ==",
-    "text": "holy wells See Well."
+  "name": "holy wells",
+  "attributes": [
+    {
+      "entity": "holy well",
+      "attribute": "a pagan mythological site, later dedicated to a saint"
+    },
+    {
+      "entity": "holy well",
+      "attribute": "a place of royal inauguration and healing rites"
+    },
+    {
+      "entity": "holy well",
+      "attribute": "water was at its most potent on the Celtic festivals"
+    },
+    {
+      "entity": "clootie",
+      "attribute": "a ribbon tied on a tree near a holy well as an offering"
+    },
+    {
+      "entity": "Bóand",
+      "attribute": "a goddess drowned when the well chased her, forming the River Boyne"
+    },
+    {
+      "entity": "Sinann",
+      "attribute": "a goddess drowned when the well chased her, forming the River Shannon"
+    }
+  ],
+  "entities": [
+    {
+      "entity": "holy well",
+      "type": "Place"
+    },
+    {
+      "entity": "tobar",
+      "type": "Concept"
+    },
+    {
+      "entity": "Ireland",
+      "type": "Place"
+    },
+    {
+      "entity": "Scotland",
+      "type": "Place"
+    },
+    {
+      "entity": "Otherworld",
+      "type": "Place"
+    },
+    {
+      "entity": "Sovereignty",
+      "type": "Concept"
+    },
+    {
+      "entity": "Imbolc",
+      "type": "Event"
+    },
+    {
+      "entity": "Beltane",
+      "type": "Event"
+    },
+    {
+      "entity": "Lughnasa",
+      "type": "Event"
+    },
+    {
+      "entity": "Samhain",
+      "type": "Event"
+    },
+    {
+      "entity": "Brigit",
+      "type": "Person"
+    },
+    {
+      "entity": "clootie",
+      "type": "Artifact"
+    },
+    {
+      "entity": "Lady of the Fountain",
+      "type": "Person"
+    },
+    {
+      "entity": "Cailleach",
+      "type": "Person"
+    },
+    {
+      "entity": "Bóand",
+      "type": "Person"
+    },
+    {
+      "entity": "Sinann",
+      "type": "Person"
+    },
+    {
+      "entity": "Boyne",
+      "type": "Place"
+    },
+    {
+      "entity": "Shannon",
+      "type": "Place"
+    }
+  ],
+  "sources": [
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+  ],
+  "image": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Holy_Well%2C_Coole_Upper_Two_Churches%2C_North_Cork.JPG/1200px-Holy_Well%2C_Coole_Upper_Two_Churches%2C_North_Cork.JPG"
+  ],
+  "cyphertext": "GrNtggNCGQeV02eOfD8HUMV4QraWoYQoEwm6ygL3VM6yK9nq9Foa7HDBhJH5Y81q8w==",
+  "salt": "zj1DHJF9JffzfljfqU5oOQ==",
+  "text": "A holy well is a mythological site. Communities call one a tobar or tubber in Irish. Hundreds of holy wells remain in active use in Ireland, Scotland, and Wales. About 3,000 holy wells have been recorded in Ireland alone. Most are dedicated to a saint. They were originally pagan sites, active in Celtic times. Fresh water was both a daily need and a symbol of the Otherworld. So people held wells in special regard. Regional kings drank the water at a well when they took their thrones, as a pledge to the Sovereignty goddess. People used wells for healing rites, then and now. Many held the water most potent on the Celtic holidays Imbolc, Beltane, Lughnasa, and Samhain. Later these wells became honored as Christian sites. They took saints' names, often ones that Celtic divinity such as Brigit. Ritual at a holy well still runs today. It is a walk around the water. It includes the tying of ribbons called clooties and the leaving of stones, coins, or other offerings by the water. People thought a well could move if offended. To drop litter or garbage into a well was strong taboo. Tales tell of wells moving away at night, lit by fairy lights, to find a new home. Wells appear in many myths under a woman guard. The guard may be young and fair, as in the Lady of the Fountain, or old, as in the Cailleach. The goddesses Boann and Sinann ignored the warning, went to a forbidden well, and drowned when the well chased them. Their fall formed the rivers Boyne and Shannon.",
+  "objective": "Document the holy well as a Celtic mythological site and its living ritual.",
+  "key_results": [
+    "Record the tobar or tubber name and the great number of holy wells in Ireland.",
+    "Describe the original pagan use and the later Christian dedication of wells.",
+    "Note the types of offering and the myths of the well and its woman guard."
+  ],
+  "evidence": [
+    "Monaghan, P. The Encyclopedia of Celtic Mythology and Folklore (2008): well entry.",
+    "Bord, J. and C. Bord. Sacred Waters: Holy Wells and Water Lore in Britain and Ireland. London: Granada, 1985."
+  ]
 }
