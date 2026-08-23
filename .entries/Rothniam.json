@@ -1,11 +1,38 @@
 {
-    "name": "Rothniam",
-    "attributes": {},
-    "entities": [],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+  "name": "Rothniam",
+  "attributes": [
+    {
+      "entity": "Rothniam",
+      "attribute": "is a cross-reference"
+    },
+    {
+      "entity": "Rothniam",
+      "attribute": "points to the Fisher King"
+    }
+  ],
+  "entities": [
+    {
+      "entity": "Rothniam",
+      "type": "concept"
+    },
+    {
+      "entity": "Fisher King",
+      "type": "character"
+    }
+  ],
+  "sources": [
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+  ],
+  "cyphertext": "AfqVHtLRAdv6BvfqopPjEIVTUrNG5KjPiP1lxv1tB5dt4AaJ8ZH1bqEIBpBASKJflnsgspNL",
+  "salt": "m5CpB9mvdV_V-t74bTJfnw==",
+  "text": "Rothniam is a cross-reference entry in the encyclopedia. It tells the reader to look at the Fisher King.",
+  "okr": {
+    "objective": "Record that Rothniam is a cross-reference to the Fisher King.",
+    "key_results": [
+      "Rothniam is a cross-reference entry.",
+      "It sends the reader to the Fisher King.",
+      "The entry itself carries no article body."
     ],
-    "cyphertext": "AfqVHtLRAdv6BvfqopPjEIVTUrNG5KjPiP1lxv1tB5dt4AaJ8ZH1bqEIBpBASKJflnsgspNL",
-    "salt": "m5CpB9mvdV_V-t74bTJfnw==",
-    "text": "Rothniam See Fisher King."
+    "evidence": "Monaghan, Encyclopedia of Celtic Mythology and Folklore"
+  }
 }

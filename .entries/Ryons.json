@@ -3,45 +3,29 @@
     "attributes": [
         {
             "entity": "Ryons",
-            "attribute": "cloak trimmed with beards of warriors he had killed"
+            "attribute": "king of Wales whose cloak held the beards of his slain foes"
         },
         {
-            "entity": "king of Wales",
-            "attribute": "location of Ryons"
-        },
-        {
-            "entity": "king Arthur",
-            "attribute": "refused to give his beard to Ryons"
-        },
-        {
-            "entity": "Ryons\u2019s land",
-            "attribute": "conquered by king Arthur"
+            "entity": "Arthur",
+            "attribute": "refused to yield his beard and took the land of Ryons"
         }
     ],
     "entities": [
         {
             "entity": "Ryons",
-            "type": "Arthurian hero"
+            "type": "hero"
         },
         {
-            "entity": "king of Wales",
-            "type": "location"
-        },
-        {
-            "entity": "warriors",
-            "type": "group of people"
-        },
-        {
-            "entity": "king Arthur",
-            "type": "Arthurian hero"
+            "entity": "Arthur",
+            "type": "hero"
         },
         {
             "entity": "Camelot",
-            "type": "location"
+            "type": "place"
         },
         {
-            "entity": "Ryons\u2019s land",
-            "type": "location"
+            "entity": "Wales",
+            "type": "place"
         }
     ],
     "sources": [
@@ -52,5 +36,14 @@
     ],
     "cyphertext": "1VFU-lRBwJtmpaSip5aT-qylYVRUm4bru7TCNciEDEZz4ded5AxESTdDY7w7jzzcl1au_NAJrznwpdfbqGqt9c0Uegy0GyX8zH-6OVQYFJ3hGBtdDJct3WzbX08MjNJEknJoDGp8W51EvuYz4CrKGpIrmc_dkLJhmJkgPaGWrKjogqIhCxN2vD_8iISOkowQzFnjVimyRFDluAECriTvjdTTizD75Z0JzVCh0ygqdnwuXkHxV9btW2zhF9Ib_7thrSlrgbzSNMCJGp2oeArEQu8br4NimaakDWEuLmt7O1gqcPWu7UPdJoWiIdTXb16qgmhzt0t82Ujf6v0P0w8HrUC5f1BXzKPmrf3nc_0TG4g=",
     "salt": "6mw3ixkzNynQYUS5QrsN0g==",
-    "text": "Arthurian hero Ryons, also known as Riance, had a cloak adorned with the beards of warriors he had slain rather than fur. Upon requesting King Arthur's beard, the king of Camelot declined and chose to capture Ryons's territory instead."
+    "text": "Ryons, also known as Riance, is an Arthurian hero. He ruled as king of Wales. His cloak bore a trim of beards shaved from men he slew rather than with fur. When he demanded the beard of King Arthur, the ruler of Camelot refused and instead overcame the land of Ryons.",
+    "okr": {
+        "objective": "Present Ryons as an Arthurian king of Wales who prized the beards of his enemies.",
+        "key_results": [
+            "Ryons ruled Wales as its king.",
+            "His cloak carried the beards of warriors he killed.",
+            "King Arthur refused his demand and conquered his land."
+        ],
+        "evidence": "Monaghan, Encyclopedia of Celtic Mythology and Folklore"
+    }
 }

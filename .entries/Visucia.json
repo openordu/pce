@@ -2,42 +2,26 @@
     "name": "Visucia",
     "attributes": [
         {
-            "attribute": "obscure",
-            "value": true
+            "entity": "Visucia",
+            "attribute": "known from several inscriptions in southwestern France"
         },
         {
-            "attribute": "known from several inscriptions",
-            "value": true
-        },
-        {
-            "attribute": "seen with a consort",
-            "value": true
-        },
-        {
-            "attribute": "male form of her own",
-            "value": true
-        },
-        {
-            "attribute": "unclear character",
-            "value": true
-        },
-        {
-            "attribute": "unclear powers",
-            "value": true
+            "entity": "Viscucius",
+            "attribute": "male-named consort of Visucia"
         }
     ],
     "entities": [
         {
             "entity": "Visucia",
-            "type": "Continental Celtic goddess"
+            "type": "god"
         },
         {
             "entity": "Viscucius",
-            "type": "Consort"
+            "type": "god"
         },
         {
             "entity": "southwestern France",
-            "type": "Location"
+            "type": "place"
         }
     ],
     "sources": [
@@ -48,5 +32,14 @@
     ],
     "cyphertext": "VDCsjUZ_u45WwokopTyemgl8VAkEB3wdVbtHiGVykxyDKuSRLNLNM1wCQKsf6mJoojZ1-j07fwLHzNNDvg6TbetOnJ8UUBam3KsnqGEJmwQRLlkSy4WMvOlgRB7Y9p5w9pYRnqnKWWDnm26L36Rz19ZfXm0UHGPlym2gAXvoTBBjifnRemm2bOZ8KUmSS2xZhE8-e3W_4X9Xx90n0BU17eVXPeLnizD71_3tNY_9HnqLnij432GKSvcmkRkArlXCUt4PUPX1JRbpJlkczcHeyX74Fagyf9diJ-30dxuvc8H46gYHZlIE3eMImQt2_qLDZupv7etd2HTqD-7yMfTA70uIv3w9fenAdM-5Q8dXXepO7QkhPDNYfODk",
     "salt": "vtyzNutUrAlv5GjK99zgKQ==",
-    "text": "A goddess worshipped in the Continental Celtic realm is Visucia. Her name has been discovered on multiple inscriptions in the southern region of France. She is occasionally depicted alongside a partner, Viscucius, whose name corresponds to the male version of hers. Her abilities and nature remain unidentified."
+    "text": "Visucia is a Continental Celtic goddess. Her name appears on several inscriptions found in southwestern France. She sometimes stands beside a partner named Viscucius, a name shaped as the masculine version of her own. Her character and her powers remain unclear.",
+    "okr": {
+        "objective": "Present Visucia as a Continental Celtic goddess whose powers stay unknown.",
+        "key_results": [
+            "Visucia appears on several inscriptions in southwestern France.",
+            "Her consort Viscucius carries the male form of her name.",
+            "Her character and powers remain unclear."
+        ],
+        "evidence": "Monaghan, Encyclopedia of Celtic Mythology and Folklore"
+    }
 }

@@ -3,33 +3,25 @@
     "attributes": [
         {
             "entity": "Vosegus",
-            "attribute": "wildwood god"
+            "attribute": "wildwood god honored in the Vosges range"
         },
         {
             "entity": "Vosges mountains",
-            "attribute": "named after Vosegus"
+            "attribute": "range that bears Vosegus's name"
         }
     ],
     "entities": [
         {
             "entity": "Vosegus",
-            "type": "Continental Celtic god"
-        },
-        {
-            "entity": "Roman-era inscriptions",
-            "type": "historical artifacts"
-        },
-        {
-            "entity": "sculptures",
-            "type": "artifacts"
+            "type": "god"
         },
         {
             "entity": "Vosges mountains",
-            "type": "geographic location"
+            "type": "place"
         },
         {
             "entity": "eastern France",
-            "type": "geographic location"
+            "type": "place"
         }
     ],
     "sources": [
@@ -40,5 +32,14 @@
     ],
     "cyphertext": "UdJo2zL2UNPpiJwCXuIswQJFPeohK-LZTv9XAnMrbIyLskXcdIyRA4qGj-voV-eXVcaeh-71t4W3o57cWuLCz5phPR55iZXkErik4JS2OBoJetj_ymiY5WI-q0TwbXzGBBU6UhkE7hkR7oYcSm1AkiDNRfK1cAmX3h_93ykHZ7V1_pAB3Y7ZqENX9q66nG-iWzB49fEZ6Xprulj_-gJ7K-BuYwZrANhXLO4FQmw7ZQWkm7qX3S6uAUOwWBVqQQIk2glF4A_gyszgSmiCBUSD-dKhOzMTtxjMQ4DNanc27nA1X-Gq9QaSJR4BdQdKqWDIjDIFujxqEtOTYL_PZBkZVxoFe6I7_nCqYRhaCVnqOWa02aJ2PN3C1hR-YTO6_i-IpEENuOP1UFlilA==",
     "salt": "rEmSYJhroHWy_Nr_Yd1XxQ==",
-    "text": "A deity worshipped by the Continental Celts was Vosegus. During the Roman era, his existence was only documented through inscriptions and sculptures, similar to many other gods from his region. Vosegus was revered as the god of the wildwoods in the Vosges mountains located in eastern France, which are still named after him."
+    "text": "Vosegus is a Continental Celtic god. He is known only through Roman-era inscriptions and sculptures. Believers read him as the forest spirit of the Vosges heights in eastern France, a range that still carries his name.",
+    "okr": {
+        "objective": "Present Vosegus as a Continental Celtic wildwood god of the Vosges range.",
+        "key_results": [
+            "He is known only from Roman-era inscriptions and sculptures.",
+            "He was regarded as the wildwood god of the Vosges mountains.",
+            "The Vosges mountains still bear his name."
+        ],
+        "evidence": "Monaghan, Encyclopedia of Celtic Mythology and Folklore"
+    }
 }

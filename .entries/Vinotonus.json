@@ -2,53 +2,33 @@
     "name": "Vinotonus",
     "attributes": [
         {
-            "entity": "associations",
-            "attribute": "linked"
+            "entity": "Vinotonus",
+            "attribute": "name may include the syllable for wine"
         },
         {
-            "entity": "tendency",
-            "attribute": "toward wild behavior"
+            "entity": "Vinotonus",
+            "attribute": "shrine on the Yorkshire moors as a god of wild nature"
         },
         {
-            "entity": "wine-drinkers",
-            "attribute": "behavior"
-        },
-        {
-            "entity": "connection",
-            "attribute": "with wine"
-        },
-        {
-            "entity": "false etymology",
-            "attribute": null
+            "entity": "Vinotonus",
+            "attribute": "compared by Roman soldiers to Silvanus"
         }
     ],
     "entities": [
         {
-            "entity": "associations",
-            "type": "concept"
+            "entity": "Vinotonus",
+            "type": "god"
         },
         {
-            "entity": "tendency",
-            "type": "trait"
+            "entity": "Silvanus",
+            "type": "god"
         },
         {
-            "entity": "wild behavior",
-            "type": "trait"
-        },
-        {
-            "entity": "wine-drinkers",
-            "type": "group"
-        },
-        {
-            "entity": "connection",
-            "type": "concept"
+            "entity": "Yorkshire moors",
+            "type": "place"
         },
         {
             "entity": "wine",
-            "type": "drink"
-        },
-        {
-            "entity": "false etymology",
             "type": "concept"
         }
     ],
@@ -57,5 +37,14 @@
     ],
     "cyphertext": "POt-KXSIqt18Fsa1Lw0G2_FEvgxjQFJNEp41aaXDpcY7fQCna5wuhgHRp5ZigAsvOaZ75gESmu2SW6VX96u0h8A0PRVlLf3Zw3mdhSTFzsyyi3e4EI9lzP4G6AR8qbbyUKKqmJv5pJGxFjyTVu-OsjM9Pmm90dPNIR_7YNYEeZSM3us4lHSzUvN0NxgtsSc2nVjwWjKkeRiS4aWyYNJLCSKSRFTjTjP8",
     "salt": "2W_akH29VTbbcIjNkmX6lA==",
-    "text": "Scholars have posited that there could be a correlation between the inclination towards unruly conduct among wine enthusiasts and the affiliation with wine. Alternatively, this supposed link with wine could be a misinterpretation of its etymology."
+    "text": "Vinotonus is a British god. His name may point to wine, since it holds the syllable vin. A shrine to him stands on the Yorkshire moors. There he stands as a deity of unchained wildness, and Roman soldiers read him as their wood god Silvanus. The twin ties may rest on the wild conduct of those who drink wine, or the wine link may be a mistaken reading of his name.",
+    "okr": {
+        "objective": "Present Vinotonus as a British god of wild nature honored on the Yorkshire moors.",
+        "key_results": [
+            "A shrine to Vinotonus sits on the Yorkshire moors.",
+            "Roman soldiers linked him with the god Silvanus.",
+            "His name may derive from the word for wine."
+        ],
+        "evidence": "Monaghan, Encyclopedia of Celtic Mythology and Folklore"
+    }
 }

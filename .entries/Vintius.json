@@ -3,33 +3,25 @@
     "attributes": [
         {
             "entity": "Vintius",
-            "attribute": "obscure god"
+            "attribute": "matched by Romans with the twin god Pollux"
         },
         {
             "entity": "Vintius",
-            "attribute": "connection with wind"
-        },
-        {
-            "entity": "Celtic sailors",
-            "attribute": "honored Vintius"
+            "attribute": "name that points to the wind and honor from sailors"
         }
     ],
     "entities": [
         {
             "entity": "Vintius",
-            "type": "Continental Celtic god"
+            "type": "god"
         },
         {
-            "entity": "Romans",
-            "type": "people"
-        },
-        {
-            "entity": "Twin god Pollux",
-            "type": "Roman god"
+            "entity": "Pollux",
+            "type": "god"
         },
         {
             "entity": "Celtic sailors",
-            "type": "people"
+            "type": "group"
         }
     ],
     "sources": [
@@ -37,5 +29,14 @@
     ],
     "cyphertext": "J8R7ZGAGM8VIDoEVeqHgqk1eVUYk7OqQlHNaj4uyXcWGdkoELXkyOWNctTTaj7TYGRNpi50ovki9dDFajKMSfNxslojRnMN5hauSkb1uh7vmA8LB8FLZxM1vocp5_OSAF2dBk05FQJxzFxp7nehk_zjaCfDxnSwv2CC3zdwLb29LbUCYrY8LGP4etVrHgmmEBU47IPNNiaKbLHLcshgHT8E06uvuyuafs3YxAKc0XrOKznBfuxp6Z7NOr_ggVRnL_mbyqtwOVfmBe1mDeo-DZg4swAvCZBRRAn9Idqevc3XX2By8knKYTA686Phl3VUURHdiVrQXkQ3C2iHAsIP54Rx2-WZySOWSYoIiuTc-iWoBpefupD1VVhnDPh98jf0V6F5BQ6g7oXCFvr04LI8yUsCg26ea8QpgEm0KSko9_PnQvwolZcOiePfx-bi4",
     "salt": "NvzG0kvLGdrCWC6WYelfoQ==",
-    "text": "Vintius is a little-known god in the Continental Celtic religion. The Romans matched him with their Twin god Pollux, which didn't reveal much about the god's significance. Vintius' name implies a relation to the wind, which is reinforced by the fact that he was worshipped by Celtic navigators."
+    "text": "Vintius is a Continental Celtic god. The Romans equated him with their twin god Pollux, a rare pairing that explains little about him. His name seems to signal the wind, and Celtic sailors gave him honor.",
+    "okr": {
+        "objective": "Present Vintius as a Continental Celtic god linked to the wind.",
+        "key_results": [
+            "The Romans equated Vintius with Pollux.",
+            "His name appears to refer to wind.",
+            "Celtic sailors honored Vintius."
+        ],
+        "evidence": "Monaghan, Encyclopedia of Celtic Mythology and Folklore"
+    }
 }
