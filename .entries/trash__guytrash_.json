@@ -1,49 +1,46 @@
 {
-    "name": "trash (guytrash)",
-    "attributes": [
-        {
-            "entity": "trash",
-            "attribute": "British folkloric figure"
-        },
-        {
-            "entity": "Skriker",
-            "attribute": "form of the trash"
-        },
-        {
-            "entity": "evil being",
-            "attribute": "appeared just before death"
-        },
-        {
-            "entity": "shaggy Dog",
-            "attribute": "form of trash"
-        },
-        {
-            "entity": "Cow",
-            "attribute": "form of guytrash"
-        }
+  "name": "trash (guytrash)",
+  "attributes": [
+    {
+      "entity": "trash",
+      "attribute": "a British folkloric form of the Skriker"
+    },
+    {
+      "entity": "trash",
+      "attribute": "appears before death as a shaggy dog"
+    },
+    {
+      "entity": "guytrash",
+      "attribute": "appears before death as a cow"
+    }
+  ],
+  "entities": [
+    {
+      "entity": "trash",
+      "type": "Being"
+    },
+    {
+      "entity": "guytrash",
+      "type": "Being"
+    },
+    {
+      "entity": "Skriker",
+      "type": "Being"
+    }
+  ],
+  "sources": [
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+  ],
+  "cyphertext": "MwBpV1wjCUKZAYdeuVGOyfTA69QR3VhQzsCq0IXG5aTHbzi44d-2mnFcPh7E7M-L5hAEs_fUk8180fJUyQ-5qtSfC2_kFht-r7Wd2PoIRnK39bu-zPGgD5vNiEVTtWYlmqev1rFSVY7W4iByqUu-Vt7r3fvH38i1FJG2yrTCm2XG7dW9agQecZ_z9HtliBAwu7L8JFqtqTXJpHzy8FvrkQzreRvXE9DOfjp-xBtVCBPD-rW9KnE=",
+  "salt": "W2oerjmOHN43dLdnlxRlLA==",
+  "text": "The trash is a British folkloric figure. It is a form of the Skriker. This evil being appears just before death. It takes the shape of a shaggy dog, which is called the trash, or of a cow, which is called the guytrash.",
+  "okr": {
+    "objective": "Record the British folk figure the trash.",
+    "key_results": [
+      "The trash is a form of the Skriker",
+      "It appears just before death",
+      "As the trash it is a shaggy dog, as the guytrash a cow"
     ],
-    "entities": [
-        {
-            "entity": "trash",
-            "type": "British folkloric figure"
-        },
-        {
-            "entity": "Skriker",
-            "type": "evil being"
-        },
-        {
-            "entity": "Dog",
-            "type": "shaggy"
-        },
-        {
-            "entity": "Cow",
-            "type": "guytrash"
-        }
-    ],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "cyphertext": "MwBpV1wjCUKZAYdeuVGOyfTA69QR3VhQzsCq0IXG5aTHbzi44d-2mnFcPh7E7M-L5hAEs_fUk8180fJUyQ-5qtSfC2_kFht-r7Wd2PoIRnK39bu-zPGgD5vNiEVTtWYlmqev1rFSVY7W4iByqUu-Vt7r3fvH38i1FJG2yrTCm2XG7dW9agQecZ_z9HtliBAwu7L8JFqtqTXJpHzy8FvrkQzreRvXE9DOfjp-xBtVCBPD-rW9KnE=",
-    "salt": "W2oerjmOHN43dLdnlxRlLA==",
-    "text": "A British folkloric figure known as the trash or guytrash was believed to be an evil being that manifested as a shaggy dog or a cow, similar to the Skriker, and was said to appear just before death."
+    "evidence": "Monaghan 2008, s.v. 'trash (guytrash)'."
+  }
 }

@@ -1,11 +1,38 @@
 {
-    "name": "triplicity",
-    "attributes": {},
-    "entities": [],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+  "name": "triplicity",
+  "attributes": [
+    {
+      "entity": "triplicity",
+      "attribute": "the state of being threefold"
+    },
+    {
+      "entity": "three",
+      "attribute": "held mystic importance by the Celts"
+    }
+  ],
+  "entities": [
+    {
+      "entity": "triplicity",
+      "type": "Concept"
+    },
+    {
+      "entity": "three",
+      "type": "Concept"
+    }
+  ],
+  "sources": [
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+  ],
+  "cyphertext": "-xxzGf7LNqBzqgrAxzheAQ9JykJ_4zmGSnWfVXr2eJUqE2XtvkWC1GCgZkrEb6Op8Gs=",
+  "salt": "8OButTLhWt3EEbWLOl8VtQ==",
+  "text": "Triplicity is the state of being threefold. It is a cross-reference in Celtic myth to the number three, which the Celts held in mystic importance. The concept appears together with tripling in tales, as in the pattern of a triple goddess or a threefold death. To review this idea, see the entry for Three.",
+  "okr": {
+    "objective": "Define triplicity as a cross-reference to the number three.",
+    "key_results": [
+      "Triplicity is the state of being threefold",
+      "The number three held mystic importance to the Celts",
+      "The entry points to the fuller record under Three"
     ],
-    "cyphertext": "-xxzGf7LNqBzqgrAxzheAQ9JykJ_4zmGSnWfVXr2eJUqE2XtvkWC1GCgZkrEb6Op8Gs=",
-    "salt": "8OButTLhWt3EEbWLOl8VtQ==",
-    "text": "triplicity See Three."
+    "evidence": "Monaghan 2008, s.v. 'triplicity' (See Three)."
+  }
 }
