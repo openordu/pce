@@ -1,15 +1,66 @@
 {
-    "name": "hawthorn",
-    "attributes": {},
-    "entities": [
-        {
-            "text": "Thorn"
-        }
-    ],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "cyphertext": "d1YFlSguizwHBFHaKOn3s9ydT5n4zI_BjIQqHCuxgW6_535d-7QnOLVMerwzWSrp",
-    "salt": "zR7ognEjruZXikIob9VhlA==",
-    "text": "hawthorn See Thorn."
+  "name": "hawthorn",
+  "attributes": [
+    {
+      "entity": "hawthorn",
+      "attribute": "powerful magical plant of the Celts, the full thorn bloom"
+    },
+    {
+      "entity": "hawthorn",
+      "attribute": "spreads white blossoms and sharp thorns around Beltane on May 1"
+    },
+    {
+      "entity": "hawthorn",
+      "attribute": "Beltane dew from hawthorn flowers assured lasting beauty"
+    },
+    {
+      "entity": "hawthorn",
+      "attribute": "cutting thorns hazard fairy stroke, the paralysing fairy touch"
+    }
+  ],
+  "entities": [
+    {
+      "entity": "hawthorn",
+      "type": "Plant"
+    },
+    {
+      "entity": "thorn",
+      "type": "Plant"
+    },
+    {
+      "entity": "blackthorn",
+      "type": "Plant"
+    },
+    {
+      "entity": "whitethorn",
+      "type": "Plant"
+    },
+    {
+      "entity": "Beltane",
+      "type": "Holiday"
+    },
+    {
+      "entity": "fairy",
+      "type": "Being"
+    },
+    {
+      "entity": "fairy stroke",
+      "type": "Concept"
+    }
+  ],
+  "sources": [
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+  ],
+  "cyphertext": "d1YFlSguizwHBFHaKOn3s9ydT5n4zI_BjIQqHCuxgW6_535d-7QnOLVMerwzWSrp",
+  "salt": "zR7ognEjruZXikIob9VhlA==",
+  "text": "The hawthorn is one of the most powerful magical plants of the Celtic lands. Monaghan's encyclopedia refers the reader to the thorn. The thorn tree, the blackthorn and the hawthorn species, blooms in spring around the Beltane festival on May 1. Beside its sweet white flowers grow sharp pin-like thorns that can pierce flesh. The tree protected humans against the fairies, so people wrapped it in care. They did not cut the trees on May 11 or November 11, or the tree would take revenge on the woodsman. The whitethorn was a similar shield, but its wood had to stay out of doors, for the fairies sensed it indoors and the haunting would start. Hawthorns bloom in spring; bathing in their dew on Beltane promised the seeker lasting beauty. A thorn cut earned the woodcutter the fairy stroke, a paralysis a fairy touch could bring.",
+  "objective": "Document the hawthorn, the protective and magical thorn plant of Celtic lore.",
+  "key_results": [
+    "Record it as See THORN and its white-blossom description.",
+    "Describe the Beltane bloom, fairy stroke, and the no-cut days.",
+    "Note the hawthorn dew beauty and the whitethorn indoor ban."
+  ],
+  "evidence": [
+    "Monaghan, P. The Encyclopedia of Celtic Mythology and Folklore (2008): hawthorn See THORN; thorn entry."
+  ]
 }

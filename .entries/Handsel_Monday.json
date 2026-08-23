@@ -1,49 +1,58 @@
 {
-    "name": "Handsel Monday",
-    "entities": [
-        {
-            "entity": "Handsel Monday",
-            "type": "Scottish festival"
-        },
-        {
-            "entity": "Hogmany",
-            "type": "New Year\u2019s Day"
-        },
-        {
-            "entity": "Isle of Skye",
-            "type": "location"
-        },
-        {
-            "entity": "12 days",
-            "type": "time period"
-        }
-    ],
-    "attributes": [
-        {
-            "entity": "Handsel Monday",
-            "attribute": "Scottish festival"
-        },
-        {
-            "entity": "first Monday after Hogmany",
-            "attribute": "day for Divination or forecasting futures through games of chance and trial"
-        },
-        {
-            "entity": "Isle of Skye",
-            "attribute": "this day was the first in a sequence of 12 days whose weather predicted that of the following 12 months"
-        },
-        {
-            "entity": "holiday\u2019s name",
-            "attribute": "anglicized from the Scottish sainnseal"
-        },
-        {
-            "entity": "Scottish sainnseal",
-            "attribute": "the gift offered to every visitor on this day"
-        }
-    ],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "cyphertext": "LToS1KkymS9frI1gn4Gz8EBEKu-jbQprJWx2LP1uuAJXZ5EHMYdaXbcvhJ4xAp2yRjynttqPeKr7XHVfystiuIvMCQbkJgLreU_KaCWZRuoUNv1zmZyhgDYHsDDTA0oZ1RAeQyPKzS_C_DYGZgoAVJv6tRpgIGmrXtTahlL-HPW3SmvhLUAIl6jQnLckqTuPpnQkIT5wM1b2JLY9TS0X7ad4I7Y-ohHpQsD7HSuEpWH5ya5OAdRVYLC-Y_EEredsNKUn5mMWlI9jKLCpZs_q7YCrBK9cofKArUhD5CXultRy3R6dtws8Ra-J0pJonA9qE3xbn36EIKhSItvVubJFqXVWkWP-iHmHerbrUhKtlG46DEDLsZIldhNfoHO_fyC9MJ4-eoNsk7fa0bo-99WwOGaFn6gdhWNbDOz2ZJIWEE50eLzYJ_ndBNu44LzbIwRgeQVJ_f2zVyAJ_nv0mi2qTyrbQ1mAoOWkSvqZ8bip0kL2FkZsUTsTueZ4Kv_KJBsIlKccN89V-CdcsfYsvaouAe5t20-Onya45_GtjbSbtHgxbXt3lsElGrwZ8xxVEu7V9N6m0Y_9pr1zgZ2JTeV2-JU7aK-Itwnyuw==",
-    "salt": "gWX_tbypJbc6PA_AuKtTaA==",
-    "text": "Scottish tradition holds a festival called Hansel Monday (Di-luian an t-sainnseil). This event takes place on the first Monday following Hogmany (New Year\u2019s Day) and involves fortune-telling through games of chance and trial. On the Isle of Skye, the weather of this day is believed to predict that of the following 12 months, marking the first of a 12-day sequence. The holiday is derived from the Scottish sainnseal, or gift given to every visitor on this occasion. The name has anglicized over time."
+  "name": "Handsel Monday",
+  "entities": [
+    {
+      "entity": "Handsel Monday",
+      "type": "Holiday"
+    },
+    {
+      "entity": "Di-luain an t-sainnseil",
+      "type": "Name"
+    },
+    {
+      "entity": "Hogmanay",
+      "type": "Holiday"
+    },
+    {
+      "entity": "Isle of Skye",
+      "type": "Place"
+    },
+    {
+      "entity": "Scotland",
+      "type": "Place"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Handsel Monday",
+      "attribute": "Scottish festival on the first Monday after Hogmanay"
+    },
+    {
+      "entity": "Handsel Monday",
+      "attribute": "day of divination through games of chance and trial"
+    },
+    {
+      "entity": "Handsel Monday",
+      "attribute": "on the Isle of Skye began a twelve-day weather soothsay for the year"
+    },
+    {
+      "entity": "Handsel Monday",
+      "attribute": "name from sainseal, the gift to every visitor"
+    }
+  ],
+  "sources": [
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+  ],
+  "cyphertext": "LToS1KkymS9frI1gn4Gz8EBEKu-jbQprJWx2LP1uuAJXZ5EHMYdaXbcvhJ4xAp2yRjynttqPeKr7XHVfystiuIvMCQbkJgLreU_KaCWZRuoUNv1zmZyhgDYHsDDTA0oZ1RAeQyPKzS_C_DYGZgoAVJv6tRpgIGmrXtTahlL-HPW3SmvhLUAIl6jQnLckqTuPpnQkIT5wM1b2JLY9TS0X7ad4I7Y-ohHpQsD7HSuEpWH5ya5OAdRVYLC-Y_EEredsNKUn5mMWlI9jKLCpZs_q7YCrBK9cofKArUhD5CXultRy3R6dtws8Ra-J0pJonA9qE3xbn36EIKhSItvVubJFqXVWkWP-iHmHerbrUhKtlG46DEDLsZIldhNfoHO_fyC9MJ4-eoNsk7fa0bo-99WwOGaFn6gdhWNbDOz2ZJIWEE50eLzYJ_ndBNu44LzbIwRgeQVJ_f2zVyAJ_nv0mi2qTyrbQ1mAoOWkSvqZ8bip0kL2FkZsUTsTueZ4Kv_KJBsIlKccN89V-CdcsfYsvaouAe5t20-Onya45_GtjbSbtHgxbXt3lsElGrwZ8xxVEu7V9N6m0Y_9pr1zgZ2JTeV2-JU7aK-Itwnyuw==",
+  "salt": "gWX_tbypJbc6PA_AuKtTaA==",
+  "text": "Handsel Monday, also called Di-luain an t-sainnseil, is a Scottish festival. It falls on the first Monday after Hogmanay, the Scottish New Year's Day. The day was given to divination, or foretelling through games of chance and trial. On the Isle of Skye this Monday began a sequence of twelve days. The weather of each day was read as soothsaying for the twelve coming months. The holiday's name comes from the Scottish sainnseal. This was the gift offered to every visitor on that day.",
+  "objective": "Document Handsel Monday, the Scottish festival of divination after the New Year.",
+  "key_results": [
+    "Record its date on the first Monday after Hogmanay.",
+    "Describe the day's games of divination and trial.",
+    "Note the Isle of Skye twelve-day weather reading and the sainseal gift."
+  ],
+  "evidence": [
+    "Monaghan, P. The Encyclopedia of Celtic Mythology and Folklore (2008): Handsel Monday entry."
+  ]
 }
