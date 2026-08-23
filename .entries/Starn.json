@@ -1,45 +1,51 @@
 {
-    "name": "Starn",
-    "entities": [
-        {
-            "entity": "Starn Irish",
-            "type": "Hero"
-        },
-        {
-            "entity": "Parthol\u00f3n",
-            "type": "Invader"
-        },
-        {
-            "entity": "Nemed",
-            "type": "Father"
-        },
-        {
-            "entity": "Tuan Mac Cairill",
-            "type": "Poet"
-        }
-    ],
-    "attributes": [
-        {
-            "entity": "Starn Irish",
-            "attribute": "Two obscure figures carry this name"
-        },
-        {
-            "entity": "Parthol\u00f3n",
-            "attribute": "Invader"
-        },
-        {
-            "entity": "Nemed",
-            "attribute": "Father of the poet Tuan Mac Cairill"
-        },
-        {
-            "entity": "Tuan Mac Cairill",
-            "attribute": "Son of Nemed"
-        }
-    ],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "cyphertext": "HCASXs0LT-BAm-uv_djLVKdDkBBznOfHugP6BbitBIMWw-vR05_OtlvvSf6_IH-jxdvBiB9WsQ9JPqfwE8UhmPz3mxf9SQmSk4JdL_s7xyEbmpXfEYrkqv-7gDxqSo5d9dugH6u3vK2twCzA8KckcfaZmXRsSh41WRx7zF4z-U01wCAPQMpsXZ26v8_ISo86TUwbSP5hnS_IcCV8ywKqohaVt_9JvTbjvENMNT0WEmMfy1zWBJ2anAho8yhMlSYujiLYuuFisn8JhDR81pWvaQNtX1e7CTMLbd4DAzfM3VH_WL8=",
-    "salt": "nMGUuEWbOMYKALzN8ADoxA==",
-    "text": "Irish mythology mentions two individuals named Starn who have achieved the status of heroes. However, both figures remain relatively unknown. One of them is identified as the brother of Parthol\u00f3n, while the other is recognized as the father of Tuan Mac Cairill, and son of Nemed. Nonetheless, neither of them play significant roles in the myths."
+  "name": "Starn",
+  "entities": [
+    {
+      "entity": "Starn",
+      "type": "Person"
+    },
+    {
+      "entity": "Partholón",
+      "type": "Person"
+    },
+    {
+      "entity": "Nemed",
+      "type": "Person"
+    },
+    {
+      "entity": "Tuan mac Cairill",
+      "type": "Person"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Starn",
+      "attribute": "the name of two obscure Irish figures"
+    },
+    {
+      "entity": "Partholón",
+      "attribute": "a leader of the early settlement of Ireland"
+    },
+    {
+      "entity": "Nemed",
+      "attribute": "father of one Starn"
+    },
+    {
+      "entity": "Tuan mac Cairill",
+      "attribute": "a poet linked to the line of Nemed"
+    }
+  ],
+  "sources": [
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+  ],
+  "cyphertext": "HCASXs0LT-BAm-uv_djLVKdDkBBznOfHugP6BbitBIMWw-vR05_OtlvvSf6_IH-jxdvBiB9WsQ9JPqfwE8UhmPz3mxf9SQmSk4JdL_s7xyEbmpXfEYrkqv-7gDxqSo5d9dugH6u3vK2twCzA8KckcfaZmXRsSh41WRx7zF4z-U01wCAPQMpsXZ26v8_ISo86TUwbSP5hnS_IcCV8ywKqohaVt_9JvTbjvENMNT0WEmMfy1zWBJ2anAho8yhMlSYujiLYuuFisn8JhDR81pWvaQNtX1e7CTMLbd4DAzfM3VH_WL8=",
+  "salt": "nMGUuEWbOMYKALzN8ADoxA==",
+  "text": "Starn is the name of two obscure Irish heroes. The myth gives them little to do. One Starn is said to be a brother of Partholón, the leader who brought people to Ireland in the early tales. The other Starn is a son of Nemed. In that line he is the father of the poet Tuan mac Cairill. Koch adds a trace of the name. A later old tale makes Partholón the son of a man named Starn. The same tale calls Partholón a Greek. The two Starns sit on the edge of the Irish foundation legends. Their names carry the line of the early peoples even when the stories do not unfold them fully.",
+  "objective": "Replace the machine text for Starn with a fresh CSG-SME1000 rewrite from Monaghan and Koch.",
+  "key_results": [
+    "text holds a fresh CSG-SME1000 rewrite",
+    "entities and attributes corrected and enriched"
+  ],
+  "evidence": "Monaghan 2003 (Starn, Partholon, Nemed, Cain); Koch 2006 (Starn son of t, Partholon Greek)."
 }
