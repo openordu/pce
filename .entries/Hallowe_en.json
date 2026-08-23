@@ -1,21 +1,66 @@
 {
-    "name": "Hallowe\u2019en",
-    "attributes": {},
-    "entities": [
-        {
-            "text": "Hallowmas"
-        },
-        {
-            "text": "Samhain"
-        }
-    ],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "image": [
-        "https://upload.wikimedia.org/wikipedia/commons/a/a2/Jack-o%27-Lantern_2003-10-31.jpg"
-    ],
-    "cyphertext": "JMrN1_SV_2oEdgrU5F2au-TZAByikB0JgJUOCn55qvV_-6e_I-Bcva8iZ8iy31raDuewe957V-iIAarvZBEVPPwf",
-    "salt": "6U-fG6L-kDyniLUd9ECXZA==",
-    "text": "Hallowe\u2019En (Hallowmas) See Samhain."
+  "name": "Hallowe’en",
+  "attributes": [
+    {
+      "entity": "Hallowe'en",
+      "attribute": "modern keep of Samhain, the Celtic festival of winter's beginning on November 1"
+    },
+    {
+      "entity": "Samhain",
+      "attribute": "marked the end and start of the Celtic year, beginning with winter"
+    },
+    {
+      "entity": "Samhain",
+      "attribute": "time when Otherworld folk blighted vegetation and pigs were killed"
+    },
+    {
+      "entity": "Hallowe'en",
+      "attribute": "Christianized into All Saints' Day and spread as Día de los Muertos"
+    }
+  ],
+  "entities": [
+    {
+      "entity": "Hallowe'en",
+      "type": "Holiday"
+    },
+    {
+      "entity": "Hallowmas",
+      "type": "Holiday"
+    },
+    {
+      "entity": "Samhain",
+      "type": "Holiday"
+    },
+    {
+      "entity": "Celts",
+      "type": "Culture"
+    },
+    {
+      "entity": "All Saints' Day",
+      "type": "Holiday"
+    },
+    {
+      "entity": "Día de los Muertos",
+      "type": "Holiday"
+    }
+  ],
+  "sources": [
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+  ],
+  "image": [
+    "https://upload.wikimedia.org/wikipedia/commons/a/a2/Jack-o%27-Lantern_2003-10-31.jpg"
+  ],
+  "cyphertext": "JMrN1_SV_2oEdgrU5F2au-TZAByikB0JgJUOCn55qvV_-6e_I-Bcva8iZ8iy31raDuewe957V-iIAarvZBEVPPwf",
+  "salt": "6U-fG6L-kDyniLUd9ECXZA==",
+  "text": "Hallowe'en, also called Hallowmas, survives as the modern keep of Samhain, the Celtic holiday that opened winter. Samhain fell on November 1. It marked the end of one year and the beginning of the next, for the Celtic year began with winter. Folklore said the people of the Otherworld came into this world to blight vegetation with their breath, so nothing stayed green and growing. Samhain was part of the farm calendar. Pigs were killed, and cows came down from the mountains to winter pastures. The feast was Christianized into All Saints' Day. It reached the New World and became Día de los Muertos, the Day of the Dead, in lands touched by the Spanish. Hallowe'en keeps Samhain's costumes, decorations, and pranks.",
+  "objective": "Document Hallowe'en as the modern survival of the Celtic festival of Samhain.",
+  "key_results": [
+    "Record Hallowe'en, also Hallowmas, as the keep of Samhain.",
+    "Describe Samhain's date, New Year role, and winter blight lore.",
+    "Note its Christianization as All Saints' Day and spread as Día de los Muertos."
+  ],
+  "evidence": [
+    "Monaghan, P. The Encyclopedia of Celtic Mythology and Folklore (2008): Samhain entry; Hallowe'en (Hallowmas) See Samhain.",
+    "Koch, J. The Celtic Culture: A Historical Encyclopedia (2006): references to Hallowe'en as the contemporary survival of Samhain."
+  ]
 }
