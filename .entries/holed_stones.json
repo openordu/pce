@@ -1,53 +1,58 @@
 {
-    "name": "holed stones",
-    "attributes": [
-        {
-            "entity": "holed stones",
-            "attribute": "symbolic object"
-        },
-        {
-            "entity": "large rocks",
-            "attribute": "used to seal marriage vows"
-        },
-        {
-            "entity": "loving couples",
-            "attribute": "clasped hands through the natural holes"
-        },
-        {
-            "entity": "church wedding",
-            "attribute": "not considered valid unless vows were also spoken at the holed stone"
-        },
-        {
-            "entity": "Dobie Stone",
-            "attribute": "applied to these natural formations, connecting them with the Fairies of that name"
-        }
-    ],
-    "entities": [
-        {
-            "entity": "healing stones",
-            "type": "uses"
-        },
-        {
-            "entity": "Celtic lands",
-            "type": "location"
-        },
-        {
-            "entity": "marriage vows",
-            "type": "ceremony"
-        },
-        {
-            "entity": "Britain",
-            "type": "location"
-        },
-        {
-            "entity": "Fairies",
-            "type": "mythical creatures"
-        }
-    ],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "cyphertext": "O7vgXCJuLDrdEihYcRzYgqxWuDY-xTBchrOdlAj6fIEu6qBevEVNPP4Qft1l5mqkWO2xmlyvrnnS3-oKJpjXlSmzbkH6U5arMh0MzeseMB7xzfi5PW9H8WVbjrN1h2UGOe1YAN0YxUhnRy4jNloaPT5P_hLlHwKutxeM-KMwt1epdOxHel1pUXkg_sikym29aAwUuQB1YOZczqch5c1JLxYnE735tDfrthI9Yo2p94XjItM6C5ua-NoM9mhj3yyriqUMDwcU0vU54RQ16eXZHn3ClX27ndD2O1h2IyaqthmEWFYsXohE_UHTXluTRAmweooRsN1aIhL_ZlVO81SYjNwtBi6oZmd40AXmqUplbApPmCqQ0I7_Wg26CfzQuN9LjLB1F_85wvwqvDvKQNDx2mm6KTOeLTo34VvTGZ9udwhmqRAjgtE2Vzy23QYdkhzsJ_uq7RUXNWuGUYQ1MfoVjv04Rngt3ns5ovByK2_rgkbB2hdW9iZWg5IeeNaeLZzyGQYCctwYHk7wJ_tyPWTkMTaalKj59-RZwyyCZhDd0EKq0IzVPXe8Mtm7-u_NVUjBl0WFGYH59spGWfOceIIY-2noxUgYBp7rubZ2UUsLdkI9f52kPVyVbG9BgAZsQVraDBjFbk0u8FY8WqYW61zjJgydup0JVJ14HhinUzsEWPoYNq0=",
-    "salt": "MR7M4oo8nvUg0rDwvFMvfA==",
-    "text": "Symbolic objects, holed stones were commonly used throughout Celtic lands to seal marriage vows. These stones were also utilized for healing purposes, as discussed in the topic of \"Healing Stones.\" Couples in love would clasp hands through the natural holes of the stones while making vows to each other. In certain areas, it was deemed that a church wedding was not fully official unless vows were spoken at one of these holed stones. Referred to as Dobie Stones in Britain, they were associated with the Fairies of the same name."
+  "name": "holed stones",
+  "attributes": [
+    {
+      "entity": "holed stone",
+      "attribute": "a large rock with a natural hole used to seal marriage vows"
+    },
+    {
+      "entity": "holed stone",
+      "attribute": "loving couples clasped hands through the holes while pledging their troth"
+    },
+    {
+      "entity": "holed stone",
+      "attribute": "in Britain called a Dobie stone, linking it to the fairies of that name"
+    },
+    {
+      "entity": "holed stone",
+      "attribute": "also served healing uses"
+    }
+  ],
+  "entities": [
+    {
+      "entity": "holed stone",
+      "type": "Object"
+    },
+    {
+      "entity": "Celtic lands",
+      "type": "Place"
+    },
+    {
+      "entity": "Britain",
+      "type": "Place"
+    },
+    {
+      "entity": "Dobie stone",
+      "type": "Object"
+    },
+    {
+      "entity": "fairy",
+      "type": "Person"
+    }
+  ],
+  "sources": [
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+  ],
+  "cyphertext": "O7vgXCJuLDrdEihYcRzYgqxWuDY-xTBchrOdlAj6fIEu6qBevEVNPP4Qft1l5mqkWO2xmlyvrnnS3-oKJpjXlSmzbkH6U5arMh0MzeseMB7xzfi5PW9H8WVbjrN1h2UGOe1YAN0YxUhnRy4jNloaPT5P_hLlHwKutxeM-KMwt1epdOxHel1pUXkg_sikym29aAwUuQB1YOZczqch5c1JLxYnE735tDfrthI9Yo2p94XjItM6C5ua-NoM9mhj3yyriqUMDwcU0vU54RQ16eXZHn3ClX27ndD2O1h2IyaqthmEWFYsXohE_UHTXluTRAmweooRsN1aIhL_ZlVO81SYjNwtBi6oZmd40AXmqUplbApPmCqQ0I7_Wg26CfzQuN9LjLB1F_85wvwqvDvKQNDx2mm6KTOeLTo34VvTGZ9udwhmqRAjgtE2Vzy23QYdkhzsJ_uq7RUXNWuGUYQ1MfoVjv04Rngt3ns5ovByK2_rgkbB2hdW9iZWg5IeeNaeLZzyGQYCctwYHk7wJ_tyPWTkMTaalKj59-RZwyyCZhDd0EKq0IzVPXe8Mtm7-u_NVUjBl0WFGYH59spGWfOceIIY-2noxUgYBp7rubZ2UUsLdkI9f52kPVyVbG9BgAZsQVraDBjFbk0u8FY8WqYW61zjJgydup0JVJ14HhinUzsEWPoYNq0=",
+  "salt": "MR7M4oo8nvUg0rDwvFMvfA==",
+  "text": "Holed stones are symbolic objects. People used large rocks with natural holes to seal marriage vows across the Celtic lands. Loving couples clasped hands through the holes while pledging their troth. In some regions a church wedding was not valid unless the couple also spoke their vows at a holed stone. In Britain people call these formations Dobie stones. The name links them to the fairies of that name. The stones also served healing uses.",
+  "objective": "Document holed stones as symbolic objects used in marriage vows.",
+  "key_results": [
+    "Describe how couples used holed stones to seal marriage vows.",
+    "Record the rule that some church weddings required the stones.",
+    "Note the British name Dobie stone and its fairy link."
+  ],
+  "evidence": [
+    "Monaghan, P. The Encyclopedia of Celtic Mythology and Folklore (2008): holed stones entry."
+  ]
 }
