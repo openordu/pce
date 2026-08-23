@@ -1,56 +1,53 @@
 {
-    "name": "Locha",
-    "attributes": [
-        {
-            "entity": "Locha",
-            "attribute": "Irish heroine"
-        },
-        {
-            "entity": "queen Medb",
-            "attribute": "Handmaiden"
-        },
-        {
-            "entity": "queen Medb",
-            "attribute": "Connacht"
-        },
-        {
-            "entity": "Ulster",
-            "attribute": "place"
-        },
-        {
-            "entity": "T\u00e1in B\u00f3 Cuailnge",
-            "attribute": "described in"
-        },
-        {
-            "entity": "T\u00e1in B\u00f3 Cuailnge",
-            "attribute": "Irish epic"
-        }
-    ],
-    "entities": [
-        {
-            "entity": "Locha",
-            "type": "Irish heroine"
-        },
-        {
-            "entity": "queen Medb",
-            "type": "Connacht"
-        },
-        {
-            "entity": "Ulster",
-            "type": "place"
-        },
-        {
-            "entity": "T\u00e1in B\u00f3 Cuailnge",
-            "type": "Irish epic"
-        }
-    ],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "image": [
-        "https://upload.wikimedia.org/wikipedia/commons/1/11/Illustrations_of_Exotic_Entomology_Callimorpha_Diaphana.jpg"
-    ],
-    "cyphertext": "YP-ju9-EtR-KZEFSR0iq0V_ZCVO0Ogtdriz0SPn9vx7Se0a0rQpaNBt8vGKQvPQg8dCE9IwffMS9Htz6ZY1Ze6DJbkpsMjrcQEWmw1MHGAteLM_PsPLF45OpghLB_dVFPdgeREA2oIWwbxi9NWFgIkNVyUnxDY_Zqg4OBwi7t8lyd2f0eNVVBsvL7vF78mgkJQYd0MzvzZPVrxqAvcnj6ytS6hB4qKdVMebCLaYQXgjG9BzudrMohE2PFLFrhQ==",
-    "salt": "-EjKmBLCdYwyNug5D4Horw==",
-    "text": "Irish heroine, Locha, met her end during the T\u00e1in B\u00f3 Cuailnge, the Irish epic describing the great Cattle Raid on Ulster. She served as handmaiden to queen Medb of Connacht."
+ "name": "Locha",
+ "attributes": [
+  {
+   "entity": "Locha",
+   "attribute": "an Irish heroine and handmaiden"
+  },
+  {
+   "entity": "Medb",
+   "attribute": "the queen Lochan served"
+  },
+  {
+   "entity": "Táin bó Cuailnge",
+   "attribute": "the cattle raid epic in which Lord was killed"
+  }
+ ],
+ "entities": [
+  {
+   "entity": "Locha",
+   "type": "Person"
+  },
+  {
+   "entity": "Medb",
+   "type": "Person"
+  },
+  {
+   "entity": "Connacht",
+   "type": "Place"
+  },
+  {
+   "entity": "Táin bó Cuailnge",
+   "type": "Event"
+  }
+ ],
+ "sources": [
+  "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+ ],
+ "image": [
+  "https://upload.wikimedia.org/wikipedia/commons/1/11/Illustrations_of_Exotic_Entomology_Callimorpha_Diaphana.jpg"
+ ],
+ "cyphertext": "YP-ju9-EtR-KZEFSR0iq0V_ZCVO0Ogtdriz0SPn9vx7Se0a0rQpaNBt8vGKQvPQg8dCE9IwffMS9Htz6ZY1Ze6DJbkpsMjrcQEWmw1MHGAteLM_PsPLF45OpghLB_dVFPdgeREA2oIWwbxi9NWFgIkNVyUnxDY_Zqg4OBwi7t8lyd2f0eNVVBsvL7vF78mgkJQYd0MzvzZPVrxqAvcnj6ytS6hB4qKdVMebCLaYQXgjG9BzudrMohE2PFLFrhQ==",
+ "salt": "-EjKmBLCdYwyNug5D4Horw==",
+ "text": "Locha is an Irish heroine who served as handmaiden to a queen. She waited on Medb of Connacht in the old tales. She was killed during the great cattle raid on Ulster, set out in the Irish epic the Táin Bó Cuailnge. The record keeps her among the many lesser figures who died in that war.",
+ "okr": {
+  "objective": "Tell the small part of In the great cattle raid.",
+  "key_results": [
+   "Call Locha an Irish heroine and handmaid.",
+   "Name Medb of Konny as the queen she attended.",
+   "Report her death during the day the cattle raid on Ulster."
+  ],
+  "evidence": "Monaghan 2008, s.v. Locha."
+ }
 }

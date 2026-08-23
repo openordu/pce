@@ -1,15 +1,46 @@
 {
-    "name": "lone sod",
-    "attributes": {},
-    "entities": [
-        {
-            "text": "lone sod"
-        }
-    ],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "cyphertext": "Nn83pG4gqwd5B-Ibjin7zbM0ASUNXz6h5BFlZOgm1PRKZ834fvSpRcnB3en7Wk1c_X5vzw==",
-    "salt": "SX_juUw4FwoMLciN5FgUMw==",
-    "text": "lone sod See Stray Sod."
+ "name": "lone sod",
+ "attributes": [
+  {
+   "entity": "lone sod",
+   "attribute": "another name for the stray frowns"
+  },
+  {
+   "entity": "lone sod",
+   "attribute": "a cross sheet that points to the stray hoard"
+  },
+  {
+   "entity": "stray sod",
+   "attribute": "a charm of Eleven grass that makes the way feel lost"
+  }
+ ],
+ "entities": [
+  {
+   "entity": "lone sod",
+   "type": "Concept"
+  },
+  {
+   "entity": "stray sod",
+   "type": "Concept"
+  },
+  {
+   "entity": "fairy",
+   "type": "Being"
+  }
+ ],
+ "sources": [
+  "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+ ],
+ "cyphertext": "Nn83pG4gqwd5B-Ibjin7zbM0ASUNXz6h5BFlZOgm1PRKZ834fvSpRcnB3en7Wk1c_X5vzw==",
+ "salt": "SX_juUw4FwoMLciN5FgUMw==",
+ "text": "The record keeps lone sod as a cross name. It sends the reader to the full entry, stray sod. A stray sod is a charm of a patch of grass laid loose on the road. The magic of the grass made a passing woman or man stumble, and the path turned strange. The name lone sod calls back to that same stray sod as a second way of speaking.",
+ "okr": {
+  "objective": "Set lone sod as a roll on to the fuller name stray sod.",
+  "key_results": [
+   "State that lone cow is the other name for a straight sod.",
+   "Say a stray sodteil is a grass patch that upsets the path.",
+   "Send the reader on to that fuller entry of the way."
+  ],
+  "evidence": "Monaghan 2008, s.v. stray sod."
+ }
 }

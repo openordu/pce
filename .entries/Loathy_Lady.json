@@ -1,77 +1,63 @@
 {
-    "name": "Loathy Lady",
-    "entities": [
-        {
-            "entity": "Lady Arthurian heroine",
-            "type": "Person"
-        },
-        {
-            "entity": "Hag",
-            "type": "Mythological Creature"
-        },
-        {
-            "entity": "ancient goddess of Sovereignty",
-            "type": "Mythological Creature"
-        },
-        {
-            "entity": "Cailleach",
-            "type": "Mythological Creature"
-        },
-        {
-            "entity": "Grail",
-            "type": "Object"
-        },
-        {
-            "entity": "Cundrie",
-            "type": "Person"
-        },
-        {
-            "entity": "Lady Ragnell",
-            "type": "Person"
-        },
-        {
-            "entity": "Wife of Bath\u2019s Tale",
-            "type": "Literary Work"
-        }
-    ],
-    "attributes": [
-        {
-            "entity": "Hag",
-            "attribute": "form of the ancient goddess of Sovereignty"
-        },
-        {
-            "entity": "Hag",
-            "attribute": "becomes a blooming young woman when kissed by the rightful king"
-        },
-        {
-            "entity": "Cailleach",
-            "attribute": "weather-controlling Giant"
-        },
-        {
-            "entity": "Loathy Lady",
-            "attribute": "inspired the medieval English poet Geoffrey Chaucer in his \u201cWife of Bath\u2019s Tale\u201d"
-        },
-        {
-            "entity": "Grail",
-            "attribute": "legends of the sacred Grail"
-        },
-        {
-            "entity": "Grail",
-            "attribute": "figure who asks candidates the mysterious questions that test their purity"
-        },
-        {
-            "entity": "Cundrie",
-            "attribute": "known as Cundrie"
-        },
-        {
-            "entity": "Lady Ragnell",
-            "attribute": "known as lady Ragnell"
-        }
-    ],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "cyphertext": "fZyRrnjri702y8O6gArua_j8ghmpHWG-Y9Rz71BUhP9qOIhZ4FfE63ZwfgSFPzrq76GMzhkj4YSUIK3tB2HGRca4H19l8fsza2gkA4rYnHlz0iRonRXJPJH7vdEvk9LJmOhsBqZhuFWBCtBBcPWIDqNm7IBa3R0SZlHl0WYE-io9uLczxHDjbBcpg6DObClaNVgS1JR1pJznwy61WhAZB52MSjaQsUyfiHtcHBuFr7CPTAHawOmGUB1L9F3QcfuFBcSjxpZXIVD9SWpfkfeFcI1P3AKhjVi30cvI9WbG-tKYiVOdw8o1NiE6Jh8aL7y6z3pkCTsR11K4buO_gwKi-xmjNGR_f0FSinzVMMHpfNT2X7YFvh24HYZmAx8G2hRwtBLm7dO0a56yvI0CocwLGECkhrREWBtgME4uCc3ZBJQROUDkBL6hlCMM59GMImf6hSTi5D5wUwHL8vZbodoA6LlDlr_9FLvk-_-rqD5Tg2UaUnd-oMLnR5OrH-H5ZWc_boJ6DSGgarbu-Xd9aIS4EMfU5WAhfNWPKmL0wz7wBwhKb8OHwmXQz2BSw1QjaenkHskJDuQxUleIm6CtmPFzrtYWYxINavDFfo4n2Y82ffYL_uJLdGzv2a-QlFmox7BzfC1jf4TsWmWGyVuSDsB1uuQjbtmBBzVJVjksZtAHBDw2o3gUoQjZH4Ax6dQeWaLGUvDfGfchjxrFfCatXP25UtVPJSpjQpYl-FwmK_hXgY-VjjzBw1EJ3GiPWRiHiwG35OjZvxZ0qz--eEIsDrBBUPzivGaYiVyktqJj8UGBZNCBEs2rDg==",
-    "salt": "7A0nwOfNYSTxrIC7oUjcQw==",
-    "text": "The Loathy Lady, a revolting and unattractive character in certain Arthurian legends, is actually a manifestation of the ancient goddess of Sovereignty. According to the tales, the Hag would transform into a beautiful young woman when kissed by the rightful king. She is also reminiscent of the pre-Celtic figure of the Cailleach, who controlled the weather. In some Grail legends, the Loathy Lady would test the purity of candidates by asking them enigmatic questions. Referred to as both Cundrie and Lady Ragnell, this character served as an inspiration to Geoffrey Chaucer for his \u201cWife of Bath\u2019s Tale.\u201d"
+ "name": "Loathy Lady",
+ "entities": [
+  {
+   "entity": "Loathy Lady",
+   "type": "Person"
+  },
+  {
+   "entity": "Sovereignty",
+   "type": "Concept"
+  },
+  {
+   "entity": "Cailleach",
+   "type": "Deity"
+  },
+  {
+   "entity": "Percival",
+   "type": "Person"
+  },
+  {
+   "entity": "Fisher King",
+   "type": "Person"
+  },
+  {
+   "entity": "Ragnell",
+   "type": "Person"
+  }
+ ],
+ "attributes": [
+  {
+   "entity": "Loathy Lady",
+   "attribute": "a hag who is a shape of the sovereignty goddess"
+  },
+  {
+   "entity": "Loathy Lady",
+   "attribute": "becomes a young woman after a kiss from the rightful king"
+  },
+  {
+   "entity": "Percival",
+   "attribute": "was mocked for failing the Fisher King and losing the Grail"
+  },
+  {
+   "entity": "Ragnell",
+   "attribute": "the other name the hag takes in one tale"
+  }
+ ],
+ "sources": [
+  "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+ ],
+ "cyphertext": "fZyRrnjri702y8O6gArua_j8ghmpHWG-Y9Rz71BUhP9qOIhZ4FfE63ZwfgSFPzrq76GMzhkj4YSUIK3tB2HGRca4H19l8fsza2gkA4rYnHlz0iRonRXJPJH7vdEvk9LJmOhsBqZhuFWBCtBBcPWIDqNm7IBa3R0SZlHl0WYE-io9uLczxHDjbBcpg6DObClaNVgS1JR1pJznwy61WhAZB52MSjaQsUyfiHtcHBuFr7CPTAHawOmGUB1L9F3QcfuFBcSjxpZXIVD9SWpfkfeFcI1P3AKhjVi30cvI9WbG-tKYiVOdw8o1NiE6Jh8aL7y6z3pkCTsR11K4buO_gwKi-xmjNGR_f0FSinzVMMHpfNT2X7YFvh24HYZmAx8G2hRwtBLm7dO0a56yvI0CocwLGECkhrREWBtgME4uCc3ZBJQROUDkBL6hlCMM59GMImf6hSTi5D5wUwHL8vZbodoA6LlDlr_9FLvk-_-rqD5Tg2UaUnd-oMLnR5OrH-H5ZWc_boJ6DSGgarbu-Xd9aIS4EMfU5WAhfNWPKmL0wz7wBwhKb8OHwmXQz2BSw1QjaenkHskJDuQxUleIm6CtmPFzrtYWYxINavDFfo4n2Y82ffYL_uJLdGzv2a-QlFmox7BzfC1jf4TsWmWGyVuSDsB1uuQjbtmBBzVJVjksZtAHBDw2o3gUoQjZH4Ax6dQeWaLGUvDfGfchjxrFfCatXP25UtVPJSpjQpYl-FwmK_hXgY-VjjzBw1EJ3GiPWRiHiwG35OjZvxZ0qz--eEIsDrBBUPzivGaYiVyktqJj8UGBZNCBEs2rDg==",
+ "salt": "7A0nwOfNYSTxrIC7oUjcQw==",
+ "text": "The Loathy Lady is a foul and ugly hag from Arthurian legend. She holds the shape of an ancient goddess of sovereignty. A kiss from the rightful king turns her into a blooming young woman. She also calls to mind the Cailleach, the weather-controlling giant of the pre-Celtic age. As a hag she approached the knight Percival and mocked his failure to answer the riddle of the mysterious Fisher King. That loss denied him the sacred Grail that would heal the land. In a noted Arthurian tale she carried the name Ragnell. Ragnell moved between the forms of hag and maiden as the story asked.",
+ "okr": {
+  "objective": "Present the Loathy Lady as a sovereignty figure of Arthurian story.",
+  "key_results": [
+   "State that a rightful kiss turns the hag into a young woman.",
+   "Name the Cailleach as a kindred image behind the hag.",
+   "Report the mockery of Percival before the Fisher King.",
+   "Give Ragnell as the hag and maiden form in another story."
+  ],
+  "evidence": "Monaghan 2008, s.v. Loathy Lady."
+ }
 }
