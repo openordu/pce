@@ -1,11 +1,46 @@
 {
-    "name": "Guid Folk",
-    "attributes": {},
-    "entities": [],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "cyphertext": "kwTpz3O6ga3PcNZdT3PSQzJ1IPYvUhYn4AxdOHqjdQCsTjlKJOVCOiVow0kbNX5Z5_waRW6Bvefa6XAXcHDE-8c=",
-    "salt": "IubsLe2PhIS9ZGlQeCxLVQ==",
-    "text": "Guid Folk See Names For The Fairies."
+ "name": "Guid Folk",
+ "attributes": [
+  {
+   "entity": "the fairies",
+   "attribute": "spoken of through soft words"
+  },
+  {
+   "entity": "the good folk",
+   "attribute": "a careful name for the fairies"
+  },
+  {
+   "entity": "themselves",
+   "attribute": "another careful name for the fairies"
+  }
+ ],
+ "entities": [
+  {
+   "entity": "the fairies",
+   "type": "Being"
+  },
+  {
+   "entity": "the good folk",
+   "type": "Concept"
+  },
+  {
+   "entity": "themselves",
+   "type": "Concept"
+  }
+ ],
+ "sources": [
+  "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+ ],
+ "cyphertext": "kwTpz3O6ga3PcNZdT3PSQzJ1IPYvUhYn4AxdOHqjdQCsTjlKJOVCOiVow0kbNX5Z5_waRW6Bvefa6XAXcHDE-8c=",
+ "salt": "IubsLe2PhIS9ZGlQeCxLVQ==",
+ "text": "Guid Folk is a cross-reference in the encyclopedia. It sends readers to the fairies. People in Celtic lands did not speak the true name of the fairies. They used softer words such as the good folk and themselves. These names treated the uncanny spirits as polite neighbours. The habit joined courtesy with a guarded fear of the unseen. Plains words were set aside for names that held the spirits at a distance.",
+ "okr": {
+  "objective": "Explain the soft euphemism used to name the fairies.",
+  "key_results": [
+   "Read Guid Folk as a cross-reference heading.",
+   "Show why true names were set aside.",
+   "Keep the terms good folk and themselves."
+  ],
+  "evidence": "Monaghan, The Encyclopedia of Celtic Mythology and Folklore, 2003"
+ }
 }

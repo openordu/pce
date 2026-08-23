@@ -1,73 +1,67 @@
 {
-    "name": "Guyomard",
-    "attributes": [
-        {
-            "entity": "Guyomard",
-            "attribute": "Arthurian hero"
-        },
-        {
-            "entity": "Morgan",
-            "attribute": "sorceress"
-        },
-        {
-            "entity": "Perilous Valley",
-            "attribute": "cursed valley in the magical forest of Broc\u00e9liande"
-        },
-        {
-            "entity": "Lancelot",
-            "attribute": "ever true in his heart to his beloved Guinevere"
-        }
-    ],
-    "entities": [
-        {
-            "entity": "Guyomard",
-            "type": "Arthurian hero"
-        },
-        {
-            "entity": "king Arthur",
-            "type": "hero"
-        },
-        {
-            "entity": "Morgan",
-            "type": "sorceress"
-        },
-        {
-            "entity": "Perilous Valley",
-            "type": "cursed valley"
-        },
-        {
-            "entity": "Broc\u00e9liande",
-            "type": "magical forest"
-        },
-        {
-            "entity": "knight",
-            "type": "character"
-        },
-        {
-            "entity": "mistress",
-            "type": "lover"
-        },
-        {
-            "entity": "demons",
-            "type": "imagined creatures"
-        },
-        {
-            "entity": "obstacles",
-            "type": "insurmountable"
-        },
-        {
-            "entity": "Lancelot",
-            "type": "hero"
-        },
-        {
-            "entity": "Guinevere",
-            "type": "beloved"
-        }
-    ],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "cyphertext": "t3v_c6KsrcIvPjwFiZpmxbOOHB6Li7X251Y8v6lAyT_8TotQ71_PKqFlCO1cD2hZ9j7si6vy09ZRmMN_4DMPWRIxSexphb73PgDTLM3WarrhgJxmIcchnzBxKAyxiDba7XLjt38vHDI359d-vTcK7gYVK5ofcozCTLX5kofop_fXvvc-9D7_g-QC74t6WxE5N83fzBnFF_8qXe1qFdi-xruYQn1DibmdVwi1M9Ilw8o9mD66sNnjIrgoD570ndMJS49ll6iWEQRo1LZjtEJla3NfdzjaULDzzpNd32xcDElqYy2p1aqkSrGGsKH2ECAgqK5CVdPbkgoyxyn4O8Z7fFvQoHdjwetkOMHQx2VOHS55qg3_c5KHBdesaHUn6TrkbuLsFBEyYkpOOG4_f-ujqWoZv9QKM0IIMEbVLnJadQEQdSI40_5kFyXTNgCD4f9Zsi7qsulxx5uOHDpIYLnn1IVntCECF1TCP65JZJMP15-PAPjt62xSDd-IvvojMYBN1Q8cRXTNcgM2aDx7jeGgC53OdKV-hh-KlXIwupcxS8X7HZyYHzS8z7apPiaXdU8kemUYXNI633r8R_yGoDxliKzhq_IKkvq5wU5rkdC6EMSeuJ5xZOITTQMjH7iwr75ytxm3WKq0DGG4AguJsKS7bWmRitRVUznQdAUepUhKmpaaLB-nrFIF",
-    "salt": "AIgueFUYERz9iOsFst-sKg==",
-    "text": "An Arthurian hero named Guyomard who was the lover of King Arthur's half-sister, the sorceress Morgan, was known for his untrustworthiness. Morgan was angered by Guyomard's behavior and cursed a valley located in the magical forest of Broc\u00e9liande. Morgan's curse meant that any knight who was unfaithful to his mistress and wandered into the Perilous Valley would be trapped there forever and surrounded by imagined demons and insurmountable obstacles. Lancelot, who remained ever true to his beloved Guinevere, eventually succeeded in breaking the enchantment."
+ "name": "Guyomard",
+ "attributes": [
+  {
+   "entity": "Guyomard",
+   "attribute": "a knight and lover of the magician"
+  },
+  {
+   "entity": "Morgan",
+   "attribute": "the half sister of Arthur"
+  },
+  {
+   "entity": "Brocéliande",
+   "attribute": "a magic wood"
+  },
+  {
+   "entity": "Perilous Valley",
+   "attribute": "a valley under a curse"
+  },
+  {
+   "entity": "Lancelot",
+   "attribute": "broke the charm and freed the knight"
+  }
+ ],
+ "entities": [
+  {
+   "entity": "Guyomard",
+   "type": "Person"
+  },
+  {
+   "entity": "Morgan",
+   "type": "Person"
+  },
+  {
+   "entity": "King Arthur",
+   "type": "Person"
+  },
+  {
+   "entity": "Brocéliande",
+   "type": "Place"
+  },
+  {
+   "entity": "Perilous Valley",
+   "type": "Place"
+  },
+  {
+   "entity": "Lancelot",
+   "type": "Person"
+  }
+ ],
+ "sources": [
+  "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+ ],
+ "cyphertext": "t3v_c6KsrcIvPjwFiZpmxbOOHB6Li7X251Y8v6lAyT_8TotQ71_PKqFlCO1cD2hZ9j7si6vy09ZRmMN_4DMPWRIxSexphb73PgDTLM3WarrhgJxmIcchnzBxKAyxiDba7XLjt38vHDI359d-vTcK7gYVK5ofcozCTLX5kofop_fXvvc-9D7_g-QC74t6WxE5N83fzBnFF_8qXe1qFdi-xruYQn1DibmdVwi1M9Ilw8o9mD66sNnjIrgoD570ndMJS49ll6iWEQRo1LZjtEJla3NfdzjaULDzzpNd32xcDElqYy2p1aqkSrGGsKH2ECAgqK5CVdPbkgoyxyn4O8Z7fFvQoHdjwetkOMHQx2VOHS55qg3_c5KHBdesaHUn6TrkbuLsFBEyYkpOOG4_f-ujqWoZv9QKM0IIMEbVLnJadQEQdSI40_5kFyXTNgCD4f9Zsi7qsulxx5uOHDpIYLnn1IVntCECF1TCP65JZJMP15-PAPjt62xSDd-IvvojMYBN1Q8cRXTNcgM2aDx7jeGgC53OdKV-hh-KlXIwupcxS8X7HZyYHzS8z7apPiaXdU8kemUYXNI633r8R_yGoDxliKzhq_IKkvq5wU5rkdC6EMSeuJ5xZOITTQMjH7iwr75ytxm3WKq0DGG4AguJsKS7bWmRitRVUznQdAUepUhKmpaaLB-nrFIF",
+ "salt": "AIgueFUYERz9iOsFst-sKg==",
+ "text": "Guyomard was a knight of Arthur and the lover of the king's half sister. That sister was the sorceress Morgan. The knight broke faith, and she, angry, flung a curse. The curse fell upon a valley in the magic wood of Broceliande. Any knight who entered that valley, being false to his love, could not leave. About him rose demons and rocks he could not break. The loyal Lancelot freed them all at last and broke the charm.",
+ "okr": {
+  "objective": "Tell how a foul knight and a sorceress made a cursed valley.",
+  "key_results": [
+   "Name the knight Guyomard and his fault.",
+   "Name the sorceress Morgan and her anger.",
+   "Place the curse in the valley of Broceliande.",
+   "Show Lancelot breaking the spell."
+  ],
+  "evidence": "Monaghan, The Encyclopedia of Celtic Mythology and Folklore, 2003"
+ }
 }

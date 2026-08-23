@@ -1,52 +1,62 @@
 {
-    "name": "Guinglain",
-    "entities": [
-        {
-            "entity": "Guinglain",
-            "type": "Arthurian hero"
-        },
-        {
-            "entity": "Camelot",
-            "type": "place"
-        },
-        {
-            "entity": "Hag",
-            "type": "transformed"
-        },
-        {
-            "entity": "Ragnell",
-            "type": "Hag"
-        },
-        {
-            "entity": "Round Table",
-            "type": "object"
-        },
-        {
-            "entity": "Gawain",
-            "type": "exemplary knight"
-        }
-    ],
-    "attributes": [
-        {
-            "entity": "Guinglain",
-            "attribute": "Arthurian hero"
-        },
-        {
-            "entity": "Ragnell",
-            "attribute": "transformed Hag"
-        },
-        {
-            "entity": "Gawain",
-            "attribute": "exemplary knight of the Round Table"
-        }
-    ],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "image": [
-        "https://upload.wikimedia.org/wikipedia/commons/c/cd/Hb-gringalais-le-fort.jpg"
-    ],
-    "cyphertext": "wbFTMPHtaybVVR09rvnnEpBP0WXqSqemBaikTRSalpQybscRWdBuNRtHySfKk_miafVlH83dd_Qifo_xoLT_FSbzHdoPHHjKew4Tiy_4t33PmOPALeGJoWGkYvTa9-R1kJn0T4HuCJpTHp-QFz5nqur2LjMOA8GQpoPzQUNJc-q8KxFk-I_alNdj9zkYtjesxC-qfMEwp82zASbIRNIgNpXW9ILTbwS9y9KOT7V5q-o32oTTvyEEGZFfR0LRc2jI8gLImqQWig5gbQ==",
-    "salt": "6oCvJHKdyMG8_wNdudMbRg==",
-    "text": "Arthurian legend includes the hero Guinglain, who although a minor figure in the tales of Camelot, holds an important place as the son of both Ragnell, the transformed hag, and Gawain, a model knight of the Round Table."
+ "name": "Guinglain",
+ "entities": [
+  {
+   "entity": "Guinglain",
+   "type": "Person"
+  },
+  {
+   "entity": "Gawain",
+   "type": "Person"
+  },
+  {
+   "entity": "Ragnell",
+   "type": "Person"
+  },
+  {
+   "entity": "Round Table",
+   "type": "Group"
+  },
+  {
+   "entity": "Camelot",
+   "type": "Place"
+  }
+ ],
+ "attributes": [
+  {
+   "entity": "Guinglain",
+   "attribute": "a knight of Arthur and son of Gawain"
+  },
+  {
+   "entity": "Guinglain",
+   "attribute": "the son of the hag Ragnell"
+  },
+  {
+   "entity": "Gawain",
+   "attribute": "a famous knight of the Round Table"
+  },
+  {
+   "entity": "Ragnell",
+   "attribute": "a hag freed by love"
+  }
+ ],
+ "sources": [
+  "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+ ],
+ "image": [
+  "https://upload.wikimedia.org/wikipedia/commons/c/cd/Hb-gringalais-le-fort.jpg"
+ ],
+ "cyphertext": "wbFTMPHtaybVVR09rvnnEpBP0WXqSqemBaikTRSalpQybscRWdBuNRtHySfKk_miafVlH83dd_Qifo_xoLT_FSbzHdoPHHjKew4Tiy_4t33PmOPALeGJoWGkYvTa9-R1kJn0T4HuCJpTHp-QFz5nqur2LjMOA8GQpoPzQUNJc-q8KxFk-I_alNdj9zkYtjesxC-qfMEwp82zASbIRNIgNpXW9ILTbwS9y9KOT7V5q-o32oTTvyEEGZFfR0LRc2jI8gLImqQWig5gbQ==",
+ "salt": "6oCvJHKdyMG8_wNdudMbRg==",
+ "text": "Guinglain was a knight of Arthur and a son of the Round Table. His father was the famous knight Gawain. His mother was the hag Ragnell, freed from a spell by her true love. Guinglain carried the blood of both magic and knightly honour. The romances give him a place among the king's companions.",
+ "okr": {
+  "objective": "Trace the lineage of the knight Guinglain.",
+  "key_results": [
+   "Name Guinglain as a knight of the court.",
+   "Set out his father Gawain and his mother Ragnell.",
+   "Tell of the hag set free by a true love.",
+   "Note the blood of magic and honour in him."
+  ],
+  "evidence": "Monaghan, The Encyclopedia of Celtic Mythology and Folklore, 2003"
+ }
 }
