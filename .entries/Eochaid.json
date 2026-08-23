@@ -3,101 +3,25 @@
     "attributes": [
         {
             "entity": "Eochaid",
-            "attribute": "Irish hero"
+            "attribute": "an Irish hero whose name means horseman"
         },
         {
-            "entity": "Echid",
-            "attribute": "Irish hero"
-        },
-        {
-            "entity": "Eoachaidh",
-            "attribute": "Irish hero"
-        },
-        {
-            "entity": "Echuid",
-            "attribute": "Irish hero"
-        },
-        {
-            "entity": "Echaidgh",
-            "attribute": "Irish hero"
-        },
-        {
-            "entity": "mythological beings",
-            "attribute": "origin"
-        },
-        {
-            "entity": "human men",
-            "attribute": "origin"
-        },
-        {
-            "entity": "ancient divinity",
-            "attribute": "hypothesized"
+            "entity": "the many bearers of the name",
+            "attribute": "may descend from a single original figure"
         },
         {
             "entity": "sun god",
-            "attribute": "hypothesized"
+            "attribute": "the ancient divinity into which the human figures may have been absorbed"
         }
     ],
     "entities": [
         {
             "entity": "Eochaid",
-            "type": "Irish hero"
-        },
-        {
-            "entity": "Echid",
-            "type": "Irish hero"
-        },
-        {
-            "entity": "Eoachaidh",
-            "type": "Irish hero"
-        },
-        {
-            "entity": "Echuid",
-            "type": "Irish hero"
-        },
-        {
-            "entity": "Echaidgh",
-            "type": "Irish hero"
-        },
-        {
-            "entity": "Irish mythology",
-            "type": "mythology"
-        },
-        {
-            "entity": "innumerable heroes",
-            "type": "hero"
-        },
-        {
-            "entity": "kings",
-            "type": "king"
-        },
-        {
-            "entity": "horseman",
-            "type": "meaning"
-        },
-        {
-            "entity": "figures",
-            "type": "figure"
-        },
-        {
-            "entity": "original",
-            "type": "origin"
-        },
-        {
-            "entity": "mythological beings",
-            "type": "being"
-        },
-        {
-            "entity": "human men",
-            "type": "human"
-        },
-        {
-            "entity": "ancient divinity",
-            "type": "divinity"
+            "type": "Person"
         },
         {
             "entity": "sun god",
-            "type": "god"
+            "type": "Deity"
         }
     ],
     "sources": [
@@ -105,5 +29,14 @@
     ],
     "cyphertext": "LhVexKuUd2aj68AZpbW2FsH-gUxHvYbJ97B72xiqYNHPc3Knjq9iuGdOEwscQDLYN0cVYkea22Wh4MkyMqeCHFe_IOxLxaESF7NlN-Brd9Ejux7pjJDFHs5qun7b1W_9uo-vOgo7BrRL8GHwJvNw-oVOsimRurcHxjjzIw-YThHr9bHQoCdAleF6nk2BNs03OHZ2QZuPkr6i_kezTHaen6DUpkfY1ZfaJ8e9TunJ9kO9_lFnM6WkYaDvA9SYBrJSuh0Wef4QX9yVL6gRyWTxytDewXcyS8JCpyJHr7AegH4keHePAZgp72eJ-lKekZFf9rwurA5Z7vaaLD6TjV_K99bgVhNRlrMmDH9c-HHP-s5r2M_WIM6SOGXbQCC-htzO-Vuuvg9yBKesDVW3cbFyEf2Au4Ehruu2oNRrr4zCyX3C42iGflspJA0sXsuJR8-wg7jCg3rCLcAAQ8HwdyeE3wYU5B01WaFUZ7FGhs44yMbLFBU6EM8bnYp2OR6hCO9uHmrvgpkNKnESY2fzUAyeR-PZL_St1-OFuH_85if98qD_Ho_PqLkSHZrrwxhvHI_sMux8R9qe9Maa",
     "salt": "Yrcd7FOkLuR9ZAZnHVg1MA==",
-    "text": "Eochaid, an Irish hero repeatedly mentioned throughout Irish mythology. The name, which means \u201chorseman\u201d, is shared by numerous other kings and heroes in Irish lore, and it is possible that they are all derived from the same original figure that may have represented a mythological being or a historically significant human absorbed into ancient divinity, possibly as a sun god. The most significant figures among them are:"
+    "text": "Eochaid, spelled also Echid or Eochaidh, is an Irish hero. The name means horseman. Irish myth gives the name to countless kings and heroes. They may all stem from a single ancient figure. Some were gods, while other men may have been drawn into the worship of a sun god. The chief bearers of the name are treated in their own entries. Each ruled or fought in his own corner of the legend. The name recurs so often that scholars read it as a badge of an old continental deity.",
+    "okr": {
+        "objective": "Rewrite the Eochaid header entry as a real paragraph.",
+        "key_results": [
+            "the text explains the meaning of the name",
+            "typed entities cover the hero and the suggested sun god",
+            "the prose is clear and shorter than thirty words per sentence"
+        ],
+        "evidence": "Monaghan, The Encyclopedia of Celtic Mythology and Folklore, 2008"
+    }
 }

@@ -3,85 +3,41 @@
     "entities": [
         {
             "entity": "Eochaid mac Eirc",
-            "type": "person"
+            "type": "Person"
         },
         {
             "entity": "Tailtiu",
-            "type": "goddess"
-        },
-        {
-            "entity": "Lughnasa",
-            "type": "fair"
+            "type": "Deity"
         },
         {
             "entity": "Teltown",
-            "type": "location"
+            "type": "Place"
+        },
+        {
+            "entity": "Lughnasa",
+            "type": "Event"
         },
         {
             "entity": "Fir Bolg",
-            "type": "race"
-        },
-        {
-            "entity": "Tuatha D\u00e9 Danann",
-            "type": "magical race"
-        },
-        {
-            "entity": "Mag Tuired",
-            "type": "battlefield"
+            "type": "Group"
         }
     ],
     "attributes": [
         {
             "entity": "Eochaid mac Eirc",
-            "attribute": "husband of Tailtiu"
-        },
-        {
-            "entity": "Eochaid mac Eirc",
-            "attribute": "ideal king"
-        },
-        {
-            "entity": "Eochaid mac Eirc",
-            "attribute": "reigned during abundant harvests"
-        },
-        {
-            "entity": "Eochaid mac Eirc",
-            "attribute": "reigned during soft rain"
-        },
-        {
-            "entity": "Eochaid mac Eirc",
-            "attribute": "reigned during a time when no man lied"
+            "attribute": "husband of the goddess Tailtiu and an ideal king"
         },
         {
             "entity": "Tailtiu",
-            "attribute": "goddess"
+            "attribute": "the goddess in whose honor the fair is held"
         },
         {
-            "entity": "Eochaid Gargh",
-            "attribute": "husband of Tailtiu"
+            "entity": "Eochaid mac Eirc",
+            "attribute": "ruler of the midland kingship among the Fir Bolg"
         },
         {
             "entity": "Lughnasa",
-            "attribute": "fair established in honor of Tailtiu"
-        },
-        {
-            "entity": "Teltown",
-            "attribute": "location of Lughnasa fair"
-        },
-        {
-            "entity": "Fir Bolg",
-            "attribute": "fought against the Tuatha D\u00e9 Danann"
-        },
-        {
-            "entity": "Fir Bolg",
-            "attribute": "member of the early race"
-        },
-        {
-            "entity": "Tuatha D\u00e9 Danann",
-            "attribute": "magical race"
-        },
-        {
-            "entity": "Mag Tuired",
-            "attribute": "location of the first battle against the Fir Bolg"
+            "attribute": "the fair founded by him or by Eochaid Garbh"
         }
     ],
     "sources": [
@@ -89,5 +45,14 @@
     ],
     "cyphertext": "Wj-FBjmYYxxy4FEr4hUo-JfXmBIx0H9yqkB6_W35lNmuTfx8pbavfZawqlM5Vz5_ORiWCWh6cCXbExkViCUzuF44c76xULNspjl28bWohUvURYcYT3niHqFNx4g-2bQ5M6ssF3twNcDld_wvVnCYgN7gK_EN07A2CgWFtNBZaUteqdOGFVbA_IV0RMF8fcaz65DkdOYmolmWY4N3CWOc0cZJF-V8mLgXH6OH7HuXI7I_WS9OBHtrGdzCv7th5ZXfYNZD4nQ6BiUJTQjAX3aYVCGdha9s3mr1HWh40AJIoTzZYCXEjvJOyDSRuSZDOFLWepjcdI16VMZ5J7tvnyxOQMQU-8pX-3tyNQtdBDi6K7XdRKakWGy5staZLy_3meIbS3R5j2lEfLVrwUEQpY4LQC341_htWWqDkwEiH7MdTHwzW-v997pbG2C7crgyKNOfkM4fcSouZTggTRfNgd74uZ6Eowzj6hIxdWkoOPww5dz64jqMWn00gBOuCkrI5e2U5volng_NYarxknEVRmne9R-BvFlubTj-1xOSnq8DQ41JrUf2TXEtnD-VQf69TTxKN4OIdXV4EZI4dEqHaLTyUiqvH9egZXUYpfXBXk-5XPW6PNSREavzxlQEgsqISYJEVvfl08LxAWQvwRGYc0tRO80=",
     "salt": "eiqlGCYkg0nEg0cK76Bkxw==",
-    "text": "A legendary ideal king of early times, Eochaid mac Eirc, was known to be married to the goddess Tailtiu who ensured the land was rich with bountiful harvests and rain so gentle it felt like dew. It was either Eochaid mac Eirc or his successor, Eochaid Gargh, who founded the Lughnasa fair in honor of Tailtiu at Teltown. Eochaid mac Eirc was a member of the Fir Bolg, an early race who opposed the arrival of the magical Tuatha D\u00e9 Danann but was defeated and killed in the first battle of Mag Tuired."
+    "text": "Eochaid mac Eirc was the husband of the goddess Tailtiu. He stands as the ideal king of early Irish legend. In his reign the land bore fruit in plenty. Rain fell so gently that it seemed like dew. No man ever told a lie in his days. He ruled the midland kingship among the Fir Bolg. Either he or Eochaid Garbh set the Lughnasa fair at Teltown in honor of Tailtiu. The memory of his honest rule outlasted his reign.",
+    "okr": {
+        "objective": "Rewrite the Eochaid mac Eirc entry in plain prose.",
+        "key_results": [
+            "the text tells of the abundant land and honest rule",
+            "typed entities cover the king, the goddess, and the fair",
+            "the Fir Bolg kingship from the invasion account is present"
+        ],
+        "evidence": "Monaghan, The Encyclopedia of Celtic Mythology and Folklore, 2008"
+    }
 }

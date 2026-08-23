@@ -3,33 +3,37 @@
     "entities": [
         {
             "entity": "Eochaid Garbh",
-            "type": "person"
+            "type": "Person"
         },
         {
             "entity": "Tailtiu",
-            "type": "land goddess"
-        },
-        {
-            "entity": "Lughnasa",
-            "type": "fair"
+            "type": "Deity"
         },
         {
             "entity": "Teltown",
-            "type": "location"
+            "type": "Place"
+        },
+        {
+            "entity": "Lughnasa",
+            "type": "Event"
         }
     ],
     "attributes": [
         {
+            "entity": "Eochaid Garbh",
+            "attribute": "second husband of the land goddess Tailtiu"
+        },
+        {
             "entity": "Tailtiu",
-            "attribute": "land goddess"
+            "attribute": "the great goddess of the land"
         },
         {
             "entity": "Lughnasa",
-            "attribute": "famous"
+            "attribute": "the fair likely founded by him at Teltown"
         },
         {
-            "entity": "Teltown",
-            "attribute": "location of the fair"
+            "entity": "Eochaid mac Eirc",
+            "attribute": "an alternative founder of the same fair"
         }
     ],
     "sources": [
@@ -37,5 +41,14 @@
     ],
     "cyphertext": "uVYpz9KGwoRh0YjHCjTWU4uIQ6mf0MqMxyF-SJ7nmkc9KSSZBgI_ZzMftDzR7Jjf0Mqd3X5zR6agLbJ-Y0qpScCcfbqwGtMI_Ub3G3AqiiNQYUOmL7dGuz_g0xrHHexHWckOo6dY0V90AhDTzGOF63KF3uk_iwne4Z-Njs869li8LLCBklVQ_UfURPkR79sSxa4Gckvu1A==",
     "salt": "H__xE-N4GWDWf0mEvjYFAQ==",
-    "text": "Husband to the land goddess Tailtiu and potentially the originator of the well-known Lughnasa festival at Teltown was Eochaid Garbh."
+    "text": "Eochaid Garbh was the second husband of Tailtiu, the great land goddess. He is the likely founder of the Lughnasa fair at Teltown. Some accounts give that honor to Eochaid mac Eirc instead. The fair carried on in memory of the funeral games held for Tailtiu. His name means rough or coarse, and he guards the borders of the sacred ground.",
+    "okr": {
+        "objective": "Rewrite the Eochaid Garbh stub as real prose.",
+        "key_results": [
+            "the text tells of his marriage to Tailtiu",
+            "typed entities cover the man, the goddess, and the fair",
+            "the share of credit with Eochaid mac Eirc is present"
+        ],
+        "evidence": "Monaghan, The Encyclopedia of Celtic Mythology and Folklore, 2008"
+    }
 }

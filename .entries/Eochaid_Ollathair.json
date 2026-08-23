@@ -1,12 +1,63 @@
 {
     "name": "Eochaid Ollathair",
-    "attributes": {},
-    "entities": [
+    "attributes": [
         {
-            "text": "\u2022 Eochaid Ollathair"
+            "entity": "Eochaid Ollathair",
+            "attribute": "a name meaning father of all given to the Dagda"
         },
         {
-            "text": "Dagda"
+            "entity": "Dagda",
+            "attribute": "the good god and king of the Tuath Dé in the Mythological Cycle"
+        },
+        {
+            "entity": "Oengus Mac ind Óc",
+            "attribute": "his son, a god famed for youth and beauty"
+        },
+        {
+            "entity": "Brigit",
+            "attribute": "his daughter, also called Bríg"
+        },
+        {
+            "entity": "Óðin",
+            "attribute": "the Norse all-father likened to him"
+        }
+    ],
+    "entities": [
+        {
+            "entity": "Eochaid Ollathair",
+            "type": "Deity"
+        },
+        {
+            "entity": "Dagda",
+            "type": "Deity"
+        },
+        {
+            "entity": "Oengus Mac ind Óc",
+            "type": "Deity"
+        },
+        {
+            "entity": "Brigit",
+            "type": "Deity"
+        },
+        {
+            "entity": "Bóand",
+            "type": "Deity"
+        },
+        {
+            "entity": "Morrígan",
+            "type": "Deity"
+        },
+        {
+            "entity": "Óðin",
+            "type": "Deity"
+        },
+        {
+            "entity": "Tuath Dé",
+            "type": "Group"
+        },
+        {
+            "entity": "Mag Tuired",
+            "type": "Place"
         }
     ],
     "sources": [
@@ -16,5 +67,14 @@
     ],
     "cyphertext": "Kl4hPbV3aEuwXIf8J_8jzou5Dkx_leQH6jati8AgloAnh3wxaHMIhetOLPJyjASsw4TAzJ0gz8Q4-XHPNSgT0zBBrTrPtagwKBE9KL0F2-NW7MoT2h0mRvF-EppAjMJse-AzYPkq7hnyp4xvD4LC01u2gvjxFvDktGSOH0MvB-Sp3-wQbdH0NpUkzb1CicZRxBrghC2i83vYEn3JAoGY9eWCd4KjSktGZJMCWZ8AiYZqvBz3YmE9xb__dLGmWEHbXiZKsy0RfWhx5htcVNOxgJxMeWqqs8s6887R6D_B1BCQmPORH9UXS-T1Cd1OyUNLtZ_a16NzY4oj-bYU1yDKK8AA-8EMzenak-cXnK8-fQUSzsnsaLxknJoElIupwj_XKlGlpeIrBD8za1azWhWOAg==",
     "salt": "S0PgksxTgorfVY-qBtxVng==",
-    "text": ""
+    "text": "Eochaid Ollathair means father of all. The name belongs to the great god the Dagda. Koch explains that his name reads as good god. This title invites a bond with the Norse Óðin, the all-father. In the Mythological Cycle the Dagda ruled the Tuath Dé. He appears at full length in the Second Battle of Mag Tuired. He was the father of Oengus Mac ind Óc and of Brigit. He mated with Bóand and with the Morrígan. He has been read as a god of sky, storm, earth, and sun.",
+    "okr": {
+        "objective": "Rewrite the Eochaid Ollathair entry in clean and faithful prose.",
+        "key_results": [
+            "the text tells of the Dagda and his title",
+            "typed entities cover the god, his family, and the Norse parallel",
+            "the several readings as a sky or sun god are present"
+        ],
+        "evidence": "Monaghan, The Encyclopedia of Celtic Mythology and Folklore, 2008; Koch, The Encyclopedia of Celtic Culture, 2006"
+    }
 }
