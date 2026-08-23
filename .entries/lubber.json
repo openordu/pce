@@ -1,15 +1,34 @@
 {
-    "name": "lubber",
-    "attributes": {},
-    "entities": [
-        {
-            "text": "Lob"
-        }
-    ],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "cyphertext": "GG5yUCF4LetmsYmX9Vy57wmv_osr1rUR-h-itHB6U3c9mr3eFxkubK3FWJI=",
-    "salt": "R1QocrAIraM5Vcwn1CbDRw==",
-    "text": "lubber See Lob."
+ "name": "lubber",
+ "attributes": [
+  {
+   "entity": "Lubber",
+   "attribute": "a helpful fairy of British folklore"
+  }
+ ],
+ "entities": [
+  {
+   "entity": "Lubber",
+   "type": "Being"
+  },
+  {
+   "entity": "LOB",
+   "type": "Concept"
+  }
+ ],
+ "sources": [
+  "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+ ],
+ "cyphertext": "GG5yUCF4LetmsYmX9Vy57wmv_osr1rUR-h-itHB6U3c9mr3eFxkubK3FWJI=",
+ "salt": "R1QocrAIraM5Vcwn1CbDRw==",
+ "text": "Lubber is a term for a helpful fairy of British lore. The heading points the reader to the fuller LOB entry. A lubber is a friendly brownie or field-dwelling spirit. The word also gives the sea term landlubber. See LOB for the full account.",
+ "okr": {
+  "objective": "Explain lubber as a cross-reference to the fuller LOB entry.",
+  "key_results": [
+   "Name lubber as a helpful fairy of British folklore",
+   "Point the reader to LOB for the full account",
+   "Note the sea term landlubber that shares the word"
+  ],
+  "evidence": "Monaghan 2008, s.v. 'Lubber'."
+ }
 }

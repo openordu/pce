@@ -1,41 +1,34 @@
 {
-    "name": "luideag",
-    "attributes": [
-        {
-            "entity": "luideag",
-            "attribute": "monstrous"
-        },
-        {
-            "entity": "luideag",
-            "attribute": "female"
-        },
-        {
-            "entity": "luideag",
-            "attribute": "terrifyingly ugly"
-        },
-        {
-            "entity": "luideag",
-            "attribute": "easily angered"
-        }
-    ],
-    "entities": [
-        {
-            "entity": "luideag",
-            "type": "folkloric figure"
-        },
-        {
-            "entity": "Lake",
-            "type": "location"
-        },
-        {
-            "entity": "Isle of Skye",
-            "type": "location"
-        }
-    ],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "cyphertext": "I02-jQLAydwkweaRr61Pe5hgm8Nx_jUxHmm6G90tuZqYdKebQAnf2QVFn6K7C5ci_0EinmOICqHsN3p8PoIlm3ZUpARkcBPeL6Plznea4a1AmZZyk0Zm5KGytzr6NU9nkVhOR7-2MNruBMKoognxUFbq18IpgP7pbNp9MdpbC4_ZnCM4X2vjbs7ZPfpSI75kSwvWAXnQp4z-ibYvDS_usbpcJffaGlFEgtTeWQLKWnJBr3j0HQs=",
-    "salt": "o5_-FUEJMWSfruHEzNYK-w==",
-    "text": "Monstrously ugly and prone to getting easily provoked, the luideag was a Scottish folklore character that haunted a Lake located in the Isle of Skye."
+ "name": "luideag",
+ "attributes": [
+  {
+   "entity": "Luideag",
+   "attribute": "a monstrous female lake spirit of Scottish lore"
+  }
+ ],
+ "entities": [
+  {
+   "entity": "Luideag",
+   "type": "Being"
+  },
+  {
+   "entity": "Isle of Skye",
+   "type": "Place"
+  }
+ ],
+ "sources": [
+  "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+ ],
+ "cyphertext": "I02-jQLAydwkweaRr61Pe5hgm8Nx_jUxHmm6G90tuZqYdKebQAnf2QVFn6K7C5ci_0EinmOICqHsN3p8PoIlm3ZUpARkcBPeL6Plznea4a1AmZZyk0Zm5KGytzr6NU9nkVhOR7-2MNruBMKoognxUFbq18IpgP7pbNp9MdpbC4_ZnCM4X2vjbs7ZPfpSI75kSwvWAXnQp4z-ibYvDS_usbpcJffaGlFEgtTeWQLKWnJBr3j0HQs=",
+ "salt": "o5_-FUEJMWSfruHEzNYK-w==",
+ "text": "The luideag is a female being of Scottish folklore. She haunted a lake on the Isle of Skye. She had a plain form and a quick temper. People kept away from the water because of her. She belongs to the larger body of Scottish water lore.",
+ "okr": {
+  "objective": "Describe the luideag of Scottish water lore.",
+  "key_results": [
+   "Name the luideag as a monstrous female lake spirit of Scotland",
+   "Put her home on the Isle of Skye",
+   "Note her great ugliness and short temper"
+  ],
+  "evidence": "Monaghan 2008, s.v. 'Luideag'."
+ }
 }
