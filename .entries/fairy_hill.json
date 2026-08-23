@@ -1,11 +1,38 @@
 {
-    "name": "fairy hill",
-    "attributes": {},
-    "entities": [],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+  "name": "fairy hill",
+  "attributes": [
+    {
+      "entity": "fairy hill",
+      "attribute": "a cross reference"
+    },
+    {
+      "entity": "Fairy Mound",
+      "attribute": "the entry signposted"
+    }
+  ],
+  "entities": [
+    {
+      "entity": "fairy hill",
+      "type": "place"
+    },
+    {
+      "entity": "Fairy Mound",
+      "type": "location"
+    }
+  ],
+  "sources": [
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+  ],
+  "cyphertext": "dDk_4tYCCbwXmy77e3uBtI3q1MIKVFFOrMWMIrZifAdK-w71vItFYyrQQMNeXoS5NKqEEmJ7GAI=",
+  "salt": "ylBNhlSrylJ5jZxHQtCs_g==",
+  "text": "Fairy hill is a cross reference. It points to the FAIRY MOUND entry.",
+  "okr": {
+    "objective": "Fairy hill sends the reader to the Fairy Mound entry.",
+    "key_results": [
+      "A fairy hill is a cross reference.",
+      "It points the reader to the Fairy Mound entry.",
+      "The source gives no further detail at this heading."
     ],
-    "cyphertext": "dDk_4tYCCbwXmy77e3uBtI3q1MIKVFFOrMWMIrZifAdK-w71vItFYyrQQMNeXoS5NKqEEmJ7GAI=",
-    "salt": "ylBNhlSrylJ5jZxHQtCs_g==",
-    "text": "fairy hill See Fairy Mound."
+    "evidence": "Monaghan, Encyclopedia of Celtic Mythology and Folklore"
+  }
 }

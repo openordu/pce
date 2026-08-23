@@ -1,69 +1,59 @@
 {
-    "name": "fairy islands",
-    "attributes": [
-        {
-            "entity": "fairy islands",
-            "attribute": "typical location for the Otherworld or Fairyland"
-        },
-        {
-            "entity": "fairy island",
-            "attribute": "appeared every seven years to the southwest of Rathlin O\u2019Birne island"
-        },
-        {
-            "entity": "live embers",
-            "attribute": "used to bring the fairy island into this world"
-        }
+  "name": "fairy islands",
+  "attributes": [
+    {
+      "entity": "fairy islands",
+      "attribute": "enchanted isles in the west"
+    },
+    {
+      "entity": "fairy islands",
+      "attribute": "drift between places and times"
+    },
+    {
+      "entity": "Rathlin O'Birne",
+      "attribute": "an island in Donegal"
+    },
+    {
+      "entity": "fairy islands",
+      "attribute": "settled by landing embers"
+    }
+  ],
+  "entities": [
+    {
+      "entity": "fairy islands",
+      "type": "concept"
+    },
+    {
+      "entity": "Otherworld",
+      "type": "location"
+    },
+    {
+      "entity": "Ireland",
+      "type": "place"
+    },
+    {
+      "entity": "Rathlin O'Birne",
+      "type": "place"
+    },
+    {
+      "entity": "Donegal",
+      "type": "place"
+    }
+  ],
+  "sources": [
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+  ],
+  "cyphertext": "PyCqMjF447oBQF_nesh6DHl1K9VhTBdkJHJcKTtkF1-Ez03uEVebvT9kEJ8QrzjXmLG6L0wHZ5PNWx1dwNj-k12AASOlP7OxTkC_321_9G11t8EIdGoZa7nl7LvJjNvXSNzK-l0N28_2XPBXrM9wfI1u5p9dzEStsmiHG3ue8BELbGq8gnueZxObkThyWgsS_e5TLEV_Y8tVzCSZm1iE0AQ99Q17NuVstjWutJp9KcbCEVHPH8wuXSTclZ9_AN0hZpo2e3DAwSbO_YG0qwysREUOYu6emzJiHXqL9qhyMjiBmQjflV3IL6OM6qN0mTruY3BoNZqYLH71zQKJLPFQ53QX6qvoWMg50swFwsVMESnWss5Fg7p_9MVNXcQXwMEnXxnjaB7cG5uNg3kLfmktrbjKdVUTy4C6bjr3P6Wy0Tyl7BtSdK70UAr--WOpGnDaXiNCge4gdTgiRd70qVdSUaKFo9BHWkyV8FR32yElhaI2KJmIZLwc2viP-6nL-6B074FiyIsS2EJIruYAI02tfj8WMVGm_Ppm_AtsS1Cvzs3nQ4eh35-S6W_Tpz5YYfj_6siGzvThmHREzdqzDCj7dcXqptff3C8eIbV6mEy968Vu4Vv42nJUyfqJKnoOw20XhCT7fJmNn-W56Fa-achl87PElxeYg5dOpn-qaGFHlX26JRRQfKsO_HvX",
+  "salt": "OmaTbcUHMMc77AVaiQiaww==",
+  "text": "Fairy islands form a folkloric motif. The western sea holds these enchanted isles, which often mark the Otherworld or Fairyland. These islands drift. They do not stay tied to one place or time. They surface at intervals onto different sites. One such island rose every seven years off Rathlin O'Birne, southwest of it, near the shore of Donegal. A person could settle that land and draw it fully into this world. One way was to land glowing embers on the island.",
+  "okr": {
+    "objective": "Fairy islands are enchanted isles of the Otherworld that drift in the west.",
+    "key_results": [
+      "Fairy islands drift and appear at different sites.",
+      "One such island surfaced near Rathlin O'Birne, off Donegal.",
+      "A person could draw the island into this world.",
+      "Live embers first had to be landed upon it."
     ],
-    "entities": [
-        {
-            "entity": "Folkloric motif",
-            "type": "Concept"
-        },
-        {
-            "entity": "Enchanted Islands",
-            "type": "Location"
-        },
-        {
-            "entity": "western ocean",
-            "type": "Location"
-        },
-        {
-            "entity": "Otherworld",
-            "type": "Concept"
-        },
-        {
-            "entity": "Fairyland",
-            "type": "Concept"
-        },
-        {
-            "entity": "islands",
-            "type": "Location"
-        },
-        {
-            "entity": "place",
-            "type": "Concept"
-        },
-        {
-            "entity": "time",
-            "type": "Concept"
-        },
-        {
-            "entity": "southwest",
-            "type": "Location"
-        },
-        {
-            "entity": "Rathlin O\u2019Birne island",
-            "type": "Location"
-        },
-        {
-            "entity": "Co. Donegal",
-            "type": "Location"
-        }
-    ],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "cyphertext": "PyCqMjF447oBQF_nesh6DHl1K9VhTBdkJHJcKTtkF1-Ez03uEVebvT9kEJ8QrzjXmLG6L0wHZ5PNWx1dwNj-k12AASOlP7OxTkC_321_9G11t8EIdGoZa7nl7LvJjNvXSNzK-l0N28_2XPBXrM9wfI1u5p9dzEStsmiHG3ue8BELbGq8gnueZxObkThyWgsS_e5TLEV_Y8tVzCSZm1iE0AQ99Q17NuVstjWutJp9KcbCEVHPH8wuXSTclZ9_AN0hZpo2e3DAwSbO_YG0qwysREUOYu6emzJiHXqL9qhyMjiBmQjflV3IL6OM6qN0mTruY3BoNZqYLH71zQKJLPFQ53QX6qvoWMg50swFwsVMESnWss5Fg7p_9MVNXcQXwMEnXxnjaB7cG5uNg3kLfmktrbjKdVUTy4C6bjr3P6Wy0Tyl7BtSdK70UAr--WOpGnDaXiNCge4gdTgiRd70qVdSUaKFo9BHWkyV8FR32yElhaI2KJmIZLwc2viP-6nL-6B074FiyIsS2EJIruYAI02tfj8WMVGm_Ppm_AtsS1Cvzs3nQ4eh35-S6W_Tpz5YYfj_6siGzvThmHREzdqzDCj7dcXqptff3C8eIbV6mEy968Vu4Vv42nJUyfqJKnoOw20XhCT7fJmNn-W56Fa-achl87PElxeYg5dOpn-qaGFHlX26JRRQfKsO_HvX",
-    "salt": "OmaTbcUHMMc77AVaiQiaww==",
-    "text": "Enchanted Islands in the western ocean have been a folklore subject known as the fairy islands. They are commonly recognized as the location for the Otherworld or Fairyland. These islands were said to be drifting around, without being anchored to any particular place or time, but were seen at intervals and in different locations. Every seven years, a fairy island appeared to the southwest of Rathlin O\u2019Birne island, off the coast of Co. Donegal. It was believed that this land could be settled, brought into this world by landing live embers onto it."
+    "evidence": "Monaghan, Encyclopedia of Celtic Mythology and Folklore"
+  }
 }

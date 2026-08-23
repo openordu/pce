@@ -1,11 +1,38 @@
 {
-    "name": "fairy arrow",
-    "attributes": {},
-    "entities": [],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+  "name": "fairy arrow",
+  "attributes": [
+    {
+      "entity": "fairy arrow",
+      "attribute": "cross-reference term"
+    },
+    {
+      "entity": "fairy arrow",
+      "attribute": "directs readers to Fairy Dart"
+    }
+  ],
+  "entities": [
+    {
+      "entity": "fairy arrow",
+      "type": "concept"
+    },
+    {
+      "entity": "Fairy Dart",
+      "type": "concept"
+    }
+  ],
+  "sources": [
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+  ],
+  "cyphertext": "cH3Z0ZPkremaaXT0DiqQ7t-QlZ0iDQA0eYBND8NVm2F246Tc5rBPW0RnxnwjOtuGY6dDvmogDVQ=",
+  "salt": "mbStkkZbNk8AcLBvTiUw3Q==",
+  "text": "Fairy arrow is a cross-reference term in the index. It points a reader to the Fairy Dart entry. The source offers no separate detail at this heading.",
+  "okr": {
+    "objective": "Fairy arrow is an index cross-reference to Fairy Dart.",
+    "key_results": [
+      "Fairy arrow is a cross-reference term.",
+      "It directs readers to the Fairy Dart entry.",
+      "The source offers no further detail at this heading."
     ],
-    "cyphertext": "cH3Z0ZPkremaaXT0DiqQ7t-QlZ0iDQA0eYBND8NVm2F246Tc5rBPW0RnxnwjOtuGY6dDvmogDVQ=",
-    "salt": "mbStkkZbNk8AcLBvTiUw3Q==",
-    "text": "fairy arrow See Fairy Dart."
+    "evidence": "Monaghan, Encyclopedia of Celtic Mythology and Folklore"
+  }
 }

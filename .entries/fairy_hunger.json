@@ -1,15 +1,38 @@
 {
-    "name": "fairy hunger",
-    "attributes": {},
-    "entities": [
-        {
-            "text": "Hungry"
-        }
+  "name": "fairy hunger",
+  "attributes": [
+    {
+      "entity": "fairy hunger",
+      "attribute": "a cross reference"
+    },
+    {
+      "entity": "Hungry Grass",
+      "attribute": "the entry signposted"
+    }
+  ],
+  "entities": [
+    {
+      "entity": "fairy hunger",
+      "type": "concept"
+    },
+    {
+      "entity": "Hungry Grass",
+      "type": "concept"
+    }
+  ],
+  "sources": [
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+  ],
+  "cyphertext": "bW2EqvscFCiV4on98SEPhOnrftt4r3DzqDDghxK8_y38t-gNjkwVV0KXzTkqfLICnCkOSd4QDVyvO4M=",
+  "salt": "WSzPWLbrwUY8SMHe3DWKcA==",
+  "text": "Fairy hunger is a cross reference. It points to the HUNGRY GRASS entry.",
+  "okr": {
+    "objective": "Fairy hunger sends the reader to the Hungry Grass entry.",
+    "key_results": [
+      "A fairy hunger is a cross reference.",
+      "It points the reader to the Hungry Grass entry.",
+      "The source gives no further detail at this heading."
     ],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "cyphertext": "bW2EqvscFCiV4on98SEPhOnrftt4r3DzqDDghxK8_y38t-gNjkwVV0KXzTkqfLICnCkOSd4QDVyvO4M=",
-    "salt": "WSzPWLbrwUY8SMHe3DWKcA==",
-    "text": "fairy hunger See Hungry Grass."
+    "evidence": "Monaghan, Encyclopedia of Celtic Mythology and Folklore"
+  }
 }

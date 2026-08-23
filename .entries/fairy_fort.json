@@ -1,14 +1,41 @@
 {
-    "name": "fairy fort",
-    "attributes": {},
-    "entities": [],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+  "name": "fairy fort",
+  "attributes": [
+    {
+      "entity": "fairy fort",
+      "attribute": "a cross reference"
+    },
+    {
+      "entity": "Fairy Mound",
+      "attribute": "the entry signposted"
+    }
+  ],
+  "entities": [
+    {
+      "entity": "fairy fort",
+      "type": "place"
+    },
+    {
+      "entity": "Fairy Mound",
+      "type": "location"
+    }
+  ],
+  "sources": [
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+  ],
+  "image": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Fort_in_Knocknagranshy.jpg/1200px-Fort_in_Knocknagranshy.jpg"
+  ],
+  "cyphertext": "CT4w4kwdRTna5dpwlX6rZvE1H5lENcTA95l_xDt2TCa3VJNxt0RBKovHJL5ONddhav5f4x-wEPA=",
+  "salt": "jbbe6kVnKFEfodw7wiWw9w==",
+  "text": "Fairy fort is a cross reference. It points the reader to the FAIRY MOUND entry.",
+  "okr": {
+    "objective": "Fairy fort sends the reader to the Fairy Mound entry.",
+    "key_results": [
+      "A fairy fort is a cross reference.",
+      "It directs the reader on to the Fairy Mound entry.",
+      "The source gives no further detail at this heading."
     ],
-    "image": [
-        "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Fort_in_Knocknagranshy.jpg/1200px-Fort_in_Knocknagranshy.jpg"
-    ],
-    "cyphertext": "CT4w4kwdRTna5dpwlX6rZvE1H5lENcTA95l_xDt2TCa3VJNxt0RBKovHJL5ONddhav5f4x-wEPA=",
-    "salt": "jbbe6kVnKFEfodw7wiWw9w==",
-    "text": "fairy fort See Fairy Mound."
+    "evidence": "Monaghan, Encyclopedia of Celtic Mythology and Folklore"
+  }
 }
