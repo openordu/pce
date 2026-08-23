@@ -1,18 +1,41 @@
 {
-    "name": "La Belle Dame sans Merci",
-    "attributes": {},
-    "entities": [
-        {
-            "text": "La Belle Dame"
-        }
-    ],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "image": [
-        "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/John_William_Waterhouse_-_La_Belle_Dame_sans_Merci_%281893%29.jpg/1200px-John_William_Waterhouse_-_La_Belle_Dame_sans_Merci_%281893%29.jpg"
-    ],
-    "cyphertext": "3VeSGNVSVxdPCCH4tOngHEUEHJ0UofqcqkaoK-8hzOziznWO5GMwrKoiQ3Y_5AYfu4s4gYWNF3pYmye3bVL8vo_JUj5lDQ==",
-    "salt": "IejkEtbJavw2Wa8tXnvgwQ==",
-    "text": "La Belle Dame sans Merci See Fairy Lover."
+ "name": "La Belle Dame sans Merci",
+ "attributes": [
+  {
+   "entity": "La Belle Dame sans Merci",
+   "attribute": "a name meaning the beautiful lady without mercy"
+  },
+  {
+   "entity": "La Belle Dame sans Merci",
+   "attribute": "a cross reference to the Fairy Lover entry"
+  }
+ ],
+ "entities": [
+  {
+   "entity": "La Belle Dame sans Merci",
+   "type": "Being"
+  },
+  {
+   "entity": "Fairy Lover",
+   "type": "Concept"
+  }
+ ],
+ "sources": [
+  "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+ ],
+ "image": [
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/John_William_Waterhouse_-_La_Belle_Dame_sans_Merci_%281893%29.jpg/1200px-John_William_Waterhouse_-_La_Belle_Dame_sans_Merci_%281893%29.jpg"
+ ],
+ "cyphertext": "3VeSGNVSVxdPCCH4tOngHEUEHJ0UofqcqkaoK-8hzOziznWO5GMwrKoiQ3Y_5AYfu4s4gYWNF3pYmye3bVL8vo_JUj5lDQ==",
+ "salt": "IejkEtbJavw2Wa8tXnvgwQ==",
+ "text": "La Belle Dame sans Merci is a title in the story of the knight and the queen. The source prints it only as a cross reference. It sends the reader to the Fairy Lover entry, where the full account is told. The name means the beautiful lady who shows no mercy.",
+ "okr": {
+  "objective": "Explain the title La Belle Dame sans Merci as the source prints it.",
+  "key_results": [
+   "The source spells the title La Belle Dame sans Merci.",
+   "The name means the beautiful lady who shows no mercy.",
+   "The source sends the reader to the Fairy Lover entry."
+  ],
+  "evidence": "Monaghan 2008, s.v. La Belle Dame sans Merci."
+ }
 }

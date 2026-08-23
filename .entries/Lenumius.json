@@ -1,33 +1,39 @@
 {
-    "name": "Lenumius",
-    "attributes": [
-        {
-            "entity": "Lenumius",
-            "attribute": "known from some inscriptions"
-        },
-        {
-            "entity": "Mars",
-            "attribute": "god of both war and agriculture"
-        }
-    ],
-    "entities": [
-        {
-            "entity": "Lenumius",
-            "type": "Continental Celtic god"
-        },
-        {
-            "entity": "Romans",
-            "type": "civilization"
-        },
-        {
-            "entity": "Mars",
-            "type": "Roman god"
-        }
-    ],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "cyphertext": "QPgEQ5pi2N0dV5U25rg7_J0VvjNHKpZeIWfzO3UgkJFmlXv-w64cVtLG-p0Q1V30dLOCvc6_YCwMWEsDUWh_b8ifx3lfPgnymoA5KqVQzhwR2sh6Iv5lqi3o6ErDb59YgofGH3TAqy50pJMsZUaKLJO1w2W_pL-2ERKSeGGrZl6YFeGfN0eRp9G7q__nZewZuC6TzuEI-3tFMlBjUt9BU4F8YM5eDvMUOTYmrukbZW8NZyoDhzIBjsmGcWwsD-E15s-TRs8FAfiDs6IfAuutcf1_zfld6ot3l_0OtYfjy5ut",
-    "salt": "RwOU8c_EXNoe5QXL8nuoMg==",
-    "text": "Continental Celtic deity Lenumius was linked by the Romans with the god of both agriculture and war, Mars. Although some inscriptions reference Lenumius, further information on this god is scarce."
+ "name": "Lenumius",
+ "attributes": [
+  {
+   "entity": "Lenumius",
+   "attribute": "a Celtic god of war and the field"
+  },
+  {
+   "entity": "Lenumius",
+   "attribute": "drawn to the Roman god Mars"
+  }
+ ],
+ "entities": [
+  {
+   "entity": "Lenumius",
+   "type": "Deity"
+  },
+  {
+   "entity": "Mars",
+   "type": "Deity"
+  }
+ ],
+ "sources": [
+  "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+ ],
+ "cyphertext": "QPgEQ5pi2N0dV5U25rg7_J0VvjNHKpZeIWfzO3UgkJFmlXv-w64cVtLG-p0Q1V30dLOCvc6_YCwMWEsDUWh_b8ifx3lfPgnymoA5KqVQzhwR2sh6Iv5lqi3o6ErDb59YgofGH3TAqy50pJMsZUaKLJO1w2W_pL-2ERKSeGGrZl6YFeGfN0eRp9G7q__nZewZuC6TzuEI-3tFMlBjUt9BU4F8YM5eDvMUOTYmrukbZW8NZyoDhzIBjsmGcWwsD-E15s-TRs8FAfiDs6IfAuutcf1_zfld6ot3l_0OtYfjy5ut",
+ "salt": "RwOU8c_EXNoe5QXL8nuoMg==",
+ "text": "Lenumius was a Continental Celtic god. The Romans equated him with Mars, who governed war and the fields. We know his name from a few inscriptions, and from these we have little else about him.",
+ "okr": {
+  "objective": "Record the god Lenumius.",
+  "key_results": [
+   "He was a Continental Celtic god.",
+   "The Romans equated him with Mars.",
+   "His name survives on a few inscriptions.",
+   "He ruled both war and the cultivation of the land."
+  ],
+  "evidence": "Monaghan 2008, s.v. Lenumius."
+ }
 }

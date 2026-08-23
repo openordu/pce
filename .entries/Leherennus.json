@@ -1,45 +1,43 @@
 {
-    "name": "Leherennus",
-    "attributes": [
-        {
-            "entity": "Leherennus",
-            "attribute": "pre-Celtic origin"
-        },
-        {
-            "entity": "Leherennus",
-            "attribute": "worshiped in the Pyrenees"
-        },
-        {
-            "entity": "Romans",
-            "attribute": "identified him with Mars"
-        }
-    ],
-    "entities": [
-        {
-            "entity": "Leherennus",
-            "type": "Continental Celtic god"
-        },
-        {
-            "entity": "southern France",
-            "type": "location"
-        },
-        {
-            "entity": "Pyrenees",
-            "type": "mountain range"
-        },
-        {
-            "entity": "Romans",
-            "type": "civilization"
-        },
-        {
-            "entity": "Mars",
-            "type": "warrior god"
-        }
-    ],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "cyphertext": "_h8YhYkT1o6H9SypuMEstieiR-DckFREW9FP8FqISNtAPWv0MXuiUZ0qPNDqqc4Tk4gs3t5bIPRzQCn7I3cXj9iW7J6rVk-xUQw5WCzXJ0cH59vzqzhdMUWbRqVDcE7mRb7VDX-fePJTTeA54THG5WF_xEGFoIFKh9ssjieDXXUHO1Wy05Uze9l2_SSqFgHIvVdP7fF0yllFkq25swWRFUg-6whqRGglIKFY_7S1HSshjcMIu-2ykhU0LRuZ61Mq1FJEso1VU8f9GObZlQhURW9qiFOQFllZDWEmNM_Wc47X4_8fyen-BRTYscU=",
-    "salt": "RJCi4ASJDXqECkaLS-XiHw==",
-    "text": "A deity from the Continental Celtic pantheon named Leherennus is thought to have originated prior to Celticism, and was venerated in the Southern French mountain range of the Pyrenees. In the Roman tradition, Leherennus was associated with Mars, the god of war."
+ "name": "Leherennus",
+ "attributes": [
+  {
+   "entity": "Leherennus",
+   "attribute": "held to be of old stock"
+  },
+  {
+   "entity": "Leherennus",
+   "attribute": "set over the high lands"
+  },
+  {
+   "entity": "Leherennus",
+   "attribute": "set beside the god Mars"
+  }
+ ],
+ "entities": [
+  {
+   "entity": "Leherennus",
+   "type": "Deity"
+  },
+  {
+   "entity": "Mars",
+   "type": "Deity"
+  }
+ ],
+ "sources": [
+  "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+ ],
+ "cyphertext": "_h8YhYkT1o6H9SypuMEstieiR-DckFREW9FP8FqISNtAPWv0MXuiUZ0qPNDqqc4Tk4gs3t5bIPRzQCn7I3cXj9iW7J6rVk-xUQw5WCzXJ0cH59vzqzhdMUWbRqVDcE7mRb7VDX-fePJTTeA54THG5WF_xEGFoIFKh9ssjieDXXUHO1Wy05Uze9l2_SSqFgHIvVdP7fF0yllFkq25swWRFUg-6whqRGglIKFY_7S1HSshjcMIu-2ykhU0LRuZ61Mq1FJEso1VU8f9GObZlQhURW9qiFOQFllZDWEmNM_Wc47X4_8fyen-BRTYscU=",
+ "salt": "RJCi4ASJDXqECkaLS-XiHw==",
+ "text": "Leherennus was a Celtic god of the mountains. Writers regard him as pre-Celtic in origin. He was worshiped in the high country of southern France, the Pyrenees. The Romans identified him with their god of war, Mars.",
+ "okr": {
+  "objective": "Record the god of the high lands.",
+  "key_results": [
+   "He was a Celtic god of the mountain country.",
+   "He is regarded as pre-Celtic in origin.",
+   "His worship stood in the Pyrenees of southern France.",
+   "The Romans set him beside their war god Mars."
+  ],
+  "evidence": "Monaghan 2008, s.v. Leherennus."
+ }
 }
