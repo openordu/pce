@@ -1,15 +1,51 @@
 {
-    "name": "sow",
-    "attributes": {},
-    "entities": [
-        {
-            "text": "Pig"
-        }
-    ],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "cyphertext": "6maITCRHEKmzdvdFrQ_lbQC7HTvLSrj_jmYAiKJETjHUwoQc5MiiAMU=",
-    "salt": "mnWQ5gcajZ0GbHUQnaXwpw==",
-    "text": "sow See Pig."
+  "name": "sow",
+  "attributes": [
+    {
+      "entity": "sow",
+      "attribute": "the pig of Celtic folk, a goall and a meat for the feast"
+    },
+    {
+      "entity": "Dagda",
+      "attribute": "kept ever-renewed pigs in the Otherworld"
+    },
+    {
+      "entity": "Caelchéis",
+      "attribute": "enchanted sow brought down by a harper's music"
+    }
+  ],
+  "entities": [
+    {
+      "entity": "sow",
+      "type": "Being"
+    },
+    {
+      "entity": "Dagda",
+      "type": "God"
+    },
+    {
+      "entity": "Caelchéis",
+      "type": "Being"
+    },
+    {
+      "entity": "MoccUS",
+      "type": "God"
+    },
+    {
+      "entity": "Arkan Sonney",
+      "type": "Being"
+    }
+  ],
+  "sources": [
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+  ],
+  "cyphertext": "6maITCRHEKmzdvdFrQ_lbQC7HTvLSrj_jmYAiKJETjHUwoQc5MiiAMU=",
+  "salt": "mnWQ5gcajZ0GbHUQnaXwpw==",
+  "text": "The sow is the mother pig of the old Celtic land. The pig fed the people, next in worth only to the cattle. In the tales the pig carries a magic of its own. The great god Dagda kept pigs in the Otherworld that could be eaten over and over. Each day the beast was whole again. The killer boar that slew the hero Diarmait roamed the wild as a changed man. The enchanted sow Caelchéis met her end at a harper's music. In Gaul the god MoccUS, the porker, stood for the same creature and was matched to Mercury for power. On the Isle of Man the Arkan Sonney, the lucky pig, promised good luck to whoever could catch it. Few ever did.",
+  "objective": "Rewrite the sow text in CSG-SME1000 sourced from Monaghan (pig).",
+  "key_results": [
+    "text holds a fresh CSG-SME1000 rewrite, not a copy of the machine prose",
+    "entities and attributes enriched and corrected for the kgraph"
+  ],
+  "evidence": "Monaghan 2003 (pig; Dagda; DIARMAIT Ua Duibne; Caelchéis; MOCCUS; Arkan Sonney)."
 }

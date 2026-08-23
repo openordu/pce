@@ -1,46 +1,48 @@
 {
-    "name": "solitary fairies",
-    "entities": [
-        {
-            "entity": "Fairies",
-            "type": "Folkloric figures"
-        },
-        {
-            "entity": "Irish",
-            "type": "Nationality"
-        },
-        {
-            "entity": "Scottish",
-            "type": "Nationality"
-        },
-        {
-            "entity": "Trooping Fairies",
-            "type": "Type of fairies"
-        },
-        {
-            "entity": "Leprechaun",
-            "type": "Solitary fairy"
-        },
-        {
-            "entity": "Cluricaune",
-            "type": "Solitary fairy"
-        }
-    ],
-    "attributes": [
-        {
-            "entity": "Leprechaun",
-            "attribute": "miserly fairy shoemaker who hid his wealth away"
-        },
-        {
-            "entity": "Cluricaune",
-            "attribute": "solitary fairy"
-        }
-    ],
-    "sources": [
-        "Briggs, Katernine M. An Encyclopedia of Fairies: Hobgoblins, Brownies, Bogies, and Other Supernatural Creatures. New York: Pantheon Books, 1976, 375\u2013376.",
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "cyphertext": "r8QU05ZpBAUzFkSfSlD0Yld5OncLQECRct2UXlJxXXWs-Iu-5LlQPCAHPiaN8ZTTR4fNbGm4bgXsOl0J7CNNJqWrjy8ucQIXLULEv21ZoD3CbJM6s_s_RFNCNP9uz5kZRpFRR1ItVAltfzGvq_V3AWoQNQriQzToSX6DnE79FfMrSDJKtRgLBVz8tMX9lOQPf-ep6_XyCVyMjAjxXZrBpPcIzjfZ_sKACghCTA7-CEJo3_2jZFPU0Aqrvsfc4Qp9osBNlo7gmXv3mpdMunHVwq7_a7b6r8CmwgRzK9NuLOweq5ByjIg-IAVJi8KBn4bxR1tLxNClH-sVhjzlOzgj2KKEmuUr-DtxO_8fvqHH9VCqQ1BoK1-hNyXQ8APvA6oBQ8gtwkax5da_Ko0X8ZpxWHa1GhWz37g4sXGSWTtgYAROPBntHz6yL_9JYXWhJHh54rjY6qMIPnV-PVe6-M-Tgh_3WWFX_XSCNPHgw3PY1ek03V3Xq5xu_ru0zURDZQQ_lDVXy6cTVR8rJvDaHRBkpgMOXp4DlBmSQSbG_sMtT9MsEOpomO4GykyHtncnmxRMiSvi0Urh4yoUduMDBL6V28U9nHdCnxMtPXzXFu2onmRzrXsEhW06eqRi5HujAlrVMLsKk8bvYPlNRolvRkH1L9tw4A1dxO1Whej1TOXE-Bk3r_RIh_f5Lp4QBtU-MJsrvFJAPMio0HsQA9gQs4n4dN-CxTj_f9Ewiu368Xvsj5BB9vrcHGVMncsR41MCzXtU1rRuHgvE99aotlJQP7o5rLzsjbHmXtNBD8kKrbJy80W-dcDSun5fFLmR6t_KFilG1t2Jpc0hSO3ysgpB",
-    "salt": "8tGDPK9NwndOMJWduMTm8g==",
-    "text": "Folkloric figures known as solitary fairies are found in both Irish and Scottish folklore. They were categorized into two types: Trooping Fairies, who enjoyed socializing and celebrating with their own kind, and the ill-natured solitary fairies who preferred to spend their time alone. The miserly Leprechaun, a fairy shoemaker famous for hoarding his wealth, was the most well-known solitary fairy, while the cautious Cluricaune was another."
+  "name": "solitary fairies",
+  "entities": [
+    {
+      "entity": "solitary fairies",
+      "type": "Group"
+    },
+    {
+      "entity": "trooping fairies",
+      "type": "Group"
+    },
+    {
+      "entity": "leprechaun",
+      "type": "Being"
+    },
+    {
+      "entity": "cluricaune",
+      "type": "Being"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "solitary fairies",
+      "attribute": "preferred their own company and were typically ill-natured"
+    },
+    {
+      "entity": "trooping fairies",
+      "attribute": "spent their time with their own kind, dancing and making merry"
+    },
+    {
+      "entity": "leprechaun",
+      "attribute": "miserly fairy shoemaker who hid his wealth away"
+    }
+  ],
+  "sources": [
+    "Briggs, Katernine M. An Encyclopedia of Fairies: Hobgoblins, Brownies, Bogies, and Other Supernatural Creatures. New York: Pantheon Books, 1976, 375–376.",
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+  ],
+  "cyphertext": "r8QU05ZpBAUzFkSfSlD0Yld5OncLQECRct2UXlJxXXWs-Iu-5LlQPCAHPiaN8ZTTR4fNbGm4bgXsOl0J7CNNJqWrjy8ucQIXLULEv21ZoD3CbJM6s_s_RFNCNP9uz5kZRpFRR1ItVAltfzGvq_V3AWoQNQriQzToSX6DnE79FfMrSDJKtRgLBVz8tMX9lOQPf-ep6_XyCVyMjAjxXZrBpPcIzjfZ_sKACghCTA7-CEJo3_2jZFPU0Aqrvsfc4Qp9osBNlo7gmXv3mpdMunHVwq7_a7b6r8CmwgRzK9NuLOweq5ByjIg-IAVJi8KBn4bxR1tLxNClH-sVhjzlOzgj2KKEmuUr-DtxO_8fvqHH9VCqQ1BoK1-hNyXQ8APvA6oBQ8gtwkax5da_Ko0X8ZpxWHa1GhWz37g4sXGSWTtgYAROPBntHz6yL_9JYXWhJHh54rjY6qMIPnV-PVe6-M-Tgh_3WWFX_XSCNPHgw3PY1ek03V3Xq5xu_ru0zURDZQQ_lDVXy6cTVR8rJvDaHRBkpgMOXp4DlBmSQSbG_sMtT9MsEOpomO4GykyHtncnmxRMiSvi0Urh4yoUduMDBL6V28U9nHdCnxMtPXzXFu2onmRzrXsEhW06eqRi5HujAlrVMLsKk8bvYPlNRolvRkH1L9tw4A1dxO1Whej1TOXE-Bk3r_RIh_f5Lp4QBtU-MJsrvFJAPMio0HsQA9gQs4n4dN-CxTj_f9Ewiu368Xvsj5BB9vrcHGVMncsR41MCzXtU1rRuHgvE99aotlJQP7o5rLzsjbHmXtNBD8kKrbJy80W-dcDSun5fFLmR6t_KFilG1t2Jpc0hSO3ysgpB",
+  "salt": "8tGDPK9NwndOMJWduMTm8g==",
+  "text": "Solitary fairies are one of the two kinds of fairy in Irish and Scottish folklore. The other kind is the trooping fairy. Trooping fairies spent their time with others of their own kind, dancing and making merry. Solitary fairies preferred their own company to that of others. They were often ill-natured. The most famous of the kind was the leprechaun, said to be a fairy shoemaker who hid his wealth. The leprechaun kept his store of gold away from all. The cluricaune of the old tales was another figure of the solitary sort. The leprechaun made shoes in his own work, and the cluricaune kept watch near the drink of the house. Both figures stayed apart from the troop. The one who met them leaned in the earth the common caution that the lone fairy gave no help and asked for none from any traveler who crossed its way.",
+  "objective": "Replace the machine text for solitary fairies with a fresh CSG-SME1000 rewrite sourced from Monaghan.",
+  "key_results": [
+    "text holds a fresh CSG-SME1000 rewrite, not a copy of the machine prose",
+    "entities and attributes corrected and enriched for the kgraph"
+  ],
+  "evidence": "Monaghan 2003 (solitary fairies, p. 375; leprechaun)."
 }
