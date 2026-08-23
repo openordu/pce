@@ -1,9 +1,19 @@
 {
     "name": "weasel",
-    "attributes": {},
+    "attributes": [
+        {
+            "entity": "weasel",
+            "attribute": "cross-referenced to the stoat heading"
+        }
+    ],
     "entities": [
         {
-            "text": "Stoat"
+            "entity": "weasel",
+            "type": "animal"
+        },
+        {
+            "entity": "stoat",
+            "type": "animal"
         }
     ],
     "sources": [
@@ -14,5 +24,14 @@
     ],
     "cyphertext": "kFJ1tMzhOce9GzqcPkpBz6fUBFz3lBZufoAB6NekzEIvMoqpjycncXfN5SR86A==",
     "salt": "1eDCgzagyL3ERJ_2Sfx3_A==",
-    "text": "weasel See Stoat."
+    "text": "The weasel entry is a cross-reference. It directs the reader to the entry for the stoat. The source gives no further detail at this heading.",
+    "okr": {
+        "objective": "The weasel heading points the reader to the stoat.",
+        "key_results": [
+            "The entry lists the weasel as a cross-reference.",
+            "It directs the reader to the stoat.",
+            "The source offers no separate detail on the weasel."
+        ],
+        "evidence": "Monaghan, Encyclopedia of Celtic Mythology and Folklore"
+    }
 }

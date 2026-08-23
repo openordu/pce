@@ -3,49 +3,49 @@
   "attributes": [
     {
       "entity": "Áeb",
-      "attribute": "birth mother of the Children of Lir"
+      "attribute": "is the birth mother of the Children of Lir"
     },
     {
       "entity": "Áeb",
-      "attribute": "daughter of Bodb Derg"
+      "attribute": "is the daughter of the magician Bodb Derg"
     },
     {
       "entity": "Áeb",
-      "attribute": "died giving birth to her second set of twins"
-    },
-    {
-      "entity": "Aífe",
-      "attribute": "childless fostersister of Áeb"
-    },
-    {
-      "entity": "Aífe",
-      "attribute": "laid the curse that turned the children into singing swans"
+      "attribute": "died giving birth to her second pair of twins"
     },
     {
       "entity": "Fionnuala",
-      "attribute": "replaced her mother after the children were bereaved"
+      "attribute": "stepped into her mother's place after the loss"
+    },
+    {
+      "entity": "Aífe",
+      "attribute": "cursed the children into singing swans"
     }
   ],
   "entities": [
     {
       "entity": "Áeb",
-      "type": "Irish heroine"
+      "type": "hero"
     },
     {
       "entity": "Children of Lir",
-      "type": "Irish legend"
+      "type": "event"
     },
     {
       "entity": "Bodb Derg",
-      "type": "magician"
+      "type": "mythological figure"
+    },
+    {
+      "entity": "Lir",
+      "type": "mythological figure"
     },
     {
       "entity": "Fionnuala",
-      "type": "Irish heroine"
+      "type": "hero"
     },
     {
       "entity": "Aífe",
-      "type": "fostersister"
+      "type": "mythological figure"
     }
   ],
   "sources": [
@@ -53,7 +53,7 @@
   ],
   "cyphertext": "ua_gPx0eCun3Jndv2Z1cqWGuBAw_CWee-AjIZ6deeafdsN8GHvoQmpmC-w1gHE3mMrNfI3MT1BHXghFzqzr-BT_dtTyE3ZbBIj4V3b0Dfz6uAcAfiIPzJrRTfO1eKYwouJJ2eQfyqeKn-TkbAU3pyhqBi-ECzLOVSlEZsHJ1_NE4sjkXGaHb8yw4Ckgfy5ns_YEgcn0o2R0RI4aCJMjNAAvdRdKFCmJgasFjubv7bnxuLdFuHB-OimqizE1P61ycp3-4Wla1vBOeUPiGNwqyqfQQhuC9lkY9zNYTKVA_N155-ly97moNWaecGnEbAvhacwxXp0nwlh60MsrfXSap7SIroLPxRNMl4nzJ_Mo-BVjIfv6SrrJl30bGesECsAlBsLuIFRM0jlTmElVuqNxQ50uuVqYueUk4bByiSPHj7QjRwW7MKg40MQ2txE392Ocaqn4qK2mvQq4DgxSpdRT7lkV5JvEtZSGD7IDAMyiaBoDbloKHyYt-eXNm2o1EoRIJfWl40P-npBiacElNSyy5YYPvEFT-8dh5JwY6B_RSAmL-3dNMo60MZcWJKxvC2CbgD1wYZ7epqePs575PQmJV0rYlSifjcPt1gpeTHfPTTTGFZ_qPEQvIhhAo6wdc4LBQLlh3rZCaVTNvjneX2jB9aTBXfzqOEYtvTdWXazzzb_hlWAt_zOp5NGpcgnoPzGjflrFgixfvNU6OK5FBmW-wPyhpe7LOT8jfxDQIGRmimcPzh3sbwst4bKpJO_6kfh0t7ZLIEQ==",
   "salt": "W93CvvrgJSSlXid0Kf9FTg==",
-  "text": "Áeb, also written Aebh or Aobh, is an Irish heroine. In the story of the Children of Lir, she is the birth mother of the fated children of the title. The Children of Lir is among the best known of Irish legends.\n\nÁeb was the daughter of Bodb Derg, a great magician. She was the wife of Lir, and the children of the title were born to them. She died giving birth to her second set of twins. Her only daughter, Fionnuala, is the heroine of the tale. Fionnuala replaced her mother after the children were bereaved. She gave the orphaned children the care their mother could no longer offer.\n\nÁeb's death brought her childless fostersister, Aífe, into Lir's household. Aífe was cruel. Her jealousy of the children grew until she laid a curse. The curse turned Áeb's children into singing swans. The children lived on in swan form for nine hundred years.\n\nThe account of Áeb is brief, but it sets the whole tragedy in motion. Her early death left the children without a protector. It opened the way for Aífe's malice to reach them. Fionnuala's loyalty becomes the counterweight to that cruelty. Through the long years of swan form, she stayed steadfast at their side.\n\nThe tale shows how a single loss can ripple through a family. Áeb's death is the pivot on which the whole story turns. Her memory endures in the loyalty of her daughter Fionnuala. The singing swans of the Children of Lir carry her name through Irish legend. She remains the quiet figure behind one of the great sorrows of Irish myth.",
+  "text": "Áeb, also written Aebh or Aobh, was a heroine of Irish legend. The tale of the Children of Lir names her as the mother who bore the doomed children. She was the daughter of the magician Bodb Derg. Her life ended as she brought her second pair of twins into the world. Her only daughter, Fionnuala, then stepped into her place. Fionnuala became the hero of the tale after the children lost their mother. The death of Áeb carried her childless foster-sister, Aífe, into Lir's household. Aífe worked a curse that changed the children into singing swans. ",
   "objective": "To record who Áeb was and how her death set in motion the tragedy of the Children of Lir.",
   "key_results": [
     "Áeb was the daughter of the magician Bodb Derg.",
@@ -62,5 +62,15 @@
     "Áeb's death brought her childless fostersister Aífe into Lir's household.",
     "Aífe cursed the children, turning them into singing swans."
   ],
-  "evidence": "In the story of the Children of Lir, Áeb is the birth mother of the fated children, and her death brought her childless fostersister Aífe into Lir's household."
+  "evidence": "In the story of the Children of Lir, Áeb is the birth mother of the fated children, and her death brought her childless fostersister Aífe into Lir's household.",
+  "okr": {
+    "objective": "Áeb is the Irish heroine whose death set the tragedy of the Children of Lir in motion.",
+    "key_results": [
+      "Áeb is the birth mother of the Children of Lir.",
+      "She is the daughter of the magician Bodb Derg.",
+      "She died bringing forth her second pair of twins.",
+      "Aífe cursed the children into singing swans."
+    ],
+    "evidence": "Monaghan, Encyclopedia of Celtic Mythology and Folklore"
+  }
 }

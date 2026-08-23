@@ -3,37 +3,37 @@
     "attributes": [
         {
             "entity": "water-leaper",
-            "attribute": "kind of giant toad"
+            "attribute": "a kind of giant leaping toad"
+        },
+        {
+            "entity": "llamhigyn y dwr",
+            "attribute": "the Welsh name for the water-leaper"
         },
         {
             "entity": "water-leaper",
-            "attribute": "hides in the water"
+            "attribute": "hides in the water until a man or beast passes"
         },
         {
             "entity": "water-leaper",
-            "attribute": "leaps out to grab prey"
-        },
-        {
-            "entity": "water-leaper",
-            "attribute": "drags prey underwater to eat it"
+            "attribute": "drags victims underwater to eat them"
         }
     ],
     "entities": [
         {
             "entity": "water-leaper",
-            "type": "folkloric figure"
+            "type": "mythological creature"
         },
         {
             "entity": "llamhigyn y dwr",
-            "type": "Welsh"
+            "type": "mythological creature"
         },
         {
             "entity": "Water Bull",
-            "type": "monster"
+            "type": "mythological creature"
         },
         {
             "entity": "Water Horse",
-            "type": "monster"
+            "type": "mythological creature"
         }
     ],
     "sources": [
@@ -41,5 +41,15 @@
     ],
     "cyphertext": "S-YnbDPMkwRf5nEKHZSt5UiKOq2PMfG6Z1IvtiZQJcM_xPgkxwJ27u47iP-mR7KED3yqzoyeDLcclR0bnzsgLtiG5njBhMsg8x5ZnnjRNyDfbYdU1hs_7xCTC6CaeyWbQB5oVE9XPyt7RR-yi8QCrBRNAu3UvZaujzQ_w839CmHnvr3RSzsAellxWhuzN3uKqL72wvKu-cv7Gb7UrjzRhAl_VyFMP2kJnwhE3s2niIoEuy6LrgB_R6GXgaQfpfN_08h7399cA5ziVcEYJPaBiJUlgACwmN4ra0w3SohI4vat4YlYRey87s8teAJYLa3IwfAM3KhHTEt-ApZ4u-WjV0IfYnW--ugv0Y8mg_3aUQstW9DxUFQbs-pCcKKSIm0c",
     "salt": "ixJkdP4R20B0SZvyjYI9bw==",
-    "text": "A water-dwelling creature known as the water-leaper, or llamhigyn y dwr in Welsh folklore, is said to have similar habits to that of the Water Bull and Water Horse. This monster, resembling a giant toad, would lay in wait in the water until it found a suitable target, whether it be a human or animal. It would then emerge from the water and seize its prey in order to devour it submerged beneath the surface."
+    "text": "The water-leaper is a monster of Welsh legend. Welsh people call it the llamhigyn y dwr. In habit it stands with the Water Bull and the Water Horse. The beast has the shape of a giant leaping toad. It lies well hidden in the water. When a man or a beast comes near, the monster leaps out. It grabs the prey with a sudden grip. Then it drags the victim below and eats the catch underwater.",
+    "okr": {
+        "objective": "The water-leaper is a Welsh creature that seizes its prey at the edge of the water.",
+        "key_results": [
+            "The llamhigyn y dwr is the Welsh name for the beast.",
+            "The water-leaper has the shape of a giant toad.",
+            "It hides in water until a man or animal passes near.",
+            "Then it leaps out and drags the victim below to eat the prey."
+        ],
+        "evidence": "Monaghan, Encyclopedia of Celtic Mythology and Folklore"
+    }
 }
