@@ -1,28 +1,53 @@
 {
-    "name": "Ladra",
-    "attributes": [
-        {
-            "entity": "figure",
-            "attribute": "same as Adra or a separate character"
-        }
-    ],
-    "entities": [
-        {
-            "entity": "Adra",
-            "type": "character"
-        },
-        {
-            "entity": "figure",
-            "type": "character"
-        }
-    ],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "image": [
-        "https://upload.wikimedia.org/wikipedia/commons/5/58/Ladra.jpg"
-    ],
-    "cyphertext": "M_lC2pFem0Jnc66ATtVsnXl_Ck90M-1EU5IEKcIL_8Hu-KSEHYd3GuAVMS-NysftjVKsqmt20SSkniymeMnP8Xa3V-Ni5hTolgy3MzzJ6Oj3MCC56rWTYV3uN5xXOcqmO3ywP_kPc8lmUKscYw0H0rz5JdIDLm_2FhNF7UW_sz15khD14tver_omN7OoGg44qC0IVdXxnouIl_XFaZg_4XtA7LYUu_5AW65SrUdPXbPWr1_AvSsRgIv63iJ1aa1tF2rl5Ls8lYzOpu2wQrGvB2Uw07vVZmvJxwrFsea59V0fInGJOL9dclQqAiT-UZmvWwxHk_gtM7zIfHOZdwajgU3uynYMMB-7sMPDHArwBNDc6qDowyDCMwaySLJnaNVExNmOFhGJ52RrEGbBW2BAZgXWzvIx7IQ0mXbGjrIVvXwVI1EYZMesRWHXHqUz1B5-5TdzfWWrPw7yz7Ii66UdKpVJ3G1r5HA7oIs89AfS_71F-3zmu0yZ5V-DDc1t7k-dys0Di5xjZFrO__9943quE80Ntks_r-b_3VNUEnbLYjr47JyaqdTiboFRjQEDz8aMWdDoWFK165U0UI8bZBd79zpz7AD62d2nxh5ZUdW5CDQWNsIMoZ4NkaV8P2tdf416IMIqaQHEKpbxBosC5Y7XS-pHc21UAJ3Ka9nJCOylXEYxUfaINeHaOl9htbkBW2oDXENbKGghCTRmIFG-MCH0aLPUtg7TVxofhBm0hX_F3_ldCrlxugMkU_vlirT8KYL7Dv5m8WV-meeNER2dlWsIM9xf1LORRAwDSsDH-BnYGMz7PG8i74qlGmEMuKkkURZvTZi-D2hkQ1nP",
-    "salt": "yv4QXdVDephGwBRkLcklPQ==",
-    "text": "An Irish hero named Ladra (Adra) appears in the Book Of Invasions, which describes the earliest arrivals in Ireland. One of the first was Cesair and her 50 handmaidens accompanied by only three men, including the ship's pilot and Cesair's brother, Ladra. After safely landing in Ireland, Ladra demanded more territory than Cesair was willing to give, leading him to depart to establish his own kingdom. He tragically died while trying to satisfy the numerous women who had accompanied him on this journey, or possibly from an oar that had penetrated his buttocks. It remains unclear from various texts whether Ladra is the same figure as Adra, or if they are separate characters."
+ "name": "Ladra",
+ "attributes": [
+  {
+   "entity": "Ladra",
+   "attribute": "ship's pilot and brother of Cesair"
+  },
+  {
+   "entity": "Cesair",
+   "attribute": "leader who arrived with fifty handmaidens and three men"
+  },
+  {
+   "entity": "Ladra",
+   "attribute": "died after demanding more territory"
+  }
+ ],
+ "entities": [
+  {
+   "entity": "Ladra",
+   "type": "Person"
+  },
+  {
+   "entity": "Book of Invasions",
+   "type": "Artifact"
+  },
+  {
+   "entity": "Cesair",
+   "type": "Person"
+  },
+  {
+   "entity": "Adra",
+   "type": "Person"
+  }
+ ],
+ "sources": [
+  "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+ ],
+ "image": [
+  "https://upload.wikimedia.org/wikipedia/commons/5/58/Ladra.jpg"
+ ],
+ "cyphertext": "M_lC2pFem0Jnc66ATtVsnXl_Ck90M-1EU5IEKcIL_8Hu-KSEHYd3GuAVMS-NysftjVKsqmt20SSkniymeMnP8Xa3V-Ni5hTolgy3MzzJ6Oj3MCC56rWTYV3uN5xXOcqmO3ywP_kPc8lmUKscYw0H0rz5JdIDLm_2FhNF7UW_sz15khD14tver_omN7OoGg44qC0IVdXxnouIl_XFaZg_4XtA7LYUu_5AW65SrUdPXbPWr1_AvSsRgIv63iJ1aa1tF2rl5Ls8lYzOpu2wQrGvB2Uw07vVZmvJxwrFsea59V0fInGJOL9dclQqAiT-UZmvWwxHk_gtM7zIfHOZdwajgU3uynYMMB-7sMPDHArwBNDc6qDowyDCMwaySLJnaNVExNmOFhGJ52RrEGbBW2BAZgXWzvIx7IQ0mXbGjrIVvXwVI1EYZMesRWHXHqUz1B5-5TdzfWWrPw7yz7Ii66UdKpVJ3G1r5HA7oIs89AfS_71F-3zmu0yZ5V-DDc1t7k-dys0Di5xjZFrO__9943quE80Ntks_r-b_3VNUEnbLYjr47JyaqdTiboFRjQEDz8aMWdDoWFK165U0UI8bZBd79zpz7AD62d2nxh5ZUdW5CDQWNsIMoZ4NkaV8P2tdf416IMIqaQHEKpbxBosC5Y7XS-pHc21UAJ3Ka9nJCOylXEYxUfaINeHaOl9htbkBW2oDXENbKGghCTRmIFG-MCH0aLPUtg7TVxofhBm0hX_F3_ldCrlxugMkU_vlirT8KYL7Dv5m8WV-meeNER2dlWsIM9xf1LORRAwDSsDH-BnYGMz7PG8i74qlGmEMuKkkURZvTZi-D2hkQ1nP",
+ "salt": "yv4QXdVDephGwBRkLcklPQ==",
+ "text": "Ladra was a hero in the Book of Invasions. He took part in one of the earliest arrivals in Ireland. The lady Cesair came with fifty handmaidens and only three men. Ladra, the ship's pilot and the brother of Cesair, was one of those men. Once the party reached land, he asked for more territory than Cesair would grant. He set out to found his own kingdom, but he died trying to satisfy the many women who had come with him. One text says an oar that pierced his body caused the death. It is unclear whether Ladra is the same figure as Adra or a separate character.",
+ "okr": {
+  "objective": "Record Ladra as one of the earliest arrivals in Ireland in the Book of Invasions.",
+  "key_results": [
+   "Name Ladra as the ship's pilot and brother of Cesair.",
+   "State his demand for more territory than Cesair would give.",
+   "Note the unclear identity with Adra."
+  ],
+  "evidence": "Monaghan, The Encyclopedia of Celtic Mythology and Folklore, 2003"
+ }
 }
