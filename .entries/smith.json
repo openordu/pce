@@ -1,81 +1,47 @@
 {
-    "name": "smith",
-    "attributes": [
-        {
-            "entity": "smith",
-            "attribute": "metalcraft"
-        },
-        {
-            "entity": "smith",
-            "attribute": "magic"
-        },
-        {
-            "entity": "smith",
-            "attribute": "alchemy"
-        },
-        {
-            "entity": "magical Cow",
-            "attribute": "abundance"
-        },
-        {
-            "entity": "Glas Ghaibhleann",
-            "attribute": "magical"
-        }
-    ],
-    "entities": [
-        {
-            "entity": "smith",
-            "type": "mythological figure"
-        },
-        {
-            "entity": "Celtic culture",
-            "type": "culture"
-        },
-        {
-            "entity": "metalcraft",
-            "type": "source of wealth"
-        },
-        {
-            "entity": "Celts",
-            "type": "people"
-        },
-        {
-            "entity": "Iron",
-            "type": "metal"
-        },
-        {
-            "entity": "Gold",
-            "type": "metal"
-        },
-        {
-            "entity": "ore",
-            "type": "material"
-        },
-        {
-            "entity": "useful objects",
-            "type": "object"
-        },
-        {
-            "entity": "ornamental objects",
-            "type": "object"
-        },
-        {
-            "entity": "Goibniu",
-            "type": "mythological figure"
-        },
-        {
-            "entity": "Govannon",
-            "type": "mythological figure"
-        },
-        {
-            "entity": "Irish folklore",
-            "type": "folklore"
-        }
-    ],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "cyphertext": "BxUBC1r8djcIaE7E073DNfh8g5s8SyisTEcbSmwgtzPCxcLFXJWEUOE-AKLxTZAvTx3VipWn9DmqK71t7nIR5yTAqgGAIw8lrpRh0nSQnol2el3HRbo2KICn-WDrTHRXRmcd5CafqIQiGYNI93FThKmIWl6tgCoDAx0gV9dc8W1tsNi50dX4GFpYq3ddf4LOKwB79WdqB5JhoL7ej8Doxje9JAmT8EZNtECCGxVieSo9qMTfcTgJU3MruuTV4wWXwWBupo38Af9u2s5-m2nO19tI9el8QbERJxHT76p5DQTtLN_KCFEatpUAkDVL1Kv22mS9rLNwOAV0aU8VWncxunYyPfn2bYMRkvqSD_K95nNMfW3IaQUNpbppDVZIdnvSgTshz3XFErVDDZE6hxhfhE_COPkezM72RHb9Z43Zj4iQ98jqvXuHCZnjopGkDOSX2nQgiMVzeCLpJhbSThu44GliyDzS1KdPcLkdhUfl108sC-cPlryoGhwto0n97JLFynRzyapNCEtIk1uevrmsc2CxSegJfYHed12rU6wnnaKHIFHcv22MkNyFd3mzyMYEczxnjbZvQQpU06bicdEc78Ccf9YsKN53bnUJ36Cisw_pLwD-nnpa_WHQtQTtaOaOv5XopzFG0MEml5X0MZib--o1VsvrFoQ=",
-    "salt": "zDq3Q6jxBHzOQUnTLMb3MQ==",
-    "text": "An individual named Smith is a prominent figure in both Irish and continental Celtic mythology. Metalcraft played a vital role in Celtic culture as it served as a primary source of wealth. The people who practiced smelting of metal, especially iron and gold, from ore and developing it into functional or decorative items were held in high regard, and were known as smiths. In mythology, smiths became associated with magic and alchemy. In Irish folklore, the smith is linked to the Glas Ghaibhleann, a magical cow that bestows abundance. Further, Goibniu and Govannon are commonly cited as the mythological smith deities."
+  "name": "smith",
+  "attributes": [
+    {
+      "entity": "smith",
+      "attribute": "worked metal into useful and ornamented objects"
+    },
+    {
+      "entity": "Goibniu",
+      "attribute": "the smith god of the Irish tales"
+    },
+    {
+      "entity": "Glas Ghaibhleann",
+      "attribute": "magical cow that gave a tale of the smith"
+    }
+  ],
+  "entities": [
+    {
+      "entity": "smith",
+      "type": "Role"
+    },
+    {
+      "entity": "Goibniu",
+      "type": "God"
+    },
+    {
+      "entity": "Govannon",
+      "type": "God"
+    },
+    {
+      "entity": "Glas Ghaibhleann",
+      "type": "Being"
+    }
+  ],
+  "sources": [
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+  ],
+  "cyphertext": "BxUBC1r8djcIaE7E073DNfh8g5s8SyisTEcbSmwgtzPCxcLFXJWEUOE-AKLxTZAvTx3VipWn9DmqK71t7nIR5yTAqgGAIw8lrpRh0nSQnol2el3HRbo2KICn-WDrTHRXRmcd5CafqIQiGYNI93FThKmIWl6tgCoDAx0gV9dc8W1tsNi50dX4GFpYq3ddf4LOKwB79WdqB5JhoL7ej8Doxje9JAmT8EZNtECCGxVieSo9qMTfcTgJU3MruuTV4wWXwWBupo38Af9u2s5-m2nO19tI9el8QbERJxHT76p5DQTtLN_KCFEatpUAkDVL1Kv22mS9rLNwOAV0aU8VWncxunYyPfn2bYMRkvqSD_K95nNMfW3IaQUNpbppDVZIdnvSgTshz3XFErVDDZE6hxhfhE_COPkezM72RHb9Z43Zj4iQ98jqvXuHCZnjopGkDOSX2nQgiMVzeCLpJhbSThu44GliyDzS1KdPcLkdhUfl108sC-cPlryoGhwto0n97JLFynRzyapNCEtIk1uevrmsc2CxSegJfYHed12rU6wnnaKHIFHcv22MkNyFd3mzyMYEczxnjbZvQQpU06bicdEc78Ccf9YsKN53bnUJ36Cisw_pLwD-nnpa_WHQtQTtaOaOv5XopzFG0MEml5X0MZib--o1VsvrFoQ=",
+  "salt": "zDq3Q6jxBHzOQUnTLMb3MQ==",
+  "text": "The smith is a figure of Irish and continental Celtic myth. From the start of the culture, the working of metal was one of the chief sources of its wealth. The smith melted the ore of iron and of gold and shaped it into the useful and the ornamented. The land held the smith in high regard. In the tales, the smith carried the power of magic and of the alchemist. The Irish god Goibniu and the Welsh Govannon both stand for this craft. The story links the smith with the magical cow of the bounty, the Glas Ghaibhleann. So the smith, the maker of the tool, stands near the wealth of the land. The folk honored the smoke, the forge, and the hand that turned the ore into the blade and the ring.",
+  "objective": "Replace the machine text for smith with a fresh CSG-SME1000 rewrite sourced from Monaghan.",
+  "key_results": [
+    "A fresh CSG-SME1000 rewrite holds in the text field",
+    "entities and attributes enriched and corrected for the kgraph"
+  ],
+  "evidence": "Monaghan 2003 (smith; Goibniu; Govannon; Glas Ghaibhnear)."
 }

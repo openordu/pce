@@ -1,15 +1,47 @@
 {
-    "name": "solar divinities",
-    "attributes": {},
-    "entities": [
-        {
-            "text": "Sun"
-        }
-    ],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "cyphertext": "zwcWhEplyJ9vXaEUh9MKUyvHDRDrRJZ3HPSn-9-kQjCMR3Ednkbr3fIifrzy49tykyMvyXs_",
-    "salt": "ZPnOsLuHnwPovJXFtez2Lw==",
-    "text": "solar divinities See Sun."
+  "name": "solar divinities",
+  "attributes": [
+    {
+      "entity": "sun",
+      "attribute": "kept open the old feminine word of the solar power"
+    },
+    {
+      "entity": "Sul",
+      "attribute": "whose name carries the sense of the sun"
+    },
+    {
+      "entity": "Lugh",
+      "attribute": "one figure the old scholars cast as a sun lord"
+    }
+  ],
+  "entities": [
+    {
+      "entity": "sun",
+      "type": "Concept"
+    },
+    {
+      "entity": "Lugh",
+      "type": "God"
+    },
+    {
+      "entity": "Sul",
+      "type": "Goddess"
+    },
+    {
+      "entity": "Beltane",
+      "type": "Festival"
+    }
+  ],
+  "sources": [
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+  ],
+  "cyphertext": "zwcWhEplyJ9vXaEUh9MKUyvHDRDrRJZ3HPSn-9-kQjCMR3Ednkbr3fIifrzy49tykyMvyXs_",
+  "salt": "ZPnOsLuHnwPovJXFtez2Lw==",
+  "text": "Solar divinities are the gods and goddesses of the sun. The sun stands at the center of its world and it warms the earth. Old scholars set a sun behind many of the old gods. They tried to name one great lord of the sun. Some pointed to Lugh. Others chose the bright figure of Lugu of the texts. The recorded tales of the Celts do not name a single king of the sun. The old word for the bright circle is feminine in the Celtic languages. The name Sul carries the sense of the sun. The mother spirit of the hearth kept that word. The sun and the moon cross the sky together. The power of the light became the Beltane fires and the promise of the year. The warm circle was mother of the green growth and of the land that fed the people.",
+  "objective": "Remarks the machine text for solar divinities into a fresh CSG-SME1000 rewrite from Monad.",
+  "key_results": [
+    "A fresh CSG-SME1000 rewrite holds in the text field",
+    "entities and attributes enriched for the kgraph"
+  ],
+  "evidence": "Monaghan 2003 (sun entry, solar divinity note; Koch cross-ref on the female sun)."
 }
