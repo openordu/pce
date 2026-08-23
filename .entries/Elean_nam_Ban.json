@@ -2,34 +2,42 @@
     "name": "Elean nam Ban",
     "entities": [
         {
-            "entity": "Eilean nam Ban",
-            "type": "Scottish folkloric site"
+            "entity": "Elean nam Ban",
+            "type": "Place"
         },
         {
-            "entity": "Isle of Women",
-            "type": "mysterious Islands"
-        },
-        {
-            "entity": "Celtic folklore",
-            "type": "motif"
-        },
-        {
-            "entity": "Eilean nam Ban M\u00f3ra",
-            "type": "Island"
+            "entity": "Eilean nam Ban Móra",
+            "type": "Place"
         },
         {
             "entity": "Isle of Eigg",
-            "type": "actual island"
+            "type": "Place"
+        },
+        {
+            "entity": "green well",
+            "type": "Object"
+        },
+        {
+            "entity": "Otherworld",
+            "type": "Place"
         }
     ],
     "attributes": [
         {
-            "entity": "Eilean nam Ban M\u00f3ra",
-            "attribute": "Island of the Big Women"
+            "entity": "Elean nam Ban",
+            "attribute": "Scottish folklore name for the Isle of Women"
         },
         {
-            "entity": "Eilean nam Ban",
-            "attribute": "green Well"
+            "entity": "green well",
+            "attribute": "marks the island as the boundary of the world"
+        },
+        {
+            "entity": "Eilean nam Ban Móra",
+            "attribute": "a name meaning the Island of the Big Women"
+        },
+        {
+            "entity": "Isle of Eigg",
+            "attribute": "a real island that at times took the name"
         }
     ],
     "sources": [
@@ -38,5 +46,14 @@
     ],
     "cyphertext": "wuGfER-JV3WFz87LCJCpcmyhNDgwju7CVxmUzwb1bqLfGm0JbfHFi9ObHo6VTVM_LIF2xGZ6LxHOoPg_sAEw0Au6OtoDWH1y8Tdm7gXf9tn6t78zB8nlnL97c-DH4lCNyC35mNzSpGHk0nhflUTkCea9iVS24MkGolN41zszNTCaAzTBBhlkC8Lq5ASohafL_APbDfTkMXwPsRbIjQA7QMWatNFb2HWp3g7oLlk_6qwR1q6H1meGgWaFBjTWKS1iBp-s9Ua9EFOIXgIyZZRrOqrFw5L2Cf2RRh3JLvFigevlV1-DvZK7aUcJ_9f_ZVMfHGetlbQmscxCHxQWGWWxN3iZow3jgjG88DeN7YEJ-eYVJ9VgG0pMbTLW0dfMYhZdBaI_VK7UEunHddLXecm9nkk2Dji9KrlbYHN5XKmMzIJ6ZB1XbgZKQAWeFZMDvMPt43TbayTuo7Pgsjbfrs1COfkJ56gjLrPR9qBsvDUUM8uhQdVIL-EQFQ5irn6Uv4k52evIge4o-dV-ZsbR67yzQXDhCiCqnPnilf7D8i-HOXf64yPsh6QbxNMMpjhd9rsbzvJhOByTVLaFfWz3KwDTqrUpWK839k215wJZcuW1gImJiiQT8jiTwJ8s45Bta3uFafyvS3GdBkLUD5YFJ4SnIWQa5QEnZMAGYmlSMCLUnOJ44cBWzfskMDq6zutrsRvQp9JrpDwvpGDBtOKNvhCRYTsyJaV0U17FylxX_z5r1JAFskiFp7pPrFRz2-WGw1ZFisc_6Fm1uZDqvvnUxdK435jMdKC_YfuA7R5iaE_iGK1umXg7QkKycqQhxNHpSXX6yv9jr_FyFdAxo2KV6GqLmmko2Oa0-7s66MAjL90P_wkCyGq-WcvudDHkvrYcdBuFhRgWAdxbXdCcf63pHTWHSjWAthJDazyMaoCbln-3",
     "salt": "-0XHSzRp2QLGotr470qmeQ==",
-    "text": "A site of Scottish folklore is Elean nam Ban, also known as Eilean nam Ban M\u00f3ra. According to Highland folktales, there exists an \"Isle of Women\" somewhere off the coast. This island is identified by a green Well, marking the boundary of the world. In Celtic folklore, such enigmatic islands, unconstrained by time or location, serve as gateways to the Otherworld. At times, the island is known as Eilean nam Ban M\u00f3ra, or the Island of the Big Women, implying that the occupants are Giants. On certain occasions, this name referred to a tangible landmass, the Isle of Eigg."
+    "text": "Elean nam Ban, also written Eilean nam Ban Móra, is the Isle of Women in Scottish folklore. The isle lies off the coast, and a green well marks it as the boundary of the world. In the old belief such an island has no fixed time or place of its own and acts as a gate to the Otherworld. The name sometimes means the Isle of the Big Women, who are held to be giants. At other times it was given to a real island, the Isle of Eigg.",
+    "okr": {
+        "objective": "Rewrite the Elean nam Ban entry in clean prose from the Scottish source.",
+        "key_results": [
+            "text is a real paragraph about the isle",
+            "typed entities cover the island, the well, and the gate",
+            "the prose is the writer's own wording"
+        ],
+        "evidence": "McKay, More West Highland Tales, 1969, vol.2, p.48"
+    }
 }

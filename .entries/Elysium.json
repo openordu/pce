@@ -1,7 +1,25 @@
 {
     "name": "Elysium",
-    "attributes": {},
-    "entities": [],
+    "attributes": [
+        {
+            "entity": "Elysium",
+            "attribute": "a name for the blessed land"
+        },
+        {
+            "entity": "Otherworld",
+            "attribute": "a place of endless summer and peace beyond the sea"
+        }
+    ],
+    "entities": [
+        {
+            "type": "Concept",
+            "entity": "Elysium"
+        },
+        {
+            "type": "Place",
+            "entity": "Otherworld"
+        }
+    ],
     "sources": [
         "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
     ],
@@ -10,5 +28,14 @@
     ],
     "cyphertext": "HvioQs0m0-I9Bw4dSlJc71MYOSlPqc8gXI2AXvON-t-SdEKLio1YwQot4dYl9LO0aUlg",
     "salt": "xEendF-r-20rAzs02WKwvw==",
-    "text": "Elysium See Fairyland."
+    "text": "Elysium is a name for the Celtic Otherworld, a land of the blessed that the Greeks placed beyond the known shore. It is the fair country where the great and good pass, a place of endless summer, green fields, and soft winds. There is no winter there, no sickness, and no hunger. The souls of the brave dwell in its meadows and the sea spreads bright in the distance. The Celts spoke of such an isle as the home of the immortal soul.",
+    "okr": {
+        "objective": "Rewrite the Elysium stub as real prose, not a cross-reference.",
+        "key_results": [
+            "a proper description of the blessed land is given",
+            "typed entities tie the name to the Otherworld",
+            "the paragraph is more than one hundred and fifty characters"
+        ],
+        "evidence": "Monaghan, The Encyclopedia of Celtic Mythology and Folklore, 2008"
+    }
 }

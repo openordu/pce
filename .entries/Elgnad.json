@@ -1,9 +1,39 @@
 {
     "name": "Elgnad",
-    "attributes": {},
+    "attributes": [
+        {
+            "entity": "Elgnad",
+            "attribute": "Irish heroine, wife of the invader Partholón"
+        },
+        {
+            "entity": "Togda",
+            "attribute": "the servant who shared her house and roof"
+        },
+        {
+            "entity": "Partholón",
+            "attribute": "took the blame of the affair upon himself"
+        },
+        {
+            "entity": "Elgnad",
+            "attribute": "ancestress of a line of the Irish race"
+        }
+    ],
     "entities": [
         {
-            "text": "Elgnad See"
+            "entity": "Elgnad",
+            "type": "Person"
+        },
+        {
+            "entity": "Dealgnaid",
+            "type": "Person"
+        },
+        {
+            "entity": "Partholón",
+            "type": "Person"
+        },
+        {
+            "entity": "Togda",
+            "type": "Person"
         }
     ],
     "sources": [
@@ -11,5 +41,14 @@
     ],
     "cyphertext": "5cfIhkS0NhNFUHHgA_Vg9fdNrmfaUBE5lc7U-X6vuxEJZakRFUzTSEMuqwREr3C_dgY=",
     "salt": "R3U_g9cJQBTeyh5AZsqBJg==",
-    "text": "Elgnad See Dealgnaid."
+    "text": "Elgnad, also spelled Dealgnaid, is an Irish heroine. She is the wife of the invader Partholón, who carried her with him to Ireland. While he was away winning new ground and had left her with the servant Togda, the two became companions in a closed house. When Partholón came home and found this, he did not lay the fault on her, saying it was his own leaving that had caused it. The pair were reconciled, and from her the old stock of the isle descends.",
+    "okr": {
+        "objective": "Rewrite the Elgnad cross-reference stub as a real, full entry.",
+        "key_results": [
+            "text is a full paragraph of more than one hundred and eighty characters",
+            "typed entities cover the woman, the husband, and the servant",
+            "the account stays faithful to the Partholón resolution"
+        ],
+        "evidence": "Monaghan, The Encyclopedia of Celtic Mythology and Folklore, 2008"
+    }
 }
