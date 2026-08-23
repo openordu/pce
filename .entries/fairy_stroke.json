@@ -1,41 +1,55 @@
 {
-    "name": "fairy stroke",
-    "entities": [
-        {
-            "entity": "fairy hand",
-            "type": "mythical creature body part"
-        },
-        {
-            "entity": "strongest man",
-            "type": "person"
-        },
-        {
-            "entity": "sites of legendary importance",
-            "type": "place"
-        },
-        {
-            "entity": "Fairy Mounds",
-            "type": "place"
-        }
+  "name": "fairy stroke",
+  "entities": [
+    {
+      "entity": "fairy stroke",
+      "type": "concept"
+    },
+    {
+      "entity": "fairy",
+      "type": "mythological creature"
+    },
+    {
+      "entity": "fairy tree",
+      "type": "concept"
+    },
+    {
+      "entity": "fairy ring",
+      "type": "concept"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "fairy stroke",
+      "attribute": "sudden paralysis taken as fairy punishment"
+    },
+    {
+      "entity": "fairy",
+      "attribute": "punished those who cut a fairy tree or grazed a ring"
+    },
+    {
+      "entity": "fairy hand",
+      "attribute": "could cripple the strongest person"
+    },
+    {
+      "entity": "fairy stroke",
+      "attribute": "greatly feared"
+    }
+  ],
+  "sources": [
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+  ],
+  "cyphertext": "Tmro89Qu_9Udy_sj_HbOGMugvyzFic7sjq01rtbUB-56lhAZBa88SLKObIu3fI30hZawXdT9X2O0Ad4gSLPjGVvY579W54d2GlM_2_Y-6URH0VBVrqQ4K1pfg5flLXgb8hMowGvgmnY9le0GP8Jc8PgGSGf0HoUjwF925fjFviv2iK3HcUaBAIGHawInGJNpNHtNSL_iYk-W5IOhGkB0mBWsbOLrm-yqU5rFexRJnAMu4hRds5BkQacYj1hKT4Omszwq4aobUsZ8VF_7w8-fBvV2uiBtQz9ly4LrOFA1uF4tp6NwRARa13S7t6LNO28N9OXYhET01-Z4_aIw7ilnqUOdeS_l6M8JCl7sn1XtuNNuwbjFLtNQ4mena3m4eSyoNRvQdMdDGm3cQZilfIgtxXfdMPpnntMTdcjBYVh8brgdwJr3vl5YPzDk1qdafiJOXPVDY1g9LobGxjkaxHon_s0blLZKloZQiTOuX70zuvfNdIg3QN-_N7JvOAtqHdPyn2NC4D3TyFsrii6-dOQSy31w8x78LkkHn4a5l7c7aYAWzkEhHYoTDYjKVXNLZsshNgiqBVub-vf_k1heoweQ-Tz28LVjAgDG5jNzBCPPLiOqqdyfNzXTdyfrsBV0DsACa_p7fwgRqujYmZhLgSXTgfG1Y-v9t8EQuNM5qCPspNGBYNPSlDf9sfvbZJFl_vrOcujK8jT2rzGqLqC4QGpTSWkjyXCAcq-vLfAorRvQ4lBU0j5YvJd3uAeFArP5F8KMFLLamDKSAOklsES-Mt-SSqh1nAAwXx6hYgdakdnp9QRFD5gntCYmmwW4LxTDNxHnmAheKxuyJi0LhDlDD8xAr337W_MAx42T1Kokv5NNjmxFzXBXTiYWePVBKJftY-ee1I-l5DTjXfdUAo65BezJYVLfS-NNbUM7aIkQ-A2p68pQSA322Q-pC33i6FNI9CacZSWZrRGOl27YmfL8Bp8JrSFBVPwAHXG13AtGf_AsM8y5qRTbmGLkAi1YXgtW",
+  "salt": "BgLHiqaZT-3V-lvdpLMuzg==",
+  "text": "Fairy stroke is a folkloric motif about sudden paralysis. We now know that a stroke comes from a break in the flow of blood to the brain. In the past people took it as a punishment for offending the fairies. A person who cut down a fairy tree, let cattle graze a fairy ring, or stole from the fairies could be struck. The touch of a fairy hand could cripple even the strongest person, and that power was greatly feared.",
+  "okr": {
+    "objective": "Fairy stroke is a folkloric motif of paralysis as punishment.",
+    "key_results": [
+      "A stroke was taken as punishment for offending the fairies.",
+      "Cutting a fairy tree could bring the stroke.",
+      "The touch of a fairy hand could cripple anyone.",
+      "The power of the fairy stroke was greatly feared."
     ],
-    "attributes": [
-        {
-            "entity": "fairy hand",
-            "attribute": "powerful enough to paralyze even the strongest man"
-        },
-        {
-            "entity": "sites of legendary importance",
-            "attribute": "protected for generations by this belief"
-        },
-        {
-            "entity": "Fairy Mounds",
-            "attribute": "protected for generations by this belief"
-        }
-    ],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "cyphertext": "Tmro89Qu_9Udy_sj_HbOGMugvyzFic7sjq01rtbUB-56lhAZBa88SLKObIu3fI30hZawXdT9X2O0Ad4gSLPjGVvY579W54d2GlM_2_Y-6URH0VBVrqQ4K1pfg5flLXgb8hMowGvgmnY9le0GP8Jc8PgGSGf0HoUjwF925fjFviv2iK3HcUaBAIGHawInGJNpNHtNSL_iYk-W5IOhGkB0mBWsbOLrm-yqU5rFexRJnAMu4hRds5BkQacYj1hKT4Omszwq4aobUsZ8VF_7w8-fBvV2uiBtQz9ly4LrOFA1uF4tp6NwRARa13S7t6LNO28N9OXYhET01-Z4_aIw7ilnqUOdeS_l6M8JCl7sn1XtuNNuwbjFLtNQ4mena3m4eSyoNRvQdMdDGm3cQZilfIgtxXfdMPpnntMTdcjBYVh8brgdwJr3vl5YPzDk1qdafiJOXPVDY1g9LobGxjkaxHon_s0blLZKloZQiTOuX70zuvfNdIg3QN-_N7JvOAtqHdPyn2NC4D3TyFsrii6-dOQSy31w8x78LkkHn4a5l7c7aYAWzkEhHYoTDYjKVXNLZsshNgiqBVub-vf_k1heoweQ-Tz28LVjAgDG5jNzBCPPLiOqqdyfNzXTdyfrsBV0DsACa_p7fwgRqujYmZhLgSXTgfG1Y-v9t8EQuNM5qCPspNGBYNPSlDf9sfvbZJFl_vrOcujK8jT2rzGqLqC4QGpTSWkjyXCAcq-vLfAorRvQ4lBU0j5YvJd3uAeFArP5F8KMFLLamDKSAOklsES-Mt-SSqh1nAAwXx6hYgdakdnp9QRFD5gntCYmmwW4LxTDNxHnmAheKxuyJi0LhDlDD8xAr337W_MAx42T1Kokv5NNjmxFzXBXTiYWePVBKJftY-ee1I-l5DTjXfdUAo65BezJYVLfS-NNbUM7aIkQ-A2p68pQSA322Q-pC33i6FNI9CacZSWZrRGOl27YmfL8Bp8JrSFBVPwAHXG13AtGf_AsM8y5qRTbmGLkAi1YXgtW",
-    "salt": "BgLHiqaZT-3V-lvdpLMuzg==",
-    "text": "One motif that commonly appears in folklore is the fairy stroke. Nowadays, if someone loses their control over a part of, or their entire body, we would say that they have suffered a stroke. However, in the past, people believed that full or partial paralysis was a form of punishment from the Fairies. It was thought that they could inflict punishment with just a touch. Offenses such as felling a Fairy Tree, allowing cattle to graze in a Fairy Ring, or even stealing something belonging to them could lead to Fairy retribution. The Fairy's stroke was said to be powerful enough to paralyze the strongest of individuals, and as such, people were fearful of it. This belief was so strong that many places of legendary significance, such as Fairy Mounds, were protected for generations due to the fear of punishment."
+    "evidence": "Monaghan, Encyclopedia of Celtic Mythology and Folklore"
+  }
 }

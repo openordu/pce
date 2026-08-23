@@ -1,11 +1,34 @@
 {
-    "name": "fenodyree",
-    "attributes": {},
-    "entities": [],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+  "name": "fenodyree",
+  "attributes": [
+    {
+      "entity": "fenodyree",
+      "attribute": "cross-reference to GLASTIG"
+    }
+  ],
+  "entities": [
+    {
+      "entity": "fenodyree",
+      "type": "being"
+    },
+    {
+      "entity": "GLASTIG",
+      "type": "being"
+    }
+  ],
+  "sources": [
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+  ],
+  "cyphertext": "HHnnYLIiW4AJjj2K-EEyVs_3nGVMnskqwazFS9RwEBcq-P6cec3Psi2BoqHWSJV7nU0_",
+  "salt": "N_OJsQuaEGKXiyXXXf709w==",
+  "text": "Fenodyree is a cross-reference. It directs the reader to the entry for GLASTIG.",
+  "okr": {
+    "objective": "Fenodyree directs the reader to the entry for GLASTIG.",
+    "key_results": [
+      "The source records fenodyree as a cross-reference.",
+      "It points to the entry for GLASTIG.",
+      "The source offers no further detail on the fenodyree."
     ],
-    "cyphertext": "HHnnYLIiW4AJjj2K-EEyVs_3nGVMnskqwazFS9RwEBcq-P6cec3Psi2BoqHWSJV7nU0_",
-    "salt": "N_OJsQuaEGKXiyXXXf709w==",
-    "text": "fenodyree See Glastig."
+    "evidence": "Monaghan, Encyclopedia of Celtic Mythology and Folklore"
+  }
 }

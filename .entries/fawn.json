@@ -1,14 +1,37 @@
 {
-    "name": "fawn",
-    "attributes": {},
-    "entities": [],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+  "name": "fawn",
+  "attributes": [
+    {
+      "entity": "fawn",
+      "attribute": "cross-reference to DEER"
+    }
+  ],
+  "entities": [
+    {
+      "entity": "fawn",
+      "type": "animal"
+    },
+    {
+      "entity": "DEER",
+      "type": "animal"
+    }
+  ],
+  "sources": [
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+  ],
+  "image": [
+    "https://upload.wikimedia.org/wikipedia/commons/6/67/Cervidae1.jpg"
+  ],
+  "cyphertext": "6Tl6E9XEPPDPhkth3IaY8eVxKo4iI6Mqxu8bWZwUFaK_HjNM59Qzbj_A3g==",
+  "salt": "JuPMoeBsa_D4XjMAHPvVKA==",
+  "text": "Fawn is a cross-reference. It directs the reader to the entry for DEER.",
+  "okr": {
+    "objective": "Fawn directs the reader to the entry for DEER.",
+    "key_results": [
+      "The source records fawn as a cross-reference.",
+      "It points to the entry for DEER.",
+      "The source offers no further detail on the fawn."
     ],
-    "image": [
-        "https://upload.wikimedia.org/wikipedia/commons/6/67/Cervidae1.jpg"
-    ],
-    "cyphertext": "6Tl6E9XEPPDPhkth3IaY8eVxKo4iI6Mqxu8bWZwUFaK_HjNM59Qzbj_A3g==",
-    "salt": "JuPMoeBsa_D4XjMAHPvVKA==",
-    "text": "fawn See Deer."
+    "evidence": "Monaghan, Encyclopedia of Celtic Mythology and Folklore"
+  }
 }

@@ -1,11 +1,34 @@
 {
-    "name": "ferrish",
-    "attributes": {},
-    "entities": [],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+  "name": "ferrish",
+  "attributes": [
+    {
+      "entity": "ferrish",
+      "attribute": "cross-reference to FAIRY"
+    }
+  ],
+  "entities": [
+    {
+      "entity": "ferrish",
+      "type": "being"
+    },
+    {
+      "entity": "FAIRY",
+      "type": "being"
+    }
+  ],
+  "sources": [
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+  ],
+  "cyphertext": "KPR6rC5HKaDNeqh5FmVDbL7y1OwcpgZL4vyFAseOf52bf-IeFAd2i1rEu7KIOcVNFB5cgSPRIUcXJLb-VaI=",
+  "salt": "RvUQG7-ygW13Psa3d49Pqg==",
+  "text": "Ferrish is a cross-reference. It directs the reader, under the Other Celtic heading, to the entry for FAIRY.",
+  "okr": {
+    "objective": "Ferrish directs the reader to the entry for FAIRY.",
+    "key_results": [
+      "The source records ferrish as a cross-reference.",
+      "It points to the entry for FAIRY.",
+      "The source offers no further detail on the ferrish."
     ],
-    "cyphertext": "KPR6rC5HKaDNeqh5FmVDbL7y1OwcpgZL4vyFAseOf52bf-IeFAd2i1rEu7KIOcVNFB5cgSPRIUcXJLb-VaI=",
-    "salt": "RvUQG7-ygW13Psa3d49Pqg==",
-    "text": "ferrish See Fairy (Other Celtic)."
+    "evidence": "Monaghan, Encyclopedia of Celtic Mythology and Folklore"
+  }
 }
