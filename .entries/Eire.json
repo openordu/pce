@@ -1,37 +1,54 @@
 {
- "name": "Eire",
- "attributes": [
-  {
-   "entity": "Eire",
-   "attribute": "another name for the land of Ireland, tied to Ériu"
-  }
- ],
- "entities": [
-  {
-   "entity": "Eire",
-   "type": "Place"
-  },
-  {
-   "entity": "Ériu",
-   "type": "Deity"
-  }
- ],
- "sources": [
-  "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
- ],
- "image": [
-  "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Ireland_from_space_edit.jpg/1200px-Ireland_from_space_edit.jpg"
- ],
- "cyphertext": "yxb2u3bMvsFql47p4fsZ3B9wvvf2Wi46or7sV2NX_VmuU8EeNFx7rFzWrYkkDhqPI94b1w==",
- "salt": "OIt30wng4FCdiK9Nvw2hBQ==",
- "text": "Eire is an old name for Ireland. The spelling Érie also occurs in the texts. It sends the reader to the goddess and to the longer entry for Ériu. See Ériu.",
- "okr": {
-  "objective": "Send the reader from the short name Eire to the fuller entry for Ériu.",
-  "key_results": [
-   "Eire is another name for the land of Ireland.",
-   "The old spelling Érie also occurs.",
-   "See the longer entry for Ériu."
+  "name": "Eire",
+  "attributes": [
+    {
+      "entity": "Eire",
+      "attribute": "an old name of Ireland"
+    },
+    {
+      "entity": "Eire",
+      "attribute": "comes from the goddess Eriu"
+    },
+    {
+      "entity": "Eire",
+      "attribute": "names both the land and the state"
+    }
   ],
-  "evidence": "Monaghan 2008, s.v. 'Eire'."
- }
+  "entities": [
+    {
+      "entity": "Eire",
+      "type": "place"
+    },
+    {
+      "entity": "Eriu",
+      "type": "deity"
+    },
+    {
+      "entity": "Ireland",
+      "type": "place"
+    },
+    {
+      "entity": "Milesians",
+      "type": "people"
+    }
+  ],
+  "sources": [
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.",
+    "Koch 2006, s.v. 'Eire (Ireland)'"
+  ],
+  "image": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Ireland_from_space_edit.jpg/1200px-Ireland_from_space_edit.jpg"
+  ],
+  "cyphertext": "yxb2u3bMvsFql47p4fsZ3B9wvvf2Wi46or7sV2NX_VmuU8EeNFx7rFzWrYkkDhqPI94b1w==",
+  "salt": "OIt30wng4FCdiK9Nvw2hBQ==",
+  "text": "Eire is one of the old names of Ireland. The modern Irish form of the name, Eire, comes down from the goddess Eriu, the woman who gave her name to the island in the tale of the coming of the Milesians. In the English of the present day the word still names the whole land of Ireland, and it also marks the state that took the name for itself. Ireland lies west of Britain and Scotland, across the Irish Sea and the North Channel. It is the home of the Irish people and of the Irish language. The island covers roughly 84,000 square kilometers. To the west, the land gives way to the Atlantic and to the great rivers and bogs of the west. The old goddess Eriu gave the island its name. In the same tale her sisters were also part of the new coming, and one of them took her own name for another part of the land. From this Eriu come the words Eire and Ireland in use in the modern age. Over the centuries the name was kept alive in the literature and in the learning of the world. The single word Eire, then, points both to a goddess and to the island that she names. As a place name it is a short form of the name of the land and of the state that holds the greater part of it.",
+  "okr": {
+    "objective": "Eire is the old name of Ireland, taken from the goddess Eriu.",
+    "key_results": [
+      "The goddess Eriu gave her name to the island.",
+      "Eire is a modern, usual spelling of that old name.",
+      "The word marks both the whole land and the Republic of Ireland."
+    ],
+    "evidence": "Koch 2006, s.v. 'Eire (Ireland)'."
+  }
 }

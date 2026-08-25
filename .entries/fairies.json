@@ -2,49 +2,70 @@
   "name": "fairies",
   "attributes": [
     {
-      "entity": "the cited book",
-      "attribute": "titled Fairies: Hobgoblins, Brownies, Bogies, and Other Supernatural Creatures"
+      "entity": "fairies",
+      "attribute": "supernatural beings of the Celtic world"
     },
     {
-      "entity": "the cited book",
-      "attribute": "published by Pantheon Books of New York in 1976"
+      "entity": "fairies",
+      "attribute": "dwell in a hidden world and keep their own time"
     },
     {
-      "entity": "the extract",
-      "attribute": "cites page 3 and offers no prose"
+      "entity": "fairies",
+      "attribute": "may help or harm the human household"
+    },
+    {
+      "entity": "fairies",
+      "attribute": "are tied to the hollow hills and to the dead"
+    },
+    {
+      "entity": "fair folk",
+      "attribute": "held back by iron, rowan, and a pierced stone"
     }
   ],
   "entities": [
     {
       "entity": "fairies",
+      "type": "being"
+    },
+    {
+      "entity": "the Good People",
+      "type": "group"
+    },
+    {
+      "entity": "the fairy mound",
+      "type": "place"
+    },
+    {
+      "entity": "changelings",
       "type": "concept"
     },
     {
-      "entity": "the cited book",
-      "type": "artifact"
+      "entity": "bean sí",
+      "type": "being"
     },
     {
-      "entity": "supernatural creatures",
+      "entity": "Otherworld",
       "type": "concept"
     }
   ],
   "sources": [
-    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.",
+    "Koch 2006, s.v. 'fairies'"
   ],
   "image": [
     "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/SophieAndersonTakethefairfaceofWoman.jpg/1200px-SophieAndersonTakethefairfaceofWoman.jpg"
   ],
   "cyphertext": "lZs5NCUabotpHavcDbebVQiCcFNkRXZi8UQgmK-zLTez61m9crb3ZAvGuqhgfxUZX6gSIuhn8zNRs9KN45105zV9Sr4MbevnRPMTv_V9hGAyY89r1R-Pcf5EQ33d4Qp-kuBJnPBS3qKcYRHMSdYtKjSfjJ78zHwlFZ2WxSw_OfjpKk0qT9XHLnVOGSFA5unX_VIgJykYagJIfqG5UHJ9fD_ty_tgOKLApb_rz_MBqhOATdbV_m4oBy0QcWuPNyJ1OWHdR8tzrQHGdOp-mkwyYoLyocKjvbTpYTq89nxxNLEPRfwJ7v542ByT46V0MZVDluPTDfcZWEZKXvpHFOr4ZU8hZ4UjfGHOnXOTZezgN7UMwxJsITy-b2xMfSJovX3o50qJEbxeWMeYYGbdHSmbOAL8D55k3RZxs8Vl0lFDMpQ2EIqHAPnkZYybzz9kseUPqHsyvCfeWN5QjIfNNLPvraDNjjvschiYNcpiKpg0sdCepBROF_bA4mTUgTChBbt_Hz_lC9CvD13FsfOQfo-BpZq7ab5FWhoQNTE6DPEf9d5M6IxSSPepY6BGeMWcIh9PHVoHn2sLjxxeFaxdKmBnoQwCNvXnRtMeuO49QS2DX95sPdObNYGMgAFX9-6ji_6_pQvTvErs8aC-YrAe_21VU-J88LWy71YduREcGaZruZEipSZjEYXbw0Ztzsq_FgSkAHs8jY2JQYg-20eOSw9zbOpxXT2a9XDlH41fKGVi93Rq2yBrGmvoYD7NAz__c_T4XbbTRHPJlAFsB6loJmMyr0dprQKvlnxUefJkvJUFy3o_9Hxs862e39ASiU2noSvuryKNlteFBGFb9rLrl4D0A_oH_p0nwJfqE7l30DqTK6Ov-u9aqB-hKx5te5u8-pKVj1w-ArgOzvfjLu6ehHvNpxl5DUFMu6Fm0_4CPOONdHTEs3sNgd6d94sQi6FezvfWr03QbeDfh_-XwJJbo8Ly1UVGdKabl1pvLY8scf0l5jIh6k_HQtCvEBdBBsekFv3Fg5soQWvTCv5o7HMqKyHwB90KSGPmD-42ANLVpYvW0oVvm4cOvv_B20wp3Pz05StIfIBv9W1W0ZDqXKneQ1G97gXW7r4VgLNKZ14u-WCYYS2hYXcgrTq9DbS1WNf5VfWXHhPJx6FN6SkNVSy0g9AT8BOPbZCohmt94F8JZWsf_zYNGJvXqVbWzyi9VAANK0MawYeVm01_ysEvqFveGQw3HHoguo7QF-zjIcSvoZETmtQXRBcD0wC7TE0Pz-Nh582n9onhq35ahVw3g4CR-HMPdwzbkHeI6VmAR0m-uNVkMaKgryrCgITiLhckND2WDjHbXkSIz--V25a3irn1AOlRM9iGKok_jRJ0RVM_zI6_qvvklJciGEc1FiUx4vbe_H9Mdrx0XeFuT1oTtQ9hNqZQ0XR2Mc9bQpCG3MlJg2wzzML4NVq2Pgk8Br9Q7FAlrxiiONKdI7wDCrH8AYa2N8nkDZLERHPeVJaSoJUL3X5uGkZiVaH1l7cewAUOav8xsLIWG-fKrUxJ3D6qAZg_svKKWQ46cuOeSqouoQlJ0E-h8I2cuVU84Cg37hE0fM1lTO5MuXt-54HW0e9xo_lkeE7A_OqOFC3y2qIntj8GzVPV3V5nqWjTRIrAvdvBnQmHLna6AMe0YVwdxYvw6J6jIMGgA3lVx_2GjSah4KbNmIMbLr6RwAUO9hgmyqZMmNjyKc2gqfhIcm381iQRBHs_ggzNoGvLzH1a2lnoW0jP56dZRdF3QQoax7BJ0x9cQV9uhAvKgScCnPvJQN9jSHBB-lbiwSMqStQZqJtgUtq5v8tXvcW4LILWYPNOolHMp2TrRTLC_FAZd77DzX4inOM1MIIKwYIFeZmjWk9Y2fE3iZ8vKxAt24CwN-u0qBd6ZxDwECNWYUSxTfvLjM6r0lHFJDRqAp6d3s88JPt9eFzFtoZQCudwEKgxks0JIZ-gCXro2RftQsQfbUm3luTznQGmB51knGwNzbacnqV2AkXezUzXNAD6YwXjHLq4uLFWejJLJ8eNbQMBH5EDFyls6E7L5-buHvFyMm9yyQbdnBKsN1xrq3lAmwcTXZrr1MXFCgrs27x7PT8zZkE5SJ7a_Pv_DebWBI-ui0KK4ihW3gm5pLIeqVmbUoQKxTixKxQAYFjpH0kiH5zPubAKpU1F4U8DsturoK9e5WnTMJGKj8kOH0ghVI_v8IgfCNXMDjS88TmvmkhPvgBlArSsdDjcnkx0lSUB6Ch-xxN2m4uxnFzVgcfFxG45qqf3KKaYh0c0VP2HWzZOF19HOGkeOLV-baSBm8-0A85HWztjMzTPnJGMEQCyGQYOUW5sjgZg7dbKkjyS0bxPs5EPJ47So76N9LPAO1MqyoLzk7C9HMGy4fQl4zJpEg7d4czEAp2l4maGh_MafbKSW27XMYOIsf7ewdFiIG5Hk7NVa1ckNpntlj_3Yl8zcAqqcJyzp0v_MH6lgX-K3IdIxyI9cdJ355XUAJ5osa5KERk-hinR_cOvnghd4IwZetnAXvan-BYBUE4Cdwd2hsbWxLVEq-SfvvIrftsWNbhVy5ePyIpTr34aqlFxv09qZoEdN9ao6_WjqHnXsZZRDJUWG-KszjD0egatqoKLpn9S289K0Zhvef9-y6WwQ5Qwiv5sTyTTFOSTPoOF2rA96JPa5DQJV8T0HAIbhJuLCWOSM3HXnA0lpIgV8kr_0Kcfpzc8jz8xYMoldU9yD2Q16G4RUrXzeZwGb1oh47PyAZ86MN370gfCJXMT6smq8vhaBgkx-lZoXQOKHdy9",
   "salt": "Y7IrE9s_FSksqhmK4wVOAQ==",
-  "text": "The fairies entry points to a book on supernatural creatures. The work surveys hobgoblins, brownies, bogies, and further supernatural beings. Pantheon Books of New York published it in 1976. The extract cites page 3 and offers no prose about fairies themselves.",
+  "text": "Fairies are the supernatural beings of the Celtic world whom folk tradition keeps apart from the human community. Their shapes and names change from one country to the next, yet the same ideas recur in the tales. They dwell in a hidden world of their own, they may help or harm humans, and they are close to the dead and to the earth. The old tales say much about who the fairies are. Some say they are the souls of the dead, held in a kind of waiting place and set apart from the living. Others hold that they are a separate people who once shared the land with humans and then drew away into the hollow hills. The tales of the fairy mound and of time spent within it are many. Fairies can help the household. They set the work of the house in order, they guard the cattle, and they reward the kind. But they have a dark side. A human who eats the fairy food or spends the night in their company may find years have gone by in a few hours. A chill or a faint may be blamed on a fairy stroke, and a sick child might have been taken by the fairies and another left in its place, a changeling. People guard against them with iron, with rowan and with a pierced stone. Green was their color, so some kept green from the clothing. They were spoken of with care, and warily, as the Good People or the fair family, lest the name itself bring their anger. Each country keeps its own fairy. In Ireland she is the bean sí and the sidhe of the hollow hills; in Scotland the same who haunts the loch and the hill; in Wales she is the fair family of the woodlands; and in Cornwall the little folk of the mines. All of them carry the same deep ideas of the fairy world and of the care humans must take with the Otherworld.",
   "okr": {
-    "objective": "The fairies entry records a 1976 book on supernatural creatures.",
+    "objective": "Fairies are the supernatural people of the Celtic folk tradition.",
     "key_results": [
-      "The cited source is the 1976 Pantheon study of supernatural creatures.",
-      "The title names hobgoblins, brownies, bogies, and other beings.",
-      "Pantheon Books of New York published the work in 1976.",
-      "The extract gives page 3 and no prose about fairies."
+      "They dwell in a hidden world and follow their own time.",
+      "They may help or harm the human household.",
+      "They are linked to the dead and to the hollow hills.",
+      "Each country keeps its own fairies, and all share the same core ideas."
     ],
-    "evidence": "Monaghan, Encyclopedia of Celtic Mythology and Folklore"
+    "evidence": "Koch 2006, s.v. 'fairies'."
   }
 }

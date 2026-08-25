@@ -1,71 +1,76 @@
 {
- "text": "The banshee is an Irish spirit of death. The name means the woman of the fairy people. Long ago she was a goddess of the land or of its sovereignty. When her glory faded, her role narrowed to a single task. She now warns that death draws near. She favors the old families of Ireland. Their names often begin with O or Mac. She appears as a hag or as a young woman. Red hair and white or green robes mark her as other. She wails and combs her hair with a golden comb. She warns of death from any cause. The Washer at the Ford warns only of a death in battle. A banshee can follow her own people when they travel. The banshee of the O'Gradys family went with them to Canada.",
- "entities": [
-  {
-   "entity": "banshee",
-   "type": "Being"
-  },
-  {
-   "entity": "Washer at the Ford",
-   "type": "Being"
-  },
-  {
-   "entity": "Aine",
-   "type": "Deity"
-  },
-  {
-   "entity": "O'Gradys",
-   "type": "Group"
-  },
-  {
-   "entity": "Canada",
-   "type": "Place"
-  }
- ],
- "attributes": [
-  {
-   "entity": "banshee",
-   "attribute": "Irish being whose name means woman of the fairy people"
-  },
-  {
-   "entity": "banshee",
-   "attribute": "once a goddess of the land or of sovereignty"
-  },
-  {
-   "entity": "banshee",
-   "attribute": "became a spirit who announced that death drew near"
-  },
-  {
-   "entity": "banshee",
-   "attribute": "linked to goddesses such as Aine"
-  },
-  {
-   "entity": "O'Gradys",
-   "attribute": "banshee followed the family to Canada"
-  }
- ],
- "okr": {
-  "objective": "The banshee is an Irish death spirit, a fallen land goddess who warns certain families when death is near.",
-  "key_results": [
-   "The banshee's name means the woman of the fairy people",
-   "She was once a goddess of the land or of sovereignty",
-   "She warns of death from any cause, unlike the Washer at the Ford",
-   "A banshee follows one family, and the O'Gradys' spirit went with them to Canada"
+  "text": "The banshee is an Irish being who announces that death is near. Her name comes from the Irish bean sí, an older ben síde, meaning a woman of the Otherworld. Long ago she was a goddess of the land and of sovereignty. Folk tradition narrowed her to one duty: she wails for a family that is about to lose one of its own. Her cry is her clearest sign. It is a keening or lament, plaintive and full of the grief of the kin and the community. In the south east the sound can also alarm and threaten. It comes at twilight, midnight, or dawn, and at the edge of a farm, a townland, a well, or a stream. It stays around the old family home and land, and is heard even when a kinsman breathes his last far from home. The cry tells of a death; it is the kin and the neighbours, not the dying person, who hear it. Once the cry is heard, death is taken as certain. People picture her as a small and old woman with long white hair. That image fits her place as the ancestor of the family she follows and her link with death. In the south east she can instead be a tall, beautiful young woman, like the women of the Otherworld in old Irish writing or the sí-bhean of 18th-century vision poetry. Behind her stands a line of old goddesses of the land. In the eighth-century tale Táin Bó Fraích, the women of the Otherworld cry out the death of the hero; at their head is his mother, the goddess Bé Find, sister of Bóand, who gave the Boyne its name. She is tied to the land-goddess line and to the very kingship of the territory. Her oldest shape is the washerwoman. The old war-goddess washes the blood-stained clothes of men who are doomed in battle. In later lore she still beats clothes in a stream the night before a fight.",
+  "entities": [
+    {
+      "entity": "banshee",
+      "type": "Being"
+    },
+    {
+      "entity": "bean sí",
+      "type": "Being"
+    },
+    {
+      "entity": "Bé Find",
+      "type": "Deity"
+    },
+    {
+      "entity": "Bóand",
+      "type": "Deity"
+    },
+    {
+      "entity": "the badb",
+      "type": "Deity"
+    },
+    {
+      "entity": "Otherworld",
+      "type": "concept"
+    }
   ],
-  "evidence": "Monaghan 2008, s.v. 'banshee'."
- },
- "image": [
-  "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Banshee.jpg/1200px-Banshee.jpg"
- ],
- "cyphertext": "3K4Mo154srVqwSxkQAzS1TqtDoZsczFGeTgK_hoLGxzqfBmu0uurVoLrJ3A667R-lXfrnTzw4eWqa8fRLQiBqdeNYxfCeUeuncYtmzfVH7BXAkj-FRBzqNu5Lsz0osClH4qTNlJZLeaoYImtARpG1y6YOh_9yEBvoPqMmmwOO2eBBWHej9EPkhHYMHmnKkAivMZMssEo_-F2LltxQfCSHNA2DP4dA3o4OUC_ePskSX_BsqKMSemWvPrsxi9Sj0MWvswZkL6DrAKjz_zd1tZ3zA3lc48j4r6dcWAL2GNXoEzmT76WXxE2FVpi6W5fZrui0BR6lORYersPhS9mkNJQ2kQG5f80OVHBhKFAZOdvoevDeaiSExsJUVnJiYdI-i3Y7wE97j7tlS7cpZ7QvRSrj1BwS9kZRwrZEvRwtaWI-ZnKawAkl5Sg1GG9WTIA_ehPg2o-VSJ6rsSAqRukhrnzPmJlWwLhdg8ifLWJZaf9LfjmOuLVfWXMhX5jwmFHmKGjNk1RWEpyugugqqc98dAISTsUWS72ZdHE1vrxNgQYY6bRwULb49cHWJKe5rxI3VCVu-NDkgRffZ9CV8RZLL9iTUKQ1acpfEWIJpW6MEPZL_d3jD2DIIhPPVsy2fGC1-UWxrduYxjoIaGrsQKIs-xW-sehgSUeb3I_iV2h8gDGWvj_ytPuAdpJnZyyYRfi-Zcuqjez9a4Wqyb9wzG7oMHvveQjHB0MA-lVbdNIVDPqQu8xjEgYRH9ZjIDrbPhuCGHRxGYd7ZYvt5Hw-L_gH_bmmYMA7cnbUG5x6Qw8TIBfF9eczC1w-Hrjs-LgWa_yOH7N0Y-ynDu92O7EXZ3FaiRvL1bV3K2vz2jz1Q0H3kyq_gfuese3T8dGOudyDEAybInnfn_m5MktVSDGh0x7H7vA8xH01NaWbM2CSSc6cDTcg1sQYl5dCCCZu4TBm0-zMpxk0LcNcwOMyL0V-ANeoYXrm8hVS1lKtVacCEnxqYxuFwN1uS0KCxaMh8cSyEiX0KVNk6sl2uvgjmgslgjxglrNOdilFpf1zo-y_piRW1YdcOjLAz8DROlSWvejbCq8zeHryzowtC99_pXlIPWtJdahm1jf1ENY19A5HM2JVxQtw_4qnRj6yTxBqXlCwwZ1HMMYkamG9ZFSh6QLNEhTyPbIJ6PpJtCBV4CaSBYRjREQMZEp2o6yjMwAetVek_3vPk20LKo5-0CaVbXKMgAZZ50o1eTbCyypdXrrjrRCBs-vkocErI0TBDWOPhQOveLARYtb2aNmOfC1a2CTir9CZ9YSr-60ogGA8fGouhMYeNclY-dzyIGkV0T1qav2Hv7z3hRFXiR83C67pYnlL_1e1lim0W6Ysfov3TKPcKi5buNLu1C_Ccka6AuIo2YHl94Hr3RMrn4TDg8C4MXZZZ1BLdlULtcdFGd_SiGMv8k3400BN0Pcnrq6muFDKMD49q4KAsRuMk6Nud6dksCp1sNwxKp5E06p1Ot31XfSW2PwFoFE_Z7BRsZOQzXNbcDtqI3iFxavQpxY2HI_vzZ8EHPRkz-GH4BOaKnkdYJoI-kGGRUJYQ06u6OmRW3qVddeeDh_uqQntT-UFAvdkza32O8Dy_PYzYDiUI6Ipzxpoz2EYSXy7a0khTUzm9bK1ZTH8kFn-bw7FHr3wQvLZNG2YK2rohpuxaxgyXQR8T5acs_0FI0V6EtZwb16z69ph_AhF2j_DRgmLUhMUFdK6dOOgrLFal48GA-3CSMugpTI_jiPUx0iKWHnnPm_v6xLbNThbKmFyOItQxJnbR3AFLuhSGMEG8lfSmOUWRDlbCRw5rq5ldbh3MkVm2GnxK9CkudkbksIuzxE1KG66XmgHslXA8M8dKDIFMWGIKfy3l1d1MrHzSlWyvb9GTMvGm5rGjL1AfW1HhCnizSKqfiJ16CqBMvxDGBY1-f3ph1R-Xxdyld8iuvcWu_Owekyh9sAaYrYzy90tzkYL6hEh4E8LgXbq7iM3D9g6v2IsGFgu4aN1jNAMurShLVTFuhcLyTdkfMh5ecn6O2JSO6EgO98IPlYgIKzS0oNwxcl3dXQipQ_zL3JaiWe8Xy60k_40dU9vEczzQFVD3lSrNrPvM-N39sANRUXIlokODtrkgQ11uf3QlsCrqgRWefMr38-a87wxog8L5tvzj0CH8b3wVJ2vSONBeQUSAF1Nl75b-Yto3hi52szXmVkQTQCeTHqg5boCIWKYvxHCM0baOiBtSzJl_JlCOLV7dyjlDtI_DiPeCHL8fz3jDHjTBUOdy94ZJnrtQ56-uGM4aLRuGNTE0vmGWiLolmCVvcEbV_Hs9LpUCo3Gx0SDBABwEyuz6zD0uGdMjKyIXaKk1gyRkhv_Iz5pDk9pS4zxEQHPJ6zr0RzJoxCQZfCVz04H-oGtZ4hxM3nGLXCcQNoTWX4D4JfPcwI97pnqWP-UTcT9JpufTJ-ShuMVQLfxX9d3pAdjJrf6vZU3ReDGgl9breTG1MPLPlC_TAqstEqe1MWlsr0HdD4QiXK60Uc5Vb_pbEkFtHY0_X5ElaP-aOsu7VfxESJ2CgkKwejq0aaO8fCNib6kj7FzSVEdUv_kcJN9N7iMuf4_nHGKQqoSfTjl-ffYeTZcKIsU7uLwCJT8l6yTgCbPCuEqe2e-_c8ZipJpoVm9hjjCyXv3xPN4Ul7j44s299k5tl3-vrliUyvME-mX-44q1ajoic_umuJ6apVJg1VYAhQ6Lxwtid_Ql04FwJlJa3MeTsowsvSYvIUKkWlg1SICVl-fhY7pSVt6b_nvPfZY0OBnSJfHhty18yLJkqiUIy6GDTjVXkXjVRCL8icJMNB4Ag7obFYBOL4WWvcsJ9xQ1KTFCCsXUmx9sFpolpNCJjI5hTqbZGTKItwrJ9-ohWzvQD7Rgn_A6CRzlyxoswxWxGpOP20pQNhF8FZcXjagK2qmdgmTH92YRqYdmv_oyzGwDVlqLWfY1nGgU3Hswr0S2aShJnv4ECNOTBFZ3A0Y1k8NkVITGVMFohdwTm4D1YIDqWmnhNt_LWkBHchQLquJwPd_fdq_RCkwx6qqjBw7IXDw-G89guauKcyKHlwvwkuXc9EGnYNxOpS8zoxZLUHpWAaJuV3DgG8W_zL6cMw-B4WPxxZuRJR5DZM41k7s_g-t1D4G-kbdqUhqr33_Y82rn61Xa_NuswqdSY-gHvNhzFR2Q09pOyhobPh5qW9VnfjNimCYafqyBidq7mvxSbx2nkCI1XQq2L_-lSIRL8sJQvVxXz1T03mnUTem5OSHD_TroA0dN184hgB5zS6x9OuEqqcnFGn7DEKoRLL62coTm_mKLUdRFSMhj0pk-4jMgDPC6j6nqUGOEMnrWqstgNtzQmLB1uMFWVKFk3Ibt_U-Smfon3AEeh1lyRx35EmgRWby2ECIu5ceDDxYiikNMRba9pvmBaHcZwZ9qg0fg4ejQmGqt8=",
- "salt": "Xv6-i54njhtqWSSeMi-8Tw==",
- "sources": [
-  "Croker, T. Crofton. Fairy Legends and Traditions of the South of Ireland. London: William Tegg, 1862, 110.",
-  "Delaney, Mary Murray. *Of Irish Ways.* (New York: Harper & Row, 1973), 170.",
-  "MacDougall, James. Folk Tales and Fairy Lore in Gaelic and English. Edinburgh: John Grant, 1910. Pp. 175-179.",
-  "Westropp, T. J. Folklore of Clare: A Folklore Survey of County Clare and County Clare FolkTales and Myths. Ennis, Co. Clare: Clasp Press, 2000, pp. 6–10.",
-  "Wilde, Lady. Ancient Legends, Mystic Charms and Superstitions of Ireland. London: Chatto and Windus, 1902, 136.",
-  "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
- ],
- "name": "banshee"
+  "attributes": [
+    {
+      "entity": "banshee",
+      "attribute": "a being of the land whose name means the woman of the fairy folk"
+    },
+    {
+      "entity": "banshee",
+      "attribute": "announces the death of a family member with a cry"
+    },
+    {
+      "entity": "banshee",
+      "attribute": "was once a goddess of the land and of sovereignty"
+    },
+    {
+      "entity": "banshee",
+      "attribute": "keeps the oldest shape of a washerwoman"
+    },
+    {
+      "entity": "banshee",
+      "attribute": "is tied to the women of the Otherworld and to the badb"
+    }
+  ],
+  "okr": {
+    "objective": "The banshee is the woman of the fairy folk who foretells death in Ireland.",
+    "key_results": [
+      "Her name, bean sí, means a woman of the Otherworld.",
+      "She reveals a death by a keening cry heard by kin and kinfolk.",
+      "Her cry comes at the boundary of farm, townland, well, or stream.",
+      "Behind her stands a land-goddess, and her oldest shape is the washer."
+    ],
+    "evidence": "Koch 2006, s.v. 'bean sí / banshee'."
+  },
+  "image": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Banshee.jpg/1200px-Banshee.jpg"
+  ],
+  "cyphertext": "3K4Mo154srVqwSxkQAzS1TqtDoZsczFGeTgK_hoLGxzqfBmu0uurVoLrJ3A667R-lXfrnTzw4eWqa8fRLQiBqdeNYxfCeUeuncYtmzfVH7BXAkj-FRBzqNu5Lsz0osClH4qTNlJZLeaoYImtARpG1y6YOh_9yEBvoPqMmmwOO2eBBWHej9EPkhHYMHmnKkAivMZMssEo_-F2LltxQfCSHNA2DP4dA3o4OUC_ePskSX_BsqKMSemWvPrsxi9Sj0MWvswZkL6DrAKjz_zd1tZ3zA3lc48j4r6dcWAL2GNXoEzmT76WXxE2FVpi6W5fZrui0BR6lORYersPhS9mkNJQ2kQG5f80OVHBhKFAZOdvoevDeaiSExsJUVnJiYdI-i3Y7wE97j7tlS7cpZ7QvRSrj1BwS9kZRwrZEvRwtaWI-ZnKawAkl5Sg1GG9WTIA_ehPg2o-VSJ6rsSAqRukhrnzPmJlWwLhdg8ifLWJZaf9LfjmOuLVfWXMhX5jwmFHmKGjNk1RWEpyugugqqc98dAISTsUWS72ZdHE1vrxNgQYY6bRwULb49cHWJKe5rxI3VCVu-NDkgRffZ9CV8RZLL9iTUKQ1acpfEWIJpW6MEPZL_d3jD2DIIhPPVsy2fGC1-UWxrduYxjoIaGrsQKIs-xW-sehgSUeb3I_iV2h8gDGWvj_ytPuAdpJnZyyYRfi-Zcuqjez9a4Wqyb9wzG7oMHvveQjHB0MA-lVbdNIVDPqQu8xjEgYRH9ZjIDrbPhuCGHRxGYd7ZYvt5Hw-L_gH_bmmYMA7cnbUG5x6Qw8TIBfF9eczC1w-Hrjs-LgWa_yOH7N0Y-ynDu92O7EXZ3FaiRvL1bV3K2vz2jz1Q0H3kyq_gfuese3T8dGOudyDEAybInnfn_m5MktVSDGh0x7H7vA8xH01NaWbM2CSSc6cDTcg1sQYl5dCCCZu4TBm0-zMpxk0LcNcwOMyL0V-ANeoYXrm8hVS1lKtVacCEnxqYxuFwN1uS0KCxaMh8cSyEiX0KVNk6sl2uvgjmgslgjxglrNOdilFpf1zo-y_piRW1YdcOjLAz8DROlSWvejbCq8zeHryzowtC99_pXlIPWtJdahm1jf1ENY19A5HM2JVxQtw_4qnRj6yTxBqXlCwwZ1HMMYkamG9ZFSh6QLNEhTyPbIJ6PpJtCBV4CaSBYRjREQMZEp2o6yjMwAetVek_3vPk20LKo5-0CaVbXKMgAZZ50o1eTbCyypdXrrjrRCBs-vkocErI0TBDWOPhQOveLARYtb2aNmOfC1a2CTir9CZ9YSr-60ogGA8fGouhMYeNclY-dzyIGkV0T1qav2Hv7z3hRFXiR83C67pYnlL_1e1lim0W6Ysfov3TKPcKi5buNLu1C_Ccka6AuIo2YHl94Hr3RMrn4TDg8C4MXZZZ1BLdlULtcdFGd_SiGMv8k3400BN0Pcnrq6muFDKMD49q4KAsRuMk6Nud6dksCp1sNwxKp5E06p1Ot31XfSW2PwFoFE_Z7BRsZOQzXNbcDtqI3iFxavQpxY2HI_vzZ8EHPRkz-GH4BOaKnkdYJoI-kGGRUJYQ06u6OmRW3qVddeeDh_uqQntT-UFAvdkza32O8Dy_PYzYDiUI6Ipzxpoz2EYSXy7a0khTUzm9bK1ZTH8kFn-bw7FHr3wQvLZNG2YK2rohpuxaxgyXQR8T5acs_0FI0V6EtZwb16z69ph_AhF2j_DRgmLUhMUFdK6dOOgrLFal48GA-3CSMugpTI_jiPUx0iKWHnnPm_v6xLbNThbKmFyOItQxJnbR3AFLuhSGMEG8lfSmOUWRDlbCRw5rq5ldbh3MkVm2GnxK9CkudkbksIuzxE1KG66XmgHslXA8M8dKDIFMWGIKfy3l1d1MrHzSlWyvb9GTMvGm5rGjL1AfW1HhCnizSKqfiJ16CqBMvxDGBY1-f3ph1R-Xxdyld8iuvcWu_Owekyh9sAaYrYzy90tzkYL6hEh4E8LgXbq7iM3D9g6v2IsGFgu4aN1jNAMurShLVTFuhcLyTdkfMh5ecn6O2JSO6EgO98IPlYgIKzS0oNwxcl3dXQipQ_zL3JaiWe8Xy60k_40dU9vEczzQFVD3lSrNrPvM-N39sANRUXIlokODtrkgQ11uf3QlsCrqgRWefMr38-a87wxog8L5tvzj0CH8b3wVJ2vSONBeQUSAF1Nl75b-Yto3hi52szXmVkQTQCeTHqg5boCIWKYvxHCM0baOiBtSzJl_JlCOLV7dyjlDtI_DiPeCHL8fz3jDHjTBUOdy94ZJnrtQ56-uGM4aLRuGNTE0vmGWiLolmCVvcEbV_Hs9LpUCo3Gx0SDBABwEyuz6zD0uGdMjKyIXaKk1gyRkhv_Iz5pDk9pS4zxEQHPJ6zr0RzJoxCQZfCVz04H-oGtZ4hxM3nGLXCcQNoTWX4D4JfPcwI97pnqWP-UTcT9JpufTJ-ShuMVQLfxX9d3pAdjJrf6vZU3ReDGgl9breTG1MPLPlC_TAqstEqe1MWlsr0HdD4QiXK60Uc5Vb_pbEkFtHY0_X5ElaP-aOsu7VfxESJ2CgkKwejq0aaO8fCNib6kj7FzSVEdUv_kcJN9N7iMuf4_nHGKQqoSfTjl-ffYeTZcKIsU7uLwCJT8l6yTgCbPCuEqe2e-_c8ZipJpoVm9hjjCyXv3xPN4Ul7j44s299k5tl3-vrliUyvME-mX-44q1ajoic_umuJ6apVJg1VYAhQ6Lxwtid_Ql04FwJlJa3MeTsowsvSYvIUKkWlg1SICVl-fhY7pSVt6b_nvPfZY0OBnSJfHhty18yLJkqiUIy6GDTjVXkXjVRCL8icJMNB4Ag7obFYBOL4WWvcsJ9xQ1KTFCCsXUmx9sFpolpNCJjI5hTqbZGTKItwrJ9-ohWzvQD7Rgn_A6CRzlyxoswxWxGpOP20pQNhF8FZcXjagK2qmdgmTH92YRqYdmv_oyzGwDVlqLWfY1nGgU3Hswr0S2aShJnv4ECNOTBFZ3A0Y1k8NkVITGVMFohdwTm4D1YIDqWmnhNt_LWkBHchQLquJwPd_fdq_RCkwx6qqjBw7IXDw-G89guauKcyKHlwvwkuXc9EGnYNxOpS8zoxZLUHpWAaJuV3DgG8W_zL6cMw-B4WPxxZuRJR5DZM41k7s_g-t1D4G-kbdqUhqr33_Y82rn61Xa_NuswqdSY-gHvNhzFR2Q09pOyhobPh5qW9VnfjNimCYafqyBidq7mvxSbx2nkCI1XQq2L_-lSIRL8sJQvVxXz1T03mnUTem5OSHD_TroA0dN184hgB5zS6x9OuEqqcnFGn7DEKoRLL62coTm_mKLUdRFSMhj0pk-4jMgDPC6j6nqUGOEMnrWqstgNtzQmLB1uMFWVKFk3Ibt_U-Smfon3AEeh1lyRx35EmgRWby2ECIu5ceDDxYiikNMRba9pvmBaHcZwZ9qg0fg4ejQmGqt8=",
+  "salt": "Xv6-i54njhtqWSSeMi-8Tw==",
+  "sources": [
+    "Croker, T. Crofton. Fairy Legends and Traditions of the South of Ireland. London: William Tegg, 1862, 110.",
+    "Delaney, Mary Murray. *Of Irish Ways.* (New York: Harper & Row, 1973), 170.",
+    "MacDougall, James. Folk Tales and Fairy Lore in Gaelic and English. Edinburgh: John Grant, 1910. Pp. 175-179.",
+    "Westropp, T. J. Folklore of Clare: A Folklore Survey of County Clare and County Clare FolkTales and Myths. Ennis, Co. Clare: Clasp Press, 2000, pp. 6–10.",
+    "Wilde, Lady. Ancient Legends, Mystic Charms and Superstitions of Ireland. London: Chatto and Windus, 1902, 136.",
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.",
+    "Koch 2006, s.v. 'bean sí / banshee'"
+  ],
+  "name": "banshee"
 }
