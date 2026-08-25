@@ -1,0 +1,52 @@
+{
+  "name": "Ciumesti",
+  "text": "Ciumesti is a Late Iron Age La Tene cemetery dug in north-west Romania between 1962 and 1965. The flat burial ground sits on a sand dune near the modern town. Excavators uncovered thirty four graves including cremations, inhumations, and both wheel made and hand made pottery. A spectacular warrior chieftain grave was found accidentally in 1961 near the cemetery. It held a bronze-crested iron helmet crowned with a bird of prey. The cemetery stayed in use about two centuries from near the end of the fourth century BC.",
+  "entities": [
+    {
+      "entity": "Ciumesti",
+      "type": "Place"
+    },
+    {
+      "entity": "Ciumesti helmet",
+      "type": "Artefact"
+    },
+    {
+      "entity": "La Tene culture",
+      "type": "Group"
+    },
+    {
+      "entity": "Gundestrup cauldron",
+      "type": "Artefact"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Ciumesti",
+      "value": "La Tene cemetery and settlement in north-west Romania"
+    },
+    {
+      "entity": "Ciumesti helmet",
+      "value": "iron helmet with a bronze bird-of-prey crest from a 1961 find"
+    },
+    {
+      "entity": "La Tene culture",
+      "value": "Iron Age horizon signified by this burial ground"
+    }
+  ],
+  "sources": [
+    "Koch 2006, s.v. \"Ciumesti\"",
+    "Zirra, Vlad. Un cimitir celtic în nord-vestul României"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Describe the excavation of the Ciumesti Iron Age cemetery",
+    "key_results": [
+      "Record the burial numbers and grave types uncovered there",
+      "Identify the warrior burial and its famous crested helmet",
+      "Place the cemetery within the La Tene Iron Age of Transylvania"
+    ],
+    "evidence": "Koch 2006, s.v. \"Ciumesti\""
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Cistercian abbeys in Ireland",
+  "text": "The Cistercian order was a stricter renewal branch of Benedictine monasticism urged on by Saint Bernard of Clairvaux. Around ten of these monasteries already stood in Ireland when Bernard died in 1153. Their growth stayed spectacular in Ireland, and roughly thirty houses had been founded locally before 1272. Mellifont Abbey in County Louth became the mother house for many later foundations. These houses reshaped Irish spirituality, architecture, and farming methods. They remained a strong force in both English and Gaelic Ireland until the Reformation.",
+  "entities": [
+    {"entity": "St Bernard of Clairvaux", "type": "Person"},
+    {"entity": "Mellifont Abbey", "type": "Place"},
+    {"entity": "Cistercian order", "type": "Group"},
+    {"entity": "Mael Maedoc", "type": "Person"}
+  ],
+  "attributes": [
+    {"entity": "Mellifont Abbey", "value": "mother house founded in 1142 in County Louth"},
+    {"entity": "St Bernard of Clairvaux", "value": "promoted an austere shape of Benedictine life"},
+    {"entity": "Mael Maedoc", "value": "took Irish trainees to Clairvaux before Mellifont was founded"}
+  ],
+  "sources": [
+    "Koch 2006, s.v. \"Cistercian abbeys in Ireland\"",
+    "Stalley, Roger. The Cistercian Monasteries of Ireland"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Document the Cistercian monastic presence in medieval Ireland",
+    "key_results": [
+      "Trace the arrival of the order through St Bernard and the 1139 mission",
+      "Count the houses founded in Ireland before 1272",
+      "Show the influence on Irish religion, economy, and architecture"
+    ],
+    "evidence": "Koch 2006, s.v. \"Cistercian abbeys in Ireland\""
+  }
+}

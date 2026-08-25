@@ -1,0 +1,52 @@
+{
+  "name": "An Claidheamh Soluis",
+  "text": "An Claidheamh Soluis means The Sword of Light and was the bilingual newspaper brought out by the Gaelic League from March 1899, with Eoin MacNeill as its first editor. In August 1900 the League took over the weekly paper Fainne an Lae after its publisher failed, and the two sheets merged. From 1903 to 1909 the editor Padraig Mac Piarais printed original Irish literary works and reviews. The paper became a key source for the rising Irish cultural and political nationalism of the day. It finally ran under several names until it closed in 1932.",
+  "entities": [
+    {
+      "entity": "An Claidheamh Soluis",
+      "type": "Text"
+    },
+    {
+      "entity": "Conradh na Gaeilge",
+      "type": "Institution"
+    },
+    {
+      "entity": "Eoin MacNeill",
+      "type": "Person"
+    },
+    {
+      "entity": "Padraig Mac Piarais",
+      "type": "Person"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Conradh na Gaeilge",
+      "value": "the Gaelic League that founded and owned the paper"
+    },
+    {
+      "entity": "Eoin MacNeill",
+      "value": "first editor of An Claidheamh Soluis"
+    },
+    {
+      "entity": "Padraig Mac Piarais",
+      "value": "editor from 1903 to 1909 who expanded literary content"
+    }
+  ],
+  "sources": [
+    "Koch 2006, s.v. \"Claidheamh Soluis, an\"",
+    "Tierney, Michael. Eoin MacNeill: Scholar and Man of Action"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Explain the founding of the An Claidheamh Soluis newspaper",
+    "key_results": [
+      "Note the founding by the Gaelic League in March 1899",
+      "Identify its first editor Eoin MacNeill",
+      "Trace its merge with Fainne an Lae and its later names"
+    ],
+    "evidence": "Koch 2006, s.v. \"Claidheamh Soluis, an\""
+  }
+}
