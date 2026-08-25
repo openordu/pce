@@ -122,6 +122,7 @@ layout: layouts/pce.njk
 - [Brí](Brí)
 - [Brian](Brian)
 - [Briccriu](Briccriu)
+- [bricta](bricta)
 - [brídeóg](brídeóg)
 - [Brigantia](Brigantia)
 - [Brigindo](Brigindo)
