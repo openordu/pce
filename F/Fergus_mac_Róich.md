@@ -5,62 +5,104 @@ icon: file-lines
 order: 941
 contributors: [ 'Christopher Godwin' ]
 attributes:
-  - Fergus mistaken for a Stag
-  - Fergus perhaps a horned god
-  - Fergus love affair or marriage with the woodland goddess Flidais
+  - Fergus mac Róich king of Ulster
+  - Fergus mac Róich married Nessa, the Warrior Woman
+  - Conchobar Mac Nessa took the kingship from Fergus
+  - Fergus mac Róich burned the royal court at Emain Macha
+  - Medb possible lover of Fergus
+  - Lia Fáil also called Bod Fhearghais, Fergus's phallus
+  - Fergus mac Roich was at first the king of Ulster
+  - Fergus mac Roich spoke for the high and kept the old lore
+  - Fergus mac Roich led the wounded men of Ulster; to the west
+  - Fergus mac Roich was the lover of the great queen
 categories:
-  - Location
-  - God
-  - Animal
-  - Goddess
-  - Person
+  - place
+  - artifact
+  - person
+  - hero
+  - text
 entities:
-  - Antrim(Location)
-  - Lough Carrowmore(Location)
-  - Co. Mayo(Location)
-  - Ailill(Person)
-  - Lugaidh(Person)
-  - Fergus(Person)
-  - Stag(Animal)
-  - Cernunnos(God)
-  - Flidais(Goddess)
+  - Fergus mac Róich(hero)
+  - Ulster(place)
+  - Nessa(person)
+  - Conchobar Mac Nessa(person)
+  - Tara(place)
+  - Deirdre(person)
+  - Noísiu(person)
+  - Emain Macha(place)
+  - Medb(person)
+  - Cruachan(place)
+  - Lia Fáil(artifact)
+  - Bricriu(person)
+  - Conchobar(person)
+  - Derdriu(person)
+  - Ailill(person)
+  - Fled Bricrenn(text)
 tags:
-  - Antrim
-  - Lough Carrowmore
-  - Co. Mayo
+  - Fergus mac Róich
+  - Ulster
+  - Nessa
+  - Conchobar Mac Nessa
+  - Tara
+  - Deirdre
+  - Noísiu
+  - Emain Macha
+  - Medb
+  - Cruachan
+  - Lia Fáil
+  - Bricriu
+  - Conchobar
+  - Derdriu
   - Ailill
-  - Lugaidh
-  - Fergus
-  - Stag
-  - Cernunnos
-  - Flidais
+  - Fled Bricrenn
 ---
 ``` tab [group1:Info]
 ::: magazinestyle
-A remarkable hero by the name of Fergus mac Róich (mac Roech, mac Roth, MacRoy) was famed for his prowess. He was crowned king of Ulster, the land most synonymous with the noble name of Fergus, and subsequently wed Nessa, the Warrior Woman who gave birth to his son, Concobar Mac Nessa. Nessa agreed to marry Fergus on the condition that her offspring would become a royal heir. Fergus concurred, but upon completion of a year, Nessa conspired with his nobles to prevent his return to the throne. Fergus left Ulster to gather allies at Tara, but Concobar valiantly resisted the army, maintaining his position as the ruler. Although Fergus established peace with his usurper, Concobar's deceit turned him into an adversary. When the fated beauty, Deirdre, was born, a prophecy predicted that her beauty would lead to the land's ruin. Despite his Druids' advice that the infant be slain to prevent bloodshed, Concobar refused and instead sent Deirdre away to be raised to womanhood. Concobar had designs on Deirdre, but she had other plans and fled with her lover to Scotland. Later on, Fergus promised them safe passage back to Ireland but just as he left the court, Concobar had Noísiu killed and took Deirdre for himself. In the end, Deirdre elected a life without her love and chose her own death over Concobar. Furious that Concobar had tarnished his honor with a deceitful plot, Fergus led his band of warriors to raid and burn down the royal court at Emain Macha. Archaeological evidence from prehistoric times does show a massive fire at Emain Macha, supporting this account. Fergus traveled west with his men to the court of Queen Medb at Cruachan, which was comparable to Emain Macha in the west. Various texts suggest that Fergus and Medb became lovers, as they were equally lustful. Fergus was renowned for his sexual prowess, and the Lia Fáil, a seven-foot-tall stone pillar in Tara, was also known as Bod Fhearghais, or "Fergus's phallus." His last name suggests that his father might have been a stallion, a fitting heritage for such a well-endowed hero. Some believe that Fergus may have fathered a son named Ciar, who gave his moniker to Co. Kerry in southwest Ireland. Fergus served Medb ably in the Cattle Raid recounted in the Irish myth Táin Bó Cuailnge, and he used his colossal sword, Caladbolg, to slay hundreds of his former countrymen. He could have even murdered his foe, Concobar, had not the king's son thwarted him. The mighty epic that tells this story was in danger of being lost when Ireland's poets struggled after the Celtic kings lost their sovereignty. However, using an ancient formula for summoning spirits, several bards called forth Fergus's ghost from his grave and he recited the entire tale, preserving it for future generations to read. Fergus ended up in that grave as a result of his relationship with Medb. Fergus had an affair or was married to the woodland goddess Flidais, indicating that he might have been a god, possibly like the horned god Cernunnos of the continent. Although Ailill mac Máta, Medb's husband, was commended for his lack of jealousy, he made a bitter comment after seeing his wife and Fergus engaging in nude frolicking at either Lough Carrowmore in Co. Mayo or a lake close to Carrickfergus in Co. Antrim. Fergus was killed by Ailill's loyal friend, the warrior-poet Lugaidh, who pretended to have mistaken Fergus for a stag; this could reveal that Fergus was originally a god.
+Fergus mac Roich is one of the central figures of the Ulster cycle of Irish tale. He stands out in many of the oldest stories in a place of senior rank. Some who study these tales compare him to the wise old leader of the Greek heroes. He is the respected older warrior and the nobleman of the group, and his own story is full of different sides. At the start he is the king of the province of Ulster. He holds the land until a woman and her cunning take the kingship away from him. Conchobar, the man who took his place, wins the rule through the plots of his mother. Even so, Fergus keeps a good part of his old standing in the high places of the people. In some tales he seems almost a second (king with Conchobar at his side, and his word can decide a matter for the whole body of the braves.
+
+Fergus often speaks for the men of Ulster. He is the spokesman and the keeper of their old lore. When a crafty host sends a hard challenge to them all, it is Fergus who answers for the kin. When the great cattle story that they call the Tain falls into ruins, the wise king sends an old poet to find the lost words. It is the spirit of Fergus, who has gone from the world, that speaks the whole Tain from the place where he is buried. He also tells the story of the raising of the great hero of the boy, as a tale inside the Tain, to the queen who asks for the telling. Ferg is the glue that holds the long cycle of the storytelling together.
+
+One great story shows his fall. After the hard end of the love of the woman Druit, Fergus with the wounded men of Ulster leave their own land and go over to their old enemies. At the fort of the queen they make a new life. The queen and her lord the man of the good there are the leaders of the south. Ferg and his people of the north become the friends and the allies of the house. Fergus, once the king of the north, now serves the aim of the south in the great war. In the march of the Tain his blade is strong, though the spear and the ground of the fair sets a new. He is a father to the whole of emotion of the south and of the taking of the great cattle.
+
+Some say his greatness of body was as great as his strength of mind. He leaves behind the high, strong standing the Tale of the huge sweep of the world. A great sword, the name of which and the calm lights up the whole of the west, is in his hand. About his name the old learned men yet hold true. The root of the name means a man and a hero. A wise gathering reads the whole name as a chosen man or a man of force, and some see in that the mark of his great desire. His step in the south, into the love of the queen, was the end of his story. The law of the south of the name also holds a god of the body and the power of the tribe. The old words for the man mean a hero and the force together. The story of Fergus, from the king of the great gate to the lost man of the west, is the sad tale of the fall of a strong man of old.
 
 :::
 ```
 ``` tab [group1:Attributes]
-- **Fergus**: mistaken for a Stag
-- **Fergus**: perhaps a horned god
-- **Fergus**: love affair or marriage with the woodland goddess Flidais
+- **Fergus mac Róich**: king of Ulster
+- **Fergus mac Róich**: married Nessa, the Warrior Woman
+- **Conchobar Mac Nessa**: took the kingship from Fergus
+- **Fergus mac Róich**: burned the royal court at Emain Macha
+- **Medb**: possible lover of Fergus
+- **Lia Fáil**: also called Bod Fhearghais, Fergus's phallus
+- **Fergus mac Roich**: was at first the king of Ulster
+- **Fergus mac Roich**: spoke for the high and kept the old lore
+- **Fergus mac Roich**: led the wounded men of Ulster; to the west
+- **Fergus mac Roich**: was the lover of the great queen
 ```
 ``` tab [group1:Entities]
-- **Antrim**: Location
-- **Lough Carrowmore**: Location
-- **Co. Mayo**: Location
-- **Ailill**: Person
-- **Lugaidh**: Person
-- **Fergus**: Person
-- **Stag**: Animal
-- **Cernunnos**: God
-- **Flidais**: Goddess
+- **Fergus mac Róich**: hero
+- **Ulster**: place
+- **Nessa**: person
+- **Conchobar Mac Nessa**: person
+- **Tara**: place
+- **Deirdre**: person
+- **Noísiu**: person
+- **Emain Macha**: place
+- **Medb**: person
+- **Cruachan**: place
+- **Lia Fáil**: artifact
+- **Bricriu**: person
+- **Conchobar**: person
+- **Derdriu**: person
+- **Ailill**: person
+- **Fled Bricrenn**: text
 ```
 ``` tab [group1:Sources]
 - Cross, Tom Peete, and Clark Harris Slover, eds. Ancient Irish Tales. (New York: Henry Holt and Co., 1936), 471.
 - Dillon, Myles, ed. Irish Sagas. Cork: The Mercier Press, 1968, 40 ff.
 - MacCulloch, J. A. The Religion of the Ancient Celts. London: Constable, 1911, 336.
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
+- Koch 2006, s.v. 'Fergus mac róich'
 ```
 ![Fergus mac Róich Image](https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Fergus_mac_R%C3%B3ich_carrying_S%C3%A9tanta_on_his_shoulder.png/1200px-Fergus_mac_R%C3%B3ich_carrying_S%C3%A9tanta_on_his_shoulder.png)

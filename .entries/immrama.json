@@ -1,0 +1,49 @@
+{
+    "name": "Immrama",
+    "text": "Immrama is the medieval Irish category for voyage tales, and the singular form is immram. The term means voyages. Irish tale lists record this kind as a native type of narrative. The category sits close to the echtrai, the adventure tales, and the two overlap. A typical voyage takes the hero to wondrous places far from his home. He may reach the Otherworld or pass through a chain of marvellous islands. The tale of Mael Duin and his coracle is one known example. Another famous work is the voyage that Bran son of Febal makes. The Latin voyage of a monk, Navigatio Sancti Brendani, also owes a debt to this Irish form. The word immram comes from an Old Irish verb that means to row around. The full study of this genre rests in the article on voyage literature.",
+    "okr": {
+        "objective": "Set the place of Immrama as a native category of voyage tales in medieval Irish literature.",
+        "key_results": [
+            "Give the plural and singular forms of the term.",
+            "Show how the category overlaps the echtrai adventure tales.",
+            "Name the best known of the surviving voyages.",
+            "Note the Latin voyage tradition as a later debt."
+        ],
+        "evidence": "Koch 2006 places these journey stories among the native tale types of medieval Ireland."
+    },
+    "entities": [
+        {
+            "entity": "Immrama",
+            "type": "concept"
+        },
+        {
+            "entity": "Bran mac Febail",
+            "type": "hero"
+        },
+        {
+            "entity": "Navigatio Sancti Brendani",
+            "type": "text"
+        },
+        {
+            "entity": "Mael Duin",
+            "type": "hero"
+        }
+    ],
+    "attributes": [
+        {
+            "entity": "Immrama",
+            "attribute": "Irish"
+        },
+        {
+            "entity": "Immrama",
+            "attribute": "Ireland"
+        }
+    ],
+    "sources": [
+        "Koch 2006, s.v. \"Immrama\""
+    ],
+    "image": [],
+    "cyphertext": "",
+    "salt": "",
+    "order": 1308
+}

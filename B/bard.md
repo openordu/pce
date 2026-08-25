@@ -21,14 +21,24 @@ attributes:
   - altered states skill requirement
   - Prophecy connected skill
   - spell-casting connected skill
+  - bard formed one of three orders with the vates and the druids
+  - bard served a diplomatic and praise-singing role
+  - bard singer and reciter of the old stories
+  - bard held the power to bless and to curse
+  - bard the lowest rank of poet in Gaul
+  - bard kept the bare facts of a story whole
+  - bard his satire could punish a king
 categories:
+  - Person
+  - location
+  - Group
   - skill
+  - connected skill
+  - requirement
+  - Place
   - social role
   - requirement for social role
-  - connected skill
   - gender
-  - location
-  - requirement
 entities:
   - Gaul(location)
   - Ireland(location)
@@ -48,6 +58,16 @@ entities:
   - altered states(skill)
   - Prophecy(connected skill)
   - spell-casting(connected skill)
+  - Lovernios(Person)
+  - Posidonius(Person)
+  - Strabo(Person)
+  - ollam(social role)
+  - bard(Person)
+  - druid(Group)
+  - vates(Group)
+  - Ollam(Group)
+  - Gaul(Place)
+  - Ireland(Place)
 tags:
   - Gaul
   - Ireland
@@ -67,10 +87,20 @@ tags:
   - altered states
   - Prophecy
   - spell-casting
+  - Lovernios
+  - Posidonius
+  - Strabo
+  - ollam
+  - bard
+  - druid
+  - vates
+  - Ollam
+  - Gaul
+  - Ireland
 ---
 ``` tab [group1:Info]
 ::: magazinestyle
-The Celtic world held the role of the poet in high esteem due to their supposed power to curse and bless individuals. This power was connected to magic due to the use of transformation techniques; metaphor in poetry and Shape-Shifting in magic. The importance that the Celts placed on honor and reputation made the words of a satirist greatly feared. Although the term bard is often used to describe Celtic poets, it does not accurately reflect the lowest among the various types of poets found in Gaul according to Roman writers. Bards were singers and reciters, who held great importance in a world that relied on recitation instead of writing. They also acted as historians and were not permitted to alter any of the basic facts of a story or genealogy. Memory was important for bards, but the higher orders, Vates and Druids or priests, emphasized vision. In Ireland, the bard was a low-ranked poet who was still studying around four hundred myths and legends. Ascending the scale led to becoming a more distinguished caste of poet called Fili, with the Ollam as their highest rank. Both Gaul and Ireland reflected a similar hierarchy: bards or reciters, diviners or prophets (vates and fili), and druids or magician-priests. These social roles were open to anyone with the potential to become a bard, regardless of gender, and were not generally hereditary. The ancient Irish had a unique conception of poets who were not limited to only composing poetry. They were required to undergo intensive training that involved memorizing hundreds of narratives before progressing to extemporaneous composition in highly structured forms. Such composition required familiarity with altered states and was linked with Prophecy and spell-casting. Among the Irish, the poet-seers were called upon to discern the next king in the bloody rite named the Bull-Sleep or tarbhfleis. The most elevated poet was the satirist who could punish any king who was found unworthy to rule with his stinging words. Thus, the distinction between poet, judge, historian, and prophet was not clear-cut among the ancient Irish. Myth and legend tell of various bards, some of whom had heroic or semidivine status. Tuan Mac Cairill, one of the bards, claims to have lived in various bodies since the beginning of time. Amairgin, the Milesian poet, spoke the first words upon the arrival of his people in Ireland. In Wales, the greatest poet was Taliesin, who, by accidentally drinking the brew of the goddess Ceridwen, gained complete knowledge. Pursued and persecuted by her, Taliesin transformed into the shapes of various animals and birds to evade her. However, Ceridwen finally consumed him as a grain of wheat when she was a hen, but she later bore him as a child whom she threw into the sea. The shape-shifting theme suggests that the ancient Irish believed that poets could turn into animals and birds while preserving human consciousness. The ancient Irish poets used to travel freely around the countryside, along with their students and retainers, demanding hospitality from every king in Ireland. From as early as the sixth century C.E., Wales had a continuous line of poets. For more than a thousand years, the Bardic Order (Bardd Teulu) served the Welsh monarchs, and it is on record that assemblages of bards, referred to as Eisteddfod, existed as far back as 1176. Nonetheless, later bards chose to align themselves with specific noble families. As time passed, and their conventional patrons got expelled by English settlement, the bardic orders dwindled into itinerant poets such as Anthony Raftery, a Co. Galway historical figure in the 1700s; like Raftery, a considerable proportion of these poets lacked physical sight.
+In the Celtic world the poet held a high place. Their power to praise and to curse gave them great weight. The Roman writers, drawing on Posidonius, described the bards as singers and reciters who travelled with the chieftains, even in war. They recited praises before each listener according to rank. A famous banquet of Lovernios showed the bard at work. A poet arrived late to the feast and sang of Lovernios' greatness. The chief threw him a bag of gold, and the bard sang that even the chariot tracks gave gold to his people. The bards formed one of three honoured orders with the vates, the seers, and the druids. Strabo named the bards as singers and poets, the vates as overseers of sacred rites, and the druids as natural and moral philosophers. The bard often served a diplomatic role, praising an ambassador and his people. In Ireland the bard was a low-ranked poet who still studied hundreds of tales. Rising rank led to the fili, whose highest grade was the ollam. The words of a satirist were feared because honour mattered so much to the Celts. The bardic orders were open to anyone with the calling, regardless of gender.
 
 :::
 ```
@@ -91,6 +121,13 @@ The Celtic world held the role of the poet in high esteem due to their supposed 
 - **altered states**: skill requirement
 - **Prophecy**: connected skill
 - **spell-casting**: connected skill
+- **bard**: formed one of three orders with the vates and the druids
+- **bard**: served a diplomatic and praise-singing role
+- **bard**: singer and reciter of the old stories
+- **bard**: held the power to bless and to curse
+- **bard**: the lowest rank of poet in Gaul
+- **bard**: kept the bare facts of a story whole
+- **bard**: his satire could punish a king
 ```
 ``` tab [group1:Entities]
 - **Gaul**: location
@@ -111,8 +148,19 @@ The Celtic world held the role of the poet in high esteem due to their supposed 
 - **altered states**: skill
 - **Prophecy**: connected skill
 - **spell-casting**: connected skill
+- **Lovernios**: Person
+- **Posidonius**: Person
+- **Strabo**: Person
+- **ollam**: social role
+- **bard**: Person
+- **druid**: Group
+- **vates**: Group
+- **Ollam**: Group
+- **Gaul**: Place
+- **Ireland**: Place
 ```
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
+- Koch 2006, s.v. 'Bard'
 ```
 ![bard Image](https://upload.wikimedia.org/wikipedia/commons/9/90/Hope-coventina01a.jpg)

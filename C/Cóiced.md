@@ -5,36 +5,92 @@ icon: file-lines
 order: 497
 contributors: [ 'Christopher Godwin' ]
 attributes:
-  - Meath established near the center of Ireland's landmass
-  - Ireland center of Ireland's landmass
-  - province historical times
-  - island mystical connotations of the island's provincial divisions were never lost
+  - Cóiced means a fifth
+  - Leinster eastern province
+  - Munster southwestern province
+  - Connacht western province
+  - Ulster northern province
+  - Mide the fifth province and a cosmological idea
+  - hill of Uisneach named as the center
+  - Stone of Divisions a rock on the hill
+  - Meath a province formed near the middle of Ireland
+  - Cóiced literally means 'a fifth' and takes the modern Irish form cúige
+  - Cóiced frames the Ulster Cycle as a pentarchy of equal provincial kings
+  - Conchobar provincial king of Ulster in the fivefold scheme
+  - Ailill provincial king of Connacht in the fivefold scheme
 categories:
-  - Country
-  - Province
+  - location
+  - place
+  - text
+  - concept
+  - artifact
+  - mythological figure
 entities:
-  - Meath(Province)
-  - Ireland(Country)
+  - Cóiced(concept)
+  - Leinster(place)
+  - Munster(place)
+  - Connacht(place)
+  - Ulster(place)
+  - Mide(concept)
+  - Meath(place)
+  - hill of Uisneach(location)
+  - Stone of Divisions(artifact)
+  - cúige(concept)
+  - Conchobar(mythological figure)
+  - Ailill(mythological figure)
+  - Lebor na Cert(text)
 tags:
+  - Cóiced
+  - Leinster
+  - Munster
+  - Connacht
+  - Ulster
+  - Mide
   - Meath
-  - Ireland
+  - hill of Uisneach
+  - Stone of Divisions
+  - cúige
+  - Conchobar
+  - Ailill
+  - Lebor na Cert
 ---
 ``` tab [group1:Info]
 ::: magazinestyle
-The ancient Provinces of Ireland were called Cóiced Mythic theme or “a fifth.” There were four geographical provinces named Leinster, Munster, Connacht, and Ulster. Mide, or Meath, was considered the fifth province, which was not only a geographical concept but a cosmological one. It symbolized the real center, which was believed to be the hill of Uisneach or more specifically, the rock known as the Stone Of Divisions on that hill. Even when the province of Meath was located at the heart of Ireland in historical times, the mystical implications of the island’s provincial divisions were never abandoned.
+Cóiced was the early Irish word for a province, meaning literally "a fifth." Medieval Ireland had five such lands: Ulster, Connacht, Munster, Leinster, and Meath; the modern form is cúige. The term appears in eighth-century law texts and the great epics, framing the Ulster Cycle as a pentarchy of equal kings, such as Conchobar and Ailill of Connacht. A provincial king ruled above lesser kings. Many scholars accept this fivefold order as historical.
 
 :::
 ```
 ``` tab [group1:Attributes]
-- **Meath**: established near the center of Ireland's landmass
-- **Ireland**: center of Ireland's landmass
-- **province**: historical times
-- **island**: mystical connotations of the island's provincial divisions were never lost
+- **Cóiced**: means a fifth
+- **Leinster**: eastern province
+- **Munster**: southwestern province
+- **Connacht**: western province
+- **Ulster**: northern province
+- **Mide**: the fifth province and a cosmological idea
+- **hill of Uisneach**: named as the center
+- **Stone of Divisions**: a rock on the hill
+- **Meath**: a province formed near the middle of Ireland
+- **Cóiced**: literally means 'a fifth' and takes the modern Irish form cúige
+- **Cóiced**: frames the Ulster Cycle as a pentarchy of equal provincial kings
+- **Conchobar**: provincial king of Ulster in the fivefold scheme
+- **Ailill**: provincial king of Connacht in the fivefold scheme
 ```
 ``` tab [group1:Entities]
-- **Meath**: Province
-- **Ireland**: Country
+- **Cóiced**: concept
+- **Leinster**: place
+- **Munster**: place
+- **Connacht**: place
+- **Ulster**: place
+- **Mide**: concept
+- **Meath**: place
+- **hill of Uisneach**: location
+- **Stone of Divisions**: artifact
+- **cúige**: concept
+- **Conchobar**: mythological figure
+- **Ailill**: mythological figure
+- **Lebor na Cert**: text
 ```
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
+- Koch 2006, s.v. 'Cóiced'
 ```

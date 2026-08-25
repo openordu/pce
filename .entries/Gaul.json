@@ -12,6 +12,22 @@
         {
             "entity": "Gauls",
             "attribute": "many tribal peoples with a common language"
+        },
+        {
+            "entity": "Gaul",
+            "attribute": "is bounded by the Rhine, Alps, Mediterranean, Pyrenees, Atlantic, and Channel"
+        },
+        {
+            "entity": "Gaul",
+            "attribute": "answers to the Roman term Gallia Transalpina beyond the Alps"
+        },
+        {
+            "entity": "Gaul",
+            "attribute": "was divided by Caesar into Belgae, Aquitani, and Celtae"
+        },
+        {
+            "entity": "Gaul",
+            "attribute": "carries a Celtic name tied to words for boldness and fierceness"
         }
     ],
     "entities": [
@@ -30,24 +46,42 @@
         {
             "entity": "Celts",
             "type": "Culture"
+        },
+        {
+            "entity": "Gallia Transalpina",
+            "type": "Place"
+        },
+        {
+            "entity": "Cisalpine Gaul",
+            "type": "Place"
+        },
+        {
+            "entity": "Belgae",
+            "type": "Group"
+        },
+        {
+            "entity": "Aquitani",
+            "type": "Group"
         }
     ],
     "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.",
+        "Koch 2006, s.v. 'Gaul'"
     ],
     "image": [
         "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Map_Gallia_Tribes_Towns-la.svg/1200px-Map_Gallia_Tribes_Towns-la.svg.png"
     ],
     "cyphertext": "ll7sxhIQN_FA86bvE7A_RG3HHor9oZmT0sYZ1Fd4ovq98Y_nNJd-_d1_pJf_Ri3NZupNwcoGWKkhuA-JbkzY47IvuMExkM1hbcq4bpDfm2L6Is4qfwMv2uhgChfL7HGlZfnLhX7vfv4jhPfhSzbS3fqjYMjS_11q6EyETlnT2Fwhm4gyblJQtI4pbJt57_ge0DxF6elVNaXoP0XPNBopJBm9MixYFWKUYYC5FJa7VbbEd1D7QAaVyxqTQJLobCoEw1DeAx7JG1TodObESEezSGlFQQHAglOhvaEQP9844C02eI3UefgNN5sFZgQ3UMoGrda978iW8RdgVtZEz79M9vpNXCDn2GuFRhB62JdyO3M8PNFxrb1EXVqZUqoivpfbeTxwewswXpcCm0e_Ui9daQexop8fII9QVooxjQfKPtA_tbWNlnuKg35OW4UEpFIOa9yex4TetKn2cziZc4NH72o1fuMGbyzXTaUiOipKv5ChlwcmS5RWwv6JCrQOvALjf9Zvlp5sDkjujRDU-1rWPgmFJdS4bzj2xt9Y8zDhSLpRVA61TXAUT7USWaVhnQy-gzUzClBQH8SiuxWA74TD75oea_Cx2Gy5Oe0yzxIGbjO2n7s0GtybvH5mcbGwn-Irk1eTLSZfT-JIKgGRcbwA-HFppBAxbBW5Hsl8VhIpe5pnEJR4OeggCbcB-AVYjYU0N5iw_F6MDk6NjbHudB5ICh1U_xjHoMBEZvxdvd6P9rMiSaOHTFoB1oVXGmmM1mg_bIxvQ5Pcof0U40l3RF2PDiw5cNiQBPcCigJmoygTfWTjDb2joxr_1eWZ1U1YixIP8f77jSlLe0l4uAiqUHDETt4pSku6Wi7WnSCzHcIdHzoDEatVcf6JxacOPfRa8e0wAVz9GXpWsfjTVkmIMC9Ay9RoOduPJGo8LbxL2WxHXjg5s3WflSSLsFZaB-JuZVcTFActS8osrwPRHZWUxSit0PmqsnsAAHMII0_zIsSrAAzqoPFT0rOXdihMtkPEBcyTw1oaZaCcnoILArX89jxL2T6t5SvPEhV3x1Twu1Q4XwfXutQmVnBmyrZM4lJq-wi52Q6FxkWzzkBITmOPBGaQ1vYxhQx9AzNkPDGVgx-z2xFCF13TaWc7BN-nEOh1vwRQigi6xp-UCAVcWgH0DkKVNPxQGz8R4cGl99DOZiqOFWLEgRcDr7-YLIFM1sJzaQPtHggPTvEwjTDkd4ll7q0TJeAbqeVFWs3MGrakYd3broSxAPAP62vqPKZnsMuAI8p9ZCyJaZOZ_bbcF8QKDIB_EIjNjrq06X9u1e4CuAQO85mdAtUrqAv4qRrNNXEqtD0NBs1I6_wHAEWamTFLoDb5dUj2nApoGwdqJWNjs0FreZ3aM1EY9E79klboO7i23A1ccWqTJSkpb2z6widm8DO_oydWMg9Drk44LcMJjgrCmwURJ_ibhgb3sTIOK_gAEubHRyNuF3g6424aOp43zLi_o76Iu39FR6uHcCr50KqT_YxaWYdL_0A2-Eh-Zi4F0CO0CQcLB3-dm44VZuuVpifCAT3rALpHfOicSp2fvYjOjTnt8Q40NkJXjDZJh1Hgt0QMBeEAJoH74ykZpb97HUnBBS5hSi35SlRqYYTrAlvtKiSsaC3fS93kUq_CSwW4t8H5omFjv8_xdIm6m5s-vG5Fd7XKGy6qIysTNVF297IzQT-H9ry1peo3cKW_mt-Nf55ZCVrnxJt9ZkrsOwmR8hBsLMivGrJCleIGemqBC4FkqobkVFxAZamRW3BoijMRwoYy0VM96i-mnPJwpIVFiaUJ2EMivMX6RKULLBj6PYmORWVwjqWIdlhAp85jtuqbhzB1fu7o8SI-Pbkszb_GMk6S6ZXNXe3qRK2oJo3w_sAUcwMJzLwzTkIF73P3-T5JLV08euaSgZ2flh86Lgy-5iS3Jw_9N2nv8Tue17a1SX_p7dV_fFaogbozUF5TgbSoN2oOGhaZpWv8NwDueDnCwc-fnssW-z_ICmlwPLNbGffuOwbcXbxlcAt8LFhbMsRCMZdnlu4tZCC1rDunx51K8GQnCrzUULcfNhcNNwLz5t1ktyXc3_lXFoCYq1izi4p2RmXplPdQnLmMZXjScf2lzYszHvgjmSj1BAogyO11HZKnAuEVWwB_f3PRrrzYMNbiLVrKo4DfahT_QSw2HEcOnYnUTBHtPV20",
     "salt": "LFEJzl-a5mpxhOH97MNJ6A==",
-    "text": "Gaul was an ancient Celtic land. It covers lands now part of France. It also included areas of modern Belgium, Germany, and Switzerland. Julius Caesar brought these lands under Roman power. He wrote about them in his Gallic Wars. Much of what we know about continental Celts comes from Caesar. His truthfulness is hard to gauge. He wanted political power over the Celts. The Gauls were not one tribe. They were many tribal peoples. They shared a common language and roughly common beliefs and customs.",
+    "text": "Gaul was an ancient Celtic land. The name in modern use usually means a region of Europe bounded by the Rhine, the Alps, the Mediterranean, the Pyrenees, and the Atlantic and Channel shores. The term answers to Gallia Transalpina, that is Gaul beyond the Alps as seen from Rome. North of the Alps, Celts later moved south into the Po valley to form Cisalpine Gaul, and raids from there reached as far as the sack of Rome about 390 BCE. Caesar brought the northern peoples under Roman power and divided them into the Belgae, the Aquitani, and the Celtae or Galli. His campaigns ran from 58 to 51 BCE. The Greeks called these folk Celtoi, and the name links to a Celtic word for fierce spiritedness; in Old Irish gal means boldness. Much of what we know of the Gauls comes down through Roman accounts.",
     "okr": {
-        "objective": "Record Gaul as the ancient Celtic land described by Julius Caesar.",
+        "objective": "Expand the Gaul node with the Koch description of its borders, peoples, and place in the Roman world.",
         "key_results": [
-            "Gaul covered lands now in France, Belgium, Germany, and Switzerland.",
-            "Caesar wrote of the Gauls in his Gallic Wars.",
-            "The Gauls were many tribes sharing a common language and customs."
+            "Define Gaul by its borders and identify it with Gallia Transalpina.",
+            "Record the Cisalpine Celtic lands and the sack of Rome about 390 BCE.",
+            "Name Caesar's division of northern Gaul into Belgae, Aquitani, and Celtae.",
+            "Note the Celtic root of the name and the weight of Roman accounts."
         ],
-        "evidence": "Monaghan, The Encyclopedia of Celtic Mythology and Folklore, 2003"
+        "evidence": "Koch 2006, s.v. 'Gaul'"
     }
 }

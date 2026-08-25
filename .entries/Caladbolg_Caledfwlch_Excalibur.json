@@ -1,0 +1,80 @@
+{
+    "name": "Caladbolg/Caledfwlch/Excalibur",
+    "attributes": [
+        {
+            "entity": "Caladbolg",
+            "attribute": "the great sword of the Irish hero Fergus mac Roich"
+        },
+        {
+            "entity": "Caledfwlch",
+            "attribute": "the Welsh cognate name for the same ancient sword"
+        },
+        {
+            "entity": "Excalibur",
+            "attribute": "the later Arthurian form of the blade"
+        },
+        {
+            "entity": "Fergus mac Roich",
+            "attribute": "the Ulster hero who carried the sword Caladbolg"
+        },
+        {
+            "entity": "Tain Bo Cuailnge",
+            "attribute": "the Irish saga that preserves the sword tradition"
+        },
+        {
+            "entity": "Ulster Cycle",
+            "attribute": "the tale collection that keeps the oldest sword memory"
+        },
+        {
+            "entity": "Arthur",
+            "attribute": "the king whose sword is called Excalibur in the legends"
+        }
+    ],
+    "entities": [
+        {
+            "entity": "Caladbolg",
+            "type": "Artifact"
+        },
+        {
+            "entity": "Caledfwlch",
+            "type": "Artifact"
+        },
+        {
+            "entity": "Excalibur",
+            "type": "Artifact"
+        },
+        {
+            "entity": "Fergus mac Roich",
+            "type": "Person"
+        },
+        {
+            "entity": "Arthur",
+            "type": "Person"
+        },
+        {
+            "entity": "Ulster Cycle",
+            "type": "Collection"
+        },
+        {
+            "entity": "Tain Bo Cuailnge",
+            "type": "Tale"
+        }
+    ],
+    "sources": [
+        "Koch 2006, s.v. 'Caladbolg/Caledfwlch/Excalibur'"
+    ],
+    "image": [],
+    "cyphertext": "",
+    "salt": "",
+    "text": "Caladbolg is the great sword of Fergus mac Roich. Fergus stands among the chief warriors of the Ulster sagas. The blade appears within the Tain Bo Cuailnge saga. This Irish tale preserves his name and deeds. Fergus wields the weapon with great strength in war. The Irish name later travels across the sea. The Welsh give the parallel sword the name Caledfwlch. In the later legends the same blade belongs to Arthur. That famous weapon is called Excalibur. Each form springs from one ancient root. The Ulster Cycle keeps the oldest memory of the weapon.",
+    "okr": {
+        "objective": "Document the shared sword tradition of Caladbolg, Caledfwlch and Excalibur.",
+        "key_results": [
+            "Name the owner of the Irish sword",
+            "Trace the Welsh cognate and the Arthurian form",
+            "Locate the tale that preserves the tradition"
+        ],
+        "evidence": "Koch 2006, s.v. 'Caladbolg/Caledfwlch/Excalibur'"
+    },
+    "order": 387
+}

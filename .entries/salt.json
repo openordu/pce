@@ -1,55 +1,95 @@
 {
-  "name": "salt",
-  "attributes": [
-    {
-      "entity": "salt",
-      "attribute": "a trade good and later a charm against fairies"
-    },
-    {
-      "entity": "Hallstatt",
-      "attribute": "the Celtic center of salt mining in Austria"
-    },
-    {
-      "entity": "fairy",
-      "attribute": "beings said to be repelled by salt and iron"
-    }
-  ],
-  "entities": [
-    {
-      "entity": "salt",
-      "type": "Concept"
-    },
-    {
-      "entity": "Hallstatt",
-      "type": "Place"
-    },
-    {
-      "entity": "Samhain",
-      "type": "Concept"
-    },
-    {
-      "entity": "fairy",
-      "type": "Being"
-    }
-  ],
-  "sources": [
-    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-  ],
-  "image": [
-    "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/DeadSeaIsrael5.jpg/1200px-DeadSeaIsrael5.jpg"
-  ],
-  "cyphertext": "PjofvV3vjhe0yLy9_NHFw2dX6t3GAPGMHcUHOJU4UxYP6c02_W7Pu3Qc4jFFusTGMw6a8bF5W6Jsjqntb5PSp3r71yO0EY1Mi42p1BK_ai_hwoqPV_b0-OcxyjuV4lmXvuLLri6kXRqsIi3ummTYoRiUd-aN4hjkhIfamuNeD_KQb9X7jZ-i6mx1B16f8rt1LTIbjNcssKdFRYspXqis_YlUMceXWiHT5vcfWK0ih7VT-3HUMYWfvs8TXbcGJcY1gCY7inMVHJiNz2c4f-S5pcIUY7QgaqIvWklYYeWP9TS-xpkvOIrQG1waKxVmrOeo86H2_bFBrySpQKRXv5kRgYqUz-SscPx7kn117-xFE65cV1JBO3wPtexkk-0TrDPQBvkrsRsjUCHud832KAl-CGRJss-NT2lYM6APKKSoWlKe64Z6ICHvFcGNoBtl9VTqW3HyGFe2D5oSgYdYOCPrZIiu8mZg1eyl2aO3b1GvRUL5bKMP2L5EOXuxLVcR07rryF_IWize9lA1QjdrL3QEgGI6dl83LBYAbZlxXXqbi1HgzWdTGCA_sUVHci91Vnfrbosqaed4-bS_i0mmVdveEWft6Nr0sWn-sE6bQYYwihh-tdTZB5_XJ0MdbGtrq0eEVoaVTicUmljuTNgQvYEraBE3oj5X1RO3ujngulVfC7RRm18TTf20PyJ-aRPMvRXyNepH6N8cWOhpAwu7yc4y-cxKoe5LrmVovrPuv5rAIQ9lJXNEZpuELtiB30DlrgX7AbrnuN7MIHF9xJ489UM-XLQ0HbY--HGoyy_e2ZDQsOI1XJKoMeYjgTFTLiyi5dVcPtAyMPUPVnYRIRz_mbOJZiT7JIi3vb1S-LwM260v3wLt4Hbx0tJse5-Pl-h0jK-KWRBcnE0cBYFgsIJ9hRMgAKnddworL0Aef76-CpP5FUWQfapbqbnyi6xxu5VnyQcmYyBPTnwFLUXGR6XP-O2e01--hyhEiMwjIpbQa8fYEujoQk11ThP12C2agwJ32wseU73eOMwyWBqCEzkIhiGZGAGchdwE8U4vMqIUW6FQwtDrPHGR0VU_3zTKKlVzo9FlO79i0a3BVPFD9ikYsZXxWyxIalGVQLo0OoNVheKy-mw4gCPZti7ZMqGtivdh-8L7A_a54zbeoFWIJ9tO7sJ0Ys57_L-qOA4lPfZLyxRBtu7xq5nwfwJaDSj44lzBtKrdh477pX-h2F0mS1v0TbY1RkFut17Bg6jZm3v-uEBp_9jyzmbOn-bC2qxBAmOTCF3rlFvnt0bxiU2mdZRvfG4Q5uyco7kiyz7WOxox8d8AhQCBnEipfa_wZVlFsBBOMH8S57VmbG950ohTLvCe5AwXeTKxsvMUFYIX70Kpl-NYl0FC7AfhW8d_wgtX7T8vgclsyoVFXpNDqvMMEQFaO3SBW6rEOaEH2CbmxDM_O9KRxMgs2bg0HuRFb7o3Qqez3Ft14QEWt7WhoS4RayLWPw5f7izsW5STuHyhBlOPBIeQn__F63hIjR-M9ght8ePVL-wBFNT1EoX3SfDvQtMJlgdKTO8aJq7yIQJxXoqzuXAm7Meqr2UAiopXnrvCd23_NZ0q7nFKHQzIQpKwQ9j4le3LKnACtMvZOIWnS_e-CqOsV5BeFZs05JuTBzoWpiWtnJt1RYbqN_PHaMIgEYHGoI6tSHfF0Njna4IIgWwjcT_ZSTwCANI9tsPyzdGpi5FkXzk5gu-qVAkpAhu8QPNd4mmBwURqKVzUAGKfC-6xFbP_iZcSvb4sivnxteTPYTi59Pja0AopIsEHpmQ5dGwPDIwouy8QkO3ecPcZQjs-utE4fhb2itcuwHysuxVai6XMWg5b8AmFRkdOSphiJBjht8s99vjyWRKmsQMaIaKMh0tnZfB9WaEW8ND7bo1GzMihgeCO4wOJWBJxhpP7uPdRepWw2C_wRn5kPT5-3VA7QRrEnPfrlbGG1w7eQ_ZXV2Qrsc39BzcsHV11aKbkq3erOYs0N4T5L3RxV3c_8EaXa8uCiOQ1hFR3Z59ibFhnbc58bBNrkoEMkAJT-wWVQUc2hpy0dUqi1nKuxl_Nc9unoXGidOlgGYOCzj60_fF8V5TPEl6SjKPIcod03z924UdmUNdBgEfSH7CjAKD97R_TwepSOYLCd5ddY80CMzK5ZuaYaQ==",
-  "salt": "nKWiQ_CBOUgInO4gTV21Yg==",
-  "text": "Salt is a symbolic material. The Celts drew much of their early wealth from it. Great mines worked near their center at Hallstatt in Austria. Inland peoples needed salt to keep meat through winter. They salted meat and fish. Salt was also traded for valuables from far away. On the continent the Celts used it as a plain commodity. Among the island Celts it gained a second meaning. Salt was thought to repel fairies. A traveler who carried salt was safe from their mischief. Even salted meat could shield a person on bad nights such as Samhain. Iron worked the same way, as nails and scissors. So salt became both a trade good and a charm.",
-  "okr": {
-    "objective": "Document salt as Celtic trade and charm.",
-    "key_results": [
-      "Record the wealth brought by salt mining at Hallstatt.",
-      "Record salt as a charm against fairies.",
-      "Record the parallel power of iron."
+    "name": "salt",
+    "attributes": [
+        {
+            "entity": "salt",
+            "attribute": "a trade good and later a charm against fairies"
+        },
+        {
+            "entity": "Hallstatt",
+            "attribute": "the Celtic center of salt mining in Austria"
+        },
+        {
+            "entity": "fairy",
+            "attribute": "beings said to be repelled by salt and iron"
+        },
+        {
+            "entity": "salt",
+            "attribute": "came from the sea, from springs, and from mineral mines"
+        },
+        {
+            "entity": "salt",
+            "attribute": "was made by evaporation and by mining from the Late Bronze Age"
+        },
+        {
+            "entity": "salt",
+            "attribute": "was called murlúaith in Old Irish law and used for salting meat"
+        },
+        {
+            "entity": "salt",
+            "attribute": "drew a tax, salanngabál, on the Aran Islands"
+        },
+        {
+            "entity": "Hallstatt",
+            "attribute": "with Dürrnberg supplied the great Alpine mines and brought the folk wealth"
+        }
     ],
-    "evidence": [
-      "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore (2008): salt."
-    ]
-  }
+    "entities": [
+        {
+            "entity": "salt",
+            "type": "Concept"
+        },
+        {
+            "entity": "Hallstatt",
+            "type": "Place"
+        },
+        {
+            "entity": "Samhain",
+            "type": "Concept"
+        },
+        {
+            "entity": "fairy",
+            "type": "Being"
+        },
+        {
+            "entity": "briquetage",
+            "type": "concept"
+        },
+        {
+            "entity": "Dürrnberg",
+            "type": "place"
+        },
+        {
+            "entity": "Aran Islands",
+            "type": "place"
+        },
+        {
+            "entity": "Old Irish law",
+            "type": "concept"
+        },
+        {
+            "entity": "Aislinge Meic Con Glinne",
+            "type": "text"
+        }
+    ],
+    "sources": [
+        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.",
+        "Koch 2006, s.v. 'Salt'"
+    ],
+    "image": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/DeadSeaIsrael5.jpg/1200px-DeadSeaIsrael5.jpg"
+    ],
+    "cyphertext": "PjofvV3vjhe0yLy9_NHFw2dX6t3GAPGMHcUHOJU4UxYP6c02_W7Pu3Qc4jFFusTGMw6a8bF5W6Jsjqntb5PSp3r71yO0EY1Mi42p1BK_ai_hwoqPV_b0-OcxyjuV4lmXvuLLri6kXRqsIi3ummTYoRiUd-aN4hjkhIfamuNeD_KQb9X7jZ-i6mx1B16f8rt1LTIbjNcssKdFRYspXqis_YlUMceXWiHT5vcfWK0ih7VT-3HUMYWfvs8TXbcGJcY1gCY7inMVHJiNz2c4f-S5pcIUY7QgaqIvWklYYeWP9TS-xpkvOIrQG1waKxVmrOeo86H2_bFBrySpQKRXv5kRgYqUz-SscPx7kn117-xFE65cV1JBO3wPtexkk-0TrDPQBvkrsRsjUCHud832KAl-CGRJss-NT2lYM6APKKSoWlKe64Z6ICHvFcGNoBtl9VTqW3HyGFe2D5oSgYdYOCPrZIiu8mZg1eyl2aO3b1GvRUL5bKMP2L5EOXuxLVcR07rryF_IWize9lA1QjdrL3QEgGI6dl83LBYAbZlxXXqbi1HgzWdTGCA_sUVHci91Vnfrbosqaed4-bS_i0mmVdveEWft6Nr0sWn-sE6bQYYwihh-tdTZB5_XJ0MdbGtrq0eEVoaVTicUmljuTNgQvYEraBE3oj5X1RO3ujngulVfC7RRm18TTf20PyJ-aRPMvRXyNepH6N8cWOhpAwu7yc4y-cxKoe5LrmVovrPuv5rAIQ9lJXNEZpuELtiB30DlrgX7AbrnuN7MIHF9xJ489UM-XLQ0HbY--HGoyy_e2ZDQsOI1XJKoMeYjgTFTLiyi5dVcPtAyMPUPVnYRIRz_mbOJZiT7JIi3vb1S-LwM260v3wLt4Hbx0tJse5-Pl-h0jK-KWRBcnE0cBYFgsIJ9hRMgAKnddworL0Aef76-CpP5FUWQfapbqbnyi6xxu5VnyQcmYyBPTnwFLUXGR6XP-O2e01--hyhEiMwjIpbQa8fYEujoQk11ThP12C2agwJ32wseU73eOMwyWBqCEzkIhiGZGAGchdwE8U4vMqIUW6FQwtDrPHGR0VU_3zTKKlVzo9FlO79i0a3BVPFD9ikYsZXxWyxIalGVQLo0OoNVheKy-mw4gCPZti7ZMqGtivdh-8L7A_a54zbeoFWIJ9tO7sJ0Ys57_L-qOA4lPfZLyxRBtu7xq5nwfwJaDSj44lzBtKrdh477pX-h2F0mS1v0TbY1RkFut17Bg6jZm3v-uEBp_9jyzmbOn-bC2qxBAmOTCF3rlFvnt0bxiU2mdZRvfG4Q5uyco7kiyz7WOxox8d8AhQCBnEipfa_wZVlFsBBOMH8S57VmbG950ohTLvCe5AwXeTKxsvMUFYIX70Kpl-NYl0FC7AfhW8d_wgtX7T8vgclsyoVFXpNDqvMMEQFaO3SBW6rEOaEH2CbmxDM_O9KRxMgs2bg0HuRFb7o3Qqez3Ft14QEWt7WhoS4RayLWPw5f7izsW5STuHyhBlOPBIeQn__F63hIjR-M9ght8ePVL-wBFNT1EoX3SfDvQtMJlgdKTO8aJq7yIQJxXoqzuXAm7Meqr2UAiopXnrvCd23_NZ0q7nFKHQzIQpKwQ9j4le3LKnACtMvZOIWnS_e-CqOsV5BeFZs05JuTBzoWpiWtnJt1RYbqN_PHaMIgEYHGoI6tSHfF0Njna4IIgWwjcT_ZSTwCANI9tsPyzdGpi5FkXzk5gu-qVAkpAhu8QPNd4mmBwURqKVzUAGKfC-6xFbP_iZcSvb4sivnxteTPYTi59Pja0AopIsEHpmQ5dGwPDIwouy8QkO3ecPcZQjs-utE4fhb2itcuwHysuxVai6XMWg5b8AmFRkdOSphiJBjht8s99vjyWRKmsQMaIaKMh0tnZfB9WaEW8ND7bo1GzMihgeCO4wOJWBJxhpP7uPdRepWw2C_wRn5kPT5-3VA7QRrEnPfrlbGG1w7eQ_ZXV2Qrsc39BzcsHV11aKbkq3erOYs0N4T5L3RxV3c_8EaXa8uCiOQ1hFR3Z59ibFhnbc58bBNrkoEMkAJT-wWVQUc2hpy0dUqi1nKuxl_Nc9unoXGidOlgGYOCzj60_fF8V5TPEl6SjKPIcod03z924UdmUNdBgEfSH7CjAKD97R_TwepSOYLCd5ddY80CMzK5ZuaYaQ==",
+    "salt": "nKWiQ_CBOUgInO4gTV21Yg==",
+    "text": "In the early Celtic world, salt stood as a vital resource. It is the compound NaCl, and it came from three sources. Seawater held it in solution, salt springs carried it, and large mineral beds stored it underground. People made salt two ways. They evaporated salty water in shallow pans, and they mined the hard mineral. Both crafts date from the Late Bronze Age, roughly 1400 to 1200 BC. The broken clay pans, called briquetage, survive along the European coasts. Tregastell and Sene in Brittany have yielded good finds. Salt springs fed the works at Bad Reichenhall in Germany. The richest mines lay in the eastern Alps, at Hallstatt in Upper Austria and at Dürrnberg bei Hallein in Salzburg. The Hallstatt folk grew wealthy on this trade, and their name still marks the Iron Age culture.\n\nThe word for salt runs through the Celtic tongues. The Welsh word is halen. Breton gives holenn. Cornish has holen, and Old Irish salann. The roots differ because of a sound shift from s to h that swept parts of the south. Latin pushed this change, for Rome ruled the lands where it happened. Ireland stayed outside the empire, so its speech kept the s. Old Irish law names the stuff murlúaith, sea-ash, and uses it to salt cut meat. Because no Irish mines are known, scholars think people burnt seaweed and took salt from the ashes. A salt tax, called salanngabál, is recorded on the Aran Islands. Ships carried salt to Ireland, and one wild tale speaks of English salt, salann Saxanach.",
+    "okr": {
+        "objective": "Document salt as a vital early Celtic resource and trade good.",
+        "key_results": [
+            "Record the three sources of salt and the two ways the Celts made it.",
+            "Record the great Alpine mines at Hallstatt and Dürrnberg and the wealth they brought.",
+            "Record the Celtic words for salt and the Irish practice of taking salt from burnt seaweed."
+        ],
+        "evidence": "Koch 2006, s.v. 'Salt'"
+    },
+    "order": 1963
 }

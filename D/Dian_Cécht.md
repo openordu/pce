@@ -2,47 +2,97 @@
 layout: layouts/pce.njk
 title: Dian Cécht
 icon: file-lines
-order: 673
+order: 674
 contributors: [ 'Christopher Godwin' ]
 attributes:
-  - herbs one for every part of the human body
-  - herbs one for every day of the year
+  - Dian Cécht master of leechcraft for the Tuatha DÉ Danann
+  - Well of Slaine healed every wound except beheading
+  - Nuada lost his arm in battle and later yielded the throne
+  - MIACH healed Nuada by growing skin over the silver arm
+  - AIRMID found healing herbs growing at Miach's grave
+  - Dian Cécht physician of the gods, son of the great god of Ireland
+  - Dian Cécht cast the ill to the well in the fight against the Firogiro
+  - Miach healed Nuada whole and then was struck down by the father
+  - Airmen gathered and sorted the 365 herbs that grew from the dead one
+  - Bretha A a law text on healing, its lore strongest from Greek and Arab lands
 categories:
+  - Other
+  - god
+  - God
+  - race
+  - goddess
+  - spring
+  - Text
   - person
-  - group of people
-  - land goddess
+  - king
 entities:
-  - Dian Cécht(person)
-  - Miach(person)
-  - Airmid(person)
-  - Fódla(land goddess)
-  - Celts(group of people)
+  - Dian Cécht(god)
+  - Well of Slaine(spring)
+  - Nuada(king)
+  - Bres mac Elatha(king)
+  - MIACH(person)
+  - AIRMID(goddess)
+  - FÓDLA(goddess)
+  - Tuatha DÉ Danann(race)
+  - Mythological Cycle(Other)
+  - Magen Delight(Text)
+  - the Lug(God)
+  - the Dicycle(God)
+  - Cairn, Cered rules(Text)
+  - Apollo(God)
 tags:
   - Dian Cécht
-  - Miach
-  - Airmid
-  - Fódla
-  - Celts
+  - Well of Slaine
+  - Nuada
+  - Bres mac Elatha
+  - MIACH
+  - AIRMID
+  - FÓDLA
+  - Tuatha DÉ Danann
+  - Mythological Cycle
+  - Magen Delight
+  - the Lug
+  - the Dicycle
+  - Cairn, Cered rules
+  - Apollo
 ---
 ``` tab [group1:Info]
 ::: magazinestyle
-Irish god Dian Cécht, also spelled Dian Chect or Diancécht, was the Tuatha Dé Danann's master of leechcraft. Whenever the members of this magical race suffered from illnesses or wounds, they turned to him for help. He knew the location of the Well of Slaine, a spring that could heal any wound except beheading. Healing gods were common among the Celts, and Dian Cécht seems to be the Irish equivalent of the healing water gods known in the continent such as Apollo. The invading Roman legions applied the name through the Interpretatio Romana to local healing gods, of which most were connected to healing waters. Despite his powers and knowledge of the secret spring, Dian Cécht did not always succeed in his healing endeavors. For instance, he failed in treating Nuada, the king of the Tuatha Dé Danann, who had battled against the monstrous Fomorians on the plain of Mag Tuired. One arm was cut off completely by an enemy, and even Dian Cécht could not heal a severed limb. A Blemished King could not rule, so Nuada abdicated the throne of Tara to the evil half-Fomorian Bres mac Elatha. The Tuatha Dé Danann begged Dian Cécht for help again when Bres brought chaos to the land. This time, the god crafted a fully functional arm made of silver for Nuada, who became known as Nuada of the Silver Arm. However, this was not enough. Although he could fight with strength using his metallic arm, Nuada was still too damaged physically to rule. Miach, the son of the healer Dian Cécht, famously healed the Irish king Nuada's severed limb with a magical prosthesis. In time, he would completely heal Nuada by helping his skin grow over the silver prosthesis. However, Dian Cécht was fiercely envious of his son's talent and eventually killed him. Airmid, Miach's sister and a gifted healer herself, found her brother's grave teeming with hundreds of herbs - one for every part of the human body and every day of the year. She diligently sorted them to create a comprehensive system for their use. But Dian Cécht, still consumed by jealousy, destroyed Airmid's work and took the healing secrets with him. Subsequently, Dian Cécht was transformed into Mac Cécht, a more mortal figure who became the husband of Fódla, the land goddess and one of the three land goddesses who welcomed the invading Celts.
+Dian Cécht was the physician of the Tuatha Dé Danann, a god of healing in the Irish Mythological Cycle. His name may join the old word for swift and a word glossed as power. In the tale of the Second Battle of Mag Tuired he is given as the grandfather of the hero Lug. In other accounts he answers as a son of the great god the Dagda. His own children followed the healer's craft, above all his daughter Airmen and his son Miach. In the battle against the Fomoriri, the physicians of his blood cast the wounded warriors into a well, and the men rose again whole and healthy. The healing is credited to the doctors' spells, though the story also calls to mind the cauldron of rebirth that is common in Celtic legends. When the king Nuada lost an arm, Dian Cécht beat for him a working hand of silver. Yet the king could not rule with such a limb, and his son Miach later healed him fully. In a jealous fury Dian Cécht struck down his son. Each time Miach healed the new harm, the father dealt another wound, until the deep loss of such a part could not be joined. From the body of the dead young healer there grew herbs, which Airmen gathered and sorted by the sort of illness each could cure. Dian Cécht then mixed the herbs and hid the pattern, and the secrets of the age of death fled from the land. A law text of the early Irish physicians is named after him, with much of its matter drawn from Greek and Arabic healing lore. The god answers to the healing divinities of the wider gods, whom the Romans called Apollo.
 
 :::
 ```
 ``` tab [group1:Attributes]
-- **herbs**: one for every part of the human body
-- **herbs**: one for every day of the year
+- **Dian Cécht**: master of leechcraft for the Tuatha DÉ Danann
+- **Well of Slaine**: healed every wound except beheading
+- **Nuada**: lost his arm in battle and later yielded the throne
+- **MIACH**: healed Nuada by growing skin over the silver arm
+- **AIRMID**: found healing herbs growing at Miach's grave
+- **Dian Cécht**: physician of the gods, son of the great god of Ireland
+- **Dian Cécht**: cast the ill to the well in the fight against the Firogiro
+- **Miach**: healed Nuada whole and then was struck down by the father
+- **Airmen**: gathered and sorted the 365 herbs that grew from the dead one
+- **Bretha A**: a law text on healing, its lore strongest from Greek and Arab lands
 ```
 ``` tab [group1:Entities]
-- **Dian Cécht**: person
-- **Miach**: person
-- **Airmid**: person
-- **Fódla**: land goddess
-- **Celts**: group of people
+- **Dian Cécht**: god
+- **Well of Slaine**: spring
+- **Nuada**: king
+- **Bres mac Elatha**: king
+- **MIACH**: person
+- **AIRMID**: goddess
+- **FÓDLA**: goddess
+- **Tuatha DÉ Danann**: race
+- **Mythological Cycle**: Other
+- **Magen Delight**: Text
+- **the Lug**: God
+- **the Dicycle**: God
+- **Cairn, Cered rules**: Text
+- **Apollo**: God
 ```
 ``` tab [group1:Sources]
 - O’Rahilly, Thomas. Early Irish History and Mythology. Dublin: The Dublin Institute for Advanced Studies, 1946, 66.
 - These are borne by people who claim descent from one or another of the mythological Diarmaits. The most important Diarmaits are:;
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
+- Koch 2006, s.v. 'Dian Cécht'
 ```

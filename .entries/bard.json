@@ -1,70 +1,230 @@
 {
- "text": "The bard was a rank in Celtic society. His words held the power to bless and to curse. In Gaul he was the lowest order of poets. He sang the songs and recited the old tales. He acted as a historian as well. He could not change the facts of a story or a family line. The higher orders were the diviners and the druids. In Ireland a young bard learned his craft. He memorized hundreds of narratives. Then he learnt to compose fast in a fixed form, and the craft was bound to prophecy and the working of spells. The greatest poet was the satirist. His sharp words could bring low an unworthy king. The line between the poet, the judge, and the prophet was never sharp.",
- "entities": [
-  {
-   "entity": "bard",
-   "type": "Person"
-  },
-  {
-   "entity": "druid",
-   "type": "Group"
-  },
-  {
-   "entity": "vates",
-   "type": "Group"
-  },
-  {
-   "entity": "Ollam",
-   "type": "Group"
-  },
-  {
-   "entity": "Gaul",
-   "type": "Place"
-  },
-  {
-   "entity": "Ireland",
-   "type": "Place"
-  }
- ],
- "attributes": [
-  {
-   "entity": "bard",
-   "attribute": "singer and reciter of the old stories"
-  },
-  {
-   "entity": "bard",
-   "attribute": "held the power to bless and to curse"
-  },
-  {
-   "entity": "bard",
-   "attribute": "the lowest rank of poet in Gaul"
-  },
-  {
-   "entity": "bard",
-   "attribute": "kept the bare facts of a story whole"
-  },
-  {
-   "entity": "bard",
-   "attribute": "his satire could punish a king"
-  }
- ],
- "okr": {
-  "objective": "The bard is a lower-rank Celtic poet and historian whose songs and satire carried the power to bless or curse.",
-  "key_results": [
-   "The bard was a singer and reciter, the lowest poet rank in Gaul",
-   "The poet held an assumed power to bless and to curse",
-   "The bard could not alter the facts of a story or genealogy",
-   "The young bard memorized hundreds of narratives before reciting alone"
-  ],
-  "evidence": "Monaghan 2008, s.v. 'bard'."
- },
- "image": [
-  "https://upload.wikimedia.org/wikipedia/commons/9/90/Hope-coventina01a.jpg"
- ],
- "cyphertext": "WxZ8F5YQ_z43WfrRAdc5V1LRkn5f8vAeD7nKaGZmm7SKgJCyHUlOGDsS72hyKmXO9nT44GnQJGdZrX3ZRD8_Vg7657Azn9XuBqjtBw1uTHpwxKqgsMUPnmdH0TY78kkGag0uvKXiWaPi5bdumohrW8fwQ3nECnI2_6JsV_T62_VWQSno4BNniWgw7rALNIrwv8iMwdZjW0-s2OsUm5paPLwHYBnGCmr5TftvUzAK8X9QgeDHl2UVZ9mFiXO2297ILc1vPhQa6mjuxMTnVKHnjzGpQh27tZqkwwDJ0iNOK2i71Kd7qCcIOQezmxnj_wYpIxISELZrne--WV7NworV2IdvBgSmDfTGoQCVmqc1exRHPcxqIMFQF-w7FGfQwN-rrMZeV9dIoJUm_fkfB8xlj18TrpE8SulZNcts0Waw9jZhfO-W2XfGQga1IYT7r-_5B_7tqxKu7DK98oTdVxyMbdzFpf7aSAcdrLP1Ap1uA-6Luy-qUvWJGU4Q7lu_KKAziRAq_UV0rZt4FJ7tCP1vk6NiaBaeYWWBp_rNB5wjPWnRgLWsWEI3ky5m17jyyRhSxRd2XWfUP4LGO-GhauQWuHpQhM8Siad9yd2uPWUESnDu_sGY4qkqm-p6UgDoNThO3BfmPebH1BkRqJNxsk4EUeCZ2ULouP50uDtRA1kez-1S4XsJkdriaG_aboYv4jz3f1kouzm1tCkU5iflWlo4DNuo7YXLAi2koL5qqqKowJyIP1fSlIv9U_WDYqR50mRRVv1Lq8Ljy0J16Q==",
- "salt": "pcZndrL3KdqkguNp4M48QA==",
- "sources": [
-  "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
- ],
- "name": "bard"
+    "name": "bard",
+    "entities": [
+        {
+            "entity": "Gaul",
+            "type": "location"
+        },
+        {
+            "entity": "Ireland",
+            "type": "location"
+        },
+        {
+            "entity": "bards",
+            "type": "social role"
+        },
+        {
+            "entity": "reciters",
+            "type": "social role"
+        },
+        {
+            "entity": "diviners",
+            "type": "social role"
+        },
+        {
+            "entity": "prophets",
+            "type": "social role"
+        },
+        {
+            "entity": "vates",
+            "type": "social role"
+        },
+        {
+            "entity": "fili",
+            "type": "social role"
+        },
+        {
+            "entity": "druids",
+            "type": "social role"
+        },
+        {
+            "entity": "magician-priests",
+            "type": "social role"
+        },
+        {
+            "entity": "men",
+            "type": "gender"
+        },
+        {
+            "entity": "women",
+            "type": "gender"
+        },
+        {
+            "entity": "potential bard",
+            "type": "requirement for social role"
+        },
+        {
+            "entity": "training",
+            "type": "requirement"
+        },
+        {
+            "entity": "extemporaneous composition",
+            "type": "skill"
+        },
+        {
+            "entity": "altered states",
+            "type": "skill"
+        },
+        {
+            "entity": "Prophecy",
+            "type": "connected skill"
+        },
+        {
+            "entity": "spell-casting",
+            "type": "connected skill"
+        },
+        {
+            "entity": "Lovernios",
+            "type": "Person"
+        },
+        {
+            "entity": "Posidonius",
+            "type": "Person"
+        },
+        {
+            "entity": "Strabo",
+            "type": "Person"
+        },
+        {
+            "entity": "ollam",
+            "type": "social role"
+        },
+        {
+            "entity": "bard",
+            "type": "Person"
+        },
+        {
+            "entity": "druid",
+            "type": "Group"
+        },
+        {
+            "entity": "vates",
+            "type": "Group"
+        },
+        {
+            "entity": "Ollam",
+            "type": "Group"
+        },
+        {
+            "entity": "Gaul",
+            "type": "Place"
+        },
+        {
+            "entity": "Ireland",
+            "type": "Place"
+        }
+    ],
+    "attributes": [
+        {
+            "entity": "bards",
+            "attribute": "social role"
+        },
+        {
+            "entity": "reciters",
+            "attribute": "social role"
+        },
+        {
+            "entity": "diviners",
+            "attribute": "social role"
+        },
+        {
+            "entity": "prophets",
+            "attribute": "social role"
+        },
+        {
+            "entity": "vates",
+            "attribute": "social role"
+        },
+        {
+            "entity": "fili",
+            "attribute": "social role"
+        },
+        {
+            "entity": "druids",
+            "attribute": "social role"
+        },
+        {
+            "entity": "magician-priests",
+            "attribute": "social role"
+        },
+        {
+            "entity": "men",
+            "attribute": "gender"
+        },
+        {
+            "entity": "women",
+            "attribute": "gender"
+        },
+        {
+            "entity": "potential bard",
+            "attribute": "requirement for social role"
+        },
+        {
+            "entity": "memorization of hundreds of narratives",
+            "attribute": "training requirement"
+        },
+        {
+            "entity": "extemporaneous composition",
+            "attribute": "skill requirement"
+        },
+        {
+            "entity": "altered states",
+            "attribute": "skill requirement"
+        },
+        {
+            "entity": "Prophecy",
+            "attribute": "connected skill"
+        },
+        {
+            "entity": "spell-casting",
+            "attribute": "connected skill"
+        },
+        {
+            "entity": "bard",
+            "attribute": "formed one of three orders with the vates and the druids"
+        },
+        {
+            "entity": "bard",
+            "attribute": "served a diplomatic and praise-singing role"
+        },
+        {
+            "entity": "bard",
+            "attribute": "singer and reciter of the old stories"
+        },
+        {
+            "entity": "bard",
+            "attribute": "held the power to bless and to curse"
+        },
+        {
+            "entity": "bard",
+            "attribute": "the lowest rank of poet in Gaul"
+        },
+        {
+            "entity": "bard",
+            "attribute": "kept the bare facts of a story whole"
+        },
+        {
+            "entity": "bard",
+            "attribute": "his satire could punish a king"
+        }
+    ],
+    "sources": [
+        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.",
+        "Koch 2006, s.v. 'Bard'"
+    ],
+    "image": [
+        "https://upload.wikimedia.org/wikipedia/commons/9/90/Hope-coventina01a.jpg"
+    ],
+    "cyphertext": "WxZ8F5YQ_z43WfrRAdc5V1LRkn5f8vAeD7nKaGZmm7SKgJCyHUlOGDsS72hyKmXO9nT44GnQJGdZrX3ZRD8_Vg7657Azn9XuBqjtBw1uTHpwxKqgsMUPnmdH0TY78kkGag0uvKXiWaPi5bdumohrW8fwQ3nECnI2_6JsV_T62_VWQSno4BNniWgw7rALNIrwv8iMwdZjW0-s2OsUm5paPLwHYBnGCmr5TftvUzAK8X9QgeDHl2UVZ9mFiXO2297ILc1vPhQa6mjuxMTnVKHnjzGpQh27tZqkwwDJ0iNOK2i71Kd7qCcIOQezmxnj_wYpIxISELZrne--WV7NworV2IdvBgSmDfTGoQCVmqc1exRHPcxqIMFQF-w7FGfQwN-rrMZeV9dIoJUm_fkfB8xlj18TrpE8SulZNcts0Waw9jZhfO-W2XfGQga1IYT7r-_5B_7tqxKu7DK98oTdVxyMbdzFpf7aSAcdrLP1Ap1uA-6Luy-qUvWJGU4Q7lu_KKAziRAq_UV0rZt4FJ7tCP1vk6NiaBaeYWWBp_rNB5wjPWnRgLWsWEI3ky5m17jyyRhSxRd2XWfUP4LGO-GhauQWuHpQhM8Siad9yd2uPWUESnDu_sGY4qkqm-p6UgDoNThO3BfmPebH1BkRqJNxsk4EUeCZ2ULouP50uDtRA1kez-1S4XsJkdriaG_aboYv4jz3f1kouzm1tCkU5iflWlo4DNuo7YXLAi2koL5qqqKowJyIP1fSlIv9U_WDYqR50mRRVv1Lq8Ljy0J16Q==",
+    "salt": "pcZndrL3KdqkguNp4M48QA==",
+    "text": "In the Celtic world the poet held a high place. Their power to praise and to curse gave them great weight. The Roman writers, drawing on Posidonius, described the bards as singers and reciters who travelled with the chieftains, even in war. They recited praises before each listener according to rank. A famous banquet of Lovernios showed the bard at work. A poet arrived late to the feast and sang of Lovernios' greatness. The chief threw him a bag of gold, and the bard sang that even the chariot tracks gave gold to his people. The bards formed one of three honoured orders with the vates, the seers, and the druids. Strabo named the bards as singers and poets, the vates as overseers of sacred rites, and the druids as natural and moral philosophers. The bard often served a diplomatic role, praising an ambassador and his people. In Ireland the bard was a low-ranked poet who still studied hundreds of tales. Rising rank led to the fili, whose highest grade was the ollam. The words of a satirist were feared because honour mattered so much to the Celts. The bardic orders were open to anyone with the calling, regardless of gender.",
+    "okr": {
+        "objective": "Record the bard, the Celtic praise poet.",
+        "key_results": [
+            "Show the bard among the honoured orders of poets, vates, and druids.",
+            "Show the praise-poetry and feast anecdotes from classical accounts.",
+            "Show the Irish bard and fili hierarchy."
+        ],
+        "evidence": "Monaghan 2003, s.v. bard; Koch 2006, s.v. Bard"
+    }
 }

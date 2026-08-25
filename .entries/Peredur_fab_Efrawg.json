@@ -1,0 +1,73 @@
+{
+    "name": "Peredur fab Efrawg",
+    "attributes": [
+        {
+            "entity": "Peredur fab Efrawg",
+            "attribute": "Welsh hero of the Mabinogion"
+        },
+        {
+            "entity": "Perceval",
+            "attribute": "the French knight whose story matches the Welsh tale"
+        },
+        {
+            "entity": "Y Tair Rhamant",
+            "attribute": "the group of three Welsh Romances"
+        },
+        {
+            "entity": "King Arthur",
+            "attribute": "the ruler at whose court Peredur seeks knighthood"
+        },
+        {
+            "entity": "Efrawg",
+            "attribute": "the father of the hero Peredur"
+        }
+    ],
+    "entities": [
+        {
+            "entity": "Peredur fab Efrawg",
+            "type": "Person"
+        },
+        {
+            "entity": "Perceval",
+            "type": "Person"
+        },
+        {
+            "entity": "Efrawg",
+            "type": "Person"
+        },
+        {
+            "entity": "King Arthur",
+            "type": "Person"
+        },
+        {
+            "entity": "Y Tair Rhamant",
+            "type": "Collection"
+        },
+        {
+            "entity": "Mabinogion",
+            "type": "Collection"
+        },
+        {
+            "entity": "Wales",
+            "type": "Place"
+        }
+    ],
+    "sources": [
+        "Koch 2006, s.v. 'Peredur fab Efrawg'"
+    ],
+    "image": [],
+    "cyphertext": "",
+    "salt": "",
+    "text": "Peredur, the son of Efrawg, is a hero of Welsh legend. He stands as the Welsh counterpart of Perceval, the knight of French romance. His tale forms one of the three Welsh Romances, called Y Tair Rhamant. He travels to the court of King Arthur. He asks to be made a knight. He rides out on a long quest. His story holds the pattern of a search. That search mirrors the search for the Grail in France. Welsh writers shaped his name and his deeds. The hero stands apart from the foreign Perceval. He shows that Welsh legend kept its own champion. ",
+    "okr": {
+        "objective": "Document the Welsh hero Peredur fab Efrawg and his link to Perceval.",
+        "key_results": [
+            "Identify Peredur as a Welsh hero",
+            "Name of the son of Efrawg",
+            "Link his tale to the French Perceval",
+            "Place him among the Welsh Romances"
+        ],
+        "evidence": "Koch 2006, s.v. 'Peredur fab Efrawg'"
+    },
+    "order": 1780
+}

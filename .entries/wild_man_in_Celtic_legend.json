@@ -1,0 +1,83 @@
+{
+    "name": "wild man in Celtic legend",
+    "attributes": [
+        {
+            "entity": "wild man",
+            "attribute": "leader who went mad after a catastrophic defeat"
+        },
+        {
+            "entity": "Myrddin",
+            "attribute": "went mad and fled into the woods"
+        },
+        {
+            "entity": "Myrddin",
+            "attribute": "lived a wild solitary life like an animal"
+        },
+        {
+            "entity": "Suíbne Geilt",
+            "attribute": "Irish wild man who wandered mad after battle"
+        },
+        {
+            "entity": "Lailoken",
+            "attribute": "went insane in a great battle"
+        },
+        {
+            "entity": "wild man",
+            "attribute": "gained prophetic vision in madness"
+        }
+    ],
+    "entities": [
+        {
+            "entity": "wild man",
+            "type": "Concept"
+        },
+        {
+            "entity": "Myrddin",
+            "type": "Person"
+        },
+        {
+            "entity": "Suíbne Geilt",
+            "type": "Person"
+        },
+        {
+            "entity": "Lailoken",
+            "type": "Person"
+        },
+        {
+            "entity": "Merlin",
+            "type": "Person"
+        },
+        {
+            "entity": "prophecy",
+            "type": "Concept"
+        },
+        {
+            "entity": "Vita Merlini",
+            "type": "Text"
+        },
+        {
+            "entity": "Cumbria",
+            "type": "Place"
+        },
+        {
+            "entity": "Wales",
+            "type": "Place"
+        }
+    ],
+    "sources": [
+        "Koch 2006, s.v. 'wild man in Celtic legend'"
+    ],
+    "image": [],
+    "cyphertext": "",
+    "salt": "",
+    "text": "The wild man is a figure of Celtic legend. He first appears as a king or poet. A terrible defeat in battle drives him mad. He flees into the wild wood. There he lives a solitary life like an animal. Myrddin, later known as Merlin, is the finest example. Suíbne Geilt offers the Irish form of the tale. Lailoken supplies a third version in northern Britain. The wild man gains prophecy in his exile. His hardened body and his frenzy separate him from sound men.",
+    "okr": {
+        "objective": "Describe the Celtic wild man and his famous examples.",
+        "key_results": [
+            "Define the pattern of a leader maddened after defeat",
+            "Name Myrddin, Suíbne Geilt, and Lailoken as key figures",
+            "Show the wild man's gain of prophetic vision"
+        ],
+        "evidence": "Koch 2006, s.v. 'wild man in Celtic legend'"
+    }
+}

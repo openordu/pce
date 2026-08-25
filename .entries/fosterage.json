@@ -1,67 +1,124 @@
 {
-  "name": "fosterage",
-  "attributes": [
-    {
-      "entity": "fosterage",
-      "attribute": "bond five times more durable than blood"
-    },
-    {
-      "entity": "noble children",
-      "attribute": "reared by unrelated people"
-    },
-    {
-      "entity": "fosterage",
-      "attribute": "fostered training in druidic arts, war, and householding"
-    },
-    {
-      "entity": "Cuchulainn",
-      "attribute": "fought his foster brother Ferdiad"
-    },
-    {
-      "entity": "Conchobar mac Nessa",
-      "attribute": "maternal uncle who fostered Cuchulainn"
-    }
-  ],
-  "entities": [
-    {
-      "entity": "fosterage",
-      "type": "concept"
-    },
-    {
-      "entity": "noble children",
-      "type": "person"
-    },
-    {
-      "entity": "Cuchulainn",
-      "type": "hero"
-    },
-    {
-      "entity": "Ferdiad",
-      "type": "person"
-    },
-    {
-      "entity": "Conchobar mac Nessa",
-      "type": "person"
-    },
-    {
-      "entity": "Ireland",
-      "type": "place"
-    }
-  ],
-  "sources": [
-    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-  ],
-  "cyphertext": "IUtvdKc0_qzn-TMfDBOt-szj185Xyy83fo5AJhKvhbPR_g6aekGHGxbRR_92Jqr0TWLwL-XT1vqTzKKDQeE-ryOUJbE9TWBALVNGvRZTOO1VYjLU36rSY0NKGpcgEd87rn7ii0yb50d615kx97WRB0Bwg5O-YcqxeTO0dbfrhhGn9vzt8ZuR7BFXRfdtr4_-LK4FQx0yoCr4PctFEb84lyCWa_syVihBAum3gA5GSgID-dgnUnyqnBhnO3ooHLcE-LXVqFMKHKclJZiXgf8XrlOHy3hL3ai2IPMdD6MK-guvfjdn0HXD00DfgOsPgZKZ0Cxox_OUkxQQdaK5Grtkw4YD3_kEgchDXITuoS0tlmsbF6E4A-S7hjQn4jGIkUiRFGgvVhogzUP__Qmj5GQFVWE4Byx6IVvlIszzKSdu0b7MNkILxnd9HnPZ4tkKoyYli4yEPDAQijF7OPZS756b1M9pHhGBM-Gfe6D0P9gCJBADxNgWFdz9M4oJnXCmPuarVYfYD2Z2zXoGXrvb00OY3n3Gj3ghTqlBa7ocd25mt84M_2XfQ-KZ985knTEYBs-jxdXDw8Tp9TlE2MPc0_FBqTHr6a4pAaeRbFdDQCol67svXMr7bBGi_6KimfQG8ojAtK_PFHk420tBBEs9eZM89Zc9LMDoFEbx4zhyY8Y9OqDHcoDu_xUprj4EUIysWXKKa5uAgammUMYR_Zi3fu68qbJlRc-YbjE7VVkJkEEwgLNeezL0KdtZUI29O9naFUNA9iAlWVbr91hH1v7CxgTeyPHw-4UHzgL6ZO0ZwOsHKh1fJzRUDcXOMhQKofWG96IS9A60NpWBnRQGFguVIZxs2jaGU6u4pkL9thAERXSeeRz_p4i4h5P-Q0w486ovpQCmR0htTlDmx-vzJ4_SsjA6OXWIM0vf5-TtkHy-Q4h227vWJ7YZcrv6AZv7RnttffGTzaP6bAAnq7alTI7JkSHyfBF8PMSDmdgZ7Kr89rw6bQ_Z_kbei6BAzQOu8xs7WdAtbc3B0xkfZIVBr98rbzwRL_9ZvL5E4gmLP5qgyL-sLRQv39eVMzpbucSb9-q02Ab8fXjmBRDPXLjCG8s_tk0-PyH-7PPvjE4Dh5PzIQlnZugaYplIqU82CcUKPLIICXziIaEqDPQPKvmpqm5YSxhKgE4zmS8LNO-kXJ9HfUJOM4JmdXP1fa4oYfPDPMObOdPckz8YutiwxGJiJqdwFSv7rwO3Yqb-bWBIRTt3L2FGHK28v_TfNQDycHc8L3emIXGYTDscbnUJv_EL8lA6N_yuWV_NtfedAsSOSBd1QhylOJMiHQDU7Os7aE34SUfddbVrdPJe6nlRWtDFRTmatGvgcYrHr7JFhtRa4vg2dIjXmRxjsEYqwlFO1K4GDfNCdynkPbRmiYvW2RPJ4UC2vFkAyl90s3LiWuJtjTXKIztKX2djvUhgqLQjuEfHqsnUhSpYM92rLZekQK37vPgkqjyXvhH_6oqeUvSzsAmvRo22mhfo8dBb6z-VTbzstFt7ZwGi0HOnKby-jkv4RG-pWPX9SetB0bWRoMchK82Rd5vS30yI7UoTS17yoTcuEJGE57SB_kYojyQR-m2dHagxuNL4LcQBojq3JYIUNGncv3W7jx4s2hkmONeJ3vfCq-GTrLzlUhF4dZ48PsEk21QWhjy30ZXQ7y7APDxhWFpgcSH0f3GLdtNUHHQK55Rio51Sx6R86p7Dy1ROV51o63_Toe-rXJCBOkDuunITC2BFpmshnbNic3xKY6YEFUE4JRaowWpE5gGvIzxGdaV2pQ_upJZ6-_uQjjYK0fkOGrseEsBYdmhT0KmJGhldjE9eWlsJhHb8udj5bnL_P0krSfQ0kmWQjME3niYdN_sOXFG9lywRBqYGtbqY0QTWMBJokiSaFc7JAxsj8d4_X2zepcezqY-pvKY7mv6S4YSLWwDDe4--udS889khxyWWTpJNnOG2ooXcwal1MdFi00ejyMpfkV311vWCxEpMV5OVuS8Kx90tW8dtuwDWUMRdmXePUPj-m_i_0vKu0pEw531ay66s8Td4t8tdULFR_WKLbFyt8w4adO5qY6rufuRQHA2fUvmxId4Hvzl65EmB",
-  "salt": "xhfqAgM5bkQDGYPeKr50bg==",
-  "text": "Fosterage was an Irish social custom. Families did not raise their own noble offspring themselves. Unrelated people took them in and raised them. The practice tied families and territories together. Many held the bond of fosterage as five times more durable than the bond of blood. Children gained training in druidic arts, war, and householding. Their food and lodging matched the social standing of their own family. Children raised together in a single home were called foster brothers and sisters even without a blood tie. The most intense bonds in Irish mythology run between fosterlings. The combat of the hero Cuchulainn against his foster brother Ferdiad reaches Ferdiad's death after three days. Fostering by the mother's brother counted as a common choice. His mother's brother, king Conchobar mac Nessa, brought him up in the royal court. Reliance on the maternal uncle shows the matrilineal line carried weight in Irish law alongside strict limits on women's rights. The tie of uncle to fosterling nearly matched parent to child. It also bound the fosterling to care for the foster parents in their old age. The arrangement therefore formed bonds that were legal and financial as well as emotional.",
-  "okr": {
-    "objective": "Fosterage was the Irish custom of raising noble children away from their kin.",
-    "key_results": [
-      "Fosterage bonds ran five times as durable as the bond of blood.",
-      "Foster children learned druidic arts, war, and householding.",
-      "The hero Cuchulainn fought his foster brother Ferdiad.",
-      "Fostering by the maternal uncle carried legal weight in Irish law."
+    "name": "fosterage",
+    "attributes": [
+        {
+            "entity": "fosterage",
+            "attribute": "bond five times more durable than blood"
+        },
+        {
+            "entity": "noble children",
+            "attribute": "reared by unrelated people"
+        },
+        {
+            "entity": "fosterage",
+            "attribute": "fostered training in druidic arts, war, and householding"
+        },
+        {
+            "entity": "Cuchulainn",
+            "attribute": "fought his foster brother Ferdiad"
+        },
+        {
+            "entity": "Conchobar mac Nessa",
+            "attribute": "maternal uncle who fostered Cuchulainn"
+        },
+        {
+            "entity": "aite",
+            "attribute": "names the foster father"
+        },
+        {
+            "entity": "muime",
+            "attribute": "names the foster mother"
+        },
+        {
+            "entity": "fosterage",
+            "attribute": "ran as a fee-based or affection-based contract"
+        },
+        {
+            "entity": "fosterage",
+            "attribute": "foster fee rose with the social rank of the child"
+        },
+        {
+            "entity": "fosterage",
+            "attribute": "maternal and paternal kin each paid half the cost"
+        },
+        {
+            "entity": "foster parents",
+            "attribute": "were not liable for a foster son's crimes under a friendship deal"
+        },
+        {
+            "entity": "fosterage",
+            "attribute": "could secure a child a land right in Wales"
+        },
+        {
+            "entity": "Mabinogi",
+            "attribute": "tales show support between foster kin in later life"
+        }
     ],
-    "evidence": "Monaghan, Encyclopedia of Celtic Mythology and Folklore"
-  }
+    "entities": [
+        {
+            "entity": "fosterage",
+            "type": "concept"
+        },
+        {
+            "entity": "noble children",
+            "type": "person"
+        },
+        {
+            "entity": "Cuchulainn",
+            "type": "hero"
+        },
+        {
+            "entity": "Ferdiad",
+            "type": "person"
+        },
+        {
+            "entity": "Conchobar mac Nessa",
+            "type": "person"
+        },
+        {
+            "entity": "Ireland",
+            "type": "place"
+        },
+        {
+            "entity": "aite",
+            "type": "term"
+        },
+        {
+            "entity": "muime",
+            "type": "term"
+        },
+        {
+            "entity": "altram",
+            "type": "term"
+        },
+        {
+            "entity": "dalta",
+            "type": "term"
+        },
+        {
+            "entity": "Mabinogi",
+            "type": "text"
+        },
+        {
+            "entity": "bondman",
+            "type": "role"
+        }
+    ],
+    "sources": [
+        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.",
+        "Koch 2006, s.v. 'fosterage'"
+    ],
+    "cyphertext": "IUtvdKc0_qzn-TMfDBOt-szj185Xyy83fo5AJhKvhbPR_g6aekGHGxbRR_92Jqr0TWLwL-XT1vqTzKKDQeE-ryOUJbE9TWBALVNGvRZTOO1VYjLU36rSY0NKGpcgEd87rn7ii0yb50d615kx97WRB0Bwg5O-YcqxeTO0dbfrhhGn9vzt8ZuR7BFXRfdtr4_-LK4FQx0yoCr4PctFEb84lyCWa_syVihBAum3gA5GSgID-dgnUnyqnBhnO3ooHLcE-LXVqFMKHKclJZiXgf8XrlOHy3hL3ai2IPMdD6MK-guvfjdn0HXD00DfgOsPgZKZ0Cxox_OUkxQQdaK5Grtkw4YD3_kEgchDXITuoS0tlmsbF6E4A-S7hjQn4jGIkUiRFGgvVhogzUP__Qmj5GQFVWE4Byx6IVvlIszzKSdu0b7MNkILxnd9HnPZ4tkKoyYli4yEPDAQijF7OPZS756b1M9pHhGBM-Gfe6D0P9gCJBADxNgWFdz9M4oJnXCmPuarVYfYD2Z2zXoGXrvb00OY3n3Gj3ghTqlBa7ocd25mt84M_2XfQ-KZ985knTEYBs-jxdXDw8Tp9TlE2MPc0_FBqTHr6a4pAaeRbFdDQCol67svXMr7bBGi_6KimfQG8ojAtK_PFHk420tBBEs9eZM89Zc9LMDoFEbx4zhyY8Y9OqDHcoDu_xUprj4EUIysWXKKa5uAgammUMYR_Zi3fu68qbJlRc-YbjE7VVkJkEEwgLNeezL0KdtZUI29O9naFUNA9iAlWVbr91hH1v7CxgTeyPHw-4UHzgL6ZO0ZwOsHKh1fJzRUDcXOMhQKofWG96IS9A60NpWBnRQGFguVIZxs2jaGU6u4pkL9thAERXSeeRz_p4i4h5P-Q0w486ovpQCmR0htTlDmx-vzJ4_SsjA6OXWIM0vf5-TtkHy-Q4h227vWJ7YZcrv6AZv7RnttffGTzaP6bAAnq7alTI7JkSHyfBF8PMSDmdgZ7Kr89rw6bQ_Z_kbei6BAzQOu8xs7WdAtbc3B0xkfZIVBr98rbzwRL_9ZvL5E4gmLP5qgyL-sLRQv39eVMzpbucSb9-q02Ab8fXjmBRDPXLjCG8s_tk0-PyH-7PPvjE4Dh5PzIQlnZugaYplIqU82CcUKPLIICXziIaEqDPQPKvmpqm5YSxhKgE4zmS8LNO-kXJ9HfUJOM4JmdXP1fa4oYfPDPMObOdPckz8YutiwxGJiJqdwFSv7rwO3Yqb-bWBIRTt3L2FGHK28v_TfNQDycHc8L3emIXGYTDscbnUJv_EL8lA6N_yuWV_NtfedAsSOSBd1QhylOJMiHQDU7Os7aE34SUfddbVrdPJe6nlRWtDFRTmatGvgcYrHr7JFhtRa4vg2dIjXmRxjsEYqwlFO1K4GDfNCdynkPbRmiYvW2RPJ4UC2vFkAyl90s3LiWuJtjTXKIztKX2djvUhgqLQjuEfHqsnUhSpYM92rLZekQK37vPgkqjyXvhH_6oqeUvSzsAmvRo22mhfo8dBb6z-VTbzstFt7ZwGi0HOnKby-jkv4RG-pWPX9SetB0bWRoMchK82Rd5vS30yI7UoTS17yoTcuEJGE57SB_kYojyQR-m2dHagxuNL4LcQBojq3JYIUNGncv3W7jx4s2hkmONeJ3vfCq-GTrLzlUhF4dZ48PsEk21QWhjy30ZXQ7y7APDxhWFpgcSH0f3GLdtNUHHQK55Rio51Sx6R86p7Dy1ROV51o63_Toe-rXJCBOkDuunITC2BFpmshnbNic3xKY6YEFUE4JRaowWpE5gGvIzxGdaV2pQ_upJZ6-_uQjjYK0fkOGrseEsBYdmhT0KmJGhldjE9eWlsJhHb8udj5bnL_P0krSfQ0kmWQjME3niYdN_sOXFG9lywRBqYGtbqY0QTWMBJokiSaFc7JAxsj8d4_X2zepcezqY-pvKY7mv6S4YSLWwDDe4--udS889khxyWWTpJNnOG2ooXcwal1MdFi00ejyMpfkV311vWCxEpMV5OVuS8Kx90tW8dtuwDWUMRdmXePUPj-m_i_0vKu0pEw531ay66s8Td4t8tdULFR_WKLbFyt8w4adO5qY6rufuRQHA2fUvmxId4Hvzl65EmB",
+    "salt": "xhfqAgM5bkQDGYPeKr50bg==",
+    "text": "Fosterage is a system of child care. In this system, adults who are not a child's parents raise the child. The child stays a fixed period. The practice follows set rules. In early Ireland the custom was already established. Its roots stretch back into an Indo-European past. The true origin remains unclear. Old Irish terms carry warmth. Aite names the foster father. Muime names the foster mother. These words draw on a common baby talk. Altram, the main word, carries the sense of feeding and nurture. Dalta names the foster child. Irish legal notes hold three age stages, ending at seven, twelve, and seventeen years. Families chose their own start. The deal stood as a formal contract. One kind ran on a fee. Another kind ran on affection. The fee rose with rank. It took the form of cattle. That payment returned to the family when the term closed. A girl child made the fee higher. Education stood at the core. A fine of two parts fell when a set skill went untaught. The freeman's child learned the quern and food work. Children of higher grade learned games and riding. Both sets of kin paid. Each half gave one share. The mother's kin could protest a match. They kept that right. A blemish on the child cost the foster father two thirds of the fee. Foster care bought by friendship freed the foster parents from the foster child's crimes. Fee-based care made them liable. The age of the child shaped the duty owed. A foster parent could hand the child back by a public claim. The maternal uncle carried strong weight. King Conchobar mac Nessa raised his nephew Cuchulainn in his court. The hero later fought his foster brother Ferdiad to the end. The tie of uncle to fosterling nearly matched parent to child. It bound the child to care for the older kin too. In Wales the record runs thinner. Welsh law placed the child at the father's dish. A child kept with a bondman past a year and a day could win a land right. The tales of the Mabinogi affirm the bond. A fostered adult gave support to his kin in later life. Both sides said the tie should bring prosperity. Fosterage joined households, duties, and fortunes. The practice stood on the strength of its own kinship.",
+    "okr": {
+        "objective": "Fosterage was the formal early custom of raising a noble family's child under another's care.",
+        "key_results": [
+            "Irish law set age stages that closed at seven, twelve, and seventeen years.",
+            "An affection-based tie freed foster parents from a foster child's misdeeds.",
+            "The maternal uncle's role carried legal weight in Irish fosterage.",
+            "A foster relationship could open a land right in Wales."
+        ],
+        "evidence": "Koch 2006, s.v. 'fosterage'"
+    }
 }

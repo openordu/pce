@@ -2,42 +2,84 @@
 layout: layouts/pce.njk
 title: Gundestrup Cauldron
 icon: file-lines
-order: 1166
+order: 1167
 contributors: [ 'Christopher Godwin' ]
 attributes:
-  - goddess conveyed on a cart
-  - horned god resembling the one known elsewhere as Cernunnos
+  - Gundestrup Cauldron a great silver vessel
+  - Gundestrup Cauldron found in the Danish bog in 1891
+  - Gundestrup Cauldron carries relief of gods
+  - Gundestrup Cauldron dates to the 2nd or 1st century BC
+  - goddess shown on a cart
+  - horned god a figure in the Celtic manner
+  - Cernunnos named for the horned god on the cauldron
+  - Taranis the wheel-bearing god
+  - carnyx a long war horn shown in the warrior plate
+  - Gundestrup Cauldron holds a monster of rebirth seen in the Welsh story Branwen
 categories:
-  - object
-  - mythological figure
+  - Group
+  - Person
+  - Deity
+  - Artifact
+  - Text
+  - Place
 entities:
-  - goddess(mythological figure)
-  - horned god(mythological figure)
-  - Cernunnos(mythological figure)
-  - vessel(object)
+  - Gundestrup Cauldron(Artifact)
+  - goddess(Deity)
+  - horned god(Deity)
+  - Denmark(Place)
+  - Celts(Group)
+  - carnyx(Artifact)
+  - Cernunnos(Deity)
+  - Taranis(Deity)
+  - Cimbri(Group)
+  - Branwen(Person)
+  - Mabinogi(Text)
 tags:
+  - Gundestrup Cauldron
   - goddess
   - horned god
+  - Denmark
+  - Celts
+  - carnyx
   - Cernunnos
-  - vessel
+  - Taranis
+  - Cimbri
+  - Branwen
+  - Mabinogi
 ---
 ``` tab [group1:Info]
 ::: magazinestyle
-A significant archaeological artifact, the Gundestrup Cauldron, was discovered in a Danish peat bog in 1891. It is believed to have been ritually deposited or hidden during a crisis. The basin features bas-reliefs across its surface, which depict puzzling scenes resembling rituals and figures resembling divine entities. Dating from the 2nd or 1st century B.C.E., there are disputes regarding whether the basin represents Germanic or Celtic culture, despite the questionable historical significance of the site where the treasure was recovered. Nevertheless, the majority of experts maintain that the cauldron was either crafted by Celts or influenced by Celtic beliefs. Notable figures on the vessel include a goddess being carried on a cart and a horned god resembling the one known elsewhere as Cernunnos.
+The Gundestrup Cauldron is a great silver vessel of the ancient world. Workers found it in a peat bog in Denmark in 1891. Someone placed it there, perhaps as a gift to the gods or as a hiding from danger. Scholars date the bowl to the second or first century before the common era. Many call the vessel a Celtic work. The cauldron carries carved figures in relief. A goddess on a cart and a horned god appear among them. These images echo ones the Celts knew in other lands. The bowl is built from many plates. The outer plates show a single head or part of a body set among smaller figures. The inner plates hold larger and more complex scenes. One inner plate shows the slaughter of bulls. Another shows a female goddess among wild beasts. Two elephants, two winged griffins, and a wolf surround her. A bearded man who holds a wheel sits with wolves and griffins. A snake with a ram's head coils beneath the wheel. A squatting god grips a torque and a serpent with a ram's head raised in his hand. Deer, lions, and a wolf ring him. A figure rides on a dolphin. One plate shows a line of warriors. Six men carry a shield and a spear. One man bears a sword and a helmet set with a wild boar. Three men blow the long war horns called carnyxes. A great man dips a soldier into a bowl of water. Some see this as death by drowning. Others see a bath that brings a man back to life. The heavy images fit the tale of Branwen and the Peir Dadeni, the cauldron of rebirth in the Welsh story called the Mabinogi. Bulls, boars, and raptors recur throughout the Irish and Welsh stories. But the elephants, the dolphin, and the other strange beasts are not. This mix leads many scholars to hold that the vessel came from two lands. It is Celtic, and it is also Thracian.
 
 :::
 ```
 ``` tab [group1:Attributes]
-- **goddess**: conveyed on a cart
-- **horned god**: resembling the one known elsewhere as Cernunnos
+- **Gundestrup Cauldron**: a great silver vessel
+- **Gundestrup Cauldron**: found in the Danish bog in 1891
+- **Gundestrup Cauldron**: carries relief of gods
+- **Gundestrup Cauldron**: dates to the 2nd or 1st century BC
+- **goddess**: shown on a cart
+- **horned god**: a figure in the Celtic manner
+- **Cernunnos**: named for the horned god on the cauldron
+- **Taranis**: the wheel-bearing god
+- **carnyx**: a long war horn shown in the warrior plate
+- **Gundestrup Cauldron**: holds a monster of rebirth seen in the Welsh story Branwen
 ```
 ``` tab [group1:Entities]
-- **goddess**: mythological figure
-- **horned god**: mythological figure
-- **Cernunnos**: mythological figure
-- **vessel**: object
+- **Gundestrup Cauldron**: Artifact
+- **goddess**: Deity
+- **horned god**: Deity
+- **Denmark**: Place
+- **Celts**: Group
+- **carnyx**: Artifact
+- **Cernunnos**: Deity
+- **Taranis**: Deity
+- **Cimbri**: Group
+- **Branwen**: Person
+- **Mabinogi**: Text
 ```
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
+- Koch 2006, s.v. 'Gundestrup Cauldron'
 ```
 ![Gundestrup Cauldron Image](https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Silver_cauldron.jpg/1200px-Silver_cauldron.jpg)

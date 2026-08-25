@@ -1,0 +1,80 @@
+{
+    "name": "Historia Regum Britanniae",
+    "text": "Geoffrey of Monmouth wrote the Latin work known as Historia Regum Britanniae about 1138. In plain words the title means the kings of Britain. The book holds a grand and legendary account spanning from Brutus onward. It recounts the deeds of Vortigern, the ruler Cadwaladr, and above all Arthur. The work remained the core of British national history through the whole Middle Ages. It shaped the story of the Britons for five centuries and reached far into early modern writing. The History shaped the later writers of the Bretons as well. It continued to color Welsh and Breton views of the past until new times. The writer drew most of his raw material from Welsh books of the pre-Norman age. These sources include Gildas's De Excidio Britanniae, the Historia Brittonum, and the Annales Cambriae, and old Welsh genealogies. He also drew on the lives of the saints gathered in the Llandaf collection. The work shows a strong leaning toward the Bretons in its spare names. Many proper names in the text take a shape closer to Old Breton than to Old Welsh. A large Breton group lived in Monmouth, the Welsh Trefynwy, from the late eleventh century. Welsh readers took the book up with real energy. Translations into Welsh began in the early thirteenth century. These versions, known as Brut y Brenhinedd, spread the story far. About sixty manuscripts still carry a Welsh version of the History. The work ranks among the most influential books in the British Arthurian tradition of its age.",
+    "entities": [
+        {
+            "entity": "Historia Regum Britanniae",
+            "type": "work"
+        },
+        {
+            "entity": "Geoffrey of Monmouth",
+            "type": "person"
+        },
+        {
+            "entity": "Brutus",
+            "type": "figure"
+        },
+        {
+            "entity": "Vortigern",
+            "type": "figure"
+        },
+        {
+            "entity": "Cadwaladr",
+            "type": "figure"
+        },
+        {
+            "entity": "Gildas",
+            "type": "person"
+        },
+        {
+            "entity": "Brut y Brenhinedd",
+            "type": "work"
+        },
+        {
+            "entity": "Book of Llandaf",
+            "type": "work"
+        }
+    ],
+    "attributes": [
+        {
+            "entity": "Historia Regum Britanniae",
+            "attribute": "written by Geoffrey of Monmouth about 1138"
+        },
+        {
+            "entity": "Historia Regum Britanniae",
+            "attribute": "narrates the kings of the island from Brutus to Cadwaladr"
+        },
+        {
+            "entity": "Historia Regum Britanniae",
+            "attribute": "drew on Gildas, Historia Britain, Annales Cambriae, and Welsh genealogies"
+        },
+        {
+            "entity": "Geoffrey of Monmouth",
+            "attribute": "spelled named persons and places in Old Breton style"
+        },
+        {
+            "entity": "Brut y Brenhinedd",
+            "attribute": "the Welsh translation made from the thirteenth century"
+        },
+        {
+            "entity": "Monmouth",
+            "attribute": "home of a large Breton presence from the late 1100s"
+        }
+    ],
+    "sources": [
+        "Koch 2006, s.v. 'Historia Regum Britanniae'"
+    ],
+    "image": [],
+    "cyphertext": "",
+    "salt": "",
+    "okr": {
+        "objective": "Document Geoffrey of Monmouth's legendary history of the kings of Britain.",
+        "key_results": [
+            "Identify the author Geoffrey of Monmouth and the date near 1138",
+            "Name the Welsh sources behind the History",
+            "Show its depth to the Bretons and its Welsh form Brut y Brenhinedd"
+        ],
+        "evidence": "Koch 2006, s.v. 'Historia Regum Britanniae'"
+    },
+    "order": 1256
+}

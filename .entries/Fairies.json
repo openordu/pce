@@ -1,63 +1,132 @@
 {
-  "name": "Fairies",
-  "attributes": [
-    {
-      "entity": "Fairies",
-      "attribute": "a broad class of supernatural beings"
-    },
-    {
-      "entity": "hobgoblins",
-      "attribute": "counted among the fairies"
-    },
-    {
-      "entity": "brownies",
-      "attribute": "counted among the fairies"
-    },
-    {
-      "entity": "bogies",
-      "attribute": "counted among the fairies"
-    }
-  ],
-  "entities": [
-    {
-      "entity": "Fairies",
-      "type": "mythological creature"
-    },
-    {
-      "entity": "hobgoblins",
-      "type": "mythological creature"
-    },
-    {
-      "entity": "brownies",
-      "type": "mythological creature"
-    },
-    {
-      "entity": "bogies",
-      "type": "mythological creature"
-    }
-  ],
-  "sources": [
-    "Briggs, Katherine M. The Personnel of Fairyland. Cambridge: Robert Bentley, 1954.",
-    "Briggs, Katherine. The Fairies in Tradition and Literature. London: Routledge & Kegan Paul, 1967.",
-    "Evans-Wentz, W. Y. The Fairy-Faith in Celtic Countries. Gerrards Cross: Colin Smythe Humanities Press, 1911.",
-    "Keightley, Thomas. The Fairy Mythology. London: H. G. Bohn, 1870.",
-    "Kirk, Thomas. *The Secret Commonwealth of Elves, Fauns, & Fairies*. London: David Nutt, 1893.",
-    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-  ],
-  "image": [
-    "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/SophieAndersonTakethefairfaceofWoman.jpg/1200px-SophieAndersonTakethefairfaceofWoman.jpg"
-  ],
-  "cyphertext": "fvG__uXfpHvU40GVf0N7SzTkf3JroxJClgDq6WN2H1E8V92Juv8IxOdEpX_65bI3EvuLFnw650NWEYx9BH9kkVS2-b6b5VmOjxjVx1ZI0_Ln50IE38RzFYtkupUQs7p-hflMDCaGQUT1G4k0k8a29_ffAYXJvXi6jbptTt_5_bBv8YnzY1wUeer56fdE9b95UWDk--5BozgnL-MAOiEkxo_UfSEgSMSWQ0_JIgdcEOBk48eedApSMzm1ddm9RQud-X6O0Iat0mK7GPJcDednCUiDOB37LziAGwI9VdliTl3Ys_9j0kG4pLgWgwhasckfh5PDl2v32HtP70ufC90n_frksTGgl6w3rUSiDHa15B-zSY-VA3gLQOqSuNAB-CqF3FItkA16DrE1-ozNSgVGbmZKN-NEbJPAdqL1_IsuJooObuiHIO4-6keS1MOKjTJEj_gLkQ-Gz_3kNBUYEvxAr4ncdj2EiSUeQGuXkz_TUy0_PBM6zdeAuNKkoS7RiHy0k2Rm3qKIMQsa0fFBA9YnvwgjFDm0vJqjsG2O9uzJb05gU2d9CjApxrrHCxadgXgUA3PPwqqKllh-te8lEkOM0yptbj17o5oLK0XVhBCqgKHIyNJxisk_0auhoNQMPrz-shv62QJazukLZbwiLz2AD2SyRPF4QxwVBAEEQ2V32BM7n2JBLtmi6G0AF33DTMQWxqFXSWDjVrxlfWzzraRp5u72wZlZaCibELpAWJxdwaUaiXCZoj_4X8v3XqaPtA-7aZMabOPvW_xBIm9Rm_HvACjHkajrUQwiOVyYj7X_w7ESqn1C2B8ABV5iGcEVOTdgTsMHRm2UmKxXFit3Bm6URD_IFQ-C3vXf9UVkkC5nZQHf2SSZjVtKczuXZmjfK2vII273fyyt4eSmEQE3CKIQ7H-4wLuS5PV4X4p8nX5EubZ5-GAarKsWMc9_r4blJUZCALdD-pUlkjF-fHx_uUBLPtmGya34P1QZ3R0QHBLEK_FqPbXrozbO5HqqSEo7-VJQH5XKnlJb8v35tv6fIH2yb0GFWYMiT5Eq5M-8hEt8tnHPN9BFDOKfIiZ9trfyPNKeGLAOvMzJPF17Pdkl6JTZOgjUpoNXw7i8WITK1Vi3J3CjCgROxd1-mqt5qY6kyt84zBFrRU6B_qF0N-26UoucTM1_RNYPNegPqp6FkhPjZnHg0HsfviAyURiKLsb2TyQgJ8t28fqN51MlfNhxtvjLmWwxQoxFRpBaoq8dMsxy7p_nggSMahZdPxXbKrYpa5zkXg2eatr0_HbVg2yPlG_sqFdCA1dUM1yHhW7WX8WyIwFd_9CZvYObUkWI3PF0t16ULNpgoYIiiUncaQQhTlg1r2octVeJV8cN3c1HN4DCo7p8LnAR2vrN5BXiWMduhwDp1ER9FBRhJHScmwanpeHg1-Iwdvi8p6FCi6H-tk8VViUnXoBV3ICqkLDAdVXLE13N7Jay0z6Z3RuXafLfP3NWSqNHnlwNVSfDprlz6ND2e5DDl2MEHrYbuE_GUOcFCBkmBTZRVIPLt7nz73THBwHB7Jrf46K5LNZzxBvLHr7NlSoMoUVWYSzZ0r7yK486uTPNUwVQzgxjQ43GZI60ka7yVSyKk4A9DjdSEjWYAX1schHFsMMJp8DfWF0JxAHKlxc7iHZi7cNSzKvjq--N8GZ4y7mpY5MXgTxjyW0gLHX1cixa3auqxq2rOELLpgylKcyv7UY89MK-iAr15yKLzlnH0wg-jvCz48mTwN3NCUpocYIgX3M5mUkqfCF4UexC3cqDBuQbwq7czsu-cfokzzgFhHLDkBa4OpI_X9UanlThNgUgQGI5x-_aaWhThM9zvAtZD_ix-3n0Xoi5sZ4_jNA2Oc9ObwEmA8qoTvwRBuI8sTaL85q4rlza__9wktWBKuDMc5QvEeS2QpfJxP8CY5ZETguO0m4Xfm9IfVi820-6hNMEi5TndRMhcty2CVPDKQ067VaDLnMkq4XJr80hLLbqLzxYp8oNXpvh8qjfmKIQgxXWqVL4COj9g_frAvzs5EzlXsIAQbQAnf-fe-PYhEe1gnlX42Ij4Mi4e4AO9jg-M3UwiTxb_i8sMswe9fD8FXZ-Nq5JI3NfBx7tlcwWrR-29aSeBLNZZaT62IPZdZKsvLrKvqIs4gXfgtpuHMQgiFd_aIHU0JuGZ40d64MtGWGd0OzAYu2R3-BQYGYA3ghLdtLJsCtKvOc_l1IyKl1Gkb9JWmiT0PT50vmvW62yZdl3hgQIbqGMs5fKz2ASKzpmjoFmSoiuCqW53ngZLVwUbQa1SQUR_lFVR_fNKb-oU8YxvQE7ACjgn9no43SzabsOQpK2lx-wsOfvcVw-3QiKX8R-Svmk_unqkCIto4XZHrHYeN6HfJ8R_YItJiy1t8WW4ePJeDRCesknbYTel2GFCmwGqY2Nc5nrU3B1fciNEOTLvy2AwomjVYtJ4D-Rcd9L-1037enCn7WfYob6o29ojwwmQVx5vzm0AfaK9Ts-gHSSJ7WNXIn3baRitWVOakFNdoVVvMrYVhS78tHSDco-82mDLtw-WMCiF8bIMMITYT9S9cojh-CpkmnRNCjz1o8ivY1gPnU3ezgl9L5PPWX0YLP0FUnWm5coKaWGBz6aYpMklIv6f5wg154PRuPcnZglPVfbYuEi1ZasXfVz-rN46tEx9o3eeO8zO1Yanx4d-2AXVml8s113-5CFhv_nV-6oAAEN0dkNJKTVlEOj6mcCxu1U9xRLaoACgcGb9D7F9fbztGbp-Glewv8HYamN1XIf07GKp_TvI8ZsaGx-7v_zsx2caiDlZx3AmL---sA--FsOEPz2hmZXl0cLCc28GHSIoNM1vWRYrJMzDeuejfR5zia43960DEguNOovjjwS3e_FIVkD0o--lBSASe3FxV3-7rXYdFsYbXy_5XNsG7wlyvyvJ7MhZ4wTOjo5s6LeXF7vuAn-qBP_kIx5DpNuDQkP11lCZQLrOd5DzYuUMkXgorXO5u21dQfX3IuPTOfzLFjTXeK0hSbiHOVdaHvh_jYP0y87tg6gIy0I2BwKF7KJwP01eLZy7W-luoSQvdekiWWauY-AIqq4YFLWcyh2-DROW0JI5so7D_OOIFNVHcbY2bBHFRZN3Qj6YTo-8HSolbfJSGaYj4rPob5nF7ie6KE70bRO_RF7F0BqtRcC2pd8EfhMrKGoPdW__4aAuOlG1As2PL5yPx4qOQ4kOdOfGD3iNQ-nRI6WzZA5nx-zOspo6i-Xj6K12kWU6V1COHcln3QNx8zMFw==",
-  "salt": "MKNbC-_P7APles-79QiIPQ==",
-  "text": "Fairies is a term for a broad class of supernatural beings. The entry gathers such beings under one heading. The group includes hobgoblins, brownies, and bogies. Other like creatures also sit within the fairy world. Writers of folklore often list these beings together. The reference points to a survey of these figures.",
-  "okr": {
-    "objective": "Fairies is a class of supernatural beings in folklore.",
-    "key_results": [
-      "The term covers a broad class of supernatural beings.",
-      "It gathers hobgoblins, brownies, and bogies.",
-      "Other like creatures also sit within the group.",
-      "The reference offers a survey of these beings."
+    "name": "Fairies",
+    "attributes": [
+        {
+            "entity": "Fairies",
+            "attribute": "a broad class of supernatural beings"
+        },
+        {
+            "entity": "hobgoblins",
+            "attribute": "counted among the fairies"
+        },
+        {
+            "entity": "brownies",
+            "attribute": "counted among the fairies"
+        },
+        {
+            "entity": "bogies",
+            "attribute": "counted among the fairies"
+        },
+        {
+            "entity": "fairies",
+            "attribute": "called the Good People and the Tylwyth Teg as a caution"
+        },
+        {
+            "entity": "aes side",
+            "attribute": "people of the fairy mounds and close to the Tuatha Dé Danann"
+        },
+        {
+            "entity": "fynnoderee",
+            "attribute": "brownie of the Isle of Man"
+        },
+        {
+            "entity": "glashtyn",
+            "attribute": "water horse and malevolent fairy of the Isle of Man"
+        },
+        {
+            "entity": "pwca",
+            "attribute": "restless Welsh sprite akin to a poltergeist"
+        },
+        {
+            "entity": "fairies",
+            "attribute": "kept at bay by iron and by the hue green"
+        },
+        {
+            "entity": "fairies",
+            "attribute": "said to carry off children and to bend time while a captive dances"
+        }
     ],
-    "evidence": "Monaghan, Encyclopedia of Celtic Mythology and Folklore"
-  }
+    "entities": [
+        {
+            "entity": "Fairies",
+            "type": "mythological creature"
+        },
+        {
+            "entity": "hobgoblins",
+            "type": "mythological creature"
+        },
+        {
+            "entity": "brownies",
+            "type": "mythological creature"
+        },
+        {
+            "entity": "bogies",
+            "type": "mythological creature"
+        },
+        {
+            "entity": "aes side",
+            "type": "Group"
+        },
+        {
+            "entity": "Tylwyth Teg",
+            "type": "Group"
+        },
+        {
+            "entity": "Tuatha Dé Danann",
+            "type": "Group"
+        },
+        {
+            "entity": "fynnoderee",
+            "type": "Supernatural"
+        },
+        {
+            "entity": "glashtyn",
+            "type": "Supernatural"
+        },
+        {
+            "entity": "pwca",
+            "type": "Supernatural"
+        },
+        {
+            "entity": "spriggan",
+            "type": "Supernatural"
+        },
+        {
+            "entity": "Anaon",
+            "type": "Group"
+        },
+        {
+            "entity": "Scotland",
+            "type": "Place"
+        },
+        {
+            "entity": "Brittany",
+            "type": "Place"
+        }
+    ],
+    "sources": [
+        "Briggs, Katherine M. The Personnel of Fairyland. Cambridge: Robert Bentley, 1954.",
+        "Briggs, Katherine. The Fairies in Tradition and Literature. London: Routledge & Kegan Paul, 1967.",
+        "Evans-Wentz, W. Y. The Fairy-Faith in Celtic Countries. Gerrards Cross: Colin Smythe Humanities Press, 1911.",
+        "Keightley, Thomas. The Fairy Mythology. London: H. G. Bohn, 1870.",
+        "Kirk, Thomas. *The Secret Commonwealth of Elves, Fauns, & Fairies*. London: David Nutt, 1893.",
+        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.",
+        "Koch 2006, s.v. 'Fairies'"
+    ],
+    "image": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/SophieAndersonTakethefairfaceofWoman.jpg/1200px-SophieAndersonTakethefairfaceofWoman.jpg"
+    ],
+    "cyphertext": "fvG__uXfpHvU40GVf0N7SzTkf3JroxJClgDq6WN2H1E8V92Juv8IxOdEpX_65bI3EvuLFnw650NWEYx9BH9kkVS2-b6b5VmOjxjVx1ZI0_Ln50IE38RzFYtkupUQs7p-hflMDCaGQUT1G4k0k8a29_ffAYXJvXi6jbptTt_5_bBv8YnzY1wUeer56fdE9b95UWDk--5BozgnL-MAOiEkxo_UfSEgSMSWQ0_JIgdcEOBk48eedApSMzm1ddm9RQud-X6O0Iat0mK7GPJcDednCUiDOB37LziAGwI9VdliTl3Ys_9j0kG4pLgWgwhasckfh5PDl2v32HtP70ufC90n_frksTGgl6w3rUSiDHa15B-zSY-VA3gLQOqSuNAB-CqF3FItkA16DrE1-ozNSgVGbmZKN-NEbJPAdqL1_IsuJooObuiHIO4-6keS1MOKjTJEj_gLkQ-Gz_3kNBUYEvxAr4ncdj2EiSUeQGuXkz_TUy0_PBM6zdeAuNKkoS7RiHy0k2Rm3qKIMQsa0fFBA9YnvwgjFDm0vJqjsG2O9uzJb05gU2d9CjApxrrHCxadgXgUA3PPwqqKllh-te8lEkOM0yptbj17o5oLK0XVhBCqgKHIyNJxisk_0auhoNQMPrz-shv62QJazukLZbwiLz2AD2SyRPF4QxwVBAEEQ2V32BM7n2JBLtmi6G0AF33DTMQWxqFXSWDjVrxlfWzzraRp5u72wZlZaCibELpAWJxdwaUaiXCZoj_4X8v3XqaPtA-7aZMabOPvW_xBIm9Rm_HvACjHkajrUQwiOVyYj7X_w7ESqn1C2B8ABV5iGcEVOTdgTsMHRm2UmKxXFit3Bm6URD_IFQ-C3vXf9UVkkC5nZQHf2SSZjVtKczuXZmjfK2vII273fyyt4eSmEQE3CKIQ7H-4wLuS5PV4X4p8nX5EubZ5-GAarKsWMc9_r4blJUZCALdD-pUlkjF-fHx_uUBLPtmGya34P1QZ3R0QHBLEK_FqPbXrozbO5HqqSEo7-VJQH5XKnlJb8v35tv6fIH2yb0GFWYMiT5Eq5M-8hEt8tnHPN9BFDOKfIiZ9trfyPNKeGLAOvMzJPF17Pdkl6JTZOgjUpoNXw7i8WITK1Vi3J3CjCgROxd1-mqt5qY6kyt84zBFrRU6B_qF0N-26UoucTM1_RNYPNegPqp6FkhPjZnHg0HsfviAyURiKLsb2TyQgJ8t28fqN51MlfNhxtvjLmWwxQoxFRpBaoq8dMsxy7p_nggSMahZdPxXbKrYpa5zkXg2eatr0_HbVg2yPlG_sqFdCA1dUM1yHhW7WX8WyIwFd_9CZvYObUkWI3PF0t16ULNpgoYIiiUncaQQhTlg1r2octVeJV8cN3c1HN4DCo7p8LnAR2vrN5BXiWMduhwDp1ER9FBRhJHScmwanpeHg1-Iwdvi8p6FCi6H-tk8VViUnXoBV3ICqkLDAdVXLE13N7Jay0z6Z3RuXafLfP3NWSqNHnlwNVSfDprlz6ND2e5DDl2MEHrYbuE_GUOcFCBkmBTZRVIPLt7nz73THBwHB7Jrf46K5LNZzxBvLHr7NlSoMoUVWYSzZ0r7yK486uTPNUwVQzgxjQ43GZI60ka7yVSyKk4A9DjdSEjWYAX1schHFsMMJp8DfWF0JxAHKlxc7iHZi7cNSzKvjq--N8GZ4y7mpY5MXgTxjyW0gLHX1cixa3auqxq2rOELLpgylKcyv7UY89MK-iAr15yKLzlnH0wg-jvCz48mTwN3NCUpocYIgX3M5mUkqfCF4UexC3cqDBuQbwq7czsu-cfokzzgFhHLDkBa4OpI_X9UanlThNgUgQGI5x-_aaWhThM9zvAtZD_ix-3n0Xoi5sZ4_jNA2Oc9ObwEmA8qoTvwRBuI8sTaL85q4rlza__9wktWBKuDMc5QvEeS2QpfJxP8CY5ZETguO0m4Xfm9IfVi820-6hNMEi5TndRMhcty2CVPDKQ067VaDLnMkq4XJr80hLLbqLzxYp8oNXpvh8qjfmKIQgxXWqVL4COj9g_frAvzs5EzlXsIAQbQAnf-fe-PYhEe1gnlX42Ij4Mi4e4AO9jg-M3UwiTxb_i8sMswe9fD8FXZ-Nq5JI3NfBx7tlcwWrR-29aSeBLNZZaT62IPZdZKsvLrKvqIs4gXfgtpuHMQgiFd_aIHU0JuGZ40d64MtGWGd0OzAYu2R3-BQYGYA3ghLdtLJsCtKvOc_l1IyKl1Gkb9JWmiT0PT50vmvW62yZdl3hgQIbqGMs5fKz2ASKzpmjoFmSoiuCqW53ngZLVwUbQa1SQUR_lFVR_fNKb-oU8YxvQE7ACjgn9no43SzabsOQpK2lx-wsOfvcVw-3QiKX8R-Svmk_unqkCIto4XZHrHYeN6HfJ8R_YItJiy1t8WW4ePJeDRCesknbYTel2GFCmwGqY2Nc5nrU3B1fciNEOTLvy2AwomjVYtJ4D-Rcd9L-1037enCn7WfYob6o29ojwwmQVx5vzm0AfaK9Ts-gHSSJ7WNXIn3baRitWVOakFNdoVVvMrYVhS78tHSDco-82mDLtw-WMCiF8bIMMITYT9S9cojh-CpkmnRNCjz1o8ivY1gPnU3ezgl9L5PPWX0YLP0FUnWm5coKaWGBz6aYpMklIv6f5wg154PRuPcnZglPVfbYuEi1ZasXfVz-rN46tEx9o3eeO8zO1Yanx4d-2AXVml8s113-5CFhv_nV-6oAAEN0dkNJKTVlEOj6mcCxu1U9xRLaoACgcGb9D7F9fbztGbp-Glewv8HYamN1XIf07GKp_TvI8ZsaGx-7v_zsx2caiDlZx3AmL---sA--FsOEPz2hmZXl0cLCc28GHSIoNM1vWRYrJMzDeuejfR5zia43960DEguNOovjjwS3e_FIVkD0o--lBSASe3FxV3-7rXYdFsYbXy_5XNsG7wlyvyvJ7MhZ4wTOjo5s6LeXF7vuAn-qBP_kIx5DpNuDQkP11lCZQLrOd5DzYuUMkXgorXO5u21dQfX3IuPTOfzLFjTXeK0hSbiHOVdaHvh_jYP0y87tg6gIy0I2BwKF7KJwP01eLZy7W-luoSQvdekiWWauY-AIqq4YFLWcyh2-DROW0JI5so7D_OOIFNVHcbY2bBHFRZN3Qj6YTo-8HSolbfJSGaYj4rPob5nF7ie6KE70bRO_RF7F0BqtRcC2pd8EfhMrKGoPdW__4aAuOlG1As2PL5yPx4qOQ4kOdOfGD3iNQ-nRI6WzZA5nx-zOspo6i-Xj6K12kWU6V1COHcln3QNx8zMFw==",
+    "salt": "MKNbC-_P7APles-79QiIPQ==",
+    "text": "Fairy belief was never the same for all people. In the Celtic lands it stayed alive for long and even the priests argued about it. The names people used show care and fear. Folk called the beings the Good People, in Irish Na Daoine Maith, and in Welsh the Fair Family, the Tylwyth Teg. The old Irish word sid points to the fairy mound. From it grew words like side and sidheog, and the people of the mounds, the aes side. That folk of the mounds ties close to the old gods, the Tuatha Dé Danann. Green was the fairies' colour, so people turned from green dress. Iron also kept them away, a habit some read as a memory of older peoples. Fairies were taken for a danger, able to harm or even kill. A person carried into their realm might dance for what seemed an hour and come back to find years gone. A sick child was sometimes held for a fairy changeling. In Brittany the dead and the fairies were bound close, and many small beings counted part of the community of the dead, the Anaon. In Scotland a fairy queen ruled, known as Nic Neven. The Isle of Man had its brownie, the fynnoderee, and its water horse, the glashtyn. Wales knew the pwca, a restless sprite, and the wandering Tylwyth Teg. The piskies and the treasure-guarding spriggans belong to Cornwall. One older book sets out these beings of the countryside and other wonders. That survey of fairy folk set down the common beings first, and it came from a New York press in the year 1976.",
+    "okr": {
+        "objective": "Document the broad span of Celtic fairy belief and its many local forms.",
+        "key_results": [
+            "Name the euphemistic titles the Good People and the Tylwyth Teg.",
+            "Trace the root word sid for the fairy mound and the aes side people of the mounds.",
+            "List the regional fairies of Scotland, the Isle of Man, Wales, Brittany, and Cornwall.",
+            "Record the changeling belief and the danger of lost time in the fairy realm."
+        ],
+        "evidence": "Koch 2006, s.v. 'Fairies'"
+    }
 }

@@ -1,0 +1,56 @@
+{
+    "name": "Pa Gur yv y Porthaur?",
+    "text": "Pa Gur yv y Porthaur is a short Welsh poem. The title asks who guards the gate. It forms an early catalogue of the heroes of King Arthur. The poem names their feats more briefly than later books. It belongs with the triads and the graves englynion as a smaller store of old matter. The verse lists many champions. It gives the names of Cai, Beduir, the son of Modron, and the son of Lasr. Manawidan son of Llųr also appears. Uthir Bendragon has a place. The deeds include a combat at a spot that may be the court of Arthur. Another deed is a fight with a great cat. The poet also tells of a clash with the dog-headed people, folk with faces like a dog. Those beings call to mind the far heads written of by older writers. A named hill marks this fight. It stood as the seat of the Gododdin lord. A story of the taking of a giant's daughter waits in the later work about Kulhwch, but the poem gives no sign of that tale.",
+    "okr": {
+        "objective": "Record the early Welsh poem Pa Gur as an old list of the champions of Arthur.",
+        "key_results": [
+            "Name the heroes listed, among them Cai, Beduir, and the sons of Modron",
+            "Note the deeds told, including the fight at the hill and the great cat",
+            "Set the text beside the triads as a store of Arthurian names"
+        ],
+        "evidence": "The poem survives in an early Welsh book. It lists the men of Arthur and a few of their deeds, and a later adapter used the same names in the tale of Kulhwch."
+    },
+    "entities": [
+        {
+            "entity": "Pa Gur",
+            "type": "text"
+        },
+        {
+            "entity": "Arthur",
+            "type": "hero"
+        },
+        {
+            "entity": "Cai",
+            "type": "hero"
+        },
+        {
+            "entity": "Modron",
+            "type": "figure"
+        },
+        {
+            "entity": "Kulhwch",
+            "type": "text"
+        }
+    ],
+    "attributes": [
+        {
+            "entity": "Pa Gur yv y Porthaur?",
+            "attribute": "Middle Welsh"
+        },
+        {
+            "entity": "Pa Gur yv y Porthaur?",
+            "attribute": "Wales"
+        },
+        {
+            "entity": "Pa Gur yv y Porthaur?",
+            "attribute": "verse"
+        }
+    ],
+    "sources": [
+        "Koch 2006, s.v. \"Pa Gur y in y Porthaur?\""
+    ],
+    "image": [],
+    "cyphertext": "",
+    "salt": "",
+    "order": 1801
+}

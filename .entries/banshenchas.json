@@ -1,0 +1,75 @@
+{
+    "name": "banshenchas",
+    "attributes": [
+        {
+            "entity": "banshenchas",
+            "attribute": "the Lore of Women in Middle Irish"
+        },
+        {
+            "entity": "banshenchas",
+            "attribute": "12th-century catalogue of famous women"
+        },
+        {
+            "entity": "banshenchas",
+            "attribute": "survives in metrical and prose forms"
+        },
+        {
+            "entity": "Lebor Gabála Érenn",
+            "attribute": "one of the cycles it follows"
+        },
+        {
+            "entity": "Ulster Cycle",
+            "attribute": "included in the synthetic chronology"
+        }
+    ],
+    "entities": [
+        {
+            "entity": "banshenchas",
+            "type": "Text"
+        },
+        {
+            "entity": "Middle Irish",
+            "type": "Language"
+        },
+        {
+            "entity": "Lebor Gabála Érenn",
+            "type": "Text"
+        },
+        {
+            "entity": "Ulster Cycle",
+            "type": "Text"
+        },
+        {
+            "entity": "Mythological Cycle",
+            "type": "Text"
+        },
+        {
+            "entity": "Fianná́ocht",
+            "type": "Text"
+        },
+        {
+            "entity": "Adam",
+            "type": "Person"
+        },
+        {
+            "entity": "Eve",
+            "type": "Person"
+        }
+    ],
+    "sources": [
+        "Koch 2006, s.v. 'banshenchas'"
+    ],
+    "image": [],
+    "cyphertext": "",
+    "salt": "",
+    "text": "The banshenchas, the Lore of Women, is a Middle Irish text from the twelfth century. It lists famous women, chiefly Irish, along with their husbands and children. The work grew over roughly two hundred years and survives in verse and in prose. The verse copy confines itself to the lineage of Adam and Eve. The prose copy adds names from the Bible and the classical past. The account follows a set chronology. It starts with the Mythological Cycle and the Lebor Gabála Érenn, the history of Ireland's settlement. It passes through the Ulster Cycle and the Fiannaíocht, then ends with the kings of Ireland.",
+    "okr": {
+        "objective": "Record the banshenchas as the medieval Irish catalogue of famous women.",
+        "key_results": [
+            "State the meaning of the Lore of Women",
+            "Explain the metrical and prose survivals",
+            "Show the synthetic chronology from the Mythological and Ulster Cycles"
+        ],
+        "evidence": "Koch 2006, s.v. 'banshenchas'"
+    }
+}

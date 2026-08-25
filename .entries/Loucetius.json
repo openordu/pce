@@ -1,62 +1,84 @@
 {
- "name": "Loucetius",
- "attributes": [
-  {
-   "entity": "Loucetius",
-   "attribute": "worshipped in Gaul and Britain"
-  },
-  {
-   "entity": "Loucetius",
-   "attribute": "consort of the goddess Nemetona"
-  },
-  {
-   "entity": "Loucetius",
-   "attribute": "linked to healing at the shrine of Bath"
-  },
-  {
-   "entity": "Loucetius",
-   "attribute": "seen as a form of Mars in Gaul"
-  }
- ],
- "entities": [
-  {
-   "entity": "Loucetius",
-   "type": "Deity"
-  },
-  {
-   "entity": "Nemetona",
-   "type": "Deity"
-  },
-  {
-   "entity": "Mars",
-   "type": "Deity"
-  },
-  {
-   "entity": "Bath",
-   "type": "Place"
-  },
-  {
-   "entity": "Aquae Sulis",
-   "type": "Place"
-  }
- ],
- "sources": [
-  "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
- ],
- "image": [
-  "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Autel_d%C3%A9di%C3%A9_%C3%A0_Mars_Loucetios-Mus%C3%A9e_arch%C3%A9ologique_de_Strasbourg.jpg/1200px-Autel_d%C3%A9di%C3%A9_%C3%A0_Mars_Loucetios-Mus%C3%A9e_arch%C3%A9ologique_de_Strasbourg.jpg"
- ],
- "cyphertext": "ypEfY1F-iHySWP_8wkgyJIhQzzFGa9ekAVhbbX7K4zUyUA8brnQGDAko6L-HJZwAP_SAET4=",
- "salt": "uRXnBbQyFaGy58_gh0R-1Q==",
- "text": "Loucetius was a Celtic god worshipped in Gaul and Britain, also spelled Leucetius. He appears in a few inscriptions found in continental Gaul and in Britain. Loucetius was the consort of Nemetona, a goddess of sacred groves. A pair inscription was found at the healing shrine of Bath, which the Romans called Aquae Sulis, so Loucetius may have been a healing god. People in Gaul saw him as a form of Mars, the war god, and Mars could fight off disease. His name holds a syllable that means bright or shining, and scholars have read it as lightning.",
- "okr": {
-  "objective": "Document the continental Celtic god Loucetius as a consort deity tied to healing and to Mars.",
-  "key_results": [
-   "Loucetius is attested in inscriptions in Gaul and Britain",
-   "He pairs with the grove goddess Nemetona",
-   "An inscription at Bath links him to healing",
-   "People in Gaul equated him with Mars"
-  ],
-  "evidence": "Monaghan, The Encyclopedia of Celtic Mythology and Folklore, 2003."
- }
+    "name": "Loucetius",
+    "attributes": [
+        {
+            "entity": "Loucetius",
+            "attribute": "worshipped in Gaul and Britain"
+        },
+        {
+            "entity": "Loucetius",
+            "attribute": "consort of the goddess Nemetona"
+        },
+        {
+            "entity": "Loucetius",
+            "attribute": "linked to healing at the shrine of Bath"
+        },
+        {
+            "entity": "Loucetius",
+            "attribute": "seen as a form of Mars in Gaul"
+        },
+        {
+            "entity": "Loucetius",
+            "attribute": "paired with the goddess Victoria at Bath"
+        },
+        {
+            "entity": "Nemetona",
+            "attribute": "goddess of the sacred grove at Klein-Winternheim"
+        },
+        {
+            "entity": "Loucetius",
+            "attribute": "associated with lightning and with victory"
+        }
+    ],
+    "entities": [
+        {
+            "entity": "Loucetius",
+            "type": "Deity"
+        },
+        {
+            "entity": "Nemetona",
+            "type": "Deity"
+        },
+        {
+            "entity": "Mars",
+            "type": "Deity"
+        },
+        {
+            "entity": "Bath",
+            "type": "Place"
+        },
+        {
+            "entity": "Aquae Sulis",
+            "type": "Place"
+        },
+        {
+            "entity": "Victoria",
+            "type": "Deity"
+        },
+        {
+            "entity": "Klein-Winternheim",
+            "type": "Place"
+        }
+    ],
+    "sources": [
+        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.",
+        "Koch 2006, s.v. 'Loucetius'"
+    ],
+    "image": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Autel_d%C3%A9di%C3%A9_%C3%A0_Mars_Loucetios-Mus%C3%A9e_arch%C3%A9ologique_de_Strasbourg.jpg/1200px-Autel_d%C3%A9di%C3%A9_%C3%A0_Mars_Loucetios-Mus%C3%A9e_arch%C3%A9ologique_de_Strasbourg.jpg"
+    ],
+    "cyphertext": "ypEfY1F-iHySWP_8wkgyJIhQzzFGa9ekAVhbbX7K4zUyUA8brnQGDAko6L-HJZwAP_SAET4=",
+    "salt": "uRXnBbQyFaGy58_gh0R-1Q==",
+    "text": "Loucetius is a Romano-Celtic divine name. The early form was Loucetios. Finders raise nine inscriptions in Germany and France, and one more in Britain. This one comes from the healing shrine at Bath, placed there by a person from the Treveri tribal district. The man likely looked to the god for help with healing. The later spelling Leucetius occurs three more times. People often set the god beside the Roman war god Mars. This is a common case of interpretatio romana, the Roman habit of matching a local god to a Roman one.\n\nThe name holds a root that means a flash of light. Related forms appear in Gothic, Old Irish, Welsh, Old Cornish, and Breton. Scholars therefore read the god as Mars of lightning or Mars the bright and shining. The image ties battle to a thunderstorm or recalls the shining glow of a great warrior. The consort of this god is Nemetona, the queen of the sacred grove and of the holy privilege. At Bath and at a shrine in a German land, people paired the two with Victory. The couple grounded a local tradition that joined healing, lightning, and battle.",
+    "okr": {
+        "objective": "Document Loucetius as a Romano-Celtic god of healing and light and tie his name, his consort, and his cult sites to the wider Celtic and Roman world.",
+        "key_results": [
+            "Loucetius is matched with the Roman war god Mars",
+            "His name holds a root that means a bright flash",
+            "He is consort of Nemetona, goddess of the sacred grove",
+            "He is honoured at Bath and at a shrine in Germany"
+        ],
+        "evidence": "Koch 2006, s.v. 'Loucetius'; reshaped with the existing Monaghan account"
+    },
+    "order": 1471
 }

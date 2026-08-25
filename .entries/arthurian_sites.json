@@ -1,0 +1,81 @@
+{
+    "name": "Arthurian Sites",
+    "attributes": [
+        {
+            "entity": "Celliwig",
+            "attribute": "Arthur's court in Cornwall in the oldest telling, a name that joins wood and settlement"
+        },
+        {
+            "entity": "Badonicus Mons",
+            "attribute": "the famous battle-site whose exact location remains uncertain"
+        },
+        {
+            "entity": "Carn Cabal",
+            "attribute": "a cairn in Buellt bearing the footprint of Arthur's dog Cafall"
+        },
+        {
+            "entity": "Dinas Emrys",
+            "attribute": "the Snowdonia fort tied not to Arthur but to Emrys and the dragons"
+        },
+        {
+            "entity": "Caerllion-ar-Wysg",
+            "attribute": "the old legionary fortress presented as Arthur's great court"
+        }
+    ],
+    "entities": [
+        {
+            "entity": "Celliwig",
+            "type": "site"
+        },
+        {
+            "entity": "Cernyw",
+            "type": "place"
+        },
+        {
+            "entity": "Badonicus Mons",
+            "type": "place"
+        },
+        {
+            "entity": "Carn Cabal",
+            "type": "site"
+        },
+        {
+            "entity": "Dinas Emrys",
+            "type": "site"
+        },
+        {
+            "entity": "Caer Lleon-ar-Wysg",
+            "type": "site"
+        },
+        {
+            "entity": "Twrch Trwyth",
+            "type": "myth"
+        },
+        {
+            "entity": "Amr",
+            "type": "figure"
+        },
+        {
+            "entity": "Béroul",
+            "type": "person"
+        }
+    ],
+    "sources": [
+        "Koch 2006, s.v. 'Arthurian Sites'"
+    ],
+    "image": [],
+    "cyphertext": "",
+    "salt": "",
+    "text": "Arthurian sites are the places that legend binds to King Arthur and his followers. They range from real forts to landmarks whose links remain guesswork. The court of Celliwig appears in Culhwch ac Olwen, the oldest Arthurian tale. The name seems to join celli for wood with gwig, a settlement term from a Latin source. Its exact spot in Cornwall is unsettled. Writers have offered Calliwith, Castle Killibury, and other guesses. One 1302 murder record mentions a Cornish name close to the Welsh form. The famous battle-site Badonicus Mons also resists location. The ninth-century work Historia Brittonum sets Arthur's hunt for the boar Twrch Trwyth across Wales. It also records three marvels bound to him. A cairn in Buellt shows the footprint of his dog Cafall in rock. A spring in Ergyng marks the grave of his son Amr, a tomb that changes size and cannot be measured. Dinas Emrys in Snowdonia links not to Arthur but to Emrys and the red and white dragons. The tale later made Emrys the wizard Merlin. By contrast, a great court of Arthur's at Caer Lleon, the old Roman fortress, only appears under Geoffrey of Monmouth and the writers he swayed. The site shows no sign of great standing in the sub-Roman age. These places prove how loose legend fit real ground. ",
+    "okr": {
+        "objective": "Document the real and claimed places that Arthurian legend binds to Arthur and his band.",
+        "key_results": [
+            "Examine Celliwig, the court of the oldest Arthurian tale",
+            "Record the unknown site of the Badonicus Mons battle",
+            "Describe the marvels that tie Arthur's story to Welsh ground",
+            "Show how later writers placed a court at Caer Lleon"
+        ],
+        "evidence": "Koch 2006, s.v. 'Arthurian Sites'"
+    },
+    "order": 163
+}

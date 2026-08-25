@@ -1,53 +1,99 @@
 {
-  "name": "superstition",
-  "attributes": [
-    {
-      "entity": "superstition",
-      "attribute": "a leftover habit from an older faith"
-    },
-    {
-      "entity": "horse",
-      "attribute": "a sacred animal among the old Celts"
-    },
-    {
-      "entity": "Banshee",
-      "attribute": "a being from an older belief"
-    }
-  ],
-  "entities": [
-    {
-      "entity": "superstition",
-      "type": "Concept"
-    },
-    {
-      "entity": "horse",
-      "type": "Being"
-    },
-    {
-      "entity": "Banshee",
-      "type": "Being"
-    },
-    {
-      "entity": "fairy",
-      "type": "Being"
-    }
-  ],
-  "sources": [
-    "Henderson, George. Survivals in Belief Among the Celts. Glasgow: James MacLeose and Sons, 1911.",
-    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-  ],
-  "image": [
-    "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Salem_witch2.jpg/1200px-Salem_witch2.jpg"
-  ],
-  "cyphertext": "VUMfxYWgaSFWLYpQ6KJgJyxzCA95WnziMpPMeOHHRHBisklK1fquRLhjwItn5p1Xpk3roXJeHl8RJx7Ubduk-wqPBEpD7L8VuRAeolfY8qTvPxGgQlI-sr7CeihbYnmZYql7pQnk937ODrEOWOgl9igiJF9xdh0Cwi8GPEpWYcCHQkPtCwHa4xwhP1NgkksjgEOy1mKyo9aPWwi4rGvWXoeujYdYbPQYn1ZalQZjWVcFdnvuULWtuypP5m7hwtR2Nte2rOB-soly1m_SCe-SZdF-d8JP95Bn2eUxKchMbce6ndOOmi1Z5wgAEtIp5M_jh9-1TxD-IJl0VVRtNpfzHmFzPjqS7jfBp8ZocAS4pFnQmNwyYtk9ZDdtO84s0Lq8xENORIJUK0Usoc2ZFCz9bSR87XcDQ5PneyMsn9PuTumsQGWfOQ9BLx6cJy0ODHJ62Q0j6GDX6zQhfW2vLun0K4zNm37gCE6ynYXrCoCUmP1wjvnzAskBXFfrhGHByvOvwWhJoGYZTblDL0PbiaSp7HKCy56KwN-LO7Yj57STlcGRruzKbLKktAX4WmbK3mgbkLiIc-b7LZVu8A4rbbZloK9wbp4phTLF_rs3kmZpEn_GgSgBRScDjjFIhFcb7z51lSm8gVglfIj_oBXFoEojmkSLCFaF0baK4JuAEK2sv5qNEvJUIrGDyAN8yaneMM8eQVBQTxEGxVA6n_h1SK288IFnayJiESDLV0Bn85InRWecUvdxwpaHC1pM626tzKWgfxqbMtjiDEzyrYLC0CVeliUGIfUuamU82nKAptH712vE_tRE_XQgn62ijtR6pbsEmGsYnAijB8kLDrSnL9mJjMSZEjgP6Z21a8ORQUOWytv1k3FSetFxVGXZd4PmJkPiLcSnyJFutkv4ixXiB7uRZ8HxDz_jJT3CgS1JK60FLTFUGYsD7fvuk9CTSq1B_TKrSsbSKzbE5xrydG4_BGeogMJE3MN9UBcA_Q==",
-  "salt": "nJdiwcwnVTuaxYYkrzQfZw==",
-  "text": "Superstition is a leftover habit of an older faith. When one religion gives way to another, the old one rarely leaves the field. Its beliefs and rites stay, but the old meaning is lost, so the habit is called superstition. One example is the old worry about eating horse. The Celts once held the horse in honor, and the custom of refusing its meat is a small echo of that sacred past. In the same way, the banshee and other fairy beings were part of an older belief, but today they are read as plain superstition. What is called superstition is the small shape of a forgotten faith.",
-  "okr": {
-    "objective": "Replace the weak machine text for superstition with a fresh CSG-SME1000 rewrite from Monaghan.",
-    "key_results": [
-      "text is a fresh rewrite of the cosmological concept",
-      "entities and attributes corrected"
+    "name": "superstition",
+    "attributes": [
+        {
+            "entity": "superstition",
+            "attribute": "a leftover habit from an older faith"
+        },
+        {
+            "entity": "horse",
+            "attribute": "a sacred animal among the old Celts"
+        },
+        {
+            "entity": "Banshee",
+            "attribute": "a being from an older belief"
+        },
+        {
+            "entity": "superstition",
+            "attribute": "carries its own small law for the field and the fold"
+        },
+        {
+            "entity": "Evil Eye",
+            "attribute": "a stealing glance that a red ribbon or rowan keeps off"
+        },
+        {
+            "entity": "Corpse Candle",
+            "attribute": "a pale light that tells of a death to come"
+        },
+        {
+            "entity": "Corn Dolly",
+            "attribute": "the last sheaf kept ready for the next harvest"
+        },
+        {
+            "entity": "Rowan",
+            "attribute": "hung above the door to carry off bad luck"
+        }
     ],
-    "evidence": "Monaghan 2003 (superstition, horse, banshee, fairy)."
-  }
+    "entities": [
+        {
+            "entity": "superstition",
+            "type": "Concept"
+        },
+        {
+            "entity": "horse",
+            "type": "Being"
+        },
+        {
+            "entity": "Banshee",
+            "type": "Being"
+        },
+        {
+            "entity": "fairy",
+            "type": "Being"
+        },
+        {
+            "entity": "Evil Eye",
+            "type": "Concept"
+        },
+        {
+            "entity": "Rowan",
+            "type": "Being"
+        },
+        {
+            "entity": "Corpse Candle",
+            "type": "Concept"
+        },
+        {
+            "entity": "Corn Dolly",
+            "type": "Concept"
+        },
+        {
+            "entity": "Witch",
+            "type": "Being"
+        },
+        {
+            "entity": "Second Sight",
+            "type": "Concept"
+        }
+    ],
+    "sources": [
+        "Henderson, George. Survivals in Belief Among the Celts. Glasgow: James MacLeose and Sons, 1911.",
+        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.",
+        "Koch 2006, s.v. 'Superstitions'"
+    ],
+    "image": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Salem_witch2.jpg/1200px-Salem_witch2.jpg"
+    ],
+    "cyphertext": "VUMfxYWgaSFWLYpQ6KJgJyxzCA95WnziMpPMeOHHRHBisklK1fquRLhjwItn5p1Xpk3roXJeHl8RJx7Ubduk-wqPBEpD7L8VuRAeolfY8qTvPxGgQlI-sr7CeihbYnmZYql7pQnk937ODrEOWOgl9igiJF9xdh0Cwi8GPEpWYcCHQkPtCwHa4xwhP1NgkksjgEOy1mKyo9aPWwi4rGvWXoeujYdYbPQYn1ZalQZjWVcFdnvuULWtuypP5m7hwtR2Nte2rOB-soly1m_SCe-SZdF-d8JP95Bn2eUxKchMbce6ndOOmi1Z5wgAEtIp5M_jh9-1TxD-IJl0VVRtNpfzHmFzPjqS7jfBp8ZocAS4pFnQmNwyYtk9ZDdtO84s0Lq8xENORIJUK0Usoc2ZFCz9bSR87XcDQ5PneyMsn9PuTumsQGWfOQ9BLx6cJy0ODHJ62Q0j6GDX6zQhfW2vLun0K4zNm37gCE6ynYXrCoCUmP1wjvnzAskBXFfrhGHByvOvwWhJoGYZTblDL0PbiaSp7HKCy56KwN-LO7Yj57STlcGRruzKbLKktAX4WmbK3mgbkLiIc-b7LZVu8A4rbbZloK9wbp4phTLF_rs3kmZpEn_GgSgBRScDjjFIhFcb7z51lSm8gVglfIj_oBXFoEojmkSLCFaF0baK4JuAEK2sv5qNEvJUIrGDyAN8yaneMM8eQVBQTxEGxVA6n_h1SK288IFnayJiESDLV0Bn85InRWecUvdxwpaHC1pM626tzKWgfxqbMtjiDEzyrYLC0CVeliUGIfUuamU82nKAptH712vE_tRE_XQgn62ijtR6pbsEmGsYnAijB8kLDrSnL9mJjMSZEjgP6Z21a8ORQUOWytv1k3FSetFxVGXZd4PmJkPiLcSnyJFutkv4ixXiB7uRZ8HxDz_jJT3CgS1JK60FLTFUGYsD7fvuk9CTSq1B_TKrSsbSKzbE5xrydG4_BGeogMJE3MN9UBcA_Q==",
+    "salt": "nJdiwcwnVTuaxYYkrzQfZw==",
+    "text": "Superstition is the leftover habit of an older faith. When one religion gives way to another, the old one does not leave the field at once. Its practices stay, but the old meaning fades, so people call the leftover superstition. Such belief reaches across the whole of life, from the small round of the home to the great turn of the seasons. Some beliefs stay silent, some find a place in the daily act, and many attach a custom to a need. The Celtic countries keep a rich web of this folklore. In Ireland a new house was sited so it did not shut the way the fairies used to walk. Farmers bound the herd's tails with lengths of red ribbon as a guard. A witch could slip into the form of a hare, and the evil eye could strike a man without warning. A red-haired woman met on the road to market or to the boat could bring bad luck to a trip. Rowan hung above the door kept out harm, and forge water eased the ache of the joints. The boundary of death had its own signs. The corpse candle and the death bird told a home that an end was near, and a wake kept the dead from troubling the living. In the new year the first guest over the door, the first-footer, carried either luck or ruin for the house. The last sheaf of harvest, saved as a figure called the caseg fedi, held back bad luck until the next crop. These traditions mark the turning year and bind a people to its past.",
+    "okr": {
+        "objective": "Blend Koch's survey of Celtic folk-belief into the superstition entry and broaden its entities.",
+        "key_results": [
+            "text covers the fairy-path, evil eye, corn dolly, and the year's calendar customs",
+            "adds fresh folklore entities and attributes not already in the entry"
+        ],
+        "evidence": "Koch 2006, s.v. 'Superstitions': red ribbons, evil eye, rowan, corpse candle, first foot, corn dolly."
+    },
+    "order": 2093
 }

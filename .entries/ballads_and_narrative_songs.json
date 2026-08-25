@@ -1,0 +1,64 @@
+{
+    "name": "Ballads and narrative songs",
+    "text": "Ballads and narrative songs are a central form of Gaelic verse. Oisean, the sole survivor of Fionn's companions, speaks with Saint Patrick about past glory and heroic deeds. The frame repeats the old Irish dialogue of survivors and saints. A few songs follow the Ulster Cycle and place the warrior Cú Chulainn at the heart of the action. Songs of grief for slain fighters hold a strong place in the group. Three pieces mourn the death of Oscar, the grandson of Fionn. The lay of Diarmaid records how Fionn caused the fall of his own nephew. A rival band led by Goll mac Morna often closes with the Fianna. Tales of Norse raiders appear in these verses, but the time of the hero makes the claim a false note. Ireland and Scotland first share the tradition. The verse patterns split as the spoken tongue changes. Lismore's dean kept the oldest Scottish songs in his manuscript. The learned men of the 1700s recorded the folk of Perthshire and Argyll.",
+    "okr": {
+        "objective": "Document the narrative song tradition of Gaelic lands through its heroes and its tune.",
+        "key_results": [
+            "Name Oisean, Fionn, Cú Chulainn, and Saint Patrick as the lead figures",
+            "Show at least three mourning songs in the group",
+            "Place the Book of the Dean of Lismore as the oldest Scottish source"
+        ],
+        "evidence": "The entry rests on the Koch 2006 account of Gaelic ballads, their characters, and their early surviving texts."
+    },
+    "entities": [
+        {
+            "entity": "Oisean",
+            "type": "hero"
+        },
+        {
+            "entity": "Fionn",
+            "type": "hero"
+        },
+        {
+            "entity": "Cú Chulainn",
+            "type": "hero"
+        },
+        {
+            "entity": "Oscar",
+            "type": "hero"
+        },
+        {
+            "entity": "Diarmaid",
+            "type": "figure"
+        },
+        {
+            "entity": "Goll mac Morna",
+            "type": "figure"
+        },
+        {
+            "entity": "Book of the Dean of Lismore",
+            "type": "text"
+        },
+        {
+            "entity": "Ulster Cycle",
+            "type": "text"
+        }
+    ],
+    "attributes": [
+        {
+            "entity": "Ballads and narrative songs",
+            "attribute": "Scotland and Ireland"
+        },
+        {
+            "entity": "Ballads and narrative songs",
+            "attribute": "Scottish Gaelic"
+        }
+    ],
+    "sources": [
+        "Koch 2006, s.v. 'Ballads and narrative songs'"
+    ],
+    "image": [],
+    "cyphertext": "",
+    "salt": "",
+    "order": 193
+}

@@ -5,94 +5,96 @@ icon: file-lines
 order: 744
 contributors: [ 'Christopher Godwin' ]
 attributes:
-  - Dún Ailinne great Hillfort
+  - Dún Ailinne great hillfort in County Kildare
   - Dún Ailinne established in Neolithic times
-  - Dún Ailinne taken over as a provincial capital by the Celts around the seventh century C.E.
-  - Dún Ailinne eastern corollary to Cruachan in Connacht and Emain Macha in Ulster
-  - Dún Ailinne now called Knockaulin Hill
-  - recent excavations at Dún Ailinne revealed several banks—among the largest earthworks in the land—and a wide causeway
-  - foundations of ancient structures uncovered at the site
-  - the site named for Alend, an obscure goddess
+  - Dún Ailinne provincial capital of the Leinster kings
+  - Dún Ailinne eastern corollary to Cruachan and Emain Macha
+  - Knockaulin Hill modern name for Dún Ailinne
+  - Dún Ailinne named for the goddess Alend
+  - Dún Ailinne excavated from 1968 to 1975
+  - Dún Ailinne Iron Age layers named White, Rose, and Mauve
+  - Dún Ailinne site of battles for the Leinster kingship in 728 and c. 800
+  - Dún Ailinne produced an iron sword, spearhead, bronze pins, and glass beads
+  - John O'Donovan first identified the site as modern Knockaulin
+  - Dún Ailinne the eastern counterpart to Cruachan and Emain Macha
 categories:
-  - County
   - Hillfort
-  - Structure
-  - Activity
-  - Province
-  - Time period
+  - Period
   - Culture
   - Goddess
+  - Province
   - Hill
+  - person
+  - Place
 entities:
   - Dún Ailinne(Hillfort)
-  - Co. Kildare(County)
-  - Neolithic times(Time period)
+  - County Kildare(Place)
   - Celts(Culture)
-  - seventh century C.E.(Time period)
   - Cruachan(Hillfort)
   - Connacht(Province)
   - Emain Macha(Hillfort)
   - Ulster(Province)
   - Knockaulin Hill(Hill)
-  - excavations(Activity)
-  - banks(Structure)
-  - earthworks(Structure)
-  - causeway(Structure)
-  - ancient structures(Structure)
+  - Leinster(Province)
   - Alend(Goddess)
+  - John O'Donovan(person)
+  - Kildare(Place)
+  - Neolithic(Period)
+  - Iron Age(Period)
 tags:
   - Dún Ailinne
-  - Co. Kildare
-  - Neolithic times
+  - County Kildare
   - Celts
-  - seventh century C.E.
   - Cruachan
   - Connacht
   - Emain Macha
   - Ulster
   - Knockaulin Hill
-  - excavations
-  - banks
-  - earthworks
-  - causeway
-  - ancient structures
+  - Leinster
   - Alend
+  - John O'Donovan
+  - Kildare
+  - Neolithic
+  - Iron Age
 ---
 ``` tab [group1:Info]
 ::: magazinestyle
-A provincial capital of the Celts in the seventh century C.E., Dún Ailinne is a great Hillfort located in Co. Kildare. Its origins can be traced back to the Neolithic period. It is considered the eastern counterpart to Cruachan in Connacht and Emain Macha in Ulster. Presently, the area goes by the name Knockaulin Hill. Latest excavations at Dún Ailinne have led to the uncovering of numerous banks, which are one of the most massive earthworks in the region. Moreover, a broad causeway and the foundations of ancient edifices have also been discovered at the location. Naming of the site has been done in honor of Alend, a little-known goddess.
+Dún Ailinne served as the seat of Leinster's ancient kings. The hillfort stands in County Kildare, and today the spot is called Knockaulin. The site has a long story. Finds show people lived there in the Neolithic age and again in the early Bronze Age. The Celts later turned it into a royal capital. It is the eastern match to Cruachan in the west and Emain Macha in the north. The main work belongs to the later Iron Age. Archaeologists dug the site from 1968 to 1975. They split the Iron Age into three phases and named them White, Rose, and Mauve. The last phase held a wide round timber ring about forty-two metres across. A tower may have stood at its centre, perhaps nine metres high. A bank and a ditch ring the whole place, much as at Tara and Navan. Radiocarbon dates place the main use from the fifth century B.C. to the third century A.D. Finds include an iron sword, a spearhead, bronze pins, and glass beads. Cattle and pigs died in spring and autumn, probably for feasts. The kings of Leinster fought a battle on the hill in 728 and again near 800. John O'Donovan first tied the site to modern Knockaulin. The place bears the name of Alend, an obscure goddess. The site is the eastern partner to the royal halls of Cruachan and Emain Macha.
 
 :::
 ```
 ``` tab [group1:Attributes]
-- **Dún Ailinne**: great Hillfort
+- **Dún Ailinne**: great hillfort in County Kildare
 - **Dún Ailinne**: established in Neolithic times
-- **Dún Ailinne**: taken over as a provincial capital by the Celts around the seventh century C.E.
-- **Dún Ailinne**: eastern corollary to Cruachan in Connacht and Emain Macha in Ulster
-- **Dún Ailinne**: now called Knockaulin Hill
-- **recent excavations at Dún Ailinne**: revealed several banks—among the largest earthworks in the land—and a wide causeway
-- **foundations of ancient structures**: uncovered at the site
-- **the site**: named for Alend, an obscure goddess
+- **Dún Ailinne**: provincial capital of the Leinster kings
+- **Dún Ailinne**: eastern corollary to Cruachan and Emain Macha
+- **Knockaulin Hill**: modern name for Dún Ailinne
+- **Dún Ailinne**: named for the goddess Alend
+- **Dún Ailinne**: excavated from 1968 to 1975
+- **Dún Ailinne**: Iron Age layers named White, Rose, and Mauve
+- **Dún Ailinne**: site of battles for the Leinster kingship in 728 and c. 800
+- **Dún Ailinne**: produced an iron sword, spearhead, bronze pins, and glass beads
+- **John O'Donovan**: first identified the site as modern Knockaulin
+- **Dún Ailinne**: the eastern counterpart to Cruachan and Emain Macha
 ```
 ``` tab [group1:Entities]
 - **Dún Ailinne**: Hillfort
-- **Co. Kildare**: County
-- **Neolithic times**: Time period
+- **County Kildare**: Place
 - **Celts**: Culture
-- **seventh century C.E.**: Time period
 - **Cruachan**: Hillfort
 - **Connacht**: Province
 - **Emain Macha**: Hillfort
 - **Ulster**: Province
 - **Knockaulin Hill**: Hill
-- **excavations**: Activity
-- **banks**: Structure
-- **earthworks**: Structure
-- **causeway**: Structure
-- **ancient structures**: Structure
+- **Leinster**: Province
 - **Alend**: Goddess
+- **John O'Donovan**: person
+- **Kildare**: Place
+- **Neolithic**: Period
+- **Iron Age**: Period
 ```
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
+- Koch 2006, s.v. 'Dún Ailinne'
 ```
 ![Dún Ailinne Image](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/D%C3%BAn_Ailine_ditch.jpg/1200px-D%C3%BAn_Ailine_ditch.jpg)

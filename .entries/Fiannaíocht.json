@@ -1,0 +1,84 @@
+{
+    "name": "Fiannaíocht",
+    "attributes": [
+        {
+            "entity": "Fiannaíocht",
+            "attribute": "the tales and verses of the young warrior band"
+        },
+        {
+            "entity": "fian",
+            "attribute": "a roaming war-band of young fighters"
+        },
+        {
+            "entity": "Finn",
+            "attribute": "the band's leader and the lover left behind"
+        },
+        {
+            "entity": "Diarmait",
+            "attribute": "the kinsman and companion whom Gráinne loves"
+        },
+        {
+            "entity": "Gráinne",
+            "attribute": "the daughter of Cormac who wed Finn"
+        },
+        {
+            "entity": "Duanaire Finn",
+            "attribute": "a book of lays written in Ostend"
+        },
+        {
+            "entity": "Dean of Lismore collection",
+            "attribute": "a 16th-century Scottish verse collection"
+        }
+    ],
+    "entities": [
+        {
+            "entity": "Fiannaíocht",
+            "type": "Genre"
+        },
+        {
+            "entity": "fian",
+            "type": "Group"
+        },
+        {
+            "entity": "Finn",
+            "type": "Person"
+        },
+        {
+            "entity": "Diarmait",
+            "type": "Person"
+        },
+        {
+            "entity": "Gráinne",
+            "type": "Person"
+        },
+        {
+            "entity": "Cormac",
+            "type": "Person"
+        },
+        {
+            "entity": "Duanaire Finn",
+            "type": "Text"
+        },
+        {
+            "entity": "Dean of Lismore collection",
+            "type": "Text"
+        }
+    ],
+    "sources": [
+        "Koch 2006, s.v. 'Fiannaíocht'"
+    ],
+    "image": [],
+    "cyphertext": "",
+    "salt": "",
+    "text": "Fiannaíocht is the lore of the fian, the roaming band of youthful fighters, told partly in prose and mostly in verse. Much of it is sung in a semiharmonic style, seen in the Lismore dean's poem book and in Duanaire Finn, a collection written at Ostend that shows how far the songs traveled at home and across the sea. A central tale concerns Gráinne, daughter of Cormac, who leaves the old lord Finn for his close companion Diarmaid. The story looks back to an older pattern of a woman caught between two men, one that yielded a lasting body of writing in both Ireland and Scotland.",
+    "okr": {
+        "objective": "Record the shape and spread of fiannaíocht lore.",
+        "key_results": [
+            "List the poetic forms at the heart of the tradition",
+            "State the manuscripts that keep the tale",
+            "Name the central love story"
+        ],
+        "evidence": "Koch 2006, s.v. 'Fiannaíocht'"
+    },
+    "order": 966
+}

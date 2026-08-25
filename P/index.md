@@ -2,9 +2,13 @@
 title: Volume P
 layout: layouts/pce.njk
 ---
+- [Peredur_fab_Efrawg](Peredur_fab_Efrawg)
+- [Pryderi_fab_Pwyll](Pryderi_fab_Pwyll)
+- [Pwyll_Pendefig_Dyfed](Pwyll_Pendefig_Dyfed)
 - [Padfoot](Padfoot)
 - [Padstow_Obby_Oss](Padstow_Obby_Oss)
 - [paganism](paganism)
+- [pa_gur](pa_gur)
 - [Palomides](Palomides)
 - [Pamp](Pamp)
 - [Paradise](Paradise)
@@ -34,6 +38,7 @@ layout: layouts/pce.njk
 - [pilgrimage](pilgrimage)
 - [pin](pin)
 - [pishogue](pishogue)
+- [pisky](pisky)
 - [pixy](pixy)
 - [pixy-led](pixy-led)
 - [place-lore](place-lore)

@@ -1,0 +1,60 @@
+{
+    "name": "LeGendary History",
+    "text": "Legendary history records the origin myths that a people tell about their own beginning. The Greek writer Diodorus Siculus preserved a Gaulish foundation tale. The daughter of an ancient king of Celtica united with Hercules. Their child was a hero and leader named Galateis. The Gauls, called Galatai in Greek, took their name from him. Caesar states that the druids said their teaching came from Britain. Some Gauls therefore claimed a British or even Irish origin. Caution is needed because this account comes from Caesar. The Belgae of north-east Gaul, he wrote, came down from beyond the Rhine. The like-named Belgae of Britain, in his time, had crossed there from Gaul. Some Gaulish tribes kept legends about the fighters of the Greek war of 280-78 BC. These raiders returned with the sacred treasure of Delphi. The treasure was laid in the pools of Tolosa. It worked as a charm guarding the rule of the Tectosages. The Roman general Caepio took it again in 106 BC. Ammianus Marcellinus set down a Trojan origin legend. Some Gauls said that after Troy fell a few fugitives reached their lands. The tale resembled the foundation story of the Aeneid.",
+    "okr": {
+        "objective": "Record the foundation myths and origin legends that the Gauls told about their own beginnings.",
+        "key_results": [
+            "Name Diodorus Siculus as the writer who preserved the founding myth",
+            "Place the Belgae and Tectosages in the stream of Greek warriors",
+            "Date the Greek war of the Gauls to the year 280"
+        ],
+        "evidence": "The tale of founder name and the flood treasure rest on the Greek and Roman writers Koch reports."
+    },
+    "entities": [
+        {
+            "entity": "Diodorus Siculus",
+            "type": "figure"
+        },
+        {
+            "entity": "Hercules",
+            "type": "hero"
+        },
+        {
+            "entity": "Galateis",
+            "type": "hero"
+        },
+        {
+            "entity": "Belgae",
+            "type": "people"
+        },
+        {
+            "entity": "Belgios",
+            "type": "figure"
+        },
+        {
+            "entity": "Tolosa",
+            "type": "place"
+        },
+        {
+            "entity": "Aeneid",
+            "type": "text"
+        }
+    ],
+    "attributes": [
+        {
+            "entity": "LeGendary History",
+            "attribute": "Gaul and Britain"
+        },
+        {
+            "entity": "LeGendary History",
+            "attribute": "Greek"
+        }
+    ],
+    "sources": [
+        "Koch 2006, s.v. 'LeGendary History'"
+    ],
+    "image": [],
+    "cyphertext": "",
+    "salt": "",
+    "order": 1439
+}

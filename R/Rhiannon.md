@@ -5,43 +5,81 @@ icon: file-lines
 order: 1904
 contributors: [ 'Christopher Godwin' ]
 attributes:
-  - Rhiannon associated with Birds
-  - Rhiannon Three magical birds who fly always around her shoulders
-  - Rhiannon singing so sweetly that the dead awaken and the living fall into a trance
-  - Mórrígan has some of the same linguistic roots as Rhiannon
-  - Mórrígan associated with the goddess of war
+  - Rhiannon Welsh goddess linked to horses
+  - Rhiannon rode a fast white horse
+  - Epona horse goddess parallel to Rhiannon
+  - Pwyll chased her and lost three races
+  - Rhiannon served as a mount for visitors
+  - Pryderi her son who freed her
+  - Rhiannon her name root, great queen, pairs the divine kingship
+  - Modron like Rhiannon a mother whose son vanishes — a link in the tale
+  - Rosmerta linked in the ancient speech of the sod to the queen
 categories:
-  - mythological figure
-  - animals
+  - character
+  - place
+  - concept
+  - god
+  - goddess
+  - deity
+  - artifact
+  - animal
 entities:
-  - Rhiannon(mythological figure)
-  - Mórrígan(mythological figure)
-  - goddess of war(mythological figure)
-  - Birds(animals)
+  - Rhiannon(god)
+  - Mabinogion(artifact)
+  - Epona(god)
+  - Pwyll(character)
+  - Dyfed(place)
+  - Gwawl(character)
+  - Pryderi(character)
+  - horse(animal)
+  - sun(concept)
+  - Modron(goddess)
+  - Rosmerta(goddess)
+  - Teyrnon(deity)
 tags:
   - Rhiannon
-  - Mórrígan
-  - goddess of war
-  - Birds
+  - Mabinogion
+  - Epona
+  - Pwyll
+  - Dyfed
+  - Gwawl
+  - Pryderi
+  - horse
+  - sun
+  - Modron
+  - Rosmerta
+  - Teyrnon
 ---
 ``` tab [group1:Info]
 ::: magazinestyle
-Rhiannon is a Welsh goddess or heroine who appears in the Mabinogion, a collection of Welsh myths. It is believed that Rhiannon, like other important figures in these stories, was originally divine. Some scholars have connected her name with rigatona, meaning “great queen,” a name attributed to an ancient goddess. Epona, a Horse goddess known to the continental Celts (and partially in Britain), may be a parallel figure to Rhiannon, who is closely tied to horses throughout her legend. Some experts have connected Rhiannon's association with horses to the Sun, which the ancient Celts portrayed in equine form. In Welsh mythology, Rhiannon is an Otherworld woman who rides her swift white horse around an enchanted spot. Pwyll, the king of Dyfed, met her there and attempted to pursue her on his mortal horse, but he could not keep up. Eventually, he called out for her to stop. Rhiannon did so and revealed that she had heard of his achievements and sought him out. Pwyll and Rhiannon married and became king and queen—but only after Pwyll had successfully defeated another contender for her hand, Gwawl. Sadly, their happiness was short-lived. After giving birth to their son, Pryderi, Rhiannon was discovered one Beltane morning with blood on her face and the child missing. Although many people assumed that Rhiannon had murdered her son, the blood on her face turned out to be from a dog, which the nursemaids had killed upon discovering Pryderi's disappearance. Rhiannon faced punishment for a crime that the nursemaids refused to reveal, resulting in a strangely light sentence for her. She was to carry all visitors to the castle on her back as a mount. Her son Pryderi, who was abducted by a spectral figure and raised by a nobleman, appeared and freed her from bondage. Later in life, Rhiannon was widowed and remarried. The problems that caused trouble in her first marriage resurfaced when her son took the throne and the kingdom turned barren. The family, including Rhiannon, Pryderi, Cigfa, and Manawydan, moved to a faraway city where they thrived as artisans, upsetting less skilled local craftsmen who drove them away. In fear of their safety, they moved back to Dyfed but Rhiannon and Pryderi vanished. Manawydan searched for answers and discovered that the family of Gwawl, who was vying for Rhiannon's hand, had enchanted the family. An agreement was made, and Rhiannon and Pryderi returned to the world unharmed. Rhiannon has been linked by a number of scholars with the goddess of Sovereignty of the land, primarily because her arrival in Dyfed resulted in fruitful lands, while her exit led to their corruption. Another reason for this association is her analogous name to the goddess of war, Mórrígan, sharing some of the same linguistic roots. Notably, Rhiannon is connected to birds just as Mórrígan was, and bears the association with three magical birds. These birds can be seen around her shoulders, stimulating the reawakening of the dead and causing the living to fall into a trance by singing melodious tunes.
+Rhiannon is a Welsh goddess and the name appears in a Welsh heroic tale. Her name comes from an older form, Rigantona, the great queen, and it matches pair by pair the early word for a divine king. She rides a swift white mare. King Pwyll of Dyfed rides after her three times, and three times she outruns him, until at last she stops on purpose and tells him she holds him chosen. After he weds her he beats the rival Gwawl. Scholars link her to the horse goddess Epona for her many equine ties. Like the mother-figure Modron she is a divine mother whose child is stolen from her in secret. She suffers for it, and her penance is to carry visitors on her back as a horse carries its load. Her son Pryderi comes back to free her. A Gaulish inscription also joins her name to the goddess Rosmerta.
 
 :::
 ```
 ``` tab [group1:Attributes]
-- **Rhiannon**: associated with Birds
-- **Rhiannon**: Three magical birds who fly always around her shoulders
-- **Rhiannon**: singing so sweetly that the dead awaken and the living fall into a trance
-- **Mórrígan**: has some of the same linguistic roots as Rhiannon
-- **Mórrígan**: associated with the goddess of war
+- **Rhiannon**: Welsh goddess linked to horses
+- **Rhiannon**: rode a fast white horse
+- **Epona**: horse goddess parallel to Rhiannon
+- **Pwyll**: chased her and lost three races
+- **Rhiannon**: served as a mount for visitors
+- **Pryderi**: her son who freed her
+- **Rhiannon**: her name root, great queen, pairs the divine kingship
+- **Modron**: like Rhiannon a mother whose son vanishes — a link in the tale
+- **Rosmerta**: linked in the ancient speech of the sod to the queen
 ```
 ``` tab [group1:Entities]
-- **Rhiannon**: mythological figure
-- **Mórrígan**: mythological figure
-- **goddess of war**: mythological figure
-- **Birds**: animals
+- **Rhiannon**: god
+- **Mabinogion**: artifact
+- **Epona**: god
+- **Pwyll**: character
+- **Dyfed**: place
+- **Gwawl**: character
+- **Pryderi**: character
+- **horse**: animal
+- **sun**: concept
+- **Modron**: goddess
+- **Rosmerta**: goddess
+- **Teyrnon**: deity
 ```
 ``` tab [group1:Sources]
 - Dexter, Miriam Robbins. Whence the Goddesses: A Sourcebook. (New York: Pergamon Press, 1990), 93-94.
@@ -50,5 +88,6 @@ Rhiannon is a Welsh goddess or heroine who appears in the Mabinogion, a collecti
 - Ross, Anne. Pagan Celtic Britain: Studies in Iconography and Tradition. London: Routledge & Kegan Paul, 1967, 225.
 - Straffon, Cheryl. The Earth Goddess: Celtic and Pagan Legacy of the Landscape. London: Blandford, 1997, pp. 38–39.
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
+- Koch 2006, s.v. 'Rhiannon'
 ```
 ![Rhiannon Image](https://upload.wikimedia.org/wikipedia/commons/a/a6/Charlotte_Guest_Rhiannon.jpg)

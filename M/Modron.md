@@ -5,30 +5,74 @@ icon: file-lines
 order: 1635
 contributors: [ 'Christopher Godwin' ]
 attributes:
-  - Madrun's Well dropping Pins into the water to foresee the future health of the petitioner
+  - Modron a Welsh goddess whose name means mother
+  - Modron linked with the Deae Matres and Matrona
+  - Modron mother of the hero Mabon
+  - Madrun a Cornish saint and Christian form of Modron
+  - Madrun well that drops pins to foresee the health
+  - Modron derives from the mother goddess Matron of the Marne
+  - Modron mother of the abducted son Mabon in Culhwch and Olwen
+  - Modron shows as a supernatural mother when called daughter of the Otherworld king
+  - Modron the Cornish saint Madron carries her name as a Christian echo
 categories:
-  - Object
-  - Place
+  - person
+  - Group
+  - Text
+  - Being
+  - Person
 entities:
-  - Madrun's Well(Place)
-  - Pins(Object)
+  - Modron(Being)
+  - Madrun(Person)
+  - Mabinogion(Text)
+  - Deae Matres(Group)
+  - Matrona(Being)
+  - Mabon(Person)
+  - Owain(person)
+  - Urien(person)
+  - Afallach(person)
+  - Mydron(person)
 tags:
-  - Madrun's Well
-  - Pins
+  - Modron
+  - Madrun
+  - Mabinogion
+  - Deae Matres
+  - Matrona
+  - Mabon
+  - Owain
+  - Urien
+  - Afallach
+  - Mydron
 ---
 ``` tab [group1:Info]
 ::: magazinestyle
-A mention of Modron (Madrun) can be found in Welsh mythological texts like the Mabinogion. She is a Welsh goddess whose name means "mother". This makes her comparable to the Deae Matres, known as "the divine mothers" in continental Celtic mythology, as well as Matrona, the mother goddess. There is little known mythology surrounding her, which has led some to speculate that she might have been an early or even pre-Celtic deity whose name outlived her narratives and rituals. Interestingly, in Cornwall, there is a saint named Madrun or Madron who may have been a Christianized version of the goddess. Rituals at St. Madrun's Well include dropping pins into the water in order to predict the future health of the petitioner.
+Modron is a Welsh divine mother who keeps the name of the Celtic goddess Matrona. The mother goddess Matrona gave the river Marne its name. Modron carries that same stream-goddess into Welsh legend as a supernatural mother. In the old Welsh tale Culhwch and Olwen she appears without epithet or parent, as mother of the hero Mabon. Her son had been snatched when only three nights old. Another early poem, Pa Gur, names her Mydron and links her to the same child. Modron often figures as a mother of the Otherworld. When called a child of Afallach, she takes the role of a divine mother once more. In the Welsh triads she has children Owain and Morfudd by Urien. The saintly Madrun in Cornish legend is a Christian echo of the same goddess. Her many names all lead back to the one river mother.
 
 :::
 ```
 ``` tab [group1:Attributes]
-- **Madrun's Well**: dropping Pins into the water to foresee the future health of the petitioner
+- **Modron**: a Welsh goddess whose name means mother
+- **Modron**: linked with the Deae Matres and Matrona
+- **Modron**: mother of the hero Mabon
+- **Madrun**: a Cornish saint and Christian form of Modron
+- **Madrun**: well that drops pins to foresee the health
+- **Modron**: derives from the mother goddess Matron of the Marne
+- **Modron**: mother of the abducted son Mabon in Culhwch and Olwen
+- **Modron**: shows as a supernatural mother when called daughter of the Otherworld king
+- **Modron**: the Cornish saint Madron carries her name as a Christian echo
 ```
 ``` tab [group1:Entities]
-- **Madrun's Well**: Place
-- **Pins**: Object
+- **Modron**: Being
+- **Madrun**: Person
+- **Mabinogion**: Text
+- **Deae Matres**: Group
+- **Matrona**: Being
+- **Mabon**: Person
+- **Owain**: person
+- **Urien**: person
+- **Afallach**: person
+- **Mydron**: person
 ```
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
+- Koch 2006, s.v. 'Modron'
 ```

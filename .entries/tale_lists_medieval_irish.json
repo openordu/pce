@@ -1,0 +1,48 @@
+{
+    "name": "Tale lists, medieval Irish",
+    "text": "The medieval Irish tale lists are catalogues of the stories of early Ireland. These catalogues record the titles known to medieval readers. A story relates how the poet Urard sought the king of Tara. Urard had suffered a great injustice from a northern branch of the royal line. The king was called Domnall mac Muirchertaig, who died in 990. Urard asked the king for judgement about his misfortune. The king then asked the poet to give news. The old word for news carries both tidings and stories. Urard spoke of many tales he knew. Among them he named Orgain Cathrach Mail Milscothaig. That title means the destruction of Mael Milscothach's fort. The king chose to hear that particular story. The tale hid the poet's own misfortunes. When the king saw this, he promised full reparation. Today scholars agree that neither list gives a true record. Both catalogues hold additions and changes. Some titles appear in only one of the two lists. Still, the lists reveal the tales that readers knew and favoured. Most titles belong to the stories of the Ulster Cycle. Only a few titles relate to Finn mac Cumaill and the Fianna. The lists give a window into the literary world of medieval Ireland.",
+    "okr": {
+        "objective": "Document the medieval Irish tale lists as catalogues of known stories within the knowledge graph.",
+        "key_results": [
+            "Provide a factual overview of the Irish mediaeval tale lists that exceeds 300 characters.",
+            "Record the story of Urn and the king of Tara accurately.",
+            "Cite the Koch encyclopedic entry as the single supporting source."
+        ],
+        "evidence": "Koch describes the tale lists, the story of Urn before the king of Tara, the mixed accuracy of the catalogues, and the strong tilt of their titles toward the Ulster Cycle."
+    },
+    "entities": [
+        {
+            "entity": "Ulster Cycle",
+            "type": "text"
+        },
+        {
+            "entity": "Tara",
+            "type": "place"
+        },
+        {
+            "entity": "Domnall mac Muirchertaig",
+            "type": "figure"
+        },
+        {
+            "entity": "Finn mac Cumaill",
+            "type": "hero"
+        }
+    ],
+    "attributes": [
+        {
+            "entity": "Tale lists, medieval Irish",
+            "attribute": "Ireland"
+        },
+        {
+            "entity": "Tale lists, medieval Irish",
+            "attribute": "medieval literature catalogues"
+        }
+    ],
+    "sources": [
+        "Koch 2006, s.v. 'Tale lists, medieval Irish'"
+    ],
+    "image": [],
+    "cyphertext": "",
+    "salt": "",
+    "order": 2135
+}

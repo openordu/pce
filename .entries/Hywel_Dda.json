@@ -1,80 +1,120 @@
 {
-  "name": "Hywel Dda",
-  "entities": [
-    {
-      "entity": "Hywel Dda",
-      "type": "Person"
-    },
-    {
-      "entity": "Howel Dda",
-      "type": "Person"
-    },
-    {
-      "entity": "Dyfed",
-      "type": "Place"
-    },
-    {
-      "entity": "Cyfraith Hywell",
-      "type": "Artifact"
-    },
-    {
-      "entity": "Laws of Hywel",
-      "type": "Artifact"
-    },
-    {
-      "entity": "Brehon laws",
-      "type": "Concept"
-    },
-    {
-      "entity": "Wales",
-      "type": "Place"
-    },
-    {
-      "entity": "bard",
-      "type": "Person"
-    },
-    {
-      "entity": "smith",
-      "type": "Person"
-    }
-  ],
-  "sources": [
-    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-  ],
-  "attributes": [
-    {
-      "entity": "Hywel Dda",
-      "attribute": "king of Dyfed who created the first unified Welsh body of law"
-    },
-    {
-      "entity": "Cyfraith Hywell",
-      "attribute": "the Laws of Hywel, codified in the late 12th or 13th century"
-    },
-    {
-      "entity": "Cyfraith Hywell",
-      "attribute": "the Welsh parallel to the Irish Brehon laws, basis of organized life in Wales"
-    },
-    {
-      "entity": "bard",
-      "attribute": "one of the three arts a villein's son needed his lord's consent to learn"
-    }
-  ],
-  "image": [
-    "https://upload.wikimedia.org/wikipedia/commons/6/68/Laws_of_Hywel_Dda_%28f.1.v%29_King_Hywel_cropped.jpg"
-  ],
-  "cyphertext": "niXejreulnsvMMDjaTlnKqCOVRpIz44-owfviaIj2gi5OgXKATJggWLmVyEaIMh28cN2bRmi83SKLvu4vjReibF4STGKfZxT3hQRwuoEbRAV2jQbuPxUtM8XBc441I0XxrI5Rr971iubUHsq7YIqmrXNZhbvxWwXEGQk9Z_81B5ld5rGX5NYfXyR4dbvfat7AUS9WZxbHafTY9y7a36dWzxQzU_9j0iQDmcIGMccCLlDHSQBhETHtPxyx6GLcWgvv36GRWSL7SboxAlUamDN4UiqG8lhaw0E547nmIUNxxWydnLQ-WLJKCL1w28Rda2OBjycCFWxqocJlan0DDnFGOoQU3JzorPdbow0UyxorsulQwZB0DW_5WcgmeWOp9vAPf8MrwTgqIylerizTqDt4N2JCvkeRooc9eYfyNUaoCy4xExzEmzRZZ4vp4Sepji7c4Hy_eV6AelICewywLeE1SMfUj3ZuBMPZSYP75GzSrOhRhz_BAfPF503Y-srWs38nVTH2dCIKbPgqiJng1_e7GBXnIO6E0mAlScXipo77o8djPzQAbqHm2Hz_e7AlDVSKGB22DLSdyw=",
-  "salt": "xiicfdNTtfXX5KuyzKoGeQ==",
-  "text": "Hywel Dda was a Welsh hero and king. He is also called Howel Dda, or Hywel the Good. He ruled the southwestern Welsh kingdom of Dyfed in the 10th century, from about 910 to 950 C.E. Hywel created an impressive body of law. It was codified in the late 12th century, or 13th by some sources, as Cyfraith Hywell, the Laws of Hywel. It was the first unified body of law in the land. Scholars often describe it as the Welsh parallel to the Irish Brehon laws. The Laws of Hywel Dda formed the basis of organized life in Wales for centuries. They set out the rights of the bards, the smiths, and the people. One law named poetry, clerkship, and smithcraft as the three arts a villein's son might not learn without his lord's consent. By binding the kingdom under one code, Hywel shaped the Welsh nation.",
-  "okr": {
-    "objective": "Document Hywel Dda, the Welsh king who created the first unified body of law.",
-    "key_results": [
-      "Record Hywel's reign over Dyfed in the 10th century.",
-      "Describe the Laws of Hywel as the first unified Welsh law and parallel to Brehon law.",
-      "Note the three arts rule and the code's lasting basis in Welsh life."
+    "name": "Hywel Dda",
+    "entities": [
+        {
+            "entity": "Hywel Dda",
+            "type": "Person"
+        },
+        {
+            "entity": "Howel Dda",
+            "type": "Person"
+        },
+        {
+            "entity": "Dyfed",
+            "type": "Place"
+        },
+        {
+            "entity": "Cyfraith Hywell",
+            "type": "Artifact"
+        },
+        {
+            "entity": "Laws of Hywel",
+            "type": "Artifact"
+        },
+        {
+            "entity": "Brehon laws",
+            "type": "Concept"
+        },
+        {
+            "entity": "Wales",
+            "type": "Place"
+        },
+        {
+            "entity": "bard",
+            "type": "Person"
+        },
+        {
+            "entity": "smith",
+            "type": "Person"
+        },
+        {
+            "entity": "Gwynedd",
+            "type": "Place"
+        },
+        {
+            "entity": "Powys",
+            "type": "Place"
+        },
+        {
+            "entity": "Æthelstan",
+            "type": "Person"
+        },
+        {
+            "entity": "Armes Prydein",
+            "type": "Text"
+        },
+        {
+            "entity": "Alfred the Great",
+            "type": "Person"
+        },
+        {
+            "entity": "Deheubarth",
+            "type": "Place"
+        }
     ],
-    "evidence": [
-      "Monaghan, P. The Encyclopedia of Celtic Mythology and Folklore (2008): Hywel Dda entry.",
-      "Koch, J. T. Encyclopedia of Celtic Culture (2006): law text and bardic order entries."
-    ]
-  }
+    "sources": [
+        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.",
+        "Koch 2006, s.v. 'Hywel Dda'"
+    ],
+    "attributes": [
+        {
+            "entity": "Hywel Dda",
+            "attribute": "king of Dyfed who created the first unified Welsh body of law"
+        },
+        {
+            "entity": "Cyfraith Hywell",
+            "attribute": "the Laws of Hywel, codified in the late 12th or 13th century"
+        },
+        {
+            "entity": "Cyfraith Hywell",
+            "attribute": "the Welsh parallel to the Irish Brehon laws, basis of organized life in Wales"
+        },
+        {
+            "entity": "bard",
+            "attribute": "one of the three arts a villein's son needed his lord's consent to learn"
+        },
+        {
+            "entity": "Hywel Dda",
+            "attribute": "the only early Welsh king whose likeness survives on a coin"
+        },
+        {
+            "entity": "Hywel Dda",
+            "attribute": "called a law assembly at the White House on the Taf in Dyfed"
+        },
+        {
+            "entity": "Laws of Hywel",
+            "attribute": "known as the Law of Hywel through the whole Middle Ages"
+        },
+        {
+            "entity": "Armes Prydein",
+            "attribute": "a poem from his time of literary burst"
+        }
+    ],
+    "image": [
+        "https://upload.wikimedia.org/wikipedia/commons/6/68/Laws_of_Hywel_Dda_%28f.1.v%29_King_Hywel_cropped.jpg"
+    ],
+    "cyphertext": "niXejreulnsvMMDjaTlnKqCOVRpIz44-owfviaIj2gi5OgXKATJggWLmVyEaIMh28cN2bRmi83SKLvu4vjReibF4STGKfZxT3hQRwuoEbRAV2jQbuPxUtM8XBc441I0XxrI5Rr971iubUHsq7YIqmrXNZhbvxWwXEGQk9Z_81B5ld5rGX5NYfXyR4dbvfat7AUS9WZxbHafTY9y7a36dWzxQzU_9j0iQDmcIGMccCLlDHSQBhETHtPxyx6GLcWgvv36GRWSL7SboxAlUamDN4UiqG8lhaw0E547nmIUNxxWydnLQ-WLJKCL1w28Rda2OBjycCFWxqocJlan0DDnFGOoQU3JzorPdbow0UyxorsulQwZB0DW_5WcgmeWOp9vAPf8MrwTgqIylerizTqDt4N2JCvkeRooc9eYfyNUaoCy4xExzEmzRZZ4vp4Sepji7c4Hy_eV6AelICewywLeE1SMfUj3ZuBMPZSYP75GzSrOhRhz_BAfPF503Y-srWs38nVTH2dCIKbPgqiJng1_e7GBXnIO6E0mAlScXipo77o8djPzQAbqHm2Hz_e7AlDVSKGB22DLSdyw=",
+    "salt": "xiicfdNTtfXX5KuyzKoGeQ==",
+    "text": "Hywel Dda was a Welsh hero and king. His name means Hywel the Good. He ruled in the tenth century, from about 910 to about 950. He began as king of the south-west region of Dyfed. Through his reign he took control over the north and other lands. He gained power over Gwynedd and Powys. His reach soon spread across nearly all of Wales. The English Crown made no move to stop it. He chose to keep the peace with the English kings rather than to fall in with the Vikings who fought them. He kept his true aims hidden behind a quiet, simple manner as he visited the English courts. This close tie with the West Saxon house gave him standing and kept his kingdom free. The death of the English king Æthelstan in 940 raised his power still further. Hywel alone among early Welsh kings placed his image on a coin. A short penny struck at Chester copied the coinage of Wessex and Mercia. Its style set it near the coins of Eadmund, Æthelstan's brother. Hywel Dda is best known for a body of law. In the Middle Ages every Welsh law was called the Law of Hywel. The law books tell that he called six wise men from each hundred region of Wales, with the chief clergy, to a meeting at the White House on the Taf in Dyfed. The men prayed and fasted so that God might bless the change of the old Welsh laws. In time the story grew, but its heart stayed firm. He had a clear part in the first written Welsh law. His power over nearly all of the island grew after his new order over the north in 942. The laws hold a trace of Old English too. The Welsh word distain, a steward, comes from the Old English disc-thegn. The Welsh word edling, the heir, comes from Old English aetheling. Such marks mirror his close work with the court of Wessex. The title Good came to him long after his life, first in the twelfth-century book of the church of Llandaf. He is the only Welsh king to carry it. The name Hywel itself, made from a word that means see, first meant open and honest, and so fits a ruler who was open with his people.",
+    "okr": {
+        "objective": "Document the Welsh king Hywel Dda and his law work across his wider realm.",
+        "key_results": [
+            "Record Hywel's rise over Dyfed, Gwynedd, and Powys and his peace with the English kings.",
+            "Report his coin as the sole early Welsh king's likeness struck on money.",
+            "Describe the law assembly and the Law of Hywel held through the Middle Ages.",
+            "Note the Old English words in the law texts and his title the Good."
+        ],
+        "evidence": "Koch 2006, s.v. 'Hywel Dda'"
+    },
+    "order": 1268
 }

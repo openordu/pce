@@ -1,95 +1,128 @@
 {
-  "name": "Cóiced",
-  "attributes": [
-    {
-      "entity": "Cóiced",
-      "attribute": "means a fifth"
-    },
-    {
-      "entity": "Leinster",
-      "attribute": "eastern province"
-    },
-    {
-      "entity": "Munster",
-      "attribute": "southwestern province"
-    },
-    {
-      "entity": "Connacht",
-      "attribute": "western province"
-    },
-    {
-      "entity": "Ulster",
-      "attribute": "northern province"
-    },
-    {
-      "entity": "Mide",
-      "attribute": "the fifth province and a cosmological idea"
-    },
-    {
-      "entity": "hill of Uisneach",
-      "attribute": "named as the center"
-    },
-    {
-      "entity": "Stone of Divisions",
-      "attribute": "a rock on the hill"
-    },
-    {
-      "entity": "Meath",
-      "attribute": "a province formed near the middle of Ireland"
-    }
-  ],
-  "entities": [
-    {
-      "entity": "Cóiced",
-      "type": "concept"
-    },
-    {
-      "entity": "Leinster",
-      "type": "place"
-    },
-    {
-      "entity": "Munster",
-      "type": "place"
-    },
-    {
-      "entity": "Connacht",
-      "type": "place"
-    },
-    {
-      "entity": "Ulster",
-      "type": "place"
-    },
-    {
-      "entity": "Mide",
-      "type": "concept"
-    },
-    {
-      "entity": "Meath",
-      "type": "place"
-    },
-    {
-      "entity": "hill of Uisneach",
-      "type": "location"
-    },
-    {
-      "entity": "Stone of Divisions",
-      "type": "artifact"
-    }
-  ],
-  "sources": [
-    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-  ],
-  "cyphertext": "lxz46j58pCX2jSnqhwLzrnkzKu3pnH_WQ4mlIt9wnVmK81NeeE3FN7GZyMXKW0ku_l8SsTK047YvmjfQkzurg2qjuongRsAtpjMEsfYCRHDx_R9UmHUFBqe1rHurfwdBWNRdv3PZxCtfrzwPIni_4Wo1A7e9AkS2UvEqKymKQ_Eeb9Jx91DgxLtcBMravINqyuWL6UD4e_9AEg4Pac7j6JzcjQPbwgfVjNVJfPagowAXs8-NHVeY-RIXPk7abjr9wUSCB2uDY5LnpMaRzI6-79TiZJyWd__ueVwVBOj0Z9JfVJdATKY8KA41KX-sZGf4q5KPwNJpKClkxgE2oXZ8WaQTlLBnDIBZHBgMZx84qMr-vcoxdVLVNDqL3tqAQF33vGbL1j1ZfIVWB2LGHI-GPOgxC2WaS7vs37EF23MyhZ3-WZ9y50QdB41J0Zxxxqe4iAid87iRTVXHFndaYU-gmZX7sz8zSn3AkgCeuy7cBvAs2EtDL9RnNp_Pnpp_7Caq8uAzQHqQTMFCcnfF0zUKMGcZGtOHxcA2hYZUT841QAUD4aAh95nqA30wFLM7TFaWIiYYwfLLDdLYsJQJOqm8VZK4oLm9YxCu6xdxWFbdjRfxDK8ZvMscI3Kf3gPiNzIP6dOgeXD0LGwCMZ8QTSrwhFe3caklmhvEp9GhD5YCeckNfjAY9aRqHhAlfMp1OAa_5omnrPfEqW1EB4_VwsZBJaWILFjR5K695RmKr8MAuPCKoOrdyBwVq9EKO1lqZn47JXFt2v-38s9ifx3ybeSz7ZstPJXUvSdLnfuaUUU2fvMeoHzX_NUo7Uf-fWOo4fgt3XK0aG_XTxgtZyu0zfMaJQeFuqage23mHOT1_CYRuK1SteI094siVIFbcIPF_f83dYVhV1lysMmyujImsQI0MePU9x40PtBhe4VnX92KaA==",
-  "salt": "2ZPWqbluZmj1vp2ENCGEHg==",
-  "text": "Cóiced is an Irish mythic theme bound to the island's provinces. Its word has the sense of a fifth. Three of those lands were lines drawn on a map. What was east lay in Leinster, Munster in the southwest, and west in Ireland. The fifth, Ulster in the north, and the last, Mide-Of the two excels as a true concept. It posed as the middle of the island, often said to rest at the hill named Uisneach or on the rock there titled the Divisions. In olden years the area of Meath was planted near the centre of the land, while the haze poetic of the old splits never went little.",
-  "okr": {
-    "objective": "Cóiced names the five provinces of ancient Ireland.",
-    "key_results": [
-      "The term Cóiced means a fifth.",
-      "Leinster, Munster, Connacht, and Ulster were the four geographic provinces.",
-      "Mide or Meath was the fifth province as a cosmological idea.",
-      "Its center was the hill of Uisneach with the Stone of Divisions."
+    "name": "Cóiced",
+    "attributes": [
+        {
+            "entity": "Cóiced",
+            "attribute": "means a fifth"
+        },
+        {
+            "entity": "Leinster",
+            "attribute": "eastern province"
+        },
+        {
+            "entity": "Munster",
+            "attribute": "southwestern province"
+        },
+        {
+            "entity": "Connacht",
+            "attribute": "western province"
+        },
+        {
+            "entity": "Ulster",
+            "attribute": "northern province"
+        },
+        {
+            "entity": "Mide",
+            "attribute": "the fifth province and a cosmological idea"
+        },
+        {
+            "entity": "hill of Uisneach",
+            "attribute": "named as the center"
+        },
+        {
+            "entity": "Stone of Divisions",
+            "attribute": "a rock on the hill"
+        },
+        {
+            "entity": "Meath",
+            "attribute": "a province formed near the middle of Ireland"
+        },
+        {
+            "entity": "Cóiced",
+            "attribute": "literally means 'a fifth' and takes the modern Irish form cúige"
+        },
+        {
+            "entity": "Cóiced",
+            "attribute": "frames the Ulster Cycle as a pentarchy of equal provincial kings"
+        },
+        {
+            "entity": "Conchobar",
+            "attribute": "provincial king of Ulster in the fivefold scheme"
+        },
+        {
+            "entity": "Ailill",
+            "attribute": "provincial king of Connacht in the fivefold scheme"
+        }
     ],
-    "evidence": "Monaghan, Encyclopedia of Celtic Mythology and Folklore"
-  }
+    "entities": [
+        {
+            "entity": "Cóiced",
+            "type": "concept"
+        },
+        {
+            "entity": "Leinster",
+            "type": "place"
+        },
+        {
+            "entity": "Munster",
+            "type": "place"
+        },
+        {
+            "entity": "Connacht",
+            "type": "place"
+        },
+        {
+            "entity": "Ulster",
+            "type": "place"
+        },
+        {
+            "entity": "Mide",
+            "type": "concept"
+        },
+        {
+            "entity": "Meath",
+            "type": "place"
+        },
+        {
+            "entity": "hill of Uisneach",
+            "type": "location"
+        },
+        {
+            "entity": "Stone of Divisions",
+            "type": "artifact"
+        },
+        {
+            "entity": "cúige",
+            "type": "concept"
+        },
+        {
+            "entity": "Conchobar",
+            "type": "mythological figure"
+        },
+        {
+            "entity": "Ailill",
+            "type": "mythological figure"
+        },
+        {
+            "entity": "Lebor na Cert",
+            "type": "text"
+        }
+    ],
+    "sources": [
+        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.",
+        "Koch 2006, s.v. 'Cóiced'"
+    ],
+    "cyphertext": "lxz46j58pCX2jSnqhwLzrnkzKu3pnH_WQ4mlIt9wnVmK81NeeE3FN7GZyMXKW0ku_l8SsTK047YvmjfQkzurg2qjuongRsAtpjMEsfYCRHDx_R9UmHUFBqe1rHurfwdBWNRdv3PZxCtfrzwPIni_4Wo1A7e9AkS2UvEqKymKQ_Eeb9Jx91DgxLtcBMravINqyuWL6UD4e_9AEg4Pac7j6JzcjQPbwgfVjNVJfPagowAXs8-NHVeY-RIXPk7abjr9wUSCB2uDY5LnpMaRzI6-79TiZJyWd__ueVwVBOj0Z9JfVJdATKY8KA41KX-sZGf4q5KPwNJpKClkxgE2oXZ8WaQTlLBnDIBZHBgMZx84qMr-vcoxdVLVNDqL3tqAQF33vGbL1j1ZfIVWB2LGHI-GPOgxC2WaS7vs37EF23MyhZ3-WZ9y50QdB41J0Zxxxqe4iAid87iRTVXHFndaYU-gmZX7sz8zSn3AkgCeuy7cBvAs2EtDL9RnNp_Pnpp_7Caq8uAzQHqQTMFCcnfF0zUKMGcZGtOHxcA2hYZUT841QAUD4aAh95nqA30wFLM7TFaWIiYYwfLLDdLYsJQJOqm8VZK4oLm9YxCu6xdxWFbdjRfxDK8ZvMscI3Kf3gPiNzIP6dOgeXD0LGwCMZ8QTSrwhFe3caklmhvEp9GhD5YCeckNfjAY9aRqHhAlfMp1OAa_5omnrPfEqW1EB4_VwsZBJaWILFjR5K695RmKr8MAuPCKoOrdyBwVq9EKO1lqZn47JXFt2v-38s9ifx3ybeSz7ZstPJXUvSdLnfuaUUU2fvMeoHzX_NUo7Uf-fWOo4fgt3XK0aG_XTxgtZyu0zfMaJQeFuqage23mHOT1_CYRuK1SteI094siVIFbcIPF_f83dYVhV1lysMmyujImsQI0MePU9x40PtBhe4VnX92KaA==",
+    "salt": "2ZPWqbluZmj1vp2ENCGEHg==",
+    "text": "Cóiced was the early Irish word for a province, meaning literally \"a fifth.\" Medieval Ireland had five such lands: Ulster, Connacht, Munster, Leinster, and Meath; the modern form is cúige. The term appears in eighth-century law texts and the great epics, framing the Ulster Cycle as a pentarchy of equal kings, such as Conchobar and Ailill of Connacht. A provincial king ruled above lesser kings. Many scholars accept this fivefold order as historical.",
+    "okr": {
+        "objective": "Cóiced was the Irish term for province, literally 'a fifth', naming the five early realms of Ireland.",
+        "key_results": [
+            "The word literally means 'a fifth' and survives in modern cúige.",
+            "The five provinces were Ulster, Connacht, Munster, Leinster, and Meath.",
+            "A provincial king ruled as the highest order of lord over lesser kings.",
+            "The term appears in 8th-century law texts and in epic literature."
+        ],
+        "evidence": "Koch 2006, s.v. 'Cóiced'"
+    }
 }

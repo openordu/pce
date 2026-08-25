@@ -1,91 +1,131 @@
 {
-  "name": "Hercules",
-  "attributes": [
-    {
-      "entity": "Hercules",
-      "attribute": "a Romano-Celtic god shown often in Celtic art as an altered version of Celtic gods"
-    },
-    {
-      "entity": "Celtic artists",
-      "attribute": "adapted their style to classical figure modeling after the Roman arrival around 200 BCE"
-    },
-    {
-      "entity": "Interpretatio Romana",
-      "attribute": "renaming of Celtic gods with Roman names that encouraged classical and Celtic carved features"
-    },
-    {
-      "entity": "Segomo",
-      "attribute": "shown as a brawny god carrying a Herculean club"
-    },
-    {
-      "entity": "Borvo",
-      "attribute": "links to the healing springs at Aix-les-Bains and may have fought disease"
-    },
-    {
-      "entity": "Smertrius",
-      "attribute": "shown as a brawny god carrying a Herculean club"
-    },
-    {
-      "entity": "Ogmios",
-      "attribute": "depicted as Hercules because verbal talent was a kind of Celtic strength"
-    }
-  ],
-  "entities": [
-    {
-      "entity": "Hercules",
-      "type": "Person"
-    },
-    {
-      "entity": "Interpretatio Romana",
-      "type": "Concept"
-    },
-    {
-      "entity": "Segomo",
-      "type": "Person"
-    },
-    {
-      "entity": "Borvo",
-      "type": "Person"
-    },
-    {
-      "entity": "Smertrius",
-      "type": "Person"
-    },
-    {
-      "entity": "Ogmios",
-      "type": "Person"
-    },
-    {
-      "entity": "Lucian",
-      "type": "Person"
-    },
-    {
-      "entity": "Aix-les-Bains",
-      "type": "Place"
-    },
-    {
-      "entity": "Romans",
-      "type": "Group"
-    }
-  ],
-  "sources": [
-    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-  ],
-  "image": [
-    "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Hercules_combatant_Achelous_%288655488835%29.jpg/1200px-Hercules_combatant_Achelous_%288655488835%29.jpg"
-  ],
-  "cyphertext": "oMBwy9JBKgXvXWTwwwqye5kEGT9h-D4OBql49k5c0_untCkg65S8akOaLxkCrUFGmuMw725FlGOV-hclpJJDM-ZdJhUKwEHBJqAMTq3JMp33zTZ5snTjW9_gzBmfI1cmlKrQhdngq7bHAN4udbKZkXbj55OPv63jjEyrXb8Sv_ZBhjAoJzLRye7Eb5vYWA_lrLpgd84QPUOS7eiEsFdmJ5CPP8bHoXDK9GcVOJ0gawWDdxFU9dH-N7KQlPcvy_sWnTCZPKYknfWIaerbu4E9gRfKMvYBG8nSUdQeIoNWqBRHNrZlTvcg0OVXhvklBCl3aEoNCAKjlAUPxcYD3OHJy12O-AE7x2BPK457DUeDFEP6Eih1XmaIPudarIpPamlnflgTck0fr3StJ4fBfDlLrmHUIz-jv1dUzl9PZBxS8MWSbhpyHP9aHBgTXj0HzuwLwnQsrRXeLJip6yuA_25hbXxeqra8PZZn-YDPVKYDylUUSWqUvFtwxQqf_K4OxCAmb-Zq-f10lV9mGPhhiqBOUFXA4toL2OJ_kmRwUhLRJP-gOGhCpdXT44lchmwn65evKDevz86ZpYMjVBkXGdMGBJvFGuulmsb8RWYdNnatoLqF5OUoeRSziHPtoOczYEJYQXxTlOV8uWGpF6rT-AHcuoaXaFDw_IeOcd8-OBCuJCnR33IgCOOtJCPUbTEmvDgqxrPupYhpFVfhem82ExxVwFuGG5YqI8JtEoaMijKmQny2h1xf-5xd8W5xw59eBZzKbjsY7wc5p1iwsxJ3W2aCaLA9F5eDAVPaXP4gonrAsm0y76TRE-kP2O1yX0EP8Oevc5s-nng3rt4JpqFa1T1nM0Mgk5JIIzD4gSP5EgR_T3CWBnLJ9d3__opi60iWO73qnB75PIDbglmpVsVWwoT-k7EWkay4CwZVtF7yhyimAZCbkrNrYQI0NVsajU7UHyZSIVQ3vxWFgMsg_JX5ySlU6zpNw6L947To_v41-zgILnKf_2OjbSzGEJvr4ypZd8t3U264vNfjh2WTz6z3ufIE4kV_OT9vvP4fbkge7u__dUlU0xXyst1ACglQ5GkVhMPDvzDiZdNzhEvvDmtJEyUqVEaAN2-ATwVAim-pLJEB_gdbdlcey2VUZN9coyhIUg2AQxm5x2FNCZSB9coHsZtWQZN_rTujHi2yRdgl7HN8QkHnvl8D5S0cSwofwuWM4MhYLLsqJArvy4q4neif_A8pF3Mb2tCHCflWoUEvVIi2q6bTlNNE8fQxVRaVuBJmHoaVmicmu7c5iptB7xpjyuy6HzCi-YCnKQJDtnEl6BYcjGm4BtpaU4sg4qLPr0i7cz-zYXl94TRqeHiJxi0k6FBqeF8jJ348dYGaojRTJlwGf2ZjPfNCYcGZp8Tg84zAJZa_l6FRZ-xK9P_efpnq616fUeH0KsyFjdQyfSTlJ-W9ra6vSFrslYBfulGaLMcBweC4eMK4EYwJaSkIZf0CZbqx_xtY6IO40Bd2gL140uAwnQ1C4mDTg4BS",
-  "salt": "67MEoCMt0YZc2cAjdcitbA==",
-  "text": "Hercules is a Romano-Celtic god. Celtic artists did not usually show gods in human form. The invading Romans arrived around 200 BCE. The Celts then adapted their style to classical figure modeling. The Interpretatio Romana renamed Celtic gods with Roman names. This practice encouraged artists to carve gods with classical and Celtic features. They labeled the gods with Roman names. The Greco-Roman hero Hercules appears often in Celtic art. He appears especially on the Continent. He stands as an altered version of Celtic gods. Some of those gods still have known names. Others do not. Segomo, Borvo, and Smertrius all appear as brawny gods. They carry Herculean clubs. What these gods meant to their people is unclear. Borvo links to the healing springs at Aix-les-Bains. He may have fought disease, not other gods. The second-century Greek writer Lucian said the god of eloquence, Ogmios, was shown as Hercules. Verbal talent was a kind of strength for the Celtic people.",
-  "okr": {
-    "objective": "Document Hercules as a Romano-Celtic god in Celtic art.",
-    "key_results": [
-      "Record how Celtic artists depicted Hercules after the Roman arrival.",
-      "Describe the role of the Interpretatio Romana in renaming Celtic gods.",
-      "Note the Celtic gods shown with Herculean clubs, including Segomo, Borvo, and Smertrius."
+    "name": "Hercules",
+    "attributes": [
+        {
+            "entity": "Hercules",
+            "attribute": "a Romano-Celtic god shown often in Celtic art as an altered version of Celtic gods"
+        },
+        {
+            "entity": "Celtic artists",
+            "attribute": "adapted their style to classical figure modeling after the Roman arrival around 200 BCE"
+        },
+        {
+            "entity": "Interpretatio Romana",
+            "attribute": "renaming of Celtic gods with Roman names that encouraged classical and Celtic carved features"
+        },
+        {
+            "entity": "Segomo",
+            "attribute": "shown as a brawny god carrying a Herculean club"
+        },
+        {
+            "entity": "Borvo",
+            "attribute": "links to the healing springs at Aix-les-Bains and may have fought disease"
+        },
+        {
+            "entity": "Smertrius",
+            "attribute": "shown as a brawny god carrying a Herculean club"
+        },
+        {
+            "entity": "Ogmios",
+            "attribute": "depicted as Hercules because verbal talent was a kind of Celtic strength"
+        },
+        {
+            "entity": "Ogmios",
+            "attribute": "identify with the Greek hero Heracles under the interpretatio Romana"
+        },
+        {
+            "entity": "Ogmios",
+            "attribute": "pictured with golden chains linking his tongue to the ears of his listeners, a sign of eloquence"
+        },
+        {
+            "entity": "Ogma",
+            "attribute": "Irish supernatural champion credited with the invention of the ogam alphabet"
+        },
+        {
+            "entity": "Hercules",
+            "attribute": "name the ancestor of the Gauls in the foundation tale recorded by Diodorus Siculus"
+        },
+        {
+            "entity": "Hercules",
+            "attribute": "the hero of the medieval Irish Stair Ercuil and the Welsh Book of Ercwl"
+        }
     ],
-    "evidence": [
-      "Monaghan, P. The Encyclopedia of Celtic Mythology and Folklore (2008): Hercules entry."
-    ]
-  }
+    "entities": [
+        {
+            "entity": "Hercules",
+            "type": "Person"
+        },
+        {
+            "entity": "Interpretatio Romana",
+            "type": "Concept"
+        },
+        {
+            "entity": "Segomo",
+            "type": "Person"
+        },
+        {
+            "entity": "Borvo",
+            "type": "Person"
+        },
+        {
+            "entity": "Smertrius",
+            "type": "Person"
+        },
+        {
+            "entity": "Ogmios",
+            "type": "Person"
+        },
+        {
+            "entity": "Lucian",
+            "type": "Person"
+        },
+        {
+            "entity": "Aix-les-Bains",
+            "type": "Place"
+        },
+        {
+            "entity": "Romans",
+            "type": "Group"
+        },
+        {
+            "entity": "Diodorus Siculus",
+            "type": "Person"
+        },
+        {
+            "entity": "Alesia",
+            "type": "Place"
+        },
+        {
+            "entity": "Galates",
+            "type": "Person"
+        },
+        {
+            "entity": "Ogma",
+            "type": "Person"
+        },
+        {
+            "entity": "Ercwlf",
+            "type": "Person"
+        }
+    ],
+    "sources": [
+        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.",
+        "Koch 2006, s.v. 'Hercules'"
+    ],
+    "image": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Hercules_combatant_Achelous_%288655488835%29.jpg/1200px-Hercules_combatant_Achelous_%288655488835%29.jpg"
+    ],
+    "cyphertext": "oMBwy9JBKgXvXWTwwwqye5kEGT9h-D4OBql49k5c0_untCkg65S8akOaLxkCrUFGmuMw725FlGOV-hclpJJDM-ZdJhUKwEHBJqAMTq3JMp33zTZ5snTjW9_gzBmfI1cmlKrQhdngq7bHAN4udbKZkXbj55OPv63jjEyrXb8Sv_ZBhjAoJzLRye7Eb5vYWA_lrLpgd84QPUOS7eiEsFdmJ5CPP8bHoXDK9GcVOJ0gawWDdxFU9dH-N7KQlPcvy_sWnTCZPKYknfWIaerbu4E9gRfKMvYBG8nSUdQeIoNWqBRHNrZlTvcg0OVXhvklBCl3aEoNCAKjlAUPxcYD3OHJy12O-AE7x2BPK457DUeDFEP6Eih1XmaIPudarIpPamlnflgTck0fr3StJ4fBfDlLrmHUIz-jv1dUzl9PZBxS8MWSbhpyHP9aHBgTXj0HzuwLwnQsrRXeLJip6yuA_25hbXxeqra8PZZn-YDPVKYDylUUSWqUvFtwxQqf_K4OxCAmb-Zq-f10lV9mGPhhiqBOUFXA4toL2OJ_kmRwUhLRJP-gOGhCpdXT44lchmwn65evKDevz86ZpYMjVBkXGdMGBJvFGuulmsb8RWYdNnatoLqF5OUoeRSziHPtoOczYEJYQXxTlOV8uWGpF6rT-AHcuoaXaFDw_IeOcd8-OBCuJCnR33IgCOOtJCPUbTEmvDgqxrPupYhpFVfhem82ExxVwFuGG5YqI8JtEoaMijKmQny2h1xf-5xd8W5xw59eBZzKbjsY7wc5p1iwsxJ3W2aCaLA9F5eDAVPaXP4gonrAsm0y76TRE-kP2O1yX0EP8Oevc5s-nng3rt4JpqFa1T1nM0Mgk5JIIzD4gSP5EgR_T3CWBnLJ9d3__opi60iWO73qnB75PIDbglmpVsVWwoT-k7EWkay4CwZVtF7yhyimAZCbkrNrYQI0NVsajU7UHyZSIVQ3vxWFgMsg_JX5ySlU6zpNw6L947To_v41-zgILnKf_2OjbSzGEJvr4ypZd8t3U264vNfjh2WTz6z3ufIE4kV_OT9vvP4fbkge7u__dUlU0xXyst1ACglQ5GkVhMPDvzDiZdNzhEvvDmtJEyUqVEaAN2-ATwVAim-pLJEB_gdbdlcey2VUZN9coyhIUg2AQxm5x2FNCZSB9coHsZtWQZN_rTujHi2yRdgl7HN8QkHnvl8D5S0cSwofwuWM4MhYLLsqJArvy4q4neif_A8pF3Mb2tCHCflWoUEvVIi2q6bTlNNE8fQxVRaVuBJmHoaVmicmu7c5iptB7xpjyuy6HzCi-YCnKQJDtnEl6BYcjGm4BtpaU4sg4qLPr0i7cz-zYXl94TRqeHiJxi0k6FBqeF8jJ348dYGaojRTJlwGf2ZjPfNCYcGZp8Tg84zAJZa_l6FRZ-xK9P_efpnq616fUeH0KsyFjdQyfSTlJ-W9ra6vSFrslYBfulGaLMcBweC4eMK4EYwJaSkIZf0CZbqx_xtY6IO40Bd2gL140uAwnQ1C4mDTg4BS",
+    "salt": "67MEoCMt0YZc2cAjdcitbA==",
+    "text": "Hercules came to carry several Celtic gods. The Romans led this change. They renamed native gods after their own. Scholars call this practice the interpretatio Romana. The Greek strongman Heracles became the Roman hero Hercules. Celtic artists then recast their local gods with the new muscular look. Segomo, Borvo, and Smertrius appear as brawny men gripping a heavy club. The club points to the foreign hero. The healing god Borvo is bound to the warm springs of Aix-les-Bains. He stands as a conqueror of disease rather than of armies.\n\nAn older myth ties even the founding of the Gauls to this hero. The Greek historian Diodorus Siculus left the account. In his tale a proud princess once ruled a wide land in Celtica. She was large in stature and refused every suitor. Heracles came to the city of Alesia. She took pleasure in his strength and noble manner. Her parents gave their consent. She bore him a son named Galates. Galates grew into a vigorous ruler who won much of the land near his seat. His people took the name of the Galaon. The whole land of the Kelts came to be called Galatia. So the Celts drew their own descent from the hero.\n\nThe hero also carries eloquence into the Celtic world. Lucian of Samosata described an image he saw of the god. The god was drawn as Heracles but the face looked true. Golden roses joined his tongue to the ears are the happy listeners around it. This was the mark of persuasive speech. The figure represents the god Ogmios. For the Kelts, the gift of ordered words counted as a form of strength. The intellectual keeps close of the far north. It travels on into the Irish champion Ogma, said to be the maker of the ogm alphabet. The faint Welsh figure Eufydd son of Dôn stands near the same root. All show the one early god behind the Roman mask.\n\nHercules did not stop at the old religion. He carried into the medieval tales of the Ins. The Irish Book of Taliesin holds a death song for a hero named Ercwlf. The poem calls him a \"ram of battle\", the standard crown of native heroes. A strong says his name the \"Pillars of Hercules\" of the tale. The Welsh triads set Ercwlff among the men who held the Might of Adam. In Ireland a fifteenth-century tale retold the adventure and the death of Hercules. It drew from the English work of William Caxton. Uilliam Mac an Leagha wrote down this Early Modern Irish version. In that story Hercules is not only hard of arm. He also takes part in acts of learning. The Roman picture thus binds at last the many corners of the Celtic world.",
+    "okr": {
+        "objective": "Document Hercules as a Romano-Celtic god in Celtic art and legend.",
+        "key_results": [
+            "Record Segomo, Borvo, and Smertrius as brawny gods carrying the Herculean club.",
+            "Note the foundation myth in Diodorus Siculus that named the Gauls for a son of Heracles.",
+            "Describe Lucian's image of Ogmios with the golden chains of eloquence.",
+            "Track the hero through the Irish Stair Ercuil and the Welsh Book of Taliesin."
+        ],
+        "evidence": "Koch 2006, s.v. 'Hercules'; Monaghan, Encyclopedia of Celtic Mythology and Folklore"
+    }
 }

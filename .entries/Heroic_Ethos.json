@@ -1,0 +1,79 @@
+{
+    "name": "Heroic Ethos",
+    "attributes": [
+        {
+            "entity": "heroic ethos",
+            "attribute": "pan-Celtic warrior code of honour and fame"
+        },
+        {
+            "entity": "hero",
+            "attribute": "achieved personal fame in a struggle against odds"
+        },
+        {
+            "entity": "Cú Chulainn",
+            "attribute": "hero of the tribe, champion and defender"
+        },
+        {
+            "entity": "Finn mac Cumhaill",
+            "attribute": "hero outside the tribe, wanderer and outlaw"
+        },
+        {
+            "entity": "champion's portion",
+            "attribute": "honour shown through the best share at the feast"
+        }
+    ],
+    "entities": [
+        {
+            "entity": "heroic ethos",
+            "type": "Concept"
+        },
+        {
+            "entity": "Cú Chulainn",
+            "type": "Person"
+        },
+        {
+            "entity": "Finn mac Cumhaill",
+            "type": "Person"
+        },
+        {
+            "entity": "gift-giving",
+            "type": "Concept"
+        },
+        {
+            "entity": "feast",
+            "type": "Concept"
+        },
+        {
+            "entity": "honour-price",
+            "type": "Concept"
+        },
+        {
+            "entity": "revenge",
+            "type": "Concept"
+        },
+        {
+            "entity": "Ireland",
+            "type": "Place"
+        },
+        {
+            "entity": "Wales",
+            "type": "Place"
+        }
+    ],
+    "sources": [
+        "Koch 2006, s.v. 'Heroic Ethos'"
+    ],
+    "image": [],
+    "cyphertext": "",
+    "salt": "",
+    "text": "The heroic ethos runs through the early Celtic literatures. It binds bravery, honour, and gift-giving. A hero wins fame in a struggle against stiff odds. He feeds the tribe and defends its life. Feasting shows rank through the distribution of portions. The finest share, the champion's portion, marks the senior warrior. Slights demand revenge. This code shapes both Irish and Welsh war tradition. The hero must die well to keep his name alive.",
+    "okr": {
+        "objective": "Define the shared code of the Celtic hero across Irish and Welsh tradition.",
+        "key_results": [
+            "Show fame and honour as the marker of the hero",
+            "Show gift-giving and the champion's portion at feast",
+            "Name Cú Chulainn and Finn mac Cumhaill as model heroes"
+        ],
+        "evidence": "Koch 2006, s.v. 'Heroic Ethos'"
+    }
+}

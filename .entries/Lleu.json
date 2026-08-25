@@ -1,0 +1,68 @@
+{
+    "name": "Lleu",
+    "attributes": [
+        {
+            "entity": "Lleu",
+            "attribute": "a hero of Welsh legend known as Lleu Llaw Gyffes"
+        },
+        {
+            "entity": "Lleu",
+            "attribute": "son of Arianrhod and a grandson of Dôn"
+        },
+        {
+            "entity": "Gwydion",
+            "attribute": "his uncle, who raises him with skill and magic"
+        },
+        {
+            "entity": "Math",
+            "attribute": "the great lord who also plays a part in his shaping"
+        },
+        {
+            "entity": "Arianrhod",
+            "attribute": "his mother, who places hard conditions upon him"
+        },
+        {
+            "entity": "triads",
+            "attribute": "four Welsh triads that preserve his name"
+        }
+    ],
+    "entities": [
+        {
+            "entity": "Lleu",
+            "type": "Person"
+        },
+        {
+            "entity": "Gwydion",
+            "type": "Person"
+        },
+        {
+            "entity": "Math",
+            "type": "Person"
+        },
+        {
+            "entity": "Arianrhod",
+            "type": "Person"
+        },
+        {
+            "entity": "triads",
+            "type": "Collection"
+        }
+    ],
+    "sources": [
+        "Koch 2006, s.v. 'Lleu'"
+    ],
+    "image": [],
+    "cyphertext": "",
+    "salt": "",
+    "text": "Lleu, called Llaw Gyffes, is a hero of Welsh legend. His name appears in four of the triads. One of these portrays him as a warrior. He is the son of Arianrhod and a grandson of Dôn. His uncle Gwydion raises him with craft and magic. Math also plays a part in the boy's shaping. A poem in Llyfr Taliesin supports the warrior view. Folk remembered that his grave lay beneath the sea. That grave sat near the resting place of a kinsman. Lleu's tale weaves prophecy, trickery, and a strange death by betrayal.",
+    "okr": {
+        "objective": "Document the hero Lleu and his name Llaw Gyffes.",
+        "key_results": [
+            "Show his name in the four triads",
+            "Connect him to Gwydion and Math",
+            "Recall the tradition of his grave under the sea"
+        ],
+        "evidence": "Koch 2006, s.v. 'Lleu'"
+    },
+    "order": 1466
+}

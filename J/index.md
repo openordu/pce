@@ -5,6 +5,7 @@ layout: layouts/pce.njk
 - [Jack-in-Irons](Jack-in-Irons)
 - [Jack-in-the-Green](Jack-in-the-Green)
 - [Jack-o-Lantern](Jack-o-Lantern)
+- [jacobite_poetry](jacobite_poetry)
 - [Janiform](Janiform)
 - [Januaria](Januaria)
 - [Janus](Janus)

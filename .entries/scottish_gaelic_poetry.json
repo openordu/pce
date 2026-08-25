@@ -1,0 +1,60 @@
+{
+    "name": "Scottish Gaelic Poetry",
+    "text": "Scottish Gaelic poetry is the body of verse composed in the vernacular Gaelic of Scotland. Its earliest recorded poems date from the sixteenth century. Their style shows a well established practice that lasted through the eighteenth century and beyond. A famous collection tied to the Dean of Lismore, put together between 1512 and 1526, holds much Scottish material. Much of that book is written in Classical Common Gaelic, the learned language shared by Ireland and Scotland from about 1200. The popular vernacular verse draws on the same broad conventions as the professional bards. Some Clann MacMhuirich poets worked in both the classical and the vernacular tongues. Niall MacMhuirich, active around 1630 to 1716, is such a case. Some poems are semi bardic, being vernacular in speech yet close to the classical model in metre, theme, and imagery. Most poetry of this period was meant to be sung. Tunes and songs travelled together in an oral setting. The panegyric code grew into a refined system. Heroic deeds of the leader and warrior dominate its imagery. Clan poetry became a major genre in the seventeenth and early eighteenth centuries. Its strong voices include Iain Lom MacDhòmhnaill and Sìleas na Ceapaich. Jacobite verse formed a distinct branch in the late seventeenth and eighteenth centuries. Eulogy praises the living. Elegy mourns the dead. Eachann Bacach mourned Lachlan Maclean of Duart after his passing in 1648.",
+    "okr": {
+        "objective": "Record the range, forms, and chief authors of Scottish Gaelic vernacular poetry from the sixteenth through the later eighteenth centuries.",
+        "key_results": [
+            "Date the earliest recorded vernacular Scottish Gaelic poems to the sixteenth century",
+            "Identify the panegyric code and clan poetry as central features of the tradition",
+            "Name Iain Lom MacDhòmhnaill, Sìleas na Ceapaich, and Eachann Bacach among its principal voices"
+        ],
+        "evidence": "The Koch entry cites the Book of the Dean of Lismore, Classical Common Gaelic, the panegyric code, clan and Jacobite verse, and named Gaelic poets, drawing on Thomson and Watson."
+    },
+    "entities": [
+        {
+            "entity": "Book of the Dean of Lismore",
+            "type": "text"
+        },
+        {
+            "entity": "Classical Common Gaelic",
+            "type": "concept"
+        },
+        {
+            "entity": "Panegyric code",
+            "type": "concept"
+        },
+        {
+            "entity": "Iain Lom MacDhòmhnaill",
+            "type": "figure"
+        },
+        {
+            "entity": "Sìleas na Ceapaich",
+            "type": "figure"
+        },
+        {
+            "entity": "Eachann Bacach",
+            "type": "figure"
+        },
+        {
+            "entity": "Lachlan Maclean of Duart",
+            "type": "figure"
+        }
+    ],
+    "attributes": [
+        {
+            "entity": "Scottish Gaelic Poetry",
+            "attribute": "Scottish Gaelic"
+        },
+        {
+            "entity": "Scottish Gaelic Poetry",
+            "attribute": "Scotland"
+        }
+    ],
+    "sources": [
+        "Koch 2006, s.v. \"Scottish Gaelic Poetry\""
+    ],
+    "image": [],
+    "cyphertext": "",
+    "salt": "",
+    "order": 2016
+}

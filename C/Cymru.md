@@ -5,54 +5,65 @@ icon: file-lines
 order: 609
 contributors: [ 'Christopher Godwin' ]
 attributes:
-  - Wales land
-  - Welsh term
-  - British neighbors
-  - Cymru land
-  - Cymri people
-  - Cymric language
+  - Cymru a term in the Welsh language
+  - Cymru gives the name of the land of Wales
+  - Cymri the people of Wales in their own tongue
+  - Cymru brethren or friends in the native speech
+  - Cymru the Welsh-language name for Wales, one of the six living Celtic regions
+  - Cymru name rises from Cymry, the native word for the Welsh people
+  - Cymry means the people of a shared home region
+  - Cymraeg the Welsh language, spoken by over half a million people
 categories:
-  - Location
-  - Language
-  - Nationality
+  - group
+  - concept
+  - place
 entities:
-  - Wales(Location)
-  - Welsh(Language)
-  - British(Nationality)
-  - Cymru(Location)
-  - Cymri(Nationality)
-  - Cymric(Language)
+  - Cymru(place)
+  - Welsh language(concept)
+  - Wales(place)
+  - Cymri(group)
+  - Cymry(group)
+  - Cymraeg(concept)
+  - Gwynedd(place)
+  - Offa's Dyke(place)
 tags:
-  - Wales
-  - Welsh
-  - British
   - Cymru
+  - Welsh language
+  - Wales
   - Cymri
-  - Cymric
+  - Cymry
+  - Cymraeg
+  - Gwynedd
+  - Offa's Dyke
 ---
 ``` tab [group1:Info]
 ::: magazinestyle
-Scholarly writing in the style of Nora Chadwick commonly avoids introducing topics or referencing the author themselves. This particular piece of writing discusses the term "Cymru," which refers to Wales in the Welsh language. Historically, the people who lived in Wales were not referred to as Welsh. Instead, this term meant "strangers" in the language of their British neighbors. In the Welsh language, they referred to themselves as "brethren" or "friends." "Cymru" specifically refers to the land of Wales, while "Cymri" is used to refer to the people and "Cymric" refers to their language.
+Cymru is the Welsh-language name for Wales, one of six lands where a Celtic tongue still endures. The word grows out of Cymry, the native term for the Welsh people, tied to a compact home region. The name first appears in an early praise poem to a king of Gwynedd. The language, Cymraeg, keeps a deep hold: over half a million speakers, a lively literary scene, and its own broadcast media.
 
 :::
 ```
 ``` tab [group1:Attributes]
-- **Wales**: land
-- **Welsh**: term
-- **British**: neighbors
-- **Cymru**: land
-- **Cymri**: people
-- **Cymric**: language
+- **Cymru**: a term in the Welsh language
+- **Cymru**: gives the name of the land of Wales
+- **Cymri**: the people of Wales in their own tongue
+- **Cymru**: brethren or friends in the native speech
+- **Cymru**: the Welsh-language name for Wales, one of the six living Celtic regions
+- **Cymru**: name rises from Cymry, the native word for the Welsh people
+- **Cymry**: means the people of a shared home region
+- **Cymraeg**: the Welsh language, spoken by over half a million people
 ```
 ``` tab [group1:Entities]
-- **Wales**: Location
-- **Welsh**: Language
-- **British**: Nationality
-- **Cymru**: Location
-- **Cymri**: Nationality
-- **Cymric**: Language
+- **Cymru**: place
+- **Welsh language**: concept
+- **Wales**: place
+- **Cymri**: group
+- **Cymry**: group
+- **Cymraeg**: concept
+- **Gwynedd**: place
+- **Offa's Dyke**: place
 ```
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
+- Koch 2006, s.v. 'Cymru'
 ```
 ![Cymru Image](https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Flag_of_Wales.svg/1200px-Flag_of_Wales.svg.png)

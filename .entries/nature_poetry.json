@@ -1,0 +1,52 @@
+{
+    "name": "Nature Poetry",
+    "text": "Nature poetry is a verse genre common in medieval Wales and Ireland. Welsh poets wrote nature verse in englynion stanzas. Englynion are short three-line units. The poem Gorwyn blaen onn uses 33 englynion. It describes the colours and shapes of trees. Llym awel, llum brin runs to 105 lines. This poem paints a winter landscape. It mixes gnomes about illness, death, and religion. Gnomes are statements of general truth. Several poems appear in the manuscript Llyfr Taliesin. The List of Pleasant Things of Taliesin catalogues natural elements. Cad Goddau is also called the Battle of the Trees. This poem of 250 lines describes a battle of 34 species of trees. Irish nature poetry has drawn many interpretations. Some scholars read it as ascetic anchoritism. Monastic hermits wrote such verse. Others see traces of hymns to pre-Christian nature gods. Recent scholars have disputed these views. Some nature poems survive as marginal notes in technical manuscripts. Dom-farcai fidbaide fál may show a metric form. Nature verse also appears inside longer works. These include Buile Suibhne and the metrical dindshenchas. Welsh nature poetry links landscape with wisdom sayings.",
+    "okr": {
+        "objective": "Describe the medieval Welsh and Irish tradition of nature poetry and its interpretations.",
+        "key_results": [
+            "List the main Welsh englynion poems and their lengths",
+            "Outline the chief scholarly views on Irish nature verse",
+            "Show where nature poetry appears inside longer works"
+        ],
+        "evidence": "Koch records the Welsh englynion poems, the Taliesin pieces, and the differing scholarly readings of Irish and Welsh nature poetry."
+    },
+    "entities": [
+        {
+            "entity": "Llyfr Taliesin",
+            "type": "text"
+        },
+        {
+            "entity": "Cad Goddau",
+            "type": "text"
+        },
+        {
+            "entity": "Buile Suibhne",
+            "type": "text"
+        },
+        {
+            "entity": "Dom-farcai fidbaide fál",
+            "type": "text"
+        },
+        {
+            "entity": "Gorwyn blaen onn",
+            "type": "text"
+        }
+    ],
+    "attributes": [
+        {
+            "entity": "Nature Poetry",
+            "attribute": "Welsh, Irish"
+        },
+        {
+            "entity": "Nature Poetry",
+            "attribute": "Wales, Ireland"
+        }
+    ],
+    "sources": [
+        "Koch 2006, s.v. \"nature poetry\""
+    ],
+    "image": [],
+    "cyphertext": "",
+    "salt": "",
+    "order": 1732
+}
