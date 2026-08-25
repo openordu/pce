@@ -1,70 +1,115 @@
 {
-  "name": "feast",
-  "attributes": [
-    {
-      "entity": "feast",
-      "attribute": "came to mark holy ground"
-    },
-    {
-      "entity": "churches",
-      "attribute": "rose over old holy sites"
-    },
-    {
-      "entity": "pagan divinities",
-      "attribute": "canonized as saints"
-    },
-    {
-      "entity": "Ireland",
-      "attribute": "followed the pattern of the other Celtic lands"
-    },
-    {
-      "entity": "ancient holy sites",
-      "attribute": "consecrated to Christian uses"
-    }
-  ],
-  "entities": [
-    {
-      "entity": "feast",
-      "type": "event"
-    },
-    {
-      "entity": "churches",
-      "type": "concept"
-    },
-    {
-      "entity": "pagan divinities",
-      "type": "god"
-    },
-    {
-      "entity": "saints",
-      "type": "group"
-    },
-    {
-      "entity": "Ireland",
-      "type": "place"
-    },
-    {
-      "entity": "ancient holy sites",
-      "type": "location"
-    }
-  ],
-  "sources": [
-    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-  ],
-  "image": [
-    "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Monreale-cattedrale-mosaik-abendmahl.JPG/1200px-Monreale-cattedrale-mosaik-abendmahl.JPG"
-  ],
-  "cyphertext": "DSmFDqsHX4KVJ5PoPkRZ87aZ7GTDak2tOdygtCO_AFNlko6sHy4MS82kEofusNSDHTKssaLm7spSyVqONrW3YWaZH9xNw0MvTrvw7q0ONpqFUAQrhbBWE6LfU3mUDoG-tUTHmkFBUBp-kNdczH_MdKq3UnDHHmEO7jSn2gRFfqv3giKRgLTRjzvJ7HC8gvJ8_U-XmTW-ScZb-dpvanqJVrxFLTcgAiUkV5ktFcOLymkj8vKrevasw_zHrNyBdQToPbZ0SvFkhAcERDG1sXZ5kSbXbcji_3R5fi-6UXXzJCZJJrJsipKogoLRRPforgHPXr4xXxFcfTCfZnb3nPGaXcr6Nd304VzT0b5L6PuQk0NDV0AEF5qYnC8WcPLWyA9BCUwijJl1aODItfX0zW8JQnoImDVHLldjnPKDF4-uVFM1FVkRm6fxu3DNCAOcX8rIPgutS9PEN8D4Q480Y-4D6L7rnz54cJ-cODryYdahJiajWnXJCZfJbD6ZAnIkxb6uIIDrj0eZOjoQdUZOIcUPbaX4r2SIODDw1E39AxNE5aOJYkKLCbuJ2Na16TrmRQCCDVqz9y5EOKM4Yd3dB_pZ1zmCqk4p0MwpJ0i7F23SdV0hT9xavCRgbFYfNxt7yg_BHqYNLOCsvv5PGYf1sKyILmaY4KYkq_AJpqlr9HoFJY_Hsx_RKS66FfmSynxD4HYCbFu0HjfonaG0PHL4p-SK4772FKP4a7aJ5fyL9tT5k4VVEjnBUJUSJrsF1hScoeSwlkdRk3BazaszBY6PiObapF9E1HoB9iMwhnVxXR-HvvJa0DAEXWvTd8v53BM8utvCLY8G635u1FYsl4m4qXo=",
-  "salt": "VyULohFSraZi6s3IQD6Hng==",
-  "text": "Irish feasts came to mark holy ground. Churches rose over old holy sites. Pagan divinities were 'canonized' as saints. Ireland followed the same pattern as the other Celtic lands. Ancient sites were consecrated to Christian uses.",
-  "okr": {
-    "objective": "Irish feasts and church lands grew from rank conversion of holy sites.",
-    "key_results": [
-      "Churches rose over old holy sites in Ireland.",
-      "Pagan divinities were canonized as saints.",
-      "Ireland followed the pattern of the other Celtic lands.",
-      "Ancient sites passed to Christian uses."
+    "name": "feast",
+    "attributes": [
+        {
+            "entity": "feast",
+            "attribute": "came to mark holy ground"
+        },
+        {
+            "entity": "churches",
+            "attribute": "rose over old holy sites"
+        },
+        {
+            "entity": "pagan divinities",
+            "attribute": "canonized as saints"
+        },
+        {
+            "entity": "Ireland",
+            "attribute": "followed the pattern of the other Celtic lands"
+        },
+        {
+            "entity": "ancient holy sites",
+            "attribute": "consecrated to Christian uses"
+        },
+        {
+            "entity": "feast",
+            "attribute": "was a great and public ceremonial act"
+        },
+        {
+            "entity": "feast",
+            "attribute": "marked shared identity and social bonds"
+        },
+        {
+            "entity": "feast",
+            "attribute": "joined living people and the powers of the land"
+        },
+        {
+            "entity": "feast",
+            "attribute": "shows one root word across the Celtic tongues"
+        }
     ],
-    "evidence": "Monaghan, Encyclopedia of Celtic Mythology and Folklore"
-  }
+    "entities": [
+        {
+            "entity": "feast",
+            "type": "event"
+        },
+        {
+            "entity": "churches",
+            "type": "concept"
+        },
+        {
+            "entity": "pagan divinities",
+            "type": "god"
+        },
+        {
+            "entity": "saints",
+            "type": "group"
+        },
+        {
+            "entity": "Ireland",
+            "type": "place"
+        },
+        {
+            "entity": "ancient holy sites",
+            "type": "location"
+        },
+        {
+            "entity": "feis",
+            "type": "concept"
+        },
+        {
+            "entity": "Feis Temro",
+            "type": "event"
+        },
+        {
+            "entity": "tarbfheis",
+            "type": "concept"
+        },
+        {
+            "entity": "Cormac mac Airt",
+            "type": "person"
+        },
+        {
+            "entity": "Massalia",
+            "type": "place"
+        },
+        {
+            "entity": "Lovernos",
+            "type": "person"
+        },
+        {
+            "entity": "Dun Ailinne",
+            "type": "place"
+        }
+    ],
+    "sources": [
+        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.",
+        "Koch 2006, s.v. 'feast'"
+    ],
+    "image": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Monreale-cattedrale-mosaik-abendmahl.JPG/1200px-Monreale-cattedrale-mosaik-abendmahl.JPG"
+    ],
+    "cyphertext": "DSmFDqsHX4KVJ5PoPkRZ87aZ7GTDak2tOdygtCO_AFNlko6sHy4MS82kEofusNSDHTKssaLm7spSyVqONrW3YWaZH9xNw0MvTrvw7q0ONpqFUAQrhbBWE6LfU3mUDoG-tUTHmkFBUBp-kNdczH_MdKq3UnDHHmEO7jSn2gRFfqv3giKRgLTRjzvJ7HC8gvJ8_U-XmTW-ScZb-dpvanqJVrxFLTcgAiUkV5ktFcOLymkj8vKrevasw_zHrNyBdQToPbZ0SvFkhAcERDG1sXZ5kSbXbcji_3R5fi-6UXXzJCZJJrJsipKogoLRRPforgHPXr4xXxFcfTCfZnb3nPGaXcr6Nd304VzT0b5L6PuQk0NDV0AEF5qYnC8WcPLWyA9BCUwijJl1aODItfX0zW8JQnoImDVHLldjnPKDF4-uVFM1FVkRm6fxu3DNCAOcX8rIPgutS9PEN8D4Q480Y-4D6L7rnz54cJ-cODryYdahJiajWnXJCZfJbD6ZAnIkxb6uIIDrj0eZOjoQdUZOIcUPbaX4r2SIODDw1E39AxNE5aOJYkKLCbuJ2Na16TrmRQCCDVqz9y5EOKM4Yd3dB_pZ1zmCqk4p0MwpJ0i7F23SdV0hT9xavCRgbFYfNxt7yg_BHqYNLOCsvv5PGYf1sKyILmaY4KYkq_AJpqlr9HoFJY_Hsx_RKS66FfmSynxD4HYCbFu0HjfonaG0PHL4p-SK4772FKP4a7aJ5fyL9tT5k4VVEjnBUJUSJrsF1hScoeSwlkdRk3BazaszBY6PiObapF9E1HoB9iMwhnVxXR-HvvJa0DAEXWvTd8v53BM8utvCLY8G635u1FYsl4m4qXo=",
+    "salt": "VyULohFSraZi6s3IQD6Hng==",
+    "text": "A feast was a great ceremonial activity in ancient Celtic society. It helped a people show who they were and how they stood with their neighbors. The feast was a marker of shared identity. Scholars treat the feast as tricky evidence. It comes from two different kinds of source. The pre-Christian burials at Hallstatt and La Tene in mainland Europe leave no written word. The first tales of Ireland and Wales are full of imagination. It is a mistake to explain one kind of fact by the other. The two groups may seem more alike than they really are.\n\nThe archaeology is strong. In the early Iron Age the people of west-central Europe met the lands around the Mediterranean. They borrowed the custom of the drinking meeting, which the Greeks called the symposium. They took such objects as sieves and flagons for pouring wine. The decorated style of La Tene appears on many a metal drinking cup. Scholars read these as the gear of the noble feast. Fine cups, serving tools, food and drink form the heart of the rich graves of the Hallstatt and La Tene ages. Such finds appear from Gaul to central Europe to Britain. Good examples are the graves at Hochdorf, Vix, Reinheim and the princely series. In earlier Gaul people sometimes killed an animal and ate its meat at the same feast. Enclosed yards and halls may have held a common ritual meal. In Ireland the animal bones and the plan of the royal settlement hint at a feast at the turn of the season.\n\nThe Greek and Roman writers record feasts in sharp detail. There is the story of the great feast of a Gaulish chief. The host set the time for the praise poets, and the singers were rewarded with cups of gold. Another chief kept the feast going at great halls for a full year. At many feasts the warriors competed in strong tests, and a brave man offered his neck to the blade. One old writer says that a host secretly poisoned the guests from a distant land. The founding tale of a Greek city in Gaul is told as the story of men who came to a royal marriage feast in the heart of the Gaulish land.\n\nThe tradition of Ireland gives the fullest record. The rules for the table of a king are set out in a wise text from the ninth century. The old word for a royal feast in Irish carried the deeper sense of a joining. It was a rite of union, like the making of a marriage or the fixing of a true king. Later the word came to mean any great feast. The feast of Tara was the rite that drew the power of the land to a whole king. The people linked the first night of a king with union with the goddess of the land. A number of the old tales end at a feast. In them heroic men matched their force and courage at the table, and the strongest claimed the best joint of the meat. The word for the feast and its one root are common to every land of the Celtic tongue. In this way the feast joined the living people of the tribe with the older powers of the land.",
+    "okr": {
+        "objective": "The feast was a central Celtic rite that joined human groups with the powers of the land.",
+        "key_results": [
+            "Record the strong material record for the feast at Hallstatt and La Tene.",
+            "Record the classical evidence of the feast from Greek and Roman writers.",
+            "Record how Ireland shows the feast in its early tales.",
+            "Record the shared Celtic word for the feast and its single root."
+        ],
+        "evidence": "Koch 2006, s.v. 'feast'"
+    }
 }

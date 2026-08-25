@@ -1,50 +1,88 @@
 {
- "name": "Litavis",
- "attributes": [
-  {
-   "entity": "Litavis",
-   "attribute": "a Continental Celtic goddess"
-  },
-  {
-   "entity": "Litavis",
-   "attribute": "a name tied to words for earth or broad"
-  },
-  {
-   "entity": "Litavis",
-   "attribute": "described as the consort of Cicollus"
-  },
-  {
-   "entity": "Cicollus",
-   "attribute": "likened by the Romans to Mars"
-  }
- ],
- "entities": [
-  {
-   "entity": "Litavis",
-   "type": "Deity"
-  },
-  {
-   "entity": "Cicollus",
-   "type": "Deity"
-  },
-  {
-   "entity": "Mars",
-   "type": "Deity"
-  }
- ],
- "sources": [
-  "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
- ],
- "cyphertext": "gQy2547ic2CYNmBtvTqMdupSqehOx73IP_hetbCFCuNjM9ZCzU4ieMxAGXhWxG9hErZQjQqAXrMu9n_uR4d8W8AxEVZd9kqrC3DmeEfUoGEYkrxqJ-k1nCfFKAJ_ehfjQrpQtxlOC196qwtNh8aRyFjxY7L34jnuCgv2xq0oxr0k2HVJl3OoqLwRPJPGuZzFfsjCq939l21UKMbcMzpHANg4pxTOgiryVCbHsEODhoWtlSbNZQAztO-8kUVfCXMFeDIhWmFqewB_UfEFn1iWpTxGl2tf5FzI2Lv2Yic4b0MeLSEOnKhpeW6UzqA08tfXSfYNjgBICGx1qICJXxeI9_uQKm2tUf_7zObbPDCenFp0ci-zYEUQG3_yAoV2c0ttFrC95V7LJfLNnxxZxw2MX4DjhtH7z0puNOJPsIs2a-nSFVSDM7tV0HMRgHZoLLSsaHpU1JqJoZlEeqix4z5UYR-K9Oeof8zMnkKmKnhMKI9vzSVCoSfSU2XTvMl6s4MAf1OZ9AbdNQu2dsF_eVG2C9o=",
- "salt": "GB4TloS9uqWGCYCufauoPw==",
- "text": "Litavis (Litavus) is a Continental Celtic goddess. Not much is known of her. Her name seems tied to words for earth or broad, which would make her a deity of the wide world. The source sometimes names her the partner of the god Cicollus. The Romans saw Cicollus as close to their own god Mars. The invading legions did not rename Litavis as they reworked so many continental divinities.",
- "okr": {
-  "objective": "Capture the limited known part of the goddess Litavis.",
-  "key_results": [
-   "Type Litavis a Continental Celtic goddess.",
-   "Link her name to the earth and the wide world.",
-   "Name the god Cicollus as her consort and identify his Roman peer Mars."
-  ],
-  "evidence": "Monaghan 2008, s.v. Litavis."
- }
+    "name": "Litavis",
+    "attributes": [
+        {
+            "entity": "Litavis",
+            "attribute": "a Continental Celtic goddess"
+        },
+        {
+            "entity": "Litavis",
+            "attribute": "a name tied to words for earth or broad"
+        },
+        {
+            "entity": "Litavis",
+            "attribute": "described as the consort of Cicollus"
+        },
+        {
+            "entity": "Cicollus",
+            "attribute": "likened by the Romans to Mars"
+        },
+        {
+            "entity": "Litavis",
+            "attribute": "name matches the Celtic name for Brittany and the root for broad land"
+        },
+        {
+            "entity": "Litavis",
+            "attribute": "cognate to the Vedic Sanskrit Earth, the divine earth"
+        },
+        {
+            "entity": "Litavis",
+            "attribute": "honored with her own name on four stones beside the god Cicollus"
+        },
+        {
+            "entity": "Cicollus",
+            "attribute": "identified by the Romans with the war god Mars"
+        },
+        {
+            "entity": "Litaviccus",
+            "attribute": "title meaning ruler of the land and consort of the goddess of the land"
+        }
+    ],
+    "entities": [
+        {
+            "entity": "Litavis",
+            "type": "Deity"
+        },
+        {
+            "entity": "Cicollus",
+            "type": "Deity"
+        },
+        {
+            "entity": "Mars",
+            "type": "Deity"
+        },
+        {
+            "entity": "Cote",
+            "type": "Place"
+        },
+        {
+            "entity": "Litaviccus",
+            "type": "Person"
+        },
+        {
+            "entity": "Brittany",
+            "type": "Place"
+        },
+        {
+            "entity": "Emyr Llydaw",
+            "type": "Person"
+        }
+    ],
+    "sources": [
+        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.",
+        "Koch 2006, s.v. 'Litavis'"
+    ],
+    "cyphertext": "gQy2547ic2CYNmBtvTqMdupSqehOx73IP_hetbCFCuNjM9ZCzU4ieMxAGXhWxG9hErZQjQqAXrMu9n_uR4d8W8AxEVZd9kqrC3DmeEfUoGEYkrxqJ-k1nCfFKAJ_ehfjQrpQtxlOC196qwtNh8aRyFjxY7L34jnuCgv2xq0oxr0k2HVJl3OoqLwRPJPGuZzFfsjCq939l21UKMbcMzpHANg4pxTOgiryVCbHsEODhoWtlSbNZQAztO-8kUVfCXMFeDIhWmFqewB_UfEFn1iWpTxGl2tf5FzI2Lv2Yic4b0MeLSEOnKhpeW6UzqA08tfXSfYNjgBICGx1qICJXxeI9_uQKm2tUf_7zObbPDCenFp0ci-zYEUQG3_yAoV2c0ttFrC95V7LJfLNnxxZxw2MX4DjhtH7z0puNOJPsIs2a-nSFVSDM7tV0HMRgHZoLLSsaHpU1JqJoZlEeqix4z5UYR-K9Oeof8zMnkKmKnhMKI9vzSVCoSfSU2XTvMl6s4MAf1OZ9AbdNQu2dsF_eVG2C9o=",
+    "salt": "GB4TloS9uqWGCYCufauoPw==",
+    "text": "Litavis is a Celtic goddess of the broad land. Her faith is proved in the eastern Gaul of the Roman period. Her name lays ties to the old Indo-European worship. The same root that means \"the wide one\" shapes many words for breadth. The English word \"earth\" is a cousin. Scholars set beside she the Vedic Sanskrit Earth Mother. In the hymns of ancient India that goddess bears the sun and the rain. She is called the mother of the earth. Litavis herself stands as an embodiment of the whole flat land.\n\nHer name also meets the Celtic name for the cold. The homeland of this land to the West is the home of Britannia. The old words covered the mainland opposite Britain and Ireland. The Middle Irish spoke of Letha. The Welsh said Llydaw. The Old Breton of late said Letavia in the Latin. In the learning of the middle ages these names could also mean Latium, the country around Rome. The Celt of the continent was then the \"world\" that the deep line across called. So the goddess took her founding place at the head of a meaning of \"broad land\".\n\nFour carved stones are her clearest mark. They were cut in eastern France, in the Cote. They call her fully by the name Litavis. The same stones join her to a consort, the god Cicoll quelques. The Romans set Cicollos beside their own god of war, Mars. So Litavis stood as the consort of the \"Mars of the Celts\". The stones give her back her party and her place in the pantheon.\n\nThe word carries one more title. Poor leader of the men of the east took the name Litaviccus. Rare letters carved on his money echo his name with the same marks seen in the Welsh \"Llydewig\". Both words mean \"answer to the orland\". In the language of sovereignty, that title names her as the goddess who rules beside the land. The same road reaches into later story. A shadowy hero of Welsh tradition, Emyr Llydaw, keeps this old title of the mainland. The land of the Celts, the wide world itself, and her own name all join into one voice.\n\nThe Romans did not lock her away in the course. They left her own Celtic name across the stream of the new Roman worship. The stones prove that the old goddess carried on under the eagle. It is so that her record stays rolling. Yet tied to the names of land and ruler, she binds \"earth\" and \"empire\" to the one idea. For all the thin stone, the meaning is vast.",
+    "okr": {
+        "objective": "Capture the goddess Litavis of the broad land and her consort Cicollus.",
+        "key_results": [
+            "Record Litavis as the Celtic goddess of the broad land in east-central Gaul.",
+            "Link her name to the Indo-European root and the divine earth of the Vedic Sananti.",
+            "Note the four stones beside the god Cicollus, likened by the Romans to Mars.",
+            "Explain the title Litaviccus, ruler of the land and consort of the goddess."
+        ],
+        "evidence": "Koch 2006, s.v. 'Litavis'; Monaghan, Encyclopedia of Celtic Mythology and Folklore"
+    }
 }

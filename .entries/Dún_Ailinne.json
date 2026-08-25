@@ -1,92 +1,132 @@
 {
-  "name": "Dún Ailinne",
-  "attributes": [
-    {
-      "entity": "Dún Ailinne",
-      "attribute": "great hillfort in County Kildare"
-    },
-    {
-      "entity": "Dún Ailinne",
-      "attribute": "established in Neolithic times"
-    },
-    {
-      "entity": "Dún Ailinne",
-      "attribute": "provincial capital of the Leinster kings"
-    },
-    {
-      "entity": "Dún Ailinne",
-      "attribute": "eastern corollary to Cruachan and Emain Macha"
-    },
-    {
-      "entity": "Knockaulin Hill",
-      "attribute": "modern name for Dún Ailinne"
-    },
-    {
-      "entity": "Dún Ailinne",
-      "attribute": "named for the goddess Alend"
-    }
-  ],
-  "entities": [
-    {
-      "entity": "Dún Ailinne",
-      "type": "Hillfort"
-    },
-    {
-      "entity": "County Kildare",
-      "type": "Place"
-    },
-    {
-      "entity": "Celts",
-      "type": "Culture"
-    },
-    {
-      "entity": "Cruachan",
-      "type": "Hillfort"
-    },
-    {
-      "entity": "Connacht",
-      "type": "Province"
-    },
-    {
-      "entity": "Emain Macha",
-      "type": "Hillfort"
-    },
-    {
-      "entity": "Ulster",
-      "type": "Province"
-    },
-    {
-      "entity": "Knockaulin Hill",
-      "type": "Hill"
-    },
-    {
-      "entity": "Leinster",
-      "type": "Province"
-    },
-    {
-      "entity": "Alend",
-      "type": "Goddess"
-    }
-  ],
-  "sources": [
-    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-  ],
-  "image": [
-    "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/D%C3%BAn_Ailine_ditch.jpg/1200px-D%C3%BAn_Ailine_ditch.jpg"
-  ],
-  "cyphertext": "EW9M2tdytqROf8WfzBVrR6hkri6U_b4BINAOriLHS0rcV6y81YdQVBxEnme5xjLn7FdPVTL_QCCsjlpfU23nVGvYCnOtMrLS7tzqIzWEgoRHfDKQ8XhqOhMeUyp59K9Z1okhcFIXgOL36QRxYLluEEXs9G2NpSOgfGlaydlRl_wrsWW4gCi_jePi8YlPCgaJy7Kx4je9XZJwpk8vClasITUVERg-nkLto9l-9I-TB3cp-baN9Epeyb_2MiGq34Vcvfwwd85D_nUKJTE2b1nnUnTmT-NyOa6J14C48OrhvLFyXNSdcjzAxK57UShblCdhTFvlA_WgzGWsDeYgX1vLtCuyqcgilWZUwJyj34IOW0F6sveqqN_oetYKoGbqS7PLQOiJulXkCjXVhjCR75dZk_aoz6NFNtawtqnvqsiVJNj96PnGTxKvpiMc2m3smp-QI2nGvumiTKrd8B4CZklk_-e0nf_m5HvQdzhgpK_z42WX63KOg7PDdhLzUwvL0Bfw5uThcse9TucQGb1oGYU6OCI8VbdV4yScsY6jfDiM6PmPfNI08q_3sMBanvIGbAMWkWICBN2r99TGe4wjPqqp-rifxj1GWHuw6Cv5eViMbOlfVJFmcRwgbOHBzkk9-7o828xLEwmbWYAAYTo_TWXG4UXWkKCGo2W6GCbYHU6e9WGRkZmR168G0EyaCnsZeev4PTfThBNiBAgiqug6ZEA0emSF4w==",
-  "salt": "ZJ_dguNXDsOg1X1Gv9V3qA==",
-  "text": "Dún Ailinne is a great hillfort in County Kildare. It began in Neolithic times. The Celts took it over as a provincial capital around the seventh century C.E. It is the eastern corollary to Cruachan in Connacht and Emain Macha in Ulster. Today it is called Knockaulin Hill. Excavations have revealed banks among the largest earthworks in the land, a wide causeway, and the foundations of ancient structures. The kings of Leinster used it as a seat. Koch records a battle for the Leinster kingship on the site in 728 and again around 800. Radiocarbon dates place the main occupation from the fifth century B.C. to the third century A.D. The site is named for Alend, an obscure goddess.",
-  "okr": {
-    "objective": "Document Dún Ailinne as a royal hillfort of the Leinster kings.",
-    "key_results": [
-      "Locate the hillfort in County Kildare and name its modern form Knockaulin Hill.",
-      "Record its Neolithic origin and Celtic takeover as a provincial capital.",
-      "Attribute the site to the goddess Alend and note two recorded battles for Leinster kingship."
+    "name": "Dún Ailinne",
+    "attributes": [
+        {
+            "entity": "Dún Ailinne",
+            "attribute": "great hillfort in County Kildare"
+        },
+        {
+            "entity": "Dún Ailinne",
+            "attribute": "established in Neolithic times"
+        },
+        {
+            "entity": "Dún Ailinne",
+            "attribute": "provincial capital of the Leinster kings"
+        },
+        {
+            "entity": "Dún Ailinne",
+            "attribute": "eastern corollary to Cruachan and Emain Macha"
+        },
+        {
+            "entity": "Knockaulin Hill",
+            "attribute": "modern name for Dún Ailinne"
+        },
+        {
+            "entity": "Dún Ailinne",
+            "attribute": "named for the goddess Alend"
+        },
+        {
+            "entity": "Dún Ailinne",
+            "attribute": "excavated from 1968 to 1975"
+        },
+        {
+            "entity": "Dún Ailinne",
+            "attribute": "Iron Age layers named White, Rose, and Mauve"
+        },
+        {
+            "entity": "Dún Ailinne",
+            "attribute": "site of battles for the Leinster kingship in 728 and c. 800"
+        },
+        {
+            "entity": "Dún Ailinne",
+            "attribute": "produced an iron sword, spearhead, bronze pins, and glass beads"
+        },
+        {
+            "entity": "John O'Donovan",
+            "attribute": "first identified the site as modern Knockaulin"
+        },
+        {
+            "entity": "Dún Ailinne",
+            "attribute": "the eastern counterpart to Cruachan and Emain Macha"
+        }
     ],
-    "evidence": [
-      "Monaghan, P. The Encyclopedia of Celtic Mythology and Folklore (2008): Dún entry, Co. Kildare hillfort.",
-      "Koch, J. The Celtic Culture: A Historical Encyclopedia (2006): Dún Ailinne entry, seat of Leinster kings, battles in 728 and c. 800."
-    ]
-  }
+    "entities": [
+        {
+            "entity": "Dún Ailinne",
+            "type": "Hillfort"
+        },
+        {
+            "entity": "County Kildare",
+            "type": "Place"
+        },
+        {
+            "entity": "Celts",
+            "type": "Culture"
+        },
+        {
+            "entity": "Cruachan",
+            "type": "Hillfort"
+        },
+        {
+            "entity": "Connacht",
+            "type": "Province"
+        },
+        {
+            "entity": "Emain Macha",
+            "type": "Hillfort"
+        },
+        {
+            "entity": "Ulster",
+            "type": "Province"
+        },
+        {
+            "entity": "Knockaulin Hill",
+            "type": "Hill"
+        },
+        {
+            "entity": "Leinster",
+            "type": "Province"
+        },
+        {
+            "entity": "Alend",
+            "type": "Goddess"
+        },
+        {
+            "entity": "John O'Donovan",
+            "type": "person"
+        },
+        {
+            "entity": "Kildare",
+            "type": "Place"
+        },
+        {
+            "entity": "Neolithic",
+            "type": "Period"
+        },
+        {
+            "entity": "Iron Age",
+            "type": "Period"
+        }
+    ],
+    "sources": [
+        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.",
+        "Koch 2006, s.v. 'Dún Ailinne'"
+    ],
+    "image": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/D%C3%BAn_Ailine_ditch.jpg/1200px-D%C3%BAn_Ailine_ditch.jpg"
+    ],
+    "cyphertext": "EW9M2tdytqROf8WfzBVrR6hkri6U_b4BINAOriLHS0rcV6y81YdQVBxEnme5xjLn7FdPVTL_QCCsjlpfU23nVGvYCnOtMrLS7tzqIzWEgoRHfDKQ8XhqOhMeUyp59K9Z1okhcFIXgOL36QRxYLluEEXs9G2NpSOgfGlaydlRl_wrsWW4gCi_jePi8YlPCgaJy7Kx4je9XZJwpk8vClasITUVERg-nkLto9l-9I-TB3cp-baN9Epeyb_2MiGq34Vcvfwwd85D_nUKJTE2b1nnUnTmT-NyOa6J14C48OrhvLFyXNSdcjzAxK57UShblCdhTFvlA_WgzGWsDeYgX1vLtCuyqcgilWZUwJyj34IOW0F6sveqqN_oetYKoGbqS7PLQOiJulXkCjXVhjCR75dZk_aoz6NFNtawtqnvqsiVJNj96PnGTxKvpiMc2m3smp-QI2nGvumiTKrd8B4CZklk_-e0nf_m5HvQdzhgpK_z42WX63KOg7PDdhLzUwvL0Bfw5uThcse9TucQGb1oGYU6OCI8VbdV4yScsY6jfDiM6PmPfNI08q_3sMBanvIGbAMWkWICBN2r99TGe4wjPqqp-rifxj1GWHuw6Cv5eViMbOlfVJFmcRwgbOHBzkk9-7o828xLEwmbWYAAYTo_TWXG4UXWkKCGo2W6GCbYHU6e9WGRkZmR168G0EyaCnsZeev4PTfThBNiBAgiqug6ZEA0emSF4w==",
+    "salt": "ZJ_dguNXDsOg1X1Gv9V3qA==",
+    "text": "Dún Ailinne served as the seat of Leinster's ancient kings. The hillfort stands in County Kildare, and today the spot is called Knockaulin. The site has a long story. Finds show people lived there in the Neolithic age and again in the early Bronze Age. The Celts later turned it into a royal capital. It is the eastern match to Cruachan in the west and Emain Macha in the north. The main work belongs to the later Iron Age. Archaeologists dug the site from 1968 to 1975. They split the Iron Age into three phases and named them White, Rose, and Mauve. The last phase held a wide round timber ring about forty-two metres across. A tower may have stood at its centre, perhaps nine metres high. A bank and a ditch ring the whole place, much as at Tara and Navan. Radiocarbon dates place the main use from the fifth century B.C. to the third century A.D. Finds include an iron sword, a spearhead, bronze pins, and glass beads. Cattle and pigs died in spring and autumn, probably for feasts. The kings of Leinster fought a battle on the hill in 728 and again near 800. John O'Donovan first tied the site to modern Knockaulin. The place bears the name of Alend, an obscure goddess. The site is the eastern partner to the royal halls of Cruachan and Emain Macha.",
+    "okr": {
+        "objective": "Document Dún Ailinne as the royal hillfort seat of the Leinster kings.",
+        "key_results": [
+            "Locate the hillfort in County Kildare and name its modern form Knockaulin.",
+            "Record its Neolithic and early Bronze Age origins and the later Iron Age phases White, Rose, and Mauve.",
+            "Name the excavated finds, including the iron sword, spearhead, and glass beads.",
+            "Note the recorded battles for the Leinster kingship in 728 and c. 800.",
+            "Attribute the site to the goddess Alend."
+        ],
+        "evidence": "Koch 2006, s.v. 'Dún Ailinne'"
+    }
 }

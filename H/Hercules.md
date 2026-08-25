@@ -5,58 +5,98 @@ icon: file-lines
 order: 1226
 contributors: [ 'Christopher Godwin' ]
 attributes:
-  - Borvo connection with the healing springs at Aix-les-Bains
+  - Hercules a Romano-Celtic god shown often in Celtic art as an altered version of Celtic gods
+  - Celtic artists adapted their style to classical figure modeling after the Roman arrival around 200 BCE
+  - Interpretatio Romana renaming of Celtic gods with Roman names that encouraged classical and Celtic carved features
+  - Segomo shown as a brawny god carrying a Herculean club
+  - Borvo links to the healing springs at Aix-les-Bains and may have fought disease
+  - Smertrius shown as a brawny god carrying a Herculean club
+  - Ogmios depicted as Hercules because verbal talent was a kind of Celtic strength
+  - Ogmios identify with the Greek hero Heracles under the interpretatio Romana
+  - Ogmios pictured with golden chains linking his tongue to the ears of his listeners, a sign of eloquence
+  - Ogma Irish supernatural champion credited with the invention of the ogam alphabet
+  - Hercules name the ancestor of the Gauls in the foundation tale recorded by Diodorus Siculus
+  - Hercules the hero of the medieval Irish Stair Ercuil and the Welsh Book of Ercwl
 categories:
-  - god
-  - object
-  - concept
-  - group
-  - place
+  - Concept
+  - Group
+  - Person
+  - Place
 entities:
-  - Segomo(god)
-  - Borvo(god)
-  - Smertrius(god)
-  - Herculean clubs(object)
-  - disease(concept)
-  - Aix-les-Bains(place)
-  - Ogmios(god)
-  - Hercules(god)
-  - verbal talent(concept)
-  - Celtic people(group)
+  - Hercules(Person)
+  - Interpretatio Romana(Concept)
+  - Segomo(Person)
+  - Borvo(Person)
+  - Smertrius(Person)
+  - Ogmios(Person)
+  - Lucian(Person)
+  - Aix-les-Bains(Place)
+  - Romans(Group)
+  - Diodorus Siculus(Person)
+  - Alesia(Place)
+  - Galates(Person)
+  - Ogma(Person)
+  - Ercwlf(Person)
 tags:
+  - Hercules
+  - Interpretatio Romana
   - Segomo
   - Borvo
   - Smertrius
-  - Herculean clubs
-  - disease
-  - Aix-les-Bains
   - Ogmios
-  - Hercules
-  - verbal talent
-  - Celtic people
+  - Lucian
+  - Aix-les-Bains
+  - Romans
+  - Diodorus Siculus
+  - Alesia
+  - Galates
+  - Ogma
+  - Ercwlf
 ---
 ``` tab [group1:Info]
 ::: magazinestyle
-Celtic artists had a tradition of representing their gods in a non-human form; however, with the arrival of the invading Romans circa 200 BCE, they started to depict them based on classical figure modeling. Moreover, the Interpretatio Romana practice, which involved renaming Celtic gods with Roman deity names, encouraged artists to carve the deities with Celtic and classical features and to identify them with Roman monikers. Hence, the Greco-Roman hero, Hercules, frequently emerged in Celtic art, especially on the Continent, as an alternative version of the Celtic gods, some of whose identities are lost, while some are known. Deities such as Segomo, Borvo, and Smertrius are portrayed as brawny, robust gods bearing Herculean clubs, but their significance to their communities remains unclear. Borvo, for example, is connected to the healing springs in Aix-les-Bains, which implies that his role might have been to combat illness rather than other deities. According to Lucian, a Greek author from the second century CE, the Celtic people considered verbal talent as a kind of strength, which led them to depict the god of eloquence, Ogmios, as Hercules.
+Hercules came to carry several Celtic gods. The Romans led this change. They renamed native gods after their own. Scholars call this practice the interpretatio Romana. The Greek strongman Heracles became the Roman hero Hercules. Celtic artists then recast their local gods with the new muscular look. Segomo, Borvo, and Smertrius appear as brawny men gripping a heavy club. The club points to the foreign hero. The healing god Borvo is bound to the warm springs of Aix-les-Bains. He stands as a conqueror of disease rather than of armies.
+
+An older myth ties even the founding of the Gauls to this hero. The Greek historian Diodorus Siculus left the account. In his tale a proud princess once ruled a wide land in Celtica. She was large in stature and refused every suitor. Heracles came to the city of Alesia. She took pleasure in his strength and noble manner. Her parents gave their consent. She bore him a son named Galates. Galates grew into a vigorous ruler who won much of the land near his seat. His people took the name of the Galaon. The whole land of the Kelts came to be called Galatia. So the Celts drew their own descent from the hero.
+
+The hero also carries eloquence into the Celtic world. Lucian of Samosata described an image he saw of the god. The god was drawn as Heracles but the face looked true. Golden roses joined his tongue to the ears are the happy listeners around it. This was the mark of persuasive speech. The figure represents the god Ogmios. For the Kelts, the gift of ordered words counted as a form of strength. The intellectual keeps close of the far north. It travels on into the Irish champion Ogma, said to be the maker of the ogm alphabet. The faint Welsh figure Eufydd son of Dôn stands near the same root. All show the one early god behind the Roman mask.
+
+Hercules did not stop at the old religion. He carried into the medieval tales of the Ins. The Irish Book of Taliesin holds a death song for a hero named Ercwlf. The poem calls him a "ram of battle", the standard crown of native heroes. A strong says his name the "Pillars of Hercules" of the tale. The Welsh triads set Ercwlff among the men who held the Might of Adam. In Ireland a fifteenth-century tale retold the adventure and the death of Hercules. It drew from the English work of William Caxton. Uilliam Mac an Leagha wrote down this Early Modern Irish version. In that story Hercules is not only hard of arm. He also takes part in acts of learning. The Roman picture thus binds at last the many corners of the Celtic world.
 
 :::
 ```
 ``` tab [group1:Attributes]
-- **Borvo**: connection with the healing springs at Aix-les-Bains
+- **Hercules**: a Romano-Celtic god shown often in Celtic art as an altered version of Celtic gods
+- **Celtic artists**: adapted their style to classical figure modeling after the Roman arrival around 200 BCE
+- **Interpretatio Romana**: renaming of Celtic gods with Roman names that encouraged classical and Celtic carved features
+- **Segomo**: shown as a brawny god carrying a Herculean club
+- **Borvo**: links to the healing springs at Aix-les-Bains and may have fought disease
+- **Smertrius**: shown as a brawny god carrying a Herculean club
+- **Ogmios**: depicted as Hercules because verbal talent was a kind of Celtic strength
+- **Ogmios**: identify with the Greek hero Heracles under the interpretatio Romana
+- **Ogmios**: pictured with golden chains linking his tongue to the ears of his listeners, a sign of eloquence
+- **Ogma**: Irish supernatural champion credited with the invention of the ogam alphabet
+- **Hercules**: name the ancestor of the Gauls in the foundation tale recorded by Diodorus Siculus
+- **Hercules**: the hero of the medieval Irish Stair Ercuil and the Welsh Book of Ercwl
 ```
 ``` tab [group1:Entities]
-- **Segomo**: god
-- **Borvo**: god
-- **Smertrius**: god
-- **Herculean clubs**: object
-- **disease**: concept
-- **Aix-les-Bains**: place
-- **Ogmios**: god
-- **Hercules**: god
-- **verbal talent**: concept
-- **Celtic people**: group
+- **Hercules**: Person
+- **Interpretatio Romana**: Concept
+- **Segomo**: Person
+- **Borvo**: Person
+- **Smertrius**: Person
+- **Ogmios**: Person
+- **Lucian**: Person
+- **Aix-les-Bains**: Place
+- **Romans**: Group
+- **Diodorus Siculus**: Person
+- **Alesia**: Place
+- **Galates**: Person
+- **Ogma**: Person
+- **Ercwlf**: Person
 ```
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
+- Koch 2006, s.v. 'Hercules'
 ```
 ![Hercules Image](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Hercules_combatant_Achelous_%288655488835%29.jpg/1200px-Hercules_combatant_Achelous_%288655488835%29.jpg)
