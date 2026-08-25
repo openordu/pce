@@ -43,3 +43,36 @@ into the ordu-eleventy site build at build time; there is no per-PR CI gate.
 - M3 new nodes: 8x8-2(discarded)+2+1 = 65 nodes added (incl. bricta, Ulster Cycle, Cyfarwyd).
 - M4: 1 audit commit normalizing 3 records.
 - Count verified (M4 audit T25/T34): 806 manifest rows → 141 blend / 33 dup / 631 out_of_scope / 1 new; OKR 140/140 on touched set, 0 JSON invalid.
+
+---
+
+# INVENTORY — GAF-248 koch-pce-ingest-chunk-1 (M5.1 Change Inventory)
+
+Repo: openordu/pce (https://github.com/openordu/pce.git), branch main.
+Change set: origin/main (3632055)..HEAD (2 commits, T4 + T6). Base = 3632055
+(GAF-243 M5 verbatim-6 strict fix, PR #5).
+
+## M2 — Blends (existing nodes enriched with Koch 2006)
+
+| Commit | Milestone | Files | What / Why |
+|---|---|---|---|
+| bb6b785 | M2 blend-batch | 6 | expand Boudicca, Brittany, Brân_fab_Llŷr, cauldron, Connacht, Cunedda with Koch 2006 content, nested OKR |
+
+## M4 — .md regeneration (touched letter dirs only)
+
+| Commit | Milestone | Files | What / Why |
+|---|---|---|---|
+| e8c5339 | M4 regen | 7 | regenerate .md for touched dirs via markdown.py (targeted, no whole-repo blast); patch image[] IndexError on empty list; create B/Boudicca.md (orphan, pre-existing) |
+
+## M4 — Coverage + OKR Audit (chunk-1 manifest)
+
+All 100 named entries accounted for in manifest/chunk1_manifest.json (verify_t8.py, re-measured at M5 ship):
+- 8 blend (in-scope myth with a matched node — 6 of 8 touched in bb6b785; cyfarwyd + cin_dromna_snechta already Koch-complete under GAF-243)
+- 4 dup (covered by an existing named node)
+- 88 out_of_scope (not PCE mythology/folklore material — scholars, sites, institutions, saints, battles, linguistic terms, places; each carries a reason)
+- 0 genuine new nodes
+
+## Tally
+- 2 commits, delta origin/main (3632055)..HEAD (bb6b785 → e8c5339).
+- M2 blends: 6 nodes enriched, all OKR-complete, verbatim-6 CLEAN vs FULL koch.txt (re-verified at ship).
+- M5 gates (re-measured at ship time, verify_t7.py EXIT 0 / verify_t8.py EXIT 0): JSON 6/6 valid, OKR 6/6 complete, verbatim-6 6/6 clean, protected fields (name/image/cyphertext/salt) byte-identical vs bb6b785~1, Koch 2006 cited, 100/100 manifest accounted, zero unaccounted.
