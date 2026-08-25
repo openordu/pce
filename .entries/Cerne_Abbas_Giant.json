@@ -28,6 +28,22 @@
     {
       "entity": "Sucellus",
       "attribute": "a continental Celtic god with a similar mallet"
+    },
+    {
+      "entity": "Cerne Abbas Giant",
+      "attribute": "an ithyphallic man carrying a club in his right hand"
+    },
+    {
+      "entity": "Cerne Abbas Giant",
+      "attribute": "situated in the parish of Cerne Abbas north of Dorchester in Dorset"
+    },
+    {
+      "entity": "Durotriges",
+      "attribute": "a Celtic people who may have identified an otherwise unknown figure with a known god"
+    },
+    {
+      "entity": "Hercules",
+      "attribute": "a Greek and Roman hero with a club whom antiquarians linked to the Giant"
     }
   ],
   "entities": [
@@ -66,26 +82,36 @@
     {
       "entity": "Sucellus",
       "type": "god"
+    },
+    {
+      "entity": "Hercules",
+      "type": "deity"
+    },
+    {
+      "entity": "Dorchester",
+      "type": "location"
     }
   ],
   "sources": [
-    "Newman, Paul. Gods and Graven Images: The Chalk Hill-Figures of Britain. London: Robert Hale, 1987, 72–101.",
-    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-  ],
+      "Newman, Paul. Gods and Graven Images: The Chalk Hill-Figures of Britain. London: Robert Hale, 1987, 72\u2013101.",
+      "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.",
+      "Koch 2006, s.v. 'Cerne Abbas'"
+    ],
   "image": [
     "https://upload.wikimedia.org/wikipedia/commons/0/02/Cerne-abbas-giant-2001-cropped.jpg"
   ],
   "cyphertext": "02dquSR3ktYUoJvebbnzkFgslDhQgNUF22a6yuSCEJtrjZMfQhru7-u8XkPZrkabzGaX85T5_BD17I2JBKFDyIqNJE17cAmkEaWKICEfIASDiHYP2c_jCucy0tRoaZSdx97qYRuCFL3yMC2N8WEWmMGwOzSKO_NGgUbT9S0tvYVnHZSIYwtKMJdalVNEukWo9Cbg5KpqwbvxRxDARtXMu1whI9hlG3NTD3Pfc1Vv43DTD3LLnzmmvaaog-rv_e1irWdSyD6iRxlXzWnBFuAd1HBuJdXkttO3_RUBh8iGUBS88KkRyY4iSUjJjgrs_H6rvv5B-CNZUlp6nVKjFAKf7kcLZJ-G-h19K14CW3x0VUgajt3QSBr1XO0KlZgPwN1oXplI2yjIpZ111cJFyWL90XLD2n6LVosKZdlUnOq7A-nCBp6FX8nHaf_h_l8NZOptC3VMmHuot57kUsbYrw47P6ckC5KwNrHdwFTryBVSRysY06SMNf3btzddnXWKvOe69_1V1OTgzNk2U2M-9erWNTgalFItoGUD3IVl9kIFcdOwCCe7kvmNvBU07rgy0GKT2n0vMPzYlvIkY8u9GCy84i6vxGv_UfwoD1C6nH5ekNrEzEqLDdjRhiR4lhP89tq3Q-DzrkuSOlA-4o97WmfSVPT9DrDfEYPvpqbtTQli0eXwNjhXOFUO9WyOt8PX7uoOFqrOGwPuMAUn4hhmRPw-dlyYwtK7KefUNfB6Kerlf4DrFWgSvQhO81V04rjUpi-o3QcRE68iuiOch0ZQvWn5Ar58ywLdck1gYo5NMojnmy50NhUPnZKnsLF-tyVvPYBXgbB_9h4o1aRIlpuxFPIUj1Qh5dG74csDDKGVtTc0U1CGnG9yANfrvBVYfgkujwx8mitmuc2Ysk_trC29JxGiLno6c5MvqUk4eBcJW-QrhLxomh_MDuQ80jnfr1NQWmf7XIb86wXFoidlJhlb2BafJYZzIIONRjIdjRAUt-BtNTMwy7csOyd7QRz0Gqgbi_AamQXmZNL4A1xTvJsllSd1gwzlmKdUkJqBZ7iXYoQkouKWQSeOm1FNQlYj9-SEcKayGbJD8aC03SAuz-dowRx7pk6-rjkDtmWickN-hNXWtJPQnS0M9kXqksSUwslsKPPQpvt_BSGnXfvQ1gV2nTW1eDdlY1KLoSLPUCfX4VzcPZSEEys1c7lBB-SMgeWAxC3yPw2MI7HeL3Ea94ASOl96mR5t_lwq7f9h-zZnuX0OKN_dJbME1lGaADXEdaCwyxbxPO26jLk5Jy6UWo0PWE2nQmTrQYPLnHG6lK5A_JOxAy1BoJRFBgpZ-OXl4dRXIIMU3MVzyyS8ucKEnsGKek6WfJgkoUZo3lA0j_So1weI7AlWI5elq2JzEXbh-C2dfelap0LVKBEpNH2AX-5evTtBwIqltciJxYwUu-rKJr0e2unaChijSIm7SjlhSAMVrpzUoKjwsRMMVI5znTHA2xHcfbY0-dGOOJEwGBVEgnqupapACzjUW9ODCsZPB8zMqX1lB1_Pk3WkxdD29VzPxhft8fyP-qoU4ri7XuKy4rs6HURDGzmL58j5HqBlB8BW1lkT5fHr7BH_2HO5b-_df4uCyvqNGZTdRsQ_bnAipU0HF0BHmQzgPLgGJAzYAxZR3mYQs-s0I21h6EaeF1-KaN7pd55qg0BLXXbEAUkat2JhTVcBrQLAjSMJJN-u_IMf66ICB3j7wyCmtFGPLNpYOg8LyBhesta0BC6NAEDvkayvZaM7VPe4LN8zdQuJxaswuP3foQLKHXWC6jVlAcuKm0z6jhPN_x8-ywvpf9Gqn4t7sFfWgKA4WHU=",
   "salt": "lJspnJSCgg0I_rm4x9Zucw==",
-  "text": "The Cerne Abbas Giant is a British folk figure cut into turf and chalk on a slope above the Dorset village of Cerne Abbas. The turf was cut away to reveal the white chalk below. The outline shows a man over 200 feet tall. It bears no name. No one knows who carved it. The White Horse of Uffington is another turf-cut figure. Scholars have dated that figure to the Iron Age. They cannot say whether the Giant shares that age. Many find it likely that the Durotriges, a Celtic tribe, first saw the Giant already graven on the slope. Some argue his features tie him to other Celtic mythologies. His erect member is 30 feet long. That detail drew a folk link to fertility. A long-held folk view said the Giant helped women conceive. Couples therefore met out of doors close to the outline. The Giant carries a huge club held aloft. The Irish god Dagda carried a similar club. The continental Celtic god Sucellus also carried a mallet-like weapon.",
+  "text": "The Cerne Abbas Giant is a human figure cut into turf and chalk on a slope in Dorset, England. The site lies in the parish of Cerne Abbas, north of Dorchester. Workers cut away the turf to reveal white chalk below. The outline shows an ithyphallic man who grips a fine club in his right hand. Cross lines mark the ribs, and one line marks the waist. The figure bears no name, and no one knows who carved it. The White Horse of Uffington is another turf-cut figure, dated to the Iron Age.\n\nThe known history is largely modern. The first printed account of the Giant appeared in 1763, and another came out in 1764. No medieval source names the figure. Some scholars therefore think the carving is not much older than the 1700s. Other scholars read the pose and the club as Roman-era work. They note that other Iron Age belted, unclothed warriors in Europe were recorded. Stuart Piggott saw the club as like that of Hercules. He and others read the figure as a Roman Hercules, or as a god the local Durotriges held to stand for him.\n\nThe Giant carries a huge club held aloft. The Irish god Dagda carried a similar club, and a continental Celtic god named Sucellus carried a mallet-like weapon. Many therefore argue the outline has Celtic links. The Roman and 18th-century readings remain two competing views. The figure still has no agreed name. The defenders of the Hercules reading note its club and its nudity. Those who favor a deep ancient age point to the Uffington pony as proof that such figures can be very old.",
   "okr": {
     "objective": "The Cerne Abbas Giant is a nameless turf-cut figure of a man on a Dorset hill.",
     "key_results": [
       "It is more than 200 feet tall, cut in white chalk near the village of Cerne Abbas.",
       "No one knows its name or who carved it.",
-      "Its 30-foot erection links it to local fertility beliefs.",
-      "It carries a club like the Irish god Dagda and the god Sucellus."
+      "The first printed account dates to 1763, with no medieval source naming the figure.",
+      "Scholars read it as a Roman Hercules or as a god the Durotriges saw as his equal.",
+      "Its club invites comparison with the Dagda and Sucellus."
     ],
-    "evidence": "Monaghan, Encyclopedia of Celtic Mythology and Folklore"
+    "evidence": "Koch 2006, s.v. 'Cerne Abbas'; Monaghan, Encyclopedia of Celtic Mythology and Folklore; Newman, Gods and Graven Images"
   }
 }

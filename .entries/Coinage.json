@@ -1,0 +1,59 @@
+{
+  "name": "Coinage",
+  "text": "Celtic coinage arose in the late 4th to early 3rd century BC, in the Middle La Tène era. Celtic peoples traded with the Greeks and supplied mercenary fighters, and Greek models guided their earliest coin dies. Greek art supplied the models. Yet the pieces rarely met Greek weight or metal standards and mostly circulated only where they were struck. Three broad zones mark the prototypes: an eastern silver belt along the Danube, several southern silver groups, and a northern gold belt. The stater of Philip of Macedonia became a dominant model for many issues. Over time the Celts built a Greek and Celtic blend, then distinct Belgic and Armorican styles. The Roman conquest of Gaul did not end Celtic coinage at once, and legends continued in both Gaulish and Latin. In Britain gold lasted until the Claudian conquest. The Celtic Coin Index at Oxford holds records and images of upward of thirty thousand coins. Coin legends are useful evidence for early Celtic languages, though no full sentence is known to appear on a coin.",
+  "entities": [
+    {
+      "entity": "Celtic coinage",
+      "type": "Artefact"
+    },
+    {
+      "entity": "Celtic languages",
+      "type": "Language"
+    },
+    {
+      "entity": "Philip II",
+      "type": "Person"
+    },
+    {
+      "entity": "Gaul",
+      "type": "Place"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Celtic coinage",
+      "value": "emerged in the late 4th to early 3rd century BC"
+    },
+    {
+      "entity": "Celtic languages",
+      "value": "attested by the coin legends for the early period"
+    },
+    {
+      "entity": "Philip II",
+      "value": "stater drawn as the dominant coin prototype"
+    },
+    {
+      "entity": "Gaul",
+      "value": "centre where Celtic coins stayed in early use"
+    }
+  ],
+  "sources": [
+    "Koch 2006, s.v. 'Coinage'",
+    "Allen, D.F. Coins of the Ancient Celts. Edinburgh University Press, 1980."
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Record the entry as a verified PCE node.",
+    "key_results": [
+      "Factual text written in the project's style above five hundred characters.",
+      "Entities and attributes recorded for the entry.",
+      "Protected fields set to empty defaults."
+    ],
+    "evidence": [
+      "Koch 2006, s.v. 'Coinage'",
+      "Allen, Coins of the Ancient Celts, Edinburgh University Press."
+    ]
+  }
+}

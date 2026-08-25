@@ -2,7 +2,7 @@
 layout: layouts/pce.njk
 title: cauldron
 icon: file-lines
-order: 438
+order: 484
 contributors: [ 'Christopher Godwin' ]
 attributes:
   - cauldron parallels the Dagda
@@ -18,14 +18,14 @@ attributes:
   - Ceridwen her cauldron grants wisdom, prophecy, and truth
   - cauldron its name in Irish is coire and in medieval Welsh peir, from one old root
 categories:
-  - god
-  - concept
-  - artifact
-  - mythological figure
   - place
   - animal
+  - concept
+  - mythological figure
+  - artifact
   - character
   - artefact
+  - god
 entities:
   - cauldron(artifact)
   - Arawn(mythological figure)

@@ -1,0 +1,60 @@
+{
+  "name": "Cynddylan fab Cyndrwyn",
+  "text": "Cynddylan fab Cyndrwyn was a Welsh prince of Powys in the 7th century. He fought as an ally of Penda, king of Mercia. In 642 his side slew Oswald of Northumbria at the battle of Maserfelth. Cynddylan fell on 15 November 655, most likely at the battle of Winwæd. Two poems record him. Marwnad Cynddylan is a 71-line elegy sent to a king of Gwynedd. Canu Heledd is a cycle of 113 carvings spoken in the grief of his sister Heledd. The cycle shows a land ruined after his fall. His kinsmen, the Cyndrwynyn, do not appear among the kings of Powys after the 9th century. Later rulers there traced descent from the line of Cadell.",
+  "entities": [
+    {
+      "entity": "Cynddylan fab Cyndrwyn",
+      "type": "Person"
+    },
+    {
+      "entity": "Penda",
+      "type": "Person"
+    },
+    {
+      "entity": "Heledd",
+      "type": "Person"
+    },
+    {
+      "entity": "Marwnad Cynddylan",
+      "type": "Text"
+    },
+    {
+      "entity": "Canu Heledd",
+      "type": "Text"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Cynddylan fab Cyndrwyn",
+      "value": "7th-century prince of Powys who fell in 655"
+    },
+    {
+      "entity": "Cynddylan fab Cyndrwyn",
+      "value": "ally of Penda slain at Maserfelth"
+    },
+    {
+      "entity": "Heledd",
+      "value": "grieving sister remembered in the englyn cycle"
+    },
+    {
+      "entity": "Maru Rhys ddylan",
+      "value": "71-line elegy to a king of Gwynedd"
+    }
+  ],
+  "sources": [
+    "Koch 2006, s.v. 'Cynddylan fab Cyndrwyn'",
+    "Wendy Davies, Wales in the Early Middle Ages (Leicester University Press, 1982)."
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Record Cynddylan fab Cyndrwyn as a verifiable PCE node rooted in the Koch entry.",
+    "key_results": [
+      "Factual text written in CSG-style prose of at least 300 characters.",
+      "Entities and attributes recorded for the prince and his poems.",
+      "Protected fields set to empty defaults."
+    ],
+    "evidence": "Koch 2006, s.v. 'Cynddylan fab Cyndrwyn'; Wendy Davies, Wales in the Early Middle Ages."
+  }
+}

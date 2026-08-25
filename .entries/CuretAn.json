@@ -1,0 +1,56 @@
+{
+  "name": "Curetán",
+  "text": "Curetán, also called Curitan, served as bishop of Rosemarkie on the Black Isle in Ross-shire. He held this see from about 690 to 710. He witnessed the Synod of Birr in 697. That council issued the Law of the Innocents. The law shielded women, children, and clerics from war. His see lay among the northern Picts. His Life, however, calls him an Albanus of Hebrew origin. It states he baptized Nechton, king of the Picts. His name carries a Celtic diminutive, while Boniface is his Latin name. His feast day falls on 16 March. A fair in Fortrose still marks the day.",
+  "entities": [
+    {
+      "entity": "Curetán",
+      "type": "Person"
+    },
+    {
+      "entity": "Synod of Birr",
+      "type": "Place"
+    },
+    {
+      "entity": "Nechton son of Derelei",
+      "type": "Person"
+    },
+    {
+      "entity": "Rosmarkie",
+      "type": "Place"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Curetán",
+      "value": "bishop of Ross-shire from c. 690 to c. 710"
+    },
+    {
+      "entity": "Curetán",
+      "value": "witness at the Synod of Birr in 697"
+    },
+    {
+      "entity": "Nechton son of Derelei",
+      "value": "king of the Picts, baptized by Curetán (703-724)"
+    },
+    {
+      "entity": "Curetán",
+      "value": "had a Latin alias, Boniface"
+    }
+  ],
+  "sources": [
+    "Koch 2006, s.v. 'Curetán'",
+    "Alan O. Anderson, Early Sources of Scottish History AD 500 to 1286."
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Record Curetán as a verifiable PCE node rooted in the Koch entry.",
+    "key_results": [
+      "Factual text written in CSG-style prose of at least 150 characters.",
+      "Entities and attributes recorded for the saint-bishop.",
+      "Protected fields set to empty defaults."
+    ],
+    "evidence": "Koch 2006, s.v. 'Curetán'; Alan O. Anderson, Early Sources of Scottish History."
+  }
+}

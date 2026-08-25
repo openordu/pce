@@ -2,16 +2,16 @@
 layout: layouts/pce.njk
 title: Cín Dromna Snechta
 icon: file-lines
-order: 619
+order: 550
 contributors: [ 'Christopher Godwin' ]
 attributes:
   - Cín Dromna Snechta Cín Dromna Snechta
   - Cín Dromna Snechta cin_dromna_snechta
   - Cín Dromna Snechta lost manuscript
 categories:
-  - place
   - text
   - figure
+  - place
 entities:
   - Cín Dromna Snechta(text)
   - Lebor na hUidre(text)

@@ -1,0 +1,52 @@
+{
+  "name": "Amgueddfeydd ac Orielau Cymru",
+  "text": "Amgueddfeydd ac Orielau Cymru is the Welsh title of the national body that runs the museums and galleries of Wales. This institution is a principal cultural and heritage body of Wales. It was founded in 1907. Its mission teaches the world about Cymru and teaches the Welsh people about their land. Today the organisation runs seven public sites. Its collections hold around 4.7 million items. The main archaeology and art collections sit in Cardiff city centre. These include Bronze and Iron Age treasures such as the Caergwrle bowl. St Fagans presents the Museum of Welsh Life as an open-air site. It preserves buildings from several centuries and records the Welsh language and its dialects.",
+  "entities": [
+    {
+      "entity": "Amgueddfeydd ac Orielau Cymru",
+      "type": "Institution"
+    },
+    {
+      "entity": "Cardiff",
+      "type": "Place"
+    },
+    {
+      "entity": "St Fagans",
+      "type": "Place"
+    },
+    {
+      "entity": "Wales",
+      "type": "Place"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Amgueddfeydd ac Orielau Cymru",
+      "attribute": "is the National Museums and Galleries of Wales, founded in 1907"
+    },
+    {
+      "entity": "Amgueddfeydd ac Orielau Cymru",
+      "attribute": "holds around 4.7 million collection items across seven public sites"
+    },
+    {
+      "entity": "St Fagans",
+      "attribute": "hosts the open-air Museum of Welsh Life"
+    }
+  ],
+  "sources": [
+    "Koch 2006, s.v. 'Wales: Museums'; Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.",
+    "National Museum Wales (amgueddfacymal.cymru)"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Establishes Amgueddfeydd ac Orielau Cymru as the national museums body of Wales founded in 1907.",
+    "key_results": [
+      "Records the 1907 founding and the roughly 4.7 million collection items",
+      "Names the Cardiff museum and St Fagans open-air site as major holdings",
+      "Notes the institution's role in preserving the Welsh language and dialects"
+    ],
+    "evidence": "Koch 2006, s.v. 'Wales: Museums'; Monaghan 2008"
+  }
+}

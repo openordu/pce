@@ -1,0 +1,64 @@
+{
+  "name": "Celtic Countries",
+  "text": "The Celtic countries are the six nations where Celtic languages are still spoken. They are Ireland, Scotland, Wales, Cornwall, the Isle of Man, and Brittany. The term marks a useful concept in Celtic studies. The boundaries of Celtic-speaking land stayed much the same from the 600s into early modern times. The climate of the west and north is often moist. Rain fell too often for reliable grain in many low-lying parts. The eastern coasts of Ireland and Scotland fare better. Much of Scotland and part of Wales is mountainous. Some parts of Cornwall and Brittany are open plateaux. Peat bogs cover large areas of central Ireland. These lands did not ease settlement or farming. Most people lived along the coast. Coastal areas held many tiny farms. Ireland and the Isle of Man spread their people more widely. The medieval world saw heavy migration and many raids across these countries.",
+  "entities": [
+    {
+      "entity": "Ireland",
+      "type": "Place"
+    },
+    {
+      "entity": "Scotland",
+      "type": "Place"
+    },
+    {
+      "entity": "Wales",
+      "type": "Place"
+    },
+    {
+      "entity": "Cornwall",
+      "type": "Place"
+    },
+    {
+      "entity": "Isle of Man",
+      "type": "Place"
+    },
+    {
+      "entity": "Brittany",
+      "type": "Place"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Celtic Countries",
+      "value": "six nations where Celtic languages are spoken"
+    },
+    {
+      "entity": "Ireland",
+      "value": "one of the six Celtic countries"
+    },
+    {
+      "entity": "Scotland",
+      "value": "one of the six Celtic countries"
+    },
+    {
+      "entity": "Brittany",
+      "value": "one of the six Celtic countries"
+    }
+  ],
+  "sources": [
+    "Koch 2006, s.v. 'Celtic Countries'",
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Facts On File, 2004."
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Record the Celtic Countries as a verifined PCE node.",
+    "key_results": [
+      "Factual text written in CSG-style prose of at least 150 characters.",
+      "Entities and attributes recorded for the six nations.",
+      "Protected fields set to empty defaults."
+    ],
+    "evidence": "Koch 2006, s.v. 'Celtic Countries'"
+  }
+}

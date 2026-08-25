@@ -1,0 +1,63 @@
+{
+  "name": "Clì",
+  "text": "Clì is a Gaelic development organization started in 1984. In plain letters the name is written cli, while the accented form holds the sense of vigour. The title worked as an acronym for the Comann an Luchd-Ionnsachaidh body, a society for those learning the language. The group first supplied materials and backing for Gaelic learners of varied kinds, chiefly adults. In later years it widened its scope to reach non-traditional speakers, including those who gained fluency as adults or through Gaelic-medium schooling. This shift led the society to drop the full acronym, leaving Clì without a fixed expanded meaning, a move that drew some controversy. Based in Inverness, Clì keeps databases and shares details on Gaelic learning chances and resources. It arranges weekend courses across Scotland and pushes Gaelic awareness among officials and the public. Since 1994 it has issued the quarterly bilingual journal Cothrom, full of columns, poetry, commentary and reviews.",
+  "entities": [
+    {
+      "entity": "Clì",
+      "type": "Institution"
+    },
+    {
+      "entity": "Gaelic",
+      "type": "Language"
+    },
+    {
+      "entity": "Inverness",
+      "type": "Place"
+    },
+    {
+      "entity": "Scotland",
+      "type": "Place"
+    },
+    {
+      "entity": "Cothrom",
+      "type": "Text"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Clì",
+      "value": "development and learners society founded in 1984"
+    },
+    {
+      "entity": "Gaelic",
+      "value": "target language supported by the organisation"
+    },
+    {
+      "entity": "Inverness",
+      "value": "headquarters of the group"
+    },
+    {
+      "entity": "Cothrom",
+      "value": "bilingual journal published since 1994"
+    }
+  ],
+  "sources": [
+    "Koch 2006, s.v. 'Clì'",
+    "McLeod, Wilson. Gaelic in Scotland: Policies, Movements, Ideologies. Edinburgh University Press, 2020."
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Record the entry as a verified PCE node.",
+    "key_results": [
+      "Factual text written in the gateway style above five hundred characters.",
+      "Entities and attributes recorded for the entry.",
+      "Protected fields set to empty defaults."
+    ],
+    "evidence": [
+      "Koch 2006, s.v. 'Clì'",
+      "McLeod, Wilson. Gaelic in Scotland, Edinburgh University Press."
+    ]
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "name": "Corcaigh (Cork)",
+  "text": "Corcaigh, better known as Cork, is an Irish settlement that spans both a city and a county; its name likely comes from corcach, the word for marsh. Cork grew from a seventh-century monastic settlement near the cathedral named for Finbarr, its patron saint, and later became a Viking town. It grew into a central learning centre in the Middle Ages and throughout the early twentieth century played a major part and suffered heavy damage during the fight for independence. It now hosts University College Cork, a constituent college that belongs to the National University of Ireland.",
+  "entities": [
+    {
+      "entity": "Corcaigh",
+      "type": "Place"
+    },
+    {
+      "entity": "Cork",
+      "type": "Place"
+    },
+    {
+      "entity": "Finbarr",
+      "type": "Person"
+    },
+    {
+      "entity": "University College Cork",
+      "type": "Institution"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Corcaigh",
+      "value": "Irish name for the city known as Cork"
+    },
+    {
+      "entity": "Finbarr",
+      "value": "patron saint of Cork"
+    },
+    {
+      "entity": "University College Cork",
+      "value": "founded 1849 and now part of the National University of Ireland"
+    }
+  ],
+  "sources": [
+    "Koch 2006, s.v. \"Corcaigh (Cork)\"",
+    "O'Flanagan, Patrick and Buttimer, Cornelius. Cork: History and Society (1993)"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Describe Corcaigh or Cork and its history",
+    "key_results": [
+      "Give the origin of the place-name Corcaigh",
+      "Trace the city's development from monastic to Viking town",
+      "Note the founding of University College Cork"
+    ],
+    "evidence": "Koch 2006, s.v. \"Corcaigh (Cork)\"; O'Flanagan and Buttimer 1993"
+  }
+}

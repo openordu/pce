@@ -2,7 +2,7 @@
 layout: layouts/pce.njk
 title: Brittany
 icon: file-lines
-order: 336
+order: 376
 contributors: [ 'Christopher Godwin' ]
 attributes:
   - Brittany a cross-reference pointing to GAUL

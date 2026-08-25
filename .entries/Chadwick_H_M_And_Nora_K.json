@@ -1,0 +1,59 @@
+{
+  "name": "Chadwick, H. M. and Nora K.",
+  "text": "Hector Munro Chadwick and Nora K. Chadwick were two British scholars. They worked as a married research pair. Hector studied Anglo-Saxon and Norse matters. Nora studied early Celtic history and poetry. Their big joint work is The Growth of Literature. The Chadwicks helped shape the study of early cultures. Their view of north-west Europe left a lasting mark. The Cambridge department follows their lead. Hector wrote on the heroic age and national identity. Nora wrote on Celtic Britain and the Druids. Their books still guide students today.",
+  "entities": [
+    {
+      "entity": "H. M. Chadwick",
+      "type": "Person"
+    },
+    {
+      "entity": "Nora K. Chadwick",
+      "type": "Person"
+    },
+    {
+      "entity": "University of Cambridge",
+      "type": "Institution"
+    },
+    {
+      "entity": "The Growth of Literature",
+      "type": "Text"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "H. M. Chadwick",
+      "value": "scholar of the heroic age and English origins"
+    },
+    {
+      "entity": "Nora K. Chadwick",
+      "value": "scholar of early Celtic Britain and the Druids"
+    },
+    {
+      "entity": "The Growth of Literature",
+      "value": "a major joint work of the couple"
+    },
+    {
+      "entity": "University of Cambridge",
+      "value": "home to the study area they shaped"
+    }
+  ],
+  "sources": [
+    "Koch 2006, s.v. 'Chadwick, H. M. and Nora K.'",
+    "Fox, Cyril, and Bruce Dickins. Early Cultures of North-West Europe. Cambridge: University of Cambridge Press."
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Record the Chadwicks as a verified PCE node.",
+    "key_results": [
+      "Factual text written in CSG of at least 150 characters.",
+      "Entities and attributes recorded for the entry.",
+      "Protected fields set to empty defaults."
+    ],
+    "evidence": [
+      "Koch 2006, s.v. 'Chadwick, H. M. and Nora K.'",
+      "Fox, Cyril, and Bruce Dickins. Early Cultures of North-West Europe."
+    ]
+  }
+}

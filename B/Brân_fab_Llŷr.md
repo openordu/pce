@@ -2,7 +2,7 @@
 layout: layouts/pce.njk
 title: Brân fab Llŷr
 icon: file-lines
-order: 341
+order: 386
 contributors: [ 'Christopher Godwin' ]
 attributes:
   - Brân fab Llŷr Welsh king called Bendigeidfran, 'Brân the Blessed'
@@ -12,10 +12,10 @@ attributes:
   - crow a bird linked to the dead and the war-goddess Bodb
   - Brennos of the Prausi ancient leader whose tale is more like Brân's own
 categories:
-  - figure
-  - Symbol
-  - Goddess
   - Person
+  - Symbol
+  - figure
+  - Goddess
 entities:
   - Brân fab Llŷr(Person)
   - Bendigeidfran(Person)

@@ -1,0 +1,72 @@
+{
+  "name": "Aberffraw",
+  "text": "Aberffraw is a royal site of the Welsh kings in the SE of Anglesey. It was the seat of the Gwynedd dynasty, whose early line claimed descent from Cunedda. The cantref of Aberffraw had two commotes, Llifon to the north and Malltraeth in the south. Court poets used the name as a byword for royal standing and lawful power. When Llywelyn ap Gruffudd, the last native prince, died in 1282, the site was pulled down.",
+  "entities": [
+    {
+      "entity": "Aberffraw",
+      "type": "Place"
+    },
+    {
+      "entity": "Anglesey",
+      "type": "Place"
+    },
+    {
+      "entity": "Gwynedd",
+      "type": "Place"
+    },
+    {
+      "entity": "Llywelyn ap Gruffudd",
+      "type": "Person"
+    },
+    {
+      "entity": "Cunedda",
+      "type": "Person"
+    },
+    {
+      "entity": "Llifon",
+      "type": "Place"
+    },
+    {
+      "entity": "Malltraeth",
+      "type": "Place"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Aberffraw",
+      "attribute": "a royal site of the Welsh kings of Gwynedd"
+    },
+    {
+      "entity": "Aberffraw",
+      "attribute": "sits in the SE of Anglesey"
+    },
+    {
+      "entity": "Aberffraw",
+      "attribute": "a cantref split into the commotes of Llifon and Malltraeth"
+    },
+    {
+      "entity": "Anglesey",
+      "attribute": "the island that once held the royal site"
+    },
+    {
+      "entity": "Gwynedd",
+      "attribute": "its dynasty claimed descent from Cunedda"
+    }
+  ],
+  "sources": [
+    "Koch 2006, s.v. 'Aberffraw'",
+    "Lloyd, John Edward. A History of Wales from the Earliest Times to the Edwardian Conquest. Longmans, Green & Co., 1911."
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Establish Aberffraw as the royal site of the Welsh kings of Gwynedd in Anglesey.",
+    "key_results": [
+      "Identify Aberffraw as the royal centre in the SE of Anglesey.",
+      "Describe the cantref as two commotes, Llifon and Malltraeth.",
+      "Record the demise of the site after the death of Llywelyn ap Gruffudd."
+    ],
+    "evidence": "Koch 2006, s.v. 'Aberffraw'; Lloyd 1911."
+  }
+}

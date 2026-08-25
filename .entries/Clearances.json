@@ -1,0 +1,32 @@
+{
+  "name": "Highland Clearances",
+  "text": "The Highland Clearances were the forced eviction of populations across the Scottish Highlands and Islands from the 1780s to the 1850s. Landowners brought in sheep and then deer runs to raise the income of estates. Whole communities were driven out and settled on poor coastal crofts or forced to emigrate. Between 1762 and 1886 roughly one hundred thousand Highlanders left for Canada, the United States, and Australia. The clearances wrecked the clan system and speeded the decline of Scottish Gaelic. The harshest events, such as the Sutherland clearings, left bitter memories.",
+  "entities": [
+    {"entity": "Highlands", "type": "Place"},
+    {"entity": "James Loch", "type": "Person"},
+    {"entity": "Scottish Gaelic", "type": "Language"},
+    {"entity": "Sutherland clearings", "type": "Event"}
+  ],
+  "attributes": [
+    {"entity": "Highlands", "value": "region of Scotland largely affected by the evictions"},
+    {"entity": "James Loch", "value": "estate manager who ran the Sutherland clearing from 1807 to 1821"},
+    {"entity": "Scottish Gaelic", "value": "language whose decline was hastened by the clearances"},
+    {"entity": "Sutherland clearings", "value": "almost half of Sutherland's population was driven out"}
+  ],
+  "sources": [
+    "Koch 2006, s.v. \"Clearances\"",
+    "Prebble, John. The Highland Clearances"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Present the history of the Highland Clearances",
+    "key_results": [
+      "Date the clearances from the 1780s to the 1850s",
+      "Describe the eviction of communities to make way for sheep",
+      "Note the emigration and the impact on clan life and Gaelic"
+    ],
+    "evidence": "Koch 2006, s.v. \"Clearances\""
+  }
+}

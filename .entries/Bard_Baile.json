@@ -1,0 +1,53 @@
+{
+    "name": "Bàrd baile",
+    "attributes": [
+        {
+            "entity": "Bàrd baile",
+            "attribute": "a Gaelic village poet who acted as a social commentator"
+        },
+        {
+            "entity": "Gaelic",
+            "attribute": "the language family in which these village bards sang"
+        },
+        {
+            "entity": "Highlands",
+            "attribute": "the region where the village bards once lived"
+        }
+    ],
+    "entities": [
+        {
+            "entity": "Bàrd baile",
+            "type": "Person"
+        },
+        {
+            "entity": "Gaelic",
+            "type": "Language"
+        },
+        {
+            "entity": "Highlands",
+            "type": "Place"
+        },
+        {
+            "entity": "taigh-cèilidh",
+            "type": "Artefact"
+        }
+    ],
+    "sources": [
+        "Koch 2006, s.v. 'Bàrd baile'",
+        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+    ],
+    "image": [],
+    "cyphertext": "",
+    "salt": "",
+    "text": "A bàrd baile is a Gaelic village poet of the Highlands. The term names a local bard who acted as a social commentator. His view centred on a small settlement. His songs covered homeland, war, love, and local news. Elegy, eulogy, and satire moved from the clan tradition into that work. Radio and television later took the role away. The village bards have nearly vanished in the last century. The old gathering-houses of the Highlands are also gone. Some critics dislike the label, for it sounds narrow. Yet many such poets had fought wars and sailed the wide seas.",
+    "okr": {
+        "objective": "Depict the bàrd baile as a vanished Gaelic village poet and social commentator of the Highlands.",
+        "key_results": [
+            "The bard served as a social commentator for a small community.",
+            "Elegy, eulogy, and satire moved from the clan tradition into their work.",
+            "Radio and television took the poet's role in the last century.",
+            "The village poets have nearly vanished along with the old gathering houses."
+        ],
+        "evidence": "Koch 2006, s.v. 'Bàrd baile'; Monaghan 2008."
+    }
+}

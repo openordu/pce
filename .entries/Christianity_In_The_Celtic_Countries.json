@@ -1,0 +1,52 @@
+{
+  "name": "Christianity in the Celtic Countries",
+  "text": "Christianity reached the Celtic lands through Britain and grew in Ireland. Early missionaries worked there in the fifth century. Patrick the bishop came from Britain to lead the faith. Monasteries rose as centres of teaching and of law. The Irish Church kept close ties to Latin Christendom. Its canon law shaped later Western Church books. The Cáin Adomnáin of 697 limited the harms of warfare. The idea of one pure Celtic Church does not hold. Irish Christians felt they were one group among the West. The synods of Ráith Bressail and Kells aligned Irish practice with the wider Latin world.",
+  "entities": [
+    {
+      "entity": "Patrick",
+      "type": "Person"
+    },
+    {
+      "entity": "Ireland",
+      "type": "Place"
+    },
+    {
+      "entity": "Iona",
+      "type": "Place"
+    },
+    {
+      "entity": "Christianity",
+      "type": "Concept"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Ireland",
+      "value": "received Christianity from Britain in the fifth century"
+    },
+    {
+      "entity": "Cáin Adnondáin",
+      "value": "a law of 697 that limited the harms of warfare"
+    },
+    {
+      "entity": "Patrick",
+      "value": "a bishop who came from Britain to Ireland"
+    }
+  ],
+  "sources": [
+    "Koch 2006, s.v. 'Christianity in the Celtic Countries'",
+    "Hughes, Kathleen. The Church in Early Irish Society. London: Methuen, 1966."
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Record the spread of Christianity across the Celtic countries as a verified PCE node.",
+    "key_results": [
+      "Factual text written in CSG-style prose of over 150 characters.",
+      "Entities and attributes recorded for the Irish church and its leaders.",
+      "Protected fields set to empty defaults."
+    ],
+    "evidence": "Koch 2006, s.v. 'Christianity in the Celtic Countries'; Hughes 1966"
+  }
+}

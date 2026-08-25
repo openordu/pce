@@ -2,7 +2,7 @@
 layout: layouts/pce.njk
 title: Connacht
 icon: file-lines
-order: 536
+order: 609
 contributors: [ 'Christopher Godwin' ]
 attributes:
   - Conn a great legendary king of Tara
@@ -15,13 +15,13 @@ attributes:
   - Crúachu royal ceremonial complex in Roscommon, centre of the province
   - Connachta the lands are also named Leth Cuinn, the half of Conn
 categories:
+  - place
   - concept
+  - location
   - mythological figure
   - artifact
-  - place
-  - group
   - hero
-  - location
+  - group
   - dynasty
 entities:
   - Conn(mythological figure)

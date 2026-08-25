@@ -1,0 +1,56 @@
+{
+  "name": "Boii",
+  "text": "The Boii were a leading people of the eastern Celtic area. Their core lands stretched over Bohemia, most of Moravia, north-eastern Austria, northern Slovakia and northern Hungary. Other groups bearing the name Boii appear in northern Italy and in Gaul. It is possible that all of these groups began as branches of the north-eastern people who named Bohemia. In the later Hallstatt age Bohemia sat within a wider zone defined by shared material culture. Burial finds such as wagon graves point to wide links with the west. Bohemia was preliterate then, so proof of Celtic speech is absent, yet cultural ties make the region part of a wider continuum. Around 400 bc the hill-fort at Zavis was given up. Archaeologists see this period of sudden change as the work of Celtic war-bands entering Bohemia. They place this move within a Celtic migration that reached the sack of Rome about 387 bc.",
+  "entities": [
+    {
+      "entity": "Boii",
+      "type": "Group"
+    },
+    {
+      "entity": "Bohemia",
+      "type": "Place"
+    },
+    {
+      "entity": "Zavis",
+      "type": "Place"
+    },
+    {
+      "entity": "Viereckschanzen",
+      "type": "Artefact"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Boii",
+      "attribute": "gave their name to Bohemia"
+    },
+    {
+      "entity": "Boii",
+      "attribute": "occupied lands across central Europe"
+    },
+    {
+      "entity": "Boii",
+      "attribute": "also appear in northern Italy and Gaul"
+    },
+    {
+      "entity": "Bohemia",
+      "attribute": "formed part of the Hallstatt and La Tene culture zones"
+    }
+  ],
+  "sources": [
+    "Koch 2006, s.v. 'Boii'",
+    "Rankin, David. Celts and the Classical World. Routledge, 1996."
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Establishes the Boii as a chief eastern Celtic people whose name survives in Bohemia.",
+    "key_results": [
+      "Lists the main territory of the north-eastern Boii",
+      "Notes other Boii-attested groups in Italy and Gaul",
+      "Records the 400 bc changes linked to Celtic migration"
+    ],
+    "evidence": "Koch 2006, s.v. 'Boii'; Rankin 1996"
+  }
+}

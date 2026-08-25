@@ -1,0 +1,52 @@
+{
+  "name": "Christianity, Celtic",
+  "text": "The term Celtic Christian made one sacred family of all Celtic speakers. Modern scholars no longer accept any single Celtic Church. Practice of the faith varied widely across the lands. An Easter reckoning in an 84 year cycle spread through the region. That system travelled along with the devotion linked to Martin of Tours. Tonsure and baptism habits differed from place to place. Irish clerics followed a fuller Latin faith. No custom proved unique to the Celtic peoples alone. The story of a separate Celtic Church arose in the 19th century.",
+  "entities": [
+    {
+      "entity": "Iona",
+      "type": "Place"
+    },
+    {
+      "entity": "Brigit",
+      "type": "Person"
+    },
+    {
+      "entity": "Gildas",
+      "type": "Person"
+    },
+    {
+      "entity": "Colum Cille",
+      "type": "Person"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Ireland",
+      "value": "derived its Christian faith mainly from Britain"
+    },
+    {
+      "entity": "Easter",
+      "value": "kept to a divergent reckoning from the 6th century"
+    },
+    {
+      "entity": "Brigit",
+      "value": "insisted that the universal rule of Rome be set at Kildare"
+    }
+  ],
+  "sources": [
+    "Koch 2006, s.v. 'Christianity, Celtic'",
+    "Davies, Oliver. Celtic Christianity in Early Medieval Wales. Cardiff: University of Wales Press, 1996."
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Explain the debated idea of Celtic Christianity as a verified PCE node.",
+    "key_results": [
+      "Factual text written in CSG-style prose of over 150 characters.",
+      "Entities and attributes recorded for the churches and their customs.",
+      "Protected fields set to empty defaults."
+    ],
+    "evidence": "Koch 2006, s.v. 'Christianity, Celtic'; Davies 1996"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "name": "Breton early medieval manuscripts",
+  "text": "Breton early medieval manuscripts are the oldest written relics of Brittany. No manuscript older than the eighth century survives today. About thirty carved stones carry letters in an insular hand. The early Breton books show a strong Irish influence in their art. Monks copied the texts in small writing rooms. These scriptoria reached the zenith of craft in the ninth and early tenth centuries. Roughly one hundred copies survive from this glowing period. The four gospels form the core of the dwelling collection. Some books hold Old Breton glosses written in the margin. Such glosses are strong proof of a Breton origin. A few carry the obscure verse called Hisperica Famina. This is known today only through Breton copies. The copying created a lively two-way traffic across the Channel. Breton monks also fled the Viking raids of the tenth century. They carried these books into France and England with them. That is why no Breton manuscript stays in Brittany now. Their pages are spread across the libraries of Europe and beyond. The named scribes such as Junobrus signed a few of them. These manuscripts therefore record the genius of an early Breton church and its language.",
+  "entities": [
+    {
+      "entity": "Brittany",
+      "type": "Place"
+    },
+    {
+      "entity": "manuscripts",
+      "type": "Artifact"
+    },
+    {
+      "entity": "Old Breton",
+      "type": "Language"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "early medieval manuscripts",
+      "attribute": "the oldest written relics of Brittany"
+    },
+    {
+      "entity": "Old Breton glosses",
+      "attribute": "a strong sign of a Breton origin"
+    },
+    {
+      "entity": "early Breton scriptoria",
+      "attribute": "centres that reached a peak in the ninth and tenth centuries"
+    }
+  ],
+  "sources": [
+    "Koch 2006, s.v. 'Breton early medieval manuscripts'",
+    "Fleuriot, Les origines de la Bretagne"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Describe the date, making, and spread of the early Breton manuscripts.",
+    "key_results": [
+      "No Breton manuscript is older than the eighth century.",
+      "The Breton books show an insular hand and an Irish influence.",
+      "The scriptoria peaked in the ninth and early tenth centuries.",
+      "Breton glosses in the margins prove a Breton origin.",
+      "No Breton manuscript rests in Brittany today; they spread across Europe."
+    ],
+    "evidence": "Koch 2006, s.v. 'Breton early medieval manuscripts'; Fleuriot, Les Origines de la Bretagne."
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "name": "Chretien de Troyes",
+  "text": "Chretien de Troyes was a French poet of the later 12th century. He wrote court romances between about 1170 and 1190. His works built the Arthurian tradition on the Continent. He wrote in octosyllabic rhyming couplets. His romances include Erec and Enide and a poem about Yvan. He left the story of Perceval and the Grail unfinished. Later writers added endings to that tale. The romance of Erec and Enide may rest on older Welsh sources. The court poet's work shaped many later writers. The school disputes the debt to the Welsh and to Geoffrey.",
+  "entities": [
+    {
+      "entity": "Chretien de Troyes",
+      "type": "Person"
+    },
+    {
+      "entity": "Geoffrey of Monmouth",
+      "type": "Person"
+    },
+    {
+      "entity": "Perceval",
+      "type": "Text"
+    },
+    {
+      "entity": "Arthurian",
+      "type": "Concept"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Chretien de Troyes",
+      "value": "the most influential author of two French romances"
+    },
+    {
+      "entity": "Perceval",
+      "value": "a romance left unfinished at his death"
+    },
+    {
+      "entity": "Historia Regum Britanniae",
+      "value": "a probable source for much of the raw material"
+    }
+  ],
+  "sources": [
+    "Koch 2006, s.v. 'Chretien de Troyes'",
+    "Kelly, Douglas. Chretien de Troyes: An Analytic Bibliography. London: Grant and Cutler, 1976."
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Record Chretien de Troyes as a verified PCE node for the Arthurian romances.",
+    "key_results": [
+      "Factual text written in CSG-style prose of over 150 characters.",
+      "Entities and attributes recorded for the poet and his works.",
+      "Protected fields set to empty defaults."
+    ],
+    "evidence": "Koch 2006, s.v. 'Chretien de Troyes'; Kelly 1976"
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "name": "Caerfyrddin (Carmarthen)",
+  "text": "Caerfyrddin is a market town in south Wales. Its English name is Carmarthen. In the Middle Ages the town grew into the administrative centre of south Wales. The famous Black Book of Carmarthen is connected to this town. Owain Glyndwr captured the town in 1403 and again in 1405. A notable eisteddfod saw the poets meet at the castle in the 1400s. Dafydd ab Edmwnd won a silver chair there. Since the 1500s the town has served as county seat of Carmarthenshire. Between 1974 and 1993 it led a short-lived county called Dyfed. Much later Caerfyrddin became a centre for Welsh printing and publishing. William Spurrell founded a press here that made a well known Welsh dictionary.",
+  "entities": [
+    {
+      "entity": "Caerfyrddin",
+      "type": "Place"
+    },
+    {
+      "entity": "Carmarthen",
+      "type": "Place"
+    },
+    {
+      "entity": "Owain Glyndwr",
+      "type": "Person"
+    },
+    {
+      "entity": "Carmarthenshire",
+      "type": "Place"
+    },
+    {
+      "entity": "Dyfed",
+      "type": "Place"
+    },
+    {
+      "entity": "Dafydd ab Edmwnd",
+      "type": "Person"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Caerfyrddin",
+      "value": "market town in south Wales"
+    },
+    {
+      "entity": "Owain Glyndwr",
+      "value": "captured the town in 1403 and 1405"
+    },
+    {
+      "entity": "Carmarthenshire",
+      "value": "county town since the 1500s"
+    },
+    {
+      "entity": "Dafydd ab Edmwnd",
+      "value": "won an eisteddfod chair here"
+    }
+  ],
+  "sources": [
+    "Koch 2006, s.v. 'Caerfyrddin (Carmarthen)'",
+    "Davies, John. A History of Wales. Penguin, 1994."
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Record the entry as a verified PCE node.",
+    "key_results": [
+      "Factual text written in CSG between 500 and 800 chars.",
+      "Entities and attributes recorded for the entry.",
+      "Protected fields set to empty defaults."
+    ],
+    "evidence": [
+      "Koch 2006, s.v. 'Caerfyrddin (Carmarthen)'",
+      "Davies, John. A History of Wales. Penguin, 1994."
+    ]
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "name": "Anarawd ap Rhodri Mawr",
+  "text": "Anarawd ap Rhodri Mawr ruled Gwynedd from 878 to 916. He became the strongest king in Wales during his long reign. The contemporary writer Asser counted him among the six sons of Rhodri. In the 880s Anarawd made an alliance with Northumbria and its Viking king at York. This alliance was aimed against Alfred of Wessex. The southern Welsh kings instead joined Alfred, which blocked a unified Wales under Gwynedd. By the early 890s Anarawd had broken with the Vikings and submitted to Alfred. By 893 Asser could call most of Wales under Alfred's overkingship. His death notice crowns Anarawd as king of the Britons.",
+  "entities": [
+    {
+      "entity": "Anarawd ap Rhodri Mawr",
+      "type": "Person"
+    },
+    {
+      "entity": "Rhodri Mawr",
+      "type": "Person"
+    },
+    {
+      "entity": "Gwynedd",
+      "type": "Place"
+    },
+    {
+      "entity": "Alfred of Wessex",
+      "type": "Person"
+    },
+    {
+      "entity": "Vikings",
+      "type": "Group"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Anarawd ap Rhodri Mawr",
+      "attribute": "ruled Gwynedd from 878 to 916"
+    },
+    {
+      "entity": "Anarawd ap Rhodri Mawr",
+      "attribute": "allied with the Viking king of York in the 880s"
+    },
+    {
+      "entity": "Anarawd ap Rhodri Mawr",
+      "attribute": "submitted to Alfred of Wessex by the early 890s"
+    },
+    {
+      "entity": "Rhodri Mawr",
+      "attribute": "father of Anarawd and king of Gwynedd"
+    }
+  ],
+  "sources": [
+    "Koch 2006, s.v. 'Anarawd ap Rhodri Mawr'",
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Establishes Anarawd ap Rhodri Mawr as the powerful ninth-century king of Gwynedd and son of Rhodri.",
+    "key_results": [
+      "Dates his reign over Gwynedd as 878-916",
+      "Describes his shifting alliances with the Viking kings and with Alfred",
+      "Records his standing as king of the Britons in the annals"
+    ],
+    "evidence": "Koch 2006, s.v. 'Anarawd ap Rhodri Mawr'; Monaghan 2008"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "name": "Cruithin",
+  "text": "Cruithin, Cruithni is an Old Irish group name. It names the Picts of north Britain. A separate people, likely of British stock, bore the name on the northern and eastern coasts of Ulster in early medieval times. The chief kingdom of these Irish people was Dál nAraide, seated in the south of County Antrim. Congal Claen ruled as overking of Ulaid and fell in the fighting at Mag Roth in 637. The name ties to the Welsh Prydyn, meaning the Picts, and to the old name of Britain itself.",
+  "entities": [
+    {
+      "entity": "Cruithin",
+      "type": "People"
+    },
+    {
+      "entity": "Picts",
+      "type": "Group"
+    },
+    {
+      "entity": "Dál nAraide",
+      "type": "Group"
+    },
+    {
+      "entity": "Congal Claen",
+      "type": "Person"
+    },
+    {
+      "entity": "Ulaid",
+      "type": "Group"
+    },
+    {
+      "entity": "Prydyn",
+      "type": "Place"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Cruithin",
+      "attribute": "is the Old Irish name for the Picts and certain Ulster peoples"
+    },
+    {
+      "entity": "Dál nAraide",
+      "attribute": "was the chief Kingdom of the Irish Cruithin"
+    },
+    {
+      "entity": "Congal Claen",
+      "attribute": "died at the battle of Mag Roth in 637"
+    },
+    {
+      "entity": "Cruithin",
+      "attribute": "relates to the Welsh Prydyn and the name Britain"
+    }
+  ],
+  "sources": [
+    "Koch 2006, s.v. 'Cruithin'",
+    "Watson, W. J. The History of Celtic Place-Names in Northern Scotland. Edinburgh, 1926."
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Records Cruithin as the Old Irish name for the Picts and for Ulster peoples.",
+    "key_results": [
+      "Links Cruithin to the Picts and to the coast of Ulster",
+      "Names Dál nAraide as the chief kingdom of the Irish Cruithin",
+      "Traces the name to the Welsh Prydyn and the island name Britain"
+    ],
+    "evidence": "Koch 2006, s.v. 'Cruithin'"
+  }
+}

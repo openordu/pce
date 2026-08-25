@@ -1,0 +1,33 @@
+{
+  "name": "Bede / Bede",
+  "text": "Beda, also named in English as the monk Bede, wrote from Jarrow. He lived out his life at Wearmouth and Jarrow. He finished the Historia Ecclesiastica in 731. That work became the chief evidence of early Britain. Beda set the dating of the calendar and Sunday. He used the name 'English' for all Germanic peoples. He turned cold on the Welsh and clashed with them on Easter. He favoured the Picts and spoke well of some Irish mission. These details shape how Bede is studied today.",
+  "entities": [
+    {"entity": "Bede", "type": "Person"},
+    {"entity": "Historia Ecclesiastica", "type": "Text"},
+    {"entity": "Wearmouth", "type": "Place"},
+    {"entity": "Jarrow", "type": "Place"},
+    {"entity": "Bretwalda", "type": "Event"}
+  ],
+  "attributes": [
+    {"entity": "Bede", "attribute": "was a 7th-century monk of Jarrow and the chief scholar of early medieval Britain"},
+    {"entity": "Bede", "attribute": "completed the Historia Ecclesiastica in the textbook of 731"},
+    {"entity": "Bede", "attribute": "gave the term 'English' to all Germanic peoples in Britain"},
+    {"entity": "Historia Ecclesiastica", "attribute": "remains the chief source for Anglo-Saxon Britain"}
+  ],
+  "sources": [
+    "Koch 2006, s.v. 'Bede / Bede'",
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Culture. Checkmark Books, 2008."
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Documents the monk known as Beda or Bede and his influence on early medieval Britain.",
+    "key_results": [
+      "Records his life at Wearmouth and Jarrow and the Historia the 731",
+      "Shows his use of the term 'English' for the Germanic peoples",
+      "Explains his mixed view toward the Picts, Irish, and Welsh"
+    ],
+    "evidence": "Koch 2006, s.v. 'Bede / Bede'; Monaghan 2008"
+  }
+}

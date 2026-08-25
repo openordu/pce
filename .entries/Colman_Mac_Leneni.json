@@ -1,0 +1,59 @@
+{
+  "name": "Colman mac Leneni",
+  "text": "Colman mac Leneni, fully Colmán mac Lénéni, was a high-ranking Irish poet who died on 14 November 604. Scholars rank him among the earliest securely dated Gaelic poets. He founded and likely led the monastery of Cluain Uama at Cloyne in Munster. He was called an aithlaec, a word for a man who took up religion in mid-life. Saint Brenainn of Clonfert is said to have swayed him toward this calling. Later stories claim he set aside poetry after entering the monastery, yet the surviving verses show he kept writing Irish poetry until death. Seven fragments of his work survive, studied by Thurneysen and later by Liam Breatnach. His language is archaic Old Irish, with some terms that soon grew obsolete. Stylistically his verse stands between classical Old Irish syllabic verse and the free-form roscada. The fragments reveal a master of compact, telegraphic metaphor already shaped to a Christian setting.",
+  "entities": [
+    {
+      "entity": "Colmán mac Lénéni",
+      "type": "Person"
+    },
+    {
+      "entity": "Cloyne",
+      "type": "Place"
+    },
+    {
+      "entity": "Old Irish",
+      "type": "Language"
+    },
+    {
+      "entity": "Gaelic",
+      "type": "Language"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Colmán mac Lénéni",
+      "value": "early Irish poet who died on 14 November 604"
+    },
+    {
+      "entity": "Cloyne",
+      "value": "site of the monastery he founded"
+    },
+    {
+      "entity": "Old Irish",
+      "value": "archaic language of his surviving verses"
+    },
+    {
+      "entity": "Gaelic",
+      "value": "tradition in which his dated verse stands early"
+    }
+  ],
+  "sources": [
+    "Koch 2006, s.v. 'Colmán mac Lénéni'",
+    "Thurneysen, Rudolf. ZCP 19.193-205, edition of the surviving metrical fragments."
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Record the entry as a verified PCE node.",
+    "key_results": [
+      "Factual text written in the project's style above five hundred characters.",
+      "Entities and attributes recorded for the entry.",
+      "Protected fields set to empty defaults."
+    ],
+    "evidence": [
+      "Koch 2006, s.v. 'Colmán mac Lénéni'",
+      "Thurneysen, ZCP 19.193-205."
+    ]
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "name": "Celtomania",
+  "text": "Celtomania is strong enthusiasm for Celtic culture. This enthusiasm arose in France. It grew during a period of political unrest. Nationalist pride in France ran alongside it for a long time. Another force shaped the trend as well. The royalist counter powers of Chouannerie posed a threat. People also added generous French pride to the mix. Today both Celtoscepticism and Celtomania remain lively. Scholars still debate where such passion leads. Study of Breton identity and Celtic themes continues steadily.",
+  "entities": [
+    {
+      "entity": "Celtomania",
+      "type": "Concept"
+    },
+    {
+      "entity": "Celtoscepticism",
+      "type": "Concept"
+    },
+    {
+      "entity": "Breizh",
+      "type": "Place"
+    },
+    {
+      "entity": "Gaul",
+      "type": "Place"
+    },
+    {
+      "entity": "France",
+      "type": "Place"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Celtomania",
+      "value": "intense enthusiasm for Celtic culture"
+    },
+    {
+      "entity": "Celtomania",
+      "value": "closely tied to French nationalist pride"
+    },
+    {
+      "entity": "Celtoscepticism",
+      "value": "the critical doubt set against Celtomania"
+    },
+    {
+      "entity": "France",
+      "value": "the land where Celtomania first took shape"
+    }
+  ],
+  "sources": [
+    "Koch 2006, s.v. 'Celtomania'",
+    "Williams, Heather. 'Celtomania and Celtoscepticism in France.' French Studies 57 (2003)."
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Record Celtomania as a verified PCE node.",
+    "key_results": [
+      "Factual text written in CSG of at least 150 characters.",
+      "Entities and attributes recorded for the entry.",
+      "Protected fields set to empty defaults."
+    ],
+    "evidence": [
+      "Koch 2006, s.v. 'Celtomania'",
+      "Williams, Heather. 'Celtomania and Celtoscepticism in France.' French Studies 57 (2003)."
+    ]
+  }
+}

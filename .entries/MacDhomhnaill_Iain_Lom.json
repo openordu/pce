@@ -1,0 +1,33 @@
+{
+  "name": "Iain Lom (MacDhòmhnaill)",
+  "text": "Iain Lom was a Scottish Gaelic poet. His family name is MacDhomhnaill. He wrote from about 1624 to after 1707. He supported the MacDonalds. He came from the Keppoch branch. Stories about his life vary. Some say he could not read. Others say he studied for the priesthood in Spain. His poems cover family and national matters. He wrote a song about the battle at Inverlochy. He mocked the Campbells in that poem. He wrote about the death of a Keppoch chief. He wrote on the return of King Charles in 1660. He wrote against the Union of 1707. He praised the leader Montrose.",
+  "entities": [
+    {"entity": "Iain Lom", "type": "Person"},
+    {"entity": "MacDhomhnaill", "type": "Person"},
+    {"entity": "MacDonalds", "type": "Group"},
+    {"entity": "Keppoch", "type": "Group"},
+    {"entity": "Montrose", "type": "Person"}
+  ],
+  "attributes": [
+    {"entity": "Iain Lom", "attribute": "was a Scottish Gaelic poet"},
+    {"entity": "Iain Lom", "attribute": "supported the MacDonalds"},
+    {"entity": "Iain Lom", "attribute": "was a member of the Keppoch line"},
+    {"entity": "MacDhomhnaill", "attribute": "is the poet's family name"}
+  ],
+  "sources": [
+    "Koch 2006, s.v. 'MacDhòmhnaill, Iain Lom'",
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Establishes Iain Lom as a Scottish Gaelic poet and supporter of the MacDonalds.",
+    "key_results": [
+      "Names him a Scottish Gaelic poet",
+      "Puts his writing years from about 1624 to after 1707",
+      "Places him in the Keppoch branch"
+    ],
+    "evidence": "Koch 2006, s.v. 'MacDhòmhnaill, Iain Lom'; Monaghan 2008"
+  }
+}

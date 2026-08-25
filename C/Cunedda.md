@@ -2,7 +2,7 @@
 layout: layouts/pce.njk
 title: Cunedda
 icon: file-lines
-order: 612
+order: 697
 contributors: [ 'Christopher Godwin' ]
 attributes:
   - Cunedda a Welsh hero
@@ -10,10 +10,10 @@ attributes:
   - Cunedda came with his eight sons
   - Gwynedd its ruling lines carry his name
 categories:
-  - group
-  - hero
   - Place
+  - hero
   - place
+  - group
 entities:
   - Cunedda(hero)
   - Wales(place)

@@ -1,0 +1,52 @@
+{
+  "name": "Alchfrith",
+  "text": "Alchfrith was a son of Oswydd, king of the Northumbrians. He stood as heir apparent at the battle of Winwæd in 655. His father refused his wish to make a pilgrimage to Rome with Saint Benedict. That refusal helped his half-brother Ecgfrith pass him in the succession. Alchfrith opposed the Irish clergy and their teaching. The Welsh Historia Brittonum names him, while the Irish sources omit him. His end is unknown; a quiet retirement to religion appears likely.",
+  "entities": [
+    {
+      "entity": "Alchfrith",
+      "type": "Person"
+    },
+    {
+      "entity": "Oswydd",
+      "type": "Person"
+    },
+    {
+      "entity": "Ecgfrith",
+      "type": "Person"
+    },
+    {
+      "entity": "Historia Brittonum",
+      "type": "Text"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Alchfrith",
+      "attribute": "son of the Northumbrian king Oswydd"
+    },
+    {
+      "entity": "Alchfrith",
+      "attribute": "passed in the succession by his half-brother Ecgfrith"
+    },
+    {
+      "entity": "Historia Brittonum",
+      "attribute": "the only Welsh source that names Alchfrith"
+    }
+  ],
+  "sources": [
+    "Koch 2006, s.v. 'Alchfrith'",
+    "Beda, Historia Ecclesiastica"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Describe the Northumbrian prince Alchfrith and his place.",
+    "key_results": [
+      "He was the son of King Oswydd and heir at the battle of Winwæd in 655.",
+      "His father barred his pilgrimage to Rome, and Ecgfrith passed him in the succession.",
+      "The Welsh Historia Brittonum names him, but the Irish sources omit him."
+    ],
+    "evidence": "Koch 2006, s.v. 'Alchfrith'; Beda, Historia Ecclesiastica."
+  }
+}

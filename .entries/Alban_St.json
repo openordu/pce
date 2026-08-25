@@ -1,0 +1,43 @@
+{
+  "name": "Alban, St",
+  "entities": [
+    {"entity": "Alban, St", "type": "Person"},
+    {"entity": "Verulamium", "type": "Place"},
+    {"entity": "St Albans", "type": "Place"},
+    {"entity": "Gildas", "type": "Person"},
+    {"entity": "Beda", "type": "Person"},
+    {"entity": "Diocletian", "type": "Person"},
+    {"entity": "Christianity", "type": "Concept"},
+    {"entity": "Germanus", "type": "Person"}
+  ],
+  "attributes": [
+    {"entity": "Alban, St", "attribute": "Romano-British martyr remembered as protomartyr of Britain"},
+    {"entity": "Alban, St", "attribute": "a soldier at Verulamium who sheltered a Christian"},
+    {"entity": "Alban, St", "attribute": "converted, exchanged clothes, and died in the man's place"},
+    {"entity": "Alban, St", "attribute": "his burial place became a centre of cult and healing"},
+    {"entity": "Alban, St", "attribute": "death dated to the Diocletianic persecution, ad 302-305"},
+    {"entity": "Verulamium", "attribute": "the Roman town now called St Albans"},
+    {"entity": "Gildas", "attribute": "De Excidio Britanniae supplies the standard account"},
+    {"entity": "Beda", "attribute": "Historia Ecclesiastica draws on the Passio Albani"},
+    {"entity": "Germanus", "attribute": "Gallo-Roman bishop who visited the site in ad 429"}
+  ],
+  "sources": [
+    "Koch 2006, s.v. 'Alban, St'",
+    "Gildas, De Excidio Britanniae 10-11",
+    "Beda, Historia Ecclesiastica 1.7"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "text": "Saint Alban was a Romano-British martyr of Britain. Latin sources call him Albanus Verolamiensis, from the town Verulamium. That town today carries the name St Albans. Alban served as a pagan Roman soldier. During the Diocletian persecution ad 302-305 a Christian asked him for shelter. Alban hid the man and then took his faith. He swapped clothes with the Christian and faced the arrest in his place. The executioner then beheaded him. Both Gildas and Beda record his death. Beda's Historia Ecclesiastica 1.7 draws the account from the Passio Albani. Gildas sets his death as the revival of faith in Britain. His tomb became a place of healing. Gallo-Roman bishops such as Germanus reached the site in ad 429. He stands as the protomartyr of Britain. His cult rose through the Anglo-Saxon conquest in south-east Britain.",
+  "okr": {
+    "objective": "This entry records the passion of Saint Alban and his place as protomartyr of Britain.",
+    "key_results": [
+      "Alban sheltered a persecuted Christian, converted, and died in his place about ad 302-305.",
+      "Gildas's De Excidio Britanniae and Beda's Historia Ecclesiastica both record his death.",
+      "His tomb site at Verulamium, now St Albans, grew into a cult and healing place.",
+      "Gallo-Roman bishops such as Germanus reached his tomb in ad 429."
+    ],
+    "evidence": "Koch 2006, s.v. 'Alban, St'; Gildas, De Excidio Britanniae 10-11; Constantinus, Vita Germani"
+  }
+}

@@ -1,0 +1,53 @@
+{
+    "name": "Cadelling",
+    "attributes": [
+        {
+            "entity": "Cadelling",
+            "attribute": "a dynasty of early Wales made up of the descendants of Cadell"
+        },
+        {
+            "entity": "Powys",
+            "attribute": "the Welsh kingdom where the later Cadelling were at home"
+        },
+        {
+            "entity": "Cadell",
+            "attribute": "the founding ancestor of the Cadelling line"
+        }
+    ],
+    "entities": [
+        {
+            "entity": "Cadelling",
+            "type": "Group"
+        },
+        {
+            "entity": "Powys",
+            "type": "Place"
+        },
+        {
+            "entity": "Cadell",
+            "type": "Person"
+        },
+        {
+            "entity": "Cynfeirdd",
+            "type": "Group"
+        }
+    ],
+    "sources": [
+        "Koch 2006, s.v. 'Cadelling'",
+        "Jackson, Kenneth. Language and History in Early Britain. Edinburgh University Press, 1953."
+    ],
+    "image": [],
+    "cyphertext": "",
+    "salt": "",
+    "text": "Cadelling names a dynasty, the heirs of Cadell, in early Wales. The family rose to power in the north-eastern reaches of that land. They appear in the praise verse of the Cynfeirdd. One poem calls Cynan Garwyn a man of the Cadelling line. By 829 the descendants sat in Powys. Their ancestor began as a low-born man who won the crown. A wicked tyrant named Benli fell by heavenly fire. St Germanus acted in that tale as the agent of change. Their first known king fell in a fight at Chester. A rival house of Powys showed an open hatred for the Cadelling line.",
+    "okr": {
+        "objective": "Present the Cadelling as a north-east Welsh royal dynasty of the early Middle Ages.",
+        "key_results": [
+            "The dynasty appears in the early verse of the Cynfeirdd.",
+            "Its ancestor Cadell began as a low-born figure who took the crown.",
+            "By 829 the descendants of Cadell sat in Powys.",
+            "A rival house of Powys showed open hostility toward the Cadelling."
+        ],
+        "evidence": "Koch 2006, s.v. 'Cadelling'; Jackson 1953."
+    }
+}

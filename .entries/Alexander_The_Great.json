@@ -1,0 +1,52 @@
+{
+  "name": "Alexander the Great",
+  "text": "Alexander the Great, the Macedonian king Alexander III, lived from 356 to 323 BC. Celtic envoys from the Adriatic met him and won his audience. Asked what they feared most, they said they feared nothing but the sky falling. They prized his friendship above every danger. His link to the Celts runs through coinage. His gold and his father Philip II of Macedon's modeled the later Celtic money of Europe and Britain. The Book of Taliesin holds verse by Welsh poets, and the court poet Cynddelw likewise cast him as a martial paragon.",
+  "entities": [
+    {
+      "entity": "Alexander the Great",
+      "type": "Person"
+    },
+    {
+      "entity": "Philip II of Macedon",
+      "type": "Person"
+    },
+    {
+      "entity": "Book of Taliesin",
+      "type": "Text"
+    },
+    {
+      "entity": "Cynddelw",
+      "type": "Person"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Alexander the Great",
+      "attribute": "king of Macedonia, 356 to 323 BC"
+    },
+    {
+      "entity": "Alexander the Great",
+      "attribute": "welcomed Celtic envoys from the Adriatic"
+    },
+    {
+      "entity": "Philip II of Macedon",
+      "attribute": "his father, whose coinage the Celts copied"
+    }
+  ],
+  "sources": [
+    "Koch 2006, s.v. 'Alexander the Great'",
+    "Strabo, Geography 7.3.8"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Set down the meeting of Alexander and the Adriatic Celts and his fame in Celtic literature.",
+    "key_results": [
+      "Alexander, king of Macedonia, received the Celtic envoys from the Adriatic.",
+      "He asked the envoys what they feared; they answered the sky falling.",
+      "The Book of Taliesin poets and Cynddelw honour him as a martial paragon."
+    ],
+    "evidence": "Koch 2006, s.v. 'Alexander the Great'; Strabo, Geography 7.3.8."
+  }
+}

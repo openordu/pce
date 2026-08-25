@@ -1,0 +1,42 @@
+{
+  "name": "Agricola",
+  "entities": [
+    {"entity": "Gnaeus Julius Agricola", "type": "Person"},
+    {"entity": "Tacitus", "type": "Person"},
+    {"entity": "Ordovices", "type": "Group"},
+    {"entity": "Mona", "type": "Place"},
+    {"entity": "Caledonians", "type": "Group"},
+    {"entity": "Tay", "type": "Place"},
+    {"entity": "Forth", "type": "Place"},
+    {"entity": "Ireland", "type": "Place"},
+    {"entity": "mons Graupius", "type": "Place"},
+    {"entity": "Ptolemy", "type": "Person"}
+  ],
+  "attributes": [
+    {"entity": "Gnaeus Julius Agricola", "attribute": "Roman governor of Britain from about ad 78"},
+    {"entity": "Gnaeus Julius Agricola", "attribute": "son-in-law of the historian Tacitus"},
+    {"entity": "Gnaeus Julius Agricola", "attribute": "undertook conquest and a survey of northern Britain"},
+    {"entity": "Tacitus", "attribute": "wrote the biography known as the Agricola"},
+    {"entity": "Caledonians", "attribute": "fought against Agricola at mons Graupius"},
+    {"entity": "Tay", "attribute": "the river to which early campaigns advanced"},
+    {"entity": "Ptolemy", "attribute": "Geography preserves names gathered beyond the Roman frontier"}
+  ],
+  "sources": [
+    "Koch 2006, s.v. 'Agricola'",
+    "Tacitus, Agricola"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "text": "Gnaeus Julius Agricola governed Roman Britain from about ad 78. His son-in-law Tacitus wrote his biography, the book called the Agricola. Agricola crushed a revolt among the Ordovices of north Wales. He led a second takeover of Mona, the island now called Anglesey. He pushed to the river Tay and built forts to hold the land. He secured the isthmus between the Clyde and the Forth. Roman scouts sailed completely round the island. He considered invading Ireland but never did so. In later seasons the Caledonians resisted him. His army won a victory at mons Graupius. His governorship ended around ad 85. Agricola means farmer in Latin. Welsh changes the name into Aergol. The place called Argol on the Breton peninsula keeps the same name. Tacitus supplies Celtic names and practices that later writers rely on for the early history of Britain.",
+  "okr": {
+    "objective": "This entry sets out Agricola's campaigns and rule in Britain and the value of Tacitus's biography.",
+    "key_results": [
+      "Agricola governed Britain from about ad 78 and crushed an Ordovices revolt in north Wales.",
+      "His scouts sailed around Britain and he weighed an invasion of Ireland.",
+      "He defeated the Caledonians at mons Graupius and his rule ran to about ad 85.",
+      "Tacitus's biography preserves Celtic names and places of the period."
+    ],
+    "evidence": "Koch 2006, s.v. 'Agricola'; Tacitus, Agricola"
+  }
+}

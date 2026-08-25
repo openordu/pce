@@ -2,7 +2,7 @@
 layout: layouts/pce.njk
 title: Concobar mac Nessa
 icon: file-lines
-order: 512
+order: 601
 contributors: [ 'Christopher Godwin' ]
 attributes:
   - Aithirne composed a deadly satire
@@ -12,10 +12,10 @@ attributes:
   - Derdriu the young woman taken by the king
   - Concobar mac Nessa cast as a smaller rival beside the hero whom he lay
 categories:
+  - Person
+  - artifact
   - group
   - mythological figure
-  - artifact
-  - Person
 entities:
   - Concobar mac Nessa(mythological figure)
   - Aithirne(mythological figure)

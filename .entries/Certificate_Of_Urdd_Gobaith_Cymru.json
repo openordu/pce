@@ -1,0 +1,59 @@
+{
+  "name": "Certificate of Urdd Gobaith Cymru",
+  "text": "The certificate of Urdd Gobaith Cymru admits a young person to the Welsh League of Youth. Urdd Gobaith Cymru is the Welsh word for the order. Members receive this certificate when they join. It shows the member number on the paper. The holder promises to keep seven rules. One rule is to speak Welsh with every child. Another rule is to buy and read Welsh books. Members must also sing Welsh songs. They must play in Welsh at all times. The leader Ifan ab Owen Edwards signed the certificate. The organisation runs a large annual youth festival. Around 45,000 members compete in it.",
+  "entities": [
+    {
+      "entity": "Urdd Gobaith Cymru",
+      "type": "Institution"
+    },
+    {
+      "entity": "Welsh League of Youth",
+      "type": "Institution"
+    },
+    {
+      "entity": "Ifan ab Owen Edwards",
+      "type": "Person"
+    },
+    {
+      "entity": "Cymru",
+      "type": "Place"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Urdd Gobaith Cymru",
+      "value": "the Welsh youth organisation behind the certificate"
+    },
+    {
+      "entity": "Certificate of Urdd Gobaith Cymru",
+      "value": "proof of membership carrying a signed member number"
+    },
+    {
+      "entity": "Welsh League of Youth",
+      "value": "the English name for the Urdd"
+    },
+    {
+      "entity": "Ifan ab Owen Edwards",
+      "value": "founder who signed the membership certificate"
+    }
+  ],
+  "sources": [
+    "Koch 2006, s.v. 'Certificate of Urdd Gobaith Cymru'",
+    "Griffith, B. Urdd Gobaith Cymru and the Welsh Youth Movement."
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Record the Urdd Gobaith Cymru certificate as a verified PCE node.",
+    "key_results": [
+      "Factual text written in CSG of at least 150 characters.",
+      "Entities and attributes recorded for the entry.",
+      "Protected fields set to empty defaults."
+    ],
+    "evidence": [
+      "Koch 2006, s.v. 'Certificate of Urdd Gobaith Cymru'",
+      "Griffith, B. Urdd Gobaith Cymru."
+    ]
+  }
+}
