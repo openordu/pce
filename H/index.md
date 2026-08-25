@@ -19,6 +19,7 @@ layout: layouts/pce.njk
 - [Haxey_Hood_Games](Haxey_Hood_Games)
 - [hazel_tree](hazel_tree)
 - [head](head)
+- [head_cult](head_cult)
 - [healing](healing)
 - [healing_stones](healing_stones)
 - [hearth](hearth)

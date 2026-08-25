@@ -10,6 +10,7 @@ layout: layouts/pce.njk
 - [wasteland](wasteland)
 - [water](water)
 - [water-leaper](water-leaper)
+- [watery_depositions](watery_depositions)
 - [waulking_songs](waulking_songs)
 - [Wayland](Wayland)
 - [weasel](weasel)

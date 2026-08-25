@@ -50,6 +50,7 @@ layout: layouts/pce.njk
 - [Devil_s_Father](Devil_s_Father)
 - [Devil_s_Mother](Devil_s_Mother)
 - [Devona](Devona)
+- [dialog_etre_arzur](dialog_etre_arzur)
 - [Diana](Diana)
 - [Dian_Cécht](Dian_Cécht)
 - [Diarmait__king_of_Tara](Diarmait__king_of_Tara)

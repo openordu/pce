@@ -20,6 +20,7 @@ layout: layouts/pce.njk
 - [immrama](immrama)
 - [imp](imp)
 - [imram](imram)
+- [imtheachta_aeniasa](imtheachta_aeniasa)
 - [inauguration](inauguration)
 - [inauguration_stones](inauguration_stones)
 - [incantations](incantations)
