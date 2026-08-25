@@ -62,6 +62,7 @@ layout: layouts/pce.njk
 - [Biddy_Mannion](Biddy_Mannion)
 - [bilberry](bilberry)
 - [Billy_Blind](Billy_Blind)
+- [biniou_and_bombard](biniou_and_bombard)
 - [birch_tree](birch_tree)
 - [bird](bird)
 - [Biróg](Biróg)

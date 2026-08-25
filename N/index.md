@@ -13,6 +13,7 @@ layout: layouts/pce.njk
 - [Nasciens](Nasciens)
 - [Natosuelta](Natosuelta)
 - [nature](nature)
+- [nature_poetry](nature_poetry)
 - [Navan_Fort](Navan_Fort)
 - [Navel_Stone](Navel_Stone)
 - [Nechtan](Nechtan)

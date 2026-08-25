@@ -9,6 +9,7 @@ layout: layouts/pce.njk
 - [Mac_Conglinne](Mac_Conglinne)
 - [Mac_Cuill](Mac_Cuill)
 - [Mac_Dathó](Mac_Dathó)
+- [macgregor_poetry](macgregor_poetry)
 - [Mac_Gréine](Mac_Gréine)
 - [Macha](Macha)
 - [MacInelly](MacInelly)

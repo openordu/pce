@@ -101,6 +101,7 @@ layout: layouts/pce.njk
 - [City_of_Ys](City_of_Ys)
 - [Clan_Baíscne](Clan_Baíscne)
 - [Clan_Morna](Clan_Morna)
+- [clanranald_the_books_of](clanranald_the_books_of)
 - [Clarine](Clarine)
 - [Clarisant](Clarisant)
 - [Clas_Myrddin](Clas_Myrddin)

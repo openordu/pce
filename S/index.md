@@ -28,6 +28,7 @@ layout: layouts/pce.njk
 - [Scenmed](Scenmed)
 - [Sceolan](Sceolan)
 - [Scota](Scota)
+- [scottish_gaelic_poetry](scottish_gaelic_poetry)
 - [Scythia](Scythia)
 - [sea_fairies](sea_fairies)
 - [seal](seal)
@@ -125,4 +126,5 @@ layout: layouts/pce.njk
 - [swan_maiden](swan_maiden)
 - [swarth](swarth)
 - [Sweeney](Sweeney)
+- [swords](swords)
 - [sympathetic_magic](sympathetic_magic)
