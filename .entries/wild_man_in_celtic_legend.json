@@ -1,0 +1,60 @@
+{
+    "name": "wild man in Celtic legend",
+    "text": "The wild man of Celtic legend is a figure tied to battle and madness. Myrddin Wyllt is the Welsh type, known in Latin as Merlinus. Lailoken belongs to Scotland, and Suibne Geilt to Ireland. These three share one wandering tale. A warrior prince loses his reason after a bad defeat and flees into the woods. He lives like a wild beast, grieves for his fallen comrades, and forecasts his own death. The clash at Arfderydd, about the year 573, drove Myrddin mad. At Mag Roth, a fight in the year 637, Suibne likewise went insane. Myrddin mourned in the northern wilds, guilt-ridden for crimes he could not undo. In the tale Buile Shuibne, Suibne runs from the field like a bird. The legend lives in old texts and shows the madman dwelling out of doors. It ranks among the earliest European stories of the forest dweller gone wild. Its shape also recalls the biblical king who lived like a beast under heavenly punishment.",
+    "okr": {
+        "objective": "This entry tracks the Celtic wild-man figure shared by the Myrddin, Lailoken, and Suibne traditions.",
+        "key_results": [
+            "Myrddin Wyllt, Lailoken, and Suibne Geilt share one legend.",
+            "The mad warrior flees to the wild after the battles of Arfderydd and Mag Roth.",
+            "The tale blends grief, penance, and a foreseen death."
+        ],
+        "evidence": "Koch 2006, s.v. wild man in Celtic legend."
+    },
+    "entities": [
+        {
+            "entity": "Myrddin Wyllt",
+            "type": "figure"
+        },
+        {
+            "entity": "Lailoken",
+            "type": "figure"
+        },
+        {
+            "entity": "Suibne Geilt",
+            "type": "figure"
+        },
+        {
+            "entity": "Arfderydd",
+            "type": "place"
+        },
+        {
+            "entity": "Mag Roth",
+            "type": "place"
+        },
+        {
+            "entity": "Buile Shuibne",
+            "type": "text"
+        }
+    ],
+    "attributes": [
+        {
+            "entity": "wild man in Celtic legend",
+            "attribute": "man who flees into the wood after a defeat in battle"
+        },
+        {
+            "entity": "Myrddin Wyllt",
+            "attribute": "Welsh wild man driven mad at battle and exiled to the forest"
+        },
+        {
+            "entity": "Suibne Geilt",
+            "attribute": "Irish wild man who runs from the battle like a bird"
+        }
+    ],
+    "sources": [
+        "Koch 2006, s.v. \"wild man in Celtic legend\""
+    ],
+    "image": [],
+    "cyphertext": "",
+    "salt": "",
+    "order": 2371
+}

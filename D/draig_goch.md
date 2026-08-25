@@ -1,0 +1,58 @@
+---
+layout: layouts/pce.njk
+title: DRAIG Goch
+icon: file-lines
+order: 745
+contributors: [ 'Christopher Godwin' ]
+attributes:
+  - DRAIG Goch the red dragon emblem on the flag of Wales
+  - Historia Brittonum records a red dragon that defeats a white one
+  - draig the Welsh word for the dragon
+  - gwiber a Welsh winged serpent
+categories:
+  - text
+  - concept
+  - work
+  - place
+  - legend
+entities:
+  - DRAIG Goch(legend)
+  - Wales(place)
+  - Historia Brittonum(work)
+  - draig(concept)
+  - Cyfranc Lludd a Llefelys(text)
+  - Cymru(place)
+  - gwiber(concept)
+tags:
+  - DRAIG Goch
+  - Wales
+  - Historia Brittonum
+  - draig
+  - Cyfranc Lludd a Llefelys
+  - Cymru
+  - gwiber
+---
+``` tab [group1:Info]
+::: magazinestyle
+The phrase Draig Goch means the red dragon in the Welsh tongue. The red dragon is the living emblem of the Welsh, worn on their flag. The sign shows a red dragon on a field of green and white. That field became the national flag of the land in the year 1959. The dragon is a four-footed beast with wings and a tail. Tales of dragons run wide across the cultures. Most of the words that name the dragon in the Celtic tongues came from foreign source. The Welsh draig and the old Irish draug both come from the Latin draco, which itself rose from a Greek word. Yet dragon lore was long rooted among the Celts, and they were not bound to the borrowed names. A ram-horned serpent shown on the great northern bowl is one such image on a ritual object. To some the dragon blocks the flow of new work. In the tales the beast holds a hoard for the waiting hero. The legend of the red dragon held against a white dragon is told for the land of Cymru. In the old Latin history named the Historia Brittonum, the red dragon conquers the white dragon at the stronghold of the king. A Middle Welsh work called the Cyfranc Lludd a Llefelys sets out the same combat for Wales. The bard of the history of the round table gave his king a father whose very name held the dragon word. Early Welsh verse joins the dragon to the courage of warriors. In later age the sons of a Welsh line set the red dragon on their arms. One prince carried a red dragon on a field of green and white at his battle. In the time of the king the dragon became a badge of the royal claim. A serpent of the land called a gwiber could grow wings after it drank the milk of a woman and ate a blessed bread. Some set a good snake that brought wealth to a house. The red dragon came to stand for the whole of the Welsh. It is a sign set on the flag, on the packet, on the sign, and on the road of the visitor to the land.
+
+:::
+```
+``` tab [group1:Attributes]
+- **DRAIG Goch**: the red dragon emblem on the flag of Wales
+- **Historia Brittonum**: records a red dragon that defeats a white one
+- **draig**: the Welsh word for the dragon
+- **gwiber**: a Welsh winged serpent
+```
+``` tab [group1:Entities]
+- **DRAIG Goch**: legend
+- **Wales**: place
+- **Historia Brittonum**: work
+- **draig**: concept
+- **Cyfranc Lludd a Llefelys**: text
+- **Cymru**: place
+- **gwiber**: concept
+```
+``` tab [group1:Sources]
+- Koch 2006, s.v. "DRAIG Goch"
+```

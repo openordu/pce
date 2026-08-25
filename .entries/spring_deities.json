@@ -1,0 +1,60 @@
+{
+    "name": "spring deities",
+    "text": "Spring deities were local divinities honoured in the religious landscape of the ancient Celts. They guarded water sources, wells, and shrines. The goddess Sequana received worship at her cult site beside the source of the Seine. People dropped offerings into the waters at Chamalières in Gaul and at the shrine of Sulis in Bath. These spring deities were almost always female. In Christian times many of the same places survived as holy wells. Local male saints often took charge of them. One Cornish well stood under the care of St Austell. River gods could be destructive. The goddess Bóand of the Boyne stands for that fierce side of water. Springs, by contrast, brought fresh water that people believed rose from the otherworld, and they were tied to healing. Sacred springs also fed local tales, such as a Scottish claim that a well moved from one island to another because a woman washed her hands in it. A badly kept spring could turn into a ruinous torrent. Some springs were home to frightful spirits, such as the Welsh water-horse. People held an ambivalent view of springs; they were at once healing and dangerous.",
+    "okr": {
+        "objective": "This entry documents the local water deities that honoured springs in Celtic belief.",
+        "key_results": [
+            "Sequana was worshipped at a cult site at the source of the Seine.",
+            "Offerings were placed in shrines such as Chamalières and the Sulis shrine at Bath.",
+            "The spring deities were mostly female and many of their sites became holy wells."
+        ],
+        "evidence": "Koch 2006, s.v. spring deities; Victoria Simmons."
+    },
+    "entities": [
+        {
+            "entity": "Sequana",
+            "type": "deity"
+        },
+        {
+            "entity": "Bóand",
+            "type": "deity"
+        },
+        {
+            "entity": "Sulis",
+            "type": "deity"
+        },
+        {
+            "entity": "Chamalières",
+            "type": "place"
+        },
+        {
+            "entity": "Bath",
+            "type": "place"
+        },
+        {
+            "entity": "St Austell",
+            "type": "figure"
+        }
+    ],
+    "attributes": [
+        {
+            "entity": "spring deities",
+            "attribute": "local divinities of springs and water sources"
+        },
+        {
+            "entity": "Sequana",
+            "attribute": "goddess worshipped at the source of the Seine"
+        },
+        {
+            "entity": "Sulis",
+            "attribute": "deity honoured at the shrine in Bath"
+        }
+    ],
+    "sources": [
+        "Koch 2006, s.v. \"spring deities\""
+    ],
+    "image": [],
+    "cyphertext": "",
+    "salt": "",
+    "order": 2115
+}

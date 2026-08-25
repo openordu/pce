@@ -36,6 +36,7 @@ layout: layouts/pce.njk
 - [oracle](oracle)
 - [oracular_head](oracular_head)
 - [Orc_Triath](Orc_Triath)
+- [ordinalia](ordinalia)
 - [Orlám](Orlám)
 - [Oscar](Oscar)
 - [Otherworld](Otherworld)

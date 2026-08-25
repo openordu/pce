@@ -97,6 +97,7 @@ layout: layouts/pce.njk
 - [spiral](spiral)
 - [spriggans](spriggans)
 - [spring](spring)
+- [spring_deities](spring_deities)
 - [spring_equinox](spring_equinox)
 - [Sreng](Sreng)
 - [stag](stag)

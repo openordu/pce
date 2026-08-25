@@ -135,6 +135,7 @@ layout: layouts/pce.njk
 - [Conaire](Conaire)
 - [Conall](Conall)
 - [Conán](Conán)
+- [conan_meriadoc](conan_meriadoc)
 - [Conaran](Conaran)
 - [Concobar_mac_Nessa](Concobar_mac_Nessa)
 - [Condatis](Condatis)

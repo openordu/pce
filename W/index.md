@@ -16,4 +16,5 @@ layout: layouts/pce.njk
 - [weasel](weasel)
 - [well](well)
 - [welsh_poetry](welsh_poetry)
+- [wild_man_in_celtic_legend](wild_man_in_celtic_legend)
 - [wild_man_in_Celtic_legend](wild_man_in_Celtic_legend)

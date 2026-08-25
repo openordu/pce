@@ -1,0 +1,50 @@
+---
+layout: layouts/pce.njk
+title: Macsen Wledig
+icon: file-lines
+order: 1560
+contributors: [ 'Christopher Godwin' ]
+attributes:
+  - Macsen Wledig the Welsh name for the Roman commander
+  - Elen the British woman whom Macsen marries
+  - Brittany the region that his host is said to settle
+  - Historia Brittonum a Latin history that records his people in the land
+categories:
+  - work
+  - figure
+  - place
+entities:
+  - Macsen Wledig(figure)
+  - Magnus Maximus(figure)
+  - Elen(figure)
+  - Historia Brittonum(work)
+  - Brittany(place)
+tags:
+  - Macsen Wledig
+  - Magnus Maximus
+  - Elen
+  - Historia Brittonum
+  - Brittany
+---
+``` tab [group1:Info]
+::: magazinestyle
+Macsen Wledig is the Welsh name given to the Roman commander Magnus Maximus. The Middle Welsh tale Breuddwyd Macsen tells his story. Modern readers translate that title as the Dream of Macsen. Charlotte Guest placed the tale among the twelve texts of her Mabinogion. In the story Macsen is a king of Rome. Weary after the day, he falls asleep and has a vision. He sees a fair land behind steep hills and in it a fine castle with a lovely maiden. He loves her at once and wakes with a heavy heart. He sends an envoy to seek the woman. They find Elen, the daughter of Eudaf, living in the north of Wales. Later writers name her Elen Luyddag. Macsen and Elen are married and she rules as queen. She orders the building of three Roman fortresses across Britain. The foremost of these is near a fort in a western corner of the island. Then Rome calls him back because the realm is in disorder. He goes with Elen's brother Cynan and a British host. They remain on the mainland in the region that later becomes Brittany. That is why a Brythonic speech akin to Welsh is heard there. The name Macsen arose from the joining of the Latin names Maximus and Maxentius. The account rests upon a true figure. Magnus Maximus came from far Spain in the Roman world. In the year 383 the troops based in Britain named him emperor. He crossed the sea and put an end to the western ruler Gratian. He held power over Gaul, Spain, and wide parts of the west. His rule later collapsed. The writer Gildas mourned that the isle lost its youth to a war that never brought them home. The Latin history now known as the Historia Brittonum holds that the soldiery of Magnus with their families settled in Armorica. From them are said to spring the people of Brittany. The title gwledig, seen in the old Welsh, marks a great sovereign above the ranks.
+
+:::
+```
+``` tab [group1:Attributes]
+- **Macsen Wledig**: the Welsh name for the Roman commander
+- **Elen**: the British woman whom Macsen marries
+- **Brittany**: the region that his host is said to settle
+- **Historia Brittonum**: a Latin history that records his people in the land
+```
+``` tab [group1:Entities]
+- **Macsen Wledig**: figure
+- **Magnus Maximus**: figure
+- **Elen**: figure
+- **Historia Brittonum**: work
+- **Brittany**: place
+```
+``` tab [group1:Sources]
+- Koch 2006, s.v. "Macsen Wledig"
+```

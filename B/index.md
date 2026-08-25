@@ -58,6 +58,7 @@ layout: layouts/pce.njk
 - [Berecynthia](Berecynthia)
 - [Berguisa](Berguisa)
 - [Berrey_Dhone](Berrey_Dhone)
+- [beunans_ke](beunans_ke)
 - [Biddy](Biddy)
 - [Biddy_Early](Biddy_Early)
 - [Biddy_Mannion](Biddy_Mannion)

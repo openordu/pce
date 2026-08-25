@@ -89,6 +89,7 @@ layout: layouts/pce.njk
 - [Dowth](Dowth)
 - [dracae](dracae)
 - [dragon](dragon)
+- [draig_goch](draig_goch)
 - [dreams](dreams)
 - [Dreco](Dreco)
 - [druid_s_egg](druid_s_egg)
