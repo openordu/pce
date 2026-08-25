@@ -12,6 +12,10 @@
         {
             "entity": "GAUL",
             "attribute": "a land brought under Roman rule"
+        },
+        {
+            "entity": "Brittany",
+            "attribute": "in Breton the name is Breizh, and the western part stayed heavily Breton-speaking until the twentieth century"
         }
     ],
     "entities": [
@@ -22,25 +26,50 @@
         {
             "entity": "GAUL",
             "type": "Place"
+        },
+        {
+            "entity": "Breizh",
+            "type": "Place"
+        },
+        {
+            "entity": "Breizh-Izel",
+            "type": "Place"
+        },
+        {
+            "entity": "Breizh-Uhel",
+            "type": "Place"
+        },
+        {
+            "entity": "Nantes",
+            "type": "Place"
+        },
+        {
+            "entity": "Rennes",
+            "type": "Place"
+        },
+        {
+            "entity": "Gallo",
+            "type": "Language"
         }
     ],
     "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.",
+        "Koch 2006, s.v. 'breizh'"
     ],
     "image": [
         "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Satellite_picture_of_Brittany_-_NASA%2C_2002.jpg/1200px-Satellite_picture_of_Brittany_-_NASA%2C_2002.jpg"
     ],
     "cyphertext": "0xKrJgAbppb1TW7oOyFuXlRYEPTZKtd8oo16_x1dSLmAR7wpWDn4xgjuhWMjZgY=",
     "salt": "ZyRBBE_5fEkkupIXx11lqw==",
-    "text": "Brittany is a cross-reference in this book. It points the reader to GAUL. Gaul was an ancient Celtic land. That land now forms much of modern France. Rome brought it under its rule. The Gallic tribes shared a common language.",
+    "text": "Brittany is a land that faces the Atlantic on the Celtic fringe of France. The Breton speakers call the region Breizh. The western half, Breizh-Izel or Lower Brittany, was largely Breton in speech and way. The decline of the spoken tongue came fast in the twentieth century. The eastern half, Upper Brittany, is home to the cities of Nantes and Rennes. In those towns the near tongue is a Gallic dialect called Gallo, with a touch of Breton. In this book the name Brittany also points the reader toward the entry for GAUL.",
     "okr": {
-        "objective": "Route the reader from Brittany to the entry for GAUL.",
+        "objective": "Portray Brittany as a Celtic Atlantic land, its west a Breizh stronghold and its east home of French.",
         "key_results": [
-            "Brittany is a cross-reference in this book.",
-            "It points the reader to GAUL.",
-            "GAUL was an ancient Celtic land.",
-            "That land now forms much of modern France."
+            "Brittany faces the Atlantic and the Celtic fringe of France.",
+            "The west half Breankh-Izel kept the Breton tongue until the 20th century.",
+            "The east half holds Nantes and Rennes and speaks Gallo.",
+            "In this book the name also sends the reader to the entry for GAUL."
         ],
-        "evidence": "Monaghan 2008, s.v. 'Brittany'."
+        "evidence": "Koch 2006, s.v. 'breizh'; Monaghan 2008, s.v. 'Brittany'."
     }
 }
