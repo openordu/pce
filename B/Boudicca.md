@@ -2,7 +2,7 @@
 layout: layouts/pce.njk
 title: Boudicca
 icon: file-lines
-order: 0
+order: 331
 contributors: [ 'Christopher Godwin' ]
 attributes:
   - Boudicca a heroic queen of Britain
@@ -12,10 +12,10 @@ attributes:
   - Boudicca died by her own hand
   - Boudicca her name means the victorious woman
 categories:
-  - Group
-  - Place
-  - Deity
   - Person
+  - Deity
+  - Place
+  - Group
 entities:
   - Boudicca(Person)
   - Iceni(Group)
