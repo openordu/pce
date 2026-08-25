@@ -1,0 +1,79 @@
+{
+    "name": "Trojan legends",
+    "attributes": [
+        {
+            "entity": "Trojan legends",
+            "attribute": "claimed Trojan descent in Welsh and Irish tradition"
+        },
+        {
+            "entity": "Brutus",
+            "attribute": "legendary Trojan founder of Britain"
+        },
+        {
+            "entity": "Merugud Uilixis meic Leirtis",
+            "attribute": "Middle Irish tale of the wandering Ulysses"
+        },
+        {
+            "entity": "Togail Troí",
+            "attribute": "Middle Irish destruction of Troy"
+        },
+        {
+            "entity": "Lebor Gabála Érenn",
+            "attribute": "Irish text tracing descent from the Mediterranean"
+        }
+    ],
+    "entities": [
+        {
+            "entity": "Trojan legends",
+            "type": "Concept"
+        },
+        {
+            "entity": "Brutus",
+            "type": "Person"
+        },
+        {
+            "entity": "Togail Troí",
+            "type": "Text"
+        },
+        {
+            "entity": "Imtheachta Aeniasa",
+            "type": "Text"
+        },
+        {
+            "entity": "Lebor Gabála Érenn",
+            "type": "Text"
+        },
+        {
+            "entity": "Dares Phrygius",
+            "type": "Person"
+        },
+        {
+            "entity": "Vergil",
+            "type": "Person"
+        },
+        {
+            "entity": "Britain",
+            "type": "Place"
+        },
+        {
+            "entity": "Ireland",
+            "type": "Place"
+        }
+    ],
+    "sources": [
+        "Koch 2006, s.v. 'Trojan legends'"
+    ],
+    "image": [],
+    "cyphertext": "",
+    "salt": "",
+    "text": "The Trojan legends connect the medieval Celts to the fall of Troy. Welsh tradition said Brutus the Trojan founded Britain. It claimed a Trojan ancestry for the Britons. The Irish Lebor Gabála Érenn traced the Gaels through a Mediterranean descent. Middle Irish writers made Troy their own subject. Togail Troí turns the destruction of Troy into Gaelic. The tale drew on Dares Phrygius. These works anchor the Celtic world to the classical past.",
+    "okr": {
+        "objective": "Record how Welsh and Irish tradition claimed a Trojan and classical descent.",
+        "key_results": [
+            "Show Brutus the Trojan as founder of Britain",
+            "Show the Irish descent story in Lebor Gabála Érenn",
+            "Name the Middle Irish adaptations Togail Troí and Merugud Ulixis"
+        ],
+        "evidence": "Koch 2006, s.v. 'Trojan legends'"
+    }
+}

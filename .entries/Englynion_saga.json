@@ -1,0 +1,79 @@
+{
+    "name": "Englynion, saga",
+    "attributes": [
+        {
+            "entity": "saga englynion",
+            "attribute": "cycle of Welsh verse monologues"
+        },
+        {
+            "entity": "Llywarch Hen",
+            "attribute": "main speaker of his own cycle"
+        },
+        {
+            "entity": "Heledd",
+            "attribute": "female persona lamenting her brother"
+        },
+        {
+            "entity": "Cynddylan",
+            "attribute": "fallen hero mourned in Canu Heledd"
+        },
+        {
+            "entity": "Urien",
+            "attribute": "king of Rheged at the heart of a cycle"
+        }
+    ],
+    "entities": [
+        {
+            "entity": "englyn",
+            "type": "Poetic form"
+        },
+        {
+            "entity": "saga englynion",
+            "type": "Text"
+        },
+        {
+            "entity": "Llywarch Hen",
+            "type": "Person"
+        },
+        {
+            "entity": "Heledd",
+            "type": "Person"
+        },
+        {
+            "entity": "Cynddylan",
+            "type": "Person"
+        },
+        {
+            "entity": "Urien",
+            "type": "Person"
+        },
+        {
+            "entity": "Rheged",
+            "type": "Place"
+        },
+        {
+            "entity": "Culhwch",
+            "type": "Text"
+        },
+        {
+            "entity": "Wales",
+            "type": "Place"
+        }
+    ],
+    "sources": [
+        "Koch 2006, s.v. 'Englynion, saga'"
+    ],
+    "image": [],
+    "cyphertext": "",
+    "salt": "",
+    "text": "The saga englynion are a cycle of medieval Welsh verse. The englyn is a traditional stanza form. The saga cycles use it for old British legend. In the Llywarch Hen cycle, the aged hero speaks. He grieves the deaths of his sons in battle. In the Heledd cycle, a woman laments her fallen brother Cynddylan. The Urien cycle mourns the darkened court of Rheged. Heledd and Llywarch Hen shape the best-known cycles. Their lines survive in the englyn stanza.",
+    "okr": {
+        "objective": "Record the saga englynion and their chief speakers and cycles.",
+        "key_results": [
+            "Define the englyn verse form",
+            "Name Llywarch Hen and Heledd as main speakers",
+            "Show the Urien and Cynddylan cycles"
+        ],
+        "evidence": "Koch 2006, s.v. 'Englynion, saga'"
+    }
+}

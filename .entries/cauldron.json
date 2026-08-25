@@ -1,98 +1,134 @@
 {
-  "name": "cauldron",
-  "entities": [
-    {
-      "entity": "cauldron",
-      "type": "artifact"
-    },
-    {
-      "entity": "Arawn",
-      "type": "mythological figure"
-    },
-    {
-      "entity": "Dagda",
-      "type": "god"
-    },
-    {
-      "entity": "magical pigs",
-      "type": "animal"
-    },
-    {
-      "entity": "Pryderi",
-      "type": "character"
-    },
-    {
-      "entity": "Gwydion",
-      "type": "character"
-    },
-    {
-      "entity": "Annwn",
-      "type": "place"
-    },
-    {
-      "entity": "Amaethon",
-      "type": "god"
-    },
-    {
-      "entity": "Pwyll",
-      "type": "character"
-    },
-    {
-      "entity": "Hafgan",
-      "type": "character"
-    }
-  ],
-  "attributes": [
-    {
-      "entity": "cauldron",
-      "attribute": "parallels the Dagda"
-    },
-    {
-      "entity": "Arawn",
-      "attribute": "had magical pigs"
-    },
-    {
-      "entity": "magical pigs",
-      "attribute": "presented as a gift to Pryderi"
-    },
-    {
-      "entity": "Gwydion",
-      "attribute": "stole the pigs and was imprisoned"
-    },
-    {
-      "entity": "Amaethon",
-      "attribute": "took three magical animals of Arawn"
-    },
-    {
-      "entity": "Pwyll",
-      "attribute": "traded identities with Arawn for a year"
-    },
-    {
-      "entity": "Pwyll",
-      "attribute": "killed Hafgan in the Otherworld"
-    },
-    {
-      "entity": "Hafgan",
-      "attribute": "Arawn's rival for power"
-    }
-  ],
-  "sources": [
-    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-  ],
-  "image": [
-    "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Gulyas080.jpg/1200px-Gulyas080.jpg"
-  ],
-  "cyphertext": "-NPUmtdp88m-xcNcJhjbXBezGcQIVvdqFg0oSZEaipMKqZK-07FJV-VlhLH4Y45u0SLY1PAfATEEgD6GtApDBMri-W80Q8K_RkMkfB8evW_FUvpN6pZVDZwH80hiAke6jq7_t0BiLKXUNz5QQ-FCac1PdaHfUu3n0OLCAyUhYaHk1tU6dFhIsRlSl6Nl3PbGjWROyMOvs89GwihKQ8_bGzyi0Ys4iGsL6J61ddHX88DswrPK0hNYntdRzMgkJhCWM8hfSw8V0X-8_rcpNdP4fBRdIYJ_Lh-qHta6n-lI5ACFlhWfTitowOy1IGMspQ_F5JsS4BTVdOZGb7qF1eYL7szAhZL6I8G1iSMaPckDnouJ6a3RCcJ_D-iKAFKgieIYvjBWZAWBXPJbuaRJapy3b1HJlvMTZpT_3xobNWv1PPjxhUvt3QowUHNjSbXBhj5k-gUY9NQcduu9aXf9dTNIvW6gZvzxr8PWhO8rWyk155TzL85Kf5QApXoyaCP5tzeiC2r1lxO0WcALGEON_lr2W0WlgyktZewz6RQfT5F3jM_acqmxYxSzojzDnYceR1eKrhi6HG2tyDViZV6z_Ht1ZsDTmRn63WH_0rznCRRjV2ebZ5nCTN346cMhw6lA32lDryXHs0AXJddOpdpw2IpPkQiRaHbhuVsKTvDkiNm9Qrbk6qX48j4PY9HEODvlYy2h5ZoiItVaqE3I8F-bqa89NedneRCwPJRVlvAwhyMP28wbid8t5fKlYzOFupAYCbvolWzX66N8SSxLUogAUXKyEss_7Y5EqG3ABWa8uQHpMaonO8t27sqfDHN_qxRfukBjYXnBt_U9dpKyAYn5LZiL--gNSmi8d3WHZug6r-LY7avUO7-MzUitVDA3zWoRcKTpON6sCgEfm6oVYbwarmXoWGY0D-y2nsJHJQexeE0zK3f56lG5nCFpgAPi0Y44AWLbOsnd8DRZMtU8fDeRN7DQwLmTkvXDE9xessyCBmCgbiof8s6pzyUZ35VVW8qby-imsqnf53Z5Vvlu8oPIi7lkqlSusZ8Xi2nCcQ2CD5vyDMThwCbYe-kmmxEqRvyierNbOfhlcp_HL2iYtjOIG6JbOYKPjht-t5_fbaIccyac-SmHKyuGuC4GEFImLU5B_jr5pR3OYeCkV1DpaejHkTKhN048ZXVHXFGXk506PhS0oYb-RtOuT8qcs1AiTUEcMpFe_mKHIXC042X4lrYroW251t39-vN_OuWWBGZTpHuDcKrNJGU5oCiMtFTSdayigwOW3NNybXvYPzESzZ7heGfYH4paUQ9-UJvDZDI9H4xU_dHWfiBDicdztbcKujBVV_gWS5MJ7CGFVG4yfo_7F96VW7ur7KDNiDohDtipeFHXITaewjTGLXNL8Zqm6VgGJ-UO3kNAU2WQMPnRN9p4QyaOQ_uI994nhh9gx5AyEVaqFW7D8QyczM44QdHJMPpcCR2fAYSrxm98IV7m4GxrTVsCryEqiNSRM5bn9xbN18yk59q5x69fJvWTTbAydUeBb-xmMQSyGdUrHZF_6WVZXh1IIeHbF6j8FgTmocHpOII7rVWXGx9SGrFxry1RrOk-auWfEEq4oiQTx1wxaRlo43HoWxoncUVAVGyg__zBnATUbCiAIFGjNwPWu1dhodMjGYJTBkVgTosvDRgTkmMlb9rWWIIUZAUHYCX9yjBAKQj0j5rZwz8iA29CW85xkW0mJNzS9cMF4z0DABnsbP6pJJRfNpp3H9X7-gpm_-sZ5tvVu6Jt4jxbXkZShDdKKJisEEBQgFKntqj__GDSsuzifdX3Gg_D39cv4fWRXP0teYn0LK-G9y2mvV9oyhmVXSm0bW8HttC4iiabIDuSmei6BNUdQC65bE57pu5NgJK0ZInrrs8iwwCO7gP0KUTIubPdLbzbNQUJd5TWqS6IyQ==",
-  "salt": "Kqp8D2xo6AunaqGIjxjOEA==",
-  "text": "Arawn's cauldron points to a parallel with the Dagda, the Irish father god. Arawn had magical pigs, a motif also linked to the Dagda. He handed them over as a present to Pryderi, the mortal king. The bard Gwydion stole the pigs. He was caught and imprisoned in Annwn. Amaethon subsequently carried off three of Arawn's enchanted animals. For one whole year Arawn took the place of the mortal king Pwyll. Pwyll used the time in the Otherworld to kill Hafgan, Arawn's rival for power.",
-  "okr": {
-    "objective": "Arawn's cauldron and its link to the Dagda.",
-    "key_results": [
-      "The cauldron points to a parallel with the Dagda.",
-      "Pryderi received magical pigs as a gift.",
-      "Gwydion stole the pigs and was imprisoned in Annwn.",
-      "Pwyll killed Hafgan while in the Otherworld."
+    "name": "cauldron",
+    "entities": [
+        {
+            "entity": "cauldron",
+            "type": "artifact"
+        },
+        {
+            "entity": "Arawn",
+            "type": "mythological figure"
+        },
+        {
+            "entity": "Dagda",
+            "type": "god"
+        },
+        {
+            "entity": "magical pigs",
+            "type": "animal"
+        },
+        {
+            "entity": "Pryderi",
+            "type": "character"
+        },
+        {
+            "entity": "Gwydion",
+            "type": "character"
+        },
+        {
+            "entity": "Annwn",
+            "type": "place"
+        },
+        {
+            "entity": "Amaethon",
+            "type": "god"
+        },
+        {
+            "entity": "Pwyll",
+            "type": "character"
+        },
+        {
+            "entity": "Hafgan",
+            "type": "character"
+        },
+        {
+            "entity": "Gundestrup cauldron",
+            "type": "artefact"
+        },
+        {
+            "entity": "Hochdorf",
+            "type": "place"
+        },
+        {
+            "entity": "Branwen",
+            "type": "character"
+        },
+        {
+            "entity": "Ceridwen",
+            "type": "character"
+        },
+        {
+            "entity": "Taliesin",
+            "type": "character"
+        },
+        {
+            "entity": "cauldron of rebirth",
+            "type": "concept"
+        }
     ],
-    "evidence": "Monaghan, Encyclopedia of Celtic Mythology and Folklore"
-  }
+    "attributes": [
+        {
+            "entity": "cauldron",
+            "attribute": "parallels the Dagda"
+        },
+        {
+            "entity": "Arawn",
+            "attribute": "had magical pigs"
+        },
+        {
+            "entity": "magical pigs",
+            "attribute": "presented as a gift to Pryderi"
+        },
+        {
+            "entity": "Gwydion",
+            "attribute": "stole the pigs and was imprisoned"
+        },
+        {
+            "entity": "Amaethon",
+            "attribute": "took three magical animals of Arawn"
+        },
+        {
+            "entity": "Pwyll",
+            "attribute": "traded identities with Arawn for a year"
+        },
+        {
+            "entity": "Pwyll",
+            "attribute": "killed Hafgan in the Otherworld"
+        },
+        {
+            "entity": "Hafgan",
+            "attribute": "Arawn's rival for power"
+        },
+        {
+            "entity": "cauldron",
+            "attribute": "symbol of inexhaustible plenty in Celtic story"
+        },
+        {
+            "entity": "Gundestrup cauldron",
+            "attribute": "famous votive find from the Late Bronze Age"
+        },
+        {
+            "entity": "Ceridwen",
+            "attribute": "her cauldron grants wisdom, prophecy, and truth"
+        }
+    ],
+    "sources": [
+        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.",
+        "Koch 2006, s.v. 'Cauldrons'"
+    ],
+    "image": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Gulyas080.jpg/1200px-Gulyas080.jpg"
+    ],
+    "cyphertext": "-NPUmtdp88m-xcNcJhjbXBezGcQIVvdqFg0oSZEaipMKqZK-07FJV-VlhLH4Y45u0SLY1PAfATEEgD6GtApDBMri-W80Q8K_RkMkfB8evW_FUvpN6pZVDZwH80hiAke6jq7_t0BiLKXUNz5QQ-FCac1PdaHfUu3n0OLCAyUhYaHk1tU6dFhIsRlSl6Nl3PbGjWROyMOvs89GwihKQ8_bGzyi0Ys4iGsL6J61ddHX88DswrPK0hNYntdRzMgkJhCWM8hfSw8V0X-8_rcpNdP4fBRdIYJ_Lh-qHta6n-lI5ACFlhWfTitowOy1IGMspQ_F5JsS4BTVdOZGb7qF1eYL7szAhZL6I8G1iSMaPckDnouJ6a3RCcJ_D-iKAFKgieIYvjBWZAWBXPJbuaRJapy3b1HJlvMTZpT_3xobNWv1PPjxhUvt3QowUHNjSbXBhj5k-gUY9NQcduu9aXf9dTNIvW6gZvzxr8PWhO8rWyk155TzL85Kf5QApXoyaCP5tzeiC2r1lxO0WcALGEON_lr2W0WlgyktZewz6RQfT5F3jM_acqmxYxSzojzDnYceR1eKrhi6HG2tyDViZV6z_Ht1ZsDTmRn63WH_0rznCRRjV2ebZ5nCTN346cMhw6lA32lDryXHs0AXJddOpdpw2IpPkQiRaHbhuVsKTvDkiNm9Qrbk6qX48j4PY9HEODvlYy2h5ZoiItVaqE3I8F-bqa89NedneRCwPJRVlvAwhyMP28wbid8t5fKlYzOFupAYCbvolWzX66N8SSxLUogAUXKyEss_7Y5EqG3ABWa8uQHpMaonO8t27sqfDHN_qxRfukBjYXnBt_U9dpKyAYn5LZiL--gNSmi8d3WHZug6r-LY7avUO7-MzUitVDA3zWoRcKTpON6sCgEfm6oVYbwarmXoWGY0D-y2nsJHJQexeE0zK3f56lG5nCFpgAPi0Y44AWLbOsnd8DRZMtU8fDeRN7DQwLmTkvXDE9xessyCBmCgbiof8s6pzyUZ35VVW8qby-imsqnf53Z5Vvlu8oPIi7lkqlSusZ8Xi2nCcQ2CD5vyDMThwCbYe-kmmxEqRvyierNbOfhlcp_HL2iYtjOIG6JbOYKPjht-t5_fbaIccyac-SmHKyuGuC4GEFImLU5B_jr5pR3OYeCkV1DpaejHkTKhN048ZXVHXFGXk506PhS0oYb-RtOuT8qcs1AiTUEcMpFe_mKHIXC042X4lrYroW251t39-vN_OuWWBGZTpHuDcKrNJGU5oCiMtFTSdayigwOW3NNybXvYPzESzZ7heGfYH4paUQ9-UJvDZDI9H4xU_dHWfiBDicdztbcKujBVV_gWS5MJ7CGFVG4yfo_7F96VW7ur7KDNiDohDtipeFHXITaewjTGLXNL8Zqm6VgGJ-UO3kNAU2WQMPnRN9p4QyaOQ_uI994nhh9gx5AyEVaqFW7D8QyczM44QdHJMPpcCR2fAYSrxm98IV7m4GxrTVsCryEqiNSRM5bn9xbN18yk59q5x69fJvWTTbAydUeBb-xmMQSyGdUrHZF_6WVZXh1IIeHbF6j8FgTmocHpOII7rVWXGx9SGrFxry1RrOk-auWfEEq4oiQTx1wxaRlo43HoWxoncUVAVGyg__zBnATUbCiAIFGjNwPWu1dhodMjGYJTBkVgTosvDRgTkmMlb9rWWIIUZAUHYCX9yjBAKQj0j5rZwz8iA29CW85xkW0mJNzS9cMF4z0DABnsbP6pJJRfNpp3H9X7-gpm_-sZ5tvVu6Jt4jxbXkZShDdKKJisEEBQgFKntqj__GDSsuzifdX3Gg_D39cv4fWRXP0teYn0LK-G9y2mvV9oyhmVXSm0bW8HttC4iiabIDuSmei6BNUdQC65bE57pu5NgJK0ZInrrs8iwwCO7gP0KUTIubPdLbzbNQUJd5TWqS6IyQ==",
+    "salt": "Kqp8D2xo6AunaqGIjxjOEA==",
+    "text": "Cauldrons rank among the most treasured objects in Irish and Welsh story. Late Bronze Age examples from about 1000 to 500 BC survive across Ireland and Britain. Some were left as votive gifts, others buried at Hallstatt sites. The Gundestrup cauldron belongs to this group. In story the cauldron stands for plenty and for rebirth. In Branwen a cauldron of rebirth revives dead warriors. Ceridwen's cauldron grants wisdom, and its potion gives Gwion the knowledge that makes him Taliesin.",
+    "okr": {
+        "objective": "Document the cauldron as a prehistoric artefact and as a central symbol in Celtic story.",
+        "key_results": [
+            "Record the Late Bronze Age cauldrons found across Ireland, Britain, and the Hallstatt world.",
+            "Note the cauldron's power to revive the dead, as shown in Branwen.",
+            "Show Ceridwen's cauldron as a source of wisdom, prophecy, and truth."
+        ],
+        "evidence": "Koch 2006, s.v. Cauldrons, p. 360"
+    }
 }

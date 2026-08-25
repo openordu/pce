@@ -5,37 +5,100 @@ icon: file-lines
 order: 421
 contributors: [ 'Christopher Godwin' ]
 attributes:
-  - cauldron of rebirth origin: Irish
-  - soldiers' bodies purpose: to come back alive yet soulless to fight again
+  - cauldron parallels the Dagda
+  - Arawn had magical pigs
+  - magical pigs presented as a gift to Pryderi
+  - Gwydion stole the pigs and was imprisoned
+  - Amaethon took three magical animals of Arawn
+  - Pwyll traded identities with Arawn for a year
+  - Pwyll killed Hafgan in the Otherworld
+  - Hafgan Arawn's rival for power
+  - cauldron symbol of inexhaustible plenty in Celtic story
+  - Gundestrup cauldron famous votive find from the Late Bronze Age
+  - Ceridwen her cauldron grants wisdom, prophecy, and truth
 categories:
-  - literary work
-  - nationality
-  - mythical object
+  - character
+  - place
+  - concept
+  - god
+  - artifact
+  - mythological figure
+  - animal
+  - artefact
 entities:
-  - Welsh Mabinogion(literary work)
-  - cauldron of rebirth(mythical object)
-  - Irish(nationality)
+  - cauldron(artifact)
+  - Arawn(mythological figure)
+  - Dagda(god)
+  - magical pigs(animal)
+  - Pryderi(character)
+  - Gwydion(character)
+  - Annwn(place)
+  - Amaethon(god)
+  - Pwyll(character)
+  - Hafgan(character)
+  - Gundestrup cauldron(artefact)
+  - Hochdorf(place)
+  - Branwen(character)
+  - Ceridwen(character)
+  - Taliesin(character)
+  - cauldron of rebirth(concept)
 tags:
-  - Welsh Mabinogion
+  - cauldron
+  - Arawn
+  - Dagda
+  - magical pigs
+  - Pryderi
+  - Gwydion
+  - Annwn
+  - Amaethon
+  - Pwyll
+  - Hafgan
+  - Gundestrup cauldron
+  - Hochdorf
+  - Branwen
+  - Ceridwen
+  - Taliesin
   - cauldron of rebirth
-  - Irish
 ---
 ``` tab [group1:Info]
 ::: magazinestyle
-The cauldron was a symbolic object in Celtic culture. It served as both a household and sacred item, used for brewing and stewing as well as for the creation of new life. The cauldron held significant power for the Celts. According to the Roman author Strabo, the Celts sent a sacramental cauldron to Caesar Augustus that was used for the ritual killing of prisoners. This type of ritual could have been the reason behind the creation of the Gundestrup Cauldron. This large silver vessel, although found in Denmark and not typically considered as Celtic territory, features mythological figures including Cernunnos and an unidentified giant goddess, as well as interlacing abstract designs, thus indicating it could have been a Celtic product. Smaller cauldrons have been discovered in bogs and lakes, seemingly dedicated to Otherworld powers as offerings. The cauldron symbolized abundance and fullness with Ireland's "good god," the Dagda, having a cauldron that never emptied of good things, while the Welsh goddess Ceridwen used hers to cook up a broth that bestowed wisdom to its drinkers ( see Taliesin). However, even abundance and plenty could be mishandled. In the Welsh Mabinogion, there was a cauldron of rebirth, originally from Ireland, where the bodies of soldiers were submerged to bring them back to life without their souls, so they could return to battle again.
+Cauldrons rank among the most treasured objects in Irish and Welsh story. Late Bronze Age examples from about 1000 to 500 BC survive across Ireland and Britain. Some were left as votive gifts, others buried at Hallstatt sites. The Gundestrup cauldron belongs to this group. In story the cauldron stands for plenty and for rebirth. In Branwen a cauldron of rebirth revives dead warriors. Ceridwen's cauldron grants wisdom, and its potion gives Gwion the knowledge that makes him Taliesin.
 
 :::
 ```
 ``` tab [group1:Attributes]
-- **cauldron of rebirth**: origin: Irish
-- **soldiers' bodies**: purpose: to come back alive yet soulless to fight again
+- **cauldron**: parallels the Dagda
+- **Arawn**: had magical pigs
+- **magical pigs**: presented as a gift to Pryderi
+- **Gwydion**: stole the pigs and was imprisoned
+- **Amaethon**: took three magical animals of Arawn
+- **Pwyll**: traded identities with Arawn for a year
+- **Pwyll**: killed Hafgan in the Otherworld
+- **Hafgan**: Arawn's rival for power
+- **cauldron**: symbol of inexhaustible plenty in Celtic story
+- **Gundestrup cauldron**: famous votive find from the Late Bronze Age
+- **Ceridwen**: her cauldron grants wisdom, prophecy, and truth
 ```
 ``` tab [group1:Entities]
-- **Welsh Mabinogion**: literary work
-- **cauldron of rebirth**: mythical object
-- **Irish**: nationality
+- **cauldron**: artifact
+- **Arawn**: mythological figure
+- **Dagda**: god
+- **magical pigs**: animal
+- **Pryderi**: character
+- **Gwydion**: character
+- **Annwn**: place
+- **Amaethon**: god
+- **Pwyll**: character
+- **Hafgan**: character
+- **Gundestrup cauldron**: artefact
+- **Hochdorf**: place
+- **Branwen**: character
+- **Ceridwen**: character
+- **Taliesin**: character
+- **cauldron of rebirth**: concept
 ```
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
+- Koch 2006, s.v. 'Cauldrons'
 ```
 ![cauldron Image](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Gulyas080.jpg/1200px-Gulyas080.jpg)

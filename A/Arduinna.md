@@ -5,60 +5,56 @@ icon: file-lines
 order: 149
 contributors: [ 'Christopher Godwin' ]
 attributes:
-  - Arduinna rode mounted on a wild Boar
-  - Arduinna forest that bore her name
-  - hunters welcome in her forests only if they left money as payment for the animals they killed
-  - Arduinna name may incorporate ard, the syllable for “height” or “highland”
+  - Arduinna goddess who rides a wild boar through the Ardennes
+  - Ardennes the Gaulish forest bearing her name
+  - ard a root meaning height or highland
+  - Arduinna called the Silva Arduenna the most extensive forest in Gaul
+  - Arduinna compares with Abnoba, goddess of the Black Forest
 categories:
-  - Continental Celtic goddess
-  - forest
-  - Greek goddess
-  - people
-  - Roman goddess
+  - Concept
+  - Person
+  - Being
+  - Place
 entities:
-  - Arduinna(Continental Celtic goddess)
-  - Ardwinna(Continental Celtic goddess)
-  - Arduenna(Continental Celtic goddess)
-  - Arduanna(Continental Celtic goddess)
-  - Roman Diana(Roman goddess)
-  - Greek Artemis(Greek goddess)
-  - Gaulish forest(forest)
-  - Ardennes(forest)
-  - hunters(people)
+  - Arduinna(Person)
+  - boar(Being)
+  - Ardennes(Place)
+  - ard(Concept)
+  - Caesar(Person)
+  - Abnoba(Person)
+  - Düren(Place)
 tags:
   - Arduinna
-  - Ardwinna
-  - Arduenna
-  - Arduanna
-  - Roman Diana
-  - Greek Artemis
-  - Gaulish forest
+  - boar
   - Ardennes
-  - hunters
+  - ard
+  - Caesar
+  - Abnoba
+  - Düren
 ---
 ``` tab [group1:Info]
 ::: magazinestyle
-Continental Celtic goddess, Arduinna, also known as Ardwinna, Arduenna, or Arduanna, was known for riding a wild Boar through the Gaulish forest named after her, the Ardennes. She is sometimes linked to the Roman Diana or Greek Artemis. Hunters were permitted in Arduinna's forest, but only if they left money in exchange for the animals they killed. The etymology of her name may include "ard," meaning "highland" or "height."
+Arduinna, also spelled Arduenna, Ardoinna, and Arduinne, was a Continental Celtic goddess. She gave her name to the Ardennes Forest, which still covers parts of Luxembourg, Belgium, and France. Caesar called this woodland the Silva Arduenna and said it was the largest forest in Gaul, reaching about 805 kilometres from the Rhine to the lands of the Nervii and Remi. Her name may come from the Celtic root ardu-, meaning high. A bronze sculpture shows her seated on a boar, a quiver slung across her back and a knife in her hand. Images of trees flank a dedication to her found near Düren in Germany. At Rome another female figure, equipped with bow and quiver, carries an inscription of her name. A staff topped with a boar may also represent her. She compares with Abnoba, the guardian goddess of the Black Forest highlands.
 
 :::
 ```
 ``` tab [group1:Attributes]
-- **Arduinna**: rode mounted on a wild Boar
-- **Arduinna**: forest that bore her name
-- **hunters**: welcome in her forests only if they left money as payment for the animals they killed
-- **Arduinna**: name may incorporate ard, the syllable for “height” or “highland”
+- **Arduinna**: goddess who rides a wild boar through the Ardennes
+- **Ardennes**: the Gaulish forest bearing her name
+- **ard**: a root meaning height or highland
+- **Arduinna**: called the Silva Arduenna the most extensive forest in Gaul
+- **Arduinna**: compares with Abnoba, goddess of the Black Forest
 ```
 ``` tab [group1:Entities]
-- **Arduinna**: Continental Celtic goddess
-- **Ardwinna**: Continental Celtic goddess
-- **Arduenna**: Continental Celtic goddess
-- **Arduanna**: Continental Celtic goddess
-- **Roman Diana**: Roman goddess
-- **Greek Artemis**: Greek goddess
-- **Gaulish forest**: forest
-- **Ardennes**: forest
-- **hunters**: people
+- **Arduinna**: Person
+- **boar**: Being
+- **Ardennes**: Place
+- **ard**: Concept
+- **Caesar**: Person
+- **Abnoba**: Person
+- **Düren**: Place
 ```
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
+- Koch 2006, s.v. 'Arduinna'
 ```

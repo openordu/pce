@@ -5,76 +5,91 @@ icon: file-lines
 order: 516
 contributors: [ 'Christopher Godwin' ]
 attributes:
-  - Connacht ancient association
-  - Connacht capital: Cruachan
-  - Connacht counties: Galway, Mayo, Sligo, Leitrim, Roscommon
-  - Connacht modern province
-  - Connacht considered bastion of traditional culture
-  - Oliver Cromwell memorable phrase: "to hell or Connacht"
-  - Americans heritage from region
-  - Connacht poverty led to massive emigration during 19th-century famine years
+  - Conn a great legendary king of Tara
+  - Lia Fail cried out when Conn drew near
+  - Conn won many battles against Dixon
+  - Fionn mac Cumhaill born in the reign of Conn
+  - Connacht the most north-western province, bounded by the Shannon and the Atlantic
+  - Connacht name derived from the Connachta population group
+  - Connachta dynasties descended from Conn of the Hundred Battles
+  - Crúachu royal ceremonial complex in Roscommon, centre of the province
 categories:
-  - association
-  - province
-  - county
+  - location
+  - place
+  - concept
+  - group
+  - artifact
+  - mythological figure
+  - dynasty
+  - hero
 entities:
-  - Connacht(province)
-  - education(association)
-  - stories(association)
-  - histories(association)
-  - science(association)
-  - eloquence(association)
-  - learning(association)
-  - Galway(county)
-  - Mayo(county)
-  - Sligo(county)
-  - Leitrim(county)
-  - Roscommon(county)
+  - Conn(mythological figure)
+  - Lia Fail(artifact)
+  - Tara(place)
+  - Eogan Mor(mythological figure)
+  - Eiscir Riada(location)
+  - Fomha(group)
+  - Fenian Cycle(concept)
+  - Fionn mac Cumhaill(hero)
+  - Connachta(group)
+  - Crúachu(place)
+  - Roscommon(place)
+  - Uí Briúin(dynasty)
+  - Uí Fhiachrach(dynasty)
+  - Uí Ailello(dynasty)
+  - Shannon(place)
 tags:
-  - Connacht
-  - education
-  - stories
-  - histories
-  - science
-  - eloquence
-  - learning
-  - Galway
-  - Mayo
-  - Sligo
-  - Leitrim
+  - Conn
+  - Lia Fail
+  - Tara
+  - Eogan Mor
+  - Eiscir Riada
+  - Fomha
+  - Fenian Cycle
+  - Fionn mac Cumhaill
+  - Connachta
+  - Crúachu
   - Roscommon
+  - Uí Briúin
+  - Uí Fhiachrach
+  - Uí Ailello
+  - Shannon
 ---
 ``` tab [group1:Info]
 ::: magazinestyle
-A site of Irish mythology is Connacht (also spelled Connaught or Connachta). In ancient Ireland, the land was split into four or five provinces known as Cóiced in Irish. The westernmost province was Connacht, which was named after King Conn of the Hundred Battles in some legends. The other provinces were Ulster, Leinster, Munster, and occasionally Mide. The province of Connacht is correlated with "wisdom" due to the first syllable of its name, and this location is traditionally associated with the Fairy Folk who were believed to favor the west. In ancient times, Connacht was associated with education, histories and stories, science, eloquence, and various types of learning. The capital of ancient Connacht was Cruachan. The current province of Connacht is made up of Galway, Mayo, Sligo, Leitrim, and Roscommon, and is today one of Ireland's smallest and poorest provinces. It has long been viewed as a stronghold of traditional culture, for conquerors often forced the Irish "to hell or Connacht," as Oliver Cromwell famously put it. Many Americans trace their ancestry to this region due to the massive emigration during the 19th-century famine years caused by poverty.
+Connacht is the most north-western province of Ireland. Its far west is the Atlantic and its east border the Shannon; the modern counties are Galway, Mayo, Sligo, Leitrim, and Roscommon. The name comes from the Connachta, dynasties tracing descent from Conn of the Hundred Battles, who held land mainly west of the Shannon with their royal seat at Crúachu in Roscommon. The term also names three chief dynasties: the Uí Briúin, Uí Ailello, and Uí Fhiachrach.
 
 :::
 ```
 ``` tab [group1:Attributes]
-- **Connacht**: ancient association
-- **Connacht**: capital: Cruachan
-- **Connacht**: counties: Galway, Mayo, Sligo, Leitrim, Roscommon
-- **Connacht**: modern province
-- **Connacht**: considered bastion of traditional culture
-- **Oliver Cromwell**: memorable phrase: "to hell or Connacht"
-- **Americans**: heritage from region
-- **Connacht**: poverty led to massive emigration during 19th-century famine years
+- **Conn**: a great legendary king of Tara
+- **Lia Fail**: cried out when Conn drew near
+- **Conn**: won many battles against Dixon
+- **Fionn mac Cumhaill**: born in the reign of Conn
+- **Connacht**: the most north-western province, bounded by the Shannon and the Atlantic
+- **Connacht**: name derived from the Connachta population group
+- **Connachta**: dynasties descended from Conn of the Hundred Battles
+- **Crúachu**: royal ceremonial complex in Roscommon, centre of the province
 ```
 ``` tab [group1:Entities]
-- **Connacht**: province
-- **education**: association
-- **stories**: association
-- **histories**: association
-- **science**: association
-- **eloquence**: association
-- **learning**: association
-- **Galway**: county
-- **Mayo**: county
-- **Sligo**: county
-- **Leitrim**: county
-- **Roscommon**: county
+- **Conn**: mythological figure
+- **Lia Fail**: artifact
+- **Tara**: place
+- **Eogan Mor**: mythological figure
+- **Eiscir Riada**: location
+- **Fomha**: group
+- **Fenian Cycle**: concept
+- **Fionn mac Cumhaill**: hero
+- **Connachta**: group
+- **Crúachu**: place
+- **Roscommon**: place
+- **Uí Briúin**: dynasty
+- **Uí Fhiachrach**: dynasty
+- **Uí Ailello**: dynasty
+- **Shannon**: place
 ```
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
+- Koch 2006, s.v. 'connachta'
 ```
 ![Connacht Image](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Flag_of_Connacht.svg/1200px-Flag_of_Connacht.svg.png)

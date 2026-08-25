@@ -115,3 +115,5 @@ layout: layouts/pce.njk
 - [dwarf](dwarf)
 - [Dyfed](Dyfed)
 - [Dylan](Dylan)
+- [Dindshenchas](Dindshenchas)
+- [druids_classical_accounts](druids_classical_accounts)

@@ -5,62 +5,62 @@ icon: file-lines
 order: 626
 contributors: [ 'Christopher Godwin' ]
 attributes:
-  - Damona name
-  - Damona consort of Borvo
-  - Damona consort of Apollo Mortitasgus
-  - Damona polyandrous
-  - Damona goddess of sheep
-  - Bóand Irish
+  - Damona name means "divine cow"
+  - Damona consort of Borvo and Apollo Moritasgus
+  - Damona possibly polyandrous
+  - Damona name likely means great or divine ox
+  - Damona honoured at the healing springs and warm baths of Alesia
+  - Damona signed by the snake and grain she shared with Hygeia and Demeter
+  - Damona stands beside Apollo Borvon, Apollo Moritasgus, and Albius
 categories:
-  - divinity
-  - animal
-  - relationship
-  - geographical location
-  - Celtic goddess
-  - Irish goddess
+  - deity
+  - Deity
+  - place
 entities:
-  - Damona(Celtic goddess)
-  - Celtic Gaul(geographical location)
-  - Bóand(Irish goddess)
-  - sheep(animal)
-  - gods Borvo(divinity)
-  - Apollo Mortitasgus(divinity)
-  - polyandrous(relationship)
-  - husbands(relationship)
+  - Damona(Deity)
+  - Bóand(Deity)
+  - Borvo(Deity)
+  - Apollo Moritasgus(Deity)
+  - Alesia(place)
+  - Hygeia(deity)
+  - Demeter(deity)
+  - Albius(deity)
 tags:
   - Damona
-  - Celtic Gaul
   - Bóand
-  - sheep
-  - gods Borvo
-  - Apollo Mortitasgus
-  - polyandrous
-  - husbands
+  - Borvo
+  - Apollo Moritasgus
+  - Alesia
+  - Hygeia
+  - Demeter
+  - Albius
 ---
 ``` tab [group1:Info]
 ::: magazinestyle
-In the pantheon of Celtic gods and goddesses, one can find Damona, a Continental Celtic goddess. Her name is thought to signify "divine Cow", implying that she may have been a goddess akin to the Irish Bóand. Alternatively, she has been associated with sheep. While being relatively obscure deities, Damona was the consort of two gods, Borvo and Apollo Mortitasgus, and she may have been polyandrous, presiding over both of her husbands simultaneously.
+Damona is a Gaulish goddess whose name likely means great or divine ox. People honoured her alone and beside several male gods, including Apollo Borvon, Apollo Moritasgas, and the god Albius. A walled precinct at Alesia, sheltering sacred springs and warm baths, yielded a stone head of her, crowned with ears of grain, and a hand that gripped a snake. Bound to healing waters, she carried the snake and grain signs she shared with Hygeia and Demeter.
 
 :::
 ```
 ``` tab [group1:Attributes]
-- **Damona**: name
-- **Damona**: consort of Borvo
-- **Damona**: consort of Apollo Mortitasgus
-- **Damona**: polyandrous
-- **Damona**: goddess of sheep
-- **Bóand**: Irish
+- **Damona**: name means "divine cow"
+- **Damona**: consort of Borvo and Apollo Moritasgus
+- **Damona**: possibly polyandrous
+- **Damona**: name likely means great or divine ox
+- **Damona**: honoured at the healing springs and warm baths of Alesia
+- **Damona**: signed by the snake and grain she shared with Hygeia and Demeter
+- **Damona**: stands beside Apollo Borvon, Apollo Moritasgus, and Albius
 ```
 ``` tab [group1:Entities]
-- **Damona**: Celtic goddess
-- **Celtic Gaul**: geographical location
-- **Bóand**: Irish goddess
-- **sheep**: animal
-- **gods Borvo**: divinity
-- **Apollo Mortitasgus**: divinity
-- **polyandrous**: relationship
-- **husbands**: relationship
+- **Damona**: Deity
+- **Bóand**: Deity
+- **Borvo**: Deity
+- **Apollo Moritasgus**: Deity
+- **Alesia**: place
+- **Hygeia**: deity
+- **Demeter**: deity
+- **Albius**: deity
 ```
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
+- Koch 2006, s.v. 'Damona'
 ```

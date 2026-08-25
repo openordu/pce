@@ -71,3 +71,4 @@ layout: layouts/pce.njk
 - [Hy-Brâzil](Hy-Brâzil)
 - [Hyperboreans](Hyperboreans)
 - [Hywel_Dda](Hywel_Dda)
+- [Heroic_Ethos](Heroic_Ethos)

@@ -99,3 +99,5 @@ layout: layouts/pce.njk
 - [Turoe_Stone](Turoe_Stone)
 - [Tweedie](Tweedie)
 - [twins](twins)
+- [Taliesin](Taliesin)
+- [Trojan_legends](Trojan_legends)

@@ -152,3 +152,6 @@ layout: layouts/pce.njk
 - [buttery_spirits](buttery_spirits)
 - [Buxenus](Buxenus)
 - [bwca](bwca)
+- [Beltane](Beltane)
+- [banshenchas](banshenchas)
+- [bardic_order](bardic_order)

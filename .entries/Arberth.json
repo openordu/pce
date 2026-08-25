@@ -1,48 +1,66 @@
 {
-  "name": "Arberth",
-  "attributes": [
-    {
-      "entity": "Arberth",
-      "attribute": "a magical fairy mound where people see visions"
-    }
-  ],
-  "entities": [
-    {
-      "entity": "Arberth",
-      "type": "Place"
-    },
-    {
-      "entity": "Pwyll",
-      "type": "Person"
-    },
-    {
-      "entity": "Narberth",
-      "type": "Place"
-    },
-    {
-      "entity": "Dyfed",
-      "type": "Place"
-    },
-    {
-      "entity": "Rhiannon",
-      "type": "Person"
-    }
-  ],
-  "sources": [
-    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-  ],
-  "image": [
-    "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Narberth_town_view_%282009%29.jpg/1200px-Narberth_town_view_%282009%29.jpg"
-  ],
-  "cyphertext": "aKJaCP2xMFOOlupAI_Jh8KIxntXcV6sTznoAf6bLH5qYS2qfnkMTbBSFuVya8OeDBA1MyAFZFObr9EuqEn2raOla6OezcBvSYdX03hN9DXMOdppJyOBOuuAMQeaLm3vWPTmSvVxfNnmIqMyoL-IkhbJWrkHFi2rih_FVQHekx2BzwNPoZCP73HGY9KrIMboI1pcsW_m045-gds5bgH6S681ZBNjhU-AIxDuaOkgOPKOXAJ7NuLtFtKBPVQ-2w3gtJ26lyAMVF77DJSIU-utUq91Jh8bN0qWS8nXvx8bJmrMowbDjuc-rkLLoentx_okj____7NdnnBYUNx_8t415IJlEFnBStu3tT1XQl8gql8_bnM3IqHH2oeOUgny7mRk=",
-  "salt": "CAlEnVy3lO4I_YQGdoNSfg==",
-  "text": "Arberth is a Welsh mythological site. The name belongs to a magical fairy mound in the kingdom of Pwyll. People went there to see visions. Some scholars associate the mound with the town of Narberth in Dyfed, the southwestern region of Wales. The mound was the royal site of the old tribal kingdom of Dyfed. It is the scene of much of the Mabinogi. In the tale of Pwyll, the mysterious horsewoman Rhiannon appears on the mound. She cannot be overtaken though her horse seems to walk. In the tale of Manawydan, a mist descends on the mound and takes the people of Dyfed away.",
-  "okr": {
-    "objective": "Record Arberth, a Welsh mythological site.",
-    "key_results": [
-      "Show the magical fairy mound near the court.",
-      "Show its role in the Mabinogi tales of Pwyll and Manawydan."
+    "name": "Arberth",
+    "attributes": [
+        {
+            "entity": "Arberth",
+            "attribute": "a magical fairy mound where people see visions"
+        },
+        {
+            "entity": "Arberth",
+            "attribute": "resembles an Irish síd-mound as a portal to the Otherworld"
+        },
+        {
+            "entity": "Arberth",
+            "attribute": "name may come from a word for a built earthwork"
+        }
     ],
-    "evidence": "Monaghan 2003, s.v. Arberth; Koch 2006, s.v. Arberth; Narberth"
-  }
+    "entities": [
+        {
+            "entity": "Arberth",
+            "type": "Place"
+        },
+        {
+            "entity": "Pwyll",
+            "type": "Person"
+        },
+        {
+            "entity": "Narberth",
+            "type": "Place"
+        },
+        {
+            "entity": "Dyfed",
+            "type": "Place"
+        },
+        {
+            "entity": "Rhiannon",
+            "type": "Person"
+        },
+        {
+            "entity": "Manawydan",
+            "type": "Person"
+        },
+        {
+            "entity": "síd",
+            "type": "Concept"
+        }
+    ],
+    "sources": [
+        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.",
+        "Koch 2006, s.v. 'Arberth'"
+    ],
+    "image": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Narberth_town_view_%282009%29.jpg/1200px-Narberth_town_view_%282009%29.jpg"
+    ],
+    "cyphertext": "aKJaCP2xMFOOlupAI_Jh8KIxntXcV6sTznoAf6bLH5qYS2qfnkMTbBSFuVya8OeDBA1MyAFZFObr9EuqEn2raOla6OezcBvSYdX03hN9DXMOdppJyOBOuuAMQeaLm3vWPTmSvVxfNnmIqMyoL-IkhbJWrkHFi2rih_FVQHekx2BzwNPoZCP73HGY9KrIMboI1pcsW_m045-gds5bgH6S681ZBNjhU-AIxDuaOkgOPKOXAJ7NuLtFtKBPVQ-2w3gtJ26lyAMVF77DJSIU-utUq91Jh8bN0qWS8nXvx8bJmrMowbDjuc-rkLLoentx_okj____7NdnnBYUNx_8t415IJlEFnBStu3tT1XQl8gql8_bnM3IqHH2oeOUgny7mRk=",
+    "salt": "CAlEnVy3lO4I_YQGdoNSfg==",
+    "text": "Arberth is a Welsh mythological site. The name belongs to a magical fairy mound in the kingdom of Pwyll. People went there to see visions. The mound stood at the heart of the old tribal kingdom of Dyfed. Scholars connect it in Pembrokeshire, on the southwestern coast of Wales. This mound served as the scene of much of the Mabinogi, especially the tales of Pwyll and Manawydan. In Pwyll, the mysterious horsewoman Rhiannon appears on the mound. No rider can catch her, although her horse moves at an unhurried pace. In Manawydan, a mist descends on the mound and takes the people of Dyfed away. Such mounds resemble the síd-mounds of Irish tradition, which serve as homes and portals into the Otherworld. The name Arberth may derive from a Celtic term for a raised earthwork built before a hedge or dyke. The modern Narberth arose from a mis-reading of yn Arberth, meaning in Arberth.",
+    "okr": {
+        "objective": "Record Arberth, a Welsh mythological site.",
+        "key_results": [
+            "Show the magical fairy mound near the court.",
+            "Show its role in the Mabinogi tales of Pwyll and Manawydan.",
+            "Show the mound's likeness to Irish síd-mounds."
+        ],
+        "evidence": "Monaghan 2003, s.v. Arberth; Koch 2006, s.v. Arberth"
+    }
 }

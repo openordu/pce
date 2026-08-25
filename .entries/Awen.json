@@ -1,0 +1,79 @@
+{
+    "name": "Awen",
+    "attributes": [
+        {
+            "entity": "awen",
+            "attribute": "Welsh poetic and prophetic inspiration"
+        },
+        {
+            "entity": "Ceridwen",
+            "attribute": "gave the inspiration from her cauldron"
+        },
+        {
+            "entity": "Talhaearn Tad Awen",
+            "attribute": "called the father of the muse"
+        },
+        {
+            "entity": "Taliesin",
+            "attribute": "principal poet granted the awen"
+        },
+        {
+            "entity": "Gogynfeirdd",
+            "attribute": "Poets of the Princes held the awen set them apart"
+        },
+        {
+            "entity": "Historia Brittonum",
+            "attribute": "records the Five Poets and the awen"
+        }
+    ],
+    "entities": [
+        {
+            "entity": "awen",
+            "type": "Concept"
+        },
+        {
+            "entity": "Ceridwen",
+            "type": "Goddess"
+        },
+        {
+            "entity": "Taliesin",
+            "type": "Person"
+        },
+        {
+            "entity": "Talhaearn Tad Awen",
+            "type": "Person"
+        },
+        {
+            "entity": "Gogynfeirdd",
+            "type": "Group"
+        },
+        {
+            "entity": "Five Poets",
+            "type": "Group"
+        },
+        {
+            "entity": "Historia Brittonum",
+            "type": "Text"
+        },
+        {
+            "entity": "muse",
+            "type": "Concept"
+        }
+    ],
+    "sources": [
+        "Koch 2006, s.v. 'Awen'"
+    ],
+    "image": [],
+    "cyphertext": "",
+    "salt": "",
+    "text": "Awen is the Welsh term for poetic inspiration and insight. It flows from the cauldron of Ceridwen. That cauldron grants the gift of divine vision. Talhaearn Tad Awen means the father of the muse. The ninth-century Historia Brittonum remembers him among the Five Poets. Taliesin embodies this inspired gift. The Gogynfeirdd, the Poets of the Princes, held the awen set them apart from lesser poets. The awen carries the power of vision. It raises the poet beyond common craft.",
+    "okr": {
+        "objective": "Document the Welsh awen, its source, and its bearers.",
+        "key_results": [
+            "Define the awen as inspired insight",
+            "Name Ceridwen's cauldron as its source",
+            "Connect Taliesin, Talhaearn, and the Five Poets to the gift"
+        ],
+        "evidence": "Koch 2006, s.v. 'Awen'"
+    }
+}

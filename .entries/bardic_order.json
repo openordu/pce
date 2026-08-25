@@ -1,0 +1,79 @@
+{
+    "name": "bardic order",
+    "attributes": [
+        {
+            "entity": "fili",
+            "attribute": "ranked by a seven-grade hierarchy"
+        },
+        {
+            "entity": "ollam",
+            "attribute": "the highest grade of the fili"
+        },
+        {
+            "entity": "baird",
+            "attribute": "panegyric and lyric poets of lower rank"
+        },
+        {
+            "entity": "Bardic order",
+            "attribute": "formalized in the law-tracts"
+        },
+        {
+            "entity": "satirist",
+            "attribute": "feared for the power of his curse"
+        }
+    ],
+    "entities": [
+        {
+            "entity": "fili",
+            "type": "Social role"
+        },
+        {
+            "entity": "baird",
+            "type": "Social role"
+        },
+        {
+            "entity": "ollam",
+            "type": "Social role"
+        },
+        {
+            "entity": "bardic order",
+            "type": "Institution"
+        },
+        {
+            "entity": "Bretha Nemed",
+            "type": "Text"
+        },
+        {
+            "entity": "Uraicecht na Ríar",
+            "type": "Text"
+        },
+        {
+            "entity": "Ireland",
+            "type": "Place"
+        },
+        {
+            "entity": "Wales",
+            "type": "Place"
+        },
+        {
+            "entity": "satire",
+            "type": "Concept"
+        }
+    ],
+    "sources": [
+        "Koch 2006, s.v. 'bardic order'"
+    ],
+    "image": [],
+    "cyphertext": "",
+    "salt": "",
+    "text": "The bardic order is the professional poet institution of medieval Wales and Ireland. It ranked poets by learning above raw talent. In Ireland the fili formed a fixed hierarchy of seven grades. The highest grade was the ollam. The law-tracts, such as Bretha Nemed and Uraicecht na Ríar, record the grades. The baird, or bards, held a lower place. They composed panegyric and lyric verse. Their rank turned on innate talent rather than schooled training. The fili expected a minimum three generations of poet ancestry. The satirist carried a feared curse. His word shamed a man who failed in honour.",
+    "okr": {
+        "objective": "Describe the ranked fili and baird institutions of the bardic order.",
+        "key_results": [
+            "Show the seven-grade fili hierarchy above the ollam",
+            "Contrast the learned fili with the bard baird",
+            "Show the feared power of the satirist"
+        ],
+        "evidence": "Koch 2006, s.v. 'bardic order'"
+    }
+}
