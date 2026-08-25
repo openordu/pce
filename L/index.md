@@ -34,6 +34,7 @@ layout: layouts/pce.njk
 - [Lebor_Gabála_Érenn](Lebor_Gabála_Érenn)
 - [Leborcham](Leborcham)
 - [Legendary_animals](Legendary_animals)
+- [legendary_history](legendary_history)
 - [Leherennus](Leherennus)
 - [Leinster](Leinster)
 - [Len](Len)

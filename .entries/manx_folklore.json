@@ -1,0 +1,44 @@
+{
+    "name": "Manx folklore",
+    "text": "The customs and tales of the Isle of Man form the body of Manx folklore. The island's folk practice has enjoyed a pronounced recovery. That rebirth is tied to matching cultural growth. It goes with a rising regard for language, music, and dance. Such signs appear at their clearest in certain feasts. May Eve, Hop-tu-naa, and Christmas keep the most old ways. Many printed works do gather the folklore of the island. Cashen and Clague number among the early collectors. Gill put together several scrapbook volumes. More writers record tales, customs, and festival lore. Waldron wrote down a lasting record of the isle's folk. A long sequence of authors kept the fairy tales and customs alive. Satirical verse also forms part of Manx heritage. Lacking a regular political opposition, such verse lets folk air their views. Vera Martin wrote a weekly column for the Isle of Man Examiner. That column ran through the 1970s and dealt with Manx affairs. Her invented Kelly household discussed matters of common concern. In spoken form the verse is given at social gatherings. Writers deliver the lines or put them to old Manx airs. Tongue, tones, and dance continue to feed this living heritage.",
+    "okr": {
+        "objective": "Document Manx folklore as the traditional lore and customs of the Isle of Man within the knowledge graph.",
+        "key_results": [
+            "Provide a factual overview of Manx folklore that exceeds 300 characters.",
+            "Name the main seasonal celebrations linked to the folklore.",
+            "Cite the Koch entry as the single supporting source."
+        ],
+        "evidence": "Koch describes a dramatic revival in the physical expression of Manx folklore tied to cultural revivals, with May Eve, Hop-tu-naa, and Christmas celebrations as key points."
+    },
+    "entities": [
+        {
+            "entity": "Isle of Man",
+            "type": "place"
+        },
+        {
+            "entity": "Hop-tu-naa",
+            "type": "festival"
+        },
+        {
+            "entity": "Vera Martin",
+            "type": "figure"
+        }
+    ],
+    "attributes": [
+        {
+            "entity": "Manx folklore",
+            "attribute": "Isle of Man"
+        },
+        {
+            "entity": "Manx folklore",
+            "attribute": "Manx"
+        }
+    ],
+    "sources": [
+        "Koch 2006, s.v. 'Manx folklore'"
+    ],
+    "image": [],
+    "cyphertext": "",
+    "salt": "",
+    "order": 1579
+}

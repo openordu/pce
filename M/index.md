@@ -46,6 +46,7 @@ layout: layouts/pce.njk
 - [Manannán_mac_Lir](Manannán_mac_Lir)
 - [Manawydan](Manawydan)
 - [Manching](Manching)
+- [manx_folklore](manx_folklore)
 - [Maol_Flidais](Maol_Flidais)
 - [Maponus](Maponus)
 - [Marcassa](Marcassa)

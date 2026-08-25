@@ -44,6 +44,7 @@ layout: layouts/pce.njk
 - [Caradawg](Caradawg)
 - [Carlin](Carlin)
 - [Carman](Carman)
+- [carmina_gadelica](carmina_gadelica)
 - [Carravogue](Carravogue)
 - [Carrigogunnel](Carrigogunnel)
 - [cart](cart)

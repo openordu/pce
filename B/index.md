@@ -10,6 +10,7 @@ layout: layouts/pce.njk
 - [Bairrind](Bairrind)
 - [Balan](Balan)
 - [Balin](Balin)
+- [ballads_and_narrative_songs](ballads_and_narrative_songs)
 - [ball_seirc](ball_seirc)
 - [Balor](Balor)
 - [banais_ríghe](banais_ríghe)

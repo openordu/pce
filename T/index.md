@@ -7,6 +7,7 @@ layout: layouts/pce.njk
 - [taghairm](taghairm)
 - [Tailtiu](Tailtiu)
 - [Taise](Taise)
+- [tale_lists_medieval_irish](tale_lists_medieval_irish)
 - [talisman](talisman)
 - [Tamara](Tamara)
 - [Tam_Lin](Tam_Lin)

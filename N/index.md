@@ -29,6 +29,7 @@ layout: layouts/pce.njk
 - [Nemetona](Nemetona)
 - [Nemglan](Nemglan)
 - [Nentres](Nentres)
+- [neo_druidism](neo_druidism)
 - [neo-pagan](neo-pagan)
 - [Nera](Nera)
 - [Nerbgen](Nerbgen)

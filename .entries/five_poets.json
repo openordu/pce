@@ -1,0 +1,64 @@
+{
+    "name": "Five poets",
+    "text": "The Five Poets are a group of early Brythonic poets named in the Historia Brittonum. This Latin text dates from the ninth century. Their names are Talhaearn, Aneirin, Taliesin, Blwchfardd, and Cian. Taliessin is an older form of the name Taliesin. Talhaearn carried the title Father of poetic inspiration. He also gained the name Iron-brow. No verse survives for Talhaearn. The same gap holds for Blwchfardd and Cian. The order of the list suggests that Talhaearn came first among the group. Aneirin and Taliesin stand out as Cynfeirdd. That term means Early Poets. The famous poem called the Gododdin is tied to Aneirin. The kings help to fix the date of the group. Ida held lands in the north of Britain beside the Humber Sea. He ruled for twelve years. Maelgwn governed the kingdom of Gwynedd. The Annales Cambriae place his death in the year 547. Beda puts the rise of Ida in that same year. These facts give a working date of 547 for the active poets. By the ninth century Aneirin and Taliesin were recalled as famous sixth century bards. Tales set the youthful Taliesin beside King Maelgwn.",
+    "okr": {
+        "objective": "Define and date the group of Early Poets named in the Historia Brittonum.",
+        "key_results": [
+            "List the five named poets and note their surviving works",
+            "Record the synchronization that ties the poets to the year 547",
+            "Separate the legendary Taliesin from the historical bards"
+        ],
+        "evidence": "Koch reports that the group is known from a ninth century Welsh memorandum, that the kings allow a working date around 547, and that Aneirin and Taliesin were recalled as famous poets by the ninth century."
+    },
+    "entities": [
+        {
+            "entity": "Aneirin",
+            "type": "figure"
+        },
+        {
+            "entity": "Taliesin",
+            "type": "figure"
+        },
+        {
+            "entity": "Maelgwn Gwynedd",
+            "type": "figure"
+        },
+        {
+            "entity": "Ida",
+            "type": "figure"
+        },
+        {
+            "entity": "Gwynedd",
+            "type": "place"
+        },
+        {
+            "entity": "Historia Brittonum",
+            "type": "text"
+        },
+        {
+            "entity": "Gododdin",
+            "type": "text"
+        }
+    ],
+    "attributes": [
+        {
+            "entity": "Five poets",
+            "attribute": "Latin"
+        },
+        {
+            "entity": "Five poets",
+            "attribute": "Wales"
+        },
+        {
+            "entity": "Five poets",
+            "attribute": "6th century"
+        }
+    ],
+    "sources": [
+        "Koch 2006, s.v. 'Five Poets'"
+    ],
+    "image": [],
+    "cyphertext": "",
+    "salt": "",
+    "order": 1013
+}
