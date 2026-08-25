@@ -1,0 +1,68 @@
+{
+    "name": "Vision Literature",
+    "text": "Vision literature is a body of medieval texts that recount a soul's journey beyond the body. The accounts usually rest on a Latin Christian model, the Vision of St Paul. That model supplied the basic shape for many later works. Irish writers drew most heavily on this pattern. Fursa of Ireland gave the earliest sign of such material in the land. His vision tells how his soul left his body and toured heaven and hell. He met two Irish saints in heaven and carried their relics to the Continent. A burn on his body, kept after his return, marked the place he suffered in hell. His story then spread, and the monastery at Péronne became a centre of Irish influence. Fís Adomnán, written in the tenth or eleventh century, retells a vision of the abbot of Iona. Another text, Visio Tnugdali, came from a German monastery with Irish roots. Knights and saints walk its afterworld, and its author drew on older Latin sources. A portal at St Patrick's church gave vision tales a European wide fame until the Church closed it in 1497.",
+    "entities": [
+        {
+            "entity": "Vision of St. Paul",
+            "type": "work"
+        },
+        {
+            "entity": "Fursa",
+            "type": "person"
+        },
+        {
+            "entity": "Fis Adomnáin",
+            "type": "work"
+        },
+        {
+            "entity": "Visio Tnugdali",
+            "type": "work"
+        },
+        {
+            "entity": "St. Patrick's Purgatory",
+            "type": "site"
+        },
+        {
+            "entity": "Adomnán",
+            "type": "person"
+        }
+    ],
+    "attributes": [
+        {
+            "entity": "Vision of St. Paul",
+            "attribute": "the base frame for many Irish vision texts"
+        },
+        {
+            "entity": "Fursa",
+            "attribute": "early Irish visionary whose story reached overseas"
+        },
+        {
+            "entity": "Fís Adomnáin",
+            "attribute": "a later vision text built on the same frame"
+        },
+        {
+            "entity": "Visio Tnugdali",
+            "attribute": "a German-made text that carried the theme far"
+        },
+        {
+            "entity": "St. Patrick's Purgatory",
+            "attribute": "a cave-shrine that fixed the theme in a real place"
+        }
+    ],
+    "sources": [
+        "Koch 2006, s.v. 'Vision Literature'"
+    ],
+    "image": [],
+    "cyphertext": "",
+    "salt": "",
+    "okr": {
+        "objective": "Describe the medieval vision literature of the Celtic lands and its key texts.",
+        "key_results": [
+            "Show the debt to the Vision of St. Paul",
+            "Name the principal Irish and Latin vision texts",
+            "Show how the same frame filled both islands"
+        ],
+        "evidence": "Koch 2006, s.v. 'Vision Literature'"
+    },
+    "order": 2279
+}

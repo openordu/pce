@@ -120,6 +120,8 @@ layout: layouts/pce.njk
 - [Arnemetia](Arnemetia)
 - [Artaios](Artaios)
 - [Artemis](Artemis)
+- [arthurian_sites](arthurian_sites)
+- [arthurian_literature](arthurian_literature)
 - [Artio](Artio)
 - [Art_mac_Cuinn](Art_mac_Cuinn)
 - [Arvalus](Arvalus)

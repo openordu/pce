@@ -49,6 +49,8 @@ layout: layouts/pce.njk
 - [Hill_of_Tara](Hill_of_Tara)
 - [Hill_of_Uisneach](Hill_of_Uisneach)
 - [Hill_of_Ward](Hill_of_Ward)
+- [Historia_Brittonum](Historia_Brittonum)
+- [Historia_Regum_Britanniae](Historia_Regum_Britanniae)
 - [Historical_Cycle](Historical_Cycle)
 - [hoard](hoard)
 - [hob](hob)

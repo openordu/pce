@@ -1,0 +1,93 @@
+{
+    "name": "Arthurian Literature",
+    "attributes": [
+        {
+            "entity": "Arthur",
+            "attribute": "native British hero who dominates early Welsh narrative"
+        },
+        {
+            "entity": "Culhwch ac Olwen",
+            "attribute": "the oldest Arthurian prose tale, written about 1100"
+        },
+        {
+            "entity": "Geoffrey of Monmouth",
+            "attribute": "the writer whose Historia Regum Britanniae shaped the courtly Arthur"
+        },
+        {
+            "entity": "Chrétien de Troyes",
+            "attribute": "the French poet whose romances influenced Welsh prose"
+        },
+        {
+            "entity": "Preiddiau Annwfn",
+            "attribute": "an early poem describing Arthur's raid on the Otherworld"
+        },
+        {
+            "entity": "Celliwig",
+            "attribute": "Arthur's court in Cornwall in the oldest tales"
+        }
+    ],
+    "entities": [
+        {
+            "entity": "Arthur",
+            "type": "figure"
+        },
+        {
+            "entity": "Geoffrey of Monmouth",
+            "type": "person"
+        },
+        {
+            "entity": "Chrétien de Troyes",
+            "type": "person"
+        },
+        {
+            "entity": "Cai",
+            "type": "figure"
+        },
+        {
+            "entity": "Bedwyr",
+            "type": "figure"
+        },
+        {
+            "entity": "Gwalchmai",
+            "type": "figure"
+        },
+        {
+            "entity": "Culhwch ac Olwen",
+            "type": "work"
+        },
+        {
+            "entity": "Preiddiau Annwfn",
+            "type": "poem"
+        },
+        {
+            "entity": "Llyfr Du Caerfyrddin",
+            "type": "work"
+        },
+        {
+            "entity": "Celliwig",
+            "type": "site"
+        },
+        {
+            "entity": "Camlan",
+            "type": "place"
+        }
+    ],
+    "sources": [
+        "Koch 2006, s.v. 'Arthurian Literature'"
+    ],
+    "image": [],
+    "cyphertext": "",
+    "salt": "",
+    "text": "Arthurian literature names the body of writing about King Arthur and his court. In Wales it holds the earliest native stratum of the legend. Arthur already leads the British kings in the ninth-century Historia Brittonum. He appears there as the victor of twelve named battles against English settlers. Medieval Welsh poetry also celebrates him. Culhwch ac Olwen, a prose tale written about 1100, gives the fullest early portrait of his enterprising heroism. It lists his close comrades Cai, Bedwyr, and Gwalchmai and describes his court at Celliwig in Cornwall. A still older poem, Preiddiau Annwfn, records Arthur's raid on the Otherworld to free a prisoner and win a treasure. Only seven of his men return. This heroic image contrasts with a negative one found in some saints' lives and didactic verse, where Arthur behaves as an arrogant tyrant. Geoffrey of Monmouth then reshaped the figure into an emperor and chivalric king. French romance, led by Chrétien de Troyes, spread this courtly Arthur across Europe. Welsh writers adopted these foreign models in their own romances and their renderings of the Grail. The matter proved so potent that it survived into the early modern age. It drew other heroes' names into itself and bound them to landmarks in the landscape. ",
+    "okr": {
+        "objective": "Document the Welsh origins of Arthurian literature and its spread across Europe.",
+        "key_results": [
+            "Trace Arthur's place in early native Welsh narrative",
+            "Show the contrast between hero and tyrant portrayals",
+            "Identify how Geoffrey and French romance reshaped the figure",
+            "Record the native tales that survived to the early modern period"
+        ],
+        "evidence": "Koch 2006, s.v. 'Arthurian Literature'"
+    },
+    "order": 162
+}

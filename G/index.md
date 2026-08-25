@@ -75,6 +75,7 @@ layout: layouts/pce.njk
 - [Gobnat](Gobnat)
 - [Goborchinn](Goborchinn)
 - [Godiva](Godiva)
+- [Gododdin](Gododdin)
 - [Goewin](Goewin)
 - [Gog](Gog)
 - [Goibniu](Goibniu)
