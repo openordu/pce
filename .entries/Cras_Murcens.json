@@ -1,0 +1,64 @@
+{
+  "name": "Cras 'Murcens'",
+  "text": "Cras 'Murcens' is a Gaulish hill-fort in south-west France, on the Causse de Gramat east of Cahors. A cliff guards the south and east. Ramparts protect the other slopes. The site covers about 50 hectares. In 1868 the archaeologist E. Castagné exposed a wall of horizontal beams set in a regular stone facing. Loose stone fills its core, and the wall is over ten metres thick in places. Square iron keys bind the beams. Castagné tied this rampart to the Gaulish wall that Caesar recorded at Avaricum. Jollois had already suggested this in 1843. Excavations in the 1980s found a late La Tène settlement with millstones and Italian wine amphorae, so the site traded widely. It shows no sign of early Gallo-Roman occupation, and the old tie with the hill-fort called Uxellodunon is now set aside.",
+  "entities": [
+    {
+      "entity": "Cras",
+      "type": "Place"
+    },
+    {
+      "entity": "Murcens",
+      "type": "Place"
+    },
+    {
+      "entity": "E. Castagné",
+      "type": "Person"
+    },
+    {
+      "entity": "Caesar",
+      "type": "Person"
+    },
+    {
+      "entity": "La Tène",
+      "type": "Period"
+    },
+    {
+      "entity": "Uxellodunon",
+      "type": "Place"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Murcens",
+      "attribute": "was a Gaulish hill-fort near Cahors in southern France"
+    },
+    {
+      "entity": "Murcens",
+      "attribute": "covers about 50 hectares with a timber-and-stone rampart"
+    },
+    {
+      "entity": "E. Castagné",
+      "attribute": "examined the rampart in 1868"
+    },
+    {
+      "entity": "Murcens",
+      "attribute": "served as a trading centre in the late La Tène period"
+    }
+  ],
+  "sources": [
+    "Koch 2006, s.v. 'Cras Murcens'",
+    "Collingwood, R. G. Roman Britain. Oxford, Clarendon Press, 1936."
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Records the Gaulish hill-fort of Cras 'Murcens' and its late Iron Age ramparts.",
+    "key_results": [
+      "Notes the site on the Causse de Gramat east of Cahors",
+      "Describes the timber-and-stone rampart examined from 1868",
+      "Marks its trading role with no Gallo-Roman trace"
+    ],
+    "evidence": "Koch 2006, s.v. 'Cras Murcens'"
+  }
+}

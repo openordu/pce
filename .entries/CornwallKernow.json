@@ -1,0 +1,56 @@
+{
+  "name": "Cornwall/Kernow",
+  "text": "Cornwall/Kernow is the southwesternmost part of Britain, long a home of the Brythonic Celtic language Cornish. Around 1100 the tongue ran from the river Tamar to Land's End, and close to twenty thousand of the county's roughly twenty-one thousand people spoke it. The centuries after saw Cornish give ground, retreating westwards until only in the far west kept it alive into the early modern period. By about 1800 the language was almost gone, but scholars such as Henry Jenner then worked to revive Cornish in the late nineteenth and early twentieth centuries.",
+  "entities": [
+    {
+      "entity": "Cornwall",
+      "type": "Place"
+    },
+    {
+      "entity": "Cornish",
+      "type": "Language"
+    },
+    {
+      "entity": "Kernow",
+      "type": "Place"
+    },
+    {
+      "entity": "Henry Jenner",
+      "type": "Person"
+    },
+    {
+      "entity": "R. Morton Nance",
+      "type": "Person"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Cornish",
+      "value": "Brythonic Celtic language spoken in Cornwall/Kernow"
+    },
+    {
+      "entity": "Cornwall",
+      "value": "county at the southwestern tip of England"
+    },
+    {
+      "entity": "Kernow",
+      "value": "the Cornish name for Cornwall"
+    }
+  ],
+  "sources": [
+    "Koch 2006, s.v. \"Cornwall/Kernow\"",
+    "Payton, Philip. Cornwall: A History (2004)"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Describe Cornwall/Kernow and the history of the Cornish language",
+    "key_results": [
+      "Locate Cornwall and give its Kernow name",
+      "Trace the spread and later retreat of the Cornish language",
+      "Name scholars who led the Cornish revival"
+    ],
+    "evidence": "Koch 2006, s.v. \"Cornwall/Kernow\"; Payton 2004"
+  }
+}

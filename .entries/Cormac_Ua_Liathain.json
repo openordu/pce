@@ -1,0 +1,52 @@
+{
+  "name": "Cormac ua Liatháin",
+  "text": "Cormac ua Liatháin was an Irish ascetic of the later sixth century and a follower of Saint Colum. He appears in three passages of Adomnán's Life of Colum. He tried and failed three times to settle on an island hermitage, and a fourth attempt was doomed because his companion monk lacked his abbot's blessing. In one northern voyage his sailors met fierce winds and fearsome creatures, and the monks prayed the currents to turn in his aid. He also sought out Colum on the isle. This voyaging Cormac seems to anticipate the later sea journeys told of Brendan.",
+  "entities": [
+    {
+      "entity": "Cormac ua Liatháin",
+      "type": "Person"
+    },
+    {
+      "entity": "Adomnán",
+      "type": "Person"
+    },
+    {
+      "entity": "Saint Colum",
+      "type": "Person"
+    },
+    {
+      "entity": "Vita Columbae",
+      "type": "Text"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Cormac ua Liatháin",
+      "value": "Irish ascetic of the late sixth century"
+    },
+    {
+      "entity": "Adomnán",
+      "value": "author of the Vita Columbae that records Cormac"
+    },
+    {
+      "entity": "Vita Columbae",
+      "value": "life of Saint Colum mentioning Cormac in three chapters"
+    }
+  ],
+  "sources": [
+    "Koch 2006, s.v. \"Cormac ua Liatháin\"",
+    "Herbert, Máire. Iona, Kells, and Derry (Oxford, 1996)"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Explain who Cormac ua Liatháin was and his voyages",
+    "key_results": [
+      "Identify Cormac as a follower of Saint Colum",
+      "Describe his failed attempts to find an island hermitage",
+      "Note his appearance in Adomnán's Life of Colum"
+    ],
+    "evidence": "Koch 2006, s.v. \"Cormac ua Liatháin\"; Herbert 1996"
+  }
+}

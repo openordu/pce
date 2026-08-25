@@ -1,0 +1,56 @@
+{
+  "name": "Continental Celtic",
+  "text": "Continental Celtic covers the ancient Celtic tongues of the mainland. The group holds Gaulish, Celtiberian, and Lepontic. These languages all died out in antiquity. Their records come from coins and stone inscriptions. The scripts they used were uneven. Vowels kept the late Indo-European five-way system. Six diphthongs survive in the oldest records. The sound p was lost in many positions. Celtiberian retained more of the old case endings. These tongues hold the earliest written Celtic evidence. Their grammar informs the study of the whole family.",
+  "entities": [
+    {
+      "entity": "Continental Celtic",
+      "type": "Language"
+    },
+    {
+      "entity": "Gaulish",
+      "type": "Language"
+    },
+    {
+      "entity": "Celtiberian",
+      "type": "Language"
+    },
+    {
+      "entity": "Lepontic",
+      "type": "Language"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Continental Celtic",
+      "value": "the ancient Celtic languages of the mainland, all extinct"
+    },
+    {
+      "entity": "Gaulish",
+      "value": "a Transalpine Celtic language with the largest corpus"
+    },
+    {
+      "entity": "Celtiberian",
+      "value": "retained the rich Indo-European case system"
+    },
+    {
+      "entity": "Lepontic",
+      "value": "a Cisalpine Celtic tongue with early written records"
+    }
+  ],
+  "sources": [
+    "Koch 2006, s.v. 'Continental Celtic'",
+    "Lambert, P.-Y. La langue gauloise. Paris: Éditions Errance, 1994."
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Record Continental Celtic as a verifiable PCE node.",
+    "key_results": [
+      "Factual text written in CSG-style prose of at least 150 characters.",
+      "Entities and attributes recorded for the language group.",
+      "Protected fields set to empty defaults."
+    ],
+    "evidence": "Koch 2006, s.v. 'Continental Celtic'; Lambert, La langue gauloise."
+  }
+}

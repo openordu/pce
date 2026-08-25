@@ -1,0 +1,56 @@
+{
+  "name": "Comunn Gaidhealach and Mòd",
+  "text": "An Comunn Gaidhealach formed in Oban in 1891. It advanced Scottish Gaelic literature and music. The society pressed for Gaelic teaching in Highland schools. It stayed non-political and drew gentry leaders. The word mod names an assembly in Gaelic. The Mòd became its great festival. It ran first in Oban in 1892. It has met every year since. Contests cover songs, poetry, and speech. Local branches staged private Mòdan from 1905. The event mirrors the Welsh eisteddfod. Critics saw the Mòd as old-fashioned. It still holds flagship status for Gaelic culture.",
+  "entities": [
+    {
+      "entity": "An Comunn Gaidhealach",
+      "type": "Institution"
+    },
+    {
+      "entity": "The Mòd",
+      "type": "Institution"
+    },
+    {
+      "entity": "Oban",
+      "type": "Place"
+    },
+    {
+      "entity": "Scottish Gaelic",
+      "type": "Language"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "An Comunn Gaidhealach",
+      "value": "founded in Oban in 1891"
+    },
+    {
+      "entity": "The Mòd",
+      "value": "an annual festival of Gaelic music and arts"
+    },
+    {
+      "entity": "The Mòd",
+      "value": "first held in Oban in 1892 and held continuously since"
+    },
+    {
+      "entity": "An Comunn Gaidhealach",
+      "value": "explicitly non-political and gentry dominated"
+    }
+  ],
+  "sources": [
+    "Koch 2006, s.v. 'Comunn Gaidhealach and Mòd'",
+    "Thompson, L. History of An Comunn Gaidhealach. Dingwall, 1975."
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Record An Comunn Gaidhealach and the Mòd as a verifiable PCE node.",
+    "key_results": [
+      "Factual text written in CSG-style prose of at least 150 characters.",
+      "Entities and attributes recorded for the society and festival.",
+      "Protected fields set to empty defaults."
+    ],
+    "evidence": "Koch 2006, s.v. 'Comunn Gaidhealach and Mòd'; Thompson, History of An Comunn Gaidhealach."
+  }
+}

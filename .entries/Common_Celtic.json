@@ -1,0 +1,52 @@
+{
+  "name": "Common Celtic",
+  "text": "Common Celtic names the oldest reconstructed Celtic speech. It is the shared ancestor of every attested Celtic tongue. Scholars compare the family to recover this stage. Reconstructed forms carry a star in print. Examples are *wiros for man and *fatir for father. The term matches Proto-Celtic in reach. Both label the same unattested proto-language. This stage relies on intra-Celtic comparison. A shared change dropped Indo-European p in most positions. Traces survive in Hercynia silva and the name UVAMO. Innovations after the split are called pan-Celtic.",
+  "entities": [
+    {
+      "entity": "Common Celtic",
+      "type": "Language"
+    },
+    {
+      "entity": "Proto-Celtic",
+      "type": "Language"
+    },
+    {
+      "entity": "Indo-European",
+      "type": "Language"
+    },
+    {
+      "entity": "Celtiberian",
+      "type": "Language"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Common Celtic",
+      "value": "equivalent in use to Proto-Celtic"
+    },
+    {
+      "entity": "Common Celtic",
+      "value": "an unattested proto-language reconstructed from attested forms"
+    },
+    {
+      "entity": "Indo-European",
+      "value": "the broader family from which Celtic diverged"
+    }
+  ],
+  "sources": [
+    "Koch 2006, s.v. 'Common Celtic'",
+    "Jackson, K. H. Language and History in Early Britain. Edinburgh: University Press, 1953."
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Record Common Celtic as a verifiable PCE node based on the Koch entry.",
+    "key_results": [
+      "Factual text written in CSG-style prose of at least 150 characters.",
+      "Entities and attributes recorded for the reconstructed language.",
+      "Protected fields set to empty defaults."
+    ],
+    "evidence": "Koch 2006, s.v. 'Common Celtic'; Jackson, LHEB 3."
+  }
+}
