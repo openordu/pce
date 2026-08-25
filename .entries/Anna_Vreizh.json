@@ -1,0 +1,32 @@
+{
+  "name": "Anna Vreizh",
+  "text": "Anna Vreizh is the Breton name of Anne of Brittany. She served as the last duchess of a fully free Brittany. Her father François II of the Dreux line fought long to keep the duchy autonomous. Anna came to the throne at eleven years old. Breton nobles and foreign kings pressed her to act weak. She proved strong and capable instead. She cared deeply for the welfare of Bretagne. She became a known patron of art and literature. Her prayer book rests in the Pierpont Morgan Library in New York. She made the Tro Breizh pilgrimage around Brittany in 1504. She wed Maximilian of Austria by proxy in 1490. Later she married two French kings, Charles VIII and then Louis XII. Her daughter Claude married the king and joined Brittany to France.",
+  "entities": [
+    {"entity": "Anna Vreizh", "type": "Person"},
+    {"entity": "François II de Dreux", "type": "Person"},
+    {"entity": "Brittany", "type": "Place"},
+    {"entity": "Tro Breizh", "type": "Place"}
+  ],
+  "attributes": [
+    {"entity": "Anna Vreizh", "attribute": "was the last duchess of an independent Brittany"},
+    {"entity": "Anna Vreizh", "attribute": "made the Tro Breizh pilgrimage in 1504"},
+    {"entity": "Anna Vreizh", "attribute": "married the French kings Charles VIII and Louis XII"},
+    {"entity": "Brittany", "attribute": "was joined to France by her daughter Claude"}
+  ],
+  "sources": [
+    "Koch 2006, s.v. 'Anna Vreizh'",
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Establishes Anna Vreizh as the last duchess of an independent Brittany and a patron of art.",
+    "key_results": [
+      "Records her accession at age eleven and the external pressure she faced",
+      "Notes her marriage to two French kings and her patron role",
+      "Ties Brittany's annexation to her daughter Claude"
+    ],
+    "evidence": "Koch 2006, s.v. 'Anna Vreizh'; Monaghan 2008"
+  }
+}

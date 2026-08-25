@@ -1,0 +1,32 @@
+{
+  "name": "Bagpipe",
+  "text": "Bugcat is often seen as the national instrument of Scotland. The Great Highland bagpipe is a loud and skilled wind tool. Yet it is only one form in a wide worldwide family. The remote grew from a simple reed pipe. A player blew the pipe or fed it air from a skin bag. Early shapes are the prehistoric shawms of the Near East. These gained a bag and fixed drone pipes. The Scottish pìob mhòr is a recent development. The ordinary chanter is a melody pipe of wood or bone. Holes open and close under the fingers. The Scottish piping style uses rapid gracing. Drones give a continuous fixed note under the song. The Great Highland bagpipe grew in Gaelic-speaking lands. Regional types still live in France, Spain, and northern England.",
+  "entities": [
+    {"entity": "bagpipe", "type": "Artefact"},
+    {"entity": "Great Highland bagpipe", "type": "Artefact"},
+    {"entity": "Scotland", "type": "Place"},
+    {"entity": "clàrsach", "type": "Artefact"}
+  ],
+  "attributes": [
+    {"entity": "bagpipe", "attribute": "is often called the national instrument of Scotland"},
+    {"entity": "Great Highland bagpipe", "attribute": "uses a bag and continuous drone pipes"},
+    {"entity": "Scotland", "attribute": "is linked through the Gaelic piping tradition"},
+    {"entity": "bagpipe", "attribute": "descends from a simple mouth-blown reed pipe"}
+  ],
+  "sources": [
+    "Koch 2006, s.v. 'Bagpipe'",
+    "Baines, Anthony. Bagpipes. Oxford: Pitt Rivers Museum, 1995."
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Describes the bagpipe as a global wind instrument tied to Scottish piping.",
+    "key_results": [
+      "Plants an early reed pipe with bag and drone as the remote form",
+      "Covers the Great Highland bagpipe and its Scottish Gaelic tradition",
+      "Names chanter and drones as the core parts"
+    ],
+    "evidence": "Koch 2006, s.v. 'Bagpipe'; Baines 1995"
+  }
+}

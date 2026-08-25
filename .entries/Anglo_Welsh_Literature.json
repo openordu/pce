@@ -1,0 +1,52 @@
+{
+  "name": "Anglo-Welsh literature",
+  "text": "Anglo-Welsh literature means writing in English by people of Wales. In Wales, the two languages Welsh and English have lived side by side since the late Middle Ages. The term was adopted about 1922 to name this English-language writing. Some scholars now prefer the name Welsh writing in English. The modern movement grew strong in the twentieth century. An early monument is a long English poem shaped by Welsh strict metre. Henry Vaughan wrote English poetry enriched by Welsh speech. Writers translated Welsh prose, verse and legend for English readers. Anglo-Welsh literature keeps the two languages of Wales in lively exchange. It remains a distinct branch of world literature.",
+  "entities": [
+    {
+      "entity": "Anglo-Welsh literature",
+      "type": "Literature"
+    },
+    {
+      "entity": "Wales",
+      "type": "Place"
+    },
+    {
+      "entity": "Henry Vaughan",
+      "type": "Person"
+    },
+    {
+      "entity": "Welsh language",
+      "type": "Language"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Anglo-Welsh literature",
+      "attribute": "is English-language writing by people of Wales"
+    },
+    {
+      "entity": "Anglo-Welsh literature",
+      "attribute": "was adopted as a term in 1922"
+    },
+    {
+      "entity": "Wales",
+      "attribute": "is the home of two coexisting literary languages since the late Middle Ages"
+    }
+  ],
+  "sources": [
+      "Koch 2006, s.v. 'Anglo-Welsh Literature'",
+      "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+    ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Establishes Anglo-Welsh literature as the English-language literary tradition of Wales.",
+    "key_results": [
+      "Defines the term and its 1922 adoption",
+      "Traces roots to early English verse by Welsh writers",
+      "Records the ongoing place of Anglo-Welsh writing in Welsh culture"
+    ],
+    "evidence": "Koch 2006, s.v. 'Anglo-Welsh Literature'; Monaghan 2008"
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "name": "Seamus Heaney",
+  "text": "Seamus Heaney is the most famous Anglo-Irish poet of modern times. The Academy awarded him the Nobel Prize in Literature in 1995. The prize ceremony is held in Sweden, and he collected his medal there. Heaney was born in rural Northern Ireland and that landscape shaped him. He wrote poems about farm life, family and memory. His verse moved easily between the personal and the political. Heaney drew on older Irish traditions yet wrote a modern English. He was also a widely known critic and lecturer. He taught at Harvard and Oxford. His work brought international fame to contemporary Irish poetry.",
+  "entities": [
+    {
+      "entity": "Seamus Heaney",
+      "type": "Person"
+    },
+    {
+      "entity": "Ireland",
+      "type": "Place"
+    },
+    {
+      "entity": "Anglo-Irish literature",
+      "type": "Literature"
+    },
+    {
+      "entity": "Nobel Prize in Literature",
+      "type": "Artefact"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Seamus Heaney",
+      "attribute": "was awarded the Nobel Prize in Literature in 1995"
+    },
+    {
+      "entity": "Seamus Heaney",
+      "attribute": "was born in rural Northern Ireland"
+    },
+    {
+      "entity": "Anglo-Irish literature",
+      "attribute": "gained international authority through Heaney's poetry"
+    }
+  ],
+  "sources": [
+    "Koch 2006, s.v. 'Anglo-Irish Literature and Poetry'",
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Establishes Seamus Heaney as the leading modern Anglo-Irish poet and Nobel laureate of 1995.",
+    "key_results": [
+      "Records his 1995 Nobel Prize in Literature",
+      "Ties his poetry to rural Northern Ireland and its traditions",
+      "Notes his international influence on Irish writing in English"
+    ],
+    "evidence": "Koch 2006, s.v. 'Anglo-Irish Literature and Poetry'; Monaghan 2008"
+  }
+}

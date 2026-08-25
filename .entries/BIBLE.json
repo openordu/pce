@@ -1,0 +1,64 @@
+{
+  "name": "Bible in the Celtic Languages",
+  "text": "Translating the scriptures into the Celtic languages shaped their early modern history. Vernacular versions only took hold where the Church accepted and spread them. The Welsh Bible succeeded most fully in Cymru. Ireland and Brittany stayed largely Catholic, so the Latin Bible ruled there until recent times. Scotland discouraged Scottish Gaelic Bibles in the Highlands. In Ireland Uilliam O Domhnaill finished an Irish New Testament in 1602, and the Tiomna Nuadha appeared in 1603. William Bedell completed an Irish Bible about 1640, though it was not published until 1685. His version stayed current until the 1970s. A new Irish Bible, An Biobla Naofa, appeared in 1981. A complete Manx Bible did not come out until 1775, too late to displace English. Cornish speakers accepted English as their religious language by the seventeenth century.",
+  "entities": [
+    {
+      "entity": "Bible",
+      "type": "Text"
+    },
+    {
+      "entity": "Welsh",
+      "type": "Language"
+    },
+    {
+      "entity": "Irish",
+      "type": "Language"
+    },
+    {
+      "entity": "Uilliam Domhnaill",
+      "type": "Person"
+    },
+    {
+      "entity": "Manx",
+      "type": "Language"
+    },
+    {
+      "entity": "Scottish Gaelic",
+      "type": "Language"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Bible",
+      "attribute": "was translated into the early printed Celtic languages"
+    },
+    {
+      "entity": "Uilliam Domhnaill",
+      "attribute": "completed an Irish New Testament in 1602"
+    },
+    {
+      "entity": "Bible",
+      "attribute": "appeared in Welsh with Church backing in Wales"
+    },
+    {
+      "entity": "Manx",
+      "attribute": "had a complete Bible only from 1775"
+    }
+  ],
+  "sources": [
+    "Koch 2006, s.v. 'Bible in the Celtic languages'",
+    "Ellis, Peter Berresford. A Brief History of the Celts. Robinson, 2003."
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Establishes the translation and printing of the Bible in the Celtic languages, led by the Welsh example and later Irish editions.",
+    "key_results": [
+      "Records the early Irish New Testament of 1602 and 1603",
+      "Notes Bedell's Irish Bible published 1685 and used into the 1970s",
+      "States the Manx Bible came only in 1775"
+    ],
+    "evidence": "Koch 2006, s.v. 'Bible in the Celtic languages'; Ellis 2003"
+  }
+}
