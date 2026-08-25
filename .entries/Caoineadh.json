@@ -1,0 +1,59 @@
+{
+    "name": "Caoineadh",
+    "attributes": [
+        {
+            "entity": "Caoineadh",
+            "attribute": "the Irish lament or keen"
+        },
+        {
+            "entity": "Do Chuala Scéal",
+            "attribute": "a lament for the loss of the old Gaelic world"
+        },
+        {
+            "entity": "Piaras Feiritéir",
+            "attribute": "reputed maker of the do Chuala lament"
+        },
+        {
+            "entity": "Eibhlín Dhubh Ní Chonaill",
+            "attribute": "craftworker of a later known lament"
+        }
+    ],
+    "entities": [
+        {
+            "entity": "Caoineadh",
+            "type": "Genre"
+        },
+        {
+            "entity": "Piaras Feiritéir",
+            "type": "Person"
+        },
+        {
+            "entity": "Eibhlín Dhubh Ní Chonaill",
+            "type": "Person"
+        },
+        {
+            "entity": "lament",
+            "type": "Form"
+        },
+        {
+            "entity": "Gaelic world",
+            "type": "Concept"
+        }
+    ],
+    "sources": [
+        "Koch 2006, s.v. 'Caoineadh'"
+    ],
+    "image": [],
+    "cyphertext": "",
+    "salt": "",
+    "text": "Caoineadh is the Irish lament, a keen raised in a strong and broken voice. Its oldest form turns on a strict order of the line, and the grief of the one struck down rises and falls on a known beat. The most celebrated keen mourns the close of the older Gaelic world, and tradition credits it to a poet of the war years. A second celebrated lament is drawn from the hand of a woman whose spirit still stays near, and by the whole of the eighteenth century the word came to mean any song of sorrow. The keen ends it as a personal cry for the old home and the world it lost.",
+    "okr": {
+        "objective": "Explain the caoineadh and name its famous examples.",
+        "key_results": [
+            "See out the strict shape of the keening",
+            "Name the two leading laments"
+        ],
+        "evidence": "Koch 2006, s.v. 'Caoineadh'"
+    },
+    "order": 360
+}

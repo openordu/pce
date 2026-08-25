@@ -87,6 +87,7 @@ layout: layouts/pce.njk
 - [Fiachra](Fiachra)
 - [Fial](Fial)
 - [Fianna](Fianna)
+- [Fiannaíocht](Fiannaíocht)
 - [fidchell](fidchell)
 - [Fideal](Fideal)
 - [Fiecal](Fiecal)

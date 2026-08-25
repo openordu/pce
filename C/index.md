@@ -4,6 +4,7 @@ layout: layouts/pce.njk
 ---
 - [Cabyll-Ushtey](Cabyll-Ushtey)
 - [Cado](Cado)
+- [Caoineadh](Caoineadh)
 - [Cáel](Cáel)
 - [caepion](caepion)
 - [Cáer](Cáer)
@@ -14,6 +15,7 @@ layout: layouts/pce.njk
 - [Cai](Cai)
 - [Cailitin](Cailitin)
 - [Cailleach](Cailleach)
+- [Cailleach_Bhéirre](Cailleach_Bhéirre)
 - [Caílte](Caílte)
 - [Caíntigern](Caíntigern)
 - [Cairbre](Cairbre)

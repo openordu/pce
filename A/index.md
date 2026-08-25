@@ -36,6 +36,7 @@ layout: layouts/pce.njk
 - [Aguigrenons](Aguigrenons)
 - [Aí](Aí)
 - [aiats](aiats)
+- [Aided_Énfir_Aífe](Aided_Énfir_Aífe)
 - [Aíbgréne](Aíbgréne)
 - [Aibheaeg](Aibheaeg)
 - [Aidín](Aidín)

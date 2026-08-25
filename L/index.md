@@ -33,6 +33,7 @@ layout: layouts/pce.njk
 - [Laying_the_Fairies](Laying_the_Fairies)
 - [Lebor_Gabála_Érenn](Lebor_Gabála_Érenn)
 - [Leborcham](Leborcham)
+- [Legendary_animals](Legendary_animals)
 - [Leherennus](Leherennus)
 - [Leinster](Leinster)
 - [Len](Len)

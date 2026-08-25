@@ -1,0 +1,76 @@
+{
+    "name": "Aided Énfir Aífe",
+    "attributes": [
+        {
+            "entity": "Aided Énfir Aífe",
+            "attribute": "one version of the Irish tale of the hero who slew his son"
+        },
+        {
+            "entity": "Oidheadh Chonnlaoich mheic Con Culain",
+            "attribute": "the second version of the same killing story"
+        },
+        {
+            "entity": "Cú Chulainn",
+            "attribute": "central hero of the Ulster Cycle who killed his only son"
+        },
+        {
+            "entity": "Aífe",
+            "attribute": "a woman warrior on whom the hero begot the son in Alba"
+        },
+        {
+            "entity": "Conla",
+            "attribute": "the son killed by his own father"
+        },
+        {
+            "entity": "Ulster Cycle",
+            "attribute": "the tale group that preserves this story"
+        }
+    ],
+    "entities": [
+        {
+            "entity": "Aided Énfair Aífe",
+            "type": "Tale"
+        },
+        {
+            "entity": "Aífe",
+            "type": "Warrior"
+        },
+        {
+            "entity": "Cú Chulainn",
+            "type": "Person"
+        },
+        {
+            "entity": "Conla",
+            "type": "Person"
+        },
+        {
+            "entity": "Ulster Cycle",
+            "type": "Collection"
+        },
+        {
+            "entity": "Alba",
+            "type": "Place"
+        },
+        {
+            "entity": "kinslaying",
+            "type": "Concept"
+        }
+    ],
+    "sources": [
+        "Koch 2006, s.v. 'Aided Énfir Aífe'"
+    ],
+    "image": [],
+    "cyphertext": "",
+    "salt": "",
+    "text": "Aided Énfir Aífe is the Irish tale of the violent death of a single son. Cú Chulainn, the great hero of the Ulster Cycle, had one son, named Connla. The boy's mother was Aífe, a woman warrior who lived in Alba, across the sea. Cú Chulainn met the youth by chance on a field and, failing to know him, struck the youth down. The deed is a slaying of kin, a great shame in Irish law. The hero takes the path for the good of his people, but the tale weighs his honour against the loss of his only child. A second version, the death of Connla son of Cú Chulainn, tells the same story.",
+    "okr": {
+        "objective": "Document the Irish tale of the killing of a son.",
+        "key_results": [
+            "Identify the two versions of the story",
+            "Name the hero and the woman warrior",
+            "Explain the kin-slaying act"
+        ],
+        "evidence": "Koch 2006, s.v. 'Aided Énfair Aífe'"
+    },
+    "order": 49
+}

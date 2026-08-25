@@ -1,0 +1,60 @@
+{
+    "name": "Bruiden",
+    "attributes": [
+        {
+            "entity": "bruiden",
+            "attribute": "a great lodging house of generous hospitality in Irish legend"
+        },
+        {
+            "entity": "Scéla Mucce Meic Dá Thó",
+            "attribute": "lists five hostels and their owners"
+        },
+        {
+            "entity": "Da Derga",
+            "attribute": "counted among the owners of the great hostels"
+        },
+        {
+            "entity": "Bruiden Blaí Briugad",
+            "attribute": "a sixth hostel named in the account of Da Choca's lodging"
+        },
+        {
+            "entity": "seven cauldrons",
+            "attribute": "kept warm by seven hearths, each holding a whole ox with bacon"
+        }
+    ],
+    "entities": [
+        {
+            "entity": "bruiden",
+            "type": "Concept"
+        },
+        {
+            "entity": "Scéla Mucce Meid Dá Thó",
+            "type": "Text"
+        },
+        {
+            "entity": "Da Derga",
+            "type": "Person"
+        },
+        {
+            "entity": "Bruigen Blaí Briugad",
+            "type": "Place"
+        }
+    ],
+    "sources": [
+        "Koch 2006, s.v. 'Bruiden'"
+    ],
+    "image": [],
+    "cyphertext": "",
+    "salt": "",
+    "text": "A bruiden is a great lodging house in the Irish legends. In the story of Mac Dá Thó's pig, the hostels of Ireland included the houses of Mac Da Réo, Da Choca, Da Derga, Da Thó, and Forgal Manach. A sixth hostel, called Bruiden Blaí Briugad, appears in the tale of Da Choca's hostel. The tales show the rich hospitality of these halls. Seven doors lead into the building. Seven ways run through it. Seven hearths keep warm seven cauldrons, and every cauldron holds a whole ox with a side of bacon. Such details set out the great generosity given to guests in these legendary Irish halls.",
+    "okr": {
+        "objective": "Document the great, legendary Irish hostels known as bragh.",
+        "key_results": [
+            "Define the broo as a legendary Irish hostel",
+            "Name the host owners of the main tales",
+            "Describe the abundant hospitality of the seven-door hall"
+        ],
+        "evidence": "Koch 2006, s.v. 'Bruiden'"
+    },
+    "order": 336
+}

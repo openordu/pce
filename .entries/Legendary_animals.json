@@ -1,0 +1,68 @@
+{
+    "name": "Legendary animals",
+    "attributes": [
+        {
+            "entity": "water-horse",
+            "attribute": "may take human form, marry mortals, and drag riders into water"
+        },
+        {
+            "entity": "púnca",
+            "attribute": "an Irish name for a shape-shifting creature"
+        },
+        {
+            "entity": "Culhwch",
+            "attribute": "lists long-lived beasts from many places"
+        },
+        {
+            "entity": "Morrígan",
+            "attribute": "appears in the form of a raven in the tales"
+        },
+        {
+            "entity": "shrew",
+            "attribute": "called the fairy mouse, was said to harm cattle"
+        }
+    ],
+    "entities": [
+        {
+            "entity": "Legendary animals",
+            "type": "Concept"
+        },
+        {
+            "entity": "water-horse",
+            "type": "Creature"
+        },
+        {
+            "entity": "púnca",
+            "type": "Creature"
+        },
+        {
+            "entity": "Culhwch",
+            "type": "Text"
+        },
+        {
+            "entity": "Morrígan",
+            "type": "Goddess"
+        },
+        {
+            "entity": "fairy mouse",
+            "type": "Figure"
+        }
+    ],
+    "sources": [
+        "Koch 2006, s.v. 'Legendary animals'"
+    ],
+    "image": [],
+    "cyphertext": "",
+    "salt": "",
+    "text": "Legendary animals are supernatural creatures in Celtic tradition. A water-horse can take human form and even marry a mortal. In the Breton tale of Paotr Pen-er-Lo the horse looks gentle and mild. Once a man mounts it, the beast gallops into a lake or river and drowns its rider. In the Irish tale of Gille the horse was able to stretch to carry many riders. The same stretchable horse appears in the romance of Bayard. The Gaelic name each-uisge means water one, and related names exist for water-horses and water-bulls. Some records speak of wild panther-like beasts in the British Isles, such as the beast of Bodmin Moor in Cornwall and the beast of the bridge in Wales. The European wild cat carries a name for ferocity. The Eurasian common shrew, called the fairy mouse, was thought to cause harm to farm animals. Several named beasts appear in Culhwch. These include the blackbird of the woods, the stag, the owl, the eagle, and the oldest, the salmon, a form of the salmon of knowledge, which once gave wisdom and skill to heroes.",
+    "okr": {
+        "objective": "Document the main kinds of legendary creatures among the Celts and their named beasts.",
+        "key_results": [
+            "Define the water-horse and its shape-shifting ways",
+            "Name the ferocious beasts of the British Isles",
+            "List the long-lived beasts recorded in Cuiltr"
+        ],
+        "evidence": "Koch 2006, s.v. 'Legendary animals'"
+    },
+    "order": 1426
+}

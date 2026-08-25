@@ -8,6 +8,7 @@ layout: layouts/pce.njk
 - [Dahut](Dahut)
 - [Dáire](Dáire)
 - [Daireann](Daireann)
+- [De_Gabáil_in_t-Sída](De_Gabáil_in_t-Sída)
 - [Dame_du_Lac](Dame_du_Lac)
 - [Dames_Vertes](Dames_Vertes)
 - [Damona](Damona)
