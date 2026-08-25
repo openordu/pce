@@ -2,7 +2,7 @@
 layout: layouts/pce.njk
 title: Samhain
 icon: file-lines
-order: 1965
+order: 2019
 contributors: [ 'Christopher Godwin' ]
 attributes:
   - Samhain the Celtic festival of November 1 that opened the new year
@@ -15,12 +15,12 @@ attributes:
   - Samhain set the stage for the great feasts of the Irish sagas
   - Samhain bears a name linked to summer and to the Gaulish month Samoni
 categories:
+  - text
   - being
   - Concept
-  - place
-  - text
-  - person
   - Place
+  - person
+  - place
   - concept
 entities:
   - Samhain(Concept)
@@ -47,7 +47,7 @@ tags:
 ---
 ``` tab [group1:Info]
 ::: magazinestyle
-Samain is the Old Irish name for a festival held on 31 October to 1 November. In the Brythonic lands it was the calends of winter, the Welsh Calan Gaeaf and the Breton Kalan Goañv. It opened the winter and, on strong evidence, the new year, though Beltaine, six months away, also claimed that office. The eve was a liminal time. The dead, fairies, and witches roamed abroad, and the gate to the Otherworld stood open. Folk took precautions. They set open Bibles by doors and windows and laid birch brooms across doorways. In Brittany the people stayed in church through the night of 1 November. They rang bells and held fires, games, and drink. The clergy condemned the practice. Many thought it unlucky to sweep the house after dark. They feared hurting the Anaon, the souls of the dead.
+In Old Irish the chief festival name is Samain. Its dates ran from 31 October to 1 November. In the Brythonic lands it was the calends of winter, the Welsh Calan Gaeaf and the Breton Kalan Goañv. It opened the winter and, on strong evidence, the new year, though Beltaine, six months away, also claimed that office. The eve was a liminal time. The dead, fairies, and witches roamed abroad, and the gate to the Otherworld stood open. Folk took precautions. They set open Bibles by doors and windows and laid birch brooms across doorways. In Brittany the people stayed in church through the night of 1 November. They rang bells and held fires, games, and drink. The clergy condemned the practice. Many thought it unlucky to sweep the house after dark. They feared hurting the Anaon, the souls of the dead.
 
 The night brimmed with divination. A girl in Radnorshire counted the spots on a ladybird to learn the years before she married. In Ireland folk poured molten lead through a key into water and read the shapes. The hempseed charm called up the image of a future spouse. Games and gathering followed. Scots kindled bonfires and carved turnips and swedes, today often pumpkins, and people bobbed for apples. Dublin guisers wore masks and went door to door demanding treats. The night became known as Mischief Night. This custom fed the modern Halloween. The law also marked Samain as a gale day. A heifer's value rose, a young calf became a winter calf, and rents fell due.
 

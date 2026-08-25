@@ -2,7 +2,7 @@
 layout: layouts/pce.njk
 title: Mythological Cycle
 icon: file-lines
-order: 1688
+order: 1731
 contributors: [ 'Christopher Godwin' ]
 attributes:
   - Mythological Cycle a set of Irish tales of the ancient gods
@@ -15,9 +15,9 @@ attributes:
   - Children of Lir subject of a tale read as a meditation on patient Christian suffering
 categories:
   - Person
+  - Concept
   - Text
   - Group
-  - Concept
 entities:
   - Mythological Cycle(Concept)
   - Book of Invasions(Text)
@@ -51,9 +51,9 @@ tags:
 ---
 ``` tab [group1:Info]
 ::: magazinestyle
-The Mythological Cycle is a set of Irish tales. It tells of the ancient gods of the land. The central story is a fight between races, set down in the Book of Invasions. First came the followers of Nemed and Partholon. Then the Fomorians held that land. The Fir Bolg twice pushed them out. Then came the Tuatha De Danann, the people of the goddess Danu. They beat the Fir Bolg at the first battle of Mag Tuired. There the king Nuada lost an arm. A blemished king could not rule. The half-Fomorian Bresa took the throne. He was fair but cruel. A poet of his court made a satire against him. Boils covered his face, and he too was blemished. The healer Dian Cecht and his son Mion worked to make a new hand of silver for Nuada. He ruled again. At the second battle of Mag Tuired he led the folk. The hero Lugh killed the Fomorian king Balorty with a spear.
+The Mythological Cycle is a set of Irish tales. It tells of the ancient gods of the land. The central story is a fight between races, set down in the Book of Invasions. First came the followers of Nemed and Partholon. Then the Fomorians held that land. The Fir Bolg twice pushed them out. Then came the Tuatha De Danann, the people of the goddess Danu. They beat the Fir Bolg in their first fight at Mag Tuired. There the king Nuada lost an arm. A blemished king could not rule. The half-Fomorian Bresa took the throne. He was fair but cruel. A poet of his court made a satire against him. Boils covered his face, and he too was blemished. The healer Dian Cecht and his son Mion worked to make a new hand of silver for Nuada. He ruled again. At the second fight at Mag Tuired he led the folk. The hero Lugh killed the Fomorian king Balorty with a spear.
 
-Later Early Modern tales grew from this cycle. The Children of Tuireann have their own story, the text named Oidheadh Chloinne Tuireann. Its written form belongs to the early modern period, but its core content goes back to the 11th century. The story sits before the second battle of Mag Tuired. It tells how the Sons of Tuireann slew the god Lugh's father. They then owe a heavy price to atone for the crime. This tale draws the divine court as angry and unstable. Lugh appears spiteful and vengeful here, a sharp turn from his earlier character. A second story, Oidheadh Chloinne Lir, ends in grief for the children of Lir. Scholars read it as a long thought about steady Christian suffering. It fits the religious writing common in the late Early Modern age. With the tale of the youth of Uisneach, these make the Three Sorrows of Storytelling. Manuscripts of the 18th and 19th centuries often draw them together.
+Later Early Modern tales grew from this cycle. The Children of Tuireann have their own story, the text named Oidheadh Chloinne Tuireann. Its written form belongs to the early modern period, but its core content goes back to the 11th century. The story sits before the second fight at Mag Tuired. It tells how the Sons of Tuireann slew the god Lugh's father. They then owe a heavy price to atone for the crime. This tale draws the divine court as angry and unstable. Lugh appears spiteful and vengeful here, a sharp turn from his earlier character. A second story, Oidheadh Chloinne Lir, ends in grief for the children of Lir. Scholars read it as a long thought about steady Christian suffering. It fits the religious writing common in the late Early Modern age. With the tale of the youth of Uisneach, these make the Three Sorrows of Storytelling. Manuscripts of the 18th and 19th centuries often draw them together.
 
 :::
 ```
