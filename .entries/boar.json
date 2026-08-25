@@ -1,80 +1,72 @@
 {
-    "name": "boar",
-    "attributes": [
-        {
-            "entity": "boar",
-            "attribute": "a symbolic animal"
-        },
-        {
-            "entity": "boar",
-            "attribute": "the most savage animal the ancient Celts met"
-        },
-        {
-            "entity": "boar",
-            "attribute": "stood for strength, tenacity, and sexual potency"
-        },
-        {
-            "entity": "boar",
-            "attribute": "its meat was part of the Champion's Portion"
-        },
-        {
-            "entity": "Arkan Sonney",
-            "attribute": "a white fairy pig that brought good luck on the Isle of Man"
-        },
-        {
-            "entity": "Diarmait Ua Duibine",
-            "attribute": "died on a poisonous bristle after killing a boar"
-        }
-    ],
-    "entities": [
-        {
-            "entity": "boar",
-            "type": "Animal"
-        },
-        {
-            "entity": "Champion's Portion",
-            "type": "Concept"
-        },
-        {
-            "entity": "Arkan Sonney",
-            "type": "Being"
-        },
-        {
-            "entity": "Isle of Man",
-            "type": "Place"
-        },
-        {
-            "entity": "Diarmait Ua Duibine",
-            "type": "Person"
-        },
-        {
-            "entity": "Otherworld",
-            "type": "Concept"
-        },
-        {
-            "entity": "Mabinogion",
-            "type": "Title"
-        }
-    ],
-    "sources": [
-        "Campbell, J. F. Popular Tales of the West Highlands. Vol. III. Edinburgh: Edmonston and Douglas, 1862, 81.",
-        "Green, Miranda. Symbol and Image in Celtic Religious Art. London: Routledge, 1989. Pp. 27, 139.",
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "image": [
-        "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Wildschwein%2C_N%C3%A4he_Pulverstampftor_%28cropped%29.jpg/1200px-Wildschwein%2C_N%C3%A4he_Pulverstampftor_%28cropped%29.jpg"
-    ],
-    "cyphertext": "Qnon-p2VBp__Sc-P0Abwt_9lkhatdwbyOurAvcVgIYyzexMFtb2lP4yfne4lkODGvq4uvIyR9cRByEVpmQoBOflJsulJ5EJKyC3eY1R4KjrIXplTk9uQMgZZkM9Mv5w1IL4gxU9125W_PRmhNcoT1e_HovOxqB31lv8kv6aZeECN8xZCXz1KcmCCkA-YD7ZWsM9B3JssBCxdSwqjrBFF5ej3eQlx8HEjLEOZnbYkiulz6mGnjRLSfFgyvMGrBxbcTSESHCbKR0j9WswXHPFeGhVuaOr621askByqb9uo4A-q5UYPRPnzWKoyu1o5U_sbPlu2wsHuv-ThfmO-S627Xorwnd8rDEbvYof2bDwMl63ydth9Km5fQb6q5OvE224aq76kJRQ4bcH2fbRhwlVunTIQtYmz_IZq4mpHs96Bw2_pFCoXrcxoEdVghzQrdcepLt1ELDyYUlYJZlKTN7lqGqC9YwyKr6ltCWJnMFK0P1HLl-G-zH8yVa8FhMmzWw0cJ7QC-jOaNFH9f-U4t2e9TCKdnlY9mxPUvFRxNXS2pe_dpNFpvhQDLfmJyOIcJIe7yR-MBk350lj_aKwd6MxChhlAcMQHfzscykbWRWRdmwIFtmv4nBqP1y_dahFvPydLG_2C2YhuewxZ9KFPwg9jhR7NRqxRtrckA4PYuGB0Fql1yvAHffoef8SvySN7ynRCvuKa77Tmus4wsw8SqCJV-f_o8xaihCyR1mg5GCYkN77jxdwwYpabdde-wlj5NYbKBlRC-dUE29d7Qhdk2YYTg06WSq8B7hf5QOT7dhYJrZ6kdTT_YxLJ3uDz3FxIb36mKG4wzMlhLxBittbOL1xqK70nVYV7LPXurCjT9bpYHZumXQcNtN89F1qyCPuGNXrT2DDtZdM8iOTIqeqaa9Fr0QHaJd5rGv0NXwuSxPjwpIz7J2eWWRz5JfAcHhgout3ba247D6xnNgBuUlNR-lwau1T11Rh6q9OYtQXDq1km6lLTtl_eXjU943Q9VHzvDiK8WkmSaZF3Afb6lixvNY1I4B7MOj_jeZMuuDa-6RTqkPfS7WQQbT71KHuQK7owY1lc5cGZV4auZ4JkK-qpjyklrG0qOgPOl7w0xawXvSbl2v_TMV815PwewMCdXthUfBV4r8m6ZOP9uWzYychK251r0jNNk0_AsYlpP2SFFMwD4Z0WKNRxsasQb6mtjZoRZBP4GMDGyzuMqW2tay7FSmrpCxidl3_b3mOdwkJqokHhICwpflvlvKQPi4uoJLtJLtAObfNpoymmhzhxDFwsxwFhMWAcMgfFJyTGqMlJqJ9FF4n78YVT-k6Npnc0iC9ImghGqUhLH_fodFYeKuVOC6oVaLFxQeFSdyqfdr1KRLHX29MMKwUgf3w4se3gkOzqK0yrL-OT00nZ7j2fZVOB2N_IitMMFwAdlV7Yye9YPnkQAF-eljg4MQ7Xsz2bim1AVhg0Co-70M_X1mYMHvNW3ZJspVdBonwNDv4NXk8xqQbHFhG1ZUs5fVXFCeleJTIPEKwFco_bhcdjRMX0GWcLykfIRPWQR8vlVt-wdzeOLCwbtP7xy2MeubBAL5_CtZaBocd5-S6kYReyUIa2YCYWlkUV8bzzun0ormkt__aUHpTZFWqZG7VI_xfgiNl2BjMt7OnumdbOYLjB0QPWQVdNp-yihPMTDcTlme9lUE8E4i8bO00iMeEX_aWVAV0txYS9Rrf97QPcDcuN17cwYGJ3-BCv5J-DwN6R88fAeMYBPxKd4_1COQOeu8nn93OE9mrhSO8suNPDzA8-9dconYyZOyvXZZYKaOFpruYbToQGQX2Tkny6FOKqtGku10klMGiHcT01e1iXHemXazo37p9KgQhhFiDMV1bZcIbjqUavxJd484FQmF7nG1hRfKkjn0VIeMF5ZKvS5nfgflFX1Lr0CFPAqr1vAx0xqr9VNxX8IGZKtyT_weiNzEU4gIpAiYBnR0vD_2NyF9uQwA==",
-    "salt": "QFxwAjI87MXGoyeGDjE9tQ==",
-    "text": "The boar is a symbolic animal. Art and coins from insular and continental sources picture it. It was the most savage animal the ancient Celts met. It became a sign of raw force, firm endurance, and sexual power. Its meat was often part of the Champion's Portion. Its skin made warriors' cloaks. Its favored meat also made it a sign of prosperity. On the Isle of Man the Arkan Sonney, called the lucky piggy, was a lovely white fairy pig. People held that it brought luck. The boar appears in major Irish legend cycles. The hero Diarmait Ua Duibine died after killing one. He stepped on a poisonous bristle while measuring the beast. An Otherworld pig could be eaten yet endlessly restore its flesh. In the Mabinogion, boars come from the Otherworld.",
-    "okr": {
-        "objective": "Describe the boar as a symbolic animal of strength and prosperity.",
-        "key_results": [
-            "The boar appeared in art and on coins.",
-            "It stood for strength, tenacity, and sexual potency.",
-            "The Arkan Sonney was a lucky white fairy pig of the Isle of Man.",
-            "Diarmait Ua Duibine died on a boar's poisonous bristle."
-        ],
-        "evidence": "Monaghan 2008, s.v. 'boar'."
-    }
+ "name": "boar",
+ "attributes": [
+  {
+   "entity": "boar",
+   "attribute": "held deep symbolic weight for the Celts"
+  },
+  {
+   "entity": "Moccus",
+   "attribute": "a Gaulish god of the pig or the boar linked to Mercury"
+  },
+  {
+   "entity": "Ysgithrwyn",
+   "attribute": "a chief boar called the white tusk in Culhwch and Olwen"
+  },
+  {
+   "entity": "Twrch Trwyth",
+   "attribute": "the great boar hunted in Culhwch and Olwen"
+  }
+ ],
+ "entities": [
+  {
+   "entity": "boar",
+   "type": "Animal"
+  },
+  {
+   "entity": "Moccus",
+   "type": "Deity"
+  },
+  {
+   "entity": "Culhwch and Olwen",
+   "type": "Title"
+  },
+  {
+   "entity": "Ysgithrwyn",
+   "type": "Creature"
+  },
+  {
+   "entity": "Twrch Trwyth",
+   "type": "Creature"
+  },
+  {
+   "entity": "Gwydion",
+   "type": "Person"
+  },
+  {
+   "entity": "Lleu",
+   "type": "Person"
+  }
+ ],
+ "sources": [
+  "Campbell, J. F. Popular Tales of the West Highlands. Vol. III. Edinburgh: Edmonston and Douglas, 1862, 81.",
+  "Green, Miranda. Symbol and Image in Celtic Religious Art. London: Routledge, 1989. Pp. 27, 139.",
+  "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+ ],
+ "image": [
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Wildschwein%2C_N%C3%A4he_Pulverstampftor_%28cropped%29.jpg/1200px-Wildschwein%2C_N%C3%A4he_Pulverstampftor_%28cropped%29.jpg"
+ ],
+ "cyphertext": "Qnon-p2VBp__Sc-P0Abwt_9lkhatdwbyOurAvcVgIYyzexMFtb2lP4yfne4lkODGvq4uvIyR9cRByEVpmQoBOflJsulJ5EJKyC3eY1R4KjrIXplTk9uQMgZZkM9Mv5w1IL4gxU9125W_PRmhNcoT1e_HovOxqB31lv8kv6aZeECN8xZCXz1KcmCCkA-YD7ZWsM9B3JssBCxdSwqjrBFF5ej3eQlx8HEjLEOZnbYkiulz6mGnjRLSfFgyvMGrBxbcTSESHCbKR0j9WswXHPFeGhVuaOr621askByqb9uo4A-q5UYPRPnzWKoyu1o5U_sbPlu2wsHuv-ThfmO-S627Xorwnd8rDEbvYof2bDwMl63ydth9Km5fQb6q5OvE224aq76kJRQ4bcH2fbRhwlVunTIQtYmz_IZq4mpHs96Bw2_pFCoXrcxoEdVghzQrdcepLt1ELDyYUlYJZlKTN7lqGqC9YwyKr6ltCWJnMFK0P1HLl-G-zH8yVa8FhMmzWw0cJ7QC-jOaNFH9f-U4t2e9TCKdnlY9mxPUvFRxNXS2pe_dpNFpvhQDLfmJyOIcJIe7yR-MBk350lj_aKwd6MxChhlAcMQHfzscykbWRWRdmwIFtmv4nBqP1y_dahFvPydLG_2C2YhuewxZ9KFPwg9jhR7NRqxRtrckA4PYuGB0Fql1yvAHffoef8SvySN7ynRCvuKa77Tmus4wsw8SqCJV-f_o8xaihCyR1mg5GCYkN77jxdwwYpabdde-wlj5NYbKBlRC-dUE29d7Qhdk2YYTg06WSq8B7hf5QOT7dhYJrZ6kdTT_YxLJ3uDz3FxIb36mKG4wzMlhLxBittbOL1xqK70nVYV7LPXurCjT9bpYHZumXQcNtN89F1qyCPuGNXrT2DDtZdM8iOTIqeqaa9Fr0QHaJd5rGv0NXwuSxPjwpIz7J2eWWRz5JfAcHhgout3ba247D6xnNgBuUlNR-lwau1T11Rh6q9OYtQXDq1km6lLTtl_eXjU943Q9VHzvDiK8WkmSaZF3Afb6lixvNY1I4B7MOj_jeZMuuDa-6RTqkPfS7WQQbT71KHuQK7owY1lc5cGZV4auZ4JkK-qpjyklrG0qOgPOl7w0xawXvSbl2v_TMV815PwewMCdXthUfBV4r8m6ZOP9uWzYychK251r0jNNk0_AsYlpP2SFFMwD4Z0WKNRxsasQb6mtjZoRZBP4GMDGyzuMqW2tay7FSmrpCxidl3_b3mOdwkJqokHhICwpflvlvKQPi4uoJLtJLtAObfNpoymmhzhxDFwsxwFhMWAcMgfFJyTGqMlJqJ9FF4n78YVT-k6Npnc0iC9ImghGqUhLH_fodFYeKuVOC6oVaLFxQeFSdyqfdr1KRLHX29MMKwUgf3w4se3gkOzqK0yrL-OT00nZ7j2fZVOB2N_IitMMFwAdlV7Yye9YPnkQAF-eljg4MQ7Xsz2bim1AVhg0Co-70M_X1mYMHvNW3ZJspVdBonwNDv4NXk8xqQbHFhG1ZUs5fVXFCeleJTIPEKwFco_bhcdjRMX0GWcLykfIRPWQR8vlVt-wdzeOLCwbtP7xy2MeubBAL5_CtZaBocd5-S6kYReyUIa2YCYWlkUV8bzzun0ormkt__aUHpTZFWqZG7VI_xfgiNl2BjMt7OnumdbOYLjB0QPWQVdNp-yihPMTDcTlme9lUE8E4i8bO00iMeEX_aWVAV0txYS9Rrf97QPcDcuN17cwYGJ3-BCv5J-DwN6R88fAeMYBPxKd4_1COQOeu8nn93OE9mrhSO8suNPDzA8-9dconYyZOyvXZZYKaOFpruYbToQGQX2Tkny6FOKqtGku10klMGiHcT01e1iXHemXazo37p9KgQhhFiDMV1bZcIbjqUavxJd484FQmF7nG1hRfKkjn0VIeMF5ZKvS5nfgflFX1Lr0CFPAqr1vAx0xqr9VNxX8IGZKtyT_weiNzEU4gIpAiYBnR0vD_2NyF9uQwA==",
+ "salt": "QFxwAjI87MXGoyeGDjE9tQ==",
+ "text": "The wild boar held deep symbolic weight for the ancient Celts. Art and coinage from the Continent and the islands show it. Writers linked the Gaulish god Moccus to the Roman Mercury, and he may have stood for a pig or a boar. In the Welsh tale Culhwch and Olwen, Arthur's men first hunted Ysgithrwyn, a chief boar called the white tusk, before the great chase of Twrch Trwyth and his offspring. The Middle Welsh name hob set the tame pig's origin in the Otherworld. In the Fourth Branch of the Mabinogi, a sow from the Otherworld guided Gwydion to the slain Lleu.",
+ "okr": {
+  "objective": "Record the boar's symbolic role and its place in Welsh legend from Koch 2006.",
+  "key_results": [
+   "The boar appears in Celtic art and on coinage.",
+   "The Gaulish god Moccus may represent a pig or a boar.",
+   "Arthur's men hunted Ysgithrwyn before the chase of Twrch Trwyth.",
+   "The Middle Welsh name hob set the tame pig's origin in the Otherworld."
+  ],
+  "evidence": "Koch 2006, s.v. 'boar'."
+ }
 }
