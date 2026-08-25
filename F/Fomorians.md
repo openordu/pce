@@ -2,76 +2,56 @@
 layout: layouts/pce.njk
 title: Fomorians
 icon: file-lines
-order: 1007
+order: 1036
 contributors: [ 'Christopher Godwin' ]
 attributes:
-  - Tuatha Dé Danann peers of the Fomorians
-  - Ériu goddess of the Tuatha Dé Danann
-  - Ireland named after the Tuatha Dé goddess Ériu
-  - Elatha Fomorian king and husband of Ériu
-  - Bres Mac Elatha son of Elatha and king at Tara
-  - Balor gigantic and evil Fomorian king
-  - Eithne daughter of Balor
-  - Lugh son of Eithne and half-breed
-  - Mag Tuired site of the greatest combat in Irish mythology
+  - Fomorians an ancient and monstrous race
+  - Fomorians appear in the tales of the Fianna
+  - Abarta joined the Fianna as a lazy worker
+  - Fionn Mac Cumhaill named Abarta a lazy servant
+  - Abarta carried the Fianna away to the Otherworld
+  - Fionn Mac Cumhaill freed the captives and barred Abarta
 categories:
-  - son of Eithne
-  - king
-  - daughter of Balor
-  - Fomorian king
-  - mythological group
-  - goddess
-  - geographic location
+  - group
+  - place
+  - mythological figure
+  - hero
 entities:
-  - Tuatha Dé Danann(mythological group)
-  - Fomorians(mythological group)
-  - Ériu(goddess)
-  - Ireland(geographic location)
-  - Elatha(Fomorian king)
-  - Bres Mac Elatha(king)
-  - Balor(Fomorian king)
-  - Eithne(daughter of Balor)
-  - Lugh(son of Eithne)
+  - Fomorians(group)
+  - Fianna(group)
+  - Abarta(mythological figure)
+  - Fionn Mac Cumhaill(hero)
+  - Otherworld(place)
 tags:
-  - Tuatha Dé Danann
   - Fomorians
-  - Ériu
-  - Ireland
-  - Elatha
-  - Bres Mac Elatha
-  - Balor
-  - Eithne
-  - Lugh
+  - Fianna
+  - Abarta
+  - Fionn Mac Cumhaill
+  - Otherworld
 ---
 ``` tab [group1:Info]
 ::: magazinestyle
-A mythological race known as the Fomorians (also Fomoire, Fomhóire, Fomoré) play a significant role in Ireland's history. These monsters, in Ireland's mythological past, were known to attack and fight against various settlers until they were defeated by the magical Tuatha Dé Danann. As scholars widely agree that Ireland's settlement myths mentioned in the Book of Invasion and other texts have historical roots, the question arises as to who these demonic beings truly were. Initial descriptions of them representing one-legged and one-armed beings, for instance, are unlikely to be a factual representation of these beings. While earlier interpretations suggested that they were sea monsters or pirates, historical etymology today discredits such views since the mor in their names refers to the word "phantom" rather than "sea." A more common approach is to interpret them as the remnants of ancient divinities who were subjugated in early invasions and subsequently intermingled and intermarried with their conquerors. While earlier narratives did not differentiate one Fomorian from another, later mythological texts portrayed them individually. They were found to be on par with the Tuatha Dé Danann, frequently intermarrying among themselves. For instance, Elatha, a Fomorian king, became the husband of Ériu, the Tuatha Dé goddess, after whom Ireland is named. Bres Mac Elatha, their son, was the king at Tara for a brief period. Even the half-breed Lugh was related to the evil Fomorian king Balor through his daughter, Eithne, who was renowned for her beauty. Alliances between the Tuatha Dé and the Fomorians were not firm. Eventually, in the second battle of Mag Tuired, which is considered to be the most significant battle in Irish mythology, the Tuatha Dé squared off against the Fomorians. During the battle, Lugh killed his grandfather Balor and the Fomorians were banished permanently from the island and forced into the sea.
+The Fomorians are a hostile race of Irish legend. They appear as supernatural beings, and tales often make them monstrous. The name holds two parts. The first part is the preposition fo, which means below. The second part is harder to trace. One scholar, Rudolf Thurneysen, linked it to the -mare that ends the English word nightmare. Medieval writers took the second part to mean sea. That reading matched the Fomorians' character Later Irish writers shaped the form Fomoraigh. They reinterpreted the second part as mor, the word for big. So the name grew to mean giants. Koch also notes the Fomorians opposed the first settlers of Ireland and some of its early kings. One elegy places them under the worlds of men. At the battle of Mag Tuired, the Fomorians face the god-people of the Tuatha De Danann. In that tale a Fomorian king named Bres rules the Tuath De for a time before the gods turn on him. Genealogical texts count the race among the monstrous groups that descend from a cursed biblical line. The Fomorians also enter the tales of a warrior band called the Fianna. An eager man named Abarta wanted to join those heroes. He came to them while he acted like a lazy worker. Fionn Mac Cumhaill took him into service and called him a lazy servant. Abarta led the Fianna onto a weak old horse. The horse carried them to the Otherworld, where he kept them prisoner. Fionn passed through many adventures and freed his men (see Koch, Fomoiri, s.v.).
 
 :::
 ```
 ``` tab [group1:Attributes]
-- **Tuatha Dé Danann**: peers of the Fomorians
-- **Ériu**: goddess of the Tuatha Dé Danann
-- **Ireland**: named after the Tuatha Dé goddess Ériu
-- **Elatha**: Fomorian king and husband of Ériu
-- **Bres Mac Elatha**: son of Elatha and king at Tara
-- **Balor**: gigantic and evil Fomorian king
-- **Eithne**: daughter of Balor
-- **Lugh**: son of Eithne and half-breed
-- **Mag Tuired**: site of the greatest combat in Irish mythology
+- **Fomorians**: an ancient and monstrous race
+- **Fomorians**: appear in the tales of the Fianna
+- **Abarta**: joined the Fianna as a lazy worker
+- **Fionn Mac Cumhaill**: named Abarta a lazy servant
+- **Abarta**: carried the Fianna away to the Otherworld
+- **Fionn Mac Cumhaill**: freed the captives and barred Abarta
 ```
 ``` tab [group1:Entities]
-- **Tuatha Dé Danann**: mythological group
-- **Fomorians**: mythological group
-- **Ériu**: goddess
-- **Ireland**: geographic location
-- **Elatha**: Fomorian king
-- **Bres Mac Elatha**: king
-- **Balor**: Fomorian king
-- **Eithne**: daughter of Balor
-- **Lugh**: son of Eithne
+- **Fomorians**: group
+- **Fianna**: group
+- **Abarta**: mythological figure
+- **Fionn Mac Cumhaill**: hero
+- **Otherworld**: place
 ```
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
+- Koch 2006, s.v. 'Fomoiri'
 ```
 ![Fomorians Image](https://upload.wikimedia.org/wikipedia/commons/2/27/The_Fomorians%2C_Duncan_1912.jpg)
