@@ -1,49 +1,116 @@
 {
-  "name": "Continental Celts",
-  "entities": [
-    {
-      "entity": "Adsage",
-      "type": "god"
-    },
-    {
-      "entity": "magic",
-      "type": "concept"
-    },
-    {
-      "entity": "Otherworld",
-      "type": "place"
-    }
-  ],
-  "attributes": [
-    {
-      "entity": "Adsage",
-      "attribute": "a Continental Celtic goddess"
-    },
-    {
-      "entity": "Adsage",
-      "attribute": "called the weaver of spells"
-    },
-    {
-      "entity": "Adsage",
-      "attribute": "could find the object of a curse"
-    }
-  ],
-  "sources": [
-    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-  ],
-  "cyphertext": "mdo-5PcUuy16cl4zRFPyigMHwJK1IssJKeiwhtq5orXahWw-JcT5ypglUsR8cqExQ7gyyTUonVQ=",
-  "salt": "bOHB49A_tJbzqtioBB5jeA==",
-  "text": "The entry points to a goddess of the Continental Celts, whose name was Antiksa. She held the title weaver of spelled, for she ruled over cloth aboard the Otherworld. As she who sees out, she could point to the origin of any spoken curse or bent favour.",
-  "okr": {
-    "objective": "A Continental goddess named Ads is tied to magic and the Otherworld.",
-    "key_results": [
-      "She was called the weaver of spells.",
-      "She governed magic and the Otherworld.",
-      "She could seek out the object of a curse or blessing."
+    "name": "Continental Celts",
+    "entities": [
+        {
+            "entity": "Adsage",
+            "type": "god"
+        },
+        {
+            "entity": "magic",
+            "type": "concept"
+        },
+        {
+            "entity": "Otherworld",
+            "type": "place"
+        },
+        {
+            "entity": "Gallish",
+            "type": "Group"
+        },
+        {
+            "entity": "Celctic",
+            "type": "Group"
+        },
+        {
+            "entity": "Galatian",
+            "type": "Group"
+        },
+        {
+            "entity": "Lepontic",
+            "type": "Group"
+        },
+        {
+            "entity": "La Tene",
+            "type": "Group"
+        },
+        {
+            "entity": "Proto-Celtic",
+            "type": "Group"
+        },
+        {
+            "entity": "Adsady",
+            "type": "Goddess"
+        },
+        {
+            "entity": "Gaul",
+            "type": "Place"
+        },
+        {
+            "entity": "Iberia",
+            "type": "Place"
+        },
+        {
+            "entity": "Britain",
+            "type": "Place"
+        },
+        {
+            "entity": "Insular Celtic",
+            "type": "Group"
+        }
     ],
-    "evidence": "Monaghan, Encyclopedia of Celtic Mythology and Folklore"
-  },
-  "image": [
-    "https://upload.wikimedia.org/wikipedia/commons/1/1f/Celts_in_Europe.png"
-  ]
+    "attributes": [
+        {
+            "entity": "Adsage",
+            "attribute": "a Continental Celtic goddess"
+        },
+        {
+            "entity": "Adsage",
+            "attribute": "called the weaver of spells"
+        },
+        {
+            "entity": "Adsage",
+            "attribute": "could find the object of a curse"
+        },
+        {
+            "entity": "Continental Celts",
+            "attribute": "a branch of the Celtic peoples of mainland Europe"
+        },
+        {
+            "entity": "Continental Celts",
+            "attribute": "kept the five inherited vowels of late Indo-European"
+        },
+        {
+            "entity": "Continental Celts",
+            "attribute": "spread their speech beneath the La Tene horizon from about 400 BC"
+        },
+        {
+            "entity": "Adsalla",
+            "attribute": "a weaver goddess who guarded the Otherworld"
+        },
+        {
+            "entity": "Continental Celts",
+            "attribute": "lost the sound /p/ at start of words and between vowels"
+        }
+    ],
+    "sources": [
+        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.",
+        "Koch 2006, s.v. 'Continental Celtic'"
+    ],
+    "cyphertext": "mdo-5PcUuy16cl4zRFPyigMHwJK1IssJKeiwhtq5orXahWw-JcT5ypglUsR8cqExQ7gyyTUonVQ=",
+    "salt": "bOHB49A_tJbzqtioBB5jeA==",
+    "text": "The Continental Celts were the ancient Celtic peoples of mainland Europe, set apart from the Insular Celts of Britain and Ireland. Their tongues form one branch of the wider Celtic language family. The chief Continental Celtic languages are Gaulish, Celtiberian, Lepontic (also called Cisalpine Celtic, and Galatian. These survive only in fragments, chiefly inscriptions cut in stone, legends on coins, and a few calendar records. The lands they held ran from Iberia and Gaul across the Alps toward Asia Minor. Votive tablets of the Continental Celts name the goddess Adsalla, a weaver of spells who guarded the Otherworld and could point to the object behind any spoken curse. In speech the Continental Celtic tongues keep the late Indo-European set of five vowels in a contrast of long and long. Their sound systems shifted while inscriptions were being cut, so the old alphabets sometimes hide a recent change. The stop consonants fit into bilabial, coronal, and dorsal classes, with a labial-velar pair as well. The inherited sound /p/ weakens and then disappears at the start of words and between vowels, a known feature of the Celtic branch. The nouns keep a rich system of endings within the eight Indo-European cases, and the three genders are all found. In the oldest texts the usual order of a clause is subject and object and then the verb. A shift that scholars now call the said of a royal verb toward the start of the clause in later Gaulish. That drift toward verb-first order helped reshape the tongue of medieval Britain. The cultural spread moved with the La Tene horizon, which carried these languages from Gaul into the world and toward Britain in waves from about 400 BC onward.",
+    "okr": {
+        "objective": "Continental Celtic is the mainland branch of the Celtic language family, known from fragmentary inscriptions and tied to the La Tene spread.",
+        "key_results": [
+            "The branch kept the five inherited vowels of Indo-European.",
+            "The La Tene horizon carried the tongues from Gaul toward Britain.",
+            "The verb drifted forward in the clause over time.",
+            "Votive records name the goddess Adsady, a weaver of spells."
+        ],
+        "evidence": "Koch 2006, s.v. 'Continental Celtic'"
+    },
+    "image": [
+        "https://upload.wikimedia.org/wikipedia/commons/1/1f/Celts_in_Europe.png"
+    ],
+    "order": 525
 }

@@ -1,51 +1,90 @@
 {
-  "name": "Turoe Stone",
-  "attributes": [
-    {
-      "entity": "Turoe Stone",
-      "attribute": "a human-sized carved boulder near Loughrea in Galway"
-    },
-    {
-      "entity": "Turoe Stone",
-      "attribute": "a Celtic site carved in the La Tene style"
-    }
-  ],
-  "entities": [
-    {
-      "entity": "Turoe Stone",
-      "type": "Place"
-    },
-    {
-      "entity": "Loughrea",
-      "type": "Place"
-    },
-    {
-      "entity": "Uisneach",
-      "type": "Place"
-    },
-    {
-      "entity": "La Tene",
-      "type": "Culture"
-    }
-  ],
-  "sources": [
-    "Harbison, Peter. Pre-Christian Ireland: From the First Settlers to the Early Celts. London: Thames and Hudson, 1988, 158.",
-    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-  ],
-  "image": [
-    "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Stone_of_Turoe.JPG/1200px-Stone_of_Turoe.JPG"
-  ],
-  "cyphertext": "Qzy2egWxUkN7sLoQluC8N7VloSsRxbMsvL5mNItRJa7Rc-N21BeCodMwcD23nYWNZUIMzECYThRW7VRqiXZoWnHaxIGw1EuEcczqbCtttqMh0jExUEL-1x7iC4LY_chPEcJndRZ-ebASF0MVm3TNcQAmqj87Ji7PkPa0ZS3KtVNcmqDV1bXI7r2fNcIpluJ75keBekREhOW7M8e3pZwM1cAbhxe81pkZFr-G7g8-0F4LbwylKJ4iGN2rxu1BXUkfk4u4hakT1Gln4XEB_fgJrOBS86wF83jt5mKK5zlwoBnMoDFynUFnkv3s-NcxwbWJwnl3tUMIyR6txPE6d1f0vdhkv7XKlDIbmHJ6PT8QNHoAYhebfUZtJykh3SCYB7swNA1d_eKeWqINl9Tu2wUYHLO5ODMYhTOOoC5C5JK82WWu8xsK1PdVkaTw6wbu5IJZQ02orpujGS1la05g7twsUnkmY-WhlzDnaNCIrJTDuXHzCIwYd2vDSx18q6RQhq52y1LylzUNI4LEQSihSBFtOUElqZhVVaFDuKieqtoV9DlaTiFzzE1eB5pcxqaHgpzdJyT2o6j4jCC2bCJ32p2vpoX5npnpkPIpl3OOwme_U8VXzJBECdXCrgtF4TTT-8ior_vvUAFt236Vc-s4BAPcQ3-xFI07h59l6vN9vXbOpTrLrNJEpi_1i72_OgS0paFONitEes9wm2M1EYBfPhTP4UoROeZjwbfc2uWM8l58OVkkJ6LDmOY7hi8QYug0U81cydYn7LSoY3L1ig8OtBZ23MpYteCW9rrEJ0aRULLvFhNDd9iQLQ1fGtiM3BzCWWW0_ao8EtJombTuLQp33BSMUIkovYj0yxi0tBpqa1VZdVc38-u_mdwSRDo1dEo1TgCwrc4gLxeD-MTdSkA2Ad3O34d1pXOdDtXUwWS3c1z7EarVW_TO3LV5LG7EsbkvLMQ3qsI0HBPpCnChOkULrUINa1lzJl3apY3TFCcpDy26dfBSm04zlUAnRXHiLjyF97o4zs4DYQGl7J7OmVVU70_wcqKO8xoi7x3jXLNJ90cVZgcdM7v7F-k9tOSvdP-tyImi4Q8crxFoUv5dKEC0bF-356GU4lT6ZO6jj6SWPDY0Kt4P7fjuIShAjpYyMd0uqPdtECMejsuqRCGrAqch14qRCzABoPV2_g_nGjsdIzM62qbnXcFFq_cBTFmWJd2u7OG38ID3R3bCflMWP6uHrKGjmsbr4JGYtHkI1m1Yp5MnIFtW27rKH4sLwqf6N7pU23cFe_ctXPDkWRI5MFXVpGnMXUuLIlrYAmmHRSY2e1GFOt7qFyY6E5F76oU6FKOijA==",
-  "salt": "YB9T6N1K8oi2wUjxryW4Fw==",
-  "text": "The Turoe Stone is an Irish mythological site. It stands in a field outside Loughrea, near Galway City. The boulder is human-sized and upright, its top covered with ornate low reliefs. It first stood near a rath called Feerwore and was moved in historical times to its current place. The carving is in the La Tene style, which marks the stone as Celtic. Its purpose is unknown, though four similar pillar stones are found elsewhere in Ireland. Such stones may mark a central point, like the Stone of Divisions on the hill of Uisneach. A replica of the Turoe Stone stands in the National Museum in Dublin.",
-  "okr": {
-    "objective": "Record the Irish site of the Turoe Stone.",
-    "key_results": [
-      "It is a carved boulder outside Loughrea near Galway City",
-      "The reliefs follow the La Tene style, which marks it as Celtic",
-      "Four similar pillar stones exist elsewhere in Ireland",
-      "A replica is displayed in the National Museum in Dublin"
+    "name": "Turoe Stone",
+    "attributes": [
+        {
+            "entity": "Turoe Stone",
+            "attribute": "a human-sized carved boulder near Loughrea in Galway"
+        },
+        {
+            "entity": "Turoe Stone",
+            "attribute": "a Celtic site carved in the La Tene style"
+        },
+        {
+            "entity": "Turoe Stone",
+            "attribute": "the finest of five non-representational carved stones of the pre-Christian Iron Age"
+        },
+        {
+            "entity": "Turoe Stone",
+            "attribute": "made from a glacial erratic of fine-grained granite"
+        },
+        {
+            "entity": "Turoe Stone",
+            "attribute": "stands 1.2 metres above ground and 0.48 metres below it"
+        },
+        {
+            "entity": "Turoe Stone",
+            "attribute": "the upper 0.68 metres bears fine La Tene ornament with curving motifs"
+        },
+        {
+            "entity": "Turoe Stone",
+            "attribute": "moved from its original place in the 1850s to adorn a garden"
+        }
     ],
-    "evidence": "Monaghan 2008, s.v. 'Turoe Stone'."
-  }
+    "entities": [
+        {
+            "entity": "Turoe Stone",
+            "type": "Place"
+        },
+        {
+            "entity": "Loughrea",
+            "type": "Place"
+        },
+        {
+            "entity": "Uisneach",
+            "type": "Place"
+        },
+        {
+            "entity": "La Tene",
+            "type": "Culture"
+        },
+        {
+            "entity": "Castlestrange",
+            "type": "Place"
+        },
+        {
+            "entity": "Killycluggin",
+            "type": "Place"
+        },
+        {
+            "entity": "Mullaghmast",
+            "type": "Place"
+        },
+        {
+            "entity": "Rath of Feerwore",
+            "type": "Place"
+        }
+    ],
+    "sources": [
+        "Harbison, Peter. Pre-Christian Ireland: From the First Settlers to the Early Celts. London: Thames and Hudson, 1988, 158.",
+        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.",
+        "Koch 2006, s.v. 'Turoe Stone'"
+    ],
+    "image": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Stone_of_Turoe.JPG/1200px-Stone_of_Turoe.JPG"
+    ],
+    "cyphertext": "Qzy2egWxUkN7sLoQluC8N7VloSsRxbMsvL5mNItRJa7Rc-N21BeCodMwcD23nYWNZUIMzECYThRW7VRqiXZoWnHaxIGw1EuEcczqbCtttqMh0jExUEL-1x7iC4LY_chPEcJndRZ-ebASF0MVm3TNcQAmqj87Ji7PkPa0ZS3KtVNcmqDV1bXI7r2fNcIpluJ75keBekREhOW7M8e3pZwM1cAbhxe81pkZFr-G7g8-0F4LbwylKJ4iGN2rxu1BXUkfk4u4hakT1Gln4XEB_fgJrOBS86wF83jt5mKK5zlwoBnMoDFynUFnkv3s-NcxwbWJwnl3tUMIyR6txPE6d1f0vdhkv7XKlDIbmHJ6PT8QNHoAYhebfUZtJykh3SCYB7swNA1d_eKeWqINl9Tu2wUYHLO5ODMYhTOOoC5C5JK82WWu8xsK1PdVkaTw6wbu5IJZQ02orpujGS1la05g7twsUnkmY-WhlzDnaNCIrJTDuXHzCIwYd2vDSx18q6RQhq52y1LylzUNI4LEQSihSBFtOUElqZhVVaFDuKieqtoV9DlaTiFzzE1eB5pcxqaHgpzdJyT2o6j4jCC2bCJ32p2vpoX5npnpkPIpl3OOwme_U8VXzJBECdXCrgtF4TTT-8ior_vvUAFt236Vc-s4BAPcQ3-xFI07h59l6vN9vXbOpTrLrNJEpi_1i72_OgS0paFONitEes9wm2M1EYBfPhTP4UoROeZjwbfc2uWM8l58OVkkJ6LDmOY7hi8QYug0U81cydYn7LSoY3L1ig8OtBZ23MpYteCW9rrEJ0aRULLvFhNDd9iQLQ1fGtiM3BzCWWW0_ao8EtJombTuLQp33BSMUIkovYj0yxi0tBpqa1VZdVc38-u_mdwSRDo1dEo1TgCwrc4gLxeD-MTdSkA2Ad3O34d1pXOdDtXUwWS3c1z7EarVW_TO3LV5LG7EsbkvLMQ3qsI0HBPpCnChOkULrUINa1lzJl3apY3TFCcpDy26dfBSm04zlUAnRXHiLjyF97o4zs4DYQGl7J7OmVVU70_wcqKO8xoi7x3jXLNJ90cVZgcdM7v7F-k9tOSvdP-tyImi4Q8crxFoUv5dKEC0bF-356GU4lT6ZO6jj6SWPDY0Kt4P7fjuIShAjpYyMd0uqPdtECMejsuqRCGrAqch14qRCzABoPV2_g_nGjsdIzM62qbnXcFFq_cBTFmWJd2u7OG38ID3R3bCflMWP6uHrKGjmsbr4JGYtHkI1m1Yp5MnIFtW27rKH4sLwqf6N7pU23cFe_ctXPDkWRI5MFXVpGnMXUuLIlrYAmmHRSY2e1GFOt7qFyY6E5F76oU6FKOijA==",
+    "salt": "YB9T6N1K8oi2wUjxryW4Fw==",
+    "text": "The Turoe Stone is an Irish mythological site. It stands in a field outside Loughrea, near Galway City. The boulder is human-sized and upright, its top covered with ornate low reliefs. It first stood near a rath called Feerwore and was moved in historical times to its current place. The carving is in the La Tene style, which marks the stone as Celtic. Its purpose is unknown, though four similar pillar stones are found elsewhere in Ireland. Such stones may mark a central point, like the Stone of Divisions on the hill of Uisneach. A replica of the Turoe Stone stands in the National Museum in Dublin.\n\nKoch calls it the finest of five non-representational carved stones dated to the pre-Christian Iron Age of Ireland. The other closely comparable stones stand at Castlestrange in Roscommon, Killycluggin in Cavan, Mullaghmast in Kildare, and Derrykeighan in Antrim. The boulder is an erratic left by a glacier, cut from fine-grained granite. It now stands 1.2 metres above the ground, with a further 0.48 metres below it. Its round shape and domed top have led some to suggest a phallic meaning. Its upper part carries finely cut La Tene ornament that sweeps across the crown. Below it sits a band of a cruder step pattern. The curved motifs fall on three different levels and follow a four-part plan. Their shapes recall the metalwork of southern England and Wales in the first century, though no similar carved stones are known from Britain. It was moved from its original place in the 1850s to serve as a lawn ornament for Turoe House. Excavations in the 1930s at the close-by ring-fort left these stones unstudied, so the original spot stays unknown.",
+    "okr": {
+        "objective": "Blend the mythic site account of the Turoe Stone with Koch's fuller description of its carving and history.",
+        "key_results": [
+            "It is a carved boulder outside Loughrea near Galway City.",
+            "The reliefs follow the La Tene style, which marks it as Celtic.",
+            "Four similar pillar stones exist elsewhere in Ireland.",
+            "A replica is on display in the National Museum in Dublin.",
+            "Koch calls it the finest of five pre-Iron Age carved stones and details its form and moving."
+        ],
+        "evidence": "Koch 2006, s.v. 'Turoe Stone'"
+    },
+    "order": 2212
 }

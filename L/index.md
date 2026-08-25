@@ -31,6 +31,7 @@ layout: layouts/pce.njk
 - [Lavaine](Lavaine)
 - [Law_of_the_Innocents](Law_of_the_Innocents)
 - [Laying_the_Fairies](Laying_the_Fairies)
+- [Lebor_Gabála_Érenn](Lebor_Gabála_Érenn)
 - [Leborcham](Leborcham)
 - [Leherennus](Leherennus)
 - [Leinster](Leinster)

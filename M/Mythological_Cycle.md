@@ -2,48 +2,89 @@
 layout: layouts/pce.njk
 title: Mythological Cycle
 icon: file-lines
-order: 1686
+order: 1688
 contributors: [ 'Christopher Godwin' ]
 attributes:
-  - Lugh killed Balor with a spear
-  - Tuatha Dé Danann ruled the land
-  - Milesians replaced the Tuatha Dé Danann
-  - Mythological Cycle not considered part of the story
+  - Mythological Cycle a set of Irish tales of the ancient gods
+  - Mythological Cycle centered on the contest between races in the Book of Invasions
+  - Tuatha De Danann the people of the goddess Danu, victors over the Fir Bolg at Mag Tuired
+  - Lugh the hero who killed Balor at the second battle of Mag Tuired
+  - Mythological Cycle grew early modern tales such as the death of the children of Tuire
+  - Mythological Cycle the Three Sorrows of Storytelling number among its later stories
+  - Sons of Tuireann killed the god's father and paid a price to cleanse the crime
+  - Children of Lir subject of a tale read as a meditation on patient Christian suffering
 categories:
-  - story
-  - replacer
-  - ruler
-  - hero
+  - Person
+  - Text
+  - Group
+  - Concept
 entities:
-  - Lugh(hero)
-  - Tuatha Dé Danann(ruler)
-  - Milesians(replacer)
-  - Mythological Cycle(story)
+  - Mythological Cycle(Concept)
+  - Book of Invasions(Text)
+  - Fomorians(Group)
+  - Fir Bolg(Group)
+  - Tuatha De Danann(Group)
+  - Nuada(Person)
+  - Bres(Person)
+  - Dian Cecht(Person)
+  - Lugh(Person)
+  - Balor(Person)
+  - Sons of Tuireann(Group)
+  - Children of Lir(Group)
+  - Three Sorrows of Storytelling(Concept)
+  - Miach(Person)
 tags:
-  - Lugh
-  - Tuatha Dé Danann
-  - Milesians
   - Mythological Cycle
+  - Book of Invasions
+  - Fomorians
+  - Fir Bolg
+  - Tuatha De Danann
+  - Nuada
+  - Bres
+  - Dian Cecht
+  - Lugh
+  - Balor
+  - Sons of Tuireann
+  - Children of Lir
+  - Three Sorrows of Storytelling
+  - Miach
 ---
 ``` tab [group1:Info]
 ::: magazinestyle
-The Irish Mythological Cycle comprises a collection of texts and stories that recount the tales of Ireland's ancient divinities. The Book of Invasions tells the primary story of a competition between mythological races. The initial settlements made by the followers of Nemed and Partholón were not particularly noteworthy, and eventually, the Fomorians took over. These malevolent beings were twice defeated and pushed out by the Fir Bolg, who, in turn, were dethroned by the mysterious and powerful Tuatha Dé Danann, also referred to as the people of the goddess Danu, following the first battle of Mag Tuired. During this battle, the valiant King Nuada lost his arm, which rendered him disqualified from ruling since a Blemished King could not reign. Consequently, the half-Fomorian, half-Tuatha Dé Danann Bres assumed the throne, despite being known for his snide and selfish behavior, despite being incredibly beautiful. However, his refusal to provide enough rations for a poet resulted in his removal from the throne when Cairbre uttered a satire so biting that it caused boils to form on Bres’s face, thereby making him ineligible to rule. Meanwhile, the god of healing, Dian Cécht, along with his son, Miach, used their unique abilities to create a new hand for Nuada. Dian Cécht crafted a silver appendage, while Miach cast spells that caused skin to grow over the artificial limb. Nuada returned to the throne just in time to lead his people in another battle at the same spot where the previous one had taken place. The second battle of Mag Tuired began on the sacred feast of Samhain and saw the Tuatha Dé fight against the Fomorians, who were once again a formidable force, led by the terrifying Balor of the Evil Eye. Balor had only one function eye, using the other to cast deadly rays in times of war. A spear hurled by his own grandson, Lugh, who was of mixed ancestry, put an end to the life of the hero known as Balor. Following this incident, the Tuatha Dé Danann took over governing the territory until they were replaced by the Milesians much later on. It is important to note that this narrative is not included in the Mythological Cycle.
+The Mythological Cycle is a set of Irish tales. It tells of the ancient gods of the land. The central story is a fight between races, set down in the Book of Invasions. First came the followers of Nemed and Partholon. Then the Fomorians held that land. The Fir Bolg twice pushed them out. Then came the Tuatha De Danann, the people of the goddess Danu. They beat the Fir Bolg at the first battle of Mag Tuired. There the king Nuada lost an arm. A blemished king could not rule. The half-Fomorian Bresa took the throne. He was fair but cruel. A poet of his court made a satire against him. Boils covered his face, and he too was blemished. The healer Dian Cecht and his son Mion worked to make a new hand of silver for Nuada. He ruled again. At the second battle of Mag Tuired he led the folk. The hero Lugh killed the Fomorian king Balorty with a spear.
+
+Later Early Modern tales grew from this cycle. The Children of Tuireann have their own story, the text named Oidheadh Chloinne Tuireann. Its written form belongs to the early modern period, but its core content goes back to the 11th century. The story sits before the second battle of Mag Tuired. It tells how the Sons of Tuireann slew the god Lugh's father. They then owe a heavy price to atone for the crime. This tale draws the divine court as angry and unstable. Lugh appears spiteful and vengeful here, a sharp turn from his earlier character. A second story, Oidheadh Chloinne Lir, ends in grief for the children of Lir. Scholars read it as a long thought about steady Christian suffering. It fits the religious writing common in the late Early Modern age. With the tale of the youth of Uisneach, these make the Three Sorrows of Storytelling. Manuscripts of the 18th and 19th centuries often draw them together.
 
 :::
 ```
 ``` tab [group1:Attributes]
-- **Lugh**: killed Balor with a spear
-- **Tuatha Dé Danann**: ruled the land
-- **Milesians**: replaced the Tuatha Dé Danann
-- **Mythological Cycle**: not considered part of the story
+- **Mythological Cycle**: a set of Irish tales of the ancient gods
+- **Mythological Cycle**: centered on the contest between races in the Book of Invasions
+- **Tuatha De Danann**: the people of the goddess Danu, victors over the Fir Bolg at Mag Tuired
+- **Lugh**: the hero who killed Balor at the second battle of Mag Tuired
+- **Mythological Cycle**: grew early modern tales such as the death of the children of Tuire
+- **Mythological Cycle**: the Three Sorrows of Storytelling number among its later stories
+- **Sons of Tuireann**: killed the god's father and paid a price to cleanse the crime
+- **Children of Lir**: subject of a tale read as a meditation on patient Christian suffering
 ```
 ``` tab [group1:Entities]
-- **Lugh**: hero
-- **Tuatha Dé Danann**: ruler
-- **Milesians**: replacer
-- **Mythological Cycle**: story
+- **Mythological Cycle**: Concept
+- **Book of Invasions**: Text
+- **Fomorians**: Group
+- **Fir Bolg**: Group
+- **Tuatha De Danann**: Group
+- **Nuada**: Person
+- **Bres**: Person
+- **Dian Cecht**: Person
+- **Lugh**: Person
+- **Balor**: Person
+- **Sons of Tuireann**: Group
+- **Children of Lir**: Group
+- **Three Sorrows of Storytelling**: Concept
+- **Miach**: Person
 ```
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
+- Koch 2006, s.v. 'Mythological Cycle'
 ```
 ![Mythological Cycle Image](https://upload.wikimedia.org/wikipedia/commons/8/87/%22The_Riders_of_the_Sidhe%22_John_Duncan_1911_McManus_Galleries%2C_Dundee.jpg)
