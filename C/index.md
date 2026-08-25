@@ -222,6 +222,7 @@ layout: layouts/pce.njk
 - [Custennin](Custennin)
 - [c_wn_annwn](c_wn_annwn)
 - [Cycle_of_the_Kings](Cycle_of_the_Kings)
+- [cyfarwyd](cyfarwyd)
 - [Cyhyreath](Cyhyreath)
 - [Cymidei_Cymeinfoll](Cymidei_Cymeinfoll)
 - [Cymon](Cymon)

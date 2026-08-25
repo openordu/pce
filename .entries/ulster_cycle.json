@@ -1,0 +1,60 @@
+{
+    "name": "Ulster Cycle",
+    "attributes": [
+        {
+            "entity": "Ulster Cycle",
+            "attribute": "The dominant corpus of early Irish saga literature, gathered around the tales of the Ulaid"
+        },
+        {
+            "entity": "Emain Machae",
+            "attribute": "Royal seat and chief venue around which the saga complex centres"
+        },
+        {
+            "entity": "Cú Chulainn",
+            "attribute": "Central hero of the cycle, the single most celebrated champion of the Ulaid"
+        },
+        {
+            "entity": "Táin Bó Cuailnge",
+            "attribute": "Great war tale of the cattle raid, the anchor of the whole corpus"
+        },
+        {
+            "entity": "Thurneysen",
+            "attribute": "Scholar who listed some eighty works that belong to the cycle"
+        }
+    ],
+    "entities": [
+        {
+            "entity": "Ulster Cycle",
+            "type": "Saga"
+        },
+        {
+            "entity": "Táin Bó Cuailnge",
+            "type": "Text"
+        },
+        {
+            "entity": "Cú Chulainn",
+            "type": "Person"
+        },
+        {
+            "entity": "Emain Machae",
+            "type": "Place"
+        }
+    ],
+    "sources": [
+        "Koch 2006, s.v. 'Ulster Cycle'"
+    ],
+    "image": [],
+    "cyphertext": "",
+    "salt": "",
+    "text": "The Ulster Cycle is the dominant body of early Irish saga tales. It ranks as one of the four great groups of the old literature. The cycle centres on the royal seat of Emain Machae. Its hero is Cú Chulainn, chief champion of the Ulaid. The long story called Táin Bó Cuailnge anchors the whole complex. This cattle raid tale stands as the great war epic. Thurneysen listed near eighty items for this group. Later pieces push the total close to one hundred. Many tales survive only in heavily rewritten versions. Anonymous writers kept reshaping the older material for centuries. Keating retold several old stories in the seventeenth century. Later writers still added new works to the stock.",
+    "okr": {
+        "objective": "This entry documents the Ulster Cycle as the leading saga corpus of early Irish literature and names its chief venue, hero, and war tale.",
+        "key_results": [
+            "The corpus centres on Emain Machae and the hero Cú Chulainn of the Ulaid.",
+            "The tale Táin Bó Cuailnge is identified as the great war epic.",
+            "Thurneysen and later scholars count from eighty to one hundred items in the cycle."
+        ],
+        "evidence": "Koch 2006, s.v. 'Ulster Cycle'"
+    },
+    "order": 2290
+}
