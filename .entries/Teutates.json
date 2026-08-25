@@ -1,66 +1,107 @@
 {
- "name": "Teutates",
- "attributes": [
-  {
-   "entity": "Teutates",
-   "attribute": "continental Celtic tribal god, name meaning ruler of the people"
-  },
-  {
-   "entity": "Teutates",
-   "attribute": "received human sacrifice near Samhain"
-  },
-  {
-   "entity": "Teutates",
-   "attribute": "identified by the Romans with Mars and Mercury"
-  }
- ],
- "entities": [
-  {
-   "entity": "Teutates",
-   "type": "Deity"
-  },
-  {
-   "entity": "Gaul",
-   "type": "Place"
-  },
-  {
-   "entity": "Britain",
-   "type": "Place"
-  },
-  {
-   "entity": "Cocidius",
-   "type": "Deity"
-  },
-  {
-   "entity": "Mars",
-   "type": "Deity"
-  },
-  {
-   "entity": "Mercury",
-   "type": "Deity"
-  },
-  {
-   "entity": "Lucan",
-   "type": "Person"
-  },
-  {
-   "entity": "Samhain",
-   "type": "Festival"
-  }
- ],
- "sources": [
-  "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
- ],
- "cyphertext": "r0bdyx3w8QPDDJ1MTsYVTG0e3UKnDndulGSwfhilRkHAD8pczOO-x3NIk0on2w7WxEI9fBRGw5MiUx6MocUv_VvZQx2ozfzpwMJliNxa0KXeOeHiZo-mM6tyUiYYmGFTOx7bqnMNkDmFl3y98k7T4MxQM3cf4cwV02CjfD16qYfe-VNN7Nn_SKsCKMoR1ex5o5wKZitinCYI2qLcSBqa0Usfuu5YpS9VbeZQKkEbuTrH4Jek74VFONvfSEazTpP5qV6Zy1CljyJsy0uwJ4xwAp6ad8ILVOS7iWTEzRv87y6-qoM5fou4JF9Z4y2yEUpXBjfSObfIOhmLr8CgUI3zXUgbHBTnrOo_3Bt9HO0T_8pffV6xFcn1LWRZLlziwKfk6XrxJT7NrhjEMFXQEw5K0tOERqf_o0jf09XyQXBEMN8UAHJC2lxz130yNYPHfxVSI_7pyxpy4S6kkT5wCLsk__XojwyRuYNsCf5z0oO4opB6iydPW1HMWzEYgBUsRVScnALzBMfBRzn6ZcjJT7LiEaJinw6O3HbEPJ1ICG_4airZ57aRGblP13ZDXMYoDALP4rURH9D-8Sl8kDt8FPzfxxHx9apJxkAH-SczUanzDy2WeuMFEPIH0x2FJtgXp1xD3o6AvcpkJleTKwFVHVszduulMZ3MlQGZhmHIPCMGlV-517qYLCJA7YqY9re3BFt6wB0M3X9d4-Aa84Ly_pTZ2EUGP5KCUZsyMpW5pdZ9br4iprNFHXi6Ft_dJAo0gR-sOXNciqgQWYcD2AuTCyG8_uPPvxwFQWBrNdG6yk1e03jkl_36bwRazr0CEN4dCdIwCqiczMefKyC_Sr-yFGX1HhQY6-I3YbH_upvzjyeZvxX7ydEAkqhvQTThf-w2Lxypp-rFPbl-fXNzW6ZWGakpgRh_rQ==",
- "salt": "FBVG2BRnedWxb7EjVJXfJA==",
- "text": "Teutates is a continental Celtic god. His alternate names are Toutatis, Totatis, and Teutate. His name appears to mean ruler of the people. It comes from a Celtic word for tribe. The name suggests an ancestral god. Dedications to Teutates appear most often in Gaul. They appear sometimes in Britain. They never appear in Ireland. Some texts connect him to the god Cocidius. Some treat him as an alternative form of that god. The Romans saw him as similar to their war god Mars. They also linked him to their trade god Mercury. The Roman writer Lucan said that Teutates received human sacrifice. He said victims were drowned to him on Samhain, the feast that starts winter.",
- "okr": {
-  "objective": "Record Teutates as a continental Celtic tribal god.",
-  "key_results": [
-   "States his name and worship across Gaul and Britain",
-   "Notes his link to Cocidius and the Roman Mars and Mercury",
-   "Records Lucan's report of human sacrifice at Samhain"
-  ],
-  "evidence": "Monaghan 2008, s.v. 'Teutates'."
- }
+    "name": "Teutates",
+    "attributes": [
+        {
+            "entity": "Teutates",
+            "attribute": "continental Celtic tribal god, name meaning ruler of the people"
+        },
+        {
+            "entity": "Teutates",
+            "attribute": "received human sacrifice near Samhain"
+        },
+        {
+            "entity": "Teutates",
+            "attribute": "identified by the Romans with Mars and Mercury"
+        },
+        {
+            "entity": "Teutates",
+            "attribute": "one of the trinity of Gaulish gods with Taranis and to Esus"
+        },
+        {
+            "entity": "Teutates",
+            "attribute": "name carries the root of tribe or people, like the gar turkish tuath"
+        },
+        {
+            "entity": "Teutates",
+            "attribute": "fed by the Gauls earlier as a sacrifice of war"
+        },
+        {
+            "entity": "Massalia",
+            "attribute": "the corner of Gaul where Gauls gave their foe to the trinity"
+        },
+        {
+            "entity": "Taranis",
+            "attribute": "sky deity joined with Teutates in Lucan's trinity"
+        }
+    ],
+    "entities": [
+        {
+            "entity": "Teutates",
+            "type": "Deity"
+        },
+        {
+            "entity": "Gaul",
+            "type": "Place"
+        },
+        {
+            "entity": "Britain",
+            "type": "Place"
+        },
+        {
+            "entity": "Cocidius",
+            "type": "Deity"
+        },
+        {
+            "entity": "Mars",
+            "type": "Deity"
+        },
+        {
+            "entity": "Mercury",
+            "type": "Deity"
+        },
+        {
+            "entity": "Lucan",
+            "type": "Person"
+        },
+        {
+            "entity": "Samhain",
+            "type": "Festival"
+        },
+        {
+            "entity": "Taranis",
+            "type": "Deity"
+        },
+        {
+            "entity": "Esus",
+            "type": "Deity"
+        },
+        {
+            "entity": "Apollo",
+            "type": "Deity"
+        },
+        {
+            "entity": "Belenos",
+            "type": "Deity"
+        },
+        {
+            "entity": "Massalia",
+            "type": "Place"
+        }
+    ],
+    "sources": [
+        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.",
+        "Koch 2006, s.v. 'Teutates'"
+    ],
+    "cyphertext": "r0bdyx3w8QPDDJ1MTsYVTG0e3UKnDndulGSwfhilRkHAD8pczOO-x3NIk0on2w7WxEI9fBRGw5MiUx6MocUv_VvZQx2ozfzpwMJliNxa0KXeOeHiZo-mM6tyUiYYmGFTOx7bqnMNkDmFl3y98k7T4MxQM3cf4cwV02CjfD16qYfe-VNN7Nn_SKsCKMoR1ex5o5wKZitinCYI2qLcSBqa0Usfuu5YpS9VbeZQKkEbuTrH4Jek74VFONvfSEazTpP5qV6Zy1CljyJsy0uwJ4xwAp6ad8ILVOS7iWTEzRv87y6-qoM5fou4JF9Z4y2yEUpXBjfSObfIOhmLr8CgUI3zXUgbHBTnrOo_3Bt9HO0T_8pffV6xFcn1LWRZLlziwKfk6XrxJT7NrhjEMFXQEw5K0tOERqf_o0jf09XyQXBEMN8UAHJC2lxz130yNYPHfxVSI_7pyxpy4S6kkT5wCLsk__XojwyRuYNsCf5z0oO4opB6iydPW1HMWzEYgBUsRVScnALzBMfBRzn6ZcjJT7LiEaJinw6O3HbEPJ1ICG_4airZ57aRGblP13ZDXMYoDALP4rURH9D-8Sl8kDt8FPzfxxHx9apJxkAH-SczUanzDy2WeuMFEPIH0x2FJtgXp1xD3o6AvcpkJleTKwFVHVszduulMZ3MlQGZhmHIPCMGlV-517qYLCJA7YqY9re3BFt6wB0M3X9d4-Aa84Ly_pTZ2EUGP5KCUZsyMpW5pdZ9br4iprNFHXi6Ft_dJAo0gR-sOXNciqgQWYcD2AuTCyG8_uPPvxwFQWBrNdG6yk1e03jkl_36bwRazr0CEN4dCdIwCqiczMefKyC_Sr-yFGX1HhQY6-I3YbH_upvzjyeZvxX7ydEAkqhvQTThf-w2Lxypp-rFPbl-fXNzW6ZWGakpgRh_rQ==",
+    "salt": "FBVG2BRnedWxb7EjVJXfJA==",
+    "text": "Teutates is a deity of the continental Celts, a god who held the tribe together. His name carries a root that means tribe or people, like the old Irish tuath. Because of this root he works as a title, letting a Roman god take in a local protector of the people. The Roman poet Lucan set Teutates with Taranis and Esus as the trinity of Gaulish gods. He wrote that Gauls near Massalia offered their prisoners of war to this trinity. Dedications join Teutates with the god of strength Mars, with the northern hunter Coocidus, with Apollo, and with the messenger god Mercury. Such stones turn up across the empire. They appear from Seckau in Austria to Rome and Castor by the north road, and as far as the British woad. The find at Sausset in Gaul pairs Teutates with Mercury in one clue. The scholiast on Lucan took Teutates to be a Mars who was fed blood. Other notes read him as a Mercury who received a drowning in a great kettle. The same root floods the German word for the people, the whole folk, braced and sound. Thus the deity keeps the vow a tribe swears to its own people's god. His wide line of names runs over all the land of the Celts.",
+    "okr": {
+        "objective": "Fold Koch's trinity and tribal-name reading into the Teutates entry.",
+        "key_results": [
+            "text names Lucan's trinity and the tribal root of the name",
+            "adds the paired Roman gods and the spread of inscriptions"
+        ],
+        "evidence": "Koch 2006, s.v. 'Teutates': Lucan, tribal root, Massalia, inscribed pairs with Mars, Mercury, Cocidius, Apollo."
+    },
+    "order": 2141
 }

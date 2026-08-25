@@ -2,44 +2,86 @@
 layout: layouts/pce.njk
 title: Stonehenge
 icon: file-lines
-order: 2074
+order: 2076
 contributors: [ 'Christopher Godwin' ]
 attributes:
-  - Order of British Druids established in 1781
-  - stone circle used for rituals by the Order of British Druids
-  - Celtic peoples may have used the stone circle
-  - documentary evidence lacking for Celtic use of the site
-  - reconstruction imaginative theater
+  - Stonehenge a great stone circle on the Salisbury Plain
+  - Megalithic Civilization an early people known for great stone works
+  - Stonehenge aligned to the summer solstice dawn
+  - Merlin said in story to raise the stones from Ireland
+  - Stonehenge called Cor y Cewri, the ring of giants, in the Welsh tale
+  - Aurelius Ambrosius the ruler who sought a memorial for the slain Britons
+  - Merlin who brought the giant circle over sea and raised it again
+  - Uther Pendragon brother of Aurelius who fought for the stones
+  - John Aubrey antiquary who declared the druids built the ring
 categories:
-  - organization
-  - location
-  - group
+  - Place
+  - people
+  - Person
+  - Concept
 entities:
-  - Order of British Druids(organization)
-  - stone circle(location)
-  - Celtic peoples(group)
+  - Stonehenge(Place)
+  - Salisbury Plain(Place)
+  - Megalithic Civilization(people)
+  - Carnac(Place)
+  - Brú na Bóinne(Place)
+  - Merlin(Person)
+  - Druids(people)
+  - Geofry of Monmouth(Person)
+  - Aurelius Ambrosius(Person)
+  - Hengist(Person)
+  - Uther Pendragon(Person)
+  - Cor y Cewri(Concept)
+  - Inigo Jones(Person)
+  - John Aubrey(Person)
 tags:
-  - Order of British Druids
-  - stone circle
-  - Celtic peoples
+  - Stonehenge
+  - Salisbury Plain
+  - Megalithic Civilization
+  - Carnac
+  - Brú na Bóinne
+  - Merlin
+  - Druids
+  - Geofry of Monmouth
+  - Aurelius Ambrosius
+  - Hengist
+  - Uther Pendragon
+  - Cor y Cewri
+  - Inigo Jones
+  - John Aubrey
 ---
 ``` tab [group1:Info]
 ::: magazinestyle
-On the Salisbury Plain, stands Stonehenge, a well-known monument from the ancient world. For many years, people wrongly attributed the construction of the great Stone Circle to the Celts who lived in the area long after its erection in 4000 B.C.E. The builders of Stonehenge lived so far back in time that we have no knowledge of their identity, language, or beliefs. However, the resemblance of Stonehenge to other such monuments, such as Carnac in Brittany and Brú Na Bóinne in Ireland, has led scholars to recognize the Megalithic Civilization - named for its enormous constructions. Similar to other megalithic structures, Stonehenge was built in accordance with astronomy. It is precisely aligned to allow for a specific moment of illumination on the morning of the summer solstice, while Carnac and Newgrange at the Brú na Bóinne were aligned to the instant of sunrise on the winter solstice. Despite being unaware of who the builders of Stonehenge were and what they believed, we can acknowledge that they had remarkably accurate knowledge about the solar system. While the original significance and myth of Stonehenge have been lost, it has been the subject of many legends over time. A 3rd-century B.C.E. writer, Apollonius, claimed that Apollo's temple constructed it and referred to its worshippers as Hyperboreans ("beyond the wind god Boreus"). Later, stories attributed the construction of Stonehenge to the great magician Merlin, who was believed to have completed it in a single day, magically transporting the stones from Ireland through levitation. These stones were formerly known as the Giants' Dance as they were previously carried off from Africa by Irish giants through enchantment. The surprise appearance of a massive building, where there had been only flat land the night before, led to legends that credit the Devil with building Stonehenge all in one night. According to one story, as he chuckled at the locals' amazement, a monk interrupted his bragging, and the Devil threw a large stone at him, which hit his heel, thus becoming known as the Heel Stone. However, there is a bit of truth to these legends. The stones used at Stonehenge come from as far as 26 miles away and were likely carried or rolled on logs, although teleportation is considered unlikely. Despite scholarly consensus that there is no connection between the Celts and Stonehenge, John Aubrey, a local antiquarian and writer in the 17th century, argued that the site was a Druid temple. Today, the Order of British Druids, founded in 1781, claims the right to perform rituals inside the Stonehenge circle, dressed in white robes in the early morning light. While their presence may evoke the image of Celtic peoples within the circle, there is no documentary evidence of Celtic use of the site, and their ceremony can only be described as imaginative theater.
+Stonehenge stands on the Salisbury Plain as the most famous of all stone rings. Its sarsen and blue stones belong to the Megalithic Civilization, an early people known for great works in stone. The builders set the ring with the sky in mind. It lines up so the sun meets the heart of the circle at the summer solstice dawn. No one knows the name or speech of these early people. Their stones rose long before any sure sign of Celtic speech appears in Britain. Geoffrey of Monmouth told a founding legend in the twelfth century. He wrote that the ruler Aurelius Ambrosius sought a memorial for the Britons killed by the treachery of the Saxon Hengist. The archbishop Tremorinus advised him to hire the wizard Merlin. The wizard said he would carry the Giants' Dance, the ring of stones, over from a hill in Ireland. The brother Uther Pendragon fought to pull down the stones, yet Merlin set them up again by his art. In the Welsh Bruts the ring keeps the name Cor y Cewri, the ring of the giants. A Wiltshire story said the Devil carried the stones from Ireland in one night. Legend also gave the blocks power to heal. People poured water into baths at the foot of each stone. The antiquary John Aubrey declared that the druids built the ring, and the idea echoes on in many books. The builder Inigo Jones wrote the first link of druids to the site, yet he rejected it himself.
 
 :::
 ```
 ``` tab [group1:Attributes]
-- **Order of British Druids**: established in 1781
-- **stone circle**: used for rituals by the Order of British Druids
-- **Celtic peoples**: may have used the stone circle
-- **documentary evidence**: lacking for Celtic use of the site
-- **reconstruction**: imaginative theater
+- **Stonehenge**: a great stone circle on the Salisbury Plain
+- **Megalithic Civilization**: an early people known for great stone works
+- **Stonehenge**: aligned to the summer solstice dawn
+- **Merlin**: said in story to raise the stones from Ireland
+- **Stonehenge**: called Cor y Cewri, the ring of giants, in the Welsh tale
+- **Aurelius Ambrosius**: the ruler who sought a memorial for the slain Britons
+- **Merlin**: who brought the giant circle over sea and raised it again
+- **Uther Pendragon**: brother of Aurelius who fought for the stones
+- **John Aubrey**: antiquary who declared the druids built the ring
 ```
 ``` tab [group1:Entities]
-- **Order of British Druids**: organization
-- **stone circle**: location
-- **Celtic peoples**: group
+- **Stonehenge**: Place
+- **Salisbury Plain**: Place
+- **Megalithic Civilization**: people
+- **Carnac**: Place
+- **Brú na Bóinne**: Place
+- **Merlin**: Person
+- **Druids**: people
+- **Geofry of Monmouth**: Person
+- **Aurelius Ambrosius**: Person
+- **Hengist**: Person
+- **Uther Pendragon**: Person
+- **Cor y Cewri**: Concept
+- **Inigo Jones**: Person
+- **John Aubrey**: Person
 ```
 ``` tab [group1:Sources]
 - Spence, Lewis. The Minor Traditions of British Mythology. (New York: Benjamin Blom, Inc., 1972), 84.
@@ -64,5 +106,6 @@ Patrick employed the familiar Celtic motif of triplicity in an innovative fashio
 
 N/A (already in Chicago format)
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
+- Koch 2006, s.v. 'Stonehenge'
 ```
 ![Stonehenge Image](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Stonehenge2007_07_30.jpg/1200px-Stonehenge2007_07_30.jpg)
