@@ -1,0 +1,56 @@
+{
+  "name": "Cummine Fota, St",
+  "text": "Cummine Fota was an Irish scholar and author of the seventh century. He lived from about 592 to 662. His Latin name was Cummianus Longus. Fota means long in Irish. He appears in early texts both as a real writer and as a made-up character. His fame rests on the penitential that carries his name. He also wrote a hymn called Celebra Juda and a commentary on the Gospel of Mark. A letter dated to about 632 deals with the Easter controversy. This letter records the name Cummian. He came from west Munster, and tradition places him in the royal line of the Eoganachta Locha Lein. In later stories his persona is strange. Tales show him as a foolish saint or a wandering cleric. He keeps company with the holy fool Comgan mac Da Cherda.",
+  "entities": [
+    {
+      "entity": "Cummine Fota",
+      "type": "Person"
+    },
+    {
+      "entity": "Penitential of Cummian",
+      "type": "Text"
+    },
+    {
+      "entity": "Munster",
+      "type": "Place"
+    },
+    {
+      "entity": "Comgan mac Da Cherda",
+      "type": "Person"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Cummine Fota",
+      "value": "Irish scholar who lived c. 592 to 662"
+    },
+    {
+      "entity": "Cummine Fota",
+      "value": "wrote the Penitential that bears his name"
+    },
+    {
+      "entity": "Cummine Fota",
+      "value": "came from west Munster"
+    },
+    {
+      "entity": "Cummine Fota",
+      "value": "appears in tales as a foolish saint"
+    }
+  ],
+  "sources": [
+    "Koch 2006, s.v. 'Cummine Fota, St'",
+    "Maura Walsh and Dáibhí Ó Cróinín, Cummian's Letter, Toronto, 1988."
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Record Cummine Fota as a verifiable PCE node rooted in the Koch entry.",
+    "key_results": [
+      "Factual text written in CSG style prose of at least 150 characters.",
+      "Entities and attributes recorded for the saint.",
+      "Protected fields set to empty defaults."
+    ],
+    "evidence": "Koch 2006, s.v. 'Cummine Fota, St'; Walsh and Ó Cróinín, Cummian's Letter."
+  }
+}

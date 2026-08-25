@@ -1,0 +1,56 @@
+{
+  "name": "Cusantín mac Cuilén",
+  "text": "Cusantín mac Cuilén, also called Constantine III, was king of Alba for only a year and a half. He sat on the throne in 995. His kinsmen and rivals slew him before the reign ended. He was the last ruler of Alba from the line descended from Aer. His killing cleared the way for the newly raising family. This family, the Clann Ruaidrí, later produced Macbeth. Even a short reign settled the dating of genealogies. His own genealogy runs back to Cinaed mac Ailpén. It links to the branch carries his descendants.",
+  "entities": [
+    {
+      "entity": "Cusantín mac Cuilén",
+      "type": "Person"
+    },
+    {
+      "entity": "Alba",
+      "type": "Place"
+    },
+    {
+      "entity": "Cinaed mac Ailpín",
+      "type": "Person"
+    },
+    {
+      "entity": "Clann Ruaidrí",
+      "type": "Group"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Cusantín mac Cuilén",
+      "value": "king of Alba from 995 to 997"
+    },
+    {
+      "entity": "Cusantín mac Cuilén",
+      "value": "slain by kinsmen and rivals"
+    },
+    {
+      "entity": "Cinaed mac Ailpín",
+      "value": "ancestor in Cusantín's line"
+    },
+    {
+      "entity": "Clann Ruaidrí",
+      "value": "family that rose to kingship afterward"
+    }
+  ],
+  "sources": [
+    "Koch 2006, s.v. 'Cusantín mac Cuilén'",
+    "Benjamin Hudson, Kings of Celtic Scotland."
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Record Cusantín mac Cuilén as a verifiable PCE node rooted in the Koch entry.",
+    "key_results": [
+      "Factual text written in CSG-style prose of at least 150 characters.",
+      "Entities and attributes recorded for the king.",
+      "Protected fields set to empty defaults."
+    ],
+    "evidence": "Koch 2006, s.v. 'Cusantín mac Cuilén'; Hudson, Kings of Celtic Scotland."
+  }
+}

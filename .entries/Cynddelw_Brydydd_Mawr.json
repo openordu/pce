@@ -1,0 +1,56 @@
+{
+  "name": "Cynddelw Brydydd Mawr",
+  "text": "Cynddelw Brydydd Mawr was a main Welsh court poet. He worked from about 1155 until around 1195. He sang to the princes and heads of his day. He counts among the most learned bards of the age. He served as court poet in various Welsh kingdoms and praises leading men. He was active for about forty years. His name marks him as a master poet. His poetry covers praise and elegy for his noble lords. Some of his best lines are simple and direct, laced with irony.",
+  "entities": [
+    {
+      "entity": "Cynddelw Brydydd Mawr",
+      "type": "Person"
+    },
+    {
+      "entity": "Powys",
+      "type": "Place"
+    },
+    {
+      "entity": "Gogynfeirdd",
+      "type": "Group"
+    },
+    {
+      "entity": "Owain Gwynedd",
+      "type": "Person"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Cynddelw Brydydd Mawr",
+      "value": "court poet active c. 1150 to c. 1195"
+    },
+    {
+      "entity": "Cynddelw Brydydd Mawr",
+      "value": "associated above all with Powys"
+    },
+    {
+      "entity": "Owain Gwynedd",
+      "value": "prince praised by Cynddelw for the leader"
+    },
+    {
+      "entity": "Cynddelw Brydydd Mawr",
+      "value": "known as the 'great poet'"
+    }
+  ],
+  "sources": [
+    "Koch 2006, s.v. 'Cynddelw Brydydd Mawr'",
+    "Nerys Ann Jones & Ann Parry Owen, Gwaith Cynddelw Brydydd Mawr."
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Record Cynddelw Brydydd Mawr as a verifiable PCE node rooted in the Koch entry.",
+    "key_results": [
+      "Factual text written in CSG-style prose of at least 150 characters.",
+      "Entities and attributes recorded for the poet.",
+      "Protected fields set to empty defaults."
+    ],
+    "evidence": "Koch 2006, s.v. 'Cynddelw Brydydd Mawr'; Nerys Ann Jones & Parry Owen, Gwaith Cynddelw."
+  }
+}

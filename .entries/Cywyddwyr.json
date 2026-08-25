@@ -1,0 +1,60 @@
+{
+  "name": "Cywyddwyr",
+  "text": "The Cywyddwyr are the Welsh poets who wrote in the cywsydd metre during the late medieval centuries. Their era ran from roughly 1300 into the 1500s. The name joins the word cywsydd to an old term for men. The Cywyddwyr followed the earlier court poets known as the Gogynfeirdd, beginning about 1300. Their rise came after the English conquest of Gwynedd in 1282, which removed the native royal courts. A new class of gentry, the uchelwyr, became their patrons. Poets such as Dafydd ap Gwilym made the cywsydd the leading form for praise and song. Its lines carried the strict sound-patterns of cynghanedd. They praised the gentle families, and moved freely between their houses and the growing towns. The fashion ended with the decline of the poetic order in the 16th century.",
+  "entities": [
+    {
+      "entity": "Cywyddwyr",
+      "type": "Group"
+    },
+    {
+      "entity": "cywsydd",
+      "type": "Metre"
+    },
+    {
+      "entity": "Dafydd ap Gwilym",
+      "type": "Person"
+    },
+    {
+      "entity": "uchelwyr",
+      "type": "Group"
+    },
+    {
+      "entity": "Gogynfeirdd",
+      "type": "Group"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Cywyddwyr",
+      "value": "poets of the 14th to 16th centuries in the cywsydd form"
+    },
+    {
+      "entity": "cywsydd",
+      "value": "prestige metre that rose after the fall of Gwynedd"
+    },
+    {
+      "entity": "Dafydd ap Gwilym",
+      "value": "early poet who made the cywsydd the leading medium"
+    },
+    {
+      "entity": "uchelwyr",
+      "value": "gentry who supplied the poets and their patrons"
+    }
+  ],
+  "sources": [
+    "Koch 2006, s.v. 'Cywyddwyr'",
+    "Thomas Parry, A History of Welsh Literature, trans. H. Idris Bell (Oxford, 1955)."
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Record the Cywyddwyr as a verifiable PCE node rooted in the Koch entry.",
+    "key_results": [
+      "Factual text written in CSG-style prose of at least 300 characters.",
+      "Entities and attributes recorded for the group and its main poets.",
+      "Protected fields set to empty defaults."
+    ],
+    "evidence": "Koch 2006, s.v. 'Cywyddwyr'; Thomas Parry, History of Welsh Literature."
+  }
+}

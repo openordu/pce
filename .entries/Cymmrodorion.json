@@ -1,0 +1,56 @@
+{
+  "name": "Cymmrodorion",
+  "text": "The Honourable Society of Cymmrodorion was a Welsh society based in London. Richard Morris founded it in 1751. It declared itself patriotic and charitable. It set out to restore the literary heritage of Wales. Early meetings ran in Welsh with a spirit of unity and fairness. Its first phase closed in 1785. The society revived in 1820, then again in 1873. It has lasted continuously since then. Its members founded a university college at Aberystwyth in 1872. A royal charter in 1951 encouraged literature and science for Wales. The word cymmrodorion means 'aborigines' or 'original inhabitants'",
+  "entities": [
+    {
+      "entity": "Cymmrodorion",
+      "type": "Organisation"
+    },
+    {
+      "entity": "London",
+      "type": "Place"
+    },
+    {
+      "entity": "Richard Morris",
+      "type": "Person"
+    },
+    {
+      "entity": "Aberystwyth",
+      "type": "Place"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Cymmrodorion",
+      "value": "founded in 1751 by Richard Morris"
+    },
+    {
+      "entity": "Cymmrodorion",
+      "value": "revived in 1820 and again in 1873"
+    },
+    {
+      "entity": "Richard Morris",
+      "value": "founder and lifelong president of the Society"
+    },
+    {
+      "entity": "Cymmrodorion",
+      "value": "derives from a word meaning 'aborigines'"
+    }
+  ],
+  "sources": [
+    "Koch 2006, s.v. 'Cymmrodorion'",
+    "Peter R. Roberts, The Honourable Society of Cymmrodorion 1751-2017."
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Record the Society of Cymmrodorion as a verifiable PCE node rooted in the Koch entry.",
+    "key_results": [
+      "Factual text written in CSG-style prose of at least 150 characters.",
+      "Entities and attributes recorded for the society.",
+      "Protected fields set to empty defaults."
+    ],
+    "evidence": "Koch 2006, s.v. 'Cymmrodorion'; Jenkins & Ramage, History of the Honourable Society."
+  }
+}

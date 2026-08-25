@@ -1,0 +1,60 @@
+{
+  "name": "Cynwydion",
+  "text": "The Cynwydion are a dynasty of north Britain named in the Welsh genealogies. Their history follows the end of Roman rule. Their name means descendants of a founder called Cynwyd, whose Old Welsh form is Cinuet. In the Old Welsh list, the line runs from Ciuunt map Ceretic Guletic. In later Middle Welsh texts the same kin is made a branch of the family of Coel Hen, the great northern leader. One of its lines leads to Clydno of Edward, father of the hero Cynon, who is praised in the Gododdin. By the 10th and 11th centuries the genealogists had drawn the Cynwydion into the Coeling group. This may have helped the writers justify the spread of Strathclyde into their old lands near Carlisle.",
+  "entities": [
+    {
+      "entity": "Cynwydion",
+      "type": "Group"
+    },
+    {
+      "entity": "Cinuet map Ceretic",
+      "type": "Person"
+    },
+    {
+      "entity": "Clyde's Cene",
+      "type": "Person"
+    },
+    {
+      "entity": "Cynod fab Clydno",
+      "type": "Person"
+    },
+    {
+      "entity": "Coel Hen",
+      "type": "Person"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Cynwydion",
+      "value": "post-Roman northern dynasty named for a founder"
+    },
+    {
+      "entity": "Cynwyke",
+      "value": "made a descendant of Coel Hen in Bonedd Gwŷr y Gogledd"
+    },
+    {
+      "entity": "Cynod fab Clydno",
+      "value": "Gododdin hero from the line of Cynwyd"
+    },
+    {
+      "entity": "Coel Hen",
+      "value": "northern patriarch to whom the kin was later linked"
+    }
+  ],
+  "sources": [
+    "Koch 2006, s.v. 'Cynwydion'",
+    "Peter Bartrum, Early Welsh Genealogical Tracts, University of Wales Press, 1966."
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Record the Cynwydion as a verifiable PCE node rooted in the Koch entry.",
+    "key_results": [
+      "Factual text written in CSG-style prose of at least 300 characters.",
+      "Entities and attributes recorded for the kin and its members.",
+      "Protected fields set to empty defaults."
+    ],
+    "evidence": "Koch 2006, s.v. 'Cynwydion'; Bartrum, Early Welsh Genealogical Traditions."
+  }
+}
