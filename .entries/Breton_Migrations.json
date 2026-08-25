@@ -1,0 +1,54 @@
+{
+  "name": "Breton migrations",
+  "text": "The Breton migrations carried Brythonic speech from Britain to Armorica. These moves ran from the 3rd to the 9th centuries. The heaviest flow fell about 450 to 600. Settlers entered the Gaulish land once named Armorica and later called Brittany. A leader named Rigotamus brought organized forces to the Loire c. 470. That step marks an advanced stage in the movement. Gaulish still lingered there, but Latin had spread across the West. Armorica ranked among the least Romanized parts of Gaul. Peasant rebels called Bacaudae had often held the area. The word itself is Gaulish in origin. A late Gaulish inscription from Plumergat still kept that tongue for show. Some scholars, led by Francois Falc'hun, held that Gaulish stayed alive there. Yet early Welsh, Cornish, and Breton look alike on linguistic grounds. So the standard speech of the peninsula became Brythonic. Procopius and Gregory of Tours both record a settled Brittany by the 500s. The movements seem voluntary, made up of families and small churches. Early Christian refugees likely moved across as Romans persecuted their faith. Two priests named Louocatus and Catihernus drew rebuke from Tours. Links with Wales and Cornwall stayed strong for centuries. So the Breton migrations shaped a lasting Brythonic Bretagne.",
+  "entities": [
+    {
+      "entity": "Armorica",
+      "type": "Place"
+    },
+    {
+      "entity": "Brittany",
+      "type": "Place"
+    },
+    {
+      "entity": "Gaulish",
+      "type": "Language"
+    },
+    {
+      "entity": "Britons",
+      "type": "Group"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Breton migrations",
+      "attribute": "a movement from the 3rd to 9th centuries, peaking about 450 to 600"
+    },
+    {
+      "entity": "Armorica",
+      "attribute": "the Gaulish name for the peninsula later called Brittany"
+    },
+    {
+      "entity": "early Breton settlement",
+      "attribute": "largely voluntary, in family and small church groups"
+    }
+  ],
+  "sources": [
+    "Koch 2006, s.v. 'Breton migrations'",
+    "Price, Glanville. The Celtic Languages. Routledge, 2000."
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Explain the movement of Brythonic settlers into Armorica and the making of Brittany.",
+    "key_results": [
+      "The Breton migrations ran from the 3rd to 9th centuries, peaking about 450 to 600.",
+      "Settlers moved into the Gaul named Armorica and named it Brittany.",
+      "Rigotamus led a well-organized body of men on the Loire about 470.",
+      "The movements were largely voluntary and occurred in small groups.",
+      "Gaulish and Gallo-Roman speech yielded to the dominant Brythonic."
+    ],
+    "evidence": "Koch 2006, s.v. 'Breton migrations'; Price, The Celtic Languages."
+  }
+}

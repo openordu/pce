@@ -1,0 +1,71 @@
+{
+  "name": "Civitalba",
+  "text": "An ancient Roman town once stood at Civitalba. The town left a sculpted frieze that shows the war against the Gauls. The figures are Celts in flight who carry captured goods. They wear torc necklaces, full moustaches, and stiff tufted hair. This matches Posidonius's old account. One panel shows a Gaulish commander riding in a two-wheeled chariot. Two Gauls run beside it. Another man supports a dead friend. A Gaul in an animal-skin tunic carries a stolen vase. Artemis stands by them. The same war theme appears across Greece and Asia Minor. Many link it to the sack of Delphi in 279 BC. At Civitalba the theme carries a local meaning. It recalls the Senones raids of the 4th and 3rd centuries BC. The work shows influence from Pergamon. Potters later copied its style across Italy.",
+  "entities": [
+    {
+      "entity": "Civitalba",
+      "type": "Place"
+    },
+    {
+      "entity": "Galatians",
+      "type": "Group"
+    },
+    {
+      "entity": "Gauls",
+      "type": "Group"
+    },
+    {
+      "entity": "Senones",
+      "type": "Group"
+    },
+    {
+      "entity": "Posidonius",
+      "type": "Figure"
+    },
+    {
+      "entity": "Artemis",
+      "type": "Deity"
+    },
+    {
+      "entity": "Pergamon",
+      "type": "Place"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Civitalba",
+      "value": "frieze showing the battle of the Gauls"
+    },
+    {
+      "entity": "Gauls",
+      "value": "shown in flight with captured goods"
+    },
+    {
+      "entity": "Senones",
+      "value": "raided the region in the 4th and 3rd centuries BC"
+    },
+    {
+      "entity": "Posidonius",
+      "value": "source for the Celtic warrior appearance"
+    }
+  ],
+  "sources": [
+    "Koch 2006, s.v. 'Civitalba'",
+    "Kruta, Venceslas. The Celts. Thames & Hudson, 2004."
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Record the entry as a verified PCE node.",
+    "key_results": [
+      "Factual text written in CSG between 500 and 800 chars.",
+      "Entities and attributes recorded for the entry.",
+      "Protected fields set to empty defaults."
+    ],
+    "evidence": [
+      "Koch 2006, s.v. 'Civitalba'",
+      "Kruta, Venceslas. The Celts. Thames & Hudson, 2004."
+    ]
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "name": "Breton literature (1)",
+  "text": "Breton literature covers writing in the Celtic tongue of Brittany from the earliest times to 1900. Four languages mark the region's literary history. Gaulish was the first spoken on the peninsula and died out early. Latin then served as a church and learned tongue for many centuries. Gallo-Romance, later called Galo, stayed alive in Upper Brittany. Breton itself holds no prose from the Old period. Yet its learning survives in Latin saints' lives. About forty such lives tell of roughly sixty saints. These texts carry old heroic tales and praise verse. Some one thousand Old Breton personal names survive, mainly from charters. Roughly two thousand Old Breton glosses also remain. They show a native word-store for grammar and medicine. The single Brythonic speech of Britain and Armorica still felt close before 1100. Breton, Welsh, and Cornish only divided slowly. The story of St Melor echoes the tale of Brân's severed head. The Life of Iudic-hael holds a hero's conception legend. Much early material reached Latin rather than Breton prose. So the lost Breton literature lives on inside those church texts.",
+  "entities": [
+    {
+      "entity": "Old Breton",
+      "type": "Language"
+    },
+    {
+      "entity": "Brittany",
+      "type": "Place"
+    },
+    {
+      "entity": "Latin saints' lives",
+      "type": "Text"
+    },
+    {
+      "entity": "Old Breton glosses",
+      "type": "Text"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Old Breton literature",
+      "attribute": "lost as prose, but preserved through Latin translations"
+    },
+    {
+      "entity": "Old Breton names",
+      "attribute": "over one thousand, known mainly from charters"
+    },
+    {
+      "entity": "Old Breton glosses",
+      "attribute": "about two thousand, with native words for medicine and grammar"
+    }
+  ],
+  "sources": [
+    "Koch 2006, s.v. 'Breton literature (1)'",
+    "Price, Glanville. The Celtic Languages. Routledge, 2000."
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Trace Breton literature from its beginnings to 1900, with focus on the Old period.",
+    "key_results": [
+      "No Breton prose or poetry survives from the Old Breton period.",
+      "Latin saints' lives carry the old Breton traditions into writing.",
+      "Over one thousand Old Breton names and about two thousand glosses remain.",
+      "Breton, Welsh, and Cornish shared one Brythonic language before about 825.",
+      "Old Breton literature survives largely through church Latin."
+    ],
+    "evidence": "Koch 2006, s.v. 'Breton literature (1)'; Price, The Celtic Languages."
+  }
+}
