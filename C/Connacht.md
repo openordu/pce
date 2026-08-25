@@ -2,7 +2,7 @@
 layout: layouts/pce.njk
 title: Connacht
 icon: file-lines
-order: 516
+order: 536
 contributors: [ 'Christopher Godwin' ]
 attributes:
   - Conn a great legendary king of Tara
@@ -13,15 +13,16 @@ attributes:
   - Connacht name derived from the Connachta population group
   - Connachta dynasties descended from Conn of the Hundred Battles
   - Crúachu royal ceremonial complex in Roscommon, centre of the province
+  - Connachta the lands are also named Leth Cuinn, the half of Conn
 categories:
-  - location
-  - place
   - concept
-  - group
-  - artifact
   - mythological figure
-  - dynasty
+  - artifact
+  - place
+  - group
   - hero
+  - location
+  - dynasty
 entities:
   - Conn(mythological figure)
   - Lia Fail(artifact)
@@ -57,7 +58,7 @@ tags:
 ---
 ``` tab [group1:Info]
 ::: magazinestyle
-Connacht is the most north-western province of Ireland. Its far west is the Atlantic and its east border the Shannon; the modern counties are Galway, Mayo, Sligo, Leitrim, and Roscommon. The name comes from the Connachta, dynasties tracing descent from Conn of the Hundred Battles, who held land mainly west of the Shannon with their royal seat at Crúachu in Roscommon. The term also names three chief dynasties: the Uí Briúin, Uí Ailello, and Uí Fhiachrach.
+Connacht is the most north-western province of Ireland. Its far west is the Atlantic and its east border the Shannon; the modern counties are Galway, Mayo, Sligo, Leitrim, and Roscommon. The name comes from the Connachta, dynasties tracing descent from Conn of the Hundred Battles, who held land mainly west of the Shannon with their royal seat at Crúachu in Roscommon. The term also names three chief dynasties: the Uí Briúin, Uí Ailello, and Uí Fhiachrach. Another early name for the country of the Connachta and their neighbours is Leth Cuinn, the half of Conn, marking the northern half of Ireland.
 
 :::
 ```
@@ -70,6 +71,7 @@ Connacht is the most north-western province of Ireland. Its far west is the Atla
 - **Connacht**: name derived from the Connachta population group
 - **Connachta**: dynasties descended from Conn of the Hundred Battles
 - **Crúachu**: royal ceremonial complex in Roscommon, centre of the province
+- **Connachta**: the lands are also named Leth Cuinn, the half of Conn
 ```
 ``` tab [group1:Entities]
 - **Conn**: mythological figure

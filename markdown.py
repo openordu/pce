@@ -18,9 +18,9 @@ def write_md_file(json_data, filename):
     image = json_data.get("images",[None])
     entityimage = None
     # if the key is not images, try image
-    if image[0] == None:
+    if not image or image[0] == None:
         image = json_data.get("image",[None])
-    if image[0] != None:
+    if image and image[0] != None:
         entityimage = image[0]
 
     with open(filename, "w") as md_file:

@@ -2,49 +2,64 @@
 layout: layouts/pce.njk
 title: Cunedda
 icon: file-lines
-order: 591
+order: 612
 contributors: [ 'Christopher Godwin' ]
 attributes:
-  - Cunedda Welsh hero
-  - Cunedda one of the original settlers of Wales
-  - Cunedda arrived with his eight sons
-  - Cunedda founded the Celtic kingdoms there
-  - Gwynedd named for him
+  - Cunedda a Welsh hero
+  - Cunedda counted among the early settlers of Wales
+  - Cunedda came with his eight sons
+  - Gwynedd its ruling lines carry his name
 categories:
-  - Location
-  - Organization
-  - Person
+  - group
+  - hero
+  - Place
+  - place
 entities:
-  - Cunedda(Person)
-  - Wales(Location)
-  - Celtic kingdoms(Organization)
-  - Gwynedd(Location)
+  - Cunedda(hero)
+  - Wales(place)
+  - Gwynedd(place)
+  - settlers(group)
+  - Wales(Place)
+  - Gwynedd(Place)
+  - Dyfed(Place)
+  - Manaw(Place)
+  - Irish(group)
 tags:
   - Cunedda
   - Wales
-  - Celtic kingdoms
   - Gwynedd
+  - settlers
+  - Wales
+  - Gwynedd
+  - Dyfed
+  - Manaw
+  - Irish
 ---
 ``` tab [group1:Info]
 ::: magazinestyle
-Welsh hero Cunedda is believed to be one of the pioneer colonizers who arrived in Wales alongside his eight sons with the goal of establishing the Celtic realms. According to mythological writings, the dynasties of Gwynedd were named after him.
+Cunedda, often called Wledig, is a northern chieftain in the early Welsh tradition. In the fifth century he led a warband south into the land that became Wales. He drove out the Irish settlers who had taken Gwynedd and the regions around the sea. The tale makes him founder of the house that ruled Gwynedd until the age of 825. Historia Brittonum and old Welsh genealogies place his coming from the northern country called Manaw. Some authors treat the account as a founding legend. Others find a strand of truth beneath it, since Irish settlement in post-Roman Wales is real.
 
 :::
 ```
 ``` tab [group1:Attributes]
-- **Cunedda**: Welsh hero
-- **Cunedda**: one of the original settlers of Wales
-- **Cunedda**: arrived with his eight sons
-- **Cunedda**: founded the Celtic kingdoms there
-- **Gwynedd**: named for him
+- **Cunedda**: a Welsh hero
+- **Cunedda**: counted among the early settlers of Wales
+- **Cunedda**: came with his eight sons
+- **Gwynedd**: its ruling lines carry his name
 ```
 ``` tab [group1:Entities]
-- **Cunedda**: Person
-- **Wales**: Location
-- **Celtic kingdoms**: Organization
-- **Gwynedd**: Location
+- **Cunedda**: hero
+- **Wales**: place
+- **Gwynedd**: place
+- **settlers**: group
+- **Wales**: Place
+- **Gwynedd**: Place
+- **Dyfed**: Place
+- **Manaw**: Place
+- **Irish**: group
 ```
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
+- Koch 2006, s.v. 'Cunedda'
 ```
 ![Cunedda Image](https://upload.wikimedia.org/wikipedia/commons/9/9f/Crop_Cunedda_from_File_History_of_the_Kings.jpg)
