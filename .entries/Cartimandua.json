@@ -1,0 +1,75 @@
+{
+  "name": "Cartimandua",
+  "text": "Cartimandua is a queen of the Brigantes, a powerful tribe of northern Britain. She ruled during the Roman invasion in the first century. Tacitus records her long reign in his histories. The Brigantes held most of the northern frontier zone. Their lands included York and the region of Hadrian's Wall. Roman armies kept garrisons in forts along that line. Cartimandua kept a pro-Roman policy to hold her power. This policy sparked a civil war between her two husbands. Her first husband Venutius turned against her. She chose her second husband Vellocatus to rule beside her. Rome backed the queen and helped her keep the throne. Tribal identity survived strongly under Roman rule. Seven dedications to the goddess Brigantia survive today. A reigning woman was not unique among the Britons. Boudica led her own tribe in the same age.",
+  "entities": [
+    {
+      "entity": "Cartimandua",
+      "type": "Person"
+    },
+    {
+      "entity": "Brigantes",
+      "type": "Group"
+    },
+    {
+      "entity": "Venutius",
+      "type": "Person"
+    },
+    {
+      "entity": "Vellocatus",
+      "type": "Person"
+    },
+    {
+      "entity": "Brigantia",
+      "type": "Deity"
+    },
+    {
+      "entity": "Boudica",
+      "type": "Person"
+    },
+    {
+      "entity": "Hadrian's Wall",
+      "type": "Place"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Cartimandua",
+      "value": "queen of the Brigantes with a pro-Roman policy"
+    },
+    {
+      "entity": "Brigantes",
+      "value": "large tribe of northern Britain"
+    },
+    {
+      "entity": "Venutius",
+      "value": "first husband of Cartimandua"
+    },
+    {
+      "entity": "Vellocatus",
+      "value": "second husband of Cartimandua"
+    },
+    {
+      "entity": "Brigantia",
+      "value": "tribal goddess honoured with dedications"
+    }
+  ],
+  "sources": [
+    "Koch 2006, s.v. 'Cartimandua'",
+    "Tacitus. The Histories and The Annals. Penguin Classics."
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Record Cartimandua as a verified PCE node.",
+    "key_results": [
+      "Factual text written in CSG-style prose of at least 150 chars.",
+      "Entities and attributes recorded for the queen and her tribe.",
+      "Protected fields set to empty defaults."
+    ],
+    "evidence": [
+      "Koch 2006, s.v. 'Cartimandua'",
+      "Tacitus. The Histories and The Annals of Penguin Classics."
+    ]
+  }
+}

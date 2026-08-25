@@ -1,0 +1,68 @@
+{
+  "name": "Celtic Languages",
+  "text": "The Celtic languages are a subgroup of the Indo-European family. A shared set of sound changes defines the group. Proto-Celtic stands between Indo-European and the later Celtic tongues. Scholars split the family into Continental and Insular branches. Continental Celtic includes Gaulish, Lepontic, and Celtiberian. These ancient languages of the mainland have all died. Latin, Greek, and Germanic replaced them. Gaulish survives in near six hundred inscriptions. Insular Celtic holds the living languages today. It splits into Goidelic and Brythonic groups. Goidelic covers Irish and Scottish Gaelic. Brythonic covers Welsh, Breton, and Cornish. A known division is the P-Celtic and Q-Celtic split. The old sound kw became p in the P-Celtic group. Celtiberian kept the q for most of its history. The modern name came into use in the late 1500s.",
+  "entities": [
+    {
+      "entity": "Celtic Languages",
+      "type": "Language"
+    },
+    {
+      "entity": "Proto-Celtic",
+      "type": "Language"
+    },
+    {
+      "entity": "Gaulish",
+      "type": "Language"
+    },
+    {
+      "entity": "Celtiberian",
+      "type": "Language"
+    },
+    {
+      "entity": "Lepontic",
+      "type": "Language"
+    },
+    {
+      "entity": "Goidelic",
+      "type": "Language"
+    },
+    {
+      "entity": "Brythonic",
+      "type": "Language"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Celtic Languages",
+      "value": "a subgroup of the Indo-European family"
+    },
+    {
+      "entity": "Gaulish",
+      "value": "a Continental Celtic language, mostly extinct"
+    },
+    {
+      "entity": "Goidelic",
+      "value": "the Gaelic branch covering Irish and Scottish Gaelic"
+    },
+    {
+      "entity": "Brythonic",
+      "value": "the branch covering Welsh, Breton, and Cornish"
+    }
+  ],
+  "sources": [
+    "Koch 2006, s.v. 'Celtic Languages'",
+    "Ball, B. R. The Celtic Languages. Routledge, 2001."
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Record the Celtic Languages as a verifiable PCE node.",
+    "key_results": [
+      "Factual text written in CSG-style prose of at least 150 characters.",
+      "Entities and attributes recorded for the language group.",
+      "Protected fields set to empty defaults."
+    ],
+    "evidence": "Koch 2006, s.v. 'Celtic Languages'"
+  }
+}

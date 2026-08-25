@@ -1,0 +1,67 @@
+{
+  "name": "Ceredigion",
+  "text": "Ceredigion is a county in Wales. About 74,941 people lived there in 2001. Nearly 61 percent of them spoke Welsh. The county sits between the Dyfi and Teifi estuaries. English names for it include Cardigan and Cardiganshire. The Welsh form Sir Aberteifi was used long ago. Ceredigion keeps the name of a post-Roman kingdom. Ceretic son of Cunedda founded that kingdom. The Ordovices tribe once held this land. Later the county joined the Principality of Wales. Two universities grew at Lampeter and Aberystwyth. Cardigan became a noted coastal town.",
+  "entities": [
+    {
+      "entity": "Ceredigion",
+      "type": "Place"
+    },
+    {
+      "entity": "Cardigan",
+      "type": "Place"
+    },
+    {
+      "entity": "Ceredig",
+      "type": "Person"
+    },
+    {
+      "entity": "Cunedda",
+      "type": "Person"
+    },
+    {
+      "entity": "Aberystwyth",
+      "type": "Place"
+    },
+    {
+      "entity": "Ordovices",
+      "type": "Group"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Ceredigion",
+      "value": "Welsh county between the Dyfi and Teifi rivers"
+    },
+    {
+      "entity": "Ceredigion",
+      "value": "home to two universities and coastal towns"
+    },
+    {
+      "entity": "Ceredig",
+      "value": "founder of the post-Roman kingdom of Ceredigion"
+    },
+    {
+      "entity": "Cardigan",
+      "value": "an English name and town linked to the county"
+    }
+  ],
+  "sources": [
+    "Koch 2006, s.v. 'Ceredigion'",
+    "Jenkins, Geraint H., and Ieuan Gwynedd Jones. Cardiganshire in Modern Times. Cardiff: University of Wales Press."
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Record Ceredigion as a verified PCE node.",
+    "key_results": [
+      "Factual text written in CSG of at least 150 characters.",
+      "Entities and attributes recorded for the entry.",
+      "Protected fields set to empty defaults."
+    ],
+    "evidence": [
+      "Koch 2006, s.v. 'Ceredigion'",
+      "Jenkins, Geraint H., and Ieuan Gwynedd Jones. Cardiganshire in Modern Times."
+    ]
+  }
+}
