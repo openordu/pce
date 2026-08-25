@@ -1,63 +1,95 @@
 {
-  "name": "Matronae",
-  "attributes": [
-    {
-      "entity": "Matronae",
-      "attribute": "the Latin name of the Deae Matres, the Divine Mothers of the Continental Celts"
-    },
-    {
-      "entity": "Matronae",
-      "attribute": "usually shown as three seated figures of maiden, mother, and crone"
-    },
-    {
-      "entity": "Matronae",
-      "attribute": "goddesses of abundance and of the fertility of the land"
-    }
-  ],
-  "entities": [
-    {
-      "entity": "Matronae",
-      "type": "Person"
-    },
-    {
-      "entity": "Deae Matres",
-      "type": "Person"
-    },
-    {
-      "entity": "maiden",
-      "type": "Person"
-    },
-    {
-      "entity": "crone",
-      "type": "Person"
-    },
-    {
-      "entity": "mother goddesses",
-      "type": "Concept"
-    },
-    {
-      "entity": "fertility",
-      "type": "Concept"
-    }
-  ],
-  "sources": [
-    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-  ],
-  "image": [
-    "https://upload.wikimedia.org/wikipedia/commons/8/8e/Deesses_de_Vertault_%28mus%C3%A9e_de_Bibracte%29.jpg"
-  ],
-  "cyphertext": "2AbbQFHALMntw8DwfalU5pJwZgiK_SbUJDz1Mudt7vssJUk4wOuJ6uNEgxb5U6QLFVyfrPgr",
-  "salt": "doWvfvhEqDrSoGW3rs2Fjw==",
-  "text": "Matronae is the Latin name given to the Deae Matres, the Divine Mothers of the Continental Celts. Monaghan directs the reader to the fuller Deae Matres entry. These mother goddesses were among the most common goddess images found in Celtic lands. They usually appeared as three seated figures, a maiden, a fertile mother, and an aging crone. The goddesses held sacred objects such as a sacrificial knife, an offering plate, and food. They were goddesses of abundance and of the fertility of the land.",
-  "okr": {
-    "objective": "Document Matronae, the Latin name of the Deae Matres of the Continental Celts.",
-    "key_results": [
-      "Record Matronae as the name of the Deae Matres.",
-      "Record the usual three figures of maiden, mother, and crone.",
-      "Record the sacred objects and the role as goddesses of abundance."
+    "name": "Matronae",
+    "attributes": [
+        {
+            "entity": "Matronae",
+            "attribute": "the Latin name of the Deae Matres, the Divine Mothers of the Continental Celts"
+        },
+        {
+            "entity": "Matronae",
+            "attribute": "usually shown as three seated figures of maiden, mother, and crone"
+        },
+        {
+            "entity": "Matronae",
+            "attribute": "goddesses of abundance and of the fertility of the land"
+        },
+        {
+            "entity": "Matronae",
+            "attribute": "cult held firm in the Rhineland under the byname Aufaniae"
+        },
+        {
+            "entity": "Matronae",
+            "attribute": "the plural of a river-god name that becomes the Marne"
+        },
+        {
+            "entity": "Matronae",
+            "attribute": "triadic images with cornucopia and a bare-breasted mother"
+        },
+        {
+            "entity": "Matronae",
+            "attribute": "the domestic Mothers named in Roman-British dedications"
+        }
     ],
-    "evidence": [
-      "Monaghan, P. The Encyclopedia of Celtic Mythology and Folklore (2008): Matronae entry, p. 317; Deae Matres entry, p. 136."
-    ]
-  }
+    "entities": [
+        {
+            "entity": "Matronae",
+            "type": "Person"
+        },
+        {
+            "entity": "Deae Matres",
+            "type": "Person"
+        },
+        {
+            "entity": "maiden",
+            "type": "Person"
+        },
+        {
+            "entity": "crone",
+            "type": "Person"
+        },
+        {
+            "entity": "mother goddesses",
+            "type": "Concept"
+        },
+        {
+            "entity": "fertility",
+            "type": "Concept"
+        },
+        {
+            "entity": "Aufaniae",
+            "type": "group"
+        },
+        {
+            "entity": "Vacallinehae",
+            "type": "group"
+        },
+        {
+            "entity": "Matrona",
+            "type": "person"
+        },
+        {
+            "entity": "Matres Domesticae",
+            "type": "group"
+        }
+    ],
+    "sources": [
+        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.",
+        "Koch 2006, s.v. 'Matronae'"
+    ],
+    "image": [
+        "https://upload.wikimedia.org/wikipedia/commons/8/8e/Deesses_de_Vertault_%28mus%C3%A9e_de_Bibracte%29.jpg"
+    ],
+    "cyphertext": "2AbbQFHALMntw8DwfalU5pJwZgiK_SbUJDz1Mudt7vssJUk4wOuJ6uNEgxb5U6QLFVyfrPgr",
+    "salt": "doWvfvhEqDrSoGW3rs2Fjw==",
+    "text": "Matronae is the Latin plural name of a group of mother goddesses. Koch counts 84 instances of the name in Roman-period dedications. The cult stood firm in the Rhineland, near Bonn and Cologne. There the goddesses carried the byname Aufaniae. Another shrine at Pesch kept the name Vacallinehae. The singular Matrona is also the old name of the Marne river. So one figure holds the name of a stream and its divine woman at once. The cult grew strongest around the Marne and spread west toward Britain. On later inscriptions the Mothers appear as a triad. They hold cornucopia, fruit, and other signs of plenty. They often nurse a baby with one breast bared. In Roman Britain the home goddesses, the Domesticae, gained dedications at York and at forts on the northern wall. The great count of images and shrines shows how central these mothers were.",
+    "okr": {
+        "objective": "Document the Matronae mother goddesses and their spread from the Marne to Britain.",
+        "key_results": [
+            "Record the 84 attested instances of the name.",
+            "Record the Rhineland cults with the byname Aufaniae.",
+            "Record that Matrona also names the Marne river.",
+            "Record the domestic Mothers reflected in Roman Britain."
+        ],
+        "evidence": "Koch 2006, s.v. 'Matronae'"
+    }
 }

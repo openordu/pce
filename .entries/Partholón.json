@@ -1,50 +1,83 @@
 {
- "name": "Partholón",
- "attributes": [
-  {
-   "entity": "Partholón",
-   "attribute": "the least significant of the invaders"
-  },
-  {
-   "entity": "Partholón",
-   "attribute": "came to Ireland from Greece"
-  },
-  {
-   "entity": "Partholón",
-   "attribute": "fought the Fomorians in a magical battle"
-  }
- ],
- "entities": [
-  {
-   "entity": "Partholón",
-   "type": "Person"
-  },
-  {
-   "entity": "Ireland",
-   "type": "Place"
-  },
-  {
-   "entity": "Book of Invasions",
-   "type": "Text"
-  },
-  {
-   "entity": "Fomorians",
-   "type": "Group"
-  }
- ],
- "sources": [
-  "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
- ],
- "cyphertext": "UfVo4PASGAUEiwMyplNb65-kOzTggIlPvjGCPTbOd-SJTMnPXBJLtTLPXMA8_2p2Jwxzvn00VFKEp_0SaTGM61BM6aMLqwEwPqLRzfHHo4Kqsd-z3a1-JBn4x-kw8jm1ZhCxEeuEthCFltk_ljcxuX8t8Zj69yy-cHsBi5qXq5siANZKQWYZcVrgHDQZY-h26eKm4HwMAUDhgIYOjAsdj_qoAIOK4VTUQYOf0g2EQEn0Zi77TfQ4eBGLvFrMbVG2GjHf6upb1tZhL7HA43eTBvZBAEvU2I7N0T9pQ6Ir2KCIBxcJp_xkf2ely6ozevmZyFfIady1ouS4eS5Vo3DvIYY3gCTxMfjmjGWby3SajCfxAsDDSPdsg3O3elDemrXBX8wSDC8fddGZCjQtfGC7PTIhsup5Db6JQ4tqfzjk8PSYj_bDuIlmxJ4u0SZxxVxSM48FEiN-8-6-kW-eB6Ejf_llSZ_8nC4U3RMonCXSfWPFPWk4ftaV_FsKhUGZRak1whI0eOaKLHuMl4qL2t2GnIs_OjBTCFj2csw1IKwMIBJ8WrwsDwYRkEiQs0B6_KYLsj9ALdqHIoDNvhVYGZdstRNpewW5sbVZ2enz11GkhhtiVf0hNCm8XySKxzxZRTwtQodfujY3SknTykpkvBZEIigrrk277t2YuQmhlTu-crcilpcgBCFLFWDO6TwBy0sZa965yoZ7zOro7msfy2ki3zWpj4mhXy_mzxz-a1a8nl4dDqqAiBcYbH_FtQRCIYD6ihPZRl4OAWLNneiHlCyJyyPiBt6tGj03lWUeljoXF_0KiY-ccr8NxKccbdxXUsB5nHeJTQE7J3EbReVJqREw3mQQ8ehcyqagtukv3LRQwR0F345T57ecclB-v5UTwQe2VcGi1u4ZxtCspZ8FSCTejepi-9moY531AnZYHSyFS5dcMeCWDyoZLbeZv9NAopfJG4YTtKZJ9P5Q9z1vwv8Nwat8YeoriUA7W8B2ZHtO8oo9-Ts4Ukv2CryKRH8VseCRYxGHGmVao8RmJKTzR1ovX2c4-wSjqPShgODD0lNZDJy0v5YxA2bgonKl7rLISh6IQjl6UtegikD3W_4lbcdwlqofLk7jtC-sYtbzY8CGIahjjpgCU21syQ-OZ-5N_QphcLk-18_DrnwyrTJzzYA=",
- "salt": "vOE8nE_6AZgDRKQ5VqmWNg==",
- "text": "Partholon is an Irish hero. The Book of Invasions also calls him Partholon, Parthalan, and Parthanan. He was the least significant of the invaders. He came after Cesair and before Nemed. Medieval historians may have invented his name from Bartholomaeus. Partholon came to Ireland from Greece. He had killed both his parents. He lost his left eye as punishment. Thirty years after the great flood, he arrived with his people. They fought the Fomorians in a magical battle without blood. His wife Dealgnaid slept with the servant Togda while he was away.",
- "okr": {
-  "objective": "Describe Partholon, leader of the Partholonians in Ireland.",
-  "key_results": [
-   "Partholon came to Ireland from Greece after the great flood.",
-   "He fought off the Fomorians and led his people into Ireland.",
-   "His name may come from the figure Bartholomaeus."
-  ],
-  "evidence": "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
- }
+    "name": "Partholón",
+    "attributes": [
+        {
+            "entity": "Partholón",
+            "attribute": "the least significant of the invaders"
+        },
+        {
+            "entity": "Partholón",
+            "attribute": "came to Ireland from Greece"
+        },
+        {
+            "entity": "Partholón",
+            "attribute": "fought the Fomorians in a magical battle"
+        },
+        {
+            "entity": "Partholón",
+            "attribute": "son of Sera, leader of the second settlement of Ireland"
+        },
+        {
+            "entity": "Partholón",
+            "attribute": "name probably derives from the biblical Bartholomaeus, since no Irish name opens with P"
+        },
+        {
+            "entity": "Partholón",
+            "attribute": "buried at Tallaght in County Dublin"
+        },
+        {
+            "entity": "Mag nElta",
+            "attribute": "chief settlement of the Partholonians, where Dublin later rose"
+        }
+    ],
+    "entities": [
+        {
+            "entity": "Partholón",
+            "type": "Person"
+        },
+        {
+            "entity": "Ireland",
+            "type": "Place"
+        },
+        {
+            "entity": "Book of Invasions",
+            "type": "Text"
+        },
+        {
+            "entity": "Fomorians",
+            "type": "Group"
+        },
+        {
+            "entity": "Scél Tuáin meic Cairill",
+            "type": "text"
+        },
+        {
+            "entity": "Historia Brittonum",
+            "type": "text"
+        },
+        {
+            "entity": "Lug",
+            "type": "god"
+        },
+        {
+            "entity": "Mag nElta",
+            "type": "place"
+        }
+    ],
+    "sources": [
+        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.",
+        "Koch 2006, s.v. 'Partholón'"
+    ],
+    "cyphertext": "UfVo4PASGAUEiwMyplNb65-kOzTggIlPvjGCPTbOd-SJTMnPXBJLtTLPXMA8_2p2Jwxzvn00VFKEp_0SaTGM61BM6aMLqwEwPqLRzfHHo4Kqsd-z3a1-JBn4x-kw8jm1ZhCxEeuEthCFltk_ljcxuX8t8Zj69yy-cHsBi5qXq5siANZKQWYZcVrgHDQZY-h26eKm4HwMAUDhgIYOjAsdj_qoAIOK4VTUQYOf0g2EQEn0Zi77TfQ4eBGLvFrMbVG2GjHf6upb1tZhL7HA43eTBvZBAEvU2I7N0T9pQ6Ir2KCIBxcJp_xkf2ely6ozevmZyFfIady1ouS4eS5Vo3DvIYY3gCTxMfjmjGWby3SajCfxAsDDSPdsg3O3elDemrXBX8wSDC8fddGZCjQtfGC7PTIhsup5Db6JQ4tqfzjk8PSYj_bDuIlmxJ4u0SZxxVxSM48FEiN-8-6-kW-eB6Ejf_llSZ_8nC4U3RMonCXSfWPFPWk4ftaV_FsKhUGZRak1whI0eOaKLHuMl4qL2t2GnIs_OjBTCFj2csw1IKwMIBJ8WrwsDwYRkEiQs0B6_KYLsj9ALdqHIoDNvhVYGZdstRNpewW5sbVZ2enz11GkhhtiVf0hNCm8XySKxzxZRTwtQodfujY3SknTykpkvBZEIigrrk277t2YuQmhlTu-crcilpcgBCFLFWDO6TwBy0sZa965yoZ7zOro7msfy2ki3zWpj4mhXy_mzxz-a1a8nl4dDqqAiBcYbH_FtQRCIYD6ihPZRl4OAWLNneiHlCyJyyPiBt6tGj03lWUeljoXF_0KiY-ccr8NxKccbdxXUsB5nHeJTQE7J3EbReVJqREw3mQQ8ehcyqagtukv3LRQwR0F345T57ecclB-v5UTwQe2VcGi1u4ZxtCspZ8FSCTejepi-9moY531AnZYHSyFS5dcMeCWDyoZLbeZv9NAopfJG4YTtKZJ9P5Q9z1vwv8Nwat8YeoriUA7W8B2ZHtO8oo9-Ts4Ukv2CryKRH8VseCRYxGHGmVao8RmJKTzR1ovX2c4-wSjqPShgODD0lNZDJy0v5YxA2bgonKl7rLISh6IQjl6UtegikD3W_4lbcdwlqofLk7jtC-sYtbzY8CGIahjjpgCU21syQ-OZ-5N_QphcLk-18_DrnwyrTJzzYA=",
+    "salt": "vOE8nE_6AZgDRKQ5VqmWNg==",
+    "text": "Partholón, son of Sera son of Srú, led the second settlement of Ireland. It came, per Lebar Gabála, three centuries after the Flood. Earlier texts differ. Historia Brittonum casts his people as the island's first settlers. Scél Tuáin meic Cairill names him a Greek. Plague wiped out his Partholonians. Their chief seat occupied Mag nElta, where Dublin later rose. Some writers styled him chief of every craft, aligned with the all-skilled Lug. He rests at Tallaght. His name may come from the biblical Bartholomaeus, for no native Irish name begins with the letter P.",
+    "okr": {
+        "objective": "Frame Partholón as leader of the second settlers of Ireland, whose name is a learned invention.",
+        "key_results": [
+            "Set Partholón as son of Sera, whom the Book of Invasions places three centuries after the Flood.",
+            "Show that earlier and later texts give Partholón differing origins and settlements.",
+            "Record that plague wiped out his Partholonians and that their main seat was Mag nElta."
+        ],
+        "evidence": "Koch 2006, s.v. 'Partholón'"
+    }
 }

@@ -5,39 +5,66 @@ icon: file-lines
 order: 1800
 contributors: [ 'Christopher Godwin' ]
 attributes:
-  - Avalon mysterious and powerful place of Arthurian legend
-  - Emain Ablach island of apples
-  - Otherworld described as Emain Ablach
+  - Otherworld realm where gods and fairies lived
+  - Otherworld later joined with the Christian land of the dead
+  - dead returned to our world to work mischief
+  - Samhain the veils between worlds hung thin
+  - síd an earthen mound or a cave that houses the immortal folk
+  - Otherworld termed the síd in Irish and the Annwn in Welsh
+  - Mag Mell an Otherworld name meaning the plain of Sports or of Delight
+  - Tech Duinn the house of the dead, an island off the Beara peninsula
 categories:
+  - event
   - place
-  - legend
+  - mythological creature
+  - concept
 entities:
+  - Otherworld(concept)
+  - fairies(mythological creature)
+  - Samhain(event)
   - Avalon(place)
-  - Arthurian legend(legend)
   - Emain Ablach(place)
-  - Otherworld(place)
+  - síd(concept)
+  - Mag Mell(place)
+  - Tech Duinn(place)
+  - Annwn(place)
 tags:
-  - Avalon
-  - Arthurian legend
-  - Emain Ablach
   - Otherworld
+  - fairies
+  - Samhain
+  - Avalon
+  - Emain Ablach
+  - síd
+  - Mag Mell
+  - Tech Duinn
+  - Annwn
 ---
 ``` tab [group1:Info]
 ::: magazinestyle
-The concept of the Otherworld involves an alternate reality where spirits, divinities, and the dead resided. This belief can be found in areas where the Celts lived in the past, leading to the assumption that it originated from their religion. However, there is a possibility that the concept was adopted by the Celts from the people they conquered. Unlike the Christian belief of a separate and distant heaven, the Celtic Otherworld was situated close to this world, yet not easily accessible. At times, it was thought to be on an island in the ocean that moved through time and space, appearing only once every seven years or in different areas. It was also believed to lie beneath a hill, typically an old fort that opened to reveal an enormous city. The Otherworld was often described as shadowy, liminal, and a place between locations, such as bogs, caves, and reedy shores, which acted as gates to the Otherworld. Individuals from this world could access the Otherworld either by accident or design, experiencing kidnappings such as those of musicians who, if they played well at the Otherworldly dances, might receive special tunes to play when they returned to earth. Midwives were sometimes kidnapped to help with Otherworldly births and were instructed to silently and willingly do their jobs, hoping for eventual and swift returns home. Human infants were seen as more beautiful than those born in the Otherworld, leading to the possibility of babies being stolen. However, there were certain rituals and tricks that could be used to reclaim them (see Changeling). Certain times acted as portals to the Otherworld, such as the Beltane (May 1) and Samhain (November 1) holidays, which remained magical even after the Christianization of Celtic territories. The Otherworld could break through to this world during liminal times like dawn and in shadowy weather conditions. Visitors from this world could also gain access to the Otherworld. Time moved slowly in the Otherworld, so an hour spent there could be equivalent to a century here. People in the Otherworld did not age or fall ill, and there was no bad weather there; only sunny days filled with dance and song. Fruit and flowers grew on trees simultaneously, and the food was impossibly delicious yet never satisfying. Various names were given to the Otherworld, such as Mag Mell (“plain of honey”), Tir Na Nog (“land of youth”), and Hy-Brâzil (the island of Bres, after which Brazil was named). Some scholars derived the word Avalon, which describes the mysterious and powerful place of Arthurian legend, from the phrase Emain Ablach (“island of apples”) used to describe the Otherworld. For more information on the Otherworld, see NaMES For The OTheRWORLD.
+Koch treats the word Otherworld as a neutral tag, not one single realm. No Proto-Celtic word for it can be rebuilt with confidence, though a shared Gaulish and Brythonic term did exist. In Irish the word síd names an earthen mound or cave dwelling of the immortal folk. The síde open to mortal sight on Samain, when no concealment was possible. Distinct lands include Mag Mell, the Plain of Sports, and Tech Duinn, the hidden house of the dead. In Welsh the term Annwn, earlier Annwfn, plainly names that realm beneath the earth.
 
 :::
 ```
 ``` tab [group1:Attributes]
-- **Avalon**: mysterious and powerful place of Arthurian legend
-- **Emain Ablach**: island of apples
-- **Otherworld**: described as Emain Ablach
+- **Otherworld**: realm where gods and fairies lived
+- **Otherworld**: later joined with the Christian land of the dead
+- **dead**: returned to our world to work mischief
+- **Samhain**: the veils between worlds hung thin
+- **síd**: an earthen mound or a cave that houses the immortal folk
+- **Otherworld**: termed the síd in Irish and the Annwn in Welsh
+- **Mag Mell**: an Otherworld name meaning the plain of Sports or of Delight
+- **Tech Duinn**: the house of the dead, an island off the Beara peninsula
 ```
 ``` tab [group1:Entities]
+- **Otherworld**: concept
+- **fairies**: mythological creature
+- **Samhain**: event
 - **Avalon**: place
-- **Arthurian legend**: legend
 - **Emain Ablach**: place
-- **Otherworld**: place
+- **síd**: concept
+- **Mag Mell**: place
+- **Tech Duinn**: place
+- **Annwn**: place
 ```
 ``` tab [group1:Sources]
 - Evans-Wentz, W. Y. The Fairy-Faith in Celtic Countries. Gerrards Cross: Colin Smythe Humanities Press, 1911, 332-338.
@@ -45,4 +72,5 @@ The concept of the Otherworld involves an alternate reality where spirits, divin
 - O’Rahilly, Thomas. Early Irish History and Mythology. Dublin: The Dublin Institute for Advanced Studies, 1946, 328.
 - Patch, Howard Rollin. *The Other World: According to Descriptions in Medieval Literature.* Cambridge, Mass.: Harvard University Press, 1950, pp. 27 ff.
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
+- Koch 2006, s.v. 'Otherworld'
 ```

@@ -5,50 +5,66 @@ icon: file-lines
 order: 1815
 contributors: [ 'Christopher Godwin' ]
 attributes:
-  - one-eyed leader appears in stories of Balor of the Evil Eye and the warrior Goll Mac Morna
-  - Partholón arrived in Ireland with his people
-  - biblical great flood occurred thirty years before Partholón's arrival in Ireland
+  - Partholón the least significant of the invaders
+  - Partholón came to Ireland from Greece
+  - Partholón fought the Fomorians in a magical battle
+  - Partholón son of Sera, leader of the second settlement of Ireland
+  - Partholón name probably derives from the biblical Bartholomaeus, since no Irish name opens with P
+  - Partholón buried at Tallaght in County Dublin
+  - Mag nElta chief settlement of the Partholonians, where Dublin later rose
 categories:
-  - story character
-  - origin
-  - theme
-  - person
-  - warrior
-  - location
+  - place
+  - god
+  - Group
+  - text
+  - Text
+  - Person
+  - Place
 entities:
-  - one-eyed leader(theme)
-  - Balor of the Evil Eye(story character)
-  - Goll Mac Morna(warrior)
-  - Celtic(origin)
-  - Partholón(person)
-  - Ireland(location)
+  - Partholón(Person)
+  - Ireland(Place)
+  - Book of Invasions(Text)
+  - Fomorians(Group)
+  - Scél Tuáin meic Cairill(text)
+  - Historia Brittonum(text)
+  - Lug(god)
+  - Mag nElta(place)
 tags:
-  - one-eyed leader
-  - Balor of the Evil Eye
-  - Goll Mac Morna
-  - Celtic
   - Partholón
   - Ireland
+  - Book of Invasions
+  - Fomorians
+  - Scél Tuáin meic Cairill
+  - Historia Brittonum
+  - Lug
+  - Mag nElta
 ---
 ``` tab [group1:Info]
 ::: magazinestyle
-Irish hero known as Partholón, or alternatively Partholon, Parthalán, or Parthanán, played a minor role in the mythological history of Ireland as recorded in the Book Of Invasions. Ranked behind Cesair and ahead of Nemed and his followers, Partholón was believed to have been a fabrication of medieval chroniclers who fashioned his name on Bartholomaeus, a figure from early Christian pseudo-history. According to legend, Partholón hailed from Greece where he murdered his parents and was subsequently punished by losing his left eye. Intriguingly, the notion of the one-eyed leader, which also finds mention in the tales of Balor of the Evil Eye and the warrior Goll Mac Morna, may have originated from Celtic mythology. Approximately three decades after the deluge, Partholón led his tribe, the people of Partholón, to Ireland.
+Partholón, son of Sera son of Srú, led the second settlement of Ireland. It came, per Lebar Gabála, three centuries after the Flood. Earlier texts differ. Historia Brittonum casts his people as the island's first settlers. Scél Tuáin meic Cairill names him a Greek. Plague wiped out his Partholonians. Their chief seat occupied Mag nElta, where Dublin later rose. Some writers styled him chief of every craft, aligned with the all-skilled Lug. He rests at Tallaght. His name may come from the biblical Bartholomaeus, for no native Irish name begins with the letter P.
 
 :::
 ```
 ``` tab [group1:Attributes]
-- **one-eyed leader**: appears in stories of Balor of the Evil Eye and the warrior Goll Mac Morna
-- **Partholón**: arrived in Ireland with his people
-- **biblical great flood**: occurred thirty years before Partholón's arrival in Ireland
+- **Partholón**: the least significant of the invaders
+- **Partholón**: came to Ireland from Greece
+- **Partholón**: fought the Fomorians in a magical battle
+- **Partholón**: son of Sera, leader of the second settlement of Ireland
+- **Partholón**: name probably derives from the biblical Bartholomaeus, since no Irish name opens with P
+- **Partholón**: buried at Tallaght in County Dublin
+- **Mag nElta**: chief settlement of the Partholonians, where Dublin later rose
 ```
 ``` tab [group1:Entities]
-- **one-eyed leader**: theme
-- **Balor of the Evil Eye**: story character
-- **Goll Mac Morna**: warrior
-- **Celtic**: origin
-- **Partholón**: person
-- **Ireland**: location
+- **Partholón**: Person
+- **Ireland**: Place
+- **Book of Invasions**: Text
+- **Fomorians**: Group
+- **Scél Tuáin meic Cairill**: text
+- **Historia Brittonum**: text
+- **Lug**: god
+- **Mag nElta**: place
 ```
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
+- Koch 2006, s.v. 'Partholón'
 ```

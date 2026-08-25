@@ -5,31 +5,65 @@ icon: file-lines
 order: 1066
 contributors: [ 'Christopher Godwin' ]
 attributes:
-  - Celtic name original
-  - divinity surname
-  - original lost
+  - Gaul an ancient Celtic land covering parts of modern France
+  - Julius Caesar brought Gaul under Roman domination
+  - Gauls many tribal peoples with a common language
+  - Gaul is bounded by the Rhine, Alps, Mediterranean, Pyrenees, Atlantic, and Channel
+  - Gaul answers to the Roman term Gallia Transalpina beyond the Alps
+  - Gaul was divided by Caesar into Belgae, Aquitani, and Celtae
+  - Gaul carries a Celtic name tied to words for boldness and fierceness
 categories:
-  - divinity
+  - Culture
+  - Event
+  - Group
+  - Person
+  - Place
 entities:
-  - Celtic name(divinity)
+  - Gaul(Place)
+  - Julius Caesar(Person)
+  - Gallic Wars(Event)
+  - Celts(Culture)
+  - Gallia Transalpina(Place)
+  - Cisalpine Gaul(Place)
+  - Belgae(Group)
+  - Aquitani(Group)
 tags:
-  - Celtic name
+  - Gaul
+  - Julius Caesar
+  - Gallic Wars
+  - Celts
+  - Gallia Transalpina
+  - Cisalpine Gaul
+  - Belgae
+  - Aquitani
 ---
 ``` tab [group1:Info]
 ::: magazinestyle
-Gaul was an ancient Celtic land that encompasses present-day France along with the neighboring lands that belong to Germany, Belgium, and Switzerland. The Romans had gained control over these lands following their conquest by Julius Caesar, who documented his experiences in the Gallic Wars. Caesar provided an insight into the culture and religion of the continental Celts, but his reports are often considered untrustworthy since his primary objective was to rule over them. The Gauls were not a single tribe but many, united by their shared language, customs, and beliefs. The present-day Celtic culture is thought to be a fusion of the Gauls and the Old Europeans, who might have originally lived on the same land. The Gauls later migrated to the British and Irish islands, where they encountered the natives, and this eventually led to a hybridized culture. The Germanic tribes living in the north shared geographic boundaries with the Gauls, adding to the complexity and dynamism of the culture and religion on the Continent. However, much of the wealth of their traditions was lost over time due to the Roman application of their own names and categories on the Gaulish gods, a process known as Interpretatio Romana. As a result of this, Mercury is now recognized as the chief of gods with Minerva following suit. No personal references or introductory sentences are observed in Chadwick's style. Thus, it is asserted that in certain circumstances, the native Celtic appellation of a deity evolved into a family name, though oftentimes the original moniker has been forgotten.
+Gaul was an ancient Celtic land. The name in modern use usually means a region of Europe bounded by the Rhine, the Alps, the Mediterranean, the Pyrenees, and the Atlantic and Channel shores. The term answers to Gallia Transalpina, that is Gaul beyond the Alps as seen from Rome. North of the Alps, Celts later moved south into the Po valley to form Cisalpine Gaul, and raids from there reached as far as the sack of Rome about 390 BCE. Caesar brought the northern peoples under Roman power and divided them into the Belgae, the Aquitani, and the Celtae or Galli. His campaigns ran from 58 to 51 BCE. The Greeks called these folk Celtoi, and the name links to a Celtic word for fierce spiritedness; in Old Irish gal means boldness. Much of what we know of the Gauls comes down through Roman accounts.
 
 :::
 ```
 ``` tab [group1:Attributes]
-- **Celtic name**: original
-- **divinity**: surname
-- **original**: lost
+- **Gaul**: an ancient Celtic land covering parts of modern France
+- **Julius Caesar**: brought Gaul under Roman domination
+- **Gauls**: many tribal peoples with a common language
+- **Gaul**: is bounded by the Rhine, Alps, Mediterranean, Pyrenees, Atlantic, and Channel
+- **Gaul**: answers to the Roman term Gallia Transalpina beyond the Alps
+- **Gaul**: was divided by Caesar into Belgae, Aquitani, and Celtae
+- **Gaul**: carries a Celtic name tied to words for boldness and fierceness
 ```
 ``` tab [group1:Entities]
-- **Celtic name**: divinity
+- **Gaul**: Place
+- **Julius Caesar**: Person
+- **Gallic Wars**: Event
+- **Celts**: Culture
+- **Gallia Transalpina**: Place
+- **Cisalpine Gaul**: Place
+- **Belgae**: Group
+- **Aquitani**: Group
 ```
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
+- Koch 2006, s.v. 'Gaul'
 ```
 ![Gaul Image](https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Map_Gallia_Tribes_Towns-la.svg/1200px-Map_Gallia_Tribes_Towns-la.svg.png)

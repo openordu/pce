@@ -12,6 +12,22 @@
         {
             "entity": "St. Paul",
             "attribute": "wrote to the residents of Galatia in his epistles"
+        },
+        {
+            "entity": "Galatia",
+            "attribute": "was settled by migrating Gauls about 278 BCE at the call of Nicomedes I"
+        },
+        {
+            "entity": "Galatia",
+            "attribute": "held three tribes, each ruled by a board of four tetarchs"
+        },
+        {
+            "entity": "Galatia",
+            "attribute": "was home to the strong ruler Deiotaros of the Tolistobogii"
+        },
+        {
+            "entity": "Galatia",
+            "attribute": "was taken into the Roman empire in the first century BCE"
         }
     ],
     "entities": [
@@ -30,24 +46,42 @@
         {
             "entity": "St. Paul",
             "type": "Person"
+        },
+        {
+            "entity": "Galatians",
+            "type": "Group"
+        },
+        {
+            "entity": "Drunameton",
+            "type": "Place"
+        },
+        {
+            "entity": "Deiotaros",
+            "type": "Person"
+        },
+        {
+            "entity": "Nicomedes I",
+            "type": "Person"
         }
     ],
     "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.",
+        "Koch 2006, s.v. 'Galatia'"
     ],
     "image": [
         "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Asia_Minor_in_the_Greco-Roman_period_-_general_map_-_regions_and_main_settlements.jpg/1200px-Asia_Minor_in_the_Greco-Roman_period_-_general_map_-_regions_and_main_settlements.jpg"
     ],
     "cyphertext": "Ztvwlnv5IXuBMRGhgj8QC5GWgbdjSQOWUMK9zCAgNziV8ZppdZ9uVGvcCFYCyIzoNugC9U4hReG7HOxwp4Edy1b1xnHXqmsry0voQnridpoEFsSMh-ymrBVIxFSFQrNXLqkSW2eZTt0LK1EbmTHV91ScpRpvMBW030eHUG1Hu9GIwq-krdGZIZ7Yb_hFAwaRhMSbYwfxAd850LupTXgl6z-Fvqd1klmFhAo_SFz63wpZ5GJZrNrY0O5J1Bp9lUPVBL7RLfaZ43deGXBnKpdQCizfc0TJkl48xHPmVG1TEHLUHdDWS4rJqcSSyg==",
     "salt": "FsETR0Y8vvYzGdpBS_DygQ==",
-    "text": "Galatia was an ancient Celtic land. It stood in central Anatolia. That region is now part of Turkey. Celts settled there in the third century B.C.E. St. Paul mentioned the region in his epistles. He wrote to the residents of the land.",
+    "text": "Galatia was an ancient Celtic land in central Anatolia, now part of Turkey. Around 278 BCE Gauls crossed into Phrygia at the call of the Bithynian ruler Nicomedes I. They came in family groups, so the move was a true migration. Three principal tribes shared the land: the Tolistobogii, the Tectosages, and the Trocmi. They kept their Galatian tongue and Celtic customs for centuries. Their assembly place, Drunameton, was a sacred oak grove whose name recalls the druids and the word nemeton. Each tribe answered to four chiefs, called tetrarchs, of whom one judged and may have been a druid. The strongest ruler, Deiotaros of the Tolistobogii, took the royal title from the Roman Senate. Rome made Galatia a province in 63 BCE. St. Paul wrote to the Galatians, the only Celtic people named in the Bible.",
     "okr": {
-        "objective": "Record the ancient Celtic land of Galatia.",
+        "objective": "Expand the Galatia node with the Koch account of Celtic settlement, tribes, and Roman annexation.",
         "key_results": [
-            "Place Galatia in central Anatolia in modern Turkey.",
-            "State that the Celts settled there in the third century B.C.E.",
-            "Name St. Paul's letter to the residents of the region."
+            "Record the Gaulish migration into Phrygia around 278 BCE under Nicomedes I.",
+            "Name the three principal Galatian tribes and their tetrarch governance.",
+            "Note Deiotaros the strongest ruler to draw the royal Roman title.",
+            "State that Rome absorbed Galatia and that St. Paul wrote to the Galatians."
         ],
-        "evidence": "Monaghan, The Encyclopedia of Celtic Mythology and Folklore, 2008, s.v. 'Galatia'."
+        "evidence": "Koch 2006, s.v. 'Galatia'"
     }
 }

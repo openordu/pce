@@ -1,70 +1,103 @@
 {
-  "name": "Nemetona",
-  "attributes": [
-    {
-      "entity": "Nemetona",
-      "attribute": "name shares a root with the nemeton"
-    },
-    {
-      "entity": "nemeton",
-      "attribute": "Celtic outdoor ritual site"
-    },
-    {
-      "entity": "nemeton",
-      "attribute": "name relates to Greek nemos and Latin nemus"
-    },
-    {
-      "entity": "nemeton",
-      "attribute": "word later meant a stone temple"
-    }
-  ],
-  "entities": [
-    {
-      "entity": "Nemetona",
-      "type": "god"
-    },
-    {
-      "entity": "nemeton",
-      "type": "place"
-    },
-    {
-      "entity": "trees",
-      "type": "place"
-    },
-    {
-      "entity": "Celts",
-      "type": "group"
-    },
-    {
-      "entity": "Strabo",
-      "type": "person"
-    },
-    {
-      "entity": "Tacitus",
-      "type": "person"
-    },
-    {
-      "entity": "Caesar",
-      "type": "person"
-    }
-  ],
-  "sources": [
-    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-  ],
-  "image": [
-    "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Altrip_Rhein_Sueden.jpg/1200px-Altrip_Rhein_Sueden.jpg"
-  ],
-  "cyphertext": "8o4EYiWs2ww-hfHlUWkrWztMu3PWLl5Z8FKfrqHAZ-edGLXc9jsix5W-gdUkd5vr5qdvKRZYNmKtG-zaRBWAjqihA7exc0HP4YWbuaWJG04_vzGXehXCpTKYGAXLvcxEFOOfFTlBOJo5kVZPKnNxJDQBLeH3lZjuIXMljQZuw1dnZ9Ft0HFUy83wm6bbFDMLW8Se8gB-B7vTekl-I3QaJkwBwL3UL9a2BVxK4Vgv6hop0zVJFebntDFESFi2essg-E2S3Xxg39nbJnTc6tntXnjC_dAjTwssNYObWSuEZYMbWWMx_a8N8YH2wfG7jgYo4Uf1131kNipMW2CCUwn1xkEyXiZDE5blZcopj2DjBl1YsJvLFkU2tPYLWNBWTTP8QbEXm22Z8LXfmrWKbrC5SAKO7OHSlZWsFN3UmW5U3-hU0O1MNwKXKL3VcUHE__MVcUGfjUJtMNyIujek1xjjT8s80RlNX7f3J50jSyhf4Zf3Q_rKYfMdh1GciZYLTKepmX1PWkXZk8uOdxsLYtqru8DqkWwdMGMDrKYbTuD_5GSP17551yLDcz1jwqh3V03trRprAQSBea2ToxYo7YD0tY59DbOENqTfIzK_eH2Cnf_JOxX9tS0g5_zVA7k2eKxPzkhPV4xfyhfbgGHUDelqIrF5sGo4ahi5HgdI5rBGWrHsmeaGd4VBM9hzKhbFpzSwvqeu-NA7a52mARudU8mEqXT6i-EAGnAiQ2KeGMMv-2WOJBlLatv7PxSPfczgtewzo9XCv0QKQvrvO2mEuUJXTfgjcGBmOZ8EmCzw0TsydJLMZGj5Wsxz6hBXQ2dyDV_juLU-iEnUtzEST5k529af6xPZBnqTnjdbLwbaB8wD49LdSzUtXMCT81KsXzeVUJ3-sMhiGEVRYBgJSLkDkyFMAKn5urUQ88HSgvPv122NaQvsg4B_HsCqM-B7I8-OCZrHaxeTU_dA0Ys1FZ0sKfprXuT0yle_yy1N16rSUByITU-rsXGs6t8SreV6FxPFmjxeCtQlKevOWMkqdpwtkl4RkA==",
-  "salt": "st6ndmoZA6-mR8K23z62tA==",
-  "text": "The name Nemetona shares its root with the nemeton, a Celtic ritual site. The Celts performed their rites out of doors, among stands of trees and at other hallowed spots. Forest clearings used for ritual were called nemetons. The name relates to Greek nemos, meaning glade, and Latin nemus, meaning sacred. The word may also touch the Irish root nem, whose sense was heaven. Strabo, Pliny the Elder, and Tacitus described these outdoor rites among the Celts. Lucan wrote of groves untouched by any hand. Their branches, he wrote, shut him into a dim, wintry shadow. Lucan placed in these groves crude carvings of gods hewn from timber. A legend he passed along held that the trees could look burnt or shaken yet remain unharmed. Lucan also wrote that Caesar leveled a sacred grove near Roman buildings. After Romanization the word came to mean a stone temple. The word-root shows up across many settlement names. Drunemeton was built in Turkey, Nemeton in Gaul, Nemetobrigia in Spain. England claimed Vernemeton, and Scotland held Medionemeton.",
-  "okr": {
-    "objective": "Nemetona shares its name root with the nemeton ritual site.",
-    "key_results": [
-      "The nemeton is an outdoor Celtic ritual site.",
-      "Rituals took place in forest clearings called nemetons.",
-      "The name relates to Greek nemos and Latin nemus.",
-      "The word came to mean a stone temple after Romanization."
+    "name": "Nemetona",
+    "attributes": [
+        {
+            "entity": "Nemetona",
+            "attribute": "name shares a root with the nemeton"
+        },
+        {
+            "entity": "nemeton",
+            "attribute": "Celtic outdoor ritual site"
+        },
+        {
+            "entity": "nemeton",
+            "attribute": "name relates to Greek nemos and Latin nemus"
+        },
+        {
+            "entity": "nemeton",
+            "attribute": "word later meant a stone temple"
+        },
+        {
+            "entity": "Nemetona",
+            "attribute": "eponymous goddess of the Nemetes, a Germano-Celtic tribe"
+        },
+        {
+            "entity": "Nemetona",
+            "attribute": "honoured beside Mars in inscriptions at Altrip and Trier"
+        },
+        {
+            "entity": "Nemetona",
+            "attribute": "joined with Loucetios Mars on an altar at Bath"
+        },
+        {
+            "entity": "Arnemetia",
+            "attribute": "Romano-British goddess who mirrors Nemetona"
+        }
     ],
-    "evidence": "Monaghan, Encyclopedia of Celtic Mythology and Folklore"
-  }
+    "entities": [
+        {
+            "entity": "Nemetona",
+            "type": "god"
+        },
+        {
+            "entity": "nemeton",
+            "type": "place"
+        },
+        {
+            "entity": "trees",
+            "type": "place"
+        },
+        {
+            "entity": "Celts",
+            "type": "group"
+        },
+        {
+            "entity": "Strabo",
+            "type": "person"
+        },
+        {
+            "entity": "Tacitus",
+            "type": "person"
+        },
+        {
+            "entity": "Caesar",
+            "type": "person"
+        },
+        {
+            "entity": "Nemetes",
+            "type": "group"
+        },
+        {
+            "entity": "Loucetios",
+            "type": "god"
+        },
+        {
+            "entity": "Arnemetia",
+            "type": "god"
+        },
+        {
+            "entity": "Treveri",
+            "type": "group"
+        }
+    ],
+    "sources": [
+        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.",
+        "Koch 2006, s.v. 'Nemetona'"
+    ],
+    "image": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Altrip_Rhein_Sueden.jpg/1200px-Altrip_Rhein_Sueden.jpg"
+    ],
+    "cyphertext": "8o4EYiWs2ww-hfHlUWkrWztMu3PWLl5Z8FKfrqHAZ-edGLXc9jsix5W-gdUkd5vr5qdvKRZYNmKtG-zaRBWAjqihA7exc0HP4YWbuaWJG04_vzGXehXCpTKYGAXLvcxEFOOfFTlBOJo5kVZPKnNxJDQBLeH3lZjuIXMljQZuw1dnZ9Ft0HFUy83wm6bbFDMLW8Se8gB-B7vTekl-I3QaJkwBwL3UL9a2BVxK4Vgv6hop0zVJFebntDFESFi2essg-E2S3Xxg39nbJnTc6tntXnjC_dAjTwssNYObWSuEZYMbWWMx_a8N8YH2wfG7jgYo4Uf1131kNipMW2CCUwn1xkEyXiZDE5blZcopj2DjBl1YsJvLFkU2tPYLWNBWTTP8QbEXm22Z8LXfmrWKbrC5SAKO7OHSlZWsFN3UmW5U3-hU0O1MNwKXKL3VcUHE__MVcUGfjUJtMNyIujek1xjjT8s80RlNX7f3J50jSyhf4Zf3Q_rKYfMdh1GciZYLTKepmX1PWkXZk8uOdxsLYtqru8DqkWwdMGMDrKYbTuD_5GSP17551yLDcz1jwqh3V03trRprAQSBea2ToxYo7YD0tY59DbOENqTfIzK_eH2Cnf_JOxX9tS0g5_zVA7k2eKxPzkhPV4xfyhfbgGHUDelqIrF5sGo4ahi5HgdI5rBGWrHsmeaGd4VBM9hzKhbFpzSwvqeu-NA7a52mARudU8mEqXT6i-EAGnAiQ2KeGMMv-2WOJBlLatv7PxSPfczgtewzo9XCv0QKQvrvO2mEuUJXTfgjcGBmOZ8EmCzw0TsydJLMZGj5Wsxz6hBXQ2dyDV_juLU-iEnUtzEST5k529af6xPZBnqTnjdbLwbaB8wD49LdSzUtXMCT81KsXzeVUJ3-sMhiGEVRYBgJSLkDkyFMAKn5urUQ88HSgvPv122NaQvsg4B_HsCqM-B7I8-OCZrHaxeTU_dA0Ys1FZ0sKfprXuT0yle_yy1N16rSUByITU-rsXGs6t8SreV6FxPFmjxeCtQlKevOWMkqdpwtkl4RkA==",
+    "salt": "st6ndmoZA6-mR8K23z62tA==",
+    "text": "Koch derives Nemetona's name from the Celtic root nemeto-, which means a consecrated space or a sacred grove. She may embody the idea of sacred ground itself. The Romano-British Arnemetia mirrors this role. Nemetona was almost certainly the eponymous goddess of the Nemetes, a Germano-Celtic tribe. Her cult ran across all of their territory. A lone bronze at Klein-Winternheim carries her name. At Altrip and Trier she stands beside the war god Mars, where terracotta figures survive. At Bath an altar joins her with Loucetios Mars, raised by a tribesman of the Treveri.",
+    "okr": {
+        "objective": "Enrich Nemetona as the eponymous grove goddess of the Nemetes, honoured alongside Mars in western inscriptions.",
+        "key_results": [
+            "Derive her name from the Celtic root nemoto-, meaning a consecrated space or a sacred grove.",
+            "Show that she was the eponymous deity of the Nemetes, a Germano-Celtic tribe.",
+            "Record her pairing with the war god Mars at Altrip and Trier, and with Loucetios Mars at Bath.",
+            "Name the Romano-British Arnemetia as her nearest counterpart."
+        ],
+        "evidence": "Koch 2006, s.v. 'Nemetona'"
+    }
 }
