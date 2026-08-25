@@ -1,0 +1,36 @@
+{
+  "name": "Bononia/Bologna",
+  "entities": [
+    {"entity": "Bononia", "type": "Place"},
+    {"entity": "Bologna", "type": "Place"},
+    {"entity": "Felsina", "type": "Place"},
+    {"entity": "Boii", "type": "Group"},
+    {"entity": "Etruscans", "type": "Group"},
+    {"entity": "Livy", "type": "Person"}
+  ],
+  "attributes": [
+    {"entity": "Bononia", "attribute": "old Celtic name that became the Roman name for Bologna"},
+    {"entity": "Felsina", "attribute": "settlement name during the period of Boii supremacy"},
+    {"entity": "Boii", "attribute": "Celtic people whom Cato said numbered one hundred twelve tribes"},
+    {"entity": "Bononia", "attribute": "burial ground shows both Etruscan and Celtic people"},
+    {"entity": "Bononia", "attribute": "site held a single large necropolis of several centres"}
+  ],
+  "sources": [
+    "Koch 2006, s.v. 'Bononia/Bologna'",
+    "Vitali, Tombe e necropoli galliche di Bologna e del territorio"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "text": "Bononia was an early town in northern Italy. It grew into the city now called Bologna. In later pre-Roman times Celtic speakers ruled the area. During the power of the Boii tribe the site was named Felsina. Bononia came to be the Roman name for the conquered colony. The name may be Celtic, related to the old name of Vienna. Written sources for this period are few. A couple of lines in Livy survive. Velleius Paterculus and Servius also mention the town. Archaeology tells little of the fourth and third centuries bc. Most evidence comes from tombs dug up in the eighteen hundreds. These lay in the city's western quarter. Workers named the plots after the landowners. It is really one large cemetery. Zannoni wrote of one hundred ninety Gallic graves. A fresh review found seventy-seven from the Boii period. The richest burials held bronze helmets and iron swords. Inhumation was common; cremation came late. The cemetery holds both Etruscan and Celtic dead. The Boii thrived across the countryside rather than in one city. Cato said they counted over one hundred separate tribes.",
+  "okr": {
+    "objective": "This entry sets out the Celtic name, the town, and the tombs of Bononia, now Bologna.",
+    "key_results": [
+      "The town was Felsina under Boii power and became the Roman Bononia.",
+      "Most evidence survives from the Boii-period grave field of the western city.",
+      "The finds show mixed Etruscan and Celtic people of the Boii era.",
+      "Literary notice of the town is limited to Livy and a few others."
+    ],
+    "evidence": "Koch 2006, s.v. 'Bononia/Bologna'; Vitali, Tombe e necropoli galliche di Bologna e del territorio"
+  }
+}

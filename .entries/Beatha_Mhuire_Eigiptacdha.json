@@ -1,0 +1,33 @@
+{
+  "name": "Beatha Mhuire Eigiptacdha",
+  "text": "Beatha Mhuire Eigiptacdha is a Middle Irish life of Mary of Egypt. Three recensions of the text survive. The first is a 15th-century prose adaptation. The second depends on the Legenda Aurea, a Latin legend. The third is a short exemplum on the Virgin. The text stresses repentance and reform in holy life. It sits within a wider hagiography of Ireland. A Welsh version is named Buchedd Mair o'r Aifft. Mary lived in the Egyptian desert and her story shaped the saints. The work links Celtic religious letters to the Egyptian theme.",
+  "entities": [
+    {"entity": "Beatha Mhuire Eigiptacdha", "type": "Person"},
+    {"entity": "Mary of Egypt", "type": "Person"},
+    {"entity": "Legenda Aurea", "type": "Text"},
+    {"entity": "Uilliam Mac an Leagha", "type": "Person"},
+    {"entity": "Buchedd Mair o'r Aifft", "type": "Text"}
+  ],
+  "attributes": [
+    {"entity": "Beatha Mhuire Eigiptacdha", "attribute": "survives in three Irish recensions"},
+    {"entity": "Beatha Mhuire Eigiptacdha", "attribute": "is an exemplum urging repentance and reform"},
+    {"entity": "Mary of Egypt", "attribute": "is the subject of an Irish hagiographic work"},
+    {"entity": "Uilliam Mac an Leagha", "attribute": "may have first translated the text"}
+  ],
+  "sources": [
+    "Koch 2006, s.v. 'Beatha Mhuire Eggluinni'",
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Culture. Checkmark Books, 2008."
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Describes the Middle Irish life of Mary of Egypt and its place in Irish hagiography.",
+    "key_results": [
+      "Names the three recensions and their dependence on the Legenda Aurea",
+      "Stresses the text and moral of repentance and reform",
+      "Links the Irish work to a Welsh version dedicated to Egypt"
+    ],
+    "evidence": "Koch 2006, s.v. 'Beatha Mhuire Eggni'; Monaghan 2008"
+  }
+}

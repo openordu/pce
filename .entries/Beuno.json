@@ -1,0 +1,37 @@
+{
+  "name": "Beuno",
+  "entities": [
+    {"entity": "Beuno", "type": "Person"},
+    {"entity": "Gwenfrewi", "type": "Person"},
+    {"entity": "Dewi Sant", "type": "Person"},
+    {"entity": "Gwynedd", "type": "Place"},
+    {"entity": "Powys", "type": "Place"},
+    {"entity": "Clynnog Fawr", "type": "Place"}
+  ],
+  "attributes": [
+    {"entity": "Beuno", "attribute": "sixth-century Welsh saint of north Wales"},
+    {"entity": "Beuno", "attribute": "chief monastic foundation at Clynnog Fawr"},
+    {"entity": "Beuno", "attribute": "raised Gwenfrewi to life after she was beheaded"},
+    {"entity": "Beuno", "attribute": "tradition holds he raised six dead and will raise a seventh"},
+    {"entity": "Beuno", "attribute": "well at Clynnog healed people until the eighteenth century"},
+    {"entity": "Beuno", "attribute": "name descends from a Celtic form meaning cattle knower"}
+  ],
+  "sources": [
+    "Koch 2006, s.v. 'Beuno'",
+    "Baring-Gould & Fisher, The Lives of the British Saints"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "text": "Beuno was a Welsh saint of the sixth century. He founded religious houses in Gwynedd and Powys. His main monastery stood at Clynnog Fawr in Caernarfonshire. He ranked as the best-known saint of north Wales. People compared his standing to that of Saint David. The full record of his life is the Buchedd Beuno. This text copies an older Latin Life that no longer survives. It comes from a fourteenth-century manuscript. Two stories show anti-English feeling. One tells of an oak that killed passing Englishmen. The same tree spared the Welsh. Beuno left his home by the Severn upon hearing English. He is also said to have raised Saint Gwenfrewi from death. Her cloak gave him the name Cassulsych, meaning dry cloak. A firm tradition says he restored six dead to life. He was due also to raise a seventh. He gave plentiful feasts, and his walking-staff became a tree. Clynnog's well stayed a healing place until at least the 1700s. The name Beuno comes from an old Celtic word for knowing cattle.",
+  "okr": {
+    "objective": "This entry records the life and lasting traditions of Beuno, a leading saint of north Wales.",
+    "key_results": [
+      "Beuno kept his chief monastery at Clynnog Fawr and ranked beside Saint David.",
+      "His Buchedd Beuno holds the only full record of his life.",
+      "Tradition credits him with raising six dead and another to come.",
+      "His healing well stayed in use until at least the eighteenth century."
+    ],
+    "evidence": "Koch 2006, s.v. 'Beuno'; Baring-Gould & Fisher, The Lives of the British Saints"
+  }
+}
