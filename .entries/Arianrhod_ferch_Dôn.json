@@ -1,0 +1,68 @@
+{
+    "name": "Arianrhod ferch Dôn",
+    "attributes": [
+        {
+            "entity": "Arianrhod ferch Dôn",
+            "attribute": "a daughter of Dôn within the Welsh Mabinogi"
+        },
+        {
+            "entity": "Arianrhod ferch Dôn",
+            "attribute": "the mother of the hero Lleu Llaw Gyffes"
+        },
+        {
+            "entity": "Dôn",
+            "attribute": "the mother of Arianrhod and a figure of the old Welsh pantheon"
+        },
+        {
+            "entity": "Lleu Llaw Gyffes",
+            "attribute": "Arianrhod's son, who must be named and armed by her"
+        },
+        {
+            "entity": "Gwydion",
+            "attribute": "the uncle who acts against Arianrhod's refusals"
+        },
+        {
+            "entity": "Mabinogi",
+            "attribute": "the Welsh tale collection that holds her story"
+        }
+    ],
+    "entities": [
+        {
+            "entity": "Arianrhod ferch Dôn",
+            "type": "Person"
+        },
+        {
+            "entity": "Dôn",
+            "type": "Person"
+        },
+        {
+            "entity": "Lleu Llaw Gyffes",
+            "type": "Person"
+        },
+        {
+            "entity": "Gwydion",
+            "type": "Person"
+        },
+        {
+            "entity": "Mabinogi",
+            "type": "Collection"
+        }
+    ],
+    "sources": [
+        "Koch 2006, s.v. 'Arianrhod ferch Dôn'"
+    ],
+    "image": [],
+    "cyphertext": "",
+    "salt": "",
+    "text": "Arianrhod ferch Dôn stands as a daughter of Dôn within the Welsh Mabinogi. Her story belongs to the Third Branch, the tale of Math. She is the mother of Lleu Llaw Gyffes. She places hard conditions upon her own son. He may gain a name and weapons only when she grants them. Her refusals set the course of Gwydion's magic. Arianrhod is proud, aloof, and formidable. Later writers link her to a wheel of stars in the northern sky. She shapes the fates of kings through stubborn will and fierce words.",
+    "okr": {
+        "objective": "Document Arianrhod ferch Dôn as a daughter of Dôn.",
+        "key_results": [
+            "Identify her as the mother of Lleu",
+            "State her place in the Mabinogi",
+            "Note the conditions she sets upon her son"
+        ],
+        "evidence": "Koch 2006, s.v. 'Arianrhod ferch Dôn'"
+    },
+    "order": 153
+}

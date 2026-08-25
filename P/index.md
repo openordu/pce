@@ -2,6 +2,9 @@
 title: Volume P
 layout: layouts/pce.njk
 ---
+- [Peredur_fab_Efrawg](Peredur_fab_Efrawg)
+- [Pryderi_fab_Pwyll](Pryderi_fab_Pwyll)
+- [Pwyll_Pendefig_Dyfed](Pwyll_Pendefig_Dyfed)
 - [Padfoot](Padfoot)
 - [Padstow_Obby_Oss](Padstow_Obby_Oss)
 - [paganism](paganism)

@@ -91,6 +91,7 @@ layout: layouts/pce.njk
 - [Tuairisgeal](Tuairisgeal)
 - [Tuan_mac_Cairill](Tuan_mac_Cairill)
 - [tuath](tuath)
+- [Tuath_Dé](Tuath_Dé)
 - [tuathal](tuathal)
 - [Tuireann](Tuireann)
 - [Tuiren](Tuiren)

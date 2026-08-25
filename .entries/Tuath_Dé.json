@@ -1,0 +1,73 @@
+{
+    "name": "Tuath Dé",
+    "attributes": [
+        {
+            "entity": "Tuath Dé Danann",
+            "attribute": "the Irish race of the gods"
+        },
+        {
+            "entity": "Dana",
+            "attribute": "goddess cited as the mother of the gods"
+        },
+        {
+            "entity": "Dagda",
+            "attribute": "the good god of the Tuath Dé"
+        },
+        {
+            "entity": "Aes Síde",
+            "attribute": "the people of the síd, another name given to them"
+        },
+        {
+            "entity": "Otherworld",
+            "attribute": "the realm where the immortals dwell"
+        }
+    ],
+    "entities": [
+        {
+            "entity": "Tuath Dé",
+            "type": "Group"
+        },
+        {
+            "entity": "Danann",
+            "type": "Goddess"
+        },
+        {
+            "entity": "Dana",
+            "type": "Goddess"
+        },
+        {
+            "entity": "Dagda",
+            "type": "God"
+        },
+        {
+            "entity": "Tír",
+            "type": "Place"
+        },
+        {
+            "entity": "Patrick",
+            "type": "Person"
+        },
+        {
+            "entity": "Otherworld",
+            "type": "Concept"
+        }
+    ],
+    "sources": [
+        "Koch 2006, s.v. 'Tuath Dé'"
+    ],
+    "image": [],
+    "cyphertext": "",
+    "salt": "",
+    "text": "The Tuath Dé Danann is the Irish race of the gods. The name of the race is tied to the goddess Dana, the mother of the gods. The people of the síd shelter in the mounds. They dwell also beyond the sea. They are said to master the weather. They may change their own form at will. They never age and they never fall ill. Early scholars set them beside the heroes as ancient gods. Some writers later named them fallen angels. Others made them a mortal line of the grandsons of Noah. The good god of the immortals is named Dagda. Patrick met them, and spoke as the old faith faded. They fall by the sword in the sagas. ",
+    "okr": {
+        "objective": "Record the Tuath Dé Danann as the Irish gods in the old sources.",
+        "key_results": [
+            "Name the race as the Tuath Dé Danann",
+            "Link them to the goddess Dana",
+            "Describe the immortality of the immortals",
+            "Explain how writers saw the Dagda and the old faith"
+        ],
+        "evidence": "Koch 2006, s.v. 'Tuath Dé'"
+    },
+    "order": 2219
+}

@@ -68,6 +68,7 @@ layout: layouts/pce.njk
 - [llamhigyn_y_dwr](llamhigyn_y_dwr)
 - [Llassar_Llaesgyfnewid](Llassar_Llaesgyfnewid)
 - [Llefelys](Llefelys)
+- [Lleu](Lleu)
 - [Lleu_Llaw_Gyffes](Lleu_Llaw_Gyffes)
 - [Lludd](Lludd)
 - [Llwch_Llawwyanawc](Llwch_Llawwyanawc)

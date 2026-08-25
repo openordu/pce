@@ -24,6 +24,7 @@ layout: layouts/pce.njk
 - [cait_sith__fairy_cat_](cait_sith__fairy_cat_)
 - [cake](cake)
 - [Caladbolg](Caladbolg)
+- [Caladbolg_Caledfwlch_Excalibur](Caladbolg_Caledfwlch_Excalibur)
 - [calamity_meat](calamity_meat)
 - [calendar](calendar)
 - [Caliburn](Caliburn)

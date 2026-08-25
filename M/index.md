@@ -61,6 +61,7 @@ layout: layouts/pce.njk
 - [Mary_Candle](Mary_Candle)
 - [Mary_Morgan](Mary_Morgan)
 - [Math](Math)
+- [Math_fab_Mathonwy](Math_fab_Mathonwy)
 - [Mathgen](Mathgen)
 - [Matholwch](Matholwch)
 - [Matres](Matres)
