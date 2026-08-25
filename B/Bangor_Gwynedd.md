@@ -2,7 +2,7 @@
 layout: layouts/pce.njk
 title: Bangor (Gwynedd)
 icon: file-lines
-order: 219
+order: 0
 contributors: [ 'Christopher Godwin' ]
 attributes:
   - Bangor was a 6th-century monastic foundation in Gwynedd
@@ -10,9 +10,9 @@ attributes:
   - Bangor became a 19th-century slate port and seat of a university
   - University of Wales Bangor was founded in 1884 from a campaign for higher education
 categories:
+  - Institution
   - Person
   - Place
-  - Institution
 entities:
   - Bangor(Place)
   - Saint Deiniol(Person)
@@ -26,7 +26,7 @@ tags:
 ---
 ``` tab [group1:Info]
 ::: magazinestyle
-Bangor sits along the north-west coast of Wales. A monastic there is tied to Saint Deiniol. Viking raiders destroyed the site in 1073. Bishop David later raised a stone cathedral. King John burned the town in 1210. The cathedral was rebuilt under the bishops Anian. George Gilbert Scott restored it from 1868. Bangor kept relics and the Mostyn Christ statue. It became a Welsh place-name archive and home. A university began in Bangor in 1884. The name refers to a fenced high point of wickerwork.
+Bangor sits along the coast in the north-west of Wales. A monastic there is tied to Saint Deiniol. Viking raiders destroyed the site in 1073. Bishop David later raised a stone cathedral. King John burned the town in 1210. The cathedral was rebuilt under the bishops Anian. George Gilbert Scott restored it from 1868. Bangor kept relics and the Mostyn Christ statue. It became a Welsh place-name archive and home. A university began in Bangor in 1884. The name refers to a fenced high point of wickerwork.
 
 :::
 ```

@@ -2,16 +2,16 @@
 layout: layouts/pce.njk
 title: Alpine area
 icon: file-lines
-order: 111
+order: 0
 contributors: [ 'Christopher Godwin' ]
 attributes:
   - Alpine area an early heartland of Celtic Europe
   - Hallstatt a type site which names a Celtic culture
   - Norici a Celtic people of the Alps
 categories:
+  - People
   - Person
   - Place
-  - People
 entities:
   - Alpine area(Place)
   - Hallstatt(Place)
@@ -29,7 +29,7 @@ tags:
 ---
 ``` tab [group1:Info]
 ::: magazinestyle
-The Alpine area is one early heartland of Celtic Europe. It supplies some of the earliest proof of the Celtic languages. Hallstatt and La Tène, the type sites that name the two Continental Celtic cultures, lie among these mountains. The Helvetii, Lepontii, and Norici held their homes there. The Romans overran the Alps in stages. Tiberius and Drusus campaigned in 15 BC and closed Celtic freedom there. Celtic traditions then lingered in the provincial cultures of the peaks.
+The Alpine area is one early heartland of Celtic Europe. It supplies some of the earliest proof of the Celtic languages, and the type sites Hallstatt and La Tène that name the two Continental Celtic cultures lie among these mountains. The Helvetii, Lepontii, and Norici held their homes there. The Romans overran the Alps in stages. Tiberius and Drusus campaigned in 15 BC and closed Celtic freedom there. Celtic traditions then lingered in the provincial cultures of the peaks.
 
 :::
 ```

@@ -2,7 +2,7 @@
 layout: layouts/pce.njk
 title: Cynwydion
 icon: file-lines
-order: 724
+order: 0
 contributors: [ 'Christopher Godwin' ]
 attributes:
   - Cynwydion 
@@ -10,8 +10,8 @@ attributes:
   - Cynod fab Clydno 
   - Coel Hen 
 categories:
-  - Person
   - Group
+  - Person
 entities:
   - Cynwydion(Group)
   - Cinuet map Ceretic(Person)
@@ -27,7 +27,7 @@ tags:
 ---
 ``` tab [group1:Info]
 ::: magazinestyle
-The Cynwydion are a dynasty of north Britain named in the Welsh genealogies. Their history follows the end of Roman rule. Their name means descendants of a founder called Cynwyd, whose Old Welsh form is Cinuet. In the Old Welsh list, the line runs from Ciuunt map Ceretic Guletic. In later Middle Welsh texts the same kin is made a branch of the family of Coel Hen, the great northern leader. One of its lines leads to Clydno of Edward, father of the hero Cynon, who is praised in the Gododdin. By the 10th and 11th centuries the genealogists had drawn the Cynwydion into the Coeling group. This may have helped the writers justify the spread of Strathclyde into their old lands near Carlisle.
+The Cynwydion are a dynasty of north Britain named in the Welsh genealogies. Their history follows the end of Roman rule. Their name means descendants of a founder called Cynwyd, whose Old Welsh form is Cinuet. In the Old Welsh list, the line runs from Ciuunt map Ceretic Guletic. In later Middle Welsh texts the same kin is made a branch of the family of Coel Hen, the great northern leader. One of its lines leads to Clydno of Edward, father of the hero Cynon, who is praised in the Gododdin. During the tenth and eleventh centuries the genealogists had drawn the Cynwydion into the Coeling group. This may have helped the writers justify the spread of Strathclyde into their old lands near Carlisle.
 
 :::
 ```

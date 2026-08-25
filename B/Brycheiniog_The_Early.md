@@ -2,7 +2,7 @@
 layout: layouts/pce.njk
 title: Brycheiniog: the early
 icon: file-lines
-order: 309
+order: 0
 contributors: [ 'Christopher Godwin' ]
 attributes:
   - Brycheiniog an early medieval kingdom in south Wales, later Breconshire
@@ -24,7 +24,7 @@ tags:
 ---
 ``` tab [group1:Info]
 ::: magazinestyle
-Brycheiniog was a kingdom of early south Wales, later called Breconshire. Its seat lay around the town of Brecon. King Tewdwr appeared as subregulus in charters, likely under Wessex. Kings of Brycheiniog still came to the English court in 934. The last king in the genealogies was a grandson of Elise. The realm then fell into Deheubarth, the southern kingdom of Wales. Norman Bernard of Neufmarche held Brecon by 1093. Giraldus Cambrensis, archdeacon of Brecon, described new year rites at the town. Talgarth, Crickhowell, and Hay-on-Wye gained castles after the Norman takeover.
+Brycheiniog was a kingdom of early south Wales, later called Breconshire. Its seat lay around the town of Brecon. King Tewdwr appeared as subregulus in charters, likely under Wessex. Kings of Brycheiniog still came to the English court in 934. The last king in the genealogies was a grandson of Elise. The realm then fell to Deheubarth, the main kingdom of southern Wales. Norman Bernard of Neufmarche held Brecon by 1093. Giraldus Cambrensis, archdeacon of Brecon, described new year rites at the town. Talgarth, Crickhowell, and Hay-on-Wye gained castles after the Norman takeover.
 
 :::
 ```

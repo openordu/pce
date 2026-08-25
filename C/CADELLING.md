@@ -2,16 +2,16 @@
 layout: layouts/pce.njk
 title: Cadelling
 icon: file-lines
-order: 409
+order: 0
 contributors: [ 'Christopher Godwin' ]
 attributes:
   - Cadelling a dynasty of early Wales made up of the descendants of Cadell
   - Powys the Welsh kingdom where the later Cadelling were at home
   - Cadell the founding ancestor of the Cadelling line
 categories:
+  - Group
   - Person
   - Place
-  - Group
 entities:
   - Cadelling(Group)
   - Powys(Place)
@@ -25,7 +25,7 @@ tags:
 ---
 ``` tab [group1:Info]
 ::: magazinestyle
-Cadelling names a dynasty, the heirs of Cadell, in early Wales. The family rose in the north-east of the land. They appear in the praise verse of the Cynfeirdd. One poem calls Cynan Garwyn a man of the Cadelling line. By 829 the descendants sit in Powys. Their ancestor began as a low-born man who won the crown. A wicked tyrant named Benli fell by heavenly fire. St Germanus acted in that tale as the agent of change. Their first known king died at the battle of Chester. A rival house of Powys showed an open hatred for the Cadelling.
+Cadelling names a dynasty, the heirs of Cadell, in early Wales. The family rose to power in the north-eastern reaches of that land. They appear in the praise verse of the Cynfeirdd. One poem calls Cynan Garwyn a man of the Cadelling line. By 829 the descendants sat in Powys. Their ancestor began as a low-born man who won the crown. A wicked tyrant named Benli fell by heavenly fire. St Germanus acted in that tale as the agent of change. Their first known king fell in a fight at Chester. A rival house of Powys showed an open hatred for the Cadelling line.
 
 :::
 ```

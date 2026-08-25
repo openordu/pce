@@ -2,7 +2,7 @@
 layout: layouts/pce.njk
 title: Belgae
 icon: file-lines
-order: 255
+order: 0
 contributors: [ 'Christopher Godwin' ]
 attributes:
   - Belgae formed a Celtic-speaking people of Gallia Belgica
@@ -10,9 +10,9 @@ attributes:
   - Caesar reported Belgae origins in the Rhine lands
   - Belgae gave their name to tribes in south-east Britain
 categories:
+  - Group
   - Person
   - Place
-  - Group
 entities:
   - Belgae(Group)
   - Gaul(Place)
@@ -28,7 +28,7 @@ tags:
 ---
 ``` tab [group1:Info]
 ::: magazinestyle
-The Belgae were a group of tribes in Gallia Belgica. Caesar wrote that most of the Belgae descended from the Germani and crossed the Rhine in ancient times. In his day the term Germani was not linguistic. Some tribes claimed origins east of the Rhine, but their lands were largely Celtic-speaking. Ancient place-names across Belgic Gaul are mostly Celtic. The Aduatuci formed a remnant of the Cimbri and Teutones. The Belgae held a Late La Tene culture. Their trade routes linked them to the Rhone valley and the Mediterranean. In Britain the Catuvellauni and Atrebates shared names with Gaulish Belgae. The Belgae offer the only documented move of a Celtic-speaking people from the mainland to the British Isles. The people's name comes from a Celtic root, *belgo-.
+The Belgae were a group of tribes in Gallia Belgica. Caesar wrote that most of the Belgae descended from the Germani and crossed the Rhine at an early time. In his day the term Germani was not linguistic. Some tribes claimed their homes had been east of the Rhine, but their lands were largely Celtic-speaking. Ancient place-names across Belgic Gaul are mostly Celtic. The Aduatuci formed a remnant of the Cimbri and Teutones. The Belgae held a Late La Tene culture. Their trade routes linked them to the Rhone valley and the Mediterranean. In Britain the Catuvellauni and Atrebates shared names with Gaulish Belgae. The Belgae offer the only documented move of a Celtic-speaking people from the mainland to the British Isles. The people's name comes from a Celtic root, *belgo-.
 
 :::
 ```
