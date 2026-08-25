@@ -1,0 +1,45 @@
+{
+    "name": "Pisky",
+    "text": "Pisky is the general Cornish word for the small people of Cornwall and Devon. These tiny beings fill many of the county's folk tales and legends. The name itself means the small people in the Cornish tongue. Piskies are shown as small and playful spirits who like to tease. A lasting set of stories about them was gathered in the 1800s. The collectors were Robert Hunt and William Bottrell. Piskies live close to farms and lanes in the west country. They can help a kind household or mislead a careless traveller. A person who takes a wrong path may say he is pisky led. The saying that one is laughing like a pisky comes from this way. These beings belong to the Cornish view of the Otherworld around them.",
+    "okr": {
+        "objective": "Present the Pisky as the chief fairy being common in the Cornish tale world.",
+        "key_results": [
+            "Give the Cornish name and the sense of the word.",
+            "Show the small and playful nature of the being.",
+            "Name the collectors who set the tales down.",
+            "Point to sayings and folk terms that use the word."
+        ],
+        "evidence": "Koch 2006 names the pisky as the small people of Cornwall and links the term to folk sayings and tales."
+    },
+    "entities": [
+        {
+            "entity": "Pisky",
+            "type": "creature"
+        },
+        {
+            "entity": "Robert Hunt",
+            "type": "figure"
+        },
+        {
+            "entity": "Cornwall",
+            "type": "place"
+        }
+    ],
+    "attributes": [
+        {
+            "entity": "Pisky",
+            "attribute": "Cornish"
+        },
+        {
+            "entity": "Pisky",
+            "attribute": "Cornwall"
+        }
+    ],
+    "sources": [
+        "Koch 2006, s.v. \"Pisky\""
+    ],
+    "image": [],
+    "cyphertext": "",
+    "salt": "",
+    "order": 1803
+}

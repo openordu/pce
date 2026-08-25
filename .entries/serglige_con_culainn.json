@@ -1,0 +1,49 @@
+{
+    "name": "Serglige Con Culainn",
+    "text": "Serglige Con Culainn is a medieval Irish tale whose title means the wasting sickness of Cu Chulainn. It is a work of the Ulster Cycle written in a mix of prose and verse. The story reads as a supernatural adventure that opens a view into the Irish Otherworld. The action begins at the festival of Samain. Strange birds appear, and Cu Chulainn tries to bring one down for his wife. He misses his mark, and such a poor throw has not happened since he first took up his weapons. He then dreams of two women who come from another world. They beat him, and he loses the power of speech for a whole year. A stranger tells him that the Otherwoman awaits him, and he meets the two again at the place of that dream. In the end the two lovers part when a god shakes his cloak between them. The text survives in the old book Lebor na hUidre.",
+    "okr": {
+        "objective": "Set the Wasting Sickness of the hero as a mixed tale of the Ulster Cycle.",
+        "key_results": [
+            "Give the Irish title and its sense of the wasting sickness.",
+            "Show the line of the story across the fever and the visions.",
+            "Name the two women who come to the hero from the Other.",
+            "Identify the manuscript that keeps the story."
+        ],
+        "evidence": "Koch 2006 frames the work as a mixed prose and verse story of the Ulster Cycle that shows the Otherworld."
+    },
+    "entities": [
+        {
+            "entity": "Serglige Con Culainn",
+            "type": "text"
+        },
+        {
+            "entity": "Cu Chulainn",
+            "type": "hero"
+        },
+        {
+            "entity": "Ulster Cycle",
+            "type": "concept"
+        },
+        {
+            "entity": "Lebor na hUidre",
+            "type": "text"
+        }
+    ],
+    "attributes": [
+        {
+            "entity": "Serglige Con Culainn",
+            "attribute": "Irish"
+        },
+        {
+            "entity": "Serglige Con Culainn",
+            "attribute": "Ireland"
+        }
+    ],
+    "sources": [
+        "Koch 2006, s.v. \"Serglige Con Culainn\""
+    ],
+    "image": [],
+    "cyphertext": "",
+    "salt": "",
+    "order": 2039
+}

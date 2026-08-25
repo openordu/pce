@@ -26,6 +26,7 @@ layout: layouts/pce.njk
 - [Barinthus](Barinthus)
 - [barnacle_goose](barnacle_goose)
 - [Barrax](Barrax)
+- [barzaz_breiz](barzaz_breiz)
 - [Bath](Bath)
 - [Baudwin](Baudwin)
 - [bean_nighe](bean_nighe)

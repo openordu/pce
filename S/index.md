@@ -44,6 +44,7 @@ layout: layouts/pce.njk
 - [Senach](Senach)
 - [Senua](Senua)
 - [Sequana](Sequana)
+- [serglige_con_culainn](serglige_con_culainn)
 - [serpent](serpent)
 - [serpent_stone](serpent_stone)
 - [Sétanta](Sétanta)

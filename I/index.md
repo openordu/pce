@@ -17,6 +17,7 @@ layout: layouts/pce.njk
 - [imbas_forosnai](imbas_forosnai)
 - [immortality](immortality)
 - [immovability](immovability)
+- [immrama](immrama)
 - [imp](imp)
 - [imram](imram)
 - [inauguration](inauguration)
