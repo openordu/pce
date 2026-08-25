@@ -76,3 +76,33 @@ All 100 named entries accounted for in manifest/chunk1_manifest.json (verify_t8.
 - 2 commits, delta origin/main (3632055)..HEAD (bb6b785 → e8c5339).
 - M2 blends: 6 nodes enriched, all OKR-complete, verbatim-6 CLEAN vs FULL koch.txt (re-verified at ship).
 - M5 gates (re-measured at ship time, verify_t7.py EXIT 0 / verify_t8.py EXIT 0): JSON 6/6 valid, OKR 6/6 complete, verbatim-6 6/6 clean, protected fields (name/image/cyphertext/salt) byte-identical vs bb6b785~1, Koch 2006 cited, 100/100 manifest accounted, zero unaccounted.
+
+---
+
+# INVENTORY — GAF-249 koch-pce-ingest-chunk-2 (M5.1 Change Inventory)
+
+Repo: openordu/pce (https://github.com/openordu/pce.git), branch main.
+Change set: origin/main (680fb6f, GAF-248 PR #6)..HEAD (1 commit, T10).
+Base = 680fb6f. No sibling-loop commits share this slice, so every commit is
+GAF-249 work. No `.github/workflows` exist on this repo — content is ingested
+into the ordu-eleventy site build at build time; there is no per-PR CI gate.
+
+## M2 — Blends (existing nodes enriched with Koch 2006, nested OKR)
+
+| Commit | Milestone | Files | What / Why |
+|---|---|---|---|
+| bd07e54 | M2 blend-batch | 4 | expand Drystan (D/Drystan.md) + Fomorians (F/Fomorians.md) with Koch 2006 content (s.v. 'Drystan ac Esyllt' / 'Fomoiri'), nested OKR, CSG-SME1000, verbatim-6 clean, protected fields (name/image/cyphertext/salt) byte-identical, sources append-only |
+
+## M4 — Coverage + OKR Audit (chunk-2 manifest)
+
+All 100 named entries accounted for in manifest/chunk2_manifest.json
+(verify_t9.py, re-measured at M5 ship):
+- 2 blend (in-scope myth with a matched node — Drystan + Fomorians, both touched in bd07e54)
+- 5 dup (Cú Chulainn, Dialog etre Arzur ha Guynglaff, Emain Machae, Fían, Gododdin — nodes already Koch-complete)
+- 93 out_of_scope (not PCE mythology/folklore material — scholars, sites, institutions, saints, languages, places; each carries a reason)
+- 0 genuine new nodes (T6 verdict: manifest/new_node_verdict.md)
+
+## Tally
+- 1 commit, delta origin/main (680fb6f)..HEAD (bd07e54).
+- M2 blends: 2 nodes enriched, both OKR-complete, verbatim-6 CLEAN vs FULL koch.txt (re-verified at ship).
+- M5 gates (re-measured at ship time, verify_t8.py EXIT 0 / verify_t9.py EXIT 0): JSON 2/2 valid, OKR 2/2 complete, verbatim-6 2/2 clean, protected fields (name/image/cyphertext/salt) byte-identical vs bd07e54~1, Koch 2006 cited, 100/100 manifest accounted (2 blend / 5 dup / 93 oos), zero unaccounted.
