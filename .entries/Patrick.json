@@ -1,34 +1,76 @@
 {
- "name": "Patrick",
- "attributes": [
-  {
-   "entity": "Patrick",
-   "attribute": "the name of the Irish saint"
-  }
- ],
- "entities": [
-  {
-   "entity": "Patrick",
-   "type": "Person"
-  },
-  {
-   "entity": "St. Patrick",
-   "type": "Person"
-  }
- ],
- "sources": [
-  "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
- ],
- "cyphertext": "s4sI0HcQTkB1Bs-F9MrGGcF_yBBGNuiugLrnBfOpYkHRsBvIvngxfMKP9EYsHZa191YN97E=",
- "salt": "Sl3iSSZJgZ6i5Rc5d4TSCQ==",
- "text": "Patrick See St. Patrick. The name belongs to the Irish saint and folkloric hero. No fifth-century writer mentions him. Gildas and Bede never refer to a man of this name. Some scholars doubt he existed. Most writers agree that folk motifs gathered around a historic figure.",
- "okr": {
-  "objective": "Describe Patrick and the record of the Irish saint.",
-  "key_results": [
-   "The name Patrick belongs to the Irish saint and hero.",
-   "No fifth-century writer names him directly, which raises doubt.",
-   "Most writers agree folkloric motifs gathered around a historic figure."
+  "name": "Patrick",
+  "attributes": [
+    {
+      "entity": "Patrick",
+      "attribute": "the name of the Irish saint and missionary bishop"
+    },
+    {
+      "entity": "Patrick",
+      "attribute": "a fifth-century Christian from Roman Britain"
+    },
+    {
+      "entity": "Patrick",
+      "attribute": "wrote the Confessio and the Letter to Coroticus"
+    },
+    {
+      "entity": "Patrick",
+      "attribute": "returns to Ireland as a missionary after a dream"
+    },
+    {
+      "entity": "Patrick",
+      "attribute": "the later lives, such as Muirchu's, enlarge his story"
+    }
   ],
-  "evidence": "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
- }
+  "entities": [
+    {
+      "entity": "Patrick",
+      "type": "Person"
+    },
+    {
+      "entity": "St. Patrick",
+      "type": "Person"
+    },
+    {
+      "entity": "Victoricius",
+      "type": "Person"
+    },
+    {
+      "entity": "Muirchu",
+      "type": "writer"
+    },
+    {
+      "entity": "Loegaire",
+      "type": "king"
+    },
+    {
+      "entity": "Armagh",
+      "type": "place"
+    },
+    {
+      "entity": "Tara",
+      "type": "place"
+    },
+    {
+      "entity": "Bannaventa",
+      "type": "place"
+    }
+  ],
+  "sources": [
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.",
+    "Koch 2006, s.v. 'Patrick, St'"
+  ],
+  "cyphertext": "s4sI0HcQTkB1Bs-F9MrGGcF_yBBGNuiugLrnBfOpYkHRsBvIvngxfMKP9EYsHZa191YN97E=",
+  "salt": "Sl3iSSZJgZ6i5Rc5d4TSCQ==",
+  "text": "Patrick is the name of the Irish saint and missionary bishop who came to Ireland in the fifth century. Koch records him as a third-generation Christian from Roman Britain, not yet a firm believer. His family held slaves and owned a house and a farm near the town of Bannaventa. When he was about sixteen, Irish slave raiders took him with many others into Ireland. Six years of slavery followed. While he tended livestock in hardship, he came to faith. A voice told him to escape, and he reached a ship that carried him home to Britain. Later, in a vivid dream, a man named Victoricius showed him letters. In that vision Patrick heard the voice of the Irish people calling him back. He made his way back to Ireland as a bishop who preached and converted many, travelling widely. Two works by him survive, the Confessio and the Letter to the Soldiers of Coroticus. In them he speaks of the cost of his mission and the danger of the work. The later lives of Patrick add many details. Muirchu's Vita, written about 690, gives him four names and tells of his service to a druid, his time in Gaul, his celebration of Easter near Tara, and his meeting with King Loegaire and his druids. It also names Armagh as his church. The early annals give two dates for his death, near 462 and near 493, and scholars dispute which is right. Many folk motifs gathered around the historic figure, so the saint of legend is far larger than the man of the two surviving letters.",
+  "okr": {
+    "objective": "Patrick is the Irish saint and missionary bishop of the fifth century.",
+    "key_results": [
+      "He was born in Roman Britain and carried into slavery in Ireland.",
+      "A dream called him back to Ireland as a missionary.",
+      "Two works by him survive, the Confessio and a letter.",
+      "Later lives add names, deeds, and a place for Armagh."
+    ],
+    "evidence": "Koch 2006, s.v. 'Patrick, St'."
+  }
 }
