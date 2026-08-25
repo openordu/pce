@@ -1,0 +1,48 @@
+{
+  "name": "Aed Slán mac Diarmato",
+  "text": "Aed Sláine mac Diarmato was the Uí Néill king and son of Diarmait. His first name Aed was a common Irish man's name meaning fire. Slán, the everyday Irish adjective, meant whole, well, or healthy. His father Diarmait mac Cerbaill ruled the same royal line. The Irish kings list and the Uí Néill pedigree record his descent.",
+  "entities": [
+    {
+      "entity": "Aed Slán mac Diarmato",
+      "type": "Person"
+    },
+    {
+      "entity": "Diarmait mac Cerbaill",
+      "type": "Person"
+    },
+    {
+      "entity": "Uí Néill",
+      "type": "Kingdom"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Aed Slán mac Diarmato",
+      "attribute": "a king of the Irish Uí Néill"
+    },
+    {
+      "entity": "Aed Slán mac Diarmato",
+      "attribute": "his name pairs Aed with the adjective slán"
+    },
+    {
+      "entity": "Diarmait mac Cerbaill",
+      "attribute": "his father, of the same royal line"
+    }
+  ],
+  "sources": [
+    "Koch 2006, s.v. 'Aed Slán mac Diarmato'",
+    "Byrne, Irish Kings and High-Kings"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Describe Aed Slán mac Diarmato and the meaning of his name.",
+    "key_results": [
+      "He was a king of the Irish Uí Néill.",
+      "His name joins Aed, the Irish word for fire or eye, with slán meaning whole.",
+      "His father Diarmait mac Cerbaill ruled the same royal line."
+    ],
+    "evidence": "Koch 2006, s.v. 'Aed Slán mac Diarmato'; Byrne on Irish kings."
+  }
+}

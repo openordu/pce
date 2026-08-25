@@ -1,0 +1,33 @@
+{
+  "name": "Adriatic region",
+  "text": "Ancient sources of Celts of the Adriatic region point to Macedon. Philip II died from a Celtic sword in 336 bc. The story comes from the works of Ptolemy and Strabo. Alexander hosted Celts from the Adriatic on a campaign. Warrior graves at Altino hold Celtic material. Two inscriptions prove the link. One uses Venetic script but read as Latin. The other joins the name Kadriako to the god Belatucadros. The Taurisci formed a group near the Sava. Roman weight reached the Adriatic in the first century bc. Caesar built forts at Iulium Carnicum and Forum Iulii.",
+  "entities": [
+    {"entity": "Adriatic region", "type": "Place"},
+    {"entity": "Taurisci", "type": "Group"},
+    {"entity": "Alexander the Great", "type": "Person"},
+    {"entity": "Philip II", "type": "Person"},
+    {"entity": "Lepontic", "type": "Language"}
+  ],
+  "attributes": [
+    {"entity": "Adriatic region", "attribute": "held Celts tied to Macedon"},
+    {"entity": "Taurisci", "attribute": "formed a group near the source of the Sava"},
+    {"entity": "Adriatic region", "attribute": "felt Roman weight in the first century bc"},
+    {"entity": "Kadriako", "attribute": "is a name tied to the god Belatucadros"}
+  ],
+  "sources": [
+    "Koch 2006, s.v. 'Adriatic region'",
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Establishes the Celts of the Adriatic and their link to Macedon.",
+    "key_results": [
+      "Records the death of Philip II by Celtic action",
+      "Finds Celtic ones in the Adriatic by about 300 bc",
+      "Names the Taurisci in the eastern Alps"
+    ],
+    "evidence": "Koch 2006, s.v. 'Adriatic region'; Monaghan 2008"
+  }
+}

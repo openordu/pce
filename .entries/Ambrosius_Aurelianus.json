@@ -1,0 +1,44 @@
+{
+  "name": "Ambrosius Aurelianus",
+  "entities": [
+    {"entity": "Ambrosius Aurelianus", "type": "Person"},
+    {"entity": "Gildas", "type": "Person"},
+    {"entity": "Anglo-Saxons", "type": "Group"},
+    {"entity": "Badonicus mons", "type": "Place"},
+    {"entity": "Historia Brittonum", "type": "Text"},
+    {"entity": "Dinas Emrys", "type": "Place"},
+    {"entity": "Red Dragon", "type": "Concept"},
+    {"entity": "Geoffrey of Monmouth", "type": "Person"},
+    {"entity": "Uthr Bendragon", "type": "Person"},
+    {"entity": "Arthur", "type": "Person"}
+  ],
+  "attributes": [
+    {"entity": "Ambrosius Aurelianus", "attribute": "last of the Romans in Britain according to Gildas"},
+    {"entity": "Ambrosius Aurelianus", "attribute": "led the Britons after the Saxon revolt"},
+    {"entity": "Ambrosius Aurelianus", "attribute": "of Roman descent, his ancestors having worn the purple"},
+    {"entity": "Ambrosius Aurelianus", "attribute": "lived in the late fifth century or about ad 500"},
+    {"entity": "Ambrosius Aurelianus", "attribute": "rendered in Welsh as Emrys"},
+    {"entity": "Historia Brittonum", "attribute": "name it as the youth who reads the wonder at the stronghold"},
+    {"entity": "Dinas Emrys", "attribute": "stronghold tied to the story of Vortigern"},
+    {"entity": "Geoffrey of Monmouth", "attribute": "named a hero Aurelius Ambrosius, Arthur's maternal uncle"}
+  ],
+  "sources": [
+    "Koch 2006, s.v. 'Ambrosius Aurelianus'",
+    "Gildas, De Excidio Britanniae",
+    "Nennius, Historia Brittonum"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "text": "Ambrosius Aurelianus led the Britons after their revolt against the Saxon settlers. Gildas describes him as the final true Roman in Britain. His ancestors had worn the purple, a mark of Roman rank. He lived in the late fifth century about ad 500. The Saxons grew strong and revolted and laid waste the Christian towns. The Britons then rallied under Ambrosius and their war at Badonicus mons ended in victory. Gildas does not name the commander of that battle. Welsh tradition later gave the credit to Arthur. In the Historia Brittonum, the hero is a young seer who interprets uneasy wonders. He reads the sign of the Red Dragon in a Snowdonia stronghold. The Latin name passed into Welsh as Emrys. Geoffrey of Monmouth made him Aurelius Ambrosius, brother of Uthr Bendragon and Arthur's uncle.",
+  "okr": {
+    "objective": "This entry sets out the role of Ambrosius Aurelianus as a late Roman leader in Britain.",
+    "key_results": [
+      "Gildas calls Ambrosius the last of the Romans and notes his imperial ancestry.",
+      "After the Saxon revolt he led the Britons to victory at Badonicus mons.",
+      "The Historia Brittonum makes him the wonder child of the Red Dragon at Dinas Emrys.",
+      "Geoffrey of Monmouth recasts him as Aurelius Ambrosius, uncle of Arthur."
+    ],
+    "evidence": "Koch 2006, s.v. 'Ambrosius Aurelianus'; Gildas, De Excidio Britanniae; Nennius, Historia Brittonum"
+  }
+}

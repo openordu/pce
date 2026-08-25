@@ -1,0 +1,60 @@
+{
+  "name": "Alpine area",
+  "text": "The Alpine area is one early heartland of Celtic Europe. It supplies some of the earliest proof of the Celtic languages. Hallstatt and La Tène, the type sites that name the two Continental Celtic cultures, lie among these mountains. The Helvetii, Lepontii, and Norici held their homes there. The Romans overran the Alps in stages. Tiberius and Drusus campaigned in 15 BC and closed Celtic freedom there. Celtic traditions then lingered in the provincial cultures of the peaks.",
+  "entities": [
+    {
+      "entity": "Alpine area",
+      "type": "Place"
+    },
+    {
+      "entity": "Hallstatt",
+      "type": "Place"
+    },
+    {
+      "entity": "La Tène",
+      "type": "Place"
+    },
+    {
+      "entity": "Helvetii",
+      "type": "People"
+    },
+    {
+      "entity": "Norici",
+      "type": "People"
+    },
+    {
+      "entity": "Tiberius",
+      "type": "Person"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Alpine area",
+      "attribute": "an early heartland of Celtic Europe"
+    },
+    {
+      "entity": "Hallstatt",
+      "attribute": "a type site which names a Celtic culture"
+    },
+    {
+      "entity": "Norici",
+      "attribute": "a Celtic people of the Alps"
+    }
+  ],
+  "sources": [
+    "Koch 2006, s.v. 'Alpine area'",
+    "Caesar, De Bello Gallico 1.7"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Show the Alpine area as an early home of the Continental Celtic culture.",
+    "key_results": [
+      "The Alps hold some of the earliest recorded evidence for the Continental languages.",
+      "The type sites of Hallstatt and La Tène lie among the mountains.",
+      "Roman campaigns, ended by Tiberius and Drusus in 15 BC, closed Celtic independence there."
+    ],
+    "evidence": "Koch 2006, s.v. 'Alpine area'; Caesar, De Bello Gallico 1.7."
+  }
+}
