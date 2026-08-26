@@ -1,0 +1,31 @@
+{
+  "name": "Fomoiri",
+  "text": "The Fomoiri are a hostile race of supernatural beings in Irish legend. They appear frequently in Irish myth. Writers usually show them as monstrous in appearance. The first element of their name is the preposition fo, meaning 'under'. The second element of the name is uncertain. Later tradition took the word as a synonym for giants. The fomoiri fight the Tuath Dé in the Cath Maige Tuired. They also oppose the early settlers of Ireland in the Lebor Gabála. The people are always cast in a negative light, unlike the Tuath Dé.",
+  "entities": [
+    {"entity": "Fomoiri", "type": "Mythological people"},
+    {"entity": "Tuath Dé", "type": "Mythological people"},
+    {"entity": "Cath Maige Tuired", "type": "Literary work"},
+    {"entity": "Ireland", "type": "Place"},
+    {"entity": "Lebor Gabála", "type": "Literary work"}
+  ],
+  "attributes": [
+    {"entity": "Fomoiri", "attribute": "hostile supernatural race"},
+    {"entity": "Fomoiri", "attribute": "monstrous appearance"},
+    {"entity": "Fomoiri", "attribute": "portrayed negatively"},
+    {"entity": "Tuath Dé", "attribute": "enemies of the Fomoiri"}
+  ],
+  "sources": ["Koch 2006, s.v. 'Fomoiri'"],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Document the Fomoiri as a hostile supernatural race of Irish legend.",
+    "key_results": [
+      "State what the Fomoiri are",
+      "Note their monstrous portrayal",
+      "Record the fo etymology",
+      "Describe their role against the Tuath Dé"
+    ],
+    "evidence": "Koch 2006, s.v. 'Fomoiri'"
+  }
+}

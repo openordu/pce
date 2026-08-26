@@ -1,0 +1,31 @@
+{
+  "name": "Fulup, Marc'harid",
+  "text": "Marc'harid Fulup, also known as Marguerite Philippe, lived from 1867 to 1909. She was a Breton singer and storyteller born in Pluzunet, a rural community in the district of Trégor in Brittany. Collectors of Breton folklore chose Fulup as a principal informant. François-Marie Luzel called her the Homer of Brittany and relied on her as a main source for his Breton folktales. Anatole Le Braz also drew on her songs. Through her exact memory and powerful voice, Fulup helped preserve a vast store of Breton songs and tales spoken in the Breton language.",
+  "entities": [
+    {"entity": "Fulup, Marc'harid", "type": "Person"},
+    {"entity": "Brittany", "type": "Place"},
+    {"entity": "Breton", "type": "Language"},
+    {"entity": "Luzel, François-Marie", "type": "Person"},
+    {"entity": "Le Braz, Anatole", "type": "Person"},
+    {"entity": "Plouaret", "type": "Place"}
+  ],
+  "attributes": [
+    {"entity": "Fulup, Marc'harid", "attribute": "Breton singer and storyteller"},
+    {"entity": "Fulup, Marc'harid", "attribute": "principal informant for Luzel and Le Braz"},
+    {"entity": "Fulup, Marc'harid", "attribute": "preserved Breton oral literature"},
+    {"entity": "Fulup, Marc'harid", "attribute": "born 1837, died 1909"}
+  ],
+  "sources": ["Koch 2006, s.v. 'Fulup, Marc'harid'"],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Document Marc'harid Fulup as a principal informant for the Breton folklore collectors Luzel and Le Braz and as a key preserver of Breton oral literature.",
+    "key_results": [
+      "State core biographical facts: 1837-1909, singer and storyteller",
+      "Record her role as principal informant for Luzel and Le Braz",
+      "Note her contribution to preserving Breton songs and tales"
+    ],
+    "evidence": "Koch 2006, s.v. 'Fulup, Marc'harid'"
+  }
+}

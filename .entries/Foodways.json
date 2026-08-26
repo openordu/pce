@@ -1,0 +1,36 @@
+{
+  "name": "Foodways",
+  "text": "Foodways covers the food customs and diet of the ancient Celts and later Celtic peoples. Celtic pigs descended through domestication from the European wild boar. Cattle were small, hardy, and largely black in colour, much like modern Kerry and Welsh Black breeds. Sheep resembled the Hebridean, Manx Loaghten, and Soay stocks. Poultry, dogs, and other farmyard animals were also kept and eaten. The natural world supplied game including wild boar, deer, and elk. People gathered acorns, apples, berries, hazelnuts, mast, seaweed, and watercress. Cereals such as barley, oats, and wheat produced bread and porridge. Dairy cattle gave milk, butter, and cheese, while honey and fermented grain made sweet ale, mead, and wine. Feasting was a social and heroic act. Early Irish sagas such as Bricriu's Feast preserve the competitive feast where a champion claimed the curadmír, the champion's portion. Caesar reported in De Bello Gallico 5.12 that chicken, goose, and hare were avoided. Classical writers noted Celtic love of meat. Food carried real social weight, marking rank, status, and community. Mixed farming endured, and dairy and grain remained the everyday staples.",
+  "entities": [
+    {"entity": "Foodways", "type": "concept"},
+    {"entity": "cattle", "type": "animal"},
+    {"entity": "pig", "type": "animal"},
+    {"entity": "sheep", "type": "animal"},
+    {"entity": "feast", "type": "social_practice"},
+    {"entity": "Ulster Cycle", "type": "literary_tradition"},
+    {"entity": "Caesar", "type": "classical_author"},
+    {"entity": "Posidonius", "type": "classical_author"}
+  ],
+  "attributes": [
+    {"entity": "Foodways", "attribute": "staple_diet"},
+    {"entity": "cattle", "attribute": "made_dairy_products"},
+    {"entity": "pig", "attribute": "domesticated_from_wild_boar"},
+    {"entity": "feast", "attribute": "awarded_champion_portion"}
+  ],
+  "sources": [
+    "Koch 2006, s.v. 'Foodways'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Document Celtic foodways, diet, and the social role of feasting",
+    "key_results": [
+      "Name the chief domesticated animals and their traits",
+      "Describe diet staples and the place of meat",
+      "Note feasting and the champion's portion",
+      "Record classical testimony on food taboos"
+    ],
+    "evidence": "Koch 2006, s.v. 'Foodways'"
+  }
+}

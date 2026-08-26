@@ -1,0 +1,31 @@
+{
+  "name": "GLaschu",
+  "text": "Glaschu is the Scottish Gaelic name for Glasgow, a city in Scotland. The city stands on the River Clyde. Its early legend held that Glasgow's ecclesiastical origins lay in a small cemetery beside the Molendinar Burn. The first bishop, John, was placed in Glasgow between 1114 and 1118 by David I. The endowment of the cathedral is documented from 1136, when an inquest listed the holdings that belonged to the church of Kentigern. Those lands lay in the later Barony of Glasgow and the Upper Ward of Clydesdale. The cathedral stands among the truly grand buildings of medieval Scotland.",
+  "entities": [
+    {"entity": "Glaschu", "type": "Place"},
+    {"entity": "Glasgow", "type": "Place"},
+    {"entity": "Scotland", "type": "Place"},
+    {"entity": "River Clyde", "type": "River"},
+    {"entity": "cathedral", "type": "Building"}
+  ],
+  "attributes": [
+    {"entity": "Glaschu", "attribute": "Scottish Gaelic name for Glasgow"},
+    {"entity": "Glasgow", "attribute": "city in Scotland on the River Clyde"},
+    {"entity": "cathedral", "attribute": "endowment documented from 1136"},
+    {"entity": "cathedral", "attribute": "in the Barony of Glasgow and Upper Ward of Clydesdale"}
+  ],
+  "sources": ["Koch 2006, s.v. 'GLaschu'"],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Document Glaschu, the Gaelic name for the city of Glasgow in Scotland, and its early cathedral history.",
+    "key_results": [
+      "State that Glaschu is the Scottish Gaelic name for Glasgow",
+      "Name Scotland and the River Clyde as location facts",
+      "Record the cathedral endowment documented from 1136",
+      "Mention the Barony of Glasgow and the Upper Ward of Clydesdale"
+    ],
+    "evidence": "Koch 2006, s.v. 'GLaschu'"
+  }
+}
