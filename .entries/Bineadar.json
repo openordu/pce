@@ -1,0 +1,47 @@
+{
+  "name": "Bineadar",
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "text": "Bineadar is an alternate spelling for the name Benn Eader. The Irish name Benn Eader marks the Hill of Howth, the easternmost point of Ireland in early Irish tradition. A reader who meets the briefer form Bineadar should turn to the main Benn Eader entry. There the hill and its story are set out in full.",
+  "entities": [
+    {
+      "entity": "Bineadar",
+      "type": "Place"
+    },
+    {
+      "entity": "Benn Eader",
+      "type": "Place"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Bineadar",
+      "attribute": "an alternate spelling of the name Benn Eader"
+    },
+    {
+      "entity": "Bineadar",
+      "attribute": "names the Hill of Howth, the easternmost point of Ireland"
+    },
+    {
+      "entity": "Bineadar",
+      "attribute": "a cross-reference directing the reader to the main entry"
+    },
+    {
+      "entity": "Benn Eader",
+      "attribute": "the target Place of the Bineadar cross-reference"
+    }
+  ],
+  "okr": {
+    "objective": "Provide a short cross-reference telling that Bineadar points to Benn Eader.",
+    "key_results": [
+      "Bineadar is an alternate spelling of the name Benn Eader.",
+      "Bineadar names the Hill of Howth, the easternmost point of Ireland.",
+      "Bineadar directs the reader to the fuller Benn Eader entry."
+    ],
+    "evidence": "MacKillop 2008, s.v. Bineadar."
+  },
+  "sources": [
+    "MacKillop 2008, s.v. Bineadar."
+  ]
+}

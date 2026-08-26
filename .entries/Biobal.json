@@ -1,0 +1,51 @@
+{
+  "name": "Biobal",
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "text": "Biobal is a merchant in the ancient Irish text Lebor Gabála. That work is the Book of Invasions. Biobal counts as a follower of the leader Partholon. With his partner Babal, Biobal carries gold into Ireland. The pair stand among the first traders remembered in the legends of the isle. Their tale marks an early account of precious metal reaching the island.",
+  "entities": [
+    {
+      "entity": "Biobal",
+      "type": "Person"
+    },
+    {
+      "entity": "Babal",
+      "type": "Person"
+    },
+    {
+      "entity": "Partholon",
+      "type": "Person"
+    },
+    {
+      "entity": "gold",
+      "type": "Concept"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Biobal",
+      "attribute": "a Partholonian merchant who introduced gold into Ireland"
+    },
+    {
+      "entity": "Biobal",
+      "attribute": "a follower of the leader Partholon in the Lebor Gabála"
+    },
+    {
+      "entity": "Babal",
+      "attribute": "partner of Biobal in bringing gold to Ireland"
+    }
+  ],
+  "okr": {
+    "objective": "Present Biobal as a Partholonian merchant who, with partner Babal, brought gold into Ireland.",
+    "key_results": [
+      "Biobal is a merchant cited in the Lebor Gabála, the Book of Invasions.",
+      "Biobal is a follower of the leader Partholon.",
+      "With partner Babal, Biobal carried gold into Ireland."
+    ],
+    "evidence": "MacKillop 2008, s.v. Biobal."
+  },
+  "sources": [
+    "MacKillop 2008, s.v. Biobal."
+  ]
+}
