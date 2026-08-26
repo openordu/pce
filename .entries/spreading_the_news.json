@@ -1,0 +1,33 @@
+{
+  "name": "spreading the news",
+  "text": "Spreading the news in Ireland long relied on word of mouth and the slow movement of travellers, for no public postal service open to everyone existed until the middle of the eighteenth century. A letter went by specially hired messenger or passed along from hand to hand across the countryside until it at last reached its target. The first stagecoach between Dublin and Belfast ran in 1752, regular service between the cities took another thirty years, and only in 1784 did a post office open in Ireland under a postmaster general. Postage cost varied with distance and private carriers sometimes charged both the sender and the receiver, so no single rule applied across the country until government post gradually extended everywhere. Bianconi's famous coach and car lines carried the mails before the railways took them over, and the horse-drawn post car is still remembered as the forerunner of the modern mail van. Sir Rowland Hill, though not a post-office official, introduced the penny post in 1840, letting a small letter travel to any point in Britain or Ireland for one penny, and his scheme brought the first adhesive stamp, the penny black. The customs chapter also treats the newer marvels of the telegraph, telephone, radio and television and the ancient belief in second sight, by which a gifted person could know what passed at a distant place, a power Danaher compares with the reported telepathy of simple nomadic peoples who lived in wide open spaces.",
+  "entities": [
+    {"entity": "spreading the news", "type": "concept"},
+    {"entity": "Bianconi", "type": "Person"},
+    {"entity": "Rowland Hill", "type": "Person"},
+    {"entity": "Dublin", "type": "Place"},
+    {"entity": "Belfast", "type": "Place"},
+    {"entity": "second sight", "type": "concept"}
+  ],
+  "attributes": [
+    {"entity": "spreading the news", "attribute": "is a Danaher customs chapter on how news travelled in rural Ireland"},
+    {"entity": "spreading the news", "attribute": "began with word of mouth and hired messengers before any public postal service"},
+    {"entity": "Rowland Hill", "attribute": "introduced the penny post in 1840 with the first adhesive stamp, the penny black"},
+    {"entity": "Bianconi", "attribute": "ran coach and car lines that carried the mails before the railways"},
+    {"entity": "second sight", "attribute": "is treated as a form of distant knowing in the same chapter"}
+  ],
+  "sources": ["Danaher, Kevin. Irish Customs and Beliefs, chapter 'Spreading the News'."],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Establishes the Danaher chapter 'Spreading the News' as covering how news moved in rural Ireland, from word of mouth and postal history to modern media and second sight.",
+    "key_results": [
+      "Records the absence of a public postal service before the mid-eighteenth century and reliance on hired messengers",
+      "Chronicles the 1752 Dublin-Belfast stagecoach, the 1784 post office, and Rowland Hill's 1840 penny post with the penny black stamp",
+      "Notes Bianconi's coach service and the horse-drawn post car as predecessors of the modern mail van",
+      "Links the chapter's treatment of telegraph, telephone and radio to the older belief in second sight and telepathy"
+    ],
+    "evidence": "Danaher, Kevin. Irish Customs and Beliefs, chapter 'Spreading the News'."
+  }
+}

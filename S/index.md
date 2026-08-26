@@ -130,3 +130,4 @@ layout: layouts/pce.njk
 - [Sweeney](Sweeney)
 - [swords](swords)
 - [sympathetic_magic](sympathetic_magic)
+- [spreading_the_news](spreading_the_news)

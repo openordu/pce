@@ -15,6 +15,38 @@ def write_md_file(json_data, filename):
     entities = json_data.get("entities","")
     sources = json_data.get("sources","")
     order = json_data.get("order",0)
+
+    # Normalize legacy/variant shapes to canonical [{entity, attribute}] / [{entity, type}]
+    def _norm_attrs(raw):
+        out = []
+        if isinstance(raw, dict):
+            # legacy {category, domain, associations} -> one attribute per key
+            for k, v in raw.items():
+                if isinstance(v, list):
+                    for item in v:
+                        out.append({"entity": k, "attribute": str(item)})
+                else:
+                    out.append({"entity": k, "attribute": str(v)})
+        elif isinstance(raw, list):
+            for a in raw:
+                if isinstance(a, dict):
+                    ent = a.get('entity', ''); val = a.get('attribute', a.get('value', ''))
+                    out.append({"entity": ent, "attribute": str(val)})
+                elif isinstance(a, str):
+                    out.append({"entity": "", "attribute": a})
+        return out
+    attributes = _norm_attrs(attributes)
+
+    def _norm_entities(raw):
+        out = []
+        if isinstance(raw, list):
+            for e in raw:
+                if isinstance(e, dict):
+                    out.append({"entity": e.get('entity', ''), "type": e.get('type', e.get('value', ''))})
+                elif isinstance(e, str):
+                    out.append({"entity": e, "type": ""})
+        return out
+    entities = _norm_entities(entities)
     image = json_data.get("images",[None])
     entityimage = None
     # if the key is not images, try image
@@ -55,10 +87,9 @@ def write_md_file(json_data, filename):
 
         md_file.write("``` tab [group1:Attributes]\n")
         for attr in attributes:
-            try: md_file.write(f"- **{attr['entity']}**: {attr['attribute']}\n")
-            except KeyError as e:
-                print(e)
-                md_file.write(f"- **Attribute**: {attr['attribute']}\n")
+            attr_entity = attr.get('entity', '')
+            attr_val = attr.get('attribute', attr.get('value', ''))
+            md_file.write(f"- **{attr_entity}**: {attr_val}\n")
         md_file.write("```\n")
 
         md_file.write("``` tab [group1:Entities]\n")
@@ -66,7 +97,7 @@ def write_md_file(json_data, filename):
             try: md_file.write(f"- **{ent['entity']}**: {ent['type']}\n")
             except KeyError as e:
                 print(e)
-                md_file.write(f"- **entities**: {ent['text']}\n")
+                md_file.write(f"- **entities**: {ent.get('text', ent.get('value', ''))}\n")
         md_file.write("```\n")
 
         md_file.write("``` tab [group1:Sources]\n")
