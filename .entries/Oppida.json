@@ -16,6 +16,22 @@
     {
       "entity": "Oppida",
       "attribute": "stood on heights or promontories near mineral deposits"
+    },
+    {
+      "entity": "Oppida",
+      "attribute": "built beside watercourses with rivers and marshes as part of their defences"
+    },
+    {
+      "entity": "Oppida",
+      "attribute": "enclosed areas ran from about 0.2 to 15 square kilometres"
+    },
+    {
+      "entity": "Camulodunum",
+      "attribute": "enclosed about 31 square kilometres at Colchester"
+    },
+    {
+      "entity": "Pfostenschlitzmauer",
+      "attribute": "a rampart type with inset posts common east of the Rhine"
     }
   ],
   "entities": [
@@ -30,25 +46,66 @@
     {
       "entity": "Switzerland",
       "type": "place"
+    },
+    {
+      "entity": "Gaul",
+      "type": "place"
+    },
+    {
+      "entity": "central Europe",
+      "type": "region"
+    },
+    {
+      "entity": "Belgae",
+      "type": "group"
+    },
+    {
+      "entity": "Camulodunum",
+      "type": "place"
+    },
+    {
+      "entity": "Colchester",
+      "type": "place"
+    },
+    {
+      "entity": "Kelheim",
+      "type": "place"
+    },
+    {
+      "entity": "La Tène D",
+      "type": "period"
+    },
+    {
+      "entity": "Pfostenschlitzmauer",
+      "type": "term"
+    },
+    {
+      "entity": "Rhine",
+      "type": "place"
     }
   ],
   "sources": [
-    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.",
+    "Koch 2006, s.v. 'Oppica'"
   ],
   "image": [
     "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/KMM_-_Osttor_Oppidum_2.jpg/1200px-KMM_-_Osttor_Oppidum_2.jpg"
   ],
   "cyphertext": "bFz9rP_YpAY6lZMsiNJl_qEJn1PTKMLelxP34k-3MOGgxFH4kn-y3fKKIBxIZt-oUrVM4ubyo8DzlpN1LV--79nszvyj52rjipgVKeeanIMuT-FIk16OTIyVGYrkbIm6tAWmm7_vv-80Cl0dvihJjFl3pm26RCqY7-gSBWVvIjhBcoEELWaf00S79t9d4g2pVLHEpAoLqxR8EnwohmAX_bq_JTz_raTNH1jgcw5righO0QUau82xN6E2niuWtCnyZdbj-aY8w7oZ_TRZt0Qs3EWnAUzqcY5F3P2YWb_7wO8kuxiwCW3jlGMkOUMFm9YhUTH7M8-R8yBYuKiZnvoEZA3njHwxgjd1qtBad2p1j_Kl9dIs7Yd1qsA-WWStLqPrn8VP6OhK0tJFurJ6wxGSP5MT4S46iaoqjVrKI6wOw25PpppDQJ3TDSU_v9J8yjGKG-mrsgjIkdiPttlfeMpfPHjEeaG1h5ruFo9rKBObk-0KjF2YTeDuJjrqEl8upU1hUCyQFVbb0Aauc_QQmyuT",
   "salt": "Ic4OIwykMbUR4Q57J_bGxg==",
-  "text": "Oppida is an archaeological term. This Latin word describes fortified Celtic towns. La Tène in Switzerland is a famous example. The settlements of the sixth and fifth centuries B.C.E. stood on heights or promontories. They often lay near mineral deposits that supplied the settlement's wealth.",
+  "text": "Oppida is an archaeological term. This Latin word describes fortified Celtic towns. The word once meant a town central to its territory and people. From Caesar's time, it named large defended tribal centres. These proto-urban settlements spread through Gaul and central Europe, reaching southern Britain. Caesar set the oppidum against the aedificium, a building, and the vicus, a village. Greek writers called the same places a polis or phourion. La Tène in Switzerland is a famous example. Today Celtic scholars use the term for the large fortified settlements of the closing La Tène phase. Some call that phase La Tène D. Builders placed oppida beside watercourses. Rivers and marshes formed part of the defences. Ditches and ramparts sealed any gaps. Ramparts often grew to enclose the whole settlement. Enclosed areas ran about ten times larger than in earlier periods. They spanned 0.2 to 15 square kilometres. Camulodunum at Colchester enclosed 31 square kilometres. Builders made ramparts from wooden beams and earth with an outer stone facing. One form, the Pfostenschlitzmauer, used inset posts. These walls with inset posts appear often east of the Rhine, with Kelheim as the type site. The older settlements of the sixth and fifth centuries B.C.E. stood on heights or promontories. They often lay near mineral deposits that supplied the settlement's wealth.",
   "okr": {
     "objective": "Oppida describes the fortified towns of the ancient Celts.",
     "key_results": [
       "Oppida is a Latin word for ancient Celtic towns.",
       "The type-site is La Tène in Switzerland.",
       "These fortified settlements stood on heights or promontories.",
-      "Their wealth often came from nearby mineral deposits."
+      "Their wealth often came from nearby mineral deposits.",
+      "From Caesar's time, oppida named large defended tribal centres spread through Gaul, central Europe, and southern Britain.",
+      "Settlements of the closing La Tène phase, La Tène D, often enclosed about ten times more area than earlier forts.",
+      "Camulodunum at Colchester enclosed roughly 31 square kilometres.",
+      "Builders sited oppida beside water and sealed gaps with ditches and ramparts."
     ],
-    "evidence": "Monaghan, Encyclopedia of Celtic Mythology and Folklore"
+    "evidence": "Monaghan, Encyclopedia of Celtic Mythology and Folklore; Koch 2006, s.v. 'Oppica'"
   }
 }

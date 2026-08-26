@@ -3,23 +3,27 @@
   "attributes": [
     {
       "entity": "Mona",
-      "attribute": "another name for Anglesey, a sacred British and Welsh island"
+      "attribute": "another name for Anglesey, a sacred British and Welsh island; officially Ynys Môn since 1995"
+    },
+    {
+      "entity": "Ynys Môn",
+      "attribute": "the Welsh name for Anglesey used officially since 1995"
     },
     {
       "entity": "Anglesey",
-      "attribute": "site of a Druid sanctuary and college destroyed by Roman soldiers about 59-64 CE"
+      "attribute": "from 1284 to 1974 formed a separate county called sir Fôn"
     },
     {
-      "entity": "druids",
-      "attribute": "killed in battle or executed, with the great forests burned"
+      "entity": "Menai Straits",
+      "attribute": "narrow waterway, now crossed by two bridges, that separates Anglesey from the Welsh mainland"
     },
     {
       "entity": "Anglesey",
-      "attribute": "yielded troves of goods in Celtic design from its bogs and lakes"
+      "attribute": "lies at a crossroads of the Irish Sea linking Ireland, the Isle of Man, and south-west Scotland"
     },
     {
-      "entity": "Bryn-Celli-Dhu",
-      "attribute": "an ancient cairn at its hilltop marks possible pre-Celtic sanctity"
+      "entity": "Llyn Cerrig Bach",
+      "attribute": "watery depositions there confirm a pre-Roman druid island sanctuary"
     }
   ],
   "entities": [
@@ -29,6 +33,30 @@
     },
     {
       "entity": "Anglesey",
+      "type": "Place"
+    },
+    {
+      "entity": "Ynys Môn",
+      "type": "Place"
+    },
+    {
+      "entity": "Menai Straits",
+      "type": "Place"
+    },
+    {
+      "entity": "Snowdonia",
+      "type": "Place"
+    },
+    {
+      "entity": "Llyn Cerrig Bach",
+      "type": "Place"
+    },
+    {
+      "entity": "Cymru",
+      "type": "Place"
+    },
+    {
+      "entity": "Dublin",
       "type": "Place"
     },
     {
@@ -49,22 +77,25 @@
     }
   ],
   "sources": [
-    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.",
+    "Koch 2006, s.v. 'Môn (Anglesey)'"
   ],
   "cyphertext": "gNacXE4TZ7S3sDBTLNIgCPvC1J7etg8sBxSAgrggml8NNIToQ6nxCLhNROTrrTA=",
   "salt": "KVoBZR0tuirtpCKUl18N0A==",
-  "text": "Mona is another name for Anglesey, a British and Welsh sacred island. The Roman historian Tacitus described a Druid sanctuary on it. Roman soldiers destroyed that sanctuary around 59 to 64 CE. Druids ran a college on the island. Celtic women priestesses, robed in black, screamed like the raven-goddess Mórrígan while the priests fought. Romans had already cut sacred groves and massacred clergy in other Celtic lands. The druids of Anglesey knew what fate awaited their houses and their honored trees. The druids died in battle or were executed, and the great forests burned. Bogs and lakes on Anglesey later yielded troves in Celtic design. The Druids likely hid them during the invasion. The island may have been sacred before the Celts, since an ancient cairn sits atop the hill of Bryn-Celli-Dhu. Diana Paxson depicted the destruction in her Arthurian trilogy.",
+  "text": "Mona is another name of Anglesey, a sacred British and Welsh island. The island has used the official Welsh name Ynys Môn since 1995. Earlier, from 1284 to 1974, it formed a separate county called sir Fôn. The narrow Menai straits split it from the Welsh mainland, crossed now by two bridges. Its soil stays fertile and habitable, yet the rugged Snowdonia massif shuts it off from easy overland travel. Looked out to sea, the island stands at a crossroads across the Irish Sea that joins Wales, Ireland, the Isle of Man, and Scotland south-west. A ferry still runs from Anglesey toward Dublin. In AD 60 the first strike into north Wales fell upon this island. The Roman historian Tacitus tied that move to the druids' anti-Roman ideology, which held deep roots here. Romans tore down sacred groves where druids offered human sacrifice. Rich watery deposits at Llyn Cerrig Bach reveal that pre-Roman druids kept an island sanctuary from early times. Anglesey's bogs and lakes have yielded votive troves in Celtic design, which druids likely hid during the Roman assault. Druids ran a college on the island. Celtic women priestesses, robed in black, screamed like the raven-goddess Mórrígan while the priests fought. Romans elsewhere had already cut sacred groves and struck down clergy. The druids of Anglesey knew their homes and sacred trees faced ruin, so they died in battle or were executed, and the great forests burned. The island stayed holy even before the Celts, since an ancient cairn rises on the hill of Bryn-Celli-Dhu. Diana Paxson wrote of the destruction in her Arthurian trilogy.",
   "okr": {
     "objective": "Document the sacred island of Mona, also known as Anglesey.",
     "key_results": [
-      "Record Mona as another name for the sacred island Anglesey.",
-      "Record the Druid sanctuary and college destroyed by Romans about 59-64 CE.",
-      "Record the troves in Celtic design hidden in the island's bogs and lakes.",
-      "Record the ancient cairn of Bryn-Celli-Dhu and the Arthurian depiction of Diana Paxson."
+      "Record Mona and Anglesey and the official Welsh name Ynys Môn used since 1995.",
+      "Record the Druid sanctuary and college destroyed by Romans in the AD 60 attack it faced first.",
+      "Record the Menai straits, Snowdonia barrier, and the island's Irish-Sea crossroads with ships to Dublin.",
+      "Record the watery depositions at Llyn Cerrig Bach, the troves in the bogs and lakes, and the cairn of Bryn-Corthi-Dhu.",
+      "Record the Arthurian depiction of the destruction by Diana Paxson."
     ],
     "evidence": [
       "Monaghan, P. The Encyclopedia of Celtic Mythology and Folklore (2008): Anglesey (Mona) entry, pp. 18-19.",
-      "Straffon, C. The Earth Goddess: Celtic and Pagan Legacy of the Landscape (1997), pp. 16, 169."
+      "Straff Gon, C. The Earth Goddess: Celtic and Pagan Legacy of the Landscape (1997), pp. 16, 169.",
+      "Koch, J.T. Celtic Culture: A Historical Encyclopedia (2006), s.v. 'Môn (Anglesey)'."
     ]
   }
 }
