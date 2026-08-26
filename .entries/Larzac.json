@@ -1,0 +1,56 @@
+{
+  "name": "Larzac",
+  "text": "Larzac is a small village in southern France. Its fuller name is l'Hospitalet-du-Larzac. A Gallo-Roman burial ground lies nearby. Two lead tablets came from this spot. Workers found them in 1983 on top of a funerary urn. They date to the later first century ad. The tablets bear text in Roman cursive script. The language is Gaulish. Both faces carry writing. This makes the Larzac inscription the longest known text in Gaulish. Some parts of the tablet are broken off. Scholars still read many words with care. Kinship terms stand out, including words for mother and daughter. Most experts think the text describes the magic of a group of women sorcerers. The goddess Adsagsona appears in the spell. The clauses name several women and their fathers. This text is a rare and precious record of the Gaulish language.",
+  "entities": [
+    {
+      "entity": "Larzac",
+      "type": "Place"
+    },
+    {
+      "entity": "Gaulish",
+      "type": "Language"
+    },
+    {
+      "entity": "Adsagsona",
+      "type": "Deity"
+    },
+    {
+      "entity": "l'Hospitalet-du-Larzac",
+      "type": "Place"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Larzac",
+      "attribute": "village in southern France beside a Gallo-Roman burial ground"
+    },
+    {
+      "entity": "Larzac",
+      "attribute": "yielded two lead tablets in 1983 on top of a funerary urn"
+    },
+    {
+      "entity": "Larzac",
+      "attribute": "tablets carry the longest known text in Gaulish in Roman cursive script"
+    },
+    {
+      "entity": "Larzac",
+      "attribute": "text names the goddess Adsagsona and several women sorcerers"
+    }
+  ],
+  "okr": {
+    "objective": "Present the Gallo-Roman find at Larzac and its major Gaulish inscription.",
+    "key_results": [
+      "Locate the village and date the two lead tablets to the later first century ad",
+      "State that the tablets form the longest known text in Gaulish",
+      "Describe the kinship terms and the read spell concerning women sorcerers",
+      "Name the goddess Adsagsona as a figure in the text"
+    ],
+    "evidence": "Koch 2006, s.v. 'Larzac'."
+  },
+  "image": null,
+  "cyphertext": "",
+  "salt": "",
+  "sources": [
+    "Koch 2006, s.v. 'Larzac'"
+  ]
+}

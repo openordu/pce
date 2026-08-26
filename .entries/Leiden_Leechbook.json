@@ -1,0 +1,60 @@
+{
+  "name": "Leiden Leechbook",
+  "text": "The Leiden Leechbook is a rare medieval medical manuscript. Its shelf mark is Vossianus Latin fo. 96A. It stands apart because it holds Celtic words. Three of its four pages carry Latin texts. One page mixes Brythonic and Irish terms. Whitley Stokes called the Brythonic forms the oldest Old Breton. The codex is dated between the ninth and tenth centuries. Its letter hand resembles the Cambridge Juvencus codex. Nothing in the forms suggests a Continental scribe. The recipes pair Latin with vernacular plant names. Many names are Welsh, Cornish, or Breton. Some are inherited words, others are Latin loans. The plant vocabulary fills three groups. Analysis hints the base text may be Breton. Yet a Cornish or Welsh origin is possible. The dialect stays unclear. The Brythonic tongues had split little by about 900.",
+  "entities": [
+    {
+      "entity": "Leiden Leechbook",
+      "type": "Artefact"
+    },
+    {
+      "entity": "Brythonic",
+      "type": "Language"
+    },
+    {
+      "entity": "Old Breton",
+      "type": "Language"
+    },
+    {
+      "entity": "Whitley Stokes",
+      "type": "Person"
+    },
+    {
+      "entity": "Breton",
+      "type": "Language"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Leiden Leechbook",
+      "attribute": "a medical manuscript with the shelf-mark Vossianus Latin fo. 96A"
+    },
+    {
+      "entity": "Leiden Leechbook",
+      "attribute": "contains Brythonic and Irish words alongside Latin"
+    },
+    {
+      "entity": "Whitley Stokes",
+      "attribute": "described the Brythonic forms as the oldest Old Breton"
+    },
+    {
+      "entity": "Old Breton",
+      "attribute": "may be the base language of the recipes"
+    }
+  ],
+  "okr": {
+    "objective": "Describe the Leiden Leechbook and its Celtic content.",
+    "key_results": [
+      "Identify the manuscript by shelf-mark and its medical character",
+      "Note the Brythonic and Irish words alongside Latin",
+      "Attribute the old-Breton reading of the forms to Whitley Stokes",
+      "Summarize the debate over the base language circa 900"
+    ],
+    "evidence": "Koch 2006, s.v. 'Leiden Leechbook'."
+  },
+  "image": null,
+  "cyphertext": "",
+  "salt": "",
+  "sources": [
+    "Koch 2006, s.v. 'Leiden Leechbook'"
+  ]
+}
