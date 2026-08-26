@@ -1,0 +1,31 @@
+{
+  "name": "Kinship",
+  "text": "Kinship in the Celtic world is known mainly from medieval Irish and Welsh sources. Scholars find the system too complex for any single label such as agnatic or bilateral. The form of kinship changed with the social structure involved. For status it was partly bilateral, counting both paternal and maternal rank. For the holding and passing of land it was agnatic and patrilineal. For alliance in feud it joined kindreds that were themselves patrilineal. A mother's rank mattered as much as a father's. Irish law put the derbfhine, the certain kindred, at the centre of inheritance, while the Welsh knew a similar body as the joint-heirs.",
+  "entities": [
+    {"entity": "Kinship", "type": "concept"},
+    {"entity": "Irish", "type": "Language"},
+    {"entity": "Welsh", "type": "Language"},
+    {"entity": "derbfhine", "type": "concept"},
+    {"entity": "Gaulish", "type": "Language"}
+  ],
+  "attributes": [
+    {"entity": "Kinship", "attribute": "was partly bilateral for status, counting paternal and maternal rank"},
+    {"entity": "Kinship", "attribute": "was agnatic and patrilineal for the holding and transmission of land"},
+    {"entity": "derbfhine", "attribute": "was the certain kindred of collateral heirs in Irish law"},
+    {"entity": "Kinship", "attribute": "is known largely from medieval Irish and Welsh sources"}
+  ],
+  "okr": {
+    "objective": "Outline Celtic kinship and how it changed according to social structure.",
+    "key_results": [
+      "Show that kinship resisted a single label such as agnatic or bilateral",
+      "Explain how kinship followed status, land, and marriage",
+      "Describe the role of maternal and paternal rank",
+      "Introduce the Irish derbfhine and the Welsh joint-heirs"
+    ],
+    "evidence": "Koch 2006, s.v. 'Kinship'."
+  },
+  "image": null,
+  "cyphertext": "",
+  "salt": "",
+  "sources": ["Koch 2006, s.v. 'Kinship'"]
+}

@@ -1,0 +1,34 @@
+{
+  "name": "John of Cornwall",
+  "text": "John of Cornwall was born about 1125 and died between 1199 and 1202. Although he came from Cornwall, he lived most of his years away from it. In 1155 a bishop of Exeter asked him to render the Prophecies of Merlin into Latin verse. He produced 167 hexameter lines with prose remarks and glosses placed between them. People long dismissed the version as passages borrowed from the seventh book of Geoffrey's History. Many readers now judge that it holds matter unknown to Geoffrey. Some blocks seem to spring from Cornish, Breton, and Welsh originals. He studied in Paris under Thierry of Chartres and took theology with Peter Lombard. In the late 1170s he was suggested for the see of Saint David's. He lost that office because his Welsh was weak. He later taught theology and settled a dispute touching the abbey of Oseney.",
+  "entities": [
+    {"entity": "John of Cornwall", "type": "Person"},
+    {"entity": "Prophecies of Merlin", "type": "Work"},
+    {"entity": "Geoffrey of Monmouth", "type": "Person"},
+    {"entity": "Paris", "type": "Place"},
+    {"entity": "Peter Lombard", "type": "Person"},
+    {"entity": "abbey of Oseney", "type": "Place"}
+  ],
+  "attributes": [
+    {"entity": "John of Cornwall", "attribute": "translated the Prophecies of Merlin into 167 Latin hexameters"},
+    {"entity": "John of Cornwall", "attribute": "added prose notes and glosses to that text"},
+    {"entity": "John of Cornwall", "attribute": "studied in Paris with Thierry of Chartres and Peter Lombard"},
+    {"entity": "John of Cornwall", "attribute": "was suggested for the bishopric of Saint David's but rejected for his poor Welsh"},
+    {"entity": "John of Cornwall", "attribute": "taught theology and judged a case at Oxford"}
+  ],
+  "okr": {
+    "objective": "Describe the life and scholarly output of John of Russell.",
+    "key_results": [
+      "Give the probable date range for his birth and death",
+      "Describe his rendering of the Prophecies of Merlin",
+      "Trace his studies in Paris and his proposed bishopric",
+      "Explain how his text departs from Geoffrey",
+      "Note his later teaching role at Oxford"
+    ],
+    "evidence": "Koch 2006, s.v. 'John of Cornwall'."
+  },
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "sources": ["Koch 2006, s.v. 'John of Cornwall'"]
+}

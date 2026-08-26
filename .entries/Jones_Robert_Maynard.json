@@ -1,0 +1,35 @@
+{
+  "name": "Jones, Robert Maynard",
+  "text": "Jones, Robert Maynard, who wrote as Bobi Jones, was born in 1929. He grew up in Cardiff, the capital city of Wales. His household spoke no Welsh, yet he became a scholar of that tongue. He ranked among the first people from such a home to reach a university chair of the subject. He taught at Carmarthen and later at the University of Wales. He wrote a great many poems and critical works in Welsh. He was a firm Calvinist and a tireless defender of the language. He studied the medieval Welsh romances grouped as the Tair Rhamant. He helped establish the Welsh academy and a group that pairs adults learning Welsh with fluent speakers. His long research traced the theory of the letter and criticism.",
+  "entities": [
+    {"entity": "Jones, Robert Maynard", "type": "Person"},
+    {"entity": "Bobi Jones", "type": "Person"},
+    {"entity": "Cardiff", "type": "Place"},
+    {"entity": "Welsh", "type": "Language"},
+    {"entity": "Yr Academi Gymreig", "type": "Group"},
+    {"entity": "CYD", "type": "Group"},
+    {"entity": "Tair Rhamant", "type": "Work"}
+  ],
+  "attributes": [
+    {"entity": "Jones, Robert Maynard", "attribute": "was born in Cardiff in 1929 and wrote under the name Bobi Jones"},
+    {"entity": "Jones, Robert Maynard", "attribute": "was among the first professors of Welsh not raised in a Welsh-speaking home"},
+    {"entity": "Jones, Robert Maynard", "attribute": "taught at Carmarthen and at the University of Wales"},
+    {"entity": "Jones, Robert Maynard", "attribute": "helped found the Welsh academy and the charity CYD"},
+    {"entity": "Jones, Robert Maynard", "attribute": "worked as a Calvinist critic, poet, and language activist"}
+  ],
+  "okr": {
+    "objective": "Introduce the poet and scholar Robert Maynard Jones, better known as Bobi Jones.",
+    "key_results": [
+      "Record his birthplace in Cardiff in 1929",
+      "Describe his path from a non-Welsh-speaking home to a Welsh chair",
+      "List his teaching posts in Carmarthen and at the University of Wales",
+      "Trace his founding of the Welsh academy and the learner society",
+      "Mention his poetry, fiction, and criticism"
+    ],
+    "evidence": "Koch 2006, s.v. 'Jones, Robert Maynard'."
+  },
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "sources": ["Koch 2006, s.v. 'Jones, Robert Maynard'"]
+}
