@@ -1,0 +1,63 @@
+{
+ "name": "Mass media in Brittany",
+ "attributes": [
+  {
+   "entity": "TV Breizh",
+   "attribute": "launched in September 2000 as a privately funded cable and satellite channel and the first bilingual regional generalist channel in Europe"
+  },
+  {
+   "entity": "Radio Kreiz Breizh",
+   "attribute": "a local private station supplying as many as 21 hours of Breton a week"
+  },
+  {
+   "entity": "Feiz ha Breiz",
+   "attribute": "one of the three most important Breton journals, running 1865-84 and 1900-44"
+  },
+  {
+   "entity": "Dihunamb",
+   "attribute": "a Breton journal first appearing in 1906 and aimed at a rural religious readership"
+  },
+  {
+   "entity": "Arvor",
+   "attribute": "the only weekly Breton-language newspaper, running from 1942 to 1944"
+  }
+ ],
+ "entities": [
+  {
+   "entity": "TV Breizh",
+   "type": "Group"
+  },
+  {
+   "entity": "Radio Kreiz Breizh",
+   "type": "Group"
+  },
+  {
+   "entity": "Feiz ha Breiz",
+   "type": "concept"
+  },
+  {
+   "entity": "Dihunamb",
+   "type": "concept"
+  },
+  {
+   "entity": "Arvor",
+   "type": "concept"
+  }
+ ],
+ "sources": [
+  "Koch 2006, s.v. 'mass media in the Celtic languages', §5 Breton"
+ ],
+ "image": [],
+ "cyphertext": "",
+ "salt": "",
+ "text": "Mass media in Brittany serve the Breton language through journals, radio, and television. Breton journals appeared in the late nineteenth century. The three most important were Feiz ha Breiz, the weekly Kroaz ar Vretoned, and Dihunamb. They were written in dialect for a rural religious audience. The weekly Arvor ran from 1942 to 1944. Breton reached the radio waves in 1940 on Radio Roazon-Breiz, whose broadcasts continued through the German occupation. Radio-Kimerc'h resumed the service in 1946. Local private stations raised the hours of Breton broadcasts, and Radio Kreiz Breizh alone supplied twenty one hours a week. In 1998 Radio Kerne and Arvorig FM started and gave eighty percent of their air-time to Breton. Breton first reached television in 1964, though weekly air-time stayed short. TV Breizh launched in September 2000 as a privately funded cable and satellite channel. It was Europe's first bilingual regional generalist channel and carried programmes in both Breton and French.",
+ "okr": {
+  "objective": "Author a new PCE node for Breton-language mass media",
+  "key_results": [
+   "record the early Breton journals Feiz ha Breiz, Kroaz ar Vretoned, and Dihunamb",
+   "note the growth of Breton radio from Radio Roazon-Breiz to local private stations",
+   "record the launch of TV Breizh in 2000 as Europe's first bilingual regional channel"
+  ],
+  "evidence": "Koch 2006, s.v. 'mass media in the Celtic languages', §5 Breton."
+ }
+}

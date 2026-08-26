@@ -1,0 +1,63 @@
+{
+ "name": "Mass media in Ireland",
+ "attributes": [
+  {
+   "entity": "TG4",
+   "attribute": "began broadcasting in 1996 as Teilifis na Gaeilge and serves an Irish-speaking audience with five hours of Irish a day"
+  },
+  {
+   "entity": "Raidió na Gaeltachta",
+   "attribute": "broadcasts wholly through Irish for 24 hours a day since 1972 for the Gaeltacht and Irish speakers nationwide"
+  },
+  {
+   "entity": "Lá",
+   "attribute": "Ireland's only daily Irish-language newspaper, a national tabloid since April 2003, published in Belfast"
+  },
+  {
+   "entity": "RTÉ",
+   "attribute": "the national public service broadcaster with two channels carrying about one hour of Irish-language programmes a week"
+  },
+  {
+   "entity": "Raidió na Life",
+   "attribute": "an Irish-language radio service for Dublin begun in 1993 on an educational and community basis"
+  }
+ ],
+ "entities": [
+  {
+   "entity": "TG4",
+   "type": "Group"
+  },
+  {
+   "entity": "RTÉ",
+   "type": "Group"
+  },
+  {
+   "entity": "Raidió na Gaeltachta",
+   "type": "Group"
+  },
+  {
+   "entity": "Raidió na Life",
+   "type": "Group"
+  },
+  {
+   "entity": "Lá",
+   "type": "concept"
+  }
+ ],
+ "sources": [
+  "Koch 2006, s.v. 'mass media in the Celtic languages', §1 Irish"
+ ],
+ "image": [],
+ "cyphertext": "",
+ "salt": "",
+ "text": "Mass media in Ireland serve a minority Irish-speaking audience across many outlets. The television channel TG4, at first called Teilifis na Gaeilge, began broadcasting in 1996. It runs about seven hours a day, five of them in Irish, covering sport, drama, current affairs, and children's programmes. RTÉ, the national public service broadcaster, carries close to one hour of Irish-language output each week, most of it news and current affairs. The radio service Raidió na Gaeltachta started in 1972 to serve the Gaeltacht and Irish speakers everywhere. It broadcasts wholly through Irish around the clock. Raidió na Life began in 1993 as a Dublin service on an educational and community basis, and its programmes also reach listeners on the Internet. The newspaper Lá is Ireland's only daily Irish-language paper. It began as a weekly broadsheet and grew into a daily tabloid sold nationwide from April 2003.",
+ "okr": {
+  "objective": "Author a new PCE node for Irish-language mass media",
+  "key_results": [
+   "record the broadcasters TG4 and RTÉ and their Irish-language output",
+   "note the radio services Raidió na Gaeltachta and Raidió na Life",
+   "record the status of Lá as Ireland's only daily Irish-language newspaper"
+  ],
+  "evidence": "Koch 2006, s.v. 'mass media in the Celtic languages', §1 Irish."
+ }
+}

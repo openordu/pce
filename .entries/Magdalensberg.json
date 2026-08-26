@@ -1,0 +1,51 @@
+{
+ "name": "Magdalensberg",
+ "attributes": [
+  {
+   "entity": "Magdalensberg",
+   "attribute": "a hill-fort built at 1058 m altitude between the Glan and Gurk rivers in Carinthia within the Roman province of Noricum"
+  },
+  {
+   "entity": "Magdalensberg",
+   "attribute": "commanded one of the main trade routes linking Italy to the Danube and the Drava valley and thus northern Italy to Pannonia"
+  },
+  {
+   "entity": "Magdalensberg",
+   "attribute": "yielded iron finds proving that ore was worked there to produce technically accomplished steel"
+  }
+ ],
+ "entities": [
+  {
+   "entity": "Magdalensberg",
+   "type": "Place"
+  },
+  {
+   "entity": "Noricum",
+   "type": "Place"
+  },
+  {
+   "entity": "Carinthia",
+   "type": "Place"
+  },
+  {
+   "entity": "Virunum",
+   "type": "Place"
+  }
+ ],
+ "sources": [
+  "Koch 2006, s.v. 'Magdalensberg'"
+ ],
+ "image": [],
+ "cyphertext": "",
+ "salt": "",
+ "text": "Magdalensberg is a hill-fort site on a summit 1058 m high in the Austrian province of Carinthia. It sits between the Glan and Gurk rivers inside the old Roman province of Noricum. The occupied zone stretched across 350 ha, or close to 840 acres. The hill gained a foothold perhaps in the 2nd century bc, while the hillside terraces filled only in the 1st century bc. Its view guarded a main trade line from Italy toward the Danube and the Drava. Finds there include terra sigillata pottery and brooches from northern Italy, plus over 300 inscribed objects that speak to a two-way commerce in the 1st century bc. Iron formed the chief export, and iron from Noricum drew praise from writers such as Pliny. The settlement was abandoned in ad 45 in favour of Virunum, on the plain now called Zollfeld.",
+ "okr": {
+  "objective": "Author a new PCE node for the Carinthian hill-fort of Magdalensberg",
+  "key_results": [
+   "record the site's position and size within the province of Noricum",
+   "note its command of the trade routes from Italy to the Danube and the Drava",
+   "state its role in iron production and its abandonment in favour of Virunum"
+  ],
+  "evidence": "Koch 2006, s.v. 'Magdalensberg'."
+ }
+}
