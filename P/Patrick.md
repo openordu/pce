@@ -2,7 +2,7 @@
 layout: layouts/pce.njk
 title: Patrick
 icon: file-lines
-order: 1966
+order: 0
 contributors: [ 'Christopher Godwin' ]
 attributes:
   - Patrick the name of the Irish saint and missionary bishop
@@ -10,8 +10,13 @@ attributes:
   - Patrick wrote the Confessio and the Letter to Coroticus
   - Patrick returns to Ireland as a missionary after a dream
   - Patrick the later lives, such as Muirchu's, enlarge his story
+  - Patrick had Latin as a second tongue, not his first language
+  - Patrick paid with his own money to run the mission and refused gifts
+  - Patrick excommunicated the raiders of Coroticus who sold converts to the Picts
+  - Patrick Binchy's reading showed the later lives were often pleasing fictions
 categories:
   - writer
+  - people
   - Person
   - place
   - king
@@ -24,6 +29,10 @@ entities:
   - Armagh(place)
   - Tara(place)
   - Bannaventa(place)
+  - Coroticus(Person)
+  - Victricius of Rouen(Person)
+  - the Picts(people)
+  - Binchy(Person)
 tags:
   - Patrick
   - St. Patrick
@@ -33,10 +42,14 @@ tags:
   - Armagh
   - Tara
   - Bannaventa
+  - Coroticus
+  - Victricius of Rouen
+  - the Picts
+  - Binchy
 ---
 ``` tab [group1:Info]
 ::: magazinestyle
-Patrick is the name of the Irish saint and missionary bishop who came to Ireland in the fifth century. Koch records him as a third-generation Christian from Roman Britain, not yet a firm believer. His family held slaves and owned a house and a farm near the town of Bannaventa. When he was about sixteen, Irish slave raiders took him with many others into Ireland. Six years of slavery followed. While he tended livestock in hardship, he came to faith. A voice told him to escape, and he reached a ship that carried him home to Britain. Later, in a vivid dream, a man named Victoricius showed him letters. In that vision Patrick heard the voice of the Irish people calling him back. He made his way back to Ireland as a bishop who preached and converted many, travelling widely. Two works by him survive, the Confessio and the Letter to the Soldiers of Coroticus. In them he speaks of the cost of his mission and the danger of the work. The later lives of Patrick add many details. Muirchu's Vita, written about 690, gives him four names and tells of his service to a druid, his time in Gaul, his celebration of Easter near Tara, and his meeting with King Loegaire and his druids. It also names Armagh as his church. The early annals give two dates for his death, near 462 and near 493, and scholars dispute which is right. Many folk motifs gathered around the historic figure, so the saint of legend is far larger than the man of the two surviving letters.
+Patrick is the name of the Irish saint and missionary bishop who came to Ireland in the fifth century. Koch records him as a third-generation Christian from Roman Britain, not yet a firm believer. His family held slaves and owned a house and a farm near the town of Bannaventa. Latin was not his first language, and his broken schooling left him weak in it. When he was about sixteen, Irish slave raiders took him with his father's servants and thousands more into Ireland. Six years of slavery followed. He tended livestock alone, and in that hardship he came to faith. A voice told him to escape, and he walked a great distance to reach a ship. He boarded only after refusing a rough rite. The crew landed in a desolate place and lost the way. They nearly starved until Patrick found food. He reached his family safely in Britain. Scholars still dispute whether he spent time in Gaul during the quiet years after. Later, in a vivid dream, a man named Victoricius appeared bearing many letters, perhaps the bishop of Rouen. In that vision Patrick read the voice of the Irish people calling him home. He sailed back in the role of missionary bishop, travelling the land and bringing many people to the faith. Two works by him survive, the Confessio and the Letter to the Soldiers of Coroticus. Two dark threads run through his story. First, he faced financial suspicion. He paid the sons of Irish rulers to ride with him as a safe escort, yet he refused all offerings. Second, his writing held an apocalyptic side. In the letter he scolded raiders who had slain recent converts, abducted the women, and sold them to the Picts. He also cut off those half-hearted Christians. Muirchu's Vita, from about 690, gives him four names. It tells of service to a druid, time in Gaul, a night of Easter near Tara, and a meeting with King Loegaire. It also names Armagh as his church. The annals give two dates for his death, near 462 and near 493. Binchy's scholarly essay was a turning point. It showed that much later detail served the politics of its own age. So the saint of legend far outreached the modest man of the letters.
 
 :::
 ```
@@ -46,6 +59,10 @@ Patrick is the name of the Irish saint and missionary bishop who came to Ireland
 - **Patrick**: wrote the Confessio and the Letter to Coroticus
 - **Patrick**: returns to Ireland as a missionary after a dream
 - **Patrick**: the later lives, such as Muirchu's, enlarge his story
+- **Patrick**: had Latin as a second tongue, not his first language
+- **Patrick**: paid with his own money to run the mission and refused gifts
+- **Patrick**: excommunicated the raiders of Coroticus who sold converts to the Picts
+- **Patrick**: Binchy's reading showed the later lives were often pleasing fictions
 ```
 ``` tab [group1:Entities]
 - **Patrick**: Person
@@ -56,6 +73,10 @@ Patrick is the name of the Irish saint and missionary bishop who came to Ireland
 - **Armagh**: place
 - **Tara**: place
 - **Bannaventa**: place
+- **Coroticus**: Person
+- **Victricius of Rouen**: Person
+- **the Picts**: people
+- **Binchy**: Person
 ```
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
