@@ -1,0 +1,47 @@
+{
+  "name": "Beth Gelert",
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "text": "Beth Gelert is an alternate way to spell the English glen-name Bedd Gelert, listed in the dictionary as a cross-reference. A reader who wants the Welsh legend should turn instead to the fuller Bedd Gelert entry. There lies the tale of the loyal hound of Prince Llywelyn, set in Gwynedd, whose memorial stone stood at Beddgelert. That story tells how the prince saved his child from a wolf and later mourned the faithful dog.",
+  "entities": [
+    {
+      "entity": "Beth Gelert",
+      "type": "Place"
+    },
+    {
+      "entity": "Bedd Gelert",
+      "type": "Place"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Beth Gelert",
+      "attribute": "an alternate spelling of the name Bedd Gelert"
+    },
+    {
+      "entity": "Beth Gelert",
+      "attribute": "serves as a cross-reference to the fuller Bedd Gelert entry"
+    },
+    {
+      "entity": "Bedd Gelert",
+      "attribute": "the target of the Beth Gelert cross-reference"
+    },
+    {
+      "entity": "Bedd Gelert",
+      "attribute": "names the site of the Welsh hound legend"
+    }
+  ],
+  "okr": {
+    "objective": "Provide a short cross-reference telling that Beth Gelert points to Bedd Gelert.",
+    "key_results": [
+      "Beth Gelert is an alternate spelling of the English glen name Bedd Gelert.",
+      "Beth Gelert directs readers to the full Bedd Gelert entry.",
+      "Bedd Gelert holds the tale of Llywelyn's loyal hound at Beddgelert in Gwynedd."
+    ],
+    "evidence": "MacKillop 2008, s.v. Beth Gelert."
+  },
+  "sources": [
+    "MacKillop 2008, s.v. Beth Gelert."
+  ]
+}

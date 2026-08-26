@@ -2,55 +2,52 @@
 layout: layouts/pce.njk
 title: Berrey Dhone
 icon: file-lines
-order: 238
+order: 252
 contributors: [ 'Christopher Godwin' ]
 attributes:
-  - Berrey Dhone Manx goddess
-  - North Barrule Mountain top or inside
-  - Cailleach form
-  - Berrey Dhone rocky heelprint on the mountainside
+  - Berrey Dhone legendary witch in Manx folk tradition
+  - Berrey Dhone subject of several ballads from the Isle of Man
+  - Berrey Dhone sometimes shown as an amazon able to stride over mountains
+  - Berrey Dhone name that means Brown Berry
+  - Berrey Dhone lived on or inside North Barrule
+  - Berrey Dhone a giant like other forms of the Cailleach
 categories:
-  - place
-  - type of Berrey Dhone
-  - Manx goddess
+  - Person
+  - Place
+  - Being
 entities:
-  - Berrey Dhone(Manx goddess)
-  - Isle of Man(place)
-  - Hag(type of Berrey Dhone)
-  - Witch(type of Berrey Dhone)
-  - North Barrule Mountain(place)
-  - Cailleach(type of Berrey Dhone)
-  - Amazonian Giant(type of Berrey Dhone)
+  - Berrey Dhone(Person)
+  - North Barrule(Place)
+  - Isle of Man(Place)
+  - Cailleach(Being)
 tags:
   - Berrey Dhone
+  - North Barrule
   - Isle of Man
-  - Hag
-  - Witch
-  - North Barrule Mountain
   - Cailleach
-  - Amazonian Giant
 ---
 ``` tab [group1:Info]
 ::: magazinestyle
-A deity worshipped by the Manx people was Berrey Dhone, also known as Brown Berry. This hag or witch resided in North Barrule Mountain, either inside or on top of the mountain, in the Isle of Man. She was an Amazonian giant, similar to other manifestations of the Cailleach. Her rocky heelprint on the mountainside still exists today.
+Berrey Dhone carries weight in Manx folk tradition as a legendary witch. She stands as the subject of several ballads from the Isle of Man. Many of these ballads draw her as an amazon able to step over whole mountain crests in one stride. Another strand of the same tales reads her name as Brown Berry and places her on or within North Barrule. There she looms as a giant, much like other forms of the Cailleach. Her heel print still shows in the mountain rock. Berrey Dhone lives longest in the verse that kept her strange power remembered across the island.
+
 
 :::
 ```
 ``` tab [group1:Attributes]
-- **Berrey Dhone**: Manx goddess
-- **North Barrule Mountain**: top or inside
-- **Cailleach**: form
-- **Berrey Dhone**: rocky heelprint on the mountainside
+- **Berrey Dhone**: legendary witch in Manx folk tradition
+- **Berrey Dhone**: subject of several ballads from the Isle of Man
+- **Berrey Dhone**: sometimes shown as an amazon able to stride over mountains
+- **Berrey Dhone**: name that means Brown Berry
+- **Berrey Dhone**: lived on or inside North Barrule
+- **Berrey Dhone**: a giant like other forms of the Cailleach
 ```
 ``` tab [group1:Entities]
-- **Berrey Dhone**: Manx goddess
-- **Isle of Man**: place
-- **Hag**: type of Berrey Dhone
-- **Witch**: type of Berrey Dhone
-- **North Barrule Mountain**: place
-- **Cailleach**: type of Berrey Dhone
-- **Amazonian Giant**: type of Berrey Dhone
+- **Berrey Dhone**: Person
+- **North Barrule**: Place
+- **Isle of Man**: Place
+- **Cailleach**: Being
 ```
 ``` tab [group1:Sources]
+- MacKillop 2008, s.v. Berrey Dhone.
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
