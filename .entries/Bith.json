@@ -1,62 +1,84 @@
 {
- "name": "Bith",
- "attributes": [
-  {
-   "entity": "Bith",
-   "attribute": "was the son of the biblical Noah"
-  },
-  {
-   "entity": "Bith",
-   "attribute": "was the father of Cesair"
-  },
-  {
-   "entity": "Bith",
-   "attribute": "landed in Munster"
-  },
-  {
-   "entity": "Bith",
-   "attribute": "died on Slieve Beagh"
-  }
- ],
- "entities": [
-  {
-   "entity": "Bith",
-   "type": "Person"
-  },
-  {
-   "entity": "Noah",
-   "type": "Person"
-  },
-  {
-   "entity": "Cesair",
-   "type": "Person"
-  },
-  {
-   "entity": "Munster",
-   "type": "Place"
-  },
-  {
-   "entity": "Ulster",
-   "type": "Place"
-  },
-  {
-   "entity": "Slieve Beagh",
-   "type": "Place"
-  }
- ],
- "sources": [
-  "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
- ],
- "cyphertext": "fxmIhbD_NoPVW_NMexqGGxxPSSbf_Qw3WibdnG6mLk2mjjHTi_Y5Jk0g-mMvaDE-hkr2NWx_Ul6fjrxOHqg0oKQP4qB7CQMAKxTpHIAHWdZfw6Q_ZcQhlU2Q_AEb8KB1ltYzghQuH5UCWCq7YRZ3XvV1nBSzpH7TKW97s7Hkrfux8ASIoptVXJ16Xzx-VBLQN4bhLeEG95r8X-emyZvX5rmC2jhSV9rhKm3VL30zWrYU6BcflUldmdrWBcA_sLC74Q4frTNqo5BEJ9rrGB2QQq1ZHS8qmK0WQoeQw6mppZ14zbBYpBX36AgK-DaaBck80_ItrTR_2ClpSmJZCrPYFHAxT4FjNa4WNX9pDie5xX0_sBITLaCZ9jJArHX1kmdAdVP8iU8y0I8bScM0jEKRKOpvVwSB6HqEB6ScgjxU_uk6Dc5Y6dpYuX1Hr_BoW3JIV4njIXvixZdYryGzWPKdUqrZGeGfZmYSZyIzTLYPYQobgkEUmMhSvfJNUs6EAn_xDQ6ZkcQYUCzxzdAse0GeuV1l3KejtndMI2Qf_DLqqrdSAiUjNYcgdzqw-NBpV6n2onm1LAWuxHMkomQjQFsn1wh7LFfhx4-zPcYDzJ63hZtd8Qrg4g8qNAdHe_9jjNZWZwYRAOurlKZt33im7ANYJ7EnC8WvzxIvsAfe5ConINDRpi162aqpENAMxft8ywi9UN6dDQmJ2Z3o2D59hyzrzEP7047mvPQ73-UKhOBqsm3du6rA6WggW498jLKq8zE5f45aIDgFwQ7pBnw_iiYKimYoGN1Vgo-7",
- "salt": "2Dk_VLTTVA3k0iZl1yyNGg==",
- "text": "Bith is an Irish hero or god, the son of Noah, and the father of Cesair. Cesair was the first settler of Ireland and fled the flood in her own ark. Bith came with her and landed in Munster. He later joined seventeen of Cesair's handmaidens to move to Ulster. Bith died on Slieve Beagh.",
- "okr": {
-  "objective": "Show Bith as an Irish hero or god who was the son of Noah and father of Cesair.",
-  "key_results": [
-   "Bith was the son of the biblical Noah.",
-   "He was the father of Cesair, the first settler of Ireland.",
-   "He landed in Munster and died on Slieve Beagh."
+  "name": "Bith",
+  "text": "Bith is a figure of the pseudo-history Lebor Gabala, the Book of Invasions. The text names him as a son of the biblical Noah, one refused passage on the Ark. Following the counsel of his daughter Cesair, he made a shrine figure. The figure ordered him to craft a vessel and shelter in it. Bith, Cesair and their company sailed for seven years before touching Ireland. They arrived as a band with fifty women and merely three men. Bith wed one of Cesair's companions and gathered sixteen further women. Then he went to live in the north, where he perished before the waters swept in. Adna was another of his sons. The mountain Sliab Betha, called Slieve Beagh today, carries his name in Northern Ireland.",
+  "entities": [
+    {
+      "entity": "Bith",
+      "type": "Person"
+    },
+    {
+      "entity": "Noah",
+      "type": "Person"
+    },
+    {
+      "entity": "Cesair",
+      "type": "Person"
+    },
+    {
+      "entity": "Adna",
+      "type": "Person"
+    },
+    {
+      "entity": "Munster",
+      "type": "Place"
+    },
+    {
+      "entity": "Ulster",
+      "type": "Place"
+    },
+    {
+      "entity": "Sliab Beatha",
+      "type": "Place"
+    },
+    {
+      "entity": "Slieve Beagh",
+      "type": "Place"
+    },
+    {
+      "entity": "Ireland",
+      "type": "Place"
+    }
   ],
-  "evidence": "Monaghan 2008, s.v. 'Bith'."
- }
+  "attributes": [
+    {
+      "entity": "Bith",
+      "attribute": "was the son of the biblical Noah"
+    },
+    {
+      "entity": "Bith",
+      "attribute": "was the father of Cesair"
+    },
+    {
+      "entity": "Bith",
+      "attribute": "landed in the north of Ireland"
+    },
+    {
+      "entity": "Bith",
+      "attribute": "died before the Flood"
+    },
+    {
+      "entity": "Bith",
+      "attribute": "eponym of Sliab Beatha / Slieve Beagh"
+    },
+    {
+      "entity": "Cesair",
+      "attribute": "daughter who urged Bith to build a ship"
+    }
+  ],
+  "okr": {
+    "objective": "Present Bith as a legendary son of Noah who reached Ireland with his daughter Cesair.",
+    "key_results": [
+      "Bith was a son of Noah denied entry to the Ark.",
+      "He followed Cesair and built a ship on her advice.",
+      "He settled in the north and died before the Flood.",
+      "He is the eponym of Sliab Beatha, now called Slieve Beagh."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Bith'."
+  },
+  "cyphertext": "fxmIhbD_NoPVW_NMexqGGxxPSSbf_Qw3WibdnG6mLk2mjjHTi_Y5Jk0g-mMvaDE-hkr2NWx_Ul6fjrxOHqg0oKQP4qB7CQMAKxTpHIAHWdZfw6Q_ZcQhlU2Q_AEb8KB1ltYzghQuH5UCWCq7YRZ3XvV1nBSzpH7TKW97s7Hkrfux8ASIoptVXJ16Xzx-VBLQN4bhLeEG95r8X-emyZvX5rmC2jhSV9rhKm3VL30zWrYU6BcflUldmdrWBcA_sLC74Q4frTNqo5BEJ9rrGB2QQq1ZHS8qmK0WQoeQw6mppZ14zbBYpBX36AgK-DaaBck80_ItrTR_2ClpSmJZCrPYFHAxT4FjNa4WNX9pDie5xX0_sBITLaCZ9jJArHX1kmdAdVP8iU8y0I8bScM0jEKRKOpvVwSB6HqEB6ScgjxU_uk6Dc5Y6dpYuX1Hr_BoW3JIV4njIXvixZdYryGzWPKdUqrZGeGfZmYSZyIzTLYPYQobgkEUmMhSvfJNUs6EAn_xDQ6ZkcQYUCzxzdAse0GeuV1l3KejtndMI2Qf_DLqqrdSAiUjNYcgdzqw-NBpV6n2onm1LAWuxHMkomQjQFsn1wh7LFfhx4-zPcYDzJ63hZtd8Qrg4g8qNAdHe_9jjNZWZwYRAOurlKZt33im7ANYJ7EnC8WvzxIvsAfe5ConINDRpi162aqpENAMxft8ywi9UN6dDQmJ2Z3o2D59hyzrzEP7047mvPQ73-UKhOBqsm3du6rA6WggW498jLKq8zE5f45aIDgFwQ7pBnw_iiYKimYoGN1Vgo-7",
+  "salt": "2Dk_VLTTVA3k0iZl1yyNGg==",
+  "sources": [
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.",
+    "MacKillop 2008, s.v. 'Bith'."
+  ]
 }

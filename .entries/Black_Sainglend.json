@@ -1,0 +1,59 @@
+{
+  "name": "Black Sainglend",
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "text": "Black Sainglend is an alternate name for the horse Saingliu. Saingliu is also called Dubh Sainglenn. He was one of the two favourite mounts of the Ulster hero Cuchulainn. The other was Liath Macha. Both horses were seen as magical. They rose from a grey lake near Slieve Fuad. The hero tamed each by leaping onto its back. After a day of riding around the full circuit of Ireland they grew gentle. A reader who meets the shorter form Black Sainglend should turn to the Saingliu entry. There the horse and its bond with Cuchulainn are told in full.",
+  "entities": [
+    {
+      "entity": "Black Sainglend",
+      "type": "Being"
+    },
+    {
+      "entity": "Saingliu",
+      "type": "Being"
+    },
+    {
+      "entity": "Cuchulainn",
+      "type": "Person"
+    },
+    {
+      "entity": "Liath Macha",
+      "type": "Being"
+    },
+    {
+      "entity": "Ireland",
+      "type": "Place"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Black Sainglend",
+      "attribute": "an alternate name of the horse Saingliu"
+    },
+    {
+      "entity": "Black Sainglend",
+      "attribute": "also written Dubh Sainglenn"
+    },
+    {
+      "entity": "Saingliu",
+      "attribute": "one of the two favourite mounts of the Ulster hero Cuchulainn"
+    },
+    {
+      "entity": "Black Sainglend",
+      "attribute": "a cross-reference directing the reader to the Saingliu entry"
+    }
+  ],
+  "okr": {
+    "objective": "Provide a short cross-reference telling that Black Sainglend points to Saingliu.",
+    "key_results": [
+      "Black Sainglend is an alternate name of the horse Saingliu.",
+      "Saingliu was one of Cuchulainn's two magical mounts.",
+      "Black Sainglend directs the reader to the fuller Saingliu entry."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Black Sainglend'."
+  },
+  "sources": [
+    "MacKillop 2008, s.v. 'Black Sainglend'."
+  ]
+}
