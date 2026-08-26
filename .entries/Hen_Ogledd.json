@@ -1,0 +1,71 @@
+{
+  "name": "Hen Ogledd",
+  "text": "Hen Ogledd names the Brittonic-speaking region of northern Britain in the early Middle Ages. Scholars of early Welsh use the term Hen Ogledd for the parts of the north that were integral to Welsh tradition. The poets Aneirin, Taliesin, and Myrddin belonged to this land. It also held the Welsh heroes Urien and his son Owain. The Old North included Elfed, Gododdin, Rheged, and Ystrad Clud. It also took in lesser lands such as Aeron, Manaw, and Lleuddiniawn. The genealogies list the Men of the North, called Gwyr y Gogledd, who ruled in this north. Hen Ogledd contrasted with Pictland, Dál Riata, and the Anglo-Saxon lands. Both Gwynedd dynasties traced their line back to the north.",
+  "entities": [
+    {
+      "entity": "Hen Ogledd",
+      "type": "Place"
+    },
+    {
+      "entity": "Gododdin",
+      "type": "Place"
+    },
+    {
+      "entity": "Rheged",
+      "type": "Place"
+    },
+    {
+      "entity": "Ystrad Clud",
+      "type": "Place"
+    },
+    {
+      "entity": "Urien",
+      "type": "Person"
+    },
+    {
+      "entity": "Aneirin",
+      "type": "Person"
+    },
+    {
+      "entity": "Brythonic",
+      "type": "Language"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Hen Ogledd",
+      "attribute": "is the Brittonic-speaking region of northern Britain in the early Middle Ages"
+    },
+    {
+      "entity": "Hen Ogledd",
+      "attribute": "was integral to early Welsh literature and tradition"
+    },
+    {
+      "entity": "Gododdin",
+      "attribute": "was a kingdom within the Old North"
+    },
+    {
+      "entity": "Urien",
+      "attribute": "was a hero of the Old North tradition"
+    },
+    {
+      "entity": "Ystrad Clud",
+      "attribute": "denotes Strathclyde, partly synonymous with Cumbria"
+    }
+  ],
+  "sources": [
+    "Koch 2006, s. v. 'Hen Ogledd'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Establishes Hen Ogledd as the Brittonic Old North of early medieval Britain.",
+    "key_results": [
+      "Identifies Hen Ogledd as the Brittonic Old North",
+      "Listing the kingdoms of Elfed, Gododdin, Rheged, and Ystrad Clud",
+      "Records the genealogies of the Men of the North"
+    ],
+    "evidence": "Koch 2006, s. v. 'Hen Ogledd'"
+  }
+}

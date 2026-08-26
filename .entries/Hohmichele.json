@@ -1,0 +1,36 @@
+{
+  "name": "Hohmichele",
+  "text": "Hohmichele is one of the bigger burial mounds of the early Hallstatt period in central Europe, set on the high ground of the upper Danube in Wurttemberg close to the hill-fort of the Heuneburg. The barrow was added to over a long stretch, raised anew with each interment for a local line of settlers. The chief tomb, Tomb I, held a timber chamber that robbers cleared in antiquity. The better record comes from Chamber VI, a grave left untouched until excavation, giving a high-status couple with a four-wheeled wagon and harness, amber and glass beads, bronze dress aids, belt plates, and a drinking set of iron knife, plate, cauldron, and ladle. A cremated adult laid in Tomb IX and a number of smaller burials round out the mound. About 5 m tall and 50 m across, the earthwork was built by drawing banks that pulled stray finds from older graves into its body.",
+  "entities": [
+    {"entity": "Hohmichele", "type": "Place"},
+    {"entity": "Heuneburg", "type": "Place"},
+    {"entity": "Upper Danube", "type": "Place"},
+    {"entity": "Hallstatt culture", "type": "Culture"},
+    {"entity": "burial chamber", "type": "Artefact"},
+    {"entity": "four-wheeled wagon", "type": "Artefact"},
+    {"entity": "drinking set", "type": "Artefact"},
+    {"entity": "amber jewellery", "type": "Artefact"}
+  ],
+  "attributes": [
+    {"entity": "Hohmichele", "attribute": "a very large early Iron Age burial mound in the upper Danube valley near the Heuneburg"},
+    {"entity": "Hohmichele", "attribute": "one of the biggest funerary structures in central Europe, near 5 m high and 50 m wide"},
+    {"entity": "four-wheeled wagon", "attribute": "found in Chamber VI with harness and amber and glass grave goods"},
+    {"entity": "burial chamber", "attribute": "Chamber VI, a tomb left untouched until modern excavation, with a double burial"},
+    {"entity": "Heuneburg", "attribute": "the neighbouring hill-fort settlement of the same Hallstatt period"}
+  ],
+  "sources": [
+    "Koch 2006, s.v. 'Hohmichele'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Document the great Hohmichele burial mound of the early Hallstatt period near the Heuneburg.",
+    "key_results": [
+      "Place Hohmichele in the upper Danube of Wurttemberg near the Heuneburg.",
+      "Record its great size as one of the biggest mounds in central Europe.",
+      "Note the intact Chamber VI double burial with a wagon and ornament set."
+    ],
+    "evidence": "Koch 2006, s.v. 'Hohmichele'."
+  }
+}

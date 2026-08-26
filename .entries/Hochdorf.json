@@ -1,0 +1,33 @@
+{
+  "name": "Hochdorf",
+  "text": "Hochdorf, also called Eberdingen-Hochdorf, is a princely burial mound in Baden-Württemberg, Germany, linked to the hilltop stronghold of Hohenasperg. It belongs to the late western Hallstatt culture of the middle 6th century bc, the zone of fortified aristocratic tombs running across south-western Germany, Switzerland, and eastern France. Excavated in 1978-9 with its central chamber still intact, the barrow once stood near 6 m high and 60 m wide. Within lay a tall man of about 40, carrying a birch-bark hat, a gold necklace, and an antenna dagger. His goods included a bronze cauldron ringed by lions and holding near 400 litres of honey mead, nine drinking horns, a four-wheeled wagon sheathed in iron, and a famed bronze dining couch borne on eight cast female figures over small wheels. The pieces record the lavish funeral gifts of an early Celtic elite.",
+  "entities": [
+    {"entity": "Hochdorf", "type": "Place"},
+    {"entity": "Hohenasperg", "type": "Place"},
+    {"entity": "Baden-Württemberg", "type": "Place"},
+    {"entity": "Hallstatt culture", "type": "Culture"},
+    {"entity": "bronze dining couch", "type": "Artefact"},
+    {"entity": "wagon", "type": "Artefact"},
+    {"entity": "cauldron", "type": "Artefact"}
+  ],
+  "attributes": [
+    {"entity": "Hochdorf", "attribute": "a princely burial mound in Baden-Württemberg of the late Hallstatt culture around 530 bc"},
+    {"entity": "Hochdorf", "attribute": "linked with the hill-fort of Hohenasperg in south-western Germany"},
+    {"entity": "bronze dining couch", "attribute": "supported by eight cast bronze female figures standing on small spoked wheels"},
+    {"entity": "cauldron", "attribute": "decorated with bronze lions and filled with about 400 litres of honey mead"},
+    {"entity": "wagon", "attribute": "a four-wheeled vehicle sheathed with an iron sheet in the grave"}
+  ],
+  "sources": ["Koch 2006, s.v. 'Hochdorf'"],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Document Hochdorf as a princely Hallstatt burial mound in Baden-Württemberg.",
+    "key_results": [
+      "Place Hochdorf within the late Hallstatt culture and near Hohenasperg.",
+      "List the chief grave goods, including the bronze dining couch and wagon.",
+      "Note the undisturbed chamber excavated in 1978-79."
+    ],
+    "evidence": "Koch 2006, s.v. 'Hochdorf'."
+  }
+}

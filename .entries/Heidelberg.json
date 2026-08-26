@@ -1,0 +1,60 @@
+{
+  "name": "Heidelberg",
+  "text": "Heidelberg lies in the German state of Baden-Württemberg. A notable Iron Age sculpture turned up there in the town's west side back in 1893. The carving preserves only the upper portion of a person's head. It stands 31 centimetres tall and carries the face as far down as the nose. The piece dates to the late 5th century bc or just after 400 bc, an age scholars assign to La Tène A. The head probably came from a grave stele. It shows the leaf crown, a mark of elite Celtic burials. The same crown ornaments the Pfalzfeld pillar. It also decorates the stele from Glauberg. Heidelberg thus holds an important monument of later Iron Age stonework.",
+  "entities": [
+    {
+      "entity": "Heidelberg",
+      "type": "Place"
+    },
+    {
+      "entity": "Baden-Württemberg",
+      "type": "Place"
+    },
+    {
+      "entity": "Pfalzfeld",
+      "type": "Place"
+    },
+    {
+      "entity": "Glauberg",
+      "type": "Place"
+    },
+    {
+      "entity": "La Tène",
+      "type": "Archaeological"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Heidelberg",
+      "attribute": "is a German city where an Iron Age sculpture was found"
+    },
+    {
+      "entity": "Heidelberg",
+      "attribute": "yielded a stone head fragment in 1893"
+    },
+    {
+      "entity": "Leaf crown",
+      "attribute": "was a trait of Celtic aristocratic grave markers"
+    },
+    {
+      "entity": "Heidelberg",
+      "attribute": "dates the piece to La Tène A"
+    }
+  ],
+  "sources": [
+    "Koch 2006, s.v. 'Heidelberg'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Establishes Heidelberg as the find site of an important La Tène stone head sculpture.",
+    "key_results": [
+      "Places the discovery in Baden-Württemberg in 1893",
+      "Dated the fragment head to La Tène A",
+      "Connects the piece to the leaf crown and a grave",
+      "Links the sculpture to Celtic aristocratic art"
+    ],
+    "evidence": "Koch 2006, s.v. 'Heidelberg'"
+  }
+}
