@@ -1,0 +1,222 @@
+---
+layout: layouts/pce.njk
+title: Celtic religion
+icon: file-lines
+order: 0
+contributors: [ 'Christopher Godwin' ]
+attributes:
+  - Celtic religion has no surviving creation myth
+  - Otherworld contiguous with the tangible world
+  - Otherworld looks more beautiful and changeless than our world
+  - Danu mother goddess and ancestor figure
+  - Danu linked to the goddess Dan and the Danube river
+  - Deae Matres Roman name for the triple mother goddesses
+  - horned god appeared across many regions
+  - Samhain festival opening winter on November 1
+  - Beltane festival opening summer on May 1
+  - Imbolc festival on February 1
+  - Lughnasa festival on August 1
+  - Celtic religion practiced rituals in the open air
+  - Tuatha De Danann race of the goddess Danu who hid in the hills
+  - Milesians human invaders who defeated the Tuatha De Danann
+  - Arthur figure of the Matter of Britain
+  - W. Y. Evans-Wentz named fairy tales and traditions the fairy faith
+  - Celtic religion extended in practice from the late Hallstatt era to the coming of Christianity
+  - Celtic religion survives mostly in inscriptions, classical accounts, and archaeology
+  - Matronae Roman name for the mother goddesses who guarded fertility
+  - Epona horse goddess often shown riding a horse
+  - Sequana healing goddess of the source of the Seine
+  - Coventina spring goddess of northern Britain
+  - Morrigan war goddess who could appear as an animal
+  - Taranis thunder god linked with the bull and the wheel
+  - Cernunnos antlered god named for his horns
+  - Lugus wide-worshipped god of craft, often read as the Roman Mercurius
+  - Nodens British god of the dead matched with Nuadu of the silver hand
+  - Sucellus mallet-bearing Gallic god of wealth and the earth
+  - Gundestrup cauldron silver vessel mixing initiation imagery with Mithras and Cybele echoes
+  - Caesar classical author who contrasted Celtic rites with Roman order
+  - aes side people of the síd, the fairies of later folk-tale
+categories:
+  - event
+  - artifact
+  - person
+  - god
+  - goddess
+  - group
+  - character
+  - concept
+  - location
+  - religion
+entities:
+  - Celtic religion(religion)
+  - Otherworld(location)
+  - Aboriginal Dreamtime(concept)
+  - Danu(goddess)
+  - Anu(goddess)
+  - Dôn(goddess)
+  - Dan(goddess)
+  - Danube(location)
+  - Don(location)
+  - Deae Matres(group)
+  - horned god(god)
+  - Samhain(event)
+  - Beltane(event)
+  - Imbolc(event)
+  - Lughnasa(event)
+  - Tuatha De Danann(group)
+  - Milesians(group)
+  - Arthur(character)
+  - W. Y. Evans-Wentz(person)
+  - fairy faith(concept)
+  - Matronae(group)
+  - Maponos(god)
+  - Epona(goddess)
+  - Sequana(goddess)
+  - Coventina(goddess)
+  - Brigit(goddess)
+  - Morrigan(goddess)
+  - Bodb(goddess)
+  - Nemain(goddess)
+  - Taranis(god)
+  - Cernunnos(god)
+  - Lugus(god)
+  - Belenos(god)
+  - Nodens(god)
+  - Nuadu Argatlam(character)
+  - Sucellus(god)
+  - Gundestrup cauldron(artifact)
+  - Coligny calendar(artifact)
+  - Caesar(person)
+  - aes side(group)
+tags:
+  - Celtic religion
+  - Otherworld
+  - Aboriginal Dreamtime
+  - Danu
+  - Anu
+  - Dôn
+  - Dan
+  - Danube
+  - Don
+  - Deae Matres
+  - horned god
+  - Samhain
+  - Beltane
+  - Imbolc
+  - Lughnasa
+  - Tuatha De Danann
+  - Milesians
+  - Arthur
+  - W. Y. Evans-Wentz
+  - fairy faith
+  - Matronae
+  - Maponos
+  - Epona
+  - Sequana
+  - Coventina
+  - Brigit
+  - Morrigan
+  - Bodb
+  - Nemain
+  - Taranis
+  - Cernunnos
+  - Lugus
+  - Belenos
+  - Nodens
+  - Nuadu Argatlam
+  - Sucellus
+  - Gundestrup cauldron
+  - Coligny calendar
+  - Caesar
+  - aes side
+---
+``` tab [group1:Info]
+::: magazinestyle
+ Celtic religion records no story of how the world began. Some scholars guess the Celts held that the world kept remaking itself. Others think they believed it had simply always been there. Celtic belief added an Otherworld that lay beyond what our senses meet. People often compared that realm to the Dreamtime of Australia. The Otherworld pressed against our own world. Gods and mighty beings lived in it. Those beings could touch our world only where time and place allowed. People too could pass into the Otherworld. Some wandered in by chance. A fairy lover or a fairy host might carry others there. That realm mirrored ours, yet it shone more and changed never. Blossom and fruit hung together on its trees. No one grew old there, and death held no sway. The Celts drew no hard line between holy and ordinary. In their view all land carried traces of the sacred. They set the four directions about a hallowed middle point. That middle was an idea, not a fixed spot. It might shift, repeat itself, or slip away from the world altogether. The greater gods dwelt in the Otherworld. No one pantheon bound every Celtic people. A majority of gods served one region or one kind of place. So many gods stood before the Celts that a man swore by the gods of his own folk. Still, some divinities spread far and wore many names. Among these stood the triple mothers, together with a horned god and the powers of rivers. The Celts seldom drew their gods as humans. Divinities could take human and animal shapes at will. Only after Rome conquered did carved images in the Mediterranean manner appear. The Celts spoke their gods' names with care. Every word carried force, and a god's name carried far more. Scholars cannot say whether a written term was a name or a title. The Celts kept no ranked order of gods. They pictured divinity in clans, like the kin of Danu or Don. Gods abode in hills, sea, trees, and swift streams. Seeing the holy within nature is pantheism. A mother goddess made life possible by her bounty. She sometimes stood as the ancestor of a whole people, sometimes of the gods. She appears in myth as Danu, Anu, or Don. Scholars link her to a lost central European goddess named Dan. Her name lives in the Danube and Don rivers. Most rivers in Celtic lands still bear goddess names. The goddesses often came as three. In Roman days they were the Deae Matres, three women of like face. Male gods gave skill, craft, magic, and verse. Rites took place outside, not in temples. Gatherings met on high ground, by fresh wells, and under oak trees. Bog corpses show a death by strangling, stabbing, then drowning. Some thinkers accept that hard times could bring human sacrifice. Most festivals turned on the seasons. Samhain on November 1 opened winter. Beltane on May 1 opened summer. Imbolc on February 1 and Lughnasa on August 1 marked the midpoints. The Celts watched season middles, not sun shifts. Their tales covered Arthur, the Matter of Britain, and the Round Table knights. Those stories hinge on the sovereignty goddess, whose blessing kept a king's claim safe. The fairy faith, named by W. Y. Evans-Wentz, belonged to the tradition as well. Koch maps the religion across a vast settlement area, so local practice differed from place to place. The era ran from the late Hallstatt era up to the arrival of christianity in the third to sixth centuries AD. Romanization blended Celtic custom with Graeco-Roman belief. Toward the close of Roman rule over Britain, around AD 409 or 410, native Celtic rites revived. The main written witness survives in inscriptions. Most are epitaphs and votive texts in Greek or Latin that carry Celtic names. Curse tablets, the Gaulish text of Larzac, and the Coligny calendar also survive. Early Irish ogam graves yield mostly personal names in the genitive. Classical authors framed the evidence with their own bias. Caesar set Celtic savagery against Roman order in his account of the Gallic War. Lucan told of human victims offered to the gods Teutates, Esus, and Taranis. The scholiasts of Bern disagreed on the details. Indigenous images go back to the Hallstatt era. Deified ancestors stood on great burial mounds at Hirschlanden and Glauberg. Depictions of severed heads carried religious force, tied to the head cult and head hunting that later writers recorded. The Paris boatmen's pillar showed Esus as a woodcutter and Smert slaying a serpent, while Tarvos Trigaranus stood as the bull that bears three cranes, with the antlered Cernunnos beside them. The silver Gundestrup cauldron mixes an initiation rite with echoes of the Mithras and Cybele cults. Scholars use interpretatio Romana and its reverse, interpretatio Celtica, to pair deities. Caesar stressed Mercurius, often read as the wide-worshipped Lugus. The god Belenos is usually equated with Apollo. The Roman Minerva, called Sulis at Bath, looked much like Belisama. Cernunnos takes his name from his horns. Deity names may hide meanings we no longer grasp. Indo-European comparison illuminates Celtic custom. The sacrifice of a white mare to Macha at a sacred marriage matches the Old Indian horse rite. Gerald of Wales claimed the ritual survived in Donegal into the twelfth century. The Book of Invasions told of the Túath Dé retreating from the ancestors of the Irish. They live on as aes síde, the people of the síd, the fairies of later folk-tale. The Celts kept four chief festivals, whose traces survive under Christian names. Rituals with masks appear in images such as the Aylesford bucket. Church synods in Gaul banned wearing stag masks. In Wales the Mari Lwyd walk has lasted into recent times. Mother goddesses, the Matronae, guarded fertility and gave help in need. Their cult linked to the divine son Maponos. The tribal mother Brigit turned war goddess in Leinster. Epona rode a horse and shared traits with the mothers. Healing deities such as Sequana and Coventina guarded springs. The father god, likened by Caesar to Dis Pater, ruled the dead. Ogmios led souls into the Otherworld, placed on islands in the west such as Bardsey. The Morrígan, Bodb, and Nemain could take form as a cow, a crow, or an eel. Taranis, the thunder god, carried the bull and the wheel. The smith and craft gods mattered much, led by Lugus. Nodens of Britain matched the wounded king Nuadu of the silver hand. Sucellus, the mallet-bearing god of wealth, worked close to the earth. Celtic visions of the Otherworld as a land of endless spring and music left a deep mark on later Western literature.
+
+:::
+```
+``` tab [group1:Attributes]
+- **Celtic religion**: has no surviving creation myth
+- **Otherworld**: contiguous with the tangible world
+- **Otherworld**: looks more beautiful and changeless than our world
+- **Danu**: mother goddess and ancestor figure
+- **Danu**: linked to the goddess Dan and the Danube river
+- **Deae Matres**: Roman name for the triple mother goddesses
+- **horned god**: appeared across many regions
+- **Samhain**: festival opening winter on November 1
+- **Beltane**: festival opening summer on May 1
+- **Imbolc**: festival on February 1
+- **Lughnasa**: festival on August 1
+- **Celtic religion**: practiced rituals in the open air
+- **Tuatha De Danann**: race of the goddess Danu who hid in the hills
+- **Milesians**: human invaders who defeated the Tuatha De Danann
+- **Arthur**: figure of the Matter of Britain
+- **W. Y. Evans-Wentz**: named fairy tales and traditions the fairy faith
+- **Celtic religion**: extended in practice from the late Hallstatt era to the coming of Christianity
+- **Celtic religion**: survives mostly in inscriptions, classical accounts, and archaeology
+- **Matronae**: Roman name for the mother goddesses who guarded fertility
+- **Epona**: horse goddess often shown riding a horse
+- **Sequana**: healing goddess of the source of the Seine
+- **Coventina**: spring goddess of northern Britain
+- **Morrigan**: war goddess who could appear as an animal
+- **Taranis**: thunder god linked with the bull and the wheel
+- **Cernunnos**: antlered god named for his horns
+- **Lugus**: wide-worshipped god of craft, often read as the Roman Mercurius
+- **Nodens**: British god of the dead matched with Nuadu of the silver hand
+- **Sucellus**: mallet-bearing Gallic god of wealth and the earth
+- **Gundestrup cauldron**: silver vessel mixing initiation imagery with Mithras and Cybele echoes
+- **Caesar**: classical author who contrasted Celtic rites with Roman order
+- **aes side**: people of the síd, the fairies of later folk-tale
+```
+``` tab [group1:Entities]
+- **Celtic religion**: religion
+- **Otherworld**: location
+- **Aboriginal Dreamtime**: concept
+- **Danu**: goddess
+- **Anu**: goddess
+- **Dôn**: goddess
+- **Dan**: goddess
+- **Danube**: location
+- **Don**: location
+- **Deae Matres**: group
+- **horned god**: god
+- **Samhain**: event
+- **Beltane**: event
+- **Imbolc**: event
+- **Lughnasa**: event
+- **Tuatha De Danann**: group
+- **Milesians**: group
+- **Arthur**: character
+- **W. Y. Evans-Wentz**: person
+- **fairy faith**: concept
+- **Matronae**: group
+- **Maponos**: god
+- **Epona**: goddess
+- **Sequana**: goddess
+- **Coventina**: goddess
+- **Brigit**: goddess
+- **Morrigan**: goddess
+- **Bodb**: goddess
+- **Nemain**: goddess
+- **Taranis**: god
+- **Cernunnos**: god
+- **Lugus**: god
+- **Belenos**: god
+- **Nodens**: god
+- **Nuadu Argatlam**: character
+- **Sucellus**: god
+- **Gundestrup cauldron**: artifact
+- **Coligny calendar**: artifact
+- **Caesar**: person
+- **aes side**: group
+```
+``` tab [group1:Sources]
+- Brunaux, Jean Louis. The Celtic Gauls: Gods, Rites and Sanctuaries. (London: Seaby, 1988), 68-70.
+- "Mysticism is a personal engagement with nature that results in a feeling of timeless unity."
+- "Superstition is a baseless belief or ritualized behavior that often represents a degraded form of an earlier religion. Mythology and ritual are connected, the first being a narrative or narrative sequence, the second being actions or behaviors that evoke or reflect that myth. Certain problems arise in defining and describing Celtic religion. The Celtic peoples did not employ writing, believing that religious secrets were better shared orally. Thus there is little textual evidence for what the Celts believed." (Author's Last Name, Year of Publication)
+- "What we have was written down after literacy arrived, along with Christianity, in Celtic lands. We also have some texts written by those who were at war with the Celts, including the Roman general (later emperor) Caesar and the army geographer Tacitus."
+- David Rankine and Sorita d'Este, The Isles of the Many Gods: An A-Z of the Pagan Gods & Goddesses of Ancient Britain and Ireland (London: Avalonia, 2007), 13-14.
+- Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
+- Koch 2006, s.v. 'religious beliefs'
+```

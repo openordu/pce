@@ -2,57 +2,57 @@
 layout: layouts/pce.njk
 title: fairies
 icon: file-lines
-order: 866
+order: 984
 contributors: [ 'Christopher Godwin' ]
 attributes:
-  - fairies distinctive colors of red and Green
-  - fairies exceedingly comely
-  - fairies long hair like silk
-  - fairies glowing complexions
-  - complexions glowing
-  - short people red hair
+  - fairies supernatural beings of the Celtic world
+  - fairies dwell in a hidden world and keep their own time
+  - fairies may help or harm the human household
+  - fairies are tied to the hollow hills and to the dead
+  - fair folk held back by iron, rowan, and a pierced stone
 categories:
-  - physical description
-  - physical attribute
-  - mythical creature
+  - being
+  - place
+  - concept
+  - group
 entities:
-  - short people(physical description)
-  - red hair(physical attribute)
-  - fairies(mythical creature)
-  - distinctive fairy colors(physical attribute)
-  - long hair(physical attribute)
-  - complexions(physical attribute)
+  - fairies(being)
+  - the Good People(group)
+  - the fairy mound(place)
+  - changelings(concept)
+  - bean sí(being)
+  - Otherworld(concept)
 tags:
-  - short people
-  - red hair
   - fairies
-  - distinctive fairy colors
-  - long hair
-  - complexions
+  - the Good People
+  - the fairy mound
+  - changelings
+  - bean sí
+  - Otherworld
 ---
 ``` tab [group1:Info]
 ::: magazinestyle
-Fairies, according to one theory, are debased versions of ancient gods, both Celtic and pre-Celtic, whose power remained active in the people's minds even after they had been officially replaced by later religious beliefs. Another theory posits that fairies were the faded memory of indigenous people replaced by later immigrants, or elemental spirits of nature. The distinction between fairies and the dead is sometimes blurred in folklore, and it is difficult to determine if the Celts originally created this confusion or if it is a later development. Fairies are often said to steal people from this world, and it is difficult to discern the difference between death and this sort of kidnapping. Trooping Fairies lived in great cities, where they danced and feasted constantly. When they traveled in large throngs to visit another fairy court, they caused a significant wind (known as a Fairy Blast). These fairies would snatch up and abduct those they favored. Therefore, rural people warned against walking near Fairy Mounds and other liminal places at night when fairies were most likely to be about. Other fairies, called Solitary Fairies, lived alone and buried themselves in craft or industry like the shoemaking Leprechauns and the tippling Cluricaune. Such farmyard figures like Brownie and Bucca would help humans until showered with gifts. However, some solitaries like the Banshee and her sister the Fairy Lover could lead to death or disappearance once encountered. Fairies usually had a small stature and possessed red hair; they were frequently about 3 and a half feet tall. Interestingly, red hair was taken as a sign of fairy blood - this could apply to animals as well as humans. Red-haired individuals who were not wearing the traditional fairy colors of red and green would not be considered as fairies. Nearly all fairies looked extremely attractive; they had lustrous hair that was like silk and radiated complexions that were pleasurable to observe, even if they were green.
+Fairies are the supernatural beings of the Celtic world whom folk tradition keeps apart from the human community. Their shapes and names change from one country to the next, yet the same ideas recur in the tales. They dwell in a hidden world of their own, they may help or harm humans, and they are close to the dead and to the earth. The old tales say much about who the fairies are. Some say they are the souls of the dead, held in a kind of waiting place and set apart from the living. Others hold that they are a separate people who once shared the land with humans and then drew away into the hollow hills. The tales of the fairy mound and of time spent within it are many. Fairies can help the household. They set the work of the house in order, they guard the cattle, and they reward the kind. But they have a dark side. A human who eats the fairy food or spends the night in their company may find years have gone by in a few hours. A chill or a faint may be blamed on a fairy stroke, and a sick child might have been taken by the fairies and another left in its place, a changeling. People guard against them with iron, with rowan and with a pierced stone. Green was their color, so some kept green from the clothing. They were spoken of with care, and warily, as the Good People or the fair family, lest the name itself bring their anger. Each country keeps its own fairy. In Ireland she is the bean sí and the sidhe of the hollow hills; in Scotland the same who haunts the loch and the hill; in Wales she is the fair family of the woodlands; and in Cornwall the little folk of the mines. All of them carry the same deep ideas of the fairy world and of the care humans must take with the Otherworld.
 
 :::
 ```
 ``` tab [group1:Attributes]
-- **fairies**: distinctive colors of red and Green
-- **fairies**: exceedingly comely
-- **fairies**: long hair like silk
-- **fairies**: glowing complexions
-- **complexions**: glowing
-- **short people**: red hair
+- **fairies**: supernatural beings of the Celtic world
+- **fairies**: dwell in a hidden world and keep their own time
+- **fairies**: may help or harm the human household
+- **fairies**: are tied to the hollow hills and to the dead
+- **fair folk**: held back by iron, rowan, and a pierced stone
 ```
 ``` tab [group1:Entities]
-- **short people**: physical description
-- **red hair**: physical attribute
-- **fairies**: mythical creature
-- **distinctive fairy colors**: physical attribute
-- **long hair**: physical attribute
-- **complexions**: physical attribute
+- **fairies**: being
+- **the Good People**: group
+- **the fairy mound**: place
+- **changelings**: concept
+- **bean sí**: being
+- **Otherworld**: concept
 ```
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
+- Koch 2006, s.v. 'fairies'
 ```
 ![fairies Image](https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/SophieAndersonTakethefairfaceofWoman.jpg/1200px-SophieAndersonTakethefairfaceofWoman.jpg)

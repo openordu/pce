@@ -2,74 +2,104 @@
 layout: layouts/pce.njk
 title: Fianna
 icon: file-lines
-order: 958
+order: 1076
 contributors: [ 'Christopher Godwin' ]
 attributes:
-  - Celtic women fought alongside their men
-  - Fenian Cycle glamorizing the exploits of an exemplary band of warriors
-  - Étain reborn to rejoin her fated lover Midir
-  - Oisín the Bard stolen away from earth by a Fairy Queen
-  - paganism had been driven
+  - Fianna a group of Irish warriors
+  - fían the singular name for one war band
+  - Fianna formed on the edges of known lands
+  - Fianna held young men and outcasts
+  - Fianna drew restless youth from the community
+  - Fianna took the wolf and the deer as emblems
+  - Fianna passed members through a rite of passage
+  - rígfhéinnid chief who ruled the whole band
+  - Fianna raided, hunted, and fought for loot or revenge
+  - Fianna served as mercenaries where no army stood
+  - Keating wrote about the band cooking and verse
+  - Finn mac Cumaill led the most famous band
+  - Fionn the later name given to the leader
+  - Abarta led the band onto his weak horse
+  - Abarta held the warriors captive in the Otherworld
+  - Fionn freed the band through magic and battle
+  - Fionn did not offer Abarta membership
 categories:
-  - Location
-  - Language
-  - Concept
-  - Person
+  - place
+  - creature
+  - mythological figure
+  - figure
+  - group
+  - concept
+  - hero
 entities:
-  - Roman writers(Person)
-  - Celtic women(Person)
-  - Fenian Cycle(Concept)
-  - warriors(Person)
-  - wildwood(Location)
-  - Ireland(Location)
-  - high king(Person)
-  - Irish(Language)
-  - Étain(Person)
-  - Midir(Person)
-  - Oisín the Bard(Person)
-  - Fairy Queen(Person)
+  - Fianna(group)
+  - fían(concept)
+  - rígfhéinnid(figure)
+  - Finn mac Cumaill(hero)
+  - Fionn(hero)
+  - Abarta(mythological figure)
+  - Otherworld(place)
+  - wolf(creature)
+  - deer(creature)
+  - Keating(figure)
 tags:
-  - Roman writers
-  - Celtic women
-  - Fenian Cycle
-  - warriors
-  - wildwood
-  - Ireland
-  - high king
-  - Irish
-  - Étain
-  - Midir
-  - Oisín the Bard
-  - Fairy Queen
+  - Fianna
+  - fían
+  - rígfhéinnid
+  - Finn mac Cumaill
+  - Fionn
+  - Abarta
+  - Otherworld
+  - wolf
+  - deer
+  - Keating
 ---
 ``` tab [group1:Info]
 ::: magazinestyle
-The Irish fianna (also referred to as Fenians or Fiana) are renowned heroes. While the term may be used more generally to describe any group of armed warriors wandering the Irish landscape - a concept that has been applied to revolutionaries in various eras - the most well-known reference is to the group led by the great hero Fionn Mac Cumhaill. The stories of the Fenian Cycle are among the most famous of Ireland's ancient tales. The stories may contain a historical component since Ireland did have roving bands that offered their expertise and weaponry to various kings. They were not strictly mercenaries and often accepted payment in the form of treasure taken from defeated foes. These bands were known for their fierce loyalty to their chosen leader and were difficult to switch sides. Texts suggest that the bands integrated into Irish society during the early Middle Ages and may have pre-existed. Not affiliated with a specific Tuath or region, the fianna upheld Ireland's defenses against foreign invaders such as Vikings. The rough social organization of the fianna society went away by the time of the Normans' conquest in the twelfth century. As outsiders to society, the fianna were a meritocracy that welcomed members based on their skills and might rather than through noble lineage or wealth. The fianna thus represented an avenue of social progression for skilled individuals. New recruits endured rigorous camps or initiations to develop their abilities. For example, a candidate was put into a deep hole and was provided with a shield. Members of the fianna then hurled spears, and a less-able candidate could suffer extreme wounds or worse. The woods would serve as the venue where the aspiring individual would be pursued and injured, aside from being denied entry to the group. Moreover, the prospect must possess the skill of a poet that could captivate the fianna by creating and presenting poetry. Even though it was more common for men to join the warrior group, it was not exclusive to women. Stories about female warriors who fought alone or belonged to Fionn's Fianna, such as Creidne and Erc, have been told. Roman writers attested to the historical foundation of such accounts, wherein they criticized the participation of Celtic women in wars. Thus, the Fenian Cycle appears to have romanticized the deeds of an exceptional troop of warriors, living in the wilderness, willing to fight for honor, defend their king, or retaliate for an offense. These legends stand as some of the most enduring myths of Ireland, encompassing not only heroic narratives but also love stories like Étain, who is reborn to reunite with Midir, and philosophical poems like Oisín's, whose talent was recognized by a fairy queen that brought him to another world. He ultimately returned to a land where paganism was no longer welcomed.
+The Fianna are a band of Irish warriors. Fían is the older singular name for a band. The plural form fianna appeared later. Old Irish records carry this term. Such groups went out for shared gaining. They also held young men and outcasts. These bands formed on the edges of known lands. They hunted and raided through the border zones.
+
+The band does a real social work. It draws restless young men away from common life. Those men find an outlet for their fierce way. The wolf and the deer became the band emblems. A new member passed through a rite of passage. It moved him toward the duties of an adult. A single chief, called rígfhéinnid, ruled the band. His command kept the men as one body.
+
+Hunting and war shaped each day. Raids gathered loot and settled a score. The men played games of skill and sport. The historian Keating wrote of cookery and verse. The age had no standing royal armies. A master hired the band as soldiery. It was therefore a ready and useful force.
+
+Finn mac Cumaill led the most famous band. Later writers called the hero Fionn. His deeds fill many books across the ages.
+
+One tale names the rogue Abarta. The villain led the men onto a weak horse. The horse carried them into the Otherworld. Abarta bound the warriors there as captives. Long effort and magic set them free. Fionn opened the way to their freedom. He did not give Abarta a place in the ranks.
 
 :::
 ```
 ``` tab [group1:Attributes]
-- **Celtic women**: fought alongside their men
-- **Fenian Cycle**: glamorizing the exploits of an exemplary band of warriors
-- **Étain**: reborn to rejoin her fated lover Midir
-- **Oisín the Bard**: stolen away from earth by a Fairy Queen
-- **paganism**: had been driven
+- **Fianna**: a group of Irish warriors
+- **fían**: the singular name for one war band
+- **Fianna**: formed on the edges of known lands
+- **Fianna**: held young men and outcasts
+- **Fianna**: drew restless youth from the community
+- **Fianna**: took the wolf and the deer as emblems
+- **Fianna**: passed members through a rite of passage
+- **rígfhéinnid**: chief who ruled the whole band
+- **Fianna**: raided, hunted, and fought for loot or revenge
+- **Fianna**: served as mercenaries where no army stood
+- **Keating**: wrote about the band cooking and verse
+- **Finn mac Cumaill**: led the most famous band
+- **Fionn**: the later name given to the leader
+- **Abarta**: led the band onto his weak horse
+- **Abarta**: held the warriors captive in the Otherworld
+- **Fionn**: freed the band through magic and battle
+- **Fionn**: did not offer Abarta membership
 ```
 ``` tab [group1:Entities]
-- **Roman writers**: Person
-- **Celtic women**: Person
-- **Fenian Cycle**: Concept
-- **warriors**: Person
-- **wildwood**: Location
-- **Ireland**: Location
-- **high king**: Person
-- **Irish**: Language
-- **Étain**: Person
-- **Midir**: Person
-- **Oisín the Bard**: Person
-- **Fairy Queen**: Person
+- **Fianna**: group
+- **fían**: concept
+- **rígfhéinnid**: figure
+- **Finn mac Cumaill**: hero
+- **Fionn**: hero
+- **Abarta**: mythological figure
+- **Otherworld**: place
+- **wolf**: creature
+- **deer**: creature
+- **Keating**: figure
 ```
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
+- Koch 2006, s.v. Fian
 ```
 ![Fianna Image](https://upload.wikimedia.org/wikipedia/commons/8/88/Irishfairytales01step_0219.jpg)
