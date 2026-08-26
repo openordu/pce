@@ -1,0 +1,24 @@
+{
+  "name": "Genealogies [2] Welsh",
+  "text": "Welsh genealogies list the royal and noble lines. Around AD 1200 Giraldus Cambrensis wrote that Welsh poets kept the princes' genealogies in the Welsh tongue inside their old books and could recite them back from Rhodri Mawr to the legendary Beli. The oldest family record to survive is the carving on Eliseg's Pillar, raised early in the 800s for Cyngen, lord of Powys. Older pedigrees moved by voice long before writers set them down. Harley MS 3859 from around 1100 opens with Owain's two branches. Hanesyn Hen reached Cardiff MS 25 through John Jones, jailed for debt during 1640. In Welsh legal custom a free man's rank rested on his ancestry. Sons shared an estate equally, a rule that shrank each holding in time.",
+  "entities": [
+    {"entity": "Genealogies [2] Welsh", "type": "concept"},
+    {"entity": "Giraldus Cambrensis", "type": "Person"},
+    {"entity": "Eliseg's Pillar", "type": "Place"}
+  ],
+  "attributes": [
+    {"entity": "Giraldus Cambrensis", "attribute": "wrote that Welsh bards kept prince genealogies in their ancient books"},
+    {"entity": "Eliseg's Pillar", "attribute": "carries the oldest surviving genealogy inscription"},
+    {"entity": "Welsh law", "attribute": "made a free man's pedigree a legal necessity"},
+    {"entity": "Harley MS 3859", "attribute": "written about 1100 with Owain's two family lines"}
+  ],
+  "sources": ["Koch 2006, s.v. 'Genealogies [2] Welsh'"],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Summarize Koch 2006 on the nature, manuscripts, and function of Welsh genealogies.",
+    "key_results": ["Record the oldest surviving pedigrees and manuscripts", "Describe the legal role and partible inheritance", "Note the later collections and reliability of the pedigrees"],
+    "evidence": "Koch 2006, s.v. 'Genealogies [2] Welsh'"
+  }
+}
