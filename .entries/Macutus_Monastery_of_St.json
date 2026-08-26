@@ -1,0 +1,47 @@
+{
+ "name": "St Macutus",
+ "attributes": [
+  {
+   "entity": "St Macutus",
+   "attribute": "is a Christian saint linked to the Isle of Man from whom Brigit received the veil"
+  },
+  {
+   "entity": "Brigit",
+   "attribute": "is said to have received the veil from Macutus"
+  },
+  {
+   "entity": "Manx Christianity",
+   "attribute": "the early pattern of island worship to which the monastery of St Macutus belongs"
+  }
+ ],
+ "entities": [
+  {
+   "entity": "St Macutus",
+   "type": "Person"
+  },
+  {
+   "entity": "Macutus",
+   "type": "Person"
+  },
+  {
+   "entity": "Brigit",
+   "type": "Person"
+  }
+ ],
+ "sources": [
+  "Koch 2006, s.v. 'Macutus, Monastery of St'"
+ ],
+ "image": [],
+ "cyphertext": "",
+ "salt": "",
+ "text": "Macutus is a saint linked to the Isle of Man. Hagiography states that the Irish saint Brigit received the veil from Macutus. This stresses the bonds felt between the earliest Christian founders of Man and those of Ireland. Seven keeills on Man are dedicated to Brigit. These small churches point to the early Christian tie between the two lands. The monastery of St Macutus belongs to this pattern of early Manx Christianity on the island.",
+ "okr": {
+  "objective": "Author a new PCE node for the monastery of St Macutus on the Isle of Man",
+  "key_results": [
+   "record Macutus as a Christian founder linked to Man",
+   "note the hagiographic link that Brigit received the veil from Macutus",
+   "record the seven keeills on Man dedicated to Brigit"
+  ],
+  "evidence": "Koch 2006, s.v. 'Macutus, Monastery of St'."
+ }
+}
