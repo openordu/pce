@@ -1,0 +1,77 @@
+{
+  "name": "Ida",
+  "text": "Ida was a king in north Britain. He ruled from 547 to 559. Ida was the first Anglian king of Brynaich. The Anglo-Saxon Chronicle records him at 547. Beda also names Ida in his Historia Ecclesiastica. Ida founded the dynasty of King Oswald and several others. His power stayed near the coast of Northumberland. Ida built the fort at Bamburgh. Welsh sources call that fort Din Guairoi. Ida fought the kings of the northern Britons. He was a contemporary of Maelgwn Gwynedd. His dates anchor many undated Celtic events.",
+  "entities": [
+    {
+      "entity": "Ida",
+      "type": "Person"
+    },
+    {
+      "entity": "Brynaich",
+      "type": "Place"
+    },
+    {
+      "entity": "Anglo-Saxon Chronicle",
+      "type": "Literature"
+    },
+    {
+      "entity": "Beda",
+      "type": "Person"
+    },
+    {
+      "entity": "Historia Ecclesiastica",
+      "type": "Literature"
+    },
+    {
+      "entity": "Bamburgh",
+      "type": "Place"
+    },
+    {
+      "entity": "Historia Brittonum",
+      "type": "Literature"
+    },
+    {
+      "entity": "Taliesin",
+      "type": "Person"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Ida",
+      "attribute": "ruled from 547 to 559"
+    },
+    {
+      "entity": "Ida",
+      "attribute": "was the first Anglian king of Brynaich"
+    },
+    {
+      "entity": "Ida",
+      "attribute": "built the fort at Bamburgh"
+    },
+    {
+      "entity": "Bamburgh",
+      "attribute": "was called Din Guairoi in the Welsh sources"
+    },
+    {
+      "entity": "Ida",
+      "attribute": "was a contemporary of Maelgwn Gwynedd"
+    }
+  ],
+  "sources": [
+    "Koch 2006, s.v. 'Ida'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Establishes Ida as the first Anglian king of Brynaich and a historical anchor for early Celtic figures.",
+    "key_results": [
+      "Records Ida's rule from 547 to 559",
+      "Notes his appearance in the Anglo-Saxon Chronicle and in Beda's Historia Ecclesiastica",
+      "Notes that he built the fort at Bamburgh",
+      "Records his place as a contemporary of Maelgwn Gwynedd",
+      "Notes that his dates anchor undated Celtic events"
+    ],
+    "evidence": "Koch 2006, s.v. 'Ida'"
+  }
+}

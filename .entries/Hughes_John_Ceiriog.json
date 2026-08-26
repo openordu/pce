@@ -1,0 +1,72 @@
+{
+  "name": "John Ceiriog Hughes",
+  "text": "John Ceiriog Hughes was a Welsh poet. He lived from 1832 to 1887. He was born at Pen-y-bryn in Llanarmon, Denbighshire. He went to the local school first. He then worked briefly on his father's farm. He did not enjoy that work. Next he took an apprenticeship with a printer in Oswestry, which the Welsh call Croesoswallt. He wrote the words for about fifty traditional airs. Brinley Richards gathered those airs into the book Songs of Wales. John Ceiriog Hughes filled the songs with a warm patriotism. That collection sold many copies.",
+  "entities": [
+    {
+      "entity": "John Ceiriog Hughes",
+      "type": "Person"
+    },
+    {
+      "entity": "Ceiriog",
+      "type": "Person"
+    },
+    {
+      "entity": "Pen-y-bryn",
+      "type": "Place"
+    },
+    {
+      "entity": "Denbighshire",
+      "type": "Place"
+    },
+    {
+      "entity": "Oswestry",
+      "type": "Place"
+    },
+    {
+      "entity": "Songs of Wales",
+      "type": "Literature"
+    },
+    {
+      "entity": "Brinley Richards",
+      "type": "Person"
+    },
+    {
+      "entity": "Welsh poetry",
+      "type": "Literature"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "John Ceiriog Hughes",
+      "attribute": "wrote the words for about fifty traditional airs"
+    },
+    {
+      "entity": "John Ceiriog Hughes",
+      "attribute": "was apprenticed to a printer in Oswestry"
+    },
+    {
+      "entity": "Songs of Wales",
+      "attribute": "gathered traditional airs set to words by Ceiriog"
+    },
+    {
+      "entity": "John Ceiriog Hughes",
+      "attribute": "was born at Pen-y-bryn in Denbighshire"
+    }
+  ],
+  "sources": [
+    "Koch 2006, s.v. 'Hughes_John_Ceiriog'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Establishes John Ceiriog Hughes as a nineteenth-century Welsh poet who wrote patriotic words for traditional airs.",
+    "key_results": [
+      "Records his birth at Pen-y-bryn in Denbighshire in 1832 and his death in 1887",
+      "Notes his apprenticeship with a printer in Oswestry",
+      "Names his collaboration with Brinley Richards on Songs of Wales",
+      "Notes his authorship of words for about fifty traditional airs"
+    ],
+    "evidence": "Koch 2006, s.v. 'Hughes_John_Ceiriog'"
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "name": "Early Medieval Inscriptions",
+  "text": "Early medieval inscriptions mark a distinct phase in Celtic epigraphic tradition. The earliest post-Roman stones date to the fifth and sixth centuries. Carvers worked on undressed pillars and reused prehistoric menhirs set in open landscape. Writers often cut the text vertically rather than horizontally. These records name individual people, mostly men, and use the genitive case with a patronymic or tribal link. More than three hundred orthodox ogam pillars survive in Ireland and in Irish colonies in Britain. Smaller groups of capital-letter Latin inscriptions appear in southern Scotland, Brittany, Wales, and Dumnonia. Many stones served funerary ends, yet some claimed ownership of land. Gaulish artistic and epigraphic influence shows in many church inscriptions of this early period. The 7th century changed the tradition, when inscriptions moved onto dressed slabs and crosses inside church settings.",
+  "entities": [
+    {
+      "entity": "ogam",
+      "type": "Language"
+    },
+    {
+      "entity": "Latin",
+      "type": "Language"
+    },
+    {
+      "entity": "Ireland",
+      "type": "Place"
+    },
+    {
+      "entity": "Britain",
+      "type": "Place"
+    },
+    {
+      "entity": "Brittany",
+      "type": "Place"
+    },
+    {
+      "entity": "Dumnonia",
+      "type": "Place"
+    },
+    {
+      "entity": "Pictish symbol stones",
+      "type": "Archaeology"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Early Medieval Inscriptions",
+      "attribute": "date from the 5th and 6th centuries on undressed pillars"
+    },
+    {
+      "entity": "ogam",
+      "attribute": "used a non-roman script often written vertically"
+    },
+    {
+      "entity": "Early Medieval Inscriptions",
+      "attribute": "number over three hundred orthodox ogam pillars in Ireland and Britain"
+    },
+    {
+      "entity": "Latin inscriptions",
+      "attribute": "appear in southern Scotland, Brittany, Wales, and Dumnonia"
+    }
+  ],
+  "sources": [
+    "Koch 2006, s.v. 'Inscriptions_Early_Medieval'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Establishes early medieval inscriptions across the Celtic lands as a distinct epigraphic tradition with ogam and Latin examples.",
+    "key_results": [
+      "Dates the earliest post-Roman stones to the 5th and 6th centuries",
+      "Notes the vertical layout and genitive personal names",
+      "Counts over three hundred orthodox ogam pillars",
+      "Records Latin inscriptions in Scotland, Brittany, Wales, and Dumnonia",
+      "Marks the 7th-century shift to church settings"
+    ],
+    "evidence": "Koch 2006, s.v. 'Inscriptions_Early_Medieval'"
+  }
+}

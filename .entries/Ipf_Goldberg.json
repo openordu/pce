@@ -1,0 +1,73 @@
+{
+  "name": "Ipf and the Goldberg",
+  "text": "Ipf and the Goldberg are prehistoric fortified sites in central Europe. The summit plateau of Ipf rises 210 metres above the river Sechta. Its steep slopes make the position strong. Only the eastern slope needed great ramparts. Those ramparts still hold stone walls up to five metres thick. The oval summit measures 185 metres across. People fortified Ipf in the Late Bronze Age. Settlement here dates back to the Late Neolithic. An aristocratic residence stood on the summit in the later Hallstatt period. Iron forges worked the ore at nearby Osterholz. Rich finds included Late Hallstatt pottery and sherds of Greek amphorae.",
+  "entities": [
+    {
+      "entity": "Ipf",
+      "type": "Place"
+    },
+    {
+      "entity": "Goldberg",
+      "type": "Place"
+    },
+    {
+      "entity": "Sechta",
+      "type": "Place"
+    },
+    {
+      "entity": "Hallstatt",
+      "type": "Culture"
+    },
+    {
+      "entity": "Late Bronze Age",
+      "type": "Event"
+    },
+    {
+      "entity": "Early Iron Age",
+      "type": "Event"
+    },
+    {
+      "entity": "Osterholz",
+      "type": "Place"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Ipf",
+      "attribute": "rises 210 metres above the valley of the river Sechta"
+    },
+    {
+      "entity": "Ipf",
+      "attribute": "has an oval summit plateau 185 metres across"
+    },
+    {
+      "entity": "Ipf",
+      "attribute": "held an aristocratic residence in the later Hallstatt period"
+    },
+    {
+      "entity": "Ipf",
+      "attribute": "kept ramparts with stone walls up to five metres thick"
+    },
+    {
+      "entity": "Ipf",
+      "attribute": "dates its fortifications to the Late Bronze Age and Early Iron Age"
+    }
+  ],
+  "sources": [
+    "Koch 2006, s.v. 'Ipf_Goldberg'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Establishes Ipf and the Goldberg as a strategic prehistoric fortified site with a strong defensive summit.",
+    "key_results": [
+      "Records the summit plateau rising 210 metres above the river Sechta",
+      "Notes the ramparts with stone walls up to five metres thick",
+      "Dates the fortifications to the Late Bronze Age and Early Iron Age",
+      "Notes the aristocratic residence of the later Hallstatt period",
+      "Lists the rich finds including Late Hallstatt pottery and Greek amphorae sherds"
+    ],
+    "evidence": "Koch 2006, s.v. 'Ipf_Goldberg'"
+  }
+}
