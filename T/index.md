@@ -24,6 +24,8 @@ layout: layouts/pce.njk
 - [tatter-foal](tatter-foal)
 - [tattoo](tattoo)
 - [Tavy](Tavy)
+- [Tene_Archaeological_Site](Tene_Archaeological_Site)
+- [Tene_Period](Tene_Period)
 - [Téa](Téa)
 - [Tech_Duinn](Tech_Duinn)
 - [Tegau_Eurfron](Tegau_Eurfron)
