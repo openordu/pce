@@ -1,0 +1,63 @@
+{
+    "name": "Englyn",
+    "attributes": [
+        {
+            "entity": "englyn",
+            "attribute": "a strict-metre Welsh stanza form"
+        },
+        {
+            "entity": "englyn",
+            "attribute": "counts eight kinds among the twenty-four strict metres"
+        },
+        {
+            "entity": "englyn",
+            "attribute": "carries obligatory cynghanedd in every kind"
+        },
+        {
+            "entity": "cynghanedd",
+            "attribute": "the system of line-internal sound correspondence"
+        },
+        {
+            "entity": "englyn unodl union",
+            "attribute": "the most common four-line englyn from the 12th century on"
+        }
+    ],
+    "entities": [
+        {
+            "entity": "englyn",
+            "type": "Poetic form"
+        },
+        {
+            "entity": "cynghanedd",
+            "type": "concept"
+        },
+        {
+            "entity": "englyn unodl union",
+            "type": "Poetic form"
+        },
+        {
+            "entity": "englynion",
+            "type": "Text"
+        },
+        {
+            "entity": "Wales",
+            "type": "Place"
+        }
+    ],
+    "sources": [
+        "Koch 2006, s. v. 'Englyn'"
+    ],
+    "image": [],
+    "cyphertext": "",
+    "salt": "",
+    "text": "The englyn is a Welsh strict-metre stanza. Eight kinds count among the traditional twenty-four strict metres. Every kind carries obligatory cynghanedd, the steady system of line-internal sound correspondence. Two kinds have only three lines. The englyn milwr and the englyn penfyr mark the saga, the gnomic, and the nature verse of the ninth and tenth centuries. The four-line englyn unodl union became the common form from the twelfth century. It runs to the syllable count ten, six, seven, seven. The first two lines form the paladr. The last two form the esgyll, which rhyme like a cywydd couplet. Three further kinds rest on proest, an assonantal rhyme. From the earliest period the englynion ran in linked series. The single englyn also served as an epigram and stayed popular, for the folk poets of Wales drew on it from the eighteenth century on. It remains the mainstay of strict-metre verse in Wales.",
+    "okr": {
+        "objective": "Record the englyn as a strict-metre Welsh stanza and its principal forms.",
+        "key_results": [
+            "Define the englyn and obligatory cynghanedd",
+            "Name the three-line and four-line kinds",
+            "Note the paladr, esgyll, and syllable structure"
+        ],
+        "evidence": "Koch 2006, s. v. 'Englyn'"
+    }
+}
