@@ -3,7 +3,15 @@
   "attributes": [
     {
       "entity": "Ancamna",
-      "attribute": "consort of Mars"
+      "attribute": "commemorated at Trier in the Moselle valley"
+    },
+    {
+      "entity": "Ancamna",
+      "attribute": "consort of Mars with the epithet Lenus"
+    },
+    {
+      "entity": "Ancamna",
+      "attribute": "consort of Smertrius at Möhn north of Trier"
     },
     {
       "entity": "Ancamna",
@@ -13,32 +21,46 @@
   "entities": [
     {
       "entity": "Ancamna",
-      "type": "Person"
+      "type": "Deity"
     },
     {
       "entity": "Mars",
-      "type": "Person"
+      "type": "Deity"
     },
     {
-      "entity": "Continental Celtic goddess",
-      "type": "Concept"
+      "entity": "Lenus",
+      "type": "Deity"
+    },
+    {
+      "entity": "Smertrius",
+      "type": "Deity"
+    },
+    {
+      "entity": "Trier",
+      "type": "Place"
+    },
+    {
+      "entity": "Moselle",
+      "type": "Place"
     }
   ],
   "sources": [
-    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.",
+    "MacKillop 2008, s.v. Ancamna"
   ],
   "image": [
     "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Ancamna_MarsSmertrius_HistMusPfalz_3477.jpg/1200px-Ancamna_MarsSmertrius_HistMusPfalz_3477.jpg"
   ],
   "cyphertext": "h1blnaflQNIvw6Q9Hs5UGdwQgdxb6mXtVwapHhX2aDu8LkKK6WgSMvJ4Q9teQv1v1shaofFtGsAHzaHGb6QFJArrmDBshOzoP3ZGkL7wcLsQXOr0CXsJf_Y1NzAIv3wDmNE4JMOUfxIl8Hbf_1D4VwmbHG5w0DRnFQkq-8kpcgp7rnZIWJflQjn3kk0Z71jUkFtfm39Ui1jwOpna8GooomX02bkjUE6vJOjevhRtMpLzb05wI3jFCvFwmkntt2galpqJ72IxRuvVNafngWdkiKkUFHETHIC2w7eSoEnxpqSLekb7d0o=",
   "salt": "CJBfwkDcQuZrGqhlnJoGEg==",
-  "text": "Ancamna is a Continental Celtic goddess. She was the consort of Mars. Mars is the Roman name the Romans gave to many Celtic war gods; it was not her partner’s original name. Ancamna appears to have been a mother goddess of prosperity and healing.",
+  "text": "Ancamna was a Romano-Gaulish goddess. She was worshipped at Trier in the valley of the Moselle. There she often stood beside the war god Mars, who bore the title Lenus. North of Trier, at the town named Mohn, she was the partner of the god Smertrius. Some readers take Smertrius to be another form of Mars. Her worship shows how names of that land were pressed into written Roman usage.",
   "okr": {
-    "objective": "Record Ancamna, a Continental Celtic goddess.",
+    "objective": "Record Ancamna, a Romano-Gaulish goddess honoured at Trier.",
     "key_results": [
-      "Show her role as consort of Mars.",
+      "Show her cult centre at Trier in the Moselle valley.",
+      "Show her consorts Mars Lenus and Smertrius.",
       "Show her as a mother goddess of prosperity and healing."
     ],
-    "evidence": "Monaghan 2003, s.v. Ancamna; Koch 2006, s.v. Ancamna"
+    "evidence": "Monaghan 2003, s.v. Ancamna; MacKillop 2008, s.v. Ancamna"
   }
 }

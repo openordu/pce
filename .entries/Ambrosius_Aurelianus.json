@@ -1,36 +1,119 @@
 {
   "name": "Ambrosius Aurelianus",
   "entities": [
-    {"entity": "Ambrosius Aurelianus", "type": "Person"},
-    {"entity": "Gildas", "type": "Person"},
-    {"entity": "Anglo-Saxons", "type": "Group"},
-    {"entity": "Badonicus mons", "type": "Place"},
-    {"entity": "Historia Brittonum", "type": "Text"},
-    {"entity": "Dinas Emrys", "type": "Place"},
-    {"entity": "Red Dragon", "type": "Concept"},
-    {"entity": "Geoffrey of Monmouth", "type": "Person"},
-    {"entity": "Uthr Bendragon", "type": "Person"},
-    {"entity": "Arthur", "type": "Person"}
+    {
+      "entity": "Ambrosius Aurelianus",
+      "type": "Person"
+    },
+    {
+      "entity": "Gildas",
+      "type": "Person"
+    },
+    {
+      "entity": "Anglo-Saxons",
+      "type": "Group"
+    },
+    {
+      "entity": "Badonicus mons",
+      "type": "Place"
+    },
+    {
+      "entity": "Historia Brittonum",
+      "type": "Text"
+    },
+    {
+      "entity": "Dinas Emrys",
+      "type": "Place"
+    },
+    {
+      "entity": "Red Dragon",
+      "type": "Concept"
+    },
+    {
+      "entity": "Geoffrey of Monmouth",
+      "type": "Person"
+    },
+    {
+      "entity": "Uthr Bendragon",
+      "type": "Person"
+    },
+    {
+      "entity": "Arthur",
+      "type": "Person"
+    },
+    {
+      "entity": "Emrys Wledig",
+      "type": "Person"
+    },
+    {
+      "entity": "Vortigern",
+      "type": "Person"
+    },
+    {
+      "entity": "Eremon_welsh",
+      "type": "Person"
+    }
   ],
   "attributes": [
-    {"entity": "Ambrosius Aurelianus", "attribute": "last of the Romans in Britain according to Gildas"},
-    {"entity": "Ambrosius Aurelianus", "attribute": "led the Britons after the Saxon revolt"},
-    {"entity": "Ambrosius Aurelianus", "attribute": "of Roman descent, his ancestors having worn the purple"},
-    {"entity": "Ambrosius Aurelianus", "attribute": "lived in the late fifth century or about ad 500"},
-    {"entity": "Ambrosius Aurelianus", "attribute": "rendered in Welsh as Emrys"},
-    {"entity": "Historia Brittonum", "attribute": "name it as the youth who reads the wonder at the stronghold"},
-    {"entity": "Dinas Emrys", "attribute": "stronghold tied to the story of Vortigern"},
-    {"entity": "Geoffrey of Monmouth", "attribute": "named a hero Aurelius Ambrosius, Arthur's maternal uncle"}
+    {
+      "entity": "Ambrosius Aurelianus",
+      "attribute": "last of the Romans in Britain according to Gildas"
+    },
+    {
+      "entity": "Ambrosius Aurelianus",
+      "attribute": "led the Britons after the Saxon revolt"
+    },
+    {
+      "entity": "Ambrosius Aurelianus",
+      "attribute": "of Roman descent, his ancestors having worn the purple"
+    },
+    {
+      "entity": "Ambrosius Aurelianus",
+      "attribute": "lived in the late fifth century or about ad 500"
+    },
+    {
+      "entity": "Ambrosius Aurelianus",
+      "attribute": "rendered in Welsh as Emrys"
+    },
+    {
+      "entity": "Historia Brittonum",
+      "attribute": "name it as the youth who reads the wonder at the stronghold"
+    },
+    {
+      "entity": "Dinas Emrys",
+      "attribute": "stronghold tied to the story of Vortigern"
+    },
+    {
+      "entity": "Geoffrey of Monmouth",
+      "attribute": "named a hero Aurelius Ambrosius, Arthur's maternal uncle"
+    },
+    {
+      "entity": "Ambrosius Aurelianus",
+      "attribute": "known in Welsh as Emrys Wledig"
+    },
+    {
+      "entity": "Ambrosius Aurelianus",
+      "attribute": "a shadowy but historical figure of the sixth century"
+    },
+    {
+      "entity": "Ambrosius Aurelianus",
+      "attribute": "appears in the Historia Brittonum as a seer of the Red Dragon"
+    },
+    {
+      "entity": "Ambrosius Aurelianus",
+      "attribute": "linked to the stronghold of Dinas Emrys and the tale of Vortigern"
+    }
   ],
   "sources": [
     "Koch 2006, s.v. 'Ambrosius Aurelianus'",
     "Gildas, De Excidio Britanniae",
-    "Nennius, Historia Brittonum"
+    "Nennius, Historia Brittonum",
+    "MacKillop 2008, s.v. Ambrosius Aurelianus"
   ],
   "image": [],
   "cyphertext": "",
   "salt": "",
-  "text": "Ambrosius Aurelianus led the Britons after their revolt against the Saxon settlers. Gildas describes him as the final true Roman in Britain. His ancestors had worn the purple, a mark of Roman rank. He lived in the late fifth century about ad 500. The Saxons grew strong and revolted and laid waste the Christian towns. The Britons then rallied under Ambrosius and their war at Badonicus mons ended in victory. Gildas does not name the commander of that battle. Welsh tradition later gave the credit to Arthur. In the Historia Brittonum, the hero is a young seer who interprets uneasy wonders. He reads the sign of the Red Dragon in a Snowdonia stronghold. The Latin name passed into Welsh as Emrys. Geoffrey of Monmouth made him Aurelius Ambrosius, brother of Uthr Bendragon and Arthur's uncle.",
+  "text": "Ambrosius Aurelianus is a shadowy but real figure of Britain. Gildas, writing in the sixth century, gives the name. The Welsh know him as Emrys Wledig. He led the Britons after their revolt against the Saxon settlers. Gildas describes him as the last true Roman in Britain. His ancestors had worn the purple, a mark of Roman rank. He lived in the late fifth century about ad 500. The Saxons grew strong and turned on the Christian towns. The Britons then rallied under Ambrosius. Their fight at Badonicus mons ended in victory. Gildas does not name the commander of that battle. Welsh tradition later gave the credit to Arthur. His Latin name passed into Welsh speech as Emrys. In the Historia Brittonum he is a young seer of wonders. He reads the sign of the Red Dragon in a Snowdonia stronghold. That stronghold is Dinas Emrys. The tale ties him to Vortigern. Geoffrey of Monmouth later recast him as Aurelius Ambrosius. He made him the brother of Uthr Bendragon. He made him the uncle of Arthur. The historical man and the storybook hero thus meet. Gildas gives him the name and the rank. The later tales give him wonders. Both strands shape the memory of Ambrosius Aurelianus. He holds the line between the fading Roman order and the coming British kings. His name links the old empire to the new legend of Britain. He stands at the hinge of a changing age.",
   "okr": {
     "objective": "This entry sets out the role of Ambrosius Aurelianus as a late Roman leader in Britain.",
     "key_results": [
@@ -39,6 +122,6 @@
       "The Historia Brittonum makes him the wonder child of the Red Dragon at Dinas Emrys.",
       "Geoffrey of Monmouth recasts him as Aurelius Ambrosius, uncle of Arthur."
     ],
-    "evidence": "Koch 2006, s.v. 'Ambrosius Aurelianus'; Gildas, De Excidio Britanniae; Nennius, Historia Brittonum"
+    "evidence": "Koch 2006, s.v. 'Ambrosius Aurelianus'; Gildas, De Excidio Britanniae; Nennius, Historia Brittonum; MacKillop 2008, s.v. Ambrosius Aurelianus"
   }
 }
