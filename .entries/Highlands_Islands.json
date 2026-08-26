@@ -1,0 +1,59 @@
+{
+  "name": "Highlands and Islands",
+  "text": "Highlands and Islands names a broad territory of northern Scotland. A geological fault known as the Highland line divides this ground from the Lowlands. The fault runs from Helensburgh to Stonehaven. The Highlands and Islands form the Gaelic heartland of Scotland. The region long supported a crofting economy built on small holdings. Norse settlers came to own much of the land in the ninth century. Gaelic stayed strong in the Hebrides and moved across the mainland. The Lordship of the Isles grew strong under Somerled and his heirs. Clan Donald ruled the region through the medieval centuries. The loss of this Lordship in 1493 left the region unstable. Crofting unrest led to the Crofters Act of 1886. The area carries deep linguistic and cultural weight for Scotland.",
+  "entities": [
+    {
+      "entity": "Highlands and Islands",
+      "type": "Place"
+    },
+    {
+      "entity": "Scotland",
+      "type": "Place"
+    },
+    {
+      "entity": "Gaelic",
+      "type": "Language"
+    },
+    {
+      "entity": "Hebrides",
+      "type": "Place"
+    },
+    {
+      "entity": "Lordship of the Isles",
+      "type": "concept"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Highlands and Islands",
+      "attribute": "cover a large area of northern Scotland"
+    },
+    {
+      "entity": "Highlands and Islands",
+      "attribute": "form the Gaelic heartland of Scotland"
+    },
+    {
+      "entity": "Gaelic",
+      "attribute": "stayed strong in the Hebrides and expanded on the mainland"
+    },
+    {
+      "entity": "Lordship of the Isles",
+      "attribute": "was a strong regional power under Somerled"
+    }
+  ],
+  "sources": [
+    "Koch 2006, s. v. 'Highlands and Islands'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Describes the Highlands and Islands as the Gaelic heartland of Scotland.",
+    "key_results": [
+      "Notes the Highland line as the geological boundary",
+      "Records the crofting economy of small holdings",
+      "Ties the Gaelic language to the region's cultural identity"
+    ],
+    "evidence": "Koch 2006, s. v. 'Highlands and Islands'"
+  }
+}

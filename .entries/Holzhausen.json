@@ -1,0 +1,34 @@
+{
+  "name": "Holzhausen",
+  "text": "Holzhausen is a group of two Viereckschanzen, rectangular ditched enclosures of the pre-Roman Iron Age, at Strasslach-Dingharting in the district of Munich, southern Germany. The site has come often into the discussion of Celtic religion and rite. The first enclosure, on a flank with a sheltered spring, numbers about 100 m on a side and keeps a rampart near 4 m high. The second lies some 90 m east, dug in five stages between 1957 and 1963 by K. Schwarz, who found wells, a fenced beginning, and a building raised in phases. Schwarz treated the compound as a ritual ground with a temple and an offering pit, whereas Gunther Wieland argued that the deep shafts were wells rather than ritual holes. The rival readings show how little of this class of site is yet trusted.",
+  "entities": [
+    {"entity": "Holzhausen", "type": "Place"},
+    {"entity": "Munich district", "type": "Place"},
+    {"entity": "Strasslach-Dingharting", "type": "Place"},
+    {"entity": "Viereckschanze", "type": "Artefact"},
+    {"entity": "Celtic religion", "type": "Concept"},
+    {"entity": "Hallstatt culture", "type": "Culture"}
+  ],
+  "attributes": [
+    {"entity": "Holzhausen", "attribute": "two rectangular ditched enclosures in the Munich district of southern Germany"},
+    {"entity": "Viereckschanze", "attribute": "a ditched rectangular earthwork of the pre-Roman Iron Age"},
+    {"entity": "Holzhausen", "attribute": "excavated in the late 1950s and early 1960s by K. Schwarz"},
+    {"entity": "Strasslach-Dingharting", "attribute": "the commune that holds the enclosure group"},
+    {"entity": "Celtic religion", "attribute": "the site is read by some scholars as ritual in purpose"}
+  ],
+  "sources": [
+    "Koch 2006, s.v. 'Holzhausen'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Document the Holzhausen group of two Viereckschanzen in the Munich district.",
+    "key_results": [
+      "Place the two rectangular enclosures at Strasslach-Dingharting in southern Germany.",
+      "Note the excavations by Schwarz and the wells and building found.",
+      "Present the debate over whether the group was ritual or domestic."
+    ],
+    "evidence": "Koch 2006, s.v. 'Holzhausen'."
+  }
+}

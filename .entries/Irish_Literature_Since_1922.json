@@ -1,0 +1,42 @@
+{
+  "name": "Irish Literature: since 1922",
+  "text": "Irish Literature: since 1922 follows writing in Irish from the foundation of the new state to the present day. In the first phase after the civil war, regional fiction dominated, and the outstanding figure was Séamus Ó Grianna, whose stories set in Donegal showed a keen sense of irony. The Gaeltacht autobiography also flourished, carried to fame by the Great Blasket writers Tomás Ó Criomhthain, Muiris Ó Súilleabháin and Peig Sayers. Through the forties and fifties social criticism sharpened. Máirtín Ó Cadhain used his rich Conamara dialect on the grim realities of western rural life, and his novel Cré na Cille, a satire spoken by the quarrelling dead in a graveyard, stands as a landmark of irreverent modernism. Brian Ó Nualláin, under the name Flann O'Brien, mocked the clichés of the regional genre in An Béal Bocht. The journal Comhar, begun in 1942, and the house Sáirséal agus Dill encouraged a new generation. The novel grew bolder from the sixties, with Diarmaid Ó Súilleabháin using stream of consciousness. In poetry, Máirtín Ó Direáin, Seán Ó Ríordáin and Máire Mhac an tSaoi brought Irish verse to maturity, and from 1970 the Cork journal Innti, founded by Michael Davitt, spurred a striking surge of new poetry.",
+  "entities": [
+    {"entity": "Irish Literature: since 1922", "type": "Literature"},
+    {"entity": "Séamus Ó Grianna", "type": "Person"},
+    {"entity": "Tomás Ó Criomhthain", "type": "Person"},
+    {"entity": "Muiris Ó Súilleabháin", "type": "Person"},
+    {"entity": "Peig Sayers", "type": "Person"},
+    {"entity": "Máirtín Ó Cadhain", "type": "Person"},
+    {"entity": "Flann O'Brien", "type": "Person"},
+    {"entity": "Diarmaid Ó Súilleabháin", "type": "Person"},
+    {"entity": "Máirtín Ó Direáin", "type": "Person"},
+    {"entity": "Seán Ó Ríordáin", "type": "Person"},
+    {"entity": "Máire Mhac an tSaoi", "type": "Person"},
+    {"entity": "Innti", "type": "Institution"},
+    {"entity": "Comhar", "type": "Institution"}
+  ],
+  "attributes": [
+    {"entity": "Irish Literature: since 1922", "attribute": "treats writing in Irish from the founding of the state onward"},
+    {"entity": "Séamus Ó Grianna", "attribute": "leading regional novelist whose Donegal stories display a keen sense of irony"},
+    {"entity": "Gaeltacht autobiography", "attribute": "brought to fame by the writers of the Great Blasket islands"},
+    {"entity": "Máirtín Ó Cadhain", "attribute": "author of Cré na Cille, a satirical novel spoken by the dead in a graveyard"},
+    {"entity": "An Béal Bocht", "attribute": "Flann O'Brien's parody of the clichés of regional literature"},
+    {"entity": "Innti", "attribute": "Cork journal founded in 1970 that spurred a surge of new Irish poetry"}
+  ],
+  "okr": {
+    "objective": "Present the development of Irish-language literature from 1922 to the present day.",
+    "key_results": [
+      "Describe the regional fiction and Gaeltacht autobiography of the early decades",
+      "Explain the social criticism of Máirtín Ó Cadhain and the parody of Flann O'Brien",
+      "Name the journals and publishing houses that supported new writing",
+      "Trace the growing boldness of the novel from the nineteen sixties",
+      "Identify the leading poets and the influence of the Innti generation"
+    ],
+    "evidence": "Koch 2006, s.v. 'Irish Literature: since 1922'."
+  },
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "sources": ["Koch 2006, s.v. 'Irish Literature: since 1922'"]
+}

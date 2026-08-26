@@ -1,0 +1,38 @@
+{
+  "name": "Jocelin of Furness",
+  "text": "Jocelin of Furness was a Cistercian monk at the abbey of Furness, which now lies in Cumbria. He specialised in the Lives of the saints. He served communities in Ireland, Scotland, and England during the twelfth and early thirteenth centuries. His significance rests on reshaping old traditions of the saints for a new Anglo-Norman audience. His earliest known work was a Life of Kentigern. He wrote it for the Bishop of Glasgow, who ruled from 1175 to 1199. He then produced a fuller Life of Patrick between 1180 and 1201. His patron for that book was John de Courcy, the ruler of Ulster. He also composed a Life of Helena and a Life of Waltheof. The second piece concerned a kinsman of the Scottish King David. He worked there from fresh material, unlike most of his tasks. He may be the abbot of the Rushen house on the Isle of Man named in a charter of 1188. The name was not Celtic, but it became common in Brittany.",
+  "entities": [
+    {"entity": "Jocelin of Furness", "type": "Person"},
+    {"entity": "Furness", "type": "Place"},
+    {"entity": "Cumbria", "type": "Place"},
+    {"entity": "Ireland", "type": "Place"},
+    {"entity": "Scotland", "type": "Place"},
+    {"entity": "Life of Kentigern", "type": "Work"},
+    {"entity": "Life of Patrick", "type": "Work"},
+    {"entity": "John de Courcy", "type": "Person"},
+    {"entity": "Isle of Man", "type": "Place"}
+  ],
+  "attributes": [
+    {"entity": "Jocelin of Furness", "attribute": "was a Cistercian monk at the abbey of Furness in modern Cumbria"},
+    {"entity": "Jocelin of Furness", "attribute": "wrote a Life of Kentigern for the Bishop of Glasgow"},
+    {"entity": "Jocelin of Furness", "attribute": "composed a Life of Patrick between 1180 and 1201 for John de Courcy"},
+    {"entity": "Jocelin of Furness", "attribute": "reshaped older traditions of the Celtic saints for Anglo-Norman patrons"},
+    {"entity": "Jocelin of Furness", "attribute": "may be the abbot of Rushen named in a charter of 1188"},
+    {"entity": "Jocelin of Furness", "attribute": "worked from fresh material only in his Life of the Waltheof"}
+  ],
+  "okr": {
+    "objective": "Present the career and writings of Jocelin of Furness as a hagiographer.",
+    "key_results": [
+      "Locate his abbey at Furness in Cumbria",
+      "List his surviving Lives of the saints",
+      "Identify his patron John de Courcy and the Life of Patrick",
+      "Describe his role in reshaping traditions of the Celtic saints",
+      "Note his possible ties to the Isle of Man and Brittany"
+    ],
+    "evidence": "Koch 2006, s.v. 'Jocelin of Furness'."
+  },
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "sources": ["Koch 2006, s.v. 'Jocelin of Furness'"]
+}

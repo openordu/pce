@@ -1,0 +1,73 @@
+{
+  "name": "Irish Drama",
+  "text": "Irish Drama in the modern sense took shape in two streams, one in English and one in Irish. The first language revival near the close of the 19th century drove activists to join Irish and theatre. Douglas Hyde and other pioneers faced hard tasks, including learning stagecraft and creating the working vocabulary of the stage. The old word for a play, cluiche, gave way to dráma, and the coined term amharclann won favour for theatre. The Gaelic League pushed drama at its Oireachtas competitions. In 1923 the co-operative An Comhar Drámuíochta began putting on plays at the Abbey Theatre in Dublin. Funded by modest government money, it worked for twenty years and joined the Abbey in 1942. In 1928 Galway gained Taibhdhearc na Gaillimhe, its Irish-language theatre. Ernest Blythe made the Abbey a bilingual national theatre from 1941 to 1967.",
+  "entities": [
+    {
+      "entity": "Irish Drama",
+      "type": "Literature"
+    },
+    {
+      "entity": "Douglas Hyde",
+      "type": "Person"
+    },
+    {
+      "entity": "Ernest Blythe",
+      "type": "Person"
+    },
+    {
+      "entity": "Abbey Theatre",
+      "type": "Institution"
+    },
+    {
+      "entity": "An Comhar Drámuíochta",
+      "type": "Institution"
+    },
+    {
+      "entity": "Taibhdhearc na Gaillimhe",
+      "type": "Institution"
+    },
+    {
+      "entity": "Gaelic League",
+      "type": "Institution"
+    },
+    {
+      "entity": "Dublin",
+      "type": "Place"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Irish Drama",
+      "attribute": "runs in both English and Irish streams"
+    },
+    {
+      "entity": "Abbey Theatre",
+      "attribute": "became a bilingual national theatre under Ernest Blythe"
+    },
+    {
+      "entity": "An Comhar Drámuíochta",
+      "attribute": "staged plays in Dublin from 1923 and joined the Abbey in 1942"
+    },
+    {
+      "entity": "Douglas Hyde",
+      "attribute": "led pioneering Irish-language drama"
+    }
+  ],
+  "sources": [
+    "Koch 2006, s.v. 'Irish_Drama'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Documents the development of Irish Drama in its Irish and English streams, including the founding of the Abbey Theatre.",
+    "key_results": [
+      "Traces the movement to the first language revival at the close of the 19th century",
+      "Records the building of a dramatic vocabulary in Irish",
+      "Notes An Comhar Drámuíochta and its merger into the Abbey in 1942",
+      "Records Taibhdhearc na Gaillimhe in Galway from 1928",
+      "Notes Ernest Blythe's bilingual Abbey from 1941 to 1967"
+    ],
+    "evidence": "Koch 2006, s.v. 'Irish_Drama'"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "name": "London",
+  "text": "London is the capital of England, seated on the River Thames at the easternmost point at which the river could historically be bridged. The ancient settlement, known as Lundinion and called Llundain in Welsh, grew into the largest town of Roman Britain, with both literary record and archaeological finds showing unbroken occupation through the Dark Ages. Its long history has made systematic excavation difficult beneath the dense urban build-up. The Thames passage gives London a focus of belief and ritual, and the great number of prestige objects recovered from the river, many of Continental Iron Age types, shows how the site sat at a crossroads of trade and watery deposition.",
+  "entities": [
+    {
+      "entity": "London",
+      "type": "Place"
+    },
+    {
+      "entity": "Lundinion (London)",
+      "type": "Place"
+    },
+    {
+      "entity": "Llundain",
+      "type": "Place"
+    },
+    {
+      "entity": "River Thames",
+      "type": "Place"
+    },
+    {
+      "entity": "Roman Britain",
+      "type": "Place"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "London",
+      "attribute": "capital of England seated on the River Thames"
+    },
+    {
+      "entity": "Llundain",
+      "attribute": "Welsh name for London"
+    },
+    {
+      "entity": "Lundin (London)",
+      "attribute": "ancient town known in Welsh as Llundain"
+    },
+    {
+      "entity": "River Thames",
+      "attribute": "source of numerous watery deposits and ritual finds"
+    },
+    {
+      "entity": "London",
+      "attribute": "largest town of Roman Britain with continuous occupation"
+    }
+  ],
+  "sources": [
+    "Koch 2006, s.v. 'London'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Record London as a verified PCE place node.",
+    "key_results": [
+      "Editorial text written of at least 150 chars.",
+      "Entities and attributes recorded for the city and the Thames.",
+      "Protected fields set to empty defaults."
+    ],
+    "evidence": "Koch 2006, s.v. 'London'."
+  }
+}

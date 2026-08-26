@@ -1,0 +1,31 @@
+{
+  "name": "Kostolac-Pecv ine",
+  "text": "At Kostolac-Pecv ine a late Iron Age burial ground has been uncovered on the Pecine fallow, beside the Roman city of Viminacium, now Kostolac in Serbia. The find shows that La Tene material moved into the Balkans from the north-west around the 3rd century bc. This intrusion is tied to the peoples who arrived and formed the Scordisci. Greek and Roman writers judged that group to be Celts. Forty newly found graves included some from the older local population. The rest, mostly inhumations and cremations, carried La Tene-style goods and are linked to the Scordisci. Male graves held weapons.",
+  "entities": [
+    {"entity": "Kostolac-Pecv ine", "type": "Place"},
+    {"entity": "Viminacium", "type": "Place"},
+    {"entity": "Scordisci", "type": "Group"},
+    {"entity": "La Tene", "type": "concept"},
+    {"entity": "Kostolac", "type": "Place"}
+  ],
+  "attributes": [
+    {"entity": "Kostolac-Pecv ine", "attribute": "is a late Iron Age graveyard near the Roman city of Viminacium in Serbia"},
+    {"entity": "Kostolac-Pecv ine", "attribute": "shows La Tene material arriving from the north-west in the 3rd century BC"},
+    {"entity": "Scordisci", "attribute": "were regarded as Celts in the Greek and Roman Greek accounts"},
+    {"entity": "Kostolac-Pecv ine", "attribute": "is taken as evidence for Celtic expansion into the Balkans"}
+  ],
+  "okr": {
+    "objective": "Present the Iron Age necropolis of Kostolac-Pecv in and its Celtic links.",
+    "key_results": [
+      "Locate the grave site near Viminacium in Serbia",
+      "Show the arrival of La Tene material from the north-west in the 3rd century BC",
+      "Link the intrusive burials to the Scordisci",
+      "Support the idea of Celtic expansion into the Balkans"
+    ],
+    "evidence": "Koch 2006, s.v. 'Kostolac-Pecv ine'."
+  },
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "sources": ["Koch 2006, s.v. 'Kostolac-Pecv ine'"]
+}

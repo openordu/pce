@@ -1,0 +1,65 @@
+{
+  "name": "Llyfr Ancr Llanddewibrefi",
+  "text": "Llyfr Ancr Llanddewibrefi, meaning the Book of the Anchorite, also carries the name Black Book of Llanddewibrefi. It is an important fourteenth-century Welsh manuscript, today kept as Oxford Jesus College MS 119 in the Bodleian Library. A note attached to the preface of the first text dates the volume to 1346 and says it was made for a patron named Gruffudd, son of Llywelyn, son of Phylip, son of Trahaearn, from Cantref Mawr, at the urging of a friend who was an anchorite, a religious hermit, at Llanddewibrefi. The anchorite probably served as both compiler and scribe rather than as author, since many of the texts show clear signs of copying. The manuscript is a small vellum quarto of one hundred and forty-four folios, some of them lost, and it stands in a regular monastic hand. It contains seventeen items, mostly apocryphal, didactic, biblical, mystical, hagiographical, and devotional prose, though the closing piece is literary rather than sacred. The contents include the story of Lucidar, an account of the Virgin Mary's ascent to heaven, a life of St Dewi, and other creedal texts. The volume also holds the Gospel of John, supplied there under the name 'Ieuan Ebostol'. Because it is the earliest and fullest gathering of its kind, the manuscript provides key evidence for the fourteenth-century Welsh prose dialect.",
+  "entities": [
+    {
+      "entity": "Llyfr Ancr Llanddewibrefi",
+      "type": "Artefact"
+    },
+    {
+      "entity": "Gruffudd ap Llywelyn ap Phylip ap Trahaearn",
+      "type": "Person"
+    },
+    {
+      "entity": "Oxford Jesus College",
+      "type": "Institution"
+    },
+    {
+      "entity": "Bodleian Library",
+      "type": "Place"
+    },
+    {
+      "entity": "Ieuan Ebostol",
+      "type": "Text"
+    },
+    {
+      "entity": "Llanddewibrefi",
+      "type": "Place"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Llyfr Ancr Llanddewibrefi",
+      "attribute": "is a fourteenth-century Welsh manuscript dated to 1346 and kept as Oxford Jesus College MS 119"
+    },
+    {
+      "entity": "Llyfr Ancr Llanddewibrefi",
+      "attribute": "was written at the request of Gruffudd ap Llywelyn ap Phylip ap Trahaearn by an anchorite of Llanddewibrefi"
+    },
+    {
+      "entity": "Llyfr Ancr Llanddewibrefi",
+      "attribute": "holds seventeen items of religious prose, including the Gospel of John called 'Ieuan Ebostol'"
+    },
+    {
+      "entity": "Llyfr Ancr Llanddewibrefi",
+      "attribute": "provides evidence for a fourteenth-century Welsh prose dialect"
+    }
+  ],
+  "okr": {
+    "objective": "Present the Llyfr Ancr Llanddewibrefi manuscript and its contents.",
+    "key_results": [
+      "Identify the manuscript as Oxford Jesus College MS 119 and the Black Book of Llanddewibrefi",
+      "Date the volume to 1346 and name the anchorite scribe who made it",
+      "List the main religious prose items in the collection",
+      "Single out the Gospel of John as 'Ieuan Ebostol'",
+      "Note the value of the manuscript for the fourteenth-century Welsh prose dialect"
+    ],
+    "evidence": "Koch 2006, s.v. 'Llyfr Ancr Llanddewibrefi'."
+  },
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "sources": [
+    "Koch 2006, s.v. 'Llyfr Ancr Llanddewibrefi'"
+  ]
+}

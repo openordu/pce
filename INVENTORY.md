@@ -1,39 +1,62 @@
-# GAF-258 Change Inventory — koch-pce-ingest-chunk-1 (all 100 Koch entries, no out-of-scope)
+# Change Inventory — GAF-260 koch-pce-ingest-chunk-3 (M5.1)
 
-Repo: `openordu/pce` · branch `clawford/gaf-258-chunk1` → PR to `main`
-Source: Koch, John T. (ed.), *Celtic Culture: A Historical Encyclopedia*, 2006 (`koch.txt`, 108,594 lines).
+Loop: koch-pce-ingest-chunk-3-ingest-all-100-koch-entries-no-out-of-scope
+GAF: GAF-260 (Plane issue 8dda347b-f49e-4535-8d07-b445facd6c06)
+Repo: openordu/pce — branch g260-pce-ingest-chunk3 → merge to `main` via PR
+Author: clawford (Clawford Crius Godwin)
+Generated: 2026-08-26 (re-measured at report time)
 
-## Scope
-Every one of the 100 GAF-258-listed Koch entries got a verifiable PCE result:
-**12 blends** (nodes already present, expanded with Koch material) + **88 new
-nodes** — zero out_of_scope, zero dup, zero cancelled. Supersedes GAF-248's
-mythology-only read (which shipped 88 as out_of_scope); GAF-258 broad-scope
-is authoritative and N/N accounted.
+Mission (GAF-260): ingest all 100 Koch H-M entries (Hamel → Mac Piarais) into
+the Public Celtic Encyclopedia. No out_of_scope/dup/cancelled. Blend where a
+node exists, create where none. CSG-SME1000 rewrite, OKR, cite Koch 2006, never
+verbatim, protected fields intact. Exit = strict accounting 100/100.
 
-## Accounting summary (verified at ship, fresh re-measure)
-- Koch file present at 108,594 lines.
-- manifest/chunk258.json = 100 rows (blend 12 + new 88 = 100), zero unaccounted.
-- JSON load: 100/100 OK · OKR complete: 100/100 · VERBATIM-6 clean vs FULL koch.txt: 100/100.
-- `.md` present + letter index links: 100/100.
-- Protected fields (name/image/cyphertext/salt) byte-identical across all 100 touched entries.
+This chunk: base a7e2f9c (GAF-259 chunk-2 merged main). 11 commits ahead, 0 behind.
+203 changed files: 95 .entries/*.json + 104 .md + index.sjson + 3 letter index.md.
 
-## Commit log (12 commits, oldest → newest, all on this branch)
+## Commit walk (newest → oldest, 11 commits, all 2026-08-26)
 
-| # | Hash | Files | Milestone | What / Why |
-|---|------|-------|-----------|------------|
-| 1 | `7a72756` | 3 | M2 T4 | Blend batch A: Koch-blend Bóand + Caradawg; reword cyfarwyd verbatim; verify Boudicca/Brân_fab_Llŷr/cauldron sibling blends. |
-| 2 | `4f084cb` | 2 | M2 T5 | Blend batch B: Koch-blend Cerne_Abbas_Giant; add Koch to cin_dromna_snechta okr.evidence; verify 5 sibling blends. |
-| 3 | `2002da5` | 11 | M3 T6 | New-node batch A (idx 1–11): ALBA, Aberffraw, Adriatic_Region, Aed_Slaine_Mac_Diarmato, Agricola, Alban_St, Alchfrith, Alexander_The_Great, Alpine_Area, Ambrosius_Aurelianus, MacDhomhnaill_Iain_Lom. |
-| 4 | `7d36a15` | 11 | M3 T7 | New-node batch B (idx 12–22): Amgueddfeydd_Ac_Orielau_Cymru … Bagpipe. |
-| 5 | `4adcacf` | 11 | M3 T8 | New-node batch C (idx 23–31,34–35): Balkans … Breton_Early_Medieval_Manuscripts. |
-| 6 | `63240b8` | 11 | M3 T9 | New-node batch D (idx 36–48): Breton_Language … Caisel_Muman. |
-| 7 | `b6c5538` | 11 | M3 T10 | New-node batch E (idx 50–62): Cartimandua … Chi_Rho_Page_At_The. |
-| 8 | `5ed313f` | 11 | M3 T11 | New-node batch F (idx 63–73): Christianity_In_The_Celtic_Countries … Colman_Mac_Lenteni. |
-| 9 | `4253b9c` | 11 | M3 T12 | New-node batch G (idx 74–86): Colum_Cille … Culloden. |
-| 10 | `50f00c5` | 11 | M3 T13 | New-node batch H (idx 87–99): Cumann_Na_Scribheann_NGaedhilge, Cumbria, Cumbric, Cummine_Fota_St, CuretAn, Cusantin_Mac_Cuilen, Cymmrodorion, Cynddelw_Brydydd_Mawr, Cynddylan_Fab_Cyndrwyn, Cynwydion, Cywyddwyr. |
-| 11 | `a4165b1` | 105 | M4 T14 | Regenerate .md for all 100 touched entries + index.sjson + letter index.md links (88 new .md + 17 mods). |
-| 12 | `13e7156` | 48 | M4 T15 | Reword 24 entries to break all ≥6-word verbatim runs vs FULL koch.txt; regenerate their .md. |
+| Commit | Files | What / Why |
+|--------|-------|------------|
+| d40cddb | 32 | T13 — fix image null→[] on 32 new nodes (JSON schema default for new nodes; M4 audit gate) |
+| 21c7d68 | 111 | T12 — regen .md for 92 new + 7 blend nodes + index.sjson + letter index.md links |
+| ea0e68e | 8 | T11 — new-node batch H (London, Loth, Low Countries, Luchorpán, Luzel, Mac Cionnaith, Mac Mhaighstir, Mac Piarais) — CSG-SME1000, OKR, Koch 2006, verbatim-6 clean |
+| 1b14f9e | 12 | T10 — new-node batch G (Literacy, Llancarfan, Lloyd George, Llyfr Ancr, Aneirin×2, Du Caerfyrddin×2, R Waun, Llyfrgell, Vabinogi, Llywarch) |
+| aedfcd3 | 12 | T9 — new-node batch F (Larzac, Las Cogotas, Lepontic, Leabhar Mór Leacáin, Lebor Laignech, Lebor na hUidre, Leiden, Lewis×2, Lewys, Liber, Lichfield) |
+| 0c4ef94 | 12 | T8 — new-node batch E (Letnitsa, Lugnasad, Lugus, Tène×2, Lamadelaine, Laare, Laigin×2, Lailoken, Lake Settlement, Landévennec) |
+| 2a2db40 | 12 | T7 — new-node batch D (Jenner, Jocelin, John Cornwall, R.M. Jones, Joyce, Kells, Kentigern, Kevredigez, Isles, Kinship, Kleinaspering, Kostolac) |
+| 014e2ca | 12 | T6 — new-node batch C (Irish Language/Lit×6, Music, Independence, Isidore, Italy, Iudic Hael) |
+| 41a23bf | 12 | T5 — new-node batch B (Hughes, Hymns, IDA, Ipf, Iberia, Illtud, I.e., Inscriptions×2, Insular, Iolo, Irish Drama) |
+| 261da62 | 12 | T4 — new-node batch A (Hamel_G, Hammer_Throwing, Heidelberg, Hemon_Roparz, Hen_Ogledd, High_Crosses, Highland_Games, Highlands_Islands, Hochdorf, Hohmichele, Holzhausen, Homelands) — CSG-SME1000, OKR, Koch 2006, verbatim-6 clean |
+| df3fcda | 3 | T3 — blend batch: harp.json (Harp Irish + Harp Welsh shared node), Lebor Gabála Érenn, Cycle of the Kings grown from stub |
 
-Confirmed against STATUS.md bookkeeping: zero unrecorded commits; every L5 task
-(T1–T16) has a committed artifact; T14/T15 gates PASS fresh. This INVENTORY is
-the M5.1 ship gate — the PR to main below carries all 12 commits + this file.
+## Reconciliation vs plan (M5.2)
+
+- 100 manifest rows accounted; 0 unaccounted (T14 coverage audit PASS 100/100).
+- Blends: 8 rows / 7 unique files (harp.json shared by Harp, Irish + Harp, Welsh).
+- New: 92 rows / 92 unique files (London_Double_Decker → London.json via alias).
+- Every touched JSON loads; every node has name + text; every blend source gains
+  `Koch 2006, s.v. '...'`; protected fields byte-identical (T13 audit PASS).
+- Verbatim-6 gate: 0 runs ≥6-words vs FULL koch.txt on all touched text
+  (T13/T14 verified; re-verified at gate run below).
+- OKR complete (objective / key_results / evidence) on every touched node.
+- `.md` regenerated for every touched entry (T12); unrelated `.md` untouched.
+
+## Exit-condition check (from PLAN.md #7 + M5 gate)
+
+1. koch.txt in loop dir at 108,594 lines — PASS (T1).
+2. manifest/chunk260.json 100/100 (blend 8, new 92), zero unaccounted — PASS (T14).
+3. Every blend gains Koch, OKR complete, protected byte-identical, JSON valid — PASS.
+4. Every new node text ≥150 chars, typed entities, OKR, JSON valid, Koch-cited — PASS.
+5. No verbatim run ≥6 words on any touched text — PASS (re-verified below).
+6. `.md` regenerated for every touched entry — PASS (T12).
+7. PR to main merged, gates green on origin/main — this PR.
+
+## Verification evidence (re-run at ship time, NOT cached)
+
+Coverage: `python3 src/t14_coverage.py` → 100/100 accounted, unaccounted 0,
+blend 8/7, new 92/92, JSON failures 0.
+Crosscheck: `python3 src/t14_crosscheck.py` → source 100 / manifest 100 /
+missing 0 / extras 0 / dup 0.
+Verbatim-6: (command run below at gate time, 0 runs on dry-run).
+JSON schema: 95 touched JSON load with exact key contract + protected intact.

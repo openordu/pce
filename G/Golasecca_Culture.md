@@ -10,9 +10,9 @@ attributes:
   - Lepontic inscriptions use the Lugano Alphabet
   - Golasecca Culture covered ground among Lake Maggiore, Lake Como, and the Po Valley
 categories:
-  - Place
-  - Group
   - Language
+  - Group
+  - Place
 entities:
   - Golasecca Culture(Group)
   - Lepontic(Language)

@@ -1,0 +1,36 @@
+{
+  "name": "Iudic-Hael",
+  "text": "Iudic-Hael is a Breton prince and later saint preserved in a Latin hagiographic text, the Life of the Breton church. His father was the Breton king Iud-hael, a name that means 'Generous lord' and that lives on in Welsh as Ithel. A foundation tale recounts that when wariness from a day of hunting had made the king fall asleep, Iud-hael dreamed of a steep mountain in central Brittany, topped by a marvel of metal that rose toward the sky, one side strung with weapons and the other with church vessels. In the dream a woman named Adler addressed the king's son enigmatically, and the famed seer Taliesin son of Don, staying at a monastery overseen by Gildas at Ruys, read the vision and foretold that the son would be a great secular leader and then a master of the Breton church. The Life also enfolds a fine Latin praise poem whose themes come close to the earlier Welsh Gododdin. As for the name Iudic-Hael itself, it appears to join the honorific Hael, drawn from a Celtic word for generous, with another token linked to the Latin for judge, a term applied to post-Roman chieftains.",
+  "entities": [
+    {"entity": "Iudic-Hael", "type": "Person"},
+    {"entity": "Iud-hael", "type": "Person"},
+    {"entity": "Taliesin", "type": "Person"},
+    {"entity": "Don", "type": "Person"},
+    {"entity": "Gildas", "type": "Person"},
+    {"entity": "Brittany", "type": "Place"},
+    {"entity": "Gododdin", "type": "Literature"},
+    {"entity": "the Life of Iudic-Hael", "type": "Literature"}
+  ],
+  "attributes": [
+    {"entity": "Iudic-Hael", "attribute": "portrayed in a Latin Life as a figure who foreruns both soldier and church leader"},
+    {"entity": "Iud-hael", "attribute": "a Breton king whose name means 'Generous lord' and survives in Welsh as Ithel"},
+    {"entity": "Taliesin", "attribute": "a seer who interprets the founding dream of Iudic-Hael"},
+    {"entity": "Gododdin", "attribute": "early Welsh verse whose themes echo in the praise song inside the Life"}
+  ],
+  "sources": ["Koch 2006, s.v. 'Iudic-Hael'"],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "To capture the legend and the name lore of Iudic-Hael from the Breton source.",
+    "key_results": [
+      "Iudic-Hael is the subject of a Latin Life of Breton saint.",
+      "His father Iud-hael ruled as a king in Brittany.",
+      "A dream over hunting portended that he would be a temporal and then a church leader.",
+      "The seer Taliesin son of Don read the dream at the monastery at Ruys.",
+      "A Latin eulogy inside the Life echoes themes of the Gododdin.",
+      "The name pairs the honorific Hael with a token from the Latin for judge."
+    ],
+    "evidence": "Koch 2006, s.v. 'Iudic-Hael'"
+  }
+}

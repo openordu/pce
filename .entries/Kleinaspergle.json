@@ -1,0 +1,31 @@
+{
+  "name": "Kleinaspergle",
+  "text": "Kleinaspergle sits just below the town of Asperg in the district of Ludwigsburg, Baden-Wurttemberg. It marks the resting place of an Iron Age prince of Celtic stock. The mound connects to the hill-fort of Hohenasperg, stands 6 m high, and spans 60 m across. Excavated in 1879, the main chamber had already been plundered. A smaller adjoining chamber held a rich Early La Tene burial with jewellery and drinking vessels. Two great drinking horns wrapped in gold leaf are the most celebrated finds, finished with ram's head terminals. Greek imports such as Attic kylikes give a close dating and help fix the early La Tene chronology.",
+  "entities": [
+    {"entity": "Kleinaspergle", "type": "Place"},
+    {"entity": "Hohenasperg", "type": "Place"},
+    {"entity": "Asperg", "type": "Place"},
+    {"entity": "La Tene", "type": "concept"},
+    {"entity": "Attic kylikes", "type": "concept"}
+  ],
+  "attributes": [
+    {"entity": "Kleinaspergle", "attribute": "is an Iron Age Celtic prince's grave south of Asperg in Baden-Wurttemberg"},
+    {"entity": "Kleinaspergle", "attribute": "links to the hill-fort of Hohenasperg and other barrows of the area"},
+    {"entity": "Kleinaspergle", "attribute": "held a rich Early La Tene burial with jewellery and gold drinking horns"},
+    {"entity": "Kleinaspergle", "attribute": "yields Greek imports that help date the early La Tene style"}
+  ],
+  "okr": {
+    "objective": "Present the Iron Age princely grave of Kleinaspergle and its significance.",
+    "key_results": [
+      "Locate Kleinaspergle and its link to the hill-fort of Hohenasperg",
+      "Describe the mound and its excavation in 1879",
+      "Detail the rich Early La appellant burial and its drinking vessels",
+      "Show how Greek imports date the early La Tene chronology"
+    ],
+    "evidence": "Koch 2006, s.v. 'Kleinaspergle'."
+  },
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "sources": ["Koch 2006, s.v. 'Kleinaspergle'"]
+}

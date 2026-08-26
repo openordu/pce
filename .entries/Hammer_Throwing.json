@@ -1,0 +1,60 @@
+{
+  "name": "Hammer throwing",
+  "text": "Hammer throwing is a staple event at the Highland Games. The athlete hurls a heavy iron hammer for distance across a field. The throw stands within the deep traditions of the Highland Gatherings. Those Gatherings today carry a romantic aura. The romanticism of the Games reached its peak with Sir Walter Scott, who died in 1832. Critics call the mood Balmorality by kitsch. Highland symbols became marks of Scottish national identity. Hammer throwing and the other events remain popular tourist attractions. They still present an image of Scotland that a world audience expects. The Braemar Highland Games, the premier games of the season, close each year with such displays.",
+  "entities": [
+    {
+      "entity": "Hammer throwing",
+      "type": "Event"
+    },
+    {
+      "entity": "Highland Games",
+      "type": "Event"
+    },
+    {
+      "entity": "Highlands",
+      "type": "Place"
+    },
+    {
+      "entity": "Braemar",
+      "type": "Place"
+    },
+    {
+      "entity": "Walter Scott",
+      "type": "Person"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Hammer throwing",
+      "attribute": "is an athletic throwing event at the Highland Games"
+    },
+    {
+      "entity": "Highland Games",
+      "attribute": "carry a romantic aura tied to Walter Scott"
+    },
+    {
+      "entity": "Highland Games",
+      "attribute": "are a tourist attraction today"
+    },
+    {
+      "entity": "Braemar",
+      "attribute": "hosts the premier Highland Games of the season"
+    }
+  ],
+  "sources": [
+    "Koch 2006, s.v. 'Hammer throwing'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Establishes hammer throwing as a Highland Games athletic event set within the romantic revival of the Scottish Gatherings.",
+    "key_results": [
+      "Describes hammer throwing as a distance event",
+      "Places the event within Highland Games tradition",
+      "Links the Games to the romanticism of Sir Walter Scott",
+      "Notes the Games as a modern tourist attraction"
+    ],
+    "evidence": "Koch 2006, s.v. 'Hammer throwing'"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "name": "Low Countries",
+  "text": "The Low Countries name the coastal lands of the Netherlands and Belgium, where scholars have long debated the Celtic or Germanic character of the ancient language. For most of the early twentieth century it was broadly believed that southern Netherlands fell inside a wider Celtic cultural sphere, yet the linguistic trace looked thin, with only between ten and fifteen Celtic loanwords counted in Dutch, most of them shared across the Germanic tongues. Romano-Celtic place-names such as Coriovallum and Noviomagos were often waved aside as a Roman habit for coining names with Gaulish elements. But the pre-Roman tribe of the Eburones, together with their leaders Ambiorix and Catuvolcus, bears clearly Celtic names, which proves the Celtic element preceded Caesar. During the later Roman era Celtic and Germanic speech sat alongside one another in the zone. The 1990 discovery of an inscription naming the god Hercules Magusanus backed Fleuriot's argument that the divine name rests on a Celtic compound of magus, meaning servant, and senos, meaning old.",
+  "entities": [
+    {
+      "entity": "Low Countries",
+      "type": "Place"
+    },
+    {
+      "entity": "Netherlands",
+      "type": "Place"
+    },
+    {
+      "entity": "Belgium",
+      "type": "Place"
+    },
+    {
+      "entity": "Eburones",
+      "type": "Group"
+    },
+    {
+      "entity": "Ambiorix",
+      "type": "Person"
+    },
+    {
+      "entity": "Catuvolcus",
+      "type": "Person"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Low Countries",
+      "attribute": "coastal lands of the Netherlands and Belgium"
+    },
+    {
+      "entity": "Netherlands",
+      "attribute": "carries a debated Celtic and Germanic linguistic boundary"
+    },
+    {
+      "entity": "Eburones",
+      "attribute": "pre-Roman tribe with chiefs of clearly Celtic name"
+    },
+    {
+      "entity": "Ambiorix",
+      "attribute": "Celtic-named chief of the Eburones"
+    }
+  ],
+  "sources": [
+    "Koch 2006, s.v. 'Low Countries'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Record the Celtic presence of the Low Countries.",
+    "key_results": [
+      "Editorial text written of at least 150 chars.",
+      "Entities and attributes recorded for the region and its peoples.",
+      "Protected fields set to empty defaults."
+    ],
+    "evidence": "Koch 2006, s.v. 'Low Countries'."
+  }
+}

@@ -12,10 +12,10 @@ attributes:
   - mabinogi a story of youth, from the Welsh word for a son
 categories:
   - Group
+  - Artifact
   - role
   - Being
   - Person
-  - Artifact
 entities:
   - Mabinogion(Artifact)
   - Four Branches(Artifact)

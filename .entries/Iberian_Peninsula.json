@@ -1,0 +1,64 @@
+{
+  "name": "Iberian Peninsula",
+  "attributes": [
+    {
+      "entity": "castros",
+      "attribute": "walled hilltop settlements of permanent occupation"
+    },
+    {
+      "entity": "Iberian Peninsula",
+      "attribute": "shares territory between Spain and Portugal"
+    },
+    {
+      "entity": "castros",
+      "attribute": "sizes range from two hectares in Galicia to sixty hectares at Ulaca"
+    },
+    {
+      "entity": "Almagro-Gorbea",
+      "attribute": "groups castros into proto-Celtic and later Celtic phases"
+    }
+  ],
+  "entities": [
+    {
+      "entity": "Iberian Peninsula",
+      "type": "Place"
+    },
+    {
+      "entity": "castros",
+      "type": "Archaeology"
+    },
+    {
+      "entity": "Galicia",
+      "type": "Place"
+    },
+    {
+      "entity": "Meseta",
+      "type": "Place"
+    },
+    {
+      "entity": "Celtiberia",
+      "type": "Place"
+    },
+    {
+      "entity": "Almagro-Gorbea",
+      "type": "Person"
+    }
+  ],
+  "sources": [
+    "Koch 2006, s.v. 'Iberian_Peninsula'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "text": "Iberian Peninsula names a broad territory of south-west Europe shared by Spain and Portugal. Koch reviews the Celtic peoples who lived there through archaeology. The evidence rests mainly on the castros, the walled hillfort settlements common across the region. These townships spanned the whole tract, from the Atlantic shore outward to the Ebro, and stayed in use for over a thousand years. They vary greatly in size, from under two hectares in Galicia to about twenty in the central Meseta. The largest example, the oppidum of Ulaca near Ávila, covers roughly sixty hectares. Almagro-Gorbea divides the occupation into a proto-Celtic phase and three later Celtic phases. Early castros appear in the twelfth century BC. The eastern fortresses later took up writing, coinage, the rotary quern, and imported fine-woolled sheep.",
+  "okr": {
+    "objective": "Establishes the Iberian Peninsula as the archaeological home of Celtic castros and their phased development.",
+    "key_results": [
+      "Records the castros as the chief evidence for Celtic settlement",
+      "Notes the range in size between Galicia and the Meseta",
+      "Presents the phased chronology of Almagro-Gorbea",
+      "Accounts for the eastern oppida and their later literacy and trade"
+    ],
+    "evidence": "Koch 2006, s.v. 'Iberian_Peninsula'"
+  }
+}

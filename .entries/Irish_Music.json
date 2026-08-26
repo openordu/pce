@@ -1,0 +1,87 @@
+{
+  "name": "Irish Music",
+  "text": "Irish Music in its common use names the living body of practice known as Irish traditional music. Much of the repertoire is not Irish in origin, for sizable parts reached Ireland from Britain and Scotland in the seventeenth and eighteenth centuries and from continental Europe during the nineteenth. The tradition passes down chiefly from ear to ear within families, stays conservative in taste, and remains largely a recreation rather than a paid art. Its oldest strata include laments or keenings, lullabies, and songs tied to ritual and to work. Ballads of the Fenian cycle, built around the hero Fionn mac Cumhaill and his son Oisin, reached their full growth in the sixteenth century. Much present-day dance music, such as jigs and marches, seems to descend from earlier pipe themes that include a piece marking a march. The first printed collection of traditional tunes was the Neal book of 1724, and Edward Bunting wrote down harp pieces heard at the 1792 meeting at Belfast. Later editors George Petrie and Captain Francis O'Neill recorded and spread the surviving dance music. The association Comhaltas Ceoltoiri Eireann, founded in 1952, has worked to foster and teach the music at home and abroad.",
+  "entities": [
+    {
+      "entity": "Irish traditional music",
+      "type": "Culture"
+    },
+    {
+      "entity": "Oisin",
+      "type": "Person"
+    },
+    {
+      "entity": "Fenian cycle",
+      "type": "Literature"
+    },
+    {
+      "entity": "sean-nos",
+      "type": "Culture"
+    },
+    {
+      "entity": "Edward Bunting",
+      "type": "Person"
+    },
+    {
+      "entity": "George Petrie",
+      "type": "Person"
+    },
+    {
+      "entity": "Francis O'Neill",
+      "type": "Person"
+    },
+    {
+      "entity": "Comhaltas",
+      "type": "Institution"
+    },
+    {
+      "entity": "harp",
+      "type": "Artifact"
+    },
+    {
+      "entity": "Fionn mac Cumhaill",
+      "type": "Person"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Irish traditional music",
+      "attribute": "handed down from ear to ear within families"
+    },
+    {
+      "entity": "sean-nos",
+      "attribute": "an unaccompanied single-voice manner of singing"
+    },
+    {
+      "entity": "Edward Bunting",
+      "attribute": "wrote down harp music in 1796 and 1840"
+    },
+    {
+      "entity": "Francis O'Neill",
+      "attribute": "issued popular books of dance music"
+    },
+    {
+      "entity": "Comhaltas",
+      "attribute": "a twentieth-century body formed to promote the teaching of the music"
+    }
+  ],
+  "sources": [
+    "Koch 2006, s.v. 'Irish Music'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "To lay out the sources, layers, and chief collectors of Irish Music.",
+    "key_results": [
+      "Irish Music is chiefly passed on by ear within families.",
+      "Large parts of the repertoire entered from Britain, Scotland, and continental Europe.",
+      "An older stratum includes laments, lullabies, and songs of ritual and labour.",
+      "The Fenian ballads about Fion and Oisin reached full form in the sixteenth century.",
+      "Printed collections of tunes began with the Neal book of 1724.",
+      "Edward Bunting, George Petrie, and Francis O'Neill recorded broad sets of the music.",
+      "The voluntary association fosters and teaches the music across Ireland and the diaspora."
+    ],
+    "evidence": "Koch 2006, s.v. 'Irish Music'"
+  }
+}

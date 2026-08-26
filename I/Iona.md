@@ -20,11 +20,11 @@ attributes:
   - Iona Community a Christian group that rebuilt the island's old buildings in the mid-20th century
   - Church of Scotland the body that consecrated the Iona abbey in 1959
 categories:
-  - Place
-  - Group
   - Concept
+  - Group
   - Artifact
   - Person
+  - Place
 entities:
   - Iona(Place)
   - Saint Columcille(Person)

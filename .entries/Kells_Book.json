@@ -1,0 +1,33 @@
+{
+  "name": "Kells, Book of",
+  "text": "Kells, Book of (Codex Cenannensis) names the illuminated Gospel manuscript today kept at Dublin, Trinity College Library, as MS 58. It ranks among the most richly decorated of the big Latin gospel-books that appeared in the British Isles in the years from the 7th into the 10th century. Scholars mostly hold that work on it began in about the later 8th century at the Columban monastery on Iona and that the book travelled inland to Kells in County Meath, where a Columban house rose at the start of the 9th century. Up to four scribes wrote in a bold insular majuscule script, and the overlap of lettering with painted ornament hints that the same hands supplied the pictures. Its decoration joins Celtic, Anglo-Saxon and Mediterranean styles in the insular Hiberno-Saxon manner. The artists layered three pigments and set three full-page miniatures unusually within the manuscript.",
+  "entities": [
+    {"entity": "Book of Kells", "type": "Work"},
+    {"entity": "Kells", "type": "Place"},
+    {"entity": "Iona", "type": "Place"},
+    {"entity": "Dublin", "type": "Place"},
+    {"entity": "Trinity College", "type": "Group"}
+  ],
+  "attributes": [
+    {"entity": "Book of Kells", "attribute": "is among the most decorated large illustrated Latin gospel-books produced in the British Isles"},
+    {"entity": "Book of Kells", "attribute": "was probably begun at the Columban monastery on Iona in the later 8th century"},
+    {"entity": "Book of Kells", "attribute": "was kept at Kells in County Meath during medieval times"},
+    {"entity": "Book of Kells", "attribute": "was written by as many as four scribes in a bold insular script"},
+    {"entity": "Book of Kells", "attribute": "unites Celtic, Anglo-Saxon and Mediterranean motifs in the insular Hiberno-Saxon style"}
+  ],
+  "okr": {
+    "objective": "Present the identity, origin and decoration of the illuminated Book of Kells.",
+    "key_results": [
+      "Identify the manuscript as Codex Cenannensis now at Trinity College Dublin",
+      "Locate its likely origin at Iona and its transfer to Kells",
+      "Describe the number of scribes and the insular script",
+      "Characterize the sources of the ornamental repertoire",
+      "Note the unresolved questions of origin and date"
+    ],
+    "evidence": "Koch 2006, s.v. 'Kells, Book of'."
+  },
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "sources": ["Koch 2006, s.v. 'Kells, Book of'"]
+}

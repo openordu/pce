@@ -1,0 +1,60 @@
+{
+  "name": "Lewis, John",
+  "text": "Lewis, John, was a Welsh barrister and antiquary. He lived from roughly 1548 to 1616. He came from Llanfihangel Nant Melan in Radnorshire. He was born at Harpton Court in Old Radnor. He gained admission as a barrister in 1570. Lewis held Geoffrey of Monmouth in high regard. He defended the Brutus legend against its critics. He also supported the Arthurian traditions. His only published work was The History of Great Britain. The book finally appeared in 1729. The antiquary Hugh Thomas of Breconshire helped ready it. By then the Tudor quarrel over the chronicle had cooled. Lewis thus stands as a guard of the founding myth of Britain. His writing kept an old national story alive.",
+  "entities": [
+    {
+      "entity": "Lewis, John",
+      "type": "Person"
+    },
+    {
+      "entity": "Geoffrey of Monmouth",
+      "type": "Person"
+    },
+    {
+      "entity": "Radnorshire",
+      "type": "Place"
+    },
+    {
+      "entity": "The History of Great Britain",
+      "type": "Artefact"
+    },
+    {
+      "entity": "Brutus legend",
+      "type": "concept"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Lewis, John",
+      "attribute": "a barrister and antiquary of Llanfihangel Nant Melan"
+    },
+    {
+      "entity": "Lewis, John",
+      "attribute": "gained admission as a barrister in 1570"
+    },
+    {
+      "entity": "Geoffrey of Monmouth",
+      "attribute": "much admired by Lewis for the founding legend of Britain"
+    },
+    {
+      "entity": "The History of Great Britain",
+      "attribute": "the only published work of Lewis, issued in 1729"
+    }
+  ],
+  "okr": {
+    "objective": "Present the life and work of the antiquary Lewis, John.",
+    "key_results": [
+      "Date his life to about 1548 to 1616 in Radnorshire",
+      "Note his admission as a barrister in 1570",
+      "State that his only work defended the Brutus legend and Arthurian traditions",
+      "Record the 1729 appearance of The History of Great Britain"
+    ],
+    "evidence": "Koch 2006, s.v. 'Lewis, John'."
+  },
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "sources": [
+    "Koch 2006, s.v. 'Lewis, John'"
+  ]
+}
