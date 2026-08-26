@@ -1,0 +1,65 @@
+{
+  "name": "Llyfr Du Caerfyrddin",
+  "text": "Llyfr Du Caerfyrddin, the Black Book of Carmarthen, was penned by a lone scribe around the year 1250. It stands among the earliest manuscripts composed wholly in the Welsh language. The codex works like a one-volume library, opening with the historical texts Ystorya Dared, Brut y Brenhinedd and Brut y Tywysogyon. A wide run of Gogynfeirdd poems follows, the verse of the medieval court poets of Wales. The book also holds poems about Myrddin, the legendary wild man of the Old North. The manuscript has an old link with Carmarthen Priory and later made its way to Cardiff. It now lives as National Library of Wales MS Peniarth 1.",
+  "entities": [
+    {
+      "entity": "Llyfr Du Caerfyrddin",
+      "type": "Artefact"
+    },
+    {
+      "entity": "Carmarthen",
+      "type": "Place"
+    },
+    {
+      "entity": "Myrddin",
+      "type": "Person"
+    },
+    {
+      "entity": "Gogynfeirdd",
+      "type": "Group"
+    },
+    {
+      "entity": "Ystorya Dared",
+      "type": "Text"
+    },
+    {
+      "entity": "Brut y Brenhinedd",
+      "type": "Text"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Llyfr Du Caerfyrddin",
+      "attribute": "is the Black Book of Carmarthen written by one scribe about 1250"
+    },
+    {
+      "entity": "Llyfr Du Caerfyrddin",
+      "attribute": "counts among the earliest manuscripts written entirely in Welsh"
+    },
+    {
+      "entity": "Llyfr Du Caerfyrddin",
+      "attribute": "opens with the historical texts Ystorya Dared, Brut y Brenhinedd and Brut y Tywysogyon"
+    },
+    {
+      "entity": "Llyfr Du Caerfyrddin",
+      "attribute": "holds Gogynfeirdd poetry and poems about Myrddin, linked to Carmarthen Priory"
+    }
+  ],
+  "okr": {
+    "objective": "Present the Black Book of Carmarthen as an early wholly Welsh manuscript.",
+    "key_results": [
+      "Identify it as the work of a single scribe dating to about 1250",
+      "Rank it among the earliest manuscripts written entirely in Welsh",
+      "List its opening historical texts Ystorya Dared, Brut y Brenhinedd and Brut y Tywysogyon",
+      "Describe its Gogynfeirdd poetry and poems about Myrddin",
+      "Trace its link with Carmarthen Priory"
+    ],
+    "evidence": "Koch 2006, s.v. 'Llyfr Du Caerfyrddin'."
+  },
+  "image": null,
+  "cyphertext": "",
+  "salt": "",
+  "sources": [
+    "Koch 2006, s.v. 'Llyfr Du Caerfyrddin'"
+  ]
+}
