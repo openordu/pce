@@ -1,60 +1,93 @@
 {
-    "name": "Dialog etre Arzur ha Guynglaff",
-    "text": "The Dialog etre Arzur ha Guynglaff is a verse piece in Middle Breton. Its full title names its two speakers. Arthur leads the exchange as a ruler of the Bretons. Guynglaff answers him across the whole talk. The piece works in the manner of a prophecy. It belongs to a set of Middle Breton sacred verse. That set includes later religious poems of the region. Within this body the dialogue ranks as the leading work. Its standing gives it a special worth. It gives rare proof of prophecy verse in Breton. The piece holds a central place in the Breton record.",
-    "okr": {
-        "objective": "Record the Middle Breton prophetic dialogue between Arthur and Guynglaff as the leading verse in its group.",
-        "key_results": [
-            "Capture the full title and its English sense.",
-            "Name Arthur as ruler of the Bretons and his companion Guynglaff.",
-            "Rate the piece above the other works in the same group."
-        ],
-        "evidence": "The source calls the dialogue a prophetic verse exchange between Arthur, ruler of the Bretons, and Guynglaff. It ranks the work first among the pieces in the set. Koch 2006 includes the dialogue in the Breton literature entry."
+  "name": "Dialog etre Arzur ha Guynglaff",
+  "text": "Koch gives the piece its full name in the Breton tongue. It dates the poem to about 1450, citing Piette and Fleuriot. Only poor copies from the 18th century survive today. One copy from 1710 follows a manuscript made in 1619. The text holds two hundred and forty-seven lines in a corrupt form. In the tale Arthur catches the prophet Guynglaff and presses his speech. Guynglaff then tells Arthur what would come before the world ends. The lines name the years 1470 through 1476 and again 1486 through 1488. They also name wars against the English and the ruin they spread. Most of these events never came, so the piece was written before 1470. It rests on hope of what the future might bring. Later lines point to events of the 16th century. Fleuriot reads Guynglaff as a face of the Brittonic seer Myrddin. The song links the Arthurian seer Merlin with the later prophet Roue Stefan. Piriou called the name a blessed sick man, tied to epilepsy. This is the oldest Arthurian writing that survives in the Breton tongue. The Dialog etre Arzur ha Guynglaff is a verse piece in Middle Breton. Its full title names its two speakers. Arthur leads the exchange as a ruler of the Bretons. Guynglaff answers him across the whole talk. The piece works in the manner of a prophecy. It belongs to a set of Middle Breton sacred verse. That set includes later religious poems of the region. Within this body the dialogue ranks as the leading work. Its standing gives it a special worth. It gives rare proof of prophecy verse in Breton. The piece holds a central place in the Breton record.",
+  "okr": {
+    "objective": "Record the Middle Breton prophetic dialogue between Arthur and Guynglaff as the leading verse in its group.",
+    "key_results": [
+      "Name Arthur as king of the Bretons and Guynglaff as his prophet.",
+      "Date the poem to about 1450 and note the later copies of its text.",
+      "Rate the piece as the leading verse of the Middle Breton body.",
+      "Link Guynglaff to Myrddin and to the Arthurian seer Merlin."
+    ],
+    "evidence": "Koch 2006 gives the song a full name and dates it to about 1450. It treats Guynglaff as a prophet tied to Myrddin and to the seer Merlin. The work is the oldest Arthurian writing to survive in Breton."
+  },
+  "entities": [
+    {
+      "entity": "Dialog etre Arzur ha Guynglaff",
+      "type": "text"
     },
-    "entities": [
-        {
-            "entity": "Dialog etre Arzur ha Guynglaff",
-            "type": "text"
-        },
-        {
-            "entity": "Arthur",
-            "type": "hero"
-        },
-        {
-            "entity": "Guynglaff",
-            "type": "figure"
-        },
-        {
-            "entity": "Bretons",
-            "type": "people"
-        },
-        {
-            "entity": "Middle Breton",
-            "type": "concept"
-        }
-    ],
-    "attributes": [
-        {
-            "entity": "Dialog etre Arzur ha Guynglaff",
-            "attribute": "prophetic dialogue"
-        },
-        {
-            "entity": "Dialog etre Arzur ha Guynglaff",
-            "attribute": "Middle Breton"
-        },
-        {
-            "entity": "Dialog etre Arzur ha Guynglaff",
-            "attribute": "Brittany"
-        },
-        {
-            "entity": "Dialog etre Arzur ha Guynglaff",
-            "attribute": "verse"
-        }
-    ],
-    "sources": [
-        "Koch 2006, s.v. \"Dialog etre Arzur ha Guynglaff\""
-    ],
-    "image": [],
-    "cyphertext": "",
-    "salt": "",
-    "order": 692
+    {
+      "entity": "Arthur",
+      "type": "hero"
+    },
+    {
+      "entity": "Guynglaff",
+      "type": "figure"
+    },
+    {
+      "entity": "Bretons",
+      "type": "people"
+    },
+    {
+      "entity": "Middle Breton",
+      "type": "concept"
+    },
+    {
+      "entity": "Myrddin",
+      "type": "figure"
+    },
+    {
+      "entity": "Merlin",
+      "type": "figure"
+    },
+    {
+      "entity": "Roue Stefan",
+      "type": "figure"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Dialog etre Arzur ha Guynglaff",
+      "attribute": "prophetic dialogue"
+    },
+    {
+      "entity": "Dialog etre Arzur ha Guynglaff",
+      "attribute": "Middle Breton"
+    },
+    {
+      "entity": "Dialog etre Arzur ha Guynglaff",
+      "attribute": "Brittany"
+    },
+    {
+      "entity": "Dialog etre Arzur ha Guynglaff",
+      "attribute": "verse"
+    },
+    {
+      "entity": "Dialog etre Arzur ha Guynglaff",
+      "attribute": "oldest Arthurian writing in Breton"
+    },
+    {
+      "entity": "Dialog etre Arzur ha Guynglaff",
+      "attribute": "dated to about 1450"
+    },
+    {
+      "entity": "Guynglaff",
+      "attribute": "prophet"
+    },
+    {
+      "entity": "Guynglaff",
+      "attribute": "face of Myrddin"
+    },
+    {
+      "entity": "Myrddin",
+      "attribute": "Brittonic seer"
+    }
+  ],
+  "sources": [
+    "Koch 2006, s.v. \"Dialog etre Arzur ha Guynglaff\""
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "order": 692
 }

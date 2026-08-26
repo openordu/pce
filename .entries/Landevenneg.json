@@ -1,0 +1,32 @@
+{
+  "name": "Landevenneg",
+  "text": "Landevenneg is an old Breton monastery, known in French as Landévennec, built at the head of the Brest harbour. The only account of its founding is the Vita Winwaloei, edited about 880 by its abbot Wrdisten. It tells how Saint Uuinuualoe, whom the Bretons call Gwennole or Guénolé, was born of Welsh parents who had settled in Armorica near Saint-Brieuc. After study with the monk Budoc on the island of Lavret, he came with eleven companions to a site by Brest harbour to found the house. A traditional date of ad 485 may be too early, though the family's arrival fits the Breton migrations. The Old Breton name Landeuinnoch means the monastic enclosure of Uuinuualoe. The first sure reference comes in a decree of 818, and in 913 Vikings plundered the abbey.",
+  "entities": [
+    {"entity": "Landevenneg", "type": "Institution"},
+    {"entity": "St Uuinuualoe", "type": "Person"},
+    {"entity": "Wrdisten", "type": "Person"},
+    {"entity": "Armorica", "type": "Place"},
+    {"entity": "Saint-Brieuc", "type": "Place"},
+    {"entity": "Brest", "type": "Place"},
+    {"entity": "Vita Winwaloei", "type": "Artefact"}
+  ],
+  "attributes": [
+    {"entity": "Landevenneg", "attribute": "a Breton abbey at the head of Brest harbour"},
+    {"entity": "St Uuinuualoe", "attribute": "the saint who founded the monastery with eleven companions"},
+    {"entity": "Landevenneg", "attribute": "plundered by Vikings in 913"}
+  ],
+  "okr": {
+    "objective": "Describe the founding and early history of the Breton abbey Landevenneg.",
+    "key_results": [
+      "Relate the Vita Winwaloei account of the founding",
+      "Name the founder and his journey from Armorica",
+      "Translate the Old Breton meaning of the name",
+      "Give the first sure reference and the 913 Viking raid"
+    ],
+    "evidence": "Koch 2006, s.v. 'Landevenneg'."
+  },
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "sources": ["Koch 2006, s.v. 'Landevenneg'"]
+}

@@ -1,0 +1,34 @@
+{
+  "name": "Gaeltacht",
+  "text": "The Gaeltacht is the collective name for Irish-speaking regions in Ireland that the state recognizes. These dwell over roots of English and Scottish plantations, together with evictions that pushed Irish farming families onto poor western land. Many holdings there stayed uneconomically small. Emigration, usually to the United States or Britain, drained whole communities. That flow remained a hard problem for later governments. The Housing (Gaeltacht) Act 1929 gave the Irish-speaking districts their first official standing, following the Dingle Commission's recommendation about which areas deserved that label. Statutory instruments later redrew the boundaries. Irish has survived best in two relocated settlements, Ráth Cairn and Baile Ghib in County Meath, which won recognition during the 1930s. By the early twenty-first century the recognized districts lay within seven counties only: Donegal, Mayo, Galway, Kerry, Cork, Waterford, and Meath. A dedicated department for the Gaeltacht and Irish appeared in 1956. Údarás na Gaeltachta, an industrial agency first set up in 1979, created jobs especially in the coastal area of Cois Fharraige and in Gaoth Dobhair. State grants and language programs still support the Irish-speaking communities today, while most new speakers learn the language at school and visit the Gaeltacht to practice conversation.",
+  "entities": [
+    { "entity": "Gaeltacht", "type": "region" },
+    { "entity": "Irish language", "type": "Language" },
+    { "entity": "Housing (Gaeltacht) Act 1929", "type": "institution" },
+    { "entity": "Údarás na Gaeltachta", "type": "institution" },
+    { "entity": "Donegal", "type": "Place" },
+    { "entity": "Ireland", "type": "Place" }
+  ],
+  "attributes": [
+    { "entity": "Gaeltacht", "attribute": "designated Irish-speaking regions recognized by the Irish state" },
+    { "entity": "Housing (Gaeltacht) Act 1929", "attribute": "gave first official standing to Gaeltacht districts" },
+    { "entity": "Gaeltacht", "attribute": "spoken districts span seven counties in the 21st century" },
+    { "entity": "Údarás na Gaeltachta", "attribute": "state development agency for the Gaeltacht since 1979" },
+    { "entity": "Gaeltacht", "attribute": "supported by state grants and Irish-language programs" }
+  ],
+  "sources": [
+    "Koch 2006, s.v. 'Gaeltacht'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Document the Gaeltacht as the state-designated Irish-speaking regions of Ireland.",
+    "key_results": [
+      "Describe the origins and the statutory basis of the designated districts",
+      "Name the seven counties that hold Gaeltacht regions in the 21st century",
+      "Cover the supporting state agencies and the current status of the language"
+    ],
+    "evidence": "Koch 2006, s.v. 'Gaeltacht'"
+  }
+}

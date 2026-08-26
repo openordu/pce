@@ -1,0 +1,58 @@
+{
+  "name": "Dewi Sant",
+  "text": "Dewi Sant, also known as Saint David, serves as the patron saint of Wales. He founded ascetic monasteries and became a symbol of the Welsh nation. A Latin life of Dewi was composed in the late eleventh century by Rhygyfarch. He reportedly founded twelve monasteries across Wales and England. He is said to have died on 1 March, likely in 588 or 602 AD.",
+  "entities": [
+    {
+      "entity": "Dewi Sant",
+      "type": "Person"
+    },
+    {
+      "entity": "Wales",
+      "type": "Place"
+    },
+    {
+      "entity": "Rhygyfarch",
+      "type": "Person"
+    },
+    {
+      "entity": "St David's",
+      "type": "Place"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Dewi Sant",
+      "attribute": "Patron saint of Wales"
+    },
+    {
+      "entity": "Dewi Sant",
+      "attribute": "Practiced ascetic monasticism"
+    },
+    {
+      "entity": "Dewi Sant",
+      "attribute": "Said to have founded twelve monasteries"
+    },
+    {
+      "entity": "Dewi Sant",
+      "attribute": "Traditionally died on 1 March"
+    }
+  ],
+  "sources": [
+    "Koch 2006, s.v. 'Dewi Sant'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Record a rewritten encyclopedia entry for the Welsh patron saint Dewi Sant.",
+    "key_results": [
+      "Name the saint as Dewi Sant and Saint David",
+      "State his role as patron saint of Wales",
+      "Note the late eleventh-century Life by Rhygyfarch",
+      "Give the traditional 1 March date of death"
+    ],
+    "evidence": [
+      "Koch 2006, s.v. 'Dewi Sant'"
+    ]
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Euffigneix",
+  "text": "Euffigneix sits in Haute-Marne, France. This ancient site produced a famous sandstone stele. The carving shows a divine figure with a beard. A torc rings his neck. A boar rises in high relief on his chest. Two large human eyes cut into the sides of the torso. The stele dates from the late 1st century BC. It shows early Roman influence on Gaulish sculpture. The discovery details remain unknown. Experts often take the man for a god, yet no assigned identity earns broad support. Le Duc proposed the god Lugus. The scene may tell a shape-shifting story linked to reincarnation. The Euffigneix stone is a central work of Iron Age Gaulish art.",
+  "entities": [
+    {"entity": "Euffigneix", "type": "Place"},
+    {"entity": "Euffigneix stele", "type": "Artifact"},
+    {"entity": "boar", "type": "Animal"},
+    {"entity": "torc", "type": "Artifact"},
+    {"entity": "Lugus", "type": "Deity"}
+  ],
+  "attributes": [
+    {"entity": "Euffigneix", "attribute": "is an archaeological site in Haute-Marne, France"},
+    {"entity": "Euffigneix stele", "attribute": "shows a bearded figure wearing a torc"},
+    {"entity": "Euffigneix stele", "attribute": "dates from the late 1st century BC"},
+    {"entity": "boar", "attribute": "appears in high relief on the stele chest"}
+  ],
+  "sources": ["Koch 2006, s.v. 'Euffigneix'"],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Document the Euffigneix sandstone stele and its Gaulish religious iconography.",
+    "key_results": [
+      "Record the site location in Haute-Marne, France",
+      "Describe the bearded figure, the torc, and the boar",
+      "State the dating to the end of the 1st century BC",
+      "Note the Lugus identification offered by Le Duc"
+    ],
+    "evidence": "Koch 2006, s.v. 'Euffigneix'"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "name": "Joyce, James",
+  "text": "Joyce, James Augustine — writing early as 'James Augustine Aloysius Joyce', the Irish modernist who died at Zürich in 1941 — came from Rathgar in Dublin where he was born in 1882. His middle-class Catholic family grew poorer because of his father's drinking, yet Jesuits schooled the young Joyce at Clongowes Wood, Belvedere and University College. In 1904 he sailed away with Nora Barnacle, who became his lifelong partner, settling first in Trieste and then, from 1920, in Paris. His volume Dubliners (1914) recalled the city he left; Ulysses (1922) followed one day in Dublin during June 1904 and won him international fame. The Wake (1939), locally titled Finnegan, closed his use of invented, layered language. Once a Parnellite, he turned against the Celtic revival, judging it sentimental and friendly to imperial views of Irish life. Repeated eye surgery left him nearly blind before he died of a duodenal ulcer in 1941.",
+  "entities": [
+    {"entity": "Joyce, James", "type": "Person"},
+    {"entity": "Dublin", "type": "Place"},
+    {"entity": "Rathgar", "type": "Place"},
+    {"entity": "Trieste", "type": "Place"},
+    {"entity": "Paris", "type": "Place"},
+    {"entity": "Nora Barnacle", "type": "Person"},
+    {"entity": "Ulysses", "type": "Work"},
+    {"entity": "Finnegans Wake", "type": "Work"},
+    {"entity": "Dubliners", "type": "Work"}
+  ],
+  "attributes": [
+    {"entity": "Joyce, James", "attribute": "was born in Rathgar, Dublin, in 1882 into a declining middle-class Catholic family"},
+    {"entity": "Joyce, James", "attribute": "was educated by Jesuits at Clongowes Wood, Belvedere and University College"},
+    {"entity": "Joyce, James", "attribute": "left Dublin with Nora Barnacle in 1904 and later lived in Trieste, Paris and Zürich"},
+    {"entity": "Ulysses", "attribute": "is set in Dublin on 16 June 1904 and secured Joyce's literary reputation"},
+    {"entity": "Joyce, James", "attribute": "rejected the Celtic revival as sentimental folklorism aligned with British imperial views"},
+    {"entity": "Joyce, James", "attribute": "died of a duodenal ulcer in 1941 after years of near-blinding eye operations"}
+  ],
+  "okr": {
+    "objective": "Present the life and chief works of the Irish modernist writer James Joyce.",
+    "key_results": [
+      "Give Joyce's birth, family and Jesuit education",
+      "Trace his self-exile from Dublin with Nora Barnacle",
+      "Name his principal prose works, including Ulysses and Finnegans Wake",
+      "Describe his stance toward the Celtic revival and Parnell",
+      "Record the circumstances of his death in 1941"
+    ],
+    "evidence": "Koch 2006, s.v. 'Joyce, James'."
+  },
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "sources": ["Koch 2006, s.v. 'Joyce, James'"]
+}

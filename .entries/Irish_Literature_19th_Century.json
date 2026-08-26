@@ -1,0 +1,40 @@
+{
+  "name": "Irish Literature: 19th century",
+  "text": "Irish Literature: 19th century here covers the decades from the Great Famine of the eighteen forties to the nineteen twenties. The famine years stand as the darkest point in the country's literary history, for Irish retreated sharply as a spoken tongue and its older verse lost formal energy. Even so, traditions persisted: popular song-poetry stayed alive though it grew more oral, looser in metre and given to stock phrasing. Manuscript copying continued, and writing gradually reached a popular audience, appearing in song collections and in Gaelic columns of journals such as The Nation and The Gael. The publisher John O'Daly worked from a Dublin bookshop to bring scribes, antiquarians and Young Ireland patriots together and printed collections of Munster poetry. Canon Ulick Bourke issued a grammar and helped found bodies that guarded the language. The true renewal came after 1893 with the Gaelic League, whose journal carried Fr Peadar Ó Laoghaire's Séadna, a folk tale retold in lively spoken Irish that delighted readers. The first Oireachtas festival met in 1897, and new prose and verse followed from writers such as Patrick Pearse, Pádraic Ó Conaire and Douglas Hyde.",
+  "entities": [
+    {"entity": "Irish Literature: 19th century", "type": "Literature"},
+    {"entity": "Great Famine", "type": "Concept"},
+    {"entity": "Gaelic League", "type": "Institution"},
+    {"entity": "John O'Daly", "type": "Person"},
+    {"entity": "Ulick Bourke", "type": "Person"},
+    {"entity": "Peadar Ó Laoghaire", "type": "Person"},
+    {"entity": "Patrick Pearse", "type": "Person"},
+    {"entity": "Pádraic Ó Conaire", "type": "Person"},
+    {"entity": "Douglas Hyde", "type": "Person"},
+    {"entity": "Dublin", "type": "Place"},
+    {"entity": "The Nation", "type": "Institution"}
+  ],
+  "attributes": [
+    {"entity": "Irish Literature: 19th century", "attribute": "covers the period from the Great Famine to the nineteen twenties"},
+    {"entity": "Great Famine", "attribute": "marked the darkest point in the literary history of the Irish language"},
+    {"entity": "Gaelic League", "attribute": "founded in 1893, drove the renewal of creative writing in Irish"},
+    {"entity": "John O'Daly", "attribute": "Dublin publisher who united scribes, antiquarians and nationalists and issued Munster poetry"},
+    {"entity": "Peadar Ó Laoghaire", "attribute": "wrote Séadna, an admired retelling of a folk tale in lively spoken Irish"},
+    {"entity": "Oireachtas festival", "attribute": "first held in 1897 to stimulate new Irish writing"}
+  ],
+  "okr": {
+    "objective": "Present the condition and revival of Irish-language literature in the nineteenth and early twentieth centuries.",
+    "key_results": [
+      "Describe the decline of Irish verse and prose after the Great Famine",
+      "Name the lasting traditions of popular song-poetry and manuscript copying",
+      "Identify the publishers and journals that brought Irish writing to a wider audience",
+      "Trace the renewal led by the Gaelic League and its journal",
+      "List the principal prose and poetry writers of the revival and their works"
+    ],
+    "evidence": "Koch 2006, s.v. 'Irish Literature: 19th century'."
+  },
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "sources": ["Koch 2006, s.v. 'Irish Literature: 19th century'"]
+}

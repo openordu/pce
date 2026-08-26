@@ -1,0 +1,52 @@
+{
+  "name": "Detail showing the",
+  "text": "The shoulders and part of a buttoned sleeve survive from an early woollen garment. Archaeologists found this woollen garment at Moy, County Clare, Ireland. The fragment preserves close-fitting, tailored details from medieval dress. Buttons ran down the sleeve of the garment. This find gives physical evidence for early Irish woollen clothing. Surviving woollen textiles are rare. The Moy garment therefore holds clear value for the study of Celtic dress.",
+  "entities": [
+    {
+      "entity": "Moy",
+      "type": "Place"
+    },
+    {
+      "entity": "County Clare",
+      "type": "Place"
+    },
+    {
+      "entity": "early woollen garment",
+      "type": "artefact"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "early woollen garment",
+      "attribute": "preserves the shoulders and part of a buttoned sleeve"
+    },
+    {
+      "entity": "Moy",
+      "attribute": "site where the woollen garment fragment was found"
+    },
+    {
+      "entity": "early woollen garment",
+      "attribute": "provides rare physical evidence for early Irish woollen clothing"
+    },
+    {
+      "entity": "buttoned sleeve",
+      "attribute": "reflects close-fitting, tailored medieval dress"
+    }
+  ],
+  "sources": [
+    "Koch 2006, s.v. 'Detail showing the'",
+    "Dunlevy, Mairead. Dress in Ireland. London, B.T. Batsford, 1989."
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Documents the early woollen garment fragment from Moy, County Clare, and its evidence for Celtic dress.",
+    "key_results": [
+      "Places the woollen garment at Moy in County Clare, Ireland",
+      "Notes the preserved shoulders and buttoned sleeve fragment",
+      "Frames the find as rare physical evidence for early Irish woollen clothing"
+    ],
+    "evidence": "Koch 2006, s.v. 'Detail showing the'"
+  }
+}

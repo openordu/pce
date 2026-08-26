@@ -1,0 +1,39 @@
+{
+  "name": "Irish Language",
+  "text": "Irish Language names a Goidelic Celtic tongue closely bound to historical Britain. In the historic period it was used not only in Ireland but also in Scotland from about the fifth century onward, and for a time in parts of the south-west of Wales. The oldest continuous traces of Irish appear in the ogam script, an early alphabet that probably took shape in the late fourth or early fifth century. Specialists commonly set out the growth of the language in phases running from Primitive Irish through Old Irish, Middle Irish, and Classical Modern Irish to the present speech. Old Irish is celebrated for its absolute and conjunct verb endings, an insular Celtic trait, and for the rich teaching written in its margins. The leading early witnesses are the Würzburg, Milan, and St Gall collections that annotate Latin biblical and grammatical writings. In the modern period English has become so strong that outside the official Gaeltacht districts the native speech is judged to be in decline. The three living dialect zones of Munster, Connacht, and Donegal mark the spoken language of today.",
+  "entities": [
+    {"entity": "Irish", "type": "Language"},
+    {"entity": "Scottish Gaelic", "type": "Language"},
+    {"entity": "ogam", "type": "Artifact"},
+    {"entity": "Old Irish", "type": "Language"},
+    {"entity": "the Würzburg glosses", "type": "Literature"},
+    {"entity": "the Milan glosses", "type": "Literature"},
+    {"entity": "St Gall glosses", "type": "Literature"},
+    {"entity": "Gaeltacht", "type": "Place"},
+    {"entity": "Munster", "type": "Place"},
+    {"entity": "Connacht", "type": "Place"}
+  ],
+  "attributes": [
+    {"entity": "Irish", "attribute": "a Goidelic group language spoken in Ireland and western Scotland from the fifth century"},
+    {"entity": "ogam", "attribute": "the script that holds the most ancient continuous Irish writing"},
+    {"entity": "Old Irish", "attribute": "known for an absolute and conjunct verbal inflection system"},
+    {"entity": "Gaeltacht", "attribute": "official districts where spoken Irish still survives though it is threatened"},
+    {"entity": "the Würzburg glosses", "attribute": "notes on the Pauline epistles produced around the year 750"}
+  ],
+  "sources": ["Koch 2006, s.v. 'Irish Language'"],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "To lay out the origins, historical phases, and early records of the Irish Language.",
+    "key_results": [
+      "The Irish Language was spoken in Ireland, Scotland, and parts of western Britain in the early historical period.",
+      "The ogam script carries the earliest continuous written records of the language.",
+      "Linguists divide Irish into stages from Primitive Irish down to the modern living language.",
+      "Old Irish is celebrated for a distinctive absolute and conjunct verb system.",
+      "The Würzburg, Milan and St Gall glosses are key early sources",
+      "In the modern era English threatens Irish except inside the Gaeltacht districts."
+    ],
+    "evidence": "Koch 2006, s.v. 'Irish Language'"
+  }
+}

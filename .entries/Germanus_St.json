@@ -1,0 +1,25 @@
+{
+  "name": "Germanus, St",
+  "text": "Germanus, St, a fifth-century bishop of Auxerre, was known as Garmon in Welsh tradition. He and Lupus, bishop of Troyes, helped British soldiers defeat a joint band of Pict and Saxon raiders inside a hidden valley. That fight became known as the Alleluia victory, for the troops shouted that word at their foes. About 447 he returned with Severus, bishop of Trier, to fight Pelagianism, which still troubled British Christians. The tenth-century prophecy Armes Prydain regards Garmon as a patron saint of the Britons, second only to Dewi Sant. Welsh dedications to Garmon span north and central Wales, including the name of the radio play Buchedd Garmon.",
+  "entities": [
+    {"entity": "Germanus of Auxerre", "type": "person"},
+    {"entity": "Lupus of Troyes", "type": "person"},
+    {"entity": "Severus of Trier", "type": "person"},
+    {"entity": "Dewi Sant", "type": "person"}
+  ],
+  "attributes": [
+    {"entity": "Germanus", "attribute": "bishop of Auxerre"},
+    {"entity": "Germanus", "attribute": "called Garmon in Welsh tradition"},
+    {"entity": "Germanus", "attribute": "led the battle known as the Alleluia victory"},
+    {"entity": "Germanus", "attribute": "returned to Britain with Severus of Trier"}
+  ],
+  "sources": ["Koch 2006, s.v. 'Germanus, St'"],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Document Germanus, St, the fifth-century bishop known as Garmon and later patron of the Britons.",
+    "key_results": ["Record his mission against Saxons and Picts with Lupus of Troyes", "Note his return with Severus of Trier to fight Pelagianism", "Identify Garmon as a patron of Wales"],
+    "evidence": "Koch 2006, s.v. 'Germanus, St'"
+  }
+}

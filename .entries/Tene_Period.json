@@ -1,0 +1,35 @@
+{
+  "name": "La Tène",
+  "text": "The La Tène period was the later Iron Age of much of temperate Europe. Its name comes from La Tène, the type site beside Lake Neuchâtel in Switzerland, known to scholars since 1857. In 1872 the Swede Hans Hildebrand argued, from differences between safety pin brooches found both at Hallstatt and at La Tène, that the two places stood for successive phases, one closing the Bronze Age and the other opening the Iron Age. At the Stockholm congress of 1874 he set out a two part division of a Celtic Iron Age, calling the earlier phase Hallstatt and the later La Tène. Otto Tischler later split this scheme into the stages Early, Middle, and Late La Tène, using the typology of swords and brooches. Richly decorated metalwork marked the culture, a style that Paul Jacobsthal named Early Celtic Art in 1944. The warrior society comes through in flat cemeteries whose graves often hold weapons, a picture that classical tales of Celtic mercenaries across the Mediterranean support. In the later stage people gathered in big fortified towns, the oppida, and struck their first coins modelled on Hellenistic gold. The period ended as the Roman Empire spread over central and western Europe, finished by the conquest of lowland Britain in the mid first century ad.",
+  "entities": [
+    {"entity": "La Tène", "type": "concept"},
+    {"entity": "Lake Neuchâtel", "type": "Place"},
+    {"entity": "Hallstatt", "type": "Place"},
+    {"entity": "Iron Age", "type": "concept"},
+    {"entity": "Hans Hildebrand", "type": "Person"},
+    {"entity": "Otto Tischler", "type": "Person"},
+    {"entity": "Celtic art", "type": "concept"},
+    {"entity": "oppidum", "type": "concept"},
+    {"entity": "Paul Jacobsthal", "type": "Person"}
+  ],
+  "attributes": [
+    {"entity": "La Tène", "attribute": "was the later Iron Age period of temperate Europe, named after the Swiss type-site"},
+    {"entity": "La Tène", "attribute": "was divided by Otto Tischler into Early, Middle, and Late phases"},
+    {"entity": "La Tène", "attribute": "was marked by richly decorated metalwork and a warrior society"},
+    {"entity": "La Tène", "attribute": "ended with the spread of the Roman Empire across central and western Europe"}
+  ],
+  "okr": {
+    "objective": "Describe the La Tène period as the later Iron Age stage of temperate Europe.",
+    "key_results": [
+      "Name the origin of the term at the Swiss type-site and in early scholarship",
+      "Relate the two-part Hallstatt and La Tène division and its later three-phase refinement",
+      "Explain the decorated metalwork and warrior society of the culture",
+      "Note the rise of oppida and the period's close under the Roman spread"
+    ],
+    "evidence": "Koch 2006, s.v. 'La Tène'."
+  },
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "sources": ["Koch 2006, s.v. 'La Tène'"]
+}

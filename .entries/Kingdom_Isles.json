@@ -1,0 +1,36 @@
+{
+  "name": "Kingdom of Man and the Isles",
+  "text": "The Viking-age realm of Man and its western isles was a small kingdom under the loose lordship of the Norwegian crown. It spread across Man itself and over the Hebrides. Norse raids and later settlement produced kings who ruled a mixed Norse-Gaelic people. In 1079 Godred Crovan seized the island and gave the land a firmer political order. The royal line shows Norse-Gaelic roots and a largely bilingual court. Olaf I, raised in the English court, founded Rushen Abbey in 1134. Somerled of coastal Argyll twice bested the Manx king and forced him to share the rule. In 1266 Norway handed the whole realm to Scotland by the Treaty of Perth.",
+  "entities": [
+    {"entity": "Kingdom of Man and the Isles", "type": "Place"},
+    {"entity": "Isle of Man", "type": "Place"},
+    {"entity": "Hebrides", "type": "Place"},
+    {"entity": "Godred Crovan", "type": "Person"},
+    {"entity": "Olaf I", "type": "Person"},
+    {"entity": "Somerled", "type": "Person"},
+    {"entity": "Rushen Abbey", "type": "Place"},
+    {"entity": "Norway", "type": "Place"}
+  ],
+  "attributes": [
+    {"entity": "Kingdom of Man and the Isles", "attribute": "was a petty kingdom of Man and the Hebrides under the theoretical control of the King of Norway"},
+    {"entity": "Godred Crovan", "attribute": "conquered the Isle of Man in 1079"},
+    {"entity": "Kingdom of Man and the Isles", "attribute": "had kings of mixed Norse-Gaelic origin in a largely bilingual society"},
+    {"entity": "Olaf I", "attribute": "brought in English court ideas and founded Rushen Abbey in 1134"},
+    {"entity": "Kingdom of Man and the Isles", "attribute": "was ceded by Norway to Scotland in the Treaty of Perth in 1266"}
+  ],
+  "okr": {
+    "objective": "Present the Viking-age Kingdom of Man and the Isles and its shifting politics.",
+    "key_results": [
+      "Describe the extent of the kingdom across Man and the Hebrides",
+      "Trace the conquest of Godred Crovan and the mixed Norse-Gaelic rule",
+      "Explain the role of Olaf I and the founding of Rushen Abbey",
+      "Describe the challenge of Somerled of Argy",
+      "Show how Norway ceded the kingdom to Scotland in 1266"
+    ],
+    "evidence": "Koch 2006, s.v. 'Kingdom of Man and the Isles'."
+  },
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "sources": ["Koch 2006, s.v. 'Kingdom of Man and the Isles'"]
+}

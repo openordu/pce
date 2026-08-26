@@ -1,0 +1,28 @@
+{
+  "name": "Gaelic_Society_of_Glasgow",
+  "text": "The Gaelic Society of Glasgow was an institution set up in the Scottish city of Glasgow to encourage the Gaelic language and the wider culture of Scotland. Its chief literary work was a journal bearing the name the Transactions of the Society of Glasgow, which held papers on Scottish Gaelic society and culture, from history and linguistics to folklore and writing craft, and it appeared in both English and Scottish Gaelic. The Society, known in Gaelic as Comunn Gailig Ghlascho, issued five volumes of the Transactions between the years 1887 and 1958. The contributions, which had generally been read to members before printing, tended to an academic tone. Volume three emerged in print in 1908 under the name The Old Highlands, and volume four followed in 1934 as The Active One.",
+  "entities": [
+    { "entity": "Gaelic Society of Glasgow", "type": "institution" },
+    { "entity": "Glasgow", "type": "place" },
+    { "entity": "Scottish", "type": "language" }
+  ],
+  "attributes": [
+    { "entity": "Gaelic Society of Glasgow", "attribute": "issued a journal called the Transactions of the Gaelic Society of Glasgow" },
+    { "entity": "Gaelic Society of Glasgow", "attribute": "published five volumes of its Transactions between 1887 and 1958" },
+    { "entity": "Gaelic Society of Glasgow", "attribute": "printed pieces that had first been read aloud to its members and that were academic in tone" },
+    { "entity": "Scottish", "attribute": "language, with English, used for the Society journal" }
+  ],
+  "sources": [ "Koch 2006, s.v. 'Gaelic Society of Glasgow'" ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Record the Gaelic Society of Glasgow and its journal, the Transactions of the Gaelic Society of Glasgow, within the PCE corpus.",
+    "key_results": [
+      "State that the Society was founded in Glasgow to promote Gaelic language and culture.",
+      "Document the journal title and its five volumes issued between 1887 and 1958.",
+      "Note the separate titles given to volumes three (1908) and four (1934)."
+    ],
+    "evidence": "Koch 2006, s.v. 'Gaelic Society of Glasgow'"
+  }
+}

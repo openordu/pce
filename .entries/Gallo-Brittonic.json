@@ -1,0 +1,29 @@
+{
+  "name": "Gallo-Brittonic",
+  "text": "Gallo-Brittonic is a proposed branch of the Celtic family that would unite Gaulish with the Brittonic tongues, namely Welsh, Cornish, and Breton. As a term of art in Celtic scholarship it refers to what is shared by the speech of Gaul and of ancient Britain. This Encyclopedia refuses to take sides on whether Gallo-Brittonic ever formed a single proto-language. It allows instead that the likenesses observed could stem from Gallic influence during the Iron Age and the Roman period. Scholars point to a set of shared sound shifts that separate these forms from other Celtic speech. Examples include the change of Celtic kw to p, the drift of ml to br, and the shift of wo to w. The same divine names recur within Gaul and in Britain alike, such as Epona, the Matronae, and Maponos. Those figures went on to appear in medieval Welsh myth as Modron and Mabon. Historical and cultural ties reinforce the linguistic ones, since lands in Belgic Gaul and the south of Britain both lay under the Atrebates in the age of Caesar. The La Tene tradition, with its chariots, torcs, and swords, stretched across Gaul and Britain alike, which gives the label a real sense to investigators.",
+  "entities": [
+    { "entity": "Gallo-Brittonic", "type": "language family" },
+    { "entity": "Gaulish", "type": "language" },
+    { "entity": "Welsh", "type": "language" },
+    { "entity": "Brittonic", "type": "linguistic group" }
+  ],
+  "attributes": [
+    { "entity": "Gallo-Brittonic", "attribute": "proposed as a branch uniting Gaulish and the Brittonic languages Welsh, Cornish, and Breton" },
+    { "entity": "Gallo-Brittonic", "attribute": "defined by shared sound shifts such as Celtic kw becoming p and ml changing to br" },
+    { "entity": "Gallo-Brittonic", "attribute": "left to scholarly debate whether it was a unified proto-language or the outcome of Gallic influence" },
+    { "entity": "Gallo-Brittonic", "attribute": "supported by shared divinities, the Atrebates tribal ties, and the La Tene material style across Gaul and Britain" }
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "sources": ["Koch 2006, s. v. 'Gallo-Brittonic'"],
+  "okr": {
+    "objective": "Document and verify the Gallo-Brittonic node as part of the Koch 2006 corpus ingest.",
+    "key_results": [
+      "Ascribe entity records for Gaulish and Welsh and the Brittonic linguistic group.",
+      "Set at least three attribute entries describing the proposed branch's scope and shared traits.",
+      "Attach the Koch 2006 source citation and a non-sourcelined own-words editorial summary."
+    ],
+    "evidence": "Koch 2006, s. v. 'Gallo-Brittonic'"
+  }
+}

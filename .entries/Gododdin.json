@@ -1,6 +1,6 @@
 {
     "name": "Gododdin",
-    "text": "The Gododdin is one of the oldest poems in the Welsh language. The poem tells of a battle at Catraeth in the north of Britain. A war leader gathered his warriors and led them against the English host. Almost all of those warriors fell in the fighting. The verses mark the names and praise of the fallen men one by one. The surviving heroes of the Gododdin built a fame that lasted in story for centuries. Traditional Welsh lore names the bard Aneirin as the poet who composed the lines. The same Aneirin appears in the early list of the five great poets, the Cynfeirdd. Scholars date the poem to around the year 600, in the age of the northern Britons. The fallen men came from the lands of the Votadini, a Roman-era British people of the Firth region. The poem survived in a single Old Welsh book known as the Gododdin, saved by later copies and notes. The one surviving book holds the text with gaps and guessing among the lines. The oldest layer of the poem may be older than the earliest Welsh prose. The work stands as a central source for the study of early Welsh poetry and war memory. Its tone is lament and honor joined, and it gives a living picture of a host that went to die.",
+    "text": "The Gododdin is one of the oldest poems in the Welsh language. The set is a body of laments for dead warriors. The verses tell of a battle at Catraeth in the north of Britain. A war leader gathered his companions and rode out. They met an English host that outnumbered them. Nearly all of the men died in that battle. The verses give a roll of the fallen one by one. For each hero they offer praise and sorrow. The work stands as a central Welsh war memorial. The men who went to Catraeth left a fame that lasted long in story.\n\nThe writing survives in a single named medieval book. The volume is the Book of Aneirin, also called Llyfr Aneirin. It dates to the thirteenth century. Scholars divide the verses into three parts. The parts are marked Text A, Text B1, and Text B2. Text B2 holds the oldest shape of the verse. The earliest layer of the poem may reach back to the age around the year 600. The lines survive with gaps and copyist guesses. Marginal notes stand beside many of the readings.\n\nThe name Gododdin comes from an older form. The Roman age knew a tribe called the Otadini. Their land ran from north of the Forth down to the Wear. The southern border touched the old kingdom of Bernicia. The land took in the great hilltop of Anderson. That hill stood as a heavy fort in Roman days. A hoard of late Roman silver was found on its slope. Some read the silver as pay for service to the Romans. Others read it as loot taken in a raid. The hill was left empty in the fifth century. A district called Manara Lingoododdin appears by the Fort. That district held Stirling and the home of Cunedda. Cunedda and his sons founded the first line of the kingdom of Gwynedd.\n\nTraditional account holds the bard Aneirin as the poet of the set. He belongs to the early order of the Cynfeirdd. A Welsh source, the reciter's list of the Five Poets, places him early. The poem names the place of the great feast. For a whole year the warriors shared wine and mead. The feast was set at the hill fort Din Eidyn. Din Eidyn is the old name for Edinburgh. The same name still crowns the city. The feast gave each man a debt to his lord. He paid that debt with his courage and his life. To pay the mead came to mean to die in arms. The hero traded his young life for lasting fame.\n\nThe work holds a leading place in Celtic studies. It is a large body of the oldest Welsh verse, over one thousand lines. It records people and events that are otherwise lost. It speaks of the time when England and Wales took shape. It gives a steady vision of the heroic spirit of war. The poem grew into a literary classic in Wales. It cast echoes into the court poets of the Middle Ages. Modern soldiers and poets have turned its words to their own dead. The Gododdin keeps its strength as a source for old poetry.",
     "entities": [
         {
             "entity": "Gododdin",
@@ -11,7 +11,11 @@
             "type": "person"
         },
         {
-            "entity": "Catatra",
+            "entity": "Catraeth",
+            "type": "site"
+        },
+        {
+            "entity": "Din Eidyn",
             "type": "site"
         },
         {
@@ -19,26 +23,50 @@
             "type": "kingdom"
         },
         {
-            "entity": "Book of Gododdin",
+            "entity": "the Old North",
+            "type": "region"
+        },
+        {
+            "entity": "the Britons",
+            "type": "people"
+        },
+        {
+            "entity": "Book of Aneirin",
             "type": "work"
         }
     ],
     "attributes": [
         {
             "entity": "Gododdin",
-            "attribute": "an early Welsh poem of the battle of Catatra"
+            "attribute": "an early Welsh poem of lament for warriors who fell at Catraeth"
         },
         {
             "entity": "Aneirin",
-            "attribute": "the traditional author of the Gododdin"
+            "attribute": "the traditional poet of the gododdin and the cynfeirdd"
         },
         {
-            "entity": "Gododdin",
-            "attribute": "praises warriors who fell at a strong in the north"
+            "entity": "Catraeth",
+            "attribute": "the battlefield, perhaps the modern Catterick in northern England"
+        },
+        {
+            "entity": "Din Eidyn",
+            "attribute": "the hill stronghold at Edinburgh where the warriors held their feast"
         },
         {
             "entity": "Votadini",
-            "attribute": "the north British people who held lands by the Firth"
+            "attribute": "the northern British people whose lands hold the old name of the Gododdin"
+        },
+        {
+            "entity": "the Old North",
+            "attribute": "the northern lands of the Britons where the poem and its fort stand"
+        },
+        {
+            "entity": "the Britons",
+            "attribute": "the Celtic people of the north at the time of the battle"
+        },
+        {
+            "entity": "Book of Aneirin",
+            "attribute": "the single medieval manuscript that preserves the verses"
         }
     ],
     "sources": [
@@ -48,11 +76,12 @@
     "cyphertext": "",
     "salt": "",
     "okr": {
-        "objective": "Document the early Welsh poem Gododdin and the battle it recalls.",
+        "objective": "Document the early Welsh poem Gododdin, the northern kingdom, and the battle it recalls.",
         "key_results": [
-            "Describe the battle at Catatra and the fate of the host",
-            "Name the bard Aneirin and the linked Cynfeirdd tradition",
-            "Note the southern British kingdom of the poet and the source book"
+            "Describe the battle at Catraeth and the fate of the host",
+            "Name the bard Aneirin, the Cynfeirdd, and the book of Aneirin",
+            "Set out the kingdom of the Votadini and the feast at Din Eidyn",
+            "Give the wider weight of the poem for the study of early Britain"
         ],
         "evidence": "Koch 2006, s.v. 'Gododdin'"
     },

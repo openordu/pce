@@ -1,0 +1,61 @@
+{
+  "name": "Lichfield Gospels",
+  "text": "The Lichfield Gospels are an early medieval gospel book. The work is also known as the Book of St Chad. It dates from the second quarter of the eighth century. The manuscript may have been produced in Wales. Northumbria is another possible place of origin. The book holds a small corpus of Old Welsh writing. These marginal notes include the memoranda called Chad 1 to 7. They are diplomatic records in mixed Welsh and Latin. The records deal with who owned property and name many witnesses. Chad 2 is the famous Surexit Memorandum, a very early example of Welsh prose. The marginalia throw light on early Welsh social organization.",
+  "entities": [
+    {
+      "entity": "Lichfield Gospels",
+      "type": "Artefact"
+    },
+    {
+      "entity": "St Chad",
+      "type": "Person"
+    },
+    {
+      "entity": "Surexit Memorandum",
+      "type": "Artefact"
+    },
+    {
+      "entity": "Wales",
+      "type": "Place"
+    },
+    {
+      "entity": "Old Welsh",
+      "type": "Language"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Lichfield Gospels",
+      "attribute": "is a gospel book also known as the Book of St Chad, dating to the second quarter of the eighth century"
+    },
+    {
+      "entity": "Lichfield Gospels",
+      "attribute": "contains Old Welsh marginalia called Chad 1 to 7"
+    },
+    {
+      "entity": "Lichfield Gospels",
+      "attribute": "holds the Surexit Memorandum, an early Welsh prose text"
+    },
+    {
+      "entity": "Lichfield Gospels",
+      "attribute": "includes diplomatic records of property and witness lists in mixed Welsh and Latin"
+    }
+  ],
+  "okr": {
+    "objective": "Present the Lichfield Gospels manuscript and its Old Welsh marginalia.",
+    "key_results": [
+      "Identify the book also as the Book of St Chad and date it to the early eighth century",
+      "Note its possible Welsh or Northumbrian origin",
+      "Describe the Old Welsh marginalia Chad 1 to 7",
+      "Single out Chad 2, the Surexit Memorandum, as an early Welsh prose text",
+      "Explain the value of the marginalia for Welsh social and linguistic history"
+    ],
+    "evidence": "Koch 2006, s.v. 'Lichfield Gospels'."
+  },
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "sources": [
+    "Koch 2006, s.v. 'Lichfield Gospels'"
+  ]
+}

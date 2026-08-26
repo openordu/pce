@@ -1,0 +1,33 @@
+{
+  "name": "Hagiography: Cornish",
+  "text": "Hagiography: Cornish considers the written Lives of Cornwall's saints. About one hundred and forty such saints are known to records. Surviving hagiography reaches us only for a few. St Petroc alone has Lives composed wholly in Cornwall. Bodmin Priory produced that work. The Life of St Piran adapts the Irish saint Ciarán of Saigir. The Life of St Rumon reworks the Breton St Ronan. Most evidence rests on church dedications and place names.",
+  "entities": [
+    {"entity": "Hagiography: Cornish", "type": "Work"},
+    {"entity": "Cornwall", "type": "Place"},
+    {"entity": "St Petroc", "type": "Person"},
+    {"entity": "St Piran", "type": "Person"},
+    {"entity": "St Rumon", "type": "Person"},
+    {"entity": "Bodmin Priory", "type": "Organisation"}
+  ],
+  "attributes": [
+    {"entity": "Cornish hagiography", "attribute": "records roughly one hundred forty saints known in Cornwall"},
+    {"entity": "Cornish hagiography", "attribute": "survives for only a small number of saints"},
+    {"entity": "St Petroc", "attribute": "has Lives written in full within Cornwall"},
+    {"entity": "St Piran", "attribute": "Life adapts the Irish saint Ciarán of Saigir"},
+    {"entity": "St Rumon", "attribute": "Life turns on the Breton St Ronan"},
+    {"entity": "Cornish hagiography", "attribute": "draws most of its evidence from church dedication and place names"}
+  ],
+  "okr": {
+    "objective": "Present the nature and scope of the Cornish hagiographic tradition in the Koch Hagiography article.",
+    "key_results": [
+      "Name the number of Cornish saints known and the scale of surviving hagiography",
+      "Identify which Cornish saints gained written Lives and where they were made",
+      "Trace the use of church dedications and place names as evidence of the cults"
+    ],
+    "evidence": "Koch 2006, s.v. 'Hagiography'."
+  },
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "sources": ["Koch 2006, s.v. 'Hagiography'"]
+}

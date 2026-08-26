@@ -1,0 +1,29 @@
+{
+  "name": "Gaeltacht_autobiographies",
+  "text": "The Gaeltacht autobiographies form a distinctive body of twentieth-century Irish writing in the Irish language. These books record growing up and daily life in the small, western and island communities of the Irish-speaking west of Ireland. The authors were ordinary people who set down the customs, work, and family routines of the villages and coastal areas they knew in an earlier age. Short accounts of Irish-speaking life had appeared in language journals since the 1890s, and longer personal narratives then followed. The most celebrated works come from the Blasket Islands and describe the dramatic lives of that island's community in plain, strong prose. The steady success of these books proved that a real market existed for this type of regional autobiography.",
+  "entities": [
+    {"entity": "Gaeltacht autobiographies", "type": "literary genre"},
+    {"entity": "Gaeltacht", "type": "Place"},
+    {"entity": "Irish", "type": "Language"},
+    {"entity": "Blasket Islands", "type": "Place"}
+  ],
+  "attributes": [
+    {"entity": "Gaeltacht autobiographies", "attribute": "twentieth-century life-writing genre produced by natives of the Irish-speaking Gaeltacht of the west of Ireland"},
+    {"entity": "Gaeltacht autobiographies", "attribute": "first extended piece published as Fr. Peadar Ó Laoghaire's Mo Sgéal Féin in 1915"},
+    {"entity": "Gaeltacht autobiographies", "attribute": "made famous by the Blasket Island memoirs including the work of Tomás Ó Criomhthain"},
+    {"entity": "Gaeltacht autobiographies", "attribute": "covers both island community life and the emigrant autobiography sub-genre"}
+  ],
+  "sources": ["Koch 2006, s.v. 'Gaeltacht autobiographies'"],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Document the Gaeltacht autobiographies as a distinct genre of twentieth-century Irish writing produced by natives of the Irish-speaking districts of the west of Ireland.",
+    "key_results": [
+      "Define the genre and its communal-life focus in the Irish-speaking west and islands",
+      "Record the origins in 1890s language-journal writing and Fr. Peadar Ó Laoghaire's 1915 work",
+      "Note the importance of the Blasket Island memoirs and the emigrant autobiography sub-genre"
+    ],
+    "evidence": "Koch 2006, s.v. 'Gaeltacht autobiographies'"
+  }
+}

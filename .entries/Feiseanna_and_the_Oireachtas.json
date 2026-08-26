@@ -1,0 +1,30 @@
+{
+  "name": "Feiseanna and the Oireachtas",
+  "text": "Feiseanna and the Oireachtas are cultural festivals of the Irish that the revival movement promoted. A feis is a gathering for the Irish language, music, song, and dance, and for storytelling. Entrants compete in recitation, essay writing, and the collecting of folklore. The Gaelic League championed these events from the 1890s and licensed feiseanna for the Irish-speaking counties from 1898. The Oireachtas is the principal annual festival of Irish language and culture. Its national competitions drew the winners of local and provincial feiseanna. Its founders shaped it on the pattern of the Welsh eisteddfod, and the League held the first one in Dublin in 1897. The event later grew into a large annual gathering that alternated between the provinces and Dublin. In Scotland the feis tradition survives through the mod gatherings.",
+  "entities": [
+    {"entity": "Oireachtas", "type": "Event"},
+    {"entity": "feiseanna", "type": "Event"},
+    {"entity": "Ireland", "type": "Place"},
+    {"entity": "Irish language", "type": "Language"},
+    {"entity": "Gaelic League", "type": "Institution"}
+  ],
+  "attributes": [
+    {"entity": "Oireachtas", "attribute": "principal annual festival of Irish language and culture"},
+    {"entity": "Gaelic League", "attribute": "promoter of feiseanna in the Irish-speaking counties"},
+    {"entity": "Oireachtas", "attribute": "patterned on the Welsh eisteddfod"},
+    {"entity": "feiseanna", "attribute": "gatherings of music, song, dance, and storytelling"}
+  ],
+  "sources": ["Koch 2006, s. v. 'Feiseanna and the Oireachtas'"],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Document feiseanna and the Oireachtas as the modern Gaelic cultural festivals promoted by the revival movement.",
+    "key_results": [
+      "Define feiseanna as gatherings for the Irish language, music, song, dance, and storytelling.",
+      "Identify the Oireachtas as the principal annual festival of the Irish language, founded by the Gaelic League in Dublin in 1897.",
+      "Note the spread of the feis tradition through Ireland and the diaspora and the mods of Scotland."
+    ],
+    "evidence": "Koch 2006, s. v. 'Feiseanna and the Oireachtas'"
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "name": "Welsh Hymns",
+  "text": "Welsh Hymns are verses of praise for God. People sing them together in worship. The earliest Welsh religious verse that survives is a set of 33 poems. These date from the 9th to the 12th centuries. Most older public hymnody used Latin. The best known early hymn is Gogonedog Arglwydd, henffych well, which means Greetings, glorious Lord. Carmarthen's Black Book preserves it around 1250. The Church in Wales still used it in 1941. The Poets of the Princes wrote more religious verse. The Reformation favoured the singing of psalms. William Midleton made a strict metre version of the Psalms in Welsh.",
+  "entities": [
+    {
+      "entity": "Welsh Hymns",
+      "type": "Culture"
+    },
+    {
+      "entity": "Black Book of Carmarthen",
+      "type": "Literature"
+    },
+    {
+      "entity": "Gogonedog Arglwydd",
+      "type": "Literature"
+    },
+    {
+      "entity": "Emynau'r Eglwys",
+      "type": "Literature"
+    },
+    {
+      "entity": "Poets of the Princes",
+      "type": "Culture"
+    },
+    {
+      "entity": "William Midleton",
+      "type": "Person"
+    },
+    {
+      "entity": "Psalms",
+      "type": "Literature"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Welsh Hymns",
+      "attribute": "are songs of praise to God for congregational use"
+    },
+    {
+      "entity": "Gogonedog Arglwydd",
+      "attribute": "was recorded in the Black Book of Carmarthen around 1250"
+    },
+    {
+      "entity": "Emynau'r Eglwys",
+      "attribute": "was the hymnal of the Church in Wales"
+    },
+    {
+      "entity": "William Midleton",
+      "attribute": "translated the Psalms into strict metre"
+    }
+  ],
+  "sources": [
+    "Koch 2006, s.v. 'Hymns_Welsh'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Establishes Welsh hymns as congregational songs of praise rooted in early medieval Welsh verse.",
+    "key_results": [
+      "Records the 33 surviving early Welsh religious poems from the 9th to 12th centuries",
+      "Names Gogonedog Arglwydd as the best known early hymn",
+      "Notes its appearance in the Black Book of Carmarthen around 1250",
+      "Notes the Reformation shift toward psalm singing",
+      "Names William Midleton's strict metre translation of the Psalms"
+    ],
+    "evidence": "Koch 2006, s.v. 'Hymns_Welsh'"
+  }
+}

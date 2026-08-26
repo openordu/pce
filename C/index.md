@@ -41,6 +41,7 @@ layout: layouts/pce.njk
 - [CornwallKernow](CornwallKernow)
 - [Cras_Murcens](Cras_Murcens)
 - [Cruithin](Cruithin)
+- [Cúirt](Cúirt)
 - [Culloden](Culloden)
 - [Cumann_Na_Scribheann_NGaedhilge](Cumann_Na_Scribheann_NGaedhilge)
 - [Cumbria](Cumbria)

@@ -1,0 +1,31 @@
+{
+  "name": "Evans, J. Gwenogvryn",
+  "text": "Evans, J. Gwenogvryn (1852-1930) was a Welsh palaeographer and a scholar of medieval manuscripts. He was said in his day to be a leading Welsh palaeographer. He travelled across the region to inspect manuscript collections that lay held in private hands. His Report on the Manuscripts in the Welsh Language came out through Her Majesty's Stationery Office in seven parts from 1898 to 1910. That report set firm foundations for much later study of Welsh literature. Evans also issued facsimile and printed versions of early Welsh works such as the Black Book of Carmarthen. His editing and cataloguing of older texts made many later students of Welsh culture the tools for that effort.",
+  "entities": [
+    {"entity": "Evans, J. Gwenogvryn", "type": "Person"},
+    {"entity": "Gwenogvryn Evans", "type": "Person"},
+    {"entity": "Welsh palaeography", "type": "Discipline"},
+    {"entity": "Wales", "type": "Place"},
+    {"entity": "Report on the Manuscripts in the Welsh Language", "type": "Work"},
+    {"entity": "The Black Book of Carmarthen", "type": "Manuscript"}
+  ],
+  "attributes": [
+    {"entity": "Evans, J. Gwenogvryn", "attribute": "Welsh palaeographer and manuscript scholar, 1852-1930"},
+    {"entity": "Evans, J. Gwenogvryn", "attribute": "author of the Report on the Manuscripts in the Welsh Language"},
+    {"entity": "Gwenogvryn Evans", "attribute": "known as a leading Welsh palaeographer of his day"},
+    {"entity": "The Black Book of Carmarthen", "attribute": "early Welsh manuscript issued in facsimile by Evans"}
+  ],
+  "sources": ["Koch 2006, s.v. 'Evans, J. Gwenogvryn'"],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+      "objective": "Document Evans, J. Gwenogvryn as a Welsh palaeographer and manuscript scholar and his Report on the Manuscripts in the Welsh Language.",
+    "key_results": [
+      "State that Evans was a Welsh palaeographer and manuscript scholar active 1852-1930",
+      "Name the Report on the Manuscripts in the Welsh Language, 1898-1910",
+      "Note his facsimile editions of early Welsh works such as the Black Book of Carmarthen"
+    ],
+    "evidence": "Koch 2006, s.v. 'Evans, J. Gwenogvryn'"
+  }
+}

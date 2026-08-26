@@ -1,0 +1,72 @@
+{
+  "name": "Darogan yr Olew Bendigaid",
+  "text": "Darogan yr Olew Bendigaid is a Welsh political prophecy of the early fifteenth century. The title means the prophecy of the blessed oil. Peniarth 50 preserves its oldest surviving manuscript. A scribe likely copied it at Neath Abbey in South Wales. The writer adapted an English and Latin prophecy about Thomas Becket. Becket died as archbishop of Canterbury in 1170. The oil falls from heaven to anoint the rightful kings of England. The darogan widens that claim to the whole island of Britain. Followers of Joseph of Arimathea bring the sacred oil to the land. Archbishop Dubricius then uses it to consecrate King Arthur. With heavenly support Arthur defeats the giants and crushes the pagan Saxons. The poet probably wrote after the fall of Owain Glyndwr. These details frame the political hopes of the verse.",
+  "entities": [
+    {
+      "entity": "Darogan yr Olew Bendigaid",
+      "type": "Work"
+    },
+    {
+      "entity": "Thomas Becket",
+      "type": "Person"
+    },
+    {
+      "entity": "Arthur",
+      "type": "Person"
+    },
+    {
+      "entity": "Joseph of Arimathea",
+      "type": "Person"
+    },
+    {
+      "entity": "Dubricius",
+      "type": "Person"
+    },
+    {
+      "entity": "Peniarth 50",
+      "type": "Manuscript"
+    },
+    {
+      "entity": "Glastonbury",
+      "type": "Place"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Darogan yr Olew Bendigaid",
+      "attribute": "is a prose political prophecy dated to the first half of the 15th century"
+    },
+    {
+      "entity": "Peniarth 50",
+      "attribute": "is the oldest surviving manuscript of the text"
+    },
+    {
+      "entity": "Thomas Becket",
+      "attribute": "provided the source model as an archbishop of Canterbury who died in 1170"
+    },
+    {
+      "entity": "Arthur",
+      "attribute": "is consecrated with the blessed oil by the archbishop Dubricius"
+    },
+    {
+      "entity": "Owain Glyndwr",
+      "attribute": "his fall in the early 1400s forms the likely political context"
+    }
+  ],
+  "sources": [
+    "Koch 2006, s.v. 'Darogan yr Olew Bendigaid'",
+    "Lloyd-Morgan, Ceridwen. 'Darogan yr Olew Bendigaid', Transactions of the Honourable Society of Cymmrodorion 1985, 9-26."
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Recounts the Welsh political prophecy of the blessed oil and its 15th-century setting.",
+    "key_results": [
+      "Dates the text to the first half of the 15th century",
+      "Names Peniarth 50 as the oldest manuscript witness",
+      "Links the oil to the anointing of Arthur and the fall of Owain Glyndwr"
+    ],
+    "evidence": "Koch 2006, s.v. 'Darogan yr Olew Bendigaid'"
+  }
+}

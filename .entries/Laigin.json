@@ -1,0 +1,35 @@
+{
+  "name": "Laigin",
+  "text": "The Laigin, whose Early Modern Irish form is Laighin, were the people of the traditional south eastern province of Ireland, the region known as Leinster. In early historic Ireland the name covered both a group with sub tribes and a kingdom called Cóiced Laigen, the province of Leinster. The modern province is counted as eleven counties, and of these the first seven lay inside the old one. Its early borders followed the river Liffey and the Offaly bogs to the north and the Ossory uplands to the west. Since Laigin is a plural noun, use as a people name came before use as a province name, and early writings traded between the names Laigin and Gáileóin. The name also lives on in places across north Wales, among them the Llŷn Peninsula, a sign of how prominent the Laigin had been in that area of Britain during the Roman period. One scholar linked the name to the god Lug, but that is seen as unlikely on linguistic grounds, whereas an early borrowing from Latin legiones, meaning legions, is possible. A legendary ancestor, Labraid Loingsech, headed the traditional genealogies, and the dynastic kingship later moved between two rival houses, the Uí Dúnlainge and, on the southern side, the Uí Cheinnselaig.",
+  "entities": [
+    {"entity": "Laigin", "type": "Group"},
+    {"entity": "Leinster", "type": "Place"},
+    {"entity": "Cóiced Laigen", "type": "concept"},
+    {"entity": "Labraid Loingsech", "type": "Person"},
+    {"entity": "Uí Dúnlainge", "type": "Group"},
+    {"entity": "Uí Cheinnselaig", "type": "Group"},
+    {"entity": "Llŷn Peninsula", "type": "Place"},
+    {"entity": "Lug", "type": "Deity"}
+  ],
+  "attributes": [
+    {"entity": "Laigin", "attribute": "was the people of south eastern Ireland, giving Leinster its name"},
+    {"entity": "Laigin", "attribute": "was a plural noun whose use as a people name predated its use as a province name"},
+    {"entity": "Laigin", "attribute": "left its name on places in north Wales such as the Llŷn Peninsula"},
+    {"entity": "Laigin", "attribute": "traced its kingship to the legendary ancestor Labraid Loingsech"},
+    {"entity": "Laigin", "attribute": "was governed by the rival Uí Dúnlainge and Uí Cheinnselaig lineages"}
+  ],
+  "okr": {
+    "objective": "Describe the Laigin as the early people of south eastern Ireland known as Leinster.",
+    "key_results": [
+      "Define the Laigin as both a group and a kingdom, Cóiced Laigen",
+      "Explain the extent and boundaries of the ancient province",
+      "Trace the origin of the name and its survival in Wales",
+      "Note the legendary ancestor and the main ruling lineages"
+    ],
+    "evidence": "Koch 2006, s.v. 'Laigin'."
+  },
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "sources": ["Koch 2006, s.v. 'Laigin'"]
+}

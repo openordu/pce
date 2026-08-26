@@ -2,12 +2,12 @@
 layout: layouts/pce.njk
 title: Cornwall/Kernow
 icon: file-lines
-order: 632
+order: 0
 contributors: [ 'Christopher Godwin' ]
 attributes:
-  - Cornish 
-  - Cornwall 
-  - Kernow 
+  - Cornish Brythonic Celtic language spoken in Cornwall/Kernow
+  - Cornwall county at the southwestern tip of England
+  - Kernow the Cornish name for Cornwall
 categories:
   - Person
   - Language
@@ -32,9 +32,9 @@ Cornwall/Kernow is the southwesternmost part of Britain, long a home of the Bryt
 :::
 ```
 ``` tab [group1:Attributes]
-- **Cornish**: 
-- **Cornwall**: 
-- **Kernow**: 
+- **Cornish**: Brythonic Celtic language spoken in Cornwall/Kernow
+- **Cornwall**: county at the southwestern tip of England
+- **Kernow**: the Cornish name for Cornwall
 ```
 ``` tab [group1:Entities]
 - **Cornwall**: Place

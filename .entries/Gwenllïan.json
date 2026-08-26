@@ -1,0 +1,35 @@
+{
+  "name": "Gwenllïan",
+  "text": "Gwenllïan (died 1136) was daughter of Gruffudd ap Cynan, ruler of Gwynedd, and wife of Gruffudd ap Rhys, ruler of Deheubarth. When her husband sought help in Gwynedd against the Anglo-Normans, Gwenllïan raised the Deheubarth forces and led them against a garrison at Kidwelly castle. The battle went ill, and Gwenllïan fell at a site still called the field of Gwenllï. Her son Rhys ap Gruffudd became famed as the Lord Rhys, and her courage held a lasting place in the legendary history of Wales.",
+  "entities": [
+    { "entity": "Gwenllïan", "type": "Person" },
+    { "entity": "Gruffudd ap Cynan", "type": "Person" },
+    { "entity": "Gruffudd ap Rhys", "type": "Person" },
+    { "entity": "Gwynedd", "type": "Place" },
+    { "entity": "Deheubarth", "type": "Place" },
+    { "entity": "Kidwelly", "type": "Place" },
+    { "entity": "Rhys ap Gruffudd", "type": "Person" },
+    { "entity": "Wales", "type": "Place" }
+  ],
+  "attributes": [
+    { "entity": "Gwenllïan", "attribute": "daughter of Gruffudd ap Cynan, ruler of Gwynedd" },
+    { "entity": "Gwenllïan", "attribute": "wife of Gruffudd ap Rhys, ruler of Deheubarth" },
+    { "entity": "Gwenllïan", "attribute": "raised and led the Deheubarth forces at Kidwelly castle" },
+    { "entity": "Gwenllïan", "attribute": "died at a site still called the field of Gwenllan" },
+    { "entity": "Gwenllïan", "attribute": "mother of Rhys ap Gruffudd, the Lord Rhys" },
+    { "entity": "Gruffudd ap Cynan", "attribute": "king of Gwynedd" }
+  ],
+  "sources": ["Koch 2006, s.v. 'Gwenllïan'"],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Record the Welsh ruler Gwenllïan as a new PCE entry.",
+    "key_results": [
+      "Text states Gwenllïan died in the year 1136.",
+      "Text records her leading the Deheubarth forces at Kidwelly castle.",
+      "Text links her family, husband, and the legendary history of Wales."
+    ],
+    "evidence": "Koch 2006, s.v. 'Gwenllïan'."
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "name": "Highland Games",
+  "text": "Highland Games are a social gathering built around music and sport. Tradition ties the Highland Games to a hill run ordered by King Malcolm Canmore at Braemar. The modern form began in 1816 with the Braemar Wright's Society. Queen Victoria gave the meeting royal backing in 1848. Competitions include sprinting, hill races, and jumping. Heavy events feature putting the stone and throwing the hammer. Teams also toss the caber and tug at the rope. Bands play the pipes and Highland dancers perform. The Games became a tourist attraction that satisfies a global image of Scotland. The revival is bound up with Balmorality and the Mac Can Mór tradition. Walter Scott and Highland Gatherings carried this romantic image forward.",
+  "entities": [
+    {
+      "entity": "Highland Games",
+      "type": "concept"
+    },
+    {
+      "entity": "Braemar",
+      "type": "Place"
+    },
+    {
+      "entity": "Scotland",
+      "type": "Place"
+    },
+    {
+      "entity": "Victoria",
+      "type": "Person"
+    },
+    {
+      "entity": "Walter Scott",
+      "type": "Person"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Highland Games",
+      "attribute": "are a social gathering organized around sport and music"
+    },
+    {
+      "entity": "Braemar",
+      "attribute": "is the recognised home of the modern Highland Games"
+    },
+    {
+      "entity": "Highland Games",
+      "attribute": "include caber tossing, stone putting, and hammer throwing"
+    },
+    {
+      "entity": "Victoria",
+      "attribute": "gave royal approval to the Braemar Games in 1848"
+    }
+  ],
+  "sources": [
+    "Koch 2006, s. v. 'Highland Games'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Characterises Highland Games as Scottish athletic and musical gatherings.",
+    "key_results": [
+      "Links the games to the older Mac Can Mór tradition",
+      "Lists the heavy events of cabbing, hammer, and stone",
+      "Records the Braemar foundation of the modern games"
+    ],
+    "evidence": "Koch 2006, s. v. 'Highland Games'"
+  }
+}

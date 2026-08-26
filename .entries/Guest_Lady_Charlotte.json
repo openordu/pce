@@ -1,0 +1,26 @@
+{
+  "name": "Guest, Lady Charlotte",
+  "text": "Guest, Lady Charlotte (1812\u20131895) was descended from the ninth Earl of Lindsay and spent her youth at Uffington House near Stamford in Lincolnshire. In 1833 she wed Josiah John Guest, the industrialist behind the Dowlais Iron Company of south Wales. A prolific journal keeper, she noted that she bore ten children, set up schools serving working-class pupils in the Dowlais area, and rendered into English every tale of the eleven that make up the Mabinogion along with the legend of Taliesin. Her extensive multi-volume publication, issued from 1838 to 1846 and again in 1849, set the Welsh and English texts side by side with scholarly commentary, alternative renderings of the Arthurian romances, illustrations, and facsimiles copied out of Hergest's Red Book. Later condensed editions dropped the Welsh column entirely. After her husband died she married Charles Schreiber, tutor to her son, and together they travelled the Continent, gathering 18th-century ceramics now displayed at London's Victoria and Albert Museum.",
+  "entities": [
+    { "entity": "Lady Charlotte Guest", "type": "Person" },
+    { "entity": "Mabinogion", "type": "concept" }
+  ],
+  "attributes": [
+    { "entity": "Lady Charlotte Guest", "attribute": "translated the Mabinogion into English, publishing the first complete English translation" },
+    { "entity": "Lady Charlotte Guest", "attribute": "wife of the industrialist Josiah John Guest of the Dowlais Iron Company in south Wales" },
+    { "entity": "Lady Charlotte Guest", "attribute": "founded schools for the education of working-class pupils in the Dowlais area" }
+  ],
+  "sources": ["Koch 2006, s. v. 'Guest, Lady Charlotte'"],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Record the life and scholarly legacy of Lady Charlotte Guest, the first translator of the Mabinogion into English.",
+    "key_results": [
+      "Trace her upbringing, marriage to Josiah John Guest, and her work founding schools in the Dowlais area",
+      "Describe her multi-volume English translation of the Mabinogion published 1838\u20131846 and 1849",
+      "Note the later condensed revisions and the ceramics collection deposited in the Victoria and Albert Museum"
+    ],
+    "evidence": "Koch 2006, s. v. 'Guest, Lady Charlotte'"
+  }
+}

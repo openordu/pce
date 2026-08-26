@@ -1,0 +1,63 @@
+{
+  "name": "Gwallawg ap Lleënnawg",
+  "text": "Gwallawg ap Lleënnawg, a northern Brythonic chieftain, governed Elfed later in the sixth century, and the Welsh genealogies reckon his dynasty among those tracing descent from Coel Hen. He appears in the Harleian pedigrees and in the tracts on the descent of the northern men and of the saints. Under Urien of Rheged he joined the alliance that besieged the Angles of Brynaich, a deed noted in Historia Brittonum.",
+  "entities": [
+    {
+      "entity": "Gwallawg ap Lleënnawg",
+      "type": "Person"
+    },
+    {
+      "entity": "Elfed",
+      "type": "Place"
+    },
+    {
+      "entity": "Coel Hen",
+      "type": "Person"
+    },
+    {
+      "entity": "Urien of Rheged",
+      "type": "Person"
+    },
+    {
+      "entity": "Brynaich",
+      "type": "Place"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Gwallawg ap Lleënnawg",
+      "attribute": "ruled",
+      "value": "Elfed in the later sixth century"
+    },
+    {
+      "entity": "Gwallawg ap Lleënnawg",
+      "attribute": "claimed descent from",
+      "value": "Coel Hen"
+    },
+    {
+      "entity": "Gwallawg ap Lleënnawg",
+      "attribute": "recorded in",
+      "value": "Old and Middle Welsh genealogies"
+    },
+    {
+      "entity": "Gwallawg ap Lleënnawg",
+      "attribute": "allied with",
+      "value": "Urien of Rheged against the Angles of Brynaich"
+    }
+  ],
+  "sources": [
+    "Koch 2006, s.v. 'Gwallawg ap Lleënnawg'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Establishes Gwallawg ap Lleënnawg as a northern Brythonic ruler of Elfed recorded in Welsh genealogies.",
+    "key_results": [
+      "States his lordship over Elfed in the later sixth century",
+      "Ties his dynasty to descent from Coel Hen",
+      "Notes his role in Urien's alliance against the Angles of Brynaich"
+    ],
+    "evidence": "Koch 2006, s.v. 'Gwallawg ap Lleënnawg'."
+  }
+}

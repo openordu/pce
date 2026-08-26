@@ -1,0 +1,71 @@
+{
+  "name": "Dürrnberg bei Hallein",
+  "text": "Dürrnberg is an ancient salt-mining site near the town of Hallein, Austria. It sits in the Salzburg area. This site is a key Iron Age mining centre. Celtic miners extracted the salt here from around the 6th down to the 1st century BC. They dug shafts of up to 200 metres long into the rock. The saline ground preserved organic tools and textiles. Found were two chariot burials. The first chariot went down in 1932. A second was opened in 1954. The finds include a beaked bronze flagon, gold wares, and a rich warrior grave. Long-distance trade linked the Dürrnberg with the Alpine south. Large graves held Etruscan and Greek vessels. The site grew into a major trade and crafts centre.",
+  "entities": [
+    {
+      "entity": "Dürrnberg",
+      "type": "Place"
+    },
+    {
+      "entity": "Hallein",
+      "type": "Place"
+    },
+    {
+      "entity": "Salzburg",
+      "type": "Place"
+    },
+    {
+      "entity": "Iron Age mining",
+      "type": "Culture"
+    },
+    {
+      "entity": "La Tène culture",
+      "type": "Culture"
+    },
+    {
+      "entity": "chariot burial",
+      "type": "Artefact"
+    },
+    {
+      "entity": "warrior grave",
+      "type": "Artefact"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Dürrnberg",
+      "attribute": "a salt-mining site near Hallein in the Salzburg area"
+    },
+    {
+      "entity": "Dürrnberg",
+      "attribute": "worked by Iron Age miners from the 6th to the 1st century BC"
+    },
+    {
+      "entity": "Dürrnberg",
+      "attribute": "a large trade and crafts centre in the La Tène period"
+    },
+    {
+      "entity": "chariot burial",
+      "attribute": "two found at the site, one in 1932 and one in 1954"
+    },
+    {
+      "entity": "warrior grave",
+      "attribute": "a rich burial at the site with gold finds"
+    }
+  ],
+  "sources": [
+    "Koch 2006, s.v. 'Dürnrbberg bei Halllein'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Establish Dürrnberg as a key Iron Age salt-mining site near Salzburg.",
+    "key_results": [
+      "Identify Dürrnberg as a salt-mining site in the Salzburg area of Austria.",
+      "Record the mining period from the 6th to the 1st century BC.",
+      "Document the rich burials, including two chariot graves and gold finds."
+    ],
+    "evidence": "Koch 2006, s.v. 'Dürnrbberg bei Halllein'."
+  }
+}

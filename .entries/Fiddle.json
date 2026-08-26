@@ -1,0 +1,29 @@
+{
+  "name": "Fiddle",
+  "text": "The fiddle is the violin played in folk and traditional style. It is the most widely used instrument in the music of the modern Celtic countries. In Ireland and Scotland the fiddle leads the dance repertory, including reels and jigs, and it works in both solo and accompaniment roles. Irish players usually keep the left hand in first position, so bowing technique shapes tone and rhythm. In Scotland the fiddle joined dance and traditional music from the late 17th century, and regional styles now flourish, from Highland canon to the rhythmic Shetland tradition. Notable regional schools include Sliabh Luachra, East Clare, and Donegal in Ireland, and Cape Breton across the Atlantic.",
+  "entities": [
+    {"entity": "fiddle", "type": "Musical instrument"},
+    {"entity": "violin", "type": "Musical instrument"},
+    {"entity": "Ireland", "type": "Place"},
+    {"entity": "Scotland", "type": "Place"},
+    {"entity": "reel", "type": "concept"}
+  ],
+  "attributes": [
+    {"entity": "fiddle", "attribute": "most widespread instrument in Celtic traditional music"},
+    {"entity": "fiddle", "attribute": "central to Irish and Scottish dance music"},
+    {"entity": "fiddle", "attribute": "has regional playing styles"}
+  ],
+  "sources": ["Koch 2006, s.v. 'Fiddle'"],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Document the fiddle as the leading instrument in Irish and Scottish traditional music.",
+    "key_results": [
+      "State the fiddle as the most ubiquitous instrument in Celtic traditional music",
+      "Cover its dance-music role in reels and jigs",
+      "Describe regional styles and solo/accompaniment functions"
+    ],
+    "evidence": "Koch 2006, s.v. 'Fiddle'"
+  }
+}

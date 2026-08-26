@@ -1,0 +1,32 @@
+{
+  "name": "GaULISH",
+  "text": "Gaulish is the name for the ancient Continental Celtic language of Gaul. The term covers a core area across most of modern France, Belgium, and western Germany. The name also stretches to linguistic remains in the western Alps and northern Italy. In those regions scholars speak of Cisalpine Gaulish or Cisalpine Celtic people. Experts treat Lepontic as an earlier stage of the same tongue. By either broad or narrow definition, Gaulish is the fullest recorded ancient Celtic language. Writers used both Greek and Latin scripts for it. Surviving evidence includes cursive inscriptions, potters' graffiti, and public calendars. The language died out as Rome expanded and Romance speech took over Gaul.",
+  "entities": [
+    {"entity": "Gaulish", "type": "Language"},
+    {"entity": "Gaul", "type": "Place"},
+    {"entity": "Cisalpine Gaulish", "type": "Language"},
+    {"entity": "Lepontic", "type": "Language"},
+    {"entity": "Rhine", "type": "Place"},
+    {"entity": "Rome", "type": "Place"}
+  ],
+  "attributes": [
+    {"entity": "Gaulish", "attribute": "Continental Celtic language of ancient Gaul"},
+    {"entity": "Gaulish", "attribute": "most fully attested of the ancient Celtic languages"},
+    {"entity": "Cisalpine Gaulish", "attribute": "spoken in the western Alps and northern Italy"},
+    {"entity": "Lepontic", "attribute": "earlier stage of Cisalpine Gaulish"}
+  ],
+  "sources": ["Koch 2006, s.v. 'Gaulish'"],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Document the Gaulish language as the principal Continental Celtic tongue of ancient Gaul.",
+    "key_results": [
+      "State the core geographic range of Gaulish",
+      "Name Cisalpine Gaulish and Lepontic as the Alpine and Italian branch",
+      "Note the writing systems used for Gaulish",
+      "Explain how Gaulish died under Roman rule"
+    ],
+    "evidence": "Koch 2006, s.v. 'Gaulish'"
+  }
+}

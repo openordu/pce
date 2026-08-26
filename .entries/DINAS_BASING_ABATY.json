@@ -1,0 +1,69 @@
+{
+  "name": "DINAS BASING, ABATY",
+  "text": "Basingwerk Abbey sits in Flintshire in north-east Wales. The name Dinas Basing anchors the place in early history. The community began as a Savigny house in 1131. Ranulf, earl of Chester, acted as the founder. Builders raised the present structure around 1157. The standing remains date to the thirteenth century. Monks of Basing copied the Book of Aineirin in that era. The writer Gutun Owain called Basingwerk his home. Part of the Black Book of Basing survives in his hand. The abbey held the manor of Holywell. Its monks controlled the shrine of Saint Winifred and her well-chapel.",
+  "entities": [
+    {
+      "entity": "Basingwerk Abbey",
+      "type": "Institution"
+    },
+    {
+      "entity": "Flintshire",
+      "type": "Place"
+    },
+    {
+      "entity": "Ranulf, earl of Chester",
+      "type": "Person"
+    },
+    {
+      "entity": "Gutun Owyn",
+      "type": "Person"
+    },
+    {
+      "entity": "Saint Winifred",
+      "type": "Person"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Basingwerk Abbey",
+      "attribute": "founded in 1131 as a house of the Savigny order"
+    },
+    {
+      "entity": "Ranulf, earl of Chester",
+      "attribute": "named as probable founder of the abbey"
+    },
+    {
+      "entity": "Basingwerk Abbey",
+      "attribute": "its surviving buildings date from the 13th century"
+    },
+    {
+      "entity": "Book of Aineirin",
+      "attribute": "transcribed in the abbey scriptorium in the later 13th century"
+    },
+    {
+      "entity": "Gutun Owyn",
+      "attribute": "poet who lived at Basingwerk and wrote part of the Black Book"
+    },
+    {
+      "entity": "Saint Winifred",
+      "attribute": "her shrine and well-chapel fell under abbey control"
+    }
+  ],
+  "sources": [
+    "Koch 2006, s.v. 'DINAS BASING, ABATY'",
+    "Taylor, A. J. Basingwerk Abbey, Flintshire. London, HMSO."
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Describe the foundation and history of Basingwerk Abbey at Dinas Basing in Wales.",
+    "key_results": [
+      "Places the abbey in Flintshire, north-east Wales",
+      "Dates its foundation to 1131 and the main building to c. 1157",
+      "Links the Book of Aineirin and the Black Book of Basing to its scriptorium",
+      "Names Gutun Owin as a resident poet and records control of Saint Winifred's shrine"
+    ],
+    "evidence": "Koch 2006, s.v. 'DINAS BASING, ABATY'"
+  }
+}

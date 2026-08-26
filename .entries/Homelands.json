@@ -1,0 +1,34 @@
+{
+  "name": "Homelands of the Celts",
+  "text": "Homelands of the Celts is the dispute over the original place from which the ancient Celtic peoples spread. Koch holds that the earliest Celtic-language homeland, the territory of the Proto-Celtic ancestor, is not yet proven. A long-standing guess among scholars sets the origin in west-central Europe around the Alps and the upper Alpine and Danube. Yet the Atlantic edge of the continent, that is parts of Britain, Ireland, Brittany, and north-western Spain, cannot be set aside at once. The upper Danube country stood at the centre of the Hallstatt and La Tene cultures, and the Alpine zone counts among the earliest ground of Celtic Europe. The way the language spread, whether by trade, migration, or conquest, stays a matter of study. The later homeland question turns on reading the same thin evidence in rival ways.",
+  "entities": [
+    {"entity": "Celts", "type": "Group"},
+    {"entity": "Proto-Celtic", "type": "Language"},
+    {"entity": "Hallstatt culture", "type": "Culture"},
+    {"entity": "La Tène culture", "type": "Culture"},
+    {"entity": "Alps", "type": "Place"},
+    {"entity": "Celtic homeland", "type": "Concept"}
+  ],
+  "attributes": [
+    {"entity": "Celtic homeland", "attribute": "the proposed place of origin of the ancient Celtic peoples, still unproven"},
+    {"entity": "Celts", "attribute": "spread from a homeland commonly placed in Central Europe"},
+    {"entity": "Proto-Celtic", "attribute": "the reconstructed ancestor language, whose original home is debated"},
+    {"entity": "Alps", "attribute": "an early heartland of Celtic Europe per Koch"},
+    {"entity": "Hallstatt culture", "attribute": "an early Iron Age culture of the Alpine and upper Danube zone"}
+  ],
+  "sources": [
+    "Koch 2006, s.v. 'Homelands of the Celts'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Explain the debate over the original homeland of the ancient Celtic peoples.",
+    "key_results": [
+      "State that the location of the original Proto-Celtic homeland is not proven.",
+      "Present the case for a west-central Europe origin around the Alps and upper Rhine.",
+      "Note the Atlantic fringe remains an open possibility in the debate."
+    ],
+    "evidence": "Koch 2006, s.v. 'Homelands of the Celts'."
+  }
+}
