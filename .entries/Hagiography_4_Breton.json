@@ -1,0 +1,33 @@
+{
+  "name": "Hagiography: Breton",
+  "text": "Breton hagiography holds the largest body of early medieval Celtic saints' Lives to survive in Latin. The First Life of Samson of Dol is held to be the earliest of the Celtic vitae, dated to the seventh or eighth century. The Lives tell of missionaries who crossed the Channel and founded Domnonia. They treat saints such as Gildas, Samson, and Paul Aurelian. Their authors drew on old inscribed stones and older records. Healing miracles feature widely, and many tales echo an older head-cult story.",
+  "entities": [
+    {"entity": "Breton hagiography", "type": "concept"},
+    {"entity": "Samson of Dol", "type": "Person"},
+    {"entity": "Gildas", "type": "Person"},
+    {"entity": "Paul Aurelian", "type": "Person"},
+    {"entity": "Domnonia", "type": "Place"},
+    {"entity": "Brittany", "type": "Place"},
+    {"entity": "Latin", "type": "Language"}
+  ],
+  "attributes": [
+    {"entity": "Breton hagiography", "attribute": "holds the largest surviving body of early medieval Celtic saints' Lives in Latin"},
+    {"entity": "Samson of Dol", "attribute": "his First Life is held to be the earliest of the Celtic vitae", "value": "7th or 8th century"},
+    {"entity": "the Breton Lives", "attribute": "record missionaries who crossed the Channel to found Brittany"},
+    {"entity": "the Breton Lives", "attribute": "drew on old inscribed stones and on older written records"},
+    {"entity": "the Breton Lives", "attribute": "feature healing miracles and themes echoing an older head cult"}
+  ],
+  "sources": ["Koch2006, s.v. 'Hagiography'"],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Present the Breton tradition of saints' Lives from the Koch Hagiography article.",
+    "key_results": [
+      "Name the Breton saints' Lives and their early medieval Latin origin",
+      "Identify the earliest Celtic vita and its date",
+      "Note the missionaries and places tied to the Breton Lives"
+    ],
+    "evidence": "Koch 2006, s.v. 'Hagiography'."
+  }
+}
