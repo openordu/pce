@@ -1,46 +1,84 @@
 {
-    "name": "Vitiris",
-    "attributes": [
-        {
-            "entity": "Vitiris",
-            "attribute": "honored by many inscriptions in northern England"
-        },
-        {
-            "entity": "Vitiris",
-            "attribute": "depicted at times with a pig or a serpent"
-        }
-    ],
-    "entities": [
-        {
-            "entity": "Vitiris",
-            "type": "god"
-        },
-        {
-            "entity": "northern England",
-            "type": "place"
-        },
-        {
-            "entity": "pig",
-            "type": "animal"
-        },
-        {
-            "entity": "serpent",
-            "type": "animal"
-        }
-    ],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "cyphertext": "uWkTasQ-D7I1eNoqBJNg80dOOPp301PRZGWJuWafhRVvbgrikDPUTN-2eavQX8ebBIwym-zzHi_yCVt-_sXRlH0LqYq61TH2cSn8rBJDsK6WnL5JUmPr_OCSd6jsqDjgRX6ORA8epyz8hjjzdhTLrLSSJJuMzKxPFhgbftOChY7l0uWX-RRKddJqV2YV-ih4TPSrE_zsXcx_Iq5lf8Q3vyGoCRk-61M8bEDR9hXihR7bw763hUjJdokQs7MlatviXrbnKKf1CHN6R_M-FJR_vLkfchVxr8VOO_2yqG4t3lnOtJBqjEL2SXGq96SJPQnoniuhrrwOjgodFWkE6Ey1wcGJISoEUmoo3s0Z8J35JzlDHOvl50Cu5eGGhGFD3HgBvt-wbQYl2c-DnyWiXIpHFzmeKVTB3Rip7HI_EFS9sbkrQNADddQkDFdkYR1RUHs=",
-    "salt": "D4NCHj_68ZzX1WyNOAXVdw==",
-    "text": "Vitiris, also written Vitris, Venus, or Hvitiris, is a British god. Many inscriptions to him surfaced in northern England. The finds hint that he drew followers from beyond the Celtic world as well as within it. No source states what he represented, yet some images show him with a swine or a snake",
-    "okr": {
-        "objective": "Present Vitiris as a British god known mostly from northern England inscriptions.",
-        "key_results": [
-            "Many inscriptions to Vitiris come from northern England.",
-            "His worshippers came from inside and outside the Celtic world.",
-            "Images sometimes show him with a pig or a serpent."
-        ],
-        "evidence": "Monaghan, Encyclopedia of Celtic Mythology and Folklore"
-    }
+ "name": "Vitiris",
+ "attributes": [
+  {
+   "entity": "Vitiris",
+   "attribute": "honored by many inscriptions in northern England"
+  },
+  {
+   "entity": "Vitiris",
+   "attribute": "depicted at times with a pig or a serpent"
+  },
+  {
+   "entity": "Vitiris",
+   "attribute": "name appears in more than fifty inscriptions"
+  },
+  {
+   "entity": "Vitiris",
+   "attribute": "linked with the epithet Mogons near Hadrian's Wall"
+  }
+ ],
+ "entities": [
+  {
+   "entity": "Vitiris",
+   "type": "god"
+  },
+  {
+   "entity": "northern England",
+   "type": "place"
+  },
+  {
+   "entity": "pig",
+   "type": "animal"
+  },
+  {
+   "entity": "serpent",
+   "type": "animal"
+  },
+  {
+   "entity": "Mogons",
+   "type": "god"
+  },
+  {
+   "entity": "Hadrian's Wall",
+   "type": "place"
+  },
+  {
+   "entity": "Castra Exploratorum",
+   "type": "place"
+  },
+  {
+   "entity": "Voreda",
+   "type": "place"
+  },
+  {
+   "entity": "Penrith",
+   "type": "place"
+  },
+  {
+   "entity": "Cumbria",
+   "type": "place"
+  },
+  {
+   "entity": "Brigantes",
+   "type": "group"
+  }
+ ],
+ "sources": [
+  "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.",
+  "Koch 2006, s.v. \"Veteris, Vitiris\""
+ ],
+ "cyphertext": "uWkTasQ-D7I1eNoqBJNg80dOOPp301PRZGWJuWafhRVvbgrikDPUTN-2eavQX8ebBIwym-zzHi_yCVt-_sXRlH0LqYq61TH2cSn8rBJDsK6WnL5JUmPr_OCSd6jsqDjgRX6ORA8epyz8hjjzdhTLrLSSJJuMzKxPFhgbftOChY7l0uWX-RRKddJqV2YV-ih4TPSrE_zsXcx_Iq5lf8Q3vyGoCRk-61M8bEDR9hXihR7bw763hUjJdokQs7MlatviXrbnKKf1CHN6R_M-FJR_vLkfchVxr8VOO_2yqG4t3lnOtJBqjEL2SXGq96SJPQnoniuhrrwOjgodFWkE6Ey1wcGJISoEUmoo3s0Z8J35JzlDHOvl50Cu5eGGhGFD3HgBvt-wbQYl2c-DnyWiXIpHFzmeKVTB3Rip7HI_EFS9sbkrQNADddQkDFdkYR1RUHs=",
+ "salt": "D4NCHj_68ZzX1WyNOAXVdw==",
+ "text": "Vitiris is a British god whose name appears in many written forms. The spellings include Veteris, Vitiris, Vetus, Hveteris, and Hvitiris. More than fifty inscriptions record the name, many of them from northern England. One inscription at the Romano-British fort of Castra Exploratorum, near the western end of Hadrian's Wall, gives the name Mogons as an epithet of Vitiris. The same name Mogons stands alone as a separate deity at Voreda, the old fort at Penrith in Cumbria. The word seems related to a root that means great. His worshippers came from within the Celtic world and beyond it. No source states plainly what he represented, yet some images show him with a pig or a serpent. The finds cluster near the lands of the Brigantes and along Hadrian's Wall.",
+ "okr": {
+  "objective": "Present Vitiris as a Romano-British god known from inscriptions.",
+  "key_results": [
+   "Vitiris appears in several variant spellings in more than fifty inscriptions.",
+   "Many inscriptions come from northern England.",
+   "Mogons is an epithet of Vitiris at Castra Exploratorum.",
+   "Worshippers came from within and beyond the Celtic world."
+  ],
+  "evidence": "Monaghan, The Encyclopedia of Celtic Mythology and Folklore (2008); Koch 2006, s.v. \"Veteris, Vitiris\"."
+ }
 }
