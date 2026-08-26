@@ -1,0 +1,43 @@
+{
+  "name": "Abaris the Hyperborean",
+  "text": "Abaris the Hyperborean is a legendary figure of the far north. Greek tradition placed the Hyperboreans beyond the North Wind. Abaris was one of their number. Historical record says he once argued with the philosopher Pythagoras. Eighteenth-century writers guessed that he was a druid. They made him either Welsh or Scottish Gaelic. Modern scholarship takes a different view. The evidence suggests he was a shaman from central Asia. The tale of Abaris shows how the Celts entered the classical imagination as a mysterious northern people.",
+  "entities": [
+    {
+      "entity": "Hyperboreans",
+      "type": "Group"
+    },
+    {
+      "entity": "Pythagoras",
+      "type": "Person"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Abaris the Hyperborean",
+      "attribute": "one of the legendary people beyond the North Wind"
+    },
+    {
+      "entity": "Abaris the Hyperborean",
+      "attribute": "once disputed with Pythagoras"
+    },
+    {
+      "entity": "Abaris the Hyperborean",
+      "attribute": "modern scholars see a central Asian shaman"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Abaris the Hyperborean'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Profile Abaris the Hyperborean, a legendary northern sage.",
+    "key_results": [
+      "Place Abaris among the Hyperboreans beyond the North Wind.",
+      "Record his dispute with Pythagoras.",
+      "Note the druid theory and the modern shaman reading."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Abaris the Hyperborean'"
+  }
+}

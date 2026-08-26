@@ -1,0 +1,55 @@
+{
+  "name": "Adar Llwch Gwin",
+  "text": "Adar Llwch Gwin are magical birds of Welsh tradition. They belonged to Drudwas ap Tryffin. Writers often equated them with griffins. His wife, a fairy woman, gave them to him. The birds understood human speech and obeyed his every order. When Drudwas held a contest against Arthur, he bade the birds slay whoever entered the field first. Arthur arrived late, so the birds turned on their master Drudwas and tore his flesh. Later Welsh verse by the Beirdd yr Uchelwyr used the phrase for hawks or falcons. It also stood as a metaphor for strong and brave men.",
+  "entities": [
+    {
+      "entity": "Drudwas ap Tryffin",
+      "type": "Person"
+    },
+    {
+      "entity": "Arthur",
+      "type": "Person"
+    },
+    {
+      "entity": "griffin",
+      "type": "Creature"
+    },
+    {
+      "entity": "Beirdd yr Uchelwyr",
+      "type": "Group"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Adar Llwch Gwin",
+      "attribute": "magical birds of Welsh tradition belonging to Drudwas ap Tryffin"
+    },
+    {
+      "entity": "Adar Llwch Gwin",
+      "attribute": "often equated with griffins and able to understand human speech"
+    },
+    {
+      "entity": "Adar Llwch Gwin",
+      "attribute": "turned on Drudwas when Arthur entered the field late"
+    },
+    {
+      "entity": "Adar Llwch Gwin",
+      "attribute": "a synonym for hawks or falcons in later Welsh poetry"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Adar Llwch Gwin'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Record the Adar Llwch Gwin, the magical birds of Drudwas ap Tryffin.",
+    "key_results": [
+      "Identify the birds and their owner Drudwas ap Tryffin.",
+      "Tell the contest with Arthur and the birds' turn against their master.",
+      "Note the birds as a symbol of brave men in later poetry."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Adar Llwch Gwin'"
+  }
+}

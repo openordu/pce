@@ -1,0 +1,39 @@
+{
+  "name": "Abermenai",
+  "text": "Abermenai is the water that cuts Anglesey off from the Welsh mainland. The Welsh word aber names the mouth of a river or a strait. Anglesey is the historic island off the north-west coast of Wales. Abermenai marks the crossing that links the isle to Gwynedd. In the Welsh tales the strait appears as a place of passage and encounter.",
+  "entities": [
+    {
+      "entity": "Anglesey",
+      "type": "Place"
+    },
+    {
+      "entity": "Gwynedd",
+      "type": "Place"
+    },
+    {
+      "entity": "Wales",
+      "type": "Place"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Abermenai",
+      "attribute": "the strait separating Anglesey from the Welsh mainland"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Abermenai'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Record Abermenai, the strait that divides Anglesey from mainland Wales.",
+    "key_results": [
+      "Define Abermenai as the estuary separating Anglesey.",
+      "Note the aber element in the name.",
+      "Place it within the geography of north Wales."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Abermenai'"
+  }
+}

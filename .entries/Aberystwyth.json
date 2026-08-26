@@ -1,0 +1,47 @@
+{
+  "name": "Aberystwyth",
+  "text": "Aberystwyth is a town in Wales at the mouths of the rivers Ystwyth and Rheidol. The Welsh word aber names the mouth of a river. Aberystwyth is one of the places that tradition names as a burial site of the poet Taliesin. The town grew into a centre of Welsh learning and craft. It holds a long association with the cultural life of the country.",
+  "entities": [
+    {
+      "entity": "Ystwyth",
+      "type": "Place"
+    },
+    {
+      "entity": "Rheidol",
+      "type": "Place"
+    },
+    {
+      "entity": "Taliesin",
+      "type": "Person"
+    },
+    {
+      "entity": "Wales",
+      "type": "Place"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Aberystwyth",
+      "attribute": "a town at the mouths of the Ystwyth and Rheidol rivers"
+    },
+    {
+      "entity": "Aberystwyth",
+      "attribute": "one of the traditional burial-places of Taliesin"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Aberystwyth'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Record Aberystwyth, a Welsh town tied to the poet Taliesin.",
+    "key_results": [
+      "Locate Aberystwyth at the Ystwyth and Rheidol mouths.",
+      "Record the town as a traditional burial-place of Taliesin.",
+      "Note the town's place in Welsh cultural life."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Aberystwyth'"
+  }
+}

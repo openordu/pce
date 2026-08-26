@@ -1,0 +1,47 @@
+{
+  "name": "AM",
+  "text": "AM is the common abbreviation for Anno Mundi. The Latin term means the year of the world. It counts the years that passed since the creation of the world. Medieval scholars reckoned that date in different ways. The Irish Annals of the Four Masters placed the creation in 5090 BC. Under that count the year 1000 BC became 4090 AM. The Venerable Bede, an Anglo-Saxon historian, proposed 3952 BC. Other writers cited 5200 BC and 5198 BC. The abbreviation appears in the dating of many early Irish annals and chronicles.",
+  "entities": [
+    {
+      "entity": "Anno Mundi",
+      "type": "Concept"
+    },
+    {
+      "entity": "Annals of the Four Masters",
+      "type": "Work"
+    },
+    {
+      "entity": "Venerable Bede",
+      "type": "Person"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "AM",
+      "attribute": "stands for Anno Mundi, the year of the world"
+    },
+    {
+      "entity": "AM",
+      "attribute": "the Annals of the Four Masters dated creation to 5090 BC"
+    },
+    {
+      "entity": "AM",
+      "attribute": "the Venerable Bede proposed 3952 BC"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'AM'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Explain AM, the Anno Mundi year count used in early Irish dating.",
+    "key_results": [
+      "Define Anno Mundi as the year of the world.",
+      "Record the creation dates of the Annals of the Four Masters and Bede.",
+      "Note the range of dates medieval scholars cited."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'AM'; Anno Mundi entry"
+  }
+}
