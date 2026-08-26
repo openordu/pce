@@ -278,3 +278,4 @@ layout: layouts/pce.njk
 - [Cynan](Cynan)
 - [cromwell_oliver](cromwell_oliver)
 - [comhghall](comhghall)
+- [conghal_clairingneach](conghal_clairingneach)
