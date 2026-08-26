@@ -1,0 +1,39 @@
+{
+  "name": "Isidore of Seville",
+  "text": "Isidore of Seville, the early medieval Spanish bishop and encyclopedist, lived from about 560 to 636 and ranks among the most prolific writers of his age. His great compilation the Origines, a twenty-book etymological encyclopedia, opened the classics to later medieval readers, while his De Natura Rerum explained geography and climate for a Visigothic king. His historical, grammatical and theological treatises reached the Celtic world early. The Irish are thought to have received his writings in the seventh century, and fragmentary copies of the Origines believed written in Ireland survive at Saint Gallen and at Longleat. Irish computists used his works before 658, and Hiberno-Latin authors cited them widely, building from them the obscure style known as Hisperic Latin. His etymologies even helped shape native law-tracts and the grammatical primer Auraicept na nÉces. His influence shows further in Scotland through Adomnán at Iona and in Breton manuscripts, and echoes appear in Welsh works such as the Book of Taliesin. So widely adopted were his ideas that the Irish sometimes claimed his authorship for writings of their own.",
+  "entities": [
+    {"entity": "Isidore of Seville", "type": "Person"},
+    {"entity": "Origines", "type": "Literature"},
+    {"entity": "De Natura Rerum", "type": "Literature"},
+    {"entity": "Hisperic Latin", "type": "Language"},
+    {"entity": "Hiberno-Latin", "type": "Language"},
+    {"entity": "Adomnán", "type": "Person"},
+    {"entity": "Iona", "type": "Place"},
+    {"entity": "Saint Gallen", "type": "Place"},
+    {"entity": "Auraicept na nÉces", "type": "Literature"},
+    {"entity": "Book of Taliesin", "type": "Literature"}
+  ],
+  "attributes": [
+    {"entity": "Isidore of Seville", "attribute": "was a prolific early medieval Spanish bishop and encyclopedist"},
+    {"entity": "Origines", "attribute": "a twenty-book etymological encyclopedia that opened the classics to medieval readers"},
+    {"entity": "Isidore of Seville", "attribute": "his writings reached Ireland, Scotland, Brittany and Wales at an early date"},
+    {"entity": "Hiberno-Latin authors", "attribute": "cited his works and built from them the style known as Hisperic Latin"},
+    {"entity": "Isidore of Seville", "attribute": "his etymologies influenced native Irish law-tracts and grammatical texts"},
+    {"entity": "Adomnán", "attribute": "used the Origines when writing his De Locis Sanctis at Iona"}
+  ],
+  "okr": {
+    "objective": "Present Isidore of Seville as a source of learning for the early medieval Celtic world.",
+    "key_results": [
+      "Give the dates and standing of Isidore of Seville as a writer",
+      "Name his principal encyclopedic and scientific works",
+      "Trace the early reception of his writings by the Irish",
+      "Explain his role in Hiberno-Latin literature and Hisperic Latin",
+      "Describe his influence in Scotland, Brittany and Wales"
+    ],
+    "evidence": "Koch 2006, s.v. 'Isidore of Seville'."
+  },
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "sources": ["Koch 2006, s.v. 'Isidore of Seville'"]
+}

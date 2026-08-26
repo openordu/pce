@@ -1,0 +1,37 @@
+{
+  "name": "Irish Literature: Post-Classical",
+  "text": "Irish Literature: Post-Classical runs from the Flight of the Earls in 1607 to the Great Famine of the 1840s. The departure of the leading native chiefs and the planting of Ulster ended the old Gaelic order. The loss of their patrons doomed the professional poets as a class, yet writing in Irish still flourished through the 1600s and 1700s. Poets of this age made verse in accentual and in freer syllabic metres. The Dominican friar Paedraigin Haicead stands out among the Irish poets of the 1600s for the range and force of his work. Others, such as Daiibhi O Bruadair, wrote laments and satires that mirrored the ruin of their world. The political vision poem called the aisling became a mark of the 1700s, where Ireland appears as a sorrowing woman and a Stuart king is awaited. Verse also took up religious and moral themes. In prose, the period produced religious and historical writing, including translations of the Bible made after the Reformation. Poets increasingly wrote in Irish for the common people rather than for grand lords, and the singing of the local bards marks the age. The vigour of the tradition faded toward the middle of the 1800s as the Famine took hold.",
+  "entities": [
+    {"entity": "Irish Literature: Post-Classical", "type": "Literature"},
+    {"entity": "Flight of the Earls", "type": "Event"},
+    {"entity": "aisling", "type": "Concept"},
+    {"entity": "Paedraigin Haicead", "type": "Person"},
+    {"entity": "Daiibhi O Bruadair", "type": "Person"},
+    {"entity": "Aogan O Rathaille", "type": "Person"},
+    {"entity": "Great Famine", "type": "Event"},
+    {"entity": "Brehon law", "type": "Concept"}
+  ],
+  "attributes": [
+    {"entity": "Irish Literature: Post-Classical", "attribute": "spans the years from the Flight of the Earls to the Great Famine"},
+    {"entity": "Flight of the Earls", "attribute": "took place in 1607 with the exile of the native chiefs"},
+    {"entity": "aisling", "attribute": "is the political vision poem where Ireland appears as a sad woman"},
+    {"entity": "Paedraigin Haicead", "attribute": "was a Dominican friar and a leading Irish poet of the 1600s"},
+    {"entity": "Daiibhi O Bruadair", "attribute": "wrote poems that mirrored the ruin of his social world"},
+    {"entity": "Great Famine", "attribute": "brought the post-classical period to its close"}
+  ],
+  "sources": ["Koch 2006, s.v. 'Irish_Literature_Post_Classical'"],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Establishes Irish post-classical literature as the writing produced from the Flight of the Earls in 1607 to the Great Famine.",
+    "key_results": [
+      "Dates the period from the Flight of the Earls to the Great Famine",
+      "Shows the fall of the professional poets caused by the loss of patrons",
+      "Highlights the work of the poet Paedraigin Haicead in the 1600s",
+      "Explains the political vision poem known as the aisling",
+      "Notes the prose and verse written for common people rather than lords"
+    ],
+    "evidence": "Koch 2006, s.v. 'Irish_Literature_Post_Classical'"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "name": "Irish Literature: early poetry",
+  "text": "Irish Literature: early poetry runs from about 600 up to 1200. In the illiterate Ireland of that age the learned poets, known as the fili, carried their craft without writing. The word fili points to seeing or knowing, and such men guarded the deep store of their society. Their verse began to be set down only from about the sixth century, usually inside monasteries. The earliest poet whose name we hold is Colman mac Lenei, who died near 604 and had been a warrior before he took to the monastic life. A lament for the saint Colum Cille ranks among the best dated early poems. Royal men such as Flann Fina, the Irish name of the Northumbrian ruler Aldfrith, also had verses placed in their mouths. Religious writers turned to the mother of Jesus and the Christ child, as in the poems of Blathmac. The Faelire Oengusso gave a verse calendar covering one saint for each day of the year. Poets likewise made praise verse for kings and their courts. The sagas carried stretches of verse, while free lyrics told of love, exile, and the quiet of nature. The regular metre used seven syllables in each line and stayed in use across the centuries.",
+  "entities": [
+    {"entity": "Irish Literature: early poetry", "type": "Literature"},
+    {"entity": "fili", "type": "Concept"},
+    {"entity": "Colman mac Lenei", "type": "Person"},
+    {"entity": "Colum Cille", "type": "Person"},
+    {"entity": "Blathmac", "type": "Person"},
+    {"entity": "Aldfrith", "type": "Person"},
+    {"entity": "Oengus cele De", "type": "Person"},
+    {"entity": "Faelire Oengusso", "type": "Literature"}
+  ],
+  "attributes": [
+    {"entity": "Irish Literature: early poetry", "attribute": "runs from the sixth century to roughly 1200"},
+    {"entity": "fili", "attribute": "names the learned poets of Ireland, a word touched with sight and the knowledge"},
+    {"entity": "Colman mac Lenei", "attribute": "is the earliest poet whose name we keep"},
+    {"entity": "Blathmac", "attribute": "composed verse for Mary and the childhood of Jesus"},
+    {"entity": "Aldfrith", "attribute": "took the Irish name Flann Fina for the verse addressed to him"},
+    {"entity": "Oengus cele De", "attribute": "made the verse calendar of the saints called the Faelire Oengusso"}
+  ],
+  "sources": ["Koch 2006, s.v. 'Irish_Literature_Early_Poetry'"],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Establishes the early poetry of Ireland as the verse composed by the fili and the church between the 6th and early 13th centuries.",
+    "key_results": [
+      "Presents the fili as the learned poets who guarded the store of knowledge",
+      "Names Colman mac Lenei as the earliest Irish poet we know",
+      "Records a lament for Colum Cille among the best dated early poems",
+      "Notes religious verse for Mary and the yearly saints in the Faelire Oengusso",
+      "Shows the praise poetry offered to kings and courts"
+    ],
+    "evidence": "Koch 2006, s.v. 'Irish_Literature_Early_Poetry'"
+  }
+}

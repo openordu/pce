@@ -1,0 +1,37 @@
+{
+  "name": "Irish Literature: Classical poetry",
+  "text": "Irish Literature: Classical poetry was the most honoured kind of Irish writing between about 1200 and 1650. It was composed by trained poets who worked in a fixed language called Classical Modern Irish, and it followed the strictest system of metre in the whole Irish verse. This code of metre, known as dan direach, grew through the Middle Irish period and was fixed near the start of the 1200s. The poets, often called the filidh or the bardic order, held their craft as a hereditary profession. They spent many years at schools of poetry to master the language, the metres, and the works of the great poets before them. The main duty of such a bard was to praise his patron, usually the head of a leading family. Praise of valour, noble birth, and open generosity ran through these poems. Each work was built to fit one person, naming his titles, parents, home, and deeds. A master poet could win a fine reward, and the best prize was the post of court poet, which carried land held free of tax. Of the many poems in strict verse that survive, around fifteen hundred have been published.",
+  "entities": [
+    {"entity": "Irish Literature: Classical poetry", "type": "Literature"},
+    {"entity": "Classical Modern Irish", "type": "Language"},
+    {"entity": "dan direach", "type": "Concept"},
+    {"entity": "filidh", "type": "Concept"},
+    {"entity": "bardic order", "type": "Institution"},
+    {"entity": "dàn molta", "type": "Concept"},
+    {"entity": "ollamh flatha", "type": "Concept"},
+    {"entity": "Eochaidh O heodhasa", "type": "Person"}
+  ],
+  "attributes": [
+    {"entity": "Irish Literature: Classical poetry", "attribute": "was the most valued genre of Irish writing from about 1200 to 1650"},
+    {"entity": "Classical Modern Irish", "attribute": "was the fixed language used by the professional poets"},
+    {"entity": "dan direach", "attribute": "names the strict syllabic metre code of the classical poets"},
+    {"entity": "filidh", "attribute": "worked as a hereditary profession with years of training"},
+    {"entity": "ollamh flatha", "attribute": "was the official court poet, a post that carried tax-free land"},
+    {"entity": "dàn molta", "attribute": "was the praise poem that validated a patron's standing"}
+  ],
+  "sources": ["Koch 2006, s.v. 'Irish_Literature_Classical_Poetry'"],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Establishes Irish classical poetry as the strict-verse court poetry of the professional bardic poets between 1200 and 1650.",
+    "key_results": [
+      "Frames classical poetry as the most honoured genre of Irish writing in the period",
+      "Identifies Classical Modern Irish as the fixed language of the poets",
+      "Names dan direach as the strict syllabic metre code",
+      "Shows the poets trained for years in hereditary bardic schools",
+      "Explains the praise poem and the prized post of court poet"
+    ],
+    "evidence": "Koch 2006, s.v. 'Irish_Literature_Classical_Poetry'"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "name": "Irish Literature: early prose",
+  "text": "Irish Literature: early prose is prose fiction written in the Irish language from about 700 down to around 1650. Few manuscripts from the Old Irish period survive, because the wet climate and acid soil destroyed them, so later copies carry the same tales. One lost book, called Cin Dromma Snechtai or the Book of Druim Snechta, is known only from notes in later texts. Early writers sorted tales into echtrai, meaning adventures, and immrama, meaning voyage stories. The Mythological Cycle covers the Tuath De, the tribe of the gods, whose members modern scholars read as older pre-Christian deities. The Ulster Cycle tells of the royal hall of Emain Macha and its hero Cu Chulainn. The Kings' cycles gather the sagas of the ancient rulers, while the Fenian cycle, Fiannaiocht, follows the warrior band of Finn Mac Cumaill. These medieval cycles took shape in monasteries, where monks copied a range of leading texts. After the Anglo-Norman invasion of 1169, romances imitating continental tales of courtly love and magic became common. By the 1100s the older heroic style declined, and patronage moved from the church to the secular bardic order.",
+  "entities": [
+    {"entity": "Irish Literature: early prose", "type": "Literature"},
+    {"entity": "Cin Dromma Snechtai", "type": "Literature"},
+    {"entity": "Mythological Cycle", "type": "Literature"},
+    {"entity": "Ulster Cycle", "type": "Literature"},
+    {"entity": "Tuath De", "type": "Concept"},
+    {"entity": "Cu Chulainn", "type": "Person"},
+    {"entity": "Fiannaiocht", "type": "Literature"},
+    {"entity": "Finn Mac Cumaill", "type": "Person"}
+  ],
+  "attributes": [
+    {"entity": "Irish Literature: early prose", "attribute": "belongs to the Old, Middle, and Early Modern Irish period"},
+    {"entity": "Cin Dromma Snechtai", "attribute": "is a lost prose collection named in later copies"},
+    {"entity": "Mythological Cycle", "attribute": "centres on the Tuath De, the tribe of the gods"},
+    {"entity": "Ulster Cycle", "attribute": "is set at the royal court of Emain Macha in Ulster"},
+    {"entity": "Cu Chulainn", "attribute": "is the leading hero of the Ulster Cycle"},
+    {"entity": "Finn Mac Cumaill", "attribute": "leads the warrior band at the heart of the Fenian cycle"}
+  ],
+  "sources": ["Koch 2006, s.v. 'Irish_Literature_Early_Prose'"],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Establishes Irish early prose as the fiction written in the Irish language between roughly 700 and 1650, centered on the medieval heroic and mythological cycles.",
+    "key_results": [
+      "Frames the prose as fiction of the Old, Middle, and Early Modern Irish periods",
+      "Names Cin Dromma Snechtai as a lost prose collection known from later citations",
+      "Sketches the Mythological and Ulster cycles and their chief characters",
+      "Identifies the Fenian cycle built around Finn Mac Cumaill",
+      "Records the 12th-century shift from heroic tales toward continental romantic forms"
+    ],
+    "evidence": "Koch 2006, s.v. 'Irish_Literature_Early_Prose'"
+  }
+}
