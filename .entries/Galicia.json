@@ -1,0 +1,33 @@
+{
+  "name": "Galicia",
+  "text": "Galicia is a region on the Atlantic side of north-west Spain. Its Celtic past reaches back to ancient Gallaecia, a land larger than the modern province. In pre-Roman times the Castro Culture built hill-forts, called castros, across the territory. Many Galician place-names carry the old Celtic ending -briga, meaning a hill or a hill-fort. The Romans organised Gallaecia into three districts, the Conventus Lucensis, Conventus Bracarensis, and Conventus Asturum. Peoples such as the Celtici, the Arrotrebae, and the Brigantii bore Celtic names. Modern Galicia keeps a Celtic-linked tongue and culture, including a strong tradition of bagpipe music tying it to Atlantic Europe.",
+  "entities": [
+    {"entity": "Galicia", "type": "Place"},
+    {"entity": "Gallaecia", "type": "Place"},
+    {"entity": "Gallaecia", "type": "Region"},
+    {"entity": "Castro Culture", "type": "Culture"},
+    {"entity": "Galician", "type": "Language"},
+    {"entity": "Celtici", "type": "People"},
+    {"entity": "Arrotrebae", "type": "People"}
+  ],
+  "attributes": [
+    {"entity": "Galicia", "attribute": "lies on the Atlantic coast of north-west Spain"},
+    {"entity": "Gallaecia", "attribute": "ancient land that was much larger than modern Galicia"},
+    {"entity": "Castro Culture", "attribute": "pre-Roman civilization that built castros or hill-forts"},
+    {"entity": "Galician place-names", "attribute": "often hold a surviving -briga element meaning hill"},
+    {"entity": "Galicia", "attribute": "keeps a Celtic-linked tongue and culture"}
+  ],
+  "sources": ["Koch 2006, s. v. 'Galicia'"],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Document Galicia and its Celtic past in north-west Spain.",
+    "key_results": [
+      "Record ancient Gallaecia and its three Roman conventi",
+      "Note the Castro Culture and the -briga place-name element",
+      "List Celtic-named peoples such as the Celtici and Arrotrebae"
+    ],
+    "evidence": "Koch 2006, s. v. \"Galicia\""
+  }
+}
