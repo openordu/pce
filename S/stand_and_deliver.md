@@ -1,0 +1,55 @@
+---
+layout: layouts/pce.njk
+title: stand and deliver
+icon: file-lines
+order: 2519
+contributors: [ 'Christopher Godwin' ]
+attributes:
+  - stand and deliver is a Danaher customs chapter on highway robbery and the danger of the roads in Ireland
+  - Dublin lay at one end of the busiest coach road, much haunted by highwaymen
+  - Redmond O'Hanlon was the celebrated highwayman of Armagh whose head was set on a stake over Downpatrick jail
+  - stand and deliver notes that not every road hold-up was robbery, but sometimes the taking of arms or documents
+  - Brennan on the Moor is the outlaw of song among the roads from Clonmel to Killarney
+categories:
+  - concept
+  - Person
+  - Place
+entities:
+  - stand and deliver(concept)
+  - Dublin(Place)
+  - Redmond O'Hanlon(Person)
+  - William Brennan(Person)
+  - highway robbery(concept)
+  - Belfast(Place)
+tags:
+  - stand and deliver
+  - Dublin
+  - Redmond O'Hanlon
+  - William Brennan
+  - highway robbery
+  - Belfast
+---
+``` tab [group1:Info]
+::: magazinestyle
+Stand and deliver held terror for travellers on the Irish roads of the eighteenth and early nineteenth centuries, when the old newspapers teemed in a curious way with chronicles of highway robbery, of travellers who sought and received escorts of dragoons, and of coaches pitched to the public as bulletproof, yet the best kept routes stayed unsafe. The busiest of them, the high ground for wagons from Dublin by way of Drogheda and Dundalk to Belfast, drew highwaymen again and again, and the long stretch between a tavern named the Cat and Cage standing at Drumcondra on the edge of Dublin and the hamlet of Swords saw many a stop. In 1773, with the night closing over Santry, the Drogheda coach was waylaid there by two courteous and neatly dressed youths, who helped themselves to the money, timepieces and valuables of those aboard, yet seeing a priest among the passengers they handed his purse back with a bow and a kind word. During 1798 a band that styled itself the Innocents carried off over \u00a3300 from the coach heading north together with the weapons of its guards, and in that same year the coach was halted near the same spot, the travellers escorted to a close-by house while the vehicle was piled with dry furze and burned, an act assigned to insurgents resolved to wreck the mails. Early in the new century the reckless Collier stopped the Dublin coach on his own, having set up dummies of old clothes and straw on the hedges to look like armed men, enough of a show to unnerve the guards into surrendering their blunderbusses, after which he waved the party onward with wishes of a fine journey. Not every checked carriage was halted for goods, for insurgent bands stopped coaches over two things: the weapons of the travellers and the guard, or packets and papers that endangered them in the mails, while the Whiteboys dealt with tithe proctors and engineers of the landlords by making them kneel in the middle of the road and swallow their writs and notices of eviction, the more humane offering water or even beer to wash it down. But what caught the public fancy was the gallant highwayman on horseback, masked and armed with pistols, who robbed the wealthy and relieved the needy in the accepted style. Redmond O'Hanlon, for near twenty years the darling of the poor and the dread of the rich landlords of Armagh, gathered a band of desperate men, devised for himself a grand set of titles as chief ranger of the mountains, chief examiner of the highways and chief protector of his generous friends, refused the offer to help bring a false Popish Plot charge against the saintly archbishop of Armagh, and came at last to be killed by his foster-brother, his head set upon a stake over the gate of Downpatrick prison. Eamonn a'Chnoic of Atshanboe, who had stood his ground in the fighting beside the Boyne and also at Aughrim and was forced into outlawry, was at last struck down by a farmer greedy for the blood reward. Crotty kept his den beneath Crotty's Rock and was betrayed at the end and hanged at Waterford. Charles O'Dempsey was hanged in Maryborough in 1753, and William Brennan honoured in song as 'Brennan on the Moor' was shot dead by the Kerry lawyer Jeremiah O'Connor. The law had the final voice over almost all of them.
+
+:::
+```
+``` tab [group1:Attributes]
+- **stand and deliver**: is a Danaher customs chapter on highway robbery and the danger of the roads in Ireland
+- **Dublin**: lay at one end of the busiest coach road, much haunted by highwaymen
+- **Redmond O'Hanlon**: was the celebrated highwayman of Armagh whose head was set on a stake over Downpatrick jail
+- **stand and deliver**: notes that not every road hold-up was robbery, but sometimes the taking of arms or documents
+- **Brennan on the Moor**: is the outlaw of song among the roads from Clonmel to Killarney
+```
+``` tab [group1:Entities]
+- **stand and deliver**: concept
+- **Dublin**: Place
+- **Redmond O'Hanlon**: Person
+- **William Brennan**: Person
+- **highway robbery**: concept
+- **Belfast**: Place
+```
+``` tab [group1:Sources]
+- Danaher, Kevin. Irish Customs and Beliefs, chapter 'Stand and Deliver!'.
+```
