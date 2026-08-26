@@ -122,3 +122,4 @@ layout: layouts/pce.njk
 - [druids_classical_accounts](druids_classical_accounts)
 - [dwyer_michael](dwyer_michael)
 - [damer_joseph](damer_joseph)
+- [dearg](dearg)
