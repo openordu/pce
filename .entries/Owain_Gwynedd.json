@@ -1,0 +1,64 @@
+{
+  "name": "Owain Gwynedd",
+  "text": "Owain Gwynedd, or Owain ap Gruffudd (d. 1170), ruled the powerful independent kingdom of Gwynedd in north Wales (Cymru) for 33 years after succeeding his father Gruffudd ap Cynan, who died in 1137. His elder brother Cadwallon fell in battle in 1132. Through his younger brother Cadwaladr, Owain joined warfare during their father's last years, taking part with Gruffudd ap Rhys of Deheubarth in assaults on the Norman positions in Ceredigion. He moved to curb his brother's independent ambitions, dispossessing Cadwaladr of his Gwynedd estates in 1144 after the latter's marriage and alliance with the earl of Chester. Owain held back from incursions into Powys while Madog ap Maredudd ruled there, but in 1149 he took the commote of Iâl from him and secured the cantref of Tegeingl on the Chester frontier. Renewed conflict produced a campaign by Henry II in 1157. Although the king was hard pressed, Owain was forced to withdraw and give up Tegeingl. The death of Madog in 1160 let Owain secure Penllyn and Edeirnion. By 1165, with Rhys ap Gruffudd strong in Deheubarth, Owain launched fresh offensives in the north-east, and a major campaign by Henry II came to grief. Owain then led an alliance of Welsh princes of unprecedented strength. In these later years he set aside the style 'king of Gwynedd' and took the title 'prince of the Welsh' (Latin princeps Wallensium), signalling a wish to turn the military alliance into a fresh Welsh political entity.",
+  "entities": [
+    {
+      "entity": "Owain Gwynedd",
+      "type": "Person"
+    },
+    {
+      "entity": "Gwynedd",
+      "type": "Place"
+    },
+    {
+      "entity": "Gruffudd ap Cynan",
+      "type": "Person"
+    },
+    {
+      "entity": "Cadwaladr",
+      "type": "Person"
+    },
+    {
+      "entity": "Henry II",
+      "type": "Person"
+    },
+    {
+      "entity": "Deheubarth",
+      "type": "Place"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Owain Gwynedd",
+      "attribute": "king of Gwynedd for 33 years following his father Gruffudd ap Cynan"
+    },
+    {
+      "entity": "Owain Gwynedd",
+      "attribute": "took the commote of Iâl from Madog ap Maredudd in 1149"
+    },
+    {
+      "entity": "Owain Gwynedd",
+      "attribute": "withdrew from Tegeingl after the 1157 campaign of Henry II"
+    },
+    {
+      "entity": "Owain Gwynedd",
+      "attribute": "assumed the title prince of the Welsh in his later years"
+    }
+  ],
+  "okr": {
+    "objective": "Document the reign of Owain Gwynedd, king of medieval north Wales.",
+    "key_results": [
+      "Record his succession to Gwynedd and 33-year reign",
+      "Describe his conflicts with his brother Cadwaladr and Powys",
+      "Note the campaigns against and coexistence with Henry II",
+      "Report his later title of prince of the Welsh"
+    ],
+    "evidence": "Koch 2006, s.v. 'Owain Gwynedd'."
+  },
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "sources": [
+    "Koch 2006, s.v. 'Owain Gwynedd'"
+  ]
+}

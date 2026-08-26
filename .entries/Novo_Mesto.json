@@ -1,0 +1,33 @@
+{
+  "name": "Novo Mesto",
+  "text": "Novo Mesto is a town in south-eastern Slovenia on the Krka river. It sits within a region that the Celts occupied from the early phases of the La Tène period. Archaeologists have recovered an important cemetery at nearby Kapiteljska njiva and other discovery sites. The earlier finds here belong to the Taurisci tribes. The later Beletov vrt horizon belongs to a successor group called the Latobici. Weapon graves form the oldest group of burials in the area, and several contain iron helmets. Middle La Tène graves carry ribboned shield bosses, chains for fastening swords, large choppers, and iron fibulae. A kantharos with figurative handles and a mask ornament counts among the richest finds from the site. The Taurisci and Boii joined a battle against the Dacian king Burebista around 50 bc, and this conflict appears reflected in a belt plate and clay cups found with a Beletov vrt grave. La Tène pottery at Novo Mesto was turned on a wheel and carried horizontal ribs or round seals. Some handmade vessels decorated with rope and triangle prints preserve a Hallstatt tradition. The finds show the mixing of Celtic settlers with the older pre-La Tène peoples of the region.",
+  "entities": [
+    {"entity": "Novo Mesto", "type": "Place"},
+    {"entity": "Taurisci", "type": "Group"},
+    {"entity": "Latobici", "type": "Group"},
+    {"entity": "Boii", "type": "Group"},
+    {"entity": "La Tène period", "type": "concept"},
+    {"entity": "Hallstatt", "type": "concept"}
+  ],
+  "attributes": [
+    {"entity": "Novo Mesto", "attribute": "town in south-eastern Slovenia occupied by the Celts in the La Tène period"},
+    {"entity": "Kapiteljska njiva", "attribute": "important cemetery near Novo Mesto producing La Tène finds"},
+    {"entity": "Novo Mesto", "attribute": "yields weapon graves, iron helmets, kantharoi, and La Tène pottery"},
+    {"entity": "Taurisci", "attribute": "tribe whose early La Tène finds appear at Novo Mesto"},
+    {"entity": "Latobici", "attribute": "successor tribal group of the Late La Tène Beletov vrt horizon"}
+  ],
+  "okr": {
+    "objective": "Document the Celtic occupation of Novo Mesto as a La Tène centre.",
+    "key_results": [
+      "Record the cemetery and grave finds at Kapiteljska njiva and Beletov vrt",
+      "Describe the Taurisci and Latobici tribal sequence at the site",
+      "Note the artefacts that show links to the Boii and Dacian conflict",
+      "Report the pottery production and craft traditions found at Novo Mesto"
+    ],
+    "evidence": "Koch 2006, s.v. 'Novo Mesto'."
+  },
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "sources": ["Koch 2006, s.v. 'Novo Mesto'"]
+}

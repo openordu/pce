@@ -1,0 +1,31 @@
+{
+  "name": "Owen Huw Roberts",
+  "text": "Owen Huw Roberts appears in a photograph in Koch that shows him dancing a Welsh step dance. In the image he is supported by two musicians, the harpist David Elio Roberts and the clarinettist Robert Ifor Roberts. The caption records the performers who accompany him. The photograph belongs to the documentation of Welsh folk dance and its revival, a subject Koch treats under the section on the dancers who kept the tradition alive. Welsh step dancing and clog dancing were carried forward in the twentieth century through the work of collectors such as Lois Blake along with the society that she helped found, later styled the Welsh Folk Dance Society, in partnership with W. S. Gwynn Williams. The society researched, interpreted, and published Welsh dances, and new compositions continue to appear. Folk dancing in Wales has earned national recognition at the Urdd festival, at the Wales national Eisteddfod, at the Cerdd Dant Festival, and at the Llangollen International Musical Eisteddfod. The photograph of Owen Huw Roberts records one performer within this living tradition of Welsh traditional music and dance.",
+  "entities": [
+    {"entity": "Owen Huw Roberts", "type": "Person"},
+    {"entity": "Welsh Folk Dance Society", "type": "Group"},
+    {"entity": "Lois Blake", "type": "Person"},
+    {"entity": "W. S. Gwynn Williams", "type": "Person"},
+    {"entity": "Llangollen International Musical Eisteddfod", "type": "concept"}
+  ],
+  "attributes": [
+    {"entity": "Owen Huw Roberts", "attribute": "dancer recorded in a Koch photograph accompanied by harp and clarinet"},
+    {"entity": "Welsh Folk Dance Society", "attribute": "body Lois Blake helped found to research and publish Welsh dances"},
+    {"entity": "Lois Blake", "attribute": "collector and first president of the Welsh Folk Dance Society"},
+    {"entity": "Llangollen International Musical Eisteddfod", "attribute": "event where Welsh folk dancing has won national recognition"}
+  ],
+  "okr": {
+    "objective": "Document the subject of the Koch photograph of Owen Huw Roberts and its context in Welsh dance.",
+    "key_results": [
+      "Record the dancer and the two musicians accompanying him",
+      "Place the image within the documentation of Welsh folk dance",
+      "Note the revival work of Lois Blake and the Welsh Folk Dance Society",
+      "Report the national recognition of Welsh folk dancing"
+    ],
+    "evidence": "Koch 2006, s.v. 'Owen Huw Roberts dancing to the accompaniment of David Elio Roberts on the harp and Robert Ifor Roberts on the clarinet'."
+  },
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "sources": ["Koch 2006, s.v. 'Owen Huw Roberts dancing to the accompaniment of David Elio Roberts on the harp and Robert Ifor Roberts on the clarinet'"]
+}
