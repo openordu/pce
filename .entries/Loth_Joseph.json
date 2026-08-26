@@ -1,0 +1,63 @@
+{
+  "name": "Loth, Joseph",
+  "text": "Loth, Joseph (1847–1934) built his reputation in Breton philology inside France's school of Celtic learning. He came from Guémené-sur-Scorff in Brittany, a village lying on the dialect boundary between the Vannetais, or Bro Gwened, and Cornouaille. He taught largely in Quimper, in south-western Brittany, then in Paris, where his studies took him to the Collège de France and the École Pratique des Hautes-Études, and there he met Henri Gaidoz and Henri d'Arbois de Jubainville. He gained his diploma in 1883 and completed doctoral work a year later, and in that same year began teaching Greek at the Faculté des Lettres in Rennes, the Breton city also called Roazhon, rising to Professor in 1889 and staying as dean of the faculty to 1910. He issued the journal Annales de Bretagne from 1886 and edited the Revue Celtique from 1911. After d'Arbois de Jubainville died in 1910, Loth was appointed to the Celtic post at the Collège de France and stayed there until 1930. His standing rests on early Breton history and language, the Latin strand among the Brythonic tongues, and his many Arthurian pieces. He also translated the Mabinogion into French early in his career.",
+  "entities": [
+    {
+      "entity": "Loth, Joseph",
+      "type": "Person"
+    },
+    {
+      "entity": "Guémené-sur-Scorff",
+      "type": "Place"
+    },
+    {
+      "entity": "Quimper",
+      "type": "Place"
+    },
+    {
+      "entity": "Rennes",
+      "type": "Place"
+    },
+    {
+      "entity": "Collège de France",
+      "type": "Place"
+    },
+    {
+      "entity": "Annales de Bretagne",
+      "type": "concept"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Loth, Joseph",
+      "value": "founder of modern Celtic studies in France"
+    },
+    {
+      "entity": "Annales de Bretagne",
+      "value": "learned journal founded by Loth in 1886"
+    },
+    {
+      "entity": "Collège de France",
+      "value": "Chair of Celtic held by Loth from 1910 to 1930"
+    },
+    {
+      "entity": "Guémené-sur-Scorff",
+      "value": "birthplace in Brittany on the dialect boundary"
+    }
+  ],
+  "sources": [
+    "Koch 2006, s.v. 'Loth, Joseph'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Record Loth, Joseph as a verified PCE scholar node.",
+    "key_results": [
+      "Editorial text written of at least 150 chars.",
+      "Entities and attributes recorded for the scholar and his career.",
+      "Protected fields set to empty defaults."
+    ],
+    "evidence": "Koch 2006, s.v. 'Loth, Joseph'."
+  }
+}

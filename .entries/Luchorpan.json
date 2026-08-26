@@ -1,0 +1,31 @@
+{
+  "name": "Luchorpán",
+  "text": "Luchorpán is a supernatural being of Irish tradition that is chiefly known for its small stature. The legendary history preserved in the Lebor Gabála connects the luchorpáin to the house of Ham, the cursed son of Noah, and ranks them beside the Fomoiri. One early record, Echtra Fergusa maic Léi, has three of these beings carry the sleeping king of the Ulaid to the sea; when Fergus seized them, he bargained a life for a pledge granting him passage through any lake or ocean, while one old bay remained closed to him. From this medieval name come Irish leipreachán, Scottish Gaelic luspardan, and English 'leprechaun', a figure that later folklore recasts as a water spirit or a quiet helper.",
+  "entities": [
+    {"entity": "Luchorpán", "type": "Supernatural being"},
+    {"entity": "Fergus", "type": "Person"},
+    {"entity": "Fomoiri", "type": "Mythological people"},
+    {"entity": "Lebor Gabála", "type": "Literary work"},
+    {"entity": "Ulaid", "type": "Place"}
+  ],
+  "attributes": [
+    {"entity": "Luchorpán", "attribute": "supernatural being famous for its small size"},
+    {"entity": "Luchorpán", "attribute": "ranked beside the Fomoiri in early Irish legend"},
+    {"entity": "Luchorpán", "attribute": "said to descend from the house of Ham"},
+    {"entity": "Luchorpán", "attribute": "source of the later Irish and English leprechaun"}
+  ],
+  "sources": ["Koch 2006, s.v. 'Luchorpán'"],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Document Luchorpán, the small supernatural being of Irish tradition.",
+    "key_results": [
+      "Record the being's small stature",
+      "Note its rank beside the Fomoiri",
+      "Tell the medieval account of Fergus and the sea",
+      "Connect the word to the later leprechaun"
+    ],
+    "evidence": "Koch 2006, s.v. 'Luchorpán'"
+  }
+}
