@@ -1,0 +1,35 @@
+{
+  "name": "Gaelic",
+  "text": "Gaelic names a family of Celtic tongues spoken by the Gaels. This branch takes in Irish, Scottish Gaelic, and Manx. The English word comes from Old Irish terms. The forms Goídel and Goídelg meant a Gael and the Gaelic speech. The borrowed source forms were Guoidel and Guoidelec. They grew from primitive British shapes. The shift of early British w- into gw- ruled how these were taken in. The earliest named cases sit near the year 600. Early Irish verse and record the words in use. A native lore says Goídelg was formed from the speech of many peoples. The term has no real bond with Gaul or the Gauls.",
+  "entities": [
+    {"entity": "Gaelic", "type": "Language"},
+    {"entity": "Goídel", "type": "Language"},
+    {"entity": "Goídelg", "type": "Language"},
+    {"entity": "Irish", "type": "Language"},
+    {"entity": "Scottish Gaelic", "type": "Language"},
+    {"entity": "Manx", "type": "Language"},
+    {"entity": "Brythonic", "type": "Language"},
+    {"entity": "Gaels", "type": "Culture"},
+    {"entity": "Ireland", "type": "Place"}
+  ],
+  "attributes": [
+    {"entity": "Gaelic", "attribute": "names a family of Celtic languages"},
+    {"entity": "Gaelic", "attribute": "covers Irish, Scottish Gaelic, and Manx"},
+    {"entity": "Goídel", "attribute": "Old Irish term for a person of the Gaels"},
+    {"entity": "Goídelg", "attribute": "Old Irish term for the Gaelic language"},
+    {"entity": "Gaelic", "attribute": "got its name from a borrowing around the 600s"}
+  ],
+  "sources": ["Koch 2006, s. v. 'Gaelic'"],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Document the Gaelic term and the Gaelic/Goydelic Celtic languages.",
+    "key_results": [
+      "Record the origin of the word Gaelic",
+      "List the Gaelic languages Irish, Scottish Gaelic, and Manx",
+      "Note name-borrowing between Brythonic and Guidelic speech"
+    ],
+    "evidence": "Koch 2006, s. v. 'Gaelic'"
+  }
+}
