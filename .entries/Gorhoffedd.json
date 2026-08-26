@@ -1,0 +1,31 @@
+{
+  "name": "Gorhoffedd",
+  "text": "Gorhoffedd is the title of a Welsh praise poem. Only two poems carry this title. Both appear in the 14th century Hendregadredd Manuscript. Two poets of the twelfth century composed them. Gwalchmai ap Meilyr was pencerdd in the court of Owain Gwynedd. Hywel ab Owain Gwynedd was the son and heir of the same king. The word combines hoffedd and the prefix gor-. The noun means boast, delight, fondness, or love. The compound suggests unrestrained delight or great boasting. The tone of both poems is intense. The subjects are nature, love, and war. Hywel's poem has two distinct parts. One part praises the kingdom of Gwynedd. The other part praises the women he knows. Gwalchmai's gorhoffedd differs from the other work. The bulk of it praises his patron Owain Gwynedd. In it he boasts of his skill in battle. He also describes the beauty of the land. He shows deep affection toward his wife Genilles.",
+  "entities": [
+    { "entity": "Gorhoffedd", "type": "poem" },
+    { "entity": "Gwalchmai ap Meilyr", "type": "person" },
+    { "entity": "Hywel ab Owain Gwynedd", "type": "person" },
+    { "entity": "Hendregadredd Manuscript", "type": "text" },
+    { "entity": "Owain Gwynedd", "type": "person" }
+  ],
+  "attributes": [
+    { "entity": "Gorhoffedd", "attribute": "is a Welsh praise poem title from the early poetic tradition" },
+    { "entity": "Gorhoffedd", "attribute": "the word derives from hoffedd combined with the intensive prefix gor" },
+    { "entity": "Gwalchmai ap Meilyr", "attribute": "served as pencerdd chief of song in the court of Owain Gwynedd" },
+    { "entity": "Hywel ab Owain Gwynedd", "attribute": "was a poet unknown who became the son and heir to Owain Gwynedd" },
+    { "entity": "Hendregadredd Manuscript", "attribute": "is a fourteenth century manuscript that preserves both Gorhoffeddau poems" }
+  ],
+  "okr": {
+    "objective": "Document Gorhoffedd as a Welsh praise poem title from the early poetic tradition.",
+    "key_results": [
+      "Name the two twelfth century poets tied to the title",
+      "Explain the meaning of the word gorhoffedd",
+      "Describe the subjects and tone of the poems"
+    ],
+    "evidence": "Koch 2006, s. v. 'Gorhoffedd'"
+  },
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "sources": ["Koch 2006, s. v. 'Gorhoffedd'"]
+}

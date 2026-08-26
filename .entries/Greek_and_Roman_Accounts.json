@@ -1,0 +1,35 @@
+{
+  "name": "Greek and Roman Accounts",
+  "text": "The Greek and Roman accounts form the earliest written evidence on the ancient Celts. Herodotus located Keltoi beyond the Pillars of Heracles in the fifth century BC. Later writers spread Celtic lands across Gaul and into Iberia. Caesar worked from his own campaigns and wrote fully about the tribes, druids, and warfare of the Gauls. The lost ethnography of Posidonius survives through Diodorus, Strabo, and Athenaeus. These authors noted feasting, head-hunting, and the courage of warriors. They recorded Gaulish words and Galatian names that lasted for generations. Tacitus and others set down the customs of the British and Irish. The tradition runs from the sixth century BC into late antiquity.",
+  "entities": [
+    {"entity": "Herodotus", "type": "Person"},
+    {"entity": "Caesar", "type": "Person"},
+    {"entity": "Strabo", "type": "Person"},
+    {"entity": "Posidonius", "type": "Person"},
+    {"entity": "Gaul", "type": "Place"},
+    {"entity": "Celts", "type": "Group"}
+  ],
+  "attributes": [
+    {"entity": "Greek and Roman Accounts", "attribute": "form the earliest written evidence on the ancient Celts"},
+    {"entity": "Herodotus", "attribute": "placed the Keltoi beyond the Pillars of Heracles in the fifth century BC"},
+    {"entity": "Caesar", "attribute": "drew on his own Gallic campaigns to describe druids, tribes, and warfare"},
+    {"entity": "Posidonius", "attribute": "left the fullest classical ethnography of the Gauls, now lost"},
+    {"entity": "Gaul", "attribute": "home of many Celtic tribes known to the classical writers"},
+    {"entity": "Celts", "attribute": "described by Greek and Roman authors for centuries"}
+  ],
+  "sources": [
+    "Koch 2006, s. v. 'Greek and Roman Accounts'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Record what classical authors wrote about the ancient Celts and the source tradition behind it.",
+    "key_results": [
+      "Named Herodotus, Caesar, Strabo, and Posidonius as key witnesses.",
+      "Listed Celtic lands, customs, and warfare noted by the tradition.",
+      "Fixed the span of the literary record from the sixth century BC to late antiquity."
+    ],
+    "evidence": "Koch 2006, s. v. 'Greek and Roman Accounts'"
+  }
+}

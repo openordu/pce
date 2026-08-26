@@ -1,0 +1,31 @@
+{
+  "name": "Gold torc, armlet, and pair of bracelets",
+  "text": "This jewellery set from the Waldalgesheim burial contains a gold torc, an armlet, and two matching bracelets. A torc is a stiff neck ring of twisted metal, and the armlet encircles the arm. Workers opened this early La Tène grave near Bingen in Germany in the year 1869. The ornaments belonged to a Celtic noblewoman known as the Waldalgesheim princess. Their decoration uses the late Waldalgesheim style of the period. Mask motifs on the bracelets echo an older Early Style. Stylistic dating places the set in the last third of the fourth century BC. These objects show influence from western Europe and the Mediterranean world.",
+  "entities": [
+    {"entity": "Waldalgesheim", "type": "place"},
+    {"entity": "Rhineland", "type": "place"},
+    {"entity": "La Tène", "type": "culture"},
+    {"entity": "torc", "type": "artefact"},
+    {"entity": "Mainz-Bingen", "type": "place"}
+  ],
+  "attributes": [
+    {"entity": "Waldalgesheim", "attribute": "site of a rich early La Tène burial discovered in 1869"},
+    {"entity": "torc", "attribute": "a gold neck ring worn by the buried noblewoman"},
+    {"entity": "Rhineland", "attribute": "region in the northern upper Rhine area where the burial lies"},
+    {"entity": "Waldalgesheim", "attribute": "gives its name to a phase of Iron Age art"},
+    {"entity": "Mainz-Bingen", "attribute": "district in Germany that holds the burial site"}
+  ],
+  "sources": ["Koch 2006, s. v. 'Gold torc, armlet, and pair of bracelets'"],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Present the gold torc, armlet, and pair of bracelets from the Waldalgesheim burial as a distinct documented artefact set.",
+    "key_results": [
+      "Determine the regional and cultural context of the three jewels",
+      "Establish their stylistic and chronological position",
+      "Connect the ornaments to the identified noble burial"
+    ],
+    "evidence": "Koch 2006, s. v. 'Gold torc, armlet, and pair of bracelets'"
+  }
+}
