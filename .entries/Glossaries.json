@@ -1,0 +1,59 @@
+{
+ "name": "Glossaries",
+ "text": "Glossaries were a prized and durable part of early Irish learning. A collection often began with the interlinear and margin notes that readers had written beside a single manuscript, and copyists then gathered those notes together, joining each term to its commentary. Over time small sets merged, and ordering by letter set them free of any one work, so a glossary could hold facts that the original text had lost elsewhere. The general lists took in Cormac's, O'Mulconry's, and O'Davoren's collections, while the Lecan register gave short one-word answers.",
+ "entities": [
+  {
+   "entity": "glossaries",
+   "type": "concept"
+  },
+  {
+   "entity": "Cormac's Glossary",
+   "type": "concept"
+  },
+  {
+   "entity": "O'Davoren's Glossary",
+   "type": "concept"
+  },
+  {
+   "entity": "O'Mulconry's Glossary",
+   "type": "concept"
+  },
+  {
+   "entity": "glossae collectae",
+   "type": "concept"
+  }
+ ],
+ "attributes": [
+  {
+   "entity": "glossaries",
+   "attribute": "preserve individual facts that no longer survive inside the source texts"
+  },
+  {
+   "entity": "glossaries",
+   "attribute": "moved from text-bound notes to lists grouped by the opening letter"
+  },
+  {
+   "entity": "O'Davoren's Glossary",
+   "attribute": "offered legal vocabulary taken from law texts that did not otherwise survive"
+  },
+  {
+   "entity": "Cormac's Glossary",
+   "attribute": "counts among the general collections along with O'Mulconry's and the Lecan work"
+  }
+ ],
+ "okr": {
+  "objective": "Record the role and growth of Celtic glossaries within the PCE corpus.",
+  "key_results": [
+   "name the leading glossaries and their origins",
+   "explain how gathered notes grew into ordered collections",
+   "link the glossaries to the law texts and Cormac"
+  ],
+  "evidence": "Koch 2006, s.v. 'Glossaries'"
+ },
+ "image": [],
+ "cyphertext": "",
+ "salt": "",
+ "sources": [
+  "Koch 2006, s.v. 'Glossaries'"
+ ]
+}
