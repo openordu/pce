@@ -1,0 +1,36 @@
+{
+  "name": "tighearnmhas",
+  "text": "Tighearnmhas is a legendary king of Ireland whose reign the mediaeval annalists placed far back in the prehistoric period. His name is taken to mean lordly. The old genealogies present him as a line of the descendants of Eireamhon, one of the early mythological settlers of the island. He is said to have fought and killed Conmhaol, a son of Eibhear, and the same tradition credits him with the remarkable feat of winning twenty-seven separate battles within the space of a single year. The chroniclers likewise report that the very first gold-mine worked in Ireland was opened during his time of rule, in the land belonging to the Fotharta of the eastern Liffey, an area lying close to Naas in County Kildare. A skilled craftsman called Iuchadan is said to have fashioned a brooch for the king out of this newly found gold. Further inventions are set down to Tighearnmhas: the making of the earliest drinking goblets and vessels of silver, and the first employment of the dyes purple, blue and green for clothing. He laid down a strict rule that the number of colours a person might wear should answer to his standing in society, so that a bondsman wore but one, a peasant two, a paid soldier three, a lord four, a chieftain five, a man of learning six, and the king seven. The same figure is credited with beginning the veneration of the idol Crom Cruach, whose cult stood on the plain of Magh Sleacht, the ground about Tullyhaw in County Cavan. At the festival of Samhain, in the month of November, he came to that place with the assembled people of Ireland at his side, but some vague catastrophe overtook the gathering and he perished there together with three-quarters of his followers. In the judgement of modern scholarship he is plainly a creation of the mediaeval writers; although his reign was assigned to the pagan age, the story of his sudden death was designed to point a moral, showing the anger of God falling upon the sin of idol worship.",
+  "entities": [
+    {"entity": "Tighearnmhas", "type": "Person"},
+    {"entity": "Eireamhon", "type": "Person"},
+    {"entity": "Conmhaol", "type": "Person"},
+    {"entity": "Iuchadan", "type": "Person"},
+    {"entity": "Crom Cruach", "type": "deity"},
+    {"entity": "Magh Sleacht", "type": "Place"},
+    {"entity": "Naas", "type": "Place"},
+    {"entity": "Samhain", "type": "festival"}
+  ],
+  "attributes": [
+    {"entity": "tighearnmhas", "attribute": "was a legendary prehistoric king of Ireland whose name is understood to mean lordly"},
+    {"entity": "Iuchadan", "attribute": "was the wright said to have made a gold brooch for the king"},
+    {"entity": "Crom Cruach", "attribute": "was the idol whose worship Tighearnmhas is said to have begun on the plain of Magh Sleacht in County Cavan"},
+    {"entity": "Magh Sleacht", "attribute": "was the plain at Tullyhaw in County Cavan where the king is said to have died at Samhain with three-quarters of his followers"}
+  ],
+  "okr": {
+    "objective": "Sets out the figure of Tighearnmhas, the legendary prehistoric king of Ireland, from the claims of the mediaeval annalists to the moral tale of his death at the plain of Magh Sleacht.",
+    "key_results": [
+      "Records his legendary feats, including the slaying of Conmhaol and his twenty-seven victories in one year",
+      "Notes the inventions and firsts laid to his reign, from the gold-mine and the brooch of Iuchadan to the dyeing of garments in purple, blue and green",
+      "Explains the colour-by-status rule for clothing that he is said to have ordained",
+      "Tells how he was said to have begun the cult of the idol Crom Cruach and died with his followers at Samhain, a tale meant to show God's wrath against idolatry"
+    ],
+    "evidence": "Ohogain, Daithi. Myth, Legend & Romance: An Encyclopaedia of the Irish Folk Tradition, entry 'TIGHEARNMHAS'."
+  },
+  "sources": [
+    "Ohogain, Daithi. Myth, Legend & Romance: An Encyclopaedia of the Irish Folk Tradition, entry 'TIGHEARNMHAS'."
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": ""
+}

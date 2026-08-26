@@ -107,3 +107,5 @@ layout: layouts/pce.njk
 - [twins](twins)
 - [Taliesin](Taliesin)
 - [Trojan_legends](Trojan_legends)
+- [the_cricket_s_song](the_cricket_s_song)
+- [tighearnmhas](tighearnmhas)

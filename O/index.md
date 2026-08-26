@@ -45,3 +45,8 @@ layout: layouts/pce.njk
 - [Oweynagat](Oweynagat)
 - [owl](owl)
 - [ox](ox)
+- [o_dalaigh_cearbhall](o_dalaigh_cearbhall)
+- [o_donnchi_donnall_na_ngeimhleach](o_donnchi_donnall_na_ngeimhleach)
+- [o_suilleabhain_bearra_donnall_cam](o_suilleabhain_bearra_donnall_cam)
+- [o_riain_eamonn_an_chnoic](o_riain_eamonn_an_chnoic)
+- [o suilleabhain eoghan rua](o_suilleabhain_eoghan_rua)

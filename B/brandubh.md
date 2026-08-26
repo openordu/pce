@@ -1,0 +1,73 @@
+---
+layout: layouts/pce.njk
+title: brandubh
+icon: file-lines
+order: 2529
+contributors: [ 'Christopher Godwin' ]
+attributes:
+  - Brandubh was a king of Leinster whose name, meaning black raven, placed him among the most storied of the early tribal rulers
+  - Brandubh defeated the northern Ui Neill at the battle of Dun Bolg in 598 and slew the high-king Aodh
+  - St Maodhog revived Brandubh after his slaying so that the king could take the last rites, after which he died again and entered heaven
+  - Ferns was the monastery in Wexford where Brandubh was buried
+categories:
+  - Person
+  - Group
+  - Place
+entities:
+  - Brandubh(Person)
+  - Eochu(Person)
+  - Feidhilm(Person)
+  - Aodan mac Gabhran(Person)
+  - Aodh mac Ainmhireach(Person)
+  - St Maodhog(Person)
+  - Ron Cearr(Person)
+  - Leinster(Place)
+  - Dun Bolg(Place)
+  - Ferns(Place)
+  - Ui Neill(Group)
+tags:
+  - Brandubh
+  - Eochu
+  - Feidhilm
+  - Aodan mac Gabhran
+  - Aodh mac Ainmhireach
+  - St Maodhog
+  - Ron Cearr
+  - Leinster
+  - Dun Bolg
+  - Ferns
+  - Ui Neill
+---
+``` tab [group1:Info]
+::: magazinestyle
+Brandubh was a king of the Leinstermen who died around the year six hundred and five. His name, built from the words bran and dubh, was said to mean 'black raven'. He stands among the figures who appear most often in the old stories about the tribal kings. His father was a man called Eochu, and one early text relates that this Eochu spent a time in exile among the Picts and the Scots. It is told that Eochu's wife Feidhilm was delivered of twin boys in the same dwelling, on a single night, where Ingheanach, the consort of a chieftain named Gabhran, likewise suffered the pangs of childbirth and brought twin girls into the world. Feidhilm traded away one of her own sons in exchange for a baby girl, first pressing a grain of gold into the shoulder of the boy she parted with so that she could know him again thereafter. In this way the boy who had been given up grew to manhood in the royal court and came to be known as Aodan mac Gabhrain, the famous captain of the Dal Riada and a monarch of the Scots. When this Aodan later led his army against Leinster, his natural mother Feidhilm rode out to the camp, showed him the grain of gold that lay under his skin, and so settled who he truly was, whereupon the two kings made their peace. This is a fanciful tale that the learned have set down as having no foundation in fact, drawn instead from popular beliefs about the confusion of newborn children. Mediaeval romance in like manner joined the ruler of Leinster to the exploits of Mongan, since that hero's own father had stood as a friend to the king of Scotland.
+He is said to have struck seven blows against the lands of Breagha, but his greatest triumph over the northern Ui Neill there came in the year five hundred and ninety-eight at the battle of Dun Bolg, a place that is now called Dunboyke near Hollywood in County Wicklow. The high-king Aodh mac Ainmhireach, who had come south to gather the tribute known as the boromha, fell in that fight and his host was broken. By the eleventh century a whole cycle of tales had fastened upon the struggle, painting its fighters in dramatic colours. One tale concerns a royal son named Cumascach who journeyed from province to province demanding that the consort of every petty king whose land he crossed be given over to his bed. When he reached Leinster, Brandubh let it be known that he had gone overseas, and he and his men dressed themselves as serving folk. As a banquet was laid for the visitor, the satirist Glasdamh saw through the disguise when the figure of the cook proved too generous in the bounty that was offered, and he warned Cumascach to be on his guard. Seeing this, Brandubh bolted the doors of the house from without and set fire to it. Glasdamh begged leave to go free, arguing that he had been given food and was therefore a proper guest. He was allowed out, but in the confusion Cumascach slipped away in the poet's clothes. The young prince was nevertheless struck down by one of the Leinster soldiers as he crossed the frontier.
+
+To avenge his son the high-king Aodh brought his host south and made camp at Dun Bolg. Brandubh sent a fair-minded bishop named Aodan of Glendalough to seek a truce, but the monarch dishonoured the envoy by insisting that the holy man touch his own private parts. The affronted bishop answered with a curse that the king's own members would be torn from him by a she-wolf. He then counseled Brandubh to pack his fighting men into baskets strapped upon oxen, giving it out that the beasts were carrying food as tribute, and to drive also a herd of unbroken horses with stones bound to their tails. Brandubh secured a truce with the Ulster men who rode in the high-king's force, took up the challenge of the royal champion and struck him down, and sent a spy named Ron Cearr into the enemy camp in the dress of a leper to arrange a treacherous delivery of food. The high-king glimpsed something of a soldier in the supposed beggar and readied himself for the fight, yet let down his watchfulness when the Leinstermen arrived bearing a great quantity of provender. The hidden warriors burst from the baskets, the wild stallions were loosened, and utter ruin was loosed upon the camp. The host of Aodh threw up a palisade of spears and interlocked shields to guard their falling monarch, yet Ron Cearr forced his way, cut down the bodyguard, pulled Aodh from the saddle and struck the head from him. The spy thrust the head of Aodh deep into his leather bag of provisions and brought it before the lord of Leinster.
+
+Some ways of telling the story have it that both Cumascach and the high-king Aodh fell by the hand of Brandubh himself, which only adds to the well-earned terror of the king's name. The death of Brandubh is itself recounted in the hagiographies of the early church. He held the holy man Maodhog as his trusted adviser and companion, and it is told that a certain lance-eyed man called Saran slew the king. When Maodhog saw that his royal friend had died without the rite of shriving, he prayed and fasted long and by those means brought him back to life anew. Brandubh, however, had no wish to return to a world of sin, and having the final Sacrament safe in him he desired at once to go to heaven and so died again. He was laid to rest in the monastery of his friend at Ferns in the modern county of Wexford. Saran grieved and turned from his wickedness and was forgiven, but the arm that dealt the blow withered.
+
+:::
+```
+``` tab [group1:Attributes]
+- **Brandubh**: was a king of Leinster whose name, meaning black raven, placed him among the most storied of the early tribal rulers
+- **Brandubh**: defeated the northern Ui Neill at the battle of Dun Bolg in 598 and slew the high-king Aodh
+- **St Maodhog**: revived Brandubh after his slaying so that the king could take the last rites, after which he died again and entered heaven
+- **Ferns**: was the monastery in Wexford where Brandubh was buried
+```
+``` tab [group1:Entities]
+- **Brandubh**: Person
+- **Eochu**: Person
+- **Feidhilm**: Person
+- **Aodan mac Gabhran**: Person
+- **Aodh mac Ainmhireach**: Person
+- **St Maodhog**: Person
+- **Ron Cearr**: Person
+- **Leinster**: Place
+- **Dun Bolg**: Place
+- **Ferns**: Place
+- **Ui Neill**: Group
+```
+``` tab [group1:Sources]
+- Ohogain, Daithi. Myth, Legend & Romance: An Encyclopaedia of the Irish Folk Tradition, entry 'BRANDUBH'.
+```

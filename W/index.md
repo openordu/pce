@@ -18,3 +18,6 @@ layout: layouts/pce.njk
 - [welsh_poetry](welsh_poetry)
 - [wild_man_in_celtic_legend](wild_man_in_celtic_legend)
 - [wild_man_in_Celtic_legend](wild_man_in_Celtic_legend)
+- [wandering_people](wandering_people)
+
+- [william_of_orange](william_of_orange)

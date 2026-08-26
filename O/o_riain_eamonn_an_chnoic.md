@@ -1,0 +1,81 @@
+---
+layout: layouts/pce.njk
+title: o riain eamonn an chnoic
+icon: file-lines
+order: 2539
+contributors: [ 'Christopher Godwin' ]
+attributes:
+  - o riain eamonn an chnoic late 16th/early 17th-century outlaw known in English as Ned of the Hill, born by tradition at Knockmeoll Castle in Atshanbohy in north Tipperary, of noble stock and driven into outlawry at the time of the Williamite Wars, a 1702 reward of two hundred pounds offered for his capture, and later slain treacherously by a close confidant
+  - o riain eamonn an chnoic one of the most famous raparees (from the Irish rapaire, a half-pike), high-minded and well-dressed, a master marksman with a brace of pistols; a fugitive after killing a tax collector, fought for the Jacobites against William of Orange and with Donall O hOgain (Galloping Hogan) destroyed an English convoy near Dundrum
+  - o riain eamonn an chnoic gallant in legend, robbing only the rich and aiding the poor, wooed in the love-song Eamonn an Chnoic, and met his end at the house of Dwyer, who beheaded him in his sleep and carried the head to Clonmel only to find a pardon had just been won
+categories:
+  - Group
+  - Place
+  - Person
+entities:
+  - o riain eamonn an chnoic(Person)
+  - Ned of the Hill(Person)
+  - Donall O hOgain(Person)
+  - Galloping Hogan(Person)
+  - William of Orange(Person)
+  - Reamonn O hAnluain(Person)
+  - Richard Power(Person)
+  - Reuben Lee(Person)
+  - Dwyer(Person)
+  - Knockmeoll Castle(Place)
+  - Atshanbohy(Place)
+  - Tipperary(Place)
+  - Dundrum(Place)
+  - Clonmel(Place)
+  - the Jacobites(Group)
+  - the raparees(Group)
+tags:
+  - o riain eamonn an chnoic
+  - Ned of the Hill
+  - Donall O hOgain
+  - Galloping Hogan
+  - William of Orange
+  - Reamonn O hAnluain
+  - Richard Power
+  - Reuben Lee
+  - Dwyer
+  - Knockmeoll Castle
+  - Atshanbohy
+  - Tipperary
+  - Dundrum
+  - Clonmel
+  - the Jacobites
+  - the raparees
+---
+``` tab [group1:Info]
+::: magazinestyle
+o riain eamonn an chnoic, the outlaw English-speakers called Ned of the Hill, was at work in the later sixteenth century and the opening of the seventeenth. Tradition sets his birth at Knockmeoll Castle, within the townland of Atshanbohy in the northern stretch of County Tipperary, and counts him of gentle blood, a man pushed into the wild when the Williamite Wars divided the land. A decree issued in 1702 fixed the reward of two hundred pounds upon taking him, a very considerable sum in that age, and not long afterward he was undone by treachery, struck down by one who had once stood close to him. He ranked among the most celebrated of the raparees, the bandits whose name stems from the Irish rapaire, a half-pike that formed their usual arm. Much story clung to him well into living memory, with the affection grown stronger through the beloved love-song Eamonn an Chnoic, a dialogue in which the young man pleads at the door of his sweetheart for shelter on a chill, gusty evening. The air is probably older than the outlaw, whose nickname was very likely drawn from it. In the fireside tales he cuts a high-minded figure, finely turned out and a deadly shot with a fine brace of pistols. He had, so the story runs, gone abroad to study for the priesthood, yet on returning home for the holidays he stepped in to keep a tax collector from leading off the cow of a poor widow. In the scuffle that followed the taxman was killed, forcing Eamonn to flee into the hills and woods, where he soon gathered a sturdy band and took the Jacobite side in the contest against William of Orange. With Donall O hOgain, the man celebrated as Galloping Hogan, he fell upon and wrecked an English convoy near Dundrum in County Tipperary. Most legends, though, show him riding alone on a handsome grey horse, slipping away from search-parties of soldiers and, when he had to, turning on them and scattering them. He stayed ever gallant, robbing only the wealthy and giving help to the needy. One cherished tale sees him meet an English lady, robbed by rogues passing off as his own men. He hotly ran the thieves down, seized hold of them, and put the money back in her hand. Her husband, a senior army officer, was so grateful that he worked to win a pardon for the courteous outlaw. It was told, too, that he often met rich travellers on the highway and usually dealt generously with them, leaving their wealth alone. On one such occasion he spoke at length with an English officer before declaring his identity; the officer pretended friendship, led him into a tavern for a drink, and had a company of soldiers close about him. Eamonn contrived to make the soldiers drunk, stole away in the disorder, and later dropped the treacherous officer with a single well-aimed shot. A string of the standard outlaw-tales became fastened to his memory. In one a schemer hopes to undo him by coaxing him to a meal, yet the man's wife warns him to eat cold and be gone, a wandering tale device standing in for a genuine happening in which Reuben Lee of Gurnaskehy schemed to lead him into a snare, with a relative who was also present in the house whispering a warning. Another shows him held up on the road by a highwayman, the pair enduring a long and hard fight before he learns that his foe is none other than Reamonn O hAnluain, a scene lifted from the printed life of that robber. From the same book, where the deed is told of Richard Power, comes the plot of handing silver to poor tenants so they can settle with a grasping landlord, then wrenching the money back from the tyrant and restoring it, a scheme common to the bandit-lore of many lands. Yet another has him let himself be seized so a poor man can pocket the ransom, then slip free once more. The heroic outlaw, it is said, can only be felled by foul means, and so it proved for Eamonn in truth as in story. He lay asleep at the home of a certain Dwyer, a man he took for a friend though the fellow meant to claim the price on his head. He dreamed that Dwyer stepped toward him carrying a hatchet, but on waking he put the fancy aside. He slept again, and the false friend indeed struck off his head, bearing it to Clonmel to gather the reward. Yet tradition holds that a pardon had only just been secured by the officer beholden to him for the gentle treatment of his wife, and so the traitor came away empty-handed.
+
+:::
+```
+``` tab [group1:Attributes]
+- **o riain eamonn an chnoic**: late 16th/early 17th-century outlaw known in English as Ned of the Hill, born by tradition at Knockmeoll Castle in Atshanbohy in north Tipperary, of noble stock and driven into outlawry at the time of the Williamite Wars, a 1702 reward of two hundred pounds offered for his capture, and later slain treacherously by a close confidant
+- **o riain eamonn an chnoic**: one of the most famous raparees (from the Irish rapaire, a half-pike), high-minded and well-dressed, a master marksman with a brace of pistols; a fugitive after killing a tax collector, fought for the Jacobites against William of Orange and with Donall O hOgain (Galloping Hogan) destroyed an English convoy near Dundrum
+- **o riain eamonn an chnoic**: gallant in legend, robbing only the rich and aiding the poor, wooed in the love-song Eamonn an Chnoic, and met his end at the house of Dwyer, who beheaded him in his sleep and carried the head to Clonmel only to find a pardon had just been won
+```
+``` tab [group1:Entities]
+- **o riain eamonn an chnoic**: Person
+- **Ned of the Hill**: Person
+- **Donall O hOgain**: Person
+- **Galloping Hogan**: Person
+- **William of Orange**: Person
+- **Reamonn O hAnluain**: Person
+- **Richard Power**: Person
+- **Reuben Lee**: Person
+- **Dwyer**: Person
+- **Knockmeoll Castle**: Place
+- **Atshanbohy**: Place
+- **Tipperary**: Place
+- **Dundrum**: Place
+- **Clonmel**: Place
+- **the Jacobites**: Group
+- **the raparees**: Group
+```
+``` tab [group1:Sources]
+- Ohogain, Daithi.
+```
