@@ -1,0 +1,63 @@
+{
+  "name": "Medical manuscripts",
+  "text": "Medical manuscripts form the chief surviving record of medicine in Ireland and Gaelic Scotland. The corpus holds more than one hundred texts in the Irish language. They span the early 1400s to the late 1600s. Together the pages number just over sixteen thousand. They are the leading witness to medicine in the later medieval and the early modern Gaelic world. Most of the Irish copies sit in Dublin. The Royal Irish Academy holds the largest group. Trinity College holds twenty-eight. The National Library of Ireland holds ten. In Scotland the National Library in Edinburgh keeps twenty-two. The British Library keeps nine of the copies in its Irish collections. Learned kin groups copied and owned these books. The Mac An Leagha family worked in Ireland. Some of its stream moved to Scotland near 1300. The Beatons became the chief Scottish medical line. John Bannerman traced seventy-six physicians in the kindred between 1300 and 1700.",
+  "entities": [
+    {
+      "entity": "Medical manuscripts",
+      "type": "Group"
+    },
+    {
+      "entity": "Ireland",
+      "type": "Place"
+    },
+    {
+      "entity": "Scotland",
+      "type": "Place"
+    },
+    {
+      "entity": "Royal Irish Academy",
+      "type": "Group"
+    },
+    {
+      "entity": "Beatons",
+      "type": "Group"
+    },
+    {
+      "entity": "Mac an Leagha",
+      "type": "Group"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Medical manuscripts",
+      "attribute": "over one hundred Irish-language manuscripts with sixteen thousand pages"
+    },
+    {
+      "entity": "Medical manuscripts",
+      "attribute": "the chief record of medicine in Ireland and Gaelic Scotland from 1400 to 1700"
+    },
+    {
+      "entity": "Royal Irish Academy",
+      "attribute": "holder of thirty-three medical manuscripts in Dublin"
+    },
+    {
+      "entity": "Beatons",
+      "attribute": "the principal Scottish medical family, studied by John Bannerman"
+    }
+  ],
+  "okr": {
+    "objective": "Document the corpus of medical manuscripts in the Gaelic languages.",
+    "key_results": [
+      "Record the size and date range of the Irish medical corpus",
+      "List the main holding libraries and their counts",
+      "Describe the learned medical families that produced the manuscripts"
+    ],
+    "evidence": "Koch 2006, s.v. 'Medical manuscripts'."
+  },
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "sources": [
+    "Koch 2006, s.v. 'Medical manuscripts'"
+  ]
+}

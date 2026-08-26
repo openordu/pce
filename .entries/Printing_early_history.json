@@ -1,0 +1,51 @@
+{
+  "name": "Early history of printing",
+  "text": "Early history of printing in the Celtic countries runs from the sixteenth century onward. Printing reached these lands later than much of Europe. It came slowly to Wales, Ireland, and the Isle of Man. Scotland has the richest early record. Over three hundred titles appeared there before 1600. The figure rose to some four thousand before 1700. Printing began in Ireland in 1551. The first Dublin book was the English Book of Common Prayer, made by Humphrey Powell. An Irish alphabet and catechism followed in 1571. The New Testament in Irish came out in 1602. The Manx Bible was printed at Whitehaven and finished in 1775. Printers made many Welsh books abroad. The press became a force for linguistic and cultural survival. It spread the Bible, prayers, and the spoken word in each native tongue.",
+  "entities": [
+    {
+      "entity": "Scotland",
+      "type": "Place"
+    },
+    {
+      "entity": "Ireland",
+      "type": "Place"
+    },
+    {
+      "entity": "Humphrey Powell",
+      "type": "Person"
+    },
+    {
+      "entity": "Wales",
+      "type": "Place"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Scotland",
+      "attribute": "the Celtic country with the richest early printing record"
+    },
+    {
+      "entity": "Humphrey Powell",
+      "attribute": "the London printer who produced Ireland's first printed book"
+    },
+    {
+      "entity": "Ireland",
+      "attribute": "the place where printing began in 1551"
+    }
+  ],
+  "okr": {
+    "objective": "Document the early history of printing in the Celtic countries.",
+    "key_results": [
+      "Record the late arrival of printing in the Celtic lands",
+      "Describe the start of printing in Ireland and Scotland",
+      "Note the Manx Bible and Welsh printing"
+    ],
+    "evidence": "Koch 2006, s.v. 'Printing, early history'."
+  },
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "sources": [
+    "Koch 2006, s.v. 'Printing, early history'"
+  ]
+}

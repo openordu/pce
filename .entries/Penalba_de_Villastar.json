@@ -1,0 +1,47 @@
+{
+  "name": "Penalba de Villastar",
+  "text": "Penalba de Villastar is the home of a famous Celtiberian rock inscription. The place sits in Spain. The text is long and cut into the living rock. The word forms include eniorisee and uta. The chief term has been read in many ways. Some take it as a month name. Others see a personal name. A few read a place name in Orosis. Some read it as the god Lugus on the mountain. The verb marks it as Celtiberian. The text is placed beside the Latin particle -que for and. Translations and talks by scholars have framed much of the argument.",
+  "entities": [
+    {
+      "entity": "Penalba de Villastar",
+      "type": "Place"
+    },
+    {
+      "entity": "Celtiberian",
+      "type": "Group"
+    },
+    {
+      "entity": "Lugus",
+      "type": "Person"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Penalba de Villastar",
+      "attribute": "site of a long Celtiberian rock inscription in Spain"
+    },
+    {
+      "entity": "Lugus",
+      "attribute": "a god some scholars read in the inscription"
+    },
+    {
+      "entity": "Celtiberian",
+      "attribute": "the language of the Penalba de Villastar text"
+    }
+  ],
+  "okr": {
+    "objective": "Document the Penalba de Villastar inscription.",
+    "key_results": [
+      "Record the site of the long Celtiberian rock text",
+      "Describe the rival readings of the chief word",
+      "Note the word uta and its parallel particles"
+    ],
+    "evidence": "Koch 2006, s.v. 'Penalba de Villastar'."
+  },
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "sources": [
+    "Koch 2006, s.v. 'Penalba de Villastar'"
+  ]
+}
