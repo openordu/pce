@@ -1,0 +1,39 @@
+{
+  "name": "Ahè",
+  "text": "Ahè is a variant form of the name Dahut. That figure appears as villainess in the Breton legend of Ys, the city drowned beneath the sea. Ahè and Dahut name one selfish person. The legend tells how Ys sank.",
+  "entities": [
+    {
+      "entity": "Dahut",
+      "type": "Character"
+    },
+    {
+      "entity": "Ys",
+      "type": "Place"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Ahè",
+      "attribute": "a variant form of the name Dahut"
+    },
+    {
+      "entity": "Ahè",
+      "attribute": "tied to the legend of the submerged city of Ys"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Ahè'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Flag Ahè as a variant form of Dahut in the legend of Ys.",
+    "key_results": [
+      "Note Ahè as a variant spelling of Dahut.",
+      "Link the figure to the submerged city of Ys.",
+      "Identify Dahut as the villainess of the tale."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Ahè'"
+  }
+}

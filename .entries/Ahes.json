@@ -1,0 +1,43 @@
+{
+  "name": "Ahes",
+  "text": "Ahes stands as a Breton goddess who raised the Roman roads in Brittany. The Welsh Elen also watches over roads, and some writers connect the two. Keep this Ahes apart from Ahès, a second name for the selfish Dahut. Ahes rules as the patron of road building.",
+  "entities": [
+    {
+      "entity": "Ahes",
+      "type": "Goddess"
+    },
+    {
+      "entity": "Brittany",
+      "type": "Place"
+    },
+    {
+      "entity": "Elen",
+      "type": "Goddess"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Ahes",
+      "attribute": "a Breton goddess who built the Roman roads"
+    },
+    {
+      "entity": "Ahes",
+      "attribute": "linked with the Welsh Elen as a patroness of roads"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Ahes'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Profile Ahes as the Breton goddess of Roman road building.",
+    "key_results": [
+      "Credit Ahes with building the Roman roads in Brittany.",
+      "Link Ahes with the Welsh road patroness Elen.",
+      "Distinguish this goddess from Ahès, the name of Dahut."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Ahes'"
+  }
+}

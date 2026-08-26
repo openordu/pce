@@ -1,0 +1,47 @@
+{
+  "name": "Aided Fergusa",
+  "text": "Aided Fergusa is an early Irish tale. Its title means the Violent Death of Fergus. The work ranks among the bawdiest stories of the age. It brims with sexual boasting and bravado. Fergus mac Léti, monarch of Ulster, beds the tiny queen Bebo. Afterward he mocks Iubdán, her husband, with the story.",
+  "entities": [
+    {
+      "entity": "Aided Fergusa",
+      "type": "Text"
+    },
+    {
+      "entity": "Fergus mac Léti",
+      "type": "King"
+    },
+    {
+      "entity": "Bebo",
+      "type": "Character"
+    },
+    {
+      "entity": "Iubdán",
+      "type": "Character"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Aided Fergusa",
+      "attribute": "an early Irish narrative of the Violent Death of Fergus"
+    },
+    {
+      "entity": "Aided Fergusa",
+      "attribute": "bawdy in tone with much sexual braggadocio"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Aided Fergusa'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Profile Aided Fergusa as a bawdy early Irish tale.",
+    "key_results": [
+      "Translate the title as the Violent Death of Fergus.",
+      "Describe the sexual hyperbole of the tale.",
+      "Note the role of Fergus, Bebo, and Iubdán."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Aided Fergusa'"
+  }
+}
