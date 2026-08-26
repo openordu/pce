@@ -2,36 +2,53 @@
 layout: layouts/pce.njk
 title: Becfhola
 icon: file-lines
-order: 216
+order: 229
 contributors: [ 'Christopher Godwin' ]
 attributes:
-  - Flann took the protagonist away
-  - time the protagonist lived in fairy time
+  - Becfhola mortal queen of Tara
+  - Becfhola protagonist of the Wooing of Becfhola
+  - Becfhola had an affair with the fairy lover Flann
+  - Becfhola represented Sovereignty as queen of Tara
 categories:
-  - Location
+  - Place
   - Person
 entities:
-  - Tara(Location)
+  - Becfhola(Person)
+  - Tara(Place)
   - Flann(Person)
+  - Diarmait(Person)
+  - Crimthann(Person)
+  - Lough Erne(Place)
 tags:
+  - Becfhola
   - Tara
   - Flann
+  - Diarmait
+  - Crimthann
+  - Lough Erne
 ---
 ``` tab [group1:Info]
 ::: magazinestyle
-Becfhola, known also as Beagfhola is an Irish goddess or heroine. The protagonist of the Tochmarc Becfhola (The Wooing of Becfhola), she was a mortal queen of Tara. Her story tells of her affair with a Fairy Lover, Flann ua Fedach. As queen of Tara, Becfhola represented Sovereignty. Her unhappiness with king Diarmait and her preference for the hero Crimthann might have caused Diarmait to lose his right to rule. On an island in Lough Erne, Becfhola attempted to meet up with Crimthann for an assignation but instead met Flann, with whom she spent an enchanted night. Upon her return to Tara, time seemed to have stood still, for she had lived in fairy time with Flann. He soon came to take her away.
+Becfhola, who is also called Becherfhola, was a queen of Tara and the main figure of the early Irish tale Tochmarc Becheri, known as the Wooing of Becheri. The story belongs to the Cycle of Kings. Becherfhola grew uneasy in her arranged marriage to King Diarmait of Tara. She came to desire the king's fosterling, a young man named Crimthann. She urged him to run away with her, and the pair laid plans to flee. Crimthann never came, since he refused to journey on the day of rest. That night she met a fairy lover, Flann ua Fedach, whom no one had met before. They passed the night together on an isle in the Erne, but they did not sleep as man and wife. When she came back to Tara in the morning, the hours away looked to common folk like an instant. Later Flann appeared in disguise, and the two quit Tara together.
 
 :::
 ```
 ``` tab [group1:Attributes]
-- **Flann**: took the protagonist away
-- **time**: the protagonist lived in fairy time
+- **Becfhola**: mortal queen of Tara
+- **Becfhola**: protagonist of the Wooing of Becfhola
+- **Becfhola**: had an affair with the fairy lover Flann
+- **Becfhola**: represented Sovereignty as queen of Tara
 ```
 ``` tab [group1:Entities]
-- **Tara**: Location
+- **Becfhola**: Person
+- **Tara**: Place
 - **Flann**: Person
+- **Diarmait**: Person
+- **Crimthann**: Person
+- **Lough Erne**: Place
 ```
 ``` tab [group1:Sources]
 - Cross, Tom Peete, and Clark Harris Slover, eds. Ancient Irish Tales. (New York: Henry Holt and Co., 1936), 533.
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
+- MacKillop 2008, s.v. 'Becherfola'.
 ```

@@ -60,6 +60,8 @@ layout: layouts/pce.njk
 - [Bébinn](Bébinn)
 - [Bebo](Bebo)
 - [Bec](Bec)
+- [Bec mac Buain](Bec_mac_Buain)
+- [Bec mac De](Bec_mac_De)
 - [Becfhola](Becfhola)
 - [Bé_Chuille](Bé_Chuille)
 - [Bé_Chuma](Bé_Chuma)
