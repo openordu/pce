@@ -1,74 +1,91 @@
 {
-    "name": "barrow",
-    "entities": [
-        {
-            "entity": "barrow",
-            "type": "Place"
-        },
-        {
-            "entity": "Wiltshire Downs",
-            "type": "Place"
-        },
-        {
-            "entity": "Stonehenge",
-            "type": "Place"
-        },
-        {
-            "entity": "England",
-            "type": "Place"
-        },
-        {
-            "entity": "Ireland",
-            "type": "Place"
-        },
-        {
-            "entity": "Black Dogs",
-            "type": "Creature"
-        },
-        {
-            "entity": "Fairy Mound",
-            "type": "Place"
-        }
-    ],
-    "attributes": [
-        {
-            "entity": "barrow",
-            "attribute": "a pre-Celtic grave built of a line of stones ending in a mound"
-        },
-        {
-            "entity": "barrow",
-            "attribute": "sometimes holds more than one burial"
-        },
-        {
-            "entity": "Wiltshire Downs",
-            "attribute": "carries the largest group of barrows in England"
-        },
-        {
-            "entity": "Stonehenge",
-            "attribute": "rises on the Wiltshire Downs"
-        },
-        {
-            "entity": "Black Dogs",
-            "attribute": "fairy creatures said to haunt barrows"
-        },
-        {
-            "entity": "Fairy Mound",
-            "attribute": "related cross-reference entry"
-        }
-    ],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "cyphertext": "i0sxuaUiWm4x9z_ueVFoOAjibZp88ml4a6F4rnZIZRkVweN39wgV1DF0bw-gSvBZ41N-ek8W63KUGxXaEvrxjwprZwRaSopebpvQaDa27U-0nMKxgb3SSVbodLj2zl_Ilnm239HUjQO5su7qr2Be6mrhXgG6Ks8lM8Zll1e0Cvza3ma5D4FcExsuZzP7fHKzOHZRXhrk1MEWmB4ScPzxPJiqX_cIBS195RfLBKeMbEJR8q7-n2xfWFI-0mYYiJTfnJJJheXL_ZB0Ei03UbTVZ98CrXn2AKF0GVaIOxZk0vKJymQvpjoWhPzaNYWqzfhzsW3P_6Nsc0HodrNNnoAYPvSptIW3WNyRo3CBHQNXtQS7ebpSYLDh1dqhSEhBIS5HUmZNJVVgAQorIu8HYCfJgRwKFRDhJkhxUzM3O7qLLvVQm5p8UtAOhihB6p49fa4DTAwl08m58Vw4qhGOYGCSMDjCbrUrPkubV8E5pcS5vyhkgNx9E1JAGGdwiqiYtO1J-ROcpYW-W7IYfRimZXGrwy3pONRQ0hJ4TIeL2BafZudKHQnES8ldaesTEkl0yDI3BthiGG2AG7_WCv0Og8oeL-QXnyTO6aLQdylmClGaQ4rPCuyglej-Hk4RTAOmdsRx17u-0DGTqA==",
-    "salt": "-JQj0a9U-ZsddQTIiQoTrw==",
-    "text": "A barrow is a pre-Celtic grave. Builders set stones in a line that ends in a burial mound. Some barrows hold more than one body.\n\nThe Wiltshire Downs carry the largest group of barrows in England. Stonehenge rises above those downs. Barrows also appear throughout Ireland. Local people revere the graves near their homes. They tell tales of hauntings at the mounds. Black Dogs of the fairy race and wandering ghosts frequent these sites. See the entry for the Fairy Mound.",
-    "okr": {
-        "objective": "Describe the barrow as a pre-Celtic burial site and the folklore attached to it.",
-        "key_results": [
-            "A barrow is a grave of pre-Celtic origin built from stones.",
-            "The Wiltshire Downs hold the largest group of barrows in England.",
-            "Barrows appear across Ireland and are linked to hauntings."
-        ],
-        "evidence": "Monaghan 2008, s.v. 'barrow'."
+  "name": "barrow",
+  "entities": [
+    {
+      "entity": "barrow",
+      "type": "Place"
+    },
+    {
+      "entity": "Wiltshire Downs",
+      "type": "Place"
+    },
+    {
+      "entity": "Stonehenge",
+      "type": "Place"
+    },
+    {
+      "entity": "England",
+      "type": "Place"
+    },
+    {
+      "entity": "Ireland",
+      "type": "Place"
+    },
+    {
+      "entity": "Black Dogs",
+      "type": "Creature"
+    },
+    {
+      "entity": "Fairy Mound",
+      "type": "Place"
+    },
+    {
+      "entity": "duma",
+      "type": "Concept"
+    },
+    {
+      "entity": "cairn",
+      "type": "Concept"
     }
+  ],
+  "attributes": [
+    {
+      "entity": "barrow",
+      "attribute": "a pre-Celtic grave built of a line of stones ending in a mound"
+    },
+    {
+      "entity": "barrow",
+      "attribute": "sometimes holds more than one burial"
+    },
+    {
+      "entity": "Wiltshire Downs",
+      "attribute": "carries the largest group of barrows in England"
+    },
+    {
+      "entity": "Stonehenge",
+      "attribute": "rises on the Wiltshire Downs"
+    },
+    {
+      "entity": "Black Dogs",
+      "attribute": "fairy creatures said to haunt barrows"
+    },
+    {
+      "entity": "Fairy Mound",
+      "attribute": "related cross-reference entry"
+    },
+    {
+      "entity": "barrow",
+      "attribute": "the Irish word duma means mound, tumulus, or barrow"
+    },
+    {
+      "entity": "barrow",
+      "attribute": "immortals of legend dwell in ancient barrows and cairns"
+    }
+  ],
+  "sources": [
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.",
+    "MacKillop 2008, s.v. 'Duma'"
+  ],
+  "cyphertext": "i0sxuaUiWm4x9z_ueVFoOAjibZp88ml4a6F4rnZIZRkVweN39wgV1DF0bw-gSvBZ41N-ek8W63KUGxXaEvrxjwprZwRaSopebpvQaDa27U-0nMKxgb3SSVbodLj2zl_Ilnm239HUjQO5su7qr2Be6mrhXgG6Ks8lM8Zll1e0Cvza3ma5D4FcExsuZzP7fHKzOHZRXhrk1MEWmB4ScPzxPJiqX_cIBS195RfLBKeMbEJR8q7-n2xfWFI-0mYYiJTfnJJJheXL_ZB0Ei03UbTVZ98CrXn2AKF0GVaIOxZk0vKJymQvpjoWhPzaNYWqzfhzsW3P_6Nsc0HodrNNnoAYPvSptIW3WNyRo3CBHQNXtQS7ebpSYLDh1dqhSEhBIS5HUmZNJVVgAQorIu8HYCfJgRwKFRDhJkhxUzM3O7qLLvVQm5p8UtAOhihB6p49fa4DTAwl08m58Vw4qhGOYGCSMDjCbrUrPkubV8E5pcS5vyhkgNx9E1JAGGdwiqiYtO1J-ROcpYW-W7IYfRimZXGrwy3pONRQ0hJ4TIeL2BafZudKHQnES8ldaesTEkl0yDI3BthiGG2AG7_WCv0Og8oeL-QXnyTO6aLQdylmClGaQ4rPCuyglej-Hk4RTAOmdsRx17u-0DGTqA==",
+  "salt": "-JQj0a9U-ZsddQTIiQoTrw==",
+  "text": "A barrow is a pre-Celtic grave. Builders set stones in a line that ends in a burial mound. Some barrows hold more than one body. The Wiltshire Downs carry the largest group of barrows in England. Stonehenge rises above those downs. Barrows also appear throughout Ireland. Local people revere the graves near their homes. They tell tales of hauntings at the mounds. Black Dogs of the fairy race and wandering ghosts frequent these sites. MacKillop records the Irish word duma for a mound, tumulus, or barrow. In his account, the immortals of legend make their home in ancient barrows and cairns. See the entry for the Fairy Mound.",
+  "okr": {
+    "objective": "Describe the barrow as a pre-Celtic burial site and its folklore.",
+    "key_results": [
+      "Document the barrow as a burial mound.",
+      "Record the Wiltshire Down group and Irish examples.",
+      "Note the Irish duma and the immortals said to dwell in barrows."
+    ],
+    "evidence": "Monaghan 2008, s.v. barrow; MacKillop 2008, s.v. 'Duma'"
+  }
 }

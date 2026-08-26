@@ -1,32 +1,77 @@
 {
   "name": "Bangor (Gwynedd)",
-  "text": "Bangor sits along the coast in the north-west of Wales. A monastic there is tied to Saint Deiniol. Viking raiders destroyed the site in 1073. Bishop David later raised a stone cathedral. King John burned the town in 1210. The cathedral was rebuilt under the bishops Anian. George Gilbert Scott restored it from 1868. Bangor kept relics and the Mostyn Christ statue. It became a Welsh place-name archive and home. A university began in Bangor in 1884. The name refers to a fenced high point of wickerwork.",
+  "text": "Bangor (Gwynedd) sits along the coast in the north-west of Wales. A monastery there is tied to Saint Deiniol. Viking raiders destroyed the site in 1073. Bishop David later raised a stone cathedral. King John burned the town in 1210. The cathedral was rebuilt under the bishops Anian. George Gilbert Scott restored it from 1868. Bangor kept relics and the Mostyn Christ statue. It became a Welsh place-name archive and home. A university began in Bangor in 1884. The name refers to a fenced high point of wickerwork. MacKillop records that several Irish and Welsh places share the name Bangor. The form comes from an old Irish word meaning white choir or pointed arrangement.",
   "entities": [
-    {"entity": "Bangor", "type": "Place"},
-    {"entity": "Saint Deiniol", "type": "Person"},
-    {"entity": "University of Wales Bangor", "type": "Institution"},
-    {"entity": "George Gilbert Scott", "type": "Person"}
+    {
+      "entity": "Bangor",
+      "type": "Place"
+    },
+    {
+      "entity": "Saint Deiniol",
+      "type": "Person"
+    },
+    {
+      "entity": "University of Wales Bangor",
+      "type": "Institution"
+    },
+    {
+      "entity": "George Gilbert Scott",
+      "type": "Person"
+    },
+    {
+      "entity": "Deiniol",
+      "type": "Person"
+    },
+    {
+      "entity": "Mostyn Christ",
+      "type": "Artifact"
+    },
+    {
+      "entity": "Gwynedd",
+      "type": "Place"
+    }
   ],
   "attributes": [
-    {"entity": "Bangor", "attribute": "was a 6th-century monastic foundation in Gwynedd"},
-    {"entity": "Bangor", "attribute": "was rebuilt after Viking attack and a fire set by King John"},
-    {"entity": "Bangor", "attribute": "became a 19th-century slate port and seat of a university"},
-    {"entity": "University of Wales Bangor", "attribute": "was founded in 1884 from a campaign for higher education"}
+    {
+      "entity": "Bangor",
+      "attribute": "was a 6th-century monastic foundation in Gwynedd"
+    },
+    {
+      "entity": "Bangor",
+      "attribute": "was rebuilt after Viking attack and a fire set by King John"
+    },
+    {
+      "entity": "Bangor",
+      "attribute": "became a 19th-century slate port and seat of a university"
+    },
+    {
+      "entity": "University of Wales Bangor",
+      "attribute": "was founded in 1884 from a campaign for higher education"
+    },
+    {
+      "entity": "Bangor",
+      "attribute": "name borne by at least six places in Ireland and Wales"
+    },
+    {
+      "entity": "Bangor",
+      "attribute": "name from an old word meaning white choir or pointed arrangement"
+    }
   ],
   "sources": [
     "Koch 2006, s.v. 'Bangor (Gwynedd)'",
-    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Culture. Checkmark Books, 2008."
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Culture. Checkmark Books, 2008.",
+    "MacKillop 2008, s.v. 'Bangor'"
   ],
   "image": [],
   "cyphertext": "",
   "salt": "",
   "okr": {
-    "objective": "Establishes Bangor as a historic cathedral city and university seat in Gwynedd.",
+    "objective": "Establish Bangor as a historic cathedral city and university seat in Gwynedd.",
     "key_results": [
-      "Traces the site back to a St Deiniol monastic house",
-      "Notes the burnings and later cathedral rebuilds",
-      "Records the founding of the university in Bangor in 1884"
+      "Document Bangor as a cathedral city on the north Wales coast.",
+      "Record its Viking raid, royal burning, and restorations.",
+      "Note the name as one shared by several Irish and Welsh places."
     ],
-    "evidence": "Koch 2006, s.v. 'Bangor (Gwynedd)'; Monaghan 2008"
+    "evidence": "Koch 2006, s.v. Bangor; Monaghan 2008; MacKillop 2008, s.v. 'Bangor'"
   }
 }

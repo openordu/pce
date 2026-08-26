@@ -8,6 +8,14 @@
     {
       "entity": "Aimend",
       "attribute": "an early solar divinity"
+    },
+    {
+      "entity": "Aimend",
+      "attribute": "daughter of a king of the Corcu Loigde"
+    },
+    {
+      "entity": "Aimend",
+      "attribute": "a historical people of south-west Ireland"
     }
   ],
   "entities": [
@@ -18,19 +26,26 @@
     {
       "entity": "sun",
       "type": "Concept"
+    },
+    {
+      "entity": "Corcu Loigde",
+      "type": "Group"
     }
   ],
   "sources": [
-    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.",
+    "MacKillop 2008, s.v. 'Aimend'"
   ],
   "cyphertext": "74-ZMvHWw5_4XIwyn0d1uBXJRyqed5yhBet179CiGsQn0lvtrY8g9G9AkxjptA4oxryPVEYqWzpGIfHVGfBVnwQT8qQi7NB1ZbP3bn2zIEiBUkKKwri1DlSS2JZ18UXSJKdOJ3DdxFZscpyVmnOb-oBD8EvQ",
   "salt": "EDuPiqbtuh-ppxa2vhiIxw==",
-  "text": "Aimend was an Irish goddess. She is an obscure figure who appears to have been an early solar divinity.",
+  "text": "Aimend was an Irish goddess. She is an obscure figure who appears to have been an early solar divinity. Early Irish legend names her the child of a Corcu Loigde king. The Corcu Loigde were a historical people of the south-west of Ireland. The circumstances of her story imply that she was a sun goddess.",
   "okr": {
     "objective": "Record Aimend, an obscure Irish solar goddess.",
     "key_results": [
-      "Provide her known identity as an early sun goddess."
+      "Document Aimend as an early solar divinity.",
+      "Record her as a daughter of a king of the Corcu Loigde.",
+      "Note that her story implies a sun-goddess role."
     ],
-    "evidence": "Monaghan 2003, s.v. Aimend"
+    "evidence": "Monaghan 2008, s.v. Aimend; MacKillop 2008, s.v. 'Aimend'"
   }
 }
