@@ -1,0 +1,43 @@
+{
+  "name": "Ben Étair",
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "text": "Ben Étair forms the Irish alternate name for Benn Eader. Readers who meet the shorter form should turn to the Benn Eader entry for the full account. Benn Eader names the Hill of Howth, which rises on the Howth peninsula some nine miles northeast of Dublin. Many texts call that height the easternmost point of Ireland. This cross-reference links the two spellings of one place.",
+  "entities": [
+    {
+      "entity": "Ben Étair",
+      "type": "Place"
+    },
+    {
+      "entity": "Benn Eader",
+      "type": "Place"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Ben Étair",
+      "attribute": "the Irish alternate name for Benn Eader"
+    },
+    {
+      "entity": "Ben Étair",
+      "attribute": "points to the Hill of Howth entry"
+    },
+    {
+      "entity": "Benn Eader",
+      "attribute": "the Hill of Howth, the easternmost point of Ireland"
+    }
+  ],
+  "okr": {
+    "objective": "Provide a short cross-reference telling that Ben Étair points to Benn Eader.",
+    "key_results": [
+      "Ben Étair is an Irish alternate name for Benn Eader.",
+      "Benn Eader names the Hill of Howth near Dublin.",
+      "The two spellings denote the same place."
+    ],
+    "evidence": "MacKillop 2008, s.v. Ben Étair."
+  },
+  "sources": [
+    "MacKillop 2008, s.v. Ben Étair."
+  ]
+}
