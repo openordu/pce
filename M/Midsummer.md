@@ -2,41 +2,64 @@
 layout: layouts/pce.njk
 title: Midsummer
 icon: file-lines
-order: 1620
+order: 1758
 contributors: [ 'Christopher Godwin' ]
 attributes:
-  - rose faded
-  - rose worn to church
-  - rose attract the groom-to-be
-  - Christmas time
+  - Midsummer a Celtic calendar festival marking the start of summer
+  - Midsummer falls on 24 June, the summer solstice and Saint John's feast
+  - Midsummer a time of bonfires, divination, contracts, and portents
+  - Midsummer follows folk customs shared with Beltaine and Samain
+  - Midsummer may have been borrowed from English or Norse custom
 categories:
-  - flower
-  - holiday
+  - Concept
+  - Person
+  - Artifact
+  - Plant
 entities:
-  - rose(flower)
-  - Christmas(holiday)
+  - Midsummer(Concept)
+  - Beltane(Concept)
+  - Lughnasa(Concept)
+  - Samhain(Concept)
+  - Imbolc(Concept)
+  - Saint John the Baptist(Person)
+  - rose-root(Plant)
+  - stone circle(Artifact)
 tags:
-  - rose
-  - Christmas
+  - Midsummer
+  - Beltane
+  - Lughnasa
+  - Samhain
+  - Imbolc
+  - Saint John the Baptist
+  - rose-root
+  - stone circle
 ---
 ``` tab [group1:Info]
 ::: magazinestyle
-The festival of Midsummer, or Midsummer eve, was celebrated by the Celtic people as a calendar festival. In contrast to marking the Solstices and Equinoxes like other cultures, the Celts marked the days in the heart of each season, such as Imbolc, Beltane, Lughnasa, and Samhain. As the Celts encountered earlier civilizations that celebrated solar pivot-points as calendar feasts, they integrated those rituals into their own traditions. Due to the change from the Julian to the Gregorian calendar, some of the original dates of old Celtic holidays became displaced, leading some harvest rituals of Lughnasa to move toward the end of June and become midsummer festivals. The Midsummer festival does not technically take place in the middle of summer but instead marks the beginning of the season on June 21, when the Sun is closest to the northern hemisphere for the entirety of the year and the day is longer than the night. In certain Celtic lands, such as Ireland and Scotland, daylight may last well into the evening hours during the summer solstice, leaving as little as five or six hours of darkness, leading to the common practice of feasting and dancing when the time arrived. In England, young girls went to Stone Circles to whisper the names of their preferred young men to the stones, which supposedly foretold the future on this day. People collected the seeds of ferns to create invisibility potions, and hemp was sowed to interpret omens on this day. Cornish girls had a peculiar way of discovering who they would marry. At the stroke of midnight, they'd leave their undergarments turned inside out and wait for a spectral figure to turn them right-side-out, thereby revealing their future spouse's identity. Another method was to gather a rose, place it in a bag, and preserve it until Christmas. The faded flower would attract the intended groom if worn to church.
+Midsummer was a calendar festival of the Celts. The Celts did not mark the solstices, the longest and shortest days, nor the equinoxes, the days of equal light and dark. They marked the days at the center of each season, such as Imbolc, Beltane, Lughnasa, and Samhain. As they met earlier peoples who measured the year by the sun, their own festivals took on a new shape. Koch notes that Midsummer's Day falls on the summer solstice, 24 June. It is also the feast of Saint John the Baptist, exactly six months from Christmas. The date is important in modern folk tradition across the Celtic countries, but no direct evidence shows that the ancient Celts marked it. The same folk customs that accompany Beltaine and Samain appear around Midsummer. Scholars think the celebration may have come from the English or the Norse, whose fires at this time were strong. The common form of the celebration is a bonfire. People also practised divination. They placed the flower rose-root, called midsummer men, in clay in clay overnight to learn their health for the coming year. In Brittany the date was a time to form farming and household contracts. In Upper Brittany a man or a woman named Jean or Jeanne always lit the fire, and the embers were dropped into wells to purify the water. As the fire died, people leapt over it. In Ireland the way a person jumped revealed the crimes they might have committed, and people spread the ashes across the fields. Fergus Kelly linked the ploughman's festival, Féil na n-airemon, to Midsummer's Day, though Máire MacNeill placed it at Lugnasa. In all the Celtic countries the date was a good time to gather medicinal herbs.
 
 :::
 ```
 ``` tab [group1:Attributes]
-- **rose**: faded
-- **rose**: worn to church
-- **rose**: attract the groom-to-be
-- **Christmas**: time
+- **Midsummer**: a Celtic calendar festival marking the start of summer
+- **Midsummer**: falls on 24 June, the summer solstice and Saint John's feast
+- **Midsummer**: a time of bonfires, divination, contracts, and portents
+- **Midsummer**: follows folk customs shared with Beltaine and Samain
+- **Midsummer**: may have been borrowed from English or Norse custom
 ```
 ``` tab [group1:Entities]
-- **rose**: flower
-- **Christmas**: holiday
+- **Midsummer**: Concept
+- **Beltane**: Concept
+- **Lughnasa**: Concept
+- **Samhain**: Concept
+- **Imbolc**: Concept
+- **Saint John the Baptist**: Person
+- **rose-root**: Plant
+- **stone circle**: Artifact
 ```
 ``` tab [group1:Sources]
 - Briggs, Katharine M. The Folklore of the Cotswolds. London: B. T. Batsford Ltd., 1974, 14.
 - Hunt, Robert. Cornish Customs and Superstitions. Truro: Tor Mark Press, n.d.
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
+- Koch 2006, s.v. 'Midsummer's Day'
 ```

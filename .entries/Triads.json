@@ -1,47 +1,61 @@
 {
- "name": "Triads",
- "entities": [
-  {
-   "entity": "Triads",
-   "type": "Text"
-  },
-  {
-   "entity": "Arthur",
-   "type": "Person"
-  },
-  {
-   "entity": "Welsh Triads",
-   "type": "Text"
-  }
- ],
- "attributes": [
-  {
-   "entity": "Triads",
-   "attribute": "Welsh and Irish literary form"
-  },
-  {
-   "entity": "Triads",
-   "attribute": "list three examples of qualities, people, or places"
-  },
-  {
-   "entity": "Triads",
-   "attribute": "record the three splendid women of King Arthur's court"
-  }
- ],
- "sources": [
-  "Bromwich, Rachel. Trioedd Ynys Prydein: The Welsh Triads. Cardiff: University of Wales Press, 1961.",
-  "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
- ],
- "cyphertext": "YQEqs5l5QaPialtZHYE12QFxr8BJq42diLRi6tP3E_q-EUBOELzf6bieFkSSBQ3ml2SNdJfJtquf7gMv64JDd92C_4RrJY_H2FhI2TOHgM-cQwSjmn2zgA_VLRFX2-Kh5qne_2ybVe85EIAFOfOmTGdnjK9_7idM2Sqqm5j-QoWUK6JL1AqnPnNT1IpgF4CDmt7Hj3tCyhZv0db-ZpE81dKKEvXX8dzz6dX9lQfZMbublfJL2DlvoikPI-aywa6BDyFg_afZPwsEANA4_GM_waRWWTjQM9qMHG1p2y8nE1bv4sDM7bgHognEBh3Var4EV0OZnpcPkQyNbG0o28OuT8OkqM6vtFYHpJ7z7sCXqYxlb9Ns-gA-3JLXjY7rPnw3Ae6tQDVGPJXGOKj3phxpfAvqlbf1G9iD0LU1TDFl003tMfxcD6yxyGdZrN_xrcGBuBry0cKMP_SJy_0OpioM1HnMqUXa_-NWhnooF4vhcvJSRlJOoHyURao4p-gixZIMfveF_zcVEUdjhQoNMqY2HexpWwjfFHg9euhZiJ1FvXdwhivKM0bEszI3bViCMjHvMR0nTLiqxC6YvAVWXSpbONbBjPRQHvT8Nfu8uVOZTsFSTkXlJvOnd2rI9r5DE6PaLjwECq7U-XU2gXFLGoEzV8oY-iq62YFr9wIVf9AXQdZTYD1y0CmabOhLM6BEkt0K8sYV49cNZT8Uf444K6gbkHXA3aJPv6DiaXbXZbrW1yhQvYEz8cLui9sO5Vc2l2gNZ68vE_mLQBCqVfU=",
- "salt": "WcslMRZYM2CXZ4yUJYsX1A==",
- "text": "The Triads are a Welsh and Irish literary form. Poets and other bards composed them because of the mystic power of the number three. A triad is a short poem that lists three examples of a quality, a person, or a place. The gain of a triad was easy memory. The Triads of the island of Britain list the three splendid women of King Arthur's court. They also record the three sorrows of Ireland and many other groups. Scholars study the Triads for the myth material they hold.",
- "okr": {
-  "objective": "Record the Welsh and Irish Triads.",
-  "key_results": [
-   "A triad lists three examples of a quality, person, or place",
-   "The form served bards through ease of memory",
-   "The Triads name the three splendid women of Arthur's court"
+  "name": "Triads",
+  "entities": [
+    {
+      "entity": "Triads",
+      "type": "Text"
+    },
+    {
+      "entity": "Arthur",
+      "type": "Person"
+    },
+    {
+      "entity": "Welsh Triads",
+      "type": "Text"
+    },
+    {
+      "entity": "Trecheng Breth Féne",
+      "type": "Text"
+    },
+    {
+      "entity": "Trioedd Ynys Prydain",
+      "type": "Text"
+    },
+    {
+      "entity": "Prydain",
+      "type": "Place"
+    }
   ],
-  "evidence": "Monaghan 2008, s.v. 'Triads'."
- }
+  "attributes": [
+    {
+      "entity": "Triads",
+      "attribute": "Welsh and Irish literary form"
+    },
+    {
+      "entity": "Triads",
+      "attribute": "list three examples of qualities, people, or places"
+    },
+    {
+      "entity": "Triads",
+      "attribute": "record the three splendid women of King Arthur's court"
+    }
+  ],
+  "sources": [
+    "Bromwich, Rachel. Trioedd Ynys Prydein: The Welsh Triads. Cardiff: University of Wales Press, 1961.",
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.",
+    "Koch 2006, s.v. \"triads\""
+  ],
+  "cyphertext": "YQEqs5l5QaPialtZHYE12QFxr8BJq42diLRi6tP3E_q-EUBOELzf6bieFkSSBQ3ml2SNdJfJtquf7gMv64JDd92C_4RrJY_H2FhI2TOHgM-cQwSjmn2zgA_VLRFX2-Kh5qne_2ybVe85EIAFOfOmTGdnjK9_7idM2Sqqm5j-QoWUK6JL1AqnPnNT1IpgF4CDmt7Hj3tCyhZv0db-ZpE81dKKEvXX8dzz6dX9lQfZMbublfJL2DlvoikPI-aywa6BDyFg_afZPwsEANA4_GM_waRWWTjQM9qMHG1p2y8nE1bv4sDM7bgHognEBh3Var4EV0OZnpcPkQyNbG0o28OuT8OkqM6vtFYHpJ7z7sCXqYxlb9Ns-gA-3JLXjY7rPnw3Ae6tQDVGPJXGOKj3phxpfAvqlbf1G9iD0LU1TDFl003tMfxcD6yxyGdZrN_xrcGBuBry0cKMP_SJy_0OpioM1HnMqUXa_-NWhnooF4vhcvJSRlJOoHyURao4p-gixZIMfveF_zcVEUdjhQoNMqY2HexpWwjfFHg9euhZiJ1FvXdwhivKM0bEszI3bViCMjHvMR0nTLiqxC6YvAVWXSpbONbBjPRQHvT8Nfu8uVOZTsFSTkXlJvOnd2rI9r5DE6PaLjwECq7U-XU2gXFLGoEzV8oY-iq62YFr9wIVf9AXQdZTYD1y0CmabOhLM6BEkt0K8sYV49cNZT8Uf444K6gbkHXA3aJPv6DiaXbXZbrW1yhQvYEz8cLui9sO5Vc2l2gNZ68vE_mLQBCqVfU=",
+  "salt": "WcslMRZYM2CXZ4yUJYsX1A==",
+  "text": "The Triads are a Welsh and Irish literary form. Poets and other bards composed them because of the mystic power of the number three. A triad is a short poem that lists three examples of a quality, a person, or a place. The gain of a triad was easy memory. Grouping ideas in threes runs across the Celtic literatures. The Welsh set is the Trioedd Ynys Prydain. That title honors the Island of Britain, or Prydain, as a whole. Medieval Welsh poets and storytellers used these triads. They served as an indispensable store of native lore and a tool for poetic training. The triads also fell into the orbit of the name of Arthur. The earliest order appears in a manuscript from the thirteenth to the fifteenth century. Later copies survive in the White Book and Red Book of Hergest. The lists name a broad body of native mythological and historical figures. Most of those stories do not survive as full narratives. The lists therefore reveal the scope of a tradition that now reaches us only in fragments. The largest Irish set is the Trecheng Breth Féne. It dates from about the ninth century. It holds 214 triads, plus a few nonads, four- and five-entry lists. Some triads may come from oral tradition. Most seem to be the work of one author, probably a cleric. The collection opens with the Irish monasteries. The author knew the law texts, since forty-four of the sets deal with law. The work belongs to the general class of gnomic or wisdom literature. The Welsh triads list the three splendid women of King Arthur's court. They also record the three sorrows of Ireland and many other groups. Scholars study the Triads for the myth material they hold. Each group binds its members by a single common trait. The device makes odd and ordinary things sit together. It turns scattered lore into a fixed, teachable set. Modern readers use the lists to recover old stories that plain prose never kept.",
+  "okr": {
+    "objective": "Record both the Welsh and Irish Triads as a Celtic wisdom form.",
+    "key_results": [
+      "The Trecheng Breth Féne holds 214 Irish triads from about the ninth century",
+      "44 of the Irish triads are legal in content",
+      "The Trioedd Ynys Prydain served Welsh poets and storytellers as native lore",
+      "The lists orbit the name of Arthur and name figures lost to fragmentary survival"
+    ],
+    "evidence": "Monaghan 2008 (Triads); Koch 2006, s.v. \"triads\" (Irish set, Trecheng Breth Féne; Welsh Trioedd Ynys Prydain)."
+  }
 }

@@ -1,45 +1,95 @@
 {
- "name": "tattoo",
- "attributes": [
-  {
-   "entity": "tattoo",
-   "attribute": "Celtic rite of permanent body marking"
-  },
-  {
-   "entity": "woad",
-   "attribute": "dye plant that the Celts used for the body paint"
-  }
- ],
- "entities": [
-  {
-   "entity": "Picts",
-   "type": "Group"
-  },
-  {
-   "entity": "Scoti",
-   "type": "Group"
-  },
-  {
-   "entity": "woad",
-   "type": "Plant"
-  }
- ],
- "sources": [
-  "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
- ],
- "image": [
-  "https://upload.wikimedia.org/wikipedia/commons/e/e6/Anchor_tattoo_and_sketch.jpg"
- ],
- "cyphertext": "Yz160GwNvrp34aUirXKYOzOp81WQi_7g-I7RFkN2OUZcKnwOFWk5hUQySGlL5eRt5_MddH-ipsjGNkNYilcr65DDRUg2JwA1X7VZruR_sr8AIAVloQph76RQGM998XOSlec9nPT6Ip6q-jmLgPWXfFh5A4caOAhbY2FdfaBXqsqym4f53-fvrSkHSY8U32TloKbuDuLaiz-5rF9squ0x_4NLQhAsPj1KeuZwWxq5Nf7RTOhVkezZnS-5gDObq8CN2tztq_7PeUFZtUXUpUGtX6ZovtcxePBtOixhjM14XT6Yd9pLik71sJZzKk6ylVCUnL0eS3eyCJr5FqyQqWCuZ3uH0KePRqH_1TxGTogKQgrLl-p3WXSYZjN-3iOT59LzpuadoMDlclVXz05CTu9qD5Ih_5ntteXQC3IqDsQUcNjOobayXvn1LJW_dAicyee7fErrgYr3t8nFHnFPEnbTAIAsBoJd3-F3JqUfqsqMcFpQcYXaMTN6zDmi6NXvFOK43FlTZq_avflTlp1NDoHXenTKAmXU7WbuNPdWGONM_z63VFEyYNzXRMXXs1MPLcbk2o1aHXeMmTSmpWH7BTdN_TuAU8LxRXD9ZTN9Q2vDiCNKau0H4tzwr8XUaQ6YdRTGxx1ZpWBm2YuRhgqaVeO8A2A9wHzkAGWhZjNsWyxiXTctwJsEvwzbL05stSAP0Oy0xQ5Eep4-kDDtYegsv0ULQfYb0hMwSazdtJ1wwDaJG9ZnHbig7eXWDnnDFp0JUWaWs2E334E6AYSN2Pb-Xo5TfFB7doNYKxrl7jhdnjzgJ8pzPJFTgbL9wI4x0xC7LZDEKWPuu1HeRBHB",
- "salt": "GU7xoVdQkKk1Pu_IpgIzOw==",
- "text": "A tattoo was an old Celtic form of body marking. The word itself came from the South Pacific. The evidence suggests that the Celts also marked their skin for good. The tribal name of the Scoti may have meant the scarred ones. The name of the Picts may have meant the painted or engraved ones. Roman writers said that the Celtic warriors painted their bodies with a blue dye. They used woad, the plant that gave the blue.",
- "okr": {
-  "objective": "Record the tattoo as a Celtic practice of permanent body marking.",
-  "key_results": [
-   "Derives the word from the South Pacific but marks the Celtic custom",
-   "States the Pictish name may mean painted or signed ones",
-   "States the Celts painted their skin with blue woad dye"
+  "name": "tattoo",
+  "attributes": [
+    {
+      "entity": "tattoo",
+      "attribute": "Celtic rite of permanent body marking"
+    },
+    {
+      "entity": "woad",
+      "attribute": "dye plant that the Celts used for the body paint"
+    },
+    {
+      "entity": "tattoo",
+      "attribute": "permanent marking of the body by inserted pigment"
+    },
+    {
+      "entity": "tattoo",
+      "attribute": "marked high or low standing across Iron Age Europe"
+    },
+    {
+      "entity": "Cu Chulainn",
+      "attribute": "his battle-frenzy dots may invoke an older warrior tattooing"
+    },
+    {
+      "entity": "woad",
+      "attribute": "plant giving the blue dye Caesar records on the island Celts"
+    },
+    {
+      "entity": "stigmata",
+      "attribute": "Greek and Roman word for tattoos used to brand slaves and criminals"
+    },
+    {
+      "entity": "Saint Brigit",
+      "attribute": "removes diabolical signs that may have been tattoos from blood-feud pursuers"
+    }
   ],
-  "evidence": "Monaghan 2008, s.v. 'tattoo'."
- }
+  "entities": [
+    {
+      "entity": "Picts",
+      "type": "Group"
+    },
+    {
+      "entity": "Scoti",
+      "type": "Group"
+    },
+    {
+      "entity": "woad",
+      "type": "Plant"
+    },
+    {
+      "entity": "Cu Chulainn",
+      "type": "character"
+    },
+    {
+      "entity": "Saint Brigit",
+      "type": "person"
+    },
+    {
+      "entity": "Caesar",
+      "type": "person"
+    },
+    {
+      "entity": "Strabo",
+      "type": "person"
+    },
+    {
+      "entity": "Herodian",
+      "type": "person"
+    },
+    {
+      "entity": "stigmata",
+      "type": "concept"
+    }
+  ],
+  "sources": [
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.",
+    "Koch 2006, s.v. 'tattooing'"
+  ],
+  "image": [
+    "https://upload.wikimedia.org/wikipedia/commons/e/e6/Anchor_tattoo_and_sketch.jpg"
+  ],
+  "cyphertext": "Yz160GwNvrp34aUirXKYOzOp81WQi_7g-I7RFkN2OUZcKnwOFWk5hUQySGlL5eRt5_MddH-ipsjGNkNYilcr65DDRUg2JwA1X7VZruR_sr8AIAVloQph76RQGM998XOSlec9nPT6Ip6q-jmLgPWXfFh5A4caOAhbY2FdfaBXqsqym4f53-fvrSkHSY8U32TloKbuDuLaiz-5rF9squ0x_4NLQhAsPj1KeuZwWxq5Nf7RTOhVkezZnS-5gDObq8CN2tztq_7PeUFZtUXUpUGtX6ZovtcxePBtOixhjM14XT6Yd9pLik71sJZzKk6ylVCUnL0eS3eyCJr5FqyQqWCuZ3uH0KePRqH_1TxGTogKQgrLl-p3WXSYZjN-3iOT59LzpuadoMDlclVXz05CTu9qD5Ih_5ntteXQC3IqDsQUcNjOobayXvn1LJW_dAicyee7fErrgYr3t8nFHnFPEnbTAIAsBoJd3-F3JqUfqsqMcFpQcYXaMTN6zDmi6NXvFOK43FlTZq_avflTlp1NDoHXenTKAmXU7WbuNPdWGONM_z63VFEyYNzXRMXXs1MPLcbk2o1aHXeMmTSmpWH7BTdN_TuAU8LxRXD9ZTN9Q2vDiCNKau0H4tzwr8XUaQ6YdRTGxx1ZpWBm2YuRhgqaVeO8A2A9wHzkAGWhZjNsWyxiXTctwJsEvwzbL05stSAP0Oy0xQ5Eep4-kDDtYegsv0ULQfYb0hMwSazdtJ1wwDaJG9ZnHbig7eXWDnnDFp0JUWaWs2E334E6AYSN2Pb-Xo5TfFB7doNYKxrl7jhdnjzgJ8pzPJFTgbL9wI4x0xC7LZDEKWPuu1HeRBHB",
+  "salt": "GU7xoVdQkKk1Pu_IpgIzOw==",
+  "text": " A tattoo was an old Celtic form of body marking. The word itself came from the South Pacific. The evidence suggests that the Celts also marked their skin for good. The tribal name of the Scoti may have meant the scarred ones. The name of the Picts may have meant the painted or engraved ones. Roman writers said that the Celtic warriors painted their bodies with a blue dye. They used woad, the plant that gave the blue. Koch defines tattooing as the lasting marking of the skin by driving pigment under the skin. The custom was known across Europe from the late fourth millennium BC. Among the Celts, as across Iron Age Europe, it marked high rank or sacred standing in some cases, low rank in others. Greek and Roman writers tell of tattoos, which they called stigmata, to brand slaves and criminals, and saw the practice as a sign of the barbarian. Herodian, Strabo, and Caesar all described an elaborate tattooing among the island Celts. Caesar adds that the ink was a blue dye taken from woad. Penal tattooing lasted through the Roman Empire and on into the medieval world, even after Christianity began to discourage it. Some Christians marked themselves with signs of devotion. Medieval Celtic writing could use the tattoo as a trope for the passing on of Christian wisdom. The diabolical signs that Saint Brigit removes from those who would pursue a blood feud may be such marks. The Mythological Cycle gives no direct account of tattooing. The many-colored dots that appear on the face of Cu Chulainn in his battle fury may call on an older practice of warrior marking. In the nineteenth century tattooing again became a badge of the poor and outcast, above all of seafarers and wrongdoers. The punk and neo-tribal surge of the late twentieth century brought it back into fashion. Many modern Celtic tattoos draw on the designs of ancient metalwork or on medieval Irish manuscript art, while others freely imagine what the old Celts may have worn.",
+  "okr": {
+    "objective": "Tattoo records the Celtic practice of permanent body marking by pigment.",
+    "key_results": [
+      "The custom marked aristocratic or sacred standing in some cases and low standing in others.",
+      "Caesar specifies a blue dye made from woad on the island Celts.",
+      "Greeks and Romans used tattoos to brand slaves and criminals.",
+      "Body-marking motifs survive in the dots on Cu Chulainn's face and modern neo-tribal revival."
+    ],
+    "evidence": "Monaghan 2008 (tattoo); Koch 2006, s.v. 'tattooing' (stigmata, woad, Cu Chulainn, medieval trope)."
+  }
 }

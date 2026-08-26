@@ -64,6 +64,66 @@
     {
       "entity": "W. Y. Evans-Wentz",
       "attribute": "named fairy tales and traditions the fairy faith"
+    },
+    {
+      "entity": "Celtic religion",
+      "attribute": "extended in practice from the late Hallstatt era to the coming of Christianity"
+    },
+    {
+      "entity": "Celtic religion",
+      "attribute": "survives mostly in inscriptions, classical accounts, and archaeology"
+    },
+    {
+      "entity": "Matronae",
+      "attribute": "Roman name for the mother goddesses who guarded fertility"
+    },
+    {
+      "entity": "Epona",
+      "attribute": "horse goddess often shown riding a horse"
+    },
+    {
+      "entity": "Sequana",
+      "attribute": "healing goddess of the source of the Seine"
+    },
+    {
+      "entity": "Coventina",
+      "attribute": "spring goddess of northern Britain"
+    },
+    {
+      "entity": "Morrigan",
+      "attribute": "war goddess who could appear as an animal"
+    },
+    {
+      "entity": "Taranis",
+      "attribute": "thunder god linked with the bull and the wheel"
+    },
+    {
+      "entity": "Cernunnos",
+      "attribute": "antlered god named for his horns"
+    },
+    {
+      "entity": "Lugus",
+      "attribute": "wide-worshipped god of craft, often read as the Roman Mercurius"
+    },
+    {
+      "entity": "Nodens",
+      "attribute": "British god of the dead matched with Nuadu of the silver hand"
+    },
+    {
+      "entity": "Sucellus",
+      "attribute": "mallet-bearing Gallic god of wealth and the earth"
+    },
+    {
+      "entity": "Gundestrup cauldron",
+      "attribute": "silver vessel mixing initiation imagery with Mithras and Cybele echoes"
+    },
+    {
+      "entity": "Caesar",
+      "attribute": "classical author who contrasted Celtic rites with Roman order"
+    },
+    {
+      "entity": "aes side",
+      "attribute": "people of the síd, the fairies of later folk-tale"
     }
   ],
   "entities": [
@@ -146,6 +206,86 @@
     {
       "entity": "fairy faith",
       "type": "concept"
+    },
+    {
+      "entity": "Matronae",
+      "type": "group"
+    },
+    {
+      "entity": "Maponos",
+      "type": "god"
+    },
+    {
+      "entity": "Epona",
+      "type": "goddess"
+    },
+    {
+      "entity": "Sequana",
+      "type": "goddess"
+    },
+    {
+      "entity": "Coventina",
+      "type": "goddess"
+    },
+    {
+      "entity": "Brigit",
+      "type": "goddess"
+    },
+    {
+      "entity": "Morrigan",
+      "type": "goddess"
+    },
+    {
+      "entity": "Bodb",
+      "type": "goddess"
+    },
+    {
+      "entity": "Nemain",
+      "type": "goddess"
+    },
+    {
+      "entity": "Taranis",
+      "type": "god"
+    },
+    {
+      "entity": "Cernunnos",
+      "type": "god"
+    },
+    {
+      "entity": "Lugus",
+      "type": "god"
+    },
+    {
+      "entity": "Belenos",
+      "type": "god"
+    },
+    {
+      "entity": "Nodens",
+      "type": "god"
+    },
+    {
+      "entity": "Nuadu Argatlam",
+      "type": "character"
+    },
+    {
+      "entity": "Sucellus",
+      "type": "god"
+    },
+    {
+      "entity": "Gundestrup cauldron",
+      "type": "artifact"
+    },
+    {
+      "entity": "Coligny calendar",
+      "type": "artifact"
+    },
+    {
+      "entity": "Caesar",
+      "type": "person"
+    },
+    {
+      "entity": "aes side",
+      "type": "group"
     }
   ],
   "sources": [
@@ -154,19 +294,20 @@
     "\"Superstition is a baseless belief or ritualized behavior that often represents a degraded form of an earlier religion. Mythology and ritual are connected, the first being a narrative or narrative sequence, the second being actions or behaviors that evoke or reflect that myth. Certain problems arise in defining and describing Celtic religion. The Celtic peoples did not employ writing, believing that religious secrets were better shared orally. Thus there is little textual evidence for what the Celts believed.\" (Author's Last Name, Year of Publication)",
     "\"What we have was written down after literacy arrived, along with Christianity, in Celtic lands. We also have some texts written by those who were at war with the Celts, including the Roman general (later emperor) Caesar and the army geographer Tacitus.\"",
     "David Rankine and Sorita d'Este, The Isles of the Many Gods: An A-Z of the Pagan Gods & Goddesses of Ancient Britain and Ireland (London: Avalonia, 2007), 13-14.",
-    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.",
+    "Koch 2006, s.v. 'religious beliefs'"
   ],
   "cyphertext": "it7EAh1GIdvdwM0iQiarDUxjBVYQHieECEuonxXkxGS9KQ5TQ98XqDl6kQ3HHH3QuT8RgjxIb-5Ts5s30xQ4gJ3jHIOrE9W9CeHCf14GBjtuc8EIK6EubE06VZvYw1RYoMzzA-ZwU8YPZezoTHRvi9ZsAs8grX9O8YSCuOsgsf3h9w7n94RVmbz6dvjFHxkbCBRDgV4yVdGA7r3-icYyPgxFpz2kehX5sxBgkdmyk9ub0Fa9kjxBR_DfZrr2Z1d2ZQ5H0XFtt0sC3HUYRAzBU224L1X36orqRHuVoJLTaqcRbS9X1C7pQ5txQodIdcTAf-w9CNfUtAMpeak3iwFZctO6pRk9yNAXTmZOgnj4XzR1VUNqQ3eBvhQJGdSTtO08nxIyF5bynUTMrp86bETnnnzm05wJXowOH1i3damTvuV3CbJ1bunCYpRiU4WAdkHWabAIjUKK5kJwTKE97r8ZS6nB6-b6viA_AGpoVN2QVgxix49Dc4Rtd1eGQky0fklcdfC436VHRDgs8fUTwbu1zg6PWzYU8iRyttPqwbSSgx6HUtdbEjFTw-wErhO3g9j2SBjDzBhUTVlaRJdm8JUPlGbQZV3MM_bMPggjUcmlDjCQc4Ty-HlCxLjhLQ6qvnKpHlUI2dWSCmmIJJCipZ3qKHttnKeJv2tXGouetUtwadA5UuBxPZwZ_uNamfw0TJZKyfRl90iJSTuBHcaW_I_2qKcllbHAgWvMZuDmu-3FHG973rwFNgW1tv0n0G2YhCQyrfvrXVUTlWS6FpUb0cGAO5FE9DgDsmjJ9w71jwR2pNyNWpA1bjoB_XVvlTCU6iVp8jHS3pytKXj79eiytz9tLak92lFheq56bDR8tctF27u5Q_kmbwQ8qlof5xXGmm27AHGACffJhcPO0ezaV621Z_KtpvwA_7zeHzEwY5kH7owbRl0FUwErYeWXTXJPTgtizyn4l2F7quGuK8I69GURWW8-ouqDorYsrIInHO6ERE4PiQIf5wNvrhHmioy2pH8SAlqpP3k6Q3ViZ0dehKmVp8M7eMFG9ZrtjCsyXWnLEiu1hr-HungOqSEfCIjQ_ASOxyvuq_Xcd-EXLm8ZKzs4qGxg5QxzxdJs8H_Z86Qls5h1hEnsbUDwJg1pq84SkZTpEBH3MgyM8QxuuvaODvJF-pGeeJx_MS0hQklqUVLGZT74octGG7-T8Q4R4Ty8TyxER9aguL3m3gcb_y9yPYtwQ2g4XwFby58X019B_WPHwbelDVO5wPbh_2TkGtcpI1Tm9y5G2VxRvlzWnicEXAR2NLWNdA5zbjH3DKiaOY7YOwNkALE2DAc_xN70uY5Bxkn2Zkw10Bo-yWg1wXj27KgsMENkicFR0Zfzn53IKx9WbUXjWyTTnDF2XNj812w9Ea7DKur62Cu8fYmuf7QPFEfWhHZes7M0WUjlgOgjG4OF1pQ7P1Pqh4OmIMU-Wowbbzts9FGzra1lwISr7gXePVdZyrePW6uwM1rKaSX-Iz2VGZVcgOEPRNEotJOH8h1Rmd-_fjBBPCWkWEMf3DNuI6hRwM4Y_18GO4ykinIsY5ScXxa9Xl5c5spGhNrIhNUI40y-bZDC1nj1mBvnQwqcB8osN84QXSvu9lpJ1WSDv_a8vKe72VU_kgrtc1cgA3WB9UTcyArJvTrL_AaSsfGc47H8hJ-tVViZZ4zgU-GmBvRRzidUycoIH1A3FWBpy2xbpUlc-tpvIuGh2oP3yhA0KHqJFFJ0Z7N9XcQVZVkiWWINeTXvjY3HoLFHYM1GKxzV6Z63cnDzj6Ru89TGyZvfxMetWGskuGUuYYb3kgIvvTzImnMNcIr9DD4eCRcy3I8lfolepGi8kh72kWq67-L5TCveKL854Dk_7D_2z3N22M4ElqIcShWkoMt0ksUmcK9z-unID1WXOaXrteeM76ZV2B-v90ydCAulSEJZvJjtugCKS7Vm99jQ4_CJFZJqgFySQHmImGlmkg9GV4JyrdKbcHU3ndJ9zMDeOZVoDWxO6tFY4xyG8NOs39ljE9zoiXU4ob6NPsOsyxGfbUxjVqpyHNfzSnLixHXlv8PYRzVKe9k-RGu_YlAk2QPPpljuszWSsjziU09q1TDGG7J9aF4WOdS3kccvSjAOUFH7SWbGvjZaEEvhl7QKJ_Csgc7ZQZewLkZdAhZj7y2e8KY_Yg4-r0Uv_H2D4gRoN1F-9wHzWdpmA7Muk0uYC5XiMw-ovriEff-09O148KZNX0O58k7vfUdY6KRGIsdxTHSMP0CL04ar2jgIcU1rbhVSoieHsuUvHos7D0pXFl6iQdQQUq8tL-A56iaH1gFfcs0I8qavD0MjM7awO9Air-9HVdSqghKihgap9gpL02ObEYg8IGkh2n2qLZ61ZWYsUwcbCNvkE7YAR7BLZ0OBHSwU5io18DOJvnqy8kcoAI5P0g4rYF5NsGl5bm3wKdd5PDT66qpOsrUXpSlOZuLYmpS1vc6HnsYeGrcaiS95eAqSHGoEF9MKybkddAqKB9LO4hl2brceeeTen8HiK0uOVgJs5-0tejS6zxjTctLOE-6-Z3MZw_7ekm5PzdEN6p8IxvyKtZax-T_feutjLcGXuQmbJlSKyMtktXvhigdp6BTkm__oteUS-XTlAWaZ-ZRjVKCFspyfVKfpacF4RWm7tzXjFq6Ng94op5iRqJC0fBwUlnToKvAq_cS3MxOVUMJ8NewLVm9BHWlzMQJsWeDtTw7pY0Uctibv6XqDTFIlH2KOqM3fX3vLzHQKSWK7g3LqpN52B3ZIdgGvHitkjiWnW1p0tN8TJk77b3LNPRL5FF-AIn7g22Qg-XhyI-Xaferctscy7-yJW8QI7yJduc3sp7PTdbSQJIPhWWGsth4SEEq1GuzVXzbx9ciGIQslXO80CgIACgpq6ywscQ5Z6k1fK4oOuH0z0fSilziO7_SbMz8B3BGY8Hdc5TBFQNH3lQXcpud7BREnBLgDb-R2pGOZ3GT7jJvWTOQDCfm2I0VQ9CmFeYjnhmW_AR6fJs-IPthShtEv915FYK2RSPxjZOy7hr1lDVb8eqz_Ip1oqeLXomTnIk02NPP7Nku7kx9CFtUSMpJONwLdFVR8RkW-30aVjwURRPMYULGLOBKlaF6gs23_nCprnyO1lreZN9EZgeiR7QfQTFQp3Ud3GXP4j1AncXGqKbT6RSKp__uniws0duY8jNmvjeM0xvuT7fsVznzE8O473eE7tKflPRq0B2WTLyyG5q7rR9v4A67xP3xsVU05YJYfxNN1z81uPyzSoBOl3MxHe12B0Ux0e0QH7ZXKUMycMfYF_NOo83apPl6idz_MoP7u1hUtMIXUkjjOyud7mDCPsBRbbWiyIudmtaDKDxmmFZn1v0B18ZW6F-mAAHQQSgvOPrThR35Mf4lkiupPpHHzvHUbGfwnOwvusVLQ6C2zeo6nTCu-OZXrvEmjd0_fnz8Aj0y-yvEFeckL8wjOhIuMyguk8DVXlNz6z0MQ73XGnk-JdKQGastOAPyAZl1xep1Z4R5UeYTcavtvaWou-IEa55sVGaHYRgXfJ9W7U0g-ovqOHmxLOwoGnwc6UyjZHyWcQx_idmxwcpy3EA9kc4VxKs8dyieWrU5RuyEbP70pTPkGxRwGysZub16n2Hz_ESP8TGGm3EmKFJx8JZlk7c7okuXoFOgsWTqURgFQdoNFcr5E2EZOXuvpT-a0RUMtVav4aqz3rGfLUnnL7RIcC0OzYZXitNKMjZlTYFiY8RocMFFzzEzrtcilVXmlwishdHGYt8a7p-C32PFLqI5UHOIgabQoMc3gcfAaeExN64FtKQpG-9WPhZnHwOMReVJ4uBbIrsE_ArK-rplIDOC3Hx0RXxzfSBUGoi0nXfUSZwZJIEB-o42xlvEcWjWqzMyxQdGJiDYyr26DskQR01EMkvAHtEb-u91lZHqIh8RDLcQG2CU9Ed7N0kT54jwlvBVuuvKQg84bpkBsyFD_N7Tzb8W4zlNParRC0W27wjfrH4M_hvHkJFqwgS4DSeSCmX7lzyPc2HZ_2wuxlR-GiVIkj-Sh_EtdnVfUTvgDntV4yjSSDGYv-FR3A6gR3Lc7E4bsys_YJTxivDeDJASrf9pSe0EYLaX3SdvL9xC9H9wroIphxNEB-AVsgvnr4h3osT7REcO3xTNK1dHI2HTGlSGGqRUKzPJO8gpGY0JR0uxj3MCT0WP53vd_5MUCX-mv5UNRwRYiSu8-lEzhLC0L2Sk3uaYtQA9iJFgvxOCsh4_eLi3Lv-rnWfd37P1RuGR-3yyvKBNfUctx2L4CriRTlMkOh2GE3BbNwiI8pAcehlps3CgIzjQJEKpijpPG7j2DZZ_DUWuGMobw7QeJQVol6KPulJE43vENikorbJ6jpi68A-HyTHIx6yCqv8zH2GtUIwNEKj56miyTAqZGDZsYF4gTz-3MuaL2pj5mbhq8dhjaRHPzEjutvxQdceh1ih5EeIZdp9r8f2CBIqO7Spd9dcEFLT2bPBlQll-J40baejGaqNpcJHshbJ8YNyQPZrG9HxSHbF3pPbgnWxXVS8CwWMxX3vYnswXf-JG14GGuE8nkQy0iFrkueSsCCXg_ANyrV1mWelUFJ55egZ15Jnfg67eXkatJ43Xozrjf6_FZGgs5V2V_9_5bMZuyvaq3hXA4AyszBcb4P6tebli1w27W879pJ76ktFmT7HH0nmO2_6ZWuhDkCS_QQpOiq9a54JqbmADpRBZkXrOzzXhI2keLt_Gs7CRmjz7TAd2TIt5kjHSVeTu2yEbEu-dT0Y3zzR4auMg1YCxOpxos10iFDmQpLYquzc1BtAje1Q6T9xjJWBmzKCysw4saLWqohmPCMdrNKlUE4nZma5ufoTPqy71XoSEsxE8_Iz_Ms76IU1vyA_mAHsmzSh-55gn2u9QUEhRsf_99BmG99ZhXAnlTMyLtjcR9kCugHA1cD0gezkO63qz6n1QXrsRqMH1fHD9WX9Pq0uvFzm5S4U1IRmLHLuK9heLLhlCmSQy_Gkev5ll-fw8YF1H93GuMv1YM-WHceqPw9jGC54jW4uvI1Td4O1bFCtW153LAMLJ8lpEorYgHmaSG5aLiuSQKbO54Cb7imYf5YfAR6KkICdensQBBPmfqne57zNEdlKRny9UucTVktKEXn8ootDR4PNyqw-0PmcZNr35NDkBEGEpv4Y2kjEB27ia3TmeQvvpZYEkIkd9DGbYq6P5O5OiL5eLv-8ks9ynkyhAUGrohL860FKKKMQVZI7iorJWI8I9UCH1lPOd2c22RmVuhoHtnbmxMIigqQHTH9yNPZSV1VDYcNsLKHrudaSL-h4FXfu6A3Y2Fx7bZtt4TK5-NMzlSOMYCcmnYH8LHtcGMt5AK8VakjW_9Kgcl8dI8c33nPDy8YJf0VuV6Yrr4aAbTO3vwbXn0WJwDAtDXm4ySUIgGKUkZjxe4bNiQiw_vu2NQwvvDS7ddGEC6kix0irRLKfCY9zvRQSQ2Haot3MipnABU0iywIszmy_BpVUlSf8A9YtOYR8IXviu5A40p7E69XqhDjmr5z3cyaRH_QeKy76qyb7W3Ba1yXaY7yDY4msKeN4UPlIi4zThoopz0prUsDm9qNqhlU-NgvAQc5dxqkU-GetpGJsTw0q05VoWW266W-7eij7i9OdJNyOGLxhMSDLS7ABnVBvP8mh5GtgP56Rh86VQWcjjtvIH17Ay4Api9FRxCJG8Rfpqjt8o8h5yAa4LN0ZHyMOGvgk0Q_XsH88ychLycMmqCf7sW93o6bhW-ETKAcHsrbDTbDE8Jwd5n8OF7i4MyQsqRjAN1M65aGyE-FjFswQoHZ-kt9Y9lhdYFec8eHzCPVtIV30CJn0nuv3QeP0RnwXTt1ZeCJVlB2UcPiHUFgxg4O3FLAeCnfv6hcDIBMz9Tmk8vYj_0pXgK6HygJSHlvqh7yOyv6b3zn7cQaFnaBW620QESyTg_lI9uH9gCG3DCWJrtxFezByuq9G0sP__6jb0ebk8wctPyJjMFOcZJkNjOKkWgAZYE8iZ98HJtXAGcJf61_VVv6rrUlpap1znGAdKRuLKzoRHh85TCn7yEFsAa-hvEnKIKWYIuuuF1c4WkGzvKq6UIg038lEYR0Nvd6L2_kyAjsg-51BoHjNGxTxQZWGBwXow8P3WEEEQ-DfRzhN-PJG0z-Y7dZa9-QXkJzeKV7OE2HSltufit5xCr",
   "salt": "UDnF-fuDTqnco7Zooxo0Mg==",
-  "text": "Celtic religion records no story of how the world began. Some scholars guess the Celts held that the world kept remaking itself. Others think they believed it had simply always been there. Celtic belief added an Otherworld that lay beyond what our senses meet. People often compared that realm to the Dreamtime of Australia. The Otherworld pressed against our own world. Gods and mighty beings lived in it. Those beings could touch our world only where time and place allowed. People too could pass into the Otherworld. Some wandered in by chance. A fairy lover or a fairy host might carry others there. That realm mirrored ours, yet it shone more and changed never. Blossom and fruit hung together on its trees. No one grew old there, and death held no sway. The Celts drew no hard line between holy and ordinary. In their view all land carried traces of the sacred. They set the four directions about a hallowed middle point. That middle was an idea, not a fixed spot. It might shift, repeat itself, or slip away from the world altogether. The greater gods dwelt in the Otherworld. No one pantheon bound every Celtic people. A majority of gods served one region or one kind of place. So many gods stood before the Celts that a man swore by the gods of his own folk. Still, some divinities spread far and wore many names. Among these stood the triple mothers, together with a horned god and the powers of rivers. The Celts seldom drew their gods as humans. Divinities could take human and animal shapes at will. Only after Rome conquered did carved images in the Mediterranean manner appear. The Celts spoke their gods' names with care. Every word carried force, and a god's name carried far more. Scholars cannot say whether a written term was a name or a title. The Celts kept no ranked order of gods. They pictured divinity in clans, like the kin of Danu or Don. Gods abode in hills, sea, trees, and swift streams. Seeing the holy within nature is pantheism. A mother goddess made life possible by her bounty. She sometimes stood as the ancestor of a whole people, sometimes of the gods. She appears in myth as Danu, Anu, or Don. Scholars link her to a lost central European goddess named Dan. Her name lives in the Danube and Don rivers. Most rivers in Celtic lands still bear goddess names. The goddesses often came as three. In Roman days they were the Deae Matres, three women of like face. Male gods gave skill, craft, magic, and verse. Rites took place outside, not in temples. Gatherings met on high ground, by fresh wells, and under oak trees. Bog corpses show a death by strangling, stabbing, then drowning. Some thinkers accept that hard times could bring human sacrifice. Most festivals turned on the seasons. Samhain on November 1 opened winter. Beltane on May 1 opened summer. Imbolc on February 1 and Lughnasa on August 1 marked the midpoints. The Celts watched season middles, not sun shifts. Their tales covered Arthur, the Matter of Britain, and the Round Table knights. Those stories hinge on the sovereignty goddess, whose blessing kept a king's claim safe. The fairy faith, named by W. Y. Evans-Wentz, belonged to the tradition as well.",
+  "text": " Celtic religion records no story of how the world began. Some scholars guess the Celts held that the world kept remaking itself. Others think they believed it had simply always been there. Celtic belief added an Otherworld that lay beyond what our senses meet. People often compared that realm to the Dreamtime of Australia. The Otherworld pressed against our own world. Gods and mighty beings lived in it. Those beings could touch our world only where time and place allowed. People too could pass into the Otherworld. Some wandered in by chance. A fairy lover or a fairy host might carry others there. That realm mirrored ours, yet it shone more and changed never. Blossom and fruit hung together on its trees. No one grew old there, and death held no sway. The Celts drew no hard line between holy and ordinary. In their view all land carried traces of the sacred. They set the four directions about a hallowed middle point. That middle was an idea, not a fixed spot. It might shift, repeat itself, or slip away from the world altogether. The greater gods dwelt in the Otherworld. No one pantheon bound every Celtic people. A majority of gods served one region or one kind of place. So many gods stood before the Celts that a man swore by the gods of his own folk. Still, some divinities spread far and wore many names. Among these stood the triple mothers, together with a horned god and the powers of rivers. The Celts seldom drew their gods as humans. Divinities could take human and animal shapes at will. Only after Rome conquered did carved images in the Mediterranean manner appear. The Celts spoke their gods' names with care. Every word carried force, and a god's name carried far more. Scholars cannot say whether a written term was a name or a title. The Celts kept no ranked order of gods. They pictured divinity in clans, like the kin of Danu or Don. Gods abode in hills, sea, trees, and swift streams. Seeing the holy within nature is pantheism. A mother goddess made life possible by her bounty. She sometimes stood as the ancestor of a whole people, sometimes of the gods. She appears in myth as Danu, Anu, or Don. Scholars link her to a lost central European goddess named Dan. Her name lives in the Danube and Don rivers. Most rivers in Celtic lands still bear goddess names. The goddesses often came as three. In Roman days they were the Deae Matres, three women of like face. Male gods gave skill, craft, magic, and verse. Rites took place outside, not in temples. Gatherings met on high ground, by fresh wells, and under oak trees. Bog corpses show a death by strangling, stabbing, then drowning. Some thinkers accept that hard times could bring human sacrifice. Most festivals turned on the seasons. Samhain on November 1 opened winter. Beltane on May 1 opened summer. Imbolc on February 1 and Lughnasa on August 1 marked the midpoints. The Celts watched season middles, not sun shifts. Their tales covered Arthur, the Matter of Britain, and the Round Table knights. Those stories hinge on the sovereignty goddess, whose blessing kept a king's claim safe. The fairy faith, named by W. Y. Evans-Wentz, belonged to the tradition as well. Koch maps the religion across a vast settlement area, so local practice differed from place to place. The era ran from the late Hallstatt era up to the arrival of christianity in the third to sixth centuries AD. Romanization blended Celtic custom with Graeco-Roman belief. Toward the close of Roman rule over Britain, around AD 409 or 410, native Celtic rites revived. The main written witness survives in inscriptions. Most are epitaphs and votive texts in Greek or Latin that carry Celtic names. Curse tablets, the Gaulish text of Larzac, and the Coligny calendar also survive. Early Irish ogam graves yield mostly personal names in the genitive. Classical authors framed the evidence with their own bias. Caesar set Celtic savagery against Roman order in his account of the Gallic War. Lucan told of human victims offered to the gods Teutates, Esus, and Taranis. The scholiasts of Bern disagreed on the details. Indigenous images go back to the Hallstatt era. Deified ancestors stood on great burial mounds at Hirschlanden and Glauberg. Depictions of severed heads carried religious force, tied to the head cult and head hunting that later writers recorded. The Paris boatmen's pillar showed Esus as a woodcutter and Smert slaying a serpent, while Tarvos Trigaranus stood as the bull that bears three cranes, with the antlered Cernunnos beside them. The silver Gundestrup cauldron mixes an initiation rite with echoes of the Mithras and Cybele cults. Scholars use interpretatio Romana and its reverse, interpretatio Celtica, to pair deities. Caesar stressed Mercurius, often read as the wide-worshipped Lugus. The god Belenos is usually equated with Apollo. The Roman Minerva, called Sulis at Bath, looked much like Belisama. Cernunnos takes his name from his horns. Deity names may hide meanings we no longer grasp. Indo-European comparison illuminates Celtic custom. The sacrifice of a white mare to Macha at a sacred marriage matches the Old Indian horse rite. Gerald of Wales claimed the ritual survived in Donegal into the twelfth century. The Book of Invasions told of the Túath Dé retreating from the ancestors of the Irish. They live on as aes síde, the people of the síd, the fairies of later folk-tale. The Celts kept four chief festivals, whose traces survive under Christian names. Rituals with masks appear in images such as the Aylesford bucket. Church synods in Gaul banned wearing stag masks. In Wales the Mari Lwyd walk has lasted into recent times. Mother goddesses, the Matronae, guarded fertility and gave help in need. Their cult linked to the divine son Maponos. The tribal mother Brigit turned war goddess in Leinster. Epona rode a horse and shared traits with the mothers. Healing deities such as Sequana and Coventina guarded springs. The father god, likened by Caesar to Dis Pater, ruled the dead. Ogmios led souls into the Otherworld, placed on islands in the west such as Bardsey. The Morrígan, Bodb, and Nemain could take form as a cow, a crow, or an eel. Taranis, the thunder god, carried the bull and the wheel. The smith and craft gods mattered much, led by Lugus. Nodens of Britain matched the wounded king Nuadu of the silver hand. Sucellus, the mallet-bearing god of wealth, worked close to the earth. Celtic visions of the Otherworld as a land of endless spring and music left a deep mark on later Western literature.",
   "okr": {
-    "objective": "Celtic religion centered on a changeless Otherworld and a decentralized pantheism.",
+    "objective": "Celtic religion forms a broad, local faith centered on a changeless Otherworld and a decentralized pantheon.",
     "key_results": [
-      "Celtic religion has no extant creation myth.",
-      "The Celtic Otherworld resembles the Aboriginal Dreamtime.",
-      "There is no single pantheon; gods were local and often triple.",
-      "Festivals such as Samhain and Beltane marked the turning seasons."
+      "Celtic religion has no extant creation myth and kept no unified pantheon.",
+      "Most evidence comes from inscriptions, classical accounts, and the archaeological record.",
+      "Ritual marked the head cult, seasonal festivals, and sacred marriage.",
+      "Romanization blended Celtic and Graeco-Roman belief from the Hallstatt era through the coming of Christianity."
     ],
-    "evidence": "Monaghan, Encyclopedia of Celtic Mythology and Folklore"
+    "evidence": "Monaghan 2008 (Celtic religion); Koch 2006, s.v. 'religious beliefs, ancient Celtic' (inscriptions, Caesar, head cult, festivals, deities, aes síde)."
   }
 }

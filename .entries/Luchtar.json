@@ -1,59 +1,112 @@
 {
- "name": "Luchtar",
- "attributes": [
-  {
-   "entity": "Luchtar",
-   "attribute": "Irish god of craftsmanship"
-  },
-  {
-   "entity": "Luchtar",
-   "attribute": "brother of the smith god Goibniu"
-  },
-  {
-   "entity": "Luchtar",
-   "attribute": "ruler of carpentry"
-  },
-  {
-   "entity": "Luchtar",
-   "attribute": "made spear shafts for the Tuatha De Danann"
-  }
- ],
- "entities": [
-  {
-   "entity": "Luchtar",
-   "type": "Deity"
-  },
-  {
-   "entity": "Goibniu",
-   "type": "Deity"
-  },
-  {
-   "entity": "Tuatha De Danann",
-   "type": "Group"
-  },
-  {
-   "entity": "Fomorians",
-   "type": "Group"
-  },
-  {
-   "entity": "Mag Tuired",
-   "type": "Place"
-  }
- ],
- "sources": [
-  "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
- ],
- "cyphertext": "H_2pMxhOPpsTUFGNtjHYKTVOQx1fA77IwaG70MRVUImSUnqdhhxUODYafiagcX-qT5tQDdvFisnAltVK8Yu4kVYbGGfKLQrj4b6fQRF0sB4XWrE5m3tVTQRNvt-colc4GnjdcLv2sirks33pNrSvVyGNwSeWVE8PMru3b81q-uHnEJwiCpBIlPPgwRKwwg1O8XY8iekRkkUCftr4kvaofjzlDHJQOhofPX00lywLL-ZKyzctNlUIPmdKw7e_VBciP58pBo6B4sk5oMyK9abjxWY9IYZZXwf1hm9DE5_DyxTi-d3Qu0yUsuh75clqQ4KTeUAmGrIXUygbH1ckH2byULybwgIvn0vfGGSoAbbKWzyDK_Y9Qr8ttLK_M5nLilBUBT71ICbUf14IVF4PZy2kO7to3Kxfx-QhvTZXNdozgJDUiFQpxFhSmiqR_p-sp25Azpno86iPFq3f9wGigv2D42Apx-PO77LKAwo=",
- "salt": "59ewFkBLUXKRr8MJdvu0_A==",
- "text": "Luchtar, also written Luchta, was an Irish god of craftsmanship. He was one of the lesser gods of skill in the old tales. Luchtar was the brother of the smith god Goibniu. He ruled over carpentry and made the spear shafts for the Tuatha De Danann. Those shafts served the gods in their fight against the monstrous Fomorians at the second battle of Mag Tuired.",
- "okr": {
-  "objective": "Document the Irish craftsman god Luchtar and his role among the gods.",
-  "key_results": [
-   "Luchtar was an Irish god of craftsmanship",
-   "He was the brother of the smith god Goibniu",
-   "He ruled over carpentry",
-   "He made the spear shafts used at the second battle of Mag Tuired"
+  "name": "Luchtar",
+  "attributes": [
+    {
+      "entity": "Luchtar",
+      "attribute": "Irish god of craftsmanship"
+    },
+    {
+      "entity": "Luchtar",
+      "attribute": "brother of the smith god Goibniu"
+    },
+    {
+      "entity": "Luchtar",
+      "attribute": "ruler of carpentry"
+    },
+    {
+      "entity": "Luchtar",
+      "attribute": "made spear shafts for the Tuatha De Danann"
+    },
+    {
+      "entity": "Luchtar",
+      "attribute": "name links to the small Otherworld being Luchorpán"
+    },
+    {
+      "entity": "Luchorpán",
+      "attribute": "small supernatural being of the Irish Otherworld"
+    },
+    {
+      "entity": "Luchorpán",
+      "attribute": "name yields the modern leprechaun"
+    },
+    {
+      "entity": "Luchorpán",
+      "attribute": "carried the sleeping king Fergus toward the water"
+    },
+    {
+      "entity": "Luchorpán",
+      "attribute": "name may hold the god Lug or an old word for small"
+    },
+    {
+      "entity": "leprechaun",
+      "attribute": "small shoemaker of the later tales with a crock of gold"
+    },
+    {
+      "entity": "Luchtar",
+      "attribute": "name joins the craftsman god and the water spirit"
+    }
   ],
-  "evidence": "Monaghan, The Encyclopedia of Celtic Mythology and Folklore, 2003."
- }
+  "entities": [
+    {
+      "entity": "Luchtar",
+      "type": "Deity"
+    },
+    {
+      "entity": "Luchorpán",
+      "type": "Being"
+    },
+    {
+      "entity": "Goibniu",
+      "type": "Deity"
+    },
+    {
+      "entity": "Tuatha De Danann",
+      "type": "Group"
+    },
+    {
+      "entity": "Fomorians",
+      "type": "Group"
+    },
+    {
+      "entity": "Mag Tuired",
+      "type": "Place"
+    },
+    {
+      "entity": "Lug",
+      "type": "Deity"
+    },
+    {
+      "entity": "leprechaun",
+      "type": "Being"
+    },
+    {
+      "entity": "Fergus son of Léite",
+      "type": "Person"
+    },
+    {
+      "entity": "Ulaid",
+      "type": "Place"
+    },
+    {
+      "entity": "Otherworld",
+      "type": "Concept"
+    }
+  ],
+  "sources": [
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.",
+    "Koch 2006, s.v. 'Luchorpán'"
+  ],
+  "cyphertext": "H_2pMxhOPpsTUFGNtjHYKTVOQx1fA77IwaG70MRVUImSUnqdhhxUODYafiagcX-qT5tQDdvFisnAltVK8Yu4kVYbGGfKLQrj4b6fQRF0sB4XWrE5m3tVTQRNvt-colc4GnjdcLv2sirks33pNrSvVyGNwSeWVE8PMru3b81q-uHnEJwiCpBIlPPgwRKwwg1O8XY8iekRkkUCftr4kvaofjzlDHJQOhofPX00lywLL-ZKyzctNlUIPmdKw7e_VBciP58pBo6B4sk5oMyK9abjxWY9IYZZXwf1hm9DE5_DyxTi-d3Qu0yUsuh75clqQ4KTeUAmGrIXUygbH1ckH2byULybwgIvn0vfGGSoAbbKWzyDK_Y9Qr8ttLK_M5nLilBUBT71ICbUf14IVF4PZy2kO7to3Kxfx-QhvTZXNdozgJDUiFQpxFhSmiqR_p-sp25Azpno86iPFq3f9wGigv2D42Apx-PO77LKAwo=",
+  "salt": "59ewFkBLUXKRr8MJdvu0_A==",
+  "text": "Luchtar, also written Luchta, was an Irish god of craftsmanship. He stood among the lesser gods of skill in the old stories. He was the brother of the smith god Goibniu. He ruled over carpentry. He made the spear shafts for the Tuatha De Danann. Those shafts served the gods in the fight against the monstrous Fomorians in the great second fight at Mag. Another being carries a name of the same cast. That being is the Luchorpán. The Luchorpán is small. It belongs to the Irish Otherworld. The modern leprechaun comes down from it. The name is built in two parts. The second part, corpán, means a little body, from the Latin corpus. The first part may reach the god Lug. It may also keep an old word for small. Either way the name rests on small. The Irish tales set the Luchorpán close to water. In one story a king sleeps by the sea. Small ones carry him toward the water. The wake wakes him. He asks a boon. He wins the power to pass under any lake or sea. The small ones stay with the water. Their old name leans on a river word. The being moves into the later tales. The Irish say leipreachán. The English say leprechaun. The later one is a small shoemaker with a crock of gold. He keeps his size and his craft. The craftsman Luchtar shaped the spear shafts of the gods. The Luchorpán keeps the craft of the small folk. One name binds the two. Water and craft hold them together.",
+  "okr": {
+    "objective": "Document Luchtar the Irish craftsman god and bind it to the small Otherworld being Luchorpán.",
+    "key_results": [
+      "Luchtar was a god of craftsmanship and brother to the smith god Goibniu",
+      "He made spear shafts for the Tuatha De Danann at the second battle of Mag Tuired",
+      "The name Luchorpán is the source of the modern leprechaun",
+      "The Luchorpán is a small, water-linked being whose name reaches the god Lug"
+    ],
+    "evidence": "Koch 2006, s.v. Luchorpán."
+  }
 }

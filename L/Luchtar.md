@@ -2,57 +2,85 @@
 layout: layouts/pce.njk
 title: Luchtar
 icon: file-lines
-order: 1483
+order: 1616
 contributors: [ 'Christopher Godwin' ]
 attributes:
-  - Luchtar brother of Goibniu
+  - Luchtar Irish god of craftsmanship
+  - Luchtar brother of the smith god Goibniu
   - Luchtar ruler of carpentry
-  - Luchtar crafted spearshafts for the gods
-  - Tuatha Dé Danann fought against the Fomorians
-  - Mag Tuired second battle
+  - Luchtar made spear shafts for the Tuatha De Danann
+  - Luchtar name links to the small Otherworld being Luchorpán
+  - Luchorpán small supernatural being of the Irish Otherworld
+  - Luchorpán name yields the modern leprechaun
+  - Luchorpán carried the sleeping king Fergus toward the water
+  - Luchorpán name may hold the god Lug or an old word for small
+  - leprechaun small shoemaker of the later tales with a crock of gold
+  - Luchtar name joins the craftsman god and the water spirit
 categories:
-  - Irish god
-  - people
-  - smith
-  - monstrous
-  - goddess
-  - mythological battle
+  - Concept
+  - Group
+  - Deity
+  - Being
+  - Place
+  - Person
 entities:
-  - Luchtar(Irish god)
-  - Goibniu(smith)
-  - Tuatha Dé Danann(people)
-  - Danu(goddess)
-  - Fomorians(monstrous)
-  - Mag Tuired(mythological battle)
+  - Luchtar(Deity)
+  - Luchorpán(Being)
+  - Goibniu(Deity)
+  - Tuatha De Danann(Group)
+  - Fomorians(Group)
+  - Mag Tuired(Place)
+  - Lug(Deity)
+  - leprechaun(Being)
+  - Fergus son of Léite(Person)
+  - Ulaid(Place)
+  - Otherworld(Concept)
 tags:
   - Luchtar
+  - Luchorpán
   - Goibniu
-  - Tuatha Dé Danann
-  - Danu
+  - Tuatha De Danann
   - Fomorians
   - Mag Tuired
+  - Lug
+  - leprechaun
+  - Fergus son of Léite
+  - Ulaid
+  - Otherworld
 ---
 ``` tab [group1:Info]
 ::: magazinestyle
-Irish divinity Luchtar, also known as Luchta, was a god of minor stature in the realm of craftsmanship. He was the smith Goibniu's sibling and held dominion over carpentry. Luchtar played a crucial role in the mythic second battle of Mag Tuired by fashioning spearshafts for the Tuatha Dé Dananns, the warrior-gods of the goddess Danu, in their battle against the monstrous Fomorians.
+Luchtar, also written Luchta, was an Irish god of craftsmanship. He stood among the lesser gods of skill in the old stories. He was the brother of the smith god Goibniu. He ruled over carpentry. He made the spear shafts for the Tuatha De Danann. Those shafts served the gods in the fight against the monstrous Fomorians in the great second fight at Mag. Another being carries a name of the same cast. That being is the Luchorpán. The Luchorpán is small. It belongs to the Irish Otherworld. The modern leprechaun comes down from it. The name is built in two parts. The second part, corpán, means a little body, from the Latin corpus. The first part may reach the god Lug. It may also keep an old word for small. Either way the name rests on small. The Irish tales set the Luchorpán close to water. In one story a king sleeps by the sea. Small ones carry him toward the water. The wake wakes him. He asks a boon. He wins the power to pass under any lake or sea. The small ones stay with the water. Their old name leans on a river word. The being moves into the later tales. The Irish say leipreachán. The English say leprechaun. The later one is a small shoemaker with a crock of gold. He keeps his size and his craft. The craftsman Luchtar shaped the spear shafts of the gods. The Luchorpán keeps the craft of the small folk. One name binds the two. Water and craft hold them together.
 
 :::
 ```
 ``` tab [group1:Attributes]
-- **Luchtar**: brother of Goibniu
+- **Luchtar**: Irish god of craftsmanship
+- **Luchtar**: brother of the smith god Goibniu
 - **Luchtar**: ruler of carpentry
-- **Luchtar**: crafted spearshafts for the gods
-- **Tuatha Dé Danann**: fought against the Fomorians
-- **Mag Tuired**: second battle
+- **Luchtar**: made spear shafts for the Tuatha De Danann
+- **Luchtar**: name links to the small Otherworld being Luchorpán
+- **Luchorpán**: small supernatural being of the Irish Otherworld
+- **Luchorpán**: name yields the modern leprechaun
+- **Luchorpán**: carried the sleeping king Fergus toward the water
+- **Luchorpán**: name may hold the god Lug or an old word for small
+- **leprechaun**: small shoemaker of the later tales with a crock of gold
+- **Luchtar**: name joins the craftsman god and the water spirit
 ```
 ``` tab [group1:Entities]
-- **Luchtar**: Irish god
-- **Goibniu**: smith
-- **Tuatha Dé Danann**: people
-- **Danu**: goddess
-- **Fomorians**: monstrous
-- **Mag Tuired**: mythological battle
+- **Luchtar**: Deity
+- **Luchorpán**: Being
+- **Goibniu**: Deity
+- **Tuatha De Danann**: Group
+- **Fomorians**: Group
+- **Mag Tuired**: Place
+- **Lug**: Deity
+- **leprechaun**: Being
+- **Fergus son of Léite**: Person
+- **Ulaid**: Place
+- **Otherworld**: Concept
 ```
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
+- Koch 2006, s.v. 'Luchorpán'
 ```
