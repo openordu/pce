@@ -1,0 +1,46 @@
+{
+  "name": "Adonis",
+  "text": "Adonis is the handsome hunter of classical mythology. Greek and Roman tradition names him the lover of Aphrodite. Her Roman form appears in the tales as Venus. Celtic stories offer several parallels to Adonis. The Irish hero Diarmait provides one such comparison. The god Aengus Og offers a second likeness in the pantheon. None of these figures copies the Greek myth in full. The resemblance keeps Adonis alive in Celtic scholarship.",
+  "entities": [
+    {
+      "entity": "Adonis",
+      "type": "Person"
+    },
+    {
+      "entity": "Aphrodite",
+      "type": "Deity"
+    },
+    {
+      "entity": "Diarmait",
+      "type": "Person"
+    },
+    {
+      "entity": "Angus Og",
+      "type": "Deity"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Adonis",
+      "attribute": "a handsome hunter and lover of Aphrodite in classical myth"
+    },
+    {
+      "entity": "Adonis",
+      "attribute": "has proposed Celtic parallels in Diarmait and Angus Og"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Adonis'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Document the Celtic parallels proposed for the god Adonis.",
+    "key_results": [
+      "Describe Adonis as the hunter and lover of Aphrodite.",
+      "List Diarmait and Angus Og as proposed Celtic counterparts."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Adonis'"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "name": "Aetem",
+  "text": "Aetem is an early form of the name Edem in the Welsh record. The Welsh Edem appears to match a pseudo saint of Brittany. That Breton saint once held an important cult in Finistere. The same name recurs in the figure of a warrior in Arthurian tales. Scribes carried the name across two lands and two languages. Aetem therefore preserves the oldest spelling of a shared saint and hero.",
+  "entities": [
+    {
+      "entity": "Aetem",
+      "type": "concept"
+    },
+    {
+      "entity": "Edem",
+      "type": "Person"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Aetem",
+      "attribute": "an early form of the Welsh name Edem"
+    },
+    {
+      "entity": "Edem",
+      "attribute": "a Welsh name linked to a pseudo-saint of Brittany"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Aetem'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Record Aetem as an early form of the name Edem.",
+    "key_results": [
+      "Note Aetem as the old spelling in the record.",
+      "Link the name Edem to a pseudo-saint of Brittany."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Aetem'"
+  }
+}

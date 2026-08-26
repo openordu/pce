@@ -1,0 +1,51 @@
+{
+  "name": "Aeté",
+  "text": "Aeté is a corrupt form of the Irish name Aide in the records. The Dindshenchas name this Aide as the second wife of Enna. His first wife Dub drowned her rival and the rival family in rage. In revenge a servant of Aide killed Dub with a sling. Dub then fell into a river pool where the Liffey flows. That pool took the name Dubh-linn, meaning Dub's pool. The word grew into the modern name Dublin. Aeté thus preserves an old spelling twist in the tale.",
+  "entities": [
+    {
+      "entity": "Aeté",
+      "type": "Person"
+    },
+    {
+      "entity": "Aide",
+      "type": "Person"
+    },
+    {
+      "entity": "Dub",
+      "type": "Person"
+    },
+    {
+      "entity": "Dublin",
+      "type": "Place"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Aeté",
+      "attribute": "a corrupt form of the Irish name Aide"
+    },
+    {
+      "entity": "Aide",
+      "attribute": "the second wife of the king Enna in the Dindshenchas"
+    },
+    {
+      "entity": "Dub",
+      "attribute": "first wife whose death is tied to the naming of Dublin"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Aeté'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Record Aeté as a corrupt form of the name Aide.",
+    "key_results": [
+      "Explain that Aeté is a spelling of Aide.",
+      "Note Aide as the second wife of Enna in the Dindshenchas.",
+      "Connect the tale to the naming of Dublin."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Aeté'"
+  }
+}
