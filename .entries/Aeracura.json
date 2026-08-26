@@ -20,6 +20,22 @@
     {
       "entity": "Aeracura",
       "attribute": "worshipped in Germany and Switzerland"
+    },
+    {
+      "entity": "Aeracura",
+      "attribute": "paired with Dis Pater on a statue at Oberseebach"
+    },
+    {
+      "entity": "Aeracura",
+      "attribute": "venerated near Stuttgart"
+    },
+    {
+      "entity": "Aericurus",
+      "attribute": "male form of Aeracura, recorded in Northumberland"
+    },
+    {
+      "entity": "Aeracura",
+      "attribute": "may descend from an earth goddess"
     }
   ],
   "entities": [
@@ -39,11 +55,27 @@
       "subtype": "Greek goddess"
     },
     {
+      "entity": "Aericurus",
+      "type": "Being"
+    },
+    {
       "entity": "Germany",
       "type": "Place"
     },
     {
       "entity": "Switzerland",
+      "type": "Place"
+    },
+    {
+      "entity": "Oberseebach",
+      "type": "Place"
+    },
+    {
+      "entity": "Stuttgart",
+      "type": "Place"
+    },
+    {
+      "entity": "Northumberland",
       "type": "Place"
     },
     {
@@ -57,22 +89,22 @@
     }
   ],
   "sources": [
-    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.",
+    "MacKillop 2008, s.v. Aeracura"
   ],
   "image": [
     "https://upload.wikimedia.org/wikipedia/commons/7/74/Erecura_distribution.png"
   ],
   "cyphertext": "URZsvKQk-Bk5t5eurQPVoQhCm2zOLRndHaEB4R2b-zoAKJHrrzTe3C_qDXJ4da5D9gbVJfIE83vmciBa2cbOCLMGA33Ktp4Pm-1XoWcRC8BGzMLq4_SlZJ1o9aNFsuJ7L8t7Kl5424BXQ_i0DkUMVDUHCxN0QmkCmTgufwrLLOxO_BMFw7rqlkrT_4tRuj2JGXmGSsuRyJ3beUSbKfAz3HDXmuKmsjJoCdo6eXIwIY8sV0ZNnNwW4ounUAzmFLFC8smkhmUeQgdGIdlF-uIXQeuzHxhAdS0__2ngcQvPyGp7bUP6nunJAKWzwptf9jjAqfxFhYkgqmhzj170kNZyL0TZymXLQSsEJdX9hKF_v2iwsDzsAfaOZxeZ6bAn9aSyEc9p9lk7MS0Y2DpRkZWYcpEx8Z3s_2nhTUeyOul_Jst5hKUjb9p7u0cgx2BNRFxW3jMZ68JyCcCT2hxHeXcqT-Gd031LuyYbhmy-",
   "salt": "B27gS3KtzAxuyc9oAxl2lA==",
-  "text": "Aeracura, also named Aericura or Heracura, was a Celtic goddess. People worshipped her in Germany and Switzerland. She stood as the partner of Dis Pater. Her name resembles that of the Greek goddess Hecate, so scholars link them. Art shows her holding a cornucopia. That emblem stands for fruitfulness and for the Otherworld. The book also places her with the Deae Matres.",
+  "text": "Aeracura, also called Aericura or Heracura, was a Celtic goddess. People worshipped her in Germany and Switzerland. A stone statue at Oberseebach in Switzerland pairs her with Dis Pater. People also venerated her near Stuttgart in Germany. Her name sounds like that of the Greek goddess Hecate, so scholars connect the two. She may have begun as an earth goddess whom Dis Pater pushed aside. A male form, Aericurus, appears in records from Northumberland. Art shows Aeracura holding a cornucopia. That emblem stands for fruitfulness and for the Otherworld. The book also places her with the Deae Matres.",
   "okr": {
-    "objective": "Record the goddess Aeracura, her emblems, and her lands of worship.",
+    "objective": "Record the goddess Aeracura, her emblems, her partners, and her lands of worship.",
     "key_results": [
       "Identify Aeracura as a goddess of Germany and Switzerland.",
-      "Show her cornucopia emblem."
+      "Show her statues at Oberseebach and near Stuttgart and her male form Aericurus.",
+      "Note her links to Hecate, Dis Pater, and the Deae Matres."
     ],
-    "evidence": [
-      "Monaghan 2003, s.v. Aeracura"
-    ]
+    "evidence": "MacKillop 2008, s.v. Aeracura"
   }
 }

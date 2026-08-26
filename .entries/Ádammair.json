@@ -20,24 +20,37 @@
     {
       "entity": "Flidais",
       "attribute": "is a woodland goddess"
+    },
+    {
+      "entity": "Fergus mac Róich",
+      "attribute": "only Flidais could satisfy his appetite"
     }
   ],
   "entities": [
     {
       "entity": "Ádammair",
-      "type": "god"
+      "type": "Deity"
     },
     {
       "entity": "Flidais",
-      "type": "goddess"
+      "type": "Deity"
+    },
+    {
+      "entity": "Fergus mac Róich",
+      "type": "Person"
+    },
+    {
+      "entity": "County Mayo",
+      "type": "Place"
     }
   ],
   "sources": [
-    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.",
+    "MacKillop 2008, s.v. 'Ádammair'"
   ],
   "cyphertext": "pzfLpLkJdN4PMIqdaYZktrd9U6zF_j1PyGTgHiQCLNuiTLLjLmGBNKuxcJWX_eW-hOx41bYNWJ0gj19Zt8eavnYyshFTM4VOo9HsOgYnzWonLZx1ybObQk8We_T2TMgQEIaw2BIubK7k5IRSUjuwXvuU0frIdr1zZ0_ILW5jbr4qbVqOD862fiDg7jnfv5Jl7btN5Txs0Q3qoMqDGM95Ya6iDpU=",
   "salt": "fwJnTkqCe95bGQ9PjwOsDA==",
-  "text": "Adammair is an Irish god. He appears in myth as the husband of the woodland goddess Flidais. He remains obscure when set beside his consort. Few myths are tied to him alone. The source gives no further detail at this heading. ",
+  "text": "Ádammair appears as an Irish god. Some tales name him the sometime husband of Flidais, the goddess of the wild. In one region the paired name Ádammair Flidais marks a local figure in County Mayo. This figure links to the appetite of the hero Fergus mac Róich. Only Flidais could meet his inner hunger. Without her he needed seven women. Ádammair stays obscure next to his consort. Few myths belong to him alone.",
   "objective": "This article establishes Ádammair as the obscure Irish god husband of the woodland goddess Flidais.",
   "key_results": [
     "Ádammair is an Irish god.",
@@ -55,6 +68,6 @@
       "He is obscure compared to his consort.",
       "Few myths about him survive."
     ],
-    "evidence": "Monaghan, Encyclopedia of Celtic Mythology and Folklore"
+    "evidence": "Monaghan, Encyclopedia of Celtic Mythology and Folklore; MacKillop 2008, s.v. 'Ádammair'."
   }
 }

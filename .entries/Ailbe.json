@@ -6,6 +6,26 @@
       "type": "Being"
     },
     {
+      "entity": "Ailbhe",
+      "type": "Being"
+    },
+    {
+      "entity": "Albiorix",
+      "type": "Concept"
+    },
+    {
+      "entity": "Midir",
+      "type": "Person"
+    },
+    {
+      "entity": "Fianna",
+      "type": "Group"
+    },
+    {
+      "entity": "Fenian Cycle",
+      "type": "Work"
+    },
+    {
       "entity": "Mac Dathó",
       "type": "Person"
     },
@@ -27,12 +47,37 @@
     }
   ],
   "sources": [
-    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.",
+    "MacKillop 2008, s.v. 'Ailbe'"
   ],
   "attributes": [
     {
       "entity": "Ailbe",
       "attribute": "a famous hunting dog owned by Mac Dathó"
+    },
+    {
+      "entity": "Ailbe",
+      "attribute": "a name meaning white"
+    },
+    {
+      "entity": "Albiorix",
+      "attribute": "a Gaulish word meaning world king"
+    },
+    {
+      "entity": "Ailbe",
+      "attribute": "a name borne by both men and women in early Irish narrative"
+    },
+    {
+      "entity": "Fianna",
+      "attribute": "twelve of its warriors bore the name Ailbe"
+    },
+    {
+      "entity": "Ailbe",
+      "attribute": "a name wrongly anglicized as Albert or Bertie"
+    },
+    {
+      "entity": "Midir",
+      "attribute": "the fairy king whose first daughter was named Ailbe"
     },
     {
       "entity": "Mac Dathó",
@@ -56,14 +101,15 @@
   ],
   "cyphertext": "5-SYGhR5Lf45H56OV1vOcXOuGB-8pqXbtimUzVI6QZwAlTxEQ8oUQGwZpKaaCSL7HAMiYRUuZ7Qq2FxohwAAC26eqziDTlKwB6yHzsdrKSKDQ--IsX48xakvY0GBW1k8ZJxF0YHtlPVXbFjemhhMVWibcjC3DAAxKe3qnlfKN4NSucvz5Y81kW8Mm4_H1zZ9_xTaZIcc0DiO9iYS2u6iKbTG2ZTGQvftkvx4zkiRyZK2mXHPk6oR_pdQR76gTnxt02isIG8olUdzstdj8jbGz_9irrbax3BAAhEwtt0PQrzjsaC8VgBXhzUQ8CRlXGJdT8JThGWHljsfHjDFfH3r5LHFccYttZc7T7a73P20smgEbUDM2UzUkILR78K4GJdo0EekYWp9eO7iwsOhODejGrWsdc26e9vY0qbDp7BEFpftL_bm18MiatHe1DtsF89hTbGqwd0soDIzVDD5a0rawmJsfXHvURpoyrxRPyxT6F2gxrnP5FqYxq9pXdulq94QkDw_MDKJNw==",
   "salt": "LhtLAUvGAzhytc6ImBWT8Q==",
-  "text": "Ailbe, also called Ailba, was a famous hunting dog in Irish myth. The warrior Mac Dathó owned him. Two powerful provincial kings each wanted the dog, and Mac Dathó wished to satisfy both. He promised Ailbe to Concobar Mac Nessa of Ulster and to Ailill Mac Mata of Connacht. The argument that followed ended with the dog killed.",
+  "text": "Ailbe, also written Ailbhe, means white. The name matches the Gaulish word Albiorix, which means world king. In early Irish narrative both men and women bore the name. Twelve Fianna fighters in the Fenian Cycle carried it. Two saints also carried it. English speakers wrongly turned the name into Albert or Bertie. The first person named Ailbe was a daughter of the fairy king Midir. Ailbe was also a famous hunting dog in Irish myth. The warrior Mac Dathó owned him. Two powerful provincial kings each wanted the dog. Mac Dathó wished to satisfy both. He promised Ailbe to Concobar Mac Nessa of Ulster and to Ailill Mac Mata of Connacht. The argument that followed ended with the dog killed.",
   "okr": {
-    "objective": "Record Ailbe, the hunting dog of Mac Dathó.",
+    "objective": "Record the name Ailbe and the hunting dog of Mac Dathó.",
     "key_results": [
-      "Show how the promise to two kings led to the dog's death."
+      "Show the name's meaning and bearers, then the dog and its fate."
     ],
     "evidence": [
-      "Monaghan 2003, s.v. Ailbe (Ailba)"
+      "Monaghan 2003, s.v. Ailbe (Ailba)",
+      "MacKillop 2008, s.v. 'Ailbe'"
     ]
   }
 }

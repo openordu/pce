@@ -16,6 +16,30 @@
     {
       "entity": "Faifne",
       "attribute": "died trying to avenge Aige"
+    },
+    {
+      "entity": "Aige",
+      "attribute": "daughter of Broccaid mac Brice"
+    },
+    {
+      "entity": "Aige",
+      "attribute": "sister of Failhe"
+    },
+    {
+      "entity": "Aige",
+      "attribute": "an elf turned her into a fawn"
+    },
+    {
+      "entity": "Meilge",
+      "attribute": "son of King Cobthach"
+    },
+    {
+      "entity": "Aige",
+      "attribute": "only a bag of water remained after her death"
+    },
+    {
+      "entity": "Aige",
+      "attribute": "a river bears her name"
     }
   ],
   "entities": [
@@ -38,23 +62,42 @@
     {
       "entity": "wild doe",
       "type": "Concept"
+    },
+    {
+      "entity": "Broccaid mac Brice",
+      "type": "Person"
+    },
+    {
+      "entity": "Failhe",
+      "type": "Person"
+    },
+    {
+      "entity": "Cobthach",
+      "type": "Person"
+    },
+    {
+      "entity": "siabair",
+      "type": "Concept"
+    },
+    {
+      "entity": "fawn",
+      "type": "Concept"
     }
   ],
   "sources": [
     "Gwynn, Edward. The Metrical Dindshenchas. Part II. Vol. IX. Royal Irish Academy, Todd Lecture Series. Dublin: Hodges, Figgis, and Co., Ltd., 1906–1924, 67.",
-    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.",
+    "MacKillop 2008, s.v. Aige"
   ],
   "cyphertext": "M8mvwu3ua2AdbzbwAEsTn17zXd86Ok0Sip8f48sufEKOaE844__zZZmnaXCSqCNx41VMcy82UqhWlJGHvTodm9_eC5ZJkB9S36w1SGaSyZfw6a5ZEJkk7eKufuNTtSfhbzZ49_KlZExrsfjmaQz8PB8pI3JqzMhSCMOfRJqyQtdAKoLISR6CpHALIKEsMJmi1pRJD7scCTdOJmG9eVdc9NiWgoTmOqbrjoZ-cyDOyId7M3IEaCIQt_rgoI_7szhRXq_93j9AyRBpQnSump-RCUlHd4uBSC6BvqLw2LuO83PlyAnVnO812z70aUPZ_wNzdSoFLooTewfK9aOeNHeOzPrSAXNfZWvzc50wum8M04ddMNIEL24R_k8Hvt2Fy6YRqANghwgYbs0kuQA7IM5WAmVfGYmwYc7cAev3xXHWlkimmL3iVCCH8CJ5jzUdXZYGtCdalY1bALVro33bpzWkPTGwAkp0tf_vZ0W81b0NY4ISw-q3H8KT_-1qUTn9PL_GLFWg833g6IUrWiy1NszXFc31nJjWIyFSVH0UShRQL0VuDd8bQio_f3mtKwBfs98eKczGkDx8cVEk9bMs7AA2c4LN2cnqDere3DHBcut75a3xsPFspyT4TPgTQbmezJTKnrOjb-9Bah--WoG4bYE-jLcYNmzr3ZcLGVjJ-w8QqZbPQunRFqH0zo_BVCr_wy73xlGrkgAcb2vIBLWHBvo=",
   "salt": "auM-vfCCayHb42Stww1qpw==",
-  "text": "Aige was an Irish heroine. A malicious fairy, urged on by neighbors who envied her grace and charm, turned her into a wild doe. In that form she wandered the island, fleeing from hunters. The warrior Meilge killed her while he was hunting. Her brother Faifne, a satirist, tried to avenge her death and lost his own life.",
+  "text": "Aige was an Irish heroine and the daughter of Broccaid mac Brice. People knew her as the sister of Failhe. A malicious elf, sent because her neighbors envied her, turned her into a fawn. In that shape she traveled a full circuit around Ireland. The warriors of Meilge, the son of King Cobthach, killed her. Only a bag of water remained after her death. Men threw that water into a river that bore her name. Aige's brother Faifne tried to avenge her and lost his own life to Meilge.",
   "okr": {
     "objective": "Record Aige, an Irish heroine changed into a wild doe.",
     "key_results": [
-      "Show the fairy's spell, her death at the hands of Meilge, and her brother's revenge."
+      "Show the fairy's spell, her death at the hands of Meilge, and her brother's revenge.",
+      "Name her father Broccaid mac Brice and explain the river that bears her name."
     ],
-    "evidence": [
-      "Gwynn 1906-1924, Metrical Dindshenchas II.67",
-      "Monaghan 2003, s.v. Aige"
-    ]
+    "evidence": "MacKillop 2008, s.v. Aige"
   }
 }

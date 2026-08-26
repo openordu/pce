@@ -4,30 +4,84 @@
     {
       "entity": "Aileach",
       "attribute": "cross-reference to Grianán Aileach"
+    },
+    {
+      "entity": "Aileach",
+      "attribute": "a great stone fort from early Christian times"
+    },
+    {
+      "entity": "Aileach",
+      "attribute": "stood at Inishowen Head in north-east Donegal"
+    },
+    {
+      "entity": "Aileach",
+      "attribute": "sat west of Lough Foyle, about five miles from the regional city"
+    },
+    {
+      "entity": "Grianán",
+      "attribute": "a name meaning thatch of sunlight"
+    },
+    {
+      "entity": "Aileach",
+      "attribute": "not a sunroom despite the Grianán link"
     }
   ],
   "entities": [
+    {
+      "entity": "Aileach",
+      "type": "Place"
+    },
+    {
+      "entity": "Ailech",
+      "type": "Place"
+    },
+    {
+      "entity": "Oileach",
+      "type": "Place"
+    },
+    {
+      "entity": "Grianán Glige",
+      "type": "Place"
+    },
+    {
+      "entity": "Grianán",
+      "type": "Concept"
+    },
+    {
+      "entity": "Inishowen Head",
+      "type": "Place"
+    },
+    {
+      "entity": "Donegal",
+      "type": "Place"
+    },
+    {
+      "entity": "Lough Foyle",
+      "type": "Place"
+    },
     {
       "entity": "Grianán Aileach",
       "type": "Place"
     }
   ],
   "sources": [
-    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.",
+    "MacKillop 2008, s.v. 'Aileach'"
   ],
   "image": [
     "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Ireland900.png/1200px-Ireland900.png"
   ],
   "cyphertext": "dnPEXkQ4SLoU5ZxHRuxrbQg4i42MnVmWtq2mAN8BMA9h4haPIZbBaMng4KOmye7sDqBYmbBTgVoZ6g==",
   "salt": "g0ocU2lMtmKyoInwVMIvww==",
-  "text": "Aileach See Grianán Aileach.",
+  "text": "Aileach, also written Ailech, Oileach, or Grianán Glige, was a great stone fort. It likely dated from early Christian times. It stood at Inishowen Head in north-east Donegal. The fort sat west of Lough Foyle. It rose about five miles from the region's chief city. The name Grianán means thatch of sunlight. That name carries an old link to the site. Still, the structure was not a sunroom. Aileach directs the reader to the full entry on Grianán Aileach.",
   "okr": {
-    "objective": "Direct readers to the Grianán Aileach entry.",
+    "objective": "Record the stone fort of Aileach and direct readers to Grianán Aileach.",
     "key_results": [
-      "Provide the cross reference to Grianán Aileach."
+      "Describe the fort's location and name, then give the cross reference."
     ],
     "evidence": [
-      "Monaghan 2003, s.v. Aileach"
+      "Monaghan 2003, s.v. Aileach",
+      "MacKillop 2008, s.v. 'Aileach'"
     ]
   }
 }

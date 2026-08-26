@@ -6,6 +6,10 @@
       "attribute": "died of grief at her brother's end"
     },
     {
+      "entity": "Achall",
+      "attribute": "daughter of the Ulster warrior Cairbre Nia Fer"
+    },
+    {
       "entity": "Conall Cernach",
       "attribute": "slew Erc, brother of Achall"
     }
@@ -24,16 +28,21 @@
       "type": "Person"
     },
     {
+      "entity": "Cairbre Nia Fer",
+      "type": "Person"
+    },
+    {
       "entity": "Tara",
       "type": "Place"
     }
   ],
   "sources": [
-    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.",
+    "MacKillop 2008, s.v. 'Achall'"
   ],
   "cyphertext": "aqOaY0gCQjSryuq-AI802DWiaUPyMCnShNLdn0SlgzHn7mRu2M47S9lKp6dI__DJNQTueFltYpLaoPrUl6nArK1bGdh5hSX4rdtoo32on7moavCv4I7CAKTmAh02dw0jsBSJ-tHFopJPTY_lVxPNgI8G8E5cbGsEM5nTLyH6KKw_O7nszlkKDenDlOO5pHdB12AXF-lRQ_OnO1SFR4DEEjeEotdPyxxE0_JUW-URWlp22MEEAJYRyCjFB9Kvb391ufdk41I3sWs35BLrG__PVD-4_qzOhXp_EMNGYVvOmqdp5zUq2-OwvjiiUgbyDg-IpYyNvDS09-xf3D_q9IhFCRKJQ2R2oi2mi3NKqvjkB2AHmMP48DclawcJwOrGumTs3klK30z0XRxtcBkfp36Yztzl7K8-2Mk=",
   "salt": "cL6cT3rKE7c06JGKG3QCXA==",
-  "text": "Achall is an Irish heroine. A hill east of Tara, the seat of kings, holds her name. She was a princess of Ulster. She died of grief when Conall Cernach slew her brother Erc. Such love for her brother placed her among the six women of Ireland known for loyalty.",
+  "text": "Achall is an Irish heroine. Her father was the Ulster warrior Cairbre Nia Fer. A hill east of Tara, the seat of kings, carries her name. She died from grief when Conall Cernach killed her brother Erc. Such love for her brother placed her among the six loyal women of ancient Ireland.",
   "okr": {
     "objective": "Describe the Irish heroine Achall.",
     "key_results": [
@@ -41,6 +50,6 @@
       "She died of grief for her brother",
       "She was among the six best women."
     ],
-    "evidence": "Monaghan, s.v. Achall."
+    "evidence": "Monaghan, s.v. Achall; MacKillop 2008, s.v. 'Achall'."
   }
 }

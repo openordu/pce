@@ -24,6 +24,22 @@
     {
       "entity": "Edmund Spenser",
       "type": "Person"
+    },
+    {
+      "entity": "Agno",
+      "type": "Person"
+    },
+    {
+      "entity": "Nemed mac Agnomain",
+      "type": "Person"
+    },
+    {
+      "entity": "Crunnchu",
+      "type": "Person"
+    },
+    {
+      "entity": "Lebor Gabala",
+      "type": "Concept"
     }
   ],
   "attributes": [
@@ -38,24 +54,36 @@
     {
       "entity": "Edmund Spenser",
       "attribute": "read the tale as fact"
+    },
+    {
+      "entity": "Agnoman",
+      "attribute": "also called Agno"
+    },
+    {
+      "entity": "Agnoman",
+      "attribute": "often cited in the Book of Invasions"
+    },
+    {
+      "entity": "Crunnchu",
+      "attribute": "descendant of Agnoman"
     }
   ],
   "sources": [
-    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.",
+    "MacKillop 2008, s.v. Agnoman"
   ],
   "image": [
     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Myths_and_legends%3B_the_Celtic_race_%281910%29_%2814760452906%29.jpg/1200px-Myths_and_legends%3B_the_Celtic_race_%281910%29_%2814760452906%29.jpg"
   ],
   "cyphertext": "8cwyJwowzfxRhzJkkQ8HxVmxVcFF76drUifAzt8ZIV4RpjD1MwHBaXxhIIbB7gT_auxaduz7W9HkX8sjjna8u3wLC-7Ul9CmS9vf7OxocUBIgbBvnddP5HSG7DykLff-v84YkyYmysuVB5cjLBbD6I-UhX1hi2lWq3LB1D0t3b0um7hFE-71UUO8mZxtS9NSLAFBsMftLk3pyGJYrWF6a_JGU62na5YSQ8O2NuzBlh-a00UVknzSaajpokw3jbsupRsXx3r0Qr6moKWcDI7KbRVvSfj57jO2MLEIJ7lcfJIZ4z_xmXBgU_2-5dZWOBfCbKanVH0LYMk8aEiHhORjshuv-RTe37wH18I0EiTBLL-ampyy2PmWNxLyKfPnjjC7UV-LWkBCYEQqDQrc5DczspmBjlYhWcEV524EHCJasyCDq6HynKETwM12L2l7OQnRoOUeryKbEphnx2eBq_R6s0xd7WkiMmCqLIBSyk2buQPiRQBdtZjGdqBLts8RCp020ADsSNquiHuNK__WaLcONFdPPq-SI5G5W6WJEX_b_y6YfwRGxEc-TbQRxD2ag_RTXqagtyFH1DF0UtGDByER_q4Yki4cfYk5goKeo05qdVyEJE8Z4POBuxC6YUdOWrTcLkYEx0knGT27NoTb4YUfsYKqF9-_BYPcOa1gcnAXXaJ8F_w-s89zMZpBB7r-YojNIa2hj3gsK4q3BT607l9TkiSRyyqXOx3maHIFM8rUsHTVI5qj6difzPZGEQ==",
   "salt": "1IrSknyU0WJYLKmCzI6Leg==",
-  "text": "Agnoman is a hero of the Book of Invasions of Ireland. He never reached Ireland himself. His son Nemed founded a people, the Nemedians, who went from the old home in Scythia to take Ireland. Some readers see in the tale what remains of a lost history. The poet Edmund Spenser read the tale as plain truth.",
+  "text": "Agnoman, also called Agno, was an ancestor in the Book of Invasions of Ireland. People often cite him in that text. He never reached Ireland himself. His son Nemed, sometimes named Nemed mac Agnomain, founded a people, the Nemedians. Another heir, Crunnchu, also took his line from Agnoman. The Nemedians went from the old home in Scythia to take Ireland. Some readers see in the tale what remains of a lost history. The poet Edmund Spenser read the tale as plain truth.",
   "okr": {
     "objective": "Record Agnoman and the founding of the Nemedians.",
     "key_results": [
-      "Show Agnoman, his land, and his descendants."
+      "Show Agnoman, his land, and his descendants.",
+      "Name the alternate form Agno and the heirs Nemed and Crunnchu."
     ],
-    "evidence": [
-      "Monaghan 2003, s.v. Agnoman"
-    ]
+    "evidence": "MacKillop 2008, s.v. Agnoman"
   }
 }

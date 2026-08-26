@@ -6,6 +6,18 @@
       "attribute": "hunting dog of Fionn Mac Cumhaill"
     },
     {
+      "entity": "Adhnúall",
+      "attribute": "name means sweet of sound"
+    },
+    {
+      "entity": "Adhnúall",
+      "attribute": "a British prince named Arthur once stole him"
+    },
+    {
+      "entity": "Adhnúall",
+      "attribute": "ran around Ireland three times after a battle in Leinster"
+    },
+    {
       "entity": "Fionn Mac Cumhaill",
       "attribute": "Adhnúall is one of his hunting dogs"
     },
@@ -30,20 +42,30 @@
     {
       "entity": "Sceolan",
       "type": "Being"
+    },
+    {
+      "entity": "Arthur",
+      "type": "Person"
+    },
+    {
+      "entity": "Leinster",
+      "type": "Place"
     }
   ],
   "sources": [
-    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.",
+    "MacKillop 2008, s.v. 'Adhnúall'"
   ],
   "cyphertext": "LhV_fI4Z1OQzcP6fiL30w61LnvlFQmYL1-zOMSNVp_Y1uAVLfkTRqnCkZAt7MAYx98jW9_4FQgbe4eOqxyNj70Dl_CIKBN_x18owyHLzDsP8zpM8GNr9xgd6wuiYM21ihUXwZOF-WVhTabpbtImIcN6HrJ5_rrQ2NnRXREtlnmD5uiGyUPsXdGzJHv8NHRlQkcByZrIZRcD6XIUWgfAiUpVDcfYLEIwhywWlgQerOudIhEeOUjOeVg4E3AD4V_C8bKwiU3I_Dst6PvczoPL6htve1XSXYZ0eErCRing7L9R7IhRv9ibQJuJ2MzeZXMfcmverGQ==",
   "salt": "xEE1FQEqZoiI9uDq78PlpQ==",
-  "text": "Adhnúall (Adnual) is an animal of Irish mythology. He is one of the hunting dogs of the hero Fionn Mac Cumhaill. He travels with his master less often than the primary hounds Bran and Sceolan do.",
+  "text": "Adhnúall means sweet of sound. He is one of many hounds that served the hero Fionn Mac Cumhaill. A British prince named Arthur once stole the hound. Following a fight in Leinster, Adhnúall ran around Ireland three times. He came back to that battlefield afterward. He died there, where three Fenians and their lovers lay buried. He travels with his master less often than the primary hounds Bran and Sceolan do.",
   "okr": {
     "objective": "Describe Adhnúall as a hunting dog of Fionn Mac Cumhaill.",
     "key_results": [
       "Names Adhnúall as a hunting dog of Fionn",
-      "States he travels with Fionn less often than Bran and Sceolan."
+      "States he travels with Fionn less often than Bran and Sceolan.",
+      "Notes Arthur stole him and his circuit of Ireland."
     ],
-    "evidence": "Monaghan, The Encyclopedia of Celtic Mythology and Folklore, s.v. Adhnúall."
+    "evidence": "Monaghan, The Encyclopedia of Celtic Mythology and Folklore, s.v. Adhnúall; MacKillop 2008, s.v. 'Adhnúall'."
   }
 }
