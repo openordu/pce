@@ -1,0 +1,47 @@
+{
+ "name": "Early medieval northern and central Ireland",
+ "attributes": [
+  {
+   "entity": "Early medieval northern and central Ireland",
+   "attribute": "refers to the map in Koch showing the Uí Néill groups and districts labelled in black"
+  },
+  {
+   "entity": "Uí Néill",
+   "attribute": "the dominant Irish dynasty of the early medieval period, whose groups and districts the map shows in black"
+  },
+  {
+   "entity": "Airgialla",
+   "attribute": "the subordinate Airgialla appear among the Uí Néill groups on the map"
+  }
+ ],
+ "entities": [
+  {
+   "entity": "Early medieval northern and central Ireland",
+   "type": "Place"
+  },
+  {
+   "entity": "Uí Néill",
+   "type": "Group"
+  },
+  {
+   "entity": "Airgialla",
+   "type": "Group"
+  }
+ ],
+ "sources": [
+  "Koch 2006, s.v. 'Northern and central Ireland in the early Middle Ages'"
+ ],
+ "image": [],
+ "cyphertext": "",
+ "salt": "",
+ "text": "Early medieval northern and central Ireland is the region that Koch maps to show the Uí Néill groups and their lands. The Uí Néill were the leading dynasty of early medieval Ireland, and their districts across the north and centre of the island are drawn in black on the map. The subordinate Airgialla are grouped with them. Other peoples and provinces are drawn in grey. The map captures the political geography that shaped the early medieval Irish annals and the genealogical record.",
+ "okr": {
+  "objective": "Author a new PCE node for the Koch map of northern and central Ireland in the early medieval period",
+  "key_results": [
+   "record that the map shows the Uí Néill groups and districts in black",
+   "note the subordinate Airgialla and the grey marking of other groups",
+   "place the Uí Néill as the dominant dynasty of early medieval Ireland"
+  ],
+  "evidence": "Koch 2006, s.v. 'Northern and central Ireland in the early Middle Ages'."
+ }
+}

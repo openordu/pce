@@ -1,0 +1,59 @@
+{
+ "name": "Naoned (Nantes)",
+ "attributes": [
+  {
+   "entity": "Naoned (Nantes)",
+   "attribute": "the Gallo-Roman town was called Condevincum or Condevicium"
+  },
+  {
+   "entity": "Breton Migrations",
+   "attribute": "Bretons mounted many raids into the Nantes region, and early Breton place-names appear south-east of the river Vilaine"
+  },
+  {
+   "entity": "Nominoë",
+   "attribute": "Nantes was a centre of the Carolingian Breton March and later of independent Brittany from the time of Nominoë"
+  },
+  {
+   "entity": "Christianity [5]",
+   "attribute": "the Edict of Nantes (1598) granted equal rights to Protestants and Catholics and was revoked in 1685"
+  }
+ ],
+ "entities": [
+  {
+   "entity": "Naoned (Nantes)",
+   "type": "Place"
+  },
+  {
+   "entity": "Breton Migrations",
+   "type": "Topic"
+  },
+  {
+   "entity": "Nominoë",
+   "type": "Person"
+  },
+  {
+   "entity": "Vilaine",
+   "type": "Place"
+  },
+  {
+   "entity": "Condevincum",
+   "type": "Place"
+  }
+ ],
+ "sources": [
+  "Koch 2006, s.v. 'Naoned (Nantes)'"
+ ],
+ "image": [],
+ "cyphertext": "",
+ "salt": "",
+ "text": "Naoned (Nantes) is a city in Brittany in north-west France. Its Gallo-Roman name was Condevincum or Condevicium, which may survive as Old Welsh Cantguic. The 6th-century work of Gregory of Tours records many Breton raids into the Nantes region. Early Breton place-names found beyond the river Vilaine show settlement within the old civitas Namnetum. Nantes was a centre of the Carolingian Breton March, and later of free Brittany in the era that began with Nominoë. The Edict of Nantes of 1598 granted equal rights to Protestants and Catholics, until its revocation in 1685. In the early modern period Nantes rose among the leading cities of France for maritime commerce and industry.",
+ "okr": {
+  "objective": "Author a new PCE node for the city of Nantes (Naoned)",
+  "key_results": [
+   "record the Gallo-Roman name and its possible Welsh survival",
+   "note Breton raids and place-names in the Nantes region",
+   "describe its role in the Breton March, the Edict of Nantes, and early modern trade"
+  ],
+  "evidence": "Koch 2006, s.v. 'Naoned (Nantes)'."
+ }
+}

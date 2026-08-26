@@ -1,0 +1,63 @@
+{
+ "name": "Nechton son of Derelei",
+ "attributes": [
+  {
+   "entity": "Nechton son of Derelei",
+   "attribute": "king of the Picts who reigned 706-724 and succeeded his brother Bredei"
+  },
+  {
+   "entity": "Ceolfrith",
+   "attribute": "abbot of Jarrow who sent a letter to Nechton around 710 on the reckoning of Easter"
+  },
+  {
+   "entity": "Picts",
+   "attribute": "Nechton had the kingdom adopt the Roman Easter in use in Northumbria and the south of Ireland"
+  },
+  {
+   "entity": "Onuist son of Uurguist",
+   "attribute": "forced Nechton to a monastery in 724, though Nechton briefly regained power in 728"
+  }
+ ],
+ "entities": [
+  {
+   "entity": "Nechton son of Derelei",
+   "type": "Person"
+  },
+  {
+   "entity": "Picts",
+   "type": "Group"
+  },
+  {
+   "entity": "Ceolfrith",
+   "type": "Person"
+  },
+  {
+   "entity": "Onuist son of Uurguist",
+   "type": "Person"
+  },
+  {
+   "entity": "Beda",
+   "type": "Person"
+  },
+  {
+   "entity": "Easter controversy",
+   "type": "Topic"
+  }
+ ],
+ "sources": [
+  "Koch 2006, s.v. 'Nechton son of Derelei'"
+ ],
+ "image": [],
+ "cyphertext": "",
+ "salt": "",
+ "text": "Nechton son of Derelei was king of the Picts from 706 to 724, succeeding his brother Bredei. Around 710 the Anglo-Saxon abbot Ceolfrith of Jarrow sent him a letter, and Beda calls him Naiton rex Pictorum in the Historia Ecclesiastica. Nechton asked advice about the true method for fixing the date of Easter. He then caused his kingdom to accept the Roman reckoning then in force among the Northumbrians and in southern Ireland, a break with earlier tradition. He sent dissenting monks back to Iona and favoured Curetán of Rosemarkie, who followed the Roman Easter. Forced by a rival, Drest, into a monastery in 724, he briefly regained power in 728 but lost a final campaign to Onuist son of Uurguist, and retired again to die in 732.",
+ "okr": {
+  "objective": "Author a new PCE node for the Pictish king Nechton son of Derelei",
+  "key_results": [
+   "record his reign over the Picts from 706 to 724",
+   "note the correspondence with Ceolfrith on the date of Easter",
+   "describe his adoption of the Roman Easter and his later contests with Drest and Onuist"
+  ],
+  "evidence": "Koch 2006, s.v. 'Nechton son of Derelei'."
+ }
+}

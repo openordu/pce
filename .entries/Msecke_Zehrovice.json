@@ -1,0 +1,59 @@
+{
+ "name": "Mšecké Žehrovice",
+ "attributes": [
+  {
+   "entity": "Mšecké Žehrovice",
+   "attribute": "a La Tène period settlement in Bohemia famous for the 1943 find of a stone male-head sculpture"
+  },
+  {
+   "entity": "Mšecké Žehrovice",
+   "attribute": "the site shows occupation from the Late Palaeolithic to the Neolithic and again in the Late Hallstatt and Roman periods"
+  },
+  {
+   "entity": "La Tène",
+   "attribute": "the settlement had an industrial character with iron smelting, blacksmithing, and manufacture of sapropelite ornaments"
+  },
+  {
+   "entity": "druids",
+   "attribute": "the shaved-back hairstyle on the head recalls the Celtic tonsure described in Latin and early Irish texts"
+  }
+ ],
+ "entities": [
+  {
+   "entity": "Mšecké Žehrovice",
+   "type": "Place"
+  },
+  {
+   "entity": "La Tène",
+   "type": "Topic"
+  },
+  {
+   "entity": "druids",
+   "type": "Group"
+  },
+  {
+   "entity": "Bohemia",
+   "type": "Place"
+  },
+  {
+   "entity": "Viereckschanze",
+   "type": "Place"
+  }
+ ],
+ "sources": [
+  "Koch 2006, s.v. 'Mšecké Žehrovice'"
+ ],
+ "image": [],
+ "cyphertext": "",
+ "salt": "",
+ "text": "Mšecké Žehrovice is an Iron Age site in Bohemia in the modern Czech Republic. It became known after 1943, when a carved stone head of a man was found while digging for sand. The carving shows the typical features of La Tène art: a band of hair, almond eyes, a curved moustache, and a torc around the neck. The site was a La Tène industrial settlement with iron smelting, blacksmithing, and production of sapropelite ornaments. Occupation of the site reaches back into earlier periods, including the Late Hallstatt and the Roman era. The head was deposited in a pit with other objects and is now often seen as an image of a heroic ancestor or an elite member of the community.",
+ "okr": {
+  "objective": "Author a new PCE node for the Iron Age settlement and stone head of Mšecké Žehrovice",
+  "key_results": [
+   "record the 1943 discovery of the La Tène stone male head sculpture",
+   "describe the industrial La Tène settlement and its crafts",
+   "note the longer occupation history and the debated ritual meaning of the sculpture"
+  ],
+  "evidence": "Koch 2006, s.v. 'Mšecké Žehrovice'."
+ }
+}
