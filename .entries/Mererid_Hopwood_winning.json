@@ -1,0 +1,47 @@
+{
+ "name": "Mererid Hopwood",
+ "attributes": [
+  {
+   "entity": "Mererid Hopwood",
+   "attribute": "a poet who writes in the Welsh language"
+  },
+  {
+   "entity": "Mererid Hopwood",
+   "attribute": "won the National Eisteddfod Chair at Denbigh in 2001"
+  },
+  {
+   "entity": "National Eisteddfod",
+   "attribute": "held a Chair that stands as a landmark honour in the Welsh bardic tradition"
+  }
+ ],
+ "entities": [
+  {
+   "entity": "Mererid Hopwood",
+   "type": "Person"
+  },
+  {
+   "entity": "National Eisteddfod",
+   "type": "Institution"
+  },
+  {
+   "entity": "Denbigh",
+   "type": "Place"
+  }
+ ],
+ "sources": [
+  "Koch 2006, s.v. 'Mererid Hopwood'"
+ ],
+ "image": [],
+ "cyphertext": "",
+ "salt": "",
+ "text": "Mererid Hopwood is a poet who writes in the Welsh language. Koch includes a photograph caption of her winning the Chair of the National Eisteddfod in Denbigh in 2001. The Chair holds a high place in the bardic tradition of the National Eisteddfod, known as Eisteddfod Genedlaethol Cymru.",
+ "okr": {
+  "objective": "Author a new PCE node for the Welsh-language poet Mererid Hopwood",
+  "key_results": [
+   "record that she is a Welsh-language poet",
+   "note her winning of the National Eisteddfod Chair at Denbigh in 2001",
+   "frame the Chair as a landmark honour in the Welsh bardic tradition"
+  ],
+  "evidence": "Koch 2006, s.v. 'Mererid Hopwood'."
+ }
+}

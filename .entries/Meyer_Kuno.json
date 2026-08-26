@@ -1,0 +1,55 @@
+{
+ "name": "Meyer, Kuno",
+ "attributes": [
+  {
+   "entity": "Meyer, Kuno",
+   "attribute": "a German Celtic scholar who gained his doctorate in 1881"
+  },
+  {
+   "entity": "Meyer, Kuno",
+   "attribute": "founded the Zeitschrift für celtische Philologie in 1896"
+  },
+  {
+   "entity": "Meyer, Kuno",
+   "attribute": "co-founded and first directed the School of Irish Learning from 1903 to 1924"
+  },
+  {
+   "entity": "Meyer, Kuno",
+   "attribute": "took the Chair of Celtic Studies in Berlin in 1911"
+  }
+ ],
+ "entities": [
+  {
+   "entity": "Meyer, Kuno",
+   "type": "Person"
+  },
+  {
+   "entity": "Zeitschrift für celtische Philologie",
+   "type": "Text"
+  },
+  {
+   "entity": "School of Irish Learning",
+   "type": "Institution"
+  },
+  {
+   "entity": "Ériu",
+   "type": "Text"
+  }
+ ],
+ "sources": [
+  "Koch 2006, s.v. 'Meyer, Kuno'"
+ ],
+ "image": [],
+ "cyphertext": "",
+ "salt": "",
+ "text": "Meyer, Kuno (1858–1919) was a German Celtic scholar. Born in Hamburg, he first met Scottish Gaelic during a trip to Scotland in 1874. He studied Germanic and Celtic languages at Leipzig from 1879. He won his doctorate in 1881 for a version of the Alexander saga in Irish. He lectured from 1884 and rose to professor at Liverpool University in 1895. In 1911 he took the Berlin Chair of Celtic Studies. His war propaganda cost him friends in the Celtic countries. He founded the Zeitschrift für celtische Philologie in 1896. He co-founded and first directed the School of Irish Learning. He also founded its journal Ériu.",
+ "okr": {
+  "objective": "Author a new PCE node on the German Celtic scholar Kuno Meyer",
+  "key_results": [
+   "record his birth, education, and doctorate on an Irish version of the Alexander saga",
+   "note his academic posts at Liverpool and Berlin",
+   "state his founding of the Zeitschrift für celtische Philologie and the School of Irish Learning"
+  ],
+  "evidence": "Koch 2006, s.v. 'Meyer, Kuno'."
+ }
+}

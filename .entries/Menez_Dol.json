@@ -1,0 +1,59 @@
+{
+ "name": "Menez-Dol",
+ "attributes": [
+  {
+   "entity": "Menez-Dol",
+   "attribute": "a granitic massif rising 65 m amid the ancient coastal marshes of Dol in north-east Brittany"
+  },
+  {
+   "entity": "Menez-Dol",
+   "attribute": "bore an exceptional Palaeolithic deposit dated c. 125,000–100,000 bc that was found in 1872"
+  },
+  {
+   "entity": "Menez-Dol",
+   "attribute": "may be the mons Iovis that bounds the region of the Breton migrations in the Historia Brittonum"
+  },
+  {
+   "entity": "Loth",
+   "attribute": "read the name Leoteren as *Lec-Teren, the pool or sacred place of Taranis, Latinised as Locus Taranis"
+  }
+ ],
+ "entities": [
+  {
+   "entity": "Menez-Dol",
+   "type": "Place"
+  },
+  {
+   "entity": "Dol",
+   "type": "Place"
+  },
+  {
+   "entity": "Mont-Saint-Michel",
+   "type": "Place"
+  },
+  {
+   "entity": "Historia Brittonum",
+   "type": "Text"
+  },
+  {
+   "entity": "Taranis",
+   "type": "Myth"
+  }
+ ],
+ "sources": [
+  "Koch 2006, s.v. 'Menez-Dol'"
+ ],
+ "image": [],
+ "cyphertext": "",
+ "salt": "",
+ "text": "Menez-Dol is a granitic massif rising 65 m amid the coastal marshes of Dol. It stands in north-east Brittany east of the bay of Mont-Saint-Michel. Its summit forms a large plateau. A Palaeolithic deposit found at its foot in 1872 dates from about 125,000–100,000 bc. The Historia Brittonum may carry the earliest reference. There mons Iovis bounds the region of the Breton migrations. Joseph Loth and Gwenaël Le Duc read Leoteren as *Lec-Teren, the pool or sacred place of Taranis. Taranis the god of thunder matched Jupiter by Roman practice.",
+ "okr": {
+  "objective": "Author a new PCE node for the Breton granitic massif of Menez-Dol",
+  "key_results": [
+   "record the site and its position east of the bay of Mont-Saint-Michel",
+   "note its Palaeolithic deposit and the suggested reading of its ancient name",
+   "state its possible link to the mons Iovis of the Historia Brittonum"
+  ],
+  "evidence": "Koch 2006, s.v. 'Menez-Dol'."
+ }
+}

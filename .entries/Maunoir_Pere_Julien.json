@@ -1,0 +1,47 @@
+{
+ "name": "Maunoir, Père Julien",
+ "attributes": [
+  {
+   "entity": "Maunoir, Père Julien",
+   "attribute": "a Breton Jesuit missionary of the seventeenth century"
+  },
+  {
+   "entity": "Maunoir, Père Julien",
+   "attribute": "published a dictionary and grammar in 1659 that mark the start of Modern Breton"
+  },
+  {
+   "entity": "Maunoir, Père Julien",
+   "attribute": "preached in the spoken Breton of his day rather than the archaic medieval tongue"
+  }
+ ],
+ "entities": [
+  {
+   "entity": "Père Julien Maunoir",
+   "type": "Person"
+  },
+  {
+   "entity": "Modern Breton",
+   "type": "Language"
+  },
+  {
+   "entity": "Le sacré collège de Jésus",
+   "type": "Text"
+  }
+ ],
+ "sources": [
+  "Koch 2006, s.v. 'Maunoir, Père Julien'"
+ ],
+ "image": [],
+ "cyphertext": "",
+ "salt": "",
+ "text": "Maunoir, Père Julien (1606–1683) was a Breton Jesuit missionary from the seventeenth century. He wrote a dictionary and a grammar that appeared in 1659. Scholars accept these books as the gateway to Modern Breton as written speech. His missions taught through the Breton spoken around him. He set aside the archaic medieval words that literary men still kept alive. Chief works include his two French-Breton dictionaries and a devotional guide, Le sacré collège de Jésus, both printed in 1659. A biographer, Boschet, told his life story fourteen years after death.",
+ "okr": {
+  "objective": "Author a new PCE node for the missionary Père Julien Maunoir",
+  "key_results": [
+   "record his 1659 dictionary and grammar as the start of Modern Breton",
+   "note his reliance on the spoken Breton of his era",
+   "list his primary printed sources and the 1697 biography"
+  ],
+  "evidence": "Koch 2006, s.v. 'Maunoir, Père Julien'."
+ }
+}

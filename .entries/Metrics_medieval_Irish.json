@@ -1,0 +1,55 @@
+{
+ "name": "Metrics, medieval Irish",
+ "attributes": [
+  {
+   "entity": "Metrics, medieval Irish",
+   "attribute": "concern the metrical system of early Irish verse set out in metrical tracts"
+  },
+  {
+   "entity": "Metrics, medieval Irish",
+   "attribute": "describe rhyming syllabic metres alongside the alliterative accentual metre rosc"
+  },
+  {
+   "entity": "Metrics, medieval Irish",
+   "attribute": "classify metres by how well known they were, citing around two hundred examples"
+  },
+  {
+   "entity": "rosc",
+   "attribute": "the alliterative accentual metre held as the prerogative of the filid"
+  }
+ ],
+ "entities": [
+  {
+   "entity": "Metrics, medieval Irish",
+   "type": "Topic"
+  },
+  {
+   "entity": "rosc",
+   "type": "Topic"
+  },
+  {
+   "entity": "Thurneysen",
+   "type": "Person"
+  },
+  {
+   "entity": "filid",
+   "type": "Institution"
+  }
+ ],
+ "sources": [
+  "Koch 2006, s.v. 'Metrics, medieval Irish'"
+ ],
+ "image": [],
+ "cyphertext": "",
+ "salt": "",
+ "text": "Metrics, medieval Irish describe the metrical system of early Irish verse. The rules appear in metrical tracts edited by Thurneysen. One tract, Córus Bard cona Bairdni, ranks the bards and their poetic work. The verse of the seven bardic grades mirrors the ranks of the learned filid. Rhyming syllabic metres dominate, and four-line stanzas are common. The alliterative accentual metre rosc stands apart as the right of the filid. One tract shows over forty metrical types. Another sets the student-file curriculum from seven years to ten and finally to twelve. A later tract sorts metres as usual, moderately usual, not well known, and uncommon. It cites around two hundred examples.",
+ "okr": {
+  "objective": "Author a new PCE node on the medieval Irish metrical system",
+  "key_results": [
+   "record the metrical tracts and their editor Thurneysen",
+   "note the rhyming syllabic metres and the rosc metre of the filid",
+   "state the classification of metres by currency with cited examples"
+  ],
+  "evidence": "Koch 2006, s.v. 'Metrics, medieval Irish'."
+ }
+}
