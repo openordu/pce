@@ -1,59 +1,59 @@
 {
- "name": "Nationalism [5] Brittany",
- "attributes": [
-  {
-   "entity": "Nationalism [5] Brittany",
-   "attribute": "early Breton nationalism was conservative and regionalist, looking to preservation of identity within France"
-  },
-  {
-   "entity": "Breiz Atao",
-   "attribute": "the leading Breton nationalist party took its name from a newspaper and moved from regionalism to calls for political autonomy"
-  },
-  {
-   "entity": "Union démocratique bretonne",
-   "attribute": "a left-wing nationalist party founded by 1964, also identified with ecological concerns"
-  },
-  {
-   "entity": "Front de libération de la Bretagne",
-   "attribute": "a radical group active from 1966 carried out attacks on public property"
-  }
- ],
- "entities": [
-  {
-   "entity": "Nationalism [5] Brittany",
-   "type": "Topic"
-  },
-  {
-   "entity": "Breiz Atao",
-   "type": "Group"
-  },
-  {
-   "entity": "Union démocratique bretonne",
-   "type": "Group"
-  },
-  {
-   "entity": "Front de libération de la Bretagne",
-   "type": "Group"
-  },
-  {
-   "entity": "Breton language",
-   "type": "Language"
-  }
- ],
- "sources": [
-  "Koch 2006, s.v. 'Nationalism [5] Brittany'"
- ],
- "image": [],
- "cyphertext": "",
- "salt": "",
- "text": "Nationalism [5] Brittany traces the growth of Breton national feeling. Early movements such as the Union régionaliste bretonne of 1898 were conservative and regionalist, seeking to keep Breton identity within France. The most prominent party of the earlier 20th century was Breiz Atao, which ran a newspaper of the same name and moved from regionalism towards political autonomy. After 1945 Breton nationalism took on a cultural and economic character, with new journals, folk festivals, and bodies such as CELIB pressing for post-war reconstruction. The Union démocratique bretonne, a left-wing and ecologically minded party, appeared by 1964. A radical Front de libération de la Bretagne, active from 1966, carried out attacks on public property.",
- "okr": {
-  "objective": "Author a new PCE node for the history of nationalism in Brittany",
-  "key_results": [
-   "record the early conservative and regionalist Breton movements",
-   "describe the Breiz Atao party and its turn towards autonomy",
-   "note the post-1945 cultural turn, the UDB, and the radical FLB"
+  "name": "Nationalism [5] Brittany",
+  "attributes": [
+    {
+      "entity": "Nationalism [5] Brittany",
+      "attribute": "early Breton nationalism was conservative and regionalist, looking to preservation of identity within France"
+    },
+    {
+      "entity": "Breiz Atao",
+      "attribute": "the leading Breton nationalist party took its name from a newspaper and moved from regionalism to calls for political autonomy"
+    },
+    {
+      "entity": "Union démocratique bretonne",
+      "attribute": "a left-wing nationalist party founded by 1964, also identified with ecological concerns"
+    },
+    {
+      "entity": "Front de libération de la Bretagne",
+      "attribute": "a radical group active from 1966 carried out attacks on public property"
+    }
   ],
-  "evidence": "Koch 2006, s.v. 'Nationalism [5] Brittany'."
- }
+  "entities": [
+    {
+      "entity": "Nationalism [5] Brittany",
+      "type": "Topic"
+    },
+    {
+      "entity": "Breiz Atao",
+      "type": "Group"
+    },
+    {
+      "entity": "Union démocratique bretonne",
+      "type": "Group"
+    },
+    {
+      "entity": "Front de libération de la Bretagne",
+      "type": "Group"
+    },
+    {
+      "entity": "Breton language",
+      "type": "Language"
+    }
+  ],
+  "sources": [
+    "Koch 2006, s.v. 'Nationalism [5] Brittany'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "text": "Nationalism [5] Brittany traces the growth of Breton national feeling. Early movements such as the Union régionaliste bretonne of 1898 were conservative and regionalist. They sought to keep Breton identity within France. The most prominent party of the earlier 20th century was Breiz Atao, which ran a newspaper of the same name. It moved from regionalism towards political autonomy. After 1945 Breton nationalism took on a cultural and economic character. It brought new journals, folk festivals, and bodies such as CELIB. These pressed for post-war reconstruction. The Union démocratique bretonne, a left-wing and ecologically minded party, appeared by 1964. A radical Front de libération de la Bretagne, active from 1966, carried out attacks on public property.",
+  "okr": {
+    "objective": "Author a new PCE node for the history of nationalism in Brittany",
+    "key_results": [
+      "record the early conservative and regionalist Breton movements",
+      "describe the Breiz Atao party and its turn towards autonomy",
+      "note the post-1945 cultural turn, the UDB, and the radical FLB"
+    ],
+    "evidence": "Koch 2006, s.v. 'Nationalism [5] Brittany'."
+  }
 }

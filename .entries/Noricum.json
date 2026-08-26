@@ -1,59 +1,59 @@
 {
- "name": "Noricum",
- "attributes": [
-  {
-   "entity": "Noricum",
-   "attribute": "a Celtic kingdom in the eastern Alpine region from about the 2nd century BC until about 15 BC"
-  },
-  {
-   "entity": "Taurisci",
-   "attribute": "one of at least twelve Alpine Celtic tribes that made up the confederation, the Taurisci among them"
-  },
-  {
-   "entity": "Noreia",
-   "attribute": "the capital, Noreia, has not yet been located"
-  },
-  {
-   "entity": "Magdalensberg",
-   "attribute": "the high-quality iron of Noricum led to a Roman trading outpost on the Magdalensberg in Carinthia in the early 1st century BC"
-  }
- ],
- "entities": [
-  {
-   "entity": "Noricum",
-   "type": "Place"
-  },
-  {
-   "entity": "Taurisci",
-   "type": "Group"
-  },
-  {
-   "entity": "Noreia",
-   "type": "Place"
-  },
-  {
-   "entity": "Magdalensberg",
-   "type": "Place"
-  },
-  {
-   "entity": "Ambidravi",
-   "type": "Group"
-  }
- ],
- "sources": [
-  "Koch 2006, s.v. 'Noricum'"
- ],
- "image": [],
- "cyphertext": "",
- "salt": "",
- "text": "Noricum was a Celtic kingdom that lay in the eastern Alps, from roughly the 2nd century BC until about 15 BC. It was a fairly stable confederation of no fewer than twelve Alpine Celtic tribal groups, among which stood the Taurisci and smaller peoples such as the Ambidravi, whose name means those who dwell by the river Drava. These tribal names are Celtic and often carry the preposition ambi, meaning around or about. The Norici proper led the whole body. Noricum was sometimes ruled by one king and at other times by a council of elders. Its capital, Noreia, is still unlocated. The chief export was iron of high quality, and the demand for it led Rome to set up a trading post on the Magdalensberg in Carinthia during the early 1st century BC, later replaced by the town of Virunum.",
- "okr": {
-  "objective": "Author a new PCE node for the Celtic kingdom of Noricum",
-  "key_results": [
-   "record the kingdom's eastern Alpine setting and its dates",
-   "name the constituent tribes, including the Taurisci and Ambidravi",
-   "note the undoubted iron export and the Roman outpost at Magdalensberg"
+  "name": "Noricum",
+  "attributes": [
+    {
+      "entity": "Noricum",
+      "attribute": "a Celtic kingdom in the eastern Alpine region from about the 2nd century BC until about 15 BC"
+    },
+    {
+      "entity": "Taurisci",
+      "attribute": "one of at least twelve Alpine Celtic tribes that made up the confederation, the Taurisci among them"
+    },
+    {
+      "entity": "Noreia",
+      "attribute": "the capital, Noreia, has not yet been located"
+    },
+    {
+      "entity": "Magdalensberg",
+      "attribute": "the high-quality iron of Noricum led to a Roman trading outpost on the Magdalensberg in Carinthia in the early 1st century BC"
+    }
   ],
-  "evidence": "Koch 2006, s.v. 'Noricum'."
- }
+  "entities": [
+    {
+      "entity": "Noricum",
+      "type": "Place"
+    },
+    {
+      "entity": "Taurisci",
+      "type": "Group"
+    },
+    {
+      "entity": "Noreia",
+      "type": "Place"
+    },
+    {
+      "entity": "Magdalensberg",
+      "type": "Place"
+    },
+    {
+      "entity": "Ambidravi",
+      "type": "Group"
+    }
+  ],
+  "sources": [
+    "Koch 2006, s.v. 'Noricum'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "text": "Noricum was a Celtic realm in the eastern Alps. It lasted from roughly the 2nd century BC until about 15 BC. It was a fairly stable confederation of no fewer than twelve Alpine Celtic tribal groups, among which stood the Taurisci. Smaller peoples such as the Ambidravi, whose name means those who dwell by the river Drava. These tribal names are Celtic and often carry the preposition ambi, meaning around or about. The Norici proper led the whole body. Noricum was sometimes ruled by one king and at other times by a council of elders. Its capital, Noreia, is still unlocated. The chief export was iron of high quality. The demand for it led Rome to set up a trading post on the Magdalensberg. This post stood in Carinthia early in the first century BC. The town of Virunum later replaced it.",
+  "okr": {
+    "objective": "Author a new PCE node for the Celtic kingdom of Noricum",
+    "key_results": [
+      "record the kingdom's eastern Alpine setting and its dates",
+      "name the constituent tribes, including the Taurisci and Ambidravi",
+      "note the undoubted iron export and the Roman outpost at Magdalensberg"
+    ],
+    "evidence": "Koch 2006, s.v. 'Noricum'."
+  }
 }

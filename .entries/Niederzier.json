@@ -1,59 +1,59 @@
 {
- "name": "Niederzier",
- "attributes": [
-  {
-   "entity": "Niederzier",
-   "attribute": "a village near Düren in the Rhineland with a Late La Tène settlement of about 200 BC to 50 BC"
-  },
-  {
-   "entity": "Niederzier",
-   "attribute": "a hoard of gold objects, including three neckrings and Celtic coinage, was concealed under broken clay bowls of the 1st century BC"
-  },
-  {
-   "entity": "Vindelici",
-   "attribute": "twenty-six of the forty-six coins came from the territory of the Vindelici"
-  },
-  {
-   "entity": "Ambiani",
-   "attribute": "the decoration of twenty other coins suggests an origin in the territory of the Ambiani"
-  }
- ],
- "entities": [
-  {
-   "entity": "Niederzier",
-   "type": "Place"
-  },
-  {
-   "entity": "La Tène",
-   "type": "Topic"
-  },
-  {
-   "entity": "Vindelici",
-   "type": "Group"
-  },
-  {
-   "entity": "Ambiani",
-   "type": "Group"
-  },
-  {
-   "entity": "torc",
-   "type": "Topic"
-  }
- ],
- "sources": [
-  "Koch 2006, s.v. 'Niederzier'"
- ],
- "image": [],
- "cyphertext": "",
- "salt": "",
- "text": "The village of Niederzier lies near Düren in the Rhineland. A rescue dig, forced by an advancing opencast lignite mine, brought to light a settlement of the later stage of La Tène culture, about 200 BC to 50 BC. A double ditch, roughly oval in shape, enclosed it, and the site measured about 210 by 170 metres. A pit in the western part held a central ritual post, and close by lay a treasury of gold objects hidden under two broken clay bowls from the 1st century BC. They held three gold neckrings and gold Celtic coinage. Of the forty-six coins, twenty-six came from Vindelician territory and twenty others from the Ambiani in the west. It was likely a votive deposit tied to the pit and its ritual post.",
- "okr": {
-  "objective": "Author a new PCE node for the Iron Age settlement and gold hoard of Niederzier",
-  "key_results": [
-   "record the Late La Tène settlement near Düren",
-   "describe the gold hoard of neckrings and Celtic coinage",
-   "note the Vindelician and Ambian origins of the coins and the likely votive purpose"
+  "name": "Niederzier",
+  "attributes": [
+    {
+      "entity": "Niederzier",
+      "attribute": "a village near Düren in the Rhineland with a Late La Tène settlement of about 200 BC to 50 BC"
+    },
+    {
+      "entity": "Niederzier",
+      "attribute": "a hoard of gold objects, including three neckrings and Celtic coinage, was concealed under broken clay bowls of the 1st century BC"
+    },
+    {
+      "entity": "Vindelici",
+      "attribute": "twenty-six of the forty-six coins came from the territory of the Vindelici"
+    },
+    {
+      "entity": "Ambiani",
+      "attribute": "the decoration of twenty other coins suggests an origin in the territory of the Ambiani"
+    }
   ],
-  "evidence": "Koch 2006, s.v. 'Niederzier'."
- }
+  "entities": [
+    {
+      "entity": "Niederzier",
+      "type": "Place"
+    },
+    {
+      "entity": "La Tène",
+      "type": "Topic"
+    },
+    {
+      "entity": "Vindelici",
+      "type": "Group"
+    },
+    {
+      "entity": "Ambiani",
+      "type": "Group"
+    },
+    {
+      "entity": "torc",
+      "type": "Topic"
+    }
+  ],
+  "sources": [
+    "Koch 2006, s.v. 'Niederzier'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "text": "The village of Niederzier lies near Düren in the Rhineland. An advancing opencast lignite mine forced a rescue dig. The dig brought to light a settlement of the later stage of La Tène culture. This stage dated from about 200 BC to 50 BC. A double ditch, roughly oval in shape, enclosed it, and the site measured about 210 by 170 metres. A pit in the western part held a central ritual post. Close by lay a treasury of gold objects hidden under two broken clay bowls. These bowls came from the 1st century BC. They held three gold neckrings and gold Celtic coinage. Of the forty-six coins, twenty-six came from Vindelician territory and twenty others from the Ambiani in the west. It was a votive deposit tied to the pit and its ritual post.",
+  "okr": {
+    "objective": "Author a new PCE node for the Iron Age settlement and gold hoard of Niederzier",
+    "key_results": [
+      "record the Late La Tène settlement near Düren",
+      "describe the gold hoard of neckrings and Celtic coinage",
+      "note the Vindelician and Ambian origins of the coins and the likely votive purpose"
+    ],
+    "evidence": "Koch 2006, s.v. 'Niederzier'."
+  }
 }

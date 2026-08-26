@@ -1,63 +1,63 @@
 {
- "name": "Mass media in Wales",
- "attributes": [
-  {
-   "entity": "BBC Wales",
-   "attribute": "began in 1964 as a semi-autonomous region separate from England"
-  },
-  {
-   "entity": "S4C",
-   "attribute": "the Welsh Fourth Channel established in 1982 under the 1980 Broadcasting Act after the 1974 Crawford Report"
-  },
-  {
-   "entity": "Harlech Television",
-   "attribute": "later HTV, won the Welsh broadcast franchise after the end of TWW"
-  },
-  {
-   "entity": "Gwynfor Evans",
-   "attribute": "called for an independent Welsh broadcasting corporation in a 1944 speech"
-  },
-  {
-   "entity": "Sir John Reith",
-   "attribute": "announced in July 1937 that a Welsh Region separate from England would be established"
-  }
- ],
- "entities": [
-  {
-   "entity": "BBC Wales",
-   "type": "Group"
-  },
-  {
-   "entity": "S4C",
-   "type": "Group"
-  },
-  {
-   "entity": "Harlech Television",
-   "type": "Group"
-  },
-  {
-   "entity": "Gwynfor Evans",
-   "type": "Person"
-  },
-  {
-   "entity": "Sir John Reith",
-   "type": "Person"
-  }
- ],
- "sources": [
-  "Koch 2006, s.v. 'mass media in the Celtic languages', §4 Welsh"
- ],
- "image": [],
- "cyphertext": "",
- "salt": "",
- "text": "Mass media in Wales grew through the twentieth century around broadcasting. In 1964 BBC Wales began as a semi-autonomous region in its own right. That same year a new Independent Television service spanning all of Wales was created. The failed Teledu Cymru company was merged with Television Wales and the West, known as TWW. Harlech Television, later HTV, took the Welsh franchise after TWW ended. By the end of that decade ownership of television sets in Wales reached 92%. The language issue dominated debate in the 1970s. The Crawford Committee Report of 1974 recommended that the fourth channel give priority to Welsh-language programmes. That advice brought the Welsh Fourth Channel, S4C, which began in 1982 under the 1980 Broadcasting Act. S4C became central to Welsh-language development and offered a forum for debate. Sir John Reith, Director General of the BBC, had announced in July 1937 that a Welsh Region, separate from England, would be formed. Gwynfor Evans pressed for an independent Welsh broadcasting corporation in a 1944 speech.",
- "okr": {
-  "objective": "Author a new PCE node for Welsh-language mass media",
-  "key_results": [
-   "record the founding of BBC Wales in 1964",
-   "note the rise of S4C from the 1974 Crawford Report and the 1980 Act",
-   "record the earlier calls for a separate Welsh broadcasting region"
+  "name": "Mass media in Wales",
+  "attributes": [
+    {
+      "entity": "BBC Wales",
+      "attribute": "began in 1964 as a semi-autonomous region separate from England"
+    },
+    {
+      "entity": "S4C",
+      "attribute": "the Welsh Fourth Channel established in 1982 under the 1980 Broadcasting Act after the 1974 Crawford Report"
+    },
+    {
+      "entity": "Harlech Television",
+      "attribute": "later HTV, won the Welsh broadcast franchise after the end of TWW"
+    },
+    {
+      "entity": "Gwynfor Evans",
+      "attribute": "called for an independent Welsh broadcasting corporation in a 1944 speech"
+    },
+    {
+      "entity": "Sir John Reith",
+      "attribute": "announced in July 1937 that a Welsh Region separate from England would be established"
+    }
   ],
-  "evidence": "Koch 2006, s.v. 'mass media in the Celtic languages', §4 Welsh."
- }
+  "entities": [
+    {
+      "entity": "BBC Wales",
+      "type": "Group"
+    },
+    {
+      "entity": "S4C",
+      "type": "Group"
+    },
+    {
+      "entity": "Harlech Television",
+      "type": "Group"
+    },
+    {
+      "entity": "Gwynfor Evans",
+      "type": "Person"
+    },
+    {
+      "entity": "Sir John Reith",
+      "type": "Person"
+    }
+  ],
+  "sources": [
+    "Koch 2006, s.v. 'mass media in the Celtic languages', §4 Welsh"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "text": "Mass media in Wales grew through the twentieth century around broadcasting. In 1964 BBC Wales began as a semi-autonomous region in its own right. That same year a new Independent Television service spanning all of Wales was created. The failed Teledu Cymru company was merged with Television Wales and the West, known as TWW. Harlech Television, later HTV, took the Welsh franchise after TWW ended. By the end of that decade ownership of television sets in Wales reached 92%. The language issue dominated debate in the 1970s. The Crawford Committee Report of 1974 recommended that the fourth channel give priority to Welsh-language programmes. That advice brought the Welsh Fourth Channel, S4C, which began in 1982 under the 1980 Broadcasting Act. S4C became central to Welsh-language development and offered a forum for debate. Sir John Reith, Director General of the BBC, had announced in July 1937 that a Welsh Region would be formed. Gwynfor Evans pressed for an independent Welsh broadcasting corporation in a 1944 speech.",
+  "okr": {
+    "objective": "Author a new PCE node for Welsh-language mass media",
+    "key_results": [
+      "record the founding of BBC Wales in 1964",
+      "note the rise of S4C from the 1974 Crawford Report and the 1980 Act",
+      "record the earlier calls for a separate Welsh broadcasting region"
+    ],
+    "evidence": "Koch 2006, s.v. 'mass media in the Celtic languages', §4 Welsh."
+  }
 }

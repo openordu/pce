@@ -1,25 +1,55 @@
 {
- "name": "Mairi nighean Alasdair Ruaidh",
- "text": "Mairi nighean Alasdair Ruaidh (c. 1615-c. 1707), known in English as Mary MacLeod, was one of the leading Scottish Gaelic poets of the seventeenth century. The name means Mary, daughter of red-haired Alasdair. She was attached to several strong families of the MacLeod kindred. Much of her surviving verse reached later hearers through oral transmission. Other writers name her, with Mairi MacInnes, among the Scottish Gaelic bards. She made her home on Harris and spent many years at Dunvegan in Skye, composing praise of leading men in elegies and poems.",
- "entities": [
-  {"entity": "Mairi nighean Alasdair Ruaidh", "type": "Person"},
-  {"entity": "Scottish Gaelic", "type": "Topic"},
-  {"entity": "MacLeod kindred", "type": "Topic"},
-  {"entity": "Dunvegan", "type": "Place"}
- ],
- "attributes": [
-  {"entity": "Mairi nighean Alasdair Ruaidh", "attribute": "was a leading Scottish Gaelic poet of the 17th century"},
-  {"entity": "Mairi nighean Alasdair Ruaidh", "attribute": "her name means Mary, daughter of red-haired Alasdair"},
-  {"entity": "Mairi nighean Alasdair Ruaidh", "attribute": "served powerful families of the MacLeod kindred"},
-  {"entity": "Mairi nighean Alasdair Ruaidh", "attribute": "most of her surviving verse came down through oral transmission"}
- ],
- "sources": ["Koch 2006, s.v. 'Mairi nighean Alasdair Ruaidh'"],
- "image": [],
- "cyphertext": "",
- "salt": "",
- "okr": {
-  "objective": "Document the life and work of the 17th-century Scottish Gaelic poet Mairi nighean Alasdair Ruaidh.",
-  "key_results": ["She was a leading Scottish Gaelic poet of the 17th century", "She served powerful families of the MacLeod kindred", "Most of her surviving verse was transmitted through oral tradition"],
-  "evidence": "Koch 2006, s.v. 'Mairi nighean Alasdair Ruaidh'."
- }
+  "name": "Mairi nighean Alasdair Ruaidh",
+  "text": "Mairi nighean Alasdair Ruaidh, known in English as Mary MacLeod, lived from c. 1615 to c. 1707. She was one of the leading Scottish Gaelic poets of the seventeenth century. The name means Mary, daughter of red-haired Alasdair. She was attached to several strong families of the MacLeod kindred. Much of her surviving verse reached later hearers through oral transmission. Other writers name her, with Mairi MacInnes, among the Scottish Gaelic bards. She made her home on Harris. She spent many years at Dunvegan in Skye, composing praise of leading men in elegies and poems.",
+  "entities": [
+    {
+      "entity": "Mairi nighean Alasdair Ruaidh",
+      "type": "Person"
+    },
+    {
+      "entity": "Scottish Gaelic",
+      "type": "Topic"
+    },
+    {
+      "entity": "MacLeod kindred",
+      "type": "Topic"
+    },
+    {
+      "entity": "Dunvegan",
+      "type": "Place"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Mairi nighean Alasdair Ruaidh",
+      "attribute": "was a leading Scottish Gaelic poet of the 17th century"
+    },
+    {
+      "entity": "Mairi nighean Alasdair Ruaidh",
+      "attribute": "her name means Mary, daughter of red-haired Alasdair"
+    },
+    {
+      "entity": "Mairi nighean Alasdair Ruaidh",
+      "attribute": "served powerful families of the MacLeod kindred"
+    },
+    {
+      "entity": "Mairi nighean Alasdair Ruaidh",
+      "attribute": "most of her surviving verse came down through oral transmission"
+    }
+  ],
+  "sources": [
+    "Koch 2006, s.v. 'Mairi nighean Alasdair Ruaidh'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Document the life and work of the 17th-century Scottish Gaelic poet Mairi nighean Alasdair Ruaidh.",
+    "key_results": [
+      "She was a leading Scottish Gaelic poet of the 17th century",
+      "She served powerful families of the MacLeod kindred",
+      "Most of her surviving verse was transmitted through oral tradition"
+    ],
+    "evidence": "Koch 2006, s.v. 'Mairi nighean Alasdair Ruaidh'."
+  }
 }

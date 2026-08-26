@@ -1,55 +1,55 @@
 {
- "name": "Morgenau",
- "attributes": [
-  {
-   "entity": "Morgenau",
-   "attribute": "was bishop of St David's (Tyddewi) from 984 to 999"
-  },
-  {
-   "entity": "Morgenau",
-   "attribute": "served when Deheubarth faced repeated attacks by Vikings from Ireland"
-  },
-  {
-   "entity": "Morgenau",
-   "attribute": "is named in the Annales Cambriae and in the lives of St David"
-  },
-  {
-   "entity": "Morgenau",
-   "attribute": "was said by Giraldus Cambrensis to have introduced meat into the foodways of the clas at St David's"
-  }
- ],
- "entities": [
-  {
-   "entity": "Morgenau",
-   "type": "Person"
-  },
-  {
-   "entity": "St David's (Tyddewi)",
-   "type": "Place"
-  },
-  {
-   "entity": "Deheubarth",
-   "type": "Place"
-  },
-  {
-   "entity": "Annales Cambriae",
-   "type": "Text"
-  }
- ],
- "sources": [
-  "Koch 2006, s.v. 'Morgenau'"
- ],
- "image": [],
- "cyphertext": "",
- "salt": "",
- "text": "Morgenau, whom the sources call Morcenou in Old Welsh, was bishop of St David's (Tyddewi) from 984 to 999. He held office when the realm of Deheubarth, soon a part of south Wales, endured repeated raids by Vikings who sailed from Ireland. The Annales Cambriae record his name. So do the Latin and vernacular lives of St David. Giraldus Cambrensis relates that Morgenau brought meat into the regular foodways of the clas community at St David's. He thus broke an older vegetarian rule of the house.",
- "okr": {
-  "objective": "Author a new PCE node on Morgenau, bishop of St David's",
-  "key_results": [
-   "record his episcopate from 984 to 999",
-   "note the Viking attacks on Deheubarth during his time",
-   "state his role in changing the foodways of the clas and his death in 999"
+  "name": "Morgenau",
+  "attributes": [
+    {
+      "entity": "Morgenau",
+      "attribute": "was bishop of St David's (Tyddewi) from 984 to 999"
+    },
+    {
+      "entity": "Morgenau",
+      "attribute": "served when Deheubarth faced repeated attacks by Vikings from Ireland"
+    },
+    {
+      "entity": "Morgenau",
+      "attribute": "is named in the Annales Cambriae and in the lives of St David"
+    },
+    {
+      "entity": "Morgenau",
+      "attribute": "was said by Giraldus Cambrensis to have introduced meat into the foodways of the clas at St David's"
+    }
   ],
-  "evidence": "Koch 2006, s.v. 'Morgenau'."
- }
+  "entities": [
+    {
+      "entity": "Morgenau",
+      "type": "Person"
+    },
+    {
+      "entity": "St David's (Tyddewi)",
+      "type": "Place"
+    },
+    {
+      "entity": "Deheubarth",
+      "type": "Place"
+    },
+    {
+      "entity": "Annales Cambriae",
+      "type": "Text"
+    }
+  ],
+  "sources": [
+    "Koch 2006, s.v. 'Morgenau'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "text": "Morgenau, whom the sources call Morcenou in Old Welsh, was bishop of St David's (Tyddewi) from 984 to 999. He held office when the realm of Deheubarth endured repeated raids. The raiders were Vikings who sailed from Ireland. The realm soon became part of south Wales. The Annales Cambriae record his name. So do the Latin and vernacular lives of St David. Giraldus Cambrensis relates that Morgenau brought meat into the regular foodways of the clas community at St David's. He thus broke an older vegetarian rule of the house.",
+  "okr": {
+    "objective": "Author a new PCE node on Morgenau, bishop of St David's",
+    "key_results": [
+      "record his episcopate from 984 to 999",
+      "note the Viking attacks on Deheubarth during his time",
+      "state his role in changing the foodways of the clas and his death in 999"
+    ],
+    "evidence": "Koch 2006, s.v. 'Morgenau'."
+  }
 }

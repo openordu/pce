@@ -1,59 +1,59 @@
 {
- "name": "Manx surnames",
- "attributes": [
-  {
-   "entity": "Manx surnames",
-   "attribute": "formed from patronymics by dropping the father's own name and freezing an ancestor's name as a fixed surname"
-  },
-  {
-   "entity": "Kneale",
-   "attribute": "grew from the cluster cn becoming kr, from the name of Niall"
-  },
-  {
-   "entity": "Gawne",
-   "attribute": "kept an ancestor's trade, named the son of the smith"
-  },
-  {
-   "entity": "Mylchreest",
-   "attribute": "used guilley, meaning boy, joined with Críost or Christ"
-  }
- ],
- "entities": [
-  {
-   "entity": "Manx",
-   "type": "Language"
-  },
-  {
-   "entity": "Scottish Gaelic",
-   "type": "Language"
-  },
-  {
-   "entity": "Irish",
-   "type": "Language"
-  },
-  {
-   "entity": "Godred Crovan",
-   "type": "Person"
-  },
-  {
-   "entity": "mac",
-   "type": "concept"
-  }
- ],
- "sources": [
-  "Koch 2006, s.v. 'Manx surnames'"
- ],
- "image": [],
- "cyphertext": "",
- "salt": "",
- "text": "Manx surnames grew from patronymics. A family dropped the father's own name and froze an ancestor's name as a fixed surname. The word mac for son stayed as the linking particle. Irish o and ui for grandson and descendant left only faint traces in Manx. So Kerruish came from the son of Fergus, and Killip from the son of Phillip. The cluster cn became kr, giving Kneale and Crellin. Some names kept an ancestor's trade, such as Gawne the son of the smith and Taggart the son of the priest. Norse names entered from the tenth century and were built with mac, as Casement from Asmund and Cottier from Oitir. Feudal times brought Frankish forms through Norman French and Middle English, so Crebbin came from Robin and Cubbon from Gibbon. Devotional names used guilley, meaning boy, with a saint, giving Mylrea, Mylroie and Mylchreest from Christ. Female names used caly for servant before Brigid and Mary. The form inney marked a daughter, close to Scottish Gaelic nic. Godred Crovan shows that an adjectival addition stayed personal and never became a normal surname. These habits make the Manx practice equal to Irish and Highland Scottish families.",
- "okr": {
-  "objective": "Author a new PCE node for Manx surname formation from patronymics",
-  "key_results": [
-   "record the patronymic basis and the role of mac",
-   "note the Norse, Frankish and devotional additions",
-   "show the equality of Manx practice with Irish and Scottish Gaelic"
+  "name": "Manx surnames",
+  "attributes": [
+    {
+      "entity": "Manx surnames",
+      "attribute": "formed from patronymics by dropping the father's own name and freezing an ancestor's name as a fixed surname"
+    },
+    {
+      "entity": "Kneale",
+      "attribute": "grew from the cluster cn becoming kr, from the name of Niall"
+    },
+    {
+      "entity": "Gawne",
+      "attribute": "kept an ancestor's trade, named the son of the smith"
+    },
+    {
+      "entity": "Mylchreest",
+      "attribute": "used guilley, meaning boy, joined with Críost or Christ"
+    }
   ],
-  "evidence": "Koch 2006, s.v. 'Manx surnames'."
- }
+  "entities": [
+    {
+      "entity": "Manx",
+      "type": "Language"
+    },
+    {
+      "entity": "Scottish Gaelic",
+      "type": "Language"
+    },
+    {
+      "entity": "Irish",
+      "type": "Language"
+    },
+    {
+      "entity": "Godred Crovan",
+      "type": "Person"
+    },
+    {
+      "entity": "mac",
+      "type": "concept"
+    }
+  ],
+  "sources": [
+    "Koch 2006, s.v. 'Manx surnames'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "text": "Manx surnames grew from patronymics. A family dropped the father's own name and froze an ancestor's name as a fixed surname. The word mac for son stayed as the linking particle. Irish o and ui for grandson and descendant left only faint traces in Manx. So Kerruish came from the son of Fergus, and Killip from the son of Phillip. The cluster cn became kr, giving Kneale and Crellin. Some names kept an ancestor's trade. Gawne the son of the smith and Taggart the son of the priest are examples. Norse names entered from the tenth century and were built with mac, as Casement from Asmund and Cottier from Oitir. Feudal times brought Frankish forms through Norman French and Middle English, so Crebbin came from Robin and Cubbon from Gibbon. Devotional names used guilley, meaning boy, with a saint, giving Mylrea, Mylroie and Mylchreest from Christ. Female names used caly for servant before Brigid and Mary. The form inney marked a daughter, close to Scottish Gaelic nic. Godred Crovan shows that an adjectival addition stayed personal and never became a normal surname. These habits make the Manx practice equal to Irish and Highland Scottish families.",
+  "okr": {
+    "objective": "Author a new PCE node for Manx surname formation from patronymics",
+    "key_results": [
+      "record the patronymic basis and the role of mac",
+      "note the Norse, Frankish and devotional additions",
+      "show the equality of Manx practice with Irish and Scottish Gaelic"
+    ],
+    "evidence": "Koch 2006, s.v. 'Manx surnames'."
+  }
 }

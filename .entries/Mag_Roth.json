@@ -1,59 +1,59 @@
 {
- "name": "Mag Roth",
- "attributes": [
-  {
-   "entity": "Domnall mac Aedo",
-   "attribute": "high-king of the Northern Uí Néill who defeated the coalition arrayed against him at Mag Roth in 637"
-  },
-  {
-   "entity": "Mag Roth",
-   "attribute": "a plain known today as Moira in County Down and the site of a decisive battle fought in 637"
-  },
-  {
-   "entity": "Congal Caech",
-   "attribute": "king of Ulaid who joined Domnall Brecc of Dál Riata against the Northern Uí Néill and was slain at Mag Roth"
-  }
- ],
- "entities": [
-  {
-   "entity": "Mag Roth",
-   "type": "Place"
-  },
-  {
-   "entity": "Domnall mac Aedo",
-   "type": "Person"
-  },
-  {
-   "entity": "Congal Caech",
-   "type": "Person"
-  },
-  {
-   "entity": "Domnall Brecc",
-   "type": "Person"
-  },
-  {
-   "entity": "Uí Néill",
-   "type": "Group"
-  },
-  {
-   "entity": "Dál Riata",
-   "type": "Group"
-  }
- ],
- "sources": [
-  "Koch 2006, s.v. 'Mag Roth'"
- ],
- "image": [],
- "cyphertext": "",
- "salt": "",
- "text": "Mag Roth is the plain, now called Moira, in County Down where two armies met in 637. The high-king Domnall mac Aedo, whose power lay with the Northern Uí Néill, won the field. He overcame a joining of forces led by Congal Caech of Ulaid and Domnall Brecc from Scotland's Dál Riata, and Congal lost his life in the rout. Writers at Iona read the result as breaking the treaty of Druimm Cett made in 575. A later work, the Liber de virtutibus sancti Columbae, used the battle to justify English rule over the Gaels of Scotland. Early Irish literature gave the day lasting weight. Legend held that Cenn Faelad gained his learning after a blow at the fight, and the story of Suibne Geilt ties that king's madness to the same battlefield.",
- "okr": {
-  "objective": "Author a new PCE node for the seventh-century battle of Mag Roth",
-  "key_results": [
-   "record the 637 battle and the victory of Domnall mac Aedo over the Ulaid and Dál Riata coalition",
-   "note the diplomatic and literary reading of the day by the Iona writers",
-   "name Congal Caech as a casualty and connect the field to Cenn Faelad and Suibne Geilt"
+  "name": "Mag Roth",
+  "attributes": [
+    {
+      "entity": "Domnall mac Aedo",
+      "attribute": "high-king of the Northern Uí Néill who defeated the coalition arrayed against him at Mag Roth in 637"
+    },
+    {
+      "entity": "Mag Roth",
+      "attribute": "a plain known today as Moira in County Down and the site of a decisive battle fought in 637"
+    },
+    {
+      "entity": "Congal Caech",
+      "attribute": "king of Ulaid who joined Domnall Brecc of Dál Riata against the Northern Uí Néill and was slain at Mag Roth"
+    }
   ],
-  "evidence": "Koch 2006, s.v. 'Mag Roth'."
- }
+  "entities": [
+    {
+      "entity": "Mag Roth",
+      "type": "Place"
+    },
+    {
+      "entity": "Domnall mac Aedo",
+      "type": "Person"
+    },
+    {
+      "entity": "Congal Caech",
+      "type": "Person"
+    },
+    {
+      "entity": "Domnall Brecc",
+      "type": "Person"
+    },
+    {
+      "entity": "Uí Néill",
+      "type": "Group"
+    },
+    {
+      "entity": "Dál Riata",
+      "type": "Group"
+    }
+  ],
+  "sources": [
+    "Koch 2006, s.v. 'Mag Roth'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "text": "Mag Roth is the plain, now called Moira, in County Down where two armies met in 637. The high-king Domnall mac Aedo, whose power lay with the Northern Uí Néill, won the field. He overcame a joining of forces led by Congal Caech of Ulaid and Domnall Brecc from Scotland's Dál Riata. Congal lost his life in the rout. Writers at Iona read the result as breaking the treaty of Druimm Cett made in 575. A later work, the Liber de virtutibus sancti Columbae, used the battle to justify English rule. That meant rule over the Gaels of Scotland. Early Irish literature gave the day lasting weight. Legend held that Cenn Faelad gained his learning after a blow at the fight. The story of Suibne Geilt ties that king's madness to the same battlefield.",
+  "okr": {
+    "objective": "Author a new PCE node for the seventh-century battle of Mag Roth",
+    "key_results": [
+      "record the 637 battle and the victory of Domnall mac Aedo over the Ulaid and Dál Riata coalition",
+      "note the diplomatic and literary reading of the day by the Iona writers",
+      "name Congal Caech as a casualty and connect the field to Cenn Faelad and Suibne Geilt"
+    ],
+    "evidence": "Koch 2006, s.v. 'Mag Roth'."
+  }
 }
