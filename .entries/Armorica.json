@@ -16,6 +16,14 @@
         {
             "entity": "Armorica",
             "attribute": "Caesar named the Armorican tribes as lands touching the ocean"
+        },
+        {
+            "entity": "Domnonia",
+            "attribute": "a northern subdivision of Armorica by the River Elom"
+        },
+        {
+            "entity": "Cornoualle",
+            "attribute": "a southern subdivision of Armorica by the Ellé"
         }
     ],
     "entities": [
@@ -50,25 +58,34 @@
         {
             "entity": "Veneti",
             "type": "Organization"
+        },
+        {
+            "entity": "Domnonia",
+            "type": "Place"
+        },
+        {
+            "entity": "Cornoualle",
+            "type": "Place"
         }
     ],
     "sources": [
         "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.",
-        "Koch 2006, s.v. 'Armorica'"
+        "Koch 2006, s.v. 'Armorica'",
+        "MacKillop 2008, s.v. 'Armorica'"
     ],
     "image": [
         "https://upload.wikimedia.org/wikipedia/commons/7/73/Armorica.png"
     ],
     "cyphertext": "kcfFTXQ-EjmLV8a02st0nOdDynfgnuE5jFvrldaeaIXBjrAkpS1XXwJsXucV33dF1jyr",
     "salt": "RdIXEjz3Lw19HJENz8mXyA==",
-    "text": "Armorica is an ancient place-name. It names the coast of Gaul facing the Atlantic. Under the Romans the Tractus Armoricanus stretched from the Seine estuary to the Loire. This region is roughly the modern Normandy and Brittany combined. Caesar used the phrase civitates Armoricae to mean the Armorican tribes. He defined the name as the lands of the coast-dwelling tribes. He listed the Curiosolites, Rédones, Ambibarii, Caletes, Osismii, Veneti, Lemovices, and Venelli among them. The name means country facing the sea. Koch also records the older spelling Aremorica. Modern works often use Armorica for the land later called Brittany.",
+    "text": "Armorica is an ancient place-name. It names the coast of Gaul facing the Atlantic. Under the Romans the name Tractus Armoricanus stretched from the Seine estuary to the Loire. The land is roughly the modern Normandy and Brittany combined. Caesar used the phrase civitates Armoricae for the Armorican tribes. He defined it as the lands of the coast-dwelling tribes. He listed the Curiosolites, Rédones, Ambibarii, Caletes, Osismii, Veneti, Lemovices, and Venelli among them. MacKillop says the name came to mean Brittany in medieval times. That place then held two parts. Domnonia lay north of the River Elom, in present-day Côtes-du-Nord. Cornoualle stretched south past the Elom to the Ellé. The name means country facing the sea. Koch also records the older spelling Aremorica. Modern works often use the name for the land later called Brittany.",
     "okr": {
-        "objective": "Record Armorica, the old name of a Gaulish coast.",
+        "objective": "Record Armorica, the old name of a Gaulish coast and medieval Brittany.",
         "key_results": [
             "Show its meaning country facing the sea.",
             "Show Caesar's list of the Armorican tribes.",
-            "Show its later use for Brittany."
+            "Show its two medieval parts, Domnonia and Cornoualle."
         ],
-        "evidence": "Monaghan 2003, s.v. Armorica; Koch 2006, s.v. Armorica"
+        "evidence": "Monaghan 2003, s.v. Armorica; Koch 2006, s.v. Armorica; MacKillop 2008, s.v. Armorica"
     }
 }

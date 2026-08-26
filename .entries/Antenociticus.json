@@ -6,6 +6,10 @@
       "attribute": "a British god known only at a single site, the genius loci of Benwell"
     },
     {
+      "entity": "Northumberland",
+      "attribute": "the county near Hadrian's Wall where his Condercum site stands"
+    },
+    {
       "entity": "Benwell",
       "attribute": "site of his excavated temple in Condercum"
     }
@@ -26,23 +30,32 @@
     {
       "entity": "genius loci",
       "type": "Concept"
+    },
+    {
+      "entity": "Hadrian's Wall",
+      "type": "Place"
+    },
+    {
+      "entity": "Northumberland",
+      "type": "Place"
     }
   ],
   "sources": [
-    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.",
+    "MacKillop 2008, s.v. 'Antenociticus'"
   ],
   "image": [
     "https://upload.wikimedia.org/wikipedia/commons/e/ef/%28Roman%29_Temple_of_Antenociticus_%283%29_-_geograph.org.uk_-_837888.jpg"
   ],
   "cyphertext": "gkTyQkJoX_xy03RJ0pGoJpltUFDU8YtURafAkuKaRS3LfVRY-Gv7wDm2PfSdOydm6-JHup25-6vMmneOc3vXvA3E8ip7UVvWET3k2-o39Ob0d9Yvgr-rjeeyCvL8m7WlOl2smiCCo0uAir2F9fDB2c62ycWkXDlZ9vRG7rV1jGA1GR9lLau-T-4tXEwB39vkEaOtx0Ka-HKczL9yg4xgGjB4JttQZi6agnBSBTynDXtSaqW3lTrV_j934JldW06kh0_0kxE2qyqJqBhCBJm13bVrVE0fGGuokOYGMufyLxt3thlaZdVnZ6B-Za26k3neexzCsKnebhVJ4qc=",
   "salt": "bAPnq1eWJvtiayS9PuWaug==",
-  "text": "Antenociticus is a British god. A temple dedicated to him was excavated at Benwell in Condercum. Like many other Celtic gods, he is known only at a single site. He may have been the genius loci, the guardian spirit of the place.",
+  "text": "Antenociticus is a British god. He is a youthful male deity worshipped in Roman times. A temple dedicated to him was excavated at Benwell in the Roman fort of Condercum. He is also spelled Anociticus and Antodicitus in the records. The god is known only at a single site. Like many other local Celtic deities he may have been a genius loci, the guardian spirit of the place. A carving shows his hair swept forward in a way that suggests the antlers of a young stag. This stag-like image links him to the forest and the hunt. His site at Condercum stands near the modern town of Benwell, in Northumberland, on the line of Hadrian's Wall.",
   "okr": {
     "objective": "Record Antenociticus, a British god.",
     "key_results": [
       "Show his temple excavated at Benwell in Condercum.",
       "Show his role as the genius loci known at one site."
     ],
-    "evidence": "Monaghan 2003, s.v. Antenociticus"
+    "evidence": "Monaghan 2003, s.v. Antenociticus; MacKillop 2008, s.v. Antenociticus"
   }
 }
