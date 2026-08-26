@@ -1,0 +1,65 @@
+{
+  "name": "Danebury",
+  "text": "Danebury was an Iron Age hill-fort on the chalk uplands of southern England. Its inner earth wall enclosed 5.3 hectares. Excavations ran on the site every year from 1969 to 1988. They cleared away over half of the occupied ground. Work began in the late sixth century BC as a palisaded enclosure. A rampart and ditch later replaced the palisade. That wall carried doors to the east and the south-west. A steep glacis joined the defenses during the fourth century BC. Danebury held dense occupation in the third and second centuries BC. Ramparts, round houses, and storage pits filled the interior. Two shrines stood near the centre of the settlement. Special deposits of grain, animals, and tools sat in old pits. The finds point to a farming economy. Salt, iron, bronze, and quern-stones arrived through exchange. The fort lost its settlers in the early first century AD.",
+  "entities": [
+    {
+      "entity": "Danebury",
+      "type": "Place"
+    },
+    {
+      "entity": "Hampshire",
+      "type": "Place"
+    },
+    {
+      "entity": "Iron Age",
+      "type": "Era"
+    },
+    {
+      "entity": "Barry Cunliffe",
+      "type": "Person"
+    },
+    {
+      "entity": "Maiden Castle",
+      "type": "Place"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Danebury",
+      "attribute": "was an Iron Age hill-fort on the chalk downs of Hampshire, England"
+    },
+    {
+      "entity": "Danebury",
+      "attribute": "its inner earth wall enclosed an area of 5.3 hectares"
+    },
+    {
+      "entity": "Danebury",
+      "attribute": "was densely occupied in the third and second centuries BC"
+    },
+    {
+      "entity": "Hampshire",
+      "attribute": "locates the Danebury hillfort on its chalk downs"
+    },
+    {
+      "entity": "Barry Cunliffe",
+      "attribute": "directed the excavations of Danebury from 1969 to 1988"
+    }
+  ],
+  "sources": [
+    "Koch 2006, s.v. 'Danebury'",
+    "Cunliffe, Barry. Danebury: Anatomy of an Iron Age Hillfort. London: Batsford, 1983."
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Recounts Danebury as a developed Iron Age hill-fort in Hampshire excavated by Barry Cunliffe.",
+    "key_results": [
+      "Places Danebury on the chalk downs of Hampshire, England",
+      "Notes the 1969-1988 excavation campaign across the interior",
+      "Describes the inner earthwork, opposed entrances, and glacis",
+      "Reports dense third- and fourth-century occupation with shrines and storage pits"
+    ],
+    "evidence": "Koch 2006, s.v. 'Danebury'"
+  }
+}
