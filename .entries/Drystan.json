@@ -20,6 +20,34 @@
     {
       "entity": "yew",
       "attribute": "stays green year-round and clinched Trystan’s claim"
+    },
+    {
+      "entity": "Drystan",
+      "attribute": "appears in eight Welsh triads"
+    },
+    {
+      "entity": "Esyllt",
+      "attribute": "appears in three Welsh triads"
+    },
+    {
+      "entity": "March ap Meirchion",
+      "attribute": "appears in four Welsh triads"
+    },
+    {
+      "entity": "Drystan",
+      "attribute": "named on a memorial stone near Castle Dore as son of Cunomor"
+    },
+    {
+      "entity": "Tallwch",
+      "attribute": "father of Drystan in the Welsh sources"
+    },
+    {
+      "entity": "Llyfr Du Caerfyrddin",
+      "attribute": "holds an early Welsh Tristan poem"
+    },
+    {
+      "entity": "Ystorya Trystan",
+      "attribute": "mixed prose and verse tale in later manuscripts"
     }
   ],
   "entities": [
@@ -54,6 +82,38 @@
     {
       "entity": "Isolt",
       "type": "Person"
+    },
+    {
+      "entity": "Llyfr Du Caerfyrddin",
+      "type": "Text"
+    },
+    {
+      "entity": "Ystorya Trystan",
+      "type": "Text"
+    },
+    {
+      "entity": "Drust",
+      "type": "Person"
+    },
+    {
+      "entity": "Tallwch",
+      "type": "Person"
+    },
+    {
+      "entity": "Cunomor",
+      "type": "Person"
+    },
+    {
+      "entity": "Castle Dore",
+      "type": "Place"
+    },
+    {
+      "entity": "Gogynfeirdd",
+      "type": "Group"
+    },
+    {
+      "entity": "Cywyddwyr",
+      "type": "Group"
     }
   ],
   "sources": [
@@ -62,19 +122,22 @@
   ],
   "cyphertext": "wWhyfplgxvof2xdWDgKNvS3wl-_SrLvQ23hrfHZBCzNOGXn5UPy5BrXfS8ONNZRaZQ==",
   "salt": "_AS9xTow9rJwN3A8lEV0bA==",
-  "text": "Drystan is a Welsh hero. A Welsh-language version tells the tale of Tristan and Isolt. The lovers are named Trystan and Esyllt. Esyllt is the wife of King March ap Meirchion. The couple eloped into a forest. March's armies besieged them. King Arthur negotiated a truce. The pair had to share Esyllt by season. One partner kept her in summer, the other in winter. March chose winter, when nights run longest. Trystan tricked him with yew trees. The yew stays green all year. Trystan planned to keep Esyllt forever. In Welsh sources the pair is called Drystan ac Esyllt. No complete medieval Celtic version of the tale survives. Welsh fragments include a poem and the triads. That early verse survives in a medieval manuscript collection tied to Carmarthen. The triads name Drystan, Esyllt, and March. A mixed prose and verse text, Ystorya Trystan, comes from later manuscripts. The three names carry Brythonic roots. Some scholars trace the hero's name to the Pictish Drust. A Cornish origin also finds support. An inscribed stone near Castle Dore names a Drystan. An old Cornish name for a ford honors Isold.",
+  "text": "Drystan is a Welsh hero. A Welsh-language version tells the tale of Tristan and Isolt. The lovers are named Trystan and Esyllt. Esyllt is the wife of King March ap Meirchion. The couple eloped into a forest. March's armies besieged them. King Arthur negotiated a truce. The pair had to share Esyllt by season. One partner kept her in summer, the other in winter. March chose winter, when nights run longest. Trystan tricked him with yew trees. The yew stays green all year. Trystan planned to keep Esyllt forever. In Welsh sources the pair is called Drystan ac Esyllt. No complete medieval Celtic version of the tale survives. Welsh fragments take four forms. A poem survives in the manuscript collection called Llyfr Du Caerfyrddin. The triads name Drystan, Esyllt, and March. Drystan appears in eight triads, Esyllt in three, and March in four. Poets from the 13th century echo the pair. The Gogynfeirdd wrote from that time on. The Cywyddwyr wrote into the 16th century. Ystorya Trystan mixes prose and verse. That text survives only in later manuscripts. Its grammar points to an old Welsh date. The three names carry Brythonic roots. Many scholars accept a Pictish and Old Irish origin. The name Drystan matches the Pictish Drust. Tallwch appears as the hero's father. A Cornish origin also finds support. An inscribed stone near Castle Dore names a Drystan son of Cunomor. An old Cornish word for a ford honors Isold.",
   "okr": {
-    "objective": "Rewrite the Drystan entry in CSG-SME1000 prose with source-accurate nouns.",
+    "objective": "Rewrite and expand the Drystan entry in CSG-SME1000 prose with source-accurate nouns.",
     "key_results": [
       "Meets CSG-SME1000 sentence rules",
+      "Covers Welsh versions and Celtic origins",
       "All required nouns present",
-      "110-140 words",
-      "No prose fragments"
+      "No prose fragments",
+      "No six-word verbatim run"
     ],
     "evidence": [
       "monaghan.txt:12582 Trystan ref",
       "monaghan.txt:38451-38470 Trystan (Drystan...)",
-      "koch.txt:31648-31727 Drystan ac Esyllt (Welsh versions; Celtic/Pictish/Cornish origins)"
+      "koch.txt:31648-31727 Drystan ac Esyllt (Welsh versions; Celtic/Pictish/Cornish origins)",
+      "drystan.koch.txt:8-38 Welsh versions (Black Book, triads, Ystorya Trystan)",
+      "drystan.koch.txt:40-80 Celtic origins (Brythonic/Pictish/Cornish; Castle Dore; Hryt Eselt)"
     ]
   }
 }
