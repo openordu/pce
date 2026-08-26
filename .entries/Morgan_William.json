@@ -1,0 +1,59 @@
+{
+ "name": "Morgan, William",
+ "attributes": [
+  {
+   "entity": "Morgan, William",
+   "attribute": "translated the whole Bible into Welsh and served as rector of Llanrhaeadr-ym-Mochnant from 1578 to 1595"
+  },
+  {
+   "entity": "Morgan, William",
+   "attribute": "served as bishop of Llandaff and then of St Asaph"
+  },
+  {
+   "entity": "Morgan, William",
+   "attribute": "published the entire Bible in Welsh in 1588 at the command of Elizabeth I"
+  },
+  {
+   "entity": "Morgan, William",
+   "attribute": "regarded as the father of Welsh prose and a standardiser of the Welsh literary language"
+  }
+ ],
+ "entities": [
+  {
+   "entity": "Morgan, William",
+   "type": "Person"
+  },
+  {
+   "entity": "Llanrhaeadr-ym-Mochnant",
+   "type": "Place"
+  },
+  {
+   "entity": "Llandaff",
+   "type": "Institution"
+  },
+  {
+   "entity": "St Asaph",
+   "type": "Institution"
+  },
+  {
+   "entity": "Elizabeth I",
+   "type": "Person"
+  }
+ ],
+ "sources": [
+  "Koch 2006, s.v. 'Morgan, William'"
+ ],
+ "image": [],
+ "cyphertext": "",
+ "salt": "",
+ "text": "Morgan, William (c. 1545-1604) translated the whole Bible into Welsh. He served as rector of Llanrhaeadr-ym-Mochnant from 1578 to 1595. Morgan later became bishop of Llandaff and then of St Asaph. He published the entire Bible in Welsh in 1588 at the command of Elizabeth I. Many scholars call Morgan the father of Welsh prose. He built his work on the efforts of earlier scholars. His translation helped standardise the Welsh literary language. Morgan also held the rectory of Llanfyllin and the sinecure rectory of Pennant Melangell.",
+ "okr": {
+  "objective": "Author a new PCE node for Morgan, William and his Welsh Bible translation",
+  "key_results": [
+   "record his translation of the whole Bible into Welsh and its publication in 1588 by royal command",
+   "name his rectories of Llanrhaeadr-ym-Mochnant, Llanfyllin, and Pennant Melangell and his episcopal posts",
+   "note his role as father of Welsh prose and his standardisation of the Welsh literary language"
+  ],
+  "evidence": "Koch 2006, s.v. 'Morgan, William'."
+ }
+}

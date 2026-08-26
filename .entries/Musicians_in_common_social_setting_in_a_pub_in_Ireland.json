@@ -1,0 +1,24 @@
+{
+ "name": "Musicians in a pub in Ireland",
+ "text": "Musicians in a pub in Ireland appear in a photograph that Koch uses to show the live face of Irish traditional music. The players gather in a common social space, the pub, and perform together. The picture records where the tradition still happens today. This music stays oral, conservative, and amateur in focus. The gathering is always participatory. Those present join in readily, and the tunes remain a shared communal event.",
+ "entities": [
+  {"entity": "Irish traditional music", "type": "Topic"},
+  {"entity": "pub in Ireland", "type": "Place"},
+  {"entity": "the session", "type": "Topic"}
+ ],
+ "attributes": [
+  {"entity": "Irish traditional music", "attribute": "is performed in a common social setting in a pub in Ireland"},
+  {"entity": "Irish traditional music", "attribute": "is invariably participatory for the people present"},
+  {"entity": "the tradition", "attribute": "keeps an oral, conservative, and amateur focus"},
+  {"entity": "the session", "attribute": "shows musicians playing together in one shared place"}
+ ],
+ "sources": ["Koch 2006, s.v. 'Musicians in a common social setting in a pub in Ireland'"],
+ "image": [],
+ "cyphertext": "",
+ "salt": "",
+ "okr": {
+  "objective": "Document the continuing performance context of Irish traditional music in a shared pub setting.",
+  "key_results": ["Musicians play together in one common social setting in a pub in Ireland", "The tradition retains an oral, conservative, and amateur character", "The gathering is invariably participatory for those present"],
+  "evidence": "Koch 2006, s.v. 'Musicians in a common social setting in a pub in Ireland'."
+ }
+}
