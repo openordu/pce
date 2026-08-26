@@ -1,0 +1,73 @@
+---
+layout: layouts/pce.njk
+title: four-footed neighbours
+icon: file-lines
+order: 2520
+contributors: [ 'Christopher Godwin' ]
+attributes:
+  - Coitir na Gruaige was a Kerry poet who rode the roads of Kerry and west Limerick on a strong pony and was famed for his power over rats
+  - weasel which was really a red stoat, was the great enemy of rats and could call its friends and hold a grudge for months
+  - fox was counted the most cunning of the creatures and could feign death, and the landlords long preserved it from the hunt
+  - hare could only be taken by the hounds, but a hare which milked a cow on a May morning could be shot as a witch in hare form
+  - hedgehog was always named the porcupine and was thought by the elders to draw the milk from the cows' udders
+  - badger was an honourable, courageous beast that never dug its own home but cast out a fox to gain one
+categories:
+  - creature
+  - Person
+  - Place
+  - customs
+entities:
+  - four-footed neighbours(customs)
+  - Coitir na Gruaige(Person)
+  - Danaher, Kevin(Person)
+  - St Canice(Person)
+  - Cratloe(Place)
+  - fox(creature)
+  - badger(creature)
+  - weasel(creature)
+  - hare(creature)
+  - rabbit(creature)
+  - hedgehog(creature)
+tags:
+  - four-footed neighbours
+  - Coitir na Gruaige
+  - Danaher, Kevin
+  - St Canice
+  - Cratloe
+  - fox
+  - badger
+  - weasel
+  - hare
+  - rabbit
+  - hedgehog
+---
+``` tab [group1:Info]
+::: magazinestyle
+Kevin Danaher titled one whole section of his study of custom the four-footed neighbours, and the name covers every beast that shared the farmstead and the fields with the people of the Irish countryside, both the wild animal and the wanderer. He opened the account with Coitir na Gruaige, a Kerry poet who made his way over the roads around Kerry and the western stretch of Limerick, riding a strong pony, his long hair worn in two pigtails beneath a wide coat tied with a strap, and who went about from one farmhouse door to another calling out in a loud voice for what was his due. When the household gave him enough he responded with blessings spoken in verse, and when they gave him little he answered with curses in rhyme that grew known to every person in the parish. His most curious gift lay in a control over rats. While he slept, after drink was pressed on him at a gathering in Cratloe, some joker used a sheep shears to clip away one of his pigtails, and when the poet found his loss he came back along the highway speaking strange words so that the rats of each farm followed behind him, until a great troop stood at the partyhouse and he bade them go in and eat every eatable thing and ruin all the rest. The old people said that no one knew the spell to make the rats leave, but they told how St Canice prayed against the mice that had gnawed his shoes on his island and so banished rats and mice from that hermitage forever. Rats, said the elders, spoiled all that they came near, dug into the pits of potatoes and bit each one so that it became poisonous, opened the pits to the rain, fouled the oats till no beast would take them and made any grain useless, yet their cunning made them hard to trap, and the mice, though they devoured everything around them and bored through the wood and thatch, did not have the filth and poison of the rat. The weasel, which the people kept a good word in, was really the red stoat, and it was counted the very one to hunt the rats, so the farm that held a weasel about its court need have no fear for its corn; it was counted a brave and fierce fighter that few dogs would close with, for wherever a dog had the grip the stoat could twist round and bite the face, and if one of the creatures was killed, every other of its kind gathered from distant places to bury it, many a countryman claimed to have seen a weasel's funeral, and they said the weasel could give a loud shrill call to summon all its friends and could remember the man who injured it for months, watch out for him, and wait until the time of a return came, when a fox and every young sheep at that farm might die, or they could spring at his own throat on a dark evening and draw blood. Yet a fine purse of a stoat skin was counted very lucky, for such a purse was never empty of coin. The small hedgehog was almost always called the porcupine, and when the old people kept one it grew tame and ate out of their hands, but they said plainly that the porcupine sucked the milk from the cows' udder and so poor thing was destroyed on sight, being thrown into the water so that it unrolled and the hounds could kill it. Of the wily nature of the fox there was no end, and the landlords long preserved them so no one of the farm was free to kill a fox before the land acts came, when poor Reynard was made to pay in full and his numbers much lessened across the region. Where the fox was found to kill a goose, they said, he could sling it the shoulders and settle away without trouble, and should a dead fox be found, the man was told to make sure he was really dead, for his tricks were many, and the old tale told of the fool who had found a dead fox in the hen-yard and threw it out, meaning to pick it up again, and of how the fox waited at the wall and of the travelling fish seller who set a dead fox on top of his wares, only to discover upon arriving at the town that most of his catch and the fox as well had vanished. An old wily vixen whose claw had been taken by a trap and that she had eaten off kept up the story of the Banshee, whose cry, the old people said, came only for the very noble of the blood, and many who have no just claim to her sentence still gave that they had heard it at night. Once a fox and a wolf joined to dig a tunnel into the hen house and ate their fill; each time he had eaten his share the fox went out to be sure he still thin enough to slip, and so when the farmer arrived he came clear of the road while the wolf, now swollen with the fowl, could not squeeze back through the hole and so was killed. The wolf was not believed a myth beast, but an old dweller among the woods and hills, in the about last of them he was taken and killed at Glendarragh, a few miles beyond Newcastle West, in about the year 1750. Only the true wild cat was counted the equal of the fox for cunning, and a fable told of a talk they two held together, the fox boasting of all his clever escapes while the cat confessed it knew only a single simple trick; then when the hounds with their riders appeared, the cat used that one trick, climbing up a tree to safety, while the fox, for all his cunning, was overtaken by the pack and slain. The badger stood high in the good regard of the old people and was generally left in peace unless it was accused of taking the fowls. It was not so subtle as the fox, but it bridged that want with plain might and spirit, and some farmers liked to find one within their potato plots, saying the beast fed on the weeds and would not harm the crop, while it was held that a badger never dug out his own lair but won one by driving out a fox, for the fox had fear of him and the badger came off better whenever they fell out. They told of the hermit St Ciaran, who lived in the wood with the wild animals about him like a little family with the saint at their head, until the fox, grown weary of the good life, ran off with the saint's own hoes to eat in his own time, and the angry badger seized the thief by the ear and led him back to make his peace and gain forgiveness. Along the river the old people yet knew the otter, which they called the water dulugan, and they spoke of two creatures that had only just gone when the last of the grand woods was cut, the squirrel and the marten, the marten remembered as the most fierce of all the wild beasts. There were hares and rabbits in plenty. The hares the landlords kept for the coursing and the sport of the hunt, save one owner of the land, a lord by the name of Goold, who in the years of the famine allowed the people to make use of the hare, and very many hares, and also rabbits that were not kept at all but slain as damaging vermin, helped to fill the bellies of many in those hard days. In that country the hare was the creature of the chase and was done in no way except by the hunting hounds, so that to shoot or to trap a hare was near as great a sin as to shoot a beast of the house; yet if you came out at daybreak in the month of May and saw a hare giving milk to one of your cows, you could shoot the thing, for it was not a real hare but an old woman of the shape who sought the milk to charm the butter away. The people spoke of the man who shot at such a hare and went after it, until it slipped into a small cottage where he discovered an old woman hurt by the shot. The rabbits any person might destroy in whatever manner they chose, and these busy little beasts were snared and shot and chased by the dogs, drawn out by smoke and by water and by ferrets, and cooked in the kettle, sometimes with a filling; yet once in the south west of the County Kerry an old woman told him she would take no rabbit, for the rabbit was a kind of rat, she said, and no person should eat it. The flesh of the hare the people never took, though the soup of the hare they liked well, and they told that the small boys of that day used caps made from the skin of the rabbit or of the hare, with the fur outward and a cloth to line them, often leaving the little ears upon them, and the same skins furnished the cushion and the covering for the chair.
+
+:::
+```
+``` tab [group1:Attributes]
+- **Coitir na Gruaige**: was a Kerry poet who rode the roads of Kerry and west Limerick on a strong pony and was famed for his power over rats
+- **weasel**: which was really a red stoat, was the great enemy of rats and could call its friends and hold a grudge for months
+- **fox**: was counted the most cunning of the creatures and could feign death, and the landlords long preserved it from the hunt
+- **hare**: could only be taken by the hounds, but a hare which milked a cow on a May morning could be shot as a witch in hare form
+- **hedgehog**: was always named the porcupine and was thought by the elders to draw the milk from the cows' udders
+- **badger**: was an honourable, courageous beast that never dug its own home but cast out a fox to gain one
+```
+``` tab [group1:Entities]
+- **four-footed neighbours**: customs
+- **Coitir na Gruaige**: Person
+- **Danaher, Kevin**: Person
+- **St Canice**: Person
+- **Cratloe**: Place
+- **fox**: creature
+- **badger**: creature
+- **weasel**: creature
+- **hare**: creature
+- **rabbit**: creature
+- **hedgehog**: creature
+```
+``` tab [group1:Sources]
+- Danaher, Kevin. Irish Customs and Beliefs, chapter 'Four-footed Neighbours'.
+```

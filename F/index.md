@@ -139,6 +139,7 @@ layout: layouts/pce.njk
 - [Fortunate_Isles](Fortunate_Isles)
 - [fosterage](fosterage)
 - [Fothad_Canainne](Fothad_Canainne)
+- [four-footed_neighbours](four-footed_neighbours)
 - [Fourknocks](Fourknocks)
 - [fox](fox)
 - [foyson](foyson)
