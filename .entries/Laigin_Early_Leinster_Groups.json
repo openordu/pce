@@ -1,0 +1,34 @@
+{
+  "name": "Laigin",
+  "text": "The Laigin were the people of Leinster, Ireland's traditional south-eastern province. In early historic Ireland the name Laigin named both a group with many sub-tribes and a kingdom, the Cóiced Laigen. The province of Leinster still recalls that old identity. The early borders of this territory ran to the north along the Liffey and the Offaly bogs, and to the west through the Ossory uplands. Laigin was a plural noun, so its use as a people-name came before its use as a province-name. Early texts used Laigin and Gáileóin for the same group. Few outside peoples lived among them as client tribes; the main exceptions were the Fothairt, Benntraige, and Loígis. Later the leading dynasties were the Uí Dúnlainge on the Liffeey plain and the Uí Cheinnselaig in what is now Wexford, whose kingship eventually won out in the 11th century.",
+  "entities": [
+    {"entity": "Laigin", "type": "Group"},
+    {"entity": "Leinster", "type": "Place"},
+    {"entity": "Cóiced Laidgen", "type": "Group"},
+    {"entity": "Fothairt", "type": "Group"},
+    {"entity": "Benntraige", "type": "Group"},
+    {"entity": "Loígis", "type": "Group"},
+    {"entity": "Uí Dúnlainge", "type": "Group"},
+    {"entity": "Uí Cheinnselag", "type": "Group"}
+  ],
+  "attributes": [
+    {"entity": "Laigin", "attribute": "the early Leinster people of south-eastern Ireland, both a tribe and a kingdom"},
+    {"entity": "Laigin", "attribute": "ruled a territory bounded by the river Liffeey and the bogs of Offaly"},
+    {"entity": "Laigin", "attribute": "named interchangeably with Gáileóin in early texts"},
+    {"entity": "Uí Cheinnselag", "attribute": "the lineage that gained control of Leinster in the 11th century"}
+  ],
+  "okr": {
+    "objective": "Describe the Laigin as the group and early Leinster people of south-eastern Ireland.",
+    "key_results": [
+      "Relate Laigin to Leinster and to the Cóiced Laidgen",
+      "Give the early borders of the province",
+      "Name the main non-Laigin subject tribes",
+      "Identify the later Lehlenster dynasties"
+    ],
+    "evidence": "Koch 2006, s.v. 'Laigin'."
+  },
+  "image": null,
+  "cyphertext": "",
+  "salt": "",
+  "sources": ["Koch 2006, s.v. 'Laigin'"]
+}

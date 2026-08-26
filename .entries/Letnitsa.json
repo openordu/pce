@@ -1,0 +1,65 @@
+{
+  "name": "Letnitsa",
+  "text": "Letnitsa is a Balkan archaeological site, located in modern Bulgaria. In 1963, workers found 23 gilded silver appliqués inside a bronze crucible. The material is probably the work of Thracians, not Celts. Still, the hoard interests Celtic scholars for several reasons. Its style shows parallels with the La Tene style of the west. Some objects mix Celtic and Thracian traits, much like the Gundestrup cauldron. The scenes tell of mounted heroes, goddesses, hunting, and monsters. These themes recall the martial spirit of the western warrior world. The appliqués have ears for hanging, so they likely formed a horse-harness set. They show the mark of two workshops. Twelve appliqués carry only animal figures, either fighting beasts or beasts in formal poses. These animal scenes recall the Scytho-Siberian animal style and Greek art. Eleven appliqués are anthropomorphic. Some riders face right and hold a spear; others face left. Five riders wear armour and beards. One armored rider wounds a bear with his spear. Another kills a boar. An unresolved question is whether the scenes tell one hero's tale or key moments for the whole Thracian noble class. The treasure belongs to the golden age of Thracian rulers, about 350 to 250 bc. That was a time of peak Celtic influence in eastern Europe.",
+  "entities": [
+    {
+      "entity": "Letnitsa",
+      "type": "Place"
+    },
+    {
+      "entity": "Thracians",
+      "type": "Group"
+    },
+    {
+      "entity": "Gundestrup cauldron",
+      "type": "Artefact"
+    },
+    {
+      "entity": "La Tène style",
+      "type": "concept"
+    },
+    {
+      "entity": "Scytho-Siberian animal style",
+      "type": "concept"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Letnitsa",
+      "attribute": "located in the Balkans in modern Bulgaria"
+    },
+    {
+      "entity": "Letnitsa",
+      "attribute": "yielded 23 gilded silver appliqués in 1963"
+    },
+    {
+      "entity": "Letnitsa",
+      "attribute": "produced appliqués probably made by Thracians"
+    },
+    {
+      "entity": "Letnitsa",
+      "attribute": "styles parallel the western La Tene style and mix Celtic and Thracian traits"
+    },
+    {
+      "entity": "Letnitsa",
+      "attribute": "treasure dates to the golden age of Thracian rulers, c. 350-250 bc"
+    }
+  ],
+  "okr": {
+    "objective": "Present the Thracian site of Letnitsa and its Celtic connections.",
+    "key_results": [
+      "Locate the site in the Balkans and date the 1963 find",
+      "Describe the gilded silver appliqués and their likely use as horse-harness gear",
+      "Note the stylistic parallels with the La Tène style and the Scytho-Siberian animal style",
+      "Summarize the heroic and hunting scenes and their Celtic analogues",
+      "Place the treasure in the golden age of Thracian rulers"
+    ],
+    "evidence": "Koch 2006, s.v. 'Letnitsa'."
+  },
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "sources": [
+    "Koch 2006, s.v. 'Letnitsa'"
+  ]
+}

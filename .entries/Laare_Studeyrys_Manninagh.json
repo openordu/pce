@@ -1,0 +1,34 @@
+{
+  "name": "Laare-studeyrys Manninagh",
+  "text": "The Laare-studeyrys Manninagh, which means the Centre for Manx Studies, began in 1992 as an academic unit of the University of Liverpool under its founding director Dr Peter Davey, a Reader in Archaeology. Its home is Douglas, a town on the Manx island that locals call Ellan Vannin. A committee brings together representatives of three bodies: the Manx Department of Education, Manx National Heritage, and the University of Liverpool. Its leading early project was a multi volume history of the Manx island, brought out by Liverpool University Press, having its opening volume on the modern era out in 2000. The centre was chiefly a research and postgraduate teaching body, granting postgraduate diplomas and an MA in Manx studies and overseeing research students. It stood too as a central point of contact for all Manx scholars, keeping a research register and sharing bibliographies. Its effort spanned Manx archaeology, culture, environment, and history. Projects took in a landscape survey of the Meayll peninsula, reports on the digs at Peel Castle and Rushen Abbey, a sociolinguistic survey of spoken English, and above all the running of the Manx Place name Survey, whose six of the seven volumes had appeared by 2004.",
+  "entities": [
+    {"entity": "Laare-studeyrys Manninagh", "type": "Institution"},
+    {"entity": "University of Liverpool", "type": "Institution"},
+    {"entity": "Douglas", "type": "Place"},
+    {"entity": "Isle of Man", "type": "Place"},
+    {"entity": "Ellan Vannin", "type": "Place"},
+    {"entity": "Peter Davey", "type": "Person"},
+    {"entity": "Manx National Heritage", "type": "Institution"},
+    {"entity": "Manx Place-name Survey", "type": "Institution"}
+  ],
+  "attributes": [
+    {"entity": "Laare-studeyrys Manninagh", "attribute": "is the Centre for Manx Studies, founded in 1992 at the University of Liverpool"},
+    {"entity": "Laare-studeyrys Manninagh", "attribute": "managed the Manx Place-name Survey, with six of seven volumes published by 2004"},
+    {"entity": "Laare-studeyrys Manninagh", "attribute": "offered a Postgraduate Diploma and an MA in Manx studies"},
+    {"entity": "Laare-studeyrys Manninagh", "attribute": "was run by a committee from the Isle of Man Department of Education, Manx National Heritage, and the University of Liverpool"}
+  ],
+  "okr": {
+    "objective": "Portray the Laare-studeyrys Manninagh, the Centre for Manx Studies, and its research role.",
+    "key_results": [
+      "State the foundation, base in Douglas, and partner management",
+      "Name the first major project, a multi volume history of the island",
+      "Describe the teaching programmes and information role in Manx studies",
+      "List key projects including the Manx Place-name Survey"
+    ],
+    "evidence": "Koch 2006, s.v. 'Laare-studeyrys Manninagh'."
+  },
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "sources": ["Koch 2006, s.v. 'Laare-studeyrys Manninagh'"]
+}
