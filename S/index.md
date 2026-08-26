@@ -129,3 +129,4 @@ layout: layouts/pce.njk
 - [sympathetic_magic](sympathetic_magic)
 - [spreading_the_news](spreading_the_news)
 - [stand_and_deliver](stand_and_deliver)
+- [sports_and_pastimes](sports_and_pastimes)
