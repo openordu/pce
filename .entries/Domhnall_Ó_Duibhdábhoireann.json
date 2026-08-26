@@ -1,0 +1,64 @@
+{
+  "name": "Domhnall Ó Duibhdábhoireann",
+  "text": "Domhnall Ó Duibhdábhoireann, a Gaelic legal scholar of the hereditary O'Davoren brehon family, is recalled as the driving force behind an important early-modern Irish law code now preserved in London's British Library as Egerton 88. Written to support his own forensic work between 1564 and 1570, its leaves were set down chiefly at Park in north-east Co. Galway, seat of the Mac Aedhagáin school of law within the wider Connacht region that reaches toward Tuam. Alongside staples of the native legal canon such as the Senchas Már, the volume discloses his deeper literary tastes, casting the learned O'Davorens as patrons who sustained the hereditary scholarly orders of the Gaelic west.",
+  "entities": [
+    {
+      "entity": "Domhnall Ó Duibhdábhoireann",
+      "type": "person"
+    },
+    {
+      "entity": "Egerton 88",
+      "type": "manuscript"
+    },
+    {
+      "entity": "Park",
+      "type": "place"
+    },
+    {
+      "entity": "Co. Galway",
+      "type": "place"
+    },
+    {
+      "entity": "Senchas Már",
+      "type": "law text"
+    },
+    {
+      "entity": "Connacht",
+      "type": "province"
+    }
+  ],
+  "attributes": [
+    {
+      "attribute": "occupation",
+      "value": "legal scholar (brehon)"
+    },
+    {
+      "attribute": "period",
+      "value": "1564–1570"
+    },
+    {
+      "attribute": "manuscript",
+      "value": "Egerton 88"
+    },
+    {
+      "attribute": "school",
+      "value": "Mac Aedhagáin legal school, Park"
+    }
+  ],
+  "sources": [
+    "Koch 2006, s.v. 'Domhnall Ó Duibhdábhoireann'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Enrich the PCE with an entry on the Irish brehon scholar Domhnall Ó Duibhdábhoireann and his legal code",
+    "key_results": [
+      "Entry records the Egerton 88 manuscript",
+      "Connects the subject to the learned Connacht school of the Mac Aedhagáin"
+    ],
+    "evidence": [
+      "Compilation of the code took place at Park, north-east Co. Galway, 1564–1570"
+    ]
+  }
+}

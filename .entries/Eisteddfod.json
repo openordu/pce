@@ -3,11 +3,23 @@
  "attributes": [
   {
    "entity": "Eisteddfod",
-   "attribute": "a Welsh festival of bards held each year near 1 August"
+   "attribute": "the chief cultural festival of Wales"
+  },
+  {
+   "entity": "Eisteddfod Genedlaethol Cymru",
+   "attribute": "the formal national title of the festival"
   },
   {
    "entity": "Wales",
-   "attribute": "the land where the festival gathers its poets"
+   "attribute": "the land that holds the gathering each year"
+  },
+  {
+   "entity": "bard",
+   "attribute": "a poet who competes in song and verse"
+  },
+  {
+   "entity": "Welsh",
+   "attribute": "the language spoken at the festival"
   }
  ],
  "entities": [
@@ -16,31 +28,51 @@
    "type": "Event"
   },
   {
+   "entity": "Eisteddfod Genedlaethol Cymru",
+   "type": "Festival"
+  },
+  {
    "entity": "Wales",
    "type": "Place"
   },
   {
    "entity": "bard",
    "type": "Role"
+  },
+  {
+   "entity": "poet",
+   "type": "Role"
+  },
+  {
+   "entity": "Welsh",
+   "type": "Language"
   }
  ],
  "sources": [
-  "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+  "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.",
+  "Koch 2006, s.v. 'Eisteddfod Genedlaethol Cymru'"
  ],
  "image": [
   "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Flag_of_Wales.svg/1200px-Flag_of_Wales.svg.png"
  ],
  "cyphertext": "lxepNzqZTVriFm4eTFKbs1VSW9EytWgwK3nR-sZgKMT-8NluBosWCX2cgNUr_9fkhk881RIiD4UQoDKXqppbBvlAHpfJXcfaASan9i0mGSCAji-vKQe2Hl-PmBurYE4qO5qWcoAhy4BrVmnZIHKKd-bDwsSsi-voQAC6to8Dd6k_Wg3yncOFnfjBYNS7v7JZ3IbEKaSCIUK01TyCZ_MRrAJ6XVuztUzmkBBy3Kvyw2NB-usMOPvqi_3QjfI1CDT9XRzQuDrqgZ7XnvCvYGOexo7fxvZSSgCbZvCj2mQ__tdQDqnyNMv39s8zhtX9q7zoGMoyqfaVHDOy-cQ0jazlaQCkjSEqtxkfZPv4huO-pfI1PgzqqcZvAhQUdFxdVNU0XGDuiadO1S2gfbY99OkHEsJQdCkKU2YizMSgTvAlWE0ctxXP8MytrL9PXut7BGMeZwmhpgWMy_i2XKoG7GZnDp46fNQNNNQKZOYRieIsKNhGCSugfDjNkdztjB1TjgGPpZB__nkttdLC0nUy56kZCQ_7t_SFgWk6iaC4_uIUeN9qdXtebyZ4bKW8AlU0Qkb-3W2CdTfyIneJ4AgMkOgcLPWQSiMLiXY6HCHM7hiLqg_7Npoo2ZgWi0RuOa51ZfAA7LY-JbQNMN11aY263BoWeux7xwkFjjinI0Kw13DR2vHQXd7NfK4GgctDNJg8Ma6l7JznUaajgFGhHxgmPquC6B13jX0axB0_3-xal1CYCHdQUYDehoupRZCEcQYwCQvwOOoHtqZMzY_kRiWUPEryz3PuYQds6RhRywaZGGybm0estU3NkyIlbuD3pPiQa2AG1l_caLTUJql8wAZyBJfWXR3ZbjaO82aWWLPEGtkksTfIxNXgRJha6oysjR_goT9JXc02oc5uoMdS01UQNA==",
  "salt": "HHy2m7zl9I7SPUUCmnjvjQ==",
- "text": "The Eisteddfod is a Welsh festival. It ranks among the longest-lived of Celtic feasts. The fair of Ireland may match it. Each year the bards meet in a new Welsh town near the first of August. Scholars think the gathering began in the old Celtic age. Then poets trained in oral verse battled in song. The rite was reborn in 1860 as a national event. Yet records trace it to 1176. Poetry and music shape the day, and Welsh is heard almost alone.",
+ "text": "The Eisteddfod is the great cultural festival of Wales. Its formal title is the Eisteddfod Genedlaethol Cymru. Each year it meets in a Welsh town near the first of August. Bards and poets gather there to compete in song and verse. The contests produce many fine performers and memorable shows. The festival stirs competition over prose, music, and drama. Wales treats the gathering as the chief sign of its identity. Supporters call it irreplaceable. The custom may date from the old Celtic age. Written records place a meeting in 1176. It was reborn as a national event in 1860. The festival has helped to revive the Welsh language. That language has carried the national spirit for close to two thousand years. The gathering has served as a forum for national concerns and as a stage for protest and dissent.",
  "okr": {
-  "objective": "Introduce the Eisteddfod as the long-held Welsh festival of verse.",
+  "objective": "Identify the Welsh national cultural festival, its competitions, and its history.",
   "key_results": [
-   "It ranks among the oldest of Celtic festivals.",
-   "The gathering sits near the ancient feast of Lughnasa on 1 August.",
-   "It was rebuilt in 1860 but records reach back to 1176.",
-   "Welsh alone is heard at the meeting."
+   "Place the Eisteddfod Genedlaethol Cymru as the national festival of Wales.",
+   "State that records trace the celebration to 1176.",
+   "Note the modern event took shape in 1860.",
+   "Describe the festival as a sign of Welsh identity and a stage for debate.",
+   "Show its role in reviving the Welsh language."
   ],
-  "evidence": "Monaghan 2008, s.v. 'Eisteddfod'."
+  "evidence": [
+   "Records place a notable meeting of bards at 1176.",
+   "The festival was rebuilt as a national event in 1860.",
+   "The language spoken is Welsh, kept at the heart of the nation.",
+   "Monaghan 2008, s.v. 'Eisteddfod'.",
+   "Koch 2006, s.v. 'Eisteddfod Genedlaethol Cymru'."
+  ]
  }
 }

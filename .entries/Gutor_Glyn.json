@@ -1,0 +1,32 @@
+{
+  "name": "Guto'r Glyn",
+  "text": "Guto'r Glyn was a Welsh poet active during the 15th century. He composed formal praise for noble Welsh patrons. He belonged to the cywyddwyr. Historians hold few firm facts about his life. He probably lived from about 1418 to 1493. His poems set his work near Oswestry in Shropshire. He backed the Yorkists during England's civil wars. He praised commanders Richard Gethin and Mathew Gough. He honoured King Edward IV. He retired to Valle Crucis Abbey. He died there in the 1490s.",
+  "entities": [
+    { "entity": "Guto'r Glyn", "type": "Person" },
+    { "entity": "Oswestry", "type": "Place" },
+    { "entity": "Welsh", "type": "Language" },
+    { "entity": "Valle Crucis", "type": "Organisation" },
+    { "entity": "Wars of the Roses", "type": "Event" },
+    { "entity": "cywyddwyr", "type": "Person" }
+  ],
+  "attributes": [
+    { "entity": "Guto'r Glyn", "attribute": "active as a formal praise poet", "value": "15th century" },
+    { "entity": "Guto'r Glyn", "attribute": "estimated lifespan", "value": "c. 1418 to 1493" },
+    { "entity": "Guto'r Glyn", "attribute": "backed the Yorkist side in the Wars of the Roses", "value": "civil wars of England" },
+    { "entity": "Guto'r Glyn", "attribute": "retired to Valle Crucis Abbey", "value": "old age" },
+    { "entity": "Oswestry", "attribute": "centre of the poet's activity", "value": "Shropshire" }
+  ],
+  "sources": ["Koch 2006, s.v. 'Guto'r Glyn'"],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Add a new PCE entry for the 15th-century Welsh poet Guto'r Glyn from the Koch source",
+    "key_results": [
+      "Author an original text of 300-500 characters in plain factual prose",
+      "List at least 3 entities with the poet topic-first",
+      "Record at least 4 factual attributes from the source"
+    ],
+    "evidence": "Koch 2006, s.v. 'Guto'r Glyn'."
+  }
+}

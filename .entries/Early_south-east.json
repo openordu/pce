@@ -1,0 +1,77 @@
+{
+  "name": "Early south-east",
+  "text": "Early south-east covers the region of south-east Wales that became Morgannwg. Roman towns and forts stand at the root of this land, and maps show them as squares. On the west the region held Gower. In the Rhymni valley lay Gwynlïg, and what had been Gwent further east became Monmouthshire. This whole area grew into the county of Glamorgan. The county of Glamorgan ran from 1536 to 1974. Within it lay the coalfield and the ironworks, with the growing ports of Cardiff and Swansea. It became the most industrial and most populous county in Wales. In 1974 the county split into South, Mid, and West Glamorgan. These again were reorganized into smaller districts in 1995. Only the Vale of Glamorgan, called Bro Morgannwg, kept the old name.",
+  "entities": [
+    {
+      "entity": "Morgannwg",
+      "type": "Place"
+    },
+    {
+      "entity": "Glamorgan",
+      "type": "Place"
+    },
+    {
+      "entity": "Gower",
+      "type": "Place"
+    },
+    {
+      "entity": "Gwent",
+      "type": "Place"
+    },
+    {
+      "entity": "Cardiff",
+      "type": "Place"
+    },
+    {
+      "entity": "Swansea",
+      "type": "Place"
+    },
+    {
+      "entity": "Vale of Glamorgan",
+      "type": "Place"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Morgannwg",
+      "attribute": "the Welsh name for the south-east region"
+    },
+    {
+      "entity": "Glamorgan",
+      "attribute": "county from 1536 to 1974"
+    },
+    {
+      "entity": "Glamorgan",
+      "attribute": "split into South, Mid, and West Glamorgan in 1974"
+    },
+    {
+      "entity": "Gower",
+      "attribute": "lay on the west of the region"
+    },
+    {
+      "entity": "Vale of Glamorgan",
+      "attribute": "kept the old name after the break-up"
+    },
+    {
+      "entity": "Cardiff",
+      "attribute": "grew as a port in Glamorgan"
+    },
+    {
+      "entity": "Swansea",
+      "attribute": "grew as a port in Glamorgan"
+    }
+  ],
+  "sources": [
+    "Koch 2006, s.v. 'Early south-east'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Add a new PCE node for the historic region of south-east Wales that became Morgannwg and Glamorgan.",
+    "key_results": [
+      "CSG-SME1000 text covers the region, Roman sites, and the 1536-1974 county"
+    ],
+    "evidence": "Koch 2006, s.v. 'Early south-east'."
+  }
+}

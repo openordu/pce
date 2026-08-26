@@ -1,0 +1,33 @@
+{
+  "name": "Hagiography: Scottish",
+  "text": "Hagiography: Scottish saints' lives drew on Gaelic and Latin traditions. Scotland's hagiography stayed thin between the early writings and 1500. Most medieval collections survive only as fragments. The Aberdeen Breviary of 1510 reshaped this record. It gathered saints for every part of the nation. It honoured national figures such as Ninian and Margaret. The Breviary also passed off some Irish saints as Scots.",
+  "entities": [
+    {"entity": "hagiography", "type": "concept"},
+    {"entity": "Scotland", "type": "Place"},
+    {"entity": "Gaelic", "type": "Language"},
+    {"entity": "Latin", "type": "Language"},
+    {"entity": "Aberdeen Breviary", "type": "Work"},
+    {"entity": "Ninian", "type": "Person"},
+    {"entity": "Margaret", "type": "Person"}
+  ],
+  "attributes": [
+    {"entity": "Scottish hagiography", "attribute": "rested on both Gaelic and Latin traditions"},
+    {"entity": "Scottish hagiography", "attribute": "stayed sparse from the twelfth century to 1500"},
+    {"entity": "Aberdeen Breviary", "attribute": "appeared in 1510 as a national collection of saints' lives"},
+    {"entity": "Aberdeen Breviary", "attribute": "claimed some Irish saints as Scottish"},
+    {"entity": "Ninian", "attribute": "counted among the national saints honoured in the Breviary"}
+  ],
+  "okr": {
+    "objective": "Present the Scottish strand of the Koch Hagiography article.",
+    "key_results": [
+      "Name the Gaelic and Latin traditions behind Scottish saints' lives",
+      "Identify the pre-1500 manuscript tradition and its losses",
+      "Describe the Aberdeen Breviary of 1510 as a national collection"
+    ],
+    "evidence": "Koch 2006, s.v. 'Hagiography'."
+  },
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "sources": ["Koch 2006, s.v. 'Hagiography'"]
+}

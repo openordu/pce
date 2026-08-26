@@ -1,0 +1,35 @@
+{
+  "name": "Hagiography: Irish",
+  "text": "Hagiography: Irish covers the lives of saints in Latin and in the vernacular, over a period of one thousand years. From four early Latin Lives created around 700, rival churches at Armagh, Kildare, and Iona shaped accounts of Patrick, Brigit, and Colum Cille. Further vernacular Lives of these saints, and of Adomnán, followed from the ninth century. Monks gathered many into collections such as the Codex Salmanticensis. The Franciscan John Colgan printed them at Louvain in the 1640s.",
+  "entities": [
+    {"entity": "hagiography", "type": "concept"},
+    {"entity": "Brigit", "type": "Person"},
+    {"entity": "Patrick", "type": "Person"},
+    {"entity": "Colum Cille", "type": "Person"},
+    {"entity": "Adomnán", "type": "Person"},
+    {"entity": "Armagh", "type": "Place"},
+    {"entity": "Kildare", "type": "Place"},
+    {"entity": "Iona", "type": "Place"},
+    {"entity": "John Colgan", "type": "Person"}
+  ],
+  "attributes": [
+    {"entity": "Irish hagiography", "attribute": "was written over a period of about one thousand years"},
+    {"entity": "Irish hagiography", "attribute": "began with four early Latin Lives of Patrick, Brigit, and Colum Cille"},
+    {"entity": "church rivalry", "attribute": "between Armagh, Kildare, and Iona spurred the composition of Latin Lives"},
+    {"entity": "Irish hagiography", "attribute": "moved to the vernacular with Lives written from the ninth century onward"},
+    {"entity": "John Colgan", "attribute": "published Acts of Irish saints from the Franciscan college at Louvain"}
+  ],
+  "okr": {
+    "objective": "Present the nature and history of Irish saints' Lives in the Koch Hagiography article.",
+    "key_results": [
+      "Name the Latin and vernacular forms of Irish hagiography and their timespan",
+      "Identify the key early figures and Lives",
+      "Trace the manuscript and collection tradition of the saints' Lives"
+    ],
+    "evidence": "Koch 2006, s.v. 'Hagiography'."
+  },
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "sources": ["Koch 2006, s.v. 'Hagiography'"]
+}

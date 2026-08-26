@@ -1,0 +1,107 @@
+{
+  "name": "Eadwine",
+  "text": "Eadwine, also known as Edwin, was king of Northumbria in the early seventh century, a ruler of the Deirian line. He had been driven out of the north by his rival Æthelfrith, yet he returned to become a powerful king. According to Beda in his Historia Ecclesiastica, at the height of his power he exacted tribute from the Isle of Anglesey (Môn) and from the Manx island (Ellan Vannin), and he made himself overlord of the kings of Gwynedd, Cadfan and his son Cadwallon. Eadwine holds an important place in the history of Celtic Britain, because his rule reached into Welsh lands and his downfall came at the hands of Welsh forces. The Welsh poem Moliant Cadwallon ('In Praise of Cadwallon') calls him Tad rwy tuylluras, 'a father of excessively great deception,' and notes that, as a Deiran, he lacked a legitimate hereditary claim to Brynaich in the eyes of the Gwynedd court. He lost his life on 12 October 633 at the battle of Meicen (Old English Haethfelth, Hatfield Chase), where Cadwallon of Gwynedd defeated him and killed his sons Osfrid and Eadfird as well; his line died in that battle. A Welsh poem, Gofara Braint, claims that his head was carried to Cadwallon's court at Aberffraw.",
+  "entities": [
+    {
+      "entity": "Eadwine",
+      "type": "Person"
+    },
+    {
+      "entity": "Cadwallon",
+      "type": "Person"
+    },
+    {
+      "entity": "Cadfan",
+      "type": "Person"
+    },
+    {
+      "entity": "Æthelfrith",
+      "type": "Person"
+    },
+    {
+      "entity": "Gwynedd",
+      "type": "Kingdom"
+    },
+    {
+      "entity": "Aberffraw",
+      "type": "Place"
+    },
+    {
+      "entity": "Môn",
+      "type": "Place"
+    },
+    {
+      "entity": "Ellan Vannin",
+      "type": "Place"
+    },
+    {
+      "entity": "Yeavering",
+      "type": "Place"
+    },
+    {
+      "entity": "Northumbria",
+      "type": "Kingdom"
+    },
+    {
+      "entity": "Brynaich",
+      "type": "Kingdom"
+    },
+    {
+      "entity": "battle of Meicen",
+      "type": "Event"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Eadwine",
+      "attribute": "king of Northumbria of the seventh century, driven out by his rival Æthelfrith and later restored to power"
+    },
+    {
+      "entity": "Eadwine",
+      "attribute": "at the height of rule exacted tribute from Anglesey and the Isle of Man, held as military overlord of Gwynedd"
+    },
+    {
+      "entity": "Eadwine",
+      "attribute": "called in the Welsh poem Moliant Cadwallon a 'father of excessively great deception' for ruling in Brynaich"
+    },
+    {
+      "entity": "Eadwine",
+      "attribute": "as a Deiran lacked a legitimate hereditary claim to Brynaich, in the view of the Gwynedd court"
+    },
+    {
+      "entity": "battle of Meicen",
+      "attribute": "battle of 12 October 633 in which Eadwine and his sons Osfrid and Eadfird fell to Cadwallon of Gwynedd"
+    },
+    {
+      "entity": "Cadwallon",
+      "attribute": "king of Gwynedd who overthrew Eadwine and ruled Northumbria for about a year, in the Historia Brittonum"
+    },
+    {
+      "entity": "Yeavering",
+      "attribute": "Eadwine's court, whose ruins show destruction dated to the season of Cadwallon's invasion in 633/4"
+    },
+    {
+      "entity": "Cadfan",
+      "attribute": "king of Gwynedd with his son Cadwallon, over whom Eadwine imposed himself as military overlord"
+    }
+  ],
+  "sources": [
+    "Koch 2006, s.v. 'Eadwine'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Establish a correct entry for Eadwine, the seventh-century Northumbrian king whose reaching power touched Gwynedd and who fell to Cadwallon.",
+    "key_results": [
+      "Identify Eadwine as a Deiran king of Northumbria driven out by Æthelfrith",
+      "Record his tribute and overlordship over the Welsh lands",
+      "Give the Welsh view of him as an illegitimate ruler of Brynaich",
+      "Record his death and the death of his sons at the battle of 12 October 633",
+      "Note the ruin of his court at Yeavering and the claim that his head was brought to Aberffraw"
+    ],
+    "evidence": [
+      "Koch 2006, s.v. 'Eadwine'"
+    ]
+  }
+}

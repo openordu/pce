@@ -100,6 +100,7 @@ layout: layouts/pce.njk
 - [spring_deities](spring_deities)
 - [spring_equinox](spring_equinox)
 - [Sreng](Sreng)
+- [St_Elfoddw](St_Elfoddw)
 - [stag](stag)
 - [standing_stone](standing_stone)
 - [Starn](Starn)

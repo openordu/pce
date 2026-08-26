@@ -1,0 +1,66 @@
+{
+  "name": "Cúirt",
+  "text": "A cúirt was an 18th-century Irish meeting of amateur poets. The old bardic schools collapsed during the 1600s. They lost their patrons and pupils, so cúirteanna took over poetic learning. Most such courts gathered in Munster. A few similar courts met in Ulster. The best-known cúirt stood near Cork at Blarney. Diarmaid Mac Sheáin Bhuidhe founded it around 1700. These courts copied much from the disliked English court. They named sheriffs and issued mock warrants. Poets clashed in jesting contests. One bard sang a lament for his dead horse. As the Irish language weakened, the cúirteanna faded. They fell out of use by 1800.",
+  "entities": [
+    {
+      "entity": "Cúirt",
+      "type": "institution"
+    },
+    {
+      "entity": "Munster",
+      "type": "place"
+    },
+    {
+      "entity": "Blarney",
+      "type": "place"
+    },
+    {
+      "entity": "Diarmaid Mac Cárthaigh",
+      "type": "person"
+    },
+    {
+      "entity": "bardic order",
+      "type": "institution"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Cúirt",
+      "attribute": "a formal gathering of amateur poets in 18th-century Ireland"
+    },
+    {
+      "entity": "Cúirt",
+      "attribute": "replaced the bardic schools as centres of poetic learning after the 17th century collapse"
+    },
+    {
+      "entity": "Cúirt",
+      "attribute": "mostly confined to Munster with similar courts in Ulster"
+    },
+    {
+      "entity": "Blarney",
+      "attribute": "site of a notable cúirt near Cork founded by Diarmaid Mac Cárthaigh"
+    },
+    {
+      "entity": "Cúirt",
+      "attribute": "declined with the fall of the Irish language and died out by the end of the 1700s"
+    }
+  ],
+  "sources": [
+    "Koch 2006, s.v. 'Cúirt'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Recounts the cúirt as an 18th-century Irish poet-court and its rise to replace the bardic schools.",
+    "key_results": [
+      "Defines the cúirt and its plural cúirteanna",
+      "Places the courts in Munster and Ulster",
+      "Names the Blarney cúirt and its founder",
+      "Notes the court's decline with the fall of Irish"
+    ],
+    "evidence": [
+      "Koch 2006, s.v. 'Cúirt'"
+    ]
+  }
+}

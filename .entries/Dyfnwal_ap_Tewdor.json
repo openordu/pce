@@ -1,0 +1,78 @@
+{
+  "name": "Dyfnwal ap Tewdor",
+  "text": "Dyfnwal ap Tewdor is known from early Welsh records as the ruler reigning at Dumbarton, the stronghold of the northern Britons, and he is understood to have died around the year 760. The Old Welsh genealogies preserved in British Library MS Harley 3859 enter him under the name Dumnagual map Teudubr and set him nine generations below Cinuit map Ceretic Guletic, the figure regarded as ancestor of the Cynwydion dynasty. During his reign Dumbarton came under constant military pressure; Kyle gave way to the enemy, and the fortress itself was captured on 1 August 756 by Eadberht of Northumbria together with the Pictish leader Onuist. Because Annales Cambriae linking 760 records a skirmish at Hereford, some later historians conflated the two matters and supposed Dyfnwal died in that fight. The spelling Dumnagual is thought conservative, while the father-name Teudubr looks like a blend of Celtic words for stout and water, possibly drawn from Latin Theodorus",
+  "entities": [
+    {
+      "entity": "Dyfnwal ap Tewdor",
+      "type": "Person"
+    },
+    {
+      "entity": "Dumbarton",
+      "type": "Place"
+    },
+    {
+      "entity": "Eadberht",
+      "type": "Person"
+    },
+    {
+      "entity": "Onuist",
+      "type": "Person"
+    },
+    {
+      "entity": "Cinuit",
+      "type": "Person"
+    },
+    {
+      "entity": "Ceretic Guletic",
+      "type": "Person"
+    },
+    {
+      "entity": "Cynwydion",
+      "type": "Institution"
+    },
+    {
+      "entity": "British Library MS Harley 3859",
+      "type": "Artefact"
+    },
+    {
+      "entity": "Annales Cambriae",
+      "type": "Artefact"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Dyfnwal ap Tewdor",
+      "attribute": "ruled at Dumbarton and is thought to have died in 760"
+    },
+    {
+      "entity": "Dyfnwal ap Tewdor",
+      "attribute": "placed nine generations below Cinuit son of Ceretic Guletic in the Old Welsh genealogies"
+    },
+    {
+      "entity": "Dumbarton",
+      "attribute": "was taken on 1 August 756 by Eadberht of Northumbria with the Pictish leader Onuist"
+    },
+    {
+      "entity": "Dyfnwal ap Tewdor",
+      "attribute": "the father-name Teudubr appears a compound of Celtic words for stout and water, possibly from Latin Theodorus"
+    }
+  ],
+  "sources": [
+    "Koch 2006, s.v. 'Dyfnwal ap Tewdor'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Establish a correct entry for Dyfnwal ap Tewdor, the eighth-century ruler of Dumbarton known from Welsh genealogy and the Annales Cambriae.",
+    "key_results": [
+      "Record the ruler of Dumbarton who died in the year 760",
+      "Give the Old Welsh genealogical position through MS Harley 3859",
+      "Correct the merger with the 760 battle of Hereford",
+      "Explain the probable derivation of the father-name Teudubr"
+    ],
+    "evidence": [
+      "Koch 2006, s.v. 'Dyfnwal ap Tewdor'"
+    ]
+  }
+}

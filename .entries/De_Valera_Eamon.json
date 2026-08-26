@@ -1,0 +1,72 @@
+{
+  "name": "De Valera, Eamon",
+  "text": "Eamon de Valera shaped Irish politics for half a century. He came into the world in New York on October 14, 1882, and carried the name Edward de Valera. He took a mathematics post at Rockwell College in 1901. Valera joined the Gaelic League in 1908 and changed his name to Eamonn. He commanded a Volunteers battalion during the 1916 Easter Rising. British troops took him after the last surrender. A court spared him, likely because he held American citizenship. Valera won the East Clare by-election after his 1917 release. He escaped Lincoln prison in 1919 to lead the first Dail. He opposed the 1921 treaty and backed the anti-treaty side in the civil war. Valera founded Fianna Fail in 1926. He became Taoiseach after the 1932 election and held the office for years. His 1937 constitution named the state Eire and claimed the whole island. He kept Ireland neutral during the Second World War. Valera served as President from 1959 until 1973.",
+  "entities": [
+    {
+      "entity": "Eamon de Valera",
+      "type": "Person"
+    },
+    {
+      "entity": "Fianna Fail",
+      "type": "Party"
+    },
+    {
+      "entity": "Easter Rising",
+      "type": "Event"
+    },
+    {
+      "entity": "Eire",
+      "type": "Place"
+    },
+    {
+      "entity": "Irish Volunteers",
+      "type": "Group"
+    },
+    {
+      "entity": "Sinn Fein",
+      "type": "Party"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Eamon de Valera",
+      "attribute": "was born in New York on 14 October 1882"
+    },
+    {
+      "entity": "Eamon de Valera",
+      "attribute": "commanded a battalion during the Easter Rising"
+    },
+    {
+      "entity": "Eamon de Valera",
+      "attribute": "founded Fianna Fail in 1926"
+    },
+    {
+      "entity": "Eamon de Valera",
+      "attribute": "served as Taoiseach from 1932 until 1948"
+    },
+    {
+      "entity": "Eamon de Valera",
+      "attribute": "kept Ireland neutral in the Second World War"
+    },
+    {
+      "entity": "Eamon de Valera",
+      "attribute": "served as President from 1959 until 1973"
+    }
+  ],
+  "sources": [
+    "Koch 2006, s.v. 'De Valera, Eamon'",
+    "Coogan, Tim Pat. Eamon de Valera: The Man Who Was Ireland. New York, HarperCollins, 1993."
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Recounts the political career of Eamon de Valera from the Rising to the presidency.",
+    "key_results": [
+      "Records his 1916 rebellion command and prison sentence",
+      "Notes his founding of Fianna Fail and long service as Taoiseach",
+      "Notes his neutrality policy and later presidency"
+    ],
+    "evidence": "Koch 2006, s.v. 'De Valera, Eamon'"
+  }
+}

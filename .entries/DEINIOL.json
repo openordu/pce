@@ -1,0 +1,60 @@
+{
+  "name": "DEINIOL",
+  "text": "Deiniol served as the first bishop of Bangor in Gwynedd, north Wales. Pilgrims travelled to the cathedral to view his miraculous image. Annales Cambriae places his death in the year 584. That record calls him Daniel Bancorum, or Deiniol of the Bangors. The name links him to the house at Bangor Is-coed as well. A twelfth-century text stations him at the Synod of Brefi in 545. There he joined David and Dubricius. Deiniol gained his schooling at Bangor Is-coed beside the river Dee. His father oversaw that community as Abbot Dunawd. The abbot was brother-in-law of Brochfael, king of Powys. Several churches under his charge stood in Flintshire.",
+  "entities": [
+    {
+      "entity": "Deiniol",
+      "type": "Person"
+    },
+    {
+      "entity": "Bangor",
+      "type": "Place"
+    },
+    {
+      "entity": "Gwynedd",
+      "type": "Place"
+    },
+    {
+      "entity": "Synod of Brefi",
+      "type": "Event"
+    },
+    {
+      "entity": "Powys",
+      "type": "Place"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Deiniol",
+      "attribute": "was the first bishop of Bangor in Gwynedd"
+    },
+    {
+      "entity": "Bangor",
+      "attribute": "held the miraculous image that pilgrims visited"
+    },
+    {
+      "entity": "Deiniol",
+      "attribute": "died in the year 584 according to Annales Cambriae"
+    },
+    {
+      "entity": "Deiniol",
+      "attribute": "trained at Bangor Is-coed under his father the abbot"
+    }
+  ],
+  "sources": [
+    "Koch 2006, s.v. 'DEINIOL'",
+    "Baring-Gould & Fisher, Lives of the British Saints"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Records the life of Deiniol as the first bishop of Bangor in Gwynedd.",
+    "key_results": [
+      "Names Deiniol as patron and bishop of Bangor",
+      "Dated his death to the year 584 in the Annales Cambriae",
+      "Links his training to Bangor Is-coed and his father the abbot"
+    ],
+    "evidence": "Koch 2006, s. v. 'DEINIOL'"
+  }
+}

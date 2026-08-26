@@ -1,0 +1,29 @@
+{
+  "name": "Gaulish inscribed text in ancient Roman cursive",
+  "text": "A lead tablet recovered at Chamalières carries a written spell that uses Gaulish in Roman cursive. It dates from the earlier first century AD. The words run across several lines of the plate. The opening lines call on the divine Maponos, who answers the spell. A person named the caller keeps contact with the unseen world. Other lines state that one sets right what is crooked. A further claim lets a blind man see. These passages may seek healing from the gods. Similar ideas appear in other Gaulish writing of that age. The closing words call on the god Lugus. This repeat ends the magic spell. Scholars read the tablet as proof of Gaulish worship.",
+  "entities": [
+    {"entity": "Chamalières", "type": "Place"},
+    {"entity": "Maponos", "type": "Deity"},
+    {"entity": "Lugus", "type": "Deity"},
+    {"entity": "Gaulish", "type": "Language"}
+  ],
+  "attributes": [
+    {"entity": "Chamalières", "attribute": "site of the lead tablet find"},
+    {"entity": "Maponos", "attribute": "invoked at the start of the inscription"},
+    {"entity": "Maponos", "attribute": "named with the Arvernati people"},
+    {"entity": "Lugus", "attribute": "called by name in the closing formula"}
+  ],
+  "sources": ["Koch 2006, s.v. 'Gaulish inscribed text in ancient Roman cursive'"],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Establish the Chamalières lead tablet as a Gaulish inscribed text in Roman cursive.",
+    "key_results": [
+      "Date the inscription to the earlier first century AD",
+      "Record the invocation of Maponos and the closing call to Lugus",
+      "Describe the oath and healing phrases in the text"
+    ],
+    "evidence": "Koch 2006, s.v. 'Gaulish inscribed text in ancient Roman cursive'"
+  }
+}

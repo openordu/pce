@@ -1,0 +1,32 @@
+{
+  "name": "Gaul in the later pre-Roman and Roman periods",
+  "text": "Gaul covered the land that Romans named Gallia. From the mid-first millennium BC to the fifth century AD, Celtic speakers shaped this region. Their reach also extended into parts of Central Europe and Spain. Greek writers, and then Roman writers, applied the names Keltoi and Celtae, meaning the Celts, to these peoples. The same continental groups also carried the names Galli and Galatae, meaning the Gauls and the Galatians. Gallia means the land of the Galli. The root of the name Kelta remains unclear. The names Galli and Galatae most likely connect to the Old Irish word gal, which means boldness or ferocity, and to the Welsh word cal. Latin and Germanic speech grew stronger inside Gaul as the Roman period advanced.",
+  "entities": [
+    {"entity": "Gaul", "type": "Place"},
+    {"entity": "Gallia", "type": "Place"},
+    {"entity": "Celtic speakers", "type": "Group"},
+    {"entity": "Keltoi", "type": "Group"},
+    {"entity": "Celtae", "type": "Group"},
+    {"entity": "Galli", "type": "Group"},
+    {"entity": "Galatae", "type": "Group"}
+  ],
+  "attributes": [
+    {"entity": "Gaul", "attribute": "was the region Romans named Gallia"},
+    {"entity": "Celtic speakers", "attribute": "dominated Gaul and parts of Central Europe and Spain"},
+    {"entity": "Galli", "attribute": "derives from the Old Irish word gal meaning boldness"},
+    {"entity": "Gallia", "attribute": "means the land of the Gauls"}
+  ],
+  "sources": ["Koch 2006, s.v. 'Gaul in the later pre-Roman and Roman periods'"],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Document Gaul's Celtic identity and its Greek and Roman names across the pre-Roman and Roman periods.",
+    "key_results": [
+      "Name Gaul and its Latin name Gallia",
+      "Identify the Celtic-speaking population and its extent",
+      "Record the Greek and Roman designations Keltoi, Celtae, Galli, and Galatae"
+    ],
+    "evidence": "Koch 2006, s.v. 'Gaul in the later pre-Roman and Roman periods'"
+  }
+}

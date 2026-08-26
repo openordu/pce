@@ -1,0 +1,33 @@
+{
+  "name": "Hagiography: Welsh",
+  "text": "Hagiography: Welsh covers the Lives of saints such as David, Cadoc, Deiniol, Gildas, Illtud, and Teilo. These local figures were founders and missionaries rather than martyrs, unlike most Continental saints. Their cults stayed near home until about 1100, when the Norman Conquest drove clerics to compile Latin Vitae in Wales. Welsh translations exist for only David and Beuno, and other traditions were set down in English or Latin.",
+  "entities": [
+    {"entity": "hagiography", "type": "concept"},
+    {"entity": "David", "type": "Person"},
+    {"entity": "Cadoc", "type": "Person"},
+    {"entity": "Illtud", "type": "Person"},
+    {"entity": "Gildas", "type": "Person"},
+    {"entity": "Teilo", "type": "Person"},
+    {"entity": "Wales", "type": "Place"}
+  ],
+  "attributes": [
+    {"entity": "Welsh hagiography", "attribute": "was written in Latin after the Norman Conquest"},
+    {"entity": "Welsh hagiography", "attribute": "tended to be founders and missionaries rather than martyrs"},
+    {"entity": "Welsh hagiography", "attribute": "survives in Welsh only for the Lives of David and Beuno"},
+    {"entity": "David", "attribute": "became the patron saint of Wales"},
+    {"entity": "classau", "attribute": "were religious communities that served as centres of learning"}
+  ],
+  "okr": {
+    "objective": "Present the nature and history of Welsh saints' Lives in the Koch Hagiography article.",
+    "key_results": [
+      "Name the leading saints of Welsh tradition",
+      "Distinguish the Welsh Lives from Continental martyrs",
+      "Note the Latin and limited Welsh forms and their late date"
+    ],
+    "evidence": "Koch 2006, s.v. 'Hagiography'."
+  },
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "sources": ["Koch 2006, s.v. 'Hagiography'"]
+}

@@ -1,0 +1,59 @@
+{
+  "name": "Hadrian's Wall and Roman",
+  "text": "Hadrian's Wall and Roman Britain's northern frontier is a map caption. This stone and turf barrier ran about 117 km from Bowness (Maia) on the Solway to a Wallsend fort on the Tyne. The west was turf-built, the east part stone. Mile castles and turrets lined it, and the vallum ditch guarded its south. Not a solid defence, it served as a forward post controlling traffic and trade between the Roman province and the free northern tribes.",
+  "entities": [
+    {
+      "entity": "Hadrian's Wall",
+      "type": "Place"
+    },
+    {
+      "entity": "Roman",
+      "type": "Group"
+    },
+    {
+      "entity": "Hadrian",
+      "type": "Person"
+    },
+    {
+      "entity": "Bowness",
+      "type": "Place"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Hadrian's Wall",
+      "attribute": "is a stone and turf barrier of about 117 km"
+    },
+    {
+      "entity": "Hadrian's Wall",
+      "attribute": "runs from Bowness on the Solway to a Wallsend fort on the Tyne"
+    },
+    {
+      "entity": "Hadrian's Wall",
+      "attribute": "has a turf-built western section and a stone eastern section"
+    },
+    {
+      "entity": "Hadrian's Wall",
+      "attribute": "controls traffic and trade between the Roman province and free northern tribes"
+    },
+    {
+      "entity": "Roman",
+      "attribute": "garrisoned forts along the wall with auxiliary troops and legionaries"
+    }
+  ],
+  "sources": [
+    "Koch 2006, s.v. 'Hadrian's Wall and Roman Britain's northern frontier'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Establishes Hadrian's Wall as the stone and turf barrier forming Roman Britain's northern frontier, with its structure, garrisons, and purpose.",
+    "key_results": [
+      "Notes the wall length of about 117 km from Bowness to Wallsend",
+      "Describes the turf west and the stone east sections with vallum ditch",
+      "Records the purpose of controlling traffic and trade between the Roman province and free tribes"
+    ],
+    "evidence": "Koch 2006, s.v. 'Hadrian's Wall and Roman Britain's northern frontier'."
+  }
+}

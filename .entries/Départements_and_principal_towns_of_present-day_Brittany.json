@@ -1,0 +1,77 @@
+{
+  "name": "Départements and principal towns of present-day Brittany",
+  "text": "Present-day Brittany, the western French peninsula, is divided into the administrative départements and their principal towns. The eastern part, where the Gallo language is spoken, holds the French-speaking dioceses and their chief cities: Rennes, known as Roazhon in Breton, Nantes, called Naoned, Saint-Malo or Sant Malo, and Saint-Brieuc. The western counterpart, where Breton speech survives, is named Lower Brittany, while the Gallo-speaking east is Upper Brittany. Within this western zone the four Breton-speaking dioceses appear, those of Corn, Vannes or Gwened, Leon and Tregor. The historic cap such towns grew in the lands around Rennes, Nantes, Saint-Malo and Saint-Brieuc.",
+  "entities": [
+    {
+      "entity": "Brittany",
+      "type": "Place"
+    },
+    {
+      "entity": "Rennes (Roazhon)",
+      "type": "Place"
+    },
+    {
+      "entity": "Nantes (Naoned)",
+      "type": "Place"
+    },
+    {
+      "entity": "Saint-Brieuc (Sant-Brieg)",
+      "type": "Place"
+    },
+    {
+      "entity": "Saint-Malo (Sant Malo)",
+      "type": "Place"
+    },
+    {
+      "entity": "Kernev (Cornou)",
+      "type": "Place"
+    },
+    {
+      "entity": "Gwened (Vannes)",
+      "type": "Place"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Brittany",
+      "attribute": "is split between a western Breton-speaking Lower Brittany and an eastern Gallo-speaking Upper Brittany."
+    },
+    {
+      "entity": "Rennes (Roazhon)",
+      "attribute": "principal town of the eastern, Gallo-speaking part of Brittany."
+    },
+    {
+      "entity": "Nantes (Naoned)",
+      "attribute": "French-speaking town in the eastern zone of present-day Brittany."
+    },
+    {
+      "entity": "Saint-Brieuc (Sant-Brieg)",
+      "attribute": "French-speaking town whose district in part also preserves Breton."
+    },
+    {
+      "entity": "Kerneve (Cornou)",
+      "attribute": "one of the four Breton-speaking western dioceses."
+    },
+    {
+      "entity": "Gwened (Vannes)",
+      "attribute": "one of the four Breton-speaking western dioceses."
+    }
+  ],
+  "sources": [
+    "Koch 2006, s.v. 'Départements and principal towns of present-day Brittany'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Document the administrative départements and principal towns of present-day Brittany, including their east-west language split.",
+    "key_results": [
+      "Identify the eastern French-speaking towns, led by Rennes and Nantes.",
+      "Map the division into Lower and Upper Brittany by language of speech.",
+      "List the western Breton-speaking dioceses and their towns."
+    ],
+    "evidence": [
+      "Koch 2006, s.v. 'Départements and principal towns of present-day Brittany'"
+    ]
+  }
+}
