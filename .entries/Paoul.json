@@ -1,0 +1,64 @@
+{
+  "name": "Paoul",
+  "text": "Paoul is an Iron Age settlement in Brittany. It stands at Paule, Le Camp de Saint-Symphorien, in the Côtes-d'Armor. Its story tracks a run of social and economic changes. Around 600 BC a farm rose on the ground. A ditch first enclosed it, and later an earthen bank. Inside this first earthwork stood a dwelling. The diggers found underground spaces that served as cellars. At the coming of the third century BC the place changed sharply. Strong defences came to ring the central area. Ramparts and deep ditches made up these defences. The space held many storage pits. The enclosure gave onto a forecourt. Its layout recalls a medieval castle. The settlers' wealth shows in the imported amphorae. These big pottery vessels held wine. Clear marks of iron, bronze, and gold work also appear. Among them are the moulds and crucibles of goldsmiths. Four carved human figures of stone came from the ditches. They date from the second century into the early first century BC. One shows a man holding a lyre and wearing a torc. This figure appears to be a bard of the kind Greek and Roman writers describe. Around the mid-first century BC the ramparts came down. People left the site near the time of Caesar's wars in Gaul. Paoul is a rare case of a working farm. It became a stoutly guarded aristocratic seat. Farming and craft both fed the local economy.",
+  "entities": [
+    {
+      "entity": "Paoul",
+      "type": "Place"
+    },
+    {
+      "entity": "Paule",
+      "type": "Place"
+    },
+    {
+      "entity": "Côtes-d'Armor",
+      "type": "Place"
+    },
+    {
+      "entity": "Brittany",
+      "type": "Place"
+    },
+    {
+      "entity": "Gaul",
+      "type": "Place"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Paoul",
+      "attribute": "archaeological site at Paule, Le Camp de Saint-Symphorien in Brittany"
+    },
+    {
+      "entity": "Paoul",
+      "attribute": "began as a 6th century BC farm and became a fortified aristocratic residence"
+    },
+    {
+      "entity": "Paoul",
+      "attribute": "yielded four anthropomorphic stone statues including a lyre-playing bard with a torc"
+    },
+    {
+      "entity": "Paoul",
+      "attribute": "site abandoned in the mid 1st century BC near the time of Caesar's conquest of Gaul"
+    },
+    {
+      "entity": "Brittany",
+      "attribute": "region that holds the Paoul archaeological settlement"
+    }
+  ],
+  "okr": {
+    "objective": "Document the Iron Age archaeological settlement of Paoul.",
+    "key_results": [
+      "Describe the 6th century BC farm and its fortifications",
+      "Record the wealth markers including imported amphorae and gold-working",
+      "Note the four anthropomorphic stone statues and the bard figure",
+      "Report the abandonment of the site in the mid 1st century BC"
+    ],
+    "evidence": "Koch 2006, s.v. 'Paoul'."
+  },
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "sources": [
+    "Koch 2006, s.v. 'Paoul'"
+  ]
+}

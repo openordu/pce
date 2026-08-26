@@ -1,0 +1,68 @@
+{
+  "name": "Patagonia",
+  "text": "Patagonia is the setting of Y Wladfa. This is the Welsh colony in Chubut, Argentina. It stands out as the one place where the Welsh language enjoys greater daily use than English. Michael D. Jones championed the plan to plant a colony. He later headed the Congregational Theological College at Bala. He wanted a settlement able to hold off assimilation. The Welsh Colony Movement fixed on Patagonia for its New Wales. The roomy land drew it. So did the stretch of empty country far from other European settlement. After a voyage of three months, 153 Welsh people came ashore at New Bay. They landed on the twenty-eighth of July 1865. The start was bitter, with crops that failed. By 1867 the numbers had sunk to 116. Still the hope of a Welsh-speaking community held firm. Within a decade or so of the 1880s the colony was plainly thriving. The whole Chubut valley lay settled. Out of bare ground the settlers raised fields and orchards. They went on to raise farms, chapels, and towns. A network of roads and a railway also took shape. A local government ran its business wholly in Welsh. In 1904 the Intermediate School of Gaiman opened. In 1896 the Argentine state took over the schools. It drove a policy of Spanish only. By the 1970s most Welsh speakers left were over forty. From the 1980s feeling turned. In 1997 the Welsh Office paid for teachers of Welsh in Chubut. The project carried on after its first three years.",
+  "entities": [
+    {
+      "entity": "Patagonia",
+      "type": "Place"
+    },
+    {
+      "entity": "Chubut",
+      "type": "Place"
+    },
+    {
+      "entity": "Y Wladfa",
+      "type": "Place"
+    },
+    {
+      "entity": "Michael D. Jones",
+      "type": "Person"
+    },
+    {
+      "entity": "Gaiman",
+      "type": "Place"
+    },
+    {
+      "entity": "Cymry",
+      "type": "Group"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Patagonia",
+      "attribute": "site of the Welsh settlement Y Wladfa in Chubut, Argentina"
+    },
+    {
+      "entity": "Patagonia",
+      "attribute": "place where the Welsh language has greater currency than English"
+    },
+    {
+      "entity": "Michael D. Jones",
+      "attribute": "supporter of a Welsh-speaking colony able to resist acculturation"
+    },
+    {
+      "entity": "Chubut",
+      "attribute": "province settled by 153 Welsh colonists who landed in July 1865"
+    },
+    {
+      "entity": "Gaiman",
+      "attribute": "site of the Intermediate School founded in 1904"
+    }
+  ],
+  "okr": {
+    "objective": "Document the Welsh settlement of Patagonia, Y Wladfa.",
+    "key_results": [
+      "Record the landing of the colonists in July 1865 under Michael D. Jones",
+      "Describe the growth of the Chubut valley settlement by the 1890s",
+      "Note the monolingual Spanish school policy from 1896",
+      "Report the Welsh language revival and the 1997 teaching project"
+    ],
+    "evidence": "Koch 2006, s.v. 'Patagonia'."
+  },
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "sources": [
+    "Koch 2006, s.v. 'Patagonia'"
+  ]
+}
