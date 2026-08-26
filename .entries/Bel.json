@@ -1,0 +1,47 @@
+{
+  "name": "Bel",
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "text": "Bel is an alternate spelling for the name Belenus, the Continental Celtic deity of light and of the sun. A reader who meets the shorter form should look to the fuller Belenus entry for the tale of this solar power. There the rites paid to it are also set out. For this work Bel and Belenus name the same shining god, honoured across ancient Gaul.",
+  "entities": [
+    {
+      "entity": "Bel",
+      "type": "Deity"
+    },
+    {
+      "entity": "Belenus",
+      "type": "Deity"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Bel",
+      "attribute": "an alternate spelling of the name Belenus"
+    },
+    {
+      "entity": "Bel",
+      "attribute": "denotes a god of the sun and of light"
+    },
+    {
+      "entity": "Bel",
+      "attribute": "treated as the same deity as Belenus"
+    },
+    {
+      "entity": "Belenus",
+      "attribute": "the target deity of the Bel cross-reference"
+    }
+  ],
+  "okr": {
+    "objective": "Provide a short cross-reference telling that Bel points to Belenus.",
+    "key_results": [
+      "Bel is an alternate spelling of the name Belenus.",
+      "Bel denotes a god of the sun and of light.",
+      "Bel is treated as the same deity as Belenus."
+    ],
+    "evidence": "MacKillop 2008, s.v. Bel."
+  },
+  "sources": [
+    "MacKillop 2008, s.v. Bel."
+  ]
+}

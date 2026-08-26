@@ -58,6 +58,7 @@ layout: layouts/pce.njk
 - [Bedwyr](Bedwyr)
 - [bee](bee)
 - [beech tree](beech_tree)
+- [Bel](Bel)
 - [Belatucadros](Belatucadros)
 - [Belenus](Belenus)
 - [BELGAE](BELGAE)

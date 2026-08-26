@@ -2,60 +2,60 @@
 layout: layouts/pce.njk
 title: Belisama
 icon: file-lines
-order: 225
+order: 238
 contributors: [ 'Christopher Godwin' ]
 attributes:
-  - Peg's Night tradition
-  - small birds sacrificed
-  - animals sacrificed
-  - waters sacrifice to
-  - human sacrifice memory of
-  - water divinity worshipped
+  - Belisama goddess of rivers and the cosmos
+  - Belisama venerated in Celtic Gaul and Britain as a lake- and river-goddess
+  - Belisama name derives from words for brightness or shining
+  - Belisama equated by the Romans with Minerva
+  - Belisama linked by tradition to the Irish flame goddess Brigit
+  - Ribble once carried the name of Belisama
+  - Vaison site in south-eastern France where Belisama was venerated
 categories:
-  - Event
-  - Practice
-  - Animal
   - Deity
-  - Body of water
+  - Place
 entities:
-  - Peg's Night(Event)
-  - small birds(Animal)
-  - animals(Animal)
-  - waters(Body of water)
-  - human sacrifice(Practice)
-  - water divinity(Deity)
+  - Belisama(Deity)
+  - Brigit(Deity)
+  - Minerva(Deity)
+  - Sul(Deity)
+  - Ribble(Place)
+  - Vaison(Place)
 tags:
-  - Peg's Night
-  - small birds
-  - animals
-  - waters
-  - human sacrifice
-  - water divinity
+  - Belisama
+  - Brigit
+  - Minerva
+  - Sul
+  - Ribble
+  - Vaison
 ---
 ``` tab [group1:Info]
 ::: magazinestyle
-A goddess named Belisama (alternatively Belesama or Belisma) was worshipped in various locations throughout the ancient Celtic world, being a peculiar deity in that most gods were only worshipped at one site. She was both a cosmic goddess and one associated with the rivers, which sheltered the supreme deities for good luck and prosperity according to the Celts. The name Belisama possibly derives from words meaning "brightness" or "shining," leading some to believe she could be a continental Celtic equivalent to Brigit, the Irish goddess of healing associated with flames. The Romans connected Belisama to Minerva, as they did with Sul of Bath, the goddess of hot springs, suggesting that Belisama may have originally presided over healing, water, and the solar flame. Ptolemy, an ancient Egyptian geographer, stated that in Lancashire, the River Ribble was once named after Belisama, and the headless statue found close to the river is believed to represent her. Peg O’Nell is the name that the spirit of the Ribble was recently given, a servant girl who drowned while retrieving water, and who is said to return every seventh year to claim a victim. Sacrificing small birds or animals to the waters was a tradition that allegedly avoided such a human tragedy on Peg's Night, and it was connected by some to a remembrance of human offerings to the water deity.
+Belisama is a goddess of lakes and rivers who kept honor across Celtic Gaul and Britain. Roman writers linked her to Minerva, the deity of wisdom and war. Ptolemy, the ancient geographer, named the Ribble River after her and sealed that map amid his second-century account. Her cult also reached the place now called Vaison in the Vaucluse region of south-eastern France. Some writers render her name as Belesama and Belisma. The word is thought to spring from Celtic roots for brightness and shining. Many view her as a kin of Brigit, the Irish flame goddess of fire. Just as the Romans placed Sul of Bath beside Minerva, so they granted Belisama an equal rank. Sul watched over the healing springs of that town. A headless statue lifted beside the Ribble is often taken as her likeness. Later legend set that water into the home of Peg O'Neill, a drowned serving girl. In some tales that girl claims a victim every seven years. In Gaul and Britain alike Belisama granted fortune and light to those who drew near her streams.
 
 :::
 ```
 ``` tab [group1:Attributes]
-- **Peg's Night**: tradition
-- **small birds**: sacrificed
-- **animals**: sacrificed
-- **waters**: sacrifice to
-- **human sacrifice**: memory of
-- **water divinity**: worshipped
+- **Belisama**: goddess of rivers and the cosmos
+- **Belisama**: venerated in Celtic Gaul and Britain as a lake- and river-goddess
+- **Belisama**: name derives from words for brightness or shining
+- **Belisama**: equated by the Romans with Minerva
+- **Belisama**: linked by tradition to the Irish flame goddess Brigit
+- **Ribble**: once carried the name of Belisama
+- **Vaison**: site in south-eastern France where Belisama was venerated
 ```
 ``` tab [group1:Entities]
-- **Peg's Night**: Event
-- **small birds**: Animal
-- **animals**: Animal
-- **waters**: Body of water
-- **human sacrifice**: Practice
-- **water divinity**: Deity
+- **Belisama**: Deity
+- **Brigit**: Deity
+- **Minerva**: Deity
+- **Sul**: Deity
+- **Ribble**: Place
+- **Vaison**: Place
 ```
 ``` tab [group1:Sources]
 - Spence, Lewis. The Minor Traditions of British Mythology. (New York: Benjamin Blom, Inc., 1972), 11.
 - Straffon, Cheryl. The Earth Goddess: Celtic and Pagan Legacy of the Landscape. London: Blandford, 1997, 141.
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
+- MacKillop 2008, s.v. Belisama.
 ```
