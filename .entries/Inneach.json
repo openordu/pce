@@ -1,0 +1,22 @@
+{
+  "name": "Inneach",
+  "text": "Inneach is a later form of the Irish name of a warrior of the Fomorians. The Fomorians are the older enemies of the people of the goddess. The elder Irish form of the name is Indech. In the account of the second battle, the two armies meet on the north of the land. The old manuscripts write the name in both shapes.",
+  "entities": [
+    {"entity": "Inneach", "type": "Person"},
+    {"entity": "Indech", "type": "Person"},
+    {"entity": "Fomorians", "type": "Group"},
+    {"entity": "Mag Tuired", "type": "Place"}
+  ],
+  "attributes": [
+    {"entity": "Inneach", "attribute": "variant of the Fomorian leader Indech"}
+  ],
+  "sources": ["MacKillop 2008, s.v. 'Inneach'"],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Record Inneach.",
+    "key_results": ["Give the older name.", "Set the figure among the Fomorians.", "Place him at the great battle."],
+    "evidence": "MacKillop 2008, s.v. 'Inneach'"
+  }
+}

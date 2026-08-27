@@ -1,0 +1,20 @@
+{
+  "name": "Inis Ealga",
+  "text": "Inis Ealga is a poetic name for the isle of Ireland. The phrase means the noble isle. It appears in the old verse as a praising name for the country. The title stands beside the other poetic names of Ireland in the stories.",
+  "entities": [
+    {"entity": "Inis Ealga", "type": "Place"},
+    {"entity": "Ireland", "type": "Place"}
+  ],
+  "attributes": [
+    {"entity": "Inis Ealga", "attribute": "poetic name for Ireland"}
+  ],
+  "sources": ["MacKillop 2008, s.v. 'Inis Ealga'"],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Record Inis Ealga.",
+    "key_results": ["Translate the name.", "Say which land it marks.", "Set it among the poetic titles."],
+    "evidence": "MacKillop 2008, s.v. 'Inis Ealga'"
+  }
+}

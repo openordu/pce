@@ -1,0 +1,21 @@
+{
+  "name": "Inis Fionnchuire",
+  "text": "Inis Fionnchuire is a place in early Irish story. It is an island imagined to lie beneath the sea. The isle is peopled by women of the other world. In the tale of the sons of Tuirean, the heroes are sent to bring a rod from this island. The name also has other spellings in the old texts.",
+  "entities": [
+    {"entity": "Inis Fionnchuire", "type": "Place"},
+    {"entity": "Tuirean", "type": "Group"},
+    {"entity": "Ireland", "type": "Place"}
+  ],
+  "attributes": [
+    {"entity": "Inis Fionnchuire", "attribute": "island beneath the sea in Irish story"}
+  ],
+  "sources": ["MacKillop 2008, s.v. 'Inis Fionnchuire'"],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Record Inis Fionnchuire.",
+    "key_results": ["Set the island beneath the sea.", "Name the women who live there.", "Tell of the sons of Tuirean."],
+    "evidence": "MacKillop 2008, s.v. 'Inis Fionnchuire'"
+  }
+}

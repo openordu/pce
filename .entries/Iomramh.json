@@ -1,0 +1,21 @@
+{
+  "name": "Iomramh",
+  "text": "Iomramh is an Irish word that means a voyage by sea. It also gives its name to a class of sea stories. In these tales a traveller sets out over the water in a small boat. The modern word stays close to the oldest forms of the same account.",
+  "entities": [
+    {"entity": "Iomramh", "type": "Work"},
+    {"entity": "Imram", "type": "Work"},
+    {"entity": "Ireland", "type": "Place"}
+  ],
+  "attributes": [
+    {"entity": "Iomramh", "attribute": "Irish word for a sea voyage story"}
+  ],
+  "sources": ["MacKillop 2008, s.v. 'Iomramh'"],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Record Iomramh.",
+    "key_results": ["Translate the word.", "Name the kind of tale.", "Join it with the old form."],
+    "evidence": "MacKillop 2008, s.v. 'Iomramh'"
+  }
+}

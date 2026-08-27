@@ -1,0 +1,22 @@
+{
+  "name": "Inber Glas",
+  "text": "Inber Glas is an Irish phrase that means green harbour. It is the title by which the old Irish knew the long water where the River Bann enters the sea. That estuary lies today in County Derry of Northern Ireland. After the young woman Tuag drowned in these waters, some called the place Tuagh Inber.",
+  "entities": [
+    {"entity": "Inber Glas", "type": "Place"},
+    {"entity": "Bann", "type": "Place"},
+    {"entity": "Tuag", "type": "Person"},
+    {"entity": "Derry", "type": "Region"}
+  ],
+  "attributes": [
+    {"entity": "Inber Glas", "attribute": "old Irish name for the mouth of the Bann"}
+  ],
+  "sources": ["MacKillop 2008, s.v. 'Inber Glas'"],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Record Inber Glas.",
+    "key_results": ["Translate the name.", "Locate the harbour at the Bann mouth.", "Tell of Tuag and the second name."],
+    "evidence": "MacKillop 2008, s.v. 'Inber Glas'"
+  }
+}
