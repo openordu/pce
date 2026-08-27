@@ -1,0 +1,52 @@
+{
+  "name": "Bealcu",
+  "fname": "Bealcu.json",
+  "text": "Bealcu is a variant of the name of the Ulster hero Bélchú. The sources say Bélchú came from the west of Ireland. He met the wounded hero Conall Cernach after a great fight. Moved by the agony he took the man home and healed his wounds. His three sons then planned to slay the guest. The hero turned the scheme so the sons slew their own father.",
+  "entities": [
+    {
+      "entity": "Bealcu",
+      "type": "Character"
+    },
+    {
+      "entity": "Conall Cernach",
+      "type": "Character"
+    },
+    {
+      "entity": "Bélchú",
+      "type": "Character"
+    },
+    {
+      "entity": "Ulster Cycle",
+      "type": "Work"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Bealcu",
+      "attribute": "a variant of the name Bélchú"
+    },
+    {
+      "entity": "Bealcu",
+      "attribute": "a warrior of the west in the Ulster Cycle"
+    },
+    {
+      "entity": "Bealcu",
+      "attribute": "heals the wounded hero Conall"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Bealcu'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Record the warrior Bealcu and the part he plays.",
+    "key_results": [
+      "Give the variant name.",
+      "Name the wounded hero.",
+      "Tell how the sons fall."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Bealcu'"
+  }
+}

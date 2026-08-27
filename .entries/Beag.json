@@ -1,0 +1,48 @@
+{
+  "name": "Beag",
+  "fname": "Beag.json",
+  "text": "Beag is an Irish name that carries the sense of the one that is little. The older shape of Béc is Becc, and Beag along with Béc turn up in the texts. Several persons in the early stories bear this name, some men and at least one woman. One such bearer is a fighter from the western lands. The form stays common in the old literature.",
+  "entities": [
+    {
+      "entity": "Beag",
+      "type": "Character"
+    },
+    {
+      "entity": "Béc",
+      "type": "Character"
+    },
+    {
+      "entity": "Ireland",
+      "type": "Place"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Beag",
+      "attribute": "the name means the little or the small"
+    },
+    {
+      "entity": "Beag",
+      "attribute": "borne by several persons in early story"
+    },
+    {
+      "entity": "Beag",
+      "attribute": "one bearer is a fighter from the west"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Beag'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Record the name Beag and the figures who bore it.",
+    "key_results": [
+      "Give the sense of the name.",
+      "List the alternate forms.",
+      "Name a fighter bearer of the name."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Beag'"
+  }
+}

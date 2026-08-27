@@ -1,0 +1,52 @@
+{
+  "name": "Baiscne",
+  "fname": "Ba_scne.json",
+  "text": "Baiscne names a clan that runs through the old tales of Ireland. It ranks among the two great families inside the Fianna of the Fenian Cycle. The chief of this clan was the hero Fionn mac Cumhaill. A separate clan, the clan Morna, followed a rival leader. The spelling shifts across the sources, and Baiscne takes the forms Baoiscne and a host of variants.",
+  "entities": [
+    {
+      "entity": "Baiscne",
+      "type": "Group"
+    },
+    {
+      "entity": "Fianna",
+      "type": "Group"
+    },
+    {
+      "entity": "Fionn mac Cumhaill",
+      "type": "Character"
+    },
+    {
+      "entity": "clan Morna",
+      "type": "Group"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Baiscne",
+      "attribute": "one of two great families of the Fianna"
+    },
+    {
+      "entity": "Baiscne",
+      "attribute": "the clan led by Fionn mac Cumhaill"
+    },
+    {
+      "entity": "Baiscne",
+      "attribute": "a form with several variants in the sources"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Baiscne'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Record the clan Baiscne of the Fenian Cycle.",
+    "key_results": [
+      "Name the chief Fionn.",
+      "Give the clan Morna.",
+      "List the variants of the name."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Baiscne'"
+  }
+}

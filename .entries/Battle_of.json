@@ -1,0 +1,52 @@
+{
+  "name": "Battle of",
+  "fname": "Battle_of.json",
+  "text": "Battle of works as a cross-reference marker in this source dictionary. The term sends a reader toward a longer account stored under its own title. The Welsh story of the fighting trees is Cad Goddeu. The parallel Irish account is Cath Maige Tuired, the tale of the gods who clashed with their foes.",
+  "entities": [
+    {
+      "entity": "Battle of the Trees",
+      "type": "Work"
+    },
+    {
+      "entity": "Cad Goddeu",
+      "type": "Work"
+    },
+    {
+      "entity": "Cath Maige Tuired",
+      "type": "Work"
+    },
+    {
+      "entity": "Tuatha Dé Danann",
+      "type": "Group"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Battle of",
+      "attribute": "a cross-reference marker in the dictionary"
+    },
+    {
+      "entity": "Battle of",
+      "attribute": "the Welsh account is Cad Goddeu"
+    },
+    {
+      "entity": "Battle of",
+      "attribute": "the Irish account is Cath Maige Tuired"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Battle of'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Record the cross-reference marker Battle of as a headword.",
+    "key_results": [
+      "Give the Welsh title.",
+      "Give the Irish title.",
+      "Name the gods of the Irish tale."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Battle of'"
+  }
+}

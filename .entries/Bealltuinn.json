@@ -1,0 +1,52 @@
+{
+  "name": "Bealltuinn",
+  "fname": "Bealltuinn.json",
+  "text": "Bealltuinn is the Scottish Gaelic form of the feast fixed at the first warm day. It is rendered into English as Beltaine. The celebration numbers among the four great feasts of the Celtic year, placed beside Imbolc and Samhain. Fires were built and the cattle were driven between the flames. The name keeps the old speech of the May festival.",
+  "entities": [
+    {
+      "entity": "Bealltuinn",
+      "type": "Legend"
+    },
+    {
+      "entity": "Beltaine",
+      "type": "Legend"
+    },
+    {
+      "entity": "Imbolc",
+      "type": "Legend"
+    },
+    {
+      "entity": "Samhain",
+      "type": "Legend"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Bealltuinn",
+      "attribute": "the Scottish Gaelic form of Beltaine"
+    },
+    {
+      "entity": "Bealltuinn",
+      "attribute": "the feast of the first day of May"
+    },
+    {
+      "entity": "Bealltuinn",
+      "attribute": "one of the high feasts of the year"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Bealltuinn'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Give the Scottish form of the May feast name.",
+    "key_results": [
+      "Give the English form Beltaine.",
+      "Give the day of the feast.",
+      "Name other feasts of the ring."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Bealltuinn'"
+  }
+}
