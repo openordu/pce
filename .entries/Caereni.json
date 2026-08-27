@@ -1,0 +1,55 @@
+{
+  "name": "Caereni",
+  "text": "Caereni were a group of the old Roman age. They formed one member of the Caledonian confederation. Their tribe held a district that matched north-west Sutherland. The county area went on intact until 1974 within the Highlands. They filled the far north-west corner of that land. Caereni stood as part of the greater northern alliance. Their name thus recalls a Caledonian folk of that region.",
+  "entities": [
+    {
+      "entity": "Caereni",
+      "type": "Place"
+    },
+    {
+      "entity": "Caledonian",
+      "type": "People"
+    },
+    {
+      "entity": "Sutherland",
+      "type": "Place"
+    },
+    {
+      "entity": "Highlands",
+      "type": "Place"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Caereni",
+      "attribute": "a tribe of the Roman age in Scotland"
+    },
+    {
+      "entity": "Caereni",
+      "attribute": "member of the Caledonian confederation"
+    },
+    {
+      "entity": "Sutherland",
+      "attribute": "matched by the territory of Caereni in its north-west"
+    },
+    {
+      "entity": "Highlands",
+      "attribute": "holding the Caereni district until 1974"
+    }
+  ],
+  "okr": {
+    "objective": "Present Caereni as a Roman-age tribe of the Caledonian confederation in the Highlands.",
+    "key_results": [
+      "call Caereni a tribe of the Roman age",
+      "link them to the Caledonian confederation",
+      "place their ground in north-west Sutherland and the Highlands"
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Caereni'."
+  },
+  "sources": [
+    "MacKillop 2008, s.v. 'Caereni'."
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": ""
+}

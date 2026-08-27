@@ -1,0 +1,55 @@
+{
+  "name": "Caer Lundain",
+  "text": "Caer Lundain is a variant spelling of the newer Welsh name for London. The fuller form is Caer Llundain, and the pair Lundein stands beside it. All these words name the same English capital. More recent Welsh speech gave London this fresh title. The older name Caer Lludd stayed in memory all the while. So Caer Lundain and Caer Llundain meet at one city. The capital keeps a Welsh voice in both forms.",
+  "entities": [
+    {
+      "entity": "Caer Lundain",
+      "type": "Place"
+    },
+    {
+      "entity": "Caer Llundain",
+      "type": "Place"
+    },
+    {
+      "entity": "London",
+      "type": "Place"
+    },
+    {
+      "entity": "Lundein",
+      "type": "Place"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Caer Lundain",
+      "attribute": "variant spelling of Caer Llundain"
+    },
+    {
+      "entity": "Caer Llundain",
+      "attribute": "fuller Welsh name for London"
+    },
+    {
+      "entity": "Lundein",
+      "attribute": "another variant of the same name"
+    },
+    {
+      "entity": "London",
+      "attribute": "styled Caer Lundain in Welsh speech"
+    }
+  ],
+  "okr": {
+    "objective": "Present Caer Lundain and Lundein as variant spellings of Caer Llundain for London.",
+    "key_results": [
+      "call Caer Lundain a variant spelling",
+      "match it to the fuller form Caer Llundain",
+      "record Lundein as the twin variant"
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Caer Lundain'."
+  },
+  "sources": [
+    "MacKillop 2008, s.v. 'Caer Lundain'."
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": ""
+}
