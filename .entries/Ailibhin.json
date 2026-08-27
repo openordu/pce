@@ -1,0 +1,27 @@
+{
+  "name": "Ailibhin",
+  "text": "Ailibhin is a variant of Ainnle, a son of Usnech in Irish legend. The Scottish texts favor this spelling. Ainnle ranks among the three sons of Usnech who appear in Deirdre's tale. Readers should see the Ainnle entry for that fuller portrait.",
+  "entities": [
+    {"entity": "Ailibhin", "type": "Character"},
+    {"entity": "Ainnle", "type": "Character"},
+    {"entity": "sons of Usnech", "type": "Group"}
+  ],
+  "attributes": [
+    {"entity": "Ailibhin", "attribute": "a variant of the name Ainnle"},
+    {"entity": "Ailibhin", "attribute": "the spelling favored in Scottish texts"},
+    {"entity": "Ailibhin", "attribute": "links to the sons of Usnech via Ainnle"}
+  ],
+  "sources": ["MacKillop 2008, s.v. 'Ailibhin'"],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Record Ailibhin as a Scottish variant of Ainnle.",
+    "key_results": [
+      "Mark Ailibhin as a form of Ainnle.",
+      "Note the Scottish use of the spelling.",
+      "Point to the Ainnle entry."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Ailibhin'"
+  }
+}

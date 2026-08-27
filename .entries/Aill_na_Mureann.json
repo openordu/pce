@@ -1,0 +1,26 @@
+{
+  "name": "Aill na Mureann",
+  "text": "Aill na Mureann, also written Ail na Mirenn, is a place name linked to Uisnech. Uisnech is the hill of the stone of divisions in Irish tradition. This Aill names a spot on that sacred hill. Readers should see the Uisnech entry for the site and its lore.",
+  "entities": [
+    {"entity": "Aill na Mureann", "type": "Place"},
+    {"entity": "Uisnech", "type": "Place"}
+  ],
+  "attributes": [
+    {"entity": "Aill na Mureann", "attribute": "also written Ail na Mirenn"},
+    {"entity": "Aill na Mureann", "attribute": "a place name at the hill of Uisnech"},
+    {"entity": "Aill na Mureann", "attribute": "the stone of divisions site of Uisnech"}
+  ],
+  "sources": ["MacKillop 2008, s.v. 'Aill na Mureann'"],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Record Aill na Mureann as a name tied to Uisnech.",
+    "key_results": [
+      "Give the alternate spelling Ail na Mirenn.",
+      "Link the place to the hill of Uisnech.",
+      "Point to the Uisnech entry."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Aill na Mureann'"
+  }
+}

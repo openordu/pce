@@ -1,0 +1,24 @@
+{
+  "name": "Ailleann",
+  "text": "Ailleann is a variant of Dún Ailinne, the royal hillfort of eastern Ireland. The alternate spelling marks the same site in early legend. Ailleann fits beside its longer Dún Ailinne form. Readers should see the Dún Ailinne entry for details of the fort and its rites.",
+  "entities": [
+    {"entity": "Ailleann", "type": "Place"},
+    {"entity": "Dún Ailinne", "type": "Place"}
+  ],
+  "attributes": [
+    {"entity": "Ailleann", "attribute": "a variant of Dún Ailinne"},
+    {"entity": "Ailleann", "attribute": "names the same royal hillfort as its longer form"}
+  ],
+  "sources": ["MacKillop 2008, s.v. 'Ailleann'"],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Give Ailleann as a variant name of Dún Ailinne.",
+    "key_results": [
+      "Identify Ailleann with the fort Dún Ailinne.",
+      "Send readers to the Dún Ailinne entry."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Ailleann'"
+  }
+}

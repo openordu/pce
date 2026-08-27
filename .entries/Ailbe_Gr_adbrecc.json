@@ -1,0 +1,32 @@
+{
+  "name": "Ailbe Grúadbrecc",
+  "text": "Ailbe Grúadbrecc, daughter of Cormac mac Airt, was sister to Gráinne. Her name means Ailbe of the freckled cheeks. Fionn mac Cumhaill courted her after Gráinne left him. He posed her a series of riddles. He asked her to dwell in the woods and become his bride. Cailte judged that Ailbe stood among the four finest lovers of the women of Ireland in his time. Tochmarc Ailbe, the Wooing of Ailbe, records her story.",
+  "entities": [
+    {"entity": "Ailbe Grúadbrecc", "type": "Character"},
+    {"entity": "Cormac mac Airt", "type": "Hero"},
+    {"entity": "Gráinne", "type": "Character"},
+    {"entity": "Fionn mac Cumhaill", "type": "Hero"},
+    {"entity": "Cailte", "type": "Character"},
+    {"entity": "Tochmarc Ailbe", "type": "Text"}
+  ],
+  "attributes": [
+    {"entity": "Ailbe Grúadbrecc", "attribute": "daughter of Cormac mac Airt"},
+    {"entity": "Ailbe Grúadbrecc", "attribute": "sister of Gráinne"},
+    {"entity": "Ailbe Grúadbrecc", "attribute": "courted by Fionn mac Cumhaill after Gráinne left him"},
+    {"entity": "Ailbe Grúadbrecc", "attribute": "numbered among the four finest lovers in Ireland by Cailte"},
+    {"entity": "Ailbe Grúadbrecc", "attribute": "heroine of the Tochmarc Ailbe story"}
+  ],
+  "sources": ["MacKillop 2008, s.v. 'Ailbe Grúadbrecc'"],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Profile Ailbe Grúadbrecc as a heroine of early Irish tale.",
+    "key_results": [
+      "Set her as daughter of Cormac mac Airt and sister of Gráinne.",
+      "Name her courting by Fionn mac Cumhaill.",
+      "Cite the Tochmarc Ailbe as the tale that keeps her story."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Ailbe Grúadbrecc'"
+  }
+}

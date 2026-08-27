@@ -1,0 +1,28 @@
+{
+  "name": "Ailill Ólum",
+  "text": "Ailill Ólum, also written Olum or Ólom, is a variant of the name Ailill Aulomm. The three spellings mark the same figure in Irish legend. Ailill Aulomm fathered Eógan and fostered Lugaid mac Con. Readers should see the Ailill Aulomm entry for the full portrait.",
+  "entities": [
+    {"entity": "Ailill Ólum", "type": "Character"},
+    {"entity": "Ailill Aulomm", "type": "Character"},
+    {"entity": "Eógan", "type": "Character"},
+    {"entity": "Lugaid mac Con", "type": "Character"}
+  ],
+  "attributes": [
+    {"entity": "Ailill Ólum", "attribute": "a variant of Ailill Aulomm"},
+    {"entity": "Ailill Ólum", "attribute": "also written Olum or Ólom"},
+    {"entity": "Ailill Ólum", "attribute": "cross-reference to the Ailill Aulomm entry"}
+  ],
+  "sources": ["MacKillop 2008, s.v. 'Ailill Ólum'"],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Record Ailill Ólum as a variant of Ailill Aulomm.",
+    "key_results": [
+      "Mark the alternate spellings Olum and Ólom.",
+      "Identify the figure with Ailill Aulomm.",
+      "Point to the main entry."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Ailill Ólum'"
+  }
+}

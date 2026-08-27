@@ -1,0 +1,28 @@
+{
+  "name": "Ailill Érann",
+  "text": "Ailill Érann is another name for Bolg or Bolga, an ancestor of the Fir Bolg. The Lebor Gabála, the Book of Invasions, treats him as a founding figure. This spelling links to the people of the Fir Bolg. Readers should see the Bolg and Fir Bolg entries for the fuller account.",
+  "entities": [
+    {"entity": "Ailill Érann", "type": "Character"},
+    {"entity": "Bolg", "type": "God"},
+    {"entity": "Fir Bolg", "type": "People"},
+    {"entity": "Lebor Gabála", "type": "Text"}
+  ],
+  "attributes": [
+    {"entity": "Ailill Érann", "attribute": "another name for Bolg or Bolga"},
+    {"entity": "Ailill Érann", "attribute": "an ancestor-deity named in the Lebor Gabála"},
+    {"entity": "Ailill Érann", "attribute": "linked to the people of the Fir Bolg"}
+  ],
+  "sources": ["MacKillop 2008, s.v. 'Ailill Érann'"],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Record Ailill Érann as an alternate for Bolg.",
+    "key_results": [
+      "Identify the name with Bolg or Bolga.",
+      "Place the figure in the Lebor Gabála.",
+      "Point to the Fir Bolg people."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Ailill Érann'"
+  }
+}

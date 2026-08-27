@@ -1,0 +1,31 @@
+{
+  "name": "Ailill Ánglonnach",
+  "text": "Ailill Ánglonnach, also written Anguba, was the brother of Eochaid Airem. His name carries the sense of warlike or valiant. He grew sick with longing for Étain, the wife of Eochaid. The physician Fachtna told him that medicine could cure neither the pain of love nor the pain of jealousy. Étain agreed to be his mistress to spare a royal life. She met a man she took for Ailill at a hilltop. That man was Midir, her husband from an earlier life. Tochmarc Étaíne tells this part of her story.",
+  "entities": [
+    {"entity": "Ailill Ánglonnach", "type": "Character"},
+    {"entity": "Eochaid Airem", "type": "Hero"},
+    {"entity": "Étain", "type": "Character"},
+    {"entity": "Fachtna", "type": "Character"},
+    {"entity": "Midir", "type": "God"},
+    {"entity": "Tochmarc Étaíne", "type": "Text"}
+  ],
+  "attributes": [
+    {"entity": "Ailill Ánglonnach", "attribute": "brother of Eochaid Airem"},
+    {"entity": "Ailill Ánglonnach", "attribute": "his name means warlike or valiant"},
+    {"entity": "Ailill Ánglonnach", "attribute": "sick with longing for Étain"},
+    {"entity": "Ailill Ánglonnach", "attribute": "told by Fachtna that love and jealousy defied medicine"}
+  ],
+  "sources": ["MacKillop 2008, s.v. 'Ailill Ánglonnach'"],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Record Ailill Ánglonnach from the Tochmarc Étaíne.",
+    "key_results": [
+      "Set him as brother of Eochaid Airem.",
+      "Give the love and jealousy that sickness caused.",
+      "Note the ruse with Étain and Midir."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Ailill Ánglonnach'"
+  }
+}

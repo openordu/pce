@@ -1,0 +1,43 @@
+{
+  "name": "Ailill mac Máta",
+  "text": "Ailill mac Máta, sometimes mac Máthach, was the husband of Medb in the Táin Bó Cuailnge. Many call him a man of Connacht, yet the text locates him in Leinster within the kin of Russ Ruad. In the pillow talk at the start of the tale he seems subdued, yet Medb praised his courage. He insisted that Medb hold no more goods than he. Their daughters were Finnabair and Faife. In the Táin Bó Fraích he opposed the marriage of Finnabair to Fráech. He helped Angus Óg to besiege Ethal Anbúail. In the Echtra Nerai he sent Nera on his quest. Medb later found him unfaithful and Conall Cearnach slew him at her urging.",
+  "entities": [
+    {"entity": "Ailill mac Máta", "type": "Character"},
+    {"entity": "Medb", "type": "Character"},
+    {"entity": "Connacht", "type": "Place"},
+    {"entity": "Leinster", "type": "Place"},
+    {"entity": "Russ Ruad", "type": "Character"},
+    {"entity": "Finnabair", "type": "Character"},
+    {"entity": "Faife", "type": "Character"},
+    {"entity": "Fráech", "type": "Character"},
+    {"entity": "Táin Bó Cuailnge", "type": "Text"},
+    {"entity": "Táin Bó Fraích", "type": "Text"},
+    {"entity": "Echtra Nerai", "type": "Text"},
+    {"entity": "Angus Óg", "type": "God"},
+    {"entity": "Ethal Anbúail", "type": "Character"},
+    {"entity": "Nera", "type": "Character"},
+    {"entity": "Conall Cearnach", "type": "Hero"}
+  ],
+  "attributes": [
+    {"entity": "Ailill mac Máta", "attribute": "husband of Medb"},
+    {"entity": "Ailill mac Máta", "attribute": "placed in Leinster of the family of Russ Ruad"},
+    {"entity": "Ailill mac Máta", "attribute": "insisted Medb hold no more goods than he"},
+    {"entity": "Ailill mac Máta", "attribute": "father of Finnabair and Faife"},
+    {"entity": "Ailill mac Máta", "attribute": "opposed the marriage of Finnabair to Fráech"},
+    {"entity": "Ailill mac Máta", "attribute": "sent Nera on his quest"},
+    {"entity": "Ailill mac Máta", "attribute": "slain by Conall Cearnach at Medb's urging"}
+  ],
+  "sources": ["MacKillop 2008, s.v. 'Ailill mac Máta'"],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Profile Ailill mac Máta as king and husband of Medb.",
+    "key_results": [
+      "Set him as Medb's husband in the Táin Bó Cuailnge.",
+      "Name his daughters and his conflict with Fráech.",
+      "Record his death at Medb's urging."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Ailill mac Máta'"
+  }
+}

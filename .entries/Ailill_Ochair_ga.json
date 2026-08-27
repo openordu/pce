@@ -1,0 +1,31 @@
+{
+  "name": "Ailill Ochair Ága",
+  "text": "Ailill Ochair Ága, Ailill edge of battle, fathered Máel Dúin. He served as a warrior of the Eóganacht of Ninuss on the Aran Islands. He begot his son by wooing a nun who came to strike the midnight bell. The mother died giving birth. A queen, friend to the mother, then fostered the child. Marauders from Laois later killed Ailill. The Immram Curaig Máel Dúin tells the voyage of his son.",
+  "entities": [
+    {"entity": "Ailill Ochair Ága", "type": "Character"},
+    {"entity": "Máel Dúin", "type": "Hero"},
+    {"entity": "Eóganacht of Ninuss", "type": "Group"},
+    {"entity": "Aran Islands", "type": "Place"},
+    {"entity": "Laois", "type": "Place"},
+    {"entity": "Immram Curaig Máel Dúin", "type": "Text"}
+  ],
+  "attributes": [
+    {"entity": "Ailill Ochair Ága", "attribute": "his name means edge of battle"},
+    {"entity": "Ailill Ochair Ága", "attribute": "father of Máel Dúin"},
+    {"entity": "Ailill Ochair Ága", "attribute": "a warrior of the Eóganacht of Ninuss"},
+    {"entity": "Ailill Ochair Ága", "attribute": "killed by marauders from Laois"}
+  ],
+  "sources": ["MacKillop 2008, s.v. 'Ailill Ochair Ága'"],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Record Ailill Ochair Ága as the father of Máel Dúin.",
+    "key_results": [
+      "Explain the edge of battle epithet.",
+      "Place him among the Eóganacht of Ninuss.",
+      "Link him to the voyage tale of his son."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Ailill Ochair Ága'"
+  }
+}
