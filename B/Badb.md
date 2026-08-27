@@ -2,60 +2,97 @@
 layout: layouts/pce.njk
 title: Badb
 icon: file-lines
-order: 180
+order: 0
 contributors: [ 'Christopher Godwin' ]
 attributes:
-  - Badb war goddess
-  - Celtic origin
-  - pre-Celtic origin
-  - bird form connection to Neolithic goddess
-  - unnamed Neolithic goddess frequently depicted in bird form
-  - New Stone Age goddess frequently depicted in bird form
+  - Badb war goddess of Ireland
+  - Badb one of the three Morrigna
+  - Badb flew over battlefields as a carrion bird
+  - Cathubodua Gallic counterpart as a raven
+  - Badb also called Badb Catha, the crow or raven of battle
+  - Badb promised victory to the Dagda before the Second Battle of Mag Tuired
+  - Badb daughter of Cailitin or Emmas, wife or granddaughter of Neit
+  - Badb linked to the Gaulish battle goddess Bodua or Cathubodua
+  - Badb feeds the keening crow badhbh chaointe, a death sign like the banshee
+  - Badb her name lives on in the Kerry townland of Lisbabe
 categories:
-  - culture
-  - deity
-  - physical form
-  - war goddess
+  - Animal
+  - Place
+  - Creature
+  - Deity
+  - Person
 entities:
-  - Badb(war goddess)
-  - Celtic(culture)
-  - pre-Celtic(culture)
-  - bird form(physical form)
-  - Neolithic goddess(deity)
-  - New Stone Age goddess(deity)
+  - Badb(Deity)
+  - Macha(Deity)
+  - Morrigan(Deity)
+  - Cathubodua(Deity)
+  - Banshee(Creature)
+  - crow(Animal)
+  - Badb Catha(Deity)
+  - Niam(Person)
+  - Cailitin(Person)
+  - Emmas(Person)
+  - Neit(Deity)
+  - Bodua(Deity)
+  - badhbh chaointe(Creature)
+  - Lisbabe(Place)
+  - Mag Tuired(Place)
 tags:
   - Badb
-  - Celtic
-  - pre-Celtic
-  - bird form
-  - Neolithic goddess
-  - New Stone Age goddess
+  - Macha
+  - Morrigan
+  - Cathubodua
+  - Banshee
+  - crow
+  - Badb Catha
+  - Niam
+  - Cailitin
+  - Emmas
+  - Neit
+  - Bodua
+  - badhbh chaointe
+  - Lisbabe
+  - Mag Tuired
 ---
 ``` tab [group1:Info]
 ::: magazinestyle
-A goddess of Irish origin, Badb (also known as Bave, Badhbh, and Baobh, among others) was one of the ancient furies of war in early Irish history. Along with Macha and the Mórrígan, she was a member of a triad known as "the three Mórrígna." She was also known to join forces with other formidable war goddesses, such as Nemain (meaning "the venomous") and Fea (often referred to as "the hateful") under the collective name of "Badb and her sisters." Despite Badb's clear association with war, it can be difficult to pin down her unique identity from those of other furies. Badb's name, which means "hoodie Crow" or "scald crow," refers to her appearance as a carrion bird that would fly over battlefields, screeching loudly to frighten warriors and incite their rage on the battlefield. In some myths, she is also connected with the mournful Banshee, who would cry over battlefields and foresee impending death. Her prophetic abilities were often grim in nature, typically heralding a dark and ominous future. This is exemplified by her appearance after the final mythical battle for control of Ireland, in which she described all the ills that would befall the land. Given Badb's centricity to death and destruction, it is not surprising that her name was associated with the foreboding cries of the crow. In Gaul, a similar war goddess named Cathubodua was worshipped, who could also take the form of a raven riding a horse. Tribes such as the Boduogenos (meaning "people of Bodua") revered her, and inscriptions in her honor were discovered in the Haute-Savoie region. Imitation in battle by black-robed women 6B 31 Druids who stood by the sidelines and screamed to incite the warriors to greater deeds, as was witnessed in the massacre and destruction of the druidic college at Anglesey, may have been done by Badb. Scholars have debated whether Badb and the other war goddesses were initially Celtic or pre-Celtic. Her connection to the unnamed Neolithic or New Stone Age goddess who was often depicted in bird form has led some scholars to argue.
+Badb is an Irish war goddess. Her name means the hoodie crow or the scald crow. In England the same bird is the Royston crow. She is also called Badb Catha, the crow or raven of battle. She is a woman of the supernatural, maybe a goddess or demon, who haunts places of battle. She takes joy in slaughter and stirs warriors to fury. She promised the Dagda victory before the great battle of Mag Tuired. She put a spell on Niam, and she came to Cuchulainn as a crow. Badb is a daughter of Cailitin or of Emmas. She is the wife or granddaughter of Neit. She stands in a trio of battle goddesses, the Morrigna, with the Morrigan and Macha. Nemain joins them at times. Scholars link her to the Gaulish battle goddess Bodua, Catubodua, or Cathubodua. In later Irish folklore she feeds the keening crow, or badhbh chaointe. That figure haunts battlefields and may sign a death. In this she is much like the banshee. The County Kerry townland of Lisbabe keeps her name, meaning Badb's fort.
 
 :::
 ```
 ``` tab [group1:Attributes]
-- **Badb**: war goddess
-- **Celtic**: origin
-- **pre-Celtic**: origin
-- **bird form**: connection to Neolithic goddess
-- **unnamed Neolithic goddess**: frequently depicted in bird form
-- **New Stone Age goddess**: frequently depicted in bird form
+- **Badb**: war goddess of Ireland
+- **Badb**: one of the three Morrigna
+- **Badb**: flew over battlefields as a carrion bird
+- **Cathubodua**: Gallic counterpart as a raven
+- **Badb**: also called Badb Catha, the crow or raven of battle
+- **Badb**: promised victory to the Dagda before the Second Battle of Mag Tuired
+- **Badb**: daughter of Cailitin or Emmas, wife or granddaughter of Neit
+- **Badb**: linked to the Gaulish battle goddess Bodua or Cathubodua
+- **Badb**: feeds the keening crow badhbh chaointe, a death sign like the banshee
+- **Badb**: her name lives on in the Kerry townland of Lisbabe
 ```
 ``` tab [group1:Entities]
-- **Badb**: war goddess
-- **Celtic**: culture
-- **pre-Celtic**: culture
-- **bird form**: physical form
-- **Neolithic goddess**: deity
-- **New Stone Age goddess**: deity
+- **Badb**: Deity
+- **Macha**: Deity
+- **Morrigan**: Deity
+- **Cathubodua**: Deity
+- **Banshee**: Creature
+- **crow**: Animal
+- **Badb Catha**: Deity
+- **Niam**: Person
+- **Cailitin**: Person
+- **Emmas**: Person
+- **Neit**: Deity
+- **Bodua**: Deity
+- **badhbh chaointe**: Creature
+- **Lisbabe**: Place
+- **Mag Tuired**: Place
 ```
 ``` tab [group1:Sources]
 - Dexter, Miriam Robbins. *Whence the Goddesses: A Sourcebook.* New York: Pergamon Press, 1990, 89-90.
 - Green, Miranda. Symbol and Image in Celtic Religious Art. London: Routledge, 1989, 26.
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
+- MacKillop 2008, s.v. 'Badb'
 ```
 ![Badb Image](https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Corvus_cornix_in_Locarno.jpg/1200px-Corvus_cornix_in_Locarno.jpg)

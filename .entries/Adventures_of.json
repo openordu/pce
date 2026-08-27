@@ -1,0 +1,39 @@
+{
+  "name": "Adventures of",
+  "text": "The headwords Adventures of form a cross reference in the dictionary. The note directs the reader toward the separate entry eachtra. The Irish word eachtra means an adventure or a journey. Many folk tales open their titles with the words the adventures of. The older Irish form echtra marks a special kind of otherworld journey. The cross reference points the seeker to the native Gaelic term instead of the English phrase.",
+  "entities": [
+    {
+      "entity": "eachtra",
+      "type": "concept"
+    },
+    {
+      "entity": "echtra",
+      "type": "concept"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Adventures of",
+      "attribute": "a cross-reference that points to the entry eachtra"
+    },
+    {
+      "entity": "eachtra",
+      "attribute": "the Irish word meaning an adventure"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Adventures of'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Record Adventures of as a cross-reference term in the dictionary.",
+    "key_results": [
+      "Explain that the phrase redirects the reader to eachtra.",
+      "Define eachtra as the Irish word for adventure.",
+      "Note the otherworld sense of the older form echtra."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Adventures of'"
+  }
+}

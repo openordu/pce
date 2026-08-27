@@ -1,0 +1,71 @@
+{
+  "name": "Acallam na Senórach",
+  "text": "Acallam na Senórach is a Middle Irish narrative of the Fenian Cycle. Its name means the colloquy of the elders. Writers composed the work between 1175 and 1200. It survives in the fifteenth-century manuscript called the Book of Lismore and elsewhere. The tale is set long after the death of Fionn mac Cumhaill. Two survivors, Oisin and Caílte, wander in northern Leinster. They meet Saint Patrick near the Boyne river at Druim Dearg. As the saint travels west and south, Caílte names each place they pass and gives its older meaning. Oisin adds tales of the deeds of Fionn and the Fianna. The dialogue frames many stories of the lost heroic past. Critics count the Acallam among the most successful works of Middle Irish literature.",
+  "entities": [
+    {
+      "entity": "Fionn mac Cumhaill",
+      "type": "Person"
+    },
+    {
+      "entity": "Oisin",
+      "type": "Person"
+    },
+    {
+      "entity": "Cailte",
+      "type": "Person"
+    },
+    {
+      "entity": "Saint Patrick",
+      "type": "Person"
+    },
+    {
+      "entity": "Book of Lismore",
+      "type": "Work"
+    },
+    {
+      "entity": "Leinster",
+      "type": "Place"
+    },
+    {
+      "entity": "Boyne",
+      "type": "Place"
+    },
+    {
+      "entity": "Fenian Cycle",
+      "type": "Work"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Acallam na Senórach",
+      "attribute": "a Middle Irish narrative of the Fenian Cycle composed between 1175 and 1200"
+    },
+    {
+      "entity": "Acallam na Senórach",
+      "attribute": "preserved in the Book of Lismore"
+    },
+    {
+      "entity": "Acallam na Senórach",
+      "attribute": "set long after the death of Fionn mac Cumhaill"
+    },
+    {
+      "entity": "Acallam na Senórach",
+      "attribute": "features Oisin and Cailte meeting Saint Patrick"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Acallam na Senórach'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Record Acallam na Senórach, the Middle Irish Colloquy of the Elders.",
+    "key_results": [
+      "Date the work between 1175 and 1200.",
+      "Show the frame of Oisin and Cailte with Saint Patrick.",
+      "Note its place among the great Middle Irish works."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Acallam na Senórach'"
+  }
+}

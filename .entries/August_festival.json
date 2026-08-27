@@ -1,0 +1,40 @@
+{
+  "name": "August festival",
+  "fname": "August_festival.json",
+  "text": "August festival is the dictionary name for a Celtic feast of early August. The work sends the reader who searches this headword to its own entry under Lughnasa. The feast thanked the god Lugh at the first of the harvest. Ireland and the Isle of Man both kept it at the close of summer.",
+  "entities": [
+    {
+      "entity": "August festival",
+      "type": "Festival"
+    },
+    {
+      "entity": "Lugh",
+      "type": "Character"
+    },
+    {
+      "entity": "Lughnasa",
+      "type": "Festival"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "August festival",
+      "attribute": "cross-reference for the feast of Lughnasa"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'August festival'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Record the August festival as the feast of Lughnasa.",
+    "key_results": [
+      "Point the headword to Lughnasa.",
+      "Set the feast at the start of August.",
+      "Name the god Lugh."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'August festival'"
+  }
+}

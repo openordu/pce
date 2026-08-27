@@ -1,0 +1,44 @@
+{
+  "name": "Assal",
+  "fname": "Assal.json",
+  "text": "Assal is a man of the good folk of the hidden land who turns in the old tales. He keeps a magic spear in his hand that never fails to kill its foe. The spear comes back to the thrower when he calls the word of return. He also holds seven boars that die and rise whole the following day. Their remains then rest in the pouch of the sea god. The bright master of the light sends the sons of the old man to fetch the spear for him.",
+  "entities": [
+    {
+      "entity": "Assal",
+      "type": "Character"
+    },
+    {
+      "entity": "Tuatha Dé Danann",
+      "type": "People"
+    },
+    {
+      "entity": "Manannán mac Lir",
+      "type": "Deity"
+    },
+    {
+      "entity": "Lug Lámfhota",
+      "type": "Deity"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Assal",
+      "attribute": "holder of the magic spear and the seven magical boars"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Assal'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Record the man Assal.",
+    "key_results": [
+      "Name the magic spear.",
+      "Tell of the seven boars.",
+      "Set the story in the old folk."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Assal'"
+  }
+}

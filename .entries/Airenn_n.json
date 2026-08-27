@@ -1,0 +1,25 @@
+{
+  "name": "Airennán",
+  "text": "Airennán is a variant spelling of the name Erannán. MacKillop lists Airennán as an alternate form of that headword. Both spellings point to the same Irish figure in the sources. Readers should consult the Erannán entry for the full account.",
+  "entities": [
+    {"entity": "Airennán", "type": "Person"},
+    {"entity": "Erannán", "type": "Person"}
+  ],
+  "attributes": [
+    {"entity": "Airenn_n", "attribute": "variant spelling of Erannán"},
+    {"entity": "Erannán", "attribute": "figure named under two spellings"},
+    {"entity": "Airenn_n", "attribute": "listed by MacKillop as an alternate form"}
+  ],
+  "sources": ["MacKillop 2008, s.v. 'Airennán'"],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Record Airennán as a cross-reference headword.",
+    "key_results": [
+      "Name Airennán as a variant of Erannán.",
+      "Point the reader to the Erannán entry."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Airennán'"
+  }
+}

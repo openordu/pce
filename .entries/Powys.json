@@ -1,0 +1,59 @@
+{
+  "name": "Powys",
+  "text": "Powys is a county in eastern and central Wales. It takes its name from a medieval kingdom of the same lands. That early kingdom rose out of the post-Roman world. Its heartland lay in the valley of the upper Severn and its tributaries. The royal power moved between centres such as Mathrafal and Meifod. The kingdom faced the Mercian frontier to the east, marked by Clawdd Offa. Its rulers descended from a line the chronicles call the Cadelling. Powys suffered pressure from Gwynedd to the north and from Mercia on the border. In time the old kingdom was absorbed into the broader Welsh political world. The modern county of Powys now carries on the name. It holds Brecon, Builth Wells, Hay-on-Wye, Newtown, and Welshpool. The Brecon Beacons National Park lies in its south.",
+  "entities": [
+    {
+      "entity": "Powys",
+      "type": "Place"
+    },
+    {
+      "entity": "Mathrafal",
+      "type": "Place"
+    },
+    {
+      "entity": "Clawdd Offa",
+      "type": "Place"
+    },
+    {
+      "entity": "Gwynedd",
+      "type": "Place"
+    },
+    {
+      "entity": "Cadelling",
+      "type": "Group"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Powys",
+      "attribute": "a county and former kingdom in eastern and central Wales"
+    },
+    {
+      "entity": "Clawdd Offa",
+      "attribute": "the border earthwork on the eastern edge of the Powys lands"
+    },
+    {
+      "entity": "Cadelling",
+      "attribute": "the ruling line that the chronicles attach to early Powys"
+    },
+    {
+      "entity": "Mathrafal",
+      "attribute": "one of the royal centres of the medieval kingdom"
+    }
+  ],
+  "okr": {
+    "objective": "Document Powys as both a medieval kingdom and a modern county.",
+    "key_results": [
+      "Record the rise of the kingdom from the post-Roman world",
+      "Identify its royal centres and ruling line",
+      "List the main towns and landscapes of the modern county"
+    ],
+    "evidence": "Koch 2006, s.v. 'Powys'."
+  },
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "sources": [
+    "Koch 2006, s.v. 'Powys'"
+  ]
+}

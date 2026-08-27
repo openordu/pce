@@ -1,0 +1,48 @@
+{
+  "name": "Bealtaine",
+  "fname": "Bealtaine.json",
+  "text": "Bealtaine is the Irish term for the month of May. The word also marks the old fire feast that falls at the start of that month. Bonfires were lit across the land, and herds were moved between the flames. The close of the dark half and the opening of the bright weeks belonged to this event. The word stands with the varied names of the festival.",
+  "entities": [
+    {
+      "entity": "Bealtaine",
+      "type": "Legend"
+    },
+    {
+      "entity": "Beltaine",
+      "type": "Legend"
+    },
+    {
+      "entity": "Ireland",
+      "type": "Place"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Bealtaine",
+      "attribute": "the Irish word for the month of May"
+    },
+    {
+      "entity": "Bealtaine",
+      "attribute": "the old fire feast at the month start"
+    },
+    {
+      "entity": "Bealtaine",
+      "attribute": "one of the high feasts of the year"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Bealtaine'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Give the Irish forms of the May festival.",
+    "key_results": [
+      "Give the month of the year.",
+      "Name the fire feast.",
+      "Set it among the feasts of the year."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Bealtaine'"
+  }
+}

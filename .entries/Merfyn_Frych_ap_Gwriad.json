@@ -1,0 +1,55 @@
+{
+ "name": "Merfyn (Frych) ap Gwriad",
+ "attributes": [
+  {
+   "entity": "Merfyn (Frych) ap Gwriad",
+   "attribute": "a king of Gwynedd known as the Freckled"
+  },
+  {
+   "entity": "Merfyn (Frych) ap Gwriad",
+   "attribute": "came to power after destructive infighting among Claimants and Viking turmoil around the Irish Sea"
+  },
+  {
+   "entity": "Merfyn (Frych) ap Gwriad",
+   "attribute": "reign dated to about 829 by a passage in the Historia Brittonum"
+  },
+  {
+   "entity": "Annales Cambriae",
+   "attribute": "place Merfyn's death near the battle of Cetill at 844"
+  }
+ ],
+ "entities": [
+  {
+   "entity": "Merfyn (Frych) ap Gwriad",
+   "type": "Person"
+  },
+  {
+   "entity": "Gwynedd",
+   "type": "Place"
+  },
+  {
+   "entity": "Historia Brittonum",
+   "type": "Text"
+  },
+  {
+   "entity": "Annales Cambriae",
+   "type": "Text"
+  }
+ ],
+ "sources": [
+  "Koch 2006, s.v. 'Merfyn (Frych) ap Gwriad'"
+ ],
+ "image": [],
+ "cyphertext": "",
+ "salt": "",
+ "text": "Merfyn (Frych) ap Gwriad was a king of Gwynedd, known as the Freckled. His accession followed destructive infighting among male claimants and Viking turmoil across the Irish Sea. Some Historia texts give the work a redaction in the fourth year of his reign, hence 829. His change of regime may have pressed forward the assembly of historical materials. The Annales Cambriae link his death to a conflict at Cetill in 844. Koch links the epithet Brych to Domall Brecc. Koch notes Merfyn Mawr and a long-established dynasty for his family in Man.",
+ "okr": {
+  "objective": "Author a new PCE node for the Gwynedd king Merfyn (Frych) ap Gwriad",
+  "key_results": [
+   "record his kingship and the epithet Freckled",
+   "note the dating of his reign and the Historia Brittonum connection",
+   "state his death at 844 and his suspected ancestry"
+  ],
+  "evidence": "Koch 2006, s.v. 'Merfyn (Frych) ap Gwriad'."
+ }
+}

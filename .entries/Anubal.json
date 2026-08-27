@@ -1,0 +1,35 @@
+{
+  "name": "Anubal",
+  "fname": "Anubal.json",
+  "text": "Anubal is a spelling of the more complex name of the old Irish figures. MacKillop gives the word under the fighting form Anbail. The dictionary sends the reader on to the fuller head for the full account.",
+  "entities": [
+    {
+      "entity": "Anubal",
+      "type": "Person"
+    },
+    {
+      "entity": "Ethal Anbail",
+      "type": "Character"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Anubal",
+      "attribute": "short spelling of the hero's name, a war name"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Anubal'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Record the name Anubal.",
+    "key_results": [
+      "Name the variant of the full head.",
+      "Point the reader to a fuller title."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Anubal'"
+  }
+}

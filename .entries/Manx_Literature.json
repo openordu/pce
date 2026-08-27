@@ -1,0 +1,59 @@
+{
+  "name": "Manx literature",
+  "text": "Manx literature is the writing produced in the Manx language. Its foundation is the Manx Bible. Diverse hands completed this translation project in 1775. The Bible set a written standard and became a supreme source for Manx. Other religious texts soon followed. These include a translation of Bunyan's Pilgrim's Progress and many homilies, catechisms, and sermons. The carvals make up the chief body of original Manx work. These religious songs are unique to the island. After the Bible, original writing entered a fallow period. The next phase was language preservation through grammar and dictionary work. Douglas C. Fargher compiled an ambitious English to Manx dictionary. Scholars also recorded the last native speakers. Since the 1970s interest has grown. Support from official and private sources encouraged new original works, translations, and reprints. John Clague collected Manx folklore and reminiscences in 1911. His book, Cooinaghtyn Manninagh, remains a landmark of the revival.",
+  "entities": [
+    {
+      "entity": "Manx literature",
+      "type": "Group"
+    },
+    {
+      "entity": "Manx Bible",
+      "type": "Work"
+    },
+    {
+      "entity": "John Clague",
+      "type": "Person"
+    },
+    {
+      "entity": "Douglas C. Fargher",
+      "type": "Person"
+    },
+    {
+      "entity": "Isle of Man",
+      "type": "Place"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Manx literature",
+      "attribute": "the body of writing in the Manx language"
+    },
+    {
+      "entity": "Manx Bible",
+      "attribute": "the 1775 translation that set the written standard for Manx"
+    },
+    {
+      "entity": "John Clague",
+      "attribute": "collector of Manx folklore whose 1911 book is a revival landmark"
+    },
+    {
+      "entity": "carvals",
+      "attribute": "religious songs that form the chief original body of Manx writing"
+    }
+  ],
+  "okr": {
+    "objective": "Document the history of literature in the Manx language.",
+    "key_results": [
+      "Record the role of the 1775 Manx Bible as a written standard",
+      "Identify the carvals as the chief original Manx texts",
+      "Describe the revival of Manx writing since the 1970s"
+    ],
+    "evidence": "Koch 2006, s.v. 'Manx literature'."
+  },
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "sources": [
+    "Koch 2006, s.v. 'Manx literature'"
+  ]
+}

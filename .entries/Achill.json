@@ -1,0 +1,43 @@
+{
+  "name": "Achill",
+  "text": "Achill is a large and mountainous island off the west coast of County Mayo in Ireland. The island measures about fifteen miles by four. Legend gives Achill an ancient hawk or crow. The bird was said to live for thousands of years. It could remember the remote past. It tells its memories to Fintan mac Bóchra. The tale of the long-lived bird links the island to the deep memory of early Irish legend.",
+  "entities": [
+    {
+      "entity": "County Mayo",
+      "type": "Place"
+    },
+    {
+      "entity": "Fintan mac Bochra",
+      "type": "Person"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Achill",
+      "attribute": "a large mountainous island off the west coast of County Mayo"
+    },
+    {
+      "entity": "Achill",
+      "attribute": "measures about fifteen miles by four"
+    },
+    {
+      "entity": "Achill",
+      "attribute": "home of a legendary long-lived hawk or crow"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Achill'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Record Achill, the Mayo island famed for its legendary hawk.",
+    "key_results": [
+      "Locate Achill off the coast of County Mayo.",
+      "Record the island's size and mountainous character.",
+      "Tell the tale of the long-lived hawk and Fintan mac Bochra."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Achill'"
+  }
+}

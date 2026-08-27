@@ -2,61 +2,43 @@
 layout: layouts/pce.njk
 title: Achtan
 icon: file-lines
-order: 8
+order: 0
 contributors: [ 'Christopher Godwin' ]
 attributes:
-  - young man robust
-  - human mother reunited
-  - son claimed the throne
-  - Cormac mac Airt reigned
-  - Achtan married the hunter
+  - Achtan is the mother of Cormac
+  - Achtan a variant of the figure Étaín
+  - Art Mac Cuinn fathered Cormac then died in war
 categories:
-  - person
-  - location
-  - occupation
-  - animal
+  - Person
 entities:
-  - hunter(occupation)
-  - young man(person)
-  - wolf-mother(animal)
-  - human mother(person)
-  - son(person)
-  - Tara(location)
-  - Cormac mac Airt(person)
-  - Achtan(person)
+  - Achtan(Person)
+  - Cormac Mac Airt(Person)
+  - Art Mac Cuinn(Person)
+  - Étaín(Person)
 tags:
-  - hunter
-  - young man
-  - wolf-mother
-  - human mother
-  - son
-  - Tara
-  - Cormac mac Airt
   - Achtan
+  - Cormac Mac Airt
+  - Art Mac Cuinn
+  - Étaín
 ---
 ``` tab [group1:Info]
 ::: magazinestyle
-Irish hero Cormac Mac Airt was born to Achtan, a notable heroine, under very unusual circumstances. Before heading to a battle where he expected to die, King Art Mac Cuinn stopped at Achtan's house for the night. There, Achtan's father, the Smith Olc Acha, foretold Art that sleeping with his daughter would bring the lover everlasting fame, a prophecy that intrigued Art. With the potential of offspring from the encounter in mind, Art informed Achtan that his friend Lugna would be responsible for the fostering of the child. Achtan became pregnant that night, but Art died in battle before they could reunite. As she approached her term, Achtan embarked on a journey to Connacht to find Lugna's home. She went into labor during a thunderstorm at the border of the province, where she wandered away to seek aid, leaving her child behind. A mother Wolf then protected and nursed the child in Achtan's absence. Many years later, a hunter discovered a robust young man who was raised by the wolf-mother, and he was reunited with Achtan. Alongside her son, she moved to Tara to claim the throne, with her son reigning as Cormac mac Airt. Achtan then married the hunter and lived near her son.
+Achtan is an Irish heroine and the mother of Cormac Mac Airt. Art Mac Cuinn, king of Tara, went to a battle he thought would kill him. He stayed the night at Achtan's home. Her father, the smith Olc Acha, told him that a night with Achtan would give her lover lasting fame. Art slept with Achtan. He told her his friend Lugna would raise the child. She had a son. Art died in the war, so she never saw him again. Near her term she started for Lugna's home in Connacht. Labour seized her at the border. A she-wolf protected and fed the child while Achtan went to find help. Achtan also appears as a variant of the figure Étaín.
 
 :::
 ```
 ``` tab [group1:Attributes]
-- **young man**: robust
-- **human mother**: reunited
-- **son**: claimed the throne
-- **Cormac mac Airt**: reigned
-- **Achtan**: married the hunter
+- **Achtan**: is the mother of Cormac
+- **Achtan**: a variant of the figure Étaín
+- **Art Mac Cuinn**: fathered Cormac then died in war
 ```
 ``` tab [group1:Entities]
-- **hunter**: occupation
-- **young man**: person
-- **wolf-mother**: animal
-- **human mother**: person
-- **son**: person
-- **Tara**: location
-- **Cormac mac Airt**: person
-- **Achtan**: person
+- **Achtan**: Person
+- **Cormac Mac Airt**: Person
+- **Art Mac Cuinn**: Person
+- **Étaín**: Person
 ```
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
+- MacKillop 2008, s.v. 'Achtan'
 ```

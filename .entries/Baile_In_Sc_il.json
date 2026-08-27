@@ -1,0 +1,44 @@
+{
+  "name": "Baile In Scail",
+  "fname": "Baile_In_Sc_il.json",
+  "text": "Baile In Scail is an Irish story of a vision, written before the year 1056. The name carries the sense of the frenzy or the rapture of the phantom. It tells how Conn of the Hundred Battles stood on the height of Tara, the seat of the old kings. There he saw the line of those who would follow him to the rule of the isle.",
+  "entities": [
+    {
+      "entity": "Baile In Scail",
+      "type": "Work"
+    },
+    {
+      "entity": "Conn",
+      "type": "Character"
+    },
+    {
+      "entity": "Tara",
+      "type": "Place"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Baile In Scail",
+      "attribute": "an early Irish tale of vision"
+    },
+    {
+      "entity": "Baile In Scail",
+      "attribute": "tells the seeing of the line of the kings of Tara"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Baile In Scail'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Record the Irish vision story Baile In Scail.",
+    "key_results": [
+      "Date the work.",
+      "Name the king and the seat.",
+      "Give the sense of the title."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Baile In Scail'"
+  }
+}

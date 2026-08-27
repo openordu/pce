@@ -1,0 +1,63 @@
+{
+  "name": "Adamnán",
+  "text": "Adamnán was abbot of the island monastery of Iona. He held the office from 679 to 704. He was the tenth in the line of succession from Colum Cille, also called Saint Columba, who founded Iona. Adamnán wrote the Vita Columbae, the Latin account of Colum Cille. He finished it about 690 to 700, close to a hundred years after the saint died. He is credited with founding Dunkeld in Tayside. Dunkeld later became a strong seat of the Celtic church. The diocese of Raphoe in County Donegal honours Adamnán as its patron. His feast day is 23 September. The church remembers him as a scholar and a lawgiver of the early Irish church.",
+  "entities": [
+    {
+      "entity": "Iona",
+      "type": "Place"
+    },
+    {
+      "entity": "Colum Cille",
+      "type": "Person"
+    },
+    {
+      "entity": "Vita Columbae",
+      "type": "Work"
+    },
+    {
+      "entity": "Dunkeld",
+      "type": "Place"
+    },
+    {
+      "entity": "Diocese of Raphoe",
+      "type": "Place"
+    },
+    {
+      "entity": "County Donegal",
+      "type": "Place"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Adamnan",
+      "attribute": "abbot of Iona from 679 to 704"
+    },
+    {
+      "entity": "Adamnan",
+      "attribute": "tenth in succession from Colum Cille"
+    },
+    {
+      "entity": "Adamnan",
+      "attribute": "author of the Vita Columbae"
+    },
+    {
+      "entity": "Adamnan",
+      "attribute": "credited with founding Dunkeld"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Adamnán'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Record Adamnán, the abbot of Iona and author of the Vita Columbae.",
+    "key_results": [
+      "Record Adamnan as abbot of Iona from 679 to 704.",
+      "Note his life of Colum Cille.",
+      "Record his founding of Dunkeld and his feast day."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Adamnán'"
+  }
+}

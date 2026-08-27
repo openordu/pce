@@ -1,0 +1,40 @@
+{
+  "name": "Aíde",
+  "fname": "A_de.json",
+  "text": "Aíde is the second wife of the old king Énna, as the Irish book of the five ways records. The tale links her death and the death of Énna's first wife to the naming of the city of Dublin. Her part in the story is small, but the ragged name of the place keeps her memory. The old book of places sets her in the first rank of the queens of the plain.",
+  "entities": [
+    {
+      "entity": "Aíde",
+      "type": "Character"
+    },
+    {
+      "entity": "Énna",
+      "type": "Character"
+    },
+    {
+      "entity": "Dublin",
+      "type": "Place"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Aíde",
+      "attribute": "second wife of the king Énna in the Irish dindshenchas"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Aíde'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Record the character Aíde.",
+    "key_results": [
+      "Name her as the second wife of Énna.",
+      "Link her to the naming of Dublin.",
+      "Set the tale in the book of places."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Aíde'"
+  }
+}

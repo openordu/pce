@@ -1,0 +1,56 @@
+{
+  "name": "Banbha",
+  "fname": "Banbha.json",
+  "text": "Banbha is an old poetic name for the island of Ireland, written also as Banba. She is one of three goddess figures, with Eriu and Fodla, who each offered a name to the land. In the tale, the Milesians used the names but let that of Eriu stand. First the name marked only a southern part or the Meath plain, later all of Ireland.",
+  "entities": [
+    {
+      "entity": "Banbha",
+      "type": "Character"
+    },
+    {
+      "entity": "Eriu",
+      "type": "Character"
+    },
+    {
+      "entity": "Fodla",
+      "type": "Character"
+    },
+    {
+      "entity": "Ireland",
+      "type": "Place"
+    },
+    {
+      "entity": "Milesians",
+      "type": "People"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Banbha",
+      "attribute": "an old poetic name for Ireland"
+    },
+    {
+      "entity": "Banbha",
+      "attribute": "one of a divine trio of names"
+    },
+    {
+      "entity": "Banbha",
+      "attribute": "first marked part of the island only"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Banbha'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Chart the name Banbha and the myth of the naming.",
+    "key_results": [
+      "Give the meaning of the name.",
+      "Name the sister goddesses.",
+      "Tell how the Milesians chose Eriu."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Banbha'"
+  }
+}

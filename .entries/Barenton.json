@@ -1,49 +1,66 @@
 {
-    "name": "Barenton",
-    "attributes": [
-        {
-            "entity": "Barenton",
-            "attribute": "a Breton mythological site"
-        },
-        {
-            "entity": "Barenton",
-            "attribute": "home of the magical Fountain That Makes Rain"
-        },
-        {
-            "entity": "Barenton",
-            "attribute": "also called Belenton"
-        }
-    ],
-    "entities": [
-        {
-            "entity": "Barenton",
-            "type": "Place"
-        },
-        {
-            "entity": "Fountain That Makes Rain",
-            "type": "Artifact"
-        },
-        {
-            "entity": "Brittany",
-            "type": "Place"
-        }
-    ],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "image": [
-        "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/FranceNormandieBarentonEglise.jpg/1200px-FranceNormandieBarentonEglise.jpg"
-    ],
-    "cyphertext": "VzZlN6386Ua_4cizqXKzj2FnrKs8CwrEOtSAeteM4S5rGMTOij8A_I5u7SjHpDlpVWJREQHia7FOnnZ6shiK35nYHW5YejEXaDTqVcf3SHuUVs59f8H9-566JI6OoUmEpVET42ZJ3puciHhONZPd-AQCaWxWb7LdK4Txeu-zdhj8MiuOKQCqnveoTrRpDq1LPzHepgcTUAWK7RjykFI81oD2_9S8NB7zuNZrVW2IbNj4XISr7gOgxyMge9x2DEIampQiAZxGXLkkE7N9jI0EarE_dhzcKqjn1nxxAy-kAlT76FYAtErEc7DSUrfw73ioysXphBh2kgetH73-jkOYwLCNHDamKnj8gn6pjiHe_PyVbUVRn-BWGWEcgZNcfgmCrtc5BwYr0MS0uSp36bZx65uhrGgfZJSXE7wTW93PTz_WF_RvQJWzPr4QUp9eVGieOckHtQPxkpwCQfpFKG2ODgiwVyJieQovAuDvuh1aH8pvMzIbTMQfDN2ChZrg8kGonqAuoN6totXS0pGYR_hJSsZZ9H0wdZStuABtGb-g7oj0TlOTOquwmzm6Iubk4_n91HuUQz6Oo9MFWSGb7Pu8AkA1JgYqrvaImnOxAAeKp92HiTr4C7oRtyja55XU5tiw3fd_",
-    "salt": "nlAnLK5ZIncW-ia-aIbS5A==",
-    "text": "Barenton is a Breton mythological site, also called Belenton. It is the home of the magical Fountain That Makes Rain. The fountain holds rain-making power in the folklore of Brittany.",
-    "okr": {
-        "objective": "Describe Barenton, the Breton site of the magic rain-making fountain.",
-        "key_results": [
-            "Barenton is a Breton mythological site.",
-            "It is known for the magical Fountain That Makes Rain.",
-            "The site carries the alternate name Belenton."
-        ],
-        "evidence": "Monaghan 2008, s.v. 'Barenton'."
+  "name": "Barenton",
+  "attributes": [
+    {
+      "entity": "Barenton",
+      "attribute": "a Breton mythological site"
+    },
+    {
+      "entity": "Barenton",
+      "attribute": "home of the magical Fountain That Makes Rain"
+    },
+    {
+      "entity": "Barenton",
+      "attribute": "also called Belenton"
+    },
+    {
+      "entity": "Barenton",
+      "attribute": "also written Baranton"
+    },
+    {
+      "entity": "Barenton",
+      "attribute": "set within the forest of Broceliande"
     }
+  ],
+  "entities": [
+    {
+      "entity": "Barenton",
+      "type": "Place"
+    },
+    {
+      "entity": "Fountain That Makes Rain",
+      "type": "Artifact"
+    },
+    {
+      "entity": "Brittany",
+      "type": "Place"
+    },
+    {
+      "entity": "Baranton",
+      "type": "Place"
+    },
+    {
+      "entity": "Broceliande",
+      "type": "Place"
+    }
+  ],
+  "sources": [
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.",
+    "MacKillop 2008, s.v. 'Barenton'"
+  ],
+  "image": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/FranceNormandieBarentonEglise.jpg/1200px-FranceNormandieBarentonEglise.jpg"
+  ],
+  "cyphertext": "VzZlN6386Ua_4cizqXKzj2FnrKs8CwrEOtSAeteM4S5rGMTOij8A_I5u7SjHpDlpVWJREQHia7FOnnZ6shiK35nYHW5YejEXaDTqVcf3SHuUVs59f8H9-566JI6OoUmEpVET42ZJ3puciHhONZPd-AQCaWxWb7LdK4Txeu-zdhj8MiuOKQCqnveoTrRpDq1LPzHepgcTUAWK7RjykFI81oD2_9S8NB7zuNZrVW2IbNj4XISr7gOgxyMge9x2DEIampQiAZxGXLkkE7N9jI0EarE_dhzcKqjn1nxxAy-kAlT76FYAtErEc7DSUrfw73ioysXphBh2kgetH73-jkOYwLCNHDamKnj8gn6pjiHe_PyVbUVRn-BWGWEcgZNcfgmCrtc5BwYr0MS0uSp36bZx65uhrGgfZJSXE7wTW93PTz_WF_RvQJWzPr4QUp9eVGieOckHtQPxkpwCQfpFKG2ODgiwVyJieQovAuDvuh1aH8pvMzIbTMQfDN2ChZrg8kGonqAuoN6totXS0pGYR_hJSsZZ9H0wdZStuABtGb-g7oj0TlOTOquwmzm6Iubk4_n91HuUQz6Oo9MFWSGb7Pu8AkA1JgYqrvaImnOxAAeKp92HiTr4C7oRtyja55XU5tiw3fd_",
+  "salt": "nlAnLK5ZIncW-ia-aIbS5A==",
+  "text": "Barenton is a Breton mythological site, also called Belenton or Baranton. It holds the magical Fountain That Makes Rain. The fountain carries rain-making power in the folklore of Brittany. MacKillop records the site under the spelling Baranton. He refers the reader to the forest of Broceliande. In Breton tradition, Barenton is set within that fabled wood.",
+  "okr": {
+    "objective": "Describe Barenton, the Breton site of the magic rain-making fountain.",
+    "key_results": [
+      "Document Barenton as a Breton site.",
+      "Record the Fountain That Makes Rain.",
+      "Note the spelling Baranton and the link to Broceliande."
+    ],
+    "evidence": "Monaghan 2008, s.v. Barenton; MacKillop 2008, s.v. 'Barenton'"
+  }
 }

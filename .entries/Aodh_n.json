@@ -1,0 +1,35 @@
+{
+  "name": "Aodhán",
+  "fname": "Aodh_n.json",
+  "text": "Aodhán is the modern Irish form of the old name that MacKillop writes as Aedan. The word rests on the root of fire and is a young form of the name Aodh. English texts often render the name as Aidan.",
+  "entities": [
+    {
+      "entity": "Aodhán",
+      "type": "Person"
+    },
+    {
+      "entity": "Aedan",
+      "type": "Character"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Aodhán",
+      "attribute": "modern Irish form of the name of a child, Aidan"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Aodhán'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Record the modern Irish form Aodhan.",
+    "key_results": [
+      "Link it to the older name.",
+      "Give the English form Aidan."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Aodhán'"
+  }
+}

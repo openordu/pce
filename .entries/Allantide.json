@@ -1,0 +1,34 @@
+{
+  "name": "Allantide",
+  "text": "Allantide is the name for the Sunday in Cornwall. The day is the same as the start of the old festival of Samain. Local speech also knows it as the day of the apples. MacKillop gives the word as a counterpart of the festival of the same season.",
+  "entities": [
+    {
+      "entity": "Allantide",
+      "type": "Festival"
+    },
+    {
+      "entity": "Sathin",
+      "type": "Festival"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Allantide",
+      "attribute": "Cornish name for the season feast"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Allantide'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "State the Cornish festival name Allantide.",
+    "key_results": [
+      "Give the day that the name marks.",
+      "Link the word to the festival of the season."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Allantide'"
+  }
+}

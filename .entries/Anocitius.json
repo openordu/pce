@@ -1,0 +1,39 @@
+{
+  "name": "Anocitius",
+  "fname": "Anocitius.json",
+  "text": "Anocitius is a British god of the Roman time. His cult appears at the fort of Condercum, near the town of Benwell on the Roman wall. His head bears a shape that suggests a stag in the carving that survives. His images belong to the young men of the shrine.",
+  "entities": [
+    {
+      "entity": "Anocitius",
+      "type": "Deity"
+    },
+    {
+      "entity": "Condercum",
+      "type": "Place"
+    },
+    {
+      "entity": "Hadrian",
+      "type": "Person"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Anocitius",
+      "attribute": "British god honoured at Condercum on the Roman wall"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Anocitius'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Record the local British god Anocitius.",
+    "key_results": [
+      "Place his temple at Condercum.",
+      "Note the stag-like form of his head."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Anocitius'"
+  }
+}

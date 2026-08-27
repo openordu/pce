@@ -1,0 +1,35 @@
+{
+  "name": "Amorgin",
+  "fname": "Amorgin.json",
+  "text": "Amorgin is one of the shorter forms of the name that MacKillop gives for the poet of the Irish sagas. The word stays for the same hero as the main head of the entry. The reader meets many such re-spellings in the dictionary.",
+  "entities": [
+    {
+      "entity": "Amorgin",
+      "type": "Character"
+    },
+    {
+      "entity": "Amairgen",
+      "type": "Character"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Amorgin",
+      "attribute": "variant of the name of the poet Amairgen"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Amorgin'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Record the variant Amorgin.",
+    "key_results": [
+      "Name the shorter spelling.",
+      "Point the reader to the poet Amairgen."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Amorgin'"
+  }
+}

@@ -16,6 +16,15 @@
     {
       "entity": "Mórrígan",
       "type": "Person"
+    },
+    {
+      "entity": "Aeron",
+      "type": "Being",
+      "subtype": "Welsh battle-god"
+    },
+    {
+      "entity": "Agroná",
+      "type": "Being"
     }
   ],
   "attributes": [
@@ -26,22 +35,30 @@
     {
       "entity": "Agrona",
       "attribute": "kin of the death queen Mórrígan"
+    },
+    {
+      "entity": "Agrona",
+      "attribute": "gave her name to the Welsh battle-god Aeron"
+    },
+    {
+      "entity": "Agrona",
+      "attribute": "known in early lore as Agroná"
     }
   ],
   "sources": [
-    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.",
+    "MacKillop 2008, s.v. Agrona"
   ],
   "image": [],
   "cyphertext": "6osqbsCTlnI6TuPQ4UoTCrrST1NhmghL4Ow_wzibGaZBZhc6coxOfHRTKmv3NIX4_ZxZ6AOX23wqUiERpwlWL7w-3fJOK57HTDZHbBj_xFG9YmN1zgb2Kc5YTxgN__G6jRos57LF_0PXYIKrBhvtVZXq8mJ79ofSYxiVvmjQf4IZYGLtKgNDE8I8GF0I8cnULBCrLD86v3eYefJ6-s-5a3pDYhbcatZXUkn-2BVyIXUFjH0d688UdQKCZsTjqHfZI2NX",
   "salt": "jSh3pc9Vs3SYw1gwJPKWWw==",
-  "text": "Agrona was an obscure British goddess of war. She was found in Britain and perhaps in Wales. Some scholars describe her as kin of the Irish death queen Mórrígan.",
+  "text": "Agrona, known in early lore as Agroná, was a British goddess of slaughter. She appears in Britain and in Wales. Her name gave the Welsh battle-god Aeron his title. Some scholars describe her as kin of the Irish death queen Mórrígan.",
   "okr": {
     "objective": "Record the obscure British war goddess Agrona.",
     "key_results": [
-      "Show her homelands and her link to the Mórrígan."
+      "Show her homelands and her link to the Mórrígan.",
+      "Note that her name passed to the Welsh god Aeron."
     ],
-    "evidence": [
-      "Monaghan 2003, s.v. Agrona"
-    ]
+    "evidence": "MacKillop 2008, s.v. Agrona"
   }
 }

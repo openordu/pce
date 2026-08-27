@@ -1,0 +1,35 @@
+{
+  "name": "Amhairghin",
+  "fname": "Amhairghin.json",
+  "text": "Amhairghin is a further form of the name that MacKillop enters for the poet of the Irish sagas. The word belongs to the same family as the other spellings of the name. It points to the hero who gathers the main account under his principal head.",
+  "entities": [
+    {
+      "entity": "Amhairghin",
+      "type": "Character"
+    },
+    {
+      "entity": "Amairgen",
+      "type": "Character"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Amhairghin",
+      "attribute": "variant of the name of the poet Amairgen"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Amhairghin'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Give the variant Amhairghin.",
+    "key_results": [
+      "Name the form among the spellings.",
+      "Send the reader to the poet Amairgen."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Amhairghin'"
+  }
+}

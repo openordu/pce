@@ -1,0 +1,35 @@
+{
+  "name": "Arecurius",
+  "fname": "Arecurius.json",
+  "text": "Arecurius is a name from the list of the gods of the old Gauls. The name stands beside many of the other spirits of the people of the old continent. The dictionary keeps the list of the divine names of the gods of the Gaul. No long tale for this god stands alone in the rolls of the book.",
+  "entities": [
+    {
+      "entity": "Arecurius",
+      "type": "Deity"
+    },
+    {
+      "entity": "Gaul",
+      "type": "Place"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Arecurius",
+      "attribute": "a name from the roll of the gods of the Gauls"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Arecurius'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Record the god of the Gauls.",
+    "key_results": [
+      "Set the name in the roll of the gods.",
+      "Name the land of the Gauls."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Arecurius'"
+  }
+}

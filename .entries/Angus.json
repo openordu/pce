@@ -1,0 +1,39 @@
+{
+  "name": "Angus",
+  "fname": "Angus.json",
+  "text": "Angus is a man's name written in many forms across early Ireland and Scotland. MacKillop records the spellings Óengus, Áengus, Aonghus, and Aonghas. English writers turned it into Ennis, Neese, or Nicholas. The name is borne by gods, kings, poets, and saints. The best known bearer is Angus Óg, the son of the Dagda.",
+  "entities": [
+    {
+      "entity": "Angus",
+      "type": "Character"
+    },
+    {
+      "entity": "Angus Og",
+      "type": "Deity"
+    },
+    {
+      "entity": "Dagda",
+      "type": "Deity"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Angus",
+      "attribute": "widespread Irish and Scottish name carried by many figures"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Angus'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Give the common name Angus.",
+    "key_results": [
+      "Record the spellings of the name.",
+      "State the most famous bearer."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Angus'"
+  }
+}

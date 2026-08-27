@@ -1,0 +1,52 @@
+{
+  "name": "Barrán",
+  "fname": "Barr_n.json",
+  "text": "Barrán is a name from early Irish story, a little form of the word for tip or point. Several figures of old Ireland bear this name. One of these is the father-in-law of the hero Caílte in the Fenian Cycle. The name thus joins the line of the legendary heroes of the hunt.",
+  "entities": [
+    {
+      "entity": "Barrán",
+      "type": "Character"
+    },
+    {
+      "entity": "Caílte",
+      "type": "Character"
+    },
+    {
+      "entity": "Fenian Cycle",
+      "type": "Work"
+    },
+    {
+      "entity": "Ireland",
+      "type": "Place"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Barrán",
+      "attribute": "a name of several early Irish figures"
+    },
+    {
+      "entity": "Barrán",
+      "attribute": "father-in-law of Caílte"
+    },
+    {
+      "entity": "Barrán",
+      "attribute": "means little tip or point"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Barrán'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Record the name Barrán and its bearers.",
+    "key_results": [
+      "Give the sense of the name.",
+      "Name the father-in-law of Caílte.",
+      "Set it in the Fenian Cycle."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Barrán'"
+  }
+}

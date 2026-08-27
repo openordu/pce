@@ -1,0 +1,35 @@
+{
+  "name": "Arthen",
+  "fname": "Arthen.json",
+  "text": "Arthen is a god of the rivers and of the bear in the early faith of Wales. The old word carries the sense of the bear in the former tongue. Some shadowy figures of the chronicles also bear the same name. One of them is a king of the land of Ceredigion in the ninth hundred of years.",
+  "entities": [
+    {
+      "entity": "Arthen",
+      "type": "Deity"
+    },
+    {
+      "entity": "Ceredigion",
+      "type": "Place"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Arthen",
+      "attribute": "bear and river god of early Wales"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Arthen'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Record the god of Wales.",
+    "key_results": [
+      "Name the god of the bear.",
+      "Set the land of the ruler."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Arthen'"
+  }
+}

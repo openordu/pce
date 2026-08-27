@@ -1,0 +1,39 @@
+{
+  "name": "Aidan",
+  "text": "Aidan is a common English form of the Irish name Áedán. The headword Aidan therefore points back to Áedán. Many saints and heroes in early Ireland bore this name. The anglicized spelling Aidan is widely used today.",
+  "entities": [
+    {
+      "entity": "Aidan",
+      "type": "Person"
+    },
+    {
+      "entity": "Áedán",
+      "type": "King"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Aidan",
+      "attribute": "a common anglicization of the name Áedán"
+    },
+    {
+      "entity": "Aidan",
+      "attribute": "a widely used English spelling of an early Irish name"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Aidan'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Flag Aidan as the common anglicization of Áedán.",
+    "key_results": [
+      "Note Aidan as an English form of Áedán.",
+      "Cross reference the headword to the fuller Áedán entry.",
+      "Observe the wide use of both spellings."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Aidan'"
+  }
+}

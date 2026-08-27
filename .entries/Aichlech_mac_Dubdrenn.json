@@ -1,0 +1,47 @@
+{
+  "name": "Aichlech mac Dubdrenn",
+  "text": "Aichlech mac Dubdrenn slew Fionn mac Cumhaill. The killing took place at Áth Brea, a ford on the Boyne. Aided Finn records this version. A more famous account sets Fionn's death in Cath Gabhra, struck down by five warriors.",
+  "entities": [
+    {
+      "entity": "Aichlech mac Dubdrenn",
+      "type": "Character"
+    },
+    {
+      "entity": "Fionn mac Cumhaill",
+      "type": "Hero"
+    },
+    {
+      "entity": "Boyne River",
+      "type": "Place"
+    },
+    {
+      "entity": "Cath Gabhra",
+      "type": "Text"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Aichlech mac Dubdrenn",
+      "attribute": "the killer of Fionn mac Cumhaill at Áth Brea on the Boyne River"
+    },
+    {
+      "entity": "Aichlech mac Dubdrenn",
+      "attribute": "named in the tale Aided Finn"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Aichlech mac Dubdrenn'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Profile Aichlech mac Dubdrenn as the slayer of Fionn mac Cumhaill.",
+    "key_results": [
+      "Record Aichlech as the killer of Fionn in Aided Finn.",
+      "Place the slaying at Áth Brea on the Boyne River.",
+      "Compare with the death of Fionn in Cath Gabhra."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Aichlech mac Dubdrenn'"
+  }
+}

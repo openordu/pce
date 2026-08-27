@@ -1,0 +1,71 @@
+{
+ "name": "Monasticism",
+ "attributes": [
+  {
+   "entity": "Monasticism",
+   "attribute": "first appears in written form in Ireland in the Confessio of Patrick"
+  },
+  {
+   "entity": "Bangor",
+   "attribute": "a leading Irish monastery whose founder Comgall directed the ascetic community"
+  },
+  {
+   "entity": "Clonard",
+   "attribute": "a leading Irish monastery founded by Finnian in the later sixth century"
+  },
+  {
+   "entity": "Céli Dé",
+   "attribute": "a later Irish ascetic reform movement that renewed the monastic ideal"
+  }
+ ],
+ "entities": [
+  {
+   "entity": "Monasticism",
+   "type": "Topic"
+  },
+  {
+   "entity": "Bangor",
+   "type": "Place"
+  },
+  {
+   "entity": "Clonard",
+   "type": "Place"
+  },
+  {
+   "entity": "Comgall",
+   "type": "Person"
+  },
+  {
+   "entity": "Finnian",
+   "type": "Person"
+  },
+  {
+   "entity": "Céli Dé",
+   "type": "Group"
+  },
+  {
+   "entity": "Vita Columbae",
+   "type": "Literature"
+  },
+  {
+   "entity": "Navigatio Sancti Brendani",
+   "type": "Literature"
+  }
+ ],
+ "sources": [
+  "Koch 2006, s.v. 'Monasticism'"
+ ],
+ "image": [],
+ "cyphertext": "",
+ "salt": "",
+ "text": "Monasticism in Ireland first appears in written form in the Confessio of Patrick. Real monasteries and their founders multiply from the later sixth century. Bangor and Clonard are leading houses, and their founders Comgall and Finnian direct the work. Irish monasticism keeps the desert ascetic tone of the eastern tradition. It weds the life of eremitic solitaries to coenobitic community living. Monks read the ideal of the desert through the writings of Cassian. Adomnán's Vita Columbae and the Navigatio Sancti Brendani both describe this monastic world. The later Céli Dé movement brings fresh ascetic reform. In time monasteries become economic centres and seats of learning. They also grow into dynastic religious administrations.",
+ "okr": {
+  "objective": "Author a new PCE node for early Irish Monasticism",
+  "key_results": [
+   "record the first written mention in Patrick's Confessio and the growth of houses from the later sixth century",
+   "name Bangor with Comgall and Clonard with Finnian as founding communities",
+   "note the eastern desert ascetic ideal, the Céli Dé reform, and the later economic and dynastic role of the monasteries"
+  ],
+  "evidence": "Koch 2006, s.v. 'Monasticism'."
+ }
+}

@@ -1,0 +1,59 @@
+{
+  "name": "Manx language",
+  "text": "Manx language is the Celtic tongue of the Isle of Man. It belongs to the Gaelic branch, close to Irish and to Scottish Gaelic. Manx gained a written form built on an English spelling. That spelling reached print in 1700. A related system appeared about 1610 in the work of John Phillips, bishop of Man. Manx kept several ancient Gaelic sounds. It never added a separate vowel between a pair of letters such as r and l. It shares curious traits with an early Scots prayer book. Manx shows the change where a group such as -sc became -st, written sht or st. It also shows the trait called pre-occlusion. In that trait a stressed syllable that closes on a nasal gains a small stop after it. Its grammar moved far from the steady Gaelic pattern. The result carries a shape like a creole. The word ag fused with the verb in many forms. The tongue still holds a place inside the wider Gaelic family.",
+  "entities": [
+    {
+      "entity": "Manx language",
+      "type": "Language"
+    },
+    {
+      "entity": "Isle of Man",
+      "type": "Place"
+    },
+    {
+      "entity": "John Phillips",
+      "type": "Person"
+    },
+    {
+      "entity": "Book of the Dean of Lismore",
+      "type": "Work"
+    },
+    {
+      "entity": "Gaelic",
+      "type": "Group"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Manx language",
+      "attribute": "the Celtic tongue of the Isle of Man, in the Gaelic branch"
+    },
+    {
+      "entity": "Manx language",
+      "attribute": "written in an English-based spelling first printed in 1707"
+    },
+    {
+      "entity": "John Phillips",
+      "attribute": "bishop of Man who used an early Manx orthography about 1610"
+    },
+    {
+      "entity": "Isle of Man",
+      "attribute": "the island home of the Manx language"
+    }
+  ],
+  "okr": {
+    "objective": "Document the Manx language and its place among the Gaelic tongues.",
+    "key_results": [
+      "Record the rise of English-based Manx spelling from the early 1700s",
+      "Describe the distinctive Manx sound changes such as pre-occlusion",
+      "Note the de-Gaelicized, pidgin-like grammar of the modern language"
+    ],
+    "evidence": "Koch 2006, s.v. 'Manx language'."
+  },
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "sources": [
+    "Koch 2006, s.v. 'Manx language'"
+  ]
+}

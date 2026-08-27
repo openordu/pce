@@ -1,0 +1,48 @@
+{
+  "name": "Bave",
+  "fname": "Bave.json",
+  "text": "Bave is an English rendering of the war goddess title. The older Irish shape of that figure is Badh. She is shown as a hooded crow that moves over the field while the armies clash. The spelling shifted through the writing of old Ireland, and Bave stands as one of those later forms.",
+  "entities": [
+    {
+      "entity": "Bave",
+      "type": "Character"
+    },
+    {
+      "entity": "Badh",
+      "type": "Character"
+    },
+    {
+      "entity": "Ireland",
+      "type": "Place"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Bave",
+      "attribute": "an English form of the war goddess name"
+    },
+    {
+      "entity": "Bave",
+      "attribute": "the older Irish shape is Badh"
+    },
+    {
+      "entity": "Bave",
+      "attribute": "appears as a hooded crow in the fight"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Bave'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Record Bave as an English form of the war goddess.",
+    "key_results": [
+      "Give the Irish shape.",
+      "Give the crow image.",
+      "Place the goddess on the field."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Bave'"
+  }
+}

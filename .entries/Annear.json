@@ -1,0 +1,35 @@
+{
+  "name": "Annear",
+  "fname": "Annear.json",
+  "text": "Annear is a Cornish form of the name Aneirin. MacKillop lists the word as a county spelling of the sixth-century bard. The main figure keeps a full account under the longer head Aneirin.",
+  "entities": [
+    {
+      "entity": "Annear",
+      "type": "Person"
+    },
+    {
+      "entity": "Aneirin",
+      "type": "Character"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Annear",
+      "attribute": "Cornish variant of the bard Aneirin"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Annear'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Record the Cornish form Annear.",
+    "key_results": [
+      "Name the variant spelling.",
+      "Point to the bard Aneirin."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Annear'"
+  }
+}

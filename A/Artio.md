@@ -2,29 +2,83 @@
 layout: layouts/pce.njk
 title: Artio
 icon: file-lines
-order: 158
+order: 0
 contributors: [ 'Christopher Godwin' ]
 attributes:
-  - Artaios bear god
+  - Artio name means bear
+  - Artio worshiped in the form of a bear
+  - Andarta second syllable suggests a bear connection
+  - Artio similar in function to Artemis
+  - Artaios a bear god found in some regions
+  - Artio Dea Artio, a bear goddess of the Continental Celts
+  - Artio shown in a bronze at Berne, seated before a great bear with a dish of fruit
+  - Artaios masculine bear god linked to Gaulish Mercury
 categories:
-  - deity
+  - Person
+  - Being
+  - Place
+  - Deity
 entities:
-  - Artaios(deity)
+  - Artio(Person)
+  - Dea Artio(Person)
+  - Andarta(Person)
+  - Bear(Being)
+  - Artemis(Person)
+  - Artaios(Person)
+  - Berne(Place)
+  - Switzerland(Place)
+  - Dea Artio(Deity)
+  - Artaios(Deity)
+  - Artaius(Deity)
+  - Mercury(Person)
+  - Gaul(Place)
 tags:
+  - Artio
+  - Dea Artio
+  - Andarta
+  - Bear
+  - Artemis
   - Artaios
+  - Berne
+  - Switzerland
+  - Dea Artio
+  - Artaios
+  - Artaius
+  - Mercury
+  - Gaul
 ---
 ``` tab [group1:Info]
 ::: magazinestyle
-The deity Artio (Dea Artio, Andarta) was a Celtic goddess worshipped in both Great Britain and continental Europe. She was associated with wilderness and wildlife and took the form of a bear, as indicated by the meaning of her name. The name Andarta was also used to refer to a similar goddess in Switzerland (particularly in Berne, which was known as the "bear city") and France, and the bear connection is implied by the second syllable of her name. Artio shares similarities with the Greek goddess Artemis, who was also depicted as a bear. Some regions also worshipped a bear god named Artaios or Artaius.
+Artio was a goddess of wilderness and wildlife. People in Britain and Gaul worshiped her in the form of a bear. Her name Dea Artio means bear. A small bronze found at Berne in Switzerland shows her. In this figure she sits before a huge bear near a tree. She holds a shallow saucer of fruit in her lap. The fruit reads as an offering to the bear. Berne means bear city in Switzerland. Inscriptions elsewhere name Artaios and Artaius as masculine bear gods. These bear gods link to Gaulish Mercury. The name Andarta also appears in inscriptions in Britain and Gaul. These inscriptions appear in Switzerland and in France. The second syllable of Andarta links to a bear. In function Artio matches the Greek goddess Artemis. People also saw Artemis as a bear.
 
 :::
 ```
 ``` tab [group1:Attributes]
-- **Artaios**: bear god
+- **Artio**: name means bear
+- **Artio**: worshiped in the form of a bear
+- **Andarta**: second syllable suggests a bear connection
+- **Artio**: similar in function to Artemis
+- **Artaios**: a bear god found in some regions
+- **Artio**: Dea Artio, a bear goddess of the Continental Celts
+- **Artio**: shown in a bronze at Berne, seated before a great bear with a dish of fruit
+- **Artaios**: masculine bear god linked to Gaulish Mercury
 ```
 ``` tab [group1:Entities]
-- **Artaios**: deity
+- **Artio**: Person
+- **Dea Artio**: Person
+- **Andarta**: Person
+- **Bear**: Being
+- **Artemis**: Person
+- **Artaios**: Person
+- **Berne**: Place
+- **Switzerland**: Place
+- **Dea Artio**: Deity
+- **Artaios**: Deity
+- **Artaius**: Deity
+- **Mercury**: Person
+- **Gaul**: Place
 ```
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
+- MacKillop 2008, s.v. 'Artio'
 ```

@@ -1,0 +1,35 @@
+{
+  "name": "Anaon",
+  "fname": "Anaon.json",
+  "text": "Anaon is a Breton word for the dead and for the land that lies beyond death. The name gathers the souls of the departed in the speech of Brittany. MacKillop connects the word with the Welsh idea of the other world that appears under Annwfn.",
+  "entities": [
+    {
+      "entity": "Anaon",
+      "type": "Spirits"
+    },
+    {
+      "entity": "Annwfn",
+      "type": "Place"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Anaon",
+      "attribute": "Breton word for the dead and the afterworld"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Anaon'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Record the Breton word Anaon.",
+    "key_results": [
+      "Name the word for the afterworld.",
+      "Link the term to the Welsh Annwfn."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Anaon'"
+  }
+}

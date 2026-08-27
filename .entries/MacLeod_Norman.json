@@ -1,0 +1,51 @@
+{
+  "name": "MacLeod, Norman",
+  "attributes": [
+    {
+      "entity": "MacLeod, Norman",
+      "attribute": "created the còmhradh dialogue genre for Gaelic prose"
+    },
+    {
+      "entity": "MacLeod, Norman",
+      "attribute": "raised awareness of the Highland potato famine of 1836-7 and championed emigration"
+    },
+    {
+      "entity": "Norman MacLeod",
+      "attribute": "known as Caraid nan Gaidheal, Friend of the Gaels, for his devoted service to Gaelic letters"
+    }
+  ],
+  "entities": [
+    {
+      "entity": "MacLeod, Norman",
+      "type": "Person"
+    },
+    {
+      "entity": "Norman",
+      "type": "Person"
+    },
+    {
+      "entity": "Caraid nan Gaidheal",
+      "type": "concept"
+    },
+    {
+      "entity": "còmhradh",
+      "type": "concept"
+    }
+  ],
+  "sources": [
+    "Koch 2006, s.v. 'MacLeod, Norman'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "text": "MacLeod, Norman was a Gaelic writer known as 'Caraid nan Gaidheal', the Friend of the Gaels. He wrote essays and sermons rooted in biblical language. He turned to the comhradh, a dialogue form for Gaelic prose. It used everyday speech through a few fictional Highland characters. The genre treated politics, emigration, education, and social change. MacLeod remained the writer most tied to this genre. During the potato famine that struck the Scottish Highlands in 1836-7 he raised awareness in the Lowlands and England. The campaign gathered over 150000 pounds. He preached in Ireland and prepared a metrical version of the Psalms in Irish in 1836. In 1831 he and Daniel Dewar compiled a Gaelic-English dictionary together.",
+  "okr": {
+    "objective": "Author a new PCE node for the Gaelic writer Norman MacLeod",
+    "key_results": [
+      "record his creation of the còmhradh dialogue genre",
+      "note his famine relief work and his support for emigration",
+      "record his Irish psalm translation and his Gaelic dictionary"
+    ],
+    "evidence": "Koch 2006, s.v. 'MacLeod, Norman'."
+  }
+}

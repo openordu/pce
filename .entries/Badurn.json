@@ -1,0 +1,40 @@
+{
+  "name": "Badurn",
+  "fname": "Badurn.json",
+  "text": "Badurn is a king in the old story of Ireland. One day his wife comes to a well and sees two fairy women there. The pair are joined one to the other by a chain. When they spy her they sink into the water, and she follows them into the fairy mound.",
+  "entities": [
+    {
+      "entity": "Badurn",
+      "type": "Character"
+    },
+    {
+      "entity": "Ireland",
+      "type": "Place"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Badurn",
+      "attribute": "a king in the old Irish story"
+    },
+    {
+      "entity": "Badurn",
+      "attribute": "his wife followed the two women into the mound"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Badurn'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Record the king Badurn and the tale of the well.",
+    "key_results": [
+      "Name the king.",
+      "Tell of the two women.",
+      "Follow the wife into the mound."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Badurn'"
+  }
+}

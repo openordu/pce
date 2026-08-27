@@ -1,0 +1,35 @@
+{
+  "name": "Answerer",
+  "fname": "Answerer.json",
+  "text": "Answerer is the English phrase for a terrible sword of Irish legend. The blade belongs to the sea god Manannan mac Lir and to other heroes of the tales. The Irish name of the sword has many spellings in the source. The dictionary keeps them together under one head and gives the full list there.",
+  "entities": [
+    {
+      "entity": "Answerer",
+      "type": "Object"
+    },
+    {
+      "entity": "Manannan mac Lir",
+      "type": "Character"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Answerer",
+      "attribute": "English name of a magic sword of Manannan"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Answerer'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Record the legendary sword names as the Answerer.",
+    "key_results": [
+      "Name the sword of the Irish sea.",
+      "Keep the long list of spellings."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Answerer'"
+  }
+}

@@ -1,0 +1,55 @@
+{
+ "name": "Massalia",
+ "attributes": [
+  {
+   "entity": "Massalia",
+   "attribute": "a Greek colonial city on the southern coast of Gaul, known today as Marseille"
+  },
+  {
+   "entity": "Massaliote Periplus",
+   "attribute": "a lost Greek coastal itinerary used as a source by Rufus Festus Avienius for the Latin poem Ora Maritima"
+  },
+  {
+   "entity": "gens Hiernorum",
+   "attribute": "renders the Greek form Iernoi, the oldest recorded name for the inhabitants of Ireland"
+  },
+  {
+   "entity": "insula Albionum",
+   "attribute": "holds the Greek form Albionej behind the earliest Celtic name for the island of Britain"
+  }
+ ],
+ "entities": [
+  {
+   "entity": "Massalia",
+   "type": "Place"
+  },
+  {
+   "entity": "Rufus Festus Avienius",
+   "type": "Person"
+  },
+  {
+   "entity": "Massaliote Periplus",
+   "type": "Text"
+  },
+  {
+   "entity": "Ora Maritima",
+   "type": "Text"
+  }
+ ],
+ "sources": [
+  "Koch 2006, s.v. 'Massalia'"
+ ],
+ "image": [],
+ "cyphertext": "",
+ "salt": "",
+ "text": "Massalia names the Greek trading city on the Gaulish coast that today bears the form Marseille. Its seafarers kept a lost sailing booklet, the Massaliote Periplus, that guided ships along the shore. The Latin poet Rufus Festus Avienius drew on that manual for his poem Ora Maritima in the later fourth century. The work preserves two Greek names of great age for the Celtic lands. One form, Iernoi, applies to the people of Ireland. A second form, Albionej, marks the island of Britain. Both words rank among the oldest on record for the Celtic inhabitants. Carthaginian rule over the Strait of Gibraltar around 550 BC anchors the dating. This reveals a time older than the voyage of Pytheas near 325 BC.",
+ "okr": {
+  "objective": "Author a new PCE node for the Greek port city Massalia and its Periplus",
+  "key_results": [
+   "record the Massaliote Periplus as a source for Avienius's Ora Maritima",
+   "note the oldest Greek names Iernoi and Albionej for the Irish and the British",
+   "state the date evidence drawn from Carthaginian control of Gibraltar"
+  ],
+  "evidence": "Koch 2006, s.v. 'Massalia'."
+ }
+}

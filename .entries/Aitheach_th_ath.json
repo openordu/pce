@@ -1,0 +1,27 @@
+{
+  "name": "Aitheach-thúath",
+  "text": "Aitheach-thúath names the vassal peoples who paid rent. The Irish plural aithech-thuatha carries the same meaning. In the Lebor Gabála they were pre-Gaelic peoples of Ireland. These people rose against the Gaelic Milesians. Their rebellion won only short-lived success. The Aitheach-thúath were sued for the later power of the invaders.",
+  "entities": [
+    {"entity": "Aitheach-thúath", "type": "Group"},
+    {"entity": "Milesians", "type": "Group"},
+    {"entity": "Lebor Gabála", "type": "concept"}
+  ],
+  "attributes": [
+    {"entity": "Aitheach-thúath", "attribute": "vassal and rent-paying peoples"},
+    {"entity": "Aitheach-thúath", "attribute": "pre-Gaelic peoples who rebelled against the Milesians"},
+    {"entity": "aithech-thuatha", "attribute": "Irish plural form of the name"}
+  ],
+  "sources": ["MacKillop 2008, s.v. 'Aitheach-thúath'"],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Document the vassal peoples named Aitheach-thúath.",
+    "key_results": [
+      "Define Aitheach-thúath as vassal and rent-paying peoples.",
+      "Record their revolt against the Milesians.",
+      "Note the short-lived success of the rising."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Aitheach-thúath'"
+  }
+}

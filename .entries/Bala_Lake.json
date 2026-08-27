@@ -1,0 +1,48 @@
+{
+  "name": "Bala Lake",
+  "fname": "Bala_Lake.json",
+  "text": "Bala Lake is a stretch of still water in the north of Wales. It is the widest sheet of fresh water in the country. The town at its edge takes its name from a place where a river runs out. The name lives on in the speech and the maps of Wales.",
+  "entities": [
+    {
+      "entity": "Bala Lake",
+      "type": "Place"
+    },
+    {
+      "entity": "Wales",
+      "type": "Place"
+    },
+    {
+      "entity": "Gwynedd",
+      "type": "Place"
+    },
+    {
+      "entity": "River Dee",
+      "type": "Place"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Bala Lake",
+      "attribute": "largest lake of Wales"
+    },
+    {
+      "entity": "Bala Lake",
+      "attribute": "a source of the river Dee"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Bala Lake'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Record the great lake of Wales.",
+    "key_results": [
+      "Name the lake.",
+      "Set it in Wales.",
+      "Give its place as a river source."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Bala Lake'"
+  }
+}

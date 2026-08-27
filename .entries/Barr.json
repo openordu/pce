@@ -1,0 +1,52 @@
+{
+  "name": "Barr",
+  "fname": "Barr.json",
+  "text": "Barr is the name of a saint of the Outer Hebrides. He is the one who gives a name to the island of Barra. His feast, once marked on a day of September, came to join that of Saint Michael. His name and his day show him to be the same as Barra, the figure also known as Finnbarr.",
+  "entities": [
+    {
+      "entity": "Barr",
+      "type": "Character"
+    },
+    {
+      "entity": "Barra",
+      "type": "Place"
+    },
+    {
+      "entity": "Finnbarr",
+      "type": "Character"
+    },
+    {
+      "entity": "Saint Michael",
+      "type": "Character"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Barr",
+      "attribute": "a saint of the Outer Hebrides"
+    },
+    {
+      "entity": "Barr",
+      "attribute": "eponym of the island of Barra"
+    },
+    {
+      "entity": "Barr",
+      "attribute": "identical with Barra or Finnbarr"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Barr'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Record Saint Barr and his bond to Barra.",
+    "key_results": [
+      "Give his island.",
+      "Name his feast.",
+      "Link him to Finnbarr."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Barr'"
+  }
+}

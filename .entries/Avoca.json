@@ -1,0 +1,44 @@
+{
+  "name": "Avoca",
+  "fname": "Avoca.json",
+  "text": "Avoca is a name that Thomas Moore made famous in his song The Meeting of the Waters. The place answers to an older form in the geography of Ptolemy. It is the same as the modern Avonmore in County Wicklow. The meeting of the Avonmore and Avonbeg rivers gives the song its subject and its title.",
+  "entities": [
+    {
+      "entity": "Avoca",
+      "type": "Place"
+    },
+    {
+      "entity": "Avonmore",
+      "type": "Place"
+    },
+    {
+      "entity": "Thomas Moore",
+      "type": "Character"
+    },
+    {
+      "entity": "Avonbeg",
+      "type": "Place"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Avoca",
+      "attribute": "place-name in County Wicklow made famous by Thomas Moore"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Avoca'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Record the place-name Avoca.",
+    "key_results": [
+      "Trace Avoca to Ptolemy's form.",
+      "Set it in County Wicklow.",
+      "Link it to The Meeting of the Waters."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Avoca'"
+  }
+}

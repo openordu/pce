@@ -1,0 +1,42 @@
+{
+  "name": "Aeneas",
+  "text": "Aeneas is a Trojan prince from classical mythology. Greek and Roman tradition names him the son of Anchises and Aphrodite. He carries the role of hero in the Aeneid. The Roman poet Virgil wrote the Aeneid as a Latin epic about him. In Ireland and Scotland the name Angus stood for his counterpart. The two heroes were once read as near equals across the cultures. Aeneas entered Celtic memory through that older comparison.",
+  "entities": [
+    {
+      "entity": "Aeneas",
+      "type": "Person"
+    },
+    {
+      "entity": "Aphrodite",
+      "type": "Deity"
+    },
+    {
+      "entity": "Anchises",
+      "type": "Person"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Aeneas",
+      "attribute": "a Trojan prince and the hero of the Aeneid"
+    },
+    {
+      "entity": "Aeneas",
+      "attribute": "once thought a counterpart of the Irish figure Angus"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Aeneas'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Record the hero Aeneas and his Celtic counterpart Angus.",
+    "key_results": [
+      "Describe Aeneas as the hero of Virgil's Aeneid.",
+      "Note that the Irish name Angus was read as his counterpart."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Aeneas'"
+  }
+}

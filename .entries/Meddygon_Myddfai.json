@@ -1,0 +1,55 @@
+{
+ "name": "Meddygon Myddfai",
+ "attributes": [
+  {
+   "entity": "Meddygon Myddfai",
+   "attribute": "a family of physicians reputed to have practised at Myddfai in Carmarthenshire for five centuries"
+  },
+  {
+   "entity": "Meddygon Myddfai",
+   "attribute": "traced back to Rhiwallon the Physician and his three sons under prince Rhys Gryg"
+  },
+  {
+   "entity": "Meddygon Myddfai",
+   "attribute": "linked by legend to a lake fairy of Llyn y Fan Fach held as their ancestor"
+  }
+ ],
+ "entities": [
+  {
+   "entity": "Meddygon Myddfai",
+   "type": "Group"
+  },
+  {
+   "entity": "Myddfai",
+   "type": "Place"
+  },
+  {
+   "entity": "Rhiwallon the Physician",
+   "type": "Person"
+  },
+  {
+   "entity": "Rhys Gryg",
+   "type": "Person"
+  },
+  {
+   "entity": "Llyn y Fan Fach",
+   "type": "Place"
+  }
+ ],
+ "sources": [
+  "Koch 2006, s.v. 'Meddygon Myddfai'"
+ ],
+ "image": [],
+ "cyphertext": "",
+ "salt": "",
+ "text": "Meddygon Myddfai names a family of physicians who worked at Myddfai in Carmarthenshire for about five centuries. Their active years began near 1200 to 1230. An old preface in many late manuscripts records the learning of Rhiwallon and his three sons. Rhiwallon bore the title the Physician. Those sons, Cadwgan, Gruffudd and Einion, served Rhys Gryg, prince of Dinefwr. Written evidence is scarce before the fourteenth century. Legend makes a fairy of the lake their ancestor, a tale tied to Llyn y Fan Fach. The family still holds the title of the Hippocrates of Welsh history.",
+ "okr": {
+  "objective": "Author a new PCE node for the Physicians of Myddfai",
+  "key_results": [
+   "record the family's five centuries of practice centred on Myddfai",
+   "note the source story of Rhiwallon and his three sons under Rhys Gryg",
+   "state the lake-fairy legend and the medical manuscript link"
+  ],
+  "evidence": "Koch 2006, s.v. 'Meddygon Myddfai'."
+ }
+}

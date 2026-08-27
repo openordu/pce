@@ -1,0 +1,52 @@
+{
+  "name": "Aoife",
+  "fname": "Aoife.json",
+  "text": "Aoife is an old Irish name that many women of the tales share. One holder is a warrior queen of the land of Alba. She is named the hardest woman fighter of the world. She fights with the woman Scathach, who may be her double in the tales. She loves her horses and her chariot above the rest. The hero Cuchulainn overcomes her in a single fight. The pair later become parents of a son, the boy Connla. A second holder is the third wife of the god Lir, the cruel one. She lets the children of Lir become swans.",
+  "entities": [
+    {
+      "entity": "Aoife",
+      "type": "Character"
+    },
+    {
+      "entity": "Scathach",
+      "type": "Character"
+    },
+    {
+      "entity": "Cuchulainn",
+      "type": "Character"
+    },
+    {
+      "entity": "Lir",
+      "type": "Character"
+    },
+    {
+      "entity": "Alba",
+      "type": "Place"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Aoife",
+      "attribute": "warrior queen of Alba, rival of Scathach"
+    },
+    {
+      "entity": "Aoife",
+      "attribute": "third wife of the god Lir"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Aoife'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Record the several women named Aoife.",
+    "key_results": [
+      "Name the warrior of Alba.",
+      "Tell of the fight with Scathach.",
+      "Set the wife of Lir."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Aoife'"
+  }
+}

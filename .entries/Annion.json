@@ -1,0 +1,35 @@
+{
+  "name": "Annion",
+  "fname": "Annion.json",
+  "text": "Annion is a Welsh spelling of the name Einion. MacKillop sets the word as a variant of the longer head. Several early Welsh men of letters carried this name, and the dictionary keeps the short form as a link.",
+  "entities": [
+    {
+      "entity": "Annion",
+      "type": "Person"
+    },
+    {
+      "entity": "Einion",
+      "type": "Character"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Annion",
+      "attribute": "variant spelling of the name Einion"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Annion'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Record the Welsh form Annion.",
+    "key_results": [
+      "Name the variant spelling.",
+      "Link the word to the name Einion."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Annion'"
+  }
+}

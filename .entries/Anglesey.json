@@ -16,6 +16,22 @@
     {
       "entity": "Paulinus",
       "attribute": "the Roman general who first invaded Anglesey in 60 C.E."
+    },
+    {
+      "entity": "Menai Strait",
+      "attribute": "the narrow water, also called Abermenai, that cuts Anglesey off from the mainland"
+    },
+    {
+      "entity": "Mon",
+      "attribute": "the Welsh name for Anglesey, distinct from Mona which usually names the Isle of Man"
+    },
+    {
+      "entity": "Llyn Cerrig Bach",
+      "attribute": "a bog on Anglesey that yielded great caches of metalwork and objects"
+    },
+    {
+      "entity": "Gwynedd",
+      "attribute": "the county of north Wales in which Anglesey has sat since 1974"
     }
   ],
   "entities": [
@@ -50,18 +66,43 @@
     {
       "entity": "Boudicca",
       "type": "Person"
+    },
+    {
+      "entity": "Menai Strait",
+      "type": "Place"
+    },
+    {
+      "entity": "Mon",
+      "type": "Place"
+    },
+    {
+      "entity": "Llyn Cerrig Bach",
+      "type": "Place"
+    },
+    {
+      "entity": "Owen Jones",
+      "type": "Person"
+    },
+    {
+      "entity": "Gwynedd",
+      "type": "Place"
+    },
+    {
+      "entity": "Myvyrian Archaiology of Wales",
+      "type": "Work"
     }
   ],
   "sources": [
     "Straffon, Cheryl. The Earth Goddess: Celtic and Pagan Legacy of the Landscape. London: Blandford, 1997.",
-    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.",
+    "MacKillop 2008, s.v. 'Anglesey'"
   ],
   "image": [
     "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/View_from_the_Anglesey_Coastal_Path_%28geograph_6222502%29.jpg/1200px-View_from_the_Anglesey_Coastal_Path_%28geograph_6222502%29.jpg"
   ],
   "cyphertext": "NtYCTlikOBF4_ozCkjBVUvj-OFohUK9njcpXClSnIqaQWkFJmq1IvwkDDmlIF4PM1U8Y3afiC8kmhHIB7I-VmYGbxWdAZUcTO9cvgVAqjambxJUuNZgl949qnQR5-Tm4TZn0UUYnF6Tv1JZHkZnsVc351dSBOS8Ym4Bc0nASQ6rFhYEqKO5T4ijmhz3VPuTw_gCMqFfoSnlWq6tKFS3P5I3cMdD_qhrluDK3QlVQQFO5ngODuG7ngFhOmMulitAp4B2Uw4OqoQBZgEfc555EgvAZDOG4lyJMxoY4Wnnq6gA-wXQsL1cx3bXisIGVJdqty1D3GKceLi8zrsHMvQnojySaRarn7FIZFGw0U-2E35zpq_OhHs0kv-HphMib4MJjZoyo0sDPLmPzBMELgEzE5VyJY3MmWtiFllfcEmNbGMI-t3HsqqUlOz89zhukf_QCQQdnHbKJXVNdapdVfhbcafNrf5Ogh8Uwx8gocQjcSHG65kSMqx9yknAOa8xEhNQpqgxGxZ-CUuIqxQBYBfuyIYaAmMiALqprfI28mLx-8l-BTevD6L9cpRugvY7_T9bvOAX0rC7UVWzkJCU7gyYsjkrQ5YyH877p3v6aXHC4oVDaVmXhxGqIrq-thgK57QPW6tyrxDGe19SxYUt4c9D8koScmGr9Xo7x_CD4daf6xVUbsUJzgMqXzcMk3Qy30yPjA3dG59VELusqW-i6qy17RhPVI0U9OOC9kJsB0lrRd8PxD8R9C211YEItquScOVHjNZNLE9XxmbuZETpq6GTwXr7IwzmHLkzJiGdSNy3dpod-HQayQvth-ZS5KJBUglvQ2e81K81D-wDHG69tCO0h98NH2OgLxgk1-BPy-MamAP8pNWLAr1lgG-MFIgVZERpazLKNL0bxXAmtPBNN8ibL1rEEJa5TiNCpY4rIvoFh4XDGZzHE_6XgfY5qdM8SRLJSZXfogLQrWIc559nj3ksZHn5AJ5tGZqiTsFa96SmPNYg3aUB6Wf7r79T1mQLHBw5J7AD14IscdPknHmucvBVcmNaLzr2wVSapjHdH4dq2wuXwgcfOspusxLaReZCJmZv4p9D0eTamhceTs9k6TtvPZwnBh0MQ5IDEKDWPquREkGTX1et4vdINmcx8gfJw3TBpw0jF-N6S5-iPEZAXXcsqdQ-kUkdlp8TA69S9lCfJ3F2w-Sr8vj615Xy-imMDVCBgWt0VFgxPrsLB7fMNQVnyknhXQTy6Lu52331YOUmn5c5N3pV1-s0VS-DEsVKv723ciWMygUcr_x8p5C_t17J_EUHHl-sJXlPogBkuwQoj_HKbX17g_Qp5u0L9lVcwtSqZkfAJdwAPwp0Gl2vHd9j31tV8W_qYLfG74mt64jdPCFnpkIJmZOzyuZ9Ejo1fPH5sWnukBI7tv3mkVyEFC1UzA3Fhby_9WhFICdy0gCMPjrw412uAg_3ufMaQfUXcfvAuArFaZn9BSN_sEUG8lyJl2GWpQFGWVJkHWa3TxwTlq7SefhxCoXMMNvOIgvDQizPKGGLl2Bdt_k2GGar8eKkcdF9XP_TKN-IrUpftM5-0CycpAf4qH6prnUYOw4bcmhoKmByYIIEzY3RGF0N7g01QOHtBtVkTFtU7ITdMXRNZ9kse8_moalpBRwf_i7zAU8296qDPmVB3N2fBDgKnJR0dHEY0f5WjO0BbW6__miqv43AXgfj8VEmwsETZsvsAxSt-_gTFwbHHp3SpzeUDNXxdqffsOkvY64nPGoc2kOjWXbpW01x1WNaDwPC7PLjPlEORJmEH2cmF5WIch0JlHGJ6Z5Bm4M-qW8MNznEM2RpG8QNZA6hgYTdCUf3vDKdL89sblzYqtw==",
   "salt": "vt75uNa35A5Wz6CR5ZTQUA==",
-  "text": "Anglesey, also called Mona, is a British and Welsh sacred site. It held a druidic college. The Roman writer Tacitus said the island off the north coast of Wales was the site of a druid sanctuary. Around 59 to 64 C.E. Roman soldiers attacked it. Celtic women, robed in black, screamed like the raven goddess Mórrígan while the druids fought. The Romans had already cut down the sacred groves of other Celtic peoples and killed their clergy. So the druids of Anglesey knew what awaited them. They died in battle or by execution, and the Romans burned the forests. The island’s wealth survived. Bogs and lakes on Anglesey have yielded great hoards of Celtic goods, which the druids may have hidden before the attack. The island stands in the Irish Sea. A cairn on the hill of Bryn-Celli-Dhu shows the site was holy even before the Celts arrived. Tacitus records that the Romans first invaded under the general Paulinus in 60 C.E., but could not hold the island because of Boudicca’s revolt.",
+  "text": "Anglesey, also called Mona, is a British and Welsh sacred site. It held a druidic college. The Roman writer Tacitus said the island off the north coast of Wales was the site of a druid sanctuary. Around 59 to 64 C.E. Roman soldiers attacked it. Celtic women, robed in black, screamed like the raven goddess Mórrígan while the druids fought. The Romans had already cut down the sacred groves of other Celtic peoples and killed their clergy. So the druids of Anglesey knew what awaited them. They died in battle or by execution, and the Romans burned the forests. The island’s wealth survived. Bogs and lakes on Anglesey have yielded great hoards of Celtic goods, which the druids may have hidden before the attack. The island stands in the Irish Sea. A cairn on the hill of Bryn-Celli-Dhu shows the site was holy even before the Celts arrived. Tacitus records that the Romans first invaded under the general Paulinus in 60 C.E., but could not hold the island because of Boudicca’s revolt. MacKillop notes that a narrow stretch of water, the Menai Strait, now called Abermenai, cuts Anglesey off from the mainland of north Wales. Mon is what the people of Wales call this island, a word that some texts confuse with a different Mona, a name that usually points to the island called Man. Great caches of metalwork and other objects from the bog at Llyn Cerrig Bach may mark the effort of the island druids to escape near-total defeat. In the Myvyrian Archaiology of Wales, assembled from medieval material by Owen Jones in the 1800s, Anglesey is tied to noble birth, wise men, and holy relics. Since 1974 the whole Isle of Anglesey has sat inside the county of Gwynedd.",
   "okr": {
     "objective": "Record Anglesey (Mona), a sacred site of the druids.",
     "key_results": [
@@ -69,6 +110,6 @@
       "Show the surviving hoards and the hill of Bryn-Celli-Dhu.",
       "Show the Roman invasion under Paulinus and Boudicca's revolt."
     ],
-    "evidence": "Monaghan 2003, s.v. Anglesey; Koch 2006, s.v. Aberffraw; Tacitus, Annals 14.29-30"
+    "evidence": "Monaghan 2003, s.v. Anglesey; Koch 2006, s.v. Aberffraw; Tacitus, Annals 14.29-30; MacKillop 2008, s.v. Anglesey"
   }
 }

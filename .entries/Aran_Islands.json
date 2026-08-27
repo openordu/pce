@@ -1,0 +1,43 @@
+{
+  "name": "Aran Islands",
+  "fname": "Aran_Islands.json",
+  "text": "The Aran Islands are a group of bare islands off the west coast of Ireland. They lie across the mouth of Galway Bay. The three great isles are Inishmore, Inishmaan, and Inisheer. The largest, Inishmore, carries the great stone ring of Dun Aonghusa. The island group is one of the strongholds of the old Irish tongue. The writer John Millington Synge drew the life of the island into his plays.",
+  "entities": [
+    {
+      "entity": "Aran Islands",
+      "type": "Place"
+    },
+    {
+      "entity": "Galway",
+      "type": "Place"
+    },
+    {
+      "entity": "Inishmore",
+      "type": "Place"
+    },
+    {
+      "entity": "Dun Aonghusa",
+      "type": "Place"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Aran Islands",
+      "attribute": "islands across the mouth of Galway Bay, home of Dun Aonghusa"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Aran Islands'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Record the Aran Islands.",
+    "key_results": [
+      "Set the islands in Galway Bay.",
+      "Name the great fort Dun Aonghusa."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Aran Islands'"
+  }
+}

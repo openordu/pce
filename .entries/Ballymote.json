@@ -1,0 +1,48 @@
+{
+  "name": "Ballymote",
+  "fname": "Ballymote.json",
+  "text": "Ballymote is a town in the county of Sligo in the west of Ireland. Its name means townland of the mount. An old Irish manuscript, the Book of Ballymote, was put together at this place. That book is a storehouse of medieval Irish learning and stories.",
+  "entities": [
+    {
+      "entity": "Ballymote",
+      "type": "Place"
+    },
+    {
+      "entity": "Sligo",
+      "type": "Place"
+    },
+    {
+      "entity": "Book of Ballymote",
+      "type": "Work"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Ballymote",
+      "attribute": "a town in County Sligo"
+    },
+    {
+      "entity": "Ballymote",
+      "attribute": "gave its name to the Book of Ballymote"
+    },
+    {
+      "entity": "Ballymote",
+      "attribute": "means townland of the mount"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Ballymote'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Describe the town of Ballymote and its noted manuscript.",
+    "key_results": [
+      "Give the meaning of the name.",
+      "Set the town in Sligo.",
+      "Name the book compiled there."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Ballymote'"
+  }
+}

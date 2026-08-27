@@ -1,0 +1,39 @@
+{
+  "name": "Ail na Mírenn",
+  "text": "Ail na Mírenn, sometimes written Aill na Mureann, points to Uisnech. Uisnech stands as the sacred center of Ireland. There the provinces met at the stone of divisions. Ail na Mírenn literally names that stone.",
+  "entities": [
+    {
+      "entity": "Ail na Mírenn",
+      "type": "Place"
+    },
+    {
+      "entity": "Uisnech",
+      "type": "Place"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Ail na Mírenn",
+      "attribute": "another name for Uisnech, the stone of divisions"
+    },
+    {
+      "entity": "Ail na Mírenn",
+      "attribute": "the sacred center of Ireland where the provinces met"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Ail na Mírenn'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Connect Ail na Mírenn to Uisnech, the sacred center of Ireland.",
+    "key_results": [
+      "Recognize Ail na Mírenn as another name for Uisnech.",
+      "Translate the term as the stone of divisions.",
+      "Place the site at the meeting point of the provinces."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Ail na Mírenn'"
+  }
+}

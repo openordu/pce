@@ -1,0 +1,40 @@
+{
+  "name": "Aulomm",
+  "fname": "Aulomm.json",
+  "text": "Aulomm is a second way of writing the name of the Munster king Ailill Aulom. The dictionary points the reader who finds this form to the longer entry. The man belongs to the legend of the kings of the South and of the cattle raid of the island.",
+  "entities": [
+    {
+      "entity": "Aulomm",
+      "type": "Character"
+    },
+    {
+      "entity": "Ailill Aulom",
+      "type": "Character"
+    },
+    {
+      "entity": "Munster",
+      "type": "Place"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Aulomm",
+      "attribute": "alternate spelling of the name Ailill Aulom"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Aulomm'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Record Aulomm as a variant of the name Ailill Aulom.",
+    "key_results": [
+      "Give Aulomm as a variant name.",
+      "Point to the entry on Ailill Aulom.",
+      "Place the king in Munster."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Aulomm'"
+  }
+}

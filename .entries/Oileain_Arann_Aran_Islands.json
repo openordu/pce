@@ -1,0 +1,34 @@
+{
+  "name": "Oileáin Árann (Aran Islands)",
+  "text": "Oileáin Árann (Aran Islands) are three islands in the county of Galway. They are known to English speakers as the Aran Islands. They stretch across the entrance to Galway Bay. Inis Mór (Inishmore, 'Great Island'), Inis Meáin (Inishmaan, 'Middle Island'), and Inis Oirr (Inisheer, 'Eastern Island') form the group. The landscape is set with imposing stone forts and churches in stone. Some of the forts date originally from the Late Bronze Age. That period runs about 1200 to 600 bc. The forts were rebuilt at times into the medieval period. The monumental cliff-top fort of Dún Aonghasa on Inis Mór matches this archaeological pattern and may have served ceremonial purposes. The Dindshenchas Érenn traces the origin of Dún Aonghasa to a legendary ruler named Aonghas. The islands are also rich in ecclesiastical remains. A tradition of early monastic settlement marks them. They preserve a distinctive limestone landscape and a living Irish-speaking community. The islands have long drawn scholars, antiquarians, and writers interested in Irish language, folklore, and material culture.",
+  "entities": [
+    {"entity": "Aran Islands", "type": "Place"},
+    {"entity": "Inis Mór", "type": "Place"},
+    {"entity": "Inis Meáin", "type": "Place"},
+    {"entity": "Inis Oirr", "type": "Place"},
+    {"entity": "Dún Aonghasa", "type": "Place"},
+    {"entity": "Contae na Gaillimhe", "type": "concept"}
+  ],
+  "attributes": [
+    {"entity": "Aran Islands", "attribute": "three islands across the entrance to Galway Bay"},
+    {"entity": "Inis Mór", "attribute": "largest Aran island, the 'Great Island', site of Dún Aonghasa"},
+    {"entity": "Inis Meáin", "attribute": "the 'Middle Island' of the Aran group"},
+    {"entity": "Inis Oirr", "attribute": "the 'Eastern Island' of the Aran group"},
+    {"entity": "Dún Aonghasa", "attribute": "monumental stone fort on a cliff-top on Inis Mór"},
+    {"entity": "Aran Islands", "attribute": "landscape of large stone forts and stone churches"}
+  ],
+  "okr": {
+    "objective": "Document the Aran Islands off the coast of Galway.",
+    "key_results": [
+      "Name the three islands and their positions across Galway Bay",
+      "Record the Late Bronze Age origins of the stone forts",
+      "Describe the cliff-top fort of Dún Aonghasa on Inis Mór",
+      "Note the islands' ecclesiastical and Irish-speaking heritage"
+    ],
+    "evidence": "Koch 2006, s.v. 'Oileáin Árann (Aran Islands)'."
+  },
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "sources": ["Koch 2006, s.v. 'Oileáin Árann (Aran Islands)'"]
+}

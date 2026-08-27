@@ -1,42 +1,79 @@
 {
-    "name": "Baile",
-    "attributes": [
-        {
-            "entity": "Baile",
-            "attribute": "cross-referenced to the entry on Ailinn"
-        },
-        {
-            "entity": "Baile Binnbhéarlach",
-            "attribute": "sweet-spoken prince of Ulster and lover of Ailinn"
-        }
-    ],
-    "entities": [
-        {
-            "entity": "Baile",
-            "type": "Person"
-        },
-        {
-            "entity": "Ailinn",
-            "type": "Person"
-        },
-        {
-            "entity": "Baile Binnbhéarlach",
-            "type": "Person"
-        }
-    ],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "cyphertext": "GlLV5ebnI7vZKyBZgWNhhFdOHKz-x1X45jWCRUnw3ufqW_wHTym5hKxAySdnLg==",
-    "salt": "9yMmftYDoF6L8XRzFgC-EA==",
-    "text": "The encyclopedia directs readers from Baile to the entry on Ailinn. The name belongs to Baile Binnbhéarlach, the sweet-spoken prince of Ulster who was Ailinn's lover. See Ailinn.",
-    "okr": {
-        "objective": "Cross-reference Baile to the story of Ailinn and her lover Baile Binnbhéarlach.",
-        "key_results": [
-            "The Baile entry points to the entry on Ailinn.",
-            "Baile Binnbhéarlach was a prince of Ulster.",
-            "Baile Binnbhéarlach was the lover of Ailinn."
-        ],
-        "evidence": "Monaghan 2008, s.v. 'Baile'."
+  "name": "Baile",
+  "attributes": [
+    {
+      "entity": "Baile",
+      "attribute": "cross-referenced to the entry on Ailinn"
+    },
+    {
+      "entity": "Baile Binnbhéarlach",
+      "attribute": "sweet-spoken prince of Ulster and lover of Ailinn"
+    },
+    {
+      "entity": "Baile Binnberlach",
+      "attribute": "heir to the Ulster throne"
+    },
+    {
+      "entity": "Baile Binnberlach",
+      "attribute": "tragic lover of Ailinn of Leinster"
+    },
+    {
+      "entity": "Baile Binnberlach",
+      "attribute": "died of grief on false news of Ailinn's death"
+    },
+    {
+      "entity": "Baile Binnberlach",
+      "attribute": "a yew grew from his grave and an apple from Ailinn's"
     }
+  ],
+  "entities": [
+    {
+      "entity": "Baile",
+      "type": "Person"
+    },
+    {
+      "entity": "Ailinn",
+      "type": "Person"
+    },
+    {
+      "entity": "Baile Binnbhéarlach",
+      "type": "Person"
+    },
+    {
+      "entity": "Baile Binnberlach",
+      "type": "Person"
+    },
+    {
+      "entity": "Emain Macha",
+      "type": "Place"
+    },
+    {
+      "entity": "Leinster",
+      "type": "Place"
+    },
+    {
+      "entity": "Scel Baili Binnberlaig",
+      "type": "Work"
+    },
+    {
+      "entity": "W. B. Yeats",
+      "type": "Person"
+    }
+  ],
+  "sources": [
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.",
+    "MacKillop 2008, s.v. 'Baile'"
+  ],
+  "cyphertext": "GlLV5ebnI7vZKyBZgWNhhFdOHKz-x1X45jWCRUnw3ufqW_wHTym5hKxAySdnLg==",
+  "salt": "9yMmftYDoF6L8XRzFgC-EA==",
+  "text": "Baile Binnberlach is a tragic prince of early Irish tradition. His name reads as Baile of the clear voice. He was heir to the Ulster throne. He was the lover of Ailinn of Leinster. The story of their love, Scel Baili Binnberlaig, dates from the eleventh century. Baile was travelling south from Emain Macha when he heard a false tale. It said that Ailinn was dead. He died of grief at the news. Ailinn, travelling north, heard of Baile's death and also perished. A yew tree grew from his grave, and an apple tree from hers. Then poets and seers felled the trees. The men of Ulster wrote on the yew, and the men of Leinster on the apple. The poet W. B. Yeats drew on the tale often. His poem Baile and Ailinn keeps the story alive.",
+  "okr": {
+    "objective": "Record Baile Binnberlach, the sweet-spoken prince who died for love of Ailinn.",
+    "key_results": [
+      "Document Baile as heir to the Ulster throne and lover of Ailinn.",
+      "Tell the Scel Baili story of grief and death.",
+      "Note the yew and apple trees and Yeats's poem."
+    ],
+    "evidence": "Monaghan 2008, s.v. Baile; MacKillop 2008, s.v. 'Baile'"
+  }
 }

@@ -2,54 +2,96 @@
 layout: layouts/pce.njk
 title: Balor
 icon: file-lines
-order: 188
+order: 0
 contributors: [ 'Christopher Godwin' ]
 attributes:
-  - Balor lasted long in Irish folklore
-  - Balor appears as a pirate
-  - Balor living on Tory Island
-  - Balor struggling against those who would steal his magical cow
-  - Tory Island off the northwest coast
-  - magical cow owned by Balor
+  - Balor king of the Fomorians
+  - Balor father of Eithne
+  - Balor stole the magical cow Glas Ghaibhleann from a smith
+  - Balor evil eye could split boulders and had to be lifted by four men
+  - Cethlion consort whose poison killed the god Dagda
+  - Balor associated with Mizen Head and Land's End
+  - Balor also called Balar and Bolar, Balor of the Evil Eye
+  - Balor evil eye opened only on the battlefield, lifted by four men
+  - Balor an army that saw the eye was rendered powerless
+  - Balor got the eye as a child when he saw his father's druids brew charms
+  - Balor once read as the sun deity of the Celts
+  - Balor compared with the Welsh Ysbaddaden Pencawr
 categories:
-  - person
-  - place
-  - culture
-  - object
+  - Animal
+  - Group
+  - Place
+  - Deity
+  - Being
+  - Person
 entities:
-  - Balor(person)
-  - Irish folklore(culture)
-  - Tory Island(place)
-  - magical cow(object)
+  - Balor(Deity)
+  - Eithne(Person)
+  - Lugh(Deity)
+  - Goibniu(Deity)
+  - Cethlion(Being)
+  - Dagda(Deity)
+  - Fomorians(Group)
+  - Glas Ghaibhleann(Animal)
+  - Mag Tuired(Place)
+  - Mizen Head(Place)
+  - Balar(Person)
+  - Bolar(Person)
+  - Ysbaddaden Pencawr(Person)
 tags:
   - Balor
-  - Irish folklore
-  - Tory Island
-  - magical cow
+  - Eithne
+  - Lugh
+  - Goibniu
+  - Cethlion
+  - Dagda
+  - Fomorians
+  - Glas Ghaibhleann
+  - Mag Tuired
+  - Mizen Head
+  - Balar
+  - Bolar
+  - Ysbaddaden Pencawr
 ---
 ``` tab [group1:Info]
 ::: magazinestyle
-Balor, also known as Balar, Bolar, or Balor of the Evil Eye, is an Irish deity. Prior to the arrival of the Celts in Ireland, the land was inhabited by other names now lost to history. Ireland's mythological history, the Book Of Invasions, records various waves of newcomers who arrived on the island and all had to battle the monstrous Fomorians who possessed the territory before the first invaders came. Balor was the leader of the Fomorians. His daughter was the lovely Eithne, and a prophecy warned that she would give birth to a son destined to kill his grandfather. Balor attempted to outsmart the prophecy by locking his daughter away in a tower, assuming that if Eithne never encountered a man, she could never get pregnant, and thus would spare Balor's life. However, Balor's own greed led to his downfall. He stole a magical cow named Glas Ghaibhleann, which belonged to a Smith and was cared for by a man named Cian. Threatened with death by the owner of the cow unless he retrieved it, Cian went to Balor's domain and found the tower where Eithne was incarcerated. To reach Eithne, Cian disguised himself as a woman. Eithne bore Cian three sons, whom their furious and frightened grandfather threw into the sea once he found out about their existence. Cian was able to rescue one of them, who grew up to be Lugh, a god and hero. (Eithne's husband is occasionally referred to as MacInelly.) Lugh was the one who fulfilled the prophecy of killing his grandfather at the second battle of Mag Tuired, which resulted in the Fomorians' defeat and the island being taken away from their control. Lugh, a demigod born of a Fomorian mother, joined forces with the Tuatha Dé Danann, a clan led by the goddess Danu. During the battle, Lugh proved himself a master of accuracy when he wielded a slingshot or magical spear created by the smith god Goibniu and used it to blind Balor, ultimately removing his head. However, even in death, Balor's eye remained potent, reportedly able to shatter boulders. Some accounts portrayed Balor's eye as a third eye situated in the middle of his forehead, emitting fire and chaos. Alternatively, it may have been a standard eye that released poison from gas created by his father's Druids. The eye, renowned for its destructiveness, only opened if four men lifted its heavy lid, rendering anyone who met its gaze helpless. Balor, who had an ocular abnormality, was known as Balor of the Evil Eye (Birug-derc) or the Strong-Smiting one (Bailcbhemneach). His partner Cethlion, who had poisonous abilities, killed one of the good gods, Dagda, too. Balor was connected to Mizen Head (Carn Uí Néit, "the Burial-Place of Neit's Grandson") in Cork and Land's End in Wales. As a result, he is sometimes believed to be a sun god, depicted as a single eye that represents the setting sun from the southwestern cliffs. Other interpretations link him to the winter season, which destroys growing plants with frost and cold. Some even argue that he is the Irish counterpart to the Roman's Dis Pater, the Otherworld god. In Irish folklore, a notable figure known as Balor persevered, appearing as a pirate residing on Tory Island situated off the coast of northwest Ireland. He battled against individuals attempting to thieve his magical cow.
+Balor is an Irish god. He is also called Balar and Bolar. People know him as Balor of the Evil Eye. He reigned as king of the Fomorians, the monstrous race who held Ireland before the first invaders. His daughter was the fair Eithne. A prophecy warned that a son born to Eithne would kill his grandfather. Balor locked Eithne in a tower so she would never meet a man. Balor's greed undid that plan. He stole the magical cow Glas Ghaibhleann from a smith. The hero Lugh struck Balor in the great conflict of Mag Tuired. Lugh cut off Balor's head. Even in death, Balor's remaining eye could split boulders. His evil eye opened only on the battlefield. It took four men to raise the heavy lid. Any army that met its gaze lost all strength. Balor gained the terrible eye in childhood. He watched his father's druids mix their charms. Scholars once read him as the solar god of the Celts. He is often compared with the Welsh Ysbaddaden Pencawr. His consort Cethlion had powers that killed the god Dagda.
 
 :::
 ```
 ``` tab [group1:Attributes]
-- **Balor**: lasted long in Irish folklore
-- **Balor**: appears as a pirate
-- **Balor**: living on Tory Island
-- **Balor**: struggling against those who would steal his magical cow
-- **Tory Island**: off the northwest coast
-- **magical cow**: owned by Balor
+- **Balor**: king of the Fomorians
+- **Balor**: father of Eithne
+- **Balor**: stole the magical cow Glas Ghaibhleann from a smith
+- **Balor**: evil eye could split boulders and had to be lifted by four men
+- **Cethlion**: consort whose poison killed the god Dagda
+- **Balor**: associated with Mizen Head and Land's End
+- **Balor**: also called Balar and Bolar, Balor of the Evil Eye
+- **Balor**: evil eye opened only on the battlefield, lifted by four men
+- **Balor**: an army that saw the eye was rendered powerless
+- **Balor**: got the eye as a child when he saw his father's druids brew charms
+- **Balor**: once read as the sun deity of the Celts
+- **Balor**: compared with the Welsh Ysbaddaden Pencawr
 ```
 ``` tab [group1:Entities]
-- **Balor**: person
-- **Irish folklore**: culture
-- **Tory Island**: place
-- **magical cow**: object
+- **Balor**: Deity
+- **Eithne**: Person
+- **Lugh**: Deity
+- **Goibniu**: Deity
+- **Cethlion**: Being
+- **Dagda**: Deity
+- **Fomorians**: Group
+- **Glas Ghaibhleann**: Animal
+- **Mag Tuired**: Place
+- **Mizen Head**: Place
+- **Balar**: Person
+- **Bolar**: Person
+- **Ysbaddaden Pencawr**: Person
 ```
 ``` tab [group1:Sources]
 - Curtin, Jeremiah. Hero-Tales of Ireland. (New York: Benjamin Blom, 1894), 296, 304.
 - MacCulloch, J. A. The Religion of the Ancient Celts. London: Constable, 1911.
 - Ó hÓgain, Dáithí. Myth, Legend and Romance: An Encyclopedia of the Irish Folk Tradition. New York: Prentice-Hall Press, 1991, 43.
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
+- MacKillop 2008, s.v. 'Balor'
 ```

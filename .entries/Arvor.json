@@ -1,0 +1,44 @@
+{
+  "name": "Arvor",
+  "fname": "Arvor.json",
+  "text": "Arvor is the name of the old people of Brittany for the coast of that land. The sense of the word is the by-the-sea, the shore of the west. The people set the name against the word that marks the inner wood of the coast. The modern region at the north of the land draws its title from the same root.",
+  "entities": [
+    {
+      "entity": "Arvor",
+      "type": "Place"
+    },
+    {
+      "entity": "Brittany",
+      "type": "Place"
+    },
+    {
+      "entity": "Argoad",
+      "type": "Place"
+    },
+    {
+      "entity": "Côte d'Armor",
+      "type": "Place"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Arvor",
+      "attribute": "Breton name of the coastal land of Brittany"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Arvor'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Record the coastal name Arvor.",
+    "key_results": [
+      "Give the sense of the sea.",
+      "Set the coast of the land.",
+      "Name the inner land it stands against."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Arvor'"
+  }
+}

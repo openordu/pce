@@ -2,7 +2,7 @@
 layout: layouts/pce.njk
 title: Bath
 icon: file-lines
-order: 203
+order: 0
 contributors: [ 'Christopher Godwin' ]
 attributes:
   - Celtic custom of throwing coins into water-sources
@@ -17,16 +17,19 @@ attributes:
   - Sul Celtic goddess of the site, merged with Minerva
   - Bath site of the Celtic coin-throwing custom
   - Bath source of 16,000 coins and more than 50 cursing tablets
+  - Bath a resort town twelve miles south-east of Bristol
+  - Bath medicinal waters known from prehistoric times
+  - Bath linked by Gildas, Bede, and the Historia Brittonum to Mount Badon
 categories:
-  - Deity
+  - Culture
   - Group
-  - Location
-  - City
-  - Quantity
   - Material
   - Place
+  - Quantity
+  - Location
+  - Deity
   - Person
-  - Culture
+  - City
 entities:
   - Celtic(Culture)
   - Bath(City)
@@ -43,6 +46,8 @@ entities:
   - Minerva(Deity)
   - Aquae Sulis(Place)
   - Celtic(Group)
+  - Bristol(Place)
+  - Mount Badon(Place)
 tags:
   - Celtic
   - Bath
@@ -59,10 +64,12 @@ tags:
   - Minerva
   - Aquae Sulis
   - Celtic
+  - Bristol
+  - Mount Badon
 ---
 ``` tab [group1:Info]
 ::: magazinestyle
-Bath is a British site of note for its hot springs. The town in southwestern England possesses restorative waters long held sacred. The Romans called the place Aquae Sulis, taking the name of the Celtic deity Sul. They merged her with the healing goddess Minerva and built temples and baths that still stand. The Celtic custom of tossing offerings into water was observed at Bath. People also engraved curses on sheets of lead. Excavation has recovered over 16,000 coins and more than 50 cursing tables. In Welsh the town is called Caer Faddon. Writers including Gildas, Bede, and the Historia Brittonum link the town to the battle of Mount Badon. In Old English it carried the names Hat Bathu and æt Baðum, which refer to the Roman baths. A Roman highway, Akeman Street, carries one of the older names for the town.
+Bath is a British site of note for its hot springs. The town lies in south-west England, twelve miles south-east of Bristol. People have known its healing waters since prehistoric times. The Romans called the place Aquae Sulis. They took the name of the Celtic deity Sul and merged her with Minerva. They built temples and baths that still stand. The Celtic custom of tossing offerings into water was observed at Bath. People also engraved curses on sheets of lead. Excavation has recovered more than 16,000 coins and over 50 cursing tables. In Welsh the town is called Caer Faddon. Writers including Gildas, Bede, and the Historia Brittonum link the town to the battle of Mount Badon. In Old English it carried the names Hat Bathu and at Badhum, which refer to the Roman baths.
 
 :::
 ```
@@ -79,6 +86,9 @@ Bath is a British site of note for its hot springs. The town in southwestern Eng
 - **Sul**: Celtic goddess of the site, merged with Minerva
 - **Bath**: site of the Celtic coin-throwing custom
 - **Bath**: source of 16,000 coins and more than 50 cursing tablets
+- **Bath**: a resort town twelve miles south-east of Bristol
+- **Bath**: medicinal waters known from prehistoric times
+- **Bath**: linked by Gildas, Bede, and the Historia Brittonum to Mount Badon
 ```
 ``` tab [group1:Entities]
 - **Celtic**: Culture
@@ -96,9 +106,12 @@ Bath is a British site of note for its hot springs. The town in southwestern Eng
 - **Minerva**: Deity
 - **Aquae Sulis**: Place
 - **Celtic**: Group
+- **Bristol**: Place
+- **Mount Badon**: Place
 ```
 ``` tab [group1:Sources]
 - Ross, Anne, and Michael Cyprien. A Traveller’s Guide to Celtic Britain. Harrisburg, Pa.: Historical Times, 1985, 19.
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 - Koch 2006, s.v. 'Bath'
+- MacKillop 2008, s.v. 'Bath'
 ```

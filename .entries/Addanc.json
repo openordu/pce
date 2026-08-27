@@ -1,0 +1,43 @@
+{
+  "name": "Addanc",
+  "text": "Addanc is one spelling of the Welsh water beast more often named Afanc. The creature hides in the whirlpool of the river Llyn yr Afanc. That river runs through north Wales and carries the monster name. Early reports call the beast both a giant beaver and a crocodile. Tales about the Addanc survive from as early as the seventeenth century. The Welsh Triads make the creature cause a great flood. Related beasts include the Scottish kelpie and the Irish each uisce.",
+  "entities": [
+    {
+      "entity": "Addanc",
+      "type": "Being"
+    },
+    {
+      "entity": "Afanc",
+      "type": "Being"
+    },
+    {
+      "entity": "River Conway",
+      "type": "Place"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Addanc",
+      "attribute": "a spelling variant of the Welsh water monster Afanc"
+    },
+    {
+      "entity": "Addanc",
+      "attribute": "dwells in the whirlpool of Llyn yr Afanc on the River Conway"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Addanc'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Profile Addanc, the Welsh spelling of the water monster Afanc.",
+    "key_results": [
+      "Note Addanc as a variant spelling of Afanc.",
+      "Place the creature in Llyn yr Afanc on the River Conway.",
+      "List the related water monsters of Celtic folklore."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Addanc'"
+  }
+}

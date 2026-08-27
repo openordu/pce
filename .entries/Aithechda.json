@@ -1,0 +1,28 @@
+{
+  "name": "Aithechda",
+  "text": "Aithechda, also Aithechdae, means vassal, peasant, churl, or plebe. In the Lebor Gabála this figure is a son of Japheth. Japheth himself is a son of Noah. Aithechda counts as the ancestor of Partholón. He is the oldest figure whose name is non-biblical at the head of that line. The Lebor Gabála remains the Book of Invasions.",
+  "entities": [
+    {"entity": "Aithechda", "type": "Person"},
+    {"entity": "Japheth", "type": "Person"},
+    {"entity": "Noah", "type": "Person"},
+    {"entity": "Partholón", "type": "Person"}
+  ],
+  "attributes": [
+    {"entity": "Aithechda", "attribute": "vassal and peasant in Irish"},
+    {"entity": "Aithechda", "attribute": "son of Japheth and ancestor of Partholón"},
+    {"entity": "Aithechda", "attribute": "oldest non-biblical name in the post-diluvian invader pedigree"}
+  ],
+  "sources": ["MacKillop 2008, s.v. 'Aithechda'"],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Document the figure named Aithechda.",
+    "key_results": [
+      "Define Aithechda as vassal or peasant.",
+      "Trace the lineage from Japheth and Noah to Partholón.",
+      "Note Aithechda as the oldest non-biblical invader name."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Aithechda'"
+  }
+}

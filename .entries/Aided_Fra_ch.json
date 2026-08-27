@@ -1,0 +1,43 @@
+{
+  "name": "Aided Fraích",
+  "text": "Aided Fraích belongs to the great Ulster saga. This work forms one piece of the Táin Bó Cúailnge. That saga goes by the name Cattle Raid of Cooley. Many editors count it as chapter five. The tale records the violent end of the hero Fraích.",
+  "entities": [
+    {
+      "entity": "Aided Fraích",
+      "type": "Text"
+    },
+    {
+      "entity": "Táin Bó Cúailnge",
+      "type": "Text"
+    },
+    {
+      "entity": "Cattle Raid of Cooley",
+      "type": "Text"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Aided Fraích",
+      "attribute": "a chapter of the Táin Bó Cúailnge"
+    },
+    {
+      "entity": "Aided Fraích",
+      "attribute": "often treated as the fifth chapter of the saga"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Aided Fraích'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Place Aided Fraích within the Táin Bó Cúailnge.",
+    "key_results": [
+      "Identify Aided Fraích as a chapter of the Táin.",
+      "Note the common position as the fifth chapter.",
+      "Connect the tale to the Cattle Raid of Cooley."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Aided Fraích'"
+  }
+}

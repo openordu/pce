@@ -1,0 +1,39 @@
+{
+  "name": "Angus mac Airt",
+  "fname": "Angus_mac_Airt.json",
+  "text": "Angus mac Airt was the son of Art mac Moma. He belonged to the Fianna of Fionn mac Conail. He often travelled in the company of Aed. One old title names him Angus of the terrible spear.",
+  "entities": [
+    {
+      "entity": "Angus mac Airt",
+      "type": "Character"
+    },
+    {
+      "entity": "Fionn mac Cumhaill",
+      "type": "Character"
+    },
+    {
+      "entity": "Aed",
+      "type": "Character"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Angus mac Airt",
+      "attribute": "member of the Fianna, son of Art mac Moma"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Angus mac Airt'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Record the warrior Angus mac Airt.",
+    "key_results": [
+      "Name his father Art mac Moma.",
+      "Place him in the Fianna."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Angus mac Airt'"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "name": "Ardagh",
+  "fname": "Ardagh.json",
+  "text": "Ardagh is a common Irish name of a place of the high field. The word of the land is a high meadow of the east of the country. Eight towns on the modern map carry the name. The site of the county of Longford stands by a stronghold of the plain. One famous village of the county of Limerick holds the gold of the old church. The finest piece is the bowl called the Ardagh Chalice.",
+  "entities": [
+    {
+      "entity": "Ardagh",
+      "type": "Place"
+    },
+    {
+      "entity": "Ardagh Chalice",
+      "type": "Object"
+    },
+    {
+      "entity": "Longford",
+      "type": "Place"
+    },
+    {
+      "entity": "Limerick",
+      "type": "Place"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Ardagh",
+      "attribute": "common Irish place name, site of the famous Chalice"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Ardagh'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Record the place name Ardagh.",
+    "key_results": [
+      "Name the many towns.",
+      "Give the fine Chalice.",
+      "Set the county of Limerick."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Ardagh'"
+  }
+}

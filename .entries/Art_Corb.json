@@ -1,0 +1,35 @@
+{
+  "name": "Art Corb",
+  "fname": "Art_Corb.json",
+  "text": "Art Corb is a legendary forefather of the people called the Déisi. The old rolls name him as one of the makers of that band. He stands far back in the account of the building of the southern land. The book keeps little of the man beyond the bare line of his name.",
+  "entities": [
+    {
+      "entity": "Art Corb",
+      "type": "Character"
+    },
+    {
+      "entity": "Déisi",
+      "type": "People"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Art Corb",
+      "attribute": "legendary ancestor of the people of the Déisi"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Art Corb'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Record the ancestor Art Corb.",
+    "key_results": [
+      "Name the people of the line.",
+      "Set the man in the account of the land."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Art Corb'"
+  }
+}

@@ -1,0 +1,51 @@
+{
+ "name": "Meifod",
+ "attributes": [
+  {
+   "entity": "Meifod",
+   "attribute": "a parish some ten kilometres north-west of Welshpool and close to Mathrafal"
+  },
+  {
+   "entity": "Meifod Church",
+   "attribute": "the principal church of Powys in the twelfth and thirteenth centuries"
+  },
+  {
+   "entity": "Meifod",
+   "attribute": "linked in a song by Cynddelw Brydydd Mawr to Gwyddfarch, Tysilio and Mary"
+  }
+ ],
+ "entities": [
+  {
+   "entity": "Meifod",
+   "type": "Place"
+  },
+  {
+   "entity": "Cynddelw Brydydd Mawr",
+   "type": "Person"
+  },
+  {
+   "entity": "Madog ap Maredudd",
+   "type": "Person"
+  },
+  {
+   "entity": "Mathrafal",
+   "type": "Place"
+  }
+ ],
+ "sources": [
+  "Koch 2006, s.v. 'Meifod'"
+ ],
+ "image": [],
+ "cyphertext": "",
+ "salt": "",
+ "text": "Meifod is a parish about ten kilometres north-west of the town of Welshpool. It stands close to Mathrafal, which tradition regards as the principal court of the Powys princes. Meifod Church served as the leading church of Powys in the twelfth and thirteenth centuries. A tenth-century decorated cross-slab still endures at the site. The poet Cynddelw Brydydd Mawr wrote a song to Tysilio that calls the church the abode of three saints. He names Gwyddfarch, Tysilio and Mary as those saints. The burial ground there, he says, held kings. The prince Madog ap Maredudd, who died in 1160, lies buried at Meifod.",
+ "okr": {
+  "objective": "Author a new PCE node for the church and parish of Meifod",
+  "key_results": [
+   "record the parish position near Welshpool and Mathrafal",
+   "note the church's role as principal church of Powys",
+   "state the cross-slab and the saints of Cynddelw's song"
+  ],
+  "evidence": "Koch 2006, s.v. 'Meifod'."
+ }
+}

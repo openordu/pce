@@ -1,0 +1,35 @@
+{
+  "name": "Argyll",
+  "fname": "Argyll.json",
+  "text": "Argyll is a land of the far west of the country of the North of the Scot. The sense of the name is the country of the Gaels. The land holds the western shore that looks across the sea to Ireland. In the time of the Romans the people of the place were the horsemen of the old name. The area holds many of the likely heads of the western coast.",
+  "entities": [
+    {
+      "entity": "Argyll",
+      "type": "Place"
+    },
+    {
+      "entity": "Scotland",
+      "type": "Place"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Argyll",
+      "attribute": "land of the west of Scotland, the country of the Gaels"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Argyll'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Describe the land of Argyll.",
+    "key_results": [
+      "Place the land in the west.",
+      "Name the people of the Roman age."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Argyll'"
+  }
+}

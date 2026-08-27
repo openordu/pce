@@ -1,0 +1,59 @@
+{
+  "name": "Abrat",
+  "text": "Abrat is a name that appears in early Irish legend as a cross-reference. It points to the figure Áed Abrat and to the place Cenn Abrat. Áed Abrat was the father of the goddess Fand and of Li Ban. He took pride in the healing song of his daughters. Cenn Abrat was the site of a legendary battle. There Lugaid mac Con fell before the forces of the Eóganacht. The site is placed among the Ballyhoura mountains in County Limerick.",
+  "entities": [
+    {
+      "entity": "Aed Abrat",
+      "type": "Person"
+    },
+    {
+      "entity": "Fand",
+      "type": "Deity"
+    },
+    {
+      "entity": "Li Ban",
+      "type": "Person"
+    },
+    {
+      "entity": "Cenn Abrat",
+      "type": "Place"
+    },
+    {
+      "entity": "Lugaid mac Con",
+      "type": "Person"
+    },
+    {
+      "entity": "Eoganacht",
+      "type": "Group"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Abrat",
+      "attribute": "points to Aed Abrat and to the site Cenn Abrat"
+    },
+    {
+      "entity": "Aed Abrat",
+      "attribute": "the father of Fand and Li Ban"
+    },
+    {
+      "entity": "Cenn Abrat",
+      "attribute": "site of a battle lost by Lugaid mac Con"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Abrat'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Record Abrat as the link between Aed Abrat and Cenn Abrat.",
+    "key_results": [
+      "Show Abrat as a cross-reference headword.",
+      "Record Aed Abrat as father of Fand and Li Ban.",
+      "Record the battle at Cenn Abrat."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Abrat'"
+  }
+}

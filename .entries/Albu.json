@@ -1,0 +1,35 @@
+{
+  "name": "Albu",
+  "text": "Albu is the old Irish name used for the island. Writers first applied the term to all of Great Britain and the land that the poet called Albion. After the Irish settled in the region of the south-west, the word took a narrower sense. It then named only the northern part of the island.",
+  "entities": [
+    {
+      "entity": "Albu",
+      "type": "Place"
+    },
+    {
+      "entity": "Scotland",
+      "type": "Place"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Albu",
+      "attribute": "old Irish name first for Britain and later for Scotland"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Albu'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Record the historical sense of the word Albu.",
+    "key_results": [
+      "State the early sense of the word as all Britain.",
+      "Show the later change of the word to Scotland.",
+      "Link the change to the Irish settlement of the north."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Albu'"
+  }
+}

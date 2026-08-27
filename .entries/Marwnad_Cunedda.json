@@ -1,0 +1,59 @@
+{
+ "name": "Marwnad Cunedda",
+ "attributes": [
+  {
+   "entity": "Marwnad Cunedda",
+   "attribute": "a praise poem of a north British chief from the early post-Roman period"
+  },
+  {
+   "entity": "Marwnad Cunedda",
+   "attribute": "never names Wales and calls Cunedda the leader of the men of Brynaich"
+  },
+  {
+   "entity": "Cunedda",
+   "attribute": "best known in Welsh story as the man who began Gwynedd's royal line"
+  },
+  {
+   "entity": "Coel Hen",
+   "attribute": "named as the ancestor of the rulers the poem opposes"
+  }
+ ],
+ "entities": [
+  {
+   "entity": "Marwnad Cunedda",
+   "type": "concept"
+  },
+  {
+   "entity": "Cunedda",
+   "type": "Person"
+  },
+  {
+   "entity": "Brynaich",
+   "type": "Place"
+  },
+  {
+   "entity": "Coel Hen",
+   "type": "Person"
+  },
+  {
+   "entity": "Book of Taliesin",
+   "type": "concept"
+  }
+ ],
+ "sources": [
+  "Koch 2006, s.v. 'Marwnad Cunedda'"
+ ],
+ "image": [],
+ "cyphertext": "",
+ "salt": "",
+ "text": "Marwnad Cunedda is the Death-song of Cunedda, a praise poem of a north British chief in the early post-Roman period. Welsh story knows Cunedda best as the man who began Gwynedd's royal line and fathered many kings and saints. Yet the poem never names Wales. It calls Cunedda the leader of the men of Brynaich. Brynaich is a region in north Britain that passed under Anglo-Saxon rule in the mid-sixth century. The poem shows combat at two Roman fort towns south of Hadrian's Wall. One was the fort on the river Wear. The other was the fort called Luguvalium at Carlisle. It names the leaders of those enemy lands as the descendants of Coel Hen. Archaic language in the text reaches behind the oldest layers of the Gododdin. The poem lists slaves and olive oil among Cunedda's gifts, items rare in Welsh praise poetry. The first line credits Taliesin. The last word Coeling closes a ring with the fourth line. So the link may be set aside. Scholars long debated the poem. Morris-Jones accepted Taliesin, while Ifor Williams called it a fraud no older than the ninth or tenth century. The text survives in the Book of Taliesin.",
+ "okr": {
+  "objective": "Author a new PCE node for the early Welsh elegy Marwnad Cunedda",
+  "key_results": [
+   "record its praise of a north British chief and its silence on Wales",
+   "note the poem's archaisms and its enemies under Coel Hen",
+   "record the debate over its authorship and age"
+  ],
+  "evidence": "Koch 2006, s.v. 'Marwnad Cunedda'."
+ }
+}

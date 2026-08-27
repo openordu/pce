@@ -2,72 +2,100 @@
 layout: layouts/pce.njk
 title: Aonghus
 icon: file-lines
-order: 135
+order: 0
 contributors: [ 'Christopher Godwin' ]
 attributes:
-  - Aonghus brother of Fand and Lí Ban
-  - Aonghus of the Fir Bolg
-  - Dún Aonghusa great stone fort
+  - Aonghus Og god of beauty and poetry among the Tuatha De Danann, corresponding to Mabon
+  - Bru na Boinne the carved-stone palace he gained by trickery from his father
+  - Dun Aonghusa the stone fort on the Aran Islands named after Aonghus of the Fir Bolg
 categories:
-  - CreativeWork
-  - Place
-  - Organization
   - Person
+  - Place
+  - CreativeWork
+  - Organization
 entities:
+  - Aonghus(Person)
+  - Aonghus Og(Person)
+  - Dagda(Person)
+  - Eithne(Person)
+  - Elcmar(Person)
+  - Midir(Person)
+  - Nechtan(Person)
+  - Boand(Person)
+  - Bru na Boinne(Place)
+  - Tuatha De Danann(Organization)
+  - Mabon(Person)
+  - Caer(Person)
+  - Bodb Derg(Person)
   - William Butler Yeats(Person)
   - The Song of Wandering Aengus(CreativeWork)
-  - James Stephens(Person)
-  - The Crock of Gold(CreativeWork)
-  - Aonghus(Person)
   - Fand(Person)
-  - Lí Ban(Person)
-  - Cúchulainn(Person)
-  - Otherworld(Place)
-  - Dún Aonghusa(Place)
+  - Li Ban(Person)
+  - Cuchulainn(Person)
   - Fir Bolg(Organization)
+  - Dun Aonghusa(Place)
   - Aran Islands(Place)
 tags:
+  - Aonghus
+  - Aonghus Og
+  - Dagda
+  - Eithne
+  - Elcmar
+  - Midir
+  - Nechtan
+  - Boand
+  - Bru na Boinne
+  - Tuatha De Danann
+  - Mabon
+  - Caer
+  - Bodb Derg
   - William Butler Yeats
   - The Song of Wandering Aengus
-  - James Stephens
-  - The Crock of Gold
-  - Aonghus
   - Fand
-  - Lí Ban
-  - Cúchulainn
-  - Otherworld
-  - Dún Aonghusa
+  - Li Ban
+  - Cuchulainn
   - Fir Bolg
+  - Dun Aonghusa
   - Aran Islands
 ---
 ``` tab [group1:Info]
 ::: magazinestyle
-A deity or hero of Ireland and Scotland is Aonghus (Angus, Aengus, Oengus). Different mythological and heroic personalities of these regions share this name, which means "strength" or "vigor." Aonghus Óg, also known as Aonghus mac Óg or "Angus son of youth," was the god of beauty and poetry among the Tuatha Dé Danann and is similar to the Welsh god Mabon. He was magically conceived, even for a god: His father, the Dagda, “borrowed” his mother Eithne from her husband Elcmar, then made the sun stay overhead for nine months. This allowed the goddess to gestate the child without Elcmar realizing that more than a day had passed. After his birth, Aonghus Óg was promptly sent to the god Midir to be fostered. In an alternate version, the mother was Bóand, the cuckolded husband was Nechtan, and the foster father was Elcmar. In any case, the son inherited from his father, gaining the great carved-stone palace known as the Brú Na Bóinne by deceit. Trees in the palace held out tempting fruit, and two pigs were cooked and consumed by turns, only to revive again. Several experts associate these tales with other traditions in which a son overcomes or replaces his father, as in the Greek myth of Saturn and Uranus or Zeus and Saturn. He is referred to as "Aonghus of the many exploits" and "mighty Mac in Oc" in the place-poems called the Dindshenchas. When Aonghus Óg traveled, four white swans flew about his head. When he fell in love, it was with a woman he had only seen in a dream, as recounted in the Aislinge Óenguso, the Dream of Aonghus. For a year, Aonghus's lover appeared to him in his dreams, causing him to yearn to be with her physically. Magician Bodb Derg assisted Aonghus in discovering his beloved Cáer, and they both transformed into white swans with an enchanting song that captivated others to slumber for three days and nights. This myth subsequently inspired the composition of William Butler Yeats's poem, "The Song of Wandering Aengus," while a different but sensual version of the character made an appearance in James Stephens's comic novel, The Crock of Gold. Aonghus was a fairy who enticed hero Cúchulainn to the Otherworld to meet his lustful sisters and was also the brother of Fand and Lí Ban. Furthermore, he was the inspiration for the name of the Aran Islands' Dún Aonghusa, a grand stone fortress, as Aonghus of the Fir Bolg.
+Aonghus, also called Angus, Aengus, and Oengus, is an Irish and Scottish hero or god. Several mythological and heroic figures of Ireland and Scotland bear this name. The name means strength or vigor. Aonghus Og, also called Aonghus mac Og, was the god of beauty and poetry among the Tuatha De Danann. He corresponds to the Welsh god Mabon. His conception was miraculous, even for a god. His father, the Dagda, borrowed his mother Eithne from her husband Elcmar. The Dagda kept the sun overhead for nine months. The goddess gestated the child while Elcmar thought only a day had passed. On his birth Aonghus Og was given to the god Midir to foster. In another version the cuckolded husband was Nechtan, the mother was Boand, and Elcmar was the foster father. The young son took after his father. By trickery he gained the great carved-stone palace called the Bru na Boinne. Trees there held tempting fruit, and two pigs took turns being cooked and eaten, then sprang to life again. Four white swans flew about Aonghus Og's head as he traveled. He became smitten with a maiden whom he knew only from a vision. The Dream of Aonghus records this. His lover visited him in dreams for a year, until he sickened with desire. With the help of the magician Bodb Derg he found his beloved, Caer. They flew away in the shape of white swans. Their song was so lovely that it lulled all who heard them into a slumber lasting three days and three nights. This legend inspired the poem The Song of Wandering Aengus by William Butler Yeats. A second Aonghus was the brother of Fand and Li Ban. This fairy lured the hero Cuchulainn to the Otherworld to meet his lustful sisters. A third Aonghus belonged to the Fir Bolg. The great stone fort on the Aran Islands, Dun Aonghusa, is named after him. MacKillop adds that the name Aonghus was borne by at least five early Christian saints of Ireland. It also turns up in the family trees of many Irish and Scottish clans. A kind of Scottish or anglicized spelling of the name renders it as Aengus or Aangus, and some once wrongly linked it with the Greek Aeneas. In this way the name carries south to the male, his sister-midwife-like truce, and the memory of a sea god's fortress all at once.
 
 :::
 ```
 ``` tab [group1:Attributes]
-- **Aonghus**: brother of Fand and Lí Ban
-- **Aonghus**: of the Fir Bolg
-- **Dún Aonghusa**: great stone fort
+- **Aonghus Og**: god of beauty and poetry among the Tuatha De Danann, corresponding to Mabon
+- **Bru na Boinne**: the carved-stone palace he gained by trickery from his father
+- **Dun Aonghusa**: the stone fort on the Aran Islands named after Aonghus of the Fir Bolg
 ```
 ``` tab [group1:Entities]
+- **Aonghus**: Person
+- **Aonghus Og**: Person
+- **Dagda**: Person
+- **Eithne**: Person
+- **Elcmar**: Person
+- **Midir**: Person
+- **Nechtan**: Person
+- **Boand**: Person
+- **Bru na Boinne**: Place
+- **Tuatha De Danann**: Organization
+- **Mabon**: Person
+- **Caer**: Person
+- **Bodb Derg**: Person
 - **William Butler Yeats**: Person
 - **The Song of Wandering Aengus**: CreativeWork
-- **James Stephens**: Person
-- **The Crock of Gold**: CreativeWork
-- **Aonghus**: Person
 - **Fand**: Person
-- **Lí Ban**: Person
-- **Cúchulainn**: Person
-- **Otherworld**: Place
-- **Dún Aonghusa**: Place
+- **Li Ban**: Person
+- **Cuchulainn**: Person
 - **Fir Bolg**: Organization
+- **Dun Aonghusa**: Place
 - **Aran Islands**: Place
 ```
 ``` tab [group1:Sources]
 - Gwynn, Edward. The Metrical Dindshenchas. Royal Irish Academy, Todd Lecture Series. Dublin: Hodges, Figgis, and Co., Ltd., 1906–1924, 65–67.
 - Ó hÓgain, Dáithí. Myth, Legend and Romance: An Encyclopedia of the Irish Folk Tradition. New York: Prentice-Hall Press, 1991. Pp. 39-40.
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
+- MacKillop 2008, s.v. 'Aonghus'
 ```
 ![Aonghus Image](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Heroes_of_the_dawn_%281914%29_%2814566173909%29.jpg/1200px-Heroes_of_the_dawn_%281914%29_%2814566173909%29.jpg)

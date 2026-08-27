@@ -1,0 +1,59 @@
+{
+  "name": "Nationalism [1] Ireland",
+  "attributes": [
+    {
+      "entity": "Nationalism [1] Ireland",
+      "attribute": "Irish national identity rested on a Milesian origin myth, the Gaelic language, Irish literature, the Brehon law, and an independent religious history"
+    },
+    {
+      "entity": "Daniel O'Connell",
+      "attribute": "led the movement for Catholic emancipation and identified the Irish nation with its largely Catholic population"
+    },
+    {
+      "entity": "Great Famine",
+      "attribute": "the famine of 1845-9 left about a million dead and shaped later anti-English feeling"
+    },
+    {
+      "entity": "Parnell, Charles Stewart",
+      "attribute": "led the Irish Parliamentary Party and converted English Liberals to Home Rule in the 1880s"
+    }
+  ],
+  "entities": [
+    {
+      "entity": "Nationalism [1] Ireland",
+      "type": "Topic"
+    },
+    {
+      "entity": "Daniel O'Connell",
+      "type": "Person"
+    },
+    {
+      "entity": "Parnell, Charles Stewart",
+      "type": "Person"
+    },
+    {
+      "entity": "Great Famine",
+      "type": "Event"
+    },
+    {
+      "entity": "Irish Republican Brotherhood",
+      "type": "Group"
+    }
+  ],
+  "sources": [
+    "Koch 2006, s.v. 'Nationalism [1] Ireland'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "text": "Nationalism [1] Ireland treats the rise of Irish national consciousness. The idea of a Gaelic Irish identity drew on the Gaelic language. It also drew on a Milesian origin myth. It drew on a cherished literature, the Brehon law, and an independent religious history. Tudor conquest from the reign of Henry VIII pressed hard on Ireland. The defeat of Hugh O'Neill at Kinsale in 1601 is seen as a turning point. The 19th century brought Catholic emancipation under Daniel O'Connell and the trauma of the Great Famine. It left about a million dead. Under Parnell the Irish Parliamentary Party pressed for Home Rule in the 1880s. The 1916 Rising led to the Dáil. It also led to the partition of Ireland set out in the Government of Ireland Act of 1920.",
+  "okr": {
+    "objective": "Author a new PCE node for the history of nationalism in Ireland",
+    "key_results": [
+      "record the early identity bases of Gaelic Irish nationalism",
+      "note the Tudor conquest and the turning point of Kinsale in 1601",
+      "describe O'Connell, the Famine, Parnell and Home Rule, and the 1916 Rising and partition"
+    ],
+    "evidence": "Koch 2006, s.v. 'Nationalism [1] Ireland'."
+  }
+}

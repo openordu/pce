@@ -1,0 +1,24 @@
+{
+ "name": "Mairi Mhor nan Oran",
+ "text": "Mairi Mhor nan Oran (1821-98) stood out as the leading poet of the land agitation movement. That movement swept the Highlands in the nineteenth century. She was born and raised on the island of Skye. Much of her adult life unfolded on the mainland. She lived at Inverness, Glasgow, and Greenock before returning to Skye for her final years. She wrote more than nine thousand lines of verse, all of them from the 1870s and 1880s. She could read her own poems but wrote none of them down. A theft conviction in 1872 that she held to be false set her on the path of composition. Her plea of innocence runs through her poetry as a constant theme.",
+ "entities": [
+  {"entity": "Mairi Mhor nan Oran", "type": "Person"},
+  {"entity": "Isle of Skye", "type": "Place"},
+  {"entity": "Highland land agitation movement", "type": "Topic"}
+ ],
+ "attributes": [
+  {"entity": "Mairi Mhor nan Oran", "attribute": "was the foremost poet of the 19th-century Highland land agitation movement"},
+  {"entity": "Mairi Mhor nan Oran", "attribute": "was born and raised on the Isle of Skye"},
+  {"entity": "Mairi Mhor nan Oran", "attribute": "composed over 9000 lines of verse in the 1870s and 1880s"},
+  {"entity": "Mairi Mhor nan Oran", "attribute": "could read her own verse but wrote none of it"}
+ ],
+ "sources": ["Koch 2006, s.v. 'Mairi Mhor nan Oran'"],
+ "image": [],
+ "cyphertext": "",
+ "salt": "",
+ "okr": {
+  "objective": "Record the life and poetic work of the 19th-century Highland poet Mairi Mhor nan Oran.",
+  "key_results": ["She was the foremost poet of the Highland land agitation movement", "She composed over 9000 lines of verse in the 1870s and 1880s", "Her disputed 1872 theft conviction prompted her to start composing"],
+  "evidence": "Koch 2006, s.v. 'Mairi Mhor nan Oran'."
+ }
+}

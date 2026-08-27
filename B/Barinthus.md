@@ -2,46 +2,56 @@
 layout: layouts/pce.njk
 title: Barinthus
 icon: file-lines
-order: 199
+order: 0
 contributors: [ 'Christopher Godwin' ]
 attributes:
   - Barinthus ferryman of the Otherworld
-  - Arthur wounded
-  - Arthur final battle
-  - Barinthus carried Arthur away from the surface world to the Otherworld
+  - Barinthus known also as Saint Barrind
+  - Barinthus carried wounded Arthur to the Otherworld
+  - Arthur wounded in his final battle
+  - Barinthus tells Saint Brendan about the land promised to the saints
+  - Barinthus a guide between the living world and the supernatural land
 categories:
-  - king
-  - place
-  - Arthurian hero
+  - Person
+  - Place
 entities:
-  - Barinthus(Arthurian hero)
-  - Saint Barrind(Arthurian hero)
-  - Otherworld(place)
-  - Arthur(king)
+  - Barinthus(Person)
+  - Saint Barrind(Person)
+  - Arthur(Person)
+  - Otherworld(Place)
+  - Saint Brendan(Person)
+  - Promised Land of the Saints(Place)
 tags:
   - Barinthus
   - Saint Barrind
-  - Otherworld
   - Arthur
+  - Otherworld
+  - Saint Brendan
+  - Promised Land of the Saints
 ---
 ``` tab [group1:Info]
 ::: magazinestyle
-Arthurian hero Barinthus, also known as Saint Barrind, is recognized as the ferryman of the Otherworld. Post the last battle of the injured king Arthur, Barinthus transported him from the surface world to the Otherworld.
+Barinthus is a figure of early Christian and Irish legend. MacKillop records him as the person who tells Saint Brendan of the land vowed to the saints. That promised land is the otherworld isle sought in the voyage of Saint Brendan. The texts also call him Saint Barrind. Some later Arthurian retellings make him a ferryman of the Otherworld. In that role he is said to carry the wounded King Arthur away at the end of his story. The two traditions both place Barinthus as a guide between the living world and the supernatural land.
 
 :::
 ```
 ``` tab [group1:Attributes]
 - **Barinthus**: ferryman of the Otherworld
-- **Arthur**: wounded
-- **Arthur**: final battle
-- **Barinthus**: carried Arthur away from the surface world to the Otherworld
+- **Barinthus**: known also as Saint Barrind
+- **Barinthus**: carried wounded Arthur to the Otherworld
+- **Arthur**: wounded in his final battle
+- **Barinthus**: tells Saint Brendan about the land promised to the saints
+- **Barinthus**: a guide between the living world and the supernatural land
 ```
 ``` tab [group1:Entities]
-- **Barinthus**: Arthurian hero
-- **Saint Barrind**: Arthurian hero
-- **Otherworld**: place
-- **Arthur**: king
+- **Barinthus**: Person
+- **Saint Barrind**: Person
+- **Arthur**: Person
+- **Otherworld**: Place
+- **Saint Brendan**: Person
+- **Promised Land of the Saints**: Place
 ```
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
+- MacKillop 2008, s.v. 'Barinthus'
 ```

@@ -1,0 +1,52 @@
+{
+  "name": "Baile's Strand",
+  "fname": "Baile_s_Strand.json",
+  "text": "Baile's Strand is a shore of the sea near the town of Dundalk in Ireland. It is named for a prince of Ulster who loved a maid of Leinster in the old story. The shore is the setting of a drama by the poet William Butler Yeats. That play keeps alive the sorrow of the two lovers of the tale.",
+  "entities": [
+    {
+      "entity": "Baile's Strand",
+      "type": "Place"
+    },
+    {
+      "entity": "Dundalk",
+      "type": "Place"
+    },
+    {
+      "entity": "Ulster",
+      "type": "Place"
+    },
+    {
+      "entity": "Baile",
+      "type": "Character"
+    },
+    {
+      "entity": "W. B. Yeats",
+      "type": "Character"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Baile's Strand",
+      "attribute": "shore near Dundalk"
+    },
+    {
+      "entity": "Baile's Strand",
+      "attribute": "setting of a drama of Yeats"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Baile's Strand'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Record the strand of Dundalk and its story.",
+    "key_results": [
+      "Place the strand near Dundalk.",
+      "Name the prince of Ulster.",
+      "Give the play of Yeats."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Baile's Strand'"
+  }
+}

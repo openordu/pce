@@ -1,0 +1,35 @@
+{
+  "name": "Arlan",
+  "fname": "Arlan.json",
+  "text": "Arlan is a holy man of the old faith of the far west of the land of the English. The old tales of the place name him a saint. Yet his day does not sit in the list of the church. The people of the south-west of the land keep his name in the tales of the eve of the year.",
+  "entities": [
+    {
+      "entity": "Arlan",
+      "type": "Person"
+    },
+    {
+      "entity": "Cornwall",
+      "type": "Place"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Arlan",
+      "attribute": "holy man of the old faith of the west of England"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Arlan'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Record the holy man Arlan.",
+    "key_results": [
+      "Set the man in the west of the land.",
+      "Name the eve he keeps."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Arlan'"
+  }
+}

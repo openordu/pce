@@ -1,0 +1,68 @@
+{
+  "name": "Numantia",
+  "text": "Numantia rose as a Celtiberian town to the north of Soria. It stood beside the upper Duero in eastern Castile and Leon, Spain. Scipio Africanus the Younger captured it in 133 bc. The victory closed the Celtiberian wars. It laid the central Iberian Peninsula open to Rome. The town started as a large castro, or hill-fort. It covered some 32 hectares on a plateau 70 m high. The point stood above where the rivers Merdancho, Tera, and Duero come together. It ranks as a major archaeological site, studied for over two centuries. The Museo Numantino at Soria opened in 1919 to house the finds and direct research. Occupation reaches back to the early Bronze Age at the close of the 3rd millennium bc. The Celtiberian town was set above an earlier Iron Age hill-fort. A regular street plan served blocks of ten to twenty houses. Each house ran about 12 m long and 3 to 6 m wide. They used a one-room 'shotgun' plan. Three or four rooms strung back to a yard and store shed. A city wall stood roughly 6 m high. Numantia took up arms in 143 bc. The fighting dragged on until 134 bc. Scipio, fresh from destroying Carthage in 146 bc, then became consul and could raise an army. He ringed the town with seven camps joined by a 9 km wall and starved the defenders out. The Numantians fielded only 8,000 fighters against a far larger Roman force, and their terms were refused. Starved into surrender, many killed themselves rather than submit. The survivors were sold into slavery. Yet life at Numantia did not end. The rebuilt town kept the old street grid, straightening and widening the roads and adding cisterns and drains. It grew into a trading centre, and an important ceramic industry developed on the local clays. The east-west road from Caesaraugusta to Asturica crossed the Duero just below the town. In the 1st century ad Numantia became a municipium, granting its people Roman citizenship. It remained a modest settlement with no public bath, theatre, or forum, and was abandoned in the later 4th century.",
+  "entities": [
+    {
+      "entity": "Numantia",
+      "type": "Place"
+    },
+    {
+      "entity": "Celtiberian",
+      "type": "Group"
+    },
+    {
+      "entity": "Scipio Africanus the Younger",
+      "type": "Person"
+    },
+    {
+      "entity": "Duero",
+      "type": "Place"
+    },
+    {
+      "entity": "Soria",
+      "type": "Place"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Numantia",
+      "attribute": "Celtiberian town on the upper Duero conquered by Scipio in 133 bc"
+    },
+    {
+      "entity": "Numantia",
+      "attribute": "large hill-fort of about 32 hectares on a 70 m high plateau"
+    },
+    {
+      "entity": "Scipio Africanus the Younger",
+      "attribute": "Roman general who besieged and took Numantia"
+    },
+    {
+      "entity": "Numantia",
+      "attribute": "became a municipium granting Roman citizenship in the 1st century ad"
+    },
+    {
+      "entity": "Numantia",
+      "attribute": "abandoned in the later 4th century"
+    },
+    {
+      "entity": "Museo Numantino",
+      "attribute": "museum at Soria opened in 1919 for the Numantia finds"
+    }
+  ],
+  "okr": {
+    "objective": "Document the Celtiberian town of Numantia and its Roman siege.",
+    "key_results": [
+      "Describe the site, plan, and fortifications of Numantia",
+      "Record the siege and capture by Scipio in 133 bc",
+      "Report the town's rebuilding, trade, and ceramic industry",
+      "Note its status as a municipium and its later abandonment"
+    ],
+    "evidence": "Koch 2006, s.v. 'Numantia'."
+  },
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "sources": [
+    "Koch 2006, s.v. 'Numantia'"
+  ]
+}

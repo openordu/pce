@@ -1,0 +1,35 @@
+{
+  "name": "Alvin",
+  "fname": "Alvin.json",
+  "text": "Alvin is the English form of the Irish name that belongs to the Hill of Allen. The word comes from the set of names that MacKillop gives for the hill. He directs the reader to the entry for the Hill of Allen for the full account.",
+  "entities": [
+    {
+      "entity": "Alvin",
+      "type": "Place"
+    },
+    {
+      "entity": "Hill of Allen",
+      "type": "Place"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Alvin",
+      "attribute": "English form of the Irish name of the Hill of Allen"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Alvin'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Record the English name Alvin.",
+    "key_results": [
+      "Name Alvin as an English form.",
+      "Point the reader to the Hill of Allen."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Alvin'"
+  }
+}

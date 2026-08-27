@@ -1,0 +1,55 @@
+{
+  "name": "Acunn",
+  "text": "Acunn is a hero of Scottish Fenian narrative. The Fenian tales follow the deeds of Fionn mac Cumhaill and his warriors. The strait Kyle of Akin takes its name from him. That water lies between Skye and the Lochalsh shore. Acunn had a brother named Riadh. The hero's name keeps a hold on the geography of the western Highlands.",
+  "entities": [
+    {
+      "entity": "Kyle of Akin",
+      "type": "Place"
+    },
+    {
+      "entity": "Isle of Skye",
+      "type": "Place"
+    },
+    {
+      "entity": "Lochalsh",
+      "type": "Place"
+    },
+    {
+      "entity": "Riadh",
+      "type": "Person"
+    },
+    {
+      "entity": "Fenian Cycle",
+      "type": "Work"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Acunn",
+      "attribute": "a hero of Scottish Fenian narratives"
+    },
+    {
+      "entity": "Acunn",
+      "attribute": "gives his name to Kyle of Akin"
+    },
+    {
+      "entity": "Acunn",
+      "attribute": "his brother was Riadh"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Acunn'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Record Acunn, a Scottish Fenian hero who named Kyle of Akin.",
+    "key_results": [
+      "Identify Acunn as a Scottish Fenian hero.",
+      "Record his naming of Kyle of Akin.",
+      "Note his brother Riadh."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Acunn'"
+  }
+}

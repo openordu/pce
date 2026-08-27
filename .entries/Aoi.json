@@ -1,0 +1,31 @@
+{
+  "name": "Aoi",
+  "fname": "Aoi.json",
+  "text": "Aoi is a modern Irish spelling of the older word that the source keeps as the plain head Ai. The dictionary adds the modern shape as a separate line. A fuller account rests at the older head.",
+  "entities": [
+    {
+      "entity": "Aoi",
+      "type": "concept"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Aoi",
+      "attribute": "modern form of an old Irish word"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Aoi'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Record the short modern form Aoi.",
+    "key_results": [
+      "Name the modern spelling.",
+      "Point the reader to the full head."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Aoi'"
+  }
+}

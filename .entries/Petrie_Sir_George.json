@@ -1,0 +1,68 @@
+{
+  "name": "George Petrie",
+  "text": "Petrie, Sir George is today recalled as George Petrie. He lived from 1789 to 1866. He worked as a painter, an antiquarian, and a collector of Irish music. This work proved essential to the Irish revival of the nineteenth century. He was not born an Irishman. Yet he made his life in Dublin. He laboured there to save and renew Irish culture. He trained at the art school of the Royal Dublin Society. He built a career as a painter. Many of his watercolours and sketches give close record of the monuments of Ireland. His digging and study produced two well-received books. One is a monograph on the antiquities of Tara Hill, printed in 1839. The other is The Ecclesiastical Architecture of Ireland (1845). From 1830 to 1841 he joined Eugene O'Curry and John O'Donovan. They worked in the topographical branch of the Ordnance Survey. Through his whole life he gathered a great trove of Irish music. He passed songs to Bunting and to Moore. His chief works include the great trove he called the Petrie Collection. Its Ancient Music of Ireland came out in 1855. A second Ireland music volume from that trove was printed in 1877.",
+  "entities": [
+    {
+      "entity": "George Petrie",
+      "type": "Person"
+    },
+    {
+      "entity": "Dublin",
+      "type": "Place"
+    },
+    {
+      "entity": "Royal Dublin Society",
+      "type": "Group"
+    },
+    {
+      "entity": "O'Curry",
+      "type": "Person"
+    },
+    {
+      "entity": "O'Donovan",
+      "type": "Person"
+    },
+    {
+      "entity": "Ordnance Survey",
+      "type": "Group"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "George Petrie",
+      "attribute": "artist and antiquarian whose work aided the Irish revival movement"
+    },
+    {
+      "entity": "George Petrie",
+      "attribute": "spent his life in Dublin working to preserve Irish culture"
+    },
+    {
+      "entity": "George Petrie",
+      "attribute": "wrote On the History and Antiquities of Tara Hill and Ecclesiastical Architecture of Ireland"
+    },
+    {
+      "entity": "George Petrie",
+      "attribute": "compiled a large collection of Irish music"
+    },
+    {
+      "entity": "Dublin",
+      "attribute": "city where Petrie worked on Irish culture"
+    }
+  ],
+  "okr": {
+    "objective": "Document the artistic, archaeological, and musical work of Sir George Petrie.",
+    "key_results": [
+      "Record his archaeological books on Tara Hill and Irish ecclesiastical architecture",
+      "Note his work in the topographical section of the Ordnance Survey",
+      "Describe his collection of Irish music",
+      "Report his collaboration with Eugene O'Curry and John O'Donovan"
+    ],
+    "evidence": "Koch 2006, s.v. 'Petrie, Sir George'."
+  },
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "sources": [
+    "Koch 2006, s.v. 'Petrie, Sir George'"
+  ]
+}

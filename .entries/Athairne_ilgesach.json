@@ -1,0 +1,48 @@
+{
+  "name": "Athairne Áilgesach",
+  "fname": "Athairne_ilgesach.json",
+  "text": "Athairne Áilgesach is a sharp poet of the court of the king and a man of satire. The old name marks one who sends the hard request. He plays the rule that a man of verse may never be refused. He asked for the eye of a king of the middle of the land as a single gift. He sought cattle, women, and much else from the people of Leinster. The men of the land built him a bridge over the river, then held back the women they had promised.",
+  "entities": [
+    {
+      "entity": "Athairne Áilgesach",
+      "type": "Person"
+    },
+    {
+      "entity": "Conchobar mac Nessa",
+      "type": "Character"
+    },
+    {
+      "entity": "Leinster",
+      "type": "Place"
+    },
+    {
+      "entity": "Eochaid",
+      "type": "Character"
+    },
+    {
+      "entity": "Midir",
+      "type": "Person"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Athairne Áilgesach",
+      "attribute": "sharp poet and satirist of the court of Conchobar"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Athairne Áilgesach'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Record the poet Athairne Áilgesach.",
+    "key_results": [
+      "Name the court of the poet.",
+      "Tell of his hard demands.",
+      "Set the tale of the stolen cranes."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Athairne Áilgesach'"
+  }
+}

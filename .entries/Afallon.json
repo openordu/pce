@@ -1,0 +1,43 @@
+{
+  "name": "Afallon",
+  "text": "Afallon is the Welsh title of the isle better known as Avalon. The fuller phrase Ynys Afallon means the Isle of Afallon. In Welsh lore that island is the same as Glastonbury. The word springs from the root for the apple tree. So the name ties the orchard to the otherworld of plenty. Afallon carries the old happy isle image in Welsh legend.",
+  "entities": [
+    {
+      "entity": "Afallon",
+      "type": "Place"
+    },
+    {
+      "entity": "Avalon",
+      "type": "Place"
+    },
+    {
+      "entity": "Glastonbury",
+      "type": "Place"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Afallon",
+      "attribute": "the Welsh name for the island of Avalon"
+    },
+    {
+      "entity": "Afallon",
+      "attribute": "identifies Ynys Afallon as Glastonbury"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Afallon'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Record Afallon as the Welsh name for Avalon.",
+    "key_results": [
+      "Define Afallon as the Welsh form of Avalon.",
+      "Identify Ynys Afallon with Glastonbury.",
+      "Note the apple tree sense of the word."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Afallon'"
+  }
+}

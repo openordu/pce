@@ -1,0 +1,30 @@
+{
+  "name": "Ailill Áine",
+  "text": "Ailill Áine, also written Áne, was the father of the hero Labraid Loingseach. That son stands as ancestor of the Laigin, the early people of Leinster. This Ailill should not be confused with Ailill Aulomm, who was tied in later story to Áine, a fairy goddess. The name links a king to a founding people.",
+  "entities": [
+    {"entity": "Ailill Áine", "type": "Character"},
+    {"entity": "Labraid Loingseach", "type": "Hero"},
+    {"entity": "Laigin", "type": "People"},
+    {"entity": "Leinster", "type": "Place"},
+    {"entity": "Ailill Aulomm", "type": "Character"},
+    {"entity": "Áine", "type": "Goddess"}
+  ],
+  "attributes": [
+    {"entity": "Ailill Áine", "attribute": "father of Labraid Loingseach"},
+    {"entity": "Ailill Áine", "attribute": "ancestor of the Laigin people of Leinster"},
+    {"entity": "Ailill Áine", "attribute": "not to be confused with Ailill Aulomm"}
+  ],
+  "sources": ["MacKillop 2008, s.v. 'Ailill Áine'"],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Record Ailill Áine as ancestor of the Laigin.",
+    "key_results": [
+      "Name his son Labraid Loingseach.",
+      "Tie the line to the Laigin of Leinster.",
+      "Warn against confusion with Ailill Aulomm."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Ailill Áine'"
+  }
+}

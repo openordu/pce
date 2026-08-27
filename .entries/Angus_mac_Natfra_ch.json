@@ -1,0 +1,43 @@
+{
+  "name": "Angus mac Natfraích",
+  "fname": "Angus_mac_Natfra_ch.json",
+  "text": "Angus mac Natfraích was a leader of the Eoganacht in the fifth century. He ruled as king of Cashel. He was reputedly baptized by Saint Patrick. One tale says the staff of Patrick pierced his foot at the blessing. The king stayed quiet, thinking it part of the rite.",
+  "entities": [
+    {
+      "entity": "Angus mac Natfraích",
+      "type": "Character"
+    },
+    {
+      "entity": "Eoganacht",
+      "type": "Group"
+    },
+    {
+      "entity": "Patrick",
+      "type": "Character"
+    },
+    {
+      "entity": "Cashel",
+      "type": "Place"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Angus mac Natfraích",
+      "attribute": "fifth-century leader of the Eoganacht, king of Cashel"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Angus mac Natfraích'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Record the king Angus mac Natfraích.",
+    "key_results": [
+      "Place him among the Eoganacht.",
+      "State the tale of the staff and the foot."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Angus mac Natfraích'"
+  }
+}

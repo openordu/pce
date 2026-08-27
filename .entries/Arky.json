@@ -1,0 +1,35 @@
+{
+  "name": "Arky",
+  "fname": "Arky.json",
+  "text": "Arky is a name of a bad man of the tales of the north. The book names him as the one who kills the father of the great hero of the band. The villain pulls a trick on the father of the great man and slays him at the place. He stands as one of the well known foes of the house of the hero of the tales.",
+  "entities": [
+    {
+      "entity": "Arky",
+      "type": "Character"
+    },
+    {
+      "entity": "Fionn",
+      "type": "Character"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Arky",
+      "attribute": "villain of the tales who kills the father of the hero"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Arky'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Report the villain Arky.",
+    "key_results": [
+      "Name the victim of the man.",
+      "Tell of the trick of the villain."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Arky'"
+  }
+}

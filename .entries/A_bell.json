@@ -1,0 +1,56 @@
+{
+  "name": "Aíbell",
+  "fname": "A_bell.json",
+  "text": "Aíbell is a goddess and fairy queen of the stories of the north of Munster. Her mound stands at Craig Liath near Killaloe in County Clare. The tales set her beside goddesses such as Áine. They make her a rival of Clidna for the love of a man. In one account she travels with King Brian Boruma to the battle at Clontarf.",
+  "entities": [
+    {
+      "entity": "Aíbell",
+      "type": "Character"
+    },
+    {
+      "entity": "Áine",
+      "type": "Character"
+    },
+    {
+      "entity": "Clidna",
+      "type": "Character"
+    },
+    {
+      "entity": "Brian Boruma",
+      "type": "Character"
+    },
+    {
+      "entity": "Clontarf",
+      "type": "Place"
+    },
+    {
+      "entity": "Killaloe",
+      "type": "Place"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Aíbell",
+      "attribute": "Old Irish goddess or fairy queen of north Munster"
+    },
+    {
+      "entity": "Aíbell",
+      "attribute": "patron of the O'Brien kindred"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Aíbell'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Record the goddess and fairy queen Aíbell.",
+    "key_results": [
+      "Set her in the north of Munster.",
+      "Name her mound at Craig Liath.",
+      "Tell of her rivalry and her part at Clontarf."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Aíbell'"
+  }
+}

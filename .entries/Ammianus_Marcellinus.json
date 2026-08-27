@@ -1,0 +1,36 @@
+{
+  "name": "Ammianus Marcellinus",
+  "fname": "Ammianus_Marcellinus.json",
+  "text": "Ammianus Marcellinus was the last of the great Roman historians. He was a Greek by birth and raised in the city of Antioch in Syria. He lived from about ad 330 to about ad 390. Celtic scholars remember him for his admiring yet careful account of the Gauls. He praises the tall Gaulish women whose large pale arms could strike like a missile when raised in anger. The Loeb Classical Library prints an English version of his text in a set that began in the 1930s.",
+  "entities": [
+    {
+      "entity": "Ammianus Marcellinus",
+      "type": "Character"
+    },
+    {
+      "entity": "Gauls",
+      "type": "Group"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Ammianus Marcellinus",
+      "attribute": "last of the great Roman historians, a Greek of Antioch"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Ammianus Marcellinus'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Record the historian Ammianus Marcellinus.",
+    "key_results": [
+      "Date his life to the fourth century.",
+      "State his account of the Gaulish women.",
+      "Name the English translation."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Ammianus Marcellinus'"
+  }
+}

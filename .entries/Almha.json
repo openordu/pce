@@ -1,0 +1,34 @@
+{
+  "name": "Almha",
+  "text": "Almha is one of the several spellings that the Irish sources give for the Hill of Allen. The word stands in the same set as the forms for the place in County Kildare. MacKillop lists it among the variants of the hill named for the hero of the tales.",
+  "entities": [
+    {
+      "entity": "Almha",
+      "type": "Place"
+    },
+    {
+      "entity": "Almhain",
+      "type": "Place"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Almha",
+      "attribute": "variant of the name of the Hill of Allen"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Almha'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "State the form of the Irish name for the hill.",
+    "key_results": [
+      "Record the form as a variant of the Hill.",
+      "Link the word to the place in the list of names."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Almha'"
+  }
+}

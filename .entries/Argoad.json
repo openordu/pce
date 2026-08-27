@@ -1,0 +1,40 @@
+{
+  "name": "Argoad",
+  "fname": "Argoad.json",
+  "text": "Argoad is a word of the old tongue of the people of the northwest of the coast. The word names the inner wood of the province of the land of the west. The people of the coast set this name of the forest against the name of the shore. The two words mark the line between the wood and the sea in the old speech.",
+  "entities": [
+    {
+      "entity": "Argoad",
+      "type": "Place"
+    },
+    {
+      "entity": "Brittany",
+      "type": "Place"
+    },
+    {
+      "entity": "Armor",
+      "type": "Place"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Argoad",
+      "attribute": "old word for the wood of the inner land"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Argoad'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Record the word Argoad.",
+    "key_results": [
+      "Give the meaning of the forest.",
+      "Set the land of the west.",
+      "Name the twin word of the shore."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Argoad'"
+  }
+}

@@ -20,6 +20,30 @@
     {
       "entity": "Ulster cycle",
       "type": "concept"
+    },
+    {
+      "entity": "Aib Grene",
+      "type": "Person"
+    },
+    {
+      "entity": "Aoibhgreine",
+      "type": "Person"
+    },
+    {
+      "entity": "Rinn",
+      "type": "Person"
+    },
+    {
+      "entity": "Eochaid Iuil",
+      "type": "Person"
+    },
+    {
+      "entity": "Otherworld",
+      "type": "Place"
+    },
+    {
+      "entity": "Noisiu",
+      "type": "Person"
     }
   ],
   "attributes": [
@@ -46,23 +70,30 @@
     {
       "entity": "Noísiu",
       "attribute": "was a doomed lover who fled Ireland with Deirdre"
+    },
+    {
+      "entity": "Aibgrene",
+      "attribute": "name written Aib Grene and Aoibhgreine, meaning radiance of the sun"
+    },
+    {
+      "entity": "Aibgrene",
+      "attribute": "later said to marry Rinn, son of Eochaid Iuil, king of the Otherworld"
     }
   ],
   "sources": [
-    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.",
+    "MacKillop 2008, s.v. 'Aibgrene'"
   ],
   "cyphertext": "1sjW4ApzfO3CcJQvNkqskDAGwTfr-PaX7Uw52BSfItHOrYis3uR95hyxW5_1pHclIgx0CIU3bexcDDobvEK-lIxKNY2JAwuUq260GaSIluAb9tIIiUrSIw9UBgE9KOT3VKZyzy0sj6YHBmF7lqyfWKamEqI-LriB671Pxau1kyite63coLtpfrDLQJ13JKi03HAH1WXOnlkbqpLAudLWDTiIj1rmqNnOU9Q=",
   "salt": "G1guRlcH3aL_OnfSaGUi8Q==",
-  "text": "Aíbgréne is an Irish heroine. In some texts she is the daughter of the doomed lovers Deirdre and Noísiu. Her name is also written Abgrenia. She is otherwise unknown in the sources. The tale of her parents is one of the best-known stories of the Ulster cycle. Deirdre and Noísiu were fated lovers who fled Ireland together. They lived in exile until their return brought betrayal. Both met their death as a result. The tradition names Aíbgréne as the fruit of that tragic union. Her single appearance adds a descendant to the doomed family line.",
+  "text": "Aíbgréne is an Irish heroine. In some accounts she is the child of the doomed lovers Deirdre and Noisiu. Her name is also written Aib Grene and Aoibhgreine. It carries the sense of radiance of the sun. Later tradition makes her the wife of Rinn. Rinn was a son of Eochaid Iuil, king of the Otherworld. The tale of her parents is one of the best-known stories of the Ulster cycle. Deirdre and Noisiu were fated lovers who fled Ireland together. Their return brought betrayal and the death of both. The tradition names Aibgrene as the fruit of that tragic union. Her single appearance adds a descendant to the doomed line.",
   "okr": {
-    "objective": "This article establishes Aíbgréne as an obscure Irish heroine named as the daughter of the doomed lovers Deirdre and Noísiu.",
+    "objective": "Record Aibgrene as the daughter of Deirdre and Noisiu, named for the sun.",
     "key_results": [
-      "Aíbgréne is an Irish heroine.",
-      "In some texts she is the daughter of Deirdre and Noísiu.",
-      "Her name is also written Abgrenia.",
-      "She is otherwise unknown.",
-      "Her parents were the doomed lovers of the Ulster cycle."
+      "Document Aibgrene as the child of Deirdre and Noisiu.",
+      "Record her later marriage to Rinn, son of the Otherworld king.",
+      "Note the sun-radiance sense of her name."
     ],
-    "evidence": "Monaghan 2003"
+    "evidence": "Monaghan 2008, s.v. Aibgrene; MacKillop 2008, s.v. 'Aibgrene'"
   }
 }

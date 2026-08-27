@@ -1,0 +1,68 @@
+{
+  "name": "Llyn Fawr hoard",
+  "text": "Llyn Fawr is an archaeological site in Glamorgan (Morgannwg), south Wales (Cymru), about 18 miles north-east of Swansea (Abertawe). Workers recovered the Llyn Fawr hoard when the peaty mountain tarn drained. The drainage came during the building of a reservoir between 1910 and 1911. O. G. S. Crawford and R. E. M. Wheeler first presented the find in 1921. Later finds, recovered in the same years, reached the National Museum of Wales in 1936. These included a second bronze vessel and a piece of a Hallstatt C iron sword. The hoard holds 24 objects in total. These include two bronze cauldrons and six socketed bronze axes. There are three socketed bronze gouges and two winged chapes. A bronze razor and a bronze belt-clasp join them. An ornamental bronze plate and three bronze discs complete the bronze goods. The iron objects are two sickles, a spearhead, and a sword. The first collection makes up a unitary deposit. It spans the closing Bronze Age and the opening Iron Age, around 650 bc. The two bronze cauldrons belong to class B1, with close parallels in Ireland (Ériu), evidencing Atlantic trade. The iron sickle, similar to Irish bronze examples, shows that iron production had arrived while bronze models were still imitated. The Hallstatt C iron sword stands as an import. The name Llyn Fawr means 'large pool' in Welsh, the word llyn, originally neuter, generally feminine in south Wales.",
+  "entities": [
+    {
+      "entity": "Llyn Fawr",
+      "type": "Place"
+    },
+    {
+      "entity": "Morgannwg",
+      "type": "Place"
+    },
+    {
+      "entity": "Cymru",
+      "type": "Place"
+    },
+    {
+      "entity": "Abertawe",
+      "type": "Place"
+    },
+    {
+      "entity": "Hallstatt C",
+      "type": "concept"
+    },
+    {
+      "entity": "National Museum of Wales",
+      "type": "Group"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Llyn Fawr",
+      "attribute": "archaeological site in Glamorgan yielding a Bronze-Iron Age hoard"
+    },
+    {
+      "entity": "Llyn Fawr hoard",
+      "attribute": "24 objects recovered when the tarn was drained in 1910-11"
+    },
+    {
+      "entity": "Llyn Fawr hoard",
+      "attribute": "unitary deposit dating to about 650 bc"
+    },
+    {
+      "entity": "Llyn Fawr hoard",
+      "attribute": "includes two bronze cauldrons linked to Atlantic trade"
+    },
+    {
+      "entity": "Hallstatt C",
+      "attribute": "phase represented by an iron sword fragment in the hoard"
+    }
+  ],
+  "okr": {
+    "objective": "Document the Llyn Fawr hoard, the Bronze-Iron Age deposit from south Wales.",
+    "key_results": [
+      "Record the recovery of the hoard during the 1910-11 drainage",
+      "List the 24 objects within the deposit",
+      "Note the dating to about 650 bc across the Bronze-Iron transition",
+      "Report the Atlantic and Irish connections in the artefacts"
+    ],
+    "evidence": "Koch 2006, s.v. 'Objects from the Llyn Fawr hoard'."
+  },
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "sources": [
+    "Koch 2006, s.v. 'Objects from the Llyn Fawr hoard'"
+  ]
+}

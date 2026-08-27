@@ -3,11 +3,19 @@
   "attributes": [
     {
       "entity": "Angharad",
-      "attribute": "an obscure Arthurian heroine courted by Peredur"
+      "attribute": "a Welsh name that means dearly loved"
     },
     {
       "entity": "Angharad",
-      "attribute": "may have begun as a goddess of the land’s sovereignty"
+      "attribute": "borne by several women in early Welsh records"
+    },
+    {
+      "entity": "Angharad",
+      "attribute": "an Arthurian heroine courted by Peredur"
+    },
+    {
+      "entity": "Angharad",
+      "attribute": "may be a goddess of the land's sovereignty"
     }
   ],
   "entities": [
@@ -20,30 +28,39 @@
       "type": "Person"
     },
     {
+      "entity": "Rhodri",
+      "type": "Person"
+    },
+    {
+      "entity": "Llywelyn",
+      "type": "Person"
+    },
+    {
+      "entity": "Giraldus Cambrensis",
+      "type": "Person"
+    },
+    {
       "entity": "Angharad Law Eurawc",
       "type": "Person"
     },
     {
-      "entity": "Angharad of the Golden Hand",
-      "type": "Person"
-    },
-    {
       "entity": "sovereignty",
-      "type": "Concept"
+      "type": "concept"
     }
   ],
   "sources": [
-    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.",
+    "MacKillop 2008, s.v. Angharad"
   ],
   "cyphertext": "FkEINWQxBCnt7iklfkFNd1gSsX2Rsrm5Yc1XmNcMzyha8-h7otRcGPGllLhhKEG0YMs7FqwQL3KMy48DPovV8rlSZ3GlwKwyE9vkPwShzh8bODq2uhbg-lVQAgNljChUORwatcewzOkexdtv9vIZ-92TjxuVorGP7YlCosk-L1S2yvUvKpwtxOBlWRwSj1svxQ-48sPrn6AyhmeAy_0RWm54XVn_-VIlxGFS9ffK66L6hNP9M4640NGh4b2-NDCSOVd70JwRqNq4Tud5H4zUyULtpa9CVDEFvlIUYFzEaidD68mggzlJ",
   "salt": "FCEWNCOFGY6B_HGCVd8SCQ==",
-  "text": "Angharad, also called Angharad Law Eurawc and Angharad of the Golden Hand, is an Arthurian heroine. She is an obscure figure. The knight Peredur courted her. Some scholars suggest she began as a goddess of the land’s sovereignty. In this reading she stands for the kingdom that a worthy king must win.",
+  "text": "Angharad is a Welsh name that means the dearly loved one. Gerald of Wales and the early records give the name to several women. One Angharad was the daughter of Meurig ap Dyfnwall, and she became the wife of the king named Rhodri. A second, the daughter of Meredydd ab Owain, married Llywelyn ap Seisyllt, king of Gwynedd. A third was the wife of William de Barry and the mother of the chronicler named Giraldus Cambrensis. The Arthurian tale adds a further Angharad, an obscure heroine whom the knight Peredur courted. Some give her the added names Angharad Law Eurawc and Angharad of the Golden Hand. Readers suggest she began as a goddess of the land's rule, the prize a worthy king must stand and win.",
   "okr": {
-    "objective": "Record Angharad, an obscure Arthurian heroine.",
+    "objective": "Record Angharad, a Welsh name borne by several women.",
     "key_results": [
-      "Show her names and her suitor Peredur.",
-      "Show the claim that she began as a sovereignty goddess."
+      "Show the several historical bearers of the name.",
+      "Show her Arthurian role and the claim of sovereignty."
     ],
-    "evidence": "Monaghan 2003, s.v. Angharad"
+    "evidence": "Monaghan 2003, s.v. Angharad; MacKillop 2008, s.v. Angharad"
   }
 }

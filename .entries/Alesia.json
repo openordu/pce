@@ -1,0 +1,43 @@
+{
+  "name": "Alesia",
+  "text": "Alesia was a fortified town in the eastern part of Gaul, in the region today called Burgundy. The historian Diodorus Siculus wrote that the Greek hero Heracles founded the town after an affair with the Gaulish princess. The town served as the base of the chieftain Vercingetorix in his war against Rome in 52.",
+  "entities": [
+    {
+      "entity": "Alesia",
+      "type": "Place"
+    },
+    {
+      "entity": "Vercingetorix",
+      "type": "Character"
+    },
+    {
+      "entity": "Hercules",
+      "type": "Character"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Alesia",
+      "attribute": "fortified Celtic town in eastern Gaul"
+    },
+    {
+      "entity": "Vercingetorix",
+      "attribute": "led the resistance against Rome from Alesia in 52"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Alesia'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Record the Celtic fortification and place-name Alesia.",
+    "key_results": [
+      "Locate the town in eastern Gaul.",
+      "State the story of its foundation by Hercules.",
+      "State the part of Alesia in the war of 52."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Alesia'"
+  }
+}

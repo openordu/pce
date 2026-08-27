@@ -2,53 +2,63 @@
 layout: layouts/pce.njk
 title: Art mac Cuinn
 icon: file-lines
-order: 159
+order: 0
 contributors: [ 'Christopher Godwin' ]
 attributes:
-  - Art Father to Cormac Mac Airt
-  - Cormac Mac Airt Son of Art
-  - Achtan Conceived Cormac Mac Airt
-  - Art Died at the battle of Mag Mucrama
+  - Art mac Cuinn an Irish hero, son of Conn
+  - Cormac mac Airt the great hero he fathered
+  - Mag Mucrama the battle where he died
+  - Delbcheim the woman he won in the Land of Wonder
+  - Medb Lethderg his wife in some older texts
 categories:
-  - Form of the goddess of Sovereignty
-  - Battle
-  - Consort
-  - Magical heroine
-  - Great hero
+  - Person
+  - Place
+  - Concept
 entities:
-  - Art(Consort)
-  - Medb Lethderg(Form of the goddess of Sovereignty)
-  - Cormac Mac Airt(Great hero)
-  - Achtan(Magical heroine)
-  - Mag Mucrama(Battle)
+  - Art mac Cuinn(Person)
+  - Conn(Person)
+  - Be Chuma(Person)
+  - Cormac mac Airt(Person)
+  - Mag Mucrama(Place)
+  - Delbcheim(Person)
+  - Medb Lethderg(Person)
+  - fidchell(Concept)
 tags:
-  - Art
-  - Medb Lethderg
-  - Cormac Mac Airt
-  - Achtan
+  - Art mac Cuinn
+  - Conn
+  - Be Chuma
+  - Cormac mac Airt
   - Mag Mucrama
+  - Delbcheim
+  - Medb Lethderg
+  - fidchell
 ---
 ``` tab [group1:Info]
 ::: magazinestyle
-Art mac Cuinn, who was given the name Art, meaning Bear, was an Irish hero and champion widely known. His father, Conn of the Hundred Battles, ruled over Tara with Bé Chuma. However, Bé Chuma both lusted after and sent Art into exile. Art returned to Tara only to be sent on a quest to earn the love of Delbcháem, a woman from the Otherworld. He succeeded and brought her back to Tara, forcing Bé Chuma to depart. Additionally, Art is mentioned in other texts as the companion of Medb Lethderg, a form of the goddess of Sovereignty. Art was mythically notable as the father of Cormac Mac Airt, a great hero whose mother was the magical heroine Achtan. Cormac was conceived immediately before Art's death during the Battle of Mag Mucrama.
+Art mac Cuinn is an Irish hero. The name Art means champion. He is a son of the king who had a hundred battles won. Conn of the Hundred Battles ruled at Tara. Writers also call him Art the son of Conn and Art the Lone one. He is the chief figure in an old Irish tale about his loss. In that tale the woman Bé Chuma loved him. She chose his father instead, so she sent the young man away for a year. When he returned, he played the board game fidchell and lost it. His loss sent him to win the lovely Delbchém. She lived in the Land of Wonder. To claim her, he had to defeat her monstrous family. He came home with the girl, and she made Bé Chuma leave. He also became the father of the renowned Cormac mac Airt. Some older texts make him the husband of Medb Lethderg. He died in the battle of Mag Mucrama, lost at the hands of a foe.
 
 :::
 ```
 ``` tab [group1:Attributes]
-- **Art**: Father to Cormac Mac Airt
-- **Cormac Mac Airt**: Son of Art
-- **Achtan**: Conceived Cormac Mac Airt
-- **Art**: Died at the battle of Mag Mucrama
+- **Art mac Cuinn**: an Irish hero, son of Conn
+- **Cormac mac Airt**: the great hero he fathered
+- **Mag Mucrama**: the battle where he died
+- **Delbcheim**: the woman he won in the Land of Wonder
+- **Medb Lethderg**: his wife in some older texts
 ```
 ``` tab [group1:Entities]
-- **Art**: Consort
-- **Medb Lethderg**: Form of the goddess of Sovereignty
-- **Cormac Mac Airt**: Great hero
-- **Achtan**: Magical heroine
-- **Mag Mucrama**: Battle
+- **Art mac Cuinn**: Person
+- **Conn**: Person
+- **Be Chuma**: Person
+- **Cormac mac Airt**: Person
+- **Mag Mucrama**: Place
+- **Delbcheim**: Person
+- **Medb Lethderg**: Person
+- **fidchell**: Concept
 ```
 ``` tab [group1:Sources]
 - Cross, Tom Peete, and Clark Harris Slover, eds. Ancient Irish Tales. (New York: Henry Holt and Co., 1936), 491.
 - Curtin, Jeremiah. *Hero-Tales of Ireland*. New York: Benjamin Blom, 1894, 312.
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
+- MacKillop 2008, s.v. 'Art mac Cuinn'
 ```

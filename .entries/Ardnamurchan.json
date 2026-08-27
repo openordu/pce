@@ -1,0 +1,40 @@
+{
+  "name": "Ardnamurchan",
+  "fname": "Ardnamurchan.json",
+  "text": "Ardnamurchan is a head of land in the far northwest of Scotland. The point of the land is the westernmost of the whole mainland. The head divides the sea between the south and the north of the great island group. The ruler named Somerled marked Ardnamurchan as the northern edge of his land in the middle of the twelfth century.",
+  "entities": [
+    {
+      "entity": "Ardnamurchan",
+      "type": "Place"
+    },
+    {
+      "entity": "Scotland",
+      "type": "Place"
+    },
+    {
+      "entity": "Somerled",
+      "type": "Person"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Ardnamurchan",
+      "attribute": "headland that is the westernmost point of the mainland"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Ardnamurchan'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Record the head of land Ardnamurchan.",
+    "key_results": [
+      "Place the point in the northwest.",
+      "Name the sea it divides.",
+      "Set the boundary of the ruler."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Ardnamurchan'"
+  }
+}

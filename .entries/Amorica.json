@@ -1,0 +1,39 @@
+{
+  "name": "Amorica",
+  "fname": "Amorica.json",
+  "text": "Amorica is a variant of the old name of the land that the Celts called Armorica. MacKillop gives the simple form for the country that later took the name Brittany. The word keeps its place among the forms of the larger head.",
+  "entities": [
+    {
+      "entity": "Amorica",
+      "type": "Place"
+    },
+    {
+      "entity": "Armorica",
+      "type": "Place"
+    },
+    {
+      "entity": "Brittany",
+      "type": "Place"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Amorica",
+      "attribute": "a variant of the name Armorica"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Amorica'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Give the variant Amorica.",
+    "key_results": [
+      "Name the form for a spelling.",
+      "Lead the reader to the land of the Armorica."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Amorica'"
+  }
+}

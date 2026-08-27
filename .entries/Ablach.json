@@ -1,0 +1,47 @@
+{
+  "name": "Ablach",
+  "text": "Ablach is an Ulster princess of early Irish tradition. Her name evokes an orchard, a place rich in apple trees. She bore Eochaid mac Fiachnai, a ruler of the ninth century. Her name also recalls Emain Ablach, a place that means Emain of the Apples. The storytellers used that phrase for a realm of the Otherworld. Ablach thus links a royal mother to the magic apple trees of legend.",
+  "entities": [
+    {
+      "entity": "Eochaid mac Fiachnai",
+      "type": "Person"
+    },
+    {
+      "entity": "Emain Ablach",
+      "type": "Place"
+    },
+    {
+      "entity": "Ulster",
+      "type": "Place"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Ablach",
+      "attribute": "an Ulster princess and mother of Eochaid mac Fiachnai"
+    },
+    {
+      "entity": "Ablach",
+      "attribute": "the name suggests having apple trees"
+    },
+    {
+      "entity": "Ablach",
+      "attribute": "her name recalls Emain Ablach, Emain of the Apples"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Ablach'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Record Ablach, the Ulster princess whose name evokes apple trees.",
+    "key_results": [
+      "Identify Ablach as mother of Eochaid mac Fiachnai.",
+      "Note the apple-tree sense of her name.",
+      "Link the name to the Otherworld realm Emain Ablach."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Ablach'"
+  }
+}

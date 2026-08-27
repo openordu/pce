@@ -1,0 +1,44 @@
+{
+  "name": "Bacorbladra",
+  "fname": "Bacorbladra.json",
+  "text": "Bacorbladra is a teacher of the Partholonian people in the Lebor Gabala. The old text names him as the first foster father of Ireland. His office is to raise a child of the settlers and to hold the place of a father to him. The name is also written with a second form in the book.",
+  "entities": [
+    {
+      "entity": "Bacorbladra",
+      "type": "Character"
+    },
+    {
+      "entity": "Lebor Gabala",
+      "type": "Work"
+    },
+    {
+      "entity": "Ireland",
+      "type": "Place"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Bacorbladra",
+      "attribute": "a teacher of the Parthon people"
+    },
+    {
+      "entity": "Bacorbladra",
+      "attribute": "first foster father of Ireland"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Bacorbladra'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Record the first foster father of Ireland.",
+    "key_results": [
+      "Name him as a teacher.",
+      "Give the office of foster father.",
+      "Note the two forms of the name."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Bacorbladra'"
+  }
+}

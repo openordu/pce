@@ -1,0 +1,35 @@
+{
+  "name": "Ailill Aulomm",
+  "text": "Ailill Aulomm, Ailill bare-ear, fathered Eógan and the lesser figures Dichorb, Aife, and Cian. He also fostered Lugaid mac Con, who became his foster-brother in a dynastic dispute. A later story said Ailill ravished the fairy goddess Áine and she slew him. O'Rahilly judged that tale a later invention to explain the epithet. His brother was Lugaid Lága. Do not mistake him for Ailill Áine.",
+  "entities": [
+    {"entity": "Ailill Aulomm", "type": "Character"},
+    {"entity": "Eógan", "type": "Character"},
+    {"entity": "Lugaid mac Con", "type": "Character"},
+    {"entity": "Áine", "type": "Goddess"},
+    {"entity": "Aife", "type": "Character"},
+    {"entity": "Cian", "type": "Character"},
+    {"entity": "Dichorb", "type": "Character"},
+    {"entity": "Lugaid Lága", "type": "Character"},
+    {"entity": "Ailill Áine", "type": "Character"}
+  ],
+  "attributes": [
+    {"entity": "Ailill Aulomm", "attribute": "his name Ailill bare-ear explains the epithet"},
+    {"entity": "Ailill Aulomm", "attribute": "father of Eógan, Dichorb, Aife, and Cian"},
+    {"entity": "Ailill Aulomm", "attribute": "foster-father of Lugaid mac Con"},
+    {"entity": "Ailill Aulomm", "attribute": "brother of Lugaid Lága"},
+    {"entity": "Ailill Aulomm", "attribute": "linked by later story to the goddess Áine"}
+  ],
+  "sources": ["MacKillop 2008, s.v. 'Ailill Aulomm'"],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Profile Ailill Aulomm as a dynastic figure of Irish legend.",
+    "key_results": [
+      "Explain the bare-ear epithet of the name.",
+      "List his children and his foster-son Lugaid mac Con.",
+      "Note the disputed tale involving the goddess Áine."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Ailill Aulomm'"
+  }
+}

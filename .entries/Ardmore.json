@@ -1,0 +1,44 @@
+{
+  "name": "Ardmore",
+  "fname": "Ardmore.json",
+  "text": "Ardmore is a common place name of Ireland and of the north of the land of the Scot. The name means the great height, a tall hill of the land. The name stands in many of the maps of the two lands. The best known Ardmore lies in the county of Waterford on the south coast of Ireland. The town holds the tall round tower of the monks, a known sign of the old church.",
+  "entities": [
+    {
+      "entity": "Ardmore",
+      "type": "Place"
+    },
+    {
+      "entity": "Waterford",
+      "type": "Place"
+    },
+    {
+      "entity": "Declan",
+      "type": "Person"
+    },
+    {
+      "entity": "Brittany",
+      "type": "Place"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Ardmore",
+      "attribute": "common place name of Ireland and Scotland"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Ardmore'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Record the place name Ardmore.",
+    "key_results": [
+      "Give the meaning of the high hill.",
+      "Set the town in the county of Waterford.",
+      "Name the tower of the monks."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Ardmore'"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "name": "Anlawdd Wledig",
+  "fname": "Anlawdd_Wledig.json",
+  "text": "Anlawdd Wledig appears in the early Welsh tales. His name is said to mean ruler. He was the father of Eigr and also the grandfather of Culhwch. His child of Eigr became the mother of king Arthur of Wales.",
+  "entities": [
+    {
+      "entity": "Anlawdd Wledig",
+      "type": "Character"
+    },
+    {
+      "entity": "Eigr",
+      "type": "Character"
+    },
+    {
+      "entity": "Culhwch",
+      "type": "Character"
+    },
+    {
+      "entity": "Arthur",
+      "type": "Character"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Anlawdd Wledig",
+      "attribute": "father of Eigr and grandfather of Culhwch"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Anlawdd Wledig'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "State the Welsh figure Anlawdd Wledig.",
+    "key_results": [
+      "Name him the father of Eigr.",
+      "Name him the grandfather of Culhwch."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Anlawdd Wledig'"
+  }
+}

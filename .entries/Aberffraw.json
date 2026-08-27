@@ -1,6 +1,6 @@
 {
   "name": "Aberffraw",
-  "text": "Aberffraw is a royal site of the Welsh kings in the SE of Anglesey. It was the seat of the Gwynedd dynasty, whose early line claimed descent from Cunedda. The cantref of Aberffraw had two commotes, Llifon to the north and Malltraeth in the south. Court poets used the name as a byword for royal standing and lawful power. When Llywelyn ap Gruffudd, the last native prince, died in 1282, the site was pulled down.",
+  "text": "Aberffraw is a royal site of the Welsh kings in the SE of Anglesey. It was the principal seat of the Gwynedd kings, whose early line claimed descent from Cunedda. The site lies twelve miles southeast of Holyhead. The cantref of Aberffraw held two commotes, Llifon to the north and Malltraeth in the south. The name is Welsh in origin. It means the mouth of a river or an estuary. Court poets used the name as a byword for royal standing and lawful power. When Llywelyn ap Gruffudd, the last native prince, died in 1282, the site was pulled down.",
   "entities": [
     {
       "entity": "Aberffraw",
@@ -29,6 +29,10 @@
     {
       "entity": "Malltraeth",
       "type": "Place"
+    },
+    {
+      "entity": "Holyhead",
+      "type": "Place"
     }
   ],
   "attributes": [
@@ -42,7 +46,19 @@
     },
     {
       "entity": "Aberffraw",
+      "attribute": "the principal seat of the Gwynedd kings"
+    },
+    {
+      "entity": "Aberffraw",
+      "attribute": "lies twelve miles southeast of Holyhead"
+    },
+    {
+      "entity": "Aberffraw",
       "attribute": "a cantref split into the commotes of Llifon and Malltraeth"
+    },
+    {
+      "entity": "Aberffraw",
+      "attribute": "name means the mouth of a river or an estuary"
     },
     {
       "entity": "Anglesey",
@@ -55,7 +71,8 @@
   ],
   "sources": [
     "Koch 2006, s.v. 'Aberffraw'",
-    "Lloyd, John Edward. A History of Wales from the Earliest Times to the Edwardian Conquest. Longmans, Green & Co., 1911."
+    "Lloyd, John Edward. A History of Wales from the Earliest Times to the Edwardian Conquest. Longmans, Green & Co., 1911.",
+    "MacKillop 2008, s.v. 'Aberffraw'"
   ],
   "image": [],
   "cyphertext": "",
@@ -67,6 +84,6 @@
       "Describe the cantref as two commotes, Llifon and Malltraeth.",
       "Record the demise of the site after the death of Llywelyn ap Gruffudd."
     ],
-    "evidence": "Koch 2006, s.v. 'Aberffraw'; Lloyd 1911."
+    "evidence": "Koch 2006, s.v. 'Aberffraw'; Lloyd 1911; MacKillop 2008, s.v. 'Aberffraw'."
   }
 }

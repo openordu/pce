@@ -1,0 +1,39 @@
+{
+  "name": "Arthfael",
+  "fname": "Arthfael.json",
+  "text": "Arthfael is a name that well-named men of the early history of Wales carried. Arthfael ap Noë is the most famous of the band. He ruled the land of Gwent in the tenth age as its chief. The word draws from the old sense of the bear and of the mail of the warrior. The old rolls keep a few men of this name on their lines.",
+  "entities": [
+    {
+      "entity": "Arthfael",
+      "type": "Person"
+    },
+    {
+      "entity": "Arthfael ap Noë",
+      "type": "Person"
+    },
+    {
+      "entity": "Gwent",
+      "type": "Place"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Arthfael",
+      "attribute": "name of several real figures of early Wales"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Arthfael'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Record the Welsh name Arthfael.",
+    "key_results": [
+      "Name the chief of Gwent.",
+      "Give the sense of the old name."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Arthfael'"
+  }
+}

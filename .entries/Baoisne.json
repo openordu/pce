@@ -1,0 +1,52 @@
+{
+  "name": "Baoisne",
+  "fname": "Baoisne.json",
+  "text": "Baoisne is a later spelling of the name Baiscne. Baiscne is a clan in the old tales of the Fenian Cycle. The hero Fionn mac Cumhaill led the men of this family. The two great families of the Fianna were the clan Baiscne and the rival clan Morna. Baoisne is one of the many forms of the clan name.",
+  "entities": [
+    {
+      "entity": "Baoisne",
+      "type": "Group"
+    },
+    {
+      "entity": "Baiscne",
+      "type": "Group"
+    },
+    {
+      "entity": "Fionn mac Cumhaill",
+      "type": "Character"
+    },
+    {
+      "entity": "Fianna",
+      "type": "Group"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Baoisne",
+      "attribute": "a later spelling of the clan Baiscne"
+    },
+    {
+      "entity": "Baoisne",
+      "attribute": "the clan led by Fionn"
+    },
+    {
+      "entity": "Baoisne",
+      "attribute": "one of two great families of the Fianna"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Baoisne'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Record the clan name Baoisne of the Fenian Cycle.",
+    "key_results": [
+      "Link Baoisne to Baiscne.",
+      "Name the leader Fionn.",
+      "Give the rival clan Morna."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Baoisne'"
+  }
+}

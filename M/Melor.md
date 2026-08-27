@@ -2,7 +2,7 @@
 layout: layouts/pce.njk
 title: Melor
 icon: file-lines
-order: 1738
+order: 0
 contributors: [ 'Christopher Godwin' ]
 attributes:
   - Melor a saint of Cornwall and Brittany, a priest of the early Middle Ages
@@ -14,10 +14,14 @@ attributes:
   - Melor his severed head was a protective talisman, like the head of Bran the Blessed that guarded Britain
   - Melor the seat of his cult was at Lanmeur, and Quimper also claimed to keep his head
   - Melor the martyred saint performed posthumous miracles on behalf of the slain who prayed at his shrine
+  - Melor the church set his canonization in the Carolingian period
+  - Melor a namesake, St Maglorius of Dol, lived as a hermit on Sark
+  - Melor his decapitation mirrors the fate of the Breton prince Tremeur
+  - Melor his cult revived in Britain, with a second Life serving Amesbury in Wiltshire after Prince Arthur of Brittany died in 1203
 categories:
+  - Place
   - Concept
   - Person
-  - Place
 entities:
   - Melor(Person)
   - Méloir(Person)
@@ -33,6 +37,11 @@ entities:
   - Lanmeur(Place)
   - Quimper(Place)
   - head cult(Concept)
+  - Amesbury(Place)
+  - John of Tynemouth(Person)
+  - Jean de Grandisson(Person)
+  - St Maglorius of Dol(Person)
+  - Tremeur(Person)
 tags:
   - Melor
   - Méloir
@@ -48,10 +57,15 @@ tags:
   - Lanmeur
   - Quimper
   - head cult
+  - Amesbury
+  - John of Tynemouth
+  - Jean de Grandisson
+  - St Maglorius of Dol
+  - Tremeur
 ---
 ``` tab [group1:Info]
 ::: magazinestyle
-Melor is a saint of Cornwall and Brittany. Another name for him is Meloir, or Melar. He was a priest of the early medieval age. His name springs from the Celtic tongue. It joins the words for prince and king. His father was a Breton sub-king. His uncle Rivod had him maimed and then beheaded. The wound came at the hand of the serf Kerialtan. The severed head still spoke. Melor told the killers to strike the ground with his staff. Clear water rushed out. The staff took root and grew into a flowering tree. Healing wells in the forest took his name. After his maiming he was given a silver hand that worked and moved. That arm mirrors the magic silver hand of the Irish hero Nuada Argatlam. It echoes too the Welsh lord Lludd Llawereint of the hand. His severed head kept its power and stood watch. It worked like the head of Bran the Blessed. That head guarded the island of Britain from invaders and ruin. Men held the head of Melor as a claim to its magic. His cult seat was at Lanmeur. Quimper also said it kept the head in 1789. His shrine stood at Linkinhorne in Cornwall. Melor worked for the slain after his death. He stepped in for those who came to his holy place with true faith. He took the place of an older god or goddess of healing. The old ways lived on under the new faith.
+Melor is a saint of Cornwall and Brittany. Another name for him is Meloir, or Melar. He was a priest of the early medieval age. His name springs from the Celtic tongue. It joins the words for prince and king. His father was a Breton sub-king. His uncle Rivod had him maimed and then beheaded. The wound came at the hand of the serf Kerialtan. His servant's name recalls the Corieltaui people of eastern Britain. The severed head still spoke. Melor told the killers to strike the ground with his staff. Clear water rushed out. The staff took root and grew into a flowering tree. Healing wells in the forest took his name. After his maiming he was given a silver hand that worked and moved. That arm mirrors the magic silver hand of the Irish hero Nuada Argatlam. It echoes too the Welsh lord Lludd Llawereint of the hand. His severed head kept its power and stood watch. It worked like the head of Bran the Blessed. That head guarded the island of Britain from invaders and ruin. Men held the head of Melor as a claim to its magic. His cult seat was at Lanmeur. Quimper also said it kept the head in 1789. His shrine stood at Linkinhorne in Cornwall. Melor worked for the slain after his death. He stepped in for those who came to his holy place with true faith. He took the place of an older god or goddess of healing. The old ways lived on under the new faith. His church set his canonization in the Carolingian period. Several saints may share his name. A namesake, St Maglorius of Dol, lived as a hermit on Sark. Melor's beheading mirrors the fate of the Breton prince Tremeur. The death of Prince Arthur of Brittany in 1203 revived the cult. King John ordered that killing. A second Life followed. John of Tynemouth wrote his own version. Jean de Grandisson added his. Their work served a British cult at Amesbury in Wiltshire and in Cornwall.
 
 :::
 ```
@@ -65,6 +79,10 @@ Melor is a saint of Cornwall and Brittany. Another name for him is Meloir, or Me
 - **Melor**: his severed head was a protective talisman, like the head of Bran the Blessed that guarded Britain
 - **Melor**: the seat of his cult was at Lanmeur, and Quimper also claimed to keep his head
 - **Melor**: the martyred saint performed posthumous miracles on behalf of the slain who prayed at his shrine
+- **Melor**: the church set his canonization in the Carolingian period
+- **Melor**: a namesake, St Maglorius of Dol, lived as a hermit on Sark
+- **Melor**: his decapitation mirrors the fate of the Breton prince Tremeur
+- **Melor**: his cult revived in Britain, with a second Life serving Amesbury in Wiltshire after Prince Arthur of Brittany died in 1203
 ```
 ``` tab [group1:Entities]
 - **Melor**: Person
@@ -81,6 +99,11 @@ Melor is a saint of Cornwall and Brittany. Another name for him is Meloir, or Me
 - **Lanmeur**: Place
 - **Quimper**: Place
 - **head cult**: Concept
+- **Amesbury**: Place
+- **John of Tynemouth**: Person
+- **Jean de Grandisson**: Person
+- **St Maglorius of Dol**: Person
+- **Tremeur**: Person
 ```
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.

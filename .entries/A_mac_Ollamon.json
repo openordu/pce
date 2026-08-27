@@ -1,0 +1,40 @@
+{
+  "name": "Aí mac Ollamon",
+  "fname": "A_mac_Ollamon.json",
+  "text": "Aí mac Ollamon is the poet of the Tuatha Dé Danann. His name carries the sense of the son of a master poet. The tales speak of his skill in verse. Before his birth a sudden gust moved the house and a seer spoke of a wondrous child. He was later sent to stand against the sons of Carman.",
+  "entities": [
+    {
+      "entity": "Aí mac Ollamon",
+      "type": "Character"
+    },
+    {
+      "entity": "Tuatha Dé Danann",
+      "type": "People"
+    },
+    {
+      "entity": "Carman",
+      "type": "Character"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Aí mac Ollamon",
+      "attribute": "poet of the Tuatha Dé Danann"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Aí mac Ollamon'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Record the poet Aí mac Ollamon.",
+    "key_results": [
+      "Name him the poet of the Tuatha Dé Danann.",
+      "Tell the prophecy at his birth.",
+      "Note his sending against the sons of Carman."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Aí mac Ollamon'"
+  }
+}

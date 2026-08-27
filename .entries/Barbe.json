@@ -1,0 +1,48 @@
+{
+  "name": "Barbe",
+  "fname": "Barbe.json",
+  "text": "Barbe is a legendary saint of Brittany. Her figure seems to grow from an older goddess of the fire. She shields those who face sudden death, above all by lightning. She also guards the men who fight fire. Each year her veneration gathers at La Faouet on a Sunday near the end of June.",
+  "entities": [
+    {
+      "entity": "Barbe",
+      "type": "Character"
+    },
+    {
+      "entity": "Brittany",
+      "type": "Place"
+    },
+    {
+      "entity": "La Faouet",
+      "type": "Place"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Barbe",
+      "attribute": "legendary saint of Brittany"
+    },
+    {
+      "entity": "Barbe",
+      "attribute": "protects against sudden death"
+    },
+    {
+      "entity": "Barbe",
+      "attribute": "patroness of those who fight fire"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Barbe'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Record Saint Barbe and her guardianship.",
+    "key_results": [
+      "Name her land.",
+      "Give her mercy over sudden death.",
+      "Set her feast at La Faouet."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Barbe'"
+  }
+}

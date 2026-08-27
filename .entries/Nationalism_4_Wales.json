@@ -1,0 +1,59 @@
+{
+  "name": "Nationalism [4] Wales",
+  "attributes": [
+    {
+      "entity": "Nationalism [4] Wales",
+      "attribute": "a sense of Welsh nationhood dates at least to the late 6th or early 7th century when the term Cymry came into use"
+    },
+    {
+      "entity": "Armes Prydein",
+      "attribute": "this 10th-century poem is an early literary expression of Welsh nationalism"
+    },
+    {
+      "entity": "Plaid Cymru",
+      "attribute": "the Welsh Nationalist Party, founded in 1925, became Plaid Cymru and was later led by Saunders Lewis and Gwynfor Evans"
+    },
+    {
+      "entity": "National Assembly for Wales",
+      "attribute": "first elections were held in 1999 after a narrow devolution referendum in 1997"
+    }
+  ],
+  "entities": [
+    {
+      "entity": "Nationalism [4] Wales",
+      "type": "Topic"
+    },
+    {
+      "entity": "Armes Prydein",
+      "type": "Literature"
+    },
+    {
+      "entity": "Plaid Cymru",
+      "type": "Group"
+    },
+    {
+      "entity": "Cymry",
+      "type": "Group"
+    },
+    {
+      "entity": "Owain Glyndŵr",
+      "type": "Person"
+    }
+  ],
+  "sources": [
+    "Koch 2006, s.v. 'Nationalism [4] Wales'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "text": "Nationalism [4] Wales considers the growth of Welsh national consciousness. The term Cymry came into use by the late sixth century or early seventh. The 10th-century poem Armes Prydein is an early expression of the national idea. The rebellion of Owain Glyndŵr and the Welsh humanists of the 16th century drew on this patriotism. Political nationalism became a significant force only in the later 19th century. Welsh-language publishing and Continental nationalist writings fostered it. Plaid Cymru, founded in 1925 under leaders such as Saunders Lewis and Gwynfor Evans, emphasised the safeguarding of Welsh-speaking districts. A 1997 devolution referendum passed narrowly, and the first elections to the Welsh National Assembly were called in 1999.",
+  "okr": {
+    "objective": "Author a new PCE node for the history of nationalism in Wales",
+    "key_results": [
+      "record the early use of the term Cymry and the poem Armes Prydein",
+      "note the later 19th-century growth of political nationalism",
+      "describe Plaid Cymru and the devolution settlements of 1997 and 1999"
+    ],
+    "evidence": "Koch 2006, s.v. 'Nationalism [4] Wales'."
+  }
+}

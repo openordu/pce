@@ -1,0 +1,40 @@
+{
+  "name": "Armes Prydain",
+  "fname": "Armes_Prydain.json",
+  "text": "Armes Prydain is the name of a poem of the old Britons. The title of the work means the prophecy of Britain. The verse calls on the many peoples of the island to unite and push the Saxons from the shore. It was written in the tenth hundred of years of the present age. The poem stands as a proud piece of the old Welsh books.",
+  "entities": [
+    {
+      "entity": "Armes Prydain",
+      "type": "concept"
+    },
+    {
+      "entity": "Merlin",
+      "type": "Character"
+    },
+    {
+      "entity": "Britain",
+      "type": "Place"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Armes Prydain",
+      "attribute": "prophecy of Britain, a poem of the tenth age"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Armes Prydain'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Record the poem Armes Prydain.",
+    "key_results": [
+      "Give the subject of the poem.",
+      "Set the poem in the tenth age.",
+      "Name the people it speaks for."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Armes Prydain'"
+  }
+}

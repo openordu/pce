@@ -2,66 +2,56 @@
 layout: layouts/pce.njk
 title: Ana Life
 icon: file-lines
-order: 111
+order: 0
 contributors: [ 'Christopher Godwin' ]
 attributes:
-  - Ana Life mythically accurate
-  - Irish rivers almost invariably goddesses
-  - Liffey correct name is Lífe
-  - Joyce reflected ancient Celtic beliefs
-  - Liffey especially archetypal river
-  - Bog Of Allen source of Liffey
-  - Liffey flows south, west, north, and finally east
-  - Liffey forms a great “c” shape
-  - Liffey disgorges itself in the sea
+  - James Joyce created her as Anna Livia Plurabelle
+  - Ana Life the only female river figure on Dublin's bridges
+  - Ana Life confers goddess status on the River Liffey
+  - Lífe goddess of the River Liffey
 categories:
-  - sculpture
-  - goddess
-  - religion
-  - geographic feature
+  - Person
+  - concept
+  - Place
 entities:
-  - Ana Life(sculpture)
-  - Irish rivers(geographic feature)
-  - Liffey(goddess)
-  - Celtic beliefs(religion)
-  - Bog Of Allen(geographic feature)
-  - Devil’s Glen(geographic feature)
-  - sea(geographic feature)
+  - Ana Life(Person)
+  - James Joyce(Person)
+  - Anna Livia Plurabelle(concept)
+  - Lífe(Person)
+  - Anu(Person)
+  - Dublin(Place)
+  - River Liffey(Place)
 tags:
   - Ana Life
-  - Irish rivers
-  - Liffey
-  - Celtic beliefs
-  - Bog Of Allen
-  - Devil’s Glen
-  - sea
+  - James Joyce
+  - Anna Livia Plurabelle
+  - Lífe
+  - Anu
+  - Dublin
+  - River Liffey
 ---
 ``` tab [group1:Info]
 ::: magazinestyle
-Ana Life is a renowned Irish heroine who has been referenced in James Joyce's iconic modernist novel, Finnegans Wake, as "Anna Livia Plurabelle." This is apparent in the book's opening statement, "riverrun," and also implied by its ending, which circles back to the beginning, akin to water from the River Liffey flowing out into the sea and then returning to the source through rainfall. Although Anna Livia Plurabelle was crafted entirely by Joyce, there is a history of personifying the river in this manner, such as in the case of Ana Life - the sole female visage among the river divinities sculpted onto Dublin's bridges. The name Ana Life is believed to be a fusion of the early Irish land-goddess name Anu and the Irish denomination of the river, Lífe. Despite being a sculptural creation, Ana Life is considered the most mythologically exact representation among the bridge sculptures, since Irish rivers are almost always goddesses, rather than gods; the goddess of the Liffey is named Lífe. In his depiction of a flowing, abundant archetypal feminine figure, Joyce echoed the ancient Celtic beliefs. The Liffey is an archetype of rivers, rising from the Bog Of Allen (not from the Devil’s Glen in Wicklow, as Joyce claimed), flowing south, west, north, and ultimately east, forming a significant "c" shape before emptying into the sea.
+Ana Life, also called Ana Liffey, is an Irish name. It bestows goddess rank on the river that runs through Dublin. James Joyce drew on the form to build his figure Anna Livia Plurabelle. The invented word riverrun opens his book Finnegans Wake. The final line of the book turns back to the first. Water moves to the sea and returns again through rain. The name keeps a river goddess over a modern city.
 
 :::
 ```
 ``` tab [group1:Attributes]
-- **Ana Life**: mythically accurate
-- **Irish rivers**: almost invariably goddesses
-- **Liffey**: correct name is Lífe
-- **Joyce**: reflected ancient Celtic beliefs
-- **Liffey**: especially archetypal river
-- **Bog Of Allen**: source of Liffey
-- **Liffey**: flows south, west, north, and finally east
-- **Liffey**: forms a great “c” shape
-- **Liffey**: disgorges itself in the sea
+- **James Joyce**: created her as Anna Livia Plurabelle
+- **Ana Life**: the only female river figure on Dublin's bridges
+- **Ana Life**: confers goddess status on the River Liffey
+- **Lífe**: goddess of the River Liffey
 ```
 ``` tab [group1:Entities]
-- **Ana Life**: sculpture
-- **Irish rivers**: geographic feature
-- **Liffey**: goddess
-- **Celtic beliefs**: religion
-- **Bog Of Allen**: geographic feature
-- **Devil’s Glen**: geographic feature
-- **sea**: geographic feature
+- **Ana Life**: Person
+- **James Joyce**: Person
+- **Anna Livia Plurabelle**: concept
+- **Lífe**: Person
+- **Anu**: Person
+- **Dublin**: Place
+- **River Liffey**: Place
 ```
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
+- MacKillop 2008, s.v. Ana Life
 ```

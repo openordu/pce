@@ -7,10 +7,6 @@
     },
     {
       "entity": "Aillén Trechenn",
-      "attribute": "attacked Tara and Emain Macha"
-    },
-    {
-      "entity": "Aillén Trechenn",
       "attribute": "lived in the cave Oweynagat at Cruachan"
     },
     {
@@ -20,6 +16,22 @@
     {
       "entity": "Aillén Trechenn",
       "attribute": "may be connected with the Mórrígan"
+    },
+    {
+      "entity": "Aillén Trechenn",
+      "attribute": "rose from a cave at Cruachain on the eve of Samain"
+    },
+    {
+      "entity": "Aillén Trechenn",
+      "attribute": "was slain by the poet Amairgin"
+    },
+    {
+      "entity": "Aillén Trechenn",
+      "attribute": "rose from the cave at Cruachain on the eve of Samain."
+    },
+    {
+      "entity": "Aillén Trechenn",
+      "attribute": "was slain by the poet Amairgin."
     }
   ],
   "entities": [
@@ -58,22 +70,36 @@
     {
       "entity": "Mórrígan",
       "type": "Person"
+    },
+    {
+      "entity": "Cruachain",
+      "type": "Place"
+    },
+    {
+      "entity": "Samain",
+      "type": "Concept"
+    },
+    {
+      "entity": "Morrigan",
+      "type": "Person"
     }
   ],
   "sources": [
-    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.",
+    "MacKillop 2008, s.v. 'Aillén Trechenn'",
+    "MacKillop 2008, s.v. 'Aillén Trechenn'"
   ],
   "image": [
     "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Four_Provinces_Flag.svg/1200px-Four_Provinces_Flag.svg.png"
   ],
   "cyphertext": "0PjVxOHx6Ai8mp66NgBcNHcbYRGyGOTtfLglUYUw1L_kzYwIyUbRx0K02RvlYoaLOqhBVoy9dSx0EDmfCyyiCystykdJzgoSaSXivaL4F3DuupQUNWZIkVWcyDCZreG_eedR2hp_MjiqMTKCUgqZoXxUeHAOl0ElRYVxdlog-ZQA0lqawEgiVFHhV3CaCsB8pbUAXDnq_yZ5EHDMs7fZSasunmYDqTDzmmTiSj_ma61apVErLg1wMTGvNDu9EmQIBnadMeIWZafnQy0tqM-cMP1uDb0NWjJA0YzC3K0TycVEPYCN9fOyAUyGxl8vGRDwsm1KcV-HxGU9DUtQrD_ioAwzxEVtp3SDdE_XTjPyHO6fv-ExJda-WXL37vyVlAtcq-O7Z5MQVUB6-9GAJqu5T87yYGnXh2B-6tY-ZSKdG60xo5rjGPm8AQzTxrl6pz76BHwnJvPILGbo4phZc5Uhpv12Y1lOC6EaCCX0TrT8VHHDpCJDFYF1EshbXUkzb8WYpOrQyBdwzCCgMstKC6MEMhimAJiAqLjXChXJvBJuikbmpV0MQ-gPgo8xLStBzCEAfO-QSQxSIfjoL8yAvELdir7niWaYGLXc_DZEMqtkIC2lGmEATmsNHRosCCwVe3_Wykon9Qik_z00BCLSz7IrdEfCicsSVKKvqEIjqYLSi3_y7W7aZdegnz4OJPSmodpP-X8pgu3m_lm3t8MfuXDaMNFmlfCrt2UjHSmmtA1AL7GMAOZep46c8d-faeC_sg0KTcmWVmDbvh9AzZldlp8rpCLSy22iBek=",
   "salt": "glbKPTPCoxOrZtzDiScs9g==",
-  "text": "Aillén Trechenn was a triple-headed monster of Irish myth. He attacked Ireland's great capital, Tara, and the regional capital of Emain Macha in Ulster. Writers describe him sometimes as male and sometimes as female. The monster lived in the cave called Oweynagat at the Connacht capital of Cruachan. The poet Amairgin finally dispatched the monster and freed Tara from its grip. Because the usual resident of Oweynagat is the Mórrígan, this figure may be connected with her. The difference between this murderous monster and Aillén mac Midgna is hard to tell.",
+  "text": "Aillén Trechenn was a monster with three heads in Irish lore. His name uses the Irish word trechend, which means three-headed. Each year he came out of a cave or mound at Cruachain in County Roscommon. He moved on the eve of Samain, the festival known as Halloween. His coming brought ruin over Ireland. He saved his worst anger for the royal sites of Tara and Emain Macha. The poet Amairgin finally slew the beast. Some writers call the creature male and others female. The cave stood under the Hill of Cruachain, home to the war goddess the Morrigan. For that reason the beast may be tied to her. His work of ruin is hard to separate from that of the other Aillén, who burned Tara.",
   "okr": {
-    "objective": "Record Aillén Trechenn, the triple-headed monster.",
+    "objective": "Record Aillén Trechenn, the three-headed monster.",
     "key_results": [
-      "Show its attacks on Tara and Emain Macha and its defeat by Amairgin."
+      "Show its raids on the eve of Samain and its death at the hand of Amairgin."
     ],
-    "evidence": "Monaghan 2003, s.v. Aillén (Ellen, Aillene)"
+    "evidence": "Mackillop 2008, s.v. 'Aillén Trechenn'"
   }
 }

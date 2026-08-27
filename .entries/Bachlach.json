@@ -1,0 +1,44 @@
+{
+  "name": "Bachlach",
+  "fname": "Bachlach.json",
+  "text": "Bachlach is an Irish word for a rough or lowly man, a servant, or a worker on the land. English readers often meet it as churl. In the stories the word marks the strong man who stands before the heroes and sets them a test. He braves the warriors of Ulster in the hall with a hard asking of their heads.",
+  "entities": [
+    {
+      "entity": "Bachlach",
+      "type": "Character"
+    },
+    {
+      "entity": "Ulster",
+      "type": "Place"
+    },
+    {
+      "entity": "Crabruad",
+      "type": "Character"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Bachlach",
+      "attribute": "Irish word for churl or servant"
+    },
+    {
+      "entity": "Bachlach",
+      "attribute": "the strong man who tests the Ulster heroes"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Bachlach'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Record the Irish word bachlach and its bearer.",
+    "key_results": [
+      "Give the meaning of the word.",
+      "Name the man who checks the heroes.",
+      "Set the test in Ulster."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Bachlach'"
+  }
+}

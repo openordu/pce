@@ -2,98 +2,102 @@
 layout: layouts/pce.njk
 title: Amairgin
 icon: file-lines
-order: 105
+order: 0
 contributors: [ 'Christopher Godwin' ]
 attributes:
-  - Amairgin most famous poem
-  - Amairgin Shape-Shifting into a Salmon, a sunbeam, a flower, a spear
-  - Tuan Mac Cairill similar poems
-  - Taliesin connection in the Celtic mind between magical transformation and poetry
-  - Milesians traveled through Ireland
-  - goddesses of the land encountered by Milesians
-  - Fódla demanded that they name the island after her
-  - Banba demanded that they name the island after her
-  - Amairgin decision to call it after Ériu
+  - Amairgin one of two poets of Ireland
+  - Amairgin son of Míl, first poet
+  - Amairgin stilled the Tuatha storm
+  - Amairgin sang the sea of transformation
+  - Amairgin warrior of the last battle
+  - Amairgin first known as Amairgin Glúnmar, meaning big-kneed
+  - Amairgin son of Mil Espaine and a poet of the Milesians
+  - Amairgin asked that Ireland be named for Eriu
+  - Amairgin divided the island between the Tuatha De Danann and the sons of Mil
+  - Amairgin split the island along the Eiscir Riada
+  - Amairgin could calm the wind and sang a poem on reaching Ireland
+  - Amairgin second Amairgin was a warrior of the Ulster Cycle
+  - Amairgin slew Aillen Trechend, the triple-headed monster
 categories:
-  - culture
-  - animal
-  - Irish poet
-  - weapon
-  - place
-  - mythical beings
-  - people
-  - natural phenomenon
-  - plant
-  - poet
-  - poem
-  - goddess
+  - Person
+  - Artifact
+  - Group
+  - Place
 entities:
-  - Amairgin(Irish poet)
-  - Song of Amairgin(poem)
-  - Salmon(animal)
-  - sunbeam(natural phenomenon)
-  - flower(plant)
-  - spear(weapon)
-  - Tuan Mac Cairill(Irish poet)
-  - Welsh bard Taliesin(poet)
-  - Celtic(culture)
-  - Milesians(people)
-  - Ireland(place)
-  - goddesses of the land(mythical beings)
-  - Fódla(goddess)
-  - Banba(goddess)
-  - Ériu(place)
+  - Amairgin(Person)
+  - Míl(Person)
+  - Tuatha(Person)
+  - Cúchulainn(Person)
+  - Ériu(Person)
+  - Ulster(Place)
+  - Aithirne(Person)
+  - Táin Bó Cuailnge(Artifact)
+  - Eriu(Person)
+  - Banba(Person)
+  - Fodla(Person)
+  - Mil Espaine(Person)
+  - Eremon(Person)
+  - Eber Finn(Person)
+  - Milesians(Group)
+  - Taliesin(Person)
 tags:
   - Amairgin
-  - Song of Amairgin
-  - Salmon
-  - sunbeam
-  - flower
-  - spear
-  - Tuan Mac Cairill
-  - Welsh bard Taliesin
-  - Celtic
-  - Milesians
-  - Ireland
-  - goddesses of the land
-  - Fódla
-  - Banba
+  - Míl
+  - Tuatha
+  - Cúchulainn
   - Ériu
+  - Ulster
+  - Aithirne
+  - Táin Bó Cuailnge
+  - Eriu
+  - Banba
+  - Fodla
+  - Mil Espaine
+  - Eremon
+  - Eber Finn
+  - Milesians
+  - Taliesin
 ---
 ``` tab [group1:Info]
 ::: magazinestyle
-A legendary figure in Irish mythology, Amairgin (also known as Amargen, Amhairghin, Amairgein, or Amorgin) was a hero and a renowned poet. The name Amairgin translates to “wondrously born” or “song-conception” and is shared by two poets of folklore. Amairgin, the son of Míl, is considered the first great poet of Ireland and was believed to have existed in the sixth century C.E. According to legend, as the Milesians attempted to invade Ireland, the Tuatha Dé Danann summoned a storm to prevent them from landing. With his enchanting words, Amairgin managed to soothe the tempest, becoming the first of his race to step onto Irish soil. He then recited the “Song of Amairgin,” his most famous poem, where he depicts himself transforming into various objects such as a salmon, a spear, a flower, and a sunbeam. Other Celtic poets, such as Tuan Mac Cairill and Taliesin, also wrote similar pieces emphasizing the connection between magical transformation and poetry. While leading the Milesians through Ireland, they encountered three goddesses of the land, each of whom demanded their new home be named after her. Eventually, Amairgin decided that the island would be named Ériu. As chief poet of the Milesians, Amairgin held immense power as both a judge and seer, and his choice became final. Another historical figure with the name Amairgin hails from Ulster and was married to Findchóem, the sister of king Concobar Mac Nessa. This Amairgin saved Tara by eliminating the destructive monster Aillén Trechenn, who raided the city periodically. He also served as the foster father of Cúchulainn, who later became foster brothers with Amairgin’s son, Conall Cernach. Aithirne, a bitter poet, once paid a visit to Amairgin. However, Amairgin's words were too elusive, leaving Aithirne with no solid ground to launch an attack on him. Besides being a poet, Amairgin was also a warrior. His might was demonstrated in the epic Táin Bó Cuailnge, where his power was so great that corpses amassed around him.
+Early Ireland uses the name Amairgin for more than one figure. The name has many spellings. Amairgein, Amargein, and Amergin all occur. Myth, saga, and old family lines all use it. The two best-known bearers were poets. Amairgin the first is also called Amairgin Glúnmar. The title means big-kneed. He was the son of Mil Espáine. He stands as a poet of the Milesians. Many gave him the name of Ireland's earliest poet. When the Milesians came to the isle they met its three rulers. Eriu, Banba, and Fodla stood as the divine eponyms of Ireland. Amairgin answered the plea of Eriu. He asked that the island take Eriu's name. He had the isle cut into two parts. He gave the underground to the Tuatha De Danann. He kept the ground above for the line of Mil. He then split the island along the ridge of Eiscir Riada. The north went to Eremon. The south went to Eber Finn. He could calm the wind at his will. A poem set his foot on Irish ground at once. In it he named himself the wind and the wave. He called himself a bull and a spear. That verse gave him a place as a lyric poet. Some scholars think Welsh singers borrowed him for their own Taliesin. His wife Scene died before the milesians reached Ireland. The Kenmare River keeps her name as Inber Scene. The second Amairgin was a warrior of the Ulster Cycle. He was the father of Conall Cernach. He helped raise Cuchulainn in his youth. He slew the triple-headed monster Aillen Trechend. He spoke with Aithirne, his foster father, about the seasons of song. He ruled autumn too cold for a farewell. He found each season fit for verse. Both poets show the power of the word in early Ireland. Amairgin the name binds the singer to the land and to the war.
 
 :::
 ```
 ``` tab [group1:Attributes]
-- **Amairgin**: most famous poem
-- **Amairgin**: Shape-Shifting into a Salmon, a sunbeam, a flower, a spear
-- **Tuan Mac Cairill**: similar poems
-- **Taliesin**: connection in the Celtic mind between magical transformation and poetry
-- **Milesians**: traveled through Ireland
-- **goddesses of the land**: encountered by Milesians
-- **Fódla**: demanded that they name the island after her
-- **Banba**: demanded that they name the island after her
-- **Amairgin**: decision to call it after Ériu
+- **Amairgin**: one of two poets of Ireland
+- **Amairgin**: son of Míl, first poet
+- **Amairgin**: stilled the Tuatha storm
+- **Amairgin**: sang the sea of transformation
+- **Amairgin**: warrior of the last battle
+- **Amairgin**: first known as Amairgin Glúnmar, meaning big-kneed
+- **Amairgin**: son of Mil Espaine and a poet of the Milesians
+- **Amairgin**: asked that Ireland be named for Eriu
+- **Amairgin**: divided the island between the Tuatha De Danann and the sons of Mil
+- **Amairgin**: split the island along the Eiscir Riada
+- **Amairgin**: could calm the wind and sang a poem on reaching Ireland
+- **Amairgin**: second Amairgin was a warrior of the Ulster Cycle
+- **Amairgin**: slew Aillen Trechend, the triple-headed monster
 ```
 ``` tab [group1:Entities]
-- **Amairgin**: Irish poet
-- **Song of Amairgin**: poem
-- **Salmon**: animal
-- **sunbeam**: natural phenomenon
-- **flower**: plant
-- **spear**: weapon
-- **Tuan Mac Cairill**: Irish poet
-- **Welsh bard Taliesin**: poet
-- **Celtic**: culture
-- **Milesians**: people
-- **Ireland**: place
-- **goddesses of the land**: mythical beings
-- **Fódla**: goddess
-- **Banba**: goddess
-- **Ériu**: place
+- **Amairgin**: Person
+- **Míl**: Person
+- **Tuatha**: Person
+- **Cúchulainn**: Person
+- **Ériu**: Person
+- **Ulster**: Place
+- **Aithirne**: Person
+- **Táin Bó Cuailnge**: Artifact
+- **Eriu**: Person
+- **Banba**: Person
+- **Fodla**: Person
+- **Mil Espaine**: Person
+- **Eremon**: Person
+- **Eber Finn**: Person
+- **Milesians**: Group
+- **Taliesin**: Person
 ```
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
+- MacKillop 2008, s.v. Amairgin
 ```
