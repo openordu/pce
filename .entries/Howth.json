@@ -1,0 +1,51 @@
+{
+  "name": "Howth",
+  "text": "Howth is a peninsula that runs into the Irish Sea nine miles north-east of Dublin. The name comes from an Old Norse word for headland. Early Irish stories set many deeds upon this shore. Howth also names a nineteenth-century fishing village and a modern suburb. In the oldest texts the place is often called Benn Étair, the Old Irish title for the Hill of Howth, which rises 560 feet. King Crimthann Nia Náir raised one of his two strongholds, Dún Crimthainn, here. The fabled King Sitric built the first church on the spot in about 1042. Howth Castle, begun in 1564 and remodelled many times, carries many legends. The best known tells how Granuaile, refused entry at dinner, vowed that the gates would always stand open for the hungry traveller. James Joyce made Howth Castle one shape of HCE in Finnegans Wake.",
+  "entities": [
+    {
+      "entity": "Benn Étair",
+      "type": "Place"
+    },
+    {
+      "entity": "Crimthann Nia Náir",
+      "type": "Person"
+    },
+    {
+      "entity": "Granuaile",
+      "type": "Person"
+    },
+    {
+      "entity": "Dublin",
+      "type": "Place"
+    },
+    {
+      "entity": "Finnegans Wake",
+      "type": "Work"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Howth",
+      "attribute": "peninsula north-east of Dublin"
+    },
+    {
+      "entity": "Howth",
+      "attribute": "site of Dún Crimthainn"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Howth'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Record Howth.",
+    "key_results": [
+      "Place the peninsula near Dublin.",
+      "Name the Old Irish form Benn Étair.",
+      "Tell of the castle and its legends."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Howth'"
+  }
+}
