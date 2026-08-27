@@ -2,64 +2,64 @@
 layout: layouts/pce.njk
 title: Blodeuwedd
 icon: file-lines
-order: 262
+order: 281
 contributors: [ 'Christopher Godwin' ]
 attributes:
-  - woman treacherous
-  - ancient goddess of death shadow
-  - queen ritual marriage
-  - king sacrifice
+  - Blodeuwedd Welsh goddess whose name means flower face
+  - Arianrhod cursed Lleu Llaw Gyffes to have no wife of any race
+  - Gwydion made Blodeuwedd from oak, broom, and meadowsweet with Math
+  - Gronw Pebyr hunter who loved Blodeuwedd and slew Lleu
+  - Gwydion punished Blodeuwedd by turning her into an owl
+  - Mabinogion tells her tale in the fourth branch called Math
 categories:
-  - ritual
-  - animal
-  - crime
-  - person
-  - mythological figure
-  - royalty
+  - Title
+  - Person
+  - Being
+  - Deity
 entities:
-  - murder(crime)
-  - Owl(animal)
-  - woman(person)
-  - ancient goddess of death(mythological figure)
-  - Robert Graves(person)
-  - queen(royalty)
-  - king(royalty)
-  - sacrifice(ritual)
+  - Blodeuwedd(Deity)
+  - Gwydion(Person)
+  - Math(Person)
+  - Lleu Llaw Gyffes(Deity)
+  - Gronw Pebyr(Person)
+  - Arianrhod(Being)
+  - Mabinogion(Title)
 tags:
-  - murder
-  - Owl
-  - woman
-  - ancient goddess of death
-  - Robert Graves
-  - queen
-  - king
-  - sacrifice
+  - Blodeuwedd
+  - Gwydion
+  - Math
+  - Lleu Llaw Gyffes
+  - Gronw Pebyr
+  - Arianrhod
+  - Mabinogion
 ---
 ``` tab [group1:Info]
 ::: magazinestyle
-Blodeuwedd, also known as Bloduwith or Blodeuedd, was a Welsh goddess. The story goes that her presumably virgin sister, Arianrhod, was duped into giving birth to a son of questionable lineage whom she cursed to never have a name, weapons or a wife. However, Arianrhod's brother Gwydion tricked her into providing the first two items for the newly-named Lleu Llaw Gyffes. Gwydion then sought the help of his magician uncle Math to create a wife for Lleu, who may have been Gwydion's own son. In the Welsh Mabinogion, which contains tales of Welsh mythology, it is told how the two magicians fashioned Blodeuwedd, whose name means "flower-face," from nine varieties of wildflowers like oak, meadowsweet, broom, primrose, and cockle. But Blodeuwedd, a being of no earthly race, grew dissatisfied with her existence as Lleu's wife and fell in love with a handsome hunter Gronw Pebyr, whom she convinced to kill Lleu. Knowing that Lleu could only be killed while bathing by a river under a thatched roof, standing with one foot on a deer, she challenged Lleu to pose in this unlikely manner, and her lover then easily slew him. As punishment for her involvement in the murder, she was transformed into an Owl by her creators. There are those who argue that this seemingly treacherous woman represents the shadow of an ancient goddess of death, while Robert Graves sees her as an ancient queen whose marriage to the king lasted only a year before his sacrifice.
+Blodeuwedd rises in Math's fourth Mabinogi branch. Arianrhod cursed Lleu Llaw Gyffes. He would have no wife of any race. Gwydion and Math built her from oak, broom, and meadowsweet blooms. Her name means Flower Face. Blodeuwedd loved the hunter Gronw Pebyr. The pair plotted to kill Lleu. He stayed invulnerable, so they tricked him into exposure. Gronw slew him. Gwydion punished Blodeuwedd by turning her into an owl.
 
 :::
 ```
 ``` tab [group1:Attributes]
-- **woman**: treacherous
-- **ancient goddess of death**: shadow
-- **queen**: ritual marriage
-- **king**: sacrifice
+- **Blodeuwedd**: Welsh goddess whose name means flower face
+- **Arianrhod**: cursed Lleu Llaw Gyffes to have no wife of any race
+- **Gwydion**: made Blodeuwedd from oak, broom, and meadowsweet with Math
+- **Gronw Pebyr**: hunter who loved Blodeuwedd and slew Lleu
+- **Gwydion**: punished Blodeuwedd by turning her into an owl
+- **Mabinogion**: tells her tale in the fourth branch called Math
 ```
 ``` tab [group1:Entities]
-- **murder**: crime
-- **Owl**: animal
-- **woman**: person
-- **ancient goddess of death**: mythological figure
-- **Robert Graves**: person
-- **queen**: royalty
-- **king**: royalty
-- **sacrifice**: ritual
+- **Blodeuwedd**: Deity
+- **Gwydion**: Person
+- **Math**: Person
+- **Lleu Llaw Gyffes**: Deity
+- **Gronw Pebyr**: Person
+- **Arianrhod**: Being
+- **Mabinogion**: Title
 ```
 ``` tab [group1:Sources]
 - Gantz, Jeffrey, trans. *The Mabinogion.* New York: Barnes & Noble Books, 1976, pp. 111–116;
 - Graves, Robert. The White Goddess: A Historical Grammar of Poetic Myth. New York: Farrar, Strauss and Giroux, 1948. Pp. 308-316.
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
+- MacKillop 2008, s.v. Blodeuedd.
 ```
 ![Blodeuwedd Image](https://upload.wikimedia.org/wikipedia/en/e/e5/Blodeuwedd_-_Christopher_Williams.jpg)

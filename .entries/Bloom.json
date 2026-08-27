@@ -1,0 +1,33 @@
+{
+ "name": "Bloom",
+ "image": [],
+ "cyphertext": "",
+ "salt": "",
+ "text": "Bloom is the shorter name of a height in Ireland. It points to the headword Bladma. The range is known today as the Slieve Bloom hills. That entry holds the fuller lore.",
+ "entities": [
+  {
+   "entity": "Bloom",
+   "type": "Place"
+  },
+  {
+   "entity": "Person",
+   "type": "Bloom"
+  }
+ ],
+ "attributes": [
+  {
+   "entity": "Bloom",
+   "attribute": "Bladma"
+  }
+ ],
+ "okr": {
+  "objective": "Resolve Bloom to its central entry.",
+  "key_results": [
+   "Bloom links to Person."
+  ],
+  "evidence": "MacKillop 2008, s.v. Bloom."
+ },
+ "sources": [
+  "MacKillop 2008, s.v. Bloom."
+ ]
+}
