@@ -1,0 +1,51 @@
+{
+  "name": "Blaí Briugu",
+  "text": "Blaí Briugu is an Ulster warrior in early Irish legend. His name carries the sense of a hospitaller, one who gives generous welcome. He wins renown for great hospitality. The hero serves as a fosterer of Cúchulainn. He promises that the child would meet neither contempt nor neglect in his care. Blaí Briugu likes to sleep with many women. The warrior Celtchair kills him for that habit.",
+  "entities": [
+    {
+      "entity": "Blaí Briugu",
+      "type": "Person"
+    },
+    {
+      "entity": "Cúchulainn",
+      "type": "Person"
+    },
+    {
+      "entity": "Celtchair",
+      "type": "Person"
+    },
+    {
+      "entity": "Ulster",
+      "type": "Place"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Blaí Briugu",
+      "attribute": "an Ulster warrior renowned for hospitality"
+    },
+    {
+      "entity": "Blaí Briugu",
+      "attribute": "served as a fosterer of Cúchulainn"
+    },
+    {
+      "entity": "Celtchair",
+      "attribute": "killed Blaí Briugu for his many loves"
+    }
+  ],
+  "okr": {
+    "objective": "Present Blaí Briugu, the hospitable Ulster warrior who fostered Cúchulainn.",
+    "key_results": [
+      "Blaí Briugu is an Ulster warrior famed for hospitality.",
+      "He fostered the hero Cúchulainn.",
+      "The warrior Celtchair killed him for his habit of sleeping with many women."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Blaí Briugu'."
+  },
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "sources": [
+    "MacKillop 2008, s.v. 'Blaí Briugu'."
+  ]
+}

@@ -1,63 +1,73 @@
 {
- "name": "Blaí",
- "entities": [
-  {
-   "entity": "Blaí",
-   "type": "Person"
-  },
-  {
-   "entity": "Oisín",
-   "type": "Person"
-  },
-  {
-   "entity": "Fianna",
-   "type": "Group"
-  },
-  {
-   "entity": "Fionn Mac Cumhaill",
-   "type": "Person"
-  },
-  {
-   "entity": "Sadb",
-   "type": "Person"
-  }
- ],
- "sources": [
-  "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
- ],
- "attributes": [
-  {
-   "entity": "Blaí",
-   "attribute": "mother of Oisín"
-  },
-  {
-   "entity": "Blaí",
-   "attribute": "turned into a deer by a magical enemy"
-  },
-  {
-   "entity": "Oisín",
-   "attribute": "the poet of the band called the Fianna"
-  },
-  {
-   "entity": "Fionn Mac Cumhaill",
-   "attribute": "father of Oisín"
-  },
-  {
-   "entity": "Blaí",
-   "attribute": "often given the name Sadb"
-  }
- ],
- "cyphertext": "zfWGL6C0AOM1dblfuk9dZo12Y-CV3MwKaqvAIm-RH49gRXiHvJqRAMuBy-PEHQxCvfZ8uvYTDgLuXJGn6TKmOGTZE4cygsx7EMrzWvcw9t_gwBGAyciZuMRRE8g6FRV6-h02B-AGxxyZDA1YTsdqJrU2O_PGuP1sOp3kpZ5vsewu7pUmijGxkz65itQbQiOIesyQdbAXZvntJdpxth-aVHazfA8iVwv4Cqz9TtrO5EmueP0l4aOHthAo4kvVor1PtwUAXfaTZOfOZQ4aDSlLp7MD7Tt5LGSEV2J4MVR-q_Rppg_XH4cOFpxc0cF5G2OleTrn-Gyb6Mf_G40CYtQcAvhysJ7yTV9lw9AL2sZWHy89jnZJl9TRfd1K1Kp2OWgLF4diZMqiqSJMrch_hs70tPBqULMJy2UVEwZbexc4qQV2z4PBCBRaLELd5DxRlhAAQwmBeUuguCUDG77LMhrES9XY3Y55yq98vqwobc8tAx5mpv5bsLuWiAilsA1LXYo6qFbxdS4ng8Z3OUd2BFzywOQXTUFoXB7akpn6uVWqWwUfPC6QcuVY87gEnEEIhrfGDAJQgS3fZF-mSxODKEilz4JkLJcysd2EgEFeL2AawiTwweYa302oGE2OWVTqJxPV",
- "salt": "zQJfolDOlpOsUk3R1d6ERw==",
- "text": "Blaí is an Irish heroine. She is the mother of Oisín, the poet of the band called the Fianna. A magical enemy turned her into a deer. She bore her son while in that deer shape. Fionn Mac Cumhaill fathered the boy. Her son entered life in human shape. Blaí was warned not to touch him. She still stroked him with her tongue. A small furry patch stayed on his brow. The heroine often carries the name Sadb.",
- "okr": {
-  "objective": "Describe Blaí, the mother of the Fianna poet Oisín who bore him in deer form.",
-  "key_results": [
-   "Blaí was the mother of Oisín, the poet of the Fianna.",
-   "A magical enemy turned Blaí into a deer.",
-   "Fionn Mac Cumhaill fathered her son Oisín.",
-   "Writers often call the heroine Sadb."
+  "name": "Blaí",
+  "entities": [
+    {
+      "entity": "Blaí",
+      "type": "Person"
+    },
+    {
+      "entity": "Oisín",
+      "type": "Person"
+    },
+    {
+      "entity": "Fianna",
+      "type": "Group"
+    },
+    {
+      "entity": "Fionn Mac Cumhaill",
+      "type": "Person"
+    },
+    {
+      "entity": "Sadb",
+      "type": "Person"
+    },
+    {
+      "entity": "Blaí Briugu",
+      "type": "Person"
+    }
   ],
-  "evidence": "Monaghan 2008, s.v. 'Blaí'."
- }
+  "sources": [
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.",
+    "MacKillop 2008, s.v. 'Blaí'."
+  ],
+  "attributes": [
+    {
+      "entity": "Blaí",
+      "attribute": "mother of Oisín"
+    },
+    {
+      "entity": "Blaí",
+      "attribute": "turned into a deer by a magical enemy"
+    },
+    {
+      "entity": "Oisín",
+      "attribute": "the poet of the band called the Fianna"
+    },
+    {
+      "entity": "Fionn Mac Cumhaill",
+      "attribute": "father of Oisín"
+    },
+    {
+      "entity": "Blaí",
+      "attribute": "often given the name Sadb"
+    },
+    {
+      "entity": "Blaí",
+      "attribute": "a name that MacKillop also applies to a separate Ulster hospitaller figure"
+    }
+  ],
+  "cyphertext": "zfWGL6C0AOM1dblfuk9dZo12Y-CV3MwKaqvAIm-RH49gRXiHvJqRAMuBy-PEHQxCvfZ8uvYTDgLuXJGn6TKmOGTZE4cygsx7EMrzWvcw9t_gwBGAyciZuMRRE8g6FRV6-h02B-AGxxyZDA1YTsdqJrU2O_PGuP1sOp3kpZ5vsewu7pUmijGxkz65itQbQiOIesyQdbAXZvntJdpxth-aVHazfA8iVwv4Cqz9TtrO5EmueP0l4aOHthAo4kvVor1PtwUAXfaTZOfOZQ4aDSlLp7MD7Tt5LGSEV2J4MVR-q_Rppg_XH4cOFpxc0cF5G2OleTrn-Gyb6Mf_G40CYtQcAvhysJ7yTV9lw9AL2sZWHy89jnZJl9TRfd1K1Kp2OWgLF4diZMqiqSJMrch_hs70tPBqULMJy2UVEwZbexc4qQV2z4PBCBRaLELd5DxRlhAAQwmBeUuguCUDG77LMhrES9XY3Y55yq98vqwobc8tAx5mpv5bsLuWiAilsA1LXYo6qFbxdS4ng8Z3OUd2BFzywOQXTUFoXB7akpn6uVWqWwUfPC6QcuVY87gEnEEIhrfGDAJQgS3fZF-mSxODKEilz4JkLJcysd2EgEFeL2AawiTwweYa302oGE2OWVTqJxPV",
+  "salt": "zQJfolDOlpOsUk3R1d6ERw==",
+  "text": "Blaí is an Irish heroine. She is the mother of Oisín, the poet of the band called the Fianna. A magical enemy turned her into a deer. She bore her son while in that deer shape. Fionn Mac Cumhaill fathered the boy. Her son entered life in human shape. Blaí was warned not to touch him. She still stroked him with her tongue. A small furry patch stayed on his brow. The heroine often carries the name Sadb. MacKillop notes that the same name Blaí also belongs to a separate figure, the Ulster hospitaller Blaí Briugu.",
+  "okr": {
+    "objective": "Describe Blaí, the mother of the Fianna poet Oisín who bore him in deer form.",
+    "key_results": [
+      "Blaí was the mother of Oisín, the poet of the Fianna.",
+      "A magical enemy turned Blaí into a deer.",
+      "Fionn Mac Cumhaill fathered her son Oisín.",
+      "Writers often call the heroine Sadb.",
+      "MacKillop records the name Blaí for a separate Ulster figure, Blaí Briugu."
+    ],
+    "evidence": "Monaghan 2008, s.v. 'Blaí'; MacKillop 2008, s.v. 'Blaí'."
+  }
 }

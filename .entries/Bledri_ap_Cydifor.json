@@ -1,0 +1,47 @@
+{
+  "name": "Bledri ap Cydifor",
+  "text": "Bledri ap Cydifor is the one named storyteller of medieval Welsh tradition. He is also known as Bledericus Walensis and as Bleherus. In Welsh a storyteller is called a cyfarwydd. Bledri ap Cydifor stands apart because the other cyfarwyddiaid are anonymous. He belongs to the tradition that produced the Mabinogi.",
+  "entities": [
+    {
+      "entity": "Bledri ap Cydifor",
+      "type": "Person"
+    },
+    {
+      "entity": "Bleherus",
+      "type": "Person"
+    },
+    {
+      "entity": "cyfarwydd",
+      "type": "Group"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Bledri ap Cydifor",
+      "attribute": "the one named storyteller of medieval Welsh tradition"
+    },
+    {
+      "entity": "Bledri ap Cydifor",
+      "attribute": "also known as Bledericus Walensis and Bleherus"
+    },
+    {
+      "entity": "cyfarwydd",
+      "attribute": "the Welsh name for a storyteller"
+    }
+  ],
+  "okr": {
+    "objective": "Present Bledri ap Cydifor, the only named storyteller of medieval Welsh tradition.",
+    "key_results": [
+      "Bledri ap Cydifor is the one named Welsh storyteller.",
+      "He is also known as Bledericus Walensis and Bleherus.",
+      "In Welsh a storyteller is called a cyfarwydd."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Bledri ap Cydifor'."
+  },
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "sources": [
+    "MacKillop 2008, s.v. 'Bledri ap Cydifor'."
+  ]
+}

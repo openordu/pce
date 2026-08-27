@@ -2,47 +2,56 @@
 layout: layouts/pce.njk
 title: Blaí
 icon: file-lines
-order: 256
+order: 278
 contributors: [ 'Christopher Godwin' ]
 attributes:
-  - Oisín small furry patch on forehead
-  - Blaí turned into a deer
+  - Blaí mother of Oisín
+  - Blaí turned into a deer by a magical enemy
+  - Oisín the poet of the band called the Fianna
+  - Fionn Mac Cumhaill father of Oisín
+  - Blaí often given the name Sadb
+  - Blaí a name that MacKillop also applies to a separate Ulster hospitaller figure
 categories:
-  - Irish heroine
-  - name
-  - father
-  - band of heroes
-  - poet
+  - Person
+  - Group
 entities:
-  - Blaí(Irish heroine)
-  - Oisín(poet)
-  - Fianna(band of heroes)
-  - Fionn Mac Cumhaill(father)
-  - Sadb(name)
+  - Blaí(Person)
+  - Oisín(Person)
+  - Fianna(Group)
+  - Fionn Mac Cumhaill(Person)
+  - Sadb(Person)
+  - Blaí Briugu(Person)
 tags:
   - Blaí
   - Oisín
   - Fianna
   - Fionn Mac Cumhaill
   - Sadb
+  - Blaí Briugu
 ---
 ``` tab [group1:Info]
 ::: magazinestyle
-Irish mythology features Blaí as a significant figure, a heroine who bore Oisín. Oisín was one of the poets among the renowned band of heroes called the Fianna. Sadly, Blaí was transformed into a deer during a magical attack by an enemy, but as a deer, she conceived her son by Fionn Mac Cumhaill. At the time of Oisín's birth, Blaí received a warning not to touch him, but her love was too strong, and she gently stroked him with her tongue, leaving a small furry patch permanently on his forehead. It is worth mentioning that sometimes, this heroic figure is referred to as Sadb.
+Blaí is an Irish heroine. She is the mother of Oisín, the poet of the band called the Fianna. A magical enemy turned her into a deer. She bore her son while in that deer shape. Fionn Mac Cumhaill fathered the boy. Her son entered life in human shape. Blaí was warned not to touch him. She still stroked him with her tongue. A small furry patch stayed on his brow. The heroine often carries the name Sadb. MacKillop notes that the same name Blaí also belongs to a separate figure, the Ulster hospitaller Blaí Briugu.
 
 :::
 ```
 ``` tab [group1:Attributes]
-- **Oisín**: small furry patch on forehead
-- **Blaí**: turned into a deer
+- **Blaí**: mother of Oisín
+- **Blaí**: turned into a deer by a magical enemy
+- **Oisín**: the poet of the band called the Fianna
+- **Fionn Mac Cumhaill**: father of Oisín
+- **Blaí**: often given the name Sadb
+- **Blaí**: a name that MacKillop also applies to a separate Ulster hospitaller figure
 ```
 ``` tab [group1:Entities]
-- **Blaí**: Irish heroine
-- **Oisín**: poet
-- **Fianna**: band of heroes
-- **Fionn Mac Cumhaill**: father
-- **Sadb**: name
+- **Blaí**: Person
+- **Oisín**: Person
+- **Fianna**: Group
+- **Fionn Mac Cumhaill**: Person
+- **Sadb**: Person
+- **Blaí Briugu**: Person
 ```
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
+- MacKillop 2008, s.v. 'Blaí'.
 ```

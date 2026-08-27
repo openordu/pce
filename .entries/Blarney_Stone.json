@@ -1,58 +1,94 @@
 {
- "name": "Blarney Stone",
- "attributes": [
-  {
-   "entity": "Blarney Stone",
-   "attribute": "an Irish folkloric site in Blarney Castle"
-  },
-  {
-   "entity": "Blarney Castle",
-   "attribute": "dates from the fifteenth century"
-  },
-  {
-   "entity": "Blarney Castle",
-   "attribute": "stands in County Cork"
-  },
-  {
-   "entity": "Blarney Stone",
-   "attribute": "conveys eloquence upon those who kiss it"
-  },
-  {
-   "entity": "Blarney Stone",
-   "attribute": "offers eloquence without the requirement of honesty"
-  }
- ],
- "entities": [
-  {
-   "entity": "Blarney Stone",
-   "type": "Place"
-  },
-  {
-   "entity": "Blarney Castle",
-   "type": "Place"
-  },
-  {
-   "entity": "County Cork",
-   "type": "Place"
-  }
- ],
- "sources": [
-  "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
- ],
- "image": [
-  "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/The_Blarney_Stone.jpg/1200px-The_Blarney_Stone.jpg"
- ],
- "cyphertext": "0Y3OnZEzv3CnL7_Z0XOVKzAQxtDkABz8BiHUQ3sFwkPdwlGvDQ_WRDcOGT0wC5zcLkjiRMmGOPnKbMpWIj3W9aujF9Ls9odGPj807w4B97YPALuLKRK8wSmepDSIoVRpoMcYO7xUY04GeHQytc_ise4kz1DY6axzVAtRJYF7N_r3HAmXe1SO51O8kKfAzoveyllxSk-JFehn9rUMuDJKdgnBJ5nmwjVMBr5Vf-xHaAIaFmUiLXlOK0oGYZRXlYQz8DJuej_i1PMGvYNkAIJopEZr0_PHAKBuncnRiUtqFHcloj3Gtx62glCXNX-96SiP-0JYA4Rj2Q0rPPrARDYwmHABViQC3hkq6kRwnQtdnKlqA-XeOMVgY5WvnFpuzmCtTGeGkp6eeswykOqtBH6GqTChLnqqy4r8sVroG-Nd_602xlF0qWi2NSNsDnwJpNHrZbfRHylLbTHEG6iEYwySSKaZmEtXXBNqF1ZrJNnHthGpkwfOxwLOJvfn9gAWc5mV7KTZItHQbjzDrisjFgq9Fo4uJ7o2SG0bOnCtKreT227fChRYMy25Tf7LD8PCW2feQbWdT1RcUQ6mZMdE7lSZbGZQZ2fsQgdBm4QnYMnh-afX1Gipg2UkbJ9yMv7iKM14dbBkzZvPubYKZgV7F2IUWeXM2IebQrj1oNXXX8UiyERNtJX7w_jlgqBt3n1zJNOh7IAldndR8fmfzFFndrTePFeDmd8t_UXWB_jLTjOPu81S64hp6ctnR5m7ThKZqWKZXNbfA9Rg_On-wut758a51igoa9S2J7Bl0_5hf4qr5NJrbqR5QmWucAf_O5KEemoHsyV_kFYAcgz08BiZYaq-z9mPhsReHjrQJ-SYzXdwO9IvnA5zGYokhrtQIMjc4VXefnHRIwkPkLoqzy6UCppG9oxwr4YSmX5mauR298N0hoVjbUR4DzSc0XAXTLowRTEA66IWpgLASrAHPvaP2ob_31QYfJeOJIc=",
- "salt": "GnYdo8Q61pJ79UX_Lm1uNQ==",
- "text": "The Blarney Stone is an Irish folkloric site. It sits in the fifteenth-century Blarney Castle in County Cork. The stone gives eloquence to any person who kisses it. This gift does not require honesty. People journey to the castle for the sake of that speech.",
- "okr": {
-  "objective": "Describe the Blarney Stone, the Cork relic that grants eloquence to its kissers.",
-  "key_results": [
-   "The Blarney Stone lies in the fifteenth-century Blarney Castle.",
-   "The castle stands in County Cork.",
-   "Kissing the stone conveys eloquence.",
-   "The gift of eloquence comes without honesty."
+  "name": "Blarney Stone",
+  "attributes": [
+    {
+      "entity": "Blarney Stone",
+      "attribute": "an Irish folkloric site in Blarney Castle"
+    },
+    {
+      "entity": "Blarney Castle",
+      "attribute": "dates from the fifteenth century"
+    },
+    {
+      "entity": "Blarney Castle",
+      "attribute": "stands in County Cork"
+    },
+    {
+      "entity": "Blarney Stone",
+      "attribute": "conveys eloquence upon those who kiss it"
+    },
+    {
+      "entity": "Blarney Stone",
+      "attribute": "offers eloquence without the requirement of honesty"
+    },
+    {
+      "entity": "Cormac MacCarthy",
+      "attribute": "built Blarney Castle in the fifteenth century"
+    },
+    {
+      "entity": "Cormac MacCarthy",
+      "attribute": "raised the castle on the foundations of an English keep"
+    },
+    {
+      "entity": "Clidna",
+      "attribute": "a spirit credited with the power of the stone"
+    },
+    {
+      "entity": "Father Prout",
+      "attribute": "helped spread the custom of kissing the stone"
+    },
+    {
+      "entity": "Blarney Stone",
+      "attribute": "placed on the parapet, out of easy reach"
+    }
   ],
-  "evidence": "Monaghan 2008, s.v. 'Blarney Stone'."
- }
+  "entities": [
+    {
+      "entity": "Blarney Stone",
+      "type": "Place"
+    },
+    {
+      "entity": "Blarney Castle",
+      "type": "Place"
+    },
+    {
+      "entity": "County Cork",
+      "type": "Place"
+    },
+    {
+      "entity": "Cormac MacCarthy",
+      "type": "Person"
+    },
+    {
+      "entity": "Clidna",
+      "type": "Being"
+    },
+    {
+      "entity": "Father Prout",
+      "type": "Person"
+    }
+  ],
+  "sources": [
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.",
+    "MacKillop 2008, s.v. 'Blarney Stone'."
+  ],
+  "image": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/The_Blarney_Stone.jpg/1200px-The_Blarney_Stone.jpg"
+  ],
+  "cyphertext": "0Y3OnZEzv3CnL7_Z0XOVKzAQxtDkABz8BiHUQ3sFwkPdwlGvDQ_WRDcOGT0wC5zcLkjiRMmGOPnKbMpWIj3W9aujF9Ls9odGPj807w4B97YPALuLKRK8wSmepDSIoVRpoMcYO7xUY04GeHQytc_ise4kz1DY6axzVAtRJYF7N_r3HAmXe1SO51O8kKfAzoveyllxSk-JFehn9rUMuDJKdgnBJ5nmwjVMBr5Vf-xHaAIaFmUiLXlOK0oGYZRXlYQz8DJuej_i1PMGvYNkAIJopEZr0_PHAKBuncnRiUtqFHcloj3Gtx62glCXNX-96SiP-0JYA4Rj2Q0rPPrARDYwmHABViQC3hkq6kRwnQtdnKlqA-XeOMVgY5WvnFpuzmCtTGeGkp6eeswykOqtBH6GqTChLnqqy4r8sVroG-Nd_602xlF0qWi2NSNsDnwJpNHrZbfRHylLbTHEG6iEYwySSKaZmEtXXBNqF1ZrJNnHthGpkwfOxwLOJvfn9gAWc5mV7KTZItHQbjzDrisjFgq9Fo4uJ7o2SG0bOnCtKreT227fChRYMy25Tf7LD8PCW2feQbWdT1RcUQ6mZMdE7lSZbGZQZ2fsQgdBm4QnYMnh-afX1Gipg2UkbJ9yMv7iKM14dbBkzZvPubYKZgV7F2IUWeXM2IebQrj1oNXXX8UiyERNtJX7w_jlgqBt3n1zJNOh7IAldndR8fmfzFFndrTePFeDmd8t_UXWB_jLTjOPu81S64hp6ctnR5m7ThKZqWKZXNbfA9Rg_On-wut758a51igoa9S2J7Bl0_5hf4qr5NJrbqR5QmWucAf_O5KEemoHsyV_kFYAcgz08BiZYaq-z9mPhsReHjrQJ-SYzXdwO9IvnA5zGYokhrtQIMjc4VXefnHRIwkPkLoqzy6UCppG9oxwr4YSmX5mauR298N0hoVjbUR4DzSc0XAXTLowRTEA66IWpgLASrAHPvaP2ob_31QYfJeOJIc=",
+  "salt": "GnYdo8Q61pJ79UX_Lm1uNQ==",
+  "text": "The Blarney Stone is an Irish folkloric site. It sits in Blarney Castle in County Cork. Cormac MacCarthy raised the castle in the fifteenth century above an earlier English keep. The stone gives eloquence to any person who kisses it. This gift does not require honesty. MacKillop treats the kissing custom as recent. Father Prout helped spread the tradition. One legend credits the spirit Clidna with the stone's power. She revealed its secret to Cormac when a lawsuit threatened him. He placed the stone on the parapet, out of easy reach. People travel to the castle for the sake of that speech.",
+  "okr": {
+    "objective": "Describe the Blarney Stone, the Cork relic that grants eloquence to its kissers.",
+    "key_results": [
+      "The Blarney Stone lies in the fifteenth-century Blarney Castle.",
+      "The castle stands in County Cork.",
+      "Kissing the stone conveys eloquence.",
+      "The gift of eloquence comes without honesty.",
+      "Cormac MacCarthy built the castle in the fifteenth century.",
+      "The kissing custom is recent, in MacKillop's account.",
+      "Legend credits the spirit Clidna with the stone's power."
+    ],
+    "evidence": "Monaghan 2008, s.v. 'Blarney Stone'; MacKillop 2008, s.v. 'Blarney Stone'."
+  }
 }
