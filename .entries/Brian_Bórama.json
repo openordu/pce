@@ -1,0 +1,72 @@
+{
+  "name": "Brian Bórama",
+  "text": "Brian Bórama was the victor of the Battle of Clontarf in the year 1014 and a historical high king of Ireland. His surname comes from Béal Bórama, the Pass of the Tributes, a ring fort one mile northwest of Killaloe in County Clare. He ruled the Dál Cais, the people of east Clare. His palace stood at Kincora beside the River Shannon. He first fought the Danes of Limerick and the Eóganacht kings at Cashel. He joined the sack of Limerick in the year 968 and crushed the power of Cashel ten years later. By the year 988 he was the real ruler of all southern Ireland. In the year 997 he broke the bargain he had made with the high king. The Book of Armagh quotes him as the emperor of the Irish in the year 1005. At Clontarf in the year 1014 he led his forces against the Norse and the Leinster lords. About seventy-four years old, the Danish man Brodir stabbed him in his tent.",
+  "entities": [
+    {
+      "entity": "Brian Bóruma",
+      "type": "Person"
+    },
+    {
+      "entity": "Clontarf",
+      "type": "Place"
+    },
+    {
+      "entity": "Killaloe",
+      "type": "Place"
+    },
+    {
+      "entity": "Kincora",
+      "type": "Place"
+    },
+    {
+      "entity": "Dál Cais",
+      "type": "Group"
+    },
+    {
+      "entity": "Book of Armagh",
+      "type": "Text"
+    },
+    {
+      "entity": "Gormlaith",
+      "type": "Person"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Brian Bóruma",
+      "attribute": "won the battle of Clontarf against the Norse"
+    },
+    {
+      "entity": "Brian Bóruma",
+      "attribute": "ruled the people of east Clare"
+    },
+    {
+      "entity": "Brian Bóruma",
+      "attribute": "sacked Limerick and conquered Cashel"
+    },
+    {
+      "entity": "Brian Bóruma",
+      "attribute": "the third husband of Gormlaith"
+    },
+    {
+      "entity": "Brian Bóruma",
+      "attribute": "stabbed to death by a Danish man"
+    }
+  ],
+  "okr": {
+    "objective": "Give the life and death of the high king Brian Bóruma.",
+    "key_results": [
+      "He rose to rule the territory of Ireland and then all of the south.",
+      "He fought the Danes and the kingdoms of the west.",
+      "He made and then broke a pact with the high king.",
+      "He died in the battle of Clontarf."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Brian Bóruma'."
+  },
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "sources": [
+    "MacKillop 2008, s.v. 'Brian Bórama'."
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "name": "Bridget",
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "text": "Bridget is a variant spelling of Saint Brigid. The form was used often on the Isle of Man. People there favoured this way of writing the saint's name.",
+  "entities": [
+    {
+      "entity": "Bridget",
+      "type": "Person"
+    },
+    {
+      "entity": "Brigid",
+      "type": "Person"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Bridget",
+      "attribute": "a variant spelling of Saint Brigid"
+    },
+    {
+      "entity": "Bridget",
+      "attribute": "especially popular on the Isle of Man"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. Bridget."
+  ],
+  "okr": {
+    "objective": "Provide a short note on the spelling Bridget.",
+    "key_results": [
+      "Bridget is a variant spelling of Saint Brigid.",
+      "The spelling is especially popular on the Isle of Man."
+    ],
+    "evidence": "MacKillop 2008, s.v. Bridget."
+  }
+}

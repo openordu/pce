@@ -1,63 +1,68 @@
 {
-    "name": "bricta",
-    "attributes": [
-        {
-            "entity": "bricta",
-            "attribute": "Bricta is a Gaulish word meaning magical spell."
-        },
-        {
-            "entity": "bricta",
-            "attribute": "The term belongs to the Common Celtic religious vocabulary."
-        },
-        {
-            "entity": "bricta",
-            "attribute": "It is attested on a lead tablet at Chamalières from the early first century AD."
-        },
-        {
-            "entity": "bricta",
-            "attribute": "The same word appears three times on the Larzac tablet from the late first century AD."
-        },
-        {
-            "entity": "bricta",
-            "attribute": "This is a rare pagan Celtic cult term that survived into early Christian Irish writing."
-        }
-    ],
-    "entities": [
-        {
-            "entity": "bricta",
-            "type": "Concept"
-        },
-        {
-            "entity": "Gaulish",
-            "type": "Language"
-        },
-        {
-            "entity": "Chamalières",
-            "type": "Place"
-        },
-        {
-            "entity": "Larzac",
-            "type": "Place"
-        },
-        {
-            "entity": "Fedelm",
-            "type": "Person"
-        }
-    ],
-    "sources": [
-        "Koch 2006, s.v. 'bricta'"
-    ],
-    "image": [],
-    "cyphertext": "",
-    "salt": "",
-    "text": "The Gaulish word bricta means a magical spell. It was part of the shared Celtic religious vocabulary. The term appears on two ancient lead tablets. One is at Chamalières and the other at Larzac. Both tablets come from Gaul. At Larzac the term means the spell of these women. Another passage gives the seeress's spells. That seeress word matches the Irish name Fedelm. Fedelm was the prophetess who warned Queen Medb. Another phrase speaks of an underworld band. The stem links to the Latin word infernus. The Chamalières text adds a phrase about underworld beings. Bricta kept its meaning in Irish Christian writing. That survival is rare for an old Celtic cult term.",
-    "okr": {
-        "objective": "Establish bricta as a Gaulish term for magical spells with known tablets and a rare Irish survival.",
-        "key_results": [
-            "Show the meaning and the two attestation sites.",
-            "Describe the key phrase translations and the Fedelm link."
-        ],
-        "evidence": "Koch 2006, s.v. 'bricta'"
+  "name": "bricta",
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "text": "The Gaulish word bricta names a magical spell. It belonged to the shared Celtic religious language. Two old lead tablets carry the term. One comes from Chamalières and the other from Larzac. Both belong to Gaul. On the Larzac tablet bricta pulls the sense of the spell of these women. Other lines hand a seeress her spells. That seeress title matches the Irish name Fedelm. MacKillop treats Bricta as a variant form of the goddess Brixia. Brixia is an obscure Continental Celtic deity. She is the consort of Luxovius, a water god tied to Luxeuil. Writers often hint at a link to the Irish Brigit, but proof has not yet appeared.",
+  "entities": [
+    {
+      "entity": "bricta",
+      "type": "Concept"
     },
-    "order": 327
+    {
+      "entity": "Gaulish",
+      "type": "Language"
+    },
+    {
+      "entity": "Chamalières",
+      "type": "Place"
+    },
+    {
+      "entity": "Larzac",
+      "type": "Place"
+    },
+    {
+      "entity": "Fedelm",
+      "type": "Person"
+    },
+    {
+      "entity": "Brixia",
+      "type": "Deity"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "bricta",
+      "attribute": "a Gaulish word meaning a magical spell"
+    },
+    {
+      "entity": "bricta",
+      "attribute": "attested on a lead tablet at Chamalières"
+    },
+    {
+      "entity": "bricta",
+      "attribute": "attested three times on the Larzac tablet"
+    },
+    {
+      "entity": "Brixia",
+      "attribute": "Bricta is a variant form of the goddess Brixia"
+    },
+    {
+      "entity": "Brixia",
+      "attribute": "an obscure Continental Celtic goddess, consort of Luxovius"
+    }
+  ],
+  "sources": [
+    "Koch 2006, s.v. 'bricta'",
+    "MacKillop 2008, s.v. Bricta."
+  ],
+  "okr": {
+    "objective": "Establish bricta as a Gaulish term for a magical spell with a goddess link.",
+    "key_results": [
+      "Show the meaning and the two attestation sites.",
+      "Describe the Fedelm link.",
+      "Note Bricta as a variant of the goddess Brixia."
+    ],
+    "evidence": "Koch 2006, s.v. 'bricta'; MacKillop 2008."
+  }
 }

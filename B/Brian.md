@@ -2,45 +2,65 @@
 layout: layouts/pce.njk
 title: Brian
 icon: file-lines
-order: 315
+order: 340
 contributors: [ 'Christopher Godwin' ]
 attributes:
-  - He Ruler
-  - many years Duration of rule
-  - finally End of rule
-  - died Event
-  - mustering Activity
+  - Brian a god of the Tuatha Dé Danann
+  - Brian the first of the three sons of Tuireann
+  - Brian punished for slaying Cian with a quest for eight treasures
+  - Brian killed by Lug on the Isle of Man
+  - Brian Bóruma the model for the name Brian in Ireland
+  - O’Briens family that takes its name from Brian Bóruma
 categories:
-  - Location
-  - Nationality
+  - Place
+  - Person
+  - Deity
+  - Group
 entities:
-  - Irish(Nationality)
-  - Vikings(Nationality)
-  - Clontarf(Location)
+  - Brian(Deity)
+  - Tuatha Dé Danann(Group)
+  - Tuireann(Person)
+  - Lug Lámhota(Person)
+  - Isle of Man(Place)
+  - Brian Bóruma(Person)
+  - O'Briens(Group)
+  - Eochaid Mugmedón(Person)
 tags:
-  - Irish
-  - Vikings
-  - Clontarf
+  - Brian
+  - Tuatha Dé Danann
+  - Tuireann
+  - Lug Lámhota
+  - Isle of Man
+  - Brian Bóruma
+  - O'Briens
+  - Eochaid Mugmedón
 ---
 ``` tab [group1:Info]
 ::: magazinestyle
-An ancient god of the Tuatha Dé Danann called Brian is the origin of this popular Irish name. Brian was the son of the great goddess Danu and the relatively unknown human hero Tuireann. Along with his two brothers, Brian ambushed and pursued Cian, the father of the great hero Lugh, who was an enemy of their father. Cian transformed into a Pig, but Brian transformed his brothers into Dogs to continue the hunt. As Cian died, he turned back into a man. In retribution for the murder, Lugh demanded that Brian and his brothers perform eight difficult tasks. They completed seven but were unable to complete the last one and were killed by Lugh and his companions. Brian Boru (Bóroma), one of the most well-known high kings of Ireland, also bore this name. Despite becoming a legendary figure, his true historical nature remains a mystery. Brian was from Clare, near the mouth of the Shannon, and originally reigned over a small kingdom. He managed to rise to power and conquer both foreign and Irish enemies. Brian ruled for numerous years and ultimately lost his life while gathering Irish forces to fight against the Vikings at Clontarf.
+Brian is a popular given name in Ireland and it spread to Britain from Brittany. Some writers trace its root to Brennus, a war cry used by Celtic fighters around the Mediterranean in late Roman days. The O'Brien clan, the Uí Bhriain, owes its name to the most famous Brian, Brian Bórama. The same letters also label a deity inside the Tuatha Dé Danann, and he led the three sons of Tuireann. Iuchair and Iucharba were his two brothers. With them he slew Cian, the father of Lug Landonhota. The gods sent the three brothers on a quest for the eight treasures of the Tuatha. Lug then slew Brian upon the Isle of Man. A separate Brian was the eldest child of Eochaid Mugmedón.
 
 :::
 ```
 ``` tab [group1:Attributes]
-- **He**: Ruler
-- **many years**: Duration of rule
-- **finally**: End of rule
-- **died**: Event
-- **mustering**: Activity
+- **Brian**: a god of the Tuatha Dé Danann
+- **Brian**: the first of the three sons of Tuireann
+- **Brian**: punished for slaying Cian with a quest for eight treasures
+- **Brian**: killed by Lug on the Isle of Man
+- **Brian Bóruma**: the model for the name Brian in Ireland
+- **O’Briens**: family that takes its name from Brian Bóruma
 ```
 ``` tab [group1:Entities]
-- **Irish**: Nationality
-- **Vikings**: Nationality
-- **Clontarf**: Location
+- **Brian**: Deity
+- **Tuatha Dé Danann**: Group
+- **Tuireann**: Person
+- **Lug Lámhota**: Person
+- **Isle of Man**: Place
+- **Brian Bóruma**: Person
+- **O'Briens**: Group
+- **Eochaid Mugmedón**: Person
 ```
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
+- MacKillop 2008, s.v. 'Brian'.
 ```
 ![Brian Image](https://upload.wikimedia.org/wikipedia/commons/c/cd/Brian_Boru_Front_Piece_1723.jpg)

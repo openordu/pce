@@ -1,0 +1,51 @@
+{
+    "name": "Briccriu's Feast",
+    "text": "Briccriu's Feast is the English title of the Ulster Cycle tale named Fled Bricgreenn in Irish. A writer composed the story as early as the eighth century. The tale also lives in four variant texts from the eleventh century. One of them appears in the Book of the Dun Cow. In the story the heroes quarrel and fight over the champion's portion. For the full account the reader should see the entry for Fled Bricgreenn.",
+    "entities": [
+        {
+            "entity": "Briccriu's Feast",
+            "type": "Text"
+        },
+        {
+            "entity": "Fled Bricrenn",
+            "type": "Text"
+        },
+        {
+            "entity": "Ulster Cycle",
+            "type": "Group"
+        },
+        {
+            "entity": "Book of the Dun Cow",
+            "type": "Text"
+        }
+    ],
+    "attributes": [
+        {
+            "entity": "Briccriu's Feast",
+            "attribute": "the English title of the tale"
+        },
+        {
+            "entity": "Fled Bricrenn",
+            "attribute": "a tale of the Ulster Cycle"
+        },
+        {
+            "entity": "Book of the Dun Cow",
+            "attribute": "one copy of the tale"
+        }
+    ],
+    "okr": {
+        "objective": "Note the English title of the Irish Ulster Cycle tale.",
+        "key_results": [
+            "The title stands in English for a tale in Irish.",
+            "One copy of the tale survives in a medieval book.",
+            "The heroes quarrel about the champion's portion."
+        ],
+        "evidence": "MacKillop 2008, s.v. 'Fled Bricr' and 'Briccriu's Feast'."
+    },
+    "image": [],
+    "cyphertext": "",
+    "salt": "",
+    "sources": [
+        "MacKillop 2008, s.v. 'Briccriu's Feast'."
+    ]
+}
