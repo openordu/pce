@@ -1,23 +1,8 @@
 {
   "name": "Nemglan",
-  "attributes": [
-    {
-      "entity": "Nemglan",
-      "attribute": "grandfather of Conaire"
-    },
-    {
-      "entity": "Conaire",
-      "attribute": "grandson of the goddess Etain"
-    },
-    {
-      "entity": "Conaire",
-      "attribute": "won the throne of Tara after divination"
-    },
-    {
-      "entity": "Conaire",
-      "attribute": "broke a geis to stand between vassals"
-    }
-  ],
+  "cyphertext": "oYUAIOr9_BuaYkiKedSs9LsTMN0gKAR-aTyW8w3KEkoSUW-8Xphk2aSxQyIZ6nQjnHGBvhzer5w1h0PuFOtr3bQids1_UCw3-EEdeITB0aeTYN-MHlIFVivdPSZLgt5lfJ6SaNpFe1xr5wLjuwJQALiVaTD_EpyDu6mMh5IUNJbtAwADSItNnkr74Jyg_Uh9e1SXWZK0eNgWBTSjEsEi0myBzfO36FYyxRt429Tsi80oto3MpB8J8O0xxIhzMwE1NNY_D1E4Tha5gcJ7bMJDctyx1wBOGhPvI7Mk_JR7RK8mHJ7lanLKdVkIjF8AY598HTJaw57pC0w0Bt5nRqGr3EBxbJ-RgzXQ-NlnUlXPfp2Lp3TkWAg2wvm5z-FrVH9lILdgqFYiJROX1StWgIQD2lZXwNbplr-CdLNFHvxCxm8ud8UuB_YwmJvzyFRwNSY-bmK5yJLJmaD2Uj3fZ7i4Mm7iI6QYOHLDlVuZgYpBW6zpL7a-y7fItwv-ZH8o4oQ5xqpmWgsR2PH1W5u8OR25nnRmjgS3hIPVkVS2zAMkU7ZBKdjsrAKN5QwONZB1xJKBg3ES2Fs7tsJWCdei11uRz-vrr5JnZhBNEYngGpROXXxOt6KQJ_eaHXaCSYhSrpdHawfzgLTkZBpwMuIqzbjwIjESm67GjICvHWSS-PY4Bhk=",
+  "salt": "WhfPDMDXXiAtsz7oBS-d7A==",
+  "text": "Nemglan is the grandfather of Conaire. In the leading tale of the Conaire story, the man in bird form gives his name as Nemglan. He calls himself king of Conaires fathers bird troop. Nemglan lays out for Conaire a series of observances to keep. Chief among them is that the king should give birds a privileged place, since he is of their kind. He must likewise keep Tara never on his right road nor Brega on his left. In plain terms he must not make a right-hand or sunwise turn around Tara. Conaire wins the throne of Tara after divination, called the bull feast, revealed he was the rightful king. Inauguration brought a series of demands. One rule barred him from placing himself between two quarrelling vassals. He broke that rule by stepping into a dispute between his brothers. On the way back to Tara he broke other vows. He let horsemen dressed in red overtake him while he rode. He kept Tara to his right as he rode. A terrifying hag came to Da Dergas hostel and demanded to be let in. Conaire held to his last geis, that no woman should stay alone with him at night. Cursing him from a magical stance, she left him with a thirst he could not slake. Fire then consumed the hostel. Marauders invaded the house and cut off his head. Near the close, his severed head gives thanks to Mac Cecht for slaking the thirst. The Gaelic settlers of Dal Riada called themselves the seed of Conaire. So it was Conaire's birth that marked him out. His mother grew up under a poor cowherd's care. A divine figure came to her and left her with child. She was later betrothed to Eterscél on a prophecy. That prophecy said a woman from a family unknown to him would bear his heir. The boy Conaire thus often unravelled the name mac Eterscéle. A second tale, the Wooing of Étaín, gives another start. In this reading Eochaid Airem hid his daughter in unknowing incest. Their child joined Eterscél to bring Conaire into the world. No matter his start, a cowherd home nourished him. He grew up in the care of Donn Désa's own sons. Those youths later turned into a band of raiders. The sons devoured the peace of the countryside. When the old king died, a bull feast chose the next king. The rite reads the future from the bull's flesh. It pointed to Conaire as the rightful heir of Tara. His father had already gone from that same hall. Conaire then accepted the heavy crown at day's end.",
   "entities": [
     {
       "entity": "Nemglan",
@@ -36,24 +21,65 @@
       "type": "place"
     },
     {
+      "entity": "Brega",
+      "type": "place"
+    },
+    {
       "entity": "geis",
       "type": "concept"
+    },
+    {
+      "entity": "Mac Cécht",
+      "type": "character"
+    },
+    {
+      "entity": "Dál Riada",
+      "type": "place"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Nemglan",
+      "attribute": "grandfather of Conaire"
+    },
+    {
+      "entity": "Nemglan",
+      "attribute": "king of Conaire father bird troop"
+    },
+    {
+      "entity": "Nemglan",
+      "attribute": "warned Conaire not to pass Tara on his right hand or Brega on his left"
+    },
+    {
+      "entity": "Conaire",
+      "attribute": "grandson of the goddess Etain"
+    },
+    {
+      "entity": "Conaire",
+      "attribute": "won the throne of Tara after a bull feast"
+    },
+    {
+      "entity": "Conaire",
+      "attribute": "decapitated by marauders at Da Derga hostel"
+    },
+    {
+      "entity": "geis",
+      "attribute": "sacred vow Conaire broke before his death"
     }
   ],
   "sources": [
-    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.",
+    "MacKillop 2008, s.v. 'Conaire Mór'",
+    "MacKillop 2008, s.v. 'Nemglan'"
   ],
-  "cyphertext": "oYUAIOr9_BuaYkiKedSs9LsTMN0gKAR-aTyW8w3KEkoSUW-8Xphk2aSxQyIZ6nQjnHGBvhzer5w1h0PuFOtr3bQids1_UCw3-EEdeITB0aeTYN-MHlIFVivdPSZLgt5lfJ6SaNpFe1xr5wLjuwJQALiVaTD_EpyDu6mMh5IUNJbtAwADSItNnkr74Jyg_Uh9e1SXWZK0eNgWBTSjEsEi0myBzfO36FYyxRt429Tsi80oto3MpB8J8O0xxIhzMwE1NNY_D1E4Tha5gcJ7bMJDctyx1wBOGhPvI7Mk_JR7RK8mHJ7lanLKdVkIjF8AY598HTJaw57pC0w0Bt5nRqGr3EBxbJ-RgzXQ-NlnUlXPfp2Lp3TkWAg2wvm5z-FrVH9lILdgqFYiJROX1StWgIQD2lZXwNbplr-CdLNFHvxCxm8ud8UuB_YwmJvzyFRwNSY-bmK5yJLJmaD2Uj3fZ7i4Mm7iI6QYOHLDlVuZgYpBW6zpL7a-y7fItwv-ZH8o4oQ5xqpmWgsR2PH1W5u8OR25nnRmjgS3hIPVkVS2zAMkU7ZBKdjsrAKN5QwONZB1xJKBg3ES2Fs7tsJWCdei11uRz-vrr5JnZhBNEYngGpROXXxOt6KQJ_eaHXaCSYhSrpdHawfzgLTkZBpwMuIqzbjwIjESm67GjICvHWSS-PY4Bhk=",
-  "salt": "WhfPDMDXXiAtsz7oBS-d7A==",
-  "text": "Nemglan is the grandfather of Conaire. Conaire traced his descent from Etain, named a goddess or fairy queen. The tale stresses how vital it was for a ruler to obey every sacred vow or geis. Conaire won the throne of Tara after divination, called the bull-sleep, revealed he was the rightful king. Inauguration brought a series of demands. One rule barred him from placing himself between two quarreling vassals. He broke that rule by stepping into a dispute between his brothers. On the way back to Tara he broke other vows. He allowed horsemen dressed in red to overtake him while he rode. He kept Tara to his right as he rode. A terrifying hag came to Da Derga's hostel and demanded that she be let inside. Conaire held to his last geis, that no woman should stay alone with him at night. Cursing him from a magical stance, she left him with a thirst he could not slake even as fire consumed the hostel.",
   "okr": {
-    "objective": "Nemglan is the grandfather of Conaire, whose reign bent to a sacred geis.",
+    "objective": "Nemglan is the bird-shaped guardian who set the geis on Conaire's reign.",
     "key_results": [
-      "Nemglan is the grandfather of Conaire.",
-      "Conaire was the grandson of Etain.",
-      "Divination named Conaire the rightful king of Tara.",
-      "He broke a geis and met a hag who cursed him."
+      "Nemglan appears as a man in bird form, king of Conaire father bird troop.",
+      "He warned Conaire to give birds a privileged place and not to pass Tara on the right.",
+      "Conaire broke each observance and met a hag who cursed him.",
+      "Marauders decapitated Conaire at Da Derga's hostel."
     ],
-    "evidence": "Monaghan, Encyclopedia of Celtic Mythology and Folklore"
+    "evidence": "MacKillop 2008, s.v. 'Conaire Mór'"
   }
 }

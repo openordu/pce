@@ -1,53 +1,66 @@
 {
-  "name": "Morfudd",
-  "attributes": [
-    {
-      "entity": "Morfudd",
-      "attribute": "an obscure Welsh heroine and the daughter of king Urien"
-    },
-    {
-      "entity": "Modron",
-      "attribute": "possibly the mother of Morfudd"
-    },
-    {
-      "entity": "Morfudd",
-      "attribute": "the twin sister of Owain ab Urien"
-    }
-  ],
-  "entities": [
-    {
-      "entity": "Morfudd",
-      "type": "Person"
-    },
-    {
-      "entity": "Urien",
-      "type": "Person"
-    },
-    {
-      "entity": "Modron",
-      "type": "Deity"
-    },
-    {
-      "entity": "Owain",
-      "type": "Person"
-    }
-  ],
-  "sources": [
-    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-  ],
-  "cyphertext": "rLoDjnQS_KaGgYDpQvc9_WpgplFUJn28h2SNNKhReW3EJQBYgz8kZIXPHeqziBs2_SQDNXbfiH8FMkME3eBfVFSc_jKWeycV4As5T0g65FxJ85kRp4Z6fMChBn8dziCmnqjrqGZ_kf6ShuGC3DA_sGScqRRl9jhHXlPpydYiVq9LTI8nPja5ID9ZM0aW1UzHqHZaewCbHcDazsjG4_detdLVC5yqTYkQ7W3n",
-  "salt": "Jo-Nt__VyPVxfO97nwC7Jg==",
-  "text": "Morfudd, also called Morfudd ferch Urien, was a Welsh heroine. This obscure figure was the daughter of king Urien. Her mother may have been the goddess Modron. Koch's encyclopedia records her as one of Urien's children. She was the twin sister of Owain ab Urien. The early Welsh poets wrote of Bountiful and beautiful Morfudd. She was sometimes counted among the notable women of Britain. Her story survives mostly through the genealogies of Urien's house and the praises of the bards.",
-  "okr": {
-    "objective": "Document the Welsh heroine Morfudd and her kinship.",
-    "key_results": [
-      "Record Morfudd as the daughter of king Urien.",
-      "Record her mother may have been the goddess Modron.",
-      "Record her as twin sister to Owain ab Urien."
-    ],
-    "evidence": [
-      "Monaghan, P. The Encyclopedia of Celtic Mythology and Folklore (2008): Morfudd entry, p. 338.",
-      "Koch, J. T., ed. Celtic Culture: A Historical Encyclopedia (2006): Morfudd, p. 1523."
-    ]
+ "name": "Morfudd",
+ "cyphertext": "rLoDjnQS_KaGgYDpQvc9_WpgplFUJn28h2SNNKhReW3EJQBYgz8kZIXPHeqziBs2_SQDNXbfiH8FMkME3eBfVFSc_jKWeycV4As5T0g65FxJ85kRp4Z6fMChBn8dziCmnqjrqGZ_kf6ShuGC3DA_sGScqRRl9jhHXlPpydYiVq9LTI8nPja5ID9ZM0aW1UzHqHZaewCbHcDazsjG4_detdLVC5yqTYkQ7W3n",
+ "salt": "Jo-Nt__VyPVxfO97nwC7Jg==",
+ "text": "Morfudd, also spelled Morfydd, was a Welsh heroine. The name links to morwyn, the Welsh word for maiden. Many women in early Welsh tradition bore this name. The sources separate them by rank and family. The best-known Morfudd was the great love of the poet Dafydd ap Gwilym. He flourished from about 1320 to 1370. That Morfudd was married to a man named Y Bwa Bach. Yet she remains the most enduring subject of the poet's verse. The bard sang her praises in poem after poem. Her name runs through his finest lines. Another Morfudd appears as an obscure daughter of king Urien. Her mother may have been the goddess Modron. Koch's encyclopedia records her as one of Urien's children. She was the twin sister of Owain ab Urien. The early Welsh poets wrote of bountiful and beautiful Morfudd. She was sometimes counted among the notable women of Britain. Kings and heroes gathered in her father's court. The bards who shaped that world set her among its brightest names. Her story survives mostly through the genealogies of Urien's house. It echoes in the praises of the poets. Her lineage passed down in the old books next to the deeds of her warrior brother Owain. The poets of that royal family remembered her many times over the generations. Two strands of fame twine around a single name. One ties her to a northern king's daughter, the other to a poet's lasting desire. Both Morfudds drew notice from men who made their living by words. In one case the words were a poet's love songs. In the other they were a court's record of its own glory. Together these scattered traces keep the name alive long after the courts that honored it had faded. Whether she stands in a genealogy or a love song, Morfudd holds a lasting place in the memory of Welsh tradition.",
+ "entities": [
+  {
+   "entity": "Morfudd",
+   "type": "Person"
+  },
+  {
+   "entity": "Urien",
+   "type": "Person"
+  },
+  {
+   "entity": "Modron",
+   "type": "Being"
+  },
+  {
+   "entity": "Owain",
+   "type": "Person"
+  },
+  {
+   "entity": "Dafydd ap Gwilym",
+   "type": "Person"
+  },
+  {
+   "entity": "Y Bwa Bach",
+   "type": "Person"
   }
+ ],
+ "attributes": [
+  {
+   "entity": "Morfudd",
+   "attribute": "a common Welsh name borne by many women, one an obscure daughter of king Urien"
+  },
+  {
+   "entity": "Modron",
+   "attribute": "possibly the mother of Morfudd"
+  },
+  {
+   "entity": "Morfudd",
+   "attribute": "the twin sister of Owain ab Urien"
+  },
+  {
+   "entity": "Morfudd",
+   "attribute": "the best-known bearer was the love of the poet Dafydd ap Gwilym, married to Y Bwa Bach"
+  }
+ ],
+ "sources": [
+  "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.",
+  "MacKillop 2008, s.v. 'Morfudd'"
+ ],
+ "okr": {
+  "objective": "Document the Welsh heroine Morfudd and her kinship.",
+  "key_results": [
+   "Record Morfudd as the daughter of king Urien.",
+   "Record her mother may have been the goddess Modron.",
+   "Record her as twin sister to Owain ab Urien.",
+   "Record the best-known Morfudd as the love of the poet Dafydd ap Gwilym."
+  ],
+  "evidence": [
+   "MacKillop 2008, s.v. 'Morfudd'"
+  ]
+ }
 }
