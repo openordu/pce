@@ -1,0 +1,72 @@
+{
+    "name": "Brigid",
+    "text": "Brigid of Kildare is one of Ireland's three patron saints. Patrick and Colum Cille are the other two. People of Ireland call her Mary of the Gael. She died in the year 525. Her feast day is the first of February. Reliable details of her life are few. Writers built many stories around a thin outline of facts. She was born at Faughart near Dundalk in County Louth. At Kildare she founded a religious house. She died in that same place. Tradition names her father Dubthach. The best known story says she brought a dying pagan to the faith. She held a cross plaited from rushes. Crosses of St Brigid, made from four stalks of rushes, still appear in Ireland. A second story links her to fire. Giraldus Cambrensis reported in the year 1184 that nuns kept an unquenchable fire at Kildare. It had burned for five hundred years and left no ash. Men could not approach it. The Church keeps Brigid on its calendar but warns that most tales of her life are not authentic.",
+    "entities": [
+        {
+            "entity": "Brigid",
+            "type": "Person"
+        },
+        {
+            "entity": "Patrick",
+            "type": "Person"
+        },
+        {
+            "entity": "Colum Cille",
+            "type": "Person"
+        },
+        {
+            "entity": "Kildare",
+            "type": "Place"
+        },
+        {
+            "entity": "Faughart",
+            "type": "Place"
+        },
+        {
+            "entity": "Dubthach",
+            "type": "Person"
+        }
+    ],
+    "attributes": [
+        {
+            "entity": "Brigid",
+            "attribute": "one of the three patron saints of Ireland"
+        },
+        {
+            "entity": "Brigid",
+            "attribute": "called Mary of the Gael"
+        },
+        {
+            "entity": "Brigid",
+            "attribute": "founded a religious house at Kildare"
+        },
+        {
+            "entity": "Kildare",
+            "attribute": "the place where Brigid founded her house and died"
+        },
+        {
+            "entity": "Brigid",
+            "attribute": "linked in story to a sacred fire"
+        },
+        {
+            "entity": "Brigid",
+            "attribute": "remembered with rushes crosses"
+        }
+    ],
+    "okr": {
+        "objective": "Describe the life and legend of St Brigid of Kildare.",
+        "key_results": [
+            "Brigid is one of the three patron saints of Ireland.",
+            "She founded a religious house at Kildare.",
+            "Tales link her to a cross of rushes and a sacred fire.",
+            "The Church warns that most stories of her life are not authentic."
+        ],
+        "evidence": "MacKillop 2008, s.v. 'Brigid'."
+    },
+    "image": [],
+    "cyphertext": "",
+    "salt": "",
+    "sources": [
+        "MacKillop 2008, s.v. 'Brigid'."
+    ]
+}

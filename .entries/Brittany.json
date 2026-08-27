@@ -3,19 +3,27 @@
     "attributes": [
         {
             "entity": "Brittany",
-            "attribute": "a cross-reference pointing to GAUL"
-        },
-        {
-            "entity": "GAUL",
-            "attribute": "an ancient Celtic land now forming much of France"
-        },
-        {
-            "entity": "GAUL",
-            "attribute": "a land brought under Roman rule"
+            "attribute": "a former duchy and province of north-western France"
         },
         {
             "entity": "Brittany",
-            "attribute": "in Breton the name is Breizh, and the western part stayed heavily Breton-speaking until the twentieth century"
+            "attribute": "named for the Brythonic people who fled Britain"
+        },
+        {
+            "entity": "Brittany",
+            "attribute": "called Breizh in Breton and Llydaw in Welsh"
+        },
+        {
+            "entity": "Armorica",
+            "attribute": "an older name for Brittany"
+        },
+        {
+            "entity": "Brittany",
+            "attribute": "divided among Domnonia, Cornouaille, and Bro Waroch"
+        },
+        {
+            "entity": "Brittany",
+            "attribute": "symbols are the ermine, the triskele, and the biniou"
         }
     ],
     "entities": [
@@ -24,52 +32,53 @@
             "type": "Place"
         },
         {
-            "entity": "GAUL",
+            "entity": "Armorica",
             "type": "Place"
+        },
+        {
+            "entity": "Finistère",
+            "type": "Place"
+        },
+        {
+            "entity": "Domnonia",
+            "type": "Place"
+        },
+        {
+            "entity": "Cornouaille",
+            "type": "Place"
+        },
+        {
+            "entity": "Bro Waroch",
+            "type": "Place"
+        },
+        {
+            "entity": "Cynan Meiriadog",
+            "type": "Person"
         },
         {
             "entity": "Breizh",
             "type": "Place"
-        },
-        {
-            "entity": "Breizh-Izel",
-            "type": "Place"
-        },
-        {
-            "entity": "Breizh-Uhel",
-            "type": "Place"
-        },
-        {
-            "entity": "Nantes",
-            "type": "Place"
-        },
-        {
-            "entity": "Rennes",
-            "type": "Place"
-        },
-        {
-            "entity": "Gallo",
-            "type": "Language"
         }
     ],
     "sources": [
         "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.",
-        "Koch 2006, s.v. 'breizh'"
+        "Koch 2006, s.v. 'breizh'",
+        "MacKillop 2008, s.v. 'Brittany'."
     ],
     "image": [
         "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Satellite_picture_of_Brittany_-_NASA%2C_2002.jpg/1200px-Satellite_picture_of_Brittany_-_NASA%2C_2002.jpg"
     ],
     "cyphertext": "0xKrJgAbppb1TW7oOyFuXlRYEPTZKtd8oo16_x1dSLmAR7wpWDn4xgjuhWMjZgY=",
     "salt": "ZyRBBE_5fEkkupIXx11lqw==",
-    "text": "Brittany is a land that faces the Atlantic on the Celtic fringe of France. The Breton speakers call the region Breizh. The western half, Breizh-Izel or Lower Brittany, was largely Breton in speech and way. The decline of the spoken tongue came fast in the twentieth century. The eastern half, Upper Brittany, is home to the cities of Nantes and Rennes. In those towns the near tongue is a Gallic dialect called Gallo, with a touch of Breton. In this book the name Brittany also points the reader toward the entry for GAUL.",
+    "text": "Brittany is a former duchy and province of north-western France on the Armorican peninsula. It covers the departments of Finistère, Côte d'Armor, Morbihan, Ille-et-Vilaine, and Loire-Atlantique. The region spans 18,630 square miles, more than twice the size of Wales. Celtic-speaking peoples have held it since before Roman times. Its name derives from the Brythonic refugees who left the isle of Britain in the fifth century. In Breton it is called Breizh, and in Welsh Llydaw. The coast is Arvor in Breton literature, and the interior is Argoad. In early Christian times Brittany held three petty kingdoms: Domnonia, Cornouaille, and Bro Waroch. Legend says the emigrants were led by St Cynan Meiriadog. The Breton language is P-Celtic and linked to Welsh and the extinct Cornish. Breton and Welsh share words but are not mutually comprehensible. The dialect of the south-west is Gwened, named for Vannes, the capital of Morbihan. Traditional Breton symbols are the ermine, the triskele, and the biniou.",
     "okr": {
-        "objective": "Portray Brittany as a Celtic Atlantic land, its west a Breizh stronghold and its east home of French.",
+        "objective": "Describe the region and history of Brittany.",
         "key_results": [
-            "Brittany faces the Atlantic and the Celtic fringe of France.",
-            "The west half Breankh-Izel kept the Breton tongue until the 20th century.",
-            "The east half holds Nantes and Rennes and speaks Gallo.",
-            "In this book the name also sends the reader to the entry for GAUL."
+            "Brittany is a former duchy of north-western France.",
+            "It takes its name from the Brythonic people who fled Britain.",
+            "It is called Breizh in Breton and Llydaw in Welsh.",
+            "Early Christian Brittany held three petty kingdoms."
         ],
-        "evidence": "Koch 2006, s.v. 'breizh'; Monaghan 2008, s.v. 'Brittany'."
+        "evidence": "MacKillop 2008, s.v. 'Brittany'."
     }
 }

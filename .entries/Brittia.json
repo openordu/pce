@@ -1,0 +1,38 @@
+{
+    "name": "Brittia",
+    "text": "Brittia is the name the Byzantine historian Procopius gave to a fabulous island. He wrote in the fifth century and set the island in the tales of the peasants of northern Gaul. His account is one of the earliest records of how a distant land appeared in the imagination of the Continent.",
+    "entities": [
+        {
+            "entity": "Brittia",
+            "type": "Place"
+        },
+        {
+            "entity": "Procopius",
+            "type": "Person"
+        }
+    ],
+    "attributes": [
+        {
+            "entity": "Brittia",
+            "attribute": "a fabulous island named by Procopius"
+        },
+        {
+            "entity": "Procopius",
+            "attribute": "a Byzantine historian of the fifth century"
+        }
+    ],
+    "okr": {
+        "objective": "Note the fabulous island Brittia of Procopius.",
+        "key_results": [
+            "Brittia is a fabulous island named by Procopius.",
+            "He recorded it from the beliefs of the peasants of northern Gaul."
+        ],
+        "evidence": "MacKillop 2008, s.v. 'Brittia'."
+    },
+    "image": [],
+    "cyphertext": "",
+    "salt": "",
+    "sources": [
+        "MacKillop 2008, s.v. 'Brittia'."
+    ]
+}
