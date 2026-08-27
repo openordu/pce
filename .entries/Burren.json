@@ -1,0 +1,24 @@
+{
+ "name": "Burren",
+ "text": "The Burren is a bare plateau of gray limestone in the north-west of County Clare. The rock spreads over close to a hundred square miles of open land. Only a small number of people live there today. Yet the ground supports flowers and plants that grow nowhere else in Europe. Hundreds of ruined forts and megalithic tombs stand across this area. The region also holds many caves and underground streams. The name Burren marks this unusual stretch of stone and carries the abiding memory of a wild place.",
+ "entities": [
+  {"entity": "Burren", "type": "Place"},
+  {"entity": "County Clare", "type": "Place"}
+ ],
+ "attributes": [
+  {"entity": "Burren", "attribute": "limestone plateau in north-west County Clare"},
+  {"entity": "Burren", "attribute": "supports rare plants, ruins, tombs, caves, streams"}
+ ],
+ "okr": {
+  "objective": "Document the limestone plateau of the Burren and its distinctive landscape.",
+  "key_results": [
+   "State that the Burren is a limestone plateau in north-west County Clare.",
+   "Record the rare plants, ruined forts, tombs, caves and streams of the Burren."
+  ],
+  "evidence": "MacKillop 2008, s. v. 'Burren'."
+ },
+ "sources": ["MacKillop 2008, s. v. 'Burren'."],
+ "image": [],
+ "cyphertext": "",
+ "salt": ""
+}

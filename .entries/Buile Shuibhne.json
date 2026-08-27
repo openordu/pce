@@ -1,0 +1,19 @@
+{
+  "name": "Buile Shuibhne",
+  "text": "Buile Shuibhne is an Irish tale that belongs to the Cycle of Kings. Writers call it The Frenzy of Suibne or The Madness of Sweeney. The work dates to the twelfth century. It is the third story in a trilogy and the best known of the three. The trilogy follows Suibne Geilt, a minor Ulster king of the seventh century. Suibne lost his reason at the Battle of Mag Rath, also called Moira, in 637. The first tale, Fled On nagen, tells what happened before the fight. The second tale, Cah Maha Rhada, describes the battle itself. Suibne then wanders across Ireland, moving from tree to tree. Many readers find these travels among the most moving passages in early Irish literature. Suibne first resists Christianity but later accepts it.",
+  "entities": [
+    {"entity": "Suibne", "type": "Person"},
+    {"entity": "Cycle of Kings", "type": "concept"},
+    {"entity": "Mag Rath", "type": "Place"}
+  ],
+  "attributes": [
+    {"entity": "Suibne", "attribute": "a seventh-century Ulster king who lost his reason at the Battle of Mag Rath"},
+    {"entity": "Buile Shuibhne", "attribute": "an Irish tale of the Cycle of Kings known in English as The Frenzy of Suibne"},
+    {"entity": "Mag Rath", "attribute": "battle site where Suibne lost his reason in 637"}
+  ],
+  "okr": {"objective": "Document the Irish tale Buile Shuibhne and its place in the Cycle of Kings.", "key_results": ["Sourced the tale to the Cycle of Kings.", "Recorded Suibne's loss of reason at the Battle of Mag Rath in 637.", "Traced the trilogy from Fled On nagen through Cah Maha Rhada."], "evidence": "MacKillop 2008, s.v. 'Buile Shuibhne'."},
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "sources": ["MacKillop 2008, s.v. 'Buile Shuibhne'."]
+}

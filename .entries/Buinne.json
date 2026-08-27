@@ -1,0 +1,24 @@
+{
+  "name": "Buinne",
+  "text": "Buinne is a retainer who fails Deirdre and Noíse in Longas Mac nUislem. That tale tells of the exile of Uisnech's sons. He sometimes goes by the name Ruadh, meaning the Red. Buinne was a son of Fergus Mac Roich. At first he defends Deirdre with courage. Then Conchobar gives him a bribe. Buinne turns away from the lovers. He receives every parcel of land on one side of a mountain. When he tries to take that land, it becomes a desert.",
+  "entities": [
+    {"entity": "Buinne", "type": "Person"},
+    {"entity": "Deirdre", "type": "Person"},
+    {"entity": "Noíse", "type": "Person"},
+    {"entity": "Fergus Mac Roich", "type": "Person"},
+    {"entity": "Conchobar", "type": "Person"},
+    {"entity": "Longas Mac nUislem", "type": "concept"}
+  ],
+  "attributes": [
+    {"entity": "Buinne", "attribute": "a faithless retainer who abandoned Deirdre and Noíse for a bribe"},
+    {"entity": "Deirdre", "attribute": "the lover whom Buinne first defended"},
+    {"entity": "Fergus Mac Roich", "attribute": "the father of Buinne"},
+    {"entity": "Conchobar", "attribute": "the figure who bribed Buinne with land"},
+    {"entity": "Longas Mac nUislem", "attribute": "the tale in which Buinne appears"}
+  ],
+  "okr": {"objective": "Document Buinne and his role in Longas Mac nUislem.", "key_results": ["Recorded Buinne as a son of Fergus Mac Roich.", "Noted his initial defense of Deirdre.", "Traced how a bribe from Conchobar made him abandon the lovers."], "evidence": "MacKillop 2008, s.v. 'Buinne'."},
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "sources": ["MacKillop 2008, s.v. 'Buinne'."]
+}
