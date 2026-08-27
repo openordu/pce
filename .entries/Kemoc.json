@@ -1,0 +1,39 @@
+{
+  "name": "Kemoc",
+  "text": "Kemoc is a shortened English form of the name Mo Cháemóc. Mo Cháemóc was a disciple of the saint Patrick. In the tale of the Children of Lir he brings the Christian faith to the four children after their long sentence.",
+  "entities": [
+    {
+      "entity": "Mo Cháemóc",
+      "type": "Person"
+    },
+    {
+      "entity": "Patrick",
+      "type": "Person"
+    },
+    {
+      "entity": "Children of Lir",
+      "type": "Group"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Kemoc",
+      "attribute": "English form of Mo Cháemóc"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Kemoc'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Record Kemoc.",
+    "key_results": [
+      "Give the fuller form of the name.",
+      "Name the master of the disciple.",
+      "Set the figure in the tale of the Children of Lir."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Kemoc'"
+  }
+}

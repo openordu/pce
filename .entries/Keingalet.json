@@ -1,0 +1,43 @@
+{
+  "name": "Keingalet",
+  "text": "Keingalet is the Breton spelling of Ceingalad. Ceingalad is the horse of the hero Gwalchmai fab Gwyar, whose Welsh and Breton tales name him. He is the figure behind Gawain in English romance and Gauvain in French romance.",
+  "entities": [
+    {
+      "entity": "Ceingalad",
+      "type": "Animal"
+    },
+    {
+      "entity": "Gwalchmai fab Gwyar",
+      "type": "Person"
+    },
+    {
+      "entity": "Gawain",
+      "type": "Person"
+    },
+    {
+      "entity": "Gauvain",
+      "type": "Person"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Keingalet",
+      "attribute": "Breton spelling of the horse's name"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Keingalet'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Record Keingalet.",
+    "key_results": [
+      "Give the name of the horse.",
+      "Name the hero who rode it.",
+      "Note the Breton spelling."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Keingalet'"
+  }
+}

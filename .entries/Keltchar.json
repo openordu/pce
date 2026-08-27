@@ -1,0 +1,35 @@
+{
+  "name": "Keltchar",
+  "text": "Keltchar is a variant spelling of the name Celtchair. Celtchair is a soldier of the Ulster Cycle in Irish story. The two spellings name the same warrior.",
+  "entities": [
+    {
+      "entity": "Celtchair",
+      "type": "Person"
+    },
+    {
+      "entity": "Ulster Cycle",
+      "type": "Work"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Keltchar",
+      "attribute": "variant spelling of Celtchair"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Keltchar'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Record Keltchar.",
+    "key_results": [
+      "Give the common form of the name.",
+      "Set the man in the Ulster Cycle.",
+      "Note the variant spelling."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Keltchar'"
+  }
+}
