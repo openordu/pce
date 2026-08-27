@@ -1,0 +1,43 @@
+{
+  "name": "Gáedel",
+  "text": "Gáedel is a variant spelling of Goidel Glas, the invented ancestor of the Irish in medieval pseudo-history. The same form stands for Gael, the name given to the Irish and the Scottish Gaelic peoples. Scholars argue over the true root of the word. Many readers still hold that the maker of the Irish tongue stands behind the name. Yet that maker, Goidel Glas, is a creation of the Lebor Gabála, the Book of Invasions. Opinion now holds that Goidel is older than that book. It may come from the Old Welsh word Gwyddel, meaning Irishman, and that word may spring from gwyddel, meaning wild. A third claim, that Gael rises from the Celtic sound -gal- found in Gaul and Galatia, is a misreading. Gáedel thus carries a long debate about the first speakers of Irish.",
+  "entities": [
+    {
+      "entity": "Goidel Glas",
+      "type": "Person"
+    },
+    {
+      "entity": "Lebor Gabála",
+      "type": "Work"
+    },
+    {
+      "entity": "Gaul",
+      "type": "Region"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Gáedel",
+      "attribute": "variant form of Goidel Glas"
+    },
+    {
+      "entity": "Gáedel",
+      "attribute": "name for the Irish and Scottish Gaelic peoples"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Gáedel'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Record Gáedel.",
+    "key_results": [
+      "Give the spelling forms of the name.",
+      "Note the claim that Gael comes from Goidel Glas.",
+      "State the scholarly objections to that claim."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Gáedel'"
+  }
+}
