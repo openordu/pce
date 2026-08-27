@@ -1,0 +1,35 @@
+{
+  "name": "King of the World",
+  "text": "King of the World is a proud title given in Fenian stories to certain arrogant invaders. The title may recall the might of a late Roman emperor or of the Holy Roman ruler. It can also point to the emperor Charlemagne. In the tale known as the Battle of Ventry this office belongs to Dáire Donn. Elsewhere the same boast is carried by a hero named Sinsar.",
+  "entities": [
+    {
+      "entity": "Dáire Donn",
+      "type": "Person"
+    },
+    {
+      "entity": "Fionn Cycle",
+      "type": "Work"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "King of the World",
+      "attribute": "title borne in Fenian stories"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'King of the World'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Record King of the World.",
+    "key_results": [
+      "Name the invader at the Battle of Ventry.",
+      "Name an emperor the title recalls.",
+      "Name the cycle in which it appears."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'King of the World'"
+  }
+}

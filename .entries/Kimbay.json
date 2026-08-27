@@ -1,0 +1,43 @@
+{
+  "name": "Kimbay",
+  "text": "Kimbay is the anglicized spelling of the name Cimbáeth. He is a legendary king of early Ireland. Writers place his rule at the start of chronicle history, about the year 300. He reigned for a term of seven years as one partner in a cycle of twenty-one years. In that cycle he took turns on the throne with his kinsmen Aed Ruad and Dithorba. Those companions may have been his brothers or his cousins. The pact was watched over by seven judges, by seven bards, and by seven lords of Ulster. When Aed Ruad perished, his daughter Macha was chosen to rule. Cimbáeth opposed her at first but later made peace and married her. Macha then made him raise the royal fortress at Emain Macha.",
+  "entities": [
+    {
+      "entity": "Cimbáeth",
+      "type": "Person"
+    },
+    {
+      "entity": "Macha",
+      "type": "Person"
+    },
+    {
+      "entity": "Emain Macha",
+      "type": "Place"
+    },
+    {
+      "entity": "Ulster",
+      "type": "Region"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Kimbay",
+      "attribute": "anglicized form of Cimbáeth"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Kimbay'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Record Kimbay.",
+    "key_results": [
+      "Give the fuller form of the name.",
+      "Name a kinsman who shared the cycle.",
+      "Name the fort Macha made him build."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Kimbay'"
+  }
+}

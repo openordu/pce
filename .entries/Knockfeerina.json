@@ -1,0 +1,39 @@
+{
+  "name": "Knockfeerina",
+  "text": "Knockfeerina is a hill of 948 feet in County Limerick. It stands east of the town of Ballingarry. The hill is ranked among the best-known seats of the Otherworld in Munster. Its Irish name is Cnoc Firinne. Writers sometimes spell the place Knockfierna.",
+  "entities": [
+    {
+      "entity": "County Limerick",
+      "type": "Region"
+    },
+    {
+      "entity": "Munster",
+      "type": "Region"
+    },
+    {
+      "entity": "Cnoc Firinne",
+      "type": "Place"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Knockfeerina",
+      "attribute": "hill of 948 feet in County Limerick"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Knockfeerina'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Record Knockfeerina.",
+    "key_results": [
+      "Give its height in feet.",
+      "Name the province.",
+      "Give the Irish form of the name."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Knockfeerina'"
+  }
+}

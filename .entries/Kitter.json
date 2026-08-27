@@ -1,0 +1,35 @@
+{
+  "name": "Kitter",
+  "text": "Kitter is a legendary pirate of the Manx record. He appears as a Viking earl. The witch Oda lured him into a storm-tossed sea. A rock off the south-west shore of the Isle of Man, called Kitterland, keeps his name. The stone stands where the sea that took him rolls onward.",
+  "entities": [
+    {
+      "entity": "Isle of Man",
+      "type": "Region"
+    },
+    {
+      "entity": "Oda",
+      "type": "Person"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Kitter",
+      "attribute": "legendary Viking jarl of Manx lore"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Kitter'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Record Kitter.",
+    "key_results": [
+      "State his rank in the tradition.",
+      "Name the witch who doomed him.",
+      "Name the rock that bears his name."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Kitter'"
+  }
+}

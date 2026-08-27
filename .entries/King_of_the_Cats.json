@@ -1,0 +1,43 @@
+{
+  "name": "King of the Cats",
+  "text": "King of the Cats is the title given in Irish tradition to a huge cat known as frusán. The beast was said to be as large as an ox. It appears throughout the written and oral lore of Ireland. In one famous tale the chief poet of the land, Senchán Torpéist, dared to make a mock of cats. In rage the beast came from its cave at Knowth and carried the poet away on its back. When the pair passed Clonmacnoise, the saint Ciarán saved the poet. He threw a red-hot poker at the beast and killed it.",
+  "entities": [
+    {
+      "entity": "Senchán Torpéist",
+      "type": "Person"
+    },
+    {
+      "entity": "Knowth",
+      "type": "Place"
+    },
+    {
+      "entity": "Clonmacnoise",
+      "type": "Place"
+    },
+    {
+      "entity": "Ciarán",
+      "type": "Person"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "King of the Cats",
+      "attribute": "huge cat of Irish tradition"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'King of the Cats'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Record King of the Cats.",
+    "key_results": [
+      "Give the Irish name of the beast.",
+      "Name the den of the beast.",
+      "Name the saint who slew it."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'King of the Cats'"
+  }
+}
