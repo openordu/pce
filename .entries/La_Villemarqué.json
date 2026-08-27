@@ -1,0 +1,39 @@
+{
+  "name": "La Villemarqué",
+  "text": "Théodore Hersart de La Villemarqué is the French scholar who founded Breton literary tradition with the collection Barzaz Breiz, published in Paris in 1839. As a pseudo-medievalist he is often compared with the Scottish writer James Macpherson. Many judges place him above Macpherson in language skill and in fidelity, yet his work is still softened in places. The English rendering, called Ballads and Songs of Brittany, was made by Tom Taylor.",
+  "entities": [
+    {
+      "entity": "Barzaz Breiz",
+      "type": "Work"
+    },
+    {
+      "entity": "James Macpherson",
+      "type": "Person"
+    },
+    {
+      "entity": "Brittany",
+      "type": "Region"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "La Villemarqué",
+      "attribute": "founder of Breton literary tradition"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'La Villemarqué'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Record La Villemarqué.",
+    "key_results": [
+      "Name his chief collection.",
+      "Tell who he is often compared with.",
+      "Name the English translator."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'La Villemarqué'"
+  }
+}

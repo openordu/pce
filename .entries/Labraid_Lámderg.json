@@ -1,0 +1,43 @@
+{
+  "name": "Labraid Lámderg",
+  "text": "Labraid Lámderg, the red hand, is a hero of the Fianna of Fionn mac Cumhaill even though he is said to be the son of Bolg, an ancestor of the Fir Bolg. He travels overseas with Oscar.",
+  "entities": [
+    {
+      "entity": "Fianna",
+      "type": "Group"
+    },
+    {
+      "entity": "Fionn mac Cumhaill",
+      "type": "Person"
+    },
+    {
+      "entity": "Fir Bolg",
+      "type": "Group"
+    },
+    {
+      "entity": "Oscar",
+      "type": "Person"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Labraid Lámderg",
+      "attribute": "hero of the Fianna"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Labraid Lámderg'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Record Labraid Lámderg.",
+    "key_results": [
+      "Name the band he joined.",
+      "Name his reputed father.",
+      "Name the hero he travels with."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Labraid Lámderg'"
+  }
+}
