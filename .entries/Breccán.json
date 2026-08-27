@@ -1,0 +1,30 @@
+{
+  "name": "Breccán",
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "text": "Breccán comes from the Irish word for freckled or speckled. Many early Irish people carried the name, and so did thirteen saints or more. In legend the best-known Breccan turns out to be a trader, not a holy man, lost off the Scottish coast. He drowned in the whirlpool whose name he keeps. Corrievreckan swells in the channel between Jura and Scarba, two isles in the Inner Hebrides.",
+  "entities": [
+    {"entity": "Breccán", "type": "Person"},
+    {"entity": "Corrievreckan", "type": "Place"},
+    {"entity": "Jura", "type": "Place"},
+    {"entity": "Scarba", "type": "Place"},
+    {"entity": "Argyllshire", "type": "Region"}
+  ],
+  "attributes": [
+    {"entity": "Breccán", "attribute": "means freckled or speckled in Irish"},
+    {"entity": "Breccán", "attribute": "names at least thirteen early Irish saints"},
+    {"entity": "Corrievreckan", "attribute": "commemorates the drowned trader Breccan the whirlpool"},
+    {"entity": "Corrievreckan", "attribute": "sits between Jura and Scarba"}
+  ],
+  "okr": {
+    "objective": "This entry explains the name Breccán and the whirlpool that keeps its fame.",
+    "key_results": [
+      "Breccán means freckled or speckled in Irish",
+      "Thirteen or more early saints carried the name",
+      "The trader Breccán drowned in Corrievreckan"
+    ],
+    "evidence": "MacKillop 2008, s.v. Breccán."
+  },
+  "sources": ["MacKillop 2008, s.v. Breccán."]
+}

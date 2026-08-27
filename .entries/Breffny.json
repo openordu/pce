@@ -1,0 +1,28 @@
+{
+  "name": "Breffny",
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "text": "Breffny is an anglicized spelling of Bréifne, a name for early Ireland. The form marks a region coextensive with Cavan and Leitrim counties. These lands sit in the north central part of Ireland.",
+  "entities": [
+    {"entity": "Breffny", "type": "Place"},
+    {"entity": "Bréifne", "type": "Region"},
+    {"entity": "Cavan", "type": "Place"},
+    {"entity": "Leitrim", "type": "Place"}
+  ],
+  "attributes": [
+    {"entity": "Breffny", "attribute": "is the anglicized form of Bréifne"},
+    {"entity": "Breffny", "attribute": "coincides with the counties of Cavan and Leitrim"},
+    {"entity": "Breffny", "attribute": "names a region in north central Ireland"}
+  ],
+  "okr": {
+    "objective": "This entry explains the anglicized name Breffny for the region of Bréifne.",
+    "key_results": [
+      "Breffny is a spelling variant of Bréifne",
+      "The region matches Cavan and Leitrim counties",
+      "The area lies in north central Ireland"
+    ],
+    "evidence": "MacKillop 2008, s.v. Breffny."
+  },
+  "sources": ["MacKillop 2008, s.v. Breffny."]
+}

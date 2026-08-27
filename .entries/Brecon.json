@@ -1,0 +1,34 @@
+{
+  "name": "Brecon",
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "text": "Brecon is the county town of the historic territory that the medieval Welsh kingdom of Brycheiniog once governed. The name also passes to the surrounding county of Brecknockshire. Readers wanting the full story should see the entry for Brycheiniog.",
+  "entities": [
+    {
+      "entity": "Brecon",
+      "type": "Place"
+    },
+    {
+      "entity": "Brycheiniog",
+      "type": "Place"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Brecon",
+      "attribute": "the county-town name of the historic territory of the medieval Welsh kingdom of Brycheiniog"
+    }
+  ],
+  "okr": {
+    "objective": "Explain Brecon as the county town and county name for the territory of the medieval Welsh kingdom of Brycheiniog and direct the reader to the Brycheiniog entry.",
+    "key_results": [
+      "Brecon gives its name to the surrounding county of Brecknockshire",
+      "The fuller account of this region appears in the entry for Brycheiniog"
+    ],
+    "evidence": "MacKillop 2008, s.v. Brecon."
+  },
+  "sources": [
+    "MacKillop 2008, s.v. Brecon."
+  ]
+}

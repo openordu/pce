@@ -1,0 +1,28 @@
+{
+  "name": "Breaga",
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "text": "Breaga appears in the Lebor Gabala as a son of Breogan. He is the uncle of Mil Espáine according to the pseudo-history. Perhaps the petty kingdom Brega of east central Ireland took its name from him. The region held weight in early times.",
+  "entities": [
+    {"entity": "Breaga", "type": "Person"},
+    {"entity": "Breogan", "type": "Person"},
+    {"entity": "Mil Espáine", "type": "Person"},
+    {"entity": "Lebor Gabala", "type": "Literary work"}
+  ],
+  "attributes": [
+    {"entity": "Breaga", "attribute": "appears as a son of Bregan"},
+    {"entity": "Breaga", "attribute": "stands as uncle of Mil Espáine"},
+    {"entity": "Breaga", "attribute": "may name the petty kingdom of Brega"}
+  ],
+  "okr": {
+    "objective": "This entry explains the figure Breaga in the pseudo-history Lebor Gabala and his possible link to the region of Brega.",
+    "key_results": [
+      "Breaga is recorded as a son of Bregan",
+      "He appears as the uncle of Mil Espáine",
+      "He may be the eponym of the petty kingdom of Brega or Bregia"
+    ],
+    "evidence": "MacKillop 2008, s.v. Breaga."
+  },
+  "sources": ["MacKillop 2008, s.v. Breaga."]
+}
