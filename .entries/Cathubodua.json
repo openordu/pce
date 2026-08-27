@@ -1,5 +1,7 @@
 {
   "name": "Cathubodua",
+  "cyphertext": "lDvNum8tk3Hr5ooRwVchiyoTz3lPdIK12hHyPYzoGI4AwKhKM2peQjhrEajoRqCYgzmhKdwxu6L_kkIzpYIYiL4oQQza990QIh5IvF5sI9YtiS0Y3HPXqFwHY1V7S4FgKGhqc7OTsrHW0x_Gvvdu_mxiFhEmmCQFuzHv1fq3pEMZn8Jfl9U-npnNLEdZ-oQ0eFWAXPJvVsL-wqM=",
+  "salt": "f1g7VNbIPpzSs1T0WqpmnA==",
   "entities": [
     {
       "entity": "Cathubodua",
@@ -7,7 +9,11 @@
     },
     {
       "entity": "Badb",
-      "type": "goddess"
+      "type": "Deity"
+    },
+    {
+      "entity": "Bodua",
+      "type": "Deity"
     },
     {
       "entity": "Haute-Savoie",
@@ -36,8 +42,20 @@
       "attribute": "cult seated in the Haute-Savoie"
     },
     {
+      "entity": "Cathubodua",
+      "attribute": "name pointing to a raven of battle"
+    },
+    {
+      "entity": "Cathubodua",
+      "attribute": "known from one inscription in the Haute-Savoie"
+    },
+    {
       "entity": "Badb",
       "attribute": "a war goddess linked to Cathubodua"
+    },
+    {
+      "entity": "Bodua",
+      "attribute": "root of the tribal surname Boduogenos"
     },
     {
       "entity": "druids",
@@ -53,19 +71,21 @@
     }
   ],
   "sources": [
-    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.",
+    "MacKillop 2008, s.v. 'Cathubodua'."
   ],
-  "cyphertext": "lDvNum8tk3Hr5ooRwVchiyoTz3lPdIK12hHyPYzoGI4AwKhKM2peQjhrEajoRqCYgzmhKdwxu6L_kkIzpYIYiL4oQQza990QIh5IvF5sI9YtiS0Y3HPXqFwHY1V7S4FgKGhqc7OTsrHW0x_Gvvdu_mxiFhEmmCQFuzHv1fq3pEMZn8Jfl9U-npnNLEdZ-oQ0eFWAXPJvVsL-wqM=",
-  "salt": "f1g7VNbIPpzSs1T0WqpmnA==",
-  "text": "Cathubodua is a battle goddess of the Gauls. Her worship is recorded in the Haute-Savoie region of what is now France. The tribal surname Boduogenos, which means people of Bodua, preserves her name. Writers have connected her to the war goddess Badb. Women dressed in black, acting as druids, imitated the Badb in the thick of fighting, yelling from the sidelines to stir the men to bolder deeds; such was the sight when the druidic school on Anglesey met its ruin. Whether Badb and her fellow goddesses of war began as Celtic figures or stem from an earlier, pre-Celtic layer remains a matter of argument. Most scholars think her bird shape reaches back to an unnamed goddess of the Neolithic age who was commonly drawn in that form.",
+  "text": "Cathubodua is a battle goddess of the Gauls. Her cult appears in the record of the Haute-Savoie region of what is now eastern France. One inscription alone carries that evidence. The tribal surname Boduogenos, which means people of Bodua, preserves her name. The name points to a raven of battle. Writers have connected her to the war goddess Badb. Scholars place her before the Irish Badb in time. MacKillop proposes that she and Cauth Bodva are one figure. Women dressed in black, acting as druids, imitated the Badb in the thick of fighting. They yelled from the sidelines to stir the men to bolder deeds. That was the scene when the druidic school on Anglesey met its ruin. Whether Badb and her fellow goddesses of war began as Celtic figures is a matter of argument. Some scholars trace them to an earlier, pre-Celtic layer. Most scholars think her bird shape reaches back to an unnamed Neolithic goddess. Artworks of that age commonly drew her in bird form.",
   "okr": {
     "objective": "Cathubodua is a Gaulish war goddess tied to the bird-formed Badb.",
     "key_results": [
       "Her cult is found in the Haute-Savoie.",
       "The tribal name carries her root.",
       "Druids imitated the Badb and screamed in battle.",
-      "Her bird form links to a Neolithic goddess."
+      "Her bird form links to a Neolithic goddess.",
+      "One inscription alone records her.",
+      "The name points to a raven of battle.",
+      "MacKillop ties her to Cauth Bodva."
     ],
-    "evidence": "Monaghan, Encyclopedia of Celtic Mythology and Folklore"
+    "evidence": "Monaghan, Encyclopedia of Celtic Mythology and Folklore; MacKillop 2008, s.v. 'Cathubodua'"
   }
 }

@@ -1,6 +1,9 @@
 {
   "name": "Catraeth",
-  "text": "Catraeth is the battlefield mourned in the poem Y Gododdin. The Gododdin people gave their name to this verse. The poem tells the fate of a small war band. The warriors rode to Catraeth to face a stronger foe. The text is a large work of early Welsh poetry. It holds more than one thousand lines of verse. Aneirin is the bard credited with the poem. The work records men and events from a poorly documented age. England and Wales were forming after Rome left. The Gododdin frames a relentless heroic vision. A hero pays for his mead with his own life. The phrase talu medd marks that same debt. A warrior repaid his lord for a life of ease. In return the bards keep his fame alive. The theme shapes all the later elegies in the work.",
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "text": "Catraeth is the battlefield mourned in the poem Y Gododdin. Writers compare the name with the Latin cataracto, a word for a waterfall. The battlefield matches the crossing of the River Swale at Catterick Bridge. That spot sits roughly two and a half miles from Richmond in Yorkshire, to the southeast. The Gododdin people gave their name to this verse. The poem tells the fate of a small war band. The warriors rode to Catraeth to face a stronger foe. The text is a large work of early Welsh poetry. It holds more than one thousand lines of verse. Aneirin is the bard credited with the poem. The work records men and events from a poorly documented age. England and Wales were forming after Rome left. The Gododdin frames a relentless heroic vision. A hero pays for his mead with his own life. The phrase talu medd marks that same debt. A warrior repaid his lord for a life of ease. In return the bards keep his fame alive. The theme shapes all the later elegies in the work.",
   "entities": [
     {
       "entity": "Catraeth",
@@ -8,7 +11,7 @@
     },
     {
       "entity": "Gododdin",
-      "type": "Group"
+      "type": "poem"
     },
     {
       "entity": "Y Gododdin",
@@ -16,13 +19,21 @@
     },
     {
       "entity": "Aneirin",
-      "type": "Person"
+      "type": "Character"
     }
   ],
   "attributes": [
     {
       "entity": "Catraeth",
       "value": "battle site mourned in the Gododdin poem"
+    },
+    {
+      "entity": "Catraeth",
+      "value": "name compared with Latin cataracto, a waterfall"
+    },
+    {
+      "entity": "Catraeth",
+      "value": "site matching the Catterick Bridge crossing of the River Swale"
     },
     {
       "entity": "Y Gododdin",
@@ -35,21 +46,22 @@
   ],
   "sources": [
     "Koch 2006, s.v. 'Catraeth'",
-    "Jackson, Kenneth H. The Gododdin: The Old Scottish Poem. Edinburgh University Press, 1969."
+    "Jackson, Kenneth H. The Gododdin: The Old Scottish Poem. Edinburgh University Press, 1969.",
+    "MacKillop 2008, s.v. 'Catraeth'."
   ],
-  "image": [],
-  "cyphertext": "",
-  "salt": "",
   "okr": {
     "objective": "Record Catraeth as a verified PCE node.",
     "key_results": [
       "Factual text written in CSG-style prose of at least 150 characters.",
       "Entities and attributes recorded for the place and the poem.",
+      "The name compares with Latin cataracto, a waterfall.",
+      "The site matches the Catterick Bridge crossing of the River Swale.",
       "Protected fields set to empty defaults."
     ],
     "evidence": [
       "Koch 2006, 'Catraeth'",
-      "Jackson, Kenneth H. The Gododdin: The Old Scottish Poem. Edinburgh University Press, 1969."
+      "Jackson, Kenneth H. The Gododdin: The Old Scottish Poem. Edinburgh University Press, 1969.",
+      "MacKillop 2008, s.v. 'Catraeth'"
     ]
   }
 }
