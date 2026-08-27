@@ -1,0 +1,55 @@
+{
+  "name": "Caemhoch",
+  "text": "Caemhoch is a saintly name that MacKillop shows as a variant spelling for Mo Cháemóc. The church record also knows this man as Kemoc, Kemone, Kevoke, and Kevok. He stood among the disciples close beside Saint Patrick. The tale called Oidheadh Chlainne Lir tells of the miracle granted to children. Here he brings the early faith to four royal infants. A bitter spell had kept these young ones in bird form across many winters. This holy man warmed them with hope through their long exile. His saving work marks an early moment when Irish ground yielded to the new belief. Posterity keeps his memory fondly among the gentle saints of the first church.",
+  "entities": [
+    {
+      "entity": "Mo Cháemóc",
+      "type": "Person"
+    },
+    {
+      "entity": "Saint Patrick",
+      "type": "Person"
+    },
+    {
+      "entity": "Children of Lir",
+      "type": "Group"
+    },
+    {
+      "entity": "Oidheadh Chlainne Lir",
+      "type": "Text"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Caemhoch",
+      "attribute": "variant spelling of the name Mo Cháemóc"
+    },
+    {
+      "entity": "Caemhoch",
+      "attribute": "a disciple of Saint Patrick"
+    },
+    {
+      "entity": "Caemhoch",
+      "attribute": "carried the faith to the Children of Lir"
+    },
+    {
+      "entity": "Children of Lir",
+      "attribute": "held in swan form by a bitter spell"
+    }
+  ],
+  "okr": {
+    "objective": "Give an accurate account of the saint Caemhoch as a form of Mo Cháemóc.",
+    "key_results": [
+      "list the variant spellings of the saint",
+      "link him as a disciple of Saint Patrick",
+      "state his labour among the Children of Lir"
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Caemhoch'."
+  },
+  "sources": [
+    "MacKillop 2008, s.v. 'Caemhoch'."
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": ""
+}

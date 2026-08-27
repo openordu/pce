@@ -1,0 +1,71 @@
+{
+  "name": "Cador",
+  "text": "Cador ranks as the duke of Cornwall in the tale Breuddwyd Rhonabwy, which is the Dream of Rhonabwy. He is a nephew of the great king Arthur. Cador appears often in the Arthurian chronicles written by Geoffrey of Monmouth. The poets Wace and Layamon also tell of his deeds. He dies in the final battle at Mount Badon. His long reign then comes to a close.",
+  "entities": [
+    {
+      "entity": "Cador",
+      "type": "Person"
+    },
+    {
+      "entity": "Arthur",
+      "type": "Person"
+    },
+    {
+      "entity": "Geoffrey of Monmouth",
+      "type": "Person"
+    },
+    {
+      "entity": "Wace",
+      "type": "Person"
+    },
+    {
+      "entity": "Layamon",
+      "type": "Person"
+    },
+    {
+      "entity": "Cornwall",
+      "type": "Place"
+    },
+    {
+      "entity": "Mount Badon",
+      "type": "Place"
+    },
+    {
+      "entity": "Breuddwyd Rhonabwy",
+      "type": "concept"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Cador",
+      "attribute": "the duke of Cornwall in Breuddwyd Rhonabwy"
+    },
+    {
+      "entity": "Cador",
+      "attribute": "nephew of Arthur"
+    },
+    {
+      "entity": "Cador",
+      "attribute": "appears in chronicles written by Monmouth, Wace, and Layamon"
+    },
+    {
+      "entity": "Cador",
+      "attribute": "killed in the last battle of Mount Badon"
+    }
+  ],
+  "okr": {
+    "objective": "Describe Cador as the duke of Cornwall in Arthurian tradition.",
+    "key_results": [
+      "Names Cador as the duke of Cornwall in Breuddwyd Rhonabwy",
+      "States Cador is the nephew of Arthur",
+      "Records that Monmouth, Wace, and Layamon all tell of Cador"
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Cador'."
+  },
+  "sources": [
+    "MacKillop 2008, s.v. 'Cador'."
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": ""
+}
