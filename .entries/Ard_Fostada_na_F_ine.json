@@ -1,0 +1,44 @@
+{
+  "name": "Ard Fostada na Féine",
+  "fname": "Ard_Fostada_na_F_ine.json",
+  "text": "Ard Fostada na Féine is a hill of the north of County Wexford in Ireland. The name of the height is the high place of the Fenian war. The hill stands in the valley of the river Slaney. The old tales of the Fianna name the place in their books. The Fenian host is the band of the men of the tale who fight for the land.",
+  "entities": [
+    {
+      "entity": "Ard Fostada na Féine",
+      "type": "Place"
+    },
+    {
+      "entity": "Wexford",
+      "type": "Place"
+    },
+    {
+      "entity": "Slaney",
+      "type": "Place"
+    },
+    {
+      "entity": "Fianna",
+      "type": "concept"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Ard Fostada na Féine",
+      "attribute": "hill of north Wexford in the Slaney valley, tied to the Fianna"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Ard Fostada na Féine'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Record the Irish hill Ard Fostada na Féine.",
+    "key_results": [
+      "Place the hill in Wexford.",
+      "Name the Slaney valley.",
+      "Set the Fenian tales."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Ard Fostada na Féine'"
+  }
+}

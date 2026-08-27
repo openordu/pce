@@ -1,0 +1,44 @@
+{
+  "name": "Aonach Tailteann",
+  "fname": "Aonach Tailteann.json",
+  "text": "Aonach Tailteann is the Irish name of the great fair of the old land. The fair met each year in the first month of the harvest on the plain of Tailtiu. The site is the modern town of Teltown between Navan and Kells. Riders and men of skill came from every part of Ireland and from Alba. The god Lug is said to hold the first games there for his mother. The later kings keep the right to open the meeting. The name of the fair gives its own tie to the season of the harvest.",
+  "entities": [
+    {
+      "entity": "Aonach Tailteann",
+      "type": "concept"
+    },
+    {
+      "entity": "Tailtiu",
+      "type": "Place"
+    },
+    {
+      "entity": "Lug",
+      "type": "Character"
+    },
+    {
+      "entity": "Teltown",
+      "type": "Place"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Aonach Tailteann",
+      "attribute": "great harvest fair held on the plain of Tailtiu"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Aonach Tailteann'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Record the great Irish fair Aonach Tailteann.",
+    "key_results": [
+      "Set the fair at Tailtiu.",
+      "Name the first games of Lug.",
+      "Give the modern site Teltown."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Aonach Tailteann'"
+  }
+}

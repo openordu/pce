@@ -1,0 +1,44 @@
+{
+  "name": "Ard Caille",
+  "fname": "Ard_Caille.json",
+  "text": "Ard Caille is a place in the north of County Cork in Ireland. The name of the high ground is the height of the land. The old poems of the early age name it as the grave of the hero Fionn mac Cum. A more common site is the plain of Luachair Ded in the west of Munster. Both places die for the resting ground of the great man of the tales.",
+  "entities": [
+    {
+      "entity": "Ard Caille",
+      "type": "Place"
+    },
+    {
+      "entity": "Fionn",
+      "type": "Character"
+    },
+    {
+      "entity": "Cork",
+      "type": "Place"
+    },
+    {
+      "entity": "Munster",
+      "type": "Place"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Ard Caille",
+      "attribute": "site in north Cork named as the grave of Fionn"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Ard Caille'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Record the grave site Ard Caille.",
+    "key_results": [
+      "Place the site in County Cork.",
+      "Name the hero Fionn.",
+      "Note the second grave."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Ard Caille'"
+  }
+}

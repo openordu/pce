@@ -1,0 +1,35 @@
+{
+  "name": "Arcaibh",
+  "fname": "Arcaibh.json",
+  "text": "Arcaibh is the name that the Scottish speech gives to the Orkney islands. The word means among the boars in that tongue. The band of islands lies in the far north of the sea of Britain. The name of the wild swine and the sound of the word mark the group of the Orkney isles.",
+  "entities": [
+    {
+      "entity": "Arcaibh",
+      "type": "Place"
+    },
+    {
+      "entity": "Orkney",
+      "type": "Place"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Arcaibh",
+      "attribute": "Scottish word for the Orkney isles"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Arcaibh'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Record the Scottish name Arcaibh.",
+    "key_results": [
+      "Name the Orkney isles.",
+      "Give the meaning of the word."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Arcaibh'"
+  }
+}

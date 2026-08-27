@@ -1,0 +1,39 @@
+{
+  "name": "Ardan",
+  "fname": "Ardan.json",
+  "text": "Ardan is a man of the old Irish book about the Sons of Uisnech. Of the three wayward brothers he is the third. The three men share the pain of the exile of their kindred. The low note of his voice marks the youngest of the band in the tale.",
+  "entities": [
+    {
+      "entity": "Ardan",
+      "type": "Character"
+    },
+    {
+      "entity": "Uisnech",
+      "type": "concept"
+    },
+    {
+      "entity": "Noise",
+      "type": "Character"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Ardan",
+      "attribute": "one of the brothers in the tale of the Sons of Uisnech"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Ardan'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Record the brother Ardan.",
+    "key_results": [
+      "Set him in the tale of the exile.",
+      "Name the kindred of Usnech."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Ardan'"
+  }
+}

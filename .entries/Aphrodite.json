@@ -1,0 +1,44 @@
+{
+  "name": "Aphrodite",
+  "fname": "Aphrodite.json",
+  "text": "Aphrodite is the Greek goddess of love and beauty. She is the mother of Aeneas, the hero who comes out of Troy. She has no true Celtic partner in the book. Her love for the youth Adonis is set beside the grief of Deirdre and of Grainne in the Irish tales. The Roman name of the same goddess is Venus.",
+  "entities": [
+    {
+      "entity": "Aphrodite",
+      "type": "Deity"
+    },
+    {
+      "entity": "Aeneas",
+      "type": "Person"
+    },
+    {
+      "entity": "Adonis",
+      "type": "Character"
+    },
+    {
+      "entity": "Venus",
+      "type": "Deity"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Aphrodite",
+      "attribute": "Greek goddess of love, mother of Aeneas, no Celtic parallel"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Aphrodite'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Record the Greek love goddess Aphrodite.",
+    "key_results": [
+      "Name her as mother of Aeneas.",
+      "Give her Roman form Venus.",
+      "Set the Adonis parallel."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Aphrodite'"
+  }
+}

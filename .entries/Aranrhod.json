@@ -1,0 +1,35 @@
+{
+  "name": "Aranrhod",
+  "fname": "Aranrhod.json",
+  "text": "Aranrhod is one of the written forms of the name of a Welsh woman of the old tales. The longer form of the same name is Arianrhod. The full story of the woman rests under the longer head. This short form keeps a place in the book for the reader to find.",
+  "entities": [
+    {
+      "entity": "Aranrhod",
+      "type": "Person"
+    },
+    {
+      "entity": "Arianrhod",
+      "type": "Character"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Aranrhod",
+      "attribute": "variant spelling of the Welsh name Arianrhod"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Aranrhod'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Record the Welsh name Aranrhod.",
+    "key_results": [
+      "Give the longer form Arianrhod.",
+      "Point to the fuller head."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Aranrhod'"
+  }
+}

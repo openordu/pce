@@ -1,0 +1,44 @@
+{
+  "name": "Ardar",
+  "fname": "Ardar.json",
+  "text": "Ardar is a young man who walks through the verse of James MacPherson. The poem that holds him is the Ossian tale of the year 1760. He comes from the line of Etha, where the chief Usnoth rules. His mother is the sister of the hero Cuchulainn. A northern king named Swaran ends his life while he is still young.",
+  "entities": [
+    {
+      "entity": "Ardar",
+      "type": "Character"
+    },
+    {
+      "entity": "Ossian",
+      "type": "Character"
+    },
+    {
+      "entity": "Cuchullin",
+      "type": "Character"
+    },
+    {
+      "entity": "MacPherson",
+      "type": "Person"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Ardar",
+      "attribute": "son of Usnoth in MacPherson's Ossian, slain while young"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Ardar'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Record the Ossianic figure Ardar.",
+    "key_results": [
+      "Set him in the poem of the year.",
+      "Name his kin the hero.",
+      "Tell of his death."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Ardar'"
+  }
+}

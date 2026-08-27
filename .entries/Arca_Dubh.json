@@ -1,0 +1,40 @@
+{
+  "name": "Arca Dubh",
+  "fname": "Arca_Dubh.json",
+  "text": "Arca Dubh is a bad man of the early Irish tales. His name of the tongue means the Black river. In one version of the tale of the father he is the one who does the deed. In another shape he lures the father away and is the common killer. He is the usual foe who ends the life of the father of Finn of the Fenian book.",
+  "entities": [
+    {
+      "entity": "Arca Dubh",
+      "type": "Character"
+    },
+    {
+      "entity": "Fionn",
+      "type": "Character"
+    },
+    {
+      "entity": "Cum",
+      "type": "Character"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Arca Dubh",
+      "attribute": "villain of the early Fenian tale, the Black Arky"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Arca Dubh'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Record the villain Arca Dubh.",
+    "key_results": [
+      "Give the meaning of the name.",
+      "Name the father of Fionn.",
+      "Tell of the black figure."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Arca Dubh'"
+  }
+}
