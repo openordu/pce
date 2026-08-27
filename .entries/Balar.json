@@ -1,0 +1,44 @@
+{
+  "name": "Balar",
+  "fname": "Balar.json",
+  "text": "Balar is the older Irish spelling of the name of the one eyed king. He is a king of the hostile folk of the old war. The dictionary sends the reader of this word on to the fuller entry under the name Balor. There the tale tells of the eye that could fell a host. It also tells of the king's fate in the great battle.",
+  "entities": [
+    {
+      "entity": "Balar",
+      "type": "Character"
+    },
+    {
+      "entity": "Balor",
+      "type": "Character"
+    },
+    {
+      "entity": "Fomorian",
+      "type": "People"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Balar",
+      "attribute": "older Irish form of the name Balor"
+    },
+    {
+      "entity": "Balar",
+      "attribute": "the one-eyed king of the old war"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Balar'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Record the older form Balar of the name Balor.",
+    "key_results": [
+      "Give the older spelling.",
+      "Name the one-eyed king.",
+      "Point to the fuller entry."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Balar'"
+  }
+}

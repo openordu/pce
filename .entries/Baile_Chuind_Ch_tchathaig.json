@@ -1,0 +1,44 @@
+{
+  "name": "Baile Chuind Chetchathaig",
+  "fname": "Baile_Chuind_Ch_tchathaig.json",
+  "text": "Baile Chuind Chetchathaig is an older form of a text of Irish vision. The name names the frenzy of the king Conn of the Hundred Battles, who saw the future. The dictionary sends the reader of this headword to the fuller work that tells the whole tale. The older text holds a place among the early writings of the court.",
+  "entities": [
+    {
+      "entity": "Baile Chuind Chetchathaig",
+      "type": "Work"
+    },
+    {
+      "entity": "Conn",
+      "type": "Character"
+    },
+    {
+      "entity": "Baile in Scail",
+      "type": "Work"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Baile Chuind Chetchathaig",
+      "attribute": "an older form of a text of vision"
+    },
+    {
+      "entity": "Baile Chuind Chetchathaig",
+      "attribute": "cross-refer to Baile in Scail"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Baile Chuind Chetchathaig'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Record the older text of the royal vision.",
+    "key_results": [
+      "Give the meaning of the name.",
+      "Name the king of the battle.",
+      "Point to the fuller text."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Baile Chuind Chetchathaig'"
+  }
+}

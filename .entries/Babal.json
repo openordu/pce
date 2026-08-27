@@ -1,0 +1,48 @@
+{
+  "name": "Babal",
+  "fname": "Babal.json",
+  "text": "Babal is a merchant of the Partholonian people in the Lebor Gabala, the book of the taking of Ireland. The text credits this man with the first bringing of cattle into the land. His deed stands at the start of the island's herds. He is one of the remembered settlers of the early age.",
+  "entities": [
+    {
+      "entity": "Babal",
+      "type": "Character"
+    },
+    {
+      "entity": "Lebor Gabala",
+      "type": "Work"
+    },
+    {
+      "entity": "Ireland",
+      "type": "Place"
+    },
+    {
+      "entity": "Partholonian",
+      "type": "People"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Babal",
+      "attribute": "a merchant of the Parthon people"
+    },
+    {
+      "entity": "Babal",
+      "attribute": "first brought cattle into Ireland"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Babal'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Record Babal and the first cattle of Ireland.",
+    "key_results": [
+      "Name Babal as a merchant.",
+      "Give the first cattle.",
+      "Set him in the Parthon age."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Babal'"
+  }
+}

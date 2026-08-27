@@ -1,0 +1,48 @@
+{
+  "name": "Badh",
+  "fname": "Badh.json",
+  "text": "Badh is the modern Irish spelling of the name of the old war goddess. It is a later form of the name Badb. In the east of Munster the word once meant the banshee, the woman who told of a death at hand. The single form carries both the raven of war and the cry of the dead.",
+  "entities": [
+    {
+      "entity": "Badh",
+      "type": "Character"
+    },
+    {
+      "entity": "Badb",
+      "type": "Character"
+    },
+    {
+      "entity": "Munster",
+      "type": "Place"
+    },
+    {
+      "entity": "banshee",
+      "type": "Character"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Badh",
+      "attribute": "modern Irish form of the war goddess name"
+    },
+    {
+      "entity": "Badh",
+      "attribute": "in East Munster meant the banshee"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Badh'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Record the modern Irish form Badh.",
+    "key_results": [
+      "Give the modern spelling.",
+      "Link it to the old name Badb.",
+      "Give the Munster sense."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Badh'"
+  }
+}

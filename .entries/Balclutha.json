@@ -1,0 +1,48 @@
+{
+  "name": "Balclutha",
+  "fname": "Balclutha.json",
+  "text": "Balclutha is a place that appears in the work of a later poet. It is set on the river Clyde in the land of the north. The story tells of the town held by the people of the older days. Some readers have tried to give it a root in Celtic speech.",
+  "entities": [
+    {
+      "entity": "Balclutha",
+      "type": "Place"
+    },
+    {
+      "entity": "Clyde",
+      "type": "Place"
+    },
+    {
+      "entity": "Ossian",
+      "type": "Work"
+    },
+    {
+      "entity": "James Macpherson",
+      "type": "Character"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Balclutha",
+      "attribute": "a place on the river Clyde"
+    },
+    {
+      "entity": "Balclutha",
+      "attribute": "from the work of the later poet"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Balclutha'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Record the place Balclutha and its source.",
+    "key_results": [
+      "Put the place on the Clyde.",
+      "Name the work that made it known.",
+      "Give the guessed root in speech."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Balclutha'"
+  }
+}

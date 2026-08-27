@@ -1,0 +1,44 @@
+{
+  "name": "Badenoch",
+  "fname": "Badenoch.json",
+  "text": "Badenoch is a mountain district in the north of the isle of Britain. It lies in the county of Inverness, in the Highland part of the land. The people spoke the Gaelic tongue there into our own time. In the eighteenth century it became one of two seats of a false Gaelic learning.",
+  "entities": [
+    {
+      "entity": "Badenoch",
+      "type": "Place"
+    },
+    {
+      "entity": "Inverness",
+      "type": "Place"
+    },
+    {
+      "entity": "Highland",
+      "type": "Place"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Badenoch",
+      "attribute": "a mountain district of the Highlands"
+    },
+    {
+      "entity": "Badenoch",
+      "attribute": "a seat of false Gaelic learning"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Badenoch'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Record the Highland district of Badenoch.",
+    "key_results": [
+      "Place Badenoch in the north.",
+      "Keep the memory of its Gaelic.",
+      "Note the false school."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Badenoch'"
+  }
+}

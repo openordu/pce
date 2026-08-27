@@ -1,0 +1,44 @@
+{
+  "name": "Bacchus",
+  "fname": "Bacchus.json",
+  "text": "Bacchus is the Roman name of the god of wine and growth in the old world. The dictionary turns the reader of this word to the larger entry on the same god under his Greek name. That piece tells how the god of wine was known to the Romans also as a second name. Some scholars find here a likeness to an Irish hero.",
+  "entities": [
+    {
+      "entity": "Bacchus",
+      "type": "Character"
+    },
+    {
+      "entity": "Dionysus",
+      "type": "Character"
+    },
+    {
+      "entity": "Lug",
+      "type": "Character"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Bacchus",
+      "attribute": "Roman name of the god of wine"
+    },
+    {
+      "entity": "Bacchus",
+      "attribute": "cross-refer to Dionysus"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Bacchus'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Record Bacchus as the Roman god of wine.",
+    "key_results": [
+      "Point the word to Dionysus.",
+      "Name the god of wine.",
+      "Give the Roman second name."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Bacchus'"
+  }
+}
