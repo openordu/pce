@@ -1,0 +1,35 @@
+{
+  "name": "Anian",
+  "fname": "Anian.json",
+  "text": "Anian is a Welsh form of the name Einion. MacKillop shows it as a variant of Einion. The name was borne by many early Welsh poets and priests. The dictionary keeps the short form as a link to the longer head.",
+  "entities": [
+    {
+      "entity": "Anian",
+      "type": "Character"
+    },
+    {
+      "entity": "Einion",
+      "type": "Character"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Anian",
+      "attribute": "variant spelling of Einion"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Anian'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "State the variant Anian.",
+    "key_results": [
+      "Give the variant spelling.",
+      "Name the full form Einion."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Anian'"
+  }
+}

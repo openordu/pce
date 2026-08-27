@@ -1,0 +1,47 @@
+{
+  "name": "Anluan",
+  "fname": "Anluan.json",
+  "text": "Anluan is a title given to several figures in early Ireland. A set of these belong to the kin of the great Brian, later king in the south. The most famous Anluan was a son of Maga and a brother of Cet. He appears in the tale of the great pig of Mac Da Tho.",
+  "entities": [
+    {
+      "entity": "Anluan",
+      "type": "Character"
+    },
+    {
+      "entity": "Brian",
+      "type": "Character"
+    },
+    {
+      "entity": "Cet",
+      "type": "Character"
+    },
+    {
+      "entity": "Maga",
+      "type": "Character"
+    },
+    {
+      "entity": "Mac da Tho",
+      "type": "Text"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Anluan",
+      "attribute": "the most famous is the son of Maga, a brother of Cet"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Anluan'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Give the name Anluan.",
+    "key_results": [
+      "List the famous bearer.",
+      "Name him son of Maga."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Anluan'"
+  }
+}

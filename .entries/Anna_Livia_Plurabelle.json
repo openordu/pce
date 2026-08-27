@@ -1,0 +1,43 @@
+{
+  "name": "Anna Livia Plurabelle",
+  "fname": "Anna_Livia_Plurabelle.json",
+  "text": "Anna Livia Plurabelle is the name that the writer James Joyce gives to the river Liffey in Dublin. MacKillop points the reader to the entry for the Liffey. The river appears in Joyce's work as a woman of the stream.",
+  "entities": [
+    {
+      "entity": "Anna Livia Plurabelle",
+      "type": "Character"
+    },
+    {
+      "entity": "James Joyce",
+      "type": "Character"
+    },
+    {
+      "entity": "Liffey",
+      "type": "Place"
+    },
+    {
+      "entity": "Dublin",
+      "type": "Place"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Anna Livia Plurabelle",
+      "attribute": "Joyce's name for the river Liffey"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Anna Livia Plurabelle'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "State the river name of Joyce.",
+    "key_results": [
+      "Name the river Liffey.",
+      "Credit the name to James Joyce."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Anna Livia Plurabelle'"
+  }
+}

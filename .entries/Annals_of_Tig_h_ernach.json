@@ -1,0 +1,44 @@
+{
+  "name": "Annals of Tig[h]ernach",
+  "fname": "Annals_of_Tig_h_ernach.json",
+  "text": "The Annals of Tig[h]ernach are the oldest native Irish record of the early years. A tradition says that Tigernach drew the text together at the monastery of Clonmacnoise. The manuscript rests today in the library at Oxford in fragment form. It is the most valuable of the early Irish annal collections.",
+  "entities": [
+    {
+      "entity": "Annals of Tig[h]ernach",
+      "type": "Text"
+    },
+    {
+      "entity": "Tigernach",
+      "type": "Character"
+    },
+    {
+      "entity": "Clonmacnoise",
+      "type": "Place"
+    },
+    {
+      "entity": "Oxford",
+      "type": "Place"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Annals of Tig[h]ernach",
+      "attribute": "oldest surviving native Irish history"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Annals of Tig[h]ernach'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Record the Annals of Tighernach.",
+    "key_results": [
+      "Date the work to the time of Tigernach.",
+      "Name the monastery that kept them.",
+      "Say where the text now rests."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Annals of Tig[h]ernach'"
+  }
+}
