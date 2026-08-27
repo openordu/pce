@@ -1,0 +1,51 @@
+{
+  "name": "Bracan",
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "text": "Bracan also appears in the old books under the spelling Bracann. The name stands as an alternate title for a father of Muirene, the woman who gave the figure his descendant. She herself is known as the mother of Finn mac Cumhaill in the tales. Yet Tadag is the title people reach for more often when they speak of him.",
+  "entities": [
+    {
+      "entity": "Bracan",
+      "type": "Person"
+    },
+    {
+      "entity": "Muirene",
+      "type": "Person"
+    },
+    {
+      "entity": "Tadag",
+      "type": "Person"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Bracan",
+      "attribute": "has an alternate spelling Bracann"
+    },
+    {
+      "entity": "Bracan",
+      "attribute": "serves as another name for the father of Muirene"
+    },
+    {
+      "entity": "Muirene",
+      "attribute": "mother of Finn mac Cumhaill"
+    },
+    {
+      "entity": "Tadag",
+      "attribute": "the more usual name for the same father"
+    }
+  ],
+  "okr": {
+    "objective": "Provide a short note telling that Bracan is an alternate name.",
+    "key_results": [
+      "Bracan has the alternate spelling Bracann.",
+      "Bracan names the father of Muirene.",
+      "Tadag is the more usual name."
+    ],
+    "evidence": "MacKillop 2008, s.v. Bracan."
+  },
+  "sources": [
+    "MacKillop 2008, s.v. Bracan."
+  ]
+}

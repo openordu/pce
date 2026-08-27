@@ -1,0 +1,47 @@
+{
+  "name": "Braciaca",
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "text": "Braciaca is a god of Roman Britain and one only dimly known. The sole record carried for it is a carved inscription at Haddon House beyond the town of Derbyshire. The wording suggests a link to the Welsh word that means malt. No wider story of this deity has reached us.",
+  "entities": [
+    {
+      "entity": "Braciaca",
+      "type": "Deity"
+    },
+    {
+      "entity": "Haddon House",
+      "type": "Place"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Braciaca",
+      "attribute": "a god of Roman Britain"
+    },
+    {
+      "entity": "Braciaca",
+      "attribute": "remembered only through an inscription at Haddon House"
+    },
+    {
+      "entity": "Braciaca",
+      "attribute": "name may connect to a Welsh word for malt"
+    },
+    {
+      "entity": "Haddon House",
+      "attribute": "site in Derbyshire where the inscription lives"
+    }
+  ],
+  "okr": {
+    "objective": "Provide a short note on the obscure god Braciaca.",
+    "key_results": [
+      "Braciaca is a god of Roman Britain.",
+      "Braciaca is known only from an inscription at Haddon House.",
+      "The name may connect to a Welsh word for malt."
+    ],
+    "evidence": "MacKillop 2008, s.v. Braciaca."
+  },
+  "sources": [
+    "MacKillop 2008, s.v. Braciaca."
+  ]
+}

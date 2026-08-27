@@ -1,83 +1,84 @@
 {
-    "name": "Boudicca",
-    "attributes": [
-        {
-            "entity": "Boudicca",
-            "attribute": "a heroic queen of Britain"
-        },
-        {
-            "entity": "Boudicca",
-            "attribute": "leader of the Iceni"
-        },
-        {
-            "entity": "Boudicca",
-            "attribute": "her rising against the Romans"
-        },
-        {
-            "entity": "Boudicca",
-            "attribute": "called on the goddess Andraste"
-        },
-        {
-            "entity": "Boudicca",
-            "attribute": "died by her own hand"
-        },
-        {
-            "entity": "Boudicca",
-            "attribute": "her name means the victorious woman"
-        }
-    ],
-    "entities": [
-        {
-            "entity": "Boudicca",
-            "type": "Person"
-        },
-        {
-            "entity": "Iceni",
-            "type": "Group"
-        },
-        {
-            "entity": "Andraste",
-            "type": "Deity"
-        },
-        {
-            "entity": "Anglesey",
-            "type": "Place"
-        },
-        {
-            "entity": "Britain",
-            "type": "Place"
-        },
-        {
-            "entity": "Gildas",
-            "type": "Person"
-        },
-        {
-            "entity": "Beda",
-            "type": "Person"
-        },
-        {
-            "entity": "Tacitus",
-            "type": "Person"
-        }
-    ],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.",
-        "Koch 2006, s.v. 'Boudicca'"
-    ],
-    "image": [
-        "https://upload.wikimedia.org/wikipedia/commons/b/bd/Queen_Boudica_by_John_Opie.jpg"
-    ],
-    "cyphertext": "ADusnzBPngo_RV4-MhWS0SObJSWOKrYEoyGlqe0u6C5bnWGCKG-SRZEmoj_16yyYZ-SMmcE0MsEXS6WXunVMLVW16wrG7BJBK3mPp6GUSduG2L54J9cvLTbOf_y-9D3hGwuiFBarFeqvdaxcZJGf2YMsupdhHTl4H8IXWlD2AauWPlhhYzHaT_-J4ZlRl1PFUHb8hZdNl1gp3KDlsHvefjYS2NdPMvR-RbAHWvbtFhMPWw5AZ0aNg_R-UCPEG4L7cikXB5UK80BbedXEJetHu1to5J2piT9SepX8GB1BpBU5Mo86rnXhiRUjYs1PDwArVyB7nxbatS005n6Hrb8QeNuDWheGy6t9Zd10zvw2pvHp6kYhdtvNSRo1UXKp8LjQAWQmpETJeiUmmGt6HCSVvzv41aVJTt8SF9rB3zqk3icJwKtuwSKpHLqkNiv3v6-86ybbqe-OjdFsdlTJg44xA5UODjieKbfoA4CBme-W7VTLa_YZFTeb0AU6NEK5uhWQWgGuTb7lAxdXV0bPHXsjBNu-kVPrvw9VxWK56Z5l8xmNvccqof2XVYG_5BqHbFv8ekOCSiMyaaZvahaQGnBhSHlxixKyCc2z4cSWBcTBVeHsCxZaBlZQA5nHBPwtyDUyFSTHp3a2Q9MyHNYt1Np4H5CeaeCpPGSrPbSdwkH3Gx0anilnT7aOCv4uAnMP8BgX4BpJcSimJ5CqMfVYbEqQ8ATCw65epleFiOW1zyYvkbdy8hAHI4kxNDARACL14XqqAYAUaKRD61CAop1z6JX-WSz7rRCzNkWlCsz2m4NK18H8E3TZPFDHAvOZC6d9C9NTOWarBi4AfnwHL3GBixMqertsBjWumwxi-S0nAzZU6xNVDxUQ262wgWNpn2UYmm8YEh540KYzz3sAIt2Yt71PC2v31vX2ETtyAzGN7LhZg4JUYiScCg==",
-    "salt": "O2n9HcjFFAjWirY-HGZY3Q==",
-    "text": "Boudicca is a queen of the Iceni in the south-east of Britain. After the loss of her family and the wrongs she suffered, she rose against Roman power. She summoned the war goddess Andraste at her last hour. The rising did not hold, and she took her own life. The name Boudicca is Celtic and means the victorious woman. The common spelling Boadicea rests on no certain ancient source. The Welsh form of the name is Buddug. Gildas knew of her revolt but did not name her, calling her only the lioness. Beda and Geoffrey of Monmouth do not speak of her.",
-    "okr": {
-        "objective": "Describe Boudicca, the Iceni queen who rose against Rome.",
-        "key_results": [
-            "She ruled the Iceni in south-east Britain.",
-            "She rose after the ruin of her family, calling on Andraste.",
-            "The name Boudicca means the victorious woman, the Welsh form being Buddug.",
-            "Gildas names her only the lioness; Beda and Geoffrey of Monmouth omit her."
-        ],
-        "evidence": "Koch 2006, s.v. 'Boudicca'; Monaghan 2008, s.v. 'Boudicca'."
+  "name": "Boudicca",
+  "attributes": [
+    {
+      "entity": "Boudicca",
+      "attribute": "a heroic queen of Britain"
+    },
+    {
+      "entity": "Boudicca",
+      "attribute": "leader of the Iceni"
+    },
+    {
+      "entity": "Boudicca",
+      "attribute": "her rising against the Romans"
+    },
+    {
+      "entity": "Boudicca",
+      "attribute": "called on the goddess Andraste"
+    },
+    {
+      "entity": "Boudicca",
+      "attribute": "died by her own hand"
+    },
+    {
+      "entity": "Boudicca",
+      "attribute": "her name means the victorious woman"
     }
+  ],
+  "entities": [
+    {
+      "entity": "Boudicca",
+      "type": "Person"
+    },
+    {
+      "entity": "Iceni",
+      "type": "Group"
+    },
+    {
+      "entity": "Andraste",
+      "type": "Deity"
+    },
+    {
+      "entity": "Anglesey",
+      "type": "Place"
+    },
+    {
+      "entity": "Britain",
+      "type": "Place"
+    },
+    {
+      "entity": "Gildas",
+      "type": "Person"
+    },
+    {
+      "entity": "Beda",
+      "type": "Person"
+    },
+    {
+      "entity": "Tacitus",
+      "type": "Person"
+    }
+  ],
+  "sources": [
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.",
+    "Koch 2006, s.v. 'Boudicca'",
+    "MacKillop 2008, s.v. 'Boudicca'."
+  ],
+  "image": [
+    "https://upload.wikimedia.org/wikipedia/commons/b/bd/Queen_Boudica_by_John_Opie.jpg"
+  ],
+  "cyphertext": "ADusnzBPngo_RV4-MhWS0SObJSWOKrYEoyGlqe0u6C5bnWGCKG-SRZEmoj_16yyYZ-SMmcE0MsEXS6WXunVMLVW16wrG7BJBK3mPp6GUSduG2L54J9cvLTbOf_y-9D3hGwuiFBarFeqvdaxcZJGf2YMsupdhHTl4H8IXWlD2AauWPlhhYzHaT_-J4ZlRl1PFUHb8hZdNl1gp3KDlsHvefjYS2NdPMvR-RbAHWvbtFhMPWw5AZ0aNg_R-UCPEG4L7cikXB5UK80BbedXEJetHu1to5J2piT9SepX8GB1BpBU5Mo86rnXhiRUjYs1PDwArVyB7nxbatS005n6Hrb8QeNuDWheGy6t9Zd10zvw2pvHp6kYhdtvNSRo1UXKp8LjQAWQmpETJeiUmmGt6HCSVvzv41aVJTt8SF9rB3zqk3icJwKtuwSKpHLqkNiv3v6-86ybbqe-OjdFsdlTJg44xA5UODjieKbfoA4CBme-W7VTLa_YZFTeb0AU6NEK5uhWQWgGuTb7lAxdXV0bPHXsjBNu-kVPrvw9VxWK56Z5l8xmNvccqof2XVYG_5BqHbFv8ekOCSiMyaaZvahaQGnBhSHlxixKyCc2z4cSWBcTBVeHsCxZaBlZQA5nHBPwtyDUyFSTHp3a2Q9MyHNYt1Np4H5CeaeCpPGSrPbSdwkH3Gx0anilnT7aOCv4uAnMP8BgX4BpJcSimJ5CqMfVYbEqQ8ATCw65epleFiOW1zyYvkbdy8hAHI4kxNDARACL14XqqAYAUaKRD61CAop1z6JX-WSz7rRCzNkWlCsz2m4NK18H8E3TZPFDHAvOZC6d9C9NTOWarBi4AfnwHL3GBixMqertsBjWumwxi-S0nAzZU6xNVDxUQ262wgWNpn2UYmm8YEh540KYzz3sAIt2Yt71PC2v31vX2ETtyAzGN7LhZg4JUYiScCg==",
+  "salt": "O2n9HcjFFAjWirY-HGZY3Q==",
+  "text": "Boudicca was a queen of the English tribe the Iceni. She lived in the east of Britain during the Roman conquest. Writers described her as tall, with a mass of red hair. In Roman eyes she seemed almost a giantess. When her husband Prasutagus died, the Romans seized his lands and beat the queen. They also ill-treated her daughters. Maddened and eager for revenge, she raised the Iceni and the neighbouring Trinobantes against Rome. Her forces burned Camulodunum, behind the town of Colchester, and the city of Londinium, now London. Defeated at last, she took poison to avoid capture. Just before death she called on the goddess Andraste. Her rising happened near the year 61. Legend so covered her that a separate figure, the wonderful Boadicea, grew around the same name. John Fletcher made her story a play. William Cowper made it a ballad. Tennyson made it a poem, and Henry Treece a popular novel. The goddess of the war was her last plea.",
+  "okr": {
+    "objective": "Describe Boudicca, the Iceni queen who rose against Rome.",
+    "key_results": [
+      "She ruled the Iceni in south-east Britain.",
+      "She rose after the ruin of her family, calling on Andraste.",
+      "The name Boudicca means the victorious woman, the Welsh form being Buddug.",
+      "Gildas names her only the lioness; Beda and Geoffrey of Monmouth omit her."
+    ],
+    "evidence": "Koch 2006, s.v. 'Boudicca'; Monaghan 2008, s.v. 'Boudicca'."
+  }
 }

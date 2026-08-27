@@ -1,0 +1,86 @@
+{
+  "name": "Boyne River",
+  "text": "The Boyne River holds the place of principal waterway in Leinster, the eastern province of Ireland. The waters gather in the Bog of Allen inside County Kildare. They then run north, west, and east for roughly seventy miles, crossing Offaly, Westmeath, Meath, and Louth. At Drogheda the stream flows into the Irish Sea. The river draws its name from the goddess Boand, an ancient figure tied to the place. The very term may carry a sense that speaks of a white cow. Scholars have set the river beside the Bouvinda named in the Geography of Ptolemy, a work of the second century. The valley guards several of the richest archaeological fields of all Ireland. Newgrange stands there, and the Irish tales call it Brug na Boinne. Knowth and Dowth also rise within the same valley. The estuary bore the old Irish name Inber Colptha, and that inlet witnessed many heroic landings and sailings in legend. Saint Patrick lit his paschal fire on the slope at Slane. The light stood as a challenge to the pagan rites of nearby Tara. That flame is remembered as the moment that turned all Ireland toward the Christian faith.",
+  "entities": [
+    {
+      "entity": "Boyne River",
+      "type": "Place"
+    },
+    {
+      "entity": "Leinster",
+      "type": "Place"
+    },
+    {
+      "entity": "Boand",
+      "type": "Deity"
+    },
+    {
+      "entity": "Bog of Allen",
+      "type": "Place"
+    },
+    {
+      "entity": "Newgrange",
+      "type": "Place"
+    },
+    {
+      "entity": "Knowth",
+      "type": "Place"
+    },
+    {
+      "entity": "Dowth",
+      "type": "Place"
+    },
+    {
+      "entity": "Inber Colptha",
+      "type": "Place"
+    },
+    {
+      "entity": "Patrick",
+      "type": "Person"
+    },
+    {
+      "entity": "Tara",
+      "type": "Place"
+    }
+  ],
+  "attributes": [
+    {
+      "name": "province",
+      "value": "Leinster"
+    },
+    {
+      "name": "named_for",
+      "value": "Boand"
+    },
+    {
+      "name": "length",
+      "value": "70 miles"
+    },
+    {
+      "name": "source",
+      "value": "Bog of Allen"
+    },
+    {
+      "name": "mouth",
+      "value": "Irish Sea at Drogheda"
+    },
+    {
+      "name": "language_association",
+      "value": "Irish"
+    }
+  ],
+  "okr": {
+    "objective": "Record the Boyne River as MacKillop and early Irish tradition describe it.",
+    "key_results": [
+      "Mention the goddess Boand who gives the river its name",
+      "List the archaeological sites that enrich the valley"
+    ],
+    "evidence": "MacKillop 2008, s.v. Boyne River"
+  },
+  "sources": [
+    "MacKillop 2008, s.v. \"Boyne River\"."
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": ""
+}

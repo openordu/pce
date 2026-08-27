@@ -2,7 +2,7 @@
 layout: layouts/pce.njk
 title: Boudicca
 icon: file-lines
-order: 331
+order: 311
 contributors: [ 'Christopher Godwin' ]
 attributes:
   - Boudicca a heroic queen of Britain
@@ -12,10 +12,10 @@ attributes:
   - Boudicca died by her own hand
   - Boudicca her name means the victorious woman
 categories:
-  - Person
   - Deity
-  - Place
+  - Person
   - Group
+  - Place
 entities:
   - Boudicca(Person)
   - Iceni(Group)
@@ -37,7 +37,7 @@ tags:
 ---
 ``` tab [group1:Info]
 ::: magazinestyle
-Boudicca is a queen of the Iceni in the south-east of Britain. After the loss of her family and the wrongs she suffered, she rose against Roman power. She summoned the war goddess Andraste at her last hour. The rising did not hold, and she took her own life. The name Boudicca is Celtic and means the victorious woman. The common spelling Boadicea rests on no certain ancient source. The Welsh form of the name is Buddug. Gildas knew of her revolt but did not name her, calling her only the lioness. Beda and Geoffrey of Monmouth do not speak of her.
+Boudicca was a queen of the English tribe the Iceni. She lived in the east of Britain during the Roman conquest. Writers described her as tall, with a mass of red hair. In Roman eyes she seemed almost a giantess. When her husband Prasutagus died, the Romans seized his lands and beat the queen. They also ill-treated her daughters. Maddened and eager for revenge, she raised the Iceni and the neighbouring Trinobantes against Rome. Her forces burned Camulodunum, behind the town of Colchester, and the city of Londinium, now London. Defeated at last, she took poison to avoid capture. Just before death she called on the goddess Andraste. Her rising happened near the year 61. Legend so covered her that a separate figure, the wonderful Boadicea, grew around the same name. John Fletcher made her story a play. William Cowper made it a ballad. Tennyson made it a poem, and Henry Treece a popular novel. The goddess of the war was her last plea.
 
 :::
 ```
@@ -62,5 +62,6 @@ Boudicca is a queen of the Iceni in the south-east of Britain. After the loss of
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 - Koch 2006, s.v. 'Boudicca'
+- MacKillop 2008, s.v. 'Boudicca'.
 ```
 ![Boudicca Image](https://upload.wikimedia.org/wikipedia/commons/b/bd/Queen_Boudica_by_John_Opie.jpg)
