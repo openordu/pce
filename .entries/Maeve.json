@@ -1,48 +1,62 @@
 {
-  "name": "Maeve",
-  "attributes": [
-    {
-      "entity": "Maeve",
-      "attribute": "a cross-reference entry that points to the article on Medb"
-    },
-    {
-      "entity": "Medb",
-      "attribute": "the queen also spelled Medbh or Medhbh to whom the Maeve entry directs the reader"
-    }
-  ],
-  "entities": [
-    {
-      "entity": "Maeve",
-      "type": "Person"
-    },
-    {
-      "entity": "Medb",
-      "type": "Person"
-    },
-    {
-      "entity": "Medbh",
-      "type": "Person"
-    }
-  ],
-  "sources": [
-    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-  ],
-  "image": [
-    "https://upload.wikimedia.org/wikipedia/commons/6/63/Maeve%26druid.jpg"
-  ],
-  "cyphertext": "ehvkBa7SF-kVvxmLeJdw3IJbh8WNpUj9gEJr9IIBoqRHwOiOghU0k9bKGpU=",
-  "salt": "Gs5Ws0oCHZOzTFRAh9uVSA==",
-  "text": "Maeve is a cross-reference entry. The Monaghan encyclopedia points the reader to the fuller article on the queen Medb, who is also spelled Medbh or Medhbh. The entry records no separate facts of its own.",
-  "okr": {
-    "objective": "Document Maeve as a cross-reference entry pointing to the queen Medb.",
-    "key_results": [
-      "Record the cross-reference to Medb.",
-      "Record the variant spellings Medbh and Medhbh.",
-      "Record that the entry carries no separate facts."
-    ],
-    "evidence": [
-      "Monaghan, P. The Encyclopedia of Celtic Mythology and Folklore (2008): Maeve entry, See Medb.",
-      "Koch, J. T. Encyclopedia of Celtic Culture (2006): no separate Maeve entry."
-    ]
+ "name": "Maeve",
+ "image": [
+  "https://upload.wikimedia.org/wikipedia/commons/6/63/Maeve%26druid.jpg"
+ ],
+ "cyphertext": "ehvkBa7SF-kVvxmLeJdw3IJbh8WNpUj9gEJr9IIBoqRHwOiOghU0k9bKGpU=",
+ "salt": "Gs5Ws0oCHZOzTFRAh9uVSA==",
+ "text": "Maeve is the common English spelling of the queen Medb. Medb was the warrior-queen of Connacht and a leading lord of the Irish hero cycle of Ulster. The old queens and the old gods flow into her portrait. She is the most full-bodied character that the early authors put forward. Her seat stood at the widening fortress of Cruachain. In telling she could outrun any horse, and the glance of her cost two men their strength. She led the cattle raid that is the longest of the old tales, and she stood at the heart of the action. Her speakers call her queen of the fair head and queen of the night. Her power grew out of her when she wed a spirit of the sun. The age of the tales shaped her many times, and the poets keep her vivid. Her whole story is a lesson in early Irish kingship, and every telling sets her name as the queen of the west.",
+ "entities": [
+  {
+   "entity": "Maeve",
+   "type": "Person"
+  },
+  {
+   "entity": "Medb",
+   "type": "Person"
+  },
+  {
+   "entity": "Medbh",
+   "type": "Person"
+  },
+  {
+   "entity": "Connacht",
+   "type": "Place"
+  },
+  {
+   "entity": "Cruachain",
+   "type": "Place"
+  },
+  {
+   "entity": "Ireland",
+   "type": "Place"
   }
+ ],
+ "attributes": [
+  {
+   "entity": "Maeve",
+   "attribute": "The English spelling of the queen Medb"
+  },
+  {
+   "entity": "Medb",
+   "attribute": "The warrior-queen of Connacht"
+  },
+  {
+   "entity": "Cruachain",
+   "attribute": "The royal seat of the queen of the west"
+  }
+ ],
+ "sources": [
+  "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. 2008.",
+  "MacKillop 2008, s.v. \"Maeve\""
+ ],
+ "okr": {
+  "objective": "Document Maeve as the spelling of the queen Medb of Connacht.",
+  "key_results": [
+   "Record Maeve as the English form of Medb.",
+   "Record the queen of Connacht and her seat.",
+   "Record her place in the cattle tale of Ulster."
+  ],
+  "evidence": "Monaghan and MacKillop 2008 record the queen and her name."
+ }
 }

@@ -1,19 +1,8 @@
 {
  "name": "Luxovius",
- "attributes": [
-  {
-   "entity": "Luxovius",
-   "attribute": "a god of the Celtic mainland"
-  },
-  {
-   "entity": "Luxovius",
-   "attribute": "known from one inscription at a healing spring"
-  },
-  {
-   "entity": "Luxovius",
-   "attribute": "a god of the spring and its healing water"
-  }
- ],
+ "cyphertext": "xo0gKiw6Zzic8RJSArpAyfno2wkZKXfQGIFP4X8IKC91W7wqBx1bOv66zSEs0SHX7kWfJ_nRvPjovXsPGYfh2Z0aqXR4q1NKsWPjEmkiplFHKK1vpKN0Y7lSs59H3h91oz_80rKj26pl5G1NB97BXw8jzewXsGi2Hn0UuWWwrAKACtYbKQO9VgMdjn6_lnzYqn35veWTLBjO1msYFNnGwVkyZwiSGv5JQp5leHpNcSuP9cEhSBsb-0LoSsCcXzmG5gRdWuuGmtm_4qsd35DRjf4VC3V5vwFM6NJiriYufqM8l3cgHdjDkLqqws5lTvlVlyQNmYqtWQDw",
+ "salt": "D5qYcfJUyIh6d3TDKb5KYg==",
+ "text": "Luxovius is a Continental god of the ancient Celts. His Latin name holds the root for light. Scholars know him from a single holy place, the warm springs of Luxeuil in the east of France. This site lies in the Saone valley. By his name and his place, he seems to bind the meaning of light to that of water. He served a cult that linked the two symbols. The shrine stood at the warm spring, and people prayed there for the healing the waters could bring. His consort is the goddess Brixia, also written Bricta. The same holy place yields evidence of the worship of Sirona, another deity of healing springs. A sky horseman carrying a solar wheel appears in the art found on the site. That horseman rounds out the deities honored at this one center of worship.",
  "entities": [
   {
    "entity": "Luxovius",
@@ -22,21 +11,50 @@
   {
    "entity": "healing spring",
    "type": "Place"
+  },
+  {
+   "entity": "Brixia",
+   "type": "Deity"
+  },
+  {
+   "entity": "Bricta",
+   "type": "Deity"
+  }
+ ],
+ "attributes": [
+  {
+   "entity": "Luxovius",
+   "attribute": "a god of the mainland Celts"
+  },
+  {
+   "entity": "Luxovius",
+   "attribute": "known from one inscription at a healing spring"
+  },
+  {
+   "entity": "Luxovius",
+   "attribute": "binds the symbolism of light and water"
+  },
+  {
+   "entity": "Brixia",
+   "attribute": "the consort of Luxovius, also written Bricta"
+  },
+  {
+   "entity": "Sirona",
+   "attribute": "a sharing female deity of healing springs honored at Luxeuil"
   }
  ],
  "sources": [
-  "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+  "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.",
+  "MacKillop 2008, s.v. 'Luxovius'"
  ],
- "cyphertext": "xo0gKiw6Zzic8RJSArpAyfno2wkZKXfQGIFP4X8IKC91W7wqBx1bOv66zSEs0SHX7kWfJ_nRvPjovXsPGYfh2Z0aqXR4q1NKsWPjEmkiplFHKK1vpKN0Y7lSs59H3h91oz_80rKj26pl5G1NB97BXw8jzewXsGi2Hn0UuWWwrAKACtYbKQO9VgMdjn6_lnzYqn35veWTLBjO1msYFNnGwVkyZwiSGv5JQp5leHpNcSuP9cEhSBsb-0LoSsCcXzmG5gRdWuuGmtm_4qsd35DRjf4VC3V5vwFM6NJiriYufqM8l3cgHdjDkLqqws5lTvlVlyQNmYqtWQDw",
- "salt": "D5qYcfJUyIh6d3TDKb5KYg==",
- "text": "Luxovius is a god of the mainland Celts. He is known from one inscription in France. The inscription stands at a healing spring in the east of the country. The spring was held to heal the sick who came to it. Only that one record of him survives.",
  "okr": {
   "objective": "Record the god Luxovius from the inscription that names him.",
   "key_results": [
-   "Luxovius was a god of the mainland Celts",
-   "One inscription at a healing spring survives",
-   "The spring lay in eastern France"
+   "Record Luxovius as a god of the mainland Celts",
+   "Record the thermal spring at Luxeuil as his only known site",
+   "Record his binding of light and water though the name",
+   "Record his consort Brixia or Bricta and the goddess Sirona"
   ],
-  "evidence": "Monaghan, The Encyclopedia of Celtic Mythology and Folklore, 2003."
+  "evidence": "MacKillop 2008, s.v. 'Luxovius'"
  }
 }
