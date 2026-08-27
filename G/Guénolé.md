@@ -2,68 +2,57 @@
 layout: layouts/pce.njk
 title: Guénolé
 icon: file-lines
-order: 1161
+order: 0
 contributors: [ 'Christopher Godwin' ]
 attributes:
-  - Guénolé Breton hero
-  - Guénole Breton Saint
-  - Ys beautiful doomed city
-  - Dahut pagan princess
-  - Gradlon Dahut's father
-  - sea connected with
-  - sea god ancient
-  - Christian morality intrusion into Celtic culture
+  - Guénolé Breton saint and abbot of Ys
+  - Gradlon saved as the city sank
+  - Ys a lost city of the sea
+  - Dahut the daughter of Gradlon
+  - sea god an old power like him
 categories:
-  - princess
-  - father
-  - religion
-  - city
-  - mythology
-  - Breton Saint
-  - Breton hero
+  - Deity
+  - Person
+  - Place
+  - Concept
 entities:
-  - Guénolé(Breton hero)
-  - Guénole(Breton Saint)
-  - Ys(city)
-  - Dahut(princess)
-  - Gradlon(father)
-  - Celtic myth(mythology)
-  - Christianity(religion)
+  - Guénolé(Person)
+  - Ys(Place)
+  - Dahut(Person)
+  - Gradlon(Person)
+  - sea god(Deity)
+  - Christianity(Concept)
 tags:
   - Guénolé
-  - Guénole
   - Ys
   - Dahut
   - Gradlon
-  - Celtic myth
+  - sea god
   - Christianity
 ---
 ``` tab [group1:Info]
 ::: magazinestyle
-Breton hero Guénolé, also known as Guénole, Gwénnolé, or Winwaloe, is remembered as the abbot of Ys - the doomed city of pagan princess Dahut. Despite saving Dahut's father, Gradlon, Guénolé condemned Dahut to her death beneath the waves of the sea. Figures like Guénolé were introduced into Celtic mythology with the arrival of Christianity and are sometimes rooted in ancient elemental divinity, which was later transformed and humanized. As Guénolé is closely tied with the sea, some suggest that he may have taken on certain characteristics of an ancient sea god. Conversely, he may represent the influence of Christian morality on Celtic culture.
+Guénolé is a virtuous holy man of the Breton city of Ys. Like the prophet Jeremiah, he tried to reform the sinful Dahut, also called Ahes. The city of Ys sank beneath the sea when its people would not change their ways. Guénolé called on the people to turn from their evil lives. When the flood came he saved the king, Gradlon, from the waters. The saint warned the king to cast away what he carried or he too would drown. The story of Ys and its ruin is one of the great legends of Brittany. MacKillop records Guénolé's part in the tale of the doomed city.
 
 :::
 ```
 ``` tab [group1:Attributes]
-- **Guénolé**: Breton hero
-- **Guénole**: Breton Saint
-- **Ys**: beautiful doomed city
-- **Dahut**: pagan princess
-- **Gradlon**: Dahut's father
-- **sea**: connected with
-- **sea god**: ancient
-- **Christian morality**: intrusion into Celtic culture
+- **Guénolé**: Breton saint and abbot of Ys
+- **Gradlon**: saved as the city sank
+- **Ys**: a lost city of the sea
+- **Dahut**: the daughter of Gradlon
+- **sea god**: an old power like him
 ```
 ``` tab [group1:Entities]
-- **Guénolé**: Breton hero
-- **Guénole**: Breton Saint
-- **Ys**: city
-- **Dahut**: princess
-- **Gradlon**: father
-- **Celtic myth**: mythology
-- **Christianity**: religion
+- **Guénolé**: Person
+- **Ys**: Place
+- **Dahut**: Person
+- **Gradlon**: Person
+- **sea god**: Deity
+- **Christianity**: Concept
 ```
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
+- MacKillop 2008, s.v. 'Guénolé'
 ```
 ![Guénolé Image](https://upload.wikimedia.org/wikipedia/commons/6/62/Saint_Gu%C3%A9nol%C3%A9_%28d%27apr%C3%A8s_le_buste_en_argent_du_reliquaire_de_Locqu%C3%A9nol%C3%A9%29.jpg)

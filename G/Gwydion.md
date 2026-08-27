@@ -2,60 +2,76 @@
 layout: layouts/pce.njk
 title: Gwydion
 icon: file-lines
-order: 1185
+order: 0
 contributors: [ 'Christopher Godwin' ]
 attributes:
-  - magician occupation
-  - poet occupation
-  - trickster occupation
-  - Welsh god origin
-  - stars location
-  - Milky Way location
-  - underworld of Annwn location
+  - Gwydion A Welsh hero, the son of the mother goddess Dôn.
+  - Gwydion He is central to the Mabinogion.
+  - Gwydion He helped his brother Gilfaethwy rape Goewin.
+  - Gwydion King Math turned the brothers into deer, pigs, and wolves.
+  - Gwydion He tricked Arianrhod into naming his son Lleu Llaw Gyffes.
+  - Gwydion He shaped Blodeuwedd from flowers as a bride for Lleu.
+  - Gwydion He restored Lleu and turned Blodeuwedd into an owl.
+  - Gwydion Some call him a shrunken form of an earlier sky god who ruled the stars and Annwn.
 categories:
-  - Object
-  - Place
+  - Title
+  - Deity
   - Person
+  - Place
 entities:
-  - Otherworld of Annwn(Place)
-  - text(Object)
-  - magical swine(Object)
-  - Welsh god(Person)
-  - Milky Way(Place)
-  - underworld of Annwn(Place)
+  - Gwydion(Deity)
+  - Dôn(Deity)
+  - Mabinogion(Title)
+  - Gilfaethwy(Person)
+  - Math(Person)
+  - Arianrhod(Person)
+  - Goewin(Person)
+  - Lleu Llaw Gyffes(Person)
+  - Blodeuwedd(Person)
+  - Annwn(Place)
 tags:
-  - Otherworld of Annwn
-  - text
-  - magical swine
-  - Welsh god
-  - Milky Way
-  - underworld of Annwn
+  - Gwydion
+  - Dôn
+  - Mabinogion
+  - Gilfaethwy
+  - Math
+  - Arianrhod
+  - Goewin
+  - Lleu Llaw Gyffes
+  - Blodeuwedd
+  - Annwn
 ---
 ``` tab [group1:Info]
 ::: magazinestyle
-Welsh hero Gwydion (Gwidion, Gwydion ab Dôn) is a significant figure in the Mabinogion, a compilation of Welsh myths. Despite the centrality of his role, Gwydion plays a supporting role to his more active brother Gilfaethwy, uncle Math, and sister Arianrhod. When Gilfaethwy became infatuated with the virgin footholder of king Math, Goewin, Gwydion aided him in raping her. As punishment, Math transformed the brothers successively into Deer, Pigs and Wolves, and then back to their human forms. Gwydion suggested that Arianrhod, instead of the deflowered Goewin, become the footholder to King Math. But Arianrhod failed a magical virginity test, leading her to give birth to an ill-formed child that Gwydion gloomily nursed to health. Angered by Gwydion's manipulation, Arianrhod refused to name the child but was later tricked into bestowing upon him the name Lleu Llaw Gyffes. With the help of Math, Gwydion created a woman called Blodeuwedd out of flowers to be Lleu's bride. However, this union ends terribly with Blodeuwedd attempting to murder Lleu who turns into an Eagle. Then, with the help of Magic, Gwydion restores Lleu to human form and sends Blodeuwedd away as an Owl. Other tales recall Gwydion changing fungus into horses and creating seagoing ships from thin air. Imprisoned in the Otherworld, he attained the status of a Bard and came to be known as Gwion. His inspiration in the realm of Annwn may have resulted in more than his poetic prowess, as an account mentions him stealing magical swine and bringing them to the world above. This being encompasses the traits of a magician, poet, and trickster, and is considered a lesser form of a previous deity in Welsh mythology who presided over the stars, residing in Caer Gwydion in the Milky Way, as well as the underworld of Annwn.
+Gwydion is a master sorcerer who drives the action of the story. He comes from the family of Don and is the brother of Gilfaethwy. His uncle Math, a ruler, lends his name to the branch of the tale. By craft he sets Math and Pryderi at war with one another. His trick lets Gilfaethwy sleep with Goewin, who attends Math. On learning this Math punishes both brothers by changing their forms. In turn they become a stag and a hind, then a boar and a sow. Finally they are wolves, a male and a female, before they return to human shape. Later Gwydion builds a woman from blossoms for Lleu Llaw Gyffes. That woman is Blodeuwedd, and Lleu may be Gwydion's own child. In the Battle of the Trees he brings the trees to life as fighters. He is also a brother to Arianrhod and a father to three sons.
 
 :::
 ```
 ``` tab [group1:Attributes]
-- **magician**: occupation
-- **poet**: occupation
-- **trickster**: occupation
-- **Welsh god**: origin
-- **stars**: location
-- **Milky Way**: location
-- **underworld of Annwn**: location
+- **Gwydion**: A Welsh hero, the son of the mother goddess Dôn.
+- **Gwydion**: He is central to the Mabinogion.
+- **Gwydion**: He helped his brother Gilfaethwy rape Goewin.
+- **Gwydion**: King Math turned the brothers into deer, pigs, and wolves.
+- **Gwydion**: He tricked Arianrhod into naming his son Lleu Llaw Gyffes.
+- **Gwydion**: He shaped Blodeuwedd from flowers as a bride for Lleu.
+- **Gwydion**: He restored Lleu and turned Blodeuwedd into an owl.
+- **Gwydion**: Some call him a shrunken form of an earlier sky god who ruled the stars and Annwn.
 ```
 ``` tab [group1:Entities]
-- **Otherworld of Annwn**: Place
-- **text**: Object
-- **magical swine**: Object
-- **Welsh god**: Person
-- **Milky Way**: Place
-- **underworld of Annwn**: Place
+- **Gwydion**: Deity
+- **Dôn**: Deity
+- **Mabinogion**: Title
+- **Gilfaethwy**: Person
+- **Math**: Person
+- **Arianrhod**: Person
+- **Goewin**: Person
+- **Lleu Llaw Gyffes**: Person
+- **Blodeuwedd**: Person
+- **Annwn**: Place
 ```
 ``` tab [group1:Sources]
 - Evans-Wentz, W. Y. The Fairy-Faith in Celtic Countries. Gerrards Cross: Colin Smythe Humanities Press, 1911, 378.
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
+- MacKillop 2008, s.v. 'Gwydion'
 ```
 ![Gwydion Image](https://upload.wikimedia.org/wikipedia/commons/8/80/Gwydion_Conquers_Pryderi.jpeg)

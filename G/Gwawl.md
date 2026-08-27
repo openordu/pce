@@ -2,51 +2,47 @@
 layout: layouts/pce.njk
 title: Gwawl
 icon: file-lines
-order: 1174
+order: 0
 contributors: [ 'Christopher Godwin' ]
 attributes:
-  - Gwawl minor character
-  - Gwawl suitor for the hand of Rhiannon
-  - Pwyll heroic king
-  - Gwawl forced Pwyll to step back from his suit
-  - Pwyll returned the favor by tricking Gwawl into crawling into a bag
-  - bag used like a football with his warriors
+  - Gwawl A minor character in the Welsh Mabinogion.
+  - Gwawl He sought the hand of Rhiannon against Pwyll.
+  - Gwawl Through trickery he made Pwyll yield in his courtship.
+  - Gwawl Pwyll tricked him into crawling into a bag used like a football.
 categories:
-  - literary work
-  - Welsh hero
-  - goddess/queen
-  - heroic king
+  - Title
+  - Deity
+  - Person
 entities:
-  - Gwawl(Welsh hero)
-  - Welsh Mabinogion(literary work)
-  - Rhiannon(goddess/queen)
-  - Pwyll(heroic king)
+  - Gwawl(Person)
+  - Rhiannon(Deity)
+  - Pwyll(Person)
+  - Mabinogion(Title)
 tags:
   - Gwawl
-  - Welsh Mabinogion
   - Rhiannon
   - Pwyll
+  - Mabinogion
 ---
 ``` tab [group1:Info]
 ::: magazinestyle
-Welsh hero Gwawl is a figure in the Welsh Mabinogion. He competed against Pwyll, the heroic king, for the goddess/queen Rhiannon's hand. By using deception, Gwawl managed to force Pwyll to withdraw his proposal, but Pwyll got even by tricking Gwawl into entering a bag, which he utilized as a football with his troops.
+Gwawl ap Clud is a rival suitor to Rhiannon in the Mabinogi's first branch. He is the child of the goddess Clud, and his name may mean light, wall, or hedge. Though Gwawl seems slow-witted, he comes close to winning Rhiannon. Pwyll, her true suitor, takes revenge through the game of badger-in-the-bag. In that cruel game Gwawl is trapped and killed. Later the enchanter Llwyd strikes back on Gwawl's behalf. Gwawl may have come from Clydeside in the far north.
 
 :::
 ```
 ``` tab [group1:Attributes]
-- **Gwawl**: minor character
-- **Gwawl**: suitor for the hand of Rhiannon
-- **Pwyll**: heroic king
-- **Gwawl**: forced Pwyll to step back from his suit
-- **Pwyll**: returned the favor by tricking Gwawl into crawling into a bag
-- **bag**: used like a football with his warriors
+- **Gwawl**: A minor character in the Welsh Mabinogion.
+- **Gwawl**: He sought the hand of Rhiannon against Pwyll.
+- **Gwawl**: Through trickery he made Pwyll yield in his courtship.
+- **Gwawl**: Pwyll tricked him into crawling into a bag used like a football.
 ```
 ``` tab [group1:Entities]
-- **Gwawl**: Welsh hero
-- **Welsh Mabinogion**: literary work
-- **Rhiannon**: goddess/queen
-- **Pwyll**: heroic king
+- **Gwawl**: Person
+- **Rhiannon**: Deity
+- **Pwyll**: Person
+- **Mabinogion**: Title
 ```
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
+- MacKillop 2008, s.v. 'Gwawl'
 ```

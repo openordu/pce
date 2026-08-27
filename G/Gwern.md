@@ -2,64 +2,47 @@
 layout: layouts/pce.njk
 title: Gwern
 icon: file-lines
-order: 1177
+order: 0
 contributors: [ 'Christopher Godwin' ]
 attributes:
-  - Gwern named king of the land in his infancy
-  - Efnisien mutilated Matholwch’s horses without reason
-  - Gwern burning him alive
-  - Welsh heroes killed
-  - warriors of Ireland killed
+  - Gwern Child of princess Branwen and king Matholwch.
+  - Gwern Named king of Ireland in his infancy.
+  - Efnisien Mutilated Matholwch's horses without reason.
+  - Efnisien Killed Gwern by burning him alive at age three.
+  - Gwern His death provoked the great battle in which most Welsh heroes died.
 categories:
-  - Location
-  - Nationality
-  - Group
   - Person
 entities:
   - Gwern(Person)
-  - Welsh(Nationality)
   - Branwen(Person)
-  - Irish(Nationality)
   - Matholwch(Person)
   - Efnisien(Person)
-  - Ireland(Location)
-  - Welsh heroes(Group)
-  - warriors of Ireland(Group)
 tags:
   - Gwern
-  - Welsh
   - Branwen
-  - Irish
   - Matholwch
   - Efnisien
-  - Ireland
-  - Welsh heroes
-  - warriors of Ireland
 ---
 ``` tab [group1:Info]
 ::: magazinestyle
-The infant king of Ireland, Gwern, was born to Branwen, a Welsh princess, and her Irish husband, king Matholwch. Sadly, his life was cut short when his uncle Efnisien, without provocation, destroyed Matholwch’s horses, leading to Branwen's imprisonment in Ireland. Gwern was named king of the land in his infancy by his mother. However, at the tender age of three, Efnisien burnt Gwern alive, resulting in a great battle that claimed the lives of most Welsh heroes and all warrior of Ireland.
+Gwern is the son of Branwen and Matholwch in the Mabinogi. His name may relate to the Welsh word for the alder tree. Branwen, a Welsh princess, wed Matholwch, the king of Ireland. Their child Gwern carried the hope of peace between the two peoples. The destructive Efnisien loathed the match and the child. At a feast Efnisien hurled the young Gwern into the fire. The boy died, and the peace between Wales and Ireland broke at once. A bitter, ruinous war followed between the two courts. The tale marks Gwern only briefly, yet his death sets the disaster in motion.
 
 :::
 ```
 ``` tab [group1:Attributes]
-- **Gwern**: named king of the land in his infancy
-- **Efnisien**: mutilated Matholwch’s horses without reason
-- **Gwern**: burning him alive
-- **Welsh heroes**: killed
-- **warriors of Ireland**: killed
+- **Gwern**: Child of princess Branwen and king Matholwch.
+- **Gwern**: Named king of Ireland in his infancy.
+- **Efnisien**: Mutilated Matholwch's horses without reason.
+- **Efnisien**: Killed Gwern by burning him alive at age three.
+- **Gwern**: His death provoked the great battle in which most Welsh heroes died.
 ```
 ``` tab [group1:Entities]
 - **Gwern**: Person
-- **Welsh**: Nationality
 - **Branwen**: Person
-- **Irish**: Nationality
 - **Matholwch**: Person
 - **Efnisien**: Person
-- **Ireland**: Location
-- **Welsh heroes**: Group
-- **warriors of Ireland**: Group
 ```
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
+- MacKillop 2008, s.v. 'Gwern'
 ```

@@ -2,89 +2,44 @@
 layout: layouts/pce.njk
 title: Lindow Man
 icon: file-lines
-order: 1439
+order: 0
 contributors: [ 'Christopher Godwin' ]
 attributes:
-  - Lindow Man Archaeological find
-  - Bog near the British town of Lindow
-  - human body preserved by the bog’s tannic water
-  - Human Sacrifice who had suffered the Threefold Death of Irish legend
-  - ancient times died in
-  - offense some
-  - offering to remove famine or plague
-  - significant research given rise to
+  - Lindow Man a bog body found near Lindow town in Britain
+  - Lindow Man died the threefold death of Irish legend
+  - threefold death a Celtic rite of a triple way of dying
 categories:
-  - Location
-  - Archaeological find
+  - Place
   - Concept
-  - Date
-  - Time period
-  - Culture
+  - Being
 entities:
-  - Lindow Man(Archaeological find)
-  - Bog(Location)
-  - British town of Lindow(Location)
-  - Celtic(Culture)
-  - 1984(Date)
-  - Human Sacrifice(Concept)
-  - Threefold Death(Concept)
-  - Irish(Culture)
-  - ancient times(Time period)
-  - offense(Concept)
-  - offering(Concept)
-  - famine(Concept)
-  - plague(Concept)
-  - significant research(Concept)
+  - Lindow Man(Being)
+  - Lindow(Place)
+  - threefold death(Concept)
 tags:
   - Lindow Man
-  - Bog
-  - British town of Lindow
-  - Celtic
-  - 1984
-  - Human Sacrifice
-  - Threefold Death
-  - Irish
-  - ancient times
-  - offense
-  - offering
-  - famine
-  - plague
-  - significant research
+  - Lindow
+  - threefold death
 ---
 ``` tab [group1:Info]
 ::: magazinestyle
-Archaeologists discovered a crucial and perplexing Celtic artifact in 1984 called the Lindow Man. Located in a bog close to the town of Lindow in Britain, it was the well-preserved body of a human believed to be a victim of the Threefold Death of Irish mythology. The bog's tannic water contributed to its conservation. It cannot be determined if this man had violated a law of his time or was offered to alleviate famine or plague, but the discovery provoked extensive inquiry.
+Lindow Man is the name given to a body found in a peat bog. The find took place on 1 August 1984 at Lindow Moss in Cheshire, England. The body is that of a man of the fourth century before Christ. He was well-born, for his nails were manicured. He is read as a human sacrificial victim. The wet peat preserved his flesh well. Scientists could study his final meal. His stomach held mistletoe pollen. It also held oatcakes that had been burnt and eaten shortly before his death. His manner of death was violent. His throat was cut. He was also bludgeoned, strangled, and drowned. This pattern is called the threefold death. Learned opinion does not treat the death as a simple execution. Scholars favour a reading of sacrifice. The victim may have been offered to more than one god. The likely gods are Esus, Taranis, and Teutates, known in Celtic Gaul. Lindow Man is the clearest real artifact of Celtic sacrificial practice. He keeps the old world of iron-age belief close and concrete. The mistletoe in his body links him to the druids, who held the plant sacred in winter rites. His death may mark a king who gave himself for the safety of his people in a hard year. The find remains the most celebrated bog body in Britain and a clear window into iron-age religion. His body, laid in the dark peat, still speaks of a world that gave its best to its gods.
 
 :::
 ```
 ``` tab [group1:Attributes]
-- **Lindow Man**: Archaeological find
-- **Bog**: near the British town of Lindow
-- **human body**: preserved by the bog’s tannic water
-- **Human Sacrifice**: who had suffered the Threefold Death of Irish legend
-- **ancient times**: died in
-- **offense**: some
-- **offering**: to remove famine or plague
-- **significant research**: given rise to
+- **Lindow Man**: a bog body found near Lindow town in Britain
+- **Lindow Man**: died the threefold death of Irish legend
+- **threefold death**: a Celtic rite of a triple way of dying
 ```
 ``` tab [group1:Entities]
-- **Lindow Man**: Archaeological find
-- **Bog**: Location
-- **British town of Lindow**: Location
-- **Celtic**: Culture
-- **1984**: Date
-- **Human Sacrifice**: Concept
-- **Threefold Death**: Concept
-- **Irish**: Culture
-- **ancient times**: Time period
-- **offense**: Concept
-- **offering**: Concept
-- **famine**: Concept
-- **plague**: Concept
-- **significant research**: Concept
+- **Lindow Man**: Being
+- **Lindow**: Place
+- **threefold death**: Concept
 ```
 ``` tab [group1:Sources]
 - Ross, Anne. “Lindow Man and the Celtic Tradition.” In The Lindow Man: The Body in the Bog, edited by I. M. Stead, J. B. Bourke, and Don Brothwell, 162–169. Ithaca, N.Y.: Cornell University Press, 1986.
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
+- MacKillop 2008, s.v. 'Lindow Man'.
 ```
 ![Lindow Man Image](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Lindow_Man_1.jpg/1200px-Lindow_Man_1.jpg)

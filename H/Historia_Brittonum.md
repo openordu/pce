@@ -13,9 +13,10 @@ attributes:
   - Arthur credited in the text with twelve victorious battles
   - Gildas his De Excidio supplies the source of the city list
 categories:
-  - person
-  - figure
   - work
+  - figure
+  - person
+  - Person
   - site
 entities:
   - Historia Brittonum(work)
@@ -26,6 +27,8 @@ entities:
   - Gildas(person)
   - Urien of Rheged(figure)
   - Harley 3859(site)
+  - Nennius(Person)
+  - David Dumville(Person)
 tags:
   - Historia Brittonum
   - Merfyn
@@ -35,10 +38,14 @@ tags:
   - Gildas
   - Urien of Rheged
   - Harley 3859
+  - Nennius
+  - David Dumville
 ---
 ``` tab [group1:Info]
 ::: magazinestyle
 Historia Brittonum is a Latin text composed in Wales about the year 829. Its title means the history of the Britons. It dates itself to 796 years after Christ's Passion. The text names the fourth year of King Merfyn of Gwynedd, who ruled 825 to 844. The writer compiled a wide range of older material rather than inventing fresh prose. The work tells of the king Vortigern and the adventus Saxonum, the settling of the English on the island. It carries the legend of the boy Ambrosius, who prophesied beside a red dragon. The book survives in eight chief manuscript families that disagree in many places. A Middle Irish translation, the Lebor Bretnach, also exists. One famous copy rests in Harley 3859, written about 1100. Sections 50 to 55 hold a short Life of Patrick drawn from Irish hagiography. Section 56 lists the twelve victorious battles of Arthur. The Northern History, inside sections 57 to 65, gives Anglo-Saxon royal genealogies with notes on Brythonic kings. These notes name Cadwaladr, Oswald, and Urien of Rheged. Section 62 preserves a record of the Five Poets, naming the early singers and the bards Aneirin and Taliesin. Section 66 lists the Welsh names of twenty-eight cities of the island, each marked with the word Cair. Those civic names descend from Gildas and his own account of Britain. The closing sections, 67 to 75, catalogue wonders and local legends. The identity of the writer stays disputed. A later prologue attributes the text to a Nennius or Nennius. Modern study treats the book as anonymous in view of the collected shape of its text. The writing draws on Bede and on many links sources, yet it never names them in the open.
+
+MacKill frames the work in a few lines. This early-ninth-century history of the Britons holds in its middle chapter the tale of Arthur, who is there in the fields of the King of battles, with the record of his twelve victories set out. For a long life the codex was given to the writer, but the study of the old text has carried it from his hand. It is now taken as a weaving of loose older pieces, sets in a shape and recorded by always the one man. So the ancient chronicle lives on less as a single voice than as a plated record of the island's early past.
 
 :::
 ```
@@ -60,7 +67,10 @@ Historia Brittonum is a Latin text composed in Wales about the year 829. Its tit
 - **Gildas**: person
 - **Urien of Rheged**: figure
 - **Harley 3859**: site
+- **Nennius**: Person
+- **David Dumville**: Person
 ```
 ``` tab [group1:Sources]
 - Koch 2006, s.v. 'Historia Brittonum'
+- MacKillop 2008, s.v. 'Historia Brittonum'
 ```

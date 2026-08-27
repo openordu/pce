@@ -2,94 +2,61 @@
 layout: layouts/pce.njk
 title: Gáe Bulga
 icon: file-lines
-order: 1042
+order: 0
 contributors: [ 'Christopher Godwin' ]
 attributes:
-  - Gáe Bulga Irish mythic weapon
-  - Cúchulainn Irish hero
-  - Warrior Woman teacher of Cúchulainn
-  - Isle of Skye location of Scáthach
-  - Scáthach Warrior Woman of the Isle of Skye
-  - Gáe Bulga spear or javelin
-  - Cúchulainn bearer of Gáe Bulga
-  - Gáe Bulga could slice through flesh
-  - Cúchulainn used Gáe Bulga to kill Connla
-  - Cúchulainn used Gáe Bulga to kill Ferdiad
-  - Fir Bolg ancient mythic race of Ireland
+  - Gáe Bulga is the terrible notched spear of the Ulster Cycle
+  - Scáthach gave the spear to Cúchulainn on the Isle of Skye
+  - Gáe Bulga pierces the body at one point and opens many wounds inside
+  - Gáe Bulga was forged from the bones of a sea monster
+  - Cúchulainn slew his son Connla and his foster brother Ferdiad with the spear
+  - Gáe Bulga was cast from the sole of the foot, between the toes
 categories:
-  - mythic weapon
-  - weapon
-  - Warrior Woman
-  - hero
-  - person
-  - nationality
-  - teacher
-  - mythic race
-  - material
-  - location
+  - Artifact
+  - Person
+  - Group
+  - Place
 entities:
-  - Gáe Bulga(mythic weapon)
-  - Irish(nationality)
-  - Cúchulainn(hero)
-  - Warrior Woman(teacher)
-  - Isle of Skye(location)
-  - Scáthach(Warrior Woman)
-  - spear(weapon)
-  - javelin(weapon)
-  - flesh(material)
-  - Connla(person)
-  - Ferdiad(person)
-  - Fir Bolg(mythic race)
-  - Ireland(location)
+  - Gáe Bulga(Artifact)
+  - Cúchulainn(Person)
+  - Scáthach(Person)
+  - Isle of Skye(Place)
+  - Connla(Person)
+  - Ferdiad(Person)
+  - Fir Bolg(Group)
 tags:
   - Gáe Bulga
-  - Irish
   - Cúchulainn
-  - Warrior Woman
-  - Isle of Skye
   - Scáthach
-  - spear
-  - javelin
-  - flesh
+  - Isle of Skye
   - Connla
   - Ferdiad
   - Fir Bolg
-  - Ireland
 ---
 ``` tab [group1:Info]
 ::: magazinestyle
-A mythical weapon in Irish folklore is the Gáe Bulga (also known as Bolga or Bolg). It was bestowed upon the renowned Irish hero Cúchulainn by his teacher, the Warrior Woman, Scáthach, from the Isle of Skye. The Gáe Bulga was believed to be a type of spear or javelin, capable of slicing through flesh, which provided its bearer with a significant advantage in combat. Cúchulainn employed it to slay two of the individuals closest to his heart: his son Connla and his foster brother Ferdiad. Some experts have attributed the second component of the spear's name to the Fir Bolg, one of Ireland's ancient mythical races.
+The Gáe Bulga is the terrible notched spear of the Ulster Cycle. The hero Cuchulainn wields it, and the warrior woman Scathach gave it to him. The spear enters the body at one point and then opens many wounds within. It is deeply notched and moves with lightning speed. Old accounts say smiths drew its metal from a sea monster's bones. That sea creature died in a duel with another beast of greater size. The weapon most often appears in the hand of Cuchulainn. He used it to kill his own son Connla and his foster brother Ferdiad. Some writers connect the second part of the name to the Fir Bolg race.
 
 :::
 ```
 ``` tab [group1:Attributes]
-- **Gáe Bulga**: Irish mythic weapon
-- **Cúchulainn**: Irish hero
-- **Warrior Woman**: teacher of Cúchulainn
-- **Isle of Skye**: location of Scáthach
-- **Scáthach**: Warrior Woman of the Isle of Skye
-- **Gáe Bulga**: spear or javelin
-- **Cúchulainn**: bearer of Gáe Bulga
-- **Gáe Bulga**: could slice through flesh
-- **Cúchulainn**: used Gáe Bulga to kill Connla
-- **Cúchulainn**: used Gáe Bulga to kill Ferdiad
-- **Fir Bolg**: ancient mythic race of Ireland
+- **Gáe Bulga**: is the terrible notched spear of the Ulster Cycle
+- **Scáthach**: gave the spear to Cúchulainn on the Isle of Skye
+- **Gáe Bulga**: pierces the body at one point and opens many wounds inside
+- **Gáe Bulga**: was forged from the bones of a sea monster
+- **Cúchulainn**: slew his son Connla and his foster brother Ferdiad with the spear
+- **Gáe Bulga**: was cast from the sole of the foot, between the toes
 ```
 ``` tab [group1:Entities]
-- **Gáe Bulga**: mythic weapon
-- **Irish**: nationality
-- **Cúchulainn**: hero
-- **Warrior Woman**: teacher
-- **Isle of Skye**: location
-- **Scáthach**: Warrior Woman
-- **spear**: weapon
-- **javelin**: weapon
-- **flesh**: material
-- **Connla**: person
-- **Ferdiad**: person
-- **Fir Bolg**: mythic race
-- **Ireland**: location
+- **Gáe Bulga**: Artifact
+- **Cúchulainn**: Person
+- **Scáthach**: Person
+- **Isle of Skye**: Place
+- **Connla**: Person
+- **Ferdiad**: Person
+- **Fir Bolg**: Group
 ```
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
+- MacKillop 2008, s.v. Gáe Bulga
 ```

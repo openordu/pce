@@ -2,7 +2,7 @@
 layout: layouts/pce.njk
 title: Gundestrup Cauldron
 icon: file-lines
-order: 1196
+order: 1167
 contributors: [ 'Christopher Godwin' ]
 attributes:
   - Gundestrup Cauldron a great silver vessel
@@ -16,12 +16,12 @@ attributes:
   - carnyx a long war horn shown in the warrior plate
   - Gundestrup Cauldron holds a monster of rebirth seen in the Welsh story Branwen
 categories:
-  - Text
   - Deity
-  - Person
-  - Place
   - Group
   - Artifact
+  - Person
+  - Text
+  - Place
 entities:
   - Gundestrup Cauldron(Artifact)
   - goddess(Deity)
@@ -49,7 +49,7 @@ tags:
 ---
 ``` tab [group1:Info]
 ::: magazinestyle
-The Gundestrup Cauldron is a great silver vessel of the ancient world. Workers found it in a peat bog in Denmark in 1891. Someone placed it there, perhaps as an offering to the gods or to hide it from danger. Scholars date the bowl to the second or first century before the common era. Many call the vessel a Celtic work. The cauldron carries carved figures in relief. A goddess on a cart and a horned god appear among them. These images echo ones the Celts knew in other lands. The bowl is built from many plates. The outer plates show a single head or part of a body set among smaller figures. The inner plates hold larger and more complex scenes. One inner plate shows the slaughter of bulls. Another shows a female goddess among wild beasts. Two elephants, two winged griffins, and a wolf surround her. A bearded man who holds a wheel sits with wolves and griffins. A snake with a ram's head coils beneath the wheel. A squatting god grips a torque and a serpent with a ram's head raised in his hand. Deer, lions, and a wolf ring him. A figure rides on a dolphin. One plate shows a line of warriors. Six men carry a shield and a spear. One man bears a sword and a helmet set with a wild boar. Three men blow the long war horns called carnyxes. A great man dips a soldier into a bowl of water. Some see this as death by drowning. Others see a bath that brings a man back to life. The heavy images fit the tale of Branwen and the Peir Dadeni, the cauldron of rebirth in the Welsh story called the Mabinogi. Bulls, boars, and raptors recur throughout the Irish and Welsh stories. But the elephants, the dolphin, and the other strange beasts are not. This mix leads many scholars to hold that the vessel came from two lands. It is Celtic, and it is also Thracian.
+The Gundestrup Cauldron ranks among the finest works of early Celtic religious art. In 1880 workers dug it from the ground near the town of Gundestrup in Denmark. The vessel now rests in the museum at Arhus. It is about ninety-six per cent pure silver and was once gilded. The cauldron stands fourteen inches high and is twenty-five and a half inches across. It holds about twenty-eight and a half gallons and weighs nearly twenty pounds. It was found dismantled. It is built of thirteen parts: one plain base plate and twelve decorated plates. Five of the plates sit inside and seven outside. The date and the place of its making remain unsettled. Most writers agree the vessel came to Denmark from a far land. Some say Teutonic looters carried it north. The style points at Gaul, or even at Thrace or Romania in the Balkans. Certain details are plainly Celtic, such as tores and the boar-headed war trumpet called the carnyx. Other motifs, like leopards, are not native to the Celtic world. The plates show gods drawn larger than humans, common people, and animals. The seated horned god is usually read as Cernunnos. A tall figure lowering a man into a vat may be Teutates receiving a sacrifice. A goddess flanked by wheels is likened to the Irish figure Medb. One scene shows three warriors about to slaughter three great bulls.
 
 :::
 ```
@@ -81,5 +81,6 @@ The Gundestrup Cauldron is a great silver vessel of the ancient world. Workers f
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 - Koch 2006, s.v. 'Gundestrup Cauldron'
+- MacKillop 2008, s.v. 'Gundestrup Cauldron'
 ```
 ![Gundestrup Cauldron Image](https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Silver_cauldron.jpg/1200px-Silver_cauldron.jpg)
