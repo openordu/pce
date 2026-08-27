@@ -2,81 +2,64 @@
 layout: layouts/pce.njk
 title: Brocéliande
 icon: file-lines
-order: 328
+order: 353
 contributors: [ 'Christopher Godwin' ]
 attributes:
-  - Merlin imprisoned by Viviane
-  - Merlin lives forever within a great tree
-  - forest legendary
-  - forest piercingly cold fountain
-  - fountain brews storms at the behest of its lady guardian
-  - Brittany eastern
-  - Rennes near
-  - Forest of Paimpont now called
-  - Nemeton Europe's last remaining
+  - Brocéliande an Arthurian forest in eastern Brittany
+  - Merlin imprisoned there by his mistress Viviane
+  - Viviane she sought to trick his magic from him
+  - Baranton a fountain in the forest whose lady can summon storms
+  - Forest of Paimpont the current name of the forest near Rennes
+  - Brocéliande may be Europe's last remaining nemeton
 categories:
-  - culture
-  - legendary
-  - magician
-  - mistress
-  - sacredness
-  - primeval forest
-  - sacred site
-  - Arthurian site
-  - location
+  - Place
+  - Concept
+  - Person
 entities:
-  - Brocéliande(Arthurian site)
-  - Merlin(magician)
-  - Viviane(mistress)
-  - forest(legendary)
-  - Brittany(location)
-  - Celts(culture)
-  - Trees(sacredness)
-  - Rennes(location)
-  - Forest of Paimpont(primeval forest)
-  - Nemeton(sacred site)
+  - Brocéliande(Place)
+  - Merlin(Person)
+  - Viviane(Person)
+  - Baranton(Place)
+  - Rennes(Place)
+  - Forest of Paimpont(Place)
+  - Brittany(Place)
+  - nemeton(Concept)
 tags:
   - Brocéliande
   - Merlin
   - Viviane
-  - forest
-  - Brittany
-  - Celts
-  - Trees
+  - Baranton
   - Rennes
   - Forest of Paimpont
-  - Nemeton
+  - Brittany
+  - nemeton
 ---
 ``` tab [group1:Info]
 ::: magazinestyle
-Brocéliande, an Arthurian site located in eastern Brittany, is a legendary forest that is believed to have been the place where Merlin, the great magician, was imprisoned by his mistress, Viviane. The fair but ambitious woman intended to trick Merlin into relinquishing his magical knowledge, and legend insists that he lives on within a great tree in the region. Additionally, within this multilayered forest is a fountain that, at the behest of its guardian (see Owein and Barenton), stirs up storms in its wake. Known for their belief in the sacredness of trees, the Celts revered this still-standing primeval forest near Rennes (now referred to as the Forest of Paimpont), now potentially recognized as Europe's sole remaining Nemeton.
+Brocéliande is an Arthurian forest in eastern Brittany. People believe the magician Merlin rests inside it. His mistress Viviane imprisoned him in the wood. She wanted to trick his magical knowledge from him. Legend says he lives forever within a great tree. A cold fountain called Baranton also stands there. Its guardian lady can call up storms at her bidding. The forest lies near the town of Rennes. Today people call it the Forest of Paimpont. It may be the last remaining nemeton in Europe.
 
 :::
 ```
 ``` tab [group1:Attributes]
-- **Merlin**: imprisoned by Viviane
-- **Merlin**: lives forever within a great tree
-- **forest**: legendary
-- **forest**: piercingly cold fountain
-- **fountain**: brews storms at the behest of its lady guardian
-- **Brittany**: eastern
-- **Rennes**: near
-- **Forest of Paimpont**: now called
-- **Nemeton**: Europe's last remaining
+- **Brocéliande**: an Arthurian forest in eastern Brittany
+- **Merlin**: imprisoned there by his mistress Viviane
+- **Viviane**: she sought to trick his magic from him
+- **Baranton**: a fountain in the forest whose lady can summon storms
+- **Forest of Paimpont**: the current name of the forest near Rennes
+- **Brocéliande**: may be Europe's last remaining nemeton
 ```
 ``` tab [group1:Entities]
-- **Brocéliande**: Arthurian site
-- **Merlin**: magician
-- **Viviane**: mistress
-- **forest**: legendary
-- **Brittany**: location
-- **Celts**: culture
-- **Trees**: sacredness
-- **Rennes**: location
-- **Forest of Paimpont**: primeval forest
-- **Nemeton**: sacred site
+- **Brocéliande**: Place
+- **Merlin**: Person
+- **Viviane**: Person
+- **Baranton**: Place
+- **Rennes**: Place
+- **Forest of Paimpont**: Place
+- **Brittany**: Place
+- **nemeton**: Concept
 ```
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
+- MacKillop 2008, s.v. 'Brocéliande'.
 ```
 ![Brocéliande Image](https://upload.wikimedia.org/wikipedia/commons/c/c4/Idylls_of_the_King_18.jpg)

@@ -1,70 +1,83 @@
 {
-    "name": "Brocéliande",
-    "entities": [
-        {
-            "entity": "Brocéliande",
-            "type": "Place"
-        },
-        {
-            "entity": "Merlin",
-            "type": "Person"
-        },
-        {
-            "entity": "Viviane",
-            "type": "Person"
-        },
-        {
-            "entity": "Rennes",
-            "type": "Place"
-        },
-        {
-            "entity": "Forest of Paimpont",
-            "type": "Place"
-        },
-        {
-            "entity": "nemeton",
-            "type": "Concept"
-        }
-    ],
-    "attributes": [
-        {
-            "entity": "Brocéliande",
-            "attribute": "an Arthurian forest in eastern Brittany"
-        },
-        {
-            "entity": "Merlin",
-            "attribute": "imprisoned there by his mistress Viviane"
-        },
-        {
-            "entity": "Viviane",
-            "attribute": "she sought to trick his magic from him"
-        },
-        {
-            "entity": "Forest of Paimpont",
-            "attribute": "the current name of the forest near Rennes"
-        },
-        {
-            "entity": "Brocéliande",
-            "attribute": "perhaps Europe's last remaining nemeton"
-        }
-    ],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "image": [
-        "https://upload.wikimedia.org/wikipedia/commons/c/c4/Idylls_of_the_King_18.jpg"
-    ],
-    "cyphertext": "JpfXDlRqFiI2G8bezt6lKxCvetLhUfq-UFDCTwLhdDMrjZyvAvZiHwvqOx2OgRyAptI6jcLpszQvZaM6fqaA8qKNbWfG_ymRCEWF5qiu0QP7BJxno8Ed2iBmd8QtYELHtfrjE9xxZVFcmAW5eUGs3DY1Nc4g5XAr-Y97A3njvsbnElMlmzygIwmlGOwa1_Fb0CAYOoMot38e6EcUyGLwPDm1JPYFWxZpsDgcAsBLeQufMjoKc4UMB85UuCHCj4rIxOxTQP-0AEciL4fhaCaxWRDy98GmwcYbLo0avztw3KahlE_12ymw9tOjGQZefLydOq8ilA7ZgHsTuiZJU7tD8A2PcWEaAaedvHhygVvXKtml47unVRZ2Na9FRqc4rwhcelc3epsLyICo124RbojVkS08xNcTJBc8LAIFwoyenGKyVfXNNCSSUU_oItRUMXpA-qnSXsDGCMV6zrbjqoNu8uoswGJRNF-B-44vOhGQWQOFkIGEClz5KPz_rJ1sgTDn0nEVYyqdntC8hl7vrOFXUMnw1nFBORllmVKWXZvf3F0guqBvzuI3q4KeckE1cReYc7Yy2FNf3gwHCvHQ11g-02KjjRsH7dF731uq8b4dpo_BnJT03C4mxW_u9H1dgCi7fZOAV_RxnCseus6U-K0E0C2vpDr4SK_dDnRDT-TuNE_lS377Axvu-JKEaTaiLcXqKvZGfCNhQfznUqRJjcMTsYRGxpH8Nut2_CzAExMHqtXXBnarMhA0VuFc_stc1QYbN5vkciZ8tbOc4E-fJ-wpswvLCFQ5-c_zToW2BztowP29zRLQmZS8Y37g-Dqn2ceH3ktWTbH-PpHgxS7Dmr2oIjwoPJAmm1rpDSxP0D4XCkS--fLBuL_yFrBqab9NMcXzik12N34g",
-    "salt": "70b1iJBa-7C92B8bRITI3w==",
-    "text": "Brocéliande is an Arthurian site. This legendary forest sits in eastern Brittany. People say the magician Merlin rests there. His mistress Viviane imprisoned him in the wood. She sought to trick his magical knowledge from him. Legend holds that he lives forever inside a great tree. A cold fountain also stands in the forest. It brews storms at the bidding of its lady guardian. The forest stands near Rennes. Today people call it the Forest of Paimpont. It may be Europe's last remaining nemeton.",
-    "okr": {
-        "objective": "Describe Brocéliande, the Arthurian forest that may hold Europe's last nemeton.",
-        "key_results": [
-            "Brocéliande is an Arthurian forest in eastern Brittany.",
-            "The magician Merlin is said to rest there.",
-            "His mistress Viviane imprisoned him in the wood.",
-            "It may be Europe's last remaining nemeton."
-        ],
-        "evidence": "Monaghan 2008, s.v. 'Brocéliande'."
+  "name": "Brocéliande",
+  "text": "Brocéliande is an Arthurian forest in eastern Brittany. People believe the magician Merlin rests inside it. His mistress Viviane imprisoned him in the wood. She wanted to trick his magical knowledge from him. Legend says he lives forever within a great tree. A cold fountain called Baranton also stands there. Its guardian lady can call up storms at her bidding. The forest lies near the town of Rennes. Today people call it the Forest of Paimpont. It may be the last remaining nemeton in Europe.",
+  "entities": [
+    {
+      "entity": "Brocéliande",
+      "type": "Place"
+    },
+    {
+      "entity": "Merlin",
+      "type": "Person"
+    },
+    {
+      "entity": "Viviane",
+      "type": "Person"
+    },
+    {
+      "entity": "Baranton",
+      "type": "Place"
+    },
+    {
+      "entity": "Rennes",
+      "type": "Place"
+    },
+    {
+      "entity": "Forest of Paimpont",
+      "type": "Place"
+    },
+    {
+      "entity": "Brittany",
+      "type": "Place"
+    },
+    {
+      "entity": "nemeton",
+      "type": "Concept"
     }
+  ],
+  "attributes": [
+    {
+      "entity": "Brocéliande",
+      "attribute": "an Arthurian forest in eastern Brittany"
+    },
+    {
+      "entity": "Merlin",
+      "attribute": "imprisoned there by his mistress Viviane"
+    },
+    {
+      "entity": "Viviane",
+      "attribute": "she sought to trick his magic from him"
+    },
+    {
+      "entity": "Baranton",
+      "attribute": "a fountain in the forest whose lady can summon storms"
+    },
+    {
+      "entity": "Forest of Paimpont",
+      "attribute": "the current name of the forest near Rennes"
+    },
+    {
+      "entity": "Brocéliande",
+      "attribute": "may be Europe's last remaining nemeton"
+    }
+  ],
+  "okr": {
+    "objective": "Describe Brocéliande, the Arthurian forest in eastern Brittany.",
+    "key_results": [
+      "It is an Arthurian forest in eastern Brittany.",
+      "Merlin is said to rest inside it.",
+      "Viviane imprisoned him in the wood.",
+      "It may be Europe's last remaining nemeton."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Brocéliande'."
+  },
+  "image": [
+    "https://upload.wikimedia.org/wikipedia/commons/c/c4/Idylls_of_the_King_18.jpg"
+  ],
+  "cyphertext": "JpfXDlRqFiI2G8bezt6lKxCvetLhUfq-UFDCTwLhdDMrjZyvAvZiHwvqOx2OgRyAptI6jcLpszQvZaM6fqaA8qKNbWfG_ymRCEWF5qiu0QP7BJxno8Ed2iBmd8QtYELHtfrjE9xxZVFcmAW5eUGs3DY1Nc4g5XAr-Y97A3njvsbnElMlmzygIwmlGOwa1_Fb0CAYOoMot38e6EcUyGLwPDm1JPYFWxZpsDgcAsBLeQufMjoKc4UMB85UuCHCj4rIxOxTQP-0AEciL4fhaCaxWRDy98GmwcYbLo0avztw3KahlE_12ymw9tOjGQZefLydOq8ilA7ZgHsTuiZJU7tD8A2PcWEaAaedvHhygVvXKtml47unVRZ2Na9FRqc4rwhcelc3epsLyICo124RbojVkS08xNcTJBc8LAIFwoyenGKyVfXNNCSSUU_oItRUMXpA-qnSXsDGCMV6zrbjqoNu8uoswGJRNF-B-44vOhGQWQOFkIGEClz5KPz_rJ1sgTDn0nEVYyqdntC8hl7vrOFXUMnw1nFBORllmVKWXZvf3F0guqBvzuI3q4KeckE1cReYc7Yy2FNf3gwHCvHQ11g-02KjjRsH7dF731uq8b4dpo_BnJT03C4mxW_u9H1dgCi7fZOAV_RxnCseus6U-K0E0C2vpDr4SK_dDnRDT-TuNE_lS377Axvu-JKEaTaiLcXqKvZGfCNhQfznUqRJjcMTsYRGxpH8Nut2_CzAExMHqtXXBnarMhA0VuFc_stc1QYbN5vkciZ8tbOc4E-fJ-wpswvLCFQ5-c_zToW2BztowP29zRLQmZS8Y37g-Dqn2ceH3ktWTbH-PpHgxS7Dmr2oIjwoPJAmm1rpDSxP0D4XCkS--fLBuL_yFrBqab9NMcXzik12N34g",
+  "salt": "70b1iJBa-7C92B8bRITI3w==",
+  "sources": [
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.",
+    "MacKillop 2008, s.v. 'Brocéliande'."
+  ]
 }

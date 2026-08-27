@@ -1,0 +1,55 @@
+{
+  "name": "Broichan",
+  "text": "Broichan was a Scottish druid. He served as druid to King Brude. He challenged Saint Columba and was bested. Broichan resented the arrival of the Christian evangelists. He brought storm and darkness over Loch Ness. The storm made navigation seem impossible. Columba ordered the sails unfurled. Then the waters became calm again.",
+  "entities": [
+    {
+      "entity": "Broichan",
+      "type": "Person"
+    },
+    {
+      "entity": "Brude",
+      "type": "Person"
+    },
+    {
+      "entity": "Columba",
+      "type": "Person"
+    },
+    {
+      "entity": "Loch Ness",
+      "type": "Place"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Broichan",
+      "attribute": "a Scottish druid"
+    },
+    {
+      "entity": "Broichan",
+      "attribute": "druid to King Brude"
+    },
+    {
+      "entity": "Broichan",
+      "attribute": "challenged Saint Columba and was bested"
+    },
+    {
+      "entity": "Loch Ness",
+      "attribute": "where Broichan raised storm and darkness"
+    }
+  ],
+  "okr": {
+    "objective": "Describe Broichan, the Scottish druid who challenged Saint Columba.",
+    "key_results": [
+      "He was a Scottish druid.",
+      "He was druid to King Brude.",
+      "He challenged Saint Columba and was bested."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Broichan'."
+  },
+  "sources": [
+    "MacKillop 2008, s.v. 'Broichan'."
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": ""
+}

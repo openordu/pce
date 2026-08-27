@@ -2,44 +2,44 @@
 layout: layouts/pce.njk
 title: Bronwen
 icon: file-lines
-order: 332
+order: 357
 contributors: [ 'Christopher Godwin' ]
 attributes:
-  - Bronwen Welsh goddess
-  - Wales ancestral homeland
-  - Branwen epic heroine
-  - name may mean 'white-bosomed one'
-  - mountain located in north Wales
+  - Bronwen a Welsh personal name
+  - Bronwen sometimes seen as a variant of Branwen
+  - Bronwen name may mean white-bosomed one
 categories:
-  - mythological figure
-  - geographical location
+  - Place
+  - Person
 entities:
-  - Bronwen(mythological figure)
-  - Wales(geographical location)
-  - Branwen(mythological figure)
+  - Bronwen(Person)
+  - Branwen(Person)
+  - Brangwaine(Person)
+  - Wales(Place)
 tags:
   - Bronwen
-  - Wales
   - Branwen
+  - Brangwaine
+  - Wales
 ---
 ``` tab [group1:Info]
 ::: magazinestyle
-An obscure ancestral goddess of Wales called Bronwen has been linked by some writers to the epic heroine Branwen. However, others advise against such combination. Bronwen’s name means “white-bosomed one” and is also the name of a mountain in north Wales.
+Bronwen is a Welsh personal name. Some writers treat it as a variant of Branwen. The name joins the Welsh words bran, breast, and gwen, fair. It can mean white-bosomed one. Scholars link the figure to the Arthurian ladies Brangwaine and Brangoene. Proinsias Mac Cana wrote Branwen, Daughter of Llyr. Rachel Bromwich treated her in Trioedd Ynys Prydain.
 
 :::
 ```
 ``` tab [group1:Attributes]
-- **Bronwen**: Welsh goddess
-- **Wales**: ancestral homeland
-- **Branwen**: epic heroine
-- **name**: may mean 'white-bosomed one'
-- **mountain**: located in north Wales
+- **Bronwen**: a Welsh personal name
+- **Bronwen**: sometimes seen as a variant of Branwen
+- **Bronwen**: name may mean white-bosomed one
 ```
 ``` tab [group1:Entities]
-- **Bronwen**: mythological figure
-- **Wales**: geographical location
-- **Branwen**: mythological figure
+- **Bronwen**: Person
+- **Branwen**: Person
+- **Brangwaine**: Person
+- **Wales**: Place
 ```
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
+- MacKillop 2008, s.v. 'Bronwen'.
 ```
