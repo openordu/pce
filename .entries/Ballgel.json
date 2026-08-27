@@ -1,0 +1,48 @@
+{
+  "name": "Ballgel",
+  "fname": "Ballgel.json",
+  "text": "Ballgel is a lady of the fairy people in the old tales of Ireland. Her name carries the sense of bright-limbed, a figure of shining movement. She dwells on the royal plain of the east known as Brega. The same name belongs to several persons who stand in older Irish genealogies.",
+  "entities": [
+    {
+      "entity": "Ballgel",
+      "type": "Character"
+    },
+    {
+      "entity": "Brega",
+      "type": "Place"
+    },
+    {
+      "entity": "Fenian Cycle",
+      "type": "Work"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Ballgel",
+      "attribute": "lady of the sidhe in Brega"
+    },
+    {
+      "entity": "Ballgel",
+      "attribute": "her name means bright-limbed"
+    },
+    {
+      "entity": "Ballgel",
+      "attribute": "name borne by several genealogical figures"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Ballgel'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Record Ballgel, the bright-limbed lady of Brega.",
+    "key_results": [
+      "Give the sense of the name.",
+      "Place her in the royal plain.",
+      "Note the other bearers of the name."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Ballgel'"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "name": "Barc Breasail",
+  "fname": "Barc_Breasail.json",
+  "text": "Barc Breasail is the name of the bark of Breasal, a vessel bound to the otherworld island. In Irish tradition the island is called Hy Brasil. The name Barc Breasail points to the craft that carries the traveller to that far shore. The account binds the boat to the seeking of the western isle.",
+  "entities": [
+    {
+      "entity": "Barc Breasail",
+      "type": "Character"
+    },
+    {
+      "entity": "Hy Brasil",
+      "type": "Place"
+    },
+    {
+      "entity": "Breasail",
+      "type": "Character"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Barc Breasail",
+      "attribute": "the bark of Breasal"
+    },
+    {
+      "entity": "Barc Breasail",
+      "attribute": "bound to the island Hy Brasil"
+    },
+    {
+      "entity": "Barc Breasail",
+      "attribute": "carries the seeker to the western isle"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Barc Breasail'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Record the bark of Barc Breasail and its island.",
+    "key_results": [
+      "Name the bark.",
+      "Link it to Hy Brasil.",
+      "Give the seeking of the western isle."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Barc Breasail'"
+  }
+}

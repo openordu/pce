@@ -1,0 +1,48 @@
+{
+  "name": "Banbán",
+  "fname": "Banb_n.json",
+  "text": "Banbán is a name from early Irish story, with the sense of little pig. He is often called Banbán the hospitable. He appears in the strange account of the death of the king Diarmait mac Cerbaill. His part in that story makes him a figure of note in the old sources.",
+  "entities": [
+    {
+      "entity": "Banbán",
+      "type": "Character"
+    },
+    {
+      "entity": "Diarmait mac Cerbaill",
+      "type": "Character"
+    },
+    {
+      "entity": "Ireland",
+      "type": "Place"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Banbán",
+      "attribute": "the name means little pig"
+    },
+    {
+      "entity": "Banbán",
+      "attribute": "called the hospitable one"
+    },
+    {
+      "entity": "Banbán",
+      "attribute": "appears in the death tale of Diarmait"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Banbán'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Record Banbán and his place in Irish story.",
+    "key_results": [
+      "Give the meaning of the name.",
+      "Note his title of hospitable.",
+      "Name the king in the tale."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Banbán'"
+  }
+}

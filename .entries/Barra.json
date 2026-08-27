@@ -1,0 +1,52 @@
+{
+  "name": "Barra",
+  "fname": "Barra.json",
+  "text": "Barra is an island and parish in the Outer Hebrides, lying toward the south of the chain. The main island runs about eight miles by five. Many of its people carry the name Mac Neil and claim descent from the hero Niall of the Nine Hostages. Gaelic remains the first speech of the islanders. Some hold the island to be a pure keep of the Celtic tongue.",
+  "entities": [
+    {
+      "entity": "Barra",
+      "type": "Place"
+    },
+    {
+      "entity": "Outer Hebrides",
+      "type": "Place"
+    },
+    {
+      "entity": "Niall Noigiallach",
+      "type": "Character"
+    },
+    {
+      "entity": "Gaelic",
+      "type": "Language"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Barra",
+      "attribute": "an island of the Outer Hebrides"
+    },
+    {
+      "entity": "Barra",
+      "attribute": "many people bear the name Mac Neil"
+    },
+    {
+      "entity": "Barra",
+      "attribute": "Gaelic remains the first speech"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Barra'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Describe the island of Barra and its people.",
+    "key_results": [
+      "Give the size and place.",
+      "Name the descent from Niall.",
+      "Note the Gaelic speech of the isle."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Barra'"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "name": "Baobh",
+  "fname": "Baobh.json",
+  "text": "Baobh is another spelling of the name Badh. Badh is a figure of battle in early Irish belief, close to the crow or the raven. She haunts the field where men fight. The forms of the name shift across the sources, and Baobh is one of the later spellings of that figure.",
+  "entities": [
+    {
+      "entity": "Baobh",
+      "type": "Character"
+    },
+    {
+      "entity": "Badh",
+      "type": "Character"
+    },
+    {
+      "entity": "Ireland",
+      "type": "Place"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Baobh",
+      "attribute": "a variant spelling of the name Badh"
+    },
+    {
+      "entity": "Baobh",
+      "attribute": "a figure of battle like the crow"
+    },
+    {
+      "entity": "Baobh",
+      "attribute": "haunts the places of fighting"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Baobh'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Record the variant spelling Baobh of the battle figure.",
+    "key_results": [
+      "Link the name to Badh.",
+      "Give the crow image.",
+      "Set the figure on the battlefield."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Baobh'"
+  }
+}

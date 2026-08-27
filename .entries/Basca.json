@@ -1,0 +1,52 @@
+{
+  "name": "Basca",
+  "fname": "Basca.json",
+  "text": "Basca is one more spelling of the clan name Baiscne. The forms Basca, Bascna, and Baskin all appear in the sources. Baiscne is the family of the hero Fionn in the Fenian tales. Basca thus belongs to that great fighting clan of old Ireland, home of Fionn mac Cumhaill.",
+  "entities": [
+    {
+      "entity": "Basca",
+      "type": "Group"
+    },
+    {
+      "entity": "Baiscne",
+      "type": "Group"
+    },
+    {
+      "entity": "Fionn mac Cumhaill",
+      "type": "Character"
+    },
+    {
+      "entity": "Fianna",
+      "type": "Group"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Basca",
+      "attribute": "a variant of the clan name Baiscne"
+    },
+    {
+      "entity": "Basca",
+      "attribute": "one of several spellings in the sources"
+    },
+    {
+      "entity": "Basca",
+      "attribute": "the clan of the hero Fionn"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Basca'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Record the clan name Basca of the Fianna.",
+    "key_results": [
+      "Link Basca to Baiscne.",
+      "List the variant forms.",
+      "Name the leader Fionn."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Basca'"
+  }
+}

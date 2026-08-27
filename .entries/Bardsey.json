@@ -1,0 +1,60 @@
+{
+  "name": "Bardsey",
+  "fname": "Bardsey.json",
+  "text": "Bardsey is an island off the coast of Wales, called Ynys Enlli in Welsh. It lies at the mouth of a great bay and is small in size. According to the Triads, the wise figure Merlin kept a glass house there with the Treasures of Britain. In the sixth century the saint Cadfan founded a monastery on the island.",
+  "entities": [
+    {
+      "entity": "Bardsey",
+      "type": "Place"
+    },
+    {
+      "entity": "Ynys Enlli",
+      "type": "Place"
+    },
+    {
+      "entity": "Merlin",
+      "type": "Character"
+    },
+    {
+      "entity": "Cadfan",
+      "type": "Character"
+    },
+    {
+      "entity": "Wales",
+      "type": "Place"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Bardsey",
+      "attribute": "an island off the Welsh coast"
+    },
+    {
+      "entity": "Bardsey",
+      "attribute": "called Ynys Enlli in Welsh"
+    },
+    {
+      "entity": "Bardsey",
+      "attribute": "place of Merlin glass house"
+    },
+    {
+      "entity": "Bardsey",
+      "attribute": "site of a monastery of Cadfan"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Bardsey'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Describe the island of Bardsey and its holy lore.",
+    "key_results": [
+      "Give the Welsh name.",
+      "Name the treasures of Merlin.",
+      "Set the monastery of Cadfan."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Bardsey'"
+  }
+}

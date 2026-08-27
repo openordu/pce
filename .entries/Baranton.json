@@ -1,0 +1,48 @@
+{
+  "name": "Baranton",
+  "fname": "Baranton.json",
+  "text": "Baranton is the name of a fountain in the forest of Broceliande in Brittany. In later story the fountain is bound to the figure of the knight. The place appears in the lore of the forest, where wonders can be seen. Baranton is remembered chiefly as the fountain of that enchanted wood.",
+  "entities": [
+    {
+      "entity": "Baranton",
+      "type": "Place"
+    },
+    {
+      "entity": "Broceliande",
+      "type": "Place"
+    },
+    {
+      "entity": "Brittany",
+      "type": "Place"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Baranton",
+      "attribute": "a fountain in Broceliande"
+    },
+    {
+      "entity": "Baranton",
+      "attribute": "set in the forest of Brittany"
+    },
+    {
+      "entity": "Baranton",
+      "attribute": "a site of wonder in the lore"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Baranton'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Record the fountain of Baranton in Broceliande.",
+    "key_results": [
+      "Name the forest.",
+      "Set the fountain in Brittany.",
+      "Note the wonder attached to it."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Baranton'"
+  }
+}
