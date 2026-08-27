@@ -1,0 +1,39 @@
+{
+  "name": "Answering Stone",
+  "fname": "Answering_Stone.json",
+  "text": "The Answering Stone is the rough rock of County Waterford in Ireland. Its Irish name means the rock that speaks. The old tale places the stone in a townland of the region. The rock would split apart if it were asked to give proof to a lie. The heavy stone works in Irish belief as a test of truth.",
+  "entities": [
+    {
+      "entity": "Answering Stone",
+      "type": "Object"
+    },
+    {
+      "entity": "County Waterford",
+      "type": "Place"
+    },
+    {
+      "entity": "Dungarvan",
+      "type": "Place"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Answering Stone",
+      "attribute": "speaking oracle stone of County Waterford"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Answering Stone'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Record the oracle stone of Ireland.",
+    "key_results": [
+      "Place the stone in County Waterford.",
+      "State the power to reveal a lie."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Answering Stone'"
+  }
+}

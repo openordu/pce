@@ -1,0 +1,52 @@
+{
+  "name": "Aoibheall",
+  "fname": "Aoibheall.json",
+  "text": "Aoibheall is a modern Irish spelling of the name Aibell. The word also appears as Aoibhell and Aoibhil in the source. Aibell counts as a fairy queen of the old Irish, ruling the north of Munster. Her fairy hill is the rock Craig Liath, close to the town of Killaloe in County Clare. She was a patron of the O'Brien kindred and a rival of the goddess Clidna. In one tale Clidna cast a charm over her and turned her into a white cat.",
+  "entities": [
+    {
+      "entity": "Aoibheall",
+      "type": "Character"
+    },
+    {
+      "entity": "Aibell",
+      "type": "Character"
+    },
+    {
+      "entity": "Clidna",
+      "type": "Character"
+    },
+    {
+      "entity": "Craig Liath",
+      "type": "Place"
+    },
+    {
+      "entity": "County Clare",
+      "type": "Place"
+    },
+    {
+      "entity": "Killaloe",
+      "type": "Place"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Aoibheall",
+      "attribute": "modern spelling of the name, a fairy queen of the north of Munster"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Aoibheall'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Record the modern spelling Aoibheall.",
+    "key_results": [
+      "Name the fairy queen of the north.",
+      "Place her hill at Craig Liath.",
+      "Note the tale of the white cat."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Aoibheall'"
+  }
+}

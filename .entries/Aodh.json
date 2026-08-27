@@ -1,0 +1,35 @@
+{
+  "name": "Aodh",
+  "fname": "Aodh.json",
+  "text": "Aodh is the modern Irish form of the old name that MacKillop writes as Aed. The word rises out of the old Irish for fire. The name is one of the commonest in early Ireland and Scotland. It is often locked to roll in English as Hugh. The dictionary gives both shapes as one line.",
+  "entities": [
+    {
+      "entity": "Aodh",
+      "type": "Character"
+    },
+    {
+      "entity": "Aed",
+      "type": "Character"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Aodh",
+      "attribute": "modern spelling of the fire-name Aed, often Hugh"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Aodh'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Record the modern spelling Aodh.",
+    "key_results": [
+      "Link it to the fire name.",
+      "Give the English form Hugh."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Aodh'"
+  }
+}

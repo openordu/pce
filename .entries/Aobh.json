@@ -1,0 +1,35 @@
+{
+  "name": "Aobh",
+  "fname": "Aobh.json",
+  "text": "Aobh is the modern Irish text of the old Irish name that MacKillop writes as Ahbh. The name is that of a woman in the old tales, tied to the fey of the Irish. The dictionary keeps the modern shapes as a separate line.",
+  "entities": [
+    {
+      "entity": "Aobh",
+      "type": "Person"
+    },
+    {
+      "entity": "Booanann",
+      "type": "Character"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Aobh",
+      "attribute": "modern spelling of the old Irish woman's name"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Aobh'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Record the modern Irish form Aobh.",
+    "key_results": [
+      "Give the older spelling.",
+      "Set it in the old tales."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Aobh'"
+  }
+}

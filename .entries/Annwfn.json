@@ -1,0 +1,44 @@
+{
+  "name": "Annwfn",
+  "fname": "Annwfn.json",
+  "text": "Annwfn is the Welsh name for the Otherworld. It stands in the place of the Irish Otherworld of the dead keepers, the People of the Mound. The texts do not agree on the place. It may lie on the surface of the world, under the ground, or across the sea. In one form it is a castle that spins about the sea. No illness or old age touches the folk of that realm, and fine music fills the hall. Two kings rule the world of Annwfn as rivals, and they are named Arawn and Hafgan. By a later Welsh tale, the gift at its heart is the cauldron that gives the Spoils of Annwfn.",
+  "entities": [
+    {
+      "entity": "Annwfn",
+      "type": "Place"
+    },
+    {
+      "entity": "Arawn",
+      "type": "Character"
+    },
+    {
+      "entity": "Hafgan",
+      "type": "Character"
+    },
+    {
+      "entity": "Otherworld",
+      "type": "concept"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Annwfn",
+      "attribute": "Welsh otherworld, home of Arawn and Hafgan"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Annwfn'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Record the Welsh otherworld Annwfn.",
+    "key_results": [
+      "Name the home of the otherworld.",
+      "List the kings of the realm.",
+      "State the magic cauldron."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Annwfn'"
+  }
+}

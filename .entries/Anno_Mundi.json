@@ -1,0 +1,40 @@
+{
+  "name": "Anno Mundi",
+  "fname": "Anno_Mundi.json",
+  "text": "Anno Mundi is a Latin phrase that means the year of the world. Writers used the count, shortened to AM, to number years from the creation of the earth in biblical terms. The scholars never fixed on one date for the start. The Irish annals set the year at 5090 BC. Under this count the year 1000 BC would read as 4090 AM. The Saxon scholar Bede chose 3952 BC. Readers also met the figures 5200 BC and 5198 BC.",
+  "entities": [
+    {
+      "entity": "Anno Mundi",
+      "type": "concept"
+    },
+    {
+      "entity": "Bede",
+      "type": "Person"
+    },
+    {
+      "entity": "Annals of the Four Masters",
+      "type": "Text"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Anno Mundi",
+      "attribute": "count of years from the creation, shortened AM"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Anno Mundi'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Record the Medieval dating phrase Anno Mundi.",
+    "key_results": [
+      "Give the meaning of the Latin phrase.",
+      "State the figures used for the creation.",
+      "Name the Venerable Bede."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Anno Mundi'"
+  }
+}
