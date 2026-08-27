@@ -1,0 +1,43 @@
+{
+  "name": "Book of Hergest",
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "text": "The Book of Hergest is another title for the Red Book of Hergest. Its Welsh name is Llyfr Coch Hergest. This manuscript dates from about 1382 to 1410. It holds many of the prose tales of the Mabinogion. Lady Charlotte Guest used it in her translation of 1846. See the entry Red Book of Hergest for the full account.",
+  "entities": [
+    {
+      "entity": "Book of Hergest",
+      "type": "Literary work"
+    },
+    {
+      "entity": "Red Book of Hergest",
+      "type": "Literary work"
+    },
+    {
+      "entity": "Mabinogion",
+      "type": "Literary work"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Book of Hergest",
+      "attribute": "another title for the Red Book of Hergest"
+    },
+    {
+      "entity": "Book of Hergest",
+      "attribute": "holds prose tales of the Mabinogion"
+    }
+  ],
+  "okr": {
+    "objective": "Route the title Book of Hergest to its proper entry.",
+    "key_results": [
+      "The name means the Red Book of Hergest.",
+      "Its Welsh name is Llyfr Coch Hergest.",
+      "It holds prose tales of the Mabinogion."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Book of Hergest'."
+  },
+  "sources": [
+    "MacKillop 2008, s.v. 'Book of Hergest'."
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "name": "Book of Ballymote",
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "text": "The Book of Ballymote bears the Irish title Leabhar Bhaile an Mhóta. Scribes compiled it about 1390 at Ballymote in County Sligo. Much of the volume is historical in nature. It also holds important literary and imaginative pieces. These include the decoding of the ogham script together with bardic essays on metre and grammar. There is a mark of the infant Cormac and the tale of the loathly hag who becomes a beautiful woman. The volume also carries an Irish rendering of the Aeneid. The manuscript now rests at the Royal Irish Academy in Dublin. Robert Atkinson edited it there and published it in 1887.",
+  "entities": [
+    {
+      "entity": "Book of Ballymote",
+      "type": "Literary work"
+    },
+    {
+      "entity": "ogham",
+      "type": "Writing system"
+    },
+    {
+      "entity": "Cormac",
+      "type": "Person"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Book of Ballymote",
+      "attribute": "compiled about 1390 in Ballymote, Co. Sligo"
+    },
+    {
+      "entity": "Book of Ballymote",
+      "attribute": "holds the key to the ogham alphabet"
+    },
+    {
+      "entity": "Book of Ballymote",
+      "attribute": "includes an Irish version of the Aeneid"
+    }
+  ],
+  "okr": {
+    "objective": "Describe the medieval manuscript the Book of Ballymote.",
+    "key_results": [
+      "Its Irish title is Leabhar Bhaile an Mhóta.",
+      "Scribes compiled it about 1390 in Ballymote.",
+      "It holds the ogham key and bardic tracts.",
+      "It rests at the Royal Irish Academy in Dublin."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Book of Ballymote'."
+  },
+  "sources": [
+    "MacKillop 2008, s.v. 'Book of Ballymote'."
+  ]
+}

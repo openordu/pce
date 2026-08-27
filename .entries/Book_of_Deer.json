@@ -1,0 +1,55 @@
+{
+  "name": "Book of Deer",
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "text": "The Book of Deer is an early Scottish manuscript. Its Latin text dates from about the ninth century. Added Gaelic notes were entered between 1130 and 1150. The codex survives from the monastery at Deer in Aberdeenshire. Tradition says Colum Cille and his disciple Drostán founded that house. The Gaelic passages form the earliest extensive record of Scottish Gaelic writing. They come four centuries before the later collection of the Dean of Lismore. The name Deer may come from the tear that Colum Cille shed when he left the site.",
+  "entities": [
+    {
+      "entity": "Book of Deer",
+      "type": "Literary work"
+    },
+    {
+      "entity": "Deer",
+      "type": "Place"
+    },
+    {
+      "entity": "Colum Cille",
+      "type": "Person"
+    },
+    {
+      "entity": "Drostán",
+      "type": "Person"
+    },
+    {
+      "entity": "Book of the Dean of Lismore",
+      "type": "Literary work"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Book of Deer",
+      "attribute": "a Latin manuscript of about the ninth century"
+    },
+    {
+      "entity": "Book of Deer",
+      "attribute": "holds early Gaelic notes entered between 1130 and 1150"
+    },
+    {
+      "entity": "Book of Deer",
+      "attribute": "the earliest extensive record of Scottish Gaelic writing"
+    }
+  ],
+  "okr": {
+    "objective": "Describe the Scottish manuscript the Book of Deer.",
+    "key_results": [
+      "Its Latin text dates from about the ninth century.",
+      "It holds early Gaelic notes from 1130 to 1150.",
+      "It is the earliest extensive record of Scottish Gaelic writing."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Book of Deer'."
+  },
+  "sources": [
+    "MacKillop 2008, s.v. 'Book of Deer'."
+  ]
+}
