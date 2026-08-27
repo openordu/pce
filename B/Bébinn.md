@@ -2,34 +2,50 @@
 layout: layouts/pce.njk
 title: Bébinn
 icon: file-lines
-order: 213
+order: 393
 contributors: [ 'Christopher Godwin' ]
 attributes:
-  - king pursued his escaping wife
-  - king killed her
+  - Bébinn a common female name in early Ireland
+  - Bébinn a patroness of birth and sister of Bóand
+  - Bébinn mother of the hero Fráech
+  - Bébinn later a daughter of Elcmar
 categories:
-  - person
+  - Place
+  - Deity
+  - Person
 entities:
-  - king(person)
-  - wife(person)
+  - Bébinn(Deity)
+  - Bóand(Deity)
+  - Fráech(Person)
+  - Maiden's Land(Place)
+  - Isle of Man(Place)
 tags:
-  - king
-  - wife
+  - Bébinn
+  - Bóand
+  - Fráech
+  - Maiden's Land
+  - Isle of Man
 ---
 ``` tab [group1:Info]
 ::: magazinestyle
-Irish literature and legend mention Bébinn, also known as Bebind, Bé Find, Be Bind, Be Find, Bebhionn, Befind, or Befionn. Bébinn is either a heroine or a goddess. One Bébinn is the goddess of birth, who is the sister of Bóand and the mother of Fráech — the most handsome hero of Ireland. Another Bébinn is a beautiful Giant who lived in Maiden's Land, located off the west coast, surrounded by magical Birds. This second Bébinn may have initially been the goddess of pleasure. According to the legend, this Bébinn left the Otherworld, settling with the king of the Isle of Man. However, she escaped when he started beating her. Unfortunately, the king chased and killed his fleeing wife, resulting in a sad yet realistic ending.
+Bébinn is a fair and beautiful name in old Ireland. Several queens and abbesses carried it. The first Bébinn was a goddess who ruled over childbirth. She was the sister of Bóand. Her husband was Aed Alainn, who was a god, or Idath, who was a mortal. She gave life to the hero Fráech, who is their son. The second Bébinn came from a tale of the Fianna. She was a giantess of high bearing who asked for the safety of Fionn and his men. An ugly giant broke into their house and put her to death. A third Bébinn is known, and she was a daughter of Elcmar.
 
 :::
 ```
 ``` tab [group1:Attributes]
-- **king**: pursued his escaping wife
-- **king**: killed her
+- **Bébinn**: a common female name in early Ireland
+- **Bébinn**: a patroness of birth and sister of Bóand
+- **Bébinn**: mother of the hero Fráech
+- **Bébinn**: later a daughter of Elcmar
 ```
 ``` tab [group1:Entities]
-- **king**: person
-- **wife**: person
+- **Bébinn**: Deity
+- **Bóand**: Deity
+- **Fráech**: Person
+- **Maiden's Land**: Place
+- **Isle of Man**: Place
 ```
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
+- MacKillop 2008, s.v. 'Bébinn'.
 ```

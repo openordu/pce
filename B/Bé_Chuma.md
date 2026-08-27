@@ -2,48 +2,55 @@
 layout: layouts/pce.njk
 title: Bé Chuma
 icon: file-lines
-order: 218
+order: 392
 contributors: [ 'Christopher Godwin' ]
 attributes:
-  - Tara represented Sovereignty over the land
-  - Bé Chuma could have replaced one king with another
-  - Bé Chuma was forced to leave Tara
-  - Art returned with a wife
-  - wife demanded Bé Chuma’s ostracism
+  - Bé Chuma a woman married to Conn, the king of Ireland
+  - Bé Chuma banished from the Otherworld for a sin
+  - Bé Chuma the wife of Eógan Inbir before her exile
+  - Bé Chuma known as Bé Chuma of the Fair Skin
 categories:
-  - Location
-  - Person
+  - Deity
+  - Group
   - Concept
+  - Person
+  - Place
 entities:
-  - Tara(Location)
-  - Sovereignty(Concept)
-  - Bé Chuma(Person)
-  - Art(Person)
+  - Bé Chuma(Deity)
+  - Tuatha Dé Danann(Group)
+  - Art Mac Cuinn(Person)
+  - Conn of the Hundred Battles(Person)
+  - Tara(Place)
+  - Otherworld(Concept)
 tags:
-  - Tara
-  - Sovereignty
   - Bé Chuma
-  - Art
+  - Tuatha Dé Danann
+  - Art Mac Cuinn
+  - Conn of the Hundred Battles
+  - Tara
+  - Otherworld
 ---
 ``` tab [group1:Info]
 ::: magazinestyle
-A goddess or heroine in Irish mythology, Bé Chuma (also spelled Bechuma, Bé Cuma, Bé cuma) was a member of the mystical race of the Tuatha Dé Danann, renowned for her insatiable desires. Hailing from the Otherworld, she abandoned her powerful husband for another man, which led to her banishment from her realm to ours. Her capriciousness continued on this earth, as she yearned for her stepson Art Mac Cuinn while being married to the king of Tara, Conn of the Hundred Battles. As the queen of Tara symbolized the authority over the land, Bé Chuma had the ability to replace a king with another. Rather than seizing the opportunity, she was sent away from Tara when Art came back with his wife and demanded Bé Chuma's banishment.
+Bé Chuma is a sorrowful woman from the Otherworld. Her name, from the Irish, means a woman who carries grief. She was, to tell the truth, the wife of Eógan Inbir. A sin with Gaidiar, son of Manannán mac Lir, drove her out. She lost her home and was exiled to the land of men. Conn, the king of Ireland, then took her as his own wife. Bé Chuma, however, lusted after his son Art. The druids said her acts brought a curse upon the country. She had Art sent away and treated it as a remedy. When Art came back with Delbcháem, who was his new wife, Bé Chuma had to leave Tara.
 
 :::
 ```
 ``` tab [group1:Attributes]
-- **Tara**: represented Sovereignty over the land
-- **Bé Chuma**: could have replaced one king with another
-- **Bé Chuma**: was forced to leave Tara
-- **Art**: returned with a wife
-- **wife**: demanded Bé Chuma’s ostracism
+- **Bé Chuma**: a woman married to Conn, the king of Ireland
+- **Bé Chuma**: banished from the Otherworld for a sin
+- **Bé Chuma**: the wife of Eógan Inbir before her exile
+- **Bé Chuma**: known as Bé Chuma of the Fair Skin
 ```
 ``` tab [group1:Entities]
-- **Tara**: Location
-- **Sovereignty**: Concept
-- **Bé Chuma**: Person
-- **Art**: Person
+- **Bé Chuma**: Deity
+- **Tuatha Dé Danann**: Group
+- **Art Mac Cuinn**: Person
+- **Conn of the Hundred Battles**: Person
+- **Tara**: Place
+- **Otherworld**: Concept
 ```
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
+- MacKillop 2008, s.v. 'Bé Chuma'.
 ```

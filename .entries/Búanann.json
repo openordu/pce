@@ -1,59 +1,60 @@
 {
-    "name": "Búanann",
-    "entities": [
-        {
-            "entity": "Búanann",
-            "type": "Deity"
-        },
-        {
-            "entity": "Cormac",
-            "type": "Person"
-        },
-        {
-            "entity": "Anu",
-            "type": "Deity"
-        },
-        {
-            "entity": "Fionn Mac Cumhaill",
-            "type": "Person"
-        },
-        {
-            "entity": "Fenian Cycle",
-            "type": "Title"
-        }
-    ],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "attributes": [
-        {
-            "entity": "Búanann",
-            "attribute": "an Irish heroine or goddess"
-        },
-        {
-            "entity": "Búanann",
-            "attribute": "called by Cormac the mother of heroes"
-        },
-        {
-            "entity": "Búanann",
-            "attribute": "connected with deities of the land's abundance"
-        },
-        {
-            "entity": "Búanann",
-            "attribute": "a warrior woman who trained Fionn Mac Cumhaill"
-        }
-    ],
-    "cyphertext": "-BX-KNDj9eCSjIOSZxOq7KJ9tbocg8-y85xdgteD-0EjxOwUs7GQ5Voj3iASD9wGyPKAGRvPIUJk4ToDAJVTVx8NS7hwZEvKx8TlylIRYn6iotn7qFnUw8pp8uSMJKDY1DMNqWaeZtwEnytEmW4S3CgcCHECuxVeypiG6zelCVIzROS87LO9rRzgn8eGHH5WpWu2QZb5vHs-7Za04D1JW_N7K11Ap6A_Tl1ytf1xRZBlEqq_YwcHUW7e2dhMeWFlUlkZk2sUlLByk5OmV1SzDVgmqZMor945HOpx1ja4VOz4xCn_2bROuX3fi8bOVRTPcqozIrkY_txXgZBcjddwJEuc-vdX6VVew-PPcrDp3EVJoPQZJTFiIRIMPUVuA24pf8qCXFIGDS-xjyL2FT0fCbBPJ5cIZYIIykpcpmD0ZpKhGKEinZJRGdaGM9tf1mWEVQ5uxuAfmY54IlSjJJn3BX7znAOEsXL50qehKjOH4iGkSivJwe7MHVixIZHF1vd4FTeJ0Tr5AkfzCYOX_XTbNmQ2hsCaTTgsFWubjRVOLtqxGfvFcw8Zo1RRRjSy16EUpQVYn7nc3BPy6hDSODmXfnZoXRhjtP61JMSdPLXLJCq9kPzFd7oqjCXkxpcwQB_FpXuXLGfrw0fIdRqlRkSw7w8wH4ehgoLhJeVBDsUDKq3uHewsj6hDlKX9asuF8praO1MR5C0=",
-    "salt": "cdDuW2ZUhlaXJxWbp43w9Q==",
-    "text": "Búanann is an Irish heroine or goddess. The early scholar Cormac called her the mother of heroes. That title is a common epithet for a goddess. She is an obscure figure whom some connect with deities of the land's abundance. Her name is sometimes read as good mother. Some texts set her against Anu, mother of the gods. In the Fenian Cycle she appears as a warrior woman. She trained the great hero Fionn Mac Cumhaill.",
-    "okr": {
-        "objective": "Describe Búanann as a goddess of heroes who trained Fionn Mac Cumhaill.",
-        "key_results": [
-            "Cormac called Búanann the mother of heroes.",
-            "She is an obscure figure linked to deities of the land's abundance.",
-            "In the Fenian Cycle she is a warrior woman.",
-            "She trained the great hero Fionn Mac Cumhaill."
-        ],
-        "evidence": "Monaghan 2008, s.v. 'Búanann'."
+  "name": "Búanann",
+  "entities": [
+    {
+      "entity": "Búanann",
+      "type": "Deity"
+    },
+    {
+      "entity": "Cormac",
+      "type": "Person"
+    },
+    {
+      "entity": "Anu",
+      "type": "Deity"
+    },
+    {
+      "entity": "Fionn Mac Cumhaill",
+      "type": "Person"
+    },
+    {
+      "entity": "Fenian Cycle",
+      "type": "Title"
     }
+  ],
+  "sources": [
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.",
+    "MacKillop 2008, s.v. 'Búanann'."
+  ],
+  "attributes": [
+    {
+      "entity": "Búanann",
+      "attribute": "an amazonian goddess who is the nurse of warriors"
+    },
+    {
+      "entity": "Búanann",
+      "attribute": "teacher of Cúchulainn and Scáthach"
+    },
+    {
+      "entity": "Búanann",
+      "attribute": "called the mother of the Fianna"
+    },
+    {
+      "entity": "Búanann",
+      "attribute": "a probable match for the Roman goddess Minerva"
+    }
+  ],
+  "cyphertext": "-BX-KNDj9eCSjIOSZxOq7KJ9tbocg8-y85xdgteD-0EjxOwUs7GQ5Voj3iASD9wGyPKAGRvPIUJk4ToDAJVTVx8NS7hwZEvKx8TlylIRYn6iotn7qFnUw8pp8uSMJKDY1DMNqWaeZtwEnytEmW4S3CgcCHECuxVeypiG6zelCVIzROS87LO9rRzgn8eGHH5WpWu2QZb5vHs-7Za04D1JW_N7K11Ap6A_Tl1ytf1xRZBlEqq_YwcHUW7e2dhMeWFlUlkZk2sUlLByk5OmV1SzDVgmqZMor945HOpx1ja4VOz4xCn_2bROuX3fi8bOVRTPcqozIrkY_txXgZBcjddwJEuc-vdX6VVew-PPcrDp3EVJoPQZJTFiIRIMPUVuA24pf8qCXFIGDS-xjyL2FT0fCbBPJ5cIZYIIykpcpmD0ZpKhGKEinZJRGdaGM9tf1mWEVQ5uxuAfmY54IlSjJJn3BX7znAOEsXL50qehKjOH4iGkSivJwe7MHVixIZHF1vd4FTeJ0Tr5AkfzCYOX_XTbNmQ2hsCaTTgsFWubjRVOLtqxGfvFcw8Zo1RRRjSy16EUpQVYn7nc3BPy6hDSODmXfnZoXRhjtP61JMSdPLXLJCq9kPzFd7oqjCXkxpcwQB_FpXuXLGfrw0fIdRqlRkSw7w8wH4ehgoLhJeVBDsUDKq3uHewsj6hDlKX9asuF8praO1MR5C0=",
+  "salt": "cdDuW2ZUhlaXJxWbp43w9Q==",
+  "text": "Búanann is an amazonian goddess of war in Irish legend. Her people call her the lasting one, from the Irish word for endurance. She stood as the nurse of warriors. Cúchulainn went over to Britain, and there he trained with both her and Scáthach. Búanann was so good to Fionn and his men that they named her the mother of the Fianna. She may be set beside Setlocenia, but no real tie binds their names. Some liken her to the Roman goddess Minerva. In the Cattle Raid of Cooley, the queen of war took her name from the word Buan.",
+  "okr": {
+    "objective": "Describe Búanann, the amazonian nurse of warriors.",
+    "key_results": [
+      "Búanann is the goddess who is the nurse of warriors.",
+      "Cúchulainain trained with her and charge with Scáthach.",
+      "Fionn and his men called her the mother of the Fianna.",
+      "She pairs well with the Roman goddess Minerva."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Búanann'."
+  }
 }
