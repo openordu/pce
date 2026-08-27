@@ -1,0 +1,47 @@
+{
+  "name": "Borba",
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "text": "Borba is an enemy of the great hunter Fionn mac Cumhaill who turns up in Fenian folklore. The tales portray him as rough, cutting, and haughty in his dealings with the Fianna. The records name Sinsar as his father. That puts him clearly inside the family lines of this storytelling world. His constant clashes with Fionn and his band make him a recurring source of danger across many traditional adventures. He stands out mainly through his proud and aggressive tone rather than any single notable deed.",
+  "entities": [
+    {
+      "entity": "Borba",
+      "type": "Character"
+    },
+    {
+      "entity": "Fionn mac Cumhaill",
+      "type": "Person"
+    },
+    {
+      "entity": "Sinsar",
+      "type": "Person"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Borba",
+      "attribute": "an adversary of Fionn mac Cumhaill in Fenian folk tales"
+    },
+    {
+      "entity": "Borba",
+      "attribute": "fierce, harsh, and arrogant in temperament"
+    },
+    {
+      "entity": "Borba",
+      "attribute": "the son of Sinsar"
+    }
+  ],
+  "okr": {
+    "objective": "Describe the figure Borba as an opponent within Fenian folklore.",
+    "key_results": [
+      "Borba makes an appearance in Fenian tales.",
+      "He behaves in a fierce, harsh, and arrogant way.",
+      "He is the son of Sinsar."
+    ],
+    "evidence": "MacKillop 2008, s.v. Borba."
+  },
+  "sources": [
+    "MacKillop 2008, s.v. Borba."
+  ]
+}
