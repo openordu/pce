@@ -1,32 +1,97 @@
 {
-  "name": "Lailoken",
-  "text": "Lailoken is a hermit of the medieval Scottish tradition who lives in great hardship in the wild and is said to have the power of visions. The figure closely matches the Suibne Geilt of Ireland and the Myrddin of Wales, whom many writers know as Merlin, and all three are thought to share a common north British origin. The Scottish texts that mention Lailoken are the Lives of Saint Kentigern, written soon after the Anglo-Norman reorganisation of the Scottish Church. Two tales, named 'Kentigern's Encounter with Lailoken' and 'Lailoken in King Meldred's Court', survive in a late manuscript and were labelled Vita Merlini Silvestris. The wild-man story probably began as a popular tale of Cumbric Strathclyde, linked to the battle of Arfderydd. Lailoken is a Brythonic name tied to the Middle Welsh word llallog 'friend', 'brother', or 'lord'.",
-  "entities": [
-    {"entity": "Lailoken", "type": "Person"},
-    {"entity": "Suibne Geilt", "type": "Person"},
-    {"entity": "Myrddin", "type": "Person"},
-    {"entity": "Saint Kentigeern", "type": "Person"},
-    {"entity": "Vita Meriniali", "type": "Artefact"},
-    {"entity": "Strathclyde", "type": "Place"},
-    {"entity": "battle of Arfderydd", "type": "Event"}
-  ],
-  "attributes": [
-    {"entity": "Lailoken", "attribute": "a wild hermit with visionary powers in medieval Scottish texts"},
-    {"entity": "Lailoken", "attribute": "closely parallel to the Irish Suibne Geilt and the Welsh Myrddin"},
-    {"entity": "Lailoken", "attribute": "features in the Lives of Saint Kentigern and in tales headed Vita Merlini"}
-  ],
-  "okr": {
-    "objective": "Portray the wild man Lailoken and his place in north British and Merlin tradition.",
-    "key_results": [
-      "Define Lailoken as a wild visionary hermit",
-      "Relate him to Suibne Geilt and Myrddin",
-      "Trace his stories in the Lives of Saint Kentigern",
-      "Explain his name from Middle Welsh"
-    ],
-    "evidence": "Koch 2006, s.v. 'Lailoken'."
+ "name": "Lailoken",
+ "text": "Lailoken is a hermit of the medieval Scottish tradition who lives in great hardship in the wild and is said to have the power of visions. The figure closely matches the Suibne Geilt of Ireland and the Myrddin of Wales, whom many writers know as Merlin, and all three are thought to owe a shared north British origin. The Scottish texts that first name Lailoken are the Lives of Saint Kentigern, written soon after the Anglo-Norman overhaul of the Scottish Church. Two tales, named 'Kentigern's Encounter with Lailoken' and 'Lailoken in King Meldred's Court', survive in a late manuscript and were headed the Vita Merlini Silvestris. The wild man story likely began as a popular tale of Cumbric Strathclyde, joined to the battle of Arfderydd. Lailoken is a Brythonic name that links to the Middle Welsh word llallog, meaning friend, brother, or lord.\n\nMacKillop paints Lailoken as a naked, hairy wild man of the woods. He shows prophetic gifts at the court of Rhydderch Hael in Strathclyde, a Welsh tongue realm of the Old North, that is the Scottish Lowlands, in the 6th century. By the same line of argument, much of the Lailoken story feeds Geoffrey of Monmouth's picture of Merlin in the Vita Merlini from about 1149. In the 15th-century Scottish tale called 'Lailoken and Kentigern', the hairy wild man tells Saint Kentigern that he brought to an end the fighters who died at the battle of Arfderydd. That meeting is dated 573 or 575. The text says the figure named Myrddin, the man behind the Merlin of legend, went mad after that defeat.",
+ "entities": [
+  {
+   "entity": "Lailoken",
+   "type": "Person"
   },
-  "image": [],
-  "cyphertext": "",
-  "salt": "",
-  "sources": ["Koch 2006, s.v. 'Lailoken'"]
+  {
+   "entity": "Suibne Geilt",
+   "type": "Person"
+  },
+  {
+   "entity": "Myrddin",
+   "type": "Person"
+  },
+  {
+   "entity": "Saint Kentigeern",
+   "type": "Person"
+  },
+  {
+   "entity": "Vita Meriniali",
+   "type": "Artefact"
+  },
+  {
+   "entity": "Strathclyde",
+   "type": "Place"
+  },
+  {
+   "entity": "battle of Arfderydd",
+   "type": "Event"
+  },
+  {
+   "entity": "Rhydderch Hael",
+   "type": "Person"
+  },
+  {
+   "entity": "Geoffrey of Monmouth",
+   "type": "Person"
+  },
+  {
+   "entity": "Vita Merlini",
+   "type": "Work"
+  },
+  {
+   "entity": "Saint Kentigern",
+   "type": "Person"
+  }
+ ],
+ "attributes": [
+  {
+   "entity": "Lailoken",
+   "attribute": "a wild hermit with visionary powers in medieval Scottish texts"
+  },
+  {
+   "entity": "Lailoken",
+   "attribute": "closely parallel to the Irish Suibne Geilt and the Welsh Myrddin"
+  },
+  {
+   "entity": "Lailoken",
+   "attribute": "features in the Lives of Saint Kentigern and in tales headed Vita Merlini"
+  },
+  {
+   "entity": "Lailoken",
+   "attribute": "a naked, hairy wild man of the woods with vision"
+  },
+  {
+   "entity": "Lailoken",
+   "attribute": "served at the court of Rhydderch Hael in Strath"
+  },
+  {
+   "entity": "Geoffrey of Monmouth",
+   "attribute": "drew on Lailoken for his picture of Merlin"
+  },
+  {
+   "entity": "Lailoken",
+   "attribute": "to blame for the deaths at the battle of Arfderydd"
+  }
+ ],
+ "okr": {
+  "objective": "Show Lailoken as the north British wild man whose story shaped the legend of Merlin.",
+  "key_results": [
+   "Define Lailoken as a naked, hairy wild man",
+   "Place him at Rhydderch Hael's court",
+   "Trace his role in Geoffrey's Merlin",
+   "Tell of his confession at the battle of Arfderydd"
+  ],
+  "evidence": "Koch 2006, s.v. 'Lailoken'; MacKillop 2008, s.v. 'Lailoken'"
+ },
+ "image": [],
+ "cyphertext": "",
+ "salt": "",
+ "sources": [
+  "Koch 2006, s.v. 'Lailoken'",
+  "MacKillop 2008, s.v. 'Lailoken'"
+ ]
 }

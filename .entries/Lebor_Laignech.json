@@ -1,64 +1,65 @@
 {
-  "name": "Lebor Laignech",
-  "text": "Lebor Laignech, the Book of Leinster, is an early Irish manuscript written wholly in Irish. Scholars date it between 1151 and 1224. The main compiler was likely Aed Ua Crimthainn, the last abbot of Terryglas. Several of his pupils also worked on the codex. The name Book of Leinster came from the scholar John O'Donovan. R. I. Best argued the older name was Lebor na Nuachongbála. The manuscript surfaced in Sradbally, County Laois, in the fourteenth century. A fire at Terryglas in 1164 forced completion elsewhere. The codex holds tales, poems, and genealogies. It mixes religious and historical matter. It carries the oldest form of the metrical dindshenchas. Some texts are prime copies of Ulster Cycle tales. These include Táin Bó Cuailnge and Mesca Ulad. The book draws on earlier codices such as the Saltair Chaisil. It ranks as the largest of the early Irish codices.",
-  "entities": [
-    {
-      "entity": "Lebor Laignech",
-      "type": "Artefact"
-    },
-    {
-      "entity": "Aed Ua Crimthainn",
-      "type": "Person"
-    },
-    {
-      "entity": "John O'Donovan",
-      "type": "Person"
-    },
-    {
-      "entity": "Terryglas",
-      "type": "Place"
-    },
-    {
-      "entity": "Táin Bó Cuailnge",
-      "type": "Artefact"
-    }
-  ],
-  "attributes": [
-    {
-      "entity": "Lebor Laignech",
-      "attribute": "written wholly in Irish between 1151 and 1224"
-    },
-    {
-      "entity": "Aed Ua Crimthainn",
-      "attribute": "last abbot of Terryglas and probable main compiler"
-    },
-    {
-      "entity": "Lebor Laignech",
-      "attribute": "holds the oldest form of the metrical dindshenchas"
-    },
-    {
-      "entity": "Lebor Laignech",
-      "attribute": "preserves notable copies of Táin Bó Cuailnge and Mesca Ulad"
-    },
-    {
-      "entity": "Lebor Laignech",
-      "attribute": "drew on earlier codices such as the Saltair of Cashel"
-    }
-  ],
-  "okr": {
-    "objective": "Present the Book of Leinster manuscript and its origins.",
-    "key_results": [
-      "Date the compilation to 1151-1224 with Aed Ua Crimthainn as chief compiler",
-      "State the alternate title Lebor na Nuachongbála argued by R. I. Best",
-      "Describe the range of Irish, historical, and poetic contents",
-      "Note that it preserves notable Ulster Cycle tales including Táin Bó Cuailnge"
-    ],
-    "evidence": "Koch 2006, s.v. 'Lebor Laignech'."
+ "name": "Lebor Laignech",
+ "text": "Lebor Laignech, the Book of Leinster, is an early Irish manuscript written entirely in Irish. Scholars date it between 1151 and 1224. MacKillop sets the compilation after 1150. The main compiler was likely Aed Ua Crimthainn, the last abbot of Terryglas. Several of his pupils also worked on the codex. The name Book of Leinster came from the scholar John O'Donovan. R. I. Best argued the older name was Lebor na Nuachongbala. The manuscript was preserved at Sradbally, County Laois, in the fourteenth century. A fire at Terryglas in 1164 forced work to finish elsewhere. MacKillop ranks the Book of Leinster second among sources of Irish legend, behind only that great Dublin treasure, the Dun Cow volume. The codex holds tales, poems, and genealogies. It mixes religious and historical matter. It carries the oldest form of the metrical dindshenchas, the lore of place-names. Some of this lore dates from the eleventh century. The codex preserves a key copy of the Táin Bó Cuailnge and the Ulster tale Mesca Ulad. It holds the pseudo-history Lebor Gabála, the Book of Invasions. The Deirdre story and the Borama also survive in its leaves. MacKillop notes that the manuscript is divided between two Dublin libraries: Trinity College and also the Franciscan Library. The Book of Leinster first appeared in facsimile in 1870. A six-volume edition followed between 1954 and 1983, prepared by four scholars: Best, Bergin, O'Brien, and O'Sullivan.",
+ "entities": [
+  {
+   "entity": "Lebor Laignech",
+   "type": "Artefact"
   },
-  "image": [],
-  "cyphertext": "",
-  "salt": "",
-  "sources": [
-    "Koch 2006, s.v. 'Lebor Laignech'"
-  ]
+  {
+   "entity": "Aed Ua Crimthainn",
+   "type": "Person"
+  },
+  {
+   "entity": "John O'Donovan",
+   "type": "Person"
+  },
+  {
+   "entity": "Terryglas",
+   "type": "Place"
+  },
+  {
+   "entity": "Táin Bó Cuailnge",
+   "type": "Artefact"
+  }
+ ],
+ "attributes": [
+  {
+   "entity": "Lebor Laignech",
+   "attribute": "written wholly in Irish between 1151 and 1224"
+  },
+  {
+   "entity": "Aed Ua Crimthainn",
+   "attribute": "last abbot of Terryglas and probable main compiler"
+  },
+  {
+   "entity": "Lebor Laignech",
+   "attribute": "holds the oldest form of the metrical dindshenchas"
+  },
+  {
+   "entity": "Lebor Laignech",
+   "attribute": "preserves notable copies of Táin Bó Cuailnge and Mesca Ulad"
+  },
+  {
+   "entity": "Lebor Laignech",
+   "attribute": "drew on earlier codices such as the Saltair of Cashel"
+  }
+ ],
+ "okr": {
+  "objective": "Present the Book of Leinster manuscript and its origins.",
+  "key_results": [
+   "Date the compilation to 1151-1224 with Aed Ua Crimthainn as chief compiler",
+   "State the alternate title Lebor na Nuachongbála argued by R. I. Best",
+   "Describe the range of Irish, historical, and poetic contents",
+   "Note that it preserves notable Ulster Cycle tales including Táin Bó Cuailnge"
+  ],
+  "evidence": "Koch 2006, s.v. 'Lebor Laignech'."
+ },
+ "image": [],
+ "cyphertext": "",
+ "salt": "",
+ "sources": [
+  "Koch 2006, s.v. 'Lebor Laignech'",
+  "MacKillop 2008, s.v. 'Lebor Laignech'"
+ ]
 }
