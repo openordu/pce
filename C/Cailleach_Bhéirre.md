@@ -2,56 +2,48 @@
 layout: layouts/pce.njk
 title: Cailleach Bhéirre
 icon: file-lines
-order: 371
+order: 410
 contributors: [ 'Christopher Godwin' ]
 attributes:
   - Cailleach Béirre the old hag of Beare who is the subject of an early Irish poem
-  - contemptus jun dias the contempt-for-the-world theme that Martin sees as dominant
-  - Proinsias Mac Cana reads the poem as the clash between Christianity and the pagan world
-  - John Carey holds that the old woman is Christian and faces death rather than renewal
-  - brat the poem's word for mantle or cloak used for spread vegetation
-  - B. K. Martin regarded the theme of contempt as the poem's focus
+  - Cailleach Bhéirre the Irish sovereignty hag of the Beare peninsula in south-western Ireland
 categories:
   - Person
   - Figure
-  - Concept
 entities:
+  - Cailleach Bhéirre(Person)
   - Cailleach Béirre(Person)
-  - contemptus mundi(Concept)
-  - Proinsias Mac Cana(Person)
-  - John Carey(Person)
-  - B. K. Martin(Person)
+  - Digde(Person)
+  - Bui(Person)
+  - Lug Lámfhota(Person)
   - Old Woman of Beare(Figure)
 tags:
+  - Cailleach Bhéirre
   - Cailleach Béirre
-  - contemptus mundi
-  - Proinsias Mac Cana
-  - John Carey
-  - B. K. Martin
+  - Digde
+  - Bui
+  - Lug Lámfhota
   - Old Woman of Beare
 ---
 ``` tab [group1:Info]
 ::: magazinestyle
-The Cailleach Bhéirre, also called the Old Woman of Beare, is the subject of an early Irish poem. Readers have offered many readings of the work. B. K. Martin judged that it treats the theme of contempt for the world, and that the poem may draw on Latin poetry. Proinsias Mac Cana read the work as showing the strong clash between Christianity and the old pagan world. John Carey held that the old woman is Christian, not pagan. She faces death, not renewal, and sees the cycles of nature as unlike her own human state. The poet stresses the contrast between the ageing body and the endless renewal of nature. The sea floods again after ebb, and fresh growth covers the land every year. The poem applies the word brat, meaning mantle or cloak, in several senses, even for the green spread cast by the King over Drumain. The work may be set beside the Bible's Epistle, where the heavens grow threadbare like a cloak.
+The Cailleach Bhéirre is the old woman and hag of Beare. She stands as the leading Irish sovereignty figure of her kind. Her home is the Beare peninsula in south-western Ireland. That headland opens from Bantry Bay toward the Kenmare estuary, touching Cork and Kerry. She carries other names such as Digde, Dige, and Duineach. A Connacht tale sets her at Slieve Daeane near Sligo. She seems the same being as Bui, the wife of Lug Lámfhota. As sovereignty she comes as an ugly old woman who begs to be loved. Once she gains that love she turns into a beautiful young maiden. She outlives at least seven spells of youth. Each husband grows old and dies in her care. She raised fifty foster-children in Beare, and her descendants became whole peoples. The Book of Lecan links her to the Corcu Duibne. The claim that she is a veiled nun is a later Christian fiction. In a famed monologue she says she is the poet's mistress, not the king's. The same loathsome lady appears in English tales of her kind.
 
 :::
 ```
 ``` tab [group1:Attributes]
 - **Cailleach Béirre**: the old hag of Beare who is the subject of an early Irish poem
-- **contemptus jun dias**: the contempt-for-the-world theme that Martin sees as dominant
-- **Proinsias Mac Cana**: reads the poem as the clash between Christianity and the pagan world
-- **John Carey**: holds that the old woman is Christian and faces death rather than renewal
-- **brat**: the poem's word for mantle or cloak used for spread vegetation
-- **B. K. Martin**: regarded the theme of contempt as the poem's focus
+- **Cailleach Bhéirre**: the Irish sovereignty hag of the Beare peninsula in south-western Ireland
 ```
 ``` tab [group1:Entities]
+- **Cailleach Bhéirre**: Person
 - **Cailleach Béirre**: Person
-- **contemptus mundi**: Concept
-- **Proinsias Mac Cana**: Person
-- **John Carey**: Person
-- **B. K. Martin**: Person
+- **Digde**: Person
+- **Bui**: Person
+- **Lug Lámfhota**: Person
 - **Old Woman of Beare**: Figure
 ```
 ``` tab [group1:Sources]
 - Koch 2006, s.v. 'Cailleach Bhéirre'
+- MacKillop 2008, s.v. 'Cailleach Bhéirre'.
 ```
