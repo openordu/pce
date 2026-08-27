@@ -1,0 +1,39 @@
+{
+  "name": "Kilkenny cats",
+  "text": "The Kilkenny cats are the subject of a well-known Irish folk-tale. Two cats fight until nothing remains but their tails and claws. The story alludes to the enmity between the Anglo-Norman settlers of Ireland and the native Gaelic Irish. A small stream alone divided the two groups in the town of Kilkenny in Leinster. The Anglo-Normans tried to hold their privileged standing under the Statute of Kilkenny of 1367. Modern commentators reject the later claim that real cats fought this way.",
+  "entities": [
+    {
+      "entity": "Kilkenny",
+      "type": "Place"
+    },
+    {
+      "entity": "Leinster",
+      "type": "Region"
+    },
+    {
+      "entity": "Statute of Kilkenny",
+      "type": "Work"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Kilkenny cats",
+      "attribute": "folk-tale of two fighting cats"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Kilkenny cats'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Record Kilkenny cats.",
+    "key_results": [
+      "State what the cats do.",
+      "Name the town of the tale.",
+      "Name the statute the tale recalls."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Kilkenny cats'"
+  }
+}

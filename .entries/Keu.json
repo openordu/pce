@@ -1,0 +1,39 @@
+{
+  "name": "Keu",
+  "text": "Keu is a variant spelling of the name Kay. Kay holds the office of seneschal to King Arthur in English romance, drawn from the Welsh figure Cei. English authors make Sir Kay an irascible and churlish retainer. He is also Arthur's foster-brother and a frequent companion in adventure.",
+  "entities": [
+    {
+      "entity": "Kay",
+      "type": "Person"
+    },
+    {
+      "entity": "Cei",
+      "type": "Person"
+    },
+    {
+      "entity": "Arthur",
+      "type": "Person"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Keu",
+      "attribute": "variant spelling of Kay"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Keu'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Record Keu.",
+    "key_results": [
+      "Give the common form of the name.",
+      "Name his office at court.",
+      "Note the Welsh source figure."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Keu'"
+  }
+}

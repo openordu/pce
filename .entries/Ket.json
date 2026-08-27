@@ -1,0 +1,47 @@
+{
+  "name": "Ket",
+  "text": "Ket is an English form of the name Cet. Cet is a Connacht warrior in the Ulster Cycle. Early Irish narratives give him several patronymics, among them mac Mágu. In the tale of Mac Da Thó's Pig he shames the Ulstermen by recalling his victories over them. He wounds Conchobar mac Nessa by hurling the hardened brain ball of Mesgegra. Conall Cernach later kills Cet. Later rulers of Connacht traced their line from him.",
+  "entities": [
+    {
+      "entity": "Cet",
+      "type": "Person"
+    },
+    {
+      "entity": "Connacht",
+      "type": "Region"
+    },
+    {
+      "entity": "Ulster Cycle",
+      "type": "Work"
+    },
+    {
+      "entity": "Conchobar mac Nessa",
+      "type": "Person"
+    },
+    {
+      "entity": "Conall Cernach",
+      "type": "Person"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Ket",
+      "attribute": "English form of Cet"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Ket'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Record Ket.",
+    "key_results": [
+      "Give the fuller form of the name.",
+      "Set the warrior in Connacht.",
+      "Name who kills him."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Ket'"
+  }
+}
