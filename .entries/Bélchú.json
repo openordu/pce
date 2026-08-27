@@ -1,0 +1,55 @@
+{
+  "name": "Bélchú",
+  "text": "Bélchú is a warrior of Connacht in the Ulster Cycle tales. He comes upon the battered hero Conall Cernach after the defeat of Cet. Conall Cernach bleeds so much that he pleads to be killed. Bélchú refuses to end the man and refuses to spare his pain. Instead he carries Conall Cernach home and heals him well. The three sons of Bélchú see the warrior strength of Conall Cernach. They plan to slay him before he can recover his power. Conall Cernach learns of the plan and turns the trap. He makes the sons bring about their own father instead. Then the hero overthrows all three and bore their heads to Ulster.",
+  "entities": [
+    {
+      "entity": "Bélchú",
+      "type": "Person"
+    },
+    {
+      "entity": "Conall Cernach",
+      "type": "Person"
+    },
+    {
+      "entity": "Cet",
+      "type": "Person"
+    },
+    {
+      "entity": "Connacht",
+      "type": "Kingdom"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Bélchú",
+      "attribute": "a warrior of Connacht in the Ulster Cycle"
+    },
+    {
+      "entity": "Bélchú",
+      "attribute": "finds and heals the wounded Conall Cernach"
+    },
+    {
+      "entity": "Conall Cernach",
+      "attribute": "makes the sons of Bélchú kill their own father"
+    },
+    {
+      "entity": "Cet",
+      "attribute": "the foe whose defeat left Conall Cernach wounded"
+    }
+  ],
+  "okr": {
+    "objective": "Retell the Ulster Cycle tale of the warrior Bélchú and the healing of Conall Cernach.",
+    "key_results": [
+      "identifies Bélchú as a warrior of Connacht",
+      "relates how he heals the wounded Conall Cernach after the fall of Cet",
+      "explains how Conall turns the three sons against their own father"
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Bélchú'."
+  },
+  "sources": [
+    "MacKillop 2008, s.v. 'Bélchú'."
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": ""
+}

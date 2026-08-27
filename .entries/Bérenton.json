@@ -1,0 +1,24 @@
+{
+  "name": "Bérenton",
+  "text": "Bérenton serves as another name for the great forest of Brocéliande in Brittany. Scholars record it as a variant spelling in French tradition. The woodland carries a deep store of Celtic legend. It hides springs, mossy stones, and shady clearings. Travellers link the site with the deeds of King Arthur's knights. Many tales place the famous fountain within its bounds. The forest keeps its link with the otherworld across the ages. Bérenton and Brocéliande describe one shared landscape. Both words summon the same images of oak and fern. The name appears in older maps and romances. It offers a window onto the medieval imagination. Visitors still walk its trails seeking echoes of the past.",
+  "entities": [
+    {"entity": "Bérenton", "type": "Place"},
+    {"entity": "Brocéliande", "type": "Place"}
+  ],
+  "attributes": [
+    {"entity": "Bérenton", "attribute": "variant name for the forest of Brocéliande"},
+    {"entity": "Brocéliande", "attribute": "legendary forest in Brittany"}
+  ],
+  "okr": {
+    "objective": "Document Bérenton as a cross-reference to Brocéliande",
+    "key_results": [
+      "Record the variant spelling of the forest name",
+      "Link the site to Celtic and Arthurian legend"
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Bérenton'"
+  },
+  "sources": ["MacKillop 2008, s.v. 'Bérenton'."],
+  "image": [],
+  "cyphertext": "",
+  "salt": ""
+}
