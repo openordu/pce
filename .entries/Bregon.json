@@ -1,50 +1,55 @@
 {
-    "name": "Bregon",
-    "attributes": [
-        {
-            "entity": "Bregon",
-            "attribute": "an Irish hero"
-        },
-        {
-            "entity": "Bregon",
-            "attribute": "named in the Book of Invasions"
-        },
-        {
-            "entity": "Bregon",
-            "attribute": "an ancestor of the Milesians"
-        }
-    ],
-    "entities": [
-        {
-            "entity": "Bregon",
-            "type": "Person"
-        },
-        {
-            "entity": "Book of Invasions",
-            "type": "Title"
-        },
-        {
-            "entity": "Milesians",
-            "type": "Group"
-        }
-    ],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "image": [
-        "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Torre_de_H%C3%A9rcules_-_DivesGallaecia2012-62.jpg/1200px-Torre_de_H%C3%A9rcules_-_DivesGallaecia2012-62.jpg"
-    ],
-    "cyphertext": "Bt2jZ688-BbL4uW4G0gexWbh7w3cCq3T-5mxkq12u4gGjXaAcZ65V_ngD1ZnwjhANYetHMDpP-_RX2j4KAVC9lEFaYP22XN3EVuGJsTcIZ954m_QY3DnR8peCokOv02Dan_IAykY9AX34r6FVL5ZHkhsyO0fWbSwUKOakeuV06twHGsqENGbZ3eTqTlmpGyRFeaJ0ITYpjbFdmaOejhW7YUZHeiyXJuAqUXH8jHTRBuHxlkY6j5sXuYEz_GnFLB6eQ==",
-    "salt": "3nD6OCzijgHXUfO5NrTlnQ==",
-    "text": "Bregon is an Irish hero. The Book of Invasions names him. That text tells Irish mythological history. He was an ancestor of the Milesians. The Milesians were the final conquerors of the island.",
-    "okr": {
-        "objective": "Describe Bregon, the Irish hero and ancestor of the Milesians.",
-        "key_results": [
-            "Bregon was an Irish hero.",
-            "The Book of Invasions names him.",
-            "He was an ancestor of the Milesians.",
-            "The Milesians were the final conquerors of the island."
-        ],
-        "evidence": "Monaghan 2008, s.v. 'Bregon'."
+  "attributes": [
+    {
+      "entity": "Bregon",
+      "attribute": "a variant form of the name Breogan"
+    },
+    {
+      "entity": "Breogan",
+      "attribute": "the hero who raised the tower in Spain"
+    },
+    {
+      "entity": "Ith",
+      "attribute": "the son of Breogan who saw Ireland from the tower"
     }
+  ],
+  "entities": [
+    {
+      "entity": "Bregon",
+      "type": "Person"
+    },
+    {
+      "entity": "Breogan",
+      "type": "Person"
+    },
+    {
+      "entity": "Ith",
+      "type": "Person"
+    },
+    {
+      "entity": "Milesians",
+      "type": "Group"
+    }
+  ],
+  "sources": [
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.",
+    "MacKillop 2008, s.v. 'Bregon'."
+  ],
+  "text": "Bregon is one old form of the name Breogan. This hero was a leader of the Milesians in the account of the ancient records. He raised a high tower on a far western shore. From the top of the tower his son Ith first saw the isle of Ireland across the water. That spark of a vision drew the Milesians at last to the land. So the tower holds a place in the founding tale of Irish story.",
+  "okr": {
+    "objective": "Describe the hero Bregon and the tower he built.",
+    "key_results": [
+      "Bregon is another form of the name Breogan.",
+      "He led the Milesians who came to Ireland.",
+      "He raised a tall tower on the western shore.",
+      "His son Ith saw Ireland from that height."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Bregon'."
+  },
+  "name": "Bregon",
+  "image": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Torre_de_H%C3%A9rcules_-_DivesGallaecia2012-62.jpg/1200px-Torre_de_H%C3%A9rcules_-_DivesGallaecia2012-62.jpg"
+  ],
+  "cyphertext": "Bt2jZ688-BbL4uW4G0gexWbh7w3cCq3T-5mxkq12u4gGjXaAcZ65V_ngD1ZnwjhANYetHMDpP-_RX2j4KAVC9lEFaYP22XN3EVuGJsTcIZ954m_QY3DnR8peCokOv02Dan_IAykY9AX34r6FVL5ZHkhsyO0fWbSwUKOakeuV06twHGsqENGbZ3eTqTlmpGyRFeaJ0ITYpjbFdmaOejhW7YUZHeiyXJuAqUXH8jHTRBuHxlkY6j5sXuYEz_GnFLB6eQ==",
+  "salt": "3nD6OCzijgHXUfO5NrTlnQ=="
 }

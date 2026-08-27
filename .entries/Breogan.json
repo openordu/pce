@@ -1,0 +1,31 @@
+{
+  "name": "Breogan",
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "text": "Breogan stands as a chief of the Milesian people in the Lebor Gabhála, the pseudo-history of Ireland. When that folk reached the Spanish coast he raised a famous tower at a place the record calls Brigantia. From its high height his son caught a far view of Ireland across the sea. The sight stirred him to sail and inspect the island. The same entry names Breogan the father of Bile and of Fuad. The hill named Sliab Fúada keeps the memory of that second son.",
+  "entities": [
+    {"entity": "Breogan", "type": "Person"},
+    {"entity": "Milesians", "type": "Group"},
+    {"entity": "Lebor Gabhála", "type": "Literary work"},
+    {"entity": "Brigantia", "type": "Place"},
+    {"entity": "Îth", "type": "Person"},
+    {"entity": "Bile", "type": "Person"},
+    {"entity": "Fuad", "type": "Person"}
+  ],
+  "attributes": [
+    {"entity": "Breogan", "attribute": "chief of the Milesian people"},
+    {"entity": "Breogan", "attribute": "built a famous tower in the pseudo-history"},
+    {"entity": "Breogan", "attribute": "the father of Bile and of Fuad"}
+  ],
+  "okr": {
+    "objective": "Present Breogan as a Milesian chief whose tower let his son spot Ireland.",
+    "key_results": [
+      "Breogan led the Milesian folk",
+      "he raised a famous tower at Brigantia",
+      "the record names him father of Bile and of Fuad"
+    ],
+    "evidence": "MacKillop 2008, s.v. Breogan."
+  },
+  "sources": ["MacKillop 2008, s.v. Breogan."]
+}
