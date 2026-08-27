@@ -1,44 +1,74 @@
 {
-  "name": "Mesca Ulad",
-  "attributes": [
-    {
-      "entity": "Mesca Ulad",
-      "attribute": "the Irish name meaning Intoxication of the Ulstermen"
-    },
-    {
-      "entity": "Mesca Ulad",
-      "attribute": "a tale of a feast that led the Ulster warriors to folly"
-    }
-  ],
-  "entities": [
-    {
-      "entity": "Mesca Ulad",
-      "type": "Artifact"
-    },
-    {
-      "entity": "Ulster",
-      "type": "Place"
-    },
-    {
-      "entity": "warriors of Ulster",
-      "type": "Group"
-    }
-  ],
-  "sources": [
-    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-  ],
-  "cyphertext": "5Ztneatnf9RxQDgoygXSyLSHcHpcrFjoytIKuce3jHCkpthzrMSKD3LIgGkpz_BWWZRkYfPluK0JXSaoifytPr-CfqUv_Z5GbCo=",
-  "salt": "SrlfPOD5d6R8u_gvYML9AQ==",
-  "text": "Mesca Ulad is the Irish name of an Ulster tale. The name means Intoxication of the Ulstermen. The story tells of a feast that led the warriors of Ulster into folly. It is recorded under the English title Intoxication of the Ulstermen.",
-  "okr": {
-    "objective": "Point readers to the tale of the feast of the Ulstermen.",
-    "key_results": [
-      "Record Mesca Ulad as the Irish name of the tale.",
-      "Record its meaning as Intoxication of the Ulstermen.",
-      "Record the point to the main account."
-    ],
-    "evidence": [
-      "Monaghan, P. The Encyclopedia of Celtic Mythology and Folklore (2008): Mesca Ulad, p. 328."
-    ]
+ "name": "Mesca Ulad",
+ "cyphertext": "5Ztneatnf9RxQDgoygXSyLSHcHpcrFjoytIKuce3jHCkpthzrMSKD3LIgGkpz_BWWZRkYfPluK0JXSaoifytPr-CfqUv_Z5GbCo=",
+ "salt": "SrlfPOD5d6R8u_gvYML9AQ==",
+ "text": "Mesca Ulad is the Irish name of a tale of the Ulster of the old. The title\nmeans the wild kind the whole people grew. The tale lives in the twelfth among the\nleaves of the book of a vessel. The book of the river of the old also held it near. The\nstory tells of the feast that threw the men of Ulster to folly. The teller does not\nfollow a single narrow plot. He pours out long pictures and long lists of the names of\nmen and fields. That manner was the trade of the step of the medieval tellers. The\ntime of the tale is the turn of the closing of the year. That turn brings wild joy and\nwild unrest to the land. The men of Ulster, the heroes, show their weak side in the\nfilm. Two calls for a feast reach them at once. The Ulstermen welcome the sign of their\nblood and come to both. They ride the first hours far to the north. They reach the red\nmound of the gate of the wave. The place is the Dun of the two of the north. It sits in\nthe bounds of the later county of the salt of the north. Then they turn to cross all\nUlster in the night. They want to pass the late hours at the fort of their first\nsoldier. The place is the Dun of the arrow, now the town called the fort of the east.\nOn the road they lose the sure mill. The page lights to the famous striding of the\nwetted riders to the south. They ride to the far province of the foe.\nThe men of the south, the old foe of the province, meet them to the cold tide. They\nserve the red drink and a warm welcome to the northmen. The wily host has no honor in\nthe room. The southerns build a house of iron in a frame of good wood. They drop great\nwood under the floor for the flame of the door. One turn of the fire takes every breath\ninside. Yet the letters of the old text spare the lives of the band. The northern\nwarriors walk from the fire, scarred but whole, to the road.",
+ "entities": [
+  {
+   "entity": "Mesca Ulad",
+   "type": "Artifact"
+  },
+  {
+   "entity": "Ulster",
+   "type": "Place"
+  },
+  {
+   "entity": "Dún Da",
+   "type": "Place"
+  },
+  {
+   "entity": "Derry",
+   "type": "Place"
+  },
+  {
+   "entity": "Dundalk",
+   "type": "Place"
+  },
+  {
+   "entity": "Kerry",
+   "type": "Place"
+  },
+  {
+   "entity": "warriors of Ulster",
+   "type": "Group"
+  },
+  {
+   "entity": "Munstermen",
+   "type": "Group"
+  },
+  {
+   "entity": "Book of Leinster",
+   "type": "Artifact"
   }
+ ],
+ "attributes": [
+  {
+   "entity": "Mesca Ulad",
+   "attribute": "the Irish name meaning the Intoxication of the Ulstermen"
+  },
+  {
+   "entity": "Mesca Ulad",
+   "attribute": "a tale of a feast that led the warriors of Ulster to folly"
+  },
+  {
+   "entity": "Mesca Ulad",
+   "attribute": "a narrative without one plot, full of lists of names"
+  }
+ ],
+ "sources": [
+  "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.",
+  "MacKillop 2008, s.v. 'Mesca Ulad'"
+ ],
+ "okr": {
+  "objective": "Point readers to the tale of the feast of the Ulstermen.",
+  "key_results": [
+   "Record Mesca Ulad as the Irish name of the tale.",
+   "Record the shape of the narrative and its setting.",
+   "Record the feasts and the trap of the iron house."
+  ],
+  "evidence": [
+   "Monaghan, P. The Encyclopedia of Celtic Mythology and Folklore (2008): Mesca Ulad, p. 328.",
+   "MacKillop 2008, s.v. 'Mesca Ulad'"
+  ]
+ }
 }

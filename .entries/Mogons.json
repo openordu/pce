@@ -1,78 +1,89 @@
 {
-  "name": "Mogons",
-  "attributes": [
-    {
-      "entity": "Mogons",
-      "attribute": "a Continental Celtic deity"
-    },
-    {
-      "entity": "Mogons",
-      "attribute": "name means to increase, a god of strength and fertility"
-    },
-    {
-      "entity": "Mogons",
-      "attribute": "an epithet of Vitiris at Netherby"
-    },
-    {
-      "entity": "Mogons",
-      "attribute": "linked with the place name of Mainz"
-    },
-    {
-      "entity": "Mogons",
-      "attribute": "name closes to the word for the great"
-    }
-  ],
-  "entities": [
-    {
-      "entity": "Mogons",
-      "type": "Being"
-    },
-    {
-      "entity": "Mogounos",
-      "type": "Being"
-    },
-    {
-      "entity": "Vitiris",
-      "type": "Being"
-    },
-    {
-      "entity": "Netherby",
-      "type": "Place"
-    },
-    {
-      "entity": "Penrith",
-      "type": "Place"
-    },
-    {
-      "entity": "Cumbria",
-      "type": "Place"
-    },
-    {
-      "entity": "Mainz",
-      "type": "Place"
-    },
-    {
-      "entity": "Mogontiacum",
-      "type": "Place"
-    }
-  ],
-  "sources": [
-    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-  ],
-  "cyphertext": "WiCMokny5V-PE6ZAKYoH5Ml7z7rpTXBZe5CF_UavnDoMTChlpoyGbEFXkkYGvFz0mmXiXNEkVJJI2bHxpB3Jbv99Ucype0yBPTRosPxHbf0TOuZtYqmwg-ajWItclVPSQ8my8WyCdRpNmFj3Rb_AZCsYxHwuVKteGgmcsVGXGU13qPugdlVETb0zGuPLsc9Z5dtfgh52F1NXc51ssDyS0uEv5OVIYyre_LKgN16EIPKKoKGmzUInFH-yhEqStydK5_KF",
-  "salt": "XGMjEj4jibU8ntRCKOonYg==",
-  "text": "Mogons, also called Mogounos, is a Continental Celtic god. The name may come from a word that means to increase, so he reads as a deity of strength and fertility. In Roman Britain Mogons appears as an epithet of the god Vitiris on a stone from Castra Exploratorum at Netherby, close to the west end of Hadrian's Wall. An independent deity of the same name is known at Voreda, the old Penrith in Cumbria. The name is an old form that sits with the word for great, the same stem behind the place-name Mogontiacum, the city that is now Mainz on the Rhine.",
-  "okr": {
-    "objective": "Document Mogons, the god of strength and fertility.",
-    "key_results": [
-      "Record the name and the variant Mogounos.",
-      "Record the increase meaning.",
-      "Record the epithet of Vitiris at Netherby.",
-      "Record the name echo in Mainz and Mogontiacum."
-    ],
-    "evidence": [
-      "Monaghan, P. The Encyclopedia of Celtic Mythology and Folklore (2008): Mogons entry, p. 334.",
-      "Koch, J. T. The Encyclopedia of Celtic Culture (2006): Mogons entry, with Vitiris and Mogontiacum."
-    ]
+ "name": "Mogons",
+ "cyphertext": "WiCMokny5V-PE6ZAKYoH5Ml7z7rpTXBZe5CF_UavnDoMTChlpoyGbEFXkkYGvFz0mmXiXNEkVJJI2bHxpB3Jbv99Ucype0yBPTRosPxHbf0TOuZtYqmwg-ajWItclVPSQ8my8WyCdRpNmFj3Rb_AZCsYxHwuVKteGgmcsVGXGU13qPugdlVETb0zGuPLsc9Z5dtfgh52F1NXc51ssDyS0uEv5OVIYyre_LKgN16EIPKKoKGmzUInFH-yhEqStydK5_KF",
+ "salt": "XGMjEj4jibU8ntRCKOonYg==",
+ "text": "Mogons is a title given, in Roman times, to a native Celtic deity. The spelling Mogounos also appears in the sources. The name sits close to a word that means the Great One. Many commentators translate the title in just that way. Evidence of the cult spreads across a wide region. Inscriptions survive from north Britain. Further examples come from eastern Gaul. Still more appear in what is now Germany. The sheer number of stones points to widespread worship. The spellings themselves vary from place to place. Records offer Mogunos, Mountus, and Mogtus among the forms. That wide variety of spelling leads some experts to a cautious reading. They propose that Mogons was a title applied to many deities. It may have served as an honorific rather than one god's true name. The same title could cover several separate gods at once. Such gods include Belatucadros and Coddius among the known names. The evidence suggests a shared label more than a single figure. His name is sometimes tied to the north British god Vitiris. A stone from Castra Exploratorum near Netherby carries that link. The site stands close to the west end of Hadrian's Wall. Netherby itself sits beside the old Roman frontier road. An independent deity of the same name is attested at Voreda. Voreda is the old Penrith in the modern county of Cumbria. The name rests on the very old stem for the word great. That same root lies behind the place-name Mogontiacum. Mogontiacum is the city now called Mainz on the river Rhine. Kenneth H. Jackson discussed the name in his book Language and History in Early Britain. The study appeared in Edinburgh in 1953. Jackson examined the grammar and the growth of the title across the province. His work set the frame for later study of the cult and its spread. The stones that carry the title mark the old roads too. Travelers, soldiers, and settlers all set up the same dedication far from one another. That spread gives the name a hold across the whole northern arc of the Roman world.",
+ "entities": [
+  {
+   "entity": "Mogons",
+   "type": "Being"
+  },
+  {
+   "entity": "Mogounos",
+   "type": "Being"
+  },
+  {
+   "entity": "Vitiris",
+   "type": "Being"
+  },
+  {
+   "entity": "Belatucadros",
+   "type": "Being"
+  },
+  {
+   "entity": "Coddius",
+   "type": "Being"
+  },
+  {
+   "entity": "Netherby",
+   "type": "Place"
+  },
+  {
+   "entity": "Penrith",
+   "type": "Place"
+  },
+  {
+   "entity": "Cumbria",
+   "type": "Place"
+  },
+  {
+   "entity": "Mainz",
+   "type": "Place"
+  },
+  {
+   "entity": "Mogontiacum",
+   "type": "Place"
   }
+ ],
+ "attributes": [
+  {
+   "entity": "Mogons",
+   "attribute": "a Continental Celtic deity"
+  },
+  {
+   "entity": "Mogons",
+   "attribute": "name means the Great One or to increase, a god of strength and fertility"
+  },
+  {
+   "entity": "Mogons",
+   "attribute": "an epithet of Vitiris at Netherby"
+  },
+  {
+   "entity": "Mogons",
+   "attribute": "a title applied to several deities such as Belatucadros and Coddius"
+  },
+  {
+   "entity": "Mogons",
+   "attribute": "linked with the place name Mainz and Mogontiacum"
+  }
+ ],
+ "sources": [
+  "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.",
+  "MacKillop 2008, s.v. 'Mogons'"
+ ],
+ "okr": {
+  "objective": "Document Mogons, the god of strength and fertility.",
+  "key_results": [
+   "Record the name, the Great One reading, and the variant Mogounos.",
+   "Record the spread of inscriptions from north Britain to Germany.",
+   "Record the reading as a title applied to several deities.",
+   "Record the epithet of Vitiris at Netherby and the echo in Mogontiacum.",
+   "Record Kenneth Jackson's discussion of the name."
+  ],
+  "evidence": [
+   "Monaghan, P. The Encyclopedia of Celtic Mythology and Folklore (2008): Mogons entry, pp. 334.",
+   "Koch, J. T. The Encyclopedia of Celtic Culture (2006): Mogons entry, with Vitiris and Mogontiacum.",
+   "MacKillop 2008, s.v. 'Mogons'"
+  ]
+ }
 }

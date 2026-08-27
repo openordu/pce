@@ -1,86 +1,112 @@
 {
-  "name": "Meath",
-  "attributes": [
-    {
-      "entity": "Meath",
-      "attribute": "the English name of the invisible fifth province Mide"
-    },
-    {
-      "entity": "Meath",
-      "attribute": "the spiritual center point set beyond the four physical provinces"
-    },
-    {
-      "entity": "Meath",
-      "attribute": "the word Mide means both neck and middle, joining sovereignty to the land"
-    },
-    {
-      "entity": "Meath",
-      "attribute": "the joining took place at the Stone of Divisions on the hill of Uisneach"
-    },
-    {
-      "entity": "Meath",
-      "attribute": "a later county of this name held the hill of Tara, the ancient political center"
-    }
-  ],
-  "entities": [
-    {
-      "entity": "Meath",
-      "type": "Place"
-    },
-    {
-      "entity": "Mide",
-      "type": "Place"
-    },
-    {
-      "entity": "Leinster",
-      "type": "Place"
-    },
-    {
-      "entity": "Munster",
-      "type": "Place"
-    },
-    {
-      "entity": "Connacht",
-      "type": "Place"
-    },
-    {
-      "entity": "Ulster",
-      "type": "Place"
-    },
-    {
-      "entity": "Uisneach",
-      "type": "Place"
-    },
-    {
-      "entity": "Tara",
-      "type": "Place"
-    },
-    {
-      "entity": "Stone of Divisions",
-      "type": "Artifact"
-    },
-    {
-      "entity": "sovereignty",
-      "type": "Concept"
-    }
-  ],
-  "sources": [
-    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-  ],
-  "cyphertext": "XG8-0WuJ8L0bD5tt10YXZDgG0wjKHZDJdgs9EFor--G7Eh3Sw2n98ALvCZI=",
-  "salt": "vHxd57YavrDbXB4xczRfQw==",
-  "text": "Meath is the English name of the province Mide. Ancient Ireland had four provinces: Leinster, Munster, Connacht, and Ulster. Mide, or Meath, was the invisible fifth. The Indo-European world view placed a mysterious center point beyond the four physical districts. Mide was that spiritual center, a place not of this world. The word Mide means both neck and middle. It marked the point where the idea of the land's sovereignty joined the physical land. The joining took place on the hill of Uisneach, at the cracked boulder called the Stone of Divisions. A later county named Meath held the hill of Tara, the island's ancient political center.",
-  "okr": {
-    "objective": "Document Meath, the English name of the invisible fifth province Mide.",
-    "key_results": [
-      "Record Meath as the English name of the province Mide.",
-      "Record the idea of the invisible fifth province.",
-      "Record the meaning of the word Mide as neck and middle.",
-      "Record the links to Uisneach, the Stone of Divisions, and the hill of Tara."
-    ],
-    "evidence": [
-      "Monaghan, P. The Encyclopedia of Celtic Mythology and Folklore (2008): Mide (Meath) entry, p. 330 (Meath See MIDE).",
-      "Koch, J. T. Encyclopedia of Celtic Culture (2006): Mide (Meath) article, p. 1297."
-    ]
+ "name": "Meath",
+ "cyphertext": "XG8-0WuJ8L0bD5tt10YXZDgG0wjKHZDJdgs9EFor--G7Eh3Sw2n98ALvCZI=",
+ "salt": "vHxd57YavrDbXB4xczRfQw==",
+ "text": "Meath is the English name for the province of Mide. The modern county of Meath covers nine hundred and three square miles. It lies in the Republic of Ireland. It sits north and west of County Dublin. The county is not identical with the ancient Mide. It is not coextensive with that older territory either. The name Meath comes down from Mide. The word Mide carries two meanings: neck and middle. Ancient Ireland knew four provinces. Those provinces were Leinster, Munster, Connacht, and Ulster. Mide stood apart as the invisible fifth. The Indo-European world view placed a mysterious center beyond the four physical districts. Mide filled the five provinces as their spiritual center. It was a place not fully of this world. It joined the idea of sovereignty to the physical soil. That joining took place at the Stone of Divisions on the hill of Uisneach. The cracked boulder gave a fixed point to the whole island. In later centuries the name took on a concrete county. Between the eighth and eleventh centuries the land lay inside a petty kingdom called Brega. Meath holds a great number of the best-known sites of early Irish civilization. The hill of Tara stands at its heart. The passage graves of Brug na Bóinne rise beside the Boyne. The assembly sites of Tailtiu and Tlachtga also fall within the county. Much of the Boyne valley runs through Meath. A later county took the name and kept the political weight. That county held Tara, the ancient capital of Ireland. Meath thus joins a mythic center to a real region. It carries both the sacred idea and the everyday map of Ireland.",
+ "entities": [
+  {
+   "entity": "Meath",
+   "type": "Place"
+  },
+  {
+   "entity": "Mide",
+   "type": "Place"
+  },
+  {
+   "entity": "Leinster",
+   "type": "Place"
+  },
+  {
+   "entity": "Munster",
+   "type": "Place"
+  },
+  {
+   "entity": "Connacht",
+   "type": "Place"
+  },
+  {
+   "entity": "Ulster",
+   "type": "Place"
+  },
+  {
+   "entity": "Uisneach",
+   "type": "Place"
+  },
+  {
+   "entity": "Tara",
+   "type": "Place"
+  },
+  {
+   "entity": "Brega",
+   "type": "Place"
+  },
+  {
+   "entity": "Brug na Bóinne",
+   "type": "Place"
+  },
+  {
+   "entity": "Tailtiu",
+   "type": "Place"
+  },
+  {
+   "entity": "Tlachtga",
+   "type": "Place"
+  },
+  {
+   "entity": "Boyne",
+   "type": "Place"
+  },
+  {
+   "entity": "Stone of Divisions",
+   "type": "Artifact"
+  },
+  {
+   "entity": "sovereignty",
+   "type": "Concept"
   }
+ ],
+ "attributes": [
+  {
+   "entity": "Meath",
+   "attribute": "the English name of the province of Mide"
+  },
+  {
+   "entity": "Meath",
+   "attribute": "a county of 903 square miles north and west of County Dublin"
+  },
+  {
+   "entity": "Meath",
+   "attribute": "not identical with nor coextensive with the ancient and medieval Mide"
+  },
+  {
+   "entity": "Meath",
+   "attribute": "holds Tara, Brug na Bóinne, Tailtiu, and Tlachtga"
+  },
+  {
+   "entity": "Mide",
+   "attribute": "the invisible fifth province and spiritual center beyond the four provinces"
+  },
+  {
+   "entity": "Mide",
+   "attribute": "the word means both neck and middle"
+  },
+  {
+   "entity": "Meath",
+   "attribute": "lay inside the petty kingdom of Brega between the 8th and 11th centuries"
+  }
+ ],
+ "sources": [
+  "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.",
+  "MacKillop 2008, s.v. 'Meath'"
+ ],
+ "okr": {
+  "objective": "Document Meath, the English name of the province and county of Mide.",
+  "key_results": [
+   "Record Meath as the English name of Mide.",
+   "Record the invisible fifth province and its meaning of neck and middle.",
+   "Record the links to Uisneach and the Stone of Divisions.",
+   "Record the county of 903 square miles and the sites within it."
+  ],
+  "evidence": "MacKillop 2008, s.v. 'Meath'"
+ }
 }
