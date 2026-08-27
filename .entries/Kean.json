@@ -1,0 +1,39 @@
+{
+  "name": "Kean",
+  "text": "Kean is a variant spelling of the name Keyne. Keyne was a Welsh virgin of the fifth century. Tradition makes her a founder of a church on Anglesey. She is counted among the children of king Brychan. Holy wells in the west keep her name. Kean records one more form of her name.",
+  "entities": [
+    {
+      "entity": "Keyne",
+      "type": "Person"
+    },
+    {
+      "entity": "Brychan",
+      "type": "Person"
+    },
+    {
+      "entity": "Anglesey",
+      "type": "Place"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Kean",
+      "attribute": "variant spelling of Keyne"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Kean'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Record Kean.",
+    "key_results": [
+      "Give the common form of the name.",
+      "Set the saint in Wales.",
+      "Note the variant spelling."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Kean'"
+  }
+}

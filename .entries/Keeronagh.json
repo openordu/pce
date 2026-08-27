@@ -1,0 +1,39 @@
+{
+  "name": "Keeronagh",
+  "text": "Keeronagh is an English form of the Irish word Caoranach, the name of a monstrous being. Saint Patrick sent the monster to the lake called Lough Derg. The being was taken as female. Story said she was the mother of demons. Keeronagh keeps the English form of a dread of Irish tale.",
+  "entities": [
+    {
+      "entity": "Caoranach",
+      "type": "Person"
+    },
+    {
+      "entity": "Patrick",
+      "type": "Person"
+    },
+    {
+      "entity": "Lough Derg",
+      "type": "Place"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Keeronagh",
+      "attribute": "English form of the monster Caoranach"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Keeronagh'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Record Keeronagh.",
+    "key_results": [
+      "Give the Irish form of the name.",
+      "Name the saint of the tale.",
+      "Set the monster at the lake."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Keeronagh'"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Karadawc",
+  "text": "Karadawc is a Breton spelling of the Welsh name Caradog. A second Breton form is Karadawg. The name was born by several figures of early Welsh tradition. The best known among them is Caradog. Karadawc therefore keeps one of the Breton spellings of the man.",
+  "entities": [
+    {
+      "entity": "Caradog",
+      "type": "Person"
+    },
+    {
+      "entity": "Brittany",
+      "type": "Region"
+    },
+    {
+      "entity": "Wales",
+      "type": "Region"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Karadawc",
+      "attribute": "Breton spelling of the name Caradog"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Karadawc'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Record Karadawc.",
+    "key_results": [
+      "Give the common Welsh form.",
+      "Name the best known bearer.",
+      "Note the Breton spelling."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Karadawc'"
+  }
+}

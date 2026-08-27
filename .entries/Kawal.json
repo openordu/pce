@@ -1,0 +1,35 @@
+{
+  "name": "Kawal",
+  "text": "Kawal is a variant spelling of the name Cabal. Cabal is the hound of King Arthur. The dog appears in the hunting tales of the Welsh court. Several forms of the name are known. Kawal keeps one of those forms of the hound.",
+  "entities": [
+    {
+      "entity": "Cabal",
+      "type": "Animal"
+    },
+    {
+      "entity": "Arthur",
+      "type": "Person"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Kawal",
+      "attribute": "variant spelling of the hound"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Kawal'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Record Kawal.",
+    "key_results": [
+      "Give the common form of the name.",
+      "Name the master of the hound.",
+      "Note the variant spelling."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Kawal'"
+  }
+}
