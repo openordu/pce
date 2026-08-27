@@ -1,0 +1,39 @@
+{
+  "name": "Caernach",
+  "text": "Caernach is an alternate spelling of Cernach. Cernach forms one element of the hero name Conall Cernach. Conall Cernach ranks among the great champions of the Ulster Cycle. The sagas praise his courage and his deadly sword arm. Some readers treat this element as a nickname for that warrior. The form Caernach therefore points the reader toward Conall Cernach. The source gives the variant no story of its own.",
+  "entities": [
+    {
+      "entity": "Cernach",
+      "type": "Person"
+    },
+    {
+      "entity": "Conall Cernach",
+      "type": "Person"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Caernach",
+      "attribute": "variant spelling of Cernach"
+    },
+    {
+      "entity": "Caernach",
+      "attribute": "points to the Ulster hero Conall Cernach"
+    }
+  ],
+  "okr": {
+    "objective": "Describe Caernach as a variant of the name Cernach.",
+    "key_results": [
+      "States Caernach is an alternate spelling of Cernach",
+      "Links the variant to Conall Cernach of the Ulster Cycle",
+      "Classifies Caernach as a person-type node"
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Caernach'."
+  },
+  "sources": [
+    "MacKillop 2008, s.v. 'Caernach'."
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": ""
+}

@@ -1,0 +1,44 @@
+{
+  "name": "Caerphilly",
+  "text": "Caerphilly is a town in south Mid-Glamorganshire. It stands roughly seven miles north of Cardiff. Welsh heritage names the Green Lady of Caerphilly as this town's resident phantom. That wraith dons ivy's likeness whenever she wanders away from ruined castles. In modern times the name has become known for a famous cheese. The town thus joins a folk legend to a beloved flavor.",
+  "entities": [
+    {
+      "entity": "Caerphilly",
+      "type": "Place"
+    },
+    {
+      "entity": "Green Lady of Caerphilly",
+      "type": "Being"
+    },
+    {
+      "entity": "Cardiff",
+      "type": "Place"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Caerphilly",
+      "attribute": "town in south Mid-Glamorganshire"
+    },
+    {
+      "entity": "Green Lady of Caerphilly",
+      "attribute": "wraith who appears as a trail of ivy"
+    }
+  ],
+  "okr": {
+    "objective": "Describe Caerphilly as a town with a legendary ghost.",
+    "key_results": [
+      "Locates Caerphilly in south Mid-Glamorganshire",
+      "Introduces the Green Lady of Caerphilly",
+      "Notes the town's name for a distinctive cheese",
+      "Classifies Caerphilly as a place-type node"
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Caerphilly'."
+  },
+  "sources": [
+    "MacKillop 2008, s.v. 'Caerphilly'."
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": ""
+}

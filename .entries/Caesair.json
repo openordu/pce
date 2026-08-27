@@ -1,0 +1,48 @@
+{
+  "name": "Caesair",
+  "text": "Caesair is a spelling variant of Cesair. In the Mythological Cycle Cesair leads the initial large invasion of Ireland. The Book of Invasions places her story just before the Flood. Her father Bith names Noah as his own sire. She leaves her country in shame because the Ark refused her aboard. She comes ashore at Dun na Bantry, in Bantry Bay, with fifty women and three men. The men divide the women, hoping to grow a people for the land. Her helmsman Ladra dies, and Fintan turns himself into a salmon. Land is left for Fintan alone. Cesair ends her life broken-hearted.",
+  "entities": [
+    {
+      "entity": "Cesair",
+      "type": "Person"
+    },
+    {
+      "entity": "Bith",
+      "type": "Person"
+    },
+    {
+      "entity": "Noah",
+      "type": "Person"
+    },
+    {
+      "entity": "Fintan mac Bochra",
+      "type": "Person"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Cesair",
+      "attribute": "leader of the first invasion of Ireland"
+    },
+    {
+      "entity": "Cesair",
+      "attribute": "daughter of Bith and descendant of Noah"
+    }
+  ],
+  "okr": {
+    "objective": "Present Caesair as the variant-spelling headword of the invader Cesair.",
+    "key_results": [
+      "States Caesair is a spelling variant of Cesair",
+      "Identifies Cesair as the first invader of Ireland",
+      "Relates her landing on Bantry Bay with her companions",
+      "Classifies Caesair as a person-type node"
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Caesair'."
+  },
+  "sources": [
+    "MacKillop 2008, s.v. 'Caesair'."
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": ""
+}

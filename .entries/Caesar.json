@@ -1,0 +1,52 @@
+{
+  "name": "Caesar",
+  "text": "Gaius Julius Caesar was a Roman general, statesman, and historian. He lived from 100 to 44 BC. His seven-volume Gallic War, the De Bello Gallico, serves as a much-quoted window on early Celtic religion. Caesar leaned on reports from his subordinates and perhaps drew heavily from the writer Posidonius. He conquered the Gauls and then the Britons. He took a patronizing view of the Celts, calling them swift to battle yet quick to lose heart. He saw them as superstitious and ready to cede to druids for arbitration. He held that the soul did not die with the body. He gave Roman names to many native gods, ranked by the people's esteem.",
+  "entities": [
+    {
+      "entity": "Gaius Julius Caesar",
+      "type": "Person"
+    },
+    {
+      "entity": "druid",
+      "type": "Person"
+    },
+    {
+      "entity": "Posidonius",
+      "type": "Person"
+    },
+    {
+      "entity": "Gaul",
+      "type": "Place"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Caesar",
+      "attribute": "wrote the seven-volume Gallic War"
+    },
+    {
+      "entity": "Caesar",
+      "attribute": "took a patronizing view of the Celts"
+    },
+    {
+      "entity": "Caesar",
+      "attribute": "recorded a pantheon with Roman-named gods"
+    }
+  ],
+  "okr": {
+    "objective": "Portray Caesar as a key ancient source on the Celts.",
+    "key_results": [
+      "Notes Caesar's Gallic War record of early Celtic religion",
+      "Describes his patronizing stance toward the Celts",
+      "Explains his Roman-named pantheon",
+      "Classifies Caesar as a person-type node"
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Caesar'."
+  },
+  "sources": [
+    "MacKillop 2008, s.v. 'Caesar'."
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": ""
+}
