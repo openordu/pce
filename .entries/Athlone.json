@@ -1,0 +1,44 @@
+{
+  "name": "Athlone",
+  "fname": "Athlone.json",
+  "text": "Athlone is the chief ford of the River Shannon across the heart of Ireland. The water splits Roscommon and Westmeath at the stop. The people of the land see it as the key to the east and the west. In the old tale the hero of the cattle raid sheared the tops of the three hills here. A stronghold stood on the spot before the new lords of the sea came from the south. The town grows on both banks of the great river.",
+  "entities": [
+    {
+      "entity": "Athlone",
+      "type": "Place"
+    },
+    {
+      "entity": "Shannon",
+      "type": "Place"
+    },
+    {
+      "entity": "Roscommon",
+      "type": "Place"
+    },
+    {
+      "entity": "Westmeath",
+      "type": "Place"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Athlone",
+      "attribute": "principal ford of the River Shannon"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Athlone'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Record the ford town of Athlone.",
+    "key_results": [
+      "Set the ford on the Shannon.",
+      "Name the meeting of the counties.",
+      "Tell of the stronghold."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Athlone'"
+  }
+}

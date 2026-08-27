@@ -1,0 +1,39 @@
+{
+  "name": "Atepomaros",
+  "fname": "Atepomaros.json",
+  "text": "Atepomaros is a word of the old Gaul that means the holder of the great horse. The image names one face of the bright god Apollo in the old lands. The scholars of the runes take it for a title of that god. The name stands among the many god words of the old continent.",
+  "entities": [
+    {
+      "entity": "Atepomaros",
+      "type": "Deity"
+    },
+    {
+      "entity": "Apollo",
+      "type": "Deity"
+    },
+    {
+      "entity": "Gaul",
+      "type": "Place"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Atepomaros",
+      "attribute": "Gaulish title of the god Apollo"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Atepomaros'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Record the title of the god.",
+    "key_results": [
+      "Give the sense of the great horse.",
+      "Attach the title to the god Apollo."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Atepomaros'"
+  }
+}

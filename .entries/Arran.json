@@ -1,0 +1,52 @@
+{
+  "name": "Arran",
+  "fname": "Arran.json",
+  "text": "Arran is an island that sits in the Firth of Clyde in Scotland. The island lies about fifty miles to the west of the city of Glasgow. It runs some twenty miles in length and from eight to ten miles across. Map writers often confuse it with the Aran Isles of the west of Ireland. A few of them claim that Arran is the source of the otherworld of Emain Ablach. Local legend turns on the exile here of King Robert the Bruce. The Scottish Gaelic tongue stayed in daily use on Arran until late in the twentieth century.",
+  "entities": [
+    {
+      "entity": "Arran",
+      "type": "Place"
+    },
+    {
+      "entity": "Scotland",
+      "type": "Place"
+    },
+    {
+      "entity": "Clyde",
+      "type": "Place"
+    },
+    {
+      "entity": "Emain Ablach",
+      "type": "Place"
+    },
+    {
+      "entity": "Mannanán mac Lir",
+      "type": "Deity"
+    },
+    {
+      "entity": "Robert the Bruce",
+      "type": "Person"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Arran",
+      "attribute": "island in the Firth of Clyde to the west of Glasgow"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Arran'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Record the island of Arran.",
+    "key_results": [
+      "Set the island in the Firth of Clyde.",
+      "Give the size of the land.",
+      "Tell of the legend of Robert the Bruce."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Arran'"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Athena",
+  "fname": "Athena.json",
+  "text": "Athena is the Greek goddess of wisdom, of the arts and of the craft, and of war. Writers of the Celtic books set her likeness beside the goddesses of their own lands. They name the close match of her in the figure of Brigit the bright. No temple of her now rises in the old Celtic fields. The pages of the book keep the tie alive.",
+  "entities": [
+    {
+      "entity": "Athena",
+      "type": "Deity"
+    },
+    {
+      "entity": "Brigit",
+      "type": "Person"
+    },
+    {
+      "entity": "Minerva",
+      "type": "Character"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Athena",
+      "attribute": "Greek goddess matched with the Celtic Brigit"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Athena'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Record the Greek goddess in the Celtic books.",
+    "key_results": [
+      "Name the gifts of the goddess.",
+      "Match her with the bright Brigit."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Athena'"
+  }
+}

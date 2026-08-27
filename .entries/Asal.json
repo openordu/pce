@@ -1,0 +1,35 @@
+{
+  "name": "Asal",
+  "fname": "Asal.json",
+  "text": "Asal is a short form of the name of a man of the old folk of ancient tale. The fuller book writes the name of the man under its next form. He moves in the company of the goddess folk of the old land. The reader who seeks the full story must turn to the long head of the name.",
+  "entities": [
+    {
+      "entity": "Asal",
+      "type": "Character"
+    },
+    {
+      "entity": "Assal",
+      "type": "Character"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Asal",
+      "attribute": "variant shorter form of the hero name Assal"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Asal'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Record the short name Asal.",
+    "key_results": [
+      "Note the name as a variant form.",
+      "Point to the longer head of the name."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Asal'"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "name": "Art",
+  "fname": "Art.json",
+  "text": "Art is an old Irish word that means the bear, in the sense of the champion. The name belongs to several heroes of the old tales. The most famous of them is Art mac Cuinn, the son of the ruler of the hundred fights. Some writers of Wales try to link Art with the name Arthur. The older books give no proof of any such tie. The two heroes rest on separate roots in the old speech.",
+  "entities": [
+    {
+      "entity": "Art",
+      "type": "Character"
+    },
+    {
+      "entity": "Art mac Cuinn",
+      "type": "Character"
+    },
+    {
+      "entity": "Conn Cétchathach",
+      "type": "Character"
+    },
+    {
+      "entity": "Arthur",
+      "type": "Character"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Art",
+      "attribute": "old Irish name for the champion hero"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Art'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Record the hero name Art.",
+    "key_results": [
+      "Give the sense of the bear.",
+      "Name the best known hero of the name.",
+      "Separate the name from Arthur."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Art'"
+  }
+}

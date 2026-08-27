@@ -1,0 +1,36 @@
+{
+  "name": "Arrach",
+  "fname": "Arrach.json",
+  "text": "Arrach is a ghost of the folk tales of the Scottish Gaels. The old word also carries the sense of a small shape of a man. The stories of the land call the creature a monster that haunts the open fields. Writers often confuse this spirit with the named Tarrach. Some of the same tales give the ghost the other name of Biast.",
+  "entities": [
+    {
+      "entity": "Arrach",
+      "type": "Character"
+    },
+    {
+      "entity": "Tarrach",
+      "type": "Character"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Arrach",
+      "attribute": "spectral monster of Scottish Gaelic folklore"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Arrach'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Record the spectral monster Arrach.",
+    "key_results": [
+      "Set the creature in the folklore of Scotland.",
+      "Note the confusion with the ghost Tarrach.",
+      "Give the second name of the creature."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Arrach'"
+  }
+}
