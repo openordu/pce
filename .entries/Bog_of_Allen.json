@@ -1,86 +1,74 @@
 {
-    "name": "Bog of Allen",
-    "attributes": [
-        {
-            "entity": "Alend",
-            "attribute": "royal and heroic Irish goddess"
-        },
-        {
-            "entity": "Alend",
-            "attribute": "her capital Almu ruled the province of Leinster"
-        },
-        {
-            "entity": "Alend",
-            "attribute": "her name marks the Bog of Allen"
-        },
-        {
-            "entity": "Almu",
-            "attribute": "personified as all white"
-        },
-        {
-            "entity": "Nuada",
-            "attribute": "original holder of the hill"
-        },
-        {
-            "entity": "Fionn Mac Cumhaill",
-            "attribute": "seized the hill from Nuada by force"
-        }
-    ],
-    "entities": [
-        {
-            "entity": "Alend",
-            "type": "Deity"
-        },
-        {
-            "entity": "Almu",
-            "type": "Place"
-        },
-        {
-            "entity": "Hill of Allen",
-            "type": "Place"
-        },
-        {
-            "entity": "Bog of Allen",
-            "type": "Place"
-        },
-        {
-            "entity": "Leinster",
-            "type": "Place"
-        },
-        {
-            "entity": "Otherworld",
-            "type": "Concept"
-        },
-        {
-            "entity": "Nuada",
-            "type": "Person"
-        },
-        {
-            "entity": "Fionn Mac Cumhaill",
-            "type": "Person"
-        },
-        {
-            "entity": "Knockaulin",
-            "type": "Place"
-        }
-    ],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "image": [
-        "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Bog_of_Allen_-_Croghan_Hill.jpg/1200px-Bog_of_Allen_-_Croghan_Hill.jpg"
-    ],
-    "cyphertext": "brBK3RVEUe8rabEI0F2RJVxvnm_uIIdUi5w3R5XY74f_BsrsDbi_mXmOM28H115IJnBN0mWG0avPAGhgkFZm2Lqm2cFY8E6uM-1hZcZcKPcIL58FptftGPsMTa4UJ3RoPQAXCR7vwQPgf7yeLhf7Mej8zvVMtjXed9AjT1jandbAS296gEz8VMCw-oKQnrYGNDOI7Wr37rQ-u0oa8HO8rfmOmQPHZ1x8LWAUSvvxZ5SReNRrAsbC9Frk4FVEqVMVuTJltPRYHNCsvvnhVjgyKQW-3zvzyM6TdYU-v867Hocki8CzdJreFFZXv1o1f7GBPGl__yyFNmJygZQ12YC_yaYhJTO-kHq86aJzc-6MSyHN5MeO8HE=",
-    "salt": "s4ZpLKMD2xTq5v5rp1DJ3Q==",
-    "text": "Alend is an Irish goddess. The old capital Almu carried her name. That city ruled the eastern province of Leinster. The hill where it once stood is the Hill of Allen today. It lies in County Kildare. Her name also marks the wide Bog of Allen. People personified the hill as Almu, which means all white. A hidden door to the Otherworld stood on the hill. King Nuada held it first. The hero Fionn Mac Cumhaill seized it from Nuada by force. The hill was named his birthplace. A small mound on top was his seat. Some confuse Almu with Knockaulin.",
-    "okr": {
-        "objective": "Describe Alend, the Irish goddess who gave her name to the Bog of Allen.",
-        "key_results": [
-            "Alend was a royal and heroic Irish goddess.",
-            "Her name marked the old capital Almu.",
-            "The Hill of Allen and the Bog of Allen carry her name.",
-            "The hero Fionn Mac Cumhaill took the hill by force."
-        ],
-        "evidence": "Monaghan 2008, s.v. 'Alend'."
+  "name": "Bog of Allen",
+  "image": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Bog_of_Allen_-_Croghan_Hill.jpg/1200px-Bog_of_Allen_-_Croghan_Hill.jpg"
+  ],
+  "cyphertext": "brBK3RVEUe8rabEI0F2RJVxvnm_uIIdUi5w3R5XY74f_BsrsDbi_mXmOM28H115IJnBN0mWG0avPAGhgkFZm2Lqm2cFY8E6uM-1hZcZcKPcIL58FptftGPsMTa4UJ3RoPQAXCR7vwQPgf7yeLhf7Mej8zvVMtjXed9AjT1jandbAS296gEz8VMCw-oKQnrYGNDOI7Wr37rQ-u0oa8HO8rfmOmQPHZ1x8LWAUSvvxZ5SReNRrAsbC9Frk4FVEqVMVuTJltPRYHNCsvvnhVjgyKQW-3zvzyM6TdYU-v867Hocki8CzdJreFFZXv1o1f7GBPGl__yyFNmJygZQ12YC_yaYhJTO-kHq86aJzc-6MSyHN5MeO8HE=",
+  "salt": "s4ZpLKMD2xTq5v5rp1DJ3Q==",
+  "text": "The Bog of Allen is a wide boggy plain in central Ireland. The flatland is almost wholly filled with peat and turf. Its spread passes well beyond the ground that adjoins the Hill of Allen in County Kildare. On the summit of that hill the goddess Alend once ruled. Her capital Almu stood there, and the hill became the home of Fionn mac Cumhaill with his fianna. The name of the goddess passes over to the great plain around it. The Bog of Allen carries the Irish name Main Almhaine.",
+  "entities": [
+    {
+      "entity": "Bog of Allen",
+      "type": "Place"
+    },
+    {
+      "entity": "Hill of Allen",
+      "type": "Place"
+    },
+    {
+      "entity": "Alend",
+      "type": "Deity"
+    },
+    {
+      "entity": "Almu",
+      "type": "Place"
+    },
+    {
+      "entity": "Fionn mac Cumhaill",
+      "type": "Person"
+    },
+    {
+      "entity": "County Kildare",
+      "type": "Place"
     }
+  ],
+  "attributes": [
+    {
+      "entity": "Bog of Allen",
+      "attribute": "a wide bogged plain in central Ireland"
+    },
+    {
+      "entity": "Bog of Allen",
+      "attribute": "filled with peat and turf"
+    },
+    {
+      "entity": "Bog of Allen",
+      "attribute": "spreads far beyond the Hill of Allen"
+    },
+    {
+      "entity": "Hill of Allen",
+      "attribute": "sits inside the great plain in County Kildare"
+    },
+    {
+      "entity": "Alend",
+      "attribute": "goddess who lends her name to the bog"
+    },
+    {
+      "entity": "Fionn mac Cumhaill",
+      "attribute": "hero linked to the Hill of Allen"
+    }
+  ],
+  "okr": {
+    "objective": "Describe the Bog of Allen as the great peat plain of central Ireland and its link to the Hill of Allen.",
+    "key_results": [
+      "The Bog is a vast low-lying plain of peat and turf.",
+      "It extends far beyond the Hill of Allen in County Kildare.",
+      "The old Irish name of the bog is Main Almhaine."
+    ],
+    "evidence": "MacKillop 2008, s.v. Allen, Bog of."
+  },
+  "sources": [
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.",
+    "MacKillop 2008, s.v. Allen, Bog of."
+  ]
 }

@@ -1,0 +1,55 @@
+{
+  "name": "Bolcáin",
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "text": "Bolcáin is a valley, sometimes called Glenn Bolcáin. It appears in several early Irish tales as the home of exiled madmen. Story of the Suibne, driven to frenzy, dwells there in the Buile Shuibhne. The place is marked as Glenbuck, near Rasharkin in County Antrim. A dropped state through the surrounding wild sets the tone for the whole narrative.",
+  "entities": [
+    {
+      "entity": "Bolcáin",
+      "type": "Place"
+    },
+    {
+      "entity": "Glenbrack",
+      "type": "Place"
+    },
+    {
+      "entity": "Rasharkin",
+      "type": "Place"
+    },
+    {
+      "entity": "Suibne",
+      "type": "Person"
+    },
+    {
+      "entity": "Buile Shuibhne",
+      "type": "poem"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Bolcáin",
+      "attribute": "a valley of exiled madmen in early Irish literature"
+    },
+    {
+      "entity": "Suibne",
+      "attribute": "the mad king who lives in the valley"
+    },
+    {
+      "entity": "Buile Shuibhne",
+      "attribute": "the tale in which Suibne dwells at Bolcáin"
+    }
+  ],
+  "okr": {
+    "objective": "Describe Bolcáin as the valley of exiled madmen in early Irish literature.",
+    "key_results": [
+      "Bolcáin is a valley of exiled madmen.",
+      "The mad king Suibne lives there.",
+      "It is identified with Glenbrack near Rasharkin in County Antrim."
+    ],
+    "evidence": "MacKillop 2008, s.v. Bolcáin."
+  },
+  "sources": [
+    "MacKillop 2008, s.v. Bolcáin."
+  ]
+}
