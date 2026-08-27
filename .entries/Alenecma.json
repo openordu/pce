@@ -1,0 +1,34 @@
+{
+  "name": "Alenecma",
+  "text": "Alenecma is the name that James Macpherson used for the Irish province of Connacht in his poetry. The form does not match the usual spelling of the province. MacKielop records it only for the poet.",
+  "entities": [
+    {
+      "entity": "Alenecma",
+      "type": "Place"
+    },
+    {
+      "entity": "Connacht",
+      "type": "Place"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Alenecma",
+      "attribute": "Poem name of the writer for the province Connacht"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Alenecma'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Record the poet name for Connacht.",
+    "key_results": [
+      "Name Alenecma as the use of Macpherson.",
+      "Point to the province Connacht."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Alenecma'"
+  }
+}

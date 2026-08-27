@@ -1,0 +1,35 @@
+{
+  "name": "Alcluith",
+  "text": "Alcluith was the old British name of the stronghold on the rock. The rock stands where the river meets the Clyde at Dumbarton in Scotland. Its form appears in the History of Beda for the year 731. The name gave the root for the later poetic name Balclutha.",
+  "entities": [
+    {
+      "entity": "Alcluith",
+      "type": "Place"
+    },
+    {
+      "entity": "Dumbarton",
+      "type": "Place"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Alcluith",
+      "attribute": "old British name for the stronghold at Dumbarton"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Alcluith'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Record the old British name of the stronghold of Dumbarton.",
+    "key_results": [
+      "Give the place of the stronghold on the Clyde.",
+      "State the use of the name in the History of Bedia.",
+      "Name the word Balclutha that comes from the name."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Alcluith'"
+  }
+}

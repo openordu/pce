@@ -1,0 +1,34 @@
+{
+  "name": "Altclut",
+  "text": "Altclut is another spelling of the old name of the rock of the Clyde on the west of Scotland. The form belongs to the same group as the name of the stronghold at Dumbarton. MacKiel includes the word in the set for the fortress on the Clyde.",
+  "entities": [
+    {
+      "entity": "Altclut",
+      "type": "Place"
+    },
+    {
+      "entity": "Dumbarton",
+      "type": "Place"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Altclut",
+      "attribute": "old name of the fortress on the Clyde"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Altclut'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "State the old name Alt of the fortress on the Clyde.",
+    "key_results": [
+      "Give the spelling as a form of the old name.",
+      "Record the stronghold on the Clyde under the word."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Altclut'"
+  }
+}

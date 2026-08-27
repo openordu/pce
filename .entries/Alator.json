@@ -1,0 +1,35 @@
+{
+  "name": "Alator",
+  "text": "Alator is a Celtic deity of Britain whose name means the one who rears or nourishes his people. An inscription found at Barkway in Hertfordshire names the god. The same inscription, links him with the Gaulish god Mars.",
+  "entities": [
+    {
+      "entity": "Alator",
+      "type": "Deity"
+    },
+    {
+      "entity": "Mars",
+      "type": "Deity"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Alator",
+      "attribute": "god of Celtic Britain invoked in an inscription at Barkway"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Alator'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Record the Celtic god Alrator.",
+    "key_results": [
+      "State the meaning of the name Alator.",
+      "Record the Barkway inscription.",
+      "Note the link with Mars."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Alator'"
+  }
+}

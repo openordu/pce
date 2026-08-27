@@ -1,0 +1,43 @@
+{
+  "name": "Allen",
+  "text": "Allen is the name of a hill and a great bog in the middle of Ireland. The Hill of Allen stands in County Kildare. The tale marks it as the home of the hero Finn and his followers. The Bog of Allen spreads across the central plain. The two works bear the same name.",
+  "entities": [
+    {
+      "entity": "Allen",
+      "type": "Place"
+    },
+    {
+      "entity": "Finn",
+      "type": "Character"
+    },
+    {
+      "entity": "Fianna",
+      "type": "Group"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Allen",
+      "attribute": "name of a hill and a bog in Ireland"
+    },
+    {
+      "entity": "Allen",
+      "attribute": "home of Finn and the Fianna in the tales"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Allen'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Record the Irish land and the bog of the same name.",
+    "key_results": [
+      "Name the hill in County Kildare.",
+      "Name the bog across the middle plain.",
+      "Give the home of the hero at the hill."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Allen'"
+  }
+}
