@@ -1,0 +1,35 @@
+{
+  "name": "Llywelyn",
+  "text": "Llywelyn is a name borne by several princes of medieval Wales. The most of them, Llywelyn the Great and Llywelyn the Last, are recorded under their own titles. The base name also marks a princely owner of a faithful hound in folk-tale.",
+  "entities": [
+    {
+      "entity": "Llywelyn ap Iorwerth",
+      "type": "Person"
+    },
+    {
+      "entity": "Llywelyn ap Gruffudd",
+      "type": "Person"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Llywelyn",
+      "attribute": "name of several medieval Welsh princes"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Llywelyn'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Record Llywelyn.",
+    "key_results": [
+      "Name the two most famous princes.",
+      "State what one of them owns in folk-tale.",
+      "Name the country of the name."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Llywelyn'"
+  }
+}

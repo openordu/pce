@@ -1,0 +1,43 @@
+{
+  "name": "Llywelyn ap Gruffudd",
+  "text": "Llywelyn ap Gruffudd, also called Llywelyn II, is the prince usually named the last native-born ruler of Wales, styled in Welsh Y Llyw Olaf, the Last Prince. Like his grandfather Llywelyn ap Iorwerth, he bent the fractious Welsh princes to his will and at first stayed on good terms with the English Crown. When Henry III of England died and Edward I took power in 1272, that good will ended. In December 1282 Llywelyn was killed resisting the English at a bridge near Builth, cut down by a man who did not know him. His severed head was carried through London. Many old stories place him at his hiding place, and Llywelyn's Cave near Aberedw in Powys is still remembered.",
+  "entities": [
+    {
+      "entity": "Llywelyn ap Iorwerth",
+      "type": "Person"
+    },
+    {
+      "entity": "Henry III",
+      "type": "Person"
+    },
+    {
+      "entity": "Edward I",
+      "type": "Person"
+    },
+    {
+      "entity": "Powys",
+      "type": "Region"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Llywelyn ap Gruffudd",
+      "attribute": "last native prince of Wales"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Llywelyn ap Gruffudd'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Record Llywelyn ap Gruffudd.",
+    "key_results": [
+      "State his title.",
+      "Name the king whose rise changed his fate.",
+      "State the place and day of his death."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Llywelyn ap Gruffudd'"
+  }
+}

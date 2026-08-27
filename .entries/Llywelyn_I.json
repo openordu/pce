@@ -1,0 +1,39 @@
+{
+  "name": "Llywelyn I",
+  "text": "Llywelyn I is the princely master of the faithful hound in the well-known Welsh folk-tale of Bedd Gelert. The story is sometimes told of either Llywelyn ap Iorwerth or Llywelyn ap Gruffud, the two most famous bearers of the name.",
+  "entities": [
+    {
+      "entity": "Bedd Gelert",
+      "type": "Work"
+    },
+    {
+      "entity": "Llywelyn ap Iorwerth",
+      "type": "Person"
+    },
+    {
+      "entity": "Llywelyn ap Gruffudd",
+      "type": "Person"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Llywelyn I",
+      "attribute": "princely master of the dog Bedall Gelert"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Llywelyn I'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Record Llywelyn I.",
+    "key_results": [
+      "Name the hound of the tale.",
+      "Name the two princes who may be meant.",
+      "State the kind of story it is."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Llywelyn I'"
+  }
+}

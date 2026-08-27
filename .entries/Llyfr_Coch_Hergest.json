@@ -1,0 +1,35 @@
+{
+  "name": "Llyfr Coch Hergest",
+  "text": "Llyfr Coch Hergest is the Red Book of Hergest written in Welsh. It is one of the great medieval Welsh manuscripts, usually dated 1382 to 1410. It holds the Mabinogi of the Mabinogion, poetry of the Gogynfeirdd, histories, grammars, and proverbs, though it excludes religious works and laws. A single scribe copied nearly all of it.",
+  "entities": [
+    {
+      "entity": "Mabinogion",
+      "type": "Work"
+    },
+    {
+      "entity": "Gogynfeirdd",
+      "type": "Group"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Llyfr Coch Hergest",
+      "attribute": "Welsh title of the Red Book of Hergest"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Llyfr Coch Hergest'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Record Llyfr Coch Hergest.",
+    "key_results": [
+      "Give the English title.",
+      "State its date range.",
+      "Name what the manuscript excludes."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Llyfr Coch Hergest'"
+  }
+}
