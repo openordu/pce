@@ -1,0 +1,80 @@
+{
+  "name": "Cairbre mac Ethne",
+  "text": "Cairbre mac Ethne serves as the resident satirist of the Tuatha Dé Danann. His father is Ogma, and his mother is Étan. Dian Cécht ranks as his grandfather. His sharp verses make him a feared voice at court. King Bres treats him with harsh rudeness. Cairbre mac Ethne answers with a biting poem. That poem throws red blotches onto the face of Bres. A ruler so marked loses his right to rule. The nobles then demand the resignation of their king. Cairbre turns the same skill against the Fomorians. His searing lines drain their will to fight. In the great second battle the Fomorian morale fails. Cairbre also wields the curse the glám dicenn brings. That power gives him rule over his many foes.",
+  "entities": [
+    {
+      "entity": "Cairbre mac Ethne",
+      "type": "Person"
+    },
+    {
+      "entity": "Ogma",
+      "type": "Deity"
+    },
+    {
+      "entity": "Étan",
+      "type": "Person"
+    },
+    {
+      "entity": "Dian Cécht",
+      "type": "Deity"
+    },
+    {
+      "entity": "Tuatha Dé Danann",
+      "type": "Being"
+    },
+    {
+      "entity": "Bres",
+      "type": "Person"
+    },
+    {
+      "entity": "Cath Maige Tuired",
+      "type": "Event"
+    },
+    {
+      "entity": "Fomorians",
+      "type": "Being"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Cairbre mac Ethne",
+      "attribute": "the resident satirist of the Tuatha Dé Danann"
+    },
+    {
+      "entity": "Ogma",
+      "attribute": "father of the poet"
+    },
+    {
+      "entity": "Étan",
+      "attribute": "mother of the poet"
+    },
+    {
+      "entity": "Dian Cécht",
+      "attribute": "grandfather of Cairbre"
+    },
+    {
+      "entity": "Bres",
+      "attribute": "king whose face bears the poet's satiric marks"
+    },
+    {
+      "entity": "Fomorians",
+      "attribute": "foes broken by Cairbre's verses"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Cairbre mac Ethne'."
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Describe Cairbre mac Ethne as the satirist of the Tuatha Dé Danann.",
+    "key_results": [
+      "Notes his parentage through Ogma and Étan",
+      "Shows his satire against King Bres",
+      "Records his curse against the Fomorians",
+      "Classifies the entry as a person-type node"
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Cairbre mac Ethne'."
+  }
+}
