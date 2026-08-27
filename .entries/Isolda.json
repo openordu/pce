@@ -1,0 +1,43 @@
+{
+  "name": "Isolda",
+  "text": "Isolda is a variant spelling of the name Iseult. The Arthurian story of Tristan and Iseult gives two women one title. Iseult of Ireland loves Tristan, though she had sworn to avenge her father on him. Iseult of the White Hands makes an unreal marriage with the same hero. Isolda therefore stands as one of several spellings of the heroine of the romance.",
+  "entities": [
+    {
+      "entity": "Iseult",
+      "type": "Person"
+    },
+    {
+      "entity": "Tristan",
+      "type": "Person"
+    },
+    {
+      "entity": "Cornwall",
+      "type": "Region"
+    },
+    {
+      "entity": "Brittany",
+      "type": "Region"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Isolda",
+      "attribute": "variant form of Iseult"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Isolda'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Record Isolda.",
+    "key_results": [
+      "Give the common form of the name.",
+      "Name the two women of the tale.",
+      "Set the story beside Tristan."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Isolda'"
+  }
+}

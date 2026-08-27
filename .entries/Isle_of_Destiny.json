@@ -1,0 +1,43 @@
+{
+  "name": "Isle of Destiny",
+  "text": "Isle of Destiny is the English form of the Irish name Inis Fail. The term is a poetic title for the island of Ireland. It points to the stone Fail at Tara, said to cry out beneath the true king. A claimant of the kingship stood upon the stone to prove his right. Isle of Destiny therefore keeps the memory of the stone of sovereignty in an English phrase.",
+  "entities": [
+    {
+      "entity": "Inis Fail",
+      "type": "Place"
+    },
+    {
+      "entity": "Ireland",
+      "type": "Place"
+    },
+    {
+      "entity": "Fail",
+      "type": "Object"
+    },
+    {
+      "entity": "Tara",
+      "type": "Place"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Isle of Destiny",
+      "attribute": "English form of the Irish name Inis Fail"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Isle of Destiny'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Record Isle of Destiny.",
+    "key_results": [
+      "Give the Irish source of the title.",
+      "Name the stone of the name.",
+      "Set the stone at Tara."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Isle of Destiny'"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "name": "Iverni",
+  "text": "Iverni is the name the geographer Ptolemy gave to a people of Ireland. Ptolemy wrote in the second century. Modern scholars think he drew the title from the Earain of early Ireland. They set the Iverni at the Corcu Loigde of the modern County Cork. In the early twentieth century the name Ivernian meant the ancient Irish as a whole. Iverni therefore keeps a classical record of an early southern people.",
+  "entities": [
+    {
+      "entity": "Ptolemy",
+      "type": "Person"
+    },
+    {
+      "entity": "Eleanor",
+      "type": "Group"
+    },
+    {
+      "entity": "Corcu Loigde",
+      "type": "Group"
+    },
+    {
+      "entity": "Ireland",
+      "type": "Place"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Iverni",
+      "attribute": "name used by Ptolemy for a section of the Irish people"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Iverni'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Record Iverni.",
+    "key_results": [
+      "Name the geographer who used the title.",
+      "Trace the name to the Earain.",
+      "Place the people at Cork."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Iverni'"
+  }
+}
