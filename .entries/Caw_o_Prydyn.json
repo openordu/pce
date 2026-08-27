@@ -1,0 +1,52 @@
+{
+  "name": "Caw o Prydyn",
+  "attributes": [
+    {
+      "entity": "Caw o Prydyn",
+      "attribute": "hero of Welsh Arthuriana from Prydyn"
+    },
+    {
+      "entity": "Caw o Prydyn",
+      "attribute": "slayer of the boar Ysgithrwyn Pen Beidd"
+    },
+    {
+      "entity": "Caw o Prydyn",
+      "attribute": "shaver of the giant Ysbaddaden"
+    }
+  ],
+  "entities": [
+    {
+      "entity": "Culhwch ac Olwen",
+      "type": "artifact"
+    },
+    {
+      "entity": "boar",
+      "type": "Animal"
+    },
+    {
+      "entity": "giant",
+      "type": "Creature"
+    },
+    {
+      "entity": "Arthur",
+      "type": "Person"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Caw o Prydyn'."
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "text": "Caw o Prydyn is a hero of Welsh Arthuriana. His name also appears as Caw o Brydyn, and as Kaw in Breton. He came from Prydin, a land in Scotland, and travelled to the court of Arthur. The tale Culhwch ac Olwen gives him a leading part. There he attacks the great boar Ysgithrwyn Pen Beidd, splits its head in two, and takes its tusks. Caw then gathers blood still warm from the dark witch and carries it away. This blood serves to shave the giant Ysbaddaden.",
+  "okr": {
+    "objective": "Caw o Prydyn serves Arthur's court as a hero from Prydyn.",
+    "key_results": [
+      "He travels from Prydyn in Scotland to join Arthur.",
+      "He splits the head of the boar Ysgithrwyn Pen Beidd and takes its tusks.",
+      "He collects the warm blood of that dark witch.",
+      "He uses that blood to shave the giant Ysbaddaden."
+    ],
+    "evidence": "MacKillop, Dictionary of Celtic Mythology, s.v. 'Caw o Prydyn'"
+  }
+}
