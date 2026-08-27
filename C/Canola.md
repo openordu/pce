@@ -2,79 +2,49 @@
 layout: layouts/pce.njk
 title: Canola
 icon: file-lines
-order: 392
+order: 437
 contributors: [ 'Christopher Godwin' ]
 attributes:
   - Canola Irish heroine
-  - The Harp one of today’s emblems of Ireland
-  - Canola invented The Harp
-  - Canola left his side to wander the night
-  - Canola heard sweet music
-  - sinews still attached to the rib-bones of a whale
-  - wind was singing through the sinews
+  - The Harp emblem of Ireland
+  - Canola invented the harp
+  - Canola quarreled with her lover
+  - wind drew music from sinews on a whale’s ribs
   - Canola built the first harp
 categories:
-  - animal
-  - person
-  - country
-  - celestial object
-  - musical instrument
-  - natural phenomenon
-  - location
+  - artifact
   - art form
-  - body part
+  - hero
 entities:
-  - Canola(person)
-  - The Harp(musical instrument)
-  - Ireland(country)
-  - seashore(location)
-  - stars(celestial object)
+  - Canola(hero)
+  - harp(artifact)
   - music(art form)
-  - sinews(body part)
-  - rib-bones(body part)
-  - whale(animal)
-  - wind(natural phenomenon)
 tags:
   - Canola
-  - The Harp
-  - Ireland
-  - seashore
-  - stars
+  - harp
   - music
-  - sinews
-  - rib-bones
-  - whale
-  - wind
 ---
 ``` tab [group1:Info]
 ::: magazinestyle
-An Irish heroine named Canola is credited with inventing The Harp, which is now one of Ireland's most recognizable symbols. Canola had an argument with her lover and walked off into the night, eventually ending up at the seashore. There, she heard beautiful music and fell asleep under the stars. When she woke up, she realized the music had come from sinews still attached to the rib-bones of a whale, which the wind was playing like an instrument. This discovery inspired her to create the first harp.
+Canola is a legendary woman of Ireland. Legend makes her the discoverer of the harp. One night a quarrel with her lover drove her out to walk until the dawn. At the shore the wind moved through sinews that still clung to a dead whale skeleton. The sinews gave a soft singing sound. She heard it clearly and it sank into her. That gentle music led her to build the first harp. The harp would grow to be the mark of Ireland and a proof of song.
 
 :::
 ```
 ``` tab [group1:Attributes]
 - **Canola**: Irish heroine
-- **The Harp**: one of today’s emblems of Ireland
-- **Canola**: invented The Harp
-- **Canola**: left his side to wander the night
-- **Canola**: heard sweet music
-- **sinews**: still attached to the rib-bones of a whale
-- **wind**: was singing through the sinews
+- **The Harp**: emblem of Ireland
+- **Canola**: invented the harp
+- **Canola**: quarreled with her lover
+- **wind**: drew music from sinews on a whale’s ribs
 - **Canola**: built the first harp
 ```
 ``` tab [group1:Entities]
-- **Canola**: person
-- **The Harp**: musical instrument
-- **Ireland**: country
-- **seashore**: location
-- **stars**: celestial object
+- **Canola**: hero
+- **harp**: artifact
 - **music**: art form
-- **sinews**: body part
-- **rib-bones**: body part
-- **whale**: animal
-- **wind**: natural phenomenon
 ```
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
+- MacKillop 2008, s.v. 'Canola'.
 ```
 ![Canola Image](https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/CanolaBlooms.JPG/1200px-CanolaBlooms.JPG)
