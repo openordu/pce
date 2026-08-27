@@ -1,0 +1,25 @@
+{
+  "name": "Catan",
+  "text": "Catan, Saint is a legendary figure of eleventh-century Scotland. The account credits him with giving a name to the Clan Chattan. That Clan is a broad union of Scotland's kindreds. Its members all lay claim to a Pictish line of descent. The group forms a larger whole than any single clan. It guards a shared bond. Catan reads as a shadow rather than a real person. His fame rests on the confederation he names. Sparse records leave his life obscure. Scholars therefore treat his story as legend, not settled fact. The Clan Chattan endures as his memorial in the Scottish Highlands.",
+  "image": [],
+  "sources": ["MacKillop 2008, s.v. 'Catan'."],
+  "attributes": [
+    {"entity": "Catan", "attribute": "legendary saint of eleventh-century Scotland"},
+    {"entity": "Catan", "attribute": "gives his name to the Clan Chattan"},
+    {"entity": "Clan Chattan", "attribute": "a broad confederation of clans claiming Pictish origin"}
+  ],
+  "entities": [
+    {"entity": "Clan Chattan", "type": "Person"}
+  ],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Document the legendary Saint Catan and his link to the Clan Chattan",
+    "key_results": [
+      "Place the saint in eleventh-century Scotland",
+      "Record the Clan Chattan as his namesake",
+      "Note the Pictish claim of that confederation"
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Catan'."
+  }
+}

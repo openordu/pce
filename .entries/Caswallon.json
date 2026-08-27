@@ -1,0 +1,31 @@
+{
+  "name": "Caswallon",
+  "text": "Caswallon is a child of the great Beli Mawr in Welsh lore. He seizes Britain while Bendigeidfran, the Blessed Bran, is away. He slays every rival lord except Caradog. He restores the honour that Branwen once lost. A cloak of illusion makes him invisible, so he can strike unseen. Through that hidden veil he wields his terrible blade. When he takes the crown in London, Pryderi yields homage to him. The historic chief Cassivellaunus may inform his legend. Celtic sources often call him brother to Arianrhod. Some texts name Lludd as a brother as well. Rachel Bromwich once proposed a lost saga of his wars. His name also appears as Caswallawn and Caswallan.",
+  "image": [],
+  "sources": ["MacKillop 2008, s.v. 'Caswallon'."],
+  "attributes": [
+    {"entity": "Caswallon", "attribute": "son of Beli Mawr in the Mabinogion tradition"},
+    {"entity": "Caswallon", "attribute": "conquers Britain in Bendigeidfran's absence"},
+    {"entity": "Caswallon", "attribute": "uses a cloak of invisibility in battle"}
+  ],
+  "entities": [
+    {"entity": "Beli", "type": "Person"},
+    {"entity": "Bendigeidfran", "type": "Person"},
+    {"entity": "Branwen", "type": "Person"},
+    {"entity": "Pryderi", "type": "Person"},
+    {"entity": "Arianrhod", "type": "Person"},
+    {"entity": "Lludd", "type": "Deity"},
+    {"entity": "Cassivellaunus", "type": "Person"}
+  ],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Document the Welsh hero Caswallon as a figure of the Mabinogion",
+    "key_results": [
+      "Record his lineage from Beli Mawr",
+      "Describe his conquest of Britain and use of illusion",
+      "Trace his ties to Cassivellaunus, Arianrhod and Lludd"
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Caswallon'."
+  }
+}
