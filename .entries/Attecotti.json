@@ -1,0 +1,40 @@
+{
+  "name": "Attecotti",
+  "fname": "Attecotti.json",
+  "text": "The Attecotti were a people of the British islands that Roman writers name in their records. The lists of the later empire include the group among the distant and feared provinces. Scholars connect the name with war bands that left early Ireland. The evidence is thin, so the link stays a reasonable guess rather than a proven fact.",
+  "entities": [
+    {
+      "entity": "Attecotti",
+      "type": "People"
+    },
+    {
+      "entity": "Romans",
+      "type": "People"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Attecotti",
+      "attribute": "people cited in Roman records of the British islands"
+    },
+    {
+      "entity": "Attecotti",
+      "attribute": "tentatively linked to invaders from early Ireland"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Attecotti'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Record the Attecotti people of the Roman records.",
+    "key_results": [
+      "Note the Attecotti in Roman records.",
+      "Give the tentative link to early Ireland.",
+      "Flag the evidence as thin."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Attecotti'"
+  }
+}

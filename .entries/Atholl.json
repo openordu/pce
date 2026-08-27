@@ -1,0 +1,44 @@
+{
+  "name": "Atholl",
+  "fname": "Atholl.json",
+  "text": "Old Atholl numbered among the four Pictish royal lands. Its bounds answer to the land called Perthshire until 1974, now the north-west of Tayside. The district is a wooded, mountainous place at the south tip of the Grampian range. The ground is hard to farm, yet it holds a wide deer forest.",
+  "entities": [
+    {
+      "entity": "Atholl",
+      "type": "Place"
+    },
+    {
+      "entity": "Picts",
+      "type": "People"
+    },
+    {
+      "entity": "Grampian",
+      "type": "Place"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Atholl",
+      "attribute": "one of the four Pictish kingdoms"
+    },
+    {
+      "entity": "Atholl",
+      "attribute": "forest and mountain district at the south end of the Grampians"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Atholl'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Record the Pictish kingdom and Highland district of Atholl.",
+    "key_results": [
+      "Name Atholl among the four Pictish kingdoms.",
+      "Fix its old and modern boundaries.",
+      "Describe the land and its deer forest."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Atholl'"
+  }
+}

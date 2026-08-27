@@ -1,0 +1,36 @@
+{
+  "name": "Aí Arduallach",
+  "fname": "A_Arduallach.json",
+  "text": "Aí Arduallach is the proud daughter of Fionn mac Cumhaill in the Irish stories. The part of her name that reads Arduallach carries the sense of arrogant. She angered her father by refusing the king of Scotland. She also refused any man who was not from Ireland. Her stubborn pride fills the tale about her.",
+  "entities": [
+    {
+      "entity": "Aí Arduallach",
+      "type": "Character"
+    },
+    {
+      "entity": "Fionn mac Cumhaill",
+      "type": "Character"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Aí Arduallach",
+      "attribute": "proud daughter of Fionn mac Cumhaill"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Aí Arduallach'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Record the character Aí Arduallach.",
+    "key_results": [
+      "Name her as the daughter of Fionn.",
+      "Explain the sense of Arduallach.",
+      "Tell why she angered her father."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Aí Arduallach'"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "name": "Aífe Derg",
+  "fname": "A_fe_Derg.json",
+  "text": "Aífe Derg, the red Aífe, is the daughter of a king of Connacht in the Irish stories. The tale says that Saint Patrick arranged the order of her marriage. Her name joins the common plain name Aífe with the word for red, thus the red Aífe. She is one of many women who carry the plain form Aífe across the whole body of the legend.",
+  "entities": [
+    {
+      "entity": "Aífe Derg",
+      "type": "Character"
+    },
+    {
+      "entity": "Saint Patrick",
+      "type": "Character"
+    },
+    {
+      "entity": "Connacht",
+      "type": "Place"
+    },
+    {
+      "entity": "Aífe",
+      "type": "Character"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Aífe Derg",
+      "attribute": "daughter of a king of Connacht whose marriage Saint Patrick arranged"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Aífe Derg'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Record the character Aífe Derg.",
+    "key_results": [
+      "Name her the red Aífe.",
+      "Set her as the daughter of a Connacht king.",
+      "Tell that Saint Patrick arranged her marriage."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Aífe Derg'"
+  }
+}

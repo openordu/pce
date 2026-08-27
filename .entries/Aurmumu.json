@@ -1,0 +1,44 @@
+{
+  "name": "Aurmumu",
+  "fname": "Aurmumu.json",
+  "text": "Aurmumu is the old-Irish term for the eastern part of Munster. The word means the east of Munster and answers to the later name of Ormond. The early books of the island use the form for the eastern reach of the South. It stands as the counterpart of the name for the whole of Munster.",
+  "entities": [
+    {
+      "entity": "Aurmumu",
+      "type": "Place"
+    },
+    {
+      "entity": "Munster",
+      "type": "Place"
+    },
+    {
+      "entity": "Ormond",
+      "type": "Place"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Aurmumu",
+      "attribute": "Old Irish name for East Munster"
+    },
+    {
+      "entity": "Aurmumu",
+      "attribute": "matches the later name Ormond"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Aurmumu'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Record the Old Irish place-name Aurmumu.",
+    "key_results": [
+      "Give the meaning as East Munster.",
+      "Link Aurmumu to Ormond.",
+      "Set it within the province."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Aurmumu'"
+  }
+}

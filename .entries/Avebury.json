@@ -1,0 +1,44 @@
+{
+  "name": "Avebury",
+  "fname": "Avebury.json",
+  "text": "Avebury is the largest prehistoric monument of Britain. It stands in the north of Wiltshire, six miles west of Marlborough. The ditches and the standing stones date from the years before the Celtic peoples. They belong to the time around four to three thousand years before the common era. The work hands the reader the main books on the site.",
+  "entities": [
+    {
+      "entity": "Avebury",
+      "type": "Place"
+    },
+    {
+      "entity": "Wiltshire",
+      "type": "Place"
+    },
+    {
+      "entity": "Marlborough",
+      "type": "Place"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Avebury",
+      "attribute": "largest prehistoric monument in Britain"
+    },
+    {
+      "entity": "Avebury",
+      "attribute": "earthworks and standing stones dated to pre-Celtic times"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Avebury'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Record the prehistoric monument of Avebury.",
+    "key_results": [
+      "Name Avebury the largest monument of Britain.",
+      "Set its position in Wiltshire.",
+      "Give its early date."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Avebury'"
+  }
+}

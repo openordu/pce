@@ -1,0 +1,44 @@
+{
+  "name": "Athnurcher",
+  "fname": "Athnurcher.json",
+  "text": "Athnurcher is where the hero Cét slings a brain ball at Conchobar mac Nessa, the king of Ulster. The attack stands in the old Irish narrative of the North. The parish on the border of Westmeath and Offaly now carries the names Ardnurcher and Horseleap. The old name keeps the sense of the ford of the throw.",
+  "entities": [
+    {
+      "entity": "Athnurcher",
+      "type": "Place"
+    },
+    {
+      "entity": "Cét",
+      "type": "Character"
+    },
+    {
+      "entity": "Conchobar mac Nessa",
+      "type": "Character"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Athnurcher",
+      "attribute": "site of Cét's brain-ball cast at Conchobar in Irish narrative"
+    },
+    {
+      "entity": "Athnurcher",
+      "attribute": "modern parish named Ardnurcher or Horseleap"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Athnurcher'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Record the site of Cét's assault on Conchobar mac Nessa.",
+    "key_results": [
+      "Set Athnurcher in Irish narrative.",
+      "Name the modern parish at the site.",
+      "Give the sense of the old name."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Athnurcher'"
+  }
+}
