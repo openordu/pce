@@ -2,41 +2,47 @@
 layout: layouts/pce.njk
 title: Bodhmall
 icon: file-lines
-order: 272
+order: 291
 contributors: [ 'Christopher Godwin' ]
 attributes:
-  - Bodhmall foster mother
-  - Fionn Mac Cumhaill foster son
+  - Bodhmall an Irish druid
+  - Bodhmall foster mother of Fionn Mac Cumhaill
   - Bodhmall instructed Fionn in the occult arts
+  - Bodhmall a druidess who nursed the young Fionn Mac Cumhaill
+  - Bodhmall sister of Muirenn, Fionn's mother
 categories:
-  - Irish heroine
-  - great hero
-  - occult arts
+  - Person
 entities:
-  - Bodhmall(Irish heroine)
-  - Druid(occult arts)
-  - Fionn Mac Cumhaill(great hero)
+  - Bodhmall(Person)
+  - Fionn Mac Cumhaill(Person)
+  - Fionn Mac Cumhaill(Person)
+  - Muirenn(Person)
 tags:
   - Bodhmall
-  - Druid
   - Fionn Mac Cumhaill
+  - Fionn Mac Cumhaill
+  - Muirenn
 ---
 ``` tab [group1:Info]
 ::: magazinestyle
-Irish heroine Bodhmall (also known as Boghmin) was a Druid who played the role of foster mother to the legendary heroic figure Fionn Mac Cumhaill, imparting upon him knowledge of the occult.
+Bodhmall is an Irish heroine and druidess. She raised the great hero Fionn Mac Cumhaill as her own. He had no kinder nurse than her. Bodhmall trained the boy in secret arts. Her learning fell full on the champion of the tale. In folk-tales from oral tradition, Bodhmall nurses the young Fionn, a nephew born in her house. She is the sister of Muirenn, Fionn's mother. Her skill and care shaped the hunter-warrior of the Fenian stories.
 
 :::
 ```
 ``` tab [group1:Attributes]
-- **Bodhmall**: foster mother
-- **Fionn Mac Cumhaill**: foster son
+- **Bodhmall**: an Irish druid
+- **Bodhmall**: foster mother of Fionn Mac Cumhaill
 - **Bodhmall**: instructed Fionn in the occult arts
+- **Bodhmall**: a druidess who nursed the young Fionn Mac Cumhaill
+- **Bodhmall**: sister of Muirenn, Fionn's mother
 ```
 ``` tab [group1:Entities]
-- **Bodhmall**: Irish heroine
-- **Druid**: occult arts
-- **Fionn Mac Cumhaill**: great hero
+- **Bodhmall**: Person
+- **Fionn Mac Cumhaill**: Person
+- **Fionn Mac Cumhaill**: Person
+- **Muirenn**: Person
 ```
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
+- MacKillop 2008, s.v. Bodhmall.
 ```

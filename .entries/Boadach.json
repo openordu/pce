@@ -1,0 +1,43 @@
+{
+  "name": "Boadach",
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "text": "Boadach rules the Land of the Living. His name means victorious or triumphant in Irish. A fairy woman in the tale Echtrae Conli, the Adventure of Connla, tells of this land. The Land of the Living is a variation of Mag Mell, the Pleasant Plain. His rule places him in the otherworld of early Irish story.",
+  "entities": [
+    {
+      "entity": "Boadach",
+      "type": "Person"
+    },
+    {
+      "entity": "Mag Mell",
+      "type": "Place"
+    },
+    {
+      "entity": "Echtrae Conli",
+      "type": "Literary work"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Boadach",
+      "attribute": "the ruler of the Land of the Living"
+    },
+    {
+      "entity": "Boadach",
+      "attribute": "named in the tale Echtrae Conli"
+    }
+  ],
+  "okr": {
+    "objective": "Tell who Boadach was in the otherworld.",
+    "key_results": [
+      "Boadach ruled the Land of the Living.",
+      "He appears in the tale Echtrae Conli.",
+      "His land is a form of Mag Mell the Pleasant Plain."
+    ],
+    "evidence": "MacKillop 2008, s.v. Boadach."
+  },
+  "sources": [
+    "MacKillop 2008, s.v. Boadach."
+  ]
+}
