@@ -1,0 +1,29 @@
+{
+  "name": "Ainder",
+  "text": "Ainder, also called Ainnir, means a young woman in the Irish language. She appears in the Fenian Cycle as the daughter of Barran and the wife of Cailte. Her story ties her to the warrior fellowship of Finn. MacKillop keeps the name under this headword in his dictionary.",
+  "entities": [
+    {"entity": "Ainder", "type": "Character"},
+    {"entity": "Barran", "type": "Character"},
+    {"entity": "Cailte", "type": "Hero"},
+    {"entity": "Fenian Cycle", "type": "Literary work"},
+    {"entity": "Finn", "type": "Hero"}
+  ],
+  "attributes": [
+    {"entity": "Ainder", "attribute": "daughter of Barran"},
+    {"entity": "Ainder", "attribute": "wife of Cailte"},
+    {"entity": "Ainder", "attribute": "figure of the Fenian Cycle"}
+  ],
+  "sources": ["MacKillop 2008, s.v. 'Ainder'"],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Profile Ainder of the Fenian Cycle.",
+    "key_results": [
+      "Set her as daughter of Barran and wife of Cailte.",
+      "Place her within the Fenian Cycle.",
+      "Note the Irish meaning of her name."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Ainder'"
+  }
+}

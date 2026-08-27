@@ -1,0 +1,23 @@
+{
+  "name": "Aillinne",
+  "text": "Aillinne is another form of the place name Dun Aillinne. MacKillop gives this spelling as a variant of that headword. The terms name the same royal hill-fort site. See the Dun Aillinne entry for the full description of the place.",
+  "entities": [
+    {"entity": "Aillinne", "type": "Place"},
+    {"entity": "Dun Aillinne", "type": "Place"}
+  ],
+  "attributes": [
+    {"entity": "Aillinne", "attribute": "variant form of the place name Dun Aillinne"}
+  ],
+  "sources": ["MacKillop 2008, s.v. 'Aillinne'"],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Record Aillinne as a cross-reference headword.",
+    "key_results": [
+      "Name Aillinne as a variant of Dun Aillinne.",
+      "Point the reader to the Dun Aillinne entry."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Aillinne'"
+  }
+}

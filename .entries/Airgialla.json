@@ -1,0 +1,30 @@
+{
+  "name": "Airgialla",
+  "text": "Airgialla, also Oirghialla and Oriel, was one of three proto-kingdoms in the north of pre-Nordic Ireland. The other two were Ailech and Ulaid. Its territory ran from Lough Foyle to the Newry river. The lands covered much of Armagh and Monaghan. Parts of Louth, Down, and Fermanagh also fell inside. This area formed roughly the southern half of Northern Ireland. The Uí Néill conquered Airgialla early. They used the region as a base for later expansion.",
+  "entities": [
+    {"entity": "Airgialla", "type": "Place"},
+    {"entity": "Ailech", "type": "Place"},
+    {"entity": "Ulaid", "type": "Place"},
+    {"entity": "Uí Néill", "type": "Group"},
+    {"entity": "Oriel", "type": "Place"}
+  ],
+  "attributes": [
+    {"entity": "Airgialla", "attribute": "one of three proto-kingdoms of pre-Nordic Ireland"},
+    {"entity": "Airgialla", "attribute": "territory ran from Lough Foyle to the Newry river"},
+    {"entity": "Airgialla", "attribute": "spanned parts of Armagh, Monaghan, Louth, Down, and Fermanagh"},
+    {"entity": "Airgialla", "attribute": "conquered early by the Uí Néill"}
+  ],
+  "sources": ["MacKillop 2008, s.v. 'Airgialla'"],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Document the northern proto-kingdom of Airgialla.",
+    "key_results": [
+      "Identify Airgialla among the three northern proto-kingdoms.",
+      "Describe the reach of its territory.",
+      "Note the early conquest by the Uí Néill."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Airgialla'"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Airem",
+  "text": "Airem is an epithet carried by the king Eochaid Airem. MacKillop gives Aiream as a second form of the same title. The name marks this figure in early Irish sources. Readers should open the Eochaid Airem entry for the full account.",
+  "entities": [
+    {"entity": "Airem", "type": "Person"},
+    {"entity": "Eochaid Airem", "type": "Person"}
+  ],
+  "attributes": [
+    {"entity": "Airem", "attribute": "epithet of Eochaid Airem"},
+    {"entity": "Aiream", "attribute": "variant form of the Airem title"},
+    {"entity": "Eochaid Airem", "attribute": "king who bears the Airem epithet"}
+  ],
+  "sources": ["MacKillop 2008, s.v. 'Airem'"],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Record Airem as an epithet of the king Eochaid Airem.",
+    "key_results": [
+      "Name Airem as an epithet of Eochaid Airem.",
+      "Note Aiream as a second form of the title.",
+      "Point to the Eochaid Airem entry."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Airem'"
+  }
+}

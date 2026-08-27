@@ -1,0 +1,31 @@
+{
+  "name": "Aislinge Óenguso",
+  "text": "Aislinge Óenguso is an Old Irish narrative about the love of a god. The text comes from the Book of Leinster of about 1150. The usual English title is the Vision of Angus. Angus Óg wasted in longing over a woman met once in a dream. Bodb Derg learned that the woman was Cáer. She was the daughter of Ethal Anbúail. For alternate years Cáer lived as a human and as a swan. Angus came to her in her swan year. He changed into a swan to join her. The pair flew off to Brug na Bóinne. Their song was so fine that none slept for three days and nights.",
+  "entities": [
+    {"entity": "Aislinge Óenguso", "type": "concept"},
+    {"entity": "Angus Óg", "type": "Deity"},
+    {"entity": "Bodb Derg", "type": "Deity"},
+    {"entity": "Cáer", "type": "Person"},
+    {"entity": "Ethal Anbúail", "type": "Person"},
+    {"entity": "Brug na Bóinne", "type": "Place"}
+  ],
+  "attributes": [
+    {"entity": "Aislinge Óenguso", "attribute": "Old Irish narrative found in the Book of Leinster"},
+    {"entity": "Angus Óg", "attribute": "god who loved a woman seen only in a dream"},
+    {"entity": "Cáer", "attribute": "daughter of Áthal Anbúail who lived as swan and human"},
+    {"entity": "Bodb Derg", "attribute": "discovered the identity of the dream woman"}
+  ],
+  "sources": ["MacKillop 2008, s.v. 'Aislinge Óenguso'"],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Document the Old Irish tale Aislinge Óenguso.",
+    "key_results": [
+      "Place the story in the Book of Leinster around 1150.",
+      "Describe Angus Óg and the swan maiden Cáer.",
+      "Note the flight to Brug na Bóinne."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Aislinge Óenguso'"
+  }
+}

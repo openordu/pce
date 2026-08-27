@@ -1,0 +1,32 @@
+{
+  "name": "Ainnle",
+  "text": "Ainnle, also written Ainle or Ante, is a hero name from early Ireland. He ranks among the trio of sons born to Uisnech. Ainnle followed his brother Noise in eloping with Deirdre to Scotland. He was said to have a tenor voice, unlike his brother Ardan who sang baritone. Macpherson shaped the figure of Sithallin from him.",
+  "entities": [
+    {"entity": "Ainnle", "type": "Hero"},
+    {"entity": "Uisnech", "type": "Character"},
+    {"entity": "Noise", "type": "Hero"},
+    {"entity": "Deirdre", "type": "Character"},
+    {"entity": "Ardan", "type": "Character"},
+    {"entity": "Macpherson", "type": "Hero"},
+    {"entity": "Sithallin", "type": "Character"}
+  ],
+  "attributes": [
+    {"entity": "Ainnle", "attribute": "one of the three sons of Uisnech"},
+    {"entity": "Ainnle", "attribute": "followed his brother Noise in eloping with Deirdre to Scotland"},
+    {"entity": "Ainnle", "attribute": "thought to have a tenor voice"},
+    {"entity": "Ainnle", "attribute": "basis for the character of Sithallin in Macpherson work"}
+  ],
+  "sources": ["MacKillop 2008, s.v. 'Ainnle'"],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Profile Ainnle as a son of Uisnech.",
+    "key_results": [
+      "Set him among the three sons of Uisnech.",
+      "Record his part in the elopement with Deirdre.",
+      "Note his tenor voice and the Sithallin connection."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Ainnle'"
+  }
+}

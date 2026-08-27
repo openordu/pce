@@ -1,0 +1,27 @@
+{
+  "name": "Airgetlám",
+  "text": "Airgetlám means silver hand in Irish. The name is an agnomen given to the god Nuada. MacKillop gives Argetlám as a second spelling of the byname. Nuadu earned the title from his silver hand. Readers should see the Nuada entry for the full story.",
+  "entities": [
+    {"entity": "Airgetlám", "type": "Person"},
+    {"entity": "Nuada", "type": "Deity"},
+    {"entity": "Argetlám", "type": "Person"}
+  ],
+  "attributes": [
+    {"entity": "Airgetlám", "attribute": "agnomen meaning silver hand"},
+    {"entity": "Airgetlám", "attribute": "name carried by the god Nuada"},
+    {"entity": "Argetlám", "attribute": "alternate spelling of Airgetlám"}
+  ],
+  "sources": ["MacKillop 2008, s.v. 'Airgetlám'"],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Record Airgetlám as the silver hand byname of Nuada.",
+    "key_results": [
+      "Define Airgetlám as silver hand.",
+      "Identify Nuada as the bearer of the byname.",
+      "Note Argetlám as an alternate spelling."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Airgetlám'"
+  }
+}

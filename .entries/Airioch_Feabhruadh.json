@@ -1,0 +1,25 @@
+{
+  "name": "Airioch Feabhruadh",
+  "text": "Airioch Feabhruadh is a variant spelling of the name Erech Febria. MacKillop lists Airioch Feabhruadh as an alternate form of that headword. Both forms point to the same early figure in the sources. Readers should consult the Erech Febria entry for the full account.",
+  "entities": [
+    {"entity": "Airioch Feabhruadh", "type": "Person"},
+    {"entity": "Erech Febria", "type": "Person"}
+  ],
+  "attributes": [
+    {"entity": "Airioch Feabhruadh", "attribute": "variant spelling of Erech Febria"},
+    {"entity": "Erech Febria", "attribute": "figure named in two spellings"},
+    {"entity": "Airioch Feabhruadh", "attribute": "listed by MacKillop as an alternate form"}
+  ],
+  "sources": ["MacKillop 2008, s.v. 'Airioch Feabhruadh'"],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Record Airioch Feabhruadh as a cross-reference headword.",
+    "key_results": [
+      "Name Airioch Feabhruadh as a variant of Erech Febria.",
+      "Point the reader to the Erech Febria entry."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Airioch Feabhruadh'"
+  }
+}
