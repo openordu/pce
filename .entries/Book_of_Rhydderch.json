@@ -1,0 +1,34 @@
+{
+  "name": "Book of Rhydderch",
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "text": "The title Book of Rhydderch points to the White Book of Rhydderch. The Irish work is a collection of medieval Welsh prose. Scribes wrote it about 1325. See the entry White Book of Rhydderch for the full account.",
+  "entities": [
+    {
+      "entity": "Book of Rhydderch",
+      "type": "Literary work"
+    },
+    {
+      "entity": "White Book of Rhydderch",
+      "type": "Literary work"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Book of Rhydderch",
+      "attribute": "a cross-reference for the White Book of Rhydderch"
+    }
+  ],
+  "okr": {
+    "objective": "Route the Book of Rhydderch to the White Book of Rhydderch.",
+    "key_results": [
+      "The title points to the White Book of Rhydderch.",
+      "The work holds medieval Welsh prose."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Book of Rhydderch'."
+  },
+  "sources": [
+    "MacKillop 2008, s.v. 'Book of Rhydderch'."
+  ]
+}

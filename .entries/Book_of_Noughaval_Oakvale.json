@@ -1,0 +1,38 @@
+{
+  "name": "Book of Noughaval/Oakvale",
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "text": "The title Book of Noughaval/Oakvale points to the Book of Leinster. The names come from the Irish Lebor na Núachongbála. The recorded terms belong to the same great twelfth-century codex. See the entry Book of Leinster for the full account.",
+  "entities": [
+    {
+      "entity": "Book of Noughaval/Oakvale",
+      "type": "Literary work"
+    },
+    {
+      "entity": "Book of Leinster",
+      "type": "Literary work"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Book of Noughaval/Oakvale",
+      "attribute": "a variant title for the Book of Leinster"
+    },
+    {
+      "entity": "Book of Noughaval/Oakvale",
+      "attribute": "from the Irish Lebor na Nuachongbála"
+    }
+  ],
+  "okr": {
+    "objective": "Route the names Noughaval and Oakvale to their entry.",
+    "key_results": [
+      "They point to the Book of Leinster.",
+      "The Irish title means the Book of Núachongbála."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Book of Noughaval/Oakvale'."
+  },
+  "sources": [
+    "MacKillop 2008, s.v. 'Book of Noughaval/Oakvale'."
+  ]
+}

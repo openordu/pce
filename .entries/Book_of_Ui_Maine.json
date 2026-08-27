@@ -1,0 +1,55 @@
+{
+  "name": "Book of Uí Maine",
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "text": "The Book of Uí Maine carries the Irish title Leabhar Uí Maine. It is also called the Book of Hy Many. The codex is smaller and dates from the late fourteenth or early fifteenth century. The O'Kelly family held it for a long time. They were the descendants of the Uí Maine sept. That sept in medieval times ruled much of what is now County Galway and lands in Roscommon. The book holds parts of the Lebor Gabála, poems, genealogies, and pedigrees. R. A. Stewart MacAlister edited it in Dublin in 1942.",
+  "entities": [
+    {
+      "entity": "Book of Uí Maine",
+      "type": "Literary work"
+    },
+    {
+      "entity": "Book of Hy Many",
+      "type": "Literary work"
+    },
+    {
+      "entity": "Uí Maine",
+      "type": "People"
+    },
+    {
+      "entity": "O'Kelly",
+      "type": "People"
+    },
+    {
+      "entity": "Lebor Gabála",
+      "type": "Literary work"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Book of Uí Maine",
+      "attribute": "also called the Book of Hy Many"
+    },
+    {
+      "entity": "Book of Uí Maine",
+      "attribute": "held by the O'Kelly family"
+    },
+    {
+      "entity": "Book of Uí Maine",
+      "attribute": "includes the Lebor Gabála and genealogies"
+    }
+  ],
+  "okr": {
+    "objective": "Describe the Book of Uí Maine.",
+    "key_results": [
+      "It is also called the Book of Hy Many.",
+      "The O'Kelly family held it.",
+      "It holds texts of myth and genealogy."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Book of the Uí Maine'."
+  },
+  "sources": [
+    "MacKillop 2008, s.v. 'Book of Ui Maine'."
+  ]
+}
