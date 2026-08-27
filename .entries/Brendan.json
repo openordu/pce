@@ -1,0 +1,56 @@
+{
+    "name": "Brendan",
+    "attributes": [
+        {
+            "entity": "Brendan",
+            "attribute": "a name shared by seventeen Irish saints"
+        },
+        {
+            "entity": "Brendan",
+            "attribute": "the most celebrated saint is Brendan of Clonfert"
+        },
+        {
+            "entity": "Brendan",
+            "attribute": "founded abbeys at Ardfert and Clonfert"
+        },
+        {
+            "entity": "Finnlug",
+            "attribute": "father of Saint Brendan of Clonfert"
+        }
+    ],
+    "entities": [
+        {
+            "entity": "Brendan",
+            "type": "Person"
+        },
+        {
+            "entity": "Clonfert",
+            "type": "Place"
+        },
+        {
+            "entity": "Kerry",
+            "type": "Place"
+        },
+        {
+            "entity": "Finnlug",
+            "type": "Person"
+        }
+    ],
+    "sources": [
+        "MacKillop 2008, s.v. 'Brendan'."
+    ],
+    "cyphertext": "",
+    "salt": "",
+    "image": [],
+    "text": "Brendan is a name shared by seventeen Irish saints. The most celebrated saint is Brendan of Clonfert, who died in 577 and earned the title Navigator. His father was Finnlug. Brendan founded the abbey at Ardfert in his native Kerry. He also set up Clonfert in county Galway. Two Latin works record his story. The Vita Brendani gives a life. The Navigatio Sancti Brendani Abbatis, dated about the ninth or tenth century, tells of a voyage. A hermit named Barinthus spoke of a western land of promise. Brendan then sailed with fourteen companions in a leather curragh. He met islands of giant sheep, a whale mistaken for land, and a burning peak. Some writers claim he reached Iceland and beyond.",
+    "okr": {
+        "objective": "Describe Brendan of Clonfert, the celebrated Irish saint.",
+        "key_results": [
+            "Brendan is a name shared by seventeen Irish saints.",
+            "Saint Brendan of Clonfert founded abbey at Ardfert and Clonfert.",
+            "The Navigatio Sancti Brendani recounts a famous voyage.",
+            "Brendan sailed toward a western land in a leather currach."
+        ],
+        "evidence": "MacKillop 2008, s.v. 'Brendan'."
+    }
+}

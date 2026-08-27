@@ -2,97 +2,80 @@
 layout: layouts/pce.njk
 title: Brigit
 icon: file-lines
-order: 321
+order: 346
 contributors: [ 'Christopher Godwin' ]
 attributes:
-  - Brigit honored by neopagans and Christians
-  - on-line societies related to Brigit
-  - Brigit patron saint of poets, smiths, and physicians
-  - Kildare monastery that rivalled Armagh for church supremacy
-  - Imbolc pagan festival that shares the saint's feast day
-  - Brigit an Irish goddess who appears in many places
-  - Brigit other names include Brig and Bride
-  - Imbolc her feast day, falling on February 1
-  - Leinster her special region in the southeast of Ireland
-  - Kildare the seat of the saint's abbey
-  - Bres mac Elatha the king who became her consort
-  - Ruadán her son by Bres mac Elatha
+  - Brigit a goddess of fire, smithing, fertility, cattle, crops, and poetry
+  - Brigit the daughter of the Dagda
+  - Brigit the tutelary goddess of Leinster
+  - Brigit linked to the feast of Imbolc
+  - Brigit gave the first keening in Ireland at her son's death
+  - Brigit compared with Minerva, Vesta, and Brigantia
 categories:
   - Deity
-  - place
-  - community
-  - group
-  - deity
-  - festival
-  - Place
-  - Event
   - Person
+  - Place
+  - Festival
 entities:
-  - Brigit(deity)
-  - neopagans(group)
-  - Christians(group)
-  - on-line societies(community)
-  - Kildare(place)
-  - Leinster(place)
-  - Imbolc(festival)
   - Brigit(Deity)
-  - Kildare(Place)
-  - Imbolc(Event)
+  - Dagda(Deity)
+  - Senchán Torpéist(Person)
+  - Imbolc(Festival)
   - Leinster(Place)
-  - Giraldus Cambrensis(Person)
-  - Bres mac Elatha(Person)
-  - Ruadán(Person)
+  - Bres(Person)
+  - Rúadán(Person)
+  - Goibniu(Deity)
+  - Ecne(Person)
+  - Minerva(Deity)
+  - Vesta(Deity)
+  - Brigantia(Deity)
+  - Brigindo(Deity)
+  - Brigid(Person)
 tags:
   - Brigit
-  - neopagans
-  - Christians
-  - on-line societies
-  - Kildare
-  - Leinster
-  - Imbolc
-  - Brigit
-  - Kildare
+  - Dagda
+  - Senchán Torpéist
   - Imbolc
   - Leinster
-  - Giraldus Cambrensis
-  - Bres mac Elatha
-  - Ruadán
+  - Bres
+  - Rúadán
+  - Goibniu
+  - Ecne
+  - Minerva
+  - Vesta
+  - Brigantia
+  - Brigindo
+  - Brigid
 ---
 ``` tab [group1:Info]
 ::: magazinestyle
-Brigit is an Irish goddess who takes two forms. The first is the pagan goddess of craft and poetry. The second is the Christian saint Brigit, associated with Cill Dara, better known as Kildare, who died about 525. Celtic gods usually stay tied to one place. Brigit breaks that rule. She appears across Ireland, Britain, and later the whole church, a sign her name held a single strong power. As a goddess she ruled three arts: poetry, smithwork, and healing. She also held fire, cattle, and the power to transform things. She is the child of the Dagda. When her son Ruadán died in war, she grieved so hard she gave Ireland the wild sound called keening. Some writers split her into three sisters, one over each craft, a common Celtic way to show one mighty power. The saint kept her name, her feast day, and her gifts. Her feast is 1 February, the same date the pagans kept Imbolc. She founded a monastery at Kildare, where twenty nuns kept a perpetual fire behind a hedge men could not cross.
+Brigit is a pre-Christian Irish goddess of fire and of the forge. She also rules over the farm, the herd, the field, and the art of poetry. She is the daughter of the Dagda. Later tradition makes her the wife of Senchán Torpéist, a supposed author of the Cattle Raid of Cooley. Her calendar feast is Imbolc, kept on the first of February. Cormac's Glossary says the name Brigit covers three goddesses. She stands as the tutelary goddess of Leinster. A carved head at Corleck Hill near Drumeague in County Cavan is held to be her image. Under the name Brig, she mated with Bres to produce Rúdán, who died trying to kill Goibniu. When her son died, Brigit raised the first lament ever heard in Ireland. Some say she is the grandmother of Ecne, who stands for knowledge. Writers compare her with Minerva, Vesta, Brigantia, and Brigindo. Historians also connect the goddess to St Brigid.
 
 :::
 ```
 ``` tab [group1:Attributes]
-- **Brigit**: honored by neopagans and Christians
-- **on-line societies**: related to Brigit
-- **Brigit**: patron saint of poets, smiths, and physicians
-- **Kildare**: monastery that rivalled Armagh for church supremacy
-- **Imbolc**: pagan festival that shares the saint's feast day
-- **Brigit**: an Irish goddess who appears in many places
-- **Brigit**: other names include Brig and Bride
-- **Imbolc**: her feast day, falling on February 1
-- **Leinster**: her special region in the southeast of Ireland
-- **Kildare**: the seat of the saint's abbey
-- **Bres mac Elatha**: the king who became her consort
-- **Ruadán**: her son by Bres mac Elatha
+- **Brigit**: a goddess of fire, smithing, fertility, cattle, crops, and poetry
+- **Brigit**: the daughter of the Dagda
+- **Brigit**: the tutelary goddess of Leinster
+- **Brigit**: linked to the feast of Imbolc
+- **Brigit**: gave the first keening in Ireland at her son's death
+- **Brigit**: compared with Minerva, Vesta, and Brigantia
 ```
 ``` tab [group1:Entities]
-- **Brigit**: deity
-- **neopagans**: group
-- **Christians**: group
-- **on-line societies**: community
-- **Kildare**: place
-- **Leinster**: place
-- **Imbolc**: festival
 - **Brigit**: Deity
-- **Kildare**: Place
-- **Imbolc**: Event
+- **Dagda**: Deity
+- **Senchán Torpéist**: Person
+- **Imbolc**: Festival
 - **Leinster**: Place
-- **Giraldus Cambrensis**: Person
-- **Bres mac Elatha**: Person
-- **Ruadán**: Person
+- **Bres**: Person
+- **Rúadán**: Person
+- **Goibniu**: Deity
+- **Ecne**: Person
+- **Minerva**: Deity
+- **Vesta**: Deity
+- **Brigantia**: Deity
+- **Brigindo**: Deity
+- **Brigid**: Person
 ```
 ``` tab [group1:Sources]
 - Berger, Pamela. The Goddess Obscured: Transformation of the Grain Protectress from Goddess to Saint. Boston: Beacon Press, 1985, 70.
@@ -103,5 +86,6 @@ Brigit is an Irish goddess who takes two forms. The first is the pagan goddess o
 - Ó hÓgain, Dáithí. The Hero in Irish Folk History. Dublin: Gill & Macmillan, 1985.
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 - Koch 2006, s.v. 'Brigit'
+- MacKillop 2008, s.v. 'Brigit'.
 ```
 ![Brigit Image](https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Thecomingofbrideduncan1917.jpg/1200px-Thecomingofbrideduncan1917.jpg)

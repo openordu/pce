@@ -1,0 +1,52 @@
+{
+  "name": "Bec mac De",
+  "text": "Bec mac De stands as the finest seer of his era. He held the rare gift of speaking to nine men at the same time. He could answer every question they asked with a single reply. This talent placed his counsel in high demand among the curious. He fixed his sight upon Diarmait mac Cerbaill and foretold the manner of that king's death. He declared that Diarmait would lose his life inside the home of Banban the hospitaller. His words cast a dark warning over the ruler's fate. Many came to seek his insight before they made their plans.",
+  "entities": [
+    {
+      "entity": "Bec mac De",
+      "type": "Person"
+    },
+    {
+      "entity": "Diarmait mac Cerbaill",
+      "type": "Person"
+    },
+    {
+      "entity": "Banban",
+      "type": "Person"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Bec mac De",
+      "attribute": "was the finest seer of his era"
+    },
+    {
+      "entity": "Bec mac De",
+      "attribute": "could answer nine men at once with a single reply"
+    },
+    {
+      "entity": "Diarmait mac Cerbaill",
+      "attribute": "was prophesied to die at the home of Banban the hospitaller"
+    },
+    {
+      "entity": "Banban",
+      "attribute": "was the hospitaller whose home was the place of Diarmait mac Cerbaill's death"
+    }
+  ],
+  "okr": {
+    "objective": "Describe Bec mac De as a renowned seer and recall his prophecy about Diarmait mac Cerbaill.",
+    "key_results": [
+      "States Bec mac De was the finest seer of his era",
+      "States he could answer nine men at once with one reply",
+      "States he prophesied Diarmait mac Cerbaill's death at the home of Banban the hospitaller"
+    ],
+    "evidence": "MacKillop 2008, s.v. Bec mac Dé."
+  },
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "sources": [
+    "MacKillop 2008, s.v. Bec mac Dé.",
+    "Diarmait mac Cerbaill: s.v. Aed Slán mac Diarmato (corpus cross-reference)."
+  ]
+}

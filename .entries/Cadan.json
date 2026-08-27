@@ -1,0 +1,35 @@
+{
+  "name": "Cadan",
+  "text": "Cadan names an early hero of Irish tradition. The spelling Cadhan is the Irish word for a wild goose. Cadan kept a powerful dog in legend. That fine hound killed a piast, a dreaded monster, near Derry. Derry is a city in Northern Ireland. The beast's death became a celebrated story. Early heroes often own such loyal hunting animals. Tales describe the hound's courage with full relish.",
+  "entities": [
+    {
+      "entity": "Derry",
+      "type": "Place"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Cadan",
+      "attribute": "early hero whose dog killed a piast"
+    },
+    {
+      "entity": "Derry",
+      "attribute": "city in Northern Ireland"
+    }
+  ],
+  "okr": {
+    "objective": "Identify Cadan as an early Irish hero known for his dog.",
+    "key_results": [
+      "state Cadan is an early hero",
+      "note his dog killed a piast near Derry",
+      "describe the monster"
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Cadan'."
+  },
+  "sources": [
+    "MacKillop 2008, s.v. 'Cadan'."
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": ""
+}

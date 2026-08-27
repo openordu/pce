@@ -1,0 +1,64 @@
+{
+  "name": "Caerllion",
+  "text": "Caerllion is the Welsh name for the town of Caerleon, and it also appears in the form Caer Llion. Caerleon stands beside the River Usk in south Wales, and Welsh speech gives this town the name Caerllion. A second phrase, Caerllion Fawr, is the Welsh name for the English city of Chester instead. So the single headword binds Caerllion to Caerleon, while the fuller form sets a city in the far north. The two places are sometimes confused in older stories and annals. Both names carry the common element caer, which means a fort or an enclosed stronghold. This Welsh headword thus names Caerleon yet reaches toward Chester as well.",
+  "entities": [
+    {
+      "entity": "Caerllion",
+      "type": "Place"
+    },
+    {
+      "entity": "Caer Llion",
+      "type": "Place"
+    },
+    {
+      "entity": "Caerleon",
+      "type": "Place"
+    },
+    {
+      "entity": "Caerllion Fawr",
+      "type": "Place"
+    },
+    {
+      "entity": "Chester",
+      "type": "Place"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Caerllion",
+      "attribute": "is the Welsh name for Caerleon"
+    },
+    {
+      "entity": "Caerllion",
+      "attribute": "also appears as Caer Llion"
+    },
+    {
+      "entity": "Caerllion Fawr",
+      "attribute": "is the Welsh name for Chester"
+    },
+    {
+      "entity": "Caerleon",
+      "attribute": "stands by the River Usk in south Wales"
+    },
+    {
+      "entity": "Caerllion",
+      "attribute": "carries the element caer meaning a fort"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Caerllion'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Records Caerllion as the Welsh name for Caerleon, with Caerllion Fawr used for the city of Chester.",
+    "key_results": [
+      "Names Caer Llion as another form of the same headword",
+      "Links Caerllion to the town of Caerleon on the Usk",
+      "Notes that Caerllion Fawr is the Welsh name for Chester",
+      "Explains the caer element meaning fort"
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Caerllion'"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "name": "Book of Fermoy",
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "text": "The Book of Fermoy is a manuscript from the mid-fifteenth century. It now rests at the Royal Irish Academy in Dublin. The codex holds a copy of Altrom Tige Dá Medar. That tale takes its title from the nurturing of the two dairy homes. Fermoy, a village in the north-eastern part of County Cork, lies about sixteen miles east of Mallow.",
+  "entities": [
+    {
+      "entity": "Book of Fermoy",
+      "type": "Literary work"
+    },
+    {
+      "entity": "Altrom Tige Dá Medar",
+      "type": "Literary work"
+    },
+    {
+      "entity": "Fermoy",
+      "type": "Place"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Book of Fermoy",
+      "attribute": "an Irish manuscript of the mid-fifteenth century"
+    },
+    {
+      "entity": "Book of Fermoy",
+      "attribute": "includes the text of Altrom Tige Dá Medar"
+    }
+  ],
+  "okr": {
+    "objective": "Describe the manuscript the Book of Fermoy.",
+    "key_results": [
+      "It is an Irish manuscript of the mid-fifteenth century.",
+      "It rests at the Royal Irish Academy in Dublin.",
+      "It includes the text of Altrom Tige Dá Medar."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Book of Fermoy'."
+  },
+  "sources": [
+    "MacKillop 2008, s.v. 'Book of Fermoy'."
+  ]
+}

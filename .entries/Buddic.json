@@ -1,0 +1,24 @@
+{
+ "name": "Buddic",
+ "text": "Buddic is one of the Welsh forms that the source book gives for the name of the British queen celebrated as Boudicca, who led an uprising against the Romans. The middle Welsh spelling sets down her name as Buddig, following a native pronunciation that shifts the vowel. This entry only routes the reader toward the fuller article on Boudicca and her revolt, because the headword carries no campaign narrative of its own.",
+ "entities": [
+  {"entity": "Buddic", "type": "Person"},
+  {"entity": "Boudicca", "type": "Person"}
+ ],
+ "attributes": [
+  {"entity": "Buddic", "attribute": "is a Welsh form of the queen's name Boudicca"},
+  {"entity": "Boudicca", "attribute": "holds the fuller account of the revolt that the Buddic headword points to"}
+ ],
+ "okr": {
+  "objective": "Record the Welsh spelling Buddic for the British queen and route readers to her article.",
+  "key_results": [
+   "Note that Buddic renders the queen's name in Welsh.",
+   "Treat this entry as a cross reference to the main Boudicca article."
+  ],
+  "evidence": "MacKillop 2008, s.v. 'Buddic'."
+ },
+ "sources": ["MacKillop 2008, s.v. 'Buddic'."],
+ "image": [],
+ "cyphertext": "",
+ "salt": ""
+}

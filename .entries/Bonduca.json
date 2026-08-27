@@ -1,0 +1,39 @@
+{
+  "name": "Bonduca",
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "text": "Bonduca is the form of the name seen in Holinshed's Chronicles printed in 1577. That same name appears in later accounts as the queen Boudicca of the Iceni. She led the great rising against Roman rule in Britain. A reader who meets Bonduca should follow the entry on Boudicca. The two spellings name one woman.",
+  "entities": [
+    {
+      "entity": "Bonduca",
+      "type": "Person"
+    },
+    {
+      "entity": "Boudicca",
+      "type": "Person"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Bonduca",
+      "attribute": "the name form in Holinshed's Chronicles of 1577"
+    },
+    {
+      "entity": "Bonduca",
+      "attribute": "cross-reference to the queen Boudicca"
+    }
+  ],
+  "okr": {
+    "objective": "Flag Bonduca as the early English spelling of Boudicca the Iceni queen.",
+    "key_results": [
+      "Bonduca is the spelling used by Holinshed in 1577.",
+      "It names the same woman as Boudicca.",
+      "Boudicca led a rising against Roman rule."
+    ],
+    "evidence": "MacKillop 2008, s.v. Bonduca."
+  },
+  "sources": [
+    "MacKillop 2008, s.v. Bonduca."
+  ]
+}

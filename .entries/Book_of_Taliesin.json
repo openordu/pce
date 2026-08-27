@@ -1,0 +1,51 @@
+{
+  "name": "Book of Taliesin",
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "text": "The Book of Taliesin keeps the Welsh name Llyfr Taliesin. The volume came together near 1275 and holds sixty poems or more. The sixth-century poet Taliesin inspired these lines. Sir Ifor Williams judged twelve as likely his own work. The volume also holds Armes Prydain, the Prophecy of Britain. It keeps Cad Goddeu, whose title is the Battle of the Trees. That story tells of Myrddin, the seer folk call Merlin. The book rests at Aberystwyth inside the chief library of Wales.",
+  "entities": [
+    {
+      "entity": "Book of Taliesin",
+      "type": "Literary work"
+    },
+    {
+      "entity": "Taliesin",
+      "type": "Person"
+    },
+    {
+      "entity": "Armes Prydain",
+      "type": "Literary work"
+    },
+    {
+      "entity": "Cad Goddeu",
+      "type": "Literary work"
+    },
+    {
+      "entity": "Myrddin",
+      "type": "Person"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Book of Taliesin",
+      "attribute": "a Welsh codex written about 1275"
+    },
+    {
+      "entity": "Book of Taliesin",
+      "attribute": "holds poems of Taliesin and Myrddin"
+    }
+  ],
+  "okr": {
+    "objective": "Describe the Book of Taliesin.",
+    "key_results": [
+      "It is a Welsh codex from about 1275.",
+      "It holds poems of Taliesin.",
+      "It also carries the Armes Prydain and Cad Goddeu."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Book of Taliesin'."
+  },
+  "sources": [
+    "MacKillop 2008, s.v. 'Book of Taliesin'."
+  ]
+}

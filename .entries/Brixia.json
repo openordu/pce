@@ -3,19 +3,19 @@
     "attributes": [
         {
             "entity": "Brixia",
-            "attribute": "a Continental Celtic goddess"
-        },
-        {
-            "entity": "Bricta",
-            "attribute": "her other name"
-        },
-        {
-            "entity": "Luxeuil",
-            "attribute": "the thermal spring site linked to her"
+            "attribute": "an obscure Continental Celtic goddess"
         },
         {
             "entity": "Brixia",
-            "attribute": "linked to Brigit in her healing aspect"
+            "attribute": "the consort of the water-god Luxovius"
+        },
+        {
+            "entity": "Brixia",
+            "attribute": "her other name is Bricta"
+        },
+        {
+            "entity": "Brixia",
+            "attribute": "linked by some scholars to the Irish Brigit"
         }
     ],
     "entities": [
@@ -24,12 +24,12 @@
             "type": "Deity"
         },
         {
-            "entity": "Bricta",
+            "entity": "Luxovius",
             "type": "Deity"
         },
         {
-            "entity": "Luxeuil",
-            "type": "Place"
+            "entity": "Bricta",
+            "type": "Deity"
         },
         {
             "entity": "Brigit",
@@ -37,19 +37,20 @@
         }
     ],
     "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.",
+        "MacKillop 2008, s.v. 'Brixia'."
     ],
     "cyphertext": "dvWpraaFvQHvVKJdZ4H4cLPjFLcJOwQ7dsr-eaRCWQePW-968r6mrkMRvcis55KcuXhAMm8CWYqAoWzgEZgp9lcZSrinX-RUCzM09un8YiMGqhykZj3u1_NtA8Zspt_yN1jmbtqM4e3TLhgXRG-DUXA4y3STx8rwGE5ZYLQPMXUNXi8tpfQ5Vg0HeoGBo4-SvOc68XTz0jiLKBSrJwowTY95bVfdwuFHzygs6X8L5MSsY21WDqU4QWk0Fg3izOnkmO5cLKFEsqPYLATP4QmiE2Mf",
     "salt": "KMMykMXs6Z6YmVCzNtf9Yw==",
-    "text": "Brixia is a Continental Celtic goddess. Her other name is Bricta. She is known from one place. That place is a warm spring at Luxeuil in southern France. Scholars link Brixia to Brigit in her healing aspect.",
+    "text": "Brixia is an obscure Continental Celtic goddess. She is the consort of Luxovius, the water-god of Luxeuil. Her other name is Bricta. Scholars often suggest a link between Brixia and the Irish Brigit, but they have yet to prove it. She belongs to the healing and water cult of the warm springs of Luxeuil in eastern France.",
     "okr": {
-        "objective": "Describe Brixia, the Continental Celtic goddess of the Luxeuil spring.",
+        "objective": "Describe the Continental goddess Brixia.",
         "key_results": [
-            "Brixia was a Continental Celtic goddess.",
+            "Brixia is an obscure Continental Celtic goddess.",
+            "She is the consort of the water-god Luxovius.",
             "Her other name is Bricta.",
-            "She is known from the thermal spring of Luxeuil.",
-            "Scholars link her to Brigit in healing."
+            "Scholars suggest but cannot prove a link to Brigit."
         ],
-        "evidence": "Monaghan 2008, s.v. 'Brixia'."
+        "evidence": "MacKillop 2008, s.v. 'Brixia'."
     }
 }

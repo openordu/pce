@@ -1,0 +1,67 @@
+{
+  "name": "Blaskets",
+  "text": "The Blaskets are a cluster of rocky islets. They stand off Dunmore Head at the western point of the Dingle peninsula in County Kerry. The group sits about twelve miles west of Dingle. The islands once held Irish-speaking people. Folklorists studied these islanders before the population shrank. The community produced three noted Irish-language memoirs. Tomás O'Crohan wrote The Islandman in 1929. Maurice O'Sullivan wrote Twenty Years A-Growing in 1933. Peig Sayers wrote Peig, published in 1936 and again in 1973.",
+  "entities": [
+    {
+      "entity": "Blaskets",
+      "type": "Place"
+    },
+    {
+      "entity": "Dingle Peninsula",
+      "type": "Place"
+    },
+    {
+      "entity": "County Kerry",
+      "type": "Place"
+    },
+    {
+      "entity": "Tomás O'Crohan",
+      "type": "Person"
+    },
+    {
+      "entity": "Maurice O'Sullivan",
+      "type": "Person"
+    },
+    {
+      "entity": "Peig Sayers",
+      "type": "Person"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Blaskets",
+      "attribute": "a cluster of rocky islets off Dunmore Head"
+    },
+    {
+      "entity": "Blaskets",
+      "attribute": "home to Irish-speaking islanders before depopulation"
+    },
+    {
+      "entity": "Tomás O'Crohan",
+      "attribute": "wrote The Islandman in 1929"
+    },
+    {
+      "entity": "Maurice O'Sullivan",
+      "attribute": "wrote Twenty Years A-Growing in 1933"
+    },
+    {
+      "entity": "Peig Sayers",
+      "attribute": "wrote Peig, published in 1936 and 1973"
+    }
+  ],
+  "okr": {
+    "objective": "Describe the Blaskets, the Irish-speaking islands noted for their folkloric memoirs.",
+    "key_results": [
+      "The Blaskets lie off Dunmore Head at the tip of the Dingle peninsula.",
+      "Irish-speaking islanders lived there before depopulation.",
+      "The community produced three noted Irish-language memoirs."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Blaskets'."
+  },
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "sources": [
+    "MacKillop 2008, s.v. 'Blaskets'."
+  ]
+}

@@ -1,0 +1,51 @@
+{
+    "name": "Breizh",
+    "attributes": [
+        {
+            "entity": "Breizh",
+            "attribute": "the Breton name for Brittany"
+        },
+        {
+            "entity": "Breizh Izel",
+            "attribute": "western or lower Brittany"
+        },
+        {
+            "entity": "Breizh Uhel",
+            "attribute": "eastern or upper Brittany"
+        }
+    ],
+    "entities": [
+        {
+            "entity": "Breizh",
+            "type": "Place"
+        },
+        {
+            "entity": "Brittany",
+            "type": "Place"
+        },
+        {
+            "entity": "Breizh Izel",
+            "type": "Place"
+        },
+        {
+            "entity": "Breizh Uhel",
+            "type": "Place"
+        }
+    ],
+    "sources": [
+        "MacKillop 2008, s.v. 'Breizh'."
+    ],
+    "cyphertext": "",
+    "salt": "",
+    "image": [],
+    "text": "Breizh is the Breton name for Brittany. Breizh Izel marks western or lower Brittany. Breizh Uhel denotes eastern or upper Brittany. The term Breizh therefore reaches two distinct halves of the land. Readers who meet Breizh should consult the Brittany entry for the fuller account.",
+    "okr": {
+        "objective": "Explain Breizh, the Breton name for Brittany.",
+        "key_results": [
+            "Breizh is the Breton name for Brittany.",
+            "Breizh Izel means western or lower Brittany.",
+            "Breizh Uhel means eastern or upper Brittany."
+        ],
+        "evidence": "MacKillop 2008, s.v. 'Breizh'."
+    }
+}

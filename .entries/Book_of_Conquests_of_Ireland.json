@@ -1,0 +1,47 @@
+{
+  "name": "Book of Conquests of Ireland",
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "text": "The Book of Conquests of Ireland is another name for the great pseudo-history of the invasions. It is the Lebor Gabála, whose title describes the seizing of Ireland. This text recounts the successive arrivals on the island. It names the Nemedians, the Milesian settlers, and the people of the Tuatha Dé Danann. For the whole account read the entry Lebor Gabála Érenn.",
+  "entities": [
+    {
+      "entity": "Book of Conquests of Ireland",
+      "type": "Literary work"
+    },
+    {
+      "entity": "Lebor Gabála Érenn",
+      "type": "Literary work"
+    },
+    {
+      "entity": "Nemedians",
+      "type": "People"
+    },
+    {
+      "entity": "Milesians",
+      "type": "People"
+    },
+    {
+      "entity": "Tuatha Dé Danann",
+      "type": "supernatural race"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Book of Conquests of Ireland",
+      "attribute": "another name for the Lebor Gabála Érenn"
+    }
+  ],
+  "okr": {
+    "objective": "Route the title Book of Conquests of Ireland to its proper entry.",
+    "key_results": [
+      "The name means the Book of the Taking of Ireland.",
+      "It is the Lebor Gabála Érenn.",
+      "It recounts the invasions of the island by the Nemedians, Tuatha Dé Danann, and Milesians."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Book of Conquests of Ireland'."
+  },
+  "sources": [
+    "MacKillop 2008, s.v. 'Book of Conquests of Ireland'."
+  ]
+}

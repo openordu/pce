@@ -1,0 +1,32 @@
+{
+ "name": "Brutus",
+ "text": "Brutus is a contrived eponym and founder planted as an ancestor of the British people. Geoffrey of Monmouth traced this pedigree in 1136. As a Trojan leader Brutus dreams of a temple of Diana far toward the sunset. Landing on the island he overcomes the giant Gogmagog. He then sets law upon the land he calls Britain, or Prydain.",
+ "entities": [
+  {"entity": "Brutus", "type": "Person"},
+  {"entity": "Geoffrey of Monmouth", "type": "Person"},
+  {"entity": "Britain", "type": "Place"},
+  {"entity": "Prydain", "type": "Place"},
+  {"entity": "Gogmagog", "type": "Person"},
+  {"entity": "Diana", "type": "Deity"},
+  {"entity": "Trojans", "type": "Group"}
+ ],
+ "attributes": [
+  {"entity": "Brutus", "attribute": "serves as the contrived eponym and progenitor of the British people"},
+  {"entity": "Brutus", "attribute": "dreams of the temple of Diana beyond the setting sun"},
+  {"entity": "Brutus", "attribute": "defeats the giant Gogmagog after invading the island"},
+  {"entity": "Brutus", "attribute": "establishes law in the land he names Britain"}
+ ],
+ "okr": {
+  "objective": "Record the legendary Trojan founder that Geoffrey of Monmouth made the eponym of Britain.",
+  "key_results": [
+   "State that Brutus is a contrived eponym and progenitor of the British people.",
+   "Record the dream of Diana's temple and the defeat of Gogmagog.",
+   "Note that Brutus names the land Britain, or Prydain."
+  ],
+  "evidence": "MacKillop 2008, s.v. 'Brutus'."
+ },
+ "sources": ["MacKillop 2008, s.v. 'Brutus'."],
+ "image": [],
+ "cyphertext": "",
+ "salt": ""
+}

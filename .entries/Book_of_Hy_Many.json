@@ -1,0 +1,43 @@
+{
+  "name": "Book of Hy Many",
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "text": "The Book of Hy Many is another name for the Book of Uí Maine. Its Irish title is Leabhar Uí Maine. The codex dates from the late fourteenth or early fifteenth century. The O'Kelly family long held it. They were descendants of the Uí Maine sept. Their lands covered much of County Galway and parts of Roscommon. See the entry Book of Uí Maine for the full account.",
+  "entities": [
+    {
+      "entity": "Book of Hy Many",
+      "type": "Literary work"
+    },
+    {
+      "entity": "Book of Uí Maine",
+      "type": "Literary work"
+    },
+    {
+      "entity": "O'Kelly",
+      "type": "People"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Book of Hy Many",
+      "attribute": "another name for the Book of Uí Maine"
+    },
+    {
+      "entity": "Book of Hy Many",
+      "attribute": "long held by the O'Kelly family"
+    }
+  ],
+  "okr": {
+    "objective": "Route the title Book of Hy Many to its proper entry.",
+    "key_results": [
+      "The name means the Book of Uí Maine.",
+      "Its Irish title is Leabhar Uí Maine.",
+      "The O'Kelly family long held the codex."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Book of Hy Many'."
+  },
+  "sources": [
+    "MacKillop 2008, s.v. 'Book of Hy Many'."
+  ]
+}

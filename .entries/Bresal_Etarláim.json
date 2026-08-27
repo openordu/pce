@@ -1,0 +1,52 @@
+{
+  "name": "Bresal Etarláim",
+  "attributes": [
+    {
+      "entity": "Bresal Etarláim",
+      "attribute": "a druid of the Irish tales"
+    },
+    {
+      "entity": "Fuamnach",
+      "attribute": "the one who received spells to banish Etain from Midir"
+    }
+  ],
+  "entities": [
+    {
+      "entity": "Bresal Etarláim",
+      "type": "Person"
+    },
+    {
+      "entity": "Fuamnach",
+      "type": "Person"
+    },
+    {
+      "entity": "Etain",
+      "type": "Person"
+    },
+    {
+      "entity": "Midir",
+      "type": "Person"
+    },
+    {
+      "entity": "Tochmarc Etaíne",
+      "type": "Literary work"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Bresal Etarláim'."
+  ],
+  "text": "Bresal Etarláim was a druid of the Irish tales. He handed Fuamnach the spells she needed to cast Etain out of Midir. This deed appears in Tochmarc Etaíne, the Wooing of Etain. In one telling he stands as Fuamnach's foster-father, while in another he is her lover. For that bond Midir takes Fuamnach's life.",
+  "okr": {
+    "objective": "Tell the role of the druid Bresal Etarláim in the Wooing of Etain.",
+    "key_results": [
+      "He gave Fuamnach the spells to drive Etain from Midir.",
+      "The deed sits in the tale Tochmarc Etaíne.",
+      "He appears as foster-father in one version and lover in another.",
+      "For that tie Midir kills Fuamnach."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Bresal Etarláim'."
+  },
+  "image": [],
+  "cyphertext": "",
+  "salt": ""
+}

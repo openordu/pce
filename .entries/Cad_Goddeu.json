@@ -1,0 +1,67 @@
+{
+  "name": "Cad Goddeu",
+  "text": "Cad Goddeu is a short and obscure Welsh poem of great antiquity. The verse survives in the Book of Taliesin, a thirteenth-century manuscript. English readers call it The Battle of the Trees, and some know it as The Army of the Trees. It tells of a war between Arawn, king of Annwfn, and Amaethon the ploughman. Their conflict sprang from Amaethon grabbing a white roebuck. He also took a young whelp and a lapwing. The magician Gwydion stands at the poem's core. He wields a staff of enchantment to change trees into fighting men. Experts still cannot explain the poem's full purpose. Robert Graves rearranged the text to support his thesis. That reasoning appears in The White Goddess of 1948. Learned commentators scorn his views on Welsh verse.",
+  "entities": [
+    {
+      "entity": "Book of Taliesin",
+      "type": "Text"
+    },
+    {
+      "entity": "Arawn",
+      "type": "Person"
+    },
+    {
+      "entity": "Annwfn",
+      "type": "Place"
+    },
+    {
+      "entity": "Amaethon",
+      "type": "Person"
+    },
+    {
+      "entity": "Gwydion",
+      "type": "Person"
+    },
+    {
+      "entity": "The White Goddess",
+      "type": "Text"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Cad Goddeu",
+      "attribute": "preserved in the Book of Taliesin"
+    },
+    {
+      "entity": "Cad Goddeu",
+      "attribute": "known in English as The Battle of the Trees"
+    },
+    {
+      "entity": "Gwydion",
+      "attribute": "uses a staff of enchantment"
+    },
+    {
+      "entity": "Arawn",
+      "attribute": "king of Annwfn"
+    },
+    {
+      "entity": "Amaethon",
+      "attribute": "stole a roebuck, a whelp, and a lapwing"
+    }
+  ],
+  "okr": {
+    "objective": "Present an accurate account of Cad Goddeu as an ancient Welsh poem.",
+    "key_results": [
+      "state the poem survives in the Book of Taliesin",
+      "identify the war between Arawn and Amaethon",
+      "note Gwydion's magic and the Graves thesis"
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Cad Goddeu'."
+  },
+  "sources": [
+    "MacKillop 2008, s.v. 'Cad Goddeu'."
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": ""
+}

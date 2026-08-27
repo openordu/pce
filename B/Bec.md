@@ -2,64 +2,61 @@
 layout: layouts/pce.njk
 title: Bec
 icon: file-lines
-order: 215
+order: 226
 contributors: [ 'Christopher Godwin' ]
 attributes:
-  - Bec Meaning: small
-  - Bec mac Buain Father of maiden guardians of a magical Well
-  - Fionn Mac Cumhaill Gained wisdom from the Well
-  - maiden guardians Guardians of the magical Well
-  - Well Magical
-  - Bec mac Dé Diviner who could answer nine questions simultaneously with one answer
+  - Bec a name meaning small, borne by several Irish heroes and a female warrior from Connacht
+  - Bec mac Buain keeper of a well of wisdom in County Limerick whose three daughters guarded it
+  - Fionn Mac Cumhaill gained wisdom when water spilled into his mouth at the well
+  - Bec mac De the best seer of his time, answering nine men at once, who prophesied Diarmait mac Cerbaill's death
+  - Diarmait mac Cerbaill prophesied to die in the house of Banban the hospitaller
 categories:
-  - Hero
-  - Occupation
-  - Magical Object
-  - Nationality
-  - Name
+  - Person
+  - Place
 entities:
-  - Bec(Name)
-  - Irish(Nationality)
-  - Fionn Mac Cumhaill(Hero)
-  - Buain(Name)
-  - maiden guardians(Occupation)
-  - Well(Magical Object)
-  - Bec mac Dé(Name)
-  - diviner(Occupation)
+  - Bec(Person)
+  - Bec mac Buain(Person)
+  - Bec mac De(Person)
+  - Fionn Mac Cumhaill(Person)
+  - Diarmait mac Cerbaill(Person)
+  - Connacht(Place)
+  - Well(Place)
 tags:
   - Bec
-  - Irish
+  - Bec mac Buain
+  - Bec mac De
   - Fionn Mac Cumhaill
-  - Buain
-  - maiden guardians
+  - Diarmait mac Cerbaill
+  - Connacht
   - Well
-  - Bec mac Dé
-  - diviner
 ---
 ``` tab [group1:Info]
 ::: magazinestyle
-Bec, a name meaning "small," is attributed to a number of figures in Irish mythology who are considered heroes. Bec mac Buain, for example, was the father of the maidens who protected a Well of magical significance, and it was when one of these guardians mistakenly spilled some water from the Well into Fionn Mac Cumhaill's mouth that the hero gained wisdom. Bec mac Dé, on the other hand, was renowned for his divinatory abilities; he was able to deliver a single answer that simultaneously addressed nine different questions.
+Bec, a name also spelled Beag or Becc, carries the sense of small, and it is borne by several figures scattered through early Irish literature. Most of those who bear it are men of modest note, but at least one was a woman, a warrior said to come from the province of Connacht. The headword thus attaches to a handful of minor characters rather than to any single celebrated champion.
+
+One of the better known of them was Bec mac Buain, who is recalled as the guardian appointed over a spring of deep insight in Co. Limerick at a site MacKillop calls Cahemarry. In the tale Feis Tighe Chonain [The Feast at Conan's House], his three daughters watch over what the waters contain. When Fionn Mac Cumhaill comes there with two companions in search of water, one of the daughters lets a drop into Fionn's mouth, and by that chance swallow he gains the deep wisdom the waters hold. So close is this scene to a famous northern episode that the scholar E. O. Turville-Petre once likened it to Odin's drawing of inspiration from the mead of Kvasir in Norse tradition.
+
+A second figure, Bec mac De, earns the praise of being the best seer of his own day. He could speak to nine persons at once and settle the questions of all of them with a single reply. MacKillop likewise passes on how he foretold that Diarmait mac Cerbaill would meet his end inside the house of Banban the hospitaller.
 
 :::
 ```
 ``` tab [group1:Attributes]
-- **Bec**: Meaning: small
-- **Bec mac Buain**: Father of maiden guardians of a magical Well
-- **Fionn Mac Cumhaill**: Gained wisdom from the Well
-- **maiden guardians**: Guardians of the magical Well
-- **Well**: Magical
-- **Bec mac Dé**: Diviner who could answer nine questions simultaneously with one answer
+- **Bec**: a name meaning small, borne by several Irish heroes and a female warrior from Connacht
+- **Bec mac Buain**: keeper of a well of wisdom in County Limerick whose three daughters guarded it
+- **Fionn Mac Cumhaill**: gained wisdom when water spilled into his mouth at the well
+- **Bec mac De**: the best seer of his time, answering nine men at once, who prophesied Diarmait mac Cerbaill's death
+- **Diarmait mac Cerbaill**: prophesied to die in the house of Banban the hospitaller
 ```
 ``` tab [group1:Entities]
-- **Bec**: Name
-- **Irish**: Nationality
-- **Fionn Mac Cumhaill**: Hero
-- **Buain**: Name
-- **maiden guardians**: Occupation
-- **Well**: Magical Object
-- **Bec mac Dé**: Name
-- **diviner**: Occupation
+- **Bec**: Person
+- **Bec mac Buain**: Person
+- **Bec mac De**: Person
+- **Fionn Mac Cumhaill**: Person
+- **Diarmait mac Cerbaill**: Person
+- **Connacht**: Place
+- **Well**: Place
 ```
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
+- MacKillop 2008, s.v. Bec.
 ```

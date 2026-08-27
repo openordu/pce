@@ -1,0 +1,55 @@
+{
+  "name": "Borach",
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "text": "Borach is a man who appears in the legend of Deirdre and her lover Noise. The medieval Gaelic tale Longes mac nUislenn never gives him a name. At Conchobar's request he arranges a large banquet that keeps Fergus away from his duty for a while. Fergus had pledged himself as a surety that the couple would come back safely to Emain Macha. The feast held him firm there, so Fergus could not reach them in time and Noise met his death. Later narrators fill out this figure with far more detail. James Stephens in his 1923 book Deirdre describes him as a shark hunter.",
+  "entities": [
+    {
+      "entity": "Borach",
+      "type": "Character"
+    },
+    {
+      "entity": "Deirdre",
+      "type": "Person"
+    },
+    {
+      "entity": "Noise",
+      "type": "Person"
+    },
+    {
+      "entity": "Fergus",
+      "type": "Person"
+    },
+    {
+      "entity": "Emain Macha",
+      "type": "Place"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Borach",
+      "attribute": "a character in the Deirdre legend not named in the medieval text Longes mac nUislenn"
+    },
+    {
+      "entity": "Borach",
+      "attribute": "prepares a feast that detains Fergus, the surety for Deirdre and Noise"
+    },
+    {
+      "entity": "Borach",
+      "attribute": "made by James Stephens into a shark hunter in his 1923 Deirdre"
+    }
+  ],
+  "okr": {
+    "objective": "Describe the figure Borach and his role in the Deirdre legend.",
+    "key_results": [
+      "Borach appears in the Deirdre story but is absent from Longes mac nUislenn.",
+      "He detains Fergus with a banquet, breaking the surety for a safe return to Emain Macha.",
+      "Later retellers give him a shark-hunting occupation."
+    ],
+    "evidence": "MacKillop 2008, s.v. Borach."
+  },
+  "sources": [
+    "MacKillop 2008, s.v. Borach."
+  ]
+}

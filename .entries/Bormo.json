@@ -1,0 +1,43 @@
+{
+  "name": "Bormo",
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "text": "Bormo is yet another alternate name for the god Borvo. The two labels describe one and the same deity, so no separate being hides behind the shorter word. The old tales use Bormo as a second title for that god of the healing. He was seen in Gaul as the master of the warm springs.",
+  "entities": [
+    {
+      "entity": "Bormo",
+      "type": "Deity"
+    },
+    {
+      "entity": "Borvo",
+      "type": "Deity"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Bormo",
+      "attribute": "an alternate name for the god Borvo"
+    },
+    {
+      "entity": "Bormo",
+      "attribute": "denotes the same deity as Borvo"
+    },
+    {
+      "entity": "Borvo",
+      "attribute": "the god also called Bormo"
+    }
+  ],
+  "okr": {
+    "objective": "Explain that Bormo is an alternate name for Borvo.",
+    "key_results": [
+      "Bormo is an alternate name for Borvo.",
+      "Bormo denotes the same deity as Borvo.",
+      "The name does not signal a separate being."
+    ],
+    "evidence": "MacKillop 2008, s.v. Bormo."
+  },
+  "sources": [
+    "MacKillop 2008, s.v. Bormo."
+  ]
+}

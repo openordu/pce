@@ -1,0 +1,39 @@
+{
+  "name": "Book of Carmarthen",
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "text": "The title Book of Carmarthen points to another work. It directs the reader to the Black Book of Carmarthen. That codex holds some of the oldest Welsh manuscripts that survive. Its Welsh name is Llyfr Du Caerfyrddin. The book preserves early poetry, including verses of Myrddin. See the entry Black Book of Carmarthen for the full account.",
+  "entities": [
+    {
+      "entity": "Book of Carmarthen",
+      "type": "Literary work"
+    },
+    {
+      "entity": "Black Book of Carmarthen",
+      "type": "Literary work"
+    },
+    {
+      "entity": "Myrddin",
+      "type": "Person"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Book of Carmarthen",
+      "attribute": "a cross-reference to the Black Book of Carmarthen"
+    }
+  ],
+  "okr": {
+    "objective": "Route the title Book of Carmarthen to its proper entry.",
+    "key_results": [
+      "The name points to the Black Book of Carmarthen.",
+      "Its Welsh name is Llyfr Du Caerfyrddin.",
+      "The codex preserves early Welsh poetry."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Book of Carmarthen'."
+  },
+  "sources": [
+    "MacKillop 2008, s.v. 'Book of Carmarthen'."
+  ]
+}

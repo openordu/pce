@@ -1,51 +1,52 @@
 {
-    "name": "Brega",
-    "attributes": [
-        {
-            "entity": "Brega",
-            "attribute": "an Irish mythological site"
-        },
-        {
-            "entity": "Brega",
-            "attribute": "a great central plain"
-        },
-        {
-            "entity": "Brega",
-            "attribute": "the rich region now in Co. Meath and parts of Co. Westmeath"
-        }
-    ],
-    "entities": [
-        {
-            "entity": "Brega",
-            "type": "Place"
-        },
-        {
-            "entity": "Bregia",
-            "type": "Place"
-        },
-        {
-            "entity": "Meath",
-            "type": "Place"
-        },
-        {
-            "entity": "Westmeath",
-            "type": "Place"
-        }
-    ],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "cyphertext": "TT7EKb-VOGKDp57CTpbAMURDIHLFGbCDswcDq3Rcpni4bncmPq-Pq99oewuVRUkzmn5TcHvlX704Z8u3yhEMvvP3dkS9PXm-ZdiQzrwTRd7Ri6P2kENdq8NFXlNe7TxXEHgpBoB9tUm7-CBSvIwixGLJ8YE_C4TmQvtCo27h_wA7pqnZx-RdlTYWhX0ghT58TP-UdLwJjHMIVpVbE4_bcHPzy22AqcsxZQuZO6FbNREYiOrjePcpzfK1DlqviifK9VZUVmCYhVinMdtaKga2LR5pejYEhPO2aBF8VNsDP1HctIA=",
-    "salt": "5NTP3VWgIocNxT3w0SKgYA==",
-    "text": "Brega is an Irish mythological site. The name also appears as Bregia. This great central plain appears in several ancient texts. It is believed to be the rich farming region that today is County Meath and parts of County Westmeath.",
-    "okr": {
-        "objective": "Describe Brega, the Irish mythological central plain.",
-        "key_results": [
-            "Brega was an Irish mythological site.",
-            "The name also appears as Bregia.",
-            "It was a great central plain in ancient texts.",
-            "It is now Co. Meath and parts of Co. Westmeath."
-        ],
-        "evidence": "Monaghan 2008, s.v. 'Brega'."
+  "attributes": [
+    {
+      "entity": "Brega",
+      "attribute": "an Irish mythological site"
+    },
+    {
+      "entity": "Brega",
+      "attribute": "the plain between the Boyne and the Liffey"
+    },
+    {
+      "entity": "Brega",
+      "attribute": "a district of the eastern part of Ireland"
     }
+  ],
+  "entities": [
+    {
+      "entity": "Brega",
+      "type": "Place"
+    },
+    {
+      "entity": "Bregia",
+      "type": "Place"
+    },
+    {
+      "entity": "Boyne",
+      "type": "Place"
+    },
+    {
+      "entity": "Breogan",
+      "type": "Person"
+    }
+  ],
+  "sources": [
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.",
+    "MacKillop 2008, s.v. 'Brega'."
+  ],
+  "text": "Brega is a plain in the east of Ireland. It lies between the river Boyne and the river Liffey. The area covered the eastern part of County Meath and part of north Dublin. The site of Tara rose within this region. The plain took its name from a son of the hero Breogan. Its later kings claimed a line from the old stock of Mide. The plain joined a new Mide at the close of the age. Scholars often write the latin name Bregia for this district.",
+  "okr": {
+    "objective": "Describe the plain of Brega in eastern Ireland.",
+    "key_results": [
+      "Brega is a plain between the Boyne and the Liffey.",
+      "The area covered the east of County Meath and north Dublin.",
+      "The hero Breogan gave the plain its name.",
+      "Writers often use the latin form Bregia."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Brega'."
+  },
+  "name": "Brega",
+  "cyphertext": "TT7EKb-VOGKDp57CTpbAMURDIHLFGbCDswcDq3Rcpni4bncmPq-Pq99oewuVRUkzmn5TcHvlX704Z8u3yhEMvvP3dkS9PXm-ZdiQzrwTRd7Ri6P2kENdq8NFXlNe7TxXEHgpBoB9tUm7-CBSvIwixGLJ8YE_C4TmQvtCo27h_wA7pqnZx-RdlTYWhX0ghT58TP-UdLwJjHMIVpVbE4_bcHPzy22AqcsxZQuZO6FbNREYiOrjePcpzfK1DlqviifK9VZUVmCYhVinMdtaKga2LR5pejYEhPO2aBF8VNsDP1HctIA=",
+  "salt": "5NTP3VWgIocNxT3w0SKgYA=="
 }

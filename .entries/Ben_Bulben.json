@@ -1,23 +1,11 @@
 {
   "name": "Ben Bulben",
-  "attributes": [
-    {
-      "entity": "Ben Bulben",
-      "attribute": "Irish mythological peak on the coast above Sligo"
-    },
-    {
-      "entity": "Diarmait Ua Duibne",
-      "attribute": "died at Ben Bulben from the wound of a magical boar"
-    },
-    {
-      "entity": "Fionn Mac Cumhaill",
-      "attribute": "a healer who could have saved Diarmait but chose to taunt him"
-    },
-    {
-      "entity": "Ben Bulben",
-      "attribute": "shadows the grave of William Butler Yeats"
-    }
+  "image": [
+    "https://upload.wikimedia.org/wikipedia/commons/a/ab/Benbulbenmount.jpg"
   ],
+  "cyphertext": "BJwtULJBSNEU3FmDTrbJvsI1VOra5DaMZ4H2dpoxihQVz5DKzLZq70GvKgFqXRcZaM6b0T-Id8X678j5Q_iDlL-h1E2ZkGGzSptyAGPGeJgzXFb2_MPzzAo5gikdDMFYOB-3OHJbEtT3DK1DhDDkZfjWHjRnR6ELxwBHLWqY3a0SOX2rIRJYeeIjtQKzdeVLufIevwMxrHExpn1WQ_rk_fXPuP4uMe1MVJQxfCKhbCl_F-BSwacRxdsZfF2j_Z-B3ThmhH-v88uqa1OVdDMLIwA0AJaPiS3-EpII19J4kJC7E_1vIyXwbqCk9sQRlUfUoCd7iJq_9VrzqS3GL7Ttbu7EerdCtU-gal9YlfLJOGJt5ZqPhSwuaWlHfZZOuiVoQRoYTA8W6d24qIzTKmt92Pw1-8L3KTKRw68UsHslckWV64HVh4S3FwG7BfRViLmULA1twonko0BzUsP_7kw6Wbcve0i0-8SuPkkSQnAsxC4JImXoXV-T9_1GOKl3E-oKeBhX5Bs43SAtkwkthh_gbhLYw1SRyYKk2XbOA8LWk0XktDz0YlCIehZkdBwoF1cwqXRra_CkjlxuIbIXp7VD6BrcRclgjudKiTL0nAcF3X0KfGxjQ4dJsr7zqA70zOjZEtkriD8-mwcJhRgHCWsrtRFVVdA8UD9b-vGQVDvlY7f00Q9QU2CN7uzQ4eETXfT43ZmPMPCTRWvwxB_LljAD4WtToUkplgSjwCHq1-MwepJmVYLIYC_LXtr7w25BPD-ild3eQojbP0CiqTILlH0ET5VS-kxNfh9N_7bubbsE2F6SsFt_kXcqZaouvhC05QQ6gX8OUuemuKzbSTAGxLEjp_Hpvz5AwlUhdJymEt2jwx6_jPun4wDXffPcS8PQrho_bPEF1buwRLGgdVSpifqvfKjUy_8b5sSUx-6eMwlA7oMF-UGOfzq2OSEc6nfa35KXBT4NazWZKRkezqPQuTMc1_5UylhqTcfwtZ6ppcoP3Gikm1cm_dnePBHPHerCwq7m0gZahiRSrXtIY_sHrineyQtb4-utMwkJ1Qeo0IAvALcmGOzNYkJAPSTh3BB_x056uCyZ2oQ1fuefxcfXQHYSUga2rSLAthnei0cz-yKEQWtyBK0C5HsCsOoNIbbjJWsZRr1D7agZCJqRHuf1UYOX0vMLoPYW_NXRODx02z_cA7FZGqhbJ7s00atu9CFIMDux5b-AJZy6wlZDUABsxvA-VuVhuMKFn5xOCpuGpDiBn0vk492K5KTpx6aG7_s=",
+  "salt": "lema6lcB8GoZaQ1j24XOoA==",
+  "text": "Ben Bulben is a tall ridge in County Sligo. It rises along the coast not far from Sligo town, beside the village of Drumcliff. Its summit stands more than seventeen hundred feet above the sea. The mountain takes its title from Conall Gulban. His father was Niall of the Nine Hostages, and the boy was fostered in this district. The great boar hunt carries the title The Pursuit of Diarmait and Grainne. In many versions the hero Diarmait Ua Duibne met his death on this slope. A boar had carried him upon its back, and once Diarmait grazed a poisonous bristle that pierced his flesh. Fionn Mac Cumhaill was a healer and could have saved him. He chose to taunt the dying man instead. Grainne was Fionn's intended wife. She loved the younger Diarmait for years. That love wore Fionn down as he hunted the pair across Ireland. It is also the place where the Fenian Cycle figure Oisin was found as an infant. At the foot of the hill sit the remains of the earliest stronghold raised by the O'Conors of Sligo. William Butler Yeats refers to Ben Bulben repeatedly in his poems, and the peak now shadows his grave.",
   "entities": [
     {
       "entity": "Ben Bulben",
@@ -42,25 +30,75 @@
     {
       "entity": "Sligo",
       "type": "Place"
+    },
+    {
+      "entity": "Drumcliff",
+      "type": "Place"
+    },
+    {
+      "entity": "Conall Gulban",
+      "type": "Person"
+    },
+    {
+      "entity": "Oisin",
+      "type": "Person"
+    },
+    {
+      "entity": "Fenian Cycle",
+      "type": "Work of literature"
+    },
+    {
+      "entity": "The Pursuit of Diarmait and Grainne",
+      "type": "Work of literature"
     }
   ],
-  "sources": [
-    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+  "attributes": [
+    {
+      "entity": "Ben Bulben",
+      "attribute": "is a peak more than seventeen hundred feet high in County Sligo"
+    },
+    {
+      "entity": "Ben Bulben",
+      "attribute": "stands beside the village of Drumcliff, not far from Sligo town"
+    },
+    {
+      "entity": "Ben Bulben",
+      "attribute": "takes its name from Conall Gulban, a son of Niall of the Nine Hostages who was fostered there"
+    },
+    {
+      "entity": "Diarmait Ua Duibne",
+      "attribute": "died at Ben Bulben from the wound of a magical boar"
+    },
+    {
+      "entity": "Fionn Mac Cumhaill",
+      "attribute": "was a healer who could have saved Diarmait but chose to taunt him"
+    },
+    {
+      "entity": "Oisin",
+      "attribute": "was found as an infant on Ben Bulben, a figure of the Fenian Cycle"
+    },
+    {
+      "entity": "O'Conors of Sligo",
+      "attribute": "raised their first castle at the foot of Ben Bulben"
+    },
+    {
+      "entity": "Ben Bulben",
+      "attribute": "shadows the grave of William Butler Yeats"
+    }
   ],
-  "image": [
-    "https://upload.wikimedia.org/wikipedia/commons/a/ab/Benbulbenmount.jpg"
-  ],
-  "cyphertext": "BJwtULJBSNEU3FmDTrbJvsI1VOra5DaMZ4H2dpoxihQVz5DKzLZq70GvKgFqXRcZaM6b0T-Id8X678j5Q_iDlL-h1E2ZkGGzSptyAGPGeJgzXFb2_MPzzAo5gikdDMFYOB-3OHJbEtT3DK1DhDDkZfjWHjRnR6ELxwBHLWqY3a0SOX2rIRJYeeIjtQKzdeVLufIevwMxrHExpn1WQ_rk_fXPuP4uMe1MVJQxfCKhbCl_F-BSwacRxdsZfF2j_Z-B3ThmhH-v88uqa1OVdDMLIwA0AJaPiS3-EpII19J4kJC7E_1vIyXwbqCk9sQRlUfUoCd7iJq_9VrzqS3GL7Ttbu7EerdCtU-gal9YlfLJOGJt5ZqPhSwuaWlHfZZOuiVoQRoYTA8W6d24qIzTKmt92Pw1-8L3KTKRw68UsHslckWV64HVh4S3FwG7BfRViLmULA1twonko0BzUsP_7kw6Wbcve0i0-8SuPkkSQnAsxC4JImXoXV-T9_1GOKl3E-oKeBhX5Bs43SAtkwkthh_gbhLYw1SRyYKk2XbOA8LWk0XktDz0YlCIehZkdBwoF1cwqXRra_CkjlxuIbIXp7VD6BrcRclgjudKiTL0nAcF3X0KfGxjQ4dJsr7zqA70zOjZEtkriD8-mwcJhRgHCWsrtRFVVdA8UD9b-vGQVDvlY7f00Q9QU2CN7uzQ4eETXfT43ZmPMPCTRWvwxB_LljAD4WtToUkplgSjwCHq1-MwepJmVYLIYC_LXtr7w25BPD-ild3eQojbP0CiqTILlH0ET5VS-kxNfh9N_7bubbsE2F6SsFt_kXcqZaouvhC05QQ6gX8OUuemuKzbSTAGxLEjp_Hpvz5AwlUhdJymEt2jwx6_jPun4wDXffPcS8PQrho_bPEF1buwRLGgdVSpifqvfKjUy_8b5sSUx-6eMwlA7oMF-UGOfzq2OSEc6nfa35KXBT4NazWZKRkezqPQuTMc1_5UylhqTcfwtZ6ppcoP3Gikm1cm_dnePBHPHerCwq7m0gZahiRSrXtIY_sHrineyQtb4-utMwkJ1Qeo0IAvALcmGOzNYkJAPSTh3BB_x056uCyZ2oQ1fuefxcfXQHYSUga2rSLAthnei0cz-yKEQWtyBK0C5HsCsOoNIbbjJWsZRr1D7agZCJqRHuf1UYOX0vMLoPYW_NXRODx02z_cA7FZGqhbJ7s00atu9CFIMDux5b-AJZy6wlZDUABsxvA-VuVhuMKFn5xOCpuGpDiBn0vk492K5KTpx6aG7_s=",
-  "salt": "lema6lcB8GoZaQ1j24XOoA==",
-  "text": "Ben Bulben is an Irish mythological site. The peak rises on the coast above the town of Sligo. A mound of stone sits near its summit. The hero Diarmait Ua Duibne died beside it. A magical boar had carried the hero on its back. Diarmait killed the beast. He then brushed against its body and pierced himself on a poisonous bristle. Fionn Mac Cumhaill was a healer and could have saved him. He chose to taunt the dying man instead. Grainne, Fionn's intended wife, had loved the younger Diarmait for years. That love drained Fionn as he chased the pair across Ireland. The peak now shadows the grave of William Butler Yeats.",
   "okr": {
-    "objective": "Ben Bulben is the Sligo peak where the hero Diarmait Ua Duibne died, now tied to the poet Yeats.",
+    "objective": "Ben Bulben is the tall Sligo peak tied to Conall Gulban, Diarmait's death in the boar hunt, Oisin's discovery, and the poet Yeats.",
     "key_results": [
-      "Ben Bulben is a peak above Sligo in the west of Ireland",
-      "Diarmait Ua Duibne died there from the wound of a magical boar",
-      "Fionn Mac Cumhaill could heal him but chose to taunt him",
-      "The peak now shadows the grave of William Butler Yeats"
+      "Ben Bulben sits beside Drumcliff village in County Sligo, its summit over seventeen hundred feet high",
+      "The mountain takes its name from Conall Gulban, son of Niall of the Nine Hostages, fostered there",
+      "Diarmait Ua Duibne died on the slope during the wild boar hunt of The Pursuit of Diarmait and Grainne",
+      "The infant Oisin of the Fenian Cycle was found on Ben Bulben",
+      "The O'Conors of Sligo built their first castle at its foot, and Yeats names the peak in his verse"
     ],
-    "evidence": "Monaghan 2008, s.v. 'Ben Bulben'."
-  }
+    "evidence": "MacKillop 2008, s.v. Ben Bulben; Monaghan 2008, s.v. 'Ben Bulben'."
+  },
+  "sources": [
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.",
+    "MacKillop 2008, s.v. Ben Bulben."
+  ]
 }

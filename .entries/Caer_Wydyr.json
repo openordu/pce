@@ -3,48 +3,57 @@
   "attributes": [
     {
       "entity": "Caer Wydyr",
-      "attribute": "also called the glass fortress"
+      "attribute": "Welsh name meaning the fortress of glass"
     },
     {
       "entity": "Caer Wydyr",
-      "attribute": "another name for Annwn"
+      "attribute": "one of the names for Annwfn"
     },
     {
-      "entity": "Annwn",
-      "attribute": "the mythic and magical Otherworld"
+      "entity": "Annwfn",
+      "attribute": "the Welsh Otherworld"
+    },
+    {
+      "entity": "Ynys Gutrin",
+      "attribute": "identified with the fortress of glass"
+    },
+    {
+      "entity": "Glastonbury",
+      "attribute": "later location tied to Ynys Gutrin"
     }
   ],
   "entities": [
     {
       "entity": "Caer Wydyr",
-      "type": "location"
+      "type": "Place"
     },
     {
-      "entity": "Annwn",
-      "type": "location"
+      "entity": "Annwfn",
+      "type": "Place"
     },
     {
-      "entity": "Otherworld",
-      "type": "concept"
+      "entity": "Ynys Gutrin",
+      "type": "Place"
     },
     {
-      "entity": "Welsh",
-      "type": "concept"
+      "entity": "Glastonbury",
+      "type": "Place"
     }
   ],
   "sources": [
+    "MacKillop 2008, s.v. 'Caer Wydyr'.",
     "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
   ],
-  "cyphertext": "AY691ETocnuC61jhJAoT_UGMTDyWze-DjJpjJyByU0voja9AjqRWSMBTFqln17eC_4TbUUPBXg6uBJLzPKhhOo5J9NXu7SG6W2HY1Mm8EnPdyRRDHlIvsy_bggGILIuVOpnCeFZWiKTcls1_7AIyNzBULsqdZ6p835jNHDlhBwqACbig7oG20UWdGBdMu2lXuOm2uKZSGzkDQIOjcVOC",
-  "salt": "ATXpj4QkoI25nVVqui88DA==",
-  "text": "Caer Wydyr is a Welsh mythological site. The name means the glass fortress. It is another name for Annwn. Annwn is the mythic and magical Otherworld of the Welsh.",
+  "text": "Caer Wydyr is a Welsh name meaning the fortress of glass. Welsh tradition gives this title to Annwfn, the Otherworld. The glass fortress stood as one label for that hidden realm. Welsh writers also tied the glass image to the island Ynys Gutrin. This island was later set at Glastonbury in Somerset. So Caer Wydyr joins the glass fort to both Annwfn and that island.",
   "okr": {
-    "objective": "Caer Wydyr is the glass fortress of Welsh myth.",
+    "objective": "Show Caer Wydyr as a Welsh name for Annwfn bound to the fortress of glass and Glastonbury.",
     "key_results": [
-      "The name Caer Wydyr means the glass fortress.",
-      "It is another name for Annwn.",
-      "Annwn is the mythic and magical Otherworld."
+      "define Caer Wydyr as the fortress of glass",
+      "link Caer Wydyr to Annwfn the Welsh Otherworld",
+      "connect the glass island Ynys Gutrin with Glastonbury"
     ],
-    "evidence": "Monaghan, Encyclopedia of Celtic Mythology and Folklore"
-  }
+    "evidence": "MacKillop 2008, s.v. 'Caer Wydyr'."
+  },
+  "cyphertext": "AY691ETocnuC61jhJAoT_UGMTDyWze-DjJpjJyByU0voja9AjqRWSMBTFqln17eC_4TbUUPBXg6uBJLzPKhhOo5J9NXu7SG6W2HY1Mm8EnPdyRRDHlIvsy_bggGILIuVOpnCeFZWiKTcls1_7AIyNzBULsqdZ6p835jNHDlhBwqACbig7oG20UWdGBdMu2lXuOm2uKZSGzkDQIOjcVOC",
+  "salt": "ATXpj4QkoI25nVVqui88DA=="
 }

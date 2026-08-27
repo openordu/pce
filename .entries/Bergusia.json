@@ -1,0 +1,47 @@
+{
+  "name": "Bergusia",
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "text": "Bergusia was the female consort of the Gaulish hammer-deity Ucuetis. Worshippers rendered homage to this pair at Alesia in eastern France, land of Burgundy. She may have served as a patron of the crafts. An underground chamber excavated next to their shrine seems to have held a crafts guild. That discovery ties her to the artisans who worked beside the temple.",
+  "entities": [
+    {
+      "entity": "Bergusia",
+      "type": "Deity"
+    },
+    {
+      "entity": "Ucuetis",
+      "type": "Deity"
+    },
+    {
+      "entity": "Alesia",
+      "type": "Place"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Bergusia",
+      "attribute": "female consort of the Gaulish hammer-deity Ucuetis"
+    },
+    {
+      "entity": "Bergusia",
+      "attribute": "venerated with Ucuetis at Alesia"
+    },
+    {
+      "entity": "Bergusia",
+      "attribute": "possible patron of crafts"
+    }
+  ],
+  "okr": {
+    "objective": "Describe Bergusia as the female consort of the Gaulish hammer-god Ucuetis venerated at Alesia.",
+    "key_results": [
+      "Bergusia is the female consort of Ucuetis.",
+      "The pair were venerated at Alesia in Burgundy, eastern France.",
+      "An excavated chamber near their shrine hints at a crafts guild and a patron of crafts."
+    ],
+    "evidence": "MacKillop 2008, s.v. Bergusia."
+  },
+  "sources": [
+    "MacKillop 2008, s.v. Bergusia."
+  ]
+}

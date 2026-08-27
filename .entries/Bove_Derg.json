@@ -1,0 +1,39 @@
+{
+  "name": "Bove Derg",
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "text": "Bove Derg, also written Bove the Red, is a variant form of a well-known god's name. It points to the deity Bodb Derg. Many old tales honour him as a leading figure of the Tuatha Dé Danann people. The fuller account of him sits under the name Bodb Derg, where his deeds are told. A reader who meets Bove Derg should pass on to that god's own entry.",
+  "entities": [
+    {
+      "entity": "Bove Derg",
+      "type": "Person"
+    },
+    {
+      "entity": "Bodb Derg",
+      "type": "Deity"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Bove Derg",
+      "attribute": "a variant spelling pointing to the god Bodb Derg"
+    },
+    {
+      "entity": "Bodb Derg",
+      "attribute": "the god whose fuller account is filed under his own name"
+    }
+  ],
+  "okr": {
+    "objective": "Show that Bove Derg names the god Bodb Derg.",
+    "key_results": [
+      "Bove Derg is a variant form of the name Bodb Derg.",
+      "The name also appears as Bove the Red.",
+      "The reader is sent to Bodb Derg's own entry for the fuller story."
+    ],
+    "evidence": "MacKillop 2008, s.v. Bove Derg."
+  },
+  "sources": [
+    "MacKillop 2008, s.v. Bove Derg."
+  ]
+}

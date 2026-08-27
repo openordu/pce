@@ -1,0 +1,63 @@
+{
+  "name": "Brigantes",
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "text": "The Brigantes were a powerful confederacy of Brythonic Celtic tribes. They centred on the north of Britain during Roman times. Their chief goddess was Brigantia. Under the rule of Claudius their queen was Cartimandua. Some Brigantes later moved to south county Wexford in Ireland.",
+  "entities": [
+    {
+      "entity": "Brigantes",
+      "type": "Group"
+    },
+    {
+      "entity": "Brigantia",
+      "type": "Deity"
+    },
+    {
+      "entity": "Cartimandua",
+      "type": "Person"
+    },
+    {
+      "entity": "Claudius",
+      "type": "Person"
+    },
+    {
+      "entity": "Wexford",
+      "type": "Place"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Brigantes",
+      "attribute": "a powerful confederacy of Brythonic Celtic tribes"
+    },
+    {
+      "entity": "Brigantes",
+      "attribute": "centred in the north of Britain in Roman times"
+    },
+    {
+      "entity": "Brigantia",
+      "attribute": "the most important goddess of the Brigantes"
+    },
+    {
+      "entity": "Cartimandua",
+      "attribute": "queen of the Brigantes"
+    },
+    {
+      "entity": "Wexford",
+      "attribute": "an offshoot of the Brigantes settled there"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. Brigantes."
+  ],
+  "okr": {
+    "objective": "Recount the Brigantes, a major tribal confederacy of the north.",
+    "key_results": [
+      "The Brigantes were a powerful Brythonic confederacy of the north.",
+      "Their goddess Brigantia held chief honour.",
+      "An offshoot settled in county Wexford, Ireland."
+    ],
+    "evidence": "MacKillop 2008, s.v. Brigantes."
+  }
+}

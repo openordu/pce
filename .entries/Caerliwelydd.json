@@ -1,0 +1,51 @@
+{
+  "name": "Caerliwelydd",
+  "text": "Caerliwelydd is the Welsh name for the English city of Carlisle. The dictionary here forms the entry headword and directs the reader toward the related form Caer Luel. Carlisle stands in the far northwest of England, close to the Scottish border, guarding the frontier since Roman times. In the Welsh tradition both Caerliwelydd and Caer Luel name this same settlement on the border. The two spellings therefore echo one another across the old texts. A caer in the Welsh tongue means a fort or enclosed stronghold, and Carlisle itself began as a Roman station. Writers of the Middle Ages carried the Welsh name for Carlisle into their tales of the North.",
+  "entities": [
+    {
+      "entity": "Caerliwelydd",
+      "type": "Place"
+    },
+    {
+      "entity": "Carlisle",
+      "type": "Place"
+    },
+    {
+      "entity": "Caer Luel",
+      "type": "Place"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Caerliwelydd",
+      "attribute": "is the Welsh name for Carlisle"
+    },
+    {
+      "entity": "Caerliwelydd",
+      "attribute": "is linked to the related headword Caer Luel"
+    },
+    {
+      "entity": "Carlisle",
+      "attribute": "stands near the English border with Scotland"
+    },
+    {
+      "entity": "Caer Luel",
+      "attribute": "carries the same sense as Caerliwelydd"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Caerliwelydd'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Records Caerliwelydd as the Welsh name for Carlisle with a cross-reference to the related headword Caer Luel.",
+    "key_results": [
+      "Names Carlisle as the English city meant by this form",
+      "Points the reader to the parallel headword Caer Luel",
+      "Notes that both spellings name the same border settlement"
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Caerliwelydd'"
+  }
+}

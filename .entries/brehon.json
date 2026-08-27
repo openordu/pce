@@ -1,71 +1,48 @@
 {
-    "name": "brehon",
-    "attributes": [
-        {
-            "entity": "brehon",
-            "attribute": "Irish judge who belonged to the class of druids"
-        },
-        {
-            "entity": "brehon",
-            "attribute": "from the Irish brithemain meaning judge"
-        },
-        {
-            "entity": "brehon",
-            "attribute": "did not evaluate cases or enforce the law"
-        },
-        {
-            "entity": "Sencha",
-            "attribute": "broke out in blotches for a biased judgment about women"
-        },
-        {
-            "entity": "Morann",
-            "attribute": "wore a chain that tightened on a false judgment"
-        },
-        {
-            "entity": "Brigit",
-            "attribute": "honored woman brehon who healed Sencha's blotched face"
-        }
-    ],
-    "entities": [
-        {
-            "entity": "brehon",
-            "type": "Role"
-        },
-        {
-            "entity": "brithemain",
-            "type": "Concept"
-        },
-        {
-            "entity": "druids",
-            "type": "Group"
-        },
-        {
-            "entity": "Sencha",
-            "type": "Person"
-        },
-        {
-            "entity": "Morann",
-            "type": "Person"
-        },
-        {
-            "entity": "Brigit",
-            "type": "Deity"
-        }
-    ],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "cyphertext": "Owj3yP0aOmOnfuRqIntUyupPbd98fL_vLtAQLev_gb5nyHYUPblMKFP4m-Mtz9csB1IoqpnroGMj7HIDt8_8QKdNiDkcasEkMky_fd1rQbR737_kN9sxjebELmFmPubU9FFufaC4wQAqREUWYTH-2A_4Up0ihZYhc0_xB4S4K__bl8Bho-0dvRV0OIN1ilqhsxnw0_08PxEYAb7Rn-HiqWOTqQ0EOv8Nt-CXLxeQltkwToIK4wTZBoPhhVmRHcon8gl6cdq9J3myiTpUF-knOHmUstjhvvDnjWC0NmELPIHk2e6gLVa8JLJ9LU18-Ofc5Xr_XaVHbJvP99hRIeR6a2fAKNZyDayebMc0vHrq900WQiXATBsnKuYg5zEplQtUM_jQDBOUxyPyBKhdPU0SNupEngMPatki-O_GDxSNiDjANdgtJI1XE40ahk60GkMouB27xOGv-VYz5E9jpfMhfiXOA40sTNYAhG_TcBFo21JfNQ52tQjqSisWOuiyCKyJnSTnw5wW6bmLr0t4F79c4V5xOC5wBu6b0cUaUGQwA3fVu4bIISw7GbPOLFdf1x5-awK9FX6KA2uNxXsM4jq2GPWQXF6fECrRD7Aad6WoYhsgE65pkOf3FXHy9OrIqi558oeFJ5VBgxlFgyNiabvxMgh09gYAr-j03em2z822vHDTixxHDEG5XuWedETu6SnBfswy8vqcilBNemZSSY5ROBaEa_FT_mPkNYPuGzdhq3mlVK-LLRGYkMYoH6Vi-8QDFQV_i7gVAXsPiiOIejrJVv-NIvGLEeCw-6YRONg5opA9MAU51deD4YhYxQp-CUC6ZTFUMPmqSxGqGaO4tP3_IuEIOZKBb8c5LZv2DObsvf6p0a6cFAEi2__K05Z28VPwHIzGBhieBBrrCZEco5dIbnOxQFf6nzmfSUa28LSFzY6Pgy9mF7TA1pM8Nsa6PMIGXI5LEGcGjrT4O2qYHQo3G0rHXYhQ_1UplR1Eqr9TBe8a_8V9FGxb6pB2VhFWyb14L_7ELWg5Zfsc0bRdRsUupldw5xeEEMyyX2Bg-2tyT7G2A2WVPz3ASZx95jvwlySTY3tlkgvVXpMRqn9jjqcq1X5nyr_SRCHBZ6XCOy3DQKGp9QzU-LUYBhxv6hLk1agiEk1tbKspPKeuKhMXOMrd4_jTZkgHodwhLMF-M_U1dx6nSVEsFKzmfJFNWY9QYZ3tx43lZTLkyIOGqNCq02ZGr8xVehrUdwvloZ0eJN1-_r_nhSQ-8p2ixQA36c36MG6zuMKfc4EjJDxAyV9FI2xLlJSSl1y6svVbzoFtjd9Os4-XSzAQrL-hMpulL81-i8laEQuj4ZWMEEB4VZfYPth-ZByjdI6_YQMkeR8uAiTPdOOENVtrNiz1Ts8_0NWOTsXaHLwSB-ocTEeSuFBxVQbRmr_27oVbUmtWVefg-a8HJr-K7qVfdAlQYZHlHTYgRPJuwzs0HnzNsjCasz7k4hTZyGwjSxH_6DkkYyurDTTe_ZLsP-EOK1Jzdp76vDc9dVfWsW-jJjv_kzWqseijUMINZmQuPN8g2GGLFbDkl2tlF9jmb54MZiBMoE91aWKUAex4ttqnirK4bVYIDet2G1DNv8-9KDXdesnCHf8EUP4xvjA3jW4ga7ZF2F5IkGuR-P99W3vTGwFdR8ynbaPLGkx7pNVYOzvVH2na_06hoiRpgzMH55AODFLieGNDxrvcG-vxPc3k9RTlFWCVBpsdvQvGZqzIvzASnP7_UJCKNBTg05JZmxWgwCy7KJVj_besUrZZgOKReRLaxHrVGgPdtpdpPFaaSrz78_OwZAYj0rwW-__TAXftperUVy4KDXxKMaziyJhryldf9olwHmEuhihF1npzEeADr8FjO--jJDJ9ELSx2XjnHWNLf6noBTuohZmd_vmBNBJU8P596Dv-aWlYaxdRErMp6vhB54rI0zMbZ3pTefGFLPGj-ZLd8tOKhP13rU6B7vZ8rnkxEljZ47ujqwB7loYGKu3dAkcggV2Gu-MfapFAQyD-ozZyfbAWjpOso26xOjiC1gPOiNXgPcnDPXES-LX8B12EiZve_tAjCw7QDybYOBPGCnXHQ8Jkwpw7ZVGVnB1q8Y7WoWb8jHXsD_cvcGGTrqwGzXO1pgE15BGwKMzODQOr17jTfstnqDhUpD5yjl34csUKH-atte4SN3sX4wpbyr1h1NWr5xPnnLUgVtwMdU2kuY2wEyvFZwwBo5q4a61l3p2rEJijLRwi0tdUkMGVdBcO9_9bU8wl5zUpvwL1-q98SPwZdcjapN2CCuvcfJOyGyRapOb2fLkDjZC4bRmTvS4wrtrb-0ZjAKRZ9b6xeepsbe2HKNBWBh_FmfdCNH36js_ELSXulErNrD3lhsxB5_pCLiuih3Xn8xVP9ltN66ijyPZKgKfDDS6Pbebnutqyqsf4TL6DOnQz-4dyaBpCGqFmJIXo1fzixs1I10rDHJjwJJFE8-VkKGhlsOqkYCIj2yGNWqF-2dX8QUwGfs6Vex6NiQFbFEfHCAK8P4l8mKUMuM5w_7sfuEdqCudTPNUcLHiccZgRpA1Z2RMuHEe1i6wz9rHxeUkFfyDvS-fgS3PNwWBL_Ow3lbyAUBQR5ur5uBjCSU26bbyr7U2ummcthwA2b6aif-KqOpKaZHbkK_4=",
-    "salt": "2pFi7nTGdmtBlrD7yLgnLg==",
-    "text": "The brehon was an Irish judge. The brehon belonged to the class of druids. The name comes from the Irish brithemain. That word means judge. Ancient brehons did not evaluate cases. They did not enforce the law. Both duties were the king's prerogative. Brehons used precognitive skill. They drew on memorized history and poetry. This memory came from years of training. Spiritual powers bound them to be just. The great judge Sencha broke out in blotches. This happened when he gave a biased judgment about women. Certain brehons wore distinctive clothing and ornaments. Morann wore a chain around his neck. The chain tightened if he spoke a false It grew loose when he spoke a true judgment. Many women brehons gained renown. The great Brigit was an honored woman brehon. She healed Sencha's blotched face. She did so by correcting his bias against women.",
-    "okr": {
-        "objective": "Describe the ancient Irish brehon and the spiritual bond to just judgment.",
-        "key_results": [
-            "The brehon was a member of the druid class.",
-            "Brehons drew on memory, poetry, and precognitive skill, not case law.",
-            "Morann's chain tightened on a false judgment and loosened on a true one.",
-            "Renowned women brehons included the great Brigit."
-        ],
-        "evidence": "Monaghan 2008, s.v. 'brehon'."
+  "attributes": [
+    {
+      "entity": "brehon",
+      "attribute": "a legal officer of early Ireland"
+    },
+    {
+      "entity": "brehon",
+      "attribute": "one who kept and knew the old rules of the land"
+    },
+    {
+      "entity": "brehon",
+      "attribute": "a scribe of the rules not the ruler of justice"
     }
+  ],
+  "entities": [
+    {
+      "entity": "brehon",
+      "type": "Role"
+    },
+    {
+      "entity": "vates",
+      "type": "Group"
+    },
+    {
+      "entity": "fili",
+      "type": "Role"
+    }
+  ],
+  "sources": [
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.",
+    "MacKillop 2008, s.v. 'brehon'."
+  ],
+  "text": "The brehon was a legal officer of early Ireland. The office may have grown in part from the old writers of lore. These were the vates of the song and the fili of the word. He did not sit as a judge of the court. The king of the land guarded the peace and the order. The brehon knew the body of law and kept it safe. The office passed from one keeper to the next pupil of the craft. So the name brehon came to stand for the vigilant keepers of the ancient law of Ireland.",
+  "okr": {
+    "objective": "Describe the role of the brehon in early Ireland.",
+    "key_results": [
+      "The brehon was a legal officer of Ireland.",
+      "The brehon did not sit as the judge of the court.",
+      "The king kept the peace and the order.",
+      "The brehon knew the law and kept it."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'brehon'."
+  },
+  "name": "brehon",
+  "cyphertext": "Owj3yP0aOmOnfuRqIntUyupPbd98fL_vLtAQLev_gb5nyHYUPblMKFP4m-Mtz9csB1IoqpnroGMj7HIDt8_8QKdNiDkcasEkMky_fd1rQbR737_kN9sxjebELmFmPubU9FFufaC4wQAqREUWYTH-2A_4Up0ihZYhc0_xB4S4K__bl8Bho-0dvRV0OIN1ilqhsxnw0_08PxEYAb7Rn-HiqWOTqQ0EOv8Nt-CXLxeQltkwToIK4wTZBoPhhVmRHcon8gl6cdq9J3myiTpUF-knOHmUstjhvvDnjWC0NmELPIHk2e6gLVa8JLJ9LU18-Ofc5Xr_XaVHbJvP99hRIeR6a2fAKNZyDayebMc0vHrq900WQiXATBsnKuYg5zEplQtUM_jQDBOUxyPyBKhdPU0SNupEngMPatki-O_GDxSNiDjANdgtJI1XE40ahk60GkMouB27xOGv-VYz5E9jpfMhfiXOA40sTNYAhG_TcBFo21JfNQ52tQjqSisWOuiyCKyJnSTnw5wW6bmLr0t4F79c4V5xOC5wBu6b0cUaUGQwA3fVu4bIISw7GbPOLFdf1x5-awK9FX6KA2uNxXsM4jq2GPWQXF6fECrRD7Aad6WoYhsgE65pkOf3FXHy9OrIqi558oeFJ5VBgxlFgyNiabvxMgh09gYAr-j03em2z822vHDTixxHDEG5XuWedETu6SnBfswy8vqcilBNemZSSY5ROBaEa_FT_mPkNYPuGzdhq3mlVK-LLRGYkMYoH6Vi-8QDFQV_i7gVAXsPiiOIejrJVv-NIvGLEeCw-6YRONg5opA9MAU51deD4YhYxQp-CUC6ZTFUMPmqSxGqGaO4tP3_IuEIOZKBb8c5LZv2DObsvf6p0a6cFAEi2__K05Z28VPwHIzGBhieBBrrCZEco5dIbnOxQFf6nzmfSUa28LSFzY6Pgy9mF7TA1pM8Nsa6PMIGXI5LEGcGjrT4O2qYHQo3G0rHXYhQ_1UplR1Eqr9TBe8a_8V9FGxb6pB2VhFWyb14L_7ELWg5Zfsc0bRdRsUupldw5xeEEMyyX2Bg-2tyT7G2A2WVPz3ASZx95jvwlySTY3tlkgvVXpMRqn9jjqcq1X5nyr_SRCHBZ6XCOy3DQKGp9QzU-LUYBhxv6hLk1agiEk1tbKspPKeuKhMXOMrd4_jTZkgHodwhLMF-M_U1dx6nSVEsFKzmfJFNWY9QYZ3tx43lZTLkyIOGqNCq02ZGr8xVehrUdwvloZ0eJN1-_r_nhSQ-8p2ixQA36c36MG6zuMKfc4EjJDxAyV9FI2xLlJSSl1y6svVbzoFtjd9Os4-XSzAQrL-hMpulL81-i8laEQuj4ZWMEEB4VZfYPth-ZByjdI6_YQMkeR8uAiTPdOOENVtrNiz1Ts8_0NWOTsXaHLwSB-ocTEeSuFBxVQbRmr_27oVbUmtWVefg-a8HJr-K7qVfdAlQYZHlHTYgRPJuwzs0HnzNsjCasz7k4hTZyGwjSxH_6DkkYyurDTTe_ZLsP-EOK1Jzdp76vDc9dVfWsW-jJjv_kzWqseijUMINZmQuPN8g2GGLFbDkl2tlF9jmb54MZiBMoE91aWKUAex4ttqnirK4bVYIDet2G1DNv8-9KDXdesnCHf8EUP4xvjA3jW4ga7ZF2F5IkGuR-P99W3vTGwFdR8ynbaPLGkx7pNVYOzvVH2na_06hoiRpgzMH55AODFLieGNDxrvcG-vxPc3k9RTlFWCVBpsdvQvGZqzIvzASnP7_UJCKNBTg05JZmxWgwCy7KJVj_besUrZZgOKReRLaxHrVGgPdtpdpPFaaSrz78_OwZAYj0rwW-__TAXftperUVy4KDXxKMaziyJhryldf9olwHmEuhihF1npzEeADr8FjO--jJDJ9ELSx2XjnHWNLf6noBTuohZmd_vmBNBJU8P596Dv-aWlYaxdRErMp6vhB54rI0zMbZ3pTefGFLPGj-ZLd8tOKhP13rU6B7vZ8rnkxEljZ47ujqwB7loYGKu3dAkcggV2Gu-MfapFAQyD-ozZyfbAWjpOso26xOjiC1gPOiNXgPcnDPXES-LX8B12EiZve_tAjCw7QDybYOBPGCnXHQ8Jkwpw7ZVGVnB1q8Y7WoWb8jHXsD_cvcGGTrqwGzXO1pgE15BGwKMzODQOr17jTfstnqDhUpD5yjl34csUKH-atte4SN3sX4wpbyr1h1NWr5xPnnLUgVtwMdU2kuY2wEyvFZwwBo5q4a61l3p2rEJijLRwi0tdUkMGVdBcO9_9bU8wl5zUpvwL1-q98SPwZdcjapN2CCuvcfJOyGyRapOb2fLkDjZC4bRmTvS4wrtrb-0ZjAKRZ9b6xeepsbe2HKNBWBh_FmfdCNH36js_ELSXulErNrD3lhsxB5_pCLiuih3Xn8xVP9ltN66ijyPZKgKfDDS6Pbebnutqyqsf4TL6DOnQz-4dyaBpCGqFmJIXo1fzixs1I10rDHJjwJJFE8-VkKGhlsOqkYCIj2yGNWqF-2dX8QUwGfs6Vex6NiQFbFEfHCAK8P4l8mKUMuM5w_7sfuEdqCudTPNUcLHiccZgRpA1Z2RMuHEe1i6wz9rHxeUkFfyDvS-fgS3PNwWBL_Ow3lbyAUBQR5ur5uBjCSU26bbyr7U2ummcthwA2b6aif-KqOpKaZHbkK_4=",
+  "salt": "2pFi7nTGdmtBlrD7yLgnLg=="
 }

@@ -1,0 +1,60 @@
+{
+  "name": "Brandub",
+  "text": "Brandub is a board-game played in early Ireland. It is a pastime easily mixed up with the games called fidchell and búanfach. The name may mean the board itself. Looked on as a map, it seems to stand for the whole island of Ireland in miniature. The word also served as a common name in old Ireland. At least two saints of the country bore it, and so did a run of lesser kings. The best known holder was Brandub king of the province later named Leinster. He died about the year 605. He won the lady Dubh Lacha, the wife of Mongán, through a trick. Her husband later took her back with a second ruse.",
+  "entities": [
+    {
+      "entity": "Brandub",
+      "type": "Person"
+    },
+    {
+      "entity": "Ireland",
+      "type": "Place"
+    },
+    {
+      "entity": "Leinster",
+      "type": "Place"
+    },
+    {
+      "entity": "Dubh Lacha",
+      "type": "Person"
+    },
+    {
+      "entity": "Mongán",
+      "type": "Person"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Brandub",
+      "attribute": "a board-game of early Ireland"
+    },
+    {
+      "entity": "Brandub",
+      "attribute": "a common name of Irish saints and petty kings"
+    },
+    {
+      "entity": "Brandub",
+      "attribute": "king of Leinster who won a lady through a trick"
+    },
+    {
+      "entity": "Dubh Lacha",
+      "attribute": "wife of Mongán won and later taken back"
+    }
+  ],
+  "okr": {
+    "objective": "Explain the two uses of the name Brandub in early Ireland.",
+    "key_results": [
+      "Brandub was a board-game often confused with other games.",
+      "The game may have stood for the whole island in miniature.",
+      "Brandub was also a common name of saints and petty kings.",
+      "A king of Leinster won a lady through a trick."
+    ],
+    "evidence": "MacKillop 2008, s.v. Brandub."
+  },
+  "sources": [
+    "MacKillop 2008, s.v. Brandub."
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": ""
+}

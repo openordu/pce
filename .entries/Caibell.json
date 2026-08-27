@@ -1,0 +1,28 @@
+{
+  "name": "Caibell",
+  "attributes": [
+    {"entity": "Caibell", "attribute": "is a ruler of the inward world in an old Irish story"},
+    {"entity": "Etar", "attribute": "a fellow ruler of the same house who shares the rule"}
+  ],
+  "entities": [
+    {"entity": "Caibell", "type": "Person"},
+    {"entity": "Etar", "type": "Person"},
+    {"entity": "sidh", "type": "Place"},
+    {"entity": "Rennes Dindshenchas", "type": "Text"},
+    {"entity": "Whitley Stokes", "type": "Person"}
+  ],
+  "sources": ["MacKillop 2008, s.v. 'Caibell'."],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "text": "Caibell is a ruler of the sidh, the hidden realm in an old Irish tale. His comrade Etar rules the same hidden land beside him. The account of their daughters hides a fierce old war. Two kings each seek a bride for their wedding. A contest is offered to settle the match between them. The hidden folk do not wish the living eye to fall. So the battle happens in the darkness of the night. In the dark the warriors take the shape of deer. The clash proves so fierce that four mounds of bone arise. These mounds are made of the antlers and hooves of the dead. Then the water rises and fills a broad lake. The story says this water turns white sheep to red. Of all the fighters only Etar survives the war. The old Rennes Dindshenchas carries the story to us. Whitley Stokes brought out a fine edition of the text.",
+  "okr": {
+    "objective": "Describe the Otherworld rulers and the war over the marriage of their daughters.",
+    "key_results": [
+      "Names the dark battle and the deer shape",
+      "Notes the four mounds of antlers and hooves",
+      "Records the lake that the water floods"
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Caibell'."
+  }
+}

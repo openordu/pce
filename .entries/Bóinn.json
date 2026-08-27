@@ -1,0 +1,29 @@
+{
+  "name": "Bóinn",
+  "text": "Bóinn is an Irish form of the name for the Boyne. The Boyne is a river that flows through eastern Ireland. The term Brug na Bóinne means the hostel of the Boyne. This place serves as a home for gods in early Irish story. It belongs first to Boand and the Dagda. Later it becomes the chief seat of Angus Óg. The name also marks the great passage-grave of Newgrange. Nearby sit the graves of Dowth and Knowth. All three rise along the Boyne valley in County Meath. Bóand lends her name to the river herself in some accounts. The Boyne carries the same memory across the centuries. Bóinn ties the water, the land, and the ancient tombs together.",
+  "entities": [
+    {"entity": "Bóinn", "type": "Place"},
+    {"entity": "Boyne", "type": "Place"},
+    {"entity": "Brug na Bóinne", "type": "Place"},
+    {"entity": "Bóand", "type": "Deity"},
+    {"entity": "Angus Óg", "type": "Deity"},
+    {"entity": "Dagda", "type": "Deity"}
+  ],
+  "attributes": [
+    {"entity": "Bóinn", "attribute": "Irish form of the name for the Boyne river"},
+    {"entity": "Brug na Bóinne", "attribute": "hostel of the Boyne and otherworldly residence"},
+    {"entity": "Brug na Bóinne", "attribute": "identified with the passage-grave of Newgrange"}
+  ],
+  "okr": {
+    "objective": "Record Bóinn as an Irish form of the Boyne, pointing to Brug na Bóinne",
+    "key_results": [
+      "Establish the river name variant",
+      "Link the name to Brug na Bóinne and the Boyne valley tombs"
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Bóinn'"
+  },
+  "sources": ["MacKillop 2008, s.v. 'Bóinn'."],
+  "image": [],
+  "cyphertext": "",
+  "salt": ""
+}

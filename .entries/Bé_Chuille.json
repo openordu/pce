@@ -1,50 +1,56 @@
 {
-    "name": "Bé Chuille",
-    "entities": [
-        {
-            "entity": "Bé Chuille",
-            "type": "Deity"
-        },
-        {
-            "entity": "Flidais",
-            "type": "Deity"
-        },
-        {
-            "entity": "Carman",
-            "type": "Deity"
-        },
-        {
-            "entity": "Tuatha Dé Danann",
-            "type": "Group"
-        }
-    ],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "attributes": [
-        {
-            "entity": "Bé Chuille",
-            "attribute": "an Irish goddess of the Tuatha Dé Danann"
-        },
-        {
-            "entity": "Bé Chuille",
-            "attribute": "magical daughter of the goddess Flidais"
-        },
-        {
-            "entity": "Bé Chuille",
-            "attribute": "able to combat the wicked sorceress Carman"
-        }
-    ],
-    "cyphertext": "FHOnfFN80elthOykGDoLEugCN9N4b_EpkX8A7ZNMTryhFGTc3p2f2bx1v_EQB8frU6cx4hVA70b9xD8h3civEfWX3cRF0NCrhkcgJYK4JiUs_NjzNvF_bVa1Auf9ouCWS_7_1SQEPW8a1GPzci3GiPschixYXa7O95oH5BZBFtZ8aKdodYyoImLKMbWne4tqClsFbn3nsc3guBLrzXhvMgrh1YU1G519vAz1Avm3pSCUrAa3HkXbpb_T3Ag2SIhf8JyyJ2P7Q3z6B_KSJyjGXQQ=",
-    "salt": "0GlGPihpumdaavVqpAx3sA==",
-    "text": "Bé Chuille is an Irish goddess of the Tuatha Dé Danann. She was the magical child of Flidais, the woodland goddess. She alone among the Tuatha Dé Danann could fight the wicked sorceress Carman. Her skill made her a valued defender of her people.",
-    "okr": {
-        "objective": "Describe Bé Chuille, the magical daughter of Flidais who combated Carman.",
-        "key_results": [
-            "Bé Chuille belonged to the Tuatha Dé Danann.",
-            "She was the magical daughter of the goddess Flidais.",
-            "She alone could fight the wicked sorceress Carman."
-        ],
-        "evidence": "Monaghan 2008, s.v. 'Bé Chuille'."
+  "name": "Bé Chuille",
+  "entities": [
+    {
+      "entity": "Bé Chuille",
+      "type": "Deity"
+    },
+    {
+      "entity": "Flidais",
+      "type": "Deity"
+    },
+    {
+      "entity": "Carman",
+      "type": "Deity"
+    },
+    {
+      "entity": "Tuatha Dé Danann",
+      "type": "Group"
     }
+  ],
+  "sources": [
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.",
+    "MacKillop 2008, s.v. 'Bé Chuille'."
+  ],
+  "attributes": [
+    {
+      "entity": "Bé Chuille",
+      "attribute": "the witch-like daughter of the goddess Flidais"
+    },
+    {
+      "entity": "Bé Chuille",
+      "attribute": "one of the most controlling women of the Tuatha Dé Danann"
+    },
+    {
+      "entity": "Bé Chuille",
+      "attribute": "often described as a druidess"
+    },
+    {
+      "entity": "Bé Chuille",
+      "attribute": "known also by the form Becuille"
+    }
+  ],
+  "cyphertext": "FHOnfFN80elthOykGDoLEugCN9N4b_EpkX8A7ZNMTryhFGTc3p2f2bx1v_EQB8frU6cx4hVA70b9xD8h3civEfWX3cRF0NCrhkcgJYK4JiUs_NjzNvF_bVa1Auf9ouCWS_7_1SQEPW8a1GPzci3GiPschixYXa7O95oH5BZBFtZ8aKdodYyoImLKMbWne4tqClsFbn3nsc3guBLrzXhvMgrh1YU1G519vAz1Avm3pSCUrAa3HkXbpb_T3Ag2SIhf8JyyJ2P7Q3z6B_KSJyjGXQQ=",
+  "salt": "0GlGPihpumdaavVqpAx3sA==",
+  "text": "Bé Chuille is the daughter of the goddess Flidais, who rules the wild. She stands among the most controlling women of the Tuatha Dé Danann. Writers have chosen to call her a druidess. Her skills let her counter Carman, who is a sorceress. She works alone where most gods cannot. The name also appears as Becuille. Bé Chuille guards her people from the snares cast by magic.",
+  "okr": {
+    "objective": "Describe Bé Chuille as the witch-like daughter of Flidais who fought Carman.",
+    "key_results": [
+      "Bé Chuille is the daughter of Flidais, goddess of the wild.",
+      "She is one of the powerful women of the Tuatha Dé Danann.",
+      "Writers describe her as a druidess.",
+      "The name may also be written Becuille."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Bé Chuille'."
+  }
 }

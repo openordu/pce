@@ -1,0 +1,77 @@
+{
+  "name": "Bedd Gelert",
+  "text": "Bedd Gelert is a story from Wales about the faithful hound of Prince Llywelyn. This ruler may be Llywelyn ap Iorwerth, who died in 1240. He may also be Llywelyn ap Gruffudd, who died in 1282. One day the prince sets out to hunt, yet his loyal dog Gelert fails to answer the horn. When the prince returns, he sees blood upon the hound's mouth. He thinks the animal has wounded his child, so he slays it in fury. Later the prince discovers that Gelert shielded the royal infant from a wolf. To make amends, he raises a stone in the dog's memory. He names it Bedd Gelert, which means the Grave of Gelert. The village now called Beddgelert stands in Gwynedd, close to the old border between Carnarvonshire and Merioneth. It lies four miles south-south-east of Snowdon. William Robert Spencer, who lived from 1769 to 1834, based his ballad Beth Geleirt on this tale. Earlier versions of the story appear in Sanskrit, Mongolian, Persian, and Russian. The medieval Latin Gesta Romanorum, from the fourteenth century, also holds a version.",
+  "entities": [
+    {
+      "entity": "Bedd Gelert",
+      "type": "Place"
+    },
+    {
+      "entity": "Gelert",
+      "type": "Animal"
+    },
+    {
+      "entity": "Llywelyn",
+      "type": "Person"
+    },
+    {
+      "entity": "Llywelyn ap Iorwerth",
+      "type": "Person"
+    },
+    {
+      "entity": "Llywelyn ap Gruffudd",
+      "type": "Person"
+    },
+    {
+      "entity": "Beddgelert",
+      "type": "Place"
+    },
+    {
+      "entity": "William Robert Spencer",
+      "type": "Person"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Gelert",
+      "attribute": "was the faithful hound of Prince Llywelyn"
+    },
+    {
+      "entity": "Gelert",
+      "attribute": "was wrongly slain by the prince in anger over his child"
+    },
+    {
+      "entity": "Gelert",
+      "attribute": "had protected the royal child from a wolf"
+    },
+    {
+      "entity": "Llywelyn",
+      "attribute": "may be Llywelyn ap Iorwerth or Llywelyn ap Gruffudd"
+    },
+    {
+      "entity": "Bedd Gelert",
+      "attribute": "means the Grave of Gelert and names a village in Gwynedd"
+    },
+    {
+      "entity": "William Robert Spencer",
+      "attribute": "based his ballad Beth Geleirt on this tale"
+    }
+  ],
+  "okr": {
+    "objective": "Tell the Welsh folk-tale of the loyal hound Gelert and note the village named after his memorial grave.",
+    "key_results": [
+      "States Gelert was the faithful hound of Prince Llywelyn and failed to answer the hunt call",
+      "States the prince killed the hound in anger but later learned it had protected the child from a wolf",
+      "States the memorial grave Bedd Gelert gives the village of Beddgelert its name in Gwynedd",
+      "States earlier forms of the story occur in Sanskrit, Mongolian, Persian, Russian, and Gesta Romanorum"
+    ],
+    "evidence": "MacKillop 2008, s.v. Bedd Gelert."
+  },
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "sources": [
+    "MacKillop 2008, s.v. Bedd Gelert.",
+    "Bedd Gelert: s.v. dog (corpus cross-reference)."
+  ]
+}

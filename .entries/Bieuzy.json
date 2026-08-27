@@ -1,0 +1,48 @@
+{
+  "name": "Bieuzy",
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "text": "Saint Bieuzy was a holy man remembered across Brittany. He stands as the patron of a sacred spring, the holy well of Bieuzy. Traditions say the waters of that well carry healing power. The faithful seek its waters for ease of a troubled mind. The folk of Brittany count this spring among the most honoured of all their holy wells.",
+  "entities": [
+    {
+      "entity": "Bieuzy",
+      "type": "Person"
+    },
+    {
+      "entity": "the holy well of Bieuzy",
+      "type": "Place"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Bieuzy",
+      "attribute": "a legendary Breton saint"
+    },
+    {
+      "entity": "the holy well of Bieuzy",
+      "attribute": "sacred spring with curative waters"
+    },
+    {
+      "entity": "the holy well of Bieuzy",
+      "attribute": "waters held to cure a troubled mind"
+    },
+    {
+      "entity": "the holy well of Bieuzy",
+      "attribute": "ranks among famous Breton holy wells"
+    }
+  ],
+  "okr": {
+    "objective": "Tell who Saint Bieuzy was and why his well matters.",
+    "key_results": [
+      "Bieuzy is remembered as a Breton saint.",
+      "He acts as patron of the sacred well bearing his name.",
+      "The well's waters are held to cure a troubled mind.",
+      "Bretons count the well among their most celebrated holy places."
+    ],
+    "evidence": "MacKillop 2008, s.v. Bieuzy."
+  },
+  "sources": [
+    "MacKillop 2008, s.v. Bieuzy."
+  ]
+}

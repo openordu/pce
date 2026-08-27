@@ -1,0 +1,67 @@
+{
+  "name": "Caer Seint",
+  "text": "Caer Seint is one of the assembly sites of Bendigeidfran. The great hero marshals his forces there in the Mabinogi. The place lies within the land of Gwynedd. It faces the island of Anglesey across the open water. The Roman ruins of Segontium stand near that ground. So the site joins a Welsh tale to a Roman past. Bendigeidfran chose Caer Seint for a gathering in the old story. The name still marks a corner of Welsh country.",
+  "entities": [
+    {
+      "entity": "Caer Seint",
+      "type": "Place"
+    },
+    {
+      "entity": "Bendigeidfran",
+      "type": "Person"
+    },
+    {
+      "entity": "Mabinogi",
+      "type": "Text"
+    },
+    {
+      "entity": "Gwynedd",
+      "type": "Place"
+    },
+    {
+      "entity": "Anglesey",
+      "type": "Place"
+    },
+    {
+      "entity": "Segontium",
+      "type": "Place"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Caer Seint",
+      "attribute": "one of the assembly sites of Bendigeidfran"
+    },
+    {
+      "entity": "Bendigeidfran",
+      "attribute": "gathers forces at Caer Seint in the Mabinogi"
+    },
+    {
+      "entity": "Gwynedd",
+      "attribute": "lands that hold Caer Seint"
+    },
+    {
+      "entity": "Anglesey",
+      "attribute": "island lying opposite Caer Seint"
+    },
+    {
+      "entity": "Segontium",
+      "attribute": "Roman ruins located near the site"
+    }
+  ],
+  "okr": {
+    "objective": "Caer Seint is one of the assembly sites of Bendigeidfran in Gwynedd across from Anglesey.",
+    "key_results": [
+      "record Caer Seint as an assembly site of Bendigeidfran",
+      "place it in the land of Gwynedd",
+      "note the nearby Roman ruins of Segontium"
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Caer Seint'."
+  },
+  "sources": [
+    "MacKillop 2008, s.v. 'Caer Seint'."
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": ""
+}

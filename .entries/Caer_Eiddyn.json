@@ -1,0 +1,59 @@
+{
+  "name": "Caer Eiddyn",
+  "text": "Caer Eiddyn is the Welsh form that the dictionary enters as a variant of Din Eidyn. Din Eidyn was the great hill stronghold of the Gododdin, a warrior people of the northern British lands. The place could stand beside Dumbarton Rock as a defence of equal fame. Most scholars judge the later Edinburgh Castle to hide this old fort on its rocky peak. The walls of that later fortress now cover the ground where the citadel rose. Caer Eiddyn thus names the same summit that looked toward the Firth of Forth. The title calls up an age when a British kingdom held the ground of Lothian before Scots came.",
+  "entities": [
+    {
+      "entity": "Din Eidyn",
+      "type": "Place"
+    },
+    {
+      "entity": "Gododdin",
+      "type": "Group"
+    },
+    {
+      "entity": "Edinburgh",
+      "type": "Place"
+    },
+    {
+      "entity": "Edinburgh Castle",
+      "type": "Place"
+    },
+    {
+      "entity": "Dumbarton Rock",
+      "type": "Place"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Caer Eiddyn",
+      "attribute": "Welsh variant of the name Din Eidyn"
+    },
+    {
+      "entity": "Din Eidyn",
+      "attribute": "the hill stronghold of the Gododdin"
+    },
+    {
+      "entity": "Din Eidyn",
+      "attribute": "measured against Dumbarton Rock"
+    },
+    {
+      "entity": "Din Eidyn",
+      "attribute": "presumed to sit beneath Edinburgh Castle"
+    }
+  ],
+  "okr": {
+    "objective": "State clearly the bond between Caer Eiddyn and the stronghold of Din Eidyn.",
+    "key_results": [
+      "call Caer Eiddyn a Welsh variant of Din Eidyn",
+      "name the citadel the home of the Gododdin",
+      "settle its site at the rock beneath Edinburgh Castle"
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Caer Eiddyn'."
+  },
+  "sources": [
+    "MacKillop 2008, s.v. 'Caer Eiddyn'."
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": ""
+}

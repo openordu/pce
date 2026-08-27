@@ -1,0 +1,55 @@
+{
+  "name": "Borbar",
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "text": "Borbar, who also goes by the name Borbaduthal, shows up in the poems of James Macpherson's Ossian published in 1760. His sons include Cathmor the Generous and Cairbre, the man who would become a usurper of power. The tales also name his brother as Colgulla. That warrior leads a revolt against Cormac mac Airt while he rules over Ireland as king. Through his sons and this sibling, Borbar touches several challenging players who fill the Ossianic tales with conflict and ambition.",
+  "entities": [
+    {
+      "entity": "Borbar",
+      "type": "Character"
+    },
+    {
+      "entity": "Cathmor",
+      "type": "Person"
+    },
+    {
+      "entity": "Cairbre",
+      "type": "Person"
+    },
+    {
+      "entity": "Colgulla",
+      "type": "Person"
+    },
+    {
+      "entity": "Cormac mac Airt",
+      "type": "Person"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Borbar",
+      "attribute": "appears in Macpherson's Ossian from 1760 under the alternate name Borbaduthal"
+    },
+    {
+      "entity": "Borbar",
+      "attribute": "father of Cathmor the Generous and of Cairbre the usurper"
+    },
+    {
+      "entity": "Borbar",
+      "attribute": "brother of Colgulla, who rebelled against Cormac, the king of Ireland"
+    }
+  ],
+  "okr": {
+    "objective": "Describe the figure Borbar and his place within the Ossianic tales.",
+    "key_results": [
+      "Borbar appears in the 1760 Ossian poems of James Macpherson.",
+      "He is the parent of Cathmor and of Cairbre the usurper.",
+      "His brother Colgulla rebelled against Cormac, king of Ireland."
+    ],
+    "evidence": "MacKillop 2008, s.v. Borbar."
+  },
+  "sources": [
+    "MacKillop 2008, s.v. Borbar."
+  ]
+}

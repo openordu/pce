@@ -1,0 +1,47 @@
+{
+  "name": "Bodmin Moor",
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "text": "Bodmin Moor is a highland stretch in central Cornwall close to the town of Bodmin. Its ground carries many megalithic ruins. A number of folk tales describe the region as a holy centre for the Cornish people. The dry plateau stays quiet and known as a spiritual heart of the district.",
+  "entities": [
+    {
+      "entity": "Bodmin Moor",
+      "type": "Place"
+    },
+    {
+      "entity": "Cornwall",
+      "type": "Place"
+    },
+    {
+      "entity": "Bodmin",
+      "type": "Place"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Bodmin Moor",
+      "attribute": "a highland stretch in central Cornwall"
+    },
+    {
+      "entity": "Bodmin Moor",
+      "attribute": "site of many megalithic ruins"
+    },
+    {
+      "entity": "Bodmin Moor",
+      "attribute": "treated in folk tales as a holy centre of the Cornish people"
+    }
+  ],
+  "okr": {
+    "objective": "Describe the Cornish highland of Bodmin Moor and its folk significance.",
+    "key_results": [
+      "Bodmin Moor is a highland stretch in central Cornwall.",
+      "The ground carries many megalithic ruins.",
+      "Folk tales make it a holy centre of the Cornish people."
+    ],
+    "evidence": "MacKillop 2008, s.v. Bodmin Moor."
+  },
+  "sources": [
+    "MacKillop 2008, s.v. Bodmin Moor."
+  ]
+}

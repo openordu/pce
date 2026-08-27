@@ -1,59 +1,73 @@
 {
-    "name": "Bec",
-    "attributes": [
-        {
-            "entity": "Bec",
-            "attribute": "name meaning small, borne by several Irish heroes"
-        },
-        {
-            "entity": "Bec mac Buain",
-            "attribute": "father of the maiden guardians of a magical well"
-        },
-        {
-            "entity": "Bec mac Dé",
-            "attribute": "diviner who answered three questions at once"
-        },
-        {
-            "entity": "Fionn Mac Cumhaill",
-            "attribute": "gained wisdom from the spilled well water"
-        }
-    ],
-    "entities": [
-        {
-            "entity": "Bec",
-            "type": "Person"
-        },
-        {
-            "entity": "Bec mac Buain",
-            "type": "Person"
-        },
-        {
-            "entity": "Bec mac Dé",
-            "type": "Person"
-        },
-        {
-            "entity": "Fionn Mac Cumhaill",
-            "type": "Person"
-        },
-        {
-            "entity": "Well",
-            "type": "Place"
-        }
-    ],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "cyphertext": "DmkYjr7V56TWlyIdwXAHJez7YVl9B-hQvZ7etgryP-Zq7BdqQGsKn5Ic_cSzGZj4Z35-VkvY-xKhGMwG7VTPaDiKtN4laBkJfes6bb1md59OXTMpxgzOenZx5b5keHiqiGuT9plXU2sxP725BhFVWD_-d6HCJ0MMyRohChnTQUHNpDnTfN-MDTQ2I2ktBAnlPxJ0V8MeeSsJBYavS3nj56lCtqeFxgJArJ4hgUqvsyHOckFNVfKILVkDP0W-_OKwxHIipXlc8IZ-U_UkFhsY0BClcBNDxKhZXyjFdwjUQYjdRLvPaOSo19yjuvDbjmLVzglwFF3uFssmgn4ojQryU8_8kzVZ4KLkvhGxTMXsPmUpu_ls0wZje_at54k9hLhgKGGtqCvf1jZMG-nSPhaS3lrqSRqM4XhnIavkycd6jzxHtZLk2h_1zBZoI88fAfaHgOJPNA6CrtpOjN8RKx6B-VaOYwBtq1DZWgLCnuBLh39cmNqTtgOOcbvOShVll2vmNefuQAn9rX0pBw6oSpBoF774AQDe3eRE4-oy6NuKzLzGz8HO9XDTAllcBgXBDoX87f--2Q==",
-    "salt": "jVzix3K9ei1ZiMgF00jjjw==",
-    "text": "Bec is an Irish hero. The name means \"small.\" Several figures in Irish legend bear this title. Each is a minor hero of the cycle.\n\nOne is Bec mac Buain. He was the father of the maidens who guarded a magical well. The hero Fionn Mac Cumhaill gained wisdom there. A girl accidentally spilled some water into his mouth. The spill passed on the well's power.\n\nAnother is Bec mac Bé, a diviner. His skill let him answer nine questions in a single reply. One answer settled all nine at once.",
-    "okr": {
-        "objective": "Capture the Irish hero Bec, a name shared by guardians and a diviner in legend.",
-        "key_results": [
-            "The name Bec means small and is borne by several heroes.",
-            "Bec mac Buain fathered the maidens who guarded the magical well.",
-            "Fionn Mac Cumhaill gained wisdom from the spilled well water.",
-            "Bec mac Dé answered many questions in a single reply."
-        ],
-        "evidence": "Monaghan, Encyclopedia of Celtic Mythology and Folklore"
+  "name": "Bec",
+  "cyphertext": "DmkYjr7V56TWlyIdwXAHJez7YVl9B-hQvZ7etgryP-Zq7BdqQGsKn5Ic_cSzGZj4Z35-VkvY-xKhGMwG7VTPaDiKtN4laBkJfes6bb1md59OXTMpxgzOenZx5b5keHiqiGuT9plXU2sxP725BhFVWD_-d6HCJ0MMyRohChnTQUHNpDnTfN-MDTQ2I2ktBAnlPxJ0V8MeeSsJBYavS3nj56lCtqeFxgJArJ4hgUqvsyHOckFNVfKILVkDP0W-_OKwxHIipXlc8IZ-U_UkFhsY0BClcBNDxKhZXyjFdwjUQYjdRLvPaOSo19yjuvDbjmLVzglwFF3uFssmgn4ojQryU8_8kzVZ4KLkvhGxTMXsPmUpu_ls0wZje_at54k9hLhgKGGtqCvf1jZMG-nSPhaS3lrqSRqM4XhnIavkycd6jzxHtZLk2h_1zBZoI88fAfaHgOJPNA6CrtpOjN8RKx6B-VaOYwBtq1DZWgLCnuBLh39cmNqTtgOOcbvOShVll2vmNefuQAn9rX0pBw6oSpBoF774AQDe3eRE4-oy6NuKzLzGz8HO9XDTAllcBgXBDoX87f--2Q==",
+  "salt": "jVzix3K9ei1ZiMgF00jjjw==",
+  "text": "Bec, a name also spelled Beag or Becc, carries the sense of small, and it is borne by several figures scattered through early Irish literature. Most of those who bear it are men of modest note, but at least one was a woman, a warrior said to come from the province of Connacht. The headword thus attaches to a handful of minor characters rather than to any single celebrated champion.\n\nOne of the better known of them was Bec mac Buain, who is recalled as the guardian appointed over a spring of deep insight in Co. Limerick at a site MacKillop calls Cahemarry. In the tale Feis Tighe Chonain [The Feast at Conan's House], his three daughters watch over what the waters contain. When Fionn Mac Cumhaill comes there with two companions in search of water, one of the daughters lets a drop into Fionn's mouth, and by that chance swallow he gains the deep wisdom the waters hold. So close is this scene to a famous northern episode that the scholar E. O. Turville-Petre once likened it to Odin's drawing of inspiration from the mead of Kvasir in Norse tradition.\n\nA second figure, Bec mac De, earns the praise of being the best seer of his own day. He could speak to nine persons at once and settle the questions of all of them with a single reply. MacKillop likewise passes on how he foretold that Diarmait mac Cerbaill would meet his end inside the house of Banban the hospitaller.",
+  "entities": [
+    {
+      "entity": "Bec",
+      "type": "Person"
+    },
+    {
+      "entity": "Bec mac Buain",
+      "type": "Person"
+    },
+    {
+      "entity": "Bec mac De",
+      "type": "Person"
+    },
+    {
+      "entity": "Fionn Mac Cumhaill",
+      "type": "Person"
+    },
+    {
+      "entity": "Diarmait mac Cerbaill",
+      "type": "Person"
+    },
+    {
+      "entity": "Connacht",
+      "type": "Place"
+    },
+    {
+      "entity": "Well",
+      "type": "Place"
     }
+  ],
+  "attributes": [
+    {
+      "entity": "Bec",
+      "attribute": "a name meaning small, borne by several Irish heroes and a female warrior from Connacht"
+    },
+    {
+      "entity": "Bec mac Buain",
+      "attribute": "keeper of a well of wisdom in County Limerick whose three daughters guarded it"
+    },
+    {
+      "entity": "Fionn Mac Cumhaill",
+      "attribute": "gained wisdom when water spilled into his mouth at the well"
+    },
+    {
+      "entity": "Bec mac De",
+      "attribute": "the best seer of his time, answering nine men at once, who prophesied Diarmait mac Cerbaill's death"
+    },
+    {
+      "entity": "Diarmait mac Cerbaill",
+      "attribute": "prophesied to die in the house of Banban the hospitaller"
+    }
+  ],
+  "okr": {
+    "objective": "Capture the various Irish heroes named Bec, from the Connacht warrior to the well keeper and the seer.",
+    "key_results": [
+      "The name Bec means small and belongs to several minor Irish heroes and one female warrior from Connacht.",
+      "Bec mac Buain kept a well of wisdom in County Limerick, guarded by his three daughters.",
+      "Fionn Mac Cumhaill gained the well's wisdom when its water was spilled into his mouth.",
+      "Bec mac De was the best seer of his time, answering nine men at once with one reply.",
+      "Bec mac De prophesied that Diarmait mac Cerbaill would die in the house of Banban the hospitaller."
+    ],
+    "evidence": "MacKillop 2008, s.v. Bec; Monaghan 2008, s.v. 'Bec'."
+  },
+  "sources": [
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.",
+    "MacKillop 2008, s.v. Bec."
+  ]
 }

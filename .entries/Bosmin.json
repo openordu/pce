@@ -1,0 +1,51 @@
+{
+  "name": "Bosmin",
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "text": "Bosmin is the only daughter of the hero Fingal in the Ossian tales. James Macpherson issued those poems in the year 1760. The name carries the sense of a smooth palm in Scots Gaelic. Her mother is Clatha, the child of Cathula. Because she stands alone among his children, Bosmin holds a singled place in his family. The verse recalls her lineage rather than any deeds of her own.",
+  "entities": [
+    {
+      "entity": "Bosmin",
+      "type": "Person"
+    },
+    {
+      "entity": "Fingal",
+      "type": "Person"
+    },
+    {
+      "entity": "Clatha",
+      "type": "Person"
+    },
+    {
+      "entity": "Cathula",
+      "type": "Person"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Bosmin",
+      "attribute": "the only daughter of Fingal in Macpherson's Ossian, by Clatha"
+    },
+    {
+      "entity": "Bosmin",
+      "attribute": "granddaughter of Cathula on her mother's side"
+    },
+    {
+      "entity": "Clatha",
+      "attribute": "the daughter of Cathula and the mother of Bosmin"
+    }
+  ],
+  "okr": {
+    "objective": "Describe Bosmin and her place in the Ossianic tales of James Macpherson.",
+    "key_results": [
+      "Bosmin is the only daughter of Fingal in the Ossian poetry.",
+      "Her mother is Clatha, the daughter of Cathula.",
+      "The name means smooth palm in Scots Gaelic."
+    ],
+    "evidence": "MacKillop 2008, s.v. Bosmin."
+  },
+  "sources": [
+    "MacKillop 2008, s.v. Bosmin."
+  ]
+}

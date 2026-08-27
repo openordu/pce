@@ -1,0 +1,26 @@
+{
+  "name": "Cailb",
+  "attributes": [
+    {"entity": "Cailb", "attribute": "is the ugly female seer in an old Irish story"},
+    {"entity": "Conaire", "attribute": "the king whose death the seer foretells"}
+  ],
+  "entities": [
+    {"entity": "Cailb", "type": "Person"},
+    {"entity": "Conaire", "type": "Person"},
+    {"entity": "Da Derga", "type": "Person"}
+  ],
+  "sources": ["MacKillop 2008, s.v. 'Cailb'."],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "text": "Cailb is an ugly female seer in an old Irish story. Her great tale concerns the fall and ruin of Da Derga. The famous death belongs to a ruler inside that story. Cailb announces the doom of King Conaire in the tale. The story draws her monstrous body in a harsh light. It leaves a crude hint about her form to the reader. Conaire first says that her name means little at all. She then stands upon the one foot and begins a chant. She lists thirty two names with which to name herself. That strange chant answers the slight of the king. So the loathsome seer brings the news of his end.",
+  "okr": {
+    "objective": "Describe the ugly female seer and the death that she foretells.",
+    "key_results": [
+      "States the seer appears in the destruction of the royal Hostel",
+      "Notes she announces the doom of the king",
+      "Describes the stand on one foot and the chant"
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Cailb'."
+  }
+}

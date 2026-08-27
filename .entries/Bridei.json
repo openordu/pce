@@ -1,0 +1,47 @@
+{
+  "name": "Bridei",
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "text": "Bridei was a leader of the Picts. He was evangelized by the saint Columba, also called Colum Cille. Bridei made his dwelling in the Great Glen of Scotland. His conversion counted as a major step for the early Scottish church.",
+  "entities": [
+    {
+      "entity": "Bridei",
+      "type": "Person"
+    },
+    {
+      "entity": "Picts",
+      "type": "Group"
+    },
+    {
+      "entity": "Great Glen",
+      "type": "Place"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Bridei",
+      "attribute": "a leader of the Picts"
+    },
+    {
+      "entity": "Picts",
+      "attribute": "Bridei was evangelized by Saint Columba"
+    },
+    {
+      "entity": "Picts",
+      "attribute": "Bridei dwelt in the Great Glen"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. Bridei."
+  ],
+  "okr": {
+    "objective": "Provide a short note on Bridei, a Pictish leader.",
+    "key_results": [
+      "Bridei led the Picts.",
+      "Saint Columba converted him.",
+      "He lived in the Great Glen of Scotland."
+    ],
+    "evidence": "MacKillop 2008, s.v. Bridei."
+  }
+}

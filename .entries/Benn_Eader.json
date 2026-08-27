@@ -1,0 +1,68 @@
+{
+  "name": "Benn Eader",
+  "text": "In Irish tradition the name Benn Eader points to the Hill of Howth. That peak stands about five hundred and sixty feet high on the Howth peninsula. The peninsula lies roughly nine miles northeast of Dublin. Many sagas and narratives count the summit as the easternmost point of Ireland. The celebrated warrior Oscar rests buried there beside his wife Etain. The champion Fionn mac Cumhaill kept boats ready on this shore. He sailed from here to the ruinous fight at Gabhair. Folk memory ties the place name to a figure called Etar. Some accounts name him as the father of Etain Fholtfhind. Over time the hill has also carried the name Dun Etair.",
+  "entities": [
+    {
+      "entity": "Benn Eader",
+      "type": "Place"
+    },
+    {
+      "entity": "Howth",
+      "type": "Place"
+    },
+    {
+      "entity": "Oscar",
+      "type": "Person"
+    },
+    {
+      "entity": "Etain",
+      "type": "Person"
+    },
+    {
+      "entity": "Fionn mac Cumhaill",
+      "type": "Person"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Benn Eader",
+      "attribute": "is the Irish name for the Hill of Howth"
+    },
+    {
+      "entity": "Benn Eader",
+      "attribute": "stands about 560 feet high on the Howth peninsula northeast of Dublin"
+    },
+    {
+      "entity": "Benn Eader",
+      "attribute": "appears in many stories as the easternmost point of Ireland"
+    },
+    {
+      "entity": "Oscar",
+      "attribute": "is buried on Benn Eader beside his wife Etain"
+    },
+    {
+      "entity": "Fionn mac Cumhaill",
+      "attribute": "kept ships ready at Benn Eader and departed from there for the battle at Gabhair"
+    },
+    {
+      "entity": "Etain",
+      "attribute": "is identified in some accounts as the father of Etain the fair-haired"
+    }
+  ],
+  "okr": {
+    "objective": "Describe Benn Eader as the Irish name for the Hill of Howth and its place in Irish story.",
+    "key_results": [
+      "States Benn Eader is the Irish name for the Hill of Howth, about 560 feet high on the Howth peninsula northeast of Dublin",
+      "Notes the hill appears as the easternmost point of Ireland in many stories",
+      "Records Oscar buried beside his wife Etain and Fionn mac Cumhaill's departure for Gabhair",
+      "Mentions the possible link to a figure named Etar and the alternate name Dun Etair"
+    ],
+    "evidence": "MacKillop 2008, s.v. Benn Eader."
+  },
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "sources": [
+    "MacKillop 2008, s.v. Benn Eader."
+  ]
+}

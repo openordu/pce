@@ -2,89 +2,76 @@
 layout: layouts/pce.njk
 title: Borvo
 icon: file-lines
-order: 289
+order: 309
 contributors: [ 'Christopher Godwin' ]
 attributes:
-  - Borvo god of healing Springs
-  - Sul singular form of the goddess
-  - SulEVIAE plural form of the goddess
-  - Serpent horned
-  - Sirona mother of Borvo
-  - Damona consort of Borvo
-  - Bormana alternative name for Damona
-  - Apollo healing
-  - Borvo son of Sirona
-  - Borvo depicted as a warrior seated beneath a horned Serpent
-  - Borvo male version of Sul
-  - Borvo identical with the healing Apollo
-  - Borvo name may mean “boiling,” an appropriate name for a god of hot springs
+  - Borvo god of the healing springs across Gaul
+  - Borvo male form of the goddess Sul and the Suleviae
+  - Borvo portrayed seated in armour at Vichy with a horned serpent rising to him
+  - Borvo consort Damona, but Bormana when the form is Bormanus
+  - Borvo worshipped with Damona at the healing spring of Bourbonne-les-Bains in France
+  - Borvo possible son of Sirona or of Dirona
+  - Borvo equated with Apollo by the Romans
+  - Borvo name may mean to boil, fitting a hot spring god
 categories:
-  - healing Springs
-  - ethnic group
-  - healing god
-  - plural form of Sul
-  - alternative name for Damona
-  - mother of Borvo
-  - horned Serpent
-  - consort of Borvo
-  - goddess
-  - Continental Celtic god
+  - Group
+  - Place
+  - Deity
 entities:
-  - Borvo(Continental Celtic god)
-  - Gauls(ethnic group)
-  - Springs(healing Springs)
-  - Sul(goddess)
-  - SulEVIAE(plural form of Sul)
-  - Serpent(horned Serpent)
-  - Sirona(mother of Borvo)
-  - Damona(consort of Borvo)
-  - Bormana(alternative name for Damona)
-  - Apollo(healing god)
+  - Borvo(Deity)
+  - Bormanus(Deity)
+  - Bormo(Deity)
+  - Sul(Deity)
+  - Suleviae(Group)
+  - Sirona(Deity)
+  - Dirona(Deity)
+  - Damona(Deity)
+  - Bormana(Deity)
+  - Apollo(Deity)
+  - Gaul(Place)
 tags:
   - Borvo
-  - Gauls
-  - Springs
+  - Bormanus
+  - Bormo
   - Sul
-  - SulEVIAE
-  - Serpent
+  - Suleviae
   - Sirona
+  - Dirona
   - Damona
   - Bormana
   - Apollo
+  - Gaul
 ---
 ``` tab [group1:Info]
 ::: magazinestyle
-Male deity Borvo, also referred to as Bormanus or Bormo, is a god belonging to the Continental Celtic pantheon. In Gaul, he was venerated as the god of healing springs, representing the male counterpart of Sul, who was revered in the singular and in the plural as the SulEVIAE. His iconography displays him as a seated warrior under a horned Serpent. His mother was Sirona and his consort was Damona, also known as Bormana. Among the Romans, Borvo was equated with the healing god Apollo. The meaning behind his name may originate from the term "boiling," a fitting name for a divine being that presides over hot springs.
+Borvo is a god honoured across Gaul as the guardian of healing springs. He also carried the names Bormanus and Bormo in some lands. The Romans of the period recognised him as none other than Apollo. At Vichy in France a carving shows Borvo seated in armour. A shield and helmet rest at hand, and a horned serpent coils upwards toward him. His usual companion is Damona, yet the form called Bormanus takes Bormana for a mate instead. Veneration of Borvo and Damona together marked the healing waters at Bourbonne-les-Bains in France. Some old traditions name Sirona or Dirona as a possible mother for him. He is bound as well to the spring goddesses Sul and the Suleviae in the company of scholars. His name carries the sense of to boil, which suits a god who rules over hot, bubbling waters.
 
 :::
 ```
 ``` tab [group1:Attributes]
-- **Borvo**: god of healing Springs
-- **Sul**: singular form of the goddess
-- **SulEVIAE**: plural form of the goddess
-- **Serpent**: horned
-- **Sirona**: mother of Borvo
-- **Damona**: consort of Borvo
-- **Bormana**: alternative name for Damona
-- **Apollo**: healing
-- **Borvo**: son of Sirona
-- **Borvo**: depicted as a warrior seated beneath a horned Serpent
-- **Borvo**: male version of Sul
-- **Borvo**: identical with the healing Apollo
-- **Borvo**: name may mean “boiling,” an appropriate name for a god of hot springs
+- **Borvo**: god of the healing springs across Gaul
+- **Borvo**: male form of the goddess Sul and the Suleviae
+- **Borvo**: portrayed seated in armour at Vichy with a horned serpent rising to him
+- **Borvo**: consort Damona, but Bormana when the form is Bormanus
+- **Borvo**: worshipped with Damona at the healing spring of Bourbonne-les-Bains in France
+- **Borvo**: possible son of Sirona or of Dirona
+- **Borvo**: equated with Apollo by the Romans
+- **Borvo**: name may mean to boil, fitting a hot spring god
 ```
 ``` tab [group1:Entities]
-- **Borvo**: Continental Celtic god
-- **Gauls**: ethnic group
-- **Springs**: healing Springs
-- **Sul**: goddess
-- **SulEVIAE**: plural form of Sul
-- **Serpent**: horned Serpent
-- **Sirona**: mother of Borvo
-- **Damona**: consort of Borvo
-- **Bormana**: alternative name for Damona
-- **Apollo**: healing god
+- **Borvo**: Deity
+- **Bormanus**: Deity
+- **Bormo**: Deity
+- **Sul**: Deity
+- **Suleviae**: Group
+- **Sirona**: Deity
+- **Dirona**: Deity
+- **Damona**: Deity
+- **Bormana**: Deity
+- **Apollo**: Deity
+- **Gaul**: Place
 ```
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
+- MacKillop 2008, s.v. Borvo.
 ```

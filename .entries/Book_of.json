@@ -1,0 +1,47 @@
+{
+  "name": "Book of",
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "text": "The phrase Book of stands in front of the title of many old Celtic codices. Scribes copied these manuscripts in monasteries and castles from the ninth to the sixteenth centuries. Each volume held a Latin title or one in a Celtic tongue. Most writers today use an English title, often taken from the place where the volume was made or kept. Only one work keeps its Irish label Lebor na hUidre in common use. That volume is named for the Dun Cow. These texts carry much of the surviving myth and legend of the Celtic world.",
+  "entities": [
+    {
+      "entity": "Book of",
+      "type": "Book"
+    },
+    {
+      "entity": "Book of the Dun Cow",
+      "type": "Book"
+    },
+    {
+      "entity": "Lebor na hUidre",
+      "type": "Title"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Book of",
+      "attribute": "a headword for the great Celtic manuscript collections"
+    },
+    {
+      "entity": "Book of the Dun Cow",
+      "attribute": "keeps its Irish name Lebor na hUidre"
+    },
+    {
+      "entity": "Book of",
+      "attribute": "gathers myth, legend, and lore"
+    }
+  ],
+  "okr": {
+    "objective": "Give a survey of the Book of manuscripts that preserve Celtic tradition.",
+    "key_results": [
+      "The codices were copied from the ninth to the fifteenth century.",
+      "Each bore a Latin or Celtic title.",
+      "Most modern citations use an English place-name title."
+    ],
+    "evidence": "MacKillop 2008, s.v. Book of."
+  },
+  "sources": [
+    "MacKillop 2008, s.v. Book of."
+  ]
+}

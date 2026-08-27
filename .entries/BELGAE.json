@@ -1,6 +1,6 @@
 {
   "name": "Belgae",
-  "text": "The Belgae were a group of tribes in Gallia Belgica. Caesar wrote that most of the Belgae descended from the Germani and crossed the Rhine at an early time. In his day the term Germani was not linguistic. Some tribes claimed their homes had been east of the Rhine, but their lands were largely Celtic-speaking. Ancient place-names across Belgic Gaul are mostly Celtic. The Aduatuci formed a remnant of the Cimbri and Teutones. The Belgae held a Late La Tene culture. Their trade routes linked them to the Rhone valley and the Mediterranean. In Britain the Catuvellauni and Atrebates shared names with Gaulish Belgae. The Belgae offer the only documented move of a Celtic-speaking people from the mainland to the British Isles. The people's name comes from a Celtic root, *belgo-.",
+  "text": "The Belgae are a P-Celtic people of northern Gaul. Julius Caesar called them the fiercest of all the tribes. Parts of that people settled in Britain before the end of the first century BC. They chose lands that lay open to the sea. Irish writers linked the Belgae to the Fir Bolg of Irish pseudo-history. Roderick O'Flaherty made this claim as early as 1685. Caesar stated that the Belgae came from Germanic lands. Scholars now read that statement as geographic rather than ethnic. He placed their home east of the Rhine. Their lands spread across the modern districts of Hampshire and Wiltshire. In 1946 T. F. O'Rahilly argued that they matched the Builg and the Erainn. Scholars now reject that argument.",
   "entities": [
     {
       "entity": "Belgae",
@@ -19,6 +19,18 @@
       "type": "Group"
     },
     {
+      "entity": "Builg",
+      "type": "Group"
+    },
+    {
+      "entity": "Erainn",
+      "type": "Group"
+    },
+    {
+      "entity": "Roderick O'Flaherty",
+      "type": "Person"
+    },
+    {
       "entity": "Aduatuci",
       "type": "Group"
     }
@@ -26,35 +38,62 @@
   "attributes": [
     {
       "entity": "Belgae",
-      "attribute": "formed a Celtic-speaking people of Gallia Belgica"
+      "attribute": "a P-Celtic people of northern Gaul"
     },
     {
       "entity": "Belgae",
-      "attribute": "derives its name from Celtic *belgo-"
+      "attribute": "called the fiercest of all tribes by Julius Caesar"
+    },
+    {
+      "entity": "Belgae",
+      "attribute": "settled parts of Britain open to the sea before 1 BC"
+    },
+    {
+      "entity": "Fir Bolg",
+      "attribute": "linked to the Belgae by Irish readers from 1685"
+    },
+    {
+      "entity": "Roderick O'Flaherty",
+      "attribute": "identified the Belgae with the Fir Bolg"
     },
     {
       "entity": "Caesar",
-      "attribute": "reported Belgae origins in the Rhine lands"
+      "attribute": "claimed Germanic origin for the Belgae"
     },
     {
       "entity": "Belgae",
-      "attribute": "gave their name to tribes in south-east Britain"
+      "attribute": "origin read as geographic east of the Rhine, not ethnic"
+    },
+    {
+      "entity": "Belgae",
+      "attribute": "settled in what is now Hampshire and Wiltshire"
+    },
+    {
+      "entity": "Builg",
+      "attribute": "matched to the Belgae by T. F. O'Rahilly then rejected"
+    },
+    {
+      "entity": "Erainn",
+      "attribute": "matched to the Belgae by T. F. O'Rahilly then rejected"
     }
   ],
   "sources": [
     "Koch 2006, s.v. 'Belgae'",
-    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.",
+    "MacKillop 2008, s.v. Belgae"
   ],
   "image": [],
   "cyphertext": "",
   "salt": "",
   "okr": {
-    "objective": "Establishes the Belgae of Gaul as a Celtic-speaking people whose name derives from *belgo- and who crossed to Britain.",
+    "objective": "Present the Belgae as a P-Celtic people of northern Gaul whom Caesar judged fiercest, with their settled parts in Britain and the now-rejected links to the Fir Bolg.",
     "key_results": [
-      "Records Caesar's account of their Rhine-land origins",
-      "States that the name Belgae comes from Celtic *belgo-",
-      "Notes their migration to Britain as the documented Celtic mainland crossing"
+      "States the Belgae were a P-Celtic people that Caesar called the fiercest",
+      "States parts settled in sea-open lands in Britain before 1 BC",
+      "Records the 1685 claim by Roderick O'Flaherty linking the Belgae to the Fir Bolg",
+      "Reads Caesar's Germanic origin as geographic rather than ethnic",
+      "Notes their settlement in Hampshire and Wiltshire and the rejected O'Rahilly argument"
     ],
-    "evidence": "Koch 2006, s.v. 'Belgae'; Monaghan 2008"
+    "evidence": "MacKillop 2008, s.v. Belgae."
   }
 }

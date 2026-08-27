@@ -1,42 +1,59 @@
 {
- "name": "Bodhmall",
- "entities": [
-  {
-   "entity": "Bodhmall",
-   "type": "Person"
-  },
-  {
-   "entity": "Fionn Mac Cumhaill",
-   "type": "Person"
-  }
- ],
- "attributes": [
-  {
-   "entity": "Bodhmall",
-   "attribute": "an Irish druid"
-  },
-  {
-   "entity": "Bodhmall",
-   "attribute": "foster mother of Fionn Mac Cumhaill"
-  },
-  {
-   "entity": "Bodhmall",
-   "attribute": "instructed Fionn in the occult arts"
-  }
- ],
- "sources": [
-  "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
- ],
- "cyphertext": "m7hS2DP10JyON0LiMksStLbJaC46363j9tA2LmpBLfSIo1skb2JIZXz35CyeiFjiXpABrLektzhAcsv61SLr872iLzPExGOwCwzV3Cc_zooz0RRbu6HWNxvwsYmhgSfidkutOzDxX7dXaVbK6EMZUH02gAgc-TFy1x_oXqdJgLgI1DgDHS9T3YzMDXzHz5QpGU6FtO2bugOmpDA4MkYxSDvlI25ofkNPwsVE4uM=",
- "salt": "YuS5mZCAVbWY3atq9Uan6A==",
- "text": "Bodhmall is an Irish heroine. She was a druid. She raised the great hero Fionn Mac Cumhaill as her own. He had no kinder nurse than her. Bodhmall trained the boy in secret arts. Her learning fell full on the champion of the tale.",
- "okr": {
-  "objective": "Describe Bodhmall, the druid who fostered Fionn Mac Cumhaill.",
-  "key_results": [
-   "Bodhmall was a druid.",
-   "She was the foster mother of Fionn Mac Cumhaill.",
-   "She instructed the hero in the occult arts."
+  "name": "Bodhmall",
+  "entities": [
+    {
+      "entity": "Bodhmall",
+      "type": "Person"
+    },
+    {
+      "entity": "Fionn Mac Cumhaill",
+      "type": "Person"
+    },
+    {
+      "entity": "Fionn Mac Cumhaill",
+      "type": "Person"
+    },
+    {
+      "entity": "Muirenn",
+      "type": "Person"
+    }
   ],
-  "evidence": "Monaghan 2008, s.v. 'Bodhmall'."
- }
+  "attributes": [
+    {
+      "entity": "Bodhmall",
+      "attribute": "an Irish druid"
+    },
+    {
+      "entity": "Bodhmall",
+      "attribute": "foster mother of Fionn Mac Cumhaill"
+    },
+    {
+      "entity": "Bodhmall",
+      "attribute": "instructed Fionn in the occult arts"
+    },
+    {
+      "entity": "Bodhmall",
+      "attribute": "a druidess who nursed the young Fionn Mac Cumhaill"
+    },
+    {
+      "entity": "Bodhmall",
+      "attribute": "sister of Muirenn, Fionn's mother"
+    }
+  ],
+  "sources": [
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.",
+    "MacKillop 2008, s.v. Bodhmall."
+  ],
+  "cyphertext": "m7hS2DP10JyON0LiMksStLbJaC46363j9tA2LmpBLfSIo1skb2JIZXz35CyeiFjiXpABrLektzhAcsv61SLr872iLzPExGOwCwzV3Cc_zooz0RRbu6HWNxvwsYmhgSfidkutOzDxX7dXaVbK6EMZUH02gAgc-TFy1x_oXqdJgLgI1DgDHS9T3YzMDXzHz5QpGU6FtO2bugOmpDA4MkYxSDvlI25ofkNPwsVE4uM=",
+  "salt": "YuS5mZCAVbWY3atq9Uan6A==",
+  "text": "Bodhmall is an Irish heroine and druidess. She raised the great hero Fionn Mac Cumhaill as her own. He had no kinder nurse than her. Bodhmall trained the boy in secret arts. Her learning fell full on the champion of the tale. In folk-tales from oral tradition, Bodhmall nurses the young Fionn, a nephew born in her house. She is the sister of Muirenn, Fionn's mother. Her skill and care shaped the hunter-warrior of the Fenian stories.",
+  "okr": {
+    "objective": "Describe Bodhmall, the druid who fostered Fionn Mac Cumhaill.",
+    "key_results": [
+      "Bodhmall was a druid.",
+      "She was the foster mother of Fionn Mac Cumhaill.",
+      "She instructed the hero in the occult arts."
+    ],
+    "evidence": "Monaghan 2008, s.v. 'Bodhmall'."
+  }
 }

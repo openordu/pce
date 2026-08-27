@@ -1,0 +1,52 @@
+{
+  "name": "Bind",
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "text": "Bind is a fairy woman of the Irish tradition. Her name holds the sense of melodious, sweet, or sweetness. Folklore records her as the daughter of Modarn. Writers also spell the name as Binde, Binn, and Binne. Those forms all point to the same gentle Irish figure.",
+  "entities": [
+    {
+      "entity": "Bind",
+      "type": "Being"
+    },
+    {
+      "entity": "Modarn",
+      "type": "Person"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Bind",
+      "attribute": "a fairy woman in Irish folklore"
+    },
+    {
+      "entity": "Bind",
+      "attribute": "a name meaning melodious, sweet, or sweetness"
+    },
+    {
+      "entity": "Bind",
+      "attribute": "the daughter of Modarn"
+    },
+    {
+      "entity": "Bind",
+      "attribute": "also spelled Binde, Binn, and Binne"
+    },
+    {
+      "entity": "Modarn",
+      "attribute": "the father of the fairy woman Bind"
+    }
+  ],
+  "okr": {
+    "objective": "Describe the Irish fairy woman Bind and her lineage.",
+    "key_results": [
+      "Bind is a fairy woman of the Irish tradition.",
+      "Her name carries the sense of melodious, sweet, or sweetness.",
+      "Folklore names her as the daughter of Modarn.",
+      "The alternate spellings Binde, Binn, and Binne all name the same figure."
+    ],
+    "evidence": "MacKillop 2008, s.v. Bind."
+  },
+  "sources": [
+    "MacKillop 2008, s.v. Bind."
+  ]
+}

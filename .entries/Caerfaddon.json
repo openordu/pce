@@ -1,0 +1,47 @@
+{
+  "name": "Caerfaddon",
+  "text": "Caerfaddon is the Welsh name for Bath. Bath is a spa town whose waters are hot. Those warm waters have drawn the sick since the old age. The Romans knew this place as Aquae Sulis. A shrine rose at the spring and many came to it. Bath prospered around the healing of these waters. Caerfaddon carries Bath into the Welsh tongue.",
+  "entities": [
+    {
+      "entity": "Caerfaddon",
+      "type": "Place"
+    },
+    {
+      "entity": "Bath",
+      "type": "Place"
+    },
+    {
+      "entity": "Aquae Sulis",
+      "type": "Place"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Caerfaddon",
+      "attribute": "Welsh name for Bath"
+    },
+    {
+      "entity": "Bath",
+      "attribute": "a spa town with hot medicinal waters"
+    },
+    {
+      "entity": "Aquae Sulis",
+      "attribute": "Roman name for the place called Bath"
+    }
+  ],
+  "okr": {
+    "objective": "Present Caerfaddon as the Welsh name for the spa town of Bath.",
+    "key_results": [
+      "call Caerfaddon as the Welsh name for Bath",
+      "note Bath as a town of hot waters",
+      "link the place to its Roman name Aquae Sulis"
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Caerfaddon'."
+  },
+  "sources": [
+    "MacKillop 2008, s.v. 'Caerfaddon'."
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": ""
+}

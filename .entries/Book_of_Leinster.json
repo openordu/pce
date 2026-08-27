@@ -1,0 +1,63 @@
+{
+  "name": "Book of Leinster",
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "text": "The Book of Leinster carries the Irish name Lebor Laignech. It is also called Leabhar Laighneach, and at times the Book of Noughaval or Oakvale, from the Irish Lebor na Nuachongála. Scribes finished the codex after the year 1150. For Irish myth and story it ranks just behind the Book of the Dun Cow. Some of its matter, such as the Dindshenchas lore that tells of places, dates from the eleventh century. It holds the Lebor Gabála, a text of the Táin Bó Cúailne, the tale of Deirdre, and the Bó Brama tribute. The surviving pages are split between two Dublin institutions, Trinity College and the Franciscan house. A facsimile appeared in 1870. Later editors issued the whole in six volumes.",
+  "entities": [
+    {
+      "entity": "Book of Leinster",
+      "type": "Literary work"
+    },
+    {
+      "entity": "Book of the Dun Cow",
+      "type": "Literary work"
+    },
+    {
+      "entity": "Dindshenchas",
+      "type": "Literary work"
+    },
+    {
+      "entity": "Lebor Gabala Erenn",
+      "type": "Literary work"
+    },
+    {
+      "entity": "Táin Bó Cúailnge",
+      "type": "Literary work"
+    },
+    {
+      "entity": "Deirdre",
+      "type": "Person"
+    },
+    {
+      "entity": "Leinster",
+      "type": "Place"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Book of Leinster",
+      "attribute": "compiled after 1150"
+    },
+    {
+      "entity": "Book of Leinster",
+      "attribute": "a prime source of Irish myth and legend"
+    },
+    {
+      "entity": "Book of Leinster",
+      "attribute": "holds the lore of the Dindshenchas and the Lebor Gabála"
+    }
+  ],
+  "okr": {
+    "objective": "Describe the Book of Leinster.",
+    "key_results": [
+      "Its Irish title is Lebor Laignech.",
+      "It holds texts of the Mythological and Ulster cycles.",
+      "It is held at Trinity College and the Franciscan Library."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Book of Leinster'."
+  },
+  "sources": [
+    "MacKillop 2008, s.v. 'Book of Leinster'."
+  ]
+}

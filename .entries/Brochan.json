@@ -1,0 +1,39 @@
+{
+  "name": "Brochan",
+  "text": "Brochan is a variant spelling of Brychan. Brychan was a legendary king of south Wales. A family of saints claimed descent from him. The name also marks the old territory of Brycheiniog.",
+  "entities": [
+    {
+      "entity": "Brochan",
+      "type": "Person"
+    },
+    {
+      "entity": "Brychan",
+      "type": "Person"
+    },
+    {
+      "entity": "Brycheiniog",
+      "type": "Place"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Brochan",
+      "attribute": "a variant spelling of Brychan"
+    }
+  ],
+  "okr": {
+    "objective": "Describe Brochan, a variant spelling of Brychan.",
+    "key_results": [
+      "It is a variant spelling of Brychan.",
+      "Brychan was a legendary king of south Wales.",
+      "His name gave the territory of Brycheiniog."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Brochan'."
+  },
+  "sources": [
+    "MacKillop 2008, s.v. 'Brochan'."
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": ""
+}

@@ -1,0 +1,60 @@
+{
+    "name": "Britain",
+    "text": "Britain is the largest of the British Isles. It includes what is now England, Wales, and Scotland. Until Roman rule the island held mostly Brythonic Celts, the ancestors of the modern Welsh and Cornish. The word Prydain in early Welsh narrative usually means all of Britain. Wales became a nation apart from Britain only later. The Irish name Bretain and the Scottish Gaelic Breathunn may denote all of Britain or all but Scotland. In Breton the island is Breizh-Veur or Enez-Vreizh. The Book of Invasions says Britain was named for the Nemedian hero Britán Mael. Many Welsh narratives call Britain the Island of the Mighty.",
+    "entities": [
+        {
+            "entity": "Britain",
+            "type": "Place"
+        },
+        {
+            "entity": "England",
+            "type": "Place"
+        },
+        {
+            "entity": "Wales",
+            "type": "Place"
+        },
+        {
+            "entity": "Scotland",
+            "type": "Place"
+        },
+        {
+            "entity": "Britán Mael",
+            "type": "Person"
+        },
+        {
+            "entity": "Breizh-Veur",
+            "type": "Place"
+        }
+    ],
+    "attributes": [
+        {
+            "entity": "Britain",
+            "attribute": "the largest of the British Isles"
+        },
+        {
+            "entity": "Britain",
+            "attribute": "named for the Nemedian hero Britán Mael in the Book of Invasions"
+        },
+        {
+            "entity": "Britain",
+            "attribute": "called the Island of the Mighty in Welsh narratives"
+        }
+    ],
+    "okr": {
+        "objective": "Describe the island of Britain in Celtic tradition.",
+        "key_results": [
+            "Britain is the largest of the British Isles.",
+            "Its people were largely Brythonic Celts before Roman times.",
+            "The Book of Invasions names the island for Britán Mael.",
+            "Welsh narratives call it the Island of the Mighty."
+        ],
+        "evidence": "MacKillop 2008, s.v. 'Britain'."
+    },
+    "image": [],
+    "cyphertext": "",
+    "salt": "",
+    "sources": [
+        "MacKillop 2008, s.v. 'Britain'."
+    ]
+}

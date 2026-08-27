@@ -1,0 +1,51 @@
+{
+  "name": "Book of Lecan",
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "text": "The Book of Lecan also carries the title Great Book of Lecan. That label sets it apart from the older Yellow Book of Lecan. The same family of scribes made both codices inside one castle. Its Irish name is Leabhar Mór Mhac Fhir Bhisigh Leacáin. The text took shape about fourteen hundred. Six hundred leaves hold genealogies plus a charter of rights. The word Lecan marked a castle that now lies ruined. That ruin rests deep in the west of County Sligo. The site stands two miles north of Inishcrone. Kathleen Mulchrone issued her edition in Dublin in 1937.",
+  "entities": [
+    {
+      "entity": "Book of Lecan",
+      "type": "Literary work"
+    },
+    {
+      "entity": "Yellow Book of Lecan",
+      "type": "Literary work"
+    },
+    {
+      "entity": "Lecan",
+      "type": "Place"
+    },
+    {
+      "entity": "Sligo",
+      "type": "Place"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Book of Lecan",
+      "attribute": "also named the Great Book of Lecan"
+    },
+    {
+      "entity": "Book of Lecan",
+      "attribute": "compiled about 1400 in County Sligo"
+    },
+    {
+      "entity": "Book of Lecan",
+      "attribute": "edited by Kathleen Mulchrone and published in 1937"
+    }
+  ],
+  "okr": {
+    "objective": "Describe the Book of Lecan.",
+    "key_results": [
+      "It is also called the Great Book of Lecan.",
+      "Scribes wrote it about 1400 in County Sligo.",
+      "Its pages hold genealogies and texts of law and rights."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Book of Lecan'."
+  },
+  "sources": [
+    "MacKillop 2008, s.v. 'Book of Lecan'."
+  ]
+}

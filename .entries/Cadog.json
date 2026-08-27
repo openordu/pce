@@ -1,0 +1,75 @@
+{
+  "name": "Cadog",
+  "text": "Cadog is a celebrated Welsh saint of the sixth century. He founded a monastery at Llancarfan in Glamorganshire. He also raised about twenty other churches across the south of Wales. He set up further places of worship in Cornwall and Brittany. Cadog was the grandson of the saint Brychan. Invaders murdered him about the year 577. People often call him Cadog Ddoeth, which means the wise. Many miracle stories grew around him in the eleventh and twelfth centuries. The Wisdom of Cadog held witty sayings that an aspiring bard had to learn. By tradition Cadog served as teacher to Gildas and Taliesin. His feast is held on the twenty-fifth of September.",
+  "entities": [
+    {
+      "entity": "Cadog",
+      "type": "Person"
+    },
+    {
+      "entity": "Brychan",
+      "type": "Person"
+    },
+    {
+      "entity": "Gildas",
+      "type": "Person"
+    },
+    {
+      "entity": "Taliesin",
+      "type": "Person"
+    },
+    {
+      "entity": "Llancarfan",
+      "type": "Place"
+    },
+    {
+      "entity": "Glamorganshire",
+      "type": "Place"
+    },
+    {
+      "entity": "Cornwall",
+      "type": "Place"
+    },
+    {
+      "entity": "Brittany",
+      "type": "Place"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Cadog",
+      "attribute": "founded a monastery at Llancarfan in Glamorganshire"
+    },
+    {
+      "entity": "Cadog",
+      "attribute": "grandson of the saint Brychan"
+    },
+    {
+      "entity": "Cadog",
+      "attribute": "murdered by invaders about 577"
+    },
+    {
+      "entity": "Cadog",
+      "attribute": "sometimes called Cadog Ddoeth, the wise"
+    },
+    {
+      "entity": "Cadog",
+      "attribute": "teacher of Gildas and Taliesin by tradition"
+    }
+  ],
+  "okr": {
+    "objective": "Describe Cadog as a celebrated sixth-century Welsh saint.",
+    "key_results": [
+      "States Cadog founded a monastery at Llancarfan",
+      "Notes Cadog built churches across south Wales, Cornwall, and Brittany",
+      "Records Cadog as grandson of Brycha, murdered about 577, with feast on 25 September"
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Cadog'."
+  },
+  "sources": [
+    "MacKillop 2008, s.v. 'Cadog'."
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": ""
+}

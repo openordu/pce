@@ -1,0 +1,59 @@
+{
+  "name": "Cadwr",
+  "text": "Cadwr is an alternate Welsh spelling for the name Cador. The source directs the reader to the entry for Cador. Cadwr refers to the same duke of Cornwall. He holds rule in the tale Breuddwyd Rhonabwy. He is also the nephew of the king Arthur. Cadwr appears in the chronicles written by Geoffrey of Monmouth and by other poets. The duke Cadwr falls in the closing fight at Mount Badon. The name simply marks one form of Cador.",
+  "entities": [
+    {
+      "entity": "Cadwr",
+      "type": "Person"
+    },
+    {
+      "entity": "Cador",
+      "type": "Person"
+    },
+    {
+      "entity": "Arthur",
+      "type": "Person"
+    },
+    {
+      "entity": "Cornwall",
+      "type": "Place"
+    },
+    {
+      "entity": "Mount Badon",
+      "type": "Place"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Cadwr",
+      "attribute": "alternate Welsh spelling of Cador"
+    },
+    {
+      "entity": "Cadwr",
+      "attribute": "duke of Cornwall in Breuddwyd Rhonabwy"
+    },
+    {
+      "entity": "Cadwr",
+      "attribute": "nephew of Arthur"
+    },
+    {
+      "entity": "Cadwr",
+      "attribute": "killed in the last battle at Mount Badon"
+    }
+  ],
+  "okr": {
+    "objective": "Identify Cadwr as an alternate Welsh spelling of Cador.",
+    "key_results": [
+      "States Cadwr is a variant of the name Cador",
+      "Identifies Cadwr as the duke of Cornwall and the nephew of Arthur",
+      "Notes Cadwr dies at the battle of Mount Badon"
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Cadwr'."
+  },
+  "sources": [
+    "MacKillop 2008, s.v. 'Cadwr'."
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": ""
+}

@@ -1,0 +1,27 @@
+{
+ "name": "Brumo",
+ "text": "Brumo names a place of worship found inside the poems that James Macpherson passed off as Ossian. Macpherson set this invented shrine on the isle of Craca amid the Shetland group. His Ossian appears to date from 1760. The name shows up only inside that fabricated landscape and never in any genuine Celtic record.",
+ "entities": [
+  {"entity": "Brumo", "type": "Place"},
+  {"entity": "Ossian", "type": "Work"},
+  {"entity": "Craca", "type": "Place"},
+  {"entity": "Shetland Islands", "type": "Place"},
+  {"entity": "James Macpherson", "type": "Person"}
+ ],
+ "attributes": [
+  {"entity": "Brumo", "attribute": "names a place of worship inside Macpherson's Ossian"},
+  {"entity": "Brumo", "attribute": "stood on Craca in the Shetland Islands"}
+ ],
+ "okr": {
+  "objective": "Document the fictional place of worship that Macpherson placed inside the Ossian poems.",
+  "key_results": [
+   "State that Brumo is a place of worship in Ossian.",
+   "Record that Brumo stood on Craca in the Shetland Islands."
+  ],
+  "evidence": "MacKillop 2008, s.v. 'Brumo'."
+ },
+ "sources": ["MacKillop 2008, s.v. 'Brumo'."],
+ "image": [],
+ "cyphertext": "",
+ "salt": ""
+}

@@ -1,0 +1,55 @@
+{
+  "name": "Book of the Dun Cow",
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "text": "The Book of the Dun Cow takes the Irish name Lebor na hUidre, often shortened to LU. It is the oldest codex written entirely in Irish. Scribes gathered its pages before 1106 at Clonmacnoise. That great monastic house stands beside the Shannon. A chief scribe, Máel Muire mac Céileachair, set down a large share of the reading. The leaves hold the Mythological Cycle and the Ulster Cycle. The collection includes the epic Táin Bó Cuailnge. One later note explains how the title arose. The hero Fergus mac Róich returns from the grave to recite the epic. He speaks its words to Saint Ciarán of Clonmacnoise. The saint sets the lines onto the cow's dark hide. The volume disappeared after the conquest and surfaced again in 1837. The Royal Irish Academy in Dublin keeps it today.",
+  "entities": [
+    {
+      "entity": "Book of the Dun Cow",
+      "type": "Literary work"
+    },
+    {
+      "entity": "Lebor na hUidre",
+      "type": "Literary work"
+    },
+    {
+      "entity": "Clonmacnoise",
+      "type": "Place"
+    },
+    {
+      "entity": "Táin Bó Cúailnge",
+      "type": "Literary work"
+    },
+    {
+      "entity": "Ciarán of Clonmacnoise",
+      "type": "Person"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Book of the Dun Cow",
+      "attribute": "the oldest manuscript written entirely in Irish"
+    },
+    {
+      "entity": "Book of the Dun Cow",
+      "attribute": "compiled before 1106 at Clonmacnoise"
+    },
+    {
+      "entity": "Book of the Dun Cow",
+      "attribute": "holds the Táin Bó Cúailnge"
+    }
+  ],
+  "okr": {
+    "objective": "Describe the Book of the Dun Cow.",
+    "key_results": [
+      "It is the oldest Irish-only codex.",
+      "Writers compiled it before 1106 at Clonmacnoise.",
+      "It holds the Táin Bó Cúailnge."
+    ],
+    "evidence": "MacKilop 2008, s.v. 'Book of the Dun Cow'."
+  },
+  "sources": [
+    "MacKillop 2008, s.v. 'Book of the Dun Cow'."
+  ]
+}

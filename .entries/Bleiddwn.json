@@ -1,0 +1,43 @@
+{
+  "name": "Bleiddwn",
+  "text": "Bleiddwn is a figure of Welsh myth. His name means wolf cub. Gilfaethwy and Gwydion, who were brothers, once took on the shapes of a wolf and a female wolf. Their union produced Bleiddwn at the end of that transformation.",
+  "entities": [
+    {
+      "entity": "Bleiddwn",
+      "type": "Being"
+    },
+    {
+      "entity": "Gilfaethwy",
+      "type": "Person"
+    },
+    {
+      "entity": "Gwydion",
+      "type": "Person"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Bleiddwn",
+      "attribute": "a figure of Welsh myth whose name means wolf cub"
+    },
+    {
+      "entity": "Bleiddwn",
+      "attribute": "child of Gilfaethwy and Gwydion after their wolf transformation"
+    }
+  ],
+  "okr": {
+    "objective": "Present Bleiddwn, the Welsh wolf-cub born from the transformed brothers.",
+    "key_results": [
+      "Bleiddwn's name means wolf cub.",
+      "He is the child of Gilfaethwy and Gwydion.",
+      "The brothers produced him while in the shapes of wolves."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Bleiddwn'."
+  },
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "sources": [
+    "MacKillop 2008, s.v. 'Bleiddwn'."
+  ]
+}

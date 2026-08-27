@@ -1,0 +1,47 @@
+{
+  "name": "Book of Aneirin",
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "text": "The Book of Aneirin is known in Welsh as Llyfr Aneirin. It is a manuscript copied in the middle of the thirteenth century. It rests now in the South Glamorgan library. Most of its writing shows thirteenth-century spelling, while a fifth carries older forms. The codex is the chief carrier of the poem Gododdin. Aneirin gave that verse its voice, so a note in the text says his name. The work stands apart from the Canu Aneirin, another collection of the same bard.",
+  "entities": [
+    {
+      "entity": "Book of Aneirin",
+      "type": "Title"
+    },
+    {
+      "entity": "Gododdin",
+      "type": "poem"
+    },
+    {
+      "entity": "Canu Aneirin",
+      "type": "Title"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Book of Aneirin",
+      "attribute": "a Welsh manuscript of the thirteenth century"
+    },
+    {
+      "entity": "Book of Aneirin",
+      "attribute": "carries the famous Gododdin poem"
+    },
+    {
+      "entity": "Gododdin",
+      "attribute": "sung by the poet Aneirin"
+    }
+  ],
+  "okr": {
+    "objective": "Present the Book of Aneirin and its famous Gododdin poem.",
+    "key_results": [
+      "It is a Welsh manuscript copied in the thirteenth century.",
+      "It preserves poetry of the Cross of Aneirin.",
+      "The Gododdin is its famous poem."
+    ],
+    "evidence": "MacKillop 2008, s.v. Book of Aneirin."
+  },
+  "sources": [
+    "MacKillop 2008, s.v. Book of Aneirin and Aneirin."
+  ]
+}

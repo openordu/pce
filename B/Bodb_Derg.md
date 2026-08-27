@@ -2,67 +2,110 @@
 layout: layouts/pce.njk
 title: Bodb Derg
 icon: file-lines
-order: 271
+order: 290
 contributors: [ 'Christopher Godwin' ]
 attributes:
-  - Áeb eldest of the three
-  - Lir quickly fell in love with Áeb
-  - Áeb died after giving birth to Fionnuala and her brothers
-  - Lir married Aífe
-  - Aífe foster sister of Lir's wife
-  - Aífe enchanted Fionnuala and her brothers into Swans
-  - Bodb Derg punished Aífe
-  - Aífe turned into a demon or a Crane
+  - Bodb Derg most powerful magician of the Tuatha Dé Danann
+  - Bodb Derg son of the god Dagda
+  - Bodb Derg brother of Aonghus Óg, the god of poetry
+  - Bodb Derg elected king of the Tuatha Dé Danann
+  - Bodb Derg lived by Lough Derg
+  - Bodb Derg a son of the Dagda and his successor as leader of the Tuatha Dé Danann
+  - Bodb Derg had residences at Slievenamon and near Killaloe
+  - Bodb Derg helped Angus Óg find Cáer
+  - Bodb Derg father of Sadb, the mother of Oisín
 categories:
-  - person
-  - creature
-  - animal
+  - Place
+  - Literary work
+  - Group
+  - Deity
+  - Person
+  - People
+  - supernatural race
 entities:
-  - Áeb(person)
-  - Lir(person)
-  - Fionnuala(person)
-  - Bodb Derg(person)
-  - Aífe(person)
-  - Swans(animal)
-  - Crane(animal)
-  - demon(creature)
+  - Bodb Derg(Person)
+  - Dagda(Deity)
+  - Aonghus Óg(Person)
+  - Lough Derg(Place)
+  - Lir(Person)
+  - Tuatha Dé Danann(Group)
+  - Tuatha Dé Danann(supernatural race)
+  - Slievenamon(Place)
+  - Shannon(Place)
+  - Milesians(People)
+  - Angus Óg(Deity)
+  - Cáer(Person)
+  - Áeb(Person)
+  - Aífe(Person)
+  - Children of Lir(People)
+  - Sadb(Person)
+  - Oisín(Person)
+  - Lén(Person)
+  - Friuch(Person)
+  - Táin Bó Cuailnge(Literary work)
 tags:
-  - Áeb
-  - Lir
-  - Fionnuala
   - Bodb Derg
+  - Dagda
+  - Aonghus Óg
+  - Lough Derg
+  - Lir
+  - Tuatha Dé Danann
+  - Tuatha Dé Danann
+  - Slievenamon
+  - Shannon
+  - Milesians
+  - Angus Óg
+  - Cáer
+  - Áeb
   - Aífe
-  - Swans
-  - Crane
-  - demon
+  - Children of Lir
+  - Sadb
+  - Oisín
+  - Lén
+  - Friuch
+  - Táin Bó Cuailnge
 ---
 ``` tab [group1:Info]
 ::: magazinestyle
-The wise Bodb Derg was a powerful magician who featured as a hero or god in Irish mythology. He was born the son of Dagda, who was a good god, and the brother of Aonghus Óg, who presided over poetry as a god. Bodb Derg was elected to be the king of the Tuatha Dé Danann, reigning from a grand palace situated on the shores of Lough Derg. This action caused Lir to be annoyed and he left the meeting in anger. Unfortunately, Lir found his wife to have become ill upon his return home, and she died three days later. In a gesture of solidarity, Bodb Derg sent his three foster daughters to Shee Finnaha, Lir's palace, to provide care for him. Of the three daughters, the eldest, whose name is Áeb, caught Lir's eye, and soon after, they fell in love. However, after giving birth to Fionnuala and her brothers, Áeb died. Lir then married his wife's foster sister, Aífe, who became envious of her stepchildren and enchanted them into swans. Bodb Derg could not undo Aífe's powerful spell, but he did punish her by turning her into a demon or a crane.
+Bodb Derg means Bodb the Red. He is a child of the Dagda and takes command of his people, Tuatha Dé Danann. A few accounts name him the brother of the Dagda instead. He kept two dwellings. The first was Sidh ar Femen on Slievenamon in Tipperary, and the second stood beside the Shannon near Killaloe in County Clare. For this reason some scholars divide him into Bodb of Munster and Bodb Derg, though tellers use the seats without regard to the split. Once the Milesians prevailed and the Dagda died, Bodb took the kingship of his folk. That choice angered Lir, who raised his own sidh on the eastern coast of the island. Known for sober counsel, Bodb helped Angus Óg find the woman of his dream, Cáer. Bodb's foster-child Áeb wed Lir and bore the Children of Lir. When the stepmother Aífe worked her spell and turned them into swans, Bodb made her a spirit of the air as punishment. His daughter Mesca is the best known, and in some Fenian stories he fathers Sadb, the mother of Oisín. His craftsman Lén kept his workshop at Lough Léin, which was the old name for the Killarney lake. Bodb's swineherd Friuch sets in motion the begetting of the bulls in the Táin Bó Cuailnge.
 
 :::
 ```
 ``` tab [group1:Attributes]
-- **Áeb**: eldest of the three
-- **Lir**: quickly fell in love with Áeb
-- **Áeb**: died after giving birth to Fionnuala and her brothers
-- **Lir**: married Aífe
-- **Aífe**: foster sister of Lir's wife
-- **Aífe**: enchanted Fionnuala and her brothers into Swans
-- **Bodb Derg**: punished Aífe
-- **Aífe**: turned into a demon or a Crane
+- **Bodb Derg**: most powerful magician of the Tuatha Dé Danann
+- **Bodb Derg**: son of the god Dagda
+- **Bodb Derg**: brother of Aonghus Óg, the god of poetry
+- **Bodb Derg**: elected king of the Tuatha Dé Danann
+- **Bodb Derg**: lived by Lough Derg
+- **Bodb Derg**: a son of the Dagda and his successor as leader of the Tuatha Dé Danann
+- **Bodb Derg**: had residences at Slievenamon and near Killaloe
+- **Bodb Derg**: helped Angus Óg find Cáer
+- **Bodb Derg**: father of Sadb, the mother of Oisín
 ```
 ``` tab [group1:Entities]
-- **Áeb**: person
-- **Lir**: person
-- **Fionnuala**: person
-- **Bodb Derg**: person
-- **Aífe**: person
-- **Swans**: animal
-- **Crane**: animal
-- **demon**: creature
+- **Bodb Derg**: Person
+- **Dagda**: Deity
+- **Aonghus Óg**: Person
+- **Lough Derg**: Place
+- **Lir**: Person
+- **Tuatha Dé Danann**: Group
+- **Tuatha Dé Danann**: supernatural race
+- **Slievenamon**: Place
+- **Shannon**: Place
+- **Milesians**: People
+- **Angus Óg**: Deity
+- **Cáer**: Person
+- **Áeb**: Person
+- **Aífe**: Person
+- **Children of Lir**: People
+- **Sadb**: Person
+- **Oisín**: Person
+- **Lén**: Person
+- **Friuch**: Person
+- **Táin Bó Cuailnge**: Literary work
 ```
 ``` tab [group1:Sources]
 - Joyce, Patrick Weston. Ancient Celtic Romances. London: Parkgate Books, 1997.
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
+- MacKillop 2008, s.v. Bodb.
 ```

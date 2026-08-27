@@ -1,59 +1,61 @@
 {
-    "name": "Bébinn",
-    "entities": [
-        {
-            "entity": "Bébinn",
-            "type": "Deity"
-        },
-        {
-            "entity": "Bóand",
-            "type": "Deity"
-        },
-        {
-            "entity": "Fráech",
-            "type": "Person"
-        },
-        {
-            "entity": "Maiden's Land",
-            "type": "Place"
-        },
-        {
-            "entity": "Isle of Man",
-            "type": "Place"
-        }
-    ],
-    "attributes": [
-        {
-            "entity": "Bébinn",
-            "attribute": "a name common in early Irish literature and legend"
-        },
-        {
-            "entity": "Bébinn",
-            "attribute": "a goddess of birth, sister of Bóand"
-        },
-        {
-            "entity": "Bébinn",
-            "attribute": "mother of Fráech, Ireland's most handsome hero"
-        },
-        {
-            "entity": "Bébinn",
-            "attribute": "a beautiful giant ringed by magical birds"
-        }
-    ],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "cyphertext": "ztZ0cMCb_AH54sYQZ6PgtNlsLVgCXd132GEnFzI07hFf-30IpWXL3lxxCy4NuO9ZcGvmo6DMleZuz9A7-k3_O9aWlj4ge16hi0AzVykNo40xX7Bh41WkEp0muaf_Z4IDttEPaFoxoRqYgEru0FnudBtPPPn4EGJJEcGSzO10pTmBJzSWEsxiUfjXNXlJX4qP0b7r5JcbptvWBglfZ-Siaomiz1oeZ9yrQhskHzSnHDHmvusVCDUZBUfYkP2I21Q7WPAZfLChRU3Xrb-C0Zfsv5uS6YFZQzEwnhK1oxKFjBeTS63GYVlvzNAYvQWgtM0LHGAtYI_d8nYzElQRIdDbjrbAc7lp0qNbvkeFKKZb4psAspMcTa35-6_FgDalOsodY-01EQkD8tM7oL66w84H8WF2u3UqdnTtbSZ7I7J1dXOE2xKlxLfLUGRloisOAHf6o9s_uyH7t8RbIljmfwl3sa696KV5XbjaNX8PlwffGyDCX4loKIsA9nuidIvmTNcjn_aXv_BimU8aDwPWpnI0i17NgArbOZLdb3cjnOJEW3aDgY1I3P1yl1RaKJTN2Xvg3jTXhfNoeaagNQ0wqnMA7yJXsKFIyJzCxoE59zKnlEicQGTFVf3diUCPEoQHnhcTj599o_k9ImvoJqj9GCiielmMTbTyvufeOPliNPa_nLmroAYxAQVg7nWv8F6GRat2903kDQZB35SXX4AvUVD80QbsZ1L1EOruS4v_nlAt26nyZnlqlZySR-9Tb0XGd_u-zZoY9AOx0W6uwd69Az9iXFFXXidVp_mvW_F3bxax-CAXu7d7YlLhzc1ox3uny6NLnVsv3KY6zKZ1Hmoqn9hngGA_tYBUeDQr9DlS2qP-WXfa9VHlKpUE7-MA0Dk40DsNJv5yYnUlmaY18UQTt-tN33a3SA==",
-    "salt": "2K8e0P2LSW5sVDMjtncyJw==",
-    "text": "Bébinn is a name common in early Irish literature and legend. One Bébinn was a goddess of birth. She was sister of Bóand and mother of Fráech, Ireland's most handsome hero. Another Bébinn was a beautiful giant from Maiden's Land. She lived off the west coast and was always ringed by magical birds. She may once have been a goddess of pleasure. This Bébinn left the Otherworld for the king of the Isle of Man. She fled him when he began to beat her. The angry king pursued his wife and killed her.",
-    "okr": {
-        "objective": "Describe Bébinn as a goddess of birth and a giant of legend.",
-        "key_results": [
-            "Bébinn was a common name in early Irish literature.",
-            "One Bébinn was a goddess of birth and mother of Fráech.",
-            "Another Bébinn was a giant surrounded by magical birds.",
-            "This Bébinn fled the king of the Isle of Man and was killed."
-        ],
-        "evidence": "Monaghan 2008, s.v. 'Bébinn'."
+  "name": "Bébinn",
+  "entities": [
+    {
+      "entity": "Bébinn",
+      "type": "Deity"
+    },
+    {
+      "entity": "Bóand",
+      "type": "Deity"
+    },
+    {
+      "entity": "Fráech",
+      "type": "Person"
+    },
+    {
+      "entity": "Maiden's Land",
+      "type": "Place"
+    },
+    {
+      "entity": "Isle of Man",
+      "type": "Place"
     }
+  ],
+  "attributes": [
+    {
+      "entity": "Bébinn",
+      "attribute": "a common female name in early Ireland"
+    },
+    {
+      "entity": "Bébinn",
+      "attribute": "a patroness of birth and sister of Bóand"
+    },
+    {
+      "entity": "Bébinn",
+      "attribute": "mother of the hero Fráech"
+    },
+    {
+      "entity": "Bébinn",
+      "attribute": "later a daughter of Elcmar"
+    }
+  ],
+  "sources": [
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.",
+    "MacKillop 2008, s.v. 'Bébinn'."
+  ],
+  "cyphertext": "ztZ0cMCb_AH54sYQZ6PgtNlsLVgCXd132GEnFzI07hFf-30IpWXL3lxxCy4NuO9ZcGvmo6DMleZuz9A7-k3_O9aWlj4ge16hi0AzVykNo40xX7Bh41WkEp0muaf_Z4IDttEPaFoxoRqYgEru0FnudBtPPPn4EGJJEcGSzO10pTmBJzSWEsxiUfjXNXlJX4qP0b7r5JcbptvWBglfZ-Siaomiz1oeZ9yrQhskHzSnHDHmvusVCDUZBUfYkP2I21Q7WPAZfLChRU3Xrb-C0Zfsv5uS6YFZQzEwnhK1oxKFjBeTS63GYVlvzNAYvQWgtM0LHGAtYI_d8nYzElQRIdDbjrbAc7lp0qNbvkeFKKZb4psAspMcTa35-6_FgDalOsodY-01EQkD8tM7oL66w84H8WF2u3UqdnTtbSZ7I7J1dXOE2xKlxLfLUGRloisOAHf6o9s_uyH7t8RbIljmfwl3sa696KV5XbjaNX8PlwffGyDCX4loKIsA9nuidIvmTNcjn_aXv_BimU8aDwPWpnI0i17NgArbOZLdb3cjnOJEW3aDgY1I3P1yl1RaKJTN2Xvg3jTXhfNoeaagNQ0wqnMA7yJXsKFIyJzCxoE59zKnlEicQGTFVf3diUCPEoQHnhcTj599o_k9ImvoJqj9GCiielmMTbTyvufeOPliNPa_nLmroAYxAQVg7nWv8F6GRat2903kDQZB35SXX4AvUVD80QbsZ1L1EOruS4v_nlAt26nyZnlqlZySR-9Tb0XGd_u-zZoY9AOx0W6uwd69Az9iXFFXXidVp_mvW_F3bxax-CAXu7d7YlLhzc1ox3uny6NLnVsv3KY6zKZ1Hmoqn9hngGA_tYBUeDQr9DlS2qP-WXfa9VHlKpUE7-MA0Dk40DsNJv5yYnUlmaY18UQTt-tN33a3SA==",
+  "salt": "2K8e0P2LSW5sVDMjtncyJw==",
+  "text": "Bébinn is a fair and beautiful name in old Ireland. Several queens and abbesses carried it. The first Bébinn was a goddess who ruled over childbirth. She was the sister of Bóand. Her husband was Aed Alainn, who was a god, or Idath, who was a mortal. She gave life to the hero Fráech, who is their son. The second Bébinn came from a tale of the Fianna. She was a giantess of high bearing who asked for the safety of Fionn and his men. An ugly giant broke into their house and put her to death. A third Bébinn is known, and she was a daughter of Elcmar.",
+  "okr": {
+    "objective": "Describe the several figures named Bébinn in Irish tradition.",
+    "key_results": [
+      "Bébinn is a common name borne by queens and abbesses.",
+      "The first Bébinn watched over birth and was sister of Bóand.",
+      "That Bébinn was the mother of the hero Fráech.",
+      "Another Bébinn was killed by an ugly giant.",
+      "A third Bébinn was a daughter of Elcmar."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Bébinn'."
+  }
 }

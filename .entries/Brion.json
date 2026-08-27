@@ -1,0 +1,46 @@
+{
+    "name": "Brion",
+    "text": "Brion is a variant spelling of the name Brian. The two spellings name the same figures in Irish tradition. For the full account the reader should see the entry for Brian. Brian in turn may belong to the god of the Tuatha Dé Danann or to the high king Brian Bóruma.",
+    "entities": [
+        {
+            "entity": "Brion",
+            "type": "Person"
+        },
+        {
+            "entity": "Brian",
+            "type": "Person"
+        },
+        {
+            "entity": "Tuatha Dé Danann",
+            "type": "Group"
+        },
+        {
+            "entity": "Brian Bóruma",
+            "type": "Person"
+        }
+    ],
+    "attributes": [
+        {
+            "entity": "Brion",
+            "attribute": "a variant spelling of the name Brian"
+        },
+        {
+            "entity": "Brian",
+            "attribute": "a name shared by a god and a high king"
+        }
+    ],
+    "okr": {
+        "objective": "Note the variant spelling Brion of the name Brian.",
+        "key_results": [
+            "Brion is a variant spelling of Brian.",
+            "Readers should see the entry for Brian for the full account."
+        ],
+        "evidence": "MacKillop 2008, s.v. 'Brian'."
+    },
+    "image": [],
+    "cyphertext": "",
+    "salt": "",
+    "sources": [
+        "MacKillop 2008, s.v. 'Brian'."
+    ]
+}

@@ -10,11 +10,11 @@
       "type": "Person"
     },
     {
-      "entity": "Do",
+      "entity": "Don",
       "type": "Deity"
     },
     {
-      "entity": "Arianrod",
+      "entity": "Arianrhod",
       "type": "Deity"
     },
     {
@@ -22,18 +22,36 @@
       "type": "Person"
     },
     {
-      "entity": "Billingsgate",
-      "type": "Place"
+      "entity": "Lludd",
+      "type": "Person"
+    },
+    {
+      "entity": "Llefelys",
+      "type": "Person"
+    },
+    {
+      "entity": "Belenus",
+      "type": "Deity"
+    },
+    {
+      "entity": "Pelle",
+      "type": "Person"
     },
     {
       "entity": "Bile",
       "type": "Deity"
+    },
+    {
+      "entity": "Billingsgate",
+      "type": "Place"
     }
   ],
   "sources": [
     "Gantz, Jeffrey, trans. *The Mabinogion*. New York: Barnes & Noble Books, 1976. Pp. 67, 85, 124, 129.",
     "Rhys, John. The Welsh People. London: T. Fisher Unwin, 1906. Page 43.",
-    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.",
+    "MacKillop 2008, s.v. Beli",
+    "MacKillop 2008, s.v. Beli"
   ],
   "attributes": [
     {
@@ -42,11 +60,11 @@
     },
     {
       "entity": "Beli",
-      "attribute": "consort of the mother goddess Dôn"
+      "attribute": "consort of the mother goddess Don"
     },
     {
       "entity": "Beli",
-      "attribute": "father of Arianrod and Caswallawn"
+      "attribute": "father of Arianrhod and Caswallawn"
     },
     {
       "entity": "Beli",
@@ -55,19 +73,40 @@
     {
       "entity": "Beli",
       "attribute": "linked to the Irish god Bile"
+    },
+    {
+      "entity": "Beli",
+      "attribute": "established several royal lines in Wales"
+    },
+    {
+      "entity": "Beli",
+      "attribute": "probably an adaptation of the earlier deity Belenus"
+    },
+    {
+      "entity": "Beli",
+      "attribute": "sometimes identified with Beli ab Elffin, died 721"
+    },
+    {
+      "entity": "Beli",
+      "attribute": "in Cyfranc Lludd a Llefelys his sons are Lludd and Llefelys"
+    },
+    {
+      "entity": "Pelle",
+      "attribute": "borrowed much from Beli Mawr"
     }
   ],
   "cyphertext": "KimSRoMPkJSOHxP-4kDq6lnXmdTNkbQU0zTb02CswdjJkXNdC3rFVtJhi-zF1pA1wnxPZ9JLMJpI_xYm3Riu9y__RRztcFBDz7wT2ETLdCbBiOj575bNoCGhmbBQln8sEYyfvrxTVk7XrO5taxxy0E0ipDgUBzUczmc5rXzbUPIlU0xqJVTUNUXza_3QfxSvZeA65vgvkQaDxp3smcE8RSBaKeJGwHeDChjQpKkYniCi5KNjmtk1pREbey3_j19SVnzZXanmNAg2PojFWCnkotUFX84xQ5qLBtelhFv8P-qJA4T-_dT6kofL1yJD2P7d3-Gu8KNZeycq6rW154ReDztMAwcwDcbEi5-3NaDeiw5iGKiVpJvpbktyfdcmVZkn1LLp7cdquVPQ90EhFxcOv_7KBVGW-2f4GVte33zAQsN4A0cob8vLRkvTqFqhH6O_JnyUgdcHM2NPRKAk2_bAGWpW3Yd4mDLMjPGg8iQLOqyZhHwQbFMsoDnaaQvjQ97VJEqlzMPsceD7ZemDEereCN5oK2RSUi4ErTBhJ5xa14Xuu3_1b1u5O8wEkf4Js93zHxFwRzaWMmB5GqCK6f8iMFQGwbn1NU2nx2guPF0T6YOHOhHARhhYJGHeMzne7Kvfukws36JNPC7kawtMEFVYqKug-5s8kXaQrFkScGmotMA8F9FYKTNgUh-IHu80dZgEIg6a41kQZy7tj6jVnbXZen-EXlijiMfjiF8Tsy4SiPL1V2yky2SAxo4yU4FcbwXQ4i4-akg2af6mFXvwZs7Zd87bnlG1Y_Yof2x44BAffBzXKZ4pU_y_7AkyYQhR505iVbHPoMjL2q7TLqEaFdD6cKsI2r6onOpeVNWvFFU7NdxTsPoMl1T4wx1IVbGlVsMuTqDJsXeQxuAj64pHFMwN35OvXMK4HndTe83-o40Ah5Vt4IGe6LUIdBh-7r2g-D2HLaoqlZzQVHK-DdYYWUz9aMBOFuv2Tgot4_S00V18seWRKwVRWNPeONVyf2C1J1kg_vW6hZvWBHcBWU4Vai5aFf1QGx7ezz31m0A8KCrNtwl4WP_apnrn9wtAlO_VPK_5QNH_LzM0jwrZZTgHGRenS06WoH_AWdIXKEP8pbYb0jwdtFLsoL5z0A7DRPF9Br4ICzmqXifyzfClVwebpLaTsQbowSmzvPZygNMmDjJv8cvCD_FuBdXqoAaGFqHrT5KAdBuEZrQ7zIGuGpgLFYHY8oi_C-Eqxct0kUGyJhPKIoqIgS5r3EbRbJO4_Wdcp8AVYWzVtBh6zPzkWByyVFu8KO9f_G8v3FupinoqqAGL2X3KWwX7ROryYRG6o3aNS3Q=",
   "salt": "rv1RfMOsALUwoASc1ZPEYA==",
-  "text": "Beli is a Celtic ancestral figure, and he is many also a god. His full title is Beli Mawr, or Beli Mawr fab Tacitus. He is a father in the Welsh family line and may descend from the god Bel onal Berea. In the Mabinogion he is the consort of the mother goddess Do the goddess Arianrhod and the warrior Casaccia. In the tale of Maxin, Beli rules Britain until the hero arrives with his armies and pushes him into the sea. Writers have cast him as a god of death and of the sea. The ocean is sometimes called 'Blook li' or the liquor of the sun. The London place named Billingsgate appears to hold his name. Some writers link him to a little-known Irish god called Bile.",
+  "text": "Beli is a Welsh ancestral character who often appears as a deity. He stands behind several royal lines in Wales as a founding figure. Beli probably grew out of the earlier god Belenus. Some writers link Beli to a shadowy historical person, Beli ab Elffin, who died in 721. The Mabinogi recalls Beli many times. In that cycle he is the husband of Don and father of Arianrhod and Caswallawn. In Cyfranc Lludd a Llefelys the sons of Beli are named Lludd and Llefelys. The later Arthurian hero Pelle seems to lean heavily on Beli Mawr. Older lore also treats Beli as a god of death and of the sea. The London place name Billingsgate may carry his name. Some writers tie Beli to the little Irish god Bile.",
   "okr": {
-    "objective": "Beli is a Welsh ancestral father tied to gods, royalty, and the event of the sea.",
+    "objective": "Beli is a Welsh ancestor deity who founded royal lines and links to gods, kings, and sea lore.",
     "key_results": [
-      "Beli Mawr is a celtic ancestral figure and likely a god",
-      "In the Mabinogion he is consort of the mother goddess Dôn",
-      "He is father of the goddess Arianrod and the warrior Caswallawn",
-      "The place name Billingsgate appears to hold his name"
+      "He is an ancestor figure behind several royal lines in Wales",
+      "Beli likely descends from the earlier deity Belenus",
+      "He is husband of Don and father of Arianrhod and Caswallawn",
+      "His sons are Lludd and Llefelys per Cyfranc Lludd a Llefelys",
+      "The Arthurian figure Pelle borrowed much from Beli Mawr"
     ],
-    "evidence": "Monaghan, Encyclopedia of Celtic Mythology and Folklore; Gantz, The Mabinogion"
+    "evidence": "MacKillop 2008; Monaghan, Encyclopedia of Celtic Mythology; Gantz, The Mabinogion"
   }
 }

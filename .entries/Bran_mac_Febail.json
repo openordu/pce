@@ -1,0 +1,51 @@
+{
+  "name": "Bran mac Febail",
+  "text": "Bran mac Febail is the hero of a celebrated early Irish voyage tale. The work carries the name Imram Brain, also set down as The Voyage of Bran. It dates from the eighth century. One day Bran grows drowsy after hearing lovely music. He then travels onward through magic to the Otherworld, a land steeped in rich delights. When he comes back to Ireland he declares that his name is Bran and his father is Febal. The folk answer that he has long time and that his tale is ancient. Still he is able to relate what befell him. Then he crumbles into dust.",
+  "entities": [
+    {
+      "entity": "Bran mac Febail",
+      "type": "Person"
+    },
+    {
+      "entity": "Imran Brain",
+      "type": "Literal work"
+    },
+    {
+      "entity": "The Voyage of Bran",
+      "type": "Literal work"
+    },
+    {
+      "entity": "Febal",
+      "type": "Person"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Bran mac Febail",
+      "attribute": "hero of the eighth century Irish voyage tale"
+    },
+    {
+      "entity": "Bran mac Febail",
+      "attribute": "son of Febal"
+    },
+    {
+      "entity": "Bran mac Febail",
+      "attribute": "turns to dust after his journey to the Otherworld"
+    }
+  ],
+  "okr": {
+    "objective": "Record Bran mac Febail, the hero of the Voyage of Bran.",
+    "key_results": [
+      "Bran mac Febail is the hero of the Imram Brain.",
+      "He travels to the Otherworld and then returns home.",
+      "He crumbles to dust after telling his story."
+    ],
+    "evidence": "MacKillop 2008, s.v. Bran mac Febail."
+  },
+  "sources": [
+    "MacKillop 2008, s.v. \"Bran mac Febail\"."
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": ""
+}

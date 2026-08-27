@@ -1,15 +1,8 @@
 {
   "name": "Berba",
-  "attributes": [
-    {
-      "entity": "Berba",
-      "attribute": "tutelary goddess of the River Barrow"
-    },
-    {
-      "entity": "Berba",
-      "attribute": "linked to Cesair, said to be the first to settle Ireland"
-    }
-  ],
+  "cyphertext": "cWeZGoFtjAtbOhsK-jSUD8lMt0nifpJy6prNzwpISGYrjS9jG1tuB95emGuNQ4ikqYmOh8OuvCIkUDky4LTAAJ7k3nlLEy1O1ANbuiZWgvDdvFbVXha00G1ugOBaC4zXHnmyyZyP--QO",
+  "salt": "fk0RC1-x_1XU_8VmOTgkhw==",
+  "text": "Berba stands as an Irish river goddess who guards the River Barrow. In early Irish narrative the name Berba is set on the Barrow itself. MacKillop records that usage and links the name to the river. The Book of Invasions joins Berba to Cesair, remembered as the first settler of the isle. Berba thus serves both as the river's title and as the guardian spirit who watches over its waters.",
   "entities": [
     {
       "entity": "Berba",
@@ -24,19 +17,31 @@
       "type": "Person"
     }
   ],
-  "sources": [
-    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+  "attributes": [
+    {
+      "entity": "Berba",
+      "attribute": "tutelary goddess of the River Barrow"
+    },
+    {
+      "entity": "Berba",
+      "attribute": "the name given for the River Barrow in early Irish narrative"
+    },
+    {
+      "entity": "Berba",
+      "attribute": "linked to Cesair, said to be the first to settle Ireland"
+    }
   ],
-  "cyphertext": "cWeZGoFtjAtbOhsK-jSUD8lMt0nifpJy6prNzwpISGYrjS9jG1tuB95emGuNQ4ikqYmOh8OuvCIkUDky4LTAAJ7k3nlLEy1O1ANbuiZWgvDdvFbVXha00G1ugOBaC4zXHnmyyZyP--QO",
-  "salt": "fk0RC1-x_1XU_8VmOTgkhw==",
-  "text": "Berba is an Irish goddess. She is the tutelary goddess of the River Barrow. In the Book of Invasions, the goddess Cesair is also called Berba. Cesair was Ireland's first settler. Berba is the proper title of the Barrow's guardian. She keeps a place among the Irish river goddesses.",
   "okr": {
-    "objective": "Berba is an Irish river goddess guarding the Barrow, whose name also names the early figure Cesair.",
+    "objective": "Present Berba as both the tutelary goddess and the early Irish name of the River Barrow.",
     "key_results": [
-      "Berba is the tutelary goddess of the River Barrow",
-      "The Book of Invasions links the name Berba to Cesair",
-      "Berba stands among the Irish river goddesses"
+      "Berba is the tutelary goddess of the River Barrow.",
+      "In early Irish narrative the name Berba stands for the Barrow itself.",
+      "A record joins Berba to Cesair, the first settler of Ireland."
     ],
-    "evidence": "Monaghan 2008, s.v. 'Berba'."
-  }
+    "evidence": "MacKillop 2008, s.v. Berba.; Monaghan 2008, s.v. 'Berba'."
+  },
+  "sources": [
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.",
+    "MacKillop 2008, s.v. Berba."
+  ]
 }

@@ -1,0 +1,33 @@
+{
+ "name": "Boa Island",
+ "image": [],
+ "cyphertext": "",
+ "salt": "",
+ "text": "Boa Island stands in the Erne waterway in Ireland. Its megalithic carvings belong to the Celtic-age record of the land. For the fuller account of the river that holds this islet, read the Erne entry.",
+ "entities": [
+  {
+   "entity": "Boa Island",
+   "type": "Place"
+  },
+  {
+   "entity": "Place",
+   "type": "Boa Island"
+  }
+ ],
+ "attributes": [
+  {
+   "entity": "Boa Island",
+   "attribute": "Erne"
+  }
+ ],
+ "okr": {
+  "objective": "Resolve Boa Island to its central entry.",
+  "key_results": [
+   "Boa Island links to Place."
+  ],
+  "evidence": "MacKillop 2008, s.v. Boa Island."
+ },
+ "sources": [
+  "MacKillop 2008, s.v. Boa Island."
+ ]
+}

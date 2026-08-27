@@ -1,0 +1,28 @@
+{
+  "name": "Breatan",
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "text": "Breatan names Britain in the Irish and Scottish Gaelic languages. In Irish the word Breatan usually marks Great Britain apart from Scotland. That northern land is called Alba. The form Breatach more often means a Briton. In Scottish Gaelic the word Breatan usually names Great Britain. It may also point to the fortress at Dumbarton, seen in Dùn Breatann.",
+  "entities": [
+    {"entity": "Breatan", "type": "Language"},
+    {"entity": "Britain", "type": "Place"},
+    {"entity": "Dumbarton", "type": "Place"},
+    {"entity": "Alba", "type": "Region"}
+  ],
+  "attributes": [
+    {"entity": "Breatan", "attribute": "serves as the Irish and Scottish Gaelic word for Britain"},
+    {"entity": "Breatan", "attribute": "can point to the fortress at Dumbarton as Dùn Breatann"},
+    {"entity": "Breatan", "attribute": "contrasts with Alba as the name for Scotland"}
+  ],
+  "okr": {
+    "objective": "This entry explains the Celtic words Breatan and its variants for Britain.",
+    "key_results": [
+      "Breatan names Britain in Irish and Scottish Gaelic",
+      "In Irish Breatan usually means Great Britain apart from Scotland",
+      "In Scottish Gaelic Breatan may name the fortress at Dumbarton"
+    ],
+    "evidence": "MacKillop 2008, s.v. Breatan."
+  },
+  "sources": ["MacKillop 2008, s.v. Breatan."]
+}

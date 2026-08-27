@@ -1,0 +1,39 @@
+{
+  "name": "Cairbre Cuanach",
+  "text": "Cairbre Cuanach belongs to the warriors of Ulster in the old accounts. He meets his end while fighting a desperate field. The text tells that he drowns in the fight against Cú Roi mac Dáiri. Cú Roi is a celebrated Munster champion of the great battle tale. Cairbre dies in the water before the struggle can close. His name survives only through this single moment of war. He thus holds a small place among the fallen men of Ulster.",
+  "entities": [
+    {
+      "entity": "Ulster",
+      "type": "Place"
+    },
+    {
+      "entity": "Cú Roi mac Dáiri",
+      "type": "Person"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Cairbre Cuanach",
+      "attribute": "an Ulster warrior"
+    },
+    {
+      "entity": "Cairbre Cuanach",
+      "attribute": "drowned in a battle with Cú Roi mac Dáiri"
+    }
+  ],
+  "okr": {
+    "objective": "Describe Cairbre Cuanach as an Ulster warrior who drowns in battle.",
+    "key_results": [
+      "Identifies Cairbre Cuanach as an Ulster warrior",
+      "States he drowns fighting Cú Roi mac Dáiri",
+      "Classifies the entry as a person-type node"
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Cairbre Cuanach'."
+  },
+  "sources": [
+    "MacKillop 2008, s.v. 'Cairbre Cuanach'."
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": ""
+}

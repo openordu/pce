@@ -1,0 +1,64 @@
+{
+  "name": "Black Book of Carmarthen",
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "entities": [
+    {
+      "entity": "Black Book of Carmarthen",
+      "type": "Group"
+    },
+    {
+      "entity": "Gwyn ap Nudd",
+      "type": "Person"
+    },
+    {
+      "entity": "Myrddin",
+      "type": "Person"
+    },
+    {
+      "entity": "Dyfed",
+      "type": "Place"
+    },
+    {
+      "entity": "Aberystwyth",
+      "type": "Place"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Black Book of Carmarthen",
+      "attribute": "holds the earliest complete manuscript of Welsh poetry"
+    },
+    {
+      "entity": "Black Book of Carmarthen",
+      "attribute": "transcribed near 1250"
+    },
+    {
+      "entity": "Black Book of Carmarthen",
+      "attribute": "kept at the National Library of Wales"
+    },
+    {
+      "entity": "Black Book of Carmarthen",
+      "attribute": "named from its dark cover"
+    },
+    {
+      "entity": "Black Book of Carmarthen",
+      "attribute": "carries verses that praise Gwyn ap Nudd and Myrddin"
+    }
+  ],
+  "okr": {
+    "objective": "Tell how the earliest full Welsh poetry manuscript survives today.",
+    "key_results": [
+      "A scribe of about 1250 copied its verses.",
+      "The volume now rests at the National Library of Wales at Aberystwyth.",
+      "Its black-title points to the dark cover, not to any polemic.",
+      "Heroes such as Gwyn ap Nudd appear in its pages, and many poems give the voice of Myrddin."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Black Book of Carmarthen'."
+  },
+  "sources": [
+    "MacKillop 2008, s.v. 'Black Book of Carmarthen'."
+  ],
+  "text": "The Black Book of Carmarthen is the earliest full collection of Welsh poetry. A scribe wrote it out near the year 1250. The volume now rests at the national library in Aberystwyth. Its verses span much time, from the ninth century to the close of the twelfth. A good share of the poems give praise to heroic men, most of all Gwyn ap Nudd. A fine number of them speak in the own voice of Myrddin. Carmarthen, which the Welsh call Caerfyrddin, was once a county of southern Wales until 1974. It now forms part of the land of Dyfed. The book earns its name of black from the colour of its cover. It does not rise from anger or harmful judgement. Two editors brought it to print. J. G. Evans saw it through in 1906. A. O. H. Jarman produced a later text in 1982."
+}

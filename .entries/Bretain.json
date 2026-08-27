@@ -1,0 +1,43 @@
+{
+  "name": "Bretain",
+  "attributes": [
+    {
+      "entity": "Bretain",
+      "attribute": "an Old Irish word for the island of Britain on its own"
+    },
+    {
+      "entity": "Alba",
+      "attribute": "the separate Old Irish and Scottish Gaelic name for Scotland"
+    }
+  ],
+  "entities": [
+    {
+      "entity": "Bretain",
+      "type": "Place"
+    },
+    {
+      "entity": "Britain",
+      "type": "Place"
+    },
+    {
+      "entity": "Alba",
+      "type": "Place"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. Bretain."
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "text": "Bretain is an Old Irish name for the island of Britain. The word marks out that island on its own, distinct from the land to its north. Irish and Scottish Gaelic kept a separate term, Alba, for Scotland. A writer who used Bretain meant the great southern island alone, not the whole mass of the British Isles. The name thus singles out Britain while leaving Scotland to its own old title.",
+  "okr": {
+    "objective": "Describe what the Old Irish word Bretain names.",
+    "key_results": [
+      "Bretain is an Old Irish name for the island of Britain on its own.",
+      "The word excludes Scotland, which Gaelic calls Alba.",
+      "The name therefore separates Britain from the wider British Isles."
+    ],
+    "evidence": "MacKillop 2008, s.v. Bretain."
+  }
+}

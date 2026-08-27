@@ -1,0 +1,24 @@
+{
+  "name": "Builg",
+  "text": "Builg names a people of history who came to settle in southeastern Ireland. They made their home near present-day Cork long before the Christian era. The group formed a division of the Belgae, who were P-Celtic speakers in Gaul and Britain. Writers also call them the Eranni, with the Latin form Iverni or Ivernians. They appear identical to the Fir Bodh, a people of the Lebor Gabala, also known as the Book of Invasions. The records name Lugaid as their ancestor. Lugaid came from Britain and was sent to conquer Ireland.",
+  "entities": [
+    {"entity": "Builg", "type": "Group"},
+    {"entity": "Belgae", "type": "Group"},
+    {"entity": "Erann", "type": "Group"},
+    {"entity": "Fir Bolg", "type": "Group"},
+    {"entity": "Lebor Gabala", "type": "concept"},
+    {"entity": "Lugaid", "type": "Person"}
+  ],
+  "attributes": [
+    {"entity": "Builg", "attribute": "a historical people who settled in southeastern Ireland near Cork"},
+    {"entity": "Belgae", "attribute": "the P-Celtic people of Gaul and Britain from whom the Builg derived"},
+    {"entity": "Fir Bolg", "attribute": "the people with whom the Builg appear identical"},
+    {"entity": "Erann", "attribute": "another name for the Builg, Latinized as Iverni"},
+    {"entity": "Lugaid", "attribute": "ancestor of the Builg who was sent from Britain to conquer Ireland"}
+  ],
+  "okr": {"objective": "Document the Builg people and their identity among early Irish groups.", "key_results": ["Recorded their settlement in southeastern Ireland near Cork.", "Linked them to the P-Celtic Belgae of Gaul and Britain.", "Matched them to the Fir Bodh of the Lebor Gabala."], "evidence": "MacKillop 2008, s.v. 'Builg'."},
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "sources": ["MacKillop 2008, s.v. 'Builg'."]
+}

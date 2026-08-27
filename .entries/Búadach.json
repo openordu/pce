@@ -1,0 +1,66 @@
+{
+  "name": "Búadach",
+  "text": "Búadach is a hero of the Ulster Cycle. He fought for the champion's portion at Fled Bricrenn. His rivals were Cúchulainn and Conall Cernach. The poet Aed took the wife of Conchobar. Her name was Mugain. The law would drown Aed for this bond. Búadach rushed out across the house to save him. He struck his head on a door lintel as he ran. The blow killed him at once. Yet he slew thirty executioners first. Aed escaped with his life. The name Búadach means victorious in English.",
+  "entities": [
+    {
+      "entity": "Búadach",
+      "type": "Person"
+    },
+    {
+      "entity": "Cúchulainn",
+      "type": "Person"
+    },
+    {
+      "entity": "Conall Cernach",
+      "type": "Person"
+    },
+    {
+      "entity": "Fled Bricrenn",
+      "type": "Text"
+    },
+    {
+      "entity": "Conchobar",
+      "type": "Person"
+    },
+    {
+      "entity": "Mugain",
+      "type": "Person"
+    },
+    {
+      "entity": "Aed",
+      "type": "Person"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Búadach",
+      "attribute": "a hero of the Ulster Cycle"
+    },
+    {
+      "entity": "Búadach",
+      "attribute": "contender for the champion's portion at Fled Bricrenn"
+    },
+    {
+      "entity": "Búadach",
+      "attribute": "died after striking his head on a lintel"
+    },
+    {
+      "entity": "Búadach",
+      "attribute": "slew thirty executioners to save Aed"
+    }
+  ],
+  "okr": {
+    "objective": "Present the Ulster hero Búadach and his final fight.",
+    "key_results": [
+      "Show Búadach as a rival to Cúchulainn and Conall Cernach at Fled Bricrenn.",
+      "Tell how Búadach died saving the poet Aed from Mugain's husband."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Búadach'."
+  },
+  "sources": [
+    "MacKillop 2008, s.v. 'Búadach'."
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": ""
+}
