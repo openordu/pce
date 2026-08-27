@@ -1,0 +1,25 @@
+{
+  "name": "Gwaelod",
+  "text": "Gwaelod is the Welsh name for the drowned land of Cantre’r Gwaelod. The story describes a fertile lowland that sank beneath the sea. Welsh tradition places this lost territory along the coast of Cardigan Bay. The fuller form Cantref-y-Gwaelod also appears in Welsh sources. The reader should consult the entry for Cantre’s Gwaelod.",
+  "entities": [
+    { "entity": "Cantre’r Gwaelod", "type": "Place" },
+    { "entity": "Cardigan Bay", "type": "Place" }
+  ],
+  "attributes": [
+    { "entity": "Gwaelod", "attribute": "the sunken lowland of Welsh story" }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Gwaelod'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Record the Welsh name Gwaelod for the drowned land.",
+    "key_results": [
+      "State that the land sank below the sea.",
+      "Point to the fuller entry for Cantre’r Gwaelod."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Gwaelod'"
+  }
+}
