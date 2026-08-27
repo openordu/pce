@@ -1,0 +1,34 @@
+{
+  "name": "Carbar",
+  "attributes": [
+    {
+      "entity": "Carbar",
+      "attribute": "a spelling variant of Cairbar"
+    },
+    {
+      "entity": "Cairbar",
+      "attribute": "the Irish warrior-hero this variant points to"
+    }
+  ],
+  "entities": [
+    {
+      "entity": "Cairbar",
+      "type": "person"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Carbar'."
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "text": "Carbar is a variant spelling of the Irish warrior-hero Cairbar.\nLater tradition celebrates Cairbar as a hero of renown.\nThis entry sends the reader to that fuller headword for the full account.",
+  "okr": {
+    "objective": "Carbar is a spelling variant of the Irish warrior-hero Cairbar.",
+    "key_results": [
+      "Carbar points to the headword Cairbar.",
+      "Later tradition counts Cairbar among the heroes of renown."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Carbar'."
+  }
+}

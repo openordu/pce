@@ -1,0 +1,51 @@
+{
+  "name": "Carantoc",
+  "text": "Carantoc was a Welsh saint of the sixth century. The Church once venerated him in Cardiganshire, now Dyfed. His feast day falls on 16 May. He founded the settlement of Llangrannog. He also travelled across Ireland in his lifetime. People in Brittany honoured him as Saint Karentec. His medieval hagiographers mixed in tales from secular story. These writers blended folk legend with the record of his deeds.",
+  "entities": [
+    {
+      "entity": "Cardiganshire",
+      "type": "Place"
+    },
+    {
+      "entity": "Dyfed",
+      "type": "Location"
+    },
+    {
+      "entity": "Brittany",
+      "type": "Place"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Cardiganshire",
+      "attribute": "the county that first venerated this saint"
+    },
+    {
+      "entity": "Llangrannog",
+      "attribute": "site of the monastery he founded"
+    },
+    {
+      "entity": "Brittany",
+      "attribute": "the land that knew him as Saint Karentec"
+    },
+    {
+      "entity": "Carantoc",
+      "attribute": "honoured on 16 May"
+    }
+  ],
+  "okr": {
+    "objective": "Record the sixth-century Welsh saint Carantoc and his far-reaching veneration.",
+    "key_results": [
+      "Place Carantoc in sixth-century Wales and Cardiganshire",
+      "Give his feast day of 16 May and the monastery at Llangrannog",
+      "Trace his travels in Ireland and his Brittany name"
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Carantoc'."
+  },
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "sources": [
+    "MacKillop 2008, s.v. 'Carantoc'."
+  ]
+}

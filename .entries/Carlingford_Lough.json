@@ -1,0 +1,47 @@
+{
+  "name": "Carlingford Lough",
+  "text": "Carlingford Lough is a sea inlet of striking size. It runs ten miles long and two miles wide. The water separates County Down from County Louth. Down lies in Northern Ireland, Louth in the Republic. Dundalk stands nine miles to the southwest. Much of the great Cattle Raid of Cooley unfolds on this water. The Newry Canal links the lough to Lough Neagh. The town of Carlingford sits on the southern shore of Louth.",
+  "entities": [
+    {
+      "entity": "Táin bó Cuailnge (Cattle Raid of Cooley)",
+      "type": "Concept"
+    },
+    {
+      "entity": "Lough Neagh",
+      "type": "Place"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "County Down",
+      "attribute": "the county of Northern Ireland west of the water"
+    },
+    {
+      "entity": "County Louth",
+      "attribute": "the county of the Republic beside the southern shore"
+    },
+    {
+      "entity": "Newry Canal",
+      "attribute": "waterway linking the Lough to Lough Neagh"
+    },
+    {
+      "entity": "Carlingford",
+      "attribute": "town standing on the south shore"
+    }
+  ],
+  "okr": {
+    "objective": "Record Carlingford Lough as the sea inlet known through the Cattle Raid of Cooley.",
+    "key_results": [
+      "Give the length and width of Carlingford Lough",
+      "Place it between two counties beside Dundalk",
+      "Connect it to the Tain and to Lough Neagh"
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Carlingford Lough'."
+  },
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "sources": [
+    "MacKillop 2008, s.v. 'Carlingford Lough'."
+  ]
+}
