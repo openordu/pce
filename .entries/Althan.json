@@ -1,0 +1,40 @@
+{
+  "name": "Althan",
+  "fname": "Althan.json",
+  "text": "Althan was the chief bard to Art, the king of Ireland, in the Ossianic verse of James Macpherson. Macpherson wrote the work in the year 1760 with the title Omen. The figure belongs to the invented poetic past that Macpherson built from Celtic themes.",
+  "entities": [
+    {
+      "entity": "Althan",
+      "type": "Character"
+    },
+    {
+      "entity": "Art",
+      "type": "Character"
+    },
+    {
+      "entity": "James Macpherson",
+      "type": "Character"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Althan",
+      "attribute": "chief bard of king Art in Macpherson's Omen from the year 1760"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Althan'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Record the chief bard Althan.",
+    "key_results": [
+      "Name Althan as the bard of king Art.",
+      "Date the verse to the year 1760.",
+      "Credit the text to Macpherson."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Althan'"
+  }
+}

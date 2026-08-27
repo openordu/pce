@@ -1,0 +1,52 @@
+{
+  "name": "Altrom Tige Dá Medar",
+  "fname": "Altrom_Tige_D_Medar.json",
+  "text": "Altrom Tige Dá Medar is a late Middle Irish tale of the Mythological Cycle. Its title is the Nurture of the Two Houses of the Milk. The text sits in the Book of Fermoy of the fifteenth century. It tells how the Tuatha Dé Danann scatter into the world of men. Their defeat came at Tailtiu and Druim Aiglen. On the advice of Manannán mac Lir the people go to the fairy mounds and choose Bodb as their king. Manannán gives the folk the veil of invisibility, the feast of Goibniu, and the Pigs of Manannán. Some scholars see a distant echo of the French story of the Holy Grail.",
+  "entities": [
+    {
+      "entity": "Altrom Tige Dá Medar",
+      "type": "Text"
+    },
+    {
+      "entity": "Tuatha Dé Danann",
+      "type": "Group"
+    },
+    {
+      "entity": "Manannán mac Lir",
+      "type": "Character"
+    },
+    {
+      "entity": "Bodb",
+      "type": "Character"
+    },
+    {
+      "entity": "Goibniu",
+      "type": "Character"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Altrom Tige Dá Medar",
+      "attribute": "late Middle Irish tale of the dispersal of the Tuatha"
+    },
+    {
+      "entity": "Manannán mac Lir",
+      "attribute": "arranged the dwellings of the people in the fairy mounds"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Altrom Tige Dá Medar'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Record the Irish tale of the Nurture of the Two Milk Vessels.",
+    "key_results": [
+      "Name the tale in the Mythological Cycle.",
+      "State the fate of the Tuatha after their defeat.",
+      "Note the gifts of Manannán and the echo of the Grail."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Altrom Tige Dá Medar'"
+  }
+}

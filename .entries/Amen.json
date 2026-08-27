@@ -1,0 +1,35 @@
+{
+  "name": "Amen",
+  "fname": "Amen.json",
+  "text": "Amen is the name of the cauldron of Ceridwen in the Welsh tradition. MacKillop records the word for the magic vessel of the goddess. The reader meets the object in the tales that gather around Ceridwen and her gift of wisdom.",
+  "entities": [
+    {
+      "entity": "Amen",
+      "type": "Object"
+    },
+    {
+      "entity": "Ceridwen",
+      "type": "Character"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Amen",
+      "attribute": "name of the cauldron of Ceridwen in Welsh tradition"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Amen'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Record the cauldron name Amen.",
+    "key_results": [
+      "Name the vessel of Ceridwen.",
+      "Give the word to the Welsh group."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Amen'"
+  }
+}

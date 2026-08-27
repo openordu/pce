@@ -1,0 +1,39 @@
+{
+  "name": "Amun",
+  "fname": "Amun.json",
+  "text": "Amun is an Irish chieftain in the Ossianic verse of James Macpherson. He is the father of Feard, a warrior who fell alone in a fight against the hero Cúchulain. MacKillop places the figure in the invented heroic world of the Ossian poems.",
+  "entities": [
+    {
+      "entity": "Amun",
+      "type": "Character"
+    },
+    {
+      "entity": "Feard",
+      "type": "Character"
+    },
+    {
+      "entity": "Cúchulain",
+      "type": "Character"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Amun",
+      "attribute": "Irish chieftain, father of Feard slain by Cúchulain"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Amun'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "State the chieftain Amun.",
+    "key_results": [
+      "Name Amun as the father of Feard.",
+      "Name the hero who overcame Feard."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Amun'"
+  }
+}

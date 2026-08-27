@@ -1,0 +1,52 @@
+{
+  "name": "Ana",
+  "fname": "Ana.json",
+  "text": "Ana is the chief goddess of the old faith of Ireland. She is the mother and nurse of the folk called the Tuatha Dé Danann. The Cormac's Glossary of the tenth century links her name to wealth and to the land. The D-form turns her name into Dana or Danu. She is likely the grandmother of Ecne, the personification of knowledge. She also stands as mother to the three sons of Tuireann, whose names are Brian, Iuchair, and Iucharba.",
+  "entities": [
+    {
+      "entity": "Ana",
+      "type": "Deity"
+    },
+    {
+      "entity": "Anu",
+      "type": "Deity"
+    },
+    {
+      "entity": "Tuatha Dé Danann",
+      "type": "Group"
+    },
+    {
+      "entity": "Ecne",
+      "type": "Character"
+    },
+    {
+      "entity": "Tuireann",
+      "type": "Character"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Ana",
+      "attribute": "chief goddess and mother of the Tuatha Dé Danann"
+    },
+    {
+      "entity": "Ana",
+      "attribute": "also known under the form Dana or Danu"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Ana'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Record the goddess Ana.",
+    "key_results": [
+      "State her role as mother of the Tuatha.",
+      "Name the glossary that links her to the land.",
+      "Give her kin, Ecne and the sons of Tuireann."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Ana'"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Anbúail",
+  "fname": "Anb_ail.json",
+  "text": "Anbúail is a short form of the name that MacKillop enters for the Irish hero. The dictionary sends the reader to the full head under Ethal Anbúail. The word belongs to the same figure and carries no story of its own.",
+  "entities": [
+    {
+      "entity": "Anbúail",
+      "type": "Character"
+    },
+    {
+      "entity": "Ethal Anbúail",
+      "type": "Character"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Anbúail",
+      "attribute": "short form pointing to Ethal Anbúail"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Anbúail'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Record the short form Anbúail.",
+    "key_results": [
+      "Name the shorter spelling.",
+      "Point the reader to Ethal Anbúail."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Anbúail'"
+  }
+}

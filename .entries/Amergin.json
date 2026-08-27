@@ -1,0 +1,35 @@
+{
+  "name": "Amergin",
+  "fname": "Amergin.json",
+  "text": "Amergin is one of the several forms of the name of the oldest poet of the Irish sagas. MacKillop keeps the form as a variant of the longer spelling. The name belongs to the same hero as the main head of the entry.",
+  "entities": [
+    {
+      "entity": "Amergin",
+      "type": "Character"
+    },
+    {
+      "entity": "Amairgen",
+      "type": "Character"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Amergin",
+      "attribute": "variant of the name of the poet Amairgen"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Amergin'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Give the variant Amergin.",
+    "key_results": [
+      "Name the form for a shorter spelling.",
+      "Link the word to the poet Amairgen."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Amergin'"
+  }
+}
