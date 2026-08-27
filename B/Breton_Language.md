@@ -2,15 +2,15 @@
 layout: layouts/pce.njk
 title: Breton language
 icon: file-lines
-order: 357
+order: 0
 contributors: [ 'Christopher Godwin' ]
 attributes:
   - Breton a Celtic tongue spoken in Brittany since the early Middle Ages
   - Modern Breton writing systems KLT, Peurunvan, and the University Orthography of 1941-1955
   - Breton today without official status and spoken by roughly 250,000 daily users
 categories:
-  - Language
   - Place
+  - Language
 entities:
   - Breton(Language)
   - Brittany(Place)
@@ -39,4 +39,5 @@ The Breton language is a Celtic tongue native to Brittany. It came to the mainla
 ``` tab [group1:Sources]
 - Koch 2006, s.v. 'Breton language'
 - Jackson, Kenneth. A Historical Phonology of the Breton Language. Dublin Institute for Advanced Studies, 1967.
+- MacKillop 2008, s.v. 'Breton language'.
 ```
