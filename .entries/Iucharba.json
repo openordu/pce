@@ -1,38 +1,74 @@
 {
-  "name": "Iucharba",
-  "attributes": [
-    {
-      "entity": "Iucharba",
-      "attribute": "a minor Irish divinity and one of the Sons of Tuireann"
-    }
-  ],
-  "entities": [
-    {
-      "entity": "Iucharba",
-      "type": "Person"
-    },
-    {
-      "entity": "Sons of Tuireann",
-      "type": "Group"
-    }
-  ],
-  "sources": [
-    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-  ],
-  "image": [
-    "https://upload.wikimedia.org/wikipedia/commons/5/5a/Brian_pig-skin_Millar.jpg"
-  ],
-  "cyphertext": "8tpqaPCHSyYGid5mtyEtFa-_HxqTsNcGZ_kFwcXgXvMYHPFQELvwsIyOjgvKyXrodQetKVnrUBE-zZ-rFYtoWQv4diA9yCh5I1e_71gu7dl4fSK9UHTSeoxhcXnIByPivqxQq-FVdmc7ID9ts4rk8gTmV8ShLsgn31DX0aSh_52Sp04-2Yst1iCsaV0GIZieF3_iSA==",
-  "salt": "MYAfXmBPuDRY-wBLj-hgpA==",
-  "text": "Iucharba is an Irish divinity. He was one of the Sons of Tuireann. He had a small role and little separate from this brothers.",
-  "okr": {
-    "objective": "Document Iucharba as a minor Irish divinity.",
-    "key_results": [
-      "Record Iucharba as one of the Sons of Tuireann.",
-      "Note his small part."
-    ],
-    "evidence": [
-      "Monaghan, P. The Encyclopedia of Celtic Mythology and Folklore (2008): Iucharba entry."
-    ]
+ "name": "Iucharba",
+ "attributes": [
+  {
+   "entity": "Iucharba",
+   "attribute": "one of the three sons of Tuireann, set with his brothers under a geis by Lug"
+  },
+  {
+   "entity": "sons of Tuireann",
+   "attribute": "bound by a geis to perform near-impossible tasks after slaying Cian"
   }
+ ],
+ "entities": [
+  {
+   "entity": "Iucharba",
+   "type": "Person"
+  },
+  {
+   "entity": "Iuchair",
+   "type": "Person"
+  },
+  {
+   "entity": "Brian",
+   "type": "Person"
+  },
+  {
+   "entity": "Tuireann",
+   "type": "Person"
+  },
+  {
+   "entity": "Tuatha Dé Danann",
+   "type": "Group"
+  },
+  {
+   "entity": "Lug Lámfhota",
+   "type": "Deity"
+  },
+  {
+   "entity": "Cian",
+   "type": "Person"
+  },
+  {
+   "entity": "Gáe Assail",
+   "type": "Artifact"
+  },
+  {
+   "entity": "Manannán mac Lir",
+   "type": "Deity"
+  },
+  {
+   "entity": "geis",
+   "type": "Concept"
+  }
+ ],
+ "sources": [
+  "MacKillop 2008, s.v. 'Iucharba'.",
+  "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+ ],
+ "image": [
+  "https://upload.wikimedia.org/wikipedia/commons/5/5a/Brian_pig-skin_Millar.jpg"
+ ],
+ "cyphertext": "8tpqaPCHSyYGid5mtyEtFa-_HxqTsNcGZ_kFwcXgXvMYHPFQELvwsIyOjgvKyXrodQetKVnrUBE-zZ-rFYtoWQv4diA9yCh5I1e_71gu7dl4fSK9UHTSeoxhcXnIByPivqxQq-FVdmc7ID9ts4rk8gTmV8ShLsgn31DX0aSh_52Sp04-2Yst1iCsaV0GIZieF3_iSA==",
+ "salt": "MYAfXmBPuDRY-wBLj-hgpA==",
+ "text": "Iucharba is one of the three children of Tuireann in Irish myth. His brothers are Brian and Iuchair, and the trio appears together in the tale Oidheadh Chlainne Tuireann, the story of the tribulations of the children of Tuireann. The brothers once killed Cian, and that deed turned the god Lug against them. To settle the blood price and win pardon, Lug bound them with a heavy geis, a chain of nearly impossible tasks. Under the demand they had to recover the spear Gáe Assail. That weapon was a blast of lightning, like the hammer of Thor, and it always came home to the hand that threw it. The spear had been stolen away to Persia, and Lug insisted that it be fetched back. The brothers also had to bring to Ireland the seven enchanted pigs of Assal of the Golden Pillars. These pigs could be slaughtered and feasted on, yet they would be found alive and whole with the next dawn. Their dried bones ended up inside the crane bag of Manannán mac Lir. Some accounts join the three brothers with the trio of kings who once held Tara in the age of the Tuatha Dé Danann. Iucharba holds a minor place and shares most of his story with the others. Readers therefore sometimes mistake the trio for one being who appears three times, and his name is often confused with that of Iuchair in the old lists. His tale, brief as it is, still belongs to the wider story of how the children of Tuireann paid for the death of Cian.",
+ "okr": {
+  "objective": "Document Iucharba, one of the three sons of Tuireann in Irish myth.",
+  "key_results": [
+   "Record Iucharba as a son of Tuireann with brothers Brian and Iuchair.",
+   "Tell the geis set by Lug after the slaying of Cian.",
+   "Describe the recoveries of Gáe Assail and the enchanted pigs."
+  ],
+  "evidence": "MacKillop 2008, s.v. 'Iucharba'."
+ }
 }

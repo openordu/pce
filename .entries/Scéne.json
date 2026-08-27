@@ -3,7 +3,7 @@
   "attributes": [
     {
       "entity": "Scéne",
-      "attribute": "an obscure heroine, also called Skena"
+      "attribute": "an obscure heroine, also called Skena and Scénae"
     },
     {
       "entity": "Scéne",
@@ -14,8 +14,20 @@
       "attribute": "died while the Milesians tried to invade Ireland"
     },
     {
+      "entity": "Inber Scéne",
+      "attribute": "a place-name in south-west Ireland that may memorialize her, possibly the mouth of the Kenmare River"
+    },
+    {
+      "entity": "Orosius",
+      "attribute": "a Spanish cleric whose account from ad 417 supports a link with the Shannon"
+    },
+    {
       "entity": "Book of Invasions",
       "attribute": "records her brief place in the invasion story"
+    },
+    {
+      "entity": "Amairgin",
+      "attribute": "the first poet of Ireland who compared himself to the wind, the wave, and the bull"
     }
   ],
   "entities": [
@@ -28,6 +40,10 @@
       "type": "Person"
     },
     {
+      "entity": "Scénae",
+      "type": "Person"
+    },
+    {
       "entity": "Amairgin",
       "type": "Person"
     },
@@ -36,8 +52,32 @@
       "type": "Group"
     },
     {
+      "entity": "Inber Scéne",
+      "type": "Place"
+    },
+    {
+      "entity": "Kenmare River",
+      "type": "Place"
+    },
+    {
+      "entity": "Kerry",
+      "type": "Place"
+    },
+    {
+      "entity": "Shannon",
+      "type": "Place"
+    },
+    {
+      "entity": "Orosius",
+      "type": "Person"
+    },
+    {
       "entity": "Ireland",
       "type": "Place"
+    },
+    {
+      "entity": "Taliesin",
+      "type": "Person"
     },
     {
       "entity": "Book of Invasions",
@@ -45,21 +85,22 @@
     }
   ],
   "sources": [
-    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.",
+    "MacKillop 2008, s.v. 'Inber Scéne'"
   ],
   "cyphertext": "HMB7pK7QmTxTYzj1ChgtZ42L7Mki90gueEmBjO_KvKqTUfOunLB_oaamdEZTRwF46RBhomsz_74BBbeW2b7LetBuCMXrsuW0MdoAQo0U3lu-OqdWhFsh7lrA7-H9-HtP1sG6iizzhfCCYWEv01t7deVWspPRIk4QlokCVLlD_-HH8MkWpoJih2uArTB7-PWZXEova-IIfv6iTJLrUc_UEnt9RnjykcBKODcbEYWjbfxfq0Bxe0hjKeCjT3qgMjTxoe9K3HDm39AOs61q0NfL8rpdcXYAIV89VB8Oi2u77wX89Ad3eA==",
   "salt": "kDusf68JzBLNS4oOrc8oeg==",
-  "text": "Scéne, also called Skena, was an Irish heroine. She appears in the Book of Invasions as an obscure figure. She was the wife of the great bard Amairgin. She died while her people, the Milesians, were trying to invade Ireland. The tale keeps her role small. She stands as the spouse of one of the chief poets of the Milesian settlers. Her death came at a moment of trial for her people. Details of her life beyond this remain few, and the sources give her only a brief place in the invasion story.",
+  "text": "Scéne, also called Skena and Scénae, was an obscure Irish heroine. She enters the Book of Invasions as the wife of the great bard Amairgin. She died before her people the Milesians could take the island. Her memory now rests mostly in a place name. Inber Scéne may be an imaginary place name in south Kerry. Some writers place the site at the Kenmare River mouth. That river runs through the modern county of Kerry. Others link the name to the broad water of the Shannon. This link rests on the evidence of a Spanish cleric. Orosius wrote his account of the world in ad 417. His testimony leads later commentators to the comparison. An older written form of the name is Inverskena. Both spellings point to the same honored woman. Amairgin was the first poet of Ireland. At the instant of landing in Ireland he recited a poem. In that verse he compares himself to the wind, the wave, and the bull. He also names the salmon, the sword, the plant, and the spear. This act gave lyric poetry to Ireland, so the texts claim. Commentators suggest Welsh storytellers took him as a model for Taliesin. Her own part in the story stays small and sad. She dies while her folk still press toward Ireland. She stands beside Amairgin, the poet of his people. Good detail in her tale beyond this is scarce. The drowned valley keeps her name alive across the years.",
   "okr": {
     "objective": "Document the Irish heroine Scéne.",
     "key_results": [
       "Record Scéne as the wife of the bard Amairgin.",
-      "Record her death during the Milesian invasion of Ireland.",
-      "Record her alternative name Skena."
+      "Record her death during the Milesian advance toward Ireland.",
+      "Record her alternative names Skena and Scénae.",
+      "Record the link from Inber Scéne to the Kenmare River and the Shannon.",
+      "Record Amairgin as the first poet of Ireland."
     ],
-    "evidence": [
-      "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore (2008): Scéne.",
-      "Koch, John T. Celtic Culture: A Historical Encyclopedia (2006): no separate Scéne entry."
-    ]
-  }
+    "evidence": "MacKillop 2008, s.v. 'Inber Scéne'"
+  },
+  "image": null
 }
