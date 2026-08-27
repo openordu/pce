@@ -1,0 +1,44 @@
+{
+  "name": "Ardfert",
+  "fname": "Ardfert.json",
+  "text": "Ardfert is a village in the county of Kerry in Ireland. The name of the village means the height of the grave in the old tongue. Ardfert stands about eight miles west of the town of Tralee. It was a home of the church from the early years of the faith. The saint Brendan kept his house here, and people call him Brendan of Ardfert.",
+  "entities": [
+    {
+      "entity": "Ardfert",
+      "type": "Place"
+    },
+    {
+      "entity": "Kerry",
+      "type": "Place"
+    },
+    {
+      "entity": "Tralee",
+      "type": "Place"
+    },
+    {
+      "entity": "Brendan",
+      "type": "Person"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Ardfert",
+      "attribute": "village in the county of Kerry, home of the saint Brendan"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Ardfert'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Record the village of Ardfert.",
+    "key_results": [
+      "Set the village in the county of Kerry.",
+      "Place it near the town of Tralee.",
+      "Name the saint of the land."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Ardfert'"
+  }
+}

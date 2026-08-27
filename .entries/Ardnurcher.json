@@ -1,0 +1,35 @@
+{
+  "name": "Ardnurcher",
+  "fname": "Ardnurcher.json",
+  "text": "Ardnurcher is the older name of a place on the edge of the county of the middle of Ireland. The town is known today under the name of Horseleap. The book sends the reader to the full head of the ancient name in the same rolls. The old English words of the name carry the sense of a beast making a leap over a stream.",
+  "entities": [
+    {
+      "entity": "Ardnurcher",
+      "type": "Place"
+    },
+    {
+      "entity": "Horseleap",
+      "type": "Place"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Ardnurcher",
+      "attribute": "old name of the place known today as Horseleap"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Ardnurcher'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Record the old name of the place.",
+    "key_results": [
+      "Point to the full head of the name.",
+      "Give the modern form Horseleap."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Ardnurcher'"
+  }
+}

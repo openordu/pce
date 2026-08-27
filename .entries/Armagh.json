@@ -1,0 +1,36 @@
+{
+  "name": "Armagh",
+  "fname": "Armagh.json",
+  "text": "Armagh is a city and the chief seat of the church in the north of Ireland. The old name of the place means the height of the head of the land. The city serves as the see of the high church of the whole land. The shrine of the mission man stands inside the same walls. The school of the land sits within the old city of the north.",
+  "entities": [
+    {
+      "entity": "Armagh",
+      "type": "Place"
+    },
+    {
+      "entity": "Patrick",
+      "type": "Person"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Armagh",
+      "attribute": "city and chief seat of the church of the north"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Armagh'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Record the city of Armagh.",
+    "key_results": [
+      "Set the city in the north.",
+      "Give the old sense of the name.",
+      "Name the see of the church."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Armagh'"
+  }
+}
