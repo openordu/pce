@@ -1,44 +1,47 @@
 {
- "name": "Llyn Tegid",
- "attributes": [
-  {
-   "entity": "Llyn Tegid",
-   "attribute": "the lake Bala in north Wales"
-  },
-  {
-   "entity": "Ceridwen",
-   "attribute": "lived on an isle in the lake"
-  }
- ],
- "entities": [
-  {
-   "entity": "Llyn Tegid",
-   "type": "Place"
-  },
-  {
-   "entity": "Ceridwen",
-   "type": "Deity"
-  },
-  {
-   "entity": "Tegid",
-   "type": "Person"
-  }
- ],
- "sources": [
-  "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
- ],
- "image": [
-  "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Bala_Lake.jpg/1200px-Bala_Lake.jpg"
- ],
- "cyphertext": "54LPTJqLDIzvh8aQ6YCNJbuXjn1FokHH_LsabucYSj8UZ8hd_DrJNVoik_QtGBV4ixw=",
- "salt": "eNn9szp3orNeaO8oTZ5iCw==",
- "text": "Llyn Tegid is a cross reference to the fuller note on TEGID. The words name the lake Bala in north Wales. The record says a fearsome goddess, CERIDWEN, lived with her mate TEGID VOEL on an isle in the middle of the lake. The reader is sent to the main Tegid entry for the full tale.",
- "okr": {
-  "objective": "Keep the cross note Llyn Tegid to the Tegid account.",
-  "key_results": [
-   "Name the lake and its isle.",
-   "Point to the fuller Tegid record."
+  "name": "Llyn Tegid",
+  "attributes": [
+    {
+      "entity": "Llyn Tegid",
+      "attribute": "the lake Bala in north Wales"
+    },
+    {
+      "entity": "Ceridwen",
+      "attribute": "lived on an isle in the lake"
+    }
   ],
-  "evidence": "Monaghan 2008, s.v. 'Llyn Tegid'."
- }
+  "entities": [
+    {
+      "entity": "Llyn Tegid",
+      "type": "Place"
+    },
+    {
+      "entity": "Ceridwen",
+      "type": "Deity"
+    },
+    {
+      "entity": "Tegid",
+      "type": "Person"
+    }
+  ],
+  "sources": [
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.",
+    "MacKillop 2008, s.v. 'Llyn Tegid'."
+  ],
+  "image": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Bala_Lake.jpg/1200px-Bala_Lake.jpg"
+  ],
+  "cyphertext": "54LPTJqLDIzvh8aQ6YCNJbuXjn1FokHH_LsabucYSj8UZ8hd_DrJNVoik_QtGBV4ixw=",
+  "salt": "eNn9szp3orNeaO8oTZ5iCw==",
+  "text": "Llyn is the Welsh word for a lake. It forms the first element of many place-names. Llyn Tegid is the Welsh name for Bala Lake in north Wales. The lake sits at the heart of the story Hanes Taliesin, the Story of Taliesin. In that tale the sorceress Ceridwen and her husband Tegid Foel make their home by its banks. Ceridwen brewed a cauldron of inspiration beside these waters. She meant the brew for her own son. A drop of the magic fell on the boy Gwion. He licked his finger and took all the wisdom into himself. The chase that followed broke on the shores of the lake. Ceridwen then gave birth anew to the bard Taliesin. Early Welsh verse sets these events near the still water. The lake is a real body of water in modern Wales. It is also a gate into the wonder-tale of the bright brow. The name Llyn links the plain word for water with a place where a goddess worked her magic. From this lake the whole story of Ceridwen and Taliesin unfolds. Llyn Tegid is thus both a true place and a shrine of tales. Its quiet water holds the memory of the cauldron and the tasting boy who became the chief of bards. The water keeps its old name, and the tale of the tasting boy still clings to its quiet edge. The lake that saw the cauldron and the tasting boy holds a lasting place in Welsh memory of Ceridwen and Taliesin.",
+  "okr": {
+    "objective": "record Llyn Tegid as Bala Lake and site of the Ceridwen tale",
+    "key_results": [
+      "say Llyn is the Welsh word for lake",
+      "name Llyn Tegid as Bala Lake",
+      "place Ceridwen and Tegid Foel by its banks",
+      "tie the cauldron and Gwion to this lake"
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Llyn Tegid'"
+  }
 }
