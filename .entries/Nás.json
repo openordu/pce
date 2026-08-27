@@ -1,135 +1,101 @@
 {
-  "name": "Nás",
-  "sources": [
-    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-  ],
-  "cyphertext": "4cE8LhpAEE2o44rzTlEw4O90SlJhjtw4Lu9OMVQk5ZDRYv3Dbe5nxV669z3IfTPADSZpJkkttvPxrOg0zNW8UbYVfSv7O8dwIlRh8skwFAQYmhhqwqpTSa4m_XZDPKhKsshPCUQ30SKOFmmWPZjDG8tG-t-9XFPeWp1OWXQ1lllBJHMkW7HwQqlRdEkJUovSh0qqT1YIbWwLqC0r1-BvQT8v--Kfm9j6wuPiVAZUAcECclGrxdEccaPayiCHUCo_E2FbPYoTRbxCxpKr8TzvrNOMowMnQkTCjiTG3aydAo5EfcZ0xat5uO0p-1sZd-jePYeLGThjQHOT7IAW8RKQqF-n-w4MgciQbLvvHVCvZPPwg10WmtyUvNgsHqOxbiYwhhoa4WeaY66A3cF4KnY_v2USlIvKxZ3ahk69fDQp6lykEFrbxrjzq1JFI3CLHUMBfYWBaoP62ir9Uf9T3cH0iuE0C5GydhUZDcbFxVCuDwv_TeXdnPhnBWa3SQEkBOkfG2DRcb2nWhrpAwXuutcIiO6JCpBbwXl82GPy6J2lvF4yheItWnQMCieeXuOqQo6WgW-SwKSRjIF-H9IarQkBcguVw_T4_sf1ZlAS23QJVj1k4cT1nxDSG9S4NQ8uS9lML6C-ZZPqBO_RTJFqjUfRYMFED5oALmgx8zuUJmrc-zwkVxD4E5D2pyIrh1fX0Vb69xnYZyaktMFOniBQc47NK1SSIRutmN3CeqBiYe9i_AESbY-gSPFzoTuoSfc9CdjYstYXMo0TH_bwiFGZcWE147iUQjRhzvNjdiCT-KwyPjHMsBIDxdBGsW84Lz4jY415Vamk89PISsIK4KKdqyblOHsf_xpGmVZ-ypnnY6t3zBXWuDPc8G_6miVJQf93no4bgujEaLe53lT9O-Yk",
-  "salt": "xzb3YK9Fw181LkBkAu5-5Q==",
-  "text": "The Fir Bolg reached Ireland under their leader Dela, the people the extract calls NASA. Dela split the island among his sons. Gann and Sengann took Munster. Leinster went to Slane, and Ulster to Rudraige. Notable Fir Bolg kings included Eochaid mac Eirc, master of the central province with his wife Tailtiu. Rinnal devised spear points. Delga raised Dun Delgan, the fort later called Dundalk in Co. Louth. The Fir Bolg also counted the healer Fingein Fisiochda and the hero Sreng among them. The Fir Bolg held power for just 37 years before the Tuatha De Danann appeared. At the first fight at Mag Tuired, Nuada pushed the Fir Bolg from Ireland at the cost of his arm and his throne. The defeated Fir Bolg fell back to the Aran Islands, where their king Aonghus built Dun Aongusa, and to islands off Scotland and wild Connemara. Their memory survives in place-names such as Dun Bolg (Co. Wicklow), Moherbullog (Co. Clare), and Moyboulogue (Co. Cavan).",
-  "entities": [
-    {
-      "entity": "Nás",
-      "type": "hero"
-    },
-    {
-      "entity": "Fir Bolg",
-      "type": "group"
-    },
-    {
-      "entity": "Dela",
-      "type": "person"
-    },
-    {
-      "entity": "Gann",
-      "type": "person"
-    },
-    {
-      "entity": "Sengann",
-      "type": "person"
-    },
-    {
-      "entity": "Slane",
-      "type": "person"
-    },
-    {
-      "entity": "Rudraige",
-      "type": "person"
-    },
-    {
-      "entity": "Munster",
-      "type": "place"
-    },
-    {
-      "entity": "Leinster",
-      "type": "place"
-    },
-    {
-      "entity": "Ulster",
-      "type": "place"
-    },
-    {
-      "entity": "Eochaid mac Eirc",
-      "type": "person"
-    },
-    {
-      "entity": "Tailtiu",
-      "type": "person"
-    },
-    {
-      "entity": "Rinnal",
-      "type": "person"
-    },
-    {
-      "entity": "Delga",
-      "type": "person"
-    },
-    {
-      "entity": "Dun Delgan",
-      "type": "place"
-    },
-    {
-      "entity": "Fingein Fisiochda",
-      "type": "person"
-    },
-    {
-      "entity": "Sreng",
-      "type": "hero"
-    },
-    {
-      "entity": "Tuatha De Danann",
-      "type": "group"
-    },
-    {
-      "entity": "Nuada",
-      "type": "god"
-    },
-    {
-      "entity": "Mag Tuired",
-      "type": "place"
-    },
-    {
-      "entity": "Aran Islands",
-      "type": "place"
-    },
-    {
-      "entity": "Dun Aongusa",
-      "type": "place"
-    },
-    {
-      "entity": "Connemara",
-      "type": "place"
-    }
-  ],
-  "attributes": [
-    {
-      "entity": "Fir Bolg",
-      "attribute": "reached Ireland under the leadership of Dela"
-    },
-    {
-      "entity": "Dela",
-      "attribute": "divided the island among his sons"
-    },
-    {
-      "entity": "Fir Bolg",
-      "attribute": "ruled for 37 years before the Tuatha De Danann arrived"
-    },
-    {
-      "entity": "Nuada",
-      "attribute": "drove the Fir Bolg out at the first battle of Mag Tuired"
-    },
-    {
-      "entity": "Fir Bolg",
-      "attribute": "retreated to the Aran Islands and other fringes"
-    }
-  ],
-  "okr": {
-    "objective": "Nas is the name behind the account of the Fir Bolg and their rule of Ireland.",
-    "key_results": [
-      "Dela divided Ireland among his sons, giving each province a ruler.",
-      "Notable Fir Bolg kings included Eochaid mac Eirc, Rinnal, and Delga.",
-      "The Fir Bolg ruled 37 years before the Tuatha De Danann arrived.",
-      "Nuada drove them out at Mag Tuired, losing his arm and his throne in the process."
-    ],
-    "evidence": "Monaghan, Encyclopedia of Celtic Mythology and Folklore"
+ "name": "Nás",
+ "cyphertext": "4cE8LhpAEE2o44rzTlEw4O90SlJhjtw4Lu9OMVQk5ZDRYv3Dbe5nxV669z3IfTPADSZpJkkttvPxrOg0zNW8UbYVfSv7O8dwIlRh8skwFAQYmhhqwqpTSa4m_XZDPKhKsshPCUQ30SKOFmmWPZjDG8tG-t-9XFPeWp1OWXQ1lllBJHMkW7HwQqlRdEkJUovSh0qqT1YIbWwLqC0r1-BvQT8v--Kfm9j6wuPiVAZUAcECclGrxdEccaPayiCHUCo_E2FbPYoTRbxCxpKr8TzvrNOMowMnQkTCjiTG3aydAo5EfcZ0xat5uO0p-1sZd-jePYeLGThjQHOT7IAW8RKQqF-n-w4MgciQbLvvHVCvZPPwg10WmtyUvNgsHqOxbiYwhhoa4WeaY66A3cF4KnY_v2USlIvKxZ3ahk69fDQp6lykEFrbxrjzq1JFI3CLHUMBfYWBaoP62ir9Uf9T3cH0iuE0C5GydhUZDcbFxVCuDwv_TeXdnPhnBWa3SQEkBOkfG2DRcb2nWhrpAwXuutcIiO6JCpBbwXl82GPy6J2lvF4yheItWnQMCieeXuOqQo6WgW-SwKSRjIF-H9IarQkBcguVw_T4_sf1ZlAS23QJVj1k4cT1nxDSG9S4NQ8uS9lML6C-ZZPqBO_RTJFqjUfRYMFED5oALmgx8zuUJmrc-zwkVxD4E5D2pyIrh1fX0Vb69xnYZyaktMFOniBQc47NK1SSIRutmN3CeqBiYe9i_AESbY-gSPFzoTuoSfc9CdjYstYXMo0TH_bwiFGZcWE147iUQjRhzvNjdiCT-KwyPjHMsBIDxdBGsW84Lz4jY415Vamk89PISsIK4KKdqyblOHsf_xpGmVZ-ypnnY6t3zBXWuDPc8G_6miVJQf93no4bgujEaLe53lT9O-Yk",
+ "salt": "xzb3YK9Fw181LkBkAu5-5Q==",
+ "text": "Nás is an Irish goddess remembered as a wife of the radiant god Lug Lámfhota. Her name also appears in the spellings Naas and Nass. Tradition gives that god four wives, and Nás stands among them. Received lore credits Lug with every art. It sets him over the Tuatha Dé Danann as their king. A goddess joined to such a figure carried weight in the tales of medieval Ireland. Irish tales often pair gods with more than one consort, and the lists of partners vary between sources.\n\nFolk invention later claimed the town of Naas as the scene of her birth or burial. The town lies west of Dublin in County Kildare, within the old kingdom of Leinster. Its Irish title, Nos na Riogh, marks it as the place where kings held assembly. The title still points to that role and pictures a town built for gathering rather than for war. The name thus reads as a memorial, as if the whole town kept the goddess in view. MacKillop flags those birth and burial claims as invention by storytellers rather than settled doctrine. Irish tradition often frames a place as the grave of the figure who lent it a name. Naas follows that pattern. Place-name lore of this kind gave communities a way to anchor their gods in the landscape they farmed.\n\nThe record adds firmer ground beneath the legend. Naas itself stood as a royal seat of the Leinster kings until the tenth century. It served them as a home and as a gathering ground for their great assemblies. At such gatherings the men of the province heard judgments, settled disputes, and renewed their loyalty to their rulers. A visitor to Naas therefore walked through a working centre of kingship, not only a stage for legend. The folk tale and the political record meet in one site, and each explains a different layer of Naas.\n\nA closing note: the earlier base text for this entry recounted the settlement of Ireland by the Fir Bolg. That material arose from a homograph slip and belongs to another subject, so this entry leaves it aside.",
+ "entities": [
+  {
+   "entity": "Nás",
+   "type": "goddess"
+  },
+  {
+   "entity": "Lug Lámfhota",
+   "type": "god"
+  },
+  {
+   "entity": "Naas",
+   "type": "place"
+  },
+  {
+   "entity": "Nos na Riogh",
+   "type": "concept"
+  },
+  {
+   "entity": "County Kildare",
+   "type": "place"
+  },
+  {
+   "entity": "Dublin",
+   "type": "place"
+  },
+  {
+   "entity": "Leinster",
+   "type": "place"
+  },
+  {
+   "entity": "kings of Leinster",
+   "type": "group"
+  },
+  {
+   "entity": "Tuatha Dé Danann",
+   "type": "group"
+  },
+  {
+   "entity": "Fir Bolg",
+   "type": "group"
   }
+ ],
+ "attributes": [
+  {
+   "entity": "Nás",
+   "attribute": "Irish goddess counted among the four wives of Lug Lámfhota"
+  },
+  {
+   "entity": "Nás",
+   "attribute": "name also spelled Naas and Nass"
+  },
+  {
+   "entity": "Nás",
+   "attribute": "made by folk invention the birth- or burial-place claim of the town of Naas"
+  },
+  {
+   "entity": "Naas",
+   "attribute": "Irish name Nos na Riogh, the place where kings held assembly"
+  },
+  {
+   "entity": "Naas",
+   "attribute": "royal seat of the Leinster kings until the tenth century"
+  },
+  {
+   "entity": "Naas",
+   "attribute": "gathering ground for the great assemblies of the province"
+  },
+  {
+   "entity": "Lug Lámfhota",
+   "attribute": "god with four wives, credited in received lore with every art"
+  },
+  {
+   "entity": "kings of Leinster",
+   "attribute": "held Naas as a residence until the tenth century"
+  },
+  {
+   "entity": "Fir Bolg",
+   "attribute": "subject of the earlier base text, set aside here as a homograph slip"
+  }
+ ],
+ "sources": [
+  "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.",
+  "MacKillop 2008, s.v. 'Nás'"
+ ],
+ "okr": {
+  "objective": "Nás is an Irish goddess and wife of Lug Lámfhota whom folk invention tied to the town of Naas.",
+  "key_results": [
+   "Tradition counts Nás among four wives given to the god Lug Lámfhota.",
+   "Folk invention claimed the town of Naas as the scene of her birth or burial.",
+   "The town's Irish name, Nos na Riogh, marks it as the place where kings held assembly.",
+   "Naas served the Leinster kings as a royal seat until the tenth century.",
+   "The site gathered the great assemblies of the province under its royal role."
+  ],
+  "evidence": "MacKillop 2008, s.v. 'Nás'"
+ }
 }

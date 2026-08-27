@@ -1,83 +1,187 @@
 {
-    "name": "Partholón",
-    "attributes": [
-        {
-            "entity": "Partholón",
-            "attribute": "the least significant of the invaders"
-        },
-        {
-            "entity": "Partholón",
-            "attribute": "came to Ireland from Greece"
-        },
-        {
-            "entity": "Partholón",
-            "attribute": "fought the Fomorians in a magical battle"
-        },
-        {
-            "entity": "Partholón",
-            "attribute": "son of Sera, leader of the second settlement of Ireland"
-        },
-        {
-            "entity": "Partholón",
-            "attribute": "name probably derives from the biblical Bartholomaeus, since no Irish name opens with P"
-        },
-        {
-            "entity": "Partholón",
-            "attribute": "buried at Tallaght in County Dublin"
-        },
-        {
-            "entity": "Mag nElta",
-            "attribute": "chief settlement of the Partholonians, where Dublin later rose"
-        }
-    ],
-    "entities": [
-        {
-            "entity": "Partholón",
-            "type": "Person"
-        },
-        {
-            "entity": "Ireland",
-            "type": "Place"
-        },
-        {
-            "entity": "Book of Invasions",
-            "type": "Text"
-        },
-        {
-            "entity": "Fomorians",
-            "type": "Group"
-        },
-        {
-            "entity": "Scél Tuáin meic Cairill",
-            "type": "text"
-        },
-        {
-            "entity": "Historia Brittonum",
-            "type": "text"
-        },
-        {
-            "entity": "Lug",
-            "type": "god"
-        },
-        {
-            "entity": "Mag nElta",
-            "type": "place"
-        }
-    ],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.",
-        "Koch 2006, s.v. 'Partholón'"
-    ],
-    "cyphertext": "UfVo4PASGAUEiwMyplNb65-kOzTggIlPvjGCPTbOd-SJTMnPXBJLtTLPXMA8_2p2Jwxzvn00VFKEp_0SaTGM61BM6aMLqwEwPqLRzfHHo4Kqsd-z3a1-JBn4x-kw8jm1ZhCxEeuEthCFltk_ljcxuX8t8Zj69yy-cHsBi5qXq5siANZKQWYZcVrgHDQZY-h26eKm4HwMAUDhgIYOjAsdj_qoAIOK4VTUQYOf0g2EQEn0Zi77TfQ4eBGLvFrMbVG2GjHf6upb1tZhL7HA43eTBvZBAEvU2I7N0T9pQ6Ir2KCIBxcJp_xkf2ely6ozevmZyFfIady1ouS4eS5Vo3DvIYY3gCTxMfjmjGWby3SajCfxAsDDSPdsg3O3elDemrXBX8wSDC8fddGZCjQtfGC7PTIhsup5Db6JQ4tqfzjk8PSYj_bDuIlmxJ4u0SZxxVxSM48FEiN-8-6-kW-eB6Ejf_llSZ_8nC4U3RMonCXSfWPFPWk4ftaV_FsKhUGZRak1whI0eOaKLHuMl4qL2t2GnIs_OjBTCFj2csw1IKwMIBJ8WrwsDwYRkEiQs0B6_KYLsj9ALdqHIoDNvhVYGZdstRNpewW5sbVZ2enz11GkhhtiVf0hNCm8XySKxzxZRTwtQodfujY3SknTykpkvBZEIigrrk277t2YuQmhlTu-crcilpcgBCFLFWDO6TwBy0sZa965yoZ7zOro7msfy2ki3zWpj4mhXy_mzxz-a1a8nl4dDqqAiBcYbH_FtQRCIYD6ihPZRl4OAWLNneiHlCyJyyPiBt6tGj03lWUeljoXF_0KiY-ccr8NxKccbdxXUsB5nHeJTQE7J3EbReVJqREw3mQQ8ehcyqagtukv3LRQwR0F345T57ecclB-v5UTwQe2VcGi1u4ZxtCspZ8FSCTejepi-9moY531AnZYHSyFS5dcMeCWDyoZLbeZv9NAopfJG4YTtKZJ9P5Q9z1vwv8Nwat8YeoriUA7W8B2ZHtO8oo9-Ts4Ukv2CryKRH8VseCRYxGHGmVao8RmJKTzR1ovX2c4-wSjqPShgODD0lNZDJy0v5YxA2bgonKl7rLISh6IQjl6UtegikD3W_4lbcdwlqofLk7jtC-sYtbzY8CGIahjjpgCU21syQ-OZ-5N_QphcLk-18_DrnwyrTJzzYA=",
-    "salt": "vOE8nE_6AZgDRKQ5VqmWNg==",
-    "text": "Partholón, son of Sera son of Srú, led the second settlement of Ireland. It came, per Lebar Gabála, three centuries after the Flood. Earlier texts differ. Historia Brittonum casts his people as the island's first settlers. Scél Tuáin meic Cairill names him a Greek. Plague wiped out his Partholonians. Their chief seat occupied Mag nElta, where Dublin later rose. Some writers styled him chief of every craft, aligned with the all-skilled Lug. He rests at Tallaght. His name may come from the biblical Bartholomaeus, for no native Irish name begins with the letter P.",
-    "okr": {
-        "objective": "Frame Partholón as leader of the second settlers of Ireland, whose name is a learned invention.",
-        "key_results": [
-            "Set Partholón as son of Sera, whom the Book of Invasions places three centuries after the Flood.",
-            "Show that earlier and later texts give Partholón differing origins and settlements.",
-            "Record that plague wiped out his Partholonians and that their main seat was Mag nElta."
-        ],
-        "evidence": "Koch 2006, s.v. 'Partholón'"
-    }
+ "name": "Partholón",
+ "cyphertext": "UfVo4PASGAUEiwMyplNb65-kOzTggIlPvjGCPTbOd-SJTMnPXBJLtTLPXMA8_2p2Jwxzvn00VFKEp_0SaTGM61BM6aMLqwEwPqLRzfHHo4Kqsd-z3a1-JBn4x-kw8jm1ZhCxEeuEthCFltk_ljcxuX8t8Zj69yy-cHsBi5qXq5siANZKQWYZcVrgHDQZY-h26eKm4HwMAUDhgIYOjAsdj_qoAIOK4VTUQYOf0g2EQEn0Zi77TfQ4eBGLvFrMbVG2GjHf6upb1tZhL7HA43eTBvZBAEvU2I7N0T9pQ6Ir2KCIBxcJp_xkf2ely6ozevmZyFfIady1ouS4eS5Vo3DvIYY3gCTxMfjmjGWby3SajCfxAsDDSPdsg3O3elDemrXBX8wSDC8fddGZCjQtfGC7PTIhsup5Db6JQ4tqfzjk8PSYj_bDuIlmxJ4u0SZxxVxSM48FEiN-8-6-kW-eB6Ejf_llSZ_8nC4U3RMonCXSfWPFPWk4ftaV_FsKhUGZRak1whI0eOaKLHuMl4qL2t2GnIs_OjBTCFj2csw1IKwMIBJ8WrwsDwYRkEiQs0B6_KYLsj9ALdqHIoDNvhVYGZdstRNpewW5sbVZ2enz11GkhhtiVf0hNCm8XySKxzxZRTwtQodfujY3SknTykpkvBZEIigrrk277t2YuQmhlTu-crcilpcgBCFLFWDO6TwBy0sZa965yoZ7zOro7msfy2ki3zWpj4mhXy_mzxz-a1a8nl4dDqqAiBcYbH_FtQRCIYD6ihPZRl4OAWLNneiHlCyJyyPiBt6tGj03lWUeljoXF_0KiY-ccr8NxKccbdxXUsB5nHeJTQE7J3EbReVJqREw3mQQ8ehcyqagtukv3LRQwR0F345T57ecclB-v5UTwQe2VcGi1u4ZxtCspZ8FSCTejepi-9moY531AnZYHSyFS5dcMeCWDyoZLbeZv9NAopfJG4YTtKZJ9P5Q9z1vwv8Nwat8YeoriUA7W8B2ZHtO8oo9-Ts4Ukv2CryKRH8VseCRYxGHGmVao8RmJKTzR1ovX2c4-wSjqPShgODD0lNZDJy0v5YxA2bgonKl7rLISh6IQjl6UtegikD3W_4lbcdwlqofLk7jtC-sYtbzY8CGIahjjpgCU21syQ-OZ-5N_QphcLk-18_DrnwyrTJzzYA=",
+ "salt": "vOE8nE_6AZgDRKQ5VqmWNg==",
+ "text": "Partholón, son of Sera son of Srú, led the second settlement of Ireland. It came, per Lebar Gabála, about three centuries after the Flood. Earlier texts differ. Historia Brittonum casts his people as the island's first settlers. Scél Tuáin meic Cairill names him a Greek. No native Irish name begins with the letter P, so scribes borrowed his name. MacKillop traces it probably to Bartholomaeus. Jerome and Isidore explain it as meaning one who stays the waters, a Flood survivor. The ancient name Parthia, for northern Iran, is another candidate. His biblical pedigree descends from Magog, a figure of Abraham's own day. Tradition also records a Greek prince who killed his own father, Sera, and his mother, hoping to seize their kingdom. That crime blinded him in the left eye and cursed his fortune. Writers still styled him chief of every craft, aligned with the all-skilled Lug. After seven years of wandering, he reached Ireland. He brought Dealgnaid his wife, three sons, and a wife for each son. The fuller list of sons names Er, Ferann, Feigna, Laiglinni, Orba, Rudraige, and Sláine. Three brother druids served him: Eólas, Fios, and Fochmarc. One day, during a hunt, Dealgnaid lay with the servant Todga, Irish literature's first adultery. Some texts show a furious outburst. Others keep her verse plea, that nobody should have left her beside such temptation. He fought the Fomorians in a magical battle. Plague wiped out his Partholonians. Partholón himself died near present-day Tallaght after thirty years in the island. One hundred and twenty years after his death, plague killed the last of his people there. Their chief seat occupied Mag nElta, where Dublin later rose. Later genealogies never cite his name. A shard of his persona survives as Parthanán, an agricultural demon who threshes ripe grain at harvest. He rests at Tallaght.",
+ "entities": [
+  {
+   "entity": "Partholón",
+   "type": "Person"
+  },
+  {
+   "entity": "Ireland",
+   "type": "Place"
+  },
+  {
+   "entity": "Book of Invasions",
+   "type": "Text"
+  },
+  {
+   "entity": "Fomorians",
+   "type": "Group"
+  },
+  {
+   "entity": "Scél Tuáin meic Cairill",
+   "type": "text"
+  },
+  {
+   "entity": "Historia Brittonum",
+   "type": "text"
+  },
+  {
+   "entity": "Lug",
+   "type": "god"
+  },
+  {
+   "entity": "Mag nElta",
+   "type": "place"
+  },
+  {
+   "entity": "Dealgnaid",
+   "type": "Person"
+  },
+  {
+   "entity": "Sera",
+   "type": "Person"
+  },
+  {
+   "entity": "Todga",
+   "type": "Person"
+  },
+  {
+   "entity": "Sláine",
+   "type": "Person"
+  },
+  {
+   "entity": "Er",
+   "type": "Person"
+  },
+  {
+   "entity": "Ferann",
+   "type": "Person"
+  },
+  {
+   "entity": "Feigna",
+   "type": "Person"
+  },
+  {
+   "entity": "Laiglinni",
+   "type": "Person"
+  },
+  {
+   "entity": "Orba",
+   "type": "Person"
+  },
+  {
+   "entity": "Rudraige",
+   "type": "Person"
+  },
+  {
+   "entity": "Eólas",
+   "type": "Person"
+  },
+  {
+   "entity": "Fios",
+   "type": "Person"
+  },
+  {
+   "entity": "Fochmarc",
+   "type": "Person"
+  },
+  {
+   "entity": "Magog",
+   "type": "Person"
+  },
+  {
+   "entity": "Bartholomaeus",
+   "type": "Person"
+  },
+  {
+   "entity": "Parthanán",
+   "type": "mythological creature"
+  }
+ ],
+ "attributes": [
+  {
+   "entity": "Partholón",
+   "attribute": "the least significant of the invaders"
+  },
+  {
+   "entity": "Partholón",
+   "attribute": "came to Ireland from Greece"
+  },
+  {
+   "entity": "Partholón",
+   "attribute": "fought the Fomorians in a magical battle"
+  },
+  {
+   "entity": "Partholón",
+   "attribute": "son of Sera, leader of the second settlement of Ireland"
+  },
+  {
+   "entity": "Partholón",
+   "attribute": "name probably derives from the biblical Bartholomaeus, since no Irish name opens with P"
+  },
+  {
+   "entity": "Partholón",
+   "attribute": "buried at Tallaght in County Dublin"
+  },
+  {
+   "entity": "Mag nElta",
+   "attribute": "chief settlement of the Partholonians, where Dublin later rose"
+  },
+  {
+   "entity": "Partholón",
+   "attribute": "a Greek prince who killed his own father Sera and his mother"
+  },
+  {
+   "entity": "Partholón",
+   "attribute": "blinded in the left eye by that crime and cursed in fortune"
+  },
+  {
+   "entity": "Partholón",
+   "attribute": "descends through a biblical pedigree from Magog"
+  },
+  {
+   "entity": "Partholón",
+   "attribute": "landed in Ireland after seven years of wandering with Dealgnaid his wife"
+  },
+  {
+   "entity": "Dealgnaid",
+   "attribute": "lay with the servant Todga in the first adultery of Irish literature"
+  },
+  {
+   "entity": "Partholón",
+   "attribute": "served by three brother druids, Eólas, Fios, and Fochmarc"
+  },
+  {
+   "entity": "Partholón",
+   "attribute": "died near present-day Tallaght after thirty years in Ireland"
+  },
+  {
+   "entity": "Partholón",
+   "attribute": "name also likened to Parthia, an old name for northern Iran"
+  },
+  {
+   "entity": "Parthanán",
+   "attribute": "agricultural demon who threshes ripe grain left standing at harvest"
+  }
+ ],
+ "sources": [
+  "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.",
+  "Koch 2006, s.v. 'Partholón'",
+  "MacKillop 2008, s.v. 'Partholón'"
+ ],
+ "okr": {
+  "objective": "Frame Partholón as leader of the second settlers of Ireland, whose borrowed name joins Greek crime, biblical pedigree, and plague.",
+  "key_results": [
+   "Set Partholón as son of Sera, whom the Book of Invasions places about three centuries after the Flood.",
+   "Trace his borrowed name to Bartholomaeus, which Jerome and Isidore gloss as one who stays the waters.",
+   "Note the Parthia alternative, an old name for northern Iran, and the descent from Magog.",
+   "Record the Greek prince's murder of his parents, his lost left eye, and his title chief of every craft.",
+   "Name his wife Dealgnaid, his sons, his three brother druids, and the first adultery in Irish literature.",
+   "Set his death near Tallaght after thirty years, the plague that later ended his people, and the harvest demon Parthanán."
+  ],
+  "evidence": "MacKillop 2008, s.v. 'Partholón'"
+ }
 }
