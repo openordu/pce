@@ -1,0 +1,35 @@
+{
+  "name": "Llyn Cerrig Bach",
+  "text": "Llyn Cerrig Bach is a small lake in a rocky part of the island of Anglesey in north-west Wales. It was once the focus of ritual life in the late Iron Age. Digs in the twentieth century, chiefly beside a bog, brought up an enormous hoard of unrusted metal objects. The items seem to have been flung from an overhanging cliff over two centuries. Among the finds are cauldrons, chariots, harness and gear, musical instruments, slave-gang chains, and ironworkers' tools.",
+  "entities": [
+    {
+      "entity": "Anglesey",
+      "type": "Region"
+    },
+    {
+      "entity": "Wales",
+      "type": "Region"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Llyn Cerrig Bach",
+      "attribute": "Iron Age ritual lake in Anglesey"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Llyn Cerrig Bach'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Record Llyn Cerrig Bach.",
+    "key_results": [
+      "Name the island of the lake.",
+      "State the age of its ritual use.",
+      "Name one kind of find from the hoard."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Llyn Cerrig Bach'"
+  }
+}

@@ -1,54 +1,56 @@
 {
- "name": "Llefelys",
- "attributes": [
-  {
-   "entity": "Llefelys",
-   "attribute": "a Welsh hero or god"
-  },
-  {
-   "entity": "Llefelys",
-   "attribute": "king of the Continent in myth"
-  },
-  {
-   "entity": "Llefelys",
-   "attribute": "came to the aid of his brother Lludd in Britain"
-  },
-  {
-   "entity": "Lludd",
-   "attribute": "king of Britain and brother of Llefelys"
-  }
- ],
- "entities": [
-  {
-   "entity": "Llefelys",
-   "type": "Person"
-  },
-  {
-   "entity": "Lludd",
-   "type": "Person"
-  },
-  {
-   "entity": "Britain",
-   "type": "Place"
-  },
-  {
-   "entity": "Continent",
-   "type": "Place"
-  }
- ],
- "sources": [
-  "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
- ],
- "cyphertext": "-DMAetdFpmBMZFrX8Ev_3Kkpjt1sBv3xjg4AXurlTMz9R_h3AAS0JdWL3r7KcVMK9Bo0lMiyCAA-mDh31ZmQ7Ykmv10_Y48CnrRxEhBvstHyaSoVGinxUZv9hAdcqGUy8U45TdFknoOgdkRiUXawUJS65PB0mRaLZOraUfIP0a8SMATVC7H5f13nch8DW7R5INvTpAge0qbEQQiIFLK8umEIHcd7XP7iECkhfmsqlgtmkeISX0ic8HTvUCP2dLVZn2AmdXcM8Ixe-jyrlb6IwSOUGayrXVqoMyQ=",
- "salt": "jwPNkkba1MKyur-EgjjRmg==",
- "text": "Llefelys (Llevelys) is a Welsh hero or god. In Welsh myth this king ruled the Continent while his brother Lludd ruled Britain. Llefelys came to Lludd aid to free Britain from the three plagues. He is a king shaped by the frame of the old Welsh tales, standing beside the British ruler Lludd as an ally across the sea.",
- "okr": {
-  "objective": "Give the lesser role of the Welsh king Llefelys.",
-  "key_results": [
-   "Name Llefelys a Welsh hero or god.",
-   "Place his rule on the Continent and his brother in Britain.",
-   "Record his aid against the three plagues."
+  "name": "Llefelys",
+  "attributes": [
+    {
+      "entity": "Llefelys",
+      "attribute": "a Welsh hero or god"
+    },
+    {
+      "entity": "Llefelys",
+      "attribute": "king of the Continent in myth"
+    },
+    {
+      "entity": "Llefelys",
+      "attribute": "came to the aid of his brother Lludd in Britain"
+    },
+    {
+      "entity": "Lludd",
+      "attribute": "king of Britain and brother of Llefelys"
+    }
   ],
-  "evidence": "Monaghan 2008, s.v. Llefelys."
- }
+  "entities": [
+    {
+      "entity": "Llefelys",
+      "type": "Person"
+    },
+    {
+      "entity": "Lludd",
+      "type": "Person"
+    },
+    {
+      "entity": "Britain",
+      "type": "Place"
+    },
+    {
+      "entity": "Continent",
+      "type": "Place"
+    }
+  ],
+  "sources": [
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.",
+    "MacKillop 2008, s.v. 'Llefelys'."
+  ],
+  "cyphertext": "-DMAetdFpmBMZFrX8Ev_3Kkpjt1sBv3xjg4AXurlTMz9R_h3AAS0JdWL3r7KcVMK9Bo0lMiyCAA-mDh31ZmQ7Ykmv10_Y48CnrRxEhBvstHyaSoVGinxUZv9hAdcqGUy8U45TdFknoOgdkRiUXawUJS65PB0mRaLZOraUfIP0a8SMATVC7H5f13nch8DW7R5INvTpAge0qbEQQiIFLK8umEIHcd7XP7iECkhfmsqlgtmkeISX0ic8HTvUCP2dLVZn2AmdXcM8Ixe-jyrlb6IwSOUGayrXVqoMyQ=",
+  "salt": "jwPNkkba1MKyur-EgjjRmg==",
+  "text": "Llefelys is a Welsh king and the brother of Lludd. He is a son of Beli Mawr in the early genealogies. He shares the leading role of the tale Cyfranc Lludd a Llefelys, the Tale of Lludd and Llefelys. He ruled on the Continent while his brother Lludd ruled Britain. MacKillop says he became ruler of France by wedding the daughter of the dead king. In that land he sat on a foreign throne. When Britain suffered three plagues, Lludd turned to his brother. Llefelys knew the cause of each blow and how to end it. He taught Lludd the remedy for every plague. One plague was a race of fighting demons called the Coraniaid. Another was a pair of dragons that fought at every Maytime. The third was a giant wizard who stole the provisions of the realm. With Llefelys in counsel Lludd overcame all three. Lludd dug a pit in the middle of Britain to catch the dragons. He beat the giant in battle and made the giant his vassal. So the two brothers freed the island. Llefelys stands as the wise brother across the sea. His name also appears as Lleuelys and Llevelys. He is a separate figure from Lleu Llaw Gyffes, the hero who appears in the final branch of the Mabinogi. His counsel saved his brother's realm, and the pair together shaped one of the best-loved Welsh tales of wit and wonder. Wise counsel from across the water saved the whole island of Britain.",
+  "okr": {
+    "objective": "give the role of the Welsh king Llefelys",
+    "key_results": [
+      "name him the son of Beli Mawr and brother of Lludd",
+      "tell how he became king of France",
+      "list the three plagues he helped to end",
+      "separate his names Lleuelys and Llevelys from Lleu Llaw Gyffes"
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Llefelys'"
+  }
 }

@@ -2,57 +2,82 @@
 layout: layouts/pce.njk
 title: Oisín
 icon: file-lines
-order: 1780
+order: 0
 contributors: [ 'Christopher Godwin' ]
 attributes:
-  - Ossian Ancient Scottish poet
-  - Ossian Non-existent poet
-  - Macpherson Disgraced
-  - Ossian forgeries Dismissed as sentimental
-  - Macpherson's work Influential
-  - Germany Inspired emergent Romantic poets
+  - Oisín most eloquent poet of the Fianna
+  - Oisín named little fawn for the fur left by his mother
+  - Niamh of the Golden Hair his fairy lover, on a white horse
+  - Tir Tairngiri the land of promise
+  - Oisín aged and died after his horse touched the ground
+  - Saint Patrick debated with Oisín in the Ossianic Cycle
+  - Sadb mother who came to Fionn as a deer, enchanted by the druid Fer Doirich
+  - Oisín principal son of Fionn Mac Cumhaill and sojourner in Tír na nÓg
+  - James Macpherson 18th-century forger who built his Ossian on the stories of Oisín
 categories:
-  - Group of poets
-  - Country
-  - Ancient Scottish poet
-  - Person
+  - hero
+  - Concept
+  - mythological figure
+  - group
+  - person
+  - place
 entities:
-  - Ossian(Ancient Scottish poet)
-  - Macpherson(Person)
-  - Germany(Country)
-  - Romantic poets(Group of poets)
+  - Oisín(hero)
+  - Fianna(group)
+  - Fionn Mac Cumhaill(hero)
+  - Sadb(mythological figure)
+  - Niamh of the Golden Hair(mythological figure)
+  - Tir Tairngiri(place)
+  - Saint Patrick(person)
+  - Fer Doirich(person)
+  - James Macpherson(person)
+  - Ossianic Cycle(Concept)
 tags:
-  - Ossian
-  - Macpherson
-  - Germany
-  - Romantic poets
+  - Oisín
+  - Fianna
+  - Fionn Mac Cumhaill
+  - Sadb
+  - Niamh of the Golden Hair
+  - Tir Tairngiri
+  - Saint Patrick
+  - Fer Doirich
+  - James Macpherson
+  - Ossianic Cycle
 ---
 ``` tab [group1:Info]
 ::: magazinestyle
-A legendary figure in Irish lore, Oisín (also known as Oshin, Ossian, and Oisin) was a poet of the Fianna, a group of warriors who served under the great hero Fionn Mac Cumhaill. Oisín earned the name "little fawn" due to the fur on his eyebrows, which remained after his mother Sadb licked him clean while in her enchanted Deer form. He became the most articulate among his peers and, like many other poets, caught the attention of a Fairy Lover. Niamh of the Golden Hair, the most stunning of all fairies, became Oisín's mistress, and she took him away from his human wife, the beautiful blonde Eibhir. Oisín accompanied Niamh to Tir Tairngiri, the magical land of promise beyond the western waves, where they lived together for several weeks. Or so the time seemed to Oisín, for time elapsed differently in FairyLAND than in the earthly world. Whilst Oisín was away, three centuries went by, during which his friends passed away, and Ireland transformed beyond recognition.
-
-Oisín eventually grew homesick and asked Niamh to let him return to reality. She reluctantly permitted his departure and equipped him with a magic horse. She warned him never to touch the ground, a common folkloric motif, which often portends that someone will inevitably break the rule. Oisín returned home but tragically went against the Fairy Lover's warning by placing his feet on the ground. Multiple sources differ on the exact cause, as some say it was because his saddle failed, while others say it was due to his altruism towards a beggar or his overwhelming desire to feel the earthly terrain under his feet once more. Upon reaching the ground, Oisín's old age immediately caught up to him, stripping him of his health and vitality. Regardless of versions of the story, he ultimately passed away and returned to dust in the blink of an eye. Some renditions claim that he lived just long enough to converse with St. Patrick regarding Ireland's ancient paganism and to ultimately accept the Christian way and be baptized. Furthermore, the Scottish poet James Macpherson fabricated a character named Ossian and subsequently attributed several poems to him that he had written himself, inspired by the oral literature of his homeland. Although Macpherson's work was later denounced as sentimental due to the revelation that there was never an ancient Scottish poet named Ossian who had been translated, it still held significant influence, particularly in Germany, where it inspired the emergence of Romantic poets.
+Oisín is an Irish hero. He was the most eloquent poet of the Fianna, the warrior band that followed Fionn Mac Cumhaill. MacKillop names him the principal son of Fionn and a warrior and poet of the Fianna. His name means little fawn, a mark left when his mother Sadb licked him in her enchanted deer shape. In the better known account, Sadb visits Fionn in doe form, put under a spell by the druid Fer Doirich. Fionn shields her from harm and is delighted when she appears to him as a beautiful woman next morning. The two marry and Sadb is soon with child. When Fionn returns to the chase, Fer Doirich casts his charm on Sadb once more, and she wanders off after the newborn. After seven years Fionn discovers a bare boy beneath a rowan tree on Ben Bulben, and that boy is Oisín. An earlier mother named Blai fills the same role in the older telling. His fairy lover Niamh of the Golden Hair carried him to Tir Tairngiri, the land of promise. He lived there happily for three centuries though the days seemed short. MacKillop gives the lay written by Micheal Comin in Irish about 1750 as the classic account. In it, Niamh, a fairy-like woman on a white horse, asks Oisín to ride with her to Tír na nÓg. He goes due west, slays a giant, and is given Niamh as his consort. They begin three hundred years of love, which produces two sons and a daughter. Homesickness drove him to ride back to earth. Niamh warned him never to let his horse touch the ground. As he stooped at Glenasmole to help men lift a stone, his reins broke and he fell. When his feet met the soil his years seized him at once. He grew stooped and gray, died, and turned to dust. His white steed returned alone to the Otherworld. Some versions have him survive to debate with Saint Patrick, and so the Ossianic dialogues were born. In those tales Oisín champions the pagan nobility of Fionn against the new faith. Later Fenian material retells earlier adventures from Oisín's point of view. The Scottish Gaelic stories on this frame fed the fictions of the 18th-century charlatan James Macpherson, who made of Oisín the figure Ossian. William Butler Yeats turned the legend into the poem The Wanderings of Oisín.
 
 :::
 ```
 ``` tab [group1:Attributes]
-- **Ossian**: Ancient Scottish poet
-- **Ossian**: Non-existent poet
-- **Macpherson**: Disgraced
-- **Ossian forgeries**: Dismissed as sentimental
-- **Macpherson's work**: Influential
-- **Germany**: Inspired emergent Romantic poets
+- **Oisín**: most eloquent poet of the Fianna
+- **Oisín**: named little fawn for the fur left by his mother
+- **Niamh of the Golden Hair**: his fairy lover, on a white horse
+- **Tir Tairngiri**: the land of promise
+- **Oisín**: aged and died after his horse touched the ground
+- **Saint Patrick**: debated with Oisín in the Ossianic Cycle
+- **Sadb**: mother who came to Fionn as a deer, enchanted by the druid Fer Doirich
+- **Oisín**: principal son of Fionn Mac Cumhaill and sojourner in Tír na nÓg
+- **James Macpherson**: 18th-century forger who built his Ossian on the stories of Oisín
 ```
 ``` tab [group1:Entities]
-- **Ossian**: Ancient Scottish poet
-- **Macpherson**: Person
-- **Germany**: Country
-- **Romantic poets**: Group of poets
+- **Oisín**: hero
+- **Fianna**: group
+- **Fionn Mac Cumhaill**: hero
+- **Sadb**: mythological figure
+- **Niamh of the Golden Hair**: mythological figure
+- **Tir Tairngiri**: place
+- **Saint Patrick**: person
+- **Fer Doirich**: person
+- **James Macpherson**: person
+- **Ossianic Cycle**: Concept
 ```
 ``` tab [group1:Sources]
 - Cross, Tom Peete, and Clark Harris Slover, eds. Ancient Irish Tales. (New York: Henry Holt and Co., 1936), 439.
 - Joyce, P. W. Ancient Celtic Romances. London: Parkgate Books, 1997, 385+.
 - Kennedy, Patrick. Legendary Fictions of the Irish Celts. New York: Benjamin Blom, 1969, 40.
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
+- MacKillop 2008, s.v. 'Oisín'
 ```
 ![Oisín Image](https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Fran%C3%A7ois_G%C3%A9rard_-_Ossian.jpg/1200px-Fran%C3%A7ois_G%C3%A9rard_-_Ossian.jpg)

@@ -1,80 +1,81 @@
 {
-  "name": "Lebor Gabála Érenn",
-  "attributes": [
-    {
-      "entity": "Lebor Gabála Érenn",
-      "attribute": "Irish title of the Book of Invasions"
-    },
-    {
-      "entity": "Lebor Gabála Érenn",
-      "attribute": "ends with a list of the kings of Ireland down to the time of Saint Patrick"
-    },
-    {
-      "entity": "Míl Espáine",
-      "attribute": "the forefather of the Gaels in the story"
-    },
-    {
-      "entity": "Fir Bolg",
-      "attribute": "a settler group that shared the island into fifths"
-    },
-    {
-      "entity": "Partholón",
-      "attribute": "a founder who cleared the plains and fought the Fomori"
-    }
-  ],
-  "entities": [
-    {
-      "entity": "Lebor Gabála Érenn",
-      "type": "Artifact"
-    },
-    {
-      "entity": "Book of Invasions",
-      "type": "Artifact"
-    },
-    {
-      "entity": "Míl Espáine",
-      "type": "Person"
-    },
-    {
-      "entity": "Tuath Dé",
-      "type": "Group"
-    },
-    {
-      "entity": "Fir Bolg",
-      "type": "Group"
-    },
-    {
-      "entity": "Partholón",
-      "type": "Person"
-    },
-    {
-      "entity": "Amairgen mac Míled",
-      "type": "Person"
-    },
-    {
-      "entity": "Íth",
-      "type": "Person"
-    }
-  ],
-  "sources": [
-    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.",
-    "Koch 2006, s.v. 'Lebar Gabála Érenn'"
-  ],
-  "image": [
-    "https://upload.wikimedia.org/wikipedia/commons/9/9f/Book_of_Leinster%2C_folio_53.jpg"
-  ],
-  "cyphertext": "k5mBeHX1SHDMbmBonb2sKgIGrF72-GU1cWRf6mi8deYjhFS72bFqx2B8vv5zTmQKh2kF0CANi-cN-A613bVCdnU6Vluv_CyP",
-  "salt": "hVKnuFF0Gz0a8xAC1Puggg==",
-  "text": "Lebor Gabála Érenn is the Irish title of the Book of Invasions. Translated, the title tells how Ireland came to be taken and settled. The text gives the Irish story of how the island first came to be settled. It begins with the biblical account. It tells of Noah and his sons and how the people spread through the land of Europe. The book says that a man named Fénius came to Babel and there shaped the speech of the Irish, the earliest form of the Gaelic tongue. His child Nél travelled to Egypt and wed the pharaoh's daughter, a woman named Scota. Their son Goídel Glas became the first forefather of the Gaels. For many years the Gaels were driven from place to place and moved by the sea until they came to Spain. Here the city of Brigantia was built, and from its high tower a man named Íth caught sight of Ireland. The book then tells of the early settlers of the island. It names Cesair, a grandchild of Noah who came before the Flood with three men and many women. It names Partholón, who cleared the plains and fought the fierce Fomoiri. It names Nemed, who first beat the Fomoiri in war and later fell under their heavy tribute. When the Fomoiri rose again, every side was nearly wiped out. Nemed's people then split. One band became the Tuath Dé. A second became the Fir Bolg. A third became the first Britons. The Fir Bolg returned from Greece and shared the island into five parts. The Tuath Dé then overthrew the Fir Bolg and took the land. Last came the sons of Míl. They faced the three kings at Tara and in the end won the island. The tale closes with a long list of the kings who ruled down to the time of the coming of Saint Patrick. The Lebor Gabála reached its present shape by the twelfth century. In a short time it grew into at least three versions and many copies. It held a central place in the story of the Irish past well into the seventeenth century.",
-  "okr": {
-    "objective": "Present the Book of Invasions as the founding story of the Irish settlements.",
-    "key_results": [
-      "Define the Irish title and its meaning of the taking of Ireland.",
-      "Recount the long move of the Gaels from Egypt and Spain.",
-      "List the early settlers Cesair, Partholón, Nemed, the Fir Bolg, and the Tuath Dé.",
-      "Note the conquest by the sons of Míl and the story's lasting force."
-    ],
-    "evidence": "Koch 2006, s.v. 'Lebar Gabála Érenn'"
+ "name": "Lebor Gabála Érenn",
+ "attributes": [
+  {
+   "entity": "Lebor Gabála Érenn",
+   "attribute": "Irish title of the Book of Invasions"
   },
-  "order": 1416
+  {
+   "entity": "Lebor Gabála Érenn",
+   "attribute": "ends with a list of the kings of Ireland down to the time of Saint Patrick"
+  },
+  {
+   "entity": "Míl Espáine",
+   "attribute": "the forefather of the Gaels in the story"
+  },
+  {
+   "entity": "Fir Bolg",
+   "attribute": "a settler group that shared the island into fifths"
+  },
+  {
+   "entity": "Partholón",
+   "attribute": "a founder who cleared the plains and fought the Fomori"
+  }
+ ],
+ "entities": [
+  {
+   "entity": "Lebor Gabála Érenn",
+   "type": "Artifact"
+  },
+  {
+   "entity": "Book of Invasions",
+   "type": "Artifact"
+  },
+  {
+   "entity": "Míl Espáine",
+   "type": "Person"
+  },
+  {
+   "entity": "Tuath Dé",
+   "type": "Group"
+  },
+  {
+   "entity": "Fir Bolg",
+   "type": "Group"
+  },
+  {
+   "entity": "Partholón",
+   "type": "Person"
+  },
+  {
+   "entity": "Amairgen mac Míled",
+   "type": "Person"
+  },
+  {
+   "entity": "Íth",
+   "type": "Person"
+  }
+ ],
+ "sources": [
+  "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.",
+  "Koch 2006, s.v. 'Lebar Gabála Érenn'",
+  "MacKillop 2008, s.v. 'Lebor Gabála Érenn'"
+ ],
+ "image": [
+  "https://upload.wikimedia.org/wikipedia/commons/9/9f/Book_of_Leinster%2C_folio_53.jpg"
+ ],
+ "cyphertext": "k5mBeHX1SHDMbmBonb2sKgIGrF72-GU1cWRf6mi8deYjhFS72bFqx2B8vv5zTmQKh2kF0CANi-cN-A613bVCdnU6Vluv_CyP",
+ "salt": "hVKnuFF0Gz0a8xAC1Puggg==",
+ "text": "Lebor Gabála Érenn is the Irish title of the Book of Invasions. Translated, the title tells how Ireland came to be taken and settled. The text gives the Irish story of how the island first came to be settled. It begins with the biblical account. It tells of Noah and his sons and how the people spread through the land of Europe. The book says that a man named Fénius came to Babel and there shaped the speech of the Irish, the earliest form of the Gaelic tongue. His child Nél travelled to Egypt and wed the pharaoh's daughter, a woman named Scota. Their son Goídel Glas became the first forefather of the Gaels. For many years the Gaels were driven from place to place and moved by the sea until they came to Spain. Here the city of Brigantia was built, and from its high tower a man named Íth caught sight of Ireland. The book then tells of the early settlers of the island. It names Cesair, a grandchild of Noah who came before the Flood with three men and many women. It names Partholón, who cleared the plains and fought the fierce Fomoiri. It names Nemed, who first beat the Fomoiri in war and later fell under their heavy tribute. When the Fomoiri rose again, every side was nearly wiped out. Nemed's people then split. One band became the Tuath Dé. A second became the Fir Bolg. A third became the first Britons. The Fir Bolg returned from Greece and shared the island into five parts. The Tuath Dé then overthrew the Fir Bolg and took the land. Last came the sons of Míl. They faced the three kings at Tara and in the end won the island. The tale closes with a long list of the kings who ruled down to the time of the coming of Saint Patrick. The Lebor Gabála reached its present shape by the twelfth century. In a short time it grew into at least three versions and many copies. It held a central place in the story of the Irish past well into the seventeenth century.",
+ "okr": {
+  "objective": "Present the Book of Invasions as the founding story of the Irish settlements.",
+  "key_results": [
+   "Define the Irish title and its meaning of the taking of Ireland.",
+   "Recount the long move of the Gaels from Egypt and Spain.",
+   "List the early settlers Cesair, Partholón, Nemed, the Fir Bolg, and the Tuath Dé.",
+   "Note the conquest by the sons of Míl and the story's lasting force."
+  ],
+  "evidence": "Koch 2006, s.v. 'Lebar Gabála Érenn'"
+ },
+ "order": 1416
 }

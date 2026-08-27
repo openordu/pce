@@ -1,0 +1,39 @@
+{
+  "name": "Kelliwic",
+  "text": "Kelliwic ranks among the three royal seats of Britain. The Welsh Triads call these the Three Tribal Thrones. Kelliwic is the only one of the three that lies in Cornwall. The other two thrones stand at St David's in Wales and at Pen Rhionydd in Scotland. Cornish tradition cites Kelliwic often. Its exact site is unknown. Castle Killibury is a strong candidate. So is Kelly Rounds, an Iron Age fortification close to Wadebridge. Callington offers a third option.",
+  "entities": [
+    {
+      "entity": "Arthur",
+      "type": "Person"
+    },
+    {
+      "entity": "Cornwall",
+      "type": "Region"
+    },
+    {
+      "entity": "Triads",
+      "type": "Work"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Kelliwic",
+      "attribute": "one of Arthur's three tribal thrones"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Kelliwic'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Record Kelliwic.",
+    "key_results": [
+      "Name the three thrones of the court.",
+      "Set Kelliwic in Cornwall.",
+      "Give a likely site."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Kelliwic'"
+  }
+}

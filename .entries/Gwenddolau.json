@@ -1,0 +1,28 @@
+{
+  "name": "Gwenddolau",
+  "text": "Gwenddolau, also written Gwendoleu, was a Welsh chieftain of the sixth century. The patronymic fab Ceido names his father. He ruled in the Old North, the former Welsh-speaking kingdom of the Scottish Lowlands. He died at the Battle of Arfderydd, a fight placed in the year 573 or 575. His retainer Myrddin, later known as Merlin, was so broken by the death that he left the world of men. He became a wild man of the forest and gained the gift of prophecy. The place name Carwinley near the town of Longtown may keep his memory whole. Geoffrey of Monmouth, the twelfth century chronicler, latinized his name as Guennole. His death echoes in the oldest British poetry as the ruin that unbound the gifts of the madman.",
+  "entities": [
+    { "entity": "Myrddin", "type": "Person" },
+    { "entity": "Merlin", "type": "Person" },
+    { "entity": "Geoffrey of Monmouth", "type": "Person" }
+  ],
+  "attributes": [
+    { "entity": "Gwenddolau", "attribute": "chieftain of the Old North" },
+    { "entity": "Gwenddolau", "attribute": "fell at the Battle of Aryderydd" }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Gwenddolau'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Record Gwenddolau, a chieftain of the Old North.",
+    "key_results": [
+      "Place his kingdom before the age of the shires.",
+      "Show the death at Arfderydd.",
+      "Link the name to the madness of Myrddin and the place name."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Gwenddolau'"
+  }
+}

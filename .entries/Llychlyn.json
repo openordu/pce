@@ -1,0 +1,39 @@
+{
+  "name": "Llychlyn",
+  "text": "Llychlyn is a marvelous or infernal region under the sea in early Welsh texts, for example the Dream of Rhonabwy. Like its Irish cognate Scotland, the word has widened in meaning. In present-day Welsh it stands for Scandinavia.",
+  "entities": [
+    {
+      "entity": "Breuddwyd Rhonabwy",
+      "type": "Work"
+    },
+    {
+      "entity": "Lochlainn",
+      "type": "Place"
+    },
+    {
+      "entity": "Scandinavia",
+      "type": "Region"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Llychlyn",
+      "attribute": "underwave infernal region that comes to mean Scandinavia"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Llychlyn'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Record Llychlyn.",
+    "key_results": [
+      "State where the Welsh region lies.",
+      "Name the Irish cognate.",
+      "State the modern Welsh meaning."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Llychlyn'"
+  }
+}

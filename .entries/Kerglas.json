@@ -1,0 +1,35 @@
+{
+  "name": "Kerglas",
+  "text": "Kerglas is the name of a castle in the Breton folk-tale of Peronnik. The fortress is the home of an evil magician. This sorcerer has stolen the lance of the tale. Peronnik must enter Kerglas to win the weapon back.",
+  "entities": [
+    {
+      "entity": "Kerglas",
+      "type": "Place"
+    },
+    {
+      "entity": "Peronnik",
+      "type": "Person"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Kerglas",
+      "attribute": "castle of the evil magician"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Kerglas'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Record Kerglas.",
+    "key_results": [
+      "Name the castle of the tale.",
+      "Name the magician who holds the lance.",
+      "Set the castle in Breton story."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Kerglas'"
+  }
+}

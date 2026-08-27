@@ -2,77 +2,69 @@
 layout: layouts/pce.njk
 title: Iuchair
 icon: file-lines
-order: 1323
+order: 0
 contributors: [ 'Christopher Godwin' ]
 attributes:
-  - Iuchair one of the Three sons of the primal goddess Danu
-  - Three sons sons of the primal goddess Danu
-  - Sons Of Tuireann given a series of impossibly difficult tasks after killing their father’s enemy Cian
-  - Brian sometimes said to have been the father of Ecne
-  - Iucharba sometimes said to have been the father of Ecne
-  - Tuatha Dé Danann important kings called Mac Cuill, Mac Cécht, and Mac Gréine
+  - Iuchair a son of Tuireann, bound with his brothers under a geis set by Lug
+  - sons of Tuireann recovered Gáe Assail and the magical pigs of Assal for Lug
 categories:
-  - primal goddess
-  - Irish divinity
-  - Irish king
-  - enemy
-  - group of entities
-  - divinity of wisdom and inspiration
+  - Deity
+  - Concept
+  - Group
+  - Artifact
+  - Person
 entities:
-  - Iuchair(Irish divinity)
-  - Danu(primal goddess)
-  - Three sons(group of entities)
-  - Sons Of Tuireann(group of entities)
-  - Cian(enemy)
-  - Brian(Irish divinity)
-  - Iucharba(Irish divinity)
-  - Ecne(divinity of wisdom and inspiration)
-  - Tuatha Dé Danann(group of entities)
-  - Mac Cuill(Irish king)
-  - Mac Cécht(Irish king)
-  - Mac Gréine(Irish king)
+  - Iuchair(Person)
+  - Iucharba(Person)
+  - Brian(Person)
+  - Tuireann(Person)
+  - Danu(Deity)
+  - Tuatha Dé Danann(Group)
+  - Lug Lámfhota(Deity)
+  - Cian(Person)
+  - Ecne(Person)
+  - Gáe Assail(Artifact)
+  - Manannán mac Lir(Deity)
+  - geis(Concept)
 tags:
   - Iuchair
-  - Danu
-  - Three sons
-  - Sons Of Tuireann
-  - Cian
-  - Brian
   - Iucharba
-  - Ecne
+  - Brian
+  - Tuireann
+  - Danu
   - Tuatha Dé Danann
-  - Mac Cuill
-  - Mac Cécht
-  - Mac Gréine
+  - Lug Lámfhota
+  - Cian
+  - Ecne
+  - Gáe Assail
+  - Manannán mac Lir
+  - geis
 ---
 ``` tab [group1:Info]
 ::: magazinestyle
-One of the three sons of the primal goddess Danu was Iuchair (Iuchar), an Irish divinity. These three sons were known as the Sons of Tuireann and were given a series of tasks that were impossibly difficult after Cian, their father's enemy, was killed by them. Iuchar could have been an ancestral divinity, and similar to his brothers Brian and Iucharba, he may have been the father of Ecne, a divinity known for wisdom and inspiration. Due to the confusion that exists about the brothers in the tales, some scholars consider them as a triplication of a single figure. Others believe that they are identical with the three important Tuatha Dé Danann kings referred to as Mac Cuill, Mac Cécht, and Mac Gréine.
+Iuchair is an Irish divinity and one of the three children of Tuireann. His brothers in that trio are Brian and Iucharba, and the three are always named together. They appear in the tale Oidheadh Chlainne Tuireann, the account of the sorrows of the sons of Tuireann. After the brothers slew Cian, the father of the god Lug, Lug set a heavy geis upon them. Under that binding demand they had to recover the spear Gáe Assail. This was a lightning weapon, in the manner of the hammer of Thor, and it always flew back to the hand that cast it. The spear had been carried off to Persia, and they were ordered to bring it home for Lug. They also had to fetch the seven enchanted pigs of Assal of the Golden Pillars. These pigs could be killed and eaten, yet a fresh morning always found them alive and fit for the table again. The bones of the pigs came to rest in the crane bag of Manannán mac Lir. A few accounts name Iuchair the father of Ecne, a being of wisdom. The brothers are so tangled in the tales that some readers take them for a single figure shown three times. Others align them with the three kings who once ruled at Tara during the time of the Tuatha Dé Danann. Iuchair also appears as Iuchar in some spellings of the name. The whole errand, from the slaying of Cian to the gathering of the treasures, shows how a single violent deed could set an entire household of divine heroes to wandering the world.
 
 :::
 ```
 ``` tab [group1:Attributes]
-- **Iuchair**: one of the Three sons of the primal goddess Danu
-- **Three sons**: sons of the primal goddess Danu
-- **Sons Of Tuireann**: given a series of impossibly difficult tasks after killing their father’s enemy Cian
-- **Brian**: sometimes said to have been the father of Ecne
-- **Iucharba**: sometimes said to have been the father of Ecne
-- **Tuatha Dé Danann**: important kings called Mac Cuill, Mac Cécht, and Mac Gréine
+- **Iuchair**: a son of Tuireann, bound with his brothers under a geis set by Lug
+- **sons of Tuireann**: recovered Gáe Assail and the magical pigs of Assal for Lug
 ```
 ``` tab [group1:Entities]
-- **Iuchair**: Irish divinity
-- **Danu**: primal goddess
-- **Three sons**: group of entities
-- **Sons Of Tuireann**: group of entities
-- **Cian**: enemy
-- **Brian**: Irish divinity
-- **Iucharba**: Irish divinity
-- **Ecne**: divinity of wisdom and inspiration
-- **Tuatha Dé Danann**: group of entities
-- **Mac Cuill**: Irish king
-- **Mac Cécht**: Irish king
-- **Mac Gréine**: Irish king
+- **Iuchair**: Person
+- **Iucharba**: Person
+- **Brian**: Person
+- **Tuireann**: Person
+- **Danu**: Deity
+- **Tuatha Dé Danann**: Group
+- **Lug Lámfhota**: Deity
+- **Cian**: Person
+- **Ecne**: Person
+- **Gáe Assail**: Artifact
+- **Manannán mac Lir**: Deity
+- **geis**: Concept
 ```
 ``` tab [group1:Sources]
+- MacKillop 2008, s.v. 'Iuchair'.
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```

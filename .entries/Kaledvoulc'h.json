@@ -1,0 +1,43 @@
+{
+  "name": "Kaledvoulc'h",
+  "text": "Kaledvoulc'h is the Breton word for the sword of King Arthur. The weapon is best known in English as Excalibur. The Welsh name for it is Caledfwlch. The Irish form is Caladbolg. All the words carry a sense of hardness. Kaledvoulc'h therefore stands as the Breton name of the magic sword.",
+  "entities": [
+    {
+      "entity": "Excalibur",
+      "type": "Object"
+    },
+    {
+      "entity": "Arthur",
+      "type": "Person"
+    },
+    {
+      "entity": "Caledfwlch",
+      "type": "Object"
+    },
+    {
+      "entity": "Caladbolg",
+      "type": "Object"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Kaledvoulc'h",
+      "attribute": "Breton term for Excalibur"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Kaledvoulc'h'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Record Kaledvoulc'h.",
+    "key_results": [
+      "Give the common name of the sword.",
+      "Name the king who carried it.",
+      "Note the Welsh and Irish forms."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Kaledvoulc'h'"
+  }
+}

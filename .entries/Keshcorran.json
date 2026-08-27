@@ -28,6 +28,22 @@
     {
       "entity": "Assaroe",
       "attribute": "home of a one-eyed salmon tied to Goll"
+    },
+    {
+      "entity": "Keshcorran",
+      "attribute": "hill in Sligo, four miles east-south-east of Ballymote near Lough Arrow"
+    },
+    {
+      "entity": "Keshcorran",
+      "attribute": "setting of several scenes in the Fenian tales and the dowry land of Grainne"
+    },
+    {
+      "entity": "Diarmait",
+      "attribute": "asked for Céis Chorainn as part of Grainne's dowry"
+    },
+    {
+      "entity": "Caflte mac Ronain",
+      "attribute": "earned his name at Céis Chorainn"
     }
   ],
   "entities": [
@@ -66,19 +82,52 @@
     {
       "entity": "Goll mac Carbada",
       "type": "hero"
+    },
+    {
+      "entity": "Keshcorran",
+      "type": "Place"
+    },
+    {
+      "entity": "Céis Chorainn",
+      "type": "Place"
+    },
+    {
+      "entity": "Sligo",
+      "type": "Place"
+    },
+    {
+      "entity": "Ballymote",
+      "type": "Place"
+    },
+    {
+      "entity": "Lough Arrow",
+      "type": "Place"
+    },
+    {
+      "entity": "Diarmait",
+      "type": "Person"
+    },
+    {
+      "entity": "Grainne",
+      "type": "Person"
+    },
+    {
+      "entity": "Caflte mac Ronain",
+      "type": "Person"
     }
   ],
   "sources": [
     "Dames, Michael. Mythic Ireland. (London: Thames and Hudson, 1992), 238.",
     "MacNeill, Máire. The Festival of Lughnasa, Parts I and II. (Dublin: Comhairle Bhéaloideas Éireann, 1982).",
-    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.",
+    "MacKillop 2008, s.v. 'Keshcorran'"
   ],
   "image": [
     "https://upload.wikimedia.org/wikipedia/commons/c/cf/Keshcorran_Caves_10816.jpg"
   ],
   "cyphertext": "Be73NM7ToEpzBA_-ceFL-fcmnD2_j1SIQystF0stCle7zWFnSDsu-PMZZHGJzblkPvS-ZkW_lGmLATHY4Xwu0_flirgkOBlJGxcyvAnsVQhzSJecH1c-DEDhLhKWwsw6rRE243vSP35X6fvrsy9KL79FLxno8_JTlwpblJbJunngQrO5oas6ieR1dG7DNUS-h1XZjFFHWoL2oKfN3lUMLUf4ezjwCAj_EuEm7AUlVz-Q-Tk9WuhL5G_qKAtXEAsnF_Lnlmjm4CW2KfpiH7gHxI42is9_B5fuwUCPex8Am6uZtjdli_uB4r5RQq1NclilBjBGpzeK1_YwPrejFrfWDJmGqzgs_VV-YNwNzPTFhPR5Qeq1Wmf9nbGRABWl_NnqooJxL4udQitB7yQfmee-QAEItSDT55-c2JnwCHLvIxGX0iRlNYZdqtb64kX9bSRwdyu0q-K1J1m_lCKsN1774xv0Fitkf2XM1gZJc87_Hd6w8hezpdkz6U0EQ9HOCDIypvgxVDbLgcid35uwTD7zgDbdxBy2JFLlMidG7KNzyYcfK85NMGCJSzyIf9bd1ZYUEj3-ambvX2q2oWKpRanMN6zXbgKJ0fXwWRKNm07mM-xsPo46_pyzhnejJs7qhKhnxs5j26YkQGOuRzUBS_mC6ht7EBORHy6gUe79HAP1HPDBnmnvdupd36R1U3T7mHHRA9oZQYGPr4xgCp7PcND6AfZkE6ptJupWAdmgO7-BCALRS4L-232OAg3VCEkiyJBRopxrN3LN3aBqBo6UtoeJtDxrQlg8lTIe1X82xjegBvRISsaeJPNqkPrsurn2nIpucIehUiYiluEvZo2p4qoEgVWcoKnJSzWjcqudfT5kd0mrYxYgvIkD3O8cLR9f_0QDS3BoLq-i4xAF49Xv9oc78KadXIdLTUlUx6slG6l_eyYiksHJZKr0TyQ9yPIESf29Nl8nG43TVjd4lOUCu5GUfChewC66K5k5-oz5MegfFZPX8dK2Vzwi3-GHOJFUH1sRP3TGB_gXxwv9FxxEMh4DJvxA8FkZmWOUn5ch0ML7e9GSkLLGWSdcC6O5e13V45LSKr3GkQDZGiouj3RyxGwKzXUEDW3S4SuSmepcqLr9FV9Lkcv9q8AKnavcOWvwLRi4fMCGNa37YAvKp_9Yg6EliJRhDcZQii6NZVHjFHR7Aho2xJH20Hj4FBSeXZeYpUIsRA947jARHPKRwahKqy4-EcJsvUrKEPcB6CjPc_x2zXZ_c-bFds1h1hVQ31BcRD5GEfAXK-mBbE4JGT7QZ3KEEgJubbZ21eLgBFJQpt07ZFrnV4UXZGw6fiwC_DHPV__RWHSxjD5D4xU5vM7wAz7Llqebxeh47wSsf70cF8yDrVjN362VYSmBfX6Re0a3TlUMOZtyIjXtANuLhOxgTQSWZVP_LwZ3a5iU78Px8YwqewJO_n77cPO0ZzK1jESNN_wq12I8ZD2vjmvssZI1ls11lDoIm10uFLDwBeJGgogYFopw8hkzs8-Op_lAVxN9BldJt3pLz-4kjk6zlz73E_61hU2dAxiOdk53Gm9eM8hJJ3VmaMdCnFB4G5IfrhpxewX9SeX5NpFo6QzNMHCfONzswFvk0ToMZXkGXsn7Con501-Tso2TX05UkMruLzQEoAcly0Nc--xqwL2i6rsSrEB7WIApbvLGdAt6zi-PCFDH-9-Hns4uBeZLHpA7Mi4P4jN5O-NM7sKhHvXagnlunRdcD0STHec4crU4FemVmmELnYU1KdMSQnT9cJ3Ad6fkZi9bU9NVxDx_TN9m1ElmQVXY1c96QJZUOQQ8Vtsa-ghdWYIZmGhWU1YPBAzj1JOxFy39yBL7veoLYE0V1QHfJT2PhXX-5CVOKMS2lTUTV36GG4_GWv0-K3ASeL22x8W9tnL0Kz2vfXPdJslhFN-5Dld2MYDJ5c90iWUWevaDqxN6S8_PXCLUGMv3x4VtOaf7pwi3WG_wVrx08niK-NbIBsDjqA==",
   "salt": "CSukGUrrQ7WJjIGifz__oQ==",
-  "text": "Goll mac Morna was a one-eyed warrior of the Irish Fianna. His story ties back to the place called Keshcorran. Fionn once gave Goll a daughter in marriage to reward him. Yet the two leaders were not always friends. Once Fionn found Goll sleeping by the river Shannon and let the tired one-eyed warrior rest. Still the old hatred did not die. After he was freed, Fionn killed the grandson Fer I, and the bloodshed began again. At last Goll was pushed to the far edge of Ireland. There he passed many days without food or drink and grew wild with want. A low-ranked Fianna man, Mac Smaile, struck him down. The quarrel did not end with his death. The feud sputtered on until the Fianna fell at Gabhair. Some tales send Goll to a new home on the magic islands of the west. His story is often confused with that of Balor. Balor was a Fomorian king with one evil eye that killed by a glance. Goll also meets Lugh, the hero who killed his own grandfather Balor. Goll may be the same as the one-eyed salmon of Assaroe, a being also named Goll Essa Rua. In another tale an Ulster champion strikes down a rival hero named Goll mac Carbada, in a matching contest.",
+  "text": "Céis Chorainn, known in English as Keshcorran, is a hill in Sligo. MacKillop's Dictionary places it four miles east-south-east of Ballymote, near Lough Arrow, and names its height at about 1183 feet. The hill stands out in the Fenian tales. Goll mac Morna was a one-eyed warrior of the Irish Fianna, and his story ties back to the place called Keshcorran. MacKillop records that the hero Diarmait sought Céis Chorainn to form part of the bride price of Grainne. In some versions of the tale the couple on the run made their home in this spot and brought up children there. The hill is also where Caflte mac Ronain earned his name, and where Fionn was bewitched by hags. Fionn once gave Goll a daughter in marriage to reward him. Yet the two leaders were not always friends. Once Fionn found Goll sleeping by the river Shannon and let the tired one-eyed warrior rest. Still the old hatred did not die. After he was freed, Fionn killed the grandson Fer I, and the bloodshed began again. At last Goll was pushed to the far edge of Ireland. There he passed many days without food or drink and grew wild with want. A low-ranked Fianna man, Mac Smaile, struck him down. The quarrel did not end with his death. The feud sputtered on until the Fianna fell at Gabhair. Some tales send Goll to a new home on the magic islands of the west. His story is often confused with that of Balor. Balor was a Fomorian king with one evil eye that killed by a glance. Goll also meets Lugh, the hero who killed his own grandfather Balor. Goll may be the same as the one-eyed salmon of Assaroe, a being also named Goll Essa Rua. In another tale an Ulster champion strikes down a rival hero named Goll mac Carbada, in a matching contest.",
   "okr": {
     "objective": "Goll mac Morna is a one-eyed Fianna warrior bound to Keshcorran.",
     "key_results": [
@@ -87,6 +136,6 @@
       "He died by the hand of a minor Fianna member.",
       "The feud lasted until the fall of the Fianna."
     ],
-    "evidence": "Monaghan, Encyclopedia of Celtic Mythology and Folklore"
+    "evidence": "Monaghan, Encyclopedia of Celtic Mythology and Folklore; MacKillop 2008, s.v. 'Keshcorran'"
   }
 }

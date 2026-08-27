@@ -19,8 +19,8 @@ attributes:
   - Hallstatt culture later phases linked by scholars to the ethnic label Celts
   - Massalia Greek colony, present-day Marseille, founded c. 600 bc, a node of the Mediterranean trade
 categories:
-  - Person
   - Place
+  - Person
   - Concept
   - Culture
 entities:
@@ -58,23 +58,7 @@ tags:
 ---
 ``` tab [group1:Info]
 ::: magazinestyle
-The Hallstatt archaeological site lies in the Upper Austrian Alps. It stands beside Lake Hallstatt on a steep salt mountain. The name also names an Iron Age culture. That term came into use late in the nineteenth century. Georg Ramsauer led the early excavations at the graveyard. An artist, Isidor Engl, drew the burial rites and the grave goods.
-
-The cemetery lies about 1100 to 1200 metres above sea level. It sits in the Salzbergtal, the salt mountain valley. Settlement sites and mine openings stood higher up the slope. A huge landslide engulfed the valley around 350 bc. That event likely ended salt mining there. La Tène period activity later resumed higher on the mountain.
-
-The graveyard held roughly two thousand burials. Excavators recovered about 1270 of them. Some forty-five percent were cremations. The rest were buried whole. Most date to the Hallstatt C and D periods. Those ran from about 750 to 475 bc. A few burials came later, in the Hallstatt to La Tène transition. The old graves were rich in bronze vessels and metal objects. That wealth signals profitable salt mining. The cemetery was limited to the higher ranks of society. New digs in the lower cemetery show a denser pattern. Estimates now run from five to eight thousand graves. The newer graves hold fewer metal goods. They hold large amounts of pottery instead.
-
-Salt mining here began in the Late Bronze Age. That was the twelfth and eleventh centuries bc. Miners in the northern group borrowed techniques from copper mines. Copper had been dug in the Austrian Alps for centuries before. The deepest shaft reached 215 metres. The largest mine opening was 17 metres wide. The mine closed near the end of the Bronze Age. New work began in the eighth century bc. Miners in the eastern group adapted fully to salt. A landslide likely destroyed that mine in the mid-fourth century bc. Mining then moved to the Dammwiese. A western group opened there.
-
-Excavators found several log buildings in the valley. Work since 1994 uncovered buildings used to make salted bacon. Settlement layers from the Urnfield period also appeared. A waterlogged La Tène settlement lies on the Dammwiese. Wooden buildings, drains, and workplaces survive there. It covers more than three thousand square metres.
-
-The Hallstatt culture names material found far beyond the site. The style first described a Late Bronze Age phase. Scholars once tracked that from 1200 to 750 bc. Today the term usually points to the Early Iron Age. Those are the Hallstatt C and D phases. They ran from about 750 to 450 bc. The dating rests on southern imports from the Mediterranean. Hallstatt cultures preceded the La Tène Iron Age in many regions. Later Hallstatt people are often labelled Celts. The Greek word for them was Keltoi. Connecting objects to ethnic groups takes care, though.
-
-The culture spread across a wide arc. It reached from France in the west to Hungary in the east. It ran from southern Germany down to Slovenia. Scholars split it into a west and an east zone. The boundary runs north and south. It lies between the rivers Inn, Enns, and Moldau. Hallstatt itself stands in that border zone. Its cemetery material shows mixed or transitional traits. The west zone covers south-west Germany and northern Switzerland. Some scholars draw its edge into eastern France. The east zone takes in part of the Czech lands and Slovakia. It often sits south of the Danube. The eastern and southern borders follow the rivers Kulpa and Save.
-
-The inner Alpine area linked north and south. Rich graves in eastern France and south-west Germany show trade. The Greek colony Massalia, today Marseille, began around 600 bc. Contacts also ran to the Etruscans in Tuscany. The Golasecca culture mediated that trade. The Este culture of the Veneti traded metalwork in the situla style. Influences also flowed from the Iranian-speaking Scythians to the east.
-
-West Hallstatt graves share a common form. They lie in chambers beneath hills. They hold rich weapon offerings. Four-wheeled wagons and paired-horse harnesses are common finds. In the earliest phase the chief weapon was the iron sword.
+Hallstatt is a salt-mining town set above a lake in the Austrian Alps. The place gives its name to the first culture plainly read as Celtic. Crews dug the mines on a wide scale between 1846 and 1899. The culture moved through four named stages, A through D. Those stages stretch from about 1200 bc to about 600 bc. Across much of Europe its effect ran from roughly 800 bc to 450 bc. It replaced the earlier Umfield culture and gave way later to La Tene. Hallstatt art is mostly straight-edged and geometric in form. Crafters valued it for skill more than for beauty. The bird picture may have come from Italy, while plant shapes stay scarce.
 
 :::
 ```
@@ -113,5 +97,6 @@ West Hallstatt graves share a common form. They lie in chambers beneath hills. T
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 - Koch 2006, s.v. >Hallstatt
+- MacKillop 2008, s.v. 'Hallstatt'
 ```
 ![Hallstatt Image](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Hallstatt_-_Zentrum_.JPG/1200px-Hallstatt_-_Zentrum_.JPG)

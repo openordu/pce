@@ -11,9 +11,9 @@ attributes:
   - Fir Bolg a settler group that shared the island into fifths
   - Partholón a founder who cleared the plains and fought the Fomori
 categories:
-  - Group
   - Artifact
   - Person
+  - Group
 entities:
   - Lebor Gabála Érenn(Artifact)
   - Book of Invasions(Artifact)
@@ -59,5 +59,6 @@ Lebor Gabála Érenn is the Irish title of the Book of Invasions. Translated, th
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 - Koch 2006, s.v. 'Lebar Gabála Érenn'
+- MacKillop 2008, s.v. 'Lebor Gabála Érenn'
 ```
 ![Lebor Gabála Érenn Image](https://upload.wikimedia.org/wikipedia/commons/9/9f/Book_of_Leinster%2C_folio_53.jpg)

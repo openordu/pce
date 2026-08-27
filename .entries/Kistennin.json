@@ -1,0 +1,43 @@
+{
+  "name": "Kistennin",
+  "text": "Kistennin is an alternate spelling of the name Custennin. The name appears often in the early Welsh written record. The best-remembered bearer is the shepherd who helped Culhwch find Olwen in the tale Culhwch ac Olwen. His son is Goreu, the young man who finally slew the giant Ysbaddaden.",
+  "entities": [
+    {
+      "entity": "Custennin",
+      "type": "Person"
+    },
+    {
+      "entity": "Culhwch",
+      "type": "Person"
+    },
+    {
+      "entity": "Olwen",
+      "type": "Person"
+    },
+    {
+      "entity": "Culhwch ac Olwen",
+      "type": "Work"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Kistennin",
+      "attribute": "alternate spelling of Custennin"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Kistennin'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Record Kistennin.",
+    "key_results": [
+      "Give the common spelling.",
+      "Name the hero the shepherd aids.",
+      "Name the son who slew Ysbaddaden."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Kistennin'"
+  }
+}

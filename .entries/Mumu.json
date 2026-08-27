@@ -1,60 +1,63 @@
 {
-  "name": "Mumu",
-  "attributes": [
-    {
-      "entity": "Mumu",
-      "attribute": "an old name for the province of Munster"
-    },
-    {
-      "entity": "Munster",
-      "attribute": "the south province of music and song in the tale"
-    },
-    {
-      "entity": "Meath",
-      "attribute": "the center that was a symbol, not a real land"
-    }
-  ],
-  "entities": [
-    {
-      "entity": "Mumu",
-      "type": "Place"
-    },
-    {
-      "entity": "Munster",
-      "type": "Place"
-    },
-    {
-      "entity": "Leinster",
-      "type": "Place"
-    },
-    {
-      "entity": "Connacht",
-      "type": "Place"
-    },
-    {
-      "entity": "Ulster",
-      "type": "Place"
-    },
-    {
-      "entity": "Meath",
-      "type": "Place"
-    }
-  ],
-  "sources": [
-    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-  ],
-  "cyphertext": "IIYb-PPnlg-MXIBsJn4XhOaOmZCtXjE6os4d3YzaDyhb6JY8lApX2Q-5nnwWR9xbjL695n5S",
-  "salt": "T4nKwcdZv-S9c9zLCP1hIA==",
-  "text": "Mumu is an old name for the province of Munster, and the two names sit side by side in the books. In the old order of Ireland the earlier tale divided the island into four lands. Leinster in the east held the wealth. Connacht in the west held the wisdom. Ulster in the north held the war and its fierce men. Munster toward the southwest held the music and the song. A fifth land, Meath, took the center, but it was a symbol of the myth, not a real map. Munster the south was known for the fertile valley and for the goddesses of its high places.",
-  "okr": {
-    "objective": "Document Mumu.",
-    "key_results": [
-      "Record Mumu as an old name for Munster.",
-      "Record the four lands of the tale.",
-      "Record Munster as the land of music and song."
-    ],
-    "evidence": [
-      "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore (2008): Munster entry."
-    ]
+ "name": "Mumu",
+ "attributes": [
+  {
+   "entity": "Mumu",
+   "attribute": "an old name for the province of Munster"
+  },
+  {
+   "entity": "Munster",
+   "attribute": "the south province of music and song in the tale"
+  },
+  {
+   "entity": "Meath",
+   "attribute": "the center that was a symbol, not a real land"
   }
+ ],
+ "entities": [
+  {
+   "entity": "Mumu",
+   "type": "Place"
+  },
+  {
+   "entity": "Munster",
+   "type": "Place"
+  },
+  {
+   "entity": "Leinster",
+   "type": "Place"
+  },
+  {
+   "entity": "Connacht",
+   "type": "Place"
+  },
+  {
+   "entity": "Ulster",
+   "type": "Place"
+  },
+  {
+   "entity": "Meath",
+   "type": "Place"
+  },
+  {
+   "entity": "Iarmumu",
+   "type": "Place"
+  }
+ ],
+ "sources": [
+  "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.",
+  "MacKillop 2008, s.v. 'Iarmumu'"
+ ],
+ "cyphertext": "IIYb-PPnlg-MXIBsJn4XhOaOmZCtXjE6os4d3YzaDyhb6JY8lApX2Q-5nnwWR9xbjL695n5S",
+ "salt": "T4nKwcdZv-S9c9zLCP1hIA==",
+ "text": "Mumu is the older Irish term for the province of Munster, and the two names walk side by side through the books. In the old ordering the earlier tales divided the island of Ireland into four lands: Leinster in the east held wealth, Connacht in the west held wisdom, Ulster in the north held war, and Munster toward the south-west held music and song. A fifth land, Meath, took the center, but it stood as a symbol of the myth rather than a real map. As Cóiced Muman the province could count as one of the five, or split into two, depending on whether Meath was counted separately. The speech of the region split Munster into two named halves even on the map: the east, Aurmumu or Ormond, and the west, Iarmumu or Irmumu, mirroring a real political and geographic divide. In the twelfth century the province truly split in two, the O'Brien realm of the north taking the name Tuadmuma or Thomond and the MacCarthy realm of the south holding Desmuma or Desmond. Within these borders lie the southern shires of Clare, Cork, Kerry, Limerick, Tipperary, and Waterford, and the fertile land was famed for its goddesses of the high places.",
+ "okr": {
+  "objective": "Record Mumu, the old name of the province of the south and its west.",
+  "key_results": [
+   "Mumu once named the province of the south",
+   "the west half of the county stood as Iarmumu",
+   "the east half carried its own title in the old speech"
+  ],
+  "evidence": "MacKillop 2008, s.v. 'Iarmumu'"
+ }
 }

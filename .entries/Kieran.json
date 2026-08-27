@@ -1,0 +1,39 @@
+{
+  "name": "Kieran",
+  "text": "Kieran is an anglicized spelling of the name Ciarán. Early records say at least twenty-six Irish saints bore this name. The best known is the founder of the monastic settlement of Clonmacnoise on the Shannon. Another, Ciarán of Seir or Saighir, serves as patron of the diocese of Ossory.",
+  "entities": [
+    {
+      "entity": "Ciarán",
+      "type": "Person"
+    },
+    {
+      "entity": "Clonmacnoise",
+      "type": "Place"
+    },
+    {
+      "entity": "Ossory",
+      "type": "Region"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Kieran",
+      "attribute": "anglicized spelling of Ciarán"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Kieran'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Record Kieran.",
+    "key_results": [
+      "Give the Irish spelling.",
+      "Name the saint of Clonmacnoise.",
+      "Name the diocese of the elder saint."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Kieran'"
+  }
+}

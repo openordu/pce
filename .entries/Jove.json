@@ -1,0 +1,43 @@
+{
+  "name": "Jove",
+  "text": "Jove is an older form of the name Jupiter. Jupiter was the father of the Roman gods and the god of sky, thunder, and oaths. The Celts of the Roman empire took him as their own under local titles. They placed him below Mercury, Apollo, and Mars in their worship. Jove therefore names the Roman sky god as the Celts met him.",
+  "entities": [
+    {
+      "entity": "Jupiter",
+      "type": "Person"
+    },
+    {
+      "entity": "Mercury",
+      "type": "Person"
+    },
+    {
+      "entity": "Apollo",
+      "type": "Person"
+    },
+    {
+      "entity": "Mars",
+      "type": "Person"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Jove",
+      "attribute": "earlier form of Jupiter"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Jove'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Record Jove.",
+    "key_results": [
+      "Give the fuller name of the god.",
+      "Name the domain of the god.",
+      "Set his rank among the Roman gods."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Jove'"
+  }
+}

@@ -1,47 +1,80 @@
 {
-    "name": "Emain Ablach",
-    "attributes": [
-        {
-            "entity": "Emain Ablach",
-            "attribute": "an Irish isle of perfect summer"
-        },
-        {
-            "entity": "Isle of Apples",
-            "attribute": "a place where time or the world turns slow"
-        },
-        {
-            "entity": "Bran mac Febail",
-            "attribute": "the hero who sailed to the magical island"
-        }
-    ],
-    "entities": [
-        {
-            "type": "Place",
-            "entity": "Emain Ablach"
-        },
-        {
-            "type": "Place",
-            "entity": "Isle of Apples"
-        },
-        {
-            "type": "Person",
-            "entity": "Bran mac Febail"
-        }
-    ],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "cyphertext": "q2T6i8GNyUrFCGUT8Y7UYJj3wvnev6BPVKumf4SwEy4eQUJ99srChqFLSVbXxxNSvST0mQs5F0kHQo-NlA96eOqEDxcDVRowlZbjVaN07Kf950SiY7YfoLqQ-sWEbkd9MBACh8-3O9TxKKGxLUKUbU0eThRBNulOyc-Odtw41Qzmo5moo7d6fyxuZgw1vC57R9UmTgjyog1Hixuujxsnh7Sv5oHrlz4Gy9haTJ5rrHr9gHo39ER81ffKokioQnqf8ITdNOG0z2EO9e5K8NfqhTyJ-1U97pFaJvuykmtg5dnzSJyMyGOkjNb6jw1zaItSn1WSdzPHIph4OtJNxIQcS848UzmULbTPAM1X49Jxi3ZNJuMTE-IA_tACKdMyNPyDlPyJwLOJkWISH5gEjWXFLeewHbq3vm8ffBSXfKVyoJQlapx10lgRVSEPShEqJzB_P6HrHrucdrOQdeK8BB7b5pxVAtJEueTt4mVQOGbwzxpbiV50i62W7l56UDRYkjmU2oYU5hnlJ_c4gD-z0osjADjhZzmctvkNzPS2TG3RaIaq3CaNC9tGTFCyqgyrohk9NK_CEfWOVCNLUNdzmyhgudkQMDBHw8ufYrEkWFFAu1t912EEz7aAgZHDIMu_ENdv2S-InXL-hj5XcdDyoFa_jxa6i2AHRXEjk4eQvP1zTsYy6_7zSnDcpxCzdzF2gVWfG-TJUDJMq1pM53dpLIBeTyXQkkSQqqDb2RwjCNqyYTeI6eSNunRXWc9pKnybEAhIENdXFFeTllyvlgGrfQqFjv996-sz_vIHxFWB3musMoXVuBzz7wqAGlE32PxotgwpTk--uRkavCjdvO3DscQ0t4SvdvsBZbpLC5mg7cbvl1kEVHsnPk8p9C7VjExRujXtpUYkaETs0E03DJAz10RRwOPVjwCgIe5dlsiPJsh15g1ieTfQdwmUxNg7It8y_wEZE8jtcPFiyQXUzGB0-oVMBPCROZB7BbPcejN7nxuNGU4aruPFmxif26xXI2DSGtNtXL9sDnS_jKxXYDHmQR_viX4jEztaZ2Gwh1GKj-FRFmeD_qoup-MKdEimp3N06yZ7GgmJ3tzBiFZkzYOsge3zQfbUTr1O3SxJlBK1weRmOlS_rE2WYi1npJ0AqkXTjXUAqwecK_NFpwgb-HuecK3FpsYUtuA4jZbn5qZetGfxOAmArelWyv3BEHCn-z1TPG5ZdqaPF8aBZ6KPGdcQmzKNFfmQb8DM8Na5ElCo17_qY3S77VWA0JF4W_k7ZBhMtUp2QhIBE7DLsqVle3zrbb51fS903xHa9_num31N403jFkz7dk2Ck-SfAueecUTYXlumpoLcTbDYbM4hiG1yXrB0a_xdfOJaXwth12rY3LVNOotNNvS8JW48hkiO2LUkhamLlKcLl22ilSgG2fl7U3XjLPa4GWvoJUzZ2KID2u3BWZYuBda2mEZpB6TZZgUXq3t1eZ-iDQHkUDZRMmQb0QdIb6HDxnhOxHDFIWP2jAfThYcX5JQNg93dCWOb48D8C2RfLkTTx6kFCtirpVOByYFHzkJSxWTVz17V4M_De3sQhNkQhZiDJB0L37RFSkfQv6ZIgv8S86tdJnyZwz7BU-bEaaSWKER4SJhsiRbSJZrCjIjUCVlqM0lDku0GJCzVzj1bCTpsu8g5KwYs-mopCiusXmiIHHAGy0J9QLYQQ9xTJAx-ZVCvGwpgduKVwkzH_RAvF1NF9WIlp3DAetjlXIIQCsJc8qaIN3JTKccId2GHO74FQ6O6_a6w-R9GYjaJZrSr8EHt19a5mlMvPOtXHDeAQYckUnMK_4a5FCe5QQm-h-z6iYY6Cl7JvNTFQVtOnIVu0ZFJ1ACBl41VlvqpGBBFNS-_21opmNLzKw7tbAQzqy4pqmcfoipL3ppefEkxKKfvHhlfSbVJFTDvmBrtefu9Nv3cDj7mBRgt_WpoI9XN7E61skUQpVJClZg3GxSwW8QLCALcs6rkyT5wsxouQONlJUF55OuC6X7Msh6H_Lol056Smveckxc6mENHNTlbzWeYB0eHXsxFY5nX9DA7NAKiV3Q=",
-    "salt": "oCJNpKbpiNRDzzChyWMb1A==",
-    "text": "Emain Ablach, the Isle of Apples, is a magical island in Irish myth. It is a place of everlasting summer, where the trees always bloom and the people never grow old. The hero Bran sailed from the great west to find it, drawn by a vision and by the woman who bade his ship to follow her. On its shore he spent years in joy, yet time there moves more slowly than in our world. A sailor who leapt ashore on Ireland aged to dust in a single moment.",
-    "okr": {
-        "objective": "Rewrite Emain Ablach correctly from the window.",
-        "key_results": [
-            "the land, the vision, and the other world appear",
-            "typed entities hold the isle and the hero",
-            "time runs slow is told",
-            "text is more than two hundred characters"
-        ],
-        "evidence": "Monaghan, The Encyclopedia of Celtic Mythology and Folklore, 2008"
-    }
+ "name": "Emain Ablach",
+ "attributes": [
+  {
+   "entity": "Emain Ablach",
+   "attribute": "an Irish Otherworld isle of apples where no one ages, true home of Manannán mac Lir"
+  },
+  {
+   "entity": "Isle of Apples",
+   "attribute": "a place where time turns slow and fruit grows all year"
+  },
+  {
+   "entity": "Bran mac Febail",
+   "attribute": "the hero who sailed to the magical island and spent years there in joy"
+  },
+  {
+   "entity": "Avalon",
+   "attribute": "equated by later writers with the apple isle Emain Ablach"
+  }
+ ],
+ "entities": [
+  {
+   "entity": "Emain Ablach",
+   "type": "Place"
+  },
+  {
+   "entity": "Isle of Apples",
+   "type": "Place"
+  },
+  {
+   "entity": "Bran mac Febail",
+   "type": "Person"
+  },
+  {
+   "entity": "Manannán mac Lir",
+   "type": "Deity"
+  },
+  {
+   "entity": "Avalon",
+   "type": "Place"
+  },
+  {
+   "entity": "Argante",
+   "type": "Person"
+  },
+  {
+   "entity": "Layamon",
+   "type": "Person"
+  },
+  {
+   "entity": "Cruithin na Cuan",
+   "type": "Place"
+  },
+  {
+   "entity": "Ynys Afallach",
+   "type": "Place"
+  },
+  {
+   "entity": "Otherworld",
+   "type": "Concept"
+  }
+ ],
+ "sources": [
+  "MacKillop 2008, s.v. 'Emain Ablach'.",
+  "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+ ],
+ "cyphertext": "q2T6i8GNyUrFCGUT8Y7UYJj3wvnev6BPVKumf4SwEy4eQUJ99srChqFLSVbXxxNSvST0mQs5F0kHQo-NlA96eOqEDxcDVRowlZbjVaN07Kf950SiY7YfoLqQ-sWEbkd9MBACh8-3O9TxKKGxLUKUbU0eThRBNulOyc-Odtw41Qzmo5moo7d6fyxuZgw1vC57R9UmTgjyog1Hixuujxsnh7Sv5oHrlz4Gy9haTJ5rrHr9gHo39ER81ffKokioQnqf8ITdNOG0z2EO9e5K8NfqhTyJ-1U97pFaJvuykmtg5dnzSJyMyGOkjNb6jw1zaItSn1WSdzPHIph4OtJNxIQcS848UzmULbTPAM1X49Jxi3ZNJuMTE-IA_tACKdMyNPyDlPyJwLOJkWISH5gEjWXFLeewHbq3vm8ffBSXfKVyoJQlapx10lgRVSEPShEqJzB_P6HrHrucdrOQdeK8BB7b5pxVAtJEueTt4mVQOGbwzxpbiV50i62W7l56UDRYkjmU2oYU5hnlJ_c4gD-z0osjADjhZzmctvkNzPS2TG3RaIaq3CaNC9tGTFCyqgyrohk9NK_CEfWOVCNLUNdzmyhgudkQMDBHw8ufYrEkWFFAu1t912EEz7aAgZHDIMu_ENdv2S-InXL-hj5XcdDyoFa_jxa6i2AHRXEjk4eQvP1zTsYy6_7zSnDcpxCzdzF2gVWfG-TJUDJMq1pM53dpLIBeTyXQkkSQqqDb2RwjCNqyYTeI6eSNunRXWc9pKnybEAhIENdXFFeTllyvlgGrfQqFjv996-sz_vIHxFWB3musMoXVuBzz7wqAGlE32PxotgwpTk--uRkavCjdvO3DscQ0t4SvdvsBZbpLC5mg7cbvl1kEVHsnPk8p9C7VjExRujXtpUYkaETs0E03DJAz10RRwOPVjwCgIe5dlsiPJsh15g1ieTfQdwmUxNg7It8y_wEZE8jtcPFiyQXUzGB0-oVMBPCROZB7BbPcejN7nxuNGU4aruPFmxif26xXI2DSGtNtXL9sDnS_jKxXYDHmQR_viX4jEztaZ2Gwh1GKj-FRFmeD_qoup-MKdEimp3N06yZ7GgmJ3tzBiFZkzYOsge3zQfbUTr1O3SxJlBK1weRmOlS_rE2WYi1npJ0AqkXTjXUAqwecK_NFpwgb-HuecK3FpsYUtuA4jZbn5qZetGfxOAmArelWyv3BEHCn-z1TPG5ZdqaPF8aBZ6KPGdcQmzKNFfmQb8DM8Na5ElCo17_qY3S77VWA0JF4W_k7ZBhMtUp2QhIBE7DLsqVle3zrbb51fS903xHa9_num31N403jFkz7dk2Ck-SfAueecUTYXlumpoLcTbDYbM4hiG1yXrB0a_xdfOJaXwth12rY3LVNOotNNvS8JW48hkiO2LUkhamLlKcLl22ilSgG2fl7U3XjLPa4GWvoJUzZ2KID2u3BWZYuBda2mEZpB6TZZgUXq3t1eZ-iDQHkUDZRMmQb0QdIb6HDxnhOxHDFIWP2jAfThYcX5JQNg93dCWOb48D8C2RfLkTTx6kFCtirpVOByYFHzkJSxWTVz17V4M_De3sQhNkQhZiDJB0L37RFSkfQv6ZIgv8S86tdJnyZwz7BU-bEaaSWKER4SJhsiRbSJZrCjIjUCVlqM0lDku0GJCzVzj1bCTpsu8g5KwYs-mopCiusXmiIHHAGy0J9QLYQQ9xTJAx-ZVCvGwpgduKVwkzH_RAvF1NF9WIlp3DAetjlXIIQCsJc8qaIN3JTKccId2GHO74FQ6O6_a6w-R9GYjaJZrSr8EHt19a5mlMvPOtXHDeAQYckUnMK_4a5FCe5QQm-h-z6iYY6Cl7JvNTFQVtOnIVu0ZFJ1ACBl41VlvqpGBBFNS-_21opmNLzKw7tbAQzqy4pqmcfoipL3ppefEkxKKfvHhlfSbVJFTDvmBrtefu9Nv3cDj7mBRgt_WpoI9XN7E61skUQpVJClZg3GxSwW8QLCALcs6rkyT5wsxouQONlJUF55OuC6X7Msh6H_Lol056Smveckxc6mENHNTlbzWeYB0eHXsxFY5nX9DA7NAKiV3Q=",
+ "salt": "oCJNpKbpiNRDzzChyWMb1A==",
+ "text": "Emain Ablach, the Isle of Apples, is a wondrous island of the Otherworld in Irish tradition. Its name means fortress of apples in Irish. The sea god Manannán mac Lir makes his true home there, and he and his companions often dwell upon it or voyage from it to Cruithin na Cuan. On Emain Ablach the apple trees bear fruit all the year round, and no one who lands there grows old. The hero Bran mac Febail sailed westward to find the island, drawn by a vision and by a woman who bade his crew follow her. On its shore Bran spent years in seeming joy, yet time upon the isle moves far more slowly than in the mortal world. A sailor who leapt from the boat to Ireland aged to dust the instant his foot touched the land. Writers of later centuries equate the island with Avalon of the Arthurian cycle. In the romance of Layamon, the twelfth-century poet, Argante rules as queen of Avalon. The Latin phrase Insula Avallonis means isle of apples, and the Welsh name Ynys Afallach carries the same sense. The name Isle of Women is a variant translation of Emain Ablach. Some sources also connect the island to the folk of fairy and to the departed. The isle stands across the western sea, beyond the reach of ordinary ships, and in the tales it serves as a place of renewal, feasting, and rest for heroes who journey to the Otherworld. Its image passed from Irish poetry into the stock of Western legend, where the apple isle came to mean any blessed land of the dead or of the gods.",
+ "okr": {
+  "objective": "Document Emain Ablach, the Irish fortress of apples and home of Manannán mac Lir.",
+  "key_results": [
+   "Tell the Otherworld island of the apple trees where time runs slow.",
+   "Name Manannán mac Lir as its true master.",
+   "Equate the isle with Avalon and note Argante and Layamon.",
+   "Record the Isle of Women as a variant translation."
+  ],
+  "evidence": "MacKillop 2008, s.v. 'Emain Ablach'."
+ }
 }

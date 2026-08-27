@@ -1,0 +1,31 @@
+{
+  "name": "Llinon",
+  "text": "Llinon is the Welsh name for the Shannon River. Written with a lower-case first letter, the word means a a spear or an ash-tree.",
+  "entities": [
+    {
+      "entity": "Shannon",
+      "type": "Place"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Llinon",
+      "attribute": "Welsh name for the Shannon River"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Llinon'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Record Llinon.",
+    "key_results": [
+      "Name the river it belongs to.",
+      "Give the lower-case meaning of the word.",
+      "State what language this is."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Llinon'"
+  }
+}

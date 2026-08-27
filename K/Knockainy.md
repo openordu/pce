@@ -2,41 +2,92 @@
 layout: layouts/pce.njk
 title: Knockainy
 icon: file-lines
-order: 1364
+order: 0
 contributors: [ 'Christopher Godwin' ]
 attributes:
-  - Collkilla ancient name
-  - Hazel sacred spots
-  - Áine hill
+  - Knockainy an Irish festival site
+  - Lough Gur the lake beside the hill
+  - Aine the fairy queen of the mound
+  - Aine a possible sun goddess
+  - Lughnasa the harvest feast celebrated there
+  - Aine prayed to for the good of the herds
+  - Knockainy once named Collkilla, meaning hazel wood
+  - Aine a keeper of love and the growth of the grain
+  - Maurice a man who won Aine
+  - Ana goddess who named the clan of the god race
+  - Aine guards love, want, and the birth of a child
+  - Maurice a mortal who claimed Aine by her cloak
+  - Gerald the son who lives in the deep water
 categories:
-  - deity
-  - place
-  - tree
+  - group
+  - location
+  - event
+  - god
+  - person
 entities:
-  - Collkilla(place)
-  - Hazel(tree)
-  - Áine(deity)
+  - Knockainy(location)
+  - Lough Gur(location)
+  - Aine(god)
+  - Anu(god)
+  - Danu(god)
+  - Tuatha De Danann(group)
+  - Lughnasa(event)
+  - Collkilla(location)
+  - Maurice(person)
+  - Ana(god)
+  - Maurice(person)
+  - Gerald(person)
 tags:
+  - Knockainy
+  - Lough Gur
+  - Aine
+  - Anu
+  - Danu
+  - Tuatha De Danann
+  - Lughnasa
   - Collkilla
-  - Hazel
-  - Áine
+  - Maurice
+  - Ana
+  - Maurice
+  - Gerald
 ---
 ``` tab [group1:Info]
 ::: magazinestyle
-Near the bewitching waters of Lough Gur in Co. Limerick lies the Irish mythological site of Knockainy, a low mountain surmounted by a solitary stone Cairn, known as the abode of the Fairy Queen, named Áine. Some readings suggest that Áine was initially the district goddess Anu or DAnu, who bore the gods known as the Tuatha Dé Danann. Some associate Áine as a Sun goddess due to the presence of "sun-Well", near Knockainy that goes by her name. Knockainy was of particular importance during the Midsummer festivals and the harvest celebration of Lughnasa on August 1. During the festivities, the bearers of clars or straw torches marched along with their cattle on the hill slopes, seeking protection from Áine. The original name of the mountain was Collkilla or "hazel-wood," and since Hazels marked the consecrated lands wherein knowledge could be gained, the ancient name also indicates the importance of Áine's hill.
+Knockainy is an Irish mythological site. Its Gaelic name is Cnoc Aine. The low mountain stands near the waters of Lough Gur in County Limerick. A single stone cairn crowns the peak. The place is held to be the sidhe, or home, of the fairy queen Aine. She may once have been the district goddess called Anu or Danu. The gods called the Tuatha De Danann are her children. A few traditions name Aine a solar deity, since a well on the hillside bears her name. Knockainy drew people at Midsummer and at the harvest gathering of Lughnasa. People carried straw torches and drove their cattle up the slopes to ask her guard for the herds. The hill was once named Collkilla, the woods of hazel. As the hazel marks a sacred place, that old name carries the force of Aine's home. MacKillop calls her a fairy patron of love, desire, and the growth of folk. Her usual seat is the hill that holds her name, close to the lake. Many take her to have drawn from Ana, the goddess who named the old gods. In 1946 T. F. O'Rahilly guessed she began as a sun goddess. Her father is given as the man of the yew, or as a lodge son of the sea lord Manannan. The Earl of the south, Maurice, won her by seizing her cloak. He took her as his wife, and their son was called Gerald. That child lives beneath the water, men say. Each seven years he rides a white horse around the lake. Some Munster houses count him a founder of their line. 
 
 :::
 ```
 ``` tab [group1:Attributes]
-- **Collkilla**: ancient name
-- **Hazel**: sacred spots
-- **Áine**: hill
+- **Knockainy**: an Irish festival site
+- **Lough Gur**: the lake beside the hill
+- **Aine**: the fairy queen of the mound
+- **Aine**: a possible sun goddess
+- **Lughnasa**: the harvest feast celebrated there
+- **Aine**: prayed to for the good of the herds
+- **Knockainy**: once named Collkilla, meaning hazel wood
+- **Aine**: a keeper of love and the growth of the grain
+- **Maurice**: a man who won Aine
+- **Ana**: goddess who named the clan of the god race
+- **Aine**: guards love, want, and the birth of a child
+- **Maurice**: a mortal who claimed Aine by her cloak
+- **Gerald**: the son who lives in the deep water
 ```
 ``` tab [group1:Entities]
-- **Collkilla**: place
-- **Hazel**: tree
-- **Áine**: deity
+- **Knockainy**: location
+- **Lough Gur**: location
+- **Aine**: god
+- **Anu**: god
+- **Danu**: god
+- **Tuatha De Danann**: group
+- **Lughnasa**: event
+- **Collkilla**: location
+- **Maurice**: person
+- **Ana**: god
+- **Maurice**: person
+- **Gerald**: person
 ```
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
+- MacKillop 2008, s.v. 'Knockainy'
+- MacKillop 2008, s.v. 'Knockainy'
 ```

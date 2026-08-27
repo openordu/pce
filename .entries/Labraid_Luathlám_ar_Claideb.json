@@ -1,0 +1,39 @@
+{
+  "name": "Labraid Luathlám ar Claideb",
+  "text": "Labraid Luathlám ar Claideb, the swift sword-hand, rules over Mag Mell, the Plain of Delight. When he needs help he sends his beautiful wife Li Ban to seek Cúchulainn in the tale the Wasting Sickness of Cúchulainn.",
+  "entities": [
+    {
+      "entity": "Mag Mell",
+      "type": "Place"
+    },
+    {
+      "entity": "Li Ban",
+      "type": "Person"
+    },
+    {
+      "entity": "Cúchulainn",
+      "type": "Person"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Labraid Luathlám ar Claideb",
+      "attribute": "ruler of Mag Mell"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Labraid Luathlám ar Claideb'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Record Labraid Luathlám ar Claideb.",
+    "key_results": [
+      "Name his domain.",
+      "Name his wife.",
+      "Name the tale in which he seeks help."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Labraid Luathlám ar Claideb'"
+  }
+}

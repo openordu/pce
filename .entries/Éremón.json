@@ -1,115 +1,128 @@
 {
-    "name": "Éremón",
-    "attributes": [
-        {
-            "entity": "Milesians",
-            "attribute": "the last invaders of Ireland"
-        },
-        {
-            "entity": "Eremon",
-            "attribute": "son of Mil"
-        },
-        {
-            "entity": "Eremon",
-            "attribute": "fought the Tuatha De Danann"
-        },
-        {
-            "entity": "Eremon",
-            "attribute": "won the land"
-        },
-        {
-            "entity": "Amairgin",
-            "attribute": "divided the land on low hills"
-        },
-        {
-            "entity": "Eiscir Riada",
-            "attribute": "runs from Dublin to Galway"
-        },
-        {
-            "entity": "Eremon",
-            "attribute": "took the north"
-        },
-        {
-            "entity": "Eber Finn",
-            "attribute": "took the south"
-        },
-        {
-            "entity": "Eber Finn",
-            "attribute": "waged a long war"
-        },
-        {
-            "entity": "Eremon",
-            "attribute": "killed Eber Finn"
-        },
-        {
-            "entity": "Eremon",
-            "attribute": "king of a united Ireland"
-        },
-        {
-            "entity": "Tara",
-            "attribute": "seat of the kingship"
-        },
-        {
-            "entity": "Tea",
-            "attribute": "the wife of Eremon"
-        }
-    ],
-    "entities": [
-        {
-            "entity": "Eremon",
-            "type": "person"
-        },
-        {
-            "entity": "Eber Finn",
-            "type": "person"
-        },
-        {
-            "entity": "Amairgin",
-            "type": "person"
-        },
-        {
-            "entity": "Mil",
-            "type": "person"
-        },
-        {
-            "entity": "Milesians",
-            "type": "group"
-        },
-        {
-            "entity": "Tuatha De Danann",
-            "type": "group"
-        },
-        {
-            "entity": "Ireland",
-            "type": "place"
-        },
-        {
-            "entity": "Eiscir Riada",
-            "type": "place"
-        },
-        {
-            "entity": "Tara",
-            "type": "place"
-        }
-    ],
-    "sources": [
-        "Gwynn, Edward. The Metrical Dindshenchas. Part II, vol. IX. Royal Irish Academy, Todd Lecture Series. Dublin: Hodges, Figgis, and Co., Ltd., 1906–1924, 22.",
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "image": [
-        "https://upload.wikimedia.org/wikipedia/commons/4/4b/Lion_of_Heremon.png"
-    ],
-    "cyphertext": "64zlsJwaC0aUeaFOs2dtmPcV3dH-eonJsJLdOqX4afbpY94Q5sfw3b-IHOds070uRrOyY6wcJKeaonhpbXqYj9K_HA1Vf9p8VFQLLo_qeRlpKZVVZ5YixrcYCwrBN0_IbC_13tH4TSUqMTJjcKSc5y7noM6xnwlvpDD_NWoTW320bPDIjs-CjpiQOV82nKyCxa5cCmQs1XKcbNd0YIcBwXxHcGCr13bJL7exR_OK-c6IrTMZT9Kg8_-WiAP4wPAHVQS0Wd9rP7xgnwLjI3XMgrJ2jsThVI4YAGlnKaiJOQGM3UdkDm2MeKfMjQwNa9_8WV3-p4ccFJG-PpVX16y7UKswCdADgxevffu0evrw72xqoKDb3r3B0oN6GmKK3G8ZG4pKelHc8cgEk_JQF16-TGtcHfBRa4QKZqOdq-M87iewJZfvUk0txPQiTvdMsQvIdwPdlyRRFiNlopr-r61_yNBjZmX7zrR-e3crLsXB5yigRTMaaCnzkY4AzQ6XAHr4YbxdDmlUq07HSvsUr7AOK2_JnOIJWcTY49MZzbzgqKLhr48ozf2RRTMb_ldw4tLCmqwRA2Sb4CUH4K0aK0fCOB8k9IN8wrjb6MnLIOxYBiAWEdnJhum3LcEEWH9pZBdcUZq6cDAEC8poHyB92Uwh8LOOlueO9B-7PLD2B1n1tgmHYGDKuO1IeWC5s74w6I_3cPWY_7RakQYr82six2BQEN-9_Z-eC_mHwnB-67C0NauuhaBlfv-X7y9oIh5_4-r9i3nwHaqxhhaE8ZyRZ78Zk7xaIMfhqovYgi86SfuEDKAJOB6Ae-6TnQ1nBsR_uOhUyOrY8waCsit0_9qb7pRUlYAXdN9bNox7fTBahLML3rEGyGYLT13hRaaKNoWCUj1bChiUp0Rwbaw5T719n96J-WeCVgb_ADr6callBCfeDpyb4zUgr5jw-11dv2mWCSFch9jFH0yjNCbkW6nPuR9azI_UTc4BdUUis_gXod3iiF0EOmBd6pOGkbboM-0M7UHfFujup-R5xD70mB8fHZftSYR3Wx6K6mL9M9TEWgu7qZRCVBXTF50uvnXPPBkXpUCPmR9aCASaA7tEb87niMMB1Co6LaUcECoL6wilkjPlu5cYkX3mKHQR4W45D2LwHmb7tEK5fRTvn34eQIi0HynC982digdvmqQfC5BFzP8lIcYtsgx3BRXVwktFvxFVsF8NR8c6H9PpKH1zLoPuaZBNbV-2UUwLnv4PMUoCtlWsYsZe-I1LGMj3SfT8Tgx1A1NE404-ioWqyuXqGzRi1-J1QzqBXrzDdOgWyE9ATjokFTCfRLBO_5eIL3nw5EGWR-tTh6aYIiRyp4dwPUrYucncTYfGhBosm7HclcoekLWw0iUgugna4pim9EUNIyrKUDtJtyaeFHzgBbeWiC7FFfsxHZZRfQstrL-FuAHY-Uv_zNGIO9JqMgTDPzxQocYbRuTjasLXA7AmZi4IyJnmvBJNmyUL3ME5q_UcRjLMqpLKMwZayzeQyfz2OBwKWe5YmqVeVzeb-z4yB6OlieiuOpycy6kdb43sSewCqUmBJRlxupxcO7jITs-gB3h5JsSOEwro1k_JoUaZdajfoF8lkbLfN5VaoYsgMvBVlYp6tz426VTL0Q4ucfK8Hg==",
-    "salt": "dXlJHo3vIthLJoD8CJOhDQ==",
-    "text": "Eremon is an Irish hero. His other names are Heremon and Eremon. The Book of Invasions calls the Milesians the last wave of settlers. They were the men of Mil. Eremon led the attack with his brother Eber Finn. The two fought the magical host of the Tuatha De Danann. They won control of the island. The myth may hold a memory of a real Celtic arrival. Those settlers took rule from the older tribes. After the win, the brothers argued about the rule. The poet Amairgin settled the land in two. He drew a line on the low glacial hills. The line runs from present-day Dublin to Galway. This strip is the Eiscir Riada. Eremon took the north. Eber Finn held the south. Eber Finn stayed angry. He opened a long war. Eremon had to end his brother's life. Eremon then ruled a united Ireland. He founded the kingship at Tara. He gave the sacred hill the name of his wife Tea.",
-    "okr": {
-        "objective": "the Milesian hero Éremón who founded the kingship at Tara",
-        "key_results": [
-            "Eremon was a hero among the Milesians.",
-            "He fought the Tuatha De Danann for the island.",
-            "Amairgin divided the land along the Eiscir Riada.",
-            "Eremon founded the Irish kingship at Tara."
-        ],
-        "evidence": "Monaghan, Encyclopedia of Celtic Mythology and Folklore"
+  "name": "Éremón",
+  "attributes": [
+    {
+      "entity": "Milesians",
+      "attribute": "the last invaders of Ireland"
+    },
+    {
+      "entity": "Eremon",
+      "attribute": "son of Mil"
+    },
+    {
+      "entity": "Eremon",
+      "attribute": "fought the Tuatha De Danann"
+    },
+    {
+      "entity": "Eremon",
+      "attribute": "won the land"
+    },
+    {
+      "entity": "Amairgin",
+      "attribute": "divided the land on low hills"
+    },
+    {
+      "entity": "Eiscir Riada",
+      "attribute": "runs from Dublin to Galway"
+    },
+    {
+      "entity": "Eremon",
+      "attribute": "took the north"
+    },
+    {
+      "entity": "Eber Finn",
+      "attribute": "took the south"
+    },
+    {
+      "entity": "Eber Finn",
+      "attribute": "waged a long war"
+    },
+    {
+      "entity": "Eremon",
+      "attribute": "killed Eber Finn"
+    },
+    {
+      "entity": "Eremon",
+      "attribute": "king of a united Ireland"
+    },
+    {
+      "entity": "Tara",
+      "attribute": "seat of the kingship"
+    },
+    {
+      "entity": "Tea",
+      "attribute": "the wife of Eremon"
     }
+  ],
+  "entities": [
+    {
+      "entity": "Eremon",
+      "type": "person"
+    },
+    {
+      "entity": "Eber Finn",
+      "type": "person"
+    },
+    {
+      "entity": "Amairgin",
+      "type": "person"
+    },
+    {
+      "entity": "Mil",
+      "type": "person"
+    },
+    {
+      "entity": "Milesians",
+      "type": "group"
+    },
+    {
+      "entity": "Tuatha De Danann",
+      "type": "group"
+    },
+    {
+      "entity": "Ireland",
+      "type": "place"
+    },
+    {
+      "entity": "Eiscir Riada",
+      "type": "place"
+    },
+    {
+      "entity": "Tara",
+      "type": "place"
+    },
+    {
+      "entity": "Tara",
+      "type": "Place"
+    },
+    {
+      "entity": "Tea",
+      "type": "Person"
+    },
+    {
+      "entity": "Georges Dumezil",
+      "type": "Person"
+    }
+  ],
+  "sources": [
+    "Gwynn, Edward. The Metrical Dindshenchas. Part II, vol. IX. Royal Irish Academy, Todd Lecture Series. Dublin: Hodges, Figgis, and Co., Ltd., 1906–1924, 22.",
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.",
+    "MacKillop 2008, s.v. 'Heremon'"
+  ],
+  "image": [
+    "https://upload.wikimedia.org/wikipedia/commons/4/4b/Lion_of_Heremon.png"
+  ],
+  "cyphertext": "64zlsJwaC0aUeaFOs2dtmPcV3dH-eonJsJLdOqX4afbpY94Q5sfw3b-IHOds070uRrOyY6wcJKeaonhpbXqYj9K_HA1Vf9p8VFQLLo_qeRlpKZVVZ5YixrcYCwrBN0_IbC_13tH4TSUqMTJjcKSc5y7noM6xnwlvpDD_NWoTW320bPDIjs-CjpiQOV82nKyCxa5cCmQs1XKcbNd0YIcBwXxHcGCr13bJL7exR_OK-c6IrTMZT9Kg8_-WiAP4wPAHVQS0Wd9rP7xgnwLjI3XMgrJ2jsThVI4YAGlnKaiJOQGM3UdkDm2MeKfMjQwNa9_8WV3-p4ccFJG-PpVX16y7UKswCdADgxevffu0evrw72xqoKDb3r3B0oN6GmKK3G8ZG4pKelHc8cgEk_JQF16-TGtcHfBRa4QKZqOdq-M87iewJZfvUk0txPQiTvdMsQvIdwPdlyRRFiNlopr-r61_yNBjZmX7zrR-e3crLsXB5yigRTMaaCnzkY4AzQ6XAHr4YbxdDmlUq07HSvsUr7AOK2_JnOIJWcTY49MZzbzgqKLhr48ozf2RRTMb_ldw4tLCmqwRA2Sb4CUH4K0aK0fCOB8k9IN8wrjb6MnLIOxYBiAWEdnJhum3LcEEWH9pZBdcUZq6cDAEC8poHyB92Uwh8LOOlueO9B-7PLD2B1n1tgmHYGDKuO1IeWC5s74w6I_3cPWY_7RakQYr82six2BQEN-9_Z-eC_mHwnB-67C0NauuhaBlfv-X7y9oIh5_4-r9i3nwHaqxhhaE8ZyRZ78Zk7xaIMfhqovYgi86SfuEDKAJOB6Ae-6TnQ1nBsR_uOhUyOrY8waCsit0_9qb7pRUlYAXdN9bNox7fTBahLML3rEGyGYLT13hRaaKNoWCUj1bChiUp0Rwbaw5T719n96J-WeCVgb_ADr6callBCfeDpyb4zUgr5jw-11dv2mWCSFch9jFH0yjNCbkW6nPuR9azI_UTc4BdUUis_gXod3iiF0EOmBd6pOGkbboM-0M7UHfFujup-R5xD70mB8fHZftSYR3Wx6K6mL9M9TEWgu7qZRCVBXTF50uvnXPPBkXpUCPmR9aCASaA7tEb87niMMB1Co6LaUcECoL6wilkjPlu5cYkX3mKHQR4W45D2LwHmb7tEK5fRTvn34eQIi0HynC982digdvmqQfC5BFzP8lIcYtsgx3BRXVwktFvxFVsF8NR8c6H9PpKH1zLoPuaZBNbV-2UUwLnv4PMUoCtlWsYsZe-I1LGMj3SfT8Tgx1A1NE404-ioWqyuXqGzRi1-J1QzqBXrzDdOgWyE9ATjokFTCfRLBO_5eIL3nw5EGWR-tTh6aYIiRyp4dwPUrYucncTYfGhBosm7HclcoekLWw0iUgugna4pim9EUNIyrKUDtJtyaeFHzgBbeWiC7FFfsxHZZRfQstrL-FuAHY-Uv_zNGIO9JqMgTDPzxQocYbRuTjasLXA7AmZi4IyJnmvBJNmyUL3ME5q_UcRjLMqpLKMwZayzeQyfz2OBwKWe5YmqVeVzeb-z4yB6OlieiuOpycy6kdb43sSewCqUmBJRlxupxcO7jITs-gB3h5JsSOEwro1k_JoUaZdajfoF8lkbLfN5VaoYsgMvBVlYp6tz426VTL0Q4ucfK8Hg==",
+  "salt": "dXlJHo3vIthLJoD8CJOhDQ==",
+  "text": "Eremon is an Irish hero. His other names are Heremon and Eremon. The Book of Invasions calls the Milesians the last wave of settlers. They were the men of Mil. Eremon led the attack with his brother Eber Finn. The two fought the magical host of the Tuatha De Danann. They won control of the island. The myth may hold a memory of a real Celtic arrival. Those settlers took rule from the older tribes. After the win, the brothers argued about the rule. The poet Amairgin settled the land in two. He drew a line on the low glacial hills. The line runs from present-day Dublin to Galway. This strip is the Eiscir Riada. Eremon took the north. Eber Finn held the south. Eber Finn stayed angry. He opened a long war. Eremon had to end his brother's life. Eremon then ruled a united Ireland. He founded the kingship at Tara. He gave the sacred hill the name of his wife Tea.\n\nMacKill ties Éremón to the close of his rule. From the victory he raises his seat at the hill of the kingship, and he gives that place his wife's own name. In one old reading, the man who joins the island is set next to David of the Bible in a medieval gloss. A newer student of the old gods, the scholar Georges Dumézil, reads the same record with a cooler eye: the north man takes the whole land and the whole crown, so the map of power bends to his side. The old name, under many spellings, was then worn by later rulers who set their lines back to this first of the line. So the one hero opens nearly all the centuries of Irish high story.MacKill recollects the end of his rule. From the victory he raises his seat at the hill of the kingship, and he gives it a name drawn from his own wife. In one reading, the man who joins the island is set next to David of the old Bible in the pages of a medieval gloss. A newer student of the Indo gods, the scholar Georges Dumezil, reads the same record with a steeper eye: he takes the whole land and takes the whole of the crown, so his is the north doing the work of the whole. The old name, under its many spellings, was then worn by later rulers and nobles who set their lines back to the first of the line. So the one hero opens nearly all the centuries of Irish high story.",
+  "okr": {
+    "objective": "Document the Milesian founder of the Irish kingship at Tara.",
+    "key_results": [
+      "He fought the Tuatha De Danann for the island and won",
+      "He took the north in the peace split and kept the rule",
+      "He put his capital on the hill of Ta and named crown of his home",
+      "Later chie art read his union of the state as a model"
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Heremon'"
+  }
 }

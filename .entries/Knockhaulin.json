@@ -1,0 +1,39 @@
+{
+  "name": "Knockhaulin",
+  "text": "Knockhaulin is an alternate spelling of Knockaulin. Both forms name a hill of 600 feet in County Kildare, near the town of Kilcullen. The hill holds wide Iron Age earthworks that were dug in the 1960s and 1970s. Those works mark the site of Dún Ailinne, once the home seat of the Leinster kings.",
+  "entities": [
+    {
+      "entity": "Kildare",
+      "type": "Region"
+    },
+    {
+      "entity": "Dún Ailinne",
+      "type": "Place"
+    },
+    {
+      "entity": "Leinster",
+      "type": "Region"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Knockhaulin",
+      "attribute": "variant spelling of Knockaulin"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Knockhaulin'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Record Knockhaulin.",
+    "key_results": [
+      "Give the more common spelling.",
+      "Set the hill in Kildare.",
+      "Name the royal seat it marks."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Knockhaulin'"
+  }
+}

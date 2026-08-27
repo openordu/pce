@@ -1,0 +1,39 @@
+{
+  "name": "Kennock",
+  "text": "Kennock is an English form of the name Mo Cháemóc. Mo Cháemóc was a disciple of the saint Patrick. In the tale of the Children of Lir he gives the Christian faith to the four children when their time of sorrow ends.",
+  "entities": [
+    {
+      "entity": "Mo Cháemóc",
+      "type": "Person"
+    },
+    {
+      "entity": "Patrick",
+      "type": "Person"
+    },
+    {
+      "entity": "Children of Lir",
+      "type": "Group"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Kennock",
+      "attribute": "English form of Mo Cháemóc"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Kennock'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Record Kennock.",
+    "key_results": [
+      "Give the fuller form of the name.",
+      "Name the master of the disciple.",
+      "Set the figure in the tale of the Children of Lir."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Kennock'"
+  }
+}

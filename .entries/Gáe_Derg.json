@@ -1,0 +1,43 @@
+{
+  "name": "Gáe Derg",
+  "text": "Gáe Derg is the red spear of the Irish hero Diarmait Ua Duibne. The name means red spear. It is the greater of the two spears that he carries through the Fenian tales. His smaller weapon is Gáe Buide, the yellow spear. The spear served Diarmait in a fight with a witch who rained darts upon him from above. He still held it in the fatal boar-hunt that he shared with Fionn mac Cumhaill. In that hunt the boar slew the hero, just as fate had foretold. The spear thus binds Diarmait to the wonder of the Otherworld and to his tragic end.",
+  "entities": [
+    {
+      "entity": "Diarmait Ua Duibne",
+      "type": "Person"
+    },
+    {
+      "entity": "Gáe Buide",
+      "type": "Weapon"
+    },
+    {
+      "entity": "Fionn mac Cumhaill",
+      "type": "Person"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Gáe Derg",
+      "attribute": "greater spear of Diarmait Ua Duibne"
+    },
+    {
+      "entity": "Gáe Derg",
+      "attribute": "carried in the fatal boar-hunt"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Gáe Derg'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Record Gáe Derg.",
+    "key_results": [
+      "Give the meaning red spear.",
+      "Set the spear among the arms of Diarmait.",
+      "Tell of its use against the witch and in the boar-hunt."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Gáe Derg'"
+  }
+}

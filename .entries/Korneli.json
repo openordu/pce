@@ -1,0 +1,35 @@
+{
+  "name": "Korneli",
+  "text": "Korneli is a pseudo-saint of Breton folk tradition linked with the great stones of Carnac. In local legend enemies chase him in an ox-cart. He turns and lays a curse that hardens them into long rows of enormous boulders. Elsewhere he guards horned beasts, not oxen alone. That office leads some scholars to see in him a Christian shell around the older god Cernunnos.",
+  "entities": [
+    {
+      "entity": "Carnac",
+      "type": "Place"
+    },
+    {
+      "entity": "Cernunnos",
+      "type": "Person"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Korneli",
+      "attribute": "pseudo-saint linked with Carnac stones"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Korneli'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Record Korneli.",
+    "key_results": [
+      "Name the megalithic site tied to him.",
+      "Tell what became of his pursuers.",
+      "Name the older god he may mask."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Korneli'"
+  }
+}

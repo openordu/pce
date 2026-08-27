@@ -8,6 +8,14 @@
     {
       "entity": "Book of Invasions",
       "attribute": "also called Lebor Gabála Érenn, it tells of six invasions from the flood to the final settlers"
+    },
+    {
+      "entity": "Cesair",
+      "attribute": "granddaughter of Noah and leader of the first invasion"
+    },
+    {
+      "entity": "Milesians",
+      "attribute": "the final invaders and the mortal ancestors of the modern Gaels"
     }
   ],
   "entities": [
@@ -26,24 +34,59 @@
     {
       "entity": "Ireland",
       "type": "Place"
+    },
+    {
+      "entity": "Cesair",
+      "type": "Person"
+    },
+    {
+      "entity": "Partholón",
+      "type": "Person"
+    },
+    {
+      "entity": "Nemed",
+      "type": "Person"
+    },
+    {
+      "entity": "Fir Bolg",
+      "type": "Group"
+    },
+    {
+      "entity": "Tuatha Dé Danann",
+      "type": "Group"
+    },
+    {
+      "entity": "Míl Espáine",
+      "type": "Person"
+    },
+    {
+      "entity": "Milesians",
+      "type": "Group"
+    },
+    {
+      "entity": "Fomorians",
+      "type": "Group"
+    },
+    {
+      "entity": "biblical flood",
+      "type": "Event"
     }
   ],
   "sources": [
-    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.",
+    "MacKillop 2008, s.v. 'Lebor Gabála Érenn'"
   ],
   "cyphertext": "aQTOVdFsH8aHwUHvVZiu3Ud-5XWPO5Mu2UWEt0QmqGN6lbPAvq1-QjHybOpikskH3wkKFObM7DONLszJKw==",
   "salt": "HobMfL-78kI8VPp6VTpdPw==",
-  "text": "Invasions is a term for the mythic history of Ireland. The full title is the Book of Invasions, or Lebor Gabála Érenn. Under that name the work tells of six invasions of Ireland from the biblical flood to the final settlers. The book was compiled in the 12th century in several versions. Older parts date to much earlier. Successive peoples reached the island. Each held it until the next arrival.",
+  "text": "Invasions is a term for the mythic history of Ireland. The full title is the Book of Invasions, or Lebor Gabála Érenn. Under that name the work tells of the six invasions of Ireland from the biblical flood to the final settlers. The book was compiled in the twelfth century in several versions. Older parts date to much earlier. Successive peoples reached the island. Each held it until the next arrival. The work synchronizes Irish myth with the frame of biblical story. It was arranged as a pattern of invasions. Modern readers take the greatest interest in the six mythical waves, or seven if one counts the Fomorians. The order of the invaders is fixed. First came Cesair, granddaughter of Noah, sent to escape the flood. Next came Partholón and the Partholonians. Then Nemed and the Nemedians came from the Caspian Sea. The Fir Bolg followed as a short dark people fleeing oppression. Next were the Tuatha Dé Danann, gods reduced to human stature. Last came Míl Espáine and the Milesians, the human ancestors of today Gaels. They still rule when the time frame of Irish heroic literature ends. The earliest two waves rest on the thinnest ground and seem most contrived. Many names in Cesair party seem invented for place-name glosses. The tale mixes honest shreds of ethnic history with pure invention. Sorting fact from fancy stays an open task for scholars.",
   "okr": {
     "objective": "Document the mythic term invasions and its source text.",
     "key_results": [
-      "Define invasions as the term for Ireland's mythic history.",
+      "Define invasions as the term for Ireland mythic history.",
       "Name the Book of Invasions as the source text.",
-      "Note the six invasions and the 12th-century compilation."
+      "Note the six invasions and the twelfth century compilation.",
+      "List the waves from Cesair to the Milesians."
     ],
-    "evidence": [
-      "Monaghan, P. The Encyclopedia of Celtic Mythology and Folklore (2008): invasions entry, Book of Invasions entry.",
-      "Koch, J. T. Encyclopedia of Celtic Culture (2006): Lebor Gabála Érenn."
-    ]
+    "evidence": "MacKillop 2008, s.v. 'Lebor Gabála Érenn'"
   }
 }

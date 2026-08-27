@@ -1,0 +1,39 @@
+{
+  "name": "Kristof",
+  "text": "Kristof is a small boy whose deeds set much of the Breton legend of Ys in motion. He fishes with a crooked stick and pulls in a magic fish that offers wealth for its freedom. The princess Dahut laughs at the bargain, so the fish lays a spell that leaves her pregnant with a child who can name no father. Her father Gradlon seals Dahut, Kristof, and the infant in a cask and sends them adrift. The fish then raises a palace first, and afterwards a whole city. Meanwhile the walls of Ys fail because Kristof has carried off the holy oak that held back the sea.",
+  "entities": [
+    {
+      "entity": "Ys",
+      "type": "Place"
+    },
+    {
+      "entity": "Dahut",
+      "type": "Person"
+    },
+    {
+      "entity": "Gradlon",
+      "type": "Person"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Kristof",
+      "attribute": "boy whose acts drive the legend of Ys"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Kristof'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Record Kristof.",
+    "key_results": [
+      "Name the princess he offends.",
+      "Name her father.",
+      "Tell what he takes from Ys."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Kristof'"
+  }
+}

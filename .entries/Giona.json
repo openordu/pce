@@ -1,50 +1,66 @@
 {
-    "name": "Giona",
-    "attributes": [
-        {
-            "entity": "Giona",
-            "attribute": "is an Irish hero of the Fianna"
-        },
-        {
-            "entity": "Giona",
-            "attribute": "is the grandson of Fionn Mac Cumhaill"
-        },
-        {
-            "entity": "Giona",
-            "attribute": "was lazy and could not control his warriors"
-        },
-        {
-            "entity": "Fionn Mac Cumhaill",
-            "attribute": "tutored Giona into a great hero"
-        }
-    ],
-    "entities": [
-        {
-            "entity": "Giona",
-            "type": "Person"
-        },
-        {
-            "entity": "Fionn Mac Cumhaill",
-            "type": "Person"
-        },
-        {
-            "entity": "Fianna",
-            "type": "Group"
-        }
-    ],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "cyphertext": "KvBz84c2ovqEwUjHLk975lYdZrKIF-2LBZWd14YZtCOxKr645giwzC7R7LgKBlR8n5eJ_hzHyDeEHVIp6G6rdEFy84K-a6S6a-sP8tn3R90yL0VWHs0pbtVAVmFy3Wi6dVdFZAWgkko2Akv6B53e9PjsWPvkHrUOgHb2v0VAWqAonSY_IenPGx-ZpJXKjG8Zj23xcVO-EKoEql5qpVGU6ZtRwpRqMdIJP69y-rqPAQHyWVAw6-FxL8S-BrqGQ-5RKM1QlVzmqdK394-SR-B80CHpQdkL-UIeAfg1T6n3zYNvZOM_6TjrMr7qLb1OSx5Ej9QJSzAiSFDUP5TAvcEEA0JFE7xuXaponY9uyWDEYRW-vIsPrhZoM7F_96zxauBHeBnHUW7rXaPJLskH0JiJHls5xR2aAP-UxqiYOBaP_A==",
-    "salt": "VIKx2iIPPEZG6014CLweNg==",
-    "text": "Giona is an Irish hero of the Fianna. He was the grandson of Fionn Mac Cumhaill. A lazy fellow, Giona struggled to command his warriors, who saw him as a weak chief. Fionn took him under his care and shaped him into a great Fenian hero.",
-    "okr": {
-        "objective": "Document Giona as a Fianna hero shaped by his grandfather.",
-        "key_results": [
-            "Establish Giona as a Person-typed Irish hero",
-            "Record his kinship with Fionn Mac Cumhaill and the Fianna",
-            "Record Fionn's tutelage that made him a great warrior"
-        ],
-        "evidence": "Monaghan, The Encyclopedia of Celtic Mythology and Folklore, 2003"
-    }
+ "name": "Giona",
+ "attributes": [
+  {
+   "entity": "Giona",
+   "attribute": "is a champion of the Fianna in old Irish tales"
+  },
+  {
+   "entity": "Giona",
+   "attribute": "some sources make him a grandson of Fionn Mac cumhaill"
+  },
+  {
+   "entity": "Giona",
+   "attribute": "was first judged lazy, vain, and selfish by his own men"
+  },
+  {
+   "entity": "Fionn Mac cumhaill",
+   "attribute": "trained Giona in the rules of the Fianna and made him a leader"
+  },
+  {
+   "entity": "Giona",
+   "attribute": "was also known as Gio and Gio mac Luga"
+  },
+  {
+   "entity": "Giona",
+   "attribute": "older English books spelled the name Geena"
+  }
+ ],
+ "entities": [
+  {
+   "entity": "Giona",
+   "type": "Person"
+  },
+  {
+   "entity": "Gio mac Luga",
+   "type": "Person"
+  },
+  {
+   "entity": "Fionn Mac cumhaill",
+   "type": "Person"
+  },
+  {
+   "entity": "Fianna",
+   "type": "Group"
+  }
+ ],
+ "sources": [
+  "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.",
+  "MacKillop 2008, s.v. Giona"
+ ],
+ "cyphertext": "KvBz84c2ovqEwUjHLk975lYdZrKIF-2LBZWd14YZtCOxKr645giwzC7R7LgKBlR8n5eJ_hzHyDeEHVIp6G6rdEFy84K-a6S6a-sP8tn3R90yL0VWHs0pbtVAVmFy3Wi6dVdFZAWgkko2Akv6B53e9PjsWPvkHrUOgHb2v0VAWqAonSY_IenPGx-ZpJXKjG8Zj23xcVO-EKoEql5qpVGU6ZtRwpRqMdIJP69y-rqPAQHyWVAw6-FxL8S-BrqGQ-5RKM1QlVzmqdK394-SR-B80CHpQdkL-UIeAfg1T6n3zYNvZOM_6TjrMr7qLb1OSx5Ej9QJSzAiSFDUP5TAvcEEA0JFE7xuXaponY9uyWDEYRW-vIsPrhZoM7F_96zxauBHeBnHUW7rXaPJLskH0JiJHls5xR2aAP-UxqiYOBaP_A==",
+ "salt": "VIKx2iIPPEZG6014CLweNg==",
+ "text": "Giona mac Lugha is a champion of the Fianna in Irish tradition. Some accounts call him a grandson of Fionn mac Cumhaill. His own men held him in contempt, thinking him lazy, vain, and selfish. Fionn then taught Giona the maxims of the Fianna to stiffen his resolve. After that lesson Giona grew into a true leader of the warrior band. English writers of an older day spelled his name Geena mac Luga.",
+ "okr": {
+  "objective": "Document Giona as a Fianna champion shaped into a leader by Fionn Mac cumhaill.",
+  "key_results": [
+   "Present Giona as a champion of the Fianna",
+   "Record the name forms Gio, Gio mac Luga, and Geena",
+   "Explain how Fionn trained the lazy youth into a leader"
+  ],
+  "evidence": [
+   "Monaghan, The Celtic Tales, 2003",
+   "MacKillop 2008, s.v. Giona"
+  ]
+ }
 }

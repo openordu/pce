@@ -1,0 +1,43 @@
+{
+  "name": "Kai",
+  "text": "Kai is a spelling of the name the English and Welsh know as Kay or Cei. Sir Kay is the seneschal of King Arthur and the narrative of the court. He is the first of the king's men though sharp and moody. The Welsh give the name Cei. Kai sends the reader to the full story of the seneschal of the Round Table and of the king's own foster-brother.",
+  "entities": [
+    {
+      "entity": "Kay",
+      "type": "Person"
+    },
+    {
+      "entity": "Arthur",
+      "type": "Person"
+    },
+    {
+      "entity": "Cei",
+      "type": "Person"
+    },
+    {
+      "entity": "Round Table",
+      "type": "Object"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Kai",
+      "attribute": "spelling of the name Sir Kay"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Kai'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Record Kai.",
+    "key_results": [
+      "Set the figure as seneschal.",
+      "Name the king he serves.",
+      "Send the story to the Welsh form."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Kai'"
+  }
+}

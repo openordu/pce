@@ -1,0 +1,39 @@
+{
+  "name": "Ki Du",
+  "text": "Ki Du is a black dog known in Breton lore. It accompanies reincarnation. It belongs to the class of great black spectral dogs found across the Celtic lands, alongside the Welsh gwyllgi and the Manx moddey dhoo.",
+  "entities": [
+    {
+      "entity": "Brittany",
+      "type": "Region"
+    },
+    {
+      "entity": "gwyllgi",
+      "type": "Animal"
+    },
+    {
+      "entity": "moddey dhoo",
+      "type": "Animal"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Ki Du",
+      "attribute": "Breton black dog of tradition"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Ki Du'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Record Ki Du.",
+    "key_results": [
+      "Set the creature in Breton lore.",
+      "State what it accompanies.",
+      "Name a related spectral dog."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Ki Du'"
+  }
+}

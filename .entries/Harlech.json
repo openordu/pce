@@ -1,0 +1,43 @@
+{
+  "name": "Harlech",
+  "text": "Harlech is an ancient coastal town in Gwynedd in north Wales. Until 1974 the town belonged to the older county of Merionethshire. Near the town rise the ruins of Harlech Castle, built in the thirteenth century. The town and the great castle alike carry much myth and history. In the Mabinogi, Harlech is a dwelling place of the giant Bendigeidfran and of his sister Branwen. It is there that the severed head of Bendigeidfran later holds an otherworldly feast. The feast endures for years until a companion opens the forbidden door. Harlech thus stands where the fact of history meets the Welsh Otherworld.",
+  "entities": [
+    {
+      "entity": "Gwynedd",
+      "type": "Region"
+    },
+    {
+      "entity": "Bendigeidfran",
+      "type": "Person"
+    },
+    {
+      "entity": "Branwen",
+      "type": "Person"
+    },
+    {
+      "entity": "Mabinogi",
+      "type": "Work"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Harlech",
+      "attribute": "seat of Bendigeidfran in the Mabinogi"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Harlech'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Record Harlech.",
+    "key_results": [
+      "Place the town in Gwynedd.",
+      "Describe its castle and history.",
+      "Set it among the dwellings of Bendigeidfran."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Harlech'"
+  }
+}

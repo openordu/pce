@@ -1,0 +1,47 @@
+{
+  "name": "Gáirech",
+  "text": "Gáirech, also written Garach, is the scene of the final battle in the Táin Bó Cuailnge, the Cattle Raid of Cooley. There the men of Ulster, led by Cúchulainn, at last routed the army of Connacht under Queen Medb. Scholars identify the field with the modern place called Garhy near Mullingar in County Westmeath. The battle closes the raid in which Medb had driven her force into Ulster to carry off the great bull. Gáirech therefore names the ending of the chief epic of the Ulster Cycle.",
+  "entities": [
+    {
+      "entity": "Cúchulainn",
+      "type": "Person"
+    },
+    {
+      "entity": "Medb",
+      "type": "Person"
+    },
+    {
+      "entity": "Connacht",
+      "type": "Region"
+    },
+    {
+      "entity": "Ulster",
+      "type": "Region"
+    },
+    {
+      "entity": "Táin Bó Cuailnge",
+      "type": "Work"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Gáirech",
+      "attribute": "scene of the final battle of the Táin Bó Cuailnge"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Gáirech'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Record Gáirech.",
+    "key_results": [
+      "Place the battlefield in the story of the Táin.",
+      "Name the two leaders.",
+      "Give the modern identification of the site."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Gáirech'"
+  }
+}

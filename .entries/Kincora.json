@@ -1,0 +1,51 @@
+{
+  "name": "Kincora",
+  "text": "Kincora is a fortress on the western bank of the Shannon in County Clare. The Irish name ceann cora means the head of a weir. The stronghold served as the seat of the high king Brian Bóruma and of his people the Dál Cais. In scale it could not rival the great centres of Emain Macha or Tara. It shared instead the warlike fame of Brian and of his kindred. The fortress was taken down in the eleventh or twelfth century. Old stories claimed its remains could still be seen at the Catholic church in Killaloe. Its romantic glow in the nineteenth century made several writers favour the anglicized form of the name.",
+  "entities": [
+    {
+      "entity": "Brian Bóruma",
+      "type": "Person"
+    },
+    {
+      "entity": "Dál Cais",
+      "type": "Group"
+    },
+    {
+      "entity": "Shannon",
+      "type": "Place"
+    },
+    {
+      "entity": "County Clare",
+      "type": "Region"
+    },
+    {
+      "entity": "Killaloe",
+      "type": "Place"
+    },
+    {
+      "entity": "Tara",
+      "type": "Place"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Kincora",
+      "attribute": "fortress of Brian Bóruma"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Kincora'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Record Kincora.",
+    "key_results": [
+      "Set the fortress on the Shannon.",
+      "Name the king who held it.",
+      "State when it was destroyed."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Kincora'"
+  }
+}

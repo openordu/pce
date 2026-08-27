@@ -1,47 +1,57 @@
 {
- "name": "Leth Cuinn, Leth Moga",
- "attributes": [
-  {
-   "entity": "Leth Cuinn",
-   "attribute": "the northern division of the land"
-  },
-  {
-   "entity": "Leth Moga",
-   "attribute": "the southern division of the land"
-  },
-  {
-   "entity": "the ridge",
-   "attribute": "cut the island from the east to the west"
-  }
- ],
- "entities": [
-  {
-   "entity": "Leth Cuinn",
-   "type": "Place"
-  },
-  {
-   "entity": "Leth Moga",
-   "type": "Place"
-  },
-  {
-   "entity": "Eiscir Riada",
-   "type": "Place"
-  }
- ],
- "sources": [
-  "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
- ],
- "cyphertext": "feDbUEhlhoj1uncPI2OpslCXnOdV4DxnkZOzDEJLjVJd5O8vg5_OjkVnDQypKCJUS6s0emzC_hc5HTPREYle__dXdGRS3VWUNI-rrcSN3z3TzYGli4hR8d04qgLr2koTFEbTBePMBsj1BoOn-oGXFEUuRg30My4Ul1lwfi0J7skix7Po_1kt33w2vsqapxCjvxCAy0d6L7nmoGwUrcLEh01ZZbmtUakpxFJNR9G2e46E0AoDwVrBcGj2gVX0WrAp9kQJ7HpROgafI_RyDFQwHlvFsEdOEsiTuCKnx1mDhLb9pGPaRQEdNcXXU1J9lVn-6V_KFmjJTusogWCsUjvDQE-lrvv9NJT9aH2gRUllLfI1gsCXtcOVG_OlLsyZ7D8yeeW4GiklKSByuU0p5xOyzQa0L7wbY5YIe05HEHllNeUb-8sJ9PC1TTz8TiFf7HLdsQ4qh4v3MV7IUZhEyK5zN_zACGCjzRAEJjp6LaFEc276ziinvVvb2jUeS58q_2ZLcCzND2jQKUaBiU4WM2TU_CpUOvAGvkYjbmh3rl-RxMkD-YuvPMJZlCCFqEZevWJ7M16nz_hkAhU77rVAcSmrw_oSlxWSmS7GBMMQq245lRV_6jhWxaInGGTNcmagwNtmG3ll76--QZ9tuJhb2gA2LDwamwUd8cxifKInH7sl9_ecpv2CYw==",
- "salt": "sjiMAkT78yrtUCIIfxbujQ==",
- "text": "Leth Cuinn and Leth Moga are two old divisions of the island of Ireland. A great glacial ridge, the Eiscir Riada, once cut the land from Dublin to Galway. The northern part was called Leth Cuinn and the southern part Leth Moga. The two names mark a division older than the five provinces.",
- "okr": {
-  "objective": "Set out the two halves of the land.",
-  "key_results": [
-   "They are two old divisions of the island of Ireland.",
-   "The ridge called the Eiscir Riada cut the land in two.",
-   "The north part was named Leth Cuinn.",
-   "The south part was named Leth Moga."
+  "name": "Leth Cuinn, Leth Moga",
+  "attributes": [
+    {
+      "entity": "Eiscirrid",
+      "attribute": "the ridge dividing Ireland in two"
+    },
+    {
+      "entity": "Leth Cuinn",
+      "attribute": "the northern part, a land of warlord_assign"
+    },
+    {
+      "entity": "Leth Mó",
+      "attribute": "the southern part, a land of the island"
+    }
   ],
-  "evidence": "Monaghan 2008, s.v. Leth Cuinn."
- }
+  "entities": [
+    {
+      "entity": "Leth Cuinn",
+      "type": "Concept"
+    },
+    {
+      "entity": "Leth Mó",
+      "type": "Concept"
+    },
+    {
+      "entity": "Eiscir Ru",
+      "type": "Place"
+    },
+    {
+      "entity": "Conn Cétchathach",
+      "type": "Person"
+    },
+    {
+      "entity": "Gran Mór",
+      "type": "Person"
+    }
+  ],
+  "sources": [
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.",
+    "MacKillop 2008, s.v. 'Leth Cuinn'",
+    "MacKillop 2008, s.v. 'Leth Moga'."
+  ],
+  "cyphertext": "feDbUEhlhoj1uncPI2OpslCXnOdV4DxnkZOzDEJLjVJd5O8vg5_OjkVnDQypKCJUS6s0emzC_hc5HTPREYle__dXdGRS3VWUNI-rrcSN3z3TzYGli4hR8d04qgLr2koTFEbTBePMBsj1BoOn-oGXFEUuRg30My4Ul1lwfi0J7skix7Po_1kt33w2vsqapxCjvxCAy0d6L7nmoGwUrcLEh01ZZbmtUakpxFJNR9G2e46E0AoDwVrBcGj2gVX0WrAp9kQJ7HpROgafI_RyDFQwHlvFsEdOEsiTuCKnx1mDhLb9pGPaRQEdNcXXU1J9lVn-6V_KFmjJTusogWCsUjvDQE-lrvv9NJT9aH2gRUllLfI1gsCXtcOVG_OlLsyZ7D8yeeW4GiklKSByuU0p5xOyzQa0L7wbY5YIe05HEHllNeUb-8sJ9PC1TTz8TiFf7HLdsQ4qh4v3MV7IUZhEyK5zN_zACGCjzRAEJjp6LaFEc276ziinvVvb2jUeS58q_2ZLcCzND2jQKUaBiU4WM2TU_CpUOvAGvkYjbmh3rl-RxMkD-YuvPMJZlCCFqEZevWJ7M16nz_hkAhU77rVAcSmrw_oSlxWSmS7GBMMQq245lRV_6jhWxaInGGTNcmagwNtmG3ll76--QZ9tuJhb2gA2LDwamwUd8cxifKInH7sl9_ecpv2CYw==",
+  "salt": "sjiMAkT78yrtUCIIfxbujQ==",
+  "text": "Leth Cuinn, Leth Moga are the two halves of Ireland in early tradition. The surrounding bank between them is the ridge called the Eiscir Riada. The ridge runs from Galway Bay in the west to the Dublin district in the east. The northern half, Leth Cuinn, is the portion held by Conn of the Hundred Battles. The southern half, Leth Moga, is the portion held by the champion Mug Nuadat, who is also named Eogun Mugain. The Book of Invasions, the Lebor Gabala, cuts the island along this same ridge. In that book Eber Finn takes the land north of the line. Eremon takes the south. So the old story works twice, once with two humans and once with two gods. The cut along the ridge is older than the later five provinces. Ulster and Connacht lie mostly north of the line. Leinster and Munster lie south of it. Munster grew so wide that scholars counted it as two parts, east and west. The ridge itself is a chain of low sand hills left by the last ice age. It is not a wall or a river but a line of faint higher ground. Poets and genealogists kept the memory of the two halves long after the kings were gone. Each half carried its own list of kings and its own claim to the high seat. The two names thus fix the oldest map of power in Ireland. That map still shaped the border of the chief kingdoms down the centuries.",
+  "okr": {
+    "objective": "explain the two halves of Ireland",
+    "key_results": [
+      "name the dividing ridge, the Eastir Raid",
+      "average the north to Conn of the 40 wars",
+      "average the south to the baby of the grandchild",
+      "show the same cut in the Book of Invasions"
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Leth Carti' and 'Leth Moga'"
+  }
 }

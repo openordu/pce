@@ -1,0 +1,43 @@
+{
+  "name": "Keevan",
+  "text": "Keevan is an English form of the name Ciabhan. Ciabhan is a man who loves the woman Clidna in Irish story. She comes to Ireland with him. His way takes him to the Land of Promise. At a feast he throws nine willows and catches them. Clidna becomes moved by his skill. She leaves with him in his boat. A wave takes her while she sleeps. Keevan keeps the sense of curling hair. It is the name of the lover of Clidna.",
+  "entities": [
+    {
+      "entity": "Ciaabhán",
+      "type": "Person"
+    },
+    {
+      "entity": "Clidna",
+      "type": "Person"
+    },
+    {
+      "entity": "Tir Tairngire",
+      "type": "Place"
+    },
+    {
+      "entity": "Fianna",
+      "type": "Group"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Keevan",
+      "attribute": "English form of Ciaabhán"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Keevan'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Record Keevan.",
+    "key_results": [
+      "Give the common form of the name.",
+      "Name the lover of the tale.",
+      "Say where his way ends."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Keevan'"
+  }
+}

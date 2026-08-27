@@ -1,38 +1,66 @@
 {
-  "name": "Igerna",
-  "attributes": [
-    {
-      "entity": "Igerna",
-      "attribute": "an alternate spelling of Igraine"
-    }
-  ],
-  "entities": [
-    {
-      "entity": "Igerna",
-      "type": "Person"
-    },
-    {
-      "entity": "Igraine",
-      "type": "Person"
-    }
-  ],
-  "sources": [
-    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-  ],
-  "image": [
-    "https://upload.wikimedia.org/wikipedia/commons/c/ca/Uther_and_Igraine.jpg"
-  ],
-  "cyphertext": "qIHYDzVGMTFoCSv0HxPxOoN04PchSqdKU4b8QWaI-dDeUhB5wvKYqYaBQx3yber2",
-  "salt": "CHGGS8OxnOPUylbN46J_TQ==",
-  "text": "Igerna is another spelling of Igraine. See the Igraine entry.",
-  "okr": {
-    "objective": "Cross-reference the name Igerna to Igraine.",
-    "key_results": [
-      "Record Igerna as an alternate spelling.",
-      "Send the reader to the Igraine entry."
-    ],
-    "evidence": [
-      "Monaghan, P. The Encyclopedia of Celtic Mythology and Folklore (2008): Igerna entry."
-    ]
+ "name": "Igerna",
+ "attributes": [
+  {
+   "entity": "Igerna",
+   "attribute": "the mother of Arthur in the stories"
+  },
+  {
+   "entity": "Igerna",
+   "attribute": "wed the duke of Cornwall and later the king who near form"
+  },
+  {
+   "entity": "Eigr",
+   "attribute": "the Welsh form of the same, and a most beautiful woman of Britain"
   }
+ ],
+ "entities": [
+  {
+   "entity": "Igerna",
+   "type": "Person"
+  },
+  {
+   "entity": "Igraine",
+   "type": "Person"
+  },
+  {
+   "entity": "Eigr",
+   "type": "Person"
+  },
+  {
+   "entity": "Arthur",
+   "type": "Person"
+  },
+  {
+   "entity": "Uther Pendragon",
+   "type": "Person"
+  },
+  {
+   "entity": "Merlin",
+   "type": "Person"
+  },
+  {
+   "entity": "Cornwall",
+   "type": "Place"
+  }
+ ],
+ "sources": [
+  "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.",
+  "MacKillop 2008, s.v. 'Igerna'"
+ ],
+ "image": [
+  "https://upload.wikimedia.org/wikipedia/commons/c/ca/Uther_and_Igraine.jpg"
+ ],
+ "cyphertext": "qIHYDzVGMTFoCSv0HxPxOoN04PchSqdKU4b8QWaI-dDeUhB5wvKYqYaBQx3yber2",
+ "salt": "CHGGS8OxnOPUylbN46J_TQ==",
+ "text": "Igerna is the name that Arthurian romance gives to the mother of Arthur, and it appears in a small slew of spellings in the books, among them Igerne, Igraine, Igrayne, and Ygerne. She is the wife of a duke of Cornwall, whom the tales call Gorlois or Hoel, and she draws the eye of the high king Uther Pendragon. The magician Merlin gives Uther the very face of the duke, and in that borrowed likeness he comes to her. From this meeting she conceives and later carries Arthur, the future lord of the island. When her husband dies in the field, she takes Uther as her new husband. Her Welsh forbear is Eigr, counted among the loveliest women of the island, and that beauty is what pulls the eye of the king to her. So the romance figure folds the older Welsh person and the later courtly lady of Camelot into a single story. The spell of Merlin stands behind the whole royal line, for without his borrowed shape there would be no Arthur, and without Arthur the island would lack its great king of legend. The tale thus joins love, disguise, and kingship in one compact origin for the Matter of Britain.",
+ "okr": {
+  "objective": "Record Igerna as the mother of Arthur and merge her older and newer forms.",
+  "key_results": [
+   "She conceived Arthur from the king in the face of her husband",
+   "She wed the king of his form after her partner died",
+   "The Welsh name for the same woman is Eigr"
+  ],
+  "evidence": "MacKillop 2008, s.v. 'Igerna'"
+ }
 }

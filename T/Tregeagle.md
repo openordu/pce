@@ -2,39 +2,45 @@
 layout: layouts/pce.njk
 title: Tregeagle
 icon: file-lines
-order: 2184
+order: 0
 contributors: [ 'Christopher Godwin' ]
 attributes:
-  - the devil appeared and dragged him away
-  - Tregeagle roaring
+  - Tregeagle an evil Cornish man who killed his wife
+  - Tregeagle pledged his soul to the Devil
+  - Tregeagle so selfish that he lingered on earth after death
+  - Devil dragged Tregeagle away when he stopped to rest
 categories:
-  - person
-  - location
+  - Person
+  - Place
+  - Being
 entities:
-  - the devil(person)
-  - Tregeagle(person)
-  - Cornish(location)
+  - Tregeagle(Person)
+  - Devil(Being)
+  - Cornwall(Place)
 tags:
-  - the devil
   - Tregeagle
-  - Cornish
+  - Devil
+  - Cornwall
 ---
 ``` tab [group1:Info]
 ::: magazinestyle
-A figure of Cornish folklore, most commonly known as Tregeagle, was said to have lived in Cornwall. According to legend, he was an evil man who murdered his wife and sold his soul to the Devil. Despite attempting to outsmart his fate, he was so selfish that he refused to leave Earth after his death and instead caused trouble for his neighbors who wished to use his land. Eventually, a local clergyman tasked him with the seemingly impossible feat of emptying a pool using only a shell. Tregeagle fulfilled this task until he became exhausted and took a break, at which point the Devil appeared and took him away, leaving him to howl in agony, and giving rise to the popular Cornish saying "roaring like Tregeagle."
+Jan Tregeagle is the central figure of the best-known Cornish ghost story. Historians tie the figure to an unremarkable man who worked as a steward for the Earl of Radnor. Legend turns him into something far darker. Folk stories show him as a Faust-like lawyer who gives up his soul for gain. He murders his own wife and steals the estate of an orphan. Some accounts picture him as a towering giant, hostile to those he meets. Not every tale makes him a villain. One story calls him up from the grave to testify in a court case. That portrait treats him with a kind of respect. Even a mighty ghost can come off worst. A judge sentences him to empty the deep pool at Dozmary, a great and lonely water in the Cornish highlands. He must scoop it dry with a limpet shell that keeps leaking. The endless task has no end. The waters never fall. He works forever without success. The Devil drags him away any time he rests. A clergyman once set him a like task, to drain a pond with a leaky vessel. His stubborn greed keeps him bound to the earth even after death. The Cornish still recall him, and loud roaring over the moors is said to echo his cry. An old genealogy draws no line between the harsh lawyer and the ragged giant. His tale stands with the staple ghost legends of Cornwall, mixing murder, a devil's bargain, and unending penance.
 
 :::
 ```
 ``` tab [group1:Attributes]
-- **the devil**: appeared and dragged him away
-- **Tregeagle**: roaring
+- **Tregeagle**: an evil Cornish man who killed his wife
+- **Tregeagle**: pledged his soul to the Devil
+- **Tregeagle**: so selfish that he lingered on earth after death
+- **Devil**: dragged Tregeagle away when he stopped to rest
 ```
 ``` tab [group1:Entities]
-- **the devil**: person
-- **Tregeagle**: person
-- **Cornish**: location
+- **Tregeagle**: Person
+- **Devil**: Being
+- **Cornwall**: Place
 ```
 ``` tab [group1:Sources]
 - Spence, Lewis. The Minor Traditions of British Mythology. New York: Benjamin Blom, Inc., 1972, 96.
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
+- MacKillop 2008, s.v. 'Tregeagle'
 ```

@@ -3,7 +3,15 @@
  "attributes": [
   {
    "entity": "Land of Promise",
-   "attribute": "a name for the Otherworld meaning land of promise"
+   "attribute": "an Otherworld name of the Irish"
+  },
+  {
+   "entity": "Land of Promise",
+   "attribute": "the land beyond the western sea"
+  },
+  {
+   "entity": "Oisín",
+   "attribute": "went there from the Fianna"
   }
  ],
  "entities": [
@@ -12,26 +20,44 @@
    "type": "Place"
   },
   {
-   "entity": "Tir Tairngiri",
+   "entity": "Otherworld",
+   "type": "Concept"
+  },
+  {
+   "entity": "Land of Youth",
    "type": "Place"
   },
   {
-   "entity": "Otherworld",
+   "entity": "Mag Mell",
    "type": "Place"
+  },
+  {
+   "entity": "Manannán mac Lir",
+   "type": "Deity"
+  },
+  {
+   "entity": "Oisín",
+   "type": "Person"
+  },
+  {
+   "entity": "Niamor",
+   "type": "Person"
   }
  ],
  "sources": [
-  "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+  "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.",
+  "MacKillop 2008, s.v. 'Land of Promise'"
  ],
  "cyphertext": "uA7HVMTu7w9N6ZVi9p_6LbbDHqZzSEkBO-AuPgv0JHfX4ZeISMTreFztByp5pjyZkrKqB5LIUAhpYlerImn9q7Q=",
  "salt": "l5SUI6p_c0mqqJgeKqeVCQ==",
- "text": "Land of Promise is one of the names for the Celtic Otherworld. The source spells it as Tir Tairngiri, the land of promise. The western sea was said to hold that realm. See the Otherworld for the full account.",
+ "text": "The Land of Promise is one of the names that the poets of early Ireland gave to the Celtic Otherworld. MacKillop records the Irish title for this happy realm and he sets its home beyond the far edge of the western sea. A country of no hunger, no age and no sorrow, the Land of Promise holds an endless table of food and shines with the light that never fades. Its name stands beside the Land of Youth and the Plain of Delight as the bright places drawn on the old map of the unseen world. In one early song the land is the seat of a king whose daughter wins the love of a hero of the warriors. A rival who burns with jealousy then changes the maiden into a heron, and the small bird lives on through the years of the tale. In a fuller story the sea lord Manannán mac Lir carries the chosen guest over the waves to that hidden country, and Oisín of the Fianna travels there with his beloved Niam graced with golden hair. The days of that land slip by like a few swift hours of sleep, and when the poet at last turns home the men and the horses of his own time have long since passed away. Mackilop links the country to the voyages of the imramar and to the same tide that runs to the islands of the west. The name endures as one of the bright titles of the Celtic imagination, a promise of a realm that never grows old beyond the sway of the horizon.",
  "okr": {
-  "objective": "Explain the Otherworld name that means land of promise.",
+  "objective": "Record Land of Promise from MacKillop 2008.",
   "key_results": [
-   "The source spells it Tir Tairngiri, the land of promise.",
-   "The phrase names the Celtic world that lies beyond the sea."
+   "Set the Land of the together as an Otherworld name",
+   "Link it to the western sea",
+   "Name Oisín and Niam behind its guests"
   ],
-  "evidence": "Monaghan, Encyclopedia of Celtic Mythology and Folklore (Checkmark 2008), s.v. Land of Promise."
+  "evidence": "MacKillop 2008, s.v. 'Land of Promise'"
  }
 }

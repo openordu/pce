@@ -1,0 +1,35 @@
+{
+  "name": "Ladi Wen",
+  "text": "Ladi Wen, the White Lady, is a spectral woman robed in white. Welsh oral tradition knows her well. As a common bogy she was used to warn children about bad behavior. She was most often seen at Hollantide, the night from 31 October to 1 November.",
+  "entities": [
+    {
+      "entity": "Wales",
+      "type": "Region"
+    },
+    {
+      "entity": "Hollantide",
+      "type": "Festival"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Ladi Wen",
+      "attribute": "spectral White Lady of Welsh tradition"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Ladi Wen'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Record Ladi Wen.",
+    "key_results": [
+      "State what the name means.",
+      "Name what she warned children about.",
+      "Name the feast when she appeared."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Ladi Wen'"
+  }
+}

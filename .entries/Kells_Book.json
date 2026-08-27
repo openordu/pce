@@ -1,6 +1,6 @@
 {
   "name": "Kells, Book of",
-  "text": "Kells, Book of (Codex Cenannensis) names the illuminated Gospel manuscript today kept at Dublin, Trinity College Library, as MS 58. It ranks among the most richly decorated of the big Latin gospel-books that appeared in the British Isles in the years from the 7th into the 10th century. Scholars mostly hold that work on it began in about the later 8th century at the Columban monastery on Iona and that the book travelled inland to Kells in County Meath, where a Columban house rose at the start of the 9th century. Up to four scribes wrote in a bold insular majuscule script, and the overlap of lettering with painted ornament hints that the same hands supplied the pictures. Its decoration joins Celtic, Anglo-Saxon and Mediterranean styles in the insular Hiberno-Saxon manner. The artists layered three pigments and set three full-page miniatures unusually within the manuscript.",
+  "text": "Kells, Book of (Codex Cenannensis) names the illuminated Gospel manuscript today kept at Dublin, Trinity College Library, as MS 58. It ranks among the most richly decorated of the big Latin gospel-books of the British Isles. Those books appeared from the 7th into the 10th century. Scholars mostly hold that work began in the later 8th century at the Columban monastery on Iona. The book then travelled inland to Kells in County Meath. A Columban house rose there at the start of the 9th century. MacKillop describes Kells as a market town and former monastic site about fifty-five miles northwest of Dublin. The name itself comes from an Irish word meaning the head fort. Kells owns two famed treasures of the early Christian age in Ireland. They are the Gospels known as the Book of Kells and a staff called the Crozier of Kells. The monastery enters written history about the year 804. That came after the repeated sackings of Iona and the slaughter of its people split the Columban church. Several narratives mention the house, among them the tale of Buchet's Hall. Up to four scribes wrote in a bold insular majuscule script. The overlap of lettering with painted ornament hints that the same hands supplied the pictures. The decoration joins Celtic, Anglo-Saxon and Mediterranean styles in the insular manner.",
   "entities": [
     {"entity": "Book of Kells", "type": "Work"},
     {"entity": "Kells", "type": "Place"},
@@ -12,22 +12,23 @@
     {"entity": "Book of Kells", "attribute": "is among the most decorated large illustrated Latin gospel-books produced in the British Isles"},
     {"entity": "Book of Kells", "attribute": "was probably begun at the Columban monastery on Iona in the later 8th century"},
     {"entity": "Book of Kells", "attribute": "was kept at Kells in County Meath during medieval times"},
+    {"entity": "Kells", "attribute": "is a market town and former monastic site fifty-five miles northwest of Dublin"},
     {"entity": "Book of Kells", "attribute": "was written by as many as four scribes in a bold insular script"},
-    {"entity": "Book of Kells", "attribute": "unites Celtic, Anglo-Saxon and Mediterranean motifs in the insular Hiberno-Saxon style"}
+    {"entity": "Book of Kells", "attribute": "unites Celtic, Anglo-Saxon and Mediterranean motifs in the insular style"}
   ],
   "okr": {
     "objective": "Present the identity, origin and decoration of the illuminated Book of Kells.",
     "key_results": [
       "Identify the manuscript as Codex Cenannensis now at Trinity College Dublin",
-      "Locate its likely origin at Iona and its transfer to Kells",
+      "Locate its likely origin at Iona and its transfer to Kells in County Meath",
+      "Note Kells as a market town and home of the Book of Kells and Crozier",
       "Describe the number of scribes and the insular script",
-      "Characterize the sources of the ornamental repertoire",
-      "Note the unresolved questions of origin and date"
+      "Characterize the sources of the ornamental repertoire"
     ],
-    "evidence": "Koch 2006, s.v. 'Kells, Book of'."
+    "evidence": "Koch 2006, s.v. 'Kells, Book of'; MacKillop 2008, s.v. 'Kells'."
   },
   "image": [],
   "cyphertext": "",
   "salt": "",
-  "sources": ["Koch 2006, s.v. 'Kells, Book of'"]
+  "sources": ["Koch 2006, s.v. 'Kells, Book of'", "MacKillop 2008, s.v. 'Kells'"]
 }

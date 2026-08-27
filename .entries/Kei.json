@@ -1,0 +1,39 @@
+{
+  "name": "Kei",
+  "text": "Kei is a variant spelling of the name Kay. Kay is the seneschal of King Arthur in the English and Welsh tales. The Welsh form of the name is Cei. Kei keeps the same officer of the court in another spelling.",
+  "entities": [
+    {
+      "entity": "Kay",
+      "type": "Person"
+    },
+    {
+      "entity": "Cei",
+      "type": "Person"
+    },
+    {
+      "entity": "Arthur",
+      "type": "Person"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Kei",
+      "attribute": "variant spelling of Kay"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Kei'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Record Kei.",
+    "key_results": [
+      "Give the common form of the name.",
+      "Name the officer of the court.",
+      "Note the variant spelling."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Kei'"
+  }
+}

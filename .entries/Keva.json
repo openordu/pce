@@ -1,0 +1,43 @@
+{
+  "name": "Keva",
+  "text": "Keva is an English form of the name Cainche. Cainche is the daughter of Fionn mac Cumhaill in the Fenian ballads. Her byname, Cainche of the White Skin, marks her pale appearance. She mates with the enemy Goll mac Morna and bears a son named Feadha. Fionn kills Feadha, and this death prompts Goll to make his final split from the hero.",
+  "entities": [
+    {
+      "entity": "Cainche",
+      "type": "Person"
+    },
+    {
+      "entity": "Fionn mac Cumhaill",
+      "type": "Person"
+    },
+    {
+      "entity": "Goll mac Morna",
+      "type": "Person"
+    },
+    {
+      "entity": "Feadha",
+      "type": "Person"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Keva",
+      "attribute": "English form of Cainche"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Keva'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Record Keva.",
+    "key_results": [
+      "Give the fuller form of the name.",
+      "Name her father.",
+      "Name the son she bears Goll mac Morna."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Keva'"
+  }
+}

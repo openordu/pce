@@ -1,0 +1,47 @@
+{
+  "name": "Hy Brasil",
+  "text": "Hy Brasil is a mysterious island once believed to rest far out to sea, at the same latitude as Ireland. The name takes many spellings, including Brazil, Breasil, and Breasal. The idea owes much to the older Atlantis story. Some readers find an Irish source in Bare Bresail, a wooden fortress built in Leinster by Bresal and destroyed by Tuathal Techtmar. Hy Brasil appears under many names on medieval maps. The cartographer Angelinus Dalorto wrote a study of the island in 1325, and his spelling helped to name the South American nation Brazil. Maps after the age of Columbus still showed an island of that name west of Ireland. In Irish tradition the Tuatha Dé Danann were claimed to escape there after the Milesians overcame them. W. B. Yeats reported that fishermen spoke of an island without labour or care where one could enjoy the talk of Cúchulainn.",
+  "entities": [
+    {
+      "entity": "Atlantis",
+      "type": "Place"
+    },
+    {
+      "entity": "Tuatha Dé Danann",
+      "type": "Group"
+    },
+    {
+      "entity": "Milesians",
+      "type": "Group"
+    },
+    {
+      "entity": "Cúchulainn",
+      "type": "Person"
+    },
+    {
+      "entity": "Bresal",
+      "type": "Person"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Hy Brasil",
+      "attribute": "phantom island of the west"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Hy Brasil'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Record Hy Brasil.",
+    "key_results": [
+      "Describe the phantom island.",
+      "Give several spellings of the name.",
+      "Relate the island to the Atlantis myth."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Hy Brasil'"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "name": "Gáe Buide",
+  "text": "Gáe Buide is the yellow spear of the Irish hero Diarmait Ua Duibne. The name means yellow spear. It is the smaller of the two spears that he carries. His greater spear is Gáe Derg, the red spear. In the older stories the spear once belonged to Manannán mac Lir. Manannán was a sea god of great power in the Irish tales. The weapon shows how a god may pass his arms to a mortal champion. Gáe Buide thus forms part of the named armoury of Diarmait in the Fenian tradition.",
+  "entities": [
+    {
+      "entity": "Diarmait Ua Duibne",
+      "type": "Person"
+    },
+    {
+      "entity": "Manannán mac Lir",
+      "type": "Person"
+    },
+    {
+      "entity": "Gáe Derg",
+      "type": "Weapon"
+    },
+    {
+      "entity": "Fianna",
+      "type": "Group"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Gáe Buide",
+      "attribute": "smaller spear of Diarmait Ua Duibne"
+    },
+    {
+      "entity": "Gáe Buide",
+      "attribute": "once belonged to Manannán mac Lir"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Gáe Buide'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Record Gáe Buide.",
+    "key_results": [
+      "Give the meaning yellow spear.",
+      "Set the spear among the arms of Diarmait.",
+      "Trace the spear to Manannán mac Lir."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Gáe Buide'"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Kermaria",
+  "text": "Kermaria is an early settlement site in Brittany. The place lies near Pont l'Abbé in the south of Finistère. The name joins the Breton word for house with the name of the Virgin Mary. The site holds a standing stone with a Gaulish origin. Some writers call it the omphalos, or navel, of Brittany.",
+  "entities": [
+    {
+      "entity": "Brittany",
+      "type": "Region"
+    },
+    {
+      "entity": "Pont l'Abbé",
+      "type": "Place"
+    },
+    {
+      "entity": "Finistère",
+      "type": "Region"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Kermaria",
+      "attribute": "early settlement site in western Brittany"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Kermaria'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Record Kermaria.",
+    "key_results": [
+      "Set the site in Brittany.",
+      "Name the standing stone of the place.",
+      "Give the meaning of the name."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Kermaria'"
+  }
+}

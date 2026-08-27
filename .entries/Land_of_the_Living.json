@@ -1,0 +1,35 @@
+{
+  "name": "Land of the Living",
+  "text": "Land of the Living is a name for the fairy plain Mag Mell. A woman of the otherworld uses the form in the old story of the adventures of Conn the noble. The name promises a place without age and without decay.",
+  "entities": [
+    {
+      "entity": "Mag Mell",
+      "type": "Place"
+    },
+    {
+      "entity": "Connla",
+      "type": "Person"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Land of the Living",
+      "attribute": "another name for Mag Mell"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Land of the Living'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Record Land of the Living.",
+    "key_results": [
+      "Give the Irish name of the plain.",
+      "Name the hero of the tale.",
+      "State the promise of the land."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Land of the Living'"
+  }
+}

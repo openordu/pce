@@ -1,0 +1,43 @@
+{
+  "name": "Kaherdin",
+  "text": "Kaherdin is a prince of Brittany in the Arthurian tale of Tristan and Iseult. The texts name his father Anoel or Jovellar. He becomes a friend of Tristan. He travels with the hero and his sister is Iseult of the White Hands. In 1927 the scholar W. S. Loomis sought a Welsh root for the figure. Kaherdin belongs to the second branch of the Tristan story.",
+  "entities": [
+    {
+      "entity": "Tristan",
+      "type": "Person"
+    },
+    {
+      "entity": "Iseult",
+      "type": "Person"
+    },
+    {
+      "entity": "Brittany",
+      "type": "Region"
+    },
+    {
+      "entity": "Cornwall",
+      "type": "Region"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Kaherdin",
+      "attribute": "prince of Brittany in the Arthurian tale"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Kaherdin'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Record Kaherdin.",
+    "key_results": [
+      "Name the prince of the tale.",
+      "Set the friend beside Tristan.",
+      "Send the sister among the Iseults."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Kaherdin'"
+  }
+}

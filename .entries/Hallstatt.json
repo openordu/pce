@@ -1,142 +1,143 @@
 {
-  "name": "Hallstatt",
-  "entities": [
-    {
-      "entity": "Hallstatt",
-      "type": "Place"
-    },
-    {
-      "entity": "Hallstatt culture",
-      "type": "Culture"
-    },
-    {
-      "entity": "Georg Ramsauer",
-      "type": "Person"
-    },
-    {
-      "entity": "Isidor Engl",
-      "type": "Person"
-    },
-    {
-      "entity": "Austria",
-      "type": "Place"
-    },
-    {
-      "entity": "Salzburg",
-      "type": "Place"
-    },
-    {
-      "entity": "Upper Austrian Alps",
-      "type": "Place"
-    },
-    {
-      "entity": "salt mine",
-      "type": "Place"
-    },
-    {
-      "entity": "Salzbergtal",
-      "type": "Place"
-    },
-    {
-      "entity": "Dammwiese",
-      "type": "Place"
-    },
-    {
-      "entity": "Urnfield",
-      "type": "Concept"
-    },
-    {
-      "entity": "La Tène",
-      "type": "Culture"
-    },
-    {
-      "entity": "Iron Age",
-      "type": "Concept"
-    },
-    {
-      "entity": "Celts",
-      "type": "Culture"
-    },
-    {
-      "entity": "Massalia",
-      "type": "Place"
-    }
-  ],
-  "sources": [
-    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.",
-    "Koch 2006, s.v. >Hallstatt"
-  ],
-  "attributes": [
-    {
-      "entity": "Hallstatt",
-      "attribute": "archaeological site on a salt mountain over Lake Hallstatt in the Upper Austrian Alps"
-    },
-    {
-      "entity": "Hallstatt",
-      "attribute": "type-site and namesake of the Hallstatt Iron Age culture, so called since the late 19th century"
-    },
-    {
-      "entity": "Hallstatt",
-      "attribute": "early excavations at the graveyard led by Georg Ramsauer"
-    },
-    {
-      "entity": "Hallstatt cemetery",
-      "attribute": "about 2000 burials, some 1270 recovered, roughly 45 percent cremations"
-    },
-    {
-      "entity": "Hallstatt cemetery",
-      "attribute": "graves date mainly to Hallstatt C and D, c. 750-475 bc"
-    },
-    {
-      "entity": "Hallstatt cemetery",
-      "attribute": "rich bronze vessels and metal goods mark high-ranking burials; new estimates suggest 5000-8000 graves"
-    },
-    {
-      "entity": "salt mine",
-      "attribute": "mining on the Hallstatt mountain began in the Late Bronze Age, 12th/11th century bc"
-    },
-    {
-      "entity": "salt mine",
-      "attribute": "deepest shaft reached 215 metres; a landslide around 350 bc ended local mining"
-    },
-    {
-      "entity": "Hallstatt culture",
-      "attribute": "material found from France to eastern Hungary and southern Germany to Slovenia"
-    },
-    {
-      "entity": "Hallstatt culture",
-      "attribute": "divided into a west and an east zone near the rivers Inn, Enns, and Moldau"
-    },
-    {
-      "entity": "Hallstatt culture",
-      "attribute": "dated about 750-475/450 bc via southern Mediterranean imports"
-    },
-    {
-      "entity": "Hallstatt culture",
-      "attribute": "later phases linked by scholars to the ethnic label Celts"
-    },
-    {
-      "entity": "Massalia",
-      "attribute": "Greek colony, present-day Marseille, founded c. 600 bc, a node of the Mediterranean trade"
-    }
-  ],
-  "image": [
-    "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Hallstatt_-_Zentrum_.JPG/1200px-Hallstatt_-_Zentrum_.JPG"
-  ],
-  "cyphertext": "Nd11mMmEd8KVRexHfximkPNzTnMR1RVKML00hdGR-N41IjvOpaYTBkL12c5aRwRhDPJ4RAt1OdJx7Vw8g7QCrQuLzqWwHVAPfC3DbzEOIDWxcd-8Tvl7SKY7EHzH_t9Jb7wupQO6mAArSNjLI2JSa1Vrtj2bNvmlNTAV8WxM4WICh6wRBZIxbcMRtOCkY5UvjrZLVxsZeRGYeZCtcZGYRQsgSXZwqHPCF5Rt3G9Bx9em3FpdMjVFu6UNpCk_wJfawoiFnlkeCW41HpR85Q4H-EE7nWJXM01xcBTLa1C22M9_lh5rk0No36qpsHZOKscZK9r8p-U_-D6NefvGvasXZKh6O28tJWReC9E8mOFqZId-b6QbNAQoLJfYZHZMgIE6-9rP6byeWsV6Cv-Yd-gf8Bt2DjjDbzF-cdI481kcsAEx5FuwaYWbJi20NT1TXTDzdilqcPugyYe4pWty4uwwooPq0HdaEg1jIaYV8tw2KnVKzKdQ7q0D4F33mN3oQVcoaSta6mWSF2j_MqWV2XpM-NCHYn9UbmbTRRNJGh4F7DB7OpSt6qOzYuhC9LhE0a3XAZ3m7VPWgC-LwNaExA0BTxeKHYHFL_re8kb7xM4l9AJ17JwfupTSSL92a89NSgU06KoC7DXKcQW50GTa-rld8W-ZmAUVILnYwJ6HEYg6vUYcx5Xf8AwDoML74wBNfxbvyLZHlVWS9WzccGBOlw0u0LJzviJCc5kMa93eVjahbID66CL2Xuy4sVWtjqSkmi6HGsaiKZ_Egh2N5i45JMrYr2j46h9HCQtrHxoi3IYCS_RAhontzlQ-X0Qz2GNE_M-bnL-lohAG7968K_XuUC6LlaDts5ECBaxFpbAbrtNOiqJVFUwTxtSg9cv0L6vWuAgH9VcZYFXx7Z1lRKZPYZUpYwguE42lWYJuSHZ1pcJywdIXus1_mq0MBcIOjkzuiiRjLJiqND-WE6Dtn7UqTpX0BGfryd5I9U1EshHpTnfrHuXQz28-PbCH6x03Tzuqv1CJPGxliIaf2mWlh7Q1ITxBP4lWatyK5BJBBtGJi6yFWYfBQFZo7x5gMSfO3gJojZUF6O9LN924MDg71AVD2zVLEOwFb06hR_DVolqSzxeOBaRBEy4612lpPrZOqKIx1z5GCysZDdYQG5ZM-qhiT98QG1yEbxZ7wASP77yiL0s1-71EWrFdNwrv0jvtvT20t0VM5adyTol8poZoGjpKkwMzuf1Ba4kNDMRlTMKoajPF4s0bnRTLES1PDS58eFfdnoI3RbMH2vd3HEw3sYDEvNgw90cdIBadPuVEow2WzmKgqnIXVsZVTVwqqtJS3nMOMWDvHpbNmiHF2tV5CJSph8_WNF7KGZk1xw72IUx0rgD0v8dENsjZOZE5z82DmI9bfYE8WfjUBaKax8wfwU40UGVDmG8cjzKjdhcWIpsKGQ2sDGZ5Tu558w3sBRwmv7ZLH2_BxJ7k6JAdAkyHmplr08NanI4RxK1T2B7FtyDqsLnsEQU1qyUq2kuAnm8qUzv9lpOziq4BvynMAawAybm_ze2pcdP7og-j7ee8sqsOHofDBnpVgGWTlyttW9y19lLrQXMtxfsul_SlaalcATSd35CW7oVi9Oos4ZPIEHL-j_RUqoEw6DhNKfZnzUrHZriLN81qQoBIFZWzNbAhaDAWUpqfAYRwe1TcPATvjDkQ7HOQsqBUte5ilnp4cJieLyGfirN0Q0Hw0DOCyhD111qWBGlQ1o1Hfe1j9NCxa0SCVPB6gg3BM6OmbP4sgb9A4AqS2kG_5Low0UrYzX5WT15aYfwEwumZj1tSnV7yL0BMn7mDoQ9bHycn7XxUpoTpGY9LaAqgSMiiT1g4pCWdPwrfvrPB0mHtrai8UrKZUkdQyAhklB_1iQQb0VEBAMMFGvuce_8c5QJK2CAoWLtT5t7qwPObdiql4YhFuqcUk2a9UWHzRg45NofGcZYuKVXCjEoGtTlWXc9368023L9axadEljq87Bg9Sa9Luu7FVf7U8kZJy9T2mHajPgzn2HUpSLcszDx5ro2-vXlbSJnN78jPx43K3Xsaq8kyDhTbdT38TQPv8o2yM3IyHfitO_dYHXcPplo4JC47e6_ZV27jg-9Lm-aEBwBhOysjpFjxFLtm9lA2YtaKJNq13SFDPjSU-BXxWjc=",
-  "salt": "pnZbYQ7IJrGLCoLRixGkgA==",
-  "text": "The Hallstatt archaeological site lies in the Upper Austrian Alps. It stands beside Lake Hallstatt on a steep salt mountain. The name also names an Iron Age culture. That term came into use late in the nineteenth century. Georg Ramsauer led the early excavations at the graveyard. An artist, Isidor Engl, drew the burial rites and the grave goods.\n\nThe cemetery lies about 1100 to 1200 metres above sea level. It sits in the Salzbergtal, the salt mountain valley. Settlement sites and mine openings stood higher up the slope. A huge landslide engulfed the valley around 350 bc. That event likely ended salt mining there. La Tène period activity later resumed higher on the mountain.\n\nThe graveyard held roughly two thousand burials. Excavators recovered about 1270 of them. Some forty-five percent were cremations. The rest were buried whole. Most date to the Hallstatt C and D periods. Those ran from about 750 to 475 bc. A few burials came later, in the Hallstatt to La Tène transition. The old graves were rich in bronze vessels and metal objects. That wealth signals profitable salt mining. The cemetery was limited to the higher ranks of society. New digs in the lower cemetery show a denser pattern. Estimates now run from five to eight thousand graves. The newer graves hold fewer metal goods. They hold large amounts of pottery instead.\n\nSalt mining here began in the Late Bronze Age. That was the twelfth and eleventh centuries bc. Miners in the northern group borrowed techniques from copper mines. Copper had been dug in the Austrian Alps for centuries before. The deepest shaft reached 215 metres. The largest mine opening was 17 metres wide. The mine closed near the end of the Bronze Age. New work began in the eighth century bc. Miners in the eastern group adapted fully to salt. A landslide likely destroyed that mine in the mid-fourth century bc. Mining then moved to the Dammwiese. A western group opened there.\n\nExcavators found several log buildings in the valley. Work since 1994 uncovered buildings used to make salted bacon. Settlement layers from the Urnfield period also appeared. A waterlogged La Tène settlement lies on the Dammwiese. Wooden buildings, drains, and workplaces survive there. It covers more than three thousand square metres.\n\nThe Hallstatt culture names material found far beyond the site. The style first described a Late Bronze Age phase. Scholars once tracked that from 1200 to 750 bc. Today the term usually points to the Early Iron Age. Those are the Hallstatt C and D phases. They ran from about 750 to 450 bc. The dating rests on southern imports from the Mediterranean. Hallstatt cultures preceded the La Tène Iron Age in many regions. Later Hallstatt people are often labelled Celts. The Greek word for them was Keltoi. Connecting objects to ethnic groups takes care, though.\n\nThe culture spread across a wide arc. It reached from France in the west to Hungary in the east. It ran from southern Germany down to Slovenia. Scholars split it into a west and an east zone. The boundary runs north and south. It lies between the rivers Inn, Enns, and Moldau. Hallstatt itself stands in that border zone. Its cemetery material shows mixed or transitional traits. The west zone covers south-west Germany and northern Switzerland. Some scholars draw its edge into eastern France. The east zone takes in part of the Czech lands and Slovakia. It often sits south of the Danube. The eastern and southern borders follow the rivers Kulpa and Save.\n\nThe inner Alpine area linked north and south. Rich graves in eastern France and south-west Germany show trade. The Greek colony Massalia, today Marseille, began around 600 bc. Contacts also ran to the Etruscans in Tuscany. The Golasecca culture mediated that trade. The Este culture of the Veneti traded metalwork in the situla style. Influences also flowed from the Iranian-speaking Scythians to the east.\n\nWest Hallstatt graves share a common form. They lie in chambers beneath hills. They hold rich weapon offerings. Four-wheeled wagons and paired-horse harnesses are common finds. In the earliest phase the chief weapon was the iron sword.",
-  "okr": {
-    "objective": "Document Hallstatt as both an Upper Austrian salt-mining graveyard and the type culture of the early Celtic Iron Age in central Europe.",
-    "key_results": [
-      "Describe the site, its cemetery, and the prehistoric salt mines and their dating.",
-      "Explain the Hallstatt culture's territory, east-west division, and chronology.",
-      "Note its ties to the Celts and to Mediterranean trade.",
-      "Record the early excavation work of Georg Ramsauer."
-    ],
-    "evidence": [
-      "Monaghan, P. The Encyclopedia of Celtic Mythology and Folklore (2008): Hallstatt entry.",
-      "Koch 2006, s.v. >Hallstatt."
-    ]
+ "name": "Hallstatt",
+ "entities": [
+  {
+   "entity": "Hallstatt",
+   "type": "Place"
+  },
+  {
+   "entity": "Hallstatt culture",
+   "type": "Culture"
+  },
+  {
+   "entity": "Georg Ramsauer",
+   "type": "Person"
+  },
+  {
+   "entity": "Isidor Engl",
+   "type": "Person"
+  },
+  {
+   "entity": "Austria",
+   "type": "Place"
+  },
+  {
+   "entity": "Salzburg",
+   "type": "Place"
+  },
+  {
+   "entity": "Upper Austrian Alps",
+   "type": "Place"
+  },
+  {
+   "entity": "salt mine",
+   "type": "Place"
+  },
+  {
+   "entity": "Salzbergtal",
+   "type": "Place"
+  },
+  {
+   "entity": "Dammwiese",
+   "type": "Place"
+  },
+  {
+   "entity": "Urnfield",
+   "type": "Concept"
+  },
+  {
+   "entity": "La Tène",
+   "type": "Culture"
+  },
+  {
+   "entity": "Iron Age",
+   "type": "Concept"
+  },
+  {
+   "entity": "Celts",
+   "type": "Culture"
+  },
+  {
+   "entity": "Massalia",
+   "type": "Place"
   }
+ ],
+ "sources": [
+  "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.",
+  "Koch 2006, s.v. >Hallstatt",
+  "MacKillop 2008, s.v. 'Hallstatt'"
+ ],
+ "attributes": [
+  {
+   "entity": "Hallstatt",
+   "attribute": "archaeological site on a salt mountain over Lake Hallstatt in the Upper Austrian Alps"
+  },
+  {
+   "entity": "Hallstatt",
+   "attribute": "type-site and namesake of the Hallstatt Iron Age culture, so called since the late 19th century"
+  },
+  {
+   "entity": "Hallstatt",
+   "attribute": "early excavations at the graveyard led by Georg Ramsauer"
+  },
+  {
+   "entity": "Hallstatt cemetery",
+   "attribute": "about 2000 burials, some 1270 recovered, roughly 45 percent cremations"
+  },
+  {
+   "entity": "Hallstatt cemetery",
+   "attribute": "graves date mainly to Hallstatt C and D, c. 750-475 bc"
+  },
+  {
+   "entity": "Hallstatt cemetery",
+   "attribute": "rich bronze vessels and metal goods mark high-ranking burials; new estimates suggest 5000-8000 graves"
+  },
+  {
+   "entity": "salt mine",
+   "attribute": "mining on the Hallstatt mountain began in the Late Bronze Age, 12th/11th century bc"
+  },
+  {
+   "entity": "salt mine",
+   "attribute": "deepest shaft reached 215 metres; a landslide around 350 bc ended local mining"
+  },
+  {
+   "entity": "Hallstatt culture",
+   "attribute": "material found from France to eastern Hungary and southern Germany to Slovenia"
+  },
+  {
+   "entity": "Hallstatt culture",
+   "attribute": "divided into a west and an east zone near the rivers Inn, Enns, and Moldau"
+  },
+  {
+   "entity": "Hallstatt culture",
+   "attribute": "dated about 750-475/450 bc via southern Mediterranean imports"
+  },
+  {
+   "entity": "Hallstatt culture",
+   "attribute": "later phases linked by scholars to the ethnic label Celts"
+  },
+  {
+   "entity": "Massalia",
+   "attribute": "Greek colony, present-day Marseille, founded c. 600 bc, a node of the Mediterranean trade"
+  }
+ ],
+ "image": [
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Hallstatt_-_Zentrum_.JPG/1200px-Hallstatt_-_Zentrum_.JPG"
+ ],
+ "cyphertext": "Nd11mMmEd8KVRexHfximkPNzTnMR1RVKML00hdGR-N41IjvOpaYTBkL12c5aRwRhDPJ4RAt1OdJx7Vw8g7QCrQuLzqWwHVAPfC3DbzEOIDWxcd-8Tvl7SKY7EHzH_t9Jb7wupQO6mAArSNjLI2JSa1Vrtj2bNvmlNTAV8WxM4WICh6wRBZIxbcMRtOCkY5UvjrZLVxsZeRGYeZCtcZGYRQsgSXZwqHPCF5Rt3G9Bx9em3FpdMjVFu6UNpCk_wJfawoiFnlkeCW41HpR85Q4H-EE7nWJXM01xcBTLa1C22M9_lh5rk0No36qpsHZOKscZK9r8p-U_-D6NefvGvasXZKh6O28tJWReC9E8mOFqZId-b6QbNAQoLJfYZHZMgIE6-9rP6byeWsV6Cv-Yd-gf8Bt2DjjDbzF-cdI481kcsAEx5FuwaYWbJi20NT1TXTDzdilqcPugyYe4pWty4uwwooPq0HdaEg1jIaYV8tw2KnVKzKdQ7q0D4F33mN3oQVcoaSta6mWSF2j_MqWV2XpM-NCHYn9UbmbTRRNJGh4F7DB7OpSt6qOzYuhC9LhE0a3XAZ3m7VPWgC-LwNaExA0BTxeKHYHFL_re8kb7xM4l9AJ17JwfupTSSL92a89NSgU06KoC7DXKcQW50GTa-rld8W-ZmAUVILnYwJ6HEYg6vUYcx5Xf8AwDoML74wBNfxbvyLZHlVWS9WzccGBOlw0u0LJzviJCc5kMa93eVjahbID66CL2Xuy4sVWtjqSkmi6HGsaiKZ_Egh2N5i45JMrYr2j46h9HCQtrHxoi3IYCS_RAhontzlQ-X0Qz2GNE_M-bnL-lohAG7968K_XuUC6LlaDts5ECBaxFpbAbrtNOiqJVFUwTxtSg9cv0L6vWuAgH9VcZYFXx7Z1lRKZPYZUpYwguE42lWYJuSHZ1pcJywdIXus1_mq0MBcIOjkzuiiRjLJiqND-WE6Dtn7UqTpX0BGfryd5I9U1EshHpTnfrHuXQz28-PbCH6x03Tzuqv1CJPGxliIaf2mWlh7Q1ITxBP4lWatyK5BJBBtGJi6yFWYfBQFZo7x5gMSfO3gJojZUF6O9LN924MDg71AVD2zVLEOwFb06hR_DVolqSzxeOBaRBEy4612lpPrZOqKIx1z5GCysZDdYQG5ZM-qhiT98QG1yEbxZ7wASP77yiL0s1-71EWrFdNwrv0jvtvT20t0VM5adyTol8poZoGjpKkwMzuf1Ba4kNDMRlTMKoajPF4s0bnRTLES1PDS58eFfdnoI3RbMH2vd3HEw3sYDEvNgw90cdIBadPuVEow2WzmKgqnIXVsZVTVwqqtJS3nMOMWDvHpbNmiHF2tV5CJSph8_WNF7KGZk1xw72IUx0rgD0v8dENsjZOZE5z82DmI9bfYE8WfjUBaKax8wfwU40UGVDmG8cjzKjdhcWIpsKGQ2sDGZ5Tu558w3sBRwmv7ZLH2_BxJ7k6JAdAkyHmplr08NanI4RxK1T2B7FtyDqsLnsEQU1qyUq2kuAnm8qUzv9lpOziq4BvynMAawAybm_ze2pcdP7og-j7ee8sqsOHofDBnpVgGWTlyttW9y19lLrQXMtxfsul_SlaalcATSd35CW7oVi9Oos4ZPIEHL-j_RUqoEw6DhNKfZnzUrHZriLN81qQoBIFZWzNbAhaDAWUpqfAYRwe1TcPATvjDkQ7HOQsqBUte5ilnp4cJieLyGfirN0Q0Hw0DOCyhD111qWBGlQ1o1Hfe1j9NCxa0SCVPB6gg3BM6OmbP4sgb9A4AqS2kG_5Low0UrYzX5WT15aYfwEwumZj1tSnV7yL0BMn7mDoQ9bHycn7XxUpoTpGY9LaAqgSMiiT1g4pCWdPwrfvrPB0mHtrai8UrKZUkdQyAhklB_1iQQb0VEBAMMFGvuce_8c5QJK2CAoWLtT5t7qwPObdiql4YhFuqcUk2a9UWHzRg45NofGcZYuKVXCjEoGtTlWXc9368023L9axadEljq87Bg9Sa9Luu7FVf7U8kZJy9T2mHajPgzn2HUpSLcszDx5ro2-vXlbSJnN78jPx43K3Xsaq8kyDhTbdT38TQPv8o2yM3IyHfitO_dYHXcPplo4JC47e6_ZV27jg-9Lm-aEBwBhOysjpFjxFLtm9lA2YtaKJNq13SFDPjSU-BXxWjc=",
+ "salt": "pnZbYQ7IJrGLCoLRixGkgA==",
+ "text": "Hallstatt is a salt-mining town set above a lake in the Austrian Alps. The place gives its name to the first culture plainly read as Celtic. Crews dug the mines on a wide scale between 1846 and 1899. The culture moved through four named stages, A through D. Those stages stretch from about 1200 bc to about 600 bc. Across much of Europe its effect ran from roughly 800 bc to 450 bc. It replaced the earlier Umfield culture and gave way later to La Tene. Hallstatt art is mostly straight-edged and geometric in form. Crafters valued it for skill more than for beauty. The bird picture may have come from Italy, while plant shapes stay scarce.",
+ "okr": {
+  "objective": "Document Hallstatt as both an Upper Austrian salt-mining graveyard and the type culture of the early Celtic Iron Age in central Europe.",
+  "key_results": [
+   "Describe the site, its cemetery, and the prehistoric salt mines and their dating.",
+   "Explain the Hallstatt culture's territory, east-west division, and chronology.",
+   "Note its ties to the Celts and to Mediterranean trade.",
+   "Record the early excavation work of Georg Ramsauer."
+  ],
+  "evidence": [
+   "Monaghan, P. The Encyclopedia of Celtic Mythology and Folklore (2008): Hallstatt entry.",
+   "Koch 2006, s.v. >Hallstatt."
+  ]
+ }
 }

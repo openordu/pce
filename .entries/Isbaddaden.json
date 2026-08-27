@@ -1,0 +1,21 @@
+{
+  "name": "Isbaddaden",
+  "text": "Isbaddaden is the name of a giant in the Welsh story of the hero's quest. He is the father whose power the young man must overcome. In the tale the hero is set many hard tasks before he may wed the daughter. The giant yields only at the close of that story.",
+  "entities": [
+    {"entity": "Isbaddaden", "type": "Person"},
+    {"entity": "Culhwch", "type": "Person"},
+    {"entity": "Olwen", "type": "Person"}
+  ],
+  "attributes": [
+    {"entity": "Isbaddaden", "attribute": "giant in the Welsh story"}
+  ],
+  "sources": ["MacKillop 2008, s.v. 'Isbaddaden'"],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Record Isbaddaden.",
+    "key_results": ["Name the giant.", "Set him in the Welsh tale.", "Tell how the hero overcomes him."],
+    "evidence": "MacKillop 2008, s.v. 'Isbaddaden'"
+  }
+}

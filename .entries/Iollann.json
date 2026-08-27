@@ -1,0 +1,21 @@
+{
+  "name": "Iollann",
+  "text": "Iollann is a form of a name that appears in early Irish story. It is one of the many shapes of the name Illann. Several heroes of the old tales carry this name. In the manuscripts the form is often close to Illann and other spellings.",
+  "entities": [
+    {"entity": "Iollann", "type": "Person"},
+    {"entity": "Illann", "type": "Person"},
+    {"entity": "Ireland", "type": "Place"}
+  ],
+  "attributes": [
+    {"entity": "Iollann", "attribute": "a form of the name Illann"}
+  ],
+  "sources": ["MacKillop 2008, s.v. 'Iollann'"],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Record Iollann.",
+    "key_results": ["Give the main form of the name.", "Name those who carry it.", "Note the Irish spelling."],
+    "evidence": "MacKillop 2008, s.v. 'Iollann'"
+  }
+}

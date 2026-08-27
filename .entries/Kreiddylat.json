@@ -1,0 +1,35 @@
+{
+  "name": "Kreiddylat",
+  "text": "Kreiddylat is a variant spelling of the name Creiddylad. In Welsh story this figure is the daughter of Lludd Llaw Eraint. The names Creiddylat and Crieddlad turn up as other forms of the same title.",
+  "entities": [
+    {
+      "entity": "Creiddylad",
+      "type": "Person"
+    },
+    {
+      "entity": "Lludd Llaw Eraint",
+      "type": "Person"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Kreiddylat",
+      "attribute": "variant spelling of Creiddylad"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Kreiddylat'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Record Kreiddylat.",
+    "key_results": [
+      "Give the common spelling.",
+      "Name the father of the figure.",
+      "List another recorded form."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Kreiddylat'"
+  }
+}
