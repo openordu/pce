@@ -1,0 +1,43 @@
+{
+  "name": "Braint",
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "text": "Braint is a Welsh personal name whose sense gives privilege, right, honour, or status. It may have grown from the goddess Brigantia, a title that points to one who stands high. The same word also clings to a river that runs across Anglesey. Readers may meet the name used for both a person and a watercourse.",
+  "entities": [
+    {
+      "entity": "Braint",
+      "type": "Person"
+    },
+    {
+      "entity": "Brigantia",
+      "type": "Deity"
+    },
+    {
+      "entity": "Anglesey",
+      "type": "Place"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Braint",
+      "attribute": "Welsh personal name meaning privilege, right, honour, or status"
+    },
+    {
+      "entity": "Braint",
+      "attribute": "attached to a river in Anglesey"
+    }
+  ],
+  "okr": {
+    "objective": "Provide a short note on the Welsh personal name Braint.",
+    "key_results": [
+      "Braint is a Welsh name meaning privilege, right, honour, or status.",
+      "The name may come from the goddess Brigantia.",
+      "Braint also names a river in Anglesey."
+    ],
+    "evidence": "MacKillop 2008, s.v. Braint."
+  },
+  "sources": [
+    "MacKillop 2008, s.v. Braint."
+  ]
+}
