@@ -1,0 +1,42 @@
+{
+  "name": "Búrc Búiredach",
+  "text": "Búrc Búiredach was the father of a famed princess. That daughter was the legendary Érne. She placed her name upon a great waterway. The waterway is the river Erne. Érne left a lasting mark upon the land. Búrc Búiredach appears nowhere else in the tales. His honour rests upon his daughter. He gave Ireland a princess who named the Erne waterway.",
+  "entities": [
+    {
+      "entity": "Búrc Búiredach",
+      "type": "Person"
+    },
+    {
+      "entity": "Érne",
+      "type": "Person"
+    },
+    {
+      "entity": "Erne",
+      "type": "Place"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Búrc Búiredach",
+      "attribute": "father of the princess Érne"
+    },
+    {
+      "entity": "Érne",
+      "attribute": "eponym of the Erne waterway"
+    }
+  ],
+  "okr": {
+    "objective": "Record Búrc Búiredach as the father of the princess Érne.",
+    "key_results": [
+      "Name Búrc Búiredach as Érne's father.",
+      "Link Érne to the Erne waterway."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Búrc Búiredach'."
+  },
+  "sources": [
+    "MacKillop 2008, s.v. 'Búrc Búiredach'."
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": ""
+}

@@ -391,4 +391,7 @@ layout: layouts/pce.njk
 - [Bóand](Bóand)
 - [Bóinn](Bóinn)
 - [Bóinne](Bóinne)
+- [Búadach](Búadach)
+- [Búadnat](Búadnat)
 - [Búanann](Búanann)
+- [Búrc Búiredach](Búrc_Búiredach)

@@ -1,0 +1,39 @@
+{
+  "name": "Ca-Olt",
+  "text": "Ca-Olt is a hero in James Macpherson's Ossian. The poet published Ossian in 1760. Macpherson built the character upon Caílte mac Rónáin. Caílte mac Rónáin is a hero of Irish legend. The two figures share a clear link. Ca-Olt draws his name from that older warrior. Ossian gives the Irish hero a fresh voice. Macpherson reshaped many such legends for his book. Ca-Olt stands among those refashioned heroes.",
+  "entities": [
+    {
+      "entity": "Caílte mac Rónáin",
+      "type": "Person"
+    },
+    {
+      "entity": "Ossian",
+      "type": "Text"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Ca-Olt",
+      "attribute": "hero in Macpherson's Ossian (1760)"
+    },
+    {
+      "entity": "Ca-Olt",
+      "attribute": "based on Caílte mac Rónáin of Irish legend"
+    }
+  ],
+  "okr": {
+    "objective": "Describe Ca-Olt as a hero reworked from Caílte mac Rónáin.",
+    "key_results": [
+      "States Ca-Olt appears in Macpherson's Ossian of 1760",
+      "Links Ca-Olt to the Irish hero Caílte mac Rónáin",
+      "Classifies Ca-Olt as a person-type node"
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Ca-Olt'."
+  },
+  "sources": [
+    "MacKillop 2008, s.v. 'Ca-Olt'."
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": ""
+}
