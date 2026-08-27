@@ -1,0 +1,39 @@
+{
+  "name": "Lough Erne",
+  "text": "Lough Erne takes its name from the goddess Erne. MacKillop handles this headword as a cross-reference and points readers to the Erne entry. There, dindshenchas material tells how the river and the lough both received her name.",
+  "entities": [
+    {
+      "entity": "Lough Erne",
+      "type": "Place"
+    },
+    {
+      "entity": "Erne",
+      "type": "Deity"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Lough Erne",
+      "attribute": "Named for the goddess Erne"
+    },
+    {
+      "entity": "Lough Erne",
+      "attribute": "Cross-reference headword resolved in the Erne entry"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Lough Erne'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Records the cross-reference from Lough Erne to the goddess Erne.",
+    "key_results": [
+      "The lough takes its name from the goddess Erne.",
+      "The Erne entry carries the fuller dindshenchas account.",
+      "The river and the lough both bear her name."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Lough Erne'."
+  }
+}

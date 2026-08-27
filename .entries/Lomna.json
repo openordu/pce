@@ -1,0 +1,40 @@
+{
+  "name": "Lomna",
+  "text": "Lomna serves Fionn mac Cumhaill as a fool. He exposed an adulterous affair between one of Fionn's wives and her lover. The lover murdered him for the betrayal, a punishment the tale treats as the fool's indiscretion repaid. Marvel tradition later gave the dead man a speaking head, which addressed the assembled feast. The tale joins Lomna to the small band of Fenian figures remembered for a single grim scene.",
+  "entities": [
+    {
+      "entity": "Lomna",
+      "type": "Person"
+    },
+    {
+      "entity": "Fionn mac Cumhaill",
+      "type": "Person"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Lomna",
+      "attribute": "fool of Fionn mac Cumhaill"
+    },
+    {
+      "entity": "Lomna",
+      "attribute": "murdered after exposing an affair; severed head speaks at a feast"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Lomna'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Lomna serves Fionn mac Cumhaill as a fool",
+    "key_results": [
+      "Fool of Fionn mac Cumhaill",
+      "Exposed an adulterous affair of one of Fionn's wives",
+      "Murdered by the wife's lover",
+      "His severed head speaks at a feast"
+    ],
+    "evidence": "MacKillop 2008, s.v. Lomna."
+  }
+}

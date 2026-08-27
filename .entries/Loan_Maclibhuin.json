@@ -1,0 +1,56 @@
+{
+  "name": "Loan Maclibhuin",
+  "text": "Loan Maclibhuin is the swarthy smith of Drontheim in Manx legend. Drontheim may point to Norway, the Norse town Trondheim. He forged the sword Macabuin for King Olave II Goddardson, who ruled Man. His daughter Emergaid the Fair became Olave's wife. That marriage founded the Manx royal line, joining the smith's kindred to the island's kings. The smith Lon mac Líomtha of Lochlainn is a kindred figure in Irish Fenian tradition, and the two tales belong to the same smith-lore family.",
+  "entities": [
+    {
+      "entity": "Loan Maclibhuin",
+      "type": "Person"
+    },
+    {
+      "entity": "Olave II",
+      "type": "Person"
+    },
+    {
+      "entity": "Emergaid the Fair",
+      "type": "Person"
+    },
+    {
+      "entity": "Drontheim",
+      "type": "Place"
+    },
+    {
+      "entity": "Man",
+      "type": "Place"
+    },
+    {
+      "entity": "Lon mac Líomtha",
+      "type": "Person"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Loan Maclibhuin",
+      "attribute": "Manx legendary smith of Drontheim"
+    },
+    {
+      "entity": "Loan Maclibhuin",
+      "attribute": "maker of the sword Macabuin for King Olave II"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Loan Maclibhuin'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Loan Maclibhuin is the swarthy smith of Drontheim in Manx legend",
+    "key_results": [
+      "Forged the sword Macabuin for Olave II Goddardson of Man",
+      "Daughter Emergaid the Fair married Olave",
+      "The marriage founded the Manx royal line",
+      "A kindred figure to the smith Lon mac Líomtha"
+    ],
+    "evidence": "MacKillop 2008, s.v. Loan Maclibhuin."
+  }
+}

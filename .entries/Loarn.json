@@ -1,0 +1,51 @@
+{
+  "name": "Loarn",
+  "text": "Loarn mac Erc stands among the three brothers who established the kingdom of Dál Riata in Argyll during the fifth century. Erc fathered him alongside Fergus Mòr and Óengus, and the three sons carried the kindred from Ireland into western Scotland. Highland genealogies later claimed him as an ultimate ancestor for many Scottish families. The district of Lorn in Argyll carries his name forward on the map.",
+  "entities": [
+    {
+      "entity": "Loarn",
+      "type": "Person"
+    },
+    {
+      "entity": "Erc",
+      "type": "Person"
+    },
+    {
+      "entity": "Dál Riata",
+      "type": "Group"
+    },
+    {
+      "entity": "Argyll",
+      "type": "Place"
+    },
+    {
+      "entity": "Fergus Mòr",
+      "type": "Person"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Loarn",
+      "attribute": "son of Erc and founder of Dál Riata in Argyll"
+    },
+    {
+      "entity": "Loarn",
+      "attribute": "ultimate ancestor in many Highland family genealogies"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Loarn'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Loarn mac Erc was one of the three sons of Erc who founded the kingdom of Dál Riata in Argyll during the fifth century",
+    "key_results": [
+      "Son of Erc",
+      "Co-founder of Dál Riata in Argyll, fifth century",
+      "Genealogical ancestor of many Highland families"
+    ],
+    "evidence": "MacKillop 2008, s.v. Loarn."
+  }
+}

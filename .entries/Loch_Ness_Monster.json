@@ -1,0 +1,48 @@
+{
+  "name": "Loch Ness Monster",
+  "text": "The Loch Ness Monster carries the names Orm and Nessy in legendary material. Its history as a water beast is far older than its modern tourist fame. Adomnán's life of Colum Cille, written around 690, tells how the saint ordered a monster with open jaws in the River Ness to dive down and stop hunting a swimmer. The beast obeyed and the man lived. Commentators link the story to the wider water-beast tradition that also produced the afanc. Popular books on the creature include works by Holiday and by Mackal.",
+  "entities": [
+    {
+      "entity": "Loch Ness Monster",
+      "type": "Being"
+    },
+    {
+      "entity": "Colum Cille",
+      "type": "Person"
+    },
+    {
+      "entity": "Adamnán",
+      "type": "Person"
+    },
+    {
+      "entity": "Afanc",
+      "type": "Being"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Loch Ness Monster",
+      "attribute": "water beast of the River Ness in Adomnán's account"
+    },
+    {
+      "entity": "Loch Ness Monster",
+      "attribute": "named Orm or Nessy in tradition"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Loch Ness Monster'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "The Loch Ness Monster carries the names Orm and Nessy in legendary material",
+    "key_results": [
+      "Named Orm or Nessy",
+      "Subdued by Colum Cille in Adomnán's account, c.690",
+      "Threat to a swimmer in the River Ness",
+      "Linked by commentators to the afanc water-beast tradition"
+    ],
+    "evidence": "MacKillop 2008, s.v. Loch Ness Monster."
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Lowry",
+  "text": "Lowry is an Anglicized form of the name Labraid. This headword works as a pointer and sends readers to the Labraid entry for the full material.",
+  "entities": [
+    {
+      "entity": "Lowry",
+      "type": "Concept"
+    },
+    {
+      "entity": "Labraid",
+      "type": "Person"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Lowry",
+      "attribute": "Anglicization of Labraid"
+    },
+    {
+      "entity": "Lowry",
+      "attribute": "Pointer entry with no independent story material"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Lowry'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Records Lowry as the Anglicized form of Labraid.",
+    "key_results": [
+      "MacKillop gives Lowry as an Anglicization of Labraid.",
+      "The entry points readers to the Labraid headword.",
+      "No independent story material attaches to the form."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Lowry'."
+  }
+}

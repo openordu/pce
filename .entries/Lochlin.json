@@ -1,0 +1,47 @@
+{
+  "name": "Lochlin",
+  "text": "Lochlin is Macpherson's name for a realm of dangerous invaders in his Ossian poetry of 1760. The construction clearly follows Lochlainn, the older Irish realm of enemies. Macpherson departs from his model on geography and locates Lochlin in northern Germany, between the two great rivers Rhine and Elbe. The shift moves the threat from the Norse world to a continental one.",
+  "entities": [
+    {
+      "entity": "Lochlin",
+      "type": "Place"
+    },
+    {
+      "entity": "Lochlainn",
+      "type": "Place"
+    },
+    {
+      "entity": "Macpherson",
+      "type": "Person"
+    },
+    {
+      "entity": "Ossian",
+      "type": "Text"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Lochlin",
+      "attribute": "Macpherson's Ossian realm of invaders"
+    },
+    {
+      "entity": "Lochlin",
+      "attribute": "placed by Macpherson in north Germany between Rhine and Elbe"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Lochlin'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Lochlin is Macpherson's name for a realm of dangerous invaders in his Ossian poetry of 1760",
+    "key_results": [
+      "Invader realm in Macpherson's Ossian of 1760",
+      "Derived from Lochlainn",
+      "Placed in north Germany between Rhine and Elbe"
+    ],
+    "evidence": "MacKillop 2008, s.v. Lochlin."
+  }
+}
