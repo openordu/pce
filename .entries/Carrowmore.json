@@ -1,0 +1,43 @@
+{
+  "name": "Carrowmore",
+  "text": "Carrowmore is an Irish place name that means the big quarter in English. The site lies in County Sligo, several miles northeast of the town of Tubbercurry. Oral lore holds the mounds there to be burial places of the Fir Bolg. A field of megalithic stones spreads across the open ground. Travelers see cairns and circles of early date in this western land.",
+  "entities": [
+    {
+      "entity": "Carrowmore",
+      "type": "Place"
+    },
+    {
+      "entity": "Fir Bolg",
+      "type": "group"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Carrowmore",
+      "attribute": "a megalithic site in County Sligo"
+    },
+    {
+      "entity": "Carrowmore",
+      "attribute": "its name means the big quarter in Irish"
+    },
+    {
+      "entity": "Carrowmore",
+      "attribute": "linked in lore to burial mounds of the Fir Bolg"
+    }
+  ],
+  "okr": {
+    "objective": "Carrowmore is a megalithic field in County Sligo whose name means the big quarter.",
+    "key_results": [
+      "The name translates from an Irish phrase for a big quarter.",
+      "The site lies northeast of the town of Tubbercurry.",
+      "The mounds are tied to the Fir Bolg in oral tradition."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Carrowmore'."
+  },
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "sources": [
+    "MacKillop 2008, s.v. 'Carrowmore'."
+  ]
+}

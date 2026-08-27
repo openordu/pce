@@ -1,0 +1,28 @@
+{
+  "name": "Carthon",
+  "attributes": [
+    {"entity": "Carthon", "attribute": "also written Carthonn"},
+    {"entity": "Carthon", "attribute": "son of Clessammor and Maona"},
+    {"entity": "Carthon", "attribute": "a figure in Macpherson's Ossian of 1760"}
+  ],
+  "entities": [
+    {"entity": "Carthon", "type": "Person"},
+    {"entity": "Connla", "type": "mythological figure"},
+    {"entity": "Cúchulainn", "type": "hero"}
+  ],
+  "sources": ["MacKillop 2008, s.v. 'Carthon'."],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "text": "Carthon, also spelled Carthonn, appears in Macpherson's Ossian of 1760. Clessammor and Maona stand as his parents in that telling. His own father cuts him down in a single combat. The scene later echoes an older Irish tale. Macpherson based Carthon on Connla. That earlier hero met a similar end at the hands of Cúchulainn.",
+  "okr": {
+    "objective": "Document Carthon, the Ossian hero slain by his own father.",
+    "key_results": [
+      "Carthon is a figure in Macpherson's Ossian of 1760",
+      "Clessammor and Maona are his parents",
+      "His father slays him in a single combat",
+      "Macpherson modeled Carthon on Connla"
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Carthon'."
+  }
+}
