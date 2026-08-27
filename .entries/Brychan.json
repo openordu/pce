@@ -1,0 +1,34 @@
+{
+ "name": "Brychan",
+ "text": "Brychan, also written Brachan or Brochan, stands as a chief of Irish stock who ruled in the fifth or sixth century. He grew his power sharply once the Romans withdrew. The medieval kingdom of Brycheiniog bore his name, and he sometimes pairs with that kingdom as a sobriquet. Report says he took three wives and fathered a great many children, several of them saints such as Berwyn, Endellion and Keyne. His feast once fell on 6 April even though he was hardly a saint himself.",
+ "entities": [
+  {"entity": "Brychan", "type": "Person"},
+  {"entity": "Brycheiniog", "type": "Place"},
+  {"entity": "Berwyn", "type": "Person"},
+  {"entity": "Endellion", "type": "Person"},
+  {"entity": "Keyne", "type": "Person"},
+  {"entity": "Brachan", "type": "Person"},
+  {"entity": "Brochan", "type": "Person"}
+ ],
+ "attributes": [
+  {"entity": "Brychan", "attribute": "was a fifth or sixth century chief of Irish stock"},
+  {"entity": "Brychan", "attribute": "extended his power after the Romans departed"},
+  {"entity": "Brychan", "attribute": "married three wives and fathered a huge number of children"},
+  {"entity": "Brychan", "attribute": "had many children who became saints"},
+  {"entity": "Brychan", "attribute": "was venerated on 6 April though hardly a saint himself"}
+ ],
+ "okr": {
+  "objective": "Document the chieftain of Irish stock whose many children included venerated saints.",
+  "key_results": [
+   "State that Brychan was a chief of Irish stock in the post Roman era.",
+   "Note the kingdom of Brycheiniog that carried his name.",
+   "Record his many children and the saintly offspring.",
+   "Record the ancient feast date of 6 April."
+  ],
+  "evidence": "MacKillop 2008, s.v. 'Brychan'."
+ },
+ "sources": ["MacKillop 2008, s.v. 'Brychan'."],
+ "image": [],
+ "cyphertext": "",
+ "salt": ""
+}
