@@ -2,74 +2,89 @@
 layout: layouts/pce.njk
 title: Aífe
 icon: file-lines
-order: 52
+order: 0
 contributors: [ 'Christopher Godwin' ]
 attributes:
-  - Aífe magically transformed into a Crane (sometimes, Heron) by a jealous rival, Iuchra
-  - Aífe after spending a lifetime on the sea
-  - Aífe transformed by the sea god Manannán Mac Lir
-  - crane bag created from Aífe's skin to carry all his mythic treasures, including the letters of the alphabet
-  - Aífe sometimes described as a muse figure
-  - Aífe occasionally conflated with the stepmother of Fionnuala
+  - Aífe is an Irish heroine whose name means radiant or beautiful
+  - Aífe was a great warrior of Scotland
+  - Aífe trained Irish heroes
+  - Aífe was related to the warrior woman Scáthach
+  - Aífe bore a child, Connla, to Cúchulainn
+  - Aífe turned the Children of Lir into swans
+  - Aífe was transformed into a crane by Iuchra
+  - Manannán mac Lir made the crane bag from the transformed Aífe
+  - Aife an Amazonian chieftainess, the hardest woman warrior in the world
+  - Aife daughter of Ardgeimm and frequent rival of Scathach
+  - Aife cared most for her horses and chariot and may link to Epona
 categories:
+  - hero
+  - people
+  - heroine
+  - Place
+  - god
+  - Deity
   - person
-  - object
-  - location
-  - animal
+  - warrior
+  - Person
 entities:
-  - Aífe(person)
-  - crane bag(object)
-  - woman(person)
-  - Crane(animal)
+  - Aífe(heroine)
+  - Scáthach(warrior)
+  - Cúchulainn(hero)
+  - Connla(hero)
+  - Children of Lir(people)
+  - Fionnuala(heroine)
   - Iuchra(person)
-  - sea(location)
-  - Manannán Mac Lir(person)
-  - mythic treasures(object)
-  - letters of the alphabet(object)
-  - muse figure(person)
-  - stepmother(person)
-  - Fionnuala(person)
+  - Manannán mac Lir(god)
+  - Ardgeimm(Person)
+  - Epona(Deity)
+  - Alba(Place)
+  - Scathach(Person)
 tags:
   - Aífe
-  - crane bag
-  - woman
-  - Crane
-  - Iuchra
-  - sea
-  - Manannán Mac Lir
-  - mythic treasures
-  - letters of the alphabet
-  - muse figure
-  - stepmother
+  - Scáthach
+  - Cúchulainn
+  - Connla
+  - Children of Lir
   - Fionnuala
+  - Iuchra
+  - Manannán mac Lir
+  - Ardgeimm
+  - Epona
+  - Alba
+  - Scathach
 ---
 ``` tab [group1:Info]
 ::: magazinestyle
-Irish heroine Aífe, also known as Eefa, Eva, Aoife, Aife, or Aeife, is a name that has been used for various legendary Irish figures. The name means “radiant” or “beautiful.” One of the well-known figures with this name is Aífe of Scotland, a skilled warrior who trained Irish heroes. According to some legends, she was either the daughter, sister, or double of Scáthach, one of the great warrior women. After being defeated by the Ulster hero Cúchulainn in a battle, Aífe bore his child named Connla. Unfortunately, the hero unknowingly killed the young man and found too late the ring he had given Aífe as a memento for their child. This heartbreaking tragedy has been the inspiration for literary works, including W. B. Yeats’s play On Baile’s Strand. In some myths, Aífe was Scáthach’s rival rather than her sister. Another Aífe, who was a stepmother of the Children of Lir, was a jealous woman who took the place of her unfortunate foster sister Áeb as the wife of Lir after Áeb died giving birth to her second set of twins. However, the children did not fare well in Aífe’s care, as she turned Fionnuala and her brothers into swans for 900 years. Aífe of the crane bag was a woman who was magically transformed into a crane or heron by a jealous rival named Iuchra. She spent a lifetime on the sea and was later transformed by the sea god Manannán Mac Lir, who created the mythological Crane Bag from her skin to carry all his mythic treasures, including the letters of the alphabet. Some consider her a muse figure and occasionally confuse her with the stepmother of Fionnuala.
+Aífe is an Irish heroine. Several legendary Irish figures bear this name, which means radiant or beautiful. The MacKillop account names Aífe an Amazonian chieftainess. He calls her the fiercest woman fighter of them all. She lived in Scotland, then called Alba. She was a daughter of Ardgeimm. She clashed often with Scathach. Some take that rival as her double. Aife prized her horses and her chariot above all else. She may link to the continental goddess Epona. The Ulster hero Cuchulainn came to study with Scathach. He bested Aife in combat. She bore his child, Connla. Cuchulainn later unwittingly killed his own son in battle. A second Aife appears as the jealous stepmother of the Children of Lir. A third Aife was turned into a crane, whose skin the sea god Manannan mac Lir made into his crane bag.
 
 :::
 ```
 ``` tab [group1:Attributes]
-- **Aífe**: magically transformed into a Crane (sometimes, Heron) by a jealous rival, Iuchra
-- **Aífe**: after spending a lifetime on the sea
-- **Aífe**: transformed by the sea god Manannán Mac Lir
-- **crane bag**: created from Aífe's skin to carry all his mythic treasures, including the letters of the alphabet
-- **Aífe**: sometimes described as a muse figure
-- **Aífe**: occasionally conflated with the stepmother of Fionnuala
+- **Aífe**: is an Irish heroine whose name means radiant or beautiful
+- **Aífe**: was a great warrior of Scotland
+- **Aífe**: trained Irish heroes
+- **Aífe**: was related to the warrior woman Scáthach
+- **Aífe**: bore a child, Connla, to Cúchulainn
+- **Aífe**: turned the Children of Lir into swans
+- **Aífe**: was transformed into a crane by Iuchra
+- **Manannán mac Lir**: made the crane bag from the transformed Aífe
+- **Aife**: an Amazonian chieftainess, the hardest woman warrior in the world
+- **Aife**: daughter of Ardgeimm and frequent rival of Scathach
+- **Aife**: cared most for her horses and chariot and may link to Epona
 ```
 ``` tab [group1:Entities]
-- **Aífe**: person
-- **crane bag**: object
-- **woman**: person
-- **Crane**: animal
+- **Aífe**: heroine
+- **Scáthach**: warrior
+- **Cúchulainn**: hero
+- **Connla**: hero
+- **Children of Lir**: people
+- **Fionnuala**: heroine
 - **Iuchra**: person
-- **sea**: location
-- **Manannán Mac Lir**: person
-- **mythic treasures**: object
-- **letters of the alphabet**: object
-- **muse figure**: person
-- **stepmother**: person
-- **Fionnuala**: person
+- **Manannán mac Lir**: god
+- **Ardgeimm**: Person
+- **Epona**: Deity
+- **Alba**: Place
+- **Scathach**: Person
 ```
 ``` tab [group1:Sources]
 - Condren, Mary. The Serpent and the Goddess: Women, Religion and Power in Ancient Ireland. San Francisco: Harper & Row, 1989, 122-123.
@@ -77,5 +92,6 @@ Irish heroine Aífe, also known as Eefa, Eva, Aoife, Aife, or Aeife, is a name t
 - Hull, Eleanor. The Cuchullin Saga in Irish Literature. London: David Nutt, 1898, 31.
 - Joyce, Patrick Weston. Ancient Celtic Romances. London: Parkgate Books, 1997.
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
+- MacKillop 2008, s.v. 'Aife'
 ```
 ![Aífe Image](https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Aiofeduncanunknowndate.jpg/1200px-Aiofeduncanunknowndate.jpg)

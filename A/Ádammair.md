@@ -2,35 +2,51 @@
 layout: layouts/pce.njk
 title: Ádammair
 icon: file-lines
-order: 9
+order: 0
 contributors: [ 'Christopher Godwin' ]
 attributes:
-  - Ádammair husband of Flidais
-  - Ádammair few known myths
+  - Ádammair is an Irish god
+  - Ádammair is the husband of the woodland goddess Flidais
+  - Ádammair is obscure in contrast to his consort
+  - Ádammair has few known myths
+  - Flidais is a woodland goddess
+  - Fergus mac Róich only Flidais could satisfy his appetite
 categories:
-  - Irish god
-  - Irish woodland goddess
+  - Person
+  - Deity
+  - Place
 entities:
-  - Ádammair(Irish god)
-  - Flidais(Irish woodland goddess)
+  - Ádammair(Deity)
+  - Flidais(Deity)
+  - Fergus mac Róich(Person)
+  - County Mayo(Place)
 tags:
   - Ádammair
   - Flidais
+  - Fergus mac Róich
+  - County Mayo
 ---
 ``` tab [group1:Info]
 ::: magazinestyle
-Obscurity surrounds Ádammair, the Irish deity known for being the husband of Flidais, the goddess of the woods. Despite being tied to such a prominent figure, very few myths or legends are known about him.
+Ádammair appears as an Irish god. Some tales name him the sometime husband of Flidais, the goddess of the wild. In one region the paired name Ádammair Flidais marks a local figure in County Mayo. This figure links to the appetite of the hero Fergus mac Róich. Only Flidais could meet his inner hunger. Without her he needed seven women. Ádammair stays obscure next to his consort. Few myths belong to him alone.
 
 :::
 ```
 ``` tab [group1:Attributes]
-- **Ádammair**: husband of Flidais
-- **Ádammair**: few known myths
+- **Ádammair**: is an Irish god
+- **Ádammair**: is the husband of the woodland goddess Flidais
+- **Ádammair**: is obscure in contrast to his consort
+- **Ádammair**: has few known myths
+- **Flidais**: is a woodland goddess
+- **Fergus mac Róich**: only Flidais could satisfy his appetite
 ```
 ``` tab [group1:Entities]
-- **Ádammair**: Irish god
-- **Flidais**: Irish woodland goddess
+- **Ádammair**: Deity
+- **Flidais**: Deity
+- **Fergus mac Róich**: Person
+- **County Mayo**: Place
 ```
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
+- MacKillop 2008, s.v. 'Ádammair'
 ```

@@ -2,54 +2,76 @@
 layout: layouts/pce.njk
 title: Arawn
 icon: file-lines
-order: 142
+order: 0
 contributors: [ 'Christopher Godwin' ]
 attributes:
-  - Arawn exchanged identities with Pwyll
-  - Pwyll exchanged identities with Arawn
-  - Pwyll killed Arawn's enemy and rival for power in Annwn, Hafgan
-  - Otherworld beautiful and unchanging
-  - Otherworld without any pain, death, disfigurement, or disease
-  - Otherworld residents spend their time in merrymaking and games
+  - Arawn lord of the Welsh Otherworld, Annwn, owner of a magical cauldron and magical pigs
+  - cauldron a magical vessel owned by Arawn, parallel to the Dagda's
+  - Hafgan the rival and arch-enemy of Arawn
+  - Gwyn ap Nudd the god who replaced Arawn as ruler of the Otherworld in later Welsh legend
+  - Tethra an Irish Fomori leader set beside Arawn by some writers
 categories:
-  - person
-  - place
+  - Person
+  - Artifact
+  - Being
+  - Place
 entities:
-  - Arawn(person)
-  - Pwyll(person)
-  - Otherworld(place)
-  - Annwn(place)
-  - Hafgan(person)
+  - Arawn(Person)
+  - Annwn(Place)
+  - cauldron(Artifact)
+  - Dagda(Person)
+  - pigs(Being)
+  - Pryderi(Person)
+  - Gwydion(Person)
+  - Amaethon(Person)
+  - Pwyll(Person)
+  - Hafgan(Person)
+  - Gwyn ap Nudd(Person)
+  - Tethra(Person)
 tags:
   - Arawn
-  - Pwyll
-  - Otherworld
   - Annwn
+  - cauldron
+  - Dagda
+  - pigs
+  - Pryderi
+  - Gwydion
+  - Amaethon
+  - Pwyll
   - Hafgan
+  - Gwyn ap Nudd
+  - Tethra
 ---
 ``` tab [group1:Info]
 ::: magazinestyle
-A Welsh god named Arawn was considered the lord of Annwn, the Welsh Otherworld. In possession of a magical Cauldron, Arawn shared similarities with the Irish father god, the Dagda. Additionally, Arawn had magical Pigs, which is another theme associated with the Dagda. Arawn bestowed these Pigs as a gift to the mortal king Pryderi; when the bard Gwydion took them, he was captured and confined in Annwn. The obscure divinity Amaethon stole three magical beasts belonging to Arawn; this motif possibly indicates a belief that domesticated creatures initially belonged to the gods and had to be taken by force or deception to our world. According to one story, Arawn exchanged identities with the mortal king Pwyll for a year, and while staying in the Otherworld, Pwyll killed Hafgan, Arawn's adversary and competitor for power in Annwn. Arawn's world was akin to a typical Celtic Otherworld - a serene, unchanging, and beautiful place that lacked the suffering, death, mutilation, or illness found in our world. Its inhabitants spent their time engaging in revelry and pastimes.
+Arawn is the Welsh god who rules Annwn, the Welsh Otherworld. That realm is a classic Celtic Otherworld, fair and unchanging, with no pain, death, or disease. Its people pass their hours in feasts and games. Arawn had a known rival and arch-enemy named Hafgan. While hunting, Arawn and the king Pwyll agreed to trade their bodies and their lands for one year. The shift stayed secret, even from Arawn's fair queen. Pwyll respected her modesty. At the end of that year Pwyll struck down the rival Hafgan in one blow. When he went home, Pwyll saw that Arawn had governed well and with good mind. The pair kept their friendship. A magic cauldron that belonged to Arawn was the Spoils of Annwn. It was counted among Britain's finest relics, and King Arthur desired it. Arawn gave the magical pigs he owned to the lord Pryderi. After the god Amaethon made off with those animals, the clash called Cadawa was set. In older Welsh saga Gwyn ap Nudd took the crown of the Otherworld from Arawn. Some set beside the Irish Fomoiri and their leader Tethra. The critic Loomis took Arawn as the model for the Grail guard Alain li Gros.
 
 :::
 ```
 ``` tab [group1:Attributes]
-- **Arawn**: exchanged identities with Pwyll
-- **Pwyll**: exchanged identities with Arawn
-- **Pwyll**: killed Arawn's enemy and rival for power in Annwn, Hafgan
-- **Otherworld**: beautiful and unchanging
-- **Otherworld**: without any pain, death, disfigurement, or disease
-- **Otherworld**: residents spend their time in merrymaking and games
+- **Arawn**: lord of the Welsh Otherworld, Annwn, owner of a magical cauldron and magical pigs
+- **cauldron**: a magical vessel owned by Arawn, parallel to the Dagda's
+- **Hafgan**: the rival and arch-enemy of Arawn
+- **Gwyn ap Nudd**: the god who replaced Arawn as ruler of the Otherworld in later Welsh legend
+- **Tethra**: an Irish Fomori leader set beside Arawn by some writers
 ```
 ``` tab [group1:Entities]
-- **Arawn**: person
-- **Pwyll**: person
-- **Otherworld**: place
-- **Annwn**: place
-- **Hafgan**: person
+- **Arawn**: Person
+- **Annwn**: Place
+- **cauldron**: Artifact
+- **Dagda**: Person
+- **pigs**: Being
+- **Pryderi**: Person
+- **Gwydion**: Person
+- **Amaethon**: Person
+- **Pwyll**: Person
+- **Hafgan**: Person
+- **Gwyn ap Nudd**: Person
+- **Tethra**: Person
 ```
 ``` tab [group1:Sources]
 - Gantz, Jeffrey, trans. *The Mabinogion*. (New York: Barnes & Noble Books, 1976), 47-51, 100.
 - MacCulloch, J. A. The Religion of the Ancient Celts. London: Constable, 1911, 368–387.
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
+- MacKillop 2008, s.v. "Arawn"
 ```

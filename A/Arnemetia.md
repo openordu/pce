@@ -2,70 +2,50 @@
 layout: layouts/pce.njk
 title: Arnemetia
 icon: file-lines
-order: 153
+order: 0
 contributors: [ 'Christopher Godwin' ]
 attributes:
-  - Arnemetia British goddess
-  - Nemeton related to the name of Arnemetia
-  - Buxton Spa located in Derbyshire
-  - Aquae Arnementiae shrine of Arnemetia
-  - mineral Springs located in close proximity to each other
-  - Christianization resulted in Arnemetia becoming St. Anne
+  - Arnemetia a goddess whose name holds nemeton
+  - Aquae Arnementiae the Roman name of her shrine
+  - Buxton the spa site of her two springs
+  - Saint Anne her later Christian name
 categories:
-  - process
-  - place
-  - natural resource
-  - saint
-  - people
-  - British goddess
-  - word
-  - shrine
+  - Person
+  - Place
+  - Concept
 entities:
-  - Arnemetia(British goddess)
-  - Nemeton(word)
-  - Romans(people)
-  - Buxton Spa(place)
-  - Derbyshire(place)
-  - Aquae Arnementiae(shrine)
-  - mineral Springs(natural resource)
-  - Christianization(process)
-  - St. Anne(saint)
+  - Arnemetia(Person)
+  - nemeton(Concept)
+  - Aquae Arnementiae(Place)
+  - Buxton(Place)
+  - Saint Anne(Person)
 tags:
   - Arnemetia
-  - Nemeton
-  - Romans
-  - Buxton Spa
-  - Derbyshire
+  - nemeton
   - Aquae Arnementiae
-  - mineral Springs
-  - Christianization
-  - St. Anne
+  - Buxton
+  - Saint Anne
 ---
 ``` tab [group1:Info]
 ::: magazinestyle
-British goddess, Arnemetia, is associated with the word Nemeton, meaning "in front of the sacred grove." The shrine of this goddess, located in present-day Buxton Spa in Derbyshire, was known as Aquae Arnementiae by Romans. It was named after two mineral springs that were located nearby. Post the Christianization period, Arnemetia was identified as St. Anne.
+Arnemetia is a British goddess. Her name comes from nemeton, the word for a sacred grove. The Romans honored her in their time at her spa shrine. That site held the name Aquae Arnementiae, the waters of Arnemetia. The place is present-day Buxton Spa in Derbyshire. Buxton stands as the highest town in England. It sits in the north-west of that county. Its mineral waters have drawn visitors for a long time. Two springs rose close together at her grove. After Christianization she became Saint Anne.
 
 :::
 ```
 ``` tab [group1:Attributes]
-- **Arnemetia**: British goddess
-- **Nemeton**: related to the name of Arnemetia
-- **Buxton Spa**: located in Derbyshire
-- **Aquae Arnementiae**: shrine of Arnemetia
-- **mineral Springs**: located in close proximity to each other
-- **Christianization**: resulted in Arnemetia becoming St. Anne
+- **Arnemetia**: a goddess whose name holds nemeton
+- **Aquae Arnementiae**: the Roman name of her shrine
+- **Buxton**: the spa site of her two springs
+- **Saint Anne**: her later Christian name
 ```
 ``` tab [group1:Entities]
-- **Arnemetia**: British goddess
-- **Nemeton**: word
-- **Romans**: people
-- **Buxton Spa**: place
-- **Derbyshire**: place
-- **Aquae Arnementiae**: shrine
-- **mineral Springs**: natural resource
-- **Christianization**: process
-- **St. Anne**: saint
+- **Arnemetia**: Person
+- **nemeton**: Concept
+- **Aquae Arnementiae**: Place
+- **Buxton**: Place
+- **Saint Anne**: Person
 ```
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
+- MacKillop 2008, s.v. 'Arnemetia'
 ```

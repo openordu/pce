@@ -2,35 +2,44 @@
 layout: layouts/pce.njk
 title: Aimend
 icon: file-lines
-order: 74
+order: 0
 contributors: [ 'Christopher Godwin' ]
 attributes:
-  - Aimend obscure
-  - Aimend early
+  - Aimend an obscure Irish goddess
+  - Aimend an early solar divinity
+  - Aimend daughter of a king of the Corcu Loigde
+  - Aimend a historical people of south-west Ireland
 categories:
-  - divinity
-  - Irish goddess
+  - Person
+  - Group
+  - Concept
 entities:
-  - Aimend(Irish goddess)
-  - solar divinity(divinity)
+  - Aimend(Person)
+  - sun(Concept)
+  - Corcu Loigde(Group)
 tags:
   - Aimend
-  - solar divinity
+  - sun
+  - Corcu Loigde
 ---
 ``` tab [group1:Info]
 ::: magazinestyle
-Obscure and enigmatic, Aimend is a goddess from Irish mythology who holds her place among the ranks of early solar deities.
+Aimend was an Irish goddess. She is an obscure figure who appears to have been an early solar divinity. Early Irish legend names her the child of a Corcu Loigde king. The Corcu Loigde were a historical people of the south-west of Ireland. The circumstances of her story imply that she was a sun goddess.
 
 :::
 ```
 ``` tab [group1:Attributes]
-- **Aimend**: obscure
-- **Aimend**: early
+- **Aimend**: an obscure Irish goddess
+- **Aimend**: an early solar divinity
+- **Aimend**: daughter of a king of the Corcu Loigde
+- **Aimend**: a historical people of south-west Ireland
 ```
 ``` tab [group1:Entities]
-- **Aimend**: Irish goddess
-- **solar divinity**: divinity
+- **Aimend**: Person
+- **sun**: Concept
+- **Corcu Loigde**: Group
 ```
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
+- MacKillop 2008, s.v. 'Aimend'
 ```

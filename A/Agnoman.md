@@ -2,66 +2,70 @@
 layout: layouts/pce.njk
 title: Agnoman
 icon: file-lines
-order: 41
+order: 0
 contributors: [ 'Christopher Godwin' ]
 attributes:
-  - Agnoman Irish hero
-  - Nemed founder of the Nemedians
-  - the Nemedians vaguely described race
-  - Scythia family home
-  - Ireland migration destination
-  - the Book Of Invasions Irish mythic history
-  - Elizabethan English poet and political apologist Edmund Spenser took the story literally and argued vehemently that the Irish were originally Scythian savages
+  - Agnoman hero of the Book of Invasions
+  - Nemed son of Agnoman
+  - Edmund Spenser read the tale as fact
+  - Agnoman also called Agno
+  - Agnoman often cited in the Book of Invasions
+  - Crunnchu descendant of Agnoman
 categories:
-  - Irish hero
-  - founder of the Nemedians
-  - vaguely described race
-  - person
-  - Irish mythic history
-  - family home
-  - migration destination
+  - Person
+  - Place
+  - Concept
 entities:
-  - Agnoman(Irish hero)
-  - Nemed(founder of the Nemedians)
-  - the Nemedians(vaguely described race)
-  - Scythia(family home)
-  - Ireland(migration destination)
-  - the Book Of Invasions(Irish mythic history)
-  - Elizabethan English poet and political apologist Edmund Spenser(person)
+  - Agnoman(Person)
+  - Nemed(Person)
+  - Nemedians(Concept)
+  - Scythia(Place)
+  - Ireland(Place)
+  - Edmund Spenser(Person)
+  - Agno(Person)
+  - Nemed mac Agnomain(Person)
+  - Crunnchu(Person)
+  - Lebor Gabala(Concept)
 tags:
   - Agnoman
   - Nemed
-  - the Nemedians
+  - Nemedians
   - Scythia
   - Ireland
-  - the Book Of Invasions
-  - Elizabethan English poet and political apologist Edmund Spenser
+  - Edmund Spenser
+  - Agno
+  - Nemed mac Agnomain
+  - Crunnchu
+  - Lebor Gabala
 ---
 ``` tab [group1:Info]
 ::: magazinestyle
-An Irish hero known as Agnoman appears in the Book of Invasions, a mythic history of Ireland. Even though he never made it to Ireland, his son named Nemed founded the Nemedians, who migrated from Scythia to Ireland. There are historians who consider such myths as remnants of lost history. On the other hand, Edmund Spenser, an English poet and political apologist during the Elizabethan era, views the story as a factual account and argues that the Irish were primitive Scythian people.
+Agnoman, also called Agno, was an ancestor in the Book of Invasions of Ireland. People often cite him in that text. He never reached Ireland himself. His son Nemed, sometimes named Nemed mac Agnomain, founded a people, the Nemedians. Another heir, Crunnchu, also took his line from Agnoman. The Nemedians went from the old home in Scythia to take Ireland. Some readers see in the tale what remains of a lost history. The poet Edmund Spenser read the tale as plain truth.
 
 :::
 ```
 ``` tab [group1:Attributes]
-- **Agnoman**: Irish hero
-- **Nemed**: founder of the Nemedians
-- **the Nemedians**: vaguely described race
-- **Scythia**: family home
-- **Ireland**: migration destination
-- **the Book Of Invasions**: Irish mythic history
-- **Elizabethan English poet and political apologist Edmund Spenser**: took the story literally and argued vehemently that the Irish were originally Scythian savages
+- **Agnoman**: hero of the Book of Invasions
+- **Nemed**: son of Agnoman
+- **Edmund Spenser**: read the tale as fact
+- **Agnoman**: also called Agno
+- **Agnoman**: often cited in the Book of Invasions
+- **Crunnchu**: descendant of Agnoman
 ```
 ``` tab [group1:Entities]
-- **Agnoman**: Irish hero
-- **Nemed**: founder of the Nemedians
-- **the Nemedians**: vaguely described race
-- **Scythia**: family home
-- **Ireland**: migration destination
-- **the Book Of Invasions**: Irish mythic history
-- **Elizabethan English poet and political apologist Edmund Spenser**: person
+- **Agnoman**: Person
+- **Nemed**: Person
+- **Nemedians**: Concept
+- **Scythia**: Place
+- **Ireland**: Place
+- **Edmund Spenser**: Person
+- **Agno**: Person
+- **Nemed mac Agnomain**: Person
+- **Crunnchu**: Person
+- **Lebor Gabala**: Concept
 ```
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
+- MacKillop 2008, s.v. Agnoman
 ```
 ![Agnoman Image](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Myths_and_legends%3B_the_Celtic_race_%281910%29_%2814760452906%29.jpg/1200px-Myths_and_legends%3B_the_Celtic_race_%281910%29_%2814760452906%29.jpg)

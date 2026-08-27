@@ -2,36 +2,50 @@
 layout: layouts/pce.njk
 title: Ainge
 icon: file-lines
-order: 80
+order: 0
 contributors: [ 'Christopher Godwin' ]
 attributes:
-  - Ainge magically defended against the theft of the logs she was gathering by transforming them into living trees
-  - Ainge owned a tub or Cauldron in which water would ebb and flow as though it were the tide
+  - Ainge daughter of the Dagda
+  - Ainge turned logs into living trees to guard them
+  - Ainge owned a cauldron whose water ebbed like the tide
 categories:
-  - god
-  - Irish goddess
+  - Person
+  - Artifact
+  - Concept
 entities:
-  - Ainge(Irish goddess)
-  - the Dagda(god)
+  - Ainge(Person)
+  - Dagda(Person)
+  - cauldron(Artifact)
+  - tide(Concept)
+  - Nuada(Person)
 tags:
   - Ainge
-  - the Dagda
+  - Dagda
+  - cauldron
+  - tide
+  - Nuada
 ---
 ``` tab [group1:Info]
 ::: magazinestyle
-Irish mythology tells of Ainge, a goddess and daughter of the Dagda. Ainge displayed her magical abilities by defending against the theft of logs she was gathering by transforming them into living trees. Additionally, she possessed a tub, or Cauldron, that exhibited water flowing in and out as if it were the tide.
+Ainge was a daughter of the great god of Ireland. In her story, twigs that she had been gathering were carried off by Gaible, a son of Nuada. The twigs then became a forest and grew in every direction. This power fit the nature of her father. The great god could give life where none had been. Her tale keeps the story of the stolen bundles, part of the wider lore of her father's house.
 
 :::
 ```
 ``` tab [group1:Attributes]
-- **Ainge**: magically defended against the theft of the logs she was gathering by transforming them into living trees
-- **Ainge**: owned a tub or Cauldron in which water would ebb and flow as though it were the tide
+- **Ainge**: daughter of the Dagda
+- **Ainge**: turned logs into living trees to guard them
+- **Ainge**: owned a cauldron whose water ebbed like the tide
 ```
 ``` tab [group1:Entities]
-- **Ainge**: Irish goddess
-- **the Dagda**: god
+- **Ainge**: Person
+- **Dagda**: Person
+- **cauldron**: Artifact
+- **tide**: Concept
+- **Nuada**: Person
 ```
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
+- MacKillop 2008, s.v. 'Ainge'
+- MacKillop 2008, s.v. 'Ainge'
 ```
 ![Ainge Image](https://upload.wikimedia.org/wikipedia/en/2/2b/OSCAinge.jpg)

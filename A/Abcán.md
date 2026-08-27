@@ -2,47 +2,53 @@
 layout: layouts/pce.njk
 title: Abcán
 icon: file-lines
-order: 4
+order: 0
 contributors: [ 'Christopher Godwin' ]
 attributes:
-  - Abcán captured by Cúchulainn
-  - Abcán freed himself by playing lullabies
-  - Cúchulainn great hero of Ulster
-  - Abcán related to Fer Í
-  - Fer Í dwarf musician
+  - Abcán carried Ruad from the Otherworld in his boat
+  - Abcán a dwarf who wrote poems for the Tuatha Dé Danann
+  - Abcán owned a bronze boat with a tin sail
+  - Abcán moored his boat near the falls of Assaroe
+  - Cuchulainn slept from Abcán's song
 categories:
-  - Character
-  - Location
+  - Person
+  - People
+  - Being
+  - Place
 entities:
-  - Abcán(Character)
-  - Ulster(Location)
-  - Cúchulainn(Character)
-  - Fer Í(Character)
+  - Abcán(Being)
+  - Ruad(Person)
+  - Assaroe(Place)
+  - Cuchulainn(Person)
+  - Tuatha Dé Danann(People)
 tags:
   - Abcán
-  - Ulster
-  - Cúchulainn
-  - Fer Í
+  - Ruad
+  - Assaroe
+  - Cuchulainn
+  - Tuatha Dé Danann
 ---
 ``` tab [group1:Info]
 ::: magazinestyle
-Abcán was a god from the Irish mythology who was associated with the Tuatha Dé Danann, a group of early Celtic gods from Ireland. In one story, Ruad, a goddess, was transported from the Otherworld to our world in Abcán's boat, which was made of bronze and had a tin sail. They arrived at the famous waterfall of Assaroe and it was there that Ruad eventually died. The reason for her death was because she was lured into the swirling waters by the singing of Mermaids from Abcán's boat. In another text, it was said that Abcán was captured by Cúchulainn, a great hero from Ulster, but was able to escape by playing irresistible lullabies that put the warrior to sleep. Abcán shares many similarities with Fer Í, a dwarf musician, and may be related to him.
+Abcán was a dwarf who wrote poems for the Tuatha De Danann, the old gods of Ireland. A bronze boat belonged to him. A tin sail crowned that craft. He moored it at the falls of Assaroe. The falls take their name from Ruad, a goddess in his tale. Ruad rode from the Otherworld in Abcán's boat. She passed away soon after. A mermaid in his boat drew her to her death at the falls. In a second tale Cuchulainn seized Abcán. The poet sang until the warrior slept. Abcán was cousin to Fer, another dwarf musician.
 
 :::
 ```
 ``` tab [group1:Attributes]
-- **Abcán**: captured by Cúchulainn
-- **Abcán**: freed himself by playing lullabies
-- **Cúchulainn**: great hero of Ulster
-- **Abcán**: related to Fer Í
-- **Fer Í**: dwarf musician
+- **Abcán**: carried Ruad from the Otherworld in his boat
+- **Abcán**: a dwarf who wrote poems for the Tuatha Dé Danann
+- **Abcán**: owned a bronze boat with a tin sail
+- **Abcán**: moored his boat near the falls of Assaroe
+- **Cuchulainn**: slept from Abcán's song
 ```
 ``` tab [group1:Entities]
-- **Abcán**: Character
-- **Ulster**: Location
-- **Cúchulainn**: Character
-- **Fer Í**: Character
+- **Abcán**: Being
+- **Ruad**: Person
+- **Assaroe**: Place
+- **Cuchulainn**: Person
+- **Tuatha Dé Danann**: People
 ```
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
+- MacKillop 2008, s.v. 'Abcán'
 ```

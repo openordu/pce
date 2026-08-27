@@ -2,40 +2,76 @@
 layout: layouts/pce.njk
 title: Amadán
 icon: file-lines
-order: 103
+order: 0
 contributors: [ 'Christopher Godwin' ]
 attributes:
-  - Amadán restored to his own family
-  - Amadán went forth to battle other giants
+  - Amadán the fool of the Fairy Mound
+  - Amadán caused a stroke by touch
+  - Amadán a plain-minded simple soul
+  - Great Amadán a prince turned giant avenger
+  - Amadán can take a benevolent or a malevolent role
+  - Amadan Mor the Great Fool, hero of folk tales and a leader of the fairy host
+  - Amadán na bruidhne fool of the fairy mounds, feared for the fairy stroke
+  - Amadán na bruidhne most active in the month of June
+  - fairy stroke can bring paralysis, crippling, or death
 categories:
-  - Character
+  - Concept
   - Group
+  - Place
+  - Being
+  - Person
 entities:
-  - Amadán(Character)
-  - family(Group)
-  - giants(Group)
+  - Amadán(Being)
+  - Fairy Mound(Place)
+  - Fairy stroke(Concept)
+  - Great Amadán(Being)
+  - Fenian Cycle(Concept)
+  - Amadan Mor(Person)
+  - Amadán na bruidhne(Being)
+  - fairy host(Group)
+  - June(Concept)
 tags:
   - Amadán
-  - family
-  - giants
+  - Fairy Mound
+  - Fairy stroke
+  - Great Amadán
+  - Fenian Cycle
+  - Amadan Mor
+  - Amadán na bruidhne
+  - fairy host
+  - June
 ---
 ``` tab [group1:Info]
 ::: magazinestyle
-Amadán, also known as Amadáin or Amadáin Mhóir, is an Irish hero or spirit. Each Fairy Mound in Ireland had its queen and likewise a fool, the Amadán, who served the queen wholeheartedly, often causing difficulties without even realizing it. The Amadán had the ability to cause a stroke with a mere touch of his hand on human flesh, as mentioned in Fairy Stroke. The Amadán is sometimes portrayed as malicious in his behavior that led to difficulties for his victims. Nevertheless, he is more often depicted as a foolish character who fails to understand the serious consequences of his acts. The fool also appears in oral folklore and written texts as a helpless and simple-minded human, as exemplified in the story of "Shawn an Omadawn." Several early collectors record the story, which tells the tale of a somewhat naive boy who outwitted his more intelligent companions or siblings. One of the Fenian Cycle stories, called the Adventure of the Great Amadán (Eachtra an Amadáin Mhóir), portrays the fool as the son of a king whose lands were taken away by invaders. In hiding, he grew into a hairy giant who married into the family that dispossessed him, despite his unattractive appearance. However, he eventually sought justice by killing his in-laws. Following numerous adventures and battles, he was reunited with his own family and fought against other giants.
+In the folk tales of Ireland and Scotland, Amadán holds a clear place. The name means fool. The folk figure can act well or ill. He may stand as a bold hero or a feared taker. Amadan Mor, the Great Fool, is the leading hero of several folk tales. He sometimes leads the fairy host. Poets and storytellers both gave him that place. Amadán na bruidhne is the fool of the fairy mounds. The people fear him greatly. He may lay a fairy stroke upon a person. That stroke brings paralysis or crippling. It can even bring death. He acts most in the month of June. The common spoken word has its own dull wit. The folk hero bears no clear tie to that use. Scholars find no firm link between the two senses. The folk Amadán blends harm and help in one. He can serve a queen while blind to the hurt he does. An ill touch of his hand leaves a wound on flesh. Some tellers cast him as too dull to grasp the harm. The same word appears in oral speech for a luckless man. In the tale of the Great Amadán, a king's son loses his land. He hides in the wild wood and grows into a huge figure. He enters the house that took his realm and slays its people. After a great fight he wins home again. He then goes on to fight other foes. That turn from prince to avenger shows both faces of Amadán. He is the fool who holds great power. He is the simple soul who acts with force. Both roles lived among the Irish and the Scottish Gaels. His name stays tied to folly, and folly survives in the tale.
 
 :::
 ```
 ``` tab [group1:Attributes]
-- **Amadán**: restored to his own family
-- **Amadán**: went forth to battle other giants
+- **Amadán**: the fool of the Fairy Mound
+- **Amadán**: caused a stroke by touch
+- **Amadán**: a plain-minded simple soul
+- **Great Amadán**: a prince turned giant avenger
+- **Amadán**: can take a benevolent or a malevolent role
+- **Amadan Mor**: the Great Fool, hero of folk tales and a leader of the fairy host
+- **Amadán na bruidhne**: fool of the fairy mounds, feared for the fairy stroke
+- **Amadán na bruidhne**: most active in the month of June
+- **fairy stroke**: can bring paralysis, crippling, or death
 ```
 ``` tab [group1:Entities]
-- **Amadán**: Character
-- **family**: Group
-- **giants**: Group
+- **Amadán**: Being
+- **Fairy Mound**: Place
+- **Fairy stroke**: Concept
+- **Great Amadán**: Being
+- **Fenian Cycle**: Concept
+- **Amadan Mor**: Person
+- **Amadán na bruidhne**: Being
+- **fairy host**: Group
+- **June**: Concept
 ```
 ``` tab [group1:Sources]
 - Curtin, Jeremiah. Hero-Tales of Ireland. (New York: Benjamin Blom, 1894), 140.
 - Hyde, Douglas. Beside the Fire: A Collection of Irish Gaelic Folk Stories. London: David Nutt, 1890, 11.
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
+- MacKillop 2008, s.v. Amadán
 ```
