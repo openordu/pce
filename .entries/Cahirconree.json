@@ -1,0 +1,31 @@
+{
+  "name": "Cahirconree",
+  "attributes": [
+    {"entity": "Cahirconree", "attribute": "is an Iron Age stone fort in County Kerry"},
+    {"entity": "Sliab Mis", "attribute": "a mountain range that carries the fort above the plain"}
+  ],
+  "entities": [
+    {"entity": "Cahirconree", "type": "Place"},
+    {"entity": "Sliab Mis", "type": "Place"},
+    {"entity": "Dingle", "type": "Place"},
+    {"entity": "Kerry", "type": "Place"},
+    {"entity": "Tralee", "type": "Place"},
+    {"entity": "Cú Roi", "type": "Person"},
+    {"entity": "Bláithíne", "type": "Person"},
+    {"entity": "Cúchulainn", "type": "Person"}
+  ],
+  "sources": ["MacKillop 2008, s.v. 'Cahirconree'."],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "text": "Cahirconree is an Iron Age stone fort in County Kerry. The fort stands upon a high promontory in the far west of Ireland. That rock rises about two thousand fifty feet above the plain. The ground sits within the Sliab Mis range of the mountains. The fort looks across the Dingle peninsula and the open sea. The town of Tralee lies roughly eight miles to the east. The name of the fort seems to recall the hero Cú Roi. An old tale says that the hero's own wife betrayed him there. The wife Bláithíne gave the hero away to the champion Cúchulainn. So the ruin keeps the memory of a long betrayal in stone.",
+  "okr": {
+    "objective": "Describe the ancient fort and the betrayal that its name recalls.",
+    "key_results": [
+      "States the fort stands high within the Slie Mish mountains",
+      "Notes the fort looks on Dingle and the sea",
+      "Tells how the hero Cú Roi was betrayed at the fort"
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Cahirconree'."
+  }
+}

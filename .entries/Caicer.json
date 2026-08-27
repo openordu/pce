@@ -1,0 +1,29 @@
+{
+  "name": "Caicer",
+  "attributes": [
+    {"entity": "Caicer", "attribute": "was the druid of the Milesians in the old canon"},
+    {"entity": "Lebor Gabála", "attribute": "the Irish chronicle that holds the prophecy of the druid"}
+  ],
+  "entities": [
+    {"entity": "Caicer", "type": "Person"},
+    {"entity": "Milesians", "type": "People"},
+    {"entity": "Druid", "type": "Person"},
+    {"entity": "Lebor Gabála", "type": "Text"},
+    {"entity": "Book of Invasions", "type": "Text"},
+    {"entity": "Ireland", "type": "Place"}
+  ],
+  "sources": ["MacKillop 2008, s.v. 'Caicer'."],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "text": "Caicer was the druid who served the chief men of the Milesians. The book of the nation keeps his name in its lines. That book is the Lebor Gabála of the Irish. English readers know the same work as the Book of Invasions. The druid Caicer gave his people a great promise of the future. He told them that they would one day cross the sea. That crossing would settle them in the land of Ireland at last. The old words look forward to the journey of the whole folk. So the druid's voice sounds at the beginning of the road. His prophecy carries the Milesians to the promised land.",
+  "okr": {
+    "objective": "Describe the druid Caicer and the prophecy he gave to the Milesians.",
+    "key_results": [
+      "States the druid served the Milesians",
+      "Names the work Lebor Gabála or the Book of Invasions",
+      "Notes the prophecy of the sea crossing to Ireland"
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Caicer'."
+  }
+}

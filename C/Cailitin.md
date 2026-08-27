@@ -2,40 +2,78 @@
 layout: layouts/pce.njk
 title: Cailitin
 icon: file-lines
-order: 365
+order: 408
 contributors: [ 'Christopher Godwin' ]
 attributes:
-  - Cúchulainn hero
-  - Lugaidh mac Con Ró enemy
-  - Cúchulainn death
+  - Cailitin warrior of the druid class
+  - Cailitin also called Calatin or Calatín
+  - Cailitin one man with twenty-seven identical sons
+  - Medb great queen who set him against Cúchulainn
+  - Cúchulainn killed the whole force
+  - Badb battle-crow among the wizard women
+  - one-eyed daughters with a rival, brought about the hero's death
 categories:
-  - person
-  - group of people
+  - character
+  - hero
+  - god
+  - mythological creature
 entities:
-  - one-eyed daughters(group of people)
-  - Cúchulainn(person)
-  - Lugaidh mac Con Ró(person)
+  - Cailitin(hero)
+  - druid(character)
+  - Medb(god)
+  - Cúchulainn(hero)
+  - Badb(mythological creature)
+  - Lugaidh mac Con Ró(character)
+  - Fomorian(hero)
+  - Alba(hero)
+  - Fiachu mac Fir Fhebe(hero)
+  - Emmas(hero)
+  - Fomorian(hero)
+  - W. B. Yeats(hero)
 tags:
-  - one-eyed daughters
+  - Cailitin
+  - druid
+  - Medb
   - Cúchulainn
+  - Badb
   - Lugaidh mac Con Ró
+  - Fomorian
+  - Alba
+  - Fiachu mac Fir Fhebe
+  - Emmas
+  - Fomorian
+  - W. B. Yeats
 ---
 ``` tab [group1:Info]
 ::: magazinestyle
-The Irish hero known as Cailitin, sometimes spelled as Calatin or Calatín, was a Druid warrior composed of one man and his 27 identical sons, all of whom were deficient in one left hand and one right foot. Having completed his education in sorcery in Scotland, the Cailitin clan was hired by the great queen Medb to fight against Cúchulainn, the renowned hero, who ultimately managed to defeat every member of the Cailitin group. Despite this loss, the druid's wife swiftly gave birth to two sets of dreadful triplets, one group each of daughters and sons. Medb trained the battle-crow Badb, who was among the daughters, to become a skilled wizard, ultimately utilizing her powers to cause Cúchulainn's demise. The one-eyed daughters, in conjunction with Cúchulainn's rival Lugaidh mac Con Ró, contributed to the hero's downfall.
+Cailitin is an Irish wizard of the fighting class. He is named a druid in the old books. His blood may run from the Fomorian people. He stays kind toward the great queen Medb. He fights the hero Cúchulainn in battle. The hero wins and sends him off. The wizard then journeys with his children. He counts twenty-seven sons in his clan. All spring from one body and act as one man. They learn the dark craft in the land of Alba. Every poisoned spear the foot drops finds its mark. Each child lacks a left hand and a right foot. They nearly drown the hero in deep flood. Warrior Fiachu Fhebe swims in and saves him. Cúchulainn later wipes out the whole tribe. The widow later bears six young at once. She brings three sons and three daughters. The babies all look horrid and full of spite. One born child is the battle-crow Badb. Story says this child belongs to Embla. Medb trains the young in the black art. They change shape to catch the hero for death. The poet W. B. Yeats sets Cailitin in his play.
 
 :::
 ```
 ``` tab [group1:Attributes]
-- **Cúchulainn**: hero
-- **Lugaidh mac Con Ró**: enemy
-- **Cúchulainn**: death
+- **Cailitin**: warrior of the druid class
+- **Cailitin**: also called Calatin or Calatín
+- **Cailitin**: one man with twenty-seven identical sons
+- **Medb**: great queen who set him against Cúchulainn
+- **Cúchulainn**: killed the whole force
+- **Badb**: battle-crow among the wizard women
+- **one-eyed daughters**: with a rival, brought about the hero's death
 ```
 ``` tab [group1:Entities]
-- **one-eyed daughters**: group of people
-- **Cúchulainn**: person
-- **Lugaidh mac Con Ró**: person
+- **Cailitin**: hero
+- **druid**: character
+- **Medb**: god
+- **Cúchulainn**: hero
+- **Badb**: mythological creature
+- **Lugaidh mac Con Ró**: character
+- **Fomorian**: hero
+- **Alba**: hero
+- **Fiachu mac Fir Fhebe**: hero
+- **Emmas**: hero
+- **Fomorian**: hero
+- **W. B. Yeats**: hero
 ```
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
+- MacKillop 2008, s.v. 'Cailitin'.
 ```
