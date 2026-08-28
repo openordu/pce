@@ -1,86 +1,114 @@
 {
-  "name": "Coventina",
-  "attributes": [
-    {
-      "entity": "Coventina",
-      "attribute": "is a British water goddess"
-    },
-    {
-      "entity": "Coventina",
-      "attribute": "shown in sculptures at a Northumberland well pouring water from an urn"
-    },
-    {
-      "entity": "Coventina",
-      "attribute": "shown as a woman surrounded by plants emptying her water-vessel on them"
-    },
-    {
-      "entity": "Coventina",
-      "attribute": "ruled the Carrawburgh River"
-    },
-    {
-      "entity": "Coventina",
-      "attribute": "honored in Spain and France with the titles Augusta and Sancta, meaning high and holy"
-    },
-    {
-      "entity": "Coventina",
-      "attribute": "may have had a healing aspect like other Celtic water goddesses"
-    }
-  ],
-  "entities": [
-    {
-      "entity": "Coventina",
-      "type": "goddess"
-    },
-    {
-      "entity": "Northumberland",
-      "type": "place"
-    },
-    {
-      "entity": "sacred well",
-      "type": "place"
-    },
-    {
-      "entity": "Carrawburgh River",
-      "type": "place"
-    },
-    {
-      "entity": "Spain",
-      "type": "place"
-    },
-    {
-      "entity": "France",
-      "type": "place"
-    },
-    {
-      "entity": "Augusta",
-      "type": "concept"
-    },
-    {
-      "entity": "Sancta",
-      "type": "concept"
-    },
-    {
-      "entity": "Celtic water goddesses",
-      "type": "mythological figure"
-    }
-  ],
-  "sources": [
-    "Allason-Jones, Lindsay. “Coventina’s Well.” In Sandra Billington and Miranda Green, eds., The Concept of the Goddess, 107–119. London and New York: Routledge, 1996.",
-    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-  ],
-  "image": [
-    "https://upload.wikimedia.org/wikipedia/commons/5/55/Hope-coventina02.jpg"
-  ],
-  "okr": {
-    "objective": "Coventina is a British water goddess known from sculptures at a Northumberland well.",
-    "key_results": [
-      "Sculptures at a sacred well in Northumberland show Coventina pouring water from an urn.",
-      "She chiefly ruled the Carrawburgh River and was also honored in Spain and France with the titles Augusta and Sancta.",
-      "Like other Celtic water goddesses, she may have had a healing aspect."
-    ],
-    "evidence": "Allason-Jones, Lindsay. “Coventina’s Well.” In Sandra Billington and Miranda Green, eds., The Concept of the Goddess. London and New York: Routledge, 1996, 107–119."
+ "name": "Coventina",
+ "attributes": [
+  {
+   "entity": "Coventina",
+   "attribute": "is a British water goddess"
   },
-  "cyphertext": "SUdOvnWTYr9UUacgVEdzLJIY31knw_kjAgvXEEMQs6W3qH2YDU00jlb1A3uxkfXCEMvuMHKbvISXHLDxthp6jk-3FSszEXRdRiM-2-y3FmorkGFKCwDcusGOWX6UdNVmj4cg11jG2yWcmD2lC3hFYgxTv-JUOAct2m2499LDo6-mnVRzGMRME9oSY77NrfpT8k468MD5lxd8r1kk1v1ZLYN_SUpxGOg6VBf5CP8k1vC4PXhB97eK3Ns6xGHaRHzrFJf1xbBik71yUkaP8WudHj9tLMVRkt9VgSlCezOtIIx4hlqhHF-Zzk_T6z5BOYPjVIKe6SE6mlD8GKPpF39Jldtr40CYkY_osc0YBBTlNSRe9bfqZXQr56CThorGLJm0AZ2TiaOMdKKjBZKRl2389hFOff0HLlM7iLrF4BaP6O_5XCPVUfjbWL1ChTtGpH8C3PvJc7FkZFMphUGOsONgyGFoWARFxwpiUYejmkN-hRrWZ5n9sprVu5i63qRBZEwRCEWJ-WDlP-4ELkABWxp0zk9EzdSubWkqesp8AD1NukwcnXyZ5DqAsKoFH8RvYiX9NneWY_DKxHjRosfGXFIaD4GdNv78h9_fGMAybEb2ZZsIQ47CpOOCMmCU1UIesbuvSB6imGGnqU4epHpfocPYwd2sIiJqiDEm2BGMt1jBSkMZUChtzXjlP3Q5Zl4vMp75axgfzMK4mnt2f7mteH18cRQWAwE2v8FdT5e-l0HtCMHi2DnATdzT-l3_yDwIapAPKF0Frs7rICUaSV-frZcAPDa3j4OqXH8qHUzFYYtEF9uqxbqqryVRnUDp3CVJQskZ62s8r9NsSnS2qvYmikHWAbbBjM1LRvJu3_yxSxRsJDyY860TF4YHH43xrQwaBeTfdcNp_Xb8AIBjzrQV6Q5Cf0a6xL7aMXH-b3fqLim8b1UG-77obBkqeobPOz8_LlZMfiLh2OVDdyEYCVYnbhrhvZcxb4oM1bxiYvWpzA==",
-  "salt": "0Eca8VrwibzMjfiH9d5Nvg==",
-  "text": "Coventina stands as a British goddess of the waters. Sculptures dug up at a holy spring in Northumberland show her reclining and tipping water from an urn. Others place her among plants, pouring her vessel across them. She served chiefly the people of Britain and watched over the River Carrawburgh. Worshippers also gave her a place in Spain and France, styling her Augusta and Sancta, terms that mean high and holy. Those honours mark her standing. Like other Celtic water deities, she may have carried a healing power."
+  {
+   "entity": "Coventina",
+   "attribute": "shown in sculptures at a Northumberland well pouring water from an urn"
+  },
+  {
+   "entity": "Coventina",
+   "attribute": "shown as a woman surrounded by plants emptying her water-vessel on them"
+  },
+  {
+   "entity": "Coventina",
+   "attribute": "ruled the Carrawburgh River"
+  },
+  {
+   "entity": "Coventina",
+   "attribute": "honored in Spain and France with the titles Augusta and Sancta, meaning high and holy"
+  },
+  {
+   "entity": "Coventina",
+   "attribute": "may have had a healing aspect like other Celtic water goddesses"
+  },
+  {
+   "entity": "Coventina",
+   "attribute": "was worshipped during the Roman occupation of Britain"
+  },
+  {
+   "entity": "Coventina",
+   "attribute": "had a well shrine at Carrawburgh near Hadrian's Wall"
+  },
+  {
+   "entity": "Coventina",
+   "attribute": "is portrayed in surviving reliefs as a water-nymph"
+  },
+  {
+   "entity": "Coventina",
+   "attribute": "received a hoard of about 14,000 ancient coins found at her well in 1876"
+  }
+ ],
+ "entities": [
+  {
+   "entity": "Coventina",
+   "type": "goddess"
+  },
+  {
+   "entity": "Northumberland",
+   "type": "place"
+  },
+  {
+   "entity": "sacred well",
+   "type": "place"
+  },
+  {
+   "entity": "Carrawburgh River",
+   "type": "place"
+  },
+  {
+   "entity": "Spain",
+   "type": "place"
+  },
+  {
+   "entity": "France",
+   "type": "place"
+  },
+  {
+   "entity": "Augusta",
+   "type": "concept"
+  },
+  {
+   "entity": "Sancta",
+   "type": "concept"
+  },
+  {
+   "entity": "Celtic water goddesses",
+   "type": "mythological figure"
+  },
+  {
+   "entity": "Hadrian's Wall",
+   "type": "place"
+  },
+  {
+   "entity": "Roman occupation of Britain",
+   "type": "place"
+  }
+ ],
+ "sources": [
+  "Allason-Jones, Lindsay. “Coventina’s Well.” In Sandra Billington and Miranda Green, eds., The Concept of the Goddess, 107–119. London and New York: Routledge, 1996.",
+  "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.",
+  "MacKillop 2008, s.v. 'Coventina'"
+ ],
+ "image": [
+  "https://upload.wikimedia.org/wikipedia/commons/5/55/Hope-coventina02.jpg"
+ ],
+ "okr": {
+  "objective": "Coventina is a British water goddess known from sculptures at a Northumberland well.",
+  "key_results": [
+   "Sculptures at a sacred well in Northumberland show Coventina pouring water from an urn.",
+   "She chiefly ruled the Carrawburgh River and was also honored in Spain and France with the titles Augusta and Sancta.",
+   "Like other Celtic water goddesses, she may have had a healing aspect.",
+   "Her well shrine stands at Carrawburgh beside Hadrian's Wall.",
+   "Surviving reliefs portray her as a water-nymph.",
+   "Excavations in 1876 recovered a cache of about 14,000 ancient coins from the well."
+  ],
+  "evidence": "Allason-Jones, Lindsay. “Coventina’s Well.” In Sandra Billington and Miranda Green, eds., The Concept of the Goddess. London and New York: Routledge, 1996, 107–119. MacKillop 2008, s.v. 'Coventina'."
+ },
+ "cyphertext": "SUdOvnWTYr9UUacgVEdzLJIY31knw_kjAgvXEEMQs6W3qH2YDU00jlb1A3uxkfXCEMvuMHKbvISXHLDxthp6jk-3FSszEXRdRiM-2-y3FmorkGFKCwDcusGOWX6UdNVmj4cg11jG2yWcmD2lC3hFYgxTv-JUOAct2m2499LDo6-mnVRzGMRME9oSY77NrfpT8k468MD5lxd8r1kk1v1ZLYN_SUpxGOg6VBf5CP8k1vC4PXhB97eK3Ns6xGHaRHzrFJf1xbBik71yUkaP8WudHj9tLMVRkt9VgSlCezOtIIx4hlqhHF-Zzk_T6z5BOYPjVIKe6SE6mlD8GKPpF39Jldtr40CYkY_osc0YBBTlNSRe9bfqZXQr56CThorGLJm0AZ2TiaOMdKKjBZKRl2389hFOff0HLlM7iLrF4BaP6O_5XCPVUfjbWL1ChTtGpH8C3PvJc7FkZFMphUGOsONgyGFoWARFxwpiUYejmkN-hRrWZ5n9sprVu5i63qRBZEwRCEWJ-WDlP-4ELkABWxp0zk9EzdSubWkqesp8AD1NukwcnXyZ5DqAsKoFH8RvYiX9NneWY_DKxHjRosfGXFIaD4GdNv78h9_fGMAybEb2ZZsIQ47CpOOCMmCU1UIesbuvSB6imGGnqU4epHpfocPYwd2sIiJqiDEm2BGMt1jBSkMZUChtzXjlP3Q5Zl4vMp75axgfzMK4mnt2f7mteH18cRQWAwE2v8FdT5e-l0HtCMHi2DnATdzT-l3_yDwIapAPKF0Frs7rICUaSV-frZcAPDa3j4OqXH8qHUzFYYtEF9uqxbqqryVRnUDp3CVJQskZ62s8r9NsSnS2qvYmikHWAbbBjM1LRvJu3_yxSxRsJDyY860TF4YHH43xrQwaBeTfdcNp_Xb8AIBjzrQV6Q5Cf0a6xL7aMXH-b3fqLim8b1UG-77obBkqeobPOz8_LlZMfiLh2OVDdyEYCVYnbhrhvZcxb4oM1bxiYvWpzA==",
+ "salt": "0Eca8VrwibzMjfiH9d5Nvg==",
+ "text": "Coventina is a goddess of wells and streams whom Romano-British worshippers honored during the Roman occupation of Britain. A shrine with a well stood at Carrawburgh in south Northumberland, beside Hadrian's Wall. Carved reliefs from the site show her as a water-nymph. One relief depicts her reclining and tipping water from an urn. Another shows her among water plants, pouring her vessel over them. Inscriptions style her Augusta and Sancta, high and holy. Devotees carried her cult to Spain and Gaul. Excavations in 1876 recovered about 14,000 ancient coins from her well. The hoard shows how many worshippers cast offerings into the water."
 }
