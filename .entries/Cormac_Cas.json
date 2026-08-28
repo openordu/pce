@@ -1,0 +1,91 @@
+{
+  "name": "Cormac Cas",
+  "text": "Cormac Cas is a shadowy historical king of Munster of the late 7th century. He is the legendary ancestor of Dál Cais families such as the O'Briens and the McNamaras. His grandfather is Eógan Mór, also called Mug Nuadat. His father is Ailill Aulomm. For that reason he sometimes carries the patronymic mac Aililla. The invading Déisi slew him at Cam Feradaig, by today's city of Limerick, in AD 713.",
+  "entities": [
+    {
+      "entity": "Cormac Cas",
+      "type": "person"
+    },
+    {
+      "entity": "Munster",
+      "type": "place"
+    },
+    {
+      "entity": "Dál Cais",
+      "type": "dynasty"
+    },
+    {
+      "entity": "O'Briens",
+      "type": "family"
+    },
+    {
+      "entity": "McNamaras",
+      "type": "family"
+    },
+    {
+      "entity": "Eógan Mór",
+      "type": "person"
+    },
+    {
+      "entity": "Mug Nuadat",
+      "type": "person"
+    },
+    {
+      "entity": "Ailill Aulomm",
+      "type": "person"
+    },
+    {
+      "entity": "mac Aililla",
+      "type": "patronymic"
+    },
+    {
+      "entity": "Déisi",
+      "type": "people"
+    },
+    {
+      "entity": "Cam Feradaig",
+      "type": "place"
+    },
+    {
+      "entity": "Limerick",
+      "type": "place"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Cormac Cas",
+      "attribute": "shadowy late-7th-century king of Munster"
+    },
+    {
+      "entity": "Cormac Cas",
+      "attribute": "legendary ancestor of Dál Cais families such as the O'Briens and McNamaras"
+    },
+    {
+      "entity": "Eógan Mór",
+      "attribute": "his grandfather"
+    },
+    {
+      "entity": "Ailill Aulomm",
+      "attribute": "his father, source of the patronymic mac Aililla"
+    },
+    {
+      "entity": "Déisi",
+      "attribute": "slew him at Cam Feradaig by today's Limerick in AD 713"
+    }
+  ],
+  "okr": {
+    "objective": "Record Cormac Cas, ancestor of the Dál Cais.",
+    "key_results": [
+      "Date him as a late-7th-century Munster king.",
+      "Give the descent from Eógan Mór and Ailill Aulomm.",
+      "Record his death at Cam Feradaig in AD 713."
+    ],
+    "evidence": "MacKillop, Dictionary of Celtic Mythology, 2008"
+  },
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "sources": [
+    "MacKillop 2008, s.v. 'Cormac Cas'."
+  ]
+}

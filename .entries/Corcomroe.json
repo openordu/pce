@@ -1,0 +1,71 @@
+{
+  "name": "Corcomroe",
+  "text": "Corcomroe is a tribal name from north Co. Clare. It survives in a barony and in the ruins of a Cistercian abbey founded in 1180. The abbey stands two miles south of the Burren and five miles west of Kinvara. Stories set in the district do not always carry Christian senses. In the voyage tale of Máel Dúin, the hero's first hunt for his father's killers brings him to a druid here.",
+  "entities": [
+    {
+      "entity": "Corcomroe",
+      "type": "people"
+    },
+    {
+      "entity": "Clare",
+      "type": "place"
+    },
+    {
+      "entity": "Cistercian abbey",
+      "type": "building"
+    },
+    {
+      "entity": "Burren",
+      "type": "place"
+    },
+    {
+      "entity": "Kinvara",
+      "type": "place"
+    },
+    {
+      "entity": "Máel Dúin",
+      "type": "person"
+    },
+    {
+      "entity": "druid",
+      "type": "person-type"
+    },
+    {
+      "entity": "Imram Curaig Maeldúin",
+      "type": "text"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Corcomroe",
+      "attribute": "tribal name of north Clare"
+    },
+    {
+      "entity": "Corcomroe",
+      "attribute": "survives as a barony name"
+    },
+    {
+      "entity": "Corcomroe",
+      "attribute": "Cistercian abbey founded 1180, now in ruins"
+    },
+    {
+      "entity": "Máel Dúin",
+      "attribute": "first pursuit of his father's killers brings him to a Corcomroe druid"
+    }
+  ],
+  "okr": {
+    "objective": "Record the Corcomroe tribal name and its abbey.",
+    "key_results": [
+      "Place Corcomroe in north Clare as a tribal name.",
+      "Give the 1180 Cistercian abbey near the Burren and Kinvara.",
+      "Tell of Máel Dúin consulting a druid there."
+    ],
+    "evidence": "MacKillop, Dictionary of Celtic Mythology, 2008"
+  },
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "sources": [
+    "MacKillop 2008, s.v. 'Corcomroe'."
+  ]
+}

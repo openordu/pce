@@ -1,0 +1,87 @@
+{
+  "name": "Cormac",
+  "text": "Cormac, also spelled Cormacc and Carmac, is a common Irish name. The second element mac means son. The first element may come from a word that defiles. Many legendary and historical figures bear it, among them kings, ecclesiastics, and saints. The most famous Cormacs are likely the legendary king Cormac mac Airt, the glossator Cormac mac Cuilennáin of Sanas Cormaic, and Cormac mac Carthaig, who gave Cormac's Chapel at Cashel its name. The McCormick and MacCormack families of Ireland and Scotland do not trace back to one progenitor.",
+  "entities": [
+    {
+      "entity": "Cormac",
+      "type": "name"
+    },
+    {
+      "entity": "Cormacc",
+      "type": "name"
+    },
+    {
+      "entity": "Carmac",
+      "type": "name"
+    },
+    {
+      "entity": "Cormac mac Airt",
+      "type": "person"
+    },
+    {
+      "entity": "Cormac mac Cuilennáin",
+      "type": "person"
+    },
+    {
+      "entity": "Sanas Cormaic",
+      "type": "text"
+    },
+    {
+      "entity": "Cormac mac Carthaig",
+      "type": "person"
+    },
+    {
+      "entity": "Cashel",
+      "type": "place"
+    },
+    {
+      "entity": "McCormick",
+      "type": "family"
+    },
+    {
+      "entity": "MacCormack",
+      "type": "family"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Cormac",
+      "attribute": "common Irish name borne by legendary and historical figures"
+    },
+    {
+      "entity": "Cormac",
+      "attribute": "second element mac means son, first element may mean defiles"
+    },
+    {
+      "entity": "Cormac mac Airt",
+      "attribute": "most famous bearer among legendary kings"
+    },
+    {
+      "entity": "Cormac mac Cuilennáin",
+      "attribute": "glossator of Sanas Cormaic"
+    },
+    {
+      "entity": "Cormac mac Carthaig",
+      "attribute": "gave Cormac's Chapel at Cashel its name"
+    },
+    {
+      "entity": "McCormick and MacCormack families",
+      "attribute": "no single progenitor behind them"
+    }
+  ],
+  "okr": {
+    "objective": "Record Cormac as an Irish name and its chief bearers.",
+    "key_results": [
+      "Define the name and the possible sense of its parts.",
+      "Name the three best-known Cormacs.",
+      "State that no one progenitor stands behind McCormick and MacCormack."
+    ],
+    "evidence": "MacKillop, Dictionary of Celtic Mythology, 2008"
+  },
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "sources": [
+    "MacKillop 2008, s.v. 'Cormac'."
+  ]
+}

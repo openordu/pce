@@ -1,0 +1,42 @@
+{
+  "name": "Cormac Ua Cuinn",
+  "text": "Cormac Ua Cuinn is another name for Cormac mac Airt. The form acknowledges Conn Cétchathach, the grandfather of Cormac. See the article on Cormac mac Airt for the king's life and deeds.",
+  "entities": [
+    {
+      "entity": "Cormac Ua Cuinn",
+      "type": "name-form"
+    },
+    {
+      "entity": "Cormac mac Airt",
+      "type": "person"
+    },
+    {
+      "entity": "Conn Cétchathach",
+      "type": "person"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Cormac Ua Cuinn",
+      "attribute": "variant name of Cormac mac Airt"
+    },
+    {
+      "entity": "Conn Cétchathach",
+      "attribute": "grandfather acknowledged by the name form"
+    }
+  ],
+  "okr": {
+    "objective": "Record the name form Cormac Ua Cuinn.",
+    "key_results": [
+      "Identify it as another name for Cormac mac Airt.",
+      "Connect the form to the grandfather Conn Cétchathach."
+    ],
+    "evidence": "MacKillop, Dictionary of Celtic Mythology, 2008"
+  },
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "sources": [
+    "MacKillop 2008, s.v. 'Cormac Ua Cuinn'."
+  ]
+}

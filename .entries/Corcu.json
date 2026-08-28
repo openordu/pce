@@ -1,0 +1,75 @@
+{
+  "name": "Corcu",
+  "text": "Corcu, also written Corco and Corea, is an Old Irish word for population groups. By extension it names the territories such groups held. A close English rendering is clan. MacKillop notes the word inside many people-names, among them Corcu Baiscinn, Corcu Duibne, and Corcu Loígde.",
+  "entities": [
+    {
+      "entity": "Corcu",
+      "type": "word"
+    },
+    {
+      "entity": "Corco",
+      "type": "word"
+    },
+    {
+      "entity": "Corea",
+      "type": "word"
+    },
+    {
+      "entity": "clan",
+      "type": "word"
+    },
+    {
+      "entity": "Corcu Baiscinn",
+      "type": "people"
+    },
+    {
+      "entity": "Corcu Duibne",
+      "type": "people"
+    },
+    {
+      "entity": "Corcu Loígde",
+      "type": "people"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Corcu",
+      "attribute": "Old Irish word for population groups"
+    },
+    {
+      "entity": "Corcu",
+      "attribute": "by extension, the territories they occupied"
+    },
+    {
+      "entity": "Corcu",
+      "attribute": "may be translated as clan"
+    },
+    {
+      "entity": "Corcu Baiscinn",
+      "attribute": "people-name formed with Corcu"
+    },
+    {
+      "entity": "Corcu Duibne",
+      "attribute": "people-name formed with Corcu"
+    },
+    {
+      "entity": "Corcu Loígde",
+      "attribute": "people-name formed with Corcu"
+    }
+  ],
+  "okr": {
+    "objective": "Record the Corcu word and its use in people-names.",
+    "key_results": [
+      "Define Corcu as an Old Irish word for population groups and their lands.",
+      "Render the sense as clan.",
+      "Name Corcu Baiscinn, Corcu Duibne, and Corcu Loígde as formed with it."
+    ],
+    "evidence": "MacKillop, Dictionary of Celtic Mythology, 2008"
+  },
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "sources": [
+    "MacKillop 2008, s.v. 'Corcu', 'Corco', 'Corea'."
+  ]
+}
