@@ -1,0 +1,42 @@
+{
+  "name": "Scoti",
+  "text": "Scoti is the name the Lebor Gabala, the Book of Invasions, uses for the Gaels or early Irish. Elsewhere it stands as a variant spelling of Scotti, the Latin name for the Irish people. The Scotti article carries the fuller record of the name and its history.",
+  "entities": [
+    {
+      "entity": "Scoti",
+      "type": "Concept"
+    },
+    {
+      "entity": "Scotti",
+      "type": "Concept"
+    },
+    {
+      "entity": "Lebor Gabála",
+      "type": "Text"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Scoti",
+      "attribute": "Lebor Gabala name for the Gaels or early Irish"
+    },
+    {
+      "entity": "Scoti",
+      "attribute": "elsewhere a variant spelling of Scotti"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Scoti'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Scoti is the name the Lebor Gabala, the Book of Invasions, uses for the Gaels or early Irish",
+    "key_results": [
+      "Book of Invasions name for the Gaels",
+      "variant spelling of the Latin Scotti"
+    ],
+    "evidence": "MacKillop 2008, s.v. Scoti."
+  }
+}

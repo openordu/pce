@@ -1,0 +1,59 @@
+{
+  "name": "Scotti",
+  "text": "Scotti is one of the Latin names used for the Irish people, chiefly those of the north-east. The Q-Celtic invaders who crossed from Ulster into Argyll from the sixth century applied the name to themselves. They founded the petty kingdom of Dál Riada there. Three centuries on, these invaders, also called Gaels, led the merged kingdom with the Picts and the P-Celts of Strathclyde. Their name then stretched over the whole realm of Scotland. The kingdom is still known as Alba in Scottish Gaelic. The Lebor Gabala claims the Scotti descended from Queen Scota of Egypt. Elsewhere the same document confuses them with the Scythi of Scythia.",
+  "entities": [
+    {
+      "entity": "Scotti",
+      "type": "Concept"
+    },
+    {
+      "entity": "Dál Riada",
+      "type": "Place"
+    },
+    {
+      "entity": "Scota",
+      "type": "Person"
+    },
+    {
+      "entity": "Scythia",
+      "type": "Place"
+    },
+    {
+      "entity": "Scotland",
+      "type": "Place"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Scotti",
+      "attribute": "Latin name for the Irish people, especially the north-eastern kindred"
+    },
+    {
+      "entity": "Scotti",
+      "attribute": "self-applied by the Q-Celtic settlers of Argyll who founded Dál Riada"
+    },
+    {
+      "entity": "Scotti",
+      "attribute": "name extended to all Scotland once the Gaels led the merged kingdom"
+    },
+    {
+      "entity": "Scotti",
+      "attribute": "Lebor Gabala descent from Queen Scota, and a confusion with the Scythi"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Scotti'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Scotti is one of the Latin names used for the Irish people, chiefly those of the north-east",
+    "key_results": [
+      "Latin name for the Irish that became the name of Scotland",
+      "carried from Ulster into Argyll by the Dál Riada settlers",
+      "Book of Invasions ties them to Scota and confuses them with the Scythi"
+    ],
+    "evidence": "MacKillop 2008, s.v. Scotti."
+  }
+}

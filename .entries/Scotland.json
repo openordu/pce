@@ -1,0 +1,77 @@
+{
+  "name": "Scotland",
+  "text": "Scotland is a constituent country of the UK in northern Great Britain. Its 30,405 square miles fall slightly short of Ireland's. Its population still tops every other Celtic land at more than 5,200,000. Not every Scottish person is of Celtic heritage. The country was known as Alba in ancient times, and the name still stands in Scottish Gaelic. Rome failed to conquer it and closed it off with Hadrian's Wall of 122 and the Antonine Wall of 138. Its native peoples, the Caledonii and the Picts, spoke P-Celtic languages ancestral to Welsh. The early Welsh poem Y Gododdin is represented as taking place partly in what is now Scotland. Kenneth Jackson called that poem the oldest Scottish poem, perhaps mischievously. The country takes its name from Irish Scotti invaders who settled Argyll and founded Dál Riada. Long struggle with the Picts and Strathclyde preceded union. Cináed mac Ailpin forged one nation from the three peoples before his death in 858. The Gaelic language then spread across most of the land, sparing Norse Caithness, Orkney, and Shetland. English advanced at court under Malcolm III and his Wessex wife Margaret after 1058. Nine centuries of English and Scots pressure reduced Gaelic to the Gaidhealtachd of the northwest. The Act of Union of 1707 weakened Scotland's sense of nationhood. Far worse for Highland culture came the failed Jacobite rising of 1745-6 and the suppression that followed it. Clearances then drove crofters from small farms and put sheep in their place. Scottish Gaelic now counts about 65,000 speakers in Scotland and fewer than 5,000 in Nova Scotia. The Dean of Lismore's book, compiled 1512-26, gives the first large written record of Scottish Gaelic tradition. Its spellings render the sounds as English ears would hear them. Bardic poets under clan patronage included Iain Lom, Alastair Mac Mhaighstir Alasdair, Rob Donn, and Duncan Ban Macintyre. Much Gaelic tradition stayed linked to Ireland, with shared stories and characters such as Deirdre and Cuchulainn. Highland gallglasses served as mercenaries in Ireland, and Irish Franciscans resisted Calvinism in the Highlands. The archaic English word Erse, meaning Irish, records that perceived unity. James Macpherson's Ossian poems of 1760-3 spread a false claim. They pictured Gaelic tradition in Scotland as separate from Ireland and older than it. The imposture still raised international interest in Celtic traditions. Collectors John Francis Campbell, Archibald Campbell, and Alexander Cameron then assembled great printed collections of Gaelic lore.",
+  "entities": [
+    {
+      "entity": "Scotland",
+      "type": "Place"
+    },
+    {
+      "entity": "Alba",
+      "type": "Place"
+    },
+    {
+      "entity": "Dál Riada",
+      "type": "Place"
+    },
+    {
+      "entity": "Picts",
+      "type": "People"
+    },
+    {
+      "entity": "Cináed mac Ailpín",
+      "type": "Person"
+    },
+    {
+      "entity": "Macpherson",
+      "type": "Person"
+    },
+    {
+      "entity": "Nova Scotia",
+      "type": "Place"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Scotland",
+      "attribute": "constituent country of the United Kingdom, 30,405 square miles"
+    },
+    {
+      "entity": "Scotland",
+      "attribute": "ancient name Alba, still the Scottish Gaelic form"
+    },
+    {
+      "entity": "Scotland",
+      "attribute": "named from Irish Scotti settlers of Argyll who founded Dál Riada"
+    },
+    {
+      "entity": "Scotland",
+      "attribute": "unified by Cináed mac Ailpin (d. 858) from Picts, Strathclyde, and Dál Riada"
+    },
+    {
+      "entity": "Scotland",
+      "attribute": "Gaelic reduced to the Gaidhealtachd by centuries of English advance"
+    },
+    {
+      "entity": "Scotland",
+      "attribute": "Macpherson's Ossian imposture of 1760-3 distorted Gaelic tradition's roots"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Scotland'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Scotland is a constituent country of the UK in northern Great Britain",
+    "key_results": [
+      "largest population of all Celtic lands, above 5,200,000",
+      "Pictish and Caledonian lands Rome walled off but never held",
+      "formed when Kenneth MacAlpin merged Dál Riada with the Picts and Strathclyde",
+      "Gaelic speech survives in the Gaidhealtachd of the northwest",
+      "Ossian controversy tied its tradition falsely apart from Ireland"
+    ],
+    "evidence": "MacKillop 2008, s.v. Scotland."
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "name": "Scotia",
+  "text": "Scotia first served as a Latin name for Ireland. After Q-Celtic Gaelic Gaels invaded Argyll, and later merged with the Picts, the name turned into an honorific for Scotland. The Lebor Gabala also carries Scotia as a variant of the name Scota, the Egyptian ancestress. The name thus travelled from Ireland to Scotland across the early medieval period.",
+  "entities": [
+    {
+      "entity": "Scotia",
+      "type": "Concept"
+    },
+    {
+      "entity": "Scota",
+      "type": "Person"
+    },
+    {
+      "entity": "Argyll",
+      "type": "Place"
+    },
+    {
+      "entity": "Picts",
+      "type": "People"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Scotia",
+      "attribute": "ancient Latin name for Ireland"
+    },
+    {
+      "entity": "Scotia",
+      "attribute": "later an honorific Latin name for Scotland after the Gaelic merger with the Picts"
+    },
+    {
+      "entity": "Scotia",
+      "attribute": "Lebor Gabala variant of the ancestress name Scota"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Scotia'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Scotia first served as a Latin name for Ireland",
+    "key_results": [
+      "Latin name that moved from Ireland to Scotland",
+      "honorific after the Gaels of Argyll joined the Picts",
+      "variant of Scota in the Book of Invasions"
+    ],
+    "evidence": "MacKillop 2008, s.v. Scotia."
+  }
+}

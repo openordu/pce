@@ -1,0 +1,38 @@
+{
+  "name": "Seithenyn",
+  "text": "Seithenyn is the drunken dike-keeper of the flooded city of Cantre'r Gwaelod. His neglect of the sluices let the sea drown the cantref. The Cantre'r Gwaelod record carries the fuller account of the drowning.",
+  "entities": [
+    {
+      "entity": "Seithenyn",
+      "type": "Person"
+    },
+    {
+      "entity": "Cantre'r Gwaelod",
+      "type": "Place"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Seithenyn",
+      "attribute": "drunken keeper of the dikes of Cantre'r Gwaelod"
+    },
+    {
+      "entity": "Seithenyn",
+      "attribute": "his drunkenness lets the sea flood the lost city"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Seithenyn'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Seithenyn is the drunken dike-keeper of the flooded city of Cantre'r Gwaelod",
+    "key_results": [
+      "drunken dike-keeper of the drowned cantref",
+      "fuller account under the Cantre'r Gwaelod record"
+    ],
+    "evidence": "MacKillop 2008, s.v. Seithenyn."
+  }
+}

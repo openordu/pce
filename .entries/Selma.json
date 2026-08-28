@@ -1,0 +1,42 @@
+{
+  "name": "Selma",
+  "text": "Selma is the palace of the Fingallians in the Poems of Ossian of James Macpherson, issued 1760-3. The Ossianic works are Macpherson's own compositions, presented as translated epic. The Macpherson record carries the fuller account of the controversy.",
+  "entities": [
+    {
+      "entity": "Selma",
+      "type": "Place"
+    },
+    {
+      "entity": "Macpherson",
+      "type": "Person"
+    },
+    {
+      "entity": "Poems of Ossian",
+      "type": "Text"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Selma",
+      "attribute": "palace of the Fingallians in the Poems of Ossian"
+    },
+    {
+      "entity": "Selma",
+      "attribute": "setting in Macpherson's Ossianic compositions of 1760-3"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Selma'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Selma is the palace of the Fingallians in the Poems of Ossian of James Macpherson, issued 1760-3",
+    "key_results": [
+      "Fingallian palace in the Poems of Ossian",
+      "invented setting of Macpherson's 1760-3 poems"
+    ],
+    "evidence": "MacKillop 2008, s.v. Selma."
+  }
+}
