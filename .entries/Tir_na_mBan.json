@@ -8,6 +8,22 @@
   {
    "entity": "Tir na mBan",
    "attribute": "a floating isle of the fairies"
+  },
+  {
+   "entity": "Tir_na_mBan",
+   "attribute": "name carries ban, genitive plural for women"
+  },
+  {
+   "entity": "Tir_na_mBan",
+   "attribute": "visited by Máel Dúin in the Voyage of Máel Dúin"
+  },
+  {
+   "entity": "Tir_na_mBan",
+   "attribute": "Bran stayed years there that counted as one"
+  },
+  {
+   "entity": "Tir_na_mBan",
+   "attribute": "an Irish form of the widespread folk motif F112"
   }
  ],
  "entities": [
@@ -18,21 +34,38 @@
   {
    "entity": "fairy queen",
    "type": "Role"
+  },
+  {
+   "entity": "Máel Dúin",
+   "type": "Person"
+  },
+  {
+   "entity": "Imram Curaig Máele Dúin",
+   "type": "Text"
+  },
+  {
+   "entity": "Bran",
+   "type": "Person"
+  },
+  {
+   "entity": "Imram Brain",
+   "type": "Text"
   }
  ],
  "sources": [
-  "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+  "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.",
+  "MacKillop 2008, s.v. 'Tir na mBan'"
  ],
  "cyphertext": "Deh4EG0azHRhU3Wnhb7NKaeIWsVED9PdlF3DXZmZc79XKfaTn0BHch0Gaq_7BGNkiYyZbsrFy3FLK5r0Hj_h6msQShx_csrj8BdL2RtIP4Nhe20lsTxsJ-mHHuWVFtQXy0Fnvonr2mndvru831eUYeqHhFHS2bUXTXHV2qBXtid7x-RB6dGyLSuIH4xSP5TscdH_2ZB7PdvPhTQwobmZ7r4vOzog4xPD7BIFxhS36U9N20BH-OyYgxFypCNd33zc4hBG631O9zKVnfC_wrd6jfBSrQ-k9Uuu5hj8VJI9VWqNoXAYX1LGvnwbDgq0G0iCIz1oGZ7oMPa9v05PBdfhUzujwIlwjvKlc6mpj3mgjrDi4yG4r1PtS3f7yW3Uw0Xa2AVBVASBg92G_Slp31yPHl9yqbabtu-D1GpFBRtfj3_jtFsfMaFOTrKqrb5nwrfZUKW0oLVqVuwvCSIEEHnkRBh3gLXJKCV6hHclA7RveAtN5Aix",
  "salt": "jelnKnsO8x-1qkovlrndWw==",
- "text": "Tir na mBan is the land of women in Irish myth. It stands far off the coast as a floating isle. The fairy queens rule this land and take lovers from the world of men. Men who set foot there do not grow old.",
+ "text": "Tir na mBan is the land of women in Irish myth. The name carries ban, the genitive plural for women. MacKillop lists the forms Tir na mBan, Tir inna mBan, and Tir na mban. It stands far off the coast as a floating isle. The island holds only beautiful and inviting women, and many Irish heroes visit it. Máel Dúin reaches the isle in his own voyage tale, the Imram Curaig Máele Dúin. Each male visitor gains a consort there. The women serve the best of food and the most enchanting music. Bran is summoned by the queen of the land in the old Voyage of Bran text. He stays for many years, yet counts them as one. The fairy queens rule this land and take lovers from the world of men. Men who set foot there do not grow old. MacKillop classes the place as an Irish form of a widespread folk motif, numbered F112.",
  "okr": {
   "objective": "Set down Tir na mBan as the land of women in Irish myth.",
   "key_results": [
-   "Gives the name land of women",
-   "Notes it as a floating isle",
-   "States men do not age there"
+   "Give the name land of women and the ban etymology",
+   "Add Máel Dúin and Bran visits with the year-counting time slip",
+   "Note the folk motif number F112"
   ],
-  "evidence": "Monaghan 2008, s.v. 'Tir an mBan'."
+  "evidence": "Monaghan 2008, s.v. 'Tir na mBan'; MacKillop 2008, s.v. 'Tir na mBan'."
  }
 }

@@ -1,51 +1,88 @@
 {
-  "name": "Tuireann",
-  "attributes": [
-    {
-      "entity": "Tuireann",
-      "attribute": "an Irish hero whose tale is one of the Three Sorrows of Ireland"
-    },
-    {
-      "entity": "Sons of Tuireann",
-      "attribute": "killed Cian and died performing a series of exhausting tasks"
-    }
-  ],
-  "entities": [
-    {
-      "entity": "Tuireann",
-      "type": "Person"
-    },
-    {
-      "entity": "Uisneach",
-      "type": "Place"
-    },
-    {
-      "entity": "Cian",
-      "type": "Person"
-    },
-    {
-      "entity": "Danu",
-      "type": "Deity"
-    },
-    {
-      "entity": "Sons of Tuireann",
-      "type": "Group"
-    }
-  ],
-  "sources": [
-    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-  ],
-  "cyphertext": "vjoSKwW9mjBWa6pWheGtVEWPV-ByhfcM3ZSCYkmh7hGkrlgAs4GYBjRdFXYIGMC7jEIOxBfgeb48GbAwlcVJtYyDAye4U1E1UN9sHyr56sRIDVi38LqlLk1mJ86WmW6Wrdp_Dup5YrArZ2YJR_LXaTVuffE0xiiY4lBPNULazH2aN0CdPVxDTKdgopJ_MzD6dA8BXzT3K833q_jPVoHZzZJuJm5l1K-dH8rfa7SNDB9E8YwWTaK4mzTQ6BGr5QEdHcWXNok9tlAPN1DxkBP-y7-g4figp8rvp4OAn1HOL_V0AQpZp77jCsNIZCVdkwq3TtNgpMuI0fgowwNaJ90bj0BySOM_nTjpUw7VUqeYxpq1N6X2oKV2QVw_1mVOIeA_q86_WR3l4aydDPEPJ0546piDSWebpfNI7ZDwVPGlnxhKx4qLG-_H1EYyEgad9yqbfMejea0eiVsgQ2pc5XQvArDRB1vhHmmDRy1M3vXeuPCtfANSXFjvxGb7cbIJeEgjPHceAbfBbTcVEgFvT71ERC09APdTCYPpZtlT3XAUKTG755t-UrPhAhDkSlpr-lLSO58pwuS_AA4m7mat8MNmczATlKsIXILRnsRzNnF36EN7upIM2_fraV3KIsTM_fmd7PiDoVISKZoZ8FfTOztsPzRg6HFcra5hSXcT66Jvtd1QIaTd0CQaUQPVhx6Aru2QvNlVIk-i6u3tKU5V_b7S04_sQrPr96reNjy5knUzxyI0_CJWMw68uomNukEL8F7gE7FGgK-QBfS07wzNt4mMVY-PQQkxp9ataHMuOTWM66pzJIUfRVZHzY6kqC0rD3q5KVNWddbMGL_kjwqEo9gb1u9ehvxmwBc0rCZNkEqEMn-rdxWbrRy1BiQExNeFFw1h7gwGUGLjElZxJdS7ftlia9Nkkojf3ldnxC5ui2LpdHqxWmw-Q8sPUkWwQaK2rIHF2k35pR-2aP2p7Y6OClqYpZqlf1CnGG_z4pq9rieJlatWzjI0JZKmEXEJIHlONItGl_rhb1p-miw=",
-  "salt": "jx0NYgNIUNzCyT-EByxPbw==",
-  "text": "Tuireann is an Irish hero, also written Turrean. He receives little notice, much like the parallel figure Uisneach. Yet the story of his three sons forms one of the Three Sorrows of Ireland. The young men went to hunt Cian, a hero their father fought against. Cian saw he was surrounded and turned into a boar, but the sons became dogs and brought him down. Before he died they let Cian take his human form once more. The Sons of Tuireann then had to carry out a long run of exhausting tasks, and they died doing them. Tuireann, consort of the goddess Danu, died of sorrow at the news.",
-  "okr": {
-    "objective": "Document the Irish hero Tuireann.",
-    "key_results": [
-      "He is an Irish hero much like the parallel figure Uisneach",
-      "The deaths of his three sons form one of the Three Sorrows of Ireland",
-      "His sons killed Cian and died doing an exhausting set of tasks",
-      "He was the consort of the goddess Danu"
-    ],
-    "evidence": "Monaghan 2008, s.v. 'Tuireann'."
+ "name": "Tuireann",
+ "attributes": [
+  {
+   "entity": "Tuireann",
+   "attribute": "an Irish hero whose tale is one of the Three Sorrows of Ireland"
+  },
+  {
+   "entity": "Sons of Tuireann",
+   "attribute": "killed Cian and died performing a series of exhausting tasks"
+  },
+  {
+   "entity": "Tuireann",
+   "attribute": "name forms Tuirill, Tuirenn, and Turenn, with agnomen Bicreo or Bicrenn"
+  },
+  {
+   "entity": "Tuireann",
+   "attribute": "a son of Ogma and Étan in MacKillop's genealogy"
+  },
+  {
+   "entity": "Tuireann",
+   "attribute": "his sons' tale is the Oidheadh Chlainne Tuireann"
+  },
+  {
+   "entity": "Tuireann",
+   "attribute": "studied by Rudolf Thurneysen in 1918"
   }
+ ],
+ "entities": [
+  {
+   "entity": "Tuireann",
+   "type": "Person"
+  },
+  {
+   "entity": "Uisneach",
+   "type": "Place"
+  },
+  {
+   "entity": "Cian",
+   "type": "Person"
+  },
+  {
+   "entity": "Danu",
+   "type": "Deity"
+  },
+  {
+   "entity": "Sons of Tuireann",
+   "type": "Group"
+  },
+  {
+   "entity": "Ogma",
+   "type": "Deity"
+  },
+  {
+   "entity": "Étan",
+   "type": "Goddess"
+  },
+  {
+   "entity": "Lug",
+   "type": "Deity"
+  },
+  {
+   "entity": "Oidheadh Chlainne Tuireann",
+   "type": "Text"
+  },
+  {
+   "entity": "Rudolf Thurneysen",
+   "type": "Person"
+  }
+ ],
+ "sources": [
+  "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.",
+  "MacKillop 2008, s.v. 'Tuireann'"
+ ],
+ "cyphertext": "vjoSKwW9mjBWa6pWheGtVEWPV-ByhfcM3ZSCYkmh7hGkrlgAs4GYBjRdFXYIGMC7jEIOxBfgeb48GbAwlcVJtYyDAye4U1E1UN9sHyr56sRIDVi38LqlLk1mJ86WmW6Wrdp_Dup5YrArZ2YJR_LXaTVuffE0xiiY4lBPNULazH2aN0CdPVxDTKdgopJ_MzD6dA8BXzT3K833q_jPVoHZzZJuJm5l1K-dH8rfa7SNDB9E8YwWTaK4mzTQ6BGr5QEdHcWXNok9tlAPN1DxkBP-y7-g4figp8rvp4OAn1HOL_V0AQpZp77jCsNIZCVdkwq3TtNgpMuI0fgowwNaJ90bj0BySOM_nTjpUw7VUqeYxpq1N6X2oKV2QVw_1mVOIeA_q86_WR3l4aydDPEPJ0546piDSWebpfNI7ZDwVPGlnxhKx4qLG-_H1EYyEgad9yqbfMejea0eiVsgQ2pc5XQvArDRB1vhHmmDRy1M3vXeuPCtfANSXFjvxGb7cbIJeEgjPHceAbfBbTcVEgFvT71ERC09APdTCYPpZtlT3XAUKTG755t-UrPhAhDkSlpr-lLSO58pwuS_AA4m7mat8MNmczATlKsIXILRnsRzNnF36EN7upIM2_fraV3KIsTM_fmd7PiDoVISKZoZ8FfTOztsPzRg6HFcra5hSXcT66Jvtd1QIaTd0CQaUQPVhx6Aru2QvNlVIk-i6u3tKU5V_b7S04_sQrPr96reNjy5knUzxyI0_CJWMw68uomNukEL8F7gE7FGgK-QBfS07wzNt4mMVY-PQQkxp9ataHMuOTWM66pzJIUfRVZHzY6kqC0rD3q5KVNWddbMGL_kjwqEo9gb1u9ehvxmwBc0rCZNkEqEMn-rdxWbrRy1BiQExNeFFw1h7gwGUGLjElZxJdS7ftlia9Nkkojf3ldnxC5ui2LpdHqxWmw-Q8sPUkWwQaK2rIHF2k35pR-2aP2p7Y6OClqYpZqlf1CnGG_z4pq9rieJlatWzjI0JZKmEXEJIHlONItGl_rhb1p-miw=",
+ "salt": "jx0NYgNIUNzCyT-EByxPbw==",
+ "text": "Tuireann is an Irish hero, also written Tuirill, Tuirenn, and Turenn. He receives little notice, much like the parallel figure Uisneach. MacKillop gives him a fuller name and line. He sometimes carries the agnomen Bicreo or Bicrenn. He is a son of the god Ogma and of Étan. His sons were the killers of Cian, father of Lug. The young men went to hunt Cian. Cian saw he was surrounded and turned into a boar, but the sons became dogs and brought him down. Before he died they let Cian take his human form once more. The Sons of Tuireann then had to carry out a long run of exhausting tasks, and they died doing them. The tale of the children is told in full as the Oidheadh Chlainne Tuireann. Its sorrow ranks among the Three Sorrows of Ireland. Tuireann, consort of the goddess Danu in Monaghan's telling, died of sorrow at the news. Rudolf Thurneysen printed a study of Tuirill Bicrenn and his children in 1918. The record holds two genealogies for one man. He is son of Ogma in one source. Another makes him the consort of Danu. Both belong to the figure the manuscripts keep dim.",
+ "okr": {
+  "objective": "Document the Irish hero Tuireann.",
+  "key_results": [
+   "He is an Irish hero much like the parallel figure Uisneach",
+   "The deaths of his three sons form one of the Three Sorrows of Ireland",
+   "His sons killed Cian and died doing an exhausting set of tasks",
+   "Add the MacKillop line: agnomen Bicreo, son of Ogma and Étan, and the Thurneysen study"
+  ],
+  "evidence": "Monaghan 2008, s.v. 'Tuireann'; MacKillop 2008, s.v. 'Tuireann'."
+ }
 }

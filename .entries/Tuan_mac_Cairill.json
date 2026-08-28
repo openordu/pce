@@ -1,50 +1,79 @@
 {
-  "name": "Tuan mac Cairill",
-  "attributes": [
-    {
-      "entity": "Tuan mac Cairill",
-      "attribute": "brother of the early invader Partholon"
-    },
-    {
-      "entity": "Tuan mac Cairill",
-      "attribute": "the sole survivor of the plague that killed his people"
-    }
-  ],
-  "entities": [
-    {
-      "entity": "Tuan mac Cairill",
-      "type": "Person"
-    },
-    {
-      "entity": "Partholon",
-      "type": "Person"
-    },
-    {
-      "entity": "Book of Invasions",
-      "type": "Text"
-    },
-    {
-      "entity": "Fintan",
-      "type": "Person"
-    }
-  ],
-  "sources": [
-    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-  ],
-  "image": [
-    "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Myths_and_legends%3B_the_Celtic_race_%281910%29_%2814760452906%29.jpg/1200px-Myths_and_legends%3B_the_Celtic_race_%281910%29_%2814760452906%29.jpg"
-  ],
-  "cyphertext": "m_HjGLwagizqbtKbM1sebohe22CMrNDh4MNBWei-XShhWLHi8jmF2SA0-rHkal52_UW7BIECbn1VPu2K45XVuxQ3AOGFmrGITX5S94M2nhyRMJftN2qCSU2skFWDkLBXh4PGrbgEEB7wKng58g-1gwQGFJMKrj59IckLngLyrtwp52j4GB1ceZ_n9gRfixkIQk_4E1Ogn18I64Y7GJuBm59jyHlzThbF5oRDqYvfWC3Hl7Ci776jjrvryO6fPuNwR6vvpkZZgjv6G1jEYXS2vMhFm_y7kcJa-mQvDwIgNeH0GPtZpTv61DpPSi5BV_j04SPOmq4xYgOYYxfOMx_ZudEf3TWI16mLpWArgL5BgfTmYa4_NB5ZS8-eMh22aCrde4K73huZx3EpMRs7NlOm0h4hhWQzMHTboUckKqAxw7iW0nNxunJRVUGsMaXl21B-Z_qisN1NHYt6CyFeb1pcmPr4b5bsQUiA3nJyeofqFqfn3_bPpjCnhetXZguWonIWW0uMK3CDwMlfVoDK_d04cpJsQDm4GGLrX9d9BdLv6GMmCC0y96rDr_hKlbhPcDVrQqzoHHmuQdE_kMWJIdpE6AWiCCYVX1d1gGgm_hIcg4VWzjr-fJHp8fa9UFQLegHXk5_7FMQZeVasNQf__jGBzVOFhdHcPAShipcEHl0XNEYkYE2oVFXXy5hAaucBbKP9hXpzIvTKf6YoFxJGaTAuoHlmUQ2EvFMey1AYa_61v9PQ50ANVXnngQ9fAiuTYcDGzp-kn91PxfJhFYv4cmioauckkZvPpwrn3VBi_JUeNaPFcbBsd00xQeuLMwWtN1fBpgRRgeBuykPa2BNQPSjrUgxokJ0EbsIHrFolEgnTa7oJHFen_dyfX6o3tmG6dSfPkDGmLtRKpG4FftYmYuLRf_8Iqa2XTYkcf9ZhDNYYZ-14i3ob_YGj7j6A9i5GOvrQWBHNXTbbg0w2iOLW1yEnT-I7HHtfDOvxyMHzeAF2re8PO1zQuFm7VMgu6fPHNm3iuOW_oh8vuYzNCxSzVli9eajM4V1vGiaY3CXDd99OuEK-E1Kxw3yVEte0yxSoz4henIfeOPFVkEXy9TRWJAbE03dQybXJ3mZQYsiewhVD7gR9o6JzpTRMAEDurZiHGBWVnO20ln6jhS3b_5Tlu-QZnkSnTCSXaJU=",
-  "salt": "pHrBmNyyI8482Ikuq3Ethg==",
-  "text": "Tuan mac Cairill was a sibling of Partholon, the early invader of Ireland. When the plague killed his people, Tuan alone survived. He lived on as a stag, then a boar, then an eagle. After those lives he became a salmon that a woman ate, and she bore him again as a human. Because he remembered every life, Tuan grew into a great and eloquent bard. He told the record of Ireland's invasions, the Book of Invasions. Some texts identify him with Fintan, the salmon of Wisdom.",
-  "okr": {
-    "objective": "Document the Irish hero Tuan mac Cairill.",
-    "key_results": [
-      "He was the brother of Partholon and survived the plague alone",
-      "He lived as a stag, boar, and eagle before becoming a salmon",
-      "A woman ate the salmon and bore him again as a man",
-      "He told the Book of Invasions and is sometimes named as the salmon of Wisdom, Fintan"
-    ],
-    "evidence": "Monaghan 2008, s.v. 'Tuan mac Cairill'."
+ "name": "Tuan mac Cairill",
+ "attributes": [
+  {
+   "entity": "Tuan mac Cairill",
+   "attribute": "brother of the early invader Partholon"
+  },
+  {
+   "entity": "Tuan mac Cairill",
+   "attribute": "the sole survivor of the plague that killed his people"
+  },
+  {
+   "entity": "Tuan_mac_Cairill",
+   "attribute": "son of Starn and brother of Partholón"
+  },
+  {
+   "entity": "Tuan_mac_Cairill",
+   "attribute": "recited Ireland's early history to St Finnian of Moville"
+  },
+  {
+   "entity": "Tuan_mac_Cairill",
+   "attribute": "studied by John Carey in Ériu in 1984"
   }
+ ],
+ "entities": [
+  {
+   "entity": "Tuan mac Cairill",
+   "type": "Person"
+  },
+  {
+   "entity": "Partholon",
+   "type": "Person"
+  },
+  {
+   "entity": "Book of Invasions",
+   "type": "Text"
+  },
+  {
+   "entity": "Fintan",
+   "type": "Person"
+  },
+  {
+   "entity": "Finnian of Moville",
+   "type": "Person"
+  },
+  {
+   "entity": "Starn",
+   "type": "Person"
+  },
+  {
+   "entity": "Cairill",
+   "type": "Person"
+  },
+  {
+   "entity": "John Carey",
+   "type": "Person"
+  }
+ ],
+ "sources": [
+  "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.",
+  "MacKillop 2008, s.v. 'Tuan mac Cairill'"
+ ],
+ "image": [
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Myths_and_legends%3B_the_Celtic_race_%281910%29_%2814760452906%29.jpg/1200px-Myths_and_legends%3B_the_Celtic_race_%281910%29_%2814760452906%29.jpg"
+ ],
+ "cyphertext": "m_HjGLwagizqbtKbM1sebohe22CMrNDh4MNBWei-XShhWLHi8jmF2SA0-rHkal52_UW7BIECbn1VPu2K45XVuxQ3AOGFmrGITX5S94M2nhyRMJftN2qCSU2skFWDkLBXh4PGrbgEEB7wKng58g-1gwQGFJMKrj59IckLngLyrtwp52j4GB1ceZ_n9gRfixkIQk_4E1Ogn18I64Y7GJuBm59jyHlzThbF5oRDqYvfWC3Hl7Ci776jjrvryO6fPuNwR6vvpkZZgjv6G1jEYXS2vMhFm_y7kcJa-mQvDwIgNeH0GPtZpTv61DpPSi5BV_j04SPOmq4xYgOYYxfOMx_ZudEf3TWI16mLpWArgL5BgfTmYa4_NB5ZS8-eMh22aCrde4K73huZx3EpMRs7NlOm0h4hhWQzMHTboUckKqAxw7iW0nNxunJRVUGsMaXl21B-Z_qisN1NHYt6CyFeb1pcmPr4b5bsQUiA3nJyeofqFqfn3_bPpjCnhetXZguWonIWW0uMK3CDwMlfVoDK_d04cpJsQDm4GGLrX9d9BdLv6GMmCC0y96rDr_hKlbhPcDVrQqzoHHmuQdE_kMWJIdpE6AWiCCYVX1d1gGgm_hIcg4VWzjr-fJHp8fa9UFQLegHXk5_7FMQZeVasNQf__jGBzVOFhdHcPAShipcEHl0XNEYkYE2oVFXXy5hAaucBbKP9hXpzIvTKf6YoFxJGaTAuoHlmUQ2EvFMey1AYa_61v9PQ50ANVXnngQ9fAiuTYcDGzp-kn91PxfJhFYv4cmioauckkZvPpwrn3VBi_JUeNaPFcbBsd00xQeuLMwWtN1fBpgRRgeBuykPa2BNQPSjrUgxokJ0EbsIHrFolEgnTa7oJHFen_dyfX6o3tmG6dSfPkDGmLtRKpG4FftYmYuLRf_8Iqa2XTYkcf9ZhDNYYZ-14i3ob_YGj7j6A9i5GOvrQWBHNXTbbg0w2iOLW1yEnT-I7HHtfDOvxyMHzeAF2re8PO1zQuFm7VMgu6fPHNm3iuOW_oh8vuYzNCxSzVli9eajM4V1vGiaY3CXDd99OuEK-E1Kxw3yVEte0yxSoz4henIfeOPFVkEXy9TRWJAbE03dQybXJ3mZQYsiewhVD7gR9o6JzpTRMAEDurZiHGBWVnO20ln6jhS3b_5Tlu-QZnkSnTCSXaJU=",
+ "salt": "pHrBmNyyI8482Ikuq3Ethg==",
+ "text": "Tuan mac Cairill was a sibling of Partholon, the early invader of Ireland. MacKillop names him the one Partholonian who survived, son of Starn and brother of Partholón. When the plague killed his people, Tuan alone lived on. He became a stag, then a boar, then an eagle. After those lives he became a salmon that a woman ate, and she bore him again as a human. Because he remembered every life, Tuan grew into a great and eloquent bard. MacKillop adds the point of the whole cycle. The new-born man gave Ireland its early history aloud to St Finnian of Moville. That recitation is the story of the Book of Invasions. Some texts identify him with Fintan, the salmon of Wisdom. John Carey printed a study of the tale in the journal Ériu in 1984. The same shape of endless life and reborn memory belongs to Taliesin and to Gwion Bach in Wales.",
+ "okr": {
+  "objective": "Document the Irish hero Tuan mac Cairill.",
+  "key_results": [
+   "He was the brother of Partholon and survived the plague alone",
+   "He lived as a stag, boar, and eagle before becoming a salmon",
+   "A woman ate the salmon and bore him again as a man",
+   "Record the recitation to St Finnian of Moville and the Starn parentage"
+  ],
+  "evidence": "Monaghan 2008, s.v. 'Tuan mac Cairill'; MacKillop 2008, s.v. 'Tuan mac Cairill'."
+ }
 }

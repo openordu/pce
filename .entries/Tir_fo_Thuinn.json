@@ -8,6 +8,22 @@
   {
    "entity": "Tir fo Thuinn",
    "attribute": "a name for the place of the fairies"
+  },
+  {
+   "entity": "Tir_fo_Thuinn",
+   "attribute": "name carries the Irish tonn, wave"
+  },
+  {
+   "entity": "Tir_fo_Thuinn",
+   "attribute": "a refuge of the Tuatha Dé Danann after the Milesian defeat"
+  },
+  {
+   "entity": "Tir_fo_Thuinn",
+   "attribute": "the Hard Gilly leads the Fianna there in the Tóraigheacht an Ghiolla Dheacair"
+  },
+  {
+   "entity": "Tir_fo_Thuinn",
+   "attribute": "called An tEilean Uaine, the Green Island, on Tiree"
   }
  ],
  "entities": [
@@ -18,21 +34,46 @@
   {
    "entity": "Otherworld",
    "type": "Place"
+  },
+  {
+   "entity": "Tuatha Dé Danann",
+   "type": "Group"
+  },
+  {
+   "entity": "Milesians",
+   "type": "Group"
+  },
+  {
+   "entity": "Fianna",
+   "type": "Group"
+  },
+  {
+   "entity": "Tóraigheacht an Ghiolla Dheacair",
+   "type": "Text"
+  },
+  {
+   "entity": "Tiree",
+   "type": "Place"
+  },
+  {
+   "entity": "An tEilean Uaine",
+   "type": "Place"
   }
  ],
  "sources": [
-  "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+  "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.",
+  "MacKillop 2008, s.v. 'Tir fo Thuinn'"
  ],
  "cyphertext": "RRSq7bYUXBgteOtL-uOIeMmVcQDJavC0z4NCPl7Oxw6NnWwComS1-lucCUyJ0q7KEBMawkbL-gBniMSN2aVqeaq-ViuHm9Z2rKyhG2ps47xRPS5Va6LGr-pdr4tKuc_X_h1dp72SiKH1YUCUhyHPmM5h_S_cq72OX6a04TZcD9HjxuNEAyqR5FWiv6QrHzJmQjX8EY_U7CoHCA9WqMutp483w1ABjKBHWym6S-o9B7PMyDT2awtfszClvyCBACmDyCXMoodHeCdvLulETJqX_JAlYeBk2hvXBr0cY84kq1-Md_m8cD1Aj5_X_XIbtm91iGz4bucNO5Sc0JrbYLgMspFl6HAx850Wm49ukI3gafsPVn9BTrc9l3lGjgHjWdc9QauQ_d3L2zQlQILHi8kTG-acswo9rP0liy_XzRgXbZsbhDIAHdnojWfx2WVVgaqYK3GR_CHssIFONOaxYXyJHu70tDkAArtpIGw5Rnpl19clunO-5J9Lr7Wrafahzw3mmwh-2PoI79bcwXUT_-sVJ9ZbA3xpfCj4",
  "salt": "ki13vZdsr6TPZnuxZef-Yg==",
- "text": "Tir fo Thuinn is the land under the wave in Irish myth. It is one of the names of the Otherworld, the place of the fairies. The folk held that the sea and the lake hide the road to this realm. Cities stand on the bed of the water.",
+ "text": "Tir fo Thuinn is the land under the wave in Irish myth. The name carries the Irish tonn, wave, and MacKillop lists its forms. Scots Gaelic gives Tir fo Thuinn, while other spellings run Tir fa Thonn, Tir-fa-Tonn, and Tir-na-Thonn. It is one of the names of the Otherworld, the place of the fairies. The imagined realm lies under the seas. It ranks among the refuges where the Tuatha Dé Danann might have fled once the Milesians beat them. The Hard Gilly leads the Fianna there in the Tóraigheacht an Ghiolla Dheacair, the Pursuit of the Hard Gilly. On some Gaelic Scottish ground, Tiree among the isles, the same land is called An tEilean Uaine, the Green Island. The folk held that the sea and the lake hide the road to this realm. Cities stand on the bed of the water.",
  "okr": {
   "objective": "Set down Tir fo Thuinn as the land under the wave.",
   "key_results": [
-   "Gives the name the land under the wave",
-   "Marks it as a name of the fairy realm",
-   "Notes the land under the water"
+   "Give the name the land under the wave and the tonn etymology",
+   "Add the Tuatha Dé Danann refuge and the Hard Gilly pursuit",
+   "Add the Green Island name on Tiree"
   ],
-  "evidence": "Monaghan 2008, s.v. 'Tir fo Thuinn'."
+  "evidence": "Monaghan 2008, s.v. 'Tir fo Thuinn'; MacKillop 2008, s.v. 'Tir fo Thuinn'."
  }
 }
