@@ -1,15 +1,54 @@
 {
   "name": "Catan",
-  "text": "Catan, Saint is a legendary figure of eleventh-century Scotland. The account credits him with giving a name to the Clan Chattan. That Clan is a broad union of Scotland's kindreds. Its members all lay claim to a Pictish line of descent. The group forms a larger whole than any single clan. It guards a shared bond. Catan reads as a shadow rather than a real person. His fame rests on the confederation he names. Sparse records leave his life obscure. Scholars therefore treat his story as legend, not settled fact. The Clan Chattan endures as his memorial in the Scottish Highlands.",
+  "text": "Catan, Saint is a legendary figure of eleventh-century Scotland. The account credits him with giving a name to the Clan Chattan. That Clan is a broad union of Scotland's kindreds. Its members all lay claim to a Pictish line of descent. The group forms a larger whole than any single clan. It guards a shared bond. Catan reads as a shadow rather than a real person. His fame rests on the confederation he names. Sparse records leave his life obscure. Scholars therefore treat his story as legend, not settled fact. The Clan Chattan endures as his memorial in the Scottish Highlands. The Clan Chattan is a loose federation of seventeen Scottish clans. Its center lay at Inverness from the eleventh century onward. The Clan bears the title of its chief, Gilliechattan Mòr, Great Servant of Saint Catan. His seat is Kilchattan Abbey on the Isle of Bute.",
   "image": [],
-  "sources": ["MacKillop 2008, s.v. 'Catan'."],
+  "sources": [
+    "MacKillop 2008, s.v. 'Catan'.",
+    "MacKillop 2008, s.v. 'Chattan'."
+  ],
   "attributes": [
-    {"entity": "Catan", "attribute": "legendary saint of eleventh-century Scotland"},
-    {"entity": "Catan", "attribute": "gives his name to the Clan Chattan"},
-    {"entity": "Clan Chattan", "attribute": "a broad confederation of clans claiming Pictish origin"}
+    {
+      "entity": "Catan",
+      "attribute": "legendary saint of eleventh-century Scotland"
+    },
+    {
+      "entity": "Catan",
+      "attribute": "gives his name to the Clan Chattan"
+    },
+    {
+      "entity": "Clan Chattan",
+      "attribute": "a broad confederation of clans claiming Pictish origin"
+    },
+    {
+      "entity": "Clan Chattan",
+      "attribute": "a loose federation of seventeen Scottish clans"
+    },
+    {
+      "entity": "Gilliechattan Mòr",
+      "attribute": "the chief whose title Great Servant of Saint Catan names the Clan"
+    },
+    {
+      "entity": "Kilchattan Abbey",
+      "attribute": "the Isle of Bute seat tied to the Clan name"
+    }
   ],
   "entities": [
-    {"entity": "Clan Chattan", "type": "Person"}
+    {
+      "entity": "Clan Chattan",
+      "type": "Person"
+    },
+    {
+      "entity": "Kilchattan Abbey",
+      "type": "place"
+    },
+    {
+      "entity": "Isle of Bute",
+      "type": "place"
+    },
+    {
+      "entity": "Gilliechattan Mòr",
+      "type": "person"
+    }
   ],
   "cyphertext": "",
   "salt": "",

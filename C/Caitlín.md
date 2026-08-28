@@ -2,7 +2,7 @@
 layout: layouts/pce.njk
 title: Caitlín
 icon: file-lines
-order: 3298
+order: 0
 contributors: [ 'Christopher Godwin' ]
 attributes:
   - Caitlin an Irish form of the French name Catherine
@@ -11,6 +11,9 @@ attributes:
   - Caitlín Ní hUallacháin a personification of Ireland that Yeats helped shape
   - Cathleen ni Houlihan the Yeats play that spread the name in 1902
   - Balor given a wife called Caitlin in some texts
+  - Caitlín carries the variant forms Ceithlenn, Cethlenn, Ceithlionn, and Céthlionn
+  - Caitlín as Balor's wife she wounds the Dagda at the battle of Mag Tuired
+  - Cathleen ni Houlihan calls herself the Poor Old Woman in Yeats's play
 categories:
   - mythological figure
   - Person
@@ -29,7 +32,7 @@ tags:
 ---
 ``` tab [group1:Info]
 ::: magazinestyle
-Caitlín is an Irish form of the French name Catherine. It stands as one spelling among many. Countless historical figures have carried the name since the twelfth century. The best-known folkloric bearer is Caitlín Ní hUallacháin. That family name survives in many spellings across Kilkenny and neighbouring Clare. People also read Caitlin as a fresh picture of Ireland. W. B. Yeats shaped this image of the nation. His play Cathleen ni Houlihan first reached the stage in 1902. Later writers sometimes spell the name Kathleen O'Hoolihan. In some texts Caitlin becomes the wife of the one-eyed giant Balor.
+Caitlín is an Irish form of the French name Catherine. It stands as one spelling among many. Countless historical figures have carried the name since the twelfth century. The best-known folkloric bearer is Caitlín Ní hUallacháin. That family name survives in many spellings across Kilkenny and neighbouring Clare. People also read Caitlin as a fresh picture of Ireland. W. B. Yeats shaped this image of the nation. His play Cathleen ni Houlihan first reached the stage in 1902. Later writers sometimes spell the name Kathleen O'Hoolihan. In some texts Caitlin becomes the wife of the one-eyed giant Balor. In the play she calls herself the Poor Old Woman. The name also carries the variant forms Ceithlenn, Cethlenn, Ceithlionn, and Céthlionn. As Balor's wife, Caitlin wounds the Dagda in the battle at Mag Tuired. No true link ties the name to the Christian Catherine.
 
 :::
 ```
@@ -40,6 +43,9 @@ Caitlín is an Irish form of the French name Catherine. It stands as one spellin
 - **Caitlín Ní hUallacháin**: a personification of Ireland that Yeats helped shape
 - **Cathleen ni Houlihan**: the Yeats play that spread the name in 1902
 - **Balor**: given a wife called Caitlin in some texts
+- **Caitlín**: carries the variant forms Ceithlenn, Cethlenn, Ceithlionn, and Céthlionn
+- **Caitlín**: as Balor's wife she wounds the Dagda at the battle of Mag Tuired
+- **Cathleen ni Houlihan**: calls herself the Poor Old Woman in Yeats's play
 ```
 ``` tab [group1:Entities]
 - **Caitlín**: Person
@@ -50,4 +56,5 @@ Caitlín is an Irish form of the French name Catherine. It stands as one spellin
 ```
 ``` tab [group1:Sources]
 - MacKillop 2008, s.v. 'Caitlín'.
+- MacKillop 2008, s.v. 'Cethlenn'.
 ```

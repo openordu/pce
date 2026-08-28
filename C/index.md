@@ -487,3 +487,7 @@ layout: layouts/pce.njk
 - [Cernach](Cernach)
 - [Cermait](Cermait)
 - [Cerne_Giant](Cerne_Giant)
+- [Cethern](Cethern)
+- [Cethern_mac_Fintain](Cethern_mac_Fintain)
+- [Céadach](Céadach)
+- [Ceugant](Ceugant)

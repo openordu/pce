@@ -9,9 +9,11 @@ attributes:
   - Cei companion of Arthur and Bedwyr
   - Cei a model for Sir Kay
   - Kay the English knight Cei models
+  - Cei bearer of the variant name forms Cai, Che, and Kei
+  - Cei rider of the horse Lluagor
 categories:
-  - hero
   - Person
+  - hero
 entities:
   - Cei(hero)
   - Arthur(Person)
@@ -25,7 +27,7 @@ tags:
 ---
 ``` tab [group1:Info]
 ::: magazinestyle
-Cei is a figure in Welsh Arthurian stories and a comrade of Arthur and Bedwyr. Writers give him the patronymic ap Cynyr. Some render that name as vab Cynyr. Both forms mean son of Cynyr. He holds the post of seneschal in the household of Arthur. His character mixes courage with buffoonery. Early poetry such as the twelfth-century Black Book of Carmarthen portrays him as a grand and admirable hero. Later romances demote him to a surly steward whose conduct turns cruel and sometimes ridiculous. Even there he manages to set events in motion. English Arthurian narratives clearly draw on him for the knight Sir Kay.
+Cei is a figure in Welsh Arthurian stories and a comrade of Arthur and Bedwyr. Writers give him the patronymic ap Cynyr. Some render that name as vab Cynyr. Both forms mean son of Cynyr. He holds the post of seneschal in the household of Arthur. His character mixes courage with buffoonery. Early poetry such as the twelfth-century Black Book of Carmarthen portrays him as a grand and admirable hero. Later romances demote him to a surly steward whose conduct turns cruel and sometimes ridiculous. Even there he manages to set events in motion. English Arthurian narratives clearly draw on him for the knight Sir Kay. His name appears in the variant forms Cai, Che, and Kei. Tradition gives Cei the horse named Lluagor.
 
 :::
 ```
@@ -34,6 +36,8 @@ Cei is a figure in Welsh Arthurian stories and a comrade of Arthur and Bedwyr. W
 - **Cei**: companion of Arthur and Bedwyr
 - **Cei**: a model for Sir Kay
 - **Kay**: the English knight Cei models
+- **Cei**: bearer of the variant name forms Cai, Che, and Kei
+- **Cei**: rider of the horse Lluagor
 ```
 ``` tab [group1:Entities]
 - **Cei**: hero
@@ -43,4 +47,5 @@ Cei is a figure in Welsh Arthurian stories and a comrade of Arthur and Bedwyr. W
 ```
 ``` tab [group1:Sources]
 - MacKillop 2008, s.v. 'Cei'.
+- MacKillop 2008, s.v. 'Che'.
 ```

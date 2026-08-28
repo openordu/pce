@@ -2,50 +2,53 @@
 layout: layouts/pce.njk
 title: Conn of the Hundred Battles
 icon: file-lines
-order: 523
+order: 0
 contributors: [ 'Christopher Godwin' ]
 attributes:
-  - Conn father of Fionn's friend
-  - Cumhall kidnapped and raped Murna
-  - Fionn friend of Conn
-  - Conn's children Art Mac Cuinn and Connla
+  - Conn of the Hundred Battles a great legendary king of Ireland
+  - Cormac mac Airt grouped with Conn in the list
+  - Mong grouped with Conn in the list
+  - Guaire grouped with Conn in the list
+  - Conn of the Hundred Battles bore the Irish epithet Cétchathach
+  - Cétchathach means of the Hundred Battles
 categories:
-  - person
+  - epithet
+  - mythological figure
 entities:
-  - Conn(person)
-  - Fionn(person)
-  - Cumhall(person)
-  - Murna(person)
-  - Art Mac Cuinn(person)
-  - Connla(person)
+  - Conn of the Hundred Battles(mythological figure)
+  - Cormac mac Airt(mythological figure)
+  - Mongon(mythological figure)
+  - Guaire(mythological figure)
+  - Cétchathach(epithet)
 tags:
-  - Conn
-  - Fionn
-  - Cumhall
-  - Murna
-  - Art Mac Cuinn
-  - Connla
+  - Conn of the Hundred Battles
+  - Cormac mac Airt
+  - Mongon
+  - Guaire
+  - Cétchathach
 ---
 ``` tab [group1:Info]
 ::: magazinestyle
-Conn of the Hundred Battles, known in Irish as Con Cétchathach, was revered as one of the greatest legendary kings of Ireland. He was deemed the true king when he approached the magical stone Lia Fáil which screamed and designated him as such. To ensure that he was not taken by surprise by his people's monstrous enemies, the Fomorians, Conn walked the ramparts of Tara daily. Before ruling as king at Tara, he governed the north of Ireland, while his adversary Eógan Mór controlled the south. The Eiscir Riada, a range of glacial hills separated them. Conn did not wish to remain solely in his sector, invading and defeating Eógan in his domain. Eógan sought assistance and returned to battle, but was defeated again by Conn at Mag Léna where he met his end. Conn earned the title "of the hundred battles" or "fighter of hundreds" from these and other conquests. Stories about Conn place emphasis on the importance of a monarch's relationship with the land to ensure its fruitfulness. After being offered the cup of Sovereignty by an unknown beautiful woman, he selected the virtuous Eithne Táebfhorta as his queen. His benevolent reign rendered the land more fertile, resulting in three harvests each year. However, when he married Bé Chuma, who had been banished from the Otherworld for her immoral behavior, the land suffered, and no cows yielded milk until Conn banished the Fairy woman. A significant character in tales from the Fenian Cycle is Conn. It was during his rule that the renowned hero Fionn Mac Cumhaill came to be. Various accounts narrate the incident of Conn executing Cumhall, Fionn's father, for abducting and assaulting his mother, Murna. Nevertheless, Fionn remained friendly towards Conn. Art Mac Cuinn and Connla are among Conn's offspring.
+Conn of the Hundred Battles ranks among the greatest legendary kings of Ireland. Tradition counts him among the early high kings who shape the island's legendary history. The old lists place his name beside Cormac mac Airt, Mongon, and Guaire as the great rulers remembered in the tales. His full Irish title is Conn Cétchathach. The epithet Cétchathach means of the Hundred Battles. It celebrates a king who won a hundred battles. In the tradition the name works as a victory title carried by the high king.
 
 :::
 ```
 ``` tab [group1:Attributes]
-- **Conn**: father of Fionn's friend
-- **Cumhall**: kidnapped and raped Murna
-- **Fionn**: friend of Conn
-- **Conn's children**: Art Mac Cuinn and Connla
+- **Conn of the Hundred Battles**: a great legendary king of Ireland
+- **Cormac mac Airt**: grouped with Conn in the list
+- **Mong**: grouped with Conn in the list
+- **Guaire**: grouped with Conn in the list
+- **Conn of the Hundred Battles**: bore the Irish epithet Cétchathach
+- **Cétchathach**: means of the Hundred Battles
 ```
 ``` tab [group1:Entities]
-- **Conn**: person
-- **Fionn**: person
-- **Cumhall**: person
-- **Murna**: person
-- **Art Mac Cuinn**: person
-- **Connla**: person
+- **Conn of the Hundred Battles**: mythological figure
+- **Cormac mac Airt**: mythological figure
+- **Mongon**: mythological figure
+- **Guaire**: mythological figure
+- **Cétchathach**: epithet
 ```
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
+- MacKillop 2008, s.v. 'Cétchathach'.
 ```
