@@ -1,0 +1,56 @@
+{
+  "name": "Conar",
+  "text": "Conar is a king of Ireland in Macpherson's Ossian, first printed in 1760. He fathered the Cormac whom Carbar dethroned. Kinship with Fingal also ties him to that hero. The bond drags the Scottish champion into many Irish wars. Macpherson shaped his Ossianic figures as literary inventions. They do not preserve genuine medieval tradition. Conar corresponds to the Conaire of native Irish story. See Conaire.",
+  "entities": [
+    {
+      "entity": "Conar",
+      "type": "person"
+    },
+    {
+      "entity": "Conaire",
+      "type": "person"
+    },
+    {
+      "entity": "Carbar",
+      "type": "person"
+    },
+    {
+      "entity": "Fingal",
+      "type": "person"
+    },
+    {
+      "entity": "Macpherson's Ossian",
+      "type": "literary work"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Conar",
+      "attribute": "a king of Ireland in Macpherson's Ossian"
+    },
+    {
+      "entity": "Conar",
+      "attribute": "father of the dethroned Cormac"
+    },
+    {
+      "entity": "Conar",
+      "attribute": "kin to Fingal"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Conar'."
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Conar is Macpherson's literary king of Ireland, a form of Conaire.",
+    "key_results": [
+      "Macpherson's Ossian presents Conar as a king of Ireland.",
+      "He is the father of the Cormac dethroned by Carbar.",
+      "His kinship with Fingal draws the hero into Irish wars.",
+      "The figure points back to the Irish Conaire."
+    ],
+    "evidence": "MacKillop, Dictionary of Celtic Mythology, s.v. 'Conar' (2008)."
+  }
+}
