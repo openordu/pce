@@ -28,10 +28,19 @@
     {
       "entity": "battle",
       "type": "event"
+    },
+    {
+      "entity": "Emain Macha",
+      "type": "location"
+    },
+    {
+      "entity": "Macha",
+      "type": "goddess"
     }
   ],
   "sources": [
-    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.",
+    "MacKillop 2008, s.v. 'Cimbáeth'."
   ],
   "attributes": [
     {
@@ -49,17 +58,33 @@
     {
       "entity": "Macha Mong Rua",
       "attribute": "daughter of Áed Ruad who took his turn and wed Cimbáeth"
+    },
+    {
+      "entity": "Cimbáeth",
+      "attribute": "one term of a twenty-one-year rotation"
+    },
+    {
+      "entity": "Cimbáeth",
+      "attribute": "built Emain Macha at Macha's command"
+    },
+    {
+      "entity": "Cimbáeth",
+      "attribute": "carries the variants Cimbaoth and Kimbay"
     }
   ],
   "cyphertext": "2xK57570QmFnx78msG-FbhcYXtqXearZIjPOYkz66agJLVrWAdbW-QSJi67YGk3YQwMUzB8RsGDZfUmlSFSZQ9a1YtOhb5sIdFFRvm0QCwzTU3pnrL2iym7fyAOOX3drmKL0kHvP7je4BKwB_ONUWgfeKvmS-LjpcEUt1YQiBms9eOciXDue7B551L1971Uaq2tuOv_2sBDmF8GWjIPbYOIceixq4MltprDIK6zoK1midSCxHYkM1PNob8VHo958jKY_4Z0Qh-k8RuLTLzPOXDnZo4r_oTVjbjoUwaiaOal1O8d33FWZs1VCoUhUZvh16Kp39gVlviQr6S5lM-5Y2vcsZtq5tNajC5sVRroMl3v6AnUbgElh4hotxWAtJU5edr6cUvlUN5QGQsJbkIpvrAZlVzznjbgQlIltxijxsqDGCfd60vyXJfgjYfwEC1ktJXnzdaofVLuQZGR1pizhsVz92syavguljaHPlDjNUym3dLLlBDtGAricFtl8vq4hb_hmkjUCONuyGuEYLdarfiJsEROXVtqAnzAk3pCdSgpu4rlAgvxjsiUoIVSIacONu2gMfpzwXPe2WL3NmM7binXyzmF5QkyhcIPgxvYcp-E9fIi8ONx0Z37Lc4rx-M9mfZ0PhzyoKPW44J7fIp8ZBZ-oLFhsapWwBPfy",
   "salt": "kQStbLJL3cGsobe1RgwJWQ==",
-  "text": "Cimbáeth was an Irish hero. With two other kings of Ulster, Áed Ruad and Díthorba, he agreed that each man would govern a seven year turn. A council of poets, nobles, and druids watched over the pact. The rotation held until Áed died. His daughter Macha Mong Rua then claimed his turn. Cimbáeth and Díthorba refused her and met her in war. Macha carried the day. She married Cimbáeth and cut down Díthorba.",
+  "text": "Cimbáeth was an Irish hero who appears in legend as an early king of Ireland, remembered under the variant spellings Cimbaoth and Kimbay. Chronicle history opens near his day, and he is dated to about AD 300. With his kinsmen Áed Ruad and Díthorba, named brothers in some tellings and cousins in others, he agreed that each man would govern a seven year turn, so that the three terms formed a twenty-one-year cycle. A council of poets, nobles, and druids watched over the pact, and seven magicians, poets, and lords of Ulster guaranteed that the agreement was kept. The rotation held until Áed died. His daughter Macha Mong Rua then claimed his turn. Cimbáeth and Díthorba refused her and met her in war. Macha carried the day. She married Cimbáeth and cut down Díthorba. After the wedding, Macha held power over her husband and obliged him to raise the royal fort of Emain Macha.",
   "okr": {
     "objective": "Cimbáeth shared the throne of Ulster under a pact of rotation with two fellow kings.",
     "key_results": [
       "Cimbáeth agreed with Áed Ruad and Díthorba to rule in turns of seven years.",
       "After Áed died, Macha Mong Rua took his turn by force.",
-      "Macha won the battle, married Cimbáeth, and slew Díthorba."
+      "Macha won the battle, married Cimbáeth, and slew Díthorba.",
+      "The three seven-year terms formed a twenty-one-year cycle among kinsmen.",
+      "Seven magicians, poets, and lords of Ulster guaranteed the agreement.",
+      "Chronicle history dates Cimbáeth to about AD 300.",
+      "After the marriage, Macha obliged Cimbáeth to build the royal fort of Emain Macha."
     ],
     "evidence": "Monaghan, Encyclopedia of Celtic Mythology and Folklore"
   }

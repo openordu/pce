@@ -1,0 +1,48 @@
+{
+  "name": "Ciudach",
+  "fname": "Ciudach.json",
+  "text": "Ciudach is a cave-dwelling spirit of Scottish Gaelic story. The tradition also reaches Manx ground and districts of Ireland. The oldest tales show the character as an admirable giant. Later stories make the figure a monster that haunts caves. The related headword cughtagh covers the cave-haunting form. Tales from Roscommon and Inverness tell one episode in common. Gráinne takes Ciudach as a lover during her flight with Diarmait.",
+  "entities": [
+    {
+      "entity": "Ciudach",
+      "type": "mythological creature"
+    },
+    {
+      "entity": "Gráinne",
+      "type": "character"
+    },
+    {
+      "entity": "Diarmait Ua Duibhne",
+      "type": "mythological figure"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Ciudach",
+      "attribute": "cave-dwelling spirit of Scottish Gaelic folklore"
+    },
+    {
+      "entity": "Ciudach",
+      "attribute": "lover of Gráinne in the Diarmait tales"
+    },
+    {
+      "entity": "Ciudach",
+      "attribute": "degenerated from giant to cave monster in later stories"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Ciudach'."
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Ciudach is a cave spirit whose stories range from admirable giant to cave-haunting monster.",
+    "key_results": [
+      "Cover the spread of the tales to Man and Ireland.",
+      "Tell the episode with Gráinne and Diarmait.",
+      "Record the shift from admirable giant to cave monster."
+    ],
+    "evidence": "MacKillop, Dictionary of Celtic Mythology, s.v. Ciudach"
+  }
+}

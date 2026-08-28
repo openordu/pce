@@ -1,0 +1,44 @@
+{
+  "name": "Ciwa",
+  "fname": "Ciwa.json",
+  "text": "Ciwa is a legendary Welsh saint with close bonds to wolves. Wolves suckled the child in her infancy. The animals took the place of a human mother. One of her fingers carried a great nail. The byname the Wolf Girl recalls this rearing among beasts. The dictionary groups her with Ailbe among saints whom animals nursed.",
+  "entities": [
+    {
+      "entity": "Ciwa",
+      "type": "saint"
+    },
+    {
+      "entity": "Ailbe",
+      "type": "saint"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Ciwa",
+      "attribute": "legendary Welsh saint"
+    },
+    {
+      "entity": "Ciwa",
+      "attribute": "suckled by wolves and called the Wolf Girl"
+    },
+    {
+      "entity": "Ciwa",
+      "attribute": "bore a great nail on one finger"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Ciwa'."
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Ciwa is the Welsh Wolf Girl saint raised by wolves.",
+    "key_results": [
+      "Record the nursing of the child by wolves.",
+      "Describe the great nail on one finger.",
+      "Note the grouping with Ailbe among animal-nursed saints."
+    ],
+    "evidence": "MacKillop, Dictionary of Celtic Mythology, s.v. Ciwa"
+  }
+}
