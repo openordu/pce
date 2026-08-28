@@ -1,0 +1,63 @@
+{
+  "name": "Patrick's Purgatory",
+  "text": "Patrick's Purgatory is the title MacKillop 2008 attaches, without a standalone article, to the pilgrimage site carried inside the Lough Derg entry, where the lake is also called St Patrick's Purgatory. The main article treats the Donegal lake of six by four miles, four miles northwest of Pettigoe, and reports that no documentable evidence survives that Patrick ever visited it, yet the legend has him drive the monster Caoránach into the lake, and its waters turn red from the act. Pilgrimage began well before the twelfth century around a cavern on Station Island, which medieval legend took for the mouth of Purgatory into which the saint had descended. Thousands of pilgrims still ferry to the island between the first of June and the fifteenth of August for a night vigil without sleep, joined to three days of fasting and prayer at the nearby basilica. A related entry gives Cornu, the great black bird said to inhabit the Purgatory, once a demon until Patrick changed it into a bird. Readers following this title should continue at Lough Derg.",
+  "entities": [
+    {
+      "entity": "Patrick's Purgatory",
+      "type": "Place"
+    },
+    {
+      "entity": "Lough Derg",
+      "type": "Place"
+    },
+    {
+      "entity": "Station Island",
+      "type": "Place"
+    },
+    {
+      "entity": "Caoránach",
+      "type": "Figure"
+    },
+    {
+      "entity": "Patrick",
+      "type": "Saint"
+    },
+    {
+      "entity": "Cornu",
+      "type": "Figure"
+    },
+    {
+      "entity": "Donegal",
+      "type": "Place"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Patrick's Purgatory",
+      "attribute": "title carried inside the Lough Derg entry in MacKillop 2008, no standalone article"
+    },
+    {
+      "entity": "Patrick's Purgatory",
+      "attribute": "medieval legend placed the mouth of Purgatory in a cavern on Station Island"
+    },
+    {
+      "entity": "Patrick's Purgatory",
+      "attribute": "pilgrim season runs from the first of June to the fifteenth of August"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Patrick's Purgatory' (within the Lough Derg entry)"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Documents Patrick's Purgatory as recorded in MacKillop 2008 for the Public Celtic Encyclopedia.",
+    "key_results": [
+      "Patrick's Purgatory is the alternative name of Lough Derg in Donegal.",
+      "Legend gives Patrick the banishment of the monster Caoránach into the lake.",
+      "The pilgrimage centers on the Station Island cavern, with a night vigil and three days of fasting and prayer."
+    ],
+    "evidence": "MacKillop 2008, s.vv. 'Lough Derg', 'Cornu' (corpus lines 30008-30037, 11254-11257)."
+  }
+}

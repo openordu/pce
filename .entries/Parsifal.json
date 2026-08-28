@@ -1,0 +1,71 @@
+{
+  "name": "Parsifal",
+  "text": "Parsifal is the spelling MacKillop 2008 files as a pointer to the Grail hero treated in full at Percevel, where the variant forms Perceval, Percival, Parzifal, and Perchevael are also gathered. The main article traces the figure through the Arthurian legends and their Celtic antecedents, among them the Amadán Mór, Fionn mac Cumhaill, Peredur, and Peronnik. The romance Chrétien de Troyes wrote about 1182, the Conte del Graal, gives the hero his first appearance. His story varies across English, French, and German retellings, yet every version keeps him the same figure: an innocent on a quest, a country bumpkin grown into the hero's seat. Richard Wagner fixed the spelling Parsifal in the wider European imagination with his music drama of 1882, in which he described the character as a simpleton without guile. A reader who comes to the name by way of Wagner or the later romances should return to Percevel, where the dictionary keeps the full account of the hero and his Celtic kindred.",
+  "entities": [
+    {
+      "entity": "Parsifal",
+      "type": "Alternate name"
+    },
+    {
+      "entity": "Percevel",
+      "type": "Figure"
+    },
+    {
+      "entity": "Perceval",
+      "type": "Figure"
+    },
+    {
+      "entity": "Amadán Mór",
+      "type": "Figure"
+    },
+    {
+      "entity": "Fionn mac Cumhaill",
+      "type": "Figure"
+    },
+    {
+      "entity": "Peredur",
+      "type": "Figure"
+    },
+    {
+      "entity": "Peronnik",
+      "type": "Figure"
+    },
+    {
+      "entity": "Chrétien de Troyes",
+      "type": "Author"
+    },
+    {
+      "entity": "Richard Wagner",
+      "type": "Composer"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Parsifal",
+      "attribute": "spelling of the Grail hero filed as a pointer to Percevel in MacKillop 2008"
+    },
+    {
+      "entity": "Parsifal",
+      "attribute": "fixed in European memory by Wagner's 1882 music drama"
+    },
+    {
+      "entity": "Parsifal",
+      "attribute": "character type is the questing innocent, the bumpkin who becomes a hero"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Parsifal'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Documents Parsifal as recorded in MacKillop 2008 for the Public Celtic Encyclopedia.",
+    "key_results": [
+      "Parsifal is a spelling of the Grail hero treated at Percevel.",
+      "The hero first appears in Chrétien de Troyes's Conte del Graal of about 1182.",
+      "Wagner's 1882 music drama bears the name Parsifal and calls the character a simpleton without guile."
+    ],
+    "evidence": "MacKillop 2008, s.vv. 'Parsifal', 'Percevel' (corpus lines 35637, 35928-35940)."
+  }
+}

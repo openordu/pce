@@ -1,0 +1,79 @@
+{
+  "name": "P-Celts",
+  "text": "P-Celts is the name MacKillop 2008 gives to the speakers of the p- branch of the Celtic languages, defined against the Q- branch by how each family treated the Indo-European group qu-. Speakers of the p- languages substituted p- for that sound, a shift the dictionary dates probably to the first millennium BC in central Europe, spreading westward from there. The change never reached Ireland or the Celtic districts of the Iberian peninsula, which is why the Gaelic languages kept the older pronunciation. Gaulish was largely a p- language with traces of the other branch. The split is clearest in shared roots, where Welsh pen, head, answers to Irish ceann. The modern representatives of the p- family are Welsh, Cornish, and Breton, which the dictionary also collects under the name Brythonic. When Rome invaded, the dominant speech of ancient Britain and Scotland already belonged to this branch. The entry directs readers onward to the Belgae, Builg, Caledonii, Érainn, and Picts for the peoples involved.",
+  "entities": [
+    {
+      "entity": "P-Celts",
+      "type": "People"
+    },
+    {
+      "entity": "Brythonic",
+      "type": "Language group"
+    },
+    {
+      "entity": "Welsh",
+      "type": "Language"
+    },
+    {
+      "entity": "Cornish",
+      "type": "Language"
+    },
+    {
+      "entity": "Breton",
+      "type": "Language"
+    },
+    {
+      "entity": "Gaulish",
+      "type": "Language"
+    },
+    {
+      "entity": "Belgae",
+      "type": "People"
+    },
+    {
+      "entity": "Builg",
+      "type": "People"
+    },
+    {
+      "entity": "Caledonii",
+      "type": "People"
+    },
+    {
+      "entity": "Érainn",
+      "type": "People"
+    },
+    {
+      "entity": "Picts",
+      "type": "People"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "P-Celts",
+      "attribute": "speakers of the p- branch of Celtic, marked by p- for Indo-European qu-"
+    },
+    {
+      "entity": "P-Celts",
+      "attribute": "shift dated to the first millennium BC in central Europe, never reaching Ireland or Iberian Celtic districts"
+    },
+    {
+      "entity": "P-Celts",
+      "attribute": "modern representatives are Welsh, Cornish, and Breton, also called Brythonic"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'P-Celts'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Documents P-Celts as recorded in MacKillop 2008 for the Public Celtic Encyclopedia.",
+    "key_results": [
+      "P-Celts name the branch of Celtic languages that substituted p- for qu-.",
+      "The substitution arose in central Europe in the first millennium BC and did not reach Ireland or Iberian Celtic districts.",
+      "Welsh, Cornish, and Breton are the modern p- languages, also called Brythonic."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'P-Celts' (corpus lines 35606-35623)."
+  }
+}
