@@ -1,68 +1,101 @@
 {
-  "name": "Sínann",
-  "entities": [
-    {
-      "entity": "Sínann",
-      "type": "Person"
-    },
-    {
-      "entity": "River Shannon",
-      "type": "Place"
-    },
-    {
-      "entity": "Bóand",
-      "type": "Person"
-    },
-    {
-      "entity": "salmon of wisdom",
-      "type": "Being"
-    },
-    {
-      "entity": "well of wisdom",
-      "type": "Place"
-    },
-    {
-      "entity": "Cuilcagh",
-      "type": "Place"
-    },
-    {
-      "entity": "County Cavan",
-      "type": "Place"
-    }
-  ],
-  "attributes": [
-    {
-      "entity": "Sínann",
-      "attribute": "an Irish river goddess who rules the River Shannon"
-    },
-    {
-      "entity": "Bóand",
-      "attribute": "the river goddess of the Boyne, whose fate mirrors Sínann"
-    },
-    {
-      "entity": "salmon of wisdom",
-      "attribute": "a fish whose flesh gave wisdom to the one who ate it"
-    },
-    {
-      "entity": "well of wisdom",
-      "attribute": "the pool beneath Cuilcagh that drowned Sínann"
-    }
-  ],
-  "sources": [
-    "Gwynn, Edward. The Metrical Dindshenchas. Vol. III. Royal Irish Academy, Todd Lecture Series. Dublin: Hodges, Figgis, and Co., Ltd, 1906–1924. Reprinted Dublin Institute for Advanced Studies, School of Celtic Studies, 1991. Vol. III, pp. 287–291.",
-    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-  ],
-  "cyphertext": "izoPFCFFdaoQDofa-Y5QHkxVGM8aOcp4S8rYweBJqeGgqsOvSzVUgiUKtJuJMeDae-nv3cNWxbSAdzfayhZK8pmVoKW90wNAKXjhv5Vva0fvPmtG87SoLla7kOgiwrhUB9oLb64ZioByHCSr0S-yzhUQUON7QQxKfFBHIFwBoA--xC3GtVE4nAY4jKlbi2saWAKVZBacbqT4yDFj7X0_j_uR9bE9E2IKFj8LmdHjZQsr3tgGqQmbKXU_TuVxumBnX0tiM1Z0eJ_sm2drYBj3RJcuhYAaj-UOAnR1BNMBGclwfTbpw1MhnTuqG-2xAUKqpVZZ13dpgy05rtaRKYZmNXOy1rMb9GKymt8ASvU36K8AyODFeyGjp5Mo-Yy9BKEHlNSu_RhWOqiFTQq8eXk3MqGQenGkKXiCHTtNVZDRwwwAI7NcmqI4fIs2553wDrAdjfTWCS_1Wg7nolRmVIIWnZSQyiCnKfITikakG1TwyfrGMcUJ-74AR5dc-76TYl1CWhpOlr7d-XoefyhQvRZhXmb1JZTVoU6iQFNO-yIZX467obAIUlqtPdaIFqoGeve7LPJhRzqo1KHh_tGN97ssjwkua3U2D25gRlgw_FrXlLrl1pvXofzO1YBcGplqlCAGyci4O0C75zk6tN16gshuifR-1mmfetnwI1f2Z_7qRBajScyLpsW0lnwsFEH7rI5S5AC95hX9SASJ1YfL_TIFi9NjGxUpghBfaOXRDhNGWgvHH7C1t1t9jYezGFRNt9wryiq117ttpJyG2oB_RTjnZojm40NI7wHo8DzsE9BTiw7aUBSD0hfyO8CR1QkSm9KPgNGSIrt2BVp_5Ecfotfzn2YwuvR1nwjF-ceSHqwusx95vbJUYoakEsznvporjhGpLnvhuJ6STFHtSOp3lWphnliNH4UYNZfnrEo1uCOINaRSQGzTgcCLJ0DEtKAKRcHcYL-9FZLhXdokB6PVhtCJ4NxXb53oieb5W4PRSIDPWxx0Diq708VoJkG04afRGc0lGkP21HZNZCkxL3hHxwktg3H5LeQ1z3c4yBQ4HveKeFxgA0fAsK1_Ga992ofTuF2YkvoFhthN42Uptb60XP1jpOedlATD7wlofK6kgvkd-f5yYwbruU7gZ0WpCyYY66b90v5n4wvsqRTUOLh3OfT-75CqZaHykdoxoGdDjgOSzac-ERe2PYIqNmj-tvU5PU4jeez2GPrmiecr98jmrzGAIMUHN9WBKFsqaXcTDNUmN0rRYGyqzsvL2Y6zoUNPbfMXbVjBmuXRFqT7Fr36g_yULV6_unR2TvH0eyxIs5NCBBWvDga_5V_cWRup1Q0QFTCCipot2Zg_wpDRuXGkR8xajVVkD9oHSQbW_WWiAZT0ErG2_jbdR_DeTL4WPing6wQFxvGk8rT3VTJlMz1xegXGwDSMS17uha2Fm2aouuLtTWb8agBk9POYHZsq18Xn_9r0sbYMEEj5Jp6wNU1gGt0s8Lin8NIvtiooZlHK7Z7sh4hjxplZvoXHAqI-lBrYTMoQUowfX-wuinMGO3hbJCMCbq3Rg3oRb-hUAwit0jRLujucG4TcNc_Dl_oBWoG3Auo-eb_sVV2YmjufNT2JS_BqGeW6jJpqKTw01rmM7eQcPKbM1lqlhsMcRdhTuhLchamdDfpnBnYL9XvYgUtFZONAWycdDzw5eRwti8dFo-dGAhNQP1c6oQj_rSnssaPxojzbAGwwznQIipGfq3fBfohJCbs79UM8qy_EGPu0vxb1UrFYKhh_3_Nb7o7riZCo1KqFpbp_of3QpXcbtcrd7KzB9YYti67FM3vJAtSU5JdI-tU43PM7-ZI_UCEP23zbbSxGlXzjeF9a31WlFk7ocBxCdfPEsbcQIPZYgadNr0S9g1pSD2IZJ_ykSU9Qi1kCCUf9evKiRKy8MwSoouCecvaSjwp8Hvv26B_vzoqJpGA7EPjX0sYa1SoewOImfBJQ-k6r4ZqS6QjjNKLVbnnybYeBo4sp1equYhrCEzmOUz--w_rQGIqmFE8FFqCi5IIp7Bd_ac7H8WPfx_7kmS6KZObNH3AiFD-umBIHxg5rvA5dEYL591aA6laLZKr3ZytpO-OTVHDHK2gMp8Q-VYDs8_KocDR1EB-SooHonFx_KGO978ye73bQYbgk3rSa_Ljd4avJc5t0zcoXm_iL6Oy_F397P-8IKSwomoLTN-mr7kLThWXoCQDYe7ZQUDtWWdgrx61Mx8MVps8ktBEKe4aI8B_JKHbmfTKyavXfbojXv7298C35fggBOB6OWGiTqtMujKXsGTeU4n9m8zFlZKt-CzU1R0-PZs4B32l_2cORPrq0d5ebvK6jtSOgfJDPVCZH4N7SCfoq_6_mAPMsDau2sJ1EJ1ntfTxZxI1QeioxycXjCISMXYwLDUPWxdpoqAz6B_SnLDzQ1-Kxtpdgm6CTwAlD2i0hotJ2ssPZsYVZA-s2wa8Wju4KsIpC81HiFoTRsIUKQGmZtzRo30wewNper35IC6CZA5Lv6mg9wTewlBi2MnGaAlk5-gU-FhRtHS32tDHUMCC0Nrpah8svCOuPTODS3g5Jdm_7gi8akDa056TWANc3m19QQ3UWRSOmkD3F5HHyQj6fDgFP-KeDVOWy8LCpXfkK8Jyqu15ndk35fFFWwHdHsJYL_bEBUVDgzjuMibrILRg0j0stujZm4MqnNeU66dUmQceW5-tBc3RuYs7y4Q-VmTkafKaWBPv8FvP4HBDqlsqAUf5XrPYaX_1ntgyxp2Le4CZkEk5V3aZXhy39bpXnNTLEUY31EU9S6m-utHTlNF42tUFF0vEyDxC3plFv22NyHjqJOdQa-7hu1xPkeVLYQSHatkLG-Xgrh3XfO9rGv_dktdVfyRqPa7aojGiX82wWjdR40O2YiKoK6u3EItFccx2-QfYIkrnx8vAoIAJTh5ar8k4mXxpny3H6P4fKMwKSStmot7D5uuL1",
-  "salt": "yEb7Sa7-r6JOTR0-rK6A7w==",
-  "text": "Sínann is an Irish river goddess. She rules the River Shannon, the great waterway that cuts across Ireland. Her name gives the river its power and its place in legend. In the tales she is counted among the river goddesses of the Celts, alongside Bóand, who gives her name to the River Boyne.\n\nThe central story of Sínann concerns wisdom. A secret well of wisdom lay beneath the white mountain Cuilcagh in County Cavan. In that pool swam the salmon of wisdom. Sínann caught the salmon and ate it. As the fish's wisdom flooded into her, the well rose up and drowned her, taking the wisdom with her.\n\nTwo readings of the tale survive. Some read it as a warning against women who seek wisdom. Others read it as a creation myth, in which the goddess gives herself to form a great river. The same story is told of Bóand, making the one well the source of two of Ireland's most important rivers.",
-  "okr": {
-    "objective": "Replace the weak machine text for Sínann with a fresh CSG-SME1000 rewrite from Monaghan.",
-    "key_results": [
-      "text names Sínann as the river goddess of the Shannon",
-      "text recounts the salmon of wisdom and the drowning at Cuilcagh",
-      "text records the two readings: warning and creation myth",
-      "entities and attributes fixed and enriched"
-    ],
-    "evidence": "Monaghan 2003 (Sínann, Shannon, river goddesses, salmon of wisdom, Cuilcagh, County Cavan, Bóand, Segáis/Connla's well)."
+ "name": "Sínann",
+ "entities": [
+  {
+   "entity": "Sínann",
+   "type": "Person"
+  },
+  {
+   "entity": "River Shannon",
+   "type": "Place"
+  },
+  {
+   "entity": "Bóand",
+   "type": "Person"
+  },
+  {
+   "entity": "salmon of wisdom",
+   "type": "Being"
+  },
+  {
+   "entity": "well of wisdom",
+   "type": "Place"
+  },
+  {
+   "entity": "Cuilcagh",
+   "type": "Place"
+  },
+  {
+   "entity": "County Cavan",
+   "type": "Place"
+  },
+  {
+   "entity": "Lir",
+   "type": "Person"
+  },
+  {
+   "entity": "Connla's Well",
+   "type": "Irish mythological site"
+  },
+  {
+   "entity": "Segáis",
+   "type": "Place"
   }
+ ],
+ "attributes": [
+  {
+   "entity": "Sínann",
+   "attribute": "an Irish river goddess who rules the River Shannon"
+  },
+  {
+   "entity": "Bóand",
+   "attribute": "the river goddess of the Boyne, whose fate mirrors Sínann"
+  },
+  {
+   "entity": "salmon of wisdom",
+   "attribute": "a fish whose flesh gave wisdom to the one who ate it"
+  },
+  {
+   "entity": "well of wisdom",
+   "attribute": "the pool beneath Cuilcagh that drowned Sínann"
+  },
+  {
+   "entity": "Sínann",
+   "attribute": "goddess of the River Shannon and granddaughter of the sea-god Lir"
+  },
+  {
+   "entity": "Sínann",
+   "attribute": "sought hidden knowledge at Connla's Well and was drowned by its rising waters"
+  },
+  {
+   "entity": "Sínann",
+   "attribute": "the Shannon was then named for her"
+  },
+  {
+   "entity": "Sínann",
+   "attribute": "a nearly identical tale tells of Bóand at the Well of Segais"
+  },
+  {
+   "entity": "Sínann",
+   "attribute": "name forms include Sinand, Sinend, Sinent, Sinainn, Sionnainn, and Sionann"
+  }
+ ],
+ "sources": [
+  "Gwynn, Edward. The Metrical Dindshenchas. Vol. III. Royal Irish Academy, Todd Lecture Series. Dublin: Hodges, Figgis, and Co., Ltd, 1906–1924. Reprinted Dublin Institute for Advanced Studies, School of Celtic Studies, 1991. Vol. III, pp. 287–291.",
+  "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.",
+  "MacKillop 2008, s.v. 'Sinann'"
+ ],
+ "cyphertext": "izoPFCFFdaoQDofa-Y5QHkxVGM8aOcp4S8rYweBJqeGgqsOvSzVUgiUKtJuJMeDae-nv3cNWxbSAdzfayhZK8pmVoKW90wNAKXjhv5Vva0fvPmtG87SoLla7kOgiwrhUB9oLb64ZioByHCSr0S-yzhUQUON7QQxKfFBHIFwBoA--xC3GtVE4nAY4jKlbi2saWAKVZBacbqT4yDFj7X0_j_uR9bE9E2IKFj8LmdHjZQsr3tgGqQmbKXU_TuVxumBnX0tiM1Z0eJ_sm2drYBj3RJcuhYAaj-UOAnR1BNMBGclwfTbpw1MhnTuqG-2xAUKqpVZZ13dpgy05rtaRKYZmNXOy1rMb9GKymt8ASvU36K8AyODFeyGjp5Mo-Yy9BKEHlNSu_RhWOqiFTQq8eXk3MqGQenGkKXiCHTtNVZDRwwwAI7NcmqI4fIs2553wDrAdjfTWCS_1Wg7nolRmVIIWnZSQyiCnKfITikakG1TwyfrGMcUJ-74AR5dc-76TYl1CWhpOlr7d-XoefyhQvRZhXmb1JZTVoU6iQFNO-yIZX467obAIUlqtPdaIFqoGeve7LPJhRzqo1KHh_tGN97ssjwkua3U2D25gRlgw_FrXlLrl1pvXofzO1YBcGplqlCAGyci4O0C75zk6tN16gshuifR-1mmfetnwI1f2Z_7qRBajScyLpsW0lnwsFEH7rI5S5AC95hX9SASJ1YfL_TIFi9NjGxUpghBfaOXRDhNGWgvHH7C1t1t9jYezGFRNt9wryiq117ttpJyG2oB_RTjnZojm40NI7wHo8DzsE9BTiw7aUBSD0hfyO8CR1QkSm9KPgNGSIrt2BVp_5Ecfotfzn2YwuvR1nwjF-ceSHqwusx95vbJUYoakEsznvporjhGpLnvhuJ6STFHtSOp3lWphnliNH4UYNZfnrEo1uCOINaRSQGzTgcCLJ0DEtKAKRcHcYL-9FZLhXdokB6PVhtCJ4NxXb53oieb5W4PRSIDPWxx0Diq708VoJkG04afRGc0lGkP21HZNZCkxL3hHxwktg3H5LeQ1z3c4yBQ4HveKeFxgA0fAsK1_Ga992ofTuF2YkvoFhthN42Uptb60XP1jpOedlATD7wlofK6kgvkd-f5yYwbruU7gZ0WpCyYY66b90v5n4wvsqRTUOLh3OfT-75CqZaHykdoxoGdDjgOSzac-ERe2PYIqNmj-tvU5PU4jeez2GPrmiecr98jmrzGAIMUHN9WBKFsqaXcTDNUmN0rRYGyqzsvL2Y6zoUNPbfMXbVjBmuXRFqT7Fr36g_yULV6_unR2TvH0eyxIs5NCBBWvDga_5V_cWRup1Q0QFTCCipot2Zg_wpDRuXGkR8xajVVkD9oHSQbW_WWiAZT0ErG2_jbdR_DeTL4WPing6wQFxvGk8rT3VTJlMz1xegXGwDSMS17uha2Fm2aouuLtTWb8agBk9POYHZsq18Xn_9r0sbYMEEj5Jp6wNU1gGt0s8Lin8NIvtiooZlHK7Z7sh4hjxplZvoXHAqI-lBrYTMoQUowfX-wuinMGO3hbJCMCbq3Rg3oRb-hUAwit0jRLujucG4TcNc_Dl_oBWoG3Auo-eb_sVV2YmjufNT2JS_BqGeW6jJpqKTw01rmM7eQcPKbM1lqlhsMcRdhTuhLchamdDfpnBnYL9XvYgUtFZONAWycdDzw5eRwti8dFo-dGAhNQP1c6oQj_rSnssaPxojzbAGwwznQIipGfq3fBfohJCbs79UM8qy_EGPu0vxb1UrFYKhh_3_Nb7o7riZCo1KqFpbp_of3QpXcbtcrd7KzB9YYti67FM3vJAtSU5JdI-tU43PM7-ZI_UCEP23zbbSxGlXzjeF9a31WlFk7ocBxCdfPEsbcQIPZYgadNr0S9g1pSD2IZJ_ykSU9Qi1kCCUf9evKiRKy8MwSoouCecvaSjwp8Hvv26B_vzoqJpGA7EPjX0sYa1SoewOImfBJQ-k6r4ZqS6QjjNKLVbnnybYeBo4sp1equYhrCEzmOUz--w_rQGIqmFE8FFqCi5IIp7Bd_ac7H8WPfx_7kmS6KZObNH3AiFD-umBIHxg5rvA5dEYL591aA6laLZKr3ZytpO-OTVHDHK2gMp8Q-VYDs8_KocDR1EB-SooHonFx_KGO978ye73bQYbgk3rSa_Ljd4avJc5t0zcoXm_iL6Oy_F397P-8IKSwomoLTN-mr7kLThWXoCQDYe7ZQUDtWWdgrx61Mx8MVps8ktBEKe4aI8B_JKHbmfTKyavXfbojXv7298C35fggBOB6OWGiTqtMujKXsGTeU4n9m8zFlZKt-CzU1R0-PZs4B32l_2cORPrq0d5ebvK6jtSOgfJDPVCZH4N7SCfoq_6_mAPMsDau2sJ1EJ1ntfTxZxI1QeioxycXjCISMXYwLDUPWxdpoqAz6B_SnLDzQ1-Kxtpdgm6CTwAlD2i0hotJ2ssPZsYVZA-s2wa8Wju4KsIpC81HiFoTRsIUKQGmZtzRo30wewNper35IC6CZA5Lv6mg9wTewlBi2MnGaAlk5-gU-FhRtHS32tDHUMCC0Nrpah8svCOuPTODS3g5Jdm_7gi8akDa056TWANc3m19QQ3UWRSOmkD3F5HHyQj6fDgFP-KeDVOWy8LCpXfkK8Jyqu15ndk35fFFWwHdHsJYL_bEBUVDgzjuMibrILRg0j0stujZm4MqnNeU66dUmQceW5-tBc3RuYs7y4Q-VmTkafKaWBPv8FvP4HBDqlsqAUf5XrPYaX_1ntgyxp2Le4CZkEk5V3aZXhy39bpXnNTLEUY31EU9S6m-utHTlNF42tUFF0vEyDxC3plFv22NyHjqJOdQa-7hu1xPkeVLYQSHatkLG-Xgrh3XfO9rGv_dktdVfyRqPa7aojGiX82wWjdR40O2YiKoK6u3EItFccx2-QfYIkrnx8vAoIAJTh5ar8k4mXxpny3H6P4fKMwKSStmot7D5uuL1",
+ "salt": "yEb7Sa7-r6JOTR0-rK6A7w==",
+ "text": "Sínann is the goddess of the River Shannon and the granddaughter of Lir, the sea-god. Her name takes many recorded shapes, among them Sinand, Sinend, Sinent, Sinainn, Sionnainn, and Sionann. In her best-known story she sets out for Connla's Well, sometimes called the Well of Cóelrind, to win hidden knowledge. The well denies her that knowledge, for she has broken its protocols. In its anger the water swells up and drowns her. Her body washes ashore on a river bank, and the Shannon takes its name from her. The tale gives the great river a divine death at its source. A near twin of the tale tells of Bóand at the Well of Segais, the source of the Boyne. That well may be one with Connla's. Both stories tie wisdom to a price paid in the water. The story gives the river both its name and its goddess. It joins Sínann to the long line of Celtic water deities who die into the waters they become.",
+ "okr": {
+  "objective": "Tell the drowning of Sínann and the naming of the Shannon.",
+  "key_results": [
+   "Record her descent from Lir and her rule of the Shannon",
+   "Tell the broken protocols at Connla's Well and the fatal flood",
+   "Set her tale beside Bóand's at the Well of Segais",
+   "List the recorded name forms of the goddess"
+  ],
+  "evidence": "MacKillop 2008, s.v. 'Sinann'."
+ }
 }

@@ -1,56 +1,106 @@
 {
-  "name": "Slievenamon",
-  "attributes": [
-    {
-      "entity": "Slievenamon",
-      "attribute": "cairn-crowned hill in east Munster"
-    },
-    {
-      "entity": "Fionn Mac Cumhaill",
-      "attribute": "chose a wife through a footrace on the hill"
-    },
-    {
-      "entity": "Gráinne",
-      "attribute": "king's daughter who outran all the women of Munster"
-    },
-    {
-      "entity": "Munster",
-      "attribute": "province where the hill of the fair women stands"
-    }
-  ],
-  "entities": [
-    {
-      "entity": "Slievenamon",
-      "type": "Place"
-    },
-    {
-      "entity": "Fionn Mac Cumhaill",
-      "type": "Hero"
-    },
-    {
-      "entity": "Gráinne",
-      "type": "Person"
-    },
-    {
-      "entity": "Munster",
-      "type": "Place"
-    }
-  ],
-  "sources": [
-    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-  ],
-  "image": [
-    "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Slievenamon_2006-07-01.jpg/1200px-Slievenamon_2006-07-01.jpg"
-  ],
-  "cyphertext": "ZyHIPYQBmVvTMsjsLJMtD05Dka6BDJejwlVkpgf5xnjWu7bdzij9IF59_0KmDvfH4YnIE9G1R-wXr_yb0D8J7dkM3zquy5LYhckhq8z-ffmqGegwpzpjDvfrVoZzzi0BbC1NUK9RnniLbEf6dUazoAfXco-WbqS4w1wY1ZiO5qiy6m-4ngVmC2HShNRXJ_I2_2mBr95PcHni4N7m0cWIYqGRMMHof6pDmwyCvsMvTPtH33-dWY_chNxCMXjGyLRvj130i2_Jqu-syPiv077kbopp2lQwUNWPC_2RMAIC2od5g2JiOYOd_HWTsh6_DKBNxidWNFw_unsUqUYfFme-QbUqA8N75sq_vY0EUUCWbpVtb7xMqx-DDJIVy8Gzybpc4jpukFhED7qpV5kxt22GomCyM7OW6FNiS-W0VVsj8NZSDgQXhnHswe4NbL9DL_oe3PTOGOW3uZVQ4nZ16I2EttvWWJ0gds-B36w9zMM9vYEDQJu4AtJcmFzNWB3nXyu7yy91uFVt0Sbs6f6MTo7KRQXMlxWug3BFNv1GNU7MYflRnc-104wjejobKqD91TM3CiFIFKt_Z8Nw4Kkc3BOA7TZ1skjY_BqL7Svg8iTWTmevPkYKOH5oCWc09vBbw-gIz36_iwigp8Xy5KDtvPeBU7UHCJV8xExkNv3q0KZeOgkkNFELab57hwogYoBdxnM1L0lPrB2SNAA_9_Vw15uI2QXFKIYrrEcGBYL_Y5Z68Lp-a_dbE-PbZiM0uQ9-Cg6luEX4E9cQPP0TTGl3m1tGjh4lfiA4hLnXRmwXtQ8t3EVDDCs8A6yiew==",
-  "salt": "4-3CbQoYi6FYMhriBgLxxA==",
-  "text": "Slievenamon is a hill of Irish myth. It rises in the east of Munster. Folk lore calls it the Hill of Fair Women. Old stories tell how the hero Fionn mac Cumhaill chose a wife by a footrace. Fionn desired a young partner. He stood on the cairn that crowns the hill and gave the signal. All the young women of the province ran toward him. Gráinne, the strong daughter of the king, outran every rival and reached the hilltop first. The tale links the mountain to the race and the brides who ran it. Some versions say Gráinne did not bear the promised sons. Others hold that after her lover died she returned and bore children for Fionn. The hill keeps the memory of the contest, the cairn, and the swift woman who won the field.",
-  "okr": {
-    "objective": "Replace the machine text for Slievenamon with a fresh CSG-SME1000 rewrite sourced from Monaghan and Koch.",
-    "key_results": [
-      "text holds a fresh CSG-SME1000 rewrite, not a copy of the machine prose",
-      "entities and attributes corrected and enriched for the kgraph"
-    ],
-    "evidence": "Monaghan 2003 (Fionn entry, Munster footrace legend); Koch 2006 (Párliament na mBan)."
+ "name": "Slievenamon",
+ "attributes": [
+  {
+   "entity": "Slievenamon",
+   "attribute": "cairn-crowned hill in east Munster"
+  },
+  {
+   "entity": "Fionn Mac Cumhaill",
+   "attribute": "chose a wife through a footrace on the hill"
+  },
+  {
+   "entity": "Gráinne",
+   "attribute": "king's daughter who outran all the women of Munster"
+  },
+  {
+   "entity": "Munster",
+   "attribute": "province where the hill of the fair women stands"
+  },
+  {
+   "entity": "Slievenamon",
+   "attribute": "mountain of 2,368 feet in County Tipperary, 10 miles east of Cashel"
+  },
+  {
+   "entity": "Slievenamon",
+   "attribute": "Irish Sliab na mBan, the mountain of the women"
+  },
+  {
+   "entity": "Slievenamon",
+   "attribute": "sometimes called Ireland's Parnassus"
+  },
+  {
+   "entity": "Slievenamon",
+   "attribute": "named for the women who raced up its slopes to lie with Fionn"
+  },
+  {
+   "entity": "Slievenamon",
+   "attribute": "Fionn won his thumb wisdom from a cairn door-jamb here"
+  },
+  {
+   "entity": "Slievenamon",
+   "attribute": "here he killed Cúldub and chose Gráinne for his wife"
+  },
+  {
+   "entity": "Slievenamon",
+   "attribute": "Bodb Derg was said to keep pigs that revived after being eaten"
+  },
+  {
+   "entity": "Slievenamon",
+   "attribute": "Yeats and others preferred the name Knockfefin"
   }
+ ],
+ "entities": [
+  {
+   "entity": "Slievenamon",
+   "type": "Place"
+  },
+  {
+   "entity": "Fionn Mac Cumhaill",
+   "type": "Hero"
+  },
+  {
+   "entity": "Gráinne",
+   "type": "Person"
+  },
+  {
+   "entity": "Munster",
+   "type": "Place"
+  },
+  {
+   "entity": "Femen",
+   "type": "Place"
+  },
+  {
+   "entity": "Cúldub",
+   "type": "Person"
+  },
+  {
+   "entity": "Bodb Derg",
+   "type": "Person"
+  },
+  {
+   "entity": "Knockfefin",
+   "type": "Place"
+  }
+ ],
+ "sources": [
+  "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.",
+  "MacKillop 2008, s.v. 'Slievenamon'"
+ ],
+ "image": [
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Slievenamon_2006-07-01.jpg/1200px-Slievenamon_2006-07-01.jpg"
+ ],
+ "cyphertext": "ZyHIPYQBmVvTMsjsLJMtD05Dka6BDJejwlVkpgf5xnjWu7bdzij9IF59_0KmDvfH4YnIE9G1R-wXr_yb0D8J7dkM3zquy5LYhckhq8z-ffmqGegwpzpjDvfrVoZzzi0BbC1NUK9RnniLbEf6dUazoAfXco-WbqS4w1wY1ZiO5qiy6m-4ngVmC2HShNRXJ_I2_2mBr95PcHni4N7m0cWIYqGRMMHof6pDmwyCvsMvTPtH33-dWY_chNxCMXjGyLRvj130i2_Jqu-syPiv077kbopp2lQwUNWPC_2RMAIC2od5g2JiOYOd_HWTsh6_DKBNxidWNFw_unsUqUYfFme-QbUqA8N75sq_vY0EUUCWbpVtb7xMqx-DDJIVy8Gzybpc4jpukFhED7qpV5kxt22GomCyM7OW6FNiS-W0VVsj8NZSDgQXhnHswe4NbL9DL_oe3PTOGOW3uZVQ4nZ16I2EttvWWJ0gds-B36w9zMM9vYEDQJu4AtJcmFzNWB3nXyu7yy91uFVt0Sbs6f6MTo7KRQXMlxWug3BFNv1GNU7MYflRnc-104wjejobKqD91TM3CiFIFKt_Z8Nw4Kkc3BOA7TZ1skjY_BqL7Svg8iTWTmevPkYKOH5oCWc09vBbw-gIz36_iwigp8Xy5KDtvPeBU7UHCJV8xExkNv3q0KZeOgkkNFELab57hwogYoBdxnM1L0lPrB2SNAA_9_Vw15uI2QXFKIYrrEcGBYL_Y5Z68Lp-a_dbE-PbZiM0uQ9-Cg6luEX4E9cQPP0TTGl3m1tGjh4lfiA4hLnXRmwXtQ8t3EVDDCs8A6yiew==",
+ "salt": "4-3CbQoYi6FYMhriBgLxxA==",
+ "text": "Slievenamon is a mountain of 2,368 feet in County Tipperary. It stands ten miles east of Cashel and six miles south-east of Fethard. Its Irish name, Sliab na mBan, means the mountain of the women. Older forms add Ban Finn, of the fair-haired women. Some writers call it Ireland's Parnassus. The mountain stands on the plain of Femen. That word means femininity, and the magical sídh of Femen lies near the peak. Oral tradition holds that women once raced up its slopes. The prize was the privilege of lying with Fionn mac Cumhaill, and the mountain keeps their name. Other Fenian tales set more deeds on its height. Fionn won his thumb wisdom here by catching it in a cairn's door-jamb on the way to the Otherworld. The usual story gives him that wisdom from the salmon instead. Here too he killed Cúldub, who was entering the mound with a pig. Here he chose Gráinne for his wife, and here the Fianna hunted boar. An older report gave Bodb Derg supernatural pigs on the mountain. They came alive again once eaten. For the height's name, W. B. Yeats and other writers preferred Knockfefin.",
+ "okr": {
+  "objective": "Document Sliab na mBan, the mountain of the women.",
+  "key_results": [
+   "Give the height, the county, and the women's-race name story",
+   "Record the thumb wisdom, the death of Cúldub, and the choice of Gráinne",
+   "Record Bodb Derg's reviving pigs and the Knockfefin name of Yeats"
+  ],
+  "evidence": "MacKillop 2008, s.v. 'Slievenamon'."
+ }
 }

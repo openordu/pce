@@ -1,49 +1,83 @@
 {
-  "name": "Sreng",
-  "entities": [
-    {
-      "entity": "Sreng",
-      "type": "Person"
-    },
-    {
-      "entity": "Nuada",
-      "type": "Person"
-    },
-    {
-      "entity": "Fir Bolg",
-      "type": "people"
-    },
-    {
-      "entity": "Tuatha Dé Danann",
-      "type": "people"
-    }
-  ],
-  "attributes": [
-    {
-      "entity": "Sreng",
-      "attribute": "warrior of the Fir Bolg in Mag Tuired"
-    },
-    {
-      "entity": "Nuada",
-      "attribute": "Sreng cut off his arm and lost his kingship"
-    },
-    {
-      "entity": "Fir Bolg",
-      "attribute": "the people who invaded the Tuatha Dé Danann"
-    }
-  ],
-  "sources": [
-    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-  ],
-  "cyphertext": "FZvAkBpmCl1zoo0ZC03oWdEKlxYbfl2cENx-KarevSzWJzfnxy2vjW57GcGrHMFdH3N46pbG-iAXLBQJ-9ZOLHda92NUT2SKG7LRNyV_1mFYlcpgV24LpspLcfFkprtWCxaJ_-ZuvvtK-hoHX1KVmJFOkKuV-eSdxqMnJR-v19AyRd_YJiAcH_AjfYp9XxvUuhLtCzZQ_-MjgPA94-9brO0Klb2iv-zI2Nq8k4RUwTrwnwShZpFHJaOA_njUx7Gcv-kibrtGDYJIv8oVzJs_4SUPpvUtCDX1H-3dEERjc_kKoVC-rOZDD7gqArrkkVlxFVSQoB5oM_LeIojobjOthhLb0iWvZyuLml7caXaHDWS1nydXmc3NAGLebVFvr_SvYZmNw_JULUSyYwLzy-WHz_OjEiAnPJiO0PvTWdf-ppX3gVwr-CykcghZHEU82pFH5_3YbibjzuQNkF56XOTs54psIq0txWNzdlewUyZyg5T9frcWmuHBtvigR8UfDZRwyhkGiblR17El4hm7nBatPWDjI06Sam-psY_Bk9Nc_xElSwxlyDDaIx9tLSbfP3l_cLvvjRtdAdKAIOArvIRH9ofRBHPVprUs",
-  "salt": "SgX1RJvBSjsfr1VsIDWA7Q==",
-  "text": "Sreng is an Irish hero. He is less known than Nuada, his foe in single combat in the first battle of Mag Tuired. Sreng was a warrior of the Fir Bolg. He went out to meet the invaders of the Tuatha Dé Danann. He saw that his people could not beat an enemy with magic weapons. His people would not listen to him. So Sreng fought the Tuatha Dé king Nuada. He cut off Nuada's arm. Nuada lost his kingship for a time. Sreng won the single combat, but his people still fell.",
-  "okr": {
-    "objective": "Replace the machine text for Sreng with a fresh CSG-SME1000 rewrite from Monaghan.",
-    "key_results": [
-      "text holds a fresh CSG-SME1000 rewrite",
-      "entities and attributes corrected for the kgraph"
-    ],
-    "evidence": "Monaghan 2003 (Sreng, Nuada, Fir Bolg, Tuatha Dé Danann, Mag Tuired)."
+ "name": "Sreng",
+ "entities": [
+  {
+   "entity": "Sreng",
+   "type": "Person"
+  },
+  {
+   "entity": "Nuada",
+   "type": "Person"
+  },
+  {
+   "entity": "Fir Bolg",
+   "type": "people"
+  },
+  {
+   "entity": "Tuatha Dé Danann",
+   "type": "people"
+  },
+  {
+   "entity": "Bres",
+   "type": "Person"
+  },
+  {
+   "entity": "Mag Tuired",
+   "type": "Place"
+  },
+  {
+   "entity": "Connacht",
+   "type": "Place"
   }
+ ],
+ "attributes": [
+  {
+   "entity": "Sreng",
+   "attribute": "warrior of the Fir Bolg in Mag Tuired"
+  },
+  {
+   "entity": "Nuada",
+   "attribute": "Sreng cut off his arm and lost his kingship"
+  },
+  {
+   "entity": "Fir Bolg",
+   "attribute": "the people who invaded the Tuatha Dé Danann"
+  },
+  {
+   "entity": "Sreng",
+   "attribute": "Fir Bolg warrior who cut off the right arm of Nuadu"
+  },
+  {
+   "entity": "Sreng",
+   "attribute": "first an ambassador known for delaying tactics"
+  },
+  {
+   "entity": "Sreng",
+   "attribute": "refused Bres's offer to divide Ireland on seeing Tuatha Dé weapons"
+  },
+  {
+   "entity": "Sreng",
+   "attribute": "refused to bind his own arm for a fair combat with the maimed Nuadu"
+  },
+  {
+   "entity": "Sreng",
+   "attribute": "won Connacht for the Fir Bolg as the peace settlement"
+  }
+ ],
+ "sources": [
+  "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.",
+  "MacKillop 2008, s.v. 'Sreng'"
+ ],
+ "cyphertext": "FZvAkBpmCl1zoo0ZC03oWdEKlxYbfl2cENx-KarevSzWJzfnxy2vjW57GcGrHMFdH3N46pbG-iAXLBQJ-9ZOLHda92NUT2SKG7LRNyV_1mFYlcpgV24LpspLcfFkprtWCxaJ_-ZuvvtK-hoHX1KVmJFOkKuV-eSdxqMnJR-v19AyRd_YJiAcH_AjfYp9XxvUuhLtCzZQ_-MjgPA94-9brO0Klb2iv-zI2Nq8k4RUwTrwnwShZpFHJaOA_njUx7Gcv-kibrtGDYJIv8oVzJs_4SUPpvUtCDX1H-3dEERjc_kKoVC-rOZDD7gqArrkkVlxFVSQoB5oM_LeIojobjOthhLb0iWvZyuLml7caXaHDWS1nydXmc3NAGLebVFvr_SvYZmNw_JULUSyYwLzy-WHz_OjEiAnPJiO0PvTWdf-ppX3gVwr-CykcghZHEU82pFH5_3YbibjzuQNkF56XOTs54psIq0txWNzdlewUyZyg5T9frcWmuHBtvigR8UfDZRwyhkGiblR17El4hm7nBatPWDjI06Sam-psY_Bk9Nc_xElSwxlyDDaIx9tLSbfP3l_cLvvjRtdAdKAIOArvIRH9ofRBHPVprUs",
+ "salt": "SgX1RJvBSjsfr1VsIDWA7Q==",
+ "text": "Sreng is a Fir Bolg warrior who fought at Mag Tuired in the first of its battles. There he cut off the right arm of Nuadu, the Tuatha Dé Danann king. Sreng first served his people as an ambassador skilled in delay. At the first meeting with the invaders Bres proposed a division of Ireland between the two hosts. Sreng saw how far Tuatha Dé weapons outclassed his own and refused the deal. Battle followed, and in it he cut off Nuadu's arm. The next day brought a strange request. Nuadu asked Sreng to bind his own right arm behind his back. Only so would their combat be fair. Again the answer was no. For peace, the Tuatha Dé Danann ceded the province of Connacht to Sreng and the Fir Bolg. He took the settlement. His one-armed foe held the kingship only until the next battle. The settlement bound the old people of Ireland to the west.",
+ "okr": {
+  "objective": "Document Sreng, the Fir Bolg champion of the First Battle of Mag Tuired.",
+  "key_results": [
+   "Record the maiming of Nuadu and the embassy role of Sreng",
+   "Tell the refusal of Bres's division and the refused fair combat",
+   "Record Connacht as the peace settlement for the Fir Bolg"
+  ],
+  "evidence": "MacKillop 2008, s.v. 'Sreng'."
+ }
 }

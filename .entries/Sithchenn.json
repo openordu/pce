@@ -1,53 +1,79 @@
 {
-  "name": "Sithchenn",
-  "attributes": [
-    {
-      "entity": "Sithchenn",
-      "attribute": "Irish hero who was a druid and a smith"
-    },
-    {
-      "entity": "Niall",
-      "attribute": "of the Nine Hostages, chose the anvil"
-    },
-    {
-      "entity": "anvil",
-      "attribute": "iron sign that Niall would rule from Tara"
-    }
-  ],
-  "entities": [
-    {
-      "entity": "Sithchenn",
-      "type": "Hero"
-    },
-    {
-      "entity": "druid",
-      "type": "Role"
-    },
-    {
-      "entity": "Niall",
-      "type": "King"
-    },
-    {
-      "entity": "Tara",
-      "type": "Place"
-    },
-    {
-      "entity": "anvil",
-      "type": "Artifact"
-    }
-  ],
-  "sources": [
-    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-  ],
-  "cyphertext": "rxKdT8sGMyA4UiXXstt4W2Q2ZAxpH-wZldFXibbMeJOxlMNP8pqAQZDScQMFynKXWi4vXkJAeIF0v-HkLBiYSZamoKfH3HOD2CF7YBwTY6grLg4waJXfGliH-owGyD6Zn_WlKUwGnaEpnJNhy9hq7kaOEeCgy-5LVafSrEZAR2p3mYwHbyhp06bBqm56sw9hBN9hHVjJ_fAe9YpbeGxwDu6pnohB8kzALtuNS7NEIWpz0qrz6Uwifb_Bb8xLArjEjS9s-KJWE__1RrkfeC2lAWLFOq2_8G3WnYW3AenkKJVi45rXE79ceNnjgdGD-pb-_R7LwCOdPG8d70jHdiglaBcg_x1WXP7FrN8ctTXMlCngLtUXanUOjJo_gRimmaw44rc5UR06f4ybZJJ6zAlegS4vp0nXSuubx9XoQOlTHCk_QLLDNUSCaFZnbH_04VpjC3sbgCZrU5NiEW3ZFQrwrdRiXjfwgWhC1VMhZnUOsA_OSjHixOU8OPT12he86eJrKh91xCxirDxaZDmdr3IwQm7tNhs3LMjEMB3iNXoiLs3s24SCOLLWpNUWElcKp3Ou0zgbjRLGyGnoly5MGWJDXcCgxwnyTPn51aSyR-Gb9yX8HKvWWH1l_2E_6uAP57xBrJL2nLgsRFkBz5ri0Tcb1mXJVy6SeMAF",
-  "salt": "m8tEn56lNeuiS8m8jTI4FA==",
-  "text": "Sithchenn is an Irish hero. He is named a druid and a smith. Niall of the Nine Hostages and his four brothers asked Sithchenn to give them their future. He set fire to his own forge. Then he watched what each youth took as he ran from the burning roof. Niall carried out the anvil, the smith's most valued tool. Sithchenn saw this and declared that Niall would one day lead all of Ireland. Niall would sit on the great royal seat of Tara. The anvil was the prized iron of the trade, and the one who bore it would hold the land of the island. The other brothers lost the prize. The fire named the man who would be king from the tool he chose to save first.",
-  "okr": {
-    "objective": "Replace the machine text for Sithchenn with a fresh CSG-SME1000 rewrite sourced from Monaghan.",
-    "key_results": [
-      "A fresh CSG-SME1000 rewrite replaces the machine text",
-      "entities and attributes enriched for the kgraph"
-    ],
-    "evidence": "Monaghan 2003 (Sithchenn)."
+ "name": "Sithchenn",
+ "attributes": [
+  {
+   "entity": "Sithchenn",
+   "attribute": "Irish hero who was a druid and a smith"
+  },
+  {
+   "entity": "Niall",
+   "attribute": "of the Nine Hostages, chose the anvil"
+  },
+  {
+   "entity": "anvil",
+   "attribute": "iron sign that Niall would rule from Tara"
+  },
+  {
+   "entity": "Sithchenn",
+   "attribute": "druid at the court of Eochaid Mugmedón"
+  },
+  {
+   "entity": "Sithchenn",
+   "attribute": "devised the two contests that won Niall Noígiallach the succession"
+  },
+  {
+   "entity": "Sithchenn",
+   "attribute": "in Monaghan's telling he burned his own forge to test the brothers"
+  },
+  {
+   "entity": "Sithchenn",
+   "attribute": "Niall chose the anvil and its blocks from the flames"
   }
+ ],
+ "entities": [
+  {
+   "entity": "Sithchenn",
+   "type": "Hero"
+  },
+  {
+   "entity": "druid",
+   "type": "Role"
+  },
+  {
+   "entity": "Niall",
+   "type": "King"
+  },
+  {
+   "entity": "Tara",
+   "type": "Place"
+  },
+  {
+   "entity": "anvil",
+   "type": "Artifact"
+  },
+  {
+   "entity": "Eochaid Mugmedón",
+   "type": "Person"
+  },
+  {
+   "entity": "Echtra Mac nEchach Muigmedóin",
+   "type": "Text"
+  }
+ ],
+ "sources": [
+  "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.",
+  "MacKillop 2008, s.v. 'Sithchenn'"
+ ],
+ "cyphertext": "rxKdT8sGMyA4UiXXstt4W2Q2ZAxpH-wZldFXibbMeJOxlMNP8pqAQZDScQMFynKXWi4vXkJAeIF0v-HkLBiYSZamoKfH3HOD2CF7YBwTY6grLg4waJXfGliH-owGyD6Zn_WlKUwGnaEpnJNhy9hq7kaOEeCgy-5LVafSrEZAR2p3mYwHbyhp06bBqm56sw9hBN9hHVjJ_fAe9YpbeGxwDu6pnohB8kzALtuNS7NEIWpz0qrz6Uwifb_Bb8xLArjEjS9s-KJWE__1RrkfeC2lAWLFOq2_8G3WnYW3AenkKJVi45rXE79ceNnjgdGD-pb-_R7LwCOdPG8d70jHdiglaBcg_x1WXP7FrN8ctTXMlCngLtUXanUOjJo_gRimmaw44rc5UR06f4ybZJJ6zAlegS4vp0nXSuubx9XoQOlTHCk_QLLDNUSCaFZnbH_04VpjC3sbgCZrU5NiEW3ZFQrwrdRiXjfwgWhC1VMhZnUOsA_OSjHixOU8OPT12he86eJrKh91xCxirDxaZDmdr3IwQm7tNhs3LMjEMB3iNXoiLs3s24SCOLLWpNUWElcKp3Ou0zgbjRLGyGnoly5MGWJDXcCgxwnyTPn51aSyR-Gb9yX8HKvWWH1l_2E_6uAP57xBrJL2nLgsRFkBz5ri0Tcb1mXJVy6SeMAF",
+ "salt": "m8tEn56lNeuiS8m8jTI4FA==",
+ "text": "Sithchenn is a druid at the court of Eochaid Mugmedón. His name builds on old Irish words for long head. He devises two contests by which Niall Noígiallach, Niall of the Nine Hostages, wins the succession to his father. The tale lives in the Echtra of Eochaid Mugmedón's sons. Monaghan's account fills in the trial. Niall and his four brothers came to Sithchenn to have their futures read. The druid set fire to his own forge and watched what each youth seized as he ran from the flames. One brother carried the fagots, another the bellows, another the beers. Niall came out bearing the anvil and its blocks, the heaviest and most telling load of all. That choice marked him for the kingship, for the anvil held the forge together as a king holds a people. Sithchenn stands beside the smiths and druids whose test sets the true king on his throne.",
+ "okr": {
+  "objective": "Document Sithchenn, the druid who set Niall on the road to Tara.",
+  "key_results": [
+   "Record his post at the court of Eochaid Mugmedón",
+   "Name the two contests and the tale that holds them",
+   "Tell the forge-fire trial and the choice of the anvil"
+  ],
+  "evidence": "MacKillop 2008, s.v. 'Sithchenn'."
+ }
 }

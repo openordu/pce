@@ -1,45 +1,62 @@
 {
-  "name": "Smirgat",
-  "attributes": [
-    {
-      "entity": "Smirgat",
-      "attribute": "one of the wives of Fionn and a prophet"
-    },
-    {
-      "entity": "Smirgat",
-      "attribute": "warned that drinking from a horn would kill Fionn"
-    },
-    {
-      "entity": "Fionn Mac Cumhaill",
-      "attribute": "always drank from a goblet to escape the doom"
-    }
-  ],
-  "entities": [
-    {
-      "entity": "Smirgat",
-      "type": "Heroine"
-    },
-    {
-      "entity": "Fionn Mac Cumhaill",
-      "type": "Hero"
-    },
-    {
-      "entity": "Fianna",
-      "type": "Group"
-    }
-  ],
-  "sources": [
-    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-  ],
-  "cyphertext": "aZ0LO8d4JNXrrgpiUKNTKPkKWND0gjB634wWXz2cU_HXASLeRo_layh0zOgULIng3yQpTIcu3TCxapuuukfm7SrTdkVH-OOwL5i54pMduHaKbiAMxF24W6j-nP9Zo9PAlv21uF-gV-DNhyd1L02_Rejoi8mNSFh54qhnM2vtw0cx-wbi8by5I7-iYvlt-mscn-UEh3MR81TYqY8jYkL6D8XJ_tm_mP7FU9OepvpcKVxqCi2b9N0SuG8nP2vUCdqmzBO0PPlBKWzbhFbUPBtDJVqg7WeaDr6jin-8oQdyuVeOd6h9bQO2xBErUZNIGfAHRQ9PIWeZ1BJAEWNBxFU=",
-  "salt": "o0Ty7gxlx39akpMmqRZCVw==",
-  "text": "Smirgat is a heroine of Ireland. Her second name is Smirnat. She was one of the wives of Fionn mac Cumhaill, the great leader of the Fianna. Smirgat could see the future. She told Fionn of the doom that would fall if he drank from a horn. The hero took her warning to heart. From that day he drank only from a goblet. The prophecy of Smirgat stayed close at hand and moved him to change his habit. The story marks the seer as the one that guards the king, and the house of a faithful wife who spoke the true word. The horn and the goblet show the small choice that turns a death away.",
-  "okr": {
-    "objective": "Replace the machine text for Smirgat with a fresh CSG-SME1000 rewrite sourced from Monaghan.",
-    "key_results": [
-      "A fresh CSG-SME1000 rewrite holds in the text field",
-      "entities and attributes enriched for the kgraph"
-    ],
-    "evidence": "Monaghan 2003 (Smirgat, Smirnat)."
+ "name": "Smirgat",
+ "attributes": [
+  {
+   "entity": "Smirgat",
+   "attribute": "one of the wives of Fionn and a prophet"
+  },
+  {
+   "entity": "Smirgat",
+   "attribute": "warned that drinking from a horn would kill Fionn"
+  },
+  {
+   "entity": "Fionn Mac Cumhaill",
+   "attribute": "always drank from a goblet to escape the doom"
+  },
+  {
+   "entity": "Smirgat",
+   "attribute": "daughter of Fothad Canann and a wife of Fionn mac Cumhaill"
+  },
+  {
+   "entity": "Smirgat",
+   "attribute": "foresaw that a drink from a horn would kill Fionn"
+  },
+  {
+   "entity": "Smirgat",
+   "attribute": "her warning kept Fionn to cups and bowls for life"
   }
+ ],
+ "entities": [
+  {
+   "entity": "Smirgat",
+   "type": "Heroine"
+  },
+  {
+   "entity": "Fionn Mac Cumhaill",
+   "type": "Hero"
+  },
+  {
+   "entity": "Fianna",
+   "type": "Group"
+  },
+  {
+   "entity": "Fothad Canann",
+   "type": "Person"
+  }
+ ],
+ "sources": [
+  "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.",
+  "MacKillop 2008, s.v. 'Smirgat'"
+ ],
+ "cyphertext": "aZ0LO8d4JNXrrgpiUKNTKPkKWND0gjB634wWXz2cU_HXASLeRo_layh0zOgULIng3yQpTIcu3TCxapuuukfm7SrTdkVH-OOwL5i54pMduHaKbiAMxF24W6j-nP9Zo9PAlv21uF-gV-DNhyd1L02_Rejoi8mNSFh54qhnM2vtw0cx-wbi8by5I7-iYvlt-mscn-UEh3MR81TYqY8jYkL6D8XJ_tm_mP7FU9OepvpcKVxqCi2b9N0SuG8nP2vUCdqmzBO0PPlBKWzbhFbUPBtDJVqg7WeaDr6jin-8oQdyuVeOd6h9bQO2xBErUZNIGfAHRQ9PIWeZ1BJAEWNBxFU=",
+ "salt": "o0Ty7gxlx39akpMmqRZCVw==",
+ "text": "Smirgat, also written Smirnat, is the daughter of Fothad Canann. The lists of Fionn mac Cumhaill's wives name her among their number. She had the gift of foresight, a standing power in the tales of Fionn's women. She warned her husband that he would die if he ever drank from a horn. From that day Fionn drank only from a cup or a bowl, and so held the doom at bay. Her care followed him at every feast. The warning held for his whole life, and the death she read never came by that road. Her word joined the chain of prophetic women whose sayings bind even the great heroes of the Fianna. In a world where a geis or a prophecy can kill, one wife's warning was armour.",
+ "okr": {
+  "objective": "Document Smirgat, the prophetic wife of Fionn.",
+  "key_results": [
+   "Record her father Fothad Canann and her place among Fionn's wives",
+   "Tell the horn warning that kept Fionn to cups and bowls"
+  ],
+  "evidence": "MacKillop 2008, s.v. 'Smirgat'."
+ }
 }

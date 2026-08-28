@@ -1,56 +1,90 @@
 {
-  "name": "Skye",
-  "attributes": [
-    {
-      "entity": "Skye",
-      "attribute": "largest island of the Inner Hebrides"
-    },
-    {
-      "entity": "Scáthach",
-      "attribute": "warrior woman who taught spear and sword on Skye"
-    },
-    {
-      "entity": "Cúchulainn",
-      "attribute": "hero who traveled to train with Scáthach"
-    },
-    {
-      "entity": "mermaid",
-      "attribute": "the fair-headed families of Skye come from them"
-    }
-  ],
-  "entities": [
-    {
-      "entity": "Skye",
-      "type": "Place"
-    },
-    {
-      "entity": "Scáthach",
-      "type": "Person"
-    },
-    {
-      "entity": "Cúchulainn",
-      "type": "Hero"
-    },
-    {
-      "entity": "mermaid",
-      "type": "Being"
-    }
-  ],
-  "sources": [
-    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-  ],
-  "image": [
-    "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Flag_of_the_Isle_of_Skye.svg/1200px-Flag_of_the_Isle_of_Skye.svg.png"
-  ],
-  "cyphertext": "N5ioDL0H0WOD6inBrjjJLgsRW4MZO4l90nEAnPzO0b9QRSqPNykUHg0quuyaAkraBB_uVMQS6e5nmETfJrTTBnbNNtlrq6E2dSO8M3Rq3TomxT0oCpGHb7GrreXq2aKgpvbJkeghe00DURcajWtQUIjlAflHSSPWNYx9JIs9nbnu9q2DQNkGF7gCeyIItvSTbULPm8QHb5H1nBvvlYoHKVJQWCHD-9b0FFrZov8uRP-q8BvmBA==",
-  "salt": "-QVH1YrvY84QqT1if0fMNA==",
-  "text": "Skye is a Scottish mythological site. The Isle of Skye lies off the west coast of Scotland. It is the largest island of the Inner Hebrides. The isle was named after the warrior woman Scáthach. She ran a school of battle on the isle. The hero Cúchulainn was sent to train with her so he could become the greatest of the Irish warriors. The isle holds the memory of that school of blades. The shore holds another story. The folk of Skye say the fair-headed families come from the mermaids. The houses named Morrow, MacMorrow, MacCodrum, and MacMurray are their living kin. So the isle joins the battle-school of Scáthach with the sea people who rose from the deep. The name Skye is bound to the woman who gave it the strength of the water and the blade together.",
-  "okr": {
-    "objective": "Replace the machine text for Skye with a fresh CSG-SME1000 rewrite from Monaghan.",
-    "key_results": [
-      "A fresh CSG-SME1000 rewrite holds in the text field",
-      "entities and attributes enriched for the kgraph"
-    ],
-    "evidence": "Monaghan 2003 (Skye; Scáthach; mermaid entry for the Morrow lines)."
+ "name": "Skye",
+ "attributes": [
+  {
+   "entity": "Skye",
+   "attribute": "largest island of the Inner Hebrides"
+  },
+  {
+   "entity": "Scáthach",
+   "attribute": "warrior woman who taught spear and sword on Skye"
+  },
+  {
+   "entity": "Cúchulainn",
+   "attribute": "hero who traveled to train with Scáthach"
+  },
+  {
+   "entity": "mermaid",
+   "attribute": "the fair-headed families of Skye come from them"
+  },
+  {
+   "entity": "Skye",
+   "attribute": "Gaelic An t-Eilean Sgiathanach, the winged isle, about 670 square miles"
+  },
+  {
+   "entity": "Skye",
+   "attribute": "known to Ptolemy in the second century as Sketis"
+  },
+  {
+   "entity": "Skye",
+   "attribute": "home of Scáthach, the amazonian teacher of Cúchulainn"
+  },
+  {
+   "entity": "Skye",
+   "attribute": "the fort name Dún Scáthaig implies the isle was named for her"
+  },
+  {
+   "entity": "Skye",
+   "attribute": "the Dunscaith ruin carries her attribution"
   }
+ ],
+ "entities": [
+  {
+   "entity": "Skye",
+   "type": "Place"
+  },
+  {
+   "entity": "Scáthach",
+   "type": "Person"
+  },
+  {
+   "entity": "Cúchulainn",
+   "type": "Hero"
+  },
+  {
+   "entity": "mermaid",
+   "type": "Being"
+  },
+  {
+   "entity": "Dunscaith",
+   "type": "Place"
+  },
+  {
+   "entity": "Ptolemy",
+   "type": "Person"
+  },
+  {
+   "entity": "Dún Scáthaig",
+   "type": "Place"
+  }
+ ],
+ "sources": [
+  "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.",
+  "MacKillop 2008, s.v. 'Skye'"
+ ],
+ "image": [
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Flag_of_the_Isle_of_Skye.svg/1200px-Flag_of_the_Isle_of_Skye.svg.png"
+ ],
+ "cyphertext": "N5ioDL0H0WOD6inBrjjJLgsRW4MZO4l90nEAnPzO0b9QRSqPNykUHg0quuyaAkraBB_uVMQS6e5nmETfJrTTBnbNNtlrq6E2dSO8M3Rq3TomxT0oCpGHb7GrreXq2aKgpvbJkeghe00DURcajWtQUIjlAflHSSPWNYx9JIs9nbnu9q2DQNkGF7gCeyIItvSTbULPm8QHb5H1nBvvlYoHKVJQWCHD-9b0FFrZov8uRP-q8BvmBA==",
+ "salt": "-QVH1YrvY84QqT1if0fMNA==",
+ "text": "The Isle of Skye lies off the west coast of Scotland. It is the largest island of the Inner Hebrides, about 670 square miles in extent. Its Gaelic name, An t-Eilean Sgiathanach, means the winged isle, and visitors also call it the Misty Isle. Ptolemy knew it in the second century as Sketis, though he set it badly out of place on his map. The island holds a rich oral tradition and appears often in Irish and Scottish Gaelic narrative. Its early fame rests on Scáthach, the amazonian teacher of Cúchulainn and other heroes, whose school stood there. An Irish name for one island fort was Dún Scáthaig, the fort of Scáthach. That name implies the isle itself bore hers. The ruin called Dunscaith, once held by the barons of Sleat, carries her attribution still. Writers on the island's lore include McCulloch's collections and Otta Swire's 1952 volume on the island and its legends.",
+ "okr": {
+  "objective": "Document the Isle of Skye and its tie to Scáthach.",
+  "key_results": [
+   "Give the island's size, its winged-isle name, and Ptolemy's Sketis",
+   "Place Scáthach's school and the fort Dún Scáthaig on the isle",
+   "Record the Dunscaith ruin and its attribution"
+  ],
+  "evidence": "MacKillop 2008, s.v. 'Skye'."
+ }
 }
