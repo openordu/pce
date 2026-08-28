@@ -609,3 +609,6 @@ layout: layouts/pce.njk
 - [Cormac_Gelta_Gáeth](Cormac_Gelta_Gáeth)
 - [Cormac_Ua_Cuinn](Cormac_Ua_Cuinn)
 - [Cormac_Ulfhada](Cormac_Ulfhada)
+- [Cormac_mac_Aililla](Cormac_mac_Aililla)
+- [Cormac_mac_Carthaig](Cormac_mac_Carthaig)
+- [Cormac_mac_Cuilennáin](Cormac_mac_Cuilennáin)

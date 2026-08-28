@@ -1,0 +1,51 @@
+{
+  "name": "Cormac mac Carthaig",
+  "text": "Cormac mac Carthaig ruled Munster in the twelfth century. He backed the raising of Cormac's Chapel, the Romanesque church at Cashel, and later generations kept his name upon it. His enemies killed him in 1138. The chapel still stands on the Rock of Cashel.",
+  "entities": [
+    {
+      "entity": "Cormac mac Carthaig",
+      "type": "person"
+    },
+    {
+      "entity": "Munster",
+      "type": "place"
+    },
+    {
+      "entity": "Cashel",
+      "type": "place"
+    },
+    {
+      "entity": "Cormac's Chapel",
+      "type": "building"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Cormac mac Carthaig",
+      "attribute": "king of Munster"
+    },
+    {
+      "entity": "Cormac mac Carthaig",
+      "attribute": "backed Cormac's Chapel at Cashel"
+    },
+    {
+      "entity": "Cormac mac Carthaig",
+      "attribute": "slain 1138"
+    }
+  ],
+  "okr": {
+    "objective": "Record Cormac mac Carthaig, the twelfth-century king of Munster behind Cormac's Chapel.",
+    "key_results": [
+      "Set him as twelfth-century king of Munster.",
+      "Record his backing of the Romanesque chapel at Cashel that carries his name.",
+      "Note his death at rival hands in 1138."
+    ],
+    "evidence": "MacKillop, Dictionary of Celtic Mythology"
+  },
+  "sources": [
+    "MacKillop 2008, s.v. 'Cormac mac Carthaig'."
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": ""
+}
