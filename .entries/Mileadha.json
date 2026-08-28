@@ -1,0 +1,38 @@
+{
+  "name": "Mileadha",
+  "text": "Mileadha is a warped spelling of the Milesians' name. That people stand as the last of Ireland's mythic invaders in the pseudo-history Lebor Gabála.",
+  "entities": [
+    {
+      "entity": "Mileadha",
+      "type": "Group"
+    },
+    {
+      "entity": "Milesians",
+      "type": "Group"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Mileadha",
+      "attribute": "corrupt form of the Milesians' name"
+    },
+    {
+      "entity": "Mileadha",
+      "attribute": "name form tied to the last invading people of the pseudo-history"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Mileadha'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Documents Mileadha as recorded in MacKillop 2008 for the Public Celtic Encyclopedia.",
+    "key_results": [
+      "Mileadha is a corrupted spelling of the Milesians' name.",
+      "The Milesians are the last mythic invaders of Ireland."
+    ],
+    "evidence": "MacKillop 2008, s.v. Mileadha."
+  }
+}

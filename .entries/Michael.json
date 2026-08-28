@@ -1,0 +1,42 @@
+{
+  "name": "Michael",
+  "text": "Saint Michael is treated in this dictionary under Lugh Lámfhota. The cross-reference reflects how the saint took over motifs that older tradition attached to the god.",
+  "entities": [
+    {
+      "entity": "Michael",
+      "type": "Person"
+    },
+    {
+      "entity": "Lugh",
+      "type": "Deity"
+    },
+    {
+      "entity": "Lugh Lámfhota",
+      "type": "Deity"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Michael",
+      "attribute": "dictionary coverage sits under Lugh Lámfhota"
+    },
+    {
+      "entity": "Michael",
+      "attribute": "saint whose lore the dictionary reads beside Lugh Lámfhota"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Michael'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Documents Michael as recorded in MacKillop 2008 for the Public Celtic Encyclopedia.",
+    "key_results": [
+      "The entry redirects readers to Lugh Lámfhota.",
+      "The pairing marks saint and god as sharing material."
+    ],
+    "evidence": "MacKillop 2008, s.v. Michael."
+  }
+}

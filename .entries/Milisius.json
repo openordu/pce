@@ -1,0 +1,42 @@
+{
+  "name": "Milisius",
+  "text": "Milisius is a Latinized form of Míl Espáine, the ancestor of the Milesians. Writers reached for the Latin dress when they placed the ancestor in learned prose.",
+  "entities": [
+    {
+      "entity": "Milisius",
+      "type": "Person"
+    },
+    {
+      "entity": "Míl",
+      "type": "Person"
+    },
+    {
+      "entity": "Milesians",
+      "type": "Group"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Milisius",
+      "attribute": "Latinized form of Míl Espáine"
+    },
+    {
+      "entity": "Milisius",
+      "attribute": "Latin dress of the Milesian ancestor's name"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Milisius'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Documents Milisius as recorded in MacKillop 2008 for the Public Celtic Encyclopedia.",
+    "key_results": [
+      "Milisius dresses the name Míl Espáine in Latin.",
+      "Míl heads the Milesian pedigree."
+    ],
+    "evidence": "MacKillop 2008, s.v. Milisius."
+  }
+}

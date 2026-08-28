@@ -1,0 +1,60 @@
+{
+  "name": "Miodhchaoin",
+  "text": "Miodhchaoin, with the variant spellings Midchain and Mochaen, is an ogre who stands guard over a hill in northern Lochlainn. In Oidheadh Chlainne Tuireann, the tale of the Tuireann children's doom, Lug Lámfhota sends Tuirenn's three sons to wring three shouts from him. That errand is one of the tasks that ends in their deaths. Miodhchaoin's own sons are named as Áed (io), Conn, and Core.",
+  "entities": [
+    {
+      "entity": "Miodhchaoin",
+      "type": "Being"
+    },
+    {
+      "entity": "Lochlainn",
+      "type": "Place"
+    },
+    {
+      "entity": "Lugh",
+      "type": "Deity"
+    },
+    {
+      "entity": "Tuirenn",
+      "type": "Person"
+    },
+    {
+      "entity": "Oidheadh Chlainne Tuireann",
+      "type": "Text"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Miodhchaoin",
+      "attribute": "ogre-guardian of a hill in northern Lochlainn"
+    },
+    {
+      "entity": "Miodhchaoin",
+      "attribute": "variants Midchain, Mochaen"
+    },
+    {
+      "entity": "Miodhchaoin",
+      "attribute": "his three shouts are one of the Tuireann tasks"
+    },
+    {
+      "entity": "Miodhchaoin",
+      "attribute": "sons named Áed (io), Conn, and Core"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Miodhchaoin'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Documents Miodhchaoin as recorded in MacKillop 2008 for the Public Celtic Encyclopedia.",
+    "key_results": [
+      "Miodhchaoin guards a hill in northern Lochlainn.",
+      "Lug Lámfhota sent the three sons of Tuirenn to take three shouts from him.",
+      "The errand for his shouts helped bring the Tuireann sons to their deaths.",
+      "His sons are Áed (io), Conn, and Core."
+    ],
+    "evidence": "MacKillop 2008, s.v. Miodhchaoin."
+  }
+}
