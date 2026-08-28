@@ -1,0 +1,84 @@
+{
+  "name": "Congal",
+  "text": "Congal is an Irish male name built on a word for conflict, fight, or attack. Several figures of Irish history and legend carry it. The best known is Congal Caech, the One-eyed, a shadowy but historical king of Ulster of the seventh century. He led Dal nAraide, a small realm east of Lough Neagh, and rose to hold the kingship of Ulster itself. The high king Domnall slew him in the fight at Mag Rath by Moira in the year 637. The tale of that fight appears in the Buile Shuibne. The poet Samuel Ferguson put this obscure ruler at the centre of Congal, his verse epic of 1872. That work stands as the one epic poem of Anglo-Irish letters, and it follows the manner of George Chapman's Elizabethan rendering of the Iliad. A second Congal acts as the foster-brother of Mael Fothartaig in Fingal Ronan, the tale that tells how Ronan slew his own son.",
+  "entities": [
+    {
+      "entity": "Congal",
+      "type": "person"
+    },
+    {
+      "entity": "Congal Caech",
+      "type": "person"
+    },
+    {
+      "entity": "Ulster",
+      "type": "place"
+    },
+    {
+      "entity": "Dal nAraide",
+      "type": "group"
+    },
+    {
+      "entity": "Domnall",
+      "type": "person"
+    },
+    {
+      "entity": "Mag Rath",
+      "type": "place"
+    },
+    {
+      "entity": "Moira",
+      "type": "place"
+    },
+    {
+      "entity": "Buile Shuibne",
+      "type": "tale"
+    },
+    {
+      "entity": "Samuel Ferguson",
+      "type": "person"
+    },
+    {
+      "entity": "Mael Fothartaig",
+      "type": "person"
+    },
+    {
+      "entity": "Fingal Ronan",
+      "type": "tale"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Congal",
+      "attribute": "Irish name from a word for fight or attack"
+    },
+    {
+      "entity": "Congal Caech",
+      "attribute": "one-eyed seventh-century king of Ulster"
+    },
+    {
+      "entity": "Mag Rath",
+      "attribute": "battle of 637 where Domnall slew Congal"
+    },
+    {
+      "entity": "Samuel Ferguson",
+      "attribute": "wrote the 1872 epic Congal"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Congal'."
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Record the Irish name Congal and its chief bearers in history and legend.",
+    "key_results": [
+      "Give the etymology from the Irish word for conflict, fight, or attack.",
+      "Identify Congal Caech, the one-eyed seventh-century king of Ulster from Dal nAraide.",
+      "Place his death at the Battle of Mag Rath in 637 at the hands of Domnall.",
+      "Note Samuel Ferguson's 1872 epic Congal and the Fingal Ronan foster-brother."
+    ],
+    "evidence": "MacKillop, Dictionary of Celtic Mythology, 2008"
+  }
+}

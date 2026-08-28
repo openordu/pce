@@ -20,6 +20,130 @@
     {
       "entity": "Cétchathach",
       "type": "epithet"
+    },
+    {
+      "entity": "Conn Cétchathach",
+      "type": "person"
+    },
+    {
+      "entity": "Lia Fáil",
+      "type": "artifact"
+    },
+    {
+      "entity": "Tuathal Techtmar",
+      "type": "person"
+    },
+    {
+      "entity": "Medb Lethderg",
+      "type": "person"
+    },
+    {
+      "entity": "Cathaír Mór",
+      "type": "person"
+    },
+    {
+      "entity": "Eógan Mór",
+      "type": "person"
+    },
+    {
+      "entity": "Mug Nuadat",
+      "type": "person"
+    },
+    {
+      "entity": "Eiscir Riada",
+      "type": "location"
+    },
+    {
+      "entity": "Leth Cuinn",
+      "type": "concept"
+    },
+    {
+      "entity": "Bé Chuma",
+      "type": "person"
+    },
+    {
+      "entity": "Art mac Cuinn",
+      "type": "person"
+    },
+    {
+      "entity": "Connla",
+      "type": "person"
+    },
+    {
+      "entity": "Cormac mac Airt",
+      "type": "person"
+    },
+    {
+      "entity": "Cumhall",
+      "type": "person"
+    },
+    {
+      "entity": "Muirenn",
+      "type": "person"
+    },
+    {
+      "entity": "Tara",
+      "type": "place"
+    },
+    {
+      "entity": "Eithne Tháebfhota",
+      "type": "person"
+    },
+    {
+      "entity": "Fergus mac Léti",
+      "type": "person"
+    },
+    {
+      "entity": "Baile in Scáil",
+      "type": "tale"
+    },
+    {
+      "entity": "Echtrae Airt meic Cuinn",
+      "type": "tale"
+    },
+    {
+      "entity": "Echtrae Conli",
+      "type": "tale"
+    },
+    {
+      "entity": "Mag Léna",
+      "type": "place"
+    },
+    {
+      "entity": "Dál nAraide",
+      "type": "group"
+    },
+    {
+      "entity": "Patrick",
+      "type": "person"
+    },
+    {
+      "entity": "Colla Uais",
+      "type": "person"
+    },
+    {
+      "entity": "Goidels",
+      "type": "group"
+    },
+    {
+      "entity": "Sárait",
+      "type": "person"
+    },
+    {
+      "entity": "Lough Neagh",
+      "type": "place"
+    },
+    {
+      "entity": "Munster",
+      "type": "place"
+    },
+    {
+      "entity": "Dublin",
+      "type": "place"
+    },
+    {
+      "entity": "Galway Bay",
+      "type": "place"
     }
   ],
   "attributes": [
@@ -46,28 +170,74 @@
     {
       "entity": "Cétchathach",
       "attribute": "means of the Hundred Battles"
+    },
+    {
+      "entity": "Conn Cétchathach",
+      "attribute": "Irish title meaning of the Hundred Battles"
+    },
+    {
+      "entity": "Conn",
+      "attribute": "eponymous ancestor of the Goidels of the midlands"
+    },
+    {
+      "entity": "Connacht",
+      "attribute": "province named for Conn"
+    },
+    {
+      "entity": "Lia Fáil",
+      "attribute": "Stone of Prophecy that showed Conn his royal line"
+    },
+    {
+      "entity": "Eiscir Riada",
+      "attribute": "ridge dividing Ireland between Conn and Eógan Mór"
+    },
+    {
+      "entity": "Leth Cuinn",
+      "attribute": "Conn's northern half of Ireland"
+    },
+    {
+      "entity": "Bé Chuma",
+      "attribute": "disreputable mate whose union blighted the land"
+    },
+    {
+      "entity": "Eithne Tháebfhota",
+      "attribute": "earlier wife who brought three harvests a year"
+    },
+    {
+      "entity": "Cormac mac Airt",
+      "attribute": "grandson of Conn"
+    },
+    {
+      "entity": "Cumhall",
+      "attribute": "killed by Conn over the abduction of Muirenn"
+    },
+    {
+      "entity": "Connla",
+      "attribute": "son seduced away by a fairy woman"
+    },
+    {
+      "entity": "Art mac Cuinn",
+      "attribute": "son of Conn"
     }
   ],
   "sources": [
     "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.",
-    "MacKillop 2008, s.v. 'Cétchathach'."
+    "MacKillop 2008, s.v. 'Cétchathach'.",
+    "MacKillop 2008, s.v. 'Conn Cétchathach'."
   ],
   "cyphertext": "5xRctVh7hV61kJQQ4rK8IcXvL9cPdVminK82lsokLR7hT-H_7c38iylsqTxUpjNnvlB9ZIFcmCwNgONy5GDhjKZIkBbPMB50eDhE4_yIeOW8y-lO7CLhwwFMA8mSmf2Zmp5Fi-7SHwSyrsCx6duArNVLfDL9XxDWvarJI4_XsOWi_JOxlbBQdYnZ56wmVV6RN4mE7e8SPtVbKnxENj5OAWW9hR57lOg1mD6LCQKFBcyd9T2ZiwiWxJJ4h7CsB7QB84gGc16V878jVHlCBlLEM9uthznn_71aWmXEIu8y_UUJE5f6FTo1ecX1zGUmWwOKqD97jq6SbEctMf6o06cGWoFhp_E9FL6TSBzqIhwzJup9AimpPNmTKw9pfJN2p667B02p3dF5LmhrwfmP7yYlRK7GASYSZemciJVKBjuuaXL--bhrTgO1ELxXUu4kYhnCWHELmVUUKoVtyscFx5tWAST3uLJtxowzgzNiLSiZrAGCODpMXf-RrL4nhJVyZ2IH604hIhdQsCThgRupKgEwAznrgMaRAvC1WjLzFGOgCPME6tlPSKBxqEqsBxDOTHXNcrwe0tNfav11kLH4qHJDc4p5JwjLeSV8GnayhQA1hg0bVtXne5klnpMBdmyFMGdHd9-_MyUt0RzDIPESC8ArrNkmnZuynJlDi8PCoI2AHVIDqyC_T59_EyTfmI5ZVhvsZcIMd_v3lPOylCGjV1iAIXlJdicJK0GXj4J-YUhbNpedMgn_QUsqvTnQWGa3rQZP4AsrzI_K6uNN96qvVXID9sryzcuDQnX2Ee3BXSYIrF3DaHgehXi4Ay-zL93MWzbzvOtFY30lUWH4uJvPHZIbyZndFMK92vo_mHQukvOWh5D7bNioxzsngI5NcWUc8UK-ox0sbw9xZynX9Opl0mjzT_4emx7xGWwACVKoMjkZ5cHp1Z9lO2HNJNzuVn7IF4KPeD7INGxHeQPZybFhMgGpm6RMc58xTfpx8XK_ecOU4olpGwFqTC_necrGq0QIuNBGhJgLfXVyzFJ7g1L7Pv0HxwdEX04FIxhbE5cEwoX7TbiJeRCp9QOu_YXG6pH06DuP5zq8cNi2MEFzGQI7NuRCkJTTn_VF8rUFUleBxdqEDs6OmSCAUgBA8der9NYLqXRAFaz7zf42sVVf5SJugVw8E18YOuaiDsXwDcbHohmMAKOPI9cxYqqAn37Dba22oUBLmzJSkhB4mcJEEruYuk88PoElRFxU6csHcqg4B6muBJ-P11U9SyfBqkUAV0Td_2em2GZWHk8qoKFludbY-YQjVJSfa66e_RKFYU5AGDxEelB3VFIso8Wx0xRSll3FSYKQ1azT966bqYJUOsON3rn_ic_62E1hSH9zEs-ZYNFEwjkaBbb2FUInRUB4W_Ycw_RW6kjY2GF2PSlLUX_ULwDOfXZhFH4x4WcJ6yTWbj5Zn-qjmEch7V-XmKcN8r3SSnxkmV9vx7e4BrLfvyjmLRvR96xwdYc3F4R8WTP8FYjVzRHNWJOKbsGdNqhq3u28gRcxPBs3PYWvmDZUoxP8dFqWFjLLgoYgmY3VU6TWuJGyLiCzA1ZofcjWkvi5a8Ka9-K9G1qOW7ltKBms4lKvysBgnur0HILXeXByC-K5jGHzmE74zpTmOZ_rf14NP99PWWaea_QtSEE_qxbIs1XeMRWWLq1_mX5tMFWuLQ8BiGNABiXWtHhoUtmFafwkHuZYUAIIB6BEuYOLInRDxoRACXnbcsS8sldtV8SHso_nSE-Psio6ycWiYySxckGggRMFPiPS9us38W0SrN-gHxUakUyz6vHRgGaNQ8WhwZkP7pwuQ86bMrR6eGwarcYkgImCOh5Ew48r8GPe0tAnkxnuFW5DgnBne_c8JhmgCYORF89lzox_ex22ZvtAGQ10IVYmej3M9IjpUsJDDv0EQs45leiGHBPXE3o-uBJqWRBDyxUCzJb6iENc8lg5Waldd1zhuEli5pcNC-WRLb0UhTytJQ-UK5p2FbUxi1oMSpjJpsEddX0taBwrdP4HsP9LE7S7oxI7R8xKrw3FBekEmw-8TDYrGjup572H__PBv3l5rzQ9MbAEnY3KLwNHaG4rltvz5P2dibZ9a5bPMAsxpycqyp8dnEfsWcBDSWNGQB_8E-YXqBz81PuWrUFJZt-TBrHF4SkZ_ZQ2Awi3W9FWXdUcVXzlILpDploDAkPc2sQP92KnZsPiDBIzzwQZjqtfGi_Y48iTfSinqlWmSpyJV-HEUNC4avkEw2yprBwMCFM-IvnMQ5cpFgtxn-LN1YvPKaBq3hDWztuN0mQmV7u5IAkm4SDFYsDZeHTq64fKvMsQFmhLAb5ljiOeCQUEqDNOxCL1sl2vQMjjeJYloHZbPlkP1T71qSionry6vdu94FWkTo0RY1uvWKSU_UPt6CrkIP4H0GUJ1pkAzwJdi68d8AfQJvhuBV7fYLH0We6rNIHJGAxGaM5ZWGjrXZsnto8wZ9lMfj4HWdJcpa_lplQ=",
   "salt": "G1gw8qWwAnzpuZ7Zp_BMwg==",
-  "text": "Conn of the Hundred Battles ranks among the greatest legendary kings of Ireland. Tradition counts him among the early high kings who shape the island's legendary history. The old lists place his name beside Cormac mac Airt, Mongon, and Guaire as the great rulers remembered in the tales. His full Irish title is Conn Cétchathach. The epithet Cétchathach means of the Hundred Battles. It celebrates a king who won a hundred battles. In the tradition the name works as a victory title carried by the high king.",
+  "text": "Conn of the Hundred Battles ranks among the greatest legendary kings of Ireland. Tradition counts him among the early high kings who shape the island's legendary history. The old lists place his name beside Cormac mac Airt, Mongon, and Guaire as the great rulers remembered in the tales. His full Irish title is Conn Cétchathach. The epithet means of the Hundred Battles, or the Hundred-Fighter. The annals date this shadowy king of Irish pre-history to the second century. Some readings treat him as an ancestor-deity of Irish kings. Others put his name on rulers of the Otherworld. The Lia Fáil, the Stone of Prophecy, speaks first to him. It shows him the kings of his line yet to reign and the coming of St Patrick. He stands as the eponymous ancestor of the Goidels of the midlands. The province of Connacht carries his name. His grandfather is Tuathal Techtmar. His father is Fedlimid Rechtaid or Óenlám Gaba. His mother may be Medb Lethderg. He takes Tara from Cathaír Mór while still young. A later addition says the Fianna of Fionn mac Cumhaill helped him. Once crowned, he walks the ramparts of Tara each day, in case the sidh people or the Fomorians take Ireland unawares. Wars with Dál nAraide, east of Lough Neagh, earn him his title. His great rival is Eógan Mór, also called Mug Nuadat, of Munster. The two split Ireland along Eiscir Riada, the low ridge of mounds that runs from Dublin to Galway Bay. Conn's northern share is Leth Cuinn. He invades Munster and beats Eógan. On his return Eógan stirs revolt and falls at the Battle of Mag Léna, near Tullamore. Accounts of Conn's own death differ. Thirty Ulstermen under Tiobraide Tireach, dressed as women, may have killed him. In Baile in Scáil, the Phantom's Frenzy, he meets the Sovereignty of Ireland and learns his line's future. In Echtrae Airt meic Cuinn a blight strikes the land because Conn has mated with the disreputable Bé Chuma. His earlier wife, Eithne Tháebfhota, a daughter of Cathaír Mór, brought three harvests a year. When Conn's men kill Eochaid Bélbuide, he compensates Fergus mac Léti with land taken from the noble-born mother of one of the killers. She becomes Fergus's slave. The Fenian Cycle often names him. Fionn mac Cumhaill is born in his reign or that of Cathaír Mór. Some versions say Conn killed Cumhall, Fionn's father, over the abduction of Muirenn. His children include Art mac Cuinn and Connla, the youth a fairy woman seduces in Echtrae Conli. A daughter, Sárait, bore the three Cairbres. Cormac mac Airt counts as his grandson. His druid is Máel or Corán. The Lord of the Isles of Clan Donald claimed descent from Conn and from Colla Uais. It celebrates a king who won a hundred battles. In the tradition the name works as a victory title carried by the high king.",
   "okr": {
-    "objective": "Conn of the Hundred Battles numbers among the great legendary kings.",
+    "objective": "Record Conn of the Hundred Battles, the legendary high king, his line, and his tales.",
     "key_results": [
-      "The text lists Conn among the great legendary rulers.",
-      "He is set beside Cormac mac Airt.",
-      "Mongon and Guaire join the same list.",
-      "His full Irish title is Conn Cétchathach.",
-      "The epithet means of the Hundred Battles and marks him as the winner of a hundred battles.",
-      "His full Irish title is Conn Cétchathach.",
-      "The epithet means of the Hundred Battles and marks him as the winner of a hundred battles.",
-      "His full Irish title is Conn Cétchathach.",
-      "The epithet means of the Hundred Battles and marks him as the winner of a hundred battles."
+      "Give the Irish title Conn Cétchathach and the Hundred-Fighter sense of the epithet.",
+      "Place him as ancestor-deity of Irish kings, eponym of the Goidels and of Connacht.",
+      "Tell the Tara kingship, the Lia Fáil prophecy, and the Eiscir Riada division with Eógan Mór.",
+      "Name the tales Baile in Scáil, Echtrae Airt meic Cuinn, and Echtrae Conli and the blight of Bé Chuma.",
+      "Set out his family: grandfather Tuathal Techtmar, sons Art and Connla, grandson Cormac mac Airt.",
+      "Note the Fenian links, the killing of Cumhall, and the Clan Donald descent claim."
     ],
-    "evidence": "Monaghan, Encyclopedia of Celtic Mythology and Folklore"
+    "evidence": "Monaghan, Encyclopedia of Celtic Mythology and Folklore; MacKillop, Dictionary of Celtic Mythology, 2008"
   }
 }
