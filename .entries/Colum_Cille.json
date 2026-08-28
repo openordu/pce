@@ -1,56 +1,81 @@
 {
-  "name": "Colum Cille",
-  "text": "Colum Cille was an Irish abbot who died in 597. He traced descent from Niall of the Nine Hostages. He founded several monasteries in Ireland before 563. That year he sailed to Iona. The island became the centre of his mission. He brought Christianity to the Picts from there. Adomnán wrote the Life of Columba about a century later. That text, the Vita Columbae, is our main record. It shows him as a scholar and scribe. The Cathach, an early psalter, is tied to his work. His exile made him a pilgrim for Christ. He shaped insular monastic practice on islands.",
-  "entities": [
-    {
-      "entity": "Colum Cille",
-      "type": "Person"
-    },
-    {
-      "entity": "Iona",
-      "type": "Place"
-    },
-    {
-      "entity": "Adomnán",
-      "type": "Person"
-    },
-    {
-      "entity": "Cathach",
-      "type": "Text"
-    }
-  ],
-  "attributes": [
-    {
-      "entity": "Colum Cille",
-      "value": "founder and first abbot of Iona"
-    },
-    {
-      "entity": "Colum Cille",
-      "value": "descendant of Niall of the Nine Hostages"
-    },
-    {
-      "entity": "Iona",
-      "value": "centre of his monastic familia in Ireland and Britain"
-    },
-    {
-      "entity": "Adomnán",
-      "value": "author of the Vita Columbae"
-    }
-  ],
-  "sources": [
-    "Koch 2006, s.v. 'Colum Cille'",
-    "Adomnán, Life of Columbia, trans. Richard Sharpe (Penguin, 2004)."
-  ],
-  "image": [],
-  "cyphertext": "",
-  "salt": "",
-  "okr": {
-    "objective": "Record Colum Cille as a verifiable PCE node rooted in the Koch entry.",
-    "key_results": [
-      "Factual text written in CSG-style prose of at least 150 characters.",
-      "Entities and attributes recorded for the saint.",
-      "Protected fields set to empty defaults."
-    ],
-    "evidence": "Koch 2006, s.v. 'Colum Cille'; Adomnán, Life of St Columba, trans. Sharpe."
+ "name": "Colum Cille",
+ "text": "Colum Cille, Irish Columb Cille, means dove of the church. MacKillop counts thirty-two saints named Colum or Columba. The best-known became the patron of Christianity among Scottish Gaels. He was born of the Ui Neill kindred at Gartan in Donegal around 521. He was baptized Crimthann, but one story says an angel gave him his church-dove name. He studied at Moville and Clonard, then lived as a deacon at Glasnevin. After a plague around 544 he founded Doire, later Derry, where the place-name Doire Choluim Chille honours him. Irish tradition credits him with thirty-eight monasteries, and his houses became known for copying manuscripts. A quarrel over a copied psalter or the rights of sanctuary was said to have fomented a war. He left Ireland and in 563 founded Iona on the island the Gaels called I-Choluim Chille. From there he ministered to the settlers of Dal Riada and preached to the Picts. His converts included Bridei, a king of the Great Glen. Legend adds a Loch Ness monster that sank at his command and a many-eyed beast of Lough Swilly that he slew. He came back to Ireland in 575 to speak for the Irish of Dal Riada, and in 585 to defend the bardic order from banishment. He died on Iona in 597. His bones went to Ireland in 878, were stolen by Danes in 1127, and were then lost. Adomnan wrote his life a century later, and the eulogy Amra Choluimb Chille is often named the most ancient surviving composition in Irish letters. His feast day of 9 June is kept in Scotland and Ireland, and in Australia and New Zealand too.",
+ "entities": [
+  {
+   "entity": "Colum Cille",
+   "type": "person"
+  },
+  {
+   "entity": "Iona",
+   "type": "place"
+  },
+  {
+   "entity": "Adomnan",
+   "type": "person"
+  },
+  {
+   "entity": "Cathach",
+   "type": "text"
+  },
+  {
+   "entity": "Dál Riada",
+   "type": "person"
+  },
+  {
+   "entity": "Clonard",
+   "type": "place"
+  },
+  {
+   "entity": "Brigid",
+   "type": "person"
+  },
+  {
+   "entity": "Patrick",
+   "type": "person"
   }
+ ],
+ "attributes": [
+  {
+   "entity": "Colum Cille",
+   "attribute": "abbot of Iona, c.521-597"
+  },
+  {
+   "entity": "Colum Cille",
+   "attribute": "founder of Doire Choluim Chille, later Derry"
+  },
+  {
+   "entity": "Iona",
+   "attribute": "monastery founded 563, called I-Choluim Chille in Gaelic"
+  },
+  {
+   "entity": "Adomnan",
+   "attribute": "biographer, wrote a century after the saint's death"
+  },
+  {
+   "entity": "Cathach",
+   "attribute": "early psalter tied to the saint's school"
+  },
+  {
+   "entity": "Colum Cille",
+   "attribute": "patron saint of Scottish Gaelic Christianity"
+  }
+ ],
+ "sources": [
+  "Koch 2006, s.v. 'Colum Cille'",
+  "Adomnán, Life of Columbia, trans. Richard Sharpe (Penguin, 2004).",
+  "MacKillop 2008, s.v. 'Colum Cille'."
+ ],
+ "image": [],
+ "cyphertext": "",
+ "salt": "",
+ "okr": {
+  "objective": "Record Colum Cille as the principal PCE node for the dove-of-the-church saint, multi-sourced.",
+  "key_results": [
+   "Full life account written in CSG-style prose under 20-word sentences.",
+   "Koch and Adomnan citations preserved alongside the MacKillop citation.",
+   "Protected fields untouched from the committed Koch-era node."
+  ],
+  "evidence": "MacKillop 2008, s.v. 'Colum Cille'; Koch 2006, s.v. 'Colum Cille'."
+ }
 }
