@@ -29,8 +29,8 @@ tags:
 ``` tab [group1:Info]
 ::: magazinestyle
 Corrievreckan is the name of two whirlpools, one Scottish and one Irish.
-The more famous churns between the islands of Jura and Scarba in the Inner Hebrides.
-The second runs between Rathlin Island and the north coast of Northern Ireland.
+The more famous churns between Jura and Scarba, two islands of the Inner Hebrides.
+The second runs between Rathlin Island and the Antrim coast of Northern Ireland.
 The name comes from the Gaelic for the cauldron of Brecaan.
 The Scottish whirlpool carries the name of Brecaan, also called Brecon or Brechin.
 The Book of Ballymote says that hero perished there with fifty ships.

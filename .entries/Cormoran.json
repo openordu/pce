@@ -1,39 +1,39 @@
 {
-  "name": "Cormoran",
-  "text": "Cormoran is a giant of Cornish folklore who is said to have built St Michael's Mount. The islet stands near Marazion, three miles east of Penzance. He starts the building with white granite. Lazy and often asleep, he fails to notice his wife Cormelian at work. She carries green stone from a shorter distance. When Cormoran wakes he kicks her, and her dropped stone becomes the causeway that joins the islet to the mainland. English folklore also gives his name to the giant in the tale Jack the Giant-Killer.",
-  "entities": [
-    {
-      "entity": "Cormoran",
-      "type": "person"
-    },
-    {
-      "entity": "giant",
-      "type": "thing"
-    }
-  ],
-  "attributes": [
-    {
-      "entity": "Cormoran",
-      "attribute": "giant credited with building St Michael's Mount"
-    },
-    {
-      "entity": "Cormelian",
-      "attribute": "his wife, builder with green stone"
-    }
-  ],
-  "okr": {
-    "objective": "Record the Cornish giant who built St Michael's Mount.",
-    "key_results": [
-      "Name Cormoran as the giant of St Michael's Mount.",
-      "Tell the white granite and the green stone of Cormelian.",
-      "Link his name to the giant of Jack the Giant-Killer."
-    ],
-    "evidence": "MacKillop, Dictionary of Celtic Mythology, 2008"
+ "name": "Cormoran",
+ "text": "Cormoran is a giant of Cornish folklore who is said to have built St Michael's Mount. The islet stands near Marazion, three miles east of Penzance. He starts the building with white granite. Lazy and often asleep, he fails to notice his wife Cormelian at work. She fetches her green stone over a shorter journey. When Cormoran wakes he kicks her, and her dropped stone becomes the causeway that joins the islet to the mainland. English folklore also gives his name to the giant in the tale Jack the Giant-Killer.",
+ "entities": [
+  {
+   "entity": "Cormoran",
+   "type": "person"
   },
-  "image": [],
-  "cyphertext": "",
-  "salt": "",
-  "sources": [
-    "MacKillop 2008, s.v. 'Cormoran'."
-  ]
+  {
+   "entity": "giant",
+   "type": "thing"
+  }
+ ],
+ "attributes": [
+  {
+   "entity": "Cormoran",
+   "attribute": "giant credited with building St Michael's Mount"
+  },
+  {
+   "entity": "Cormelian",
+   "attribute": "his wife, builder with green stone"
+  }
+ ],
+ "okr": {
+  "objective": "Record the Cornish giant who built St Michael's Mount.",
+  "key_results": [
+   "Name Cormoran as the giant of St Michael's Mount.",
+   "Tell the white granite and the green stone of Cormelian.",
+   "Link his name to the giant of Jack the Giant-Killer."
+  ],
+  "evidence": "MacKillop, Dictionary of Celtic Mythology, 2008"
+ },
+ "image": [],
+ "cyphertext": "",
+ "salt": "",
+ "sources": [
+  "MacKillop 2008, s.v. 'Cormoran'."
+ ]
 }

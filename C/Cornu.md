@@ -8,8 +8,8 @@ attributes:
   - Cornu legendary black bird of St Patrick's Purgatory
   - Patrick saint who turned the demon into a bird
 categories:
-  - thing
   - person
+  - thing
   - place
 entities:
   - Cornu(thing)
@@ -22,7 +22,7 @@ tags:
 ---
 ``` tab [group1:Info]
 ::: magazinestyle
-Cornu is a great black bird of legend that lived in St Patrick's Purgatory on Lough Derg. Oral tradition says the bird was once a demon until Patrick turned it into a bird.
+Cornu is a legendary great black bird that dwelt in St Patrick's Purgatory on Lough Derg. Oral tradition says the bird was once a demon until Patrick turned it into a bird.
 
 :::
 ```

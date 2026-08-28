@@ -8,9 +8,9 @@ attributes:
   - Cormac's Glossary early Irish glossary ascribed to Cormac mac Cuilennáin
   - Cormac mac Cuilennáin king-bishop of Cashel, died 908
 categories:
-  - place
-  - person
   - text
+  - person
+  - place
 entities:
   - Cormac's Glossary(text)
   - Cormac mac Cuilennáin(person)
@@ -28,7 +28,7 @@ tags:
 ---
 ``` tab [group1:Info]
 ::: magazinestyle
-Cormac's Glossary is the English name for the Sanas Cormaic, an early Irish glossary of rare and old words. Tradition gives the work to Cormac mac Cuilennáin, the king-bishop of Cashel who died in 908. His readings often set divine figures among mortal kings. He places Manannán mac Lir on the Isle of Man rather than in the otherworldly Emain Ablach. Scholars still cite the glossary for the oldest layers of Irish tradition.
+Cormac's Glossary is the English name for the Sanas Cormaic, an early Irish glossary of rare and old words. Tradition gives the work to Cormac mac Cuilennáin, the king-bishop of Cashel who died in 908. His readings often set divine figures among mortal kings. He places Manannán mac Lir on Man rather than in the otherworldly Emain Ablach. Scholars still cite the glossary for the oldest layers of Irish tradition.
 
 :::
 ```

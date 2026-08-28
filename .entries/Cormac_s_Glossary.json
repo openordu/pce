@@ -1,55 +1,55 @@
 {
-  "name": "Cormac's Glossary",
-  "text": "Cormac's Glossary is the English name for the Sanas Cormaic, an early Irish glossary of rare and old words. Tradition gives the work to Cormac mac Cuilennáin, the king-bishop of Cashel who died in 908. His readings often set divine figures among mortal kings. He places Manannán mac Lir on the Isle of Man rather than in the otherworldly Emain Ablach. Scholars still cite the glossary for the oldest layers of Irish tradition.",
-  "entities": [
-    {
-      "entity": "Cormac's Glossary",
-      "type": "text"
-    },
-    {
-      "entity": "Cormac mac Cuilennáin",
-      "type": "person"
-    },
-    {
-      "entity": "Cashel",
-      "type": "place"
-    },
-    {
-      "entity": "Manannán mac Lir",
-      "type": "person"
-    },
-    {
-      "entity": "Man",
-      "type": "place"
-    },
-    {
-      "entity": "Emain Ablach",
-      "type": "place"
-    }
-  ],
-  "attributes": [
-    {
-      "entity": "Cormac's Glossary",
-      "attribute": "early Irish glossary ascribed to Cormac mac Cuilennáin"
-    },
-    {
-      "entity": "Cormac mac Cuilennáin",
-      "attribute": "king-bishop of Cashel, died 908"
-    }
-  ],
-  "okr": {
-    "objective": "Record the English-named glossary and its ascription.",
-    "key_results": [
-      "Name Cormac's Glossary as the English title of the Sanas Cormaic.",
-      "Give the work to Cormac mac Cuilennáin, king-bishop of Cashel.",
-      "Show his Isle of Man reading for Manannán mac Lir."
-    ],
-    "evidence": "MacKillop, Dictionary of Celtic Mythology, 2008"
+ "name": "Cormac's Glossary",
+ "text": "Cormac's Glossary is the English name for the Sanas Cormaic, an early Irish glossary of rare and old words. Tradition gives the work to Cormac mac Cuilennáin, the king-bishop of Cashel who died in 908. His readings often set divine figures among mortal kings. He places Manannán mac Lir on Man rather than in the otherworldly Emain Ablach. Scholars still cite the glossary for the oldest layers of Irish tradition.",
+ "entities": [
+  {
+   "entity": "Cormac's Glossary",
+   "type": "text"
   },
-  "image": [],
-  "cyphertext": "",
-  "salt": "",
-  "sources": [
-    "MacKillop 2008, s.v. 'Cormac's Glossary'."
-  ]
+  {
+   "entity": "Cormac mac Cuilennáin",
+   "type": "person"
+  },
+  {
+   "entity": "Cashel",
+   "type": "place"
+  },
+  {
+   "entity": "Manannán mac Lir",
+   "type": "person"
+  },
+  {
+   "entity": "Man",
+   "type": "place"
+  },
+  {
+   "entity": "Emain Ablach",
+   "type": "place"
+  }
+ ],
+ "attributes": [
+  {
+   "entity": "Cormac's Glossary",
+   "attribute": "early Irish glossary ascribed to Cormac mac Cuilennáin"
+  },
+  {
+   "entity": "Cormac mac Cuilennáin",
+   "attribute": "king-bishop of Cashel, died 908"
+  }
+ ],
+ "okr": {
+  "objective": "Record the English-named glossary and its ascription.",
+  "key_results": [
+   "Name Cormac's Glossary as the English title of the Sanas Cormaic.",
+   "Give the work to Cormac mac Cuilennáin, king-bishop of Cashel.",
+   "Show his Isle of Man reading for Manannán mac Lir."
+  ],
+  "evidence": "MacKillop, Dictionary of Celtic Mythology, 2008"
+ },
+ "image": [],
+ "cyphertext": "",
+ "salt": "",
+ "sources": [
+  "MacKillop 2008, s.v. 'Cormac's Glossary'."
+ ]
 }

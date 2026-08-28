@@ -1,0 +1,38 @@
+{
+ "name": "Crave Rua",
+ "text": "Crave Rua is an anglicized form of Cráebruad, the Red Branch hall of Ulster.\nMacKillop records the short form Rue beside it.\nThe hall of Conchobar mac Nessa gave its name to the Red Branch warriors.\nReaders should follow the Red Branch entry for the full account.",
+ "entities": [
+  {
+   "entity": "Crave Rua",
+   "type": "place"
+  },
+  {
+   "entity": "Red Branch",
+   "type": "group"
+  }
+ ],
+ "attributes": [
+  {
+   "entity": "Crave Rua",
+   "attribute": "anglicization of Cráebruad, also shortened to Rue"
+  },
+  {
+   "entity": "Red Branch",
+   "attribute": "English name of the hall Crave Rua spells"
+  }
+ ],
+ "sources": [
+  "MacKillop 2008, s.v. 'Crave Rua'"
+ ],
+ "image": [],
+ "cyphertext": "",
+ "salt": "",
+ "okr": {
+  "objective": "Crave Rua is an anglicized form of the hall-name Cráebruad.",
+  "key_results": [
+   "MacKillop lists Crave Rua and Rue among the anglicizations of Cráebruad.",
+   "Cráebruad is the Red Branch hall of the Ulster kings."
+  ],
+  "evidence": "MacKillop 2008, s.v. 'Crave Rua'."
+ }
+}

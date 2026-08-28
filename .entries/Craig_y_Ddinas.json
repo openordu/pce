@@ -1,0 +1,50 @@
+{
+ "name": "Craig y Ddinas",
+ "text": "Craig y Ddinas is a Welsh place-name meaning rock of the city or fort.\nThe name belongs to two separate ruins in Wales.\nOne is a Roman camp seven miles south-west of Caernarfon in Gwynedd.\nThe other is a British fort five miles north of Barmouth, in the old county of Merionethshire.\nThe name carries Arthurian associations in Welsh tradition.\nOne ruin is held to be the burial site of the faithless Blodeuwedd.",
+ "entities": [
+  {
+   "entity": "Craig y Ddinas",
+   "type": "place"
+  },
+  {
+   "entity": "Gwynedd",
+   "type": "place"
+  },
+  {
+   "entity": "Blodeuwedd",
+   "type": "mythological figure"
+  }
+ ],
+ "attributes": [
+  {
+   "entity": "Craig y Ddinas",
+   "attribute": "Welsh place-name meaning rock of the fort"
+  },
+  {
+   "entity": "Craig y Ddinas",
+   "attribute": "names a Roman camp near Caernarfon and a fort near Barmouth"
+  },
+  {
+   "entity": "Craig y Ddinas",
+   "attribute": "a supposed burial site of Blodeuwedd"
+  },
+  {
+   "entity": "Blodeuwedd",
+   "attribute": "faithless woman of Welsh legend buried at the site"
+  }
+ ],
+ "sources": [
+  "MacKillop 2008, s.v. 'Craig y Ddinas'"
+ ],
+ "image": [],
+ "cyphertext": "",
+ "salt": "",
+ "okr": {
+  "objective": "Craig y Ddinas names two Welsh ruins with Arthurian associations.",
+  "key_results": [
+   "MacKillop gives the Roman camp near Caernarfon and the fort near Barmouth.",
+   "Tradition makes one site the grave of Blodeuwedd."
+  ],
+  "evidence": "MacKillop 2008, s.v. 'Craig y Ddinas'."
+ }
+}

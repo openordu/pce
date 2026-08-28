@@ -1,113 +1,113 @@
 {
-  "name": "Cornwall/Kernow",
-  "text": "Cornwall/Kernow is the southwesternmost part of Britain, long a home of the Brythonic Celtic language Cornish. Kernow is simply the Cornish name for Cornwall. Around 1100 the tongue ran from the river Tamar to Land's End, and close to twenty thousand of the county's roughly twenty-one thousand people still spoke it. The county covers 1,369 square miles on a south-western peninsula and once formed part of the kingdom of Dumnonia. Irish freebooters raided the peninsula before the sixth century and left settlements behind, and Irish missionaries later preached the faith there. As the Duchy of Cornwall the land kept its Celtic speech and customs behind the Tamar, despite the pressure of its Saxon neighbours. Cornish belongs to the Brythonic family beside Welsh and Breton. The gospel translations reach back to the tenth century, and mystery plays in Cornish survive from the fifteenth. The speech faded in the mid-eighteenth century, and enthusiasts revived it in the twentieth. Robert Hunt and William Bottrell gathered the lore of the county in the nineteenth, and Tintagel and Kelliwic carry its Arthurian tales, with the county named as the home of King Mark and Tristan. Henry Jenner and R. Morton Nance raised the revival's standard, and Gorseth Kernow keeps it. The chough still marks the county's heraldry.",
-  "entities": [
-    {
-      "entity": "Cornwall",
-      "type": "Place"
-    },
-    {
-      "entity": "Cornish",
-      "type": "Language"
-    },
-    {
-      "entity": "Kernow",
-      "type": "Place"
-    },
-    {
-      "entity": "Henry Jenner",
-      "type": "Person"
-    },
-    {
-      "entity": "R. Morton Nance",
-      "type": "Person"
-    },
-    {
-      "entity": "Gorseth Kernow",
-      "type": "Group"
-    },
-    {
-      "entity": "chough",
-      "type": "Creature"
-    },
-    {
-      "entity": "Tintagel",
-      "type": "place"
-    },
-    {
-      "entity": "Kelliwic",
-      "type": "place"
-    },
-    {
-      "entity": "Mark",
-      "type": "person"
-    },
-    {
-      "entity": "Tristan",
-      "type": "person"
-    },
-    {
-      "entity": "Dumnonia",
-      "type": "place"
-    }
-  ],
-  "attributes": [
-    {
-      "entity": "Cornish",
-      "attribute": "Brythonic Celtic language spoken in Cornwall/Kernow"
-    },
-    {
-      "entity": "Cornwall",
-      "attribute": "county at the southwestern tip of England"
-    },
-    {
-      "entity": "Kernow",
-      "attribute": "the Cornish name for Cornwall"
-    },
-    {
-      "entity": "Cornish",
-      "attribute": "lost its last native speaker in the eighteenth century and was later revived"
-    },
-    {
-      "entity": "Gorseth Kernow",
-      "attribute": "Cornish gorsedd founded in 1927, modelled on the Welsh institution"
-    },
-    {
-      "entity": "chough",
-      "attribute": "a bird used as an emblem of Cornish cultural identity"
-    },
-    {
-      "entity": "Cornwall/Kernow",
-      "attribute": "a county of 1,369 square miles on a south-western peninsula"
-    },
-    {
-      "entity": "Cornwall/Kernow",
-      "attribute": "former part of the kingdom of Dumnonia"
-    },
-    {
-      "entity": "Cornwall/Kernow",
-      "attribute": "home of King Mark and Tristan in Arthurian tale"
-    }
-  ],
-  "sources": [
-    "Koch 2006, s.v. \"Cornwall/Kernow\"",
-    "Payton, Philip. Cornwall: A History (2004)",
-    "MacKillop 2008, s.v. 'Kernow'",
-    "MacKillop 2008, s.v. 'Cornwall'."
-  ],
-  "image": [],
-  "cyphertext": "",
-  "salt": "",
-  "okr": {
-    "objective": "Describe Cornwall/Kernow and the history of the Cornish language",
-    "key_results": [
-      "Locate Cornwall and give its Kernow name",
-      "Trace the spread and later retreat of the Cornish language",
-      "Name scholars who led the Cornish revival",
-      "The county formed part of the kingdom of Dumnonia.",
-      "Irish freebooters and later Irish missionaries reached the peninsula.",
-      "Tintagel and Kelliwic carry its Arthurian associations."
-    ],
-    "evidence": "Koch 2006, s.v. \"Cornwall/Kernow\"; Payton 2004; MacKillop 2008, s.v. 'Kernow'"
+ "name": "Cornwall/Kernow",
+ "text": "Cornwall/Kernow is the southwesternmost part of Britain, long a home of the Brythonic Celtic language Cornish. Kernow is simply the Cornish name for Cornwall. Around 1100 the tongue ran from the river Tamar to Land's End, and close to twenty thousand of the county's roughly twenty-one thousand people still spoke it. The county covers 1,369 square miles on a south-western peninsula and once formed part of the kingdom of Dumnonia. Irish freebooters raided the peninsula before the sixth century and left settlements behind, and Irish missionaries later preached the faith there. As the Duchy of Cornwall the land kept its Celtic speech and customs behind the Tamar, despite the pressure of its Saxon neighbours. Cornish belongs to the Brythonic family beside Welsh and Breton. The gospel translations reach back to the tenth century. Mystery plays in Cornish still exist from the fifteenth. The speech faded in the mid-eighteenth century, and enthusiasts revived it in the twentieth. Robert Hunt and William Bottrell gathered the lore of the county in the nineteenth, and Tintagel and Kelliwic carry its Arthurian tales, with the county named as the home of King Mark and Tristan. Henry Jenner and R. Morton Nance raised the revival's standard, and Gorseth Kernow keeps it. The chough still marks the county's heraldry.",
+ "entities": [
+  {
+   "entity": "Cornwall",
+   "type": "Place"
+  },
+  {
+   "entity": "Cornish",
+   "type": "Language"
+  },
+  {
+   "entity": "Kernow",
+   "type": "Place"
+  },
+  {
+   "entity": "Henry Jenner",
+   "type": "Person"
+  },
+  {
+   "entity": "R. Morton Nance",
+   "type": "Person"
+  },
+  {
+   "entity": "Gorseth Kernow",
+   "type": "Group"
+  },
+  {
+   "entity": "chough",
+   "type": "Creature"
+  },
+  {
+   "entity": "Tintagel",
+   "type": "place"
+  },
+  {
+   "entity": "Kelliwic",
+   "type": "place"
+  },
+  {
+   "entity": "Mark",
+   "type": "person"
+  },
+  {
+   "entity": "Tristan",
+   "type": "person"
+  },
+  {
+   "entity": "Dumnonia",
+   "type": "place"
   }
+ ],
+ "attributes": [
+  {
+   "entity": "Cornish",
+   "attribute": "Brythonic Celtic language spoken in Cornwall/Kernow"
+  },
+  {
+   "entity": "Cornwall",
+   "attribute": "county at the southwestern tip of England"
+  },
+  {
+   "entity": "Kernow",
+   "attribute": "the Cornish name for Cornwall"
+  },
+  {
+   "entity": "Cornish",
+   "attribute": "lost its last native speaker in the eighteenth century and was later revived"
+  },
+  {
+   "entity": "Gorseth Kernow",
+   "attribute": "Cornish gorsedd founded in 1927, modelled on the Welsh institution"
+  },
+  {
+   "entity": "chough",
+   "attribute": "a bird used as an emblem of Cornish cultural identity"
+  },
+  {
+   "entity": "Cornwall/Kernow",
+   "attribute": "a county of 1,369 square miles on a south-western peninsula"
+  },
+  {
+   "entity": "Cornwall/Kernow",
+   "attribute": "former part of the kingdom of Dumnonia"
+  },
+  {
+   "entity": "Cornwall/Kernow",
+   "attribute": "home of King Mark and Tristan in Arthurian tale"
+  }
+ ],
+ "sources": [
+  "Koch 2006, s.v. \"Cornwall/Kernow\"",
+  "Payton, Philip. Cornwall: A History (2004)",
+  "MacKillop 2008, s.v. 'Kernow'",
+  "MacKillop 2008, s.v. 'Cornwall'."
+ ],
+ "image": [],
+ "cyphertext": "",
+ "salt": "",
+ "okr": {
+  "objective": "Describe Cornwall/Kernow and the history of the Cornish language",
+  "key_results": [
+   "Locate Cornwall and give its Kernow name",
+   "Trace the spread and later retreat of the Cornish language",
+   "Name scholars who led the Cornish revival",
+   "The county formed part of the kingdom of Dumnonia.",
+   "Irish freebooters and later Irish missionaries reached the peninsula.",
+   "Tintagel and Kelliwic carry its Arthurian associations."
+  ],
+  "evidence": "Koch 2006, s.v. \"Cornwall/Kernow\"; Payton 2004; MacKillop 2008, s.v. 'Kernow'"
+ }
 }

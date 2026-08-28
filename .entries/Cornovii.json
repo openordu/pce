@@ -1,35 +1,35 @@
 {
-  "name": "Cornovii",
-  "text": "Cornovii is the name of an ancient British tribe that held the valleys of the Severn and the Dee near the modern Welsh border. Their land lay open to attack and was hard to defend. The tribe therefore worked more closely with Rome than its neighbours did. The Cornovii were the only British people whose name was given to a unit of the Imperial auxiliary troop. They may also have lent their name to Cornwall.",
-  "entities": [
-    {
-      "entity": "Cornovii",
-      "type": "people"
-    }
-  ],
-  "attributes": [
-    {
-      "entity": "Cornovii",
-      "attribute": "ancient British tribe of the Severn and the Dee"
-    },
-    {
-      "entity": "Cornovii",
-      "attribute": "only British people named for an Imperial auxiliary unit"
-    }
-  ],
-  "okr": {
-    "objective": "Record the British tribe of the Severn and the Dee.",
-    "key_results": [
-      "Place the tribe in the Severn and the Dee valleys.",
-      "Tell the close working bond with Rome.",
-      "Record the auxiliary unit named for the people."
-    ],
-    "evidence": "MacKillop, Dictionary of Celtic Mythology, 2008"
+ "name": "Cornovii",
+ "text": "Cornovii is the name of an ancient British tribe that held the Severn and Dee valleys near the modern Welsh border. Their land lay open to attack and was hard to defend. The tribe therefore worked more closely with Rome than its neighbours did. The Cornovii alone among British tribes saw their name given to a unit of the Imperial auxiliary troops. They may also have lent their name to Cornwall.",
+ "entities": [
+  {
+   "entity": "Cornovii",
+   "type": "people"
+  }
+ ],
+ "attributes": [
+  {
+   "entity": "Cornovii",
+   "attribute": "ancient British tribe of the Severn and the Dee"
   },
-  "image": [],
-  "cyphertext": "",
-  "salt": "",
-  "sources": [
-    "MacKillop 2008, s.v. 'Cornovii'."
-  ]
+  {
+   "entity": "Cornovii",
+   "attribute": "only British people named for an Imperial auxiliary unit"
+  }
+ ],
+ "okr": {
+  "objective": "Record the British tribe of the Severn and the Dee.",
+  "key_results": [
+   "Place the tribe in the Severn and the Dee valleys.",
+   "Tell the close working bond with Rome.",
+   "Record the auxiliary unit named for the people."
+  ],
+  "evidence": "MacKillop, Dictionary of Celtic Mythology, 2008"
+ },
+ "image": [],
+ "cyphertext": "",
+ "salt": "",
+ "sources": [
+  "MacKillop 2008, s.v. 'Cornovii'."
+ ]
 }

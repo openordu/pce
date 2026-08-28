@@ -22,7 +22,7 @@ tags:
 ---
 ``` tab [group1:Info]
 ::: magazinestyle
-Cornouaille is a Breton mythological site. It was a petty kingdom of Brittany from early Christian times. The region kept the name until the Napoleonic redivision of local government. Its lands lay south of the River Elorn and ran to the Elle, in the south-west of the modern Department of Finistère. The name recalls Cornwall, yet settlers from Cornwall do not appear to have founded it. Its area matches the ancient British kingdom of Cornubia. The Breton form of the name is Kemev. Its name and its tales mark it as a center of Celtic story.
+Cornouaille is a Breton mythological site. It was a petty kingdom of Brittany from early Christian times. The region kept the name up to the Napoleonic redivision of local government. Its lands lay south of the River Elorn and ran to the Elle, in the south-west of the modern Department of Finistère. The name recalls Cornwall, yet settlers from Cornwall do not appear to have founded it. Its area matches the ancient British kingdom of Cornubia. The Breton form of the name is Kemev. Its name and its tales mark it as a center of Celtic story.
 
 :::
 ```

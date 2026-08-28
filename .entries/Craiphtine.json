@@ -1,66 +1,85 @@
 {
-  "name": "Craiphtine",
-  "attributes": [
-    {
-      "entity": "Craiphtine",
-      "attribute": "Irish hero also called Craftine or Cratiny, credited with inventing the harp"
-    },
-    {
-      "entity": "Craiphtine",
-      "attribute": "eased the restless sleep of the hero Labhraigh with his music"
-    },
-    {
-      "entity": "Craiphtine",
-      "attribute": "his music sent entire armies to sleep"
-    },
-    {
-      "entity": "Craiphtine",
-      "attribute": "his music made him useful to his ruler in wartime"
-    }
-  ],
-  "entities": [
-    {
-      "entity": "Craiphtine",
-      "type": "hero"
-    },
-    {
-      "entity": "harp",
-      "type": "artifact"
-    },
-    {
-      "entity": "Ireland",
-      "type": "place"
-    },
-    {
-      "entity": "Labhraigh",
-      "type": "hero"
-    },
-    {
-      "entity": "ruler",
-      "type": "person"
-    },
-    {
-      "entity": "armies",
-      "type": "character"
-    },
-    {
-      "entity": "music",
-      "type": "concept"
-    }
-  ],
-  "sources": [
-    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-  ],
-  "okr": {
-    "objective": "Craiphtine is an Irish hero credited with inventing the harp.",
-    "key_results": [
-      "Craiphtine, also called Craftine or Cratiny, is credited with inventing the harp.",
-      "He appears in the myths of the hero Labhraigh, whose restless sleep his music eased.",
-      "So strong was his music that it sent entire armies to sleep, making him useful to his ruler in wartime."
-    ],
-    "evidence": "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+ "name": "Craiphtine",
+ "attributes": [
+  {
+   "entity": "Craiphtine",
+   "attribute": "Irish hero also called Craftine or Cratiny, credited with inventing the harp"
   },
-  "cyphertext": "EHvwA0I0m6zIty1BHNy3AbbHPwET0196W2ECKJ6Z9zeH30mBdw1eL4AATcasyIJYvVnLm3q2wJlynwTERSP950yYrr61FX6zeenhOh0d1_6DTMFvNiF4I8MHuSW1LExrSv2qXqQ_CB-RTEfRiOK_YQlrL7rG61CoItH8cuOX3V4sgc9-G4fW04rYHzPlkvrYDqa81_LsTjOhGk5ub_FlMMV2dVYIwoTJtj5HqrlvUIDTZI8fHNcfad5tOmJQS5fGxqL6oIv2gs-pJrhh-uyCmjmoO1P3kxicSphORzo6zOg3E8Lxv7YiAJmlPub6NwMZR59BOyCQCCDnzHIvIgFoU6p4HcwK2BOCxLQCTWuV6fKdNNccE04eQaV9cTFLEeP07FX90U_dSX9egWsWpjphWJU0cl5jXXeXRQeRh9cLSd_Mw6xbudCIWZoLVfbEpJXl-vecfasfgH699KpRN8tcUZPvI--NRB5th0p6dOhiFzNItUxABbiVsQOW1yTCUlIirP6BENqPUA_8gocYUJ07CsotDYr6H2m4sHWnunr846YwaO2fjJJGdw==",
-  "salt": "Kw_F0XZ4ovfxmsZA6c5p7w==",
-  "text": "Craiphtine, also written Craftine or Cratiny, is an Irish hero. To him falls the credit for the harp, the tool most bound up with Ireland. He stands in the legends of the hero Labhraigh, and his melodies quieted the man's restless sleep. His sound grew so fierce it could lay armies to sleep entire, a boon that made him precious to his ruler in the field."
+  {
+   "entity": "Craiphtine",
+   "attribute": "eased the restless sleep of the hero Labhraigh with his music"
+  },
+  {
+   "entity": "Craiphtine",
+   "attribute": "his music sent entire armies to sleep"
+  },
+  {
+   "entity": "Craiphtine",
+   "attribute": "his music made him useful to his ruler in wartime"
+  },
+  {
+   "entity": "Craiphtine",
+   "attribute": "fashioned the harp from a willow tree"
+  },
+  {
+   "entity": "Labraid Loingsech",
+   "attribute": "invader whose double Craiphtine may be"
+  },
+  {
+   "entity": "Scenb",
+   "attribute": "unfaithful wife of Craiphtine"
+  }
+ ],
+ "entities": [
+  {
+   "entity": "Craiphtine",
+   "type": "hero"
+  },
+  {
+   "entity": "harp",
+   "type": "artifact"
+  },
+  {
+   "entity": "Ireland",
+   "type": "place"
+  },
+  {
+   "entity": "Labhraigh",
+   "type": "hero"
+  },
+  {
+   "entity": "ruler",
+   "type": "person"
+  },
+  {
+   "entity": "armies",
+   "type": "character"
+  },
+  {
+   "entity": "music",
+   "type": "concept"
+  },
+  {
+   "entity": "Labraid Loingsech",
+   "type": "mythological figure"
+  }
+ ],
+ "sources": [
+  "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.",
+  "MacKillop 2008, s.v. 'Craiphtine'"
+ ],
+ "okr": {
+  "objective": "Craiphtine is an Irish hero credited with inventing the harp.",
+  "key_results": [
+   "Craiphtine, also called Craftine or Cratiny, is credited with inventing the harp.",
+   "He appears in the myths of the hero Labhraigh, whose restless sleep his music eased.",
+   "So strong was his music that it sent entire armies to sleep, making him useful to his ruler in wartime.",
+   "MacKillop credits Craiphtine with inventing the harp from a willow tree.",
+   "Craiphtine doubles Labraid Loingsech and revealed his equine ears."
+  ],
+  "evidence": "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008. MacKillop 2008, s.v. 'Craiphtine'."
+ },
+ "cyphertext": "EHvwA0I0m6zIty1BHNy3AbbHPwET0196W2ECKJ6Z9zeH30mBdw1eL4AATcasyIJYvVnLm3q2wJlynwTERSP950yYrr61FX6zeenhOh0d1_6DTMFvNiF4I8MHuSW1LExrSv2qXqQ_CB-RTEfRiOK_YQlrL7rG61CoItH8cuOX3V4sgc9-G4fW04rYHzPlkvrYDqa81_LsTjOhGk5ub_FlMMV2dVYIwoTJtj5HqrlvUIDTZI8fHNcfad5tOmJQS5fGxqL6oIv2gs-pJrhh-uyCmjmoO1P3kxicSphORzo6zOg3E8Lxv7YiAJmlPub6NwMZR59BOyCQCCDnzHIvIgFoU6p4HcwK2BOCxLQCTWuV6fKdNNccE04eQaV9cTFLEeP07FX90U_dSX9egWsWpjphWJU0cl5jXXeXRQeRh9cLSd_Mw6xbudCIWZoLVfbEpJXl-vecfasfgH699KpRN8tcUZPvI--NRB5th0p6dOhiFzNItUxABbiVsQOW1yTCUlIirP6BENqPUA_8gocYUJ07CsotDYr6H2m4sHWnunr846YwaO2fjJJGdw==",
+ "salt": "Kw_F0XZ4ovfxmsZA6c5p7w==",
+ "text": "Craiphtine, also written Craftine or Cratiny, is an Irish hero. To him falls the credit for the harp, the tool most bound up with Ireland. He stands in the legends of the hero Labhraigh, and his melodies quieted the man's restless sleep. His sound grew so fierce it could lay armies to sleep entire, a boon that made him precious to his ruler in the field. MacKillop credits Craiphtine with the harp's invention, fashioned from a willow tree. He also serves as a double for the invader Labraid Loingsech, whose equine ears he revealed. His own wife Scenb proved unfaithful to him."
 }

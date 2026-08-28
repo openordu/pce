@@ -2,89 +2,69 @@
 layout: layouts/pce.njk
 title: Craiphtine
 icon: file-lines
-order: 549
+order: 0
 contributors: [ 'Christopher Godwin' ]
 attributes:
-  - Craiphtine Irish hero
-  - musical instrument invention
-  - Harp musical instrument
-  - Labhraigh hero
-  - melodies music
-  - ruler position
-  - war conflict
+  - Craiphtine Irish hero also called Craftine or Cratiny, credited with inventing the harp
+  - Craiphtine eased the restless sleep of the hero Labhraigh with his music
+  - Craiphtine his music sent entire armies to sleep
+  - Craiphtine his music made him useful to his ruler in wartime
+  - Craiphtine fashioned the harp from a willow tree
+  - Labraid Loingsech invader whose double Craiphtine may be
+  - Scenb unfaithful wife of Craiphtine
 categories:
-  - position
-  - art
-  - Irish hero
-  - music
-  - genre
-  - action
-  - conflict
-  - hero
-  - military
-  - musical instrument
+  - concept
+  - mythological figure
   - character
-  - invention
-  - location
+  - place
+  - person
+  - hero
+  - artifact
 entities:
-  - Craiphtine(Irish hero)
-  - musical instrument(invention)
-  - Ireland(location)
-  - Harp(musical instrument)
-  - myths(genre)
-  - hero(character)
+  - Craiphtine(hero)
+  - harp(artifact)
+  - Ireland(place)
   - Labhraigh(hero)
-  - sleep(action)
-  - melodies(music)
-  - music(art)
-  - armies(military)
-  - ruler(position)
-  - war(conflict)
+  - ruler(person)
+  - armies(character)
+  - music(concept)
+  - Labraid Loingsech(mythological figure)
 tags:
   - Craiphtine
-  - musical instrument
+  - harp
   - Ireland
-  - Harp
-  - myths
-  - hero
   - Labhraigh
-  - sleep
-  - melodies
-  - music
-  - armies
   - ruler
-  - war
+  - armies
+  - music
+  - Labraid Loingsech
 ---
 ``` tab [group1:Info]
 ::: magazinestyle
-Irish hero Craiphtine, also known as Craftine or Cratiny, was associated with the invention of the Harp, the musical instrument most linked to Ireland. He was featured in myths of the hero Labhraigh, whom he helped fall asleep with his music. Craiphtine's captivating melodies were so potent that he could even lull entire armies to slumber, which made him a valuable asset to his monarch during wartime.
+Craiphtine, also written Craftine or Cratiny, is an Irish hero. To him falls the credit for the harp, the tool most bound up with Ireland. He stands in the legends of the hero Labhraigh, and his melodies quieted the man's restless sleep. His sound grew so fierce it could lay armies to sleep entire, a boon that made him precious to his ruler in the field. MacKillop credits Craiphtine with the harp's invention, fashioned from a willow tree. He also serves as a double for the invader Labraid Loingsech, whose equine ears he revealed. His own wife Scenb proved unfaithful to him.
 
 :::
 ```
 ``` tab [group1:Attributes]
-- **Craiphtine**: Irish hero
-- **musical instrument**: invention
-- **Harp**: musical instrument
-- **Labhraigh**: hero
-- **melodies**: music
-- **ruler**: position
-- **war**: conflict
+- **Craiphtine**: Irish hero also called Craftine or Cratiny, credited with inventing the harp
+- **Craiphtine**: eased the restless sleep of the hero Labhraigh with his music
+- **Craiphtine**: his music sent entire armies to sleep
+- **Craiphtine**: his music made him useful to his ruler in wartime
+- **Craiphtine**: fashioned the harp from a willow tree
+- **Labraid Loingsech**: invader whose double Craiphtine may be
+- **Scenb**: unfaithful wife of Craiphtine
 ```
 ``` tab [group1:Entities]
-- **Craiphtine**: Irish hero
-- **musical instrument**: invention
-- **Ireland**: location
-- **Harp**: musical instrument
-- **myths**: genre
-- **hero**: character
+- **Craiphtine**: hero
+- **harp**: artifact
+- **Ireland**: place
 - **Labhraigh**: hero
-- **sleep**: action
-- **melodies**: music
-- **music**: art
-- **armies**: military
-- **ruler**: position
-- **war**: conflict
+- **ruler**: person
+- **armies**: character
+- **music**: concept
+- **Labraid Loingsech**: mythological figure
 ```
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
+- MacKillop 2008, s.v. 'Craiphtine'
 ```

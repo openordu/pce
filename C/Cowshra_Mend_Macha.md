@@ -22,7 +22,7 @@ tags:
 ``` tab [group1:Info]
 ::: magazinestyle
 Cowshra Mend Macha is a renaming of the Ulster hero Cuscraid Menn.
-The writer S. J. O'Grady coined it in his imaginative History of Ireland of 1878.
+The writer S. J. O'Grady coined it in his imaginative 1878 History of Ireland.
 MacKillop records the form as that book's anglicization of the hero's name.
 Cuscraid Menn, the stammerer of Macha, is a son of Conchobar mac Nessa.
 The hero falls in the tale of Mac Da Tho's pig.

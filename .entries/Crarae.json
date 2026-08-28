@@ -1,0 +1,46 @@
+{
+ "name": "Crarae",
+ "text": "Crarae is a chambered cairn site beside Loch Fyne in Scotland.\nThe loch cuts into north Strathclyde, in the old county of Argyllshire.\nMacKillop calls the tombs there the most impressive chambered examples in Scotland.\nArchaeologists excavated the ground between 1955 and 1957.\nThe monument rises on the loch's western shore among the country's prehistoric burial grounds.",
+ "entities": [
+  {
+   "entity": "Crarae",
+   "type": "place"
+  },
+  {
+   "entity": "Argyll",
+   "type": "place"
+  },
+  {
+   "entity": "cairn",
+   "type": "artifact"
+  }
+ ],
+ "attributes": [
+  {
+   "entity": "Crarae",
+   "attribute": "chambered cairn site on Loch Fyne, north Strathclyde"
+  },
+  {
+   "entity": "Crarae",
+   "attribute": "tombs held to be the most impressive chambered examples in Scotland"
+  },
+  {
+   "entity": "Crarae",
+   "attribute": "excavated 1955 to 1957"
+  }
+ ],
+ "sources": [
+  "MacKillop 2008, s.v. 'Crarae'"
+ ],
+ "image": [],
+ "cyphertext": "",
+ "salt": "",
+ "okr": {
+  "objective": "Crarae is a chambered cairn site of prehistoric tombs on Loch Fyne.",
+  "key_results": [
+   "MacKillop places the tombs on the west side of Loch Fyne in north Strathclyde.",
+   "Excavation ran from 1955 to 1957."
+  ],
+  "evidence": "MacKillop 2008, s.v. 'Crarae'."
+ }
+}

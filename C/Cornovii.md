@@ -16,7 +16,7 @@ tags:
 ---
 ``` tab [group1:Info]
 ::: magazinestyle
-Cornovii is the name of an ancient British tribe that held the valleys of the Severn and the Dee near the modern Welsh border. Their land lay open to attack and was hard to defend. The tribe therefore worked more closely with Rome than its neighbours did. The Cornovii were the only British people whose name was given to a unit of the Imperial auxiliary troop. They may also have lent their name to Cornwall.
+Cornovii is the name of an ancient British tribe that held the Severn and Dee valleys near the modern Welsh border. Their land lay open to attack and was hard to defend. The tribe therefore worked more closely with Rome than its neighbours did. The Cornovii alone among British tribes saw their name given to a unit of the Imperial auxiliary troops. They may also have lent their name to Cornwall.
 
 :::
 ```
