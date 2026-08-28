@@ -1,0 +1,47 @@
+{
+  "name": "Reilig na Rígh",
+  "text": "Reilig na Rígh is an Irish phrase meaning cemetery of the kings. The printed forms include Reilg na Riogh and Relig na Ri. Since the eighteenth century the name has marked a large, ringed enclosure. It sits at Cruachain in County Roscommon, though writers call it a fanciful label. Tradition makes the enclosure the resting ground of Connacht's kings, yet no modern archaeological evidence supports that claim. The site still belongs to the Cruachain royal landscape.",
+  "entities": [
+    {
+      "entity": "Reilig na Rígh",
+      "type": "Place"
+    },
+    {
+      "entity": "Cruachan",
+      "type": "Place"
+    },
+    {
+      "entity": "Connacht",
+      "type": "Place"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Reilig na Rígh",
+      "attribute": "Irish phrase meaning cemetery of the kings, current since the 18th century"
+    },
+    {
+      "entity": "Reilig na Rígh",
+      "attribute": "large, ringed enclosure at Cruachain in County Roscommon"
+    },
+    {
+      "entity": "Reilig na Rígh",
+      "attribute": "the kings-of-Connacht burial claim lacks archaeological support"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Reilig na Righ'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Reilig na Rígh is an Irish phrase meaning cemetery of the kings",
+    "key_results": [
+      "Irish name meaning cemetery of the kings",
+      "marks a ringed enclosure at Cruachain since the 18th century",
+      "its royal-burial repute fails archaeological testing"
+    ],
+    "evidence": "MacKillop 2008, s.v. Reilig na Righ."
+  }
+}

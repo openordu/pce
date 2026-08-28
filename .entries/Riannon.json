@@ -1,0 +1,37 @@
+{
+  "name": "Riannon",
+  "text": "Riannon is a variant spelling of Rhiannon, whose node holds the full record. The dictionary prints this form as its own headword, and the encyclopedia keeps each variant on its own row.",
+  "entities": [
+    {
+      "entity": "Riannon",
+      "type": "Person"
+    },
+    {
+      "entity": "Rhiannon",
+      "type": "Person"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Riannon",
+      "attribute": "variant spelling of Rhiannon"
+    },
+    {
+      "entity": "Riannon",
+      "attribute": "printed as its own headword"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Riannon'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Riannon is a variant spelling of Rhiannon, whose node holds the full record",
+    "key_results": [
+      "variant spelling of Rhiannon"
+    ],
+    "evidence": "MacKillop 2008, s.v. Riannon."
+  }
+}

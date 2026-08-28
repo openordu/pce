@@ -1,0 +1,47 @@
+{
+  "name": "Saingliu",
+  "text": "Saingliu is the last and favourite horse of Cúchulainn. The printed forms include Dub Saingliu, with the genitives Sainglend and Dubsainglend. The element dub, black, marks the longer form. Speed and beauty set this horse above every other in the story. The entry pairs the name with Liath Macha, the hero's other noted mount.",
+  "entities": [
+    {
+      "entity": "Saingliu",
+      "type": "Animal"
+    },
+    {
+      "entity": "Cúchulainn",
+      "type": "Person"
+    },
+    {
+      "entity": "Liath Macha",
+      "type": "Animal"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Saingliu",
+      "attribute": "last and favourite horse of Cúchulainn"
+    },
+    {
+      "entity": "Saingliu",
+      "attribute": "exceeded all others in speed and beauty"
+    },
+    {
+      "entity": "Saingliu",
+      "attribute": "forms Dub Saingliu, Sainglend, Dubsainglend"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Saingliu, Dub Saingliu'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Saingliu is the last and favourite horse of Cúchulainn",
+    "key_results": [
+      "last and favourite horse of Cúchulainn",
+      "peerless in speed and beauty",
+      "recorded beside the hero's other mount, Liath Macha"
+    ],
+    "evidence": "MacKillop 2008, s.v. Saingliu, Dub Saingliu."
+  }
+}

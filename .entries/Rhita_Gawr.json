@@ -1,0 +1,47 @@
+{
+  "name": "Rhita Gawr",
+  "text": "Rhita Gawr is a Welsh giant, his name built on cawr, giant. He wore the beards of the kings he had slain, and he counted that tally as his boast. A place-name story tells how Arthur killed him and ordered his men to heap stones over the body. That heap forms Gwyddfa Rhita, Rhita's Cairn. The phrase stands as an old Welsh term for Snowdon.",
+  "entities": [
+    {
+      "entity": "Rhita Gawr",
+      "type": "Person"
+    },
+    {
+      "entity": "Arthur",
+      "type": "Person"
+    },
+    {
+      "entity": "Snowdon",
+      "type": "Place"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Rhita Gawr",
+      "attribute": "Welsh giant who wore the beards of slain kings"
+    },
+    {
+      "entity": "Rhita Gawr",
+      "attribute": "slain by Arthur in the Gwyddfa Rhita place-name story"
+    },
+    {
+      "entity": "Rhita Gawr",
+      "attribute": "name element cawr means giant"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Rhita Gawr'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Rhita Gawr is a Welsh giant, his name built on cawr, giant",
+    "key_results": [
+      "giant wearing the beards of the kings he had slain",
+      "killed by Arthur in a place-name story",
+      "Gwyddfa Rhita, an old Welsh term for Snowdon"
+    ],
+    "evidence": "MacKillop 2008, s.v. Rhita Gawr."
+  }
+}

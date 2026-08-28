@@ -1,0 +1,47 @@
+{
+  "name": "Roca Barraidh",
+  "text": "Roca Barraidh is a name used on Barra, one of the Outer Hebrides. It marks an enchanted island far out on the dim western horizon. Privileged fishermen alone may glimpse it, and only on rare occasions. The Scottish Gaelic roc covers anything that tangles a fishing hook, and the tops of seaweed above the water. The name joins the family of western otherworld islands beside Tír na nÓg. Such horizon islands belong to the same seam of story as the western otherworld itself.",
+  "entities": [
+    {
+      "entity": "Roca Barraidh",
+      "type": "Place"
+    },
+    {
+      "entity": "Barra",
+      "type": "Place"
+    },
+    {
+      "entity": "Tir na nOg",
+      "type": "Place"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Roca Barraidh",
+      "attribute": "enchanted island on the dim western horizon off Barra"
+    },
+    {
+      "entity": "Roca Barraidh",
+      "attribute": "visible on rare occasions to privileged fishermen"
+    },
+    {
+      "entity": "Roca Barraidh",
+      "attribute": "Scottish Gaelic roc, fishing-hook tangle or seaweed tops"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Roca Barraidh'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Roca Barraidh is a name used on Barra, one of the Outer Hebrides",
+    "key_results": [
+      "enchanted island named on the Isle of Barra",
+      "seen rarely, by privileged fishermen only",
+      "word roc covers fishing-hook tangles and seaweed tops"
+    ],
+    "evidence": "MacKillop 2008, s.v. Roca Barraidh."
+  }
+}
