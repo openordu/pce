@@ -1,0 +1,38 @@
+{
+ "name": "Corrib",
+ "text": "Corrib names a famous lake in the west of Ireland.\nMacKillop records the Old Irish form Loch nOirbsen for these waters.\nThe lake lies in Connacht and touches counties Galway and Mayo.\nIts old name recalls Oirbsiu, an epithet of the sea-god Manannan mac Lir.\nReaders should follow the Lough Corrib entry for the full account.",
+ "entities": [
+  {
+   "entity": "Corrib",
+   "type": "place"
+  },
+  {
+   "entity": "Lough Corrib",
+   "type": "place"
+  }
+ ],
+ "attributes": [
+  {
+   "entity": "Corrib",
+   "attribute": "headword form of the great Connacht lake"
+  },
+  {
+   "entity": "Lough Corrib",
+   "attribute": "lake recorded in Old Irish as Loch nOirbsen"
+  }
+ ],
+ "sources": [
+  "MacKillop 2008, s.v. 'Corrib'"
+ ],
+ "image": [],
+ "cyphertext": "",
+ "salt": "",
+ "okr": {
+  "objective": "Corrib is the headword form of the great western lake called Lough Corrib.",
+  "key_results": [
+   "MacKillop records the lake under the Old Irish name Loch nOirbsen.",
+   "The old name recalls Oirbsiu, an epithet of Manannan mac Lir."
+  ],
+  "evidence": "MacKillop 2008, s.v. 'Corrib'."
+ }
+}

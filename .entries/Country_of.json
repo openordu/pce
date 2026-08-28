@@ -1,0 +1,38 @@
+{
+ "name": "Country of",
+ "text": "Country of is the English translation of the Irish word tir in place-names.\nMacKillop offers the phrase chiefly to point readers onward.\nThe best-known use is the Country of Youth, the land of timeless life.\nIrish tradition calls that land Tir na nOg.\nReaders should follow the Tir na nOg entry for the full account.",
+ "entities": [
+  {
+   "entity": "Country of",
+   "type": "concept"
+  },
+  {
+   "entity": "Tir na nOg",
+   "type": "place"
+  }
+ ],
+ "attributes": [
+  {
+   "entity": "Country of",
+   "attribute": "English translation of the Irish word tir"
+  },
+  {
+   "entity": "Tir na nOg",
+   "attribute": "the Country of Youth, land of timeless life"
+  }
+ ],
+ "sources": [
+  "MacKillop 2008, s.v. 'Country of'"
+ ],
+ "image": [],
+ "cyphertext": "",
+ "salt": "",
+ "okr": {
+  "objective": "Country of translates the Irish word tir and points chiefly to the Country of Youth.",
+  "key_results": [
+   "MacKillop renders tir as Country of in Irish place-names.",
+   "The Country of Youth is the Irish otherworld Tir na nOg."
+  ],
+  "evidence": "MacKillop 2008, s.v. 'Country of'."
+ }
+}

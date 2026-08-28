@@ -2,70 +2,61 @@
 layout: layouts/pce.njk
 title: couril
 icon: file-lines
-order: 541
+order: 0
 contributors: [ 'Christopher Godwin' ]
 attributes:
-  - couril evil
-  - couril mischievous
-  - couril captured humans
-  - couril kept humans dancing until exhaustion
-  - Fairies congregated around Stone Circles
-  - Fairies enjoyed dancing all night
-  - human wandered near Fairies
-  - young woman enjoyed by Fairies
-  - young woman left pregnant with half-fairy child
+  - courils mischievous fairies around stone circles
+  - courils danced all night at Tresmalonen
+  - courils caught travelers and made them dance to death
+  - couril left a young woman with a half-fairy child
+  - couril classed by MacKillop as a gnome of Brittany
+  - couril compared to the goric of the same region
+  - couril found most often around the ruins of Tresmalouen
 categories:
-  - species
-  - mythical creature
-  - mythical creatures
-  - ancient structures
-  - gender
-  - folkloric figure
-  - location
+  - place
+  - mythological creature
 entities:
-  - couril(folkloric figure)
-  - Fairies(mythical creatures)
-  - Stone Circles(ancient structures)
-  - Tresmalonen(location)
-  - human(species)
-  - young woman(gender)
-  - half-fairy child(mythical creature)
+  - courils(mythological creature)
+  - fairy(mythological creature)
+  - stone circles(place)
+  - Tresmalonen(place)
+  - gnome(mythological creature)
+  - Brittany(place)
 tags:
-  - couril
-  - Fairies
-  - Stone Circles
+  - courils
+  - fairy
+  - stone circles
   - Tresmalonen
-  - human
-  - young woman
-  - half-fairy child
+  - gnome
+  - Brittany
 ---
 ``` tab [group1:Info]
 ::: magazinestyle
-The evil courils were a Breton folkloric figure, often found around ancient Stone Circles, specifically the ones at Tresmalonen, where they would dance throughout the night. If a human were to come across them in the dark, they would snatch them and force them to dance until they died from exhaustion. Alternatively, if the unfortunate victim happened to be a young woman, the courils would take advantage of her and leave her with a child who was half fairy.
+The courils were Breton fairies. They were wicked, or plainly mischievous.
+They gathered around the old stone circles, most of all those at Tresmalonen.
+There they danced all night. A traveler who neared them in the dark was taken and made to dance until he fell dead from exhaustion. If the lost traveler was a young woman, the fairies enjoyed her favor and left her with child, a half-fairy child. MacKillop classes the couril as a gnome of Brittany rather than a fairy proper. He compares the creature to the goric of the same region. The ruins of Tresmalouen are the spot where the couril was found most often.
 
 :::
 ```
 ``` tab [group1:Attributes]
-- **couril**: evil
-- **couril**: mischievous
-- **couril**: captured humans
-- **couril**: kept humans dancing until exhaustion
-- **Fairies**: congregated around Stone Circles
-- **Fairies**: enjoyed dancing all night
-- **human**: wandered near Fairies
-- **young woman**: enjoyed by Fairies
-- **young woman**: left pregnant with half-fairy child
+- **courils**: mischievous fairies around stone circles
+- **courils**: danced all night at Tresmalonen
+- **courils**: caught travelers and made them dance to death
+- **couril**: left a young woman with a half-fairy child
+- **couril**: classed by MacKillop as a gnome of Brittany
+- **couril**: compared to the goric of the same region
+- **couril**: found most often around the ruins of Tresmalouen
 ```
 ``` tab [group1:Entities]
-- **couril**: folkloric figure
-- **Fairies**: mythical creatures
-- **Stone Circles**: ancient structures
-- **Tresmalonen**: location
-- **human**: species
-- **young woman**: gender
-- **half-fairy child**: mythical creature
+- **courils**: mythological creature
+- **fairy**: mythological creature
+- **stone circles**: place
+- **Tresmalonen**: place
+- **gnome**: mythological creature
+- **Brittany**: place
 ```
 ``` tab [group1:Sources]
 - Henderson, George. Survivals in Belief Among the Celts. Glasgow: James MacLeose and Sons, 1911, 73.
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
+- MacKillop 2008, s.v. 'Couril'
 ```
