@@ -1,0 +1,40 @@
+{
+  "name": "Clonfert",
+  "entities": [
+    {
+      "entity": "Clonfert",
+      "type": "monastery"
+    },
+    {
+      "entity": "Brendan",
+      "type": "saint"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Clonfert",
+      "attribute": "a monastery founded by St Brendan"
+    },
+    {
+      "entity": "Clonfert",
+      "attribute": "keeps a doorway of prime Hibernian Romanesque work"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Clonfert'."
+  ],
+  "cyphertext": "",
+  "salt": "",
+  "image": [],
+  "text": "Clonfert, Irish for meadow of the grave, is a monastery in east County Galway. St Brendan founded it in the fifth century, one mile north of Ballinasloe. Raiders sacked its buildings again and again over the centuries. The cathedral kept one treasure through that violence. Its doorway survives, and scholars rank the portal among the leading works of Hibernian Romanesque art. That style marks twelfth-century Irish church art, with rounded arches, chevron ornament, and carved animal heads. Clonfert's great doorway stands as a leading example of that school.",
+  "okr": {
+    "objective": "Clonfert is St Brendan's monastery, whose cathedral doorway is a leading Hibernian Romanesque work.",
+    "key_results": [
+      "Explain the name, the meadow of the grave.",
+      "Record Brendan's fifth-century founding in east County Galway.",
+      "Record the sackings the buildings endured.",
+      "Rank the surviving doorway among the leading works of Hibernian Romanesque art."
+    ],
+    "evidence": "MacKillop, Dictionary of Celtic Mythology, s.v. Clonfert"
+  }
+}
