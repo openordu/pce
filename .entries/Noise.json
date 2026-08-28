@@ -1,0 +1,47 @@
+{
+ "name": "Noíse",
+ "text": "Noíse is one of the spelling cluster that MacKillop 2008 gives in a single line: Noise, Naoise, Naisi, lover of Deirdre. The dictionary treats the variants as one persona, the young Ulster hero whose flight with Deirdre to Alba and whose death at Conchobar's hand form one of the saddest threads of the Ulster Cycle. The entry's brevity is a filing decision, not a judgement: the full narrative sits under the main headword, and this row exists so that a reader who meets any of the three spellings in a source finds the same man.",
+ "entities": [
+  {
+   "entity": "Noíse",
+   "type": "Person"
+  },
+  {
+   "entity": "Naoise",
+   "type": "Person"
+  },
+  {
+   "entity": "Naisi",
+   "type": "Person"
+  },
+  {
+   "entity": "Deirdre",
+   "type": "Person"
+  }
+ ],
+ "attributes": [
+  {
+   "entity": "Noíse",
+   "attribute": "variant spelling of the lover of Deirdre recorded in MacKillop 2008"
+  },
+  {
+   "entity": "Noíse",
+   "attribute": "files with the Noise/Naoise/Naisi cluster of the Ulster Cycle"
+  }
+ ],
+ "sources": [
+  "MacKillop 2008, s.v. 'Noíse'"
+ ],
+ "image": [],
+ "cyphertext": "",
+ "salt": "",
+ "okr": {
+  "objective": "Documents Noíse as recorded in MacKillop 2008 for the Public Celtic Encyclopedia.",
+  "key_results": [
+   "Noíse is one of three spellings MacKillop gives for the lover of Deirdre.",
+   "The dictionary files Noise, Naoise, and Naisi as one persona.",
+   "The full narrative lives under the main headword."
+  ],
+  "evidence": "MacKillop 2008, s.v. Noíse."
+ }
+}

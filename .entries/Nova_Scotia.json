@@ -1,0 +1,51 @@
+{
+ "name": "Nova Scotia",
+ "text": "Nova Scotia is the maritime Canadian province that MacKillop 2008 names as home to more speakers of a Celtic tongue than any land outside Europe. Highlanders began moving there in the late eighteenth century, chiefly into the north-east of the province and above all onto Cape Breton Island. Gaelic settlements appeared elsewhere in Canada, but Nova Scotia's held the language most persistently: the census of 1931 counted 24,303 speakers, most of them natives of the province. Scottish Gaelic was never a tongue of commerce or schooling there, yet it lived in the household and often in churches. Many emigrants came from the poorest classes, though far fewer fled the Clearances than older accounts liked to suppose, and the Scottish literary tradition travelled with them in the persons of several bards. Oral tradition in Gaelic ran almost to the close of the twentieth century, and the huge repertoire of the storyteller Joe Neil MacNeil, born 1908, holds stories that parallel Scottish collections. The province also took many Irish and some Welsh immigrants, and Cape Breton Island itself took its name from Breton fishermen who worked its waters from the sixteenth century onward.",
+ "entities": [
+  {
+   "entity": "Nova Scotia",
+   "type": "Place"
+  },
+  {
+   "entity": "Cape Breton Island",
+   "type": "Place"
+  },
+  {
+   "entity": "Joe Neil MacNeil",
+   "type": "Person"
+  },
+  {
+   "entity": "Scottish Gaelic",
+   "type": "Language"
+  }
+ ],
+ "attributes": [
+  {
+   "entity": "Nova Scotia",
+   "attribute": "home to the largest population of Celtic-language speakers outside Europe"
+  },
+  {
+   "entity": "Nova Scotia",
+   "attribute": "Highland migration from the late eighteenth century, chiefly to Cape Breton Island"
+  },
+  {
+   "entity": "Nova Scotia",
+   "attribute": "the 1931 census recorded 24,303 Gaelic speakers, most born in the province"
+  }
+ ],
+ "sources": [
+  "MacKillop 2008, s.v. 'Nova Scotia'"
+ ],
+ "image": [],
+ "cyphertext": "",
+ "salt": "",
+ "okr": {
+  "objective": "Documents Nova Scotia as recorded in MacKillop 2008 for the Public Celtic Encyclopedia.",
+  "key_results": [
+   "Nova Scotia holds the largest Gaelic-speaking population outside Europe.",
+   "The 1931 census counted 24,303 speakers, most of them native to the province.",
+   "Storyteller Joe Neil MacNeil's repertoire parallels Scottish collections."
+  ],
+  "evidence": "MacKillop 2008, s.v. Nova Scotia."
+ }
+}
