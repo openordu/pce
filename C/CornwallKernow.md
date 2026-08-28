@@ -15,13 +15,13 @@ attributes:
   - Cornwall/Kernow former part of the kingdom of Dumnonia
   - Cornwall/Kernow home of King Mark and Tristan in Arthurian tale
 categories:
-  - Group
-  - Creature
+  - Person
   - person
+  - Place
+  - Creature
   - place
   - Language
-  - Person
-  - Place
+  - Group
 entities:
   - Cornwall(Place)
   - Cornish(Language)
@@ -51,7 +51,7 @@ tags:
 ---
 ``` tab [group1:Info]
 ::: magazinestyle
-Cornwall/Kernow is the southwesternmost part of Britain, long a home of the Brythonic Celtic language Cornish. Kernow is simply the Cornish name for Cornwall. Around 1100 the tongue ran from the river Tamar to Land's End, and close to twenty thousand of the county's roughly twenty-one thousand people still spoke it. The county covers 1,369 square miles on a south-western peninsula and once formed part of the kingdom of Dumnonia. Irish freebooters raided the peninsula before the sixth century and left settlements behind, and Irish missionaries later preached the faith there. As the Duchy of Cornwall the land kept its Celtic speech and customs behind the Tamar, despite the pressure of its Saxon neighbours. Cornish belongs to the Brythonic family beside Welsh and Breton. The gospel translations reach back to the tenth century, and mystery plays in Cornish survive from the fifteenth. The speech faded in the mid-eighteenth century, and enthusiasts revived it in the twentieth. Robert Hunt and William Bottrell gathered the lore of the county in the nineteenth, and Tintagel and Kelliwic carry its Arthurian tales, with the county named as the home of King Mark and Tristan. Henry Jenner and R. Morton Nance raised the revival's standard, and Gorseth Kernow keeps it. The chough still marks the county's heraldry.
+Cornwall/Kernow is the southwesternmost part of Britain, long a home of the Brythonic Celtic language Cornish. Kernow is simply the Cornish name for Cornwall. Around 1100 the tongue ran from the river Tamar to Land's End, and close to twenty thousand of the county's roughly twenty-one thousand people still spoke it. The county covers 1,369 square miles on a south-western peninsula and once formed part of the kingdom of Dumnonia. Irish freebooters raided the peninsula before the sixth century and left settlements behind, and Irish missionaries later preached the faith there. As the Duchy of Cornwall the land kept its Celtic speech and customs behind the Tamar, despite the pressure of its Saxon neighbours. Cornish belongs to the Brythonic family beside Welsh and Breton. The gospel translations reach back to the tenth century. Mystery plays in Cornish still exist from the fifteenth. The speech faded in the mid-eighteenth century, and enthusiasts revived it in the twentieth. Robert Hunt and William Bottrell gathered the lore of the county in the nineteenth, and Tintagel and Kelliwic carry its Arthurian tales, with the county named as the home of King Mark and Tristan. Henry Jenner and R. Morton Nance raised the revival's standard, and Gorseth Kernow keeps it. The chough still marks the county's heraldry.
 
 :::
 ```
