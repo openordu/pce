@@ -2,81 +2,74 @@
 layout: layouts/pce.njk
 title: Lough Derg
 icon: file-lines
-order: 1473
+order: 3530
 contributors: [ 'Christopher Godwin' ]
 attributes:
-  - Patrick saint
-  - Purgatory on Station Island
-  - Cave descended through
-  - Otherworld in order to do battle with
-  - legend does not date from early Christian times
-  - 16th century pilgrims housed in dormitories according to their Province
-  - island formed a microcosm of all Ireland
-  - site continues to attract pilgrims today
+  - Lough Derg lake in County Donegal, Ireland
+  - Caoranach monster or serpent defeated by Saint Patrick
+  - Lough Derg name means dark red lake
+  - Bodb Derg said to have his palace at the Galway lake
 categories:
-  - Location
-  - Religion
-  - Concept
-  - Time
+  - Creature
   - Person
+  - Being
+  - Group
+  - Place
 entities:
-  - Patrick(Person)
-  - Purgatory(Location)
-  - Station Island(Location)
-  - Cave(Location)
-  - Otherworld(Location)
-  - evil(Concept)
-  - Christian(Religion)
-  - medieval period(Time)
-  - 16th century(Time)
-  - dormitories(Location)
-  - Province(Location)
-  - Ireland(Location)
+  - Lough Derg(Place)
+  - Caoranach(Creature)
+  - Saint Patrick(Person)
+  - Bodb Derg(Being)
+  - Tuatha De Danann(Group)
+  - Saint Patrick's Purgatory(Place)
+  - Donegal(Place)
+  - Pettigoe(Place)
+  - Station Island(Place)
+  - Shannon(Place)
+  - Killaloe(Place)
+  - Eochaid(Person)
 tags:
-  - Patrick
-  - Purgatory
+  - Lough Derg
+  - Caoranach
+  - Saint Patrick
+  - Bodb Derg
+  - Tuatha De Danann
+  - Saint Patrick's Purgatory
+  - Donegal
+  - Pettigoe
   - Station Island
-  - Cave
-  - Otherworld
-  - evil
-  - Christian
-  - medieval period
-  - 16th century
-  - dormitories
-  - Province
-  - Ireland
+  - Shannon
+  - Killaloe
+  - Eochaid
 ---
 ``` tab [group1:Info]
 ::: magazinestyle
-Lough Derg, located in Co. Donegal, is a site steeped in Irish mythology. According to legend, a monstrous creature named Caoranach once occupied the lake and was killed by St. Patrick, whose victory stained the waters a dark red hue, giving the lake its name. Co. Galway also boasts a Lake of the same name, where Bodb Derg, the great magician of the Tuatha Dé Danann, was believed to have had his palace. Since the advent of Christianity in Ireland, Lough Derg in Donegal has been regarded as the most significant place of pilgrimage, largely due to the presence of St. Patrick’s Station Island, where the saint purportedly descended through a cave to do battle with evil in an Otherworld. It is worth noting that this tale is not from early Christian times, but from the medieval period. In the late 16th century, pilgrims were accommodated in dormitories based on their Province, giving the island the character of a microcosm of Ireland. People still flock to this site in pilgrimage to this day.
+Lough Derg is a lake in County Donegal, Ireland. The Irish derg in its name means red. The lake lies 4 miles north-west of Pettigoe and measures 6 by 4 miles. People also call it Saint Patrick's Purgatory, and it has long drawn religious pilgrims. No written record proves that Saint Patrick ever came to the lake. Scholars think the saint died about 493. A famous legend says he banished the monster Caoranach into the waters, and the waters turned red. That gave the lake its name, dark red lake. Pilgrims came to the lake long before the 12th century. They used a cavern known as the Purgatory. Medieval tradition held that the saint descended into Purgatory by way of a cave on Station Island. Today thousands of pilgrims cross to Station Island from the start of June to mid-August. They stay awake all night inside the cavern. They also pass three days in fasting and prayer at the nearby modern basilica. For centuries the Donegal lake has ranked as Ireland's chief place of pilgrimage. A second Lough Derg widens the River Shannon to about 24 miles long and 2 miles wide. It lies above Killaloe. Its western shore touches counties Clare and Galway, and its eastern shore touches Tipperary. This second Lough Derg was named for Eochaid, a possible sun-god. Eochaid sometimes bore the epithet Deirgderc, which means red eye. Separately, a lake of the same name in County Galway holds the palace of the magician Bodb Derg of the Tuatha De Danann.
 
 :::
 ```
 ``` tab [group1:Attributes]
-- **Patrick**: saint
-- **Purgatory**: on Station Island
-- **Cave**: descended through
-- **Otherworld**: in order to do battle with
-- **legend**: does not date from early Christian times
-- **16th century pilgrims**: housed in dormitories according to their Province
-- **island**: formed a microcosm of all Ireland
-- **site**: continues to attract pilgrims today
+- **Lough Derg**: lake in County Donegal, Ireland
+- **Caoranach**: monster or serpent defeated by Saint Patrick
+- **Lough Derg**: name means dark red lake
+- **Bodb Derg**: said to have his palace at the Galway lake
 ```
 ``` tab [group1:Entities]
-- **Patrick**: Person
-- **Purgatory**: Location
-- **Station Island**: Location
-- **Cave**: Location
-- **Otherworld**: Location
-- **evil**: Concept
-- **Christian**: Religion
-- **medieval period**: Time
-- **16th century**: Time
-- **dormitories**: Location
-- **Province**: Location
-- **Ireland**: Location
+- **Lough Derg**: Place
+- **Caoranach**: Creature
+- **Saint Patrick**: Person
+- **Bodb Derg**: Being
+- **Tuatha De Danann**: Group
+- **Saint Patrick's Purgatory**: Place
+- **Donegal**: Place
+- **Pettigoe**: Place
+- **Station Island**: Place
+- **Shannon**: Place
+- **Killaloe**: Place
+- **Eochaid**: Person
 ```
 ``` tab [group1:Sources]
 - Dames, Michael. Mythic Ireland. London: Thames and Hudson, 1992, pp. 22 ff.
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
+- MacKillop 2008, s.v. 'Lough Derg'
 ```

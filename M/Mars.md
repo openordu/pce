@@ -2,39 +2,120 @@
 layout: layouts/pce.njk
 title: Mars
 icon: file-lines
-order: 1567
+order: 1868
 contributors: [ 'Christopher Godwin' ]
 attributes:
-  - Mars Smertrius name includes the same syllable for abundance as found in the goddess Rosmetra
-  - Mars Vesontius None
+  - Mars a Continental Celtic and British god with more than 60 versions under the interpretatio romana
+  - Mars far less bellicose than his Roman antecedent and a primary healing god of Roman Britain
+  - Mars honoured as Loucetius at Bath and as Lenus at Trier
+  - Mars often merged with indigenous deities and given local epithets
+  - Mars sometimes shown in warrior's attire with a cornucopia, a torc, or multiplied into three gods
+  - interpretatio romana the Roman practice of calling Celtic deities by Latin names
+  - interpretatio celtica the native practice of adapting Roman deities to local religious needs
 categories:
-  - Roman god
-  - Goddess
+  - Person
+  - Artifact
+  - Concept
+  - Group
+  - Place
 entities:
-  - Mars Smertrius(Roman god)
-  - Rosmetra(Goddess)
-  - Mars Vesontius(Roman god)
+  - Mars(Person)
+  - interpretatio romana(Concept)
+  - interpretatio celtica(Concept)
+  - Julius Caesar(Person)
+  - Lucan(Person)
+  - Teutates(Person)
+  - Loucetius(Person)
+  - Lenus(Person)
+  - Belatucadros(Person)
+  - Camulos(Person)
+  - Cocidius(Person)
+  - Nodons(Person)
+  - Albiorix(Person)
+  - Caturix(Person)
+  - Rigisamus(Person)
+  - Thincsus(Person)
+  - Bath(Place)
+  - Trier(Place)
+  - Aquae Sulis Minerva(Place)
+  - Britain(Place)
+  - Gaul(Place)
+  - Belgae(Group)
+  - Remi(Group)
+  - torc(Artifact)
+  - cornucopia(Artifact)
 tags:
-  - Mars Smertrius
-  - Rosmetra
-  - Mars Vesontius
+  - Mars
+  - interpretatio romana
+  - interpretatio celtica
+  - Julius Caesar
+  - Lucan
+  - Teutates
+  - Loucetius
+  - Lenus
+  - Belatucadros
+  - Camulos
+  - Cocidius
+  - Nodons
+  - Albiorix
+  - Caturix
+  - Rigisamus
+  - Thincsus
+  - Bath
+  - Trier
+  - Aquae Sulis Minerva
+  - Britain
+  - Gaul
+  - Belgae
+  - Remi
+  - torc
+  - cornucopia
 ---
 ``` tab [group1:Info]
 ::: magazinestyle
-Mars was a Continental Celtic and British god. As the Roman legions conquered various Celtic tribes, the Interpretatio Romana was practiced whereby local deities were called by Roman names. This resulted in over 60 versions of Mars, originally known as the Roman god of agriculture but later becoming the god of war. This was because Roman fields needed protection by warriors against invaders who might take them over. While it is unclear if the Celts saw their Mars as similarly connecting war and agriculture, some inscriptions and sculptures suggest so, particularly those which depict Mars wearing a warrior's attire but holding a Cornucopia filled with fruits from the harvest. Some view Mars as a protector of the people and equate him with the god Teutates, who is referred to as the "ruler of the people" in several sites. Others propose that the Celtic Mars was a god of the wildwood or of healing, the latter originating from an image of a warrior battling against disease. Numerous inscriptions and altars to Mars are found throughout Celtic lands, indicating his popularity as a divinity or that the Roman god subsumed various divinities. Typical depictions of Mars portray him in Celtic military garb, sometimes even wearing a twisted-metal Torc around his neck, an interesting decision since Celtic warriors were defeated by the occupying Romans. Mars is occasionally depicted naked, armed with a weapon, a direct reference to the Celtic tradition of warriors going to battle without clothing or armor. Occasionally, Mars was depicted as three gods in Celtic mythology, a concept not present in Roman tradition. The Celts frequently utilized this allegorical technique to emphasize the divine power of Mars, found predominantly in Britain and among the Belgai and the Remi on the Continent. In some circumstances, the Mars figure was accompanied by a surname which is believed to come from the Celtic term for the district or tribal deity. Some of these Mars figures include names such as Mars Alator, Mars Albiorix (meaning “world-king,” who was the tribal god of the Albici of Gaul), Mars Beatucadrus (interpreted as “bright one” or “comely in slaughter”), Mars Braciaca (possibly a god of grain or ale), Mars Camulos (illustrated with an oak crown or with ram’s horns), Mars Caturix (meaning “battle-king”), Mars Lenus (a healing spring god of Trier in Germany), Mars Lucetius (meaning “light”), Mars Mediocius (found only in Colchester, England), Mars Mogetius (whose name appears on two inscriptions from Bourges and Seggau), Mars Mullo (meaning “mule” or “wall,” a healer shown with a horned serpent), Mars Nabelcus (known from several inscriptions in France), Mars Rigisamus (meaning “king of kings”), Mars Smertrius (whose name includes the same syllable for abundance as found in the goddess Rosmetra), and Mars Vesontius.
+Mars appears in the early Celtic lands as a god with many faces because two forces pushed against each other in Gaul and Britain. Rome, through interpretatio romana, gave the native gods Latin names and ignored the old identities. The conquered peoples answered with interpretatio celtica, fitting the gods of the conqueror to their own rites and adding local titles. So the Celtic Mars seems much less war-like than his Roman form. Caesar in the first century B.C. names Mars a favoured war god of Gaul, and Lucan sets the fierce Teutates beside him. Yet in Roman Britain he became chiefly a god of healing. Under the title Loucetius, the bright one, he was honoured at the great waters of Aquae Sulis at Bath. Another healing name, Lenus, is found at Trier and may reach back before Rome. The Celts tied the goose to him, seeing the courage of a watchful guard. His cult drank in many native gods, so his identity merged with Belatucadros, Camulos, Cocidius, Nodons, and Teutates, names that might stand alone or fall behind his. Local shrines gave him titles such as Albiorix, Caturix, Rigisamus, and the German Thincsus. Some saw him as guardian of the people, some as a forest or healing power. He could wear the war dress with a horn of plenty, carry a twisted torc, or stand naked with a weapon recalling the old custom of fighting bare. More than sixty Celtic forms of Mars survive, proof of how broad his worship grew.
+
 
 :::
 ```
 ``` tab [group1:Attributes]
-- **Mars Smertrius**: name includes the same syllable for abundance as found in the goddess Rosmetra
-- **Mars Vesontius**: None
+- **Mars**: a Continental Celtic and British god with more than 60 versions under the interpretatio romana
+- **Mars**: far less bellicose than his Roman antecedent and a primary healing god of Roman Britain
+- **Mars**: honoured as Loucetius at Bath and as Lenus at Trier
+- **Mars**: often merged with indigenous deities and given local epithets
+- **Mars**: sometimes shown in warrior's attire with a cornucopia, a torc, or multiplied into three gods
+- **interpretatio romana**: the Roman practice of calling Celtic deities by Latin names
+- **interpretatio celtica**: the native practice of adapting Roman deities to local religious needs
 ```
 ``` tab [group1:Entities]
-- **Mars Smertrius**: Roman god
-- **Rosmetra**: Goddess
-- **Mars Vesontius**: Roman god
+- **Mars**: Person
+- **interpretatio romana**: Concept
+- **interpretatio celtica**: Concept
+- **Julius Caesar**: Person
+- **Lucan**: Person
+- **Teutates**: Person
+- **Loucetius**: Person
+- **Lenus**: Person
+- **Belatucadros**: Person
+- **Camulos**: Person
+- **Cocidius**: Person
+- **Nodons**: Person
+- **Albiorix**: Person
+- **Caturix**: Person
+- **Rigisamus**: Person
+- **Thincsus**: Person
+- **Bath**: Place
+- **Trier**: Place
+- **Aquae Sulis Minerva**: Place
+- **Britain**: Place
+- **Gaul**: Place
+- **Belgae**: Group
+- **Remi**: Group
+- **torc**: Artifact
+- **cornucopia**: Artifact
 ```
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
+- MacKillop 2008, s.v. 'Mars'
 ```
 ![Mars Image](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Tharsis_and_Valles_Marineris_-_Mars_Orbiter_Mission_%2830055660701%29.png/1200px-Tharsis_and_Valles_Marineris_-_Mars_Orbiter_Mission_%2830055660701%29.png)

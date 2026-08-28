@@ -2,7 +2,7 @@
 layout: layouts/pce.njk
 title: Oisín
 icon: file-lines
-order: 0
+order: 2086
 contributors: [ 'Christopher Godwin' ]
 attributes:
   - Oisín most eloquent poet of the Fianna
@@ -15,12 +15,12 @@ attributes:
   - Oisín principal son of Fionn Mac Cumhaill and sojourner in Tír na nÓg
   - James Macpherson 18th-century forger who built his Ossian on the stories of Oisín
 categories:
+  - place
   - hero
   - Concept
-  - mythological figure
   - group
+  - mythological figure
   - person
-  - place
 entities:
   - Oisín(hero)
   - Fianna(group)

@@ -2,55 +2,58 @@
 layout: layouts/pce.njk
 title: Mog Ruith
 icon: file-lines
-order: 1638
+order: 3628
 contributors: [ 'Christopher Godwin' ]
 attributes:
-  - Munster chief
-  - Well drilled miraculously with an arrow or spear
-  - Rowan trees magical
-  - druid saved warriors in battle
-  - druid flew into the air and did battle with opposing druids
-  - Munster warriors killed their foes beneath him
+  - Mog Ruith an Irish hero and druid
+  - Mog Ruith name means the slave of the wheel
+  - Mog Ruith used a wheel for divination
+  - Mog Ruith met Simon Magus and attacked the head of John the Baptist
+  - Mog Ruith the father of Tlachtga and chief of Munster druids
 categories:
-  - object
-  - occupation
-  - mysterious site
-  - magical object
-  - location
+  - Plant
+  - Person
+  - Place
 entities:
-  - Tlachtga(mysterious site)
-  - Munster(location)
-  - druid(occupation)
-  - Well(object)
-  - Rowan trees(magical object)
+  - Mog Ruith(Person)
+  - Mug Ruith(Person)
+  - Simon Magus(Person)
+  - John the Baptist(Person)
+  - Tlachtga(Place)
+  - Munster(Place)
+  - rowan(Plant)
 tags:
+  - Mog Ruith
+  - Mug Ruith
+  - Simon Magus
+  - John the Baptist
   - Tlachtga
   - Munster
-  - druid
-  - Well
-  - Rowan trees
+  - rowan
 ---
 ``` tab [group1:Info]
 ::: magazinestyle
-A legendary figure in Irish mythology is Mog Ruith (Mug Ruith), a hero and Druid whose appellation “the wheel magician” assumes that he employed a wheel for divination. Many medieval Irish sources recount his myth; one such text claims that he journeyed to the eastern Mediterranean and encountered Simon Magus, a powerful magician. Mog Ruith subsequently complied with the edict of King Herod by beheading John the Baptist, a Christian martyr. As punishment for the ancient wrongdoing, Ireland suffered from famine and other disasters. Additional texts identify him as the father of enigmatic Tlachtga, whose name has been immortalized in a legendary location of note. Mog Ruith serves as Munster's primary Druid who performed a miraculous feat during a battle with enemy forces to secure his side's victory. Reportedly using an arrow or spear, he strikingly drilled a well that brought forth water. He then lit a fire employing Rowan tree wood, above which he proclaimed incantations until the smoke cleared and he foresaw triumph. Donning a cloak resembling a bird, Mog Ruith flew into the sky and challenged rival Druids, battling in mid-air while Munster’s troops defeated their enemies below.
+Mog Ruith stands among the strangest heroes of Irish legend. The spelling Mogh Ruith also appears across the old texts. Both spellings descend as variant forms of the name Mug Ruith. His name carries the meaning the slave of the wheel. He was a druid of high renown. He used a wheel as the tool of his divination. He spun the wheel to read what the future held. The medieval sagas carry him away from the island. They take him to the eastern Mediterranean. There he met Simon Magus, a magician of very great craft. He bowed to the command of King Herod. He cut off the head of John the Baptist. The ancient crime weighed upon his people. In the stories the Irish suffer famine because of the deed. A string of further tragedies follows the land. Some tellers lay the blame on the whole nation. Others hold the guilt to a single druid alone. Some texts make him the father of Tlachtga. Tlachtga is a mysterious figure whose true power stays hidden. A great site bears her name to this day. He is named Munster's chief druid. He saved the Munster warriors in the press of hard battle. He drilled a well with an arrow or a spear. He used the wood of magical rowan trees to build a fire. Wrapped in a bird cloak, he rose far into the air. He engaged the opposing druids in an aerial contest high above the ground. The wheel, the flight, and the shape-shifting art made him one of the most feared magicians of early Ireland. Yet his single deed bends the fate of the people he left behind. The tradition remembers him openly as a sorcerer from the south who taught his craft to the dark far-off world, and returns him home burdened, from the sea journey to the east. His story binds the sacred fire and the dark priest craft into a single vengeful memory carried by the tribes of Munster. The wheel itself never leaves his hand. Folk say that a leather cloak of his still guarded the land, and that the turning wheel became a sign of his power over time and fate.
 
 :::
 ```
 ``` tab [group1:Attributes]
-- **Munster**: chief
-- **Well**: drilled miraculously with an arrow or spear
-- **Rowan trees**: magical
-- **druid**: saved warriors in battle
-- **druid**: flew into the air and did battle with opposing druids
-- **Munster warriors**: killed their foes beneath him
+- **Mog Ruith**: an Irish hero and druid
+- **Mog Ruith**: name means the slave of the wheel
+- **Mog Ruith**: used a wheel for divination
+- **Mog Ruith**: met Simon Magus and attacked the head of John the Baptist
+- **Mog Ruith**: the father of Tlachtga and chief of Munster druids
 ```
 ``` tab [group1:Entities]
-- **Tlachtga**: mysterious site
-- **Munster**: location
-- **druid**: occupation
-- **Well**: object
-- **Rowan trees**: magical object
+- **Mog Ruith**: Person
+- **Mug Ruith**: Person
+- **Simon Magus**: Person
+- **John the Baptist**: Person
+- **Tlachtga**: Place
+- **Munster**: Place
+- **rowan**: Plant
 ```
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
+- MacKillop 2008, s.v. 'Mog Ruith'
 ```
