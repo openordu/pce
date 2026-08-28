@@ -1,0 +1,40 @@
+{
+  "name": "Ciamat",
+  "fname": "Ciamat.json",
+  "text": "Ciamat is remembered in the Irish stories as a mistress of Cormac mac Airt, the famed high king. Her tale belongs to the Ulster Cycle of tradition. The name is Irish and carries the sense of dark lady. Her connection to Cormac places her among the court figures gathered around that king.",
+  "entities": [
+    {
+      "entity": "Ciamat",
+      "type": "woman"
+    },
+    {
+      "entity": "Cormac mac Airt",
+      "type": "king"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Ciamat",
+      "attribute": "a mistress of Cormac mac Airt"
+    },
+    {
+      "entity": "Ciamat",
+      "attribute": "Irish name meaning dark lady"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Ciamat'."
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Ciamat is a mistress of the high king Cormac mac Airt in Irish legend.",
+    "key_results": [
+      "Name her as a mistress of Cormac mac Airt.",
+      "Place her tale in the Ulster Cycle.",
+      "Give the sense of her name as dark lady."
+    ],
+    "evidence": "MacKillop, Dictionary of Celtic Mythology, s.v. 'Ciamat'"
+  }
+}

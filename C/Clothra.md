@@ -2,35 +2,85 @@
 layout: layouts/pce.njk
 title: Clothra
 icon: file-lines
-order: 483
+order: 0
 contributors: [ 'Christopher Godwin' ]
 attributes:
-  - Clothra ancestral god
-  - Clothra appearance in Irish genealogies
+  - Clothra one of the four noted daughters of Eochaid Fedlech
+  - Lugaidh Riab nDerg son born to her by her three brothers
+  - Crimthann Nia Náir hero born after the death of Clothra
+  - Medb jealous sister who killed Clothra
+  - Clothra sister of the Finn Emna brothers of Emain
+  - Clothra murdered while pregnant on Medb's order
+  - Furbaide Ferbend avenger of his mother Clothra
+  - Clothra sister of the Finn Emna brothers of Emain
+  - Clothra murdered while pregnant on Medb's order
+  - Furbaide Ferbend avenger of his mother Clothra
 categories:
-  - god
-  - text
+  - hero
+  - mythological figure
+  - person
+  - concept
 entities:
-  - Clothra(god)
-  - Irish genealogies(text)
+  - Clothra(mythological figure)
+  - Eochaid Fedlech(person)
+  - Medb(mythological figure)
+  - Lugaidh Riab nDerg(hero)
+  - Crimthann Nia Náir(hero)
+  - Irish genealogies(concept)
+  - Eithne(mythological figure)
+  - Mugain(mythological figure)
+  - Furbaide Ferbend(mythological figure)
+  - Eithne(mythological figure)
+  - Mugain(mythological figure)
+  - Furbaide Ferbend(mythological figure)
 tags:
   - Clothra
+  - Eochaid Fedlech
+  - Medb
+  - Lugaidh Riab nDerg
+  - Crimthann Nia Náir
   - Irish genealogies
+  - Eithne
+  - Mugain
+  - Furbaide Ferbend
+  - Eithne
+  - Mugain
+  - Furbaide Ferbend
 ---
 ``` tab [group1:Info]
 ::: magazinestyle
-A notable female figure in Irish mythology is Clothra, who is either a heroine or a goddess. According to legend, Clothra was one of four daughters of the famous Irish king Eochaid Fedlech; the others were Medb, Eithne, and Mugain. She also had three sons who were all named Finn and collectively known as the Finn Emna. Clothra became pregnant and gave birth to a son named Lugaidh Riab nDerg, who had distinct red stripes on his body as a result of each part of his body being fathered by one of his three half-brothers. Subsequently, Clothra had a sexual relationship with her son Lugaidh and became pregnant again, this time with her most famous offspring named Crimthann Nia Náir, who was born after Clothra's death. Her sister Medb was envious of Clothra and caused her death. Clothra's presence in various genealogies and the incestuous nature of her matings suggest that she might have been an ancestral goddess.
+Clothra, or Clothru, was an Irish heroine of the old tales. Her father was King Eochaid Fedlech, whose four famed daughters were Medb, Eithne, Mugain, and Clothra. Her brothers were the Finn Emna, a trio of Emain who all shared one name. Those three brothers together fathered her son Lugaidh Riab nDerg. Red stripes divided his body into three bands, each brother fathering one band. She also bore a son named Furbaide Ferbend. Later she committed a second incest with her grown son Lugaid, and this union conceived Crimthann Nia Náir. Medb murdered her while she carried that child. Crimthann entered the world after his mother's death. Her son Furbaide Ferbend later avenged that killing. Christian writers condemned her conduct as immoral. Yet many Irish genealogies still cite her name, down to the line of St Dedan. The repeated incest hints that Clothra began as an ancestral deity.
 
 :::
 ```
 ``` tab [group1:Attributes]
-- **Clothra**: ancestral god
-- **Clothra**: appearance in Irish genealogies
+- **Clothra**: one of the four noted daughters of Eochaid Fedlech
+- **Lugaidh Riab nDerg**: son born to her by her three brothers
+- **Crimthann Nia Náir**: hero born after the death of Clothra
+- **Medb**: jealous sister who killed Clothra
+- **Clothra**: sister of the Finn Emna brothers of Emain
+- **Clothra**: murdered while pregnant on Medb's order
+- **Furbaide Ferbend**: avenger of his mother Clothra
+- **Clothra**: sister of the Finn Emna brothers of Emain
+- **Clothra**: murdered while pregnant on Medb's order
+- **Furbaide Ferbend**: avenger of his mother Clothra
 ```
 ``` tab [group1:Entities]
-- **Clothra**: god
-- **Irish genealogies**: text
+- **Clothra**: mythological figure
+- **Eochaid Fedlech**: person
+- **Medb**: mythological figure
+- **Lugaidh Riab nDerg**: hero
+- **Crimthann Nia Náir**: hero
+- **Irish genealogies**: concept
+- **Eithne**: mythological figure
+- **Mugain**: mythological figure
+- **Furbaide Ferbend**: mythological figure
+- **Eithne**: mythological figure
+- **Mugain**: mythological figure
+- **Furbaide Ferbend**: mythological figure
 ```
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
+- MacKillop 2008, s.v. 'Clothra'.
+- MacKillop 2008, s.v. 'Clothra'.
 ```

@@ -3,7 +3,15 @@
   "attributes": [
     {
       "entity": "Caíntigern",
-      "attribute": "a minor woman of Irish mythology"
+      "attribute": "a gentle lady of early Irish narrative"
+    },
+    {
+      "entity": "Caíntigern",
+      "attribute": "the wife of Fiachna mac Báetáin"
+    },
+    {
+      "entity": "Caíntigern",
+      "attribute": "the mother of the hero Mongán"
     },
     {
       "entity": "Mongán",
@@ -12,10 +20,6 @@
     {
       "entity": "Mannán mac Lir",
       "attribute": "the father of Mongán"
-    },
-    {
-      "entity": "Caíntigern",
-      "attribute": "the mother of Mongán"
     }
   ],
   "entities": [
@@ -28,27 +32,34 @@
       "type": "hero"
     },
     {
+      "entity": "Fiachna mac Báetáin",
+      "type": "person"
+    },
+    {
       "entity": "Mannán mac Lir",
       "type": "god"
     }
   ],
   "sources": [
-    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.",
+    "MacKillop 2008, s.v. 'Caíntigern'."
   ],
   "image": [
     "https://upload.wikimedia.org/wikipedia/commons/f/fc/Innisnacailleach.jpg"
   ],
   "cyphertext": "toKu7rTPyXWQ2sczHU91AfuPT5-BPRQUXhkg0ENKLKHMbB3hjWuGVfE2Q0gz5Mb14bcNmlL2dn-V2XrFAb907YAKBaEP6HkkNPNxP-u2NHBOZGEze0_JrDUiI4d_yDH48GbzUWcXuhyVZ2WOv0uLUel3HQMq2PXSYVtHL1OoZsvqYfKOtkYrpUuDdRRCqItk32_iW6ozHz5ac8hXZBYO_Lbt3gLKdJP4XvqwOJuTH2asvMihe42UObKjxTDfr5n6pU_2rkIjFtCUNA==",
   "salt": "7aYuktpMbouUoHM38vmkOg==",
-  "text": "Caíntigern is a figure in Irish mythology. She is a goddess or a heroine of minor rank. She mothered the king Mongán, who ruled with magic. Mongán's father was Manannán mac Lir, the Irish sea god.",
+  "text": "Caíntigern is a figure in Irish mythology, and her name also appears as Caointiarn. The name means gentle lady in Irish. Several female figures of early Irish narrative bear it. The best known is the wife of Fiachna mac Báetáin and the mother of the hero Mongán. She mothered the king Mongán, who ruled with magic. Mongán's father was Manannán mac Lir, god of the Irish sea.",
   "okr": {
-    "objective": "Caíntigern is a minor goddess and mother of the magical king Mongán.",
+    "objective": "Caíntigern is a gentle lady of early Irish narrative and the mother of Mongán.",
     "key_results": [
       "She is a minor figure in Irish mythology.",
       "She is a goddess or a heroine.",
+      "Her name also appears as Caointiarn and means gentle lady.",
+      "She is the wife of Fiachna mac Báetáin.",
       "She mothered the king Mongán.",
       "Mongán's father was the sea god Manadán mac Lir."
     ],
-    "evidence": "Monaghan, Encyclopedia of Celtic Mythology and Folklore"
+    "evidence": "Monaghan, Encyclopedia of Celtic Mythology and Folklore; MacKillop, Dictionary of Celtic Mythology"
   }
 }

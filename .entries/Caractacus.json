@@ -1,0 +1,52 @@
+{
+  "name": "Caractacus",
+  "entities": [
+    {
+      "entity": "Caractacus",
+      "type": "hero"
+    },
+    {
+      "entity": "Caradog",
+      "type": "hero"
+    },
+    {
+      "entity": "Cynfelyn",
+      "type": "character"
+    },
+    {
+      "entity": "Claudius",
+      "type": "Person"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Caractacus",
+      "attribute": "a corrupt Latin form of the name Caradog"
+    },
+    {
+      "entity": "Caractacus",
+      "attribute": "title used by the Romans for the British chieftain"
+    },
+    {
+      "entity": "Caractacus",
+      "attribute": "pointed reader to the fuller entry on Caradog"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Caractacus'."
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "text": "Caractacus is a corrupt Latin form of the Welsh name Caradog. Roman writers used this spelling for the Celtic chieftain Caradog, a son of Cynfelyn. Carried to Rome after his defeat in Britain, he stood before the emperor Claudius. His dignity there earned him a pardon and his freedom. Another face of the name appears across stage plays and music. This headword sends the reader to the fuller Caradog entry.",
+  "okr": {
+    "objective": "Caractacus is the corrupt Latin form of the Welsh hero Caradog.",
+    "key_results": [
+      "Caractacus is a corrupt Latin spelling of Caradog.",
+      "Caradog, a son of Cynfelyn, took the name Caractacus.",
+      "The chieftain won a pardon before the emperor Claudius.",
+      "The name appears in drama, music, and other works."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Caractacus'."
+  }
+}

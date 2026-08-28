@@ -2,56 +2,70 @@
 layout: layouts/pce.njk
 title: Conán
 icon: file-lines
-order: 509
+order: 0
 contributors: [ 'Christopher Godwin' ]
 attributes:
-  - Conán name meaning wolf
-  - Conán mac Morna nickname 'Conán of the Bitter Tongue'
-  - Conan Muil nickname 'Conan the Bald'
-  - Conan Muil lost his scalp when swallowed by Caoranach
-  - Fionn Mac Cumhaill heroic friend of Conán mac Morna
-  - Caoranach great monster that swallowed Conan Muil
+  - Caoranach swallowed the hero Conan
+  - Conan cut himself out of the beast
+  - Dark Lake stained red by the serpent's blood
+  - Conán Irish word meaning hound or wolf
+  - Conán name of Tegid Faol in Wales and of Cynan in Brittany
+  - Cynan the British invader rendered Conan in Brittany
 categories:
-  - Irish hero
-  - mythology
-  - monster
+  - person
+  - location
+  - mythological creature
+  - hero
 entities:
-  - Conán(Irish hero)
-  - Irish mythology(mythology)
-  - Conán mac Morna(Irish hero)
-  - Conan Muil(Irish hero)
-  - Fionn Mac Cumhaill(Irish hero)
-  - Caoranach(monster)
+  - Conan(hero)
+  - Caoranach(mythological creature)
+  - Dark Lake(location)
+  - Patrick(person)
+  - Conán(person)
+  - Conán mac Morna(person)
+  - Conán mac Lia(person)
+  - Tegid Faol(person)
+  - Cynan(person)
+  - Conand(person)
 tags:
-  - Conán
-  - Irish mythology
-  - Conán mac Morna
-  - Conan Muil
-  - Fionn Mac Cumhaill
+  - Conan
   - Caoranach
+  - Dark Lake
+  - Patrick
+  - Conán
+  - Conán mac Morna
+  - Conán mac Lia
+  - Tegid Faol
+  - Cynan
+  - Conand
 ---
 ``` tab [group1:Info]
 ::: magazinestyle
-Conán is a name common in Irish mythology, borne by many minor figures in the heroic cycles. It means "wolf" and is associated with the heroic figure Conán mac Morna (Conan Maeol), a comic blusterer also known as "Conán of the Bitter Tongue," who has been compared to the Scandinavian trickster Loki. Despite being bald and wearing a black fleece wig, he was a tubby buffoon who was close friends with the heroic Fionn Mac Cumhaill. Another hero named Conan was Fionn's son, known as Conan Muil or Conan the Bald, who lost his scalp after being swallowed by the great monster Caoranach.
+Conan is the hero of a lake tale in which the great serpent Caoranach swallowed him at the water's edge. He cut his own way out with no skin and no hair. That won him the name bald Conan. The dying beast's blood stained the lake red, and that is why people call it the Dark Lake. A Christian telling swaps Patrick into the role, slicing free with his crosier. The name itself ranges across three Celtic lands. In Irish, conán means hound or wolf. Two Fenian warriors carry the name. Conán mac Morna is one. Conán mac Lia is the other. Six Irish saints and many minor tale figures bear it too. In Wales it may come from a word for grumbling. There it names Tegid Faol, the bald. In Brittany Conan renders Cynan, the British invader. Four counts of Rennes carried the name from the tenth to the twelfth century. Scholars find no link to the pulp hero Robert E. Howard invented. Readers should also separate this name from Conand, the Fomorian leader.
 
 :::
 ```
 ``` tab [group1:Attributes]
-- **Conán**: name meaning wolf
-- **Conán mac Morna**: nickname 'Conán of the Bitter Tongue'
-- **Conan Muil**: nickname 'Conan the Bald'
-- **Conan Muil**: lost his scalp when swallowed by Caoranach
-- **Fionn Mac Cumhaill**: heroic friend of Conán mac Morna
-- **Caoranach**: great monster that swallowed Conan Muil
+- **Caoranach**: swallowed the hero Conan
+- **Conan**: cut himself out of the beast
+- **Dark Lake**: stained red by the serpent's blood
+- **Conán**: Irish word meaning hound or wolf
+- **Conán**: name of Tegid Faol in Wales and of Cynan in Brittany
+- **Cynan**: the British invader rendered Conan in Brittany
 ```
 ``` tab [group1:Entities]
-- **Conán**: Irish hero
-- **Irish mythology**: mythology
-- **Conán mac Morna**: Irish hero
-- **Conan Muil**: Irish hero
-- **Fionn Mac Cumhaill**: Irish hero
-- **Caoranach**: monster
+- **Conan**: hero
+- **Caoranach**: mythological creature
+- **Dark Lake**: location
+- **Patrick**: person
+- **Conán**: person
+- **Conán mac Morna**: person
+- **Conán mac Lia**: person
+- **Tegid Faol**: person
+- **Cynan**: person
+- **Conand**: person
 ```
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
+- MacKillop 2008, s.v. 'Conán'.
 ```

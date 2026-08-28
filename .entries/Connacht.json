@@ -1,124 +1,221 @@
 {
-    "name": "Connacht",
-    "entities": [
-        {
-            "entity": "Conn",
-            "type": "mythological figure"
-        },
-        {
-            "entity": "Lia Fail",
-            "type": "artifact"
-        },
-        {
-            "entity": "Tara",
-            "type": "place"
-        },
-        {
-            "entity": "Eogan Mor",
-            "type": "mythological figure"
-        },
-        {
-            "entity": "Eiscir Riada",
-            "type": "location"
-        },
-        {
-            "entity": "Fomha",
-            "type": "group"
-        },
-        {
-            "entity": "Fenian Cycle",
-            "type": "concept"
-        },
-        {
-            "entity": "Fionn mac Cumhaill",
-            "type": "hero"
-        },
-        {
-            "entity": "Connachta",
-            "type": "group"
-        },
-        {
-            "entity": "Crúachu",
-            "type": "place"
-        },
-        {
-            "entity": "Roscommon",
-            "type": "place"
-        },
-        {
-            "entity": "Uí Briúin",
-            "type": "dynasty"
-        },
-        {
-            "entity": "Uí Fhiachrach",
-            "type": "dynasty"
-        },
-        {
-            "entity": "Uí Ailello",
-            "type": "dynasty"
-        },
-        {
-            "entity": "Shannon",
-            "type": "place"
-        }
-    ],
-    "attributes": [
-        {
-            "entity": "Conn",
-            "attribute": "a great legendary king of Tara"
-        },
-        {
-            "entity": "Lia Fail",
-            "attribute": "cried out when Conn drew near"
-        },
-        {
-            "entity": "Conn",
-            "attribute": "won many battles against Dixon"
-        },
-        {
-            "entity": "Fionn mac Cumhaill",
-            "attribute": "born in the reign of Conn"
-        },
-        {
-            "entity": "Connacht",
-            "attribute": "the most north-western province, bounded by the Shannon and the Atlantic"
-        },
-        {
-            "entity": "Connacht",
-            "attribute": "name derived from the Connachta population group"
-        },
-        {
-            "entity": "Connachta",
-            "attribute": "dynasties descended from Conn of the Hundred Battles"
-        },
-        {
-            "entity": "Crúachu",
-            "attribute": "royal ceremonial complex in Roscommon, centre of the province"
-        },
-        {
-            "entity": "Connachta",
-            "attribute": "the lands are also named Leth Cuinn, the half of Conn"
-        }
-    ],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.",
-        "Koch 2006, s.v. 'connachta'"
-    ],
-    "cyphertext": "XaPfUbC7YcnmmPm5s90ysz-R48nH6fk179x-kRjZ-b2Ur9S1vpmjmqmkUXFxlIntliVwGBDIzmRaRwhLx41s-MloYpZvgLm2boYf4ivtmoGdH8PnbA_nFMKL74k-2WSBMebZ3F7CHhfhtcF6wBRRjitgNz0xmQQFPcUpfcI24jNJR8ek-K8xyY6aEMs6d_zA8ncrNN8B1SCktL5-QbCp4uYkmk4cwdhA9lLaxBiLbm-kZWS5EDpxtNVtZFKZAUJUGRfTddZeTyYAz6vK5sAwKBegqgATgEd7_qpAeEIpiXst1eCwnTv-rkvbMscvJ5aGMLW_C_0eGV_woXs3E6D63ALDelvHgyG06oyvwfQsBOvQSwDRmXi99U-oXXE-YhEqcYaZqq0cpLX4-G6eTyxqVz-KrWwwLNc218zUjYgZbBM1Dr8giG4HYxvLHBfnv6umYRPDryh1n1UWt2bTb0urPZlaY51LMzsf-4A8BUXSWRWndQTz0HJYeO8K5Kdt3f_3TSi468J8gjrFrqsm9u-C1HzWWG9F4yUOqFO850Jdk0hRFkNPzt8aYdN_bhTiNE0RvhOv3BHejOqPsz3X3PIVE0WAVZGlOOKv6DuVGO3BVfXktMLQ2VPxp4vFOfhH-8Btiree8oQlxhajMdr_oRE-uuoZigbBKrv3f3hPWnYpT7Pu9hbS02E3LSrRPifq37cUkjlLYgg1MRD4cmJYo8J-4SUtSSxiTRqsDtD_Ya5SCXLg1wEaCppG42niTEYywQTZNXrVrSEqaQCUe3LR6301Z1xdt1O_JbUW5AaqtF9D3hFSxGDSewz8IhJcy6XUDAWmBJgEXM_M8FTQ8MIUSFSf2oNXOPXhSdP-dxyl4phIp_aqQjMYqvAus4P4l4XOCPHArbzEOLfQ5iJadl043XAknlj8kzzixPIN1SOWg8j6UnIUxlkm7saZiMu0az9Hijcagm8CDxPK4R_ZvEtSVlWGRsW4oW7_-2LrYO7WZwf0laARD3vVsAZLCU7XFySqFLpfxQ1vaYDS813253pjOKYVQwhvuA9ZeEV3HF_-qYtfwL7KJUlbRo5gojofmF9h-hiaTLrUJ_OKrIWyYjRLuKgi92SuR4Fu9QGdUFvs-ll2j3586v4KsUsukiCy9jUBV2IIZYK6XzrK9ayxMTW-2YYIQeuPClEyOikfLghh55IcAi6iPq6O9LRjp8uixp04VvIt6rbtnUTbbTQFOeRENDie_pR5tv9y5yd8Or0d63o0jkxZ24Xk6n3aKwX-MCDtu3wjVwfzHMvx-kYq05TfX6-rVvi9SEvhcfC7p3hY6ERCullKk2SuK3mnL8HMEUwbXXZxdL0Y9DTYnaZveINqhtBFe8hfHg2zLSBRFePtbOJpAlF2rzCVoBeD7a5z2jcr7qd0ppDZlqFBq1W5pZc1_bjYoKHTyQERVlbWhUU_1_RK7JGBQOmkBml2KxcakraKlwazx1-yLq6Wn9t6Umg3MkYRlWsSFcrFbP9X9dpo2KQR1xet34HtTp3w4aCB4XzSiOatCnzQgoqWG52rWkjc8vTfoZDt",
-    "salt": "VUwc7-Xo5oTM38jIa3ksNg==",
-    "text": "Connacht is the most north-western province of Ireland. Its far west is the Atlantic and its east border the Shannon; the modern counties are Galway, Mayo, Sligo, Leitrim, and Roscommon. The name comes from the Connachta, dynasties tracing descent from Conn of the Hundred Battles, who held land mainly west of the Shannon with their royal seat at Crúachu in Roscommon. The term also names three chief dynasties: the Uí Briúin, Uí Ailello, and Uí Fhiachrach. Another early name for the country of the Connachta and their neighbours is Leth Cuinn, the half of Conn, marking the northern half of Ireland.",
-    "okr": {
-        "objective": "Connacht is the north-western province of Ireland, named for the Connachta dynasties.",
-        "key_results": [
-            "Connacht lies west of the Shannon and east of the Atlantic, holding five modern counties.",
-            "The name derives from the Connachta, who traced descent from Conn of the Hundred Battles.",
-            "Their royal seat was Crúachu in Roscommon.",
-            "The Three Connachta were the Uí Briúin, Uí Ailello, and Uí Fhiachrach.",
-            "The same lands are known as Leth Cuinn, the half of Conn."
-        ],
-        "evidence": "Koch 2006, s.v. 'connachta'"
+  "name": "Connacht",
+  "entities": [
+    {
+      "entity": "Conn",
+      "type": "mythological figure"
     },
-    "image": [
-        "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Flag_of_Connacht.svg/1200px-Flag_of_Connacht.svg.png"
-    ]
+    {
+      "entity": "Lia Fail",
+      "type": "artifact"
+    },
+    {
+      "entity": "Tara",
+      "type": "place"
+    },
+    {
+      "entity": "Eogan Mor",
+      "type": "mythological figure"
+    },
+    {
+      "entity": "Eiscir Riada",
+      "type": "location"
+    },
+    {
+      "entity": "Fomha",
+      "type": "group"
+    },
+    {
+      "entity": "Fenian Cycle",
+      "type": "concept"
+    },
+    {
+      "entity": "Fionn mac Cumhaill",
+      "type": "hero"
+    },
+    {
+      "entity": "Connachta",
+      "type": "group"
+    },
+    {
+      "entity": "Crúachu",
+      "type": "place"
+    },
+    {
+      "entity": "Roscommon",
+      "type": "place"
+    },
+    {
+      "entity": "Uí Briúin",
+      "type": "dynasty"
+    },
+    {
+      "entity": "Uí Fhiachrach",
+      "type": "dynasty"
+    },
+    {
+      "entity": "Uí Ailello",
+      "type": "dynasty"
+    },
+    {
+      "entity": "Shannon",
+      "type": "place"
+    },
+    {
+      "entity": "Medb",
+      "type": "person"
+    },
+    {
+      "entity": "Cruachain",
+      "type": "place"
+    },
+    {
+      "entity": "Cet mac Mágach",
+      "type": "person"
+    },
+    {
+      "entity": "Táin Bó Cuailnge",
+      "type": "tale"
+    },
+    {
+      "entity": "Conn Cétchathach",
+      "type": "person"
+    },
+    {
+      "entity": "Sreng",
+      "type": "person"
+    },
+    {
+      "entity": "Fir Bolg",
+      "type": "group"
+    },
+    {
+      "entity": "Mag Tuired",
+      "type": "place"
+    },
+    {
+      "entity": "Cathal Mór",
+      "type": "person"
+    },
+    {
+      "entity": "Crimthann Cass",
+      "type": "person"
+    },
+    {
+      "entity": "Guaire",
+      "type": "person"
+    },
+    {
+      "entity": "Lairgnéan",
+      "type": "person"
+    },
+    {
+      "entity": "Finnbheara",
+      "type": "person"
+    },
+    {
+      "entity": "Cnoc Mheadha",
+      "type": "place"
+    },
+    {
+      "entity": "Tuam",
+      "type": "place"
+    },
+    {
+      "entity": "Moycullen",
+      "type": "place"
+    },
+    {
+      "entity": "Ptolemy",
+      "type": "person"
+    },
+    {
+      "entity": "Nagnatae",
+      "type": "group"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Conn",
+      "attribute": "a great legendary king of Tara"
+    },
+    {
+      "entity": "Lia Fail",
+      "attribute": "cried out when Conn drew near"
+    },
+    {
+      "entity": "Conn",
+      "attribute": "won many battles against Dixon"
+    },
+    {
+      "entity": "Fionn mac Cumhaill",
+      "attribute": "born in the reign of Conn"
+    },
+    {
+      "entity": "Connacht",
+      "attribute": "the most north-western province, bounded by the Shannon and the Atlantic"
+    },
+    {
+      "entity": "Connacht",
+      "attribute": "name derived from the Connachta population group"
+    },
+    {
+      "entity": "Connachta",
+      "attribute": "dynasties descended from Conn of the Hundred Battles"
+    },
+    {
+      "entity": "Crúachu",
+      "attribute": "royal ceremonial complex in Roscommon, centre of the province"
+    },
+    {
+      "entity": "Connachta",
+      "attribute": "the lands are also named Leth Cuinn, the half of Conn"
+    },
+    {
+      "entity": "Connacht",
+      "attribute": "smallest and most westerly province, about 6,610 square miles"
+    },
+    {
+      "entity": "Medb",
+      "attribute": "queen and ruler of Connacht in the Táin Bó Cuailnge"
+    },
+    {
+      "entity": "Cet mac Mágach",
+      "attribute": "great hero of Connacht in the Ulster Cycle"
+    },
+    {
+      "entity": "Finnbheara",
+      "attribute": "king of the Connacht fairies at Cnoc Mheadha near Tuam"
+    },
+    {
+      "entity": "Sreng",
+      "attribute": "Fir Bolg survivor granted Connacht after Mag Tuired"
+    }
+  ],
+  "sources": [
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.",
+    "Koch 2006, s.v. 'connachta'",
+    "MacKillop 2008, s.v. 'Connacht'."
+  ],
+  "cyphertext": "XaPfUbC7YcnmmPm5s90ysz-R48nH6fk179x-kRjZ-b2Ur9S1vpmjmqmkUXFxlIntliVwGBDIzmRaRwhLx41s-MloYpZvgLm2boYf4ivtmoGdH8PnbA_nFMKL74k-2WSBMebZ3F7CHhfhtcF6wBRRjitgNz0xmQQFPcUpfcI24jNJR8ek-K8xyY6aEMs6d_zA8ncrNN8B1SCktL5-QbCp4uYkmk4cwdhA9lLaxBiLbm-kZWS5EDpxtNVtZFKZAUJUGRfTddZeTyYAz6vK5sAwKBegqgATgEd7_qpAeEIpiXst1eCwnTv-rkvbMscvJ5aGMLW_C_0eGV_woXs3E6D63ALDelvHgyG06oyvwfQsBOvQSwDRmXi99U-oXXE-YhEqcYaZqq0cpLX4-G6eTyxqVz-KrWwwLNc218zUjYgZbBM1Dr8giG4HYxvLHBfnv6umYRPDryh1n1UWt2bTb0urPZlaY51LMzsf-4A8BUXSWRWndQTz0HJYeO8K5Kdt3f_3TSi468J8gjrFrqsm9u-C1HzWWG9F4yUOqFO850Jdk0hRFkNPzt8aYdN_bhTiNE0RvhOv3BHejOqPsz3X3PIVE0WAVZGlOOKv6DuVGO3BVfXktMLQ2VPxp4vFOfhH-8Btiree8oQlxhajMdr_oRE-uuoZigbBKrv3f3hPWnYpT7Pu9hbS02E3LSrRPifq37cUkjlLYgg1MRD4cmJYo8J-4SUtSSxiTRqsDtD_Ya5SCXLg1wEaCppG42niTEYywQTZNXrVrSEqaQCUe3LR6301Z1xdt1O_JbUW5AaqtF9D3hFSxGDSewz8IhJcy6XUDAWmBJgEXM_M8FTQ8MIUSFSf2oNXOPXhSdP-dxyl4phIp_aqQjMYqvAus4P4l4XOCPHArbzEOLfQ5iJadl043XAknlj8kzzixPIN1SOWg8j6UnIUxlkm7saZiMu0az9Hijcagm8CDxPK4R_ZvEtSVlWGRsW4oW7_-2LrYO7WZwf0laARD3vVsAZLCU7XFySqFLpfxQ1vaYDS813253pjOKYVQwhvuA9ZeEV3HF_-qYtfwL7KJUlbRo5gojofmF9h-hiaTLrUJ_OKrIWyYjRLuKgi92SuR4Fu9QGdUFvs-ll2j3586v4KsUsukiCy9jUBV2IIZYK6XzrK9ayxMTW-2YYIQeuPClEyOikfLghh55IcAi6iPq6O9LRjp8uixp04VvIt6rbtnUTbbTQFOeRENDie_pR5tv9y5yd8Or0d63o0jkxZ24Xk6n3aKwX-MCDtu3wjVwfzHMvx-kYq05TfX6-rVvi9SEvhcfC7p3hY6ERCullKk2SuK3mnL8HMEUwbXXZxdL0Y9DTYnaZveINqhtBFe8hfHg2zLSBRFePtbOJpAlF2rzCVoBeD7a5z2jcr7qd0ppDZlqFBq1W5pZc1_bjYoKHTyQERVlbWhUU_1_RK7JGBQOmkBml2KxcakraKlwazx1-yLq6Wn9t6Umg3MkYRlWsSFcrFbP9X9dpo2KQR1xet34HtTp3w4aCB4XzSiOatCnzQgoqWG52rWkjc8vTfoZDt",
+  "salt": "VUwc7-Xo5oTM38jIa3ksNg==",
+  "text": "Connacht is the most north-western province of Ireland. Its far west is the Atlantic and its east border the Shannon. The modern counties are Galway, Mayo, Sligo, Leitrim, and Roscommon. Of the four provinces it is the most westerly and the smallest, about 6,610 square miles. The other three are Leinster, Munster, and Ulster. Their modern bounds date from the 17th century. Before the conquest it stood, as Cóiced Connacht, it stood as one of five provinces, when Mide or Meath counted separately or Munster counted as two. The name comes from the Connachta, dynasties tracing descent from Conn of the Hundred Battles, who held land mainly west of the Shannon with their royal seat at Crúachu in Roscommon. Tradition usually derives the province's name from Conn Cétchathach. Ptolemy's geography of the second century records the region roughly as the Nagnatae. The term also names three chief dynasties. These are the Uí Briúin, Uí Ailello, and Uí Fhiachrach. Another early name for the country of the Connachta and their neighbours is Leth Cuinn, the half of Conn, marking the northern half of Ireland. In the Táin Bó Cuailnge the ruler of Connacht is Queen Medb, whose royal residence is Cruachain in Co. Roscommon. For much of that narrative the words Medb and Connacht work almost as one. Elsewhere in the Ulster Cycle the great hero of the province is Cet mac Mágach. Myth grants the land to Sreng once the Fir Bolg fall in the first fight at Mag Tuired. Other notable rulers include Cathal Mór of the Wine-Red Hand, a personification of the province, along with Crimthann Cass, Eógan, Guaire, and Lairgnéan. Over the fairies of Connacht rules Finnbheara, who resides at Cnoc Mheadha near Tuam, Co. Galway. Macpherson's Ossian of 1760 gives Alenecma as its name for Connacht. In Irish the phrase Iar Chonnacht, remote western Connacht, names the barony of Moycullen, a district now counted within Connemara. The Annals of Connacht appeared in Martin Freeman's edition in Revue Celtique, volumes 50 and 51, in 1933 and 1934.",
+  "okr": {
+    "objective": "Connacht is the north-western province of Ireland, named for the Connachta dynasties.",
+    "key_results": [
+      "Connacht lies west of the Shannon and east of the Atlantic, holding five modern counties.",
+      "The name derives from the Connachta, who traced descent from Conn of the Hundred Battles.",
+      "Their royal seat was Crúachu in Roscommon.",
+      "The Three Connachta were the Uí Briúin, Uí Ailello, and Uí Fhiachrach.",
+      "The same lands are known as Leth Cuinn, the half of Conn.",
+      "The province is the smallest and most westerly of the four, its borders drawn in the 17th century.",
+      "Queen Medb rules from Cruachain in the Táin Bó Cuailnge, with Cet mac Mágach the province's great hero.",
+      "Myth grants the land to Sreng after the Fir Bolg defeat at Mag Tuired.",
+      "The fairy king Finnbheara holds court at Cnoc Mheadha near Tuam."
+    ],
+    "evidence": "Koch 2006, s.v. 'connachta'; MacKillop, Dictionary of Celtic Mythology, 2008"
+  },
+  "image": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Flag_of_Connacht.svg/1200px-Flag_of_Connacht.svg.png"
+  ]
 }

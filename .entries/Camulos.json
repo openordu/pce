@@ -10,14 +10,6 @@
       "type": "place"
     },
     {
-      "entity": "Colchester",
-      "type": "place"
-    },
-    {
-      "entity": "Romans",
-      "type": "people"
-    },
-    {
       "entity": "Mars",
       "type": "god"
     },
@@ -26,8 +18,12 @@
       "type": "mythological figure"
     },
     {
-      "entity": "Fionn Mac Cumhaill",
+      "entity": "Fionn mac Cumhaill",
       "type": "hero"
+    },
+    {
+      "entity": "Belgae",
+      "type": "Group"
     }
   ],
   "attributes": [
@@ -54,14 +50,19 @@
     {
       "entity": "Cumhall",
       "attribute": "father of Fionn Mac Cumhaill"
+    },
+    {
+      "entity": "Belgae",
+      "attribute": "honoured Camlo"
     }
   ],
   "sources": [
-    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.",
+    "MacKillop 2008, s.v. 'Camulus'."
   ],
   "cyphertext": "MiEW_YJ0wGnogIH9Or5L7K_FnwIQR9Pt9gRYVFPhMjatr9WCIJPooPd9xsyHKRT-ZiwOoTBdGAmkGk_QrBu4AmanhO5nDC4zy0rqbx0ysN6G2sab-fHLAjRr4OkQEcgCsM9h-YGUefY6byDExOLYJ4DJ4uJZ05ndrfrQ2_wqiM-DE0YQeX_vPeBJmqPtYO1J6Qz_fdJlQEwPzLM74NYG1jMmKV77oIEw6fFVa4wuzhSIIQP2mo7-wZZOKi_fsrSumVdH6udZh-tJHLX7lpgH1YXDb_6oUpE37OQGYsVkSA48wOqOcRYwNkpCgCFZXGq7CWqhOf684rk9_vSl68qszZsZBCPtKmAAu0nzwBfy00QWM3q6cqJQIQiigqINprs0AA5YXcYc1prJMI5T4a-b27ZWNFlWUVMJGF9dJLRBHt4uIgpiIx-FLsm1RX1-zEKtWf2H6LTq2qo_efYDKduXa6TsitYHWPdq0fYjTNuti7oxVNhttAZ6pRXdSILSL38XF0MU1Qr6cqzEYe9OmYkhl5EA16ugUA==",
   "salt": "C-RFyBGbTdp2rNXwAgrOEw==",
-  "text": "Camulos is a British god. Little evidence of his worship survives. His name appears in the Roman town name Camulodunum. That name means “fort of Camulos.” The town became the city of Colchester. The invading Romans linked Camulos to their war god Mars. Some scholars treat Camulos as a mirror of the Irish ancestor Cumhall. Cumhall sired the hero Fionn Mac Cumhaill.",
+  "text": "Camulos held great power in early Britain and in Gaul. The Belgae and the Remi gave him special honour. The Romans saw a warrior in him and tied him to Mars. A stone at Rindern carries the name Mars-Camulo under an oak crown. Some carvings give him a ram-horned head. His fame shows in many place names. Camulodunum keeps his memory and later grew into the city of Colchester. A few writers tried to link him to Old King Cole and to the hero Fionn's father. Modern scholars reject those claims. The hard evidence does not hold for such a link. His true standing rests on the stones and the town name.",
   "okr": {
     "objective": "Camulos is a thinly attested British god.",
     "key_results": [
@@ -71,6 +72,6 @@
       "The Romans tied him to their war god Mars.",
       "Scholars link him with the Irish ancestor Cumhall."
     ],
-    "evidence": "Monaghan, Encyclopedia of Celtic Mythology and Folklore"
+    "evidence": "Monaghan, Encyclopedia of Celtic Mythology and Folklore; MacKillop 2008"
   }
 }

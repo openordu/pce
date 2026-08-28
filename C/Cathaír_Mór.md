@@ -2,56 +2,67 @@
 layout: layouts/pce.njk
 title: Cathaír Mór
 icon: file-lines
-order: 410
+order: 0
 contributors: [ 'Christopher Godwin' ]
 attributes:
-  - River Slaney ran near Tara
-  - harbor at its mouth
-  - singing fruit tree the king himself
+  - Cathaír Mór an Irish hero and king
+  - Cathaír Mór ruled before Conn of the Hundred Battles
+  - Cathaír Mór name means great battle-lord
+  - Conn of the Hundred Battles became king of Tara
+  - Cathaír Mór deposed and killed by Conn
+  - Cathaír Mór father of several noted women
 categories:
-  - person
-  - place
-  - object
+  - Person
+  - character
+  - location
+  - hero
 entities:
-  - Cathaír(person)
-  - woman(person)
-  - River Slaney(place)
-  - harbor(place)
-  - singing fruit tree(object)
-  - son(person)
-  - Druid(person)
-  - king(person)
+  - Cathaír Mór(hero)
+  - Cathaoir Mór(hero)
+  - Conn of the Hundred Battles(hero)
+  - Tara(location)
+  - Ireland(location)
+  - Cormac mac Airt(hero)
+  - Cochrann(character)
+  - Diarmait Ua Duibne(Person)
+  - Fionn mac Cumhaill(hero)
 tags:
-  - Cathaír
-  - woman
-  - River Slaney
-  - harbor
-  - singing fruit tree
-  - son
-  - Druid
-  - king
+  - Cathaír Mór
+  - Cathaoir Mór
+  - Conn of the Hundred Battles
+  - Tara
+  - Ireland
+  - Cormac mac Airt
+  - Cochrann
+  - Diarmait Ua Duibne
+  - Fionn mac Cumhaill
 ---
 ``` tab [group1:Info]
 ::: magazinestyle
-In Irish mythology, Cathaír Mór (also spelled Cathaoir Mór) was a former king of Ireland before the reign of Conn of the Hundred Battles. His name means “great battle-lord”, but there is little information recorded about him aside from his replacement and demise at the hands of Conn. Cathaír Mór’s legacy is mostly in his fatherhood; he fathered several significant women. Among them was Eithne Tháebfhota, wife of the hero and king Cormac Mac Airt and mother of his son Cairbre Lifechair. Additionally, he fathered Cochrann, mother of the romantic hero Diarmait Ua Duibne. One text tells of a dream that Cathaír had in which he witnessed a woman who was pregnant for an unusually long time finally giving birth to a son. This event occurred near a fragrant, singing fruit tree. Cathaír’s Druid explained that the woman was the River Slaney that ran near Tara, her child the harbor at its mouth, and the singing tree the king himself.
+Cathaír Mór, also spelled Cathaoir Mór and Cahir More, is an Irish hero. He ruled the land before Conn of the Hundred Battles. Conn came to the kingship of Tara. The name Cathaír means great battle-lord. Conn pushed him from power and killed him. He was father of several noted women. In the tale Esnada Tige Buchet, Buchet fosters his daughter Eithne Tháebfhota. Her twelve brothers eat up Buchet's stores. She later weds Cormac mac Airt and bears Cairbre Lifechair. His son Failge gave County Offaly its name. His daughter Cochrann bore Diarmait Ua Duibne. Tradition places the birth of Fionn mac Cumhaill in his reign. Clarence Mangan honored him in the 1847 poem The Testament of Cathaeir Mor.
 
 :::
 ```
 ``` tab [group1:Attributes]
-- **River Slaney**: ran near Tara
-- **harbor**: at its mouth
-- **singing fruit tree**: the king himself
+- **Cathaír Mór**: an Irish hero and king
+- **Cathaír Mór**: ruled before Conn of the Hundred Battles
+- **Cathaír Mór**: name means great battle-lord
+- **Conn of the Hundred Battles**: became king of Tara
+- **Cathaír Mór**: deposed and killed by Conn
+- **Cathaír Mór**: father of several noted women
 ```
 ``` tab [group1:Entities]
-- **Cathaír**: person
-- **woman**: person
-- **River Slaney**: place
-- **harbor**: place
-- **singing fruit tree**: object
-- **son**: person
-- **Druid**: person
-- **king**: person
+- **Cathaír Mór**: hero
+- **Cathaoir Mór**: hero
+- **Conn of the Hundred Battles**: hero
+- **Tara**: location
+- **Ireland**: location
+- **Cormac mac Airt**: hero
+- **Cochrann**: character
+- **Diarmait Ua Duibne**: Person
+- **Fionn mac Cumhaill**: hero
 ```
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
+- MacKillop 2008, s.v. 'Cathaír Mór'.
 ```

@@ -1,0 +1,43 @@
+{
+  "name": "Comgall",
+  "text": "Comgall, also spelled Comhghall, is the name of at least ten Irish saints. The most famous founded the monastery at Bangor in Northern Ireland and died there in 603. His rule was severe. Seven of his monks died of cold and hunger while living under it. Tradition also credits him with a house on Scottish Tiree. Irish legend gave him a darker role. He offered King Fiachna mac Báetáin a choice between winning battle and suffering eternal damnation, or losing it and gaining eternal happiness.",
+  "entities": [
+    {
+      "entity": "Comgall",
+      "type": "saint"
+    },
+    {
+      "entity": "Fiachna mac Báetáin",
+      "type": "mythological figure"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Comgall",
+      "attribute": "founder of the monastery at Bangor, died 603"
+    },
+    {
+      "entity": "Comgall",
+      "attribute": "gave King Fiachna mac Báetáin the choice of victory or salvation"
+    },
+    {
+      "entity": "Comgall",
+      "attribute": "a strict abbot whose regimen killed seven monks"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Comgall'."
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Comgall names at least ten Irish saints, chief among them the austere founder of Bangor.",
+    "key_results": [
+      "Ten Irish saints carried the name Comgall or Comhghall.",
+      "The Bangor founder died in 603 after a life of famous austerity.",
+      "Legend says he offered Fiachna mac Báetáin victory in battle at the price of his soul."
+    ],
+    "evidence": "MacKillop, Dictionary of Celtic Mythology, 2008"
+  }
+}

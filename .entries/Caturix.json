@@ -7,7 +7,7 @@
     },
     {
       "entity": "Mars",
-      "type": "god"
+      "type": "Person"
     },
     {
       "entity": "central Europe",
@@ -19,7 +19,8 @@
     }
   ],
   "sources": [
-    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.",
+    "MacKillop 2008, s.v. 'Caturix'."
   ],
   "attributes": [
     {
@@ -37,19 +38,24 @@
     {
       "entity": "Romans",
       "attribute": "identified Caturix with Mars"
+    },
+    {
+      "entity": "Caturix",
+      "attribute": "an epithet of the Gaulish Mars"
     }
   ],
   "cyphertext": "n-j9rVDSnRmlGciyB6fhTkN4HRi9YK7PZXlfmhNWxRWhopSC29zfDHQjmb4wXBbSbv-8QwwtbG7Z7R6RKpH6wePKuw5-jU87PlCk-XH9v9FJns46nK-6CdCK7ZxYfrwv9xg8IF1GIFDgoP_G2eL-a-1HpJOV2GeGDgUZxWRpS15h7rhthWQmQlrn4dDxdXAkN34pMbOKdmlqUvltxGaSAHPqDCRx-S-pmrWkt0CQ9wDZcSajl-QXUgB2kqmfdXnWqvf8e_okTzWLANpz-QFpGpX4phMU5xaEcv_Xg9rRI7OPSdYy5KlwPVyHMaYVA0lu3OkVbxfsPqgVugsiFLEN",
   "salt": "Fv492PAgTQZfO0WCTvcowQ==",
-  "text": "Caturix was a deity of the Continental Celts. Inscriptions to this little-known god turn up across central Europe. His name appears to mean king of battle. The occupying Romans equated Caturix with Mars, their god of war. The records summarize Caturix as an obscure figure.",
+  "text": "Caturix is a deity of the Continental Celts. Inscriptions honoring this little-known god surface across central Europe. His name appears to mean king of battle. The occupying Romans equated Caturix with Mars, their own war god. MacKillop reads the name itself as an epithet of the Gaulish Mars, not a separate deity. He remains an obscure figure in the surviving record.",
   "okr": {
     "objective": "Caturix is an obscure Continental Celtic war god later tied to Mars.",
     "key_results": [
       "His inscriptions appear across central Europe.",
       "His name may mean king of battle.",
       "The Romans identified him with Mars.",
-      "The records describe him as obscure."
+      "The records describe him as obscure.",
+      "MacKillop treats the name as an epithet of the Gaulish Mars."
     ],
-    "evidence": "Monaghan, Encyclopedia of Celtic Mythology and Folklore"
+    "evidence": "Monaghan, Encyclopedia of Celtic Mythology and Folklore; MacKillop 2008, s.v. 'Caturix'"
   }
 }

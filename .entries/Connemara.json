@@ -1,0 +1,71 @@
+{
+  "name": "Connemara",
+  "text": "Connemara is a district of west Co. Galway, lying west of Lough Corrib. The Irish name is Conmaicne Mara, Conmac's people of the sea. Another Irish form is Iarchonnacht, western Connacht. At first Connemara matched the barony of Ballynahinch almost exactly. It now informally takes in eastern parts of the barony of Moycullen. Ross, Joyce's Country, joined it on the north side. The district holds the largest surviving Gaeltacht, the Irish-speaking community. Many commentators therefore treat it as a hallmark area of traditional Irish culture. The tourist industry has exploited the area. Even so, Connemara stays a living store of folk culture, and many collectors have drawn on it. James Berry (1842-1914) reshaped many Connemara narratives in the early 1900s. His approach recalls William Carleton. See G. M. Horgan's 1964 Dublin edition of those reshaped Connemara tales. Tim Robinson's Connemara (Galway, 1990) is another key source.",
+  "entities": [
+    {
+      "entity": "Connemara",
+      "type": "place"
+    },
+    {
+      "entity": "Conmaicne Mara",
+      "type": "group"
+    },
+    {
+      "entity": "Lough Corrib",
+      "type": "place"
+    },
+    {
+      "entity": "Ballynahinch",
+      "type": "place"
+    },
+    {
+      "entity": "Moycullen",
+      "type": "place"
+    },
+    {
+      "entity": "Gaeltacht",
+      "type": "concept"
+    },
+    {
+      "entity": "James Berry",
+      "type": "person"
+    },
+    {
+      "entity": "William Carleton",
+      "type": "person"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Connemara",
+      "attribute": "district of west Co. Galway west of Lough Corrib"
+    },
+    {
+      "entity": "Conmaicne Mara",
+      "attribute": "Irish name meaning Conmac's people of the sea"
+    },
+    {
+      "entity": "Gaeltacht",
+      "attribute": "largest surviving Irish-speaking community sits in Connemara"
+    },
+    {
+      "entity": "James Berry",
+      "attribute": "reshaped many Connemara narratives in the early 1900s"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Connemara'."
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Profile Connemara as a Galway region and a stronghold of Irish folk culture.",
+    "key_results": [
+      "Give the Irish names Conmaicne Mara and Iarchonnacht and the Galway location.",
+      "Trace the shifting bounds from Ballynahinch to Moycullen and Ross.",
+      "Note the Gaeltacht, the collectors, and James Berry's reshaping work."
+    ],
+    "evidence": "MacKillop, Dictionary of Celtic Mythology, 2008"
+  }
+}

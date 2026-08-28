@@ -1,0 +1,44 @@
+{
+  "name": "Cantre'r Gwaelod",
+  "text": "Cantre'r Gwaelod is a Welsh flood legend about a vanished lowland kingdom. The realm of Gwyddno Garanhir once stretched across what is now Cardigan Bay. Earlier tales call this sunken land Maes Gwyddno. There a well-maiden named Mererid let a spring overflow through neglect. The famous version from the early sixteenth century shows the king reigning over sixteen cities. An embankment fitted with sluices ringed this country. The drunken dike-keeper Seithenyn failed at his task and let the sea pour inward. Every dweller drowned except the king. Modern people still say the sunken church bell sounds on quiet evenings. The story also reaches Tyno Helig and echoes the Breton City of Ys.",
+  "entities": [
+    {
+      "entity": "City of Ys",
+      "type": "location"
+    },
+    {
+      "entity": "Gwyddnno",
+      "type": "Person"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Maes Gwyddn",
+      "attribute": "earliest name of the sunken land"
+    },
+    {
+      "entity": "Mererid",
+      "attribute": "well-maiden whose neglect lets a spring overflow"
+    },
+    {
+      "entity": "Seithenyn",
+      "attribute": "drunken dike-keeper who lets the sea flood the land"
+    }
+  ],
+  "okr": {
+    "objective": "Describe the Welsh flood legend of Cantre'r Gwaelod and its vanished kingdom.",
+    "key_results": [
+      "One realm named in a first clause",
+      "Sixteen cities and an embankment mentioned",
+      "Well-maiden and dike-keeper named as agents of ruin",
+      "Link to Cardigan Bay and the City of Ys stated"
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Cantre'r Gwaelod'."
+  },
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "sources": [
+    "MacKillop 2008, s.v. 'Cantre'r Gwaelod'."
+  ]
+}

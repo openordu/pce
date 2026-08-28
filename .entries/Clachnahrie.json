@@ -1,0 +1,40 @@
+{
+  "name": "Clachnahrie",
+  "fname": "Clachnahrie.json",
+  "text": "Clachnahrie is the site of a fight between the clans Macintosh and Munro in 1454. The variant form Clachnaharry names the same place. Tradition traces the quarrel to a run of insults and supposed insults between the two clans. The clash happened close to Inverness. Generations of storytellers built a large Scottish Gaelic folklore tradition around the fight. Today the place forms a suburb on the north-western side of Inverness.",
+  "entities": [
+    {
+      "entity": "Clachnahrie",
+      "type": "place"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Clachnahrie",
+      "attribute": "site of the 1454 Macintosh-Munro clash"
+    },
+    {
+      "entity": "Clachnahrie",
+      "attribute": "subject of a large body of Gaelic folklore"
+    },
+    {
+      "entity": "Clachnahrie",
+      "attribute": "now a north-western suburb of Inverness"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Clachnahrie'."
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Clachnahrie is an Inverness suburb whose 1454 clan clash grew into a large folklore tradition.",
+    "key_results": [
+      "Date the Macintosh and Munro clash to 1454.",
+      "Trace the quarrel to insults and supposed insults.",
+      "Record the modern suburb status at Inverness."
+    ],
+    "evidence": "MacKillop, Dictionary of Celtic Mythology, s.v. Clachnahrie"
+  }
+}

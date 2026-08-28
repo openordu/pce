@@ -1,0 +1,71 @@
+{
+  "name": "Corcu Baiscinn",
+  "text": "Corcu Baiscinn, also spelled Baiscind and Bascinn, is a people of early Ireland. They settled north of the Shannon estuary, on ground now in Co. Clare. Their reach took in the county's south-western peninsula. They held the ground from the earliest records up to the 12th century. Sailors of the people were famous. The poet James Liddy gave one of his collections the title Corea Bascinn, and it appeared in Dublin in 1977.",
+  "entities": [
+    {
+      "entity": "Corcu Baiscinn",
+      "type": "people"
+    },
+    {
+      "entity": "Baiscind",
+      "type": "people"
+    },
+    {
+      "entity": "Bascinn",
+      "type": "people"
+    },
+    {
+      "entity": "Shannon estuary",
+      "type": "place"
+    },
+    {
+      "entity": "Clare",
+      "type": "place"
+    },
+    {
+      "entity": "sailors",
+      "type": "group"
+    },
+    {
+      "entity": "James Liddy",
+      "type": "person"
+    },
+    {
+      "entity": "Corea Bascinn",
+      "type": "text"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Corcu Baiscinn",
+      "attribute": "people settled north of the Shannon estuary, on ground now in Clare"
+    },
+    {
+      "entity": "Corcu Baiscinn",
+      "attribute": "held the ground from earliest records to the 12th century"
+    },
+    {
+      "entity": "Corcu Baiscinn",
+      "attribute": "famous as sailors"
+    },
+    {
+      "entity": "James Liddy",
+      "attribute": "gave a 1977 Dublin collection the title Corea Bascinn"
+    }
+  ],
+  "okr": {
+    "objective": "Record the Corcu Baiscinn people of Clare.",
+    "key_results": [
+      "Place them north of the Shannon estuary in Clare.",
+      "Bound their presence from earliest records to the 12th century.",
+      "Give their fame as sailors and Liddy's 1977 title."
+    ],
+    "evidence": "MacKillop, Dictionary of Celtic Mythology, 2008"
+  },
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "sources": [
+    "MacKillop 2008, s.v. 'Corcu Baiscinn'."
+  ]
+}

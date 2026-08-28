@@ -1,0 +1,59 @@
+{
+ "name": "Corca",
+ "text": "Corca, also written Corco, is a variant spelling of Corcu. The word is an Old Irish term for population groups, and by extension for the lands they held. A close English rendering is clan. Irish tribal and place names keep the form, as in the later peoples Corcu Baiscinn and Corcu Duibne.",
+ "entities": [
+  {
+   "entity": "Corca",
+   "type": "word"
+  },
+  {
+   "entity": "Corco",
+   "type": "word"
+  },
+  {
+   "entity": "Corcu",
+   "type": "word"
+  },
+  {
+   "entity": "Corcu Baiscinn",
+   "type": "people"
+  },
+  {
+   "entity": "Corcu Duibne",
+   "type": "people"
+  }
+ ],
+ "attributes": [
+  {
+   "entity": "Corca",
+   "attribute": "variant spelling of Corcu"
+  },
+  {
+   "entity": "Corcu",
+   "attribute": "Old Irish word for population groups, by extension their lands"
+  },
+  {
+   "entity": "Corcu Baiscinn",
+   "attribute": "people of south-west Clare"
+  },
+  {
+   "entity": "Corcu Duibne",
+   "attribute": "people of west Kerry"
+  }
+ ],
+ "okr": {
+  "objective": "Record the Corca spelling and the sense of Corcu.",
+  "key_results": [
+   "Identify Corca and Corco as variants of Corcu.",
+   "Render Corcu as an Old Irish word for peoples and their territories.",
+   "Name Corcu Baiscinn and Corcu Duibne among the peoples formed with it."
+  ],
+  "evidence": "MacKillop, Dictionary of Celtic Mythology, 2008"
+ },
+ "image": [],
+ "cyphertext": "",
+ "salt": "",
+ "sources": [
+  "MacKillop 2008, s.v. 'Corca', 'Corcu'."
+ ]
+}

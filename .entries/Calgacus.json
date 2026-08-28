@@ -1,0 +1,47 @@
+{
+  "name": "Calgacus",
+  "attributes": [
+    {
+      "entity": "Calgacus",
+      "attribute": "a red-headed native leader of ancient Scotland"
+    },
+    {
+      "entity": "Calgacus",
+      "attribute": "defeated by Julius Agricola at Mons Graupius"
+    },
+    {
+      "entity": "Calgacus",
+      "attribute": "possibly the oldest recorded name for a Scotsman"
+    }
+  ],
+  "entities": [
+    {
+      "entity": "Calgacus",
+      "type": "Person"
+    },
+    {
+      "entity": "Agricola",
+      "type": "Person"
+    },
+    {
+      "entity": "Caledonii",
+      "type": "Group"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Calgacus'."
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "text": "Calgacus is the name given by Tacitus to a native leader of the far north. The man was red-headed and carried a sword. The Roman general Julius Agricola defeated him at the battle of Mons Graupius. That fight took place in the north-east corner of Scotland. The clash is dated around AD 78 to 84. Should the name be genuine rather than the writer's invention, it remains the first on record for a Scottish man.",
+  "okr": {
+    "objective": "Document Calgacus, the name Tacitus gave a defeated Scottish leader.",
+    "key_results": [
+      "Calgacus is the name Tacitus gives to a red-headed native leader",
+      "Julius Agricola defeats him at Mons Graupius",
+      "The name may be the oldest recorded for any Scotsman"
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Calgacus'."
+  }
+}

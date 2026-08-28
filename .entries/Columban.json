@@ -1,0 +1,54 @@
+{
+ "name": "Columban",
+ "text": "Columban, also written Columbanus, was an Irish saint who died in 615. He carried monastic reform to the Continent. He founded the abbey of Luxeuil near Fontaine in France, and later Ebovium, the modern Bobbio in Italy. Some writers called him the Younger Columba. MacKillop warns that the title misleads. The Continental missionary must not be confused with Colum Cille, the older saint of Iona. His houses carried Irish learning deep into Europe.",
+ "entities": [
+  {
+   "entity": "Columban",
+   "type": "person"
+  },
+  {
+   "entity": "Luxeuil",
+   "type": "place"
+  },
+  {
+   "entity": "Bobbio",
+   "type": "place"
+  },
+  {
+   "entity": "Colum Cille",
+   "type": "person"
+  }
+ ],
+ "attributes": [
+  {
+   "entity": "Columban",
+   "attribute": "Irish missionary saint, died 615"
+  },
+  {
+   "entity": "Columban",
+   "attribute": "founder of Luxeuil and Bobbio abbeys"
+  },
+  {
+   "entity": "Luxeuil",
+   "attribute": "abbey founded near Fontaine in France"
+  },
+  {
+   "entity": "Bobbio",
+   "attribute": "Italian abbey at ancient Ebovium"
+  }
+ ],
+ "sources": [
+  "MacKillop 2008, s.v. 'Columban'."
+ ],
+ "image": [],
+ "cyphertext": "",
+ "salt": "",
+ "okr": {
+  "objective": "Columban is the Irish missionary saint of Luxeuil and Bobbio.",
+  "key_results": [
+   "Columban died in 615 after founding two Continental abbeys.",
+   "He is the Younger Columba, a different saint from Colum Cille."
+  ],
+  "evidence": "MacKillop, Dictionary of Celtic Mythology, 2008"
+ }
+}

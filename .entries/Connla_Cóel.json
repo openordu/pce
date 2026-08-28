@@ -24,6 +24,14 @@
     {
       "entity": "Ulster",
       "type": "place"
+    },
+    {
+      "entity": "Cúchulainn",
+      "type": "person"
+    },
+    {
+      "entity": "otherworldly island",
+      "type": "place"
     }
   ],
   "attributes": [
@@ -42,22 +50,25 @@
     {
       "entity": "Connla of the Golden Hair",
       "attribute": "went with a fairy woman"
+    },
+    {
+      "entity": "Connla Cóel",
+      "attribute": "lord of an otherworldly island visited by Cúchulainn"
     }
   ],
   "sources": [
-    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.",
+    "MacKillop 2008, s.v. 'Connla Cóel'."
   ],
   "cyphertext": "ki8FWKde4ZB57IgLdkdHdGGxXhZUCoSAt9j7qyjB6nSTwfv3HM_V-g3mkT6NhqSXp2waYLOa4ZChZUF1",
   "salt": "ZLkj-y5PPCOAU0Pu7u1clQ==",
-  "text": "More than a dozen Irish figures share the name Connla. One was the child of the hero Cocolann and the warrior woman Ayin. He refused to give his name when he met his father in Ulster, fought him, and was killed by him. A second Connla, known as Connla Colo, is a fairy king. A third, Connla of the Golden Hair, counts the king of Tara as his father. He quit the earth with a woman from the fairy race to win eternal life.",
+  "text": "More than a dozen Irish figures share the name Connla. One was the child of the hero Cocolann and the warrior woman Ayin. He refused to give his name when he met his father in Ulster, fought him, and was killed by him. A second Connla, known as Connla Colo, is a fairy king. A third, Connla of the Golden Hair, counts the king of Tara as his father. He quit the earth with a woman from the fairy race to win eternal life. MacKillop adds one more bearer to the list. Connla Cóel is the lord of an otherworldly island that Cúchulainn once visited. The figure links the name to the same overseas Otherworld that draws the youth in the Adventure of Connla.",
   "okr": {
-    "objective": "Several Irish figures bear the name Connla.",
+    "objective": "Record Connla Cóel among the bearers of the name Connla.",
     "key_results": [
-      "More than a dozen figures share the name.",
-      "One Connla was killed by his father.",
-      "A Connla Colc is a fairy king.",
-      "Connla of the Golden Hair left the world with a fairy."
+      "Identify Connla Cóel as the lord of an otherworldly island visited by Cúchulainn.",
+      "Set him beside the other bearers: the son of Cocolann, the fairy king Connla Colo, and Connla of the Golden Hair."
     ],
-    "evidence": "Monaghan, Encyclopedia of Celtic Mythology and Folklore"
+    "evidence": "MacKillop, Dictionary of Celtic Mythology, 2008"
   }
 }

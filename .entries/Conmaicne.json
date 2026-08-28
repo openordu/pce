@@ -1,0 +1,80 @@
+{
+  "name": "Conmaicne",
+  "text": "The Conmaicne ranked among the peoples of early Ireland, perhaps kin to the Lagin. They spread across parts of Connacht and into north-western Leinster. Their branch west of Lough Corrib in Co. Galway took the name Conmaicne Mara, the people of the sea. That branch gave the district of Connemara its name. In eastern Galway the kindred called Conmaicne Rein held lands where the Tuatha De Danann first showed themselves in Ireland. The scholar T. F. O'Rahilly argued in 1946 that the Conmaicne were not a Goidelic people. Few students of the subject accept that view.",
+  "entities": [
+    {
+      "entity": "Conmaicne",
+      "type": "group"
+    },
+    {
+      "entity": "Conmaicne Mara",
+      "type": "group"
+    },
+    {
+      "entity": "Conmaicne Rein",
+      "type": "group"
+    },
+    {
+      "entity": "Lagin",
+      "type": "group"
+    },
+    {
+      "entity": "Connacht",
+      "type": "place"
+    },
+    {
+      "entity": "Leinster",
+      "type": "place"
+    },
+    {
+      "entity": "Lough Corrib",
+      "type": "place"
+    },
+    {
+      "entity": "Connemara",
+      "type": "place"
+    },
+    {
+      "entity": "Tuatha De Danann",
+      "type": "group"
+    },
+    {
+      "entity": "T. F. O'Rahilly",
+      "type": "person"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Conmaicne",
+      "attribute": "early Irish people perhaps related to the Lagin"
+    },
+    {
+      "entity": "Conmaicne Mara",
+      "attribute": "west-of-Corrib branch that named Connemara"
+    },
+    {
+      "entity": "Conmaicne Rein",
+      "attribute": "east Galway branch among whom the Tuatha De Danann first appeared"
+    },
+    {
+      "entity": "T. F. O'Rahilly",
+      "attribute": "argued in 1946 the Conmaicne were not Goidelic"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Conmaicne'."
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Record the Conmaicne, an early Irish people spread over Connacht and Leinster.",
+    "key_results": [
+      "Give their possible kinship with the Lagin and their range across Connacht and Leinster.",
+      "Identify the Conmaicne Mara branch as the namer of Connemara.",
+      "Place the first appearance of the Tuatha De Danann among the Conmaicne Rein.",
+      "Note the O'Rahilly non-Goidelic thesis of 1946 and its weak reception."
+    ],
+    "evidence": "MacKillop, Dictionary of Celtic Mythology, 2008"
+  }
+}

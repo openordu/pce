@@ -1,0 +1,72 @@
+{
+  "name": "Cong",
+  "text": "The name Cong comes from an Irish word for an isthmus. A monastery stood there in County Mayo, at the north-east end of Lough Corrib. Saint Féichín founded it in the 6th century. Austin canons rebuilt it in the 12th century. The site sits on the neck of land that joins Lough Corrib and nearby Lough Mask. Writers sometimes connect it with the nearby plain of Mag Tuired. Ruaidri Ua Conchobair held the high kingship last of all. He entered the monastery in 1183 and died there in 1198. The famous Cross of Cong now rests in the National Museum of Ireland. It survived while the monastery buildings fell. The ruins were partly restored in the 19th century. They stand in the south-east part of the village.",
+  "entities": [
+    {
+      "entity": "Cong",
+      "type": "place"
+    },
+    {
+      "entity": "Lough Corrib",
+      "type": "place"
+    },
+    {
+      "entity": "Lough Mask",
+      "type": "place"
+    },
+    {
+      "entity": "Mag Tuired",
+      "type": "place"
+    },
+    {
+      "entity": "Féichín",
+      "type": "person"
+    },
+    {
+      "entity": "Ruaidri Ua Conchobair",
+      "type": "person"
+    },
+    {
+      "entity": "Cross of Cong",
+      "type": "artifact"
+    },
+    {
+      "entity": "County Mayo",
+      "type": "place"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Cong",
+      "attribute": "monastery founded by Saint Féichín in the 6th century"
+    },
+    {
+      "entity": "Cong",
+      "attribute": "sits on an isthmus between Lough Corrib and Lough Mask"
+    },
+    {
+      "entity": "Ruaidri Ua Conchobair",
+      "attribute": "retired to Cong in 1183 and died there in 1198"
+    },
+    {
+      "entity": "Cross of Cong",
+      "attribute": "survived the destruction of the monastery buildings"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Cong'."
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Cong is a County Mayo monastery site on an isthmus between two loughs.",
+    "key_results": [
+      "Saint Féichín founded the monastery in the 6th century.",
+      "Austin canons rebuilt it in the 12th century.",
+      "The last high king Ruaidri Ua Conchobair died there in 1198.",
+      "The Cross of Cong survived and reached the National Museum."
+    ],
+    "evidence": "MacKillop, Dictionary of Celtic Mythology, s.v. 'Cong' (2008)."
+  }
+}

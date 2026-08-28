@@ -1,6 +1,6 @@
 {
   "name": "Ceredigion",
-  "text": "Ceredigion is a county found in Wales. About 74,941 people lived there in 2001. Nearly 61 percent of them spoke Welsh. The county sits between the Dyfi and Teifi estuaries. English names for it include Cardigan and Cardiganshire. The Welsh form Sir Aberteifi was used long ago. Ceredigion keeps the name of a kingdom that came after the Romans left. Ceretic son of Cunedda founded that kingdom. The Ordovices tribe once held this land. Later the county joined the Principality of Wales. Two universities grew at Lampeter and Aberystwyth. Cardigan became a noted coastal town.",
+  "text": "Ceredigion is a county found in Wales. About 74,941 people lived there in 2001. Nearly 61 percent of them spoke Welsh. The county sits between the Dyfi and Teifi estuaries. English names for it include Cardigan and Cardiganshire. The Welsh form Sir Aberteifi was used long ago. Ceredigion keeps the name of a kingdom that came after the Romans left. Ceretic son of Cunedda founded that kingdom. The county bears the name of Ceredigion, one of the sons of Cunedda. The Ordovices tribe once held this land. In the eighth century the district united with Ystrad Tywi, and out of that union the kingdom of Seissyllwg emerged. Arthen, a king of the ninth century, ranks among its notable rulers. Later the county joined the Principality of Wales. Two universities grew at Lampeter and Aberystwyth. Cardigan became a noted coastal town.",
   "entities": [
     {
       "entity": "Ceredigion",
@@ -43,11 +43,20 @@
     {
       "entity": "Cardigan",
       "value": "an English name and town linked to the county"
+    },
+    {
+      "entity": "Ceredigion",
+      "value": "joined Ystrad Tywi to form Seissyllwg in the 8th century"
+    },
+    {
+      "entity": "Ceredigion",
+      "value": "named for a son of Cunedda"
     }
   ],
   "sources": [
     "Koch 2006, s.v. 'Ceredigion'",
-    "Jenkins, Geraint H., and Ieuan Gwynedd Jones. Cardiganshire in Modern Times. Cardiff: University of Wales Press."
+    "Jenkins, Geraint H., and Ieuan Gwynedd Jones. Cardiganshire in Modern Times. Cardiff: University of Wales Press.",
+    "MacKillop 2008, s.v. 'Ceredigion'."
   ],
   "image": [],
   "cyphertext": "",
@@ -57,11 +66,15 @@
     "key_results": [
       "Factual text written in CSG of at least 150 characters.",
       "Entities and attributes recorded for the entry.",
-      "Protected fields set to empty defaults."
+      "Protected fields set to empty defaults.",
+      "Ceredigion joined Ystrad Tywi to form Seissyllwg in the eighth century.",
+      "The county is named for Ceredigion, one of the sons of Cunedda.",
+      "Arthen was a notable king of Ceredigion in the ninth century."
     ],
     "evidence": [
       "Koch 2006, s.v. 'Ceredigion'",
-      "Jenkins, Geraint H., and Ieuan Gwynedd Jones. Cardiganshire in Modern Times."
+      "Jenkins, Geraint H., and Ieuan Gwynedd Jones. Cardiganshire in Modern Times.",
+      "MacKillop 2008, s.v. Ceredigion."
     ]
   }
 }

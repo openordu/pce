@@ -20,6 +20,26 @@
     {
       "entity": "Tuatha De Danann",
       "type": "group"
+    },
+    {
+      "entity": "Fionn mac Cumhaill",
+      "type": "person"
+    },
+    {
+      "entity": "Goll mac Morna",
+      "type": "person"
+    },
+    {
+      "entity": "Camóg",
+      "type": "person"
+    },
+    {
+      "entity": "Cúilín",
+      "type": "person"
+    },
+    {
+      "entity": "Iamach",
+      "type": "person"
     }
   ],
   "attributes": [
@@ -38,22 +58,31 @@
     {
       "entity": "Fianna",
       "attribute": "killed the three daughters"
+    },
+    {
+      "entity": "Conaran",
+      "attribute": "a Tuatha Dé Danann chief in the Fenian version"
+    },
+    {
+      "entity": "Goll mac Morna",
+      "attribute": "rescued Fionn from the cave and won his daughter"
     }
   ],
   "sources": [
-    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.",
+    "MacKillop 2008, s.v. 'Conarán'."
   ],
   "cyphertext": "-zKmRPmZIoTtC_WVE4gHcgIkLR1lccu6M7htWBBqWG_dTN-ukoFT4CeZJJ-zjfgl827k6RgprAXliNWOYCelSeS7kgWKaqB45QJBAUJ9B4tcB5H1jKXg5dwd5L5xgs91bIZ1mSNsd6-N0FYDX6znnhVRMkjIH01eK7n-Yl7_5fxIv95P7zKwqWqQZXwhC7p-8-7K-QBNx35STxATDg0WjpRwBto17hBiTPi8Vg1gXeflthcDx81asCfOkohppGwxqvFlP3aG81WsDHm7Tl5YPPJV9wR6ni-GMc-gLQ9gRfekvoGGaza6CIOlC0DoxDpaJ8okDZta8J5N2-Mnu_llYy0CCxOp3H1uVllEu6zrZg8B8fmK8pVo4GWVV7A2O0KQVIbqU7s8HQT3wXWCPn52EGDeaqUrOLSpoUd1aRBHFY-ok0AZVTA5N5mkRGNY_BdKjzrp1yjeZV6tUJy625SAs6xxKgM9C_v0Zp52iaI6_mW6FP_3RmcQ0yS-DNjAVM297kO8AQ==",
   "salt": "33s7By1S9aErz3qPoX1pAA==",
-  "text": "Conaran is an obscure Irish goddess. She was the mother of three magician daughters. The daughters craved the mighty warriors of the Fianna. They wove a magic net that snared the heroes. The warriors killed all three daughters. Sometimes the tales make Conaran a male figure, a prince of the Tuatha De Danann.",
+  "text": "Conaran is an obscure Irish figure. One telling makes her a goddess and mother of three magician daughters. Those daughters coveted the mighty warriors of the Fianna. They wove a magic net that snared the heroes. The warriors killed all three in the end. Other tales make Conaran a male figure, a Tuatha Dé Danann chief. The Fenian Cycle keeps that male Conarán at the centre of one famous episode. His three ugly daughters punish Fionn mac Cumhaill and a few comrades for hunting. The girls use three holly-sticks to trap the men inside a cave. Fionn's old enemy Goll mac Morna comes to the rescue. He kills two sisters and forces the last one to free the Fenians. When she later tries to avenge her kin, Goll kills her as well. A grateful Fionn then gives Goll his daughter's hand. Some versions name the sisters Camóg, Cúilín, and Iamach. The goddess tale and the cave tale read best as variant tellings of one cycle.",
   "okr": {
-    "objective": "Conaran is an obscure goddess linked to the Fianna.",
+    "objective": "Conaran stands behind the tale of the three daughters who trapped the Fianna.",
     "key_results": [
-      "Conaran was mother of three magician daughters.",
-      "The three cast a web that trapped the Fianna.",
-      "The warriors killed all three.",
-      "The tales also make Conaran a male prince."
+      "One telling makes Conaran a goddess with three magician daughters.",
+      "The Fenian version sets her three daughters against Fionn in a cave.",
+      "Goll mac Morna kills two sisters and frees the captives.",
+      "Named versions call the sisters Camóg, Cúilín, and Iamach."
     ],
-    "evidence": "Monaghan, Encyclopedia of Celtic Mythology and Folklore"
+    "evidence": "Monaghan, Encyclopedia of Celtic Mythology and Folklore MacKillop, Dictionary of Celtic Mythology, s.v. 'Conarán' (2008)."
   }
 }

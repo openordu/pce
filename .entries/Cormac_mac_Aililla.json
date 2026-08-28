@@ -1,0 +1,43 @@
+{
+  "name": "Cormac mac Aililla",
+  "text": "Cormac mac Aililla is another name for Cormac Cas, the shadowy seventh-century king of Munster. The name form marks Cormac Cas as a son of Ailill Aulomm. Through that line the Dál Cais kings, the O'Briens and the McNamaras among them, claimed him as their forefather. Déisi attackers slew Cormac Cas at Cam Feradaig near Limerick in AD 713. See the article on Cormac Cas for the fuller account.",
+  "entities": [
+    {
+      "entity": "Cormac mac Aililla",
+      "type": "name-form"
+    },
+    {
+      "entity": "Cormac Cas",
+      "type": "person"
+    },
+    {
+      "entity": "Ailill Aulomm",
+      "type": "person"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Cormac mac Aililla",
+      "attribute": "variant name of Cormac Cas"
+    },
+    {
+      "entity": "Ailill Aulomm",
+      "attribute": "father behind the name form"
+    }
+  ],
+  "okr": {
+    "objective": "Record the name form Cormac mac Aililla and its referent Cormac Cas.",
+    "key_results": [
+      "Identify Cormac mac Aililla as another name for Cormac Cas.",
+      "Mark the paternity of Ailill Aulomm behind the form.",
+      "Point to the Cormac Cas article for the full life."
+    ],
+    "evidence": "MacKillop, Dictionary of Celtic Mythology"
+  },
+  "sources": [
+    "MacKillop 2008, s.v. 'Cormac mac Aililla'."
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": ""
+}

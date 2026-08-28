@@ -2,59 +2,104 @@
 layout: layouts/pce.njk
 title: Carman
 icon: file-lines
-order: 402
+order: 0
 contributors: [ 'Christopher Godwin' ]
 attributes:
-  - Carman died of grief
-  - Óenach Carman great festival was staged in her honor
-  - Tuatha Dé enmity between the Tuatha Dé and Carman
-  - Tailtiu Similar festivals were also staged in honor of the goddesses Tailtiu
-  - Tlachtga Similar festivals were also staged in honor of the goddesses Tlachtga
+  - Carman Irish goddess or heroine
+  - Carman one of the earliest rulers of Ireland
+  - Carman powerful and destructive sorceress
+  - Carman died of grief over her slain sons
+  - Dub the darkness among Carman’s sons
+  - Dothur the wickedness among Carman’s sons
+  - Dian the violence among Carman’s sons
+  - the sons of Carman blighted Ireland’s corn
+  - Tuatha Dé Danann drove the sons out with magic
+  - Bé Chuille undid Carman’s spell with sorcery
+  - Ónach Carman festival staged in Carman’s honor
+  - Tailtiu honored by a similar festival
+  - Tlachtga honored by a similar festival
 categories:
-  - person
   - location
-  - group
   - event
+  - character
+  - place
+  - mythological figure
+  - god
 entities:
-  - Carman(person)
-  - Tuatha Dé(group)
+  - Carman(mythological figure)
+  - Dub(mythological figure)
+  - Dothur(mythological figure)
+  - Dian(mythological figure)
+  - Danu(god)
+  - Tuatha Dé Danann(mythological figure)
+  - bard(character)
+  - satirist(character)
+  - Bé Chuille(mythological figure)
+  - Ireland(location)
   - Óenach Carman(event)
-  - Curragh(location)
+  - Curragh(place)
   - Co. Kildare(location)
-  - River Barrow(location)
-  - goddesses(group)
+  - River Barrow(place)
+  - Tailtiu(mythological figure)
+  - Tlachtga(mythological figure)
   - harvest season(event)
 tags:
   - Carman
-  - Tuatha Dé
+  - Dub
+  - Dothur
+  - Dian
+  - Danu
+  - Tuatha Dé Danann
+  - bard
+  - satirist
+  - Bé Chuille
+  - Ireland
   - Óenach Carman
   - Curragh
   - Co. Kildare
   - River Barrow
-  - goddesses
+  - Tailtiu
+  - Tlachtga
   - harvest season
 ---
 ``` tab [group1:Info]
 ::: magazinestyle
-Carman is a striking character of Irish mythology who was considered an Irish goddess or heroine. According to the legend, she governed Ireland in the earliest days and was a powerful sorceress who caused a lot of destruction. Carman had three sons who were equally troublesome: Dub (darkness), Dothur (wickedness), and Dian (violence), and their destructive efforts gravely affected Ireland's crops until the Tuatha Dé Danann, the people of the goddess Danu, gathered enough magic to banish Carman's sons from the land. This left Carman as the most significant hurdle. Initially, the Tuatha Dé sent a Bard and later a satirist to thwart her destructive energy, but both failed. Finally, Bé Chuille, a formidable sorceress, managed to cast a powerful spell that was sufficient enough to undo Carman's destructive energy. Upon learning that her sons had been slain, Carman died of grief. Despite the hostility between the Tuatha Dé and Carman, an impressive festival called the Óenach Carman was created in her honor. The location of the festival varied between the Curragh in Co. Kildare and the plains of the River Barrow in the same county, indicating that Carman was a powerful figure that needed to be appeased. Accompanied by similar festivals dedicated to goddesses Tailtiu and Tlachtga, it can be inferred that these female deities were traditionally linked to the harvest season.
+Carman is an ill-natured woman of early Irish lore who may stand as a goddess. Together with her three sons she blighted the crops of all Ireland. Those brothers carried names that fixed their nature, Dian meaning violent, Dub dark, and Dothur wicked. The superior magic of the Tuatha De Danann drove the brothers across the sea. Carman herself remained when they fled, and she was held captive. A festival in her honour, the Oenach Carman, was localized in Wexford. Other accounts set that great gathering on the Curragh in County Kildare, along the plains beside the River Barrow. Alike assemblies honoured the goddesses Tailtiu and Tlachtga, joining these deities to the harvest season.
 
 :::
 ```
 ``` tab [group1:Attributes]
-- **Carman**: died of grief
-- **Óenach Carman**: great festival was staged in her honor
-- **Tuatha Dé**: enmity between the Tuatha Dé and Carman
-- **Tailtiu**: Similar festivals were also staged in honor of the goddesses Tailtiu
-- **Tlachtga**: Similar festivals were also staged in honor of the goddesses Tlachtga
+- **Carman**: Irish goddess or heroine
+- **Carman**: one of the earliest rulers of Ireland
+- **Carman**: powerful and destructive sorceress
+- **Carman**: died of grief over her slain sons
+- **Dub**: the darkness among Carman’s sons
+- **Dothur**: the wickedness among Carman’s sons
+- **Dian**: the violence among Carman’s sons
+- **the sons of Carman**: blighted Ireland’s corn
+- **Tuatha Dé Danann**: drove the sons out with magic
+- **Bé Chuille**: undid Carman’s spell with sorcery
+- **Ónach Carman**: festival staged in Carman’s honor
+- **Tailtiu**: honored by a similar festival
+- **Tlachtga**: honored by a similar festival
 ```
 ``` tab [group1:Entities]
-- **Carman**: person
-- **Tuatha Dé**: group
+- **Carman**: mythological figure
+- **Dub**: mythological figure
+- **Dothur**: mythological figure
+- **Dian**: mythological figure
+- **Danu**: god
+- **Tuatha Dé Danann**: mythological figure
+- **bard**: character
+- **satirist**: character
+- **Bé Chuille**: mythological figure
+- **Ireland**: location
 - **Óenach Carman**: event
-- **Curragh**: location
+- **Curragh**: place
 - **Co. Kildare**: location
-- **River Barrow**: location
-- **goddesses**: group
+- **River Barrow**: place
+- **Tailtiu**: mythological figure
+- **Tlachtga**: mythological figure
 - **harvest season**: event
 ```
 ``` tab [group1:Sources]
@@ -62,4 +107,5 @@ Carman is a striking character of Irish mythology who was considered an Irish go
 - MacCulloch, J. A. The Religion of the Ancient Celts. London: Constable, 1911, 167.
 - Raftery, Brian. Pagan Celtic Ireland: The Enigma of the Irish Iron Age. London: Thames and Hudson, 1994, 82.
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
+- MacKillop 2008, s.v. 'Carman'.
 ```

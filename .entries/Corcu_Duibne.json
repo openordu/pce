@@ -1,0 +1,91 @@
+{
+  "name": "Corcu Duibne",
+  "text": "Corcu Duibne is a people of western Co. Kerry. They held ground along both shores of Dingle Bay, north and south. In some writings Corcu Dhuibhne means the Dingle peninsula itself. The Cailleach Bhéirre, the Old Woman of Beare, belonged to them. Their ancestress may have been a divine figure named Dobinia. Cú Roí kept his fortress inside their territory. Land they once occupied holds some of the densest groupings of ogham-inscribed stones in Ireland. Gleann na nGealt, a valley full of wild men, lay among them too.",
+  "entities": [
+    {
+      "entity": "Corcu Duibne",
+      "type": "people"
+    },
+    {
+      "entity": "Corcu Dhuibhne",
+      "type": "people"
+    },
+    {
+      "entity": "Kerry",
+      "type": "place"
+    },
+    {
+      "entity": "Dingle Bay",
+      "type": "place"
+    },
+    {
+      "entity": "Dingle peninsula",
+      "type": "place"
+    },
+    {
+      "entity": "Cailleach Bhéirre",
+      "type": "person"
+    },
+    {
+      "entity": "Dobinia",
+      "type": "person"
+    },
+    {
+      "entity": "Cú Roí",
+      "type": "person"
+    },
+    {
+      "entity": "ogham",
+      "type": "script"
+    },
+    {
+      "entity": "Gleann na nGealt",
+      "type": "place"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Corcu Duibne",
+      "attribute": "people of west Kerry along both shores of Dingle Bay"
+    },
+    {
+      "entity": "Corcu Dhuibhne",
+      "attribute": "writing-form that denotes the Dingle peninsula"
+    },
+    {
+      "entity": "Cailleach Bhéirre",
+      "attribute": "belonged to the Corcu Duibne"
+    },
+    {
+      "entity": "Dobinia",
+      "attribute": "possible divine ancestress of the people"
+    },
+    {
+      "entity": "Cú Roí",
+      "attribute": "kept his fortress in their territory"
+    },
+    {
+      "entity": "Corcu Duibne",
+      "attribute": "land holds dense groupings of ogham stones"
+    },
+    {
+      "entity": "Gleann na nGealt",
+      "attribute": "valley of wild men among the people"
+    }
+  ],
+  "okr": {
+    "objective": "Record the Corcu Duibne people of Kerry.",
+    "key_results": [
+      "Set them on both shores of Dingle Bay in west Kerry.",
+      "Give the Cailleach Bhéirre as one of them and Dobinia as possible ancestress.",
+      "Place Cú Roí's fortress, the ogham stones, and Gleann na nGealt in their lands."
+    ],
+    "evidence": "MacKillop, Dictionary of Celtic Mythology, 2008"
+  },
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "sources": [
+    "MacKillop 2008, s.v. 'Corcu Duibne'."
+  ]
+}

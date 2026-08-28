@@ -8,10 +8,19 @@
     {
       "entity": "Dagda",
       "type": "god"
+    },
+    {
+      "entity": "Nemed",
+      "type": "mythological figure"
+    },
+    {
+      "entity": "Lebor Gabála Érenn",
+      "type": "text"
     }
   ],
   "sources": [
-    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.",
+    "MacKillop 2008, s.v. 'Cera'."
   ],
   "attributes": [
     {
@@ -33,19 +42,33 @@
     {
       "entity": "Dagda",
       "attribute": "called Cera in some sources"
+    },
+    {
+      "entity": "Cera",
+      "attribute": "one of the wives of Nemed"
+    },
+    {
+      "entity": "Cera",
+      "attribute": "name meaning red in Irish"
     }
   ],
   "cyphertext": "-TKprdPRvP9KtENrV1T6kKxWGP9vGkHb70tLo1ze0YSKxHzEkmVHso5ytjm1R8YcVaaCnJhzWvMd7eX2UvvDDYWJCS8f1vN9KDUgG1quhKsUipGrZVGmDFLb4GRK47BvDOLygak69OX-p8nkz1hreFcxJ9tAgChLySfDqNvmgzjBcgJ3uD5EBFkY-UKPejvrF-Y9Vg==",
   "salt": "6ZS99xYcxeWLScr-631W-w==",
-  "text": "Cera is an Irish god. The name belongs to the Dagda. It may signify creator. Scribes used it in texts and place-names.",
+  "text": "Cera, also Ceara, is an Irish name meaning red or possibly bright red. Lebor Gabála Érenn, the pseudo-history of Ireland that mixes legend with scripture, counts her among the wives of the invader Nemed. Tradition holds that she gave her name to Mag Cera, the plain of Carra in Co Mayo. The name also belongs to the Dagda and may signify creator. Scribes used it in texts and place-names. Tradition links her cult to that plain in the west of Ireland.",
   "okr": {
-    "objective": "Cera is an alternate name for the Irish god the Dagda.",
+    "objective": "Cera is an alternate name of the Dagda and a legendary wife of Nemed who named Mag Cera.",
     "key_results": [
       "Cera is an Irish god.",
       "Cera is a name given to the Dagda.",
       "Cera may signify creator.",
-      "Cera appears in texts and place-names."
+      "Cera appears in texts and place-names.",
+      "Cera means red or possibly bright red in Irish.",
+      "Lebor Gabála Érenn lists Cera among the wives of Nemed.",
+      "Cera gave her name to Mag Cera, the plain of Carra in Co Mayo."
     ],
-    "evidence": "Monaghan, Encyclopedia of Celtic Mythology and Folklore"
+    "evidence": [
+      "Monaghan, Encyclopedia of Celtic Mythology and Folklore",
+      "MacKillop 2008, s.v. Cera."
+    ]
   }
 }

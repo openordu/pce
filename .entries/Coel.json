@@ -12,6 +12,30 @@
     {
       "entity": "Colchester",
       "attribute": "town that keeps the name of Coel"
+    },
+    {
+      "entity": "Coel",
+      "attribute": "a 6th-century king of Aeron in Ayrshire mentioned by Taliesin"
+    },
+    {
+      "entity": "Coel",
+      "attribute": "bearer of the agnomens Hen and Odebog"
+    },
+    {
+      "entity": "Coel",
+      "attribute": "legendary father of Elen, the Welsh St Helen, mother of Constantine"
+    },
+    {
+      "entity": "Coel",
+      "attribute": "a 6th-century king of Aeron in Ayrshire mentioned by Taliesin"
+    },
+    {
+      "entity": "Coel",
+      "attribute": "bearer of the agnomens Hen and Odebog"
+    },
+    {
+      "entity": "Coel",
+      "attribute": "legendary father of Elen, the Welsh St Helen, mother of Constantine"
     }
   ],
   "entities": [
@@ -26,24 +50,44 @@
     {
       "entity": "Colchester",
       "type": "place"
+    },
+    {
+      "entity": "Taliesin",
+      "type": "mythological figure"
+    },
+    {
+      "entity": "Elen",
+      "type": "mythological figure"
+    },
+    {
+      "entity": "Taliesin",
+      "type": "mythological figure"
+    },
+    {
+      "entity": "Elen",
+      "type": "mythological figure"
     }
   ],
   "sources": [
-    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.",
+    "MacKillop 2008, s.v. 'Coel'."
   ],
   "image": [
     "https://upload.wikimedia.org/wikipedia/commons/1/15/History_of_the_Kings_%28f.39.v%29_Coel.jpg"
   ],
   "cyphertext": "ZIHtlDKmNrwEKuEzMNouTxevpf7DgVLwSP4UCYKHGWBT7rFZ2RLo4fSVEgqS87d0Czza4j64jdfA6sWNLZzPew1r7LmILNA5QgzdCQ76FFObdnyGQNLUMN4QegNODqFaux707yd5hc9l9Vmk44puFFHEWkX7jjvX_lDMAIIavcJCX13Xqqysi1wSPoeaaJZJ4kUGbeDs2giDg7YLkFjBNVpMh6VGIYdeO20ldkkiHKgfcCKoKsD8Cn6swJXhVzEwTpO6UsrqDa0Cc3FwSwNDa-TVTGuiyA7YmkrUVWjwl7N5bLjSAcPDG0EKY9I_D5fSXH5i2E5CgST00q4VA9Dgr5fQsUnLXDLq2Vc_arC5ijOJj2xGmcodSzi_Zn-A4Ii0hm4fEbutctlUW3qf",
   "salt": "WSr6BZ9Q5lmWpkU3Xh1FHA==",
-  "text": "The nursery rhyme calls Old King Cole a merry old soul. Coel was no king. Coel Hen, meaning old Coel, was an ancient Celtic god whose status writers later shrank into a plain human. His name lives on in the town of Colchester.",
+  "text": "Coel appears in the poems of Taliesin as a 6th-century king of Aeron in Ayrshire, Scotland. Welsh tradition calls him a British ruler with two agnomens, Hen meaning old and Odebog meaning adulterous or hawkwood. Popular assertion makes him the original of the nursery rhyme king, Old King Cole. Popular etymology makes him the eponymous founder of Colchester. Medieval legend adds that he fathered Elen, the purported Welsh-born St Helen and mother of Constantine, the third-century Christian emperor. One older reading, recorded by Monaghan, treats Coel as an ancient Celtic god. Writers later shrank that god into a plain human king. That reading now stands as one tradition among several. The rhyme and the town name keep his memory alive either way.",
   "okr": {
-    "objective": "Coel is an ancient Celtic god who became the human Old King Cole of a rhyme.",
+    "objective": "Coel is the north British king of Aeron whom popular tradition made the original of Old King Cole and the father of St Helen.",
     "key_results": [
-      "Coel Hen means old Coel.",
-      "Writers shrank the god into a human king.",
-      "His name still lives in the town of Colchester."
+      "Taliesin names Coel a 6th-century king of Aeron in Ayrshire.",
+      "He carries the agnomens Hen, meaning old, and Odebog, meaning adulterous or hawkwood.",
+      "Popular assertion makes him the man behind Old King Cole.",
+      "Popular etymology makes him the eponymous founder of Colchester.",
+      "Medieval legend makes him father of Elen, mother of Constantine.",
+      "Monaghan reads him as an ancient god demoted into a human king."
     ],
-    "evidence": "Monaghan, Encyclopedia of Celtic Mythology and Folklore"
+    "evidence": "Monaghan, Encyclopedia of Celtic Mythology and Folklore. MacKillop, Dictionary of Celtic Mythology, s.v. Coel"
   }
 }

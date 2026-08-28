@@ -1,55 +1,81 @@
 {
-  "name": "Corc mac Luigthic",
-  "entities": [
-    {
-      "entity": "Corc mac Luigthic",
-      "type": "hero"
-    },
-    {
-      "entity": "Cashel",
-      "type": "place"
-    },
-    {
-      "entity": "Munster",
-      "type": "place"
-    },
-    {
-      "entity": "Fedelm",
-      "type": "character"
-    },
-    {
-      "entity": "Ogham",
-      "type": "concept"
-    }
-  ],
-  "attributes": [
-    {
-      "entity": "Corc mac Luigthic",
-      "attribute": "king of Cashel"
-    },
-    {
-      "entity": "Fedelm",
-      "attribute": "fairy mother of Corc"
-    },
-    {
-      "entity": "Corc mac Luigthic",
-      "attribute": "ear burned at inauguration"
-    }
-  ],
-  "sources": [
-    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-  ],
-  "cyphertext": "Am4kk1Fygr_PYuWtEosfO1kHx5IiVmV4pK0IxmMbDfbi72qsmFBYJfmebdcgp27ZhNWmCHCtdjbGDsCOJwRksva2bgjjAexAj-ibuGvwlVrLovzwHT53DowGq9gtthcT_xZiIsv7esdZdWkypPv1wF_YXGXeYHnzikosEk_a-YZS1WsFe6DbLdBw4taCDv2mxzu00tvFa6ESCaVDx3NEMIRbJq7YEUF-hlFBOWIxswHtHvd3ww5tPXhSNux62r30S0L2PKztYBUINVaY6RsR0vkyJ-bowMRzQB2J5KVX7OlqwfQKvi4y2yZSlyQ4ENUkYgqBhinTkSf7tm1NGXhN6WCY5GCN5NmpGCa_Jspnkw83q1pfWFU5CEriC5j-Pb82sW6O_1Ndayq8-2PSmTq0b4CXGmmVfqPybfl3VZNBOzOXo0lt8wlUVk4qNQ9dxLWcVWg5Z3iEmhQLMT4w-dsZIxIaU5roLXedXanynor6EAwhyl67OlZnr7-NNIfKpBGmQjbOcyjzzaXn-dcMgo0r4BVkiRvrO7drGzsnUF9IhqZrdcU0FTn8dq4lYSIea8jzXUV8qobqgzbp8yAzhRunq-IRnI1LAibjqPsAUUoDRKNsgdzqWsXqOxcxR4yLLBoD60T9FbvXLFRfjzP0Ei-rNpEw6EnBl178hTjIL2MQrXPhHTXwhtI_KJQnM0QlLQ8La3vVJzB11PMeZ5GIJyYUQZEYnMGyxTCoRfpSyJuDKtY_oJ_sk9A6mG0b2HnqgllelwqyjCrsugRytepYeEwk4utVSyW8M83tNMgkfgweacNSJXxXTg-OtbBTmI4xAY-EgSdn",
-  "salt": "hqqwYCztGlgxzupPzJNyAQ==",
-  "text": "Corc mac Luigthic is an Irish hero and king. He took possession of the throne at Cashel in Munster. His fairy mother, Fedelm, presided over the investment there. The rite left his ear singed red through magic. He sailed to Scotland for an audience with the Pict monarch. A rival had stamped Ogham words on his shield that condemned him to die. An ally reframed the writing as a welcome, so Corc wed the king's daughter and set up an Irish dynasty.",
-  "okr": {
-    "objective": "Corc mac Luigthic is a heroic king of Cashel.",
-    "key_results": [
-      "He was made king at Cashel in Munster.",
-      "His ear was magically singed red at the rite.",
-      "An ally rescued him from a death plot in Scotland.",
-      "He wed the king daughter and founded a line."
-    ],
-    "evidence": "Monaghan, Encyclopedia of Celtic Mythology and Folklore"
+ "name": "Corc mac Luigthic",
+ "entities": [
+  {
+   "entity": "Corc mac Luigthic",
+   "type": "hero"
+  },
+  {
+   "entity": "Cashel",
+   "type": "place"
+  },
+  {
+   "entity": "Munster",
+   "type": "place"
+  },
+  {
+   "entity": "Fedelm",
+   "type": "character"
+  },
+  {
+   "entity": "Ogham",
+   "type": "concept"
+  },
+  {
+   "entity": "Femen",
+   "type": "place"
+  },
+  {
+   "entity": "Picts",
+   "type": "people"
+  },
+  {
+   "entity": "Eóganacht",
+   "type": "dynasty"
+  },
+  {
+   "entity": "Eógan",
+   "type": "person"
   }
+ ],
+ "attributes": [
+  {
+   "entity": "Corc mac Luigthic",
+   "attribute": "king of Cashel"
+  },
+  {
+   "entity": "Fedelm",
+   "attribute": "fairy mother of Corc"
+  },
+  {
+   "entity": "Corc mac Luigthic",
+   "attribute": "ear singed at the installation rite"
+  },
+  {
+   "entity": "Corc mac Luigthic",
+   "attribute": "founder of the Eóganacht kingship of Cashel"
+  },
+  {
+   "entity": "Conall mac Luigthig",
+   "attribute": "name-form of Corc recorded by MacKillop"
+  }
+ ],
+ "sources": [
+  "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.",
+  "MacKillop 2008, s.v. 'Core mac Luigthig'."
+ ],
+ "cyphertext": "Am4kk1Fygr_PYuWtEosfO1kHx5IiVmV4pK0IxmMbDfbi72qsmFBYJfmebdcgp27ZhNWmCHCtdjbGDsCOJwRksva2bgjjAexAj-ibuGvwlVrLovzwHT53DowGq9gtthcT_xZiIsv7esdZdWkypPv1wF_YXGXeYHnzikosEk_a-YZS1WsFe6DbLdBw4taCDv2mxzu00tvFa6ESCaVDx3NEMIRbJq7YEUF-hlFBOWIxswHtHvd3ww5tPXhSNux62r30S0L2PKztYBUINVaY6RsR0vkyJ-bowMRzQB2J5KVX7OlqwfQKvi4y2yZSlyQ4ENUkYgqBhinTkSf7tm1NGXhN6WCY5GCN5NmpGCa_Jspnkw83q1pfWFU5CEriC5j-Pb82sW6O_1Ndayq8-2PSmTq0b4CXGmmVfqPybfl3VZNBOzOXo0lt8wlUVk4qNQ9dxLWcVWg5Z3iEmhQLMT4w-dsZIxIaU5roLXedXanynor6EAwhyl67OlZnr7-NNIfKpBGmQjbOcyjzzaXn-dcMgo0r4BVkiRvrO7drGzsnUF9IhqZrdcU0FTn8dq4lYSIea8jzXUV8qobqgzbp8yAzhRunq-IRnI1LAibjqPsAUUoDRKNsgdzqWsXqOxcxR4yLLBoD60T9FbvXLFRfjzP0Ei-rNpEw6EnBl178hTjIL2MQrXPhHTXwhtI_KJQnM0QlLQ8La3vVJzB11PMeZ5GIJyYUQZEYnMGyxTCoRfpSyJuDKtY_oJ_sk9A6mG0b2HnqgllelwqyjCrsugRytepYeEwk4utVSyW8M83tNMgkfgweacNSJXxXTg-OtbBTmI4xAY-EgSdn",
+ "salt": "hqqwYCztGlgxzupPzJNyAQ==",
+ "text": "Corc mac Luigthic is a legendary king in the line of Munster. His fairy mother Fedelm presided over his installation at Cashel, and the rite left his ear singed, a mark that gave him his name. Some early writers read the name wrongly as red or crimson. A swineherd had foretold that he would reach Cashel and gain its kingship. Sent to the Pictish king in Scotland carrying on his shield an ogham message whose words ordered his death, Corc escaped when a scholar he had freed from slavery altered the letters into a welcome. The king received him warmly and gave him his daughter in marriage. On his return he founded two dynasties, the first at Femen and the second, the greater, at Cashel. Trapped in a snowstorm, he beheld a vision, a yew bush rising over a stone, angels in flight above it, and his druids told him that whoever lit a fire on that stone would hold Munster forever. The line of Eóganacht, the descendants of Eógan, kept the kingship of Cashel for centuries. MacKillop records Conall Core and Conall mac Luigthig among the forms of his name.",
+ "okr": {
+  "objective": "Corc mac Luigthic is a heroic king of Cashel.",
+  "key_results": [
+   "He was made king at Cashel in Munster.",
+   "His ear was magically singed red at the rite.",
+   "An ally rescued him from a death plot in Scotland.",
+   "He wed the king daughter and founded a line.",
+   "MacKillop gives the name-forms Conall Core and Conall mac Luigthig."
+  ],
+  "evidence": "Monaghan, Encyclopedia of Celtic Mythology and Folklore; MacKillop, Dictionary of Celtic Mythology, 2008"
+ }
 }

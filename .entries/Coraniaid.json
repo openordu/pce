@@ -1,0 +1,67 @@
+{
+ "name": "Coraniaid",
+ "text": "The Coraniaid, also called the Coranians, form a demonic people who invade Britain and work havoc in the tale Cyfranc Lludd a Llefelys. Their name may relate to Welsh words for a dwarf. They rank among the three invaders that threaten the kingdom of Lludd, and they can hear every sound the wind carries. Writers have linked them in a general way with fairies, yet their malice runs far deeper than that of the tylwyth teg whom Welsh oral tradition remembers.",
+ "entities": [
+  {
+   "entity": "Coraniaid",
+   "type": "people"
+  },
+  {
+   "entity": "Coranians",
+   "type": "people"
+  },
+  {
+   "entity": "Cyfranc Lludd a Llefelys",
+   "type": "text"
+  },
+  {
+   "entity": "Lludd",
+   "type": "person"
+  },
+  {
+   "entity": "Llefelys",
+   "type": "person"
+  },
+  {
+   "entity": "tylwyth teg",
+   "type": "people"
+  },
+  {
+   "entity": "fairies",
+   "type": "beings"
+  },
+  {
+   "entity": "Britain",
+   "type": "place"
+  }
+ ],
+ "attributes": [
+  {
+   "entity": "Coraniaid",
+   "attribute": "demonic people who harass Britain in Cyfranc Lludd a Llefelys"
+  },
+  {
+   "entity": "Coraniaid",
+   "attribute": "one of three invaders of the kingdom of Lludd"
+  },
+  {
+   "entity": "Coraniaid",
+   "attribute": "hear every sound carried on the wind"
+  }
+ ],
+ "okr": {
+  "objective": "Record the Coraniaid of Welsh tale and their traits.",
+  "key_results": [
+   "Name Cyfranc Lludd a Llefelys as their story.",
+   "Give their wind-borne hearing and their place among the three invaders.",
+   "Set their malice against the gentler tylwyth teg."
+  ],
+  "evidence": "MacKillop, Dictionary of Celtic Mythology, 2008"
+ },
+ "image": [],
+ "cyphertext": "",
+ "salt": "",
+ "sources": [
+  "MacKillop 2008, s.v. 'Coraniaid'."
+ ]
+}

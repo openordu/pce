@@ -3,19 +3,19 @@
   "attributes": [
     {
       "entity": "Caladbolg",
-      "attribute": "magical sword of Irish mythology"
+      "attribute": "lightning sword of early Irish legend"
     },
     {
-      "entity": "Caladbolg",
-      "attribute": "carried by the hero Fergus mac Roich"
-    },
-    {
-      "entity": "Caladbolg",
-      "attribute": "thrown rainbows when swung"
+      "entity": "Fergus mac Roich",
+      "attribute": "bore the famous blade Caladbolg"
     },
     {
       "entity": "Excalibur",
-      "attribute": "blade whose Welsh name matches Caladbolg"
+      "attribute": "Arthurian sword the Irish weapon anticipates"
+    },
+    {
+      "entity": "Meath",
+      "attribute": "land where Caladbolg cut the three hill tops"
     }
   ],
   "entities": [
@@ -34,21 +34,26 @@
     {
       "entity": "Arthur",
       "type": "character"
+    },
+    {
+      "entity": "Meath",
+      "type": "place"
     }
   ],
   "sources": [
-    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.",
+    "MacKillop 2008, s.v. 'Caladbolg'."
   ],
   "cyphertext": "4tTcGNigAZVQfPcMxiBOYB7oVtisH8gRVgZQdAbsZxyimLY_GJ6Wed8oOOMv8DesJ1MPC6pCGPD2LLJQi8AryW7H7JYs0_ws04TnEG-ElriSHDTMt9EWNzrDRJD1DuNuPHzCZ0H4JmQw3LfhbhtiQvIjl7JEc_rxxcDyI_CD8_QRI5vZkHEPgb6gvt824Qx3biu05pOwj3O3z7u75Joiwn6bOpQwuStl2-HpTfLvifMlrflr5WSafMS1BBmcZIiwhh78DXPeOoG94XYgK5D_2IAec4Ho8tJet1bf-R674Dnu5c-hjK0ak-jcKAATxDFUzpXPpQvkuGNks3b_BAeFQKWJgSQ076Nx_V6RzemE2_cHHtZdZNNUF3lkuENgF5nttj8S-JrxqufWK4gf7m0uccG3BbuGAeuH9pJ4WdrZ6nEPH2s5Q9EpU7oIWiA317j8ibcBzoZDjRLOx-pzKOFwkWYDm0zCt2Hev9657WYtkGPNZgZam4x4LYmRZkz1Fhxv",
   "salt": "8ZvcazFkPMBgTONMUnPbAw==",
-  "text": "Caladbolg is a famous sword of Irish myth. The warrior Fergus mac Roich carried it. Its name matches the Welsh name of the blade Excalibur. That links it to the sword of King Arthur. Rainbows appeared when Fergus swung it. Once he cut the tops off the mountains of the midlands. The flat hill crests of Ireland still show that blow.",
+  "text": "Caladbolg is the lightning sword of early Irish legend. A line of heroes once bore this blade. The noble Fergus mac Roch carried it with great fame. With his stroke he cut the tops from three hills in Meath. Commentary reads the weapon as a forerunner of Excalibur. The famous sword of King Arthur follows the same pattern. This blade takes its name from the words for the hard. It remains a bright sign of the old heroic age.",
   "okr": {
-    "objective": "A magical Irish sword linked to both a hero and a famous blade.",
+    "objective": "A lightning sword of the Irish hero Fergus mac Roich, seen as a forerunner of Excalibur.",
     "key_results": [
-      "Caladbolg belonged to the warrior Fergus mac Roich.",
-      "Its name echoes the Welsh word for Excalibur.",
-      "Swung by Fergus it showed rainbows and cut the mountain tops."
+      "Caladbolg was a lightning sword carried by several Irish heroes.",
+      "Fergus mac Roich used it to cut the tops off three hills in Meath.",
+      "Commentators read the blade as an anticipation of Excalibur."
     ],
-    "evidence": "Monaghan, Encyclopedia of Celtic Mythology and Folklore, 2008."
+    "evidence": "MacKillop 2008, s.v. 'Caladbolg'. Monaghan, Encyclopedia of Celtic Mythology and Folklore, 2008."
   }
 }

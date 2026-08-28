@@ -1,0 +1,40 @@
+{
+  "name": "Cian Cúldub",
+  "fname": "Cian_Cúldub.json",
+  "text": "Cian Cúldub appears in the Irish legends as a hero attached to Leinster. His name is Irish and carries the sense of the black hair. The source records him in a single line, without deeds. Tradition preserves just his homeland and the meaning of his name.",
+  "entities": [
+    {
+      "entity": "Cian Cúldub",
+      "type": "hero"
+    },
+    {
+      "entity": "Leinster",
+      "type": "Place"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Cian Cúldub",
+      "attribute": "a Leinster hero"
+    },
+    {
+      "entity": "Cian Cúldub",
+      "attribute": "name means of the black hair"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Cian Cúldub'."
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Cian Cúldub is a one-line Leinster entry in the dictionary of Irish legend.",
+    "key_results": [
+      "Place him in Leinster as a hero.",
+      "Give the sense of his name as of the black hair.",
+      "Note that the source records him in one line."
+    ],
+    "evidence": "MacKillop, Dictionary of Celtic Mythology, s.v. 'Cian Cúldub'"
+  }
+}

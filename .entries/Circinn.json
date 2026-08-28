@@ -1,0 +1,40 @@
+{
+  "name": "Circinn",
+  "fname": "Circinn.json",
+  "text": "Circinn is one of the chief kingdoms of the Picts in early Scotland. Medieval writers also spell the name Circenn and Girginn. The kingdom lay north of the Forth and covered ground near the present counties of Angus and Kincardine. People once called Angus Forfarshire, and Kincardine joined the Tayside region in 1974. Tradition counts four chief Pictish realms, and Circinn stood among them.",
+  "entities": [
+    {
+      "entity": "Circinn",
+      "type": "kingdom"
+    },
+    {
+      "entity": "Angus",
+      "type": "place"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Circinn",
+      "attribute": "one of the four principal Pictish kingdoms"
+    },
+    {
+      "entity": "Circinn",
+      "attribute": "roughly matches Angus and Kincardine"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Circinn'."
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Circinn is the Pictish kingdom covering roughly modern Angus and Kincardine.",
+    "key_results": [
+      "Record the variant spellings Circenn and Girginn.",
+      "Map the kingdom to Angus and Kincardine.",
+      "State the place of Circinn among the four chief Pictish realms."
+    ],
+    "evidence": "MacKillop, Dictionary of Celtic Mythology, s.v. Circinn"
+  }
+}

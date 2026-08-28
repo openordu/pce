@@ -40,6 +40,18 @@
     {
       "entity": "Taliesin",
       "attribute": "the child Ceridwen bore after the pursuit"
+    },
+    {
+      "entity": "Ceridwen",
+      "attribute": "keeper of a cauldron of wisdom"
+    },
+    {
+      "entity": "Ceridwen",
+      "attribute": "mother of Taliesin"
+    },
+    {
+      "entity": "Ceridwen",
+      "attribute": "often perceived as a witch or hag"
     }
   ],
   "entities": [
@@ -74,22 +86,47 @@
     {
       "entity": "Wales",
       "type": "location"
+    },
+    {
+      "entity": "Bala Lake",
+      "type": "lake"
+    },
+    {
+      "entity": "Morfran",
+      "type": "figure"
+    },
+    {
+      "entity": "Koadalan",
+      "type": "story"
     }
   ],
   "sources": [
     "Straffon, Cheryl. The Earth Goddess: Celtic and Pagan Legacy of the Landscape. London: Blandford, 1997, 43.",
-    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.",
+    "MacKillop 2008, s.v. 'Ceridwen'."
   ],
   "cyphertext": "lZbjDgcuJqzZukK7Xqk8LDl__nqpMsWkfw8FpfqXlC2OQeZ2IxbRKiC6MHkVlaMfjBOcW0Tqb3S-RJEWs30j-wRP4kyerPcdRojgPNLBsa56uAjAW20DOBmIxCuFPLGUcQUjEDP-iC6_hOaI6j8y96I6PEjLc_lvTJzTUu4uS7H1_pI7rwlSPCp5HpsBcvfPdPsQLoOwvhzvZSb5hdP1Dt_VTDdVP7PA6Nq5oskCdWLdxEOHHvgFkX_g388z6V2kSBeiUTnKPQWqFr1-AP-Y_rSJnEJZPqxCu2S1sjdp18ZaG5h7eLZM5HbBm5i_Zy6K5cC5PAQr0WL_1kP7OKlcyXujhjtZ-aWfGObUoNIYAYmpu8Za92ssbVz25KPcCKIf-hhCOOKZ1Wo6Dhg3BJOAwF7tBwAA6P1KlS0uYd9b6CtVtgtcBgSCP_9naqre7nsDDRASR1OAw6mTitCUp6MJOD5_xnqKxddkF4Xi-_XNcoD_mZjsxrMebNOVbLQPiZVRb4NlxO9wsH_f6t1rkTYfxsyl6G4SKls9t4PhjfeHiDFYSwmtWdjYGUQoNprRMW8PylK-NxcMb_2G9kfguuy_yyOGYLsobcib7aYXBsWNj88fq1lFdlXW1jQk2m_0LVm63GhN-YCyO1XL6MS94Zs-LtWHfyeTMmr5LOrXR-Gs68-G7RQ6ZjVNL1TpzlkF711zfN08KqD_0AePZxxXuyaNVLwAhXwdubO6_Hus9X_jibfmB7bPIBgVrGfIu1kAEZSTEG01XqSKwvKJyFZ1LzMdPw8h2iIJDQGVbl3y6W1JrxZ4fXQAVBC3O9T0q4uipinUbjwUQChzgeJzrEt1MJ5mhQSfJ4HJWOoI3RFQLwmuM5jgCvKIHQR7Y9KlU-oGAu623_Yb_sALxY_IVtM0fB5py86al92BePLyrgKXGj9eOEBL9CuuIartLvGBlodXjLoTh72yedV0fzcgfvura_h15umK23Dok3_KBtMyXAVFQjOKIw6FGAazE5BxeyF3IF2GkjFrRTc-PZZzrkyJInnMxy0P_TVOMD6iQF_013eqXF0SROuWCU3ICU5CfhkS-5qJItBOsOTXBdF44y3hPplkQyurvfLyXABpPQ69XxKA2lQkIhQ923evX1WtRYI_THMgC06_9zsyl7HXCaB6uPPxWhZaWxqD2_JXXS_bEApV1PlpO6tCpvjS-Xk14Acp-pdlPN9k31tf0jFlruXRBxRw73ERkMPUujp_6JdJ6EiPP7nF88BujcfJ94iLDb9s_9VOuaKY8zbhjqvrZSt025l4786YC9t-g6MKkD4qU3cxZR6JMxx6SndUx5kqTfS4mVnZs13pJLE0jfJRsYIiFIXSWZHE9VhLYycvFs66CbBJ78UKWVjcBl95ia9Vmr4UcNTLfnoTro8LxwLacTEkBozcAAkBj2aGaWGKJvKhIBykaZFW71zyDRmpU63wxh1OBxsAoJx_yTFIGfzBisMe-plFqWLFqMEIUD9WusATATQD10spoRQhV_kOSP5TQFUURLSJ0VU8s5InSEhFet9z1IGSvGEgN1fDRRUWqbPTTjBOxi-GQfdgtJPk2dF2PHB_I_2lNuMXSQqJPAeS2mX2IZhQ7lvOy7t4UqSlGPkkvxsM0DvmMp8wRkoPhtdW5JNOn6RZYqCnQ8oLNhQHoSjw3e50_sOda1VDXSGFjNIzT4UdM5g5P95q-r8W1vrMAhudY-ss0Hx9_nUZTIw7OeukkHhiW4vzgcfzdYyIIpCc1iU_w5ZPveUIlWiuA7JouKSwd15HxvuE1DXAyRAI2a4gvm3gLS7oZTnCDFmbhVmLaML4vU0WNL0Luvh5H1W7xdfqtUk_cab4b95iUUKtoDuoOtMcBcyDOIkaYY0R190wLLcMTtwrl9nXsMbpnWMRkHMWqJpiDaXhYnDv7rmxETGG_lRROmJAYvXUgbN2lU_ofU7sFtCQHpmA62pQWBnAp3xLlTI-ypy2-7z-Yo77vGwQD0Vrp47XLo8mYkc6mN3SGSLr9yJnjtwG3I6H5bzdUBSBiPrVv54vgsCrAuTvGjW_uu7ac_d9APRc44yrp93oeJ_tgi_rQE2V_PJJRKesQ7GqAb6_mznrDcOOTaeBJJ9CKBRj3lbpVCyCk2Iy4MDuGc3x4_g-qEt9Odh963XuTvhQH7NCQnZrR8b0Y7JEAVrfx2XghVrZpea9L0XEC5L9XDDmpveONPA2jTJDLeczcLOu085rEYqfnWr79VSlSUZyYATqH_xdJqYWINKEE-SnPmcRk-aVpB2CfQVZf3ndJsG4W8vjN_hiFXjsNGn6m8zcyp1aUhxKK1GOauKDP4EDPVZ1ULYzCpDpdYfnz7qHHbz8-bz1EZoT7g6fzyHJKWo7k9QKiBPiEEOJ4t0Poa7GSx5QOTjBCGnrCSAamsZp10Et_aWCbRBwaHUVnKo8mqkozNhQtELRpZeFAIYktSVIx-Hf69M6me52GhsOxa09hvrFOZpFfEVvduXLCMkAXVMy_RlKK3l2I52WzIhS14EMhIAmQ5xzMTLVt81f--qiFHZfmAKvT8HWttsl8RQ1i92cFTbAWyE4xhr4SEwaO8xRfbxdMniMBSY5wHodFjuspC4303K6J6163h1qqW_aVL_wYfFvCAx1Bcby5WSVt_zaRL42njRzxvcfue0bP9vYXKCjM4WwjXyNZimc1y0sLdraz8u-mj7dH_zSfvhuhl1jOvZAtquEADFjAIGCsNm-x79tguUcG7F4leIs1pkHpyRegMzqwY4sxoScWhZ71se7MO74gFAcRTfdEgfzG9I421GbacHO_6j2I3hv_NI3ui_Ihx9qilYeQ9Aew7HJTWPVl6ZPrj3dxyWsLZNctQBJvXvm1wmwBWfR1MMwt0PS-nEd_IYj4s-P955WE6cO30JVELq-hmJxVYQIlkU7egecPEYS4ELwZUJjYBzo2xaMoPErgKbx-QH91uyyMuicCQYRd27AWERBqWujnNwoPbHl_6B-HL7YWy5X3BOo8eW0lXAekzK-5mcwtyBnRb_muveIM4jrO6C6rdsm2p1DSk5VSLQLzr0RNNtnW1FBgZjBU-JN0sqwnqWpq_DwkBRAFETOlNHtCcU1yGCj5BWLYUu6cwFZbPYUp5qyxfgBdpP3-x2To0oFvd0U4zZ87liknBOA1BWQ7F5vyEGhNYyc4Nu2IlaUQPxc1ydUnSp5re1nmYhFYC5ThQ0r4kIDwFdJLAzaDcKba6v1VGGjl-EhRKxTUWxAXTia7w61HjD0JnG-d8IdqTPxK6HPjP_WuYOE9eNEM4jlDYqY8lLOaHlas5kYpRSbkezBDgRZq-29UyDotumvhKn9o28OmOQl0DkYP3VTadJnrvr2oTk7nUOB6b85EbGQ47UORmQHyo5Jbs7MiLGkXwIWIUWS27jDd3Y4N8ZMR3jM9pbKdS-F7RreQpF1qSiP-5y4B1y9OskvEza9FE6VaAnxnWlNIcAuNGjpY_e4CNYTkRRfbimBpUBq-UTEJWW6AzkQ1H3BUmKxwcFrj_K-7Xwu5v5GEYOl6FN_VV2ZNdy4nHJvxGOrcYuJNU741IxI2V4pVlBHG7JJchsYOYI_aUQmc_kx4uQWCYSYwhpDVtRwWieSCustB8EESWsfmMYARejGB9ymih4ucCRjk5pv7517Rrfgd5twLCpT8wr3Mn3jn-1VjPxfxSuI7zvn6n6HvW67bAp91aaTlHk6HcFlkED3Y3BmDaSjx0u4SkBuquFnRVvQfcyTojWdPj9o3fTg2H4SjOm0RVOeyD9hDYRibLbKNpXABXQuOQhFMETD2zEOvpcrC3I9HKLrUB0bjuEk6D8mZhf-zbNf2RqrxYPR5D6qFpaD_Y2ItWjr8jU=",
   "salt": "MvAUiQpvMqr7A-sgZoGweA==",
-  "text": "Ceridwen was a Welsh goddess who made her home on an island within Lake Bala, in the part of north Wales called Llyn Tegid. Her other names are Caridwen, Cerridwen, Cariadwen, and Keridwen. Folk sometimes deemed her a witch. Her mate, Tegid Voel, meaning the bald, lived there with her. They had two children, Creirwy and Afagddu. Creirwy, as her name says, was lovely. Afagddu was the world's most plain child. To offset how he looked, Ceridwen meant to give her son the gift of far sight. She boiled herbs in a secret brew meant to bestow wisdom. The mixture had to sit in her cauldron a year and a day. A lad named Gwion tended the pot. Three drops touched his thumb, and he licked them away. He thus took the wisdom meant for Afagddu. Ceridwen gave chase in fury. Gwion shifted through hare, fish, and bird, then to a kernel of wheat. She turned to greyhound, otter, and hawk, then a hen that swallowed the grain. In time Ceridwen bore a child and set him afloat on the sea. That child grew into the bard Taliesin.",
+  "text": "Ceridwen was a Welsh goddess. She made her home on an island within Lake Bala, in north Wales, on the water called Llyn Tegid. A shape-shifting keeper of wisdom, she owned a cauldron called Amen. It lay at the bottom of the lake. Her other names are Caridwen, Cerridwen, Cariadwen, Keridwen, and Kyrridwen. The second element, Welsh gwen, means white or blessed. Folk deemed her a witch, and many still see an unpleasant hag in her. Her mate, Tegid Voel or Tegid Foel, meaning the bald, lived there with her. They had two children, Creirwy and Morfran. Creirwy, as her name says, was lovely. Morfran, also called Afagddu, was odiously ugly, the plainest child in the world. To offset his looks, Ceridwen meant to give her son the gift of far sight. She boiled herbs in a secret brew meant to bestow wisdom. The mixture had to sit in her cauldron a year and a day. A lad named Gwion, or Gwion Bach, tended the pot. Three magical drops meant for Morfran fell instead on Gwion Bach, and he licked them away. He thus took the wisdom meant for Afagddu, gaining rare insight. Ceridwen gave chase in fury. Both changed shapes. Gwion shifted through hare, fish, and bird, and she answered as greyhound, otter, and hawk. Gwion at last became a kernel of wheat, and a hen form of Ceridwen swallowed it. In time Ceridwen bore a child and set him afloat on the sea. Nine months had passed since the grain went down. That child grew into the bard Taliesin. The Breton tale of Koadalan may echo this story.",
   "okr": {
     "objective": "Ceridwen is a Welsh goddess who brewed a wisdom potion for her son.",
     "key_results": [
       "She lived with her partner Tegid Voel on an island in Lake Bala.",
       "Her children were the beautiful Creirwy and the ugly Afagddu.",
       "Gwion gained the wisdom she intended for Afagddu and fled.",
-      "She later bore a child who became the bard Taliesin."
+      "She later bore a child who became the bard Taliesin.",
+      "A cauldron called Amen lay at the bottom of Bala Lake.",
+      "Three drops meant for Morfran fell on Gwion Bach instead.",
+      "The pursuit ran through hare, greyhound, and other shapes.",
+      "The Breton tale of Koadalan may echo her story.",
+      "A cauldron called Amen lay at the bottom of Bala Lake.",
+      "Three drops meant for Morfran fell on Gwion Bach instead.",
+      "The pursuit ran through hare, greyhound, and other shapes.",
+      "The Breton tale of Koadalan may echo her story.",
+      "A cauldron called Amen lay at the bottom of Bala Lake.",
+      "Three drops meant for Morfran fell on Gwion Bach instead.",
+      "The pursuit ran through hare, greyhound, and other shapes.",
+      "The Breton tale of Koadalan may echo her story."
     ],
     "evidence": "Monaghan, Encyclopedia of Celtic Mythology and Folklore"
   }

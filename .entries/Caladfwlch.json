@@ -1,0 +1,69 @@
+{
+  "name": "Caladfwlch",
+  "attributes": [
+    {
+      "entity": "Caladfwlch",
+      "attribute": "a variant spelling of the Welsh name Caledfwlch"
+    },
+    {
+      "entity": "Caledfwlch",
+      "attribute": "the name for the sword of Arthur in Welsh narratives"
+    },
+    {
+      "entity": "Caledfwlch",
+      "attribute": "a blade that comes before the later Excalibur"
+    },
+    {
+      "entity": "Arthur",
+      "attribute": "the king who holds the sword in the Welsh tales"
+    },
+    {
+      "entity": "Culhwch ac Olwen",
+      "attribute": "a tale that lists the sword among Arthur's great possessions"
+    },
+    {
+      "entity": "Llenlleawg Wyddel",
+      "attribute": "a hero who uses the blade in that story"
+    }
+  ],
+  "entities": [
+    {
+      "entity": "Caladfwlch",
+      "type": "Artifact"
+    },
+    {
+      "entity": "Caledfwlch",
+      "type": "Artifact"
+    },
+    {
+      "entity": "Excalibur",
+      "type": "Artifact"
+    },
+    {
+      "entity": "Caladbolg",
+      "type": "Artifact"
+    },
+    {
+      "entity": "Arthur",
+      "type": "Person"
+    },
+    {
+      "entity": "Culhwch ac Olwen",
+      "type": "Text"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Caladfwlch'."
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "text": "Caladfwlch is a variant spelling of Caledfwlch. That Welsh name describes one sword of King Arthur in the Arthurian narratives. The blade stands among several forms that herald the later Excalibur. The tale Culhwch ac Olwen lists the weapon among the king's most cherished possessions. A hero named Llenlleawg Wyddel carries the sword in that story. The Irish blade caladbol connects to the same ancient root.",
+  "okr": {
+    "objective": "Caladfwlch is an alternate spelling for the Welsh sword of Arthur.",
+    "key_results": [
+      "Identify Caladfwlch as a form of Caledfwlch."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Caladfwlch'."
+  }
+}

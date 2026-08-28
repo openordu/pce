@@ -1,0 +1,39 @@
+{
+ "name": "Columba",
+ "text": "Columba is simply Latin for dove. Registers of the early church hand the name to thirty-two saints. The one most readers stumble upon is the figure whom Irish and Scottish Gaelic speakers name Colum Cille. MacKillop files his chief article beneath that Gaelic heading, treating the Latin form as an umbrella. Anyone who runs across a Saint Columba in Latin documents or English-language sources should follow the pointer to the Gaelic article. See Colum Cille.",
+ "entities": [
+  {
+   "entity": "Columba",
+   "type": "person"
+  },
+  {
+   "entity": "Colum Cille",
+   "type": "person"
+  }
+ ],
+ "attributes": [
+  {
+   "entity": "Columba",
+   "attribute": "Latin name meaning dove"
+  },
+  {
+   "entity": "Columba",
+   "attribute": "borne by thirty-two saints, most famously the abbot of Iona"
+  }
+ ],
+ "sources": [
+  "MacKillop 2008, s.v. 'Columba'.",
+  "MacKillop 2008, s.v. 'Colum Cille'."
+ ],
+ "image": [],
+ "cyphertext": "",
+ "salt": "",
+ "okr": {
+  "objective": "Columba is the Latin umbrella name of the dove-saint family.",
+  "key_results": [
+   "The Latin word means dove.",
+   "The best-known of thirty-two bearers is the saint of Iona."
+  ],
+  "evidence": "MacKillop, Dictionary of Celtic Mythology, 2008"
+ }
+}

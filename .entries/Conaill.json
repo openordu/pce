@@ -1,0 +1,39 @@
+{
+  "name": "Conaill",
+  "text": "Conaill is a cross-reference headword for Irish clann and cenél names built on the root Conall. MacKillop uses it to gather the kindred names and points readers to two articles. The first treats Tír Chonaill, the kingdom of the Conailli in what is now County Donegal. The second treats Conall Gulban, nine-hostaged Niall's son, who raised that kingdom. See Conall Gulban.",
+  "entities": [
+    {
+      "entity": "Conaill",
+      "type": "kinship group"
+    },
+    {
+      "entity": "Conall Gulban",
+      "type": "mythological figure"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Conaill",
+      "attribute": "cross-reference headword for clann and cenél names"
+    },
+    {
+      "entity": "Conaill",
+      "attribute": "gathers kindred names under Tír Chonaill and Conall Gulban"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Conaill'."
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Conaill is MacKillop's pointer headword for the Conall kindred names.",
+    "key_results": [
+      "Conaill gathers the clann and cenél forms built on Conall.",
+      "The pointer leads to Tír Chonaill and to Conall Gulban.",
+      "Conall Gulban founded the Donegal kingdom of Tír Chonaill."
+    ],
+    "evidence": "MacKillop, Dictionary of Celtic Mythology, 2008"
+  }
+}

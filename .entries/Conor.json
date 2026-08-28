@@ -1,0 +1,59 @@
+{
+ "name": "Conor",
+ "text": "Conor is an anglicized spelling of Conchobar. The Irish name also appears as Conchubar, Conchobhar, Conachar, and Conchúr. The best-known bearer is Conchobar mac Nessa, the king of Ulster in the tales of the Red Branch. The common family name O'Connor preserves this form, and it descends from several distinct Irish lineages.",
+ "entities": [
+  {
+   "entity": "Conor",
+   "type": "name-form"
+  },
+  {
+   "entity": "Conchobar",
+   "type": "person"
+  },
+  {
+   "entity": "Conchobar mac Nessa",
+   "type": "person"
+  },
+  {
+   "entity": "Ulster",
+   "type": "place"
+  },
+  {
+   "entity": "Red Branch",
+   "type": "group"
+  },
+  {
+   "entity": "O'Connor",
+   "type": "family"
+  }
+ ],
+ "attributes": [
+  {
+   "entity": "Conor",
+   "attribute": "anglicized form of Conchobar"
+  },
+  {
+   "entity": "Conchobar mac Nessa",
+   "attribute": "best-known bearer of the name"
+  },
+  {
+   "entity": "O'Connor",
+   "attribute": "family name preserving the Conor form"
+  }
+ ],
+ "okr": {
+  "objective": "Route readers who search Conor to the main article on Conchobar.",
+  "key_results": [
+   "Identify Conor as an anglicization of Conchobar.",
+   "List the other spelling variants MacKillop records.",
+   "Name Conchobar mac Nessa as the famous bearer of the name."
+  ],
+  "evidence": "MacKillop, Dictionary of Celtic Mythology, 2008"
+ },
+ "image": [],
+ "cyphertext": "",
+ "salt": "",
+ "sources": [
+  "MacKillop 2008, s.v. 'Conor'."
+ ]
+}

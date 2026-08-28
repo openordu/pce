@@ -1,0 +1,47 @@
+{
+  "name": "Cenn Abrat",
+  "attributes": [
+    {
+      "entity": "Cenn Abrat",
+      "attribute": "site of Lugaid mac Con's legendary defeat"
+    },
+    {
+      "entity": "Eógan",
+      "attribute": "led the southern forces that beat his brother at Cenn Abrat"
+    },
+    {
+      "entity": "Érainn",
+      "attribute": "the invading people whose defeat may underlie the legend"
+    }
+  ],
+  "entities": [
+    {
+      "entity": "Cenn Abrat",
+      "type": "location"
+    },
+    {
+      "entity": "Eógan",
+      "type": "Person"
+    },
+    {
+      "entity": "Érainn",
+      "type": "group"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Cenn Abrat'."
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "text": "Cenn Abrat, also Cend Abrat or Cenn Febrat, marks a legendary battlefield of early Ireland. Lugaid mac Con lost there to southern hosts raised by the Eóganacht under his brother Eógan. Modern commentators trace the legend to a real defeat of the invading Érainn by Eóganacht and Múscraige forces. The name covers the Ballyhoura uplands of County Limerick. Lugaid endured exile in Scotland before returning for the climactic battle of Mag Mucrama.",
+  "okr": {
+    "objective": "Describe Cenn Abrat and its legendary battle.",
+    "key_results": [
+      "Cenn Abrat marks Lugaid mac Con's defeat by Eógan.",
+      "The site matches the Ballyhoura uplands in Limerick.",
+      "The legend may recall a real Érainn defeat."
+    ],
+    "evidence": "MacKillop 2008, s.v. Cenn Abrat."
+  }
+}

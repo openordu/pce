@@ -1,0 +1,53 @@
+{
+  "name": "Ciarán",
+  "fname": "Ciarán.json",
+  "text": "Ciarán is an Irish saint name, also spelled Kieran, and it carries the sense of dark or dark-haired. Early sources give the name to at least twenty-six Irish saints. The most famous bearer founded the monastic settlement of Clonmacnoise beside the Shannon. His feast-day falls on 9 September, and he died in 556. Legend adds a strange tale. The saint took down the Táin Bó Cuailnge, the Cattle Raid of Cooley. Its speaker was Fergus mac Róich, a warrior back from the dead. The story says the text went onto hide from his beloved cow. That detail ties the work to the Book of the Dun Cow. That copying job is more often given to Senchán Torpéist. A second bearer, Ciarán of Seir or Saighir, is called Ciarán the Elder. His feast-day is 30 April, west Cork honours him greatly, and he is the patron of Ossory diocese in Kilkenny.",
+  "entities": [
+    {
+      "entity": "Ciarán",
+      "type": "saint"
+    },
+    {
+      "entity": "Fergus mac Róich",
+      "type": "warrior"
+    },
+    {
+      "entity": "Book of the Dun Cow",
+      "type": "manuscript"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Ciarán",
+      "attribute": "name borne by at least twenty-six Irish saints"
+    },
+    {
+      "entity": "Ciarán",
+      "attribute": "founder of Clonmacnoise with feast-day 9 September"
+    },
+    {
+      "entity": "Ciarán",
+      "attribute": "said to have copied the Cattle Raid of Cooley from the dead Fergus mac Róich"
+    },
+    {
+      "entity": "Ciarán of Saighir",
+      "attribute": "patron of the diocese of Ossory"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Ciarán'."
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Ciarán is an Irish saint name carried by many holy men, led by the founder of Clonmacnoise.",
+    "key_results": [
+      "Count at least twenty-six Irish saints bearing the name.",
+      "Name the Clonmacnoise founder, his feast-day and his death year.",
+      "Retell the legend of copying the Táin from the dead Fergus.",
+      "Record the second saint of Saighir and his Ossory patronage."
+    ],
+    "evidence": "MacKillop, Dictionary of Celtic Mythology, s.v. 'Ciarán'"
+  }
+}

@@ -2,42 +2,51 @@
 layout: layouts/pce.njk
 title: Caíntigern
 icon: file-lines
-order: 368
+order: 0
 contributors: [ 'Christopher Godwin' ]
 attributes:
-  - Caíntigern mother of Mongán
-  - Mongán son of Caíntigern and Manannán Mac Lir
-  - Manannán Mac Lir father of Mongán
+  - Caíntigern a gentle lady of early Irish narrative
+  - Caíntigern the wife of Fiachna mac Báetáin
+  - Caíntigern the mother of the hero Mongán
+  - Mongán called a magical king
+  - Mannán mac Lir the father of Mongán
 categories:
-  - Irish sea god
-  - magical king
-  - Irish goddess or heroine
+  - god
+  - mythological figure
+  - person
+  - hero
 entities:
-  - Caíntigern(Irish goddess or heroine)
-  - Mongán(magical king)
-  - Manannán Mac Lir(Irish sea god)
+  - Caíntigern(mythological figure)
+  - Mongán(hero)
+  - Fiachna mac Báetáin(person)
+  - Mannán mac Lir(god)
 tags:
   - Caíntigern
   - Mongán
-  - Manannán Mac Lir
+  - Fiachna mac Báetáin
+  - Mannán mac Lir
 ---
 ``` tab [group1:Info]
 ::: magazinestyle
-Irish mythology mentions Caíntigern, a lesser-known figure who is regarded as a goddess or heroine. She is known to be the mother of Mongán, a powerful king with supernatural abilities. Mongán's father is believed to be an Irish sea god, Manannán Mac Lir.
+Caíntigern is a figure in Irish mythology, and her name also appears as Caointiarn. The name means gentle lady in Irish. Several female figures of early Irish narrative bear it. The best known is the wife of Fiachna mac Báetáin and the mother of the hero Mongán. She mothered the king Mongán, who ruled with magic. Mongán's father was Manannán mac Lir, god of the Irish sea.
 
 :::
 ```
 ``` tab [group1:Attributes]
-- **Caíntigern**: mother of Mongán
-- **Mongán**: son of Caíntigern and Manannán Mac Lir
-- **Manannán Mac Lir**: father of Mongán
+- **Caíntigern**: a gentle lady of early Irish narrative
+- **Caíntigern**: the wife of Fiachna mac Báetáin
+- **Caíntigern**: the mother of the hero Mongán
+- **Mongán**: called a magical king
+- **Mannán mac Lir**: the father of Mongán
 ```
 ``` tab [group1:Entities]
-- **Caíntigern**: Irish goddess or heroine
-- **Mongán**: magical king
-- **Manannán Mac Lir**: Irish sea god
+- **Caíntigern**: mythological figure
+- **Mongán**: hero
+- **Fiachna mac Báetáin**: person
+- **Mannán mac Lir**: god
 ```
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
+- MacKillop 2008, s.v. 'Caíntigern'.
 ```
 ![Caíntigern Image](https://upload.wikimedia.org/wikipedia/commons/f/fc/Innisnacailleach.jpg)

@@ -1,0 +1,55 @@
+{
+  "name": "Carnac",
+  "text": "Carnac is one of the most spacious archaeological sites in any land of the Celtic world. The field rests beside the sea in southern Brittany, near the village of Auray. Long rows of upright megalithic blocks extend almost two miles in an east-west path. Some of the larger standing stones reach eleven to thirteen feet in height. Breton oral tradition calls the place Ty Charriguet, the House of the Gorics. That title recalls the gnomes held to haunt the region. Another old tale gives the credit to Komeli, a pseudo-saint. He made the monuments by turning his own pursuers into stone.",
+  "entities": [
+    {
+      "entity": "Carnac",
+      "type": "Place"
+    },
+    {
+      "entity": "Brittany",
+      "type": "Place"
+    },
+    {
+      "entity": "menhir",
+      "type": "Artifact"
+    },
+    {
+      "entity": "Cromlech",
+      "type": "concept"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Carnac",
+      "attribute": "a monumental megalithic field in southern Brittany"
+    },
+    {
+      "entity": "Carnac",
+      "attribute": "sits near Auray on the south coast of Brittany"
+    },
+    {
+      "entity": "Carnac",
+      "attribute": "known as Ty Charriget in Breton tradition"
+    },
+    {
+      "entity": "Komeli",
+      "attribute": "the pseudo-saint who made the stones"
+    }
+  ],
+  "okr": {
+    "objective": "Carnac is a vast megalithic field in southern Brittany near Auray.",
+    "key_results": [
+      "Rows of megalithic blocks run for about two miles.",
+      "Larger upright stones stand eleven to thirteen feet high.",
+      "Breton lore links the site to gnomes and the pseudo-saint Komeli."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Carnac'."
+  },
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "sources": [
+    "MacKillop 2008, s.v. 'Carnac'."
+  ]
+}

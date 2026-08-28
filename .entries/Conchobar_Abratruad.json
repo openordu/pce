@@ -1,0 +1,60 @@
+{
+  "name": "Conchobar Abratruad",
+  "text": "Conchobar Abratruad is an early king of the Lagin, the stock from whom the Leinstermen of eastern Ireland descend. His byname means of the red eyelashes. Early Irish pedigrees tangle him with Conchobar mac Nessa, the far better-known Ulster king. Genealogists long blurred the two. He stands apart in the PCE. The article on the Ulster king sits at Concobar mac Nessa.",
+  "entities": [
+    {
+      "entity": "Conchobar Abratruad",
+      "type": "person"
+    },
+    {
+      "entity": "Lagin",
+      "type": "group"
+    },
+    {
+      "entity": "Leinster",
+      "type": "place"
+    },
+    {
+      "entity": "Concobar mac Nessa",
+      "type": "person"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Conchobar Abratruad",
+      "attribute": "early king of the Lagin"
+    },
+    {
+      "entity": "Conchobar Abratruad",
+      "attribute": "byname means of the red eyelashes"
+    },
+    {
+      "entity": "Lagin",
+      "attribute": "ancestors of the Leinstermen of eastern Ireland"
+    },
+    {
+      "entity": "Conchobar Abratruad",
+      "attribute": "confused by early pedigrees with the Ulster king"
+    },
+    {
+      "entity": "Concobar mac Nessa",
+      "attribute": "separate PCE article covers the Ulster king"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Conchobar Abratruad'."
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Conchobar Abratruad is the red-eyelashed early king of the Lagin, distinct from the Ulster king.",
+    "key_results": [
+      "Translate the byname as of the red eyelashes.",
+      "Place him as an early king of the Lagin of eastern Ireland.",
+      "Flag the pedigree confusion with Conchobar mac Nessa.",
+      "Point to the Ulster king's article at Concobar mac Nessa."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Conchobar Abratruad'"
+  }
+}

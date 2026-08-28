@@ -1,0 +1,25 @@
+{
+  "name": "Carril",
+  "attributes": [
+    {"entity": "Carril", "attribute": "variant spelling of Cairell"},
+    {"entity": "Carril", "attribute": "Carrill gives a further alternate spelling of the same name"}
+  ],
+  "entities": [
+    {"entity": "Carril", "type": "Person"},
+    {"entity": "Cairell", "type": "Person"}
+  ],
+  "sources": ["MacKillop 2008, s.v. 'Carril'."],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "text": "The dictionary lists Carril and Carrill as two variant spellings of Cairell. A reader who meets either form should turn to the entry for Cairell. That fuller account holds the story behind this name. Carril itself carries no separate tale in the source.",
+  "okr": {
+    "objective": "Document Carril as a variant spelling of Cairell.",
+    "key_results": [
+      "Carril and Carrill both spell the name Cairell",
+      "The entry on Cairell carries the fuller account",
+      "Carril itself has no separate story"
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Carril'."
+  }
+}

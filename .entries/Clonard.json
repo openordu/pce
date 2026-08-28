@@ -1,0 +1,49 @@
+{
+  "name": "Clonard",
+  "entities": [
+    {
+      "entity": "Clonard",
+      "type": "monastery"
+    },
+    {
+      "entity": "Meath",
+      "type": "place"
+    },
+    {
+      "entity": "Leinster",
+      "type": "province"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Clonard",
+      "attribute": "an early Irish monastery founded by St Finnian"
+    },
+    {
+      "entity": "Clonard",
+      "attribute": "proverbial for the saints it fostered"
+    },
+    {
+      "entity": "Clonard",
+      "attribute": "sited in Co. Meath though tied to Leinster's history"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Clonard'."
+  ],
+  "cyphertext": "",
+  "salt": "",
+  "image": [],
+  "text": "Clonard, in Irish Cluain Ioraird or Eraird, means Iorard's meadow. St Finnian founded the monastery there and died in 549. The house grew into a great school of early Ireland. It turned proverbial for the many saints it fostered. Its buildings suffered sack after sack, and most ruins vanished in the early nineteenth century. The story of Clonard belongs to the history of Leinster. Its site now lies in County Meath, four miles east of Kinnegad. Tradition makes Iorard a pagan chief, and the moat linked to him still shows on the ground. Places in County Dublin and County Wexford carry the same name. Their Irish form, Cluain Art, means high meadow, and they share no link with this monastery.",
+  "okr": {
+    "objective": "Clonard is the great early monastery of St Finnian, famed for fostering saints.",
+    "key_results": [
+      "Explain the name Cluain Ioraird, Iorard's meadow.",
+      "Record Finnian's founding and the proverbial fostering of saints.",
+      "Record the repeated sackings and the loss of the ruins.",
+      "Set the Leinster ties against the County Meath site.",
+      "Separate the site from the same-named places in Dublin and Wexford."
+    ],
+    "evidence": "MacKillop, Dictionary of Celtic Mythology, s.v. Clonard"
+  }
+}
