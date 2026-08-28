@@ -1,97 +1,246 @@
 {
-  "name": "Tara",
-  "attributes": [
-    {
-      "entity": "Tara",
-      "attribute": "an old hill site in County Meath"
-    },
-    {
-      "entity": "Tara",
-      "attribute": "the seat of the high king of Ireland"
-    },
-    {
-      "entity": "Tara",
-      "attribute": "the place of the king's wedding feast"
-    }
-  ],
-  "entities": [
-    {
-      "entity": "Tara",
-      "type": "Place"
-    },
-    {
-      "entity": "County Meath",
-      "type": "Place"
-    },
-    {
-      "entity": "Tuatha De Danan",
-      "type": "Group"
-    },
-    {
-      "entity": "Hill of Tara",
-      "type": "Place"
-    },
-    {
-      "entity": "Navan",
-      "type": "Place"
-    },
-    {
-      "entity": "Dunshaughlin",
-      "type": "Place"
-    },
-    {
-      "entity": "Mound of the Hostages",
-      "type": "Place"
-    },
-    {
-      "entity": "Rath of the Synods",
-      "type": "Place"
-    },
-    {
-      "entity": "Ráith na Ríg",
-      "type": "Place"
-    },
-    {
-      "entity": "Lia Fáil",
-      "type": "Artifact"
-    },
-    {
-      "entity": "Tailtiu",
-      "type": "Place"
-    },
-    {
-      "entity": "Saint Patrick",
-      "type": "Person"
-    },
-    {
-      "entity": "Loegaire mac Néill",
-      "type": "Person"
-    },
-    {
-      "entity": "Diarmait mac Cerbaill",
-      "type": "Person"
-    }
-  ],
-  "sources": [
-    "Gwynn, Edward. The Metrical Dindshenchas. Part I. Royal Irish Academy, Todd Lecture Series. Dublin: Hodges, Figgis, and Co., Ltd., 1906–1924.",
-    "Ó Ríordáin, Seán. Tara: The Monuments on the Hill. Dundalk: Dundalgan Press, 1992.",
-    "Raftery, Brian. Pagan Celtic Ireland: The Enigma of the Irish Iron Age. London: Thames and Hudson, 1994.",
-    "Rees, Alwyn, and Brinley Rees. Celtic Heritage: Ancient Tradition in Ireland and Wales. London: Thames and Hudson, 1998.",
-    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.",
-    "Koch 2006, s.v. \"Teamhair (Tara)\""
-  ],
-  "cyphertext": "-RHmdsj-RlYQDuhPcNsFcH1rXMk1-evD1w4SMF31M3WIjFz4MtT335SGYDT-OfsBeV7gQ9hG3rj-1NvSxSt_FXbmyjMaQi3zMsNUtYUMXAPAkG-GrHsNwamIgWe2Mn-798UDvNNrjZI08ALklzwHpdHylgjBkQ-ExlQBy3OR1T4IMaSssw0dQJNbOhWy6CptMDeBvDiQ14Ww3q8OGjyfbD0YiFE9-yTiw4mVWQxh3At6eciDF0Y5nPwct8B5jb2fuWWmmI3ZXVeb5r22sqR5MYUFpzjeGkQlLpD0iuAKMSSZNQHzdxgucQHE2raPYmdvIIRZiZRpW1x6PbosWsqPHPBnIdRJ9YiafE-e_NpTySNOk7A8ktviVQOjQexKIJ21O9aftmv-N23rf_xi3m149UgsXLZaAA1AE5mXG2r5f3r9v9KeyDAn-_Y0KVgD_lGnn1AWbIyhQtZYO2u6EJFIziJWChEmgBj4tXp0ShycSpX27vCxjtv6LO1cVgwFQej6VnqtDBcTHt4W309IHP3LoPkPgelfSxUIRFAM1arZWKsrlRJ-zUVdZ24aLxTq8juPTdi2WD0MSTthgOoI2z2R8p73WQdCe5YENWLWFq-jnLAbDDbSCPdevmFWuK8It1bZaD70sbxNbYCCeBAA4SD1eXJbIU4AXEMp3JamC3PbyHxaZ-HIIugUIp3RadvfpiQX4eAmo1MOfzI7k2Z02y0CzLWj5_ElfS3aDMCeflSZxtVlb13WxApWknYXd2y2KmlA1th3eIDoLZ5f7vNU0diLEvsLzi7AgpOJ28WVxzfRMwjsoYTAJ63fCt6K9PopVtNpaFVQaN3iDyiy-qeKleSRo2vaw_zMc1EKWdz3r1EbzzKRmB85S278OC9LlZ__Y7_nleXdh6-iZJN1YJEV0sXPGpf9mCm4VDPB6ZTQHJpf4qf84kXH25ugEjwgAN90dBaGNLYPteWWw0z4immZYx_YtrdV3_4s5qa-L4-nalRPZRVOIfeWT9IMwhYIkIRWBfRJ5NEu6OpVcOdf38mF-y52qgBHVl3rM_YVduZfaePnzWN-NOOlSDUuViyf6hGrRF5RS70jASVeR2bTN0YWJpQWmNYS4pNYG6AjkZj1oI4V4AfFpH0N3F8NellU6aIPOS9EtUC42AOBGbZPsRR1sbOo6Htyt9HyJ46SaZdzR9UgaB-n4ccmHe6mDaHvG8sgIeETtKRDcrvna0XZWlYdOm4WEXSQQobbhkkfFadXFbmenTi6dCggtqghXq5Q1MqCKdKCjkEUDWdYD8I-4nL3GP-4GgPWHIO5jR39z36rtghOr6mpaFzugM7Q1DJIyGrQQs6OsYawz1lwqNbADb3sF76kH5FN21VPHw1yOwX7cVq0S57cuxT6x7nCDz825yASP_h2sTElUGRWo26v7LW66U-pCKrY37AENijzCMEWge31AzjURBXfNWnXFu7NUN_h58EGxrIjW1y72F9AYOKoWrFv7YI7bgLiWHlZ9QOrDfv-0tuWq4CqoG5Fy7zvk66Wm6cKmFhz9RWz4mw8Xq3DTexijBLoxXonTteBwDYt2Hd-T3LEpZ1qlNFq5xJxFKGaXU8o9Zn-CzFKXMcrhiArVlwRjWzf53k0Qg1UoK4lN8YsoxXkkHYWF_sZIcIG8WrFtKdzYjTu9bXBxhxe2A72W9e2NWRQXmVkZJjvi_6CdvImIwlM8jJhPcJmNXI0t7VH58ITUttx2P8lmnVWHSB90LUqhB8O83HtaEzLLax_iS9SJ83RGx5LT3vieWk5idcsmErN3iFDccxbUjMnAzAhSn5LlCSlUhbwTZMbIS6EnKlwFBT0ancRVZRSpgxxdQquUcpbjmF3QytO6KWpqcDMsPLPrwdinwgYvLJ2rxnF8YJkqMydB13RAJ51G3zv5K4j__8vo9xgCLhOdkd8LyZRj4TmYn3974uqvsZ2TWiEgcU4M4Udl0rXnh8jm96NAJ7vvCK1hUhy3EAoTrTgBnzxNJS3YKUYhEnpXsIXb2b-Wi3rcpXOSPNUpRzdo9lmSH5hJ_9QiiCGWkWlygi2YQB7ttAR9-zs_7n3z3HOMavdnpInBd2eUG6k42XehA6vhO607tuUy2tBCcBxVANgA8TIAjuO_zuoYjB3IL_8AYGdkdtT2dkHYGstH-G6XJtiobgdvjZ8yk5IYbEYoooGhNquqRCirTd0ysTEg3yzIxdfB2NJ9Y4Md0Zj1GJdwCs3WDRgBETqc2VRTsf94EFq_SSX9pMn3qdBLzYS4GdE6AdwzgFZHcgRMsmz8JG1zdnWePNSUwiHZiO2jnPr30BP8CP7wPlDppZDFk52ydB5DAMt4L88Pae4m2431ApStGefN5ATUJdwedr6eyBTygcZWsOoP6I82DsEpx6HnyUfpZR7exzGe-J-IfWpussb91YWFZhXK0L4iH5EpmDxpP-w6rc0wGtVPadLEjcGSRF3FKWMWC5DHoUgs6hrX6ZHDBWphThzpgxgf77SgfjB1woWF-i_O-kVtVuKJt38REQsGK8Mex4i5Lqf9mHweSgAp0HhHXXMhLgmgjANkWruekqnx49-rEQ2tsDbH5NinW1OyBDLDNHcdu5hqZl8N_lw4s-NxHmmIiejRMQuD7TPpnmqG_4eaEti-ntbpjAJpkBLxxSnKr1DSzTJqrsIjmzPYu7uGdIcbV-BWIuX9AZgF5t_vZp8KED7XtkWJtHVFBCZqWlRjSWR6gERS0KjdXBdzqTQeBaaf3SDGN8l1Bsh2yKU_LoTamAQdM17VkCiBcImiwxxd5uQSqDNMoQYfSSdawfLupOs7X5Va6BV_AB6nW884Et77hpUSCpYA1ksoNu-FftUeY9EnUpjwFpGcSgg43e5rnfJYpdF-9mk5bkedx-MmL3tabeSWZNGXc8gbbREq2Vi1oZYx7QtCNQlA88CnLzaxHzXXOf-Mg-LEuA2vBFj8W0bpT1VINvfZ0ia14IGWF5f02znW6TGOk6UhY4XLpR5NbnK0eaBRH-M23b-kW_3qoDJdKGI-_T862mMduau3RAaoIWEsd2yWqqGp4j6IjOXNaqV5bXhBt2VuPvMpQJjqVo8ywKKTZ9dWjWksTriSS7mY1VmPIq5SW64QJq8x_cTUXJRgW7wTZ-pz9TmsJTbKhYqAIXqI3TSVkLS-wrlzUUe6T-cMHKKTKy9YCZNKpCGphoYMGPnv3y99T5f_QA88AJTi3m4twW6xQcEzOG0cziJGxF9iBWzREbcj-GWiZFejNxaDY1tbvLEyf60RoRzOVthajkzxhrb3Wg9PZdlrq0wr79ftV8RMlBvrI0tGxFjmVVqZ6JT8-2415o9guY0NE_z7G7wfVIWn-dKGfTsZTbosoWnkig1gpS19xGwood8h5xzJKTNJC4DDXV9bXey6q8LA-DJVviK8swAx6cSV3dfFSXt9j8s3QwpjQKMfqfwD0vPQajTfQg3N6TcJYzqEPz_qcK2JsEyTqCBp69wFUTbBaLsCH1Qz4hjMQaRSpIOADz9N-Hz2Z_hoCNWgLT43Rgz07sqqHC4SeN_uNGXNHn37wA6Or7PH0Cuvk8zv8RlS_3M8TtOGnEWA7qnfhoIGJ6pXZL0DEbAQfUGAYQyoSFjmAGgPDT3V1S2pN6Xrigmj2SCuNAg_d0i2ZtxDwU986cZ4Cv9JlY6wCUrgmpDizlfJiBiFpDW6kSTVzfDMjvOJsz83UDWVbX3xJLgUerL1ztNNyTyNM8CMr6PCr0Sfrvs1Wrj8nGQqHbxHQ_5z6mZIrdWSp319CEUwQPEwkvUhLjwJlCeWWScCK9NdL3uLAc0AToXedO08kYqyvjUG93Fhy3rpFTxBvc9yXDwxrXRPPaQYQJT7a_lrw3gHSK1262gxSlSravzY8elfk-4RJ6SC1uZJyjfw3KIf621SCCqDS8aPtMG2PZ_SKbfahBlqAIzWiR8_OP0coKAI_Xz8xiY8nsTwDEI6yHNWwsX_cZrsLX3isjUoHrz-ygPD03Dw2a-TczBBNon0J2L4bsncS2MnV8c2Is85dmGsJc8yEWrIb-8JvkGoRHTlMqZcCV2dPFyjIshVQp8BOsZzUHm2dlhb0Gfip5n408RWafPAF9Xy4k4OZM6zcfp_VbFPjukPjTBYBIsxeX5gGzptQYhChkmgEerhH4BuJdzZg-I9QaiNiQGAshs96YLc1CvgPSYi0G4KoVTCv6i8qHs3lfKgBtbKggqO4f7msAQ16ikbwrIeh_pzzNBnhxadamE8vZLRbp_V4tcjMzlHyZcfQ833x_iODvuvrA8SMDM7nOdYWPGQ9t5_ob1JhDvitxpmeMtkUtvSdygvl1XsIV9ath1WZnMpf5SADLmiH2ypreKOlIXmZ0Uzd5LcN9Dl_H1akVVawm0iXimcoqtnC4aQ-v3LuGX8zBkiQggVuAt7zI1MbcBSmJY4IEpW4vn5jDip2BkijmsuxgcIM6WrIquC6vwm4IYUcxhVBpqCGj1gGe87j3d7sT_nvxo6Y0kJjXnmdhWe8D1fGreLUJY6kHiEmIVlQ4M0_gDbtGR_2_3jUBy2ZfnrzRWcMqZY1_bebdInQSqYFrAabDTJa9uxf3pjPvEEwHDXUaYxBbUWMq_cIKwYhrfGYIdwgzqSykzmbKeYd_UP2NlOHkC3ZqruHRIib9Y30ipZsOap0yFRrbV1CbDJjdySSk0wlrL-nEuf8-4SEABm2GdAVH3yvNJXEfb2XmYF689C_wbz5aZ52tVXMe0xxxTH6ozF2epMv44t5dEBNVcuUQvwXpL6hzAeMvI06w7hWvf3nvuy0GoSj8DruTIlKgEWXFMJZqAmP3X0n3PeI05Aggf2yU00qC-Nn4pfrZv5wk9b1bg-ZuCn8JMxj3FGVdpU3OsLwmjqCUdC8kBxqFhwicnHAkiYhGMq8ISdsIf_Cy0vQaerwmdr8qaYgzIjOIrTspI_tNP2Ue4kd3H-5X936FMgeTK3pDpfiNr571G4LLr-M06zPt4a5U60ovyUzhMPU41eVncb3MSA47yOxhxOso2y98-_tYC5WpC6ra-enMmuUiy4UZL9VRS6TUMxxLsEY79gKsHQbDXTj2Ogddz8uosk7Z4briVINlrzYKCEon_HGVKLIY08-Ik8C4TnlTvxEMnPoNnY70HnKiYnBtoxQ7wlI64l-k-g0V0hfa-f1G0kHnZymZ0hk0fflKjkqSQ8AKQS_3sDGpjQeJxNzAFjtiIlwAJYDA_143oDoi_RoR2-Y0_XCc91e6ezt7gWHCz6RPOllXIqCXTn86kXT73lAtUsP_QJmQUCrOM06rFJn3nVEiYAsRy46xZqxbYe7kqh3CAuASwdAwYbuc4BeYItw2gy-yUKNkVyLogbXIUvXolpvq0c-36PbmCX5kR1zDFtpVKyMdkGFWX2j4CSFA9TIYLZV6gKQ0y59pKZRPDSZiXnfVYn3jUrVrpJNJ2eqlMmIKF3SeAx7f39oxcdMkPTYW_gbQfHoCV7cUsHvYYeIH7H6k74NRxKeBaQoH7-Es9jeVuHtttgBiefLgOcMz4jKvzRd5SF4GA_kTr1v4u-cSm_Spe3saC5zvg7RxCAAZEtVWnOjkesvAlalNNvUEaqSL-tAT3g_3mAsy0xQgWbBXoniNAGH39WcnrR22lnCMLmZP2sBVH2aDIl0GDtLiZalnDugNlf0qQKpOjfDNTeBNb5tgVPbU2IlGgoTwuUynLznLVJ9acV8bvvOWxa22XF4dWAqGbvebqTdxAeDl-tqp1D3USD40scUchnp6D6XMYCg8AZ2nCw0TjXykQJ4Ktx1Z2227Dz9xcPI248SiDDkRbG25rw98yUMpkxpA_5MkecgKCKehQ8QA-DT8UcziND53sySi4LjSXVwY3Fz5kjVhmgdcVc1lARjCFKjEJ3snRMF0gNsH4PATym0iYVwGOlTJixKJhRF0rawyGwS4NT-ubrqW_CowjkZFvWvsbMmRKZgdEtCmYlwJ8WLtuOvD7aZ_llCgSFVE_lAcpHFlYcV-J9tPraVIe73MxCEkllQgYTP7LiBOMuRi1Lj1V6prWVNhNcgqExYX4ltWsfGDhEagZajiAsJv5aGyY35kKzMBO25EEKIer8eRXgkIoyv9yEz2c3ionEus29Fdkc8OzFfHBGyiTI-P5GeUV90TrmC1YHk5hX4UqguQFWYHBjPrX8lidjkJSKsqQtNCGjG9_sq6e4qz7Tc6uIIdxZWipHIsMt-JaFn09BWg2ksZ1Gfoh0_kWGzNCPekAoWwrx9IXsYC1OA2lemDLtEa-peK3z9l4gqy4aNacgtFkdPx4vu4ipF_IIKNm8aU14YMVTM9hPaU5GZy627TCMXkh5bL04mojWXHq5_Qc1e0YOxSk42At381gd74d_-XJfqWdss5ER6eoKWF4pbWkjKntM_qkg6pIfWAW1rBMBM-a0d5tB4ca6i4kzLYzEs8RN8-axwDwbLxzMqglXPz0zJHR4edRijAGbOiO7ykHT3E08ntSE6FIgegRbGwYRD_abwBGpt5xaPpalWYs_aqC6cpKPLR0Vj6ae-69Bvg9VgrHhroYCQk1l0yVBlW6H-_9UvdaEXzTYiJ_XZ8kCSulaGDBjcSqqwG3On2j8LKgiisW1AUzXX_LrznyLHZ0XoCHYrRsBVXoZO03UJlPn_YN_RsckEw9g_2lAEBa7Tx7qw18eUiRTIJ0jeFHaaaaotifx4D28hHXy59PwB6BCxQQS2ID1Cq8WjnKzkKx_Q_QGLnILT66idaRC46Ol1Mh4nHH94tyGBtMHgEVjzsKdWIVLbkS-n_dp3iwtcuPhl5WTtvdIKayLC6Fondb0IFYTibZL4d02fuJmVKjRqZIoEr61db2UkhG-1w1DR6c5N5Am0q60GpCckgHGvAgHtaR2srgshqG13CB6QG-ztNN9WllalRUsYX4FFV8C5O4NeYLfI9nabzNGs4ZC98BjJrZ8WUGiicpOTShDThDhYYEqWy34tG196-Derba2ikauSWdwuT2vPx2t91Hq7GZVw4fr3qRtfyC08JY7E_U_SwZuy2lRwGNr-x5siz4hIl0gz7lA5i2CQLIRTDvmMBKqsuogfTHKUvu9suJKUBVoXR1A2IP1ieqCiRDKUdHQ6JY3oy0ognGAqD4QCanUbij9zMssY5H5mYHNgflMDuItc8r5KYQ1lH8xV99c96wP-HP38rCwuvsp7aH1BR5m-xFCFLX-oBRkQkNuGwkNYivf-Gvqrq3d9XQntoXF0lJM4qry3XtEmGWBU9W5w87rhG5KVtngz1w0TZ6go2_Qtza0rYUJIvv2Fw7hCUYl2tvsbIA_KdqDwHNLm_x7ZmjlMUngUQbIiGWgI-Xvx52QXlxDnPAyLSWRn7a1zfimPjH5-RvhTy_CLKs8RuV2qJPeUo-91J15ktyI1EAnRXjbSUy4Zdj_rAfqQ9puiCk00x093T5e_CGxK3wT7-GZNWkim1LSezqLGRVBN762sOtqfiaWVUtjxUimPeKwRSaM4UZTbKeEgS9hHd2fWW8WCseJE-PT4sgZzCvUYz0xMZS22ufM-WjiQ-BNBmaEq5d3ISTw53ZSD1Ild0RaWE7ICQT_Kw8KnJa5EbOC8DThIZLA2o-UwesaGGkXbja2t0yzwTQYRFIsQsQwmb2RylwbbBZKPp1tRmKBmHQG3iloSPF0WKqPxBpPCkekVgk4CrvUv8ZrerKSSqer4purWGXJLxqk-MYWlZ0Ym9ZqcfFat3B2tgZzTfkqavpWmxvO6hGQkjmYZD_cnHHWld6Vj3Ai425lL437lsPzn8FCcWGKrEUI_n8JcrIoAH1DzMKf3XcSzcydf6SleMRhf0rHNUC10SxjLbN-geM7qGtusDTC5Gp3bAhO_-71giFHA9OB41bVISAKXGgFra5T3BIFePhHu9cEsfV9NBliMesawfMSlQtQKV0RxzbaYnVi7Ah_Ox7DIgyVVWRY-KVlurBq64N8UiCPNwZ7NeW6xPBdqMcFYrvHHg487BHZ2mtOAVObkF_P68ichFrw7PYP0tA6gAnTD5pJA66r6z4JBelu37Hp1parBHPk21O0y99_7LIEXrt2G4NFhoVKaPH3rqwxZHvuDviobQ7NH_TnnPBeN4OH3rbj3zMrYpZugaS0Kqom5A5FDPcindCLZtxAfhRZyx6eY_NxJjb_Anh3py-FpryGdE-46bvjYr8WT_iFDtDUhmg6chu9pkKaOlkB7uBlFDM_FLhw9Af6gDKFpXsUoG-zrJyZBjMINF6yPi_5ZqZ4DpOYUG_WF-uIFupx9_24Xbz7hcpehujNYubZfIKNvmzrU6TdbYh24f9HRZ1AuouUAdQmHMSMWp5vUGADP49e053ztKj--tRHSbGIbWjL114itswz-vBCRpY8WoH0C8jAJKro3mnMRUEty2oCT2S5oJXbQqm5CKl38KnpzPeE7jrhu6pPRau6WNppQeT7C0vWdUqjECQKHh3jtw-EIAXAJ60cVjEJM7Gk1-YPTYx30c6gP-1jkynlq6xVip60RtktU2lxskF1qlAkGTjszWnpZO1eE0sMr3mq7WG1adAxKrJjwNOxRCT2lYjFozsqzzgXAJkI2DTwcxXwlfVSDAocrAuk0cQVL06eksbVuQoFlPQl7jt8hN3BZPD0O11B2AezCNTgBdksgiWLWNyCtbBFIzt-C_EiC6T5r5YnF_-QAQJ1WuqWTCcoY1GsiHWW9Tle04KArGlGLT-wu9zzJPubfqiWofpY6N-7S0oGhCbtbD_Ye3uWsZ9V54fPxohMxx0vvI-5sfD0cp5Qn6kkoKOHJ3Aczp7wDN37v37jToO5iZ2iHqrXLjc1ecWZx0sOs1OJAZ8Z3pMksJjgFbunLk-_HiKBkt9jM_DzpiCrECrvAg0r0XFYmoSuD4wf-9sz_8F4A0WzfuXuD9alBTZ5PRu8Gavovckf1Bk4tgZW0xkJi-CK95Um5gDLnG5xW_5Yp_vspExbALnqPFlcFt32OwJ2AsVAVnUjQ57GAOOvFvVgg0Kl2kIUPQwWK4Yvs5Xp9PKbhKncNIEPY13RNoaqUBWdNOsy7FmwzH71Z4xZNNvbmJZVM-6T-hmAAtNLXP1Fb3sxH3tY244onor1tNr7yVtdubelIOCUKoL4QlsMDJlNy7rG1UEkUL2IymumgVGbf__JtNSf-tU_73iZZNAsgyY3DxdDkMoArC2nAXHgu49YKQD7Q8D1OJBFb0p6kwcIbN4_mTHkSDRvm95vN33q5avGgZ-yqEFW4dlnykv7XVyPYDoAiGmBfzpuRvpqTUme_1QGEN31kYn2pm0Qa4UdWrxvfYreI75aRQnkVPsDs0ZMi0iyd7qY90F1AQ_PdwPil58LnthRNq-D6VsQ5berkkFVJcDb-cpoEcKxtHjKYg6sJLTftNh1vpKedrHNx8DYtieDrjSuzYv31utF1CM_tR_pGHs9BTc0fD1Den1qqdVtKbOX2kY0w7ncimZO6Fr2qj7k1-V5v1kvBSxvFpt-O6c7jWPQZDEib8sguPAmDWM90HGfKJtdGOg_P2Q2HJ2epLSNrTvKhtdVP-oLcmRLobkA8UlBHnM1Bdkccnk6c6S55loWq-TVE6-8rpKKp2PhcQHJlkHpgfVaEhWKU1P_X085n8z7GXf1HeoV5aUyYkvB4K6sugwXqYmMg-zKOZCXF71ewnm1pBA4M7joYW9yWbe6Yp_vr_JD6CnRzdlGcEJfrI9v6cjo-HkS5MyGX2CM52W8GvMNeR4Ji9Mpqv4FEMmuMtktou9VnPSRgawcBCw3nxYgcA3LYH5UewXExY8jUrJ5GotDI0SwpraNXoZI7P039zml5sxQyiZ4frDViFI1rmyX8AhmE4bncr3ZDIVMh-9V6Sn0eGNxZxWGpzC-1a3vIBvUIl_uQfdmB8wWJ4TXQqeuIa4BHtOSfH2z5rJBAKCFtKUVQEK7l_VrCYD6FByFDohFVadS7rJXCZLT9ahEa-aNg9rvXBkBD9ZcpJzjShwmy8JTPsUaFTeRFTMtNS6myXe9P8m60VtcrC4riUl2UXSNyA-vz8Jv46RhRGieM--WQZW4V_-twV3KqxsaIwclSBk55ai-LxkND4cBAEydycmG4eU95p2cQBhiNFtMBAXDT5v9MrstDJLOoOzT0jTssTKaKTKZS4trtIexLOH0pzndhBPL2vkV0m9sw_YD2sv0qF0OQmKXDuTqv7tK9wzev37yv8PS_pmAzRw0_FbuVVnkA8EjjV8kPtyVdGVBoQ1_87Da0Q1GLHvdaO5wJWsIKiFCFkxM8Rg3mSsjhby9btFtXvx8a8qGHWpQNFO7xo1TI1ztENuBOAvVuDUNn0oVqTHecs91nmAqjZo62hhwrYCctJIpgXv8PgjHh3lKnmBo9ssgXqSW54z2s3dVD__3o32retol9EYfiZQpgvI4KLn5EF3AWGeWZ_HGP7U5OQZFCHVxplm2zPvEDSVfHQbaUbvoStoTpW_A1LhJkLLU-jRcRoEnDxhzcRGEdJL5rhDHnuEcHyTSqk_Mqy8ZggLax_n-7vDftWEmdbS9e-bm2MCg1yAPViF6R5rW-NmtPeojxbcnkIMHGzjk1ax5y-giub_MWTZ3y_OkrfWzE5agf5qr2CK7LXmMBvO5F5R-MjqNtHohEIO_HoKQrmtXBkuTRej11x__EJywjLgu9In66JV4RPJjHdlnR9KLkmualpGfWyUEeERgOLelyy7RaISeG66iOz-Ca7pqQoRo89B63RG2nC28WusE7YBCGGp74geuIFkMjnDBt99bfULtnKNZpz2HP7YOO-fRLI5sILuBDpvj3enEzckMo7fPJARDD039-4lLqHUZF5V2WGM88akeECamzqFFAEqql4QJHNhfkXAZ2wnYvdnxXDR6o19zx7pv57vb7qgLvwIDXYeMUfp68-t7RRSEvEkAwsWkeOQmvS5p4yVKKIRy9ZKahy05kYqhfrb5Ry3X91Wdw9AO_qVSmI6G-8VLXEgz8aCccjoI6XZEPHrCy4TeuvVWX-UA-yUK2e222BQU898gxX-aNvchmPtrmcgtGDyPpMo0ukq2YQPSr4KxfKFd0JVRz7BnbbubPDKtzWokou9WlanBs2kPkm5rTFcmm4SSGxX121frsnS0YWHJ8rsvEpzD7Pum2S7kYDDEGXIA2QVKwLZGI8nal48ImGGBfW7vklmA9NSIEJJ4WWGIP9KgHd8DGqsGgtsmY_H80uUSUc5Lv-Y-xsbRS8mKDOiAbaUxELHpvySwYXrVL88w6ks0qwMYPdmusUNlNdgVCpViuit_ahKbFVt26lfuwpIcCagl7zNX0h4DAB72obAQJf93gP3HeivNWuz8vearSL5PBPwg7MUWzrnTIC92VPktM3lUsGQmL-C6N3wHIhBuOw4kUc4dK_qOf4AKnssrDjNCVUGfRbUlfKu6dEmSsGikC52el1sYvjw8r9sOxLbA1DniQuK8yHM_sNWo93y4ko_SMRpMdKsuVGMTNw75r_XmWi_QXSW7x9-Ehp00o0v-J0_7XT8q3vGFXlMeS6m-s-meuSWwh3wDFCSUSOgoK1jXDjvgRqVGU6CuW8T6WTFSjtp9cBRP9PMlKZPy_SzOyISqokGFLiFmSocowhcSlS9Q4dNCr1PCHqgEAQx1x2WXrTfT8NvNDiD5Hgbl1cWmTc9VwsYLaCdleKOp2e7Iimwr1jZkMREyqcR0HNqcBsLOw_IoH31vO_xcMw2ruHTzcW-cPBNxKKIJwZo4EIfejRSY2FFq8r4E27Z0y-x121QtKAffH9WRNttZBUNi__p9yV2Q8elzrHvjhgRAjzzaLPaK75HtWHzc_KrNmt5qw4hNr9pyt-QLxE9JScwoCqGx95KwBrH1TJnkekF-FRma3DVqUPhTsOxAZPPVZM2JpA8RJqJkq62A27PNeY2ewdxcEQS9EUigufvYZr0waTS6W_4ZXOwU4G6nkL3hQM6h03wOQLD0IGYEmCBW4x1TrgGM8qSOnhdvHt104z0owDL9-yMZx8mUQ5vLs_83uD7QJUT8qhUY10ojLSihl3UcyRwPT9pKIrRn0W-yAC5BJ2kg5CfG7fGIQNLMh8lvvg7GeXEPRDAEkTrFYgWsOT8yuGj_HxR",
-  "salt": "Zag5fmKBXG2i6tns8JG12Q==",
-  "text": "Tara is a prehistoric hill site in County Meath, the land the Irish call Contae na Mí. The Irish once called Ireland itself Ériu. The hill's own name marks a great and lasting kingship. Many call this office the high-kingship of Ireland. Tara holds the seat of the ard rí na hÉrenn. The hill sits between the towns of Navan and Dunshaughlin. It is not a grand high rise. Its plain shape hides a long and deep past. The archaeology of the hill is hard to read. It does not stop at the monuments you can see. Digging and geophysical surveys keep finding more human life. The ground holds more than the eye meets. The main monuments form a clear set. There is a Neolithic passage tomb from the New Stone Age. A long linear earthwork runs across the hill. A hill-fort stands on the high ground. A standing stone rises on the ritual mound. Legend ties this stone to Lia Fáil, the crowning stone that cried out under a true king. That story may be false. The stone may have moved to Tailtiu long ago. Many mounds of unmarked age dot the hill. Their dates stay unclear. In the 1950s workers dug into three places. They opened the Mound of the Hostages, a passage tomb. They dug deep at the Rath of the Synods. They cleared the ramparts of Ráith na Ríg, the royal ring. A second dig there in 1997 found signs of Iron Age metalwork. The old Irish name of the hill is Temair. It comes from an older Celtic word. Scholars read that word as a height with a view. Some call it the gates to the Otherworld. Another reading is a sacred place. Many writers take this last sense as the best. Tara became the seat of Ireland's high kings. The old tales give these kings a high place. Their rule spread over the whole island. Gods such as Lug, Medb, and Eithne enter these stories. Yet the hill was not their home. It was the seat of human kings. Those kings stood ready to guard the hill against the unseen. The old capital stayed alive in the books. The best loved tale is the story of Saint Patrick. He lit the paschal fire on Slane in the plain of Brega. The old story brings King Loegaire mac Néill face to face with him. Loegaire ruled as king from Tara. His druids stood close at hand. The earliest forms of this tale date to the seventh century. The writers Tírechán and Muirchú set it down in that age. Legend tells that a curse fell on the hill. A holy man spoke against its king. That king was Diarmait mac Cerbaill, dead in the year 565. The curse is said to have left the hill unused. He was the last king to hold the older wild rite. So the great hill fell silent after a long public life.",
-  "okr": {
-    "objective": "Describe Tara, the royal hill of Ireland, its archaeology, and its legends.",
-    "key_results": [
-      "Tara lies between Navan and Dunshaughlin in County Meath.",
-      "Visible monuments include a Neolithic tomb, an earthwork, a hill-fort, and the Lia Fáil.",
-      "Tara held the seat of the high kings of Ireland, the ard rí na hÉrenn.",
-      "Legend ties Saint Patrick and King Loegaire mac Néill to the hill.",
-      "A curse on Diarmait mac Cerbaill ended Tara's royal use."
-    ],
-    "evidence": "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008; Koch 2006, s.v. \"Teamhair (Tara)\"."
+ "name": "Tara",
+ "attributes": [
+  {
+   "entity": "Tara",
+   "attribute": "an old hill site in County Meath"
+  },
+  {
+   "entity": "Tara",
+   "attribute": "the seat of the high king of Ireland"
+  },
+  {
+   "entity": "Tara",
+   "attribute": "the place of the king's wedding feast"
+  },
+  {
+   "entity": "Tara",
+   "attribute": "the hill is 507 feet high, six miles south-east of Navan"
+  },
+  {
+   "entity": "Tara",
+   "attribute": "the anglicized name comes from the genitive Teamhrach"
+  },
+  {
+   "entity": "Tara",
+   "attribute": "the Lebor Gabála derives the name from téa múr, Téa's wall"
+  },
+  {
+   "entity": "Tara",
+   "attribute": "the Milesians named Temair after Éremón's queen Téa"
+  },
+  {
+   "entity": "Tara",
+   "attribute": "sacred to Medb as goddess or to her double Medb Lethderg"
+  },
+  {
+   "entity": "Tara",
+   "attribute": "each kingship held the ritual banquet feis temrach at Samain time"
+  },
+  {
+   "entity": "Tara",
+   "attribute": "Niall Noigiallach seized Tara from the Leinstermen in the fifth century"
+  },
+  {
+   "entity": "Tara",
+   "attribute": "Diarmait mac Cerbaill was the last king to hold the feast of Tara"
+  },
+  {
+   "entity": "Tara",
+   "attribute": "the tale of St Rúadán's curse was invented by later ecclesiastical writers"
+  },
+  {
+   "entity": "Tara",
+   "attribute": "one of the largest medieval fairs ran triennially at Samain on the hill"
+  },
+  {
+   "entity": "Tara",
+   "attribute": "the Banqueting Hall earthwork is 750 by 90 feet and reads as a chariot entrance"
+  },
+  {
+   "entity": "Tara",
+   "attribute": "the Fort of the Kings is an oval hill-fort of 950 by 800 feet"
+  },
+  {
+   "entity": "Tara",
+   "attribute": "British Israelites mutilated the Fort of the Synods hunting the Ark"
+  },
+  {
+   "entity": "Tara",
+   "attribute": "the Lia Fáil pillar was raised for the dead of the 1798 revolution"
+  },
+  {
+   "entity": "Tara",
+   "attribute": "the stone was moved from the Mound of the Hostages to Cormac's House"
+  },
+  {
+   "entity": "Tara",
+   "attribute": "Rath Maeve is a hill-fort of 750 feet in diameter south of the site"
   }
+ ],
+ "entities": [
+  {
+   "entity": "Tara",
+   "type": "Place"
+  },
+  {
+   "entity": "County Meath",
+   "type": "Place"
+  },
+  {
+   "entity": "Tuatha De Danan",
+   "type": "Group"
+  },
+  {
+   "entity": "Hill of Tara",
+   "type": "Place"
+  },
+  {
+   "entity": "Navan",
+   "type": "Place"
+  },
+  {
+   "entity": "Dunshaughlin",
+   "type": "Place"
+  },
+  {
+   "entity": "Mound of the Hostages",
+   "type": "Place"
+  },
+  {
+   "entity": "Rath of the Synods",
+   "type": "Place"
+  },
+  {
+   "entity": "Ráith na Ríg",
+   "type": "Place"
+  },
+  {
+   "entity": "Lia Fáil",
+   "type": "Artifact"
+  },
+  {
+   "entity": "Tailtiu",
+   "type": "Place"
+  },
+  {
+   "entity": "Saint Patrick",
+   "type": "Person"
+  },
+  {
+   "entity": "Loegaire mac Néill",
+   "type": "Person"
+  },
+  {
+   "entity": "Diarmait mac Cerbaill",
+   "type": "Person"
+  },
+  {
+   "entity": "Téa",
+   "type": "Person"
+  },
+  {
+   "entity": "Druim Cain",
+   "type": "Place"
+  },
+  {
+   "entity": "Medb Lethderg",
+   "type": "Person"
+  },
+  {
+   "entity": "Niall Noigiallach",
+   "type": "Person"
+  },
+  {
+   "entity": "Sláinge",
+   "type": "Person"
+  },
+  {
+   "entity": "Rúadán",
+   "type": "Person"
+  },
+  {
+   "entity": "Óllam Fódla",
+   "type": "Person"
+  },
+  {
+   "entity": "Conaire Mór",
+   "type": "Person"
+  },
+  {
+   "entity": "Aillén mac Midgna",
+   "type": "Person"
+  },
+  {
+   "entity": "Lóegaire mac Néill",
+   "type": "Person"
+  },
+  {
+   "entity": "Lia Fáil",
+   "type": "Concept"
+  },
+  {
+   "entity": "Banqueting Hall",
+   "type": "Place"
+  },
+  {
+   "entity": "Cormac's House",
+   "type": "Place"
+  },
+  {
+   "entity": "Fort of the Kings",
+   "type": "Place"
+  },
+  {
+   "entity": "Fort of the Synods",
+   "type": "Place"
+  },
+  {
+   "entity": "Ráth Gráinne",
+   "type": "Place"
+  },
+  {
+   "entity": "Ráth Lóegaire",
+   "type": "Place"
+  },
+  {
+   "entity": "Rath Maeve",
+   "type": "Place"
+  },
+  {
+   "entity": "Royal Seat",
+   "type": "Place"
+  },
+  {
+   "entity": "Sloping Trenches",
+   "type": "Place"
+  },
+  {
+   "entity": "George Petrie",
+   "type": "Person"
+  }
+ ],
+ "sources": [
+  "Gwynn, Edward. The Metrical Dindshenchas. Part I. Royal Irish Academy, Todd Lecture Series. Dublin: Hodges, Figgis, and Co., Ltd., 1906–1924.",
+  "Ó Ríordáin, Seán. Tara: The Monuments on the Hill. Dundalk: Dundalgan Press, 1992.",
+  "Raftery, Brian. Pagan Celtic Ireland: The Enigma of the Irish Iron Age. London: Thames and Hudson, 1994.",
+  "Rees, Alwyn, and Brinley Rees. Celtic Heritage: Ancient Tradition in Ireland and Wales. London: Thames and Hudson, 1998.",
+  "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.",
+  "Koch 2006, s.v. \"Teamhair (Tara)\"",
+  "MacKillop 2008, s.v. 'Tara'"
+ ],
+ "cyphertext": "-RHmdsj-RlYQDuhPcNsFcH1rXMk1-evD1w4SMF31M3WIjFz4MtT335SGYDT-OfsBeV7gQ9hG3rj-1NvSxSt_FXbmyjMaQi3zMsNUtYUMXAPAkG-GrHsNwamIgWe2Mn-798UDvNNrjZI08ALklzwHpdHylgjBkQ-ExlQBy3OR1T4IMaSssw0dQJNbOhWy6CptMDeBvDiQ14Ww3q8OGjyfbD0YiFE9-yTiw4mVWQxh3At6eciDF0Y5nPwct8B5jb2fuWWmmI3ZXVeb5r22sqR5MYUFpzjeGkQlLpD0iuAKMSSZNQHzdxgucQHE2raPYmdvIIRZiZRpW1x6PbosWsqPHPBnIdRJ9YiafE-e_NpTySNOk7A8ktviVQOjQexKIJ21O9aftmv-N23rf_xi3m149UgsXLZaAA1AE5mXG2r5f3r9v9KeyDAn-_Y0KVgD_lGnn1AWbIyhQtZYO2u6EJFIziJWChEmgBj4tXp0ShycSpX27vCxjtv6LO1cVgwFQej6VnqtDBcTHt4W309IHP3LoPkPgelfSxUIRFAM1arZWKsrlRJ-zUVdZ24aLxTq8juPTdi2WD0MSTthgOoI2z2R8p73WQdCe5YENWLWFq-jnLAbDDbSCPdevmFWuK8It1bZaD70sbxNbYCCeBAA4SD1eXJbIU4AXEMp3JamC3PbyHxaZ-HIIugUIp3RadvfpiQX4eAmo1MOfzI7k2Z02y0CzLWj5_ElfS3aDMCeflSZxtVlb13WxApWknYXd2y2KmlA1th3eIDoLZ5f7vNU0diLEvsLzi7AgpOJ28WVxzfRMwjsoYTAJ63fCt6K9PopVtNpaFVQaN3iDyiy-qeKleSRo2vaw_zMc1EKWdz3r1EbzzKRmB85S278OC9LlZ__Y7_nleXdh6-iZJN1YJEV0sXPGpf9mCm4VDPB6ZTQHJpf4qf84kXH25ugEjwgAN90dBaGNLYPteWWw0z4immZYx_YtrdV3_4s5qa-L4-nalRPZRVOIfeWT9IMwhYIkIRWBfRJ5NEu6OpVcOdf38mF-y52qgBHVl3rM_YVduZfaePnzWN-NOOlSDUuViyf6hGrRF5RS70jASVeR2bTN0YWJpQWmNYS4pNYG6AjkZj1oI4V4AfFpH0N3F8NellU6aIPOS9EtUC42AOBGbZPsRR1sbOo6Htyt9HyJ46SaZdzR9UgaB-n4ccmHe6mDaHvG8sgIeETtKRDcrvna0XZWlYdOm4WEXSQQobbhkkfFadXFbmenTi6dCggtqghXq5Q1MqCKdKCjkEUDWdYD8I-4nL3GP-4GgPWHIO5jR39z36rtghOr6mpaFzugM7Q1DJIyGrQQs6OsYawz1lwqNbADb3sF76kH5FN21VPHw1yOwX7cVq0S57cuxT6x7nCDz825yASP_h2sTElUGRWo26v7LW66U-pCKrY37AENijzCMEWge31AzjURBXfNWnXFu7NUN_h58EGxrIjW1y72F9AYOKoWrFv7YI7bgLiWHlZ9QOrDfv-0tuWq4CqoG5Fy7zvk66Wm6cKmFhz9RWz4mw8Xq3DTexijBLoxXonTteBwDYt2Hd-T3LEpZ1qlNFq5xJxFKGaXU8o9Zn-CzFKXMcrhiArVlwRjWzf53k0Qg1UoK4lN8YsoxXkkHYWF_sZIcIG8WrFtKdzYjTu9bXBxhxe2A72W9e2NWRQXmVkZJjvi_6CdvImIwlM8jJhPcJmNXI0t7VH58ITUttx2P8lmnVWHSB90LUqhB8O83HtaEzLLax_iS9SJ83RGx5LT3vieWk5idcsmErN3iFDccxbUjMnAzAhSn5LlCSlUhbwTZMbIS6EnKlwFBT0ancRVZRSpgxxdQquUcpbjmF3QytO6KWpqcDMsPLPrwdinwgYvLJ2rxnF8YJkqMydB13RAJ51G3zv5K4j__8vo9xgCLhOdkd8LyZRj4TmYn3974uqvsZ2TWiEgcU4M4Udl0rXnh8jm96NAJ7vvCK1hUhy3EAoTrTgBnzxNJS3YKUYhEnpXsIXb2b-Wi3rcpXOSPNUpRzdo9lmSH5hJ_9QiiCGWkWlygi2YQB7ttAR9-zs_7n3z3HOMavdnpInBd2eUG6k42XehA6vhO607tuUy2tBCcBxVANgA8TIAjuO_zuoYjB3IL_8AYGdkdtT2dkHYGstH-G6XJtiobgdvjZ8yk5IYbEYoooGhNquqRCirTd0ysTEg3yzIxdfB2NJ9Y4Md0Zj1GJdwCs3WDRgBETqc2VRTsf94EFq_SSX9pMn3qdBLzYS4GdE6AdwzgFZHcgRMsmz8JG1zdnWePNSUwiHZiO2jnPr30BP8CP7wPlDppZDFk52ydB5DAMt4L88Pae4m2431ApStGefN5ATUJdwedr6eyBTygcZWsOoP6I82DsEpx6HnyUfpZR7exzGe-J-IfWpussb91YWFZhXK0L4iH5EpmDxpP-w6rc0wGtVPadLEjcGSRF3FKWMWC5DHoUgs6hrX6ZHDBWphThzpgxgf77SgfjB1woWF-i_O-kVtVuKJt38REQsGK8Mex4i5Lqf9mHweSgAp0HhHXXMhLgmgjANkWruekqnx49-rEQ2tsDbH5NinW1OyBDLDNHcdu5hqZl8N_lw4s-NxHmmIiejRMQuD7TPpnmqG_4eaEti-ntbpjAJpkBLxxSnKr1DSzTJqrsIjmzPYu7uGdIcbV-BWIuX9AZgF5t_vZp8KED7XtkWJtHVFBCZqWlRjSWR6gERS0KjdXBdzqTQeBaaf3SDGN8l1Bsh2yKU_LoTamAQdM17VkCiBcImiwxxd5uQSqDNMoQYfSSdawfLupOs7X5Va6BV_AB6nW884Et77hpUSCpYA1ksoNu-FftUeY9EnUpjwFpGcSgg43e5rnfJYpdF-9mk5bkedx-MmL3tabeSWZNGXc8gbbREq2Vi1oZYx7QtCNQlA88CnLzaxHzXXOf-Mg-LEuA2vBFj8W0bpT1VINvfZ0ia14IGWF5f02znW6TGOk6UhY4XLpR5NbnK0eaBRH-M23b-kW_3qoDJdKGI-_T862mMduau3RAaoIWEsd2yWqqGp4j6IjOXNaqV5bXhBt2VuPvMpQJjqVo8ywKKTZ9dWjWksTriSS7mY1VmPIq5SW64QJq8x_cTUXJRgW7wTZ-pz9TmsJTbKhYqAIXqI3TSVkLS-wrlzUUe6T-cMHKKTKy9YCZNKpCGphoYMGPnv3y99T5f_QA88AJTi3m4twW6xQcEzOG0cziJGxF9iBWzREbcj-GWiZFejNxaDY1tbvLEyf60RoRzOVthajkzxhrb3Wg9PZdlrq0wr79ftV8RMlBvrI0tGxFjmVVqZ6JT8-2415o9guY0NE_z7G7wfVIWn-dKGfTsZTbosoWnkig1gpS19xGwood8h5xzJKTNJC4DDXV9bXey6q8LA-DJVviK8swAx6cSV3dfFSXt9j8s3QwpjQKMfqfwD0vPQajTfQg3N6TcJYzqEPz_qcK2JsEyTqCBp69wFUTbBaLsCH1Qz4hjMQaRSpIOADz9N-Hz2Z_hoCNWgLT43Rgz07sqqHC4SeN_uNGXNHn37wA6Or7PH0Cuvk8zv8RlS_3M8TtOGnEWA7qnfhoIGJ6pXZL0DEbAQfUGAYQyoSFjmAGgPDT3V1S2pN6Xrigmj2SCuNAg_d0i2ZtxDwU986cZ4Cv9JlY6wCUrgmpDizlfJiBiFpDW6kSTVzfDMjvOJsz83UDWVbX3xJLgUerL1ztNNyTyNM8CMr6PCr0Sfrvs1Wrj8nGQqHbxHQ_5z6mZIrdWSp319CEUwQPEwkvUhLjwJlCeWWScCK9NdL3uLAc0AToXedO08kYqyvjUG93Fhy3rpFTxBvc9yXDwxrXRPPaQYQJT7a_lrw3gHSK1262gxSlSravzY8elfk-4RJ6SC1uZJyjfw3KIf621SCCqDS8aPtMG2PZ_SKbfahBlqAIzWiR8_OP0coKAI_Xz8xiY8nsTwDEI6yHNWwsX_cZrsLX3isjUoHrz-ygPD03Dw2a-TczBBNon0J2L4bsncS2MnV8c2Is85dmGsJc8yEWrIb-8JvkGoRHTlMqZcCV2dPFyjIshVQp8BOsZzUHm2dlhb0Gfip5n408RWafPAF9Xy4k4OZM6zcfp_VbFPjukPjTBYBIsxeX5gGzptQYhChkmgEerhH4BuJdzZg-I9QaiNiQGAshs96YLc1CvgPSYi0G4KoVTCv6i8qHs3lfKgBtbKggqO4f7msAQ16ikbwrIeh_pzzNBnhxadamE8vZLRbp_V4tcjMzlHyZcfQ833x_iODvuvrA8SMDM7nOdYWPGQ9t5_ob1JhDvitxpmeMtkUtvSdygvl1XsIV9ath1WZnMpf5SADLmiH2ypreKOlIXmZ0Uzd5LcN9Dl_H1akVVawm0iXimcoqtnC4aQ-v3LuGX8zBkiQggVuAt7zI1MbcBSmJY4IEpW4vn5jDip2BkijmsuxgcIM6WrIquC6vwm4IYUcxhVBpqCGj1gGe87j3d7sT_nvxo6Y0kJjXnmdhWe8D1fGreLUJY6kHiEmIVlQ4M0_gDbtGR_2_3jUBy2ZfnrzRWcMqZY1_bebdInQSqYFrAabDTJa9uxf3pjPvEEwHDXUaYxBbUWMq_cIKwYhrfGYIdwgzqSykzmbKeYd_UP2NlOHkC3ZqruHRIib9Y30ipZsOap0yFRrbV1CbDJjdySSk0wlrL-nEuf8-4SEABm2GdAVH3yvNJXEfb2XmYF689C_wbz5aZ52tVXMe0xxxTH6ozF2epMv44t5dEBNVcuUQvwXpL6hzAeMvI06w7hWvf3nvuy0GoSj8DruTIlKgEWXFMJZqAmP3X0n3PeI05Aggf2yU00qC-Nn4pfrZv5wk9b1bg-ZuCn8JMxj3FGVdpU3OsLwmjqCUdC8kBxqFhwicnHAkiYhGMq8ISdsIf_Cy0vQaerwmdr8qaYgzIjOIrTspI_tNP2Ue4kd3H-5X936FMgeTK3pDpfiNr571G4LLr-M06zPt4a5U60ovyUzhMPU41eVncb3MSA47yOxhxOso2y98-_tYC5WpC6ra-enMmuUiy4UZL9VRS6TUMxxLsEY79gKsHQbDXTj2Ogddz8uosk7Z4briVINlrzYKCEon_HGVKLIY08-Ik8C4TnlTvxEMnPoNnY70HnKiYnBtoxQ7wlI64l-k-g0V0hfa-f1G0kHnZymZ0hk0fflKjkqSQ8AKQS_3sDGpjQeJxNzAFjtiIlwAJYDA_143oDoi_RoR2-Y0_XCc91e6ezt7gWHCz6RPOllXIqCXTn86kXT73lAtUsP_QJmQUCrOM06rFJn3nVEiYAsRy46xZqxbYe7kqh3CAuASwdAwYbuc4BeYItw2gy-yUKNkVyLogbXIUvXolpvq0c-36PbmCX5kR1zDFtpVKyMdkGFWX2j4CSFA9TIYLZV6gKQ0y59pKZRPDSZiXnfVYn3jUrVrpJNJ2eqlMmIKF3SeAx7f39oxcdMkPTYW_gbQfHoCV7cUsHvYYeIH7H6k74NRxKeBaQoH7-Es9jeVuHtttgBiefLgOcMz4jKvzRd5SF4GA_kTr1v4u-cSm_Spe3saC5zvg7RxCAAZEtVWnOjkesvAlalNNvUEaqSL-tAT3g_3mAsy0xQgWbBXoniNAGH39WcnrR22lnCMLmZP2sBVH2aDIl0GDtLiZalnDugNlf0qQKpOjfDNTeBNb5tgVPbU2IlGgoTwuUynLznLVJ9acV8bvvOWxa22XF4dWAqGbvebqTdxAeDl-tqp1D3USD40scUchnp6D6XMYCg8AZ2nCw0TjXykQJ4Ktx1Z2227Dz9xcPI248SiDDkRbG25rw98yUMpkxpA_5MkecgKCKehQ8QA-DT8UcziND53sySi4LjSXVwY3Fz5kjVhmgdcVc1lARjCFKjEJ3snRMF0gNsH4PATym0iYVwGOlTJixKJhRF0rawyGwS4NT-ubrqW_CowjkZFvWvsbMmRKZgdEtCmYlwJ8WLtuOvD7aZ_llCgSFVE_lAcpHFlYcV-J9tPraVIe73MxCEkllQgYTP7LiBOMuRi1Lj1V6prWVNhNcgqExYX4ltWsfGDhEagZajiAsJv5aGyY35kKzMBO25EEKIer8eRXgkIoyv9yEz2c3ionEus29Fdkc8OzFfHBGyiTI-P5GeUV90TrmC1YHk5hX4UqguQFWYHBjPrX8lidjkJSKsqQtNCGjG9_sq6e4qz7Tc6uIIdxZWipHIsMt-JaFn09BWg2ksZ1Gfoh0_kWGzNCPekAoWwrx9IXsYC1OA2lemDLtEa-peK3z9l4gqy4aNacgtFkdPx4vu4ipF_IIKNm8aU14YMVTM9hPaU5GZy627TCMXkh5bL04mojWXHq5_Qc1e0YOxSk42At381gd74d_-XJfqWdss5ER6eoKWF4pbWkjKntM_qkg6pIfWAW1rBMBM-a0d5tB4ca6i4kzLYzEs8RN8-axwDwbLxzMqglXPz0zJHR4edRijAGbOiO7ykHT3E08ntSE6FIgegRbGwYRD_abwBGpt5xaPpalWYs_aqC6cpKPLR0Vj6ae-69Bvg9VgrHhroYCQk1l0yVBlW6H-_9UvdaEXzTYiJ_XZ8kCSulaGDBjcSqqwG3On2j8LKgiisW1AUzXX_LrznyLHZ0XoCHYrRsBVXoZO03UJlPn_YN_RsckEw9g_2lAEBa7Tx7qw18eUiRTIJ0jeFHaaaaotifx4D28hHXy59PwB6BCxQQS2ID1Cq8WjnKzkKx_Q_QGLnILT66idaRC46Ol1Mh4nHH94tyGBtMHgEVjzsKdWIVLbkS-n_dp3iwtcuPhl5WTtvdIKayLC6Fondb0IFYTibZL4d02fuJmVKjRqZIoEr61db2UkhG-1w1DR6c5N5Am0q60GpCckgHGvAgHtaR2srgshqG13CB6QG-ztNN9WllalRUsYX4FFV8C5O4NeYLfI9nabzNGs4ZC98BjJrZ8WUGiicpOTShDThDhYYEqWy34tG196-Derba2ikauSWdwuT2vPx2t91Hq7GZVw4fr3qRtfyC08JY7E_U_SwZuy2lRwGNr-x5siz4hIl0gz7lA5i2CQLIRTDvmMBKqsuogfTHKUvu9suJKUBVoXR1A2IP1ieqCiRDKUdHQ6JY3oy0ognGAqD4QCanUbij9zMssY5H5mYHNgflMDuItc8r5KYQ1lH8xV99c96wP-HP38rCwuvsp7aH1BR5m-xFCFLX-oBRkQkNuGwkNYivf-Gvqrq3d9XQntoXF0lJM4qry3XtEmGWBU9W5w87rhG5KVtngz1w0TZ6go2_Qtza0rYUJIvv2Fw7hCUYl2tvsbIA_KdqDwHNLm_x7ZmjlMUngUQbIiGWgI-Xvx52QXlxDnPAyLSWRn7a1zfimPjH5-RvhTy_CLKs8RuV2qJPeUo-91J15ktyI1EAnRXjbSUy4Zdj_rAfqQ9puiCk00x093T5e_CGxK3wT7-GZNWkim1LSezqLGRVBN762sOtqfiaWVUtjxUimPeKwRSaM4UZTbKeEgS9hHd2fWW8WCseJE-PT4sgZzCvUYz0xMZS22ufM-WjiQ-BNBmaEq5d3ISTw53ZSD1Ild0RaWE7ICQT_Kw8KnJa5EbOC8DThIZLA2o-UwesaGGkXbja2t0yzwTQYRFIsQsQwmb2RylwbbBZKPp1tRmKBmHQG3iloSPF0WKqPxBpPCkekVgk4CrvUv8ZrerKSSqer4purWGXJLxqk-MYWlZ0Ym9ZqcfFat3B2tgZzTfkqavpWmxvO6hGQkjmYZD_cnHHWld6Vj3Ai425lL437lsPzn8FCcWGKrEUI_n8JcrIoAH1DzMKf3XcSzcydf6SleMRhf0rHNUC10SxjLbN-geM7qGtusDTC5Gp3bAhO_-71giFHA9OB41bVISAKXGgFra5T3BIFePhHu9cEsfV9NBliMesawfMSlQtQKV0RxzbaYnVi7Ah_Ox7DIgyVVWRY-KVlurBq64N8UiCPNwZ7NeW6xPBdqMcFYrvHHg487BHZ2mtOAVObkF_P68ichFrw7PYP0tA6gAnTD5pJA66r6z4JBelu37Hp1parBHPk21O0y99_7LIEXrt2G4NFhoVKaPH3rqwxZHvuDviobQ7NH_TnnPBeN4OH3rbj3zMrYpZugaS0Kqom5A5FDPcindCLZtxAfhRZyx6eY_NxJjb_Anh3py-FpryGdE-46bvjYr8WT_iFDtDUhmg6chu9pkKaOlkB7uBlFDM_FLhw9Af6gDKFpXsUoG-zrJyZBjMINF6yPi_5ZqZ4DpOYUG_WF-uIFupx9_24Xbz7hcpehujNYubZfIKNvmzrU6TdbYh24f9HRZ1AuouUAdQmHMSMWp5vUGADP49e053ztKj--tRHSbGIbWjL114itswz-vBCRpY8WoH0C8jAJKro3mnMRUEty2oCT2S5oJXbQqm5CKl38KnpzPeE7jrhu6pPRau6WNppQeT7C0vWdUqjECQKHh3jtw-EIAXAJ60cVjEJM7Gk1-YPTYx30c6gP-1jkynlq6xVip60RtktU2lxskF1qlAkGTjszWnpZO1eE0sMr3mq7WG1adAxKrJjwNOxRCT2lYjFozsqzzgXAJkI2DTwcxXwlfVSDAocrAuk0cQVL06eksbVuQoFlPQl7jt8hN3BZPD0O11B2AezCNTgBdksgiWLWNyCtbBFIzt-C_EiC6T5r5YnF_-QAQJ1WuqWTCcoY1GsiHWW9Tle04KArGlGLT-wu9zzJPubfqiWofpY6N-7S0oGhCbtbD_Ye3uWsZ9V54fPxohMxx0vvI-5sfD0cp5Qn6kkoKOHJ3Aczp7wDN37v37jToO5iZ2iHqrXLjc1ecWZx0sOs1OJAZ8Z3pMksJjgFbunLk-_HiKBkt9jM_DzpiCrECrvAg0r0XFYmoSuD4wf-9sz_8F4A0WzfuXuD9alBTZ5PRu8Gavovckf1Bk4tgZW0xkJi-CK95Um5gDLnG5xW_5Yp_vspExbALnqPFlcFt32OwJ2AsVAVnUjQ57GAOOvFvVgg0Kl2kIUPQwWK4Yvs5Xp9PKbhKncNIEPY13RNoaqUBWdNOsy7FmwzH71Z4xZNNvbmJZVM-6T-hmAAtNLXP1Fb3sxH3tY244onor1tNr7yVtdubelIOCUKoL4QlsMDJlNy7rG1UEkUL2IymumgVGbf__JtNSf-tU_73iZZNAsgyY3DxdDkMoArC2nAXHgu49YKQD7Q8D1OJBFb0p6kwcIbN4_mTHkSDRvm95vN33q5avGgZ-yqEFW4dlnykv7XVyPYDoAiGmBfzpuRvpqTUme_1QGEN31kYn2pm0Qa4UdWrxvfYreI75aRQnkVPsDs0ZMi0iyd7qY90F1AQ_PdwPil58LnthRNq-D6VsQ5berkkFVJcDb-cpoEcKxtHjKYg6sJLTftNh1vpKedrHNx8DYtieDrjSuzYv31utF1CM_tR_pGHs9BTc0fD1Den1qqdVtKbOX2kY0w7ncimZO6Fr2qj7k1-V5v1kvBSxvFpt-O6c7jWPQZDEib8sguPAmDWM90HGfKJtdGOg_P2Q2HJ2epLSNrTvKhtdVP-oLcmRLobkA8UlBHnM1Bdkccnk6c6S55loWq-TVE6-8rpKKp2PhcQHJlkHpgfVaEhWKU1P_X085n8z7GXf1HeoV5aUyYkvB4K6sugwXqYmMg-zKOZCXF71ewnm1pBA4M7joYW9yWbe6Yp_vr_JD6CnRzdlGcEJfrI9v6cjo-HkS5MyGX2CM52W8GvMNeR4Ji9Mpqv4FEMmuMtktou9VnPSRgawcBCw3nxYgcA3LYH5UewXExY8jUrJ5GotDI0SwpraNXoZI7P039zml5sxQyiZ4frDViFI1rmyX8AhmE4bncr3ZDIVMh-9V6Sn0eGNxZxWGpzC-1a3vIBvUIl_uQfdmB8wWJ4TXQqeuIa4BHtOSfH2z5rJBAKCFtKUVQEK7l_VrCYD6FByFDohFVadS7rJXCZLT9ahEa-aNg9rvXBkBD9ZcpJzjShwmy8JTPsUaFTeRFTMtNS6myXe9P8m60VtcrC4riUl2UXSNyA-vz8Jv46RhRGieM--WQZW4V_-twV3KqxsaIwclSBk55ai-LxkND4cBAEydycmG4eU95p2cQBhiNFtMBAXDT5v9MrstDJLOoOzT0jTssTKaKTKZS4trtIexLOH0pzndhBPL2vkV0m9sw_YD2sv0qF0OQmKXDuTqv7tK9wzev37yv8PS_pmAzRw0_FbuVVnkA8EjjV8kPtyVdGVBoQ1_87Da0Q1GLHvdaO5wJWsIKiFCFkxM8Rg3mSsjhby9btFtXvx8a8qGHWpQNFO7xo1TI1ztENuBOAvVuDUNn0oVqTHecs91nmAqjZo62hhwrYCctJIpgXv8PgjHh3lKnmBo9ssgXqSW54z2s3dVD__3o32retol9EYfiZQpgvI4KLn5EF3AWGeWZ_HGP7U5OQZFCHVxplm2zPvEDSVfHQbaUbvoStoTpW_A1LhJkLLU-jRcRoEnDxhzcRGEdJL5rhDHnuEcHyTSqk_Mqy8ZggLax_n-7vDftWEmdbS9e-bm2MCg1yAPViF6R5rW-NmtPeojxbcnkIMHGzjk1ax5y-giub_MWTZ3y_OkrfWzE5agf5qr2CK7LXmMBvO5F5R-MjqNtHohEIO_HoKQrmtXBkuTRej11x__EJywjLgu9In66JV4RPJjHdlnR9KLkmualpGfWyUEeERgOLelyy7RaISeG66iOz-Ca7pqQoRo89B63RG2nC28WusE7YBCGGp74geuIFkMjnDBt99bfULtnKNZpz2HP7YOO-fRLI5sILuBDpvj3enEzckMo7fPJARDD039-4lLqHUZF5V2WGM88akeECamzqFFAEqql4QJHNhfkXAZ2wnYvdnxXDR6o19zx7pv57vb7qgLvwIDXYeMUfp68-t7RRSEvEkAwsWkeOQmvS5p4yVKKIRy9ZKahy05kYqhfrb5Ry3X91Wdw9AO_qVSmI6G-8VLXEgz8aCccjoI6XZEPHrCy4TeuvVWX-UA-yUK2e222BQU898gxX-aNvchmPtrmcgtGDyPpMo0ukq2YQPSr4KxfKFd0JVRz7BnbbubPDKtzWokou9WlanBs2kPkm5rTFcmm4SSGxX121frsnS0YWHJ8rsvEpzD7Pum2S7kYDDEGXIA2QVKwLZGI8nal48ImGGBfW7vklmA9NSIEJJ4WWGIP9KgHd8DGqsGgtsmY_H80uUSUc5Lv-Y-xsbRS8mKDOiAbaUxELHpvySwYXrVL88w6ks0qwMYPdmusUNlNdgVCpViuit_ahKbFVt26lfuwpIcCagl7zNX0h4DAB72obAQJf93gP3HeivNWuz8vearSL5PBPwg7MUWzrnTIC92VPktM3lUsGQmL-C6N3wHIhBuOw4kUc4dK_qOf4AKnssrDjNCVUGfRbUlfKu6dEmSsGikC52el1sYvjw8r9sOxLbA1DniQuK8yHM_sNWo93y4ko_SMRpMdKsuVGMTNw75r_XmWi_QXSW7x9-Ehp00o0v-J0_7XT8q3vGFXlMeS6m-s-meuSWwh3wDFCSUSOgoK1jXDjvgRqVGU6CuW8T6WTFSjtp9cBRP9PMlKZPy_SzOyISqokGFLiFmSocowhcSlS9Q4dNCr1PCHqgEAQx1x2WXrTfT8NvNDiD5Hgbl1cWmTc9VwsYLaCdleKOp2e7Iimwr1jZkMREyqcR0HNqcBsLOw_IoH31vO_xcMw2ruHTzcW-cPBNxKKIJwZo4EIfejRSY2FFq8r4E27Z0y-x121QtKAffH9WRNttZBUNi__p9yV2Q8elzrHvjhgRAjzzaLPaK75HtWHzc_KrNmt5qw4hNr9pyt-QLxE9JScwoCqGx95KwBrH1TJnkekF-FRma3DVqUPhTsOxAZPPVZM2JpA8RJqJkq62A27PNeY2ewdxcEQS9EUigufvYZr0waTS6W_4ZXOwU4G6nkL3hQM6h03wOQLD0IGYEmCBW4x1TrgGM8qSOnhdvHt104z0owDL9-yMZx8mUQ5vLs_83uD7QJUT8qhUY10ojLSihl3UcyRwPT9pKIrRn0W-yAC5BJ2kg5CfG7fGIQNLMh8lvvg7GeXEPRDAEkTrFYgWsOT8yuGj_HxR",
+ "salt": "Zag5fmKBXG2i6tns8JG12Q==",
+ "text": "Tara is a prehistoric hill site in County Meath, the land the Irish call Contae na Mí. The Irish once called Ireland itself Ériu. The hill's own name marks a great and lasting kingship. Many call this office the high-kingship of Ireland. Tara holds the seat of the ard rí na hÉrenn. The hill sits between the towns of Navan and Dunshaughlin. It is not a grand high rise. Its plain shape hides a long and deep past. The archaeology of the hill is hard to read. It does not stop at the monuments you can see. Digging and geophysical surveys keep finding more human life. The ground holds more than the eye meets. The main monuments form a clear set. There is a Neolithic passage tomb from the New Stone Age. A long linear earthwork runs across the hill. A hill-fort stands on the high ground. A standing stone rises on the ritual mound. Legend ties this stone to Lia Fáil, the crowning stone that cried under every rightful king. MacKillop sets the hill's height at 507 feet and its place six miles south-east of Navan. He records the name forms Temair, Teamhair, and Temuir. The anglicized Tara grew from the genitive form Teamhrach. The old etymologies reach in many directions. Scholars have found the dark one inside the name. They have also read a spectacle, a high place, a hall of assembly, or a free eminence with wide prospect. The Lebor Gabála contrives a different path. It derives the name from tea mur, the wall of Tea. The Milesians gave the site the name Temair for Tea, Éremón's queen. Her name displaced the older one, Druim Cain. The hill also answered to Cathair Crofhind, to Druim Léith, and to Fordruim. Near Gorey in County Wexford rises a Tara hill of 831 feet. The same name thus travels far from the royal hill. From Ireland's earliest history Tara stood as a great centre of religious ceremony. The hill belonged to Medb in her old rank as a goddess. It belonged also to her double, Medb Lethderg of the red side. The ground had taken burials in the second millennium before Christ already. Kings held court at Tara who were also overkings of the region. The same men headed the Uí Néill federation. The central rite of each kingship joined the king with the local earth-goddess. It came in the ritual banquet called the feis temrach, the feast of Tara, held at Samain time. The Uí Néill took their name from Niall Noigiallach, Niall of the Nine Hostages. Tradition says he seized Tara from the Leinstermen in the fifth century, before the coming of Christianity. The Irish rule of descent did not keep property in order, so Niall's many sons carved up his hegemony. In later times the title king of Tara was only an honour. The ruler who held it often sat far from the hill. Many monarchs of Tara stand in the Annals, pagan and Christian alike. The list opens with Sláinge, who is said to have ruled in the twentieth century BC. Christianity's advance may have put down the feast, so pagan in its nature. The last king to celebrate the feis temrach was Diarmait mac Cerbaill. Later ecclesiastical writers invented the tale of Saint Rúadán's curse on Diarmait in a dispute of Church and State. The Annals still imply the hill was not abandoned even two centuries on. The Uí Néill kept naming their leaders kings of Tara while the site itself grew over. In time the hill drew one of the largest medieval fairs, held every third year at Samain. That fair stood beside Tailtiu, Tlachtga, and Uisnech. Credit for beginning it goes to the legendary king Óllam Fódla, many hold. Early Irish literature returns to Tara again and again. Even so, the tales view the hill across a distance in time. The tales of Conaire Mór show a magical kingdom there. Cormac mac Airt stands as the greatest mythical king of Tara. His court may echo the ambitions of the Uí Néill. The young Fionn mac Cumhaill won his first heroic honour on the hill. He slew the burner Aillén mac Midgna, who came each year to prey on the palace. The Tara king who met Saint Patrick was Lóegaire mac Néill. Many monuments of the site carry English names of modern date. Some grew from a fond reading of the Dindshenchas, and their pull stays strong even where evidence runs thin. Adamnán's Cross is an upright stone linked to the biographer of Colum Cille. Its faint outlines hold a female figure, possibly a Sheela-na-gig. The Banqueting Hall is a rectangular earthwork of 750 by 90 feet. Medieval literature describes a five-sided hall, and the earthwork does not match it. Modern scholars read it as an entrance-way through which horses and chariots passed. Cormac's House is a small earthwork inside the Fort of the Kings, and the Lia Fáil stands at its centre. The Fort of the Kings is also called the Rath of the Kings and the Royal Enclosure. An oval hill-fort of 950 by 800 feet, it nearly rings three other earthworks and the standing stone. The Fort of the Synods is a trivallate earthwork. An old tale set a meeting of Saint Patrick and Saint Brendan there, among others who never shared an age. In the late nineteenth century British Israelites mutilated the banks while they hunted the Ark of the Covenant. Digging later showed timber palisades of the first and third centuries AD. The Lia Fáil is a twelve-foot pillar-stone that rises six feet above ground. Granular limestone went into the stone, rock from no local quarry. It was raised in memory of those who died in the 1798 rising. It lay near the Mound of the Hostages until movers set it at the centre of Cormac's House. The letters R.I.P. now mark it. Claims that it is the ancient crowning stone, the mythical Fál, convince few. A small earthwork, the Mound of the Hostages, closes the Fort of the Kings on the north. Records say the stone should have stood there before 1798. The Rath of Gráinne, a burial mound, sits near the Banqueting Hall, with the Sloping Trenches beyond it. Fancy set the elopement of Gráinne and Diarmait there, though she was betrothed to Fionn. The Rath of Lóegaire is a large univallate ring-fort of the king who met Patrick. Rath Maeve, a univallate hill-fort, measures 750 feet across. It lies half a mile south of the hill's centre. Medb, though queen of Connacht, appears at Tara in Briccriu's feast and other tales. The Royal Seat, the Forradh, is a small earthwork beside Cormac's House. The Sloping Trenches are two unusual ring-earthworks in the far north-west of the site. That age saw a curse fall on the hill. A holy man spoke against its king, Diarmait mac Cerbaill, dead in the year 565. The curse is said to have left the hill unused. He was the last king to hold the older wild rite. So the great hill fell silent after a long public life.",
+ "okr": {
+  "objective": "Present Tara as hill, kingship rite, and field of named monuments.",
+  "key_results": [
+   "Record the name forms, etymologies, and the Téa story",
+   "Give the Medb cult, the feis temrach, and the Uí Néill kings",
+   "Follow Diarmait, the Rúadán curse, and the triennial fair",
+   "Name the monuments from the Banqueting Hall to the Sloping Trenches",
+   "Keep the 1798 Lia Fáil and its doubtful identity with the ancient stone"
+  ],
+  "evidence": "MacKillop 2008, s.v. 'Tara'."
+ }
 }

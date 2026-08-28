@@ -28,6 +28,38 @@
   {
    "entity": "Lughnasa",
    "type": "Event"
+  },
+  {
+   "entity": "Mag Mór",
+   "type": "Place"
+  },
+  {
+   "entity": "Teltown",
+   "type": "Place"
+  },
+  {
+   "entity": "Brega",
+   "type": "Place"
+  },
+  {
+   "entity": "Uí Néill",
+   "type": "Group"
+  },
+  {
+   "entity": "Banba",
+   "type": "Person"
+  },
+  {
+   "entity": "Fódla",
+   "type": "Person"
+  },
+  {
+   "entity": "Ulaid",
+   "type": "Group"
+  },
+  {
+   "entity": "Máire Mac Neill",
+   "type": "Person"
   }
  ],
  "attributes": [
@@ -50,22 +82,68 @@
   {
    "entity": "Tailtiu",
    "attribute": "foster mother of the god Lugh"
+  },
+  {
+   "entity": "Tailtiu",
+   "attribute": "her name was borne by one of the three great fairs of early Ireland"
+  },
+  {
+   "entity": "Tailtiu",
+   "attribute": "called daughter of the king of Spain or child of the earth, Mag Mór"
+  },
+  {
+   "entity": "Tailtiu",
+   "attribute": "her husband Eochaid mac Eirc named his palace after her"
+  },
+  {
+   "entity": "Tailtiu",
+   "attribute": "led the clearing of the forest that became Brega in County Meath"
+  },
+  {
+   "entity": "Tailtiu",
+   "attribute": "asked on her deathbed for annual funeral games on the cleared ground"
+  },
+  {
+   "entity": "Tailtiu",
+   "attribute": "Lug led the first games at Lughnasa and sang a lamentation"
+  },
+  {
+   "entity": "Tailtiu",
+   "attribute": "the fair stood at Teltown between Navan and Kells and ran to about 1770"
+  },
+  {
+   "entity": "Tailtiu",
+   "attribute": "the early assembly was the principal gathering of the Uí Néill federation"
+  },
+  {
+   "entity": "Tailtiu",
+   "attribute": "the Teltown marriage lasted a year and a day and ended back to back"
+  },
+  {
+   "entity": "Tailtiu",
+   "attribute": "the Milesians' victory over the Tuatha Dé Danann was set at Tailtiu"
+  },
+  {
+   "entity": "Tailtiu",
+   "attribute": "Banba, Ériu, and Fódla died there, and the Ulaid were buried there"
   }
  ],
  "sources": [
   "Gwynn, Edward. The Metrical Dindshenchas. Royal Irish Academy, Todd Lecture Series. Dublin: Hodges, Figgis, and Co., Ltd., 1906–1924, 147–163.",
-  "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+  "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.",
+  "MacKillop 2008, s.v. 'Tailtiu'"
  ],
  "cyphertext": "zVd-LFNFet3rJws97YinHXVPTS5L9dLnl3y1OZjc8ibY0Yv_dLkOFy30Li0Iu09XaHLLEgrAsU9sXA36ccPT6xOmNnu65l-WBjnSVSnc2fRsCjve6KoaEyOjr72HF5PfIiHW__FcYlxayDhq7Wfor98vRAoeSv8jnvXjOauj9KTz5kSvE1Pjlzn1Cppq3AzuctDXL-cU_jMEJuE3zkGdvpbUeKXH54ryGivfK4KhSedc9SLz-QoMvTZVBz2rnhK8_mdB6Cv0xPG8Hwrz2sGabLcdH-MprQ4PkCxF2hO8A0RyfoxtQHoiVo_ZZraDKWyhl25E5liiOC5DDHE9uvYLqFQHY-mfSf5XatBrN3XmC2MyLJGPqFyXZHSFFx9llm7eyGwFBoU_9h1RsodXqBmpnM6LPRYlBTXwHz_7Je0R84CHRKqTxDo7EmTPAN9pUebE2PvC-qqYTol5gEf4Sr8rx36Gezc6H0ttHkmlstXFdNGx8gUApxOIZGa9QouZIksjlT6G_zc4Y-2N4GZjBXrl6eQMkyYptDQ3PcAMeg_ejd2fzdiPXeYc0XUsYBrXdS5GvKnd-u7NoI1xmiCVia0MIhGYbCg_FrHyElbGyZHMDGs9wapzfokucAtW-mYy3FvqqM45R8xsrLfzN4mJfvYE_SLVwLlpQRpx8D6YubCYRjYhK7z-Lcqpi-9FrR8KVfaqCMNs8d_tAg93F7yEfyyrYck3Gwlo0lr_wlVB-PMvMFiWyJBHeqdX98mmDyEBmBYK2HdVjdWnxT5KyfRCm52R5PvbN4Nx6Q6SOQGrXgkBWcJLvHiPwPmQZHuMErcgw_1se_lz8wsTlnwWML5de93wMK1xULUMz-C5qLiXsxUW24x9Sv8OLH6pecaxt666oF-ScDI9K_KZeJIhHtcFb7-1LDoJlRMEZT-DPWohqNouxXdTaQlXKL4AbwcP5hI_OWCDCgjj4xVh9Q0a3BuiYrF-05EV03FkHBrPi3WGPGuxLo0qrL7twHhe49kob6xpLNZ_lnnrELVZXU_83BdDOsAmsSL86k8BPMNzDfwes3ChNt4K1oPpo_lYpnz5npVG-eK4lzroWWa3OhJH9NMoNuKpm0VbGY5r8oCKpOYwcPfb4ofjw13nlzi1HxEUrRm1LP_CIOCW8Chieye8PR3OU7EIGkr94xW3F55RkEl6GoIDuXR214HUsQqvvklhnGcRgfGiAW0iPhvXCDR5dFAMnzLr-eRa1wwNSQG_RJcZiX4zuyT6xxZM-6667sAC0AtxHojOQwEOsajs3bvrHvx6ZCTXtNfP2LR5Q3a9lLJqw1zqIC8dRu-9WZzH8c2iuEcyfJ3iFSMO5EpWub7QW7pTTmMW1x9CSPZskK8a2KlVprNDhVbPhCKr6VtWj8n5yjLdCSuOEAolKflkeSqLbKosgjMB_m3yzJUa7ySIuy3PvoA6B_NbsyS1kuMw9EcoAQoAL-o4yFU-2GTiCMpWhiU2zcNAz46hRkki9_nKlyflmfuOrKgmPskW-4Xt0yMKU-8HZtnv2w9X_poAgFE-x9ORArNmRe5TEp5DUSU3QWUPANHIvvSKgPrK4aQBfFJ_elQ_84IHSegE50LECrGy5SUHGb4uWnNJPE5Bvfp10gT-QbwyDula5k1511_kOL2YHBcEQcqIfYTkmBdKJQ2f0rvMuCpy0VxVPK34b4_U2wTquGb6pwfEuqlYvo-_dALR1z4d3XeemGkMyjkYoXRdNat3xQmpFFiHzTwRH5Xd8u53vJLfc8kdotqkhX4HpfF-jQQZg77IckxRvVOjZ1fJzSSa5B-HA0ka63Gi_rC17Q1mFJVVZFgObXd5uvpQMaeHgsn7H-EMP4MCL0OAS5XZjRgeN7gSy3rlD87ssQFw4Ho5rwNXTOGs14rdUl4ZPXfrMu_L30bpaSVDJq7hgDKo_vFJ18D_i2mAXJN91AArILrICSFUlBM6h66TJCVh7lzemG_IvSPwlne2KO-NkxNbt3A4r2oBqfa8JPxt8yGSc78djlF2fPtwD9oQgOWdGJE-68gb9WbIjLLLpv2NE6DPgTo7yxp4DhgKxbdq1fr9Xdnuqm16y0LQGGrukoOdyGVoq4lHhiVIKGi-P5U6NGwwmblAmRLBIsNyFWeB1_voNHXARVUN8METySha0Tj_SU6TZoHOw6rsaaI8jjgT9GxHYC6DRGenp6dP6vMqxfjBecwlh8XV7qnjip9e9Fyhq_ygM0NngguOuqR17dNIjZodlJcEdMv2tQyRNdGZPcitMPp1UsDxTkyiccboFdfsTcLpv8mtL6pjA11zTvsZHbVxqSCTrtmKWHWBP8zsaYFwpOmgyKCHzgkevmhFxI5TNu6Jhacw4AQHtYTJZOGDjpvec7iXWdxQYtxkqtPuJsi03t4hEoBHwDrshfFiaplr23_gTiN8lkrEvfcCaVXE17duaKfCWsmUIi7mPUM45GZjj8BUcLPlRgzh3JILn3c2xIQZvsyYv9yHnMkztxuQuWbo-bkLEVi8ovnsqxFWGyP1fcWlS5OKbP_hUx97NaJ9KW1K4YC81JBKjPGmCYBuBR8aBWKe7xycAccib8vZXWuSQ5kyf5IVdQWLvZfneIB9LeMosPlS4bHnQhAT_LmgXbNZfLragvbx6u8QqxcAGnTEo351q-FopzM2wuDgMZyGt2yBPpBFLUyP8HeZMfK2AN3pDViN2mnrxWi9o4dUEzForWHoPcrfyR_82dmBVNIirS_06HxsEqRebfVZ1ACmX5BHYnh0XHPOaa8YCtE76MEaGrMAb9TL-F1aMQAz-YshI9haimnm1wuHpxyF8ZW0G837_kAzRVFt_cVwReWs5F6fjJEYyNa5hFMkVd9gk39IGF6pQLP8a_HLREpo_mXHFt4KN-Qc3HctY_DQ7KeCKcnu44_NS5gy1WLR771LqK3gVRfjdRP-ofqA9J6i8b7ndvrWJzSPb-qxeVHiallUeieqzm3ZdIl7UNXd_m3z0Kf_5Z4R_ImQY7RITiCe3eFNOXC2xhC9K2HfQo4_lFGA3yiP1biOhHFhRCnJplImpVcUWDRGp7-GN21nsgwFuGkC0Xc26-nl--yfHSIIwLxBzika0X92vrlE4DRTnmEGYtH-UOJrPm_aianRZWmNoTmnZWkn6ZgVS3UFlR4CEGBhV8zlBqLvnrQHe7Exb4hWc6-5wXHB2vJr5GydU-Pbqi_U2aaKUpBp3fhGOiYhmXDmB4lE9ny0v0BVuYpn2WRAaXUqnjF_qhk9lDK0jNbiQGe1wMVXCbGH4bDqzjNRAHStRC-puZb1Ko6YDHudFeg805d13MXoMM5yRm1Ec55AjUmeLIgEwg1KDOPeAULWLsoKKjQI3GhQ0Wk7bhn_AI4lMeeV8g7UY-TaTn0onGb0obhfVfeDIB6C9XS4vA==",
  "salt": "Fzza_t5b2xfnWQiItzKZng==",
- "text": "Tailtiu is an Irish land goddess. She stood between two groups of invaders. One group was the Fir Bolg. The other was the Tuatha De Danan. She may have been a member of the Fir Bolg. She was also named a Spanish princess. She married Eochaid mac Eirc, the last Fir Bolg king. He fell at the first battle of Mag Tuired. Tailtiu then cleared fields on the island. The work killed her. She asked that her funeral hold horse racing and games forever. Her foster son, the god Lugh, built the festival that bears his name. The festival is Lughnasa.",
+ "text": "Tailtiu is an Irish land goddess. She stood between two groups of invaders. One group was the Fir Bolg. The other was the Tuatha De Danan. She may have been a member of the Fir Bolg. She was also named a Spanish princess. She married Eochaid mac Eirc, the last Fir Bolg king. He fell in the first battle fought at Mag Tuired. Tailtiu then cleared fields on the island. The work killed her. She asked that her funeral hold horse racing and games forever. Her foster son, the god Lugh, built the festival that bears his name. The festival is Lughnasa. MacKillop binds her name to one of early Ireland's three great fairs, and to the queen whom that fair remembered. The pseudo-history Lebor Gabala set her character in stone. Even so she looks far older than that book, and divinity may be hers. One account calls her the daughter of Spain's king. Another makes her a child of the earth itself, born of Mag Mor, the great plain. Her husband Eochaid mac Eirc named his palace after her. She fostered the great hero Lug Lamfhota. She led her people to clear away the forest. The cleared ground spread into all of Brega, today's best farmland in County Meath. So heavy did that labour fall on her that her heart broke under it. On her deathbed she asked for funeral games to be held each year on the cleared ground. At Lughnasa, the first of August, Lug presided over the first games. Horse-racing and feats of arms filled them, and he sang a lament for her. The fair stood where the hamlet of Teltown lies between Navan and Kells. The assembly was held at intervals from ancient times, and it continued as late as about 1770. A revival came in the twentieth century, then fell away again. In its early form the Tailtiu assembly was the principal gathering of the Ui Neill federation. The right to preside passed later to the king of Tara. People came from every part of Ireland and from Scotland, so Tailtiu stood equal to Tara, Tlachtga, and Uisnech. The fair was thought the best time to marry. The Teltown marriage joined a couple for a year and a day. To end it, the two stood back to back. One faced the north, the other the south, and they walked apart. Other great events were set at Tailtiu. Eremón and the Milesians won their victory over the Tuatha De Danann there. Banba, Eriu, and Fodla died there. The place was also named the burial ground of the Ulaid.",
  "okr": {
-  "objective": "Describe Tailtiu, the Irish land goddess.",
+  "objective": "Tell Tailtiu, the queen whose clearing and funeral games made the fair.",
   "key_results": [
-   "Tailtiu stood between the Fir Bolg and the Tuatha De Danan.",
-   "She married Eochaid mac Eirc and then died clearing the fields.",
-   "Her foster son Lugh built the festival of Lughnasa in her honor."
+   "Record her place between Fir Bolg and Tuatha Dé Danann and the two origins",
+   "Follow the clearing of Brega, the broken heart, and Lug's first games",
+   "Give the fair's life to about 1770 and the Uí Néill assembly",
+   "Record the Teltown marriage and the great events set at Tailtiu"
   ],
-  "evidence": "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+  "evidence": "MacKillop 2008, s.v. 'Tailtiu'."
  }
 }

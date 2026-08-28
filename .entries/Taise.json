@@ -12,6 +12,26 @@
   {
    "entity": "Taise",
    "attribute": "married to free her father Abarta from the Fianna"
+  },
+  {
+   "entity": "Taise",
+   "attribute": "her name is read from Irish taise, mild, gentle, kind, compassionate"
+  },
+  {
+   "entity": "Taise",
+   "attribute": "called Taise of the White Arms in the tale"
+  },
+  {
+   "entity": "Taise",
+   "attribute": "her father is the Gilla Decair, the Hard Gilly of the pursuit tale"
+  },
+  {
+   "entity": "Taise",
+   "attribute": "her marriage to Fionn released the imprisoned Fianna"
+  },
+  {
+   "entity": "Taise",
+   "attribute": "a second Taise, a king of Greece's daughter, loved Fionn in oral tradition"
   }
  ],
  "entities": [
@@ -30,20 +50,30 @@
   {
    "entity": "Fianna",
    "type": "Group"
+  },
+  {
+   "entity": "Gilla Decair",
+   "type": "Person"
+  },
+  {
+   "entity": "Tóraigheacht an Ghiolla Dheacair",
+   "type": "Text"
   }
  ],
  "sources": [
-  "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+  "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.",
+  "MacKillop 2008, s.v. 'Taise'"
  ],
  "cyphertext": "qy9n1pVgQ8ZXBHahI5e02qQ8EXFVctCvSLDcPsLKKr0Ij5A8a9iRB-rFYUPJZm4dPHHNvcv74FcjGQhwrDaPx5n4YDkfN6eQ1KzNf0TIro-zp-bAixzP7XEQlm0X1Gog8OvaQqqi4w3cTpjZiOBZj5An8jumFT2jrP1YW9LVYMIsnVCqW2LAp5icQ1OdL0b7kG5V7EYZouuPy8_nar7WPZohGKjqbPHAkrACyCo-fAt1kZ8bcCv2BUid6lnApy9gOd7z3jdlOUWEdOA=",
  "salt": "eDKbYNxo-Sy2G6Qz8nwoaw==",
- "text": "Taise is a minor Irish heroine of the old tales. She married the hero Fionn Mac Cumhaill. She did this to free her father. Her father Abarta had been captured and placed in the care of the Fianna.",
+ "text": "Taise is a minor Irish heroine of the old tales. She married the hero Fionn Mac Cumhaill. She did this to free her father. Her father Abarta had been captured and placed in the care of the Fianna. MacKillop reads her name from the Irish taise, a word that means mild, gentle, kind, and compassionate. He records a second spelling, Tasha. The tale is the Toraigheacht an Ghiolla Dheacair, The Pursuit of the Hard Gilly. There she is the beautiful daughter of the Gilla Decair. Her marriage to Fionn mac Cumhaill releases the Fianna from the imprisonment her father laid on them. The tale calls her Taise of the White Arms. The Hard Gilly had come to the Fianna as a deformed churl with a raw-boned mare. Fifteen warriors mounted it and were carried away through lands under wave. Fionn followed by ship and found his men in fairyland. The servant proved to be Abartach the magician, who wanted the Fianna's help against a rival king. The story ends with the marriage that freed the captives. Goll alone would not forgive, and he took fine women and the magician's wife as payment. A second Taise lives in Fenian oral tradition. Her father ruled as king of Greece, and her love went to Fionn mac Cumhaill.",
  "okr": {
-  "objective": "Describe Taise, a minor Irish heroine.",
+  "objective": "Document Taise, the gentle daughter whose marriage freed the Fianna.",
   "key_results": [
-   "Taise became a wife of the hero Fionn Mac Cumhaill.",
-   "She married to free her father Abarta from the Fianna."
+   "Record the name sense mild, gentle, kind, compassionate",
+   "Tell the pursuit of the Hard Gilly and the marriage that freed the captives",
+   "Add the second Taise of the Greek king's house in oral tradition"
   ],
-  "evidence": "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+  "evidence": "Monaghan 2008; MacKillop 2008, s.v. 'Taise'."
  }
 }
