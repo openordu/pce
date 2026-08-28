@@ -1,0 +1,42 @@
+{
+ "name": "Morna of the White Neck",
+ "text": "Morna of the White Neck is the English rendering of the name Muirenn Muncháem, mother of the hero Fionn mac Cumhaill.",
+ "entities": [
+  {
+   "entity": "Morna of the White Neck",
+   "type": "Person"
+  },
+  {
+   "entity": "Muirenn Muncháem",
+   "type": "Person"
+  },
+  {
+   "entity": "Fionn mac Cumhaill",
+   "type": "Person"
+  }
+ ],
+ "attributes": [
+  {
+   "entity": "Morna of the White Neck",
+   "attribute": "anglicization of Muirenn Muncháem"
+  },
+  {
+   "entity": "Morna of the White Neck",
+   "attribute": "name of Fionn mac Cumhaill's mother in English texts"
+  }
+ ],
+ "sources": [
+  "MacKillop 2008, s.v. 'Morna of the White Neck'"
+ ],
+ "image": [],
+ "cyphertext": "",
+ "salt": "",
+ "okr": {
+  "objective": "Documents Morna of the White Neck as recorded in MacKillop 2008 for the Public Celtic Encyclopedia.",
+  "key_results": [
+   "Morna of the White Neck renders Muirenn Muncháem in English.",
+   "The name belongs to Fionn mac Cumhaill's mother."
+  ],
+  "evidence": "MacKillop 2008, s.v. Morna of the White Neck."
+ }
+}

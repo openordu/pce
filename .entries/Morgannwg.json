@@ -1,0 +1,63 @@
+{
+ "name": "Morgannwg",
+ "text": "Morgannwg is a Welsh regional name with shifting borders. A petty kingdom of that name stood in pre-Norman south-east Wales, at times allied with its eastern neighbour Gwent. In the Mabinogi, Pwyll widens his realm by taking land in Morgannwg. After the 1536 Act of Union joined the region with Gower to make Glamorgan, the old name lived on in the literary tradition that ran, with pauses, from the 14th century to the age of Iolo Morganwg.",
+ "entities": [
+  {
+   "entity": "Morgannwg",
+   "type": "Place"
+  },
+  {
+   "entity": "Wales",
+   "type": "Place"
+  },
+  {
+   "entity": "Gwent",
+   "type": "Place"
+  },
+  {
+   "entity": "Pwyll",
+   "type": "Person"
+  },
+  {
+   "entity": "Mabinogi",
+   "type": "Work"
+  },
+  {
+   "entity": "Glamorgan",
+   "type": "Place"
+  },
+  {
+   "entity": "Iolo Morganwg",
+   "type": "Person"
+  }
+ ],
+ "attributes": [
+  {
+   "entity": "Morgannwg",
+   "attribute": "name for south-eastern Wales with shifting definitions"
+  },
+  {
+   "entity": "Morgannwg",
+   "attribute": "pre-Norman petty kingdom sometimes allied to Gwent"
+  },
+  {
+   "entity": "Morgannwg",
+   "attribute": "surviving label of the regional literary tradition after 1536"
+  }
+ ],
+ "sources": [
+  "MacKillop 2008, s.v. 'Morgannwg'"
+ ],
+ "image": [],
+ "cyphertext": "",
+ "salt": "",
+ "okr": {
+  "objective": "Documents Morgannwg as recorded in MacKillop 2008 for the Public Celtic Encyclopedia.",
+  "key_results": [
+   "Morgannwg names south-eastern Wales with shifting borders.",
+   "A pre-Norman petty kingdom of that name sometimes allied with Gwent.",
+   "Pwyll expands his kingdom into Morgannwg in the Mabinogi."
+  ],
+  "evidence": "MacKillop 2008, s.v. Morgannwg."
+ }
+}

@@ -1,0 +1,47 @@
+{
+ "name": "Moyle",
+ "text": "Moyle, the Sea of, is the archaic, poetic-sounding title of the narrowest waters between Northern Ireland and Scotland at the Mull of Kintyre, the crossing most people now call the North Channel. Its Irish name describes a current under a bare, rounded hilltop. When Northern Ireland's districts were redrawn in 1974, the unit beside the North Channel, once part of Co. Antrim, took the name Moyle.",
+ "entities": [
+  {
+   "entity": "Moyle",
+   "type": "Place"
+  },
+  {
+   "entity": "North Channel",
+   "type": "Place"
+  },
+  {
+   "entity": "Mull of Kintyre",
+   "type": "Place"
+  },
+  {
+   "entity": "Antrim",
+   "type": "Place"
+  }
+ ],
+ "attributes": [
+  {
+   "entity": "Moyle",
+   "attribute": "archaic and poetic name for the narrowest Irish Sea crossing"
+  },
+  {
+   "entity": "Moyle",
+   "attribute": "district name in Northern Ireland after the 1974 redistricting"
+  }
+ ],
+ "sources": [
+  "MacKillop 2008, s.v. 'Moyle, Sea of'"
+ ],
+ "image": [],
+ "cyphertext": "",
+ "salt": "",
+ "okr": {
+  "objective": "Documents Moyle as recorded in MacKillop 2008 for the Public Celtic Encyclopedia.",
+  "key_results": [
+   "The Sea of Moyle lies between Northern Ireland and the Mull of Kintyre.",
+   "The Irish original describes a current under a bare, rounded hilltop.",
+   "A 1974 district beside the North Channel took the name Moyle."
+  ],
+  "evidence": "MacKillop 2008, s.v. Moyle, Sea of."
+ }
+}
