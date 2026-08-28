@@ -1,0 +1,55 @@
+{
+ "name": "Neachtan",
+ "text": "Neachtan is a variant spelling carried by two separate figures the dictionary files under Nechtan. The first is the waters husband of Boand, the only person besides his three cupbearers who may visit Connla's Well, whose breaking of the taboo turns the rising well into the River Boyne. The second is a crewman in the Voyage of Bran who grows weary of the sea and turns home to Ireland, a character later read as touched by the Roman sea-god Neptune. A third sense, the historical Pictish king, takes the spellings Nectan and Nichtan instead.",
+ "entities": [
+  {
+   "entity": "Neachtan",
+   "type": "Person"
+  },
+  {
+   "entity": "Nechtan",
+   "type": "Person"
+  },
+  {
+   "entity": "Boand",
+   "type": "Being"
+  },
+  {
+   "entity": "Connla's Well",
+   "type": "Place"
+  },
+  {
+   "entity": "River Boyne",
+   "type": "Place"
+  }
+ ],
+ "attributes": [
+  {
+   "entity": "Neachtan",
+   "attribute": "variant spelling shared by Nechtan (1) and Nechtan (2) in MacKillop 2008"
+  },
+  {
+   "entity": "Neachtan",
+   "attribute": "form of the husband of Boand who alone may visit Connla's Well"
+  },
+  {
+   "entity": "Neachtan",
+   "attribute": "form of the home-sick crewman in the Voyage of Bran"
+  }
+ ],
+ "sources": [
+  "MacKillop 2008, s.v. 'Neachtan'"
+ ],
+ "image": [],
+ "cyphertext": "",
+ "salt": "",
+ "okr": {
+  "objective": "Documents Neachtan as recorded in MacKillop 2008 for the Public Celtic Encyclopedia.",
+  "key_results": [
+   "Neachtan is a variant spelling covering Nechtan (1) and Nechtan (2).",
+   "The first is Boand's husband, keeper of the only lawful access to Connla's Well.",
+   "The second is Bran's crewman who longs for Ireland and turns back."
+  ],
+  "evidence": "MacKillop 2008, s.v. Neachtan."
+ }
+}

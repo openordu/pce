@@ -1,0 +1,47 @@
+{
+ "name": "Neara",
+ "text": "Neara is the Modern Irish spelling of Nera, the Connacht hero of the Adventure of Nera. In the tale he follows a spectral corpse on the November night, carries it on his back to a house, and discovers a world of the sidhe, where he weds and serves a year before carrying fire to destroy the elf-mound whose warning dream foretold the destruction of Cruachan and of Medb's bull. MacKillop's dictionary routes the spelling straight to that adventure.",
+ "entities": [
+  {
+   "entity": "Neara",
+   "type": "Person"
+  },
+  {
+   "entity": "Nera",
+   "type": "Person"
+  },
+  {
+   "entity": "Medb",
+   "type": "Person"
+  },
+  {
+   "entity": "Cruachan",
+   "type": "Place"
+  }
+ ],
+ "attributes": [
+  {
+   "entity": "Neara",
+   "attribute": "Modern Irish spelling of Nera in MacKillop 2008"
+  },
+  {
+   "entity": "Neara",
+   "attribute": "name routing to the Adventure of Nera tale"
+  }
+ ],
+ "sources": [
+  "MacKillop 2008, s.v. 'Neara'"
+ ],
+ "image": [],
+ "cyphertext": "",
+ "salt": "",
+ "okr": {
+  "objective": "Documents Neara as recorded in MacKillop 2008 for the Public Celtic Encyclopedia.",
+  "key_results": [
+   "Neara is the Modern Irish spelling of Nera.",
+   "MacKillop routes the form to the Adventure of Nera.",
+   "Nera serves the sidhe for a year and burns the mound his dream foretold would strike Cruachan."
+  ],
+  "evidence": "MacKillop 2008, s.v. Neara."
+ }
+}
