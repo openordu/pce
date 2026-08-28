@@ -1,63 +1,103 @@
 {
-  "name": "Nuala",
-  "sources": [
-    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-  ],
-  "cyphertext": "dZ2MbmEdRZ5DgourYrA7kUbfnYgvVnGNgTx5Y5toyt6B7rNg6t9Tot_wYds2bxvEZB8kLb8Rwv_zw6WscwFNJai0PH1IPaIGVnZoz-QQgOZ4v09S-9Q6JrkqFnNkaUwoqFyRM6TZzKSXZLWunEnqR4GBcljmOzs8mZ1cDsYmORuyEbvSszt9sMzuWa2A5Ut3Hj_HyNcmXiO28zVfeqRT4nBte7-3UKU8K1M1oFkgvesPslF7w2OGVlZA_EWhwsiKfZw0lyo0aEkE_4frXJ5iy8p--rUVYi9xp3TfkJR19ZkmUh2pFczpTfU=",
-  "salt": "9aXgU5rcUx5JM6LpN0FfIA==",
-  "text": "Nuala was one of the children of Lir. She and her four brothers could still speak like people even though their bodies had become swans. Decca demanded to see the swan-children. Her husband refused, and she left him. He then yielded and ordered the swans carried to the palace. There Decca watched them turn back into people. At once they died of old age and turned to dust before her eyes.",
-  "entities": [
-    {
-      "entity": "Nuala",
-      "type": "mythological figure"
-    },
-    {
-      "entity": "Lir",
-      "type": "god"
-    },
-    {
-      "entity": "children of Lir",
-      "type": "group"
-    },
-    {
-      "entity": "Decca",
-      "type": "character"
-    },
-    {
-      "entity": "swans",
-      "type": "animal"
-    }
-  ],
-  "attributes": [
-    {
-      "entity": "Nuala",
-      "attribute": "was one of the children of Lir"
-    },
-    {
-      "entity": "children of Lir",
-      "attribute": "kept human voices despite their swan bodies"
-    },
-    {
-      "entity": "Decca",
-      "attribute": "demanded to see the swan-children"
-    },
-    {
-      "entity": "children of Lir",
-      "attribute": "turned human again and then turned to dust"
-    },
-    {
-      "entity": "swans",
-      "attribute": "carried the transformed children of Lir"
-    }
-  ],
-  "okr": {
-    "objective": "Nuala is a child of Lir whose swan form still held a human voice.",
-    "key_results": [
-      "Nuala and her four brothers kept human voices after becoming swans.",
-      "Decca demanded to see the swan-children and left her husband when he refused.",
-      "The swans were brought to the palace, where Decca saw them.",
-      "The children turned human again, then died of advanced age and turned to dust."
-    ],
-    "evidence": "Monaghan, Encyclopedia of Celtic Mythology and Folklore"
+ "name": "Nuala",
+ "cyphertext": "dZ2MbmEdRZ5DgourYrA7kUbfnYgvVnGNgTx5Y5toyt6B7rNg6t9Tot_wYds2bxvEZB8kLb8Rwv_zw6WscwFNJai0PH1IPaIGVnZoz-QQgOZ4v09S-9Q6JrkqFnNkaUwoqFyRM6TZzKSXZLWunEnqR4GBcljmOzs8mZ1cDsYmORuyEbvSszt9sMzuWa2A5Ut3Hj_HyNcmXiO28zVfeqRT4nBte7-3UKU8K1M1oFkgvesPslF7w2OGVlZA_EWhwsiKfZw0lyo0aEkE_4frXJ5iy8p--rUVYi9xp3TfkJR19ZkmUh2pFczpTfU=",
+ "salt": "9aXgU5rcUx5JM6LpN0FfIA==",
+ "text": "Nuala is the name of two distinct figures in Irish tradition. The first Nuala belongs to the tale of the Children of Lir. Lir fathered her, and four brothers stood beside her. A spell turned all five children into swans, yet their human voices remained. They spoke like people even though their bodies had become birds. The fuller tradition blames their jealous stepmother for that change, and it assigns the swans long centuries of exile. In the account preserved here, Decca demanded to see the swan-children. Her husband refused, and she left him. He then yielded and ordered the swans carried to the palace. There Decca watched the birds turn back into people. At once they died of old age and crumbled into dust before her eyes. Their human speech had stayed with them to the very end. The name Nuala also carries a second, separate sense in the reference works. MacKillop records Nuala as a diminutive of the name Finnguala. It also serves at times as another name for Úna, wife of the fairy-king Finnbheara. This Nuala belongs to the fairy people, not to the house of Lir. Received lore makes Finnbheara a king of the fairies with a palace under a hill in Co. Galway. Tradition explains Finnguala as a name meaning 'fair shoulders'. The dictionary definition and the swan-maiden tale therefore describe separate figures. No single life story joins the daughter of Lir to the fairy court. Writers thus use Nuala in two ways. She is a daughter of Lir, and she is a short form beside Finnguala and Úna. Careful readers should keep the swan-maiden apart from the fairy-king's wife. The overlap is one of name only. Monaghan preserves the swan-children narrative under this headword. MacKillop supplies the naming lore that links Nuala with Finnguala and with Úna. The two senses must stay distinct, and this account keeps them apart.",
+ "entities": [
+  {
+   "entity": "Nuala",
+   "type": "mythological figure"
+  },
+  {
+   "entity": "Lir",
+   "type": "god"
+  },
+  {
+   "entity": "children of Lir",
+   "type": "group"
+  },
+  {
+   "entity": "Decca",
+   "type": "character"
+  },
+  {
+   "entity": "swans",
+   "type": "animal"
+  },
+  {
+   "entity": "Finnguala",
+   "type": "person"
+  },
+  {
+   "entity": "Úna",
+   "type": "person"
+  },
+  {
+   "entity": "Finnbheara",
+   "type": "god"
+  },
+  {
+   "entity": "fairies",
+   "type": "group"
   }
+ ],
+ "attributes": [
+  {
+   "entity": "Nuala",
+   "attribute": "was one of the children of Lir"
+  },
+  {
+   "entity": "children of Lir",
+   "attribute": "kept human voices despite their swan bodies"
+  },
+  {
+   "entity": "Decca",
+   "attribute": "demanded to see the swan-children"
+  },
+  {
+   "entity": "children of Lir",
+   "attribute": "turned human again and then turned to dust"
+  },
+  {
+   "entity": "swans",
+   "attribute": "carried the transformed children of Lir"
+  },
+  {
+   "entity": "Nuala",
+   "attribute": "diminutive of the name Finnguala"
+  },
+  {
+   "entity": "Nuala",
+   "attribute": "sometimes another name for Úna"
+  },
+  {
+   "entity": "Úna",
+   "attribute": "wife of the fairy-king Finnbheara"
+  },
+  {
+   "entity": "Finnbheara",
+   "attribute": "king of the fairies"
+  },
+  {
+   "entity": "Nuala",
+   "attribute": "second dictionary sense names the fairy-king's wife, distinct from the daughter of Lir"
+  }
+ ],
+ "sources": [
+  "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.",
+  "MacKillop 2008, s.v. 'Nuala'"
+ ],
+ "okr": {
+  "objective": "Nuala names two distinct figures: a child of Lir turned into a swan, and a diminutive of Finnguala.",
+  "key_results": [
+   "Nuala was one of the children of Lir, with four brothers.",
+   "The five kept human voices after a spell turned them into swans.",
+   "Decca demanded to see the swan-children and left her husband when he refused.",
+   "The swans turned human at the palace, then died of age and crumbled to dust.",
+   "MacKillop records Nuala as a diminutive of Finnguala.",
+   "The same name serves at times as another name for Úna, wife of the fairy-king Finnbheara.",
+   "The swan-maiden of Lir and the fairy wife remain separate figures."
+  ],
+  "evidence": "MacKillop 2008, s.v. 'Nuala'"
+ }
 }

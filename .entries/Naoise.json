@@ -1,0 +1,46 @@
+{
+ "name": "Naoise",
+ "text": "Naoise is the modern Irish spelling of Noísiu, the lover of Deirdre. The dictionary keeps his full story under that spelling and treats Naisi as a variant of it.",
+ "entities": [
+  {
+   "entity": "Naoise",
+   "type": "Person"
+  },
+  {
+   "entity": "Noísiu",
+   "type": "Person"
+  },
+  {
+   "entity": "Deirdre",
+   "type": "Person"
+  },
+  {
+   "entity": "Naisi",
+   "type": "Person"
+  }
+ ],
+ "attributes": [
+  {
+   "entity": "Naoise",
+   "attribute": "modern spelling of Noísiu"
+  },
+  {
+   "entity": "Naoise",
+   "attribute": "name of the lover of Deirdre"
+  }
+ ],
+ "sources": [
+  "MacKillop 2008, s.v. 'Naoise'"
+ ],
+ "image": [],
+ "cyphertext": "",
+ "salt": "",
+ "okr": {
+  "objective": "Documents Naoise as recorded in MacKillop 2008 for the Public Celtic Encyclopedia.",
+  "key_results": [
+   "Naoise is the modern spelling of Noísiu.",
+   "He is the lover of Deirdre in the dictionary's routing."
+  ],
+  "evidence": "MacKillop 2008, s.v. Naoise."
+ }
+}

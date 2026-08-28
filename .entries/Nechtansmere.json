@@ -1,0 +1,51 @@
+{
+ "name": "Nechtansmere",
+ "text": "Nechtansmere, also called Dun of Nechtan, is the site where the Picts broke a Northumbrian army in 685, a win that let King Unuist take back lost ground. Scottish Gaelic knows the spot as Linn Garan, the pool of the crane, and tradition identifies it with the ruin at Dunnichen or Dunnechain near Forfar in Tayside. MacKillop derives the name from Nechtan the historical Pictish king who had adopted Roman church ways a generation before the battle.",
+ "entities": [
+  {
+   "entity": "Nechtansmere",
+   "type": "Place"
+  },
+  {
+   "entity": "Unuist",
+   "type": "Person"
+  },
+  {
+   "entity": "Nechtan",
+   "type": "Person"
+  },
+  {
+   "entity": "Forfar",
+   "type": "Place"
+  },
+  {
+   "entity": "Tayside",
+   "type": "Place"
+  }
+ ],
+ "attributes": [
+  {
+   "entity": "Nechtansmere",
+   "attribute": "site of the Pictish victory over the Northumbrians in 685"
+  },
+  {
+   "entity": "Nechtansmere",
+   "attribute": "name meaning Dun of Nechtan, identified with Dunnichen near Forfar"
+  }
+ ],
+ "sources": [
+  "MacKillop 2008, s.v. 'Nechtansmere'"
+ ],
+ "image": [],
+ "cyphertext": "",
+ "salt": "",
+ "okr": {
+  "objective": "Documents Nechtansmere as recorded in MacKillop 2008 for the Public Celtic Encyclopedia.",
+  "key_results": [
+   "Nechtansmere is the Dun of Nechtan, scene of a Pictish victory of 685.",
+   "King Unuist recovered lost territory after the battle.",
+   "The site is Linn Garan, the pool of the crane, at Dunnichen near Forfar."
+  ],
+  "evidence": "MacKillop 2008, s.v. Nechtansmere."
+ }
+}

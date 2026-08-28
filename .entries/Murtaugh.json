@@ -1,0 +1,42 @@
+{
+ "name": "Murtaugh",
+ "text": "Murtaugh is an anglicized spelling of the Irish male name Muirchertach, best known from the legendary high king Muirchertach mac Erca. Mortimer and Monty rank among the name's other English forms.",
+ "entities": [
+  {
+   "entity": "Murtaugh",
+   "type": "Person"
+  },
+  {
+   "entity": "Muirchertach",
+   "type": "Person"
+  },
+  {
+   "entity": "Muirchertach mac Erca",
+   "type": "Person"
+  }
+ ],
+ "attributes": [
+  {
+   "entity": "Murtaugh",
+   "attribute": "anglicization of the Irish name Muirchertach"
+  },
+  {
+   "entity": "Murtaugh",
+   "attribute": "form tied above all to Muirchertach mac Erca"
+  }
+ ],
+ "sources": [
+  "MacKillop 2008, s.v. 'Murtaugh'"
+ ],
+ "image": [],
+ "cyphertext": "",
+ "salt": "",
+ "okr": {
+  "objective": "Documents Murtaugh as recorded in MacKillop 2008 for the Public Celtic Encyclopedia.",
+  "key_results": [
+   "Murtaugh anglicizes the Irish male name Muirchertach.",
+   "Its most famous bearer is the high king Muirchertach mac Erca."
+  ],
+  "evidence": "MacKillop 2008, s.v. Murtaugh."
+ }
+}

@@ -1,0 +1,47 @@
+{
+  "name": "Parthanán",
+  "text": "Parthanán is the agricultural demon of Irish tradition, and MacKillop 2008 notes that the west of the country knows him best. The figure arrives at harvest time and threshes every stalk the field still holds, a personification of the loss farmers suffer when the last sheaves are not cut in time. The dictionary derives the name from Partholón, the chief of the second mythic invasion in the Lebor Gabála, so the demon preserves a shard of that culture hero's persona after his people's extinction. The main Partholón article records this afterlife directly, naming the thresher as the fragment of that invader's story which outlived the plague. In folk practice the figure serves as a warning attached to the harvest calendar, and place-lore in the western counties keeps the name alive. The entry belongs to the small set of Irish agricultural bogeys the dictionary records beside beings of the wider fairy population.",
+  "entities": [
+    {
+      "entity": "Parthanán",
+      "type": "Figure"
+    },
+    {
+      "entity": "Partholón",
+      "type": "Figure"
+    },
+    {
+      "entity": "Lebor Gabála",
+      "type": "Text"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Parthanán",
+      "attribute": "agricultural demon of the west of Ireland"
+    },
+    {
+      "entity": "Parthanán",
+      "attribute": "comes at harvest time to thresh grain left standing in the field"
+    },
+    {
+      "entity": "Parthanán",
+      "attribute": "name derived from Partholón, leader of the second mythic invasion"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Parthanán'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Documents Parthanán as recorded in MacKillop 2008 for the Public Celtic Encyclopedia.",
+    "key_results": [
+      "Parthanán is an agricultural demon known in the west of Ireland.",
+      "At harvest time he threshes every stalk of grain left standing.",
+      "The dictionary derives his name from the invader Partholón."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Parthanán' (corpus lines 35639-35642, 35678-35679)."
+  }
+}

@@ -1,64 +1,90 @@
 {
-  "name": "Mug Nuadat",
-  "attributes": [
-    {
-      "entity": "Mug Nuadat",
-      "attribute": "a name for a hero-king who ruled the south of Munster"
-    },
-    {
-      "entity": "Mug Nuadat",
-      "attribute": "fought a long war against Conn of the Hundred Battles"
-    },
-    {
-      "entity": "Mug Nuadat",
-      "attribute": "married Beare, the Spanish princess of a long peninsula"
-    },
-    {
-      "entity": "Mug Nuadat",
-      "attribute": "the founding name of the Eoganacht line"
-    }
-  ],
-  "entities": [
-    {
-      "entity": "Mug Nuadat",
-      "type": "Person"
-    },
-    {
-      "entity": "Eogan",
-      "type": "Person"
-    },
-    {
-      "entity": "Munster",
-      "type": "Place"
-    },
-    {
-      "entity": "Beare",
-      "type": "Person"
-    },
-    {
-      "entity": "Conn of the Hundred Battles",
-      "type": "Person"
-    },
-    {
-      "entity": "Eoganacht",
-      "type": "Group"
-    }
-  ],
-  "sources": [
-    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-  ],
-  "cyphertext": "ux667f1vtFQ11tQx1SBhf-46rFV0zuYyH8CrVsRgquYIbL0J49ooLf7Bdqh6dc6wWRDuq56osGLCvqnT98dh",
-  "salt": "JdvJkdnZ967KfckyEEfY1g==",
-  "text": "Mug Nuadat is an Irish name for a hero-king. The same man appears in the tales as Eógan, in his full form Eógan Mór. He ruled the south of Ireland, the province the tales call Munster. Old books make him the husband of the Spanish princess Beare, who gave her name to a long peninsula. In some accounts that princess hides an old goddess of the land. Eógan waged war without end against his rival Conn, the king who bore the name of the Hundred Battles. When Conn invaded his land, Eógan ran away to Spain. He came back to fight again. He was beaten again, and Conn killed him at last. His memory lived on as the founding name of the Eoganacht, the royal line that long ruled the south.",
-  "okr": {
-    "objective": "Document Mug Nuadat.",
-    "key_results": [
-      "Record the king of Munster and his wife Beare.",
-      "Record the long war with Conn of the Hundred Battles.",
-      "Record the Eoganacht line that he founded."
-    ],
-    "evidence": [
-      "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore (2008): Eogan entry."
-    ]
+ "name": "Mug Nuadat",
+ "cyphertext": "ux667f1vtFQ11tQx1SBhf-46rFV0zuYyH8CrVsRgquYIbL0J49ooLf7Bdqh6dc6wWRDuq56osGLCvqnT98dh",
+ "salt": "JdvJkdnZ967KfckyEEfY1g==",
+ "text": "Mug Nuadat is an Irish name for a hero-king, and the two words mean servant of Nuadu. The same man appears in the tales as Eógan, in his full form Eógan Mór. He ruled the south of Ireland, the province the tales call Munster. Old books make him the husband of the Spanish princess Beare, who gave her name to a long peninsula. In some accounts that princess hides an old goddess of the land. Eógan waged war without end against his rival Conn. That foe bore the name of the Hundred Battles. Stories say Eógan claimed all parts of Ireland lying south of Eiscir Riada. That ridge runs between Galway and Dublin. The southern region became known as Leth Moga, or Mug's half. The ridge drew a real line across the island between the two rivals. The tale of their war became a favorite of the storytellers. They loved the clash of names and factions. When Conn invaded his land, Eógan ran away to Spain. He came back to fight again. He was beaten again, and Conn killed him at last. In later generations the memory of that long struggle gave the south its own proud story of kingship. MacKillop treats Mug Nuadat as an alternative form of Eógan Mór of the Eóganacht. He records that the division of the island turned on the ridge. The royal line that long ruled the south traced its power back to his memory. So his death did not end the family that carried his name. The Eóganacht instead grew strong in the south for many generations after him. His title, meaning servant of Nuadu, links him to the old god. That name ties him to a time when gods still lent names to kings. Whatever the truth of the wars, the name Mug Nuadat marks a boundary and a bloodline. His story shaped the deep history of southern Ireland.",
+ "entities": [
+  {
+   "entity": "Mug Nuadat",
+   "type": "Person"
+  },
+  {
+   "entity": "Eogan",
+   "type": "Person"
+  },
+  {
+   "entity": "Munster",
+   "type": "Place"
+  },
+  {
+   "entity": "Beare",
+   "type": "Person"
+  },
+  {
+   "entity": "Conn of the Hundred Battles",
+   "type": "Person"
+  },
+  {
+   "entity": "Eoganacht",
+   "type": "Group"
+  },
+  {
+   "entity": "Nuada",
+   "type": "god"
+  },
+  {
+   "entity": "Eiscir Riada",
+   "type": "Place"
+  },
+  {
+   "entity": "Leth Moga",
+   "type": "Concept"
+  },
+  {
+   "entity": "Eógan Mór",
+   "type": "Person"
   }
+ ],
+ "attributes": [
+  {
+   "entity": "Mug Nuadat",
+   "attribute": "a name meaning servant of Nuadu, applied to a hero-king who ruled the south of Munster"
+  },
+  {
+   "entity": "Mug Nuadat",
+   "attribute": "an alternative form of Eógan Mór of the Eóganacht"
+  },
+  {
+   "entity": "Mug Nuadat",
+   "attribute": "fought a long war against Conn of the Hundred Battles"
+  },
+  {
+   "entity": "Mug Nuadat",
+   "attribute": "married Beare, the Spanish princess of a long peninsula"
+  },
+  {
+   "entity": "Mug Nuadat",
+   "attribute": "claimed the lands south of Eiscir Riada, known as Leth Moga or Mug's half"
+  },
+  {
+   "entity": "Eiscir Riada",
+   "attribute": "a ridge running between Galway and Dublin marking the southern boundary"
+  }
+ ],
+ "sources": [
+  "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.",
+  "MacKillop 2008, s.v. 'Mug Nuadat'"
+ ],
+ "okr": {
+  "objective": "Document Mug Nuadat.",
+  "key_results": [
+   "Record the king of Munster and his wife Beare.",
+   "Record the long war with Conn of the Hundred Battles.",
+   "Record the Eoganacht line that he founded.",
+   "Record Mug Nuadat as an alternative form of Eógan Mór and the region Leth Moga."
+  ],
+  "evidence": [
+   "MacKillop 2008, s.v. 'Mug Nuadat'"
+  ]
+ }
 }

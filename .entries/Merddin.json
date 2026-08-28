@@ -1,0 +1,38 @@
+{
+  "name": "Merddin",
+  "text": "Merddin is a variant spelling of Myrddin, the Welsh poet and prophet who fed the figure of Merlin in Arthurian tradition.",
+  "entities": [
+    {
+      "entity": "Merddin",
+      "type": "Person"
+    },
+    {
+      "entity": "Myrddin",
+      "type": "Person"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Merddin",
+      "attribute": "variant spelling of Myrddin"
+    },
+    {
+      "entity": "Merddin",
+      "attribute": "Welsh form behind the Arthurian Merlin figure"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Merddin'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Documents Merddin as recorded in MacKillop 2008 for the Public Celtic Encyclopedia.",
+    "key_results": [
+      "The entry is a spelling cross-reference to Myrddin.",
+      "Myrddin lies behind the Arthurian Merlin."
+    ],
+    "evidence": "MacKillop 2008, s.v. Merddin."
+  }
+}

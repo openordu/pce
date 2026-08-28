@@ -1,0 +1,46 @@
+{
+  "name": "Maine Mór mac Echach",
+  "text": "Maine Mór mac Echach is the purported founder of the Ui Maine, the tribe and family of the medieval west. Their lands lay in Galway and Roscommon. The dictionary records the claim of foundation without endorsement, and the patronymic mac Echach, son of Eochu, ties him to that genealogy.",
+  "entities": [
+    {
+      "entity": "Maine Mór mac Echach",
+      "type": "Person"
+    },
+    {
+      "entity": "Ui Maine",
+      "type": "Group"
+    },
+    {
+      "entity": "Galway",
+      "type": "Place"
+    },
+    {
+      "entity": "Roscommon",
+      "type": "Place"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Maine Mór mac Echach",
+      "attribute": "is the purported founder of the Ui Maine"
+    },
+    {
+      "entity": "Ui Maine",
+      "attribute": "held lands in medieval Galway and Roscommon"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Maine Mór mac Echach'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Records Maine Mor mac Echach as the claimed founder of the Ui Maine.",
+    "key_results": [
+      "Purported founder of the Ui Maine tribe",
+      "Ui Maine lands lay in Galway and Roscommon"
+    ],
+    "evidence": "MacKillop 2008, s.v. Maine Mór mac Echach."
+  }
+}

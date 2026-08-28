@@ -2,58 +2,71 @@
 layout: layouts/pce.njk
 title: Mac Cuill
 icon: file-lines
-order: 1510
+order: 3574
 contributors: [ 'Christopher Godwin' ]
 attributes:
-  - Mac Cuill Irish god
-  - Banba land goddess
-  - Mac Cuill husband of Banba
-  - Mac Cuill minor divinity
-  - Holly plant associated with winter
-  - Mac Cécht brother of Mac Cuill
-  - Mac Gréine brother of Mac Cuill
-  - Mac Cécht consort of one of the three important land goddesses
-  - Mac Gréine consort of one of the three important land goddesses
-  - Mac Cuill belonged to a trio of parallel gods
+  - Mac Cuill a king and warrior of the Tuatha Dé Danann
+  - Mac Cuill the first of the three brothers who kill Lug
+  - Mac Cuill the husband of the land goddess Banba
+  - Mac Cuill converted by Patrick and cast adrift in a boat
+  - Banba the land goddess who belongs to Mac Cuill
+  - Cermait the father of the brothers, killed by Lug
 categories:
-  - land goddess
-  - parallel god
-  - Irish god
+  - Person
+  - Place
+  - Group
+  - Deity
 entities:
-  - Mac Cuill(Irish god)
-  - Banba(land goddess)
-  - Mac Cécht(parallel god)
-  - Mac Gréine(parallel god)
+  - Mac Cuill(Person)
+  - Banba(Deity)
+  - Mac Cécht(Person)
+  - Mac Gréine(Person)
+  - Cermait(Person)
+  - Lug(Person)
+  - Tuatha Dé Danann(Group)
+  - Patrick(Person)
+  - Maughold(Person)
+  - Ireland(Place)
 tags:
   - Mac Cuill
   - Banba
   - Mac Cécht
   - Mac Gréine
+  - Cermait
+  - Lug
+  - Tuatha Dé Danann
+  - Patrick
+  - Maughold
+  - Ireland
 ---
 ``` tab [group1:Info]
 ::: magazinestyle
-Irish deity Mac Cuill, deemed as a minor divinity, was the spouse of land goddess Banba. His name literally meant "son of Holly," a plant symbolizing winter, which hints at his likely association with that season. Along with his brothers, Mac Cécht and Mac Gréine, who were also the partners of the remaining two significant land goddesses, he constituted a group of three gods who ran parallel to one another.
+Mac Cuill is a king and a warrior of the Tuatha Dé Danann. His name means the son of the hazel. He heads the trio of brothers who slew the great hero Lug Lámfhota. His siblings Mac Cécht and Mac Gréine shared in the deed. The three acted to avenge Cermait, their father, whom Lug had slain. Earlier his mother had been the wife of Cian, the father of Lug himself. MacKillop records Mac Cuill as husband to Banba, one embodiment of the land of Ireland. In Christian Irish writing he stands as a champion of the old belief against Saint Patrick. The Life of Patrick by Muirchú, set down in the seventh century, tells the tale. The saint, wielding the greater power, converted Mac Cuill to the new faith. As penance Patrick set him adrift in a skin boat without rudder or oar. The craft carried him to the Isle of Man, where he turned missionary. Out of this episode grew the person of the Manx saint Maughold.
+
 
 :::
 ```
 ``` tab [group1:Attributes]
-- **Mac Cuill**: Irish god
-- **Banba**: land goddess
-- **Mac Cuill**: husband of Banba
-- **Mac Cuill**: minor divinity
-- **Holly**: plant associated with winter
-- **Mac Cécht**: brother of Mac Cuill
-- **Mac Gréine**: brother of Mac Cuill
-- **Mac Cécht**: consort of one of the three important land goddesses
-- **Mac Gréine**: consort of one of the three important land goddesses
-- **Mac Cuill**: belonged to a trio of parallel gods
+- **Mac Cuill**: a king and warrior of the Tuatha Dé Danann
+- **Mac Cuill**: the first of the three brothers who kill Lug
+- **Mac Cuill**: the husband of the land goddess Banba
+- **Mac Cuill**: converted by Patrick and cast adrift in a boat
+- **Banba**: the land goddess who belongs to Mac Cuill
+- **Cermait**: the father of the brothers, killed by Lug
 ```
 ``` tab [group1:Entities]
-- **Mac Cuill**: Irish god
-- **Banba**: land goddess
-- **Mac Cécht**: parallel god
-- **Mac Gréine**: parallel god
+- **Mac Cuill**: Person
+- **Banba**: Deity
+- **Mac Cécht**: Person
+- **Mac Gréine**: Person
+- **Cermait**: Person
+- **Lug**: Person
+- **Tuatha Dé Danann**: Group
+- **Patrick**: Person
+- **Maughold**: Person
+- **Ireland**: Place
 ```
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
+- MacKillop 2008, s.v. 'Mac Cuill'
 ```

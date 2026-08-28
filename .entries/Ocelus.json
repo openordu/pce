@@ -1,42 +1,69 @@
 {
-  "name": "Ocelus",
-  "entities": [
-    {
-      "entity": "Ocelus",
-      "type": "god"
-    },
-    {
-      "entity": "Mars",
-      "type": "god"
-    }
-  ],
-  "attributes": [
-    {
-      "entity": "Ocelus",
-      "attribute": "Welsh and British god"
-    },
-    {
-      "entity": "Ocelus",
-      "attribute": "known from only a few inscriptions"
-    },
-    {
-      "entity": "Romans",
-      "attribute": "associated him with Mars"
-    }
-  ],
-  "sources": [
-    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-  ],
-  "cyphertext": "GCe2Kul7CNSp65MYqQ9ZX-xTpJMxPZfZLfJo5OUDratZw0HDdAmn9n60ZwtG2eW4tkGuhv1CZmwMApa_vAncp62rU5a2STURTB5DjWKoT5DtAv6pPXBxk-9vS6HrxmCwZhY_dbteekatUoWFZNJ9sfKlpqF_6BiQTidBs7cNwq9GWAiaDtMINpCFJ4ErfJ5Fdo6_uyRC_fU=",
-  "salt": "gjKt98cf-uhvIHKmjFU_0A==",
-  "text": "Ocelus was a Welsh and British god. The obscurity of this deity is complete, for only a few inscriptions name him. The Romans linked him with Mars.",
-  "okr": {
-    "objective": "Ocelus is an obscure god of Wales and Britain.",
-    "key_results": [
-      "Only a few inscriptions record his name.",
-      "The Romans connected him with Mars.",
-      "His myth and cult remain unknown."
-    ],
-    "evidence": "Monaghan, Encyclopedia of Celtic Mythology and Folklore"
+ "name": "Ocelus",
+ "cyphertext": "GCe2Kul7CNSp65MYqQ9ZX-xTpJMxPZfZLfJo5OUDratZw0HDdAmn9n60ZwtG2eW4tkGuhv1CZmwMApa_vAncp62rU5a2STURTB5DjWKoT5DtAv6pPXBxk-9vS6HrxmCwZhY_dbteekatUoWFZNJ9sfKlpqF_6BiQTidBs7cNwq9GWAiaDtMINpCFJ4ErfJ5Fdo6_uyRC_fU=",
+ "salt": "gjKt98cf-uhvIHKmjFU_0A==",
+ "text": "Ocelus was a Welsh and British god. The obscurity of this deity is complete, for only a few inscriptions name him. The Romans linked him with Mars. MacKillop gives the name in Latinized form and counts three known inscriptions, all from the Roman occupation. He reads Ocelus as presumably indigenous. The god is dearly linked to Mars. Twice the god's name works as a title for Mars. One inscription pairs that use with the epithet Lenus. Caerwent in Gwent keeps two of the recorded calls. Invokers named Ocelus there beside their Mars. A much-reduced statue survives there. Only two pairs of feet remain on it. One pair is human. The other pair belongs to a goose. The goose feet point to a cult image that once showed the god standing on or beside the bird. The Roman army carried his cult, for the inscribed stones are military in setting. Caerwent was the civitas capital of the Silures, so the worship there had a local British base. The pairing with Mars follows the regular Roman habit of equating native gods with their own.",
+ "entities": [
+  {
+   "entity": "Ocelus",
+   "type": "god"
+  },
+  {
+   "entity": "Mars",
+   "type": "god"
+  },
+  {
+   "entity": "Caerwent",
+   "type": "place"
+  },
+  {
+   "entity": "Gwent",
+   "type": "place"
+  },
+  {
+   "entity": "Silures",
+   "type": "group"
   }
+ ],
+ "attributes": [
+  {
+   "entity": "Ocelus",
+   "attribute": "Welsh and British god known only from inscriptions"
+  },
+  {
+   "entity": "Ocelus",
+   "attribute": "Latinized name of a presumably indigenous god"
+  },
+  {
+   "entity": "Ocelus",
+   "attribute": "linked with Mars, twice serving as his epithet"
+  },
+  {
+   "entity": "Ocelus",
+   "attribute": "invoked near Caerwent in Gwent"
+  },
+  {
+   "entity": "Ocelus",
+   "attribute": "surviving statue reduced to two pairs of feet, human and goose"
+  },
+  {
+   "entity": "Mars",
+   "attribute": "Roman divinity equated with Ocelus"
+  }
+ ],
+ "sources": [
+  "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.",
+  "MacKillop 2008, s.v. 'Ocelus'"
+ ],
+ "okr": {
+  "objective": "Ocelus is a little-known Welsh and British god whose cult survives only through Roman inscriptions linking him with Mars.",
+  "key_results": [
+   "The existing entry records a Welsh and British god so obscure that only a few inscriptions name him.",
+   "MacKillop counts three inscriptions from the Roman occupation and reads the god as presumably indigenous.",
+   "Ocelus serves twice as an epithet of Mars, once joined with the epithet Lenus.",
+   "He is invoked twice near Caerwent in Gwent.",
+   "A much-reduced statue there shows one human pair of feet and one belonging to a goose."
+  ],
+  "evidence": "Monaghan, Encyclopedia of Celtic Mythology and Folklore; MacKillop 2008, s.v. 'Ocelus'"
+ }
 }

@@ -1,0 +1,43 @@
+{
+ "name": "Nectan",
+ "text": "Nectan, also written Nichtan, is the historical seventh and eighth century Pictish king who converted to Christianity and adopted Roman law around 710. He invited Northumbrian architects into what is now Scotland and raised a shrine to house the relics then held as those of St Andrew, later grown into the university town that bears Andrew's name, and helped establish Andrew as Scotland's patron saint. The battle site Nechtansmere takes its name from him, and his Latin form Nechtan links him to the mythic waters figures of the same name.",
+ "entities": [
+  {
+   "entity": "Nectan",
+   "type": "Person"
+  },
+  {
+   "entity": "Nechtansmere",
+   "type": "Place"
+  },
+  {
+   "entity": "St Andrews",
+   "type": "Place"
+  }
+ ],
+ "attributes": [
+  {
+   "entity": "Nectan",
+   "attribute": "historical Pictish king who converted around 710 in MacKillop 2008"
+  },
+  {
+   "entity": "Nectan",
+   "attribute": "builder of the shrine over the relics of St Andrew at St Andrews"
+  }
+ ],
+ "sources": [
+  "MacKillop 2008, s.v. 'Nectan'"
+ ],
+ "image": [],
+ "cyphertext": "",
+ "salt": "",
+ "okr": {
+  "objective": "Documents Nectan as recorded in MacKillop 2008 for the Public Celtic Encyclopedia.",
+  "key_results": [
+   "Nectan is the Pictish king who converted and adopted Roman law c.710.",
+   "His Northumbrian architects raised the shrine over St Andrew's relics.",
+   "The victory site Nechtansmere is named for him."
+  ],
+  "evidence": "MacKillop 2008, s.v. Nectan."
+ }
+}

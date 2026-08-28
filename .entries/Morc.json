@@ -1,0 +1,42 @@
+{
+ "name": "Morc",
+ "text": "Morc is a Fomorian named in the roster of that hostile people of Irish story. The record keeps only one deed for him: he emigrated from Africa before the great battles of the Fomorians against the Tuatha Dé Danann.",
+ "entities": [
+  {
+   "entity": "Morc",
+   "type": "Being"
+  },
+  {
+   "entity": "Fomorians",
+   "type": "Group"
+  },
+  {
+   "entity": "Africa",
+   "type": "Place"
+  }
+ ],
+ "attributes": [
+  {
+   "entity": "Morc",
+   "attribute": "Fomorian figure named in the census of that race"
+  },
+  {
+   "entity": "Morc",
+   "attribute": "emigrant from Africa in Fomorian tradition"
+  }
+ ],
+ "sources": [
+  "MacKillop 2008, s.v. 'Morc' (within the Fomorians entry)"
+ ],
+ "image": [],
+ "cyphertext": "",
+ "salt": "",
+ "okr": {
+  "objective": "Documents Morc as recorded in MacKillop 2008 for the Public Celtic Encyclopedia.",
+  "key_results": [
+   "Morc is one of the often-cited Fomorians.",
+   "His single recorded deed is emigration from Africa."
+  ],
+  "evidence": "MacKillop 2008, s.v. Morc."
+ }
+}

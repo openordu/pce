@@ -1,64 +1,82 @@
 {
-  "name": "Morfran",
-  "attributes": [
-    {
-      "entity": "Morfran",
-      "attribute": "a Welsh god or hero and the son of Ceridwen, conceived ugly"
-    },
-    {
-      "entity": "Ceridwen",
-      "attribute": "brewed herbs to give her ugly son Morfran the world's wisdom"
-    },
-    {
-      "entity": "Gwion",
-      "attribute": "drank some of the brew by accident, absorbing the wisdom and drawing Ceridwen's wrath"
-    },
-    {
-      "entity": "Morfran",
-      "attribute": "escaped the battle of Camlan because everyone mistook him for a devil"
-    }
-  ],
-  "entities": [
-    {
-      "entity": "Morfran",
-      "type": "Person"
-    },
-    {
-      "entity": "Ceridwen",
-      "type": "Deity"
-    },
-    {
-      "entity": "Gwion",
-      "type": "Person"
-    },
-    {
-      "entity": "cauldron",
-      "type": "Artifact"
-    },
-    {
-      "entity": "Camlan",
-      "type": "Place"
-    },
-    {
-      "entity": "Afagddu",
-      "type": "Person"
-    }
-  ],
-  "sources": [
-    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-  ],
-  "cyphertext": "gFCzaunfHLtx6q9UjpqfWZQ2UInk7pQyuGmPBVIfWJeaa-XQ_haB9ZHYF0fGy07xr6miTFDztrszlhynEGK5Mxyw76m3Am5QCFogwroJPmEhOyMm3pJc1r6fP85i6s5v9tIV03Mkjxe66hUHLqDvXOgJrpnt2nCJ61bbP4KJN0KFuL5Hvv8i7CuVBXU6poFi1q4SD6gd6VyLJahyfz22-1gxbWyhmDjVI4MCn85kT7gR3HWk-WuvnQxCg5A_5utXe3bsg9NxiapIMO8z1dUdokqvswywI2Cb9Jtu39AVoue5N82Gw5uQ5Zg0OBBbv-KM30c5r4HvpA2lMz1EcM4Wzn3KQ1H6uXZ6bDqyskGP2C7bmFzUYv7w4YDlGAAkL3r7uLITGmhOhBtN7VlMqF2GB5hZCLkYvZm4E5QE2CsCe4LKCHd2_oPfYctudduBXTG4DzBlAa2WrHm5zkbJ13BHlSeF5RxwsMiMXWQEz3SLy_viq2X6l8Fl0kQPcadZQzjNZbSdlfn-rwn6CTlorz4AAAed1nVDI_oIZfj6VH2NK557DZ7GZJn3fXZiUwGGFeWQ5Qk_HRCbl33Wem4-FGnuDz39Tz4kLjaJUZ9V6RAm11oCTcxT7CwczRM92JEqicLXN4A3MwtUnUbRukgMCWJOIneVFOtzGH4fvtUEWoZLqTudFKpat_aa1y1l90TEDJxPrmLoqgmxaBb1-GTGW-Qv7WPBtqqWL7UGjdmqbdnWzkFdo-ET0EdNExQfr0fqmIPYxuqoRKrqmvVMMQncHxdVtMdFlDyK8iR0VBGMWYczRDcokHU97XikLUEvwRMn5dTWTNoJbY8NlbsvSXnbb6kFWs5vsNexrDYE110c9sUq2sOPQAAYvVft-qUqDgwFCQ2TONU=",
-  "salt": "eHI_Dt9L8b6ZlFyxmUVO4Q==",
-  "text": "Morfran, also called Morfran fab Tegid, was a Welsh god or hero. He was the son of the great goddess Ceridwen. He was an ugly child. To make up for this, his mother decided that he would become the world's wisest person. She began brewing a collection of herbs that would bring him wisdom. She set her servant boy Gwion to watch the cauldron. Gwion accidentally drank some of the brew. He absorbed the wisdom and brought down Ceridwen's wrath. Welsh myth says little more of Morfran. His ugliness finally proved useful when he escaped the battle of Camlan. Everyone mistook him for a devil. See Afagddu.",
-  "okr": {
-    "objective": "Document the Welsh figure Morfran and Ceridwen's cauldron.",
-    "key_results": [
-      "Record Morfran as Ceridwen's ugly son destined to gain wisdom.",
-      "Record Gwion's accidental drink of the brew and its consequence.",
-      "Record Morfran's escape from Camlan because he was mistaken for a devil."
-    ],
-    "evidence": [
-      "Monaghan, P. The Encyclopedia of Celtic Mythology and Folklore (2008): Morfran entry, p. 338."
-    ]
+ "name": "Morfran",
+ "cyphertext": "gFCzaunfHLtx6q9UjpqfWZQ2UInk7pQyuGmPBVIfWJeaa-XQ_haB9ZHYF0fGy07xr6miTFDztrszlhynEGK5Mxyw76m3Am5QCFogwroJPmEhOyMm3pJc1r6fP85i6s5v9tIV03Mkjxe66hUHLqDvXOgJrpnt2nCJ61bbP4KJN0KFuL5Hvv8i7CuVBXU6poFi1q4SD6gd6VyLJahyfz22-1gxbWyhmDjVI4MCn85kT7gR3HWk-WuvnQxCg5A_5utXe3bsg9NxiapIMO8z1dUdokqvswywI2Cb9Jtu39AVoue5N82Gw5uQ5Zg0OBBbv-KM30c5r4HvpA2lMz1EcM4Wzn3KQ1H6uXZ6bDqyskGP2C7bmFzUYv7w4YDlGAAkL3r7uLITGmhOhBtN7VlMqF2GB5hZCLkYvZm4E5QE2CsCe4LKCHd2_oPfYctudduBXTG4DzBlAa2WrHm5zkbJ13BHlSeF5RxwsMiMXWQEz3SLy_viq2X6l8Fl0kQPcadZQzjNZbSdlfn-rwn6CTlorz4AAAed1nVDI_oIZfj6VH2NK557DZ7GZJn3fXZiUwGGFeWQ5Qk_HRCbl33Wem4-FGnuDz39Tz4kLjaJUZ9V6RAm11oCTcxT7CwczRM92JEqicLXN4A3MwtUnUbRukgMCWJOIneVFOtzGH4fvtUEWoZLqTudFKpat_aa1y1l90TEDJxPrmLoqgmxaBb1-GTGW-Qv7WPBtqqWL7UGjdmqbdnWzkFdo-ET0EdNExQfr0fqmIPYxuqoRKrqmvVMMQncHxdVtMdFlDyK8iR0VBGMWYczRDcokHU97XikLUEvwRMn5dTWTNoJbY8NlbsvSXnbb6kFWs5vsNexrDYE110c9sUq2sOPQAAYvVft-qUqDgwFCQ2TONU=",
+ "salt": "eHI_Dt9L8b6ZlFyxmUVO4Q==",
+ "text": "Morfran, also written Morvran, was a Welsh god or hero. The name means great crow or sea crow. He was the son of Tegid Foel and the great goddess Ceridwen. His mother hoped to grant him the power of poetic inspiration, yet he was hideously ugly. To make up for his looks she began brewing a collection of herbs that would bring him wisdom. She set her servant boy Gwion to watch the cauldron. Gwion, later to become the poet Taliesin, accidentally drank some of the brew. He absorbed the wisdom and drew down Ceridwen's wrath. The gift meant for Morfran thus passed into another hand. The cauldron itself would later grow famous in verse as a vessel of knowledge. Gwion, transformed in the chase that followed, came at last to a new life as the great poet Taliesin. So the boy who guarded the pot became the singer who carried its secrets. The story keeps the same cast across its versions, though the roles shift with each telling. Welsh myth otherwise says little of Morfran. Sources also call him Y Fagddu, or Afagddu, a name meaning utter darkness. That title points to his black looks and the fears they stirred in others. Morfran also appears as a warrior in Welsh Arthuriana. No warrior would strike him in battle, fearing he might be the devil. His ugliness proved useful at the battle of Camlan, where everyone mistook him for a devil and let him escape. In the crowded field of Camlan his strange face became a kind of shield. So a quality that seemed a curse kept him alive when others fell. In later retellings the meaning of his names stayed linked to darkness and the crow. MacKillop points readers to Rachel Bromwich, Trioedd Ynys Prydain. The revised edition came out at Cardiff in 1978. See Afagddu.",
+ "entities": [
+  {
+   "entity": "Morfran",
+   "type": "Person"
+  },
+  {
+   "entity": "Ceridwen",
+   "type": "Deity"
+  },
+  {
+   "entity": "Gwion",
+   "type": "Person"
+  },
+  {
+   "entity": "cauldron",
+   "type": "Artifact"
+  },
+  {
+   "entity": "Camlan",
+   "type": "Place"
+  },
+  {
+   "entity": "Afagddu",
+   "type": "Person"
+  },
+  {
+   "entity": "Tegid Foel",
+   "type": "Deity"
+  },
+  {
+   "entity": "Taliesin",
+   "type": "Person"
   }
+ ],
+ "attributes": [
+  {
+   "entity": "Morfran",
+   "attribute": "a Welsh god or hero and the son of Ceridwen, conceived hideously ugly"
+  },
+  {
+   "entity": "Morfran",
+   "attribute": "also called Morvran, a name meaning great crow or sea crow"
+  },
+  {
+   "entity": "Ceridwen",
+   "attribute": "brewed herbs to give her ugly son Morfran the world's wisdom"
+  },
+  {
+   "entity": "Gwion",
+   "attribute": "drank some of the brew by accident, absorbing the wisdom and drawing Ceridwen's wrath"
+  },
+  {
+   "entity": "Morfran",
+   "attribute": "escaped the battle of Camlan because everyone mistook him for a devil"
+  },
+  {
+   "entity": "Morfran",
+   "attribute": "also a warrior in Welsh Arthuriana whom opponents would not strike"
+  }
+ ],
+ "sources": [
+  "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.",
+  "MacKillop 2008, s.v. 'Morfran'"
+ ],
+ "okr": {
+  "objective": "Document the Welsh figure Morfran and Ceridwen's cauldron.",
+  "key_results": [
+   "Record Morfran as Ceridwen's ugly son destined to gain wisdom.",
+   "Record Gwion's accidental drink of the brew and its consequence.",
+   "Record Morfran's escape from Camlan because he was mistaken for a devil.",
+   "Record his alternative names Morvran, Y Fagddu, and Afagddu."
+  ],
+  "evidence": [
+   "MacKillop 2008, s.v. 'Morfran'"
+  ]
+ }
 }

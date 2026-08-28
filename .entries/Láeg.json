@@ -1,49 +1,55 @@
 {
  "name": "Láeg",
- "attributes": [
-  {
-   "entity": "Laeg",
-   "attribute": "the chariot-driver of Cuchulainn"
-  },
-  {
-   "entity": "Laeg",
-   "attribute": "an Irish hero of Ulster"
-  },
-  {
-   "entity": "Laeg",
-   "attribute": "died to save his master from a spear"
-  }
+ "image": [
+  "https://upload.wikimedia.org/wikipedia/commons/7/72/Cuinbattle.jpg"
  ],
+ "cyphertext": "uSj8C39Mkku36BUHMNHApNyIy-6m7PHfxaXOyRLP1Ud6lL5GSlkp9dlHNwc-XKKYFjlyw4NbzlcI4l2Soa2duvI-WexzHqQ024Kv4pvhkx6pIuM_712XgqbNLYuHE8vAn7ZHUAYKhrJpUyOWRk21qeRP1u75KQPpCAfu5cXlK0uoadXx9SahBOdlrf-18XTHdEdwaBlWMhUwOqspw6aM-TA6unmirMXtiRnCGV0xansu12i-WQ==",
+ "salt": "Ur_MSq9IUClx0xiRAhNzKw==",
+ "text": "Láeg, also written Laeg or Loeg, served the hero Cuchulainn. He drove the hero's chariot, and he acted as his friend and his messenger. When Lugaid mac Con Roi flung a spear meant for Cuchulainn, Láeg took the blow instead. The weapon killed him, and he gave his life for his lord. He joined the guard and the service of the great hero of Ulster. He met his end because he stood ready to shield his master. His loyalty to Cuchulainn marked the whole of his career in the tales of the Ulster cycle.",
  "entities": [
   {
    "entity": "Láeg",
    "type": "Person"
   },
   {
-   "entity": "Láeg",
+   "entity": "Cuchulainn",
    "type": "Person"
   },
   {
+   "entity": "Lugaid mac Con Roi",
+   "type": "Person"
+  }
+ ],
+ "attributes": [
+  {
    "entity": "Láeg",
-   "type": "Place"
+   "attribute": "the chariot-driver of Cuchulainn"
+  },
+  {
+   "entity": "Láeg",
+   "attribute": "the friend and messenger of Cuchulainn"
+  },
+  {
+   "entity": "Láeg",
+   "attribute": "killed by a spear meant for his master"
+  },
+  {
+   "entity": "Lugaid mac Con Roi",
+   "attribute": "the warrior who threw the fatal spear"
   }
  ],
  "sources": [
-  "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+  "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.",
+  "MacKillop 2008, s.v. 'Láeg'"
  ],
- "image": [
-  "https://upload.wikimedia.org/wikipedia/commons/7/72/Cuinbattle.jpg"
- ],
- "cyphertext": "uSj8C39Mkku36BUHMNHApNyIy-6m7PHfxaXOyRLP1Ud6lL5GSlkp9dlHNwc-XKKYFjlyw4NbzlcI4l2Soa2duvI-WexzHqQ024Kv4pvhkx6pIuM_712XgqbNLYuHE8vAn7ZHUAYKhrJpUyOWRk21qeRP1u75KQPpCAfu5cXlK0uoadXx9SahBOdlrf-18XTHdEdwaBlWMhUwOqspw6aM-TA6unmirMXtiRnCGV0xansu12i-WQ==",
- "salt": "Ur_MSq9IUClx0xiRAhNzKw==",
- "text": "Láeg, also written Laeg or Loeg, drove the chariot of the hero Cuchulainn. He served the great hero of Ulster. Láeg saved his master by taking a spear that was aimed at him. He gave his life for his lord.",
  "okr": {
   "objective": "Record the chariot-driver Laeg and his service to Cuchulainn.",
   "key_results": [
-   "Laeg drove the chariot of Cuchulainn",
-   "He served the great hero of Ulster",
-   "He took a spear meant for his master"
+   "Record Láeg as charioteer, friend, and messenger to Cuchulainn",
+   "Record that Lugaid mac Con Roi threw the spear",
+   "Record that the spear was meant for Cuchulainn",
+   "Record his death in the service of his master"
   ],
-  "evidence": "Monaghan, The Encyclopedia of Celtic Mythology and Folklore, 2003."
+  "evidence": "MacKillop 2008, s.v. 'Láeg'"
  }
 }

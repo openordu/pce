@@ -1,0 +1,38 @@
+{
+  "name": "Láegaire",
+  "text": "Láegaire is a variant spelling of Lóegaire. MacKillop 2008 also lists Laoghaire and Laeghire among the forms of that name. Readers should follow the cross-reference to Lóegaire, which receives the main treatment.",
+  "entities": [
+    {
+      "entity": "Láegaire",
+      "type": "Person"
+    },
+    {
+      "entity": "Lóegaire",
+      "type": "Person"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Láegaire",
+      "attribute": "variant spelling, with Laoghaire and Laeghire, of the name Lóegaire"
+    },
+    {
+      "entity": "Láegaire",
+      "attribute": "given no independent article by MacKillop 2008"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Láegaire'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Cross-references the spelling Láegaire and its variants to the main entry, Lóegaire.",
+    "key_results": [
+      "Laoghaire and Laeghire are recorded as further spellings of the same name",
+      "Lóegaire itself has no node yet and awaits a later batch"
+    ],
+    "evidence": "MacKillop 2008, s.v. Láegaire."
+  }
+}

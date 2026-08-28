@@ -1,0 +1,73 @@
+{
+  "name": "Lúin",
+  "text": "Lúin ranks among the celebrated weapons of early Irish literature. Its name comes from Old Irish lúin, meaning lance. The weapon belonged most often to the Ulster warrior Celtchair. Lúin demanded blood. To quench its thirst, keepers dipped it from time to time in a cauldron of black fluid or poison. Without that bath the shaft caught fire. Mac Cécht uses Lúin to kill Cúscraid, son of Concobar. The slanderer Dubthach Dóeltenga borrowed the spear for the conflict remembered as Cath Maige Tuired, the Second Battle of Mag Tuired, but he lost it soon after. The weapon's habits made it feared by friend and foe alike. A blade that burns its own bearer unless bathed marks the edge of Irish heroic weaponry, where a prize and a danger arrive in the same shaft.",
+  "entities": [
+    {
+      "entity": "Lúin",
+      "type": "Being"
+    },
+    {
+      "entity": "Celtchair",
+      "type": "Person"
+    },
+    {
+      "entity": "Mac Cécht",
+      "type": "Person"
+    },
+    {
+      "entity": "Cúscraid",
+      "type": "Person"
+    },
+    {
+      "entity": "Dubthach Dóeltenga",
+      "type": "Person"
+    },
+    {
+      "entity": "Mag Tuired",
+      "type": "Place"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Lúin",
+      "attribute": "Old Irish lúin, lance"
+    },
+    {
+      "entity": "Lúin",
+      "attribute": "most often owned by Celtchair"
+    },
+    {
+      "entity": "Lúin",
+      "attribute": "required dipping in black fluid or poison to stay quenched"
+    },
+    {
+      "entity": "Lúin",
+      "attribute": "shaft burst into flame without the bath"
+    },
+    {
+      "entity": "Mac Cécht",
+      "attribute": "used Lúin to kill Cúscraid"
+    },
+    {
+      "entity": "Dubthach Dóeltenga",
+      "attribute": "borrowed Lúin for Cath Maige Tuired and lost it"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Lúin'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Documents Lúin, the bloodthirsty spear of early Irish literature, and its keepers.",
+    "key_results": [
+      "The name derives from Old Irish lúin, lance",
+      "Celtchair owned the spear most often",
+      "The shaft flamed unless dipped in black fluid or poison",
+      "Mac Cécht killed Cúscraid with it",
+      "Dubthach Dóeltenga borrowed it for Cath Maige Tuired and lost it"
+    ],
+    "evidence": "MacKillop 2008, s.v. Lúin."
+  }
+}

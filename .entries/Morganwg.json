@@ -1,0 +1,38 @@
+{
+ "name": "Morganwg",
+ "text": "Morganwg is the spelling of the name carried by Iolo Morganwg, the Welsh literary figure of the late 18th and early 19th centuries. The dictionary routes readers who seek him to his own article under that name.",
+ "entities": [
+  {
+   "entity": "Morganwg",
+   "type": "Person"
+  },
+  {
+   "entity": "Iolo Morganwg",
+   "type": "Person"
+  }
+ ],
+ "attributes": [
+  {
+   "entity": "Morganwg",
+   "attribute": "spelling used in the name of Iolo Morganwg"
+  },
+  {
+   "entity": "Morganwg",
+   "attribute": "dictionary cross-reference to the Iolo Morganwg article"
+  }
+ ],
+ "sources": [
+  "MacKillop 2008, s.v. 'Morganwg, Iolo'"
+ ],
+ "image": [],
+ "cyphertext": "",
+ "salt": "",
+ "okr": {
+  "objective": "Documents Morganwg as recorded in MacKillop 2008 for the Public Celtic Encyclopedia.",
+  "key_results": [
+   "Morganwg appears as the surname element of Iolo Morganwg.",
+   "The dictionary sends readers to the Iolo Morganwg article."
+  ],
+  "evidence": "MacKillop 2008, s.v. Morganwg, Iolo."
+ }
+}

@@ -1,55 +1,69 @@
 {
-  "name": "Nabelcus",
-  "attributes": [
-    {
-      "entity": "Nabelcus",
-      "attribute": "Continental Celtic god"
-    },
-    {
-      "entity": "Nabelcus",
-      "attribute": "obscure divinity"
-    },
-    {
-      "entity": "Vaucluse",
-      "attribute": "associated with Nabelcus"
-    },
-    {
-      "entity": "Mars",
-      "attribute": "Roman warrior god linked to Nabelcus"
-    }
-  ],
-  "entities": [
-    {
-      "entity": "Nabelcus",
-      "type": "god"
-    },
-    {
-      "entity": "Vaucluse",
-      "type": "location"
-    },
-    {
-      "entity": "France",
-      "type": "location"
-    },
-    {
-      "entity": "Mars",
-      "type": "god"
-    }
-  ],
-  "sources": [
-    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-  ],
-  "cyphertext": "rsyC9zfm3HADeP-21M7_ETjJjGm7DO5nACGg3zDn4tohyoBausffO293GIk54WsIcjcKqT7kdBwqjkK8xk3kr67Z7Lphr1v-oCEcQOaid36qtxTNePddsFcNZ6WMZ2ds3XH3q2E5K2QGNYxTbIWyAIp8PZpeIR1oDWLn6edondp3AsyQ4RwpVbBLZkbsErwHRmAYsPrVGt4_KaA8jCMrMzV8D6Iwy82lNihDxh_0Ngzgpoc=",
-  "salt": "95BUAAxFvVQnBYRIuUNuDg==",
-  "text": "Nabelcus was a Continental Celtic god. He came from the Vaucluse region of France. The Romans linked this obscure divinity with their warrior god Mars. Few other details about him survive.",
-  "okr": {
-    "objective": "Nabelcus is a Continental Celtic god from the Vaucluse region of France.",
-    "key_results": [
-      "Nabelcus is a Continental Celtic god.",
-      "He comes from the Vaucluse region of France.",
-      "The Romans linked him with the god Mars.",
-      "Only sparse details of this obscure divinity survive."
-    ],
-    "evidence": "Monaghan, Encyclopedia of Celtic Mythology and Folklore"
+ "name": "Nabelcus",
+ "cyphertext": "rsyC9zfm3HADeP-21M7_ETjJjGm7DO5nACGg3zDn4tohyoBausffO293GIk54WsIcjcKqT7kdBwqjkK8xk3kr67Z7Lphr1v-oCEcQOaid36qtxTNePddsFcNZ6WMZ2ds3XH3q2E5K2QGNYxTbIWyAIp8PZpeIR1oDWLn6edondp3AsyQ4RwpVbBLZkbsErwHRmAYsPrVGt4_KaA8jCMrMzV8D6Iwy82lNihDxh_0Ngzgpoc=",
+ "salt": "95BUAAxFvVQnBYRIuUNuDg==",
+ "text": "Nabelcus is a god known to history mainly as a title of the Gaulish Mars. The people of Roman Gaul held many local deities that lacked a single Roman name. Worshippers and officials often pressed these resident gods into a familiar Roman frame. This practice in later study gained the name interpretatio Romana. A native power thus wore the cloak of a Roman god in everyday devotion. Nabelcus stands as one such byname laid over the god Mars. Gaul once carried many local Mars names across its old provinces. Nabelcus surfaces in the region of Vaucluse in southern France. That land lay within the old Roman province of Narbonensis. Local people raised altars and paid vows to this local Mars. Their prayers used the native name that we now record. The full literal sense of Nabelcus stays hard to fix. Some readers join the word with a root for power or strength. Others treat it as a title drawn from a named place. The surviving evidence settles on no single certain meaning. We know the god only through rare marks and one short note. The roll of his cult remains very slight indeed. Roman rule over Gaul stretched across several centuries. Within that long age native names kept mixing with Roman forms. Nabelcus therefore stands for a much wider habit of that period. He shows how a local god kept a voice inside a foreign system. Thin records mean we can add little beyond this sketch to him. Every altar that survives adds one small stone to his tale. The name itself records a meeting of two religious worlds. A single study from the nineteen sixties calls him to mind. That essay set Mars Nabelcus beside another title, mars albiorex. Scholars still turn to that old paper when they name him. The tribute to him is slight but it has never faded. He rests as a footnote in the long roll of Celtic gods.",
+ "entities": [
+  {
+   "entity": "Nabelcus",
+   "type": "god"
+  },
+  {
+   "entity": "Mars",
+   "type": "god"
+  },
+  {
+   "entity": "Albiorex",
+   "type": "god"
+  },
+  {
+   "entity": "Vaucluse",
+   "type": "region"
+  },
+  {
+   "entity": "Narbonensis",
+   "type": "region"
+  },
+  {
+   "entity": "Gaul",
+   "type": "region"
   }
+ ],
+ "attributes": [
+  {
+   "entity": "Nabelcus",
+   "attribute": "a Gaulish title of Mars"
+  },
+  {
+   "entity": "Nabelcus",
+   "attribute": "found in the Vaucluse region of southern France"
+  },
+  {
+   "entity": "Nabelcus",
+   "attribute": "an example of interpretatio romana"
+  },
+  {
+   "entity": "Mars",
+   "attribute": "Roman god who absorbed the native title Nabelcus"
+  },
+  {
+   "entity": "Albiorex",
+   "attribute": "another Mars title studied beside Nabelcus"
+  }
+ ],
+ "sources": [
+  "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.",
+  "MacKillop 2008, s.v. 'Nabelcus'",
+  "Barroul, G. 'Mars Nabelcus et Mars Albiorex', Ogam 15 (1963), 343-68."
+ ],
+ "okr": {
+  "objective": "Nabelcus is a Gaulish epithet of the Roman god Mars.",
+  "key_results": [
+   "Nabelcus appears as a title of Mars in the region of Vaucluse.",
+   "The name is a case of interpretatio romana.",
+   "Records of his cult are few and date from Roman Gaul.",
+   "A 1963 study links the title with Mars Albiorex."
+  ],
+  "evidence": "MacKillop 2008, s.v. 'Nabelcus'"
+ }
 }

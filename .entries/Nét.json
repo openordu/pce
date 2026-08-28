@@ -1,67 +1,102 @@
 {
-  "name": "Nét",
-  "sources": [
-    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-  ],
-  "cyphertext": "zVU-SPHy_SLrIAPI-K8IW0UwO2C_YNIL9sA69SDHj2WAUDBGgs-g6mf7JHq_6ZVfx-a8PyVRqq5J5y1fqVzBAr-5cy_crb0vDJCNBgSVee1Pmp01miIxJ9DTJmn577M7MXFetLFP8KAGHnF9WCTLoxv-6xRyUxwKv4utdpmMUPPJMRIuGuECCY7p9TQpPLjy6z-Civep8TXaVf0tBGACp0LAqRggR57Nt9cIjDECkiU_7Ffad34Ztuku5dRwgkbQEha7cAlSXL1irLW2QVxlSydX3TPXvCVdlFVOuvi7nQP0zWDD5oDyEh_hio1HD1Ar0dvTps1n7ePi0rmxkj0g6DyRKtoHc65zqR1C4aO53hGBbzRt-iS45-cu7mWYC4psRn0gsC0l7Uz_pi70wFgCeradzKgML7NG-OZdO6zgIDGcS1oWcgUyiTfKcHOmLhT3oZvjk-tq1P5nAlhLyi58TVcJMhgyH5THVNdbb6rshaiSDCK3pjj2xGIXtZu3ZNS2hjSIzNqW46x13uMzenDE50yiLEpgdWyY-yozg6WSuMVpr7ImmUGxjEsB6NckwzZRCjjtEoJ2-p0GABuHKMQ4I7gT1DYNRMw4gQ5FZHG4UOKwhFoCZfPY-2yUMjU1FCTuim6iDKQ72JpFv8b4khNhvJvOd5ZRVeun8Sng_U96Ykhfn4-IJtnhJp3m38yRSqk-JCOgJSTDpppqP5op07BIFY44TjKFoXIQy0e8ENfNMFVCyWdF_ln6_ztmh4YPYTX0r_jMcaZSH1t3MfoDF7FdpPC8rau5ZIhjZo8UrDA-RkTJRkPAxjkKREJcbE1LJQ7aqe_0YTbWPTZ--S3Il58Iwa-FksrB2HuGNgIqEVEpR2TetHnh1CGm95vaUqKcg5Re1zzUfZEhRw8YeNrbdgXC_AEk-HslSicsWUuWnE32-2Y7hi4neTH-EIf3_sClgVKm1erdf9FnP73_ScF1_XAG533cHRACpEbCADY5EYfsdAioV_mQff4glE1YMwI=",
-  "salt": "NJLBcE_XAVMPNi873BffvA==",
-  "text": "Net, also written Neit, is an obscure Irish god. He is remembered solely as the partner of the war goddess Nemain. From that tie he is seen as a war god. He might equal Nemed, who was married to Macha. The accounts clash: some name him a Fomorian, and others count him among the Tuatha De Danann.",
-  "entities": [
-    {
-      "entity": "Net",
-      "type": "god"
-    },
-    {
-      "entity": "Nemain",
-      "type": "god"
-    },
-    {
-      "entity": "Nemed",
-      "type": "god"
-    },
-    {
-      "entity": "Macha",
-      "type": "god"
-    },
-    {
-      "entity": "Fomorians",
-      "type": "group"
-    },
-    {
-      "entity": "Tuatha De Danann",
-      "type": "group"
-    }
-  ],
-  "attributes": [
-    {
-      "entity": "Net",
-      "attribute": "an obscure Irish god, the mate of Nemain"
-    },
-    {
-      "entity": "Nemain",
-      "attribute": "a war goddess and mate of Net"
-    },
-    {
-      "entity": "Net",
-      "attribute": "presumed to be a god of war"
-    },
-    {
-      "entity": "Net",
-      "attribute": "may be the same figure as Nemed, husband of Macha"
-    },
-    {
-      "entity": "Net",
-      "attribute": "named a Fomorian in some tales and a Tuatha De Danann in others"
-    }
-  ],
-  "okr": {
-    "objective": "Net is an obscure Irish god known as the mate of the war goddess Nemain.",
-    "key_results": [
-      "Net is known only as the mate of the war goddess Nemain.",
-      "From that tie he is presumed to be a god of war.",
-      "He may be the same figure as Nemed, the husband of Macha.",
-      "Some legends call him a Fomorian and others a Tuatha De Danann."
-    ],
-    "evidence": "Monaghan, Encyclopedia of Celtic Mythology and Folklore"
+ "name": "Nét",
+ "cyphertext": "zVU-SPHy_SLrIAPI-K8IW0UwO2C_YNIL9sA69SDHj2WAUDBGgs-g6mf7JHq_6ZVfx-a8PyVRqq5J5y1fqVzBAr-5cy_crb0vDJCNBgSVee1Pmp01miIxJ9DTJmn577M7MXFetLFP8KAGHnF9WCTLoxv-6xRyUxwKv4utdpmMUPPJMRIuGuECCY7p9TQpPLjy6z-Civep8TXaVf0tBGACp0LAqRggR57Nt9cIjDECkiU_7Ffad34Ztuku5dRwgkbQEha7cAlSXL1irLW2QVxlSydX3TPXvCVdlFVOuvi7nQP0zWDD5oDyEh_hio1HD1Ar0dvTps1n7ePi0rmxkj0g6DyRKtoHc65zqR1C4aO53hGBbzRt-iS45-cu7mWYC4psRn0gsC0l7Uz_pi70wFgCeradzKgML7NG-OZdO6zgIDGcS1oWcgUyiTfKcHOmLhT3oZvjk-tq1P5nAlhLyi58TVcJMhgyH5THVNdbb6rshaiSDCK3pjj2xGIXtZu3ZNS2hjSIzNqW46x13uMzenDE50yiLEpgdWyY-yozg6WSuMVpr7ImmUGxjEsB6NckwzZRCjjtEoJ2-p0GABuHKMQ4I7gT1DYNRMw4gQ5FZHG4UOKwhFoCZfPY-2yUMjU1FCTuim6iDKQ72JpFv8b4khNhvJvOd5ZRVeun8Sng_U96Ykhfn4-IJtnhJp3m38yRSqk-JCOgJSTDpppqP5op07BIFY44TjKFoXIQy0e8ENfNMFVCyWdF_ln6_ztmh4YPYTX0r_jMcaZSH1t3MfoDF7FdpPC8rau5ZIhjZo8UrDA-RkTJRkPAxjkKREJcbE1LJQ7aqe_0YTbWPTZ--S3Il58Iwa-FksrB2HuGNgIqEVEpR2TetHnh1CGm95vaUqKcg5Re1zzUfZEhRw8YeNrbdgXC_AEk-HslSicsWUuWnE32-2Y7hi4neTH-EIf3_sClgVKm1erdf9FnP73_ScF1_XAG533cHRACpEbCADY5EYfsdAioV_mQff4glE1YMwI=",
+ "salt": "NJLBcE_XAVMPNi873BffvA==",
+ "text": "Nét is the headword form, also spelled Net and Neit. MacKillop adds the variant Neith. He calls Nét a shadowy early god of war. The existing entry remembers Nét solely as the partner of the war goddess Nemain. From that tie it reads Nét as a war god. MacKillop groups Nét often with the Fomorians. Two consorts, the goddesses Badb and Nemain, are usually assigned to Nét. That pairing does not make him an adulterer. Nét may be married to either one. One partner's identity can slide across to her rival, or onto Nét himself. MacKillop adds two grandsons, Balor and Goibniu. The two took opposite sides in the fighting at Mag Tuired. That battle is the Second Battle, in the old count. T. F. O'Rahilly traced both figures back to ideas about the sun. Balor and Goibniu might in the end be one. Although a divinity, Nét is killed at Mag Tuired. The existing entry reports a clash of accounts. Some name Nét a Fomorian, and others count him among the Tuatha De Danann. The MacKillop note on Fomorian leanings fits that split. Badb and Nemain are both battle goddesses. Their shared husband reads as a war power even where the record stays thin. The death at Mag Tuired marks Nét among the casualties of that epochal battle.",
+ "entities": [
+  {
+   "entity": "Net",
+   "type": "god"
+  },
+  {
+   "entity": "Nemain",
+   "type": "god"
+  },
+  {
+   "entity": "Nemed",
+   "type": "god"
+  },
+  {
+   "entity": "Macha",
+   "type": "god"
+  },
+  {
+   "entity": "Fomorians",
+   "type": "group"
+  },
+  {
+   "entity": "Tuatha De Danann",
+   "type": "group"
+  },
+  {
+   "entity": "Badb",
+   "type": "god"
+  },
+  {
+   "entity": "Balor",
+   "type": "god"
+  },
+  {
+   "entity": "Goibniu",
+   "type": "god"
+  },
+  {
+   "entity": "Mag Tuired",
+   "type": "place"
   }
+ ],
+ "attributes": [
+  {
+   "entity": "Net",
+   "attribute": "obscure Irish god of war"
+  },
+  {
+   "entity": "Net",
+   "attribute": "remembered as the partner of the war goddess Nemain"
+  },
+  {
+   "entity": "Net",
+   "attribute": "often grouped with the Fomorians"
+  },
+  {
+   "entity": "Net",
+   "attribute": "portrayed with two consorts, Badb and Nemain"
+  },
+  {
+   "entity": "Net",
+   "attribute": "killed at Mag Tuired despite being a divinity"
+  },
+  {
+   "entity": "Net",
+   "attribute": "grandfather of Balor and Goibniu"
+  },
+  {
+   "entity": "Badb",
+   "attribute": "consort of Net"
+  },
+  {
+   "entity": "Balor",
+   "attribute": "grandson of Net, fought at Mag Tuired"
+  },
+  {
+   "entity": "Goibniu",
+   "attribute": "grandson of Net, opposite side at Mag Tuired"
+  }
+ ],
+ "sources": [
+  "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.",
+  "MacKillop 2008, s.v. 'Nét'"
+ ],
+ "okr": {
+  "objective": "Net is a shadowy early Irish god of war whose thin record ties him to the battle goddesses Badb and Nemain and to the battle of Mag Tuired.",
+  "key_results": [
+   "The existing entry knows Net solely as the partner of Nemain and reads him as a war god.",
+   "Some accounts name him a Fomorian, others count him among the Tuatha De Danann.",
+   "MacKillop records two consorts, Badb and Nemain, with the identity of one drifting to the other.",
+   "MacKillop gives him two grandsons, Balor and Goibniu, on opposite sides at Mag Tuired.",
+   "O'Rahilly thought Balor and Goibniu both derive from solar conceptions and may be identical.",
+   "Although a divinity, Net is killed at Mag Tuired."
+  ],
+  "evidence": "Monaghan, Encyclopedia of Celtic Mythology and Folklore; MacKillop 2008, s.v. 'Nét'"
+ }
 }

@@ -1,0 +1,67 @@
+{
+  "name": "Maponos",
+  "text": "Maponos, Latinized as Maponus, is a Celtic god honoured across Roman Britain, his name meaning the divine youth or great son. His powers centre on music and poetry. His cult stood chiefly in the north of Britain, where a shrine at Chesterholm in Northumberland carries the inscription Deo Mapono, to the god Maponos. His name turns up on inscriptions in present-day France as well, possibly those of Chamalieres in Gaul.\n\nThe god is linked with Gaulish Apollo, above all Apollo Citharoedus, the harper or cithern-player. Most commentators hold that the Welsh divine youth Mabon grew out of Maponos. Patrick K. Ford argued in 1977 that Maponos and Pryderi are, for practical purposes, the same deity. Eric Hamp argued further that the word Mabinogi should truly be glossed as the material held in common about the god Maponos.\n\nIrish tradition equates the god with Angus Og, especially where that figure carries patronymics such as Mac Og, Mac Oc, Mac-ind-Oc, and Macc Oc. Maponos probably fed the Arthurian pair Mabuz and Mabongrain as well. Ford's 1977 study of the Mabinogi remains the standard entry point.",
+  "entities": [
+    {
+      "entity": "Maponos",
+      "type": "Deity"
+    },
+    {
+      "entity": "Mabon",
+      "type": "Deity"
+    },
+    {
+      "entity": "Pryderi",
+      "type": "Person"
+    },
+    {
+      "entity": "Angus Og",
+      "type": "Deity"
+    },
+    {
+      "entity": "Apollo",
+      "type": "Deity"
+    },
+    {
+      "entity": "Mabinogi",
+      "type": "Text"
+    },
+    {
+      "entity": "Chesterholm",
+      "type": "Place"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Maponos",
+      "attribute": "is the Celtic god of divine youth worshipped in Roman Britain"
+    },
+    {
+      "entity": "Maponos",
+      "attribute": "is linked with music and poetry as Apollo Citharoedus"
+    },
+    {
+      "entity": "Mabon",
+      "attribute": "grew, by scholarly consensus, out of Maponos"
+    },
+    {
+      "entity": "Angus Og",
+      "attribute": "is equated with Maponos under the Mac Oc patronymics"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Maponos'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Documents Maponos as the Romano-British divine-youth god.",
+    "key_results": [
+      "Name means divine youth or great son; linked with music and poetry",
+      "Cult centred on north Britain; shrine at Chesterholm",
+      "Feeds the conceptions of Mabon, Pryderi, and Angus Og"
+    ],
+    "evidence": "MacKillop 2008, s.v. Maponos."
+  }
+}

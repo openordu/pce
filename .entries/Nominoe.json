@@ -1,0 +1,63 @@
+{
+ "name": "Nominoë",
+ "text": "Nominoë was a real ninth-century Breton chief and king whom the nationalism of the nineteenth century recast as the maker of the Breton nation, as MacKillop 2008 tells it. Of modest origin, he was spotted by Charlemagne, who appointed him Count of Vannes in south-eastern Brittany. Under Louis the Pious he rose to Duke of Brittany in 826 and, once Louis died, spent ten years drawing all the Bretons together. His pressure on Charles the Bald in 845 won recognition of Breton independence within borders that stood until 1790. The dictionary closes with his afterlife in song: a ballad in La Villemarque's Barzaz Breiz of 1839 carries his story, in inverted commas around the word translated, the collection whose borrowings later scholarship has famously questioned.",
+ "entities": [
+  {
+   "entity": "Nominoë",
+   "type": "Person"
+  },
+  {
+   "entity": "Charlemagne",
+   "type": "Person"
+  },
+  {
+   "entity": "Vannes",
+   "type": "Place"
+  },
+  {
+   "entity": "Louis the Pious",
+   "type": "Person"
+  },
+  {
+   "entity": "Charles the Bald",
+   "type": "Person"
+  },
+  {
+   "entity": "La Villemarqué",
+   "type": "Person"
+  },
+  {
+   "entity": "Barzaz Breiz",
+   "type": "Text"
+  }
+ ],
+ "attributes": [
+  {
+   "entity": "Nominoë",
+   "attribute": "ninth-century Breton chief made Count of Vannes by Charlemagne"
+  },
+  {
+   "entity": "Nominoë",
+   "attribute": "Duke of Brittany from 826; forced Charles the Bald to recognize Breton independence in 845"
+  },
+  {
+   "entity": "Nominoë",
+   "attribute": "subject of a Barzaz Breiz ballad translated by La Villemarqué"
+  }
+ ],
+ "sources": [
+  "MacKillop 2008, s.v. 'Nominoë'"
+ ],
+ "image": [],
+ "cyphertext": "",
+ "salt": "",
+ "okr": {
+  "objective": "Documents Nominoë as recorded in MacKillop 2008 for the Public Celtic Encyclopedia.",
+  "key_results": [
+   "Nominoë was a real ninth-century Breton ruler, later nationalized by myth.",
+   "He won Breton independence from Charles the Bald in 845.",
+   "A Barzaz Breiz ballad carried his fame into the romantic century."
+  ],
+  "evidence": "MacKillop 2008, s.v. Nominoë."
+ }
+}

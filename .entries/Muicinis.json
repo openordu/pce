@@ -1,0 +1,42 @@
+{
+ "name": "Muicinis",
+ "text": "Muicinis is a name meaning pig island. Geoffrey Keating applies it to Ireland in his 17th-century history of the country.",
+ "entities": [
+  {
+   "entity": "Muicinis",
+   "type": "Place"
+  },
+  {
+   "entity": "Ireland",
+   "type": "Place"
+  },
+  {
+   "entity": "Keating",
+   "type": "Person"
+  }
+ ],
+ "attributes": [
+  {
+   "entity": "Muicinis",
+   "attribute": "name meaning pig island"
+  },
+  {
+   "entity": "Muicinis",
+   "attribute": "name for Ireland in Keating's 17th-century history"
+  }
+ ],
+ "sources": [
+  "MacKillop 2008, s.v. 'Muicinis'"
+ ],
+ "image": [],
+ "cyphertext": "",
+ "salt": "",
+ "okr": {
+  "objective": "Documents Muicinis as recorded in MacKillop 2008 for the Public Celtic Encyclopedia.",
+  "key_results": [
+   "Muicinis means pig island.",
+   "Keating's 17th-century history uses it as a name for Ireland."
+  ],
+  "evidence": "MacKillop 2008, s.v. Muicinis."
+ }
+}

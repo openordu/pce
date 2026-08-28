@@ -1,0 +1,67 @@
+{
+ "name": "Mungo",
+ "text": "Mungo is the familiar name of St Kentigern, patron saint of Glasgow, who died in 603. He served as an early bishop in Strathclyde, and many legends gathered around him. Tradition counts him a grandson of Urien of Rheged and a kinsman of King Arthur; his mother was Thenaw, a Christian and a daughter of King Lot of Lothian. She and the child survived two attempts on their lives, once drifting to safety in a coracle. A famous tale has Kentigern catch a salmon which had swallowed the king's thrown ring, and the fish and ring still figure in Glasgow's arms. He is said to have baptized Merlin, to have spread the faith in Cumbria, and to have established the Welsh see of Llanelwy, now St Asaph. His feast-day falls on 14 January.",
+ "entities": [
+  {
+   "entity": "Mungo",
+   "type": "Person"
+  },
+  {
+   "entity": "Kentigern",
+   "type": "Person"
+  },
+  {
+   "entity": "Glasgow",
+   "type": "Place"
+  },
+  {
+   "entity": "Strathclyde",
+   "type": "Place"
+  },
+  {
+   "entity": "Urien of Rheged",
+   "type": "Person"
+  },
+  {
+   "entity": "Arthur",
+   "type": "Person"
+  },
+  {
+   "entity": "Thenaw",
+   "type": "Person"
+  },
+  {
+   "entity": "Merlin",
+   "type": "Person"
+  }
+ ],
+ "attributes": [
+  {
+   "entity": "Mungo",
+   "attribute": "familiar name of St Kentigern, patron saint of Glasgow"
+  },
+  {
+   "entity": "Mungo",
+   "attribute": "name of an early bishop of Strathclyde who died in 603"
+  },
+  {
+   "entity": "Mungo",
+   "attribute": "figure of the salmon-and-ring legend kept in Glasgow's arms"
+  }
+ ],
+ "sources": [
+  "MacKillop 2008, s.v. 'Mungo'"
+ ],
+ "image": [],
+ "cyphertext": "",
+ "salt": "",
+ "okr": {
+  "objective": "Documents Mungo as recorded in MacKillop 2008 for the Public Celtic Encyclopedia.",
+  "key_results": [
+   "Mungo is the better-known name of St Kentigern, patron saint of Glasgow.",
+   "Legend ties him to Urien of Rheged's line and to King Arthur's kin.",
+   "The salmon that swallowed the queen's ring links him to Glasgow's arms."
+  ],
+  "evidence": "MacKillop 2008, s.v. Mungo."
+ }
+}

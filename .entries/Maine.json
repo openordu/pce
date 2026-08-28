@@ -1,105 +1,147 @@
 {
-  "name": "Maine",
-  "entities": [
-    {
-      "entity": "Medb",
-      "type": "Person"
-    },
-    {
-      "entity": "Connacht",
-      "type": "Place"
-    },
-    {
-      "entity": "Ailill mac Máta",
-      "type": "Person"
-    },
-    {
-      "entity": "Concobar mac Nessa",
-      "type": "Person"
-    },
-    {
-      "entity": "Ulster",
-      "type": "Place"
-    },
-    {
-      "entity": "Maine Mórghor",
-      "type": "Person"
-    },
-    {
-      "entity": "Fearbh",
-      "type": "Person"
-    },
-    {
-      "entity": "Gearg",
-      "type": "Person"
-    },
-    {
-      "entity": "Otherworld",
-      "type": "Concept"
-    },
-    {
-      "entity": "Noísiu",
-      "type": "Person"
-    },
-    {
-      "entity": "Deirdre",
-      "type": "Person"
-    }
-  ],
-  "attributes": [
-    {
-      "entity": "Maine",
-      "attribute": "a name held by the seven identical sons of Medb and Ailill mac Máta"
-    },
-    {
-      "entity": "Medb",
-      "attribute": "the queen of Connacht who wished for the death of Concobar mac Nessa"
-    },
-    {
-      "entity": "Concobar mac Nessa",
-      "attribute": "the king of Ulster whom a druid prophesied a Maine would kill"
-    },
-    {
-      "entity": "Maine Mórghor",
-      "attribute": "a Maine first named Sin, slain at Gearg's home while courting Fearbh"
-    },
-    {
-      "entity": "Fearbh",
-      "attribute": "the maiden, daughter of Gearg, whom Maine Mórghor went to court"
-    },
-    {
-      "entity": "Gearg",
-      "attribute": "the host slain at his own home together with Maine Mórghor"
-    },
-    {
-      "entity": "Noísiu",
-      "attribute": "the errant hero who fell to a Maine's sword when he returned with Deirdre"
-    },
-    {
-      "entity": "Deirdre",
-      "attribute": "the doomed beauty who returned to Ireland with Noísiu"
-    }
-  ],
-  "sources": [
-    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-  ],
-  "image": [
-    "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Flag_of_the_State_of_Maine.svg/1200px-Flag_of_the_State_of_Maine.svg.png"
-  ],
-  "cyphertext": "tVEN-VijRSm6rHo1u5JTCpKdnEk49rf9pHgKw_0Y7A6vRkn3X1Ibpt728tGBduDTT3TzXUW7SOy1J7Y6evKz9b0DkFux98Zp3BmmDuKo3o4qGxbbk2kFz6omRzoP7h7csHAt91tipQRgrn3Xu697mYwLu-_QmHZw73oZf2CvVo8lrfKHB2YPViWrZJ-Owroeee8AQnnH0p-ZWJ2dISyxGcEwqkJ02VvYNm0-yF7nkULb_cBhpSOhHpcK5Oq2fqpJsYMTdmZsbR5CFC6Rt2TxUgV2ePYADdNy0NzyV-xM3mqm9zF61-Z_hinCcjM-vtdaova6yllivaGAyDuTnGbBVDcDftFI-eeor_5gQu4yKkHMYfNW-y8bPljDDaE9yWXR237VxpQC0YwWBKJhc0DMf-LBYrdWaDmvpIzcUMhLNXWAcQz-tfj6F56uLvZn6rtROmBQu--7fjJwP5m7eD85Hqgdjg7oXh_nYc91EN6qFnu_8lrrMuoLgv6f95NfszFm9ebBiv-cJpiUmWlF5pCIHsuTf8hiJfLJkDrPzBcbUWhoTFY_s4MGBaQ2yh1stSKJr6gWaYfTzcDusF5RFAnyDTanQCuITep52geGPTcxkF8Sjym4dCEVkbTRHo7OncIukZ5R7GK8tETX7IH4AQm5xSmlu8gczlP9F3vDUaLyxr7UMerN0lpMbaRydSZUYRLKU72Ey3Z0y9irydDw_k5TUthNogoXJbSwAJfpHJKkaxATx5pRCsu43WJD0liStCuxdilTzktHNao12XQuXX8mBr8gm755kMZg5TafO_61gNjATsXQ_rYO3cuvmpcGVPDFm3gbwkABD04l8iSV51R3f3E8Azrx_sqLdlnDbvzIHfOpdTKVX4xMax25MIpsIf_52KWKrkYc3UZA8NSlJ3mMKztlqTaLfemcNh4AljA3o8GHAPrvfPyOPjK-V_li33F7AtVJAjr_8cdUTk3smNBzYj1bxuNoSPF7ldHNA-OflEghYt4ksPOhFPy-JUgS2BKECYbgA9FOm9zh9uxfyxoaQ9rSjdfZ2fY1irHV0jml_0wNSHHt7I88m-pazP4rFfBLogQBd4qN8AB2pjos0-ieDpLVdPA952hW5lnkm4cKk2lfTFguhBJ4s5UyXrzXRHunu8d2ux8ZHcod6-C1JXi5OA4XEMP81tbXTsXSyVCBEB8dW1alF2vmw9txQ6pvWTxBnd0k0zeCaNWZF6KBFBbDEC2tGY5qFqumVTM5iDe0b8eI1JODFes9nFU4XiLOpsP3yw8ofAZtmy9meCcn6q68FFFVHxIqDcOoUnaORTZXbAhp0IwzHFLtTrjMFHHS89sLKeTmaUDXXy1o3eStjO7NOAj08KQkqXJyaL10RCKc79zHNPL3RJhFhZw2tpbf2LEdj4VZYAmj9xR0jmEpAmGBnFE4MqYxkUVtBc2zorY8JMK4hYu_MC4Pw2eODq7bqmzDgkBrzMCf9-JLxD7H55o-26c496XJXvX28vnqPtL-qXau9Mw11m7sBCXlZQ==",
-  "salt": "qjoQzMxlWZDPtlHK0dOHqA==",
-  "text": "The Maines were minor Irish heroes. They were the seven identically named sons of queen Medb of Connacht and king Ailill mac Máta. A legend says Medb wished for the death of her enemy, king Concobar mac Nessa of Ulster. A druid prophesied that her son Maine would kill him. Medb had no sons of that name, so she renamed them all. One of the Maines, first called Sin and later Maine Mórghor, went with a band of warriors to Ulster to court the maiden Fearbh, daughter of Gearg. A sudden wind blew up, which Maine's druid warned was a bad omen. A woman of the Otherworld appeared to Concobar and led him to Gearg's home. There the host and Maine Mórghor were slain. Medb had a vision of the events but arrived too late to save her son. Another hero of the same name was a Norse prince who served king Concobar. When the errant hero Noísiu returned to Ireland with the doomed Deirdre, Noísiu fell to Maine's sword.",
-  "okr": {
-    "objective": "Document the Maines, the seven identical sons of Medb of Connacht.",
-    "key_results": [
-      "Record the seven sons and their parentage.",
-      "Record the prophecy that a Maine would kill Concobar mac Nessa.",
-      "Record the slaying of Maine Mórghor at Gearg's home.",
-      "Record the Norse prince Maine who killed Noísiu."
-    ],
-    "evidence": [
-      "Monaghan, P. The Encyclopedia of Celtic Mythology and Folklore (2008): Maine entry, p. 309.",
-      "Koch, J. T. Encyclopedia of Celtic Culture (2006): no separate entry for these Maines."
-    ]
+ "name": "Maine",
+ "image": [
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Flag_of_the_State_of_Maine.svg/1200px-Flag_of_the_State_of_Maine.svg.png"
+ ],
+ "cyphertext": "tVEN-VijRSm6rHo1u5JTCpKdnEk49rf9pHgKw_0Y7A6vRkn3X1Ibpt728tGBduDTT3TzXUW7SOy1J7Y6evKz9b0DkFux98Zp3BmmDuKo3o4qGxbbk2kFz6omRzoP7h7csHAt91tipQRgrn3Xu697mYwLu-_QmHZw73oZf2CvVo8lrfKHB2YPViWrZJ-Owroeee8AQnnH0p-ZWJ2dISyxGcEwqkJ02VvYNm0-yF7nkULb_cBhpSOhHpcK5Oq2fqpJsYMTdmZsbR5CFC6Rt2TxUgV2ePYADdNy0NzyV-xM3mqm9zF61-Z_hinCcjM-vtdaova6yllivaGAyDuTnGbBVDcDftFI-eeor_5gQu4yKkHMYfNW-y8bPljDDaE9yWXR237VxpQC0YwWBKJhc0DMf-LBYrdWaDmvpIzcUMhLNXWAcQz-tfj6F56uLvZn6rtROmBQu--7fjJwP5m7eD85Hqgdjg7oXh_nYc91EN6qFnu_8lrrMuoLgv6f95NfszFm9ebBiv-cJpiUmWlF5pCIHsuTf8hiJfLJkDrPzBcbUWhoTFY_s4MGBaQ2yh1stSKJr6gWaYfTzcDusF5RFAnyDTanQCuITep52geGPTcxkF8Sjym4dCEVkbTRHo7OncIukZ5R7GK8tETX7IH4AQm5xSmlu8gczlP9F3vDUaLyxr7UMerN0lpMbaRydSZUYRLKU72Ey3Z0y9irydDw_k5TUthNogoXJbSwAJfpHJKkaxATx5pRCsu43WJD0liStCuxdilTzktHNao12XQuXX8mBr8gm755kMZg5TafO_61gNjATsXQ_rYO3cuvmpcGVPDFm3gbwkABD04l8iSV51R3f3E8Azrx_sqLdlnDbvzIHfOpdTKVX4xMax25MIpsIf_52KWKrkYc3UZA8NSlJ3mMKztlqTaLfemcNh4AljA3o8GHAPrvfPyOPjK-V_li33F7AtVJAjr_8cdUTk3smNBzYj1bxuNoSPF7ldHNA-OflEghYt4ksPOhFPy-JUgS2BKECYbgA9FOm9zh9uxfyxoaQ9rSjdfZ2fY1irHV0jml_0wNSHHt7I88m-pazP4rFfBLogQBd4qN8AB2pjos0-ieDpLVdPA952hW5lnkm4cKk2lfTFguhBJ4s5UyXrzXRHunu8d2ux8ZHcod6-C1JXi5OA4XEMP81tbXTsXSyVCBEB8dW1alF2vmw9txQ6pvWTxBnd0k0zeCaNWZF6KBFBbDEC2tGY5qFqumVTM5iDe0b8eI1JODFes9nFU4XiLOpsP3yw8ofAZtmy9meCcn6q68FFFVHxIqDcOoUnaORTZXbAhp0IwzHFLtTrjMFHHS89sLKeTmaUDXXy1o3eStjO7NOAj08KQkqXJyaL10RCKc79zHNPL3RJhFhZw2tpbf2LEdj4VZYAmj9xR0jmEpAmGBnFE4MqYxkUVtBc2zorY8JMK4hYu_MC4Pw2eODq7bqmzDgkBrzMCf9-JLxD7H55o-26c496XJXvX28vnqPtL-qXau9Mw11m7sBCXlZQ==",
+ "salt": "qjoQzMxlWZDPtlHK0dOHqA==",
+ "text": "Maine, also written Maini in the plural and Mane in English, is a name carried by many people in early Irish story. Most of them were legendary warriors, founders of dynasties, or saints. The best known are the seven sons of the queen Medb and her husband Ailill. A druid warned the queen that a son of that name would kill her enemy Conchobar. The seven were already born, so the parents renamed them all Maine. Each might add an agnomen such as Maine Andai. The brothers sometimes blur into one another and their name wanders into other tales. Yet no figure named Maine slew Conchobar mac Nessa. The prophecy in fact fit a different Conchobar, a son of an Arthur of Britain, and Maine Andai did kill him. A later redactor may have misread his sources. One Maine, first called Sin and later Maine Mórghor, courted the maiden Fearbh with a band of warriors. His druid saw a bad omen in a rising wind. A woman of the Otherworld led Conchobar to the tryst, where the whole host fell. Later the Maini appear as outlaws bound to the pirate Ingcél, raiding Britain and entering Ireland in the sack of Da Derga's hostel. Elsewhere in the Ulster stories they serve as Medb's men. A son of Conchobar also bore the name and fell to Dubthach. A Norse prince called Maine killed Noísiu in some tellings of the Deirdre tale in revenge for the slaying of his kin. Another Maine fought in the Fianna of Fionn. Maine Mílbél the honey-mouth was a Munster hero, and Maine Mór mac Echach founded the Uí Maine of Galway and Roscommon.\n",
+ "entities": [
+  {
+   "entity": "Maine",
+   "type": "Person"
+  },
+  {
+   "entity": "Medb",
+   "type": "Person"
+  },
+  {
+   "entity": "Ailill mac Máta",
+   "type": "Person"
+  },
+  {
+   "entity": "Conchobar mac Nessa",
+   "type": "Person"
+  },
+  {
+   "entity": "Maine Andai",
+   "type": "Person"
+  },
+  {
+   "entity": "Maine Mórghor",
+   "type": "Person"
+  },
+  {
+   "entity": "Fearbh",
+   "type": "Person"
+  },
+  {
+   "entity": "Gearg",
+   "type": "Person"
+  },
+  {
+   "entity": "Ingcél Cáech",
+   "type": "Person"
+  },
+  {
+   "entity": "Dubthach Dóeltenga",
+   "type": "Person"
+  },
+  {
+   "entity": "Noísiu",
+   "type": "Person"
+  },
+  {
+   "entity": "Fionn mac Cumhaill",
+   "type": "Person"
+  },
+  {
+   "entity": "Maine Mílbél",
+   "type": "Person"
+  },
+  {
+   "entity": "Maine Mór mac Echach",
+   "type": "Person"
+  },
+  {
+   "entity": "Connacht",
+   "type": "Place"
+  },
+  {
+   "entity": "Ulster",
+   "type": "Place"
+  },
+  {
+   "entity": "Munster",
+   "type": "Place"
+  },
+  {
+   "entity": "Galway",
+   "type": "Place"
+  },
+  {
+   "entity": "Roscommon",
+   "type": "Place"
+  },
+  {
+   "entity": "Uí Maine",
+   "type": "Group"
+  },
+  {
+   "entity": "Fianna",
+   "type": "Group"
+  },
+  {
+   "entity": "Otherworld",
+   "type": "Concept"
+  },
+  {
+   "entity": "Destruction of Da Derga's Hostel",
+   "type": "Artifact"
   }
+ ],
+ "attributes": [
+  {
+   "entity": "Maine",
+   "attribute": "a name borne by countless figures in early Ireland, including warriors, dynasty founders, and a saint"
+  },
+  {
+   "entity": "Maine",
+   "attribute": "the name given to all seven identical sons of Medb and Ailill mac Máta"
+  },
+  {
+   "entity": "Medb",
+   "attribute": "the queen of Connacht who renamed her seven sons Maine to satisfy a druid's prophecy"
+  },
+  {
+   "entity": "Maine Andai",
+   "attribute": "a Maine who killed the other Conchobar, the son of an Arthur of Britain"
+  },
+  {
+   "entity": "Maine Mórghor",
+   "attribute": "a Maine, first named Sin, slain at Gearg's home while courting Fearbh"
+  },
+  {
+   "entity": "Ingcél Cáech",
+   "attribute": "the pirate whom the outlaw Maini joined in marauding and in invading Ireland"
+  },
+  {
+   "entity": "Noísiu",
+   "attribute": "the hero killed by the Norse prince Maine in a variant of the Deirdre story"
+  }
+ ],
+ "sources": [
+  "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.",
+  "MacKillop 2008, s.v. 'Maine'"
+ ],
+ "okr": {
+  "objective": "Document the many Maines, especially the seven identical sons of Medb and Ailill.",
+  "key_results": [
+   "Record the naming of the seven sons and the druid's prophecy.",
+   "Record Maine Andai and the mistaken Conchobar whose death met the prophecy.",
+   "Record the Maine Mórghor tale and the outlaw Maini with Ingcél Cáech.",
+   "Record the other Maines and the Munster and Uí Maine founders."
+  ],
+  "evidence": "Monaghan 2008, s.v. 'Maine'; MacKillop 2008, s.v. 'Maine'."
+ }
 }

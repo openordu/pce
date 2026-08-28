@@ -2,44 +2,62 @@
 layout: layouts/pce.njk
 title: Olwen
 icon: file-lines
-order: 1788
+order: 2094
 contributors: [ 'Christopher Godwin' ]
 attributes:
-  - Yspaddaden placed 13 obstacles
-  - Kulhwch path
-  - Olwen assistance
-  - hero won her hand
+  - Olwen Welsh heroine
+  - Olwen daughter of the giant Yspaddaden Penkawr
+  - Yspaddaden Penkawr giant father of Olwen
+  - Kulhwch her suitor in the tale
+  - Olwen name from Welsh ol (footprint, track) and (g)wen (white)
+  - Olwen beloved of Culhwch in MacKillop's account
+  - Ysbaddaden father of Olwen, MacKillop's spelling of Yspaddaden Penkawr
+  - Culhwch Olwen's beloved, MacKillop's spelling of Kulhwch
 categories:
-  - person
-entities:
-  - Yspaddaden(person)
-  - Kulhwch(person)
-  - Olwen(person)
-  - hero(person)
-tags:
-  - Yspaddaden
-  - Kulhwch
-  - Olwen
+  - mythological figure
   - hero
+  - event
+  - Person
+entities:
+  - Olwen(mythological figure)
+  - Yspaddaden Penkawr(mythological figure)
+  - Kulhwch(hero)
+  - Kulhwch and Olwen(event)
+  - Ysbaddaden(Person)
+  - Culhwch(Person)
+tags:
+  - Olwen
+  - Yspaddaden Penkawr
+  - Kulhwch
+  - Kulhwch and Olwen
+  - Ysbaddaden
+  - Culhwch
 ---
 ``` tab [group1:Info]
 ::: magazinestyle
-The focal point of the Welsh narrative of Kulhwch And Olwen is the Welsh heroine or goddess named Olwen. She is believed to have descended from an earlier goddess and there is evidence to suggest that she was a Sun goddess originally. Olwen's name, which means “leaving white footprints” or “golden wheel”, her red-gold necklace and numerous golden rings, her flowing yellow hair, and her ability to produce white flowers with each step all strongly indicate her connection with the Sun. Kulhwch, the hero of the tale, sought to marry her. However, her father, Yspaddaden Penkawr (“giant hawthorn tree”), refused to permit the match as he believed it would prove to be his downfall. (This is an analogous theme to the story of Balor of the Evil Eye, his daughter Eithne, and Cian, the hero who sought to court Eithne in the seemingly comparable Irish narrative.) Yspaddaden placed 13 obstacles (which are thought to possibly represent the 13 lunar months) in Kulhwch’s path. But with Olwen's aid, the hero overcame these obstacles and won her hand in marriage.
+Olwen is a Welsh heroine. The existing entry, drawn from Monaghan, makes her the daughter of the giant Yspaddaden Penkawr. It places her at the center of the tale Kulhwch and Olwen. There her suitor Kulhwch must win her from her giant father. MacKillop 2008 adds a Welsh etymology. The element ol means footprint or track. The element (g)wen means white. MacKillop spells the father Ysbaddaden and the suitor Culhwch. He records the same two family ties. Olwen is Ysbaddaden's daughter, and Culhwch is her beloved. Ysbaddaden and Culhwch are the MacKillop forms of the names the existing entry spells Yspaddaden Penkawr and Kulhwch. The two sources differ on spelling, and this entry keeps both sets. They agree on the core shape of the figure. She is a giant's daughter. Her suitor must earn her. Her name joins the track she leaves with the color white.
 
 :::
 ```
 ``` tab [group1:Attributes]
-- **Yspaddaden**: placed 13 obstacles
-- **Kulhwch**: path
-- **Olwen**: assistance
-- **hero**: won her hand
+- **Olwen**: Welsh heroine
+- **Olwen**: daughter of the giant Yspaddaden Penkawr
+- **Yspaddaden Penkawr**: giant father of Olwen
+- **Kulhwch**: her suitor in the tale
+- **Olwen**: name from Welsh ol (footprint, track) and (g)wen (white)
+- **Olwen**: beloved of Culhwch in MacKillop's account
+- **Ysbaddaden**: father of Olwen, MacKillop's spelling of Yspaddaden Penkawr
+- **Culhwch**: Olwen's beloved, MacKillop's spelling of Kulhwch
 ```
 ``` tab [group1:Entities]
-- **Yspaddaden**: person
-- **Kulhwch**: person
-- **Olwen**: person
-- **hero**: person
+- **Olwen**: mythological figure
+- **Yspaddaden Penkawr**: mythological figure
+- **Kulhwch**: hero
+- **Kulhwch and Olwen**: event
+- **Ysbaddaden**: Person
+- **Culhwch**: Person
 ```
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
+- MacKillop 2008, s.v. 'Olwen'
 ```

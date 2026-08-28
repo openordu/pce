@@ -1,79 +1,235 @@
 {
-  "name": "Ogma",
-  "entities": [
-    {
-      "entity": "Ogma",
-      "type": "god"
-    },
-    {
-      "entity": "Milesians",
-      "type": "group"
-    },
-    {
-      "entity": "Mac Cuill",
-      "type": "mythological figure"
-    },
-    {
-      "entity": "Mac Greine",
-      "type": "mythological figure"
-    },
-    {
-      "entity": "Mac Cecht",
-      "type": "hero"
-    },
-    {
-      "entity": "Conaire",
-      "type": "character"
-    },
-    {
-      "entity": "Da Derga",
-      "type": "place"
-    }
-  ],
-  "attributes": [
-    {
-      "entity": "Ogma",
-      "attribute": "god of eloquence"
-    },
-    {
-      "entity": "Ogma",
-      "attribute": "died fighting a Milesian invader"
-    },
-    {
-      "entity": "Mac Cuill",
-      "attribute": "brother of Ogma"
-    },
-    {
-      "entity": "Mac Greine",
-      "attribute": "brother of Ogma"
-    },
-    {
-      "entity": "Mac Cuill and Mac Greine",
-      "attribute": "husbands of the three land goddesses"
-    },
-    {
-      "entity": "Mac Cecht",
-      "attribute": "a different hero who championed Conaire"
-    },
-    {
-      "entity": "Conaire",
-      "attribute": "doomed king at Da Derga's hostel"
-    }
-  ],
-  "sources": [
-    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-  ],
-  "cyphertext": "8ZjEK62Ez2pCtKAZSD2wNZzXbCDSKeboNhXWfnChcS61PNjfLsc-koGlkCS-CJ-sRJHgRZ2LrEglYt3vnhl0KYrTMyNOOEKDZvJPdbvJU0WIWB3Oya6vBHHOMOGUB3ZrAtf1RbfoxkAJ6hQQgucPrwvBrf4C1YlmFFqrlsVf6PCN5hCrBRhx0yvXV8TD3KbciP9RpsiTnztXMJET2SZfAnpULSkuVrOhDIGEc8EqdoA4UUUInIR_Im-mxd3sK_iF4ps9Ln97nVxICesfrl0Wb5FL16KhRdk8PAhrlLOz7ADC8wwlfHND0aN1-kk7Q3QPw-0s2hY1SPs-0JqK0G96ZDf3CmddgjFdwMzK2ZSVYxltXyrGS-EMr-7nT4fEQ131Zbf4yHAnb9Decw2rHWZfoJqABeaP78TswCZgrvg8WfIDSD4pwotsd-5Z1VVCVkOAwHjAQrMhB8GXVVQJqcSAzEN3GGcjRP7ZLe7eOiOMgfnQH2tzPZxKjQ9FRB0a_FzGclL9CGGqoTUMs9DLobE78kirLANhXqsgExEixD8PhYE_7lk9-cmJmQ-3PWy8xvAzyf3wxA==",
-  "salt": "Mwt1VbNN8e58cvBF_2kONA==",
-  "text": "Ogma was the Irish god of eloquence. He lost his life fighting a Milesian invader. Mac Cuill and Mac Greine, his brothers, were wed to the three land goddesses. The three made a trio of parallel gods. A different Mac Cecht stood by the doomed king Conaire. At the hostel of Da Derga he slew the man who had beheaded the king, then gave the king's severed head its last drink.",
-  "okr": {
-    "objective": "Ogma is the Irish god of eloquence.",
-    "key_results": [
-      "He fell fighting a Milesian invader.",
-      "His brothers married the three land goddesses.",
-      "Mac Cecht killed the man who beheaded Conaire.",
-      "He gave the king's severed head its last drink."
-    ],
-    "evidence": "Monaghan, Encyclopedia of Celtic Mythology and Folklore"
+ "name": "Ogma",
+ "cyphertext": "8ZjEK62Ez2pCtKAZSD2wNZzXbCDSKeboNhXWfnChcS61PNjfLsc-koGlkCS-CJ-sRJHgRZ2LrEglYt3vnhl0KYrTMyNOOEKDZvJPdbvJU0WIWB3Oya6vBHHOMOGUB3ZrAtf1RbfoxkAJ6hQQgucPrwvBrf4C1YlmFFqrlsVf6PCN5hCrBRhx0yvXV8TD3KbciP9RpsiTnztXMJET2SZfAnpULSkuVrOhDIGEc8EqdoA4UUUInIR_Im-mxd3sK_iF4ps9Ln97nVxICesfrl0Wb5FL16KhRdk8PAhrlLOz7ADC8wwlfHND0aN1-kk7Q3QPw-0s2hY1SPs-0JqK0G96ZDf3CmddgjFdwMzK2ZSVYxltXyrGS-EMr-7nT4fEQ131Zbf4yHAnb9Decw2rHWZfoJqABeaP78TswCZgrvg8WfIDSD4pwotsd-5Z1VVCVkOAwHjAQrMhB8GXVVQJqcSAzEN3GGcjRP7ZLe7eOiOMgfnQH2tzPZxKjQ9FRB0a_FzGclL9CGGqoTUMs9DLobE78kirLANhXqsgExEixD8PhYE_7lk9-cmJmQ-3PWy8xvAzyf3wxA==",
+ "salt": "Mwt1VbNN8e58cvBF_2kONA==",
+ "text": "Ogma is an orator-warrior among the Tuatha Dé Danann. MacKillop 2008 ranks him among that people's three principal champions. Lug Lámfhota stands with him, and the Dagda does too. He serves as patron of poetry and eloquence. Tradition fables that he devised the ogham alphabet, whose name is a philological cognate of his own. His eloquence earns him the sobriquet Cermait, honey-mouthed. That title also belongs to a son of the Dagda, and the overlap breeds confusion between the two figures. He also bears the sobriquet Grianainech, sun-countenance. His father is usually named as Elatha. Eithne is the usual choice for his mother. The Dagda counts as his brother. By Étan, a daughter of Dian Cécht, he fathers two sons: Tuireann and the satirist Cairbre mac Ethne. Ogma holds a leading role in Cath Maige Tuired and in the events that build toward that fight. Lug Lámfhota arrives at the Tuatha Dé court for the first time. Ogma meets him there in a trial of strength. Each must throw a flagstone over the wall of the royal hall, and Ogma loses. Bres held the kingship, and his reign went badly for the champion. Ogma endures humiliation under him. He is forced to haul firewood like a common labourer. In the battle he crosses weapons with Indech the Fomorian, though the texts disagree over which of them fell. The name Ogma resembles the name Ogmios. Ogmios is the Gaulish god of eloquence, and commentators have long hunted the connection. Two leading early twentieth-century scholars, Thurneysen and van Hamel, rejected any such link. Van Hamel pressed the case in his 1934 paper for the British Academy. Monaghan's encyclopedia, the base source here, adds received lore from a later age of the story. In the age of the Milesian conquest, an Ogma falls fighting a Milesian invader. The same account weds his brothers Mac Cuill and Mac Greine to the three land goddesses of Ireland. That pairing makes a trio of parallel gods. Monaghan also distinguishes a different Mac Cecht, the champion of the doomed king Conaire. At the hostel of Da Derga, that hero slays the man who beheaded the king. He then gives the severed head its last drink. MacKillop's profile and Monaghan's lore differ in scope but agree on the core. Ogma stands for speech made power: a warrior whose true weapon is eloquence.",
+ "entities": [
+  {
+   "entity": "Ogma",
+   "type": "god"
+  },
+  {
+   "entity": "Milesians",
+   "type": "group"
+  },
+  {
+   "entity": "Mac Cuill",
+   "type": "mythological figure"
+  },
+  {
+   "entity": "Mac Greine",
+   "type": "mythological figure"
+  },
+  {
+   "entity": "Mac Cecht",
+   "type": "hero"
+  },
+  {
+   "entity": "Conaire",
+   "type": "character"
+  },
+  {
+   "entity": "Da Derga",
+   "type": "place"
+  },
+  {
+   "entity": "Lug Lámfhota",
+   "type": "god"
+  },
+  {
+   "entity": "the Dagda",
+   "type": "god"
+  },
+  {
+   "entity": "ogham",
+   "type": "concept"
+  },
+  {
+   "entity": "Cermait",
+   "type": "concept"
+  },
+  {
+   "entity": "Grianainech",
+   "type": "concept"
+  },
+  {
+   "entity": "Elatha",
+   "type": "god"
+  },
+  {
+   "entity": "Eithne",
+   "type": "goddess"
+  },
+  {
+   "entity": "Étan",
+   "type": "goddess"
+  },
+  {
+   "entity": "Dian Cécht",
+   "type": "god"
+  },
+  {
+   "entity": "Tuireann",
+   "type": "character"
+  },
+  {
+   "entity": "Cairbre mac Ethne",
+   "type": "person"
+  },
+  {
+   "entity": "Bres",
+   "type": "character"
+  },
+  {
+   "entity": "Indech",
+   "type": "character"
+  },
+  {
+   "entity": "Ogmios",
+   "type": "god"
+  },
+  {
+   "entity": "Cath Maige Tuired",
+   "type": "event"
   }
+ ],
+ "attributes": [
+  {
+   "entity": "Ogma",
+   "attribute": "god of eloquence"
+  },
+  {
+   "entity": "Ogma",
+   "attribute": "died fighting a Milesian invader"
+  },
+  {
+   "entity": "Ogma",
+   "attribute": "an orator-warrior among the Tuatha Dé Danann"
+  },
+  {
+   "entity": "Ogma",
+   "attribute": "one of the three principal champions beside Lug Lámfhota and the Dagda"
+  },
+  {
+   "entity": "Ogma",
+   "attribute": "patron of poetry and eloquence"
+  },
+  {
+   "entity": "Ogma",
+   "attribute": "credited with devising the ogham alphabet"
+  },
+  {
+   "entity": "Ogma",
+   "attribute": "bears the sobriquets Cermait, honey-mouthed, and Grianainech, sun-countenance"
+  },
+  {
+   "entity": "Ogma",
+   "attribute": "son of Elatha and Eithne, brother of the Dagda"
+  },
+  {
+   "entity": "Ogma",
+   "attribute": "husband of Étan, father of Tuireann and Cairbre mac Ethne"
+  },
+  {
+   "entity": "Ogma",
+   "attribute": "lost a flagstone-throwing contest to Lug"
+  },
+  {
+   "entity": "Ogma",
+   "attribute": "hauled firewood under the reign of Bres"
+  },
+  {
+   "entity": "Ogma",
+   "attribute": "fought Indech the Fomorian at Mag Tuired"
+  },
+  {
+   "entity": "Mac Cuill",
+   "attribute": "brother of Ogma"
+  },
+  {
+   "entity": "Mac Greine",
+   "attribute": "brother of Ogma"
+  },
+  {
+   "entity": "Mac Cuill and Mac Greine",
+   "attribute": "husbands of the three land goddesses"
+  },
+  {
+   "entity": "Mac Cecht",
+   "attribute": "a different hero who championed Conaire"
+  },
+  {
+   "entity": "Conaire",
+   "attribute": "doomed king at Da Derga's hostel"
+  },
+  {
+   "entity": "Lug Lámfhota",
+   "attribute": "champion who beat Ogma in the flagstone trial"
+  },
+  {
+   "entity": "the Dagda",
+   "attribute": "brother of Ogma; a son of his bears the sobriquet Cermait"
+  },
+  {
+   "entity": "ogham",
+   "attribute": "alphabet whose invention tradition fables to Ogma"
+  },
+  {
+   "entity": "Elatha",
+   "attribute": "usually named as father of Ogma"
+  },
+  {
+   "entity": "Eithne",
+   "attribute": "usually named as mother of Ogma"
+  },
+  {
+   "entity": "Étan",
+   "attribute": "wife of Ogma, daughter of Dian Cécht"
+  },
+  {
+   "entity": "Dian Cécht",
+   "attribute": "father of Étan"
+  },
+  {
+   "entity": "Tuireann",
+   "attribute": "son of Ogma and Étan"
+  },
+  {
+   "entity": "Cairbre mac Ethne",
+   "attribute": "satirist son of Ogma and Étan"
+  },
+  {
+   "entity": "Bres",
+   "attribute": "ill-starred king whose reign humiliated Ogma"
+  },
+  {
+   "entity": "Indech",
+   "attribute": "Fomorian champion who fought Ogma at Mag Tuired"
+  },
+  {
+   "entity": "Ogmios",
+   "attribute": "Gaulish god of eloquence once compared with Ogma"
+  },
+  {
+   "entity": "Cath Maige Tuired",
+   "attribute": "battle in which Ogma plays a leading role"
+  }
+ ],
+ "sources": [
+  "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.",
+  "MacKillop 2008, s.v. 'Ogma'"
+ ],
+ "okr": {
+  "objective": "Ogma is the Tuatha Dé Danann's orator-warrior and the patron of poetry, eloquence, and ogham.",
+  "key_results": [
+   "He counts among the three principal champions beside Lug Lámfhota and the Dagda.",
+   "Tradition credits him with devising the ogham alphabet, a philological cognate of his name.",
+   "He bears the sobriquets Cermait, honey-mouthed, and Grianainech, sun-countenance.",
+   "Elatha fathers him on Eithne; the Dagda is his brother; Étan bears him Tuireann and Cairbre mac Ethne.",
+   "He loses a flagstone contest to Lug, hauls firewood under Bres, and fights Indech the Fomorian at Mag Tuired.",
+   "Thurneysen and van Hamel rejected any link between Ogma and the Gaulish Ogmios.",
+   "Monaghan adds Milesian-age lore: an Ogma falls fighting an invader, and a separate Mac Cecht avenges Conaire."
+  ],
+  "evidence": "MacKillop 2008, s.v. 'Ogma'"
+ }
 }

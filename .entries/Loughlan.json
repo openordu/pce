@@ -1,0 +1,39 @@
+{
+  "name": "Loughlan",
+  "text": "Loughlan is a corrupt spelling of the headword Lochlainn. The entry stands as a pointer and sends readers to the Lochlainn material for the real substance.",
+  "entities": [
+    {
+      "entity": "Loughlan",
+      "type": "Concept"
+    },
+    {
+      "entity": "Lochlann",
+      "type": "Place"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Loughlan",
+      "attribute": "Corrupt spelling of Lochlainn"
+    },
+    {
+      "entity": "Loughlan",
+      "attribute": "Pointer entry with no independent story material"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Loughlan'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Records Loughlan as a corrupt spelling of Lochlainn.",
+    "key_results": [
+      "MacKillop lists the form Loughlan as a corrupt spelling of Lochlainn.",
+      "The entry works only as a pointer to the Lochlainn headword.",
+      "No separate story material attaches to this spelling."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Loughlan'."
+  }
+}

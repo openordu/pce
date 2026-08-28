@@ -1,0 +1,55 @@
+{
+ "name": "Niúl",
+ "text": "Niúl appears in the pseudo-history Lebor Gabála as a son of Fenius Farsaid, the inventor of the Irish language, and the dictionary's account stresses how much of the language's early legend runs through his family. He takes Scota (2) as his wife and fathers Goidel Glas, the eponymous ancestor whose own career anchors the early story of Irish speech. The inventive text casts Niúl as a renowned schoolmaster and goes so far as to give his name to the Nile River, a flourish that shows how the medieval compilers stitched biblical and classical geography onto their origin tale. MacKillop 2008 keeps the whole episode inside the Lebor Gabála frame, marking it as pseudo-history rather than received tradition.",
+ "entities": [
+  {
+   "entity": "Niúl",
+   "type": "Person"
+  },
+  {
+   "entity": "Fenius Farsaid",
+   "type": "Person"
+  },
+  {
+   "entity": "Lebor Gabála",
+   "type": "Text"
+  },
+  {
+   "entity": "Scota (2)",
+   "type": "Person"
+  },
+  {
+   "entity": "Goidel Glas",
+   "type": "Person"
+  }
+ ],
+ "attributes": [
+  {
+   "entity": "Niúl",
+   "attribute": "son of Fenius Farsaid in the Lebor Gabála pseudo-history"
+  },
+  {
+   "entity": "Niúl",
+   "attribute": "husband of Scota (2) and father of Goidel Glas"
+  },
+  {
+   "entity": "Niúl",
+   "attribute": "renowned schoolmaster said to give his name to the Nile River"
+  }
+ ],
+ "sources": [
+  "MacKillop 2008, s.v. 'Niúl'"
+ ],
+ "image": [],
+ "cyphertext": "",
+ "salt": "",
+ "okr": {
+  "objective": "Documents Niúl as recorded in MacKillop 2008 for the Public Celtic Encyclopedia.",
+  "key_results": [
+   "Niúl is a son of Fenius Farsaid, inventor of the Irish language.",
+   "He marries Scota (2) and fathers Goidel Glas.",
+   "The pseudo-history makes him a schoolmaster who names the Nile."
+  ],
+  "evidence": "MacKillop 2008, s.v. Niúl."
+ }
+}

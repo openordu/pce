@@ -1,74 +1,135 @@
 {
-  "name": "Ogmios",
-  "entities": [
-    {
-      "entity": "Ogmios",
-      "type": "god"
-    },
-    {
-      "entity": "Lucian of Samosata",
-      "type": "character"
-    },
-    {
-      "entity": "Hercules",
-      "type": "hero"
-    },
-    {
-      "entity": "Dis Pater",
-      "type": "god"
-    },
-    {
-      "entity": "Otherworld",
-      "type": "place"
-    }
-  ],
-  "attributes": [
-    {
-      "entity": "Ogmios",
-      "attribute": "continental Celtic god"
-    },
-    {
-      "entity": "Lucian of Samosata",
-      "attribute": "linked Ogmios with Hercules"
-    },
-    {
-      "entity": "Ogmios",
-      "attribute": "strength was verbal rather than physical"
-    },
-    {
-      "entity": "Ogmios",
-      "attribute": "drawn bald with dark skin"
-    },
-    {
-      "entity": "Ogmios",
-      "attribute": "dragged people by chains from tongue to ear"
-    },
-    {
-      "entity": "Ogmios",
-      "attribute": "named Trenfher, the strong man"
-    },
-    {
-      "entity": "Ogmios",
-      "attribute": "sometimes carried the dead to the Otherworld"
-    },
-    {
-      "entity": "Dis Pater",
-      "attribute": "Otherworldly divinity linked to Ogmios"
-    }
-  ],
-  "sources": [
-    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-  ],
-  "cyphertext": "UkKAtw26EErOlPndhmyhPpGr_fxkVWHYvSCxtodTSamRUgxVwdqoRchJO0S-0ZRHmVDsx63IuqxPUPU5x_kY2OsrRVWhdx71UuEpSl8CYAm5tci57xhiKer_s2UzhaZKr-ptrkD4gT-lhbouhPeVcpxZizOYhbdtC-P5jBfURR6BmrAmdny3TDmNXGhMmbCSTYTY3M2VoHEqZg_NDuZA7nCQy_4qwPw8dGTYWLmjZn2iEAPLf67RRarI6CviyVI8-9LYqEwcpgEBROqjyaTt0Gqms6OEdKB4sICshiSLupTspwo7HwY8ck47WUwbnyOmbOuhD6B3229FVgQNaJir0MOGhkryU11rAf9jSL_xOyQNc_ndJuCZYklM6L-Diq508agmI21jMj2bv3LG50KJ5r5nIs_iu0reBLY_7NdbWW7d6OSJogV0li4kFSXwQlyeFtkouuJki6IWdos75I8yY0kZzyoj6w5M_gtX9AMXJrtlhnO7qecSSsdnMTLIC0592ax-PRyql8vSEd-eM8h5mY0V-afvZMktlqM1ER2is_0k5WAj7kU4UufTAw1G4cej_bzQw9_7s7YghlpP6LuWVsy-oLbuw1ezAL20HVNJHLoNdZCw7Dy0lMRynbRr6NokYXt1D8YQgEEE4gpmi3fHmCRbuyQx-oM3TFJElFMtHdjCiunMeEL-J4-zw9RQomxFdGQJefo9XyS9HHxygtO9nTZtKbwgh_syj6BLU6LJy_OouJ0_Eq1pTXDG_zOYDNptgLlaweHx-iTHsaTE3bQvLGjzVDKoXairk3c3jhWJpQvMHdOoRwAzYpV1YCKBH7jI-HatIC7nS_ypkqeiQ36j101sXvrehY4a0uBY29SGF5PpG5RHdzUIJNcYK0DXcxR3TZ1uEXrvk9RNgEsooPpUASB-t_vNUELBIjsu2g1qd4yVrrrO9V6mCt2uXdkX2o95KzB5atqkkZcHdsDmBZMgiVTnTVYZM5MtGg4hoqqMUCl5tMn21WRVzSvaVp7vlkQ=",
-  "salt": "tDBiD9d0y-Q3Sgvv0MPbxg==",
-  "text": "Ogmios was a god of the continental Celts. Lucian of Samosata, a Greek satirist of the second century C.E., linked Ogmios with Hercules. Yet the god's strength was in speech, not in the body. He was drawn as a bald man with dark skin, dragging people by chains that ran from his tongue to their ears. This image stood for the hold of eloquence over its hearers. For this brow the Celts named him Trenfher, the strong man. His great age hints that eloquence ripens with years. In some tellings Ogmios carried the dead to the Otherworld and was joined with Dis Pater.",
-  "okr": {
-    "objective": "Ogmios is a continental Celtic god whose power lies in speech.",
-    "key_results": [
-      "Lucian of Samosata connected him with Hercules.",
-      "His strength was verbal, not physical.",
-      "He drew the dead to the Otherworld in some tellings."
-    ],
-    "evidence": "Monaghan, Encyclopedia of Celtic Mythology and Folklore"
+ "name": "Ogmios",
+ "cyphertext": "UkKAtw26EErOlPndhmyhPpGr_fxkVWHYvSCxtodTSamRUgxVwdqoRchJO0S-0ZRHmVDsx63IuqxPUPU5x_kY2OsrRVWhdx71UuEpSl8CYAm5tci57xhiKer_s2UzhaZKr-ptrkD4gT-lhbouhPeVcpxZizOYhbdtC-P5jBfURR6BmrAmdny3TDmNXGhMmbCSTYTY3M2VoHEqZg_NDuZA7nCQy_4qwPw8dGTYWLmjZn2iEAPLf67RRarI6CviyVI8-9LYqEwcpgEBROqjyaTt0Gqms6OEdKB4sICshiSLupTspwo7HwY8ck47WUwbnyOmbOuhD6B3229FVgQNaJir0MOGhkryU11rAf9jSL_xOyQNc_ndJuCZYklM6L-Diq508agmI21jMj2bv3LG50KJ5r5nIs_iu0reBLY_7NdbWW7d6OSJogV0li4kFSXwQlyeFtkouuJki6IWdos75I8yY0kZzyoj6w5M_gtX9AMXJrtlhnO7qecSSsdnMTLIC0592ax-PRyql8vSEd-eM8h5mY0V-afvZMktlqM1ER2is_0k5WAj7kU4UufTAw1G4cej_bzQw9_7s7YghlpP6LuWVsy-oLbuw1ezAL20HVNJHLoNdZCw7Dy0lMRynbRr6NokYXt1D8YQgEEE4gpmi3fHmCRbuyQx-oM3TFJElFMtHdjCiunMeEL-J4-zw9RQomxFdGQJefo9XyS9HHxygtO9nTZtKbwgh_syj6BLU6LJy_OouJ0_Eq1pTXDG_zOYDNptgLlaweHx-iTHsaTE3bQvLGjzVDKoXairk3c3jhWJpQvMHdOoRwAzYpV1YCKBH7jI-HatIC7nS_ypkqeiQ36j101sXvrehY4a0uBY29SGF5PpG5RHdzUIJNcYK0DXcxR3TZ1uEXrvk9RNgEsooPpUASB-t_vNUELBIjsu2g1qd4yVrrrO9V6mCt2uXdkX2o95KzB5atqkkZcHdsDmBZMgiVTnTVYZM5MtGg4hoqqMUCl5tMn21WRVzSvaVp7vlkQ=",
+ "salt": "tDBiD9d0y-Q3Sgvv0MPbxg==",
+ "text": "Ogmios was a god of the continental Celts. In Gaul he ranked as a lord of eloquence and letters. One second-century text carries his story, and scattered inscriptions support it. The inscription record stays thin, so Lucian remains the main witness. Lucian of Samosata, a Greek satirist of the second century C.E., describes a painting from southern Gaul near Marseille. The picture shows a bald old man with dark skin. He leads a band of men who look glad and willing. Thin chains run from his tongue to their ears. Each follower stays attached by the ear, the channel that receives his speech. The glad faces show that eloquence, not force, holds each listener. The image stood for the hold of eloquence over its hearers. Lucian's informant equated Ogmios with Hercules, citing great strength as one reason. Hercules usually appears young and muscular, crowned with thick hair. The painting instead gave Ogmios the bow and club of Hercules. The bald head and aged body form a pointed contrast with that usual youth. For the Celts this aged figure was Trenfher, the strong man. His great age hints that eloquence ripens with years. Albrecht Dürer, a German Renaissance painter, depicted this deity. Scholars commonly pair Ogmios with the Irish god Ogma. In some tellings Ogmios carried the dead to the Otherworld, joined there with Dis Pater.\nLetters fell under his care as much as spoken skill did.\nThe chain image drew studies of Irish and Welsh parallels.",
+ "entities": [
+  {
+   "entity": "Ogmios",
+   "type": "god"
+  },
+  {
+   "entity": "Lucian of Samosata",
+   "type": "character"
+  },
+  {
+   "entity": "Hercules",
+   "type": "hero"
+  },
+  {
+   "entity": "Dis Pater",
+   "type": "god"
+  },
+  {
+   "entity": "Otherworld",
+   "type": "place"
+  },
+  {
+   "entity": "Celts",
+   "type": "group"
+  },
+  {
+   "entity": "Gaul",
+   "type": "Place"
+  },
+  {
+   "entity": "Marseille",
+   "type": "Place"
+  },
+  {
+   "entity": "Ogma",
+   "type": "Person"
+  },
+  {
+   "entity": "Albrecht Dürer",
+   "type": "Person"
   }
+ ],
+ "attributes": [
+  {
+   "entity": "Ogmios",
+   "attribute": "continental Celtic god"
+  },
+  {
+   "entity": "Lucian of Samosata",
+   "attribute": "linked Ogmios with Hercules"
+  },
+  {
+   "entity": "Ogmios",
+   "attribute": "strength was verbal rather than physical"
+  },
+  {
+   "entity": "Ogmios",
+   "attribute": "drawn bald with dark skin"
+  },
+  {
+   "entity": "Ogmios",
+   "attribute": "dragged people by chains from tongue to ear"
+  },
+  {
+   "entity": "Ogmios",
+   "attribute": "named Trenfher, the strong man"
+  },
+  {
+   "entity": "Ogmios",
+   "attribute": "sometimes carried the dead to the Otherworld"
+  },
+  {
+   "entity": "Dis Pater",
+   "attribute": "Otherworldly divinity linked to Ogmios"
+  },
+  {
+   "entity": "Ogmios",
+   "attribute": "Gaulish god of eloquence"
+  },
+  {
+   "entity": "Ogmios",
+   "attribute": "known from one second-century text and scattered inscriptions"
+  },
+  {
+   "entity": "Ogmios",
+   "attribute": "seen by Lucian in a painting from southern Gaul near Marseille"
+  },
+  {
+   "entity": "Ogmios",
+   "attribute": "carries Hercules' bow and club in Lucian's picture"
+  },
+  {
+   "entity": "Ogmios",
+   "attribute": "depicted by Albrecht Dürer"
+  },
+  {
+   "entity": "Ogma",
+   "attribute": "Irish god commonly paired with Ogmios"
+  },
+  {
+   "entity": "Albrecht Dürer",
+   "attribute": "German Renaissance painter who depicted Ogmios"
+  },
+  {
+   "entity": "Gaul",
+   "attribute": "region where Lucian encountered the picture"
+  },
+  {
+   "entity": "Marseille",
+   "attribute": "southern Gaulish city near Lucian's sighting"
+  }
+ ],
+ "sources": [
+  "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.",
+  "MacKillop 2008, s.v. 'Ogmios'"
+ ],
+ "okr": {
+  "objective": "Ogmios is a continental Celtic god whose power lies in speech.",
+  "key_results": [
+   "Lucian of Samosata connected him with Hercules.",
+   "His strength was verbal, not physical.",
+   "He drew the dead to the Otherworld in some tellings.",
+   "A single second-century text and scattered inscriptions preserve his cult.",
+   "Lucian saw the picture in southern Gaul near Marseille.",
+   "Lucian's informant equated Ogmios with Hercules.",
+   "Albrecht Dürer depicted him, and scholars pair him with Ogma."
+  ],
+  "evidence": "Monaghan, Encyclopedia of Celtic Mythology and Folklore; MacKillop 2008, s.v. 'Ogmios'"
+ }
 }

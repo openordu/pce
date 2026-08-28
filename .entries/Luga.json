@@ -1,0 +1,42 @@
+{
+  "name": "Luga",
+  "text": "Luga is an anglicized form standing for both Lugaid and Lug in modern renderings of the names. Readers meeting the spelling should follow either the god Lug or the several heroes named Lugaid.",
+  "entities": [
+    {
+      "entity": "Luga",
+      "type": "Concept"
+    },
+    {
+      "entity": "Lugh",
+      "type": "Deity"
+    },
+    {
+      "entity": "Lugaid",
+      "type": "Person"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Luga",
+      "attribute": "anglicization of both Lugaid and Lug"
+    },
+    {
+      "entity": "Luga",
+      "attribute": "modern rendering of the god name"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Luga'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Luga is an anglicized form standing for both Lugaid and Lug in modern renderings of the names.",
+    "key_results": [
+      "Anglicization of Lugaid",
+      "Also an anglicization of Lug"
+    ],
+    "evidence": "MacKillop 2008, s.v. Luga."
+  }
+}

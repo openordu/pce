@@ -1,0 +1,64 @@
+{
+  "name": "Lon mac Líomtha",
+  "text": "Lon mac Líomtha works as a smith in the Fenian Cycle. He also trains other smiths as their teacher. Story material notes his fearful appearance. His chief recorded deed is the making of Mac an Luin. He forged that blade for Fionn mac Cumhaill. It stands as Fionn's famous sword. His smithy lay in Lochlainn. MacKillop places that smithy at the site of modern Bergen, Norway. Lochlainn marks the Norse world in which this smithing tradition sits. The entry adds a cross-reference to the headword Loan MacLibhuin.",
+  "entities": [
+    {
+      "entity": "Lon mac Líomtha",
+      "type": "Person"
+    },
+    {
+      "entity": "Fionn mac Cumhaill",
+      "type": "Person"
+    },
+    {
+      "entity": "Lochlann",
+      "type": "Place"
+    },
+    {
+      "entity": "Fenian Cycle",
+      "type": "Concept"
+    },
+    {
+      "entity": "Mac an Luin",
+      "type": "Concept"
+    },
+    {
+      "entity": "Loan MacLibhuin",
+      "type": "Person"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Lon mac Líomtha",
+      "attribute": "Master smith who trains other smiths in the Fenian Cycle"
+    },
+    {
+      "entity": "Lon mac Líomtha",
+      "attribute": "Maker of Fionn's famous sword Mac an Luin"
+    },
+    {
+      "entity": "Lon mac Líomtha",
+      "attribute": "Smithy placed at the site of modern Bergen, Norway"
+    },
+    {
+      "entity": "Fionn mac Cumhaill",
+      "attribute": "Wielded the sword Mac an Luin made by Lon mac Líomtha"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Lon mac Liomtha'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Documents the Fenian smith Lon mac Líomtha, his craft, his forge site, and his link to Fionn's sword.",
+    "key_results": [
+      "Trains other smiths as their teacher within the Fenian Cycle.",
+      "Forged Mac an Luin, the famous blade of Fionn mac Cumhaill.",
+      "Carries a fearful appearance in the story material.",
+      "His smithy stood in Lochlainn, at the site of modern Bergen, Norway."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Lon mac Liomtha'."
+  }
+}

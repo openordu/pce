@@ -1,96 +1,187 @@
 {
-    "name": "Otherworld",
-    "entities": [
-        {
-            "entity": "Otherworld",
-            "type": "concept"
-        },
-        {
-            "entity": "fairies",
-            "type": "mythological creature"
-        },
-        {
-            "entity": "Samhain",
-            "type": "event"
-        },
-        {
-            "entity": "Avalon",
-            "type": "place"
-        },
-        {
-            "entity": "Emain Ablach",
-            "type": "place"
-        },
-        {
-            "entity": "síd",
-            "type": "concept"
-        },
-        {
-            "entity": "Mag Mell",
-            "type": "place"
-        },
-        {
-            "entity": "Tech Duinn",
-            "type": "place"
-        },
-        {
-            "entity": "Annwn",
-            "type": "place"
-        }
-    ],
-    "attributes": [
-        {
-            "entity": "Otherworld",
-            "attribute": "realm where gods and fairies lived"
-        },
-        {
-            "entity": "Otherworld",
-            "attribute": "later joined with the Christian land of the dead"
-        },
-        {
-            "entity": "dead",
-            "attribute": "returned to our world to work mischief"
-        },
-        {
-            "entity": "Samhain",
-            "attribute": "the veils between worlds hung thin"
-        },
-        {
-            "entity": "síd",
-            "attribute": "an earthen mound or a cave that houses the immortal folk"
-        },
-        {
-            "entity": "Otherworld",
-            "attribute": "termed the síd in Irish and the Annwn in Welsh"
-        },
-        {
-            "entity": "Mag Mell",
-            "attribute": "an Otherworld name meaning the plain of Sports or of Delight"
-        },
-        {
-            "entity": "Tech Duinn",
-            "attribute": "the house of the dead, an island off the Beara peninsula"
-        }
-    ],
-    "sources": [
-        "Evans-Wentz, W. Y. The Fairy-Faith in Celtic Countries. Gerrards Cross: Colin Smythe Humanities Press, 1911, 332-338.",
-        "Löffler, Christa Maria. The Voyage to the Otherworld Island in Early Irish Literature. Salzburg Studies in English Literature. Salzburg: Institut Für Anglistik und Amerikanistik, Universität Salzburg, 1983.",
-        "O’Rahilly, Thomas. Early Irish History and Mythology. Dublin: The Dublin Institute for Advanced Studies, 1946, 328.",
-        "Patch, Howard Rollin. *The Other World: According to Descriptions in Medieval Literature.* Cambridge, Mass.: Harvard University Press, 1950, pp. 27 ff.",
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.",
-        "Koch 2006, s.v. 'Otherworld'"
-    ],
-    "cyphertext": "4IamtZMx-UW8Eckc0u_bhs-G4TP5ys4iuLMrLluiR6KNq8HB5CtBTcxk2SML20kKfBjCX1H_3zjj3nAZo5Bm1PyDb22cMWABO_Nf31otsJBJo1pVVBFS17F_Ks4xuPqrl72l7hbYyj9keCQS_i-PuenJLb7umiz6G8ldaRizrZxpMNId8DZzi0jqTtTQlbVOHdvOebUl4zag3pFqtgFTpF7XzYCySGnjZscPUZ79QEiK8v7Deb_VKmAftD4z1Gz5dI2Q_kYCu1KdmRYhDtVMa5mW4RtkHzbHFnwuN9PVFDlg9QGg7aMKYvsf_PI09z-AHYCNcKEpq4bve-sUgoBveWKeKPIStkasVkz_rkw2d2BtBkYRT2YfNssIRu6WHq7QXc_1zlk0ReRP4VTeVbdg5r-OazzX69xR77A9AELqP0S9RG8B5Mpo8b6QfcButlyQK_lLTmEuFbeMcXm7pBg7ApXDDI5HCa1AHogfUxkVqB9Xf5N7lPhX6-4fCyM-Pe021WJIjn0LG63qdrSiYJKS7fqWxyQwxCYJvXTaxdvIM1iOywCPU0uryAf82DKhLsVBNAPu0altuPYImyPCHwqmDtTos9kzyR4-tJ9k6EugN0xnE2mCH8ZDxqRA5gnRMazGS5jKSOdnwNsGXYfuDBwi0VMyPGIOYQ-sDwdg5lpGVQQgKrq7BMJQ0EM3v0mfhkMkhPH7s8cGIIn3g6JxsDjCggoNjVUOW8rEQZ90RaTMo5aBClGomxGlTI2yE9s3LDHeaL9f1ikziLKMAuXfc9x6wIv-ET3FL2ybGeI-FSFHlEKS_b9AjyWO6tggjBA5Dol4_8VW2beurwxIvHheoZjVlMhRdKbvRXfl5yVQyQPEavEx_4BpI4wQxyIPxHqPo6jsaHzLkLLjOL-gaiChsVfHE8phW_Z8FqIdcdmYKv0aV530jBmt_7JMZezJK9cIvsUr22ELdNI4LYQcnJ5aRYICuiDKC7NpgklF1q4Nj40JMFbLGQINEodLYiQ6Ooq3BdfF-zGC85ki4khWwFfYoLSL4pGXKIW5_ntbKvO02d-dVnPBhu5ZgA07f9sL4bcJ8z1c4s6yazvkj-w8--B33Hq57-7tIhkM7hubDiu-hUjF0rNbScvzaViSZEra9KT3xUbpj-HQMJedJbMvueOyvv8GuvZz1y9kr58Qxzf_2KRL3On2KG4Oe0kvVLuoW4VnMQVf99Fbkjcw90uOTMH9xKITdd0AC-CgbAqrB4BqKvZ52iEYxdSa0VEihld4OCKMnzagyuzV3ldtJ7AtIqEupUX6mek7OFG7zWZbOI2Q0JKrIngv5cEL8S8Uf1QQnA67ZHT3XBNqL9QmbZCDcYQogiLdmSO2s0TT0SC8v7ejjire6YRLAT30-ojfBRmRxJPG4vjFEpoQSYh2ImhPvzyUCBz0nNuKRFZImed-eM9ebAJRBc1R_GQnkqmfYmqN-cVahB4B7DEMmVZT6kDhtjyGZRMhkHzt4ANA8BNw87L7n9jWMKsikZ-f7nJMXwjsKMV0mqPwotISZVRqj9xNDNxY3VZx3OdhSFD2-85ATljfBSmQejslJ3UUS9vxh4GWZrAOYhrxi5tYAovYeX5hRMDqizkNwA14nZMrILe_yvVuhdgp_17-X4qwirWaxmoKR6qKyBnmPWi5JWmUhnr3Jm7UFoSBiF1CciyEdHyn9qgA3e25Su7yqPGKIVeTViYv-7251apjHqduWVzxtki9PhCWYqFAVSMFamQDvzOgDD-TcJU0lCS-fpWkcvBVL6d1JxfFr8CCa5Nlx4a0jHGXiSOPs91watM28mtwHr-HrHhgU20qRuPtJFIcvepH2sJFa8TsCvtViPMI517iio-86CqMYKPXrxfpYBi2PT0xPv0PmeDr7N8rMhhZ7VwIFsR5CBvPW_XzY3HMBe5LZh-_ZFX2oZaLFzBVI0B8aRBV4goaIbUYD6smkQ3aeRGUYfRhezdAm7rr4y17N4GiEOVde8a0Ayc8pwp3RrqeB1ZrpC7Nxf6rwzwhQ9bb0jLD8Sdzg524axgic49k3TM1ZbpY-lY_b7XLqsBnT_b5uoGJ71jLTeAXMfn11w8JEakXl1Z-hcqhTMmWs1RfzqpHs1mfUtwta2zyFn8Zd7_o41sJTxQ_eJqyZ30HaoKXSCLLhxZA41K_vaa-1bQfcFj0kvKx05O_SR5WOx0YiNanjEmX5zvwgglZf5ndbgMFuTyn0p9ow48T8vIjUDNOC_U4UCdlBWAXtKLMLmS0VlDZJqtyCB8KLdCI4y_L1vWz9vfA-2WJyFqjZ0iYvP7eewKZHe2-uEdi43bwN34WON-sN1ANETYiWYm71OlGe9NL7TrqGAlQjCbpjRy5wvUjaCRjYJVc0GavMlr_EiSLDUKV05u0k049wwVsTrnNrSyRpDtw_w9bJvJJoYqrG-dQd-zFIXbeI-fZ7ZxBtNmfj4yitEhIGQOogonGLsbTGzAc-i53WhrQ2lIlFEU_EQsEXAFvf8hX93zinCorthxgnj3w9pO9gWrVLdWy6BuDvtB96a2AtYxg7SOBp5Jjs-8BKJlZsHV_tE-bpNsLg7bwPzN5GZLDDH_tFRhaN7EoofwYz31DbvmYifBxkJMyroG51550QWi6fm5VfDk67ZH1e0PdAxSaaWmMyx0cHG0HmBDGb_X2LYGD_DFFN3aCG00cdQG9zbOm3T0Nk-4q7yUNslXgM-7dn7rjD_06zp8ahQ8KIFJJW1ynqCZ6bsQT00BMm7MavFHHzXWi6T3uunTtw47TBargzkamTq8Ugx7iVSPrQWbvV8bHO45VhfqRaeZz2ypEeV-p4SIqbPCjFXjc9Jh_xahNB27YRj9yvEqDMPBaWbtWJt6Nn_QAWsHQqR_4_Ag18douSj-7Oqmb3G0sAAETpCial423GzL_FO2B0cYtqCH7dLq4zqCT1RkfGqixCIdAzOjbVngvs9Z_8j7bNdaDf5RECpfZEvTIocoph8XYGIbD-ol8grtf4wOJgte8J20-C_JxlmHxx6f1IYMmU2G2f11PnIKw4cuj2FQ2luMnGMX6fK-XN-gL3MX7YXCCbk-Mp5c_3Yrvs6c4_6hlDAKtbdvf5fYSZ8ec3RKWRMD7oJyK4NjXhDcvauaxiUHjRtn8ueiqYejwpjWN2OXmga5oH4fdhLf_vnCGX9S_wv_NtkzvZh2jyjak7vCFhIlxiU7SVwj2tr1uCqFqxVUZM23nY6yNlQ19PnwkvzdHCqE-pfPbv0f-Z5WOQpoRMpSrE8ieL3HcYOWfpj2jRM7GVNWKSk0KeuCFfrH_ePe3SR3-t6A9XUarP361jt1ihvC9LyzpGOeutMKwE0B-GsW7fAboF4obqLFuBTJNSu_Cl7TkMKgv8U6xkmvpYuDnAnfu16aamHcaA2FympwalEvkQnnDi1naW9yDXBliwzrL7LJgnd1DqO8ZCUXR_Kt4LizUNQX_ZPOQSPa9pu7btph676RmpX12y9FuuRONGBIHef6McyqD1mm-12Flz1bzdqARH3pp0eTNpjdRxF4m2Wtfax_6QaFMMMmhzH-DVKRx32Hh_GyYYfZ_mIWABO_i44VaIdCiMrz7P95Ho2o4sSUgUl_LEBe8HwQ5zPNZf22BiN96cGmZKVea_Qx4jsbeczQkXkxOW3jRTU_uZbaGjtozkohlIGi8Lnk8MjYe8px_uEWkMV1lMVg-0yleBejUYqeoyjsYOml6JufI-jRWpW6Q9GJLymUAdVh_NMEX8V1Qx3DVlRtF1mS0FA8EAvzUvxYscOn8YPD5dLVMYaIkO4CA9iVNtv9bjWK0hHQorX0BYBUlXWhknlDZYD6i8Nxak0jXp2HngyZ5rghg3HIi4NNJr2pRIkzGlUtByRM6Phx8RcOmpWL6gXVNNYnmWCpElKCiSzCBK13YYo090netE22qcHfP6Xmxp0P41ZYbUelj23eY9c5Iyz7DverL1gW1MWXAzFTAbdivyZo1iXChhRCOy463l2d56PsChn7bFGFQxGHYULe7OXlzMGvNoMiewn8vgo6pGtBfWtE9Is5q4v6LdPjSXJbext0FX0B2UslgkSkkjHMqbR6dXFp9eowt_Q_hHbJoY__t1bVm_LZMvi7oBGSA-18xr15OTT6KMOi5nrT5EZGrGHrqk33BbnRLK5Rz2Vr4koaVu7KxuMZy52Mr0tGagXgI5_cnMsqV_GUv5gc3sNrQJaxikebFQzk4Q7hEY_g2ATEuhHZDo8xX8JPcG6tUsMkkI0_yuiYcFlJSSyJyhf06aS6SCBkGqkpEuJQzboreRv4bToTtD8MWpf-OLUd2XwwKYpwFcLvYD-uXTZCIOXM-gU0kZUwNh9Rqak3cDDkJ9L5bARpUIG5b9_5iXaTH0tWIcUODp_s3lMu7-6zWy6G5sAH5Y3Y8NAhkcotrfBr7AKGqyGsR6vnCZgblZuDaBnm41EhisM_mWNRw0gzZDIeUKbtl0yx0Ci4cgal_Qy83QqEtHC-4CuEniMXuanfM34tIIQoUM_So66RMI4sm_v4GJnaGUnhJ0SRpn6xy5t61VPKQqP1wyI2TD9XVBje6_FXe62pJ60VW3hxWRuL0MNmHLy1R1MzoFxmYHiXuXFtRgWh9lAlmrrS_DzyEsrwm_IehdV8vtZOLCz_VjmrW6V3JKgjLV7A9XeH2WJCd8AZXVMKpZ6xAyf__MXlORAiic0VdkVb_CYW4dtmeV0Kqs9MPRUiI96i_aomGp03EAA8ZWqyRJUeEE_yPewA7ZzSbDKacYFauXo7WbVxlFe3t-3Gr0xbtsh9QCnxWajTqAZ8_0TlXed3kaWxyIzVpNGymmoNi-g8W_3AuIAXKXtG6bzN4qc47sKHNL7ZTiQPOL6N5g8Qe_xirb_W9V7E4li2BcsV5KTsg8zHh_75MIkiHfxO-UsXD5sH6YzuzQvD4v4StC1TrLlo_xWfQZPCIIoEesAmCnt05RlcuuFrv8ywiZKzSYQ==",
-    "salt": "BFTDDZU7wrvaHqhO3p7qVg==",
-    "text": "Koch treats the word Otherworld as a neutral tag, not one single realm. No Proto-Celtic word for it can be rebuilt with confidence, though a shared Gaulish and Brythonic term did exist. In Irish the word síd names an earthen mound or cave dwelling of the immortal folk. The síde open to mortal sight on Samain, when no concealment was possible. Distinct lands include Mag Mell, the Plain of Sports, and Tech Duinn, the hidden house of the dead. In Welsh the term Annwn, earlier Annwfn, plainly names that realm beneath the earth.",
-    "okr": {
-        "objective": "Document the Celtic Otherworld as a shifting tag that covers the Irish síd and the Welsh Annwn.",
-        "key_results": [
-            "Treat Otherworld as a neutral tag, since no Proto-Celtic word can be rebuilt with confidence.",
-            "Explain the Irish síd as an earthen mound or a cave dwelling of the immortal folk.",
-            "Record that the síde opened to mortals on Samain, when no concealment was possible.",
-            "Name the Welsh term Annwn, with the earlier form Annwfn."
-        ],
-        "evidence": "Koch 2006, s.v. 'Otherworld'"
-    }
+ "name": "Otherworld",
+ "cyphertext": "4IamtZMx-UW8Eckc0u_bhs-G4TP5ys4iuLMrLluiR6KNq8HB5CtBTcxk2SML20kKfBjCX1H_3zjj3nAZo5Bm1PyDb22cMWABO_Nf31otsJBJo1pVVBFS17F_Ks4xuPqrl72l7hbYyj9keCQS_i-PuenJLb7umiz6G8ldaRizrZxpMNId8DZzi0jqTtTQlbVOHdvOebUl4zag3pFqtgFTpF7XzYCySGnjZscPUZ79QEiK8v7Deb_VKmAftD4z1Gz5dI2Q_kYCu1KdmRYhDtVMa5mW4RtkHzbHFnwuN9PVFDlg9QGg7aMKYvsf_PI09z-AHYCNcKEpq4bve-sUgoBveWKeKPIStkasVkz_rkw2d2BtBkYRT2YfNssIRu6WHq7QXc_1zlk0ReRP4VTeVbdg5r-OazzX69xR77A9AELqP0S9RG8B5Mpo8b6QfcButlyQK_lLTmEuFbeMcXm7pBg7ApXDDI5HCa1AHogfUxkVqB9Xf5N7lPhX6-4fCyM-Pe021WJIjn0LG63qdrSiYJKS7fqWxyQwxCYJvXTaxdvIM1iOywCPU0uryAf82DKhLsVBNAPu0altuPYImyPCHwqmDtTos9kzyR4-tJ9k6EugN0xnE2mCH8ZDxqRA5gnRMazGS5jKSOdnwNsGXYfuDBwi0VMyPGIOYQ-sDwdg5lpGVQQgKrq7BMJQ0EM3v0mfhkMkhPH7s8cGIIn3g6JxsDjCggoNjVUOW8rEQZ90RaTMo5aBClGomxGlTI2yE9s3LDHeaL9f1ikziLKMAuXfc9x6wIv-ET3FL2ybGeI-FSFHlEKS_b9AjyWO6tggjBA5Dol4_8VW2beurwxIvHheoZjVlMhRdKbvRXfl5yVQyQPEavEx_4BpI4wQxyIPxHqPo6jsaHzLkLLjOL-gaiChsVfHE8phW_Z8FqIdcdmYKv0aV530jBmt_7JMZezJK9cIvsUr22ELdNI4LYQcnJ5aRYICuiDKC7NpgklF1q4Nj40JMFbLGQINEodLYiQ6Ooq3BdfF-zGC85ki4khWwFfYoLSL4pGXKIW5_ntbKvO02d-dVnPBhu5ZgA07f9sL4bcJ8z1c4s6yazvkj-w8--B33Hq57-7tIhkM7hubDiu-hUjF0rNbScvzaViSZEra9KT3xUbpj-HQMJedJbMvueOyvv8GuvZz1y9kr58Qxzf_2KRL3On2KG4Oe0kvVLuoW4VnMQVf99Fbkjcw90uOTMH9xKITdd0AC-CgbAqrB4BqKvZ52iEYxdSa0VEihld4OCKMnzagyuzV3ldtJ7AtIqEupUX6mek7OFG7zWZbOI2Q0JKrIngv5cEL8S8Uf1QQnA67ZHT3XBNqL9QmbZCDcYQogiLdmSO2s0TT0SC8v7ejjire6YRLAT30-ojfBRmRxJPG4vjFEpoQSYh2ImhPvzyUCBz0nNuKRFZImed-eM9ebAJRBc1R_GQnkqmfYmqN-cVahB4B7DEMmVZT6kDhtjyGZRMhkHzt4ANA8BNw87L7n9jWMKsikZ-f7nJMXwjsKMV0mqPwotISZVRqj9xNDNxY3VZx3OdhSFD2-85ATljfBSmQejslJ3UUS9vxh4GWZrAOYhrxi5tYAovYeX5hRMDqizkNwA14nZMrILe_yvVuhdgp_17-X4qwirWaxmoKR6qKyBnmPWi5JWmUhnr3Jm7UFoSBiF1CciyEdHyn9qgA3e25Su7yqPGKIVeTViYv-7251apjHqduWVzxtki9PhCWYqFAVSMFamQDvzOgDD-TcJU0lCS-fpWkcvBVL6d1JxfFr8CCa5Nlx4a0jHGXiSOPs91watM28mtwHr-HrHhgU20qRuPtJFIcvepH2sJFa8TsCvtViPMI517iio-86CqMYKPXrxfpYBi2PT0xPv0PmeDr7N8rMhhZ7VwIFsR5CBvPW_XzY3HMBe5LZh-_ZFX2oZaLFzBVI0B8aRBV4goaIbUYD6smkQ3aeRGUYfRhezdAm7rr4y17N4GiEOVde8a0Ayc8pwp3RrqeB1ZrpC7Nxf6rwzwhQ9bb0jLD8Sdzg524axgic49k3TM1ZbpY-lY_b7XLqsBnT_b5uoGJ71jLTeAXMfn11w8JEakXl1Z-hcqhTMmWs1RfzqpHs1mfUtwta2zyFn8Zd7_o41sJTxQ_eJqyZ30HaoKXSCLLhxZA41K_vaa-1bQfcFj0kvKx05O_SR5WOx0YiNanjEmX5zvwgglZf5ndbgMFuTyn0p9ow48T8vIjUDNOC_U4UCdlBWAXtKLMLmS0VlDZJqtyCB8KLdCI4y_L1vWz9vfA-2WJyFqjZ0iYvP7eewKZHe2-uEdi43bwN34WON-sN1ANETYiWYm71OlGe9NL7TrqGAlQjCbpjRy5wvUjaCRjYJVc0GavMlr_EiSLDUKV05u0k049wwVsTrnNrSyRpDtw_w9bJvJJoYqrG-dQd-zFIXbeI-fZ7ZxBtNmfj4yitEhIGQOogonGLsbTGzAc-i53WhrQ2lIlFEU_EQsEXAFvf8hX93zinCorthxgnj3w9pO9gWrVLdWy6BuDvtB96a2AtYxg7SOBp5Jjs-8BKJlZsHV_tE-bpNsLg7bwPzN5GZLDDH_tFRhaN7EoofwYz31DbvmYifBxkJMyroG51550QWi6fm5VfDk67ZH1e0PdAxSaaWmMyx0cHG0HmBDGb_X2LYGD_DFFN3aCG00cdQG9zbOm3T0Nk-4q7yUNslXgM-7dn7rjD_06zp8ahQ8KIFJJW1ynqCZ6bsQT00BMm7MavFHHzXWi6T3uunTtw47TBargzkamTq8Ugx7iVSPrQWbvV8bHO45VhfqRaeZz2ypEeV-p4SIqbPCjFXjc9Jh_xahNB27YRj9yvEqDMPBaWbtWJt6Nn_QAWsHQqR_4_Ag18douSj-7Oqmb3G0sAAETpCial423GzL_FO2B0cYtqCH7dLq4zqCT1RkfGqixCIdAzOjbVngvs9Z_8j7bNdaDf5RECpfZEvTIocoph8XYGIbD-ol8grtf4wOJgte8J20-C_JxlmHxx6f1IYMmU2G2f11PnIKw4cuj2FQ2luMnGMX6fK-XN-gL3MX7YXCCbk-Mp5c_3Yrvs6c4_6hlDAKtbdvf5fYSZ8ec3RKWRMD7oJyK4NjXhDcvauaxiUHjRtn8ueiqYejwpjWN2OXmga5oH4fdhLf_vnCGX9S_wv_NtkzvZh2jyjak7vCFhIlxiU7SVwj2tr1uCqFqxVUZM23nY6yNlQ19PnwkvzdHCqE-pfPbv0f-Z5WOQpoRMpSrE8ieL3HcYOWfpj2jRM7GVNWKSk0KeuCFfrH_ePe3SR3-t6A9XUarP361jt1ihvC9LyzpGOeutMKwE0B-GsW7fAboF4obqLFuBTJNSu_Cl7TkMKgv8U6xkmvpYuDnAnfu16aamHcaA2FympwalEvkQnnDi1naW9yDXBliwzrL7LJgnd1DqO8ZCUXR_Kt4LizUNQX_ZPOQSPa9pu7btph676RmpX12y9FuuRONGBIHef6McyqD1mm-12Flz1bzdqARH3pp0eTNpjdRxF4m2Wtfax_6QaFMMMmhzH-DVKRx32Hh_GyYYfZ_mIWABO_i44VaIdCiMrz7P95Ho2o4sSUgUl_LEBe8HwQ5zPNZf22BiN96cGmZKVea_Qx4jsbeczQkXkxOW3jRTU_uZbaGjtozkohlIGi8Lnk8MjYe8px_uEWkMV1lMVg-0yleBejUYqeoyjsYOml6JufI-jRWpW6Q9GJLymUAdVh_NMEX8V1Qx3DVlRtF1mS0FA8EAvzUvxYscOn8YPD5dLVMYaIkO4CA9iVNtv9bjWK0hHQorX0BYBUlXWhknlDZYD6i8Nxak0jXp2HngyZ5rghg3HIi4NNJr2pRIkzGlUtByRM6Phx8RcOmpWL6gXVNNYnmWCpElKCiSzCBK13YYo090netE22qcHfP6Xmxp0P41ZYbUelj23eY9c5Iyz7DverL1gW1MWXAzFTAbdivyZo1iXChhRCOy463l2d56PsChn7bFGFQxGHYULe7OXlzMGvNoMiewn8vgo6pGtBfWtE9Is5q4v6LdPjSXJbext0FX0B2UslgkSkkjHMqbR6dXFp9eowt_Q_hHbJoY__t1bVm_LZMvi7oBGSA-18xr15OTT6KMOi5nrT5EZGrGHrqk33BbnRLK5Rz2Vr4koaVu7KxuMZy52Mr0tGagXgI5_cnMsqV_GUv5gc3sNrQJaxikebFQzk4Q7hEY_g2ATEuhHZDo8xX8JPcG6tUsMkkI0_yuiYcFlJSSyJyhf06aS6SCBkGqkpEuJQzboreRv4bToTtD8MWpf-OLUd2XwwKYpwFcLvYD-uXTZCIOXM-gU0kZUwNh9Rqak3cDDkJ9L5bARpUIG5b9_5iXaTH0tWIcUODp_s3lMu7-6zWy6G5sAH5Y3Y8NAhkcotrfBr7AKGqyGsR6vnCZgblZuDaBnm41EhisM_mWNRw0gzZDIeUKbtl0yx0Ci4cgal_Qy83QqEtHC-4CuEniMXuanfM34tIIQoUM_So66RMI4sm_v4GJnaGUnhJ0SRpn6xy5t61VPKQqP1wyI2TD9XVBje6_FXe62pJ60VW3hxWRuL0MNmHLy1R1MzoFxmYHiXuXFtRgWh9lAlmrrS_DzyEsrwm_IehdV8vtZOLCz_VjmrW6V3JKgjLV7A9XeH2WJCd8AZXVMKpZ6xAyf__MXlORAiic0VdkVb_CYW4dtmeV0Kqs9MPRUiI96i_aomGp03EAA8ZWqyRJUeEE_yPewA7ZzSbDKacYFauXo7WbVxlFe3t-3Gr0xbtsh9QCnxWajTqAZ8_0TlXed3kaWxyIzVpNGymmoNi-g8W_3AuIAXKXtG6bzN4qc47sKHNL7ZTiQPOL6N5g8Qe_xirb_W9V7E4li2BcsV5KTsg8zHh_75MIkiHfxO-UsXD5sH6YzuzQvD4v4StC1TrLlo_xWfQZPCIIoEesAmCnt05RlcuuFrv8ywiZKzSYQ==",
+ "salt": "BFTDDZU7wrvaHqhO3p7qVg==",
+ "text": "Koch treats the word Otherworld as a neutral tag, not one single realm. No Proto-Celtic word for it can be rebuilt with confidence. A shared Gaulish and Brythonic term did exist. In Irish the word sid names an earthen mound or cave dwelling of the immortal folk. The side stand open to mortal sight at Samain. No concealment is possible then. Distinct lands include Mag Mell, the Plain of Sports, and Tech Duinn, the hidden house of the dead. In Welsh the term Annwn, earlier Annwfn, plainly names that realm beneath the earth. MacKillop frames the Otherworld as a place past the senses. Delight is its usual temper. No ordinary mortal may know it until a dweller of that land asks him in. The Celtic version sometimes absorbs the Mediterranean picture of an underworld. That Greek and Roman picture holds the dead. Every corner of Celtic culture, ancient to late, gives proof of one belief. Life goes on materially after the body fails. Graves of the Hallstatt age, 1200 to 600 BC, held food and gear. The dead could start again with those goods in hand. Classical writers credit the druids with two teachings. Souls never die. Souls also pass into new bodies, the shift called metempsychosis. Early Irish and Welsh literature stretches that old outline. The soul's migration thins into a new favourite motif. Beings shift shape at will. The glad afterlife runs side by side with the world of the living. Irish and Welsh tellers both keep the geography loose. The land may sit beyond any human map. It may be an island far out in the western water, or below it. A bold sailor may land there and walk in. Another seeker may cross the land instead. Mounds and homes of the divine open before him. Ireland names such places sidh, refuges of the beaten Tuatha De Danann. The bruiden, festive halls, stand beside them. Caves count as doors in every Celtic land. The great one lies at Cruachain. Some lakes open the way as well. Entry is never a prize for goodness or fine conduct. The usual door is stranger. A fair woman of that other country falls in love with a mortal man. No reason for her love is given. At times she wears the shape of a deer or a fawn. Brittany keeps one grim exception. A dark realm yawns under Youdic in the sodden bog of Yeun. Early Irish quest-tales chart the land in detail. Bran mac Febail sails it in Imram Brain. Connla goes in Echtrae Conli. Cormac mac Airt travels in Echtrae Cormaic. Nera walks it in Echtra Nerai. Tadg mac Cein makes the trip as well. Brendan's Latin voyage, though Christian in frame, carries the same echo. Many Irish views, and some Welsh ones, picture a glad land. Food and drink never run short. Sport, lovely women, and spellbound music fill it. The pig eaten at dinner stands whole again by morning. The cauldron of plenty never empties. The colour red holds honour there. Illness, grey age, and rot stay outside its borders. Visitors carry wisdom home. They praise the order and the calm. Its kings look wise, open-handed, and set against war. Enemies still press them, and a mortal guest is hired to fight. Cuchulainn serves so, and Pwyll with him. Time flows wrong inside. A year there, even a day, can match one hundred or three hundred living years. The glad rolls name Emain Ablach, Hy Brasil, and Mag Da Cheo. Beside those stand Mag Mell and Roca Barraidh. Tir fo Thuinn and the land of women join them. Tir na mBeo and Tir na nOg follow. Tir Taimgire and Ynys Afallon close the list. The Welsh Annwfh takes many names. Caer Feddwid, Caer Siddi, and Caer Wydyr are three. At Gwales the severed head of Bendigeidfran holds high feast. Anaon, in Brittany, mirrors Annwfn. Not every crossing ends well. Danger grows when a mortal goes by his own wish. The more the land means the home of the dead, the darker it grows. Tech Duinn keeps the seat of Donn, and his house unnerves. Arthur went for the cauldron of plenty inside Annwfn and barely lived. Irish names mark this grim face too. Dun Scath means the fort of shadow, the fort of fear. The twelfth century gives us Walter Map. Giraldus Cambrensis wrote in the same age. Both passed on a word. Uffern came from the Latin infernum. It shows Christian judgement on the old faith. That word now means hell in Welsh. Rulers mostly go unnamed, but some carry names. Arawn and his rival Hafgan top the Welsh list. Cethern and Eochaid Iuil follow. Eogan Inbir shares rule with Be Chuma, his wife. Labraid Luathlam sits beside Li Ban, his own partner. Manannan mac Lir keeps Fand beside him. Daire halls with Rigru Rosclethan. Tethra ends the roll. The craft-god Goibniu pours the otherworldly feast Fled Goibnenn. Its ale never dies.",
+ "entities": [
+  {
+   "entity": "Otherworld",
+   "type": "concept"
+  },
+  {
+   "entity": "fairies",
+   "type": "mythological creature"
+  },
+  {
+   "entity": "Samhain",
+   "type": "event"
+  },
+  {
+   "entity": "Avalon",
+   "type": "place"
+  },
+  {
+   "entity": "Emain Ablach",
+   "type": "place"
+  },
+  {
+   "entity": "síd",
+   "type": "concept"
+  },
+  {
+   "entity": "Mag Mell",
+   "type": "place"
+  },
+  {
+   "entity": "Tech Duinn",
+   "type": "place"
+  },
+  {
+   "entity": "Annwn",
+   "type": "place"
+  },
+  {
+   "entity": "Tuatha De Danann",
+   "type": "group"
+  },
+  {
+   "entity": "Cruachain",
+   "type": "place"
+  },
+  {
+   "entity": "Bran mac Febail",
+   "type": "person"
+  },
+  {
+   "entity": "Connla",
+   "type": "person"
+  },
+  {
+   "entity": "Cormac mac Airt",
+   "type": "person"
+  },
+  {
+   "entity": "Nera",
+   "type": "person"
+  },
+  {
+   "entity": "Cuchulainn",
+   "type": "hero"
+  },
+  {
+   "entity": "Pwyll",
+   "type": "person"
+  },
+  {
+   "entity": "Donn",
+   "type": "god"
+  },
+  {
+   "entity": "Arthur",
+   "type": "hero"
+  },
+  {
+   "entity": "Arawn",
+   "type": "god"
+  },
+  {
+   "entity": "Manannán mac Lir",
+   "type": "god"
+  },
+  {
+   "entity": "Fand",
+   "type": "person"
+  },
+  {
+   "entity": "Goibniu",
+   "type": "god"
+  },
+  {
+   "entity": "Tir na nOg",
+   "type": "place"
+  },
+  {
+   "entity": "Hy Brasil",
+   "type": "place"
+  },
+  {
+   "entity": "Ynys Afallon",
+   "type": "place"
+  },
+  {
+   "entity": "Uffern",
+   "type": "concept"
+  },
+  {
+   "entity": "Youdic",
+   "type": "place"
+  }
+ ],
+ "attributes": [
+  {
+   "entity": "Otherworld",
+   "attribute": "realm beyond the senses, usually delightful, entered only by invitation"
+  },
+  {
+   "entity": "Otherworld",
+   "attribute": "sometimes subsumes the Mediterranean underworld of the dead"
+  },
+  {
+   "entity": "Otherworld",
+   "attribute": "reached through islands, mounds, caves such as Cruachain, and some lakes"
+  },
+  {
+   "entity": "Otherworld",
+   "attribute": "entry never a reward for virtue; a lovers' summons is the common door"
+  },
+  {
+   "entity": "Otherworld",
+   "attribute": "time runs differently, one day or year there matching one hundred or three hundred mortal years"
+  },
+  {
+   "entity": "Otherworld",
+   "attribute": "dark face shown in Tech Duinn, Dun Scath, and Breton Youdic"
+  },
+  {
+   "entity": "síd",
+   "attribute": "mound or cave dwelling where the Tuatha De Danann fled"
+  },
+  {
+   "entity": "Mag Mell",
+   "attribute": "the Plain of Sports, one of the happy realms"
+  },
+  {
+   "entity": "Tech Duinn",
+   "attribute": "hidden house of the dead, the dreaded side"
+  },
+  {
+   "entity": "Annwn",
+   "type-override": "place"
+  }
+ ],
+ "sources": [
+  "Evans-Wentz, W. Y. The Fairy-Faith in Celtic Countries. Gerrards Cross: Colin Smythe Humanities Press, 1911, 332-338.",
+  "Löffler, Christa Maria. The Voyage to the Otherworld Island in Early Irish Literature. Salzburg Studies in English Literature. Salzburg: Institut Für Anglistik und Amerikanistik, Universität Salzburg, 1983.",
+  "O'Rahilly, Thomas. Early Irish History and Mythology. Dublin: The Dublin Institute for Advanced Studies, 1946, 328.",
+  "Patch, Howard Rollin. *The Other World: According to Descriptions in Medieval Literature.* Cambridge, Mass.: Harvard University Press, 1950, pp. 27 ff.",
+  "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.",
+  "Koch 2006, s.v. 'Otherworld'",
+  "MacKillop 2008, s.v. 'Otherworld'"
+ ],
+ "okr": {
+  "objective": "The Otherworld is the Celtic realm beyond the senses, a mostly delightful land entered by invitation, whose geography, doors, rulers, and dangers the sources map in detail.",
+  "key_results": [
+   "Koch treats Otherworld as a neutral tag with no securely rebuilt Proto-Celtic name.",
+   "Irish sid mounds open at Samain; Mag Mell and Tech Duinn are distinct lands; Welsh Annwn names the realm beneath the earth.",
+   "MacKillop defines it as beyond the senses, entered only through a denizen's invitation.",
+   "Hallstatt graves and druid teaching on transmigration ground belief in survival in the ancient record.",
+   "Entry runs through islands, mounds, caves like Cruachain, lakes, and a lovers' summons, never virtue.",
+   "Happy visions abound in food, sport, music, the self-restoring pig, and the cauldron of plenty.",
+   "Time distorts there: one day or year equals one hundred or three hundred mortal years.",
+   "Named realms include Emain Ablach, Tir na nOg, Ynys Afallon, and the Welsh Annwfh under many names.",
+   "The dark face holds Tech Duinn of Donn, Dun Scath, Arthur's near-death at Annwfn, and Uffern, the Welsh hell.",
+   "Rulers include Arawn, Hafgan, Labraid Luathlam, Manannan mac Lir with Fand, and Tethra."
+  ],
+  "evidence": "Evans-Wentz, The Fairy-Faith in Celtic Countries; Löffler, The Voyage to the Otherworld Island; O'Rahilly, Early Irish History and Mythology; Patch, The Other World; Monaghan, Encyclopedia of Celtic Mythology and Folklore; Koch 2006, s.v. 'Otherworld'; MacKillop 2008, s.v. 'Otherworld'"
+ }
 }

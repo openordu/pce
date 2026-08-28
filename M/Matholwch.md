@@ -2,69 +2,67 @@
 layout: layouts/pce.njk
 title: Matholwch
 icon: file-lines
-order: 1574
+order: 1875
 contributors: [ 'Christopher Godwin' ]
 attributes:
-  - warriors from Wales invited to a banquet
-  - warriors disguised as sacks of grain
-  - Efnisien killed the saboteurs
-  - Brân killed in the fighting
-  - Welsh heroes killed in the fighting
-  - Irish warriors taken to the grave
-  - Matholwch killed in the fighting
-  - Branwen died of a broken heart
+  - Matholwch a king of Ireland who sought a wife in Wales
+  - Matholwch allied his land with Britain through the wedding
+  - Matholwch lost his horses to the rage of half brother of Branwen
+  - Matholwch treated the princess coldly in the kitchen
+  - Matholwch died in the war he had invited
 categories:
-  - person
-  - location
-  - nationality
+  - Artifact
+  - Person
+  - Place
 entities:
-  - Matholwch(person)
-  - Wales(location)
-  - Efnisien(person)
-  - Brân(person)
-  - Welsh(nationality)
-  - Irish(nationality)
-  - heroes(person)
-  - Matholwch(person)
-  - Branwen(person)
+  - Matholwch(Person)
+  - Branwen(Person)
+  - Efnisien(Person)
+  - Gwern(Person)
+  - Bran the Blessed(Person)
+  - Manawydan(Person)
+  - Mabinogion(Artifact)
+  - Ireland(Place)
+  - Wales(Place)
+  - Llyr(Person)
 tags:
   - Matholwch
-  - Wales
-  - Efnisien
-  - Brân
-  - Welsh
-  - Irish
-  - heroes
-  - Matholwch
   - Branwen
+  - Efnisien
+  - Gwern
+  - Bran the Blessed
+  - Manawydan
+  - Mabinogion
+  - Ireland
+  - Wales
+  - Llyr
 ---
 ``` tab [group1:Info]
 ::: magazinestyle
-In the second branch of the Mabinogion, a remarkable compilation of Welsh myths, we come across Matholwch, the Irish hero who attempted to build a stronger relationship with the Celtic individuals across the Irish Sea in Wales, by weding Branwen, the charming young princess of the Welsh land. Unfortunately, once they arrived back in Ireland, he treated her cruelly because her half-brother Efnisien had injured his horses. Despite Branwen giving birth to their baby, Gwern, Matholwch abused her both physically and verbally, until her heroic brothers Brân The Blessed and Manawydan gathered an army to liberate her. In an attempt to trap the warriors from Wales, Matholwch organized a banquet where fighters were concealed, mimicking sacks of grain, all over the dining hall. However, Efnisien recognized the threat and killed the infiltrators. In the ensuing battle, Brân and all but seven of the Welsh heroes lost their lives, though they took all the Irish fighters with them to their demise, including Matholwch. Upon her return to Wales, Branwen died from a broken heart due to the chaos wrought by her unhappy situation.
+Matholwch was a king of Ireland. His story comes in the second branch of that Welsh cycle. That branch tells the tale of Branwen, a Welsh princess. Branwen was a daughter of the god Llyr. Her brothers were Bran the Blessed and the calm lord Manawydan. Matholwch crossed the sea to Wales to seek a wife. He hoped the wedding would join his island to Britain. The marriage was a matter of politics as much as love. Bran the Blessed gave his sister to the Irish king. Branwen would go far from the hills of her home. Matholwch built a great ship to carry his bride. The pair returned to Ireland in fine style. At first the union pleased the two courts. The white bird of peace flew between the shores. Yet one night the harmony broke. Efnisien, the fierce half-brother of Branwen, rushed in rage. He felt the wedding slighted his own house. The enraged prince set upon the royal horses. He tore off their little birds and their heads. The fine herds lay ruin. Matholwch watched his wealth fall apart. He saw the dishonest Gaels among his guests. The king turned cold in that same hour. War threatened between the offended royal courts. Bran the Wise sought on his part to keep the calm. He gave Matholwch new horses to still the anger. He added a magic cauldron to the gift. This cauldron renewed dead warriors for a single fight. Matholwch took the peace and let the quarrel rest. He carried his wife home past waters white. In private he grew cold toward Branwen. He set her to the cook's task in the fortress. He declared that she must work in the kitchen. The weary princess suffered daily by the fire. None of her wealth or kin could soften him. Her shame grew with each passing moon. Even the cry of her son Gwern could not help. Branwen built her own plan of flight. She trained a small bird to carry a letter. The starling flew to her brother far away. Bran once more crossed the great water. He swore to free her from her sorry lot. Matholwch set a trap to claim the host. He hid armed men inside jars of oil. He planned to end the British fleet at once. Efnisyen this time saw the squat. He worked the jars and silenced those within. So the war that came was far harsher for him. The two nations crossed lances whole time. At last the tide fell against Irish shores. Branwen slipped home, spent and ill. The court laid her to rest beside a river. The name of the king stays linked to the woe of that land.
 
 :::
 ```
 ``` tab [group1:Attributes]
-- **warriors from Wales**: invited to a banquet
-- **warriors**: disguised as sacks of grain
-- **Efnisien**: killed the saboteurs
-- **Brân**: killed in the fighting
-- **Welsh heroes**: killed in the fighting
-- **Irish warriors**: taken to the grave
-- **Matholwch**: killed in the fighting
-- **Branwen**: died of a broken heart
+- **Matholwch**: a king of Ireland who sought a wife in Wales
+- **Matholwch**: allied his land with Britain through the wedding
+- **Matholwch**: lost his horses to the rage of half brother of Branwen
+- **Matholwch**: treated the princess coldly in the kitchen
+- **Matholwch**: died in the war he had invited
 ```
 ``` tab [group1:Entities]
-- **Matholwch**: person
-- **Wales**: location
-- **Efnisien**: person
-- **Brân**: person
-- **Welsh**: nationality
-- **Irish**: nationality
-- **heroes**: person
-- **Matholwch**: person
-- **Branwen**: person
+- **Matholwch**: Person
+- **Branwen**: Person
+- **Efnisien**: Person
+- **Gwern**: Person
+- **Bran the Blessed**: Person
+- **Manawydan**: Person
+- **Mabinogion**: Artifact
+- **Ireland**: Place
+- **Wales**: Place
+- **Llyr**: Person
 ```
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
+- MacKillop 2008, s.v. 'Matholwch'
 ```

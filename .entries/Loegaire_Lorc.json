@@ -1,0 +1,52 @@
+{
+  "name": "Lóegaire Lorc",
+  "text": "Lóegaire Lorc carries the epithet Lorc, which the source glosses as fierce. He is a son of the high king Úgaine Mór. His death opens the tale Orgain Denna Rig, the Destruction of Dind Rig, and his son Labraid Loingsech later avenges him. The entry is brief because the tradition itself records little more: the killing and the vengeance frame the whole notice.",
+  "entities": [
+    {
+      "entity": "Lóegaire Lorc",
+      "type": "Person"
+    },
+    {
+      "entity": "Úgaine Mór",
+      "type": "Person"
+    },
+    {
+      "entity": "Orgain Denna Rig",
+      "type": "Text"
+    },
+    {
+      "entity": "Labraid Loingsech",
+      "type": "Person"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Lóegaire Lorc",
+      "attribute": "son of Úgaine Mór"
+    },
+    {
+      "entity": "Lóegaire Lorc",
+      "attribute": "killed at the beginning of Orgain Denna Rig"
+    },
+    {
+      "entity": "Lóegaire Lorc",
+      "attribute": "avenged by his son Labraid Loingsech"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Lóegaire Lorc'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Records Lóegaire Lorc, son of Úgaine Mór, whose killing opens the Destruction of Dind Rig.",
+    "key_results": [
+      "Epithet Lorc glossed as fierce",
+      "Son of Úgaine Mór",
+      "Killed at the start of Orgain Denna Rig",
+      "Avenged by his son Labraid Loingsech"
+    ],
+    "evidence": "MacKillop 2008, s.v. Lóegaire Lorc."
+  }
+}

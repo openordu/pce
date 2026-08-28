@@ -2,29 +2,93 @@
 layout: layouts/pce.njk
 title: Mercury
 icon: file-lines
-order: 1605
+order: 1906
 contributors: [ 'Christopher Godwin' ]
 attributes:
-  - Mercury Visucius None
+  - Mercury a Roman-renamed god of the British and Continental Celts
+  - Mercury called by Caesar the most worshiped god and inventor of the arts
+  - Mercury shown with a lion, a ram, or a goat as tokens of power
+  - Mercury a god of commerce and plenty rather than a warrior
+  - Mercury paired with the healing goddess Rosmerta
+  - Mercury known by the native name Lugos in the old records
 categories:
-  - Roman god
+  - Artifact
+  - Person
+  - Place
 entities:
-  - Mercury Visucius(Roman god)
+  - Mercury(Person)
+  - Rosmerta(Person)
+  - Hermes(Person)
+  - Lug(Person)
+  - Caesar(Person)
+  - Gaul(Place)
+  - Britain(Place)
+  - Vosges(Place)
+  - torc(Artifact)
+  - caduceus(Artifact)
 tags:
-  - Mercury Visucius
+  - Mercury
+  - Rosmerta
+  - Hermes
+  - Lug
+  - Caesar
+  - Gaul
+  - Britain
+  - Vosges
+  - torc
+  - caduceus
 ---
 ``` tab [group1:Info]
 ::: magazinestyle
-Mercury is a Celtic god who was worshipped in both Britain and the Continent. When the Roman legions arrived in the region, many of the Celtic gods, who were localized to specific tribes or regions, were given new names based on Roman gods. It is unclear whether the many gods who were renamed "Mercury" were similar in nature, or what the original powers of this god were. According to Caesar, Mercury was the most popular god among the Celts and was frequently depicted in art. Unlike the Celtic war god, Mars, Mercury was a god of trade and prosperity. He was often depicted carrying a bag of money, indicating his success in commercial transactions. Mercury was occasionally portrayed as a messenger of the gods, although this was a rare concept in Celtic mythology, as he was primarily associated with trading and commerce. He was also connected with Rosmerta, a water goddess who was worshipped for healing in Gaul. Mercury was often depicted wearing a Torc, a twisted neck-piece that symbolized power and prestige. He was sometimes shown with a winged double-snake caduceus, a classical emblem associated with healing, which suggested that he possessed the power of healing. While it is difficult to determine Mercury's original identity, several gods have been suggested as possible candidates for his original Celtic character. The poet Lucan describes Teutates, the god of the tribe, and Esus, the woodland god, using the name Mercury. Various local names have been preserved such as Mercury Artaios, who is associated with “bear” or “ploughed land,” Mercury Arvernorix, who is linked to Avernus, Mercury Cimiacinus, who is considered to be a god of roads in Britain, Mercury Cissonius, Mercury Cultor, or “the farmer,” Mercury Dumaitis, also known as Dumias and associated with “hill” or “mound,” Mercury Iovantucarus, and Mercury Visucius. One inscription in France mentions Mercury Moccus, who may be related to the concept of “Pig.”
+Mercury was a god of the Continental and British Celts in the Roman era.
+Roman writers gave his name to the local deity who was most widely worshiped. He held
+the first place among the gods the Celts followed. The old native titles were set aside
+by the Roman custom of reinterpretation. A Latin name then replaced the lost Celtic one.
+Many sculptures and accounts keep the outline of his cult. Images show him with a cock,
+a ram, or a goat. Those beasts stand for virility and masculine power. He was not a
+soldier. He guarded commerce, exchange, and the easy fruits of trade. He carried a bag
+or purse of money. He wore a torc, the heavy twisted collar of pride. He also held the
+caduceus, the winged staff of two snakes. The staff is a sign of healing in the old art
+of the body. He stood often beside the goddess Rosmerta of the healing spring. That pair
+shared a shrine at Braint in the land of Gaul.
+Caesar wrote that Mercury invented all the arts known to a people. Caesar set this god
+level with the Irish Lug of the long arm. He mirrored the Welsh hero of equal light.
+Roman writers joined him with the Greek god named Hermes. Hermes guarded the road, the
+market, and the wayward thief. The Romans made him patron of commerce and of easy
+travel. At many sites the Celts honored him with a triple one. Carvers set his his face
+in three parts and his body in three parts. His famous altars rose in the hills of the
+Vosges. Some statues gave him the horns of a stag. Others placed the native goddess
+with him to share all his shrines.
+A native name engaging him is the form Lugos or the form Lugus. That root lives in the
+Roman town name Lug(u)dunum. It fed the modern names of Lyon, Laon, and Leiden. It
+tied the god closely to the hero Lug and the feast of Lughnya. A second native name
+belongs to the far south of Gaul, where the Romans wrote better the earth. At a hundred
+crossings he took the titles of the bear and the boar. He led the war troop of the
+beast as well. The name of the old war-god rings in the same dark.
 
 :::
 ```
 ``` tab [group1:Attributes]
-- **Mercury Visucius**: None
+- **Mercury**: a Roman-renamed god of the British and Continental Celts
+- **Mercury**: called by Caesar the most worshiped god and inventor of the arts
+- **Mercury**: shown with a lion, a ram, or a goat as tokens of power
+- **Mercury**: a god of commerce and plenty rather than a warrior
+- **Mercury**: paired with the healing goddess Rosmerta
+- **Mercury**: known by the native name Lugos in the old records
 ```
 ``` tab [group1:Entities]
-- **Mercury Visucius**: Roman god
+- **Mercury**: Person
+- **Rosmerta**: Person
+- **Hermes**: Person
+- **Lug**: Person
+- **Caesar**: Person
+- **Gaul**: Place
+- **Britain**: Place
+- **Vosges**: Place
+- **torc**: Artifact
+- **caduceus**: Artifact
 ```
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
+- MacKillop 2008, s.v. 'Mercury'
 ```

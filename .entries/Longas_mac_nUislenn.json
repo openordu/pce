@@ -1,0 +1,43 @@
+{
+  "name": "Longas mac nUislenn",
+  "text": "Longas mac nUislenn is the tale title meaning the banishment of the sons of Uisnech. Irish tradition knows the same material as the Deirdre story. MacKillop sends readers from this headword to the Deirdre entry, which carries the full account.",
+  "entities": [
+    {
+      "entity": "Longas mac nUislenn",
+      "type": "Text"
+    },
+    {
+      "entity": "Sons of Uisneach",
+      "type": "Group"
+    },
+    {
+      "entity": "Deirdre",
+      "type": "Person"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Longas mac nUislenn",
+      "attribute": "Tale title meaning the banishment of the sons of Uisnech"
+    },
+    {
+      "entity": "Longas mac nUislenn",
+      "attribute": "Header that redirects readers to the Deirdre story"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Longas mac nUislenn'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Records Longas mac nUislenn as the tale title for the Deirdre story.",
+    "key_results": [
+      "The title means the banishment of the sons of Uisnech.",
+      "The headword redirects readers to the Deirdre entry.",
+      "The Deirdre story supplies the full account."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Longas mac nUislenn'."
+  }
+}

@@ -1,0 +1,79 @@
+{
+ "name": "Owain",
+ "text": "Owain, with the variants Owein and Owen and the Latin form Eugenius meaning well-born, is the name that MacKillop 2008 gives as carried through legend, romance, and history in early Wales by a host of figures, most notably the hero Owain ap Urien and Owain Glyndyfrdwy, Glendower, who headed the final Welsh resistance to enjoy success against English domination from 1401 to 1406. The dictionary's principal article under the name treats the thirteenth-century Welsh Arthurian prose romance Owain, also known as the Lady of the Fountain, one of the Tair Rhamant beside Geraint ac Enid and Peredur, surviving in the White Book of Rhydderch and the Red Book of Hergest and taken into Lady Charlotte Guest's Mabinogion translation, although it falls outside the four branches. The plot sends Owain after Cynon's tale to slay the Knight of the Fountain, win the fountain's lady with Luned's magical ring and stone of invisibility, rule three years, and lose everything when he fails to return. Mad in the wild with matted hair, he is healed by a widow, befriends a white lion that proves to be the rescued Luned in her animal shape, defeats foes including Du Traws, and is restored as the Knight of the Fountain. The historical kernel is the sixth-century Owain ap Urien, defender of Rheged, patron of Taliesin, in the Triads a son of Urien by the semi-divine Modron, much associated with ravens and with the board-game gwyddbwyll played against Arthur in the Dream of Rhonabwy. The dictionary closes with the Chrétien de Troyes parallel, Yvain or Chevalier du Lion of about 1178, and the unresolved question of a lost Welsh source behind the French poem.",
+ "entities": [
+  {
+   "entity": "Owain",
+   "type": "Person"
+  },
+  {
+   "entity": "Owain ap Urien",
+   "type": "Person"
+  },
+  {
+   "entity": "Urien",
+   "type": "Person"
+  },
+  {
+   "entity": "Modron",
+   "type": "Deity"
+  },
+  {
+   "entity": "Luned",
+   "type": "Person"
+  },
+  {
+   "entity": "Lady of the Fountain",
+   "type": "Person"
+  },
+  {
+   "entity": "Arthur",
+   "type": "Person"
+  },
+  {
+   "entity": "Taliesin",
+   "type": "Person"
+  },
+  {
+   "entity": "Rheged",
+   "type": "Place"
+  },
+  {
+   "entity": "Tair Rhamant",
+   "type": "Concept"
+  },
+  {
+   "entity": "Chrétien de Troyes",
+   "type": "Person"
+  }
+ ],
+ "attributes": [
+  {
+   "entity": "Owain",
+   "attribute": "name borne by figures of Welsh legend, romance, and history, L. Eugenius"
+  },
+  {
+   "entity": "Owain",
+   "attribute": "hero of the Lady of the Fountain romance, one of the Tair Rhamant"
+  },
+  {
+   "entity": "Owain",
+   "attribute": "based on the sixth-century Owain ap Urien of Rheged, son of Urien and Modron"
+  }
+ ],
+ "sources": [
+  "MacKillop 2008, s.v. 'Owain'"
+ ],
+ "image": [],
+ "cyphertext": "",
+ "salt": "",
+ "okr": {
+  "objective": "Documents Owain as recorded in MacKillop 2008 for the Public Celtic Encyclopedia.",
+  "key_results": [
+   "Owain is a Welsh name whose chief bearers are Owain ap Urien and Glendower.",
+   "The romance sends him through madness, a lion companion, and restoration.",
+   "Chrétien's Yvain of about 1178 parallels the Welsh narrative."
+  ],
+  "evidence": "MacKillop 2008, s.v. Owain."
+ }
+}

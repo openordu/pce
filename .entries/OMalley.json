@@ -1,0 +1,43 @@
+{
+ "name": "O'Malley",
+ "text": "O'Malley is the English surname of Grace O'Malley, the sixteenth-century pirate whose Irish name Gráinne Mhaol Ní Mháille heads the granuaile article in MacKillop 2008. The dictionary introduces her there with the dates c.1530 to 1603 and the phrase celebrated pirate of the Mayo coast, and its cross-reference web ties both name forms, Irish and English, to that single treatment. The row carries the anglicized surname so that a reader arriving from English sources reaches the same body of legend and history.",
+ "entities": [
+  {
+   "entity": "O'Malley",
+   "type": "Alternate name"
+  },
+  {
+   "entity": "Granuaile",
+   "type": "Person"
+  },
+  {
+   "entity": "Grace O'Malley",
+   "type": "Person"
+  }
+ ],
+ "attributes": [
+  {
+   "entity": "O'Malley",
+   "attribute": "English surname of Grace O'Malley, celebrated pirate of the Mayo coast"
+  },
+  {
+   "entity": "O'Malley",
+   "attribute": "routes to the granuaile article in MacKillop 2008"
+  }
+ ],
+ "sources": [
+  "MacKillop 2008, s.v. 'O'Malley'"
+ ],
+ "image": [],
+ "cyphertext": "",
+ "salt": "",
+ "okr": {
+  "objective": "Documents O'Malley as recorded in MacKillop 2008 for the Public Celtic Encyclopedia.",
+  "key_results": [
+   "O'Malley is the anglicized surname of Grace O'Malley.",
+   "The name belongs to the pirate celebrated under granuaile.",
+   "Dates given are c.1530 to 1603."
+  ],
+  "evidence": "MacKillop 2008, s.v. O'Malley."
+ }
+}

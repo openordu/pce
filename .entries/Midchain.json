@@ -1,0 +1,42 @@
+{
+  "name": "Midchain",
+  "text": "Midchain is a variant spelling of Miodhchaoin, the ogre who guards a hill in northern Lochlainn. Under that name the guardian appears in the Tuireann tale's list of tasks.",
+  "entities": [
+    {
+      "entity": "Midchain",
+      "type": "Being"
+    },
+    {
+      "entity": "Miodhchaoin",
+      "type": "Being"
+    },
+    {
+      "entity": "Lochlainn",
+      "type": "Place"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Midchain",
+      "attribute": "variant spelling of Miodhchaoin"
+    },
+    {
+      "entity": "Midchain",
+      "attribute": "spelling variant carried by the Lochlainn ogre"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Midchain'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Documents Midchain as recorded in MacKillop 2008 for the Public Celtic Encyclopedia.",
+    "key_results": [
+      "The entry is a spelling cross-reference to Miodhchaoin.",
+      "Miodhchaoin guards a hill in northern Lochlainn."
+    ],
+    "evidence": "MacKillop 2008, s.v. Midchain."
+  }
+}

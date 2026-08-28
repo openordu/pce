@@ -1,0 +1,65 @@
+{
+  "name": "Menw fab Teirgwaedd",
+  "text": "Menw fab Teirgwaedd is a wizard who travels with Culhwch in Culhwch ac Olwen. His gift is invisibility, and he uses it at the court of the giant Ysbaddaden Bencawr. He rides with Arthur in the hunt of the Twrch Trwyth. The party sends him into Ireland to check that the treasures the hunt seeks truly sit between the boar's ears. He can take the shape of a bird. In the Triads he takes his place among Britain's three renowned enchanters.",
+  "entities": [
+    {
+      "entity": "Menw fab Teirgwaedd",
+      "type": "Person"
+    },
+    {
+      "entity": "Culhwch",
+      "type": "Person"
+    },
+    {
+      "entity": "Culhwch ac Olwen",
+      "type": "Text"
+    },
+    {
+      "entity": "Ysbaddaden Bencawr",
+      "type": "Being"
+    },
+    {
+      "entity": "Arthur",
+      "type": "Person"
+    },
+    {
+      "entity": "Twrch Trwyth",
+      "type": "Animal"
+    },
+    {
+      "entity": "Triads",
+      "type": "Text"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Menw fab Teirgwaedd",
+      "attribute": "wizard in Culhwch ac Olwen with a power of invisibility"
+    },
+    {
+      "entity": "Menw fab Teirgwaedd",
+      "attribute": "hunts the Twrch Trwyth on Arthur's behalf"
+    },
+    {
+      "entity": "Menw fab Teirgwaedd",
+      "attribute": "one of the Three Enchanters of the Isle of Britain per the Triads"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Menw fab Teirgwaedd'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Documents Menw fab Teirgwaedd as recorded in MacKillop 2008 for the Public Celtic Encyclopedia.",
+    "key_results": [
+      "Menw fab Teirgwaedd rides with Culhwch in Culhwch ac Olwen.",
+      "He turns invisible at the court of Ysbaddaden Bencawr.",
+      "On Arthur's behalf he joins the hunting of the Twrch Trwyth.",
+      "He goes to Ireland to confirm the treasures lie between the boar's ears.",
+      "The Triads name him one of the Three Enchanters of the Isle of Britain."
+    ],
+    "evidence": "MacKillop 2008, s.v. Menw fab Teirgwaedd."
+  }
+}

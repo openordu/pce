@@ -1,0 +1,53 @@
+{
+  "name": "Mechi",
+  "text": "Mechi was a son of the Mórrígan. Per the Dindshenchas, Mac Cécht slew Mechi at the River Barrow. When the body was opened, Mechi proved to have three hearts, and each heart held a serpent. Left alive, those serpents could have brought disaster on Ireland. Mac Cécht burned the corpse and cast the ashes into the river, and so ended the threat.",
+  "entities": [
+    {
+      "entity": "Mechi",
+      "type": "Being"
+    },
+    {
+      "entity": "Mórrígan",
+      "type": "Deity"
+    },
+    {
+      "entity": "Dindshenchas",
+      "type": "Text"
+    },
+    {
+      "entity": "Mac Cécht",
+      "type": "Person"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Mechi",
+      "attribute": "son of the Mórrígan"
+    },
+    {
+      "entity": "Mechi",
+      "attribute": "slain by Mac Cécht on the River Barrow per the Dindshenchas"
+    },
+    {
+      "entity": "Mechi",
+      "attribute": "carried three hearts, each holding a serpent"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Mechi'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Documents Mechi as recorded in MacKillop 2008 for the Public Celtic Encyclopedia.",
+    "key_results": [
+      "Mechi was a son of the Mórrígan.",
+      "Mac Cécht killed him on the River Barrow, as the Dindshenchas tells it.",
+      "Three hearts were found in his body, each with a serpent inside.",
+      "Mac Cécht burned him and threw the ashes into the river.",
+      "The burning stopped the serpents from ruining Ireland."
+    ],
+    "evidence": "MacKillop 2008, s.v. Mechi."
+  }
+}

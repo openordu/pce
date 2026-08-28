@@ -1,0 +1,55 @@
+{
+  "name": "Maigneis",
+  "text": "Maigneis appears in the variant forms Maighneis, Maignes, Maighnis, and Maighean. She is the second wife of Fionn mac Cumhaill, and the hero grieves for her as Toraigheacht Dhiarmada agus Grainne, the Pursuit of Diarmait and of Grainne, opens. The tale records her as the daughter of Garad mac Morna, also called Glundub, meaning black knee. Her brother is Goll mac Morna. Her place in the story is fixed by that grief, which sets the opening movement of the pursuit in motion.",
+  "entities": [
+    {
+      "entity": "Maigneis",
+      "type": "Person"
+    },
+    {
+      "entity": "Fionn mac Cumhaill",
+      "type": "Person"
+    },
+    {
+      "entity": "Garad mac Morna",
+      "type": "Person"
+    },
+    {
+      "entity": "Goll mac Morna",
+      "type": "Person"
+    },
+    {
+      "entity": "Toraigheacht Dhiarmada agus Grainne",
+      "type": "Text"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Maigneis",
+      "attribute": "is the second wife of Fionn mac Cumhaill"
+    },
+    {
+      "entity": "Maigneis",
+      "attribute": "is the daughter of Garad mac Morna and sister of Goll mac Morna"
+    },
+    {
+      "entity": "Fionn mac Cumhaill",
+      "attribute": "grieves for Maigneis as the Pursuit opens"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Maigneis'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Documents Maigneis as Fionn's second wife in the Pursuit tale.",
+    "key_results": [
+      "Second wife of Fionn mac Cumhaill",
+      "Daughter of Garad mac Morna, sister of Goll mac Morna",
+      "Her loss opens Toraigheacht Dhiarmada agus Grainne"
+    ],
+    "evidence": "MacKillop 2008, s.v. Maigneis."
+  }
+}

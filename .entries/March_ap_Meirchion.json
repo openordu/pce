@@ -1,0 +1,71 @@
+{
+  "name": "March ap Meirchion",
+  "text": "March ap Meirchion, in the variant form vab Meirchiawn, is an early Welsh legendary hero. The Welsh march means horse, and the name plays against the story attached to him. He stands behind the Arthurian King Mark as an antecedent.\n\nThe Welsh Triads make March one of the island's Three Seafarers. Historical records make him the son of Glamorgan's king, a ruler who granted lands to Saint Illtud. Allusions to March appear in the dream-tale Breuddwyd Rhonabwy and in the gnomic grave-poetry of the Englynion y Beddau. More recent folklore places him at Castell March in Llyn, Caernarvonshire, in north-western Wales.\n\nThere he shares with the Irish king Labraid Loingsech the affliction of horse's ears, a pun on his own name. Shame makes him grow his hair long over them, and he puts his barbers to death to protect the secret.\n\nIn Welsh Arthurian story March rules Cornwall as the king caught between Tristan and Iseult. The international King Mark draws on other antecedents besides him, but the Welsh hero remains the clearest native source. John James Jones's 1932 study of March in Aberystwyth Studies stays the standard treatment.",
+  "entities": [
+    {
+      "entity": "March ap Meirchion",
+      "type": "Person"
+    },
+    {
+      "entity": "Mark, King",
+      "type": "Person"
+    },
+    {
+      "entity": "Labraid Loingsech",
+      "type": "Person"
+    },
+    {
+      "entity": "Tristan",
+      "type": "Person"
+    },
+    {
+      "entity": "Iseult",
+      "type": "Person"
+    },
+    {
+      "entity": "Breuddwyd Rhonabwy",
+      "type": "Text"
+    },
+    {
+      "entity": "Englynion y Beddau",
+      "type": "Text"
+    },
+    {
+      "entity": "Illtud",
+      "type": "Person"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "March ap Meirchion",
+      "attribute": "means son of Meirchion, with march the Welsh for horse"
+    },
+    {
+      "entity": "March ap Meirchion",
+      "attribute": "is one of the Three Seafarers in the Welsh Triads"
+    },
+    {
+      "entity": "March ap Meirchion",
+      "attribute": "shares the horse's-ears affliction of Labraid Loingsech"
+    },
+    {
+      "entity": "Mark, King",
+      "attribute": "counts March ap Meirchion among his antecedents"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'March ap Meirchion'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Documents March ap Meirchion as the Welsh antecedent of King Mark.",
+    "key_results": [
+      "One of the Three Seafarers in the Welsh Triads",
+      "Horse's-ears story shared with Labraid Loingsech",
+      "King of Cornwall in Welsh Tristan and Iseult material"
+    ],
+    "evidence": "MacKillop 2008, s.v. March ap Meirchion."
+  }
+}

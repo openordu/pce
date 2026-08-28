@@ -1,0 +1,64 @@
+{
+  "name": "Lóegaire",
+  "text": "Lóegaire stands among the most common personal names of early Ireland. The dictionary lists the variant forms Láegaire, Lóeghaire, Laeghire, Laoghaire, Laoire, Lóegure, and Leary. Legendary heroes, kings, and saints all carried it, and the best-known bearer is probably the Ulster Cycle champion Lóegaire Búadach.\n\nThe name organizes a whole family of entries. This batch of the encyclopedia documents the champion Lóegaire Búadach, the fierce Lóegaire Lorc, the adventure hero Lóegaire mac Crimthann, and the Tara king Lóegaire mac Néill. Readers chasing a saint or a ruler of the conversion era should start with the mac Néill entry, while students of the champion's portion contest should start with Búadach.",
+  "entities": [
+    {
+      "entity": "Lóegaire",
+      "type": "Concept"
+    },
+    {
+      "entity": "Lóegaire Búadach",
+      "type": "Person"
+    },
+    {
+      "entity": "Lóegaire Lorc",
+      "type": "Person"
+    },
+    {
+      "entity": "Lóegaire mac Crimthann",
+      "type": "Person"
+    },
+    {
+      "entity": "Lóegaire mac Néill",
+      "type": "Person"
+    },
+    {
+      "entity": "Ulster Cycle",
+      "type": "Text"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Lóegaire",
+      "attribute": "one of the most common names in early Ireland"
+    },
+    {
+      "entity": "Lóegaire",
+      "attribute": "variant forms include Láegaire, Laoghaire, Laoire, and Leary"
+    },
+    {
+      "entity": "Lóegaire",
+      "attribute": "borne by legendary heroes, kings, and saints"
+    },
+    {
+      "entity": "Lóegaire",
+      "attribute": "best-known bearer is probably Lóegaire Búadach of the Ulster Cycle"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Lóegaire'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Documents Lóegaire as a common early-Irish name and indexes its principal legendary bearers.",
+    "key_results": [
+      "Among the most common names of early Ireland",
+      "Variant forms run from Láegaire to Leary",
+      "Carried by heroes, kings, and saints",
+      "Best-known bearer is Lóegaire Búadach of the Ulster Cycle"
+    ],
+    "evidence": "MacKillop 2008, s.v. Lóegaire."
+  }
+}

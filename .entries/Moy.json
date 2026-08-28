@@ -1,0 +1,38 @@
+{
+ "name": "Moy",
+ "text": "Moy, and the prefix Moy-, give the sound of the Irish word Mag, which means plain. The anglicized form marks both imagined and real place-names: Moytura and Moytirra carry it, and so does Moynalty.",
+ "entities": [
+  {
+   "entity": "Moy",
+   "type": "Place"
+  },
+  {
+   "entity": "Mag",
+   "type": "Place"
+  }
+ ],
+ "attributes": [
+  {
+   "entity": "Moy",
+   "attribute": "phonetic anglicization of Irish Mag, plain"
+  },
+  {
+   "entity": "Moy",
+   "attribute": "prefix in place-names such as Moytura and Moynalty"
+  }
+ ],
+ "sources": [
+  "MacKillop 2008, s.v. 'Moy, Moy-'"
+ ],
+ "image": [],
+ "cyphertext": "",
+ "salt": "",
+ "okr": {
+  "objective": "Documents Moy as recorded in MacKillop 2008 for the Public Celtic Encyclopedia.",
+  "key_results": [
+   "Moy is the phonetic anglicization of Irish Mag.",
+   "The form appears in both imaginary and actual place-names."
+  ],
+  "evidence": "MacKillop 2008, s.v. Moy, Moy-."
+ }
+}
