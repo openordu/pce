@@ -1,0 +1,47 @@
+{
+ "name": "Ossory",
+ "text": "Ossory is the anglicized name, the dictionary explains from the Irish Osraige, of a medieval realm whose extent nearly matches today's diocese of Ossory across County Kilkenny and neighbouring ground. The entry is compact but anchors a dense web of cross-references in the volume: the annals and saints' lives repeatedly stage figures of this kingdom, from the invading druid of the Osraige in the settlement tales to the patron of the diocese honoured at Kilkenny. The name itself, by the folk etymology the dictionary's Irish headword preserves, invokes the deer-people, and the kingdom's location between Leinster and Munster gave its fighters a recurrent role in provincial wars recorded in the narrative literature. MacKillop's file keeps Ossory distinct from Ormond, its eastern neighbour, and from the Osraige people-name, which carries its own signpost entry.",
+ "entities": [
+  {
+   "entity": "Ossory",
+   "type": "Place"
+  },
+  {
+   "entity": "Osraige",
+   "type": "People"
+  },
+  {
+   "entity": "Kilkenny",
+   "type": "Place"
+  }
+ ],
+ "attributes": [
+  {
+   "entity": "Ossory",
+   "attribute": "anglicized name of a medieval kingdom in County Kilkenny and adjacent areas"
+  },
+  {
+   "entity": "Ossory",
+   "attribute": "roughly coextensive with the modern diocese of Ossory"
+  },
+  {
+   "entity": "Ossory",
+   "attribute": "named from the Osraige, the deer-people of the Irish sources"
+  }
+ ],
+ "sources": [
+  "MacKillop 2008, s.v. 'Ossory'"
+ ],
+ "image": [],
+ "cyphertext": "",
+ "salt": "",
+ "okr": {
+  "objective": "Documents Ossory as recorded in MacKillop 2008 for the Public Celtic Encyclopedia.",
+  "key_results": [
+   "Ossory is the anglicized name of a medieval kingdom in County Kilkenny.",
+   "The kingdom is roughly coextensive with the modern diocese.",
+   "Its Irish name Osraige means the deer-people."
+  ],
+  "evidence": "MacKillop 2008, s.v. Ossory."
+ }
+}
