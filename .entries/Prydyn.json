@@ -1,0 +1,42 @@
+{
+  "name": "Prydyn",
+  "text": "Prydyn is the early Welsh name for the Pictish people. MacKillop cross-references the form to the article on Prydain, the Welsh name for Britain.",
+  "entities": [
+    {
+      "entity": "Prydyn",
+      "type": "Group"
+    },
+    {
+      "entity": "Pict",
+      "type": "Group"
+    },
+    {
+      "entity": "Prydain",
+      "type": "Place"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Prydyn",
+      "attribute": "early Welsh name for the Picts"
+    },
+    {
+      "entity": "Pict",
+      "attribute": "people named by the early Welsh form Prydyn"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Prydyn'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Prydyn is the early Welsh name for the Pictish people",
+    "key_results": [
+      "early Welsh name for the Picts",
+      "cross-referenced to the Prydain article"
+    ],
+    "evidence": "MacKillop 2008, s.v. Prydyn."
+  }
+}

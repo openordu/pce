@@ -1,0 +1,43 @@
+{
+  "name": "Ptolemy",
+  "text": "Ptolemy (fl. AD 139-61) was an Egyptian geographer and astronomer, often styled Claudius Ptolemaeus. That fuller name separates him from the Egyptian kings of the same era who were also called Ptolemy. Fame rests chiefly on his astronomy, and he stood as the leading theorist before Copernicus in 1543. His Geographia holds the better standing today. It corrects the observations of earlier writers and carries some of the most dependable data from the ancient world. The work runs to eight books. Twenty-six maps illustrate it, including a map of the world as then known. The core lists places with latitude and longitude, one entry at a time. A short account describes every continent, country, and people. Paul Fischer issued a Geography edition (London, 1932), and a three-volume Geographia appeared at Hildesheim in 1966. T. G. Rylands published The Geography of Ptolemy (London, 1893). Edward L. Stevenson edited a 1932 New York Geography of Claudius Ptolemy. Walter M. Ellis published a 1994 biography of Ptolemy in London and New York.",
+  "entities": [
+    {
+      "entity": "Ptolemy",
+      "type": "Person"
+    },
+    {
+      "entity": "Geographia",
+      "type": "Text"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Ptolemy",
+      "attribute": "Egyptian geographer and astronomer, fl. AD 139-61"
+    },
+    {
+      "entity": "Ptolemy",
+      "attribute": "author of the eight-book Geographia with twenty-six maps"
+    },
+    {
+      "entity": "Ptolemy",
+      "attribute": "leading astronomical theorist before Copernicus"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Ptolemy'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Ptolemy (fl",
+    "key_results": [
+      "styled Claudius Ptolemaeus to distinguish him from Egyptian kings",
+      "Geographia corrects earlier observers and carries reliable ancient data",
+      "eight books and twenty-six maps, including a world map"
+    ],
+    "evidence": "MacKillop 2008, s.v. Ptolemy."
+  }
+}

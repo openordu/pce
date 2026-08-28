@@ -1,0 +1,60 @@
+{
+  "name": "Percevel",
+  "text": "Percevel, also spelled Perceval, Percival, Parsifal, Parzifal, and Perchevael, is the Grail hero of the Arthurian legends. His story draws on many Celtic forerunners and parallels. Those include Amadán Mór, Fionn mac Cumhaill, Peredur, and Peronnik. Chrétien de Troyes introduced the character around 1182 in his Conte del Graal, also called Perceval. English, French, and German retellings disagree about his life and family, yet every version keeps the core shape. He starts as a naive country outsider and grows into the hero who pursues the Grail. Richard Wagner staged the figure as a guileless simpleton in his 1882 music drama Parsifal. Jessie L. Weston's The Legend of Sir Perceval (London, 1906 and 1909) remains a standard study. R. B. Pace connected the boyish exploits of Perceval with those of Finn in a 1917 PMLA paper. Arthur C. L. Brown traced the Grail legend's origins in 1935. D. D. R. Owen followed the story's development in Romania (1959). Ceridwen Lloyd-Morgan collected the late medieval Welsh Grail traditions in 1986.",
+  "entities": [
+    {
+      "entity": "Percevel",
+      "type": "Person"
+    },
+    {
+      "entity": "Peredur",
+      "type": "Person"
+    },
+    {
+      "entity": "Peronnik",
+      "type": "Person"
+    },
+    {
+      "entity": "Amadán",
+      "type": "Person"
+    },
+    {
+      "entity": "Fionn mac Cumhaill",
+      "type": "Person"
+    },
+    {
+      "entity": "Chrétien de Troyes",
+      "type": "Text"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Percevel",
+      "attribute": "Grail hero of the Arthurian legends"
+    },
+    {
+      "entity": "Percevel",
+      "attribute": "introduced by Chrétien de Troyes around 1182"
+    },
+    {
+      "entity": "Percevel",
+      "attribute": "Celtic forerunners include Peredur, Peronnik, Amadán Mór, and Fionn mac Cumhaill"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Percevel'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Percevel, also spelled Perceval, Percival, Parsifal, Parzifal, and Perchevael, is the Grail hero of the Arthurian legends",
+    "key_results": [
+      "first appears in Chrétien de Troyes's Conte del Graal, c.1182",
+      "retellings in English, French, and German keep the core shape",
+      "Wagner's Parsifal (1882) presents the figure as a guileless simpleton",
+      "Celtic parallels include Amadán Mór, Fionn mac Cumhaill, Peredur, and Peronnik"
+    ],
+    "evidence": "MacKillop 2008, s.v. Percevel."
+  }
+}

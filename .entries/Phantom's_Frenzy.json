@@ -1,0 +1,37 @@
+{
+  "name": "Phantom's Frenzy",
+  "text": "Phantom's Frenzy is the usual English form of the Irish title Baile In Scail. MacKillop lists this phrase as the standard rendering of that vision tale, whose full record sits under its Irish name.",
+  "entities": [
+    {
+      "entity": "Phantom's Frenzy",
+      "type": "Concept"
+    },
+    {
+      "entity": "Baile In Scail",
+      "type": "Text"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Phantom's Frenzy",
+      "attribute": "usual English rendering of the Irish title Baile In Scail"
+    },
+    {
+      "entity": "Baile In Scail",
+      "attribute": "vision tale recorded under its Irish title"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Phantom’s Frenzy'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Phantom's Frenzy is the usual English form of the Irish title Baile In Scail",
+    "key_results": [
+      "English form of the Irish vision tale Baile In Scail"
+    ],
+    "evidence": "MacKillop 2008, s.v. Phantom’s Frenzy."
+  }
+}

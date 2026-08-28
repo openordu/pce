@@ -1,0 +1,38 @@
+{
+  "name": "Prydain",
+  "text": "Prydain, or Prydein, is the Welsh name for Britain. The term covers the island's Welsh-speaking portion. Welsh usage contrasts it with Lloegr, the name for England.",
+  "entities": [
+    {
+      "entity": "Prydain",
+      "type": "Place"
+    },
+    {
+      "entity": "Britain",
+      "type": "Place"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Prydain",
+      "attribute": "Welsh name for Britain"
+    },
+    {
+      "entity": "Prydain",
+      "attribute": "contrasted in Welsh usage with Lloegr, England"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Prydain'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Prydain, or Prydein, is the Welsh name for Britain",
+    "key_results": [
+      "Welsh name for Britain, the Welsh-speaking island",
+      "contrast form Lloegr names England"
+    ],
+    "evidence": "MacKillop 2008, s.v. Prydain."
+  }
+}

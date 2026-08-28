@@ -1,0 +1,38 @@
+{
+  "name": "Quelgny",
+  "text": "Quelgny is a variant anglicization of Cuailnge. The Táin bó Cuailnge article carries the full account of the raid from Cooley. The name belongs to the district that gives the great cattle raid its title.",
+  "entities": [
+    {
+      "entity": "Quelgny",
+      "type": "Place"
+    },
+    {
+      "entity": "Táin bó Cuailnge (Cattle Raid of Cooley)",
+      "type": "Text"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Quelgny",
+      "attribute": "variant anglicization of Cuailnge"
+    },
+    {
+      "entity": "Cuailnge",
+      "attribute": "district whose name Quelgny anglicizes"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Quelgny'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Quelgny is a variant anglicization of Cuailnge",
+    "key_results": [
+      "variant anglicization of Cuailnge",
+      "leads to the Táin bó Cuailnge record"
+    ],
+    "evidence": "MacKillop 2008, s.v. Quelgny."
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "name": "Q-Celts",
+  "text": "Q-Celts, or the Q-Celtic branch, name the Celtic languages that kept the Indo-European qu- sound. The rival P-Celtic branch replaced that sound with p-. Scholars date the shift to the first millennium BC. It began in central Europe and spread westward. Ireland and the Celtic districts of the Iberian peninsula escaped the change. Cognate pairs show the split at its clearest. Irish ceann and Welsh pen both mean head, and both keep the same root. Irish, Scottish Gaelic, and Manx form the modern Q-Celtic group, also called Goidelic. The boundary is not absolute. Speakers of Q-Celtic Irish settled in Dyfed, a Welsh-speaking and P-Celtic region.",
+  "entities": [
+    {
+      "entity": "Q-Celts",
+      "type": "Group"
+    },
+    {
+      "entity": "Goidel",
+      "type": "Group"
+    },
+    {
+      "entity": "Dyfed",
+      "type": "Place"
+    },
+    {
+      "entity": "Ireland",
+      "type": "Place"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Q-Celts",
+      "attribute": "Celtic branch retaining the Indo-European qu- sound"
+    },
+    {
+      "entity": "Q-Celts",
+      "attribute": "modern forms are Irish, Scottish Gaelic, and Manx, also called Goidelic"
+    },
+    {
+      "entity": "Q-Celtic Irish",
+      "attribute": "settled in Dyfed, a P-Celtic Welsh-speaking region"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Q-Celts'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Q-Celts, or the Q-Celtic branch, name the Celtic languages that kept the Indo-European qu- sound",
+    "key_results": [
+      "kept Indo-European qu- where P-Celtic substituted p-",
+      "the p- shift began in central Europe in the first millennium BC",
+      "cognates: Irish ceann and Welsh pen, both meaning head",
+      "modern Q-Celtic languages are Irish, Scottish Gaelic, and Manx"
+    ],
+    "evidence": "MacKillop 2008, s.v. Q-Celts."
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "name": "Polybius",
+  "text": "Polybius (204-122 BC) was a Greek historian who wrote forty books, and most of them are lost. His history covers contemporary events from 220 to 146 BC. After Rome conquered Greece, Polybius spent seventeen years in the city as a distinguished prisoner. There he met leading public figures, among them the younger Scipio Africanus. Commentators rank him among the most reliable classical writers on the Celtic world. He names the gaesatae, Celtic mercenaries who fought as such. W. R. Paton's Loeb Classical Library translation of the Histories (6 volumes, New York, 1922-7) carries the text.",
+  "entities": [
+    {
+      "entity": "Polybius",
+      "type": "Person"
+    },
+    {
+      "entity": "Gaesatae",
+      "type": "Group"
+    },
+    {
+      "entity": "Scipio Africanus",
+      "type": "Person"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Polybius",
+      "attribute": "Greek historian, author of forty books on 220-146 BC"
+    },
+    {
+      "entity": "Polybius",
+      "attribute": "records the Celtic mercenaries called the gaesatae"
+    },
+    {
+      "entity": "Polybius",
+      "attribute": "ranked among the most reliable classical commentators"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Polybius'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Polybius (204-122 BC) was a Greek historian who wrote forty books, and most of them are lost",
+    "key_results": [
+      "wrote forty books, most now lost, covering 220-146 BC",
+      "held seventeen years in Rome as a distinguished prisoner",
+      "names the Celtic mercenaries called the gaesatae"
+    ],
+    "evidence": "MacKillop 2008, s.v. Polybius."
+  }
+}

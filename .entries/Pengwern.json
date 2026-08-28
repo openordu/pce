@@ -1,0 +1,43 @@
+{
+  "name": "Pengwern",
+  "text": "Pengwern served medieval Wales as one of its three principal courts. The ninth- or tenth-century poem Eryr Pengwern (The Eagle of Pengwern) cites the court by name. Earlier scholars placed Pengwern at Shrewsbury. Current readings keep it in Shropshire, yet no firm identification stands. Jenny Rowland treated the court in her 1990 Cambridge study of early Welsh saga poetry. Patrick Sims-Williams added a note in the Welsh Historical Review, 17 (June 1994).",
+  "entities": [
+    {
+      "entity": "Pengwern",
+      "type": "Place"
+    },
+    {
+      "entity": "Eryr Pengwern",
+      "type": "Text"
+    },
+    {
+      "entity": "Shrewsbury",
+      "type": "Place"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Pengwern",
+      "attribute": "one of the three principal courts of medieval Wales"
+    },
+    {
+      "entity": "Pengwern",
+      "attribute": "earlier identified with Shrewsbury, later kept in Shropshire"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Pengwern'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Pengwern served medieval Wales as one of its three principal courts",
+    "key_results": [
+      "one of three principal courts of medieval Wales",
+      "cited in the ninth- or tenth-century poem Eryr Pengwern",
+      "earlier placed at Shrewsbury, now unidentified within Shropshire"
+    ],
+    "evidence": "MacKillop 2008, s.v. Pengwern."
+  }
+}

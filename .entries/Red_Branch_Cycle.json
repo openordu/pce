@@ -1,0 +1,41 @@
+{
+  "name": "Red Branch Cycle",
+  "text": "Red Branch Cycle is an older label for the Ulster Cycle. The name honours the Red Branch, the warrior band that defended Ulster. MacKillop sends readers to the Ulster Cycle article for the full record.",
+  "entities": [
+    {
+      "entity": "Red Branch Cycle",
+      "type": "Concept"
+    },
+    {
+      "entity": "Ulster Cycle",
+      "type": "Text"
+    },
+    {
+      "entity": "Red Branch",
+      "type": "Place"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Red Branch Cycle",
+      "attribute": "older label for the Ulster Cycle"
+    },
+    {
+      "entity": "Red Branch",
+      "attribute": "warrior band honoured in the cycle's older label"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Red Branch Cycle'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Red Branch Cycle is an older label for the Ulster Cycle",
+    "key_results": [
+      "older label for the Ulster Cycle"
+    ],
+    "evidence": "MacKillop 2008, s.v. Red Branch Cycle."
+  }
+}
