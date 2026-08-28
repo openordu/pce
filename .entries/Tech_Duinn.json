@@ -20,6 +20,22 @@
   {
    "entity": "Otherworld",
    "type": "Place"
+  },
+  {
+   "entity": "Donn",
+   "type": "God"
+  },
+  {
+   "entity": "Dursey Island",
+   "type": "Place"
+  },
+  {
+   "entity": "Beare peninsula",
+   "type": "Place"
+  },
+  {
+   "entity": "Munster",
+   "type": "Place"
   }
  ],
  "attributes": [
@@ -38,24 +54,42 @@
   {
    "entity": "Tech Duinn",
    "attribute": "a frightening place of darkness and dread, unlike other views of the Otherworld"
+  },
+  {
+   "entity": "Tech_Duinn",
+   "attribute": "the name glosses exactly as Donn's house"
+  },
+  {
+   "entity": "Tech_Duinn",
+   "attribute": "some texts set it beyond mortal geography"
+  },
+  {
+   "entity": "Tech_Duinn",
+   "attribute": "others fix it on an islet close to Dursey Island"
+  },
+  {
+   "entity": "Tech_Duinn",
+   "attribute": "kept a standing link with Munster"
   }
  ],
  "sources": [
-  "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+  "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.",
+  "MacKillop 2008, s.v. 'Tech Duinn'"
  ],
  "image": [
   "https://upload.wikimedia.org/wikipedia/commons/6/65/Oile%C3%A1n_Baoi_%28Dursey_Island%29%2C_The_Bull_-_geograph.org.uk_-_284005.jpg"
  ],
  "cyphertext": "quI3c7iTvfcbEpKQoifV3kDV_thCNrrijJR9zgkjQE1WleaFAnHr6uYq8TOgPNYJWNvofo2AJcs-bwHpdDYMKA2rI9TL4wGHOFT2TpVDh0T7gZnsOyC2Xl39KEzbeovVVsg3eWmUge3OW2Iv1Ol1P4TVXC3TQjkJhuCrgfZGZvyxxeRctZc61qw-P5s8nU8tglXtfP5LMnhaBWz1DEq4YAo5Kn2p2mrQlZiCnJPEKjIKWzMnUTM56OigxbBswHWDvS1qysb0npbP8-mBMcCFfM2QaPZyJ5onkSxZeMdY3hsEi9_a0BZl27LQ6Jvm6ZHSo7aeCIzPBC_F8wbwsqiA3ki1KU-rWJkQUM9XF7-NwkZ4mB7Z4a-ecLX1KPW2PlaFAly_uAqUdmCNIZoa3It5QLg1FpGuFLusNSlyV1udBwsp7CqQk2I10Gk2XZ1Y-A9xQLIh-J_Bxc_gSHW0pxuHdV88GVYx0SSTRVg275oUOrSA8nfwvukkKb0bDQMxjza59zY1koDRVlhv5qU-Ax0qmCNmwFKcFTeRB2kg35gBoA0qZEFpJ65-9rEl",
  "salt": "M95Pzw3J5UplLgU9TCgnJg==",
- "text": "Tech Duinn is the House of Donn in Irish myth. It is a small rocky island off the Beara peninsula in west County Cork. People believed it was the home of Donn. Donn is a shadowy early god. He ruled the Otherworld of death. Later views show the Otherworld as a beautiful land. Tech Duinn was not like that. It was a place of darkness and dread. Its link to the usual Otherworld is unclear.",
+ "text": "Tech Duinn is the Irish House of Donn. The name glosses exactly as Donn's house. It marks the Otherworld as the land of the dead, the realm Donn rules. Some texts set the place beyond mortal geography. Others fix it on a rocky islet close to Dursey Island. That islet stands at the far western tip of the Beare peninsula in County Cork. Even when the site stays vague, the name keeps its link with Munster. MacKillop records the name as a plain Irish title. Donn holds rule over the dead, and the islet is literally his house. Monaghan's account holds the darker face of the place. Tech Duinn was a place of darkness and dread, not a happy western paradise. Later tradition often painted the Otherworld as a land of delight. The house of Donn kept the older, grimmer doctrine. The dead passed into the first ancestor's ground, not into a summer land. The name thus anchors the whole Irish map of death in one grey island.",
  "okr": {
-  "objective": "Describe Tech Duinn, the House of Donn in Irish myth.",
+  "objective": "Fix Tech Duinn, the House of Donn, as the Irish realm of the dead.",
   "key_results": [
-   "Tech Duinn is a small rocky island off the Beara Peninsula in west County Cork.",
-   "It was the home of Donn, an early god tied to the Otherworld of death.",
-   "It was a dark and frightening place, unlike other visions of the Otherworld."
+   "Give the name gloss and Donn as ruler of the dead",
+   "Place the islet near Dursey Island on the Beare peninsula",
+   "Keep the vague, geography-free form of the name",
+   "Mark the standing Munster link"
   ],
-  "evidence": "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+  "evidence": "MacKillop 2008, s.v. 'Tech Duinn'."
  }
 }

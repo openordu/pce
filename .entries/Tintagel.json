@@ -20,6 +20,34 @@
   {
    "entity": "Cornwall",
    "type": "Place"
+  },
+  {
+   "entity": "Dumnonia",
+   "type": "Place"
+  },
+  {
+   "entity": "Uthr Bendragon",
+   "type": "Person"
+  },
+  {
+   "entity": "Igerna",
+   "type": "Person"
+  },
+  {
+   "entity": "King Mark",
+   "type": "Person"
+  },
+  {
+   "entity": "Arnold Bax",
+   "type": "Person"
+  },
+  {
+   "entity": "Glastonbury",
+   "type": "Place"
+  },
+  {
+   "entity": "Camelford",
+   "type": "Place"
   }
  ],
  "attributes": [
@@ -34,24 +62,50 @@
   {
    "entity": "Tintagel",
    "attribute": "a site of the tin trade"
+  },
+  {
+   "entity": "Tintagel",
+   "attribute": "name from Cornish din, fortress, with tagell, a neck or constriction"
+  },
+  {
+   "entity": "Tintagel",
+   "attribute": "castle rock on a 300-foot cliff five miles from Camelford"
+  },
+  {
+   "entity": "Tintagel",
+   "attribute": "the true Dumnonian royal seat before the seventh century"
+  },
+  {
+   "entity": "Tintagel",
+   "attribute": "Uthr Bendragon conceived Arthur here upon Igerna"
+  },
+  {
+   "entity": "Tintagel",
+   "attribute": "later stories set King Mark's home here"
+  },
+  {
+   "entity": "Tintagel",
+   "attribute": "Arnold Bax's 1917 symphonic poem carries the name"
   }
  ],
  "sources": [
-  "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+  "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.",
+  "MacKillop 2008, s.v. 'Tintagel'"
  ],
  "image": [
   "https://upload.wikimedia.org/wikipedia/commons/b/be/Fore_Street_in_Tintagel_-_geograph.org.uk_-_1518395.jpg"
  ],
  "cyphertext": "URF3CCLzkzUHV01BqkazYa9jz_xzJ77J4T42yiYyE-ka1ArfOUHF8TKMWr2cZ-kiBfyKZlttBCkVMaMv1Vx9mVyD59tZrFuOqfk0Hd-dvgJSn9Yd30isPmnGZy36gXm2ejo-0mAGKpX-XRNwnlKfxsG5Ud3nPfh6dhbmdyHNGAicw2mEfpg8bAE-m2J5Aqr14b7Lf76wNHgX7wXht2SZpcGCkcnERY-CestYQ3oPlg8EjxrfjtJJumYU2FrKXodVyG0_B2vKJh4pnKtQM1ZBl08sgPkXGvLP1zUFuXYLqxqg3iRyBHgQSdqUdmvCAbJk8cO-7kGXmeHqcDDfEORviuYq36aI7BgxLAU8Lw99DjBp0_CmojDSgVLjU4_EgDpdiOU8JTl0hYX_SFRoeDRv3d3rSk9diyUbuzFnmKFSW2q3CjVKzrCaM-D0aTeboG_6Y5MK5tNOo-UiEh1zMtHeyAHqn89SE6OTaqIN6sMeFP6iZtveA_erBQq3Op12fNlDI7O9xiwLC5c-LJEbCDFBy9f3QJxh_uSqiAMlAGukQ8Ky61Z3_YrlaM57D5n9UI4AG0GAUrwNBzfjnUs6Yt8Hyuvyg6f3ZwT5IAvByJRKsvjStlc9iDW6r51AnRFwGpy-Hd02sI1nSiFk9h9aKrvooujj9eWav4k49sfZRaVihQB2CBqIVOY_37AqE3HNg3yqSzhLkFonyBz1eWmQ8Xr2GasvxAx2ytvhDr20Fl-EoHO8HbdJa2hvTwCFyKUwparuEjNGQuE5MIvdlBmNQw3EmlY-NlO8Z1bLk6gybWIqLE8fJpemWT8heJlGGi0s24BbbSmLE7-ToD7EHDu1hIhSALwO75hShe7AS5GVd_Xe7xI01OQtSz09-gb9kMw0xBZ1iTSyt4rq",
  "salt": "NGz5-DGxeI8WRCCFGiL2rg==",
- "text": "Tintagel is a place of Cornwall linked to king Arthur. A Norman castle stands on a high cliff above the sea. The tale says Arthur was got there by Uther Pendragon on his mother Igraine. The castle dates to the twelfth year, and the place was held long before as a home for tin traders.",
+ "text": "Tintagel is the site of a ruined castle on the north shore of Cornwall. The name comes from the Cornish din, fortress, joined with tagell, a neck or constriction. The rock stands on a 300-foot cliff, almost cut off from the mainland. Camelford lies five miles to the south-east. MacKillop sets the record against the legend. Tintagel was truly the royal seat of the Dumnonians before the seventh century. Its legendary aura came mostly from medieval invention. Writers once described the site as monastic. It appears in no saint's life, and it has no cemetery. In the tales of Arthur its fame rivals that of Glastonbury. Uthr Bendragon, the Uther Pendragon of later romance, conceived Arthur here upon Igerna. Her husband was the Duke of Cornwall. Later stories set King Mark's home in this castle. The place also entered music. Sir Arnold Bax wrote his symphonic poem on the site in 1917. It carries the name Tintagel. By the late twentieth century the site had become a very popular tourist goal. The old claim about tin traders belongs to the picture of the harbour below. Charles Thomas printed the castle studies from 1986 to 1993.",
  "okr": {
-  "objective": "Set down Tintagel as the Cornish castle linked to Arthur.",
+  "objective": "Set Tintagel between the Dumnonian record and the Arthurian legend.",
   "key_results": [
-   "Names the high castle of Cornwall",
-   "Notes Arthur was born there",
-   "Marks the site as an old tin place"
+   "Give the Cornish name etymology and the cliff site",
+   "State the Dumnonian royal seat and the monastic doubt",
+   "Keep the Arthur conception and the King Mark home",
+   "Add the Bax poem and the modern tourist fame"
   ],
-  "evidence": "Monaghan 2008, s.v. 'Tintagel'."
+  "evidence": "Monaghan 2008; MacKillop 2008, s.v. 'Tintagel'."
  }
 }

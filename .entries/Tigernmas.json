@@ -16,10 +16,19 @@
   {
    "entity": "Ireland",
    "type": "Place"
+  },
+  {
+   "entity": "Crom Cruach",
+   "type": "God"
+  },
+  {
+   "entity": "Mag Slécht",
+   "type": "Place"
   }
  ],
  "sources": [
-  "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+  "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.",
+  "MacKillop 2008, s.v. 'Tigernmas'"
  ],
  "attributes": [
   {
@@ -33,18 +42,34 @@
   {
    "entity": "Tigernnas",
    "attribute": "a founder of the gold craft"
+  },
+  {
+   "entity": "Tigernmas",
+   "attribute": "name forms Tigernmas, Tighernmas, and Tiernmas"
+  },
+  {
+   "entity": "Tigernmas",
+   "attribute": "a legendary high king of early Ireland"
+  },
+  {
+   "entity": "Tigernmas",
+   "attribute": "credited with the introduction of gold-smelting"
+  },
+  {
+   "entity": "Tigernmas",
+   "attribute": "set up the worship of Crom Cruach"
   }
  ],
  "cyphertext": "XDUI-1AIAjlrCk8vB8BA0tM3A8-G8w_CJiYyvRl-D-bcOE6sR_X29buoSiKUYeZqlXYt2o1QWyqF8M_8R_13f9oS_zrKC7COl2iK91QKGtuq1CqAGKrThL91ayiVulKjFSqrj8PVY3v72Tqw_ka_W7n-jWyeI0Y1rwBmWMzoB9-LCb0GhS2bb4ECx0rcDcPnairHE9zWdDw_i_yK0AK__MuRNqwMqarbMKkdWjPcz4bx24XT1wko8Mhdo4filbYe26kWAgIB_9tm7MX2lICNh4RkOFH1rnVGXSzJVmaP-0yf86HhDZ3uiS1eBpjfI0_8PuGea-nhd_s002gkug==",
  "salt": "XuzEErw-SI9kGar7Ke6RXA==",
- "text": "Tigernnas was a king of Tara in Ireland. He followed the cruel god Crom Cruach. He brought the smelting of gold to Ireland, founding one of its oldest crafts.",
+ "text": "Tigernmas is a legendary high king of early Ireland. His name also appears as Tighernmas and Tiernmas. MacKillop credits him with two great firsts. He introduced the smelting of gold to Ireland, founding one of its oldest crafts. He also set up the worship of Crom Cruach, the grim idol god. Monaghan remembers that cult as cruel. The worship of the idol was the dark mark of his reign. The king thus stands at the head of both the gold craft and the darkest cult of the old tales. Few Irish kings carry so sharp a double name.",
  "okr": {
-  "objective": "Set down Tigernmas as the Irish king who founded the gold craft.",
+  "objective": "Set Tigernmas over the gold craft and the Crom Cruach cult.",
   "key_results": [
-   "Names him a king of Tara",
-   "Names the god he followed",
-   "States he carried gold work to the land"
+   "Record the legendary high-kingship",
+   "Give the gold-smelting introduction",
+   "Keep the Crom Cruach worship as the dark mark of his reign"
   ],
-  "evidence": "Monaghan 2008, s.v. 'Tigernmas'."
+  "evidence": "Monaghan 2008, s.v. 'Tigernmas'; MacKillop 2008, s.v. 'Tigernmas'."
  }
 }

@@ -8,6 +8,22 @@
   {
    "entity": "Tara",
    "attribute": "the royal hill of the high kings of Ireland"
+  },
+  {
+   "entity": "Temair",
+   "attribute": "Temair is the Irish spelling of Tara, also written Temuir"
+  },
+  {
+   "entity": "Temair",
+   "attribute": "Temair Luachra was the royal seat of the south Munster kings"
+  },
+  {
+   "entity": "Temair",
+   "attribute": "Temair Luachra possibly stood in Kerry"
+  },
+  {
+   "entity": "Temair",
+   "attribute": "some make Temair Luachra the residence of Cú Roi"
   }
  ],
  "entities": [
@@ -22,23 +38,43 @@
   {
    "entity": "Tara",
    "type": "Place"
+  },
+  {
+   "entity": "Temair Luachra",
+   "type": "Place"
+  },
+  {
+   "entity": "Eochaid mac Luchta",
+   "type": "Person"
+  },
+  {
+   "entity": "Cú Roi",
+   "type": "Person"
+  },
+  {
+   "entity": "Kerry",
+   "type": "Place"
   }
  ],
  "sources": [
-  "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+  "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.",
+  "MacKillop 2008, s.v. 'Temair'",
+  "MacKillop 2008, s.v. 'Temair Luachra'"
  ],
  "image": [
   "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Stone_of_Destiny_2018-07-24.jpg/1200px-Stone_of_Destiny_2018-07-24.jpg"
  ],
  "cyphertext": "zL5Ng54ZMxQj6uEoX0qCirriYzy3HpsDyLgHY0v31lViJn7sLfdDGEupufuIGDYmD2MVEAP1",
  "salt": "KPHjvypxlHUdzYpB7uXBtw==",
- "text": "Temair is another name for Tara. It also appears as Temuir. See the entry for Tara for the details. Temair was the royal hill of the high kings of Ireland.",
+ "text": "Temair is the Irish spelling of Tara. The form Temuir carries the same name. Both stand beside the anglicized Tara for the great royal hill of the high kings. A second place hides in the same cluster of names. Temair Luachra, also written Temuir Luachra, was the royal seat of the south Munster kings. MacKillop names Eochaid mac Luchta as its special lord. The site possibly stood in Kerry. Some commentators also make it the residence of Cú Roi, the magician king of the west. The pair of names can confuse, for one is Tara's Irish dress and the other a Munster seat. Temair belongs to Tara and its kingship ground. Temair Luachra belongs to the Munster border and its own kings. Readers meet the plain Temair most often in the older Irish texts. The full Tara story stands under its own head.",
  "okr": {
-  "objective": "Describe Temair as a name for Tara.",
+  "objective": "Split the Temair cluster: Tara's Irish name and the Munster seat Temair Luachra.",
   "key_results": [
-   "Temair, also written Temir, is an alternate name for Tara.",
-   "The entry for Tara gives the full record of the royal hill of Ireland's high kings."
+   "Record Temair and Temuir as spellings of Tara",
+   "Tell Temair Luachra as the south Munster royal seat",
+   "Name Eochaid mac Luchta and the Cú Roi attribution",
+   "Keep the Kerry possibility"
   ],
-  "evidence": "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+  "evidence": "MacKillop 2008, s.v. 'Temair'; MacKillop 2008, s.v. 'Temair Luachra'."
  }
 }
