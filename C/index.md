@@ -612,3 +612,4 @@ layout: layouts/pce.njk
 - [Cormac_mac_Aililla](Cormac_mac_Aililla)
 - [Cormac_mac_Carthaig](Cormac_mac_Carthaig)
 - [Cormac_mac_Cuilennáin](Cormac_mac_Cuilennáin)
+- [Cnámross](Cnámross)
