@@ -1,0 +1,47 @@
+{
+  "name": "Crích Cualann",
+  "text": "Crích Cualann is the name used in Old Irish narratives for the territory of Cualu. The Irish word crích means boundary or territory. The land ran from the River Liffey to Arklow. It covered roughly the modern county of Wicklow, south of Dublin. The same district appears in place names like the road to Cualu. Readers should follow the Liffey entry for the river at its northern edge.",
+  "entities": [
+    {
+      "entity": "Crích Cualann",
+      "type": "place"
+    },
+    {
+      "entity": "Liffey",
+      "type": "place"
+    },
+    {
+      "entity": "Leinster",
+      "type": "place"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Crích Cualann",
+      "attribute": "Old Irish narrative name for the territory of Cualu"
+    },
+    {
+      "entity": "Crích Cualann",
+      "attribute": "ran from the Liffey to Arklow, about county Wicklow"
+    },
+    {
+      "entity": "Crích Cualann",
+      "attribute": "the word crích means boundary or territory"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Crích Cualann'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Records Crích Cualann as the Old Irish name of the Cualu territory.",
+    "key_results": [
+      "Fixes the meaning of crích as boundary or territory.",
+      "Sets the bounds from the Liffey to Arklow.",
+      "Equates the district with modern Wicklow, south of Dublin."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Crích Cualann'."
+  }
+}

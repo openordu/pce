@@ -2,37 +2,81 @@
 layout: layouts/pce.njk
 title: Créd
 icon: file-lines
-order: 555
+order: 0
 contributors: [ 'Christopher Godwin' ]
 attributes:
-  - External Soul containing his essence
-  - Cano stone of soul
+  - Créd fairy queen tied to the Paps of Danu
+  - Cáel won her by praising her palace unseen
+  - Créd gave Cáel a magic coat of war
+  - Créd died in the grave of Cáel
+  - Cano Mac Gartnáin died when his soul-stone broke
+  - Créd daughter of Cairbre of the Ciarraige in the first tale
+  - Créd dressed the Fenians for battle before Cáel's last fight
+  - Créd daughter of Guaire, king of Connacht, in the second tale
+  - Colcu stepson watcher who spoiled the meetings with Cano
 categories:
-  - Person
+  - artifact
+  - place
+  - location
+  - hero
+  - group
+  - mythological figure
 entities:
-  - Créd(Person)
-  - stepson(Person)
-  - Cano(Person)
+  - Créd(mythological figure)
+  - Paps of Danu(location)
+  - Munster(place)
+  - Cáel(hero)
+  - Cano Mac Gartnáin(hero)
+  - Guaire(mythological figure)
+  - O'Connors(group)
+  - Colloquy of the Elders(artifact)
+  - Colcu(mythological figure)
+  - Cairbre(mythological figure)
+  - Marcan(mythological figure)
 tags:
   - Créd
-  - stepson
-  - Cano
+  - Paps of Danu
+  - Munster
+  - Cáel
+  - Cano Mac Gartnáin
+  - Guaire
+  - O'Connors
+  - Colloquy of the Elders
+  - Colcu
+  - Cairbre
+  - Marcan
 ---
 ``` tab [group1:Info]
 ::: magazinestyle
-Two mountains, referred to as the Paps of Danu, are affiliated with Créd, an Irish heroine and Fairy Queen. To become Créd's lover, a man had to compose a laudatory poem describing the palace where she resided, which was heavily guarded and unseen. Cáel, a poet and seer, created a beautiful poem using his inner sight to penetrate Créd's defenses, and his words earned her affection. The poem that won Créd's heart spoke of how wounded men, bleeding heavily, would sleep to the melody of fairy birds singing in her palace's bright foliage. Créd awarded Cáel a magical battle-dress to protect him; however, he was killed while serving his king. Créd, heartbroken over the death of her lover, threw herself into the grave with him and perished too. She was a poet herself, and one of her songs is in the Colloquy of the Elders. A heroine with the same name may have been the daughter of the legendary king Guaire and the ancestral mother of the O'Connors. She similarly died tragically when she fell in love with the warrior poet, Cano Mac Gartnáin, despite being married to another king. Cano, once a resident of Scotland, was visiting her husband's home where he was smitten with Créd. Similarly, Créd was taken with Cano and gave everyone but him a sleeping draught as she disclosed her desire to him. Cano's pride prevented him from consummating his love with Créd until he had regained his patrimony. As a symbol of his love, he gave her his External Soul, which contained his essence. Créd's stepson intervened, causing so much suffering that Créd took her own life, crushing the stone that held Cano's soul in the process. Several days passed before Cano died.
+Créd is the name of two tragic lovers in Irish story. The first is a fairy queen of Munster. Hers are the Paps of Danu, the gem-like double hills. A suitor had to praise her palace without seeing it. The poet Cáel rose to that task and won her heart. She armed him with a coat of spells for his last battle. When he fell, she went to his grave and gave up her own life beside him. Songs of that love were still sung in the Colloquy of the Elders. The second Créd was a king's daughter married to the provincial king Marcán. She loved the visiting lord Cano and guarded the stone that held his soul. When their meetings failed she struck the pledge stone, and Cano died soon after. Later houses in Connacht claimed her blood. The dictionary makes the first Créd a daughter of Cairbre of the Ciarraige. It has Cáel winning her with the excellence of his poetry. It also dresses the Fenians for battle before the fight where Cáel died. In the second tale it names her father as Guaire, king of Connacht. It makes Colcu the watcher who spoiled the meetings.
 
 :::
 ```
 ``` tab [group1:Attributes]
-- **External Soul**: containing his essence
-- **Cano**: stone of soul
+- **Créd**: fairy queen tied to the Paps of Danu
+- **Cáel**: won her by praising her palace unseen
+- **Créd**: gave Cáel a magic coat of war
+- **Créd**: died in the grave of Cáel
+- **Cano Mac Gartnáin**: died when his soul-stone broke
+- **Créd**: daughter of Cairbre of the Ciarraige in the first tale
+- **Créd**: dressed the Fenians for battle before Cáel's last fight
+- **Créd**: daughter of Guaire, king of Connacht, in the second tale
+- **Colcu**: stepson watcher who spoiled the meetings with Cano
 ```
 ``` tab [group1:Entities]
-- **Créd**: Person
-- **stepson**: Person
-- **Cano**: Person
+- **Créd**: mythological figure
+- **Paps of Danu**: location
+- **Munster**: place
+- **Cáel**: hero
+- **Cano Mac Gartnáin**: hero
+- **Guaire**: mythological figure
+- **O'Connors**: group
+- **Colloquy of the Elders**: artifact
+- **Colcu**: mythological figure
+- **Cairbre**: mythological figure
+- **Marcan**: mythological figure
 ```
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
+- MacKillop 2008, s.v. 'Créd'
 ```

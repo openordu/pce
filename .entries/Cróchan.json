@@ -1,0 +1,47 @@
+{
+  "name": "Cróchan",
+  "text": "Cróchan is a variant spelling of Cruachain. That name belongs to the great royal fortress of Connacht in the saga literature. Medb and Ailill held their court there in the tales of the cattle raid. Readers should follow the Cruachan entry for the fortress and its wonders.",
+  "entities": [
+    {
+      "entity": "Cróchan",
+      "type": "place"
+    },
+    {
+      "entity": "Cruachan",
+      "type": "place"
+    },
+    {
+      "entity": "Medb",
+      "type": "mythological figure"
+    },
+    {
+      "entity": "Ailill",
+      "type": "mythological figure"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Cróchan",
+      "attribute": "variant spelling of Cruachain"
+    },
+    {
+      "entity": "Cróchan",
+      "attribute": "name form of the royal fortress of Connacht"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Cróchan'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Records Cróchan as a spelling variant of Cruachain and points to the fortress entry.",
+    "key_results": [
+      "Names Cruachain as the head form.",
+      "Recalls Medb and Ailill holding court in the fortress.",
+      "Routes readers to the Cruachan head entry."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Cróchan'."
+  }
+}

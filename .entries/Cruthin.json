@@ -1,0 +1,43 @@
+{
+  "name": "Cruthin",
+  "text": "Cruthin is a variant of Cruithne. Writers use the spelling as an Irish name for the Picts. The form stands beside the better-known Cruithin spelling of the same group name. In early medieval Ireland the name covered peoples of Pictish connection on the Ulster coast. Their chief kingdom there was Dál nAraide. Readers should follow the Cruithin entry for those peoples and for the Welsh ties of the name.",
+  "entities": [
+    {
+      "entity": "Cruthin",
+      "type": "people"
+    },
+    {
+      "entity": "Cruithin",
+      "type": "people"
+    },
+    {
+      "entity": "Pict",
+      "type": "people"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Cruthin",
+      "attribute": "variant of Cruithne, an Irish name for the Picts"
+    },
+    {
+      "entity": "Cruthin",
+      "attribute": "spelling used beside the Cruithin form"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Cruthin'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Records Cruthin as a spelling variant of Cruithne and points to the Cruithin entry.",
+    "key_results": [
+      "Opens with the variant relation to Cruithne.",
+      "Keeps the Irish name for the Picts sense.",
+      "Routes readers to the Cruithin head entry for the peoples."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Cruthin'."
+  }
+}

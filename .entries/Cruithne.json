@@ -1,0 +1,47 @@
+{
+  "name": "Cruithne",
+  "text": "Cruithne carries two senses in the Irish dictionary tradition. The first sense belongs to a woman. She was the beautiful daughter of the smith Lóchán of Cuilleann. She fell so hard for the Fenian leader Fionn mac Cumhaill that she became his wife almost at first sight. The second sense is a people name. Writers used Cruithne as an Irish name for the Picts. Readers who follow the people sense will find more in the Cruithin and Pict entries.",
+  "entities": [
+    {
+      "entity": "Cruithne",
+      "type": "mythological figure"
+    },
+    {
+      "entity": "Fionn mac Cumhaill",
+      "type": "mythological figure"
+    },
+    {
+      "entity": "Pict",
+      "type": "people"
+    },
+    {
+      "entity": "Cruithin",
+      "type": "people"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Cruithne",
+      "attribute": "daughter of the smith Lóchán of Cuilleann and brief wife of Fionn"
+    },
+    {
+      "entity": "Cruithne",
+      "attribute": "an Irish name for the Picts"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Cruithne'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Holds both senses of Cruithne: a Fenian woman and a name of the Picts.",
+    "key_results": [
+      "Names Lóchán of Cuilleann as her father.",
+      "Records her near-instant marriage to Fionn mac Cumhaill.",
+      "Records the people-name sense alongside the woman."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Cruithne'."
+  }
+}
