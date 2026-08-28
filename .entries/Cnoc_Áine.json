@@ -8,6 +8,18 @@
     {
       "entity": "Knockainy",
       "attribute": "main heading that holds the full account"
+    },
+    {
+      "entity": "Cnoc Áine",
+      "attribute": "the Limerick hill of the fairy queen Áine"
+    },
+    {
+      "entity": "Cnoc Áine",
+      "attribute": "anglicized as Knockainy near Lough Gur"
+    },
+    {
+      "entity": "Cnoc Áine",
+      "attribute": "stands 7 miles from Cnoc Gréine"
     }
   ],
   "entities": [
@@ -18,21 +30,34 @@
     {
       "entity": "Knockainy",
       "type": "location"
+    },
+    {
+      "entity": "Áine",
+      "type": "mythological figure"
+    },
+    {
+      "entity": "Lough Gur",
+      "type": "mythological location"
+    },
+    {
+      "entity": "Cnoc Gréine",
+      "type": "mythological location"
     }
   ],
   "sources": [
-    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.",
+    "MacKillop 2008, s.v. 'Cnoc Áine'."
   ],
   "cyphertext": "gKn4_L7Qlo3tBn-ZvYyppgO70fLDd657r0JqdXszRVBJDnRawR4SHurVJJarOEnniwcnckRI",
   "salt": "RwTElYiJlyR2GydmeiigBg==",
-  "text": "Cnoc Áine is a cross-reference entry in the encyclopedia. It sends the reader to the main account under Knockainy.",
+  "text": "Cnoc Áine is the hill of the fairy queen Áine in Co. Limerick. The name means the hill of Áine. English speakers call it Knockainy. The hill stands three and a half miles east of Bruff, south of Lough Gur. A village nearby carries the same name. Tradition gives the hill to Áine as her dwelling place. The fuller local tradition sits under the separate article Knockainy, which carries the anglicized name. Cnoc Gréine lies seven miles away.",
   "okr": {
-    "objective": "Cnoc Áine directs readers to the main account under Knockainy.",
+    "objective": "Cnoc Áine is the Limerick hill where the fairy queen Áine was thought to dwell.",
     "key_results": [
       "Cnoc Áine is a cross-reference entry.",
       "It points the reader to the heading Knocainy.",
       "No separate account appears under Cnoc Áine."
     ],
-    "evidence": "Monaghan, Encyclopedia of Celtic Mythology and Folklore"
+    "evidence": "Monaghan, Encyclopedia of Celtic Mythology and Folklore; MacKillop, Dictionary of Celtic Mythology, s.v. Cnoc Áine"
   }
 }

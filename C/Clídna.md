@@ -2,41 +2,73 @@
 layout: layouts/pce.njk
 title: Clídna
 icon: file-lines
-order: 479
+order: 0
 contributors: [ 'Christopher Godwin' ]
 attributes:
-  - Clídna goddess of the Sovereignty of sea-lapped Munster
-  - nobility connection with Clídna
+  - Clídna Irish figure joined to bright-feathered birds
+  - birds companions whose songs eased the pain of the sick
+  - bird species each carried a specific tradition
+  - Clídna a goddess of great beauty tied to Co. Cork
+  - Clídna drowned by the wave Tonn Chliodhna at Glandore
+  - Clídna called the queen of the fairies of Munster
 categories:
-  - region
-  - goddess
+  - artifact
   - concept
+  - mythological location
+  - mythological figure
+  - mythological creature
 entities:
-  - Clídna(goddess)
-  - Sovereignty(concept)
-  - Munster(region)
+  - Clídna(mythological figure)
+  - birds(mythological creature)
+  - Irish tradition(concept)
+  - Áine(mythological figure)
+  - Gebann(mythological figure)
+  - Ciabhán(mythological figure)
+  - Manannán mac Lir(mythological figure)
+  - Tadg(mythological figure)
+  - Carrigcleena(mythological location)
+  - Blarney Stone(artifact)
 tags:
   - Clídna
-  - Sovereignty
-  - Munster
+  - birds
+  - Irish tradition
+  - Áine
+  - Gebann
+  - Ciabhán
+  - Manannán mac Lir
+  - Tadg
+  - Carrigcleena
+  - Blarney Stone
 ---
 ``` tab [group1:Info]
 ::: magazinestyle
-Clídna, also recorded as Cleena, Clíodna, Cliodna, Clíona and Clidna Centfind, is an Irish heroine or goddess who is believed to be associated with the ninth wave during every sequence of nine waves. This largest wave is named Tonn Clíodhna after the goddess who was acknowledged to be the most beautiful woman in the world, namely Clídna of the Fair Hair. Within the southwestern province of Munster, Clídna is particularly linked to the area and is sometimes known as its Fairy Queen, even though this title is also attributed to Áine and Aeval. Initially connected with the fairy hill located in Cork named Carrig Cliodna and the adjacent offshore rocks called Carrigcleena, it is reasonable to assume that, much like other fairy queens, she could have initially come from the land as a goddess. Clídna is related to many romantic stories that have been recorded. One of them indicates that she was wooed by Ciabhán, the womanizing outcast of the heroic squad called the Fianna, who succeeded in winning her hand in marriage in her home country of Tír Tairngiri or the Land of Promise. In contrast to most human suitors of fairy women, Ciabhán was able to travel freely between this world and the Otherworld. When he went hunting on the mainland of Ireland, he brought Clídna with him to Glandore or the "Golden Harbour." As Clídna took a nap in their boat, her lover disembarked. However, a massive wave flipped over the boat, causing the beautiful Clídna to drown. Despite this account of her demise, Clídna went on to live and experience more romantic escapades. She fell in love with a man named John Fitzjames, who was already involved with a human lover named Caitileen Óg. Caitileen Óg followed Clídna into the Otherworld and angrily demanded the return of her lover. The charm and wit of Caitileen Óg fell short in convincing Clídna from letting her lover go, despite coming close to succeeding. Clídna had romantic relationships with notable Irish families, such as Earl Gerald Fitzgerald of the Desmond Geraldines, who was the son of fairy queen Áine, and Caomh, who was an ancestor of the O’Keeffes. Banshee Cládna was also associated with the MacCarthys and shared with them the secret of the Blarney Stone, a belief that touching it with one's lips grants eloquence; a superstition upheld to these modern times. Clídna's affiliation with nobility hints that she could have been the goddess of the Sovereignty of sea-lapped Munster.
+Clídna, also spelled Cliodna, Cliodhna, Cliona, and Cleena, is the great Munster goddess of beauty. Tradition calls her the shapely one and ties her closely to Co. Cork. Some accounts name her the queen of the fairies of Munster. She stands as the counterpart of the goddesses Áine and Aibell. Her father is Gebann, the chief druid of Manannán mac Lir. She dwells in the otherworld realm Tír Tairngire when Ciabhán of the Fianna wins her love. He carries her to Ireland in his curragh and lands at Glandore harbour. While he hunts ashore, a great wave sweeps over the sleeping goddess and drowns her. That wave endures in Glandore harbour as Tonn Chliodhna, the wave of Clídna. Irish tradition counts the wave among its three great waves. A second account blames the harper Iuchna, whose music lulls her to sleep. The vision of Tadg mac Céin shows her kept by three bright birds. The birds feed on apples from an otherworld tree. Their songs bring healing sleep to the sick. Drowning does not end her story. She takes a line of mortal lovers, among them Earl Gerald FitzGerald and Caomh, ancestor of the O'Keeffes. Her power marks two rocks called Carrigcleena, one near Mallow and one off Ross Carbery. She serves the MacCarthy family as their fairy woman. Tradition credits her with revealing the secret of the Blarney Stone. Fenian tales later recast her as a daughter of Libra.
 
 :::
 ```
 ``` tab [group1:Attributes]
-- **Clídna**: goddess of the Sovereignty of sea-lapped Munster
-- **nobility**: connection with Clídna
+- **Clídna**: Irish figure joined to bright-feathered birds
+- **birds**: companions whose songs eased the pain of the sick
+- **bird species**: each carried a specific tradition
+- **Clídna**: a goddess of great beauty tied to Co. Cork
+- **Clídna**: drowned by the wave Tonn Chliodhna at Glandore
+- **Clídna**: called the queen of the fairies of Munster
 ```
 ``` tab [group1:Entities]
-- **Clídna**: goddess
-- **Sovereignty**: concept
-- **Munster**: region
+- **Clídna**: mythological figure
+- **birds**: mythological creature
+- **Irish tradition**: concept
+- **Áine**: mythological figure
+- **Gebann**: mythological figure
+- **Ciabhán**: mythological figure
+- **Manannán mac Lir**: mythological figure
+- **Tadg**: mythological figure
+- **Carrigcleena**: mythological location
+- **Blarney Stone**: artifact
 ```
 ``` tab [group1:Sources]
 - Gregory, Lady Augusta. Gods and Fighting Men: The Story of the Tuatha De Danaan and of the Fianna of Ireland. New York: Oxford University Press, 1970.
 - Gwynn, Edward. The Metrical Dindshenchas. Vol. III. Royal Irish Academy, Todd Lecture Series. Dublin: Hodges, Figgis, and Co., Ltd., 1906–1924, 207–213.
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
+- MacKillop 2008, s.v. 'Clidna'.
 ```
