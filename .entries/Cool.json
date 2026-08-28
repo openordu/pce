@@ -1,0 +1,47 @@
+{
+ "name": "Cool",
+ "text": "Cool is an anglicized form of Cumhall, the father of Fionn mac Cumhaill. The related forms cooleen and coolun render the Irish word cúilín. See Cumhall.",
+ "entities": [
+  {
+   "entity": "Cool",
+   "type": "name-form"
+  },
+  {
+   "entity": "Cumhall",
+   "type": "person"
+  },
+  {
+   "entity": "Fionn mac Cumhaill",
+   "type": "person"
+  },
+  {
+   "entity": "cúilín",
+   "type": "word"
+  }
+ ],
+ "attributes": [
+  {
+   "entity": "Cool",
+   "attribute": "anglicization of Cumhall, father of Fionn mac Cumhaill"
+  },
+  {
+   "entity": "cooleen",
+   "attribute": "anglicization of cúilín"
+  }
+ ],
+ "okr": {
+  "objective": "Route readers who search Cool to the article on Cumhall.",
+  "key_results": [
+   "Identify Cool as an anglicization of Cumhall.",
+   "Name Cumhall as the father of Fionn mac Cumhaill.",
+   "Record cooleen and coolun as forms of cúilín."
+  ],
+  "evidence": "MacKillop, Dictionary of Celtic Mythology, 2008"
+ },
+ "image": [],
+ "cyphertext": "",
+ "salt": "",
+ "sources": [
+  "MacKillop 2008, s.v. 'Cool'."
+ ]
+}
