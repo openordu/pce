@@ -1,0 +1,42 @@
+{
+  "name": "Lóbais",
+  "text": "Lóbais is named in the sources as the druid of the Fomorians. The entry is a bare identification: the dictionary records no deeds, no family, and no tale attachment for him. His significance rests on the two roles the notice joins, the priestly office of druid and the hostile Fomorian people he serves.",
+  "entities": [
+    {
+      "entity": "Lóbais",
+      "type": "Person"
+    },
+    {
+      "entity": "druid",
+      "type": "Concept"
+    },
+    {
+      "entity": "Fomorians",
+      "type": "Group"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Lóbais",
+      "attribute": "serves the Fomorians as their druid"
+    },
+    {
+      "entity": "Lóbais",
+      "attribute": "no deeds or family recorded in the source notice"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Lóbais'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Identifies Lóbais as the druid attached to the Fomorians in the source notice.",
+    "key_results": [
+      "Named as the druid of the Fomorians",
+      "The notice records no deeds, family, or tale"
+    ],
+    "evidence": "MacKillop 2008, s.v. Lóbais."
+  }
+}
