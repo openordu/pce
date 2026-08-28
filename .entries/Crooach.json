@@ -1,0 +1,46 @@
+{
+  "name": "Crooach",
+  "text": "Crooach, with its variant Crooagh, is an Anglicized form of either Crom Crúaich or Cruachain. A single spoken shape could point to the great idol of Mag Slécht. It could as easily point to the royal fortress of Connacht. Which of the two a writer meant depends on the story at hand. Readers should follow both the Crom Cruach and the Cruachan entries.",
+  "entities": [
+    {
+      "entity": "Crooach",
+      "type": "location"
+    },
+    {
+      "entity": "Crom Cruach",
+      "type": "mythological figure"
+    },
+    {
+      "entity": "Cruachan",
+      "type": "location"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Crooach",
+      "attribute": "Anglicized form of either Crom Crúaich or Cruachain"
+    },
+    {
+      "entity": "Cruachan",
+      "attribute": "the fortress sense of the anglicized form"
+    },
+    {
+      "entity": "Crom Cruach",
+      "attribute": "the idol sense of the anglicized form"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Crooach'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Route the Anglicized form Crooach to both of its possible head entries.",
+    "key_results": [
+      "MacKillop lists Crooach and Crooagh as Anglicizations of either Crom Crúaich or Cruachain.",
+      "The idol sense belongs to Crom Cruach, the fortress sense to Cruachan."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Crooach'."
+  }
+}

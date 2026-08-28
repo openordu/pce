@@ -2,54 +2,59 @@
 layout: layouts/pce.njk
 title: Cruachan
 icon: file-lines
-order: 575
+order: 0
 contributors: [ 'Christopher Godwin' ]
 attributes:
-  - Cruachan set at
-  - Echtra Nerai the other great epic
-  - Ailill one of Ailill’s men
-  - Otherworld descended to the Otherworld
-  - Oweynagat through Oweynagat
+  - Cruachan an Irish mythological site with many variant names
+  - Connacht the western province
+  - Medb queen linked to Cruachan
 categories:
-  - person
-  - time
-  - epic
-  - place
+  - artifact
+  - location
+  - god
+  - mythological figure
 entities:
-  - Samhain(time)
-  - Cruachan(place)
-  - Echtra Nerai(epic)
-  - Ailill(person)
-  - Otherworld(place)
-  - Oweynagat(place)
+  - Cruachan(location)
+  - Connacht(location)
+  - Medb(god)
+  - Ailill(mythological figure)
+  - Tara(location)
+  - Emain Macha(location)
+  - Dún Ailinne(location)
+  - Nera(mythological figure)
+  - ogham(artifact)
 tags:
-  - Samhain
   - Cruachan
-  - Echtra Nerai
+  - Connacht
+  - Medb
   - Ailill
-  - Otherworld
-  - Oweynagat
+  - Tara
+  - Emain Macha
+  - Dún Ailinne
+  - Nera
+  - ogham
 ---
 ``` tab [group1:Info]
 ::: magazinestyle
-An important Irish mythological site is Cruachan, also known as Crogan, Rathcrogan, Cruachain, Crúachu, Rathcruachain, or Bri Ele. It was situated in the eastern part of the western Province of Connacht, and its capital was Cruachan, where the great queen and goddess, Medb, held her seat. Much like Emain Macha in Ulster and Tara in Meath, Cruachan was one of Ireland's most significant ancient sites. Even today, one can still visit it, characterized by earthworks and antiquities, numbering 49. The area's land rises gradually, giving even small raths and other earthworks a broad view of the province and midlands. The central rath, after which the site is named, reaches a height of 4 meters and a diameter of 88 meters. Other earthworks in the region include Dáithi's Mound, which has a tall standing stone at its peak, avenues similar to those at Tara, and most importantly, the Cave of the Cats, Oweynagat. Medb was the figure most closely associated with Cruachan, where she was born to Crochan Crocderg, who named the entire area. Medb lived in Cruachan with her husband, Ailill. Although nothing is left of the supposed fort, there is an unexcavated steep-sided rath near the center of the archaeological site, surrounded by five concentric circles. The Rath of the Bulls, also present on the two-mile-square site, recalls the most significant story from Cruachan. It is the Táin Bó Cuailnge or Cattle Raid of Cooley, which embarked from Cruachan on Samhain, marking a critical expedition for the region. At Cruachan, another great epic called the Echtra Nerai or Adventures of Nera took place during Samhain. This story features one of Ailill's men who ventured into the Otherworld by way of Oweynagat. Nora Chadwick does not mention herself in her writing and does not introduce topics but instead dives right into the discussion of Samhain and the Echtra Nerai, a story set at Cruachan in which one of Ailill's men descends to the Otherworld through Oweynagat.
+Cruachan is the great fortress of Connacht in the saga literature. Its names include Crogan, Rathcrogan, Cruachain, Crúachu, Rathcruachain, and Bri Ele. Irish titles add Uaimh Chrúachan, the cave, and Druim na nDruadh, the druids' ridge. The Táin Bó Cuailnge makes it the seat of queen Medb and king Ailill. The story-site is identified with Rathcroghan near Tulsk in north Co. Roscommon. In age and in the number of its mentions it ranks with the royal sites of Ireland. Tara, Emain Macha, and Dún Ailinne are its peers. The writers picture a splendid and sprawling stronghold with seven compartments. It became a byword for the wealth and power of the west province. Its cave is called the Hells Gate of Ireland. The Echtra Nerai makes that cave a place of horror. From it issue the devastator Aillén. White birds whose breath withered all growth came out of it, three cats of prey, and wild pigs beyond counting. Archaeologists read Rathcroghan as a capital the Goidelic invaders built. They used it to hold the native people down. The site covers about two miles square. It carries earthworks of many kinds, mounds that may be passage graves, and five rings of fortified ground. Amateur names such as Medb's Treasury and Medb's Mill cling to its points. Reiligna Righ, the Cemetery of the Kings, proved on excavation to hold no burials. A standing stone seven feet high marks the grave of king Dathi. Ogham inscriptions run at several places on the site.
 
 :::
 ```
 ``` tab [group1:Attributes]
-- **Cruachan**: set at
-- **Echtra Nerai**: the other great epic
-- **Ailill**: one of Ailill’s men
-- **Otherworld**: descended to the Otherworld
-- **Oweynagat**: through Oweynagat
+- **Cruachan**: an Irish mythological site with many variant names
+- **Connacht**: the western province
+- **Medb**: queen linked to Cruachan
 ```
 ``` tab [group1:Entities]
-- **Samhain**: time
-- **Cruachan**: place
-- **Echtra Nerai**: epic
-- **Ailill**: person
-- **Otherworld**: place
-- **Oweynagat**: place
+- **Cruachan**: location
+- **Connacht**: location
+- **Medb**: god
+- **Ailill**: mythological figure
+- **Tara**: location
+- **Emain Macha**: location
+- **Dún Ailinne**: location
+- **Nera**: mythological figure
+- **ogham**: artifact
 ```
 ``` tab [group1:Sources]
 - Dames, Michael. Mythic Ireland. London: Thames and Hudson, 1992, 237–242.
@@ -57,4 +62,5 @@ An important Irish mythological site is Cruachan, also known as Crogan, Rathcrog
 - Hull, Eleanor. The Cuchullin Saga in Irish Literature. London: David Nutt, 1898, 111+.
 - Raftery, Brian. Pagan Celtic Ireland: The Enigma of the Irish Iron Age. London: Thames and Hudson, 1994, 70.
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
+- MacKillop 2008, s.v. 'Cruachain'
 ```

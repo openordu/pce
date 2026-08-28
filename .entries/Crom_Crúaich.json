@@ -1,0 +1,55 @@
+{
+  "name": "Crom Crúaich",
+  "text": "Crom Crúaich is the chief idol of the old Irish religion in Christian accounts. The gold image stood at Mag Slécht in Co. Cavan, ringed by twelve figures of stone. A shadowy king, Tigernmas, led the first worship of it. On each Samain the people gave the idol the firstborn of family and of livestock. Readers should follow the Crom Cruach entry for the full record of the cult.",
+  "entities": [
+    {
+      "entity": "Crom Crúaich",
+      "type": "mythological figure"
+    },
+    {
+      "entity": "Crom Cruach",
+      "type": "mythological figure"
+    },
+    {
+      "entity": "Mag Slecht",
+      "type": "location"
+    },
+    {
+      "entity": "Tigernmas",
+      "type": "mythological figure"
+    },
+    {
+      "entity": "Samhain",
+      "type": "event"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Crom Crúaich",
+      "attribute": "headword form of the idol's name"
+    },
+    {
+      "entity": "Crom Crúaich",
+      "attribute": "gold image at Mag Slécht ringed by twelve stone figures"
+    },
+    {
+      "entity": "Tigernmas",
+      "attribute": "first to worship the idol"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Crom Crúaich'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Route readers of the headword form Crom Crúaich to the Crom Cruach entry.",
+    "key_results": [
+      "Christian accounts call Crom Crúaich the chief idol of pagan Ireland's old religion.",
+      "The central image was gold, with twelve figures of stone around it.",
+      "Tigernmas first worshipped it, and each Samain took firstborn offerings."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Crom Crúaich'."
+  }
+}

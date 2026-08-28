@@ -1,0 +1,43 @@
+{
+  "name": "Crion",
+  "text": "Crion is the Breton name of a race of gnomes. They were thought to dwell inside the ruins at Tresmalouen in Brittany. MacKillop treats them as kin of the gorics, the sprites better known in that region. The pairing repeats the picture told of the couril, who haunted the stone circles of the same country. Where the couril danced their victims to death, the crion kept to their ruined shelters. Breton belief thus stocked its old monuments with two kinds of hidden people.",
+  "entities": [
+    {
+      "entity": "Crion",
+      "type": "group"
+    },
+    {
+      "entity": "couril",
+      "type": "mythological figure"
+    },
+    {
+      "entity": "Brittany",
+      "type": "location"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Crion",
+      "attribute": "Breton gnomes dwelling in the ruins at Tresmalouen"
+    },
+    {
+      "entity": "Crion",
+      "attribute": "kin of the better known gorics of Brittany"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Crion'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Record the Breton crion gnomes beside their couril kin and the gorics.",
+    "key_results": [
+      "MacKillop places the crion in the ruins at Tresmalouen in Brittany.",
+      "He relates them to the gorics, the better known sprites of the region.",
+      "The couril entry tells the companion account of the same haunted country."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Crion'."
+  }
+}

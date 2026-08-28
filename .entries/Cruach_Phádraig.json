@@ -1,0 +1,38 @@
+{
+  "name": "Cruach Phádraig",
+  "text": "Cruach Phádraig is the Irish form of Croagh Patrick. The name means Patrick's stack, or cone, for the holy mountain of Co. Mayo. Irish writers kept this shape in older accounts of the pilgrimage. Readers should follow the Croagh Patrick entry for the mountain's stories.",
+  "entities": [
+    {
+      "entity": "Cruach Phádraig",
+      "type": "location"
+    },
+    {
+      "entity": "Croagh Patrick",
+      "type": "location"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Cruach Phádraig",
+      "attribute": "Irish form of Croagh Patrick"
+    },
+    {
+      "entity": "Cruach Phádraig",
+      "attribute": "means Patrick's stack or cone"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Cruach Phádraig'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Route the Irish form Cruach Phádraig to the Croagh Patrick entry.",
+    "key_results": [
+      "MacKillop gives Cruach Phádraig as the Irish form of Croagh Patrick.",
+      "The name glosses as Patrick's stack or cone."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Cruach Phádraig'."
+  }
+}

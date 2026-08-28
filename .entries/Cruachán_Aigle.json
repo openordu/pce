@@ -1,0 +1,42 @@
+{
+  "name": "Cruachán Aigle",
+  "text": "Cruachán Aigle is a variant form of Croagh Patrick, the older name of Ireland's holy mountain in Co. Mayo. It honoured Aigle, the man of legend said to have died on the slopes with stones in his pockets. The Irish shape of the older name survives in Cruach Phádraig, Patrick's stack. Readers should follow the Croagh Patrick entry for the mountain itself.",
+  "entities": [
+    {
+      "entity": "Cruachán Aigle",
+      "type": "location"
+    },
+    {
+      "entity": "Croagh Patrick",
+      "type": "location"
+    },
+    {
+      "entity": "Aigle",
+      "type": "mythological figure"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Cruachán Aigle",
+      "attribute": "former name of Croagh Patrick"
+    },
+    {
+      "entity": "Cruachán Aigle",
+      "attribute": "honoured Aigle, who died on the slopes in legend"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Cruachán Aigle'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Route the former mountain name Cruachán Aigle to the Croagh Patrick entry.",
+    "key_results": [
+      "MacKillop gives Cruachán Aigle as a variant form of Croagh Patrick.",
+      "The older name honoured Aigle of the pockets-of-stones legend."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Cruachán Aigle'."
+  }
+}

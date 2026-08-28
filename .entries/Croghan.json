@@ -1,0 +1,46 @@
+{
+  "name": "Croghan",
+  "text": "Croghan is a variant spelling of Cruachain, the great royal fortress of Connacht. The sagas make it the seat of queen Medb and king Ailill in the cattle raid of Cooley. Its older site is identified with Rathcroghan near Tulsk in Co. Roscommon. Readers should follow the Cruachan entry for the full dossier of the fortress.",
+  "entities": [
+    {
+      "entity": "Croghan",
+      "type": "location"
+    },
+    {
+      "entity": "Cruachan",
+      "type": "location"
+    },
+    {
+      "entity": "Medb",
+      "type": "mythological figure"
+    },
+    {
+      "entity": "Ailill",
+      "type": "mythological figure"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Croghan",
+      "attribute": "variant spelling of Cruachain"
+    },
+    {
+      "entity": "Cruachan",
+      "attribute": "great royal fortress of Connacht"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Croghan'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Route readers of the form Croghan to the main Cruachan entry.",
+    "key_results": [
+      "MacKillop gives Croghan as a spelling of Cruachain.",
+      "Cruachain is the royal fortress of Connacht, seat of Medb and Ailill."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Croghan'."
+  }
+}

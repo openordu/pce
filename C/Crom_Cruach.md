@@ -2,56 +2,102 @@
 layout: layouts/pce.njk
 title: Crom Cruach
 icon: file-lines
-order: 567
+order: 0
 contributors: [ 'Christopher Godwin' ]
 attributes:
-  - Crom Cruach war-inducing idol
-  - Crom Cruach required blood sacrifice of first born children
-  - Crom Cruach provides milk and corn for surviving people
-  - Mag Slecht location of Crom Cruach's gold idol
-  - Mag Slecht ringed by twelve fierce stone figures
-  - Mag Slecht believed to be in northeast Co. Cavan
+  - Crom Cruach recorded as the primary god of the ancient Irish
+  - Tigernmas worshiped Crom Cruach every Samhain by sacrificing first-born children
+  - Killycluggan Stone possibly the idol’s image, now in the National Museum of Ireland
+  - St. Patrick said to have destroyed such stone images of the divine
+  - St. Martin of Tours demolished hundreds of Celtic and Roman statues
+  - Dindshenchas describes Crom Cruach as a war-inducing idol
+  - Mag Slecht site of the gold idol, ringed by twelve stone figures
+  - Dagda sometimes linked to Crom Cruach
+  - Vallancey claimed Crom-eocha was a name of the Dagda
 categories:
-  - deity
+  - artifact
+  - god
+  - concept
+  - person
+  - event
   - location
-  - place
-  - text
+  - mythological figure
 entities:
-  - Crom Cruach(deity)
-  - Dindshenchas(text)
-  - Ireland(location)
-  - Mag Slecht(place)
+  - Crom Cruach(god)
+  - Tigernmas(person)
+  - Samhain(event)
+  - Killycluggan Stone(artifact)
+  - National Museum of Ireland(location)
+  - St. Patrick(person)
+  - St. Martin of Tours(person)
+  - Dindshenchas(concept)
+  - Mag Slecht(location)
   - Co. Cavan(location)
+  - Dagda(god)
+  - Crom-eocha(concept)
+  - stone idols(artifact)
+  - Vallancey(person)
+  - Crom Dubh(mythological figure)
+  - Lughnasa(event)
+  - Kerman Kelstach(mythological figure)
 tags:
   - Crom Cruach
+  - Tigernmas
+  - Samhain
+  - Killycluggan Stone
+  - National Museum of Ireland
+  - St. Patrick
+  - St. Martin of Tours
   - Dindshenchas
-  - Ireland
   - Mag Slecht
   - Co. Cavan
+  - Dagda
+  - Crom-eocha
+  - stone idols
+  - Vallancey
+  - Crom Dubh
+  - Lughnasa
+  - Kerman Kelstach
 ---
 ``` tab [group1:Info]
 ::: magazinestyle
-Crom Cruach, also known as Crom Crúaich, Cenn Cruaich, or Cromm Cruaich, was an Irish god who was regarded as the chief god in ancient Irish culture, although there are no known stories about his actions. Ancient sources record that he was worshiped in the form of stone idols, and that first-born children were sacrificed in his name. King Tigernmas is rumoured to have carried out this bloody practice every Samhain - sacrificing children by smashing their heads against the grotesque idol that may have been represented by the Killycluggan Stone, now on display in the National Museum of Ireland. Stone images like the Killycluggan Stone were said to have been destroyed by St. Patrick, who aimed to purify the land of pagan influences by following in the footsteps of such continental exemplars of piety as St. Martin of Tours. St. Patrick is purported to have demolished hundreds of Celtic and Roman statues. Although many standing stones, stone circles, and other images of the divine survived uninjured. Crom Cruach is sometimes linked to the Dagda, who was a “good god” that provided his children with abundance. Some scholars have claimed that Crom-eocha was a name of the Dagda. The Dindshenchas, which is ancient Irish place-poetry, describes Crom Cruach as a war-inciting idol that required first-born children’s blood to be poured upon it. The cruel deity promised to provide milk and corn for the remaining people as long as one-third of all children were sacrificed to him. The place where Crom Cruach's gold idol stood, surrounded by twelve imposing stone figures, was referred to as Mag Slecht, which is believed to be located in northeast Co. I will follow the writing style of Nora Chadwick, who abstains from bringing up personal references and topic introductions.
+Crom Cruach is the great idol of the old Irish religion as Christian writers describe it. MacKillop first lists Cromm Crúaich and Cróich. He then adds Cruach and Crooach, plus Kerman Kelstach and Cenn Crúaich, the bloody head. No early record tells his deeds. Yet several ancient authors set him over all the gods of the early folk. His image of gold stood at Mag Slécht in Co. Cavan near Ballymagauran. Twelve figures of stone ringed it. King Tigernmas first worshipped him. At each Samhain the people offered him the firstborn children of every family. They gave the firstborn of every herd as well. The Dindshenchas says the god fed his worshippers with milk and grain. That bounty held so long as a third of the children went to him. The Killycluggan Stone was found in Cavan and now sits in the National Museum in Dublin. It is often linked with his cult. Saint Patrick and other evangelists smashed stone images of this kind. St. Martin of Tours had shattered statues on the continent in the same way. The sources do not always give Crom's name for the act. Eoin MacNeill heard in the cruel idol a shadow of the Bible's Tophet and Moloch. Some stones kept magical repute in lonely corners of the Celtic world. The word Crom survives as a mild oath, like by Jove, in Irish and English speech. Oral tradition turned the god into a human king, Crom Dubh. The people tied the idol's smashing to Lughnasa, the Garland Sunday of late July or early August.
 
 :::
 ```
 ``` tab [group1:Attributes]
-- **Crom Cruach**: war-inducing idol
-- **Crom Cruach**: required blood sacrifice of first born children
-- **Crom Cruach**: provides milk and corn for surviving people
-- **Mag Slecht**: location of Crom Cruach's gold idol
-- **Mag Slecht**: ringed by twelve fierce stone figures
-- **Mag Slecht**: believed to be in northeast Co. Cavan
+- **Crom Cruach**: recorded as the primary god of the ancient Irish
+- **Tigernmas**: worshiped Crom Cruach every Samhain by sacrificing first-born children
+- **Killycluggan Stone**: possibly the idol’s image, now in the National Museum of Ireland
+- **St. Patrick**: said to have destroyed such stone images of the divine
+- **St. Martin of Tours**: demolished hundreds of Celtic and Roman statues
+- **Dindshenchas**: describes Crom Cruach as a war-inducing idol
+- **Mag Slecht**: site of the gold idol, ringed by twelve stone figures
+- **Dagda**: sometimes linked to Crom Cruach
+- **Vallancey**: claimed Crom-eocha was a name of the Dagda
 ```
 ``` tab [group1:Entities]
-- **Crom Cruach**: deity
-- **Dindshenchas**: text
-- **Ireland**: location
-- **Mag Slecht**: place
+- **Crom Cruach**: god
+- **Tigernmas**: person
+- **Samhain**: event
+- **Killycluggan Stone**: artifact
+- **National Museum of Ireland**: location
+- **St. Patrick**: person
+- **St. Martin of Tours**: person
+- **Dindshenchas**: concept
+- **Mag Slecht**: location
 - **Co. Cavan**: location
+- **Dagda**: god
+- **Crom-eocha**: concept
+- **stone idols**: artifact
+- **Vallancey**: person
+- **Crom Dubh**: mythological figure
+- **Lughnasa**: event
+- **Kerman Kelstach**: mythological figure
 ```
 ``` tab [group1:Sources]
 - Gwynn, Edward. The Metrical Dindshenchas. Royal Irish Academy, Todd Lecture Series. Dublin: Hodges, Figgis, and Co., Ltd., 1906–1924, 21–23.
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
+- MacKillop 2008, s.v. 'Crom Crúaich'
 ```
 ![Crom Cruach Image](https://upload.wikimedia.org/wikipedia/commons/5/57/St._Patrick_and_Crom_Cruaich.jpg)
