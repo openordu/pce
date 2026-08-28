@@ -28,6 +28,38 @@
     {
       "entity": "Intoxication of the Ulstermen",
       "type": "event"
+    },
+    {
+      "entity": "Fianna",
+      "type": "group"
+    },
+    {
+      "entity": "Conn Cétchathach",
+      "type": "mythological figure"
+    },
+    {
+      "entity": "Cumhall",
+      "type": "mythological figure"
+    },
+    {
+      "entity": "Cnucha",
+      "type": "event"
+    },
+    {
+      "entity": "Diarmait, king of Tara",
+      "type": "mythological figure"
+    },
+    {
+      "entity": "Becfola",
+      "type": "mythological figure"
+    },
+    {
+      "entity": "Lugaid Riab nDerg",
+      "type": "mythological figure"
+    },
+    {
+      "entity": "Cúchulainn",
+      "type": "mythological figure"
     }
   ],
   "attributes": [
@@ -52,24 +84,29 @@
       "attribute": "one of the most important figures named Crimthann"
     },
     {
-      "entity": "Crimthann Nia Náir",
-      "attribute": "died in the battle of the Intoxication of the Ulstermen"
+      "entity": "Cnucha",
+      "attribute": "battle provoked by the war of Conn, Cumhall, and Crimthann"
+    },
+    {
+      "entity": "Lugaid Riab nDerg",
+      "attribute": "father of Crimthann Nia Náir"
     }
   ],
   "sources": [
-    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.",
+    "MacKillop 2008, s.v. 'Crimthann'"
   ],
   "cyphertext": "5pneXLqHyGi61kfbsO7i3miweKnDoOKIRMpDkN-pPUyPBZH9QS5XHDip-V2d1IzxxQZAWSRn6WZ7scxLbNH9TRUBiS23p36hiXYfhXCH33NG52jr5yZXt-5D_vPsw4v4VwtxhvJg3t5ronjiGOwBJNjuQZHmRG9iCVleB1N47qF98sI00QdBdcTyQFayh-6fF4E1FZdCj7TMleSWZbofUWr47SP183DImHv3VHZqXFoNiPU_dOiupZzc7P498x5bwQVkeyi9y_Une3Bi6SoCLjxJXcE=",
   "salt": "deZdZUEx-DLL4R1YBR_aYQ==",
-  "text": "Crimthann was a name borne by several Irish kings. The Christian saint who later became Colum Cille, the missionary scholar, also used it. Three Crimthanns stand out above the rest. Crimthann of Tara drew a queen's eye with his charms. Crimthann Mór mac Fidaigh ruled as a king of Tara. Crimthann Nia Náir died at the battle named Intoxication of the Ulstermen.",
+  "text": "Crimthann is one of the commonest personal names of early Ireland. The Irish word behind it means fox. MacKillop counts kings of Munster, a crowd of Fianna figures, and a saint among the bearers. The best known is probably the pre-Patrician high king Crimthann Mór mac Fidaig. The saint Colum Cille carried this name before he took his Christian name. A Leinster king of the same name was raised to power by Conn Cétchathach. That king fought both Conn and Cumhall, and their war provoked the battle of Cnucha. The name also appears as Crimthan, Criomthann, Cremthann, and Criofan. Another bearer is the ward of Diarmait whose story the Becfola episode tells. The high king of that name died through the sorcery of a supernatural woman. His nephew, the son of Lugaid Riab nDerg, died at Cúchulainn's hand in another tale.",
   "okr": {
-    "objective": "Crimthann is a name shared by several Irish kings and the saint Colum Cille.",
+    "objective": "Record Crimthann as a leading early Irish name and map its famous bearers.",
     "key_results": [
-      "Several kings of Ireland bore the name Crimthann.",
-      "The Christian saint Colum Cille also carried the name.",
-      "The three most important figures are Crimthann of Tara, Crimthann Mór mac Fidaigh, and Crimthann Nia Náir.",
-      "Crimthann Nia Náir died in the battle of the Intoxication of the Ulstermen."
+      "MacKillop gives the name the sense fox and counts Munster kings, Fianna figures, and a saint.",
+      "Crimthann Mór mac Fidaig is the best known bearer.",
+      "Colum Cille bore the name before his Christian name.",
+      "A Crimthann king of Leinster fought Conn and Cumhall before the battle of Cnucha."
     ],
-    "evidence": "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+    "evidence": "MacKillop 2008, s.v. 'Crimthann'."
   }
 }

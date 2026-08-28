@@ -2,51 +2,69 @@
 layout: layouts/pce.njk
 title: Crimthann Nia Náir
 icon: file-lines
-order: 561
+order: 0
 contributors: [ 'Christopher Godwin' ]
 attributes:
-  - Crimthann Nia Náir father: Lugaidh Riab nDerg
-  - Crimthann Nia Náir mother/grandmother: Clothra
-  - Clothra position: goddess of Sovereignty
-  - Clothra married to each of the kings of her land
-  - Richis fierce foster mother
+  - Lugaidh Riab nDerg the striped man who was father of Crimthann Nia Náir
+  - Clothra mother and grandmother of Crimthann Nia Náir
+  - Intoxication of the Ulstermen battle where Crimthann Nia Náir died
+  - Richis fierce foster mother and satirist who died with Crimthann Nia Náir
+  - Crimthann Nia Náir son of Lugaid Riab nDerg, begotten incestuously with Clothra
+  - Howth site of Dún Crimthann, named for him
 categories:
+  - mythological figure
   - person
-  - goddess
+  - god
   - concept
+  - event
+  - location
 entities:
   - Crimthann Nia Náir(person)
   - Lugaidh Riab nDerg(person)
-  - Clothra(goddess)
+  - Clothra(god)
   - Sovereignty(concept)
+  - Intoxication of the Ulstermen(event)
   - Richis(person)
+  - Cúchulainn(mythological figure)
+  - Crimthann Mór mac Fidaigh(mythological figure)
+  - Howth(location)
 tags:
   - Crimthann Nia Náir
   - Lugaidh Riab nDerg
   - Clothra
   - Sovereignty
+  - Intoxication of the Ulstermen
   - Richis
+  - Cúchulainn
+  - Crimthann Mór mac Fidaigh
+  - Howth
 ---
 ``` tab [group1:Info]
 ::: magazinestyle
-Crimthann Nia Náir, son of Lugaidh Riab nDerg who was known as the striped man, was born to Clothra. Interestingly, Clothra was both his grandmother and his mother, making their relationship incestuous. It is believed that Clothra’s status as the goddess of Sovereignty, married to all the kings of her land, draws a parallel to the incest motif. Crimthann Nia Náir met his end during the battle of the Intoxication Of The Ulstermen, along with his formidable foster mother Richis, who was a satirist.
+Crimthann Nia Náir is the son of Lugaid Riab nDerg and his own mother Clothra. MacKillop glosses the name as honourable champion or reticent nephew. Clothra had lain with her brothers, the Finn Emna, to produce Lugaid. Before this incestuous conception she travelled to the Otherworld and ate the food of the gods. In another story Crimthann dies when he tries to kill Cúchulainn. A fortress at Howth, Dún Crimthann, carries his name. It must be told apart from the British fort of the same name that honours Crimthann Mór mac Fidaig.
 
 :::
 ```
 ``` tab [group1:Attributes]
-- **Crimthann Nia Náir**: father: Lugaidh Riab nDerg
-- **Crimthann Nia Náir**: mother/grandmother: Clothra
-- **Clothra**: position: goddess of Sovereignty
-- **Clothra**: married to each of the kings of her land
-- **Richis**: fierce foster mother
+- **Lugaidh Riab nDerg**: the striped man who was father of Crimthann Nia Náir
+- **Clothra**: mother and grandmother of Crimthann Nia Náir
+- **Intoxication of the Ulstermen**: battle where Crimthann Nia Náir died
+- **Richis**: fierce foster mother and satirist who died with Crimthann Nia Náir
+- **Crimthann Nia Náir**: son of Lugaid Riab nDerg, begotten incestuously with Clothra
+- **Howth**: site of Dún Crimthann, named for him
 ```
 ``` tab [group1:Entities]
 - **Crimthann Nia Náir**: person
 - **Lugaidh Riab nDerg**: person
-- **Clothra**: goddess
+- **Clothra**: god
 - **Sovereignty**: concept
+- **Intoxication of the Ulstermen**: event
 - **Richis**: person
+- **Cúchulainn**: mythological figure
+- **Crimthann Mór mac Fidaigh**: mythological figure
+- **Howth**: location
 ```
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
+- MacKillop 2008, s.v. 'Crimthann Nia Náir'
 ```

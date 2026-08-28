@@ -24,6 +24,14 @@
     {
       "entity": "affair",
       "type": "event"
+    },
+    {
+      "entity": "Becfola",
+      "type": "mythological figure"
+    },
+    {
+      "entity": "Diarmait, king of Tara",
+      "type": "mythological figure"
     }
   ],
   "attributes": [
@@ -36,20 +44,21 @@
       "attribute": "queen charmed by Crimthann of Tara"
     },
     {
-      "entity": "Becfhola",
-      "attribute": "offered her tryst on Sunday"
-    },
-    {
-      "entity": "Crimthann of Tara",
-      "attribute": "would not travel on Sunday"
-    },
-    {
       "entity": "affair",
       "attribute": "ended prematurely because Crimthann refused to travel on Sunday"
+    },
+    {
+      "entity": "Becfola",
+      "attribute": "Diarmait's queen who planned to elope with Crimthann"
+    },
+    {
+      "entity": "Diarmait",
+      "attribute": "king of Tara and foster father of Crimthann"
     }
   ],
   "sources": [
-    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.",
+    "MacKillop 2008, s.v. 'Crimthann I'"
   ],
   "cyphertext": "Ipj4Uni378EO-6Y16ghwphikdgdGOP03C4YlU8q2XIuMzaL5qlHcUUl5-_zzmgaiEBPoCi6CvjgOY6xs4ukbNaYbgCGMBhb_g43H_HZKKyA5fWeHEMC8AScRb58hfrmtxlQoSTXsSz64DjJjYCE3SXyuSOidrLesJuzR7xAxSQIcXJ6iI72tNs8lbxkq9d5AWGAtxcjhfi1u4VkClAabs3DbwgK_SN8_oZnqNFN0ClfCcucSlwfMWQsc4I7qNcsM4xxWJAG-kM4SN-UvLxahbFhkWWbyAG9GSKIp6rNwIUPg-nQ0KEOU6P4Ul7M=",
   "salt": "VyufFLPu16JHIuVpddgxkg==",
@@ -60,8 +69,9 @@
       "He was the fosterling of king Diarmait.",
       "Queen Becfhola gave his charms attention.",
       "She offered a rendezvous on Sunday, and he refused to travel that day.",
-      "His refusal ended their affair prematurely."
+      "His refusal ended their affair prematurely.",
+      "MacKillop's Crimthann I notice names Diarmait the king of Tara and Becfola his wife."
     ],
-    "evidence": "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+    "evidence": "MacKillop 2008, s.v. 'Crimthann I'."
   }
 }

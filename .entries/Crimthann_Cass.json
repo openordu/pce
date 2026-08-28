@@ -1,0 +1,50 @@
+{
+  "name": "Crimthann Cass",
+  "text": "Crimthann Cass is a king of Connacht in the Adventure of Lóegaire. MacKillop names him the father of Lóegaire, the hero whom the Otherworld draws away. The story belongs to the Echtrae Lóegairi, the tale of Lóegaire's ride to the realm of the dead. The father's part is small but the kinship fixes the hero's house. An old poem also lists this king among the dead of the otherworld host.",
+  "entities": [
+    {
+      "entity": "Crimthann Cass",
+      "type": "mythological figure"
+    },
+    {
+      "entity": "Connacht",
+      "type": "location"
+    },
+    {
+      "entity": "Loegaire_mac_Crimthann",
+      "type": "mythological figure"
+    },
+    {
+      "entity": "Otherworld",
+      "type": "concept"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Crimthann Cass",
+      "attribute": "king of Connacht"
+    },
+    {
+      "entity": "Crimthann Cass",
+      "attribute": "father of Lóegaire of the Echtrae Lóegairi"
+    },
+    {
+      "entity": "Loegaire_mac_Crimthann",
+      "attribute": "his son, the hero of the adventure tale"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Crimthann Cass'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Identify Crimthann Cass as the Connacht king and father of Lóegaire.",
+    "key_results": [
+      "MacKillop calls Crimthann Cass a king of Connacht.",
+      "He is the father of Lóegaire, cited in the Echtrae Lóegairi."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Crimthann Cass'."
+  }
+}

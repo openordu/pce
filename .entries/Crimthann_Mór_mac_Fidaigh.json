@@ -24,6 +24,22 @@
     {
       "entity": "history",
       "type": "concept"
+    },
+    {
+      "entity": "Niall",
+      "type": "mythological figure"
+    },
+    {
+      "entity": "Munster",
+      "type": "location"
+    },
+    {
+      "entity": "Crimthann Nia Náir",
+      "type": "mythological figure"
+    },
+    {
+      "entity": "Howth",
+      "type": "location"
     }
   ],
   "attributes": [
@@ -40,24 +56,26 @@
       "attribute": "cannibal daughter of Crimthann Mór mac Fidaigh"
     },
     {
-      "entity": "Crimthann Mór mac Fidaigh",
-      "attribute": "dwells at the margin between myth and history"
+      "entity": "Mongfhind",
+      "attribute": "his reputed sister, a supernatural figure"
     }
   ],
   "sources": [
-    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.",
+    "MacKillop 2008, s.v. 'Crimthann Mór mac Fidaig'"
   ],
   "cyphertext": "WIPH8Tjr52FwmmwvnJolQiXDVYbRgi9OovGVwbP8tcyGezy56n8RX3aF8s_WezRtq1pz4CTpRChhUFv0aF7g6k2zpKP6BB_g-Z51lKAj7QCM3OSerlxdQUSfksWupn8_M1U05U9sSaEBb-Sx-M0ahMCehnPnerKlnsvX6m75Y6jByqNFXrcz0epzuAc4jeHhV15zt3HjNqBqmqg8RVtQ10JYcoUXxkrQTX2Nsonl1vEWrsCPBvjZR02hHks00dBGi1yYEpPc2tS9Hqo_KIl9Ct5HcphIycFQ6JJosq5onG2cLB7AvKW9vrpsLXiVQ5PJK2icSZI3u4WmRbNv2sFIK8iWQD-3QqU0NO7oWQ==",
   "salt": "BLvRKcV2bz6d_Niywl49QA==",
-  "text": "Crimthann Mór mac Fidaigh is counted among the recorded kings of Tara. His sister Mongfhinn had a nature beyond the human. His daughter Eithne Úathach was a woman who ate others. These relatives place him where myth and history run together.",
+  "text": "Crimthann Mór mac Fidaigh is a shadowy king of pre-Patrician Ireland. MacKillop calls him third in line before the Lóegaire who disputes with the evangelist. He is of Munster stock and unrelated to the other kings at Tara. He would have ruled just before Niall Noigiallach, the man of the nine hostages. Many Irish records carry his name, yet O'Rahilly deems his historicity unworthy of credence. His reputed sister Mongfhind is clearly supernatural. Another otherworldly woman destroys him through sorcery. The cannibal Eithne Úathach is sometimes called his daughter. The fortress Dind Tradui stood beside the River Dee in Britain. Irish tradition sometimes gives it the name Dún Crimthainn for him. That fort must not be confused with the Howth fortress named for Crimthann Nia Náir. The tale of his death survives as the Aided Chrimthaind maic Fhidaig.",
   "okr": {
-    "objective": "Crimthann Mór mac Fidaigh was a recorded king of Tara whose relatives mark him as supernatural.",
+    "objective": "Give the pre-Patrician king Crimthann Mór mac Fidaigh his full legendary dossier.",
     "key_results": [
-      "He was recorded as a historical king of Tara.",
-      "His sister Mongfhinn was a supernatural being.",
-      "His daughter Eithne Úathach was a cannibal woman.",
-      "His relatives place him at the margin between myth and history."
+      "MacKillop places him third in line before Lóegaire and just before Niall Noigiallach.",
+      "O'Rahilly judges his historicity unworthy of credence.",
+      "His sister Mongfhind and his destroyer are supernatural women.",
+      "The fortress Dind Tradui sometimes carries the name Dún Crimthainn for him.",
+      "His death tale is the Aided Chrimthaind maic Fhidaig."
     ],
-    "evidence": "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+    "evidence": "MacKillop 2008, s.v. 'Crimthann Mór mac Fidaig'."
   }
 }

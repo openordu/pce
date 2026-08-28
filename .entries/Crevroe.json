@@ -1,0 +1,41 @@
+{
+  "name": "Crevroe",
+  "text": "Crevroe is an English form of the Irish name Cráebruad. MacKillop marks it as the Anglicization of that hall of Ulster fame. Cráebruad is the Red Branch, the house of Conchobar's warriors at Emain Macha. Readers should follow the Cráebruad entry for the hall and its heroes.",
+  "entities": [
+    {
+      "entity": "Crevroe",
+      "type": "location"
+    },
+    {
+      "entity": "Cráebruad",
+      "type": "location"
+    },
+    {
+      "entity": "Emain Macha",
+      "type": "location"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Crevroe",
+      "attribute": "Anglicization of Cráebruad"
+    },
+    {
+      "entity": "Cráebruad",
+      "attribute": "the Red Branch hall of Ulster"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Crevroe'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Route the Crevroe form to the Red Branch hall entry.",
+    "key_results": [
+      "MacKillop gives Crevroe as the Anglicization of Cráebruad."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Crevroe'."
+  }
+}

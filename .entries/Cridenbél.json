@@ -1,0 +1,51 @@
+{
+  "name": "Cridenbél",
+  "text": "Cridenbél is the ugly blind satirist who lives in the household of the Dagda. MacKillop sets the tale in the Cath Maige Tuired, the battle account of Mag Tuired. The satirist demands the three finest pieces of the Dagda's food at every meal. The forced diet wastes the ruler's health while the war against the Fomoire draws near. The Dagda answers by giving Cridenbél three gold coins instead. The greedy poet swallows them and dies on the spot. His body is cut open, and the coins come to light. The find clears the Dagda of the charge of murder by poison.",
+  "entities": [
+    {
+      "entity": "Cridenbél",
+      "type": "mythological figure"
+    },
+    {
+      "entity": "Dagda",
+      "type": "god"
+    },
+    {
+      "entity": "Cath Maige Tuired",
+      "type": "text"
+    },
+    {
+      "entity": "Fomorians",
+      "type": "group"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Cridenbél",
+      "attribute": "ugly blind satirist in the Dagda's household"
+    },
+    {
+      "entity": "Cridenbél",
+      "attribute": "died after swallowing three gold coins from the Dagda"
+    },
+    {
+      "entity": "Dagda",
+      "attribute": "fed the satirist from his own portion until his health failed"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Cridenbél'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Tell the Cridenbél episode of the Cath Maige Tuired and its outcome for the Dagda.",
+    "key_results": [
+      "Cridenbél demanded the three finest pieces of the Dagda's food.",
+      "The Dagda's health failed under the levy.",
+      "Three gold coins killed the satirist, and his corpse cleared the Dagda of poisoning."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Cridenbél'."
+  }
+}

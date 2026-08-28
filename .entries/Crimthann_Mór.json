@@ -1,0 +1,51 @@
+{
+  "name": "Crimthann Mór",
+  "text": "Crimthann Mór is the legendary ancestor of the Osraige, the people of Ossory. MacKillop places his territory in the lands of the modern county of Kilkenny. The name means the great Crimthann, and the Irish fox name marks him as one of many bearers. This ancestor must not be confused with Crimthann Mór mac Fidaig, the high king of pre-Patrician story. The two figures share the byname but belong to different peoples and different stories.",
+  "entities": [
+    {
+      "entity": "Crimthann Mór",
+      "type": "mythological figure"
+    },
+    {
+      "entity": "Osraige",
+      "type": "group"
+    },
+    {
+      "entity": "Ossory",
+      "type": "location"
+    },
+    {
+      "entity": "Crimthann Mór mac Fidaigh",
+      "type": "mythological figure"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Crimthann Mór",
+      "attribute": "legendary ancestor of the Osraige of Ossory"
+    },
+    {
+      "entity": "Crimthann Mór",
+      "attribute": "distinct from Crimthann Mór mac Fidaig"
+    },
+    {
+      "entity": "Crimthann Mór mac Fidaigh",
+      "attribute": "the pre-Patrician king who must not be confused with him"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Crimthann Mór'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Fix the identity of Crimthann Mór the Ossory ancestor.",
+    "key_results": [
+      "MacKillop makes Crimthann Mór the ancestor of the Osraige.",
+      "His land matches the modern county of Kilkenny.",
+      "The entry warns readers to distinguish him from Crimthann Mór mac Fidaig."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Crimthann Mór'."
+  }
+}

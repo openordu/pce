@@ -1,0 +1,41 @@
+{
+  "name": "Crescent",
+  "text": "The Bloody Crescent is an alternative name of the idol Crom Cruach. MacKillop sends readers of this form straight to the god's own article. Crom Cruach is the Irish deity who received grim firstborn offerings. The image of the bent or bloody stone is a feature of that cult. Readers should follow the Crom Cruach entry for the full account.",
+  "entities": [
+    {
+      "entity": "Crescent",
+      "type": "mythological figure"
+    },
+    {
+      "entity": "Crom Cruach",
+      "type": "mythological figure"
+    },
+    {
+      "entity": "Mag Slecht",
+      "type": "location"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Crescent",
+      "attribute": "alternative name of the idol Crom Cruach"
+    },
+    {
+      "entity": "Crom Cruach",
+      "attribute": "Irish god who received firstborn offerings"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Crescent'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Route the Bloody Crescent form to the Crom Cruach entry.",
+    "key_results": [
+      "MacKillop lists Crescent, Bloody as a pointer to Crom Cruach."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Crescent, Bloody'."
+  }
+}
