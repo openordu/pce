@@ -1,0 +1,51 @@
+{
+  "name": "Paimpont",
+  "text": "Paimpont is the official French name that MacKillop 2008 records for the forest of Brocéliande, in use since the time of the Revolution. The dictionary files the administrative name as its own heading so that readers working from modern maps, guidebooks, or Breton place inventories can trace the locality back to its legendary identity. Brocéliande stands in the dictionary as the great forest of Breton legend, the landscape of the Arthurian west, and the article under that headword carries its fabulous geography. The index of places confirms the pairing, listing Paimpont among Breton sites beside Carnac, Gavrinis, and the Youdic. A reader who meets Paimpont in a modern source should follow the name to Brocéliande for the fuller account of the forest and its wonders.",
+  "entities": [
+    {
+      "entity": "Paimpont",
+      "type": "Place"
+    },
+    {
+      "entity": "Brocéliande",
+      "type": "Place"
+    },
+    {
+      "entity": "Carnac",
+      "type": "Place"
+    },
+    {
+      "entity": "Gavrinis",
+      "type": "Place"
+    },
+    {
+      "entity": "Youdic",
+      "type": "Place"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Paimpont",
+      "attribute": "official French name since the Revolution for the forest of Brocéliande"
+    },
+    {
+      "entity": "Paimpont",
+      "attribute": "routes readers to the legendary forest article"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Paimpont'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Documents Paimpont as recorded in MacKillop 2008 for the Public Celtic Encyclopedia.",
+    "key_results": [
+      "Paimpont is the official French name, used since the Revolution, for Brocéliande forest.",
+      "The dictionary index lists Paimpont among Breton places.",
+      "The legendary geography of the forest stands under Brocéliande."
+    ],
+    "evidence": "MacKillop 2008, s.vv. 'Paimpont', 'Brocéliande' (corpus lines 35624-35625, 44248)."
+  }
+}

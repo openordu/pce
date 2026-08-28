@@ -1,69 +1,80 @@
 {
-  "name": "Matrona",
-  "attributes": [
-    {
-      "entity": "Matrona",
-      "attribute": "a British and continental Celtic goddess whose name means mother"
-    },
-    {
-      "entity": "Matrona",
-      "attribute": "mother of the obscure British god Maponus, whose name means son of the mother"
-    },
-    {
-      "entity": "Matrona",
-      "attribute": "her name survives in the river Marne, which formed the border between Gaul and the Belgae"
-    },
-    {
-      "entity": "Matrona",
-      "attribute": "may be the same goddess as the Welsh Modron"
-    }
-  ],
-  "entities": [
-    {
-      "entity": "Matrona",
-      "type": "Person"
-    },
-    {
-      "entity": "Maponus",
-      "type": "Person"
-    },
-    {
-      "entity": "Marne",
-      "type": "Place"
-    },
-    {
-      "entity": "Gaul",
-      "type": "Place"
-    },
-    {
-      "entity": "Belgae",
-      "type": "Group"
-    },
-    {
-      "entity": "Modron",
-      "type": "Person"
-    },
-    {
-      "entity": "river divinities",
-      "type": "Concept"
-    }
-  ],
-  "sources": [
-    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-  ],
-  "cyphertext": "IBm13Qz0ROK5IxGCbu5Xqu4lDpwpNd9EZ7MvDlatUoaSHxO3Es9KFSj0A0neoX0ymFNX8nnCHLG_guCa8-NQZrPcYF9K6PIEJEg6p-gn9qdOSz87wek8v91K86MbJ14dR-9KGx2my6ywqJstw7z-CA9gN5_8jGPppOephwVSZDZgIXmtDhEIYXzSthcW9selkAGZy-wDmKWqpV-v5KF1s4qtles6v6GI9LH4Wptcv6r-TRSodkwXs2M1Mf1y9I6bltoJnhAnvlx4UCvzwepPpeycJMC4Vy2qQ_pB5buoYI3Gl775lpwshQKcJFTcyf6YnstfCgf2XfGrmg4inmSM86XLl-JlF93ciwMqIqH1LbxZ1XFH9KHx3qZ3aC8wfxAvzwxpqDCNKyhGuI02rEDB86tv23Fiyyc3zEcd6l7oiPZA8KssswiUWLwjpUCHKS60ga9FfLgNpy2txSqf5ZaGRo_By7YjU75wuSPb0ZiZycOHMnz_sC4gVXchbnic6DdtI_P1RmkJ82K6a-hhpYufsJNlaZdnJMoleyPcPbyd0N4CcLtoifeo74Gk-BcG2sB6Iy17eRed_zLU-l9wFIqFNmNbbQbWWCD8QwwlA2edo_jdZhLC31ZiR15bZUr0A_l2YNrpn7oYC7xFHw1Fz3ucsPDlBsZIqLjeteqm5Xb62zUfryIuluDtr9kle8colgcU-jXoV0sOPN3qE3rzFEubg6lqVmVjhjN6dmRvsTlmgsGWZzIlkA2InqkJxjv8ESTibNXxackEDxHdEagr9FzLb6S23g==",
-  "salt": "EFrxSHR-qNJXeJ1Gtilbuw==",
-  "text": "Matrona was a British and continental Celtic goddess. Her name means mother, and she was the mother of the obscure British god Maponus. The name Maponus seems to signify son of the mother. The name Matrona survives in the river Marne in France. That river formed the border between the settlements of Gaul and those of the Belgae. Celtic river divinities were usually goddesses. They embodied the life-giving force of the river's water and the fertility of the land of the watershed. Matrona may be the same goddess found in Wales as Modron.",
-  "okr": {
-    "objective": "Document Matrona, the Celtic mother goddess whose name survives in the river Marne.",
-    "key_results": [
-      "Record Matrona as a British and continental Celtic goddess.",
-      "Record her as the mother of the god Maponus.",
-      "Record the survival of her name in the river Marne.",
-      "Record her possible identity with the Welsh Modron."
-    ],
-    "evidence": [
-      "Monaghan, P. The Encyclopedia of Celtic Mythology and Folklore (2008): Matrona entry, p. 317."
-    ]
+ "name": "Matrona",
+ "cyphertext": "IBm13Qz0ROK5IxGCbu5Xqu4lDpwpNd9EZ7MvDlatUoaSHxO3Es9KFSj0A0neoX0ymFNX8nnCHLG_guCa8-NQZrPcYF9K6PIEJEg6p-gn9qdOSz87wek8v91K86MbJ14dR-9KGx2my6ywqJstw7z-CA9gN5_8jGPppOephwVSZDZgIXmtDhEIYXzSthcW9selkAGZy-wDmKWqpV-v5KF1s4qtles6v6GI9LH4Wptcv6r-TRSodkwXs2M1Mf1y9I6bltoJnhAnvlx4UCvzwepPpeycJMC4Vy2qQ_pB5buoYI3Gl775lpwshQKcJFTcyf6YnstfCgf2XfGrmg4inmSM86XLl-JlF93ciwMqIqH1LbxZ1XFH9KHx3qZ3aC8wfxAvzwxpqDCNKyhGuI02rEDB86tv23Fiyyc3zEcd6l7oiPZA8KssswiUWLwjpUCHKS60ga9FfLgNpy2txSqf5ZaGRo_By7YjU75wuSPb0ZiZycOHMnz_sC4gVXchbnic6DdtI_P1RmkJ82K6a-hhpYufsJNlaZdnJMoleyPcPbyd0N4CcLtoifeo74Gk-BcG2sB6Iy17eRed_zLU-l9wFIqFNmNbbQbWWCD8QwwlA2edo_jdZhLC31ZiR15bZUr0A_l2YNrpn7oYC7xFHw1Fz3ucsPDlBsZIqLjeteqm5Xb62zUfryIuluDtr9kle8colgcU-jXoV0sOPN3qE3rzFEubg6lqVmVjhjN6dmRvsTlmgsGWZzIlkA2InqkJxjv8ESTibNXxackEDxHdEagr9FzLb6S23g==",
+ "salt": "EFrxSHR-qNJXeJ1Gtilbuw==",
+ "text": "Matrona was a Gaulish mother-goddess. Her title means divine mother. The Marne, a river of eastern France, carries her name. A shrine to Dea Matrona still survives near the river's source. The sanctuary stands where the waters begin. Matrona appears there as a single goddess. Elsewhere she did not always stand alone. Eastern Gaul produced triads of mother-goddesses. The Romans called these groupings the Matronae. Their shrines gather in the region now called the German Rhineland. The stone seats show three women in a row. They hold baskets of fruit and bread on their laps. Matrona herself was the mother of Maponus. Maponus was an obscure British god. His name means son of the mother. The pair bind Britain to the continental cult. Celtic river divinities were usually goddesses. They embodied the life-giving force of the water. They carried the fertility of the land within the watershed. The flow of the Marne fixed Matrona's cult to a real river. That river once marked the border between the Gauls and the Belgae. It gave the goddess a living presence in the landscape. Mother-goddesses elsewhere in early Europe wore more than one face. They joined the duty of the stream to the care of the family. Each shrine fixed the worship to a local spring or ford. The name of the river, the character of the people, and the power of the goddess all joined in one place. In that way the cult crossed the whole of Gaul without ever losing its local roots. Scholars often pair Matrona with the Welsh figure Modron. The two names rest on the same root that means mother. Matrona therefore spans the entire Celtic world. She is at once a river, a mother, and a guardian of the land. Her cult reached from the Marne valley to the British Isles. Few Celtic divinities crossed that much territory. Her memory endures in the Marne that still bears her name.",
+ "entities": [
+  {
+   "entity": "Matrona",
+   "type": "Person"
+  },
+  {
+   "entity": "Maponus",
+   "type": "Person"
+  },
+  {
+   "entity": "Marne",
+   "type": "Place"
+  },
+  {
+   "entity": "Gaul",
+   "type": "Place"
+  },
+  {
+   "entity": "Belgae",
+   "type": "Group"
+  },
+  {
+   "entity": "Modron",
+   "type": "Person"
+  },
+  {
+   "entity": "Matronae",
+   "type": "Person"
+  },
+  {
+   "entity": "river divinities",
+   "type": "Concept"
   }
+ ],
+ "attributes": [
+  {
+   "entity": "Matrona",
+   "attribute": "a Gaulish mother-goddess whose title means divine mother"
+  },
+  {
+   "entity": "Matrona",
+   "attribute": "gave her name to the Marne River of eastern France"
+  },
+  {
+   "entity": "Matrona",
+   "attribute": "had a surviving shrine to Dea Matrona near the river's source"
+  },
+  {
+   "entity": "Matrona",
+   "attribute": "mother of the obscure British god Maponus, whose name means son of the mother"
+  },
+  {
+   "entity": "Matrona",
+   "attribute": "commonly paired with the Welsh figure Modron"
+  },
+  {
+   "entity": "Matronae",
+   "attribute": "triads of mother-goddesses in eastern Gaul in the German Rhineland"
+  }
+ ],
+ "sources": [
+  "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.",
+  "MacKillop 2008, s.v. 'Matrona'"
+ ],
+ "okr": {
+  "objective": "Document Matrona, the Gaulish mother-goddess whose name survives in the river Marne.",
+  "key_results": [
+   "Record Matrona as a Gaulish mother-goddess named divine mother.",
+   "Record her link to the Marne River and its shrine.",
+   "Record her as the mother of the god Maponus.",
+   "Record the Matronae triads and her possible identity with Modron."
+  ],
+  "evidence": "MacKillop 2008, s.v. 'Matrona'"
+ }
 }

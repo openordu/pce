@@ -1,83 +1,110 @@
 {
-  "name": "Knockfierna",
-  "attributes": [
-    {
-      "entity": "Knockfierna",
-      "attribute": "Irish mythological site"
-    },
-    {
-      "entity": "Knockfierna",
-      "attribute": "called the hill of truth"
-    },
-    {
-      "entity": "Knockfierna",
-      "attribute": "twin to the sacred hill Knockainy seven miles away"
-    },
-    {
-      "entity": "Knockfierna",
-      "attribute": "an opening to the Otherworld"
-    },
-    {
-      "entity": "Knockfierna",
-      "attribute": "site of Lughnasa gatherings"
-    },
-    {
-      "entity": "Donn Firinne",
-      "attribute": "fairy king said to reside there"
-    }
-  ],
-  "entities": [
-    {
-      "entity": "Knockfierna",
-      "type": "place"
-    },
-    {
-      "entity": "Cnoc Firinne",
-      "type": "place"
-    },
-    {
-      "entity": "Knockainy",
-      "type": "place"
-    },
-    {
-      "entity": "Otherworld",
-      "type": "place"
-    },
-    {
-      "entity": "Lughnasa",
-      "type": "event"
-    },
-    {
-      "entity": "County Limerick",
-      "type": "location"
-    },
-    {
-      "entity": "Donn Firinne",
-      "type": "character"
-    },
-    {
-      "entity": "Donn",
-      "type": "character"
-    },
-    {
-      "entity": "fairies",
-      "type": "mythological creature"
-    }
-  ],
-  "sources": [
-    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-  ],
-  "cyphertext": "5zXwiTh5ySX186voXG2x97sdWPR9DQs_S1Ns-iRyFaLPWKGw5nQrsTgtSZc_usS4fRbVt4B3-5osn4oDh7clHiTBR9xQHqpbI0mDHIVuBIjFpu2dyhVgzQPjaryOwXzDDTuH0aVSmqnKqakXJnN34xDA_K3Ir77Ke5XHLIt0tc8KuWH4tKWpVpJm-urfa0jrm1MGWjDyKyocaH4euCQLpanw2agvq-1TiSol1Tr2597oUq72uaUWr4KZjge2U9etL2xSVo5OSqob_IiTIR0_gzHHh3uMbgGjM6qISvRIeGmiD1qOe7LQdCHjhiBU0sgq5S6f5fGeRvSxwgFA_4hmXecF8rt-jflXEmyYOzfbi7Xh3dNUylvqWxQTUwf_dJbLXKvAH3djZzYqoLUh7P0ZfI5Meju6O-8Bxl-xsM4M_NwH03CpoRzmsXvoU3MScmhCvxBgVKoS1-2YHT2C8sp6ZNpBn6EFGFt2x1ZnRyRGqW8hUlFV4OoEol-2IAuM18BVs4QSXSc9oYhgmClbibRxO4UIB29SUZOaC0qoHHQve1vrn_x1OfOPkGGUTUHnZ-kpLDuc0gUDT0a7whUE3fU4A_tuhoOR6zaDhEgG0FbA-y8i4dPS7-R1DUhI-W7SFdbQo1OqZd1j8GQc2k-Q0JpUqlPTe0tlbnVQu_9Q4iY=",
-  "salt": "U89QKBSfbJXB5Oejwn51rA==",
-  "text": "Knockfierna is an Irish mythological site. It carries the names Cnoc Firinne and Knockfeerina. The hill is called the hill of truth. It forms a sister site with Knockainy, a sacred hill seven miles away. Knockfierna offered a doorway to the Otherworld. People gathered at the hill each year for Lughnasa. Several hills near Co. Limerick hold links to the fairies. The fairy king Donn Firinne made his home here. Some people tie him to the king of the Otherworld, who bears the same name Donn. ",
-  "okr": {
-    "objective": "Knockfierna is the Irish hill of truth linked to the Otherworld.",
-    "key_results": [
-      "Knockfierna is a sacred Irish mythological site.",
-      "It is called the hill of truth.",
-      "It forms a twin with Knockainy seven miles away.",
-      "Lughnasa gatherings took place there."
-    ],
-    "evidence": "Monaghan, Encyclopedia of Celtic Mythology and Folklore"
+ "name": "Knockfierna",
+ "attributes": [
+  {
+   "entity": "Knockfierna",
+   "attribute": "Irish mythological site in County Limerick"
+  },
+  {
+   "entity": "Knockfierna",
+   "attribute": "called the hill of truth"
+  },
+  {
+   "entity": "Knockfierna",
+   "attribute": "about 948 feet, two miles east of Ballingarry"
+  },
+  {
+   "entity": "Knockfierna",
+   "attribute": "sister to the sacred hill Knockainy"
+  },
+  {
+   "entity": "Knockfierna",
+   "attribute": "an opening to the Otherworld"
+  },
+  {
+   "entity": "Knockfierna",
+   "attribute": "once hosted yearly Lughnasa gatherings"
+  },
+  {
+   "entity": "Knockfierna",
+   "attribute": "a place of many faerie deeds in oral lore"
+  },
+  {
+   "entity": "Donn Firth",
+   "attribute": "fairy king said to reside there"
+  },
+  {
+   "entity": "Donn Firth",
+   "attribute": "a leader among the Tuha De Nann"
+  },
+  {
+   "entity": "Donn",
+   "attribute": "older god who rules the dead"
   }
+ ],
+ "entities": [
+  {
+   "entity": "Knockfierna",
+   "type": "Place"
+  },
+  {
+   "entity": "Cnoc Firinne",
+   "type": "Place"
+  },
+  {
+   "entity": "Knockay",
+   "type": "Place"
+  },
+  {
+   "entity": "Otherworld",
+   "type": "Place"
+  },
+  {
+   "entity": "Munster",
+   "type": "Place"
+  },
+  {
+   "entity": "County Limerick",
+   "type": "Place"
+  },
+  {
+   "entity": "Lughasa",
+   "type": "Event"
+  },
+  {
+   "entity": "Tuha De Nann",
+   "type": "Group"
+  },
+  {
+   "entity": "Donn Firth",
+   "type": "Deity"
+  },
+  {
+   "entity": "Donn",
+   "type": "Deity"
+  },
+  {
+   "entity": "fairies",
+   "type": "Creature"
+  }
+ ],
+ "sources": [
+  "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.",
+  "MacKillop 2008, s.v. 'Knockfierna'",
+  "MacKillop 2008, s.v. 'Knockfierna'"
+ ],
+ "cyphertext": "5zXwiTh5ySX186voXG2x97sdWPR9DQs_S1Ns-iRyFaLPWKGw5nQrsTgtSZc_usS4fRbVt4B3-5osn4oDh7clHiTBR9xQHqpbI0mDHIVuBIjFpu2dyhVgzQPjaryOwXzDDTuH0aVSmqnKqakXJnN34xDA_K3Ir77Ke5XHLIt0tc8KuWH4tKWpVpJm-urfa0jrm1MGWjDyKyocaH4euCQLpanw2agvq-1TiSol1Tr2597oUq72uaUWr4KZjge2U9etL2xSVo5OSqob_IiTIR0_gzHHh3uMbgGjM6qISvRIeGmiD1qOe7LQdCHjhiBU0sgq5S6f5fGeRvSxwgFA_4hmXecF8rt-jflXEmyYOzfbi7Xh3dNUylvqWxQTUwf_dJbLXKvAH3djZzYqoLUh7P0ZfI5Meju6O-8Bxl-xsM4M_NwH03CpoRzmsXvoU3MScmhCvxBgVKoS1-2YHT2C8sp6ZNpBn6EFGFt2x1ZnRyRGqW8hUlFV4OoEol-2IAuM18BVs4QSXSc9oYhgmClbibRxO4UIB29SUZOaC0qoHHQve1vrn_x1OfOPkGGUTUHnZ-kpLDuc0gUDT0a7whUE3fU4A_tuhoOR6zaDhEgG0FbA-y8i4dPS7-R1DUhI-W7SFdbQo1OqZd1j8GQc2k-Q0JpUqlPTe0tlbnVQu_9Q4iY=",
+ "salt": "U89QKBSfbJXB5Oejwn51rA==",
+ "text": "Knockfierna is an Irish mythological site in County Limerick. It also carries the names Cnoc Firinne and Knockfeerina. The Irish name Cnoc Firinne means hill of truth. The hill rises to about 948 feet and stands two miles east of Ballingarry. The mound is of volcanic origin. Many writers count Knockfierna among the most celebrated otherworldly seats in Munster. It held this rank for ages, and travellers kept pointing to it as the gate of another world. Irish story once set a god upon the hill, a being called Donn Firinne. One folk version makes him a leader among the ageless folk of the Tuatha De Danann. A second version names him a fairy king. He was said to draw mortals into his keep at Knockfierna, and once inside, they seldom returned. A folk meaning of his name adds the senses of the just and the truthful. The scholar Muller Lisowski argued that this Donn Firinne grew from the older god Donn, the lord who rules the dead and who calls the dying to his halls. Knockfierna stands as a sister to the sacred hill Knockainy, seven miles away. Each hill offered an opening into the Otherworld. In older times crowds gathered every year for Lughnasa, the great festival of the first harvest, and the assembly drew folk from the whole region. The summit was long known in the oral life of the district as a place of many faerie deeds, and storytellers set whole episodes there. The fairy king Donn Firth kept a seat upon this height. Some people join this god to the king of the Otherworld, who also bears the name Donn.",
+ "okr": {
+  "objective": "Knockfierna is the Irish hill of truth, a gate to the Otherworld.",
+  "key_results": [
+   "Knockfierna is a sacred Irish mythological site.",
+   "It is called the hill of truth.",
+   "It sits two miles east of Ballingarry in County Limerick.",
+   "It housed yearly Lughnasa gatherings.",
+   "The god Donn Firth keeps a seat there."
+  ],
+  "evidence": "MacKillop 2008, s.v. Knockfierna"
+ }
 }

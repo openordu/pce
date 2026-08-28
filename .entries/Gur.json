@@ -1,0 +1,25 @@
+{
+  "name": "Gur",
+  "text": "Gur is a short form of the name of Lough Gur, the lake in County Limerick. The Dictionary of Celtic Mythology sends the reader from Gur to the fuller headword Lough Gur. The waters of the lake carry a body of Irish story. The reader should consult the entry for Lough Gur.",
+  "entities": [
+    { "entity": "Lough Gur", "type": "Place" },
+    { "entity": "Limerick", "type": "Place" }
+  ],
+  "attributes": [
+    { "entity": "Gur", "attribute": "short name for Lough Gur" }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Gur'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Record Gur as a short form of Lough Gur.",
+    "key_results": [
+      "Give the full name Lough Gur.",
+      "Note the county of Limerick."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Gur'"
+  }
+}

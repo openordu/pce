@@ -1,0 +1,38 @@
+{
+  "name": "Magh",
+  "text": "Magh is the Modern Irish spelling of Mag, the Irish word for a plain. It keeps the same sense of open ground and serves the same place-name work as its older form. Readers who meet Magh inside a place-name should follow the main entry under Mag.",
+  "entities": [
+    {
+      "entity": "Magh",
+      "type": "Concept"
+    },
+    {
+      "entity": "Mag",
+      "type": "Concept"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Magh",
+      "attribute": "is the Modern Irish spelling of Mag"
+    },
+    {
+      "entity": "Magh",
+      "attribute": "serves the same place-name work as Mag"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Magh'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Records Magh as the Modern Irish spelling of Mag.",
+    "key_results": [
+      "Modern Irish form of Mag",
+      "Same sense of open plain ground"
+    ],
+    "evidence": "MacKillop 2008, s.v. Magh."
+  }
+}

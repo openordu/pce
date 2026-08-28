@@ -2,61 +2,69 @@
 layout: layouts/pce.njk
 title: Math
 icon: file-lines
-order: 1572
+order: 1872
 contributors: [ 'Christopher Godwin' ]
 attributes:
-  - Math character
-  - Gwydion nephew
-  - secrets revealed
-  - Arianrhod sister of Gwydion
-  - artificial bride built for Arianrhod's son
-  - Lleu Llaw Gyffes Arianrhod's son
-  - curse thwarted
-  - heir nephew
-  - Matriliny predominated in ancient Welsh culture
-  - succession through the mother
+  - Math a Welsh hero or god, son of Mathonwy and lord of Gwynedd
+  - Math the namesake of the fourth branch of the Mabinogion
+  - Math a superb magician along with his nephew Gwydion
+  - Math bound by a geis never to set foot on the ground, needing a virgin footholder
+  - Math passed his throne to his nephew, evidence for matriliny in Welsh succession
 categories:
-  - person
-  - culture
+  - Artifact
+  - Concept
+  - Person
+  - Place
 entities:
-  - Math(person)
-  - Gwydion(person)
-  - Arianrhod(person)
-  - Lleu Llaw Gyffes(person)
-  - Welsh culture(culture)
+  - Math(Person)
+  - Mathonwy(Person)
+  - Gwydion(Person)
+  - Goewin(Person)
+  - Blodeuwedd(Person)
+  - Lleu Llaw Gyffes(Person)
+  - Gwynedd(Place)
+  - Mabinogion(Artifact)
+  - geis(Concept)
+  - matriliny(Concept)
 tags:
   - Math
+  - Mathonwy
   - Gwydion
-  - Arianrhod
+  - Goewin
+  - Blodeuwedd
   - Lleu Llaw Gyffes
-  - Welsh culture
+  - Gwynedd
+  - Mabinogion
+  - geis
+  - matriliny
 ---
 ``` tab [group1:Info]
 ::: magazinestyle
-In Welsh mythology, there exists a character known as Math fab Mathonwy, who is believed to be a hero or a god. The fourth branch of the Mabinogion, a collection of Welsh mythological texts, is named after this figure. According to the story, King Math of Gwynedd had a ceremonial handmaiden named Goewin, who was raped. The narrative mainly focuses on Math's efforts to find a replacement for Goewin, who should be a virgin to keep Math's magical safety intact. It was a customary kind of kingly taboo or Geis observed in Celtic lands that the king was never supposed to set foot on the ground. For example, the king of Tara in Ireland was not allowed to spend more than eight nights away from home. Math's character appears to be quite dubious and rather unpleasant. He conspired with his nephew Gwydion to reveal the secrets of Gwydion's sister Arianrhod. He even assisted in creating an artificial bride for Arianrhod's son, Lleu Llaw Gyffes, to prevent the curse that prophesized he would never find a wife, and his heir was his nephew rather than his son. This goes on to support the supposition that in ancient Welsh culture, matrilineal succession, succession through the mother, was more prevalent.
+Math was a Welsh hero or god, the son of Mathonwy and the lord of Gwynedd in the Mabinogi. The fourth branch of that great collection of Welsh myth bears his name. In that tale Math and his nephew Gwydion prove superb magicians. Much of the story turns on a taboo, or geis, that kept Math from ever setting foot on the ground. He therefore needed a virgin to hold his feet, a ceremonial role given to the maiden Goewin. When Goewin was raped, the tale turns on Math's search for a virgin applicant to replace her. That virginal footholder kept Math safe and obeyed the geis. The taboo echoed a common kingly rule, much as the king of Tara could not stay eight nights from home. Math joined Gwydion to fashion an artificial wife, Blodeuwedd, for Lleu Llaw Gyffes. Because Math passed his throne to his nephew rather than to a son, some scholars see the story as proof that matriliny, or descent through the mother, ruled old Welsh succession. So Math stands as the powerful, magic-using lord whose need for a virgin footholder drives one of the Mabinogi's strangest tales.
 
 :::
 ```
 ``` tab [group1:Attributes]
-- **Math**: character
-- **Gwydion**: nephew
-- **secrets**: revealed
-- **Arianrhod**: sister of Gwydion
-- **artificial bride**: built for Arianrhod's son
-- **Lleu Llaw Gyffes**: Arianrhod's son
-- **curse**: thwarted
-- **heir**: nephew
-- **Matriliny**: predominated in ancient Welsh culture
-- **succession**: through the mother
+- **Math**: a Welsh hero or god, son of Mathonwy and lord of Gwynedd
+- **Math**: the namesake of the fourth branch of the Mabinogion
+- **Math**: a superb magician along with his nephew Gwydion
+- **Math**: bound by a geis never to set foot on the ground, needing a virgin footholder
+- **Math**: passed his throne to his nephew, evidence for matriliny in Welsh succession
 ```
 ``` tab [group1:Entities]
-- **Math**: person
-- **Gwydion**: person
-- **Arianrhod**: person
-- **Lleu Llaw Gyffes**: person
-- **Welsh culture**: culture
+- **Math**: Person
+- **Mathonwy**: Person
+- **Gwydion**: Person
+- **Goewin**: Person
+- **Blodeuwedd**: Person
+- **Lleu Llaw Gyffes**: Person
+- **Gwynedd**: Place
+- **Mabinogion**: Artifact
+- **geis**: Concept
+- **matriliny**: Concept
 ```
 ``` tab [group1:Sources]
 - Gantz, Jeffrey, trans. *The Mabinogion*. (New York: Barnes & Noble Books, 1976).
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
+- MacKillop 2008, s.v. 'Math'
 ```

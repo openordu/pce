@@ -2,46 +2,44 @@
 layout: layouts/pce.njk
 title: Leborcham
 icon: file-lines
-order: 1415
+order: 0
 contributors: [ 'Christopher Godwin' ]
 attributes:
-  - girl unfortunate
-  - king deceived by Leborcham
-  - Deirdre chose death over remaining as the king's enslaved consort
+  - Leborcham nurse and watcher of Deirdre
+  - Leborcham a poet and messenger of the king
+  - Leborcham spoke the three colours in the snow
 categories:
-  - person
+  - Person
 entities:
-  - girl(person)
-  - king(person)
-  - Leborcham(person)
-  - lover(person)
-  - Deirdre(person)
+  - Leborcham(Person)
+  - Deirdre(Person)
+  - Conchobar(Person)
+  - Uisnech(Person)
 tags:
-  - girl
-  - king
   - Leborcham
-  - lover
   - Deirdre
+  - Conchobar
+  - Uisnech
 ---
 ``` tab [group1:Info]
 ::: magazinestyle
-An Irish heroine by the name of Leborcham, also known as Lavercam, Lebarcham, Levarcham, and Lebharcham, was the nurse for Deirdre of the Sorrows, a tragic heroine. Leborcham was born a slave but had become a member of the nobility due to her intelligence and physical prowess, ultimately becoming a Bard. She possessed the remarkable ability to run the entirety of Ireland and back within a single day, which caught the attention of Ulster’s king, Concobar Mac Nessa. When Deirdre was born, Concobar intended to raise her as his concubine despite predictions that she would bring about the downfall of the land. Leborcham was entrusted with the responsibility of raising and educating Deirdre. Upon seeing a Raven’s blood on the snow, Deirdre became enchanted by a man whose features were similar to the sight: Noísiu, Deirdre's fated lover, which Leborcham revealed to her. Even after Deirdre and her lover were tricked into returning from their Scottish exile, Leborcham remained devoted to her charge and attempted to convince the girl to leave Ireland. Deirdre refused, however, and Leborcham then sought to deceive Concobar by telling him that Deirdre's beauty had been destroyed by the hardship of living in the wilderness. Unfortunately, Concobar saw through the ruse and when Deirdre's lover was killed, she chose death over being Concobar's enslaved consort.
+Leborcham was a woman of the Ulster court and the trusted nurse of the child Deirdre. MacKillop shows her as the wise woman who stood high in the confidence of King Conchobar. Born in service, she rose by her wit and her skill to a place of trust, and she served the queen. She is often called a satirist and a poet, with the gift of words that could praise or wound. When Deirdre was a little girl a stranger in the palace spoke a prophecy of her beauty and of the sorrow she would bring, and the king's men silenced the teller. Leborcham then kept watch over the child in her hidden bower. In the best known tale Leborcham is a forester who one day flays a slaughtered calf in the snow outside the house. A raven comes to drink the blood, and little Deirdre cries out that she would love a man whose hair is like the raven, whose cheek is like the blood and whose body is like the snow. Leborcham answers that such a man lives nearby, the young warrior Noíse, a nephew of Conchobar. That sunrise of three colours moves the whole sorrowful legend of Deirdre to its tragic close. The speed of Leborcham is also celebrated, for she ran the whole length of Ireland in a single day to carry news and to return before dawn. She holds a firm place in the Ulster Cycle as the guard and messenger of the lovely and doomed Deirdre.
 
 :::
 ```
 ``` tab [group1:Attributes]
-- **girl**: unfortunate
-- **king**: deceived by Leborcham
-- **Deirdre**: chose death over remaining as the king's enslaved consort
+- **Leborcham**: nurse and watcher of Deirdre
+- **Leborcham**: a poet and messenger of the king
+- **Leborcham**: spoke the three colours in the snow
 ```
 ``` tab [group1:Entities]
-- **girl**: person
-- **king**: person
-- **Leborcham**: person
-- **lover**: person
-- **Deirdre**: person
+- **Leborcham**: Person
+- **Deirdre**: Person
+- **Conchobar**: Person
+- **Uisnech**: Person
 ```
 ``` tab [group1:Sources]
 - Dillon, Myles, ed. Irish Sagas. Cork: The Mercier Press, 1968, 53+.
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
+- MacKillop 2008, s.v. 'Levarcham'
 ```

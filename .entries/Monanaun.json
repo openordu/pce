@@ -1,0 +1,39 @@
+{
+  "name": "Monanaun",
+  "text": "Monanaun is an anglicized spelling, drawn from Hiberno-Irish oral tradition, of the sea god Manannán mac Lir.",
+  "entities": [
+    {
+      "entity": "Monanaun",
+      "type": "Person"
+    },
+    {
+      "entity": "Manannán mac Lir",
+      "type": "Deity"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Monanaun",
+      "attribute": "anglicized form, from Hiberno-Irish oral tradition, of Manannán mac Lir"
+    },
+    {
+      "entity": "Monanaun",
+      "attribute": "oral-tradition form of the sea god's name"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Monanaun'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Documents Monanaun as recorded in MacKillop 2008 for the Public Celtic Encyclopedia.",
+    "key_results": [
+      "Monanaun renders Manannán mac Lir in English letters.",
+      "The form comes out of Hiberno-Irish oral telling.",
+      "Manannán mac Lir is the sea god of the tradition."
+    ],
+    "evidence": "MacKillop 2008, s.v. Monanaun."
+  }
+}

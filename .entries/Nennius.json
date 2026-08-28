@@ -1,0 +1,47 @@
+{
+ "name": "Nennius",
+ "text": "Nennius is the dictionary's routing entry to Historia Brittonum, the early ninth-century Latin history of the British traditionally ascribed to a writer of that name. The work matters to Celtic myth because it preserves the earliest account of Brutus of Troy, the settlement genealogy of the Britons, and the tale of Vortigern's tower, inside which the boy Merlin reads the two fighting dragons. MacKillop's entry directs readers to the main article for the ascription dispute and the work's Arthurian foreshadowings.",
+ "entities": [
+  {
+   "entity": "Nennius",
+   "type": "Person"
+  },
+  {
+   "entity": "Historia Brittonum",
+   "type": "Work"
+  },
+  {
+   "entity": "Merlin",
+   "type": "Person"
+  },
+  {
+   "entity": "Vortigern",
+   "type": "Person"
+  }
+ ],
+ "attributes": [
+  {
+   "entity": "Nennius",
+   "attribute": "routing entry to Historia Brittonum in MacKillop 2008"
+  },
+  {
+   "entity": "Nennius",
+   "attribute": "traditional ascription of the ninth-century British history"
+  }
+ ],
+ "sources": [
+  "MacKillop 2008, s.v. 'Nennius'"
+ ],
+ "image": [],
+ "cyphertext": "",
+ "salt": "",
+ "okr": {
+  "objective": "Documents Nennius as recorded in MacKillop 2008 for the Public Celtic Encyclopedia.",
+  "key_results": [
+   "Nennius routes to the Historia Brittonum.",
+   "The work is a ninth-century Latin history traditionally ascribed to him.",
+   "It carries the Brutus settlement story and Vortigern's dragons."
+  ],
+  "evidence": "MacKillop 2008, s.v. Nennius."
+ }
+}

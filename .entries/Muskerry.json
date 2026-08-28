@@ -1,0 +1,42 @@
+{
+ "name": "Muskerry",
+ "text": "Muskerry, from Irish Múscraige, is the anglicized name of an old petty kingdom inside Munster. Its bounds match the north-western and central reaches of Co. Cork.",
+ "entities": [
+  {
+   "entity": "Muskerry",
+   "type": "Place"
+  },
+  {
+   "entity": "Munster",
+   "type": "Place"
+  },
+  {
+   "entity": "Cork",
+   "type": "Place"
+  }
+ ],
+ "attributes": [
+  {
+   "entity": "Muskerry",
+   "attribute": "anglicized name of a Munster petty kingdom"
+  },
+  {
+   "entity": "Muskerry",
+   "attribute": "territory matching north-western and central Co. Cork"
+  }
+ ],
+ "sources": [
+  "MacKillop 2008, s.v. 'Muskerry'"
+ ],
+ "image": [],
+ "cyphertext": "",
+ "salt": "",
+ "okr": {
+  "objective": "Documents Muskerry as recorded in MacKillop 2008 for the Public Celtic Encyclopedia.",
+  "key_results": [
+   "Muskerry anglicizes Irish Múscraige.",
+   "The name covers a petty kingdom in Co. Cork within Munster."
+  ],
+  "evidence": "MacKillop 2008, s.v. Muskerry."
+ }
+}

@@ -1,0 +1,51 @@
+{
+  "name": "Knockfefin",
+  "text": "Knockfefin is the name that W. B. Yeats chose for the mountain better known as Slievenamon, the form of the Irish Sliab na mBan. The peak rises to 2,368 feet and stands east of Cashel in County Tipperary. Some praise it as the Parnassus of Ireland. The name refers to women, and old tales say the women of the district race one another up the slopes. In the stories Fionn mac Cumhaill wins his thumb-wisdom at this mountain by pinning his thumb in the door of a cairn of the Otherworld. It is here that Fionn chooses Gráinne for his bride and here that the Fianna ride out to chase the boar. Earlier tradition set the god Bodb Derg here with supernatural pigs that came back to life after being eaten. A fine mound called Sidh ar Femen lies near the summit.",
+  "entities": [
+    {
+      "entity": "Slievenamon",
+      "type": "Place"
+    },
+    {
+      "entity": "County Tipperary",
+      "type": "Region"
+    },
+    {
+      "entity": "Cashel",
+      "type": "Place"
+    },
+    {
+      "entity": "Fionn mac Cumhaill",
+      "type": "Person"
+    },
+    {
+      "entity": "Gráinne",
+      "type": "Person"
+    },
+    {
+      "entity": "Bodb Derg",
+      "type": "Person"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Knockfefin",
+      "attribute": "Yeats's name for Slievenamon"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Knockfefin'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Record Knockfefin.",
+    "key_results": [
+      "Name the mountain the term replaces.",
+      "Give its height in feet.",
+      "Name the figure tied to its side."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Knockfefin'"
+  }
+}

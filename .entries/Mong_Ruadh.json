@@ -1,0 +1,46 @@
+{
+ "name": "Mong Ruadh",
+ "text": "Mong Ruadh and Mongroe are alternative names for Macha (2), the Ulster queen. Under the name Mong Ruadh she wins the kingship contest against the sons of Dithorba and sets their captive men to build the fort of Emain Macha.",
+ "entities": [
+  {
+   "entity": "Mong Ruadh",
+   "type": "Person"
+  },
+  {
+   "entity": "Macha",
+   "type": "Person"
+  },
+  {
+   "entity": "Dithorba",
+   "type": "Person"
+  },
+  {
+   "entity": "Emain Macha",
+   "type": "Place"
+  }
+ ],
+ "attributes": [
+  {
+   "entity": "Mong Ruadh",
+   "attribute": "alternative name of Macha (2)"
+  },
+  {
+   "entity": "Mong Ruadh",
+   "attribute": "name paired with Mongroe in the Ulster cycle"
+  }
+ ],
+ "sources": [
+  "MacKillop 2008, s.v. 'Mong Ruadh'"
+ ],
+ "image": [],
+ "cyphertext": "",
+ "salt": "",
+ "okr": {
+  "objective": "Documents Mong Ruadh as recorded in MacKillop 2008 for the Public Celtic Encyclopedia.",
+  "key_results": [
+   "Mong Ruadh and Mongroe are alternative names of Macha (2).",
+   "The name attaches to the queen who defeats the sons of Dithorba."
+  ],
+  "evidence": "MacKillop 2008, s.v. Mong Ruadh."
+ }
+}

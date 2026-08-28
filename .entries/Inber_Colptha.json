@@ -1,0 +1,22 @@
+{
+  "name": "Inber Colptha",
+  "text": "Inber Colptha is the title the old Irish sources gave to the mouth of the River Boyne. The name also embraces the broad Boyne estuary on the east coast of Ireland. Many of the great events of early Irish history and myth belong to this water. The most famous is the landing of the Milesians in the Book of Invasions. That landing starts the old tale of how the people reached the island.",
+  "entities": [
+    {"entity": "Inber Colptha", "type": "Place"},
+    {"entity": "Boyne", "type": "Place"},
+    {"entity": "Milesians", "type": "Group"},
+    {"entity": "Lebor Gabala", "type": "Work"}
+  ],
+  "attributes": [
+    {"entity": "Inber Colptha", "attribute": "old Irish name for the mouth of the Boyne"}
+  ],
+  "sources": ["MacKillop 2008, s.v. 'Inber Colptha'"],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Record Inber Colptha.",
+    "key_results": ["Locate the place at the Boyne mouth.", "Recall the Milesian landing there.", "Set it on the east coast of Ireland."],
+    "evidence": "MacKillop 2008, s.v. 'Inber Colptha'"
+  }
+}

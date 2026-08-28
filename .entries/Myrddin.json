@@ -1,86 +1,55 @@
 {
-    "name": "Myrddin",
-    "attributes": [
-        {
-            "entity": "Myrddin",
-            "attribute": "a Welsh hero whose story gave the world the magician Merlin"
-        },
-        {
-            "entity": "Myrddin",
-            "attribute": "a king who went mad and fled to the woods after battle"
-        },
-        {
-            "entity": "Myrddin",
-            "attribute": "found his power of prophecy while healing in Scotland"
-        },
-        {
-            "entity": "Myrddin",
-            "attribute": "a prophet whose gift breaks the king and the sand"
-        },
-        {
-            "entity": "Gwenddydd",
-            "attribute": "his gentle kin who keep him, the sea-goddess of the song"
-        },
-        {
-            "entity": "Myrddin",
-            "attribute": "name tied to the town of the sea-fort, and given to the prophet of the sky"
-        }
-    ],
-    "entities": [
-        {
-            "entity": "Myrddin",
-            "type": "Person"
-        },
-        {
-            "entity": "Merlin",
-            "type": "Person"
-        },
-        {
-            "entity": "Geoffrey of Monmouth",
-            "type": "Person"
-        },
-        {
-            "entity": "Suibhne",
-            "type": "Person"
-        },
-        {
-            "entity": "Scotland",
-            "type": "Place"
-        },
-        {
-            "entity": "Nemain",
-            "type": "Deity"
-        },
-        {
-            "entity": "Black Book of Carmarthen",
-            "type": "artifact"
-        },
-        {
-            "entity": "Arfderydd",
-            "type": "place"
-        },
-        {
-            "entity": "Gwenddydd",
-            "type": "person"
-        }
-    ],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.",
-        "Koch 2006, s.v. 'Myrddin'"
-    ],
-    "image": [
-        "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Merlin_and_St_Kentigern%2C_Stobo_Kirk.JPG/1200px-Merlin_and_St_Kentigern%2C_Stobo_Kirk.JPG"
-    ],
-    "cyphertext": "xoPLRw-A25Hw8dgbdDG-Au6yrkPU2aWxcplJxgELNUvC-y8aPN0-m5_E9PnCyaKHWDewZD0tEjki7-LPOZHeM5aCw-9WfRcViBUU72LQbB_QmyjY-AN-lEGx4WnCJCHlU4q3MH31QfdZ_cN2VQfuEIT9a1mzBtj-XgOIeQvFKlctU94t7ryMbZx1pbCPvGdfczmBtcoP3OluHDX635NLvA6SN3VKH4zWJJTGV_V5cAe-SAWM5NG8lYfFqJEppHp6WbzhbFY8xjBtjv6uwmpxzbRg3pdd6D3Fov4ji0cqtOo3Ub_U2XUR8fb0PLEGqTqrRFUePXEc6Fr4YEKNPtxJWw14uZpca4Gxn6a_EBhFk7Nck_YlkLKz2VnQ2x-B3TFfHiCorZdY_Dl-ccmNAjT_l6i0uyGwI1beUFD5Pa9uf3cAtf7KISVJwekaZa3Cj1DJsdkyRLU1ro9lHlhADEOgUxko9B839do2soH2iuQ7GxUbzdnbk0z7v0BHhT5qOysFaRMDRRfFLLjhzyN-wxQPo4UL4Q==",
-    "salt": "9oYq57FPWfM1y30nOFeNhQ==",
-    "text": "Myrddin is the Welsh hero whom later storytellers shape into the magician Merlin. He is a leader whose mind breaks in the horror of war, at the fight the old verses name Arfderydd, and he flees to live in the wild wood as a madman, kin in his sickness to the Irish king Suibhne. Out of that grief his voice turns to prophecy. Hidden in the forest he sees the pains that are not yet come, and his words carry the many journeys of Wales. His poems sit beside the book of the Black one and the book of the red one; they hold the hope of a deliverer and the end of the turning of the rule. Geoffrey of Monmouth turned this wild, ragged figure into the Merlin of his famous books. In the Prophetia Merlini and the later Vita Merlini the label Merlin first takes its lasting shape. He set the seer's gifts at the heart of Arthuriana, so that the madman of the wood becomes the great magician of the later tales. The seer, bound and wise in one skin, speaks and waits beneath open sky for the age of quiet that he saw in a vision.",
-    "okr": {
-        "objective": "To carry Myrddin the madman's of the woods become the prophet behind the Merlin of legend.",
-        "key_results": [
-            "The battle of Arfderydd breaks him and he flees into the wild.",
-            "In the wood he gains and speaks the prophecy that outlives him.",
-            "The name of the city of the wheat becomes the writer's of the film."
-        ],
-        "evidence": "Monaghan 2003, s.v. Myrddin; Koch 2006, s.v. Myrddin"
+  "name": "Myrddin",
+  "image": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Merlin_and_St_Kentigern%2C_Stobo_Kirk.JPG/1200px-Merlin_and_St_Kentigern%2C_Stobo_Kirk.JPG"
+  ],
+  "cyphertext": "xoPLRw-A25Hw8dgbdDG-Au6yrkPU2aWxcplJxgELNUvC-y8aPN0-m5_E9PnCyaKHWDewZD0tEjki7-LPOZHeM5aCw-9WfRcViBUU72LQbB_QmyjY-AN-lEGx4WnCJCHlU4q3MH31QfdZ_cN2VQfuEIT9a1mzBtj-XgOIeQvFKlctU94t7ryMbZx1pbCPvGdfczmBtcoP3OluHDX635NLvA6SN3VKH4zWJJTGV_V5cAe-SAWM5NG8lYfFqJEppHp6WbzhbFY8xjBtjv6uwmpxzbRg3pdd6D3Fov4ji0cqtOo3Ub_U2XUR8fb0PLEGqTqrRFUePXEc6Fr4YEKNPtxJWw14uZpca4Gxn6a_EBhFk7Nck_YlkLKz2VnQ2x-B3TFfHiCorZdY_Dl-ccmNAjT_l6i0uyGwI1beUFD5Pa9uf3cAtf7KISVJwekaZa3Cj1DJsdkyRLU1ro9lHlhADEOgUxko9B839do2soH2iuQ7GxUbzdnbk0z7v0BHhT5qOysFaRMDRRfFLLjhzyN-wxQPo4UL4Q==",
+  "salt": "9oYq57FPWfM1y30nOFeNhQ==",
+  "text": "Myrddin, also written Merddin, is a fictional Welsh poet and prophet of the sixth century, made to stand just before the better known Merlin. The Arthurian conception of Merlin begins with Geoffrey of Monmouth in the twelfth century, and Myrddin stands as the older figure who feeds that later one. He kept a place in the court of the king Gwenddolou fab Ceido. The death of his lord in the battle of Arirderydd bruised him deeply, and he fled into the Caledonian forests of Scotland, which the Welsh called Celyddon. There he lived wild in the wood for close on fifty years, keeping company with animals and hiding in fear of the one who had stood against his lord, the man named Rhydderch Hael. At the end of that long torment he received the gift of prophecy. Several early mantic poems carry his name, and the song of the apple trees is one of them. Because of his exile he could bear the title of the mad one, and the stories link him to the Irish figure of the wandering madman in the old song of his sorrow, the text called the Frenzy of Suibne. The oldest text that names him is the prophecy of Britain written in the tenth century. For most of Welsh story after Geoffrey, the poet and the magician become hard to tell apart. The gift of the wild man gave the later Merlin his strength, and that strength made him the leading figure of the royal books of wonder. The battle at Arfderydd took place in the year 573 or 575. That fight settled the fate of the region they called the Old North. Grief grew so great that madness overtook his mind. The Welsh called that state Gwyllt, and the title stuck to him. A song of the apple trees ranks among the early mantic poems given his name. Those verses keep his voice alive in the oldest Welsh poetry. His story also echoes an Irish tale of a similar wanderer. The madman Suibne of the Frenzy of Suibne shared his fate. Both men fled to the wild after their world broke. The earliest written record of Myrddin comes from the tenth century. That source, the Prophecy of Britain, already knows him by name. Welsh writers after Geoffrey often merge him with the wizard Merlin. Yet the grieving poet of the wood stays the older and wilder figure.",
+  "entities": [
+    {
+      "entity": "Myrddin",
+      "type": "Person"
+    },
+    {
+      "entity": "Merlin",
+      "type": "Person"
+    },
+    {
+      "entity": "Geoffrey of Monmouth",
+      "type": "Person"
     }
+  ],
+  "attributes": [
+    {
+      "entity": "Myrddin",
+      "attribute": "a fictional sixth century Welsh poet and prophet"
+    },
+    {
+      "entity": "Myrddin",
+      "attribute": "fled to the wild wood as a madman after battle"
+    },
+    {
+      "entity": "Myrddin",
+      "attribute": "gained the gift of prophecy in the wild"
+    },
+    {
+      "entity": "Myrddin",
+      "attribute": "became the model for the later Merlin"
+    }
+  ],
+  "sources": [
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.",
+    "Koch 2006, s.v. 'Myrddin'",
+    "MacKillop 2008, s.v. 'Myrddin'"
+  ],
+  "okr": {
+    "objective": "Record Myrddin, the Welsh wild prophet who stands behind the wizard Merlin",
+    "key_results": [
+      "He fled to the forest as a madman after battle",
+      "he gained the gift of prophecy in the wild",
+      "Geoffrey built Merlin from his story"
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Myrddin'"
+  }
 }

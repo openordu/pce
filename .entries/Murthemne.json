@@ -1,0 +1,50 @@
+{
+ "name": "Murthemne",
+ "text": "Murthemne is a routing entry that sends readers to Mag Muirtheimne, the level plain by the Irish Sea that lies between Dundalk and Drogheda at the Boyne's mouth. The dictionary marks that plain as Cúchulainn's inheritance.",
+ "entities": [
+  {
+   "entity": "Murthemne",
+   "type": "Place"
+  },
+  {
+   "entity": "Mag Muirtheimne",
+   "type": "Place"
+  },
+  {
+   "entity": "Cúchulainn",
+   "type": "Person"
+  },
+  {
+   "entity": "Dundalk",
+   "type": "Place"
+  },
+  {
+   "entity": "Drogheda",
+   "type": "Place"
+  }
+ ],
+ "attributes": [
+  {
+   "entity": "Murthemne",
+   "attribute": "routing form of the name Mag Muirtheimne"
+  },
+  {
+   "entity": "Murthemne",
+   "attribute": "label of the plain held as Cúchulainn's inheritance"
+  }
+ ],
+ "sources": [
+  "MacKillop 2008, s.v. 'Murthemne'"
+ ],
+ "image": [],
+ "cyphertext": "",
+ "salt": "",
+ "okr": {
+  "objective": "Documents Murthemne as recorded in MacKillop 2008 for the Public Celtic Encyclopedia.",
+  "key_results": [
+   "Murthemne routes to Mag Muirtheimne, the plain between Dundalk and Drogheda.",
+   "The plain is marked as Cúchulainn's inheritance."
+  ],
+  "evidence": "MacKillop 2008, s.v. Murthemne."
+ }
+}

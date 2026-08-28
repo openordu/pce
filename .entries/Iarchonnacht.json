@@ -1,0 +1,43 @@
+{
+  "name": "Iarchonnacht",
+  "text": "Iarchonnacht is the Irish phrase for western Connacht. The term means remote, western Connacht. It refers most exactly to the barony of Moycullen. That barony is now counted as part of Connemara. Connemara itself lies in the west of County Galway, west of Lough Corrib. The region holds the largest surviving Irish-speaking community. For this reason many regard it as a stronghold of traditional Gaelic culture. Iarchonnacht therefore names the western edge of the old province of Connacht.",
+  "entities": [
+    {
+      "entity": "Connacht",
+      "type": "Region"
+    },
+    {
+      "entity": "Connemara",
+      "type": "Region"
+    },
+    {
+      "entity": "Galway",
+      "type": "Region"
+    },
+    {
+      "entity": "Lough Corrib",
+      "type": "Place"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Iarchonnacht",
+      "attribute": "Irish name for western Connacht"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Iarchonnacht'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Record Iarchonnacht.",
+    "key_results": [
+      "Give the meaning of the phrase.",
+      "Name the barony it most exactly fits.",
+      "Set the region beside Connemara."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Iarchonnacht'"
+  }
+}

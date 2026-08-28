@@ -2,69 +2,67 @@
 layout: layouts/pce.njk
 title: Kay
 icon: file-lines
-order: 1344
+order: 0
 contributors: [ 'Christopher Godwin' ]
 attributes:
-  - Kay accused of taking advantage of the queen
-  - Lancelot did battle to reclaim his friend's honor
-  - Kay god of Celtic peoples
-  - Arthur's tribes traditional enemies of Celtic peoples
-  - two heroes connection in legend
-  - political links forged in reality
+  - Kay an Arthurian hero
+  - Kay held hostage after the queen's capture
+  - Lancelot went to free the captives
+  - Gawain a pure knight who travelled with Lancelot
+  - Gorre the city where the captives were held
+  - Lancelot wounded by crossing the upper bridge
+  - Bademagu forced his son Meleagant to free the queen
 categories:
-  - person
-  - concept
-  - group
+  - character
+  - figure
+  - hero
+  - location
 entities:
-  - Kay(person)
-  - queen(person)
-  - Lancelot(person)
-  - Celtic peoples(group)
-  - Arthur(person)
-  - tribes(group)
-  - heroes(group)
-  - legend(concept)
-  - political links(concept)
-  - reality(concept)
+  - Kay(hero)
+  - Lancelot(hero)
+  - Cei(figure)
+  - Gawain(hero)
+  - Guinevere(character)
+  - Gorre(location)
+  - Meleagant(character)
+  - Bademagu(character)
 tags:
   - Kay
-  - queen
   - Lancelot
-  - Celtic peoples
-  - Arthur
-  - tribes
-  - heroes
-  - legend
-  - political links
-  - reality
+  - Cei
+  - Gawain
+  - Guinevere
+  - Gorre
+  - Meleagant
+  - Bademagu
 ---
 ``` tab [group1:Info]
 ::: magazinestyle
-An Arthurian hero, Kay, who is sometimes known as Kai, Cai, Cei, or Sir Kay, is frequently featured in Arthurian stories as Arthur’s companion, foster brother, and steward. Although he is occasionally kind and bumbling, he can also be quite powerful. According to the Welsh myth of Kulhwch And Olwen, Kay may have initially been a Welsh god of war. This myth depicts him to have beyond-human abilities such as being able to stand underwater for nine days, go without sleep for the same period, warm his comrades during cold weather with only the heat of his body, and stretch himself as tall as the highest tree. Furthermore, if Kay put a pack on his back or engaged in a battle, his backpack would become invisible, and his sword would cause at least one hundred warriors to perish. One of the most notable tales featuring Kay is the abduction of Queen Guinevere by a king named Meleagant. Kay, along with Lancelot, tracked Meleagant to his castle, where Kay sustained injuries while trying to rescue the queen. The injured Kay slept in the same room as Guinevere. Lancelot visited the queen's bed, which caused bloodstains on the sheets. Kay was accused of taking advantage of the queen the next day, but Lancelot fought to defend his friend's honor. It is speculated by certain experts that Kay was a deity of Celtic peoples who were Arthur's tribes' conventional adversaries. This assertion connects the heroes of legend to the reality of political links established in the past.
+Kay is a hero of the Arthurian tales. He is seneschal to King Arthur in English romance. He keeps the court's stores and holds rank at table. His figure grows out of the Welsh warrior Cei, whom he closely echoes. The English retainer is always a prickly, plain-spoken man, quick to mock and slow to flatter. Yet he stays Arthur's foster-brother, kin by fostering, and a frequent companion on adventures. In one romance the queen was taken away, and Kay rode after her. He could not win her escape. He was himself held as a hostage. Lancelot, the queen's beloved, had to win the release of both captives. The blameless knight Gawain came with him. Their prison stood in the city of Gorre, a place hard to locate. Once there they faced a wild river. They could cross by a sharp bridge or by a safer path under the water. Gawain chose the lower route. Lancelot, eager to reach the queen, raced over the upper bridge and was badly wounded. He then fought Meleagant, whose father Bademagu at last made his own son give the queen back. Across the tales Kay keeps his sharp temper, yet he stays loyal and bold at Arthur's side. Later romances portray him more kindly, at once the gruff gatekeeper and the valued sword-arm next to his king. In the Welsh sources the warrior Cei holds a tempered, sometimes cruel strength, and early poets pair him with Bedwyr on many quests. Through the Arthurian growth of the legend, Kay's name and office stayed fixed even as his temper mellowed from book to book.
 
 :::
 ```
 ``` tab [group1:Attributes]
-- **Kay**: accused of taking advantage of the queen
-- **Lancelot**: did battle to reclaim his friend's honor
-- **Kay**: god of Celtic peoples
-- **Arthur's tribes**: traditional enemies of Celtic peoples
-- **two heroes**: connection in legend
-- **political links**: forged in reality
+- **Kay**: an Arthurian hero
+- **Kay**: held hostage after the queen's capture
+- **Lancelot**: went to free the captives
+- **Gawain**: a pure knight who travelled with Lancelot
+- **Gorre**: the city where the captives were held
+- **Lancelot**: wounded by crossing the upper bridge
+- **Bademagu**: forced his son Meleagant to free the queen
 ```
 ``` tab [group1:Entities]
-- **Kay**: person
-- **queen**: person
-- **Lancelot**: person
-- **Celtic peoples**: group
-- **Arthur**: person
-- **tribes**: group
-- **heroes**: group
-- **legend**: concept
-- **political links**: concept
-- **reality**: concept
+- **Kay**: hero
+- **Lancelot**: hero
+- **Cei**: figure
+- **Gawain**: hero
+- **Guinevere**: character
+- **Gorre**: location
+- **Meleagant**: character
+- **Bademagu**: character
 ```
 ``` tab [group1:Sources]
 - MacCulloch, J. A. The Religion of the Ancient Celts. London: Constable, 1911, 122+.
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
+- MacKillop 2008, s.v. 'Kay'
 ```

@@ -1,0 +1,39 @@
+{
+  "name": "Hi",
+  "text": "Hi is a variant form of the name Iona. Both names mark the small island that lies south-west of Mull, among the Inner Hebrides of Scotland. The island is roughly three and a half miles long and one and a half miles wide. Saint Colum Cille came to the island to spread the faith in about 563. Tradition says a monastery was founded there, though the first buildings may be later than his arrival. The island holds the graves of many kings, including Scottish, Irish, and Norwegian rulers. Hi thus preserves an early name for this celebrated Gaelic island.",
+  "entities": [
+    {
+      "entity": "Iona",
+      "type": "Place"
+    },
+    {
+      "entity": "Colum Cille",
+      "type": "Person"
+    },
+    {
+      "entity": "Inner Hebrides",
+      "type": "Region"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Hi",
+      "attribute": "variant form of the name Iona"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Hi'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Record Hi.",
+    "key_results": [
+      "Give the alternative spelling of Iona.",
+      "Place the island among the Inner Hebrides.",
+      "Recall the work of Colum Cille there."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Hi'"
+  }
+}

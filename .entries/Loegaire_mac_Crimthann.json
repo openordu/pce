@@ -1,0 +1,38 @@
+{
+  "name": "Lóegaire mac Crimthann",
+  "text": "Lóegaire mac Crimthann is the hero of Echtrae Lóegairi, the Adventure of Lóegaire. The notice is a bare pointer: the dictionary gives him no further deeds here. Readers following the adventure tale should take the hero's identity from this headword and the story from the entry on the text itself.",
+  "entities": [
+    {
+      "entity": "Lóegaire mac Crimthann",
+      "type": "Person"
+    },
+    {
+      "entity": "Echtrae Lóegairi",
+      "type": "Text"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Lóegaire mac Crimthann",
+      "attribute": "hero of Echtrae Lóegairi, the Adventure of Lóegaire"
+    },
+    {
+      "entity": "Lóegaire mac Crimthann",
+      "attribute": "the notice records no further deeds"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Lóegaire mac Crimthann'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Identifies Lóegaire mac Crimthann as the hero of the Adventure of Lóegaire.",
+    "key_results": [
+      "Hero of Echtrae Lóegairi",
+      "The notice adds no further deeds"
+    ],
+    "evidence": "MacKillop 2008, s.v. Lóegaire mac Crimthann."
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "name": "Irish World-Chronicle",
+  "text": "The Irish World-Chronicle is a name given to a piece of early Irish annalistic writing. The fragment has come down to us in one old manuscript at Oxford. Editors have set it beside the Annals of Tigernach in printed books. The work shows the hand of the early annalists at their task.",
+  "entities": [
+    {"entity": "Irish World-Chronicle", "type": "Work"},
+    {"entity": "Annals", "type": "Work"},
+    {"entity": "Ireland", "type": "Place"}
+  ],
+  "attributes": [
+    {"entity": "Irish World-Chronicle", "attribute": "fragment of early Irish annals"}
+  ],
+  "sources": ["MacKillop 2008, s.v. 'Irish World-Chronicle'"],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Record the Irish World-Chronicle.",
+    "key_results": ["Name the kind of writing.", "Set the piece in the old age.", "Join it with the Irish annals."],
+    "evidence": "MacKillop 2008, s.v. 'Irish World-Chronicle'"
+  }
+}

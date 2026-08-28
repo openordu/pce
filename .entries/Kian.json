@@ -1,0 +1,47 @@
+{
+  "name": "Kian",
+  "text": "Kian is an anglicized spelling of the name Cian. Cian is a hero of early Irish narrative and the father of Lug Lámfhota. One tale tells how his magic cow Glas Ghaibhleann is stolen by Balor, and Cian seduces Balor's daughter Eithne in revenge. Another version has him win Eithne through long negotiation. He can change his form to a pig when threatened.",
+  "entities": [
+    {
+      "entity": "Cian",
+      "type": "Person"
+    },
+    {
+      "entity": "Lug Lámfhota",
+      "type": "Person"
+    },
+    {
+      "entity": "Glas Ghaibhleann",
+      "type": "Animal"
+    },
+    {
+      "entity": "Balor",
+      "type": "Person"
+    },
+    {
+      "entity": "Eithne",
+      "type": "Person"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Kian",
+      "attribute": "anglicized spelling of Cian"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Kian'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Record Kian.",
+    "key_results": [
+      "Give the Irish spelling.",
+      "Name his famous son.",
+      "Name the magic cow of the tale."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Kian'"
+  }
+}

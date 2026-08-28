@@ -2,77 +2,97 @@
 layout: layouts/pce.njk
 title: Mark
 icon: file-lines
-order: 1564
+order: 1865
 contributors: [ 'Christopher Godwin' ]
 attributes:
-  - Mark took his wife back without complaint
-  - king Arthur of Britain whose queen Guinevere preferred the young knight Lancelot
-  - Fionn Mac Cumhaill whose forthright bride Gráinne ran off with his underling Diarmait
-  - this recurrent plot has recalled to many commentators the motif of a goddess of the land’s Sovereignty choosing a more virile and younger ruler as an older one fades
+  - Mark a Cornish hero and cuckold king of Cornwall, uncle of Tristan and betrothed of Iseult
+  - Mark a cowardly, easily deceived, yet jealous ruler with little of the kingly about him
+  - Mark usually sited at Tintagel, and linked to Lantyan and to Landen in Brittany
+  - Mark a role paralleled by the Welsh March ap Meirchion, the Irish Marcán, and the Breton Konomor
+  - Mark a shadowy passive figure who took his wife back without complaint
 categories:
-  - person
-  - concept
-  - group
+  - Person
+  - Place
 entities:
-  - Mark(person)
-  - wife(person)
-  - Celtic heroes(group)
-  - king Arthur of Britain(person)
-  - queen Guinevere(person)
-  - Lancelot(person)
-  - Fionn Mac Cumhaill(person)
-  - Gráinne(person)
-  - Diarmait(person)
-  - plot(concept)
-  - commentators(group)
-  - motif(concept)
-  - goddess of the land’s Sovereignty(person)
-  - ruler(person)
+  - Mark(Person)
+  - Tristan(Person)
+  - Iseult(Person)
+  - Brangien(Person)
+  - March ap Meirchion(Person)
+  - Marcán(Person)
+  - Konomor(Person)
+  - Conchobar mac Nessa(Person)
+  - Deirdre(Person)
+  - Noísiu(Person)
+  - Fionn mac Cumhaill(Person)
+  - Diarmait(Person)
+  - Gráinne(Person)
+  - Arthur(Person)
+  - Guinevere(Person)
+  - Lancelot(Person)
+  - Cornwall(Place)
+  - Tintagel(Place)
+  - Fowey(Place)
+  - Brittany(Place)
 tags:
   - Mark
-  - wife
-  - Celtic heroes
-  - king Arthur of Britain
-  - queen Guinevere
-  - Lancelot
-  - Fionn Mac Cumhaill
-  - Gráinne
+  - Tristan
+  - Iseult
+  - Brangien
+  - March ap Meirchion
+  - Marcán
+  - Konomor
+  - Conchobar mac Nessa
+  - Deirdre
+  - Noísiu
+  - Fionn mac Cumhaill
   - Diarmait
-  - plot
-  - commentators
-  - motif
-  - goddess of the land’s Sovereignty
-  - ruler
+  - Gráinne
+  - Arthur
+  - Guinevere
+  - Lancelot
+  - Cornwall
+  - Tintagel
+  - Fowey
+  - Brittany
 ---
 ``` tab [group1:Info]
 ::: magazinestyle
-In the great romance of Tristan and Iseult, King Mark of Cornwall is one of the central figures involved in a love triangle with the eponymous couple. Upon receiving a single strand of dazzling gold hair, Mark determines that the woman to whom it belongs must be the most beautiful in the world and vows to marry her. This woman is revealed to be the Irish princess Iseult, and Mark sends his nephew Tristan to bring her back to his court. During their journey back, however, the pair accidentally ingests a potent magical liqueur that binds them in a love so strong that they can never be happy apart. Tristan dutifully delivers Iseult to her new husband, but she cannot bring herself to consummate the marriage and instead sends her handmaiden, Brangien, in her place. The lovers eventually leave the court for several years but return, whereupon Mark takes Iseult back without protest. In the story, Mark is a relatively small and passive character in comparison to the active lovers, who are reminiscent of other Celtic heroes whose wives left them for younger men. This recurring theme calls to mind the motif of a goddess of the land's sovereignty choosing a more virile and younger ruler as an older one fades away.
+Mark was a Cornish hero and the cuckold king of Cornwall in the international romance of Tristan and Iseult. He was an uncle of Tristan and the betrothed of Iseult. Writers paint him as cowardly, easily deceived, yet jealous. Little of the kingly shows in him. The tale usually places him at Tintagel. He is also linked to Lantyan near Fowey and to Landen in Brittany. Deep Celtic roots back him, including the Welsh March ap Meirchion, the Irish Marcán, and the Breton Konomor. Arthurian stories from Brittany know him by the name Guivarc'h. In the great romance a single strand of dazzling gold hair decides his fate. Seeing it, Mark judged its owner the world's most beautiful woman. He discovered the woman was the Irish princess Iseult, so he sent his nephew Tristan to fetch her. On the voyage the pair drank a potent liqueur that bound them to love until death. Bound thus, they could never be happy apart. Tristan dutifully delivered his beloved to the man she was to wed. When Iseult could not bear her wedding night, her handmaid Brangien took her place and played the queen. The fated couple left court for several years, then returned. Mark took his wife back without complaint. He stands as a shadowy, passive figure beside the active lovers. He parallels two Celtic rulers undone by love. Conchobar mac Nessa stands between Deirdre and Noísiu. Fionn mac Cumhaill stands between Diarmait and Gráinne. King Arthur's queen Guinevere likewise preferred the young knight Lancelot, and the aging Fionn lost Grainne to his underling Diarmait. Mark thus recurs across the Celtic world as the betrayed older king.
 
 :::
 ```
 ``` tab [group1:Attributes]
-- **Mark**: took his wife back without complaint
-- **king Arthur of Britain**: whose queen Guinevere preferred the young knight Lancelot
-- **Fionn Mac Cumhaill**: whose forthright bride Gráinne ran off with his underling Diarmait
-- **this recurrent plot**: has recalled to many commentators the motif of a goddess of the land’s Sovereignty choosing a more virile and younger ruler as an older one fades
+- **Mark**: a Cornish hero and cuckold king of Cornwall, uncle of Tristan and betrothed of Iseult
+- **Mark**: a cowardly, easily deceived, yet jealous ruler with little of the kingly about him
+- **Mark**: usually sited at Tintagel, and linked to Lantyan and to Landen in Brittany
+- **Mark**: a role paralleled by the Welsh March ap Meirchion, the Irish Marcán, and the Breton Konomor
+- **Mark**: a shadowy passive figure who took his wife back without complaint
 ```
 ``` tab [group1:Entities]
-- **Mark**: person
-- **wife**: person
-- **Celtic heroes**: group
-- **king Arthur of Britain**: person
-- **queen Guinevere**: person
-- **Lancelot**: person
-- **Fionn Mac Cumhaill**: person
-- **Gráinne**: person
-- **Diarmait**: person
-- **plot**: concept
-- **commentators**: group
-- **motif**: concept
-- **goddess of the land’s Sovereignty**: person
-- **ruler**: person
+- **Mark**: Person
+- **Tristan**: Person
+- **Iseult**: Person
+- **Brangien**: Person
+- **March ap Meirchion**: Person
+- **Marcán**: Person
+- **Konomor**: Person
+- **Conchobar mac Nessa**: Person
+- **Deirdre**: Person
+- **Noísiu**: Person
+- **Fionn mac Cumhaill**: Person
+- **Diarmait**: Person
+- **Gráinne**: Person
+- **Arthur**: Person
+- **Guinevere**: Person
+- **Lancelot**: Person
+- **Cornwall**: Place
+- **Tintagel**: Place
+- **Fowey**: Place
+- **Brittany**: Place
 ```
 ``` tab [group1:Sources]
 - Bedier, Joseph. The Romance of Tristan and Iseult. Translated by Hilaire Belloc. New York: Vintage Books, 1965.
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
+- MacKillop 2008, s.v. 'Mark'
 ```

@@ -1,0 +1,47 @@
+{
+  "name": "Mac Guill",
+  "text": "Mac Guill is a corrupt spelling of Mac Cuill. Mac Cuill is one of the three Tuatha Dé Danann brothers who killed Lug Lámfhota. The brothers shared Ireland after that deed, each god taking a name drawn from the land. Readers who meet Mac Guill in a text should follow it to Mac Cuill, husband of Banbha.",
+  "entities": [
+    {
+      "entity": "Mac Guill",
+      "type": "Person"
+    },
+    {
+      "entity": "Mac Cuill",
+      "type": "Deity"
+    },
+    {
+      "entity": "Tuatha Dé Danann",
+      "type": "Group"
+    },
+    {
+      "entity": "Lug Lámfhota; Lugh",
+      "type": "Deity"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Mac Guill",
+      "attribute": "corrupt spelling of Mac Cuill"
+    },
+    {
+      "entity": "Mac Cuill",
+      "attribute": "one of three brothers who killed Lug Lámfhota"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Mac Guill'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Documents Mac Guill as a corrupt spelling of the Tuatha Dé Danann god Mac Cuill.",
+    "key_results": [
+      "Mac Guill is a corrupt spelling of Mac Cuill",
+      "Mac Cuill is one of three brothers who killed Lug Lámfhota",
+      "The god's wife carries the name Banbha"
+    ],
+    "evidence": "MacKillop 2008, s.v. Mac Guill."
+  }
+}

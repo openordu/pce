@@ -1,0 +1,47 @@
+{
+  "name": "Knocklong",
+  "text": "Knocklong is the name of a hill in Ireland that has become a byword for the tale known as the Siege of Knocklong. The full Irish title of the story is Forbais Dromma Damgaire, and some copyists call it Forbuis Droma Daimhghaire. The tale is sometimes praised as the Táin of the south. It sets a legendary invasion of Munster by a host from Tara led by Cormac mac Airt. To lay the land bare Cormac dries up every spring, river, and lake. The king of Munster, Fiachu Muillethan, a lifelong rival of Cormac, calls on his blind magician Mug Ruith. Mug Ruith rallies the Munstermen and brings the waters back. Fiachu then overcomes Cormac at Druim Damgaire in south-eastern County Limerick, the place later known as Cnoc Luinge or Knocklong. In thanks Fiachu gives to Mug Ruith and his heirs a wide tract in the north of County Cork called Mag Féne. The old stories carry a shadow of the real wars between the southern Eóganacht and the Érainn.",
+  "entities": [
+    {
+      "entity": "Munster",
+      "type": "Region"
+    },
+    {
+      "entity": "Tara",
+      "type": "Place"
+    },
+    {
+      "entity": "Cormac mac Airt",
+      "type": "Person"
+    },
+    {
+      "entity": "County Cork",
+      "type": "Region"
+    },
+    {
+      "entity": "Érainn",
+      "type": "Group"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Knocklong",
+      "attribute": "hill and site of a legendary siege"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Knocklong'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Record Knocklong.",
+    "key_results": [
+      "Give the Irish title of the tale.",
+      "Name the invading king.",
+      "Name the blind magician who saved Munster."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Knocklong'"
+  }
+}

@@ -2,76 +2,95 @@
 layout: layouts/pce.njk
 title: Éremón
 icon: file-lines
-order: 838
+order: 0
 contributors: [ 'Christopher Godwin' ]
 attributes:
-  - the two brothers disagreed on who should rule the land
-  - Amairgin divided it in two along the low glacial hills
-  - Eiscir Riada stretch from today’s Dublin to Galway
-  - Éremón getting the north
-  - Éber Finn getting the south
-  - Éber Finn remained disgruntled
-  - Éber Finn waged unrelenting war upon Éremón
-  - Éremón forced to kill his brother
-  - Éremón king of a united Ireland
-  - Éremón established the kingship at Tara
-  - Téa wife of Éremón
+  - Milesians the last invaders of Ireland
+  - Eremon son of Mil
+  - Eremon fought the Tuatha De Danann
+  - Eremon won the land
+  - Amairgin divided the land on low hills
+  - Eiscir Riada runs from Dublin to Galway
+  - Eremon took the north
+  - Eber Finn took the south
+  - Eber Finn waged a long war
+  - Eremon killed Eber Finn
+  - Eremon king of a united Ireland
+  - Tara seat of the kingship
+  - Tea the wife of Eremon
 categories:
+  - Person
+  - group
   - person
-  - location
+  - Place
+  - place
 entities:
+  - Eremon(person)
+  - Eber Finn(person)
   - Amairgin(person)
-  - Dublin(location)
-  - Galway(location)
-  - Eiscir Riada(location)
-  - Éremón(person)
-  - Éber Finn(person)
-  - Ireland(location)
-  - Tara(location)
-  - Téa(person)
+  - Mil(person)
+  - Milesians(group)
+  - Tuatha De Danann(group)
+  - Ireland(place)
+  - Eiscir Riada(place)
+  - Tara(place)
+  - Tara(Place)
+  - Tea(Person)
+  - Georges Dumezil(Person)
 tags:
+  - Eremon
+  - Eber Finn
   - Amairgin
-  - Dublin
-  - Galway
-  - Eiscir Riada
-  - Éremón
-  - Éber Finn
+  - Mil
+  - Milesians
+  - Tuatha De Danann
   - Ireland
+  - Eiscir Riada
   - Tara
-  - Téa
+  - Tara
+  - Tea
+  - Georges Dumezil
 ---
 ``` tab [group1:Info]
 ::: magazinestyle
-An Irish hero named Éremón (also known as Heremon or Eremon) emerged as a leader of the Milesians. According to the Book of Invasions, the Milesians were the final group of invaders to arrive in Ireland. The mythical story tells how Éremón and his brother, Éber Finn, fought against the magical forces of the Tuatha Dé Danann for control of the island and won. The event is believed to be rooted in a historical memory of a final wave of Celts who came to Ireland and overtook the earlier Celtic and non-Celtic peoples who lived there. However, after the victory, the two brothers disagreed on who should rule the land. Wise poet Amairgin intervened and divided the territory in two, along the low glacial hills stretching from present-day Dublin to Galway, known as the Eiscir Riada. Éremón was given the north, while Éber Finn received the south. Despite this, Éber Finn remained dissatisfied and waged an unrelenting war against his brother until Éremón was eventually forced to kill him. Following this, Éremón became king of a united Ireland and established the kingship at Tara, which he named after his wife, Téa.
+Eremon is an Irish hero. His other names are Heremon and Eremon. The Book of Invasions calls the Milesians the last wave of settlers. They were the men of Mil. Eremon led the attack with his brother Eber Finn. The two fought the magical host of the Tuatha De Danann. They won control of the island. The myth may hold a memory of a real Celtic arrival. Those settlers took rule from the older tribes. After the win, the brothers argued about the rule. The poet Amairgin settled the land in two. He drew a line on the low glacial hills. The line runs from present-day Dublin to Galway. This strip is the Eiscir Riada. Eremon took the north. Eber Finn held the south. Eber Finn stayed angry. He opened a long war. Eremon had to end his brother's life. Eremon then ruled a united Ireland. He founded the kingship at Tara. He gave the sacred hill the name of his wife Tea.
+
+MacKill ties Éremón to the close of his rule. From the victory he raises his seat at the hill of the kingship, and he gives that place his wife's own name. In one old reading, the man who joins the island is set next to David of the Bible in a medieval gloss. A newer student of the old gods, the scholar Georges Dumézil, reads the same record with a cooler eye: the north man takes the whole land and the whole crown, so the map of power bends to his side. The old name, under many spellings, was then worn by later rulers who set their lines back to this first of the line. So the one hero opens nearly all the centuries of Irish high story.MacKill recollects the end of his rule. From the victory he raises his seat at the hill of the kingship, and he gives it a name drawn from his own wife. In one reading, the man who joins the island is set next to David of the old Bible in the pages of a medieval gloss. A newer student of the Indo gods, the scholar Georges Dumezil, reads the same record with a steeper eye: he takes the whole land and takes the whole of the crown, so his is the north doing the work of the whole. The old name, under its many spellings, was then worn by later rulers and nobles who set their lines back to the first of the line. So the one hero opens nearly all the centuries of Irish high story.
 
 :::
 ```
 ``` tab [group1:Attributes]
-- **the two brothers**: disagreed on who should rule the land
-- **Amairgin**: divided it in two along the low glacial hills
-- **Eiscir Riada**: stretch from today’s Dublin to Galway
-- **Éremón**: getting the north
-- **Éber Finn**: getting the south
-- **Éber Finn**: remained disgruntled
-- **Éber Finn**: waged unrelenting war upon Éremón
-- **Éremón**: forced to kill his brother
-- **Éremón**: king of a united Ireland
-- **Éremón**: established the kingship at Tara
-- **Téa**: wife of Éremón
+- **Milesians**: the last invaders of Ireland
+- **Eremon**: son of Mil
+- **Eremon**: fought the Tuatha De Danann
+- **Eremon**: won the land
+- **Amairgin**: divided the land on low hills
+- **Eiscir Riada**: runs from Dublin to Galway
+- **Eremon**: took the north
+- **Eber Finn**: took the south
+- **Eber Finn**: waged a long war
+- **Eremon**: killed Eber Finn
+- **Eremon**: king of a united Ireland
+- **Tara**: seat of the kingship
+- **Tea**: the wife of Eremon
 ```
 ``` tab [group1:Entities]
+- **Eremon**: person
+- **Eber Finn**: person
 - **Amairgin**: person
-- **Dublin**: location
-- **Galway**: location
-- **Eiscir Riada**: location
-- **Éremón**: person
-- **Éber Finn**: person
-- **Ireland**: location
-- **Tara**: location
-- **Téa**: person
+- **Mil**: person
+- **Milesians**: group
+- **Tuatha De Danann**: group
+- **Ireland**: place
+- **Eiscir Riada**: place
+- **Tara**: place
+- **Tara**: Place
+- **Tea**: Person
+- **Georges Dumezil**: Person
 ```
 ``` tab [group1:Sources]
 - Gwynn, Edward. The Metrical Dindshenchas. Part II, vol. IX. Royal Irish Academy, Todd Lecture Series. Dublin: Hodges, Figgis, and Co., Ltd., 1906–1924, 22.
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
+- MacKillop 2008, s.v. 'Heremon'
 ```
 ![Éremón Image](https://upload.wikimedia.org/wikipedia/commons/4/4b/Lion_of_Heremon.png)

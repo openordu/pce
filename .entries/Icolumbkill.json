@@ -1,0 +1,39 @@
+{
+  "name": "Icolumbkill",
+  "text": "Icolumbkill is the anglicized form of the Irish name Í Choluim Chille. The name means the island of Colum Cille. It is another name for the island of Iona. Iona lies south-west of the isle of Mull among Scotland's Inner Hebrides. Saint Colum Cille evangelized the island in about 563. The name Icolumbkill therefore recalls the saint who made the island famous in Gaelic tradition.",
+  "entities": [
+    {
+      "entity": "Iona",
+      "type": "Place"
+    },
+    {
+      "entity": "Colum Cille",
+      "type": "Person"
+    },
+    {
+      "entity": "Inner Hebrides",
+      "type": "Region"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Icolumbkill",
+      "attribute": "anglicized form of Í Choluim Chille"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Icolumbkill'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Record Icolumbkill.",
+    "key_results": [
+      "Give the Irish name behind the form.",
+      "Point to the island of Iona.",
+      "Recall the founding work of Colum Cille."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Icolumbkill'"
+  }
+}

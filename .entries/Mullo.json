@@ -1,48 +1,62 @@
 {
-  "name": "Mullo",
-  "entities": [
-    {
-      "entity": "Mullo",
-      "type": "Deity"
-    },
-    {
-      "entity": "Mars",
-      "type": "Deity"
-    },
-    {
-      "entity": "ram-headed snake",
-      "type": "Animal"
-    }
-  ],
-  "attributes": [
-    {
-      "entity": "Mullo",
-      "attribute": "a god of the continental Celts set beside Mars by Rome"
-    },
-    {
-      "entity": "Mullo",
-      "attribute": "a name that may mean mule or wall, a point not settled"
-    },
-    {
-      "entity": "Mullo",
-      "attribute": "a ram-headed snake in his images, a sign of healing"
-    }
-  ],
-  "sources": [
-    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-  ],
-  "cyphertext": "0_-rL62tab1hEACKXToChZxz40DnWb8QwfbvsXXh27OQFS4DLXg5TyzFmwBl87IgU2FPfVy5fL-RodRz2jwbGSQ1XHemtGFIYwliuemWkQA6tWO7AAZBvRGSBzHjxWTxxTg_-tQua6Klm1rl3r2y7-kv-8qMKYHdzx8mrv0Z5ioqr97uezrXm-jok--Ay4npAqzaso_iyMHHno-Tjk1UaQzRlalsed9WbKg-S3tntVEPpf6PqC_bU0gupVEtuIbV2QNkgSNsC0Ub_UFBj7v33D6UFVYoC6NAN02xEG8dJ-YIEqR1OCK1Oka0_hMK78cVZR_OUCBlJZt45gUSjhpFcH6KROuVxwFahItyu_7DeD7pLoQwZA2zSgqVsEmi1gS5PYQoEF55oiG_47Bzb9YvoMBWasuVdVTG28HredetpUUqNnrxBSz-BZ-ud2lpowzhXe6qt9gT39I8aSGcfstCM0MVkZLHtnyx16ouW1J4CnQBrfkHleruig-FkInUTxQxzomAq39S23-pB2QQWKyE",
-  "salt": "dYgZUIhdguFIwo0q3Z9FkQ==",
-  "text": "Mullo is a god of the continental Celts. The Romans set his name beside their war god, Mars. The word Mullo is far from clear. Some read it as mule, some as wall, and honest judges cannot agree which is right or what that root would call into the story. Some images show him with a ram-headed snake. That sign the Celtic world took as a mark of healing. Mullo, then, may be a healer whom the Roman eye saw in the cloak of a war god.",
-  "okr": {
-    "objective": "Document Mullo.",
-    "key_results": [
-      "Record the god and the Roman link to Mars.",
-      "Record the open question of the name.",
-      "Record the ram-headed snake and the healing."
-    ],
-    "evidence": [
-      "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore (2008): Mullo entry."
-    ]
+ "name": "Mullo",
+ "cyphertext": "0_-rL62tab1hEACKXToChZxz40DnWb8QwfbvsXXh27OQFS4DLXg5TyzFmwBl87IgU2FPfVy5fL-RodRz2jwbGSQ1XHemtGFIYwliuemWkQA6tWO7AAZBvRGSBzHjxWTxxTg_-tQua6Klm1rl3r2y7-kv-8qMKYHdzx8mrv0Z5ioqr97uezrXm-jok--Ay4npAqzaso_iyMHHno-Tjk1UaQzRlalsed9WbKg-S3tntVEPpf6PqC_bU0gupVEtuIbV2QNkgSNsC0Ub_UFBj7v33D6UFVYoC6NAN02xEG8dJ-YIEqR1OCK1Oka0_hMK78cVZR_OUCBlJZt45gUSjhpFcH6KROuVxwFahItyu_7DeD7pLoQwZA2zSgqVsEmi1gS5PYQoEF55oiG_47Bzb9YvoMBWasuVdVTG28HredetpUUqNnrxBSz-BZ-ud2lpowzhXe6qt9gT39I8aSGcfstCM0MVkZLHtnyx16ouW1J4CnQBrfkHleruig-FkInUTxQxzomAq39S23-pB2QQWKyE",
+ "salt": "dYgZUIhdguFIwo0q3Z9FkQ==",
+ "text": "Mullo is a god of the continental Celts. The Romans set his name beside their war god, Mars. The name derives from the Latin word for mule or horse. The Romans used Mullo as a native name for a god they worshipped across the northwestern part of Gaul. That god was never entirely separate from the Gaulish Mars. His name sometimes appears as an epithet of that war god. The name itself is far from clear. Some read it as mule, some as wall. Honest judges cannot agree which reading is right. They also argue over what such a root would call into the story. The name survives in several shrines and inscriptions from antiquity. The most notable site is a circular temple at Craôn. Stone witnesses to the cult keep the god's name alive today. Pilgrims left tokens at his altars and cut his name into the rock. Some images show the god with a ram-headed snake. That sign marked healing for the Celtic world. Despite the link to the mule and the horse, Mullo stood closer to Mars as a healer. He cared especially for diseases of the eye. So the same god who bore a beast of burden in his name watched over the sick and the blind. Sufferers of such ills likely came to his temple hoping for a cure. His power reached beyond war into the care of the body. The Romans saw a healer who wore the cloak of a war god. The two roles merged at the shrine, where a martial god promised health along with victory. His story therefore stands at the crossroads of Celtic and Roman religion. The god held a native face and a Roman name at the same time. MacKillop cites an article by P. Térouanne on dedications to Mars Mullo found at Allones in the Sarthe. That work proves the cult left lasting traces in the earth. Allones itself lies in the Sarthe country of western France. There the faithful cut many dedications to Mars Mullo into stone. That cluster of offerings shows how widely the native cult spread. The circular temple at Craon follows a round plan unlike the long Gallo-Roman fanes. So the shrine keeps a distinctly native shape. Travellers can still trace the old god's footprint across that region.",
+ "entities": [
+  {
+   "entity": "Mullo",
+   "type": "Deity"
+  },
+  {
+   "entity": "Mars",
+   "type": "Deity"
+  },
+  {
+   "entity": "ram-headed snake",
+   "type": "Animal"
+  },
+  {
+   "entity": "Gaul",
+   "type": "Place"
+  },
+  {
+   "entity": "Craôn",
+   "type": "Place"
   }
+ ],
+ "attributes": [
+  {
+   "entity": "Mullo",
+   "attribute": "a god of the continental Celts set beside Mars by Rome, his name meaning mule or horse"
+  },
+  {
+   "entity": "Mullo",
+   "attribute": "a native god worshipped in northwestern Gaul, sometimes an epithet of the Gaulish Mars"
+  },
+  {
+   "entity": "Mullo",
+   "attribute": "a ram-headed snake in his images, a sign of healing"
+  },
+  {
+   "entity": "Mullo",
+   "attribute": "a healing god especially of diseases of the eye"
+  }
+ ],
+ "sources": [
+  "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.",
+  "MacKillop 2008, s.v. 'Mullo'"
+ ],
+ "okr": {
+  "objective": "Document Mullo.",
+  "key_results": [
+   "Record the god and the Roman link to Mars.",
+   "Record the open question of the name.",
+   "Record the ram-headed snake and the healing.",
+   "Record his worship in northwestern Gaul and the circular temple at Craôn."
+  ],
+  "evidence": [
+   "MacKillop 2008, s.v. 'Mullo'"
+  ]
+ }
 }

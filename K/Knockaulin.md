@@ -2,81 +2,95 @@
 layout: layouts/pce.njk
 title: Knockaulin
 icon: file-lines
-order: 1365
+order: 0
 contributors: [ 'Christopher Godwin' ]
 attributes:
   - Knockaulin Irish mythological site
-  - Dún Ailinne originally known as
-  - Leinster eastern Province of
-  - Tara magical central province of Mide
-  - Emain Macha in Ulster
-  - Celtic earthworks on the hill
-  - Kilcullen located near
-  - Hill of Allen nearby
-  - Fionn Mac Cumhaill great hero
+  - Knockaulin royal seat of the kings of Leinster
+  - Knockaulin also known as Dun Ailinne
+  - Knockaulin site of recent Celtic earthwork excavations
+  - Knockaulin near Kilcullen in County Kildare
+  - Knockaulin often confused with the Hill of Allen
+  - Knockaulin chief royal seat of south Leinster in the old time
+  - Find File an old ruler who lived at the seat
+  - Knockaulin a royal and holy seat of the old Lein kings
+  - Knockaulin a royal and holy seat of the kings of Leinster
 categories:
-  - archaeological feature
-  - province
-  - mythological site
-  - Province
-  - seat
-  - magical central province
+  - artifact
   - hero
-  - royal seat
   - location
+  - person
+  - place
 entities:
-  - Knockaulin(mythological site)
-  - Leinster(Province)
-  - Dún Ailinne(royal seat)
-  - Tara(magical central province)
-  - Mide(province)
-  - Emain Macha(location)
-  - Celtic earthworks(archaeological feature)
+  - Knockaulin(place)
+  - Dun Ailinne(place)
+  - Leinster(location)
+  - Tara(place)
+  - Mide(location)
+  - Emain Macha(place)
   - Kilcullen(location)
-  - Hill of Allen(seat)
+  - County Kildare(location)
+  - Hill of Allen(place)
   - Fionn Mac Cumhaill(hero)
+  - earthworks(artifact)
+  - Find File(person)
+  - Dun Ailinne(place)
+  - Dun Ailinne(place)
 tags:
   - Knockaulin
+  - Dun Ailinne
   - Leinster
-  - Dún Ailinne
   - Tara
   - Mide
   - Emain Macha
-  - Celtic earthworks
   - Kilcullen
+  - County Kildare
   - Hill of Allen
   - Fionn Mac Cumhaill
+  - earthworks
+  - Find File
+  - Dun Ailinne
+  - Dun Ailinne
 ---
 ``` tab [group1:Info]
 ::: magazinestyle
-The mythological site of Knockaulin (Cnoc Ailinne, Knockawlin) was once the royal seat of the kings of the eastern Province of Leinster. It served as an equivalent to Tara in the magical central province of Mide and Emain Macha in Ulster. Originally known as Dún Ailinne, recent excavations of the Celtic earthworks on the hill have supported the local legend about its significance. The low hill is located near Kilcullen in Co. Kildare and is often confused with the nearby Hill of Allen (see Almu), which was the seat of the great hero Fionn Mac Cumhaill.
+Knockaulin is an Irish mythological place. The kings of Leinster held it as their chief seat. Their province lay in the east of the island. The first name of the fort was Dun Ailinne. Its store of power could stand with the old seat at Tara. The mount now wears great banks of earth that recent spades laid bare. The low hill rests near Kilcullen in County Kildare. Men often mistake it for the neighbor Allen hill, which keeps the hall of the hero Fionn Mac Cumhaill. MacKillop counts Dun Ailinne among the great ring forts of the island. He sets its rampart within five miles of the town of Kildare. Its bank climbs to fifteen feet at points of its height. Its broad court held about thirty-four acres of open ground. Old dug earth tells of life from the stone age through the iron age and beyond. He treats the site as one of rite, not a lasting town of common folk. The old books name a Leinster king who may have lived out his days on this rise. Some hold that this ruler left his own name upon the whole place. MacKillop reckons it the chief royal seat of the south until the seventh century. Its force reached across the south of the province for very long. The site keeps the same royal calling as Tara in the midlands and Emain of the north. Whatever royal rites it served, no strong sign of a town ever pressed on the whole bank. So this rise may not have been a true capital for daily year-round rule. 
 
 :::
 ```
 ``` tab [group1:Attributes]
 - **Knockaulin**: Irish mythological site
-- **Dún Ailinne**: originally known as
-- **Leinster**: eastern Province of
-- **Tara**: magical central province of Mide
-- **Emain Macha**: in Ulster
-- **Celtic earthworks**: on the hill
-- **Kilcullen**: located near
-- **Hill of Allen**: nearby
-- **Fionn Mac Cumhaill**: great hero
+- **Knockaulin**: royal seat of the kings of Leinster
+- **Knockaulin**: also known as Dun Ailinne
+- **Knockaulin**: site of recent Celtic earthwork excavations
+- **Knockaulin**: near Kilcullen in County Kildare
+- **Knockaulin**: often confused with the Hill of Allen
+- **Knockaulin**: chief royal seat of south Leinster in the old time
+- **Find File**: an old ruler who lived at the seat
+- **Knockaulin**: a royal and holy seat of the old Lein kings
+- **Knockaulin**: a royal and holy seat of the kings of Leinster
 ```
 ``` tab [group1:Entities]
-- **Knockaulin**: mythological site
-- **Leinster**: Province
-- **Dún Ailinne**: royal seat
-- **Tara**: magical central province
-- **Mide**: province
-- **Emain Macha**: location
-- **Celtic earthworks**: archaeological feature
+- **Knockaulin**: place
+- **Dun Ailinne**: place
+- **Leinster**: location
+- **Tara**: place
+- **Mide**: location
+- **Emain Macha**: place
 - **Kilcullen**: location
-- **Hill of Allen**: seat
+- **County Kildare**: location
+- **Hill of Allen**: place
 - **Fionn Mac Cumhaill**: hero
+- **earthworks**: artifact
+- **Find File**: person
+- **Dun Ailinne**: place
+- **Dun Ailinne**: place
 ```
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
+- MacKillop 2008, 'Knockaulin'
+- MacKillop 2008, s.v. 'Knockaulin'
+- MacKillop 2008, s.v. 'Knockaulin'
+- MacKillop 2008, s.v. 'Knockaulin'
 ```
 ![Knockaulin Image](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/D%C3%BAn_Ailine_ditch.jpg/1200px-D%C3%BAn_Ailine_ditch.jpg)

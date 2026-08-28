@@ -1,56 +1,42 @@
 {
   "name": "Murias",
-  "attributes": [
-    {
-      "entity": "Murias",
-      "attribute": "one of the four great cities of the Tuatha De Danann"
-    },
-    {
-      "entity": "Murias",
-      "attribute": "the home of the Cauldron of Abundance"
-    },
-    {
-      "entity": "Cauldron of Abundance",
-      "attribute": "a sign of plenty that never ran empty"
-    }
-  ],
+  "cyphertext": "E4jglHOqfjZYwVdphnZMdslIKbjDpmXQK2by-yNJ3C7MT3FImhD9f-70MkJSlzTQPgBJOpFijzUAUeSEGWIZivdZ_XWfQ4Q2cQd8Uz41ZdT-E0qaVeYHYxPzoncxEZD2q7PiB8Zqg8iPWtPflt4GUA8zRKO20lHgpZrOa6cxfUzfHOkAJT3svp8yKao3eYmkvgRuZlbYHAiWyX7JNLlWh16jewW7BTw0SvwIgRmbzvAhNpqYykze-1145l2vXPFZMnuRBFGPUgMGAQ==",
+  "salt": "Lkqw1AKVyLpdqdgz9NZJ6A==",
+  "text": "Murias ranks among the four great cities within the Tuatha Dé Danann. From this city came the great cauldron of the leading god of that people. The four cities each held a treasure that the folk carried with them when they moved to Ireland. Murias gave them the cauldron, and that vessel proved a mark of plenty. The treasure of the city never ran dry, and food for all who came sat ready within it. Together the folk of the four cities brought their wonders across the water. The cauldron linked to Murias ranked among the noblest objects in the old store. In the telling of the invasions, the arrivals carried these prizes from each of their earlier homes. So the city of Murias takes its place beside the other three as the fount of a single great gift. The folk of the Tuatha Dé Danann held the vessel in high regard, for the one who owned it never saw an empty table. The heart of the story lies in that promise of bounty. Murias becomes the city of the giving vessel. That single image keeps the place remembered in the later tales. It ties the city of the treasure to the wider people of the goddess and to their proud entry into the island. The cauldron from Murias fed warriors and kings alike. Its fame spread through the whole cycle of the old conquest, and it helped the arrivals to live and to triumph. So Murias earned its name as the treasure house of the north among the four cities of legend. Each of the four cities guarded a wonder that the people prized. From Falias came the stone that cried out beneath the rightful king. Gorias held the spear carried by the champion Lug. Finias gave them the blade of the war lord Nuada. Murias rounded out the set with the cauldron of the great father. Those four gifts together armed the travellers for their crossing. The cauldron itself carried the name the Undry, for it never ran empty. Food poured from it for guests without measure. That vessel made Murias a byword for plenty. In the telling the treasures came across the sea into Ireland. Each one took a place in the later tales of the people. So Murias stands among the storied city realms where the old gifts began.",
   "entities": [
     {
       "entity": "Murias",
       "type": "Place"
     },
     {
-      "entity": "Tuatha De Danann",
+      "entity": "Tuatha Dé Danann",
       "type": "Group"
-    },
-    {
-      "entity": "Cauldron of Abundance",
-      "type": "Artifact"
     },
     {
       "entity": "Ireland",
       "type": "Place"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Murias",
+      "attribute": "one of the four great cities of the Tuatha Dé Danann"
     },
     {
-      "entity": "Danu",
-      "type": "Deity"
+      "entity": "Murias",
+      "attribute": "home of the great cauldron that never ran dry"
     }
   ],
   "sources": [
-    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.",
+    "MacKillop 2008, s.v. 'Murias'"
   ],
-  "cyphertext": "E4jglHOqfjZYwVdphnZMdslIKbjDpmXQK2by-yNJ3C7MT3FImhD9f-70MkJSlzTQPgBJOpFijzUAUeSEGWIZivdZ_XWfQ4Q2cQd8Uz41ZdT-E0qaVeYHYxPzoncxEZD2q7PiB8Zqg8iPWtPflt4GUA8zRKO20lHgpZrOa6cxfUzfHOkAJT3svp8yKao3eYmkvgRuZlbYHAiWyX7JNLlWh16jewW7BTw0SvwIgRmbzvAhNpqYykze-1145l2vXPFZMnuRBFGPUgMGAQ==",
-  "salt": "Lkqw1AKVyLpdqdgz9NZJ6A==",
-  "text": "Murias is a mythological city in Irish tale. It was one of the four great cities of the magical Tuatha De Danann. From Murias came the Cauldron of Abundance. The cauldron traveled to Ireland with the folk of the goddess Danu. It stood as a sign of plenty. In the tales it never ran empty. Food for all who came sat ready within it. Across the Celtic lands the cauldron was a sign of wealth and power. Its use was kept for those of high rank and for festive days. Celtic coinage often showed such a vessel. Murias, then, was one city among the four, each the home of a great treasure.",
   "okr": {
-    "objective": "Document Murias.",
+    "objective": "Record Murias as one of the four great cities of the Tuatha Dé Danann",
     "key_results": [
-      "Record the city of the Tuatha De Danann.",
-      "Record the Cauldron of Abundance from Murias.",
-      "Record the cauldron as a sign of plenty and power."
+      "Murias was one of the four cities",
+      "the great cauldron came from it"
     ],
-    "evidence": [
-      "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore (2008): Murias entry; Koch (2006): cauldrons."
-    ]
+    "evidence": "MacKillop 2008, s.v. 'Murias'"
   }
 }

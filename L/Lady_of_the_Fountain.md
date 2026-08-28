@@ -2,48 +2,72 @@
 layout: layouts/pce.njk
 title: Lady of the Fountain
 icon: file-lines
-order: 1385
+order: 0
 contributors: [ 'Christopher Godwin' ]
 attributes:
-  - Owein Knight of the Lion
-  - Laudine Lady
-  - Laudine's land affected by storms
+  - Lady of the Fountain widow of the Black Knight and bride of Owain
+  - Barenton pool whose waters could stir great storms
+  - Luned daughter of the lady and helper of Owain
+  - Owain hero of the romance who saved Laudine's land and kept her promise
+  - Lady of the Fountain title links the tale to the Three Welsh Romances
 categories:
-  - Location
-  - Animal
+  - Artifact
+  - Work
   - Person
+  - Place
 entities:
-  - Owein(Person)
-  - forest(Location)
-  - lion(Animal)
-  - Luned(Person)
+  - Lady of the Fountain(Person)
   - Laudine(Person)
+  - Owain(Person)
+  - Luned(Person)
+  - Barenton(Place)
+  - Broceliande(Place)
+  - Black Knight(Person)
+  - Cynon(Person)
+  - Mabinogion(Work)
+  - White Book of Rhydderch(Artifact)
+  - Red Book of Hergest(Artifact)
 tags:
-  - Owein
-  - forest
-  - lion
-  - Luned
+  - Lady of the Fountain
   - Laudine
+  - Owain
+  - Luned
+  - Barenton
+  - Broceliande
+  - Black Knight
+  - Cynon
+  - Mabinogion
+  - White Book of Rhydderch
+  - Red Book of Hergest
 ---
 ``` tab [group1:Info]
 ::: magazinestyle
-Arthurian legend records the memorable Lady of the Fountain, Laudine - a woman surrounded by mystery. The idea that she could have descended from an ancient Celtic goddess of springs is not so far-fetched as she had control over the magnificent Barenton pool that sat in the middle of the enchanted forest of Brocéliande in Brittany. The waters of Barenton could whip up ferocious storms, a fact well-known to Laudine's spouse, the Black Knight Esclados le Roux, who fiercely guarded it. Cymon, a knight from King Arthur's court attempted to defeat the guardian but failed and was forced to flee. Back at Camelot, Cymon related his story, inspiring the young knight Owein to take on the Black Knight in single combat. Thanks to the secret way to slay the Knight given to Owein by the maiden named Luned, who aided him, the adversary was defeated. Once that hurdle was cleared, Luned's further aid helped Owein capture the heart and hand of Laudine, a brave knight who won over her willingness to be won. Owein and Laudine lived together contentedly and happily for a year, but then King Arthur and his knights came along. Laudine entertained the visitors in grand style, only to be heartbroken when her husband begged to join them on their adventures. She accepted his request but was cruelly abandoned in the height of a new year. Owein had become so consumed by war and adventure that he forgot all about the Lady of the Fountain, and when Luned appeared in front of the king's company, Owein was disgraced by her exposure of his wrongs. Like a wild animal, he lost his mind and wandered through the forest. During his wandering, he met a lion and later Luned. Acting upon Luned’s advice, Owein approached Laudine’s fountain in the cover of darkness and began to spread its water on the steps surrounding it. This caused great storms to devastate Laudine’s land. The maid informed her mistress about the Knight of the Lion, who was actually Owein in disguise, and who could save her if she helped him reconcile with his lover. Desperate to rescue her land, Laudine accepted the terms, and when Owein was revealed as the knight who had saved her, she held up her end of the bargain, which he had not.
+The Lady of the Fountain was a figure of Arthurian legend whose name belongs to the Welsh romance usually told for the hero Owain. She is also called Laudine in some retellings. The tale is one of the Three Welsh Romances, set beside Geraint ac Enid and Peredur. Manuscripts survive in the White Book of Rhydderch and the Red Book of Hergest, and Lady Charlotte Guest placed it among the Mabinogion. She may descend from an ancient Celtic goddess of springs, for she ruled the pool of Barenton in the forest of Broceliande. The waters there could stir great storms, so her husband, the Black Knight, guarded them closely. Informed knights spoke of that Knight of the Fountain, and the knight Cynon tried to slay him and was driven away. His story moved the young Owain to seek the place. Owain slew the Black Knight with the aid of the maiden Luned, who gave him a ring and a stone of invisibility. Luned was in fact the lady's own daughter, so she bent the rules of kin to guide the young hero. Owain then wed the widow, ruled the land for three years, and later lost the way through his own neglect until his wife came to court and took back her ring. He went mad and roamed the forest in a wild state, then later saved her land from storms and won back her trust. The narrative threads that bound them thus swing back into place.
 
 :::
 ```
 ``` tab [group1:Attributes]
-- **Owein**: Knight of the Lion
-- **Laudine**: Lady
-- **Laudine's land**: affected by storms
+- **Lady of the Fountain**: widow of the Black Knight and bride of Owain
+- **Barenton**: pool whose waters could stir great storms
+- **Luned**: daughter of the lady and helper of Owain
+- **Owain**: hero of the romance who saved Laudine's land and kept her promise
+- **Lady of the Fountain**: title links the tale to the Three Welsh Romances
 ```
 ``` tab [group1:Entities]
-- **Owein**: Person
-- **forest**: Location
-- **lion**: Animal
-- **Luned**: Person
+- **Lady of the Fountain**: Person
 - **Laudine**: Person
+- **Owain**: Person
+- **Luned**: Person
+- **Barenton**: Place
+- **Broceliande**: Place
+- **Black Knight**: Person
+- **Cynon**: Person
+- **Mabinogion**: Work
+- **White Book of Rhydderch**: Artifact
+- **Red Book of Hergest**: Artifact
 ```
 ``` tab [group1:Sources]
 - Markale, Jean. Courtly Love: The Path of Sexual Initiation. Rochester, Vt.: Inner Traditions, 2000, 112.
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
+- MacKillop 2008, s.v. 'Owain / Lady of the Fountain'
 ```

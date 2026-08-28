@@ -1,0 +1,39 @@
+{
+  "name": "Kadwr",
+  "text": "Kadwr is a spelling of the name Cador. Cador is a ruler shown around King Arthur in the Welsh and Arthurian tale. The spelling with K changes the hard c of the Irish and Welsh ways of writing. Kadwr therefore keeps one form of an Arthurian name.",
+  "entities": [
+    {
+      "entity": "Cador",
+      "type": "Person"
+    },
+    {
+      "entity": "Arthur",
+      "type": "Person"
+    },
+    {
+      "entity": "Wales",
+      "type": "Region"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Kadwr",
+      "attribute": "one spelling of Cador"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Kadwr'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Record Kadwr.",
+    "key_results": [
+      "Give the common form of the name.",
+      "Set the name in the Arthurian tale.",
+      "Note the form with K."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Kadwr'"
+  }
+}

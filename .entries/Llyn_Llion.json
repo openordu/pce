@@ -1,0 +1,39 @@
+{
+  "name": "Llyn Llion",
+  "text": "Llyn Llion is the Lake of the Waves, a magical body of water in early Welsh tradition. The overflow of this lake brought the great flood from which only Dwyfan and Dwyfach survived, in a ship built by Nefyd Nav Neifion. The lake was also home to the water-monster Afanc, and it may answer to the real Efala Lake in Wales.",
+  "entities": [
+    {
+      "entity": "Dwyfan",
+      "type": "Person"
+    },
+    {
+      "entity": "Dwyfach",
+      "type": "Person"
+    },
+    {
+      "entity": "Afanc",
+      "type": "Creature"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Llyn Llion",
+      "attribute": "lake whose overflow brought the great flood"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Llyn Llion'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Record Llyn Llion.",
+    "key_results": [
+      "State what its overflow caused.",
+      "Name the two survivors.",
+      "Name the water-monster of the lake."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Llyn Llion'"
+  }
+}

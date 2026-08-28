@@ -2,70 +2,66 @@
 layout: layouts/pce.njk
 title: Emain Ablach
 icon: file-lines
-order: 813
+order: 0
 contributors: [ 'Christopher Godwin' ]
 attributes:
-  - Emain Albach location off the coast
-  - Otherworld depicted as seagirt green Islands
-  - Cruithín na Cuan capital
-  - Manannán Mac Lir king
-  - Isle of Man named after Manannán Mac Lir
-  - Avalon may have originated from Emain Albach
-  - Arthurian Otherworld associated with Avalon
+  - Emain Ablach an Irish Otherworld isle of apples where no one ages, true home of Manannán mac Lir
+  - Isle of Apples a place where time turns slow and fruit grows all year
+  - Bran mac Febail the hero who sailed to the magical island and spent years there in joy
+  - Avalon equated by later writers with the apple isle Emain Ablach
 categories:
-  - Location
+  - Deity
+  - Place
   - Person
   - Concept
 entities:
-  - Emain Albach(Location)
-  - Scotland(Location)
-  - Ireland(Location)
+  - Emain Ablach(Place)
+  - Isle of Apples(Place)
+  - Bran mac Febail(Person)
+  - Manannán mac Lir(Deity)
+  - Avalon(Place)
+  - Argante(Person)
+  - Layamon(Person)
+  - Cruithin na Cuan(Place)
+  - Ynys Afallach(Place)
   - Otherworld(Concept)
-  - Islands(Location)
-  - Cruithín na Cuan(Location)
-  - Manannán Mac Lir(Person)
-  - Isle of Man(Location)
-  - Avalon(Location)
-  - Arthurian Otherworld(Concept)
 tags:
-  - Emain Albach
-  - Scotland
-  - Ireland
-  - Otherworld
-  - Islands
-  - Cruithín na Cuan
-  - Manannán Mac Lir
-  - Isle of Man
+  - Emain Ablach
+  - Isle of Apples
+  - Bran mac Febail
+  - Manannán mac Lir
   - Avalon
-  - Arthurian Otherworld
+  - Argante
+  - Layamon
+  - Cruithin na Cuan
+  - Ynys Afallach
+  - Otherworld
 ---
 ``` tab [group1:Info]
 ::: magazinestyle
-Emain Ablach, also known as Eamhain or Emhain and Abhlach, is a site of Irish mythology. One of the most remarkable Celtic beliefs about the Otherworld was related to Emain Albach, or the Isle of Apples, a wonderful place where summer never ends, and the handsome inhabitants spend their days dancing under the sun. Bran mac Febail was drawn to Emain Albach by a dream-woman who gave him a silver branch that reminded him of how lovely she was. He eventually arrived at the place where he found the woman and spent countless years with her, but he missed his homeland, so he had to leave. Niamh of the Golden Hair, Bran's lover, reluctantly allowed him to leave, along with the other visitors. One of the sailors was so moved when they reached the shores of Ireland that he jumped off the ship. However, time in the Otherworld passes more slowly than on earth, so he aged and turned to dust within an instant due to the earth's time. Bran, who was unable to make a choice between death and exile, left again, and he is presumed to continue sailing between our world and the Otherworld. Emain Albach was believed to be somewhere off the coast of Scotland or Ireland, like many seagirt green Islands from which one could enter the Otherworld. Its capital was Cruithín na Cuan, and its king was Manannán Mac Lir, the Irish god of the sea, after whom the Isle of Man was named. At times, that real island was also referred to as Emain Albach. No introduction or personal reference is provided in the text. It suggests that Avalon, the Arthurian Otherworld, could be derived from a name.
+Emain Ablach, the Isle of Apples, is a wondrous island of the Otherworld in Irish tradition. Its name means fortress of apples in Irish. The sea god Manannán mac Lir makes his true home there, and he and his companions often dwell upon it or voyage from it to Cruithin na Cuan. On Emain Ablach the apple trees bear fruit all the year round, and no one who lands there grows old. The hero Bran mac Febail sailed westward to find the island, drawn by a vision and by a woman who bade his crew follow her. On its shore Bran spent years in seeming joy, yet time upon the isle moves far more slowly than in the mortal world. A sailor who leapt from the boat to Ireland aged to dust the instant his foot touched the land. Writers of later centuries equate the island with Avalon of the Arthurian cycle. In the romance of Layamon, the twelfth-century poet, Argante rules as queen of Avalon. The Latin phrase Insula Avallonis means isle of apples, and the Welsh name Ynys Afallach carries the same sense. The name Isle of Women is a variant translation of Emain Ablach. Some sources also connect the island to the folk of fairy and to the departed. The isle stands across the western sea, beyond the reach of ordinary ships, and in the tales it serves as a place of renewal, feasting, and rest for heroes who journey to the Otherworld. Its image passed from Irish poetry into the stock of Western legend, where the apple isle came to mean any blessed land of the dead or of the gods.
 
 :::
 ```
 ``` tab [group1:Attributes]
-- **Emain Albach**: location off the coast
-- **Otherworld**: depicted as seagirt green Islands
-- **Cruithín na Cuan**: capital
-- **Manannán Mac Lir**: king
-- **Isle of Man**: named after Manannán Mac Lir
-- **Avalon**: may have originated from Emain Albach
-- **Arthurian Otherworld**: associated with Avalon
+- **Emain Ablach**: an Irish Otherworld isle of apples where no one ages, true home of Manannán mac Lir
+- **Isle of Apples**: a place where time turns slow and fruit grows all year
+- **Bran mac Febail**: the hero who sailed to the magical island and spent years there in joy
+- **Avalon**: equated by later writers with the apple isle Emain Ablach
 ```
 ``` tab [group1:Entities]
-- **Emain Albach**: Location
-- **Scotland**: Location
-- **Ireland**: Location
+- **Emain Ablach**: Place
+- **Isle of Apples**: Place
+- **Bran mac Febail**: Person
+- **Manannán mac Lir**: Deity
+- **Avalon**: Place
+- **Argante**: Person
+- **Layamon**: Person
+- **Cruithin na Cuan**: Place
+- **Ynys Afallach**: Place
 - **Otherworld**: Concept
-- **Islands**: Location
-- **Cruithín na Cuan**: Location
-- **Manannán Mac Lir**: Person
-- **Isle of Man**: Location
-- **Avalon**: Location
-- **Arthurian Otherworld**: Concept
 ```
 ``` tab [group1:Sources]
+- MacKillop 2008, s.v. 'Emain Ablach'.
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```

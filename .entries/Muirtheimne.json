@@ -1,0 +1,59 @@
+{
+ "name": "Muirtheimne",
+ "text": "Muirtheimne is the dictionary's routing entry for Mag Muirtheimne, the plain district of Co. Louth that reaches north from the Boyne toward Cuailnge. Oral and literary tradition fix it as Cúchulainn's homeland. His death story also carries the name: Brislech Mór Maige Muirtheimne, the Great Rout of Muirtheimne, tells how the hero breaks his geis on dog meat offered by three crones, falls to Lugaid mac Con Roi's javelin, and is beheaded at a pillar-stone near Faughart in Co. Louth, where he has bound himself so as to die standing.",
+ "entities": [
+  {
+   "entity": "Muirtheimne",
+   "type": "Place"
+  },
+  {
+   "entity": "Mag Muirtheimne",
+   "type": "Place"
+  },
+  {
+   "entity": "Cúchulainn",
+   "type": "Person"
+  },
+  {
+   "entity": "Lugaid mac Con Roi",
+   "type": "Person"
+  },
+  {
+   "entity": "Boyne",
+   "type": "Place"
+  },
+  {
+   "entity": "Louth",
+   "type": "Place"
+  }
+ ],
+ "attributes": [
+  {
+   "entity": "Muirtheimne",
+   "attribute": "routing entry for Mag Muirtheimne in MacKillop 2008"
+  },
+  {
+   "entity": "Muirtheimne",
+   "attribute": "name of the Co. Louth plain fixed as Cúchulainn's homeland"
+  },
+  {
+   "entity": "Muirtheimne",
+   "attribute": "name borne by the death-tale Brislech Mór Maige Muirtheimne"
+  }
+ ],
+ "sources": [
+  "MacKillop 2008, s.v. 'Muirtheimne'"
+ ],
+ "image": [],
+ "cyphertext": "",
+ "salt": "",
+ "okr": {
+  "objective": "Documents Muirtheimne as recorded in MacKillop 2008 for the Public Celtic Encyclopedia.",
+  "key_results": [
+   "Muirtheimne routes to Mag Muirtheimne, the Louth plain north of the Boyne.",
+   "Tradition makes the plain Cúchulainn's homeland.",
+   "The Great Rout of Muirtheimne is the tale of Cúchulainn's death at Faughart."
+  ],
+  "evidence": "MacKillop 2008, s.v. Muirtheimne."
+ }
+}

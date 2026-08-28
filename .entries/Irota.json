@@ -1,0 +1,21 @@
+{
+  "name": "Irota",
+  "text": "Irota is an old Irish name for a land of the north. In Irish sources the title belongs to the northern mainland and its coast. It is one of the old words of Ireland for the far northern shore. It also carries a second form in the old tongue.",
+  "entities": [
+    {"entity": "Irota", "type": "Place"},
+    {"entity": "Norway", "type": "Place"},
+    {"entity": "Ireland", "type": "Place"}
+  ],
+  "attributes": [
+    {"entity": "Irota", "attribute": "old Irish name for a northern land"}
+  ],
+  "sources": ["MacKillop 2008, s.v. 'Irota'"],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Record Irota.",
+    "key_results": ["Give the land of the title.", "Set the word in the old tongue.", "Join it with the northern sea."],
+    "evidence": "MacKillop 2008, s.v. 'Irota'"
+  }
+}

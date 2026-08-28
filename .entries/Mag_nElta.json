@@ -1,0 +1,51 @@
+{
+  "name": "Mag nElta",
+  "text": "Mag nElta, later Moynalty, is the old plain of the bird flock. Its older form Senmag nEltair means the old plain of Elta. The name covered the ground between Tallaght, Clontarf, and Howth in County Dublin, an area that today's city has largely swallowed. The Partholonians of the Lebor Gabala, the Book of Invasions, settled this ground in the earliest legendary occupation of Ireland.",
+  "entities": [
+    {
+      "entity": "Mag nElta",
+      "type": "Place"
+    },
+    {
+      "entity": "Partholonians",
+      "type": "Group"
+    },
+    {
+      "entity": "Lebor Gabala",
+      "type": "Text"
+    },
+    {
+      "entity": "Dublin",
+      "type": "Place"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Mag nElta",
+      "attribute": "means the plain of the bird flock"
+    },
+    {
+      "entity": "Mag nElta",
+      "attribute": "covered the ground between Tallaght, Clontarf, and Howth"
+    },
+    {
+      "entity": "Partholonians",
+      "attribute": "settled on Mag nElta in the Lebor Gabala account"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Mag nElta'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Documents Mag nElta as the old Dublin plain of Partholonian settlement.",
+    "key_results": [
+      "Means the plain of the bird flock; older form Senmag nEltair",
+      "Lay between Tallaght, Clontarf, and Howth",
+      "Partholonian settlement ground in the Book of Invasions"
+    ],
+    "evidence": "MacKillop 2008, s.v. Mag nElta."
+  }
+}

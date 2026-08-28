@@ -2,45 +2,67 @@
 layout: layouts/pce.njk
 title: Nisien
 icon: file-lines
-order: 1735
+order: 2036
 contributors: [ 'Christopher Godwin' ]
 attributes:
-  - Nisien plays a relatively small part in the story
-  - Nisien may be simply a positive foil for his evil brother
-  - evil brother Nisien may be simply a positive foil for him
-  - Welsh tales recorded as the Mabinogion
+  - Nisien a Welsh hero or god
+  - Nisien gentle half brother of Brân the Blessed
+  - Nisien wished only the best for everyone
+  - Efnisien evil brother who caused the great war
+  - Efnisien led to Brân's death in Ireland
+  - Nisien tried to intervene but failed
+  - Nisien plays a small part in the Mabinogion
+  - Nisien his Welsh name carries the sense of peace
+  - Nisien a kind brother set against Efnisien's malice
+  - Ireland where Brân died in the great war
 categories:
-  - literary work
+  - artifact
+  - hero
+  - god
+  - Place
   - character
 entities:
-  - Nisien(character)
-  - Welsh tales(literary work)
-  - Mabinogion(literary work)
-  - evil brother(character)
+  - Nisien(hero)
+  - Brân the Blessed(god)
+  - Efnisien(character)
+  - Mabinogion(artifact)
+  - Wales(Place)
+  - Ireland(Place)
 tags:
   - Nisien
-  - Welsh tales
+  - Brân the Blessed
+  - Efnisien
   - Mabinogion
-  - evil brother
+  - Wales
+  - Ireland
 ---
 ``` tab [group1:Info]
 ::: magazinestyle
-A hero or god in Welsh mythology is Nisien (Nissien, Nisyen). Brân The Blessed, a Welsh god, had two half-brothers with opposite temperaments. One of them was the gentle Nisien, who only wished good for everyone, while his brother Efnisien caused nothing but trouble. Efnisien was responsible for the great war that resulted in Brân's death in Ireland. He did so through a thoughtless act of cruelty that caused the king of that land to be set against Wales permanently. Nisien attempted to mediate the situation by seeking a diplomatic resolution and apologizing for his brother's behavior, but with no success. In the Welsh tales of the Mabinogion, Nisien plays a minor role and serves as a positive contrast to his wicked brother.
+Nisien is a Welsh hero or god. His Welsh name carries the sense of peace. He was the gentle half brother of Brân the Blessed and wished only the best for everyone. His brother Efnisien stood as his opposite and made mischief of every kind. Efnisien started the great war that ended with Brân's death in Ireland. His cruelty turned the king of that land against Wales for good. Nisien worked to mend the trouble and offered words of apology for his brother. The effort came to nothing. The Mabinogion gives him this small part in the Welsh tales it records. There he serves as the good foil for his malevolent brother. Both records agree on his core trait: a kind brother set against Efnisien's malice.
 
 :::
 ```
 ``` tab [group1:Attributes]
-- **Nisien**: plays a relatively small part in the story
-- **Nisien**: may be simply a positive foil for his evil brother
-- **evil brother**: Nisien may be simply a positive foil for him
-- **Welsh tales**: recorded as the Mabinogion
+- **Nisien**: a Welsh hero or god
+- **Nisien**: gentle half brother of Brân the Blessed
+- **Nisien**: wished only the best for everyone
+- **Efnisien**: evil brother who caused the great war
+- **Efnisien**: led to Brân's death in Ireland
+- **Nisien**: tried to intervene but failed
+- **Nisien**: plays a small part in the Mabinogion
+- **Nisien**: his Welsh name carries the sense of peace
+- **Nisien**: a kind brother set against Efnisien's malice
+- **Ireland**: where Brân died in the great war
 ```
 ``` tab [group1:Entities]
-- **Nisien**: character
-- **Welsh tales**: literary work
-- **Mabinogion**: literary work
-- **evil brother**: character
+- **Nisien**: hero
+- **Brân the Blessed**: god
+- **Efnisien**: character
+- **Mabinogion**: artifact
+- **Wales**: Place
+- **Ireland**: Place
 ```
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
+- MacKillop 2008, s.v. 'Nisien'
 ```

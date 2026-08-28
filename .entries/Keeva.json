@@ -1,0 +1,39 @@
+{
+  "name": "Keeva",
+  "text": "Keeva is an English form of the Irish name Cainche. In the ballads of the Fianna she is a daughter of Fionn mac Cumhaill. She was with the foe Goll mac Morna to make a child. The slaying of the child is told as the end of the band. Her title is Keeva of the White Skin. Keeva names the daughter of Fionn.",
+  "entities": [
+    {
+      "entity": "Cainche",
+      "type": "Person"
+    },
+    {
+      "entity": "Fionn",
+      "type": "Person"
+    },
+    {
+      "entity": "Goll",
+      "type": "Person"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Keeva",
+      "attribute": "English form of the name Cainche"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Keeva'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Record Keeva.",
+    "key_results": [
+      "Give the Irish form of the name.",
+      "Set the figure as a daughter of Fionn.",
+      "Say the title."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Keeva'"
+  }
+}

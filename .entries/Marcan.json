@@ -1,0 +1,60 @@
+{
+  "name": "Marcán",
+  "text": "Marcán [Ir. marc, a steed] names several men of early Ireland. The best known is the cuckold king of the Uí Maine, whose wife Créd (2) carried on an affair with Cano mac Gartnáin. Many commentators hold that this king fed into how the Arthurian King Mark of Cornwall was drawn. A second bearer, Marcán mac Cennetig, was a brother of Brian Bórama, and the source says to keep the two apart.",
+  "entities": [
+    {
+      "entity": "Marcán",
+      "type": "Person"
+    },
+    {
+      "entity": "Uí Maine",
+      "type": "Group"
+    },
+    {
+      "entity": "Créd",
+      "type": "Person"
+    },
+    {
+      "entity": "Cano mac Gartnáin",
+      "type": "Person"
+    },
+    {
+      "entity": "Mark",
+      "type": "Person"
+    },
+    {
+      "entity": "Brian Bórama",
+      "type": "Person"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Marcán",
+      "attribute": "Ir. marc, a steed; name borne by several early-Irish men"
+    },
+    {
+      "entity": "Marcán",
+      "attribute": "king of the Uí Maine; husband of Créd (2)"
+    },
+    {
+      "entity": "Marcán",
+      "attribute": "in the reading of many commentators, a model for Arthurian King Mark"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Marcán'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Documents Marcán as recorded in MacKillop 2008 for the Public Celtic Encyclopedia.",
+    "key_results": [
+      "Marcán carries an Irish name built on marc, a steed.",
+      "His wife Créd (2) had an affair with Cano mac Gartnáin.",
+      "Commentators connect him with the making of King Mark of Cornwall.",
+      "Marcán mac Cennetig, brother of Brian Bórama, is a separate man."
+    ],
+    "evidence": "MacKillop 2008, s.v. Marcán."
+  }
+}

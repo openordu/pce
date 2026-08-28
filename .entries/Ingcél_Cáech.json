@@ -1,0 +1,21 @@
+{
+  "name": "Ingcél Cáech",
+  "text": "Ingcél Cáech is a ferocious pirate of early Irish story. He is often called a one-eyed figure, from the Old Irish word for blind in one eye. In the account of the destruction of the hostel he sits on the side that sacks the hall. With the sons of the great king he helps to ruin the place of Conaire. The story is told in the text of the destruction of the hostel.",
+  "entities": [
+    {"entity": "Ingcél Cáech", "type": "Person"},
+    {"entity": "Conaire", "type": "Person"},
+    {"entity": "Ireland", "type": "Place"}
+  ],
+  "attributes": [
+    {"entity": "Ingcél Cáech", "attribute": "one-eyed pirate of early Irish story"}
+  ],
+  "sources": ["MacKillop 2008, s.v. 'Ingcél Cáech'"],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Record Ingcél Cáech.",
+    "key_results": ["Describe the one-eyed pirate.", "Set him in the fall of the hostel.", "Name his part with the king's host."],
+    "evidence": "MacKillop 2008, s.v. 'Ingcél Cáech'"
+  }
+}

@@ -2,46 +2,60 @@
 layout: layouts/pce.njk
 title: Lough Neagh
 icon: file-lines
-order: 1475
+order: 3533
 contributors: [ 'Christopher Godwin' ]
 attributes:
-  - magical city appears on clear days beneath the lake's waves
-  - Finn Mccool formed the lake when he scooped up a handful of dirt and threw it after an escaping Giant
-  - lake being the hollow left by Finn's hand
-  - Isle of Man the clod of dirt he threw
+  - Lough Neagh large lake in the northern province of Ulster
+  - Lough Neagh began as a well whose overflowing waters formed the lake
+  - Li Ban drowned and became a mermaid at Lough Neagh
 categories:
-  - person
-  - location
+  - Person
+  - Place
 entities:
-  - magical city(location)
-  - Finn Mccool(person)
-  - lake(location)
-  - Isle of Man(location)
+  - Lough Neagh(Place)
+  - Li Ban(Person)
+  - Ulster(Place)
+  - Angus Og(Person)
+  - Lough Ree(Place)
+  - Fionn mac Cumhaill(Person)
+  - Isle of Man(Place)
+  - Dal nAraide(Place)
+  - Eocha(Person)
 tags:
-  - magical city
-  - Finn Mccool
-  - lake
+  - Lough Neagh
+  - Li Ban
+  - Ulster
+  - Angus Og
+  - Lough Ree
+  - Fionn mac Cumhaill
   - Isle of Man
+  - Dal nAraide
+  - Eocha
 ---
 ``` tab [group1:Info]
 ::: magazinestyle
-A mythical site in Ireland is Lough Neagh, a large lake in the northern Ulster province, which was essentially a well. After the lid was left off carelessly, the waters exploded and the lake took shape. During this transformation, Lí Ban's family drowned, and the girl was left alone with her pet dog beneath the waves. Lí Ban prayed to be turned into a fish after observing the sea creatures around her; she was turned into a Mermaid with a Salmon's tail instantly, and her little dog turned into an Otter. According to other tales from the region, a magical city emerges beneath the lake's waters during clear days. Additionally, legends claim that the folkloric Finn Mccool created the lake by scooping up some soil and hurling it at a running Giant, with the lake being the concave area created by Finn's hand and the Isle of Man being the clod of soil he threw.
+Lough Neagh is the largest lake in Ireland, lying in the northern province of Ulster. One old story tells how the lake began from a single spring. Eocha, sometimes called Ecca, loved his stepmother Eabha, who had been fostered by Angus Og. With Eocha's brother Rib, the two lovers hoped to found a new kingdom on a northern plain. A stranger killed their horses. Angus Og gave them a fine new horse but warned them not to let it rest and urinate. Once the party reached Ulster it let the horse stop, and a spring rose from the spot. Eocha built a house beside the spring. One day a woman left the cover off, the waters overflowed, and the flood drowned Eocha and most of his family. That flood made the lake. The tale mirrors one told about Lough Ree. Other versions say the overflow drowned the family of the maiden Li Ban, who survived alone beneath the waves with her small lapdog. Watching the fish play, Li Ban prayed to become one of them. She turned into a mermaid with a salmon's tail, and her dog became an otter. During the early Christian era the small realm of Dal nAraide lay beside the lake. A later and widely told story gives Fionn mac Cumhaill the credit for the lake. He scooped a lump of ground to hurl at a giant as it ran. The lump that left his hand fell to form the Isle of Man. Macpherson's Ossian (1760) names the lake Lake of the Roes. Writers also tell of a magical city, one of Ireland's submerged cities, that appears beneath the clear waters.
 
 :::
 ```
 ``` tab [group1:Attributes]
-- **magical city**: appears on clear days beneath the lake's waves
-- **Finn Mccool**: formed the lake when he scooped up a handful of dirt and threw it after an escaping Giant
-- **lake**: being the hollow left by Finn's hand
-- **Isle of Man**: the clod of dirt he threw
+- **Lough Neagh**: large lake in the northern province of Ulster
+- **Lough Neagh**: began as a well whose overflowing waters formed the lake
+- **Li Ban**: drowned and became a mermaid at Lough Neagh
 ```
 ``` tab [group1:Entities]
-- **magical city**: location
-- **Finn Mccool**: person
-- **lake**: location
-- **Isle of Man**: location
+- **Lough Neagh**: Place
+- **Li Ban**: Person
+- **Ulster**: Place
+- **Angus Og**: Person
+- **Lough Ree**: Place
+- **Fionn mac Cumhaill**: Person
+- **Isle of Man**: Place
+- **Dal nAraide**: Place
+- **Eocha**: Person
 ```
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
+- MacKillop 2008, s.v. 'Lough Neagh'
 ```
 ![Lough Neagh Image](https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Lough_Neagh_by_Sentinel-2.jpg/1200px-Lough_Neagh_by_Sentinel-2.jpg)

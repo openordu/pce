@@ -1,0 +1,47 @@
+{
+  "name": "Illann",
+  "text": "Illann is a name that belonged to a number of early Irish rulers, scholars, and warriors. The name takes the forms Ilian, Iollan, Iollann, and Iliann. It appears frequently among the ranks of the Fianna. One son of Fionn mac Cumhaill carried the name Illann. Some texts hold that Goll mac Morna may first have been called Illann. In the story of Deirdre, Illann, son of Fergus mac Róich, defends Noise and his brothers. A second Illann, sometimes called Iollann Éachtach, is the husband of Uime. Illann is therefore a common name of the heroic age of Ireland.",
+  "entities": [
+    {
+      "entity": "Fianna",
+      "type": "Group"
+    },
+    {
+      "entity": "Fionn mac Cumhaill",
+      "type": "Person"
+    },
+    {
+      "entity": "Goll mac Morna",
+      "type": "Person"
+    },
+    {
+      "entity": "Fergus mac Róich",
+      "type": "Person"
+    },
+    {
+      "entity": "Deirdre",
+      "type": "Person"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Illann",
+      "attribute": "name of several early Irish warriors"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Illann'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Record Illann.",
+    "key_results": [
+      "List the forms of the name.",
+      "Set the name among the Fianna.",
+      "Tell of Illann in the Deirdre story."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Illann'"
+  }
+}

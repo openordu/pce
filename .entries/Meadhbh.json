@@ -1,0 +1,38 @@
+{
+  "name": "Meadhbh",
+  "text": "Meadhbh and Méadhbh are Modern Irish spellings of Medb, the warrior-queen of Connacht. The dictionary treats the name only inside the Medb article.",
+  "entities": [
+    {
+      "entity": "Meadhbh",
+      "type": "Person"
+    },
+    {
+      "entity": "Medb",
+      "type": "Person"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Meadhbh",
+      "attribute": "Modern Irish spelling of Medb"
+    },
+    {
+      "entity": "Meadhbh",
+      "attribute": "variant spelling of the Connacht warrior-queen's name"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Meadhbh'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Documents Meadhbh as recorded in MacKillop 2008 for the Public Celtic Encyclopedia.",
+    "key_results": [
+      "Meadhbh and Méadhbh stand as Modern Irish spellings of Medb.",
+      "All substance on this figure lives in the Medb entry."
+    ],
+    "evidence": "MacKillop 2008, s.v. Meadhbh."
+  }
+}

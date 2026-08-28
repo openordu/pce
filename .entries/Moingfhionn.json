@@ -1,0 +1,43 @@
+{
+  "name": "Moingfhionn",
+  "text": "Moingfhionn and Moingionn are Modern Irish spellings of Mongfhind, a name carried by several women of early Irish story. The best known of them, Mongfhind (2), is the wife of Eochaid Mugmedón.",
+  "entities": [
+    {
+      "entity": "Moingfhionn",
+      "type": "Person"
+    },
+    {
+      "entity": "Mongfhinn",
+      "type": "Person"
+    },
+    {
+      "entity": "Eochaid Mugmedón",
+      "type": "Person"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Moingfhionn",
+      "attribute": "Modern Irish spelling of Mongfhind"
+    },
+    {
+      "entity": "Moingfhionn",
+      "attribute": "Modern Irish rendering of a multi-bearer female name"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Moingfhionn'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Documents Moingfhionn as recorded in MacKillop 2008 for the Public Celtic Encyclopedia.",
+    "key_results": [
+      "Moingfhionn and Moingionn are Modern Irish spellings of Mongfhind.",
+      "Several early-Irish women carry the name.",
+      "The best known, Mongfhind (2), is Eochaid Mugmedón's wife."
+    ],
+    "evidence": "MacKillop 2008, s.v. Moingfhionn."
+  }
+}

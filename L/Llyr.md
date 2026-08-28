@@ -2,55 +2,64 @@
 layout: layouts/pce.njk
 title: Llyr
 icon: file-lines
-order: 1458
+order: 1739
 contributors: [ 'Christopher Godwin' ]
 attributes:
-  - Llyr appears as a human king
-  - Llyr Llediath foreign accent
-  - River Sahr burial site
-  - Geoffrey of Monmouth mentions
-  - King Leir memorable mad king
-  - Shakespeare based his memorable mad king on King Leir
+  - Llyr a little-known Welsh god
+  - Llyr the same as the Irish Lir to some
+  - Llyr father of Manawydan
+  - Llyr father of the Children of Llyr, including Bendigeidfran and Branwen
 categories:
-  - Place
   - Person
+  - Deity
 entities:
-  - Llyr(Person)
+  - Llyr(Deity)
+  - Lir(Deity)
+  - Manawydan(Person)
   - Llyr Llediath(Person)
-  - River Sahr(Place)
-  - Geoffrey of Monmouth(Person)
-  - King Leir(Person)
-  - Shakespeare(Person)
+  - William Shakespeare(Person)
+  - Bendigeidfran(Person)
+  - Branwen(Person)
+  - Efnisien(Person)
+  - Nisien(Person)
+  - Don(Deity)
 tags:
   - Llyr
+  - Lir
+  - Manawydan
   - Llyr Llediath
-  - River Sahr
-  - Geoffrey of Monmouth
-  - King Leir
-  - Shakespeare
+  - William Shakespeare
+  - Bendigeidfran
+  - Branwen
+  - Efnisien
+  - Nisien
+  - Don
 ---
 ``` tab [group1:Info]
 ::: magazinestyle
-Llyr, an ancient Welsh god, remains somewhat of a mystery to scholars. Some speculate that Llyr might be the same as the Irish sea god Lir. While some describe Llyr as an underworld or Otherworld deity, the Celts commonly portrayed the Otherworld as an Island in the sea or as a land beneath the waves, so these two interpretations are not necessarily incompatible. Llyr was the father of several notable figures, including Manawydan, who was born to DÔN’s daughter Penarddun; Bran The Blessed, a warrior; and Branwen, a love goddess born to the queen named Iweriadd (Ireland). In certain texts, Llyr appears as a human king known as Llyr Llediath, or “Llyr of the foreign accent.” In later folklore, Llyr became Christianized and transformed into a saint. He was supposedly buried beneath the River Sahr, an appropriate location for an ancient water divinity. Geoffrey of Monmouth mentions a character named King Leir, who is often assumed to be the inspiration behind Shakespeare's memorable mad king.
+Llyr is a Welsh sea-god who stands at the head of a family known as the Children of Llyr. Welsh tradition sets this family at the centre of early narrative. The tale of Branwen gives more attention to the children of Llyr than to the daughter herself. The eldest child is Bendigeidfran, also called Bran or Bran Llyr. Later writers call him a king of Britain. The name may belong to the time before Christianity reached Wales. Christian scribes preferred the title Blessed, because they held that Bran helped carry the faith to Wales. The brave brother Manawydan is another child of Llyr. The beautiful sister Branwen is a third. Two half-brothers of the same mother complete the family, the malevolent Efnisien and the gentle Nisien. Some readers set the Children of Llyr against the Children of Don. The Children of Don stand for light and good, while the Children of Llyr stand for the forces of dark and evil. Other scholars link the Welsh Llyr with the Irish sea-god Lir. The names invite the comparison, and the two are often treated as the same god. In later lore Llyr became a king called Llyr Llediath, the Llyr of the foreign accent. A saint of the same name was said to rest under the River Saahr. Geoffrey of Monmouth tells of a King Leir. William Shakespeare drew his mad king Lear from that figure. The Welsh Llyr thus runs through both native story and later English drama.
 
 :::
 ```
 ``` tab [group1:Attributes]
-- **Llyr**: appears as a human king
-- **Llyr Llediath**: foreign accent
-- **River Sahr**: burial site
-- **Geoffrey of Monmouth**: mentions
-- **King Leir**: memorable mad king
-- **Shakespeare**: based his memorable mad king on King Leir
+- **Llyr**: a little-known Welsh god
+- **Llyr**: the same as the Irish Lir to some
+- **Llyr**: father of Manawydan
+- **Llyr**: father of the Children of Llyr, including Bendigeidfran and Branwen
 ```
 ``` tab [group1:Entities]
-- **Llyr**: Person
+- **Llyr**: Deity
+- **Lir**: Deity
+- **Manawydan**: Person
 - **Llyr Llediath**: Person
-- **River Sahr**: Place
-- **Geoffrey of Monmouth**: Person
-- **King Leir**: Person
-- **Shakespeare**: Person
+- **William Shakespeare**: Person
+- **Bendigeidfran**: Person
+- **Branwen**: Person
+- **Efnisien**: Person
+- **Nisien**: Person
+- **Don**: Deity
 ```
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
+- MacKillop 2008, s.v. 'Llyr'
 ```

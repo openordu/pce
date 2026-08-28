@@ -1,0 +1,35 @@
+{
+  "name": "Kaer",
+  "text": "Kaer is the English form of the Welsh place word Caer, meaning a fort. The word stands at the head of many names of towns in Wales and Cornwall. It is also the name of the unseen Isle of the Otherworld, known as Caer Sidi. Kaer is a given of the Welsh words for the strong place of legend.",
+  "entities": [
+    {
+      "entity": "Caer",
+      "type": "Place"
+    },
+    {
+      "entity": "Wales",
+      "type": "Region"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Kaer",
+      "attribute": "English spelling of Caer"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Kaer'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Record Kaer.",
+    "key_results": [
+      "Give the Welsh word behind the form.",
+      "Note the sense of a fort.",
+      "Join it to the names of the towns."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Kaer'"
+  }
+}

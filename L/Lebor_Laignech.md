@@ -11,9 +11,9 @@ attributes:
   - Lebor Laignech preserves notable copies of Táin Bó Cuailnge and Mesca Ulad
   - Lebor Laignech drew on earlier codices such as the Saltair of Cashel
 categories:
-  - Artefact
   - Person
   - Place
+  - Artefact
 entities:
   - Lebor Laignech(Artefact)
   - Aed Ua Crimthainn(Person)
@@ -29,7 +29,7 @@ tags:
 ---
 ``` tab [group1:Info]
 ::: magazinestyle
-Lebor Laignech, the Book of Leinster, is an early Irish manuscript written wholly in Irish. Scholars date it between 1151 and 1224. The main compiler was likely Aed Ua Crimthainn, the last abbot of Terryglas. Several of his pupils also worked on the codex. The name Book of Leinster came from the scholar John O'Donovan. R. I. Best argued the older name was Lebor na Nuachongbála. The manuscript surfaced in Sradbally, County Laois, in the fourteenth century. A fire at Terryglas in 1164 forced completion elsewhere. The codex holds tales, poems, and genealogies. It mixes religious and historical matter. It carries the oldest form of the metrical dindshenchas. Some texts are prime copies of Ulster Cycle tales. These include Táin Bó Cuailnge and Mesca Ulad. The book draws on earlier codices such as the Saltair Chaisil. It ranks as the largest of the early Irish codices.
+Lebor Laignech, the Book of Leinster, is an early Irish manuscript written entirely in Irish. Scholars date it between 1151 and 1224. MacKillop sets the compilation after 1150. The main compiler was likely Aed Ua Crimthainn, the last abbot of Terryglas. Several of his pupils also worked on the codex. The name Book of Leinster came from the scholar John O'Donovan. R. I. Best argued the older name was Lebor na Nuachongbala. The manuscript was preserved at Sradbally, County Laois, in the fourteenth century. A fire at Terryglas in 1164 forced work to finish elsewhere. MacKillop ranks the Book of Leinster second among sources of Irish legend, behind only that great Dublin treasure, the Dun Cow volume. The codex holds tales, poems, and genealogies. It mixes religious and historical matter. It carries the oldest form of the metrical dindshenchas, the lore of place-names. Some of this lore dates from the eleventh century. The codex preserves a key copy of the Táin Bó Cuailnge and the Ulster tale Mesca Ulad. It holds the pseudo-history Lebor Gabála, the Book of Invasions. The Deirdre story and the Borama also survive in its leaves. MacKillop notes that the manuscript is divided between two Dublin libraries: Trinity College and also the Franciscan Library. The Book of Leinster first appeared in facsimile in 1870. A six-volume edition followed between 1954 and 1983, prepared by four scholars: Best, Bergin, O'Brien, and O'Sullivan.
 
 :::
 ```
@@ -49,4 +49,5 @@ Lebor Laignech, the Book of Leinster, is an early Irish manuscript written wholl
 ```
 ``` tab [group1:Sources]
 - Koch 2006, s.v. 'Lebor Laignech'
+- MacKillop 2008, s.v. 'Lebor Laignech'
 ```

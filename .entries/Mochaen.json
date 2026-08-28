@@ -1,0 +1,42 @@
+{
+  "name": "Mochaen",
+  "text": "Mochaen is a corrupt form of Miodhchaoin, the ogre guarding a hill in northern Lochlainn. The corrupted spelling turns up in lists beside the parent form.",
+  "entities": [
+    {
+      "entity": "Mochaen",
+      "type": "Being"
+    },
+    {
+      "entity": "Miodhchaoin",
+      "type": "Being"
+    },
+    {
+      "entity": "Lochlainn",
+      "type": "Place"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Mochaen",
+      "attribute": "corrupt form of Miodhchaoin"
+    },
+    {
+      "entity": "Mochaen",
+      "attribute": "corrupt spelling carried by the Lochlainn ogre"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Mochaen'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Documents Mochaen as recorded in MacKillop 2008 for the Public Celtic Encyclopedia.",
+    "key_results": [
+      "Mochaen is a corrupted spelling of Miodhchaoin.",
+      "The ogre watches over a hill in northern Lochlainn."
+    ],
+    "evidence": "MacKillop 2008, s.v. Mochaen."
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "name": "Gwent",
+  "text": "Gwent is a Welsh historical region of south eastern Wales beside the border with England. Its shape follows the ordering that the Romans gave the land. Gwent was its own kingdom from the fifth to the eleventh century, and at times it joined with Morgannwg to the west. The land divided into two parts, Gwent Uwch Coed in the north west and Gwent Is Coed in the south east. Merlin was found beside the fountain in this land in the tale told by Geoffrey of Monmouth. From the year 1536 to 1974 most of the territory lay within the county of Monmouth. In 1974 Gwent became again a county of Wales, yet the new line did not follow the medieval kingdom. The name Gwent names a real land with its church and stories.",
+  "entities": [
+    { "entity": "Wales", "type": "Region" },
+    { "entity": "Morgannwg", "type": "Region" },
+    { "entity": "Monmouth", "type": "Place" }
+  ],
+  "attributes": [
+    { "entity": "Gwent", "attribute": "historical region of south eastern Wales" }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Gwent'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Record the region of Gwent.",
+    "key_results": [
+      "Place it beside the land of England.",
+      "Give the divisions of the kingdom.",
+      "Note its return as a county in 1974."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Gwent'"
+  }
+}

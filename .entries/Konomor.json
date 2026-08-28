@@ -1,0 +1,47 @@
+{
+  "name": "Konomor",
+  "text": "Konomor is a semi-legendary king of Brittany. Writers rank him beside Conchobar mac Nessa in the Ulster Cycle. In the record he acts as a kind of Bluebeard. He rules first in Cornwall and Devon before moving to the northern parts of Brittany. Some documents call him Marcus Conomorus, which blurs him with King Mark of Cornwall. He marries three times and kills each wife when she becomes pregnant, dreading that a son will end his life. His fourth wife Trifina, also written Tryphina, is spared. Konomor cuts off her head, yet the saint Gildas restores it. Her son Trémeur takes revenge by pulling down his father's castle.",
+  "entities": [
+    {
+      "entity": "Conchobar mac Nessa",
+      "type": "Person"
+    },
+    {
+      "entity": "Mark of Cornwall",
+      "type": "Person"
+    },
+    {
+      "entity": "Gildas",
+      "type": "Person"
+    },
+    {
+      "entity": "Trémeur",
+      "type": "Person"
+    },
+    {
+      "entity": "Brittany",
+      "type": "Region"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Konomor",
+      "attribute": "semi-legendary king of Brittany"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Konomor'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Record Konomor.",
+    "key_results": [
+      "Name the king who stands beside him.",
+      "State why he killed his earlier wives.",
+      "Name the saint who mended Trifina."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Konomor'"
+  }
+}

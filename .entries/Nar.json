@@ -1,59 +1,91 @@
 {
-  "name": "Nar",
-  "attributes": [
-    {
-      "entity": "Nar",
-      "attribute": "Irish goddess"
-    },
-    {
-      "entity": "Nar",
-      "attribute": "known as modesty"
-    },
-    {
-      "entity": "Nar",
-      "attribute": "granted wealth to a high king of Ireland"
-    },
-    {
-      "entity": "Flaith",
-      "attribute": "goddess of sovereignty"
-    }
-  ],
-  "entities": [
-    {
-      "entity": "Nar",
-      "type": "goddess"
-    },
-    {
-      "entity": "Nair",
-      "type": "goddess"
-    },
-    {
-      "entity": "Flaith",
-      "type": "goddess"
-    },
-    {
-      "entity": "Ireland",
-      "type": "location"
-    },
-    {
-      "entity": "sovereignty",
-      "type": "concept"
-    }
-  ],
-  "sources": [
-    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-  ],
-  "cyphertext": "fCkPbQS0tAn3EjlWVa60-nLA30vdT7LVL5LRXikC3bBqSBef5WWq2Pj6UCj_sUzVbAcBcSKhh7pQ5SRRc5RGsQ6vRBXDinyFSGMuR9leR2nfb4AzZYuhDjqHrmdNiFDQ0JLb2-W6KB7OHxF0nPoatFb9nUdruSBiPx6ZNh1yRtbwib-f_LsXQK-7jAdUthggGvHClP_UmewSnnNfX82uRYMAtrlvi8kQAqSJcqchNEn8pjMfTgilSOgWvnSRH3MTzECycBjb1UbkTY4TMVVQU9cDYRFa7QgmtT5TmkL_dxIwWF6JptniycPurTdrNI72MIG8xKA6nXskHjGBu786-muuDZ8=",
-  "salt": "dhZplg9shKHAGAsVCNLJSQ==",
-  "text": "Nar, sometimes written Nair, is an Irish goddess. Her name carries the sense of modesty. In some accounts she granted great wealth to a high king of Ireland. Scholars weigh her as a possible form of Flaith, the goddess of sovereignty.",
-  "okr": {
-    "objective": "Nar is an obscure Irish goddess linked to modesty and wealth.",
-    "key_results": [
-      "Nar is an Irish goddess of modesty.",
-      "The name also appears as Nair.",
-      "She granted wealth to a high king of Ireland.",
-      "She is a possible form of Flaith, goddess of sovereignty."
-    ],
-    "evidence": "Monaghan, Encyclopedia of Celtic Mythology and Folklore"
+ "name": "Nar",
+ "cyphertext": "fCkPbQS0tAn3EjlWVa60-nLA30vdT7LVL5LRXikC3bBqSBef5WWq2Pj6UCj_sUzVbAcBcSKhh7pQ5SRRc5RGsQ6vRBXDinyFSGMuR9leR2nfb4AzZYuhDjqHrmdNiFDQ0JLb2-W6KB7OHxF0nPoatFb9nUdruSBiPx6ZNh1yRtbwib-f_LsXQK-7jAdUthggGvHClP_UmewSnnNfX82uRYMAtrlvi8kQAqSJcqchNEn8pjMfTgilSOgWvnSRH3MTzECycBjb1UbkTY4TMVVQU9cDYRFa7QgmtT5TmkL_dxIwWF6JptniycPurTdrNI72MIG8xKA6nXskHjGBu786-muuDZ8=",
+ "salt": "dhZplg9shKHAGAsVCNLJSQ==",
+ "text": "Nar, sometimes written Nair, is an Irish goddess. Her name carries the sense of modesty. The surviving record about her stays thin, and reference works handle her with care. In some accounts she granted great wealth to a high king of Ireland. The wealth account names no king and gives no date. That gift of riches matches the conduct expected of a sovereignty goddess. Tradition also records that figures of this kind give rule and fortune to the king they favor. Scholars weigh her as a possible form of Flaith, the goddess of sovereignty. Received framing adds that the word flaith names royal authority itself, which anchors that comparison. Under this reading, a modest name joined to royal favor suits the scholarly link. The goddess then belongs to that company of female powers who reward rightful kings.\n\nThe older reference entry for the goddess stops at those points. MacKillop 2008 adds a different matter under the accented form Nár, and readers must keep the two apart. MacKillop records a separate figure Nár, a swineherd, and gives him no divine standing. That Nár herds swine for Bodb Derg, a lord whom received lore sets among the Tuatha De Danann. The swineherd owns one eye only. His epithet Tuathcháech carried the sense of a single wicked eye. His temper ran fierce. People said that no feast he joined ended without blood. Writers often confuse this swineherd with Friuch, the second swineherd serving Bodb. Friuch stands as a distinct person, and that confusion belongs to the swineherd story alone. Nothing in it touches the goddess.\n\nThe two figures named Nar share a spelling and nothing more. The goddess stays the subject of this node. The swineherd passage stands here as a clearly marked homonym note. It stops later editors from merging a goddess with a herdman. Students who follow the wealth-giving account should read it against the sovereignty pattern, not against the swineherd tale. The name Nair repeats the same goddess in a variant spelling. The record at hand shows no shrine, no feast day, and no genealogy for her. That silence explains why both encyclopedias describe her in so few lines.",
+ "entities": [
+  {
+   "entity": "Nar",
+   "type": "goddess"
+  },
+  {
+   "entity": "Nair",
+   "type": "goddess"
+  },
+  {
+   "entity": "Flaith",
+   "type": "goddess"
+  },
+  {
+   "entity": "Ireland",
+   "type": "location"
+  },
+  {
+   "entity": "sovereignty",
+   "type": "concept"
+  },
+  {
+   "entity": "Bodb Derg",
+   "type": "god"
+  },
+  {
+   "entity": "Friuch",
+   "type": "character"
   }
+ ],
+ "attributes": [
+  {
+   "entity": "Nar",
+   "attribute": "Irish goddess"
+  },
+  {
+   "entity": "Nar",
+   "attribute": "known as modesty"
+  },
+  {
+   "entity": "Nar",
+   "attribute": "granted wealth to a high king of Ireland"
+  },
+  {
+   "entity": "Flaith",
+   "attribute": "goddess of sovereignty"
+  },
+  {
+   "entity": "Nar",
+   "attribute": "possible sovereignty figure who enriches kings"
+  },
+  {
+   "entity": "Nar",
+   "attribute": "record shows no shrine, feast day, or genealogy"
+  },
+  {
+   "entity": "Nar",
+   "attribute": "homonym of the accented Nár, a swineherd, not the goddess"
+  },
+  {
+   "entity": "Bodb Derg",
+   "attribute": "lord served by the swineherd Nár"
+  },
+  {
+   "entity": "Friuch",
+   "attribute": "second swineherd of Bodb, confused with Nár the swineherd"
+  }
+ ],
+ "sources": [
+  "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.",
+  "MacKillop 2008, s.v. 'Nár'"
+ ],
+ "okr": {
+  "objective": "Nar is an obscure Irish goddess of modesty and royal wealth; MacKillop's Nár is a separate swineherd homonym.",
+  "key_results": [
+   "Nar is an Irish goddess of modesty.",
+   "The name also appears as Nair.",
+   "She granted wealth to a high king of Ireland.",
+   "She is a possible form of Flaith, goddess of sovereignty.",
+   "MacKillop 2008 records a separate figure Nár, a swineherd of Bodb Derg with one eye.",
+   "The swineherd Nár carries the epithet Tuathcháech and is often confused with the other swineherd Friuch.",
+   "The goddess and the swineherd stay distinct figures."
+  ],
+  "evidence": "MacKillop 2008, s.v. 'Nár'"
+ }
 }

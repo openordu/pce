@@ -2,7 +2,7 @@
 layout: layouts/pce.njk
 title: Hercules
 icon: file-lines
-order: 1226
+order: 0
 contributors: [ 'Christopher Godwin' ]
 attributes:
   - Hercules a Romano-Celtic god shown often in Celtic art as an altered version of Celtic gods
@@ -17,11 +17,13 @@ attributes:
   - Ogma Irish supernatural champion credited with the invention of the ogam alphabet
   - Hercules name the ancestor of the Gauls in the foundation tale recorded by Diodorus Siculus
   - Hercules the hero of the medieval Irish Stair Ercuil and the Welsh Book of Ercwl
+  - Cerne Abbas Giant seen by some as an echo of the hero with the club
+  - Cú Chulainn called the Celtic Hercules since the nineteenth century
 categories:
-  - Concept
   - Group
-  - Person
   - Place
+  - Person
+  - Concept
 entities:
   - Hercules(Person)
   - Interpretatio Romana(Concept)
@@ -63,6 +65,8 @@ The hero also carries eloquence into the Celtic world. Lucian of Samosata descri
 
 Hercules did not stop at the old religion. He carried into the medieval tales of the Ins. The Irish Book of Taliesin holds a death song for a hero named Ercwlf. The poem calls him a "ram of battle", the standard crown of native heroes. A strong says his name the "Pillars of Hercules" of the tale. The Welsh triads set Ercwlff among the men who held the Might of Adam. In Ireland a fifteenth-century tale retold the adventure and the death of Hercules. It drew from the English work of William Caxton. Uilliam Mac an Leagha wrote down this Early Modern Irish version. In that story Hercules is not only hard of arm. He also takes part in acts of learning. The Roman picture thus binds at last the many corners of the Celtic world.
 
+MacK traces the hero into later corners of the Celtic world. The big earth-cut giant on the hill at Cerne Abbas, lifting a heavy club, is read by more than one as a token of him. The name or a ragged echo of it turns up in an Irish tale, where a figure like Ero is hauled behind the chariot of the young hero of the Hills. Since the middle years of the nineteenth century that same champion has carried the title of the Celtic Hercules, famed for strength and for the hard labors set on him, so distant kin of the Greek master who ordered those tasks. The shape of the god, in short, walks well beyond the altars of Gaul.
+
 :::
 ```
 ``` tab [group1:Attributes]
@@ -78,6 +82,8 @@ Hercules did not stop at the old religion. He carried into the medieval tales of
 - **Ogma**: Irish supernatural champion credited with the invention of the ogam alphabet
 - **Hercules**: name the ancestor of the Gauls in the foundation tale recorded by Diodorus Siculus
 - **Hercules**: the hero of the medieval Irish Stair Ercuil and the Welsh Book of Ercwl
+- **Cerne Abbas Giant**: seen by some as an echo of the hero with the club
+- **Cú Chulainn**: called the Celtic Hercules since the nineteenth century
 ```
 ``` tab [group1:Entities]
 - **Hercules**: Person
@@ -98,5 +104,6 @@ Hercules did not stop at the old religion. He carried into the medieval tales of
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 - Koch 2006, s.v. 'Hercules'
+- MacKillop 2008, s.v. 'Hercules'
 ```
 ![Hercules Image](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Hercules_combatant_Achelous_%288655488835%29.jpg/1200px-Hercules_combatant_Achelous_%288655488835%29.jpg)

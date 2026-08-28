@@ -1,48 +1,51 @@
 {
- "name": "Liath Macha",
- "attributes": [
-  {
-   "entity": "Liath Macha",
-   "attribute": "the gray of the goddess Macha"
-  },
-  {
-   "entity": "Liath Macha",
-   "attribute": "the favorite horse of the hero Cúchulainn"
-  },
-  {
-   "entity": "Macha",
-   "attribute": "the main goddess of Ulster who gave the horse"
-  }
- ],
- "entities": [
-  {
-   "entity": "Liath Macha",
-   "type": "Animal"
-  },
-  {
-   "entity": "Cúchulainn",
-   "type": "Person"
-  },
-  {
-   "entity": "Macha",
-   "type": "Deity"
-  }
- ],
- "sources": [
-  "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
- ],
- "image": [
-  "https://upload.wikimedia.org/wikipedia/commons/7/72/Cuinbattle.jpg"
- ],
- "cyphertext": "57BFN2a2CtsBvCj7fPjm1WcQd0jvvCXDtnXfq7zyL-A7a0mb69cDR4O5UwJUiMkN3n2WRqbs77iHJNTWtH88UKJZf0ijqUwnI_3e0eTaKKzLUPZQ4ro693Ssx-vNrK7qpke94qftg017nwfMnUolHvZBsAKpyKSXFVkxfcmIwCGlsxDE4HbTiEA6ttyyXXYPIc1Nt9nj02BeTBly_fZrf-skfMpHDlhTtjM2AB_uhCY3u_mxDsCwEeSReTDOOzhTqc2xJLL375kY8SVjYEWpfmvdnndjWzMipQYV3gt0Y1rTKEf8dAH6ubTquFN1Ga6f2jgdcpq_bm1c07B04y7R1Khd",
- "salt": "xHJNJ4roANawjo7D-upElQ==",
- "text": "Liath Macha is an Irish legendary animal. The name means the gray of the goddess Macha. It was her favorite horse, the steed of the Ulster hero Cúchulainn. The horse came from a lake by magic and was a gift from Macha, the main goddess of Ulster.",
- "okr": {
-  "objective": "Hold Liath Macha, the magic horse of Macha, in a short entry.",
-  "key_results": [
-   "Name the horse as the favorite of Cúchulainn.",
-   "Give its link to the goddess Macha."
+  "name": "Liath Macha",
+  "attributes": [
+    {
+      "entity": "Liath Macha",
+      "attribute": "the gray of the goddess Macha"
+    },
+    {
+      "entity": "Liath Macha",
+      "attribute": "the favorite horse of the hero Cúchulainn"
+    },
+    {
+      "entity": "Macha",
+      "attribute": "the main goddess of Ulster who gave the horse"
+    }
   ],
-  "evidence": "Monaghan 2008, s.v. 'Liath Macha'."
- }
+  "entities": [
+    {
+      "entity": "Liath Macha",
+      "type": "Animal"
+    },
+    {
+      "entity": "Cúchulainn",
+      "type": "Person"
+    },
+    {
+      "entity": "Macha",
+      "type": "Deity"
+    }
+  ],
+  "sources": [
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.",
+    "MacKillop 2008, s.v. 'Liath Macha'."
+  ],
+  "image": [
+    "https://upload.wikimedia.org/wikipedia/commons/7/72/Cuinbattle.jpg"
+  ],
+  "cyphertext": "57BFN2a2CtsBvCj7fPjm1WcQd0jvvCXDtnXfq7zyL-A7a0mb69cDR4O5UwJUiMkN3n2WRqbs77iHJNTWtH88UKJZf0ijqUwnI_3e0eTaKKzLUPZQ4ro693Ssx-vNrK7qpke94qftg017nwfMnUolHvZBsAKpyKSXFVkxfcmIwCGlsxDE4HbTiEA6ttyyXXYPIc1Nt9nj02BeTBly_fZrf-skfMpHDlhTtjM2AB_uhCY3u_mxDsCwEeSReTDOOzhTqc2xJLL375kY8SVjYEWpfmvdnndjWzMipQYV3gt0Y1rTKEf8dAH6ubTquFN1Ga6f2jgdcpq_bm1c07B04y7R1Khd",
+  "salt": "xHJNJ4roANawjo7D-upElQ==",
+  "text": "Liath Macha is the favourite horse of the Ulster hero Cúchulainn in Irish tradition. The name means the grey of Macha in the Irish tongue. The hero kept a second horse called Saingliu, also named Dubh Sainglenn. Both animals were magical. They came up from a grey lake at Sliab Fúait, the hill also called Slieve Fuad. Writers credit each horse as a gift from Macha or from the Mórrígan. The story does not say which of the three gave which mount. Cúchulainn caught both horses and broke them in. He leapt onto their backs to tame them. For a whole day the pair raced around the circuit of Ireland. They could not throw off their young rider. After that day they grew gentle and calm. The horse shows a deep love for his master. Liath Macha refused to be saddled by any other hand. Before the hero's final battle the horse shed tears of blood. Some accounts say Liath Macha died with Cúchulainn on the field. In that last fight he carried away eighty enemy warriors. Other tales tell a gentler end. They say Liath Macha and Saingliu went back to their lakes after the hero fell. Liath Macha stands for the close bond between a Celtic warrior and his war-horse. His story gives the great hero a mount worthy of his fame. His loyalty endures as a mark of the bond between a hero and his mount in the old heroic world.",
+  "okr": {
+    "objective": "describe Liath Macha, the favourite horse of Cúchulainn",
+    "key_results": [
+      "say the name means the grey of Macha",
+      "tell of the two magical lake-born horses",
+      "recall the tears of blood before the final battle",
+      "note his death with the hero or return to the lake"
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Liath Macha'"
+  }
 }

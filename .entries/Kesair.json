@@ -1,0 +1,51 @@
+{
+  "name": "Kesair",
+  "text": "Kesair is an anglicized form of the name Cesair. Cesair commands the earliest settlement of Ireland in the Mythological Cycle. In the Lebor Gabála she comes from Bith, a son born to Noah. She reaches Ireland shortly before the great Flood because the Ark would not receive her. A rival account calls her a daughter of the goddess Banba. She comes ashore at Dún na mBarc, a haven on Bantry Bay, with fifty women and three men. The men share the women out in the hope of populating the land. Two of the men die, including her helmsman Ladra, so Fintan mac Bóchra takes up the task and later flees as a salmon. Deserted, Cesair dies from grief. Writers sometimes use her name as a poetic term for Ireland.",
+  "entities": [
+    {
+      "entity": "Cesair",
+      "type": "Person"
+    },
+    {
+      "entity": "Lebor Gabála",
+      "type": "Work"
+    },
+    {
+      "entity": "Banba",
+      "type": "Person"
+    },
+    {
+      "entity": "Dún na mBarc",
+      "type": "Place"
+    },
+    {
+      "entity": "Fintan mac Bóchra",
+      "type": "Person"
+    },
+    {
+      "entity": "Ireland",
+      "type": "Region"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Kesair",
+      "attribute": "anglicized form of Cesair"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Kesair'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Record Kesair.",
+    "key_results": [
+      "Give the fuller form of the name.",
+      "Set the leader in the first invasion.",
+      "Name the bay where she lands."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Kesair'"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Lismore",
+  "text": "Lismore is a town in Co. Waterford in south-east Ireland. Its name is joined to the Book of Lismore, a 15th century manuscript that preserves tales of the Fianna. For Celtic lore the name therefore connotes the manuscript more than the modern town.",
+  "entities": [
+    {
+      "entity": "Waterford",
+      "type": "Region"
+    },
+    {
+      "entity": "Book of Lismore",
+      "type": "Work"
+    },
+    {
+      "entity": "Fianna",
+      "type": "Group"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Lismore",
+      "attribute": "town in Waterford linked to the Book of Lismore manuscript"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Lismore'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Record Lismore.",
+    "key_results": [
+      "Name the county of the town.",
+      "Name the manuscript it recalls.",
+      "Say what the manuscript preserves."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Lismore'"
+  }
+}

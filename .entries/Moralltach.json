@@ -1,0 +1,51 @@
+{
+ "name": "Móralltach",
+ "text": "Móralltach, an Irish name meaning great fury, is carried by the great sword of the hero Diarmait Ua Duibne. Tradition at times hands the weapon instead to Angus Óg or to Manannán mac Lir.",
+ "entities": [
+  {
+   "entity": "Móralltach",
+   "type": "Object"
+  },
+  {
+   "entity": "Diarmait Ua Duibne",
+   "type": "Person"
+  },
+  {
+   "entity": "Angus Óg",
+   "type": "Person"
+  },
+  {
+   "entity": "Manannán mac Lir",
+   "type": "Person"
+  }
+ ],
+ "attributes": [
+  {
+   "entity": "Móralltach",
+   "attribute": "great sword of Diarmait Ua Duibne"
+  },
+  {
+   "entity": "Móralltach",
+   "attribute": "Irish name meaning great fury"
+  },
+  {
+   "entity": "Móralltach",
+   "attribute": "weapon sometimes attributed to Angus Óg or Manannán mac Lir"
+  }
+ ],
+ "sources": [
+  "MacKillop 2008, s.v. 'Móralltach'"
+ ],
+ "image": [],
+ "cyphertext": "",
+ "salt": "",
+ "okr": {
+  "objective": "Documents Móralltach as recorded in MacKillop 2008 for the Public Celtic Encyclopedia.",
+  "key_results": [
+   "Móralltach means great fury and names a great sword.",
+   "The sword belongs to Diarmait Ua Duibne in the main account.",
+   "Some traditions give the weapon to Angus Óg or Manannán mac Lir."
+  ],
+  "evidence": "MacKillop 2008, s.v. Móralltach."
+ }
+}

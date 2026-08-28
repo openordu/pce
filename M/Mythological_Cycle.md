@@ -2,89 +2,50 @@
 layout: layouts/pce.njk
 title: Mythological Cycle
 icon: file-lines
-order: 1731
+order: 3662
 contributors: [ 'Christopher Godwin' ]
 attributes:
-  - Mythological Cycle a set of Irish tales of the ancient gods
-  - Mythological Cycle centered on the contest between races in the Book of Invasions
-  - Tuatha De Danann the people of the goddess Danu, victors over the Fir Bolg at Mag Tuired
-  - Lugh the hero who killed Balor at the second battle of Mag Tuired
-  - Mythological Cycle grew early modern tales such as the death of the children of Tuire
-  - Mythological Cycle the Three Sorrows of Storytelling number among its later stories
-  - Sons of Tuireann killed the god's father and paid a price to cleanse the crime
-  - Children of Lir subject of a tale read as a meditation on patient Christian suffering
+  - Mythological Cycle a body of Irish story about the imagined invasions of Ireland
+  - Mythological Cycle one of the four great cycles of old Irish tradition
+  - Mythological Cycle holds the memory of the old faith and the first comings
 categories:
-  - Person
   - Concept
-  - Text
+  - Place
   - Group
 entities:
   - Mythological Cycle(Concept)
-  - Book of Invasions(Text)
-  - Fomorians(Group)
+  - Tuatha Dé Danann(Group)
   - Fir Bolg(Group)
-  - Tuatha De Danann(Group)
-  - Nuada(Person)
-  - Bres(Person)
-  - Dian Cecht(Person)
-  - Lugh(Person)
-  - Balor(Person)
-  - Sons of Tuireann(Group)
-  - Children of Lir(Group)
-  - Three Sorrows of Storytelling(Concept)
-  - Miach(Person)
+  - Milesians(Group)
+  - Ireland(Place)
 tags:
   - Mythological Cycle
-  - Book of Invasions
-  - Fomorians
+  - Tuatha Dé Danann
   - Fir Bolg
-  - Tuatha De Danann
-  - Nuada
-  - Bres
-  - Dian Cecht
-  - Lugh
-  - Balor
-  - Sons of Tuireann
-  - Children of Lir
-  - Three Sorrows of Storytelling
-  - Miach
+  - Milesians
+  - Ireland
 ---
 ``` tab [group1:Info]
 ::: magazinestyle
-The Mythological Cycle is a set of Irish tales. It tells of the ancient gods of the land. The central story is a fight between races, set down in the Book of Invasions. First came the followers of Nemed and Partholon. Then the Fomorians held that land. The Fir Bolg twice pushed them out. Then came the Tuatha De Danann, the people of the goddess Danu. They beat the Fir Bolg in their first fight at Mag Tuired. There the king Nuada lost an arm. A blemished king could not rule. The half-Fomorian Bresa took the throne. He was fair but cruel. A poet of his court made a satire against him. Boils covered his face, and he too was blemished. The healer Dian Cecht and his son Mion worked to make a new hand of silver for Nuada. He ruled again. At the second fight at Mag Tuired he led the folk. The hero Lugh killed the Fomorian king Balorty with a spear.
-
-Later Early Modern tales grew from this cycle. The Children of Tuireann have their own story, the text named Oidheadh Chloinne Tuireann. Its written form belongs to the early modern period, but its core content goes back to the 11th century. The story sits before the second fight at Mag Tuired. It tells how the Sons of Tuireann slew the god Lugh's father. They then owe a heavy price to atone for the crime. This tale draws the divine court as angry and unstable. Lugh appears spiteful and vengeful here, a sharp turn from his earlier character. A second story, Oidheadh Chloinne Lir, ends in grief for the children of Lir. Scholars read it as a long thought about steady Christian suffering. It fits the religious writing common in the late Early Modern age. With the tale of the youth of Uisneach, these make the Three Sorrows of Storytelling. Manuscripts of the 18th and 19th centuries often draw them together.
+The Mythological Cycle is a great body of old Irish story, romance, and verse. It gathers the imagined beginnings of Ireland and lets many waves of folk into the land. That telling closes with the coming of the Tuatha De Danann and their triumph over the Fir Bolg, and later the mortal Milesians who pushed them out. It ranks as one of the four great cycles of old Irish tradition, sitting with the Ulster and Fenian cycles and with the cycle of the kings. Writers coined the phrase to group the early tales that, since no sure account of the Celtic gods of Ireland survives, deal most with how the land began and what the folk once believed. In that way the cycle holds the memory of the old faith and of the first comings. Many of the events that the cycle describes appear to take place before the action of the other cycles. Yet the writing of these tales is now dated long after many of the Ulster and some of the Fenian stories. That odd order continues to puzzle readers. Still the cycle keeps its place as the treasury house of the older gods and of the arrivals who laid the bones of the old law. The invasions run one after another, and each new folk either joins or drives out the one before. The cycle closes with the great war gods giving way to the mortal settlers, who take the island for their own. So the Mythological Cycle tells how the divine age yielded to the human age. The cycle names the chief invading peoples in turn, from Cesair down to the final settlers. Its high point comes with the coming of the Tuatha De Danann. Their champion Lug Lamfhota led them to victory over the Fir Bolg. That divine people then ruled until the mortal Milesians arrived. The phrase Mythological Cycle appeared before writers used the term Celtic mythology. It grew out of a search for the deep roots of Irish belief. Without a native cosmology to guide them, scholars turned to these tales. So the cycle preserved shreds of the pre-Christian religion. Each wave of invaders brought gods, heroes, and customs of its own. The oldest thoughts of the land rest inside these stories. Later writers set the poems and romances down in words still read today. Through them the divine age stays alive in Irish memory.
 
 :::
 ```
 ``` tab [group1:Attributes]
-- **Mythological Cycle**: a set of Irish tales of the ancient gods
-- **Mythological Cycle**: centered on the contest between races in the Book of Invasions
-- **Tuatha De Danann**: the people of the goddess Danu, victors over the Fir Bolg at Mag Tuired
-- **Lugh**: the hero who killed Balor at the second battle of Mag Tuired
-- **Mythological Cycle**: grew early modern tales such as the death of the children of Tuire
-- **Mythological Cycle**: the Three Sorrows of Storytelling number among its later stories
-- **Sons of Tuireann**: killed the god's father and paid a price to cleanse the crime
-- **Children of Lir**: subject of a tale read as a meditation on patient Christian suffering
+- **Mythological Cycle**: a body of Irish story about the imagined invasions of Ireland
+- **Mythological Cycle**: one of the four great cycles of old Irish tradition
+- **Mythological Cycle**: holds the memory of the old faith and the first comings
 ```
 ``` tab [group1:Entities]
 - **Mythological Cycle**: Concept
-- **Book of Invasions**: Text
-- **Fomorians**: Group
+- **Tuatha Dé Danann**: Group
 - **Fir Bolg**: Group
-- **Tuatha De Danann**: Group
-- **Nuada**: Person
-- **Bres**: Person
-- **Dian Cecht**: Person
-- **Lugh**: Person
-- **Balor**: Person
-- **Sons of Tuireann**: Group
-- **Children of Lir**: Group
-- **Three Sorrows of Storytelling**: Concept
-- **Miach**: Person
+- **Milesians**: Group
+- **Ireland**: Place
 ```
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 - Koch 2006, s.v. 'Mythological Cycle'
+- MacKillop 2008, s.v. 'Mythological Cycle'
 ```
 ![Mythological Cycle Image](https://upload.wikimedia.org/wikipedia/commons/8/87/%22The_Riders_of_the_Sidhe%22_John_Duncan_1911_McManus_Galleries%2C_Dundee.jpg)

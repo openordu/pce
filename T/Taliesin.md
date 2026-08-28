@@ -2,81 +2,70 @@
 layout: layouts/pce.njk
 title: Taliesin
 icon: file-lines
-order: 2350
+order: 0
 contributors: [ 'Christopher Godwin' ]
 attributes:
-  - Bedd Taliesin anyone who sleeps there wakes up either a poet or insane
-  - Taliesin The work that comes down to us as Taliesin’s may have been indeed composed by a poet of that name, but the famous name may have attracted to itself poems from the oral literature; the line between fact and myth is easily blurred in Taliesin’s case.
-  - Taliesin a youth the name begins with his brightening and his rebirth
-  - Ceridwen the goddess and the cauldron of her brew out of which he grows
-  - Elffin the lord who lifts the boy from the sea and puts his name on him
-  - Taliesin a sixth century Welsh bard
-  - Taliesin once the boy Gwion, servant of Ceridwen
+  - Taliesin a sixth century Welsh bard first known as the servant Gwion
   - Taliesin grew to be the wisest poet in the land
+  - Hanes Taliesin a tale of folk memory and invention about the bard as a wonder-child
+  - Book of Taliesin the old codex that keeps his verses
+  - Bedd Taliesin whoever sleeps there wakes a poet or a broken mind
 categories:
-  - location
+  - Work
   - Deity
-  - character
-  - goddess
-  - artifact
-  - person
   - Place
+  - Artifact
   - Person
 entities:
-  - Taliesin(person)
-  - Dyfed(location)
-  - Bedd Taliesin(location)
-  - Ceridwen(goddess)
-  - Elffin(character)
-  - Book of Taliesin(artifact)
   - Taliesin(Person)
   - Gwion(Person)
   - Ceridwen(Deity)
-  - Afagddu(Person)
-  - Elphin(Person)
+  - Afagdu(Person)
+  - Elffin(Person)
+  - Book of Taliesin(Artifact)
+  - Hanes Taliesin(Work)
+  - Bedd Taliesin(Place)
+  - Dyfed(Place)
   - Otherworld(Place)
 tags:
   - Taliesin
-  - Dyfed
-  - Bedd Taliesin
-  - Ceridwen
-  - Elffin
-  - Book of Taliesin
-  - Taliesin
   - Gwion
   - Ceridwen
-  - Afagddu
-  - Elphin
+  - Afagdu
+  - Elffin
+  - Book of Taliesin
+  - Hanes Taliesin
+  - Bedd Taliesin
+  - Dyfed
   - Otherworld
 ---
 ``` tab [group1:Info]
 ::: magazinestyle
-Taliesin is the Welsh poet whom the stories send on a strange birth. As a lad he carries the name of a servant, Gwion, and waits on the goddess Ceridwen. She boils a pot of inspiration meant for her son, and a hot drop leaps onto the lad's finger. He brings it to his mouth, and in that single swallow he takes in the whole gift. He flees before her, and in the run they keep changing shape, one after the other, fish to otter, bird to hawk. His last shape is a grain of wheat, and she, as a hen, swallows it and so carries him again. Then the sea gives him to a lord who raises him and names him Taliesin, the bright brow. At the court his words are clear and deep, and he frees the man who first drew his shell. The poems that carry his name keep the fire of the Underworld to them and sing in the Book of the Bard and in the prophet-line of Wales. The old cairn in the west is called his bed; any who sleeps there wakes a poet or a spirit-lost one.
+Taliesin is the Welsh bard whose story gifts him a marvellous birth. As a boy he lives under the name Gwion and serves the sorceress Ceridwen. She boils a cauldron of inspiration meant for her own son, and one scalding drop falls on the lad. He licks his finger, and in that single taste he takes all the magic into himself. She tries to catch him, so the two flick from shape to shape, fish to otter and bird to hawk. His last form becomes a single seed, and she turns hen and eats it, so she carries him once more. The sea then offers him to a lord, who raises him and names him Taliesin, the bright brow. His fair words earn him a place at court, and the songs under his name keep an earthy fire about them. The old cairn of Dyfed is known as his bed, and any who sleeps there wakes either a poet or a mind undone.
+
+MacKillop sets the Hanes apart as a separate story of the same wonder-child. Unlike the old codex that gathers his verses, this piece belongs to folk memory and shaped literary craft. It tells how the youth wins his gift from a sip of a healing brew and then passes through the shapes before he is born anew. Scholars treat it as its own tale, not as part of the manuscript verse. It shares the figure but not the frame with the book of prophecy, so the two should not be run together.
+
+The Book of Taliesin, called Llyfr Taliesin in Welsh, is the codex that gathers his verses. The manuscript was compiled about the year 1275. It holds more than sixty poems. Most are attributed to the sixth-century bard Taliesin. The scholar Ifor Williams judged about twelve of them to be truly his. The book also carries the Armes Prydain, the Prophecy of Britain, which some give to Myrddin. It includes Cad Goddeu, the tale of warring trees. The volume now rests in the National Library at Aberystwyth. Readers should set this book apart from the Hanes Taliesin, the wonder-tale of his birth.
 
 :::
 ```
 ``` tab [group1:Attributes]
-- **Bedd Taliesin**: anyone who sleeps there wakes up either a poet or insane
-- **Taliesin**: The work that comes down to us as Taliesin’s may have been indeed composed by a poet of that name, but the famous name may have attracted to itself poems from the oral literature; the line between fact and myth is easily blurred in Taliesin’s case.
-- **Taliesin**: a youth the name begins with his brightening and his rebirth
-- **Ceridwen**: the goddess and the cauldron of her brew out of which he grows
-- **Elffin**: the lord who lifts the boy from the sea and puts his name on him
-- **Taliesin**: a sixth century Welsh bard
-- **Taliesin**: once the boy Gwion, servant of Ceridwen
+- **Taliesin**: a sixth century Welsh bard first known as the servant Gwion
 - **Taliesin**: grew to be the wisest poet in the land
+- **Hanes Taliesin**: a tale of folk memory and invention about the bard as a wonder-child
+- **Book of Taliesin**: the old codex that keeps his verses
+- **Bedd Taliesin**: whoever sleeps there wakes a poet or a broken mind
 ```
 ``` tab [group1:Entities]
-- **Taliesin**: person
-- **Dyfed**: location
-- **Bedd Taliesin**: location
-- **Ceridwen**: goddess
-- **Elffin**: character
-- **Book of Taliesin**: artifact
 - **Taliesin**: Person
 - **Gwion**: Person
 - **Ceridwen**: Deity
-- **Afagddu**: Person
-- **Elphin**: Person
+- **Afagdu**: Person
+- **Elffin**: Person
+- **Book of Taliesin**: Artifact
+- **Hanes Taliesin**: Work
+- **Bedd Taliesin**: Place
+- **Dyfed**: Place
 - **Otherworld**: Place
 ```
 ``` tab [group1:Sources]
@@ -86,4 +75,6 @@ Taliesin is the Welsh poet whom the stories send on a strange birth. As a lad he
 - Matthews, John. Taliesin: Shamanism and the Bardic Mysteries in Britain and Ireland. London: Aquarian/Thorsons, 1991.
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 - Koch 2006, s.v. 'Taliesin [2]'
+- MacKillop 2008, s.v. 'Hanes Taliesin'
+- MacKillop 2008, s.v. 'Book of Taliesin'.
 ```

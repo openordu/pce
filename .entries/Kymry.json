@@ -1,0 +1,35 @@
+{
+  "name": "Kymry",
+  "text": "Kymry is an older anglicized form of the Welsh name Cymru. Cymru is the modern Welsh name for the nation of Wales. In earlier usage Cymry named the Welsh people. The Welsh tongue is called Cymraeg.",
+  "entities": [
+    {
+      "entity": "Cymru",
+      "type": "Place"
+    },
+    {
+      "entity": "Wales",
+      "type": "Region"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Kymry",
+      "attribute": "older anglicized form of Cymru"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Kymry'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Record Kymry.",
+    "key_results": [
+      "Give the modern Welsh name.",
+      "State what Cymry once meant.",
+      "Name the Welsh language."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Kymry'"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "name": "Mag Mucrama",
+  "text": "Mag Mucrama is remembered as the plain on which the battle of that name was fought. The dictionary treats the site only through its battle and sends the reader to Cath Maige Mucrama, the Irish title translated as the Battle of Mag Mucrama. That narrative belongs to the Cycle of the Kings.",
+  "entities": [
+    {
+      "entity": "Mag Mucrama",
+      "type": "Place"
+    },
+    {
+      "entity": "Cath Maige Mucrama",
+      "type": "Text"
+    },
+    {
+      "entity": "Cycle of the Kings",
+      "type": "Text"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Mag Mucrama",
+      "attribute": "is known through the battle fought on it"
+    },
+    {
+      "entity": "Mag Mucrama",
+      "attribute": "redirects the reader to Cath Maige Mucrama"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Mag Mucrama'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Documents Mag Mucrama as the plain of the famous battle.",
+    "key_results": [
+      "Known through its battle",
+      "Main treatment sits under Cath Maige Mucrama"
+    ],
+    "evidence": "MacKillop 2008, s.v. Mag Mucrama."
+  }
+}

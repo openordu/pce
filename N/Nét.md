@@ -2,41 +2,75 @@
 layout: layouts/pce.njk
 title: Nét
 icon: file-lines
-order: 1725
+order: 2057
 contributors: [ 'Christopher Godwin' ]
 attributes:
-  - Nét often connected with the Irish site of Grianán Aileach
-  - Grianán Aileach a great stone fortress in the far north of the island
-  - mythological importance unarguable although interpretations of its meaning vary
+  - Net obscure Irish god of war
+  - Net remembered as the partner of the war goddess Nemain
+  - Net often grouped with the Fomorians
+  - Net portrayed with two consorts, Badb and Nemain
+  - Net killed at Mag Tuired despite being a divinity
+  - Net grandfather of Balor and Goibniu
+  - Badb consort of Net
+  - Balor grandson of Net, fought at Mag Tuired
+  - Goibniu grandson of Net, opposite side at Mag Tuired
 categories:
-  - Location
-  - Nationality
-  - Unknown
+  - group
+  - place
+  - god
 entities:
-  - Nét(Unknown)
-  - Irish(Nationality)
-  - Grianán Aileach(Location)
+  - Net(god)
+  - Nemain(god)
+  - Nemed(god)
+  - Macha(god)
+  - Fomorians(group)
+  - Tuatha De Danann(group)
+  - Badb(god)
+  - Balor(god)
+  - Goibniu(god)
+  - Mag Tuired(place)
 tags:
-  - Nét
-  - Irish
-  - Grianán Aileach
+  - Net
+  - Nemain
+  - Nemed
+  - Macha
+  - Fomorians
+  - Tuatha De Danann
+  - Badb
+  - Balor
+  - Goibniu
+  - Mag Tuired
 ---
 ``` tab [group1:Info]
 ::: magazinestyle
-Obscure to the contemporary world, Nét (also known as Néit) was an Irish deity who was believed to be the spouse of Nemain, the goddess of war. Nét was presumably a war god; however, he could also be the same figure as Nemed, the husband of Macha, a goddess who is at times mistakenly identified with Nemain. It is rare to find Celtic war gods as Celtic regions were typically controlled by goddesses. Accounts regarding Nét are inconsistent, as some recognize him as a member of the monstrous Fomorians while others claim that he was one of the magical Tuatha Dé Danann. Nét is often linked to the Irish locale Grianán Aileach, a grand stone fortress in the far northern reaches of the island whose mythological importance is indisputable, although its significance is open to interpretation.
+Nét is the headword form, also spelled Net and Neit. MacKillop adds the variant Neith. He calls Nét a shadowy early god of war. The existing entry remembers Nét solely as the partner of the war goddess Nemain. From that tie it reads Nét as a war god. MacKillop groups Nét often with the Fomorians. Two consorts, the goddesses Badb and Nemain, are usually assigned to Nét. That pairing does not make him an adulterer. Nét may be married to either one. One partner's identity can slide across to her rival, or onto Nét himself. MacKillop adds two grandsons, Balor and Goibniu. The two took opposite sides in the fighting at Mag Tuired. That battle is the Second Battle, in the old count. T. F. O'Rahilly traced both figures back to ideas about the sun. Balor and Goibniu might in the end be one. Although a divinity, Nét is killed at Mag Tuired. The existing entry reports a clash of accounts. Some name Nét a Fomorian, and others count him among the Tuatha De Danann. The MacKillop note on Fomorian leanings fits that split. Badb and Nemain are both battle goddesses. Their shared husband reads as a war power even where the record stays thin. The death at Mag Tuired marks Nét among the casualties of that epochal battle.
 
 :::
 ```
 ``` tab [group1:Attributes]
-- **Nét**: often connected with the Irish site of Grianán Aileach
-- **Grianán Aileach**: a great stone fortress in the far north of the island
-- **mythological importance**: unarguable although interpretations of its meaning vary
+- **Net**: obscure Irish god of war
+- **Net**: remembered as the partner of the war goddess Nemain
+- **Net**: often grouped with the Fomorians
+- **Net**: portrayed with two consorts, Badb and Nemain
+- **Net**: killed at Mag Tuired despite being a divinity
+- **Net**: grandfather of Balor and Goibniu
+- **Badb**: consort of Net
+- **Balor**: grandson of Net, fought at Mag Tuired
+- **Goibniu**: grandson of Net, opposite side at Mag Tuired
 ```
 ``` tab [group1:Entities]
-- **Nét**: Unknown
-- **Irish**: Nationality
-- **Grianán Aileach**: Location
+- **Net**: god
+- **Nemain**: god
+- **Nemed**: god
+- **Macha**: god
+- **Fomorians**: group
+- **Tuatha De Danann**: group
+- **Badb**: god
+- **Balor**: god
+- **Goibniu**: god
+- **Mag Tuired**: place
 ```
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
+- MacKillop 2008, s.v. 'Nét'
 ```

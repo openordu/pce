@@ -1,55 +1,85 @@
 {
-  "name": "Kulhwch",
-  "entities": [
-    {
-      "entity": "Kulhwch",
-      "type": "hero"
-    },
-    {
-      "entity": "Olwen",
-      "type": "character"
-    },
-    {
-      "entity": "Arthur",
-      "type": "character"
-    },
-    {
-      "entity": "Camelot",
-      "type": "place"
-    }
-  ],
-  "attributes": [
-    {
-      "entity": "Kulhwch",
-      "attribute": "hero of Arthurian legend"
-    },
-    {
-      "entity": "Kulhwch",
-      "attribute": "encouraged by his father to seek help"
-    },
-    {
-      "entity": "Kulhwch",
-      "attribute": "sought his true love Olwen"
-    },
-    {
-      "entity": "Arthur",
-      "attribute": "cousin of Kulhwch and king of Camelot"
-    }
-  ],
-  "sources": [
-    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-  ],
-  "cyphertext": "4zTwxODKMw3Wop6dDMllk4JMIBkhGpG8QXyHGjrPy1ywkbrTEThCGi_d7xp7TzpM9dPeowWIygEEz2jJheTw7jj4oXD3VsF5CD79SQu7_96amH7Mmipc0V-j0yypEmdt6_LMO--ydMnE6YYtSU_iR88J2ysGjhCZqobUR2JtTYQKGyEKq3BjMFHjjeHcuDRQcJonb_jIpVow1f3h17EiYywJ82K9z_6cuC7sF2xcfmIQZwCKXCsLOOmGCHoXdnOiUseHgFa2qsxhHlooiR0KfFAwM7jlbOJjDdn-TQrWcfZ6kyz_AOkpVFZ2Dy3pS8cfNNGtlq651U0ILTg=",
-  "salt": "4Jciql1Cfhn4RBiTkXAcyQ==",
-  "text": "Kulhwch is a hero of Welsh or Arthurian legend. His father urged him to seek aid in winning his true love Olwen. The father told him to travel to Camelot, where his cousin Arthur sat as king. Kulhwch set out for that court to win Arthur's help.",
-  "okr": {
-    "objective": "Kulhwch asked King Arthur for help finding his love Olwen.",
-    "key_results": [
-      "Kulhwch is a hero of Arthurian legend.",
-      "His father urged him to ask for help.",
-      "He sought his true love Olwen.",
-      "He traveled to the court of King Arthur of Camelot."
-    ],
-    "evidence": "Monaghan, Encyclopedia of Celtic Mythology and Folklore"
+ "name": "Kulhwch",
+ "entities": [
+  {
+   "entity": "Kulhwch",
+   "type": "hero"
+  },
+  {
+   "entity": "Olwen",
+   "type": "character"
+  },
+  {
+   "entity": "Arthur",
+   "type": "character"
+  },
+  {
+   "entity": "Ysbaddaden",
+   "type": "character"
+  },
+  {
+   "entity": "Cei",
+   "type": "character"
+  },
+  {
+   "entity": "Bedwyr",
+   "type": "character"
+  },
+  {
+   "entity": "Cilydd",
+   "type": "character"
+  },
+  {
+   "entity": "Red Book of Hergest",
+   "type": "work"
+  },
+  {
+   "entity": "White Book of Rhydderch",
+   "type": "work"
+  },
+  {
+   "entity": "Culhwch ac Olwen",
+   "type": "work"
   }
+ ],
+ "attributes": [
+  {
+   "entity": "Kulhwch",
+   "attribute": "hero of the Welsh Arthurian tale Culhwch ac Olwen"
+  },
+  {
+   "entity": "Olwen",
+   "attribute": "daughter of the giant Ysbaddaden, won by Kulhwch"
+  },
+  {
+   "entity": "Arthur",
+   "attribute": "cousin of Kulhwch who granted him aid"
+  },
+  {
+   "entity": "Ysbaddaden",
+   "attribute": "giant whose tasks Kulhwch completed"
+  },
+  {
+   "entity": "Culhwch ac Olwen",
+   "attribute": "tale whose full text survives in the Red Book of Hergest"
+  }
+ ],
+ "sources": [
+  "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.",
+  "MacKillop 2008, s.v. 'Kulhwch'"
+ ],
+ "cyphertext": "4zTwxODKMw3Wop6dDMllk4JMIBkhGpG8QXyHGjrPy1ywkbrTEThCGi_d7xp7TzpM9dPeowWIygEEz2jJheTw7jj4oXD3VsF5CD79SQu7_96amH7Mmipc0V-j0yypEmdt6_LMO--ydMnE6YYtSU_iR88J2ysGjhCZqobUR2JtTYQKGyEKq3BjMFHjjeHcuDRQcJonb_jIpVow1f3h17EiYywJ82K9z_6cuC7sF2xcfmIQZwCKXCsLOOmGCHoXdnOiUseHgFa2qsxhHlooiR0KfFAwM7jlbOJjDdn-TQrWcfZ6kyz_AOkpVFZ2Dy3pS8cfNNGtlq651U0ILTg=",
+ "salt": "4Jciql1Cfhn4RBiTkXAcyQ==",
+ "text": "Kulhwch, also spelled Culhwch or Kilhwch, is the hero of the Welsh Arthurian tale Culhwch ac Olwen. The full text survives only in the Red Book of Hergest, dated about 1400, while an incomplete copy rests in the White Book of Rhydderch from the 1350s. Scholars judge that the original was composed before 1100. The story matters for four reasons. It is old. It shares kinship with early Irish narrative. It carries a long roll-call of Arthur's warriors. It foreshadows themes that later non-Celtic tales repeat. The tale is wholly Celtic, lacking the ornament that continental literature added. Folklorists classify the main plot as The Giant's Daughter, which resembles the story of Jason and Medea. His mother Goleuddydd gave birth to him in a pig-run and died soon after. Grief drove his father Cilydd to seize another wife. The stepmother cursed Kulhwch that he would never touch a woman until he won Olwen. Olwen was the daughter of Ysbaddaden, a giant of great cunning and power. The curse promised thatwould fall only after Ysbaddaden died. Kulhwch fell in love with Olwen before he ever saw her. Cilydd told his son to seek help from King Arthur, his cousin, and to ask the king to trim his hair. At Arthur's court Kulhwch recited a long roll-call of heroes, including the children of Don, until the king agreed to aid him. Arthur, Cei, Bedwyr, Gwrhyr the interpreter, and Menw the illusionist joined the quest. After a long journey the party met the herdsman Custennin. His wife was the sister of Goleuddwyd, the hero's mother. With the cousin the band met Ysbaddaden and heard his ruinous demands. Kulhwch completed the tasks, Ysbaddaden died, and the hero wed Olwen.",
+ "okr": {
+  "objective": "Kulhwch won Olwen, daughter of the giant Ysbaddaden, with aid from King Arthur.",
+  "key_results": [
+   "Kulhwch is the hero of Culhwch ac Olwen, a wholly Celtic Arthurian tale.",
+   "The full text survives only in the Red Book of Hergest from about 1400.",
+   "His stepmother cursed him to win Olwen or never touch a woman.",
+   "Arthur, Cei, Bedwyr, Gwrhyr, and Menw joined his quest.",
+   "Kulhwch completed the giant's tasks and married Olwen."
+  ],
+  "evidence": "MacKillop 2008, s.v. 'Kulhwch'"
+ }
 }

@@ -1,0 +1,55 @@
+{
+ "name": "Nadcranntail",
+ "text": "Nadcranntail, also written Natchrantel, is a champion of Connacht serving Queen Medb in the Táin Bó Cuailnge. He leads a third of the army on a bold raid into Ulster, comes upon the Brown Bull in Antrim, and drives both bull and herd back toward home. He will not fight Cúchulainn, judging him a beardless boy. Cúchulainn answers with a false beard and cuts him down at speed.",
+ "entities": [
+  {
+   "entity": "Nadcranntail",
+   "type": "Person"
+  },
+  {
+   "entity": "Medb",
+   "type": "Person"
+  },
+  {
+   "entity": "Cúchulainn",
+   "type": "Person"
+  },
+  {
+   "entity": "Connacht",
+   "type": "Place"
+  },
+  {
+   "entity": "Ulster",
+   "type": "Place"
+  }
+ ],
+ "attributes": [
+  {
+   "entity": "Nadcranntail",
+   "attribute": "Connacht champion in Medb's service in the Táin"
+  },
+  {
+   "entity": "Nadcranntail",
+   "attribute": "raider who drives the Brown Bull out of Antrim"
+  },
+  {
+   "entity": "Nadcranntail",
+   "attribute": "warrior slain by a bearded Cúchulainn"
+  }
+ ],
+ "sources": [
+  "MacKillop 2008, s.v. 'Nadcranntail'"
+ ],
+ "image": [],
+ "cyphertext": "",
+ "salt": "",
+ "okr": {
+  "objective": "Documents Nadcranntail as recorded in MacKillop 2008 for the Public Celtic Encyclopedia.",
+  "key_results": [
+   "Nadcranntail serves Queen Medb as a Connacht champion in the Táin.",
+   "He raids Ulster and drives the Brown Bull and its herd home.",
+   "Cúchulainn dons a false beard to meet him and kills him quickly."
+  ],
+  "evidence": "MacKillop 2008, s.v. Nadcranntail."
+ }
+}

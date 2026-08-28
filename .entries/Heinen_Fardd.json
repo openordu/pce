@@ -1,0 +1,38 @@
+{
+  "name": "Heinen Fardd",
+  "text": "Heinen Fardd served as the leading poet at the court of the sixth-century king Maelgwn Gwynedd. In the Welsh story he is put to shame by the singer Taliesin. Taliesin proves himself the greater bard, and he comes to embarrass the court poet. The tale forms part of the contest between Taliesin and the poets who waited on Maelgwn. Heinen Fardd stands as the rival whom the young singer of wonders had to overcome.",
+  "entities": [
+    {
+      "entity": "Maelgwn Gwynedd",
+      "type": "Person"
+    },
+    {
+      "entity": "Taliesin",
+      "type": "Person"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Heinen Fardd",
+      "attribute": "chief poet of Maelgwn Gwynedd"
+    },
+    {
+      "entity": "Heinen Fardd",
+      "attribute": "disgraced by Taliesin"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Heinen Fardd'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Record Heinen Fardd.",
+    "key_results": [
+      "Name his rank in the court of Maelgwn.",
+      "Tell of his shame before Taliesin."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Heinen Fardd'"
+  }
+}

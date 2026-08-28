@@ -1,0 +1,39 @@
+{
+  "name": "Llwyd",
+  "text": "Llwyd, son of Cil Coed, is a magician of the Mabinogi who is humbled by Pwyll in the game called badger in the bag. As an enchanter he later tries to avenge that shame against the land of Dyfed.",
+  "entities": [
+    {
+      "entity": "Pwyll",
+      "type": "Person"
+    },
+    {
+      "entity": "Dyfed",
+      "type": "Region"
+    },
+    {
+      "entity": "Mabinogion",
+      "type": "Work"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Lloyd",
+      "attribute": "enchanter humbled by Pwyll in the Mabinogion"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Llwyd'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Record Llwyd.",
+    "key_results": [
+      "Name the magician's father.",
+      "State the game in which he is humbled.",
+      "Name the land he later ravages."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Llwyd'"
+  }
+}

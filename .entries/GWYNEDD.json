@@ -1,37 +1,88 @@
 {
-  "name": "GWYNEDD",
-  "text": "Gwynedd was a kingdom in the north-west of Wales (Cymru). It took shape as Roman command over Britain grew weaker. The oldest known trace of its name in a Latin shape, Venedotia, sits on a carved stone from the sixth century at Penmachno. That stone records a citizen of Gwynedd. The name comes from Celtic speech, though scholars differ on its exact sense. Some connect it with an Old Irish word for free men. Gwynedd looked to Snowdonia (Eryri) as its centre. That mass of mountains made the land simple to defend. King Maelgwn, ruling in the middle of the sixth century, is the first lord with written proof. A new royal line, led by Merfyn ap Gwriad, came to the throne in 825. His son Rhodri Mawr then drew other Welsh kingdoms under one hand, though only for his own years. Hywel Dda of Deheubarth took over, and Norse lords from Dublin may have held sway in the tenth and eleventh centuries. Revival came in 1039 with Gruffudd ap Llywelyn. He controlled more of Wales than any lord before or after him. Owain Gwynedd ruled from 1137 after his father Gruffudd ap Cynan passed on a stronger realm. Llywelyn ab Iorwerth came to stand out later. His grandson Llywelyn ap Gruffudd was acknowledged Prince of Wales under the 1267 pact of Montgomery. Two wars in 1276 and 1282 broke that power. Llywelyn fell in battle in 1282, and the English then took and killed his brother Dafydd in 1283, ending independence. The English crown took Gwynedd, and the statute of 1284 split it into three shires, Anglesey, Caernarfon, and Merioneth. Those three were joined again as the county of Gwynedd in 1974.",
-  "entities": [
-    {"entity": "GWYNEDD", "type": "Kingdom"},
-    {"entity": "Snowdonia", "type": "Place"},
-    {"entity": "Maelgwn", "type": "Person"},
-    {"entity": "Merfyn ap Gwriad", "type": "Person"},
-    {"entity": "Rhodri Mawr", "type": "Person"},
-    {"entity": "Hywel Dda", "type": "Person"},
-    {"entity": "Gruffudd ap Llywelyn", "type": "Person"},
-    {"entity": "Owain Gwynedd", "type": "Person"},
-    {"entity": "Llywelyn ap Iorwerth", "type": "Person"},
-    {"entity": "Llywelyn ap Gruffudd", "type": "Person"}
-  ],
-  "attributes": [
-    {"entity": "GWYNEDD", "attribute": "historic kingdom in north-west Wales"},
-    {"entity": "GWYNEDD", "attribute": "emerged as Roman control over Britain weakened"},
-    {"entity": "GWYNEDD", "attribute": "core heartland lay in the mountains of Snowdonia"},
-    {"entity": "GWYNEDD", "attribute": "split into three counties under the 1284 statute"},
-    {"entity": "Llywelyn ap Gruffudd", "attribute": "declared Prince of Wales in the 1267 treaty"},
-    {"entity": "Llywelyn ap Gruffudd", "attribute": "died in an action of 1282, ending native rule"}
-  ],
-  "sources": ["Koch 2006, s.v. 'Gwynedd'"],
-  "image": [],
-  "cyphertext": "",
-  "salt": "",
-  "okr": {
-    "objective": "Document Gwynedd as the historic kingdom of north-west Wales and its rulers.",
-    "key_results": [
-      "State the kingdom's rise as Roman power faded",
-      "Name its early kings from Maeldyn onward",
-      "Cover the end of independence in 1282-83 and the later re-division"
-    ],
-    "evidence": "Koch 2006, s.v. 'Gwynedd'"
+ "name": "GWYNEDD",
+ "text": "Gwynedd is a kingdom that once covered the north-west of Wales. In the years before shires were drawn the name could reach far across the land. Modern Gwynedd differs from the old kingdom in both size and shape. The present county took form in 1974 from several earlier shires. After Rome left, the first kingdom took hold along that coast. The Historia Brittonum says Cunedda began the royal house there. Later rulers came from the same line, including Maelgwn and Rhodri Mawr. Rhodri pressed his rule over three neighbouring lands. From Aberffraw the kings came to lead the smaller realms around them. Llywelyn ap Iorwerth brought the Welsh line to its greatest reach. Edward the First's conquest of Wales struck hardest at this region. Snowdon and many ranges stand here, and the walking is hard. The children of Don and the poet Taliesin both find a home in the tale. Math of Mathonwy rules here, and so does Lleu Llaw Gyffes.",
+ "entities": [
+  {
+   "entity": "GWYNEDD",
+   "type": "Kingdom"
+  },
+  {
+   "entity": "Snowdonia",
+   "type": "Place"
+  },
+  {
+   "entity": "Maelgwn",
+   "type": "Person"
+  },
+  {
+   "entity": "Merfyn ap Gwriad",
+   "type": "Person"
+  },
+  {
+   "entity": "Rhodri Mawr",
+   "type": "Person"
+  },
+  {
+   "entity": "Hywel Dda",
+   "type": "Person"
+  },
+  {
+   "entity": "Gruffudd ap Llywelyn",
+   "type": "Person"
+  },
+  {
+   "entity": "Owain Gwynedd",
+   "type": "Person"
+  },
+  {
+   "entity": "Llywelyn ap Iorwerth",
+   "type": "Person"
+  },
+  {
+   "entity": "Llywelyn ap Gruffudd",
+   "type": "Person"
   }
+ ],
+ "attributes": [
+  {
+   "entity": "GWYNEDD",
+   "attribute": "historic kingdom in north-west Wales"
+  },
+  {
+   "entity": "GWYNEDD",
+   "attribute": "emerged as Roman control over Britain weakened"
+  },
+  {
+   "entity": "GWYNEDD",
+   "attribute": "core heartland lay in the mountains of Snowdonia"
+  },
+  {
+   "entity": "GWYNEDD",
+   "attribute": "split into three counties under the 1284 statute"
+  },
+  {
+   "entity": "Llywelyn ap Gruffudd",
+   "attribute": "declared Prince of Wales in the 1267 treaty"
+  },
+  {
+   "entity": "Llywelyn ap Gruffudd",
+   "attribute": "died in an action of 1282, ending native rule"
+  }
+ ],
+ "sources": [
+  "Koch 2006, s.v. 'Gwynedd'",
+  "MacKillop 2008, s.v. 'Gwynedd'"
+ ],
+ "image": [],
+ "cyphertext": "",
+ "salt": "",
+ "okr": {
+  "objective": "Document Gwynedd as the historic kingdom of north-west Wales and its rulers.",
+  "key_results": [
+   "State the kingdom's rise as Roman power faded",
+   "Name its early kings from Maeldyn onward",
+   "Cover the end of independence in 1282-83 and the later re-division"
+  ],
+  "evidence": "Koch 2006, s.v. 'Gwynedd'"
+ }
 }

@@ -1,0 +1,47 @@
+{
+  "name": "Mag Muirtheimne",
+  "text": "Mag Muirtheimne, anglicized as Murthemne, is a coastal plain of the Irish Sea, set between Dundalk and Drogheda. It stands at the mouth of the Boyne River. Irish tradition makes it the inheritance of Cuchulainn, and the hero's Ulster stories root themselves in this landscape.",
+  "entities": [
+    {
+      "entity": "Mag Muirtheimne",
+      "type": "Place"
+    },
+    {
+      "entity": "Cuchulainn",
+      "type": "Person"
+    },
+    {
+      "entity": "Boyne River",
+      "type": "Place"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Mag Muirtheimne",
+      "attribute": "is anglicized as Murthemne"
+    },
+    {
+      "entity": "Mag Muirtheimne",
+      "attribute": "lies between Dundalk and Drogheda at the Boyne mouth"
+    },
+    {
+      "entity": "Cuchulainn",
+      "attribute": "holds Mag Muirtheimne as his inheritance"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Mag Muirtheimne'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Documents Mag Muirtheimne as Cuchulainn's home plain.",
+    "key_results": [
+      "Anglicized as Murthemne",
+      "Coastal plain between Dundalk and Drogheda",
+      "The inheritance of Cuchulainn"
+    ],
+    "evidence": "MacKillop 2008, s.v. Mag Muirtheimne."
+  }
+}

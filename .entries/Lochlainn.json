@@ -1,0 +1,77 @@
+{
+  "name": "Lochlainn",
+  "text": "Lochlainn names a realm of dangerous invaders, a land most often identified with Scandinavia and especially Norway. The spelling list is long, covering Lochlain, Lochlan, and Loughlan among its forms. Sir John Rhys argued in 1886 that the word first described a fabulous home beneath lakes or waters, occupied by hostile supernatural beings like the Fomorians of the Lebor Gabála Érenn. The Welsh cognate Llychlyn kept that underwater sense. After the Viking raids began in the eighth century, the term shifted to describe the Norse themselves. Modern Irish Lochlannach covers both the Scandinavian and the marauder. Scottish Gaelic Lochlann and Manx Loghlin mean Scandinavia. Fenian tales stage repeated invasions from this realm, most often under King Colgán. In Oidheadh Chlainne Tuireann, Lug Lámfhota orders the sons of Tuireann to raise three shouts on the hill of Miodhchaoin inside Lochlainn, the quest's hardest task. Irish folklore keeps a fascination with the city Berbha, also Berva, which commentators place at Bergen in Norway. That city is the home of the smith Lon mac Líomtha in the tales.",
+  "entities": [
+    {
+      "entity": "Lochlainn",
+      "type": "Place"
+    },
+    {
+      "entity": "Fomorians",
+      "type": "Group"
+    },
+    {
+      "entity": "Lebor Gabála Érenn",
+      "type": "Text"
+    },
+    {
+      "entity": "Llychlyn",
+      "type": "Place"
+    },
+    {
+      "entity": "Colgán",
+      "type": "Person"
+    },
+    {
+      "entity": "Lugh",
+      "type": "Deity"
+    },
+    {
+      "entity": "Tuireann",
+      "type": "Person"
+    },
+    {
+      "entity": "Oidheadh Chlainne Tuireann",
+      "type": "Text"
+    },
+    {
+      "entity": "Miodhchaoin",
+      "type": "Person"
+    },
+    {
+      "entity": "Lon mac Líomtha",
+      "type": "Person"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Lochlainn",
+      "attribute": "realm of dangerous invaders, usually equated with Scandinavia"
+    },
+    {
+      "entity": "Lochlainn",
+      "attribute": "Rhys 1886 theory of an under-lake abode of hostile beings"
+    },
+    {
+      "entity": "Lochlainn",
+      "attribute": "site of Miodhchaoin's hill in the sons-of-Tuireann quest"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Lochlainn'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Lochlainn names a realm of dangerous invaders, a land most often identified with Scandinavia and especially Norway",
+    "key_results": [
+      "Realm of dangerous invaders, usually Scandinavia or Norway",
+      "Rhys 1886 under-lake theory for its oldest sense",
+      "Term shifted to the Norse after eighth-century raids",
+      "Miodhchaoin's hill site in the sons-of-Tuireann quest",
+      "Folkloric city Berbha, likely Bergen, home of Lon mac Líomtha"
+    ],
+    "evidence": "MacKillop 2008, s.v. Lochlainn."
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "name": "May Day",
+  "text": "May Day, with May Eve, is handled in this dictionary under the festivals Beltane and Calan Mai. The cross-reference sends readers to those two entries for the customs and lore of the first of May.",
+  "entities": [
+    {
+      "entity": "May Day",
+      "type": "Concept"
+    },
+    {
+      "entity": "Beltane",
+      "type": "Concept"
+    },
+    {
+      "entity": "Calan Mai",
+      "type": "Concept"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "May Day",
+      "attribute": "dictionary coverage sits under Beltane and Calan Mai"
+    },
+    {
+      "entity": "May Day",
+      "attribute": "first-of-May festival point in the calendar"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'May Day'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Documents May Day as recorded in MacKillop 2008 for the Public Celtic Encyclopedia.",
+    "key_results": [
+      "May Day and May Eve redirect to Beltane.",
+      "They also redirect to Calan Mai.",
+      "Both targets carry the seasonal customs of the date."
+    ],
+    "evidence": "MacKillop 2008, s.v. May Day."
+  }
+}

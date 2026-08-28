@@ -1,0 +1,35 @@
+{
+  "name": "Lloegr",
+  "text": "Lloegr, also written Lloegyr, is the Welsh name for England. Welsh tradition sets England apart from the island as a whole, the latter being named Prydain, Britain.",
+  "entities": [
+    {
+      "entity": "England",
+      "type": "Region"
+    },
+    {
+      "entity": "Prydain",
+      "type": "Region"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Lloegr",
+      "attribute": "Welsh name for England"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Lloegr'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Record Lloegr.",
+    "key_results": [
+      "Name the country it marks.",
+      "Give the other spelling.",
+      "Name the Welsh title for Britain."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Lloegr'"
+  }
+}

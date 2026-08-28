@@ -1,0 +1,77 @@
+{
+  "name": "Lord of the Isles",
+  "text": "Lord of the Isles translates a title carried by rulers of the Hebrides. Somerled began that line of rulers and died in 1164. His successors held the lordship into the fifteenth century. Somerled crushed the Norse in battle during 1156. He then took the Gaelic title Ri Innse Gall. That phrase means king of the Hebrides. Latin usage rendered the title as Dominus Insularum by 1354. English adopted the form Lord of the Isles from that Latin rendering. A treaty struck with Edward IV of England first stripped the title away. It came back in 1476. The loss became permanent in 1493. Sir Walter Scott published his six-canto poem The Lord of the Isles in 1815. That poem sets its action in the age of Robert the Bruce.",
+  "entities": [
+    {
+      "entity": "Lord of the Isles",
+      "type": "Concept"
+    },
+    {
+      "entity": "Somerled",
+      "type": "Person"
+    },
+    {
+      "entity": "Hebrides",
+      "type": "Place"
+    },
+    {
+      "entity": "Ri Innse Gall",
+      "type": "Concept"
+    },
+    {
+      "entity": "Edward IV",
+      "type": "Person"
+    },
+    {
+      "entity": "Norse",
+      "type": "Group"
+    },
+    {
+      "entity": "The Lord of the Isles",
+      "type": "Text"
+    },
+    {
+      "entity": "Robert the Bruce",
+      "type": "Person"
+    },
+    {
+      "entity": "Sir Walter Scott",
+      "type": "Person"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Lord of the Isles",
+      "attribute": "English form of the Gaelic title Ri Innse Gall"
+    },
+    {
+      "entity": "Lord of the Isles",
+      "attribute": "Hebridean lordship held from Somerled's day until 1493"
+    },
+    {
+      "entity": "Somerled",
+      "attribute": "Defeated the Norse in 1156 and founded the lordship"
+    },
+    {
+      "entity": "The Lord of the Isles",
+      "attribute": "Sir Walter Scott's 1815 poem in six cantos, set in the age of Robert the Bruce"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Lord of the Isles'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Documents the Lord of the Isles title, its Gaelic and Latin forms, and its fate from Somerled to 1493.",
+    "key_results": [
+      "Somerled defeated the Norse in 1156 and took the title Ri Innse Gall.",
+      "Latin usage recorded Dominus Insularum by 1354.",
+      "A treaty with Edward IV removed the title, which returned in 1476.",
+      "The lordship ended for good in 1493.",
+      "Scott's 1815 poem fixed the title in Romantic print."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Lord of the Isles'."
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "name": "Lóeg",
+  "text": "Lóeg is a variant spelling of Láeg, the friend, messenger, and charioteer who serves Cúchulainn. Readers who meet the spelling with the acute accent on the first vowel should follow the main entry under Láeg. The form appears in the standard renderings of the Ulster material alongside the spellings Laeg and Láeg.",
+  "entities": [
+    {
+      "entity": "Lóeg",
+      "type": "Person"
+    },
+    {
+      "entity": "Láeg",
+      "type": "Person"
+    },
+    {
+      "entity": "Cúchulainn",
+      "type": "Person"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Lóeg",
+      "attribute": "variant spelling of the charioteer Láeg"
+    },
+    {
+      "entity": "Lóeg",
+      "attribute": "names the friend, messenger, and driver of Cúchulainn"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Lóeg'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Records Lóeg as a variant spelling of Láeg, Cúchulainn's charioteer.",
+    "key_results": [
+      "Variant spelling of Láeg",
+      "Láeg serves Cúchulainn as friend, messenger, and charioteer",
+      "The form sits beside Laeg among the standard spellings"
+    ],
+    "evidence": "MacKillop 2008, s.v. Lóeg."
+  }
+}

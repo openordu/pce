@@ -1,0 +1,35 @@
+{
+  "name": "Hergest",
+  "text": "Hergest is remembered for the book called the Red Book of Hergest. The Welsh title of the work is Llyfr Coch Hergest. The manuscript dates from about 1382 to 1410 and ranks among the great books of the Welsh. It holds the Mabinogi and the seven other tales that form the Mabinogion, with poetry, histories, grammars, and proverbs. It holds no works of religion and no laws. A careful scribe, Hywel Fychan son of Howel Goch of Fuellt, copied most of the leaves. The name Hergest comes from a manor in Herefordshire that kept the book from after 1465 until 1634. Since 1701 the volume has rested at Jesus College in Oxford. Hergest thus names a place and the leading store of the Welsh tales.",
+  "entities": [
+    {
+      "entity": "Mabinogi",
+      "type": "Work"
+    },
+    {
+      "entity": "Mabinogion",
+      "type": "Work"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Hergest",
+      "attribute": "namesake of the Red Book of Hergest"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Hergest'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Record Hergest.",
+    "key_results": [
+      "Name the Welsh title of the book.",
+      "Date the manuscript.",
+      "Tell where the book now rests."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Hergest'"
+  }
+}

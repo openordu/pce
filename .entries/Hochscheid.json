@@ -1,0 +1,39 @@
+{
+  "name": "Hochscheid",
+  "text": "Hochscheid is the name of a place in the valley of the Moselle. The site lies between the modern cities of Mainz and Trier. Here archaeologists found a rich healing shrine. The shrine was sacred to the goddess Sirona. The Treveri people, who lived along the Moselle, worshipped her with special care. Many objects from the shrine depict Sirona as a goddess of healing and fertility. She appears with a dog and other signs of her power. Hochscheid therefore records the worship of Sirona in the land of the Treveri.",
+  "entities": [
+    {
+      "entity": "Sirona",
+      "type": "Person"
+    },
+    {
+      "entity": "Treveri",
+      "type": "Group"
+    },
+    {
+      "entity": "Moselle",
+      "type": "Place"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Hochscheid",
+      "attribute": "site of a healing shrine of Sirona"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Hochscheid'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Record Hochscheid.",
+    "key_results": [
+      "Locate the site in the Moselle valley.",
+      "Name the goddess of the shrine.",
+      "Tell of the Treveri worship of Sirona."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Hochscheid'"
+  }
+}

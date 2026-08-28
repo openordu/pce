@@ -1,65 +1,67 @@
 {
- "name": "Lir",
- "entities": [
-  {
-   "entity": "Lir",
-   "type": "Person"
-  },
-  {
-   "entity": "Manannán",
-   "type": "Deity"
-  },
-  {
-   "entity": "Children of Lir",
-   "type": "Group"
-  },
-  {
-   "entity": "Three Sorrows of Ireland",
-   "type": "Concept"
-  },
-  {
-   "entity": "Aífe",
-   "type": "Person"
-  }
- ],
- "sources": [
-  "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
- ],
- "attributes": [
-  {
-   "entity": "Lir",
-   "attribute": "an Irish hero"
-  },
-  {
-   "entity": "Lir",
-   "attribute": "the father in the Children of Lir tale"
-  },
-  {
-   "entity": "Manannán",
-   "attribute": "called mac Lir or son of Lir"
-  },
-  {
-   "entity": "Children of Lir",
-   "attribute": "turned into swans by the jealous stepmother Aífe"
-  },
-  {
-   "entity": "Three Sorrows of Ireland",
-   "attribute": "the frame that holds the Lir story"
-  }
- ],
- "image": [
-  "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Children_of_Lir.jpg/1200px-Children_of_Lir.jpg"
- ],
- "cyphertext": "zY5FUIBYZ64sue9WW5RORjHvybPcY9ZijhkxZOaYmdhoiofazYTZPzT_jy9laCkeaaU6vG_4L4v8Kdx_27Y0f7er716gl92Tevyeay5ev58baz-SgcZ7q7wRCXtL6pMKrKlf5LrFvJAVhUQULBtWarIDYhz6AfRIu_C4GEEZvuP-Ck4lYx5QuojYKdY1v6UcQiavkkcbYsP9PAv-MGqbVmmrfhUkx2mpYDQel62k8JM6HO7SWpYiJFnAHVRVWXKiWVcuBBqaXHmT3LJrefXNaMKlMicJDN65Yjh65iIVNijFPvGIaEtaeI2Nbq-S4_-opgYEtS80UPloR87F_LIS8JY0Mt-LDLolZ0K-m1_15190lTs0nV3wB6k7H_yHdEVpXsdFKkZr14qCiZbrcooARv7BjOr1Jv168_ty2ls32hVzAhhkDphrPemIvN7LslsYGivZtZ2MJ14t2LSkFbro39NSzxR4HBEhzAbckoPWXkWIThnuQfBT6lGgz1w1u-hzsTKoMoB3ZnWCDq2DPJV_lTYBgyvU2L5SvZzzasd5Q8ncTFiwJOOY27MIarU5OTvSBIlUSUS0_2zLcwIwA-iSd_gbHeGXdDfgeBKAIiWcKt6L1wAu4VpWrWmWqC27BHIMFpBdEYfJmVjDUq3ePCrjv4TaoQ_4CEX4Ox0GlgGKO6cuRjX2WQOvuWiyInXSgbVZ5Q3L7Ll_t0VBeWSuKCYnvVCQrzgcx18ztaAdrF-_6Jj3MPAwjkCrRT_UKW0VkeJFKdPOBg072HYWjLhqxIPfJnZ7pBunOTEt6XjBaWXDX3DrQix4Qkl28H_dG46yFwWu30CelcIg0y2Ki1_Zhfcnajjn_Os8enBqGNdvNwp2nnuyPDTHizHLGulhykW4HKnw26gDOaQ1no7_aJHxf1ldKnV5--MePxa19OlCTiTdUsJ3YrcRV7A7Qs6awXTCsxtelee9YTNo8QW6gPAuHRKwZCNAnhNE16CuLIe9ileYuHrXj1bAZxVdCVohuoI9Uju4gS9vS7ho-M0BIINiqsCU2HP_K_oprWglJ0CDQY_7sh2wzUUnXZzu-rnWGwblPL1nV0ALXhcclppv9lD_IiioRL12Gq6RaMWsKBLwDPPu_eQXChMhHPab3IPZsuViEarLOCyW4HPiC0cBiD3OsbDYWpR95R1wIXN6ITpBpnF5S64dnl8jC5upm3eqmS5jw1-nmV9z8Z07BGq_sSM1-AoO9O1cxOQSGYbQxr1bqsrQry5aOWMKs69Anj7Andl6wHb4V38DLpb-X9SiLrR4P60WprdwcAEW2k-rGw==",
- "salt": "n4T3ab9LasOXPy3DJsVxAQ==",
- "text": "Lir (Lear) is an Irish hero and the father in the story of the Children of Lir. The great Irish sea god Manannán was called mac Lir, which means son of Lir. Yet it is not entirely clear who Lir himself was. Some scholars think he was a former sea deity taken into the myths of an invading people. Lir is read for his children, changed by their stepmother Aífe into swans, and for the Three Sorrows of Ireland.",
- "okr": {
-  "objective": "Give a clear account of Lir and his family place in Celtic myth.",
-  "key_results": [
-   "Name Lir an Irish hero and father in the Lir tale.",
-   "Record Manannán as the one called son of Lir.",
-   "Keep the link to the children of Lir and Aífe."
+  "name": "Lir",
+  "entities": [
+    {
+      "entity": "Lir",
+      "type": "Person"
+    },
+    {
+      "entity": "Manannán",
+      "type": "Deity"
+    },
+    {
+      "entity": "Children of Lir",
+      "type": "Group"
+    },
+    {
+      "entity": "Three Sorrows of Ireland",
+      "type": "Concept"
+    },
+    {
+      "entity": "Aífe",
+      "type": "Person"
+    }
   ],
-  "evidence": "Monaghan 2008, s.v. Lir and s.v. Children of Lir."
- }
+  "sources": [
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.",
+    "MacKillop 2008, s.v. 'Lir'."
+  ],
+  "attributes": [
+    {
+      "entity": "Lir",
+      "attribute": "an Irish hero"
+    },
+    {
+      "entity": "Lir",
+      "attribute": "the father in the Children of Lir tale"
+    },
+    {
+      "entity": "Manannán",
+      "attribute": "called mac Lir or son of Lir"
+    },
+    {
+      "entity": "Children of Lir",
+      "attribute": "turned into swans by the jealous stepmother Aífe"
+    },
+    {
+      "entity": "Three Sorrows of Ireland",
+      "attribute": "the frame that holds the Lir story"
+    }
+  ],
+  "image": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Children_of_Lir.jpg/1200px-Children_of_Lir.jpg"
+  ],
+  "cyphertext": "zY5FUIBYZ64sue9WW5RORjHvybPcY9ZijhkxZOaYmdhoiofazYTZPzT_jy9laCkeaaU6vG_4L4v8Kdx_27Y0f7er716gl92Tevyeay5ev58baz-SgcZ7q7wRCXtL6pMKrKlf5LrFvJAVhUQULBtWarIDYhz6AfRIu_C4GEEZvuP-Ck4lYx5QuojYKdY1v6UcQiavkkcbYsP9PAv-MGqbVmmrfhUkx2mpYDQel62k8JM6HO7SWpYiJFnAHVRVWXKiWVcuBBqaXHmT3LJrefXNaMKlMicJDN65Yjh65iIVNijFPvGIaEtaeI2Nbq-S4_-opgYEtS80UPloR87F_LIS8JY0Mt-LDLolZ0K-m1_15190lTs0nV3wB6k7H_yHdEVpXsdFKkZr14qCiZbrcooARv7BjOr1Jv168_ty2ls32hVzAhhkDphrPemIvN7LslsYGivZtZ2MJ14t2LSkFbro39NSzxR4HBEhzAbckoPWXkWIThnuQfBT6lGgz1w1u-hzsTKoMoB3ZnWCDq2DPJV_lTYBgyvU2L5SvZzzasd5Q8ncTFiwJOOY27MIarU5OTvSBIlUSUS0_2zLcwIwA-iSd_gbHeGXdDfgeBKAIiWcKt6L1wAu4VpWrWmWqC27BHIMFpBdEYfJmVjDUq3ePCrjv4TaoQ_4CEX4Ox0GlgGKO6cuRjX2WQOvuWiyInXSgbVZ5Q3L7Ll_t0VBeWSuKCYnvVCQrzgcx18ztaAdrF-_6Jj3MPAwjkCrRT_UKW0VkeJFKdPOBg072HYWjLhqxIPfJnZ7pBunOTEt6XjBaWXDX3DrQix4Qkl28H_dG46yFwWu30CelcIg0y2Ki1_Zhfcnajjn_Os8enBqGNdvNwp2nnuyPDTHizHLGulhykW4HKnw26gDOaQ1no7_aJHxf1ldKnV5--MePxa19OlCTiTdUsJ3YrcRV7A7Qs6awXTCsxtelee9YTNo8QW6gPAuHRKwZCNAnhNE16CuLIe9ileYuHrXj1bAZxVdCVohuoI9Uju4gS9vS7ho-M0BIINiqsCU2HP_K_oprWglJ0CDQY_7sh2wzUUnXZzu-rnWGwblPL1nV0ALXhcclppv9lD_IiioRL12Gq6RaMWsKBLwDPPu_eQXChMhHPab3IPZsuViEarLOCyW4HPiC0cBiD3OsbDYWpR95R1wIXN6ITpBpnF5S64dnl8jC5upm3eqmS5jw1-nmV9z8Z07BGq_sSM1-AoO9O1cxOQSGYbQxr1bqsrQry5aOWMKs69Anj7Andl6wHb4V38DLpb-X9SiLrR4P60WprdwcAEW2k-rGw==",
+  "salt": "n4T3ab9LasOXPy3DJsVxAQ==",
+  "text": "Lir is an Irish figure of tale and name. He is best known as the father in Oidheadh Chlainne Lir, the tale of the Children of Lir. In that story his four children are changed into swans by their stepmother Aífe. The tale is counted among the three great sorrows of Ireland. Lir has a second, older sense in the Irish tongue. The old word ler means the sea. The sea god Manannán is called mac Lir, or son of the sea. In Manx tradition the name appears as Leirr. Lir's granddaughter is Sinann, the goddess of the Shannon. The same root gives the Welsh figure Llŷr, whose name also means the sea. Llŷr appears as the father of Manawydan and Bendigeidfran in the Mabinogi. Scholars think Llŷr was borrowed from the Irish Lir. It is not fully clear who the human Lir was in his own right. Some think he was once a sea deity of an older people. He entered the later myths of an invading culture. He lives on chiefly through the sorrow of his children and through the name of Manannán. Both strands keep Lir close to the water and to grief. The swan-children he lost still wander the cold lakes of the old story, and the sea still bears his name in the title of its great god. Yet the greatest grief is that the children he loved pass, age by age, as the long years turn. The sea retains his name and the sorrow of his transformed children.",
+  "okr": {
+    "objective": "give a clear account of Lir and his place in Celtic myth",
+    "key_results": [
+      "name Lir the father in the Children of Lir tale",
+      "explain ler as the old Irish word for sea",
+      "connect Manannán mac Lir and the goddess Sinann",
+      "link the name to the Welsh Llŷr"
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Lir'"
+  }
 }

@@ -1,0 +1,55 @@
+{
+  "name": "Mag Slécht",
+  "text": "Mag Slécht, also written Magh Sieacht and anglicized as Moyslaught, is an expanse of flat land in County Cavan. It lies one mile north-east of Ballymagauran. The plain is best remembered as the worship site of Crom Cruach, the idol that demanded human sacrifice at the festival of Samain in pre-Christian times.\n\nTradition holds that Crom bowed in the end to the superior power of Saint Patrick. Even so, a festival called Domhnach Croim Dhuibh, the Sunday of Black Crom, kept its hold on the area. It was held each year on the final Sunday of July and survived into the early twentieth century.",
+  "entities": [
+    {
+      "entity": "Mag Slécht",
+      "type": "Place"
+    },
+    {
+      "entity": "Crom Cruach",
+      "type": "Deity"
+    },
+    {
+      "entity": "Patrick",
+      "type": "Person"
+    },
+    {
+      "entity": "Samain",
+      "type": "Concept"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Mag Slécht",
+      "attribute": "is a flat expanse in County Cavan near Ballymagauran"
+    },
+    {
+      "entity": "Mag Slécht",
+      "attribute": "was the worship site of the idol Crom Cruach"
+    },
+    {
+      "entity": "Crom Cruach",
+      "attribute": "received human sacrifice at Samain on Mag Slecht"
+    },
+    {
+      "entity": "Patrick",
+      "attribute": "broke the cult of Crom on Mag Slecht"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Mag Slécht'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Documents Mag Slecht as the cult site of Crom Cruach.",
+    "key_results": [
+      "Flat land in County Cavan, near Ballymagauran",
+      "Site of Crom Cruach's human sacrifices at Samain",
+      "The Domhnach Croim Dhuibh festival survived into the 1900s"
+    ],
+    "evidence": "MacKillop 2008, s.v. Mag Slécht."
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "name": "Killaloe",
+  "text": "Killaloe is a small market town in County Clare on the western bank of the Shannon. It began as a notable medieval ecclesiastical centre and later became the site of Kincora, the fortress of Brian Bórama. Its ties with the Dál Cais precede Brian. It also served as the capital of the mythical Bodb Derg. Part of its ruins were moved from Friar's Island when a hydroelectric project flooded the area in 1929. A separate Killaloe lies in County Kilkenny.",
+  "entities": [
+    {
+      "entity": "Count Clare",
+      "type": "Region"
+    },
+    {
+      "entity": "Shannon",
+      "type": "Place"
+    },
+    {
+      "entity": "Kincora",
+      "type": "Place"
+    },
+    {
+      "entity": "Brian Bórama",
+      "type": "Person"
+    },
+    {
+      "entity": "Dál Cais",
+      "type": "Group"
+    },
+    {
+      "entity": "Bodb Derg",
+      "type": "Person"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Killaloe",
+      "attribute": "market town in County Clare"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Killaloe'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Record Killaloe.",
+    "key_results": [
+      "Set the town on the Shannon.",
+      "Name the fortress built there.",
+      "Name the mythical king of the town."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Killaloe'"
+  }
+}

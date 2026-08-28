@@ -1,0 +1,46 @@
+{
+ "name": "Mumain",
+ "text": "Mumain is a variant form of the goddess name Mugain. The dictionary adds a second pointer to Mór Muman, the Munster goddess who now and then takes Mumain as her name alone.",
+ "entities": [
+  {
+   "entity": "Mumain",
+   "type": "Person"
+  },
+  {
+   "entity": "Mugain",
+   "type": "Person"
+  },
+  {
+   "entity": "Mór Muman",
+   "type": "Person"
+  },
+  {
+   "entity": "Munster",
+   "type": "Place"
+  }
+ ],
+ "attributes": [
+  {
+   "entity": "Mumain",
+   "attribute": "variant form of the name Mugain"
+  },
+  {
+   "entity": "Mumain",
+   "attribute": "name carried alone at times by the goddess Mór Muman"
+  }
+ ],
+ "sources": [
+  "MacKillop 2008, s.v. 'Mumain'"
+ ],
+ "image": [],
+ "cyphertext": "",
+ "salt": "",
+ "okr": {
+  "objective": "Documents Mumain as recorded in MacKillop 2008 for the Public Celtic Encyclopedia.",
+  "key_results": [
+   "Mumain is a variant of the name Mugain.",
+   "The dictionary routes the name also toward Mór Muman."
+  ],
+  "evidence": "MacKillop 2008, s.v. Mumain."
+ }
+}

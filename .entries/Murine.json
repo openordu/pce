@@ -1,0 +1,42 @@
+{
+ "name": "Murine",
+ "text": "Murine is an anglicized form of the name Muirenn Muncháem, mother of the hero Fionn mac Cumhaill.",
+ "entities": [
+  {
+   "entity": "Murine",
+   "type": "Person"
+  },
+  {
+   "entity": "Muirenn Muncháem",
+   "type": "Person"
+  },
+  {
+   "entity": "Fionn mac Cumhaill",
+   "type": "Person"
+  }
+ ],
+ "attributes": [
+  {
+   "entity": "Murine",
+   "attribute": "anglicization of Muirenn Muncháem"
+  },
+  {
+   "entity": "Murine",
+   "attribute": "name of Fionn mac Cumhaill's mother in English texts"
+  }
+ ],
+ "sources": [
+  "MacKillop 2008, s.v. 'Murine'"
+ ],
+ "image": [],
+ "cyphertext": "",
+ "salt": "",
+ "okr": {
+  "objective": "Documents Murine as recorded in MacKillop 2008 for the Public Celtic Encyclopedia.",
+  "key_results": [
+   "Murine renders Muirenn Muncháem in English.",
+   "The name belongs to Fionn mac Cumhaill's mother."
+  ],
+  "evidence": "MacKillop 2008, s.v. Murine."
+ }
+}

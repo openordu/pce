@@ -1,0 +1,42 @@
+{
+  "name": "Miles",
+  "text": "Miles is an occasional anglicization of Míl Espáine, the eponymous ancestor of the Milesians. The form shows up where English retellings reach the ancestral genealogy.",
+  "entities": [
+    {
+      "entity": "Miles",
+      "type": "Person"
+    },
+    {
+      "entity": "Míl",
+      "type": "Person"
+    },
+    {
+      "entity": "Milesians",
+      "type": "Group"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Miles",
+      "attribute": "occasional anglicization of Míl Espáine"
+    },
+    {
+      "entity": "Miles",
+      "attribute": "English dress of the Milesian ancestor's name"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Miles'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Documents Miles as recorded in MacKillop 2008 for the Public Celtic Encyclopedia.",
+    "key_results": [
+      "Miles renders Míl Espáine in English dress.",
+      "Míl is the ancestor the Milesians take their name from."
+    ],
+    "evidence": "MacKillop 2008, s.v. Miles."
+  }
+}

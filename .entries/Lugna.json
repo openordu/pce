@@ -1,0 +1,59 @@
+{
+  "name": "Lugna",
+  "text": "Lugna is a king of Connacht and a diminutive of the name Lug. He fostered the infant Cormac mac Airt. Étaín became pregnant by Art mac Cuinn and received the instruction that Lugna should foster her child. When she bore the boy, a she-wolf first carried him off. Lugna took up his duties only after that first episode.",
+  "entities": [
+    {
+      "entity": "Lugna",
+      "type": "Person"
+    },
+    {
+      "entity": "Lugh",
+      "type": "Deity"
+    },
+    {
+      "entity": "Connacht",
+      "type": "Place"
+    },
+    {
+      "entity": "Cormac mac Airt",
+      "type": "Person"
+    },
+    {
+      "entity": "Étain",
+      "type": "Person"
+    },
+    {
+      "entity": "Art mac Cuinn",
+      "type": "Person"
+    }
+  ],
+  "attributes": [
+    [
+      "Lugna",
+      "king of Connacht, name a diminutive of Lug"
+    ],
+    [
+      "Lugna",
+      "designated foster-father of the infant Cormac mac Airt"
+    ],
+    [
+      "Lugna",
+      "assumed his fostering duties after a she-wolf first took the newborn"
+    ]
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Lugna'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Documents Lugna, the Connacht king designated to foster the infant Cormac mac Airt.",
+    "key_results": [
+      "King of Connacht; name is a diminutive of Lug.",
+      "Étaín was instructed to have her child by Art mac Cuinn fostered by him.",
+      "A she-wolf first took the newborn before Lugna assumed his responsibilities."
+    ],
+    "evidence": "MacKillop 2008, s.v. Lugna."
+  }
+}

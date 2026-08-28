@@ -1,0 +1,47 @@
+{
+  "name": "Mo Cháemóc",
+  "text": "Mo Cháemóc, also styled St Caemhoc, Kemoc, Kevoge, or Kevoca, was a disciple of St Patrick. In Oidheadh Chlainne Lir, the tale of the Lir children's tragedy, Mo Cháemóc is the one who carries the Christian faith to the Children of Lir.",
+  "entities": [
+    {
+      "entity": "Mo Cháemóc",
+      "type": "Person"
+    },
+    {
+      "entity": "Patrick",
+      "type": "Person"
+    },
+    {
+      "entity": "Children of Lir",
+      "type": "Group"
+    },
+    {
+      "entity": "Oidheadh Chlainne Lir",
+      "type": "Text"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Mo Cháemóc",
+      "attribute": "disciple of St Patrick"
+    },
+    {
+      "entity": "Mo Cháemóc",
+      "attribute": "variants St Caemhoc, Kemoc, Kevoge, Kevoca"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Mo Cháemóc'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Documents Mo Cháemóc as recorded in MacKillop 2008 for the Public Celtic Encyclopedia.",
+    "key_results": [
+      "Mo Cháemóc was a disciple of St Patrick.",
+      "In Oidheadh Chlainne Lir he brings Christianity to the Children of Lir.",
+      "His name appears in several saintly spellings."
+    ],
+    "evidence": "MacKillop 2008, s.v. Mo Cháemóc."
+  }
+}

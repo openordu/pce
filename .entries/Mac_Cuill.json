@@ -1,65 +1,88 @@
 {
-  "name": "Mac Cuill",
-  "attributes": [
-    {
-      "entity": "Mac Cuill",
-      "attribute": "an Irish god and the husband of the land goddess Banba"
-    },
-    {
-      "entity": "Mac Cuill",
-      "attribute": "his name meant Son of Holly, a plant associated with winter"
-    },
-    {
-      "entity": "Banba",
-      "attribute": "the land goddess who was the wife of Mac Cuill"
-    },
-    {
-      "entity": "Mac Cécht",
-      "attribute": "a brother in the trio of parallel gods"
-    },
-    {
-      "entity": "Mac Gréine",
-      "attribute": "a brother in the trio of parallel gods"
-    }
-  ],
-  "entities": [
-    {
-      "entity": "Mac Cuill",
-      "type": "Being"
-    },
-    {
-      "entity": "Banba",
-      "type": "Being"
-    },
-    {
-      "entity": "Mac Cécht",
-      "type": "Being"
-    },
-    {
-      "entity": "Mac Gréine",
-      "type": "Being"
-    },
-    {
-      "entity": "Holly",
-      "type": "Concept"
-    }
-  ],
-  "sources": [
-    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-  ],
-  "cyphertext": "2l9qsuv0Z3DvtXtbRkP1maO7EB113UU-jxKjxyXDMsP7BwJ-b3hniSfE13w2li3FDghCFRYFmbk4GFBSo651bmgjkkcycm1BLvH90TebCnQOUSdRiYaNuVThu85E5mOyorRlcrH_gvjRtwx227QpD1ij4QkI63a3ajWGix63PSpRhEyPBmwcmGWxxi15_5cblk_wPjCnud5A-lDp1xT0xJbDfQiv5X4cLK2jtEfKLTdPJAW3aSKMJ7FMzMEfiPb_nf6isUxJcsKtSffm-nAZyFlXo11gbU1vQx_yFBcCopVcGRdNplBuGCF_A54vaT9IHJLjTm0c8PRwxZ9FB0NmGlvQ0siYZeOYfzZVdOZaCm68tRbbh8Y0tu_d6FC9APSico6Ia3FrvGbwdjQVOEkrO_dzUOZBtKtS2HBT4DtPULWZogp_LuwxC5jGZSWjuxg2E23yqk-IiFQI1v41hQSLH7lDIlLEqDkPSYh9unLWBDT4iSSFboDFQggVGNM1p3S0oiOIhv1f2TsA2LnW",
-  "salt": "7CeW23o3KsKE9bghEV6ecg==",
-  "text": "Mac Cuill was an Irish god. He was the husband of the land goddess Banba. His name meant Son of Holly, a plant associated with winter, which suggests a link to that season. With his brothers Mac Cécht and Mac Gréine he belonged to a trio of parallel gods. Each brother was the consort of one of the three important land goddesses. Koch calls him Etar Mac Cuill, Son of Hazel.",
-  "okr": {
-    "objective": "Document Mac Cuill as an Irish god and consort of the land goddess Banba.",
-    "key_results": [
-      "Record him as the husband of the land goddess Banba.",
-      "Record the meaning of his name, Son of Holly.",
-      "Record his place in the trio of parallel gods."
-    ],
-    "evidence": [
-      "Monaghan, P. The Encyclopedia of Celtic Mythology and Folklore (2008): Mac Cuill entry.",
-      "Koch, J. T. Encyclopedia of Celtic Culture (2006): Banba as the consort of Etar Mac Cuill, Son of Hazel."
-    ]
+ "name": "Mac Cuill",
+ "cyphertext": "2l9qsuv0Z3DvtXtbRkP1maO7EB113UU-jxKjxyXDMsP7BwJ-b3hniSfE13w2li3FDghCFRYFmbk4GFBSo651bmgjkkcycm1BLvH90TebCnQOUSdRiYaNuVThu85E5mOyorRlcrH_gvjRtwx227QpD1ij4QkI63a3ajWGix63PSpRhEyPBmwcmGWxxi15_5cblk_wPjCnud5A-lDp1xT0xJbDfQiv5X4cLK2jtEfKLTdPJAW3aSKMJ7FMzMEfiPb_nf6isUxJcsKtSffm-nAZyFlXo11gbU1vQx_yFBcCopVcGRdNplBuGCF_A54vaT9IHJLjTm0c8PRwxZ9FB0NmGlvQ0siYZeOYfzZVdOZaCm68tRbbh8Y0tu_d6FC9APSico6Ia3FrvGbwdjQVOEkrO_dzUOZBtKtS2HBT4DtPULWZogp_LuwxC5jGZSWjuxg2E23yqk-IiFQI1v41hQSLH7lDIlLEqDkPSYh9unLWBDT4iSSFboDFQggVGNM1p3S0oiOIhv1f2TsA2LnW",
+ "salt": "7CeW23o3KsKE9bghEV6ecg==",
+ "text": "Mac Cuill is a king and a warrior of the Tuatha Dé Danann. His name means the son of the hazel. He heads the trio of brothers who slew the great hero Lug Lámfhota. His siblings Mac Cécht and Mac Gréine shared in the deed. The three acted to avenge Cermait, their father, whom Lug had slain. Earlier his mother had been the wife of Cian, the father of Lug himself. MacKillop records Mac Cuill as husband to Banba, one embodiment of the land of Ireland. In Christian Irish writing he stands as a champion of the old belief against Saint Patrick. The Life of Patrick by Muirchú, set down in the seventh century, tells the tale. The saint, wielding the greater power, converted Mac Cuill to the new faith. As penance Patrick set him adrift in a skin boat without rudder or oar. The craft carried him to the Isle of Man, where he turned missionary. Out of this episode grew the person of the Manx saint Maughold.\n",
+ "entities": [
+  {
+   "entity": "Mac Cuill",
+   "type": "Person"
+  },
+  {
+   "entity": "Banba",
+   "type": "Deity"
+  },
+  {
+   "entity": "Mac Cécht",
+   "type": "Person"
+  },
+  {
+   "entity": "Mac Gréine",
+   "type": "Person"
+  },
+  {
+   "entity": "Cermait",
+   "type": "Person"
+  },
+  {
+   "entity": "Lug",
+   "type": "Person"
+  },
+  {
+   "entity": "Tuatha Dé Danann",
+   "type": "Group"
+  },
+  {
+   "entity": "Patrick",
+   "type": "Person"
+  },
+  {
+   "entity": "Maughold",
+   "type": "Person"
+  },
+  {
+   "entity": "Ireland",
+   "type": "Place"
   }
+ ],
+ "attributes": [
+  {
+   "entity": "Mac Cuill",
+   "attribute": "a king and warrior of the Tuatha Dé Danann"
+  },
+  {
+   "entity": "Mac Cuill",
+   "attribute": "the first of the three brothers who kill Lug"
+  },
+  {
+   "entity": "Mac Cuill",
+   "attribute": "the husband of the land goddess Banba"
+  },
+  {
+   "entity": "Mac Cuill",
+   "attribute": "converted by Patrick and cast adrift in a boat"
+  },
+  {
+   "entity": "Banba",
+   "attribute": "the land goddess who belongs to Mac Cuill"
+  },
+  {
+   "entity": "Cermait",
+   "attribute": "the father of the brothers, killed by Lug"
+  }
+ ],
+ "sources": [
+  "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.",
+  "MacKillop 2008, s.v. 'Mac Cuill'"
+ ],
+ "okr": {
+  "objective": "Document Mac Cuill as a god of the Tuatha and the husband of Banba.",
+  "key_results": [
+   "Record the meaning of his name as son of the hazel",
+   "Record his role in the killing of Lug with his brothers",
+   "Record his standing as the husband of the land goddess Banba",
+   "Record his conversion by Patrick and the drift to the Isle of Man"
+  ],
+  "evidence": "MacKillop 2008, s.v. 'Mac Cuill'"
+ }
 }

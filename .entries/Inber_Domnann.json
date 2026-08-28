@@ -1,0 +1,23 @@
+{
+  "name": "Inber Domnann",
+  "text": "Inber Domnann is the old Irish name for Malahide Bay. The bay lies on the coast north of Dublin. The name comes from the Domnainn, a people of the Laginian settlement. Both the Fir Bolg and the king Tuathal Techtmar also land here in the old accounts. The inlet is one of several by this title in early Irish story.",
+  "entities": [
+    {"entity": "Inber Domnann", "type": "Place"},
+    {"entity": "Malahide", "type": "Place"},
+    {"entity": "Domnainn", "type": "Group"},
+    {"entity": "Fir Bolg", "type": "Group"},
+    {"entity": "Tuathal Techtmar", "type": "Person"}
+  ],
+  "attributes": [
+    {"entity": "Inber Domnann", "attribute": "old Irish name for Malahide Bay"}
+  ],
+  "sources": ["MacKillop 2008, s.v. 'Inber Domnann'"],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Record Inber Domnann.",
+    "key_results": ["Locate the bay north of Dublin.", "Name the people of the title.", "Recall the landings there."],
+    "evidence": "MacKillop 2008, s.v. 'Inber Domnann'"
+  }
+}

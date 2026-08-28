@@ -1,0 +1,43 @@
+{
+  "name": "Linn Féic",
+  "text": "Linn Féic is a pool in the River Boyne, in the region of Slane in County Meath. It was one of two spots where Fionn mac Cumhaill found the Salmon of Wisdom. The place is known today as Fiac's Pool, named after a man who drowned here. The same ground later held the Battle of the Boyne in 1690.",
+  "entities": [
+    {
+      "entity": "Boyne",
+      "type": "Place"
+    },
+    {
+      "entity": "Meath",
+      "type": "Region"
+    },
+    {
+      "entity": "Fionn mac Cumhaill",
+      "type": "Person"
+    },
+    {
+      "entity": "Salmon of Wisdom",
+      "type": "Creature"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Linn Féic",
+      "attribute": "pool in the Boyne where Fionn met the Salmon of Wisdom"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Linn Féic'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Record Linn Féic.",
+    "key_results": [
+      "Name the river where the pool lies.",
+      "Tell what Fionn found there.",
+      "Name the 1690 battle on the site."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Linn Féic'"
+  }
+}

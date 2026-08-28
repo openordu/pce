@@ -1,0 +1,35 @@
+{
+  "name": "Korentin",
+  "text": "Korentin is the prelate of Quimper in the Breton story of the sunken city of Ys. He owns a fish that he can eat on one day and find whole again on the next. The wonder marks him as a keeper of endless supply.",
+  "entities": [
+    {
+      "entity": "Ys",
+      "type": "Place"
+    },
+    {
+      "entity": "Quimper",
+      "type": "Place"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Korentin",
+      "attribute": "bishop of Quimper in the legend of Ys"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Korentin'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Record Korentin.",
+    "key_results": [
+      "Name his see.",
+      "Tell what his fish can do.",
+      "Name the city his story touches."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Korentin'"
+  }
+}

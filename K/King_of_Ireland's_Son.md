@@ -1,0 +1,30 @@
+---
+layout: layouts/pce.njk
+title: King of Ireland's Son
+icon: file-lines
+order: 0
+contributors: [ 'Christopher Godwin' ]
+attributes:
+  - King of Ireland's Son title of an Irish story
+categories:
+  - Region
+entities:
+  - Ireland(Region)
+tags:
+  - Ireland
+---
+``` tab [group1:Info]
+::: magazinestyle
+The King of Ireland's Son is the common English name for a modern Irish oral tale. Its native title is Mac Rígh Éireann, and some versions also call it the Son of an Irish king. The story gives a complete Celtic case of the grateful-dead pattern, which folklorists list as E341. The text also holds an exceptional run of standard folk motifs from beyond the islands. One winter day the prince shoots a raven. He admires that nothing looks redder than its blood spread on snow, and that little is darker than its feather. The vision makes him long for a woman's beauty. He swears he will marry a lady with raven-black hair, snow-white skin, and blood-red cheeks. He finds that such a woman lives in the east, so he departs to seek her. On the way he stops at a burial. The dead man lay unburied because he owed money. The prince pays the debt, buries the corpse, and rides on. A short man dressed in green then catches up and asks only for the first kiss from the lady once she is won. Other unusual fellows join them. One sees across vast distance. One listens to the grass as it sprouts. A runner keeps a cord on one leg. A blower pinches his nose shut. A strong man grinds stones into dust. These seven together defeat every trial. The eastern princess's castle is ringed by the skulls of her failed lovers set on posts. The lady herself turns out kind, and she promises to wed the prince if he frees her from her enchantment. She hands him small gifts to hold each night, and the green man guards them for him. On a following night the test becomes cruel. The prince must give back a comb and the head of the man who used it. The guard called the king of poison wraps the comb in a rock bound by sixty bolts and watches it himself. The green man cleaves the rock in a single blow and takes the guard's head. The last test demands a messenger race west to fetch three pots of healing salve and outrun the lady's own courier. The prince's runner wins. In the end the lady agrees to become his wife. The green man then claims the first kiss owed to him. He carries the woman into a hall full of snakes and does away with them. He tells the prince that he is the dead debtor whose bill was paid. His service finished, he leaves forever.
+
+:::
+```
+``` tab [group1:Attributes]
+- **King of Ireland's Son**: title of an Irish story
+```
+``` tab [group1:Entities]
+- **Ireland**: Region
+```
+``` tab [group1:Sources]
+- MacKillop 2008, s.v. 'King of Ireland's Son'
+```

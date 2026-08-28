@@ -1,0 +1,43 @@
+{
+  "name": "Iliann",
+  "text": "Iliann is a corrupt spelling of the name Illann. The name Illann belonged to a number of early Irish rulers, scholars, and warriors. It appears frequently among the Fianna. One son of Fionn mac Cumhaill carried the name Illann, also written Iollann. Some texts hold that the warrior Goll mac Morna may first have been called Illann. Iliann therefore stands as one of the many spellings of this old Irish name.",
+  "entities": [
+    {
+      "entity": "Illann",
+      "type": "Person"
+    },
+    {
+      "entity": "Fianna",
+      "type": "Group"
+    },
+    {
+      "entity": "Fionn mac Cumhaill",
+      "type": "Person"
+    },
+    {
+      "entity": "Goll mac Morna",
+      "type": "Person"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Iliann",
+      "attribute": "corrupt spelling of Illann"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Iliann'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Record Iliann.",
+    "key_results": [
+      "Give the correct spelling of the name.",
+      "List who bore it.",
+      "Tell of Fionn's son named Illann."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Iliann'"
+  }
+}

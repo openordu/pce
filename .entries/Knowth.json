@@ -1,50 +1,109 @@
 {
-  "name": "Knowth",
-  "attributes": [
-    {
-      "entity": "Knowth",
-      "attribute": "Irish mythological site"
-    },
-    {
-      "entity": "rock art",
-      "attribute": "the finest in Europe"
-    },
-    {
-      "entity": "Knowth",
-      "attribute": "recently opened to the public"
-    }
-  ],
-  "entities": [
-    {
-      "entity": "Knowth",
-      "type": "place"
-    },
-    {
-      "entity": "rock art",
-      "type": "artifact"
-    },
-    {
-      "entity": "Europe",
-      "type": "location"
-    }
-  ],
-  "sources": [
-    "Eogan, George. *Knowth and the Passage Tombs of Ireland.* London: Thames and Hudson, 1986.",
-    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-  ],
-  "image": [
-    "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/County_Meath_-_Knowth_-_20210930145613.jpg/1200px-County_Meath_-_Knowth_-_20210930145613.jpg"
-  ],
-  "cyphertext": "hyNJoAe33wuJD0xp5kUHHYL6cjhIwSrUEOy0ACO-XOywlopVo68zIku-SIlTMMmeMusxC0oD8Vde8-LsUjM8P8rMP9Nyt6KEc8ioimh2vzLdhmUIMN7kelR8iUpVUBnWV41NBQNwQqh1r2Ces1cIae6LD2HCM_Ej59_tSfUWCxo53oBilPee1csFcqupVMc4u3dkSuQdfbd9mMtYH7mNWwTiUsIwgf1xnBptPFCY2LI4FDzvpgyDGcbpBxbXBEtyiyHZ_5StrjhwFXqLmVA7XJ0yMdvMh35gvfjnDXEKZMzyAZlT5n33PI37YKBFbjlpjb_kdJYYqmHU_bKinsomP1o9JoZ8zIGenV0mU5EL1tku6lQG4hHOr_DDhW32VgovrJj8iw-pvD81dHv73ELmBHx-rAYyp3HMod9NM8ytcXQSyYcVd3h8Rxz87B9ddyTFbOlDLXB2qJQaNwVq67HNjXNWAORW4ICOBrrvaxqDHEcLibdjxBU9koT1AC05suGpKaxF57wF0p5MH23zBSySUunNTtH2U3ElV9jYhtPJiotc7R9y7x8wMNTx7xn56Lkjp8FxQd_2Gx7Af0wPIZCqxNXh5ScoZZM9OpxUaRtNVUMisdgy5wgq4_BkmeRLXq5kSb2qjAH_LZ4Zv1r8uTQVh-HxKU-fgQagTXC2LkAYPI1hnkZaaHM1Jw_nw38QyLJpPwy807hTcBJ_fs2Nlr1aCxbrzVD55efU87fOVMPAQCDZihfforOSnX8ZgZMlUnb1M8Hkr4B52h7io4Y32YA-ab3gkAApe-kxyVulrkMr8fMob1_SBPltNuOj_M2E-6ZcHoazm_l9bqKPAjm06mtB34Uwd8uVK96ko7Pf7Mv03vbn6mWDJCL1ikVSEJy2ICKVbSVEoBx3PaD7NLlwqhgnMy2cbk7tM_Ce8a49WP3LbYw_GX_tOpK2XF0Qb4v3KcuDbON1LFnakDsFxTzs_RgpJ3Ij9bAazjKQ6RoJFgxbJwGgSqS7OfMJs0M_RdxoYDkrgWiKw4IAiWgAruxKjl-9-2oY6K3f6B1VH5iy-eRxZWLG18mugK0bRO5FHn5kfgkFHUbMtn8un7pzP6w_x3V27wToAxTDOerGZ229jwSqIfKlukC3IOp71SxqN56w4O6OIyfIFr_xq4_2bn5Adu62XfJXkm5m-V7_dwBXfUA3kAfeVbCGQDoBwxjfgd33q8b209sbaVEnimlMwx9qHSucp8EGiSDadP5kKw==",
-  "salt": "mqsOPRS55DLraPuzrBDBtw==",
-  "text": "Knowth is an Irish site whose rock art has no equal anywhere in Europe. The monument has only lately been thrown open to the public. Visitors can now view the marks and carvings cut into the stones of this great mound.",
-  "okr": {
-    "objective": "Knowth holds rock art without equal in Europe.",
-    "key_results": [
-      "Knowth is an Irish mythological site.",
-      "Its rock art is without equal in Europe.",
-      "The site was recently opened to the public."
-    ],
-    "evidence": "Monaghan, Encyclopedia of Celtic Mythology and Folklore"
+ "name": "Knowth",
+ "attributes": [
+  {
+   "entity": "Knowth",
+   "attribute": "Irish mythological site, a great passage-tomb"
+  },
+  {
+   "entity": "Knowth",
+   "attribute": "Irish name Cnobga, two miles northeast of Slane"
+  },
+  {
+   "entity": "Knowth",
+   "attribute": "part of a trio with Newgrange and Dowth"
+  },
+  {
+   "entity": "Knowth",
+   "attribute": "holds rock art without equal in Europe"
+  },
+  {
+   "entity": "Knowth",
+   "attribute": "only lately opened to the public"
+  },
+  {
+   "entity": "Bui",
+   "attribute": "one of the four wives of Lug Lamhfota"
+  },
+  {
+   "entity": "Bui",
+   "attribute": "linked with the megalithic monument at Knowth"
   }
+ ],
+ "entities": [
+  {
+   "entity": "Knowth",
+   "type": "Place"
+  },
+  {
+   "entity": "Cnobga",
+   "type": "Place"
+  },
+  {
+   "entity": "Boyne valley",
+   "type": "Place"
+  },
+  {
+   "entity": "Newgrange",
+   "type": "Place"
+  },
+  {
+   "entity": "Brug na Boinne",
+   "type": "Place"
+  },
+  {
+   "entity": "Dowth",
+   "type": "Place"
+  },
+  {
+   "entity": "County Meath",
+   "type": "Place"
+  },
+  {
+   "entity": "Slane",
+   "type": "Place"
+  },
+  {
+   "entity": "rock art",
+   "type": "Artifact"
+  },
+  {
+   "entity": "Bui",
+   "type": "Deity"
+  },
+  {
+   "entity": "Lug Lamhfota",
+   "type": "Character"
+  },
+  {
+   "entity": "Cailleach Bheirre",
+   "type": "Creature"
+  },
+  {
+   "entity": "Europe",
+   "type": "Place"
+  }
+ ],
+ "sources": [
+  "Eogan, George. *Knowth and the Passage Tombs of Ireland.* London: Thames and Hudson, 1986.",
+  "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.",
+  "MacKillop 2008, s.v. 'Knowth'"
+ ],
+ "image": [
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/County_Meath_-_Knowth_-_20210930145613.jpg/1200px-County_Meath_-_Knowth_-_20210930145613.jpg"
+ ],
+ "cyphertext": "hyNJoAe33wuJD0xp5kUHHYL6cjhIwSrUEOy0ACO-XOywlopVo68zIku-SIlTMMmeMusxC0oD8Vde8-LsUjM8P8rMP9Nyt6KEc8ioimh2vzLdhmUIMN7kelR8iUpVUBnWV41NBQNwQqh1r2Ces1cIae6LD2HCM_Ej59_tSfUWCxo53oBilPee1csFcqupVMc4u3dkSuQdfbd9mMtYH7mNWwTiUsIwgf1xnBptPFCY2LI4FDzvpgyDGcbpBxbXBEtyiyHZ_5StrjhwFXqLmVA7XJ0yMdvMh35gvfjnDXEKZMzyAZlT5n33PI37YKBFbjlpjb_kdJYYqmHU_bKinsomP1o9JoZ8zIGenV0mU5EL1tku6lQG4hHOr_DDhW32VgovrJj8iw-pvD81dHv73ELmBHx-rAYyp3HMod9NM8ytcXQSyYcVd3h8Rxz87B9ddyTFbOlDLXB2qJQaNwVq67HNjXNWAORW4ICOBrrvaxqDHEcLibdjxBU9koT1AC05suGpKaxF57wF0p5MH23zBSySUunNTtH2U3ElV9jYhtPJiotc7R9y7x8wMNTx7xn56Lkjp8FxQd_2Gx7Af0wPIZCqxNXh5ScoZZM9OpxUaRtNVUMisdgy5wgq4_BkmeRLXq5kSb2qjAH_LZ4Zv1r8uTQVh-HxKU-fgQagTXC2LkAYPI1hnkZaaHM1Jw_nw38QyLJpPwy807hTcBJ_fs2Nlr1aCxbrzVD55efU87fOVMPAQCDZihfforOSnX8ZgZMlUnb1M8Hkr4B52h7io4Y32YA-ab3gkAApe-kxyVulrkMr8fMob1_SBPltNuOj_M2E-6ZcHoazm_l9bqKPAjm06mtB34Uwd8uVK96ko7Pf7Mv03vbn6mWDJCL1ikVSEJy2ICKVbSVEoBx3PaD7NLlwqhgnMy2cbk7tM_Ce8a49WP3LbYw_GX_tOpK2XF0Qb4v3KcuDbON1LFnakDsFxTzs_RgpJ3Ij9bAazjKQ6RoJFgxbJwGgSqS7OfMJs0M_RdxoYDkrgWiKw4IAiWgAruxKjl-9-2oY6K3f6B1VH5iy-eRxZWLG18mugK0bRO5FHn5kfgkFHUbMtn8un7pzP6w_x3V27wToAxTDOerGZ229jwSqIfKlukC3IOp71SxqN56w4O6OIyfIFr_xq4_2bn5Adu62XfJXkm5m-V7_dwBXfUA3kAfeVbCGQDoBwxjfgd33q8b209sbaVEnimlMwx9qHSucp8EGiSDadP5kKw==",
+ "salt": "mqsOPRS55DLraPuzrBDBtw==",
+ "text": "Knowth is a great passage-tomb in the Boyne valley of County Meath, Ireland. Its Irish name is Cnobga, written also as Cnobha. The monument stands two miles northeast of Slane, close by the Boyne River. Knowth forms one of a celebrated trio of passage-graves. The other two are Newgrange, known in Irish as Brug na Boinne, and Dowth. All three rise in the same valley, and writers group them for their shared size and age. Experts date these great mounds somewhere between 3200 and 2400 BC. Knowth matches its neighbours in plan and worth. The tomb counts among the leading archaeological treasures of the whole island. Knowth holds rock art without equal in Europe. The carvings run across the stones of the mound in rich, close patterns. The monument has only lately been thrown open to the public. Visitors can now view the marks and carvings cut into the stones of this great mound. The rock art draws students from far beyond the island. Old Irish story ties Knowth to Bui, a wife of the hero Lug Lamhfhota. Under that name she held a link to the megalithic monument at Knowth. Some scholars see her as one face of the Cailleach Beirre, the Hag of Bear, a figure well known in the folklore of Ireland and of Gaelic Scotland. The tale numbers Bui among four wives of the great hero, and the same stories link her spirit to this old tomb and its long stone passage.",
+ "okr": {
+  "objective": "Knowth is a Boyne valley passage-tomb known for its rock art.",
+  "key_results": [
+   "Knowth is a great Irish passage-tomb.",
+   "Its rock art is without equal in Europe.",
+   "It forms a trio with Newgrange and Dowth.",
+   "The site was recently opened to the public.",
+   "Irish story links Knowth to Bui, a wife of Lug Lamhfota."
+  ],
+  "evidence": "MacKillop 2008, s.v. Knowth"
+ }
 }

@@ -1,50 +1,75 @@
 {
- "name": "Lough Neagh",
- "attributes": [
-  {
-   "entity": "Lough Neagh",
-   "attribute": "large lake in the northern province of Ulster"
-  },
-  {
-   "entity": "Lough Neagh",
-   "attribute": "began as a well whose overflowing waters formed the lake"
-  },
-  {
-   "entity": "Li Ban",
-   "attribute": "drowned and became a mermaid at Lough Neagh"
-  }
- ],
- "entities": [
-  {
-   "entity": "Lough Neagh",
-   "type": "Place"
-  },
-  {
-   "entity": "Li Ban",
-   "type": "Person"
-  },
-  {
-   "entity": "Ulster",
-   "type": "Place"
-  }
- ],
- "sources": [
-  "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
- ],
- "image": [
-  "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Lough_Neagh_by_Sentinel-2.jpg/1200px-Lough_Neagh_by_Sentinel-2.jpg"
- ],
- "cyphertext": "AvmWyQvRC_NsSRE5eJyM4mIX07MNOQbwFXyyhK3ngDA5wK5A0G8oT-V9Z828Tk8kCV2_mYXj0-CmUw6FJX4S3SRU3ghySYuLJDYyPDA5KNtu6I7LZSO_XQEDKTxzaMt9RNa9mahopVtxa4kDlyKiSG608tgy7j1dJVwGvWU0QVXzJj_M4eG2HN9R_F7Md_wUl44-OUWL-AaWKDGNd5VgsJEpDaqDkqE463PfI9vTCGPpBNyaqYV2gfQ-0isYRZLft9BVf_l5xDRTKUJ4HfVKJ6LAlpIQmRyb-5mrj2gF0-jA2qgcLuN3qS8wOWTwzb-iQ1VfvuBPn01c43Lgyje16Mp0Ki3RB7vNHpv5o1_EFLchwB2Rb4rlQTiU7AI7GXOGtFY0s9w_vv32cZBGTPnngOx58wWVKnPdcbu_N1ithPT_Yrgnlch-946UDaC_GssQd08z47xgNOUh0ddEt2b_YnVmt2E01hNm-LRsTMrZ84MhXkukZe0lhmy6TMzBPE9ijOlRlxNoe5eo9D8Nsxzwd-v3L1JIEqK891CE0bwpEuCc29TqQg1FTWsNIIGMu-8tAxJJbrFugA4gWozNsWo91v3uNDLO97Kd-3m5BLranuyHiMZ_kBUu4uwY9KELRr1vXlddS596fPqTw7K6p9uCsgXM4x5rLjQv8lJKeXlPCH2E7XVdx8Y6mp8i_SEhWeSEft3zeFaggfAkWb3t4OXeJUbx5jd3ZuYC2apPLtxQoSbss3wOpc6kB5k9MmuLEbWLYgFzbSDT0WAF4m5VijHGQoYU274QGhkWaHiZQ78UsztCCswQnqYujtb51RB2TQu10JwusOt9HHSb1K-bMcfpcHP5H5_pCxSuwxlPIZP0-j8VrMEnKUL_Wjgek7649p6CQgyr8Oo1-qiRr5P7xv6iFYNj5cOHsC3atrpFY9tRKM1m03RvYGGZqg0NlqRCbmrJK7IqYDOZFaqBzDGoFfhqrsmjJ1aVidEXehBHLxsRh6IZAOkIo5Dsg09S75Umzzwa_OadMOeez0mXPI3zJ1nLA8gA7uZUbhKQBdXq7QKmqeseqDX9wL3hKe4HdDKCpQIeVQ8_OAf05T44GKrAjT3zR_BKElIsc7E6NiSHG0WhjFL-YUehI-E=",
- "salt": "uplpdXmtAj47IJPx_NKaHQ==",
- "text": "Lough Neagh is a large lake in the northern province of Ulster, Ireland. The lake began as a well. When a careless woman left the lid off, the waters rushed out and spread to form the lake. The flood drowned the family of the maiden Li Ban, who was left alone beneath the waves with her small lapdog. Watching the fish play, Li Ban prayed to become one herself. She was turned into a mermaid with a salmon's tail, and her dog became an otter. Other tales from the region say a magical city appears beneath the lake's waters on clear days.",
- "okr": {
-  "objective": "Document the origin legend of Lough Neagh and the transformation of the maiden Li Ban.",
-  "key_results": [
-   "The lake formed when an uncovered well overflowed",
-   "The flood drowned the family of the maiden Li Ban",
-   "Li Ban became a mermaid with a salmon's tail and her dog became an otter",
-   "A magical city is said to appear beneath the lake's waters"
+  "name": "Lough Neagh",
+  "attributes": [
+    {
+      "entity": "Lough Neagh",
+      "attribute": "large lake in the northern province of Ulster"
+    },
+    {
+      "entity": "Lough Neagh",
+      "attribute": "began as a well whose overflowing waters formed the lake"
+    },
+    {
+      "entity": "Li Ban",
+      "attribute": "drowned and became a mermaid at Lough Neagh"
+    }
   ],
-  "evidence": "Monaghan, The Encyclopedia of Celtic Mythology and Folklore, 2003."
- }
+  "entities": [
+    {
+      "entity": "Lough Neagh",
+      "type": "Place"
+    },
+    {
+      "entity": "Li Ban",
+      "type": "Person"
+    },
+    {
+      "entity": "Ulster",
+      "type": "Place"
+    },
+    {
+      "entity": "Angus Og",
+      "type": "Person"
+    },
+    {
+      "entity": "Lough Ree",
+      "type": "Place"
+    },
+    {
+      "entity": "Fionn mac Cumhaill",
+      "type": "Person"
+    },
+    {
+      "entity": "Isle of Man",
+      "type": "Place"
+    },
+    {
+      "entity": "Dal nAraide",
+      "type": "Place"
+    },
+    {
+      "entity": "Eocha",
+      "type": "Person"
+    }
+  ],
+  "sources": [
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.",
+    "MacKillop 2008, s.v. 'Lough Neagh'"
+  ],
+  "image": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Lough_Neagh_by_Sentinel-2.jpg/1200px-Lough_Neagh_by_Sentinel-2.jpg"
+  ],
+  "cyphertext": "AvmWyQvRC_NsSRE5eJyM4mIX07MNOQbwFXyyhK3ngDA5wK5A0G8oT-V9Z828Tk8kCV2_mYXj0-CmUw6FJX4S3SRU3ghySYuLJDYyPDA5KNtu6I7LZSO_XQEDKTxzaMt9RNa9mahopVtxa4kDlyKiSG608tgy7j1dJVwGvWU0QVXzJj_M4eG2HN9R_F7Md_wUl44-OUWL-AaWKDGNd5VgsJEpDaqDkqE463PfI9vTCGPpBNyaqYV2gfQ-0isYRZLft9BVf_l5xDRTKUJ4HfVKJ6LAlpIQmRyb-5mrj2gF0-jA2qgcLuN3qS8wOWTwzb-iQ1VfvuBPn01c43Lgyje16Mp0Ki3RB7vNHpv5o1_EFLchwB2Rb4rlQTiU7AI7GXOGtFY0s9w_vv32cZBGTPnngOx58wWVKnPdcbu_N1ithPT_Yrgnlch-946UDaC_GssQd08z47xgNOUh0ddEt2b_YnVmt2E01hNm-LRsTMrZ84MhXkukZe0lhmy6TMzBPE9ijOlRlxNoe5eo9D8Nsxzwd-v3L1JIEqK891CE0bwpEuCc29TqQg1FTWsNIIGMu-8tAxJJbrFugA4gWozNsWo91v3uNDLO97Kd-3m5BLranuyHiMZ_kBUu4uwY9KELRr1vXlddS596fPqTw7K6p9uCsgXM4x5rLjQv8lJKeXlPCH2E7XVdx8Y6mp8i_SEhWeSEft3zeFaggfAkWb3t4OXeJUbx5jd3ZuYC2apPLtxQoSbss3wOpc6kB5k9MmuLEbWLYgFzbSDT0WAF4m5VijHGQoYU274QGhkWaHiZQ78UsztCCswQnqYujtb51RB2TQu10JwusOt9HHSb1K-bMcfpcHP5H5_pCxSuwxlPIZP0-j8VrMEnKUL_Wjgek7649p6CQgyr8Oo1-qiRr5P7xv6iFYNj5cOHsC3atrpFY9tRKM1m03RvYGGZqg0NlqRCbmrJK7IqYDOZFaqBzDGoFfhqrsmjJ1aVidEXehBHLxsRh6IZAOkIo5Dsg09S75Umzzwa_OadMOeez0mXPI3zJ1nLA8gA7uZUbhKQBdXq7QKmqeseqDX9wL3hKe4HdDKCpQIeVQ8_OAf05T44GKrAjT3zR_BKElIsc7E6NiSHG0WhjFL-YUehI-E=",
+  "salt": "uplpdXmtAj47IJPx_NKaHQ==",
+  "text": "Lough Neagh is the largest lake in Ireland, lying in the northern province of Ulster. One old story tells how the lake began from a single spring. Eocha, sometimes called Ecca, loved his stepmother Eabha, who had been fostered by Angus Og. With Eocha's brother Rib, the two lovers hoped to found a new kingdom on a northern plain. A stranger killed their horses. Angus Og gave them a fine new horse but warned them not to let it rest and urinate. Once the party reached Ulster it let the horse stop, and a spring rose from the spot. Eocha built a house beside the spring. One day a woman left the cover off, the waters overflowed, and the flood drowned Eocha and most of his family. That flood made the lake. The tale mirrors one told about Lough Ree. Other versions say the overflow drowned the family of the maiden Li Ban, who survived alone beneath the waves with her small lapdog. Watching the fish play, Li Ban prayed to become one of them. She turned into a mermaid with a salmon's tail, and her dog became an otter. During the early Christian era the small realm of Dal nAraide lay beside the lake. A later and widely told story gives Fionn mac Cumhaill the credit for the lake. He scooped a lump of ground to hurl at a giant as it ran. The lump that left his hand fell to form the Isle of Man. Macpherson's Ossian (1760) names the lake Lake of the Roes. Writers also tell of a magical city, one of Ireland's submerged cities, that appears beneath the clear waters.",
+  "okr": {
+    "objective": "Document the origin legend of Lough Neagh and the transformation of the maiden Li Ban.",
+    "key_results": [
+      "The lake formed when an uncovered well overflowed",
+      "The flood drowned the family of the maiden Li Ban",
+      "Li Ban became a mermaid with a salmon's tail and her dog became an otter",
+      "A magical city is said to appear beneath the lake's waters"
+    ],
+    "evidence": "Monaghan, The Encyclopedia of Celtic Mythology and Folklore, 2003."
+  }
 }

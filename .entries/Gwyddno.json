@@ -1,54 +1,79 @@
 {
- "name": "Gwyddno",
- "attributes": [
-  {
-   "entity": "Gwyddno",
-   "attribute": "A Welsh hero and a minor figure in the story of Kulhwch and Olwen."
-  },
-  {
-   "entity": "Gwyddno",
-   "attribute": "He owned a basket that magic kept filled with food."
-  },
-  {
-   "entity": "basket",
-   "attribute": "Kulhwch had to steal the basket to win Olwen."
-  }
- ],
- "entities": [
-  {
-   "entity": "Gwyddno",
-   "type": "Person"
-  },
-  {
-   "entity": "Gwyddno Garanhir",
-   "type": "Person"
-  },
-  {
-   "entity": "Kulhwch",
-   "type": "Person"
-  },
-  {
-   "entity": "Olwen",
-   "type": "Person"
-  },
-  {
-   "entity": "basket",
-   "type": "Artifact"
-  }
- ],
- "sources": [
-  "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
- ],
- "cyphertext": "-XLthK0dXTx2Hhb6SCj-DnOErValkS-JYtxDf1rUHb-Bx24URQMQOObV04EcMaKFLwxWo6Myx_PwF6ouxeFW-a6P6fIZEngqJ13lvTstxkJhK7SjBrZFZ9JMljNc4uUnqPegZ8AUPqm76lU4wkBVLdABySnEP_aUVupoxMiKAFy8unuSRp6SMYozljyKz4czPd2MRzfswEnycEo71We19qqteGRCb1LX2PxuASgNQ_NuOGKDStuonYRPrp6SzQnVfKmXCtNijMkxUgdrQWBqmP2xVcm0HbWK7h7o5FuwNt4aTXzNYctM2yeDB1u9tK7FWmhBG-Ikg6C80kZ0VOH5NHdplWFnbPJuTw2Z4w==",
- "salt": "eSuIePh8kOq8Yg37rn7dkw==",
- "text": "Gwyddno Garanhir was a Welsh hero and a minor figure in the tale of Kulhwch and Olwen. He owned a basket that magic kept full of food at all times. Kulhwch had to steal that basket in order to win his beloved Olwen.",
- "okr": {
-  "objective": "Summarize Gwyddno Garanhir as a Welsh hero defined by his magical basket in the Kulhwch and Olwen tale.",
-  "key_results": [
-   "Gwyddno Garanhir was a Welsh hero in the Kulhwch and Olwen story",
-   "He owned a basket that magic kept full of food",
-   "Kulhwch stole the basket to win his beloved Olwen"
+  "name": "Gwyddno",
+  "attributes": [
+    {
+      "entity": "Gwyddno",
+      "attribute": "A Welsh hero and a minor figure in the story of Kulhwch and Olwen."
+    },
+    {
+      "entity": "Gwyddno",
+      "attribute": "He owned a basket that magic kept filled with food."
+    },
+    {
+      "entity": "basket",
+      "attribute": "Kulhwch had to steal the basket to win Olwen."
+    },
+    {
+      "entity": "Gwywdno's basket",
+      "attribute": "Never runs empty of food."
+    },
+    {
+      "entity": "Gwywdno Garanhir",
+      "attribute": "Minor figure in Kulhwch and Olwen."
+    },
+    {
+      "entity": "Kulhwch",
+      "attribute": "Had to obtain the basket as one of his quests."
+    },
+    {
+      "entity": "Olwen",
+      "attribute": "Demanded the basket as one of her gifts."
+    }
   ],
-  "evidence": "Monaghan, The Encyclopedia of Celtic Mythology and Folklore, 2003"
- }
+  "entities": [
+    {
+      "entity": "Gwyddno",
+      "type": "Person"
+    },
+    {
+      "entity": "Gwyddno Garanhir",
+      "type": "Person"
+    },
+    {
+      "entity": "Kulhwch",
+      "type": "Person"
+    },
+    {
+      "entity": "Olwen",
+      "type": "Person"
+    },
+    {
+      "entity": "basket",
+      "type": "Artifact"
+    },
+    {
+      "entity": "Gwywdno Garanhir",
+      "type": "Person"
+    },
+    {
+      "entity": "Gwywdno's basket",
+      "type": "Artifact"
+    }
+  ],
+  "sources": [
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.",
+    "MacKillop 2008, s.v. 'Gwydno Garanhir'"
+  ],
+  "cyphertext": "-XLthK0dXTx2Hhb6SCj-DnOErValkS-JYtxDf1rUHb-Bx24URQMQOObV04EcMaKFLwxWo6Myx_PwF6ouxeFW-a6P6fIZEngqJ13lvTstxkJhK7SjBrZFZ9JMljNc4uUnqPegZ8AUPqm76lU4wkBVLdABySnEP_aUVupoxMiKAFy8unuSRp6SMYozljyKz4czPd2MRzfswEnycEo71We19qqteGRCb1LX2PxuASgNQ_NuOGKDStuonYRPrp6SzQnVfKmXCtNijMkxUgdrQWBqmP2xVcm0HbWK7h7o5FuwNt4aTXzNYctM2yeDB1u9tK7FWmhBG-Ikg6C80kZ0VOH5NHdplWFnbPJuTw2Z4w==",
+  "salt": "eSuIePh8kOq8Yg37rn7dkw==",
+  "text": "Gwyddno Garanhir appears as a minor figure in the Welsh tale of Kulhwch and Olwen. He holds a place in the list of wonders that the hero Kulhwch must gather. The chief marvel connected with his name is a magic basket. The basket stays full of food at all times from its own power. Kulhwch must take the basket as one of the gifts demanded by the giant's daughter Olwen. MacKillop records the basket among the objects of the tale. The story shows how a small character can guard a prize that a hero needs.",
+  "okr": {
+    "objective": "Present Gwywdno Garanhir as a minor Welsh figure known for his ever-full magic basket in Kulhwch and Olwen.",
+    "key_results": [
+      "Gwywdno appears in the tale of Kulhwch and Olwen",
+      "He owns a basket that magic keeps full of food",
+      "Kulhwch must win the basket to court Olwen"
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Gwywdno Garanhir'"
+  }
 }

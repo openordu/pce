@@ -1,0 +1,21 @@
+{
+  "name": "Inis Fáil",
+  "text": "Inis Fáil is a poetic name for the isle of Ireland. The phrase means the island of destiny. The title comes from the standing stone of the land of the high kings. Used with the other poetic title for the country, it speaks of the old age of the island.",
+  "entities": [
+    {"entity": "Inis Fáil", "type": "Place"},
+    {"entity": "Fial", "type": "Object"},
+    {"entity": "Ireland", "type": "Place"}
+  ],
+  "attributes": [
+    {"entity": "Inis Fáil", "attribute": "poetic name for Ireland"}
+  ],
+  "sources": ["MacKillop 2008, s.v. 'Inis Fáil'"],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Record Inis Fáil.",
+    "key_results": ["Translate the name.", "Name the land it marks.", "Join it with the stone of prophecy."],
+    "evidence": "MacKillop 2008, s.v. 'Inis Fáil'"
+  }
+}

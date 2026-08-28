@@ -1,0 +1,31 @@
+{
+  "name": "Knocknagow",
+  "text": "Knocknagow is a fictional Irish village that has passed into common speech. The place was created by the writer Charles J. Kickham, whose 1873 novel carried the long title Knocknagow, or the Homes of Tipperary. The novel sets in the village a string of sentimental and comic events in a nearly Dickensian vein. The name has since stood for a certain picture of rural Irish life.",
+  "entities": [
+    {
+      "entity": "County Tipperary",
+      "type": "Region"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Knocknagow",
+      "attribute": "fictional Irish village"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Knocknagow'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Record Knocknagow.",
+    "key_results": [
+      "Name the writer of the village.",
+      "Give the year of the novel.",
+      "Set the village in Tipperary."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Knocknagow'"
+  }
+}

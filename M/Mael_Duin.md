@@ -1,0 +1,49 @@
+---
+layout: layouts/pce.njk
+title: Máel Dúin
+icon: file-lines
+order: 3663
+contributors: [ 'Christopher Godwin' ]
+attributes:
+  - Máel Dúin voyager hero of the Voyage of Máel Dúin's Boat
+  - Máel Dúin son of a nun and of the slain Ailill Ochair Aga
+  - Máel Dúin captain of the crew that visits thirty-one islands
+  - Máel Dúin vengeance-seeker who forgives his father's slayer at the tale's turn
+categories:
+  - Work
+  - Person
+entities:
+  - Máel Dúin(Person)
+  - Ailill Ochair Aga(Person)
+  - Diurán(Person)
+  - Immram Curaig Maele Dúin(Work)
+  - Brendan of Clonfert(Person)
+tags:
+  - Máel Dúin
+  - Ailill Ochair Aga
+  - Diurán
+  - Immram Curaig Maele Dúin
+  - Brendan of Clonfert
+---
+``` tab [group1:Info]
+::: magazinestyle
+Máel Dúin is the voyager of the Irish tale Immram Curaig Maele Dúin, the Voyage of Máel Dúin's Boat, a narrative probably of 8th-century make and preserved in 10th-century fragments. Máel Dúin is a nun's love-child, brought up by a queen together with three princes. A taunt reveals both his illegitimacy and the death of his father, Ailill Ochair Aga, at raider hands. A druid directs him to have a three-hide boat built and to take only seventeen companions; three foster-brothers then swim out to join and so break the druid's geis. The crew visits thirty-one islands of marvel and danger, meeting giant ants and birds, a treasure-guarding cat that burns men to ash, an island split by a brass wall, seas of green glass, and an island of women whose queen holds them with a magic thread until the poet Diurán lets his thread-holding arm be cut away to free them all. Vengeance drives the voyage until an old monk asks the wanderers to forgive the man who slew Ailill; they consent, reach their former enemies, and are welcomed before sailing home to Ireland. The dictionary notes ties between these adventures and the voyages of St Brendan, the Voyage of Bran, feats of Cúchulainn, and medieval bestiaries.
+
+:::
+```
+``` tab [group1:Attributes]
+- **Máel Dúin**: voyager hero of the Voyage of Máel Dúin's Boat
+- **Máel Dúin**: son of a nun and of the slain Ailill Ochair Aga
+- **Máel Dúin**: captain of the crew that visits thirty-one islands
+- **Máel Dúin**: vengeance-seeker who forgives his father's slayer at the tale's turn
+```
+``` tab [group1:Entities]
+- **Máel Dúin**: Person
+- **Ailill Ochair Aga**: Person
+- **Diurán**: Person
+- **Immram Curaig Maele Dúin**: Work
+- **Brendan of Clonfert**: Person
+```
+``` tab [group1:Sources]
+- MacKillop 2008, s.v. 'Máel Dúin'
+```

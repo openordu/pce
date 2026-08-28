@@ -1,48 +1,66 @@
 {
-  "name": "Morann",
-  "entities": [
-    {
-      "entity": "Morann",
-      "type": "Person"
-    },
-    {
-      "entity": "brehon",
-      "type": "Person"
-    },
-    {
-      "entity": "chain",
-      "type": "Artifact"
-    }
-  ],
-  "attributes": [
-    {
-      "entity": "Morann",
-      "attribute": "an Irish hero and wise brehon, or judge"
-    },
-    {
-      "entity": "chain",
-      "attribute": "tightened and strangled Morann if he spoke false words or an unjust sentence"
-    },
-    {
-      "entity": "chain",
-      "attribute": "around an accused person's neck strangled them if they lied"
-    }
-  ],
-  "sources": [
-    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-  ],
-  "cyphertext": "D7kj2Sdnjunl0IPItc0wsepl8pg3duMR-GmiFky3BaqsmS1oxeuHzav2AtGnQahJWpQVzT5u02H_Fm5uusUba0GCf6LPMZr_kZ6SHv38NC2uFuiy5O9C89oUxCn7VjwVGJ8FJYWw9SuoYCVw4qky2LczfBaPTszwfP3QWLXcU8it6opz1oO10L4q7MEziXVea8cR1LBXvjJqQClg3xJfczz30dkKtGaQv3IuYZ05UIIkYjLg1-JPaDWSRsx3XOsdegSss_6F6SOg-VFAL8a16XP_9uL8ppmNrTbB9QqxJqp-Fz2cQGAiv5lsCfqJV7lKRysf7hxqp7e7Sh_voH0dxxU_Zp7cjRPSa6IER2UNxLQ3R257hYivL7PCW8DGthJ7Dl7DQnZ_tkiPKM2JHXF0zqQ7fFAN5nWfv0dbs6HbjDzaThRSEQ246BJG_SHLSb01_dXu17pGJqbxgB9AsrX1r2L91urXMqt8C48XTVbd42oZC6DUd36ieb12Q29bJ0c=",
-  "salt": "EjliZkC3LNryyEtMnl-urg==",
-  "text": "Morann was an Irish hero. Several medieval sources describe him as a wise brehon, or judge. He wore a chain around his neck. If he began to speak false words or give an unjust sentence, the chain tightened until it strangled him. He could also place the chain on the neck of a person on trial. It worked the same way there, tightening until it strangled the accused, if that one lied. The chain made plain the truth of every speech and every judgment.",
-  "okr": {
-    "objective": "Document the Irish hero and brehon Morann and his truth chain.",
-    "key_results": [
-      "Record Morann as a wise brehon or judge of medieval Irish sources.",
-      "Record the chain that strangled him for false words or unjust sentences.",
-      "Record the chain that strangled an accused person who lied."
-    ],
-    "evidence": [
-      "Monaghan, P. The Encyclopedia of Celtic Mythology and Folklore (2008): Morann entry, p. 337."
-    ]
+ "name": "Morann",
+ "cyphertext": "D7kj2Sdnjunl0IPItc0wsepl8pg3duMR-GmiFky3BaqsmS1oxeuHzav2AtGnQahJWpQVzT5u02H_Fm5uusUba0GCf6LPMZr_kZ6SHv38NC2uFuiy5O9C89oUxCn7VjwVGJ8FJYWw9SuoYCVw4qky2LczfBaPTszwfP3QWLXcU8it6opz1oO10L4q7MEziXVea8cR1LBXvjJqQClg3xJfczz30dkKtGaQv3IuYZ05UIIkYjLg1-JPaDWSRsx3XOsdegSss_6F6SOg-VFAL8a16XP_9uL8ppmNrTbB9QqxJqp-Fz2cQGAiv5lsCfqJV7lKRysf7hxqp7e7Sh_voH0dxxU_Zp7cjRPSa6IER2UNxLQ3R257hYivL7PCW8DGthJ7Dl7DQnZ_tkiPKM2JHXF0zqQ7fFAN5nWfv0dbs6HbjDzaThRSEQ246BJG_SHLSb01_dXu17pGJqbxgB9AsrX1r2L91urXMqt8C48XTVbd42oZC6DUd36ieb12Q29bJ0c=",
+ "salt": "EjliZkC3LNryyEtMnl-urg==",
+ "text": "Morann was an Irish hero of the old tales. Several medieval sources describe him as a wise brehon, or judge. He wore a chain around his neck. If he spoke false words or gave an unjust sentence, the chain tightened until it strangled him. He could place the chain on the neck of a person on trial. It worked the same way there, tightening until it strangled the accused one who lied. The chain made plain the truth of every speech and every judgment. No falsehood could hide from that collar, whether it hung on the judge or on the one accused. The device turned every hearing into a test of honesty. A speaker under that metal could not hope to outrun the truth for long. Travelers and litigants spoke of the chain with dread, for it spared no one who lied. Even an innocent man could feel its grip tighten the moment he bent the truth. Later retellings kept the collar as a warning that no lie went unnoticed in his court. MacKillop frames the same name quite differently. He records a Morann, also written Morand, as a druid adviser and counsellor of Conchobar mac Nessa. This sage stood among the great judges of the old Irish courts. MacKillop adds that this Morann prophesied the birth of the great hero Cúchulainn. So the one name carries two portraits in the sources. In one version he is the chain-wearing brehon whose collar exposed lies. In the other he is the druid who foretold a famous warrior. Both figures served as advisers whose wisdom shaped the tales of early Ireland. His name, in either spelling, came to mean a scrupulous keeper of the law. Whatever the exact story, he remains a guardian of truth in the old Irish world. A druid at Conchobar's court fulfilled much the same office. That king ruled the Ulster people from the great fortress of Emain Macha. Good counsel kept the court and its warriors sound. The foretelling of Cuchulainn's birth stood among the most celebrated prophecies of the province. That infant later grew into the mightiest champion of the Ulster tales. So the druid's words reached far beyond his own day.",
+ "entities": [
+  {
+   "entity": "Morann",
+   "type": "Person"
+  },
+  {
+   "entity": "brehon",
+   "type": "Person"
+  },
+  {
+   "entity": "chain",
+   "type": "Artifact"
+  },
+  {
+   "entity": "Conchobar mac Nessa",
+   "type": "Person"
+  },
+  {
+   "entity": "Cúchulainn",
+   "type": "hero"
   }
+ ],
+ "attributes": [
+  {
+   "entity": "Morann",
+   "attribute": "an Irish hero and wise brehon, or judge"
+  },
+  {
+   "entity": "chain",
+   "attribute": "tightened and strangled Morann if he spoke false words or an unjust sentence"
+  },
+  {
+   "entity": "chain",
+   "attribute": "around an accused person's neck strangled them if they lied"
+  },
+  {
+   "entity": "Morann",
+   "attribute": "also written Morand, a druid adviser and counsellor of Conchobar mac Nessa in MacKillop's account"
+  },
+  {
+   "entity": "Morann",
+   "attribute": "prophesied the birth of the hero Cúchulainn"
+  }
+ ],
+ "sources": [
+  "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.",
+  "MacKillop 2008, s.v. 'Morann'"
+ ],
+ "okr": {
+  "objective": "Document the Irish hero and brehon Morann and his truth chain.",
+  "key_results": [
+   "Record Morann as a wise brehon or judge of medieval Irish sources.",
+   "Record the chain that strangled him for false words or unjust sentences.",
+   "Record the chain that strangled an accused person who lied.",
+   "Record the MacKillop portrait of Morann as a druid who prophesied the birth of Cúchulainn."
+  ],
+  "evidence": [
+   "MacKillop 2008, s.v. 'Morann'"
+  ]
+ }
 }

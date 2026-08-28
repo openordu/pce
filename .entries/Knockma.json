@@ -36,6 +36,38 @@
     {
       "entity": "Castle Hackett",
       "type": "place"
+    },
+    {
+      "entity": "Tuatha De Danaan",
+      "type": "group"
+    },
+    {
+      "entity": "Milesians",
+      "type": "group"
+    },
+    {
+      "entity": "Knockmany",
+      "type": "place"
+    },
+    {
+      "entity": "Augher",
+      "type": "location"
+    },
+    {
+      "entity": "County Tyrone",
+      "type": "location"
+    },
+    {
+      "entity": "Annia's Cove",
+      "type": "place"
+    },
+    {
+      "entity": "William Carleton",
+      "type": "person"
+    },
+    {
+      "entity": "The Legend of Knockmany",
+      "type": "work"
     }
   ],
   "attributes": [
@@ -66,22 +98,44 @@
     {
       "entity": "Knockma",
       "attribute": "now called Castle Hackett"
+    },
+    {
+      "entity": "Finnbheara",
+      "attribute": "from the Tuatha De Danaan"
+    },
+    {
+      "entity": "Knockmany",
+      "attribute": "Cnoc Meanach means middle hill"
+    },
+    {
+      "entity": "Knockmany",
+      "attribute": "hill near Augher in County Tyrone"
+    },
+    {
+      "entity": "Annia's Cove",
+      "attribute": "passage-grave on Knockmany"
+    },
+    {
+      "entity": "William Carleton",
+      "attribute": "retold the comic Fenian tale The Legend of Knockmany"
     }
   ],
   "sources": [
-    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.",
+    "MacKillop 2008, s.v. Knockmagh",
+    "MacKillop 2008, s.v. Knockmany"
   ],
   "cyphertext": "t_wVwQ3DWsaFjEp6_kMRl5jzAAMWKnVAzSKCQGk-gquUojS3HuQCLU6ZXdyoKXZl_rycvYdtbWV94nq3VNm21laMifij5gHfkTE3o2YNjU2WACUgV2TlwbjOg_lwN5VwfLWN_0puT4NyX0NibUNvirIPAg_2gvr8tEYwokzAgjVLtZ37m7QrfL0QTcs-hZ45ZvVVfw5gp4SXmgnOBkmp3hXnxyU4k0jfyaLPo4Y7Ij1EuF0cNHlGTLDjQ_iMFm2GN3cIht_Hu8FKv3_GrABCkwQvL6njO_DMKo2SJU_Ii5G3pSD-XbNQ3LJN4wnk9DUvhJrYP3brpc_RCFDRH8y1kROoGCb54herY4h7dCyqfeZ-Q6o-l29OWZKTjpKeWccg8qyCVXBck-FDZsmL0W7gP1_gpMf0RN7GFyrtV_UO5t1MhI0rMnjMREoMaSb5OziPqaiTOnQuutKht2UHY7k=",
   "salt": "geEjAhVXRVA19LSUHAdd2g==",
-  "text": "Knockma is an Irish mythological site. The hill rises near Tuam in County Galway. Its name recalls the queen Medb. Yet people know it as the mound of Finnbheara. He rules the west of Connacht, that land, as its fairy king. He dwelt there with his fairy bride Una, who is also called Nuala. The place is today known as Castle Hackett.",
-  "okr": {
-    "objective": "Knockma is the Connacht mound of fairy king Finnbheara.",
-    "key_results": [
-      "Knockma is an Irish mythological site.",
-      "It is a hill near Tuam in County Galway.",
-      "It is known as the mound of fairy king Finnbheara.",
-      "The site is today called Castle Hackett."
-    ],
-    "evidence": "Monaghan, Encyclopedia of Celtic Mythology and Folklore"
-  }
+  "text": "Knockma is an Irish mythological place name. The forms Knockmagh, Knock Ma, and Knock Maa all appear in English writing. Each translates the Irish Cnoc Mheadha. This hill rises near Tuam in County Galway. Its name honours the queen Medb. Yet most people remember it as the mound of Finnbheara. That ruler holds sway over the fairies of Connacht. He lives there with his bride Una, who is also called Nuala. Finnbheara rose from the Tuatha De Danaan. When the Milesians took the land, the sidhe folk went below ground. Finnbheara then made his home at this mound. Though fond of mortal maidens, he usually appears with his wife. The fame of his tales made storytellers treat him as king of all the Irish fairies. People held the hill in dread and gave the mound wide religious respect. Modern visitors know the steadfast rock as Castle Hackett. A separate Irish hill carries the name Knockmany. Its form Cnoc Meanach gives the plain meaning the middle hill. The height rises near Augher in County Tyrone. A passage grave on the summit bears the old name Annia's Cove. The mound won its fame, however, from William Carleton. Around 1845 he told a comic tale titled The Legend of Knockmany, and his telling won the hill broad fame. In this way a modest Tyrone mound joined the Galway height in holding a place in folk memory.",
+    "okr": {
+      "objective": "Knockma and Knockmany are Irish hills linked to fairies and legend.",
+      "key_results": [
+        "Knockma is an Irish mythological place name.",
+        "It is the mound near Tuam linked to fairy king Finnbheara.",
+        "A separate hill Knockmany bears the same kind of name.",
+        "William Carleton made Knockmany famous through a Fenian tale."
+      ],
+      "evidence": "MacKillop 2008, s.v. Knockmagh"
+    }
 }

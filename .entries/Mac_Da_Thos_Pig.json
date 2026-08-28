@@ -1,0 +1,47 @@
+{
+  "name": "Mac Da Thó's Pig",
+  "text": "Mac Da Thó's Pig is a cross-reference heading. It sends readers to Scéla Mucce Meic Dathó, the saga about the feast of Mac Dathó's swine. In that tale the hospitality contest over the champion's portion turns on the carving of a vast pig. The host Mac Dathó owns the animal. His hound Ailbe decides the war between Connacht and Ulster that the feast ignites. The story stands as one of the liveliest saga pieces of the Ulster Cycle.",
+  "entities": [
+    {
+      "entity": "Mac Da Thó's Pig",
+      "type": "Concept"
+    },
+    {
+      "entity": "Mac Dathó",
+      "type": "Person"
+    },
+    {
+      "entity": "Scéla Mucce Meic Dathó",
+      "type": "Text"
+    },
+    {
+      "entity": "Ulster Cycle",
+      "type": "Text"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Mac Da Thó's Pig",
+      "attribute": "cross-reference heading for Scéla Mucce Meic Dathó"
+    },
+    {
+      "entity": "Mac Dathó",
+      "attribute": "owner of the pig and the hound Ailbe"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Mac Da Thó's Pig'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Documents the cross-reference heading Mac Da Thó's Pig and its target tale Scéla Mucce Meic Dathó.",
+    "key_results": [
+      "The heading points to Scéla Mucce Meic Dathó, The Story of Mac Da Thó's Pig",
+      "Mac Dathó owns the pig that tests the champion's portion",
+      "The tale belongs to the Ulster Cycle"
+    ],
+    "evidence": "MacKillop 2008, s.v. Mac Da Thó's Pig."
+  }
+}

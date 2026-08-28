@@ -1,0 +1,38 @@
+{
+  "name": "Maxen Wledig",
+  "text": "Maxen Wledig points to Breuddwyd Macsen Wledig, The Dream of Macsen Wledig. The dictionary gives no independent article under this name and sends readers to that tale.",
+  "entities": [
+    {
+      "entity": "Maxen Wledig",
+      "type": "Person"
+    },
+    {
+      "entity": "Breuddwyd Macsen Wledig",
+      "type": "Text"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Maxen Wledig",
+      "attribute": "article redirects to Breuddwyd Macsen Wledig"
+    },
+    {
+      "entity": "Maxen Wledig",
+      "attribute": "name of the emperor-hero of the dream tale"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Maxen Wledig'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Documents Maxen Wledig as recorded in MacKillop 2008 for the Public Celtic Encyclopedia.",
+    "key_results": [
+      "The entry is a cross-reference, not a standalone account.",
+      "It routes readers to The Dream of Macsen Wledig."
+    ],
+    "evidence": "MacKillop 2008, s.v. Maxen Wledig."
+  }
+}

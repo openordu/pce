@@ -1,0 +1,43 @@
+{
+  "name": "Heledd",
+  "text": "Heledd may have been a woman of the seventh century. She is famous as the speaker of Canu Heledd, the Song of Heledd, a cycle of Welsh verse from the ninth or tenth century. Heledd is the last survivor of the royal line of Powys. In the verses she mourns her dead kin and her lost estate. Above all she grieves for her brother King Cynddylan, who fell in the early years of the seventh century. The centre of the cycle is the poem called Stafell Cynddylan, the Hall of Cynddylan. Some scholars see in her the land shown again as a goddess. Heledd thus gives a voice to the sorrow of a fallen kingdom.",
+  "entities": [
+    {
+      "entity": "Cynddylan",
+      "type": "Person"
+    },
+    {
+      "entity": "Powys",
+      "type": "Region"
+    },
+    {
+      "entity": "Canu Heledd",
+      "type": "Work"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Heledd",
+      "attribute": "last of the Powys dynasty"
+    },
+    {
+      "entity": "Heledd",
+      "attribute": "narrator of the Canu Heledd"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Heledd'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Record Heledd.",
+    "key_results": [
+      "Name the poem she narrates.",
+      "Set her as the last of the Powys house.",
+      "Tell of her mourning for Cynddylan."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Heledd'"
+  }
+}

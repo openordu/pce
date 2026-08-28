@@ -1,0 +1,43 @@
+{
+  "name": "Hy Many",
+  "text": "Hy Many is the anglicized form of the name Uí Maine. The tribe of Uí Maine was both important and numerous in early Ireland. Their lands lay in what is now eastern County Galway and southern County Roscommon. Though not of Goidelic origin, they made a Goidelic pedigree that traced descent from Maine Mór. The Book of Uí Maine, a late fourteenth-century manuscript, holds their genealogies and other matter. Hy Many therefore names a chief family of the west of Ireland.",
+  "entities": [
+    {
+      "entity": "Uí Maine",
+      "type": "Group"
+    },
+    {
+      "entity": "Maine Mór",
+      "type": "Person"
+    },
+    {
+      "entity": "Galway",
+      "type": "Region"
+    },
+    {
+      "entity": "Roscommon",
+      "type": "Region"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Hy Many",
+      "attribute": "anglicized form of Uí Maine"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Hy Many'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Record Hy Many.",
+    "key_results": [
+      "Translate the name to Uí Maine.",
+      "Give the lands of the tribe.",
+      "Note the Book of Uí Maine."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Hy Many'"
+  }
+}

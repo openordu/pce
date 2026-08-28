@@ -1,50 +1,53 @@
 {
- "name": "Lífe",
- "entities": [
-  {
-   "entity": "Lífe",
-   "type": "Person"
-  },
-  {
-   "entity": "River Liffey",
-   "type": "Place"
-  },
-  {
-   "entity": "Aran",
-   "type": "Place"
-  },
-  {
-   "entity": "Deltbanna",
-   "type": "Person"
-  }
- ],
- "sources": [
-  "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
- ],
- "attributes": [
-  {
-   "entity": "Lífe",
-   "attribute": "a goddess of the River Liffey"
-  },
-  {
-   "entity": "Lífe",
-   "attribute": "died giving birth at Port Agmar in Aran"
-  },
-  {
-   "entity": "Lífe",
-   "attribute": "a sweet, pleasant woman in the old poems"
-  }
- ],
- "cyphertext": "IsjVnt1Om9mWKQqL-wtZ431SZR6cYPKa-heBWgPIbHx2pV_32ImrK2ClNh1GX9HVXwQ87Ak-vKnFlo4TVUILQAipzLacSswS07mPhR0btzsT8WGFa4Mku2rU-1qlUkR2SN1Ar6zzGh-rF6Q4FWkXqmiyp57m9_MPGtOr0MlyfHVgqBOT8MyX8HpU1Hs4PcoP5wY3eaHCs-6ePI0FeUEGio9zLDCnQSekKNwif-KU44wA0F2AyC6HMipRM_lvJ0Ae9lpwDs-zMMrmsZpSbEBSZ1He1zidHy1zimbLvu-izx8J0z1vA7GWH5nNOJ8THd7Qn4kIi50AjJZkOyELXH8sCg9MI8rnZCY4-IovW_kR7Ub36y94uSyy9CbnBqGCUC7dVAvD6_7piLw-Co5zanzkqRnEgObQ3ppeTUfNmFd4wpQ-W6kz8TUk_6sfgdonj6U8Cg0rlJWID2oJW2goFJtsvv8tIPSikDGH58fESBYA1iJEzIbiMhiybnkLtjx52XguTCzd80kA-oXTyfuHnnOXgqK_hg4-2l3ba3Xyd8ef87bW5kA1iwYsFQoLPnNkZ_4wxEqLXOPYqe8Mg_5c3t5qHRgRt-yFcShL4OiK9q2J3U6JiSAjiok8tSrQmZVvIsM-V_X_7l9B4bRK9A9fl7JVSsG79xbS0uwudeqqEiXeo1wLpwG9mWyX4VPS1BnD0MEhPHL_wZB877ai1oQo",
- "salt": "Sd9pH5veahJNIGrLHjc-lw==",
- "text": "Lífe is the goddess of the River Liffey of Ireland. The old poems called her a sweet, busy, pleasant woman. She died in childbirth at a place called Port Agmar in Aran. Her lord died of grief for her, who loved her well.",
- "okr": {
-  "objective": "Tell the tale of the goddess Lífe and the river Liffey.",
-  "key_results": [
-   "Lífe was the goddess of the Liffey in Ireland",
-   "She died giving birth at a place in Aran",
-   "Her lord died of grief for her"
+  "name": "Lífe",
+  "entities": [
+    {
+      "entity": "Lífe",
+      "type": "Person"
+    },
+    {
+      "entity": "River Liffey",
+      "type": "Place"
+    },
+    {
+      "entity": "Aran",
+      "type": "Place"
+    },
+    {
+      "entity": "Deltbanna",
+      "type": "Person"
+    }
   ],
-  "evidence": "Monaghan, The Encyclopedia of Celtic Mythology and Folklore, 2003."
- }
+  "sources": [
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.",
+    "MacKillop 2008, s.v. 'Liffey'."
+  ],
+  "attributes": [
+    {
+      "entity": "Lífe",
+      "attribute": "a goddess of the River Liffey"
+    },
+    {
+      "entity": "Lífe",
+      "attribute": "died giving birth at Port Agmar in Aran"
+    },
+    {
+      "entity": "Lífe",
+      "attribute": "a sweet, pleasant woman in the old poems"
+    }
+  ],
+  "cyphertext": "IsjVnt1Om9mWKQqL-wtZ431SZR6cYPKa-heBWgPIbHx2pV_32ImrK2ClNh1GX9HVXwQ87Ak-vKnFlo4TVUILQAipzLacSswS07mPhR0btzsT8WGFa4Mku2rU-1qlUkR2SN1Ar6zzGh-rF6Q4FWkXqmiyp57m9_MPGtOr0MlyfHVgqBOT8MyX8HpU1Hs4PcoP5wY3eaHCs-6ePI0FeUEGio9zLDCnQSekKNwif-KU44wA0F2AyC6HMipRM_lvJ0Ae9lpwDs-zMMrmsZpSbEBSZ1He1zidHy1zimbLvu-izx8J0z1vA7GWH5nNOJ8THd7Qn4kIi50AjJZkOyELXH8sCg9MI8rnZCY4-IovW_kR7Ub36y94uSyy9CbnBqGCUC7dVAvD6_7piLw-Co5zanzkqRnEgObQ3ppeTUfNmFd4wpQ-W6kz8TUk_6sfgdonj6U8Cg0rlJWID2oJW2goFJtsvv8tIPSikDGH58fESBYA1iJEzIbiMhiybnkLtjx52XguTCzd80kA-oXTyfuHnnOXgqK_hg4-2l3ba3Xyd8ef87bW5kA1iwYsFQoLPnNkZ_4wxEqLXOPYqe8Mg_5c3t5qHRgRt-yFcShL4OiK9q2J3U6JiSAjiok8tSrQmZVvIsM-V_X_7l9B4bRK9A9fl7JVSsG79xbS0uwudeqqEiXeo1wLpwG9mWyX4VPS1BnD0MEhPHL_wZB877ai1oQo",
+  "salt": "Sd9pH5veahJNIGrLHjc-lw==",
+  "text": "Lífe is the goddess of the River Liffey in Irish tradition. The Dindshenchas, the old place-name poems, call her a sweet, busy, and pleasant woman. They say she died in childbirth at Port Agmar in Aran. Her lord loved her well and died of grief for her. The river then carried her name. MacKillop records the Liffey as a fifty-mile river of eastern Ireland. It rises in County Wicklow and flows through Kildare. It reaches the sea at Dublin harbour. The plain that the river runs through is called Mag Lífe. Its name shares one root with the goddess and the river. The same root appears in the name of Cairbre Lifechair, a king of Tara. He is a namesake of the Liffey plain rather than the goddess herself. The river stayed alive in literature. James Joyce made it a character in Finnegans Wake. He gave it the name Anna Liffey. The name comes from the Irish Abha na Life, which means the River Life. His figure Anna Livia Plurabelle is the same river in human form. Lífe thus joins old belief, a real river, and modern letters in one story. The poets called her sweet, yet the water she rules still carries the busy traffic of a capital. Her gentle verse-form and the strong flow of the river stand side by side in her memory. Thus her name flows on in the very water of the capital city at the river's mouth.",
+  "okr": {
+    "objective": "record Lífe as goddess of the River Liffey",
+    "key_results": [
+      "name her the river goddess and the sweet woman of the Dindshenchas",
+      "tell of her death in childbirth and her lord mourning",
+      "trace the river from Wicklow to Dublin",
+      "link the names Life, Mag Lífe, and Cairbre Lifechair",
+      "note the Anna Livia figure of James Joyce"
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Liffey'"
+  }
 }

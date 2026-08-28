@@ -2,60 +2,46 @@
 layout: layouts/pce.njk
 title: Lia Fáil
 icon: file-lines
-order: 1430
+order: 0
 contributors: [ 'Christopher Godwin' ]
 attributes:
-  - Scottish Stone of Scone returned to Scotland in 1996
-  - Scottish nationalists attempted to recover it
-  - Scottish Stone of Scone not the Irish Lia Fáil
-  - Scottish Stone of Scone came from Egypt
-  - Scottish Stone of Scone has magical power
-  - Jacob slept upon it
-  - Jacob dreamed of angels ascending to heaven
+  - Lia Fáil the stone that screamed for the true king
+  - Lia Fáil one of the four magic tools of the Irish folk
+  - Tara the hill where the stone crowned the High King
 categories:
-  - Location
   - Artifact
   - Group
-  - Person
+  - Place
 entities:
-  - Scotland(Location)
-  - Scottish nationalists(Group)
-  - Scottish Stone of Scone(Artifact)
-  - Irish Lia Fáil(Artifact)
-  - Egypt(Location)
-  - Jacob(Person)
+  - Lia Fáil(Artifact)
+  - Tuatha Dé Danann(Group)
+  - Tara(Place)
+  - Scotland(Place)
 tags:
+  - Lia Fáil
+  - Tuatha Dé Danann
+  - Tara
   - Scotland
-  - Scottish nationalists
-  - Scottish Stone of Scone
-  - Irish Lia Fáil
-  - Egypt
-  - Jacob
 ---
 ``` tab [group1:Info]
 ::: magazinestyle
-The Lia Fáil, also known as the Stone of Destiny, is one of the four great magical objects of the Tuatha Dé Danann, the people of the goddess Danu in Irish mythology. This great stone pillar was said to have come from the Otherworld, specifically from the magical city of Fálias. It was believed to have stood on the great hill of Tara in Ireland and was used during Inauguration ceremonies of the High King. Legend has it that the true Lia Fáil would scream when touched by the rightful king. The other magical objects of the Tuatha Dé came from three other different Otherworld cities and included a spear that never missed, an invincible sword, and an inexhaustible cauldron. Despite its importance, there is some speculation about the true identity of the Lia Fáil that currently stands on Tara hill. Many legends claim that the true Lia Fáil has long resided in the Otherworld after being taken there when its owners were banished from the surface world. As per other legends, the true Lia Fáil now lies in Scotland. In the year 600 C.E., Tara's king loaned the Lia Fáil to his Scottish brother, who then refused to return it, and eventually became the Stone of Scone. The English king Edward I took the stone after the fall of Macbeth in 1057 and put it under the throne at Westminster Abbey, where it served for many years as the Inauguration Stone and the official symbol of authorization for the English monarchs. However, records suggest that it did not scream like the original Lia Fáil. Scotland attempted to retrieve the stone multiple times before it was finally returned in 1996. Some individuals argue that the Stone of Scone is not identical to the Irish Lia Fáil but originates from Egypt. This legendary stone was considered to be enchanted, as it had been sanctified in ancient times when Jacob from the Bible slept on it and envisioned angels climbing to the heavens.
+Lia Fáil is the stone of destiny of Irish legend. It is one of four great treasures that the Tuatha Dé Danann brought from their Otherworld cities. MacKillop tells that the stone came from the city of Falias. The other treasures were the sword of Nuadu from Findias, the spear of Lug from Gorias, and the cauldron of the Dagda from Murias. The stone cries out beneath a lawful king when he stands on it. A false claimant drew no sound from it. In early tradition the stone stood on the hill of Tara for the crowning of the High King. The Lia Fáil stands at the centre of Cormac's House, a small earthwork inside the Royal Enclosure at Tara. Many accounts say the true stone never left the Otherworld, and that the stone on the hill is a copy. Other accounts hold that the stone crossed the sea to Scotland, where it became the Stone of Destiny of the Scottish kings. A stone still stands on the hill of Tara to mark the ancient coronation place. Each of the four treasures guarded a power of rule: the spear gave victory, the sword could not be refused, and the cauldron satisfied every guest. The Lia Fáil therefore belongs to the fellowship of the spear of Lug, the sword of Nuadu, and the ever-full cauldron of the Dagda. Later tradition gave the stone a voice, and its cry at a lawful king made Tara the seat of rightful rule.
 
 :::
 ```
 ``` tab [group1:Attributes]
-- **Scottish Stone of Scone**: returned to Scotland in 1996
-- **Scottish nationalists**: attempted to recover it
-- **Scottish Stone of Scone**: not the Irish Lia Fáil
-- **Scottish Stone of Scone**: came from Egypt
-- **Scottish Stone of Scone**: has magical power
-- **Jacob**: slept upon it
-- **Jacob**: dreamed of angels ascending to heaven
+- **Lia Fáil**: the stone that screamed for the true king
+- **Lia Fáil**: one of the four magic tools of the Irish folk
+- **Tara**: the hill where the stone crowned the High King
 ```
 ``` tab [group1:Entities]
-- **Scotland**: Location
-- **Scottish nationalists**: Group
-- **Scottish Stone of Scone**: Artifact
-- **Irish Lia Fáil**: Artifact
-- **Egypt**: Location
-- **Jacob**: Person
+- **Lia Fáil**: Artifact
+- **Tuatha Dé Danann**: Group
+- **Tara**: Place
+- **Scotland**: Place
 ```
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
+- MacKillop 2008, s.v. 'Lia Fáil'
 ```
 ![Lia Fáil Image](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Stone_of_Destiny_2018-07-24.jpg/1200px-Stone_of_Destiny_2018-07-24.jpg)

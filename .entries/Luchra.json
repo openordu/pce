@@ -1,0 +1,38 @@
+{
+  "name": "Luchra",
+  "text": "Luchra is a corrupt spelling of Iuchra, the name of two women in Irish tradition. The dictionary lists the form to route readers to the correct heading. The Iuchra entry carries the tales.",
+  "entities": [
+    {
+      "entity": "Luchra",
+      "type": "Concept"
+    },
+    {
+      "entity": "Iuchra",
+      "type": "Person"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Luchra",
+      "attribute": "corrupt spelling of Iuchra"
+    },
+    {
+      "entity": "Luchra",
+      "attribute": "variant form recorded by MacKillop"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Luchra'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Luchra is a corrupt spelling of Iuchra, the name of two women in Irish tradition.",
+    "key_results": [
+      "Corrupt spelling of Iuchra",
+      "Points to the two women named Iuchra in tradition"
+    ],
+    "evidence": "MacKillop 2008, s.v. Luchra."
+  }
+}

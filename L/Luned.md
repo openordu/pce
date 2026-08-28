@@ -2,67 +2,44 @@
 layout: layouts/pce.njk
 title: Luned
 icon: file-lines
-order: 1498
+order: 1785
 contributors: [ 'Christopher Godwin' ]
 attributes:
-  - Laudine mysterious and beautiful
-  - Owein unreliable estranged husband
-  - Luned Arthurian heroine
-  - Luned saved from danger
-  - Luned originally a Fairy woman
-  - fairies associated with forest fountains
-  - Breton language of fairies
-  - Korrigans Breton name for fairies
+  - Luned a maiden who serves the lady of the fountain
+  - Luned tells the knight how to defeat the guardian, who is her father
+  - Lunete the French and English name for the related helper figure
 categories:
-  - Arthurian heroine
-  - mythical creature
-  - mythical creatures
-  - language
-  - Lady Of The Fountain
-  - estranged husband
+  - Person
 entities:
-  - Luned(Arthurian heroine)
-  - Laudine(Lady Of The Fountain)
-  - Owein(estranged husband)
-  - Fairy woman(mythical creature)
-  - fairies(mythical creatures)
-  - Breton(language)
-  - Korrigans(mythical creatures)
+  - Luned(Person)
+  - Laudine(Person)
+  - Owein(Person)
+  - Lunete(Person)
 tags:
   - Luned
   - Laudine
   - Owein
-  - Fairy woman
-  - fairies
-  - Breton
-  - Korrigans
+  - Lunete
 ---
 ``` tab [group1:Info]
 ::: magazinestyle
-Arthurian romance holds within its pages a tale of reconciliation between the treacherous Owein and his estranged wife, the bewitching Lady Of The Fountain, thanks to the intervention of the enigmatic Luned. This heroine, whose gifts hint at her possible origin as a Fairy woman, owes her loyalty to Laudine and was rescued by a reformed Owein. The inclusion of forest fountains in Luned’s narrative affirms her possible connections with the Breton Korrigans, the fairy inhabitants of that realm.
+Luned is a maiden in the tales of King Arthur. Her name may echo a Welsh word for an image or an icon. In the thirteenth-century prose romance called Owain she helps the knight Owain overcome his rival. That tale makes the rival her own father. She tells the knight how to defeat the guardian of the fountain. She then helps him win the lady of the fountain as his wife. When Owain later leaves his wife, Luned tells the brothers of the Round Table about his failure to return. She also works to bring the couple together again. The French and English cycles of the story present a related maiden of the same kind. She appears in the romance titled Yvain and in other tales. They name her Luneta, Lyneta, or Lynette. These figures appear to derive from her. Some of her powers suggest a line of origin as a fairy woman. The Breton word for such fairies is Korrigans, and that name often marks this class of helper.
 
 :::
 ```
 ``` tab [group1:Attributes]
-- **Laudine**: mysterious and beautiful
-- **Owein**: unreliable estranged husband
-- **Luned**: Arthurian heroine
-- **Luned**: saved from danger
-- **Luned**: originally a Fairy woman
-- **fairies**: associated with forest fountains
-- **Breton**: language of fairies
-- **Korrigans**: Breton name for fairies
+- **Luned**: a maiden who serves the lady of the fountain
+- **Luned**: tells the knight how to defeat the guardian, who is her father
+- **Lunete**: the French and English name for the related helper figure
 ```
 ``` tab [group1:Entities]
-- **Luned**: Arthurian heroine
-- **Laudine**: Lady Of The Fountain
-- **Owein**: estranged husband
-- **Fairy woman**: mythical creature
-- **fairies**: mythical creatures
-- **Breton**: language
-- **Korrigans**: mythical creatures
+- **Luned**: Person
+- **Laudine**: Person
+- **Owein**: Person
+- **Lunete**: Person
 ```
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
+- MacKillop 2008, s.v. 'Luned'
 ```
 ![Luned Image](https://upload.wikimedia.org/wikipedia/commons/8/8a/Iwein-laudine-ring.jpg)

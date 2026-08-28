@@ -1,0 +1,28 @@
+{
+  "name": "Gwair",
+  "text": "Gwair, also written Gweir, is a mysterious prisoner of Caer Siddi in Welsh tradition. Caer Siddi is another name for Annwfn, the Otherworld described in the early poem called the Spoils of Annwfn. The Welsh Triads count him among the three greatest captives in the older accounts of the Island of Britain, and they place him beside Mabon, the famous prisoner. The hero Goreu has the deed of freeing him. Some modern scholars argue that the word means a tide and not a person at all. Under that reading the name could point to any of several figures in the Mabinogi, even including Mabon himself. The name thus lives at the oldest and most puzzling edge of Welsh legend.",
+  "entities": [
+    { "entity": "Mabon", "type": "Person" },
+    { "entity": "Annwfn", "type": "Region" },
+    { "entity": "Caer Siddi", "type": "Place" }
+  ],
+  "attributes": [
+    { "entity": "Gwair", "attribute": "prisoner of Caer Siddi" },
+    { "entity": "Gwair", "attribute": "counted among the exalted prisoners of the Isle of Britain" }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Gwair'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Record the prisoner Gwair of the Welsh Otherworld.",
+    "key_results": [
+      "Place Gwair within Caer Siddi in Annwfn.",
+      "Note his standing of the Welsh Triads.",
+      "Show the scholarly reading of his name as a tide."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Gwair'"
+  }
+}

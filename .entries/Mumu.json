@@ -1,19 +1,8 @@
 {
   "name": "Mumu",
-  "attributes": [
-    {
-      "entity": "Mumu",
-      "attribute": "an old name for the province of Munster"
-    },
-    {
-      "entity": "Munster",
-      "attribute": "the south province of music and song in the tale"
-    },
-    {
-      "entity": "Meath",
-      "attribute": "the center that was a symbol, not a real land"
-    }
-  ],
+  "cyphertext": "IIYb-PPnlg-MXIBsJn4XhOaOmZCtXjE6os4d3YzaDyhb6JY8lApX2Q-5nnwWR9xbjL695n5S",
+  "salt": "T4nKwcdZv-S9c9zLCP1hIA==",
+  "text": "Mumu serves as the earlier Irish name for the province of Munster, and the two titles travel together through the books. This province fills much of the south and the south-west of Ireland, and it ranks as the largest of the four. Its ground reached nine thousand three hundred and seventeen square miles. Cartographers set the firm borders of these provinces only in the seventeenth century. In the oldest ordering the tales laid out four lands, one for each point of the compass. Leinster in the east kept the wealth. Connacht in the west kept the wisdom. Ulster in the north kept the strength of battle. Munster toward the south-west kept the music and the song. A fifth land named Meath marked the centre, yet Meath worked as a symbol of the story rather than a real map. Under the older count the province could stand as one of five whenever the tellers set Meath apart. Set Meath aside, and the province instead fell into two parts that ran as separate halves of one people. The speech of the region split the province into two named halves, and those halves matched a true split in rule and in land. The western half took the title Iarmumu or Irmumu. The eastern half took the title Aurmumu or Ormond. In the twelfth century the province truly clove in two. The royal house of the north, the O'Brien realm, took the name Tuadmuma or Thomond. The royal house of the south, the MacCarthy realm, took the name Desmuma or Desmond. Within these borders sat the southern counties of Clare, Cork, Kerry, Limerick, Tipperary, and Waterford. The soil of this land lay fertile and rich, and its valleys made it a storehouse of plenty. Much of the fortune of this southern province rose with the strength of its people of the east, who ruled the region for a long age. Poets of the south used the older word in their verses, and that word marked the province from the days of the first tales. So the name Mumu carries the memory of the southern land that the single word Munster would later name.",
   "entities": [
     {
       "entity": "Mumu",
@@ -38,23 +27,62 @@
     {
       "entity": "Meath",
       "type": "Place"
+    },
+    {
+      "entity": "Iarmumu",
+      "type": "Place"
+    },
+    {
+      "entity": "Aurmumu",
+      "type": "Place"
+    },
+    {
+      "entity": "Ormond",
+      "type": "Place"
+    },
+    {
+      "entity": "Thomond",
+      "type": "Place"
+    },
+    {
+      "entity": "Desmond",
+      "type": "Place"
+    },
+    {
+      "entity": "Eóganacht",
+      "type": "Group"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Mumu",
+      "attribute": "an old Irish name for the province of Munster, the largest of the four"
+    },
+    {
+      "entity": "Mumu",
+      "attribute": "the west half was Iarmumu and the east half was Aurmumu"
+    },
+    {
+      "entity": "Mumu",
+      "attribute": "split in the twelfth century into Thomond and Desmond"
+    },
+    {
+      "entity": "Meath",
+      "attribute": "the centre that served as a symbol, not a real land"
     }
   ],
   "sources": [
-    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.",
+    "MacKillop 2008, s.v. 'Iarmumu'",
+    "MacKillop 2008, s.v. 'Mumu'"
   ],
-  "cyphertext": "IIYb-PPnlg-MXIBsJn4XhOaOmZCtXjE6os4d3YzaDyhb6JY8lApX2Q-5nnwWR9xbjL695n5S",
-  "salt": "T4nKwcdZv-S9c9zLCP1hIA==",
-  "text": "Mumu is an old name for the province of Munster, and the two names sit side by side in the books. In the old order of Ireland the earlier tale divided the island into four lands. Leinster in the east held the wealth. Connacht in the west held the wisdom. Ulster in the north held the war and its fierce men. Munster toward the southwest held the music and the song. A fifth land, Meath, took the center, but it was a symbol of the myth, not a real map. Munster the south was known for the fertile valley and for the goddesses of its high places.",
   "okr": {
-    "objective": "Document Mumu.",
+    "objective": "Record Mumu as the older Irish name of Munster and its halves",
     "key_results": [
-      "Record Mumu as an old name for Munster.",
-      "Record the four lands of the tale.",
-      "Record Munster as the land of music and song."
+      "Mumu named the same province as Munster",
+      "the east half was Aurmumu and the west half was Iarmumu",
+      "the twelfth century split it into Thomond and Desmond"
     ],
-    "evidence": [
-      "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore (2008): Munster entry."
-    ]
+    "evidence": "MacKillop 2008, s.v. 'Mumu' and s.v. 'Iarmumu'"
   }
 }

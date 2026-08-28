@@ -1,52 +1,64 @@
 {
-  "name": "Heilyn",
-  "attributes": [
-    {
-      "entity": "Heilyn",
-      "attribute": "minor Welsh hero of the Mabinogion, a survivor of Brân the Blessed's war on Ireland"
-    },
-    {
-      "entity": "Heilyn",
-      "attribute": "opened the magic door through which the surviving warriors escaped"
-    }
-  ],
-  "entities": [
-    {
-      "entity": "Heilyn",
-      "type": "Person"
-    },
-    {
-      "entity": "Mabinogion",
-      "type": "Artifact"
-    },
-    {
-      "entity": "Brân the Blessed",
-      "type": "Person"
-    },
-    {
-      "entity": "Ireland",
-      "type": "Place"
-    },
-    {
-      "entity": "Welsh",
-      "type": "Culture"
-    }
-  ],
-  "sources": [
-    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-  ],
-  "cyphertext": "aP7Y_Yq97T4O99awu4bS2eHbPvoRkCBAe8MKvt2xD-bHPBecIUgssAL626eTX-lHjvpXMJfbsc9t5G_I4F7_jJtjG0TZObNr8I6Tb88fw0iUcKAiYIIXV7Ijs406XJX7OWZpNVXNtZyYRaJPBdi9JMW3Tf7zFrOpBKQebMIYvTIPB3U5B8vSTaMxwBUfLXZgm30-56IJlyGm1GhI47k9QnGUnAFEvVuz8RzeIgfb7jCc2r3Uj9dnyfT3DeIOP3hVBfDzzJ98ymJE3x3fZVfEjZsCVSXGTt_SHT2yDZh9H67nMlPkti2OQIudwa09-DItQEtOF7O-vxtlEmPAK9T3iSF-",
-  "salt": "bnB-BfrLsr7XNDqKdFoB0Q==",
-  "text": "Heilyn is a minor Welsh hero. He fought in the Welsh epic the Mabinogion. Brân the Blessed waged a fierce war on Ireland in that tale. Only a few warriors survived the battles. Heilyn was one of them. He opened the magic door through which the survivors escaped.",
-  "okr": {
-    "objective": "Document Heilyn, the minor Welsh hero who opened the escape door.",
-    "key_results": [
-      "Record his place in the Mabinogion.",
-      "Describe the war of Brân the Blessed on Ireland.",
-      "Note that Heilyn opened the magic door for the survivors."
-    ],
-    "evidence": [
-      "Monaghan, P. The Encyclopedia of Celtic Mythology and Folklore (2008): Heilyn entry."
-    ]
+ "name": "Heilyn",
+ "attributes": [
+  {
+   "entity": "Hei",
+   "attribute": "a minor cup-bearer figure of Welsh legend"
+  },
+  {
+   "entity": "Hei",
+   "attribute": "the son of Gwyn opened the magic door on Gwale"
+  },
+  {
+   "entity": "Hei",
+   "attribute": "the Red kept the bed where the hero Rho dreams"
   }
+ ],
+ "entities": [
+  {
+   "entity": "Hei",
+   "type": "Person"
+  },
+  {
+   "entity": "Heily fab Gwyn",
+   "type": "Person"
+  },
+  {
+   "entity": "Hei the Red",
+   "type": "Person"
+  },
+  {
+   "entity": "Gwale",
+   "type": "Place"
+  },
+  {
+   "entity": "Bran the Blessed",
+   "type": "Person"
+  },
+  {
+   "entity": "The Dream of Rhonthecy",
+   "type": "Work"
+  },
+  {
+   "entity": "Ireland",
+   "type": "Place"
+  }
+ ],
+ "sources": [
+  "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.",
+  "MacKillop 2008, s.v. 'Heilyn fab Gwyn'",
+  "MacKillop 2008, s.v. 'Heilyn Goch'"
+ ],
+ "cyphertext": "aP7Y_Yq97T4O99awu4bS2eHbPvoRkCBAe8MKvt2xD-bHPBecIUgssAL626eTX-lHjvpXMJfbsc9t5G_I4F7_jJtjG0TZObNr8I6Tb88fw0iUcKAiYIIXV7Ijs406XJX7OWZpNVXNtZyYRaJPBdi9JMW3Tf7zFrOpBKQebMIYvTIPB3U5B8vSTaMxwBUfLXZgm30-56IJlyGm1GhI47k9QnGUnAFEvVuz8RzeIgfb7jCc2r3Uj9dnyfT3DeIOP3hVBfDzzJ98ymJE3x3fZVfEjZsCVSXGTt_SHT2yDZh9H67nMlPkti2OQIudwa09-DItQEtOF7O-vxtlEmPAK9T3iSF-",
+ "salt": "bnB-BfrLsr7XNDqKdFoB0Q==",
+ "text": "Heilyn is a minor hero of Welsh legend, and one word for a cup-bearer carries more than one of the name. Not every use of it marks the same man.\n\nThe fullest of them, Heilyn the son of Gwyn, shows up on the far isle of Gwales. A small band keeps a good table there after the war with the Irish while a sealed door of the west stands shut against the storms of the world. Heilyn draws that door open with an idle hand, and the spell of the quiet land breaks at once. From that hour the company must feel the grief they had put off. His cup-bearer title still speaks of pouring, but his part in the tale is the unlucky opening.\n\nThe other of the name, Heilyn the Red, stands beside a sleeper rather than a feast. He has the charge of a climbing bed, and into that bed the mind of a dejected knight falls when the tale of his dream turns to the telling. The whole vision sits inside that shabby room, and the Red one is its keeper. His name says he waits on the cup, and the red in it comes from his own coloring. So the same word does a quiet duty in both stories.\nThe two Heilyn are not the same man, and the shared title binds a cup-bearer of the high tale to the keeper of a low room. In the tale the son of Gwyn keeps company with the handful left alive after the Irish war under Matholwch, and his idle hand at the west door ends the long forgetting on Gwales.",
+ "okr": {
+  "objective": "Record the two separate figures who share the name Hei in Welsh tale.",
+  "key_results": [
+   "one opened the sealed door on the isle of Gwale",
+   "the other kept the bed of the dreamer of the night tale",
+   "both draw their name from the word for cup-bearer"
+  ],
+  "evidence": "MacKillop 2008, s.v. 'Hei fab G6' and 'Hei'"
+ }
 }

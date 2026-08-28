@@ -1,0 +1,60 @@
+{
+  "name": "Lugaid mac Nóis",
+  "text": "Lugaid mac Nóis, a son of Alamiach, shares a fosterage with Cúchulainn in the Táin Bó Cúailnge. While Cúchulainn is away, Forgall, the father of Emer, seeks a husband for her. He fixes on Lugaid, a king of the south. Then Lugaid mac Nóis learns that Cúchulainn himself desires Emer. He draws back at once and will have nothing further to do with the match. The tale paints a rival who yields the woman to the hero without complaint.",
+  "entities": [
+    {
+      "entity": "Lugaid mac Nóis",
+      "type": "Person"
+    },
+    {
+      "entity": "Cúchulainn",
+      "type": "Person"
+    },
+    {
+      "entity": "Emer",
+      "type": "Person"
+    },
+    {
+      "entity": "Forgall",
+      "type": "Person"
+    },
+    {
+      "entity": "Alamiach",
+      "type": "Person"
+    },
+    {
+      "entity": "Táin Bó Cúailnge",
+      "type": "Text"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Lugaid mac Nóis",
+      "attribute": "foster-brother of Cúchulainn in the Táin Bó Cúailnge"
+    },
+    {
+      "entity": "Lugaid mac Nóis",
+      "attribute": "son of Alamiach"
+    },
+    {
+      "entity": "Lugaid mac Nóis",
+      "attribute": "withdrew from a proposed marriage with Emer once he learned of Cúchulainn's desire for her"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Lugaid mac Nóis'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Documents Lugaid mac Nóis, the considerate foster-brother of Cúchulainn who steps aside from a match with Emer.",
+    "key_results": [
+      "Son of Alamiach and foster-brother of Cúchulainn in the Táin Bó Cúailnge",
+      "Emer's father Forgall proposes him as a husband for Emer while Cúchulainn is absent",
+      "The source describes him as a king of the south",
+      "On learning that Cúchulainn desires Emer, he refuses any further part in the match"
+    ],
+    "evidence": "MacKillop 2008, s.v. Lugaid mac Nóis."
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "name": "Imchad",
+  "text": "Imchad is a figure found in the older Irish texts. The older accounts call him the cruel husband of Uime. Uime is the woman who later marries the hero Cuchulainn. In these early stories Imchad stands only as her first husband. The narrative says nothing further about him.",
+  "entities": [
+    {"entity": "Imchad", "type": "Person"},
+    {"entity": "Uime", "type": "Person"},
+    {"entity": "Cuchulainn", "type": "Person"}
+  ],
+  "attributes": [
+    {"entity": "Imchad", "attribute": "early husband of Uime in the older texts"}
+  ],
+  "sources": ["MacKillop 2008, s.v. 'Imchad'"],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Record Imchad.",
+    "key_results": ["Note his place as the early husband.", "Name Uime as his wife.", "Recall the link to the hero Cuchulainn."],
+    "evidence": "MacKillop 2008, s.v. 'Imchad'"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "name": "Kaw",
+  "text": "Kaw is the Breton spelling of the name Caw. Caw is a hero of Welsh Arthuriana. He came from the north of Britain to the court of Arthur. In the tale of Culhwch and Olwen he assaults the boar Ysgithyrwyn. He splits the head of the boar and takes its tusks. Kaw therefore keeps the Breton form of the hero.",
+  "entities": [
+    {
+      "entity": "Caw",
+      "type": "Person"
+    },
+    {
+      "entity": "Arthur",
+      "type": "Person"
+    },
+    {
+      "entity": "Culhwch ac Olwen",
+      "type": "Work"
+    },
+    {
+      "entity": "Ysgithyrwyn",
+      "type": "Animal"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Kaw",
+      "attribute": "Breton form of the hero Caw"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Kaw'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Record Kaw.",
+    "key_results": [
+      "Give the common form of the name.",
+      "Set the hero at the court of Arthur.",
+      "Note the Breton spelling."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Kaw'"
+  }
+}
