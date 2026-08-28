@@ -1,0 +1,71 @@
+{
+  "name": "Maelgwn Gwynedd",
+  "text": "Maelgwn Gwynedd (d. 547) was a historical king of Gwynedd in north Wales. He counted Cunedda among his great-grandfathers in the direct line, and he held court at Degannwy where the River Conway meets the sea. Oral tradition gives him a theatrical road to power. It tells how he beat his rivals in a tide contest, staying dry on a floating chair while they waded.\n\nEarly written records judge him far more harshly. Gildas accused Maelgwn of an excessive appetite for hearing his own praise, of clinging to the Pelagian heresy, and of killing first his wife and then a nephew, whose widow he married. These charges turned the king into a stock example of the wicked ruler in later Welsh writing.\n\nCenturies after his death, the Hanes Taliesin moved his story into legend. Taliesin there bests the poets of Maelgwn's court, above all Heinen Fardd. Modern studies of the king include J. Wood's 1984 essay on Maelgwn as a forgotten Welsh hero and J. E. Caerwyn Williams's 1984 examination of Gildas, Maelgwn, and the bards together.",
+  "entities": [
+    {
+      "entity": "Maelgwn Gwynedd",
+      "type": "Person"
+    },
+    {
+      "entity": "Gwynedd",
+      "type": "Place"
+    },
+    {
+      "entity": "Cunedda",
+      "type": "Person"
+    },
+    {
+      "entity": "Degannwy",
+      "type": "Place"
+    },
+    {
+      "entity": "Gildas",
+      "type": "Person"
+    },
+    {
+      "entity": "Taliesin",
+      "type": "Person"
+    },
+    {
+      "entity": "Heinen Fardd",
+      "type": "Person"
+    },
+    {
+      "entity": "Hanes Taliesin",
+      "type": "Text"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Maelgwn Gwynedd",
+      "attribute": "was a historical king of Gwynedd who died in 547"
+    },
+    {
+      "entity": "Maelgwn Gwynedd",
+      "attribute": "held court at Degannwy near the River Conway"
+    },
+    {
+      "entity": "Maelgwn Gwynedd",
+      "attribute": "won the kingship, in tradition, through a tide contest"
+    },
+    {
+      "entity": "Gildas",
+      "attribute": "accused Maelgwn of pride, heresy, and murder"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Maelgwn Gwynedd'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Documents Maelgwn Gwynedd as the historical sixth-century king of Gwynedd.",
+    "key_results": [
+      "Died 547; great-grandson of Cunedda; court at Degannwy",
+      "Tradition gives him a tide-contest route to the kingship",
+      "Gildas attacks him; the Hanes Taliesin makes him Taliesin's rival"
+    ],
+    "evidence": "MacKillop 2008, s.v. Maelgwn Gwynedd."
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "name": "Mag Dá Cheó",
+  "text": "Mag Dá Cheó is the plain of the two mists, a place in early Ireland. It lay between Cruachain and Athlone, inside the realm of the Ui Maine of Connacht, in what is today County Roscommon. Tradition attaches otherworldly associations to the site. Some accounts connect it with Mag Mell, the pleasant plain of Irish story, and the two names are at times confused with one another.",
+  "entities": [
+    {
+      "entity": "Mag Dá Cheó",
+      "type": "Place"
+    },
+    {
+      "entity": "Cruachain",
+      "type": "Place"
+    },
+    {
+      "entity": "Athlone",
+      "type": "Place"
+    },
+    {
+      "entity": "Ui Maine",
+      "type": "Group"
+    },
+    {
+      "entity": "Connacht",
+      "type": "Place"
+    },
+    {
+      "entity": "Mag Mell",
+      "type": "Place"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Mag Dá Cheó",
+      "attribute": "means the plain of the two mists"
+    },
+    {
+      "entity": "Mag Dá Cheó",
+      "attribute": "lay between Cruachain and Athlone in Ui Maine territory"
+    },
+    {
+      "entity": "Mag Dá Cheó",
+      "attribute": "carries otherworldly associations and is linked with Mag Mell"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Mag Dá Cheó'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Documents Mag Dá Cheó as an early-Irish plain with otherworld ties.",
+    "key_results": [
+      "Means the plain of the two mists",
+      "Between Cruachain and Athlone, in County Roscommon today",
+      "Sometimes confused or linked with Mag Mell"
+    ],
+    "evidence": "MacKillop 2008, s.v. Mag Dá Cheó."
+  }
+}

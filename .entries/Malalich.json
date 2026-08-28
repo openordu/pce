@@ -1,0 +1,47 @@
+{
+  "name": "Malalich",
+  "text": "Malalich, also recorded as Samaliliath, belongs to the Partholonians, the first legendary settlers of Ireland. The tradition credits him with bringing the drinking of ale into the country. He also ordained divination, sacrifice, and ritual, which makes him a founder figure for religious practice in the Partholonian account.",
+  "entities": [
+    {
+      "entity": "Malalich",
+      "type": "Person"
+    },
+    {
+      "entity": "Partholonians",
+      "type": "Group"
+    },
+    {
+      "entity": "Ireland",
+      "type": "Place"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Malalich",
+      "attribute": "brought the drinking of ale into Ireland"
+    },
+    {
+      "entity": "Malalich",
+      "attribute": "ordained divination, sacrifice, and ritual"
+    },
+    {
+      "entity": "Partholonians",
+      "attribute": "count Malalich among their number"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Malalich'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Documents Malalich as the Partholonian introducer of ale and ritual.",
+    "key_results": [
+      "Variant form Samaliliath",
+      "Introduced ale-drinking to Ireland",
+      "Ordained divination, sacrifice, and ritual"
+    ],
+    "evidence": "MacKillop 2008, s.v. Malalich."
+  }
+}

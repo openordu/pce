@@ -1,0 +1,38 @@
+{
+  "name": "Maine Mílbél",
+  "text": "Maine Mílbél carries the Irish gloss honey-mouth. The dictionary records him as a legendary hero of Munster and nothing more. His notice is a bare identification, and his significance rests on the region and the epithet the entry joins.",
+  "entities": [
+    {
+      "entity": "Maine Mílbél",
+      "type": "Person"
+    },
+    {
+      "entity": "Munster",
+      "type": "Place"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Maine Mílbél",
+      "attribute": "carries the epithet honey-mouth"
+    },
+    {
+      "entity": "Maine Mílbél",
+      "attribute": "is a legendary Munster hero"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Maine Mílbél'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Records Maine Milbel as a legendary Munster hero.",
+    "key_results": [
+      "Epithet means honey-mouth",
+      "Legendary hero of Munster"
+    ],
+    "evidence": "MacKillop 2008, s.v. Maine Mílbél."
+  }
+}

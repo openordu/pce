@@ -1,0 +1,47 @@
+{
+  "name": "Mag",
+  "text": "Mag is the Irish word for a plain. It appears in countless actual and imaginary place-names across early Irish tradition. English forms often render it phonetically as Moy-, so Mag Tuired surfaces as Moytura or Moytirra. The spelling Magh represents the Modern Irish form of the same word. Compare tir, the Irish word for land, which builds a parallel family of place-names.",
+  "entities": [
+    {
+      "entity": "Mag",
+      "type": "Concept"
+    },
+    {
+      "entity": "Magh",
+      "type": "Concept"
+    },
+    {
+      "entity": "Mag Tuired",
+      "type": "Place"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Mag",
+      "attribute": "is the Irish word for plain"
+    },
+    {
+      "entity": "Mag",
+      "attribute": "is anglicized phonetically as Moy- in place-names"
+    },
+    {
+      "entity": "Magh",
+      "attribute": "is the Modern Irish spelling of Mag"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Mag'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Documents Mag as the Irish place-name word for a plain.",
+    "key_results": [
+      "Irish word for plain, common in place-names",
+      "Anglicized phonetically as Moy-",
+      "Magh is the Modern Irish spelling"
+    ],
+    "evidence": "MacKillop 2008, s.v. Mag."
+  }
+}

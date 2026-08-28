@@ -1,0 +1,42 @@
+{
+  "name": "Maol",
+  "text": "Maol, with its combining form Maol-, is the Modern Irish spelling of Mael and Mael-. The older form builds names of servants and devotees, such as Mael Duin. Readers should follow the main entry under Mael for the name family.",
+  "entities": [
+    {
+      "entity": "Maol",
+      "type": "Concept"
+    },
+    {
+      "entity": "Máel",
+      "type": "Concept"
+    },
+    {
+      "entity": "Mael Duin",
+      "type": "Person"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Maol",
+      "attribute": "is the Modern Irish spelling of Mael"
+    },
+    {
+      "entity": "Mael",
+      "attribute": "builds names of servants and devotees, such as Mael Duin"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Maol'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Records Maol as the Modern Irish spelling of Mael.",
+    "key_results": [
+      "Modern Irish form of Mael and Mael-",
+      "Name family treated under Mael"
+    ],
+    "evidence": "MacKillop 2008, s.v. Maol."
+  }
+}

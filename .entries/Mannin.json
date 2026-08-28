@@ -1,0 +1,38 @@
+{
+  "name": "Mannin",
+  "text": "Mannin is what Manx speakers call the Isle of Man, and the island's tradition keeps the parallel form Elian Vannin alongside it. Readers chasing the island's lore, language, and history should follow the main entry under Man, Isle of.",
+  "entities": [
+    {
+      "entity": "Mannin",
+      "type": "Concept"
+    },
+    {
+      "entity": "Man, Isle of",
+      "type": "Place"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Mannin",
+      "attribute": "is the Manx name for the Isle of Man"
+    },
+    {
+      "entity": "Man, Isle of",
+      "attribute": "carries the main article the dictionary points to"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Mannin'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Records Mannin as the Manx name for the Isle of Man.",
+    "key_results": [
+      "Manx name for the Isle of Man",
+      "Parallel form Elian Vannin"
+    ],
+    "evidence": "MacKillop 2008, s.v. Mannin."
+  }
+}

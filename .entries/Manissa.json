@@ -1,0 +1,42 @@
+{
+  "name": "Manissa",
+  "text": "Manissa is the anglicization of Maigneis, the second wife of Fionn mac Cumhaill. Readers who meet the English form in translated sources should follow the main entry under Maigneis for the family ties and the tale role.",
+  "entities": [
+    {
+      "entity": "Manissa",
+      "type": "Person"
+    },
+    {
+      "entity": "Maigneis",
+      "type": "Person"
+    },
+    {
+      "entity": "Fionn mac Cumhaill",
+      "type": "Person"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Manissa",
+      "attribute": "is the anglicization of Maigneis"
+    },
+    {
+      "entity": "Maigneis",
+      "attribute": "is the second wife of Fionn mac Cumhaill"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Manissa'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Records Manissa as the anglicized form of Maigneis.",
+    "key_results": [
+      "Anglicization of Maigneis",
+      "Names Fionn's second wife"
+    ],
+    "evidence": "MacKillop 2008, s.v. Manissa."
+  }
+}

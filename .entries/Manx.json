@@ -1,0 +1,38 @@
+{
+  "name": "Manx",
+  "text": "Manx is the dictionary's pointer to the article on the Isle of Man. The word names both the Goidelic language of the island and the culture built on it. The main entry under Man, Isle of, carries the history, the Manannan material, and the folklore.",
+  "entities": [
+    {
+      "entity": "Manx",
+      "type": "Concept"
+    },
+    {
+      "entity": "Man, Isle of",
+      "type": "Place"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Manx",
+      "attribute": "names the Goidelic language and culture of the Isle of Man"
+    },
+    {
+      "entity": "Man, Isle of",
+      "attribute": "carries the main article"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Manx'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Records Manx as the redirect to the Isle of Man article.",
+    "key_results": [
+      "Names the island's language and culture",
+      "Main material sits under Man, Isle of"
+    ],
+    "evidence": "MacKillop 2008, s.v. Manx."
+  }
+}
