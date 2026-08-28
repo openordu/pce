@@ -1,55 +1,83 @@
 {
-  "name": "Rudiobus",
-  "attributes": [
-    {
-      "entity": "Rudiobus",
-      "attribute": "known from a single horse statue"
-    },
-    {
-      "entity": "Rudiobus",
-      "attribute": "may be a god in horse form or an offering"
-    },
-    {
-      "entity": "Rudiobus",
-      "attribute": "linked to the Romano-Celtic Mars"
-    },
-    {
-      "entity": "Mullo",
-      "attribute": "a name for Mars possibly meaning mule"
-    }
-  ],
-  "entities": [
-    {
-      "entity": "Rudiobus",
-      "type": "god"
-    },
-    {
-      "entity": "Mars",
-      "type": "god"
-    },
-    {
-      "entity": "Mullo",
-      "type": "god"
-    },
-    {
-      "entity": "horse statue",
-      "type": "artifact"
-    }
-  ],
-  "sources": [
-    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-  ],
-  "cyphertext": "oeBJQOkE6iwqQvzQ-HDTe0GUnsuGrvpAm-MoDXd8U4favkkXbL79yEyGvdpriP6F6_nuCVnvfTJ98IsbF0qXGpdIADp_NDKQuArZ8yu8O0vjXnCBa3OpB7AKsdchuXtMHqZH08sQWsV-coGaR7vwKys3EcgyNk-uAwsxNLhPhjo3poq63YAmBzVtD_3bw2JXRu36pWz667FBmbPXn37hp0gYDfIZeSjWYHKkPmiqL5aMCjgeMIpDiis99qLDScrjYyeX5WJruAQ5_R5V-39r4AWUyfrDWwdjUzz6XTYE868l8zIFi6a_MFyYCQgi_-lsCvuTeCXXzxmkxdLduagINTm8IH_tzSzcskS9fHdbhr4Q4cc0W2nTuvvL_dauJD1o0kwf_CtOoiXpMERxGpxjrwIJnxTxdLsR6fCblAB_0CiPPzcm-WwaoMRd2zjSVQywjefvsg==",
-  "salt": "yPkjBVpJY2kspKh8zzknoA==",
-  "text": "Rudiobus is a Continental Celtic god. He is an obscure Gaulish god known from a single item, a statue of a horse. That piece may show the god in horse form, or it may be an offering made to him. People link him with the Romano-Celtic god Mars. That god is also called Mullo, a name that may mean mule.",
-  "okr": {
-    "objective": "Present Rudiobus as an obscure Gaulish god tied to the horse statue and Mars.",
-    "key_results": [
-      "He is known from a single horse statue.",
-      "The statue may show the god or serve as an offering.",
-      "He is joined to the Romano-Celtic god Mars.",
-      "Mars appears under the name Mullo, possibly mule."
-    ],
-    "evidence": "Monaghan, Encyclopedia of Celtic Mythology and Folklore"
+ "name": "Rudiobus",
+ "attributes": [
+  {
+   "entity": "Rudiobus",
+   "attribute": "known from a single horse statue"
+  },
+  {
+   "entity": "Rudiobus",
+   "attribute": "may be a god in horse form or an offering"
+  },
+  {
+   "entity": "Rudiobus",
+   "attribute": "linked to the Romano-Celtic Mars"
+  },
+  {
+   "entity": "Mullo",
+   "attribute": "a name for Mars possibly meaning mule"
+  },
+  {
+   "entity": "Rudiobus",
+   "attribute": "fine bronze figurines of the first century BC carry his name"
+  },
+  {
+   "entity": "Rudiobus",
+   "attribute": "a prancing horse is inscribed sacred to the god Rudiobus"
+  },
+  {
+   "entity": "Rudiobus",
+   "attribute": "the bronzes were found at Neuvy-en-Sullias in the Loire valley"
+  },
+  {
+   "entity": "Rudiobus",
+   "attribute": "rather than a native god he may be an aspect of Gaulish Mars"
   }
+ ],
+ "entities": [
+  {
+   "entity": "Rudiobus",
+   "type": "god"
+  },
+  {
+   "entity": "Mars",
+   "type": "god"
+  },
+  {
+   "entity": "Mullo",
+   "type": "god"
+  },
+  {
+   "entity": "horse statue",
+   "type": "artifact"
+  },
+  {
+   "entity": "Neuvy-en-Sullias",
+   "type": "place"
+  },
+  {
+   "entity": "Loire valley",
+   "type": "place"
+  },
+  {
+   "entity": "bronze figurines",
+   "type": "artifact"
+  }
+ ],
+ "sources": [
+  "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.",
+  "MacKillop 2008, s.v. 'Rudiobus'"
+ ],
+ "cyphertext": "oeBJQOkE6iwqQvzQ-HDTe0GUnsuGrvpAm-MoDXd8U4favkkXbL79yEyGvdpriP6F6_nuCVnvfTJ98IsbF0qXGpdIADp_NDKQuArZ8yu8O0vjXnCBa3OpB7AKsdchuXtMHqZH08sQWsV-coGaR7vwKys3EcgyNk-uAwsxNLhPhjo3poq63YAmBzVtD_3bw2JXRu36pWz667FBmbPXn37hp0gYDfIZeSjWYHKkPmiqL5aMCjgeMIpDiis99qLDScrjYyeX5WJruAQ5_R5V-39r4AWUyfrDWwdjUzz6XTYE868l8zIFi6a_MFyYCQgi_-lsCvuTeCXXzxmkxdLduagINTm8IH_tzSzcskS9fHdbhr4Q4cc0W2nTuvvL_dauJD1o0kwf_CtOoiXpMERxGpxjrwIJnxTxdLsR6fCblAB_0CiPPzcm-WwaoMRd2zjSVQywjefvsg==",
+ "salt": "yPkjBVpJY2kspKh8zzknoA==",
+ "text": "Rudiobus is a Continental Celtic god. He is an obscure Gaulish horse-god known from fine bronze figurines of the first century BC. One piece is a prancing horse inscribed sacred to the god Rudiobus. The bronzes were found at Neuvy-en-Sullias in the valley of the Loire. The statue may show the god in horse form, or it may be an offering made to him. Rather than a native god, Rudiobus may be one aspect of the Gaulish Mars. That god is also called Mullo, a name that may mean mule.",
+ "okr": {
+  "objective": "Present Rudiobus as a Gaulish horse-god of the Loire valley.",
+  "key_results": [
+   "Date the bronze figurines to the first century BC",
+   "Record the prancing horse inscribed sacred to the god Rudiobus",
+   "Name Neuvy-en-Sullias as the findspot and note the link to Mars"
+  ],
+  "evidence": "MacKillop 2008, s.v. 'Rudiobus'."
+ }
 }

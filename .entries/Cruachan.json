@@ -1,58 +1,95 @@
 {
-  "name": "Cruachan",
-  "attributes": [
-    {
-      "entity": "Cruachan",
-      "attribute": "an Irish mythological site with many variant names"
-    },
-    {
-      "entity": "Cruachan",
-      "attribute": "lies in the eastern part of the western province of Connacht"
-    },
-    {
-      "entity": "Cruachan",
-      "attribute": "recorded as the capital of Connacht and linked to the queen Medb"
-    },
-    {
-      "entity": "Connacht",
-      "attribute": "the western province"
-    },
-    {
-      "entity": "Medb",
-      "attribute": "queen linked to Cruachan"
-    }
-  ],
-  "entities": [
-    {
-      "entity": "Cruachan",
-      "type": "location"
-    },
-    {
-      "entity": "Connacht",
-      "type": "location"
-    },
-    {
-      "entity": "Medb",
-      "type": "god"
-    }
-  ],
-  "sources": [
-    "Dames, Michael. Mythic Ireland. London: Thames and Hudson, 1992, 237–242.",
-    "Gwynn, Edward. The Metrical Dindshenchas. Vol. III. Royal Irish Academy, Todd Lecture Series. Dublin: Hodges, Figgis, and Co., Ltd., 1906–1924, 349–355.",
-    "Hull, Eleanor. The Cuchullin Saga in Irish Literature. London: David Nutt, 1898, 111+.",
-    "Raftery, Brian. Pagan Celtic Ireland: The Enigma of the Irish Iron Age. London: Thames and Hudson, 1994, 70.",
-    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-  ],
-  "cyphertext": "U0yXec2XrvUvwGaEmfxWXOyYaVF49U1b-BEQiU-jLzdk_MOHVxW5XQGj7GqBICmmNAXZsSuo23UuEaK_-VMr6vTS43nqRwWSoY6lxWz6Nj4tIsj9BgZEtW2ehTme0rKh0OdwXxPvcwFnPjDys__NQnjhu2hcGdi6RjEF3bzmK_3LvO1hskpwFJfSPWfxp1HNhYR7YdOlbLc-v-hljZKF06xrbhErmsE4KFqg1t1-DVyt-hSTTZ-uJAj4u3rNhdlCOGUyU8yJ1dv6V1-fGB82h4l_s25stGLS-Bm9zKAWukFbXKyNtghEBG-Gn_G0D7tJ__lidwvX39uOzYnTSO8OJcS_tvRy4TABxTJKJIp3N8y84h_zOzqsisxyOjN5Q-MXM-2gDl66dbHC3zmsGW3qWzXxpU6KRteTyoVJTZX3WmlKWjLvhV5m2y5O6RvbZ-WgQUWupelmLKCC8Jw3D3lhSjnMIseUv6jkgOy3LmL_-xAw856z1jkpkl-JDPMdJWAS84YHa708F1b5n2TRpw_FgiL8Cts_lFQUM4khN7UvmrZcbctumGu_214Z2-OjZr-aSAHJLF1HYGddkliQt4YPNIgGmhaKxoBUwW8FVB3JqlOK7kKbWeAIqTZVh0BlyR6fO2b6EXogTsxWh2zJKxN3gFkP_49tBDCcpc5AvVQSDYCIRxPr-y5N7HQ2Tk9DsS8FohuReO279Biaez2bMoZbK_bH1PZSpFxI43I473c2qd15ZIXWTP7_1NcsAby3e-FEZN0tyySny03Vz5g79saday1a2QzU6oyTkEOFQMwpqWmtbCiZVjmwH7lPU0V1se4RhHNObxLcoG_43m4vwZ-UcV3Dxgu0F6MttJUialbKrX8YPkL8D8MHjtYhxvqDWG5O8OKDdFc7o_oqMjwGtcZUABh0YaSb66t-rT59rH7V8vzKVvWPlpr6m-z9oVlBt6l749ngED6oBztrUR8IR9id6EM3wtLFBtJjNzeXbAn6NFVr-CxCfoS6CEn-nPl7xR7gk9r10ti0__XxiuGDoICRYq9-_iumyg5rbgY8V7NR7fBi6DrxTyz4cqDZM2U4t7m6_e6owRhlxR-wbXMWQzGxRxIOFYQqbZk--nw0JkjeZWYGCo6btyqzv8-NhYq7P0zlEtpcdoe2r9IEGYSWAEulZ2zmwqNfMFWBxOpLfARHkvova4-hW59wNC-hEZC8FsdayUNB8IvsdeB6pqgKRMQm5-ZeGGRZoDnukElkqgYDHzWJP9D9smBDCWISvlUVTkVAEyx_tM5E3IObYrcujaioNTVGJ6dr5wb7tiEjEKn_B6fiMaL8r4QD95nuqERCF3pbKXy8F_0vc8yxVlz5kBOiivk0lhAcIG2088ntVqti5TjjxyEPC2xuuuZvOS29oYn0y9Z8QVR4byXWGr8XrvrwsUIy9HB-7S52u6swxZ7NRQeZx4LVwh1xKgZ-H8Dp9qjkHaCxBNyFSPzjlOE7i7G3mOoqbIFllpoHXbBsKUxU1eXGbnIQ9-HXSIn4h2X075IYnnKUUpFyrDwrmReqoiVoGu7aMLNoz5QsGt7W5t0AtsO_0n-rSV20r0IF_bWedKYhivKMX1TPTCiDUXaZhpJ8ffJGlj_3U0UeFGKjLaSuXO0EzId_e2ibc_KrlPNDUhEjwVQ3KR0VX9Jv5x_n9g6rkGyKlsYqe-RXZ824H3k5M4OwzoTWBCAYZWmOstlq2uNPPqLC3O_fqhEh8rxPhAQu3EYdqdING8tN-5iGKD8bfzTWbGlX5zxDankEejM7CxWAOw33fHqN-mKyXksG0WrTXs8taki5QZrnk0O2uiVjmx5AaLgjZ_2XfdtcrYEjBokad_LE-UALsSSqdvALcmOE9FJVZqJOOABRxkRAsSVkLr0_d0XWmeyjq19wdQX83jcO8OhRhsK2VxIUq6KIYWYUhnn30HY7lTffbgdqOgb5Wn7utfztMkz2cePqrLHlz56d84guIRYuyPRMqShi9BZqZqCTJOIa0b-K8_eUJ17PXsHoKiohwiUI-9XUYJXcGn4be6s6qJ2vTuMNQFR4fyUTajjUHD13yLTSRnPqWQx40pDKF_jK_1WUK6wnykmFW0Bm-PwI0FD4FfMb0rbE7me8W_La7E29M58yIhYLnZZ8kNq6_pxODONjQjTBmmw2J3bUw20eq5BWrtsIqDFB2k0KyDEC4HGLX265IWa9Z0PjfhMRztpgG-7bXtievahOf9q5h5NIidOGIUKkDw3igBoDworCC6NlUUnDR-frniPc9LZ8f_KanzhwyshqvhSSVm51zxQtfXFpRRhb4u5M8Xi-lijum-3pWvgREYNW8hvKXHTvN9nmd68UWDfwEc4plJK58wZF1ABG-ieZEaYpLMBxk1QQb_6tga29-IJr_w22eCjdkwC83Q8Rpwm-T8JzxzrN5uh78iJARfHk9syb3sYAwDcjcPjzMlQ6gApPeMyOuafV7TOqLhandIFQpvIEIvKs2YaylmIgWRZ3mJ0eB0cmULVo-Y9nP4GkhSiEbKGnOpsRgsCgrmE1rLzuvHewskBk1lJ4DnqARTFUbvgmeqxyiGAfE7pnV_sW2zYEj2lTq1Cb8gOsjaQKMVZrdixuSqUZELaxYsxtpPL6PIEl2XpF5Jjm9StMrgq9iN_rQ-LiWGAQLI6c6VPA9Gnam-vhCI0spWd1uxsbrB48yimpW_sAo6uLT6wygZYpulls1_9IYC8CB1RUx312pN2Q4b9FSdXM5Kz7Elr7qJcTg81AFOR1Ba52-NRvSd8bQpmXM2EQzFVuf3Dh52bAhd-tQT0w6w5FPE78_8WebsKYy_2vnmAhxQzqNRngk8Me_yzi-S1hWX6Jr5arfkFXnFP14Y5zulz3WdMDR7gsyK5BKhwDv7VfFHW_AETJY82M6ytK3T_8So61cbhNenHdnNQinFQwRkfH3bTSLWNMK0EUEAKXHFg40owaLuIiuNlxPCp8A31dbhdEi7wxVzjqk54azttyFT3rz2B-yZy2jDaivUb70TpmcBqWMcFn9wfDEZpKsj-9yD9kloKOZIsp481MFY3XVzDDjMuucQ==",
-  "salt": "6W1WdI0DXqvGMxOCQAda6g==",
-  "text": "Cruachan, also called Crogan, Rathcrogan, Cruachain, Crúachu, Rathcruachain, and Bri Ele, is a mythological place of Ireland. It lies in the eastern side of Connacht, the western province. Written sources name it the capital of Connacht and bind it to the queen Medb.",
-  "okr": {
-    "objective": "Cruachan is the mythological site and capital of Connacht associated with the queen Medb.",
-    "key_results": [
-      "Cruachan is named an Irish mythological site.",
-      "It stands in the eastern part of the western province of Connacht.",
-      "It is also called Crogan, Rathcrogan, Cruachain, Crúachu, Rathcruachain, and Bri Ele."
-    ],
-    "evidence": "Monaghan, Encyclopedia of Celtic Mythology and Folklore"
+ "name": "Cruachan",
+ "attributes": [
+  {
+   "entity": "Cruachan",
+   "attribute": "an Irish mythological site with many variant names"
+  },
+  {
+   "entity": "Cruachan",
+   "attribute": "lies in the eastern part of the western province of Connacht"
+  },
+  {
+   "entity": "Cruachan",
+   "attribute": "recorded as the capital of Connacht and linked to the queen Medb"
+  },
+  {
+   "entity": "Connacht",
+   "attribute": "the western province"
+  },
+  {
+   "entity": "Medb",
+   "attribute": "queen linked to Cruachan"
+  },
+  {
+   "entity": "Cruachan",
+   "attribute": "identified with the archaeological site of Rathcroghan near Tulsk in north Co. Roscommon"
+  },
+  {
+   "entity": "Cruachan",
+   "attribute": "stands beside Tara, Emain Macha, and Dún Ailinne in age and in story"
+  },
+  {
+   "entity": "Cruachan",
+   "attribute": "its cave is called the Hells Gate of Ireland"
+  },
+  {
+   "entity": "Cruachan",
+   "attribute": "holds five concentric fortified circles and ogham inscriptions"
+  },
+  {
+   "entity": "Cruachan",
+   "attribute": "a standing stone is said to mark the grave of Dathi"
   }
+ ],
+ "entities": [
+  {
+   "entity": "Cruachan",
+   "type": "location"
+  },
+  {
+   "entity": "Connacht",
+   "type": "location"
+  },
+  {
+   "entity": "Medb",
+   "type": "god"
+  },
+  {
+   "entity": "Ailill",
+   "type": "god"
+  },
+  {
+   "entity": "Táin Bó Cuailnge",
+   "type": "Concept"
+  },
+  {
+   "entity": "Dathi",
+   "type": "Person"
+  },
+  {
+   "entity": "Roscommon",
+   "type": "location"
+  }
+ ],
+ "sources": [
+  "Dames, Michael. Mythic Ireland. London: Thames and Hudson, 1992, 237–242.",
+  "Gwynn, Edward. The Metrical Dindshenchas. Vol. III. Royal Irish Academy, Todd Lecture Series. Dublin: Hodges, Figgis, and Co., Ltd., 1906–1924, 349–355.",
+  "Hull, Eleanor. The Cuchullin Saga in Irish Literature. London: David Nutt, 1898, 111+.",
+  "Raftery, Brian. Pagan Celtic Ireland: The Enigma of the Irish Iron Age. London: Thames and Hudson, 1994, 70.",
+  "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.",
+  "MacKillop 2008, s.v. 'Rathcroghan'"
+ ],
+ "cyphertext": "U0yXec2XrvUvwGaEmfxWXOyYaVF49U1b-BEQiU-jLzdk_MOHVxW5XQGj7GqBICmmNAXZsSuo23UuEaK_-VMr6vTS43nqRwWSoY6lxWz6Nj4tIsj9BgZEtW2ehTme0rKh0OdwXxPvcwFnPjDys__NQnjhu2hcGdi6RjEF3bzmK_3LvO1hskpwFJfSPWfxp1HNhYR7YdOlbLc-v-hljZKF06xrbhErmsE4KFqg1t1-DVyt-hSTTZ-uJAj4u3rNhdlCOGUyU8yJ1dv6V1-fGB82h4l_s25stGLS-Bm9zKAWukFbXKyNtghEBG-Gn_G0D7tJ__lidwvX39uOzYnTSO8OJcS_tvRy4TABxTJKJIp3N8y84h_zOzqsisxyOjN5Q-MXM-2gDl66dbHC3zmsGW3qWzXxpU6KRteTyoVJTZX3WmlKWjLvhV5m2y5O6RvbZ-WgQUWupelmLKCC8Jw3D3lhSjnMIseUv6jkgOy3LmL_-xAw856z1jkpkl-JDPMdJWAS84YHa708F1b5n2TRpw_FgiL8Cts_lFQUM4khN7UvmrZcbctumGu_214Z2-OjZr-aSAHJLF1HYGddkliQt4YPNIgGmhaKxoBUwW8FVB3JqlOK7kKbWeAIqTZVh0BlyR6fO2b6EXogTsxWh2zJKxN3gFkP_49tBDCcpc5AvVQSDYCIRxPr-y5N7HQ2Tk9DsS8FohuReO279Biaez2bMoZbK_bH1PZSpFxI43I473c2qd15ZIXWTP7_1NcsAby3e-FEZN0tyySny03Vz5g79saday1a2QzU6oyTkEOFQMwpqWmtbCiZVjmwH7lPU0V1se4RhHNObxLcoG_43m4vwZ-UcV3Dxgu0F6MttJUialbKrX8YPkL8D8MHjtYhxvqDWG5O8OKDdFc7o_oqMjwGtcZUABh0YaSb66t-rT59rH7V8vzKVvWPlpr6m-z9oVlBt6l749ngED6oBztrUR8IR9id6EM3wtLFBtJjNzeXbAn6NFVr-CxCfoS6CEn-nPl7xR7gk9r10ti0__XxiuGDoICRYq9-_iumyg5rbgY8V7NR7fBi6DrxTyz4cqDZM2U4t7m6_e6owRhlxR-wbXMWQzGxRxIOFYQqbZk--nw0JkjeZWYGCo6btyqzv8-NhYq7P0zlEtpcdoe2r9IEGYSWAEulZ2zmwqNfMFWBxOpLfARHkvova4-hW59wNC-hEZC8FsdayUNB8IvsdeB6pqgKRMQm5-ZeGGRZoDnukElkqgYDHzWJP9D9smBDCWISvlUVTkVAEyx_tM5E3IObYrcujaioNTVGJ6dr5wb7tiEjEKn_B6fiMaL8r4QD95nuqERCF3pbKXy8F_0vc8yxVlz5kBOiivk0lhAcIG2088ntVqti5TjjxyEPC2xuuuZvOS29oYn0y9Z8QVR4byXWGr8XrvrwsUIy9HB-7S52u6swxZ7NRQeZx4LVwh1xKgZ-H8Dp9qjkHaCxBNyFSPzjlOE7i7G3mOoqbIFllpoHXbBsKUxU1eXGbnIQ9-HXSIn4h2X075IYnnKUUpFyrDwrmReqoiVoGu7aMLNoz5QsGt7W5t0AtsO_0n-rSV20r0IF_bWedKYhivKMX1TPTCiDUXaZhpJ8ffJGlj_3U0UeFGKjLaSuXO0EzId_e2ibc_KrlPNDUhEjwVQ3KR0VX9Jv5x_n9g6rkGyKlsYqe-RXZ824H3k5M4OwzoTWBCAYZWmOstlq2uNPPqLC3O_fqhEh8rxPhAQu3EYdqdING8tN-5iGKD8bfzTWbGlX5zxDankEejM7CxWAOw33fHqN-mKyXksG0WrTXs8taki5QZrnk0O2uiVjmx5AaLgjZ_2XfdtcrYEjBokad_LE-UALsSSqdvALcmOE9FJVZqJOOABRxkRAsSVkLr0_d0XWmeyjq19wdQX83jcO8OhRhsK2VxIUq6KIYWYUhnn30HY7lTffbgdqOgb5Wn7utfztMkz2cePqrLHlz56d84guIRYuyPRMqShi9BZqZqCTJOIa0b-K8_eUJ17PXsHoKiohwiUI-9XUYJXcGn4be6s6qJ2vTuMNQFR4fyUTajjUHD13yLTSRnPqWQx40pDKF_jK_1WUK6wnykmFW0Bm-PwI0FD4FfMb0rbE7me8W_La7E29M58yIhYLnZZ8kNq6_pxODONjQjTBmmw2J3bUw20eq5BWrtsIqDFB2k0KyDEC4HGLX265IWa9Z0PjfhMRztpgG-7bXtievahOf9q5h5NIidOGIUKkDw3igBoDworCC6NlUUnDR-frniPc9LZ8f_KanzhwyshqvhSSVm51zxQtfXFpRRhb4u5M8Xi-lijum-3pWvgREYNW8hvKXHTvN9nmd68UWDfwEc4plJK58wZF1ABG-ieZEaYpLMBxk1QQb_6tga29-IJr_w22eCjdkwC83Q8Rpwm-T8JzxzrN5uh78iJARfHk9syb3sYAwDcjcPjzMlQ6gApPeMyOuafV7TOqLhandIFQpvIEIvKs2YaylmIgWRZ3mJ0eB0cmULVo-Y9nP4GkhSiEbKGnOpsRgsCgrmE1rLzuvHewskBk1lJ4DnqARTFUbvgmeqxyiGAfE7pnV_sW2zYEj2lTq1Cb8gOsjaQKMVZrdixuSqUZELaxYsxtpPL6PIEl2XpF5Jjm9StMrgq9iN_rQ-LiWGAQLI6c6VPA9Gnam-vhCI0spWd1uxsbrB48yimpW_sAo6uLT6wygZYpulls1_9IYC8CB1RUx312pN2Q4b9FSdXM5Kz7Elr7qJcTg81AFOR1Ba52-NRvSd8bQpmXM2EQzFVuf3Dh52bAhd-tQT0w6w5FPE78_8WebsKYy_2vnmAhxQzqNRngk8Me_yzi-S1hWX6Jr5arfkFXnFP14Y5zulz3WdMDR7gsyK5BKhwDv7VfFHW_AETJY82M6ytK3T_8So61cbhNenHdnNQinFQwRkfH3bTSLWNMK0EUEAKXHFg40owaLuIiuNlxPCp8A31dbhdEi7wxVzjqk54azttyFT3rz2B-yZy2jDaivUb70TpmcBqWMcFn9wfDEZpKsj-9yD9kloKOZIsp481MFY3XVzDDjMuucQ==",
+ "salt": "6W1WdI0DXqvGMxOCQAda6g==",
+ "text": "Cruachan is the great fortress of Connacht in early Irish story. The name appears in many spellings, among them Cruachain, Crúachán, Croghan, and Rathcroghan. Irish forms also name the cave of Cruachain and the ridge of the druids. Narratives such as the Táin Bó Cuailnge place the stronghold in the hands of Medb and of Ailill, her husband. Writers identify the fortress of the stories with Rathcroghan, a wide archaeological site near Tulsk in north County Roscommon. In age and in its Old Irish references Cruachan stands beside Tara, Emain Macha, and Dún Ailinne. Those are the great royal sites of Meath, Ulster, and Leinster.\nThe tales describe that fortress of the royal pair as splendid and wide, with seven compartments for residents. In many stories a mention of Cruachan stands for the wealth and power of Connacht. The cave at the site is as famous as the fort. Tradition calls it the Hells Gate of Ireland, and the tale Echtra Nerai describes its terrors. Aillén comes out of the cave and lays waste the land. White birds whose breath withers plants fly from it, with three predatory cats and uncountable wild pigs.\nArchaeologists suggest that Goidelic invaders built Rathcroghan and used it as a capital over the native people. The site covers about two square miles. It holds many earthworks, mounds that may be passage-graves, and five concentric fortified circles. Amateur archaeologists gave parts of the site names such as Medb's Treasury. One circular enclosure carries the grand title Reilig na Righ, a cemetery of kings. Digging has not shown any burials there. A stone seven feet high marks, by report, the grave of Dathi, the final pagan king of Ireland. Ogham inscriptions appear at several points across the site.",
+ "okr": {
+  "objective": "Cruachan is the royal fortress of Connacht, seat of Medb and Ailill, identified with Rathcroghan near Tulsk.",
+  "key_results": [
+   "Name its variant forms and its rank beside Tara, Emain Macha, and Dún Ailinne",
+   "Describe the fortress of seven compartments and the cave called the Hells Gate of Ireland",
+   "Record the archaeology: earthworks, passage-grave mounds, five circles, ogham stones, and the grave of Dathi"
+  ],
+  "evidence": "MacKillop 2008, s.v. 'Rathcroghan'."
+ }
 }
