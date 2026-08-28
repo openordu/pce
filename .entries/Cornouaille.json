@@ -4,26 +4,50 @@
     {
       "entity": "Cornouaille",
       "type": "place"
+    },
+    {
+      "entity": "Brittany",
+      "type": "place"
+    },
+    {
+      "entity": "Cornubia",
+      "type": "place"
     }
   ],
   "attributes": [
     {
       "entity": "Cornouaille",
       "attribute": "a kingdom of Brittany"
+    },
+    {
+      "entity": "Cornouaille",
+      "attribute": "a petty kingdom of Brittany from early Christian times"
+    },
+    {
+      "entity": "Cornouaille",
+      "attribute": "land south of the River Elorn to the Elle, in Finistère"
+    },
+    {
+      "entity": "Cornouaille",
+      "attribute": "coextensive with the ancient kingdom of Cornubia"
     }
   ],
   "sources": [
-    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.",
+    "MacKillop 2008, s.v. 'Cornouaille'."
   ],
   "cyphertext": "Ug8rSNsiLwNnC56yYvHDFVPz86lAbw3-GikTiAws_a1w8IDG9iUocc9y7Ytyaqm30bNusLVEoIjUMDBtfgLH2c-ioR8_Bxe2A5NNoJlzRJXwYx0L-0lK7D_HlYjdKqyMIxYENmzvqfrbXSgmzm0GE3eI8WZhjr414DwnVJaqOGAVkhEX7GrM6K_jq2EwaHfSe6iWoyctEWEBBA8fhCJ_HkKVUqf1NX_SIM3jUqyd47Ep2YwpTUgsb9yGpYSov3YSWYyEkEFA-OwGdOrnGV9ykF9WNOZ9ROxpbvC4R_859tVs58IXqKRG0br7yJC3ubYBt0--0hretwzVG-YIqMSg1Lw80T2eepPJDD_CSHDhWB2Hg6BaA6Dl7LcEgaU=",
   "salt": "TSJBEmxt-djr1iWHMsyT2Q==",
-  "text": "Cornouaille is a Breton mythological site. It was a kingdom of Brittany famous in myth and legend. Its name and its tales mark it as a center of Celtic story.",
+  "text": "Cornouaille is a Breton mythological site. It was a petty kingdom of Brittany from early Christian times. The region kept the name until the Napoleonic redivision of local government. Its lands lay south of the River Elorn and ran to the Elle, in the south-west of the modern Department of Finistère. The name recalls Cornwall, yet settlers from Cornwall do not appear to have founded it. Its area matches the ancient British kingdom of Cornubia. The Breton form of the name is Kemev. Its name and its tales mark it as a center of Celtic story.",
   "okr": {
     "objective": "Cornouaille is a famed Breton mythological kingdom.",
     "key_results": [
       "It was a kingdom of Brittany.",
       "It was famous in myth and legend.",
-      "It stands in the Celtic story world."
+      "It stands in the Celtic story world.",
+      "The kingdom kept its name until the Napoleonic redivision.",
+      "Its lands ran south of the River Elorn to the Elle.",
+      "It matches the ancient British kingdom of Cornubia."
     ],
     "evidence": "Monaghan, Encyclopedia of Celtic Mythology and Folklore"
   },

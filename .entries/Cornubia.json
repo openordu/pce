@@ -1,0 +1,51 @@
+{
+  "name": "Cornubia",
+  "text": "Cornubia is an ancient British kingdom of Armorica, the Breton peninsula, known from Roman times. Its lands match the later kingdom of Cornouaille and ran south from the River Elorn to the Elle. The name also serves, less often, as a latinized form for early Cornwall.",
+  "entities": [
+    {
+      "entity": "Cornubia",
+      "type": "place"
+    },
+    {
+      "entity": "Cornouaille",
+      "type": "place"
+    },
+    {
+      "entity": "Armorica",
+      "type": "place"
+    },
+    {
+      "entity": "Cornwall/Kernow",
+      "type": "place"
+    },
+    {
+      "entity": "Brittany",
+      "type": "place"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Cornubia",
+      "attribute": "ancient British kingdom in Armorica"
+    },
+    {
+      "entity": "Cornubia",
+      "attribute": "latinized name for early Cornwall in a second use"
+    }
+  ],
+  "okr": {
+    "objective": "Record the Armorican kingdom and its double use.",
+    "key_results": [
+      "Place Cornubia in Armorica in Roman times.",
+      "Match its lands to the later kingdom of Cornouaille.",
+      "Record the latinized use for early Cornwall."
+    ],
+    "evidence": "MacKillop, Dictionary of Celtic Mythology, 2008"
+  },
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "sources": [
+    "MacKillop 2008, s.v. 'Cornubia'."
+  ]
+}

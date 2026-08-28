@@ -1,0 +1,43 @@
+{
+  "name": "Cormac's cup",
+  "text": "Cormac's cup is a golden vessel in the tale Echtrae Cormaic. A mysterious stranger gives it to Cormac mac Airt and is later shown to be Manannán mac Lir. The cup breaks apart when a lie is spoken near it. It welds itself whole again when truth is told. The host uses it to prove that Eithne, Ailbe, and Cairbre are faithful. Cormac keeps the cup and judges falsehood with it for the rest of his reign. After his death the cup leaves Ireland and is never seen again.",
+  "entities": [
+    {
+      "entity": "Cormac's cup",
+      "type": "thing"
+    },
+    {
+      "entity": "Cormac mac Airt",
+      "type": "person"
+    },
+    {
+      "entity": "Manannán mac Lir",
+      "type": "person"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Cormac's cup",
+      "attribute": "golden vessel that breaks under lies and seals under truths"
+    },
+    {
+      "entity": "Manannán mac Lir",
+      "attribute": "giver of the cup to Cormac mac Airt"
+    }
+  ],
+  "okr": {
+    "objective": "Record the cup of truth given to Cormac mac Airt.",
+    "key_results": [
+      "Name the cup as a golden vessel of the tale.",
+      "State that it breaks under a lie and seals under truth.",
+      "Tie the cup to the reign of Cormac mac Airt and its end."
+    ],
+    "evidence": "MacKillop, Dictionary of Celtic Mythology, 2008"
+  },
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "sources": [
+    "MacKillop 2008, s.v. 'Cormac's cup'."
+  ]
+}

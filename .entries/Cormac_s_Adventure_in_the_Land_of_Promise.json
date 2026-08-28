@@ -1,0 +1,76 @@
+{
+  "name": "Cormac's Adventure in the Land of Promise",
+  "text": "Cormac's Adventure in the Land of Promise is the English title of the Old Irish tale Echtrae Cormaic. The text survives in the Book of Ballymote, the Book of Fermoy, and the Yellow Book of Lecan. Cormac mac Airt, high king of Tara and grandson of Conn Cétchathach, meets a stranger at dawn on the rampart. The man carries a silver branch with three golden apples. Its music puts every listener to sleep. Cormac trades the branch for three wishes. The stranger takes his daughter Ailbe, then his son Cairbre Lifechair, and last his wife Eithne. Cormac follows them into a mist and reaches a hall in the otherworld. There a pig will not cook until each guest tells a true story. When Cormac recounts his losses, the meal is ready. His host holds a golden cup that shatters under a lie and seals itself again under the truth. The host proves Eithne, Ailbe, and Cairbre faithful, and the cup becomes whole. He reveals himself as Manannán mac Lir, the sea god. Cormac keeps the branch and the cup for the rest of his reign. After his death both leave Ireland and are seen no more.",
+  "entities": [
+    {
+      "entity": "Cormac's Adventure in the Land of Promise",
+      "type": "text"
+    },
+    {
+      "entity": "Cormac mac Airt",
+      "type": "person"
+    },
+    {
+      "entity": "Manannán mac Lir",
+      "type": "person"
+    },
+    {
+      "entity": "Tara",
+      "type": "place"
+    },
+    {
+      "entity": "Book of Ballymote",
+      "type": "text"
+    },
+    {
+      "entity": "Book of Fermoy",
+      "type": "text"
+    },
+    {
+      "entity": "Ailbe",
+      "type": "person"
+    },
+    {
+      "entity": "Cairbre Lifechair",
+      "type": "person"
+    },
+    {
+      "entity": "Eithne",
+      "type": "person"
+    },
+    {
+      "entity": "Conn Cétchathach",
+      "type": "person"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Cormac's Adventure in the Land of Promise",
+      "attribute": "Irish tale of a king's journey to the otherworld"
+    },
+    {
+      "entity": "Manannán mac Lir",
+      "attribute": "host who tests the king with the cup of truth"
+    },
+    {
+      "entity": "Cormac mac Airt",
+      "attribute": "king who trades the branch for three wishes"
+    }
+  ],
+  "okr": {
+    "objective": "Record the tale of Cormac's journey to the Land of Promise.",
+    "key_results": [
+      "Name the tale as the English title of Echtrae Cormaic.",
+      "Record the three manuscripts that carry the text.",
+      "Tell the branch, the three wishes, and the cup of truth.",
+      "Name Manannán mac Lir as the host who reveals the truth."
+    ],
+    "evidence": "MacKillop, Dictionary of Celtic Mythology, 2008"
+  },
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "sources": [
+    "MacKillop 2008, s.v. 'Cormac's Adventure in the Land of Promise'."
+  ]
+}

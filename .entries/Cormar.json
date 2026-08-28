@@ -1,0 +1,38 @@
+{
+  "name": "Cormar",
+  "text": "Cormar is an attendant of Cumhal in Macpherson's Ossian of 1760. His name became proverbial for a deep knowledge of the sea.",
+  "entities": [
+    {
+      "entity": "Cormar",
+      "type": "person"
+    },
+    {
+      "entity": "Cumhall",
+      "type": "person"
+    },
+    {
+      "entity": "Ossian",
+      "type": "text"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Cormar",
+      "attribute": "attendant of Cumhal in Macpherson's Ossian"
+    }
+  ],
+  "okr": {
+    "objective": "Record the Ossianic attendant Cormar.",
+    "key_results": [
+      "Name Cormar as an attendant of Cumhal.",
+      "Give the proverbial link to knowledge of the sea."
+    ],
+    "evidence": "MacKillop, Dictionary of Celtic Mythology, 2008"
+  },
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "sources": [
+    "MacKillop 2008, s.v. 'Cormar'."
+  ]
+}

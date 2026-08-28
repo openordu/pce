@@ -1,0 +1,34 @@
+{
+  "name": "Coronation Stone",
+  "text": "Coronation Stone serves as a title for the Stone of Scone, the crowning stone of the Scottish kings. MacKillop sends the reader to the Lia Fáil article for the longer account of the stone.",
+  "entities": [
+    {
+      "entity": "Coronation Stone",
+      "type": "thing"
+    },
+    {
+      "entity": "Lia Fáil",
+      "type": "thing"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Coronation Stone",
+      "attribute": "title of the Stone of Scone"
+    }
+  ],
+  "okr": {
+    "objective": "Record the coronation title of the Stone of Scone.",
+    "key_results": [
+      "Name Coronation Stone as a title of the Stone of Scone.",
+      "Point the reader to the Lia Fáil article."
+    ],
+    "evidence": "MacKillop, Dictionary of Celtic Mythology, 2008"
+  },
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "sources": [
+    "MacKillop 2008, s.v. 'Coronation Stone'."
+  ]
+}

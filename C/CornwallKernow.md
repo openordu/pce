@@ -11,10 +11,15 @@ attributes:
   - Cornish lost its last native speaker in the eighteenth century and was later revived
   - Gorseth Kernow Cornish gorsedd founded in 1927, modelled on the Welsh institution
   - chough a bird used as an emblem of Cornish cultural identity
+  - Cornwall/Kernow a county of 1,369 square miles on a south-western peninsula
+  - Cornwall/Kernow former part of the kingdom of Dumnonia
+  - Cornwall/Kernow home of King Mark and Tristan in Arthurian tale
 categories:
-  - Language
-  - Creature
   - Group
+  - Creature
+  - person
+  - place
+  - Language
   - Person
   - Place
 entities:
@@ -25,6 +30,11 @@ entities:
   - R. Morton Nance(Person)
   - Gorseth Kernow(Group)
   - chough(Creature)
+  - Tintagel(place)
+  - Kelliwic(place)
+  - Mark(person)
+  - Tristan(person)
+  - Dumnonia(place)
 tags:
   - Cornwall
   - Cornish
@@ -33,10 +43,15 @@ tags:
   - R. Morton Nance
   - Gorseth Kernow
   - chough
+  - Tintagel
+  - Kelliwic
+  - Mark
+  - Tristan
+  - Dumnonia
 ---
 ``` tab [group1:Info]
 ::: magazinestyle
-Cornwall/Kernow is the southwesternmost part of Britain, long a home of the Brythonic Celtic language Cornish. Kernow is simply the Cornish name for Cornwall. Around 1100 the tongue ran from the river Tamar to Land's End, and close to twenty thousand of the county's roughly twenty-one thousand people spoke it. The centuries after saw Cornish give ground, retreating westwards until only the far west kept it alive into the early modern period. MacKillop's Dictionary records that the last native speaker of Cornish died during the 1700s. By about 1800 the language was almost gone. Revivalists then worked to bring it back, and modern Cornish still tends to reflect English phonetics. They urge a stress on the penultimate syllable, as in Welsh, and today the tongue is once more taught and spoken. Scholars such as Henry Jenner, R. Morton Nance, and others led the late nineteenth-century revival. A new institutional chapter came in 1927 with the founding of the Gorseth Kernow, the Cornish gorsedd, a gathering modelled on the Welsh institution that celebrates poetry, music, and culture. Its appearance in that year placed Cornwall in a family of revivals that also produced a Breton gorsedd in 1901. The Cornish also keep a strong emblem, the chough, a bird tied to the county's identity and named with the definite article as a local mark. It represents a pride in the culture that endured through the long decline of the language.
+Cornwall/Kernow is the southwesternmost part of Britain, long a home of the Brythonic Celtic language Cornish. Kernow is simply the Cornish name for Cornwall. Around 1100 the tongue ran from the river Tamar to Land's End, and close to twenty thousand of the county's roughly twenty-one thousand people still spoke it. The county covers 1,369 square miles on a south-western peninsula and once formed part of the kingdom of Dumnonia. Irish freebooters raided the peninsula before the sixth century and left settlements behind, and Irish missionaries later preached the faith there. As the Duchy of Cornwall the land kept its Celtic speech and customs behind the Tamar, despite the pressure of its Saxon neighbours. Cornish belongs to the Brythonic family beside Welsh and Breton. The gospel translations reach back to the tenth century, and mystery plays in Cornish survive from the fifteenth. The speech faded in the mid-eighteenth century, and enthusiasts revived it in the twentieth. Robert Hunt and William Bottrell gathered the lore of the county in the nineteenth, and Tintagel and Kelliwic carry its Arthurian tales, with the county named as the home of King Mark and Tristan. Henry Jenner and R. Morton Nance raised the revival's standard, and Gorseth Kernow keeps it. The chough still marks the county's heraldry.
 
 :::
 ```
@@ -47,6 +62,9 @@ Cornwall/Kernow is the southwesternmost part of Britain, long a home of the Bryt
 - **Cornish**: lost its last native speaker in the eighteenth century and was later revived
 - **Gorseth Kernow**: Cornish gorsedd founded in 1927, modelled on the Welsh institution
 - **chough**: a bird used as an emblem of Cornish cultural identity
+- **Cornwall/Kernow**: a county of 1,369 square miles on a south-western peninsula
+- **Cornwall/Kernow**: former part of the kingdom of Dumnonia
+- **Cornwall/Kernow**: home of King Mark and Tristan in Arthurian tale
 ```
 ``` tab [group1:Entities]
 - **Cornwall**: Place
@@ -56,9 +74,15 @@ Cornwall/Kernow is the southwesternmost part of Britain, long a home of the Bryt
 - **R. Morton Nance**: Person
 - **Gorseth Kernow**: Group
 - **chough**: Creature
+- **Tintagel**: place
+- **Kelliwic**: place
+- **Mark**: person
+- **Tristan**: person
+- **Dumnonia**: place
 ```
 ``` tab [group1:Sources]
 - Koch 2006, s.v. "Cornwall/Kernow"
 - Payton, Philip. Cornwall: A History (2004)
 - MacKillop 2008, s.v. 'Kernow'
+- MacKillop 2008, s.v. 'Cornwall'.
 ```
