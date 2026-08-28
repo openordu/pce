@@ -1,0 +1,47 @@
+{
+  "name": "Lugach",
+  "text": "Lugach is a daughter of Fionn mac Cumhaill in ballads of the Fenian Cycle. She is the mother of Mac Lughach. The name also appears in the form Lughach, and a masculine variant of it serves as a name form for the figure Lugaid.",
+  "entities": [
+    {
+      "entity": "Lugach",
+      "type": "Person"
+    },
+    {
+      "entity": "Fionn mac Cumhaill",
+      "type": "Person"
+    },
+    {
+      "entity": "Mac Lughach",
+      "type": "Person"
+    },
+    {
+      "entity": "Fenian Cycle",
+      "type": "Text"
+    }
+  ],
+  "attributes": [
+    [
+      "Lugach",
+      "daughter of Fionn mac Cumhaill in Fenian Cycle ballads"
+    ],
+    [
+      "Lugach",
+      "mother of the Fenian warrior Mac Lughach"
+    ]
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Lugach'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Documents Lugach, a minor Fenian Cycle figure defined by her kinship ties.",
+    "key_results": [
+      "Daughter of Fionn mac Cumhaill in Fenian Cycle ballads.",
+      "Mother of Mac Lughach.",
+      "Also recorded in the spelling Lughach."
+    ],
+    "evidence": "MacKillop 2008, s.v. Lugach."
+  }
+}

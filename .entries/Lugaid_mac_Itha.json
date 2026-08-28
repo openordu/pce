@@ -1,0 +1,60 @@
+{
+  "name": "Lugaid mac Ítha",
+  "text": "Lugaid mac Ítha is a constructed pedigree name. Its makers gave the hero of Munster, Lugaid mac Con, a father drawn from the invasion tradition, the Milesian figure Íth. The invented patronymic supplied genealogies with an illustrious forebear. Tradition also gives this Lugaid a wife, Fial. The families that became the O'Coffeys, the O'Driscolls, and other kindreds traced their line to the couple.",
+  "entities": [
+    {
+      "entity": "Lugaid mac Ítha",
+      "type": "Person"
+    },
+    {
+      "entity": "Lugaid mac Con",
+      "type": "Person"
+    },
+    {
+      "entity": "Íth",
+      "type": "Person"
+    },
+    {
+      "entity": "Milesians",
+      "type": "Group"
+    },
+    {
+      "entity": "Munster",
+      "type": "Place"
+    },
+    {
+      "entity": "Fial",
+      "type": "Person"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Lugaid mac Ítha",
+      "attribute": "Genealogists invented the patronymic to attach Íth to Lugaid mac Con's line."
+    },
+    {
+      "entity": "Lugaid mac Ítha",
+      "attribute": "Tradition names Fial as his wife."
+    },
+    {
+      "entity": "Lugaid mac Ítha",
+      "attribute": "The O'Coffeys and O'Driscolls claimed descent from him."
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Lugaid mac Ítha'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Documents Lugaid mac Ítha as a constructed genealogical name for Lugaid mac Con built on Íth.",
+    "key_results": [
+      "The name cites the Milesian Íth in the patronymic for use in genealogies.",
+      "It gives the Munster champion Lugaid mac Con an invented pedigree name.",
+      "Tradition makes Fial his wife.",
+      "The O'Coffeys, O'Driscolls, and other families traced their descent from him."
+    ],
+    "evidence": "MacKillop 2008, s.v. Lugaid mac Ítha."
+  }
+}
