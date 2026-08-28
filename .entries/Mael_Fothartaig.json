@@ -1,0 +1,46 @@
+{
+ "name": "Máel Fothartaig",
+ "text": "Máel Fothartaig is a hero of Leinster. His own father brings about his death in the tale Fingal Rónán, known in English as How Rónán Slew His Son.",
+ "entities": [
+  {
+   "entity": "Máel Fothartaig",
+   "type": "Person"
+  },
+  {
+   "entity": "Rónán",
+   "type": "Person"
+  },
+  {
+   "entity": "Fingal Rónán",
+   "type": "Work"
+  },
+  {
+   "entity": "Leinster",
+   "type": "Place"
+  }
+ ],
+ "attributes": [
+  {
+   "entity": "Máel Fothartaig",
+   "attribute": "Leinster hero slain by his own father"
+  },
+  {
+   "entity": "Máel Fothartaig",
+   "attribute": "victim of the tale Fingal Rónán"
+  }
+ ],
+ "sources": [
+  "MacKillop 2008, s.v. 'Máel Fothartaig'"
+ ],
+ "image": [],
+ "cyphertext": "",
+ "salt": "",
+ "okr": {
+  "objective": "Documents Máel Fothartaig as recorded in MacKillop 2008 for the Public Celtic Encyclopedia.",
+  "key_results": [
+   "Máel Fothartaig is a Leinster hero.",
+   "His father causes his death in Fingal Rónán."
+  ],
+  "evidence": "MacKillop 2008, s.v. Máel Fothartaig."
+ }
+}

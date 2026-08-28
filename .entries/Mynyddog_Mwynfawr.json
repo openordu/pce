@@ -1,0 +1,51 @@
+{
+ "name": "Mynyddog Mwynfawr",
+ "text": "Mynyddog Mwynfawr rules the 6th-century petty kingdom of the Gododdin. In the poem Y Gododdin he gathers a war-band for war on the Angles and Saxons, and the venture ends in disaster. His capital sits at Din Eidyn, probably Edinburgh. A speculative reading renders his name as 'Lung of the mountain', and English texts often call him Mynyddog the Wealthy.",
+ "entities": [
+  {
+   "entity": "Mynyddog Mwynfawr",
+   "type": "Person"
+  },
+  {
+   "entity": "Gododdin",
+   "type": "Group"
+  },
+  {
+   "entity": "Y Gododdin",
+   "type": "Work"
+  },
+  {
+   "entity": "Din Eidyn",
+   "type": "Place"
+  }
+ ],
+ "attributes": [
+  {
+   "entity": "Mynyddog Mwynfawr",
+   "attribute": "ruler of the 6th-century kingdom of the Gododdin"
+  },
+  {
+   "entity": "Mynyddog Mwynfawr",
+   "attribute": "raiser of the doomed war-band of Y Gododdin"
+  },
+  {
+   "entity": "Mynyddog Mwynfawr",
+   "attribute": "figure called Mynyddog the Wealthy in English texts"
+  }
+ ],
+ "sources": [
+  "MacKillop 2008, s.v. 'Mynyddog Mwynfawr'"
+ ],
+ "image": [],
+ "cyphertext": "",
+ "salt": "",
+ "okr": {
+  "objective": "Documents Mynyddog Mwynfawr as recorded in MacKillop 2008 for the Public Celtic Encyclopedia.",
+  "key_results": [
+   "Mynyddog Mwynfawr rules the Gododdin in the 6th century.",
+   "Y Gododdin shows his war-band crushed by Angles and Saxons.",
+   "His capital is Din Eidyn, probably Edinburgh."
+  ],
+  "evidence": "MacKillop 2008, s.v. Mynyddog Mwynfawr."
+ }
+}

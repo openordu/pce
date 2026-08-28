@@ -1,0 +1,55 @@
+{
+ "name": "Naas",
+ "text": "Naas is the dictionary's routing entry for Nás, counted among the four wives of Lug Lámfhota. Folk invention went on to claim the Kildare town of Naas as the goddess's birth- or burial-place. The town's Irish name, Nos na Riogh, carries the sense of an assembly ground for royalty. The record itself makes the site a royal residence for Leinster's kings down to the 10th century, and so a meeting place for great gatherings.",
+ "entities": [
+  {
+   "entity": "Naas",
+   "type": "Person"
+  },
+  {
+   "entity": "Nás",
+   "type": "Person"
+  },
+  {
+   "entity": "Lug Lámfhota",
+   "type": "Person"
+  },
+  {
+   "entity": "Kildare",
+   "type": "Place"
+  },
+  {
+   "entity": "Leinster",
+   "type": "Place"
+  }
+ ],
+ "attributes": [
+  {
+   "entity": "Naas",
+   "attribute": "routing entry for Nás, wife of Lug Lámfhota"
+  },
+  {
+   "entity": "Naas",
+   "attribute": "Kildare town linked by folk invention to the goddess"
+  },
+  {
+   "entity": "Naas",
+   "attribute": "royal residence of Leinster's kings into the 10th century"
+  }
+ ],
+ "sources": [
+  "MacKillop 2008, s.v. 'Naas'"
+ ],
+ "image": [],
+ "cyphertext": "",
+ "salt": "",
+ "okr": {
+  "objective": "Documents Naas as recorded in MacKillop 2008 for the Public Celtic Encyclopedia.",
+  "key_results": [
+   "Naas routes to Nás, one of Lug Lámfhota's four wives.",
+   "Folk invention made the Kildare town the goddess's birth- or burial-place.",
+   "The site served Leinster's kings as a residence into the 10th century."
+  ],
+  "evidence": "MacKillop 2008, s.v. Naas."
+ }
+}
