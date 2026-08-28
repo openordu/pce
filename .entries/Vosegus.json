@@ -1,45 +1,62 @@
 {
-    "name": "Vosegus",
-    "attributes": [
-        {
-            "entity": "Vosegus",
-            "attribute": "wildwood god honored in the Vosges range"
-        },
-        {
-            "entity": "Vosges mountains",
-            "attribute": "range that bears Vosegus's name"
-        }
-    ],
-    "entities": [
-        {
-            "entity": "Vosegus",
-            "type": "god"
-        },
-        {
-            "entity": "Vosges mountains",
-            "type": "place"
-        },
-        {
-            "entity": "eastern France",
-            "type": "place"
-        }
-    ],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "image": [
-        "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Vosegus_Inschrift_Neustadt_Museum_Speyer.jpg/1200px-Vosegus_Inschrift_Neustadt_Museum_Speyer.jpg"
-    ],
-    "cyphertext": "UdJo2zL2UNPpiJwCXuIswQJFPeohK-LZTv9XAnMrbIyLskXcdIyRA4qGj-voV-eXVcaeh-71t4W3o57cWuLCz5phPR55iZXkErik4JS2OBoJetj_ymiY5WI-q0TwbXzGBBU6UhkE7hkR7oYcSm1AkiDNRfK1cAmX3h_93ykHZ7V1_pAB3Y7ZqENX9q66nG-iWzB49fEZ6Xprulj_-gJ7K-BuYwZrANhXLO4FQmw7ZQWkm7qX3S6uAUOwWBVqQQIk2glF4A_gyszgSmiCBUSD-dKhOzMTtxjMQ4DNanc27nA1X-Gq9QaSJR4BdQdKqWDIjDIFujxqEtOTYL_PZBkZVxoFe6I7_nCqYRhaCVnqOWa02aJ2PN3C1hR-YTO6_i-IpEENuOP1UFlilA==",
-    "salt": "rEmSYJhroHWy_Nr_Yd1XxQ==",
-    "text": "Vosegus is a Continental Celtic god. He is known only through Roman-era inscriptions and sculptures. Believers read him as the forest spirit of the Vosges heights in eastern France, a range that still carries his name.",
-    "okr": {
-        "objective": "Present Vosegus as a Continental Celtic wildwood god of the Vosges range.",
-        "key_results": [
-            "He is known only from Roman-era inscriptions and sculptures.",
-            "He was regarded as the wildwood god of the Vosges mountains.",
-            "The Vosges mountains still bear his name."
-        ],
-        "evidence": "Monaghan, Encyclopedia of Celtic Mythology and Folklore"
-    }
+ "name": "Vosegus",
+ "attributes": [
+  {
+   "entity": "Vosegus",
+   "attribute": "wildwood god honored in the Vosges range"
+  },
+  {
+   "entity": "Vosges mountains",
+   "attribute": "range that bears Vosegus's name"
+  },
+  {
+   "entity": "Vosegus",
+   "attribute": "personification of the Vosges mountains and forest"
+  },
+  {
+   "entity": "Vosegus",
+   "attribute": "depicted in a great cloak with a piglet under his arm"
+  },
+  {
+   "entity": "Vosegus",
+   "attribute": "linked with hunting gear, nuts, acorns, and pine-cones"
+  }
+ ],
+ "entities": [
+  {
+   "entity": "Vosegus",
+   "type": "god"
+  },
+  {
+   "entity": "Vosges mountains",
+   "type": "place"
+  },
+  {
+   "entity": "eastern France",
+   "type": "place"
+  },
+  {
+   "entity": "piglet",
+   "type": "animal"
+  }
+ ],
+ "sources": [
+  "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.",
+  "MacKillop 2008, s.v. 'Vosegus'"
+ ],
+ "image": [
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Vosegus_Inschrift_Neustadt_Museum_Speyer.jpg/1200px-Vosegus_Inschrift_Neustadt_Museum_Speyer.jpg"
+ ],
+ "cyphertext": "UdJo2zL2UNPpiJwCXuIswQJFPeohK-LZTv9XAnMrbIyLskXcdIyRA4qGj-voV-eXVcaeh-71t4W3o57cWuLCz5phPR55iZXkErik4JS2OBoJetj_ymiY5WI-q0TwbXzGBBU6UhkE7hkR7oYcSm1AkiDNRfK1cAmX3h_93ykHZ7V1_pAB3Y7ZqENX9q66nG-iWzB49fEZ6Xprulj_-gJ7K-BuYwZrANhXLO4FQmw7ZQWkm7qX3S6uAUOwWBVqQQIk2glF4A_gyszgSmiCBUSD-dKhOzMTtxjMQ4DNanc27nA1X-Gq9QaSJR4BdQdKqWDIjDIFujxqEtOTYL_PZBkZVxoFe6I7_nCqYRhaCVnqOWa02aJ2PN3C1hR-YTO6_i-IpEENuOP1UFlilA==",
+ "salt": "rEmSYJhroHWy_Nr_Yd1XxQ==",
+ "text": "Vosegus is a Continental Celtic god. He is known through Roman-era inscriptions and sculptures rather than through any surviving myth. Believers read him as the embodied spirit of the Vosges uplands and their forest in eastern France. That range still carries his name today. The god may be one with a local nature-deity of the same woods. Art shows that figure in a great cloak, a piglet under his arm. Other images tie him to hunting gear, and to nuts, acorns, and pine-cones. The boar-like companion and the forest foods mark him as a lord of wild creatures and woodland plenty.\n\nThe Vosges massif rises between the Rhine valley and the Lorraine plateau. Gaulish communities there farmed the low ground and hunted the wooded heights. A god of that border country would plausibly guard both worlds. Roman writers left no stories of him, so his character comes almost entirely from images and votive inscriptions. Surviving stones record worshippers who sought favour in hunting, herding, and the forest harvest. The cloak figure with the young pig suggests a guardian of the beasts that fed and clothed the households below. His image invites comparison with other Gaulish woodland powers who shelter animals and carry the fruits of the trees. His cult belongs to the same broad pattern that honoured local mountain and river spirits across Gaul.\n\nUnder Roman rule the images kept their native forms while adopting classical carving styles. His portraits are rare, and each carved stone carries real weight for his story. No temple precinct of his has been identified, only dedications raised by individuals. That survival of sound across two millennia marks how firmly the god belonged to the hills. That blend makes Vosegus a clear example of a place-bound Celtic deity. The land itself, its ridges, woods, mast, and game, formed the core of his worship.",
+ "okr": {
+  "objective": "Record Vosegus as the Gaulish personification of the Vosges mountains and forest.",
+  "key_results": [
+   "States the cloak figure with the piglet under his arm",
+   "Links him with hunting gear, nuts, acorns, and pine-cones",
+   "Reads him as a place-bound lord of wild creatures and woodland plenty"
+  ],
+  "evidence": "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.."
+ }
 }
