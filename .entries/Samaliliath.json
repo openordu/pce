@@ -1,47 +1,54 @@
 {
-  "name": "Samaliliath",
-  "entities": [
-    {
-      "entity": "Samaliliath",
-      "type": "Person"
-    },
-    {
-      "entity": "Partholonians",
-      "type": "Group"
-    },
-    {
-      "entity": "Ireland",
-      "type": "Place"
-    },
-    {
-      "entity": "ale",
-      "type": "Artifact"
-    }
-  ],
-  "attributes": [
-    {
-      "entity": "Samaliliath",
-      "attribute": "an Irish hero remembered as the inventor of brewing"
-    },
-    {
-      "entity": "Partholonians",
-      "attribute": "the mythical race to which Samaliliath belonged"
-    }
-  ],
-  "sources": [
-    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-  ],
-  "cyphertext": "eG_y4ETf27K8Wk39nDsZIPyzNQOWFjLvX-OGzIFVvrj5VbFi0sjoSfyfmh76qa_9FJDdaLfXjsbyM89CkoFoVqzqWDFNProlIr3HKgpwFEHqbWAuoK7yAPBi1MVILlucziKRa5WR5tcsvmw1DjxNIukn8zU_ekuE8nkjae3bOkBQ5xyhLMecCnsdEOonZPAG4E4eTjp4b-LjVfu8ncb9oh7a5q_lglg7jMLXjsTlDHRZiVszrsxt7kiBoZvaM-DU79EKzCbnGZKY2VT1kTf2WYx6LCUcbbqtpFwWK5ZLkmK7PkdZNHaoFemvXciUoRY97UkSg0g=",
-  "salt": "0zgS0HKxyqR1AeDX4EMIIg==",
-  "text": "Samaliliath is an Irish hero. Some sources give his name as Malaliach. He belonged to the Partholonians, the early mythical race of Ireland. Very few members of that race are named in the tales. Of those few, Samaliliath is remembered for one deed. He is recorded as the inventor of brewing. He is said to have brought ale to Ireland. Ale was the sacred drink by which the sovereignty goddess welcomed the new king. It stood at the heart of feasting and of the otherworld. So the humble act of brewing carried great weight in Irish myth. A hero who gave ale to the people gave them ritual and joy at once.",
-  "okr": {
-    "objective": "Document Samaliliath, the Irish hero who brewed.",
-    "key_results": [
-      "Record Samaliliath as a named Partholonian hero.",
-      "Record his title as inventor of brewing who brought ale to Ireland."
-    ],
-    "evidence": [
-      "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore (2008): Samaliliath."
-    ]
+ "name": "Samaliliath",
+ "entities": [
+  {
+   "entity": "Samaliliath",
+   "type": "Person"
+  },
+  {
+   "entity": "Partholonians",
+   "type": "Group"
+  },
+  {
+   "entity": "Ireland",
+   "type": "Place"
+  },
+  {
+   "entity": "ale",
+   "type": "Artifact"
+  },
+  {
+   "entity": "Malaliach",
+   "type": "Person"
   }
+ ],
+ "attributes": [
+  {
+   "entity": "Samaliliath",
+   "attribute": "an Irish hero remembered as the inventor of brewing"
+  },
+  {
+   "entity": "Partholonians",
+   "attribute": "the mythical race to which Samaliliath belonged"
+  },
+  {
+   "entity": "Samaliliath",
+   "attribute": "MacKillop treats the name as a variant form of Malaliach"
+  }
+ ],
+ "sources": [
+  "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.",
+  "MacKillop 2008, s.v. 'Samaliliath'"
+ ],
+ "cyphertext": "eG_y4ETf27K8Wk39nDsZIPyzNQOWFjLvX-OGzIFVvrj5VbFi0sjoSfyfmh76qa_9FJDdaLfXjsbyM89CkoFoVqzqWDFNProlIr3HKgpwFEHqbWAuoK7yAPBi1MVILlucziKRa5WR5tcsvmw1DjxNIukn8zU_ekuE8nkjae3bOkBQ5xyhLMecCnsdEOonZPAG4E4eTjp4b-LjVfu8ncb9oh7a5q_lglg7jMLXjsTlDHRZiVszrsxt7kiBoZvaM-DU79EKzCbnGZKY2VT1kTf2WYx6LCUcbbqtpFwWK5ZLkmK7PkdZNHaoFemvXciUoRY97UkSg0g=",
+ "salt": "0zgS0HKxyqR1AeDX4EMIIg==",
+ "text": "Samaliliath is an Irish hero. Writers treat his name as a variant form of Malaliach. He belonged to the Partholonians, the early mythical race of Ireland. Very few members of that race are named in the tales. Of those few, Samaliliath is remembered for one deed. He is recorded as the inventor of brewing. He is said to have brought ale to Ireland. Ale was the sacred drink by which the sovereignty goddess welcomed the new king. It stood at the heart of feasting and of the otherworld. So the humble act of brewing carried great weight in Irish myth. A hero who gave ale to the people gave them ritual and joy at once.",
+ "okr": {
+  "objective": "Document Samaliliath, the Partholonian remembered for brewing.",
+  "key_results": [
+   "Record the name as a variant form of Malaliach",
+   "Record him as the inventor of brewing who brought ale to Ireland"
+  ],
+  "evidence": "MacKillop 2008, s.v. 'Samaliliath'."
+ }
 }

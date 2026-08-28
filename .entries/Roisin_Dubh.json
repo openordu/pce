@@ -1,56 +1,76 @@
 {
-  "name": "Roisin Dubh",
-  "sources": [
-    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-  ],
-  "image": [
-    "https://upload.wikimedia.org/wikipedia/commons/6/6e/R%C3%B3is%C3%ADn_Dubh_%28Black_Rose%29.jpg"
-  ],
-  "cyphertext": "NT9LOzCLK5hXo084Rurj_zglRwKB6iJkGC4RWZXIvkUt30hupK0TIfaAEO8bk6zCKHIoylZ4nJQtyh7FJK5YWSjuCMO5e6UMqGoNhJY9MHodZd5pUJpEwUbTpJMCpWRO2hDMYrYY2kneifbIUZjpBsiLrzVaeAQV0aIMSBBef_vdMoTfzUuhsftaLsSLqQ6cHUxfhaCsumeB4qkANdLzHJHxsEeH8VfrJexm1c43jKxSlLd_Me_no_w01HEZWE0iP8npiAallguvhlEs9GxI-Ms6aUF-06jd9kPIaYNAdnUBeJxBD3YI_Jhh56ooxOzck6tMGh-m2l4fHsdQwQyF4sm9FsspMSczj4jFMa_KsqdTwxzfiuz5kxG1lzfBeYXbpw==",
-  "salt": "CBJeybQMuZroC-RAXzPydw==",
-  "text": "Roisin Dubh, also called Dark Rose, is a woman of Irish folklore. In Aisling verse her name marks a dark-haired maiden. She walks the roads by herself. She looks for a king with the strength to undo her chains. She stands as a later version of Sovereignty, the old goddess who watched over the Land.",
-  "entities": [
-    {
-      "entity": "Roisin Dubh",
-      "type": "character"
-    },
-    {
-      "entity": "Dark Rose",
-      "type": "character"
-    },
-    {
-      "entity": "Aisling",
-      "type": "concept"
-    },
-    {
-      "entity": "Sovereignty",
-      "type": "god"
-    }
-  ],
-  "attributes": [
-    {
-      "entity": "Roisin Dubh",
-      "type": "character",
-      "attribute": "dark-haired maiden of Aisling poetry"
-    },
-    {
-      "entity": "Roisin Dubh",
-      "attribute": "walks the roadlands by herself"
-    },
-    {
-      "entity": "Sovereignty",
-      "type": "god",
-      "attribute": "old goddess she is a late form of"
-    }
-  ],
-  "okr": {
-    "objective": "Roisin Dubh is a dark maiden of the Aisling and a form of Sovereignty.",
-    "key_results": [
-      "Roisin Dubh means Dark Rose.",
-      "She waits for a king in the Aisling verse.",
-      "She is a later form of the goddess of Sovereignty.",
-      "She wanders the roads by herself."
-    ],
-    "evidence": "Monaghan, Encyclopedia of Celtic Mythology and Folklore"
+ "name": "Roisin Dubh",
+ "sources": [
+  "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.",
+  "MacKillop 2008, s.v. 'Róisín Dubh'"
+ ],
+ "image": [
+  "https://upload.wikimedia.org/wikipedia/commons/6/6e/R%C3%B3is%C3%ADn_Dubh_%28Black_Rose%29.jpg"
+ ],
+ "cyphertext": "NT9LOzCLK5hXo084Rurj_zglRwKB6iJkGC4RWZXIvkUt30hupK0TIfaAEO8bk6zCKHIoylZ4nJQtyh7FJK5YWSjuCMO5e6UMqGoNhJY9MHodZd5pUJpEwUbTpJMCpWRO2hDMYrYY2kneifbIUZjpBsiLrzVaeAQV0aIMSBBef_vdMoTfzUuhsftaLsSLqQ6cHUxfhaCsumeB4qkANdLzHJHxsEeH8VfrJexm1c43jKxSlLd_Me_no_w01HEZWE0iP8npiAallguvhlEs9GxI-Ms6aUF-06jd9kPIaYNAdnUBeJxBD3YI_Jhh56ooxOzck6tMGh-m2l4fHsdQwQyF4sm9FsspMSczj4jFMa_KsqdTwxzfiuz5kxG1lzfBeYXbpw==",
+ "salt": "CBJeybQMuZroC-RAXzPydw==",
+ "text": "Roisin Dubh, the dark little rose, is a personification of Ireland. Her name may go back to a seventeenth-century poem. Owen Roe MacWard is the credited author. James Clarence Mangan recast her as Dark Rosaleen in 1847. That English version outshone the Irish original in fame. In Aisling verse her name marks a dark-haired maiden. She walks the roads by herself. She looks for a king with the strength to undo her chains. She stands as a later shape of Sovereignty, the old goddess who watched over the land.",
+ "entities": [
+  {
+   "entity": "Roisin Dubh",
+   "type": "character"
+  },
+  {
+   "entity": "Dark Rose",
+   "type": "character"
+  },
+  {
+   "entity": "Aisling",
+   "type": "concept"
+  },
+  {
+   "entity": "Sovereignty",
+   "type": "god"
+  },
+  {
+   "entity": "Owen Roe MacWard",
+   "type": "person"
+  },
+  {
+   "entity": "James Clarence Mangan",
+   "type": "person"
+  },
+  {
+   "entity": "Dark Rosaleen",
+   "type": "concept"
   }
+ ],
+ "attributes": [
+  {
+   "entity": "Roisin Dubh",
+   "type": "character",
+   "attribute": "dark-haired maiden of Aisling poetry"
+  },
+  {
+   "entity": "Roisin Dubh",
+   "attribute": "walks the roadlands by herself"
+  },
+  {
+   "entity": "Sovereignty",
+   "type": "god",
+   "attribute": "old goddess she is a late form of"
+  },
+  {
+   "entity": "Roisin_Dubh",
+   "attribute": "her name may date from a seventeenth-century poem credited to Owen Roe MacWard"
+  },
+  {
+   "entity": "Roisin_Dubh",
+   "attribute": "James Clarence Mangan's Dark Rosaleen of 1847 outshone the Irish original in fame"
+  }
+ ],
+ "okr": {
+  "objective": "Present Roisin Dubh as the personification of Ireland from the Aisling tradition.",
+  "key_results": [
+   "Record the poem of Owen Roe MacWard as her possible source",
+   "Record Mangan's Dark Rosaleen of 1847 and its fame beside the Irish original",
+   "Keep her Aisling role and her tie to Sovereignty"
+  ],
+  "evidence": "MacKillop 2008, s.v. 'Róisín Dubh'."
+ }
 }
