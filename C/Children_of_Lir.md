@@ -2,62 +2,79 @@
 layout: layouts/pce.njk
 title: Children of Lir
 icon: file-lines
-order: 459
+order: 0
 contributors: [ 'Christopher Godwin' ]
 attributes:
-  - children kept their human emotions and senses
-  - children given hauntingly sweet singing voices
-  - enchantment ended
-  - children aged and died and turned to dust, all within moments
+  - Children of Lir one of the Three Sorrows of Ireland
+  - Áeb magician's daughter and wife of King Lir
+  - Áeb died bearing twin sons Fiachra and Conn
+  - Aífe aunt who bewitched the children into swans
+  - Aífe cursed them to live 900 years as swans
+  - Children of Lir kept their feelings and senses as swans
+  - Children of Lir gained sweet singing voices
+  - Children of Lir aged and died when the spell ended
 categories:
-  - human
-  - sound
-  - human characteristic
-  - magic
-  - material
-  - death
+  - concept
+  - location
+  - character
+  - mythological figure
+  - animal
 entities:
-  - children(human)
-  - emotions(human characteristic)
-  - senses(human characteristic)
-  - hauntingly sweet singing voices(sound)
-  - enchantment(magic)
-  - aged(human characteristic)
-  - died(death)
-  - dust(material)
+  - Children of Lir(mythological figure)
+  - King Lir(character)
+  - Áeb(character)
+  - Áed(character)
+  - Fionnuala(character)
+  - Fiachra(character)
+  - Conn(character)
+  - Aífe(character)
+  - swans(animal)
+  - Ireland(location)
+  - Three Sorrows of Ireland(concept)
 tags:
-  - children
-  - emotions
-  - senses
-  - hauntingly sweet singing voices
-  - enchantment
-  - aged
-  - died
-  - dust
+  - Children of Lir
+  - King Lir
+  - Áeb
+  - Áed
+  - Fionnuala
+  - Fiachra
+  - Conn
+  - Aífe
+  - swans
+  - Ireland
+  - Three Sorrows of Ireland
 ---
 ``` tab [group1:Info]
 ::: magazinestyle
-The tale of the Children of Lir recounts the tragic story of Irish heroine and heroes, which is considered one of the Three Sorrows Of Ireland. The story unfolds as King Lir and the magician’s daughter Áeb enter a joyous marriage and welcome twin son and daughter Áed and Fionnuala. However, their happiness was short-lived, as Áeb died giving birth to twin sons Fiachra and Conn, leaving the four children motherless. Their aunt Aífe, who took charge of the children, became consumed with envy and malice, causing her to cast a wicked spell on them that transformed them into Swans and condemned them to spend nine hundred years in that shape. Although turned into birds, the Children of Lir retained their human feelings and senses, and gained captivating singing voices. When the curse was finally lifted, the four swans rapidly aged, perished, and crumbled to dust in a matter of moments.
+Children of Lir are the swan siblings of the Irish tale. King Lir married Áeb, the magician's daughter. Áeb bore a twin son and daughter first. Their names were Áed and Fionnuala. Her second pregnancy ended in death. She died bearing twin sons, Fiachra and Conn. The four children lost their mother. Their aunt Aífe took charge of them. Spite and envy filled her. She bewitched the children into swans. She cursed them to live 900 years in swan form. The children kept their feelings and senses. They also gained sweet singing voices. When the spell ended, they aged at once. That moment brought death. Their bodies turned to dust within moments.
 
 :::
 ```
 ``` tab [group1:Attributes]
-- **children**: kept their human emotions and senses
-- **children**: given hauntingly sweet singing voices
-- **enchantment**: ended
-- **children**: aged and died and turned to dust, all within moments
+- **Children of Lir**: one of the Three Sorrows of Ireland
+- **Áeb**: magician's daughter and wife of King Lir
+- **Áeb**: died bearing twin sons Fiachra and Conn
+- **Aífe**: aunt who bewitched the children into swans
+- **Aífe**: cursed them to live 900 years as swans
+- **Children of Lir**: kept their feelings and senses as swans
+- **Children of Lir**: gained sweet singing voices
+- **Children of Lir**: aged and died when the spell ended
 ```
 ``` tab [group1:Entities]
-- **children**: human
-- **emotions**: human characteristic
-- **senses**: human characteristic
-- **hauntingly sweet singing voices**: sound
-- **enchantment**: magic
-- **aged**: human characteristic
-- **died**: death
-- **dust**: material
+- **Children of Lir**: mythological figure
+- **King Lir**: character
+- **Áeb**: character
+- **Áed**: character
+- **Fionnuala**: character
+- **Fiachra**: character
+- **Conn**: character
+- **Aífe**: character
+- **swans**: animal
+- **Ireland**: location
+- **Three Sorrows of Ireland**: concept
 ```
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
+- MacKillop 2008, s.v. 'Oidheadh Chlainne Lir'.
 ```
 ![Children of Lir Image](https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/John_Duncan_%281924%29_Children_of_Lir.jpg/1200px-John_Duncan_%281924%29_Children_of_Lir.jpg)

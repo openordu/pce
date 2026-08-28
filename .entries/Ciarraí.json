@@ -1,0 +1,40 @@
+{
+  "name": "Ciarraí",
+  "fname": "Ciarraí.json",
+  "text": "Ciarraí is the modern Irish spelling of the name Kerry. Older sources give the forms Ciarrai and Ciarraighe. The word Ciarraighe names the people of Ciar, whose descendants were said to have settled that corner of the island. Kerry is the south-westernmost county of Ireland.",
+  "entities": [
+    {
+      "entity": "Ciarraí",
+      "type": "place name"
+    },
+    {
+      "entity": "Ciar",
+      "type": "person"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Ciarraí",
+      "attribute": "the modern Irish spelling of Kerry"
+    },
+    {
+      "entity": "Ciarraí",
+      "attribute": "Irish form Ciarraighe names the people of Ciar"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Ciarraí'."
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Ciarraí is the modern Irish spelling of the name Kerry.",
+    "key_results": [
+      "Give Ciarraí as the modern Irish form of Kerry.",
+      "List the older forms Ciarrai and Ciarraighe.",
+      "Connect the Ciarraighe to the people of Ciar."
+    ],
+    "evidence": "MacKillop, Dictionary of Celtic Mythology, s.v. 'Ciarraí'"
+  }
+}
