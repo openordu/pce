@@ -20,6 +20,30 @@
     {
       "entity": "Trotternish",
       "type": "location"
+    },
+    {
+      "entity": "Mess Buachalla",
+      "type": "mythological figure"
+    },
+    {
+      "entity": "Da Derga",
+      "type": "location"
+    },
+    {
+      "entity": "Mac Cécht",
+      "type": "mythological figure"
+    },
+    {
+      "entity": "Nemglan",
+      "type": "mythological figure"
+    },
+    {
+      "entity": "Eochaid Airem",
+      "type": "mythological figure"
+    },
+    {
+      "entity": "Brega",
+      "type": "location"
     }
   ],
   "attributes": [
@@ -42,24 +66,39 @@
     {
       "entity": "Trotternish",
       "attribute": "site of an oxhide rite"
+    },
+    {
+      "entity": "Conaire",
+      "attribute": "high king chosen by the bull feast"
+    },
+    {
+      "entity": "Conaire",
+      "attribute": "bound by the bird observances given by Nemglan"
+    },
+    {
+      "entity": "Conaire",
+      "attribute": "slain by marauders at Da Derga's hostel"
     }
   ],
   "sources": [
     "Dillon, Myles, ed. Irish Sagas. Cork: The Mercier Press, 1968, 79.",
     "O’Rahilly, Thomas. Early Irish History and Mythology. (Dublin: The Dublin Institute for Advanced Studies, 1946), 124.",
-    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.",
+    "MacKillop 2008, s.v. 'Conaire Mór'.",
+    "MacKillop 2008, s.v. 'Conaire'."
   ],
   "cyphertext": "xCC2LPiY5Hz1H5Ozjtns0xc6d8oSRcGWvzA0zq-j4E7u4lXQZVZwucwhxfGuMEWlJ8q0YwqdOZdGmNi7BvKAUIiBzaIEWM3klcr8au5_fi5d7BYQCPl6YMIv5IitXTuvaxyA6WqGlw9O5TAj9AIuDQF6C-M-BNEhvBSxQU_5xQWJY5MTE1K0MfXwdWSD3Mr625ml8HfLlsMQYEsYm-ed4C_6GyeXM3QU_8yYPK5w3M3gvnZ-TJAGLIfSrV423uFzpUWNs1EJtpfDmzNOTmDIpAj3DKkpLZs9uS1MpBzHKf8GT3uHGWxon5DOojIvnp6jh0K0FhkjrAZNxIBJsc4jdA4GuOflE--ah3rjzgllw7KZfUC47ZAijmXEVp7t88zQyG3cJ-NJGBu-DOARhsPLjnY6WOzb-UOByr2sj3IN9zoXiROmoPp-waC9UU34IzReUNnuPDm_rtwCCh3VrKK0VKF6ijv1BTf53tfkgOykuZiwng_pNaTrkvEBdcxJxiiWji33kVUGZi_dCRRrRrUpgdcQAfAMLVw6WOYxFxQ7W306k1pkX4MLSPYcZ6_AyeVaDQAXa4gBNCIUoKotB0D_49O0N77Susku4yRB1PMU084iG_zi-egrVy1RWq4X16ewxa4c465REnBj8dt2ChyQkMVPU67nArl_s2U0iUOz7SkBmOKRClpbt7Rk_TgiJvCU3p6Q5nd6eAwmm0JapHMlMh6dCWT_warEumMQpyP66raoQk_XRlgScNmpTxK96TSAYtGl6xRXtmXg7EOrENP6VuMkc3OB0LnAl1eE-IdqG_xAK1dLQ1rpva99jURZrLe6XYTxfqVcZnp3vOTVNgowb2LhEYEumIoKWvK5dLhyMd1IEzMYKfpaZUzdrea9bhSKTT4gGOZg2PE6fiyqaRSJvOUABWTXwu0riVd3GBng8aalKsrtG5pfeTt66CMcK8eY-Q-zbfqN29P8CmmCDL3dqtb0lkrSwN5H7LVPHA0SDD-AZSa-L5kGZIBnw3407LzfMFx-LLw-JxXWAPJ5hqRMDLETXm5zxFcfMPfZLf92dxQFmDXZLk8zkI2-TrqjETRseyNV0JMEzU-ZLOLuMTc3aLYcx-WjX7-SuxuFnikKcTXJsWPJbA1_c2bq62_q5x2dY_LoOk58ATfWJmErbwUvsTYdNDEYgQ7SFaFcm2Q9nvZ9gXrqr1bdmIVfvAsZ7H7L3QFEjGF71Ged-BQbATIo7bvsNLBrXei-j3fmAJqA9JD1jPdaefzV_p1eEt-rl9SEpnBvnSKTfhL6fvCc86Y6GN4-gwPwCZh7afepCZM_hlADnEkm87xhEuWxsVRsenyi8RpqZdzvdf-SXAodoXDE-_FrTTHj58O6DBxfEuQcQkTip9bJDgy6nrk7fti5CPpWn4VHvl5viX370F5cZbKYg0Ea-9M3syOpigiQDdeaiWPCbya4ZUC8n4EHeRyAQM5fVQ3fQY7tk7um2EYr-3TbOqv7F5B0rfKLOGUL4m7Oc2jO53a4SIT8WfxXEKy6alWhMrBq1J0zpd7C-0T0R6Msd7xTJCbExvAf7Yz1zDiy2jbbVoud5jp5f-4efakIv8PlLgrdxu4Ym868U89fPsh_M8L5wVneHtQ4Xrka7GH2HtpxwQTIPoeG48FuVVaQQlHlQIqRE7bYvzQB4KbDYdaO7jkL_MsdJmEQXqsnGw8NJQwS4HXdRoer6oDOXp5EWaAuZdBrw86_nxA7vgUQ5V4Y-GsdQyQbMCTDS9ZJk1LlC0MeFqrHJV41k5SrSt6H1c4kkJURwrFLrrD5T5jWdH8ExLVdflYU4lrZpoGFsV84sDqDelOWXd4h7T60E6OidgGdS-BwDKDs11YlzROSHIuCjnwYWBnmaSqnUb19eSfpXo8Q7V2iun0o8zqiqQmOmjJjtBNVVZAqVltb3LKrQx30c7QbIPVu6U5gXqA7Tc_yji8pbv0Oe-Pr57LE3qTGbsEYQVubH2obfQkQWzqyS3L2VmCJdxlnITb7WO90bUi5WEEtKtwp9OXsRQLU0lyibsWU7bs_-OaDvAwld9ylZRZSrKz6ux_DsnDolgbz5g==",
   "salt": "OTiR6YJEp92eZtdL109dCQ==",
-  "text": "Conaire is an Irish hero of the sagas. He came to Tara as a naked man with birds all around. His mother was of the race of birds. A dream told him to come to Tara without clothes. He obeyed the dream and the prophecy came true. The Scottish Highlanders knew a like rite. They wrapped a man of vision in ox hides so he could dream what was to come. In 1769 a man at Trotternish was sewn into an oxhide. He lay beneath a high waterfall to win foresight.",
+  "text": "Conaire is a high king of early Ireland and the hero of the saga of Da Derga's hostel ruin. His birth was strange. His mother is normally held to be Mess Buachalla, the abandoned stepdaughter of Etain Og, fostered by a poor cowherd. A divine visitor came to her, and she bore Conaire. A prophecy had promised King Eterscel a son by a woman of unknown family, so the boy sometimes carries the name mac Eterscele. Another version, in the Wooing of Etain, makes Eochaid Airem father a child on his own daughter in unknowing incest. Conaire was fostered by Donn Desa, whose sons Fer Le, Fer Gair, and Fer Rogain grew into dangerous marauders. When Eterscel died, a bull feast named Conaire king. On the road to Tara a man in bird shape met him, gave his name as Nemglan, and set him the observances of his reign. Because Conaire was of the bird kindred he must never hunt birds, and he must not circle Tara sunwise, keeping Brega on his left. He broke every ban before he sat as guest in Da Derga's hostel. His foster-brothers and their fellow raiders stormed the house and took his head. In a strange closing the severed head thanked Mac Cecht for slaking its thirst. The Gaelic settlers of Dal Riada counted themselves the seed of Conaire Mor. An older omen told of his kingship's coming. He arrived at Tara as a naked man ringed by birds, for his mother belonged to the race of birds. Scottish tradition kept a like rite of vision. At Trotternish in 1769 a man was sewn into an oxhide below a waterfall to win foresight, wrapped as the king had been wrapped in his strange destiny.",
   "okr": {
-    "objective": "Conaire is a hero whose royal march on Tara was made naked.",
+    "objective": "Conaire is the high king whose broken observances doomed him at Da Derga's hostel.",
     "key_results": [
       "Conaire reached Tara naked and ringed by birds.",
-      "His mother belonged to the race of birds.",
-      "A dream commanded his naked approach.",
-      "A later oxhide rite at Trotternish sought foresight."
+      "The bull feast named him king after Eterscel died.",
+      "Nemglan gave him bird observances that he broke one by one.",
+      "Raiders beheaded him in Da Derga's hostel, and his head thanked Mac Cecht.",
+      "A later oxhide rite at Trotternish sought the same foresight."
     ],
-    "evidence": "Monaghan, Encyclopedia of Celtic Mythology and Folklore"
+    "evidence": "Monaghan, Encyclopedia of Celtic Mythology and Folklore; MacKillop, Dictionary of Celtic Mythology, s.v. Conaire Mór"
   }
 }

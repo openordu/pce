@@ -1,0 +1,39 @@
+{
+  "name": "Conachar",
+  "text": "Conachar is a variant spelling of Conchobar, the name of the king of Ulster in the Ulster Cycle. MacKillop lists it as a simple spelling variant and points readers to his main article on the king. The main PCE article on that ruler carries the display form Concobar mac Nessa. See Concobar mac Nessa.",
+  "entities": [
+    {
+      "entity": "Conachar",
+      "type": "person"
+    },
+    {
+      "entity": "Concobar mac Nessa",
+      "type": "mythological figure"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Conachar",
+      "attribute": "variant spelling of Conchobar"
+    },
+    {
+      "entity": "Conachar",
+      "attribute": "refers to the king of the Ulster Cycle"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Conachar'."
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Conachar is a spelling variant of the Ulster king Conchobar.",
+    "key_results": [
+      "Conachar is a variant spelling of Conchobar.",
+      "The name belongs to the king of Ulster in the Ulster Cycle.",
+      "The PCE article on this ruler sits at Concobar mac Nessa."
+    ],
+    "evidence": "MacKillop, Dictionary of Celtic Mythology, 2008"
+  }
+}
