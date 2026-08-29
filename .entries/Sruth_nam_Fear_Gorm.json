@@ -1,0 +1,38 @@
+{
+  "name": "Sruth nam Fear Gorm",
+  "text": "Sruth nam Fear Gorm is a Gaelic place-name of the Hebridean seas. It names the stream of the blue men. The dictionary prints the head as a plain cross-reference. The fuller record belongs to the Blue Men of the Minch node.",
+  "entities": [
+    {
+      "entity": "Sruth nam Fear Gorm",
+      "type": "Place"
+    },
+    {
+      "entity": "Blue Men of the Minch",
+      "type": "Group"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Sruth nam Fear Gorm",
+      "attribute": "Gaelic stream-name of the blue men"
+    },
+    {
+      "entity": "Sruth nam Fear Gorm",
+      "attribute": "cross-reference to the Blue Men of the Minch record"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Sruth nam Fear Gorm'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Sruth nam Fear Gorm is a Gaelic place-name of the Hebridean seas",
+    "key_results": [
+      "stream-name tied to the blue men",
+      "signpost to the Blue Men of the Minch node"
+    ],
+    "evidence": "MacKillop 2008, s.v. Sruth nam Fear Gorm."
+  }
+}

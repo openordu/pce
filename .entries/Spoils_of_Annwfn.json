@@ -1,0 +1,38 @@
+{
+  "name": "Spoils of Annwfn",
+  "text": "Spoils of Annwfn is the English title of the Welsh poem Preiddiau Annwfn. The full record of that poem sits under its Welsh head. This entry routes readers to the Preiddeu Annwfn node.",
+  "entities": [
+    {
+      "entity": "Spoils of Annwfn",
+      "type": "Text"
+    },
+    {
+      "entity": "Preiddeu Annwfn",
+      "type": "Text"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Spoils of Annwfn",
+      "attribute": "English title for Preiddiau Annwfn"
+    },
+    {
+      "entity": "Spoils of Annwfn",
+      "attribute": "record routes to the Preiddeu Annwfn node"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Spoils of Annwfn'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Spoils of Annwfn is the English title of the Welsh poem Preiddiau Annwfn",
+    "key_results": [
+      "English rendering of the Welsh title",
+      "signpost to the Preiddeu Annwfn record"
+    ],
+    "evidence": "MacKillop 2008, s.v. Spoils of Annwfn."
+  }
+}

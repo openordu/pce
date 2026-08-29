@@ -1,0 +1,38 @@
+{
+  "name": "Taigue",
+  "text": "Taigue is an anglicized spelling of the Irish name Tadg. The dictionary prints the head as a one-line cross-reference. The full record of the name and its bearers sits under the Tadg node.",
+  "entities": [
+    {
+      "entity": "Taigue",
+      "type": "Person"
+    },
+    {
+      "entity": "Tadg",
+      "type": "Person"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Taigue",
+      "attribute": "anglicized form of Tadg"
+    },
+    {
+      "entity": "Taigue",
+      "attribute": "cross-reference to the Tadg record"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Taigue'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Taigue is an anglicized spelling of the Irish name Tadg",
+    "key_results": [
+      "anglicized form of Tadg",
+      "signpost to the Tadg node"
+    ],
+    "evidence": "MacKillop 2008, s.v. Taigue."
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "name": "Tacitus",
+  "text": "Tacitus, Cornelius, lived from AD 55 to about 117. He was a Roman historian and biographer. Judges often rank him the most reliable of the classical commentators. Five of his volumes survive. The short Germania, written about AD 98, is a store of ethnographic detail. It describes peoples living north of the Alps. There is no proof that Tacitus himself ever saw those regions. His remarks on the Celts sit incidentally inside the text. The Loeb Classical Library carries the Germania as number 35, and his Agricola and Histories in later editions.",
+  "entities": [
+    {
+      "entity": "Tacitus",
+      "type": "Person"
+    },
+    {
+      "entity": "Germania",
+      "type": "Text"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Tacitus",
+      "attribute": "Roman historian and biographer, AD 55 to c. 117"
+    },
+    {
+      "entity": "Tacitus",
+      "attribute": "author of the Germania of c. AD 98, an ethnographic store on peoples north of the Alps"
+    },
+    {
+      "entity": "Tacitus",
+      "attribute": "often ranked the most reliable classical commentator; Celtic remarks incidental"
+    },
+    {
+      "entity": "Tacitus",
+      "attribute": "read in the Loeb editions of Germania, Agricola, and Histories"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Tacitus'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Tacitus, Cornelius, lived from AD 55 to about 117",
+    "key_results": [
+      "reliability standard among classical commentators",
+      "Germania as ethnographic witness beyond the Alps"
+    ],
+    "evidence": "MacKillop 2008, s.v. Tacitus."
+  }
+}

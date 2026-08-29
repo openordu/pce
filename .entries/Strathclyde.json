@@ -1,0 +1,50 @@
+{
+  "name": "Strathclyde",
+  "text": "Strathclyde was a Brittonic kingdom of the Clyde valley. Its Gaelic name element srath means valley. The kingdom counted as P-Celtic or British, inside Scotland. It stretched from the Clyde watershed south toward the Anglo-Saxon kingdom of Mercia. It flourished from the fifth to the eighth century. Its capital sat on the fortified rock of Dumbarton. In 844 Cináed mac Ailpín formed the new kingdom of Scotland. Strathclyde was folded into it, beside the Picts and the Scotti of Dál Riada. Its men then grew steadily more important in the country's life. The name returned in 1974 when Scotland redrew its districts. The new region gathered areas from the former shires of Ayr plus Lanark, Renfrew, Dunbarton, Stirling, and the Argyll country.",
+  "entities": [
+    {
+      "entity": "Strathclyde",
+      "type": "Place"
+    },
+    {
+      "entity": "Dumbarton",
+      "type": "Location"
+    },
+    {
+      "entity": "Scotland",
+      "type": "Place"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Strathclyde",
+      "attribute": "P-Celtic British kingdom on the Clyde, fifth to eighth century"
+    },
+    {
+      "entity": "Strathclyde",
+      "attribute": "capital on the fortified rock of Dumbarton, reach toward Mercia"
+    },
+    {
+      "entity": "Strathclyde",
+      "attribute": "folded into the 844 Scottish kingdom of Cináed mac Ailpín with Picts and Dál Riada Scotti"
+    },
+    {
+      "entity": "Strathclyde",
+      "attribute": "name revived in the 1974 Scottish district reorganization"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Strathclyde'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Strathclyde was a Brittonic kingdom of the Clyde valley",
+    "key_results": [
+      "Brittonic kingdom of the Clyde with Dumbarton capital",
+      "absorbed into medieval Scotland, name revived in 1974"
+    ],
+    "evidence": "MacKillop 2008, s.v. Strathclyde."
+  }
+}

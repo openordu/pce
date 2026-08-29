@@ -1,0 +1,50 @@
+{
+  "name": "Solinus",
+  "text": "Solinus, Caius Julius, was a Roman geographer of about AD 200. His compendium, the Collectanea Rerum Memorabilium, runs to fifty-seven chapters. It gives short and unreliable sketches of the world the ancients knew. The book treats the social habits and religious rites of many nations. It describes the British goddess Sulis, also called Sul, and reports that Ireland had no snakes.",
+  "entities": [
+    {
+      "entity": "Solinus",
+      "type": "Person"
+    },
+    {
+      "entity": "Sulis",
+      "type": "Deity"
+    },
+    {
+      "entity": "Britain",
+      "type": "Place"
+    },
+    {
+      "entity": "Ireland",
+      "type": "Place"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Solinus",
+      "attribute": "Roman geographer of about AD 200, author of the Collectanea Rerum Memorabilium"
+    },
+    {
+      "entity": "Solinus",
+      "attribute": "his fifty-seven-chapter compendium sketches the world of the ancients, unreliably"
+    },
+    {
+      "entity": "Solinus",
+      "attribute": "records the British goddess Sulis/Sul and the absence of snakes in Ireland"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Solinus'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Solinus, Caius Julius, was a Roman geographer of about AD 200",
+    "key_results": [
+      "Roman geographer behind the Collectanea Rerum Memorabilium",
+      "early written notice of the goddess Sulis and of snakeless Ireland"
+    ],
+    "evidence": "MacKillop 2008, s.v. Solinus."
+  }
+}

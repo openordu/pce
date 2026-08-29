@@ -1,0 +1,38 @@
+{
+  "name": "Teague",
+  "text": "Teague is an anglicized spelling of the Irish name Tadg. The dictionary prints the head as a one-line cross-reference. The full record of the name and its bearers sits under the Tadg node.",
+  "entities": [
+    {
+      "entity": "Teague",
+      "type": "Person"
+    },
+    {
+      "entity": "Tadg",
+      "type": "Person"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Teague",
+      "attribute": "anglicized form of Tadg"
+    },
+    {
+      "entity": "Teague",
+      "attribute": "cross-reference to the Tadg record"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Teague'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Teague is an anglicized spelling of the Irish name Tadg",
+    "key_results": [
+      "anglicized form of Tadg",
+      "signpost to the Tadg node"
+    ],
+    "evidence": "MacKillop 2008, s.v. Teague."
+  }
+}

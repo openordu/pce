@@ -1,0 +1,42 @@
+{
+  "name": "Sédanda",
+  "text": "Sédanda and Sedanda are variant spellings of Sétanta. That name is the first name of the hero Cúchulainn. The head sits between the Seanchán Torpéist and Segais entries in the printed book. The full record of the hero sits under his own node.",
+  "entities": [
+    {
+      "entity": "Sédanda",
+      "type": "Person"
+    },
+    {
+      "entity": "Sétanta",
+      "type": "Person"
+    },
+    {
+      "entity": "Cúchulainn",
+      "type": "hero"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Sédanda",
+      "attribute": "variant spelling pair of Sétanta"
+    },
+    {
+      "entity": "Sédanda",
+      "attribute": "first name of Cúchulainn"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Sédanda'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Sédanda and Sedanda are variant spellings of Sétanta",
+    "key_results": [
+      "variant spelling of Sétanta",
+      "the hero Cúchulainn's first name"
+    ],
+    "evidence": "MacKillop 2008, s.v. Sédanda."
+  }
+}

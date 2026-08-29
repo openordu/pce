@@ -1,0 +1,38 @@
+{
+  "name": "Stone of Scone",
+  "text": "Stone of Scone is the English name of the coronation stone of the Scottish kings. The dictionary prints the head as a bare cross-reference. The fuller record sits under the Lia Fáil node.",
+  "entities": [
+    {
+      "entity": "Stone of Scone",
+      "type": "Artifact"
+    },
+    {
+      "entity": "Lia Fáil",
+      "type": "Artifact"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Stone of Scone",
+      "attribute": "English name routing to the Lia Fáil record"
+    },
+    {
+      "entity": "Stone of Scone",
+      "attribute": "coronation stone of the Scottish kings"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Stone of Scone'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Stone of Scone is the English name of the coronation stone of the Scottish kings",
+    "key_results": [
+      "English name of the Scone coronation stone",
+      "signpost to the Lia Fáil node"
+    ],
+    "evidence": "MacKillop 2008, s.v. Stone of Scone."
+  }
+}
