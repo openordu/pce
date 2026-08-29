@@ -1,0 +1,38 @@
+{
+  "name": "Damán",
+  "text": "Damán is the father of the Ulster champion Ferdiad. The dictionary gives him only the one line. The Ferdiad article adds that the hero receives this father and a heritage from the tradition. Readers will find the son's full story in the Táin at the Ferdiad entry.",
+  "entities": [
+    {
+      "entity": "Ferdiad",
+      "type": "mythological figure"
+    },
+    {
+      "entity": "Táin bó Cuailnge (Cattle Raid of Cooley)",
+      "type": "literary text"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Damán",
+      "attribute": "the father of the Ulster champion Ferdiad"
+    },
+    {
+      "entity": "Ferdiad",
+      "attribute": "his son, the opponent of Cúchulainn at the ford"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Damán'."
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Record Damán, the father of Ferdiad.",
+    "key_results": [
+      "Damán is the father of Ferdiad.",
+      "The son's full record sits at the Ferdiad entry."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Damán'."
+  }
+}

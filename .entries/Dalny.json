@@ -1,0 +1,34 @@
+{
+  "name": "Dalny",
+  "text": "Dalny is an anglicized spelling of the name Dealgnaid. Dealgnaid is the heroine of the Partholón settlement story. The dictionary routes this spelling to that main record. Readers should follow the Dealgnaid entry for her tale.",
+  "entities": [
+    {
+      "entity": "Dealgnaid",
+      "type": "mythological figure"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Dalny",
+      "attribute": "an anglicized spelling of Dealgnaid"
+    },
+    {
+      "entity": "Dealgnaid",
+      "attribute": "the heroine of the Partholón story, the main entry"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Dalny'."
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Route readers from the spelling Dalny to the Dealgnaid entry.",
+    "key_results": [
+      "Dalny is an anglicized spelling of Dealgnaid.",
+      "The main record of the heroine sits at the Dealgnaid entry."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Dalny'."
+  }
+}

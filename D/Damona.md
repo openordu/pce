@@ -2,7 +2,7 @@
 layout: layouts/pce.njk
 title: Damona
 icon: file-lines
-order: 626
+order: 0
 contributors: [ 'Christopher Godwin' ]
 attributes:
   - Damona name means "divine cow"
@@ -12,6 +12,9 @@ attributes:
   - Damona honoured at the healing springs and warm baths of Alesia
   - Damona signed by the snake and grain she shared with Hygeia and Demeter
   - Damona stands beside Apollo Borvon, Apollo Moritasgus, and Albius
+  - Damona worshipped with Borvo at the shrine of Bourbonne-les-Bains in north-eastern France
+  - Bormana the consort of Borvo when he is known as Bormanus
+  - Damona several commentators see the cult of the cow in her worship
 categories:
   - deity
   - Deity
@@ -37,7 +40,7 @@ tags:
 ---
 ``` tab [group1:Info]
 ::: magazinestyle
-Damona is a Gaulish goddess whose name likely means great or divine ox. People honoured her alone and beside several male gods, including Apollo Borvon, Apollo Moritasgas, and the god Albius. A walled precinct at Alesia, sheltering sacred springs and warm baths, yielded a stone head of her, crowned with ears of grain, and a hand that gripped a snake. Bound to healing waters, she carried the snake and grain signs she shared with Hygeia and Demeter.
+Damona is a Gaulish goddess whose name likely means great or divine ox. People honoured her alone and beside several male gods, including Apollo Borvon, Apollo Moritasgas, and the god Albius. A walled precinct at Alesia held sacred springs and warm baths. Finds there included a stone head of her crowned with ears of grain. A hand gripping a snake came from the same precinct. Bound to healing waters, she carried the snake and grain signs she shared with Hygeia and Demeter.
 
 :::
 ```
@@ -49,6 +52,9 @@ Damona is a Gaulish goddess whose name likely means great or divine ox. People h
 - **Damona**: honoured at the healing springs and warm baths of Alesia
 - **Damona**: signed by the snake and grain she shared with Hygeia and Demeter
 - **Damona**: stands beside Apollo Borvon, Apollo Moritasgus, and Albius
+- **Damona**: worshipped with Borvo at the shrine of Bourbonne-les-Bains in north-eastern France
+- **Bormana**: the consort of Borvo when he is known as Bormanus
+- **Damona**: several commentators see the cult of the cow in her worship
 ```
 ``` tab [group1:Entities]
 - **Damona**: Deity
@@ -63,4 +69,5 @@ Damona is a Gaulish goddess whose name likely means great or divine ox. People h
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 - Koch 2006, s.v. 'Damona'
+- MacKillop 2008, s.v. 'Damona'.
 ```

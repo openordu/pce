@@ -1,0 +1,50 @@
+{
+  "name": "Daolghas",
+  "text": "Daolghas is an Irish hero of the Fenian tales. Fionn mac Cumhaill tells his story in Feis Tighe Chonáin, the Feast at Conán's House. The tale answers a riddle. It asks which man was son to his own daughter. Daolghas lay dying. His daughter stooped down to kiss him. A burning spark leapt from his mouth into hers, and she conceived. She bore a son and named him for her father.",
+  "entities": [
+    {
+      "entity": "Fionn mac Cumhaill",
+      "type": "mythological figure"
+    },
+    {
+      "entity": "Conán",
+      "type": "mythological figure"
+    },
+    {
+      "entity": "Fianna",
+      "type": "mythological band"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Daolghas",
+      "attribute": "an Irish hero of the Fenian tales"
+    },
+    {
+      "entity": "Daolghas",
+      "attribute": "his story is told by Fionn mac Cumhaill at the Feast at Conán's House"
+    },
+    {
+      "entity": "Daolghas",
+      "attribute": "died as a spark of fire passed from his mouth to his daughter's"
+    },
+    {
+      "entity": "Daolghas",
+      "attribute": "the son born of that spark was named for him"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Daolghas'."
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Record Daolghas, the hero who was the son of his own daughter.",
+    "key_results": [
+      "Daolghas appears in the tale of the Feast at Conán's House.",
+      "A dying spark of fire made his daughter the mother of his namesake."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Daolghas'."
+  }
+}

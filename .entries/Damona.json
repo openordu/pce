@@ -1,84 +1,97 @@
 {
-    "name": "Damona",
-    "entities": [
-        {
-            "entity": "Damona",
-            "type": "Deity"
-        },
-        {
-            "entity": "Bóand",
-            "type": "Deity"
-        },
-        {
-            "entity": "Borvo",
-            "type": "Deity"
-        },
-        {
-            "entity": "Apollo Moritasgus",
-            "type": "Deity"
-        },
-        {
-            "entity": "Alesia",
-            "type": "place"
-        },
-        {
-            "entity": "Hygeia",
-            "type": "deity"
-        },
-        {
-            "entity": "Demeter",
-            "type": "deity"
-        },
-        {
-            "entity": "Albius",
-            "type": "deity"
-        }
-    ],
-    "attributes": [
-        {
-            "entity": "Damona",
-            "attribute": "name means \"divine cow\""
-        },
-        {
-            "entity": "Damona",
-            "attribute": "consort of Borvo and Apollo Moritasgus"
-        },
-        {
-            "entity": "Damona",
-            "attribute": "possibly polyandrous"
-        },
-        {
-            "entity": "Damona",
-            "attribute": "name likely means great or divine ox"
-        },
-        {
-            "entity": "Damona",
-            "attribute": "honoured at the healing springs and warm baths of Alesia"
-        },
-        {
-            "entity": "Damona",
-            "attribute": "signed by the snake and grain she shared with Hygeia and Demeter"
-        },
-        {
-            "entity": "Damona",
-            "attribute": "stands beside Apollo Borvon, Apollo Moritasgus, and Albius"
-        }
-    ],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.",
-        "Koch 2006, s.v. 'Damona'"
-    ],
-    "cyphertext": "HJrgApgFaIbYuZeDkBRb6f7sUia_23EwlHK3lIplO7kTi8Ch20pRf1P7PNSPL6pJKPsFjWBr7CffhP6zuhBcbo6g9Gw2SLUdc9CCEXVx2YemQz13EProLUzRDT6hOqncRC2Yk15_HQzo_U8CkyrEsibphvK2oigJR1N4Q_A9CEkg8TkWxcfjkaz5eu32h1NDopHEvRTC-qWd8_R6M0I5y-TfULzlZgO9YxlO81T8dxlcs9kKl-PtV4tJWpzfUqWyvswD-B4m5JnIcVRiSpi3wVpYJ7p_KTyi7CzdnYv5QMRFaDwIonLEgURBYDzTm8hcYxU8kDawlhhqPiRXjhEKPcFwBvihAAM4Ne3OUR6dbWzFOKXwjqZzeOB8K5an6eIXn2ii1mPz_0ytqcCoYk0V2wWwnkWLvrZMt0We5BidycOzqgVH8xFImP34VYi7ZQ1SSExSgNuRqEZOcs9PpIL5ObgECuIg5tBYPKgbuTyEnZodsU_9HbTUZ2-jByalDVxqA_YzzchKbkYdEFa_qIp9lWcoYo6D3qK8GsKOx6BiRctsQDuVUWLhysRJGuuyakFzy91eGWIhYPaBBaKtxS__lDeKLIW8YVqARQEoD_mB67s=",
-    "salt": "Z0v3Mh4EiCM1KgECoben_g==",
-    "text": "Damona is a Gaulish goddess whose name likely means great or divine ox. People honoured her alone and beside several male gods, including Apollo Borvon, Apollo Moritasgas, and the god Albius. A walled precinct at Alesia, sheltering sacred springs and warm baths, yielded a stone head of her, crowned with ears of grain, and a hand that gripped a snake. Bound to healing waters, she carried the snake and grain signs she shared with Hygeia and Demeter.",
-    "okr": {
-        "objective": "Document Damona, the Gaulish healing goddess of the springs at Alesia.",
-        "key_results": [
-            "Record Damona as a Gaulish goddess whose name may mean great or divine ox.",
-            "Note her company beside Apollo Borvon, Apollo Moritasgus, and Albius.",
-            "Describe the stone head crowned with grain and the hand holding a snake at Alesia.",
-            "Link her snake and grain signs to those of Hygeia and Demeter."
-        ],
-        "evidence": "Koch 2006, s.v. 'Damona'; Monaghan, Encyclopedia of Celtic Mythology and Folklore"
+  "name": "Damona",
+  "entities": [
+    {
+      "entity": "Damona",
+      "type": "Deity"
+    },
+    {
+      "entity": "Bóand",
+      "type": "Deity"
+    },
+    {
+      "entity": "Borvo",
+      "type": "Deity"
+    },
+    {
+      "entity": "Apollo Moritasgus",
+      "type": "Deity"
+    },
+    {
+      "entity": "Alesia",
+      "type": "place"
+    },
+    {
+      "entity": "Hygeia",
+      "type": "deity"
+    },
+    {
+      "entity": "Demeter",
+      "type": "deity"
+    },
+    {
+      "entity": "Albius",
+      "type": "deity"
     }
+  ],
+  "attributes": [
+    {
+      "entity": "Damona",
+      "attribute": "name means \"divine cow\""
+    },
+    {
+      "entity": "Damona",
+      "attribute": "consort of Borvo and Apollo Moritasgus"
+    },
+    {
+      "entity": "Damona",
+      "attribute": "possibly polyandrous"
+    },
+    {
+      "entity": "Damona",
+      "attribute": "name likely means great or divine ox"
+    },
+    {
+      "entity": "Damona",
+      "attribute": "honoured at the healing springs and warm baths of Alesia"
+    },
+    {
+      "entity": "Damona",
+      "attribute": "signed by the snake and grain she shared with Hygeia and Demeter"
+    },
+    {
+      "entity": "Damona",
+      "attribute": "stands beside Apollo Borvon, Apollo Moritasgus, and Albius"
+    },
+    {
+      "entity": "Damona",
+      "attribute": "worshipped with Borvo at the shrine of Bourbonne-les-Bains in north-eastern France"
+    },
+    {
+      "entity": "Bormana",
+      "attribute": "the consort of Borvo when he is known as Bormanus"
+    },
+    {
+      "entity": "Damona",
+      "attribute": "several commentators see the cult of the cow in her worship"
+    }
+  ],
+  "sources": [
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.",
+    "Koch 2006, s.v. 'Damona'",
+    "MacKillop 2008, s.v. 'Damona'."
+  ],
+  "cyphertext": "HJrgApgFaIbYuZeDkBRb6f7sUia_23EwlHK3lIplO7kTi8Ch20pRf1P7PNSPL6pJKPsFjWBr7CffhP6zuhBcbo6g9Gw2SLUdc9CCEXVx2YemQz13EProLUzRDT6hOqncRC2Yk15_HQzo_U8CkyrEsibphvK2oigJR1N4Q_A9CEkg8TkWxcfjkaz5eu32h1NDopHEvRTC-qWd8_R6M0I5y-TfULzlZgO9YxlO81T8dxlcs9kKl-PtV4tJWpzfUqWyvswD-B4m5JnIcVRiSpi3wVpYJ7p_KTyi7CzdnYv5QMRFaDwIonLEgURBYDzTm8hcYxU8kDawlhhqPiRXjhEKPcFwBvihAAM4Ne3OUR6dbWzFOKXwjqZzeOB8K5an6eIXn2ii1mPz_0ytqcCoYk0V2wWwnkWLvrZMt0We5BidycOzqgVH8xFImP34VYi7ZQ1SSExSgNuRqEZOcs9PpIL5ObgECuIg5tBYPKgbuTyEnZodsU_9HbTUZ2-jByalDVxqA_YzzchKbkYdEFa_qIp9lWcoYo6D3qK8GsKOx6BiRctsQDuVUWLhysRJGuuyakFzy91eGWIhYPaBBaKtxS__lDeKLIW8YVqARQEoD_mB67s=",
+  "salt": "Z0v3Mh4EiCM1KgECoben_g==",
+  "text": "Damona is a Gaulish goddess whose name likely means great or divine ox. People honoured her alone and beside several male gods, including Apollo Borvon, Apollo Moritasgas, and the god Albius. A walled precinct at Alesia held sacred springs and warm baths. Finds there included a stone head of her crowned with ears of grain. A hand gripping a snake came from the same precinct. Bound to healing waters, she carried the snake and grain signs she shared with Hygeia and Demeter.",
+  "okr": {
+    "objective": "Document Damona, the Gaulish healing goddess of the springs at Alesia.",
+    "key_results": [
+      "Record Damona as a Gaulish goddess whose name may mean great or divine ox.",
+      "Note her company beside Apollo Borvon, Apollo Moritasgus, and Albius.",
+      "Describe the stone head crowned with grain and the hand holding a snake at Alesia.",
+      "Link her snake and grain signs to those of Hygeia and Demeter."
+    ],
+    "evidence": "Koch 2006, s.v. 'Damona'; Monaghan, Encyclopedia of Celtic Mythology and Folklore"
+  }
 }

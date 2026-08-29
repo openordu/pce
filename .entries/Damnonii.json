@@ -1,0 +1,34 @@
+{
+  "name": "Damnonii",
+  "text": "Damnonii is a variant spelling of the name Dumnonii. The dictionary points the form to the Dumnonia record. Dumnonia was the Brittonic realm of south-west Britain that covered roughly modern Devon and Cornwall. Readers will find the kingdom and its people under the Dumnonia entry.",
+  "entities": [
+    {
+      "entity": "Dumnonia",
+      "type": "place"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Damnonii",
+      "attribute": "a variant spelling of the people-name Dumnonii"
+    },
+    {
+      "entity": "Dumnonia",
+      "attribute": "the main entry carrying the south-west British realm"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Damnonii'."
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Route readers from the spelling Damnonii to the Dumnonia entry.",
+    "key_results": [
+      "Damnonii is a variant spelling of Dumnonii.",
+      "The dictionary routes the form to the Dumnonia record."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Damnonii'."
+  }
+}
