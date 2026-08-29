@@ -1,0 +1,50 @@
+{
+  "name": "Tálcend",
+  "text": "Tálcend is the nickname that the Fenian dialogues give to St Patrick. The name means adze-head and points to the shape of a bishop's mitre. Printed forms include Taillcenn and the corruptions Tailkenn, Talkenn, and Talkend. The word mocks the hard-headed refusal of the saint to hear the pagan side. Oisin and Cailte trade sharp words with him across those dialogues. A separate record keeps the corrupt spellings as its own head.",
+  "entities": [
+    {
+      "entity": "Tálcend",
+      "type": "Person"
+    },
+    {
+      "entity": "Patrick",
+      "type": "Person"
+    },
+    {
+      "entity": "Oisin",
+      "type": "Person"
+    },
+    {
+      "entity": "Cailte",
+      "type": "Person"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Tálcend",
+      "attribute": "Patrick's adze-head nickname in the Fenian dialogues"
+    },
+    {
+      "entity": "Tálcend",
+      "attribute": "printed forms Taillcenn, Tailkenn, Talkenn, Talkend"
+    },
+    {
+      "entity": "Tálcend",
+      "attribute": "name plays on the bishop's mitre shape and the saint's stubbornness"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Tálcend'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Tálcend is the nickname that the Fenian dialogues give to St Patrick",
+    "key_results": [
+      "canonical head form of Patrick's nickname",
+      "adze-head name coined in the Fenian dialogues"
+    ],
+    "evidence": "MacKillop 2008, s.v. Tálcend."
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "name": "Tír Chonaill",
+  "text": "Tír Chonaill is the land of Conall, a kingdom named after Conall Gulban. Gulban was a son of Niall Noigiallach, the taker of the Nine Hostages. The kingdom belonged to the northern federation of the Uí Néill. Its extent runs beyond modern County Donegal. Its reach covers the land from Lough Foyle down to Ballysadare in County Sligo. Writers also print the name as Tir Connell.",
+  "entities": [
+    {
+      "entity": "Tír Chonaill",
+      "type": "Place"
+    },
+    {
+      "entity": "Conall Gulban",
+      "type": "Person"
+    },
+    {
+      "entity": "Niall Noigiallach",
+      "type": "Person"
+    },
+    {
+      "entity": "Uí Néill",
+      "type": "Group"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Tír Chonaill",
+      "attribute": "kingdom named after Conall Gulban, son of Niall Noigiallach"
+    },
+    {
+      "entity": "Tír Chonaill",
+      "attribute": "part of the northern Uí Néill federation"
+    },
+    {
+      "entity": "Tír Chonaill",
+      "attribute": "wider than Co. Donegal, from Lough Foyle to Ballysadare in Sligo"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Tir Chonaill'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Tír Chonaill is the land of Conall, a kingdom named after Conall Gulban",
+    "key_results": [
+      "land of Conall Gulban in the northwest",
+      "northern Uí Néill kingdom beyond modern Donegal"
+    ],
+    "evidence": "MacKillop 2008, s.v. Tir Chonaill."
+  }
+}

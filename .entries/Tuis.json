@@ -1,0 +1,42 @@
+{
+  "name": "Tuis",
+  "text": "Tuis is a king of Greece in the tale of the children of Tuireann. The sons of Tuireann must win his magical pigskin as one of their fines. The dictionary routes the quest to the tragedy of that family. The pigskin counts among the impossible tasks laid on the brothers.",
+  "entities": [
+    {
+      "entity": "Tuis",
+      "type": "Person"
+    },
+    {
+      "entity": "Tuireann",
+      "type": "Person"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Tuis",
+      "attribute": "king of Greece in the children-of-Tuireann tale"
+    },
+    {
+      "entity": "Tuis",
+      "attribute": "owner of the magical pigskin the brothers must win"
+    },
+    {
+      "entity": "Tuis",
+      "attribute": "stub article routing to the family tragedy"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Tuis'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Tuis is a king of Greece in the tale of the children of Tuireann",
+    "key_results": [
+      "king of Greece in the Tuireann children tale",
+      "keeper of the magical pigskin fine"
+    ],
+    "evidence": "MacKillop 2008, s.v. Tuis."
+  }
+}

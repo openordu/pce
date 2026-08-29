@@ -1,0 +1,42 @@
+{
+  "name": "Tír",
+  "text": "Tír is the Irish word for land. It opens countless real and imagined place-names as their first element. English writers once anglicized the element as Tyr-. The dictionary sends the plain sense of the word to its mag entry. The element marks territories and otherworld lands alike. Readers meet it across the whole place-name alphabet of this book.",
+  "entities": [
+    {
+      "entity": "Tír",
+      "type": "Role"
+    },
+    {
+      "entity": "mag",
+      "type": "Place"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Tír",
+      "attribute": "Irish word for land"
+    },
+    {
+      "entity": "Tír",
+      "attribute": "first element of countless place-names, anglicized Tyr-"
+    },
+    {
+      "entity": "Tír",
+      "attribute": "cross-reference to the mag record"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Tir'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Tír is the Irish word for land",
+    "key_results": [
+      "Irish word element for land",
+      "building block of Irish place-names"
+    ],
+    "evidence": "MacKillop 2008, s.v. Tir."
+  }
+}
