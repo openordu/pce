@@ -2,59 +2,60 @@
 layout: layouts/pce.njk
 title: Suleviae
 icon: file-lines
-order: 2088
+order: 2406
 contributors: [ 'Christopher Godwin' ]
 attributes:
-  - Suleviae Continental Celtic goddess
-  - inscriptions found to this multiple goddess
-  - name the many Suls
-  - goddess Sul connecting her with the British healing goddess Sul
-  - Caesar associated this team of divinities with the Roman goddess Minerva
-  - Roman goddess Minerva ruled Healing
+  - Suleviae a Continental goddess whose name means the many Suls
+  - Suleviae Caesar tied the group to Minerva
+  - Suleviae a triad of mother-goddesses named in Latin form
+  - Suleviae worshipped at Colchester, Cirencester, and Bath
+  - Suleviae Minerva bore the epithet Sulevia, plural Suleviae
+  - Suleviae linked to cults of healing, regeneration, fertility, and maternity
 categories:
-  - Continental Celtic goddess
-  - Roman goddess
-  - found objects
-  - British healing goddess
-  - historical figure
-  - group of gods/goddesses
+  - Goddess
+  - Place
+  - Person
 entities:
-  - Suleviae(Continental Celtic goddess)
-  - inscriptions(found objects)
-  - goddess Sul(British healing goddess)
-  - Caesar(historical figure)
-  - team of divinities(group of gods/goddesses)
-  - Roman goddess Minerva(Roman goddess)
+  - Suleviae(Person)
+  - Sul(Person)
+  - Minerva(Person)
+  - Matres(Goddess)
+  - Colchester(Place)
+  - Cirencester(Place)
+  - Bath(Place)
 tags:
   - Suleviae
-  - inscriptions
-  - goddess Sul
-  - Caesar
-  - team of divinities
-  - Roman goddess Minerva
+  - Sul
+  - Minerva
+  - Matres
+  - Colchester
+  - Cirencester
+  - Bath
 ---
 ``` tab [group1:Info]
 ::: magazinestyle
-Continental Celtic goddess Suleviae has been documented in several dozen inscriptions. Her name appears to signify "the many Suls," thereby connecting her to the British healing goddess Sul. Caesar linked this group of goddesses with the Roman goddess Minerva, who presided over healing.
+Suleviae is the Latin name for a triad of mother-goddesses. Her cult is attested across the Roman-occupied Celtic lands, and Rome itself knew it. Iconographic and epigraphic evidence links them to cults of healing, regeneration, fertility, and maternity. Three British sites record them. They stood at Colchester, at Cirencester, and at Bath. The Bath setting carries weight. Minerva bore Sulevia as one of her epithets there, and the plural form gave the triad its name. The group therefore belongs with the healing waters of Sulis and the great spa of Aquae Sulis. Writers set the Suleviae beside the Matres, the mother goddesses of the Roman west. The plural honours a family of powers joined in one work of care.
 
 :::
 ```
 ``` tab [group1:Attributes]
-- **Suleviae**: Continental Celtic goddess
-- **inscriptions**: found to this multiple goddess
-- **name**: the many Suls
-- **goddess Sul**: connecting her with the British healing goddess Sul
-- **Caesar**: associated this team of divinities with the Roman goddess Minerva
-- **Roman goddess Minerva**: ruled Healing
+- **Suleviae**: a Continental goddess whose name means the many Suls
+- **Suleviae**: Caesar tied the group to Minerva
+- **Suleviae**: a triad of mother-goddesses named in Latin form
+- **Suleviae**: worshipped at Colchester, Cirencester, and Bath
+- **Suleviae**: Minerva bore the epithet Sulevia, plural Suleviae
+- **Suleviae**: linked to cults of healing, regeneration, fertility, and maternity
 ```
 ``` tab [group1:Entities]
-- **Suleviae**: Continental Celtic goddess
-- **inscriptions**: found objects
-- **goddess Sul**: British healing goddess
-- **Caesar**: historical figure
-- **team of divinities**: group of gods/goddesses
-- **Roman goddess Minerva**: Roman goddess
+- **Suleviae**: Person
+- **Sul**: Person
+- **Minerva**: Person
+- **Matres**: Goddess
+- **Colchester**: Place
+- **Cirencester**: Place
+- **Bath**: Place
 ```
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
+- MacKillop 2008, s.v. 'Suleviae'
 ```

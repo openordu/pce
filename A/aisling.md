@@ -2,54 +2,69 @@
 layout: layouts/pce.njk
 title: aisling
 icon: file-lines
-order: 84
+order: 62
 contributors: [ 'Christopher Godwin' ]
 attributes:
-  - goddess of Sovereignty betrayed and alone
-  - Ireland searching for a hero
+  - aisling a dream or vision in verse
+  - aisling one famous poem tells of Aonghus and Cáer
+  - Sovereignty the subject of many later aislings
+  - aisling conventional vision poem with a lady, usually Ireland personified
+  - aisling favourite of eighteenth-century Jacobite poets
+  - aisling practised chiefly in Munster from the seventeenth to nineteenth centuries
 categories:
-  - book
-  - place
-  - person
-  - poem
-  - mythical being
+  - Place
+  - Concept
+  - Person
+  - Text
 entities:
-  - aislings(poem)
-  - poet(person)
-  - goddess of Sovereignty(mythical being)
-  - Ireland(place)
-  - hero(person)
-  - Dreams(book)
-  - Spéir-Bhean(book)
+  - aisling(Concept)
+  - Aonghus(Person)
+  - Cáer(Person)
+  - Mac Conglinne(Person)
+  - Sovereignty(Person)
+  - Munster(Place)
+  - Aislinge Óengusa(Text)
+  - Aislinge Meic Con Glinne(Text)
 tags:
-  - aislings
-  - poet
-  - goddess of Sovereignty
-  - Ireland
-  - hero
-  - Dreams
-  - Spéir-Bhean
+  - aisling
+  - Aonghus
+  - Cáer
+  - Mac Conglinne
+  - Sovereignty
+  - Munster
+  - Aislinge Óengusa
+  - Aislinge Meic Con Glinne
 ---
 ``` tab [group1:Info]
 ::: magazinestyle
-A literary form originating in Ireland is the aisling (or ashling, or aislinge) which refers to a type of Irish poetry that connotes a vision or dream. The most well-known poem of this kind is the Aislinge Óenguso, or The Vision of Aonghus, a story about the god's love for a maiden called Cáer. Another celebrated poem in the same genre is the Aislinge Meic Con Glinne or The Vision of Mac Conglinne, a satire about a sagacious scholar who journeys across a corrupt Ireland filled with corrupt poets and clergy. From the 17th to the 19th century, many aislings were nationalistic poems that told tales of the poet coming across the betrayed and lonely goddess of Sovereignty, wandering on the streets of Ireland in search of a hero. See also: Dreams, Spéir-Bhean.
+An aisling is a poem, a vision, or a dream. The word is Irish, and the older spelling aislinge often marks prose texts. As a verse form it dresses patriotic themes in a dream setting. Its origin may reach into the late Middle Ages. The form flourished chiefly from the seventeenth to the nineteenth century. Munster poets practised it above all.
+
+The classical shape follows a fixed formula. The poet walks out and meets a lovely lady, Ireland in personified form. He describes her appearance, often calling on the rose and the lily for images. He then begins a conversation with her. The lady's condition mirrors the state of the country, robbed and wearied by conquest. She may bless the poet or warn him of her wrongs. In the convention the lady stands for the land itself, and her fate is Ireland's fate. Jacobite poets of the eighteenth century loved the form best. They dressed their hope for the exiled Stuart kings in the lady's beauty and sorrow. The form gave banned politics a safe dress, since censors saw only a love poem. The formula allows variations, but the three moves stay recognisable.
+
+Older Irish prose gives the form its most famous titles. The Aislinge Óengusa, the vision of Aonghus, tells of that god's love for the swan maiden Cáer. The Aislinge Meic Con Glinne, the vision of Mac Conglinne, turns the dream into satire. Many later aislings are poems of the land. In them the poet meets the goddess of Sovereignty, alone and ruined, awaiting a rightful prince. Dream visions of this kind were already old when the political form matured. When the political hope faded, the form slipped into ornamental verse. Munster's poets kept the form alive longest, and their examples anchor the anthologies. The vision poem thus joins personal dream and national hope in a single convention. Gerard Murphy's study of the form remains the standard treatment.
 
 :::
 ```
 ``` tab [group1:Attributes]
-- **goddess of Sovereignty**: betrayed and alone
-- **Ireland**: searching for a hero
+- **aisling**: a dream or vision in verse
+- **aisling**: one famous poem tells of Aonghus and Cáer
+- **Sovereignty**: the subject of many later aislings
+- **aisling**: conventional vision poem with a lady, usually Ireland personified
+- **aisling**: favourite of eighteenth-century Jacobite poets
+- **aisling**: practised chiefly in Munster from the seventeenth to nineteenth centuries
 ```
 ``` tab [group1:Entities]
-- **aislings**: poem
-- **poet**: person
-- **goddess of Sovereignty**: mythical being
-- **Ireland**: place
-- **hero**: person
-- **Dreams**: book
-- **Spéir-Bhean**: book
+- **aisling**: Concept
+- **Aonghus**: Person
+- **Cáer**: Person
+- **Mac Conglinne**: Person
+- **Sovereignty**: Person
+- **Munster**: Place
+- **Aislinge Óengusa**: Text
+- **Aislinge Meic Con Glinne**: Text
 ```
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
+- MacKillop 2008, s.v. 'aisling'
 ```
 ![aisling Image](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Pierre-C%C3%A9cile_Puvis_de_Chavannes_003.jpg/1200px-Pierre-C%C3%A9cile_Puvis_de_Chavannes_003.jpg)

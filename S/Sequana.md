@@ -2,36 +2,66 @@
 layout: layouts/pce.njk
 title: Sequana
 icon: file-lines
-order: 1994
+order: 2310
 contributors: [ 'Christopher Godwin' ]
 attributes:
-  - Sequani may have been connected to Sequana
-  - Sequana perhaps envisioning her as their divine ancestor
+  - Sequana goddess of the source of the Seine
+  - Sequana healing cult with organ votives
+  - Sequani tribe named after the river
+  - Seine river boundary in Q-Celtic Gaulish
+  - Sequana her shrine Fontes Sequanae dates from the second century BC northwest of Dijon
+  - Sequana the Romans enlarged the shrine with two large temples
+  - Sequana devotees wore heavy hooded woollen cloaks and bore fruit, money, and pet animals
+  - Sequana a pot inscribed with her name held silver and bronze body parts
 categories:
-  - divine ancestor
-  - tribe
+  - Place
+  - Continental Celtic goddess
+  - River
+  - Tribe
 entities:
-  - Sequani(tribe)
-  - Sequana(divine ancestor)
+  - Sequana(Continental Celtic goddess)
+  - Seine(River)
+  - Sequani(Tribe)
+  - Aedui(Tribe)
+  - Helvetii(Tribe)
+  - Saint-Germain-Source-Seine(Place)
+  - Fontes Sequanae(Place)
 tags:
-  - Sequani
   - Sequana
+  - Seine
+  - Sequani
+  - Aedui
+  - Helvetii
+  - Saint-Germain-Source-Seine
+  - Fontes Sequanae
 ---
 ``` tab [group1:Info]
 ::: magazinestyle
-Continental Celtic goddess Sequana (Sequena) lent her name to the River Seine. Fontes Sequanae (“springs of Sequana”), situated close to Dijon in France, served as the source of the river and was an essential place of worship for Sequana. Here, archaeologists uncovered a Roman-era shrine where a crowned woman, with her arms upraised, was mounted on a boat shaped like a duck, holding a berry in its beak; hundreds of coins were offered to her bronze image. The waterbird was Sequana's emblem, making her unique among Celtic goddesses, as most others, such as Rhiannon, were associated with birds of prey. By combining the healing ability of the river goddess with the bird goddess's aspects, she might have possessed great power. Another Gaulish river goddess, Natosuelta, who shared Sequana's association with a bird, had the Raven as her emblem, which was typically linked with death. The many bronze and silver models of legs, eyes, breasts, and a range of body parts discovered in the river source give us an insight into Sequana's therapeutic abilities, as such offerings often signified the organ in need of healing. Romans kept Sequana's name as she was an important goddess, and her devotees, perhaps the Sequani tribe who might have thought of her as their divine ancestor, never assigned a Latin name to her.
+Sequana is the goddess whose spring feeds the River Seine at its source. Her name also appears as Sequena, and scholars cite it as a rare Q-Celtic sign in Gaulish. Her healing shrine, the Fontes Sequanae, or springs of Sequana, dates from the second century BC. It lies northwest of Dijon in eastern France, at the river's source near Saint-Germain-Source-Seine. Eight stones there call her dea Sequana. Romans esteemed the goddess despite her Celtic origin. They enlarged her shrine with two large temples. A large bronze statuette shows a young woman. The figure is draped and wears a diadem. Her arms reach out toward her worshippers, and she stands in a duck-shaped boat. The boat's prow takes the shape of a swan or a duck, a clear image of the river. The duck holds a berry in its beak. While goddesses such as Rhiannon are tied to birds, Sequana alone claims a waterbird as her sign. Details on the surviving figures describe her worship. Her devotees wear heavy hooded woollen cloaks, the dress of ordinary Celtic peasants. They bring her gifts of fruit, money, and pet animals. Her name stands inscribed on a large pot. That pot held silver and bronze body parts, offered for curing. Complete bodies, coins, and jewellery went into the same deposit, presumably in hope of a matching cure. This healing cult drew votive models of legs, eyes, breasts, and other body parts. The ancient cult continued into Roman rule. The Sequani tribe held the high land between the Aedui and the Helvetii. They likely took their name from the river.
 
 :::
 ```
 ``` tab [group1:Attributes]
-- **Sequani**: may have been connected to Sequana
-- **Sequana**: perhaps envisioning her as their divine ancestor
+- **Sequana**: goddess of the source of the Seine
+- **Sequana**: healing cult with organ votives
+- **Sequani**: tribe named after the river
+- **Seine**: river boundary in Q-Celtic Gaulish
+- **Sequana**: her shrine Fontes Sequanae dates from the second century BC northwest of Dijon
+- **Sequana**: the Romans enlarged the shrine with two large temples
+- **Sequana**: devotees wore heavy hooded woollen cloaks and bore fruit, money, and pet animals
+- **Sequana**: a pot inscribed with her name held silver and bronze body parts
 ```
 ``` tab [group1:Entities]
-- **Sequani**: tribe
-- **Sequana**: divine ancestor
+- **Sequana**: Continental Celtic goddess
+- **Seine**: River
+- **Sequani**: Tribe
+- **Aedui**: Tribe
+- **Helvetii**: Tribe
+- **Saint-Germain-Source-Seine**: Place
+- **Fontes Sequanae**: Place
 ```
 ``` tab [group1:Sources]
 - Green, Miranda. Symbol and Image in Celtic Religious Art. London: Routledge, 1989.
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
+- MacKillop 2008, s.v. 'Sequana'
 ```

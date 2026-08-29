@@ -2,63 +2,75 @@
 layout: layouts/pce.njk
 title: Teltown
 icon: file-lines
-order: 2133
+order: 2456
 contributors: [ 'Christopher Godwin' ]
 attributes:
-  - Teltown location
-  - assembly event
-  - Rath Dubh earthwork
-  - Passage Grave sacred site
-  - pre-Celtic people culture
+  - Teltown an Irish mythological site in County Meath near the River Blackwater
+  - Teltown hosted the yearly games in honor of the goddess Tailtiu
+  - Teltown gave its name to the townland around it
+  - Teltown was the site of Teltown trial marriages at the Crockans
+  - Rath Dubh an earthwork at Teltown, also called the black rath
+  - Teltown the hamlet lies four miles south-east of Kells in County Meath
+  - Teltown site of the ancient celebration of Tailtiu
 categories:
-  - culture
-  - structure
-  - time period
-  - location
-  - event
+  - Place
+  - Deity
+  - Event
 entities:
-  - Teltown(location)
-  - medieval times(time period)
-  - assembly(event)
-  - 19th century(time period)
-  - earthworks(structure)
-  - Rath Dubh(structure)
-  - Passage Grave(structure)
-  - pre-Celtic people(culture)
+  - Teltown(Place)
+  - County Meath(Place)
+  - River Blackwater(Place)
+  - Tara(Place)
+  - Tailtiu(Deity)
+  - Oenach Tailten(Event)
+  - Lugh(Deity)
+  - Lughnasa(Event)
+  - The Crockans(Place)
+  - Rath Dubh(Place)
+  - Kells(Place)
 tags:
   - Teltown
-  - medieval times
-  - assembly
-  - 19th century
-  - earthworks
+  - County Meath
+  - River Blackwater
+  - Tara
+  - Tailtiu
+  - Oenach Tailten
+  - Lugh
+  - Lughnasa
+  - The Crockans
   - Rath Dubh
-  - Passage Grave
-  - pre-Celtic people
+  - Kells
 ---
 ``` tab [group1:Info]
 ::: magazinestyle
-A large, long Hillfort situated on a farm in Co. Meath, near the River Blackwater, is a nondescript Irish mythological site today. However, in ancient times, it was one of the most renowned sites in the land where the king of royal Tara presided over the annual games in honor of the goddess Tailtiu. The site gave its name to Tailtiu and even today to the townland surrounding it. These games were known as Óenach Tailten and were part of the harvest assembly celebrated on the Celtic feast of Lughnasa. The feast was named after Tailtiu's foster son, the god Lugh, who established the games and the assembly in her honor after Tailtiu died from exhaustion when she cleared Ireland's central pasturelands. Teltown was famous not only for the games and trading but also for the Teltown marriages, trial marriages contracted at a mound located across the road from the primary center of activity. The Crockans, a wooden door pierced by a hole, stood at that spot where young couples held hands while plighting their troth. If the match were not successful within a year and a day, they could return to the Crockans and undo the union. The games continued through medieval times, and the assembly was held until the 19th century. The long continuity of Teltown goes back even further. The site may have been selected because it was already sacred to the pre-Celtic people, and one of the earthworks at Teltown, the Rath Dubh ("black rath"), may be built above a Passage Grave.
+Teltown is an Irish mythological site. MacKillop fixes the spot precisely. It is a hamlet in County Meath, four miles south-east of Kells. The place held the ancient celebration of Tailtiu. A large long hillfort rises from a pasture on a farm in County Meath, near the River Blackwater. The site looks ordinary today. In old times it was one of the most famed places in Ireland. The king of royal Tara held the yearly games there. The games honored the goddess Tailtiu, and the site took its name from her. The games belonged to a harvest assembly called the Oenach Tailten. The people held it on the feast of Lughnasa. Lugh was Tailtiu's foster son and the god who set up the games. Teltown was also a trading site. A mound across the road, the Crockans, saw the Teltown marriages. These were trial marriages. Couples held hands through a hole in a wooden door there. A couple could end the match within a year and a day. The games went on through medieval times. The assembly lasted until the 1800s. One earthwork at Teltown, called Rath Dubh or black rath, may lie over a burial chamber. The place may have been sacred to the pre-Celtic people first.
 
 :::
 ```
 ``` tab [group1:Attributes]
-- **Teltown**: location
-- **assembly**: event
-- **Rath Dubh**: earthwork
-- **Passage Grave**: sacred site
-- **pre-Celtic people**: culture
+- **Teltown**: an Irish mythological site in County Meath near the River Blackwater
+- **Teltown**: hosted the yearly games in honor of the goddess Tailtiu
+- **Teltown**: gave its name to the townland around it
+- **Teltown**: was the site of Teltown trial marriages at the Crockans
+- **Rath Dubh**: an earthwork at Teltown, also called the black rath
+- **Teltown**: the hamlet lies four miles south-east of Kells in County Meath
+- **Teltown**: site of the ancient celebration of Tailtiu
 ```
 ``` tab [group1:Entities]
-- **Teltown**: location
-- **medieval times**: time period
-- **assembly**: event
-- **19th century**: time period
-- **earthworks**: structure
-- **Rath Dubh**: structure
-- **Passage Grave**: structure
-- **pre-Celtic people**: culture
+- **Teltown**: Place
+- **County Meath**: Place
+- **River Blackwater**: Place
+- **Tara**: Place
+- **Tailtiu**: Deity
+- **Oenach Tailten**: Event
+- **Lugh**: Deity
+- **Lughnasa**: Event
+- **The Crockans**: Place
+- **Rath Dubh**: Place
+- **Kells**: Place
 ```
 ``` tab [group1:Sources]
 - Raftery, Brian. Pagan Celtic Ireland: The Enigma of the Irish Iron Age. London: Thames and Hudson, 1994, 82.
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
+- MacKillop 2008, s.v. 'Teltown'
 ```

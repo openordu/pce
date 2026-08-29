@@ -2,43 +2,96 @@
 layout: layouts/pce.njk
 title: Tlachtga
 icon: file-lines
-order: 2164
+order: 2491
 contributors: [ 'Christopher Godwin' ]
 attributes:
-  - Tailtiu honored with a festival
-  - Tlachtga honored with a festival
-  - Lugh organized the festival
+  - Tlachtga a goddess of the Irish
+  - Tlachtga a hill of Ireland
+  - Tlachtga a child of a witch
+  - Tlachtga a sorceress, daughter of the druid Mug Ruith
+  - Tlachtga violated by three sons of Simon Magus and mother of triplets
+  - Tlachtga died of grief like Macha after the delivery
+  - Tlachtga eponym of the Samain fire site at Ward Hill near Athboy
+  - Tlachtga her hill held the 1168 national synod of Ruaidri Ua Conchobair
 categories:
-  - god
-  - figure
+  - Concept
+  - Person
+  - Artifact
+  - Place
+  - Deity
 entities:
-  - Tailtiu(figure)
-  - Tlachtga(god)
-  - Lugh(god)
+  - Tlachtga(Deity)
+  - Lugh(Deity)
+  - Ireland(Place)
+  - Mug Ruith(Person)
+  - Simon Magus(Person)
+  - Ward Hill(Place)
+  - Athboy(Place)
+  - Tailtiu(Place)
+  - Uisnech(Place)
+  - Macha(Deity)
+  - Samain(Concept)
+  - Lug Lámfhota(Deity)
+  - Ruaidri Ua Conchobair(Person)
+  - Meath(Place)
+  - Brega(Place)
+  - roth rámach(Artifact)
 tags:
-  - Tailtiu
   - Tlachtga
   - Lugh
+  - Ireland
+  - Mug Ruith
+  - Simon Magus
+  - Ward Hill
+  - Athboy
+  - Tailtiu
+  - Uisnech
+  - Macha
+  - Samain
+  - Lug Lámfhota
+  - Ruaidri Ua Conchobair
+  - Meath
+  - Brega
+  - roth rámach
 ---
 ``` tab [group1:Info]
 ::: magazinestyle
-Tlachtga, a significant Irish mythological site, is located near Athboy in Co. Meath. Though it is less popular than the nearby hill of Tara, it is celebrated for its deep-rooted mythological significance as the spot of the grand Óenach or assembly of Samhain, the festival of winter’s arrival on November 1. The festival has become famous as Halloween in the modern era. Tlachtga, also recognized as the Hill of Ward, holds enormous historical significance, with remarkable earthworks from the Celtic era. The place's prominence lasted till historical times as in the year 1168, the high king Rory O’Connor convened an all-island assembly there. Tlachtga rises near the western edge of Ireland’s central plain, known as Brega in early writings. This plain presently includes most of Co. Meath. Like other mountains of significance in the midlands, Tlachtga is not striking, but its peak presents a stunning view of almost half of Ireland. The mythic hills of Tara, Slane, and Loughcrew are visible on a clear day. A large series of earthworks forming a circular Hillfort with four big banks forming a shape similar to the Rath of the Synods on Tara, was probably capped with wooden palisades to construct a protective wall. There are several wells closeby, one of which is called Druid’s Well, with an unusual name, and is believed to be the source of the water described in an ancient poem as the appropriate offering to the king at Tara. Despite the neglect by scholars and archaeologists, Tlachtga was highly significant in the past. Its peculiar name includes the word for "earth" in modern Irish, tlacht, from which some have proposed a lost goddess of that name; the second syllable seems to mean "ray" or "spear" (see Gáe Bulga). It has been stated in some old texts that Tlachtga hill obtained its name from a Witch, who was known to be the daughter of the magician Mog Ruith. The story about this Witch is bewildering, as it tells of her journey to Italy in order to study under the guidance of Simon Magus, a renowned magician. It is said that she was taught to make a flying wheel called Roth Ramach and used this artifact to return home to Ireland. However, the Three sons of Simon Magus somehow found her and ravished her on the hill that now bears her name. It was also the place where she died while giving birth to the three sons of the three brothers, and her remains were buried there. Just like the parallel figure of Tailtiu, Tlachtga was remembered through a festival which was organized in her honor by the god Lugh.
+Tlachtga is both an Irish goddess and a hill that carries her name. The name holds the old word for earth, and some tales make her a power of the year's renewal. MacKillop records her as a sorceress and the daughter of the druid Mug Ruith. Mug Ruith was the great archdruid of Ireland, and Tlachtga learned much secret wisdom at his side. She journeyed with her father to the great seats of learning of the world. From Italy she brought magical stones home. Her story turns dark there. Three sons of the magician Simon Magus violated her. She bore triplet sons on the Meath hill that took her name. The birth cost her life. As with the goddess Macha, grief killed her when the children came. A fortress rose over her grave. The fair of Tlachtga ranked among the great assemblies of early Ireland. Its site is now fixed at Ward Hill, 390 feet high. The hill stands two miles east of Athboy, twelve miles west of Tara, and eight miles south-west of Tailtiu. Like Uisnech, it carries the ruined rings of a massive fort. Banks and ditches run in four concentric circles around a hilltop platform 25 feet high. The rite began under Lug Lámfhota, in Monaghan's telling the god Lugh himself. At Samain, the first of November, the winter fires were lit on the hill. The kings of Mide held court there at times. Yet the site kept a strong tie with Munster as well. It sits in modern County Meath, a part of Leinster, in ground that matches the old kingdom of Brega. The flying wheel of Mug Ruith and Simon Magus, the roth rámach, was seen in the sky above it. In 1168 the last high-king of Ireland, Ruaidri Ua Conchobair, held a national synod there. Kings and churchmen gathered, and the meeting is said to have numbered 13,000 horsemen. Fire festival, goddess, and grave hill meet in one place. That meeting is why Tlachtga stands beside Tara and Uisnech among the great ceremonial hills of Ireland.
 
 :::
 ```
 ``` tab [group1:Attributes]
-- **Tailtiu**: honored with a festival
-- **Tlachtga**: honored with a festival
-- **Lugh**: organized the festival
+- **Tlachtga**: a goddess of the Irish
+- **Tlachtga**: a hill of Ireland
+- **Tlachtga**: a child of a witch
+- **Tlachtga**: a sorceress, daughter of the druid Mug Ruith
+- **Tlachtga**: violated by three sons of Simon Magus and mother of triplets
+- **Tlachtga**: died of grief like Macha after the delivery
+- **Tlachtga**: eponym of the Samain fire site at Ward Hill near Athboy
+- **Tlachtga**: her hill held the 1168 national synod of Ruaidri Ua Conchobair
 ```
 ``` tab [group1:Entities]
-- **Tailtiu**: figure
-- **Tlachtga**: god
-- **Lugh**: god
+- **Tlachtga**: Deity
+- **Lugh**: Deity
+- **Ireland**: Place
+- **Mug Ruith**: Person
+- **Simon Magus**: Person
+- **Ward Hill**: Place
+- **Athboy**: Place
+- **Tailtiu**: Place
+- **Uisnech**: Place
+- **Macha**: Deity
+- **Samain**: Concept
+- **Lug Lámfhota**: Deity
+- **Ruaidri Ua Conchobair**: Person
+- **Meath**: Place
+- **Brega**: Place
+- **roth rámach**: Artifact
 ```
 ``` tab [group1:Sources]
 - Gilroy, John. Tlachtga: Celtic Fire Festival. Glanmire, Co. Cork: Pikefield Publications, 2000.
 - Gwynn, Edward. The Metrical Dindshenchas. Royal Irish Academy, Todd Lecture Series. Dublin: Hodges, Figgis, and Co., Ltd., 1906–1924, Reprinted Dublin Institute for Advanced Studies, School of Celtic Studies, 1991, pp. 187–191.
 - Raftery, Brian. Pagan Celtic Ireland: The Enigma of the Irish Iron Age. London: Thames and Hudson, 1994, 82.
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
+- MacKillop 2008, s.v. 'Tlachtga'
 ```

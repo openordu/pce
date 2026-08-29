@@ -2,66 +2,61 @@
 layout: layouts/pce.njk
 title: Sceolan
 icon: file-lines
-order: 1977
+order: 2290
 contributors: [ 'Christopher Godwin' ]
 attributes:
-  - Sceolan story
-  - Sceolan mother
-  - Uirne bewitched into canine form
-  - Uirne restored to humanity
-  - Bran twin pup
-  - Fionn Mac Cumhaill uncle
-  - Fianna band of warriors
-  - Fianna hunters
-  - Fianna fighters
-  - Fianna sentinels
+  - Sceolan an Irish mythological beast, a hunting hound of Fionn
+  - Uirne mother of Sceolan, bewitched into canine form
+  - Sceolan remained in dog form with his twin Bran
+  - Fionn mac Cumhaill adopted both hounds into the Fianna
+  - Sceolan MacKillop spells the name Sceolang, Sceolaing, Sceolan, Sceolàn, and Skeolan
+  - Sceolan born of the human woman Uirne, Fionn's aunt in some tellings and sister in others
+  - Sceolan some tales add a third sibling, the hound Lomair
+  - Sceolan a favourite hunting hound of Fionn
 categories:
-  - ability
-  - hero
-  - person
-  - band of warriors
-  - mythological beast
+  - Being
+  - Group
+  - Person
 entities:
-  - Sceolan(mythological beast)
-  - Shapeshifting(ability)
-  - Uirne(person)
-  - Bran(mythological beast)
-  - Fionn Mac Cumhaill(hero)
-  - Fianna(band of warriors)
+  - Sceolan(Being)
+  - Bran(Being)
+  - Uirne(Person)
+  - Fionn mac Cumhaill(Person)
+  - Fianna(Group)
+  - Lomair(Being)
 tags:
   - Sceolan
-  - Shapeshifting
-  - Uirne
   - Bran
-  - Fionn Mac Cumhaill
+  - Uirne
+  - Fionn mac Cumhaill
   - Fianna
+  - Lomair
 ---
 ``` tab [group1:Info]
 ::: magazinestyle
-A creature from Irish mythology, Sceolan (also known as Sceolang), is the subject of a tale where shapeshifting is a significant motif. According to the story, Sceolan was originally a human, but his mother Uirne was turned into a dog by a bewitchment. Although she returned to being human later on, her two twin pups, Sceolan and Bran, did not transform back. Fionn Mac Cumhaill, a hero and Sceolan's uncle, took in both dogs to his group of warriors known as the Fianna, where they excelled as hunters, fighters, and guardians.
+Sceolan was an Irish mythological beast and a favourite hunting hound of Fionn mac Cumhaill. MacKillop spells the name Sceolang, Sceolaing, Sceolan, Sceolàn, and Skeolan. He was the brother of the better-known hound Bran. Their mother was the human woman Uirne, an aunt of Fionn in some tellings and his sister in others. Her story turns on shape-shifting. She had been bewitched into canine form, and was later restored to human shape. Her twin pups Sceolan and Bran stayed in their dog bodies. Their uncle Fionn made both dogs part of the Fianna, his band of warriors. There they gave good service as hunters, fighters, and sentinels. Some tales add a third sibling to the pair, a hound named Lomair. The tale ties a dog's loyalty to the world of Fionn and the Fianna.
 
 :::
 ```
 ``` tab [group1:Attributes]
-- **Sceolan**: story
-- **Sceolan**: mother
-- **Uirne**: bewitched into canine form
-- **Uirne**: restored to humanity
-- **Bran**: twin pup
-- **Fionn Mac Cumhaill**: uncle
-- **Fianna**: band of warriors
-- **Fianna**: hunters
-- **Fianna**: fighters
-- **Fianna**: sentinels
+- **Sceolan**: an Irish mythological beast, a hunting hound of Fionn
+- **Uirne**: mother of Sceolan, bewitched into canine form
+- **Sceolan**: remained in dog form with his twin Bran
+- **Fionn mac Cumhaill**: adopted both hounds into the Fianna
+- **Sceolan**: MacKillop spells the name Sceolang, Sceolaing, Sceolan, Sceolàn, and Skeolan
+- **Sceolan**: born of the human woman Uirne, Fionn's aunt in some tellings and sister in others
+- **Sceolan**: some tales add a third sibling, the hound Lomair
+- **Sceolan**: a favourite hunting hound of Fionn
 ```
 ``` tab [group1:Entities]
-- **Sceolan**: mythological beast
-- **Shapeshifting**: ability
-- **Uirne**: person
-- **Bran**: mythological beast
-- **Fionn Mac Cumhaill**: hero
-- **Fianna**: band of warriors
+- **Sceolan**: Being
+- **Bran**: Being
+- **Uirne**: Person
+- **Fionn mac Cumhaill**: Person
+- **Fianna**: Group
+- **Lomair**: Being
 ```
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
+- MacKillop 2008, s.v. 'Sceolang'
 ```

@@ -2,7 +2,7 @@
 layout: layouts/pce.njk
 title: Samhain
 icon: file-lines
-order: 2019
+order: 2278
 contributors: [ 'Christopher Godwin' ]
 attributes:
   - Samhain the Celtic festival of November 1 that opened the new year
@@ -14,14 +14,16 @@ attributes:
   - Samhain was a time of divination rites and protective charms
   - Samhain set the stage for the great feasts of the Irish sagas
   - Samhain bears a name linked to summer and to the Gaulish month Samoni
+  - Samhain Samhain is the modern spelling of the older form Samain
+  - Samhain modern study leans on Le Roux, the Rees volume Celtic Heritage, McNeill, and Danaher
 categories:
   - text
-  - being
+  - person
   - Concept
   - Place
-  - person
-  - place
   - concept
+  - place
+  - being
 entities:
   - Samhain(Concept)
   - Samoni(Concept)
@@ -53,6 +55,8 @@ The night brimmed with divination. A girl in Radnorshire counted the spots on a 
 
 The sagas set great feasts on Samain. Mesca Ulad opens with it. It is the day of Cú Chulainn's vision. Oengus's bride changes from bird to woman. The battle at Mag Tuired falls on it. The name itself links to summer. Samoni, the Gaulish word on the Coligny calendar, matches it. The old summer of May to July gave its language to this winter festival.
 
+Samhain is the modern spelling of the older form Samain. Modern study of the feast leans on a small shelf of works. Le Roux wrote on the festival calendar in 1961. The Rees volume Celtic Heritage appeared the same year. McNeill traced the Hallowe'en rites of Scotland in 1970. Danaher set the feast inside the Irish year in 1972.
+
 :::
 ```
 ``` tab [group1:Attributes]
@@ -65,6 +69,8 @@ The sagas set great feasts on Samain. Mesca Ulad opens with it. It is the day of
 - **Samhain**: was a time of divination rites and protective charms
 - **Samhain**: set the stage for the great feasts of the Irish sagas
 - **Samhain**: bears a name linked to summer and to the Gaulish month Samoni
+- **Samhain**: Samhain is the modern spelling of the older form Samain
+- **Samhain**: modern study leans on Le Roux, the Rees volume Celtic Heritage, McNeill, and Danaher
 ```
 ``` tab [group1:Entities]
 - **Samhain**: Concept
@@ -89,5 +95,6 @@ The sagas set great feasts on Samain. Mesca Ulad opens with it. It is the day of
 - Wilde, Lady. Ancient Legends, Mystic Charms and Superstitions of Ireland. London: Chatto and Windus, 1902, 78.
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 - Koch 2006, s.v. 'Samain'
+- MacKillop 2008, s.v. 'Samhain'
 ```
 ![Samhain Image](https://upload.wikimedia.org/wikipedia/commons/8/8c/Neopagan_celebrating_Samhain.jpg)

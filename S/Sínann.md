@@ -2,54 +2,77 @@
 layout: layouts/pce.njk
 title: Sínann
 icon: file-lines
-order: 2023
+order: 2420
 contributors: [ 'Christopher Godwin' ]
 attributes:
-  - Fionn overcome by the number of opponents
-  - Sínann rescued Fionn
-  - magical stone killed all Fionn's enemies at once
-  - Fionn threw the stone into the river
-  - river stone remains hidden in a low ford
-  - Be Thuinne if she finds the stone, it would indicate the world's end is near
+  - Sínann an Irish river goddess who rules the River Shannon
+  - Bóand the river goddess of the Boyne, whose fate mirrors Sínann
+  - salmon of wisdom a fish whose flesh gave wisdom to the one who ate it
+  - well of wisdom the pool beneath Cuilcagh that drowned Sínann
+  - Sínann goddess of the River Shannon and granddaughter of the sea-god Lir
+  - Sínann sought hidden knowledge at Connla's Well and was drowned by its rising waters
+  - Sínann the Shannon was then named for her
+  - Sínann a nearly identical tale tells of Bóand at the Well of Segais
+  - Sínann name forms include Sinand, Sinend, Sinent, Sinainn, Sionnainn, and Sionann
 categories:
-  - Object
-  - Location
+  - Place
+  - Irish mythological site
   - Person
+  - Being
 entities:
-  - Fionn(Person)
   - Sínann(Person)
-  - magical stone(Object)
-  - river(Location)
-  - Be Thuinne(Person)
+  - River Shannon(Place)
+  - Bóand(Person)
+  - salmon of wisdom(Being)
+  - well of wisdom(Place)
+  - Cuilcagh(Place)
+  - County Cavan(Place)
+  - Lir(Person)
+  - Connla's Well(Irish mythological site)
+  - Segáis(Place)
 tags:
-  - Fionn
   - Sínann
-  - magical stone
-  - river
-  - Be Thuinne
+  - River Shannon
+  - Bóand
+  - salmon of wisdom
+  - well of wisdom
+  - Cuilcagh
+  - County Cavan
+  - Lir
+  - Connla's Well
+  - Segáis
 ---
 ``` tab [group1:Info]
 ::: magazinestyle
-Goddess Sínann (known by various names including Shannon, Sinand, Sionann, Sionnainn, Sineng) was one of the prominent Irish deities. She was believed to be the granddaughter of Lir, the sea god who was considered the father of Manannán Mac Lir. Sínann was the goddess of the river Shannon, which is the most significant river in Ireland and covers around one-fifth of the island. She was also responsible for not only the river's waters but also the land it irrigated. Goddess Bóand shared a similar background as Sínann, and both were considered the Celtic River goddesses. According to the legend, Sínann was warned not to approach Connla’S Well, the well where the hidden wisdom was kept. However, she ignored the warning and went to the well. There are a few variations of the story; some believe that she caught the Salmon of Wisdom that swam in the well, and like Fionn Mac Cumhaill after eating its flesh, she became the wisest creature on earth. Alternatively, in other accounts, she only visited the well to gain wisdom. However, the outcome remained similar. The well's bounds broke in a deluge, and Sínann drowned, and her body was carried to the sea. After this, the river flowed through the land and never returned to the well's former bounds. The story of Sínann is often interpreted as a cautionary tale to warn women not to seek wisdom. Still, some interpret it as a creation myth in which Sínann sacrifices herself to create the land's fertility. In a minor story, the hero Fionn Mac Cumhaill was attacked by several fierce warriors near the northern end of the great Lough Ree at Ballyleague. Fionn, amidst a great number of opponents, was on the verge of defeat when he received help from Sínann. She came with a mystical stone which, when hurled by Fionn, eradicated all of his enemies instantaneously. In fear of the potent power of the stone, Fionn threw it into the river where it is now concealed in a shallow ford. It is believed that should a woman named Be Thuinne discover it, it would signify the impending doom of the world.
+Sínann is the goddess of the River Shannon and the granddaughter of Lir, the sea-god. Her name takes many recorded shapes, among them Sinand, Sinend, Sinent, Sinainn, Sionnainn, and Sionann. In her best-known story she sets out for Connla's Well, sometimes called the Well of Cóelrind, to win hidden knowledge. The well denies her that knowledge, for she has broken its protocols. In its anger the water swells up and drowns her. Her body washes ashore on a river bank, and the Shannon takes its name from her. The tale gives the great river a divine death at its source. A near twin of the tale tells of Bóand at the Well of Segais, the source of the Boyne. That well may be one with Connla's. Both stories tie wisdom to a price paid in the water. The story gives the river both its name and its goddess. It joins Sínann to the long line of Celtic water deities who die into the waters they become.
 
 :::
 ```
 ``` tab [group1:Attributes]
-- **Fionn**: overcome by the number of opponents
-- **Sínann**: rescued Fionn
-- **magical stone**: killed all Fionn's enemies at once
-- **Fionn**: threw the stone into the river
-- **river**: stone remains hidden in a low ford
-- **Be Thuinne**: if she finds the stone, it would indicate the world's end is near
+- **Sínann**: an Irish river goddess who rules the River Shannon
+- **Bóand**: the river goddess of the Boyne, whose fate mirrors Sínann
+- **salmon of wisdom**: a fish whose flesh gave wisdom to the one who ate it
+- **well of wisdom**: the pool beneath Cuilcagh that drowned Sínann
+- **Sínann**: goddess of the River Shannon and granddaughter of the sea-god Lir
+- **Sínann**: sought hidden knowledge at Connla's Well and was drowned by its rising waters
+- **Sínann**: the Shannon was then named for her
+- **Sínann**: a nearly identical tale tells of Bóand at the Well of Segais
+- **Sínann**: name forms include Sinand, Sinend, Sinent, Sinainn, Sionnainn, and Sionann
 ```
 ``` tab [group1:Entities]
-- **Fionn**: Person
 - **Sínann**: Person
-- **magical stone**: Object
-- **river**: Location
-- **Be Thuinne**: Person
+- **River Shannon**: Place
+- **Bóand**: Person
+- **salmon of wisdom**: Being
+- **well of wisdom**: Place
+- **Cuilcagh**: Place
+- **County Cavan**: Place
+- **Lir**: Person
+- **Connla's Well**: Irish mythological site
+- **Segáis**: Place
 ```
 ``` tab [group1:Sources]
 - Gwynn, Edward. The Metrical Dindshenchas. Vol. III. Royal Irish Academy, Todd Lecture Series. Dublin: Hodges, Figgis, and Co., Ltd, 1906–1924. Reprinted Dublin Institute for Advanced Studies, School of Celtic Studies, 1991. Vol. III, pp. 287–291.
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
+- MacKillop 2008, s.v. 'Sinann'
 ```

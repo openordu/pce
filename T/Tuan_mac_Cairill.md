@@ -2,75 +2,61 @@
 layout: layouts/pce.njk
 title: Tuan mac Cairill
 icon: file-lines
-order: 2198
+order: 3893
 contributors: [ 'Christopher Godwin' ]
 attributes:
-  - Gwion boy
-  - Ceridwen goddess
-  - Taliesin bard
-  - Tuan expert witness
-  - Irish mythological history
-  - Tuan lived through almost all of Irish history
-  - Tuan same as the salmon of Wisdom
-  - Fintan otherwise known as
+  - Tuan mac Cairill brother of the early invader Partholon
+  - Tuan mac Cairill the sole survivor of the plague that killed his people
+  - Tuan_mac_Cairill son of Starn and brother of Partholón
+  - Tuan_mac_Cairill recited Ireland's early history to St Finnian of Moville
+  - Tuan_mac_Cairill studied by John Carey in Ériu in 1984
 categories:
-  - Location
-  - Language
-  - Animal
-  - Book
   - Person
+  - Text
 entities:
-  - Wales(Location)
-  - Gwion(Person)
-  - Ceridwen(Person)
-  - Taliesin(Person)
-  - Tuan(Person)
-  - Ireland(Location)
-  - Book Of Invasions(Book)
-  - Irish(Language)
-  - salmon of Wisdom(Animal)
+  - Tuan mac Cairill(Person)
+  - Partholon(Person)
+  - Book of Invasions(Text)
   - Fintan(Person)
+  - Finnian of Moville(Person)
+  - Starn(Person)
+  - Cairill(Person)
+  - John Carey(Person)
 tags:
-  - Wales
-  - Gwion
-  - Ceridwen
-  - Taliesin
-  - Tuan
-  - Ireland
-  - Book Of Invasions
-  - Irish
-  - salmon of Wisdom
+  - Tuan mac Cairill
+  - Partholon
+  - Book of Invasions
   - Fintan
+  - Finnian of Moville
+  - Starn
+  - Cairill
+  - John Carey
 ---
 ``` tab [group1:Info]
 ::: magazinestyle
-Tuan mac Cairill, an Irish hero and brother of the early Irish invader Partholón, is believed to have survived the plague that wiped out his people and continued to live on in various forms. These forms included that of a Stag, a Boar and an Eagle which he assumed after each reincarnation. Later, Tuan turned into a Salmon that got eaten up by a woman, who then became pregnant (refer to Pregnancy Through Drinking, Eating). Tuan was then reborn as a human and remarkably remembered all his past lives. This ability earned him the reputation of being a great and eloquent Bard. In Wales, a similar story was narrated about a boy named Gwion, who was reborn as the bard Taliesin after getting eaten by the goddess Ceridwen while Shape-Shifting. Tuan was the one who recounted the mythological history of Ireland known as the Book Of Invasions. He bore the authority to do so as he had witnessed a significant part of Irish history. Certain texts speculate that Tuan and Fintan, the salmon of Wisdom, were the same.
+Tuan mac Cairill was a sibling of Partholon, the early invader of Ireland. MacKillop names him the one Partholonian who survived, son of Starn and brother of Partholón. When the plague killed his people, Tuan alone lived on. He became a stag, then a boar, then an eagle. After those lives he became a salmon that a woman ate, and she bore him again as a human. Because he remembered every life, Tuan grew into a great and eloquent bard. MacKillop adds the point of the whole cycle. The new-born man gave Ireland its early history aloud to St Finnian of Moville. That recitation is the story of the Book of Invasions. Some texts identify him with Fintan, the salmon of Wisdom. John Carey printed a study of the tale in the journal Ériu in 1984. The same shape of endless life and reborn memory belongs to Taliesin and to Gwion Bach in Wales.
 
 :::
 ```
 ``` tab [group1:Attributes]
-- **Gwion**: boy
-- **Ceridwen**: goddess
-- **Taliesin**: bard
-- **Tuan**: expert witness
-- **Irish**: mythological history
-- **Tuan**: lived through almost all of Irish history
-- **Tuan**: same as the salmon of Wisdom
-- **Fintan**: otherwise known as
+- **Tuan mac Cairill**: brother of the early invader Partholon
+- **Tuan mac Cairill**: the sole survivor of the plague that killed his people
+- **Tuan_mac_Cairill**: son of Starn and brother of Partholón
+- **Tuan_mac_Cairill**: recited Ireland's early history to St Finnian of Moville
+- **Tuan_mac_Cairill**: studied by John Carey in Ériu in 1984
 ```
 ``` tab [group1:Entities]
-- **Wales**: Location
-- **Gwion**: Person
-- **Ceridwen**: Person
-- **Taliesin**: Person
-- **Tuan**: Person
-- **Ireland**: Location
-- **Book Of Invasions**: Book
-- **Irish**: Language
-- **salmon of Wisdom**: Animal
+- **Tuan mac Cairill**: Person
+- **Partholon**: Person
+- **Book of Invasions**: Text
 - **Fintan**: Person
+- **Finnian of Moville**: Person
+- **Starn**: Person
+- **Cairill**: Person
+- **John Carey**: Person
 ```
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
+- MacKillop 2008, s.v. 'Tuan mac Cairill'
 ```
 ![Tuan mac Cairill Image](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Myths_and_legends%3B_the_Celtic_race_%281910%29_%2814760452906%29.jpg/1200px-Myths_and_legends%3B_the_Celtic_race_%281910%29_%2814760452906%29.jpg)

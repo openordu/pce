@@ -2,63 +2,64 @@
 layout: layouts/pce.njk
 title: Segáis
 icon: file-lines
-order: 1987
+order: 2304
 contributors: [ 'Christopher Godwin' ]
 attributes:
-  - Bóand possessed the well from the start
-  - Bóand drowned
-  - Nechtan possessed the well
+  - Segáis secret well of wisdom
+  - Bóand drowned by the waters that rose from the well
+  - Segáis connected to the Boyne and Shannon rivers
+  - Segáis held to be the common source of the Boyne and the Shannon
+  - Segáis surrounded by nine hazel trees whose nuts feed the salmon of wisdom
+  - Segáis may be identical with Connla's Well
+  - Segáis the name may come from a district beside the Boyne
 categories:
-  - poetry
-  - name
-  - river
-  - place
-  - person
-  - event
+  - Goddess
+  - River
+  - Person
+  - Irish mythological site
 entities:
-  - Segáis(name)
-  - Bóand(person)
-  - Ireland(place)
-  - Dindshenchas(poetry)
-  - Otherworld(place)
-  - Boyne(river)
-  - Sruth Segsa(name)
-  - creation(event)
-  - punishment(event)
+  - Segáis(Irish mythological site)
+  - Bóand(Goddess)
+  - Boyne(River)
+  - Shannon(River)
+  - Nechtan(Person)
+  - Sínann(Goddess)
+  - Connla's Well(Irish mythological site)
 tags:
   - Segáis
   - Bóand
-  - Ireland
-  - Dindshenchas
-  - Otherworld
   - Boyne
-  - Sruth Segsa
-  - creation
-  - punishment
+  - Shannon
+  - Nechtan
+  - Sínann
+  - Connla's Well
 ---
 ``` tab [group1:Info]
 ::: magazinestyle
-A site and goddess from Irish mythology is Segáis (Segais). In the story of Bóand, the goddess of the River Boyne, Segáis was the name given to the secret Well of wisdom. It was also referred to as Connla’s Well, although it is believed that the two sites may have been different. Despite warnings, Bóand decided to journey to the well, which was said to be located in the mountains of Slieve Bloom by some while others believed it was the source of the Boyne itself that was in Co. Kildare near Edenderry. Like other mystical wells, it had the ability to bestow wisdom upon anyone who drank from it or consumed the fish swimming in its waters. As Bóand approached the well, the water rose up suddenly and drowned her, carrying her out to sea. The waters of the well, which represents the origin of two of Ireland's important rivers, could never go back to the small space of the well, and the river flowed and watered the land. Similarly, a similar story is told about Sínann, the goddess of the River Shannon. As such, both stories are often used to discourage women from seeking wisdom, but they can also be seen as creation myths. Bóand herself was also named Segáis. According to the Dindshenchas, a collection of place-poetry of Ireland, she was known as Segáis in the Otherworld, and the other name for the Boyne was "river of Segáis." This suggests that if the well were initially in Bóand's possession, rather than her husband Nechtan's possession, her death by drowning may have been an act of creation rather than punishment.
+Segáis is the fabulous well of wisdom in Irish story. Tradition treats it as the common source of the Boyne and the Shannon. It is a spring of supernatural knowledge too. It matches Connla's Well so closely that writers make them one well. Nine hazel trees stand round the well. Their nuts drop into the water and feed the salmon of wisdom. In the tale of Bóand, goddess of the River Boyne, the well sits under a ban. Some place it high in the mountains of Slieve Bloom. Others read it as the source of the Boyne itself. The well gave wisdom to any who drank from it or ate its fish. Bóand defied the ban. Its waters rose in three waves, struck her down, and carried her to the sea as the River Boyne. A matching story at Connla's Well tells of Sínann and the Shannon. Koch records that only Nechtan and his three servants could approach in safety. The two rivers share no true single source. The name may instead come from a district beside the Boyne that feeds a Shannon tributary. In the Dindshenchas the Boyne is called the river of Segáis.
 
 :::
 ```
 ``` tab [group1:Attributes]
-- **Bóand**: possessed the well from the start
-- **Bóand**: drowned
-- **Nechtan**: possessed the well
+- **Segáis**: secret well of wisdom
+- **Bóand**: drowned by the waters that rose from the well
+- **Segáis**: connected to the Boyne and Shannon rivers
+- **Segáis**: held to be the common source of the Boyne and the Shannon
+- **Segáis**: surrounded by nine hazel trees whose nuts feed the salmon of wisdom
+- **Segáis**: may be identical with Connla's Well
+- **Segáis**: the name may come from a district beside the Boyne
 ```
 ``` tab [group1:Entities]
-- **Segáis**: name
-- **Bóand**: person
-- **Ireland**: place
-- **Dindshenchas**: poetry
-- **Otherworld**: place
-- **Boyne**: river
-- **Sruth Segsa**: name
-- **creation**: event
-- **punishment**: event
+- **Segáis**: Irish mythological site
+- **Bóand**: Goddess
+- **Boyne**: River
+- **Shannon**: River
+- **Nechtan**: Person
+- **Sínann**: Goddess
+- **Connla's Well**: Irish mythological site
 ```
 ``` tab [group1:Sources]
 - Gwynn, Edward. The Metrical Dindshenchas. Vol. Iii. Royal Irish Academy, Todd Lecture Series. Dublin: Hodges, Figgis, and Co., Ltd., 1906–1924, pp. 27–39.
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
+- MacKillop 2008, s.v. 'Segais'
 ```

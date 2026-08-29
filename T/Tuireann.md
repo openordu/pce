@@ -2,50 +2,72 @@
 layout: layouts/pce.njk
 title: Tuireann
 icon: file-lines
-order: 2203
+order: 2533
 contributors: [ 'Christopher Godwin' ]
 attributes:
-  - Sons Of Tuireann had to perform a series of exhausting tasks
-  - Sons Of Tuireann died
-  - father consort of the great goddess Danu
-  - father died of sorrow at hearing the news
+  - Tuireann an Irish hero whose tale is one of the Three Sorrows of Ireland
+  - Sons of Tuireann killed Cian and died performing a series of exhausting tasks
+  - Tuireann name forms Tuirill, Tuirenn, and Turenn, with agnomen Bicreo or Bicrenn
+  - Tuireann a son of Ogma and Étan in MacKillop's genealogy
+  - Tuireann his sons' tale is the Oidheadh Chlainne Tuireann
+  - Tuireann studied by Rudolf Thurneysen in 1918
 categories:
-  - Deity
-  - Crime
-  - Group
+  - Goddess
   - Person
+  - Place
+  - Group
+  - Deity
+  - Text
 entities:
-  - Sons Of Tuireann(Group)
-  - murder(Crime)
-  - father(Person)
-  - goddess Danu(Deity)
-  - Donand(Deity)
+  - Tuireann(Person)
+  - Uisneach(Place)
+  - Cian(Person)
+  - Danu(Deity)
+  - Sons of Tuireann(Group)
+  - Ogma(Deity)
+  - Étan(Goddess)
+  - Lug(Deity)
+  - Oidheadh Chlainne Tuireann(Text)
+  - Rudolf Thurneysen(Person)
 tags:
-  - Sons Of Tuireann
-  - murder
-  - father
-  - goddess Danu
-  - Donand
+  - Tuireann
+  - Uisneach
+  - Cian
+  - Danu
+  - Sons of Tuireann
+  - Ogma
+  - Étan
+  - Lug
+  - Oidheadh Chlainne Tuireann
+  - Rudolf Thurneysen
 ---
 ``` tab [group1:Info]
 ::: magazinestyle
-An individual of Irish mythology, Tuireann (sometimes written as Turrean) is a hero somewhat overshadowed by a similar character, Uisneach. Nevertheless, Tuireann’s story of his three sons’ deaths is one of the Three Sorrows Of Ireland. Cian, a hero with whom Tuireann was at war, was pursued by the young warriors. Upon realizing he was completely surrounded, Cian transformed into a Boar and fought back, but the Shapeshifting warriors transformed into Dogs and ultimately defeated him. The Sons Of Tuireann allowed Cian to transform back into his human shape just before his death. As a punishment for the murder of Cian, the Sons Of Tuireann were required to complete a series of grueling tasks that ultimately led to their death. Tuireann, who was the partner of the great goddess Danu (sometimes referred to as Donand in the narrative), died from grief upon hearing of his sons’ demise.
+Tuireann is an Irish hero, also written Tuirill, Tuirenn, and Turenn. He receives little notice, much like the parallel figure Uisneach. MacKillop gives him a fuller name and line. He sometimes carries the agnomen Bicreo or Bicrenn. He is a son of the god Ogma and of Étan. His sons were the killers of Cian, father of Lug. The young men went to hunt Cian. Cian saw he was surrounded and turned into a boar, but the sons became dogs and brought him down. Before he died they let Cian take his human form once more. The Sons of Tuireann then had to carry out a long run of exhausting tasks, and they died doing them. The tale of the children is told in full as the Oidheadh Chlainne Tuireann. Its sorrow ranks among the Three Sorrows of Ireland. Tuireann, consort of the goddess Danu in Monaghan's telling, died of sorrow at the news. Rudolf Thurneysen printed a study of Tuirill Bicrenn and his children in 1918. The record holds two genealogies for one man. He is son of Ogma in one source. Another makes him the consort of Danu. Both belong to the figure the manuscripts keep dim.
 
 :::
 ```
 ``` tab [group1:Attributes]
-- **Sons Of Tuireann**: had to perform a series of exhausting tasks
-- **Sons Of Tuireann**: died
-- **father**: consort of the great goddess Danu
-- **father**: died of sorrow at hearing the news
+- **Tuireann**: an Irish hero whose tale is one of the Three Sorrows of Ireland
+- **Sons of Tuireann**: killed Cian and died performing a series of exhausting tasks
+- **Tuireann**: name forms Tuirill, Tuirenn, and Turenn, with agnomen Bicreo or Bicrenn
+- **Tuireann**: a son of Ogma and Étan in MacKillop's genealogy
+- **Tuireann**: his sons' tale is the Oidheadh Chlainne Tuireann
+- **Tuireann**: studied by Rudolf Thurneysen in 1918
 ```
 ``` tab [group1:Entities]
-- **Sons Of Tuireann**: Group
-- **murder**: Crime
-- **father**: Person
-- **goddess Danu**: Deity
-- **Donand**: Deity
+- **Tuireann**: Person
+- **Uisneach**: Place
+- **Cian**: Person
+- **Danu**: Deity
+- **Sons of Tuireann**: Group
+- **Ogma**: Deity
+- **Étan**: Goddess
+- **Lug**: Deity
+- **Oidheadh Chlainne Tuireann**: Text
+- **Rudolf Thurneysen**: Person
 ```
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
+- MacKillop 2008, s.v. 'Tuireann'
 ```

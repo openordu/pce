@@ -2,66 +2,88 @@
 layout: layouts/pce.njk
 title: Scáthach
 icon: file-lines
-order: 1974
+order: 2294
 contributors: [ 'Christopher Godwin' ]
 attributes:
-  - women fought alongside men
-  - evidence refuted
-  - women's activities limited
+  - Scáthach a warrior woman whose name meant shadowy one
+  - Scáthach trained heroes at her school on the Isle of Skye
+  - Scáthach taught feats such as apple-feat and thunder-feat
+  - Cúchulainn crossed the Bridge of the Cliff to reach her school
+  - Gáe Bulga a magical weapon gifted to Cúchulainn
+  - Scáthach her name grows out of a word for shadow, shade, and shelter
+  - Scáthach her fort on Skye named Dún Scáthaig
+  - Scáthach granted Cúchulainn three wishes, including Uathach without a bride-price
+  - Scáthach slept with Aife, who bore the son Connla
+  - Scáthach won the friendship of her thighs, read as a warrior-initiation rite
+  - Scáthach kept apart from Scáthach daughter of Énna of the Fenian Cycle
 categories:
-  - woman warrior
-  - warriors
-  - conflict
-  - safety measure
-  - regulations
-  - historical figure
-  - source
+  - Artifact
+  - Place
+  - Person
 entities:
-  - Scáthach(woman warrior)
-  - Cartimandua(historical figure)
-  - Boudicca(historical figure)
-  - classical authors(source)
-  - Celtic women(warriors)
-  - men(warriors)
-  - laws(regulations)
-  - protection(safety measure)
-  - times of war(conflict)
+  - Scáthach(Person)
+  - Cúchulainn(Person)
+  - Skye(Place)
+  - Scotland(Place)
+  - Gáe Bulga(Artifact)
+  - Bridge of the Cliff(Place)
+  - Excalibur(Artifact)
+  - Aife(Person)
+  - Uathach(Person)
+  - Connla(Person)
+  - Cúar(Person)
+  - Dún Scáthaig(Place)
 tags:
   - Scáthach
-  - Cartimandua
-  - Boudicca
-  - classical authors
-  - Celtic women
-  - men
-  - laws
-  - protection
-  - times of war
+  - Cúchulainn
+  - Skye
+  - Scotland
+  - Gáe Bulga
+  - Bridge of the Cliff
+  - Excalibur
+  - Aife
+  - Uathach
+  - Connla
+  - Cúar
+  - Dún Scáthaig
 ---
 ``` tab [group1:Info]
 ::: magazinestyle
-An Irish heroine, Scáthach (also known as Skatha, Scáthach nUanaid, Scáthach Bunand, Scathach) was one of the legendary Warrior Women of Ireland. Her home was on the Isle of Skye, Scotland, which was named after her. Scáthach transformed aspiring warriors into heroes and was the only one who possessed the secrets of doing so. Her most notable student was the great Cúchulainn who vowed to find her, even if it meant dying while attempting to cross the Bridge of the Cliff - a chasm that could only be crossed by performing the great Salmon-leap. Though not certain, some believe that the leap could be related to the salmon of wisdom. Scáthach’s curriculum was arduous and included the learning of martial arts with peculiar names like thunder-feat, apple-feat, supine-feat, salmon-feat of a chariot-chief, and using weapons like staff, blade, spear, and rope. The students also learned the hero’s call and the use of the magical weapon Gáe Bulga. Scáthach taught her students to not just become heroes but also predicted their future. However, for Cúchulainn, she refused to do so as she foresaw that he would kill his only son, Conall, who was incidentally her grandson in some versions of the story. In other versions of the tale, Cúchulainn battled with Scáthach for control of Skye. After days of endless combat, they shared the hazel nuts in which the earth’s wisdom was hidden. Through his inner vision, Cúchulainn realized he would never succeed against Scáthach, and he left the island, bequeathing it to the warrior woman. Comparisons have been drawn between the gift given to the hero by Scáthach, known as the Gáe Balga, and the legendary sword Excalibur bestowed upon King Arthur by the enigmatic Lady Of The Lake. Some authors utilize stories of female warriors like Scáthach, as well as notable historical figures like Cartimandua and Boudicca, and references made by classical writers regarding Celtic women's military abilities in order to argue that Celtic women participated in warfare alongside men. However, others reject such arguments by pointing out existing laws that restrict women's actions or offer them protection in times of war.
+Scáthach is the Amazonian warrior woman of Old Irish tale. Her name grows out of a word for shadow, shade, and shelter. She teaches the martial arts to heroes, Cúchulainn above all. Some texts set her home in Alpi, which most readers take for Alba, Scotland. Others bind her to the Hebridean Isle of Skye. There her fort gives the isle the name Dún Scáthaig. Only she knew the secrets that drew students to her school. A candidate had to cross the Bridge of the Cliff, a great chasm, to reach it. Cúchulainn vowed to find her or die trying. Under her he learned his famous aggressive leap, the thunder feat called the torannchless. She gave him his spear, the Gáe Bulga, a gift later set beside the sword Excalibur. Her curriculum taught feats with strange names: the apple-feat, the thunder-feat, and the supine-feat. She also foretold her students' futures. In return for her teaching he fought her enemy Aife at her side. That woman may be her double. Three wishes were his reward. She would keep teaching him with care. She would hand over her daughter Uathach without a bride-price. She would read his future for him. While battling Aife he slept with her, and she bore the son Connla. That boy followed him back to Ireland seven years later. He died by his father's hand in the tale of the only son of Aife. Accounts of his amorous record vary. Usually he wins the friendship of her thighs, a phrase readers trace to half-forgotten rites of warrior initiation. He also enjoys intimacies with Uathach. Modern commentators read these unions as the mark of an apprentice joining his heroic calling. In one tale Cúchulainn wrestled her for ownership of Skye, then left the island to her. This Scáthach of the Ulster Cycle should be kept apart from Scáthach daughter of Énna of the Fenian Cycle. That other woman uses magic music to put Fionn mac Cumhaill to sleep inside a fairy mound. Her own son is Cúar.
 
 :::
 ```
 ``` tab [group1:Attributes]
-- **women**: fought alongside men
-- **evidence**: refuted
-- **women's activities**: limited
+- **Scáthach**: a warrior woman whose name meant shadowy one
+- **Scáthach**: trained heroes at her school on the Isle of Skye
+- **Scáthach**: taught feats such as apple-feat and thunder-feat
+- **Cúchulainn**: crossed the Bridge of the Cliff to reach her school
+- **Gáe Bulga**: a magical weapon gifted to Cúchulainn
+- **Scáthach**: her name grows out of a word for shadow, shade, and shelter
+- **Scáthach**: her fort on Skye named Dún Scáthaig
+- **Scáthach**: granted Cúchulainn three wishes, including Uathach without a bride-price
+- **Scáthach**: slept with Aife, who bore the son Connla
+- **Scáthach**: won the friendship of her thighs, read as a warrior-initiation rite
+- **Scáthach**: kept apart from Scáthach daughter of Énna of the Fenian Cycle
 ```
 ``` tab [group1:Entities]
-- **Scáthach**: woman warrior
-- **Cartimandua**: historical figure
-- **Boudicca**: historical figure
-- **classical authors**: source
-- **Celtic women**: warriors
-- **men**: warriors
-- **laws**: regulations
-- **protection**: safety measure
-- **times of war**: conflict
+- **Scáthach**: Person
+- **Cúchulainn**: Person
+- **Skye**: Place
+- **Scotland**: Place
+- **Gáe Bulga**: Artifact
+- **Bridge of the Cliff**: Place
+- **Excalibur**: Artifact
+- **Aife**: Person
+- **Uathach**: Person
+- **Connla**: Person
+- **Cúar**: Person
+- **Dún Scáthaig**: Place
 ```
 ``` tab [group1:Sources]
 - Hull, Eleanor. The Cuchullin Saga in Irish Literature. (London: David Nutt, 1898), 72.
 - Straffon, Cheryl. The Earth Goddess: Celtic and Pagan Legacy of the Landscape. London: Blandford, 1997, 179.
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
+- MacKillop 2008, s.v. 'Scáthach'
 ```
 ![Scáthach Image](https://upload.wikimedia.org/wikipedia/en/thumb/1/14/Sc%C3%A1thach-1914-heroesofdawn00russ.jpg/1200px-Sc%C3%A1thach-1914-heroesofdawn00russ.jpg)

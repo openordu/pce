@@ -2,51 +2,52 @@
 layout: layouts/pce.njk
 title: Rhun
 icon: file-lines
-order: 1906
+order: 2219
 contributors: [ 'Christopher Godwin' ]
 attributes:
-  - Rhun participant in the competition
-  - Elphin opponent in the competition
-  - Horses subject of the competition
-  - Taliesin engineer of the trick
-  - race type of competition
-  - Rhun loser of the race
-  - Elphin winner of the race
+  - Rhun hero in a tale of faithfulness
+  - Elphin boasted of his wife's loyalty
+  - Rhun drugged the queen and took her finger
+  - Rhun lost a horse race to Elphin
+  - Rhun his name means grand or awful
+  - Rhun the name was borne by dozens of figures from early Wales
+  - Rhun the best known was a son of Maelgwn
 categories:
-  - person
-  - animal
+  - hero
+  - character
 entities:
-  - Rhun(person)
-  - Elphin(person)
-  - Horses(animal)
-  - Taliesin(person)
+  - Rhun(hero)
+  - Elphin(character)
+  - Taliesin(character)
+  - Maelgwn(character)
 tags:
   - Rhun
   - Elphin
-  - Horses
   - Taliesin
+  - Maelgwn
 ---
 ``` tab [group1:Info]
 ::: magazinestyle
-In a curious tale of faithfulness and betrayal, Rhun, a Welsh hero, becomes embroiled in a challenge against King Elphin's bragging. Elphin boasted that his wife was more faithful than Rhun’s. To disprove Elphin's claim, Rhun journeyed to Elphin's court, where he attempted to seduce the queen. The queen refused, and so Rhun resorted to drugging her and cutting off her ring finger. He then brought it to Elphin, not realizing that the queen and handmaiden had switched roles. The bread dough beneath the fingernail was evidence enough that the queen had not endured the disfigurement. Despite this, Rhun continued his contest with Elphin, now betting on whose horses were swifter. However, with the help of the clever bard, Taliesin, Elphin employed a clever trick to clinch victory and send Rhun packing.
+Rhun is a Welsh hero. His name comes from a Welsh word that means grand or awful. Many dozens of men in early Wales bore it over the centuries. The best known is the son of Maelgwn, and his story is one of faithfulness and betrayal. King Elphin boasted that his own wife was more loyal than the wife of Rhun. Rhun came to Elphin and tried to charm the queen, but she refused him. He then drugged her and cut her ring finger. He carried the finger to Elphin as proof, but the queen and her maidservant had changed places. Dough under the fingernail gave the truth away. Rhun later bet on whose horse was faster, and the bard Taliesin helped Elphin win the race.
 
 :::
 ```
 ``` tab [group1:Attributes]
-- **Rhun**: participant in the competition
-- **Elphin**: opponent in the competition
-- **Horses**: subject of the competition
-- **Taliesin**: engineer of the trick
-- **race**: type of competition
-- **Rhun**: loser of the race
-- **Elphin**: winner of the race
+- **Rhun**: hero in a tale of faithfulness
+- **Elphin**: boasted of his wife's loyalty
+- **Rhun**: drugged the queen and took her finger
+- **Rhun**: lost a horse race to Elphin
+- **Rhun**: his name means grand or awful
+- **Rhun**: the name was borne by dozens of figures from early Wales
+- **Rhun**: the best known was a son of Maelgwn
 ```
 ``` tab [group1:Entities]
-- **Rhun**: person
-- **Elphin**: person
-- **Horses**: animal
-- **Taliesin**: person
+- **Rhun**: hero
+- **Elphin**: character
+- **Taliesin**: character
+- **Maelgwn**: character
 ```
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
+- MacKillop 2008, s.v. 'Rhun'
 ```
