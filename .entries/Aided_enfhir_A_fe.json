@@ -1,47 +1,55 @@
 {
-  "name": "Aided Óenfhir Aífe",
-  "text": "Aided Óenfhir Aífe tells of the tragic death of the only son of Aífe. It serves as a short foretale to the Táin Bó Cúailnge. The hero Cúchulainn kills his own son Connla in combat. He does not know the boy's identity at the time. The story mirrors the Persian tale of Sohrab and Rustam. Scholars assign it the folk motif N731.2.",
-  "entities": [
-    {
-      "entity": "Aided Óenfhir Aífe",
-      "type": "Text"
-    },
-    {
-      "entity": "Cúchulainn",
-      "type": "Hero"
-    },
-    {
-      "entity": "Connla",
-      "type": "Character"
-    },
-    {
-      "entity": "Táin Bó Cúailnge",
-      "type": "Text"
-    }
-  ],
-  "attributes": [
-    {
-      "entity": "Aided Óenfhir Aífe",
-      "attribute": "a short foretale of the Táin Bó Cúailnge"
-    },
-    {
-      "entity": "Aided Óenfhir Aífe",
-      "attribute": "the unwitting slaying of Connla by his father Cúchulainn"
-    }
-  ],
-  "sources": [
-    "MacKillop 2008, s.v. 'Aided Óenfhir Aífe'"
-  ],
-  "image": [],
-  "cyphertext": "",
-  "salt": "",
-  "okr": {
-    "objective": "Profile Aided Óenfhir Aífe as the tale of Cúchulainn's slain son.",
-    "key_results": [
-      "Frame the story as a foretale of the Táin.",
-      "Record Cúchulainn's unwitting killing of Connla.",
-      "Compare the tale with the Persian story of Sohrab and Rustam."
-    ],
-    "evidence": "MacKillop 2008, s.v. 'Aided Óenfhir Aífe'"
+ "name": "Aided Óenfhir Aífe",
+ "text": "Aided Óenfhir Aífe tells of the tragic death of the only son of Aífe. It serves as a short foretale to the Táin Bó Cúailnge. The hero Cúchulainn kills his own son Connla in combat. He does not know the boy's identity at the time. The story mirrors the Persian tale of Sohrab and Rustam. Scholars assign it the folk motif N731.2. The dictionary indexes the tale under two English titles. Death of Aífe's Only Son and Death of Connla both route to this record. Aífe bore the boy after Cúchulainn left her in the east. The dying Connla had shaved his father's head with a sword stroke. Then the fatal spear threw him.",
+ "entities": [
+  {
+   "entity": "Aided Óenfhir Aífe",
+   "type": "Text"
+  },
+  {
+   "entity": "Cúchulainn",
+   "type": "Hero"
+  },
+  {
+   "entity": "Connla",
+   "type": "Character"
+  },
+  {
+   "entity": "Táin Bó Cúailnge",
+   "type": "Text"
   }
+ ],
+ "attributes": [
+  {
+   "entity": "Aided Óenfhir Aífe",
+   "attribute": "a short foretale of the Táin Bó Cúailnge"
+  },
+  {
+   "entity": "Aided Óenfhir Aífe",
+   "attribute": "the unwitting slaying of Connla by his father Cúchulainn"
+  },
+  {
+   "entity": "Death of Aífe's Only Son",
+   "attribute": "an indexed English title of this tale"
+  },
+  {
+   "entity": "Death of Connla",
+   "attribute": "an indexed English title of this tale"
+  }
+ ],
+ "sources": [
+  "MacKillop 2008, s.v. 'Aided Óenfhir Aífe'"
+ ],
+ "image": [],
+ "cyphertext": "",
+ "salt": "",
+ "okr": {
+  "objective": "Profile Aided Óenfhir Aífe as the tale of Cúchulainn's slain son.",
+  "key_results": [
+   "Frame the story as a foretale of the Táin.",
+   "Record Cúchulainn's unwitting killing of Connla.",
+   "Compare the tale with the Persian story of Sohrab and Rustam."
+  ],
+  "evidence": "MacKillop 2008, s.v. 'Aided Óenfhir Aífe'"
+ }
 }

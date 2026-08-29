@@ -1,43 +1,68 @@
 {
-  "name": "Aided Málae Fháthartaig maic Rónáin",
-  "text": "Aided Málae Fháthartaig maic Rónáin names the same tale as Fingal Róndín. That work tells How Rónán Killed His Son. The Irish title means the Death of Máel Fothartaig, Rónán's son. Both titles describe a single story.",
-  "entities": [
-    {
-      "entity": "Aided Málae Fháthartaig maic Rónáin",
-      "type": "Text"
-    },
-    {
-      "entity": "Rónán",
-      "type": "Character"
-    },
-    {
-      "entity": "Fingal Róndín",
-      "type": "Text"
-    }
-  ],
-  "attributes": [
-    {
-      "entity": "Aided Málae Fháthartaig maic Rónáin",
-      "attribute": "an alternate title for the tale Fingal Róndín"
-    },
-    {
-      "entity": "Aided Málae Fháthartaig maic Rónáin",
-      "attribute": "means the Death of Máel Fothartaig Son of Rónán"
-    }
-  ],
-  "sources": [
-    "MacKillop 2008, s.v. 'Aided Málae Fháthartaig maic Rónáin'"
-  ],
-  "image": [],
-  "cyphertext": "",
-  "salt": "",
-  "okr": {
-    "objective": "Link Aided Málae Fháthartaig maic Rónáin to Fingal Róndín.",
-    "key_results": [
-      "Translate the title as the Death of Máel Fothartaig.",
-      "Name Fingal Róndín as the alternate title.",
-      "Note the connection to Rónán."
-    ],
-    "evidence": "MacKillop 2008, s.v. 'Aided Málae Fháthartaig maic Rónáin'"
+ "name": "Aided Málae Fháthartaig maic Rónáin",
+ "text": "Aided Málae Fháthartaig maic Rónáin names the same tale as Fingal Rónáin. That work tells How Rónán Killed His Son, and the Irish title means the Death of Máel Fothartaig, Rónán's son. The story is a tenth-century narrative of the Cycle of Kings, preserved in the Book of Leinster. It uses no gods, taboos, or enchantments, only everyday human love and jealousy. Rónán, king of Leinster, took a young northern bride against his son's advice. The wife then fell in love with Máel Fothartaig. When the son refused her, she falsely accused him of forcing his affections on her. A matched pair of spoken verses convinced Rónán of the boy's guilt. His spearman killed the son, his foster-brother Congal, and the jester Mac Glas. The dying prince protested his innocence. Congal's brother Donn avenged them by beheading the queen's family at Dún Sobairche, and the queen stabbed herself. Máel Fothartaig's two young sons then killed their grandfather Rónán. The dictionary indexes the English title Death of Máel Fothartaig, Son of Rónán, to this record.",
+ "entities": [
+  {
+   "entity": "Aided Málae Fháthartaig maic Rónáin",
+   "type": "Text"
+  },
+  {
+   "entity": "Rónán",
+   "type": "Character"
+  },
+  {
+   "entity": "Fingal Róndín",
+   "type": "Text"
+  },
+  {
+   "entity": "Cycle of the Kings",
+   "type": "cycle"
+  },
+  {
+   "entity": "Book of Leinster",
+   "type": "manuscript"
+  },
+  {
+   "entity": "Mael Fothartaig",
+   "type": "hero"
+  },
+  {
+   "entity": "Congal",
+   "type": "figure"
   }
+ ],
+ "attributes": [
+  {
+   "entity": "Aided Málae Fháthartaig maic Rónáin",
+   "attribute": "an alternate title for the tale Fingal Róndín"
+  },
+  {
+   "entity": "Aided Málae Fháthartaig maic Rónáin",
+   "attribute": "means the Death of Máel Fothartaig Son of Rónán"
+  },
+  {
+   "entity": "Aided Málae Fháthartaig maic Rónáin",
+   "attribute": "the tale is a tenth-century narrative of the Cycle of Kings"
+  },
+  {
+   "entity": "Aided Málae Fháthartaig maic Rónáin",
+   "attribute": "preserved in the Book of Leinster"
+  }
+ ],
+ "sources": [
+  "MacKillop 2008, s.v. 'Aided Málae Fháthartaig maic Rónáin'",
+  "MacKillop 2008, s.v. 'Death of Máel Fothartaig Son of Rónán'"
+ ],
+ "image": [],
+ "cyphertext": "",
+ "salt": "",
+ "okr": {
+  "objective": "Link Aided Málae Fháthartaig maic Rónáin to Fingal Róndín.",
+  "key_results": [
+   "Translate the title as the Death of Máel Fothartaig.",
+   "Name Fingal Róndín as the alternate title.",
+   "Note the connection to Rónán."
+  ],
+  "evidence": "MacKillop 2008, s.v. 'Aided Málae Fháthartaig maic Rónáin'"
+ }
 }

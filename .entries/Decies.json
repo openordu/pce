@@ -1,0 +1,39 @@
+{
+ "name": "Decies",
+ "text": "Decies is the Anglicized name of a region in medieval Ireland. The region lies roughly coextensive with western County Waterford. The name comes from the early Irish people called the Déisi. One early record set the bounds of Decies. It put the Suir on one side and the sea on the other. Lismore and Credan Head marked the ends. The area was later settled by the Power, or de Paor, family. That settlement gave the district its other traditional name, Power Country.",
+ "entities": [
+  {
+   "entity": "Lismore",
+   "type": "place"
+  }
+ ],
+ "attributes": [
+  {
+   "entity": "Decies",
+   "attribute": "a region in western County Waterford"
+  },
+  {
+   "entity": "Decies",
+   "attribute": "named for the early Irish Déisi"
+  },
+  {
+   "entity": "Power Country",
+   "attribute": "a later name from the de Paor family"
+  }
+ ],
+ "okr": {
+  "objective": "Record Decies, the Waterford region named for the Déisi.",
+  "key_results": [
+   "Decies is the Anglicized name of a region in western Co. Waterford.",
+   "An early record bounded it by the Suir, the sea, Lismore, and Credan Head.",
+   "The de Paor family's settlement gave the area the name Power Country."
+  ],
+  "evidence": "MacKillop 2008, s.v. 'Decies'."
+ },
+ "image": [],
+ "cyphertext": "",
+ "salt": "",
+ "sources": [
+  "MacKillop 2008, s.v. 'Decies'"
+ ]
+}

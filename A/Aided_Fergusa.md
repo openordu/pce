@@ -8,9 +8,9 @@ attributes:
   - Aided Fergusa an early Irish narrative of the Violent Death of Fergus
   - Aided Fergusa bawdy in tone with much sexual braggadocio
 categories:
-  - King
-  - Character
   - Text
+  - Character
+  - King
 entities:
   - Aided Fergusa(Text)
   - Fergus mac Léti(King)
@@ -24,7 +24,7 @@ tags:
 ---
 ``` tab [group1:Info]
 ::: magazinestyle
-Aided Fergusa is an early Irish tale. Its title means the Violent Death of Fergus. The work ranks among the bawdiest stories of the age. It brims with sexual boasting and bravado. Fergus mac Léti, monarch of Ulster, beds the tiny queen Bebo. Afterward he mocks Iubdán, her husband, with the story.
+Aided Fergusa is an early Irish tale. Its title means the Violent Death of Fergus. The work ranks among the bawdiest stories of the age. It brims with sexual boasting and bravado. Fergus mac Léti, monarch of Ulster, beds the tiny queen Bebo. Afterward he mocks Iubdán, her husband, with the story. The dictionary's cross-ref title Death of Fergus is a possible rendering of two different Irish stories. Readers should weigh this tale against the sea-death of Fergus mac Léti recorded at his own entry. Assign no single death to the title before that check.
 
 :::
 ```
@@ -40,4 +40,5 @@ Aided Fergusa is an early Irish tale. Its title means the Violent Death of Fergu
 ```
 ``` tab [group1:Sources]
 - MacKillop 2008, s.v. 'Aided Fergusa'
+- MacKillop 2008, s.v. 'Death of Fergus'
 ```
