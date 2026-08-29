@@ -1,0 +1,47 @@
+{
+  "name": "Cé",
+  "text": "Cé is a druid who serves Nuadu. He takes a wound at Cath Maige Tuired, the great battle fought against the Fomoiri. A second druid of the same name served Cathaír Mór, the legendary king of Leinster. The tale gives him no deeds of his own, so his record rests on that service and that wound.",
+  "entities": [
+    {
+      "entity": "Nuadu",
+      "type": "mythological figure"
+    },
+    {
+      "entity": "Cath Maige Tuired",
+      "type": "event"
+    },
+    {
+      "entity": "Cathaír Mór",
+      "type": "mythological figure"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Cé",
+      "attribute": "a druid in the service of Nuadu"
+    },
+    {
+      "entity": "Cé",
+      "attribute": "wounded at Cath Maige Tuired"
+    },
+    {
+      "entity": "Cathaír Mór",
+      "attribute": "also kept a druid named Cé"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Cé'."
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Cé records the druid of Nuadu wounded at Mag Tuired and the second bearer under Cathaír Mór.",
+    "key_results": [
+      "Cé serves Nuadu as a druid.",
+      "He takes a wound at the battle of Mag Tuired.",
+      "A second Cé serves Cathaír Mór."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Cé'."
+  }
+}

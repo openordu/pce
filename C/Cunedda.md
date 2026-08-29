@@ -16,12 +16,12 @@ attributes:
   - Cadwallon the grandson who finished driving the Irish out
   - Cunedda counted with eight sons whose lines held lands to 1283
 categories:
-  - Place
+  - hero
+  - group
   - literary work
   - place
-  - hero
+  - Place
   - mythological figure
-  - group
 entities:
   - Cunedda(hero)
   - Wales(place)
@@ -106,5 +106,6 @@ Cunedda, often called Wledig, is a northern chieftain in the early Welsh traditi
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 - Koch 2006, s.v. 'Cunedda'
 - MacKillop 2008, s.v. 'Cunedda'.
+- MacKillop 2008, s.v. 'Cynedda'.
 ```
 ![Cunedda Image](https://upload.wikimedia.org/wikipedia/commons/9/9f/Crop_Cunedda_from_File_History_of_the_Kings.jpg)

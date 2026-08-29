@@ -20,6 +20,18 @@
     {
       "entity": "Bards of Ireland",
       "type": "group"
+    },
+    {
+      "entity": "Caoilte mac Rónáin",
+      "type": "mythological figure"
+    },
+    {
+      "entity": "Acallam na Senórach",
+      "type": "literary work"
+    },
+    {
+      "entity": "Cath Fionntrágha",
+      "type": "event"
     }
   ],
   "attributes": [
@@ -50,21 +62,35 @@
     {
       "entity": "Cred",
       "attribute": "dies of grief in his grave"
+    },
+    {
+      "entity": "Cáel",
+      "attribute": "bears the agnomen An Iarann and the cognomen Ua Nemhnainn"
+    },
+    {
+      "entity": "Cáel",
+      "attribute": "dies at the battle of Ventry Harbour"
+    },
+    {
+      "entity": "Caoilte mac Rónáin",
+      "attribute": "cites the pair as proof of lasting love in the Colloquy"
     }
   ],
   "sources": [
-    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.",
+    "MacKillop 2008, s.v. 'Cáel'."
   ],
   "cyphertext": "Intpc0-0s8lzJGaAlAk83TQsCiOEy7q38IbK2vZ-uSnegoXig24Mqu1EEwRdLYaqUzXSnEky9uUHpi0l9EWCYwo8ORg8HZDY-0vgpHbNUzl0CRcbWHVPuUYhfJah5j0DlxxQO4ZLn0OnnPe8Oz_JpiJJ3O8rfdDvXg1vU4GDQXXuJhC4S6ognMq0ROJem4NQDyl0S7UUNFbB7Fbbk8CYVKxPU-Du9jmX5M_K0panzEeEBSNQ-5b0f4XnPb-mTva8JgoULFn-cmXMaocIIjiNNSAklku8oNgzIkblKR7umTvKywNYqe6lmW4hPjkYYl8dJ2-T97UxgSSXKpXkhZAuWcExJo2BX3s6UqNVN_Ez75gZ0rdRmeviMMddxdMwO9yWKKAxtkpy2dyQIUYX4mjWLtYVr8T1vdGiC4dV1bS53GjPaTS2C66TY5lBrWfP8HTyRNoAMaybVGLiFjGdwkELFa1qVJq3QKMdcBGLXPsOSQksFirQMjXFQMtulWgGn14MgT6wptijqVZECRv86ETwDrLEPzfbxDg8BDCU1quAWvUepozvtQxX9quJIlJxoWxLBxOpu-z1jqaGq9xeQmW02uZsubiLnAi2xbgBi-GRCwvKqrCbW-dZ4O85yQQ-Ewl1DJc0CrnnIbx5Ejw1I79o0R6iKdweSHm5eL4T4gr9MYOsFfx9LA7vLu-F-saPA6CsZOMXIKocyu-sc1IaHmJBsbpnsvh0G-pztZm1Xr5vhDWEuKVGZoDeYG7mpXhsBPt_8u_X31M3cg-G7r5_OcG7CvdqCg419TQRr5BLWG_zuA==",
   "salt": "MbFkctKytaC_qWCbpjuLLg==",
-  "text": "Cael, also written Caol, is a hero of Ireland. He belongs to the warriors called the Fianna. One of the great love tales of Ireland is his story. Cael wins the heart of the maiden Cred through praise-poetry. Cred had set a task for the bards of Ireland to write a poem about her hall, a place no man had entered. The prize of that task was her own hand. With the mind gift born of his poetic work, Cael crafts the winning verse. Soon after, he falls in battle. Cred, broken by his loss, climbs into his grave to rest beside him once more, and there she dies of grief.",
+  "text": "Cael, also written Caol, is a hero of Ireland. He belongs to the warriors called the Fianna. One of the great love tales of Ireland is his story. Cael wins the heart of the maiden Cred through praise-poetry. Cred had set a task for the bards of Ireland. Each had to write a poem about her hall, a place no man had entered. The prize of that task was her own hand. With the mind gift born of his poetic work, Cael crafts the winning verse. Soon after, he falls in battle. Cred, broken by his loss, climbs into his grave to rest beside him once more. There she dies of grief. MacKillop gives the hero the agnomen An Iarann, a word that means of iron, and the cognomen Ua Nemhnainn. Cáel himself, spelled without the mark in the Monaghan tale, dies at the battle of Ventry Harbour. That fight is the tale called Cath Fionntrágha. Caoilte later holds up the pair as proof of lasting love. He speaks thus when the old warriors gather in the Colloquy of the Elders. Poets in Irish and English have retold their story again and again.",
   "okr": {
     "objective": "Cael is an Irish hero of the Fianna whose love tale involves Cred.",
     "key_results": [
       "Cael is a hero of the Fianna in Ireland.",
       "His alternate name is Caol.",
       "Praise-poetry wins him the heart of the maiden Cred.",
-      "He dies in battle, and Cred dies of grief in his grave."
+      "He dies in battle, and Cred dies of grief in his grave.",
+      "MacKillop adds the of-iron agnomen, the Ventry death, and the Colloquy witness of Caoilte."
     ],
     "evidence": "Monaghan, Encyclopedia of Celtic Mythology and Folklore"
   }

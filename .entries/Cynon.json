@@ -1,0 +1,51 @@
+{
+  "name": "Cynon",
+  "text": "Cynon is a Welsh name of doubtful older meaning. Some readers take it as great hound or divine hound. Many figures of early Welsh history carry it, saints and kings and heroes alike. One Cynon ruled as king of Gwynedd in the year 817. The best-known tale-bearer is Cynon son of Clydno Eiddyn. In the romance Owain he first tells the hero of a strong knight. That champion throws back every challenger. That report sends Owain on his own quest. A River Cynon also flows in Glamorganshire, running eighteen miles into the Taff.",
+  "entities": [
+    {
+      "entity": "Clydno Eiddyn",
+      "type": "mythological figure"
+    },
+    {
+      "entity": "Owain",
+      "type": "hero"
+    },
+    {
+      "entity": "Gwynedd",
+      "type": "place"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Cynon",
+      "attribute": "a Welsh name carried by saints, kings, and heroes"
+    },
+    {
+      "entity": "Cynon",
+      "attribute": "a king of Gwynedd in 817"
+    },
+    {
+      "entity": "Cynon son of Clydno Eiddyn",
+      "attribute": "first tells Owain of the overpowering knight"
+    },
+    {
+      "entity": "River Cynon",
+      "attribute": "flows eighteen miles into the Taff in Glamorganshire"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Cynon'."
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Cynon records the many Welsh bearers of the name and the romance companion of Owain.",
+    "key_results": [
+      "A king of Gwynedd bore the name in 817.",
+      "Cynon son of Clydno Eiddyn reports the strong knight in the romance Owain.",
+      "A River Cynon runs into the Taff in Glamorganshire."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Cynon'."
+  }
+}

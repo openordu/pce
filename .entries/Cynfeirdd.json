@@ -1,0 +1,42 @@
+{
+  "name": "Cynfeirdd",
+  "text": "Cynfeirdd is the Welsh label for the earliest poets of Wales. It gathers the first bards of the tradition. Aneirin and Taliesin rank among its most famous members. Their work stands at the head of Welsh verse. Later writers looked back to it as the first voice of their craft.",
+  "entities": [
+    {
+      "entity": "Aneirin",
+      "type": "poet"
+    },
+    {
+      "entity": "Taliesin",
+      "type": "poet"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Cynfeirdd",
+      "attribute": "the Welsh name for the oldest poets of Wales"
+    },
+    {
+      "entity": "Aneirin",
+      "attribute": "one of the famous early poets"
+    },
+    {
+      "entity": "Taliesin",
+      "attribute": "one of the famous early poets"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Cynfeirdd'."
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Cynfeirdd records the Welsh class of the oldest poets, with Aneirin and Taliesin as its chief names.",
+    "key_results": [
+      "Cynfeirdd gathers the early, first poets of Wales.",
+      "Aneirin and Taliesin count among its members."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Cynfeirdd'."
+  }
+}

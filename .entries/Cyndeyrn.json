@@ -1,0 +1,34 @@
+{
+  "name": "Cyndeyrn",
+  "text": "Cyndeyrn is a Welsh saint name. The dictionary lists several early Welsh saints under it. It stands as the Welsh shape of the name of St Kentigern, the great northern bishop. Readers who want the saint's own story should follow the Kentigern entry. St Kentigern is also known as Mungo. He stands as the patron saint of Glasgow.",
+  "entities": [
+    {
+      "entity": "Kentigern",
+      "type": "saint"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Cyndeyrn",
+      "attribute": "a name of several early Welsh saints"
+    },
+    {
+      "entity": "Kentigern",
+      "attribute": "the saint behind the Welsh form Cyndeyrn"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Cyndeyrn'."
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Cyndeyrn routes readers from the Welsh saint name to St Kentigern.",
+    "key_results": [
+      "Cyndeyrn names several early Welsh saints.",
+      "It is the Welsh form of the name of St Kentigern."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Cyndeyrn'."
+  }
+}
