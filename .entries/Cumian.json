@@ -1,0 +1,47 @@
+{
+  "name": "Cumian",
+  "text": "Cumian is a Latinized spelling of Cuimmíne. The Latin shape marks the saint's name in church writing, the same family of forms that carries the Cumaine variant. The best-known bearer founded Kilcummin abbey and pressed the Roman Easter reform that Iona resisted. Readers should follow the Cuimmíne entry.",
+  "entities": [
+    {
+      "entity": "Cuimmíne",
+      "type": "saint"
+    },
+    {
+      "entity": "Iona",
+      "type": "place"
+    },
+    {
+      "entity": "Colum Cille",
+      "type": "saint"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Cumian",
+      "attribute": "a Latinized spelling of Cuimmíne"
+    },
+    {
+      "entity": "Cuimmíne",
+      "attribute": "the saint behind the Latinized church form"
+    },
+    {
+      "entity": "Cuimmíne Fota",
+      "attribute": "founder of Kilcummin abbey and Roman Easter reformer"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Cumian'."
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Cumian routes readers from the Latinized spelling to the saint Cuimmíne.",
+    "key_results": [
+      "Cumian is a Latinized spelling of Cuimmíne.",
+      "The Latin shape marks the name in church writing.",
+      "The bearer founded Kilcummin abbey and backed the Roman Easter."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Cumian'."
+  }
+}

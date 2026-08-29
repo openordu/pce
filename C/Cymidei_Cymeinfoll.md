@@ -2,50 +2,94 @@
 layout: layouts/pce.njk
 title: Cymidei Cymeinfoll
 icon: file-lines
-order: 607
+order: 0
 contributors: [ 'Christopher Godwin' ]
 attributes:
-  - Cymidei Cymeinfoll Welsh giantess
-  - Cauldron of regeneration gave rise to much of the action of the second branch of the Mabinogion
-  - Cymidei Cymeinfoll owned the Cauldron of regeneration
-  - Cymidei Cymeinfoll gave birth to innumerable armored warriors, once every six weeks
-  - Cymidei Cymeinfoll translated as “big bellied battler”
+  - Cymidei Cymeinfoll a giantess and heroine of Welsh legend
+  - Cymidei Cymeinfoll wife of the giant Llassar Llaesgyfnewid
+  - Cauldron of Regeneration owned by the pair, drives the second branch of the Mabinogion
+  - Cymidei Cymeinfoll bears armed fighters every six weeks
+  - Cymidei Cymeinfoll bears the alias Kymideu Kymeinvoll
+  - Cymidei Cymeinfoll stands twice the size of her husband
+  - Cymidei Cymeinfoll bears the alias Kymideu Kymeinvoll
+  - Cymidei Cymeinfoll stands twice the size of her husband
 categories:
-  - part of Mabinogion
-  - Welsh heroine
-  - Welsh giant
-  - magical object
+  - being
+  - artifact
+  - literary work
+  - hero
+  - mythological figure
 entities:
-  - Cymidei Cymeinfoll(Welsh heroine)
-  - Llassar Llaesgyfnewid(Welsh giant)
-  - Cauldron of regeneration(magical object)
-  - second branch(part of Mabinogion)
+  - Cymidei Cymeinfoll(hero)
+  - Llassar Llaesgyfnewid(being)
+  - Cauldron of Regeneration(artifact)
+  - Mabinogion(artifact)
+  - Bran(mythological figure)
+  - Branwen(mythological figure)
+  - Matholwch(mythological figure)
+  - cauldron(artifact)
+  - giant(mythological figure)
+  - Mabinogi(literary work)
+  - Bran(mythological figure)
+  - Branwen(mythological figure)
+  - Matholwch(mythological figure)
+  - cauldron(artifact)
+  - giant(mythological figure)
+  - Mabinogi(literary work)
 tags:
   - Cymidei Cymeinfoll
   - Llassar Llaesgyfnewid
-  - Cauldron of regeneration
-  - second branch
+  - Cauldron of Regeneration
+  - Mabinogion
+  - Bran
+  - Branwen
+  - Matholwch
+  - cauldron
+  - giant
+  - Mabinogi
+  - Bran
+  - Branwen
+  - Matholwch
+  - cauldron
+  - giant
+  - Mabinogi
 ---
 ``` tab [group1:Info]
 ::: magazinestyle
-Welsh legend tells of the valiant Cymidei Cymeinfoll, a woman of great strength who was married to the colossal Llassar Llaesgyfnewid. Together, they possessed the Cauldron of renewal, a key element in the second branch of the Mabinogion. Cymidei Cymeinfoll, whose name denotes her as a formidable combatant, bore an unending supply of fully armed soldiers every six weeks.
+Cymidei Cymeinfoll is a Welsh giantess and a heroine on record. She wed the giant Llassar. The pair owned a cauldron that could restore the dead. That vessel sets in much of the action found in branch two of the Mabinogi. She brings forth a host of armed legions, whelping a fresh set each pass of six or seven weeks. Her translated title names a fighter born of a fine bough. MacKillop heads the entry with the alias Kymideu Kymeinvoll. He paints her as a giantess of the Branwen story, the second branch of the Mabinogi. She stands twice the size of her husband. Matholwch meets the couple hauling the cauldron of regeneration. Their children show disorders, so he plans to burn the pair inside an iron house. The two flee to Britain and hand Bran their cauldron in thanks for the welcome. A prophecy says she will bear a warrior armed from birth. Proinsias Mac Cana reads her as the Celtic goddess doubled, holding fertility and warlike force at once. MacKillop heads the entry with the alias Kymideu Kymeinvoll. He paints her as a giantess of the Branwen story, the second branch of the Mabinogi. She stands twice the size of her husband. Matholwch meets the couple hauling the cauldron of regeneration. Their children show disorders, so he plans to burn the pair inside an iron house. The two flee to Britain and hand Bran their cauldron in thanks for the welcome. A prophecy says she will bear a warrior armed from birth. Proinsias Mac Cana reads her as the Celtic goddess doubled, holding fertility and warlike force at once.
 
 :::
 ```
 ``` tab [group1:Attributes]
-- **Cymidei Cymeinfoll**: Welsh giantess
-- **Cauldron of regeneration**: gave rise to much of the action of the second branch of the Mabinogion
-- **Cymidei Cymeinfoll**: owned the Cauldron of regeneration
-- **Cymidei Cymeinfoll**: gave birth to innumerable armored warriors, once every six weeks
-- **Cymidei Cymeinfoll**: translated as “big bellied battler”
+- **Cymidei Cymeinfoll**: a giantess and heroine of Welsh legend
+- **Cymidei Cymeinfoll**: wife of the giant Llassar Llaesgyfnewid
+- **Cauldron of Regeneration**: owned by the pair, drives the second branch of the Mabinogion
+- **Cymidei Cymeinfoll**: bears armed fighters every six weeks
+- **Cymidei Cymeinfoll**: bears the alias Kymideu Kymeinvoll
+- **Cymidei Cymeinfoll**: stands twice the size of her husband
+- **Cymidei Cymeinfoll**: bears the alias Kymideu Kymeinvoll
+- **Cymidei Cymeinfoll**: stands twice the size of her husband
 ```
 ``` tab [group1:Entities]
-- **Cymidei Cymeinfoll**: Welsh heroine
-- **Llassar Llaesgyfnewid**: Welsh giant
-- **Cauldron of regeneration**: magical object
-- **second branch**: part of Mabinogion
+- **Cymidei Cymeinfoll**: hero
+- **Llassar Llaesgyfnewid**: being
+- **Cauldron of Regeneration**: artifact
+- **Mabinogion**: artifact
+- **Bran**: mythological figure
+- **Branwen**: mythological figure
+- **Matholwch**: mythological figure
+- **cauldron**: artifact
+- **giant**: mythological figure
+- **Mabinogi**: literary work
+- **Bran**: mythological figure
+- **Branwen**: mythological figure
+- **Matholwch**: mythological figure
+- **cauldron**: artifact
+- **giant**: mythological figure
+- **Mabinogi**: literary work
 ```
 ``` tab [group1:Sources]
 - Gantz, Jeffrey, trans. *The Mabinogion*. New York: Barnes & Noble Books, 1976, pp. 72, 75, 87.
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
+- MacKillop 2008, s.v. 'Cymidei Cymeinfoll'.
 ```

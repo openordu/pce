@@ -24,6 +24,22 @@
     {
       "entity": "Cynan",
       "attribute": "serves a political purpose, not worship"
+    },
+    {
+      "entity": "Cynan",
+      "attribute": "a name carried by many early Welsh figures"
+    },
+    {
+      "entity": "Cynan Meiriadog",
+      "attribute": "the holy man who led Welsh settlers to Armorica"
+    },
+    {
+      "entity": "Cynan",
+      "attribute": "a name carried by many early Welsh figures"
+    },
+    {
+      "entity": "Cynan Meiriadog",
+      "attribute": "the holy man who led Welsh settlers to Armorica"
     }
   ],
   "entities": [
@@ -42,21 +58,64 @@
     {
       "entity": "local women",
       "type": "group"
+    },
+    {
+      "entity": "Taliesin",
+      "type": "poet"
+    },
+    {
+      "entity": "Powys",
+      "type": "place"
+    },
+    {
+      "entity": "Armorica",
+      "type": "place"
+    },
+    {
+      "entity": "Conan Meriadoc",
+      "type": "mythological figure"
+    },
+    {
+      "entity": "Breuddwyd Macsen Wledig",
+      "type": "literary work"
+    },
+    {
+      "entity": "Taliesin",
+      "type": "poet"
+    },
+    {
+      "entity": "Powys",
+      "type": "place"
+    },
+    {
+      "entity": "Armorica",
+      "type": "place"
+    },
+    {
+      "entity": "Conan Meriadoc",
+      "type": "mythological figure"
+    },
+    {
+      "entity": "Breuddwyd Macsen Wledig",
+      "type": "literary work"
     }
   ],
   "sources": [
-    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.",
+    "MacKillop 2008, s.v. 'Cynan'."
   ],
   "cyphertext": "zLQgDuwq5qIPjzma6SszwToZcAEB4w4etUP2DYhH4iayRmgzeGxMc0f4BFf72PM0e_1oZuE8ZngeZuZnAoxL6gP1Ds1YaQR0UKK7AzIIIZi_G4AztVTwKx9m1RYBnAsGP9nbEbKH_s4EoQfSTSFx8HSmapnEkcG00WlA7Wc-JeAg3_84DpQyncZTvf9jCgtuEZZStLPo6gCO1YMGAvlwkOGVpqCxnnDmxefQMG2cBb-HGKPLhUxEEDtuawtnec37bsoMmK4RIDjFTbc01zHeSZ2R5BXAVxyKO9dm1QVnuwL47w5TPRL-5-J5tPw3gRQ7-9LnGBRCX7wx1xagv2WgNMr8WBIVHcwKzknAeqZoR7Is4j7Ar9NZH1pbRuznHvwKIxUhFsLTRxqJRvMxFKNFZ2ObV5wCAFpkFLM-N05r7pl0Ii9It26fDTG3Tb_HfnGtRhLpZgCwHkGm7cFmDjOI7zsGyQxvN77gbQVAWaE15g5ULLUKWC8RcXN1C9mbVG9OJ9xqTRXUkTCUMHMPf1qiKMWURmzGOoZO19Eij-UAJsBWKFuwWZTNKMFcd4WymGSMJP_8lKF2pqsyv31-YkuC86JlQYs8wM1xy2fmN_vTfG6TE_V1fTWZPc3VyALChLGO_YQSK1-dPKhg3xmPTiY1BsOGxAiF4XkW2sgqQ0RpBjR13i8ydfJTJjfXBmb95nduRjbh1pTxX9ltkQOuqdjKaRz55P8YMOzyig==",
   "salt": "5ctZ0iuhAuUKN_V68-bIgg==",
-  "text": "Cynan is a hero of Welsh legend. He is the brother-in-law of a half-historical king named Maxen. Cynan helps Maxen rise to rule as emperor of the western Roman lands. For that service he gains control of Brittany. There he silences the local women by removing their tongues. He acts to guard his own warriors' Welsh speech from any rival. Like Maxen, Cynan seems invented for a political end. He is tied to statecraft, not to worship or ritual.",
+  "text": "Cynan is a hero of Welsh legend. He is the brother-in-law of a half-historical king named Maxen. Cynan helps Maxen rise to rule as emperor of the western Roman lands. For that service he gains control of Brittany. There he silences the local women by removing their tongues. He acts to guard his own warriors' Welsh speech from any rival. Like Maxen, Cynan seems invented for a political end. He is tied to statecraft, not to worship or ritual. MacKillop stresses how many early Welsh figures carry the name, saints and kings among them. Two bearers dominate the record. One is Cynan Garwyn ap Brockfael, a king of Powys whom Taliesin may have praised. The other is Cynan Meiriadog, also spelled Meriadoc or Meriadach, a legendary holy man of the fifth century. He led Welsh settlers across to Armorica and so stands at the head of the Brittany founding story. In Breton legend he answers to Conan Meriadoc or Konan Meriadek. This node keeps the Maxen tale as its main thread and covers both senses of the name. MacKillop stresses how many early Welsh figures carry the name, saints and kings among them. Two bearers dominate the record. One is Cynan Garwyn ap Brockfael, a king of Powys whom Taliesin may have praised. The other is Cynan Meiriadog, also spelled Meriadoc or Meriadach, a legendary holy man of the fifth century. He led Welsh settlers across to Armorica and so stands at the head of the Brittany founding story. In Breton legend he answers to Conan Meriadoc or Konan Meriadek. This node keeps the Maxen tale as its main thread and covers both senses of the name.",
   "okr": {
     "objective": "Cynan is a hero of Welsh legend tied to the emperor Maxen.",
     "key_results": [
       "Cynan is a hero of Welsh legend.",
       "He helps the king Maxen rule as western Roman emperor.",
       "For that service he gains control of Brittany.",
-      "His tale seems invented to serve a political aim."
+      "His tale seems invented to serve a political aim.",
+      "MacKillop adds the Powys king praised by Taliesin and the Armorica founder Cynan Meiriadog.",
+      "MacKillop adds the Powys king praised by Taliesin and the Armorica founder Cynan Meiriadog."
     ],
     "evidence": "Monaghan, Encyclopedia of Celtic Mythology and Folklore"
   }

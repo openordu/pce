@@ -1,0 +1,47 @@
+{
+  "name": "Cullen",
+  "text": "Cullen is an anglicized spelling of Cuilenn. That name belongs to the fairy-mound lord of Sliab Cuilinn, the hill now called Slieve Gullion in Co. Armagh. In the Fenian tales this mound lord makes the aged Fionn young again. The draught of renewal comes from a golden cup. The spelling shows how English scribes heard the Irish name. Readers should follow the Cuilenn entry for the lord's full record.",
+  "entities": [
+    {
+      "entity": "Cuilenn",
+      "type": "mythological figure"
+    },
+    {
+      "entity": "Slieve Gullion",
+      "type": "place"
+    },
+    {
+      "entity": "Fionn mac Cumhaill",
+      "type": "hero"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Cullen",
+      "attribute": "an anglicized spelling of Cuilenn"
+    },
+    {
+      "entity": "Cuilenn",
+      "attribute": "the fairy-mound lord of Sliab Cuilinn in Co. Armagh"
+    },
+    {
+      "entity": "Cuilenn",
+      "attribute": "restores the aged Fionn by means of a golden cup"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Cullen'."
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Cullen routes readers from the anglicized spelling to the fairy-mound lord Cuilenn.",
+    "key_results": [
+      "Cullen is an anglicized spelling of Cuilenn.",
+      "Cuilenn is the fairy-mound lord of Sliab Cuilinn in Co. Armagh.",
+      "He gives the aged Fionn back his youth with a golden-cup draught."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Cullen'."
+  }
+}

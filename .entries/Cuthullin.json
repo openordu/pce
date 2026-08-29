@@ -1,0 +1,51 @@
+{
+  "name": "Cuthullin",
+  "text": "Cuthullin is a variant spelling of Cuchullin. The name covers the same character, the druid son of Seuma who leads the Caledonian host in Macpherson's Ossian (1760). He there appears as the husband of Bragela, a commander Macpherson shaped out of older Gaelic matter. Readers should follow the Cuchullin entry for his full portrait.",
+  "entities": [
+    {
+      "entity": "Cuchullin",
+      "type": "character"
+    },
+    {
+      "entity": "Macpherson",
+      "type": "author"
+    },
+    {
+      "entity": "Ossian",
+      "type": "literary work"
+    },
+    {
+      "entity": "Bragela",
+      "type": "character"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Cuthullin",
+      "attribute": "a variant spelling of Cuchullin"
+    },
+    {
+      "entity": "Cuchullin",
+      "attribute": "the druid son of Seuma in Macpherson's Ossian"
+    },
+    {
+      "entity": "Cuchullin",
+      "attribute": "husband of Bragela and leader of the Caledonian host"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Cuthullin'."
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Cuthullin routes readers from the variant spelling to Macpherson's Cuchullin.",
+    "key_results": [
+      "Cuthullin is a variant spelling of Cuchullin.",
+      "The name covers the same Macpherson character of Ossian (1760).",
+      "He is the druid son of Seuma and the husband of Bragela."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Cuthullin'."
+  }
+}

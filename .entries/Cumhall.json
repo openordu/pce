@@ -3,35 +3,90 @@
   "attributes": [
     {
       "entity": "Cumhall",
-      "attribute": "an entry taken as a cross reference"
+      "attribute": "father of Fionn and the leader of Clan Baiscne"
     },
     {
-      "entity": "Milk",
-      "attribute": "account referred to by the heading"
+      "entity": "Cumhall",
+      "attribute": "carried off Muirenn against her will"
+    },
+    {
+      "entity": "Goll mac Morna",
+      "attribute": "slew Cumhall in the best-known death tale"
+    },
+    {
+      "entity": "Fionn mac Cumhaill",
+      "attribute": "born to Muirenn after the father's death"
+    },
+    {
+      "entity": "Macpherson",
+      "attribute": "recast Cumhall as Comhal in Ossian"
     }
   ],
   "entities": [
     {
       "entity": "Cumhall",
+      "type": "hero"
+    },
+    {
+      "entity": "Fionn mac Cumhaill",
+      "type": "hero"
+    },
+    {
+      "entity": "Tadg",
       "type": "mythological figure"
     },
     {
-      "entity": "Milk",
-      "type": "concept"
+      "entity": "Conn Cétchathach",
+      "type": "mythological figure"
+    },
+    {
+      "entity": "Goll mac Morna",
+      "type": "warrior"
+    },
+    {
+      "entity": "Fianna",
+      "type": "group"
+    },
+    {
+      "entity": "Bodhmall",
+      "type": "mythological figure"
+    },
+    {
+      "entity": "Cath Cnucha",
+      "type": "event"
+    },
+    {
+      "entity": "crane bag",
+      "type": "artifact"
+    },
+    {
+      "entity": "Camulos",
+      "type": "god"
+    },
+    {
+      "entity": "Macpherson",
+      "type": "author"
+    },
+    {
+      "entity": "Ossian",
+      "type": "literary work"
     }
   ],
   "sources": [
-    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.",
+    "MacKillop 2008, s.v. 'Cumhall'."
   ],
   "cyphertext": "ejBYj9hFw2g4KdW7Ttr8yweuXgwOOqVUDCxgd0iaWJOTB3ENsFMWWDILSZjmAJuwVCwv1iZxO5D1x8R6onIVhKFbiwHVudDFilTesIbeCmNcNUL1utY1hoxCSO3l6LK7ye_ngAP2NM4EK8iTA8cLvv-xD8eomS5_lIT0KaWWrDuPAKTs-ef3LpJwq73wkeJkce0CyFNPjLIBzqtG5tdTXTMXw8TCYPVWzrq6XdJy8Y9LTp4gGR3-wfI9fX4aCr0sDn8OiEjmByXN_AIfrNwEnQpQbEyyYW8eY1Xtv3Oi3s-gWuLwKuEpGEUh4qwwSnZq7Uy_5ZZ7IFLpmY5hOW8AjtEhh5QddO9dqikB1tnHOGoBjw10jrWU5EoW2L7cocows9xkm-Fmln4k8M4dfdiqEXkFM_z9k6JdKDFakB8kfGY1AZcWPh6f76oF2Btt1ghuEr5L-pMDVN6uL0-Iohc-Ts_KvTRFe-nHOcxq_4K90VMTWOyXl7Hdr46I-7k77fuaqZiPcPxCyor0VRXVq7VibH2FuDw5nXEVAu5UkNxRkvf148Rd37tfZm8BY0-hHl7r",
   "salt": "z69Ypnli-vlkoLpb9Y93Rw==",
-  "text": "The source lists Cumhall as a pointer. The page sends the reader to the entry on Milk for the sense of the term.",
+  "text": "Cumhall is the father of Fionn and the leader of Clan Baiscne in the Fenian Cycle. The initial C- falls away in the patronymic mac Umail/mac Cumhaill. He wanted Muirenn of the White Neck, and she did not return his love, so he carried her off. Her father Tadg and his protector Conn Cétchathach took vengeance for that deed. The feud set the descendants of Cumhall against Clan Morna, the warriors of Tadg under Goll. Variant texts name Fuinche or Torba as the mother of Fionn. In the best-known account of his death, the Fotha Catha Chnucha, Goll mac Morna slays him. The tale sets the killing at the Battle of Cnucha, the fight at Castletown. In other tellings Conn Cétchathach alone strikes him down, or the keeper of the crane bag does the deed. Scottish folk-tales lay the deed on the villain Arca Dubh. Muirenn bore Fionn after the death, hiding in the house of Bodhmall, sometimes told as her sister. His brother Crimnal survived the battle and later joined the Fianna. The old claim tying him to the god Camulos or to King Cole finds no support among modern scholars. Macpherson recast him as Comhal in Ossian (1760). Yeats borrowed him for the poem 'The Blessed' (1897).",
   "okr": {
-    "objective": "Cumhall is a heading the source routes to the account of Milk.",
+    "objective": "Cumhall is the father of Fionn and the head of Clan Baiscne.",
     "key_results": [
-      "The page holds no separate story.",
-      "The sense of the term sits under Milk.",
-      "The heading protects the alphabetic order of the encyclopedia."
+      "He wanted Muirenn, and her father Tadg took vengeance for the abduction.",
+      "Goll mac Morna slew him in the best-known tale of his death.",
+      "Muirenn bore Fionn afterward, hidden in the house of Bodhmall.",
+      "MacKillop records variant mothers Fuinche and Torba, and a second death at the hands of the crane-bag keeper.",
+      "MacKillop notes the rejected Camulos and King Cole kinship, Macpherson's Comhal, and the Yeats borrowing."
     ],
     "evidence": "Monaghan, Encyclopedia of Celtic Mythology and Folklore"
   }

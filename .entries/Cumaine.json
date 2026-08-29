@@ -1,0 +1,47 @@
+{
+  "name": "Cumaine",
+  "text": "Cumaine is a variant spelling of Cuimmíne. The form carries the pet shape of the name Colum among early Irish saints. Its best-known bearer is Cuimmíne Fota, the abbot of Kilcummin. He backed the Roman Easter and drew a rebuke from Iona. Scribes moved between the spellings with no shift in sense. Readers should follow the Cuimmíne entry.",
+  "entities": [
+    {
+      "entity": "Cuimmíne",
+      "type": "saint"
+    },
+    {
+      "entity": "Iona",
+      "type": "place"
+    },
+    {
+      "entity": "Colum Cille",
+      "type": "saint"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Cumaine",
+      "attribute": "a variant spelling of Cuimmíne"
+    },
+    {
+      "entity": "Cuimmíne",
+      "attribute": "pet form of the name Colum carried by early Irish saints"
+    },
+    {
+      "entity": "Cuimmíne Fota",
+      "attribute": "the best-known bearer, abbot of Kilcummin"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Cumaine'."
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Cumaine routes readers from the variant spelling to the saint Cuimmíne.",
+    "key_results": [
+      "Cumaine is a variant spelling of Cuimmíne.",
+      "The form carries the pet shape of the name Colum among early Irish saints.",
+      "Its best-known bearer is Cuimmíne Fota of Kilcummin, rebuked by Iona."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Cumaine'."
+  }
+}

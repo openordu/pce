@@ -1,0 +1,63 @@
+{
+  "name": "Cyfranc Lludd a Llefelys",
+  "text": "Cyfranc Lludd a Llefelys is an early Welsh narrative of probable eleventh-century date. The Red Book of Hergest preserves the full text. A fragment also sits in the White Book of Rhydderch. English readers know the tale as Lludd and Llefelys. Lludd son of Beli Mawr rules Britain, and his brother Llefelys rules France. Three plagues strike the island. The Coraniaid hear every word spoken once the winds carry the sound. A scream at midnight on Calan Mai, May Eve, terrifies every household. A giant wizard empties the provisions of the court each night. The brothers confer through a brass tube so the Coraniaid cannot hear. The same hearing gift belongs to Math son of Mathonwy. Llefelys prescribes water mixed with mashed poisonous insects, which kills the Coraniaid but leaves the Britons unharmed. He orders a pit dug at the centre of the island and filled with mead. The two fighting dragons then drown themselves in it. Lludd defeats the wizard in single combat and holds him as a vassal. Thus the island loses all three plagues. The tale stands with the Mabinogi among the early Welsh prose classics.",
+  "entities": [
+    {
+      "entity": "Lludd",
+      "type": "character"
+    },
+    {
+      "entity": "Llefelys",
+      "type": "character"
+    },
+    {
+      "entity": "Coraniaid",
+      "type": "people"
+    },
+    {
+      "entity": "Calan Mai",
+      "type": "event"
+    },
+    {
+      "entity": "Math",
+      "type": "mythological figure"
+    },
+    {
+      "entity": "Mabinogi",
+      "type": "literary work"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Cyfranc Lludd a Llefelys",
+      "attribute": "an early Welsh narrative of probable 11th-century date"
+    },
+    {
+      "entity": "Lludd",
+      "attribute": "son of Beli Mawr and ruler of Britain"
+    },
+    {
+      "entity": "Llefelys",
+      "attribute": "ruler of France and adviser against the three plagues"
+    },
+    {
+      "entity": "Lludd",
+      "attribute": "defeats the giant wizard and holds him as a vassal"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Cyfranc Lludd a Llefelys'."
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "The node tells the full tale of Lludd and Llefelys and the three plagues of Britain.",
+    "key_results": [
+      "The Red Book of Hergest keeps the full text, with a fragment in the White Book of Rhydderch.",
+      "Three plagues strike: the Coraniaid, the Calan Mai scream, and the nightly theft of provisions.",
+      "Llefelys prescribes the cures, and Lludd defeats the wizard in combat."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Cyfranc Lludd a Llefelys'."
+  }
+}

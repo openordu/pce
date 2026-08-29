@@ -1,79 +1,148 @@
 {
-    "name": "Cunedda",
-    "attributes": [
-        {
-            "entity": "Cunedda",
-            "attribute": "a Welsh hero"
-        },
-        {
-            "entity": "Cunedda",
-            "attribute": "counted among the early settlers of Wales"
-        },
-        {
-            "entity": "Cunedda",
-            "attribute": "came with his eight sons"
-        },
-        {
-            "entity": "Gwynedd",
-            "attribute": "its ruling lines carry his name"
-        }
-    ],
-    "entities": [
-        {
-            "entity": "Cunedda",
-            "type": "hero"
-        },
-        {
-            "entity": "Wales",
-            "type": "place"
-        },
-        {
-            "entity": "Gwynedd",
-            "type": "place"
-        },
-        {
-            "entity": "settlers",
-            "type": "group"
-        },
-        {
-            "entity": "Wales",
-            "type": "Place"
-        },
-        {
-            "entity": "Gwynedd",
-            "type": "Place"
-        },
-        {
-            "entity": "Dyfed",
-            "type": "Place"
-        },
-        {
-            "entity": "Manaw",
-            "type": "Place"
-        },
-        {
-            "entity": "Irish",
-            "type": "group"
-        }
-    ],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.",
-        "Koch 2006, s.v. 'Cunedda'"
-    ],
-    "image": [
-        "https://upload.wikimedia.org/wikipedia/commons/9/9f/Crop_Cunedda_from_File_History_of_the_Kings.jpg"
-    ],
-    "cyphertext": "ZIXj4cnfoTo3HB7WLmcNrO6Ge7XsTtGGfY60I9IbM1ckmypJDVvkZmJnfyJOpRPNuuN-nS87eMr6TFeApXm7DuEXb9HMIu0KZlaU6WSzUjeWVC4g_HC5wTO9UJE21-IiP6CpGKzX1us7288DmJ71Q0c7Hn8iAxsRYLEjp0sEPn2uceo941WoUC5Bpd6Le1ECiJeDAQYWe8CcpD2mQdxYeQMt6pko-gTY8dvjQX_sFn5zNlqtdYQbPN-wzyvXXBucpbrS6VhHb6SrWQk_lAPM7cMrmgnJO8EmxRLhaBRBl2gCf_x8nzsxJrGk7-gsAgzR",
-    "salt": "k-Z12389zDr5po7_zdi77Q==",
-    "text": "Cunedda, often called Wledig, is a northern chieftain in the early Welsh tradition. In the fifth century he led a warband south into the land that became Wales. He drove out the Irish settlers who had taken Gwynedd and the regions around the sea. The tale makes him founder of the house that ruled Gwynedd until the age of 825. Historia Brittonum and old Welsh genealogies place his coming from the northern country called Manaw. Some authors treat the account as a founding legend. Others find a strand of truth beneath it, since Irish settlement in post-Roman Wales is real.",
-    "okr": {
-        "objective": "Present Cunedda as the 5th-century chieftain who came to found and dynasty of Gwynedd.",
-        "key_results": [
-            "He led a host from the north into the island with Wales.",
-            "He drove out the Irish who had taken a hold of Gwynedd.",
-            "His house ruled to the Gwynedd until the age of 825.",
-            "His rising is read by some as a legend, while others find real truth."
-        ],
-        "evidence": "Koch 2006, s.v. 'Cunedda'."
+  "name": "Cunedda",
+  "attributes": [
+    {
+      "entity": "Cunedda",
+      "attribute": "a Welsh hero"
+    },
+    {
+      "entity": "Cunedda",
+      "attribute": "counted among the early settlers of Wales"
+    },
+    {
+      "entity": "Cunedda",
+      "attribute": "came with his eight sons"
+    },
+    {
+      "entity": "Gwynedd",
+      "attribute": "its ruling lines carry his name"
+    },
+    {
+      "entity": "Cunedda",
+      "attribute": "bears the alias forms Cunedag, Cynedda, and Cunedda Wledig"
+    },
+    {
+      "entity": "Cadwallon",
+      "attribute": "the grandson who finished driving the Irish out"
+    },
+    {
+      "entity": "Cunedda",
+      "attribute": "counted with eight sons whose lines held lands to 1283"
+    },
+    {
+      "entity": "Cunedda",
+      "attribute": "bears the alias forms Cunedag, Cynedda, and Cunedda Wledig"
+    },
+    {
+      "entity": "Cadwallon",
+      "attribute": "the grandson who finished driving the Irish out"
+    },
+    {
+      "entity": "Cunedda",
+      "attribute": "counted with eight sons whose lines held lands to 1283"
     }
+  ],
+  "entities": [
+    {
+      "entity": "Cunedda",
+      "type": "hero"
+    },
+    {
+      "entity": "Wales",
+      "type": "place"
+    },
+    {
+      "entity": "Gwynedd",
+      "type": "place"
+    },
+    {
+      "entity": "settlers",
+      "type": "group"
+    },
+    {
+      "entity": "Wales",
+      "type": "Place"
+    },
+    {
+      "entity": "Gwynedd",
+      "type": "Place"
+    },
+    {
+      "entity": "Dyfed",
+      "type": "Place"
+    },
+    {
+      "entity": "Manaw",
+      "type": "Place"
+    },
+    {
+      "entity": "Irish",
+      "type": "group"
+    },
+    {
+      "entity": "GWYNEDD",
+      "type": "place"
+    },
+    {
+      "entity": "Cadwallon",
+      "type": "mythological figure"
+    },
+    {
+      "entity": "Historia Brittonum",
+      "type": "literary work"
+    },
+    {
+      "entity": "Ceredigion",
+      "type": "place"
+    },
+    {
+      "entity": "Míl Espáine",
+      "type": "mythological figure"
+    },
+    {
+      "entity": "GWYNEDD",
+      "type": "place"
+    },
+    {
+      "entity": "Cadwallon",
+      "type": "mythological figure"
+    },
+    {
+      "entity": "Historia Brittonum",
+      "type": "literary work"
+    },
+    {
+      "entity": "Ceredigion",
+      "type": "place"
+    },
+    {
+      "entity": "Míl Espáine",
+      "type": "mythological figure"
+    }
+  ],
+  "sources": [
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.",
+    "Koch 2006, s.v. 'Cunedda'",
+    "MacKillop 2008, s.v. 'Cunedda'."
+  ],
+  "image": [
+    "https://upload.wikimedia.org/wikipedia/commons/9/9f/Crop_Cunedda_from_File_History_of_the_Kings.jpg"
+  ],
+  "cyphertext": "ZIXj4cnfoTo3HB7WLmcNrO6Ge7XsTtGGfY60I9IbM1ckmypJDVvkZmJnfyJOpRPNuuN-nS87eMr6TFeApXm7DuEXb9HMIu0KZlaU6WSzUjeWVC4g_HC5wTO9UJE21-IiP6CpGKzX1us7288DmJ71Q0c7Hn8iAxsRYLEjp0sEPn2uceo941WoUC5Bpd6Le1ECiJeDAQYWe8CcpD2mQdxYeQMt6pko-gTY8dvjQX_sFn5zNlqtdYQbPN-wzyvXXBucpbrS6VhHb6SrWQk_lAPM7cMrmgnJO8EmxRLhaBRBl2gCf_x8nzsxJrGk7-gsAgzR",
+  "salt": "k-Z12389zDr5po7_zdi77Q==",
+  "text": "Cunedda, often called Wledig, is a northern chieftain in the early Welsh tradition. In the fifth century he led a warband south into the land that became Wales. He drove out the Irish settlers who had taken Gwynedd and the regions around the sea. The tale makes him founder of the house that ruled Gwynedd until the age of 825. Historia Brittonum and old Welsh genealogies place his coming from the northern country called Manaw. Some authors treat the account as a founding legend. Others find a strand of truth beneath it, since Irish settlement in post-Roman Wales is real. MacKillop heads the article with the alias forms Cunedag, Cynedda, and Cunedda Wledig. He treats him as a shadowy figure, called historical by the Historia Brittonum yet often read as legendary. His reported home lies in southern Scotland, a Brythonic or P-Celtic district at that time. His grandson Cadwallon stands in the story as the one who finished driving the Irish out. Settlement in fact lingered on for a much longer span. MacKillop counts eight sons among his followers. Their lines held lands in Wales down to the death of Dafydd in 1283. The son Ceredigion left his name on Cardiganshire, and another son, Einion, stood behind several smaller place names. MacKillop likens him to Míl Espáine of Irish pseudo-history, another dynasty founder credited with eight sons. MacKillop heads the article with the alias forms Cunedag, Cynedda, and Cunedda Wledig. He treats him as a shadowy figure, called historical by the Historia Brittonum yet often read as legendary. His reported home lies in southern Scotland, a Brythonic or P-Celtic district at that time. His grandson Cadwallon stands in the story as the one who finished driving the Irish out. Settlement in fact lingered on for a much longer span. MacKillop counts eight sons among his followers. Their lines held lands in Wales down to the death of Dafydd in 1283. The son Ceredigion left his name on Cardiganshire, and another son, Einion, stood behind several smaller place names. MacKillop likens him to Míl Espáine of Irish pseudo-history, another dynasty founder credited with eight sons.",
+  "okr": {
+    "objective": "Present Cunedda as the 5th-century chieftain who came to found and dynasty of Gwynedd.",
+    "key_results": [
+      "He led a host from the north into the island with Wales.",
+      "He drove out the Irish who had taken a hold of Gwynedd.",
+      "His house ruled to the Gwynedd until the age of 825.",
+      "His rising is read by some as a legend, while others find real truth.",
+      "MacKillop counts eight sons and traces their lines to the death of Dafydd in 1283.",
+      "MacKillop likens him to Míl Espáine, another dynasty founder credited with eight sons.",
+      "MacKillop counts eight sons and traces their lines to the death of Dafydd in 1283.",
+      "MacKillop likens him to Míl Espáine, another dynasty founder credited with eight sons."
+    ],
+    "evidence": "Koch 2006, s.v. 'Cunedda'."
+  }
 }

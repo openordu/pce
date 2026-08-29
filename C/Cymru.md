@@ -2,7 +2,7 @@
 layout: layouts/pce.njk
 title: Cymru
 icon: file-lines
-order: 609
+order: 0
 contributors: [ 'Christopher Godwin' ]
 attributes:
   - Cymru a term in the Welsh language
@@ -13,10 +13,12 @@ attributes:
   - Cymru name rises from Cymry, the native word for the Welsh people
   - Cymry means the people of a shared home region
   - Cymraeg the Welsh language, spoken by over half a million people
+  - Cymru names the land where Cymry names the people in Modern Welsh
+  - Cymru names the land where Cymry names the people in Modern Welsh
 categories:
+  - place
   - group
   - concept
-  - place
 entities:
   - Cymru(place)
   - Welsh language(concept)
@@ -38,7 +40,7 @@ tags:
 ---
 ``` tab [group1:Info]
 ::: magazinestyle
-Cymru is the Welsh-language name for Wales, one of six lands where a Celtic tongue still endures. The word grows out of Cymry, the native term for the Welsh people, tied to a compact home region. The name first appears in an early praise poem to a king of Gwynedd. The language, Cymraeg, keeps a deep hold: over half a million speakers, a lively literary scene, and its own broadcast media.
+Cymru is the Welsh-language name for Wales, one of six lands where a Celtic tongue still endures. The word grows out of Cymry, the native term for the Welsh people, tied to a compact home region. The name first appears in an early praise poem to a king of Gwynedd. The language, Cymraeg, keeps a deep hold. It counts over half a million speakers, a lively literary scene, and its own broadcast media. MacKillop traces an older form, Cymry, which English writers once spelled Kymry. In Modern Welsh the two words split their work. Cymry names the people, and Cymru names the land. MacKillop traces an older form, Cymry, which English writers once spelled Kymry. In Modern Welsh the two words split their work. Cymry names the people, and Cymru names the land.
 
 :::
 ```
@@ -51,6 +53,8 @@ Cymru is the Welsh-language name for Wales, one of six lands where a Celtic tong
 - **Cymru**: name rises from Cymry, the native word for the Welsh people
 - **Cymry**: means the people of a shared home region
 - **Cymraeg**: the Welsh language, spoken by over half a million people
+- **Cymru**: names the land where Cymry names the people in Modern Welsh
+- **Cymru**: names the land where Cymry names the people in Modern Welsh
 ```
 ``` tab [group1:Entities]
 - **Cymru**: place
@@ -65,5 +69,6 @@ Cymru is the Welsh-language name for Wales, one of six lands where a Celtic tong
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 - Koch 2006, s.v. 'Cymru'
+- MacKillop 2008, s.v. 'Cymru'.
 ```
 ![Cymru Image](https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Flag_of_Wales.svg/1200px-Flag_of_Wales.svg.png)

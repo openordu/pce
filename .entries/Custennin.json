@@ -16,6 +16,22 @@
     {
       "entity": "Yspaddaden Penkawr",
       "attribute": "the giant who is father of Olwen"
+    },
+    {
+      "entity": "Custennin",
+      "attribute": "bears the alias Kistennin"
+    },
+    {
+      "entity": "Goreu",
+      "attribute": "the son of Custennin and slayer of the giant"
+    },
+    {
+      "entity": "Custennin",
+      "attribute": "bears the alias Kistennin"
+    },
+    {
+      "entity": "Goreu",
+      "attribute": "the son of Custennin and slayer of the giant"
     }
   ],
   "entities": [
@@ -34,21 +50,48 @@
     {
       "entity": "Yspaddaden Penkawr",
       "type": "being"
+    },
+    {
+      "entity": "Culhwch",
+      "type": "hero"
+    },
+    {
+      "entity": "Culhwch ac Olwen",
+      "type": "literary work"
+    },
+    {
+      "entity": "Goreu",
+      "type": "hero"
+    },
+    {
+      "entity": "Culhwch",
+      "type": "hero"
+    },
+    {
+      "entity": "Culhwch ac Olwen",
+      "type": "literary work"
+    },
+    {
+      "entity": "Goreu",
+      "type": "hero"
     }
   ],
   "sources": [
-    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.",
+    "MacKillop 2008, s.v. 'Custennin'."
   ],
   "cyphertext": "xUt6CcJsUSDMNgun2oPqtKIfannV-r0bujQKNeg9yyRSpz0nbRqkUPjQOAJn3CQqiTz4l1deXTt1JJzp_tCAFwnepVkhST6s0EyK-1cEk6I7D0A0lNzC5nrzu4AfGxaaGWNygK9WIiY-MWJndbUoHEYWlU4eN1Tx-5FzG4JMw93-H0QIA4eySfzQU8bApomc-9oYo9TZ1k_hDgu3jbI80etbfLxFxEsiZ2Jt",
   "salt": "oJQ20za5J_gJLootgNYqcw==",
-  "text": "Custennin is a hero of Welsh tradition. His part in the tale of Kulhwch and Olwen is small. In that tale he is the herdsman of a giant. The giant is named Yspaddaden Penkawr, and he is the father of the maiden Olwen.",
+  "text": "Custennin is a hero of Welsh tradition. His part in the tale of Kulhwch and Olwen is small. In that tale he is the herdsman of a giant. The giant is named Yspaddaden Penkawr, and he is the father of the maiden Olwen. MacKillop heads the entry with the alias Kistennin and calls the name a frequent one in early Welsh tradition. The best-known bearer served Culhwch as the shepherd who found the maiden Olwen. His son Goreu is the slayer of the giant Ysbaddaden. MacKillop heads the entry with the alias Kistennin and calls the name a frequent one in early Welsh tradition. The best-known bearer served Culhwch as the shepherd who found the maiden Olwen. His son Goreu is the slayer of the giant Ysbaddaden.",
   "okr": {
     "objective": "Custennin is a hero of Welsh tradition.",
     "key_results": [
       "Custennin is a hero of Welsh tradition.",
       "His part in the tale of Kulhwch and Olwen is small.",
       "He acts as herdsman to the giant Yspaddaden Penkawr.",
-      "Yspaddaden Penkawr is the father of Olwen."
+      "Yspaddaden Penkawr is the father of Olwen.",
+      "MacKillop names the son Goreu as the slayer of Ysbaddaden.",
+      "MacKillop names the son Goreu as the slayer of Ysbaddaden."
     ],
     "evidence": "Monaghan, Encyclopedia of Celtic Mythology and Folklore"
   }
