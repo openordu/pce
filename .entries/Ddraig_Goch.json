@@ -1,0 +1,38 @@
+{
+  "name": "Ddraig Goch",
+  "text": "Ddraig Goch is the red dragon, the national symbol of Wales. The Welsh name means exactly that. The dictionary sets the symbol apart from the gwiber, a winged serpent whose name means viper or adder. The gwiber is a dragon of story, but it never carried the nation's badge. The red dragon alone flies as the emblem of the country.",
+  "entities": [
+    {
+      "entity": "dragon",
+      "type": "mythological creature"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Ddraig Goch",
+      "attribute": "the red dragon, national symbol of Wales"
+    },
+    {
+      "entity": "Ddraig Goch",
+      "attribute": "the Welsh name means red dragon"
+    },
+    {
+      "entity": "gwiber",
+      "attribute": "a winged serpent meaning viper or adder, not the national badge"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Ddraig Goch'."
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Record Y Ddraig Goch, the red dragon badge of Wales.",
+    "key_results": [
+      "Ddraig Goch is the red dragon and the national symbol of Wales.",
+      "The gwiber is a separate winged serpent of story."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Ddraig Goch'."
+  }
+}

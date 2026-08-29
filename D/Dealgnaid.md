@@ -2,35 +2,55 @@
 layout: layouts/pce.njk
 title: Dealgnaid
 icon: file-lines
-order: 643
+order: 0
 contributors: [ 'Christopher Godwin' ]
 attributes:
-  - Dealgnaid reconciled with the couple
-  - Dealgnaid bore the ancestors of the Partholonian people
+  - category mythology
+  - domain ireland
+  - associations infidelity
+  - associations ancestry
+  - associations invasion
+  - associations reconciliation
 categories:
-  - Group
+  - Heroine
   - Person
+  - Group
+  - Place
 entities:
-  - Dealgnaid(Person)
-  - Partholonian people(Group)
+  - (Heroine)
+  - (Person)
+  - (Person)
+  - (Place)
+  - (Group)
 tags:
-  - Dealgnaid
-  - Partholonian people
+  - 
+  - 
+  - 
+  - 
+  - 
 ---
 ``` tab [group1:Info]
 ::: magazinestyle
-An Irish heroine named Dealgnaid (also known as Delgnat, Elgnat or Elgnad) was the wife of the invader, Partholón, when he arrived in Ireland. In his quest to expand his territories, Partholón left his wife alone with only Togda, a handsome servant, for company. Togda and Dealgnaid became intimately involved, much to Partholón's dismay upon his return. However, he took the responsibility upon himself, realizing that he should not have left his wife alone, knowing her desires. As a result, the couple reconciled, and Dealgnaid subsequently gave birth to the ancestors of the Partholonian people.
+Dealgnaid is an Irish heroine. She was also called Delgnat, Elgnat, or Elgnad. When the invader Partholón arrived in Ireland, he brought his wife Dealgnaid with him. After he settled his people on fertile land, Partholón turned to conquer more territory. He left his wife alone with only a handsome servant named Togda. The servant did not keep his distance. He shared Dealgnaid's bed. When Partholón returned and found his wife in another man's arms, he did not blame her. He blamed himself. He knew his wife's desires, and he should not have abandoned her. The couple reconciled, and Dealgnaid bore the ancestors of the Partholonian people. The dictionary prints a wide spelling swarm beside her name: Désignait, Désignât, Deignat, Dalny, and Elgnat. It names the slave Todga or Topa. In one version the husband's fury at the deception is exactly what a reader would expect. In another, Todga calms him with a verse and says she should never have been offered such a temptation.
 
 :::
 ```
 ``` tab [group1:Attributes]
-- **Dealgnaid**: reconciled with the couple
-- **Dealgnaid**: bore the ancestors of the Partholonian people
+- **category**: mythology
+- **domain**: ireland
+- **associations**: infidelity
+- **associations**: ancestry
+- **associations**: invasion
+- **associations**: reconciliation
 ```
 ``` tab [group1:Entities]
-- **Dealgnaid**: Person
-- **Partholonian people**: Group
+- ****: Heroine
+- ****: Person
+- ****: Person
+- ****: Place
+- ****: Group
 ```
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
+- MacKillop 2008, s.v. 'Dealgnaid'.
 ```

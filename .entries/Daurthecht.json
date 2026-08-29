@@ -1,0 +1,34 @@
+{
+  "name": "Daurthecht",
+  "text": "Daurthecht is a variant spelling of the name Durthacht. The dictionary files it as a pointer to that record. Durthacht is the father of Eógan mac Durthacht, an Ulster figure. Readers should follow the Eógan mac Durthacht entry for the family dossier.",
+  "entities": [
+    {
+      "entity": "Eógan mac Durthacht",
+      "type": "mythological figure"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Daurthecht",
+      "attribute": "a variant spelling of the name Durthacht"
+    },
+    {
+      "entity": "Durthacht",
+      "attribute": "the father of Eógan mac Durthacht"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Daurthecht'."
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Route readers from the spelling Daurthecht to the Durthacht family record.",
+    "key_results": [
+      "Daurthecht is a variant spelling of Durthacht.",
+      "The family record sits beside Eógan mac Durthacht."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Daurthecht'."
+  }
+}

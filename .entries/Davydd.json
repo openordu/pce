@@ -1,0 +1,38 @@
+{
+  "name": "Davydd",
+  "text": "Davydd is a variant spelling of the Welsh name Dafydd. The dictionary routes this form to that main record. Dafydd is among the most common Welsh men's names, and the saint behind it is Dewi Sant. Readers should follow the Dafydd entry for the fuller account.",
+  "entities": [
+    {
+      "entity": "Dafydd",
+      "type": "person"
+    },
+    {
+      "entity": "Dewi Sant",
+      "type": "person"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Davydd",
+      "attribute": "a variant spelling of the Welsh name Dafydd"
+    },
+    {
+      "entity": "Dafydd",
+      "attribute": "the main entry for the Welsh name"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Davydd'."
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Route readers from the spelling Davydd to the Dafydd entry.",
+    "key_results": [
+      "Davydd is a variant spelling of Dafydd.",
+      "The main record of the Welsh name sits at the Dafydd entry."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Davydd'."
+  }
+}

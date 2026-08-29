@@ -2,56 +2,58 @@
 layout: layouts/pce.njk
 title: Daui
 icon: file-lines
-order: 638
+order: 0
 contributors: [ 'Christopher Godwin' ]
 attributes:
-  - Daui Dalta Dedad king of Tara
-  - Blemished King could not rule
-  - Daui Ladrach ambitious and willing to kill to gain the throne
-  - warrior Lugaidh Laíghde cleverer
-  - Daui assassinated only seven years later
+  - category mythology
+  - domain ireland
+  - associations kingship
+  - associations blinding
+  - associations assassination
+  - associations ambition
 categories:
-  - Irish hero
-  - place
-  - king
-  - warrior
-  - title
+  - Person
+  - Hero
+  - Concept
+  - Place
 entities:
-  - Daui(Irish hero)
-  - Daui Dalta Dedad(king)
-  - Tara(place)
-  - Blemished King(title)
-  - Daui Ladrach(king)
-  - Lugaidh Laíghde(warrior)
+  - (Hero)
+  - (Hero)
+  - (Place)
+  - (Concept)
+  - (Hero)
+  - (Person)
 tags:
-  - Daui
-  - Daui Dalta Dedad
-  - Tara
-  - Blemished King
-  - Daui Ladrach
-  - Lugaidh Laíghde
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
 ---
 ``` tab [group1:Info]
 ::: magazinestyle
-Irish mythology speaks of a hero named Daui, who was embodied by two individuals. The first, Daui Dalta Dedad was a king of Tara, who resorted to blinding his brother such that he would not be able to rule. This action proved to be fruitful as Daui gained power, but his reign was short-lived as he was assassinated only seven years later. The second figure, Daui Ladrach, a king who was equally ambitious and had a tendency to kill to ascend the throne. However, his ambition proved to be his downfall as warrior Lugaidh Laíghde was able to outsmart him and clear the path for his own ascension.
+Two minor figures of Irish legend share the name Daui. The first was Daui Dalta Dedad, a king of Tara. He kept his brother from the throne by blinding him. A king with a blemish could not rule, so the injury was an effective tool. Daui won power this way, but he held it only seven years. He was assassinated soon after. The second figure was Daui Ladrach, a king of similar ambition. He too was willing to kill to gain the throne. The warrior Lugaidh Laíghde proved the cleverer of the two. He used Daui's ambition to clear his own path to power. For the first figure the dictionary gives Daui Dalta Dedad and Daui Dallta Dedad as spellings. Duach Dallta Deadad stands beside them. The Irish name means Blinder of Dedad. One variant makes him Dedad's foster-son, his dalta, instead of his brother. Medieval redactors tried to date his assassination to the same hour as that of Julius Caesar. The second figure appears as Daui Ladrach, Duach Ladrach, Ladgrach, or Laghrach, from an Irish word for crooked-toed or splay-footed. He was the son of Fiachu Tolgrach. To gain the throne he killed Airgetmar. Lugaid Laigde later betrayed him, though Lugaid had helped in the ousting. Airgetmar's grandson Aed Ruad in time killed Lugaid and took the kingship himself.
 
 :::
 ```
 ``` tab [group1:Attributes]
-- **Daui Dalta Dedad**: king of Tara
-- **Blemished King**: could not rule
-- **Daui Ladrach**: ambitious and willing to kill to gain the throne
-- **warrior Lugaidh Laíghde**: cleverer
-- **Daui**: assassinated only seven years later
+- **category**: mythology
+- **domain**: ireland
+- **associations**: kingship
+- **associations**: blinding
+- **associations**: assassination
+- **associations**: ambition
 ```
 ``` tab [group1:Entities]
-- **Daui**: Irish hero
-- **Daui Dalta Dedad**: king
-- **Tara**: place
-- **Blemished King**: title
-- **Daui Ladrach**: king
-- **Lugaidh Laíghde**: warrior
+- ****: Hero
+- ****: Hero
+- ****: Place
+- ****: Concept
+- ****: Hero
+- ****: Person
 ```
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
+- MacKillop 2008, s.v. 'Daui Dalta Dedad'.
 ```

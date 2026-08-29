@@ -1,0 +1,42 @@
+{
+  "name": "David",
+  "text": "David is the English shape of one of the commonest men's names in Wales. The name honours the saint the Welsh call Dewi Sant. The usual Welsh equivalent of David is Dafydd. Readers will find the Welsh side of the name under the Dafydd entry, with the saint at Dewi Sant.",
+  "entities": [
+    {
+      "entity": "Dewi Sant",
+      "type": "person"
+    },
+    {
+      "entity": "Dafydd",
+      "type": "person"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "David",
+      "attribute": "the English shape of a common Welsh men's name"
+    },
+    {
+      "entity": "David",
+      "attribute": "given after St David, whom the Welsh call Dewi Sant"
+    },
+    {
+      "entity": "Dafydd",
+      "attribute": "the usual Welsh equivalent of David"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'David'."
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Record David as the English shape of the Welsh name behind Dewi Sant and Dafydd.",
+    "key_results": [
+      "David is the English form of a common Welsh name.",
+      "The Welsh side of the name splits between Dewi Sant and Dafydd."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'David'."
+  }
+}
