@@ -1,0 +1,48 @@
+{
+  "name": "Cuimne",
+  "text": "Cuimne is the hag who helps Mongán win back his wife Dubh Lacha. King Brandub coveted Dubh Lacha and tricked Mongán into giving her up. Mongán, a son of the sea-god Manannán mac Lir, sought the hag's aid. Cuimne changed herself into a beautiful woman, in one telling a Munster princess with a love-spot on her cheek. She offered herself as the price of the wife's freedom. Once Dubh Lacha went free, Cuimne returned to her old shape. That reversal of a hag's transformation is rare in the tales.",
+  "entities": [
+    {
+      "entity": "Mongán",
+      "type": "mythological figure"
+    },
+    {
+      "entity": "Manannán mac Lir",
+      "type": "mythological figure"
+    },
+    {
+      "entity": "Munster",
+      "type": "place"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Cuimne",
+      "attribute": "the hag who recovers Dubh Lacha"
+    },
+    {
+      "entity": "Cuimne",
+      "attribute": "took the shape of a Munster princess"
+    },
+    {
+      "entity": "Cuimne",
+      "attribute": "reversed her hag shape, a rare tale-move"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Cuimne'."
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Cuimne holds the hag whose disguise frees Dubh Lacha from Brandub.",
+    "key_results": [
+      "Brandub tricked Mongán out of his wife.",
+      "Mongán, son of Manannán mac Lir, sought the hag's aid.",
+      "Cuimne posed as a beautiful princess to buy the release.",
+      "She returned to her old shape once the wife went free."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Cuimne'."
+  }
+}

@@ -3,11 +3,19 @@
   "attributes": [
     {
       "entity": "Cuailnge",
-      "attribute": "heading of the brief source account"
+      "attribute": "the early name of the Cooley peninsula"
+    },
+    {
+      "entity": "Cuailnge",
+      "attribute": "the headline place of the Táin"
+    },
+    {
+      "entity": "Cooley",
+      "attribute": "the modern name of the peninsula"
     },
     {
       "entity": "Amairgin",
-      "attribute": "so mighty that the dead piled around him"
+      "attribute": "the seer whose force piled the dead about him"
     }
   ],
   "entities": [
@@ -20,27 +28,45 @@
       "type": "character"
     },
     {
-      "entity": "the dead",
-      "type": "group"
+      "entity": "Cooley",
+      "type": "place"
+    },
+    {
+      "entity": "Táin bó Cuailnge (Cattle Raid of Cooley)",
+      "type": "artifact"
+    },
+    {
+      "entity": "Cúchulainn",
+      "type": "mythological figure"
+    },
+    {
+      "entity": "Connacht",
+      "type": "place"
+    },
+    {
+      "entity": "Leinster",
+      "type": "place"
     }
   ],
   "sources": [
     "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.",
-    "MacKillop 2008, s.v. 'Chuailnge'."
+    "MacKillop 2008, s.v. 'Chuailnge'.",
+    "MacKillop 2008, s.v. 'Cuailnge'."
   ],
   "image": [
     "https://upload.wikimedia.org/wikipedia/commons/1/1e/Cooley_Peninsula_in_Ireland.png"
   ],
   "cyphertext": "LmLVARkSZZeGQiHX9FyzhGcd3Tq4eh-bU-nVV6CuCLi5Bi10-Wmd_DoyV5BTXwGXpkU7nfJK8qpCpE42y3BwGY_sfychL2iqb8ehgpCkKleruI-Toui08Irk7k3d6bQZ1j4_xFQoY3wqA_cH1qGjmwaFzjWz1WbBxyxPAA9lXYY3SFk-9IFBc2SAMWMVPnL4CPPQz_x46FpEw4yv_OBbP89fOarsYZKKk-erxxT45rbntx3N_d81Sd_RKjdHpa2JNR3Syr8dS6znMeRShK1uQ-R1qKzs-oglVXzuAZE2OpDpKCUwzypoo_1OcT2gEmO-ZvjHrEGUHzAgwVs16wK3qaY2PXJEyjpzrxo_i8zKNBulRJ5mdooHamYP5uHXIP1JW6c9dYkFvPwhK9IKZG7xaG4lYDdFnUDEv-TnSWCXbFsQgTBfnudpkSMOC2XEzTkirLf6axCBSnrt6n46h9a6etJHKLDBGmd0FZCTKUf7He0VBByumKh4ewH2H98Lz_cujsjcfs7S5u7vTViej-x0XVM9MuHztTJEIZvum_2EbRLg56opa2GkvG07BHqd3EMBRF2JcA7SyXLCdKIuO9eA8DQGOLfGdyRy8QaW5kSE6JkbkmV4y8HuVwGCMcOMABWct3SXk1ebpwiSfM16fVEREFmSXvKExseiPnxbe5jdOwfo2YanzzglRjVOx1t8juWcNJx5HnwUZMBZ1AHRTILhCYGyh623CeOSg8xef0k_3-c-nWmjf-ra71A24_ud6GMwWtI2mAi7sRznSNGWL607oGhfnleFTjxHoH4EbNXnXlBgq6LFl-2zJflUpYLkwW51gQ2hn42-zLIVdf63ujVnpeouM3VLjUGZPwNxWFC-yzKjqsORaGlHDvm_MJxak0TbOKXjEqfKs6EPTaHo8zlHW-hCOSJSKA0diPbKlAJZPVgWRzwjklXBujxaM3o5rYPtE4vYuQ==",
   "salt": "Fd3DJgv_2zTKAv6mDAFrNA==",
-  "text": "Cuailnge opens a short leaf in the source. The only deed told there belongs to the seer Amairgin, whose force was so great that the dead piled about him. Nothing further fills the account.",
+  "text": "Cuailnge is an early name for the hilly peninsula of Cooley in north-east Louth, a corner of Leinster. The early form also appears as Cualnge, and later writers anglicize it as Cooley or Quelgny. Carlingford Lough bounds it on one side, and Dundalk harbour bounds it on the other. The name leads the title of the great Ulster epic, the Táin bó Cuailnge. Much of that epic plays out on this ground. Its great tale is Cúchulainn, who held Ulster alone against the hosts of Connacht. An older leaf in the source keeps one strange deed for the place. It tells of the seer Amairgin, whose force piled the dead about him.",
   "okr": {
-    "objective": "Cuailnge is a place whose only record shows the might of Amairgin.",
+    "objective": "Cuailnge is the early name of the Cooley peninsula and the stage of the Táin.",
     "key_results": [
-      "Only the deed of Amairgin is scored in the extract.",
-      "His power left the dead heaped around him.",
-      "The account offers no further incident."
+      "Carlingford Lough and Dundalk harbour bound the peninsula.",
+      "The epic Táin bó Cuailnge carries the name in its title.",
+      "Cúchulainn held Ulster alone against the hosts of Connacht there.",
+      "An old source keeps the deed of Amairgin for the place."
     ],
-    "evidence": "Monaghan, Encyclopedia of Celtic Mythology and Folklore"
+    "evidence": "Monaghan, Encyclopedia of Celtic Mythology and Folklore; MacKillop, Dictionary of Celtic Mythology"
   }
 }

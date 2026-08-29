@@ -1,96 +1,138 @@
 {
-    "name": "Culhwch ac Olwen",
-    "attributes": [
-        {
-            "entity": "Culhwch ac Olwen",
-            "attribute": "a Welsh tale named for two figures"
-        },
-        {
-            "entity": "Culhwch",
-            "attribute": "the prince of the title"
-        },
-        {
-            "entity": "Olwen",
-            "attribute": "the maiden of the title"
-        },
-        {
-            "entity": "Culhwch",
-            "attribute": "bound by an oath to seek Olwen"
-        },
-        {
-            "entity": "Twrch Trwyth",
-            "attribute": "hunted across Britain"
-        },
-        {
-            "entity": "Bedwyr",
-            "attribute": "a chief companion of Arthur"
-        },
-        {
-            "entity": "Cafall",
-            "attribute": "the hunting dog of Arthur"
-        },
-        {
-            "entity": "Arthur",
-            "attribute": "the king who shields Culhwch"
-        }
-    ],
-    "entities": [
-        {
-            "entity": "Culhwch",
-            "type": "mythological figure"
-        },
-        {
-            "entity": "Olwen",
-            "type": "mythological figure"
-        },
-        {
-            "entity": "Culhwch ac Olwen",
-            "type": "artifact"
-        },
-        {
-            "entity": "Twrch Trwyth",
-            "type": "mythological figure"
-        },
-        {
-            "entity": "Cafall",
-            "type": "mythological figure"
-        },
-        {
-            "entity": "Bedwyr",
-            "type": "mythological figure"
-        },
-        {
-            "entity": "Cai",
-            "type": "mythological figure"
-        },
-        {
-            "entity": "Arthur",
-            "type": "mythological figure"
-        },
-        {
-            "entity": "Mabinogi",
-            "type": "artifact"
-        }
-    ],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.",
-        "Koch 2006, s.v. 'Culhwch ac Olwen'"
-    ],
-    "image": [
-        "https://upload.wikimedia.org/wikipedia/commons/1/10/Jesus-College-MS-111_00400_200v_%28cropped%29_Culhwch_ac_Olwen.jpg"
-    ],
-    "cyphertext": "of_HoyiqKTS9BD58tQ49hc3ZZTQEFSGxEVO8qMCjWlAzj0JpB0nxk5r5r-K6e0Wv3IYkkimt3mLNwZTvcAkld0FzV4k=",
-    "salt": "pJaFX4Bc039Gx5zZ-Y8DJg==",
-    "text": "Culhwch is a Welsh prince at the centre of a famous tale. The story carries his name together with that of the maiden Olwen. A jealous stepmother places a destiny upon him with a solemn oath. Her words doom him to a dangerous quest. He must find Olwen, and the giant her father makes the task harder by setting impossible requirements. King Arthur joins his kinsman on the road to fulfilment and hunts a great boar named Twrch Trwyth. That hunt already lived in the ninth century as an oral tale. It also generated place-name lore. The name Carn Cabal, read as horse's hoof, is explained as a cairn named for Arthur's dog Cafall. The same hunt binds Culhwch to the topographical wonders of Historia Brittonum. Bedwyr and Cai appear as Arthur's chief companions, a ranking shared with an old verse and with the Life of Cadoc.\n\nCulhwch is a rich store of early Welsh tradition. Its language matches Late Old Welsh usage, which sets the work apart from the four branches of the medieval Mabinogi tales. It keeps a rare verb for said that appears almost nowhere else. Scholars link the text to the Triads. Bromwich and Evans date the written redaction to the closing decades of the eleventh century, about the year one thousand one hundred. Pigs act as both totem and cause of doom, and the oath tyghaf tyghet, or I swear a destiny, drives the whole reckoning. The account of the boar grew from older oral tradition.",
-    "okr": {
-        "objective": "Expand the tale of Culhwch ac Olwen as an early Welsh Arthurian quest and capture its dating, its cast, and its place in the Mabinogi tradition.",
-        "key_results": [
-            "Culhwch wins Olwen only by passing tasks set by the giant.",
-            "Arthur and his dog Cafall take part in the hunt of Twrch Trwyth.",
-            "The language places the text in the Late Old Welsh period.",
-            "Bromwich and Evans date the redaction to about the year one thousand one hundred."
-        ],
-        "evidence": "Koch 2006, s.v. 'Culhwch ac Olwen'; reshaped with the existing Monaghan account"
+  "name": "Culhwch ac Olwen",
+  "attributes": [
+    {
+      "entity": "Culhwch ac Olwen",
+      "attribute": "a Welsh tale named for two figures"
     },
-    "order": 587
+    {
+      "entity": "Culhwch",
+      "attribute": "the prince of the title"
+    },
+    {
+      "entity": "Olwen",
+      "attribute": "the maiden of the title"
+    },
+    {
+      "entity": "Culhwch",
+      "attribute": "bound by an oath to seek Olwen"
+    },
+    {
+      "entity": "Twrch Trwyth",
+      "attribute": "hunted across Britain"
+    },
+    {
+      "entity": "Bedwyr",
+      "attribute": "a chief companion of Arthur"
+    },
+    {
+      "entity": "Cafall",
+      "attribute": "the hunting dog of Arthur"
+    },
+    {
+      "entity": "Arthur",
+      "attribute": "the king who shields Culhwch"
+    },
+    {
+      "entity": "Culhwch ac Olwen",
+      "attribute": "a purely Celtic Arthurian text without Continental trimming"
+    },
+    {
+      "entity": "Culhwch ac Olwen",
+      "attribute": "complete text in the Red Book of Hergest"
+    },
+    {
+      "entity": "Custennin",
+      "attribute": "the herdsman won with a gold ring"
+    },
+    {
+      "entity": "Goleuddydd",
+      "attribute": "mother of Culhwch, died after the pig-run birth"
+    },
+    {
+      "entity": "Balor",
+      "attribute": "the Irish counterpart of the giant Ysbaddaden"
+    }
+  ],
+  "entities": [
+    {
+      "entity": "Culhwch",
+      "type": "mythological figure"
+    },
+    {
+      "entity": "Olwen",
+      "type": "mythological figure"
+    },
+    {
+      "entity": "Culhwch ac Olwen",
+      "type": "artifact"
+    },
+    {
+      "entity": "Twrch Trwyth",
+      "type": "mythological figure"
+    },
+    {
+      "entity": "Cafall",
+      "type": "mythological figure"
+    },
+    {
+      "entity": "Bedwyr",
+      "type": "mythological figure"
+    },
+    {
+      "entity": "Cai",
+      "type": "mythological figure"
+    },
+    {
+      "entity": "Arthur",
+      "type": "mythological figure"
+    },
+    {
+      "entity": "Mabinogi",
+      "type": "artifact"
+    },
+    {
+      "entity": "Custennin",
+      "type": "mythological figure"
+    },
+    {
+      "entity": "Goleuddydd",
+      "type": "mythological figure"
+    },
+    {
+      "entity": "Cilydd",
+      "type": "mythological figure"
+    },
+    {
+      "entity": "Cath Maige Tuired",
+      "type": "artifact"
+    },
+    {
+      "entity": "Balor",
+      "type": "mythological figure"
+    }
+  ],
+  "sources": [
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.",
+    "Koch 2006, s.v. 'Culhwch ac Olwen'",
+    "MacKillop 2008, s.v. 'Culhwch ac Olwen'."
+  ],
+  "image": [
+    "https://upload.wikimedia.org/wikipedia/commons/1/10/Jesus-College-MS-111_00400_200v_%28cropped%29_Culhwch_ac_Olwen.jpg"
+  ],
+  "cyphertext": "of_HoyiqKTS9BD58tQ49hc3ZZTQEFSGxEVO8qMCjWlAzj0JpB0nxk5r5r-K6e0Wv3IYkkimt3mLNwZTvcAkld0FzV4k=",
+  "salt": "pJaFX4Bc039Gx5zZ-Y8DJg==",
+  "text": "Culhwch is a Welsh prince at the centre of a famous tale. The story carries his name together with that of the maiden Olwen. A jealous stepmother places a destiny upon him with a solemn oath. Her words doom him to a dangerous quest. He must find Olwen, and the giant her father makes the task harder by setting impossible requirements. King Arthur joins his kinsman on the road to fulfilment and hunts a great boar named Twrch Trwyth. That hunt already lived in the ninth century as an oral tale. It also generated place-name lore. The name Carn Cabal, read as horse's hoof, is explained as a cairn named for Arthur's dog Cafall. The same hunt binds Culhwch to the topographical wonders of Historia Brittonum. Bedwyr and Cai appear as Arthur's chief companions. An old verse and the Life of Cadoc share that ranking.\n\nCulhwch is a rich store of early Welsh tradition. Its language matches Late Old Welsh usage. That usage sets the work apart from the four branches of the medieval Mabinogi tales. It keeps a rare verb for said that appears almost nowhere else. Scholars link the text to the Triads. Bromwich and Evans date the written redaction to the closing decades of the eleventh century. They set it near the year one thousand one hundred. Pigs act as both totem and cause of doom. The oath tyghaf tyghet, or I swear a destiny, drives the whole reckoning. The account of the boar grew from older oral tradition.\n\nThe dictionary rounds out the frame of Culhwch ac Olwen. Cilydd wedded Goleuddydd, who bore the boy in a pig-run and died soon after. The new wife laid the oath on her stepson. Culhwch's arrival at court echoes the arrival of Lug Lamfhota at Nuadu's hall in the battle tale of Mag Tuired. Glewlwyd Gafaelfawr the porter at first shut the gate against him. Cynddelig the guide, Gwrhyr who read every tongue, and Menw the shape-changer joined Cai and Bedwyr on the road. Custennin the herdsman was won over with a gold ring, and his wife proved to be the sister of Goleuddydd. The giant hurls three poisoned stone spears at the party, and each throw comes back on the thrower. He yields only to forty tasks. The great boar Twrch Trwyth carries razor and shears and comb between his ears. The hunt drives him from Ireland to Wales and on to Brittany and Cornwall. The razor and the shears come free at the Severn estuary, and the comb falls in Cornwall. Ysbaddaden has his match in the Irish Balor, whose eyelids others had to prop open.",
+  "okr": {
+    "objective": "Expand the tale of Culhwch ac Olwen as an early Welsh Arthurian quest and capture its dating, its cast, and its place in the Mabinogi tradition.",
+    "key_results": [
+      "Culhwch wins Olwen only by passing tasks set by the giant.",
+      "Arthur and his dog Cafall take part in the hunt of Twrch Trwyth.",
+      "The language places the text in the Late Old Welsh period.",
+      "Bromwich and Evans date the redaction to about the year one thousand one hundred.",
+      "MacKillop supplies the full frame, the forty tasks, and the Twrch Trwyth hunt."
+    ],
+    "evidence": "Monaghan, Encyclopedia of Celtic Mythology and Folklore; Koch, Celtic Culture; MacKillop, Dictionary of Celtic Mythology"
+  },
+  "order": 587
 }

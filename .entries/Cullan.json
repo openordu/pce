@@ -1,0 +1,51 @@
+{
+  "name": "Cullan",
+  "text": "Cullan is an anglicized spelling of Culann. The name belongs to the smith of the Ulster Cycle whose hound died at Sétanta's hand. The young hero then took the smith's name upon himself as Cúchulainn. This smith also forged the weapons of King Conchobar. Readers should follow the Culann entry.",
+  "entities": [
+    {
+      "entity": "Culann",
+      "type": "mythological figure"
+    },
+    {
+      "entity": "Sétanta",
+      "type": "mythological figure"
+    },
+    {
+      "entity": "Cúchulainn",
+      "type": "mythological figure"
+    },
+    {
+      "entity": "Conchobar",
+      "type": "mythological figure"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Cullan",
+      "attribute": "an anglicized spelling of Culann"
+    },
+    {
+      "entity": "Culann",
+      "attribute": "the smith whose hound Sétanta slew"
+    },
+    {
+      "entity": "Cúchulainn",
+      "attribute": "the name the young hero took"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Cullan'."
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Cullan routes the anglicized spelling to the smith Culann.",
+    "key_results": [
+      "The entry is a spelling variant of Culann.",
+      "Sétanta slew the smith's hound and took his name.",
+      "The smith's craft served King Conchobar."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Cullan'."
+  }
+}

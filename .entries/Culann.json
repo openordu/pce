@@ -22,22 +22,26 @@
       "type": "hero"
     },
     {
-      "entity": "Cuilenn",
+      "entity": "Manannán mac Lir",
       "type": "mythological figure"
+    },
+    {
+      "entity": "Ulster Cycle",
+      "type": "artifact"
     }
   ],
   "attributes": [
     {
       "entity": "Culann",
-      "attribute": "a smith of the Ulster court"
+      "attribute": "a smith of the Ulster Cycle"
     },
     {
-      "entity": "Conchobar Mac Nessa",
-      "attribute": "king of Ulster and foster father of Cúchulainn"
+      "entity": "Culann",
+      "attribute": "forged the arms of Conchobar mac Nessa"
     },
     {
       "entity": "Sétanta",
-      "attribute": "took the place of the slain hound"
+      "attribute": "slew the smith's watchdog and served as guard"
     },
     {
       "entity": "Cú Chulainn",
@@ -45,19 +49,20 @@
     }
   ],
   "sources": [
-    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.",
+    "MacKillop 2008, s.v. 'Culann'."
   ],
   "cyphertext": "_PJWENukNLvBOahEuz-_m0g9C0KEmtfCLsaxuJkDmjIQyB6M5kFGb7_fW0YNgSj1cA49Jn2eMWFq3K58rAokgB2FmjZ0MQeLJ6XfcuTef8MIekGxWfDXx5yEbGjagrT2owy25kN4IAHbDFOsz76WYcOeEAajbL_KSFBKjm0mPg0S7hCVUzvb-RCo9VM2S7ujy7ZmJSv7v1VkdZGCk9tVqSFdxIDM5WfYRO_AYh6OktQxlEWqkvLUihTPx_aQgKBRw7FBznMnfBMly_i8ABhmyxwvXY1WyJc0gbQ0W80BrH3xfaYHXRCBvaaDTvrZwHowX0dwzizP7NKXwGohT67OZ9y9U4OyhE2zdCmlNkGPxfophwtNN71BMXCrfTC_0FQIBRTI2uMsqn8DDVuYRYTrzn0Gx87CXWsvgtGxJBVeoRl9gMDuKz9r-RsDQXZnFo_d6QWGz5spShpLGxpScjjvxuRxH__iuNxqxGFlgVuG6k0KjiuxcpE5Yce_QpPNeXm0954v9VuRdxEu1BtCYjrRtIDNy7DudbUfv7FK5ty69KWbu91LdWSdLdmmb9dE0Ctmpohx94-njw8WrLcN-wyYZaVEBrvnx3jl2BzKDk6Pbk63EwbKdYv-6UDxqAGOIonY_PNW5aM3R0T53DuagqoiX2whliCmVA==",
   "salt": "L-r_rLosQ8TcJrdbyv4rKA==",
-  "text": "Culann is a smith in the stories of Ireland. He forged the weapons of Conchobar, who raised. Cucholic. While he as sole host to Ulster's men, the young Sétanta came in after night, and in a want, slew his fine hound. That anger rose in Culann. He was offered by the child to take the dog's place until its heir, ce me n more, and thereby bore the name Cú Chulánn, smith of the hounds.",
+  "text": "Culann is a smith of the Ulster Cycle. His fame rests on the name he gave to Cúchulainn. He acted as host to the nobles of Ulster. Sétanta arrived late in the night and killed the watchdog of the feast. In repayment Sétanta offered to fill the guard's post himself until a new pup could be raised. The offer earned him the name Cú Chulainn, the hound of Culann. In other Ulster tales the same smith forged the sword, the spear, and the shield of King Conchobar mac Nessa. Some commentators read him as a mask for the sea-god Manannán mac Lir.",
   "okr": {
-    "objective": "Culann is the smith in whose name Cú Chulainn gained his title.",
+    "objective": "Culann is the smith whose hound gave Cúchulainn his name.",
     "key_results": [
-      "He forged weapons for the king Conchobar.",
-      "The boy Sétanta slew his hound.",
-      "Sétanta then served in the hound's place.",
-      "Some texts bond Culann with Cuilenn."
+      "Sétanta killed the watchdog on a night arrival at the feast.",
+      "The boy took the guard's post and so took the smith's name.",
+      "The smith forged sword, spear, and shield for Conchobar mac Nessa.",
+      "Some commentators see a mask of Manannán mac Lir in him."
     ],
-    "evidence": "Monaghan, Encyclopedia of Celtic Mythology and Folklore"
+    "evidence": "Monaghan, Encyclopedia of Celtic Mythology and Folklore; MacKillop, Dictionary of Celtic Mythology"
   }
 }

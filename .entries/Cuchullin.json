@@ -1,0 +1,52 @@
+{
+  "name": "Cuchullin",
+  "text": "Cuchullin is a character of Macpherson's Ossian, the poem cycle of 1760. Macpherson built him in part on the Irish hero Cúchulainn, yet the figure departs from the older tales. Cuchullin is the son of Seuma and the grandson of Cathbaid, whom Macpherson alters from the Irish Cathbad. Slissama is his brother, and Bragela is his wife. His strength is a byword among the poems' warriors. In one memorable combat he slays the champion Feard.",
+  "entities": [
+    {
+      "entity": "Macpherson",
+      "type": "person"
+    },
+    {
+      "entity": "Ossian",
+      "type": "artifact"
+    },
+    {
+      "entity": "Cúchulainn",
+      "type": "mythological figure"
+    },
+    {
+      "entity": "Bragela",
+      "type": "mythological figure"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Cuchullin",
+      "attribute": "the Ossianic druid built on the Irish hero"
+    },
+    {
+      "entity": "Cuchullin",
+      "attribute": "son of Seuma and grandson of Cathbaid"
+    },
+    {
+      "entity": "Bragela",
+      "attribute": "the wife of Cuchullin"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Cuchullin'."
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Cuchullin holds the Macpherson character apart from the Irish Cúchulainn.",
+    "key_results": [
+      "The figure debuts in Macpherson's Ossian of 1760.",
+      "Macpherson built him in part on the Irish hero Cúchulainn.",
+      "His family is Seuma, Cathbaid, Slissama, and Bragela.",
+      "He slays the champion Feard in single combat."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Cuchullin'."
+  }
+}

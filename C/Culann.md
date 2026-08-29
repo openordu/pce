@@ -2,45 +2,58 @@
 layout: layouts/pce.njk
 title: Culann
 icon: file-lines
-order: 585
+order: 0
 contributors: [ 'Christopher Godwin' ]
 attributes:
-  - Cú Chulainn hound of Culann
+  - Culann a smith of the Ulster Cycle
+  - Culann forged the arms of Conchobar mac Nessa
+  - Sétanta slew the smith's watchdog and served as guard
+  - Cú Chulainn means the hound of Culann
 categories:
-  - Irish hero
-  - Location
+  - place
+  - mythological figure
+  - hero
+  - artifact
+  - character
 entities:
-  - Culann(Irish hero)
-  - Cú Chulainn(Irish hero)
-  - Concobar Mac Nessa(Irish hero)
-  - Ulster(Location)
-  - Sétanta(Irish hero)
-  - Cuilenn(Irish hero)
+  - Culann(hero)
+  - Conchobar Mac Nessa(mythological figure)
+  - Ulster(place)
+  - Sétanta(character)
+  - Cú Chulainn(hero)
+  - Manannán mac Lir(mythological figure)
+  - Ulster Cycle(artifact)
 tags:
   - Culann
-  - Cú Chulainn
-  - Concobar Mac Nessa
+  - Conchobar Mac Nessa
   - Ulster
   - Sétanta
-  - Cuilenn
+  - Cú Chulainn
+  - Manannán mac Lir
+  - Ulster Cycle
 ---
 ``` tab [group1:Info]
 ::: magazinestyle
-A significant Irish hero was Culann, a smith who created weapons for Concobar Mac Nessa, the foster father of Cúchulainn. Once, when Culann was hosting the Ulster men, a boy named Sétanta arrived late and carelessly murdered his beloved dog. Culann was furious, but Sétanta proposed to take the dog's place until they could find a new one, earning himself the new name of "hound of Culann." Some sources combine Culann with Cuilenn, who might be the same or based on the same person.
+Culann is a smith of the Ulster Cycle. His fame rests on the name he gave to Cúchulainn. He acted as host to the nobles of Ulster. Sétanta arrived late in the night and killed the watchdog of the feast. In repayment Sétanta offered to fill the guard's post himself until a new pup could be raised. The offer earned him the name Cú Chulainn, the hound of Culann. In other Ulster tales the same smith forged the sword, the spear, and the shield of King Conchobar mac Nessa. Some commentators read him as a mask for the sea-god Manannán mac Lir.
 
 :::
 ```
 ``` tab [group1:Attributes]
-- **Cú Chulainn**: hound of Culann
+- **Culann**: a smith of the Ulster Cycle
+- **Culann**: forged the arms of Conchobar mac Nessa
+- **Sétanta**: slew the smith's watchdog and served as guard
+- **Cú Chulainn**: means the hound of Culann
 ```
 ``` tab [group1:Entities]
-- **Culann**: Irish hero
-- **Cú Chulainn**: Irish hero
-- **Concobar Mac Nessa**: Irish hero
-- **Ulster**: Location
-- **Sétanta**: Irish hero
-- **Cuilenn**: Irish hero
+- **Culann**: hero
+- **Conchobar Mac Nessa**: mythological figure
+- **Ulster**: place
+- **Sétanta**: character
+- **Cú Chulainn**: hero
+- **Manannán mac Lir**: mythological figure
+- **Ulster Cycle**: artifact
 ```
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
+- MacKillop 2008, s.v. 'Culann'.
 ```

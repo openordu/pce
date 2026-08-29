@@ -1,0 +1,48 @@
+{
+  "name": "Cualu",
+  "text": "Cualu is the early name of a territory in Leinster. It stretched from the River Liffey south to Arklow, an area close to modern County Wicklow. The district held the monastic centre of Glendalough. Its people, the Cualainn, appear in Ptolemy's record of the second century. The name also shapes two district terms. Crích Cualann marks the district of Cualu. Slige Chualann marks the road to Cualu.",
+  "entities": [
+    {
+      "entity": "Leinster",
+      "type": "place"
+    },
+    {
+      "entity": "Liffey",
+      "type": "place"
+    },
+    {
+      "entity": "Crích Cualann",
+      "type": "place"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Cualu",
+      "attribute": "a former territory of Leinster"
+    },
+    {
+      "entity": "Cualu",
+      "attribute": "named for the Cualainn people of Ptolemy's record"
+    },
+    {
+      "entity": "Crích Cualann",
+      "attribute": "the district of Cualu"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Cualu'."
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Cualu fixes the early territory that gave Wicklow its district names.",
+    "key_results": [
+      "The territory ran from the Liffey to Arklow.",
+      "Glendalough stood inside Cualu.",
+      "The Cualainn people carry the name back to Ptolemy's era.",
+      "Crích Cualann and Slige Chualann both preserve it."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Cualu'."
+  }
+}

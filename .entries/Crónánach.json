@@ -12,6 +12,14 @@
     {
       "entity": "Fenian Cycle",
       "attribute": "home to his story"
+    },
+    {
+      "entity": "Crónánach",
+      "attribute": "a performer of crónán"
+    },
+    {
+      "entity": "Crónánach",
+      "attribute": "a churl whose pipes lull labouring women"
     }
   ],
   "entities": [
@@ -30,20 +38,30 @@
     {
       "entity": "piper",
       "type": "person"
+    },
+    {
+      "entity": "Fianna",
+      "type": "group"
+    },
+    {
+      "entity": "Fionn mac Cumhaill",
+      "type": "hero"
     }
   ],
   "sources": [
-    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.",
+    "MacKillop 2008, s.v. 'Crónánach'."
   ],
   "cyphertext": "A5JBxHgVvyfVAGQgcZ792d0lE6uCl27OyUO1GcqDLx499LHs-7kPol85aG4DI0Slf3wQ1ca03Xvn7AaqzUVGHIUZLfPUcONWPZPTJ_5h3Vl9jb8GCiMxRMx71SJWa461ffrEVMfW_gUmvtms43cWP0pADW-6Pjsg0c9H6KnssFR2QLu7_Y9zrNsv3ccI99zjYC0Lrij1FkVWC6LrMLjA_FQfDppwc__uMru5HHfKKEzDxybwyCf4EZ6wXWT8jc667_OLQzqwOb4lMTZ8KOlcVjObw9Bp2PuRF5G2kUP1vaVXu5WZoMgmZk_gjqxJHz_s1cJsnUfHwczdrHbe_8c5ybPyewczBHOyPfOh",
   "salt": "JgVJPB7I51eaBRyFFSVtIg==",
-  "text": "Crónánach is a hero of the Irish Fenian tale. His face carried no beauty, yet his piping was superb. At dawn his features became handsome, fit to pass as a king.",
+  "text": "Crónánach is a hero of the Irish Fenian tale. His face carried no beauty, yet his piping was superb. At dawn his features became handsome, fit to pass as a king. The dictionary adds the frame around that scene. The name names a performer of crónán, the droning song of Irish practice. He comes unbidden to Fionn's hunting mound as an enormous churl of crooked shape. There he reveals the destiny the mound holds for Fionn. He plays two pipes there, and their sweet sound could lull wounded men and women in labour to sleep. Early Irish law ranks the singers of crónán among bond or slave musicians.",
   "okr": {
     "objective": "Crónánach is an Otherworld piper whose plain face hides a king's looks.",
     "key_results": [
       "He pipes with great skill despite an ugly cast.",
       "Morning light turns him into a handsome man.",
-      "His story comes from the Fenian Cycle."
+      "His story comes from the Fenian Cycle.",
+      "MacKillop adds the crónán singer frame and the Fionn mound scene."
     ],
     "evidence": "Monaghan, Encyclopedia of Celtic Mythology and Folklore"
   }

@@ -3,28 +3,45 @@
   "attributes": [
     {
       "entity": "Cuirithir",
-      "attribute": "figure tied to the account of Liadan"
+      "attribute": "the poet-lover of Liadain"
+    },
+    {
+      "entity": "Cuirithir",
+      "attribute": "bound with Liadain under a churchman's vow"
+    },
+    {
+      "entity": "Liadain",
+      "attribute": "the beloved of the poem"
     }
   ],
   "entities": [
     {
-      "entity": "Liada",
+      "entity": "Cuirithir",
+      "type": "mythological figure"
+    },
+    {
+      "entity": "Liadain",
+      "type": "mythological figure"
+    },
+    {
+      "entity": "Liadan",
       "type": "mythological figure"
     }
   ],
   "sources": [
-    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.",
+    "MacKillop 2008, s.v. 'Cuirithir'."
   ],
   "cyphertext": "ARvulTeyGTQM0F3T8xzVQrU8NCUdCLg5XR7bYsRk7H38Si-PluPadM9DcjIaaCLsEzw=",
   "salt": "PDLwA6GQAvxWYWUC3_FQ5w==",
-  "text": "The source prints the name Cuirithir only as a pointer. It sends the reader to the account of Liadan for the fuller story.",
+  "text": "Cuirithir is the poet-lover of Liadain in the old Irish story of the pair. Their ninth-century poem of meetings and partings is often known in English as the meeting of Liadain and Cuirithir. A churchman placed them under a vow, and the pair lived on apart from each other. The name also serves later readers as a pointer. It sends the reader to the account of Liadan for the fuller story.",
   "okr": {
-    "objective": "Cuirithir is a companion whose story is easier to follow under Liadan.",
+    "objective": "Cuirithir is the poet-lover of Liadain and a pointer to her fuller account.",
     "key_results": [
-      "The leaf is only a cross reference to Liadan.",
-      "The full story sits under the name Liadan.",
-      "The name serves chiefly as a route into the Liadan account."
+      "His story lives in the ninth-century poem of the pair.",
+      "A churchman set the lovers under a vow of parting.",
+      "The name routes readers to the Liadan account."
     ],
-    "evidence": "Monaghan, Encyclopedia of Celtic Mythology and Folklore"
+    "evidence": "Monaghan, Encyclopedia of Celtic Mythology and Folklore; MacKillop, Dictionary of Celtic Mythology"
   }
 }
