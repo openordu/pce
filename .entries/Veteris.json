@@ -1,0 +1,38 @@
+{
+  "name": "Veteris",
+  "text": "Veteris is a variant spelling of the British god Vitiris. The fuller record of that god sits under the Vitiris head. The two forms appear side by side in the dictionary's cross-notes. The main record likewise lists Veteris among its many spellings.",
+  "entities": [
+    {
+      "entity": "Veteris",
+      "type": "god"
+    },
+    {
+      "entity": "Vitiris",
+      "type": "god"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Veteris",
+      "attribute": "variant spelling of the British god Vitiris"
+    },
+    {
+      "entity": "Veteris",
+      "attribute": "record points to the Vitiris head"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Veteris'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Veteris is a variant spelling of the British god Vitiris",
+    "key_results": [
+      "variant name-form of the god Vitiris",
+      "signpost record citing the main head"
+    ],
+    "evidence": "MacKillop 2008, s.v. Veteris."
+  }
+}

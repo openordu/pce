@@ -1,0 +1,38 @@
+{
+  "name": "White Horse of Uffington",
+  "text": "White Horse of Uffington is a signpost entry for the Uffington White Horse. The printed head sends readers straight to that record. The fuller account of the chalk figure sits under the Uffington White Horse head.",
+  "entities": [
+    {
+      "entity": "White Horse of Uffington",
+      "type": "Place"
+    },
+    {
+      "entity": "Uffington White Horse",
+      "type": "Place"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "White Horse of Uffington",
+      "attribute": "see-reference form of the Uffington White Horse head"
+    },
+    {
+      "entity": "White Horse of Uffington",
+      "attribute": "the chalk figure's record sits under Uffington White Horse"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'White Horse of Uffington'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "White Horse of Uffington is a signpost entry for the Uffington White Horse",
+    "key_results": [
+      "see-reference to the chalk hill figure",
+      "the full record lives under Uffington White Horse"
+    ],
+    "evidence": "MacKillop 2008, s.v. White Horse of Uffington."
+  }
+}

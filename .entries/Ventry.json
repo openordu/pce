@@ -1,0 +1,42 @@
+{
+  "name": "Ventry",
+  "text": "Ventry is a signpost entry for the Battle of Ventry. The printed head carries the three forms Ventry, Ventry Harbour, and Battle of Ventry. The dictionary sends all of them to its article Cath Fionntrágha, the Fenian tale of that battle. That article carries the fuller record, and the tale's opponent Dáire Donn styles himself King of the World there.",
+  "entities": [
+    {
+      "entity": "Ventry",
+      "type": "Place"
+    },
+    {
+      "entity": "Cath Fionntrágha",
+      "type": "Saga"
+    },
+    {
+      "entity": "Dáire Donn",
+      "type": "Person"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Ventry",
+      "attribute": "signpost head for Ventry Harbour and the Battle of Ventry"
+    },
+    {
+      "entity": "Ventry",
+      "attribute": "points to the Fenian battle tale Cath Fionntrágha"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Ventry, Ventry Harbour, Battle of'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Ventry is a signpost entry for the Battle of Ventry",
+    "key_results": [
+      "see-reference to the Battle of Ventry tale",
+      "the full record lives under Cath Fionntrágha"
+    ],
+    "evidence": "MacKillop 2008, s.v. Ventry, Ventry Harbour, Battle of."
+  }
+}

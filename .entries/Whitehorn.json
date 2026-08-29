@@ -1,0 +1,38 @@
+{
+  "name": "Whitehorn",
+  "text": "Whitehorn is a name belonging to Finnbennach, the white-horned bull of Connacht. The fuller record of that bull and his feud sits under the Finnbennach head. The Tain Bo Cuailnge turns on the quarrel between him and the brown bull of Ulster.",
+  "entities": [
+    {
+      "entity": "Whitehorn",
+      "type": "animal"
+    },
+    {
+      "entity": "Finnbennach",
+      "type": "animal"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Whitehorn",
+      "attribute": "name for Finnbennach, the White Bull of Connacht"
+    },
+    {
+      "entity": "Whitehorn",
+      "attribute": "record points to the Finnbennach head"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Whitehorn'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Whitehorn is a name belonging to Finnbennach, the white-horned bull of Connacht",
+    "key_results": [
+      "byname of the White Bull of Connacht",
+      "signpost citing the Finnbennach record"
+    ],
+    "evidence": "MacKillop 2008, s.v. Whitehorn."
+  }
+}

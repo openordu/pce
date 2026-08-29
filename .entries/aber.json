@@ -1,0 +1,46 @@
+{
+  "name": "aber",
+  "text": "Aber is the word for a river mouth or estuary in Welsh, Cornish, and Breton. Countless place-names open with this element. The dictionary cross-notes Old Irish inber, Modern Irish inbhear, Scottish Gaelic inbhir, and Manx inver. Those related forms carry the same geography into Ireland, Scotland, and the Isle of Man.",
+  "entities": [
+    {
+      "entity": "aber",
+      "type": "Concept"
+    },
+    {
+      "entity": "inber",
+      "type": "Concept"
+    },
+    {
+      "entity": "inbhear",
+      "type": "Concept"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "aber",
+      "attribute": "Welsh, Cornish, and Breton word for a river mouth or estuary"
+    },
+    {
+      "entity": "aber",
+      "attribute": "first element in countless place-names"
+    },
+    {
+      "entity": "aber",
+      "attribute": "cognate with Irish inber, Gaelic inbhir, Manx inver"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'aber'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Aber is the word for a river mouth or estuary in Welsh, Cornish, and Breton",
+    "key_results": [
+      "place-name element of the Celtic coasts",
+      "one word family from Brittany to Man"
+    ],
+    "evidence": "MacKillop 2008, s.v. aber."
+  }
+}

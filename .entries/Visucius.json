@@ -1,0 +1,50 @@
+{
+  "name": "Visucius",
+  "text": "Visucius is the Latin name of a dimly seen deity, Celtic in all likelihood. Inscriptions naming him run from Aquitaine in south-western France as far as the border between Gaul and Germany. At some sites the female consort Visucia joins him, the pair a divine couple. The surviving evidence leaves his standing ambiguous. He may be a figure in his own right, or an aspect worn by both the Gaulish Mars and Mercury. So wide a band of inscriptions marks him across much of Gaul. The doubt leaves him among the less certain figures of the Gaulish pantheon.",
+  "entities": [
+    {
+      "entity": "Visucius",
+      "type": "Deity"
+    },
+    {
+      "entity": "Visucia",
+      "type": "Deity"
+    },
+    {
+      "entity": "Mars",
+      "type": "Person"
+    },
+    {
+      "entity": "Mercury",
+      "type": "Person"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Visucius",
+      "attribute": "Latin-named deity of presumed Celtic origin, from Aquitaine to the Gaul-German border"
+    },
+    {
+      "entity": "Visucius",
+      "attribute": "consort Visucia forms a divine couple with him in some inscriptions"
+    },
+    {
+      "entity": "Visucius",
+      "attribute": "possibly a discrete god or an aspect of both Mars and Mercury"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Visucius'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Visucius is the Latin name of a dimly seen deity, Celtic in all likelihood",
+    "key_results": [
+      "shadowy Gaulish deity of wide inscription spread",
+      "read either as his own god or as an aspect of Mars and Mercury"
+    ],
+    "evidence": "MacKillop 2008, s.v. Visucius."
+  }
+}
