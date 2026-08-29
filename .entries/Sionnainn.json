@@ -1,0 +1,38 @@
+{
+  "name": "Sionnainn",
+  "text": "Sionnainn prints beside Sionann as a variant form of the goddess recorded under Sínann. The Sínann node holds the full record of the Shannon's namesake. It tells of her drowning at Connla's Well and of the river named for her.",
+  "entities": [
+    {
+      "entity": "Sionnainn",
+      "type": "Person"
+    },
+    {
+      "entity": "Sínann",
+      "type": "Person"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Sionnainn",
+      "attribute": "variant form of the goddess Sínann"
+    },
+    {
+      "entity": "Sionnainn",
+      "attribute": "printed headword beside the form Sionann"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Sionnainn'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Sionnainn prints beside Sionann as a variant form of the goddess recorded under Sínann",
+    "key_results": [
+      "variant of the goddess Sínann",
+      "record kept under the Sínann article"
+    ],
+    "evidence": "MacKillop 2008, s.v. Sionnainn."
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "name": "Sinsar of the Battles",
+  "text": "Sinsar of the Battles is the name carried in the King of the World record. The dictionary routes this entry there, and that node holds the fuller account. In the Battle of Ventry that world-king figure is Dáire Donn, while elsewhere he is Sinsar.",
+  "entities": [
+    {
+      "entity": "Sinsar of the Battles",
+      "type": "Person"
+    },
+    {
+      "entity": "King of the World",
+      "type": "Concept"
+    },
+    {
+      "entity": "Dáire Donn",
+      "type": "Person"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Sinsar of the Battles",
+      "attribute": "bearer-name within the King of the World headword"
+    },
+    {
+      "entity": "Sinsar of the Battles",
+      "attribute": "entry cross-referenced to the King of the World record"
+    },
+    {
+      "entity": "Sinsar of the Battles",
+      "attribute": "Dáire Donn holds the role in the Battle of Ventry"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Sinsar of the Battles'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Sinsar of the Battles is the name carried in the King of the World record",
+    "key_results": [
+      "name borne by the imperious Fenian figure",
+      "record kept under the King of the World article"
+    ],
+    "evidence": "MacKillop 2008, s.v. Sinsar of the Battles."
+  }
+}

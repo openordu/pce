@@ -1,0 +1,46 @@
+{
+  "name": "Snowdon",
+  "text": "Snowdon, in Welsh Eryri, is the highest mountain in Wales and England at 3,560 feet. It stands 12 miles south-east of Caernarfon in Gwynedd, north-western Wales. A small range of peaks surrounds it, sometimes known collectively as Snowdonia. Welsh oral tradition celebrates the mountain widely. It is the home of a famous eagle and of the giant Rhita Gawr. J. E. Lloyd wrote on the mountains' history and legend in a Cardiff volume of 1925.",
+  "entities": [
+    {
+      "entity": "Snowdon",
+      "type": "Place"
+    },
+    {
+      "entity": "Rhita Gawr",
+      "type": "Person"
+    },
+    {
+      "entity": "Gwynedd",
+      "type": "Place"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Snowdon",
+      "attribute": "highest mountain of Wales and England, 3,560 feet, Welsh name Eryri"
+    },
+    {
+      "entity": "Snowdon",
+      "attribute": "12 miles south-east of Caernarfon in Gwynedd, ringed by the Snowdonia peaks"
+    },
+    {
+      "entity": "Snowdon",
+      "attribute": "home of a famous eagle and of the giant Rhita Gawr in Welsh tradition"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Snowdon'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Snowdon, in Welsh Eryri, is the highest mountain in Wales and England at 3,560 feet",
+    "key_results": [
+      "highest peak of Wales and England, the Welsh Eryri",
+      "seat of the giant Rhita Gawr in oral tradition"
+    ],
+    "evidence": "MacKillop 2008, s.v. Snowdon."
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "name": "Senmag Étair",
+  "text": "Senmag Étair is the printed variant of the plain-name recorded under Mag nElta. The Mag nElta node holds the fuller record of the Dublin plain. That plain, the old field of the bird flock, lay between Tallaght, Clontarf, and Howth. The Partholonians of the Book of Invasions settled on it.",
+  "entities": [
+    {
+      "entity": "Senmag Étair",
+      "type": "Place"
+    },
+    {
+      "entity": "Mag nElta",
+      "type": "Place"
+    },
+    {
+      "entity": "Partholonians",
+      "type": "Person"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Senmag Étair",
+      "attribute": "printed variant of the plain-name Mag nElta"
+    },
+    {
+      "entity": "Senmag Étair",
+      "attribute": "plain between Tallaght, Clontarf, and Howth, settled by the Partholonians"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Senmag Étair'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Senmag Étair is the printed variant of the plain-name recorded under Mag nElta",
+    "key_results": [
+      "variant form of the Mag nElta plain-name",
+      "record routes to the Mag nElta article"
+    ],
+    "evidence": "MacKillop 2008, s.v. Senmag Étair."
+  }
+}

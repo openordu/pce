@@ -1,0 +1,59 @@
+{
+  "name": "Simon Magus",
+  "text": "Simon Magus is a figure of biblical origin who gathered a huge body of medieval legend. Many of those tales entered Celtic literature, where Ireland calls him Símón Drui. The Acts of the Apostles charge him with trafficking in sacred things. From that charge the church names the crime of simony. Medieval storytellers often set him disputing with Peter and Paul, boasting he could fly to heaven. Isidore of Seville recorded that Simon died in the reign of Emperor Nero. Nero ruled from AD 54 to 68, while Isidore lived from about 560 to 636. Irish tradition ties Simon closely to Mug Ruith, and the latter's own name may spring from his. Together the pair built the roth rámach, the rowing wheel, a flying machine later held in fear. Simon's three sons raped Tlachtga, the daughter of Mug Ruith. She delivered triplets on a hill in County Meath. That birth prompted the annual fair, the óenach, held there.",
+  "entities": [
+    {
+      "entity": "Simon Magus",
+      "type": "Person"
+    },
+    {
+      "entity": "Mug Ruith",
+      "type": "Person"
+    },
+    {
+      "entity": "Tlachtga",
+      "type": "Person"
+    },
+    {
+      "entity": "Acts of the Apostles",
+      "type": "Text"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Simon Magus",
+      "attribute": "biblical sorcerer, Irish name Símón Drui"
+    },
+    {
+      "entity": "Simon Magus",
+      "attribute": "Acts of the Apostles charge founded the crime of simony"
+    },
+    {
+      "entity": "Simon Magus",
+      "attribute": "disputant of Peter and Paul, boasted of flying to heaven"
+    },
+    {
+      "entity": "Simon Magus",
+      "attribute": "companion of Mug Ruith, builder of the flying wheel roth rámach"
+    },
+    {
+      "entity": "Simon Magus",
+      "attribute": "sons' assault on Tlachtga prompted the annual Meath fair"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Simon Magus'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Simon Magus is a figure of biblical origin who gathered a huge body of medieval legend",
+    "key_results": [
+      "biblical sorcerer absorbed into Celtic legend",
+      "partner of Mug Ruith in the flying wheel roth rámach",
+      "death under Nero recorded by Isidore of Seville"
+    ],
+    "evidence": "MacKillop 2008, s.v. Simon Magus."
+  }
+}

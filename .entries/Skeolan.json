@@ -1,0 +1,42 @@
+{
+  "name": "Skeolan",
+  "text": "Skeolan is the anglicized form of Fionn's hound recorded under Sceolang. The dictionary prints it in the Sceolang headword line itself. The Sceolan node carries the record of Bran's brother.",
+  "entities": [
+    {
+      "entity": "Skeolan",
+      "type": "Animal"
+    },
+    {
+      "entity": "Sceolan",
+      "type": "Animal"
+    },
+    {
+      "entity": "Fionn mac Cumhaill",
+      "type": "Person"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Skeolan",
+      "attribute": "anglicized form printed within the Sceolang headword"
+    },
+    {
+      "entity": "Skeolan",
+      "attribute": "entry cross-referenced to the Sceolang record"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Skeolan'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Skeolan is the anglicized form of Fionn's hound recorded under Sceolang",
+    "key_results": [
+      "anglicized form of Sceolang",
+      "record kept under the Sceolang article"
+    ],
+    "evidence": "MacKillop 2008, s.v. Skeolan."
+  }
+}

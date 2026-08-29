@@ -1,0 +1,55 @@
+{
+  "name": "Echtge",
+  "text": "Echtge is an Irish place-name for the mountain range between Counties Clare and Galway. The hills rise to 1,243 feet between Loughrea and Lough Derg. English usage usually calls the range Slieve Aughty. W. B. Yeats and Lady Gregory often cited the name in their writings. Place-name legend hands the mountains to Echthge, a lady of the Tuatha Dé Danann. She received the range as her dowry, so the story runs. Lady Gregory gave the abandoned Irish-speaking villages of these hills credit for much of her folklore store. Her book Visions and Beliefs in the West of Ireland appeared at London in 1920.",
+  "entities": [
+    {
+      "entity": "Echtge",
+      "type": "Place"
+    },
+    {
+      "entity": "Lady Gregory",
+      "type": "Person"
+    },
+    {
+      "entity": "W. B. Yeats",
+      "type": "Person"
+    },
+    {
+      "entity": "Tuatha Dé Danann",
+      "type": "Person"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Echtge",
+      "attribute": "range to 1,243 feet between Loughrea and Lough Derg, Clare and Galway"
+    },
+    {
+      "entity": "Echtge",
+      "attribute": "English name Slieve Aughty"
+    },
+    {
+      "entity": "Echtge",
+      "attribute": "legend gives the range as dowry to Echthge of the Tuatha Dé Danann"
+    },
+    {
+      "entity": "Echtge",
+      "attribute": "cited by Yeats and by Lady Gregory in her 1920 folklore book"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Echtge'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Echtge is an Irish place-name for the mountain range between Counties Clare and Galway",
+    "key_results": [
+      "Clare-Galway range behind the name Slieve Aughty",
+      "dowry legend of Echthge of the Tuatha Dé Danann",
+      "frequent citation in Yeats and Lady Gregory"
+    ],
+    "evidence": "MacKillop 2008, s.v. Echtge."
+  }
+}

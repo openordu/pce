@@ -1,0 +1,38 @@
+{
+  "name": "Sharvan",
+  "text": "Sharvan is the anglicized spelling of the ogre recorded under Searbhán. That node carries the record of the rowan-guarding ogre of the Diarmait and Gráinne tale. It tells how Diarmait felled him with his own iron club.",
+  "entities": [
+    {
+      "entity": "Sharvan",
+      "type": "Person"
+    },
+    {
+      "entity": "Searbhan",
+      "type": "Person"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Sharvan",
+      "attribute": "anglicized spelling of Searbhán"
+    },
+    {
+      "entity": "Sharvan",
+      "attribute": "entry cross-referenced to the Searbhán record"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Sharvan'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Sharvan is the anglicized spelling of the ogre recorded under Searbhán",
+    "key_results": [
+      "anglicized form of Searbhán",
+      "record kept under the Searbhán article"
+    ],
+    "evidence": "MacKillop 2008, s.v. Sharvan."
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "name": "Sithallin",
+  "text": "Sithallin is a character of James Macpherson's Ossian, published between 1760 and 1763. Swaran killed him along with his brother Ardan. The dictionary judges the name an adaptation of Ailbhin, more often written Ainle. Ainle numbered among the sons of Uisnech.",
+  "entities": [
+    {
+      "entity": "Sithallin",
+      "type": "Person"
+    },
+    {
+      "entity": "Ardan",
+      "type": "Person"
+    },
+    {
+      "entity": "Ainle",
+      "type": "Person"
+    },
+    {
+      "entity": "Ossian",
+      "type": "Text"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Sithallin",
+      "attribute": "character of Macpherson's Ossian, killed by Swaran"
+    },
+    {
+      "entity": "Sithallin",
+      "attribute": "brother of Ardan in the poem"
+    },
+    {
+      "entity": "Sithallin",
+      "attribute": "probable adaptation of Ainle, son of Uisnech"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Sithallin'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Sithallin is a character of James Macpherson's Ossian, published between 1760 and 1763",
+    "key_results": [
+      "Ossian character slain with Ardan by Swaran",
+      "name adapted from Ainle of the sons of Uisnech"
+    ],
+    "evidence": "MacKillop 2008, s.v. Sithallin."
+  }
+}

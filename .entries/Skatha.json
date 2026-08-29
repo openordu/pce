@@ -1,0 +1,42 @@
+{
+  "name": "Skatha",
+  "text": "Skatha is the anglicized form of the warrior woman recorded under Scáthach. The Scáthach node carries the record of Cúchulainn's teacher on the isle of Skye. The name reaches print in that anglicized shape beside the fuller Gaelic form.",
+  "entities": [
+    {
+      "entity": "Skatha",
+      "type": "Person"
+    },
+    {
+      "entity": "Scáthach",
+      "type": "Person"
+    },
+    {
+      "entity": "Skye",
+      "type": "Place"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Skatha",
+      "attribute": "anglicized form of Scáthach"
+    },
+    {
+      "entity": "Skatha",
+      "attribute": "entry cross-referenced to the Scáthach record"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Skatha'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Skatha is the anglicized form of the warrior woman recorded under Scáthach",
+    "key_results": [
+      "anglicized form of Scáthach",
+      "record kept under the Scáthach article"
+    ],
+    "evidence": "MacKillop 2008, s.v. Skatha."
+  }
+}

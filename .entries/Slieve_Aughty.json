@@ -1,0 +1,38 @@
+{
+  "name": "Slieve Aughty",
+  "text": "Slieve Aughty is the English name for the mountain range recorded under Echtge. The dictionary routes this entry to that article, which carries the fuller record. The hills rise between Loughrea and Lough Derg on the Clare-Galway border.",
+  "entities": [
+    {
+      "entity": "Slieve Aughty",
+      "type": "Place"
+    },
+    {
+      "entity": "Echtge",
+      "type": "Place"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Slieve Aughty",
+      "attribute": "English name of the range recorded under Echtge"
+    },
+    {
+      "entity": "Slieve Aughty",
+      "attribute": "entry cross-referenced to the Echtge record"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Slieve Aughty'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Slieve Aughty is the English name for the mountain range recorded under Echtge",
+    "key_results": [
+      "English name of the Echtge range",
+      "fuller record under the Echtge article"
+    ],
+    "evidence": "MacKillop 2008, s.v. Slieve Aughty."
+  }
+}

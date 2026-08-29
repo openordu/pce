@@ -1,0 +1,42 @@
+{
+  "name": "Sláinge",
+  "text": "Sláinge, printed beside the form Sláine, is a separate record of the royal line. Reputedly he was the first of the 142 kings of Tara, reigning in the twentieth century BC. The dictionary cross-refers the sense to the Sláine entry printed first.",
+  "entities": [
+    {
+      "entity": "Sláinge",
+      "type": "Person"
+    },
+    {
+      "entity": "Sláine",
+      "type": "Person"
+    },
+    {
+      "entity": "Tara",
+      "type": "Place"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Sláinge",
+      "attribute": "printed headword beside Sláine"
+    },
+    {
+      "entity": "Sláinge",
+      "attribute": "reputedly the first of the 142 kings of Tara, twentieth century BC"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Sláinge'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Sláinge, printed beside the form Sláine, is a separate record of the royal line",
+    "key_results": [
+      "reputed first king of Tara",
+      "reign dated by the dictionary to the twentieth century BC"
+    ],
+    "evidence": "MacKillop 2008, s.v. Sláinge."
+  }
+}
