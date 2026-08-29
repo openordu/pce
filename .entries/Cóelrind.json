@@ -1,0 +1,47 @@
+{
+  "name": "Cóelrind",
+  "text": "Cóelrind is the name of a well in Irish story. The dictionary heads its entry as the Well of Cóelrind and sends readers to Connla's Well. The same spring feeds the longer tale of the goddess Bóand. When she defied the magic of the well, its water rose and mutilated her. The flood drowned her and rushed seaward as a river. The Boyne tale keeps this flood at its centre. A second telling places the forbidden well at the mound of Nechtán, where her lapdog Dabilla meets his end. Readers should follow the Connla's Well entry for the fuller lore of the spring and its hazels.",
+  "entities": [
+    {
+      "entity": "Connla’s Well",
+      "type": "location"
+    },
+    {
+      "entity": "Bóand",
+      "type": "mythological figure"
+    },
+    {
+      "entity": "Boyne River",
+      "type": "location"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Cóelrind",
+      "attribute": "the name of a well sent to Connla's Well"
+    },
+    {
+      "entity": "Bóand",
+      "attribute": "defied the well and was drowned by its rising water"
+    },
+    {
+      "entity": "Dabilla",
+      "attribute": "the lapdog of Bóand in the flood tale"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Cóelrind'."
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Cóelrind records the well name routed to Connla's Well and tied to the Bóand flood tale.",
+    "key_results": [
+      "The Well of Cóelrind is the entry that points to Connla's Well.",
+      "Bóand defied the well and the rising water drowned her.",
+      "The flood rushed seaward and became the river Boyne."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Cóelrind'."
+  }
+}

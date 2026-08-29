@@ -1,0 +1,38 @@
+{
+  "name": "Cébhra",
+  "text": "Cébhra is a variant form of the name Cainche. The dictionary treats the two shapes as one figure, the daughter of Fionn who mates with Goll mac Morna. Readers who want her tale should follow the Cainche entry. That entry keeps the Fenian ballad story and the anglicized form Keeva of the White Skin.",
+  "entities": [
+    {
+      "entity": "Cainche",
+      "type": "mythological figure"
+    },
+    {
+      "entity": "Goll mac Morna",
+      "type": "mythological figure"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Cébhra",
+      "attribute": "a variant form of the name Cainche"
+    },
+    {
+      "entity": "Cainche",
+      "attribute": "the figure behind the variant form Cébhra"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Cébhra'."
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Cébhra routes readers from the variant form to the Cainche entry.",
+    "key_results": [
+      "Cébhra is a variant form of Cainche.",
+      "The same Fenian figure sits behind both shapes of the name."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Cébhra'."
+  }
+}

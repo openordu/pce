@@ -31,21 +31,48 @@ attributes:
   - geis taboo whose breach led to Cúchulainn's death
   - Forgall lord whose daughter Emer married Cúchulainn
   - Cúchulainn trained abroad with the amazonian teacher Scáthach
+  - Cúchulainn carries the aliases Cú Chulainn, Cúchulain, Cú Chulaind, Cuchulinn, Cuculain
+  - Cúchulainn name means the hound of Culann, the smith
+  - Cúchulainn ranks with Lug Lámfhota and Fionn mac Cumhaill as one of the three great heroes
+  - Cúchulainn has been compared with Hercules and Siegfried
+  - Cúchulainn has been linked to the Gaulish Mercury, Esus, and Ogmios
+  - Cúchulainn birth-name Sétanta suggests the Setantii people of Ptolemy
+  - Cúchulainn had seven foster-fathers led by Conchobar
+  - Cúchulainn won his adult name by killing the hound of Culann
+  - Cúchulainn hair shows brown, bloodied, and blond in three colours
+  - Cúchulainn had seven pupils in each eye and the grip of a hawk
+  - Cúchulainn trained under Scáthach and loved Aífe in Scotland
+  - Cúchulainn needed three vats of iced water when Mugain bared her breasts
+  - Cúchulainn wields the Gáe Bulga and the Caladbolg
+  - Cúchulainn drives the chariot of Láeg behind the Liath Macha
+  - Cúchulainn lives at Mag Muirtheimne north of the Boyne
+  - Cúchulainn bears the riastrad battle fury marked by the lón láith
+  - Cúchulainn kills his friend Ferdiad at the ford in the Táin
+  - Cúchulainn dies standing, tied to a pillar at Knockbridge
+  - Lugaid mac Con Roi beheads Cúchulainn and falls to Conall Cernach
 categories:
   - poem
-  - mythological figure
-  - person
   - king
-  - smith
-  - text
-  - hero
-  - tale
-  - family
-  - concept
-  - event
-  - feast
   - lord
+  - location
+  - family
+  - deity
+  - person
+  - mythological figure
+  - tale
+  - text
+  - literary work
+  - queen
+  - event
+  - smith
+  - animal
+  - poet
+  - hero
+  - feast
   - instructor
+  - warrior
+  - concept
+  - weapon
 entities:
   - Cúchulainn(hero)
   - Conall Cernach(hero)
@@ -73,6 +100,47 @@ entities:
   - Forgall(lord)
   - Shahnama(text)
   - Hildebrandslied(text)
+  - Lug Lámfhota; Lugh(mythological figure)
+  - Fionn mac Cumhaill(mythological figure)
+  - Hercules(mythological figure)
+  - Mercury(deity)
+  - Esus(deity)
+  - Ogmios(deity)
+  - Sétanta(hero)
+  - Dechtire(person)
+  - Blaí Briugu(person)
+  - Fergus mac Róich(hero)
+  - Amairgin(poet)
+  - Findchóem(person)
+  - Emain Macha(location)
+  - Scáthach(warrior)
+  - Aífe(warrior)
+  - Eithne Ingubai(person)
+  - Fand(person)
+  - Manannán mac Lir(mythological figure)
+  - Étan(deity)
+  - Cathach Chatutchenn(person)
+  - Derbforgaill(person)
+  - Mugain(queen)
+  - Gáe Bulga(weapon)
+  - Caladbolg(weapon)
+  - Claidheamh Soluis(weapon)
+  - Cruaidín Catutchenn(weapon)
+  - Liath Macha(animal)
+  - Láeg(person)
+  - Mag Muirtheimne(location)
+  - Boyne River(location)
+  - Táin bó Cuailnge (Cattle Raid of Cooley)(event)
+  - Medb(queen)
+  - Ailill(king)
+  - Ferdiad(hero)
+  - Briccriu's Feast(literary work)
+  - Badb(deity)
+  - Cailitin(person)
+  - Faughart(location)
+  - Lugaid mac Con Roi(hero)
+  - Cú Roí(hero)
+  - Macpherson(poet)
 tags:
   - Cúchulainn
   - Conall Cernach
@@ -100,10 +168,51 @@ tags:
   - Forgall
   - Shahnama
   - Hildebrandslied
+  - Lug Lámfhota; Lugh
+  - Fionn mac Cumhaill
+  - Hercules
+  - Mercury
+  - Esus
+  - Ogmios
+  - Sétanta
+  - Dechtire
+  - Blaí Briugu
+  - Fergus mac Róich
+  - Amairgin
+  - Findchóem
+  - Emain Macha
+  - Scáthach
+  - Aífe
+  - Eithne Ingubai
+  - Fand
+  - Manannán mac Lir
+  - Étan
+  - Cathach Chatutchenn
+  - Derbforgaill
+  - Mugain
+  - Gáe Bulga
+  - Caladbolg
+  - Claidheamh Soluis
+  - Cruaidín Catutchenn
+  - Liath Macha
+  - Láeg
+  - Mag Muirtheimne
+  - Boyne River
+  - Táin bó Cuailnge (Cattle Raid of Cooley)
+  - Medb
+  - Ailill
+  - Ferdiad
+  - Briccriu's Feast
+  - Badb
+  - Cailitin
+  - Faughart
+  - Lugaid mac Con Roi
+  - Cú Roí
+  - Macpherson
 ---
 ``` tab [group1:Info]
 ::: magazinestyle
-Cúchulainn stands as the Ulster Cycle's greatest fighting man. As a boy he carried the name Sétantae. The tale of his birth marks him apart from other men. His mother Deichtine was the sister of Conchobar, king of the Ulaid. The stories give him a divine father, Lug, and an earthly father, Sualtaim. The tale Compert Con Culainn recounts his conception. His birth is a triple conception. The Ulaid even suspected a drunken incestuous meeting between Conchobar and his own sister. He won his warrior name after he killed the hound of the smith Culann. That name means the hound of Culann. His boyhood deeds tell how this came about. Cú Chulainn also grew up as the foster-brother of the hero Conall Cernach. Conall was the son of Amairgin, a bard as well as a fighter. The bitter satirist Aithirne once came to probe Amairgin. He sought an opening that would let a sharp taunt strike home. Amairgin chose words that gave the satirist no foothold. The boyhood deeds appear in a section of the Táin Bó Cuailnge. His fight with Culann's monstrous hound mirrors a hero's duel with an Otherworld monster. Later Cúchulainn won Emer, the daughter of the lord Forgall. He trained in the art of the sword under the war teacher Scáthach overseas. The tale Tochmarc Emire tells of this wooing and this training. It holds the prophetic poem Verba Scáthaige, the words of Scáthach. The tale Aided Énfir Aífe recounts how he killed his only son in one-on-one combat. A father killing his son also appears in other lands. It matches Sohrab and Rustem in the Persian Shahnama. The German Hildebrandslied also sets father against son. In the feast of Bricriu he beat the other Ulaid peers in hard trials. The dark Munster hero Cú Roí pressed him hardest there. In the great cattle raid he held the pass alone for his people. His death is told in Breislech Mór Maige Muirtheimne. Later accounts give the fuller story in Oidheadh Chon Culainn. His foes were the family of Calaitín. They killed him by breaching his gessa, his taboos, and by magic. Death came through the breaking of his taboos, not by a better sword. Wounded by venomous spears, he tied himself to a pillar and slew the waterdog that drank his blood.
+Cúchulainn stands as the Ulster Cycle's greatest fighting man. As a boy he carried the name Sétantae. The tale of his birth marks him apart from other men. His mother Deichtine was the sister of Conchobar, king of the Ulaid. The stories give him a divine father, Lug, and an earthly father, Sualtaim. The tale Compert Con Culainn recounts his conception. His birth is a triple conception. The Ulaid even suspected a drunken incestuous meeting between Conchobar and his own sister. He won his warrior name after he killed the hound of the smith Culann. That name means the hound of Culann. His boyhood deeds tell how this came about. Cú Chulainn also grew up as the foster-brother of the hero Conall Cernach. Conall was the son of Amairgin, a bard as well as a fighter. The bitter satirist Aithirne once came to probe Amairgin. He sought an opening that would let a sharp taunt strike home. Amairgin chose words that gave the satirist no foothold. The boyhood deeds appear in a section of the Táin Bó Cuailnge. His fight with Culann's monstrous hound mirrors a hero's duel with an Otherworld monster. Later Cúchulainn won Emer, the daughter of the lord Forgall. He trained in the art of the sword under the war teacher Scáthach overseas. The tale Tochmarc Emire tells of this wooing and this training. It holds the prophetic poem Verba Scáthaige, the words of Scáthach. The tale Aided Énfir Aífe recounts how he killed his only son in one-on-one combat. A father killing his son also appears in other lands. It matches Sohrab and Rustem in the Persian Shahnama. The German Hildebrandslied also sets father against son. In the feast of Bricriu he beat the other Ulaid peers in hard trials. The dark Munster hero Cú Roí pressed him hardest there. In the great cattle raid he held the pass alone for his people. His death is told in Breislech Mór Maige Muirtheimne. Later accounts give the fuller story in Oidheadh Chon Culainn. His foes were the family of Calaitín. They killed him by breaching his gessa, his taboos, and by magic. Death came through the breaking of his taboos, not by a better sword. Wounded by venomous spears, he tied himself to a pillar and slew the waterdog that drank his blood. MacKillop heads the entry with a set of spellings around the core name Cúchulainn. Cú Chulainn, Cúchulain, and Cuchulinn all name him, as do Cú Chulaind and Cuculain. The name means hound of Culann, the hound of the smith. He stands as the principal hero of the Ulster Cycle and the greatest hero of early Irish literature. Lug Lámfhota and Fionn mac Cumhaill stand beside him, and the three together top the heroes of early Ireland. All three may descend from one common source or may even be one figure. Learned readers of the nineteenth century compared him with Hercules and Siegfried. His quickness and his small dark stature have suggested a descent from the Gaulish Mercury that Caesar described. An older claim set him against the Gaulish god Esus, though commentators now dispute it. The birth-name Sétanta links him to the Setantii, the British people whom Ptolemy recorded. His portrayal sometimes echoes the earlier Celtic figure Ogmios. The accounts of his conception differ. Deichtine grieves for a lost foster-son, drinks water, and receives a tiny creature into her mouth. In some versions that creature is Lug Lámfhota. The Ulaid suspect a drunken violation by her brother Conchobar, so the king marries her to Sualtam mac Róich. Ashamed of her pregnancy, she delivers the foetus, gains her virginity back, and the aborted child lives on as Sétanta. Seven foster-fathers shared his rearing. Sencha gave him eloquence, Blaí Briugu comfort, and Fergus mac Róich his knee. Amairgin taught him, Conall Cernach served as his foster-brother, and Findchóem nursed him. Conchobar stood as his principal foster-father. The boy won his adult name at Emain Macha. He smashed the hound of the smith Culann against a doorpost. He then offered to rear a whelp and to serve as the hound himself. The crowd gave him the name that stuck. At the crown his hair turns blond. The middle part runs bloodied, and the roots stay brown. The Táin gives him four dimples of different colours in each cheek. Each eye holds seven pupils, and his seven fingers and toes grip like a hawk. He is still called handsome and attractive to women. Fergus tells Medb that no raven is more ravenous and no lion more ferocious. His salmon leap pounces on enemies like the jump of a modern player. Before he wooed Emer he killed the three sons of Nechtan, and the killing woke his riastrad, the battle fury. Her father Forgall demanded schooling under Scáthach in Scotland first, hoping the journey would kill the wooer. Instead the amazon trained him and he loved her colleague Aífe. Domnall Mildemail and his ugly daughter Domoll also taught him in Scotland. On his return he took Emer and her sister by force, yet Emer stands as his wife. Other texts name more wives and lovers. Eithne Ingubai may be Emer herself under another name. He dallied with Fand, the wife of Manannán mac Lir. He also consummated an affair with Bláithíne, the wife of Cú Roí. He rewarded Étan with a ring after a night of love. The female warrior Cathach loved him, as did Derbforgaill the swan maiden and Uathach the daughter of Scáthach. When Mugain, queen of Ulster, bared her breasts to cool his fury, he turned his eyes away. Three vats of iced water then cooled him. He exploded the first, boiled the second, and warmed the third. His son Connla was begotten unknowingly upon Aífe, and later tales give him a daughter called Finscoth. The spear Gáe Bulga serves as his chief weapon. Caladbolg is the sword he usually carries. Later oral tradition arms him with the Claidheamh Soluis, the sword of light also called Cruaidín Catutchenn. His favourite horse is the Liath Macha, and his charioteer is Láeg. His homeland is Mag Muirtheimne, the plain north of the Boyne toward Cooley in present Co. Louth. The riastrad transforms him before combat into a shape never seen before. His body quivers like a bulrush, and his calves and heels swing to the front. One eye sinks into his head. A column of dark blood rises from his scalp and forms a gloomy mist. A projection like a horn, the lón láith, breaks from his forehead and announces his readiness for battle. The best-known exploits sit in the Táin bó Cuailnge, where he holds Ulster alone against Medb and Ailill of Connacht. A key episode sets his duel with his friend Ferdiad at the ford. In Briccriu's Feast he wins the contest of heroes, and there he also takes the beheading game with the giant. In Aided Énfir Aífe he unknowingly kills his own son Connla. In Serglige Con Culainn he visits the Otherworld and binds himself to Fand. Oral tradition marks his slaying of the one-eyed Goll mac Carbada. His death varies by tale. In the better-known version Medb's vengeance kills his allies and his horse. He chains himself upright to a pillar-post so that he may die standing. His foes believe him dead only when a raven lands and starts to take his eyes. Tradition sets that pillar at Knockbridge in Co. Louth. Sometimes Badb drives his fall. Her father Cailitin died by his hand, and his slaying of Niam's honour brings her shapes against him. Brislech Mór Maige Muirtheimne tells the death through his breaking of a geis. Three crones offer the flesh of a cooked dog, and he eats. Cú Roí's son Lugaid mac Con Roi drives a javelin through his body, then beheads him at the pillar. Conall Cernach avenges his friend by slaying Lugaid. Macpherson's Ossian reshaped him as the druid Cuchullin. Standish James O'Grady romanticized him for a nationalist readership. Lady Gregory's Cuchulain of Muirthemne became the most widely read treatment. Yeats gave the hero his most esteemed English forms. On Baile's Strand, At the Hawk's Well, and The Death of Cuchulain lead the dramas. The poems Cuchulain's Fight with the Sea and Cuchulain Comforted stand beside them.
 
 :::
 ```
@@ -134,6 +243,25 @@ Cúchulainn stands as the Ulster Cycle's greatest fighting man. As a boy he carr
 - **geis**: taboo whose breach led to Cúchulainn's death
 - **Forgall**: lord whose daughter Emer married Cúchulainn
 - **Cúchulainn**: trained abroad with the amazonian teacher Scáthach
+- **Cúchulainn**: carries the aliases Cú Chulainn, Cúchulain, Cú Chulaind, Cuchulinn, Cuculain
+- **Cúchulainn**: name means the hound of Culann, the smith
+- **Cúchulainn**: ranks with Lug Lámfhota and Fionn mac Cumhaill as one of the three great heroes
+- **Cúchulainn**: has been compared with Hercules and Siegfried
+- **Cúchulainn**: has been linked to the Gaulish Mercury, Esus, and Ogmios
+- **Cúchulainn**: birth-name Sétanta suggests the Setantii people of Ptolemy
+- **Cúchulainn**: had seven foster-fathers led by Conchobar
+- **Cúchulainn**: won his adult name by killing the hound of Culann
+- **Cúchulainn**: hair shows brown, bloodied, and blond in three colours
+- **Cúchulainn**: had seven pupils in each eye and the grip of a hawk
+- **Cúchulainn**: trained under Scáthach and loved Aífe in Scotland
+- **Cúchulainn**: needed three vats of iced water when Mugain bared her breasts
+- **Cúchulainn**: wields the Gáe Bulga and the Caladbolg
+- **Cúchulainn**: drives the chariot of Láeg behind the Liath Macha
+- **Cúchulainn**: lives at Mag Muirtheimne north of the Boyne
+- **Cúchulainn**: bears the riastrad battle fury marked by the lón láith
+- **Cúchulainn**: kills his friend Ferdiad at the ford in the Táin
+- **Cúchulainn**: dies standing, tied to a pillar at Knockbridge
+- **Lugaid mac Con Roi**: beheads Cúchulainn and falls to Conall Cernach
 ```
 ``` tab [group1:Entities]
 - **Cúchulainn**: hero
@@ -162,11 +290,53 @@ Cúchulainn stands as the Ulster Cycle's greatest fighting man. As a boy he carr
 - **Forgall**: lord
 - **Shahnama**: text
 - **Hildebrandslied**: text
+- **Lug Lámfhota; Lugh**: mythological figure
+- **Fionn mac Cumhaill**: mythological figure
+- **Hercules**: mythological figure
+- **Mercury**: deity
+- **Esus**: deity
+- **Ogmios**: deity
+- **Sétanta**: hero
+- **Dechtire**: person
+- **Blaí Briugu**: person
+- **Fergus mac Róich**: hero
+- **Amairgin**: poet
+- **Findchóem**: person
+- **Emain Macha**: location
+- **Scáthach**: warrior
+- **Aífe**: warrior
+- **Eithne Ingubai**: person
+- **Fand**: person
+- **Manannán mac Lir**: mythological figure
+- **Étan**: deity
+- **Cathach Chatutchenn**: person
+- **Derbforgaill**: person
+- **Mugain**: queen
+- **Gáe Bulga**: weapon
+- **Caladbolg**: weapon
+- **Claidheamh Soluis**: weapon
+- **Cruaidín Catutchenn**: weapon
+- **Liath Macha**: animal
+- **Láeg**: person
+- **Mag Muirtheimne**: location
+- **Boyne River**: location
+- **Táin bó Cuailnge (Cattle Raid of Cooley)**: event
+- **Medb**: queen
+- **Ailill**: king
+- **Ferdiad**: hero
+- **Briccriu's Feast**: literary work
+- **Badb**: deity
+- **Cailitin**: person
+- **Faughart**: location
+- **Lugaid mac Con Roi**: hero
+- **Cú Roí**: hero
+- **Macpherson**: poet
 ```
 ``` tab [group1:Sources]
 - Cross, Tom Peete, and Clark Harris Slover, eds. Ancient Irish Tales. (New York: Henry Holt and Co., 1936), 134-153.
 - Hull, Eleanor. The Cuchullin Saga in Irish Literature. (London: David Nutt, 1898), 15, 253.
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 - Koch 2006, s.v. 'Cú Chulainn'
+- MacKillop 2008, s.v. 'Cúchulainn'.
 ```
 ![Cúchulainn Image](https://upload.wikimedia.org/wikipedia/commons/6/60/Cuslayshound.jpg)

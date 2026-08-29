@@ -1,0 +1,34 @@
+{
+  "name": "Céitinn",
+  "text": "Céitinn is the Irish surname of Seathrún Céitinn, the seventeenth-century poet and historian. English readers know him by his adopted name, Geoffrey Keating. He wrote as a poet and as a historian of Ireland. The Keating entry carries his life and his great history of the country. This form routes readers to that record.",
+  "entities": [
+    {
+      "entity": "Keating",
+      "type": "person"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Céitinn",
+      "attribute": "the Irish surname of Seathrún Céitinn"
+    },
+    {
+      "entity": "Seathrún Céitinn",
+      "attribute": "usually known in English as Geoffrey Keating"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Céitinn'."
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Céitinn routes readers from the Irish surname to the Geoffrey Keating entry.",
+    "key_results": [
+      "Céitinn is the Irish surname of the poet and historian Seathrún Céitinn.",
+      "English usage knows him as Geoffrey Keating."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Céitinn'."
+  }
+}

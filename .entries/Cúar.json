@@ -1,0 +1,42 @@
+{
+  "name": "Cúar",
+  "text": "Cúar is one of the two sons of the warrior and sorceress Scáthach. She is the amazon teacher who keeps her school on the Isle of Skye. The form Cuare appears beside his name. The tale names him but gives him no deeds of his own. His record rests on that great mother and that island school, where Cúchulainn himself came to train.",
+  "entities": [
+    {
+      "entity": "Scáthach",
+      "type": "mythological figure"
+    },
+    {
+      "entity": "Skye",
+      "type": "location"
+    },
+    {
+      "entity": "Cúchulainn",
+      "type": "hero"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Cúar",
+      "attribute": "a son of Scáthach"
+    },
+    {
+      "entity": "Scáthach",
+      "attribute": "the amazonian mother of Cúar"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Cúar'."
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Cúar records the son of Scáthach of the Isle of Skye.",
+    "key_results": [
+      "Cúar is a son of the warrior and sorceress Scáthach.",
+      "The variant form Cuare appears beside his name."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Cúar'."
+  }
+}

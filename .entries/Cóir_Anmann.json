@@ -1,0 +1,43 @@
+{
+  "name": "Cóir Anmann",
+  "text": "Cóir Anmann is the Irish title of a learned treatise. English readers may call it the Fitness of Names, or else the Elucidation of Names. The work explains the sense and the associations of many personal names of early Ireland. It does for names what the Dindshenchas does for place-names. The same title also serves as an epithet of the goddess Ana. One passage identifies the wheel ancestor Ánroth with the mythic king Rothechtaid Rotha, the Great Traveller of the Wheel. Whitley Stokes printed the text with a translation in his Irische Texte of 1897.",
+  "entities": [
+    {
+      "entity": "Dindshenchas",
+      "type": "literary work"
+    },
+    {
+      "entity": "Ana",
+      "type": "mythological figure"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Cóir Anmann",
+      "attribute": "an Irish treatise on the fitness of personal names"
+    },
+    {
+      "entity": "Cóir Anmann",
+      "attribute": "also an epithet of the goddess Ana"
+    },
+    {
+      "entity": "Rothechtaid Rotha",
+      "attribute": "identified with Ánroth in the treatise"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Cóir Anmann'."
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Cóir Anmann records the Irish name-treatise and its epithet use for Ana.",
+    "key_results": [
+      "The treatise explains the meanings of early Irish personal names.",
+      "It parallels the Dindshenchas, which treats place-names.",
+      "The title also stands as an epithet of Ana."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Cóir Anmann'."
+  }
+}
