@@ -1,0 +1,63 @@
+{
+ "name": "Conway",
+ "text": "Conway, in Welsh Conwy, is a waterway of north Wales. It rises at Lake Conway and runs north to Beaumaris Bay in Gwynedd. Until 1974 it divided the former counties Denbigh and Caernarvon. Close by the town of Conway, on the west side of the river mouth, lies Degannwy, the court of the sixth-century king Maelgwn Gwynedd. Welsh tradition holds that the waters echo the dying groans of Dylan, the sea hero.",
+ "entities": [
+  {
+   "entity": "Conway",
+   "type": "waterway"
+  },
+  {
+   "entity": "Conwy",
+   "type": "waterway"
+  },
+  {
+   "entity": "Gwynedd",
+   "type": "place"
+  },
+  {
+   "entity": "Degannwy",
+   "type": "place"
+  },
+  {
+   "entity": "Maelgwn Gwynedd",
+   "type": "person"
+  },
+  {
+   "entity": "Dylan",
+   "type": "person"
+  },
+  {
+   "entity": "Wales",
+   "type": "place"
+  }
+ ],
+ "attributes": [
+  {
+   "entity": "Conway",
+   "attribute": "river of north Wales reaching Beaumaris Bay"
+  },
+  {
+   "entity": "Degannwy",
+   "attribute": "court of Maelgwn Gwynedd near the river mouth"
+  },
+  {
+   "entity": "Dylan",
+   "attribute": "sea hero whose dying groans the waters evoke"
+  }
+ ],
+ "okr": {
+  "objective": "Record the river Conway and its mythic associations.",
+  "key_results": [
+   "Trace the river from Lake Conway to Beaumaris Bay in Gwynedd.",
+   "Note the former county boundary and the site of Degannwy.",
+   "Link the waters to the dying groans of Dylan."
+  ],
+  "evidence": "MacKillop, Dictionary of Celtic Mythology, 2008"
+ },
+ "image": [],
+ "cyphertext": "",
+ "salt": "",
+ "sources": [
+  "MacKillop 2008, s.v. 'Conway'."
+ ]
+}

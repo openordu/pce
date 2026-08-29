@@ -1,0 +1,43 @@
+{
+  "name": "Conchean",
+  "text": "Conchean is a variant spelling of Coinchenn. Coinchenn is the monstrous, dog-headed wife of Morgan and mother of Delbcháem. The PCE article on her sits at Coinchenn. See Coinchenn.",
+  "entities": [
+    {
+      "entity": "Conchean",
+      "type": "person"
+    },
+    {
+      "entity": "Coinchenn",
+      "type": "person"
+    },
+    {
+      "entity": "Morgan",
+      "type": "person"
+    },
+    {
+      "entity": "Delbcháem",
+      "type": "person"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Conchean",
+      "attribute": "a variant spelling of Coinchenn"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Conchean'."
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Conchean is a variant spelling that points to Coinchenn.",
+    "key_results": [
+      "MacKillop records Conchean as a variant of Coinche(a)nn.",
+      "Coinchenn is the dog-headed wife of Morgan.",
+      "The main PCE article sits at Coinchenn."
+    ],
+    "evidence": "MacKillop, Dictionary of Celtic Mythology, s.v. 'Conchean' (2008)."
+  }
+}

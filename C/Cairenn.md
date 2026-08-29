@@ -2,61 +2,50 @@
 layout: layouts/pce.njk
 title: Cairenn
 icon: file-lines
-order: 374
+order: 416
 contributors: [ 'Christopher Godwin' ]
 attributes:
-  - Cairenn Irish heroine
-  - Eochaid Mugmedón consort of Cairenn
-  - Niall of the Nine Hostages son of Cairenn and Eochaid Mugmedón
-  - Mongfhinn Eochaid Mugmedón's first wife
-  - Tara court of Eochaid Mugmedón
+  - Cairenn secondary wife and captured slave of Eochaid Mugmedón
+  - Cairenn mother of Niall of the Nine Hostages
+  - Cairenn called Cairenn Chasdub, of the dark curly hair
+  - Cairenn daughter of Sachall Balb of the Britons
+  - Eochaid Mugmedon high king and first lord of Tara
+  - Mongfhinn first wife of Eochaid and rival of Cairenn
 categories:
-  - Irish heroine
-  - king
-  - family
-  - place
-  - person
-  - nationality
   - mythological figure
+  - person
 entities:
-  - Cairenn(Irish heroine)
-  - Eochaid Mugmedón(king)
+  - Cairenn(person)
+  - Eochaid Mugmedon(person)
   - Niall of the Nine Hostages(mythological figure)
-  - British(nationality)
-  - O’Neill family(family)
   - Mongfhinn(person)
-  - Tara(place)
 tags:
   - Cairenn
-  - Eochaid Mugmedón
+  - Eochaid Mugmedon
   - Niall of the Nine Hostages
-  - British
-  - O’Neill family
   - Mongfhinn
-  - Tara
 ---
 ``` tab [group1:Info]
 ::: magazinestyle
-Irish heroine Cairenn, was the consort of Eochaid Mugmedón and mother to Niall of the Nine Hostages. Legends depict Cairenn as a British princess who was taken captive and enslaved in Ireland, despite her royal lineage. As a result, the great king of Tara, who was an ancestor of the O'Neill lineage, could count himself as half-British. Eochaid's spouse, Mongfhinn, felt envious of her husband and because of that, Cairenn absconded from Tara's court to deliver her baby near a sacred well. As was typical for ancient Irish kings, Niall's birth and life were characterized in mythological stories.
+Cairenn, also Caireann, was the secondary wife of King Eochaid Mugmedón. She was a captured slave from Britain. Her son was Niall of the Nine Hostages. Niall's line became the Uí Néill dynasty. MacKillop gives her the title Cairenn Chasdub, which means of the dark curly hair. She was the daughter of Sachall Balb of the Britons. Eochaid's queen Mongfhind hated Cairenn. Mongfhind forced Cairenn to draw household water during her pregnancy. Cairenn worked until she gave birth to Niall. Her son became a high king of Tara.
 
 :::
 ```
 ``` tab [group1:Attributes]
-- **Cairenn**: Irish heroine
-- **Eochaid Mugmedón**: consort of Cairenn
-- **Niall of the Nine Hostages**: son of Cairenn and Eochaid Mugmedón
-- **Mongfhinn**: Eochaid Mugmedón's first wife
-- **Tara**: court of Eochaid Mugmedón
+- **Cairenn**: secondary wife and captured slave of Eochaid Mugmedón
+- **Cairenn**: mother of Niall of the Nine Hostages
+- **Cairenn**: called Cairenn Chasdub, of the dark curly hair
+- **Cairenn**: daughter of Sachall Balb of the Britons
+- **Eochaid Mugmedon**: high king and first lord of Tara
+- **Mongfhinn**: first wife of Eochaid and rival of Cairenn
 ```
 ``` tab [group1:Entities]
-- **Cairenn**: Irish heroine
-- **Eochaid Mugmedón**: king
+- **Cairenn**: person
+- **Eochaid Mugmedon**: person
 - **Niall of the Nine Hostages**: mythological figure
-- **British**: nationality
-- **O’Neill family**: family
 - **Mongfhinn**: person
-- **Tara**: place
 ```
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
+- MacKillop 2008, s.v. 'Cairenn'
 ```

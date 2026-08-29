@@ -18,20 +18,24 @@
       "type": "ruler"
     },
     {
-      "entity": "Ireland",
-      "type": "place"
-    },
-    {
       "entity": "Connacht",
       "type": "region"
     },
     {
-      "entity": "External Soul",
+      "entity": "external soul",
       "type": "concept"
     },
     {
       "entity": "stone",
       "type": "artifact"
+    },
+    {
+      "entity": "Drystan",
+      "type": "Person"
+    },
+    {
+      "entity": "Trystan",
+      "type": "Person"
     }
   ],
   "attributes": [
@@ -62,14 +66,23 @@
     {
       "entity": "Créd",
       "attribute": "killed herself and crushed the soul stone"
+    },
+    {
+      "entity": "Drystan",
+      "attribute": "late Arthur case parallel"
+    },
+    {
+      "entity": "Trystan",
+      "attribute": "late Arthur case parallel"
     }
   ],
   "sources": [
-    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.",
+    "MacKillop 2008, s.v. 'Cano'."
   ],
   "cyphertext": "M2X3JBUA58imnUnop7uAJadv32PHcpb4hNl8_3FjbODfnYNsXAFQoXclGRPmW-jl5F9ckl7slSt375IUX5wctpRKTicJtcODJTW8qynRJtEL6mnYgB9SMGQMCv2N7lZUPz-ck9G7up9XqclhUVRQ-Wz2RGdj5s16QlzqvcL4Cve-OLDx5h-q7do_gJqcuA8EuQDf4LUUNceH-kZuOZuJkiOPUfrSjoAnhezlnx_Ks-LDLOU6ZWkvdMGrmjH09KvxSjRbk9bUTurbjZ3cLwjQejt6FyLFFMkH54S9fWgCgYw3tfRP5_nK1dlnz7Fk7jk05ibSL1d794xVgW-V3SCbTm9gPc7cyZktGArxTVl5GL3cWhQaZXUWZNpK2VDVIB2pKjlsI6I1QglETUpOEEwLw0ylaYWeWVGIc_f1IylnMB13-jMyGK_3nytiFdV1YNY_KKMkPnMyPSshMvZj26_YtIw1JdbQ_rM8f_yqUqY-a29zXfqBB0CSOmuDQYYMETJ00b40wMdYXsSKMLPtIj08eZOf7jqH5vwF7kxVQzPrdECoIvPvdbyho3gXQzbgofHAfOrtHc8xDcJ2dqWPsPBAUk_cU1DaMfvWiKkIS2R1yUZSZXjmu5UxEB62rHUKVzonfObPDSbNJtqMDbkX-w6bV8kB-d6iAVe4Of3iZg0=",
   "salt": "hTxpG4tY2-mrDoGDMyYo4A==",
-  "text": "Cano mac Gartnáin is an Irish hero. He stands close to the man Cáel. Both of them are warrior poets. Each one loved Créd, the princess of Connacht. Créd was the daughter of king Guaire. Cano fled to Ireland after the killing of his father. Créd was already wife to a king. Still, they fell in love without delay. Cano put off their joining. He waited until he won back his own kingdom. He then gave his outside soul to Créd. The soul took the shape of a stone. They planned a secret meeting. Meanwhile the stepson of Créd threw the plan aside. He was the child of her old husband. In despair Créd killed herself. In her fall she crushed the stone. The blow also ended the life of Cano.",
+  "text": "Cano mac Gartnáin is a hero of a sad tale. Born of a Scottish king, he died in the year 688. Exile sent him over the sea into Ireland. A king named Diarmait gave him an honoured place at court. That king's daughter loved Cano from the first. She saved him from danger and kept him safe. Searching for shelter he came to a noble house. The woman of that house spoke her love to him. His heart refused the vow while he stayed in exile. He waited to win back his own land before he gave his pledge. His story reads like the loss and longing of later Arthur and Tristan. Some see in him an early echo of the knight Dyrstan and of Trystan. The love that could not reach its end shaped more than one life. Worlds of ancient text keep this once patient hero.",
   "okr": {
     "objective": "Cano mac Gartnáin is a hero whose soul stayed outside his body.",
     "key_results": [
@@ -79,6 +92,6 @@
       "He gave his outer soul to her as a stone.",
       "Her despair destroyed her and him."
     ],
-    "evidence": "Monaghan, Encyclopedia of Celtic Mythology and Folklore"
+    "evidence": "Monaghan, Encyclopedia of Celtic Mythology and Folklore; MacKillop 2008"
   }
 }

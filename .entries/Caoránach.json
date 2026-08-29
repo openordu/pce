@@ -1,0 +1,59 @@
+{
+  "name": "Caoránach",
+  "text": "Caoránach (Keeronagh) is the name given to a monster. Saint Patrick drove this beast to Lough Derg. That lake lies in County Donegal. People saw the creature as female. They said she stood as mother to countless demons and devils. The same monster links to the muirdris and the olliphéist beliefs. Each of those tales tells of a water beast. So the Caoránach builds a bridge from one dread to the next. Her story binds Lough Derg to a deep old fear.",
+  "entities": [
+    {
+      "entity": "Caoránach",
+      "type": "Creature"
+    },
+    {
+      "entity": "Lough Derg",
+      "type": "Place"
+    },
+    {
+      "entity": "Patrick",
+      "type": "Person"
+    },
+    {
+      "entity": "Ollipheist",
+      "type": "mythological creature"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Caoránach",
+      "attribute": "monster banished by Saint Patrick"
+    },
+    {
+      "entity": "Caoránach",
+      "attribute": "seen as female and mother of demons"
+    },
+    {
+      "entity": "Lough Derg",
+      "attribute": "lake in County Donegal"
+    },
+    {
+      "entity": "Patrick",
+      "attribute": "saint who banished the monster"
+    },
+    {
+      "entity": "Ollipheist",
+      "attribute": "related water-monster belief"
+    }
+  ],
+  "okr": {
+    "objective": "Caoránach is the female monster Saint Patrick banished to Lough Derg.",
+    "key_results": [
+      "call Caoránach the monster Patrick drove away",
+      "set her banishment at Lough Derg in Donegal",
+      "trace her links to the ollipheist belief"
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Caoránach'."
+  },
+  "sources": [
+    "MacKillop 2008, s.v. 'Caoránach'."
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": ""
+}

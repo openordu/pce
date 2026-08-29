@@ -12,6 +12,30 @@
     {
       "entity": "Leinster",
       "type": "place"
+    },
+    {
+      "entity": "Tara",
+      "type": "place"
+    },
+    {
+      "entity": "Ailill Áine",
+      "type": "mythological figure"
+    },
+    {
+      "entity": "Aige",
+      "type": "mythological figure"
+    },
+    {
+      "entity": "Meilge",
+      "type": "mythological figure"
+    },
+    {
+      "entity": "Faifne",
+      "type": "mythological figure"
+    },
+    {
+      "entity": "Munster",
+      "type": "place"
     }
   ],
   "attributes": [
@@ -26,21 +50,38 @@
     {
       "entity": "Leinster",
       "attribute": "province that Cobhthach wanted for himself"
+    },
+    {
+      "entity": "Cobhthach",
+      "attribute": "bearer of a name meaning victorious that survives as the surname Coffey"
+    },
+    {
+      "entity": "Cobhthach",
+      "attribute": "king of Tara who seized power by killing his brother and nephew"
+    },
+    {
+      "entity": "Cobhthach",
+      "attribute": "burned alive in an iron house by the exiled Labraid"
     }
   ],
   "sources": [
-    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.",
+    "MacKillop 2008, s.v. 'Cobthach'.",
+    "MacKillop 2008, s.v. 'Cobthach Cóel Breg'."
   ],
   "cyphertext": "htTzcn_jU-AEgAhs1dFMH5Go0pJpjOvFrFJ59KC9O5Z5ElKqSXRDB8rlB5THCnIveZC9OHXRRbGweMUEexoN35KNWgkQmwCrEVU3ii60z1db5hck_VRXCj50d1m8WfK-rPpoMHFsww_hozdnG5SGiKgslEE7bVBWpw6aeLSoCp9l2MzI5RK-BWUB2-6MXR6wrPCExtkDgR7NpA4LXyvMZdMwwZPlxqHEvGJzZO4kcT-17HkcKeJ0bM0uEppajuDD54k0NUStEypIUPi1S-gSLxYv5VnA32AWrmNtV9hUVXfo17RgFHBzxTdFJvC4FaOJAM1MBFy75PAJUry089G81LZT2XKx5_906oA7lylQvoL1qKtJ-xTss8RTa2EQ_yaqXzn_tL9Q79mfUcjCwm2XFJg=",
   "salt": "_ai2hTBP887o6np2EnixNA==",
-  "text": "Cobhthach, also called Covac, was a cruel Irish king. He made his young brother Labhraigh Lore swallow mice, and the child was so frightened that he stopped speaking. Some accounts call Cobhthach the uncle of Labhraigh. Greedy for Leinster's provincial throne, Cobhthach put the young man to death and took the province for himself.",
+  "text": "Cobhthach is a name carried by several legendary figures of early Irish history, mostly in the south of the island. Variants include Cobhthach, Cofach, and Covac, while that Old Irish form became the surname Coffey. The name means victorious. One bearer was a legendary ancestor of the Eóganacht, the great family of Munster. He was father of Meilge, who caused the death of Aige, and Faifne satirized him for it. The best-known bearer is Cobthach Cóel Breg, the slender of Breg, a leading actor within the Cycle of Kings. He seized the kingship of Tara by killing his brother Lóegaire Lore and his nephew Ailill Áine. He sent Ailill's son Labraid Loingsech into exile. Cobhthach was cruel to Labhraigh Lore. He made the young brother swallow mice. The child was so frightened that he stopped speaking. Greedy for Leinster's provincial throne, Cobhthach put Labhraigh to death and took the province for himself. Labraid came home from banishment in Gaul and burnt Cobthach to death inside an iron house alongside thirty allies. Some stories hint that the early Uí Néill counted Cobthach among them.",
   "okr": {
-    "objective": "Cobhthach was a cruel king who silenced and killed his brother for Leinster.",
+    "objective": "Cobhthach is the cruel king of Tara whose killing of his kin brought the exiled Labraid Loingsech home to burn him in an iron house.",
     "key_results": [
-      "Cobhthach forced Labhraigh to eat mice.",
-      "The child Labhraigh stopped speaking from fear.",
-      "Cobhthach killed Labhraigh to take the throne of Leinster."
+      "Cobhthach means victorious and survives as the surname Coffey.",
+      "One bearer was a legendary ancestor of the Eóganacht of Munster.",
+      "His son Meilge caused the death of Aige, and Faifne satirized Meilge for it.",
+      "Cobthach Cóel Breg seized Tara by killing his brother Lóegaire Lore and nephew Ailill Áine.",
+      "He drove Labraid Loingsech into exile and was cruel to Labhraigh Lore.",
+      "Labraid came home from Gaul and burned him alive in an iron house."
     ],
-    "evidence": "Monaghan, Encyclopedia of Celtic Mythology and Folklore"
+    "evidence": "Monaghan, Encyclopedia of Celtic Mythology and Folklore; MacKillop, Dictionary of Celtic Mythology, s.v. Cobthach; MacKillop, Dictionary of Celtic Mythology, s.v. Cobthach Cóel Breg"
   }
 }

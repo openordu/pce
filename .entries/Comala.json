@@ -1,0 +1,50 @@
+{
+ "name": "Comala",
+ "text": "Comala is a character in Macpherson's Ossian, the literary epic of 1760. She is the daughter of the villainous Stamo. Her story binds her to Fingal, the poem's hero-king, whose love she gains and mourns. Macpherson presented his verse as his translation of an ancient Gaelic bard. Readers of the day took Comala for a true figure of Celtic legend. She is instead a creation of the eighteenth century, one of the Ossianic inventions that reshaped Europe's picture of the Celtic past.",
+ "entities": [
+  {
+   "entity": "Comala",
+   "type": "person"
+  },
+  {
+   "entity": "Fingal",
+   "type": "person"
+  },
+  {
+   "entity": "Stamo",
+   "type": "person"
+  },
+  {
+   "entity": "Ossian",
+   "type": "story"
+  }
+ ],
+ "attributes": [
+  {
+   "entity": "Comala",
+   "attribute": "daughter of the villainous Stamo in Macpherson's Ossian"
+  },
+  {
+   "entity": "Comala",
+   "attribute": "a lover of Fingal in the 1760 epic"
+  },
+  {
+   "entity": "Ossian",
+   "attribute": "Macpherson's literary cycle published as translated ancient verse"
+  }
+ ],
+ "sources": [
+  "MacKillop 2008, s.v. 'Comala'."
+ ],
+ "image": [],
+ "cyphertext": "",
+ "salt": "",
+ "okr": {
+  "objective": "Comala is Macpherson's Ossianic heroine, daughter of Stamo.",
+  "key_results": [
+   "Comala loves Fingal in the 1760 Ossian poems.",
+   "She is an eighteenth-century literary creation, not medieval legend."
+  ],
+  "evidence": "MacKillop, Dictionary of Celtic Mythology, 2008"
+ }
+}

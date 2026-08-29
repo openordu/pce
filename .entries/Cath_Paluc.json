@@ -24,6 +24,22 @@
     {
       "entity": "Wales",
       "type": "location"
+    },
+    {
+      "entity": "Anglesey",
+      "type": "Place"
+    },
+    {
+      "entity": "Triads",
+      "type": "Text"
+    },
+    {
+      "entity": "Mona",
+      "type": "Place"
+    },
+    {
+      "entity": "Cat Sith",
+      "type": "mythological creature"
     }
   ],
   "attributes": [
@@ -46,22 +62,42 @@
     {
       "entity": "Cath Paluc",
       "attribute": "a trace of that cat cult"
+    },
+    {
+      "entity": "Cath Paluc",
+      "attribute": "haunts Mona (Anglesey) above all"
+    },
+    {
+      "entity": "Triads",
+      "attribute": "give nine score warriors as food for the beast"
+    },
+    {
+      "entity": "Chalapu",
+      "attribute": "Arthurian figure possibly modelled on Cath Paluc"
+    },
+    {
+      "entity": "Cat Sith",
+      "attribute": "Scottish kindred of Cath Paluc"
     }
   ],
   "sources": [
-    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.",
+    "MacKillop 2008, s.v. 'Cath Paluc'."
   ],
   "cyphertext": "C7RLYsz26U0kvNOqOj69bJJA6o4a_VcyFZWD_AIEPRPWschvo-Qqeob2h_tO4PT_IRF33bFlH3G76wlbrHzm-nRHQ2_t77y3R5z-M965scL6Zf3QhcdlDMIqYDcK9d4slUI82fd3ttWaDt-0TST1dZk7glN1uK7nwzjOdEviL99_Q6SeI2oVKwri8ConUXE2KBcIZd3DeY0MGj2NK8GgcI6lFdyBTGabswL8ByMYYs0ZxLjFAtIYPmOvMk9s0uoVQEmXrZUiQwWSXVUM9oTirQMh3vIZ2FfgpYNKYCuJEhkLC9vPFjnlEdYvqaUajxnrFH1Lh9N_gopeW2o8_Pem0jO2_fG67MjfoDLf1R445d5mi9fGnEGT2JBd4zGFzOJ0KTSW3JpSXfCxJJwBDUqtpA==",
   "salt": "EkxuLBKwfb2kV8vLDMIRBA==",
-  "text": "Cath Paluc, or Paluc's Cat, is a monster of Welsh mythology. It appears in cat form. It ate 180 men at every meal. Such cats recur across Celtic folklore. Some writers argue these tales show a cat cult of old. They see Cath Paluc as a surviving trace of that cult.",
+  "text": "Cath Paluc, Balug or Balwg is a huge and monstrous cat from Welsh tradition. The name is Welsh for Palug's cat. It is said to haunt the island of Mona, today's Anglesey, more than anywhere else. The Triads record that nine score warriors fell as food for the beast. Monaghan's account gives the creature a still sharper appetite of 180 men at every meal. Chalapu of Arthurian tradition may be modelled on this cat. Kindred beings endure in Scottish lore as the Cat Sith. The tale is sometimes read as a trace of an old cult of the cat.",
   "okr": {
-    "objective": "Cath Paluc is a ravenous Welsh cat tied to an old cat cult.",
+    "objective": "Cath Paluc is the ravenous cat monster of Welsh tradition tied to Mona and to an old cat cult.",
     "key_results": [
-      "It is a monster of Welsh lore shaped like a cat.",
-      "It devoured 180 men at each meal.",
-      "Similar cats appear across Celtic lore.",
-      "Scholars see it as a trace of a cat cult."
+      "Its Welsh forms are Cath Paluc, Balug and Balwg.",
+      "It haunts Mona (Anglesey) above all.",
+      "The Triads give it nine score warriors as food.",
+      "Monaghan counts 180 men eaten at every meal.",
+      "It may be the model for Chalapu of Arthurian tradition.",
+      "Scottish lore keeps the kindred Cat Sith.",
+      "The tale is read as a trace of an old cat cult."
     ],
-    "evidence": "Monaghan, Encyclopedia of Celtic Mythology and Folklore"
+    "evidence": "MacKillop 2008, s.v. 'Cath Paluc'. Monaghan, Encyclopedia of Celtic Mythology and Folklore."
   }
 }

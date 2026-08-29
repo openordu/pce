@@ -1,92 +1,119 @@
 {
-    "name": "Cocidius",
-    "entities": [
-        {
-            "entity": "Cocidius",
-            "type": "god"
-        },
-        {
-            "entity": "Mars",
-            "type": "god"
-        },
-        {
-            "entity": "Silvanus",
-            "type": "god"
-        },
-        {
-            "entity": "Vernostonus",
-            "type": "god"
-        },
-        {
-            "entity": "Britain",
-            "type": "place"
-        },
-        {
-            "entity": "inscription",
-            "type": "artifact"
-        },
-        {
-            "entity": "Hadrian's Wall",
-            "type": "place"
-        },
-        {
-            "entity": "Teutates",
-            "type": "god"
-        },
-        {
-            "entity": "Riocalatis",
-            "type": "epithet"
-        },
-        {
-            "entity": "Da Derga",
-            "type": "mythological figure"
-        }
-    ],
-    "attributes": [
-        {
-            "entity": "Cocidius",
-            "attribute": "northern British god joined by the Romans to Mars"
-        },
-        {
-            "entity": "Silvanus",
-            "attribute": "god who also points to a hunter origin for Cocidius"
-        },
-        {
-            "entity": "Vernostonus",
-            "attribute": "obscure Celtic god paired with Cocidius on an inscription"
-        },
-        {
-            "entity": "Cocidius",
-            "attribute": "worshipped chiefly by Roman soldiers along Hadrian's Wall"
-        },
-        {
-            "entity": "Cocidius",
-            "attribute": "equated with Mars on five inscriptions and with Silvanus on one altar"
-        },
-        {
-            "entity": "Cocidius",
-            "attribute": "carries the epithet Riocalatis on an inscription with Teutates"
-        },
-        {
-            "entity": "Cocidius",
-            "attribute": "name may derive from a Welsh term meaning reddish, linked to Da Derga"
-        }
-    ],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.",
-        "Koch 2006, s.v. 'Cocidius'"
-    ],
-    "cyphertext": "zckJzKP3v09jQmLOMn0S1m-wle_i3WM9LDePs6bM_2k73oQBokEdH1XqpY-1LBOc0bgUFI-t5zqv9t75WNxwAd5qs0ZDBaHWdUi5pTdPfU_D7aGboQEM-XmFn5p-V3ZZf2kBEMJ_UTkkgbLVE-T0y9-2_Lp1dFb4_wT0O5XCg6AFSUWDY7XRajL64aWJ2wh0g_ND3gl3Ax6Uh2eUmKbFJkvpF2cx527-7Ifizf3BbLb4aaP71ihaFYohHTPRXCvkgBjr-k0VscgC_5S_kuwnoXmxMvve-RN6LXZ1_U5TR_q8gWgsXEJIuC_FVpCPVsZ0QKW34-1-79sBgJ0e5RB3C0yoNDfbCcBnq8LK8eior1oS7_CJnCFFNtrn7mc0zKmA6CMQOw-b1YuGDvv6Ral4yMCF3kiSByd27Vb2M1aR6MCVOSsNo4vGrkUs5RrtjGHIrSTd5M3gUe-ddbgp4zYCiDGDXNh1Unyg9U5j4cyXbL45GTdbgNtKG4EKe7Q7jSocdoaXed1uHehjQr65Plw3QApMZY7Vhqj6D3SkkA9WZ1nuZ2fGK6MEQKaslswEE4rHDxVcMkKnY907zMneeLdtw9kuhed4dm2iBrfGkH0=",
-    "salt": "IrqMwIEEiZVSbMDbkvfd3Q==",
-    "text": "Cocidius was a god of the north of Roman Britain, honoured by soldiers along Hadrian's Wall. Some twenty stones bear his name; five join him to the war god Mars, one altar to Silvanus, god of the woods, shown as a hunter with a dog and a stag. An inscription gives him the title Riocalatis with Teutates; another links him to Vernostonus. Two silver plaques show him with spear and shield. His name may not be Celtic; its ending could match a Welsh word for reddish, tied to 'red god' Da Derga.",
-    "okr": {
-        "objective": "Cocidius was a northern British god honoured by Roman soldiers and linked to Mars, Silvanus, and other deities.",
-        "key_results": [
-            "About twenty inscriptions in Roman Britain carry his name.",
-            "He was equated with Mars, Silvanus, Teutates, and Vernostonus.",
-            "Altars depict him as both hunter and warrior.",
-            "His name may derive from a Welsh word meaning reddish."
-        ],
-        "evidence": "Koch 2006, s.v. 'Cocidius'"
+  "name": "Cocidius",
+  "entities": [
+    {
+      "entity": "Cocidius",
+      "type": "god"
+    },
+    {
+      "entity": "Mars",
+      "type": "god"
+    },
+    {
+      "entity": "Silvanus",
+      "type": "god"
+    },
+    {
+      "entity": "Vernostonus",
+      "type": "god"
+    },
+    {
+      "entity": "Britain",
+      "type": "place"
+    },
+    {
+      "entity": "inscription",
+      "type": "artifact"
+    },
+    {
+      "entity": "Hadrian's Wall",
+      "type": "place"
+    },
+    {
+      "entity": "Teutates",
+      "type": "god"
+    },
+    {
+      "entity": "Riocalatis",
+      "type": "epithet"
+    },
+    {
+      "entity": "Da Derga",
+      "type": "mythological figure"
+    },
+    {
+      "entity": "Segomo",
+      "type": "god"
+    },
+    {
+      "entity": "Belatucadros",
+      "type": "god"
+    },
+    {
+      "entity": "Mogons",
+      "type": "god"
     }
+  ],
+  "attributes": [
+    {
+      "entity": "Cocidius",
+      "attribute": "northern British god joined by the Romans to Mars"
+    },
+    {
+      "entity": "Silvanus",
+      "attribute": "god who also points to a hunter origin for Cocidius"
+    },
+    {
+      "entity": "Vernostonus",
+      "attribute": "obscure Celtic god paired with Cocidius on an inscription"
+    },
+    {
+      "entity": "Cocidius",
+      "attribute": "worshipped chiefly by Roman soldiers along Hadrian's Wall"
+    },
+    {
+      "entity": "Cocidius",
+      "attribute": "equated with Mars on five inscriptions and with Silvanus on one altar"
+    },
+    {
+      "entity": "Cocidius",
+      "attribute": "carries the epithet Riocalatis on an inscription with Teutates"
+    },
+    {
+      "entity": "Cocidius",
+      "attribute": "name may derive from a Welsh term meaning reddish, linked to Da Derga"
+    },
+    {
+      "entity": "Cocidius",
+      "attribute": "shown hooded or shawled on some carvings"
+    },
+    {
+      "entity": "Cocidius",
+      "attribute": "possible identity with the Gaulish war god Segomo"
+    },
+    {
+      "entity": "Cocidius",
+      "attribute": "shrine at Bewcastle marking a soldier's god"
+    }
+  ],
+  "sources": [
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.",
+    "Koch 2006, s.v. 'Cocidius'",
+    "MacKillop 2008, s.v. 'Cocidius'."
+  ],
+  "cyphertext": "zckJzKP3v09jQmLOMn0S1m-wle_i3WM9LDePs6bM_2k73oQBokEdH1XqpY-1LBOc0bgUFI-t5zqv9t75WNxwAd5qs0ZDBaHWdUi5pTdPfU_D7aGboQEM-XmFn5p-V3ZZf2kBEMJ_UTkkgbLVE-T0y9-2_Lp1dFb4_wT0O5XCg6AFSUWDY7XRajL64aWJ2wh0g_ND3gl3Ax6Uh2eUmKbFJkvpF2cx527-7Ifizf3BbLb4aaP71ihaFYohHTPRXCvkgBjr-k0VscgC_5S_kuwnoXmxMvve-RN6LXZ1_U5TR_q8gWgsXEJIuC_FVpCPVsZ0QKW34-1-79sBgJ0e5RB3C0yoNDfbCcBnq8LK8eior1oS7_CJnCFFNtrn7mc0zKmA6CMQOw-b1YuGDvv6Ral4yMCF3kiSByd27Vb2M1aR6MCVOSsNo4vGrkUs5RrtjGHIrSTd5M3gUe-ddbgp4zYCiDGDXNh1Unyg9U5j4cyXbL45GTdbgNtKG4EKe7Q7jSocdoaXed1uHehjQr65Plw3QApMZY7Vhqj6D3SkkA9WZ1nuZ2fGK6MEQKaslswEE4rHDxVcMkKnY907zMneeLdtw9kuhed4dm2iBrfGkH0=",
+  "salt": "IrqMwIEEiZVSbMDbkvfd3Q==",
+  "text": "Cocidius was a god of the north and west of early Britain, honoured by soldiers along Hadrian's Wall. The Romans compared him with Mars. Some twenty stones bear his name. Five join him to Mars. One altar joins him to Silvanus, god of the woods. Silvanus appears as a hunter with a dog and a stag. On some carvings Cocidius wears a shawl or hood. Elsewhere in the north he appears horned and is linked with hunting. His shrine at Bewcastle in Cumberland marks him as a soldier's god. An inscription gives him the title Riocalatis with Teutates. Another links him to Vernostonus. Two silver plaques show him with spear and shield. He may be one with Segomo, the war god of the Continental Celts. He may also be associated with Teutates, the ruler of the people worshipped in Britain. More tentatively he may be linked with Belatucadros, the fair shining one, and with Mogons, the powerful one. His name may not be Celtic. Its ending could match a Welsh word for reddish, tied to 'red god' Da Derga.",
+  "okr": {
+    "objective": "Cocidius was a northern British god honoured by Roman soldiers and linked to Mars, Silvanus, and other deities.",
+    "key_results": [
+      "About twenty inscriptions in Roman Britain carry his name.",
+      "He was equated with Mars, Silvanus, Teutates, and Vernostonus.",
+      "Some carvings show him hooded or shawled, and in the north he appears horned.",
+      "His shrine at Bewcastle in Cumberland marks a soldier's god.",
+      "He may be one with Segomo and linked with Belatucadros and Mogons.",
+      "Altars depict him as both hunter and warrior."
+    ],
+    "evidence": "Koch 2006, s.v. 'Cocidius'; MacKillop, Dictionary of Celtic Mythology, s.v. Cocidius"
+  }
 }

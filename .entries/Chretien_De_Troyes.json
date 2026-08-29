@@ -1,6 +1,6 @@
 {
   "name": "Chretien de Troyes",
-  "text": "Chretien de Troyes was a French poet of the later 12th century. He wrote court romances between about 1170 and 1190. His works built the Arthurian tradition on the Continent. He wrote in octosyllabic rhyming couplets. His romances include Erec and Enide and a poem about Yvan. He left the story of Perceval and the Grail unfinished. Later writers added endings to that tale. The romance of Erec and Enide may rest on older Welsh sources. The court poet's work shaped many later writers. The school disputes the debt to the Welsh and to Geoffrey.",
+  "text": "Chretien de Troyes, also written Chrétien de Troyes, was a French poet of the later 12th century. He probably came from Champagne and flourished between 1160 and 1182. He wrote court romances between about 1170 and 1190, and his works built the Arthurian tradition on the Continent. No earlier writer of Arthurian romance is known. He completed Erec et Enide near 1170, Lancelot near 1178, and Perceval near 1182. He wrote in octosyllabic rhyming couplets. Most of his characters and plots came out of the oral Celtic Arthurian lore. His handling of love and courtly manners was his own. His romances include Erec and Enide and a poem about Yvan. He left the story of Perceval and the Grail unfinished. Later writers added endings to that tale. The romance of Erec and Enide may rest on older Welsh sources. The court poet's work shaped many later writers. The school disputes the debt to the Welsh and to Geoffrey.",
   "entities": [
     {
       "entity": "Chretien de Troyes",
@@ -17,6 +17,10 @@
     {
       "entity": "Arthurian",
       "type": "Concept"
+    },
+    {
+      "entity": "Arthurian romance",
+      "type": "genre"
     }
   ],
   "attributes": [
@@ -31,11 +35,24 @@
     {
       "entity": "Historia Regum Britanniae",
       "value": "a probable source for much of the raw material"
+    },
+    {
+      "entity": "Chretien de Troyes",
+      "value": "flourished 1160-82 and probably came from Champagne"
+    },
+    {
+      "entity": "Chretien de Troyes",
+      "value": "drew most characters and incidents from the oral Celtic Arthurian tradition"
+    },
+    {
+      "entity": "Chretien de Troyes",
+      "value": "wrote Erec et Enide, Lancelot, and Perceval"
     }
   ],
   "sources": [
     "Koch 2006, s.v. 'Chretien de Troyes'",
-    "Kelly, Douglas. Chretien de Troyes: An Analytic Bibliography. London: Grant and Cutler, 1976."
+    "Kelly, Douglas. Chretien de Troyes: An Analytic Bibliography. London: Grant and Cutler, 1976.",
+    "MacKillop 2008, s.v. 'Chrétien de Troyes'."
   ],
   "image": [],
   "cyphertext": "",
@@ -47,6 +64,6 @@
       "Entities and attributes recorded for the poet and his works.",
       "Protected fields set to empty defaults."
     ],
-    "evidence": "Koch 2006, s.v. 'Chretien de Troyes'; Kelly 1976"
+    "evidence": "Koch 2006, s.v. 'Chretien de Troyes'; Kelly 1976; MacKillop 2008, s.v. 'Chrétien de Troyes'"
   }
 }

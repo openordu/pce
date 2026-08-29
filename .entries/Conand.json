@@ -1,0 +1,68 @@
+{
+  "name": "Conand",
+  "text": "Conand is a leader of the Fomorians. Some texts spell the name Conann or Connan. He holds a fortress on Tory Island near the Donegal shore. A huge glass tower named Tor Conaind serves him there. He forces a heavy tribute on the Nemedians. The Nemedians rise at last. They attack the island, storm the tower, and Fergus Lethderg strikes Conand down. The survivors then sail away to Britain. Readers should tell him apart from Conaing, who bears a similar name.",
+  "entities": [
+    {
+      "entity": "Conand",
+      "type": "person"
+    },
+    {
+      "entity": "Fomorians",
+      "type": "group"
+    },
+    {
+      "entity": "Tory Island",
+      "type": "place"
+    },
+    {
+      "entity": "Tor Conaind",
+      "type": "place"
+    },
+    {
+      "entity": "Nemedians",
+      "type": "group"
+    },
+    {
+      "entity": "Fergus Lethderg",
+      "type": "person"
+    },
+    {
+      "entity": "Conaing",
+      "type": "person"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Conand",
+      "attribute": "leads the Fomorians"
+    },
+    {
+      "entity": "Conand",
+      "attribute": "kept a glass tower on Tory Island"
+    },
+    {
+      "entity": "Conand",
+      "attribute": "levied tribute on the Nemedians"
+    },
+    {
+      "entity": "Fergus Lethderg",
+      "attribute": "killed Conand in the tower assault"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Conand'."
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Conand is the Fomorian leader destroyed when the Nemedians storm Tory Island.",
+    "key_results": [
+      "Conand led the Fomorians from a glass tower on Tory Island.",
+      "He imposed a tribute on the Nemedians.",
+      "The Nemedians stormed his tower during their escape.",
+      "Fergus Lethderg killed him in the assault."
+    ],
+    "evidence": "MacKillop, Dictionary of Celtic Mythology, s.v. 'Conand' (2008)."
+  }
+}

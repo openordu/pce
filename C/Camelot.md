@@ -2,46 +2,73 @@
 layout: layouts/pce.njk
 title: Camelot
 icon: file-lines
-order: 387
+order: 431
 contributors: [ 'Christopher Godwin' ]
 attributes:
-  - Camelot distinguished from Avalon
-  - Avalon the Otherworld realm of the Lady Of The Lake and other powerful beings
-  - Camelot entirely of this world
-  - Camelot affected by influences from beyond
+  - Camelot legendary court of King Arthur
+  - Camelot distinct from the place of Avalon
+  - Round Table table around which the knights sat
+  - Cadbury Camp one claimed site in Somerset
+  - Avalon separate otherworld of the Lady of the Lake
 categories:
-  - Location
-  - Person
+  - artifact
+  - character
+  - mythological figure
+  - location
+  - Place
 entities:
-  - Camelot(Location)
-  - Avalon(Location)
-  - Otherworld(Location)
-  - Lady Of The Lake(Person)
+  - Camelot(location)
+  - Arthur(character)
+  - Round Table(artifact)
+  - Merlin(mythological figure)
+  - Avalon(location)
+  - Otherworld(location)
+  - Lady of the Lake(mythological figure)
+  - Cadbury Camp(location)
+  - Somerset(location)
+  - Caerleon(Place)
+  - Tintagel(Place)
 tags:
   - Camelot
+  - Arthur
+  - Round Table
+  - Merlin
   - Avalon
   - Otherworld
-  - Lady Of The Lake
+  - Lady of the Lake
+  - Cadbury Camp
+  - Somerset
+  - Caerleon
+  - Tintagel
 ---
 ``` tab [group1:Info]
 ::: magazinestyle
-Welsh and British mythology have a site known as Camelot, where several places claim to have held King Arthur's legendary court. Here, the Round Table was surrounded by noble knights contemplating their next adventurous quest. Among several contenders, the Cadbury Camp in Somerset is a popular one. Allegedly, the powerful wizard Merlin erected the great palace overnight. Although the heroic King Arthur's downfall doomed Camelot to be a fading memory, the term has become synonymous with an ideal kingdom. It is important to note that Camelot and Avalon are unrelated, with the latter being the Otherworld realm of the formidable Lady Of The Lake and other potent beings. Even though Camelot was entirely of this world, it was undeniably influenced by forces beyond.
+Camelot is the fabled residence of King Arthur in medieval romance. Writers tie this court to many places. Candidates span England, Wales, Cornwall and Scotland. Sites with strong Celtic ties include Caerleon and Glastonbury. Tintagel Castle near Camelford stands in Cornwall. Exeter and Cadbury in Somerset are listed among English spots. Digs at Cadbury during the 1960s proved inconclusive. The court houses the knights of the fable. Arthur leads the court until his last battle. The name marks an ideal kingdom in the romances.
 
 :::
 ```
 ``` tab [group1:Attributes]
-- **Camelot**: distinguished from Avalon
-- **Avalon**: the Otherworld realm of the Lady Of The Lake and other powerful beings
-- **Camelot**: entirely of this world
-- **Camelot**: affected by influences from beyond
+- **Camelot**: legendary court of King Arthur
+- **Camelot**: distinct from the place of Avalon
+- **Round Table**: table around which the knights sat
+- **Cadbury Camp**: one claimed site in Somerset
+- **Avalon**: separate otherworld of the Lady of the Lake
 ```
 ``` tab [group1:Entities]
-- **Camelot**: Location
-- **Avalon**: Location
-- **Otherworld**: Location
-- **Lady Of The Lake**: Person
+- **Camelot**: location
+- **Arthur**: character
+- **Round Table**: artifact
+- **Merlin**: mythological figure
+- **Avalon**: location
+- **Otherworld**: location
+- **Lady of the Lake**: mythological figure
+- **Cadbury Camp**: location
+- **Somerset**: location
+- **Caerleon**: Place
+- **Tintagel**: Place
 ```
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
+- MacKillop 2008, s.v. 'Camelot'.
 ```
 ![Camelot Image](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Idylls_of_the_King_3.jpg/1200px-Idylls_of_the_King_3.jpg)

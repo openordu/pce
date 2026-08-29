@@ -1,0 +1,63 @@
+{
+  "name": "Conmac",
+  "text": "Conmac is a figure of early Irish tradition whose name appears also as Conmacc and Conmhac. The name means wolf's son. Tradition makes him the eponymous founder of Connemara, the west Galway district whose Irish name, Conmaicne Mara, means Conmac's people of the sea. The sources disagree over which bearer founded the district. One line names Conmac the by-blow of Medb and Fergus mac Roich. Another names Lugaid Conmac, a figure whom some texts call Lugaid mac Con. The question stays open in the tradition.",
+  "entities": [
+    {
+      "entity": "Conmac",
+      "type": "person"
+    },
+    {
+      "entity": "Connemara",
+      "type": "place"
+    },
+    {
+      "entity": "Conmaicne Mara",
+      "type": "group"
+    },
+    {
+      "entity": "Medb",
+      "type": "person"
+    },
+    {
+      "entity": "Fergus mac Roich",
+      "type": "person"
+    },
+    {
+      "entity": "Lugaid Conmac",
+      "type": "person"
+    },
+    {
+      "entity": "Lugaid mac Con",
+      "type": "person"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Conmac",
+      "attribute": "name meaning wolf's son"
+    },
+    {
+      "entity": "Conmac",
+      "attribute": "eponymous founder of Connemara"
+    },
+    {
+      "entity": "Conmaicne Mara",
+      "attribute": "Irish name of Connemara meaning Conmac's people of the sea"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Conmac'."
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Record Conmac, the wolf's son and eponymous founder of Connemara.",
+    "key_results": [
+      "List the variant forms Conmacc and Conmhac and the meaning wolf's son.",
+      "Link him to Connemara through the tribal name Conmaicne Mara.",
+      "Record the disputed parentage: son of Medb and Fergus mac Roich, or Lugaid Conmac."
+    ],
+    "evidence": "MacKillop, Dictionary of Celtic Mythology, 2008"
+  }
+}

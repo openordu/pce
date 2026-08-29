@@ -1,0 +1,43 @@
+{
+  "name": "Cassivellaunus",
+  "text": "Cassivellaunus, or Cassibelanus, was a British chieftain whose lands lay north of the Thames. He led the forces that resisted Caesar's second invasion in 54 BC. He was eventually beaten and sued for peace. Shakespeare knew him as Cassibelen in the play Cymbeline. He may have shaped the figure of Caswallon in Welsh literature. Some accounts name him a brother of Lludd. His defence of the river crossing delayed the Roman advance. The Romans gave this title through their writers, not their own tongue.",
+  "entities": [
+    {
+      "entity": "Cassivellaunus",
+      "type": "Person"
+    },
+    {
+      "entity": "Julius Caesar",
+      "type": "Person"
+    },
+    {
+      "entity": "Lludd",
+      "type": "Deity"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Cassivellaunus",
+      "value": "British chieftain who fought Caesar's second invasion"
+    },
+    {
+      "entity": "Cassibelen",
+      "value": "Shakespeare's name for the same figure in Cymbeline"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Cassivellaunus'."
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Record Cassivellaunus as a verified PCE node.",
+    "key_results": [
+      "Factual text written in CSG-style prose of at least 250 chars.",
+      "Entities and attributes recorded for the chieftain and his foes.",
+      "Protected fields set to empty defaults."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Cassivellaunus'."
+  }
+}

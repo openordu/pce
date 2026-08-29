@@ -12,6 +12,14 @@
     {
       "entity": "Arthur",
       "attribute": "cousin of Cilydd and king of Camelot"
+    },
+    {
+      "entity": "Cilydd",
+      "attribute": "son of Celyddon Wledig"
+    },
+    {
+      "entity": "Cilydd",
+      "attribute": "sought a wife equal to his own station"
     }
   ],
   "entities": [
@@ -34,23 +42,39 @@
     {
       "entity": "Camelot",
       "type": "location"
+    },
+    {
+      "entity": "Celyddon",
+      "type": "mythological figure"
+    },
+    {
+      "entity": "Culhwch ac Olwen",
+      "type": "text"
+    },
+    {
+      "entity": "Culhwch",
+      "type": "hero"
     }
   ],
   "sources": [
-    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.",
+    "MacKillop 2008, s.v. 'Cilydd'."
   ],
   "image": [
     "https://upload.wikimedia.org/wikipedia/commons/1/10/Jesus-College-MS-111_00400_200v_%28cropped%29_Culhwch_ac_Olwen.jpg"
   ],
   "cyphertext": "e2NLAH4RisW6fNsomGVakADJDU851S-4yYwiaGm_qYv2xeTJWRa2IoQ-KZ2qmsDtF-AvGVFSHy9r_UE8pM5OnUuhuL9XSY2sJ-aOLSLnxPWAfeA0Z8yHAvyZUVr7YhEkuUoF7_XYY1-V_caeJELxIU5_fu_z0frdKxH5zGGCuTmMjJFS5jnCgANibrrUOLW4BJ_EyOgmNr7E4XWYdWvOWBszsdPhulwnb_Yra7ldixd9WWhY000C2al7BEbwK47NzGQnrI36pK09YnMr7BQyf8XZjYFz1Y31g3Wvv3k=",
   "salt": "0ky_hxiyUox3ZVYwbx_C1g==",
-  "text": "Cilydd was a Welsh hero. As the hero Kulhwch's father, he urged the young man to search for his true love, the maiden Olwen. He sent Kulhwch to King Arthur of Camelot, his cousin, to ask for help.",
+  "text": "Cilydd was a Welsh hero and the son of Celyddon Wledig. As the father of the young hero Kulhwch, he urged the lad to search for his true love, the maiden Olwen. After his wife died, Cilydd looked for a new wife whose rank matched his own, and that search opens the tale Culhwch ac Olwen. The daughter of his new bride was Olwen herself, the maiden his son had to win. Cilydd sent Kulhwch to King Arthur of Camelot, his cousin, so that the young man could ask for help in winning his bride.",
   "okr": {
     "objective": "Cilydd directs his son toward the court of Arthur so Kulhwch can win Olwen.",
     "key_results": [
       "Cilydd is a Welsh hero and the father of Kulhwch.",
       "Kulhwch seeks help from King Arthur at Camelot.",
-      "Olwen is the true love that Kulhwch tries to win."
+      "Olwen is the true love that Kulhwch tries to win.",
+      "Cilydd is the son of Celyddon Wledig.",
+      "After his wife died, he sought a new wife of rank equal to his own.",
+      "That search opens the tale Culhwch ac Olwen, in which Olwen is the daughter of his new wife."
     ],
     "evidence": "Monaghan, Encyclopedia of Celtic Mythology and Folklore"
   }

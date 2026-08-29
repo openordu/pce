@@ -32,6 +32,54 @@
     {
       "entity": "Cairbre Lifechair",
       "type": "character"
+    },
+    {
+      "entity": "Conn Cétchathach",
+      "type": "person"
+    },
+    {
+      "entity": "Art mac Cuinn",
+      "type": "person"
+    },
+    {
+      "entity": "Étain",
+      "type": "character"
+    },
+    {
+      "entity": "Lugaid mac Con",
+      "type": "person"
+    },
+    {
+      "entity": "Eithne Tháebfhota",
+      "type": "character"
+    },
+    {
+      "entity": "Cathaír Mór",
+      "type": "person"
+    },
+    {
+      "entity": "Munster",
+      "type": "place"
+    },
+    {
+      "entity": "Connacht",
+      "type": "place"
+    },
+    {
+      "entity": "Angus",
+      "type": "person"
+    },
+    {
+      "entity": "Cellach",
+      "type": "character"
+    },
+    {
+      "entity": "Gráinne",
+      "type": "character"
+    },
+    {
+      "entity": "Sovereignty",
+      "type": "concept"
     }
   ],
   "attributes": [
@@ -50,24 +98,64 @@
     {
       "entity": "Cormac mac Airt",
       "attribute": "lost the throne through blemish"
+    },
+    {
+      "entity": "Cormac mac Airt",
+      "attribute": "first king seated at Tara"
+    },
+    {
+      "entity": "Cormac mac Airt",
+      "attribute": "reigned forty years with interruptions from ad 227"
+    },
+    {
+      "entity": "Conn Cétchathach",
+      "attribute": "grandfather of Cormac mac Airt"
+    },
+    {
+      "entity": "Art mac Cuinn",
+      "attribute": "father of Cormac mac Airt"
+    },
+    {
+      "entity": "Medb Lethderg",
+      "attribute": "sovereignty queen who confirms the king of Tara"
+    },
+    {
+      "entity": "Manannán mac Lir",
+      "attribute": "hosted Cormac in the Land of Promise"
+    },
+    {
+      "entity": "Cairbre Lifechair",
+      "attribute": "son and successor of Cormac mac Airt"
+    },
+    {
+      "entity": "Angus",
+      "attribute": "blinded Cormac in the Déisi revenge"
+    },
+    {
+      "entity": "Cormac mac Airt",
+      "attribute": "subject of O'Rahilly's 1946 idealization argument"
     }
   ],
   "sources": [
     "Cross, Tom Peete, and Clark Harris Slover, eds. Ancient Irish Tales. (New York: Henry Holt and Co., 1936), 503.",
     "O’Rahilly, Thomas. Early Irish History and Mythology. Dublin: The Dublin Institute for Advanced Studies, 1946, 132.",
-    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.",
+    "MacKillop 2008, s.v. 'Cormac mac Airt'."
   ],
   "cyphertext": "ZipVz1V4NxxQa-ntCsnHhAXypVgP-r8yLIbFHTJIvi4amVN6705GrXwH8DFU2O1gftbGsr8O7XZDM2bX9T4hOaEcjo2K--dPMZWmTtQJu6EsNB10aw7tFFHb-C7zvUQ2kSIDC19XYR7gScd6V0Fs4cAuuIyda_yCmMLbJ9ploTf5tLgWaMJ1P9t0u3ZRphGydpzE6HicTaR5X8-q0wwgB91ffjqwRkO2vUTDiYs67__cv9t03SqPCzS61ePoRs4F0sX2vk7zQuchU9TOSto1cROCmFdVB8HJMaMly9wwKw4ERuG6Cr9Kfz4TbdbGOenNwclDkGnJ3Hm-PyARb_rZKXsqg5zLLHkjg9xX3TvFfGNCdtAZeuMYPynNl28SElYOfAI5t6V7ZwZa7laP9yPy66fAUJr8XFwryAxBuY7X_a3CY607hkv6aCDFr7kLen7rhO-Hrg7B9K8RFBjmaplwxeAXBOmxs5aHbjL9UN463Suzhri8n4IIRYp_8EQr9qtl33fxnAk6CugSN5MAFtVBJ0sspby1xFeh7g7oC0rOeEqTJY_PJbUZ2yToMiLb8pI4VraJgAsVjZ08kvivEgHuvZUPPsUK46rGfxN_T5q94j0gCMMsGjJlEsPyWNN5iZrMe89Xpt8NQyC74yQfvrjXjFah617Vw3adpQpk659rbyhhv7CPcXhMJrIW3KQfPyN39OO4gbrFsYouYn2Mkjmp9V94KToR_ZnreARhBdIUQJJWU90zuO7F857Ywscl_bXzJwcoKopoQvwqfiVovgLbbglzFM3qNRFTcHmvTPQGv2zuK1kgiij9bCJjko0v0uprHD7rDyHE5mRJsh1fX0PXGjsmFWD3bX22kFJYZNFARi2LCUTo11dlRYfr-bcnVSwzSE1sQCrOuBAho0d55jHYlqaV9dnq__1c-2H3KquzSp2E-iDniKy2i0RWvRZfEoUoLNxbAuu8BITQXffsS89hwDOKbS5K4uIcfEf72mA6uiRISOLk_jU2LA_Q2XCryTEM3a-d8J9U3xKMWBjylkY1e4WzcXjW4Gpk0qrMMtN0tSgzWVuvbGAlATJ8qGEMr-Qv6nWVThmgoP_efcUjUPP4ghanVY2oAJZpGcDWoCKU3w-32OEan8wyXoFad1KQ3R5Z4vmSw9mD11OFKN6I190vwxXqUkGsNxYhPgornJ4GhlRyMHsEpcYon0dy7IvcqIcHDXdUfl3tFg1F7mkjcb1ejtjSgOawAEXWpZK2qX1ENaCMJMqt_uyjK2-a_cX3pRsXLOcC5jFX8oWq3kgNmJbF8UgnYqdrhYKMTpV00YInU1Nre78a3v3CO4a-8w1AZLeFV-SxZd4UbIg8_5dTvDU1UNYO9jEFz5gKFkbAWb8NybIrz1Vo-RgNOi8V6IFdvy5aUhMLZhBE_xMw8q-0KZICJkNULpfrRZv4UHC5usWRWi30myLl6rr8JAAqdm97IvPCbeuBrVO2_JjyUEDNn5I1zn3F9cnaQp2xadkoK7b9BWqMnDWPbFT5MYkioiF2LllLM7m1Z5LVtISo_YHqTX2J3lrOAQpqL8_OttS9koFCnejBDZMHyQvDX9eRId-UZXOsny6UWkpmiZe9D6LfqXal0xsOCy2WX0mBXW77j0_xsFFPVE0F1rA420WDFhjlSuuzDf9R62UmKlTJvNxkXny1HahlHM3TqmwovHWZmRhGZbDnN1MpqK96jt-61VCXUTa9dgwnmviOHUNs5vAYt5PU6enDhgifGsQT_Xu2-k-lme5RqHQTL2JqpZgE3OxAM8GxiHBSegqNlnMLbKq2SZeuwgmbSj0pa2dUYQNgHYBrKWTHnMVrN8DrS5OoooxiwEZv-Hn-TLmctKW8cJNTsHIBXSYyDXDPxCHxPX5___L9Si2ex-eQczqwpzJyU28kH-FmzQiVTlz8JwoybpumJFvrH16suUXMi0X7J8o3DWjWDCb4zzy5CsHuVgddbt80p1EzlVE0NXHxqF8JN7kElvMMcBJ48tuoIKwK9lVOcRD_bwPgRztRb8SN7k0q0ktpQ9vbLRKB-SF5ZbyWP4l0waF2CgXElTLHUF6AbCJs-1yTQ93PMC6-kzV5Bq6l8G4cTzE6fSvQ7lDY9z-LbVxsqt4b0vFEsar7Hg9p4XYZVZgeMLb8Rankr7OCx19hX5i9OEkj8fLvpFrr3C1Giozgw0PbYpgnagdO0Mw467BVuoVJqYLsMNZfSJe8T-GbEMkYdPnHApooa96aqyfqz45ZIc7hupHaGeliVVg-CrZFJ4kiZ548mTOqXDgxt6SoYbgAdtoWyvJ19Ysl5SlXO7WQnZo_N00kksWc3g-IRMdy8mf-fiVmSTwlIdjY0_hHAOP5yW7QaHtkdAzQScPmJXd_FcVBlpz8Ojy8N7yjVw0n_OrQRnJBjsE9Hz051APOm7fo8etpQpDI98sivfdD7kRNcQoXuG8N42_9zo5cv0wVjPys9Rd8xZngdF7BBz6gS61hGCvh-gDPx5ro2zczVzHYdFYzTfoU3tuCx8SBIYRUCh9cvMVgcQJzy8cfnxBm4GO0NwHj8HQG_q1ipEmEPC5Sj2N5AvZAzQF_sVtfmlpigK3hUVcP8wsdIRV5rskGrqbA8-kV9zMV45C_QjgqRMW6SO-1GpBDL5gTijE9kcvID0F9h--O53DUqCmEho0jrp6LQRp2Ai_J_PrwdZU5nI87tIK7sPxkTUbXya4Aqel_otlNJR9bJqfM7atnpHutgjc_z12vBrIJpbsZHDZ9_cbkO52faNBfI55eDHMGfpMMRdRT-auqRLLrcMR7GgR6c8wTbu8TZW_JwhP3ms99AvjOUpOVHyWJHZn4RlWNxjlpX600n550ZCW17T-XBec3by8HMmClrmi7JIARW--HeZ1gNqK07JhLl3pS5DsCeyEM7aKEL4-fl_e33Crf1Y8F6L7mCyEzYlVSXqzqGyc40X_9E6cJn3t-bfG8450dmVAGfHheynoDXecvyEqifKoKGl731L35qdvlxE-AfzDy-nOb3-upv1BxcK7cgMQNaHonN3cnd2B_-hkVJdFAB7a5uYaYrb_cS2rvNkIbOsLVHa1R5yKUq7SKe6lrMP4s_Z_hhio=",
   "salt": "eNksJ2UtQZmRGLn7YO48OA==",
-  "text": "Cormac mac Airt ranks as the high point among Ireland's many Cormacs. He reigned from Tara, and the country thrived under a fair ruler. Salmon cleared the rivers with their jumps, the corn mounted heavy, and the cows bore more milk than any pail could hold. The celebrated warrior Fionn Mac Cumhaill headed the Fianna during his time. The birth of Cormac was ringed by omens. His father Art mac Cuinn slept one night at a smithy whose prophecy said a child of his daughter Achtan would come to rule. Suckled by a wolf, Cormac was born under a hedgerow while a storm raged. As sovereign he crossed to the Otherworld and returned with a golden cup that shattered at a FALSE and healed to the tying of a truth. Forced from his seat, a battle left him with one eye gone, and such a marred king was not fit to govance. He set the throne over to his son Cairbre Lifechair instead.",
+  "text": "Cormac mac Airt stands as the most famous king in early Irish tradition, and the first whose court is placed at Tara. The annals give him a reign of forty years with interruptions, from ad 227 to 266. He also carries the names Cormac Ulfhada, 'long beard', and Cormac Ua Cuinn, a form that honours his grandfather Conn Cétchathach.\n\nTradition marks his reign with wonders. Calves dropped after three months, every ridge yielded a sack of wheat, the rivers ran thick with salmon, and the cows gave more milk than the vessels of the land could hold. Most episodes of the Fenian Cycle fall within his years, and Fionn Mac Cumhaill sometimes serves in his soldiery.\n\nHis line runs from Conn Cétchathach through the son Art mac Cuinn. One tradition names the mother Achtan, a smith's daughter. Another names Étain, a smith's daughter as well, with whom Art begot Cormac before the battle of Mag Mucrama, the fight that killed Art. On Art's word the mother travelled toward Connacht so that Art's friend there could foster the child. She gave birth in a brushwood during a thunderstorm, and a wolf carried the infant away and suckled him in its lair. Cormac later passed into the household of Lugaid mac Con, and he displaced that king through the strength of his better judgement.\n\nThe sovereignty figure Medb Lethderg, half-red and no relation to Medb of Connacht, appears as the queen whose favour confirms a king of Tara. One tale holds that Cormac remains a lad until he has shared her bed. She is one shape of the Sovereignty of Ireland, and the feasts of Tara and the marriage of kingship stories circle the same theme. The tale Esnada Tige Buchet tells how Cormac begot Cairbre Lifechair upon Eithne Tháebfhota, daughter of Cathaír Mór.\n\nThe best-known tale about him is Echtrae Cormaic, the journey to the Land of Promise. A warrior offers the young king a magical bough that brings sleep, and the stranger later proves to be Manannán mac Lir. In payment the warrior demands Cormac's wife among other things, a price the king refuses. Cormac follows him into an otherworld castle, where a wondrous golden cup stands. The cup splits apart at every lie and mends itself again at each truth. Manannán at last reveals himself, and Cormac returns home with the cup.\n\nHis dealings with the Fianna stay warm for most of his years. Fionn feasts at his board, and the two stand close. In several versions he is Fionn's father-in-law through Ailbe Gruadbrecc or Gráinne. Gráinne's betrothal to Fionn carries his approval, yet when she flees with Diarmait he shows the lovers restrained sympathy. The bond cools between his son and heir Cairbre Lifechair and the Fenians.\n\nCormac's power sets his half-brother Nia over Connacht as king. Yet it cannot hold his own kingship once blemish touches him. His nephew or son Cellach violates a maiden of the Déisi. Angus, the Déisi chieftain, avenges her, spears Cellach, and strikes out Cormac's eye with a spear-butt. A maimed man cannot bear the high kingship, so Cormac yields the throne to Cairbre. Among the Dál nAraide of the north a different tale ran, in which their eponym Fiachu Araide drove Cormac from Tara, and Fiachu Muillethan of Munster helped to restore him. The lost-parents motif at Cormac's birth recurs in his Munster contemporary Fiachu Muillethan.\n\nLater tales, coloured by Christian hands but alive in oral tradition, make Cormac oddly foreseeing the new faith. In one story he will not lie in pagan ground. Uí Néill families of medieval Ireland claimed descent from him. T. F. O'Rahilly argued in 1946 that Cormac was an idealized figure rather than the first Goidelic king at Tara. James Macpherson built a character named Cormac into Ossian in 1760. Tomás Ó Cathasaigh published the standard study of his heroic biography in 1977, and Andrew J. Offutt turned the persona into eight volumes of adventure fiction in the Cormac Mac Art run of books, 1979 to 1986.",
   "okr": {
-    "objective": "Cormac mac Airt is the greatest king of Tara.",
+    "objective": "Record Cormac mac Airt, the legendary high king of Tara, his line, his wonders, and his tales.",
     "key_results": [
-      "He ruled Tara and the land prospered.",
-      "Fionn Mac Cumhaill led the Fianna in his reign.",
-      "He won a golden cup from the Otherworld.",
-      "He surrendered the throne after losing an eye."
+      "Give the variant names Cormac Ulfhada and Cormac Ua Cuinn and the annalistic reign of forty years from ad 227.",
+      "Tell the Mag Mucrama birth tradition: the death of Art mac Cuinn, the smith's-daughter mother named Achtan or Étain, the thunderstorm birth, and the wolf that suckled the infant.",
+      "Record the prosperity wonders, the Fenian Cycle setting, and the place of Fionn Mac Cumhaill in his soldiery.",
+      "Tell Echtrae Cormaic with Manannán mac Lir and the golden cup that splits apart at lies and mends at truth.",
+      "Explain the Déisi revenge that cost Cormac his eye and his throne, and the Dál nAraide counter-tale of Fiachu Araide.",
+      "Name his family: grandfather Conn Cétchathach, the sovereignty queen Medb Lethderg, and son Cairbre Lifechair by Eithne Tháebfhota.",
+      "Note the Uí Néill descent claims, O'Rahilly's 1946 idealization argument, Macpherson's Ossian Cormac, and Offutt's eight adventure novels."
     ],
-    "evidence": "Monaghan, Encyclopedia of Celtic Mythology and Folklore"
+    "evidence": "Monaghan, Encyclopedia of Celtic Mythology and Folklore; MacKillop, Dictionary of Celtic Mythology"
   }
 }

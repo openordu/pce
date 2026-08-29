@@ -1,37 +1,59 @@
 {
-  "name": "Cooley",
-  "entities": [
-    {
-      "entity": "Cooley",
-      "type": "location"
-    },
-    {
-      "entity": "Cuailnge",
-      "type": "location"
-    }
-  ],
-  "attributes": [
-    {
-      "entity": "Cooley",
-      "attribute": "pointed to Cuailnge in the index"
-    },
-    {
-      "entity": "Cuailnge",
-      "attribute": "the fuller entry"
-    }
-  ],
-  "sources": [
-    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-  ],
-  "cyphertext": "d_aqbwO3d6aQSykElPrzDJvk_386EqbnEaI-Bog8O8qzuvtm_vTjpLTBgDSk1pCAvQ==",
-  "salt": "sbSXKbzfkYBZdcBpczuqPw==",
-  "text": "Cooley is a name in the index of the work. The line points the reader to the entry Cuailnge. The figure of Cuailnge carries the fuller telling.",
-  "okr": {
-    "objective": "Cooley is an index term for Cuailng.",
-    "key_results": [
-      "The index links Cooley to Cuailnge.",
-      "Cuailnge holds the fuller account."
-    ],
-    "evidence": "Monaghan, Encyclopedia of Celtic Mythology and Folklore"
+ "name": "Cooley",
+ "entities": [
+  {
+   "entity": "Cooley",
+   "type": "location"
+  },
+  {
+   "entity": "Cuailnge",
+   "type": "location"
+  },
+  {
+   "entity": "Táin Bó Cuailnge",
+   "type": "text"
+  },
+  {
+   "entity": "County Louth",
+   "type": "place"
+  },
+  {
+   "entity": "Dundalk Bay",
+   "type": "place"
+  },
+  {
+   "entity": "Carlingford Lough",
+   "type": "place"
   }
+ ],
+ "attributes": [
+  {
+   "entity": "Cooley",
+   "attribute": "peninsula in north-east County Louth"
+  },
+  {
+   "entity": "Cooley",
+   "attribute": "setting of the Táin Bó Cuailnge climax"
+  },
+  {
+   "entity": "Cuailnge",
+   "attribute": "Irish form of the name Cooley"
+  }
+ ],
+ "sources": [
+  "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.",
+  "MacKillop 2008, s.v. 'Cooley'."
+ ],
+ "cyphertext": "d_aqbwO3d6aQSykElPrzDJvk_386EqbnEaI-Bog8O8qzuvtm_vTjpLTBgDSk1pCAvQ==",
+ "salt": "sbSXKbzfkYBZdcBpczuqPw==",
+ "text": "Cooley is a peninsula in the north-east of County Louth in Ireland, between Dundalk Bay and the waters of Carlingford Lough. Cuailnge is the Irish form of the name. Many of the climactic scenes of the Irish epic Táin Bó Cuailnge, the Cattle Raid of Cooley, play out on this ground. The name also points readers to the fuller account under Cuailnge.",
+ "okr": {
+  "objective": "Give the geography of Cooley and its place in the Táin.",
+  "key_results": [
+   "Locate the peninsula between Dundalk Bay and Carlingford Lough.",
+   "Give the Irish form Cuailnge of the name.",
+   "Tie the peninsula to the climax of the Cattle Raid of Cooley."
+  ],
+  "evidence": "Monaghan, Encyclopedia of Celtic Mythology and Folklore; MacKillop, Dictionary of Celtic Mythology, 2008"
+ }
 }

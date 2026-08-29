@@ -1,0 +1,47 @@
+{
+  "name": "Cas Corach",
+  "text": "Cas Corach, also spelled Cascorrach or Cas Corrach, was a harper of the Tuatha De Danann. The Irish name cas means curled or skilled, a fitting word for a musician. He is described as playing his harp for Saint Patrick. In the Acallam na Senorach, he follows Cailte to hear the lore of the Fenians. He wished to learn the patriotic stories of that old warrior band. His music bridged the ancient pagan world and the new Christian faith.",
+  "entities": [
+    {
+      "entity": "Cas Corach",
+      "type": "Person"
+    },
+    {
+      "entity": "Tuatha Dé Danann",
+      "type": "Group"
+    },
+    {
+      "entity": "Caílte",
+      "type": "hero"
+    },
+    {
+      "entity": "Fianna",
+      "type": "group"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Cas Corach",
+      "value": "harper of the Tuatha De Danann"
+    },
+    {
+      "entity": "Cailte",
+      "value": "companion who teaches the lore of the Fenians"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Cas Corach'."
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Record Cas Corach as a verified PCE node.",
+    "key_results": [
+      "Factual text written in CSG-style prose of at least 250 chars.",
+      "Entities and attributes recorded for the harper and his kin.",
+      "Protected fields set to empty defaults."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Cas Corach'."
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Cashel",
+  "text": "Cashel is a limestone acropolis standing two hundred feet above central Tipperary. Its crag is called the Rock of Cashel and ranks among the best-known sites in Ireland. The name stems from the Latin word castellum, a fort. The Eoganacht may have taken the rock in the fifth century. Saint Patrick is thought to have visited the place. The first use of a shamrock marks this ground in tradition. Cashel was once called Caisel Mumhan to mark it as the royal seat of Munster. It remains the only Irish royal seat with a Latin-derived name. Cormac's Chapel was built upon the rock between 1127 and 1134. Its patron, Cormac mac Carthaig, died in 1138. The site passed to the Church in the early twelfth century.",
+  "entities": [
+    {
+      "entity": "Cashel",
+      "type": "Place"
+    },
+    {
+      "entity": "Shamrock",
+      "type": "Plant"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Cashel",
+      "value": "limestone acropolis and royal seat in Tipperary"
+    },
+    {
+      "entity": "Cormac mac Carthaig",
+      "value": "patron of Cormac's Chapel above the rock"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Cashel'."
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Record Cashel as a verified PCE node.",
+    "key_results": [
+      "Factual text written in CSG-style prose of at least 250 chars.",
+      "Entities and attributes recorded for the rock and its chapel.",
+      "Protected fields set to empty defaults."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Cashel'."
+  }
+}

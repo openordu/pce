@@ -1,0 +1,39 @@
+{
+  "name": "Carras Dhoo",
+  "text": "Carras Dhoo is the theme of a Manx legend about a band of robbers. These men lived on the Isle of Man in old days. They served a hard trade on the water. Their ploy was to lure ships onto the broken shores of Maughold Head. They hoped each vessel would tip and sink. The crews would die as their boats broke upon the stones. Most tellings paint these men as murderers and villains. Some writers soften them into romantic figures instead. Esther Nelson told their tale in a Minstrelsy volume from 1837. Hall Caine later used this pair in his novel The Manxman in 1897.",
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "sources": [
+    "MacKillop 2008, s.v. 'Carras Dhoo'."
+  ],
+  "attributes": [
+    {
+      "entity": "Man",
+      "attribute": "the island where these legendary robbers acted"
+    },
+    {
+      "entity": "Maughold",
+      "attribute": "their headland on the eastern shore"
+    }
+  ],
+  "entities": [
+    {
+      "entity": "Maughold",
+      "type": "Person"
+    },
+    {
+      "entity": "Isle of Man",
+      "type": "Place"
+    }
+  ],
+  "okr": {
+    "objective": "Record the Manx robbers of Carras Dhoo and their fate.",
+    "key_results": [
+      "--State that they lured ships to Maughold Head.",
+      "--Give the cruel and kindly readings of their tale.",
+      "--cite MacKillop 2008, s.v. 'Carras Dhoo'."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Carras Dhoo'."
+  }
+}

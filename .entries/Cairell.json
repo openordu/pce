@@ -1,0 +1,26 @@
+{
+  "name": "Cairell",
+  "attributes": [
+    {"entity": "Cairell", "attribute": "a son of the champion Fionn mac Cumhaill"},
+    {"entity": "Cairell", "attribute": "slain during the feud between his father and Goll mac Morna"}
+  ],
+  "entities": [
+    {"entity": "Cairell", "type": "Person"},
+    {"entity": "Fionn mac Cumhaill", "type": "Person"},
+    {"entity": "Goll mac Morna", "type": "Person"}
+  ],
+  "sources": ["MacKillop 2008, s.v. 'Cairell'."],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "text": "Cairell was a son of the great champion Fionn mac Cumhaill. Goll mac Morna killed him during the bitter feud with his father. Goll stood as Fionn's sometime rival in that long struggle. The record of Cairell himself stays very brief in the tales. This one slaying sums up most of what texts recall about him. His death shows how tenacity of the family feud touched even the sons of the hero.",
+  "okr": {
+    "objective": "Document Cairell, the son of Fionn mac Cumhaill whom Goll mac Morna killed.",
+    "key_results": [
+      "Cairell was a son of the hero Fionn mac Cumhaill",
+      "Goll mac Morna slew him in the feud with the father",
+      "The tales give only a brief note about Cairell himself"
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Cairell'."
+  }
+}

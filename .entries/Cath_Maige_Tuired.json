@@ -1,0 +1,28 @@
+{
+  "name": "Cath Maige Tuired",
+  "text": "Cath Maige Tuired is the Irish title of this key Mythological Cycle document. It tells of two clashes at Mag Tuired, the Plain of Pillars, twenty-seven years apart. The first fight falls at Beltaine near Cong in County Mayo. There the Danann overcome the Fir Bolg. Their king Nuadu loses an arm to the warrior Sreng. Dian Cécht and the smith Credne fit him with a silver arm, but a maimed man cannot reign. Kingship passes to Bres, born to a Danann mother and the Fomorian ruler Elatha. Bres rules harshly and shows no generosity. The poet Cairbre satirizes him, and red blotches break out on his skin. Nuadu then takes the throne again. The young hero Lug Lamfhota arrives, proves mastery of every art as Samildanach, and Nuadu yields him the kingship. Lug leads the Danann against the resurgent Fomorians and slays Balor at Samain. The tale places Mag Tuired at Moytirra near Lough Arrow in County Sligo. That landscape holds megalithic monuments raised between 2000 and 2500 BC.",
+  "entities": [
+    {"entity": "Tuatha Dé Danann", "type": "Group"},
+    {"entity": "Lug Lamfhota", "type": "Deity"}
+  ],
+  "attributes": [
+    {"entity": "Fir Bolg", "attribute": "Lost the first battle and kept only Connacht under their warrior Sreng."},
+    {"entity": "Nuadu", "attribute": "Lost an arm in the first battle, wore a silver limb, and later handed his throne to Lug."},
+    {"entity": "Bres", "attribute": "Ruled after Nuadu but proved mean, and a satire from Cairbre drove him out."},
+    {"entity": "Fomorians", "attribute": "Challenged the Tuatha Dé Danann again in the second battle at Mag Tuired."},
+    {"entity": "Balor", "attribute": "Led the Fomorians and fell to Lug at the second battle on Samain."}
+  ],
+  "okr": {
+    "objective": "Record the two clashes at Mag Tuired in Irish tradition.",
+    "key_results": [
+      "Two battles at Mag Tuired fall twenty-seven years apart.",
+      "Nuadu loses an arm, and Lug wins the kingship before defeating Balor.",
+      "The plain is placed at Moytirra near Lough Arrow in County Sligo."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Cath Maige Tuired'."
+  },
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "sources": ["MacKillop 2008, s.v. 'Cath Maige Tuired'."]
+}

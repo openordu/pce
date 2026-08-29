@@ -1,0 +1,32 @@
+{
+  "name": "Colla",
+  "text": "Colla is an Irish name, perhaps meaning great lord or chief, borne by shadowy figures of Ireland's early centuries. The fourth-century brothers were Colla Uais, the noble one, and Colla Menn, the notable or stammering one. Colla Fo Chrith, also called Dachrich, completed the trio. Eochu Doimlén fathered all three. Their grandfather was Cairbre Lifechair. They murdered their uncle Fiachu, then founded the kingdom of Airgialla in Ireland's north-east. They attacked Emain Macha, ending its political role. Clan Donald and the MacDonald Lords of the Isles claimed descent from Colla Uais and Conn of the Hundred Battles. Colla Uais, tradition says, held Scotland before Dál Riada arrived. T. F. O'Rahilly deemed Colla a nickname for three sons of Niall Noigiallach: Conall Gulban, Énna, and Eógan.",
+  "entities": [
+    { "entity": "Colla", "type": "mythological figure" },
+    { "entity": "Airgialla", "type": "place" },
+    { "entity": "Emain Macha", "type": "place" },
+    { "entity": "Cairbre Lifechair", "type": "mythological figure" },
+    { "entity": "Conn of the Hundred Battles", "type": "mythological figure" }
+  ],
+  "attributes": [
+    { "entity": "Colla", "attribute": "name of the three fourth-century brothers called the Three Collas" },
+    { "entity": "Colla", "attribute": "brothers who founded the kingdom of Airgialla" },
+    { "entity": "Colla", "attribute": "claimed ancestor of the MacDonald Lords of the Isles" }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Colla'."
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Colla names the three brother-kings who founded Airgialla and sired the MacDonald line.",
+    "key_results": [
+      "Identifies the three brothers Colla Uais, Colla Menn, and Colla Fo Chrith as sons of Eochu Doimlén",
+      "Records their murder of Fiachu, their founding of Airgialla, and their assault on Emain Macha",
+      "Traces Clan Donald and the MacDonald Lords of the Isles back to Colla Uais and Conn of the Hundred Battles",
+      "Notes O'Rahilly's argument that Colla was a nickname for three sons of Niall Noigiallach"
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Colla'."
+  }
+}

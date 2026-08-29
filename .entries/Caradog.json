@@ -1,0 +1,69 @@
+{
+  "name": "Caradog",
+  "entities": [
+    {
+      "entity": "Caradog",
+      "type": "hero"
+    },
+    {
+      "entity": "Caractacus",
+      "type": "hero"
+    },
+    {
+      "entity": "Cartimandua",
+      "type": "Person"
+    },
+    {
+      "entity": "Brigantes",
+      "type": "Group"
+    },
+    {
+      "entity": "Cynfelyn",
+      "type": "character"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Caradog",
+      "attribute": "a son of Cynfelyn"
+    },
+    {
+      "entity": "Caradog",
+      "attribute": "a national hero in Welsh tradition"
+    },
+    {
+      "entity": "Caradog",
+      "attribute": "known to the Romans as Caractacus"
+    },
+    {
+      "entity": "Caradog",
+      "attribute": "trained with the Silures to guard western Britain"
+    },
+    {
+      "entity": "Caradog",
+      "attribute": "betrayed by Cartimandua of the Brigantes"
+    },
+    {
+      "entity": "Cartimandua",
+      "attribute": "queen who betrayed Caradog to the Romans"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Caradog'."
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "text": "Caradog, a son of Cynfelyn, was an ancient British chieftain. The Welsh claim him as a national hero. The Romans wrote his name as Caractacus. He drilled with the Silures so the west of Britain could hold against Rome. He led his people in battle across eight years under the emperor Claudius. Beaten on a Shropshire hillside, he ran to Cartimandua, queen of the Brigantes. That queen handed him over to her Roman captors. Brought to Rome, his pride so pleased the emperor that he gave a pardon and freedom. In Welsh lore his name stands for bravery and high standing. He earned the title the Pillar of Wales.",
+  "okr": {
+    "objective": "Caradog was a British chieftain whom the Welsh honour as a national hero.",
+    "key_results": [
+      "Caradog, son of Cynfelyn, resisted Rome from the west of Britain.",
+      "The Silures trained him to guard the land.",
+      "Cartimandua of the Brigantes betrayed him.",
+      "The emperor Claudius pardoned Caradog at Rome.",
+      "His name became a byword for bravery and nobility."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Caradog'."
+  }
+}

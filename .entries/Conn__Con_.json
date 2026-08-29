@@ -20,6 +20,42 @@
     {
       "entity": "anglicisation",
       "type": "concept"
+    },
+    {
+      "entity": "Conn",
+      "type": "person"
+    },
+    {
+      "entity": "Conn Cétchathach",
+      "type": "person"
+    },
+    {
+      "entity": "Lir",
+      "type": "person"
+    },
+    {
+      "entity": "Fiachra",
+      "type": "person"
+    },
+    {
+      "entity": "Children of Lir",
+      "type": "tale"
+    },
+    {
+      "entity": "Febal",
+      "type": "person"
+    },
+    {
+      "entity": "Fianna",
+      "type": "group"
+    },
+    {
+      "entity": "Fionn mac Cumhaill",
+      "type": "person"
+    },
+    {
+      "entity": "Pwyll",
+      "type": "person"
     }
   ],
   "attributes": [
@@ -34,22 +70,39 @@
     {
       "entity": "anglicisation",
       "attribute": "reshaped Celtic names for the lay reader"
+    },
+    {
+      "entity": "Conn",
+      "attribute": "name perhaps from a word for wisdom, sense, or reason"
+    },
+    {
+      "entity": "Conn",
+      "attribute": "carried by dozens of early Irish figures"
+    },
+    {
+      "entity": "Conn",
+      "attribute": "twin son of Lir in the Children of Lir"
+    },
+    {
+      "entity": "Conn",
+      "attribute": "son of Febal among the Fianna"
     }
   ],
   "sources": [
-    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.",
+    "MacKillop 2008, s.v. 'Conn'."
   ],
   "cyphertext": "6R7OU4ZnSfjG-3swpmoN_DzQHh_4vYS9Teyogvr7SYIeeWI9FM-W_0BI2zfxPW3RKqiEGVHkgATLR7HPsWWgWU1pFQ1DWA-uZ891P855Bh-WD5LPN9r-6z_CIxVisVaj4kXTAnxpl2viJfKpEnSD",
   "salt": "TzkD3i4hPwgIwBJxbFtyOg==",
-  "text": "The record here turns to the fairy faith of the Celts and to the naming of Celtic figures. The fairy belief shows religious features. Legend says the fairies were once gods. The leprechaun, for one, carries the name of the god Lugh. Some scholars reject the link between folk figures and the old gods. Others find resonances between the two. The hero Ass of the tales appears in folklore as the giant Finn McCool. Celtic religion did not start in writing. It started in oral story. Transcribers spelled names in many ways, and later authors anglicised them for the English reader.",
+  "text": "Conn (Con) is a name that dozens of early Irish figures carry, most of them from powerful families, perhaps chosen in tribute to Conn Cétchathach. The name may grow out of a word for wisdom, sense, or reason. Welsh Pwyll offers a comparison. It may also stand as a pet form of cú or con, words for wolf or hound. One early bearer is Conn, a child of Lir and the twin of Fiachra in the sad tale of the Children of Lir. Another is Conn son of Febal, who ranks among the Fianna of Fionn mac Cumhaill. The record here turns to the fairy faith of the Celts and to the naming of Celtic figures. The fairy belief shows religious features. Legend says the fairies were once gods. The leprechaun, for one, carries the name of the god Lugh. Some scholars reject the link between folk figures and the old gods. Others find resonances between the two. The hero Ass of the tales appears in folklore as the giant Finn McCool. Celtic religion did not start in writing. It started in oral story. Transcribers spelled names in many ways, and later authors anglicised them for the English reader. That habit of respelling explains why this short name survives in so many shapes.",
   "okr": {
-    "objective": "The record treats fairy belief and the varying spellings of Celtic names.",
+    "objective": "Record the name Conn (Con), its etymologies, and its chief bearers.",
     "key_results": [
-      "The fairy faith shows religious features.",
-      "Fairies are said to have once been gods.",
-      "The leprechaun holds the name of the god Lugh.",
-      "Names were spelt several ways before print standardised them."
+      "Give the twin etymologies: a word for wisdom, sense, or reason, or a pet form of cu/con, wolf or hound.",
+      "Note the many powerful-family bearers, perhaps in tribute to Conn Cétchathach.",
+      "Identify Conn son of Lir, twin of Fiachra, and Conn son of Febal of the Fianna.",
+      "Frame the oral-transmission and anglicisation habit behind the many spellings."
     ],
-    "evidence": "Monaghan, Encyclopedia of Celtic Mythology and Folklore"
+    "evidence": "MacKillop, Dictionary of Celtic Mythology, 2008"
   }
 }

@@ -2,64 +2,81 @@
 layout: layouts/pce.njk
 title: Conaire
 icon: file-lines
-order: 504
+order: 0
 contributors: [ 'Christopher Godwin' ]
 attributes:
-  - the hostel burst into flame
-  - he stricken with an unquenchable thirst
-  - his inauguration made him the spouse of the lady of the land's Sovereignty
-  - the fearsome hag threatened him as his life ended
-  - the lady of the land's Sovereignty None
+  - Conaire came naked to Tara
+  - Conaire was of the bird race
+  - birds crowded about Conaire
+  - ritual bound a seer in bulls hides
+  - Trotternish site of an oxhide rite
+  - Conaire high king chosen by the bull feast
+  - Conaire bound by the bird observances given by Nemglan
+  - Conaire slain by marauders at Da Derga's hostel
 categories:
-  - position
+  - event
   - place
-  - person
-  - relationship
-  - form
+  - mythological figure
+  - location
+  - animal
 entities:
-  - she(person)
-  - him(person)
-  - magical position(position)
-  - hostel(place)
-  - spouse(relationship)
-  - lady of the land's Sovereignty(person)
-  - fearsome hag(person)
-  - vengeful form(form)
+  - Conaire(mythological figure)
+  - Tara(place)
+  - birds(animal)
+  - ritual(event)
+  - Trotternish(location)
+  - Mess Buachalla(mythological figure)
+  - Da Derga(location)
+  - Mac Cécht(mythological figure)
+  - Nemglan(mythological figure)
+  - Eochaid Airem(mythological figure)
+  - Brega(location)
 tags:
-  - she
-  - him
-  - magical position
-  - hostel
-  - spouse
-  - lady of the land's Sovereignty
-  - fearsome hag
-  - vengeful form
+  - Conaire
+  - Tara
+  - birds
+  - ritual
+  - Trotternish
+  - Mess Buachalla
+  - Da Derga
+  - Mac Cécht
+  - Nemglan
+  - Eochaid Airem
+  - Brega
 ---
 ``` tab [group1:Info]
 ::: magazinestyle
-Conaire, also known as Conare, Conaire Mór, or Conaire Mess Buachalla, was an Irish hero. His mother, Mess Buachalla, had a child with the bird god Nemglan making Conaire the grandson of the fairy queen Étain. The importance of every sacred vow or Geis that was required of the ruler is emphasized in Conaire's story. Conaire became the king of Tara after a Divination (see Bull-Sleep) revealed that he was the rightful ruler. Once inaugurated, he was required to meet certain demands, one of which was to never stand between two competing vassals. Unfortunately, he disregarded this stipulation and got involved in a disagreement between his brothers. On his return to Tara, he broke other vows such as letting red riders pass him on his horse, riding with Tara on his right hand, and entering a hostel after nightfall. When he reached the hostel, a formidable Hag approached him and requested entry. But Conaire remembered the last of his geasa which stated that no woman should be alone with him at night in Da Derga’s hostel (see Da Derga). The Hag cursed him, and he was plagued with an unquenchable thirst while the hostel burst into flames. As a result of his inauguration, he became the lady of the land's Sovereignty's spouse, and the fierce hag that threatened him at his demise could have been her disguised in a vengeful form.
+Conaire is a high king of early Ireland and the hero of the saga of Da Derga's hostel ruin. His birth was strange. His mother is normally held to be Mess Buachalla, the abandoned stepdaughter of Etain Og, fostered by a poor cowherd. A divine visitor came to her, and she bore Conaire. A prophecy had promised King Eterscel a son by a woman of unknown family, so the boy sometimes carries the name mac Eterscele. Another version, in the Wooing of Etain, makes Eochaid Airem father a child on his own daughter in unknowing incest. Conaire was fostered by Donn Desa, whose sons Fer Le, Fer Gair, and Fer Rogain grew into dangerous marauders. When Eterscel died, a bull feast named Conaire king. On the road to Tara a man in bird shape met him, gave his name as Nemglan, and set him the observances of his reign. Because Conaire was of the bird kindred he must never hunt birds, and he must not circle Tara sunwise, keeping Brega on his left. He broke every ban before he sat as guest in Da Derga's hostel. His foster-brothers and their fellow raiders stormed the house and took his head. In a strange closing the severed head thanked Mac Cecht for slaking its thirst. The Gaelic settlers of Dal Riada counted themselves the seed of Conaire Mor. An older omen told of his kingship's coming. He arrived at Tara as a naked man ringed by birds, for his mother belonged to the race of birds. Scottish tradition kept a like rite of vision. At Trotternish in 1769 a man was sewn into an oxhide below a waterfall to win foresight, wrapped as the king had been wrapped in his strange destiny.
 
 :::
 ```
 ``` tab [group1:Attributes]
-- **the hostel**: burst into flame
-- **he**: stricken with an unquenchable thirst
-- **his inauguration**: made him the spouse of the lady of the land's Sovereignty
-- **the fearsome hag**: threatened him as his life ended
-- **the lady of the land's Sovereignty**: None
+- **Conaire**: came naked to Tara
+- **Conaire**: was of the bird race
+- **birds**: crowded about Conaire
+- **ritual**: bound a seer in bulls hides
+- **Trotternish**: site of an oxhide rite
+- **Conaire**: high king chosen by the bull feast
+- **Conaire**: bound by the bird observances given by Nemglan
+- **Conaire**: slain by marauders at Da Derga's hostel
 ```
 ``` tab [group1:Entities]
-- **she**: person
-- **him**: person
-- **magical position**: position
-- **hostel**: place
-- **spouse**: relationship
-- **lady of the land's Sovereignty**: person
-- **fearsome hag**: person
-- **vengeful form**: form
+- **Conaire**: mythological figure
+- **Tara**: place
+- **birds**: animal
+- **ritual**: event
+- **Trotternish**: location
+- **Mess Buachalla**: mythological figure
+- **Da Derga**: location
+- **Mac Cécht**: mythological figure
+- **Nemglan**: mythological figure
+- **Eochaid Airem**: mythological figure
+- **Brega**: location
 ```
 ``` tab [group1:Sources]
 - Dillon, Myles, ed. Irish Sagas. Cork: The Mercier Press, 1968, 79.
 - O’Rahilly, Thomas. Early Irish History and Mythology. (Dublin: The Dublin Institute for Advanced Studies, 1946), 124.
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
+- MacKillop 2008, s.v. 'Conaire Mór'.
+- MacKillop 2008, s.v. 'Conaire'.
 ```

@@ -8,6 +8,18 @@
     {
       "entity": "Fionn Mac Cumhaill",
       "attribute": "great hero whom Cnú served as harpist"
+    },
+    {
+      "entity": "Cnú Deiréil",
+      "attribute": "a dwarf harper with golden hair about 4 feet high"
+    },
+    {
+      "entity": "Cnú Deiréil",
+      "attribute": "claimed as a son of Lugh"
+    },
+    {
+      "entity": "Cnú Deiréil",
+      "attribute": "songs that bring sweet slumber"
     }
   ],
   "entities": [
@@ -22,21 +34,32 @@
     {
       "entity": "harp player",
       "type": "person"
+    },
+    {
+      "entity": "Lugh",
+      "type": "god"
+    },
+    {
+      "entity": "dwarf",
+      "type": "mythological creature"
     }
   ],
   "sources": [
-    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.",
+    "MacKillop 2008, s.v. 'Cnú Deireóil'."
   ],
   "cyphertext": "QYnfywUs19Gpc7hZz6MDhzD0NO1wxR9ohyiqv6ZFrr28YTRycXgIAB4OW0ZZhmgzAwqcC-UdiC5NS-LIv5fzXqpeZVpI5TmNiThOA6MxGNtF6M2yUWKJwnYEN5wv0tEV",
   "salt": "vfXCgq2AEsVqm8CiWt8UgA==",
-  "text": "Cnú Deiréil was an Irish hero. He played the harp for the hero Fionn Mac Cumhaill. The encyclopedia sends the reader to the account under the Dwarves for more detail on him.",
+  "text": "Cnú Deiréil is the dwarf fairy harper of the Fenian Cycle. Irish storytellers call him the little nut of melody. He plays the harp for Fionn Mac Cumhaill and fills the hall with delight and play. The same tiny musician brings on sweet slumber with his songs. He stands perhaps 4 feet high, and golden hair crowns him. He claims Lugh of the long hand as his father. The encyclopedia sends the reader to the account under the Dwarves for more detail on him.",
   "okr": {
     "objective": "Cnú Deiréil is a hero who served Fionn as his harpist.",
     "key_results": [
-      "Cnú Deiréil is an Irish hero.",
-      "He played the harp for Fionn Mac Cumhaill.",
-      "The encyclopedia sends the reader to the Dwarf entry."
+      "Cnú Deiréil is the dwarf fairy harper of the Fenian Cycle.",
+      "He plays the harp for Fionn Mac Cumhaill, bringing delight and play.",
+      "His songs bring on sweet slumber.",
+      "He stands about 4 feet high with golden hair.",
+      "He claims Lugh of the long hand as his father."
     ],
-    "evidence": "Monaghan, Encyclopedia of Celtic Mythology and Folklore"
+    "evidence": "Monaghan, Encyclopedia of Celtic Mythology and Folklore; MacKillop, Dictionary of Celtic Mythology, s.v. Cnú Deireóil"
   }
 }

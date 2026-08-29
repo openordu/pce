@@ -1,0 +1,27 @@
+{
+  "name": "Colloquy",
+  "text": "Colloquy is MacKillop's cross-reference to ymddiddan, the Welsh colloquy genre. Colloquy of the Ancients, also called Colloquy of the Old Men, is the English title of Acallam na Senórach. This Middle Irish tale is the great Fenian dialogue-tale.",
+  "entities": [
+    { "entity": "Colloquy", "type": "story" },
+    { "entity": "Acallam na Senórach", "type": "story" }
+  ],
+  "attributes": [
+    { "entity": "Colloquy", "attribute": "MacKillop's cross-reference to the Welsh ymddiddan genre" },
+    { "entity": "Colloquy of the Ancients", "attribute": "English title of Acallam na Senórach" }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Colloquy'.",
+    "MacKillop 2008, s.v. 'Colloquy of the Ancients'."
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Colloquy points to the Welsh ymddiddan genre and titles the tale Acallam na Senórach.",
+    "key_results": [
+      "Marks Colloquy as a cross-reference to the Welsh ymddiddan genre",
+      "Identifies Colloquy of the Ancients as the English title of Acallam na Senórach"
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Colloquy'. MacKillop 2008, s.v. 'Colloquy of the Ancients'."
+  }
+}

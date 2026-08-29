@@ -1,0 +1,33 @@
+{
+  "name": "Calan Mai",
+  "attributes": [
+    {"entity": "Calan Mai", "attribute": "the Welsh term for May Day and the start of summer"},
+    {"entity": "Calan Mai", "attribute": "celebrated with bonfires and the summer branch"},
+    {"entity": "Calan Mai", "attribute": "a day held fitting for courtship and the renewal of nature"}
+  ],
+  "entities": [
+    {"entity": "Calan Mai", "type": "Event"},
+    {"entity": "Dydd Calan Mai", "type": "Event"},
+    {"entity": "Galan Mai", "type": "Event"},
+    {"entity": "Beltaine", "type": "Event"},
+    {"entity": "Gwynn ap Nudd", "type": "Deity"},
+    {"entity": "Gwythyr fab Greidawl", "type": "Person"},
+    {"entity": "Creiddylad", "type": "Person"}
+  ],
+  "sources": ["MacKillop 2008, s.v. 'Calan Mai'."],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "text": "Calan Mai, also Dydd Calan Mai and Galan Mai, is the Welsh term for May Day. The day marks the beginning of summer in Wales. It was never kept to the scale of the Goidelic feasts of Beltaine. In early Welsh tales Gwynn ap Nudd and Gwythyr fab Greidawl contended. Each year the two rivals vied for the fair Creiddylad on this day. Bonfires burned across the land until the nineteenth century. Ghosts wandered the countryside and the dyn hysbys grew strong. The festival was held opportune for courtship and the regeneration of nature.",
+  "okr": {
+    "objective": "Document Calan Mai, the Welsh May Day that opens the summer season.",
+    "key_results": [
+      "Calan Mai marks the beginning of summer in Wales",
+      "It was kept to less scale than the Goidelic Beltaine",
+      "Gwynn ap Nudd and Gwythyr fab Greidawl vied for Creiddylad on this day",
+      "Bonfires burned and ghosts wandered until the nineteenth century",
+      "The day was held fitting for courtship and nature's renewal"
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Calan Mai'."
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "name": "Cardiganshire",
+  "text": "Cardiganshire was a maritime county of south Wales until 1974. It now forms the northernmost third of Dyfed. Cardigan Bay borders it on the west. The land carries the name of Ceredigion, a son of Cunedda. Welsh legend says a portion of Cardigan sank beneath the sea. That sunken land is Cantor'r Gwaelod. Its flooding created Cardigan Bay as it now stands. The later county took its identity from these older stories.",
+  "entities": [
+    {
+      "entity": "Dyfed",
+      "type": "Location"
+    },
+    {
+      "entity": "Cunedda",
+      "type": "hero"
+    },
+    {
+      "entity": "Ceredigion",
+      "type": "Place"
+    },
+    {
+      "entity": "Cantor'r Gwaelod",
+      "type": "Place"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Dyfed",
+      "attribute": "later region that absorbed the county"
+    },
+    {
+      "entity": "Cunedda",
+      "attribute": "father of the namesake Ceredigion"
+    },
+    {
+      "entity": "Cardigan Bay",
+      "attribute": "western water bordering the former county"
+    },
+    {
+      "entity": "Cantor'r Gwaelod",
+      "attribute": "the sunken lowland said to have become the bay"
+    }
+  ],
+  "okr": {
+    "objective": "Record Cardiganshire as a former maritime county with a legend of drowned land.",
+    "key_results": [
+      "State that Cardiganshire was a county until 1974",
+      "Identify it now as the northernmost third of Dyfed",
+      "Link the name to Ceredigion and the sunken Cantor'r Gwaelod"
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Cardiganshire'."
+  },
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "sources": [
+    "MacKillop 2008, s.v. 'Cardiganshire'."
+  ]
+}

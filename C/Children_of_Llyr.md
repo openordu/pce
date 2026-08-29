@@ -2,58 +2,56 @@
 layout: layouts/pce.njk
 title: Children of Llyr
 icon: file-lines
-order: 460
+order: 0
 contributors: [ 'Christopher Godwin' ]
 attributes:
-  - Llyr Father of Branwen
-  - Welsh Nationality of heroes and heroines
-  - Mabinogion Book that tells the story
-  - Wales Location of the war
-  - Ireland Opponent in the war
-  - Branwen Book related to the story
+  - Children of Llyr Welsh heroes and heroines
+  - Children of Llyr second branch of the Mabinogion
+  - Children of Llyr tells of a war between Wales and Ireland
+  - Branwen story linked to the Children of Llyr
 categories:
-  - Character
-  - Nationality
-  - Book
-  - Location
+  - location
+  - character
+  - event
+  - mythological figure
+  - artifact
 entities:
-  - Llyr(Character)
-  - Welsh(Nationality)
-  - Mabinogion(Book)
-  - Wales(Location)
-  - Ireland(Location)
-  - Branwen(Book)
+  - Children of Llyr(mythological figure)
+  - Wales(location)
+  - Ireland(location)
+  - Mabinogion(artifact)
+  - Branwen(character)
+  - war(event)
 tags:
-  - Llyr
-  - Welsh
-  - Mabinogion
+  - Children of Llyr
   - Wales
   - Ireland
+  - Mabinogion
   - Branwen
+  - war
 ---
 ``` tab [group1:Info]
 ::: magazinestyle
-Welsh heroes and heroines are featured in the Children of Llyr. One of the branches in the Welsh Mabinogion recounts the tale of a conflict between Wales and Ireland, which can be found by referring to the story of Branwen.
+The Children of Llyr are Welsh heroes and heroines. They form the second branch of the Mabinogion. This branch recounts the strife between Wales and Ireland. The tale links to the story of Branwen.
 
 :::
 ```
 ``` tab [group1:Attributes]
-- **Llyr**: Father of Branwen
-- **Welsh**: Nationality of heroes and heroines
-- **Mabinogion**: Book that tells the story
-- **Wales**: Location of the war
-- **Ireland**: Opponent in the war
-- **Branwen**: Book related to the story
+- **Children of Llyr**: Welsh heroes and heroines
+- **Children of Llyr**: second branch of the Mabinogion
+- **Children of Llyr**: tells of a war between Wales and Ireland
+- **Branwen**: story linked to the Children of Llyr
 ```
 ``` tab [group1:Entities]
-- **Llyr**: Character
-- **Welsh**: Nationality
-- **Mabinogion**: Book
-- **Wales**: Location
-- **Ireland**: Location
-- **Branwen**: Book
+- **Children of Llyr**: mythological figure
+- **Wales**: location
+- **Ireland**: location
+- **Mabinogion**: artifact
+- **Branwen**: character
+- **war**: event
 ```
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
+- MacKillop 2008, s.v. 'Children of Llŷr'.
 ```
 ![Children of Llyr Image](https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/John_Duncan_%281924%29_Children_of_Lir.jpg/1200px-John_Duncan_%281924%29_Children_of_Lir.jpg)

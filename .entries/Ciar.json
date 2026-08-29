@@ -1,0 +1,48 @@
+{
+  "name": "Ciar",
+  "fname": "Ciar.json",
+  "text": "Ciar is a love-child of the warrior Fergus mac Róich and Queen Medb in the Irish stories. The name is Irish and carries the sense of dark or black. Later tradition held that descendants of Ciar settled the south-west of the island. Those people were called the Ciarraighe, the folk of Ciar. Their land became Kerry, with Irish forms given as Ciarraighe and Ciarrai.",
+  "entities": [
+    {
+      "entity": "Ciar",
+      "type": "person"
+    },
+    {
+      "entity": "Fergus mac Róich",
+      "type": "warrior"
+    },
+    {
+      "entity": "Medb",
+      "type": "queen"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Ciar",
+      "attribute": "love-child of Fergus mac Róich and Medb"
+    },
+    {
+      "entity": "Ciar",
+      "attribute": "eponym of the Ciarraighe people of Kerry"
+    },
+    {
+      "entity": "Ciar",
+      "attribute": "Irish name meaning dark or black"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Ciar'."
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Ciar is the love-child of Fergus mac Róich and Medb whose people gave Kerry its Irish name.",
+    "key_results": [
+      "Name Ciar as the child of Fergus mac Róich and Medb.",
+      "Explain the sense of the name as dark or black.",
+      "Link the Ciarraighe people to the naming of Kerry."
+    ],
+    "evidence": "MacKillop, Dictionary of Celtic Mythology, s.v. 'Ciar'"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "name": "Connan",
+  "text": "Connan is a variant spelling of Conand, the Fomorian leader who holds a fortress on Tory Island. MacKillop's article on that figure lists Conann and Connan among the forms of his name. The main article on this figure sits at Conand. See Conand.",
+  "entities": [
+    {
+      "entity": "Connan",
+      "type": "person"
+    },
+    {
+      "entity": "Conand",
+      "type": "person"
+    },
+    {
+      "entity": "Fomorians",
+      "type": "group"
+    },
+    {
+      "entity": "Tory Island",
+      "type": "place"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Connan",
+      "attribute": "variant spelling of Conand"
+    },
+    {
+      "entity": "Conand",
+      "attribute": "Fomorian leader with a fortress on Tory Island"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Connan'."
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Record the spelling Connan and route readers to the Conand article.",
+    "key_results": [
+      "Identify Connan as a variant spelling of Conand.",
+      "List Conann and Connan among the name forms in MacKillop's article.",
+      "Point readers to the main article at Conand."
+    ],
+    "evidence": "MacKillop, Dictionary of Celtic Mythology, 2008"
+  }
+}

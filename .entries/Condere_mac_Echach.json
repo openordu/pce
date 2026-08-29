@@ -1,0 +1,47 @@
+{
+  "name": "Condere mac Echach",
+  "text": "Condere mac Echach is an Ulster warrior. MacKillop credits him with good sense and eloquence. He stood first to face the mysterious Connla. That young man was the unacknowledged son of Cú Chulainn. Connla said he could deal with Condere with ease. Condere wisely withdrew from the fight.",
+  "entities": [
+    {
+      "entity": "Condere mac Echach",
+      "type": "person"
+    },
+    {
+      "entity": "Connla",
+      "type": "person"
+    },
+    {
+      "entity": "Cú Chulainn",
+      "type": "person"
+    },
+    {
+      "entity": "Ulster",
+      "type": "place"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Condere mac Echach",
+      "attribute": "an eloquent Ulster warrior"
+    },
+    {
+      "entity": "Condere mac Echach",
+      "attribute": "first to face Connla and wisely withdrew"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Condere mac Echach'."
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Condere mac Echach is a prudent Ulster warrior who met Connla first.",
+    "key_results": [
+      "Condere served as an Ulster warrior known for eloquence.",
+      "He was the first to face the mysterious Connla.",
+      "He backed off when Connla claimed an easy victory over him."
+    ],
+    "evidence": "MacKillop, Dictionary of Celtic Mythology, s.v. 'Condere mac Echach' (2008)."
+  }
+}

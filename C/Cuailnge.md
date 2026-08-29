@@ -2,30 +2,41 @@
 layout: layouts/pce.njk
 title: Cuailnge
 icon: file-lines
-order: 578
+order: 0
 contributors: [ 'Christopher Godwin' ]
 attributes:
-  - Táin Bó Cuailnge Irish epic
+  - Cuailnge heading of the brief source account
+  - Amairgin so mighty that the dead piled around him
 categories:
-  - Book
+  - place
+  - character
+  - group
 entities:
-  - Táin Bó Cuailnge(Book)
+  - Cuailnge(place)
+  - Amairgin(character)
+  - the dead(group)
 tags:
-  - Táin Bó Cuailnge
+  - Cuailnge
+  - Amairgin
+  - the dead
 ---
 ``` tab [group1:Info]
 ::: magazinestyle
-Cooley, the lush peninsula on the east coast of Ireland, sits just below Carlingford Lough, a narrow bay named after the Viking Carling who raided the area in historic times. The vibrant region juts out into the Irish Sea and is typically anglicized as Cooley. On the north side of the bay, the Mountains of Mourne, with their blue-gray shades, rise. On the south, the low forested Cooley Mountains run along the spine of the peninsula. Cooley is famous in Irish myth for being home to the magical bull Donn Cuailnge and the site from which queen Medb launched the Táin or Cattle raid from her stronghold in Cruachan. Further information on the Táin Bó Cuailnge can be found.
+Cuailnge opens a short leaf in the source. The only deed told there belongs to the seer Amairgin, whose force was so great that the dead piled about him. Nothing further fills the account.
 
 :::
 ```
 ``` tab [group1:Attributes]
-- **Táin Bó Cuailnge**: Irish epic
+- **Cuailnge**: heading of the brief source account
+- **Amairgin**: so mighty that the dead piled around him
 ```
 ``` tab [group1:Entities]
-- **Táin Bó Cuailnge**: Book
+- **Cuailnge**: place
+- **Amairgin**: character
+- **the dead**: group
 ```
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
+- MacKillop 2008, s.v. 'Chuailnge'.
 ```
 ![Cuailnge Image](https://upload.wikimedia.org/wikipedia/commons/1/1e/Cooley_Peninsula_in_Ireland.png)

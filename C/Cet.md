@@ -2,37 +2,52 @@
 layout: layouts/pce.njk
 title: Cet
 icon: file-lines
-order: 450
+order: 0
 contributors: [ 'Christopher Godwin' ]
 attributes:
-  - Cethern son of Fintan
-  - Fionn connection with Fintan
+  - Cet a Connacht warrior of the Ulster Cycle
+  - Cet killer and rival at the champion's portion contest
+  - Cet killed by Conall Cernach
+  - rulers of Connacht claimed descent from Cet
 categories:
-  - Name
+  - mythological figure
+  - warrior
+  - queen
+  - king
+  - hero
 entities:
-  - Cethern(Name)
-  - Fintan(Name)
-  - Fionn(Name)
+  - Cet(mythological figure)
+  - Conall Cernach(hero)
+  - Conchobar mac Nessa(king)
+  - Celtchar(warrior)
+  - Medb(queen)
 tags:
-  - Cethern
-  - Fintan
-  - Fionn
+  - Cet
+  - Conall Cernach
+  - Conchobar mac Nessa
+  - Celtchar
+  - Medb
 ---
 ``` tab [group1:Info]
 ::: magazinestyle
-Cet, also known as Cet mac Mágach, was an Irish hero who was known for his bravery and eloquence. He was particularly skilled at boasting about his abilities in battle. In some legends, Cet was responsible for naming Cúchulainn, who would later become the greatest warrior of his people. Another prominent figure in Irish mythology is Cethern mac Fintain, who served as the tutor to the great hero Fionn Mac Cumhaill. Fionn gained all of the world's wisdom by eating part of a salmon named Fintan. Since Cethern's name connects him to Fintan, his inclusion in the tales may serve to strengthen the connection between Fionn and Fintan.
+Cet is a Connacht warrior of the Ulster Cycle. Writers also spell the name Cét, Cett, Ceat, Ket, or Keth. The Irish word means old, ancient, or enduring. His patronymic shifts between Mágu, Mágach, Maga, and Matach across the tales. In the tale of Mac Da Thó's pig he humbles the Ulstermen with a recital of his combat wins. He even emasculates the warrior Celtchar in that list. He seems set to win the champion's portion, but Conall Cernach arrives. Elsewhere Cet hurls Mesgegra's calcified brain ball at Conchobar mac Nessa and leaves the king badly hurt. Conall Cernach later kills Cet in his turn. Connacht's later royal houses claimed Cet as an ancestor in their genealogies.
 
 :::
 ```
 ``` tab [group1:Attributes]
-- **Cethern**: son of Fintan
-- **Fionn**: connection with Fintan
+- **Cet**: a Connacht warrior of the Ulster Cycle
+- **Cet**: killer and rival at the champion's portion contest
+- **Cet**: killed by Conall Cernach
+- **rulers of Connacht**: claimed descent from Cet
 ```
 ``` tab [group1:Entities]
-- **Cethern**: Name
-- **Fintan**: Name
-- **Fionn**: Name
+- **Cet**: mythological figure
+- **Conall Cernach**: hero
+- **Conchobar mac Nessa**: king
+- **Celtchar**: warrior
+- **Medb**: queen
 ```
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
+- MacKillop 2008, s.v. 'Cet'.
 ```
