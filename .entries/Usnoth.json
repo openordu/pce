@@ -1,0 +1,58 @@
+{
+  "name": "Usnoth",
+  "text": "Usnoth is a character in Macpherson's Ossian of 1760 to 1763. Macpherson drew him from Uisnech of the Ulster Cycle. He is chief of Etho, a district on Scotland's west coast. Nathos, Althos, and Ardan are his three sons. All three run off with Darthula, Macpherson's Deirdre. The episode retells the exile story of the sons of Uisnech. Macpherson moved the whole band to a Scottish shore.",
+  "entities": [
+    {
+      "entity": "Usnoth",
+      "type": "Person"
+    },
+    {
+      "entity": "Macpherson",
+      "type": "Person"
+    },
+    {
+      "entity": "Ossian",
+      "type": "hero"
+    },
+    {
+      "entity": "Uisnech",
+      "type": "Place"
+    },
+    {
+      "entity": "Deirdre",
+      "type": "Heroine"
+    },
+    {
+      "entity": "Ardan",
+      "type": "Character"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Usnoth",
+      "attribute": "Macpherson's Ossian character drawn from Uisnech"
+    },
+    {
+      "entity": "Usnoth",
+      "attribute": "chief of Etho on Scotland's west coast"
+    },
+    {
+      "entity": "Usnoth",
+      "attribute": "sons Nathos, Althos, and Ardan elope with Darthula"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Usnoth'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Usnoth is a character in Macpherson's Ossian of 1760 to 1763",
+    "key_results": [
+      "Ossianic reworking of the Uisnech figure",
+      "father of the doomed band around Darthula"
+    ],
+    "evidence": "MacKillop 2008, s.v. Usnoth."
+  }
+}

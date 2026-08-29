@@ -1,0 +1,54 @@
+{
+  "name": "Ulaid",
+  "text": "Ulaid, Ulaidh, with genitive Ulad, is the people of early Ireland who named Ulster. They held mainly the eastern part of the later province. Their capital stood at Emain Macha. At various periods their hegemony reached south to the Boyne and west to Co. Leitrim. Their strength faded once the fifth century AD had passed. The people called themselves Clanna Rudraige. That name was thought to hold the particle ruad-, meaning red. The Ulster Cycle keeps this people at the centre of its heroic world.",
+  "entities": [
+    {
+      "entity": "Ulaid",
+      "type": "Group"
+    },
+    {
+      "entity": "Emain Macha",
+      "type": "Place"
+    },
+    {
+      "entity": "Ulster",
+      "type": "Place"
+    },
+    {
+      "entity": "Boyne River",
+      "type": "Place"
+    },
+    {
+      "entity": "Ulster Cycle",
+      "type": "Saga"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Ulaid",
+      "attribute": "early Irish people who gave their name to the province of Ulster"
+    },
+    {
+      "entity": "Ulaid",
+      "attribute": "capital at Emain Macha; hegemony reached the Boyne and Co. Leitrim"
+    },
+    {
+      "entity": "Ulaid",
+      "attribute": "self-name Clanna Rudraige, read with the particle ruad-, red"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Ulaid'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Ulaid, Ulaidh, with genitive Ulad, is the people of early Ireland who named Ulster",
+    "key_results": [
+      "the people behind the name of Ulster",
+      "Clanna Rudraige of the Emain Macha capital"
+    ],
+    "evidence": "MacKillop 2008, s.v. Ulaid."
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "name": "Uathach",
+  "text": "Uathach, sometimes Uathach of the Glen, is the daughter of Scáthach. Her name is the Irish word for a spectre. She is a sometime lover of Cúchulainn. When he arrives for training, Uathach welcomes him at first. Scáthach later promises her to Cúchulainn without requiring any bride-price. Forgetful of his strength, the hero breaks her finger while she serves him. Her scream brings her current lover running. Cúchulainn makes short work of that rival. To make amends he takes the man's place, including becoming Uathach's lover herself. The Ulster Cycle lists her among its frequent personages.",
+  "entities": [
+    {
+      "entity": "Uathach",
+      "type": "Person"
+    },
+    {
+      "entity": "Scáthach",
+      "type": "Person"
+    },
+    {
+      "entity": "Cúchulainn",
+      "type": "hero"
+    },
+    {
+      "entity": "Ulster Cycle",
+      "type": "Saga"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Uathach",
+      "attribute": "daughter of Scáthach, sometimes called Uathach of the Glen"
+    },
+    {
+      "entity": "Uathach",
+      "attribute": "welcomes Cúchulainn on arrival and is later promised to him without a bride-price"
+    },
+    {
+      "entity": "Uathach",
+      "attribute": "a broken finger, the death of her lover, and Cúchulainn taking his place"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Uathach'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Uathach, sometimes Uathach of the Glen, is the daughter of Scáthach",
+    "key_results": [
+      "daughter of Scáthach in the training tale",
+      "sometime lover of Cúchulainn"
+    ],
+    "evidence": "MacKillop 2008, s.v. Uathach."
+  }
+}

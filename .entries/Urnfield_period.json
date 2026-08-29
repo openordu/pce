@@ -1,0 +1,46 @@
+{
+  "name": "Urnfield period",
+  "text": "Urnfield period is archaeologists' shorthand for a Bronze Age culture stage of Central Europe. The stage is defined by its burial practices. It runs from the fading of Minoan and Mycenaean power to the coming of the Hallstatt culture. Dating ranges from about 1500 BC down to 800 BC. In different parts of Europe the stage overlaps partly with the rise of Hallstatt. The first evidence of the new burial form comes from the Danube valley in present Hungary. Mourners cremated the body and placed its ashes in an urn. The urns were laid out in cemeteries called urnfields. The practice spread west to the lands between Elbe and Vistula. It reached southern Germany and crossed the Alps into Italy. By the tenth century BC the whole region shared cultural similarities. Traces reach as far as the Low Countries and the Iberian peninsula, even Britain. The people of this tradition may be counted proto-Celts. Motifs of that art, the sun-wheel among them, reappear in Hallstatt work. Hallstatt stands as the first clearly Celtic culture.",
+  "entities": [
+    {
+      "entity": "Urnfield period",
+      "type": "Period"
+    },
+    {
+      "entity": "Hallstatt",
+      "type": "Place"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Urnfield period",
+      "attribute": "Bronze Age burial-culture stage from about 1500 to 800 BC"
+    },
+    {
+      "entity": "Urnfield period",
+      "attribute": "cremation urns laid in urnfield cemeteries, first seen in the Danube valley"
+    },
+    {
+      "entity": "Urnfield period",
+      "attribute": "practice spread to Elbe-Vistula lands, southern Germany, and Italy"
+    },
+    {
+      "entity": "Urnfield period",
+      "attribute": "proto-Celtic in status; sun-wheel motifs reappear in Hallstatt art"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Urnfield period'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Urnfield period is archaeologists' shorthand for a Bronze Age culture stage of Central Europe",
+    "key_results": [
+      "Bronze Age stage defined by urn burials",
+      "proto-Celtic forerunner of the Hallstatt culture"
+    ],
+    "evidence": "MacKillop 2008, s.v. Urnfield period."
+  }
+}
