@@ -1,0 +1,38 @@
+{
+  "name": "Teffia",
+  "text": "Teffia is an anglicized form of the midland region name Tethba. The dictionary prints the head as a one-line cross-reference. The fuller record of the region sits under the Tethba node.",
+  "entities": [
+    {
+      "entity": "Teffia",
+      "type": "Place"
+    },
+    {
+      "entity": "Tethba",
+      "type": "Place"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Teffia",
+      "attribute": "anglicized form of Tethba"
+    },
+    {
+      "entity": "Teffia",
+      "attribute": "cross-reference to the Tethba record"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Teffia'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Teffia is an anglicized form of the midland region name Tethba",
+    "key_results": [
+      "anglicized form of the Tethba name",
+      "signpost to the Tethba node"
+    ],
+    "evidence": "MacKillop 2008, s.v. Teffia."
+  }
+}

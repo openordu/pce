@@ -1,0 +1,42 @@
+{
+  "name": "Tuamumain",
+  "text": "Tuamumain is a variant form of the Old Irish name Tuadmumu. The dictionary prints the head as a one-line cross-reference. Tuadmumu names North Munster in Old Irish. The fuller record sits under the Tuadmumu node, with Thomond behind it.",
+  "entities": [
+    {
+      "entity": "Tuamumain",
+      "type": "Place"
+    },
+    {
+      "entity": "Tuadmumu",
+      "type": "Place"
+    },
+    {
+      "entity": "Thomond",
+      "type": "Place"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Tuamumain",
+      "attribute": "variant form of Tuadmumu"
+    },
+    {
+      "entity": "Tuamumain",
+      "attribute": "cross-reference to the Tuadmumu record"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Tuamumain'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Tuamumain is a variant form of the Old Irish name Tuadmumu",
+    "key_results": [
+      "variant of the Tuadmumu name",
+      "signpost to the Tuadmumu node"
+    ],
+    "evidence": "MacKillop 2008, s.v. Tuamumain."
+  }
+}

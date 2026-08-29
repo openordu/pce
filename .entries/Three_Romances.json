@@ -1,0 +1,38 @@
+{
+  "name": "Three Romances",
+  "text": "Three Romances is the English collective title printed as a cross-reference. It points to the three Welsh romances associated with the Mabinogi tradition. The dictionary routes the head to the Tair Rhamant record. The fuller discussion of the three tales sits there.",
+  "entities": [
+    {
+      "entity": "Three Romances",
+      "type": "Text"
+    },
+    {
+      "entity": "Tair Rhamant",
+      "type": "Text"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Three Romances",
+      "attribute": "English collective title for the three Welsh romances"
+    },
+    {
+      "entity": "Three Romances",
+      "attribute": "cross-reference to the Tair Rhamant record"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Three Romances'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Three Romances is the English collective title printed as a cross-reference",
+    "key_results": [
+      "English title of the three Welsh romances",
+      "signpost to the Tair Rhamant node"
+    ],
+    "evidence": "MacKillop 2008, s.v. Three Romances."
+  }
+}
