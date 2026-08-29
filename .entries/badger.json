@@ -1,5 +1,5 @@
 {
- "text": "The badger is a symbolic animal in Celtic mythology. It was seen as a shape-shifting person, much like the seal. The Irish hero Tadg found badger meat revolting. He did not understand why it disgusted him. The truth is that the badgers were his own kin. Their power to change form tied them to him. He shunned them without knowing of the bond.",
+ "text": "The badger is a symbolic animal in Celtic mythology. It is a flesh-eating mammal that burrows in the ground. The British Isles host one badger species, Meles meles. The badger was seen as a shape-shifting person, much like the seal. In the Mabinogi the heroes compete at a grim game called badger-in-the-bag. The game derives from the way hunters subdue and capture the fierce animal. Pwyll captures Rhiannon's rival suitor Gwawl in a giant bag. An Irish tradition tells how Grian turned the sons of Conall into badgers. Cormac Gaileng later killed them. The late seventh-century life of St Columba by Adamnán records a Pictish magus or holy figure bearing the name Brocan. The name means badger. The Irish hero Tadg found badger meat revolting. He did not understand why it disgusted him. The truth is that the badgers were his own kin. Their power to change form tied them to him. He shunned them without knowing of the bond. Celtic words for the animal show wide agreement. Forms include Old Irish brocc, Scottish Gaelic broc, Welsh broch, Cornish brogh, and Breton broc'h.",
  "entities": [
   {
    "entity": "badger",
@@ -11,6 +11,46 @@
   },
   {
    "entity": "Tadg",
+   "type": "Person"
+  },
+  {
+   "entity": "Mabinogi",
+   "type": "Thing"
+  },
+  {
+   "entity": "Pwyll",
+   "type": "Person"
+  },
+  {
+   "entity": "Rhiannon",
+   "type": "Person"
+  },
+  {
+   "entity": "Gwawl",
+   "type": "Person"
+  },
+  {
+   "entity": "Grian",
+   "type": "Person"
+  },
+  {
+   "entity": "Conall",
+   "type": "Person"
+  },
+  {
+   "entity": "Cormac Gaileng",
+   "type": "Person"
+  },
+  {
+   "entity": "Adamnán",
+   "type": "Person"
+  },
+  {
+   "entity": "St Columba",
+   "type": "Person"
+  },
+  {
+   "entity": "Brocan",
    "type": "Person"
   }
  ],
@@ -30,17 +70,30 @@
   {
    "entity": "badger",
    "attribute": "were the kin of Tadg"
+  },
+  {
+   "entity": "badger",
+   "attribute": "a burrowing flesh-eating mammal, the common British Isles species being Meles meles"
+  },
+  {
+   "entity": "badger",
+   "attribute": "the Mabinogi game badger-in-the-bag derives from the way the fierce animal is subdued and captured"
+  },
+  {
+   "entity": "badger",
+   "attribute": "Grian turned the sons of Conall into badgers, whom Cormac Gaileng later killed"
   }
  ],
  "okr": {
-  "objective": "The badger is a Celtic shape-shifting animal whose hidden kinship with the hero Tadg mirrors the seal.",
+  "objective": "Record the badger as a Celtic shape-shifting animal whose hidden kinship with the hero Tadg mirrors the seal.",
   "key_results": [
-   "The badger is a symbolic animal in Celtic tradition",
-   "The badger was seen, like the seal, as a shape-shifting person",
-   "The Irish hero Tadg found badger meat revolting",
-   "The badgers were really Tadg's kin"
+   "The badger is a symbolic animal seen as a shape-shifting person like the seal.",
+   "The Mabinogi game badger-in-the-bag echoes the capture of the fierce animal.",
+   "Grian turned the sons of Conall into badgers, killed later by Cormac Gaileng.",
+   "Adamnán records a Pictish holy man named Brocan, meaning badger.",
+   "The badgers Tadg loathed were unknowingly his own kin."
   ],
-  "evidence": "Monaghan 2008, s.v. 'badger'."
+  "evidence": "Monaghan 2008, s.v. 'badger'; MacKillop 2008, s.v. 'badger'"
  },
  "image": [
   "https://upload.wikimedia.org/wikipedia/commons/7/7f/Badger_laying_on_ground._-_DPLA_-_0335977b4d1504edc799834081ca4fd5.jpg"
@@ -48,7 +101,8 @@
  "cyphertext": "AL-XtjpG7XrE60RVEO6R5KlLFD2jliSsCl-EtFyWPt9sdpFeN1DoIaYJdqaIAv9XElDqR9hgTcWKQJH_AZK2WuJnWYuUBeTFoDVLOIJ9go1DyyqtOrGMmnwzhBXuM3S5txFF19sVMpo7UXqTOGbb4IPiQt8VcQUdJYo9VNJu-QD43FBUVyEhFow2j3x0CohUupzdyGEcAdBxUH5mLwsGUpsH4cCQ_Cb0McbTZUbTBr1XWV6_zm90u9tpBhuKc8QKrCZWbJUYX2rpc3CetyUZd7JDUPe1773Zs8nfDl7uEPRsviQD",
  "salt": "BEzLVqJKZ61l2RAFkCA0fQ==",
  "sources": [
-  "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+  "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.",
+  "MacKillop 2008, s.v. 'badger'"
  ],
  "name": "badger"
 }

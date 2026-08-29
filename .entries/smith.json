@@ -12,6 +12,14 @@
     {
       "entity": "Glas Ghaibhleann",
       "attribute": "magical cow that gave a tale of the smith"
+    },
+    {
+      "entity": "Goibniu",
+      "attribute": "smith to the Tuatha Dé Danann"
+    },
+    {
+      "entity": "Govannon",
+      "attribute": "honored as smith in early Welsh narrative"
     }
   ],
   "entities": [
@@ -30,20 +38,28 @@
     {
       "entity": "Glas Ghaibhleann",
       "type": "Being"
+    },
+    {
+      "entity": "Tuatha Dé Danann",
+      "type": "Tribe"
     }
   ],
   "sources": [
-    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.",
+    "MacKillop 2008, s.v. 'blacksmith'"
   ],
   "cyphertext": "BxUBC1r8djcIaE7E073DNfh8g5s8SyisTEcbSmwgtzPCxcLFXJWEUOE-AKLxTZAvTx3VipWn9DmqK71t7nIR5yTAqgGAIw8lrpRh0nSQnol2el3HRbo2KICn-WDrTHRXRmcd5CafqIQiGYNI93FThKmIWl6tgCoDAx0gV9dc8W1tsNi50dX4GFpYq3ddf4LOKwB79WdqB5JhoL7ej8Doxje9JAmT8EZNtECCGxVieSo9qMTfcTgJU3MruuTV4wWXwWBupo38Af9u2s5-m2nO19tI9el8QbERJxHT76p5DQTtLN_KCFEatpUAkDVL1Kv22mS9rLNwOAV0aU8VWncxunYyPfn2bYMRkvqSD_K95nNMfW3IaQUNpbppDVZIdnvSgTshz3XFErVDDZE6hxhfhE_COPkezM72RHb9Z43Zj4iQ98jqvXuHCZnjopGkDOSX2nQgiMVzeCLpJhbSThu44GliyDzS1KdPcLkdhUfl108sC-cPlryoGhwto0n97JLFynRzyapNCEtIk1uevrmsc2CxSegJfYHed12rU6wnnaKHIFHcv22MkNyFd3mzyMYEczxnjbZvQQpU06bicdEc78Ccf9YsKN53bnUJ36Cisw_pLwD-nnpa_WHQtQTtaOaOv5XopzFG0MEml5X0MZib--o1VsvrFoQ=",
   "salt": "zDq3Q6jxBHzOQUnTLMb3MQ==",
-  "text": "The smith is a figure of Irish and continental Celtic myth. From the start of the culture, the working of metal was one of the chief sources of its wealth. The smith melted the ore of iron and of gold and shaped it into the useful and the ornamented. The land held the smith in high regard. In the tales, the smith carried the power of magic and of the alchemist. The Irish god Goibniu and the Welsh Govannon both stand for this craft. The story links the smith with the magical cow of the bounty, the Glas Ghaibhleann. So the smith, the maker of the tool, stands near the wealth of the land. The folk honored the smoke, the forge, and the hand that turned the ore into the blade and the ring.",
+  "text": "The smith stands as a figure of Irish and continental Celtic myth. Working metal ranked among the chief sources of Celtic wealth from the start. The smith melted ore of iron and gold and shaped it into tools and ornament. The land held the craft in high regard. In the tales, the smith bore the power of magic and of the alchemist. Irish tradition set the god Goibniu over this craft as smith to the Tuatha Dé Danann. Early Welsh narrative named its smith Gofannon, a figure also spelled Govannon. The lore tied the smith to the Glas Ghaibhleann, the magic cow of plenty. Through that bond, the maker of tools stood near the wealth of the land. Folk honor gathered around the smoke, the forge, and the hand that turned ore into blade and ring. The headword blacksmith cross-refers the reader to Goibniu, to Gofannon, and to smith.",
   "okr": {
-    "objective": "Replace the machine text for smith with a fresh CSG-SME1000 rewrite sourced from Monaghan.",
+    "objective": "Present the smith as a revered mythical craft tied to Goibniu, Gofannon, and the Glas Ghaibhleann.",
     "key_results": [
-      "A fresh CSG-SME1000 rewrite holds in the text field",
-      "entities and attributes enriched and corrected for the kgraph"
+      "The fused text keeps every baseline fact about the smith, his craft, and his divine bearers.",
+      "The text cites Goibniu as smith to the Tuatha Dé Danann.",
+      "The text cites Gofannon, spelled Govannon in the baseline, as the smith of Welsh narrative.",
+      "The text keeps the link to the Glas Ghaibhleann and the folk honor for forge and smoke.",
+      "The cross-references from the blacksmith headword appear in the prose."
     ],
-    "evidence": "Monaghan 2003 (smith; Goibniu; Govannon; Glas Ghaibhnear)."
+    "evidence": "Monaghan 2003 (smith; Goibniu; Govannon; Glas Ghaibhnear). MacKillop 2008, s.v. 'blacksmith'."
   }
 }

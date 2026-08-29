@@ -4,6 +4,18 @@
     {
       "entity": "ard ri",
       "attribute": "the high king of Ireland, a ceremonial and religious role rather than a political one"
+    },
+    {
+      "entity": "ard ri",
+      "attribute": "an honorific title for powerful local leaders rather than a national sovereign or over-king"
+    },
+    {
+      "entity": "Máel Sechnaill (d. 862)",
+      "attribute": "first claimant to the title, known romantically as Malachy I"
+    },
+    {
+      "entity": "Diarmait mac Cerbaill",
+      "attribute": "died 565, treated as the last monarch of pre-Christian Ireland"
     }
   ],
   "entities": [
@@ -34,23 +46,69 @@
     {
       "entity": "Conaire",
       "type": "Person"
+    },
+    {
+      "entity": "Brehon Laws",
+      "type": "Concept"
+    },
+    {
+      "entity": "Francis J. Byrne",
+      "type": "Person"
+    },
+    {
+      "entity": "Máel Sechnaill (d. 862)",
+      "type": "Person"
+    },
+    {
+      "entity": "Máel Sechnaill (d. 1022)",
+      "type": "Person"
+    },
+    {
+      "entity": "Diarmait mac Cerbaill",
+      "type": "Person"
+    },
+    {
+      "entity": "Ruaidri Ua Conchobair",
+      "type": "Person"
+    },
+    {
+      "entity": "Connacht",
+      "type": "Place"
+    },
+    {
+      "entity": "Co. Meath",
+      "type": "Place"
+    },
+    {
+      "entity": "Tara dynasty",
+      "type": "Tribe"
+    },
+    {
+      "entity": "Anglo-Norman Conquest",
+      "type": "Concept"
+    },
+    {
+      "entity": "sacral kingship",
+      "type": "Concept"
     }
   ],
   "sources": [
-    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.",
+    "MacKillop 2008, s.v. 'ard rí'"
   ],
   "image": [
     "https://upload.wikimedia.org/wikipedia/commons/9/9a/Brian_Boru%2C_King_of_Munster.jpg"
   ],
   "cyphertext": "-oTkGpVyUn4tQP6l6nA6ph6It-Goflxl8VYotWPkV_IIhLiexCIoimx2sXLECo5Y8qhXnbE4X6ZZeMAMeA6Eac9JtiYgrms=",
   "salt": "kRWOCIP86H3AnPCptOv5iQ==",
-  "text": "Ard ri is an Irish social role. It means high king. The question of the power of the king of Tara over other Irish kings is far from settled. A king's power came from his tuath, his people and their land, and from his union with the goddess of the land. Tara's king seems to have held no central political authority. He held a ceremonial and religious office. He could not command other kings to follow his orders. He kept Ireland fertile by following his sacred vows and taboos, his buada and geasa. Many high kings figure in myth, including Niall of the Nine Hostages, Conn of the Hundred Battles, and Conaire.",
+  "text": "Ard rí is an Irish social role of the high king. Irish forms include ard rí, ard righ, and ardrig. Many Irish narratives show the ard ri ruling all Ireland from Tara, where he receives his crown. The question of the power of the king of Tara over other Irish kings is far from settled. A king drew power from his tuath, his people and their land. He drew further power from union with the goddess of the land. The king of Tara held no central political authority. He held a ceremonial and religious office. He could not command other kings to follow his orders. He kept Ireland fertile by following his sacred vows and taboos, his buada and geasa. The term does not denote a national sovereign or an over-king. It functioned as an honorific title for powerful local leaders. Countless legends and pseudo-histories push the title back to the earliest times. The early Irish law corpus, the Brehon Laws, does not support that claim. Francis J. Byrne argued in 1973 that the title was pure political fiction. He saw it as propaganda that served the claims of the Meath dynasty seated at Tara. Other commentators accept an early sacral kingship at Tara, less grand than later narratives imply. The first claimant to the title was Máel Sechnaill, who died in 862. Romantic tradition knows him as Malachy I. Figures known as ard rí include Diarmait mac Cerbaill, who died in 565. Sources treat him as the last monarch of pre-Christian Ireland. A later Máel Sechnaill, who died in 1022, ruled last without unbroken opposition from powerful local princes. Ruaidri Ua Conchobair of Connacht, called Rory O'Connor, held the title last at the Anglo-Norman Conquest of 1169. Many high kings figure in myth, including Niall of the Nine Hostages, Conn of the Hundred Battles, and Conaire.",
   "okr": {
-    "objective": "Record ard ri, the Irish high king.",
+    "objective": "Record ard ri, the Irish high king, and the debate over his real power.",
     "key_results": [
-      "Show the ceremonial, religious power of the king of Tara.",
-      "Show the named high kings of myth."
+      "Show the ceremonial, religious role of the king of Tara and his power from tuath and land goddess.",
+      "Show the honorific nature of the title, the Brehon Laws gap, and the Byrne propaganda argument.",
+      "Show the named claimants from Máel Sechnaill to Ruaidri Ua Conchobair plus the mythic high kings."
     ],
-    "evidence": "Monaghan 2003, s.v. high king"
+    "evidence": "Monaghan 2003, s.v. high king; MacKillop 2008, s.v. 'ard rí'"
   }
 }
