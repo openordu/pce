@@ -2,61 +2,51 @@
 layout: layouts/pce.njk
 title: Daireann
 icon: file-lines
-order: 616
+order: 0
 contributors: [ 'Christopher Godwin' ]
 attributes:
-  - Dáirine Irish princess
-  - Tuathal Techtmar father
-  - Leinster province
-  - Eochaid father-in-law
-  - Fithir older sister
-  - Fithir captive
-  - Dáirine younger sister
-  - Eochaid husband
-  - Dáirine discovered husband's perfidy
+  - Daireann sister of Sadb
+  - Daireann drives Fionn mac Cumhaill insane with an enchanted elixir
+  - Fionn mac Cumhaill father of the poet Oisín by Sadb
+  - Daireann a Modern Irish variant of the name Doirend
+  - Daireann carries the variant forms Dairean and Dairenn
 categories:
-  - Irish heroine
-  - minor king
-  - older sister
-  - king
-  - eastern province
+  - Person
+  - Group
 entities:
-  - Dáirine(Irish heroine)
-  - Tuathal Techtmar(minor king)
-  - Leinster(eastern province)
-  - Eochaid(king)
-  - Fithir(older sister)
+  - Daireann(Person)
+  - Sadb(Person)
+  - Fionn mac Cumhaill(Person)
+  - fianna(Group)
+  - Oisín(Person)
 tags:
-  - Dáirine
-  - Tuathal Techtmar
-  - Leinster
-  - Eochaid
-  - Fithir
+  - Daireann
+  - Sadb
+  - Fionn mac Cumhaill
+  - fianna
+  - Oisín
 ---
 ``` tab [group1:Info]
 ::: magazinestyle
-Daireann, also known as Doirend or Doirinn, is an Irish heroine, lesser-known than her sister, Sadb. She had a liking for the great warrior Fionn Mac Cumhaill, but he did not reciprocate her interest. To get back at him, she poisoned him with an enchanted elixir that made him go insane, rather than taking his life. Fionn's followers, the Fianna, left him during this period of madness, but they returned when he regained his senses. Daireann's pride suffered another blow when Fionn had a child with Sadb, who became his favorite follower, the poet Oisín. Dáirine, an Irish princess, is the daughter of Tuathal Techtmar, a minor king. She caught the eye of the king of Leinster, Eochaid but he was compelled by Tuathal to marry her older sister Fithir instead. Eochaid, however, outwitted his father-in-law by claiming that Fithir had died, thus marrying Dáirine instead. His marriage with her was not a happy one because Dáirine stumbled upon the place where Fithir was being held captive and uncovered her husband's deceitful act.
+Daireann is an Irish heroine and the sister of Sadb. She takes a fancy to the warrior Fionn mac Cumhaill, who does not return her interest. In revenge she poisons him with an enchanted elixir. The elixir does not kill Fionn. It drives him insane. Most of his followers, the fianna, desert him during his madness. They return when his wits come back. The poison strikes at his mind, not his body, and the recovery comes only later. Daireann suffers a second blow when Fionn has a child with Sadb. That child becomes the poet Oisín, Fionn's most favored follower. The story shows Daireann's jealousy ruling her actions toward the greater hero. Her revenge fails to hold, since Fionn regains his sanity and his men return to him.
 
 :::
 ```
 ``` tab [group1:Attributes]
-- **Dáirine**: Irish princess
-- **Tuathal Techtmar**: father
-- **Leinster**: province
-- **Eochaid**: father-in-law
-- **Fithir**: older sister
-- **Fithir**: captive
-- **Dáirine**: younger sister
-- **Eochaid**: husband
-- **Dáirine**: discovered husband's perfidy
+- **Daireann**: sister of Sadb
+- **Daireann**: drives Fionn mac Cumhaill insane with an enchanted elixir
+- **Fionn mac Cumhaill**: father of the poet Oisín by Sadb
+- **Daireann**: a Modern Irish variant of the name Doirend
+- **Daireann**: carries the variant forms Dairean and Dairenn
 ```
 ``` tab [group1:Entities]
-- **Dáirine**: Irish heroine
-- **Tuathal Techtmar**: minor king
-- **Leinster**: eastern province
-- **Eochaid**: king
-- **Fithir**: older sister
+- **Daireann**: Person
+- **Sadb**: Person
+- **Fionn mac Cumhaill**: Person
+- **fianna**: Group
+- **Oisín**: Person
 ```
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
+- MacKillop 2008, s.v. 'Daireann'.
 ```

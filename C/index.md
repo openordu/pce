@@ -718,3 +718,7 @@ layout: layouts/pce.njk
 - [Córus_Cerda](Córus_Cerda)
 - [Cú](Cú)
 - [Cúar](Cúar)
+- [Cúchulainn_s_Leap](Cúchulainn_s_Leap)
+- [Cúcán](Cúcán)
+- [Cúldub](Cúldub)
+- [Cúscraid](Cúscraid)

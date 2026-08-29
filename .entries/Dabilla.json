@@ -1,0 +1,38 @@
+{
+  "name": "Dabilla",
+  "text": "Dabilla is the lapdog of the river-goddess Bóand. The place-name story says Bóand's little dog perished on two sea rocks off the east coast of Brega. The rocks are identified with the 148-foot Rockabill rocks, whose old Irish name was Da Billa. They stand five miles north-east of Skerries in north County Dublin.",
+  "entities": [
+    {
+      "entity": "Bóand",
+      "type": "deity"
+    },
+    {
+      "entity": "Brega",
+      "type": "place"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Dabilla",
+      "attribute": "the lapdog of the river-goddess Bóand"
+    },
+    {
+      "entity": "Rockabill",
+      "attribute": "the sea rocks identified with the old name Da Billa"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Dabilla'."
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Record Dabilla, the lapdog of Bóand in the Boyne place-name legend.",
+    "key_results": [
+      "Dabilla was the lapdog of the goddess Bóand.",
+      "Two sea rocks off Brega keep the dog's name."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Dabilla'."
+  }
+}

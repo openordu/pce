@@ -13,11 +13,13 @@ attributes:
   - Conall Cernach Ulster hero who appears in the tale and is wounded in the final battle
   - Da Derga the red god who gives the hostel its name
   - Conaire king of Tara who breaks his geis at Samhain
+  - Da Derga's Hostel the bruiden or banqueting-hall of host Da Derga
+  - Da Derga's Hostel said to stand near the River Dodder in south County Dublin
 categories:
-  - Text
-  - Person
   - Deity
   - Place
+  - Person
+  - Text
 entities:
   - Da Derga(Deity)
   - Conaire(Person)
@@ -54,6 +56,8 @@ Togail Bruidne Derga is the full name of the tale. The phrase means the destruct
 - **Conall Cernach**: Ulster hero who appears in the tale and is wounded in the final battle
 - **Da Derga**: the red god who gives the hostel its name
 - **Conaire**: king of Tara who breaks his geis at Samhain
+- **Da Derga's Hostel**: the bruiden or banqueting-hall of host Da Derga
+- **Da Derga's Hostel**: said to stand near the River Dodder in south County Dublin
 ```
 ``` tab [group1:Entities]
 - **Da Derga**: Deity
@@ -72,4 +76,5 @@ Togail Bruidne Derga is the full name of the tale. The phrase means the destruct
 - Gantz, Jeffrey, ed. and transl. Early Irish Myths and Sagas. (New York: Penguin Books, 1984), 60+.
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 - Koch 2006, s.v. "Togail Bruidne Derga"
+- MacKillop 2008, s.v. 'Da Derga's Hostel'.
 ```

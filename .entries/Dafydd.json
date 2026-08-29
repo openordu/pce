@@ -1,0 +1,38 @@
+{
+  "name": "Dafydd",
+  "text": "Dafydd is the most popular man's given name in Wales. The form Davydd appears beside it. The name comes from the Hebrew word for beloved and answers to the English David. Countless figures in Welsh history carry it. The patron saint of Wales keeps his own separate name. He is known as Dewi Sant in Welsh and as David in English. Welsh usage never calls him St Dafydd.",
+  "entities": [
+    {
+      "entity": "Dewi Sant",
+      "type": "person"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Dafydd",
+      "attribute": "the most popular man's given name in Wales"
+    },
+    {
+      "entity": "Dafydd",
+      "attribute": "counterpart of the English David, from the Hebrew for beloved"
+    },
+    {
+      "entity": "Dewi Sant",
+      "attribute": "the patron saint of Wales, never styled St Dafydd"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Dafydd'."
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Record Dafydd as the Welsh form of David and its saintly exception.",
+    "key_results": [
+      "Dafydd is the common Welsh male name, equal to David.",
+      "The patron saint is Dewi Sant, never St Dafydd."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Dafydd'."
+  }
+}
