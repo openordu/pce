@@ -20,6 +20,18 @@
         {
             "entity": "Wales",
             "type": "Place"
+        },
+        {
+            "entity": "pwca",
+            "type": "Being"
+        },
+        {
+            "entity": "pooca",
+            "type": "Being"
+        },
+        {
+            "entity": "Cornwall",
+            "type": "Place"
         }
     ],
     "attributes": [
@@ -34,22 +46,36 @@
         {
             "entity": "bucca dhu",
             "attribute": "the evil form of the sprite"
+        },
+        {
+            "entity": "bucca",
+            "attribute": "a Cornish hobgoblin akin to the Welsh pwca and the Irish pooca"
+        },
+        {
+            "entity": "bucca",
+            "attribute": "received fish on the sands from fishermen, or crumbs and beer cast behind them"
+        },
+        {
+            "entity": "bucca",
+            "attribute": "by the 20th century a fright for small children and a jesting word for a scarecrow"
         }
     ],
     "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.",
+        "MacKillop 2008, s.v. 'bucca'"
     ],
     "cyphertext": "1Zv5DNZYI92ux0T1bNL6H3j1cKOZsZCD6viVKm85TKRWdlmMDUZ2-HJ6ozokTvBXe-2I3fsau9l6bb5-tk4fNYNdzGESVDkJSg1o4YQvopYZTYcHfsnOdT0EvyZ3zLa2jLoxV58XGAc1-ebgPzYk4HrgoVdf6dL0FgJvtW_fwPGWel_6J7KMn6QaAvUS9GJAyDaJzV7D_EEyY9vYnAsrVQee58eauQ2WZ0HRcI2piu872Sffd7g0wER0WI_Y4LZD518mSNJX8iZpFmlLv-dorE5mK_-WnUTuRX2lHGk46yePrChHBEB-nINaCH_wf20LmtfSPTkJCVm4SoOwJeU5DntVxeS3DxwHLUXX088GqphSLOvFxBFiWDiXHAQLO7H9J4YcHjNik10hvvYvYu6AcWDa0-yLXnbkBeW_817kSlewYMhp29IdfWd-FCBtnKf6zpTI615s5FM1wit9kejX89-1G6T_llfLMbZffXjGJqzXt-cMh2mEz9LOVegqPOMiW9JXQZYNZpIou153QhA6Zc9wZN_E97bb2-k8AQLtntdBRVEra4LqY53A6ZtdpFS8T1aVZ-_Zr-eZPC5UcGWFCdIp_zVJ8IbanTqB_5MkA25y28ORnC5MHoHTQwtd4AorxzUlnlZPV1UztWFiOdybD1K2R3x7anNnwz-Ot_nPa8V9vVkvT4h9y_uR_l94UB0Pv7KbSsU9NMJHEtsyOVVh99vQq0ViEvwuRwWMPAiPZrS1FkdnFFBGYUu89twOjE07yfs=",
     "salt": "Ba930LbpMB97hMutXuoEyw==",
-    "text": "The bucca is a household sprite of Wales. It closely resembles the brownie. The bucca would work for food. If a householder failed to leave a bowl of milk or another treat, mischief often followed. One must not ask the bucca its name. That question would make the sprite leave the farm in disgust. Some folklorists separate a helpful bucca gwidden from an evil bucca dhu. The name bucca can also serve as a plain term for a fairy.",
+    "text": "The bucca is a household sprite of Cornwall and Wales. MacKillop glosses the name as a Cornish hobgoblin. Monaghan records the creature for Wales. It resembles the brownie in its habits. The bucca works for food. A householder who failed to leave a bowl of milk or another treat risked mischief. Asking the sprite its name drove it from the farm in disgust. The pwca of Wales and the pooca of Ireland rank among its kindred. Fishermen once laid part of their catch on the sands as its share. Others cast a few crumbs and drops of beer behind them to win its favor. Folklorists separate a helpful bucca gwidden, the white spirit, from an evil bucca dhu, the black spirit. Other names for the black spirit are bucca-boo and bucca-hoo. The word can also serve as a plain term for a fairy. By the 20th century the bucca frightened only small children. In jest people use the word for a scarecrow. Folk motif catalogues record the belief as V12.9.",
     "okr": {
-        "objective": "Present the bucca as a Welsh household sprite that works for food and leaves when asked its name.",
+        "objective": "Present the bucca as a household sprite of Cornwall and Wales that works for food and punishes neglect.",
         "key_results": [
-            "The bucca resembles a brownie and works for food.",
-            "Missing a bowl of milk or another treat would bring mischief.",
-            "Asking the bucca its name made it leave the farm in disgust.",
-            "Folklorists mark off a helpful bucca gwidden from an evil bucca dhu."
+            "The bucca resembles the brownie and works for food.",
+            "Fishermen laid fish on the sands and cast crumbs or beer behind them for the bucca.",
+            "Asking the bucca its name drove it from the farm.",
+            "The helpful bucca gwidden stands against the evil bucca dhu.",
+            "By the 20th century the bucca frightened only small children."
         ],
-        "evidence": "Monaghan 2008, s.v. 'bucca'."
+        "evidence": "MacKillop 2008, s.v. 'bucca'."
     }
 }

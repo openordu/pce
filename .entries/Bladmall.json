@@ -3,7 +3,7 @@
   "image": [],
   "cyphertext": "",
   "salt": "",
-  "text": "Bladmall is an alternate spelling for the sea-monster name Bledmall. In Irish the word Bledmall, along with the variants bladmall and bledmail, marks a fearsome deep-water creature. Several early Irish tales make mention of such underwater beasts. A reader who meets the form Bladmall should turn to the Bledmall entry for the fuller account.",
+  "text": "Bladmall is an alternate spelling of Bledmall, a sea-monster name in Irish tradition. MacKillop lists the forms bledmall, bladmall, and bledmail together. The word marks fearsome creatures of the deep. Early Irish narratives allude to these underwater beasts on several occasions. A reader who meets the form Bladmall should turn to the Bledmall entry for the fuller account.",
   "entities": [
     {
       "entity": "Bladmall",
@@ -26,16 +26,29 @@
     {
       "entity": "Bledmall",
       "attribute": "the target Being of the Bladmall cross-reference"
+    },
+    {
+      "entity": "Bledmall",
+      "attribute": "glossed in Irish as a sea-monster"
+    },
+    {
+      "entity": "Bledmall",
+      "attribute": "recorded in the variant forms bledmall, bladmall, and bledmail"
+    },
+    {
+      "entity": "Bledmall",
+      "attribute": "cited in several early Irish narratives"
     }
   ],
   "okr": {
-    "objective": "Provide a short cross-reference telling that Bladmall points to Bledmall.",
+    "objective": "Point readers from the spelling Bladmall to the fuller Bledmall entry.",
     "key_results": [
       "Bladmall is an alternate spelling of the name Bledmall.",
-      "Bledmall names a fearsome sea-monster of early Irish lore.",
+      "MacKillop groups the forms bledmall, bladmall, and bledmail.",
+      "The name marks fearsome sea-monsters of the deep in early Irish tales.",
       "Bladmall directs the reader to the fuller Bledmall entry."
     ],
-    "evidence": "MacKillop 2008, s.v. 'Bladmall'."
+    "evidence": "MacKillop 2008, s.v. 'bledmall'."
   },
   "sources": [
     "MacKillop 2008, s.v. 'Bladmall'."
