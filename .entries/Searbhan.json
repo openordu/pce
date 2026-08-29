@@ -1,61 +1,83 @@
 {
-  "name": "Searbhan",
-  "entities": [
-    {
-      "entity": "Searbhan",
-      "type": "Person"
-    },
-    {
-      "entity": "Gráinne",
-      "type": "Person"
-    },
-    {
-      "entity": "Diarmait",
-      "type": "Person"
-    },
-    {
-      "entity": "Fionn mac Cumhaill",
-      "type": "Person"
-    },
-    {
-      "entity": "rowan tree",
-      "type": "Artifact"
-    }
-  ],
-  "attributes": [
-    {
-      "entity": "Searbhan",
-      "attribute": "a giant and magician, also called Sharvon the Surly"
-    },
-    {
-      "entity": "Searbhan",
-      "attribute": "hid Gráinne and Diarmait in his magical rowan tree"
-    },
-    {
-      "entity": "Searbhan",
-      "attribute": "killed by Diarmait over the tree's berries"
-    },
-    {
-      "entity": "rowan tree",
-      "attribute": "magical tree whose berries Gráinne craved"
-    }
-  ],
-  "sources": [
-    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-  ],
-  "cyphertext": "AYuDovClFCD8O3D-eKB-d7O3Oe9ryMiu-5swA2YU2e41RhQsqW48aj7RtR_1avGXy3RMOk2y3MJQil52LPQCT3-Tjyjrw_fm8LJS4PrK8bfDTMF8PnkMxNFoS7_svlQPjPaeDTwFq0UGW46-GxjIn1ARhZD_RDFvTV0Qxd70_zq9hwZoZWRbpqQJlciTpWz4I_-plVf0HZHQJVe9bdULeF-DouJ5TJ1NM62kWaz8J8zwwXALAqdXoQ2ckqXkc0jed3mql-_-ZhU3cF5GSqBHukXH6tsYYA0xZIuqv-zddbUpsg6Q6b11AO96fR-r9SablQfVkGqux_CU59pHXV0N6U0wp3HfLt0DE89l_0DHr2aKKrSsN4OkNu066gGMyUw_-I_D_HCSVTMISChBrIqXiyAWAAjgLFjkqfK5K-XADnSZC8PJ6y7_42qTAF7h_BtDZnuY6_xyZwdT3RZChZEV0Bxua4N-WIT-756v9yICwJtT_M2aj70lH3JHceB8ZJLWbNgf6fksF22-taM4xUKOMFhv7t0uD7t3rIbF8NfEx7G-dj1QQTmJ9LH-jl_b-fLaP0-M-PwuUywr5miL-N6C5q1Lg2-p7cg1H8P-nBBKIUURWBRHZ5s4D5OfHnE-50fr",
-  "salt": "U4fM7F7SKn4o7KEAlqeYNg==",
-  "text": "Searbhan, also called Sharvon the Surly or Sharvan, was an Irish hero. He appears in the romantic tale of Gráinne and Diarmait. He was a giant and a magician. He helped the fleeing lovers by hiding them in his magical rowan tree. He warned them not to eat the berries, but Gráinne still craved the fruit. Diarmait killed Searbhan so that they could eat it. The giant's dying screams exposed the couple's hiding place to Fionn mac Cumhaill, who was chasing them.",
-  "okr": {
-    "objective": "Document the Irish hero Searbhan.",
-    "key_results": [
-      "Record Searbhan as a giant and magician in the tale of Gráinne and Diarmait.",
-      "Record his magical rowan tree and its berries.",
-      "Record his death at the hands of Diarmait."
-    ],
-    "evidence": [
-      "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore (2008): Searbhan.",
-      "Koch, John T. Celtic Culture: A Historical Encyclopedia (2006): no separate Searbhan entry."
-    ]
+ "name": "Searbhan",
+ "entities": [
+  {
+   "entity": "Searbhan",
+   "type": "Person"
+  },
+  {
+   "entity": "Gráinne",
+   "type": "Person"
+  },
+  {
+   "entity": "Diarmait",
+   "type": "Person"
+  },
+  {
+   "entity": "Fionn mac Cumhaill",
+   "type": "Person"
+  },
+  {
+   "entity": "rowan tree",
+   "type": "Artifact"
+  },
+  {
+   "entity": "Dubros",
+   "type": "Place"
+  },
+  {
+   "entity": "Fomorians",
+   "type": "Group"
   }
+ ],
+ "attributes": [
+  {
+   "entity": "Searbhan",
+   "attribute": "a giant and magician, also called Sharvon the Surly"
+  },
+  {
+   "entity": "Searbhan",
+   "attribute": "hid Gráinne and Diarmait in his magical rowan tree"
+  },
+  {
+   "entity": "Searbhan",
+   "attribute": "killed by Diarmait over the tree's berries"
+  },
+  {
+   "entity": "rowan tree",
+   "attribute": "magical tree whose berries Gráinne craved"
+  },
+  {
+   "entity": "Searbhan",
+   "attribute": "guards the magical rowanberries of the forest of Dubros in County Sligo"
+  },
+  {
+   "entity": "Searbhan",
+   "attribute": "beaten only when Diarmait turned the giant's own club against him"
+  },
+  {
+   "entity": "Searbhan",
+   "attribute": "epithet Lochlonnach, the Norseman, in some texts"
+  },
+  {
+   "entity": "Searbhan",
+   "attribute": "counted among the Fomorians in others"
+  }
+ ],
+ "sources": [
+  "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.",
+  "MacKillop 2008, s.v. 'Searbhán'"
+ ],
+ "cyphertext": "AYuDovClFCD8O3D-eKB-d7O3Oe9ryMiu-5swA2YU2e41RhQsqW48aj7RtR_1avGXy3RMOk2y3MJQil52LPQCT3-Tjyjrw_fm8LJS4PrK8bfDTMF8PnkMxNFoS7_svlQPjPaeDTwFq0UGW46-GxjIn1ARhZD_RDFvTV0Qxd70_zq9hwZoZWRbpqQJlciTpWz4I_-plVf0HZHQJVe9bdULeF-DouJ5TJ1NM62kWaz8J8zwwXALAqdXoQ2ckqXkc0jed3mql-_-ZhU3cF5GSqBHukXH6tsYYA0xZIuqv-zddbUpsg6Q6b11AO96fR-r9SablQfVkGqux_CU59pHXV0N6U0wp3HfLt0DE89l_0DHr2aKKrSsN4OkNu066gGMyUw_-I_D_HCSVTMISChBrIqXiyAWAAjgLFjkqfK5K-XADnSZC8PJ6y7_42qTAF7h_BtDZnuY6_xyZwdT3RZChZEV0Bxua4N-WIT-756v9yICwJtT_M2aj70lH3JHceB8ZJLWbNgf6fksF22-taM4xUKOMFhv7t0uD7t3rIbF8NfEx7G-dj1QQTmJ9LH-jl_b-fLaP0-M-PwuUywr5miL-N6C5q1Lg2-p7cg1H8P-nBBKIUURWBRHZ5s4D5OfHnE-50fr",
+ "salt": "U4fM7F7SKn4o7KEAlqeYNg==",
+ "text": "Searbhan is the surly ogre of the pursuit tale of Diarmait and Gráinne. MacKillop spells the name Searbhán, Searban, Searbhan, and Sharvan. He guards the magical rowanberries that grow in the forest of Dubros in County Sligo. He was a giant and a magician of great skill. Monaghan's account gives him a softer role. In it he shelters the fleeing lovers inside his magical rowan tree. He warns them not to eat its berries. Gráinne still craved the fruit. No weapon could beat him until Diarmait turned the giant's own club against him. That blow killed Searbhan. His dying screams exposed the couple's hiding place to Fionn mac Cumhaill, who was chasing them. Some texts give him the epithet Lochlonnach, which means Norseman. Others count him among the Fomorians.",
+ "okr": {
+  "objective": "Document Searbhan, the ogre of the rowan tree in the pursuit tale.",
+  "key_results": [
+   "Record the rowanberries of Dubros forest in County Sligo",
+   "Record his death by his own club in Diarmait's hand",
+   "Record the epithet Lochlonnach and the Fomorian tie"
+  ],
+  "evidence": "MacKillop 2008, s.v. 'Searbhán'."
+ }
 }

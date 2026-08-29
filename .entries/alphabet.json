@@ -1,0 +1,42 @@
+{
+  "name": "alphabet",
+  "text": "Alphabet is a signpost entry in this dictionary. The bare head sends readers to the articles on Ogma and on ogham. The ogham record carries the fuller account of the native letter system. Ogma is the god to whom that alphabet belongs.",
+  "entities": [
+    {
+      "entity": "alphabet",
+      "type": "Concept"
+    },
+    {
+      "entity": "ogham",
+      "type": "concept"
+    },
+    {
+      "entity": "Ogma",
+      "type": "god"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "alphabet",
+      "attribute": "see-reference to Ogma and ogham"
+    },
+    {
+      "entity": "alphabet",
+      "attribute": "the native letter system's record sits under ogham"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'alphabet'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Alphabet is a signpost entry in this dictionary",
+    "key_results": [
+      "see-reference into the ogham record",
+      "Ogma's letter lore lives there"
+    ],
+    "evidence": "MacKillop 2008, s.v. alphabet."
+  }
+}

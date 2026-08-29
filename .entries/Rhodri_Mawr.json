@@ -1,0 +1,55 @@
+{
+  "name": "Rhodri Mawr",
+  "text": "Rhodri Mawr (died 877) was a historical Welsh monarch. His name parses from rhod, circle, disc, or orb, hence coronet or torque, with mawr, great. He joined Gwynedd, Ceredigion, and Powys, three small kingdoms, under one ruler. His title Rex Brittonum proclaimed him King of all Wales, a first such claim to all-Wales rule. He beat back both Danes and English, yet died in flight in Ireland. The union did not outlive his reign, but his dynastic house mattered across north and south Wales. The lawgiver Hywel Dda counted as his great-grandson. Later Welsh memory kept him as the realm's first over-king.",
+  "entities": [
+    {
+      "entity": "Rhodri Mawr",
+      "type": "Person"
+    },
+    {
+      "entity": "GWYNEDD",
+      "type": "Place"
+    },
+    {
+      "entity": "Ceredigion",
+      "type": "Place"
+    },
+    {
+      "entity": "Powys",
+      "type": "Place"
+    },
+    {
+      "entity": "Hywel Dda",
+      "type": "Person"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Rhodri Mawr",
+      "attribute": "historical monarch (d. 877) who united Gwynedd, Ceredigion, and Powys"
+    },
+    {
+      "entity": "Rhodri Mawr",
+      "attribute": "assumed the style Rex Brittonum, King of all Wales"
+    },
+    {
+      "entity": "Rhodri Mawr",
+      "attribute": "great-grandfather of the lawgiver Hywel Dda"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Rhodri Mawr'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Rhodri Mawr (died 877) was a historical Welsh monarch",
+    "key_results": [
+      "united Gwynedd, Ceredigion, and Powys under one ruler",
+      "held his realm against Danes and English, died in flight in Ireland",
+      "left an important dynastic family for north and south Wales"
+    ],
+    "evidence": "MacKillop 2008, s.v. Rhodri Mawr."
+  }
+}

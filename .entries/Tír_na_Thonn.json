@@ -1,0 +1,38 @@
+{
+  "name": "Tír na Thonn",
+  "text": "Tír na Thonn is a variant form of the name Tir fo Thuinn. The dictionary prints the head as a one-line cross-reference. The record of the Land under Wave sits under the Tir fo Thuinn node. Both forms name the realm beneath the waves.",
+  "entities": [
+    {
+      "entity": "Tír na Thonn",
+      "type": "Place"
+    },
+    {
+      "entity": "Tir fo Thuinn",
+      "type": "Place"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Tír na Thonn",
+      "attribute": "variant form of the Tir fo Thuinn name"
+    },
+    {
+      "entity": "Tír na Thonn",
+      "attribute": "cross-reference to the Tir fo Thuinn record"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Tir naThonn'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Tír na Thonn is a variant form of the name Tir fo Thuinn",
+    "key_results": [
+      "variant of the Tir fo Thuinn name",
+      "signpost to the Land under Wave record"
+    ],
+    "evidence": "MacKillop 2008, s.v. Tir naThonn."
+  }
+}

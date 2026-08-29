@@ -1,52 +1,79 @@
 {
-  "name": "alp-luachra",
-  "entities": [
-    {
-      "entity": "alp-luachra",
-      "type": "Being"
-    },
-    {
-      "entity": "newt",
-      "type": "Being"
-    },
-    {
-      "entity": "water sprite",
-      "type": "Being"
-    }
-  ],
-  "attributes": [
-    {
-      "entity": "alp-luachra",
-      "attribute": "a water sprite"
-    },
-    {
-      "entity": "alp-luachra",
-      "attribute": "caused stomach ailments"
-    },
-    {
-      "entity": "newt",
-      "attribute": "may become an alp-luachra"
-    },
-    {
-      "entity": "alp-luachra",
-      "attribute": "driven out with salty food and a stream"
-    }
-  ],
-  "sources": [
-    "Hyde, Douglas. Beside the Fire: A Collection of Irish Gaelic Folk Stories. London: David Nutt, 1890, 47.",
-    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-  ],
-  "image": [
-    "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Four_Provinces_Flag.svg/1200px-Four_Provinces_Flag.svg.png"
-  ],
-  "cyphertext": "Ur-oAJWcHDO-2Giqjs9NhIKHZUq2-KOViBWwFWfzuvCVhSnb5Sy3MJhM_GA0OVB0M6E9cMDTMGlk08WzZD1EgScnWrqOgWtXYg7Rj0DhOlphHqAGSEV0WPJMSC_ek6t5hRNYmFKdlEfzHz8Bk5J69kSDX2GMuAI_j2pZXjYEG-tjZdR4OaPlrFsmgAGi6EyjLVsKTEP3hUlp_hP0EjPgX17jABpS77QYA8YDZ5V_nFwervMI1XTpsG73jNry_ncHD3wj_qqu0j0N8AZdVlIO-kn57H8hjBafIMq2YFFOJEDH2otPV2ufAFVOZb1xu6VR_qMTxolhyu_Xp6ZSVwJ2wEujY9LxgAx73mcXN_bW2K2PM1f93sMXb9fgHpUEIX_BQQ3tweZ3XLtieMPa0iGou0qodV7iddAFi5rLT2ixKmc__5A8O_8yduEPdco5CFhPDuacwzdlXVtZTC2h5gXI90_z14edlln3Y5DSyioHJswYJY52dPXKys0gRbCFPJloc8Jpzjf2uv65UPneyXMkuvgl4LOj2kYWTQnMUXbUvpDBgyXQooUFk5tnKCuFO_zFxU89YDhlD6qeTgGvzeyrRe_vsBLUGIVROpiZFADxoojVXT8TzJDvgCPwQFMuP0aBItRLvjAeTkGWVWWo_RHZzyPJNv6zZCUijevU4M0LpSoNIdC-f943gnzlvB5EfkbwxwdaIF3NCpl_l2r0tPGRtoyyUYCA4igkW815q4g9aAiNqG7oHeaibYqXCY1EOkCZK6iMiw7xlJyUcCSAD8-KlBkrNjhWw0dGDilZXEMGI7Bh9uoejWePFZksARMc9-PxpbTlPzdbWWeMcWpCtNuqRYoXjsrucyKvC2EmvC6BTShXgK4Y8CceKUuCcJQ8xikSRMOqz5uGm89VtgPeZM36Rz4wHJzzBMjEVISVVp9pxAU=",
-  "salt": "KtX06Zds8lXmn5ikgm396Q==",
-  "text": "The alp-luachra is a water sprite. A person could swallow it by accident, and it caused endless trouble. It gave the victim stomach ailments until it was coaxed back out of the mouth. Some said the trouble began when a person swallowed a newt. The newt, a small amphibian, changed into an alp-luachra inside the body. To drive it out, the victim ate salty food without washing it down with drink. The victim then slept beside a stream. Dying of thirst, the alp-luachra leapt from the mouth and back into the water.",
-  "okr": {
-    "objective": "Record the alp-luachra, an Irish water sprite.",
-    "key_results": [
-      "Show the accidental swallow and the salty-food cure."
-    ],
-    "evidence": "Monaghan 2003, s.v. alp-luachra; Koch 2006, s.v. Sprite"
+ "name": "alp-luachra",
+ "entities": [
+  {
+   "entity": "alp-luachra",
+   "type": "Being"
+  },
+  {
+   "entity": "newt",
+   "type": "Being"
+  },
+  {
+   "entity": "water sprite",
+   "type": "Being"
+  },
+  {
+   "entity": "joint-eater",
+   "type": "Being"
+  },
+  {
+   "entity": "Douglas Hyde",
+   "type": "Person"
+  },
+  {
+   "entity": "Beside the Fire",
+   "type": "Text"
   }
+ ],
+ "attributes": [
+  {
+   "entity": "alp-luachra",
+   "attribute": "a water sprite"
+  },
+  {
+   "entity": "alp-luachra",
+   "attribute": "caused stomach ailments"
+  },
+  {
+   "entity": "newt",
+   "attribute": "may become an alp-luachra"
+  },
+  {
+   "entity": "alp-luachra",
+   "attribute": "driven out with salty food and a stream"
+  },
+  {
+   "entity": "alp-luachra",
+   "attribute": "Irish form of the international joint-eater fairy"
+  },
+  {
+   "entity": "alp-luachra",
+   "attribute": "Hyde records a cure with salt beef and a stream"
+  },
+  {
+   "entity": "alp-luachra",
+   "attribute": "may sit beside the victim as well as inhabit the body"
+  }
+ ],
+ "sources": [
+  "Hyde, Douglas. Beside the Fire: A Collection of Irish Gaelic Folk Stories. London: David Nutt, 1890, 47.",
+  "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.",
+  "MacKillop 2008, s.v. 'alp-luachra'"
+ ],
+ "image": [
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Four_Provinces_Flag.svg/1200px-Four_Provinces_Flag.svg.png"
+ ],
+ "cyphertext": "Ur-oAJWcHDO-2Giqjs9NhIKHZUq2-KOViBWwFWfzuvCVhSnb5Sy3MJhM_GA0OVB0M6E9cMDTMGlk08WzZD1EgScnWrqOgWtXYg7Rj0DhOlphHqAGSEV0WPJMSC_ek6t5hRNYmFKdlEfzHz8Bk5J69kSDX2GMuAI_j2pZXjYEG-tjZdR4OaPlrFsmgAGi6EyjLVsKTEP3hUlp_hP0EjPgX17jABpS77QYA8YDZ5V_nFwervMI1XTpsG73jNry_ncHD3wj_qqu0j0N8AZdVlIO-kn57H8hjBafIMq2YFFOJEDH2otPV2ufAFVOZb1xu6VR_qMTxolhyu_Xp6ZSVwJ2wEujY9LxgAx73mcXN_bW2K2PM1f93sMXb9fgHpUEIX_BQQ3tweZ3XLtieMPa0iGou0qodV7iddAFi5rLT2ixKmc__5A8O_8yduEPdco5CFhPDuacwzdlXVtZTC2h5gXI90_z14edlln3Y5DSyioHJswYJY52dPXKys0gRbCFPJloc8Jpzjf2uv65UPneyXMkuvgl4LOj2kYWTQnMUXbUvpDBgyXQooUFk5tnKCuFO_zFxU89YDhlD6qeTgGvzeyrRe_vsBLUGIVROpiZFADxoojVXT8TzJDvgCPwQFMuP0aBItRLvjAeTkGWVWWo_RHZzyPJNv6zZCUijevU4M0LpSoNIdC-f943gnzlvB5EfkbwxwdaIF3NCpl_l2r0tPGRtoyyUYCA4igkW815q4g9aAiNqG7oHeaibYqXCY1EOkCZK6iMiw7xlJyUcCSAD8-KlBkrNjhWw0dGDilZXEMGI7Bh9uoejWePFZksARMc9-PxpbTlPzdbWWeMcWpCtNuqRYoXjsrucyKvC2EmvC6BTShXgK4Y8CceKUuCcJQ8xikSRMOqz5uGm89VtgPeZM36Rz4wHJzzBMjEVISVVp9pxAU=",
+ "salt": "KtX06Zds8lXmn5ikgm396Q==",
+ "text": "The alp-luachra is a water sprite, an Irish instance of a fairy type known across the world as the joint-eater. A person could swallow it by accident with a drink from a stream. From that moment it caused endless trouble. The creature gave the victim stomach ailments until it was coaxed back out of the mouth. It may be male or female. It lives inside a human body much as a tapeworm does. Once there it eats most of the food the victim takes in. It can also sit near the sufferer. A wasting hunger was the sign of its presence. Some accounts give the sprite the shape of a small lizard or newt. Others leave it formless, a presence felt rather than seen.\n\nSome said the trouble began when a person swallowed a newt. The newt, a small amphibian, changed into an alp-luachra inside the body. Douglas Hyde prints a story of the cure in Beside the Fire, his collection of 1890. A man there was infested with thirteen of the creatures at once. He was told to eat a large amount of salt beef without any drink. The charmer then laid him low with his mouth held open above a stream. Dying of thirst, the alp-luachra leapt from his mouth and back into the water. The cure thus turns the creature's own thirst against it. Only fresh water from a running stream could tempt the creature out.\n\nThe tale shows how folk medicine met fairy lore in one practical ritual. In Ireland the little beast joined the long company of bodily intruders. Fairy lore gave each of them a charm that drives it out. The joint-eater type travels across Europe, and the Irish form keeps its own local dress. Victims of the sprite wasted away while it fed on their meals. Hunger without eating, and thirst answered by a stream, make the story easy to remember. Irish tellers kept the tale in currency into the twentieth century. Collectors found versions in Munster and Connacht alike. Each telling sharpens the same contest between the eater and the charmer. The alp-luachra remains a classic Irish example of a demon of wasting. It is a parasite spirit of the fairy order. Its story sits beside those of other devouring creatures in the national folklore. That place makes it a standard stop in surveys of Irish fairy animals.",
+ "okr": {
+  "objective": "Record the alp-luachra as the Irish joint-eater sprite and its cure.",
+  "key_results": [
+   "Defines the type as an international joint-eater fairy, male or female",
+   "Keeps the newt origin and the salt-beef cure by the stream",
+   "Cites Hyde's Beside the Fire story of thirteen sprites"
+  ],
+  "evidence": "Hyde, Douglas. Beside the Fire: A Collection of Irish Gaelic Folk Stories. London: David Nutt, 1890, 47.; Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.."
+ }
 }

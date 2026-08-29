@@ -1,0 +1,47 @@
+{
+  "name": "Posidonius",
+  "text": "Posidonius (c.135-c.51 BC) was a Syrian-born philosopher who wrote in the Roman world. Commentators rank him perhaps the most important ancient observer of Celtic affairs. His account anticipates later descriptions of bardic institutions and of the champion's portion. Other ancient writers copied him freely. Julius Caesar stands out among those who borrowed without acknowledgement. J. J. Tierney wrote on the Celtic ethnography of Posidonius for the Royal Irish Academy (1960). I. G. Kidd issued the standard two-volume edition of Posidonius (Cambridge and London, 1989).",
+  "entities": [
+    {
+      "entity": "Posidonius",
+      "type": "Person"
+    },
+    {
+      "entity": "bard",
+      "type": "Person"
+    },
+    {
+      "entity": "Julius Caesar",
+      "type": "Person"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Posidonius",
+      "attribute": "Syrian-born philosopher, leading ancient commentator on Celtic affairs"
+    },
+    {
+      "entity": "Posidonius",
+      "attribute": "anticipated accounts of bardic institutions and the champion's portion"
+    },
+    {
+      "entity": "Posidonius",
+      "attribute": "later writers, including Julius Caesar, borrowed from him"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Posidonius'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Posidonius (c.135-c.51 BC) was a Syrian-born philosopher who wrote in the Roman world",
+    "key_results": [
+      "perhaps the most important commentator on Celtic affairs",
+      "anticipated bardic institutions and the champion's portion",
+      "Julius Caesar and other writers plagiarized him"
+    ],
+    "evidence": "MacKillop 2008, s.v. Posidonius."
+  }
+}

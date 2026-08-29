@@ -1,0 +1,50 @@
+{
+  "name": "Vercingetorix",
+  "text": "Vercingetorix was a historical Gaulish tribal chieftain who died in 45 BC. His name has been read as over-warrior king. He opposed Julius Caesar's conquest of his country. His father was king of the Arverni people. Other nobles withheld their support, yet the common people gave him their confidence. By their doing he rose to kingship in 52 BC. Other Gaulish tribes eventually joined him, and for a time he met considerable success. Caesar besieged him at Alesia and forced his surrender. The captor exhibited Vercingetorix in his triumph, held him in Rome, and in the end executed him. General regard makes him the first national hero of France. Legend-making has gathered thickly around his persona. A life that began among the Arverni thus ended at Rome in 45 BC. The dictionary prints his name with a three-part gloss reading over, warrior, and king.",
+  "entities": [
+    {
+      "entity": "Vercingetorix",
+      "type": "Person"
+    },
+    {
+      "entity": "Julius Caesar",
+      "type": "Person"
+    },
+    {
+      "entity": "Alesia",
+      "type": "Place"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Vercingetorix",
+      "attribute": "Gaulish chieftain, son of the king of the Arverni, died 45 BC"
+    },
+    {
+      "entity": "Vercingetorix",
+      "attribute": "raised to kingship by the common people in 52 BC against Caesar"
+    },
+    {
+      "entity": "Vercingetorix",
+      "attribute": "besieged at Alesia, displayed in Caesar's triumph, executed in Rome"
+    },
+    {
+      "entity": "Vercingetorix",
+      "attribute": "regarded as the first French national hero"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Vercingétorix'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Vercingetorix was a historical Gaulish tribal chieftain who died in 45 BC",
+    "key_results": [
+      "Gaulish war leader against Caesar",
+      "legendary first national hero of France"
+    ],
+    "evidence": "MacKillop 2008, s.v. Vercingétorix."
+  }
+}

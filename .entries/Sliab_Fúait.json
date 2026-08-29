@@ -1,0 +1,67 @@
+{
+  "name": "Sliab Fúait",
+  "text": "Sliab Fúait, printed also as Sliabh Fuaid, Slieve Fuad, and Slieve Fuadh, is the highest point of the Fews mountains. The Irish name Na Feadha means the woods. The hill stands near Newtownhamilton in County Armagh, named for the Milesian invader Fuad, son of Breogan. Mythological and legendary associations gather thickly around it. Adjacent lies Finnachad, held as the residence of Aillén mac Midgna and of Lir. Lir fathered the Children of Lir. In the Cattle Raid of Cooley, Conall Cernach defends Ulster from this point. On the mountain Fingein, Conchobar mac Nessa's physician, healed the wounds of Cúchulainn. Findlám, the herdsman of Tara, kept a house here. Deirdre, Fionn mac Cumhaill, and Conán mac Morna each have adventures upon the hill. Near a lake of the mountain the horses Liath Macha and Saingliu rose up, the pair that drew Cúchulainn's chariot.",
+  "entities": [
+    {
+      "entity": "Sliab Fúait",
+      "type": "Place"
+    },
+    {
+      "entity": "Fuad",
+      "type": "Person"
+    },
+    {
+      "entity": "Conall Cernach",
+      "type": "Person"
+    },
+    {
+      "entity": "Cúchulainn",
+      "type": "Person"
+    },
+    {
+      "entity": "Deirdre",
+      "type": "Person"
+    },
+    {
+      "entity": "Fionn mac Cumhaill",
+      "type": "Person"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Sliab Fúait",
+      "attribute": "highest point of the Fews mountains, County Armagh"
+    },
+    {
+      "entity": "Sliab Fúait",
+      "attribute": "named for the Milesian invader Fuad, son of Breogan"
+    },
+    {
+      "entity": "Sliab Fúait",
+      "attribute": "adjacent Finnachad held as residence of Aillén mac Midgna and Lir"
+    },
+    {
+      "entity": "Sliab Fúait",
+      "attribute": "Conall Cernach defends Ulster from it in the Cattle Raid of Cooley"
+    },
+    {
+      "entity": "Sliab Fúait",
+      "attribute": "birthplace of the horses Liath Macha and Saingliu by a nearby lake"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Sliab Fúait'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Sliab Fúait, printed also as Sliabh Fuaid, Slieve Fuad, and Slieve Fuadh, is the highest point of the Fews mountains",
+    "key_results": [
+      "summit of the Fews woods mountains in Armagh",
+      "graves and deeds of Ulster heroes cluster on its slopes",
+      "Liath Macha and Saingliu rose from its lake"
+    ],
+    "evidence": "MacKillop 2008, s.v. Sliab Fúait."
+  }
+}

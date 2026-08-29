@@ -1,0 +1,38 @@
+{
+  "name": "Síth Emna",
+  "text": "Síth Emna is a variant of the otherworld place-name Emain Ablach. The dictionary prints the head as a one-line cross-reference. The name carries the síth element that marks fairy dwellings in Irish. The fuller record sits under the Emain Ablach node.",
+  "entities": [
+    {
+      "entity": "Síth Emna",
+      "type": "Place"
+    },
+    {
+      "entity": "Emain Ablach",
+      "type": "Place"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Síth Emna",
+      "attribute": "variant form of Emain Ablach"
+    },
+    {
+      "entity": "Síth Emna",
+      "attribute": "cross-reference to the Emain Ablach record"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Síth Emna'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Síth Emna is a variant of the otherworld place-name Emain Ablach",
+    "key_results": [
+      "variant of the Emain Ablach place-name",
+      "signpost to the Emain Ablach node"
+    ],
+    "evidence": "MacKillop 2008, s.v. Síth Emna."
+  }
+}

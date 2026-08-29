@@ -1,0 +1,38 @@
+{
+  "name": "Spailpín Fánach",
+  "text": "An Spailpín Fánach is an Irish folk melody. The phrase means the itinerant labourer. The air won wide popularity across the English-speaking world. Singers fitted countless sets of words to it. One borrowed tune became the marching song about the girl left behind.",
+  "entities": [
+    {
+      "entity": "Spailpín Fánach",
+      "type": "Concept"
+    },
+    {
+      "entity": "Ireland",
+      "type": "Place"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Spailpín Fánach",
+      "attribute": "Irish folk melody, the itinerant labourer"
+    },
+    {
+      "entity": "Spailpín Fánach",
+      "attribute": "carried many sets of words across the English-speaking world"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Spailpín Fánach'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "An Spailpín Fánach is an Irish folk melody",
+    "key_results": [
+      "widely sung Irish air",
+      "tune reused for many English-word sets"
+    ],
+    "evidence": "MacKillop 2008, s.v. Spailpín Fánach."
+  }
+}

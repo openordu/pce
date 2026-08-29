@@ -1,0 +1,54 @@
+{
+  "name": "Teilo",
+  "text": "Teilo, the Welsh form of the name Eludd, was a sixth-century Welsh saint. He lived as a contemporary of Dewi Sant and was known for zeal and asceticism. His work lay in south Wales, and his cult reached across to Brittany. Wells, chapels, and churches in great number carry his name. The centre of his cult is Llandeilo Fawr in Carmarthenshire. Modern scholars reject Geoffrey of Monmouth's twelfth-century claim that Teilo served as archbishop of Dol in Brittany. A twelfth-century Life of Teilo comes down in two versions.",
+  "entities": [
+    {
+      "entity": "Teilo",
+      "type": "Person"
+    },
+    {
+      "entity": "Dewi Sant",
+      "type": "Person"
+    },
+    {
+      "entity": "Wales",
+      "type": "Place"
+    },
+    {
+      "entity": "Brittany",
+      "type": "Place"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Teilo",
+      "attribute": "sixth-century Welsh saint, W form of Eludd, contemporary of Dewi Sant"
+    },
+    {
+      "entity": "Teilo",
+      "attribute": "active in south Wales with a cult reaching Brittany, marked by zeal and asceticism"
+    },
+    {
+      "entity": "Teilo",
+      "attribute": "cult centre at Llandeilo Fawr, Carmarthenshire; many wells and churches bear his name"
+    },
+    {
+      "entity": "Teilo",
+      "attribute": "medieval claim of the archbishopric of Dol rejected by modern commentators"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Teilo'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Teilo, the Welsh form of the name Eludd, was a sixth-century Welsh saint",
+    "key_results": [
+      "early Welsh saint of south Wales and Brittany",
+      "cult centred on Llandeilo Fawr with a twelfth-century Life"
+    ],
+    "evidence": "MacKillop 2008, s.v. Teilo."
+  }
+}

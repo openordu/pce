@@ -1,0 +1,42 @@
+{
+  "name": "Slissima",
+  "text": "Slissima is a character of James Macpherson's Ossian, the poems published between 1760 and 1763. The poem makes her the sister of Cuchullin and the mother of Althan and Ardar.",
+  "entities": [
+    {
+      "entity": "Slissima",
+      "type": "Person"
+    },
+    {
+      "entity": "Cuchullin",
+      "type": "Person"
+    },
+    {
+      "entity": "Ossian",
+      "type": "Text"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Slissima",
+      "attribute": "sister of Cuchullin in Macpherson's Ossian"
+    },
+    {
+      "entity": "Slissima",
+      "attribute": "mother of Althan and Ardar"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Slissima'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Slissima is a character of James Macpherson's Ossian, the poems published between 1760 and 1763",
+    "key_results": [
+      "Ossian figure, sister of Cuchullin",
+      "mother of Althan and Ardar"
+    ],
+    "evidence": "MacKillop 2008, s.v. Slissima."
+  }
+}

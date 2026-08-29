@@ -2,69 +2,83 @@
 layout: layouts/pce.njk
 title: Sirona
 icon: file-lines
-order: 2025
+order: 2339
 contributors: [ 'Christopher Godwin' ]
 attributes:
-  - Sirona Connected with the Celtic Apollo
-  - Sirona Frequently depicted with Serpents and Eggs
-  - Sirona Connection both to rebirth and to Fertility
+  - Sirona Continental Celtic healing goddess
+  - Sirona depicted with a serpent and an egg
+  - Apollo Celtic god with whom Sirona was often linked
+  - Matronae mother-goddesses set beside Sirona
+  - Sirona her name has been read as divine star
+  - Sirona goddess of healing springs with a cult from Hungary to Brittany
+  - Sirona shown seated beside Apollo Grannus with a dog in her lap
+  - Sirona carries three eggs and a snake coils about her arm
+  - Sirona the Treveri shrine at Hochscheid yielded many objects of her worship
+  - Sirona held identical with Divona and Dirona elsewhere
+  - Sirona her cult was displaced by Borvo across much of the Celtic world
 categories:
-  - Location
-  - Title
-  - Symbol
-  - Continental Celtic goddess
-  - Translation of Sirona's name
-  - Concept
-  - Possibly Tsirona
-  - Deity
+  - Goddess
+  - Name
+  - Place
+  - Group
+  - God
 entities:
-  - Sirona(Continental Celtic goddess)
-  - Dirona(Possibly Tsirona)
-  - France(Location)
-  - Healing goddess(Title)
-  - star(Translation of Sirona's name)
-  - Celtic Apollo(Deity)
-  - Serpents(Symbol)
-  - Eggs(Symbol)
-  - Rebirth(Concept)
-  - Fertility(Concept)
+  - Sirona(Goddess)
+  - Dirona(Name)
+  - Apollo(God)
+  - Hochscheid(Place)
+  - Matronae(Group)
+  - Apollo Grannus(God)
+  - Borvo(God)
+  - Divona(Goddess)
+  - Dirona(Goddess)
+  - Treveri(Group)
 tags:
   - Sirona
   - Dirona
-  - France
-  - Healing goddess
-  - star
-  - Celtic Apollo
-  - Serpents
-  - Eggs
-  - Rebirth
-  - Fertility
+  - Apollo
+  - Hochscheid
+  - Matronae
+  - Apollo Grannus
+  - Borvo
+  - Divona
+  - Dirona
+  - Treveri
 ---
 ``` tab [group1:Info]
 ::: magazinestyle
-Continental Celtic deity Sirona (also known as Dirona or possibly Tsirona) was considered a Healing goddess, with several inscriptions in France and other continental Celtic territories invoking her name. Her name is often translated as "star." Even though Sirona was frequently associated with the Celtic Apollo, she was also revered as a standalone figure. The goddess was often depicted with serpents and eggs, indicating her tie to rebirth and fertility.
+Sirona is a Gaulish goddess of healing springs. Records of her cult run from Hungary to Brittany. Her name has been read as divine star. Her statues show her alone or beside Apollo Grannus. She must therefore have stood as a goddess of fertility and healing from pre-Roman times. She outlived the fusion of Gaulish and Latin cults. In the Moselle valley the Treveri people took special interest in her worship. Their lands held the rich healing shrine dug up at Hochscheid, between Mainz and Trier. That dig yielded many objects of her cult. There she sits in a maternal pose next to Apollo, a dog resting in her lap. A diadem on her head marks high rank. She carries three eggs, a plain fertility sign. A snake coils about her arm, its head turned toward the eggs. At Sainte-Fontaine near Freyming her figure holds edible grains and fruits. At Mainz her gift is grapes. At Mâlain in the Côte d'Or the snake again coils on her right arm. Germany yields shrines at Niedaltdorf, Bitburg, and Wiesbaden. France yields Metz, Luxeuil, and Corseul in Brittany. Writers hold her identical with the goddess called Divona and Dirona elsewhere. Her cult was pushed aside by Borvo across much of the Celtic world.
 
 :::
 ```
 ``` tab [group1:Attributes]
-- **Sirona**: Connected with the Celtic Apollo
-- **Sirona**: Frequently depicted with Serpents and Eggs
-- **Sirona**: Connection both to rebirth and to Fertility
+- **Sirona**: Continental Celtic healing goddess
+- **Sirona**: depicted with a serpent and an egg
+- **Apollo**: Celtic god with whom Sirona was often linked
+- **Matronae**: mother-goddesses set beside Sirona
+- **Sirona**: her name has been read as divine star
+- **Sirona**: goddess of healing springs with a cult from Hungary to Brittany
+- **Sirona**: shown seated beside Apollo Grannus with a dog in her lap
+- **Sirona**: carries three eggs and a snake coils about her arm
+- **Sirona**: the Treveri shrine at Hochscheid yielded many objects of her worship
+- **Sirona**: held identical with Divona and Dirona elsewhere
+- **Sirona**: her cult was displaced by Borvo across much of the Celtic world
 ```
 ``` tab [group1:Entities]
-- **Sirona**: Continental Celtic goddess
-- **Dirona**: Possibly Tsirona
-- **France**: Location
-- **Healing goddess**: Title
-- **star**: Translation of Sirona's name
-- **Celtic Apollo**: Deity
-- **Serpents**: Symbol
-- **Eggs**: Symbol
-- **Rebirth**: Concept
-- **Fertility**: Concept
+- **Sirona**: Goddess
+- **Dirona**: Name
+- **Apollo**: God
+- **Hochscheid**: Place
+- **Matronae**: Group
+- **Apollo Grannus**: God
+- **Borvo**: God
+- **Divona**: Goddess
+- **Dirona**: Goddess
+- **Treveri**: Group
 ```
 ``` tab [group1:Sources]
 - Green, Miranda. Symbol and Image in Celtic Religious Art. London: Routledge, 1989, 43.
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
+- MacKillop 2008, s.v. 'Sirona'
 ```
 ![Sirona Image](https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Autel_%C3%A0_Sirona_-_Mus%C3%A9e_d%27Aquitaine_-_60.1.19.JPG/1200px-Autel_%C3%A0_Sirona_-_Mus%C3%A9e_d%27Aquitaine_-_60.1.19.JPG)

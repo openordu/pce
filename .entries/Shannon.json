@@ -1,0 +1,68 @@
+{
+  "name": "Shannon",
+  "text": "Shannon is the principal river of Ireland, printed with the modern Irish name An tSionna. It runs 224 miles toward the south-west and reaches the Atlantic. Its water rises at a spring beneath Cuilcach Mountain in County Cavan. Over its final seventy miles the river widens into a broad estuary. It forms Lough Ree between Roscommon, Longford, and Westmeath. Above Killaloe it swells into Lough Derg between Clare, Galway, and Tipperary. Through much of its course the Shannon marks the border between Connacht and the eastern provinces. Leinster and Munster lie to its east and south. So the river's name implies a border across much of Irish literature. The dictionary observes that this great river drew less myth than the Boyne did. The river's goddess, Sinann, links to Boand of the Boyne through the Well of Segais. Stories from oral tradition say the water formed when a dragon-like oilliphéist fled from St Patrick. The Fenian tale Bruidhean Chaorthainn sets Midach's hostel of the quicken trees upon the river. Its principal ford is Athlone, the ford of Luan. Below the estuary lies submerged Shannon City, seen above water every seven years. Whoever sees it will die. In Manx the river is Yn Çhannon. Padraic O'Farrell gathered the river's literature into a Dublin book of 1983.",
+  "entities": [
+    {
+      "entity": "Shannon",
+      "type": "Place"
+    },
+    {
+      "entity": "Sinann",
+      "type": "Person"
+    },
+    {
+      "entity": "Boand",
+      "type": "Person"
+    },
+    {
+      "entity": "Athlone",
+      "type": "Place"
+    },
+    {
+      "entity": "Lough Derg",
+      "type": "Place"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Shannon",
+      "attribute": "principal river of Ireland, 224 miles, modern Irish An tSionna"
+    },
+    {
+      "entity": "Shannon",
+      "attribute": "rises under Cuilcach Mountain, County Cavan, ends in a broad estuary"
+    },
+    {
+      "entity": "Shannon",
+      "attribute": "border river between Connacht and Leinster/Munster, a border image in literature"
+    },
+    {
+      "entity": "Shannon",
+      "attribute": "goddess Sinann linked to Boand through the Well of Segais"
+    },
+    {
+      "entity": "Shannon",
+      "attribute": "formed, oral tradition says, by an oilliphéist fleeing St Patrick"
+    },
+    {
+      "entity": "Shannon",
+      "attribute": "principal ford Athlone, the ford of Luan"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Shannon'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Shannon is the principal river of Ireland, printed with the modern Irish name An tSionna",
+    "key_results": [
+      "principal Irish river, 224 miles from Cuilcach spring to the Atlantic",
+      "border name across Irish literature, less mythologized than the Boyne",
+      "goddess Sinann tied to Boand through the Well of Segais",
+      "submerged Shannon City rises every seven years, deadly to see"
+    ],
+    "evidence": "MacKillop 2008, s.v. Shannon."
+  }
+}

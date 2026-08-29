@@ -1,0 +1,46 @@
+{
+  "name": "Ulidian",
+  "text": "Ulidian is the adjectival form of the names Ulaid and Ulster. The dictionary prints the head as a single line. The record of the people sits under the Ulaid node. The record of the province sits under the Ulster node. The Ulidian capital at Emain Macha anchors both records.",
+  "entities": [
+    {
+      "entity": "Ulidian",
+      "type": "Role"
+    },
+    {
+      "entity": "Ulaid",
+      "type": "Group"
+    },
+    {
+      "entity": "Ulster",
+      "type": "Place"
+    },
+    {
+      "entity": "Emain Macha",
+      "type": "Place"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Ulidian",
+      "attribute": "adjectival form of Ulaid and Ulster"
+    },
+    {
+      "entity": "Ulidian",
+      "attribute": "cross-reference to the Ulaid and Ulster records"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Ulidian'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Ulidian is the adjectival form of the names Ulaid and Ulster",
+    "key_results": [
+      "adjective of the Ulaid people",
+      "signpost to the Ulaid and Ulster records"
+    ],
+    "evidence": "MacKillop 2008, s.v. Ulidian."
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "name": "Riothamus",
+  "text": "Riothamus is a Romanized name. Several shadowy figures of fifth-century Britain carry it. The scholar Geoffrey Ashe proposed that two chronicle citations of the name could match the historical Arthur. Twelve thousand emigrants left Britain for Brittany under one Riothamus. Domnonia, a Breton petty kingdom, also had a ruler of that name. No chronicle gives any of them a clear biography, and the identifications stay debated. Ashe set out the case in an essay on Arthur's historical origins. The essay appeared in a 1988 Odense collection on the legend's vitality. The name remains a loose thread between British and Breton history.",
+  "entities": [
+    {
+      "entity": "Riothamus",
+      "type": "Person"
+    },
+    {
+      "entity": "Arthur",
+      "type": "Person"
+    },
+    {
+      "entity": "Domnonia",
+      "type": "Place"
+    },
+    {
+      "entity": "Brittany",
+      "type": "Place"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Riothamus",
+      "attribute": "Romanized name of several shadowy 5th-century figures"
+    },
+    {
+      "entity": "Riothamus",
+      "attribute": "Geoffrey Ashe linked two chronicle citations to Arthur"
+    },
+    {
+      "entity": "Riothamus",
+      "attribute": "led 12,000 emigrants from Britain to Brittany"
+    },
+    {
+      "entity": "Riothamus",
+      "attribute": "also a ruler of the Breton petty kingdom of Domnonia"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Riothamus'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Riothamus is a Romanized name",
+    "key_results": [
+      "name of several shadowy fifth-century British figures",
+      "Ashe's case for one citation matching the historical Arthur",
+      "led 12,000 emigrants from Britain to Brittany"
+    ],
+    "evidence": "MacKillop 2008, s.v. Riothamus."
+  }
+}

@@ -1,75 +1,112 @@
 {
-  "name": "Rhonabwy",
-  "attributes": [
-    {
-      "entity": "Breuddwyd Rhonabwy",
-      "attribute": "a Middle Welsh prose tale about a dream"
-    },
-    {
-      "entity": "Breuddwyd Rhonabwy",
-      "attribute": "tells the dream of a hero on an old hide"
-    },
-    {
-      "entity": "Breuddwyd Rhonabwy",
-      "attribute": "is framed around a game of gwyddbwyll between Arthur and Owain"
-    },
-    {
-      "entity": "Breuddwyd Rhonabwy",
-      "attribute": "is held to be play of little plot and no true end"
-    },
-    {
-      "entity": "Rhonabwy",
-      "attribute": "dreams in the reign of Madog of Powys"
-    }
-  ],
-  "entities": [
-    {
-      "entity": "Rhonabwy",
-      "type": "hero"
-    },
-    {
-      "entity": "Breuddwyd Rhonabwy",
-      "type": "work"
-    },
-    {
-      "entity": "Arthur",
-      "type": "king"
-    },
-    {
-      "entity": "Owain ab Urien",
-      "type": "hero"
-    },
-    {
-      "entity": "Madog ap Maredudd",
-      "type": "king"
-    },
-    {
-      "entity": "gwyddbwyll",
-      "type": "game"
-    },
-    {
-      "entity": "Powys",
-      "type": "place"
-    }
-  ],
-  "sources": [
-    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.",
-    "Koch 2006, s.v. 'Breuddwyd Rhonabwy'"
-  ],
-  "image": [
-    "https://upload.wikimedia.org/wikipedia/commons/2/25/Jesus-College-MS-111_00268_134v_%28cropped%29_Breuddwyd_Rhonabwy.jpg"
-  ],
-  "cyphertext": "L5UAe0_UdlDzJmVLtYsCSA0bfnpUfbtHtdolOA6PUc2_awWiUNeHH50zHI7Eh2ygfU9U3cv9E2oMM38i54kmwdKcIz3n1EZB7y8y_FSXeq75FM89MeJPqrn3PNofLs3HV7JRPhGOHfwCnTJTqXRB-URcuQopeJ59df2U_Efqej7L7YysdTe3dY4agQ11GHm1cmSNk75W519hEMbF5AbsKRjCACcqkg8AyxqAuJllkAo=",
-  "salt": "6iOsRFNUlQAvX-kEW1e2LQ==",
-  "text": "The Dream of Rhonabwy, Breuddwyd Rhonabwy, is a Middle Welsh prose tale. It turns on a dream of a hero of Powys. In the tale, the men of the district find their chief sending them to catch two runaways. They ride through a wet and hostile country and at last lodge in a strange hall. Exhausted, Rhonabwy sleeps on an ox hide. In his dream he is at the court of King Arthur among the heroes of the older age. The picture is built like a frame, and fixed in it is a game. Arthur and the great warrior Owain ab Urien sit at a board game, a gwyddbwyll. They play move by move, and their talk fills the long dream. Around them the whole heroic court moves: warriors, horses, and all the fittings of the old world. Modern readers do not treat the tale as a true story. It has no real plot, a narration that will not move, and no clear end. Scholars call it a game and a satire on the older heroic style. Scholars call it a fine and empty piece of the storyteller's craft. The date of the work is argued. The frame belongs to the years of Madog, son of Maredudd, who ruled the land of Powys in 1130 to 1160. Many therefore place the tale in that time. Others look to a later age, and the poet Madog Dwygraig, of about 1370 to 1380, already names the dream of Rhonabwy, which gives a firm upper limit. Wherever the date, the tale stands with the Arthurian noble and holds in it a full and lively portrait of a royal court.",
-  "okr": {
-    "objective": "Rhonabwy is the dreamer-hero of a Middle Welsh tale set in the court of Arthur.",
-    "key_results": [
-      "In the tale Rhonabwy sleeps on an old hide and dreams of Arthur.",
-      "The dream is held together by a game of chess between Arthur and Owain.",
-      "The frame speaks of the rule of Madog of Powys.",
-      "Scholars take the work for a game and a satire, not a story."
-    ],
-    "evidence": "Koch 2006, s.v. 'Breuddwyd Rhonabwy'."
+ "name": "Rhonabwy",
+ "attributes": [
+  {
+   "entity": "Breuddwyd Rhonabwy",
+   "attribute": "a Middle Welsh prose tale about a dream"
+  },
+  {
+   "entity": "Breuddwyd Rhonabwy",
+   "attribute": "tells the dream of a hero on an old hide"
+  },
+  {
+   "entity": "Breuddwyd Rhonabwy",
+   "attribute": "is framed around a game of gwyddbwyll between Arthur and Owain"
+  },
+  {
+   "entity": "Breuddwyd Rhonabwy",
+   "attribute": "is held to be play of little plot and no true end"
+  },
+  {
+   "entity": "Rhonabwy",
+   "attribute": "dreams in the reign of Madog of Powys"
+  },
+  {
+   "entity": "Rhonabwy",
+   "attribute": "its single surviving text stands in the Red Book of Hergest"
+  },
+  {
+   "entity": "Rhonabwy",
+   "attribute": "frames the dream in the squalid lodging of Heilyn Goch"
+  },
+  {
+   "entity": "Rhonabwy",
+   "attribute": "Iddawg the Embroiler provoked the Battle of Camlan by twisting messages"
+  },
+  {
+   "entity": "Rhonabwy",
+   "attribute": "the ravens of Owain slaughter the men of Arthur as the game runs"
+  },
+  {
+   "entity": "Rhonabwy",
+   "attribute": "shows the men of Arthur as giants beside puny contemporaries"
   }
+ ],
+ "entities": [
+  {
+   "entity": "Rhonabwy",
+   "type": "hero"
+  },
+  {
+   "entity": "Breuddwyd Rhonabwy",
+   "type": "work"
+  },
+  {
+   "entity": "Arthur",
+   "type": "king"
+  },
+  {
+   "entity": "Owain ab Urien",
+   "type": "hero"
+  },
+  {
+   "entity": "Madog ap Maredudd",
+   "type": "king"
+  },
+  {
+   "entity": "gwyddbwyll",
+   "type": "game"
+  },
+  {
+   "entity": "Powys",
+   "type": "place"
+  },
+  {
+   "entity": "Iddawg",
+   "type": "hero"
+  },
+  {
+   "entity": "Heilyn Goch",
+   "type": "hero"
+  },
+  {
+   "entity": "Medrawd",
+   "type": "king"
+  },
+  {
+   "entity": "Red Book of Hergest",
+   "type": "work"
+  }
+ ],
+ "sources": [
+  "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.",
+  "Koch 2006, s.v. 'Breuddwyd Rhonabwy'",
+  "MacKillop 2008, s.v. 'Breuddwyd Rhonabwy'"
+ ],
+ "image": [
+  "https://upload.wikimedia.org/wikipedia/commons/2/25/Jesus-College-MS-111_00268_134v_%28cropped%29_Breuddwyd_Rhonabwy.jpg"
+ ],
+ "cyphertext": "L5UAe0_UdlDzJmVLtYsCSA0bfnpUfbtHtdolOA6PUc2_awWiUNeHH50zHI7Eh2ygfU9U3cv9E2oMM38i54kmwdKcIz3n1EZB7y8y_FSXeq75FM89MeJPqrn3PNofLs3HV7JRPhGOHfwCnTJTqXRB-URcuQopeJ59df2U_Efqej7L7YysdTe3dY4agQ11GHm1cmSNk75W519hEMbF5AbsKRjCACcqkg8AyxqAuJllkAo=",
+ "salt": "6iOsRFNUlQAvX-kEW1e2LQ==",
+ "text": "The Dream of Rhonabwy, Breuddwyd Rhonabwy, is a Middle Welsh prose tale. It turns on a dream of a hero of Powys. The prince sends Rhonabwy and other warriors to catch his rebellious brother, who has gone raiding in England. They ride through wet country and lodge at night in the squalid hall of Heilyn Goch. The floors there are fouled with cow dung and urine. Exhausted, Rhonabwy sleeps on a yellow ox hide. In his dream he walks toward a ford of the Severn. Two richly dressed horsemen overtake him, and the first names himself Iddawg, called the Embroiler. Iddawg helped bring about the Battle of Camlan. He twisted the peaceful messages Arthur had sent to Medrawd. Guided by Iddawg, Rhonabwy finds Arthur with Bedwin the Bishop. The king sits enthroned on an island mid-river. Arthur calls the newcomers little fellows and mourns that such men now prevail in Britain. A stone in the ring of Arthur will let Rhonabwy remember all he has seen.\nThe dream then renders the whole army of Arthur in close detail. Enemies from Norway and Denmark await the army of Arthur. The king himself stays fixed at the gwyddbwyll board against Owain son of Urien. As the game runs, news arrives that the knights of Arthur are harrying the ravens of Owain. Arthur answers only with an order to play the game. Owain raises his banner, and his ravens begin to kill the men of Arthur. Then it is the turn of Owain to insist the board game continue. In the end Arthur asks Owain to withdraw his birds, and peace returns. Men bring tribute to the king, and Rhonabwy wakes to learn he has slept three nights.\nScholars date the work with care. The frame belongs to the reign of Madog, son of Maredudd, who ruled Powys and died in 1159. Others set it later. The poet Madog Dwygraig already names the dream around 1370 to 1380. That naming sets a firm upper limit. The single surviving text stands in the Red Book of Hergest. It stands as the final tale told in the wholly native Middle Welsh line. It also reads as the most self-aware literary work of that company. Modern readers do not treat it as a true story. It has little plot, a narration that will not move, and no clear end. Scholars read it as a satire on the older heroic style and a fine piece of craft. Wherever the date, the tale holds a full and lively portrait of a royal court.",
+ "okr": {
+  "objective": "Tell the dream of Rhonabwy and the gwyddbwyll game that holds the court of Arthur.",
+  "key_results": [
+   "Tell the frame: the squalid lodging of Heilyn Goch and the sleep on a yellow ox hide",
+   "Name Iddawg the Embroiler and his part in the Battle of Camlan",
+   "Record the ravens of Owain and the order to play the game",
+   "Date the tale between Madog ap Maredudd and Madog Dwygraig and place its text in the Red Book"
+  ],
+  "evidence": "MacKillop 2008, s.v. 'Breuddwyd Rhonabwy'."
+ }
 }

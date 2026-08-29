@@ -1,0 +1,42 @@
+{
+  "name": "Táin",
+  "text": "Táin is the conventional opening word in the titles of a whole class of Old Irish stories. The word itself means a cattle raid. English readers often shorten the name of the great Cooley raid to The Tain. Other narratives carry titles built on the same opening word. The prefix marks the tale-type before any single raid is named. The class sits beside other title-prefix words in this dictionary.",
+  "entities": [
+    {
+      "entity": "Táin",
+      "type": "Text"
+    },
+    {
+      "entity": "Táin Bó Cuailnge",
+      "type": "Text"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Táin",
+      "attribute": "conventional first word in a class of Old Irish titles"
+    },
+    {
+      "entity": "Táin",
+      "attribute": "Irish for a cattle raid"
+    },
+    {
+      "entity": "Táin",
+      "attribute": "prefix shared by several raid-tales beyond the Cooley epic"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Táin'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Táin is the conventional opening word in the titles of a whole class of Old Irish stories",
+    "key_results": [
+      "title-prefix word of the raid-tales",
+      "signpost class covering several Old Irish narratives"
+    ],
+    "evidence": "MacKillop 2008, s.v. Táin."
+  }
+}

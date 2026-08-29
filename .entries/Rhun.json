@@ -1,51 +1,67 @@
 {
-  "name": "Rhun",
-  "attributes": [
-    {
-      "entity": "Rhun",
-      "attribute": "hero in a tale of faithfulness"
-    },
-    {
-      "entity": "Elphin",
-      "attribute": "boasted of his wife's loyalty"
-    },
-    {
-      "entity": "Rhun",
-      "attribute": "drugged the queen and took her finger"
-    },
-    {
-      "entity": "Rhun",
-      "attribute": "lost a horse race to Elphin"
-    }
-  ],
-  "entities": [
-    {
-      "entity": "Rhun",
-      "type": "hero"
-    },
-    {
-      "entity": "Elphin",
-      "type": "character"
-    },
-    {
-      "entity": "Taliesin",
-      "type": "character"
-    }
-  ],
-  "sources": [
-    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-  ],
-  "cyphertext": "WrMJ1WSW4a2xuZJKZSL0nfd3JFWXmJ2VRsjrC1mUZbHCH4M0YopowSm5jvLQMkHmqLIv6rBLa87rlNGDa7XJQDehEp9EORvLee_OyGMYjGY22KRkyAoK09VrlhSERr13-ISVwE5-Cwse7bKDbxAY2v2o_J0YUkRxs89CpHuB9Wny5myZgMMb2lwyIpkGchHjt8VQ0fUMwPUHuJ9Si9HWu88kJ0DjWFF30lsf8PF3KTb_5EtO0uccFA1UAUEKePtbLt220_lgPEYLNM7Tjqg6fPdxQaDFaiplV46qdajW7SFwztfWiFe9SBYwlm1tQ_XxhTuIZsA33f6eqv-BEaNpk25PVSs3AubIqPYdyac3v_DeWfkZwRT9NdZKQeshW-Oi7zvljuaPNZvtz7rfRBH2vURVCfwmZYEh9fHlCeHfPVzP6r1mYdzVKdj-3_PySWSIghxVyIHqZHgdDEhExmFg9A4Phq8b7MVTtzpxVHLuHr3hINYy_puobbtTGIQUIsw9EljvV1FP5wdxKpfuHXhYYF6alSKYHT1miaR2VCfdsk8qF6GghiGFoDttO68b5gO0x8ctf8r44u7nJwOwzwZ0nIbmG9DEWC7Les99VW3JebqgiYcV6E6K044AfwUygPm0jivhoqwZdQ2KtKOVEOZb1P1hVQFiaifZ0fr29MNZwQ-zMg2VS5lzxenq72ElbhCny-aAufBCwxyREl3xbsF4FWKCNwt-A1Tqqrj-J4q-cMLijK-Wl0JGBX3RR5IwtVKrDwAUL1kDmNIRwZHImZDSwd2U46yTzhAYlxrnIoctioKhpFaF5Q4WNhNDw-Wsdj9GMVTjxWPZMx-vEENrHrKoF4-YSwrAbyLwi6kmNktPNz064AZdZPr2w_MfNE-IeCPlYhwMhP6XGi0aNav0Mds7D0_1oog_Sx7a-RKqq8PwYuvLVBivGBczbch_HF9jy7iFvm3uSQPZIFkdxxxQuo7Qd3a9h7_Y0Uu0w_BkNbuNR4ShtovhZXTVzV0zOJfxoxoQ7Bytju8K5hlSSXkzTspsQ1W4mAD6Ixggqah_rwLct6hs",
-  "salt": "mP-76E7EG9KjLH3qzyD9kg==",
-  "text": "Rhun is a Welsh hero. His name appears in a story of faithfulness and betrayal. King Elphin boasted that his own wife was more loyal than the wife of Rhun. Rhun went to Elphin and tried to charm the queen, but she refused him. He then drugged her and cut her ring finger. He carried the finger to Elphin, but the queen and her maidservant had changed places. Dough under the fingernail gave the truth away. Rhun later bet on whose horse was faster, and the bard Taliesin helped Elphin win the race.",
-  "okr": {
-    "objective": "Rhun is a Welsh hero who questioned honour.",
-    "key_results": [
-      "Rhun is a Welsh hero.",
-      "He came to Elphin to test a woman.",
-      "A trick proved whose wife was loyal.",
-      "Taliesin helped Elphin win the race."
-    ],
-    "evidence": "Monaghan, Encyclopedia of Celtic Mythology and Folklore"
+ "name": "Rhun",
+ "attributes": [
+  {
+   "entity": "Rhun",
+   "attribute": "hero in a tale of faithfulness"
+  },
+  {
+   "entity": "Elphin",
+   "attribute": "boasted of his wife's loyalty"
+  },
+  {
+   "entity": "Rhun",
+   "attribute": "drugged the queen and took her finger"
+  },
+  {
+   "entity": "Rhun",
+   "attribute": "lost a horse race to Elphin"
+  },
+  {
+   "entity": "Rhun",
+   "attribute": "his name means grand or awful"
+  },
+  {
+   "entity": "Rhun",
+   "attribute": "the name was borne by dozens of figures from early Wales"
+  },
+  {
+   "entity": "Rhun",
+   "attribute": "the best known was a son of Maelgwn"
   }
+ ],
+ "entities": [
+  {
+   "entity": "Rhun",
+   "type": "hero"
+  },
+  {
+   "entity": "Elphin",
+   "type": "character"
+  },
+  {
+   "entity": "Taliesin",
+   "type": "character"
+  },
+  {
+   "entity": "Maelgwn",
+   "type": "character"
+  }
+ ],
+ "sources": [
+  "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.",
+  "MacKillop 2008, s.v. 'Rhun'"
+ ],
+ "cyphertext": "WrMJ1WSW4a2xuZJKZSL0nfd3JFWXmJ2VRsjrC1mUZbHCH4M0YopowSm5jvLQMkHmqLIv6rBLa87rlNGDa7XJQDehEp9EORvLee_OyGMYjGY22KRkyAoK09VrlhSERr13-ISVwE5-Cwse7bKDbxAY2v2o_J0YUkRxs89CpHuB9Wny5myZgMMb2lwyIpkGchHjt8VQ0fUMwPUHuJ9Si9HWu88kJ0DjWFF30lsf8PF3KTb_5EtO0uccFA1UAUEKePtbLt220_lgPEYLNM7Tjqg6fPdxQaDFaiplV46qdajW7SFwztfWiFe9SBYwlm1tQ_XxhTuIZsA33f6eqv-BEaNpk25PVSs3AubIqPYdyac3v_DeWfkZwRT9NdZKQeshW-Oi7zvljuaPNZvtz7rfRBH2vURVCfwmZYEh9fHlCeHfPVzP6r1mYdzVKdj-3_PySWSIghxVyIHqZHgdDEhExmFg9A4Phq8b7MVTtzpxVHLuHr3hINYy_puobbtTGIQUIsw9EljvV1FP5wdxKpfuHXhYYF6alSKYHT1miaR2VCfdsk8qF6GghiGFoDttO68b5gO0x8ctf8r44u7nJwOwzwZ0nIbmG9DEWC7Les99VW3JebqgiYcV6E6K044AfwUygPm0jivhoqwZdQ2KtKOVEOZb1P1hVQFiaifZ0fr29MNZwQ-zMg2VS5lzxenq72ElbhCny-aAufBCwxyREl3xbsF4FWKCNwt-A1Tqqrj-J4q-cMLijK-Wl0JGBX3RR5IwtVKrDwAUL1kDmNIRwZHImZDSwd2U46yTzhAYlxrnIoctioKhpFaF5Q4WNhNDw-Wsdj9GMVTjxWPZMx-vEENrHrKoF4-YSwrAbyLwi6kmNktPNz064AZdZPr2w_MfNE-IeCPlYhwMhP6XGi0aNav0Mds7D0_1oog_Sx7a-RKqq8PwYuvLVBivGBczbch_HF9jy7iFvm3uSQPZIFkdxxxQuo7Qd3a9h7_Y0Uu0w_BkNbuNR4ShtovhZXTVzV0zOJfxoxoQ7Bytju8K5hlSSXkzTspsQ1W4mAD6Ixggqah_rwLct6hs",
+ "salt": "mP-76E7EG9KjLH3qzyD9kg==",
+ "text": "Rhun is a Welsh hero. His name comes from a Welsh word that means grand or awful. Many dozens of men in early Wales bore it over the centuries. The best known is the son of Maelgwn, and his story is one of faithfulness and betrayal. King Elphin boasted that his own wife was more loyal than the wife of Rhun. Rhun came to Elphin and tried to charm the queen, but she refused him. He then drugged her and cut her ring finger. He carried the finger to Elphin as proof, but the queen and her maidservant had changed places. Dough under the fingernail gave the truth away. Rhun later bet on whose horse was faster, and the bard Taliesin helped Elphin win the race.",
+ "okr": {
+  "objective": "Rhun is a Welsh hero whose name many early figures carried.",
+  "key_results": [
+   "Read his name as grand or awful and count its many bearers",
+   "Tell the test of loyalty against the wife of Elphin and the proof of the finger",
+   "Record the horse race won for Elphin by Taliesin"
+  ],
+  "evidence": "MacKillop 2008, s.v. 'Rhun'."
+ }
 }

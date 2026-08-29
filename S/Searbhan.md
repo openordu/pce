@@ -2,54 +2,65 @@
 layout: layouts/pce.njk
 title: Searbhan
 icon: file-lines
-order: 1984
+order: 2300
 contributors: [ 'Christopher Godwin' ]
 attributes:
-  - Searbhan Giant
-  - Searbhan magician
-  - Gráinne craved magical fruit
-  - Rowan tree magical
-  - Diarmait killed Searbhan
-  - Fionn Mac Cumhaill pursuing Gráinne and Diarmait
+  - Searbhan a giant and magician, also called Sharvon the Surly
+  - Searbhan hid Gráinne and Diarmait in his magical rowan tree
+  - Searbhan killed by Diarmait over the tree's berries
+  - rowan tree magical tree whose berries Gráinne craved
+  - Searbhan guards the magical rowanberries of the forest of Dubros in County Sligo
+  - Searbhan beaten only when Diarmait turned the giant's own club against him
+  - Searbhan epithet Lochlonnach, the Norseman, in some texts
+  - Searbhan counted among the Fomorians in others
 categories:
-  - Irish hero
-  - magical
-  - pursuer
-  - escaping lover
+  - Place
+  - Artifact
+  - Group
+  - Person
 entities:
-  - Searbhan(Irish hero)
-  - Gráinne(escaping lover)
-  - Diarmait(escaping lover)
-  - Rowan tree(magical)
-  - Fionn Mac Cumhaill(pursuer)
+  - Searbhan(Person)
+  - Gráinne(Person)
+  - Diarmait(Person)
+  - Fionn mac Cumhaill(Person)
+  - rowan tree(Artifact)
+  - Dubros(Place)
+  - Fomorians(Group)
 tags:
   - Searbhan
   - Gráinne
   - Diarmait
-  - Rowan tree
-  - Fionn Mac Cumhaill
+  - Fionn mac Cumhaill
+  - rowan tree
+  - Dubros
+  - Fomorians
 ---
 ``` tab [group1:Info]
 ::: magazinestyle
-Irish hero Searbhan, also known as Sharvon the Surly, Sharvan, and Searban, assisted the lovers Gráinne and Diarmait in their escape. He was a giant and magician who allowed them to take refuge in his Rowan tree. Despite being warned by Searbhan not to consume the mystical berries, Gráinne was still tempted and requested Diarmait to acquire them for her. In order to do so, Diarmait killed Searbhan. Unfortunately, this caused the giant to scream in agony, revealing their whereabouts to Fionn Mac Cumhaill, who was pursuing them.
+Searbhan is the surly ogre of the pursuit tale of Diarmait and Gráinne. MacKillop spells the name Searbhán, Searban, Searbhan, and Sharvan. He guards the magical rowanberries that grow in the forest of Dubros in County Sligo. He was a giant and a magician of great skill. Monaghan's account gives him a softer role. In it he shelters the fleeing lovers inside his magical rowan tree. He warns them not to eat its berries. Gráinne still craved the fruit. No weapon could beat him until Diarmait turned the giant's own club against him. That blow killed Searbhan. His dying screams exposed the couple's hiding place to Fionn mac Cumhaill, who was chasing them. Some texts give him the epithet Lochlonnach, which means Norseman. Others count him among the Fomorians.
 
 :::
 ```
 ``` tab [group1:Attributes]
-- **Searbhan**: Giant
-- **Searbhan**: magician
-- **Gráinne**: craved magical fruit
-- **Rowan tree**: magical
-- **Diarmait**: killed Searbhan
-- **Fionn Mac Cumhaill**: pursuing Gráinne and Diarmait
+- **Searbhan**: a giant and magician, also called Sharvon the Surly
+- **Searbhan**: hid Gráinne and Diarmait in his magical rowan tree
+- **Searbhan**: killed by Diarmait over the tree's berries
+- **rowan tree**: magical tree whose berries Gráinne craved
+- **Searbhan**: guards the magical rowanberries of the forest of Dubros in County Sligo
+- **Searbhan**: beaten only when Diarmait turned the giant's own club against him
+- **Searbhan**: epithet Lochlonnach, the Norseman, in some texts
+- **Searbhan**: counted among the Fomorians in others
 ```
 ``` tab [group1:Entities]
-- **Searbhan**: Irish hero
-- **Gráinne**: escaping lover
-- **Diarmait**: escaping lover
-- **Rowan tree**: magical
-- **Fionn Mac Cumhaill**: pursuer
+- **Searbhan**: Person
+- **Gráinne**: Person
+- **Diarmait**: Person
+- **Fionn mac Cumhaill**: Person
+- **rowan tree**: Artifact
+- **Dubros**: Place
+- **Fomorians**: Group
 ```
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
+- MacKillop 2008, s.v. 'Searbhán'
 ```

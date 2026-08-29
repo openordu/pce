@@ -1,0 +1,42 @@
+{
+  "name": "Uist",
+  "text": "Uist is the shared name of two large islands of the Outer Hebrides. The Gaelic form is uibhisi. North Uist, Uibhist a Tuath, covers 118 square miles. South Uist, Uibhist a Deas, covers 141 square miles. Scottish Gaelic still sounded on the two islands late in the twentieth century. Both islands carry a wealth of archaeological sites. Their remains compare with the celebrated Callanish stones of the Isle of Lewis. Storytelling pooled more deeply in the Roman Catholic south than in the Protestant north. MacLellan's South Uist stories, told in Gaelic and translated by Campbell, appeared in London in 1961. Thompson printed a survey of the Uists and Barra in 1974.",
+  "entities": [
+    {
+      "entity": "Uist",
+      "type": "Place"
+    },
+    {
+      "entity": "Callanish",
+      "type": "location"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Uist",
+      "attribute": "pair of Outer Hebrides islands, North Uist 118 and South Uist 141 square miles"
+    },
+    {
+      "entity": "Uist",
+      "attribute": "Gaelic speech continued there into the late twentieth century"
+    },
+    {
+      "entity": "Uist",
+      "attribute": "sites compared with Callanish; South Uist the richer storytelling reservoir"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Uist'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Uist is the shared name of two large islands of the Outer Hebrides",
+    "key_results": [
+      "twin islands of the Outer Hebrides",
+      "Gaelic storytelling reservoir of the south"
+    ],
+    "evidence": "MacKillop 2008, s.v. Uist."
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "name": "Pumlumon",
+  "text": "Pumlumon is a mountain of central Wales, 10 miles west of Llanidloes, rising 2,468 feet. Its Welsh elements are pum, five, and lumon, whose sense covers peaks or beacons. Springs on the mountain give rise to the Severn and the Wye. Tradition treats Pumlumon as the central point of Wales, an omphalos. Readers set it beside Uisnech in Ireland and beside Kermaria in Brittany. Thomas Gray and other eighteenth-century Celtic revivalists preferred the Plinlimmon spelling.",
+  "entities": [
+    {
+      "entity": "Pumlumon",
+      "type": "Place"
+    },
+    {
+      "entity": "Uisnech",
+      "type": "Place"
+    },
+    {
+      "entity": "Kermaria",
+      "type": "Place"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Pumlumon",
+      "attribute": "mountain (2,468 feet) in central Wales, 10 miles west of Llanidloes"
+    },
+    {
+      "entity": "Pumlumon",
+      "attribute": "springs feed the sources of the Severn and the Wye"
+    },
+    {
+      "entity": "Pumlumon",
+      "attribute": "treated as the omphalos of Wales"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Pumlumon'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Pumlumon is a mountain of central Wales, 10 miles west of Llanidloes, rising 2,468 feet",
+    "key_results": [
+      "mountain rising 2,468 feet in central Wales",
+      "its springs supply the sources of the Severn and the Wye",
+      "perceived as the central point of Wales, comparable to Uisnech and Kermaria"
+    ],
+    "evidence": "MacKillop 2008, s.v. Pumlumon."
+  }
+}

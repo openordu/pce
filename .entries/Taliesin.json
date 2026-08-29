@@ -1,91 +1,216 @@
 {
-  "name": "Taliesin",
-  "attributes": [
-    {
-      "entity": "Taliesin",
-      "attribute": "a sixth century Welsh bard first known as the servant Gwion"
-    },
-    {
-      "entity": "Taliesin",
-      "attribute": "grew to be the wisest poet in the land"
-    },
-    {
-      "entity": "Hanes Taliesin",
-      "attribute": "a tale of folk memory and invention about the bard as a wonder-child"
-    },
-    {
-      "entity": "Book of Taliesin",
-      "attribute": "the old codex that keeps his verses"
-    },
-    {
-      "entity": "Bedd Taliesin",
-      "attribute": "whoever sleeps there wakes a poet or a broken mind"
-    }
-  ],
-  "entities": [
-    {
-      "entity": "Taliesin",
-      "type": "Person"
-    },
-    {
-      "entity": "Gwion",
-      "type": "Person"
-    },
-    {
-      "entity": "Ceridwen",
-      "type": "Deity"
-    },
-    {
-      "entity": "Afagdu",
-      "type": "Person"
-    },
-    {
-      "entity": "Elffin",
-      "type": "Person"
-    },
-    {
-      "entity": "Book of Taliesin",
-      "type": "Artifact"
-    },
-    {
-      "entity": "Hanes Taliesin",
-      "type": "Work"
-    },
-    {
-      "entity": "Bedd Taliesin",
-      "type": "Place"
-    },
-    {
-      "entity": "Dyfed",
-      "type": "Place"
-    },
-    {
-      "entity": "Otherworld",
-      "type": "Place"
-    }
-  ],
-  "sources": [
-    "Bord, Janet, and Colin Bord. The Secret Country: An interpretation of the folklore of ancient sites in the British Isles. (New York: Walker and Co., 1976), 59.",
-    "Jackson, Kenneth, et al. Celt and Saxon: Studies in the Early British Border. (Cambridge: University Press, 1963), 29.",
-    "Nash, D. W. \"Taliesin in Song and Story.\" In John Matthews, A Celtic Reader: Selections from Celtic Legend, Scholarship and Story, 179 ff. Wellingborough: Aquarian Press, 1991.",
-    "Matthews, John. Taliesin: Shamanism and the Bardic Mysteries in Britain and Ireland. London: Aquarian/Thorsons, 1991.",
-    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.",
-    "Koch 2006, s.v. 'Taliesin [2]'",
-    "MacKillop 2008, s.v. 'Hanes Taliesin'",
-    "MacKillop 2008, s.v. 'Book of Taliesin'."
-  ],
-  "cyphertext": "dGypNPafRrEpOEmIARoXbQYdG_SQml8NXfFUhWisn82US2iZChA_kNX6CWb8d89sB7N8FJU9x06VFw44bsIqJCYpA3Fza0WoFV8CAzhF2OgZ-VMVSbsGqIBI5fDi7tWCiThvWuubEaNCbluLKHAls-KdIx67CHcLfGdaDA6QIxaIWP8FpYRsfwT9tLv-kxOUvaw8sfB6twM6mJ42Q-5hKRBfgmst4opzn-7DcIggw91J_liKnefDtufa4Xxc-vc2MlVsJ_2lx3AHuTcdd0b7eoVxX8FEK7ykifZMw4LfiJA7lkyrnSiEdg5dx48DT0xrJxlPRptRIftUoVj5AAh3FvSCSKDGQPRaKzPGCavAYKRgebJSUIyhkEPoLBCd8fzPB3iRs83V8F1xzmEFv4Br0IFV64bKJAZFWTiFXUgA7bFgMHFPLp8Npj5Pupc9YBQG3A3tUV_N51wy6PdDFBmX8E6VMe34jmSJLwgGMvlhRpMhS1SF_UicRnln1NJS4_dqlPv87FxVQ5hwzcTAT03Wdn3d9364AcF9tmUiJkVwuVSRbf_HLT1X0rgsRl5c1qihcsEDY7T4tBT2JeGfbdQxzD-FQXo8f65-8KhRgWNh_gr8cDXtxg48pyZh-hDJbjlJUounCAqmLgd6PNXF4EXXcfvY0TEZLOrG8enBGl2_f6WTwq6JuVy-f_EgKTPrOr13wja5KPIf5qDiZWJKvR5M2vrw5rv73McKiPbdnlm0m2Bbnp4wa8XXqfbpdgpDPovcoIFH6AL2iyZLDz-nZ6BdbrJH7qdiHiRC4TAhMBZUk08iGiY0yFW_Z0VTTn2dpsmjdH_N_W_CHFIVbFPU1LPDX0we7CB7vJwW9ldvA0oLIVMFbDw1t7IbyysyWowtlBFNOKaWPJWvgjLHk-yk3WIc-Dr402Pp_qo0PZJoNYLd8CTvGMg7Mba4-oA0xfSVbVkZ6QRXJfFnQAAf-xNQd_Xligg4x1Vtu96ttROpjnB-cIa45t02OvkDyqWeOPVDZov0M1qsiQ0wjmbRKu6Tf-LxXjvRzFl9wVcAetG3Y-g1LioRVRSJeMucAmUc862Ye2GVfGjnSxp4ATzc5AMvkmf_Dtmijm7SMvkWbci5F4eZGc3-CAcZKkcu48yqsyArNBY0rUN9jI2AYM1ihFHaxOy_60aV8Vf7Nnk-xa70hSS8D0_oQ0Fb8EKvQGR-zN0jchwekQMngLpWUm98-H0UpwqpwobVYWGxC9E58bhQvV14-agvLK-jvroWXyZVsYsbcbJNyOL2cfzo1tDtvFCDomtxT5GdLiM6rkkWDfp6radxkdnvPrPBt5YxF5JZdd0oUJa6yu4BY8Mw7lxokxK5NANSDDP119lMnYNCBSiwZEnwQTgmYN89MMrm3JqjcGKIjt0MfVtY48YzlTVm10QYDOB6tGFXHAyX7nd4DlJ3zbY9ZEePq99EElo85Ywtx3frTwupuNladmmqgI3cIRoBWDRTXUmleFn81t50YRCqbc1k1ooiW0ubPe7wxVIIQQjK9SNncWCI997G2ivonAlUJqS9cHxHnNr3Z1esTYHgoEkgboivwCBJXRQxFQOX_PRklu4B4RkSMQ8eYaEpLhirqyZNYek4ERE32vQuCiZbI44C2ZGgWD_akaxcKXRvt9BG3BrXb2rHuZZ8z-e1wZbEmQDWxApyVorI6j_u2cggYmrHjCctAlwKnLl8Q_Owv1rPYJQUBu8J0NJACgE1eOdJEjZLYbcf3pO0S-3ku3dC-iDe-tk020V5jKPCcql6JxAWg9MTrSaCTTdKGJoJpkn_3wpwzx-PkQv2EYV8Op7IPoWp54z05ou-XwhdS8ELATCZ8RF8OCJkjpGAxPhs3Rgq1s4KiE4qdGkDuur4OAPP1zGwm6eAnFeezSFbyQ2TJmauxvjGclJa06-t_UUR5UtX2WtZ_C5H-y6xfYNn3J7l4pqMr6oI2mgM93DsKdMvVl6TVHce8fuZeeGO_6CIn2qhkRAQYqKtxMB72odtkeiRpAXyVd7bkTExvSWCJakI9LQh8HDIWDIitbhWEHl0cfno46AaBg7f8dQHaXwN5vsuMt94q2hjF-HMo9U_nSN5MR3sESCrf7ssC4LATmVuINNh0ZFC-c5CfuBngNvRwNgJGrvW3ZN3uyMAy-FVBQsmZq79sR55R5arfKWTonV0BF00CEQLv3rJz3wcaSNUkXvYVJ_7kGxfN8NzK0ouOG7oPGWPXI7Xl_xVYnXsd4Rje3Al9KusHo9YcR-gTqxImmvhxnyzyckkna_djFy0BXirA4eP_VKxIx77cN1AdbECkRPqSj3lSoTn-IUA9aocJPKBEjhxu5dqY0DN8RwPQGVYEHTXEVErg8o3yesRshCTvsmbjQ-7ZaKawnA1nbKoc_ockCs1R_ZcX21xIqY6oD0it7zKDesdn7jnqJFC_QAFIqcQ-Zoj3Yrq4BSb1nnuxPAc3VI9ZDcIcbnVcXF-G1Xu9xGbLh_AofAywRlLOoZDDci7koiAR1TiM7s3mf6-T8cfuqENF12xIlAiE49_3xEST9zG3aiQsjwPK-Urtj9YUvOqhXwV965I7sPaWG6ZD9zDY9R6CvzyEaqp8dFBXTkUC7qc0mcMUV8Azg51RyKy_zHyd69LVrDPqb3voOHhKSJGNfgyS-14aK_wYIjIQqKxbteCC9hs-T7IFvTOOOT9PoOIaBiTcqxKcgVZp-yfC_-MlBHPMaND6XY6EYgKj2wOMgcphaoyulVLjT2aBSuAbemcRENodmkmC8FlTJU5M6YmP4zxiOj8f41hGS1rqzQf5--1jFeFgMJLkCyr4iUfVlJHiiyGEt0qWak23Z_q-qw_s_DFtiQ-MH9Jm4qCdKoxrADvX1OpipJqVYGa0MxfjXM6H17QkWtdLBa1jIzjpJ7cvhSFmtQgqUyL7xjAUuqKuvLAgCaNdPTJOxBByKeIsBZYEYqME3Vb2CA23BGKhApsl2KtkCmFTIMIu_XdzjzteXz6Njpd4sjfuvmnn_L9MSwaWuig7aBtCyzYnSU6wwlgTTz18bwMEhnvq0FBiCBXSsfuzNyo26q7dycs1a6CItAJBYz3nDGzZQnehFDz5ZlRRQ3PUT-RQiJa6mHPPkqRvsjeHA1Jr6Q4CaETwhlaJgYmVCTS_U9HEL6E0j5tY9N4LmzDIcFQjdO0dtxPhah-_fStapvR06fgINPRmOEuTqAg9hsPyoRg15VwTNOsr8PGPAA56RwbrujEeUhUeEVZ6y96219FkptwOOBl4hwy-KASLMf0oVB7Dd5uyS5TijrD2FgcuEDRTIXkWtX3FSL9dKOgwWPJSLv6GbsRXyTzRDUdfGM29Lu_4uiGN9VkoKX7mLYjs4giWA15joodlU-vN-momcXbvZ4x_xXyMROq9PMjUcJQx4nd8WCMsfHwWS8Ha5Nn5HUTazen_Jbs2FXfZcn84ptvBCRv9vDPg5sByUzkYhQH2a_si-YE4s3_GWUMnD9v24Es_TRX9G-KYE7t6jBpgyE2rLJuJ--yf4VhcEkRZ-OJCXDu5raKUBp-4iz7RvcHmhSRtK5hJgB1ElxOvp9HtJHOnjvnYNsXBm46AvKGErzRry2nH8DI0pcCsU8GDu3TKBxDI3YbiEtd4hzzsN0KbAbzuJNeLgG76na44H2H0eVnlKL9XGfejg1LsifTqK4lxofOuiPI7EoY0VRt8tZEfU5I34YIHL1XOpDiGUoEsaClosrKIryQw6lAu7ewGGeuEJCfDheqSHMLD00a-bkGKM-yFxh95x9Z4z0ZCi69dTjIQpUw7AXCTKa3J79hNDtJdDcIaEppe3txDMJS-GLyNxzi23TMHqUPsYjxDFF-dHBSgmLKRkf33qNf_M6Q8CJ_n9NrIujSvZ3bbiWXCG3Rw9h9bIGvQuy-fjKaZU0omPBPzoWXKXYL5PZ9uO6NQFgVsNsRJqsFG3OjL-Ox8SuX6eaQodj5wJ3_Ef-UsGgh7tR5uSUek6ultzJ3T4ESHsJnt9JY7eqdwKJw6uY=",
-  "salt": "YUTDCNuZi4r1rm2TrsKfkg==",
-  "text": "Taliesin is the Welsh bard whose story gifts him a marvellous birth. As a boy he lives under the name Gwion and serves the sorceress Ceridwen. She boils a cauldron of inspiration meant for her own son, and one scalding drop falls on the lad. He licks his finger, and in that single taste he takes all the magic into himself. She tries to catch him, so the two flick from shape to shape, fish to otter and bird to hawk. His last form becomes a single seed, and she turns hen and eats it, so she carries him once more. The sea then offers him to a lord, who raises him and names him Taliesin, the bright brow. His fair words earn him a place at court, and the songs under his name keep an earthy fire about them. The old cairn of Dyfed is known as his bed, and any who sleeps there wakes either a poet or a mind undone.\n\nMacKillop sets the Hanes apart as a separate story of the same wonder-child. Unlike the old codex that gathers his verses, this piece belongs to folk memory and shaped literary craft. It tells how the youth wins his gift from a sip of a healing brew and then passes through the shapes before he is born anew. Scholars treat it as its own tale, not as part of the manuscript verse. It shares the figure but not the frame with the book of prophecy, so the two should not be run together.\n\nThe Book of Taliesin, called Llyfr Taliesin in Welsh, is the codex that gathers his verses. The manuscript was compiled about the year 1275. It holds more than sixty poems. Most are attributed to the sixth-century bard Taliesin. The scholar Ifor Williams judged about twelve of them to be truly his. The book also carries the Armes Prydain, the Prophecy of Britain, which some give to Myrddin. It includes Cad Goddeu, the tale of warring trees. The volume now rests in the National Library at Aberystwyth. Readers should set this book apart from the Hanes Taliesin, the wonder-tale of his birth.",
-  "okr": {
-    "objective": "Carry the Taliesin rebirth story and set the wonder-tale apart from the verse codex.",
-    "key_results": [
-      "His start as the servant Gwion who tastes the brew of inspiration",
-      "His fall into the seed, the rebirth, and the name of bright brow",
-      "The book and the cairn of the sleeping poet",
-      "The Hanes as a folk story set against the manuscript verse",
-      "set the Book of Taliesin apart from the Hanes wonder-tale"
-    ],
-    "evidence": "MacKillop 2008, s.v. 'Hanes Taliesin'"
+ "name": "Taliesin",
+ "attributes": [
+  {
+   "entity": "Taliesin",
+   "attribute": "a sixth century Welsh bard first known as the servant Gwion"
+  },
+  {
+   "entity": "Taliesin",
+   "attribute": "grew to be the wisest poet in the land"
+  },
+  {
+   "entity": "Hanes Taliesin",
+   "attribute": "a tale of folk memory and invention about the bard as a wonder-child"
+  },
+  {
+   "entity": "Book of Taliesin",
+   "attribute": "the old codex that keeps his verses"
+  },
+  {
+   "entity": "Bedd Taliesin",
+   "attribute": "whoever sleeps there wakes a poet or a broken mind"
+  },
+  {
+   "entity": "Taliesin",
+   "attribute": "his name joins Welsh tal, brow, with iesint, radiant"
+  },
+  {
+   "entity": "Taliesin",
+   "attribute": "classed with Aneirin among the two surviving cynfeirdd, the oldest poets"
+  },
+  {
+   "entity": "Taliesin",
+   "attribute": "Ifor Williams ascribed twelve poems of the Book of Taliesin to the historical bard"
+  },
+  {
+   "entity": "Taliesin",
+   "attribute": "the older life praises Urien and Owain against the Angles about 550 to 600"
+  },
+  {
+   "entity": "Taliesin",
+   "attribute": "the Hanes Taliesin was compiled by Llywelyn Siôn and spread by Lady Charlotte Guest"
+  },
+  {
+   "entity": "Taliesin",
+   "attribute": "Ceridwen brewed the cauldron Amen for her son Morfran, called Afagddu"
+  },
+  {
+   "entity": "Taliesin",
+   "attribute": "the child was found at Gwyddno Garanhir's weir by Elffin on Calan Mai"
+  },
+  {
+   "entity": "Taliesin",
+   "attribute": "overcame Maelgwn's poets at Degannwy and freed Elffin by his song"
+  },
+  {
+   "entity": "Taliesin",
+   "attribute": "defeated Rhun's virtue-test by substituting a female servant"
+  },
+  {
+   "entity": "Taliesin",
+   "attribute": "one of seven to escape Ireland in the second branch of the Mabinogi"
+  },
+  {
+   "entity": "Taliesin",
+   "attribute": "prophetic poems of the eleventh to thirteenth centuries were ascribed to him"
+  },
+  {
+   "entity": "Taliesin",
+   "attribute": "Thomas Love Peacock, Charles Williams, and Frank Lloyd Wright carried his fame"
+  },
+  {
+   "entity": "Taliesin",
+   "attribute": "tradition buries him near Aberystwyth and at Bangor"
   }
+ ],
+ "entities": [
+  {
+   "entity": "Taliesin",
+   "type": "Person"
+  },
+  {
+   "entity": "Gwion",
+   "type": "Person"
+  },
+  {
+   "entity": "Ceridwen",
+   "type": "Deity"
+  },
+  {
+   "entity": "Afagdu",
+   "type": "Person"
+  },
+  {
+   "entity": "Elffin",
+   "type": "Person"
+  },
+  {
+   "entity": "Book of Taliesin",
+   "type": "Artifact"
+  },
+  {
+   "entity": "Hanes Taliesin",
+   "type": "Work"
+  },
+  {
+   "entity": "Bedd Taliesin",
+   "type": "Place"
+  },
+  {
+   "entity": "Dyfed",
+   "type": "Place"
+  },
+  {
+   "entity": "Otherworld",
+   "type": "Place"
+  },
+  {
+   "entity": "Aneirin",
+   "type": "Person"
+  },
+  {
+   "entity": "cynfeirdd",
+   "type": "Concept"
+  },
+  {
+   "entity": "Ifor Williams",
+   "type": "Person"
+  },
+  {
+   "entity": "Urien",
+   "type": "Person"
+  },
+  {
+   "entity": "Owain",
+   "type": "Person"
+  },
+  {
+   "entity": "Llywelyn Siôn",
+   "type": "Person"
+  },
+  {
+   "entity": "Lady Charlotte Guest",
+   "type": "Person"
+  },
+  {
+   "entity": "Morfran",
+   "type": "Person"
+  },
+  {
+   "entity": "Afagddu",
+   "type": "Person"
+  },
+  {
+   "entity": "Gwyddno Garanhir",
+   "type": "Person"
+  },
+  {
+   "entity": "Maelgwn Gwynedd",
+   "type": "Person"
+  },
+  {
+   "entity": "Rhun",
+   "type": "Person"
+  },
+  {
+   "entity": "Degannwy",
+   "type": "Place"
+  },
+  {
+   "entity": "Bala Lake",
+   "type": "Place"
+  },
+  {
+   "entity": "Calan Mai",
+   "type": "Concept"
+  },
+  {
+   "entity": "Thomas Love Peacock",
+   "type": "Person"
+  },
+  {
+   "entity": "Charles Williams",
+   "type": "Person"
+  },
+  {
+   "entity": "Frank Lloyd Wright",
+   "type": "Person"
+  }
+ ],
+ "sources": [
+  "Bord, Janet, and Colin Bord. The Secret Country: An interpretation of the folklore of ancient sites in the British Isles. (New York: Walker and Co., 1976), 59.",
+  "Jackson, Kenneth, et al. Celt and Saxon: Studies in the Early British Border. (Cambridge: University Press, 1963), 29.",
+  "Nash, D. W. \"Taliesin in Song and Story.\" In John Matthews, A Celtic Reader: Selections from Celtic Legend, Scholarship and Story, 179 ff. Wellingborough: Aquarian Press, 1991.",
+  "Matthews, John. Taliesin: Shamanism and the Bardic Mysteries in Britain and Ireland. London: Aquarian/Thorsons, 1991.",
+  "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.",
+  "Koch 2006, s.v. 'Taliesin [2]'",
+  "MacKillop 2008, s.v. 'Hanes Taliesin'",
+  "MacKillop 2008, s.v. 'Book of Taliesin'.",
+  "MacKillop 2008, s.v. 'Taliesin'"
+ ],
+ "cyphertext": "dGypNPafRrEpOEmIARoXbQYdG_SQml8NXfFUhWisn82US2iZChA_kNX6CWb8d89sB7N8FJU9x06VFw44bsIqJCYpA3Fza0WoFV8CAzhF2OgZ-VMVSbsGqIBI5fDi7tWCiThvWuubEaNCbluLKHAls-KdIx67CHcLfGdaDA6QIxaIWP8FpYRsfwT9tLv-kxOUvaw8sfB6twM6mJ42Q-5hKRBfgmst4opzn-7DcIggw91J_liKnefDtufa4Xxc-vc2MlVsJ_2lx3AHuTcdd0b7eoVxX8FEK7ykifZMw4LfiJA7lkyrnSiEdg5dx48DT0xrJxlPRptRIftUoVj5AAh3FvSCSKDGQPRaKzPGCavAYKRgebJSUIyhkEPoLBCd8fzPB3iRs83V8F1xzmEFv4Br0IFV64bKJAZFWTiFXUgA7bFgMHFPLp8Npj5Pupc9YBQG3A3tUV_N51wy6PdDFBmX8E6VMe34jmSJLwgGMvlhRpMhS1SF_UicRnln1NJS4_dqlPv87FxVQ5hwzcTAT03Wdn3d9364AcF9tmUiJkVwuVSRbf_HLT1X0rgsRl5c1qihcsEDY7T4tBT2JeGfbdQxzD-FQXo8f65-8KhRgWNh_gr8cDXtxg48pyZh-hDJbjlJUounCAqmLgd6PNXF4EXXcfvY0TEZLOrG8enBGl2_f6WTwq6JuVy-f_EgKTPrOr13wja5KPIf5qDiZWJKvR5M2vrw5rv73McKiPbdnlm0m2Bbnp4wa8XXqfbpdgpDPovcoIFH6AL2iyZLDz-nZ6BdbrJH7qdiHiRC4TAhMBZUk08iGiY0yFW_Z0VTTn2dpsmjdH_N_W_CHFIVbFPU1LPDX0we7CB7vJwW9ldvA0oLIVMFbDw1t7IbyysyWowtlBFNOKaWPJWvgjLHk-yk3WIc-Dr402Pp_qo0PZJoNYLd8CTvGMg7Mba4-oA0xfSVbVkZ6QRXJfFnQAAf-xNQd_Xligg4x1Vtu96ttROpjnB-cIa45t02OvkDyqWeOPVDZov0M1qsiQ0wjmbRKu6Tf-LxXjvRzFl9wVcAetG3Y-g1LioRVRSJeMucAmUc862Ye2GVfGjnSxp4ATzc5AMvkmf_Dtmijm7SMvkWbci5F4eZGc3-CAcZKkcu48yqsyArNBY0rUN9jI2AYM1ihFHaxOy_60aV8Vf7Nnk-xa70hSS8D0_oQ0Fb8EKvQGR-zN0jchwekQMngLpWUm98-H0UpwqpwobVYWGxC9E58bhQvV14-agvLK-jvroWXyZVsYsbcbJNyOL2cfzo1tDtvFCDomtxT5GdLiM6rkkWDfp6radxkdnvPrPBt5YxF5JZdd0oUJa6yu4BY8Mw7lxokxK5NANSDDP119lMnYNCBSiwZEnwQTgmYN89MMrm3JqjcGKIjt0MfVtY48YzlTVm10QYDOB6tGFXHAyX7nd4DlJ3zbY9ZEePq99EElo85Ywtx3frTwupuNladmmqgI3cIRoBWDRTXUmleFn81t50YRCqbc1k1ooiW0ubPe7wxVIIQQjK9SNncWCI997G2ivonAlUJqS9cHxHnNr3Z1esTYHgoEkgboivwCBJXRQxFQOX_PRklu4B4RkSMQ8eYaEpLhirqyZNYek4ERE32vQuCiZbI44C2ZGgWD_akaxcKXRvt9BG3BrXb2rHuZZ8z-e1wZbEmQDWxApyVorI6j_u2cggYmrHjCctAlwKnLl8Q_Owv1rPYJQUBu8J0NJACgE1eOdJEjZLYbcf3pO0S-3ku3dC-iDe-tk020V5jKPCcql6JxAWg9MTrSaCTTdKGJoJpkn_3wpwzx-PkQv2EYV8Op7IPoWp54z05ou-XwhdS8ELATCZ8RF8OCJkjpGAxPhs3Rgq1s4KiE4qdGkDuur4OAPP1zGwm6eAnFeezSFbyQ2TJmauxvjGclJa06-t_UUR5UtX2WtZ_C5H-y6xfYNn3J7l4pqMr6oI2mgM93DsKdMvVl6TVHce8fuZeeGO_6CIn2qhkRAQYqKtxMB72odtkeiRpAXyVd7bkTExvSWCJakI9LQh8HDIWDIitbhWEHl0cfno46AaBg7f8dQHaXwN5vsuMt94q2hjF-HMo9U_nSN5MR3sESCrf7ssC4LATmVuINNh0ZFC-c5CfuBngNvRwNgJGrvW3ZN3uyMAy-FVBQsmZq79sR55R5arfKWTonV0BF00CEQLv3rJz3wcaSNUkXvYVJ_7kGxfN8NzK0ouOG7oPGWPXI7Xl_xVYnXsd4Rje3Al9KusHo9YcR-gTqxImmvhxnyzyckkna_djFy0BXirA4eP_VKxIx77cN1AdbECkRPqSj3lSoTn-IUA9aocJPKBEjhxu5dqY0DN8RwPQGVYEHTXEVErg8o3yesRshCTvsmbjQ-7ZaKawnA1nbKoc_ockCs1R_ZcX21xIqY6oD0it7zKDesdn7jnqJFC_QAFIqcQ-Zoj3Yrq4BSb1nnuxPAc3VI9ZDcIcbnVcXF-G1Xu9xGbLh_AofAywRlLOoZDDci7koiAR1TiM7s3mf6-T8cfuqENF12xIlAiE49_3xEST9zG3aiQsjwPK-Urtj9YUvOqhXwV965I7sPaWG6ZD9zDY9R6CvzyEaqp8dFBXTkUC7qc0mcMUV8Azg51RyKy_zHyd69LVrDPqb3voOHhKSJGNfgyS-14aK_wYIjIQqKxbteCC9hs-T7IFvTOOOT9PoOIaBiTcqxKcgVZp-yfC_-MlBHPMaND6XY6EYgKj2wOMgcphaoyulVLjT2aBSuAbemcRENodmkmC8FlTJU5M6YmP4zxiOj8f41hGS1rqzQf5--1jFeFgMJLkCyr4iUfVlJHiiyGEt0qWak23Z_q-qw_s_DFtiQ-MH9Jm4qCdKoxrADvX1OpipJqVYGa0MxfjXM6H17QkWtdLBa1jIzjpJ7cvhSFmtQgqUyL7xjAUuqKuvLAgCaNdPTJOxBByKeIsBZYEYqME3Vb2CA23BGKhApsl2KtkCmFTIMIu_XdzjzteXz6Njpd4sjfuvmnn_L9MSwaWuig7aBtCyzYnSU6wwlgTTz18bwMEhnvq0FBiCBXSsfuzNyo26q7dycs1a6CItAJBYz3nDGzZQnehFDz5ZlRRQ3PUT-RQiJa6mHPPkqRvsjeHA1Jr6Q4CaETwhlaJgYmVCTS_U9HEL6E0j5tY9N4LmzDIcFQjdO0dtxPhah-_fStapvR06fgINPRmOEuTqAg9hsPyoRg15VwTNOsr8PGPAA56RwbrujEeUhUeEVZ6y96219FkptwOOBl4hwy-KASLMf0oVB7Dd5uyS5TijrD2FgcuEDRTIXkWtX3FSL9dKOgwWPJSLv6GbsRXyTzRDUdfGM29Lu_4uiGN9VkoKX7mLYjs4giWA15joodlU-vN-momcXbvZ4x_xXyMROq9PMjUcJQx4nd8WCMsfHwWS8Ha5Nn5HUTazen_Jbs2FXfZcn84ptvBCRv9vDPg5sByUzkYhQH2a_si-YE4s3_GWUMnD9v24Es_TRX9G-KYE7t6jBpgyE2rLJuJ--yf4VhcEkRZ-OJCXDu5raKUBp-4iz7RvcHmhSRtK5hJgB1ElxOvp9HtJHOnjvnYNsXBm46AvKGErzRry2nH8DI0pcCsU8GDu3TKBxDI3YbiEtd4hzzsN0KbAbzuJNeLgG76na44H2H0eVnlKL9XGfejg1LsifTqK4lxofOuiPI7EoY0VRt8tZEfU5I34YIHL1XOpDiGUoEsaClosrKIryQw6lAu7ewGGeuEJCfDheqSHMLD00a-bkGKM-yFxh95x9Z4z0ZCi69dTjIQpUw7AXCTKa3J79hNDtJdDcIaEppe3txDMJS-GLyNxzi23TMHqUPsYjxDFF-dHBSgmLKRkf33qNf_M6Q8CJ_n9NrIujSvZ3bbiWXCG3Rw9h9bIGvQuy-fjKaZU0omPBPzoWXKXYL5PZ9uO6NQFgVsNsRJqsFG3OjL-Ox8SuX6eaQodj5wJ3_Ef-UsGgh7tR5uSUek6ultzJ3T4ESHsJnt9JY7eqdwKJw6uY=",
+ "salt": "YUTDCNuZi4r1rm2TrsKfkg==",
+ "text": "Taliesin is the Welsh bard whose story gifts him a marvellous birth. As a boy he lives under the name Gwion and serves the sorceress Ceridwen. She boils a cauldron of inspiration meant for her own son, and one scalding drop falls on the lad. He licks his finger, and in that single taste he takes all the magic into himself. She tries to catch him, so the two flick from shape to shape, fish to otter and bird to hawk. His last form becomes a single seed, and she turns hen and eats it, so she carries him once more. The sea then offers him to a lord, who raises him and names him Taliesin, the bright brow. His fair words earn a place at court, and the songs under his name carry an earthy fire. The old cairn in Dyfed bears the name of his bed. Whoever sleeps there rises a poet, or rises with the mind undone. MacKillop reads the name from two Welsh roots. Tal is the brow or forehead, and iesint is radiant and beautiful. He sets Taliesin beside Aneirin, and the two stand as the surviving cynfeirdd, the oldest poets. Tradition often takes him for a man of history, a late-sixth-century poet at work in the Old North. Those were the once Welsh-speaking lands of the Scottish Lowlands. Sir Ifor Williams gave twelve of the sixty poems in the Book of Taliesin to the historical bard in 1944. The poems he accepted carry the detail of real wars. They praise chieftains such as Urien and Owain, who fought the encroaching Angles between about 550 and 600. A second and far later life of the poet lives in the Hanes Taliesin. Llywelyn Sion, at work between 1540 and about 1615, compiled that tale. Lady Charlotte Guest's Mabinogion translation then bore it to a wide public. In this version the poet is an immortal in Powys who serves a series of princelings. The tale is rich in folklore, yet it holds traces of pre-Christian belief. Ceridwen and her husband Tegid Foel live at the bottom of Bala Lake, which takes its Welsh name from him. For her ugly son Morfran, Afagddu the utter darkness, she brews the cauldron named Amen. Three drops leap from it, and Gwion Bach catches them, so the gift falls to him. The chase and the shapes follow, and the grain of wheat makes the rebirth. The child is cast adrift and comes to the weir of Gwyddno Garanhir near Aberystwyth. Elffin finds him on Calan Mai, May Day, and cries out at the beautiful forehead. The boy of three days answers that he will be Taliesin. Degannwy held the court of Maelgwn Gwynedd. There the child faced the king's own poets and beat them by magic and by powers beyond theirs. Elffin fosters him to the age of thirteen. Elffin then boasts that his wife is fairest, his horses swiftest, and his poet wisest in the kingdom. Maelgwn imprisons the rash lord and sends his son Rhun, grand and awful, to test the wife's virtue. Taliesin saves his foster father on every count. He puts a female servant in the wife's place, so the plot fails. A song of his origins sung from the time of Lucifer's fall frees Elffin from his chains. Elffin's horses then defeat Maelgwn's, and a jockey's dropped cap uncovers a cauldron of gold. Welsh tradition gathers many threads that partly reconcile the two Taliesins. The Mabinogi's second branch counts him among the seven who fled Ireland alive after Bendigeidfran died. Prophetic poems of the eleventh to thirteenth centuries, foretelling the defeat of Saxons and Normans, were set under his name. Men joined his name to Myrddin more often than to Aneirin. Occult knowledge, people believed, passed constantly between the two, as the eleventh-century poem Ymddiddan Myrddin a Thaliesin records. In Geoffrey of Monmouth's Vita Merlini of about 1149, Merlin speaks with one Telgesinus, a Latin form of the name. Tradition buries him near Aberystwyth and at Bangor. Until the nineteenth century Welsh tradition alone kept him. Thomas Love Peacock made him a satirical character in The Misfortunes of Elphin in 1829. The novels of the Anglo-Welsh fantasist Charles Williams gave him a more dramatic shape. Frank Lloyd Wright, the architect, took the bard for a culture hero. Two of his estates, in Wisconsin and in Arizona, carry the name Taliesin. The Book of Taliesin, called Llyfr Taliesin in Welsh, is the codex that gathers his verses. The manuscript was compiled about the year 1275. It holds more than sixty poems. Most are attributed to the sixth-century bard Taliesin. The book also carries the Armes Prydain, the Prophecy of Britain, which some give to Myrddin. It includes Cad Goddeu, the tale of warring trees. The volume now rests in the National Library at Aberystwyth. Readers should set this book apart from the Hanes Taliesin, the wonder-tale of his birth.",
+ "okr": {
+  "objective": "Unite the historical bard, the Hanes wonder-child, and the later fame.",
+  "key_results": [
+   "Record the name etymology and the cynfeirdd rank with Aneirin",
+   "Give the Old North praise poems of Urien and Owain",
+   "Tell the Hanes from the cauldron drop through the shapes to Elffin's rescue",
+   "Name Rhun's test, the chains, and the cauldron of gold",
+   "Trace the prophetic poems, the Myrddin tie, and the later literary fame"
+  ],
+  "evidence": "MacKillop 2008, s.v. 'Taliesin'."
+ }
 }

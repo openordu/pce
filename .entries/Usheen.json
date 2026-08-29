@@ -1,0 +1,38 @@
+{
+  "name": "Usheen",
+  "text": "Usheen is an Anglicized spelling of the name Oisin. The dictionary prints the head as a one-line cross-reference. The record of the Fenian poet sits under the Oisín node.",
+  "entities": [
+    {
+      "entity": "Usheen",
+      "type": "Person"
+    },
+    {
+      "entity": "Oisín",
+      "type": "hero"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Usheen",
+      "attribute": "Anglicized spelling of the Oisin name"
+    },
+    {
+      "entity": "Usheen",
+      "attribute": "cross-reference to the Oisín record"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Usheen'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Usheen is an Anglicized spelling of the name Oisin",
+    "key_results": [
+      "anglicized form of the Oisín name",
+      "signpost to the Fenian poet's record"
+    ],
+    "evidence": "MacKillop 2008, s.v. Usheen."
+  }
+}

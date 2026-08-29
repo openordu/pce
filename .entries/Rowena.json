@@ -1,0 +1,47 @@
+{
+  "name": "Rowena",
+  "text": "Rowena names the daughter of Hengist in the semi-legendary history. Hengist stands as the fifth-century Saxon invader of Britain. Old English elements hreod, banner, and wine, friend, sit behind the form. Its possible Welsh antecedent is Rhonwen. Sir Walter Scott chose Rowena as the Saxon heroine of Ivanhoe in 1819.",
+  "entities": [
+    {
+      "entity": "Rowena",
+      "type": "Person"
+    },
+    {
+      "entity": "Rhonwen",
+      "type": "Person"
+    },
+    {
+      "entity": "Ivanhoe",
+      "type": "Text"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Rowena",
+      "attribute": "name ascribed to the daughter of Hengist"
+    },
+    {
+      "entity": "Rowena",
+      "attribute": "possible Welsh antecedent Rhonwen"
+    },
+    {
+      "entity": "Rowena",
+      "attribute": "Saxon heroine of Walter Scott's Ivanhoe (1819)"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Rowena'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Rowena names the daughter of Hengist in the semi-legendary history",
+    "key_results": [
+      "name of Hengist's daughter in the semi-legendary history",
+      "Old English elements hreod, banner, and wine, friend",
+      "heroine of Walter Scott's Ivanhoe, 1819"
+    ],
+    "evidence": "MacKillop 2008, s.v. Rowena."
+  }
+}

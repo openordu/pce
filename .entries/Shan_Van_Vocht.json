@@ -1,61 +1,79 @@
 {
-  "name": "Shan Van Vocht",
-  "attributes": [
-    {
-      "entity": "spéir-bhean",
-      "attribute": "goddess of Sovereignty in her late form"
-    },
-    {
-      "entity": "Shan Van Vocht",
-      "attribute": "the poor old woman"
-    },
-    {
-      "entity": "Cathleen Ni Houlihan",
-      "attribute": "a name of the spéir-bhean"
-    },
-    {
-      "entity": "Roisin Dubh",
-      "attribute": "Dark Rosaleen"
-    }
-  ],
-  "entities": [
-    {
-      "entity": "spéir-bhean",
-      "type": "Heroine"
-    },
-    {
-      "entity": "Sovereignty",
-      "type": "Concept"
-    },
-    {
-      "entity": "Shan Van Vocht",
-      "type": "Heroine"
-    },
-    {
-      "entity": "Cathleen Ni Houlihan",
-      "type": "Person"
-    },
-    {
-      "entity": "Roisin Dubh",
-      "type": "Person"
-    },
-    {
-      "entity": "Yeats",
-      "type": "Poet"
-    }
-  ],
-  "sources": [
-    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-  ],
-  "cyphertext": "_qEzuRXAxMWnnMCOV7-CBmELgV8faqWnizbGXHqFG8lo1GZzZS9Pw0I7piZaTl9tYBxehjC047GTiVi6Cg==",
-  "salt": "ugwkxS5A1ITgIaMe2QCLew==",
-  "text": "Shan Van Vocht is one name for the spéir-bhean, the sky woman of Irish story. She is a late form of the goddess of Sovereignty. By her right a king could hold Ireland. The bards of the 16th to 18th centuries drew her as a young beauty from the Otherworld. She walked the roads to seek out the true leader of the land. Writers gave her other names. One was Cathleen Ni Houlihan. Another was Roisin Dubh, the Dark Rosaleen. In the form of the Shan Van Vocht she is the poor old woman. This figure recalls the hag who becomes young again when the rightful ruler kisses her. The most famous telling stands in Yeats's play. That play shares her name with Maude Gonne, the woman who roused a nation to rise.",
-  "okr": {
-    "objective": "Replace the machine text for Shan Van Vocht with a fresh CSG-SME1000 rewrite from Monaghan.",
-    "key_results": [
-      "text holds a fresh CSG-SME1000 rewrite, not a copy of the machine prose",
-      "entities and attributes corrected and enriched for the kgraph"
-    ],
-    "evidence": "Monaghan 2003 (spéir-bhean cross-ref); Clark, The Great Queens."
+ "name": "Shan Van Vocht",
+ "attributes": [
+  {
+   "entity": "spéir-bhean",
+   "attribute": "goddess of Sovereignty in her late form"
+  },
+  {
+   "entity": "Shan Van Vocht",
+   "attribute": "the poor old woman"
+  },
+  {
+   "entity": "Cathleen Ni Houlihan",
+   "attribute": "a name of the spéir-bhean"
+  },
+  {
+   "entity": "Roisin Dubh",
+   "attribute": "Dark Rosaleen"
+  },
+  {
+   "entity": "Shan_Van_Vocht",
+   "attribute": "anglicized spelling of the Irish for the poor old woman"
+  },
+  {
+   "entity": "Shan_Van_Vocht",
+   "attribute": "personification of Ireland current in the 18th century"
+  },
+  {
+   "entity": "Shan_Van_Vocht",
+   "attribute": "perhaps derived from the Cailleach Bhéire"
+  },
+  {
+   "entity": "Shan_Van_Vocht",
+   "attribute": "the 1798 song has been called the Marseillaise of Ireland"
   }
+ ],
+ "entities": [
+  {
+   "entity": "spéir-bhean",
+   "type": "Heroine"
+  },
+  {
+   "entity": "Sovereignty",
+   "type": "Concept"
+  },
+  {
+   "entity": "Shan Van Vocht",
+   "type": "Heroine"
+  },
+  {
+   "entity": "Cathleen Ni Houlihan",
+   "type": "Person"
+  },
+  {
+   "entity": "Roisin Dubh",
+   "type": "Person"
+  },
+  {
+   "entity": "Yeats",
+   "type": "Poet"
+  }
+ ],
+ "sources": [
+  "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.",
+  "MacKillop 2008, s.v. 'Shan Van Vocht'"
+ ],
+ "cyphertext": "_qEzuRXAxMWnnMCOV7-CBmELgV8faqWnizbGXHqFG8lo1GZzZS9Pw0I7piZaTl9tYBxehjC047GTiVi6Cg==",
+ "salt": "ugwkxS5A1ITgIaMe2QCLew==",
+ "text": "Shan Van Vocht is the anglicized spelling of the Irish name for the poor old woman. She personifies Ireland and was current in that role in the eighteenth century. Her figure may descend from the Cailleach Bhéire, the hag of Beara, whose own story makes her a sovereignty bride. A song titled Shan Van Vocht was born of the United Irishmen's rising in 1798. That song has been called the Marseillaise of Ireland. Its verses speak of French ships and walking men coming to free the land. The same old woman stands behind the later personifications of the nation. The spéir-bhean of the bards, Dark Rosaleen, and Cathleen ni Houlihan all descend from her. In her modern political dress the figure kept her ancient work. She stands for the land itself and waits for a man able to win her.",
+ "okr": {
+  "objective": "Document Shan Van Vocht as the 18th-century personification of Ireland.",
+  "key_results": [
+   "Give the name as the anglicized form of the poor old woman",
+   "Tie her to the Cailleach Bhéire and to the later national personifications",
+   "Record the 1798 song and its Marseillaise fame"
+  ],
+  "evidence": "MacKillop 2008, s.v. 'Shan Van Vocht'."
+ }
 }

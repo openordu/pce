@@ -1,0 +1,42 @@
+{
+  "name": "Sliab Echtgi",
+  "text": "Sliab Echtgi is an Irish form of the mountain range recorded under Echtge. The dictionary routes this entry to the Echtge article. There the range sits between Clare and Galway. Legend ties those hills to the lady Echthge of the Tuatha Dé Danann. English usage knows them as Slieve Aughty.",
+  "entities": [
+    {
+      "entity": "Sliab Echtgi",
+      "type": "Place"
+    },
+    {
+      "entity": "Echtge",
+      "type": "Place"
+    },
+    {
+      "entity": "Tuatha Dé Danann",
+      "type": "Person"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Sliab Echtgi",
+      "attribute": "Irish form of the range recorded under Echtge"
+    },
+    {
+      "entity": "Sliab Echtgi",
+      "attribute": "entry cross-referenced to the Echtge record"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Sliab Echtgi'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Sliab Echtgi is an Irish form of the mountain range recorded under Echtge",
+    "key_results": [
+      "Irish form of the Echtge range",
+      "fuller record under the Echtge article"
+    ],
+    "evidence": "MacKillop 2008, s.v. Sliab Echtgi."
+  }
+}

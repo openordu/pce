@@ -1,60 +1,97 @@
 {
-    "name": "Ulster Cycle",
-    "attributes": [
-        {
-            "entity": "Ulster Cycle",
-            "attribute": "The dominant corpus of early Irish saga literature, gathered around the tales of the Ulaid"
-        },
-        {
-            "entity": "Emain Machae",
-            "attribute": "Royal seat and chief venue around which the saga complex centres"
-        },
-        {
-            "entity": "Cú Chulainn",
-            "attribute": "Central hero of the cycle, the single most celebrated champion of the Ulaid"
-        },
-        {
-            "entity": "Táin Bó Cuailnge",
-            "attribute": "Great war tale of the cattle raid, the anchor of the whole corpus"
-        },
-        {
-            "entity": "Thurneysen",
-            "attribute": "Scholar who listed some eighty works that belong to the cycle"
-        }
-    ],
-    "entities": [
-        {
-            "entity": "Ulster Cycle",
-            "type": "Saga"
-        },
-        {
-            "entity": "Táin Bó Cuailnge",
-            "type": "Text"
-        },
-        {
-            "entity": "Cú Chulainn",
-            "type": "Person"
-        },
-        {
-            "entity": "Emain Machae",
-            "type": "Place"
-        }
-    ],
-    "sources": [
-        "Koch 2006, s.v. 'Ulster Cycle'"
-    ],
-    "image": [],
-    "cyphertext": "",
-    "salt": "",
-    "text": "The Ulster Cycle is the dominant body of early Irish saga tales. It ranks as one of the four great groups of the old literature. The cycle centres on the royal seat of Emain Machae. Its hero is Cú Chulainn, chief champion of the Ulaid. The long story called Táin Bó Cuailnge anchors the whole complex. This cattle raid tale stands as the great war epic. Thurneysen listed near eighty items for this group. Later pieces push the total close to one hundred. Many tales survive only in heavily rewritten versions. Anonymous writers kept reshaping the older material for centuries. Keating retold several old stories in the seventeenth century. Later writers still added new works to the stock.",
-    "okr": {
-        "objective": "This entry documents the Ulster Cycle as the leading saga corpus of early Irish literature and names its chief venue, hero, and war tale.",
-        "key_results": [
-            "The corpus centres on Emain Machae and the hero Cú Chulainn of the Ulaid.",
-            "The tale Táin Bó Cuailnge is identified as the great war epic.",
-            "Thurneysen and later scholars count from eighty to one hundred items in the cycle."
-        ],
-        "evidence": "Koch 2006, s.v. 'Ulster Cycle'"
-    },
-    "order": 2290
+ "name": "Ulster Cycle",
+ "attributes": [
+  {
+   "entity": "Ulster Cycle",
+   "attribute": "The dominant corpus of early Irish saga literature, gathered around the tales of the Ulaid"
+  },
+  {
+   "entity": "Emain Machae",
+   "attribute": "Royal seat and chief venue around which the saga complex centres"
+  },
+  {
+   "entity": "Cú Chulainn",
+   "attribute": "Central hero of the cycle, the single most celebrated champion of the Ulaid"
+  },
+  {
+   "entity": "Táin Bó Cuailnge",
+   "attribute": "Great war tale of the cattle raid, the anchor of the whole corpus"
+  },
+  {
+   "entity": "Thurneysen",
+   "attribute": "Scholar who listed some eighty works that belong to the cycle"
+  },
+  {
+   "entity": "ulster_cycle",
+   "attribute": "formerly called the Red Branch Cycle after Conchobar's house Craebruad"
+  },
+  {
+   "entity": "ulster_cycle",
+   "attribute": "king Conchobar mac Nessa reigns at Emain Machae"
+  },
+  {
+   "entity": "ulster_cycle",
+   "attribute": "Deirdre its peerless tragic lover"
+  },
+  {
+   "entity": "ulster_cycle",
+   "attribute": "tales classed by type such as Aided and Tochmarc, not by cycle"
+  }
+ ],
+ "entities": [
+  {
+   "entity": "Ulster Cycle",
+   "type": "Saga"
+  },
+  {
+   "entity": "Táin Bó Cuailnge",
+   "type": "Text"
+  },
+  {
+   "entity": "Cú Chulainn",
+   "type": "Person"
+  },
+  {
+   "entity": "Emain Machae",
+   "type": "Place"
+  },
+  {
+   "entity": "Conchobar mac Nessa",
+   "type": "Person"
+  },
+  {
+   "entity": "Deirdre",
+   "type": "Person"
+  },
+  {
+   "entity": "Suibhne",
+   "type": "Person"
+  },
+  {
+   "entity": "Ulaid",
+   "type": "Group"
+  },
+  {
+   "entity": "Connacht",
+   "type": "Place"
+  }
+ ],
+ "sources": [
+  "Koch 2006, s.v. 'Ulster Cycle'",
+  "MacKillop 2008, s.v. 'Ulster Cycle'"
+ ],
+ "image": [],
+ "cyphertext": "",
+ "salt": "",
+ "text": "The Ulster Cycle is the dominant body of early Irish saga tale. It ranks as one of the four great groups of the old literature, beside the Mythological, Fenian, and Kings cycles. The cycle centres on the royal seat of Emain Machae and the heroes of the Ulaid in eastern Ulster. Conchobar mac Nessa reigns as king, and Cú Chulainn stands as the supreme champion. Deirdre appears as the peerless tragic lover. The great cattle raid Táin Bó Cuailnge anchors the whole complex and ranks as the only Irish prose epic. The stories show a proud, haughty folk, often at war with Connacht. Commentators set their world a hundred years before the birth of Christ. That age is older than any other European vernacular records.\n\nThe group was formerly called the Red Branch Cycle. Nineteenth-century translators and romantic nationalists favoured that English name. It renders the Irish Craebruad, one of Conchobar's three houses. That hall took its name from a great red roof beam. Scholars later showed that those commentators alone were confused. Early Ireland never divided literature into cycles. Scribes classed tales by type, such as the Aided, a sorrowful death, or the Tochmarc, a wooing. Not every Ulster story belongs to the group. The frenzy of Suibhne, for example, sits in the Cycle of Kings.\n\nScribes transcribed the material as early as the eighth century, and it stayed living literature into the eighteenth. The tradition spread as far as Scotland and Man. Learned pens, more than oral memory, carried the transmission. Although Christians wrote every surviving text, the setting stays pre-Christian. Magic fills the tales, and old divinities meddle in mortal affairs. The society holds slaves without censure and fights brutal wars, often over cattle. The ruins of Emain Machae stood visible to the redactors, as they stand today.\n\nThe cycle's fame does not rest on wealth or headcount. Ulster lacked the riches of the Boyne and Liffey regions to the south. Fenian tales reached a wider public. Literary Ulster is pastoral yet never idyllic. Its grandeur lies in extremes of bravery and love. Thurneysen listed near eighty items for the group, and later pieces push the total close to one hundred. Many tales survive only in heavily rewritten versions, and anonymous writers reshaped the material for centuries. Keating retold several stories in the seventeenth century. Nineteenth-century nationalists carried the heroes into English, and Thomas Moore sang of the Red Branch knights. Standish James O'Grady enlarged the history, and Lady Gregory, Yeats, and Synge adapted the tales. Studies by Bruford, Jackson, and Thurneysen remain standard.",
+ "okr": {
+  "objective": "Record the Ulster Cycle as the dominant body of early Irish saga and its Red Branch name history.",
+  "key_results": [
+   "Places Conchobar at Emain Machae with Cú Chulainn as supreme hero and Deirdre the tragic lover",
+   "Explains the Red Branch Cycle name from Craebruad and its commentators' error",
+   "Dates transcription from the eighth century and transmission through learned scribes"
+  ],
+  "evidence": "Koch 2006, s.v. 'Ulster Cycle'."
+ },
+ "order": 2290
 }

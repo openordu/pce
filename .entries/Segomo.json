@@ -1,57 +1,103 @@
 {
-  "name": "Segomo",
-  "attributes": [
-    {
-      "entity": "Segomo",
-      "attribute": "name may mean the victor"
-    },
-    {
-      "entity": "Segomo",
-      "attribute": "once had a wide following"
-    },
-    {
-      "entity": "Britain",
-      "attribute": "site of inscriptions to Segomo"
-    },
-    {
-      "entity": "Gaul",
-      "attribute": "site of inscriptions to Segomo"
-    }
-  ],
-  "entities": [
-    {
-      "entity": "Segomo",
-      "type": "Continental Celtic god"
-    },
-    {
-      "entity": "Segamonas",
-      "type": "Continental Celtic god"
-    },
-    {
-      "entity": "Neta Segamonas",
-      "type": "Continental Celtic god"
-    },
-    {
-      "entity": "Britain",
-      "type": "Location"
-    },
-    {
-      "entity": "Gaul",
-      "type": "Location"
-    }
-  ],
-  "sources": [
-    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-  ],
-  "cyphertext": "GrNQqqW8PCO0S0AqgjgDxC1JWBgErPYqPRPh3UsFsUtBeyBUZHesEIfx0qrItdUDi6TrpNdtX4ZKAqc4lEde_kZvGuHXJHEkPocH4Y007B93bwD1Hg2YmrWD3Ux6Yd-laSUWNN0ASQp31vuX7Z1CM2oC9NEhDz51GrPKQXIRMC6U2rt8WyYtUopMQLY_eLU8m1GJzZwHnpldpzRhg3U8wlNVZ4JmzIK4qT21m818J-LMWhJ0SLLkwxTZ3abTuLlIYIVM7ozRjCaJmmQbnSl8LZulqUUyOkI93HGK6Xbe1BiAxQwpPcwDPWHL2eMD36KGQOGmm9kHPOP5MuuPQn0EAKDK5NQvKzrUgpk=",
-  "salt": "tZe86tOKYzShMvNrF2z35w==",
-  "text": "Segomo is a Continental Celtic god. The name is also recorded as Segamonas and Neta Segamonas. The name may mean the victor, or the victorious one. The god is now obscure. Once it had a wide following across the Celtic lands. Evidence of the cult survives in inscriptions. Those inscriptions come from Britain and from Gaul. The finds show a god honored on both sides of the Channel. Segomo stands today among the Continental gods known chiefly through stone and votive records.",
-  "okr": {
-    "objective": "Erase the machine text for Segomo and replace it with a fresh CSG-SME1000 rewrite sourced from the PDFs.",
-    "key_results": [
-      "text holds a fresh CSG-SME1000 rewrite, not a copy of the machine prose",
-      "entities and attributes corrected and enriched for the kgraph"
-    ],
-    "evidence": "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2003."
+ "name": "Segomo",
+ "attributes": [
+  {
+   "entity": "Segomo",
+   "attribute": "name may mean the victor"
+  },
+  {
+   "entity": "Segomo",
+   "attribute": "once had a wide following"
+  },
+  {
+   "entity": "Britain",
+   "attribute": "site of inscriptions to Segomo"
+  },
+  {
+   "entity": "Gaul",
+   "attribute": "site of inscriptions to Segomo"
+  },
+  {
+   "entity": "Segomo",
+   "attribute": "the name means victor or mighty one"
+  },
+  {
+   "entity": "Segomo",
+   "attribute": "more a title than a true name, an epithet of Mars and Hercules"
+  },
+  {
+   "entity": "Segomo",
+   "attribute": "a mule statue dedicated to him survives at Neuvy-en-Sullias"
+  },
+  {
+   "entity": "Segomo",
+   "attribute": "a bronze horse from the shrine of Bolards may belong to him alone"
+  },
+  {
+   "entity": "Segomo",
+   "attribute": "the Irish name Nia Segamoin echoes his presence"
+  },
+  {
+   "entity": "Segomo",
+   "attribute": "possibly identical with Cocidius of Roman Britain"
   }
+ ],
+ "entities": [
+  {
+   "entity": "Segomo",
+   "type": "Continental Celtic god"
+  },
+  {
+   "entity": "Segamonas",
+   "type": "Continental Celtic god"
+  },
+  {
+   "entity": "Neta Segamonas",
+   "type": "Continental Celtic god"
+  },
+  {
+   "entity": "Britain",
+   "type": "Location"
+  },
+  {
+   "entity": "Gaul",
+   "type": "Location"
+  },
+  {
+   "entity": "Mars",
+   "type": "god"
+  },
+  {
+   "entity": "Hercules",
+   "type": "god"
+  },
+  {
+   "entity": "Cocidius",
+   "type": "god"
+  },
+  {
+   "entity": "Neuvy-en-Sullias",
+   "type": "Location"
+  },
+  {
+   "entity": "Nuits-Saint-Georges",
+   "type": "Location"
+  }
+ ],
+ "sources": [
+  "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.",
+  "MacKillop 2008, s.v. 'Segomo'"
+ ],
+ "cyphertext": "GrNQqqW8PCO0S0AqgjgDxC1JWBgErPYqPRPh3UsFsUtBeyBUZHesEIfx0qrItdUDi6TrpNdtX4ZKAqc4lEde_kZvGuHXJHEkPocH4Y007B93bwD1Hg2YmrWD3Ux6Yd-laSUWNN0ASQp31vuX7Z1CM2oC9NEhDz51GrPKQXIRMC6U2rt8WyYtUopMQLY_eLU8m1GJzZwHnpldpzRhg3U8wlNVZ4JmzIK4qT21m818J-LMWhJ0SLLkwxTZ3abTuLlIYIVM7ozRjCaJmmQbnSl8LZulqUUyOkI93HGK6Xbe1BiAxQwpPcwDPWHL2eMD36KGQOGmm9kHPOP5MuuPQn0EAKDK5NQvKzrUgpk=",
+ "salt": "tZe86tOKYzShMvNrF2z35w==",
+ "text": "Segomo is a war-god of ancient Gaul. Writers give him a cult in Britain and perhaps Ireland too. The name means victor or mighty one. It appears in the forms Segamonas and Neta Segamonas. MacKillop reads Segomo as more a title than a true name. Both Gaulish Mars and Hercules carry it as an epithet. On that reading no one can say whether this was a distinct native god. He may be one face of those better-known figures. Evidence of the cult survives in stone. A statue of a mule dedicated to Segomo survives at Neuvy-en-Sullias on the Loire. The mule matters, since writers link that animal with Mars. A bronze horse found at the Bolards shrine, near Nuits-Saint-Georges in eastern France, may belong to Segomo alone. The early Irish name Nia Segamoin, the servant of Segomo, echoes his one-time presence in Ireland. Some writers make him the same god as Cocidius, honoured in Roman Britain.",
+ "okr": {
+  "objective": "Present Segomo, the victor god of Gaul read as a title of Mars and Hercules.",
+  "key_results": [
+   "Record the meaning of the name and its epithet use",
+   "Record the mule statue at Neuvy-en-Sullias and the Bolards bronze",
+   "Record the Irish echo Nia Segamoin and the Cocidius identification"
+  ],
+  "evidence": "MacKillop 2008, s.v. 'Segomo'."
+ }
 }

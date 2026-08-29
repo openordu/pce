@@ -1,33 +1,55 @@
 {
-  "name": "Setlocenia",
-  "attributes": [
-    {
-      "entity": "Setlocenia",
-      "attribute": "goddess of prosperity and longevity"
-    },
-    {
-      "entity": "Setlocenia",
-      "attribute": "known from one inscription"
-    }
-  ],
-  "entities": [
-    {
-      "entity": "Setlocenia",
-      "type": "British goddess"
-    }
-  ],
-  "sources": [
-    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-  ],
-  "cyphertext": "oKzYonlVqWANo-KYEHk_iLGtQQvpuoNcj91OJp_OboLCD7BXmxP-JJcQ0bRaUViX4ewt_bBjgbPVAzQsuPrGnkw0VyOqvcowg762T7-mUnrX9daTJUngLRy1XpsP9kx-AAzeKH290xMN5DHg4GNLJeH-qOIvGeeV1kqgOSnBiwhkuQrcAQS6Zv6vXS_oF_U_b48AX6vq4RtnzhwwDHWwhkujCcM-yf9mQpZiGyY=",
-  "salt": "XlWI_ogl07s7NClx6jh_hw==",
-  "text": "Setlocenia is a British goddess whose name means She of the Long Life. Only one inscription names her, and no fuller story survives. The single record shows her as a deity of prosperity and longevity. She likely guarded a long and healthy life along with good fortune. The spare record limits what we can say of her. Setlocenia's name is her core legacy. In the small evidence we have, she stands for the hope of a long and fortunate life.",
-  "okr": {
-    "objective": "Replace the machine text for Setlocenia with a fresh CSG-SME1000 rewrite from Monaghan.",
-    "key_results": [
-      "text holds a fresh CSG-SME1000 rewrite, not a copy of the machine prose",
-      "entities and attributes corrected and enriched for the kgraph"
-    ],
-    "evidence": "Monaghan 2003; Koch 2006."
+ "name": "Setlocenia",
+ "attributes": [
+  {
+   "entity": "Setlocenia",
+   "attribute": "goddess of prosperity and longevity"
+  },
+  {
+   "entity": "Setlocenia",
+   "attribute": "known from one inscription"
+  },
+  {
+   "entity": "Setlocenia",
+   "attribute": "her name carries the sense of goddess of long life"
+  },
+  {
+   "entity": "Setlocenia",
+   "attribute": "invoked at Maryport in Cumberland"
+  },
+  {
+   "entity": "Setlocenia",
+   "attribute": "compared conceptually, not etymologically, with the Irish Buanann"
   }
+ ],
+ "entities": [
+  {
+   "entity": "Setlocenia",
+   "type": "British goddess"
+  },
+  {
+   "entity": "Buanann",
+   "type": "Person"
+  },
+  {
+   "entity": "Maryport",
+   "type": "Place"
+  }
+ ],
+ "sources": [
+  "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.",
+  "MacKillop 2008, s.v. 'Setlocenia'"
+ ],
+ "cyphertext": "oKzYonlVqWANo-KYEHk_iLGtQQvpuoNcj91OJp_OboLCD7BXmxP-JJcQ0bRaUViX4ewt_bBjgbPVAzQsuPrGnkw0VyOqvcowg762T7-mUnrX9daTJUngLRy1XpsP9kx-AAzeKH290xMN5DHg4GNLJeH-qOIvGeeV1kqgOSnBiwhkuQrcAQS6Zv6vXS_oF_U_b48AX6vq4RtnzhwwDHWwhkujCcM-yf9mQpZiGyY=",
+ "salt": "XlWI_ogl07s7NClx6jh_hw==",
+ "text": "Setlocenia is a minor goddess of early northern Britain. Her name carries the sense of goddess of long life or the long-lived one. Her worship rests on a single record, an invocation at Maryport in Cumberland. No fuller story of her survives. The one inscription shows a deity of prosperity and long life. She likely guarded a long and healthy existence along with the goods that go with it. Writers compare her in concept, though not in word origin, with the Irish Buanann.",
+ "okr": {
+  "objective": "Document Setlocenia, the long-life goddess known from one British inscription.",
+  "key_results": [
+   "Record the sense of her name as goddess of long life",
+   "Locate her single invocation at Maryport in Cumberland",
+   "Record the conceptual comparison with the Irish Buanann"
+  ],
+  "evidence": "MacKillop 2008, s.v. 'Setlocenia'."
+ }
 }

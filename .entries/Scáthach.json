@@ -1,78 +1,121 @@
 {
-  "name": "Scáthach",
-  "attributes": [
-    {
-      "entity": "Scáthach",
-      "attribute": "a warrior woman whose name meant shadowy one"
-    },
-    {
-      "entity": "Scáthach",
-      "attribute": "trained heroes at her school on the Isle of Skye"
-    },
-    {
-      "entity": "Scáthach",
-      "attribute": "taught feats such as apple-feat and thunder-feat"
-    },
-    {
-      "entity": "Cúchulainn",
-      "attribute": "crossed the Bridge of the Cliff to reach her school"
-    },
-    {
-      "entity": "Gáe Bulga",
-      "attribute": "a magical weapon gifted to Cúchulainn"
-    }
-  ],
-  "entities": [
-    {
-      "entity": "Scáthach",
-      "type": "Person"
-    },
-    {
-      "entity": "Cúchulainn",
-      "type": "Person"
-    },
-    {
-      "entity": "Skye",
-      "type": "Place"
-    },
-    {
-      "entity": "Scotland",
-      "type": "Place"
-    },
-    {
-      "entity": "Gáe Bulga",
-      "type": "Artifact"
-    },
-    {
-      "entity": "Bridge of the Cliff",
-      "type": "Place"
-    },
-    {
-      "entity": "Excalibur",
-      "type": "Artifact"
-    }
-  ],
-  "sources": [
-    "Hull, Eleanor. The Cuchullin Saga in Irish Literature. (London: David Nutt, 1898), 72.",
-    "Straffon, Cheryl. The Earth Goddess: Celtic and Pagan Legacy of the Landscape. London: Blandford, 1997, 179.",
-    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-  ],
-  "image": [
-    "https://upload.wikimedia.org/wikipedia/en/thumb/1/14/Sc%C3%A1thach-1914-heroesofdawn00russ.jpg/1200px-Sc%C3%A1thach-1914-heroesofdawn00russ.jpg"
-  ],
-  "cyphertext": "e30ZwHawzT8VFqR2ZJvzdjx28iz557Wxc_YxwmIn6j-OxVWfILEiPudJwLvWVb40nGVC92Krbm6pCbVtUQA25c_J0YD-Er7ybuP-pep7FUR1rzSm2teTFikdf4Qb5XLd_YatGaJLQgBQ3pqfWlOhcamSF-uzYc8aSPFrWqpOfwul3m0mtsSwY7MSyoQl2Wxym_X0jlZJ7JkER1R3xdx7A0pT2Fn0VvoVh1E7hPVXLFKTXbJIRrll-yJNp4bdTfE5j_3td4fnMjQn8SMF73vesfUmJKIqWx9R9V7a69j5sS1aX_RlDC7SYXc8ez8WhZBAQbdR9wniC7QOgIYKVnMEivXFYDRhb81g_MoN2YWK_RyZp15-BU1S0Sp9GtrzpyVXuWX_800_Iqt0volEMJBVbZAEnq7wwoAeSqIBtTW2vQSaZlMYlXNx12i_nSl6sChhJP-BAQcBtGLugaNSDCUwCVYWheC8DJUJrumL8KnmRNIQc6od8Vy6lDrehfDX4zD05NsWDFolNInQO1VfaUJDM4eLvwJ6HAXFVo-I8uGlpW8hfPtgMhM27ZMybUzTrzLJqpadIUOhVLM_dIdaJmTq0hP3ouowDCnjcb8hDqqyYbfUXGnSABiG4jfzDnWNNWsiPVIz9VONB0ZupUly3lfSYiMFOf--NNaO1yt1At0PgmvxUyR_2pru-BzbQDNoN0qktGUVmtk9LHqUA4KSOH28jOF5N0WSSs29UPyNKUXxpmp6WunB_VhFWXlC0uhJDXJitphXSRT__X8al_s_4CA4rAnum_tZhxclaaoD1bSM33jIPQSb9j4aI60n0rmzMXmxcbCCemub5O11bZHqf99knT8KOmSuU7iPo_92RWEHcpqvBU8CsFPj4JRjKvNJ3zuBVjb6x8bLEzl-TuT1WyXXHPZOMwfIP9txw2aG9nLXfqol7JH0dFCtkGlrlAzKboPizDOJdh1CIDo87LMPvEn1l9hGzp7QZC0mWflZTqYr_TvYXgdl61uxmExwH5GfwMKx_EPfj9Sf_K12AhlyvNBVoQAk2qiKmZSe6oMLXSS8BdBiTQF_erW0n-AXot6nS54warAcpG1aWH7DHc8ds3Wyr0ka3LKQR3-Xs_y0E_b-PKQc1krIqToQQk7bDhTvvCjVc-gXBP83bOVxcj_2c7RJdNfybZ2NBGOYahQCI-7AP7HBWDR-SYTrMzV-UIiZonHt3YPY7FGIT-t34m6cH7GkfCUW2LZZ210ek-zekAdKuiGVLiQJs-aCtE84ENZ1ZjORwoKaNjxqW3SyPBe1Rm7qcClyr3BG6iggNn5kygSyesRHhQHaYBmgCwBXOyFG_ypfeGjXu1D1xDBcEzbrg27JqOqMtjcAz7FRYbcuMhrX9o0Pe_h6Xqmg3Vc2EQOqAMmIRL8bqNsI50WBjezQQbjmvrvbY5aCQfnaTGbnANM0CGEDwtvoa7jgPTrLjIgu0-Pl6uK0JT-9JVKfLZWMRh61oIk_FGcYwycaClebwJ41eFN-Jjb5N5pm2TI1G28ECUaFyrs14K9BLLFzdma8RNYhCTtzd5B7WgkvmGS7AHdqid0whenTYaiJNjACINvXnlw0FeS6a1yfpOSiHSVKbxQYdhhFCuzlU5a0q26Zu93IQdPfzdCTAPz820PAim8xxbV78Hr0v1pDuBmvfdlApMKHTv1vJqSx_y8XjB9yhZYY_hLKMRnV1Q0rywCqV4ecDfmumY89tsuA_rloENTSJ6YEAy-ez2RS9kQwKIK5AS1H9zz9FF74vxzNX1criHaxX2N7kbizXc-LsCCtGNyFDZXBAcWD55pF3svs6fAgfsqPpL3-1mFhjBiuB8y_YUQJW1KxU_nvrT7Fiet3DNoM7l5nNt_TwU-J_NqFySbPBqMsBN0uvRkfwrPD1lg0uYz2VaRRKcUV5qyDvBL3gs_jZpcsrGRv1kYvSeP52CPT0QEk5-74YHx8Zx9mKkZ5jUSuILk14xb5NwCgHaXevsXeiYTjN6gwpEsrcsvZVuyx4ef-rQyfJzY4f0zPbXzP6iPMjJn85Igw9bdK8PxMEOHaQXLhK4envE25wmzJxSFZmCcnHZ7uAocVce_YLVabQEO1xWGapVUe58_tSvtv_Y1WWJ2YyNFpi-OPI2qqqIIG7jqaxxzc-WsJgSgXKKRNT_uPTy19I5OEtIFMgdEp3rLHTjrNxl8itEpw2ZHGgmYW0E_53n-uN_9FxA0eKa8fmI2_UI1ELDFF-W2bVWqxIwgsrZTNzS55ANEp1AF7P3qRHvrcpmL-OGYFpALK-ZfKFRHK6P8NiSnDd2NbeOLyPe3MLLN_JbOHzoAGuGLB8lnMtyhHGpatlY49dFR3PHJ6PLdwS6SG1r_KutiBZFWJ_US6lK9BUa_oRDKKKPd7S5XRVmBZ-ZwU-_cQgF-BR3gMqj9brcK6JLCQN2rJ1uh_kMxKuvH76uC4HNDXS7XWDHBcrCIKlPNfmt4L2Ttq4ehGYIAI0IQEE8xAoosd5Hd8zr5DxEPkYSjTYzlMXU7aSvUNl-f6QWBPwqdtw1XVx6Q1JvIpzIx9LPGrRNoXbMWRZ2ETTIGTI1NzkdriVpKFOxw3pUusrp9Y85f5aCVSDmViXtZRkLWndfqZLYzh7upKjOREXBFWwE-XYhIvZyP_vfDNa-Bm5tmRwuLsbNuPCozk-pQqJaOuVBme-aw-j1HBNDxRlrIodvq_i1MpWvrT8zXEuflhyrg5IM7knCYu7z_bdm-KUju5kdCa60GgaHNhenrJ4xH-djaToR6lsJWyVuwfXhnLRYI18zMj51BGXjIDt9hEpfodvsc8_-P4wSY8fnxcwQ4rOwYtWJuMylNYorV5x1KVacvO6vY5PJuRQcowBntuLBGbaK-bkR48TdWcijfEP5tqesuW6BDnjO9Q6YsZZYvc77lC7h_QoY7U2QUNl5wMNDyhNpLl6PpUrWgSXUJ_TExjOTV9LBCheAf47LdlQ98nm2X2cVK2eDaacUKzIT2hQGLPMWZY3hKsVymGPoSxsGfR7lydX0UBPeCltK_d8bR5ECYsRdEP0_vggvJb1vIcTTLZMX8hWor9FPG8lSza_BOzdsEk4YJFlj9Sbpx8W1KYsNuXl-Pho70BD_8BBfl-_4qf3ch5Cc4eM6NIE_yoaJUrsiN-2H7WDRfgvMEFXzoH4DB62G3NK_empsT80gHoiPVKlVZJShKSpS9jc-_Imkks9A==",
-  "salt": "YMlsfYho2qczbCytpMouyA==",
-  "text": "Scáthach was one of the great warrior women of Irish legend. Her name meant shadowy one. She lived on the island that now bears the name of her school, the Isle of Skye off Scotland. There she trained young warriors into heroes. Only she knew the secrets that drew students such as the great hero Cúchulainn, who vowed to find her or die trying. A candidate had to cross the Bridge of the Cliff, a great chasm, to reach her school. Scáthach's curriculum taught feats with strange names: the apple-feat, the thunder-feat, the supine-feat, and the use of the magical weapon the Gáe Bulga. She also foretold her students' futures. In one tale Cúchulainn wrestled her for ownership of Skye, then left the island to her. Her gift to him, the Gáe Bulga, invited comparison to the sword Excalibur.",
-  "okr": {
-    "objective": "Document the warrior woman Scáthach and her school on Skye.",
-    "key_results": [
-      "Record Scáthach as a warrior woman who trained Cúchulainn.",
-      "Record the location of her school on the Isle of Skye.",
-      "Record the unusual martial feats and the Gáe Bulga weapon."
-    ],
-    "evidence": [
-      "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore (2008): Scáthach.",
-      "Koch, John T. Celtic Culture: A Historical Encyclopedia (2006): Scáthach as the instructress-in-arms in Tochmarc Emire (The Wooing of Emer)."
-    ]
+ "name": "Scáthach",
+ "attributes": [
+  {
+   "entity": "Scáthach",
+   "attribute": "a warrior woman whose name meant shadowy one"
+  },
+  {
+   "entity": "Scáthach",
+   "attribute": "trained heroes at her school on the Isle of Skye"
+  },
+  {
+   "entity": "Scáthach",
+   "attribute": "taught feats such as apple-feat and thunder-feat"
+  },
+  {
+   "entity": "Cúchulainn",
+   "attribute": "crossed the Bridge of the Cliff to reach her school"
+  },
+  {
+   "entity": "Gáe Bulga",
+   "attribute": "a magical weapon gifted to Cúchulainn"
+  },
+  {
+   "entity": "Scáthach",
+   "attribute": "her name grows out of a word for shadow, shade, and shelter"
+  },
+  {
+   "entity": "Scáthach",
+   "attribute": "her fort on Skye named Dún Scáthaig"
+  },
+  {
+   "entity": "Scáthach",
+   "attribute": "granted Cúchulainn three wishes, including Uathach without a bride-price"
+  },
+  {
+   "entity": "Scáthach",
+   "attribute": "slept with Aife, who bore the son Connla"
+  },
+  {
+   "entity": "Scáthach",
+   "attribute": "won the friendship of her thighs, read as a warrior-initiation rite"
+  },
+  {
+   "entity": "Scáthach",
+   "attribute": "kept apart from Scáthach daughter of Énna of the Fenian Cycle"
   }
+ ],
+ "entities": [
+  {
+   "entity": "Scáthach",
+   "type": "Person"
+  },
+  {
+   "entity": "Cúchulainn",
+   "type": "Person"
+  },
+  {
+   "entity": "Skye",
+   "type": "Place"
+  },
+  {
+   "entity": "Scotland",
+   "type": "Place"
+  },
+  {
+   "entity": "Gáe Bulga",
+   "type": "Artifact"
+  },
+  {
+   "entity": "Bridge of the Cliff",
+   "type": "Place"
+  },
+  {
+   "entity": "Excalibur",
+   "type": "Artifact"
+  },
+  {
+   "entity": "Aife",
+   "type": "Person"
+  },
+  {
+   "entity": "Uathach",
+   "type": "Person"
+  },
+  {
+   "entity": "Connla",
+   "type": "Person"
+  },
+  {
+   "entity": "Cúar",
+   "type": "Person"
+  },
+  {
+   "entity": "Dún Scáthaig",
+   "type": "Place"
+  }
+ ],
+ "sources": [
+  "Hull, Eleanor. The Cuchullin Saga in Irish Literature. (London: David Nutt, 1898), 72.",
+  "Straffon, Cheryl. The Earth Goddess: Celtic and Pagan Legacy of the Landscape. London: Blandford, 1997, 179.",
+  "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.",
+  "MacKillop 2008, s.v. 'Scáthach'"
+ ],
+ "image": [
+  "https://upload.wikimedia.org/wikipedia/en/thumb/1/14/Sc%C3%A1thach-1914-heroesofdawn00russ.jpg/1200px-Sc%C3%A1thach-1914-heroesofdawn00russ.jpg"
+ ],
+ "cyphertext": "e30ZwHawzT8VFqR2ZJvzdjx28iz557Wxc_YxwmIn6j-OxVWfILEiPudJwLvWVb40nGVC92Krbm6pCbVtUQA25c_J0YD-Er7ybuP-pep7FUR1rzSm2teTFikdf4Qb5XLd_YatGaJLQgBQ3pqfWlOhcamSF-uzYc8aSPFrWqpOfwul3m0mtsSwY7MSyoQl2Wxym_X0jlZJ7JkER1R3xdx7A0pT2Fn0VvoVh1E7hPVXLFKTXbJIRrll-yJNp4bdTfE5j_3td4fnMjQn8SMF73vesfUmJKIqWx9R9V7a69j5sS1aX_RlDC7SYXc8ez8WhZBAQbdR9wniC7QOgIYKVnMEivXFYDRhb81g_MoN2YWK_RyZp15-BU1S0Sp9GtrzpyVXuWX_800_Iqt0volEMJBVbZAEnq7wwoAeSqIBtTW2vQSaZlMYlXNx12i_nSl6sChhJP-BAQcBtGLugaNSDCUwCVYWheC8DJUJrumL8KnmRNIQc6od8Vy6lDrehfDX4zD05NsWDFolNInQO1VfaUJDM4eLvwJ6HAXFVo-I8uGlpW8hfPtgMhM27ZMybUzTrzLJqpadIUOhVLM_dIdaJmTq0hP3ouowDCnjcb8hDqqyYbfUXGnSABiG4jfzDnWNNWsiPVIz9VONB0ZupUly3lfSYiMFOf--NNaO1yt1At0PgmvxUyR_2pru-BzbQDNoN0qktGUVmtk9LHqUA4KSOH28jOF5N0WSSs29UPyNKUXxpmp6WunB_VhFWXlC0uhJDXJitphXSRT__X8al_s_4CA4rAnum_tZhxclaaoD1bSM33jIPQSb9j4aI60n0rmzMXmxcbCCemub5O11bZHqf99knT8KOmSuU7iPo_92RWEHcpqvBU8CsFPj4JRjKvNJ3zuBVjb6x8bLEzl-TuT1WyXXHPZOMwfIP9txw2aG9nLXfqol7JH0dFCtkGlrlAzKboPizDOJdh1CIDo87LMPvEn1l9hGzp7QZC0mWflZTqYr_TvYXgdl61uxmExwH5GfwMKx_EPfj9Sf_K12AhlyvNBVoQAk2qiKmZSe6oMLXSS8BdBiTQF_erW0n-AXot6nS54warAcpG1aWH7DHc8ds3Wyr0ka3LKQR3-Xs_y0E_b-PKQc1krIqToQQk7bDhTvvCjVc-gXBP83bOVxcj_2c7RJdNfybZ2NBGOYahQCI-7AP7HBWDR-SYTrMzV-UIiZonHt3YPY7FGIT-t34m6cH7GkfCUW2LZZ210ek-zekAdKuiGVLiQJs-aCtE84ENZ1ZjORwoKaNjxqW3SyPBe1Rm7qcClyr3BG6iggNn5kygSyesRHhQHaYBmgCwBXOyFG_ypfeGjXu1D1xDBcEzbrg27JqOqMtjcAz7FRYbcuMhrX9o0Pe_h6Xqmg3Vc2EQOqAMmIRL8bqNsI50WBjezQQbjmvrvbY5aCQfnaTGbnANM0CGEDwtvoa7jgPTrLjIgu0-Pl6uK0JT-9JVKfLZWMRh61oIk_FGcYwycaClebwJ41eFN-Jjb5N5pm2TI1G28ECUaFyrs14K9BLLFzdma8RNYhCTtzd5B7WgkvmGS7AHdqid0whenTYaiJNjACINvXnlw0FeS6a1yfpOSiHSVKbxQYdhhFCuzlU5a0q26Zu93IQdPfzdCTAPz820PAim8xxbV78Hr0v1pDuBmvfdlApMKHTv1vJqSx_y8XjB9yhZYY_hLKMRnV1Q0rywCqV4ecDfmumY89tsuA_rloENTSJ6YEAy-ez2RS9kQwKIK5AS1H9zz9FF74vxzNX1criHaxX2N7kbizXc-LsCCtGNyFDZXBAcWD55pF3svs6fAgfsqPpL3-1mFhjBiuB8y_YUQJW1KxU_nvrT7Fiet3DNoM7l5nNt_TwU-J_NqFySbPBqMsBN0uvRkfwrPD1lg0uYz2VaRRKcUV5qyDvBL3gs_jZpcsrGRv1kYvSeP52CPT0QEk5-74YHx8Zx9mKkZ5jUSuILk14xb5NwCgHaXevsXeiYTjN6gwpEsrcsvZVuyx4ef-rQyfJzY4f0zPbXzP6iPMjJn85Igw9bdK8PxMEOHaQXLhK4envE25wmzJxSFZmCcnHZ7uAocVce_YLVabQEO1xWGapVUe58_tSvtv_Y1WWJ2YyNFpi-OPI2qqqIIG7jqaxxzc-WsJgSgXKKRNT_uPTy19I5OEtIFMgdEp3rLHTjrNxl8itEpw2ZHGgmYW0E_53n-uN_9FxA0eKa8fmI2_UI1ELDFF-W2bVWqxIwgsrZTNzS55ANEp1AF7P3qRHvrcpmL-OGYFpALK-ZfKFRHK6P8NiSnDd2NbeOLyPe3MLLN_JbOHzoAGuGLB8lnMtyhHGpatlY49dFR3PHJ6PLdwS6SG1r_KutiBZFWJ_US6lK9BUa_oRDKKKPd7S5XRVmBZ-ZwU-_cQgF-BR3gMqj9brcK6JLCQN2rJ1uh_kMxKuvH76uC4HNDXS7XWDHBcrCIKlPNfmt4L2Ttq4ehGYIAI0IQEE8xAoosd5Hd8zr5DxEPkYSjTYzlMXU7aSvUNl-f6QWBPwqdtw1XVx6Q1JvIpzIx9LPGrRNoXbMWRZ2ETTIGTI1NzkdriVpKFOxw3pUusrp9Y85f5aCVSDmViXtZRkLWndfqZLYzh7upKjOREXBFWwE-XYhIvZyP_vfDNa-Bm5tmRwuLsbNuPCozk-pQqJaOuVBme-aw-j1HBNDxRlrIodvq_i1MpWvrT8zXEuflhyrg5IM7knCYu7z_bdm-KUju5kdCa60GgaHNhenrJ4xH-djaToR6lsJWyVuwfXhnLRYI18zMj51BGXjIDt9hEpfodvsc8_-P4wSY8fnxcwQ4rOwYtWJuMylNYorV5x1KVacvO6vY5PJuRQcowBntuLBGbaK-bkR48TdWcijfEP5tqesuW6BDnjO9Q6YsZZYvc77lC7h_QoY7U2QUNl5wMNDyhNpLl6PpUrWgSXUJ_TExjOTV9LBCheAf47LdlQ98nm2X2cVK2eDaacUKzIT2hQGLPMWZY3hKsVymGPoSxsGfR7lydX0UBPeCltK_d8bR5ECYsRdEP0_vggvJb1vIcTTLZMX8hWor9FPG8lSza_BOzdsEk4YJFlj9Sbpx8W1KYsNuXl-Pho70BD_8BBfl-_4qf3ch5Cc4eM6NIE_yoaJUrsiN-2H7WDRfgvMEFXzoH4DB62G3NK_empsT80gHoiPVKlVZJShKSpS9jc-_Imkks9A==",
+ "salt": "YMlsfYho2qczbCytpMouyA==",
+ "text": "Scáthach is the Amazonian warrior woman of Old Irish tale. Her name grows out of a word for shadow, shade, and shelter. She teaches the martial arts to heroes, Cúchulainn above all. Some texts set her home in Alpi, which most readers take for Alba, Scotland. Others bind her to the Hebridean Isle of Skye. There her fort gives the isle the name Dún Scáthaig. Only she knew the secrets that drew students to her school. A candidate had to cross the Bridge of the Cliff, a great chasm, to reach it. Cúchulainn vowed to find her or die trying. Under her he learned his famous aggressive leap, the thunder feat called the torannchless. She gave him his spear, the Gáe Bulga, a gift later set beside the sword Excalibur. Her curriculum taught feats with strange names: the apple-feat, the thunder-feat, and the supine-feat. She also foretold her students' futures. In return for her teaching he fought her enemy Aife at her side. That woman may be her double. Three wishes were his reward. She would keep teaching him with care. She would hand over her daughter Uathach without a bride-price. She would read his future for him. While battling Aife he slept with her, and she bore the son Connla. That boy followed him back to Ireland seven years later. He died by his father's hand in the tale of the only son of Aife. Accounts of his amorous record vary. Usually he wins the friendship of her thighs, a phrase readers trace to half-forgotten rites of warrior initiation. He also enjoys intimacies with Uathach. Modern commentators read these unions as the mark of an apprentice joining his heroic calling. In one tale Cúchulainn wrestled her for ownership of Skye, then left the island to her. This Scáthach of the Ulster Cycle should be kept apart from Scáthach daughter of Énna of the Fenian Cycle. That other woman uses magic music to put Fionn mac Cumhaill to sleep inside a fairy mound. Her own son is Cúar.",
+ "okr": {
+  "objective": "Tell Scáthach, the shadowy warrior woman who trained Cúchulainn.",
+  "key_results": [
+   "Record her school on Skye and the Bridge of the Cliff",
+   "Record the thunder feat, the Gáe Bulga, and the three wishes",
+   "Tell the unions with Aife and Uathach and the death of Connla",
+   "Keep her apart from Scáthach daughter of Énna"
+  ],
+  "evidence": "MacKillop 2008, s.v. 'Scáthach'."
+ }
 }

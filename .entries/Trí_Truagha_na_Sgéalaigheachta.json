@@ -1,0 +1,50 @@
+{
+  "name": "Trí Truagha na Sgéalaigheachta",
+  "text": "Trí Truagha na Sgéalaigheachta is the Irish title meaning the three sorrows of storytelling. English writers print the name as The Three Sorrows of Storytelling, with sorrowful-stories wording in some heads. The dictionary head is itself a routing entry that names the three tragedies. The first is the Deirdre story, the great Ulster tale of doomed beauty. The second is Oidheadh Chlainne Lir, the tragic fate of the children of Lir. The third is Oidheadh Chlainne Tuireann, the tragedy that befell Tuireann's offspring. Together the three form the most famous sorrow-triad of Irish storytelling.",
+  "entities": [
+    {
+      "entity": "Trí Truagha na Sgéalaigheachta",
+      "type": "Text"
+    },
+    {
+      "entity": "Deirdre",
+      "type": "Person"
+    },
+    {
+      "entity": "Children of Lir",
+      "type": "Group"
+    },
+    {
+      "entity": "Oidheadh Chlainne Tuireann",
+      "type": "Text"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Trí Truagha na Sgéalaigheachta",
+      "attribute": "Irish title of the three sorrows of storytelling"
+    },
+    {
+      "entity": "Trí Truagha na Sgéalaigheachta",
+      "attribute": "gathers the Deirdre story, the children of Lir, and the children of Tuireann"
+    },
+    {
+      "entity": "Trí Truagha na Sgéalaigheachta",
+      "attribute": "routing head that names all three tragedies"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Trí Truagha na Sgéalaigheachta'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Trí Truagha na Sgéalaigheachta is the Irish title meaning the three sorrows of storytelling",
+    "key_results": [
+      "collective title of the three great tragedies",
+      "Deirdre, children of Lir, children of Tuireann"
+    ],
+    "evidence": "MacKillop 2008, s.v. Trí Truagha na Sgéalaigheachta."
+  }
+}

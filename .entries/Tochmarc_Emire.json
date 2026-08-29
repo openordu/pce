@@ -1,0 +1,38 @@
+{
+  "name": "Tochmarc Emire",
+  "text": "Tochmarc Emire is the Irish tale title meaning the wooing of Emer. The dictionary prints the head as a one-line cross-reference. The fuller record of Emer and her courtship sits under the Emer node.",
+  "entities": [
+    {
+      "entity": "Tochmarc Emire",
+      "type": "Text"
+    },
+    {
+      "entity": "Emer",
+      "type": "Person"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Tochmarc Emire",
+      "attribute": "tale title, the wooing of Emer"
+    },
+    {
+      "entity": "Tochmarc Emire",
+      "attribute": "cross-reference to the Emer record"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Tochmarc Emire'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Tochmarc Emire is the Irish tale title meaning the wooing of Emer",
+    "key_results": [
+      "wooing-title of the Emer tale",
+      "signpost to the Emer node"
+    ],
+    "evidence": "MacKillop 2008, s.v. Tochmarc Emire."
+  }
+}

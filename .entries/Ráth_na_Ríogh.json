@@ -1,0 +1,37 @@
+{
+  "name": "Ráth na Ríogh",
+  "text": "Ráth na Ríogh is the Irish designation of the Rath of the Kings at Tara. The name translates directly as the fort of the kings. The rath belongs to the Tara complex, and the Tara node carries the fuller record of the site.",
+  "entities": [
+    {
+      "entity": "Ráth na Ríogh",
+      "type": "Place"
+    },
+    {
+      "entity": "Tara",
+      "type": "Place"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Ráth na Ríogh",
+      "attribute": "Irish name for the Rath of the Kings at Tara"
+    },
+    {
+      "entity": "Ráth na Ríogh",
+      "attribute": "site cross-referenced to the Tara record"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Ráth na Riogh'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Ráth na Ríogh is the Irish designation of the Rath of the Kings at Tara",
+    "key_results": [
+      "Irish name for the Rath of the Kings at Tara"
+    ],
+    "evidence": "MacKillop 2008, s.v. Ráth na Riogh."
+  }
+}

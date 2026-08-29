@@ -1,0 +1,38 @@
+{
+  "name": "Ruan",
+  "text": "Ruan is the Cornish form of the saint recorded under Ruman. The dictionary routes the entry there, and that node carries the full record. Cornish place-names such as Ruan Lanihorne preserve the same saint's name.",
+  "entities": [
+    {
+      "entity": "Ruan",
+      "type": "Person"
+    },
+    {
+      "entity": "Ruman",
+      "type": "Person"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Ruan",
+      "attribute": "Cornish variant of Saint Ruman"
+    },
+    {
+      "entity": "Ruan",
+      "attribute": "entry cross-referenced to the Ruman article"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Ruan'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Ruan is the Cornish form of the saint recorded under Ruman",
+    "key_results": [
+      "Cornish form of Saint Ruman",
+      "record kept under the Ruman article"
+    ],
+    "evidence": "MacKillop 2008, s.v. Ruan."
+  }
+}

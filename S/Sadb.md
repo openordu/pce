@@ -2,65 +2,66 @@
 layout: layouts/pce.njk
 title: Sadb
 icon: file-lines
-order: 1956
+order: 2269
 contributors: [ 'Christopher Godwin' ]
 attributes:
-  - Sadb mother of son
-  - Sadb died as a deer
-  - son greatest poet
-  - son finest warrior
-  - Fionn cruel in battle
-  - Sadb tender of heart
-  - Sadb died of shame and sorrow
+  - Sadb an Irish heroine turned into a deer by Fear Doirche
+  - Sadb the mother of Oisín, son of Fionn mac Cumhaill
+  - Fionn mac Cumhaill the hero who loved Sadb and raised their son Oisín
+  - Sadb one of the most common women's names of early Ireland
+  - Sadb spelled Sadhbh, Saba, Sabia, Sava, and Saar in other records
+  - Sadb in alternative texts the deer-mother bears the name Blaí
 categories:
-  - Occupation
+  - Place
   - Group
-  - Animal
   - Person
 entities:
   - Sadb(Person)
-  - deer(Animal)
-  - son(Person)
-  - poet(Occupation)
-  - warriors(Occupation)
-  - Fionn(Person)
-  - band(Group)
+  - Bodb Derg(Person)
+  - Fear Doirche(Person)
+  - Daireann(Person)
+  - Fionn mac Cumhaill(Person)
+  - Ben Bulben(Place)
+  - Oisín(Person)
   - Fianna(Group)
+  - Ireland(Place)
 tags:
   - Sadb
-  - deer
-  - son
-  - poet
-  - warriors
-  - Fionn
-  - band
+  - Bodb Derg
+  - Fear Doirche
+  - Daireann
+  - Fionn mac Cumhaill
+  - Ben Bulben
+  - Oisín
   - Fianna
+  - Ireland
 ---
 ``` tab [group1:Info]
 ::: magazinestyle
-An Irish heroine known by several names - Sadb, Saba, Sabia, Sava, Sadhbh and Blaí - was the daughter of Bodb Derg, who was a great magician. Sadb, a beautiful maiden, was transformed into a deer by one of her father's enemies, Fear Doirche. Her sister, Daireann, had an infatuation with Fionn Mac Cumhaill, the great hero, and when he rejected her, she drove him mad. Despite this punishment, Fionn remained uninterested. However, after saving a fawn from being killed by his hunting dogs, he fell in love with a mysterious woman who visited him at night. After several nights of pleasure, it was discovered that Sadb, in her deer form, had been the woman. Her father's enemy, a dark Druid, placed a spell upon her so that she could never regain her human form. She fled from her lover, and after almost a year of searching Ireland, Fionn eventually found her near the peak of Ben Bulben nursing a human infant. The boy was named Oisin, and Sadb, apparently still in her deer form, lived out the rest of her days. Some claim that she died of shame and sorrow after discovering how cruel Fionn had been in battle. Regardless, their son Oisin became the greatest poet and one of the finest warriors of Fionn’s group, the Fianna.
+Sadb is an Irish heroine and the deer-mother of the Fenian hero Oisín. Her name ranks among the most common women's names of early Ireland. It is spelled Sadhbh, Saba, Sabia, Sava, and Saar in other records. In alternative texts the deer-mother herself bears the name Blaí. Her best-known story makes her the beautiful daughter of the magician Bodb Derg. A magical enemy named Fear Doirche turned her into a deer. Her sister Daireann loved the hero Fionn mac Cumhaill. When Fionn rejected Daireann, she drove him mad. Fionn's sanity returned. He saved a fawn from his own hunting dogs. A mysterious woman then visited him at night, for this was Sadb freed from her deer form. They knew many nights of pleasure. Fear Doirche learned of it and cast a darker spell. Sadb could never regain her womanly shape again. Grief-stricken, she fled her lover. Fionn searched Ireland for nearly a year. At last, near Ben Bulben, he found a deer nursing a human child. Fionn knew his son and took the boy, naming him Oisín, which means little fawn. Sadb lived out her years as a deer. Her son grew into the greatest poet and one of the finest warriors of the Fianna.
 
 :::
 ```
 ``` tab [group1:Attributes]
-- **Sadb**: mother of son
-- **Sadb**: died as a deer
-- **son**: greatest poet
-- **son**: finest warrior
-- **Fionn**: cruel in battle
-- **Sadb**: tender of heart
-- **Sadb**: died of shame and sorrow
+- **Sadb**: an Irish heroine turned into a deer by Fear Doirche
+- **Sadb**: the mother of Oisín, son of Fionn mac Cumhaill
+- **Fionn mac Cumhaill**: the hero who loved Sadb and raised their son Oisín
+- **Sadb**: one of the most common women's names of early Ireland
+- **Sadb**: spelled Sadhbh, Saba, Sabia, Sava, and Saar in other records
+- **Sadb**: in alternative texts the deer-mother bears the name Blaí
 ```
 ``` tab [group1:Entities]
 - **Sadb**: Person
-- **deer**: Animal
-- **son**: Person
-- **poet**: Occupation
-- **warriors**: Occupation
-- **Fionn**: Person
-- **band**: Group
+- **Bodb Derg**: Person
+- **Fear Doirche**: Person
+- **Daireann**: Person
+- **Fionn mac Cumhaill**: Person
+- **Ben Bulben**: Place
+- **Oisín**: Person
 - **Fianna**: Group
+- **Ireland**: Place
 ```
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
+- MacKillop 2008, s.v. 'Sadb'
 ```

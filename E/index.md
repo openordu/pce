@@ -18,6 +18,7 @@ layout: layouts/pce.njk
 - [Ecgfrith](Ecgfrith)
 - [Echtach](Echtach)
 - [Echthge](Echthge)
+- [Echtge](Echtge)
 - [echtra](echtra)
 - [Ecne](Ecne)
 - [Ector](Ector)

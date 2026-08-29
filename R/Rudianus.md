@@ -2,43 +2,43 @@
 layout: layouts/pce.njk
 title: Rudianus
 icon: file-lines
-order: 1942
+order: 2252
 contributors: [ 'Christopher Godwin' ]
 attributes:
-  - Rudianus Continental Celtic god
-  - Romans warrior god Mars
+  - Rudianus an obscure Continental Celtic god in France
+  - Rudianus identified by Romans with the warrior Mars
+  - Rudianus his name is invoked at three places in southern France
+  - Rudianus the stone of Saint-Michel-de-Valbonne shows a horseman carrying five severed heads
 categories:
-  - Country
-  - Continental Celtic god
-  - Roman god
-  - Civilization
+  - place
+  - god
 entities:
-  - Rudianus(Continental Celtic god)
-  - France(Country)
-  - Romans(Civilization)
-  - Mars(Roman god)
+  - Rudianus(god)
+  - Mars(god)
+  - Saint-Michel-de-Valbonne(place)
 tags:
   - Rudianus
-  - France
-  - Romans
   - Mars
+  - Saint-Michel-de-Valbonne
 ---
 ``` tab [group1:Info]
 ::: magazinestyle
-An enigmatic deity named Rudianus existed in Continental Celtic mythology. While invoked for help in several inscriptions found in France, little is known about this elusive god. The Romans, however, equated Rudianus with their own god of war, Mars.
+Rudianus is a Continental Celtic god of war. He is a dim figure known only from a few stones in France that called on his help. Romans linked him with their warrior god Mars. His name appears at three places in southern France. At Saint-Michel-de-Valbonne a stone cuts the figure of a horseman. He rides with five severed heads. That image fits a war-god of grim repute.
 
 :::
 ```
 ``` tab [group1:Attributes]
-- **Rudianus**: Continental Celtic god
-- **Romans**: warrior god Mars
+- **Rudianus**: an obscure Continental Celtic god in France
+- **Rudianus**: identified by Romans with the warrior Mars
+- **Rudianus**: his name is invoked at three places in southern France
+- **Rudianus**: the stone of Saint-Michel-de-Valbonne shows a horseman carrying five severed heads
 ```
 ``` tab [group1:Entities]
-- **Rudianus**: Continental Celtic god
-- **France**: Country
-- **Romans**: Civilization
-- **Mars**: Roman god
+- **Rudianus**: god
+- **Mars**: god
+- **Saint-Michel-de-Valbonne**: place
 ```
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
+- MacKillop 2008, s.v. 'Rudianus'
 ```

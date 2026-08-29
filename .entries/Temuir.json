@@ -1,0 +1,38 @@
+{
+  "name": "Temuir",
+  "text": "Temuir is the Irish spelling of the royal site name Tara. The dictionary prints the head as a one-line cross-reference. The fuller record of the site sits under the Tara node.",
+  "entities": [
+    {
+      "entity": "Temuir",
+      "type": "Place"
+    },
+    {
+      "entity": "Tara",
+      "type": "Place"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Temuir",
+      "attribute": "Irish spelling of Tara"
+    },
+    {
+      "entity": "Temuir",
+      "attribute": "cross-reference to the Tara record"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Temuir'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Temuir is the Irish spelling of the royal site name Tara",
+    "key_results": [
+      "Irish form of the Tara name",
+      "signpost to the Tara node"
+    ],
+    "evidence": "MacKillop 2008, s.v. Temuir."
+  }
+}

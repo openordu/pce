@@ -1,0 +1,51 @@
+{
+  "name": "Scoriath",
+  "text": "Scoriath rules Fir Morca in the tale Orgain Denna Rig, the Destruction of Dind Rig. He aids Labraid Loingsech in winning back that hero's kingdom after exile. He also yields his own lovely daughter Muiriath to Labraid in a marriage alliance.",
+  "entities": [
+    {
+      "entity": "Scoriath",
+      "type": "Person"
+    },
+    {
+      "entity": "Labraid Loingsech",
+      "type": "Person"
+    },
+    {
+      "entity": "Muiriath",
+      "type": "Person"
+    },
+    {
+      "entity": "Fir Morca",
+      "type": "Place"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Scoriath",
+      "attribute": "king of Fir Morca in the Destruction of Dind Rig tale"
+    },
+    {
+      "entity": "Scoriath",
+      "attribute": "helps Labraid Loingsech regain his kingdom"
+    },
+    {
+      "entity": "Scoriath",
+      "attribute": "father of Muiriath, whom he gives to Labraid"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Scoriath'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Scoriath rules Fir Morca in the tale Orgain Denna Rig, the Destruction of Dind Rig",
+    "key_results": [
+      "king of Fir Morca",
+      "ally of Labraid Loingsech in the Destruction of Dind Rig",
+      "father of Muiriath"
+    ],
+    "evidence": "MacKillop 2008, s.v. Scoriath."
+  }
+}

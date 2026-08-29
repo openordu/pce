@@ -1,0 +1,58 @@
+{
+  "name": "Venus of Quinipily",
+  "text": "Venus of Quinipily, sometimes printed Quinipili, is the popular name of a statue. The figure stands six feet high and nobody knows where it came from. Its site is Quinipily near Baud in Brittany, in the Morbihan. Speculation about its provenance varies widely. One reading makes the statue a survival from an ancient cult local to that ground. Another sees in it an image of the Egyptian goddess Isis. A third calls it a replica of a statue belonging to the cult of St Gildas. A fourth suspects a hoax, one younger than local tradition would allow. Healing powers were once ascribed to the statue, and people came to seek them. Ecclesiastical officials denounced it during the seventeenth century. They threw it into a local river, but popular demand later restored it. Breton speakers know the figure as Gwreg Houam, the Iron Woman. None of the four theories has carried the day, and the statue keeps its secret.",
+  "entities": [
+    {
+      "entity": "Venus of Quinipily",
+      "type": "Artifact"
+    },
+    {
+      "entity": "Quinipily",
+      "type": "Place"
+    },
+    {
+      "entity": "Brittany",
+      "type": "Place"
+    },
+    {
+      "entity": "Isis",
+      "type": "Deity"
+    },
+    {
+      "entity": "Gildas",
+      "type": "person"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Venus of Quinipily",
+      "attribute": "six-foot statue of unknown origin at Quinipily near Baud, Brittany"
+    },
+    {
+      "entity": "Venus of Quinipily",
+      "attribute": "provenance theories: local cult survival, Isis image, St Gildas copy, or hoax"
+    },
+    {
+      "entity": "Venus of Quinipily",
+      "attribute": "denounced by church officials in the seventeenth century, drowned, then restored"
+    },
+    {
+      "entity": "Venus of Quinipily",
+      "attribute": "Breton name Gwreg Houam, the Iron Woman"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Venus of Quinipily'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Venus of Quinipily, sometimes printed Quinipili, is the popular name of a statue",
+    "key_results": [
+      "enigmatic healing statue of Brittany",
+      "four rival provenance theories, none settled"
+    ],
+    "evidence": "MacKillop 2008, s.v. Venus of Quinipily."
+  }
+}

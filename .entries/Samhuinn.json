@@ -1,0 +1,38 @@
+{
+  "name": "Samhuinn",
+  "text": "Samhuinn is the Scottish Gaelic spelling of Samain, the November feast. The dictionary prints the variant forms of that feast under the Samain head, which carries the full record. The encyclopedia keeps each printed spelling on its own row.",
+  "entities": [
+    {
+      "entity": "Samhuinn",
+      "type": "Concept"
+    },
+    {
+      "entity": "Samhain",
+      "type": "Concept"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Samhuinn",
+      "attribute": "Scottish Gaelic spelling of Samain"
+    },
+    {
+      "entity": "Samhuinn",
+      "attribute": "variant recorded under the Samain headword"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Samhuinn'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Samhuinn is the Scottish Gaelic spelling of Samain, the November feast",
+    "key_results": [
+      "Scottish Gaelic form of Samain",
+      "full record kept under the Samain article"
+    ],
+    "evidence": "MacKillop 2008, s.v. Samhuinn."
+  }
+}

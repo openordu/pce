@@ -20,6 +20,30 @@
   {
    "entity": "Tristan",
    "attribute": "Cornish knight in the tale of Tristan and Isolt"
+  },
+  {
+   "entity": "Tristan",
+   "attribute": "name forms Tristan, Tristram, Tristrem, and Trystan"
+  },
+  {
+   "entity": "Tristan",
+   "attribute": "the Tristan Stone stands about thirty miles south of Tintagel"
+  },
+  {
+   "entity": "Tristan",
+   "attribute": "Drystan of the Welsh Triads has been joined to the Pictish king Drust dead by 780"
+  },
+  {
+   "entity": "Tristan",
+   "attribute": "Marie de France's honeysuckle lai about 1160 shows the union already formed"
+  },
+  {
+   "entity": "Tristan",
+   "attribute": "the tale was fixed by Eilhart, Béroul, and Gottfried von Strassburg"
+  },
+  {
+   "entity": "Tristan",
+   "attribute": "died of despair when Iseult of the White Hands lied about the ship"
   }
  ],
  "entities": [
@@ -54,27 +78,67 @@
   {
    "entity": "Fowey",
    "type": "Place"
+  },
+  {
+   "entity": "Marie de France",
+   "type": "Person"
+  },
+  {
+   "entity": "Thomas of Britain",
+   "type": "Person"
+  },
+  {
+   "entity": "Gottfried von Strassburg",
+   "type": "Person"
+  },
+  {
+   "entity": "Béroul",
+   "type": "Person"
+  },
+  {
+   "entity": "Eilhart von Oberg",
+   "type": "Person"
+  },
+  {
+   "entity": "Brangwain",
+   "type": "Person"
+  },
+  {
+   "entity": "Iseult of the White Hands",
+   "type": "Person"
+  },
+  {
+   "entity": "Brittany",
+   "type": "Place"
+  },
+  {
+   "entity": "Tintagel",
+   "type": "Place"
+  },
+  {
+   "entity": "Drust",
+   "type": "Person"
   }
  ],
  "sources": [
   "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.",
-  "Koch 2006, s.v. \"Tristan and Isolt\""
+  "Koch 2006, s.v. \"Tristan and Isolt\"",
+  "MacKillop 2008, s.v. 'Tristan'"
  ],
  "image": [
   "https://upload.wikimedia.org/wikipedia/commons/4/46/Rogelio_de_Egusquiza_-_Trist%C3%A1n_e_Iseo_%28La_vida%29.jpg"
  ],
  "cyphertext": "AzVc4R-boOSRrs6aCk2uoBEgZqwypAqioKEIOoRcx0OTrflgpBNCwfvNhLOtYEHAUmUxswrMJfihtEi_TnbwqcwkPstMSi__mwyZDsPNGL2jNT5Ne8_MDGZiEImSaE-Lg17lN5B6lcony1Kie_Okr3CXj7vuN8dLaUbX6XwGKS32bxgNg86l3r5KnN5Kgc_FU73m1TywUyeonsJjBTa5p2X4gwa-debfUzcsdjYAszA4VroU3W6E2TQQg_AMwT5UgANoCKQ0w-jc1OmUaf1gEPUtgO-k_xmrRgB0yNGuAKA4P4iWY_7yxj8IDHxdRORQrhdnUMq5RDXG0WEd2sGnNyJlMJrRSw7YJB58ehTAlos2gLmtCiRi1fX6xRI5CyxT22roNmiWO6_ee2RNI1dSUpnVUm9Ypjd9T1Csby1Hq5Ymqddmj3oogumOuU7Ul-GMwJeBAZ3-_8godwFxrz0KqT9IZ4hsJzwcZZaDncNvUWPtNOEEQkUr-P0m-gAHL-RPb3LXEGXCz3Qzs90OoMC5ZDZ2RRnV4cBl71SMNKIx1sykoZIdKb88pU3FQvMu36gjil6ZXzYocFkgOqef66h3ruXgc1rj1VYPBF-BQyBtRegBdhijW1jvttAIRmIWK7xz5FVCFU_8Q95a6052RtsjJ3dwy3Sr7afJudEoJb270aNomHPHEkLWu0FgCxqgHrBvGZVfHVABCrmCT3uI8_HAZxWVRTy5g2anavTiwevRB3u1FYCBHuWjizbXgidawaWo4Exxpa5rcOBygYfWqjMbiCL0Epte5vX7PS58u1qK2bk4R1Cug1fp4ZTRZfcck1u8xPdqqYcdvaKVy5xVBQw2n3EjN4ZwC03nGMhxbjyd-cJ5JK2sZaRM85-Rml16InNzdhkIgBZ2BWYAm8FBBdS8YPxM7CUQsEHlV8iDFUyTImXAknJ3k4rQzEp_--TamgX3IYpuX_Ghw9QIEA-uOnOPTwLuShSVvCX3C7-YH0sAZGood0Jvd6t-cgG0bxvS3j4Fe2XoP0rrCxmOmEQitKN0q2gHcYHw4xJo4aIEIit2IDdIsFwmx9KHxr3oNcdJceU0px-Rafo3VHc2Kiw6GRXDfmZuiLAhWw6d0kPLOf02g71URStNbbROAqcgh6coL25z_XEm8cHXXTdSWoGc1yFvX7oRX5l97wMWESm2yBl_dipDpdsu-3w9Q0bnFqrz-XtYlNTuwRGliuDhUeAipNItbP0vmEYKjNp6TTvNEry9To_XrM9Oze6gdXhWk52oe6azWZNCpJLN_-dT0lNQCEfd7auwVbjEer4tOp0QPetMik09R1Snr7qipxjBF4PWBfCg3HgREJqKunv4McISZtxiW4NyF0nWc3oj5wtXQkVCQONFK82phMKFS022kJog42RJLe2Z-yZJbK-UV7tWTUsCS2u0o8DZWdWhJI1rUveC2GsuKN98-Yhyqcqvu-tHex1tAM9OxY3P2h9lpnFZYWh0SdDx9US6nHmAN3Gwlm7y4w48X2NwE51JSnlGrKqKLXzymEbXm6cCVHkMWOqZkTYeADPO7-DtslabofpMp_c3wS3x3DTcMbEGxO18Y_V1CJwgyJCKzRoL5sHxsbW-rJnmcDa4Up4LCjHaB2SheKvHub1yKMXCg8qcO-LJiP9JH3WQliaHunj2nOyc5nOvgCmzIYGKtEEJETv7UOk4F2bsXokjspm0D49CiNEeiS8FQIPr_fbKBdKiu3RS0Ucbfedf0te35qOrLbxi8C_2DvMVs-m4lmw3BL4CS63SD5UExkPIjmsKEReVLFGuw9IsET3t33NmHj1FAGidl89zgZC09p5SZKQYFG2E2olAd-8wbL9lNIfBAYzVm-1pQh0j8XbAk4oZ54k2-cS8JS0Pw3JP85MxCsMIkCuzvn3QG5gRljrGB-3-SFUoaaV4ShzDWEpddqdszOBgtFhydy1hJsycAEU9r6awoiXEH11om2GUqJr3yIN4azsbfZ3_6TgoNBTCe5wpCQYLRPyAShdJ00BIbjmQA4C50IRMyZ8R600j6aA8yb-dHGYoUPaauTec4ureCwaPFWhFdaRqFVUL0htP67cOovH_te7gKiK8GuNC34EkGl8MUStrd5eowxam3yAZcy2aQMVs3sVf0vuffb3tx84gxGO92qwBMFcoLJTPZ2wL7z7c9zvjzYhFWtWGQy_R-BXxcibjctDVndYBeXWLmRF90irz9Ck5aaqhVfDPItI6vdiWMZFkKk3D-zj4jXE8lM6HWHbDIBpyqSbICDZ4Koe2ub85z6cRVzsIUtZ0fDp9nTJE74akTLFs4HftRZVLFkH_wSsQaqkd5hR6H1ztnTS21qDZVR5V0--2nMScAiQDRjb-UwRg6k5jNkCGs5L1gbfLdLrYxLIVQvVVF_G048CWmpU6RD5wrP3E8QZYeB9-A5JUOEKGDnIvIQt-6OWI21oGZ7FoOrzn9C0-yQST126aOYvXYdc-mYVmUwFdXOUQw10GP-gMYn9yYA==",
  "salt": "6Kab_jrKmiEMd69xl8ruuw==",
- "text": "Tristan and Isolt form one of the best-known love stories of the Celtic world. Their tale has been retold in many forms across the centuries. In the usual version Tristan is a knight of Cornwall and Isolt is an Irish princess. The story weaves together love, betrayal, and a bond that cannot hold. A 6th-century stone near Fowey in Cornwall may tie the legend to history. The carving reads DRVSTANVS HIC IACIT CVNOMORI FILIVS, which some read as Drustanus, that is Tristan, lies here, son of Cunomorus. Cunomorus has been linked to King Mark. Frankish records name a King Cunomorus who ruled about the year 560. Modern writers have retold the tale in fresh forms. Thomas Hardy set one version at Tintagel in Cornwall. A. S. D. Smith wrote a long Cornish poem, Trystan hag Ysolt. Joseph Bedier gave the best-known modern version in 1945. Some accounts of the romance appear under the name Drystan ac Esyllt.",
+ "text": "Tristan and Isolt form one of the best-known love stories of the Celtic world. MacKillop lists his name forms as Tristan, Tristram, Tristrem, and Trystan. He is a Cornish knight and the lover of Iseult. His story grew attached to the court of King Arthur. A 6th-century stone near Fowey in Cornwall may tie the legend to history. The carving reads DRVSTANVS HIC IACIT CVNOMORI FILIVS. Some read it as Drustanus, that is Tristan, lies here, son of Cunomorus. Cunomorus has been linked to King Mark, and Frankish records name such a king ruling about the year 560. The stone stands some thirty miles south of Tintagel. The name has deeper roots still. The Welsh Triads of the twelfth century tie Drystan to a man named March. The name Drystan looks Pictish in origin. Drystan has also been joined to Drust, a shadowy Pictish king, dead by the year 780. The medieval story took shape fast. Marie de France wrote her lai of the honeysuckle about 1160. It shows the Tristan-Iseult union already formed, though not at Arthur's court. Thomas of Britain worked at about the same date. He set the lovers inside Arthurian matter in his Anglo-Norman verse Tristant. Most of that poem is lost. Three later texts fixed the tale as it has come down. Eilhart von Oberg wrote his Tristrant about 1175. Béroul wrote his Tristan about 1170. Gottfried von Strassburg wrote his Tristan about 1210. The plot runs as they give it. Tristan sails to Ireland to fetch Iseult home as bride for his uncle, King Mark. The girl has never seen the man she will marry. Her mother, hoping her daughter will find love, prepares a potion and trusts it to the nurse Brangwain. On the crossing the young people drink it by mistake. Their love is consummated at once. Intrigue follows intrigue, yet Iseult returns to Mark at last, and Tristan goes into exile. In Brittany he marries Iseult of the White Hands but does not sleep with her. Mortally wounded at the end, he waits for the true Iseult to arrive by ship. His jealous wife tells him the vessel carries no one, and he dies of despair. Much of the story's standing comes from its view of love. It carries the romantic-love ideals that the Provençal troubadours of the twelfth century first taught. The triangle has distant kin abroad, notably the old Arab tale of Kais and Lobna. The closest Celtic counterparts are the Pursuit tale of Diarmait and Gráinne and the Deirdre story. Modern writers have retold the tale in fresh forms. Thomas Hardy set one version at Tintagel. A. S. D. Smith wrote a long Cornish poem, Trystan hag Ysolt. Joseph Bedier gave the best-known modern version in 1945. Some accounts appear under the name Drystan ac Esyllt.",
  "okr": {
-  "objective": "Present Tristan as the hero of a pan-Celtic love story with a possible historical link.",
+  "objective": "Present Tristan as the hero of a pan-Celtic love story with deep name roots.",
   "key_results": [
-   "Tristan and Isolt form a best-known pan-Celtic love story.",
-   "Tristan is a Cornish knight and Isolt an Irish princess.",
-   "A 6th-century stone near Fowey may link the tale to a real figure.",
-   "Cunomorus has been linked to King Mark.",
-   "Modern retellings include works by Hardy, Smith, and Bedier."
+   "Trace the name to the Tristan Stone near Fowey and the Pictish Drust dead by 780",
+   "Give the three medieval shapers Eilhart, Béroul, and Gottfried and the Thomas of Britain frame",
+   "Tell the potion, the exile, and the death by despair through Iseult of the White Hands",
+   "Add the troubadour love ideal and the Kais and Lobna parallel"
   ],
-  "evidence": "Monaghan, The Encyclopedia of Celtic Mythology and Folklore (2008); Koch 2006, s.v. \"Tristan and Isolt\"."
+  "evidence": "Monaghan, The Encyclopedia of Celtic Mythology and Folklore (2008); Koch 2006, s.v. \"Tristan and Isolt\"; MacKillop 2008, s.v. 'Tristan'."
  }
 }

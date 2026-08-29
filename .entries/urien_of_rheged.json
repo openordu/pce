@@ -1,68 +1,109 @@
 {
-    "name": "Urien of Rheged",
-    "text": "Urien of Rheged was a British ruler of the sixth century. He led the northern Britons of a land called Hen Ogledd. He fought against the Anglo-Saxons during his reign. Early records treat him as the finest of those British kings. His home kingdom bore the name Rheged. His family formed the kindred called Cynferching. That lineage descends from the old ruler Coel Hen. The Historia Brittonum placed him among the kings of the Bernicia. He joined three named rulers in war. Rhydderch the Old, Gwallawg, and Morgan fought beside him. Urien trapped his foes on the island of Lindisfarne. He kept them there for three days and nights. Morgan slew him out of jealousy. Morgan envied Urien for his skill at renewing battle. The exact year of his death stays unclear. Some scholars link it to king Hussa. Others place the event close to the visit of a Kentish churchman. Old englynion mourn the fallen hero. They describe his severed head and headless body. The poems recount his battles. The fields of Gwen Ystrad and Argoed Llwyfain appear in them. A mighty foe there carried the title Fflamddwyn. The name means flame-bearer. The enemy was perhaps a benician overlord. The verse names Urien as lord of Catraeth. His lands may lie to the south of the Roman wall. The triads record that Urien fathered the boy Owain. Owain gained a twin sister called Morfudd. Their mother was the otherworldly woman Modron. Urial's murder ended among the three harsh assassinations.",
-    "okr": {
-        "objective": "Document the life and legend of the sixth-century British king Urien of Rheged.",
-        "key_results": [
-            "Enumerate his family, the Cynferching branch of the kindred of Coel.",
-            "Record his battles, his allies, and his death by the hand of Morgan.",
-            "Map his later literary image in Welsh verse and the triad tradition."
-        ],
-        "evidence": "Koch 2006 assembles this from the Historia Brittonum, the songs linked to Taliesin, and the Welsh triads."
-    },
-    "entities": [
-        {
-            "entity": "Urien of Rheged",
-            "type": "figure"
-        },
-        {
-            "entity": "Rheged",
-            "type": "place"
-        },
-        {
-            "entity": "Coel",
-            "type": "figure"
-        },
-        {
-            "entity": "Lindisfarne",
-            "type": "place"
-        },
-        {
-            "entity": "Morgan",
-            "type": "figure"
-        },
-        {
-            "entity": "Owain",
-            "type": "figure"
-        },
-        {
-            "entity": "Modrin",
-            "type": "figure"
-        }
-    ],
-    "attributes": [
-        {
-            "entity": "Urien of Rheged",
-            "attribute": "sixth century"
-        },
-        {
-            "entity": "Urien of Rheged",
-            "attribute": "northern Britain"
-        },
-        {
-            "entity": "Urien of Rheged",
-            "attribute": "Cynferching"
-        },
-        {
-            "entity": "Urien of Rheged",
-            "attribute": "king"
-        }
-    ],
-    "sources": [
-        "Koch 2006, s.v. \"Urien of Rheged\""
-    ],
-    "image": [],
-    "cyphertext": "",
-    "salt": "",
-    "order": 2292
+ "name": "Urien of Rheged",
+ "text": "Urien of Rheged was a British ruler of the sixth century. He led the northern Britons of a land called Hen Ogledd, in what is now Scotland. His home kingdom bore the name Rheged, and his speech was Welsh. He fought the Anglo-Saxons through his reign, and early records treat him as the finest of those British kings. His family formed the kindred called Cynferching, which descends from the old ruler Coel Hen. The Historia Brittonum placed him among the kings of the Bernicia. He joined three named rulers in war. Rhydderch the Old, Gwallawg, and Morgan fought beside him. Urien trapped his foes on the island of Lindisfarne and held them there for three days and nights. Morgan slew him out of jealousy, envying his skill at renewing battle. The exact year of his death stays unclear. Some scholars link it to king Hussa. Others place the event close to the visit of a Kentish churchman. The triads record that Urien fathered the boy Owain. Owain gained a twin sister called Morfudd. Their mother was the otherworldly woman Modron. The old englynion mourn the fallen hero. They describe his severed head and headless body, and recount his battles at Gwen Ystrad and Argoed Llwyfain. A mighty foe there carried the title Fflamddwyn, a name that means flame-bearer. That enemy was perhaps a Bernician overlord. The verse also names Urien as lord of Catraeth, and his lands may lie south of the Roman wall. His murder stands among the three harsh assassinations.\n\nLater imagination gave the king a second career. The poet Taliesin praised him around the years 550 to 600 and called him Urien Rheged. The Welsh Triads record his name, though never in any link with Arthur. Geoffrey of Monmouth made him king of Moray in northern Scotland in his Historia of 1136. The thirteenth-century French Claris et Laris credits him as father of Yvain and Marine. Romance often casts him in the role of Morgan le Fay's husband. Malory instead shows him dying in battle against Morgan's son Mordred.",
+ "okr": {
+  "objective": "Record Urien of Rheged as the sixth-century British king and his Arthurian afterlife.",
+  "key_results": [
+   "Preserves the Hen Ogledd war record, the Lindisfarne siege, and Morgan's murder",
+   "Keeps the englynion mourning and the battles of Gwen Ystrad and Argoed Llwyfain",
+   "Adds Taliesin's praise, the Triads, Geoffrey's Moray, and Malory's Mordred death"
+  ],
+  "evidence": "Koch 2006, s.v. \"Urien of Rheged\"."
+ },
+ "entities": [
+  {
+   "entity": "Urien of Rheged",
+   "type": "figure"
+  },
+  {
+   "entity": "Rheged",
+   "type": "place"
+  },
+  {
+   "entity": "Coel",
+   "type": "figure"
+  },
+  {
+   "entity": "Lindisfarne",
+   "type": "place"
+  },
+  {
+   "entity": "Morgan",
+   "type": "figure"
+  },
+  {
+   "entity": "Owain",
+   "type": "figure"
+  },
+  {
+   "entity": "Modrin",
+   "type": "figure"
+  },
+  {
+   "entity": "Taliesin",
+   "type": "figure"
+  },
+  {
+   "entity": "Morfudd",
+   "type": "figure"
+  },
+  {
+   "entity": "Morgan le Fay",
+   "type": "figure"
+  },
+  {
+   "entity": "Mordred",
+   "type": "figure"
+  },
+  {
+   "entity": "Geoffrey of Monmouth",
+   "type": "figure"
+  },
+  {
+   "entity": "Welsh Triads",
+   "type": "Text"
+  }
+ ],
+ "attributes": [
+  {
+   "entity": "Urien of Rheged",
+   "attribute": "sixth century"
+  },
+  {
+   "entity": "Urien of Rheged",
+   "attribute": "northern Britain"
+  },
+  {
+   "entity": "Urien of Rheged",
+   "attribute": "Cynferching"
+  },
+  {
+   "entity": "Urien of Rheged",
+   "attribute": "king"
+  },
+  {
+   "entity": "urien_of_rheged",
+   "attribute": "praised by Taliesin as Urien Rheged around 550-600"
+  },
+  {
+   "entity": "urien_of_rheged",
+   "attribute": "made king of Moray by Geoffrey of Monmouth"
+  },
+  {
+   "entity": "urien_of_rheged",
+   "attribute": "father of Yvain and Marine in Claris et Laris"
+  },
+  {
+   "entity": "urien_of_rheged",
+   "attribute": "dies fighting Mordred in Malory"
+  }
+ ],
+ "sources": [
+  "Koch 2006, s.v. \"Urien of Rheged\"",
+  "MacKillop 2008, s.v. 'Urien'"
+ ],
+ "image": [],
+ "cyphertext": "",
+ "salt": "",
+ "order": 2292
 }

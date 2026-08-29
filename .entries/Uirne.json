@@ -1,0 +1,70 @@
+{
+  "name": "Uirne",
+  "text": "Uirne is an aunt of Fionn mac Cumhaill in the Fenian record. Printed variants of her name include Tuirn, Tuireann, Tuirreann, and Tuiren. Through magical transformation she became the mother of his favourite hounds. The hounds are Bran and Sceolan. Some variant texts make her Fionn's sister rather than the sister of Muirenn Muncháem, Fionn's mother. The tales give her several different husbands. One husband, sometimes a second as well, loves her imperfectly. Lugaid Lága had given Fionn his promise of her good treatment. In the oldest versions that husband is Imchad, a prince of Dál nAraide in counties Antrim and Down. A jealous first wife transforms the pregnant Uirne into a she-dog. She gives birth to Bran and Sceolan in that shape. Later folk variants call her more likely by the name Tuim. There she marries Iollann, also called Iollann Éachtach, whose cast-off mistress was Uchtdealb. Again she bears Bran and Sceolan. Uirne then resumes human shape and weds Lugaid Lága. Reinhard and Hull printed a joint study of the hound twins in Speculum in 1936.",
+  "entities": [
+    {
+      "entity": "Uirne",
+      "type": "Person"
+    },
+    {
+      "entity": "Fionn mac Cumhaill",
+      "type": "hero"
+    },
+    {
+      "entity": "Bran",
+      "type": "Animal"
+    },
+    {
+      "entity": "Sceolan",
+      "type": "Being"
+    },
+    {
+      "entity": "Muirenn Muncháem",
+      "type": "Person"
+    },
+    {
+      "entity": "Lugaid Lága",
+      "type": "Person"
+    },
+    {
+      "entity": "Iollann",
+      "type": "Person"
+    },
+    {
+      "entity": "Uchtdealb",
+      "type": "Person"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Uirne",
+      "attribute": "aunt of Fionn mac Cumhaill, mother of the hounds Bran and Sceolan"
+    },
+    {
+      "entity": "Uirne",
+      "attribute": "transformed into a she-dog while pregnant by a jealous first wife"
+    },
+    {
+      "entity": "Uirne",
+      "attribute": "husbands include Imchad of Dál nAraide, Iollann Éachtach, and Lugaid Lága"
+    },
+    {
+      "entity": "Uirne",
+      "attribute": "variant texts call her Fionn's sister or use the name Tuim"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Uirne'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Uirne is an aunt of Fionn mac Cumhaill in the Fenian record",
+    "key_results": [
+      "aunt of Fionn turned hound-mother by magic",
+      "wife of Iollann Éachtach in the folk variants"
+    ],
+    "evidence": "MacKillop 2008, s.v. Uirne."
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "name": "Verbeia",
+  "text": "Verbeia is a Romano-British goddess of the River Wharfe, worshipped in Wharfedale, Yorkshire. Her name is compared with Old Irish ferb. At Ilkley in Yorkshire an altar survives that was set up in her honour. Near the altar a statue came to light which may depict her. That figure wears a pleated robe, has stylized features, and carries an over-large head. Each hand grips a large snake. A cow appears to belong to her as well. Wharfedale itself takes its name from the river she guards.",
+  "entities": [
+    {
+      "entity": "Verbeia",
+      "type": "Goddess"
+    },
+    {
+      "entity": "River Wharfe",
+      "type": "Place"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Verbeia",
+      "attribute": "Romano-British goddess of the River Wharfe in Wharfedale, Yorkshire"
+    },
+    {
+      "entity": "Verbeia",
+      "attribute": "altar at Ilkley; nearby statue with pleated robe, large head, and a snake in each hand"
+    },
+    {
+      "entity": "Verbeia",
+      "attribute": "appears to own a cow"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Verbeia'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Verbeia is a Romano-British goddess of the River Wharfe, worshipped in Wharfedale, Yorkshire",
+    "key_results": [
+      "river goddess of Wharfedale",
+      "altar and possible statue survive at Ilkley"
+    ],
+    "evidence": "MacKillop 2008, s.v. Verbeia."
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "name": "Women",
+  "text": "Women is a signpost entry splitting three ways in the dictionary. The bare head woman, women sends readers to the article on female warriors and champions. The Isle of Women sends readers to Emain Ablach. The Land of Women sends readers to Tir na mBan. Each target carries the fuller record for its own subject.",
+  "entities": [
+    {
+      "entity": "Women",
+      "type": "Group"
+    },
+    {
+      "entity": "warrior women",
+      "type": "group"
+    },
+    {
+      "entity": "Emain Ablach",
+      "type": "Place"
+    },
+    {
+      "entity": "Tir na mBan",
+      "type": "Place"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Women",
+      "attribute": "signpost entry covering the bare head, the Isle of Women, and the Land of Women"
+    },
+    {
+      "entity": "Women",
+      "attribute": "routes to female warriors and champions, Emain Ablach, and Tir na mBan"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Women'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Women is a signpost entry splitting three ways in the dictionary",
+    "key_results": [
+      "triple see-reference under one head",
+      "warriors, Emain Ablach, and Tir na mBan"
+    ],
+    "evidence": "MacKillop 2008, s.v. Women."
+  }
+}

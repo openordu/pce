@@ -1,0 +1,50 @@
+---
+layout: layouts/pce.njk
+title: Rhydderch
+icon: file-lines
+order: 3775
+contributors: [ 'Christopher Godwin' ]
+attributes:
+  - Rhydderch sixth-century Welsh king of Strathclyde (d. c.570)
+  - Rhydderch epithets Hen, old, and Hael, generous
+  - Rhydderch one of the three most generous men of Britain in the Triads
+  - Rhydderch identified with the latinized Rodarchus and Rederech
+categories:
+  - Place
+  - Person
+  - Text
+entities:
+  - Rhydderch(Person)
+  - Triads(Text)
+  - Myrddin(Person)
+  - Kentigern(Person)
+  - Strathclyde(Place)
+tags:
+  - Rhydderch
+  - Triads
+  - Myrddin
+  - Kentigern
+  - Strathclyde
+---
+``` tab [group1:Info]
+::: magazinestyle
+Rhydderch I (died about 570) was a sixth-century Welsh king who ruled Strathclyde in present Scotland. His name parses from rhi, ruler, and dyrch, perhaps exalted. Tradition gives him the epithets Hen, old, and Hael, generous. The Triads place him among Britain's three most generous men, next to Nudd Llaw Ereint and Mordaf, both his cousins. Early Myrddin stories attach to him again and again. He beat Gwenddolou fab Ceido at Arfdderydd around 573. Kentigern recovered the ring from the salmon for Rhydderch. The latinized figures Rodarchus and Rederech now stand for him. His fame rests on the Triad ranking and on the Myrddin link.
+
+:::
+```
+``` tab [group1:Attributes]
+- **Rhydderch**: sixth-century Welsh king of Strathclyde (d. c.570)
+- **Rhydderch**: epithets Hen, old, and Hael, generous
+- **Rhydderch**: one of the three most generous men of Britain in the Triads
+- **Rhydderch**: identified with the latinized Rodarchus and Rederech
+```
+``` tab [group1:Entities]
+- **Rhydderch**: Person
+- **Triads**: Text
+- **Myrddin**: Person
+- **Kentigern**: Person
+- **Strathclyde**: Place
+```
+``` tab [group1:Sources]
+- MacKillop 2008, s.v. 'Rhydderch'
+```

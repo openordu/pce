@@ -1,0 +1,42 @@
+{
+  "name": "Samera",
+  "text": "Samera is a figure of the tale Fled Bricrenn, the story of Briccriu's Feast. Within it she proposes one single combat to settle who wins the champion's portion. Her challenge belongs to the tale's running contest over that prize.",
+  "entities": [
+    {
+      "entity": "Samera",
+      "type": "Person"
+    },
+    {
+      "entity": "Briccriu",
+      "type": "Person"
+    },
+    {
+      "entity": "Fled Bricrenn",
+      "type": "Text"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Samera",
+      "attribute": "figure of Fled Bricrenn, Briccriu's Feast"
+    },
+    {
+      "entity": "Samera",
+      "attribute": "proposes a single combat for the champion's portion"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Samera'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Samera is a figure of the tale Fled Bricrenn, the story of Briccriu's Feast",
+    "key_results": [
+      "character of the Briccriu's Feast tale",
+      " proposer of a single combat for the champion's portion"
+    ],
+    "evidence": "MacKillop 2008, s.v. Samera."
+  }
+}

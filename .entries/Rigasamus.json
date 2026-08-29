@@ -1,0 +1,42 @@
+{
+  "name": "Rigasamus",
+  "text": "Rigasamus and Rigonemetis are printed as sometime epithets of the Gaulish Mars. Each form marks the god under a local title, and the two travel together in the record. The Mars node carries the fuller account.",
+  "entities": [
+    {
+      "entity": "Rigasamus",
+      "type": "Concept"
+    },
+    {
+      "entity": "Rigonemetis",
+      "type": "Concept"
+    },
+    {
+      "entity": "Mars",
+      "type": "Person"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Rigasamus",
+      "attribute": "sometime epithet of the Gaulish Mars"
+    },
+    {
+      "entity": "Rigasamus",
+      "attribute": "paired form Rigonemetis"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Rigasamus'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Rigasamus and Rigonemetis are printed as sometime epithets of the Gaulish Mars",
+    "key_results": [
+      "epithet of the Gaulish Mars",
+      "companion form Rigonemetis"
+    ],
+    "evidence": "MacKillop 2008, s.v. Rigasamus."
+  }
+}

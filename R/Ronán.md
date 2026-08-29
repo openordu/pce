@@ -2,7 +2,7 @@
 layout: layouts/pce.njk
 title: Ronán
 icon: file-lines
-order: 0
+order: 2239
 contributors: [ 'Christopher Godwin' ]
 attributes:
   - Ronán executed his son on a false charge
@@ -13,10 +13,18 @@ attributes:
   - Tara great central hill of the land
   - Ronán cursed and ruined Tara
   - Diarmait king of Tara who judged Ronán
+  - Ronán the name is a diminutive of the Irish word for seal
+  - Ronán no fewer than ten saints and several kings bore the name
+  - Ronán Rónán Finn of Magheralin, d. 664, curses Suibne and is kept on 22 May
+  - Ronán Ronan the Silent settled in Brittany, is kept at Locronan on 1 June
+  - Ronán Ernest Renan claimed him as patron in 1889
+  - Ronán father and patronym of the Fenian hero Caílte mac Rónáin
+  - Ronán sometimes confused with the saint Rúadán
 categories:
+  - person
+  - mythological figure
   - character
   - hero
-  - mythological figure
   - place
 entities:
   - Ronán(hero)
@@ -28,6 +36,10 @@ entities:
   - Tara(place)
   - Diarmait(character)
   - Phaedra(character)
+  - Máel Fothartaig(person)
+  - Locronan(place)
+  - Rumon(person)
+  - Rónán Finn(person)
 tags:
   - Ronán
   - Rónán
@@ -38,10 +50,14 @@ tags:
   - Tara
   - Diarmait
   - Phaedra
+  - Máel Fothartaig
+  - Locronan
+  - Rumon
+  - Rónán Finn
 ---
 ``` tab [group1:Info]
 ::: magazinestyle
-Ronán is an Irish hero. His story calls to mind the Greek tale of Phaedra. Ronán married a woman much younger than himself. That wife fell in love with her own stepson, a young man closer to her age. The youth refused her. She told Ronán that the boy had forced himself on her. Ronán put his own son to death for that lie. When the truth finally emerged, Ronán died of shock and sorrow, and his wife killed herself. MacKillop notes that the name Ronán is a diminutive of the Irish word for seal. It ranks as a popular early Irish name, shared by many saints and several kings. A famous Rónán ruled as king of Leinster about the year 600. That king killed his own son over a false charge, a deed told in the old tale of Fingal. Another Rónán was a saint who cursed Suibne in the story of the Frenzy of Sweeney. The saint's feast day falls on 22 May. A third Rónán kept a tame pet wolf, long before the time of Francis of Assisi. That anchorite settled in Brittany, where the town of Locronan keeps his memory. His kindness drew the name of a patron for the Breton scholar Ernest Renan in 1801. Some confuse this Rónán with the shadowy saint Rumon of Britain. The Fenian hero Caílte Mac Rónáin takes his patronym from a Rónán as well. A separate Ronán, styled Rodan and Ruadan, stands behind the ruin of Tara. That Ronán cursed Tara and its king Diarmait after the king condemned him for sheltering a man accused of murder. From that time Tara never again held the might it knew in the old Celtic age.
+Ronán is an early Irish name. The Irish form Rónán builds on a diminutive of the word for seal. No fewer than ten saints and several kings bore it. The best known is the legendary Rónán, king of Leinster, who died in 624. That king killed his own son Máel Fothartaig. The deed is told in the tale Fingal Ronán, How Rónán Slew His Son. The story calls to mind the Greek tale of Phaedra. Ronán had married a woman much younger than himself. She fell in love with her own stepson, a youth nearer her own age. He refused her. She told Ronán that the boy had forced himself on her. Ronán put his son to death for that lie. When the truth emerged he died of shock and sorrow, and his wife killed herself. A second bearer is St Rónán Finn of Magheralin, who died in 664. He is the saint who curses Suibne in the tale of the frenzy of Sweeney. His feast day falls on 22 May. A third Rónán, often called Ronan the Silent, was an anchorite who settled in Brittany. He worked there as a Christian evangelist, known for charity and patience. Stories give him a tame pet wolf long before the time of Francis of Assisi. Commentators have mixed him up with the shadowier St Rumon of sixth-century Britain, once accused of being a werewolf. The official calendar of saints does not hold him. Even so, 1 June keeps his memory. The Breton town of Locronan preserves his name. In 1889 the Breton-born scholar Ernest Renan claimed him as patron. A fourth Rónán is the father and patronym of the Fenian hero Caílte mac Rónáin. A fifth point of confusion ties him to the saint Rúadán, the figure who stands behind the fall of Tara.
 
 :::
 ```
@@ -54,6 +70,13 @@ Ronán is an Irish hero. His story calls to mind the Greek tale of Phaedra. Ron�
 - **Tara**: great central hill of the land
 - **Ronán**: cursed and ruined Tara
 - **Diarmait**: king of Tara who judged Ronán
+- **Ronán**: the name is a diminutive of the Irish word for seal
+- **Ronán**: no fewer than ten saints and several kings bore the name
+- **Ronán**: Rónán Finn of Magheralin, d. 664, curses Suibne and is kept on 22 May
+- **Ronán**: Ronan the Silent settled in Brittany, is kept at Locronan on 1 June
+- **Ronán**: Ernest Renan claimed him as patron in 1889
+- **Ronán**: father and patronym of the Fenian hero Caílte mac Rónáin
+- **Ronán**: sometimes confused with the saint Rúadán
 ```
 ``` tab [group1:Entities]
 - **Ronán**: hero
@@ -65,6 +88,10 @@ Ronán is an Irish hero. His story calls to mind the Greek tale of Phaedra. Ron�
 - **Tara**: place
 - **Diarmait**: character
 - **Phaedra**: character
+- **Máel Fothartaig**: person
+- **Locronan**: place
+- **Rumon**: person
+- **Rónán Finn**: person
 ```
 ``` tab [group1:Sources]
 - Cross, Tom Peete, and Clark Harris Slover, eds. Ancient Irish Tales. (New York: Henry Holt and Co., 1936), 538.

@@ -1,0 +1,46 @@
+{
+  "name": "Poor Old Woman",
+  "text": "Poor Old Woman is the English rendering of the Irish names Sean-bhean Bhocht and Shan Van Vocht. All three titles personify Ireland herself. The figure stands for the country in song and story. The Shan Van Vocht node keeps its own record.",
+  "entities": [
+    {
+      "entity": "Poor Old Woman",
+      "type": "Concept"
+    },
+    {
+      "entity": "Sean-bhean Bhocht",
+      "type": "Concept"
+    },
+    {
+      "entity": "Shan Van Vocht",
+      "type": "Concept"
+    },
+    {
+      "entity": "Ireland",
+      "type": "Place"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Poor Old Woman",
+      "attribute": "English rendering of Sean-bhean Bhocht and Shan Van Vocht"
+    },
+    {
+      "entity": "Poor Old Woman",
+      "attribute": "personification of Ireland"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Poor Old Woman'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Poor Old Woman is the English rendering of the Irish names Sean-bhean Bhocht and Shan Van Vocht",
+    "key_results": [
+      "English rendering of Sean-bhean Bhocht and Shan Van Vocht",
+      "personifies Ireland"
+    ],
+    "evidence": "MacKillop 2008, s.v. Poor Old Woman."
+  }
+}

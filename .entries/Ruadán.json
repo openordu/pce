@@ -1,55 +1,95 @@
 {
-  "name": "Ruadán",
-  "attributes": [
-    {
-      "entity": "Ruadán",
-      "attribute": "was the cause of the desolation of Tara"
-    },
-    {
-      "entity": "Diarmait",
-      "attribute": "was king of Tara"
-    },
-    {
-      "entity": "Diarmait",
-      "attribute": "condemned Ruadán for hiding a relative accused of murder"
-    },
-    {
-      "entity": "Ronán",
-      "attribute": "cursed the king and Tara"
-    }
-  ],
-  "entities": [
-    {
-      "entity": "Ruadán",
-      "type": "hero"
-    },
-    {
-      "entity": "Tara",
-      "type": "place"
-    },
-    {
-      "entity": "Diarmait",
-      "type": "person"
-    },
-    {
-      "entity": "Ronán",
-      "type": "person"
-    }
-  ],
-  "sources": [
-    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-  ],
-  "cyphertext": "YwgeIiGZ7juCiHUtiNeX4ydSLul6Dm3OnJCk6C05N7Z3LENFZyGvhCHzemogCCQOXQ8UOiZuKhyu2oQNC1hHkSE4d0uM_RZwFgwJLtQMyBBCgYcVOxBZ07CKw07gIBAu0FLC1l1ds4WrPgtG3d3vd0_CFHKNoKIHi30buwpIQaZ_4nZUzmqkweHUJSe6Hx2kO5eXIWzq8d2cYFS9dzSkpFm0UmSQf9v31_oIX7wNSvss7eoljiTkuv68Wg1ykBtOjTokcWl7G-NG18CmyvIj9gOFRkHUVMHlR8nBhWlccaW3XJN3-Nt7lz2gCGVeNO6AYlvH2OlQ8bsam4ioKhV6vBLvA8LV-Iq9UqYz35eRvo5hxDRWJf868psqVoTmkmnRlt4nVIzQwDbmv1XuzFXStKVjWNnJ9dvFayvD0W4a_y-veaGjbAcBLszkeNAZPHvrHoKku2OVT3fIt8wGrZr53VlC5w1MCGPeaIxjJawl4_ECqkKeZe3P81PpNi8Nwhj4CTIFAhAWL8ew0mNraOcQE6ZUrsIlKLxyjYhyEpjEm7ijRYG1lEk2U26DTt3kfzL5PmQIi57VAPvXCjKATVtLa9uXihWeXqj06T52deWsiiZc8SJ-LtwPEdjkMtsmTJMR8Aff0lYfWIKlVF_3iCO5IoSEaN7IwraZVbXvYW5EXQwiOhe0R5kPxBkkkMITibt9kwKENb1enqBT",
-  "salt": "j3DwouoOjPzR8ejUifCdBg==",
-  "text": "In Irish legend the hero Ruadán brought about the fall of Tara. The account ties that ruin of the great central hill to him, long the chief seat of politics and belief in the land. Tara's king Diarmait condemned him for sheltering a relative who faced a murder charge. In reply, Ronán laid a curse on the king and on Tara itself. From that time on, Tara never again held the strength it had in Celtic times.",
-  "okr": {
-    "objective": "Present Ruadán and the curse that dimmed the power of Tara.",
-    "key_results": [
-      "Ruadán was the cause of Tara's desolation.",
-      "Tara was the old political and spiritual capital.",
-      "King Diarmait condemned him for hiding a murder suspect.",
-      "Ronán's curse lessened Tara's strength from then on."
-    ],
-    "evidence": "Monaghan, Encyclopedia of Celtic Mythology and Folklore"
+ "name": "Ruadán",
+ "attributes": [
+  {
+   "entity": "Ruadán",
+   "attribute": "was the cause of the desolation of Tara"
+  },
+  {
+   "entity": "Diarmait",
+   "attribute": "was king of Tara"
+  },
+  {
+   "entity": "Diarmait",
+   "attribute": "condemned Ruadán for hiding a relative accused of murder"
+  },
+  {
+   "entity": "Ronán",
+   "attribute": "cursed the king and Tara"
+  },
+  {
+   "entity": "Ruadán",
+   "attribute": "a sixth-century saint whose feast falls on 15 April"
+  },
+  {
+   "entity": "Ruadán",
+   "attribute": "said to have founded the monastery of Lothra in Tipperary"
+  },
+  {
+   "entity": "Ruadán",
+   "attribute": "cursed Tara after Diarmait mac Cerbaill insulted him in a Church-State quarrel"
+  },
+  {
+   "entity": "Ruadán",
+   "attribute": "his Latin life is now judged unreliable"
+  },
+  {
+   "entity": "Ruadán",
+   "attribute": "in myth the son of Bres and Brigit, slain by Goibniu"
+  },
+  {
+   "entity": "Ruadán",
+   "attribute": "his mother's lament was the first keening Ireland ever heard"
   }
+ ],
+ "entities": [
+  {
+   "entity": "Ruadán",
+   "type": "hero"
+  },
+  {
+   "entity": "Tara",
+   "type": "place"
+  },
+  {
+   "entity": "Diarmait",
+   "type": "person"
+  },
+  {
+   "entity": "Ronán",
+   "type": "person"
+  },
+  {
+   "entity": "Lothra",
+   "type": "place"
+  },
+  {
+   "entity": "Goibniu",
+   "type": "person"
+  },
+  {
+   "entity": "Bres",
+   "type": "person"
+  },
+  {
+   "entity": "Brigit",
+   "type": "person"
+  }
+ ],
+ "sources": [
+  "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.",
+  "MacKillop 2008, s.v. 'Rúadán'"
+ ],
+ "cyphertext": "YwgeIiGZ7juCiHUtiNeX4ydSLul6Dm3OnJCk6C05N7Z3LENFZyGvhCHzemogCCQOXQ8UOiZuKhyu2oQNC1hHkSE4d0uM_RZwFgwJLtQMyBBCgYcVOxBZ07CKw07gIBAu0FLC1l1ds4WrPgtG3d3vd0_CFHKNoKIHi30buwpIQaZ_4nZUzmqkweHUJSe6Hx2kO5eXIWzq8d2cYFS9dzSkpFm0UmSQf9v31_oIX7wNSvss7eoljiTkuv68Wg1ykBtOjTokcWl7G-NG18CmyvIj9gOFRkHUVMHlR8nBhWlccaW3XJN3-Nt7lz2gCGVeNO6AYlvH2OlQ8bsam4ioKhV6vBLvA8LV-Iq9UqYz35eRvo5hxDRWJf868psqVoTmkmnRlt4nVIzQwDbmv1XuzFXStKVjWNnJ9dvFayvD0W4a_y-veaGjbAcBLszkeNAZPHvrHoKku2OVT3fIt8wGrZr53VlC5w1MCGPeaIxjJawl4_ECqkKeZe3P81PpNi8Nwhj4CTIFAhAWL8ew0mNraOcQE6ZUrsIlKLxyjYhyEpjEm7ijRYG1lEk2U26DTt3kfzL5PmQIi57VAPvXCjKATVtLa9uXihWeXqj06T52deWsiiZc8SJ-LtwPEdjkMtsmTJMR8Aff0lYfWIKlVF_3iCO5IoSEaN7IwraZVbXvYW5EXQwiOhe0R5kPxBkkkMITibt9kwKENb1enqBT",
+ "salt": "j3DwouoOjPzR8ejUifCdBg==",
+ "text": "Ruadán is a double figure who carries one name into history and into myth. The historical side is a sixth-century saint credited with a curse on Tara. His feast falls on 15 April, yet his historicity is thin. A Latin life written centuries after his time now reads as unreliable. Many writers call him a fanciful saint. He was said to be born in Leinster. There he founded the monastery of Lothra. That site lies inside modern Tipperary. The story of his curse was invented by later churchmen. In it the king Diarmait mac Cerbaill insulted him during a quarrel between Church and State. Diarmait was the last king to hold the pagan feast of Tara. Ruadán answered with his curse. Soon after, a roof-beam struck the king down, and Tara fell out of use. The tale does not stand against the record. Tara kept hosting the crowning of the high king and an annual fair for long after. An older Monaghan account gives the quarrel another face. In it Diarmait condemned Ruadán for sheltering a kinsman who faced a murder charge. The curse followed, and Tara never regained its old strength. The mythic side of the name is very different. Rúadán is the son of Bres and of Brigit, who bore that name in the form Bríg. He attacked Goibniu the smith-god and failed. Goibniu struck him dead in revenge. His mother wailed over him with the first keening Ireland ever heard. Writers connect that killing to the Welsh tale of the smith Gofannon slaying his nephew Dylan.",
+ "okr": {
+  "objective": "Present both faces of Ruadán: the saint of the Tara curse and the slain son of Bres.",
+  "key_results": [
+   "Record the curse of Tara, the quarrel with Diarmait mac Cerbaill, and the 15 April feast",
+   "Note the shaky historicity and the unreliable Latin life",
+   "Tell the mythic son of Bres and Brigit slain by Goibniu, mourned with the first keening"
+  ],
+  "evidence": "MacKillop 2008, s.v. 'Rúadán'."
+ }
 }

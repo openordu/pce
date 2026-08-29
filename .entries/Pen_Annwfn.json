@@ -1,0 +1,51 @@
+{
+  "name": "Pen Annwfn",
+  "text": "Pen Annwfn names a title Pwyll earns by honouring his pact with Arawn. The phrase means head of Annwfn. Arawn rules the Welsh otherworld, and Pwyll serves him in his shape for one year. The story opens the Mabinogi's first branch. Winning the title proves Pwyll kept every term of the pact. The form Pen Annwfii appears in some editions, and readers meet the same reward under that spelling.",
+  "entities": [
+    {
+      "entity": "Pen Annwfn",
+      "type": "Concept"
+    },
+    {
+      "entity": "Pwyll",
+      "type": "Person"
+    },
+    {
+      "entity": "Arawn",
+      "type": "Person"
+    },
+    {
+      "entity": "Annwfn",
+      "type": "Place"
+    },
+    {
+      "entity": "Mabinogi",
+      "type": "Text"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Pen Annwfn",
+      "attribute": "title won by Pwyll in the first branch of the Mabinogi"
+    },
+    {
+      "entity": "Pen Annwfn",
+      "attribute": "Welsh phrase meaning head of Annwfn"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Pen Annwfn'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Pen Annwfn names a title Pwyll earns by honouring his pact with Arawn",
+    "key_results": [
+      "Pwyll wins the title by keeping his agreement with Arawn",
+      "the story belongs to the Mabinogi's first branch",
+      "the phrase translates as head of Annwfn"
+    ],
+    "evidence": "MacKillop 2008, s.v. Pen Annwfn."
+  }
+}

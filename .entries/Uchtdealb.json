@@ -1,0 +1,54 @@
+{
+  "name": "Uchtdealb",
+  "text": "Uchtdealb is the rejected mistress of Iollan Eachtach. Her name means an empty, mean-spirited breast. She transforms Uime, an aunt of Fionn, into a dog. The Uirne record prints her again as the cast-off mistress of Iollann Éachtach. In that variant the transformed aunt bears the hounds Bran and Sceolan.",
+  "entities": [
+    {
+      "entity": "Uchtdealb",
+      "type": "Person"
+    },
+    {
+      "entity": "Iollann",
+      "type": "Person"
+    },
+    {
+      "entity": "Fionn mac Cumhaill",
+      "type": "hero"
+    },
+    {
+      "entity": "Bran",
+      "type": "Animal"
+    },
+    {
+      "entity": "Sceolan",
+      "type": "Being"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Uchtdealb",
+      "attribute": "rejected mistress of Iollan Eachtach"
+    },
+    {
+      "entity": "Uchtdealb",
+      "attribute": "name means an empty, mean-spirited breast"
+    },
+    {
+      "entity": "Uchtdealb",
+      "attribute": "transforms Uime, an aunt of Fionn, into a dog"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Uchtdealb'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Uchtdealb is the rejected mistress of Iollan Eachtach",
+    "key_results": [
+      "jealous rival of the transformed aunt figure",
+      "her spite produces the hound birth of the Fenian hounds"
+    ],
+    "evidence": "MacKillop 2008, s.v. Uchtdealb."
+  }
+}

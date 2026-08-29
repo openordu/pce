@@ -1,0 +1,59 @@
+{
+  "name": "Rheged",
+  "text": "Rheged was a Welsh-speaking kingdom of the fifth to seventh centuries in what is today southern Scotland. Its king Urien drew high praise from the poet Taliesin. The realm centred on the Eden valley around modern Carlisle, yet no account fixes its exact borders or size. Its influence reached Strathclyde in the north and Gododdin in the east, and ran south into present Lancashire and Yorkshire. In earlier times the Novantae held this same territory.",
+  "entities": [
+    {
+      "entity": "Rheged",
+      "type": "Place"
+    },
+    {
+      "entity": "Urien of Rheged",
+      "type": "Person"
+    },
+    {
+      "entity": "Taliesin",
+      "type": "Person"
+    },
+    {
+      "entity": "Gododdin",
+      "type": "Place"
+    },
+    {
+      "entity": "Strathclyde",
+      "type": "Place"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Rheged",
+      "attribute": "Welsh-speaking kingdom of the 5th-7th centuries"
+    },
+    {
+      "entity": "Rheged",
+      "attribute": "centred on the Eden valley around modern Carlisle"
+    },
+    {
+      "entity": "Rheged",
+      "attribute": "influence reached Strathclyde, Gododdin, Lancashire, and Yorkshire"
+    },
+    {
+      "entity": "Rheged",
+      "attribute": "earlier territory of the Novantae"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Rheged'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Rheged was a Welsh-speaking kingdom of the fifth to seventh centuries in what is today southern Scotland",
+    "key_results": [
+      "kingdom of the fifth to seventh centuries in today southern Scotland",
+      "Eden-valley centre around modern Carlisle, borders unknown",
+      "king Urien praised by Taliesin"
+    ],
+    "evidence": "MacKillop 2008, s.v. Rheged."
+  }
+}

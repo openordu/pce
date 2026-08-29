@@ -1,61 +1,112 @@
 {
-  "name": "Sirona",
-  "attributes": [
-    {
-      "entity": "Sirona",
-      "attribute": "Continental Celtic healing goddess"
-    },
-    {
-      "entity": "Sirona",
-      "attribute": "depicted with a serpent and an egg"
-    },
-    {
-      "entity": "Apollo",
-      "attribute": "Celtic god with whom Sirona was often linked"
-    },
-    {
-      "entity": "Matronae",
-      "attribute": "mother-goddesses set beside Sirona"
-    }
-  ],
-  "entities": [
-    {
-      "entity": "Sirona",
-      "type": "Goddess"
-    },
-    {
-      "entity": "Dirona",
-      "type": "Name"
-    },
-    {
-      "entity": "Apollo",
-      "type": "God"
-    },
-    {
-      "entity": "Hochscheid",
-      "type": "Place"
-    },
-    {
-      "entity": "Matronae",
-      "type": "Group"
-    }
-  ],
-  "sources": [
-    "Green, Miranda. Symbol and Image in Celtic Religious Art. London: Routledge, 1989, 43.",
-    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-  ],
-  "image": [
-    "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Autel_%C3%A0_Sirona_-_Mus%C3%A9e_d%27Aquitaine_-_60.1.19.JPG/1200px-Autel_%C3%A0_Sirona_-_Mus%C3%A9e_d%27Aquitaine_-_60.1.19.JPG"
-  ],
-  "cyphertext": "JUq4d2pPL8DJ_taHvjTUbhDNy1OllNEoEVhkmfMDJ20PAAuhlhG3LF_hPfj_ttAjlheMUo-99-lUyg931yc189GPh1M3UlLiDga8kOCalWGt6fYM7-tCz5tl5liO0pNj6FWxDir-SwIQ7RfvURPjo1Nfr4x9yIlpLw06lEfljuur6CNO0cXLW2YScJ4x1Fx3ynnPnZABLrnee8563PuU8vLjMjNhfuAHicCoG0-DrcYQp1arBRoyb6lU8YhMG5_K7YbrUiYgCz-z2c6IFxJcl8LUVBHuwLzGYRjEjBYoEfK4vij0B-nL8qkJiPy6jR1l2eUwzU3nBysG7IbeAN_OPTltKu1kGSezytE-YtEiMN_mU9zMphP-jZ5dAI2GHb_zaVEutzNP1lyPrYNtshgVCLs8d1r2GGJ4UCfaNq1QX8h-aRMm5-xbEeW5heuvUVCryMGArb1osDeNuQ4GaQv1pGQSpJVDdDHP7-jyp8UJS5JaFSkEs6ybSKB4U9Ja_7mbpENJqlZ-DZhE3m1wHed7fcA6eFnynIkXlxGmFMkQpb2Z5Thx-q3ylYS9G1vqafAJ2rNEu_uPdvVwKgmQZrsP8xCJGl-yGwcXJ-dIhIhcMBZflU8JhhlMFvInld6UeglJzApMZ0Wh-YkZAzsguU5bjmQHuMnV5AAHB5jDxbROPQyslvP3fwI=",
-  "salt": "0BgcEO1yfh1GRIUi_Zct8g==",
-  "text": "Sirona is a Continental Celtic goddess. Her name has been read as the word for star. It appears also as Dirona, and possibly as Tsirona. Many inscriptions in France and in other Celtic lands call on her as a healing goddess. She was often connected with the Celtic Apollo, yet she also stood alone. Her images show a serpent and an egg, which are signs of rebirth and of fertility. A shrine at Hochscheid was raised for her cult. Koch links her with Apollo Grunnus, and he sets her beside the mother-goddesses who are called the Matronae. Her name may tie to the female calf, Damona. The many inscriptions and statues show a goddess who kept her own worship even as she stood beside the risen god. She held the healing of the body and the promise of the year., and the stones that name her keep that power.",
-  "okr": {
-    "objective": "Replace the machine text for Sirona with a fresh CSG-SME1000 rewrite sourced from Monaghan and Koch.",
-    "key_results": [
-      "text holds a fresh CSG-SME1000 rewrite, not a copy of the machine prose",
-      "entities and attributes corrected and enriched for the kgraph"
-    ],
-    "evidence": "Monaghan 2003 (Sirona); Koch 2006 (29 inscriptions, Apollo Grannus, Hochscheid shrine, Matronae)."
+ "name": "Sirona",
+ "attributes": [
+  {
+   "entity": "Sirona",
+   "attribute": "Continental Celtic healing goddess"
+  },
+  {
+   "entity": "Sirona",
+   "attribute": "depicted with a serpent and an egg"
+  },
+  {
+   "entity": "Apollo",
+   "attribute": "Celtic god with whom Sirona was often linked"
+  },
+  {
+   "entity": "Matronae",
+   "attribute": "mother-goddesses set beside Sirona"
+  },
+  {
+   "entity": "Sirona",
+   "attribute": "her name has been read as divine star"
+  },
+  {
+   "entity": "Sirona",
+   "attribute": "goddess of healing springs with a cult from Hungary to Brittany"
+  },
+  {
+   "entity": "Sirona",
+   "attribute": "shown seated beside Apollo Grannus with a dog in her lap"
+  },
+  {
+   "entity": "Sirona",
+   "attribute": "carries three eggs and a snake coils about her arm"
+  },
+  {
+   "entity": "Sirona",
+   "attribute": "the Treveri shrine at Hochscheid yielded many objects of her worship"
+  },
+  {
+   "entity": "Sirona",
+   "attribute": "held identical with Divona and Dirona elsewhere"
+  },
+  {
+   "entity": "Sirona",
+   "attribute": "her cult was displaced by Borvo across much of the Celtic world"
   }
+ ],
+ "entities": [
+  {
+   "entity": "Sirona",
+   "type": "Goddess"
+  },
+  {
+   "entity": "Dirona",
+   "type": "Name"
+  },
+  {
+   "entity": "Apollo",
+   "type": "God"
+  },
+  {
+   "entity": "Hochscheid",
+   "type": "Place"
+  },
+  {
+   "entity": "Matronae",
+   "type": "Group"
+  },
+  {
+   "entity": "Apollo Grannus",
+   "type": "God"
+  },
+  {
+   "entity": "Borvo",
+   "type": "God"
+  },
+  {
+   "entity": "Divona",
+   "type": "Goddess"
+  },
+  {
+   "entity": "Dirona",
+   "type": "Goddess"
+  },
+  {
+   "entity": "Treveri",
+   "type": "Group"
+  }
+ ],
+ "sources": [
+  "Green, Miranda. Symbol and Image in Celtic Religious Art. London: Routledge, 1989, 43.",
+  "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.",
+  "MacKillop 2008, s.v. 'Sirona'"
+ ],
+ "image": [
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Autel_%C3%A0_Sirona_-_Mus%C3%A9e_d%27Aquitaine_-_60.1.19.JPG/1200px-Autel_%C3%A0_Sirona_-_Mus%C3%A9e_d%27Aquitaine_-_60.1.19.JPG"
+ ],
+ "cyphertext": "JUq4d2pPL8DJ_taHvjTUbhDNy1OllNEoEVhkmfMDJ20PAAuhlhG3LF_hPfj_ttAjlheMUo-99-lUyg931yc189GPh1M3UlLiDga8kOCalWGt6fYM7-tCz5tl5liO0pNj6FWxDir-SwIQ7RfvURPjo1Nfr4x9yIlpLw06lEfljuur6CNO0cXLW2YScJ4x1Fx3ynnPnZABLrnee8563PuU8vLjMjNhfuAHicCoG0-DrcYQp1arBRoyb6lU8YhMG5_K7YbrUiYgCz-z2c6IFxJcl8LUVBHuwLzGYRjEjBYoEfK4vij0B-nL8qkJiPy6jR1l2eUwzU3nBysG7IbeAN_OPTltKu1kGSezytE-YtEiMN_mU9zMphP-jZ5dAI2GHb_zaVEutzNP1lyPrYNtshgVCLs8d1r2GGJ4UCfaNq1QX8h-aRMm5-xbEeW5heuvUVCryMGArb1osDeNuQ4GaQv1pGQSpJVDdDHP7-jyp8UJS5JaFSkEs6ybSKB4U9Ja_7mbpENJqlZ-DZhE3m1wHed7fcA6eFnynIkXlxGmFMkQpb2Z5Thx-q3ylYS9G1vqafAJ2rNEu_uPdvVwKgmQZrsP8xCJGl-yGwcXJ-dIhIhcMBZflU8JhhlMFvInld6UeglJzApMZ0Wh-YkZAzsguU5bjmQHuMnV5AAHB5jDxbROPQyslvP3fwI=",
+ "salt": "0BgcEO1yfh1GRIUi_Zct8g==",
+ "text": "Sirona is a Gaulish goddess of healing springs. Records of her cult run from Hungary to Brittany. Her name has been read as divine star. Her statues show her alone or beside Apollo Grannus. She must therefore have stood as a goddess of fertility and healing from pre-Roman times. She outlived the fusion of Gaulish and Latin cults. In the Moselle valley the Treveri people took special interest in her worship. Their lands held the rich healing shrine dug up at Hochscheid, between Mainz and Trier. That dig yielded many objects of her cult. There she sits in a maternal pose next to Apollo, a dog resting in her lap. A diadem on her head marks high rank. She carries three eggs, a plain fertility sign. A snake coils about her arm, its head turned toward the eggs. At Sainte-Fontaine near Freyming her figure holds edible grains and fruits. At Mainz her gift is grapes. At Mâlain in the Côte d'Or the snake again coils on her right arm. Germany yields shrines at Niedaltdorf, Bitburg, and Wiesbaden. France yields Metz, Luxeuil, and Corseul in Brittany. Writers hold her identical with the goddess called Divona and Dirona elsewhere. Her cult was pushed aside by Borvo across much of the Celtic world.",
+ "okr": {
+  "objective": "Present Sirona, the Gaulish healing goddess of the springs.",
+  "key_results": [
+   "Record the divine star reading of her name and her cult's spread",
+   "Describe the Hochscheid figure with dog, eggs, and snake",
+   "Name the shrine sites from Hungary to Brittany",
+   "Record her identifications with Divona and Dirona and her displacement by Borvo"
+  ],
+  "evidence": "MacKillop 2008, s.v. 'Sirona'."
+ }
 }

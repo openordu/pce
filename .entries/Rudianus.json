@@ -1,38 +1,51 @@
 {
-  "name": "Rudianus",
-  "attributes": [
-    {
-      "entity": "Rudianus",
-      "attribute": "an obscure Continental Celtic god in France"
-    },
-    {
-      "entity": "Rudianus",
-      "attribute": "identified by Romans with the warrior Mars"
-    }
-  ],
-  "entities": [
-    {
-      "entity": "Rudianus",
-      "type": "god"
-    },
-    {
-      "entity": "Mars",
-      "type": "god"
-    }
-  ],
-  "sources": [
-    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-  ],
-  "cyphertext": "zAb_bcaslTqCbzgZG1lNDoCKVJhLVQX8cVwA7QeD4-a_oAbnNwaQx7e-Na5NKq-3bbHSkD5xJ0ZNgR-qHdX909e4XEE--tsSUlhJP9bopzKczlwYVSMLgzEUVQR4puKwOH-S3ttpv8vLScXeklrxzFaDuWaoHssKxOQyOgq0aTBI9KJr8eID1pKqsopQSJxTRQ-hreFvA7AUMVkWElhQoVL2oK1BCmueI0IjdPDFj4AgWRqagf6jk-jm13VXERPsY7r07WNjUDb58EAsfwQ=",
-  "salt": "J-E20K-Jg_qw3aspQ4-ppw==",
-  "text": "Rudianus is a Continental Celtic god. He is a dim figure known only from a few stones in France that called on his help. Romans linked him with their warrior god Mars.",
-  "okr": {
-    "objective": "Present Rudianus as an obscure Continental Celtic god linked to Mars.",
-    "key_results": [
-      "He is known only from a few inscriptions in France.",
-      "The inscriptions asked for his help.",
-      "Romans saw him as their warrior god Mars."
-    ],
-    "evidence": "Monaghan, Encyclopedia of Celtic Mythology and Folklore"
+ "name": "Rudianus",
+ "attributes": [
+  {
+   "entity": "Rudianus",
+   "attribute": "an obscure Continental Celtic god in France"
+  },
+  {
+   "entity": "Rudianus",
+   "attribute": "identified by Romans with the warrior Mars"
+  },
+  {
+   "entity": "Rudianus",
+   "attribute": "his name is invoked at three places in southern France"
+  },
+  {
+   "entity": "Rudianus",
+   "attribute": "the stone of Saint-Michel-de-Valbonne shows a horseman carrying five severed heads"
   }
+ ],
+ "entities": [
+  {
+   "entity": "Rudianus",
+   "type": "god"
+  },
+  {
+   "entity": "Mars",
+   "type": "god"
+  },
+  {
+   "entity": "Saint-Michel-de-Valbonne",
+   "type": "place"
+  }
+ ],
+ "sources": [
+  "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.",
+  "MacKillop 2008, s.v. 'Rudianus'"
+ ],
+ "cyphertext": "zAb_bcaslTqCbzgZG1lNDoCKVJhLVQX8cVwA7QeD4-a_oAbnNwaQx7e-Na5NKq-3bbHSkD5xJ0ZNgR-qHdX909e4XEE--tsSUlhJP9bopzKczlwYVSMLgzEUVQR4puKwOH-S3ttpv8vLScXeklrxzFaDuWaoHssKxOQyOgq0aTBI9KJr8eID1pKqsopQSJxTRQ-hreFvA7AUMVkWElhQoVL2oK1BCmueI0IjdPDFj4AgWRqagf6jk-jm13VXERPsY7r07WNjUDb58EAsfwQ=",
+ "salt": "J-E20K-Jg_qw3aspQ4-ppw==",
+ "text": "Rudianus is a Continental Celtic god of war. He is a dim figure known only from a few stones in France that called on his help. Romans linked him with their warrior god Mars. His name appears at three places in southern France. At Saint-Michel-de-Valbonne a stone cuts the figure of a horseman. He rides with five severed heads. That image fits a war-god of grim repute.",
+ "okr": {
+  "objective": "Present Rudianus as a shadowy war-god of southern Gaul.",
+  "key_results": [
+   "Count the three places in southern France that invoke him",
+   "Record the horseman with five severed heads at Saint-Michel-de-Valbonne",
+   "State his equation with Mars"
+  ],
+  "evidence": "MacKillop 2008, s.v. 'Rudianus'."
+ }
 }

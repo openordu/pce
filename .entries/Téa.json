@@ -4,6 +4,22 @@
   {
    "entity": "Téa",
    "attribute": "gave her name to the royal hill of Tara"
+  },
+  {
+   "entity": "Téa",
+   "attribute": "queen of Éremón, the Milesian leader"
+  },
+  {
+   "entity": "Téa",
+   "attribute": "the Fir Bolg had called the site Druim Cain"
+  },
+  {
+   "entity": "Téa",
+   "attribute": "begged for a rampart round her grave in the Lebor Gabála account"
+  },
+  {
+   "entity": "Téa",
+   "attribute": "her name was taken as an element in Temair"
   }
  ],
  "entities": [
@@ -14,20 +30,50 @@
   {
    "entity": "Tara",
    "type": "Place"
+  },
+  {
+   "entity": "Éremón",
+   "type": "Person"
+  },
+  {
+   "entity": "Milesians",
+   "type": "Group"
+  },
+  {
+   "entity": "Fir Bolg",
+   "type": "Group"
+  },
+  {
+   "entity": "Druim Cain",
+   "type": "Place"
+  },
+  {
+   "entity": "Lebor Gabála",
+   "type": "Text"
+  },
+  {
+   "entity": "Temair",
+   "type": "Place"
+  },
+  {
+   "entity": "Spain",
+   "type": "Place"
   }
  ],
  "sources": [
-  "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+  "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.",
+  "MacKillop 2008, s.v. 'Téa'"
  ],
  "cyphertext": "7cA-J4U1PfnK3spiN-fTrvSBZEJI40sK45EeNLORuTSeubuhEqmYjIXxgFHkrEtuMOcNSNtppW2mCtezcUPTsN6_Mm5aRFVSHOu5YQmoO3xODCgc-4RnduLXcriGbso-xGsJM7fLyccWtOK3lIwdfBIeTgQFcRdaFqx31nCmr2z_99vRP9tGlfjIEp64mBWWggGefZ24suq1oQMQckaNYv8GGABrgiR93Q6dQ9uQ0IswzZE3ajcqrFcS81-Bmj3ldjUhJAC__WLU9_rTQFa_ugyE9IOBlWPspnr4b9vJ_tMYj5DZ3c1h0_2lUIHpuvqpHjWG2fM1ZhekjIXiJcC7enVcn7yjO96rgxDVYmbUj3WuDoI7HCQcVqnE5l5FQF8n8-Gt4LdSHxPR6-4E8a1qwVY=",
  "salt": "d2KxVsPq8Aw4CiqKjPb9dQ==",
- "text": "Téa, or Tea, is an Irish goddess or heroine. She gave her name to the great royal hill of Tara. The record about her is thin, but the name survives in that royal place. Tara was the seat of the high king of Ireland. The tale of Téa is one of the name-giving stories of the Otherworld. The record does not tell more of her deeds or her family.",
+ "text": "Téa, or Tea, is an Irish goddess or heroine. The great royal hill of Tara took its name from her. MacKillop fills the thin record out. She was the queen of Éremón, the Milesian leader. The Fir Bolg once knew the hill by the name Druim Cain. The renaming made the ground Milesian. The pseudo-history Lebor Gabála, the Book of Invasions, keeps her one request. Téa begged her husband to mark her grave. She wanted a rampart round it shaped like the rampart she had seen before she left Spain. Whatever the root sense of the name Téa, later readers took it as one element in Temair. The same book of place-names gives Temair Luachra as the seat of the south Munster kings. Tara was the seat of the high king of Ireland. The tale of Téa is one of the name-giving stories of the old tradition. The record does not tell more of her deeds or her family.",
  "okr": {
   "objective": "Record Téa as the namesake of the royal hill of Tara.",
   "key_results": [
    "States that Téa gave her name to the royal hill of Tara",
-   "Notes the thin record and the name that survives in Tara"
+   "Tell the Lebor Gabála rampart request and the Fir Bolg name Druim Cain",
+   "Name her husband Éremón and the Milesian renaming"
   ],
-  "evidence": "Monaghan 2008, s.v. 'Téa'."
+  "evidence": "Monaghan 2008, s.v. 'Téa'; MacKillop 2008, s.v. 'Téa'."
  }
 }

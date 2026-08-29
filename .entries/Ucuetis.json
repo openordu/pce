@@ -1,0 +1,46 @@
+{
+  "name": "Ucuetis",
+  "text": "Ucuetis is a Gaulish deity. The dictionary usually shows him beside his consort Bergusia. The pair appears so at the shrine of Alesia in eastern France, in Burgundy. Some representations give him a hammer. His images there sit with thededication of the stone cutters guild. That attribute suggests a divine patron of craftsmen. The shrine find of 1908 carried this pair's dedication in stone. His consort carries her own record in this dictionary.",
+  "entities": [
+    {
+      "entity": "Ucuetis",
+      "type": "Deity"
+    },
+    {
+      "entity": "Bergusia",
+      "type": "Deity"
+    },
+    {
+      "entity": "Alesia",
+      "type": "Place"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Ucuetis",
+      "attribute": "Gaulish deity paired with the consort Bergusia"
+    },
+    {
+      "entity": "Ucuetis",
+      "attribute": "shown with her at the shrine of Alesia in Burgundy"
+    },
+    {
+      "entity": "Ucuetis",
+      "attribute": "hammer-bearing images suggest a patron of craftsmen"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Ucuetis'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Ucuetis is a Gaulish deity",
+    "key_results": [
+      "Gaulish god of the Alesia shrine",
+      "hammer image points to craftsman patronage"
+    ],
+    "evidence": "MacKillop 2008, s.v. Ucuetis."
+  }
+}

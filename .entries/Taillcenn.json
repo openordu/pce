@@ -1,0 +1,38 @@
+{
+  "name": "Taillcenn",
+  "text": "Taillcenn and Taillkenn are corrupt spellings of Tálcend. Tálcend is the nickname the Fenian dialogues give to St Patrick. The word means adze-head. The pun touches his bishop's mitre and his hard-headed refusal to hear the pagan side.",
+  "entities": [
+    {
+      "entity": "Taillcenn",
+      "type": "Person"
+    },
+    {
+      "entity": "Patrick",
+      "type": "Person"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Taillcenn",
+      "attribute": "corrupt spelling pair of Tálcend"
+    },
+    {
+      "entity": "Taillcenn",
+      "attribute": "St Patrick's nickname in the Fenian dialogues, meaning adze-head"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Taillcenn'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Taillcenn and Taillkenn are corrupt spellings of Tálcend",
+    "key_results": [
+      "corrupt form of Tálcend",
+      "Patrick's adze-head nickname in Fenian dialogue"
+    ],
+    "evidence": "MacKillop 2008, s.v. Taillcenn."
+  }
+}

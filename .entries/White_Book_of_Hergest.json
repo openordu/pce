@@ -1,0 +1,42 @@
+{
+  "name": "White Book of Hergest",
+  "text": "White Book of Hergest is the English name of a Welsh manuscript printed from the Welsh Llyfr Gwyn Hergest. The book dates from the mid-fifteenth century. Fire destroyed it at some point in the nineteenth century, with dates proposed from 1810 to 1858. The Laws of King Hywel Dda, who died in 950, numbered among the contents. It must be distinguished from the Red Book of Hergest and from the White Book of Rhydderch. Those two kindred manuscripts both survive, unlike this lost book.",
+  "entities": [
+    {
+      "entity": "White Book of Hergest",
+      "type": "Text"
+    },
+    {
+      "entity": "Hywel Dda",
+      "type": "Person"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "White Book of Hergest",
+      "attribute": "Welsh manuscript of the mid-fifteenth century, Welsh title Llyfr Gwyn Hergest"
+    },
+    {
+      "entity": "White Book of Hergest",
+      "attribute": "held the Laws of Hywel Dda; destroyed by fire in the nineteenth century"
+    },
+    {
+      "entity": "White Book of Hergest",
+      "attribute": "distinct from the Red Book of Hergest and the White Book of Rhydderch"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'White Book of Hergest'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "White Book of Hergest is the English name of a Welsh manuscript printed from the Welsh Llyfr Gwyn Hergest",
+    "key_results": [
+      "lost Welsh law manuscript",
+      "carried the Laws of Hywel Dda before its fire"
+    ],
+    "evidence": "MacKillop 2008, s.v. White Book of Hergest."
+  }
+}

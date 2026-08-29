@@ -1,57 +1,84 @@
 {
-  "name": "Sucellus",
-  "attributes": [
-    {
-      "entity": "Sucellus",
-      "attribute": "a Continental Celtic god who carries a hammer"
-    },
-    {
-      "entity": "Sucellus",
-      "attribute": "sometimes set beside the woodland god Silvanus"
-    },
-    {
-      "entity": "hammer",
-      "attribute": "alone could stand for the god"
-    },
-    {
-      "entity": "Sucellus",
-      "attribute": "read as a fertility god of the sun and the wildwood"
-    }
-  ],
-  "entities": [
-    {
-      "entity": "Sucellus",
-      "type": "Person"
-    },
-    {
-      "entity": "hammer",
-      "type": "Artifact"
-    },
-    {
-      "entity": "Silvanus",
-      "type": "Person"
-    },
-    {
-      "entity": "Dagda",
-      "type": "Person"
-    }
-  ],
-  "sources": [
-    "Green, Miranda. Symbol and Image in Celtic Religious Art. London: Routledge, 1989, 46, 75.",
-    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-  ],
-  "image": [
-    "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Sucellus_MAN_St_Germain.jpg/1200px-Sucellus_MAN_St_Germain.jpg"
-  ],
-  "cyphertext": "f8HLeEimbIUC4_6mL5fRsxBVzcOXhLK-1o-B7b0NfUXCBTMIPbw5gYWdcKk_8GHXKbQNZSSX5Z7DOYuvhnd4tMekernCB3YYZUWXh_N2O0VV083jKcsIQgvottFGVMWjJifObPQTaVE8C7Qr6NEU6xv3iObBbnny7VPjqWrpBYuytHRcgQ68EbQxhew3-3MIDHO0FIAzZod9vpdwKqCreELbeoexsTjX8zX947lQmdf4odvC_irXVXzW7Uo5-hm_J86pKdXeQ5DjD4dOxmSUmu0QnlJeJT162HRchwzr6ZgiPsOwGhSd4ws34te7LpN4hVVwcj0c-T4kkmcaTJfpS5RgUkj1UQfaf2ItEgwEYo9lclXdkVpayCLdI6-YNDMwYC5u4e9pCYmklrp_eTOB1ZrnNMuERpwVarJPl-ET5omjMBJXnstLjp_TIvD2oTAoIh5oPOPlhfegaMlUUKoNBvn_EQXWIrd47eu1WW_CrFBmbkr1pC-CnmqrbdFBmSOjaUWkj-VoPT1tAVzP2_lDE3fGnMVyS0-XJ8Mhox__Lw3RE5V-4oPTnHb3e-nABi6AK2t2XMLDER5WZiQ3WeTBqd9XzaXH9FKnWi8vpQMurpdpvd5Ajyw5sYINVHyUe25wDxvNs1Vz35lZB4_eEQIvMIIQPfyDoGvYoncaDl4FcmOyF-A8mWqxRIYwU9Ra8_CciwZjoz8gtn1ae1-f6SAlwDoIdSgfQkEpjilHym6Japu0wIWQlh7ql2vosgsSQ8vqbT9JTZpE0KWgp5GPPEYOqriJnndbHcB-tLp1ZFejdQ4Sja0FUdzGc3kIlfDSEc7PfLMLloJ5HsI47o1MkRakIe6N2-Mws4fW_4GPJou_SiYVxQcKGiWn-dckDrZ5JGdhBysnyhOe82NiYGgsYj7J5YcmUykeznKlFc7uiYwSMsHWs5G29Wdr8viWjxIsqcDbhAHJedi_cf8e5jckxH7S-JFW6WniMywVYvTadDj2K1XtoBxdj9WxnRPnwb7JPnEFeI_WScn8gqd_Fw0UM2BemCSRx3-ZWU7gH74Pq0nF8S5MwfUMyiUsSVaNQTV_TftCjsWn7VTFufUIpNFcYmQIi9kaFw72nrEUR-gr9CFswatq7Z9TDYvvMx03LKNZ92743wIO_ea76ipAo02yvwL1rwKOrb514uyy0fwizjFaAtmjvfIJyMZVHf-68woFbjutH1qyWoj_qhsqWlsT0RItt95zM3xKHRrjEEY0RZO_QJaw3q9R8Aii8H0W9kKd4ZcLbdReFsnp0g7phtIL40CkAV5GoeslcRgnGZ3t02VUY9UL_McTWCluPtIbcVby_4eT5l9lB1gG_qNX8reTDefNqXbhQuZ2K8FlssINzChDE1QBLhXeB_Nko6wItZU7DYCChkillWQ5aaStyxbBhgL5fi6JXtX42ch-BfmHK7tuZPdLAkfLywUtcRz9QPoQiLzWl2mpON09S0BsCqJg93sswQusbB_VnfNaYyanGZ72uL-zoAQfcN39NtyE4Jl-WdqZ9kjZnsGGTpLYdrYdUmv22-W6yim-9B2yB4bfnHCLZHqgz6TC3TwqM-mgLri5-O658Tg4-bZswNjvERglv5FPQ6XJ1ytgcUzHiSNVn0Xzupd6Z_P-Zv-HY0BjkLK_-2bJNTt040kj59upnpIwvPjcERQ7_EZtexwWgolqJR6xhQiTAXnDbVOvri2TnS7e9ZCgzfnN9HSUg3FZtLIs4fFOq23fl9porgR3-Fs_p2ar21sURKhIQnwCbFQvEq3Ht2fjUA3LddMWyWrG0D6dR1GxSatmN6VsowIgfvu-3X3u-_DeWxqUmrUxdIPbSMgowgZWU1indLrP6CFrbw==",
-  "salt": "LV4X1pTXv9csxZtAponj8w==",
-  "text": "Sucellus is a Continental Celtic god. The name is read as the striker, and in his arms he carries the sign of that name, a great hammer or mallet. The same tool is the weapon of the Irish Dagda. The god appears across Gaul, and the Romans did not give him the name of one of their own gods, though they now and then set him beside their woodland god Silvanus. The sculptors show him as a full-grown, bearded man with a fine head of curly hair. The look is kind, turned on the viewer. He wears native dress, a tunic and a cloak, not the Roman or Greek garb. His hammer was so much his sign that the hammer alone could stand for the god. It is not linked to the thunder of Zeus or Odin in the usual way. The hammer was read as the power that drives green life up from the earth. So Sucellus is a god of the wild and of the returning growth, and for that gift he was also a god of healing.",
-  "okr": {
-    "objective": "Replace the machine text for Sucellus with a fresh CSG-SME1000 rewrite from Monaghan and Koch.",
-    "key_results": [
-      "text holds a fresh CSG-SME1000 rewrite of the hammer-bearing god",
-      "entities and attributes corrected and enriched"
-    ],
-    "evidence": "Monaghan 2003 (Sucellus, hammer, Natosuelta, Silvanus); Koch 2006 (mallet god, DEO SVCLLO, Gaul)."
+ "name": "Sucellus",
+ "attributes": [
+  {
+   "entity": "Sucellus",
+   "attribute": "a Continental Celtic god who carries a hammer"
+  },
+  {
+   "entity": "Sucellus",
+   "attribute": "sometimes set beside the woodland god Silvanus"
+  },
+  {
+   "entity": "hammer",
+   "attribute": "alone could stand for the god"
+  },
+  {
+   "entity": "Sucellus",
+   "attribute": "read as a fertility god of the sun and the wildwood"
+  },
+  {
+   "entity": "Sucellus",
+   "attribute": "his name means the good striker, one who strikes to good effect"
+  },
+  {
+   "entity": "Sucellus",
+   "attribute": "holds the long-shafted hammer in his left hand beside Nantosuelta"
+  },
+  {
+   "entity": "Sucellus",
+   "attribute": "the hammer may be a weapon, a cooper's tool, or an emblem of power"
+  },
+  {
+   "entity": "Sucellus",
+   "attribute": "commentators link him with the Roman Dis Pater and the Irish Dagda"
   }
+ ],
+ "entities": [
+  {
+   "entity": "Sucellus",
+   "type": "Person"
+  },
+  {
+   "entity": "hammer",
+   "type": "Artifact"
+  },
+  {
+   "entity": "Silvanus",
+   "type": "Person"
+  },
+  {
+   "entity": "Dagda",
+   "type": "Person"
+  },
+  {
+   "entity": "Nantosuelta",
+   "type": "Goddess"
+  },
+  {
+   "entity": "Dis Pater",
+   "type": "God"
+  }
+ ],
+ "sources": [
+  "Green, Miranda. Symbol and Image in Celtic Religious Art. London: Routledge, 1989, 46, 75.",
+  "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.",
+  "MacKillop 2008, s.v. 'Sucellus'"
+ ],
+ "image": [
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Sucellus_MAN_St_Germain.jpg/1200px-Sucellus_MAN_St_Germain.jpg"
+ ],
+ "cyphertext": "f8HLeEimbIUC4_6mL5fRsxBVzcOXhLK-1o-B7b0NfUXCBTMIPbw5gYWdcKk_8GHXKbQNZSSX5Z7DOYuvhnd4tMekernCB3YYZUWXh_N2O0VV083jKcsIQgvottFGVMWjJifObPQTaVE8C7Qr6NEU6xv3iObBbnny7VPjqWrpBYuytHRcgQ68EbQxhew3-3MIDHO0FIAzZod9vpdwKqCreELbeoexsTjX8zX947lQmdf4odvC_irXVXzW7Uo5-hm_J86pKdXeQ5DjD4dOxmSUmu0QnlJeJT162HRchwzr6ZgiPsOwGhSd4ws34te7LpN4hVVwcj0c-T4kkmcaTJfpS5RgUkj1UQfaf2ItEgwEYo9lclXdkVpayCLdI6-YNDMwYC5u4e9pCYmklrp_eTOB1ZrnNMuERpwVarJPl-ET5omjMBJXnstLjp_TIvD2oTAoIh5oPOPlhfegaMlUUKoNBvn_EQXWIrd47eu1WW_CrFBmbkr1pC-CnmqrbdFBmSOjaUWkj-VoPT1tAVzP2_lDE3fGnMVyS0-XJ8Mhox__Lw3RE5V-4oPTnHb3e-nABi6AK2t2XMLDER5WZiQ3WeTBqd9XzaXH9FKnWi8vpQMurpdpvd5Ajyw5sYINVHyUe25wDxvNs1Vz35lZB4_eEQIvMIIQPfyDoGvYoncaDl4FcmOyF-A8mWqxRIYwU9Ra8_CciwZjoz8gtn1ae1-f6SAlwDoIdSgfQkEpjilHym6Japu0wIWQlh7ql2vosgsSQ8vqbT9JTZpE0KWgp5GPPEYOqriJnndbHcB-tLp1ZFejdQ4Sja0FUdzGc3kIlfDSEc7PfLMLloJ5HsI47o1MkRakIe6N2-Mws4fW_4GPJou_SiYVxQcKGiWn-dckDrZ5JGdhBysnyhOe82NiYGgsYj7J5YcmUykeznKlFc7uiYwSMsHWs5G29Wdr8viWjxIsqcDbhAHJedi_cf8e5jckxH7S-JFW6WniMywVYvTadDj2K1XtoBxdj9WxnRPnwb7JPnEFeI_WScn8gqd_Fw0UM2BemCSRx3-ZWU7gH74Pq0nF8S5MwfUMyiUsSVaNQTV_TftCjsWn7VTFufUIpNFcYmQIi9kaFw72nrEUR-gr9CFswatq7Z9TDYvvMx03LKNZ92743wIO_ea76ipAo02yvwL1rwKOrb514uyy0fwizjFaAtmjvfIJyMZVHf-68woFbjutH1qyWoj_qhsqWlsT0RItt95zM3xKHRrjEEY0RZO_QJaw3q9R8Aii8H0W9kKd4ZcLbdReFsnp0g7phtIL40CkAV5GoeslcRgnGZ3t02VUY9UL_McTWCluPtIbcVby_4eT5l9lB1gG_qNX8reTDefNqXbhQuZ2K8FlssINzChDE1QBLhXeB_Nko6wItZU7DYCChkillWQ5aaStyxbBhgL5fi6JXtX42ch-BfmHK7tuZPdLAkfLywUtcRz9QPoQiLzWl2mpON09S0BsCqJg93sswQusbB_VnfNaYyanGZ72uL-zoAQfcN39NtyE4Jl-WdqZ9kjZnsGGTpLYdrYdUmv22-W6yim-9B2yB4bfnHCLZHqgz6TC3TwqM-mgLri5-O658Tg4-bZswNjvERglv5FPQ6XJ1ytgcUzHiSNVn0Xzupd6Z_P-Zv-HY0BjkLK_-2bJNTt040kj59upnpIwvPjcERQ7_EZtexwWgolqJR6xhQiTAXnDbVOvri2TnS7e9ZCgzfnN9HSUg3FZtLIs4fFOq23fl9porgR3-Fs_p2ar21sURKhIQnwCbFQvEq3Ht2fjUA3LddMWyWrG0D6dR1GxSatmN6VsowIgfvu-3X3u-_DeWxqUmrUxdIPbSMgowgZWU1indLrP6CFrbw==",
+ "salt": "LV4X1pTXv9csxZtAponj8w==",
+ "text": "Sucellus is a Continental Celtic god. His name carries the sense of the good striker, one who strikes to good effect. Gaul held his worship at several places, and Britain knew it too. Sculptors show a very masculine figure. His beard and hair curl, and he stands beside his cult partner, the goddess Nantosuelta. In his left hand he holds a long-shafted hammer or mallet. Critical opinion has never settled what the hammer means. Some call the tool a weapon. Others call it a cooper's mallet or a fencing piece. A further reading takes it as an emblem of rule, a wand or sceptre in another dress. Writers tie Sucellus to the Roman Dis Pater and to the Irish Dagda. The hammer reading as a life-giving force stands beside that older comparison. Reinach published the paired cult of Sucellus and Nantosuelta in 1896, and Linckenheld followed in 1929. Green's study of Celtic religious art set the images in order in 1989.",
+ "okr": {
+  "objective": "Present Sucellus, the good striker with the hammer, and the debate over his sign.",
+  "key_results": [
+   "Record the name sense and the spread of his worship to Britain",
+   "Describe the figure with curled beard and the hammer in his left hand by Nantosuelta",
+   "State the hammer readings: weapon, cooper's tool, fencing instrument, or emblem of power",
+   "Record the ties to Dis Pater and the Dagda and the key scholarship"
+  ],
+  "evidence": "MacKillop 2008, s.v. 'Sucellus'."
+ }
 }

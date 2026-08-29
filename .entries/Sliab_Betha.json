@@ -1,0 +1,42 @@
+{
+  "name": "Sliab Betha",
+  "text": "Sliab Betha, printed also as Sliabh Beatha, Slieve Beagh, and Siabay, names a range of high hills. Its highest ground reaches 1,255 feet. The range stands on the borders of County Monaghan, Fermanagh, and Tyrone. It takes its name from Bith, the early invader of Ireland in the pseudo-history Lebor Gabála, the Book of Invasions.",
+  "entities": [
+    {
+      "entity": "Sliab Betha",
+      "type": "Place"
+    },
+    {
+      "entity": "Bith",
+      "type": "Person"
+    },
+    {
+      "entity": "Lebor Gabála",
+      "type": "Text"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Sliab Betha",
+      "attribute": "hill range to 1,255 feet on the Monaghan, Fermanagh, and Tyrone borders"
+    },
+    {
+      "entity": "Sliab Betha",
+      "attribute": "named for Bith, early invader in the Book of Invasions"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Sliab Betha'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Sliab Betha, printed also as Sliabh Beatha, Slieve Beagh, and Siabay, names a range of high hills",
+    "key_results": [
+      "hill range of the Monaghan, Fermanagh, and Tyrone borders",
+      "named for the invader Bith of the pseudo-history"
+    ],
+    "evidence": "MacKillop 2008, s.v. Sliab Betha."
+  }
+}

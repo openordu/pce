@@ -1,0 +1,42 @@
+{
+  "name": "Strabo",
+  "text": "Strabo was a Greek geographer who worked in Augustan Rome. His dates run from about 58 BC to about AD 24. His seventeen-book Geographia holds much descriptive material on early Celtic society. Writers cite it widely. The Loeb Classical Library issued his translation in eight volumes. H. L. Jones prepared that New York edition of 1917-33.",
+  "entities": [
+    {
+      "entity": "Strabo",
+      "type": "Person"
+    },
+    {
+      "entity": "Geographia",
+      "type": "Text"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Strabo",
+      "attribute": "Greek geographer of Augustan Rome, c. 58 BC to c. AD 24"
+    },
+    {
+      "entity": "Strabo",
+      "attribute": "seventeen-book Geographia, a much cited source on early Celtic society"
+    },
+    {
+      "entity": "Strabo",
+      "attribute": "standard translation by H. L. Jones, eight Loeb volumes, New York 1917-33"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Strabo'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Strabo was a Greek geographer who worked in Augustan Rome",
+    "key_results": [
+      "author of the seventeen-book Geographia",
+      "key classical witness on early Celtic society"
+    ],
+    "evidence": "MacKillop 2008, s.v. Strabo."
+  }
+}

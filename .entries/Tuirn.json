@@ -1,0 +1,46 @@
+{
+  "name": "Tuirn",
+  "text": "Tuirn is a variant form of the name Uirne. The dictionary prints it among the variants Uirne, Tuireann, Tuirreann, and Tuiren. Uirne is aunt to Fionn mac Cumhaill and bore his famous hounds Bran and Sceolang by magic. The fuller record sits under the Uirne head.",
+  "entities": [
+    {
+      "entity": "Tuirn",
+      "type": "Person"
+    },
+    {
+      "entity": "Uirne",
+      "type": "Person"
+    },
+    {
+      "entity": "Fionn mac Cumhaill",
+      "type": "Person"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Tuirn",
+      "attribute": "variant form of the Uirne name"
+    },
+    {
+      "entity": "Tuirn",
+      "attribute": "cross-reference to the Uirne record"
+    },
+    {
+      "entity": "Tuirn",
+      "attribute": "Uirne aunt of Fionn and hound-mother of Bran and Sceolang"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Uirne'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Tuirn is a variant form of the name Uirne",
+    "key_results": [
+      "variant of the Uirne name",
+      "signpost to the Uirne record"
+    ],
+    "evidence": "MacKillop 2008, s.v. Uirne."
+  }
+}

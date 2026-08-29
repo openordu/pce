@@ -1,0 +1,64 @@
+{
+  "name": "Preiddeu Annwfn",
+  "text": "Preiddeu Annwfn is the Welsh title of a short poem. It appears in the sources as Preiddiau Annwfn and PreiddeuAnnwn. English readers call it The Spoils of Annwfn. The poem probably dates to the ninth century. It survives in the Book of Taliesin, and scholars no longer credit the sixth-century Taliesin with it. Arthur opens the action. He sails on his ship Prydwen to seize the cauldron of the chief who rules Annwfn, the otherworld realm. The poets name that realm Caer Siddi, a fortress whose name hints at revolving. Its walls are glass and four-cornered. Inside, youthful dwellers feast and make merry beside a wonderful fountain. A silent sentinel watches. A sorrowful prisoner named Gwair, whose name means hay, is held there. The cauldron shines with a pearl-studded rim. Nine maidens breathe on it to heat it, and it refuses to cook a coward's food. The raid fails, and only seven of Arthur's company return. J. Gwenogvryn Evans printed the poem in his 1915 Llanbedrog edition of the Taliesin poems. R. S. Loomis took up the poem in his 1956 Cardiff study of Wales and the Arthurian Legend.",
+  "entities": [
+    {
+      "entity": "Preiddeu Annwfn",
+      "type": "Text"
+    },
+    {
+      "entity": "Arthur",
+      "type": "Person"
+    },
+    {
+      "entity": "Annwfn",
+      "type": "Place"
+    },
+    {
+      "entity": "Caer Siddi",
+      "type": "Place"
+    },
+    {
+      "entity": "Gwair",
+      "type": "Person"
+    },
+    {
+      "entity": "Book of Taliesin",
+      "type": "Text"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Preiddeu Annwfn",
+      "attribute": "ninth-century Welsh poem on Arthur's failed raid on Annwfn"
+    },
+    {
+      "entity": "Preiddeu Annwfn",
+      "attribute": "survives in the Book of Taliesin"
+    },
+    {
+      "entity": "Preiddeu Annwfn",
+      "attribute": "cauldron heated by nine maidens, refuses a coward's food"
+    },
+    {
+      "entity": "Preiddeu Annwfn",
+      "attribute": "only seven of the expedition return"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Preiddiau Annwfn'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Preiddeu Annwfn is the Welsh title of a short poem",
+    "key_results": [
+      "perhaps ninth-century poem, usually called The Spoils of Annwfn",
+      "Arthur sails on Prydwen to capture the cauldron of Annwfn's chief",
+      "the realm appears as Caer Siddi, a four-cornered glass fortress",
+      "prisoner Gwair is held there, and only seven return"
+    ],
+    "evidence": "MacKillop 2008, s.v. Preiddiau Annwfn."
+  }
+}

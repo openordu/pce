@@ -2,7 +2,7 @@
 layout: layouts/pce.njk
 title: Seanchán Toirpéist
 icon: file-lines
-order: 1987
+order: 3809
 contributors: [ 'Christopher Godwin' ]
 attributes:
   - Seanchán Toirpéist a bard who may have lived in the late sixth or early seventh century
@@ -13,10 +13,11 @@ attributes:
   - Seanchán Toirpéist his name grew from a meeting with a monster that was the spirit of poetry
   - Seanchán Toirpéist visited the Isle of Man with his followers
   - Seanchán Toirpéist his name means one to whom a monster has come
+  - Seanchán_Toirpéist MacKillop prints the modern spelling Seanchán Toirpéist of the older Senchán Torpéist
 categories:
+  - Place
   - Person
   - Text
-  - Place
 entities:
   - Seanchán Toirpéist(Person)
   - Guaire(Person)
@@ -38,9 +39,11 @@ tags:
 ---
 ``` tab [group1:Info]
 ::: magazinestyle
-Seanchán Torpéist, also called Senchán, was an Irish bard who may have lived in the late sixth or early seventh century. His biographers gave him a life he never led. Like some early Irish saints, he was mythologized with magical powers, such as raising the dead and fighting magical cats. He belonged to the court of King Guaire of Connacht. There he learned that no poet in Ireland could recite the great epic Tain Bo Cuailnge in full. He traveled to the grave of Queen Medb's lover, Fergus mac Roich, and invoked the hero from the Otherworld. Fergus rose and recited the Tain, which Seanchán memorized. He later fell dead when the ghost appeared again at Guaire's court.
+Seanchán Torpéist, also called Senchán, was an Irish bard of the late sixth or early seventh century. His biographers gave him a life he never led. Like some early Irish saints, he was mythologized with magical powers, such as raising the dead and fighting magical cats. He belonged to the court of King Guaire of Connacht. There he learned that no poet in Ireland could recite the great epic Tain Bo Cuailnge in full. He traveled to the grave of Queen Medb's lover, Fergus mac Roich, and invoked the hero from the Otherworld. Fergus rose and recited the Tain, which Seanchán memorized. He later fell dead when the ghost appeared again at Guaire's court.
 
 Koch records the origin of his curious name. One tale has Senchán travel with his band to the Isle of Man. He urged a foul and monstrous creature into the boat with them. That being proved to be the very spirit of poetry. His frightened crew then decided to call him Torpbot. The old glossary reads the name as 'visited by a monster'. A later list of names, the book of the appropriateness of names, repeats the story. So does the Ulster Cycle tale that tells how the great epic was found. In every version the name carries the mark of a fateful meeting with the spirit of poetry.
+
+MacKillop prints the name in the modern spelling Seanchán Toirpéist. That form points back to the older Senchán Torpéist. Older records use the older shape. Both spellings name the same fateful meeting with the spirit of poetry.
 
 :::
 ```
@@ -53,6 +56,7 @@ Koch records the origin of his curious name. One tale has Senchán travel with h
 - **Seanchán Toirpéist**: his name grew from a meeting with a monster that was the spirit of poetry
 - **Seanchán Toirpéist**: visited the Isle of Man with his followers
 - **Seanchán Toirpéist**: his name means one to whom a monster has come
+- **Seanchán_Toirpéist**: MacKillop prints the modern spelling Seanchán Toirpéist of the older Senchán Torpéist
 ```
 ``` tab [group1:Entities]
 - **Seanchán Toirpéist**: Person
@@ -68,4 +72,5 @@ Koch records the origin of his curious name. One tale has Senchán travel with h
 - Ó hÓgain, Dáithí. Myth, Legend and Romance: An Encyclopedia of the Irish Folk Tradition. New York: Prentice-Hall Press, 1991, 384+.
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 - Koch 2006, s.v. 'Senchán Torpéist'
+- MacKillop 2008, s.v. 'Seanchán Toirpéist'
 ```

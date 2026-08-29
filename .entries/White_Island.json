@@ -1,0 +1,38 @@
+{
+  "name": "White Island",
+  "text": "White Island is a signpost entry to the article on Erne. That article describes the figures on the island itself. It tells how the River Erne and its rising lake gained their names. The island itself lies in Lower Lough Erne.",
+  "entities": [
+    {
+      "entity": "White Island",
+      "type": "Place"
+    },
+    {
+      "entity": "Erne",
+      "type": "Deity"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "White Island",
+      "attribute": "see-reference into the Erne article"
+    },
+    {
+      "entity": "White Island",
+      "attribute": "island figures fall under the Erne record"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'White Island'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "White Island is a signpost entry to the article on Erne",
+    "key_results": [
+      "see-reference under the Erne head",
+      "the island's figures are told there"
+    ],
+    "evidence": "MacKillop 2008, s.v. White Island."
+  }
+}

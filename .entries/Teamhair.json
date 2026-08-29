@@ -1,0 +1,38 @@
+{
+  "name": "Teamhair",
+  "text": "Teamhair is the Modern Irish word for the royal site of Tara. The dictionary prints the head as a one-line cross-reference. The fuller record of the hill, its halls, and its legends sits under the Tara node. Readers of Modern Irish texts meet this spelling where English writers print Tara.",
+  "entities": [
+    {
+      "entity": "Teamhair",
+      "type": "Place"
+    },
+    {
+      "entity": "Tara",
+      "type": "Place"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Teamhair",
+      "attribute": "Modern Irish word for Tara"
+    },
+    {
+      "entity": "Teamhair",
+      "attribute": "cross-reference to the Tara record"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Teamhair'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Teamhair is the Modern Irish word for the royal site of Tara",
+    "key_results": [
+      "Modern Irish name of Tara",
+      "signpost to the Tara node"
+    ],
+    "evidence": "MacKillop 2008, s.v. Teamhair."
+  }
+}

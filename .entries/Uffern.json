@@ -1,0 +1,50 @@
+{
+  "name": "Uffern",
+  "text": "Uffern is the Welsh otherworld under its Latin-text spelling Uffem. Walter Map and Giraldus Cambrensis use the name in their Latin writings. Map lived from about 1140 to 1209. Giraldus lived from about 1146 to 1223. The label is a semantic dismissal with unmistakable Christian influence. The word now serves as the Welsh term for the Christian hell. The record of the otherworld itself sits under the Annwfn head.",
+  "entities": [
+    {
+      "entity": "Uffern",
+      "type": "Place"
+    },
+    {
+      "entity": "Annwfn",
+      "type": "Place"
+    },
+    {
+      "entity": "Giraldus Cambrensis",
+      "type": "person"
+    },
+    {
+      "entity": "Otherworld",
+      "type": "concept"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Uffern",
+      "attribute": "Latin-text name for the Welsh otherworld, printed Uffem"
+    },
+    {
+      "entity": "Uffern",
+      "attribute": "used by Walter Map and Giraldus Cambrensis"
+    },
+    {
+      "entity": "Uffern",
+      "attribute": "became the Welsh word for the Christian hell"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Uffem'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Uffern is the Welsh otherworld under its Latin-text spelling Uffem",
+    "key_results": [
+      "Latin-writing name for the Welsh otherworld",
+      "Christian dismissal that hardened into hell"
+    ],
+    "evidence": "MacKillop 2008, s.v. Uffem."
+  }
+}
