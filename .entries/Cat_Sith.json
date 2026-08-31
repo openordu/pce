@@ -16,6 +16,18 @@
     {
       "entity": "witch",
       "type": "mythological creature"
+    },
+    {
+      "entity": "Big Ears",
+      "type": "mythological creature"
+    },
+    {
+      "entity": "taghairm",
+      "type": "concept"
+    },
+    {
+      "entity": "St Anthony's fire",
+      "type": "concept"
     }
   ],
   "attributes": [
@@ -34,25 +46,38 @@
     {
       "entity": "Cat Sith",
       "attribute": "was a witch in cat form to others"
+    },
+    {
+      "entity": "Cat Sith",
+      "attribute": "as large as a dog, black with a white spot on its breast"
+    },
+    {
+      "entity": "Cat Sith",
+      "attribute": "explained by Highlanders as a transformed witch"
+    },
+    {
+      "entity": "taghairm",
+      "attribute": "a divination ceremony that roasted cats alive for four days"
     }
   ],
   "sources": [
-    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.",
+    "MacKillop 2008, s.v. 'cat sìth'"
   ],
   "image": [
     "https://upload.wikimedia.org/wikipedia/commons/3/38/Page_158_illustration_in_More_English_Fairy_Tales.png"
   ],
   "cyphertext": "kuwgtN8bct4i7ur_bmWDeTwbqsBkDaEPWBiNvKUp6dE97gLdZkqn3s8WQICvjE48vCAIQA4zmy4dhOfzuQGHoMBPnVgqkONt8aOhuyDV2sK3C6vKvANoYJ7XBuLm11C2tRwcxxGE7B_mk6-0TnwPoQhe9tW7rtmW3SH81TZdH9l3Yl3UmSoQbHS5k_L7RIE_oBcP9xnzKa8hH-gMnSK4O_P75FU=",
   "salt": "BNeYeZBMvREX9GsxeSfmoA==",
-  "text": "The Cat Sith is a dark cat of the Highlands of Scotland. People supposed this animal was a fairy in disguise. Others counted it a witch in cat form.",
+  "text": "The Cat Sith is the fairy cat of Scottish Gaelic tradition. This creature matched a dog in size and bore black fur with one white spot on its breast. Its back arched and its bristles stood erect. Highlanders most often judged it a transformed witch rather than a fairy at all. Others still counted the huge dark animal a fairy in disguise. The cat sith may connect with the demonic cat called Big Ears. Conjurors summoned that creature in the taghairm, a brutal divination ceremony. In the taghairm, participants roasted cats alive for four days until the spirit spoke. Irish tradition treated black cats more kindly and held them lucky. A black cat's blood served as a folk cure for erysipelas, the ailment called St Anthony's fire. The Highland cat therefore belongs to a wider Celtic lore of fateful felines.",
   "okr": {
-    "objective": "The Cat Sith is a dark Highland cat believed to hide a fairy or witch.",
+    "objective": "The Cat Sith is the huge fairy cat of Gaelic tradition, usually read as a witch in disguise.",
     "key_results": [
-      "It was a huge dark cat.",
-      "It lived in the Highlands of Scotland.",
-      "Some saw it as a disguised fairy.",
-      "Some saw it as a witch in cat form."
+      "The Cat Sith stood as large as a dog, black with a white breast spot.",
+      "Highlanders explained it as a transformed witch more often than a fairy.",
+      "It may relate to the demonic cat Big Ears of the taghairm divination.",
+      "Irish lore counted black cats lucky and their blood a cure for erysipelas."
     ],
-    "evidence": "Monaghan, Encyclopedia of Celtic Mythology and Folklore"
+    "evidence": "MacKillop 2008, s.v. 'cat sìth'"
   }
 }

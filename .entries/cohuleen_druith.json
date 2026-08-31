@@ -16,6 +16,18 @@
     {
       "entity": "mermaid",
       "attribute": "lost the cap, then stayed landbound"
+    },
+    {
+      "entity": "cohuleen druith",
+      "attribute": "known also as cohullen, from the Irish cochall, a hood"
+    },
+    {
+      "entity": "cohuleen druith",
+      "attribute": "red and covered with feathers"
+    },
+    {
+      "entity": "merrow",
+      "attribute": "alternate name for the cap-wearing water-maidens of Ireland"
     }
   ],
   "entities": [
@@ -30,24 +42,30 @@
     {
       "entity": "cap",
       "type": "artifact"
+    },
+    {
+      "entity": "merrow",
+      "type": "mythological creature"
     }
   ],
   "sources": [
-    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.",
+    "MacKillop 2008, s.v. 'cohuleen druith'"
   ],
   "image": [
     "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Clonfert_Cathedral_Mermaid_2009_09_17.jpg/1200px-Clonfert_Cathedral_Mermaid_2009_09_17.jpg"
   ],
   "cyphertext": "TCH8_t5KosWfdm0mvbcsyT0k-rgnHOmlaT7iwT2xay4qMhHSD0u2SLKwpb-hdyMe8nQ2H-510vyefPTbWiLoq4rvvcJ0Zrnb_7PjW2vQ6Jy-siEc2VsWYqqZRTA_sgMpzBpEAhP00Vvu-m43qEow-C32SbOywm50NhY1zuhL_AY0iVlO4TCW8YiXLeA4M0mFccyNclLfCN35C416g4xjZbEYYml7HmsCxJA-5ugDSexyeNzfIhWm3NhxwKq93lY93EGcBtLZDSWKTKGuByQbWXL441_6bfPsPSWhXkXhmWrPxoVv3vA_jIzUQGrWtOd9xgTIofQlHwT914UjvQ5ZJMDVLruj6VELgcEt7hODj5UC-fbp3I41O9lx",
   "salt": "_LTLRKeW-Ka_8-3Fe1tlwQ==",
-  "text": "The cohuleen druith is a piece of Irish folklore. The mermaids of Ireland put on this small cap. It let them pass below the waters of lakes and the sea without harm. If the cap went missing or was stolen, the mermaid then had to stay landbound.",
+  "text": "The cohuleen druith belongs to Irish folklore. The name runs also as cohullen, from the Irish cochall, a hood. Storytellers gave this magical hood or cap to the mermaids and merrows of Ireland. The cap showed red and carried a covering of feathers. It let its wearer pass below the waves and live under the sea. If a person stole the cap, the mermaid could not go back beneath the water. She then had to stay landbound, cut off from her home beneath the sea.",
   "okr": {
-    "objective": "The cohuleen druith is an Irish cap that lets a mermaid move underwater.",
+    "objective": "The cohuleen druith is the Irish cap that lets a mermaid live beneath the waves.",
     "key_results": [
-      "Irish mermaids wore the cohuleen druith cap.",
-      "The cap let a mermaid swim below lake and sea waters.",
-      "A lost or stolen cap forced her to remain landbound."
+      "The name runs also as cohullen, from the Irish cochall, a hood.",
+      "Mermaids and merrows wore this red cap covered with feathers.",
+      "The cap let its wearer pass below the waves and live under the sea.",
+      "A stolen cap left the mermaid unable to go back beneath the water."
     ],
-    "evidence": "Monaghan, Encyclopedia of Celtic Mythology and Folklore"
+    "evidence": "MacKillop 2008, s.v. 'cohuleen druith'"
   }
 }

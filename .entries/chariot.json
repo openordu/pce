@@ -20,6 +20,22 @@
     {
       "entity": "eolas",
       "attribute": "Irish spell for good luck"
+    },
+    {
+      "entity": "chariot",
+      "attribute": "featured in narratives composed before the saddle arrived"
+    },
+    {
+      "entity": "Manannán mac Lir",
+      "attribute": "Irish god most likely called the charioteer"
+    },
+    {
+      "entity": "Láeg",
+      "attribute": "faithful charioteer of Cúchulainn"
+    },
+    {
+      "entity": "Waldalgesheim",
+      "attribute": "German grave site where chariots were buried with their owners"
     }
   ],
   "entities": [
@@ -54,28 +70,49 @@
     {
       "entity": "eolas",
       "type": "concept"
+    },
+    {
+      "entity": "Manannán mac Lir",
+      "type": "god"
+    },
+    {
+      "entity": "Conall Anglonnach",
+      "type": "person"
+    },
+    {
+      "entity": "Láeg",
+      "type": "person"
+    },
+    {
+      "entity": "Cairbre",
+      "type": "person"
+    },
+    {
+      "entity": "Waldalgesheim",
+      "type": "location"
     }
   ],
   "sources": [
     "Carmichael, Alexander. Carmina Gadelica: Hymns and Incantations. Hudson, N.Y.: Lindisfarne Press, 1992.",
     "Courtney, M. A. Cornish Feasts and Folklore. Penzance: Beare and Son, 1890, 143 ff.",
     "Kavanagh, Peter. Irish Mythology: A Dictionary. (Newbridge, Co. Kildare: The Goldsmith Press, Ltd., 1988), 30-33.",
-    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.",
+    "MacKillop 2008, s.v. 'chariot'"
   ],
   "image": [
     "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Biga._Festa_do_esquecemento._Xinzo_de_Limia%2C_Ourense%2C_Galicia.jpg/1200px-Biga._Festa_do_esquecemento._Xinzo_de_Limia%2C_Ourense%2C_Galicia.jpg"
   ],
   "cyphertext": "UYKAnYOwLV3EpsBBuK-32FT3oUiMrGYfsaNslG2JsuD8kQCju-b2H5n6PS6dhljk_ke4YIEQsquB0AYgBjFJUxGLkI6yKddvLcaMFcbRYQxPSwrwv2gNhYdXid8hVyNUV4fItV4P_sPnp4MA2IldBHo74QMfALGQmKh9FEiKNqzwdbyyHjO-Hna9NWz5s5uCIraOed53rQPZD1m1NzsUtTXBE-1abh_IHphv_A0l2C5-5zE3B0wgINvW9vIVADV9kTcMXTUtIvxVmRAsuAogAk4A0XBW_ZGLVORKSYBla7az1uY_2wGUQm6iQTn57lO8Pn4_5r4SN5TXHaCLTcf7yyAxqKLnXwTLGQO2oDMIu6C3TXWaOWmAxx6fqssxClw-FfXdvFcB6eI2tRlPh9ItCvVg5ZKy21O6h3J9N9yTOlCX_PVd-P7NPd0-Evom_HyI_UtMwJhTUoKkOqFEFTQte83sm8LEEbn13WSNMb686y1YnoHbo7-VH7fxYdXJIMTtDIek4LSKFRqRPfHvEZiUpoB8XeGsVfXoeeK2uudE0kFZhkyDouAwfRC4UIk6BzwDkmrxNjoUy-FRGuswRJpoNMr-1r1c3yMRw_jI-1bjUpQBn8FkNqJgXxRDcsaZHVGesGBJ-vMXpHOi2R8wLtF1R9Up0kHra3FYsJhtE3BNaqXponiUL8_lIr5JfoGh_d3BJovfKvHQJbHbR5Lyvffomb2qQiNtKAVCzvnTf-_nJLZJdvS9KNloCf8SvZfIiuJ-yIdb4-pz9c81ny4N3gPce6ivoIlELNT0kX-Lb9NmEqNG2G1kFUyQ3xLi2rwYjEBIM8zNSqODzSJTnnqowhVkpCBUN1eTzbdyFWINMzWB_sIXmz9UECjNlgR3u_bAUPHBhyGyR0dpjUWrbnCX6rvnZr5nulOJJwaibfLdl8HgYFf_ZIupM02sv7UpPQv1CeGghES0aVomijNDG3vhqVQdvutYdEuKGFSDDXIqkT6LvpLYv0c_6tCO9FqKjpYkABL_jY9LV8LU9pJ9j2MOaxJQeqEyi_sqSSt1lzPWiYUameUi4OCFOfpcQJUgvwMRCbjTZtGFWed1GMcRwF86o8wU5Y_Ms7UlKs51qfIGNbGd9OKWGoTiubNbdiUVAgVso6vv__EWxEG99jacjKciB4osGu6Aiji52i5UYuHmxm4nMvB8_uIyNWXJMe58jkG6CuqmB9mLmN4U0Vs30vx6u7mkOKht--jnROroEkdSwe3Wwxlt_kJ5MT1DjVizqsYYVztXynz9W3dUuUQlod8VG57VfKz2SyZKvoL3YGQK-YP-6hIew647NLYq5VlxNjF88LrKkn00fZqisVl7clMV6iFkq6dj8yxC-dmYZUsS_7tXsKRquC6Xe_rB-CvFht9YcudcWiB8KgvwrOQs3XXLPqJk4n6yy495MchdE5vH-qSfW0xJoZfGCNvdLXiQwNCsj57K3cbGmYcRi92zVtbMyeIpijTzigXi-ZkTZRkXF2Y21cs06nGt55WZ_uXA4034HokrcmQ_qGgN1_MlODVc0DVqC9c6comCpNCsRHMuMRFtG5N3XYwsOKftXU-9apBKbFFInoQIK2_HIHUkFiFAwPaPRxBScRVzfKAsxiYYx_FdrWVzhLCWCHOxwS5xhfgF4nFfsy8qE-EoYA-BNf_9vDLxtvxpyVL4OXlnrCKX9Sx1wz27fzAWTOnN5FrPtOLrORIEeCTQBaVNUitCBxLiyeGI7vWb8RIojC4My0Z-8fd4zXJCXw_xZLhUF653wGbaK5eguv1esrMuu0BGpTnwhBrmzLCsRxFDdzYVj6zhD3-a1iBt7ZPS__rLeWth3AXbiwtkUDFPFsLpnEgoGOAxgIDwbVOOX64fv1QP-AcmnZL8SwvItMW2cGj0bRFduixherE7veMXexsTOsRYD2Mbr1Y7c8Ix2FKDUIqjWACh-fkvWULDkY8_CwaYYMBWXflFHhG16ABVMFOuvzHRkn6Mue5_Uc0C3PRGoCR_pj8_GWMOBv4cUM_pLdXQNl3QpyvjJZjyrVnBAMOBpCkUxin753UJ2ZvylJuAkSYuuMsbWSNUivx3uhrerWizuQ4kqqzomhZ751KgQPLtte_gvP6hKw3SFXJ7m9_TtZPToOYocV_z7k48aSe-iov9ZhAal_GBD2iByzQu0T8WPvLBtdH1K62alBSvTcpH6dF_Y0OpegvUATgoTXRuygF02H63ZOWVoJp4SaOkGjKczMIokg-vmZm4rvdJs0SGguEcMHe3jQhz-hXmu3CVAXDUDep8t_8-7L_pSPOgANmSQ9uB0fqWF7u4JfaIeb3y1ehWclWN4MoSJbpyQhmUqGTkSXU7puLdiqCeYDAi_rSpbzXCvzmsvRLExg2gcgooPHpRIVksbk72JK2bOvBMCVgiamGxN3kae97-pt15908iRkwGvJwbv80tQs-3EnzHkQyKINMBess7jornHLbh34pJF00anacleTWj0S5Qlu1SjqwS_xinRnNG0v75i4VZ8QHzdmMkMlB5NZPG9GPR6fgISld0ZPnuytYOylo7GWXhJuWFIDpp86vhqKeTZ4nBU62vdkYGK73GcSlkXm_w2RIIE3uPAk0lZiS2uxKstONRkjdkIr9u4vCVuTs2aWoKZ4jZk4vJVkrqzkFlqBkiT-JLnl-0wGqfOW7LaLKuWZ2bYakglfHltCL_0DjcxPJs4-xgePD3itqGd3R-QOBwD7vAlFMxO-Eaqcgu9CW5EE2HrE-enQe8ATIX13tLJL55xeOmkOJb2t_XrMiTfPfFuRYpbjK6_aBoo_MiLtCpsR9LOayE_4XZ4J0K3xUScltwt5FUxLLkzWAlSwaz4jQf4k97MJhEOA==",
   "salt": "IUHeauBfyHlkpYx5tAInDA==",
-  "text": "The chariot is a Celtic symbol. The horse was tamed early by these Celtic peoples, among the first in Europe to do so. They did not ride the horse but hitched it to a chariot used for travel and for battle. Gods, goddesses, heroes, and heroines all appear as charioteers. The bridle and the wheel appear in the figures of divine beings such as Epona. The opposite of a curse is a charm. In Irish the charm is called eolas, a spell to draw good luck. A charm could also ward off bad luck, and one example guards a home from the evil eye. Folk used charms to speed the churning of butter, to ease the waulking of linen, and to guard the home with water.",
+  "text": "The chariot is a Celtic symbol. MacKillop explains why the heroes of early Irish and Welsh story go to war in chariots. Most of those tales took shape before the saddle reached the Celts. The horse was tamed early by these Celtic peoples, among the first in Europe to do so. They did not ride the horse but hitched it to a chariot used for travel and for battle. Gods, goddesses, heroes, and heroines all appear as charioteers. Among the Irish gods, MacKillop judges Manannán mac Lir the likeliest holder of the charioteer title. Conall Anglonnach also drives one. Láeg served Cúchulainn as his faithful charioteer. The name Cairbre might mean charioteer. The bridle and the wheel appear in the figures of divine beings such as Epona. MacKillop records a grave at Waldalgesheim in Germany where chariots lay buried with their owners. The opposite of a curse is a charm. In Irish the charm is called eolas, a spell to draw good luck. A charm could also ward off bad luck, and one example guards a home from the evil eye. Folk used charms to speed the churning of butter. Other charms eased the waulking of linen and guarded the home with water.",
   "okr": {
-    "objective": "The chariot is a Celtic symbol; the charm is a spell that brings good luck.",
+    "objective": "The chariot stands as a Celtic symbol of gods and heroes who ride rather than saddle a horse.",
     "key_results": [
-      "The Celts hitched horses to chariots for travel and battle.",
-      "Gods, goddesses, heroes, and heroines ride as chariots.",
-      "Epona appears with a bridle and a wheel.",
-      "A charm is the opposite of a curse and brings good fortune."
+      "Early Irish and Welsh narratives put warriors in chariots because the saddle came later.",
+      "Manannán mac Lir, Conall Anglonnach, Láeg, and perhaps Cairbre appear as charioteers.",
+      "A grave at Waldalgesheim in Germany held chariots buried with their owners.",
+      "The charm named eolas counters bad luck and protects the home."
     ],
-    "evidence": "Monaghan, Encyclopedia of Celtic Mythology and Folklore"
+    "evidence": "MacKillop 2008, s.v. 'chariot'"
   }
 }
