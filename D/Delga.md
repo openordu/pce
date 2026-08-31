@@ -2,54 +2,66 @@
 layout: layouts/pce.njk
 title: Delga
 icon: file-lines
-order: 659
+order: 0
 contributors: [ 'Christopher Godwin' ]
 attributes:
-  - Delga obscure ancient character
-  - Delga name of his palace
-  - Dún Delgan remains in the important city name
-  - Fomorian some tales call him a
-  - Fir Bolg others say he was a member of the
-  - Irish invaders legendary groups of
+  - category mythology
+  - domain celtic
+  - associations Cúchulainn
+  - associations Dealga
+  - associations Dundalk
+  - associations Dún Delgan
+  - associations Fir Bolg
+  - associations Fir Bolg chieftain
+  - associations Fomorian
+  - associations fortress builder
 categories:
-  - Irish hero
-  - legendary group of Irish invaders
-  - palace
-  - city name
+  - Hero
+  - Place
+  - hero
+  - Group
 entities:
-  - Delga(Irish hero)
-  - Dún Delgan(palace)
-  - Dundalk(city name)
-  - Fomorian(legendary group of Irish invaders)
-  - Fir Bolg(legendary group of Irish invaders)
+  - (Hero)
+  - (Place)
+  - (Place)
+  - (Group)
+  - (Group)
+  - Cúchulainn(hero)
 tags:
-  - Delga
-  - Dún Delgan
-  - Dundalk
-  - Fomorian
-  - Fir Bolg
+  - 
+  - 
+  - 
+  - 
+  - 
+  - Cúchulainn
 ---
 ``` tab [group1:Info]
 ::: magazinestyle
-Obscure and ancient is Delga, the Irish hero whose palace, Dún Delgan, still persists today in the significant city name Dundalk. His race remains a subject of dispute, as some stories claim him to be a member of the Fir Bolg, a group of legendary Irish invaders, while others consider him a Fomorian. Unfortunately, not much is known about Delga.
+Delga was an ancient Irish hero. His palace stood at Dún Delgan. That name survives in the modern city name Dundalk. His race is disputed. Some stories call him a Fomorian. Others make him a member of the Fir Bolg. The sources agree only that he was old and largely forgotten. MacKillop 2008 settles his record. He is a Fir Bolg chieftain and the builder of the fortress Dún Delgan. The fortress later belonged to Cúchulainn. The dictionary also spells his name Dealga, and the T14 node Dealga routes readers here.
 
 :::
 ```
 ``` tab [group1:Attributes]
-- **Delga**: obscure ancient character
-- **Delga**: name of his palace
-- **Dún Delgan**: remains in the important city name
-- **Fomorian**: some tales call him a
-- **Fir Bolg**: others say he was a member of the
-- **Irish invaders**: legendary groups of
+- **category**: mythology
+- **domain**: celtic
+- **associations**: Cúchulainn
+- **associations**: Dealga
+- **associations**: Dundalk
+- **associations**: Dún Delgan
+- **associations**: Fir Bolg
+- **associations**: Fir Bolg chieftain
+- **associations**: Fomorian
+- **associations**: fortress builder
 ```
 ``` tab [group1:Entities]
-- **Delga**: Irish hero
-- **Dún Delgan**: palace
-- **Dundalk**: city name
-- **Fomorian**: legendary group of Irish invaders
-- **Fir Bolg**: legendary group of Irish invaders
+- ****: Hero
+- ****: Place
+- ****: Place
+- ****: Group
+- ****: Group
+- **Cúchulainn**: hero
 ```
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
+- MacKillop 2008, s.v. 'Delga'
 ```

@@ -1,56 +1,68 @@
 {
-  "name": "Deimne",
-  "attributes": {
-    "category": "mythology",
-    "domain": "celtic",
-    "associations": [
-      "childhood name",
-      "Fionn mac Cumhaill",
-      "fair",
-      "brilliant",
-      "Fianna"
-    ]
+ "name": "Deimne",
+ "attributes": {
+  "category": "mythology",
+  "domain": "celtic",
+  "associations": [
+   "Deima",
+   "Deimne Maol",
+   "Demne Máel",
+   "Domhnach",
+   "Fianna",
+   "Fionn mac Cumhaill",
+   "Nagy",
+   "brilliant",
+   "childhood name",
+   "druidism",
+   "fair",
+   "mael short hair"
+  ]
+ },
+ "entities": [
+  {
+   "name": "Deimne",
+   "type": "Hero"
   },
-  "entities": [
-    {
-      "name": "Deimne",
-      "type": "Hero"
-    },
-    {
-      "name": "Demna",
-      "type": "Hero"
-    },
-    {
-      "name": "Demne",
-      "type": "Hero"
-    },
-    {
-      "name": "Fionn mac Cumhaill",
-      "type": "Hero"
-    },
-    {
-      "name": "Fianna",
-      "type": "Group"
-    }
-  ],
-  "sources": [
-    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-  ],
-  "image": [
-    "https://upload.wikimedia.org/wikipedia/commons/d/d9/Finn_Mccool_Comes_to_Aid_the_Fianna.png"
-  ],
-  "cyphertext": "8S6sGC0RVIkdBQFO5ajdfkeHFOYNRxQusEccqwmTHPEIArlugXl4fm0dEms1Z7tF10gxBYodRU_vFUdp2E45KIgN0LY8eBiKvFhB40nAjkXYu-CrIb6_38Ym1qYz3Xk6jYxmgWb1zSeLAD28AoNegg_v7ldRd4awaiDuVY8IWYbvsTqvIjMSKWKGRYdoycVytog6qj_ldmFEoYPwN4UTEc_aogQ17FVA4h8InXm-BVQ=",
-  "salt": "7CUoI9HIRlS8F1oLlggNWQ==",
-  "text": "Deimne, also given as Demna or Demne, was the childhood name of the Irish hero Fionn mac Cumhaill. The adult name Fionn means 'fair' or 'brilliant.' He bore the name Deimne in his boyhood before he became the celebrated leader of the Fianna. The two names track the same figure from youth to fame in Irish legend.",
-  "okr": {
-    "objective": "Records Deimne, the childhood name of the Irish hero Fionn mac Cumhaill.",
-    "key_results": [
-      "Deimne was the childhood name of the hero Fionn mac Cumhaill.",
-      "The variants Demna and Demne were also used.",
-      "Fionn's adult name meant 'fair' or 'brilliant.'"
-    ],
-    "evidence": [
-      "Monaghan 2003 — Deimne"
-    ]
+  {
+   "name": "Demna",
+   "type": "Hero"
+  },
+  {
+   "name": "Demne",
+   "type": "Hero"
+  },
+  {
+   "name": "Fionn mac Cumhaill",
+   "type": "Hero"
+  },
+  {
+   "name": "Fianna",
+   "type": "Group"
+  },
+  {
+   "entity": "Otherworld",
+   "type": "realm"
   }
+ ],
+ "sources": [
+  "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.",
+  "MacKillop 2008, s.v. 'Deimne'"
+ ],
+ "image": [
+  "https://upload.wikimedia.org/wikipedia/commons/d/d9/Finn_Mccool_Comes_to_Aid_the_Fianna.png"
+ ],
+ "cyphertext": "8S6sGC0RVIkdBQFO5ajdfkeHFOYNRxQusEccqwmTHPEIArlugXl4fm0dEms1Z7tF10gxBYodRU_vFUdp2E45KIgN0LY8eBiKvFhB40nAjkXYu-CrIb6_38Ym1qYz3Xk6jYxmgWb1zSeLAD28AoNegg_v7ldRd4awaiDuVY8IWYbvsTqvIjMSKWKGRYdoycVytog6qj_ldmFEoYPwN4UTEc_aogQ17FVA4h8InXm-BVQ=",
+ "salt": "7CUoI9HIRlS8F1oLlggNWQ==",
+ "text": "Deimne, also given as Demna or Demne, was the childhood name of the Irish hero Fionn mac Cumhaill. The adult name Fionn means fair or brilliant. He bore the name Deimne in his boyhood before he became the celebrated leader of the Fianna. The two names track the same figure from youth to fame in Irish legend. MacKillop 2008 gives the fuller forms. Deimne Maol is the Modern Irish spelling, and the classical Irish boyhood name is Demne Máel. The name appears as Domhnach or Deima in oral tradition. Demne itself implies assurance and firmness. Máel denotes short hair, and it carries links with druidism and the Otherworld. J. F. Nagy studied the significance of the name in Celtica and in The Wisdom of the Outlaw.",
+ "okr": {
+  "objective": "Records Deimne, the childhood name of the Irish hero Fionn mac Cumhaill.",
+  "key_results": [
+   "Deimne was the childhood name of the hero Fionn mac Cumhaill.",
+   "The variants Demna and Demne were also used.",
+   "Fionn's adult name meant 'fair' or 'brilliant.'"
+  ],
+  "evidence": [
+   "Monaghan 2003 — Deimne"
+  ]
+ }
 }

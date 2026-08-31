@@ -2,57 +2,67 @@
 layout: layouts/pce.njk
 title: Delbacháem
 icon: file-lines
-order: 657
+order: 0
 contributors: [ 'Christopher Godwin' ]
 attributes:
-  - Bé Chuma plotted against Art
-  - Bé Chuma angry at Art
-  - Bé Chuma resisted her advances
-  - Bé Chuma showed interest in Delbacháem
-  - Art resisted Bé Chuma's advances
-  - Art showed interest in Delbacháem
-  - Delbacháem disguised herself as beautiful
-  - Delbacháem was freed safely
-  - Delbacháem caused her mother's death
-  - Tara Art banished Bé Chuma
+  - category mythology
+  - domain celtic
+  - associations Ailill Dubdétach
+  - associations Echtrae Airt meic Cuinn
+  - associations Land of Wonder
+  - associations Morgán
+  - associations Otherworld
+  - associations Tara
+  - associations fair shape
+  - associations geis
+  - associations impersonation
+  - associations tower rescue
 categories:
-  - Location
+  - Hero
   - Person
+  - Place
+  - Heroine
 entities:
-  - Bé Chuma(Person)
-  - Art(Person)
-  - Delbacháem(Person)
-  - Tara(Location)
+  - (Heroine)
+  - (Person)
+  - (Hero)
+  - (Person)
+  - (Place)
 tags:
-  - Bé Chuma
-  - Art
-  - Delbacháem
-  - Tara
+  - 
+  - 
+  - 
+  - 
+  - 
 ---
 ``` tab [group1:Info]
 ::: magazinestyle
-The story of Delbacháem, an Irish goddess or heroine, narrates her plight as a prisoner in a lofty tower, held captive by her mother, the formidable Warrior Woman named Coinchenn. It was said that the curse placed on Coinchenn prophesied her death if her daughter were to wed. Coinchenn thwarted all suitors by challenging them to battle, successfully defeating them all, until Art mac Cuinn, the king of Tara, emerged as a victor. Art had been placed under a Geis by his stepmother, Fairy Bé Chuma, who was headstrong and licentious. The Geis forbade Art from eating any food until he had abducted Delbacháem from her enchanted island. Bé Chuma, who was envious of Delbacháem's beauty, plotted to kill them both, having been spurned by Art and rejected by Delbacháem under the guise of her own beauty. Art, aided by mysterious and attractive women, discovered a way to save Delbacháem and rid her of her mother once and for all, fulfilling the prophecy of Coinchenn's demise. Bé Chuma was subsequently banished from Tara by Art.
+Delbacháem was an Irish goddess or heroine of the Otherworld. Her mother held her captive in a high tower. The mother was Coinchenn, a fierce warrior woman. A curse said Coinchenn would die if her daughter wed. Coinchenn beat every suitor in battle. Then Art mac Cuinn, king of Tara, took up the task. His stepmother, the fairy Bé Chuma, had placed him under a geis. He could not eat until he stole Delbacháem from her magical island. Art won the contest. He freed Delbacháem, and her mother died. He then banished Bé Chuma from Tara. MacKillop 2008 gives the naming and the family. The dictionary spells her Delbcháem, Delbchaen, or Dealbcháem, and the name means fair shape. She is the mysterious and beautiful lover of Art in the adventure tale Echtrae Airt meic Cuinn. Her father is Morgán, the ruler of the Land of Wonder. Her terrible mother Coinchenn and her ugly brother Ailill Dubdétach complete the household. Bé Chuma impersonated Delbacháem before Art. She then bound the geis that forced him to fetch the real woman from a mysterious island. Fair women on the island taught Art how to escape the dangers. He lifted her from the high tower and killed her father and mother.
 
 :::
 ```
 ``` tab [group1:Attributes]
-- **Bé Chuma**: plotted against Art
-- **Bé Chuma**: angry at Art
-- **Bé Chuma**: resisted her advances
-- **Bé Chuma**: showed interest in Delbacháem
-- **Art**: resisted Bé Chuma's advances
-- **Art**: showed interest in Delbacháem
-- **Delbacháem**: disguised herself as beautiful
-- **Delbacháem**: was freed safely
-- **Delbacháem**: caused her mother's death
-- **Tara**: Art banished Bé Chuma
+- **category**: mythology
+- **domain**: celtic
+- **associations**: Ailill Dubdétach
+- **associations**: Echtrae Airt meic Cuinn
+- **associations**: Land of Wonder
+- **associations**: Morgán
+- **associations**: Otherworld
+- **associations**: Tara
+- **associations**: fair shape
+- **associations**: geis
+- **associations**: impersonation
+- **associations**: tower rescue
 ```
 ``` tab [group1:Entities]
-- **Bé Chuma**: Person
-- **Art**: Person
-- **Delbacháem**: Person
-- **Tara**: Location
+- ****: Heroine
+- ****: Person
+- ****: Hero
+- ****: Person
+- ****: Place
 ```
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
+- MacKillop 2008, s.v. 'Delbcháem'
 ```
