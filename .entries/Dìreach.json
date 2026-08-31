@@ -24,6 +24,18 @@
     {
       "entity": "Dìreach",
       "attribute": "haunted Glen Eitive"
+    },
+    {
+      "entity": "Dìreach",
+      "attribute": "name from Scottish Gaelic dithreach, desert, uncultivated, or solitary"
+    },
+    {
+      "entity": "Dìreach",
+      "attribute": "giant form with one leg on the haunch and a tuft of inflexible hair"
+    },
+    {
+      "entity": "Glen Eitive",
+      "attribute": "perhaps a distorted form of Glen Etive, eight miles south of Ballachulish"
     }
   ],
   "entities": [
@@ -54,24 +66,31 @@
     {
       "entity": "flail",
       "type": "Object"
+    },
+    {
+      "entity": "Glen Etive",
+      "type": "Location"
+    },
+    {
+      "entity": "Ballachulish",
+      "type": "Location"
     }
   ],
   "sources": [
-    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.",
+    "MacKillop 2008, s.v. 'dìreach'"
   ],
   "cyphertext": "LxV7oxYbpAX-S2iRZ_3xoxn_lb1NN4b-8bKUammRP3NeBPs1NvRh9jT_WU_MQ7qGPA==",
   "salt": "Qk1uywTY6MW6zhnmNxPMoQ==",
-  "text": "Dìreach names one form of the Scottish monster called the fachan, also known as the athach. The fachan stood on one leg and had one eye. It carried a flail covered with iron apples in a hand that grew from its chest. The creature struck at passersby while hopping on that single leg. The dìreach version haunted the lonely Glen Eitive in Scotland. Some writers trace the monster to fear of a druid's cursing posture. A druid cast a curse by standing on one leg with one arm raised in the air. That pose appears in the ritual glám dícenn. The dìreach thus connects a folkloric figure to an old practice rather than to a distinct being.",
+  "text": "Dìreach names one form of the Scottish monster called the fachan, also known as the athach. MacKillop derives the name from Scottish Gaelic dithreach, a word for desert, uncultivated, or solitary ground. Folklore assigns the being to an ugly class of giants. Improbable deformities set it apart from its kin. A single hand sprouted from the middle of its chest. One leg grew from its haunch. A single eye rested in its head. A tuft of stiff hair that never bent grew from that head. That chest hand gripped a flail studded with iron apples. The creature struck at passersby while hopping on the single leg. The dìreach haunted the deserted Glen Eiti, a name also spelled Eite, Eitidh, or Eitli. MacKillop reads that glen as a distorted form of Glen Etive, which lies eight miles south of Ballachulish. The related Gaelic word éitidh means fierce, dreadful, ugly, or dismal. Some writers trace the monster to fear of a druid's cursing posture. A druid cast a curse by standing on a single leg, with one arm raised high. That pose appears in the ritual glám dícenn. The dìreach thus ties a folkloric figure to an old practice rather than to a distinct being.",
   "okr": {
     "objective": "Define the Dìreach as a form of the Scottish fachan monster and connect it to the druid cursing posture.",
     "key_results": [
-      "Dìreach is one named form of the Scottish fachan monster.",
-      "The fachan had one leg, one eye, and a hand growing from its chest.",
-      "The hand held a flail covered with iron apples.",
-      "Authors link the monster to a druid's one-legged cursing posture."
+      "Dìreach is one named form of the Scottish fachan monster, from Gaelic dithreach, desert or solitary.",
+      "The creature was a giant with one hand, one leg on its haunch, one eye, and a tuft of inflexible hair.",
+      "It haunted Glen Eiti, which MacKillop reads as a distorted form of Glen Etive near Ballachulish.",
+      "Writers link the monster to a druid's one-legged cursing posture, the pose of glám dícenn."
     ],
-    "evidence": [
-      "Monaghan, Encyclopedia of Celtic Mythology and Folklore (2003): Dìreach; fachan."
-    ]
+    "evidence": "MacKillop 2008, s.v. 'dìreach'."
   }
 }

@@ -20,6 +20,42 @@
         {
             "entity": "Mount Snowdon",
             "attribute": "where eagles were held to be oracular and control the weather"
+        },
+        {
+            "entity": "eagle",
+            "attribute": "one of the oldest animals in Irish and Welsh tradition, called the veritable bird in Gaelic"
+        },
+        {
+            "entity": "eagle",
+            "attribute": "Gaulish examples copied from Roman models"
+        },
+        {
+            "entity": "Taliesin",
+            "attribute": "hero who took the eagle form among a series of transformations"
+        },
+        {
+            "entity": "Tuan mac Cairill",
+            "attribute": "hero who took the eagle form among a series of transformations"
+        },
+        {
+            "entity": "Culhwch",
+            "attribute": "consulted the ancient eagle of Gwernabwy while searching for Mabon"
+        },
+        {
+            "entity": "eagle of Gwernabwy",
+            "attribute": "ancient bird consulted by Culhwch"
+        },
+        {
+            "entity": "hawk of Achill",
+            "attribute": "tricked an eagle and ate its chicks during a fruitless errand"
+        },
+        {
+            "entity": "eagle",
+            "attribute": "later emblem of Saint John the Evangelist, the sign Scorpio, and the element water"
+        },
+        {
+            "entity": "eagle",
+            "attribute": "in Gaelic folklore Adam and Eve exist as eagles"
         }
     ],
     "entities": [
@@ -46,25 +82,67 @@
         {
             "entity": "Wales",
             "type": "Place"
+        },
+        {
+            "entity": "Taliesin",
+            "type": "Person"
+        },
+        {
+            "entity": "Tuan mac Cairill",
+            "type": "Person"
+        },
+        {
+            "entity": "Culhwch",
+            "type": "Person"
+        },
+        {
+            "entity": "eagle of Gwernabwy",
+            "type": "Animal"
+        },
+        {
+            "entity": "Gwernabwy",
+            "type": "Person"
+        },
+        {
+            "entity": "Mabon",
+            "type": "Person"
+        },
+        {
+            "entity": "hawk of Achill",
+            "type": "Animal"
+        },
+        {
+            "entity": "Snowdonia",
+            "type": "Place"
+        },
+        {
+            "entity": "Saint John the Evangelist",
+            "type": "Person"
+        },
+        {
+            "entity": "Adam and Eve",
+            "type": "Person"
         }
     ],
     "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.",
+        "MacKillop 2008, s.v. 'eagle'"
     ],
     "image": [
         "https://upload.wikimedia.org/wikipedia/commons/6/60/Eagles_together.jpg"
     ],
     "cyphertext": "p-HnqXX59b0FXjRQ3-1L5vj5usOo3tvRwckDjCTWe8beRnDYb_vz1aeMKEAg6C07mwJyb3c0EwEp1z3yizZffXi3wfnkTFae02rHw20Z9pqUM0gepCNIPQ4QheJ2ftPAYo8dF-6NBX1O6kLBBEAKkPN9xpLvcgV4nBbAmOcXZog29HTmoScBe_60UBtYTympVwcTCI56SRNQm_mIpd0rcNFy5gPbXVWbaeqxOiTlCFH4pKqB7dK7IBp-gzgtjA4_4ipB-uenN2gerBVAj4EhoV0Bq9O-G9fD0QGCLqQEiGU1huNpsFVjS28FcA7YpdCRa27XegkBiz9WP-AFRDmjDUbkbErQqAWa3mfymAgiNI3MA8eabqsFa-RjnP2Q9UJclT-NdgWYcAlx7lYBEIHRym_E6dJOeUWubsochJnq1LJ-5pZ2a1bIueh_dAMkMpaAMtCOolyvfpdv4l1sHxzeFDoOHP_UPgrZrVTKOPUfJddIEshH_vCE7NseTGYZNfUv793-abBdqtXFJYz9x68nWkgBSTdMyaJN0XcanbQDe3LnDaJM0ojwthhvR4E1zTtV8P7EsfKlOI003VEkjjYoovLxtdKDfcdoYhvJED-5PWqp_8sbb8tq2i1XuY-VcJpe0sONWEcwprk7jfjwAWwQrAldMICApaGFK4BSAo-ZIaECCd6XdGhqI2okEU-_kl5jDnP3Lvr9ejHhvsgo1jZspQynqY9r8OdDVBiz0NKAOzRVDekHT8pOcEB07lOTDjZkUgp6qNa2zk4GhesPtEWsCMW48oOHehMKBOG6GSwYp2Hu92UovR4eqbsDpmascpjMmzjJBIMHZF_3LUspogtvJCQxqGwPODAOkTz6rFJSpdaK6MOiALNbTJiH1naaQiVfG5ApqFw-3nT6ai88JvdkCLDk8YOEGroi5YYB_O2NZucW1OYCzYFbHT8Sf6W91IgdM6Yvudy91sIlcgbxOyjmugmPwFu_iCm3f7_wlvEXANwRbN1vAY-Uz92Sk5RdiVJz3SCGE5740KcEAczS5kqCsGaLaPVgYuR_v9Ak-ynCTQd5WlQXMcRAzCxcVAyd-B0ASksKjpJVIdhK3ZaC9ocVLcgkpcJF795vTcJswCdj0gTpJfSwuM9MXDjkjBOmcn9ye0BZwbE4Ta2_9_VJCW1KG7DICY3B3TXfvaxYRRMNOFdgIdmIILKChqXNz1DWUNCdXlj2swW53cqsxtXqBdqYK27DdCEexiDXjLbNjg7pYgN1PzCkjCBHSYU7CCItlczrJhGDVVUk0tAjmqcmrpcx6E0aA0Jg0N9T2N_qWITZAiCy4qKWhBF5tmYHDbJggTWn3uneCp84ytGLc076X7tXu75rfoGqTNORe5T3DwJY3rKFwobLwYB_Jxw2ZC9qMQ6LHS0mWv7jRntTB_31ZUCJzuovFSxIRwcP3SSMd75ZQViDGzhlz_2DBDAp8unBmZpJWyrcPjEkLxEgq4vIWLjdEEJJ-tiyK85aStMIN8QCRAx6lvdgnE4vYRkhRqT5OflRCZN-bWaW0sJ5FTjKKgDjeLvwIRE9O-77W3-2cKNZZP947PPjeJwQ1GYp3hYXNZDMoJhwKRP8PDNTSpSzwPHJfzcRIiU99UGjCB91s0JbNUrxz0gS3_jYOFV5x91UuyhMgt5Ukhx5uFxDHAYerpFcc7oJxaGOjxniRj9rZXfUXPis39UeuTwhEYbQ79RPpgoH3U81x9yIUtslkXfw5_8=",
     "salt": "KxHeEyud2fjmsRH096Sr3w==",
-    "text": "The eagle is a symbolic bird. This large bird of prey was once plentiful in Celtic lands. Now it is far less so. Its size and fierceness did not give it much symbolic power among the Celts. They used the eagle mainly to show completeness in a list of a figure's other identities. The one-eyed salmon of wisdom could appear as Fintan. That ancient invader shifted into many forms, the eagle among them. In British legend a magic pig named Henwen bore eaglets and also made bees and wolves. Only the hero Lleu Llaw Gyffes took the eagle for himself. He changed into it after his wife murdered him. The bird sometimes marked oracles or came as an omen of things to come. A shape-shifting magician or bard could also wear the eagle's form. Other lore kept a belief in the eagle's might. In Wales the birds held the power of divination. Eagles on Mount Snowdon were held to be oracular. They could control the weather. People who ate eagle flesh gave their heirs strong psychic powers. These lasted to the ninth generation.",
+    "text": "The eagle is a symbolic bird. MacKillop notes that this large diurnal bird of prey plays a surprisingly small part in Celtic myth and art beside other European traditions. Gaulish examples appear copied from Roman models. Yet Irish and Welsh tradition counts the eagle among the oldest of animals. A Scottish Gaelic phrase calls it the veritable bird. The one-eyed salmon of wisdom could appear as Fintan mac Bóchra. That ancient invader shifted into many forms, the eagle among them. In British legend a magic pig named Henwen bore eaglets and also made bees and wolves. Only the hero Lleu Llaw Gyffes took the eagle for himself. He changed into it after his wife murdered him. MacKillop adds Taliesin and Tuan mac Cairill as heroes who wore the same shape. These changes often ran in a series, and a shift into a salmon usually followed the eagle stage. Culhwch consulted the ancient eagle of Gwernabwy during his search for Mabon. In Irish folklore the hawk of Achill tricked an eagle. It sent the bird on a fruitless errand and ate the eagle's chicks while it was away. The bird sometimes marked oracles or came as an omen of things to come. A shape-shifting magician or bard could also wear the eagle's form. In Wales the eagles of Snowdonia acted as oracles of peace and war. Flying high signalled victory. Flying low and crying without pause implied defeat for the Welsh. People who ate eagle flesh gave their heirs strong psychic powers. These lasted to the ninth generation. Later tradition hands the bird several roles: emblem of Saint John the Evangelist, zodiac Scorpio, or the water element among the classical four. Irish and Scottish Gaelic folklore holds that Adam and Eve live on as eagles.",
     "okr": {
         "objective": "Describe the eagle as a Celtic symbolic bird with limited power but strong mythic reach.",
         "key_results": [
-            "The eagle once was plentiful in Celtic lands and now is far less so.",
-            "The Celts used the eagle to show completeness in identity lists, not for power.",
-            "Myth links the eagle to Fintan, to Henwen's eaglets, and to Lleu Llaw Gyffes.",
-            "In Wales eagles on Mount Snowdon were oracular and could control the weather."
+            "The eagle plays a small role in Celtic myth beside other European traditions, and Gaulish examples copy Roman models.",
+            "Irish and Welsh tradition counts the eagle among the oldest animals, the Gaelic veritable bird.",
+            "Myth links the eagle to Fintan mac Bóchra, Henwen's eaglets, and the shape-shifters Lleu Llaw Gyffes, Taliesin, and Tuan mac Cairill.",
+            "Culhwch consulted the ancient eagle of Gwernabwy, and the hawk of Achill once tricked an eagle.",
+            "The Snowdonia eagles served as oracles of peace and war, and eagle flesh passed psychic power to nine generations of heirs."
         ],
-        "evidence": "Monaghan 2008, s.v. 'eagle'."
+        "evidence": "MacKillop 2008, s.v. 'eagle'."
     }
 }

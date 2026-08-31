@@ -8,6 +8,18 @@
     {
       "entity": "duck",
       "attribute": "animal of Sequana, shown as a boat-prow shape"
+    },
+    {
+      "entity": "duck",
+      "attribute": "appears often in Romano-Celtic iconography and ritual, rarely in the wider Celtic world"
+    },
+    {
+      "entity": "duck",
+      "attribute": "small bronze figure found at Milber Down, Devon"
+    },
+    {
+      "entity": "duck",
+      "attribute": "Rotherly Down figurine gives it a human head, suggesting shape-shifting"
     }
   ],
   "entities": [
@@ -22,27 +34,34 @@
     {
       "entity": "Seine",
       "type": "Location"
+    },
+    {
+      "entity": "Milber Down",
+      "type": "Location"
+    },
+    {
+      "entity": "Rotherly Down",
+      "type": "Location"
     }
   ],
   "sources": [
-    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.",
+    "MacKillop 2008, s.v. 'duck'"
   ],
   "image": [
     "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Bucephala-albeola-010.jpg/1200px-Bucephala-albeola-010.jpg"
   ],
   "cyphertext": "m7oG8jkl8lAzKSJMEi2bXzI7OQE76BzVrnGOgf0iVhokoTC9AEaz6j7nNnZRijiq9oDZLjGQbdO5EMIr_gMjcK5hYehpdoTSB6GLQxCjAyiVvBFFQeAfpk0xVNDA8SKW-By0p_BWs5mj6r2rvihv-YhUW0FeUxjWuz5-DrSESsFxn3Hrn7NnVrww0y38ThZsAp-o1xz6tAJwg9VoJgG6iYV6bnakDiLhgt9bJDQKjyOfeCzOzO8DiCcsZ1W8PEMepYrKeYk_3RPR3bWoe_xYvsGvzKYV3YHrIpgmsnbi3EwP4RLLsW3y9O8-FWOS7qxiEg6zdfw-LV26PTcG0YmsTmx_MY-ZnCxeo7dhQ3vOc_4aEQ==",
   "salt": "schMostoi00zYjYAdBmD0g==",
-  "text": "The duck acted as a symbol bird in Celtic tradition. It was the animal of Sequana, the goddess of the source of France's river Seine. Artists often showed Sequana sailing in a boat. The prow of that boat was shaped into a duck's head. Birds frequently stand for Celtic divinity. Goddesses draw this bird symbolism most often.",
+  "text": "The duck served as a symbol bird in Celtic tradition. The water bird of the Anatidae family appears often in Romano-Celtic art and ritual. It appears occasionally in early Irish sources and only rarely in other Celtic lands. Like the swan, it moves through two elements, water and air. The duck belongs to Sequana, the goddess who rules the spring where the river Seine rises near Dijon. Artists place her in a boat whose prow carries a duck's head. Archaeologists found a small bronze duck at Milber Down in Devon. The bronze shares that duck-head design. At Rotherly Down in England, one figurine gives a duck a human head on its back. That hybrid form hints at shape-shifting. Birds often stand for Celtic divinity, and goddesses draw this bird symbolism most often.",
   "okr": {
-    "objective": "Rewrite the duck entry in CSG-SME1000 prose with source-accurate nouns.",
+    "objective": "Fuse MacKillop's duck material into the symbolic-bird entry without padding.",
     "key_results": [
-      "Meets CSG-SME1000 sentence rules",
-      "All required nouns present (Sequana, Seine)",
-      "59 words",
-      "No prose fragments"
+      "Adds the Romano-Celtic iconography spread and the two-elements mobility",
+      "Names the Milber Down bronze and the Rotherly Down hybrid figurine",
+      "Keeps the Sequana boat with the duck-head prow at the Seine source near Dijon",
+      "Meets CSG-SME1000 sentence rules"
     ],
-    "evidence": [
-      "monaghan.txt:12656 duck (symbolic bird)"
-    ]
+    "evidence": "MacKillop 2008, s.v. 'duck'."
   }
 }

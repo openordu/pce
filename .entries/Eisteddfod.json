@@ -20,6 +20,22 @@
   {
    "entity": "Welsh",
    "attribute": "the language spoken at the festival"
+  },
+  {
+   "entity": "Eisteddfod",
+   "attribute": "name from Welsh words meaning to sit and to be"
+  },
+  {
+   "entity": "Eisteddfod",
+   "attribute": "venues alternate between north and south Wales"
+  },
+  {
+   "entity": "Eisteddfod Genedlaethol Cymru",
+   "attribute": "run since 1880 by a professional association under the Honourable Society of Cymmrodorion"
+  },
+  {
+   "entity": "Eisteddfod Genedlaethol Cymru",
+   "attribute": "Welsh made the required language in 1937, crowds near 150,000"
   }
  ],
  "entities": [
@@ -46,33 +62,36 @@
   {
    "entity": "Welsh",
    "type": "Language"
+  },
+  {
+   "entity": "Honourable Society of Cymmrodorion",
+   "type": "Organization"
+  },
+  {
+   "entity": "gorsedd",
+   "type": "Organization"
   }
  ],
  "sources": [
   "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.",
-  "Koch 2006, s.v. 'Eisteddfod Genedlaethol Cymru'"
+  "Koch 2006, s.v. 'Eisteddfod Genedlaethol Cymru'",
+  "MacKillop 2008, s.v. 'eisteddfod'"
  ],
  "image": [
   "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Flag_of_Wales.svg/1200px-Flag_of_Wales.svg.png"
  ],
  "cyphertext": "lxepNzqZTVriFm4eTFKbs1VSW9EytWgwK3nR-sZgKMT-8NluBosWCX2cgNUr_9fkhk881RIiD4UQoDKXqppbBvlAHpfJXcfaASan9i0mGSCAji-vKQe2Hl-PmBurYE4qO5qWcoAhy4BrVmnZIHKKd-bDwsSsi-voQAC6to8Dd6k_Wg3yncOFnfjBYNS7v7JZ3IbEKaSCIUK01TyCZ_MRrAJ6XVuztUzmkBBy3Kvyw2NB-usMOPvqi_3QjfI1CDT9XRzQuDrqgZ7XnvCvYGOexo7fxvZSSgCbZvCj2mQ__tdQDqnyNMv39s8zhtX9q7zoGMoyqfaVHDOy-cQ0jazlaQCkjSEqtxkfZPv4huO-pfI1PgzqqcZvAhQUdFxdVNU0XGDuiadO1S2gfbY99OkHEsJQdCkKU2YizMSgTvAlWE0ctxXP8MytrL9PXut7BGMeZwmhpgWMy_i2XKoG7GZnDp46fNQNNNQKZOYRieIsKNhGCSugfDjNkdztjB1TjgGPpZB__nkttdLC0nUy56kZCQ_7t_SFgWk6iaC4_uIUeN9qdXtebyZ4bKW8AlU0Qkb-3W2CdTfyIneJ4AgMkOgcLPWQSiMLiXY6HCHM7hiLqg_7Npoo2ZgWi0RuOa51ZfAA7LY-JbQNMN11aY263BoWeux7xwkFjjinI0Kw13DR2vHQXd7NfK4GgctDNJg8Ma6l7JznUaajgFGhHxgmPquC6B13jX0axB0_3-xal1CYCHdQUYDehoupRZCEcQYwCQvwOOoHtqZMzY_kRiWUPEryz3PuYQds6RhRywaZGGybm0estU3NkyIlbuD3pPiQa2AG1l_caLTUJql8wAZyBJfWXR3ZbjaO82aWWLPEGtkksTfIxNXgRJha6oysjR_goT9JXc02oc5uoMdS01UQNA==",
  "salt": "HHy2m7zl9I7SPUUCmnjvjQ==",
- "text": "The Eisteddfod is the great cultural festival of Wales. Its formal title is the Eisteddfod Genedlaethol Cymru. Each year it meets in a Welsh town near the first of August. Bards and poets gather there to compete in song and verse. The contests produce many fine performers and memorable shows. The festival stirs competition over prose, music, and drama. Wales treats the gathering as the chief sign of its identity. Supporters call it irreplaceable. The custom may date from the old Celtic age. Written records place a meeting in 1176. It was reborn as a national event in 1860. The festival has helped to revive the Welsh language. That language has carried the national spirit for close to two thousand years. The gathering has served as a forum for national concerns and as a stage for protest and dissent.",
+ "text": "The Eisteddfod is the great cultural festival of Wales. Its formal title is the Eisteddfod Genedlaethol Cymru. The festival meets each year in a Welsh town near the start of August. Venue choice rotates between northern and southern Wales. Bards, poets, and musicians gather to compete in song and verse. The contests produce many fine performers and memorable shows. The festival stirs competition over prose, music, and drama. Wales treats the gathering as the chief sign of its identity. Supporters call it irreplaceable. MacKillop traces the name to Welsh words for to sit and to be, so the term means a sitting. The custom may date from the old Celtic age. Written records place a meeting in 1176. MacKillop traces the practice with certainty to the fifteenth century. It was reborn as a national event in 1860. Since 1880 a professional body, the Honourable Society of Cymmrodorion, has managed the festival. The Welsh language has carried the national spirit for close to two thousand years. It has always dominated the proceedings. The assembly made Welsh the required language in 1937. Around 150,000 people attend each year. The gathering has served as a forum for national concerns and as a stage for protest and dissent. Other Celtic lands later copied the assembly as a model for their own cultural festivals. MacKillop points to Hywel T. Edwards, The Eisteddfod, Cardiff, 1990, for further study.",
  "okr": {
   "objective": "Identify the Welsh national cultural festival, its competitions, and its history.",
   "key_results": [
-   "Place the Eisteddfod Genedlaethol Cymru as the national festival of Wales.",
-   "State that records trace the celebration to 1176.",
-   "Note the modern event took shape in 1860.",
-   "Describe the festival as a sign of Welsh identity and a stage for debate.",
-   "Show its role in reviving the Welsh language."
+   "Place the Eisteddfod Genedlaethol Cymru as the national festival of Wales, held in the first week of August at alternating venues.",
+   "State that records trace the celebration to 1176 and MacKillop traces it with certainty to the fifteenth century.",
+   "Note the modern national event took shape in 1860 and has run under the Cymmrodorion aegis since 1880.",
+   "Describe Welsh as the dominant language, made compulsory in 1937, with crowds near 150,000.",
+   "Show the festival as a sign of Welsh identity and the model for assemblies in other Celtic lands."
   ],
-  "evidence": [
-   "Records place a notable meeting of bards at 1176.",
-   "The festival was rebuilt as a national event in 1860.",
-   "The language spoken is Welsh, kept at the heart of the nation.",
-   "Monaghan 2008, s.v. 'Eisteddfod'.",
-   "Koch 2006, s.v. 'Eisteddfod Genedlaethol Cymru'."
-  ]
+  "evidence": "MacKillop 2008, s.v. 'eisteddfod'."
  }
 }
