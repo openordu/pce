@@ -1,0 +1,43 @@
+{
+  "name": "athair lus",
+  "fname": "athair_lus.json",
+  "text": "athair lus is an Irish plant name that translates as father herb. The term denotes ground ivy. Irish tradition credited the plant with powers that work against the fairies.",
+  "entities": [
+    {
+      "entity": "athair lus",
+      "type": "Thing"
+    },
+    {
+      "entity": "ground ivy",
+      "type": "Thing"
+    },
+    {
+      "entity": "fairies",
+      "type": "Being"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "athair lus",
+      "attribute": "the Irish designation for ground ivy, meaning father herb"
+    },
+    {
+      "entity": "athair lus",
+      "attribute": "believed to hold powers against the fairies"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'athair lus'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Identify athair lus as the Irish name for ground ivy with anti-fairy repute.",
+    "key_results": [
+      "Text records the literal translation father herb.",
+      "Text notes the traditional use of the plant against fairies."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'athair lus'."
+  }
+}

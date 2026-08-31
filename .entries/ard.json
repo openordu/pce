@@ -1,0 +1,47 @@
+{
+  "name": "ard",
+  "fname": "ard.json",
+  "text": "ard is an Irish and Scottish Gaelic term for something high or raised above its surroundings. MacKillop also records the word as a prefix, ard-. Place-names and titles use it very often. The prefix sometimes stands apart, as in Ard Macha. It sometimes attaches to the next element, as in Ardmore. For this reason the dictionary sorts every ard- entry letter by letter instead of grouping the forms.",
+  "entities": [
+    {
+      "entity": "ard",
+      "type": "Concept"
+    },
+    {
+      "entity": "Ard Macha",
+      "type": "Place"
+    },
+    {
+      "entity": "Ardmore",
+      "type": "Place"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "ard",
+      "attribute": "Irish and Scottish Gaelic term denoting height or elevation"
+    },
+    {
+      "entity": "ard",
+      "attribute": "common element in place-names and titles"
+    },
+    {
+      "entity": "ard",
+      "attribute": "appears joined and separate, as in Ardmore and Ard Macha"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'ard'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Define ard as the Irish and Scottish Gaelic height term and explain its dictionary treatment.",
+    "key_results": [
+      "Text gives Ard Macha and Ardmore as examples of separate and joined usage.",
+      "Text explains the letter-by-letter sorting of ard- entries."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'ard'."
+  }
+}

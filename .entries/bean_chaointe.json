@@ -1,0 +1,34 @@
+{
+  "name": "bean chaointe",
+  "fname": "bean_chaointe.json",
+  "text": "bean chaointe is an Irish-language form that MacKillop lists as a direct cross-reference. The entry gives it no article body of its own. Readers must follow the headword banshee, where the full record sits.",
+  "entities": [
+    {
+      "entity": "bean chaointe",
+      "type": "Concept"
+    },
+    {
+      "entity": "banshee",
+      "type": "Being"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "bean chaointe",
+      "attribute": "Irish see-reference pointing to the headword banshee"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'bean chaointe'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "bean chaointe is an Irish cross-reference to banshee.",
+    "key_results": [
+      "Signpost cites the headword banshee for the full record."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'bean chaointe'."
+  }
+}

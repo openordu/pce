@@ -1,0 +1,38 @@
+{
+  "name": "aughisky",
+  "fname": "aughisky.json",
+  "text": "aughisky is a spelling of the Irish water-horse term that W. B. Yeats and other writers chose. MacKillop records the form as a spelling variant with no article of its own. The full record sits under each uisce, and readers should follow that headword.",
+  "entities": [
+    {
+      "entity": "aughisky",
+      "type": "Being"
+    },
+    {
+      "entity": "each uisce",
+      "type": "Being"
+    },
+    {
+      "entity": "W. B. Yeats",
+      "type": "Character"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "aughisky",
+      "attribute": "the spelling W. B. Yeats preferred for each uisce"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'aughisky'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "aughisky is a Yeats-era spelling of each uisce.",
+    "key_results": [
+      "Signpost cites each uisce for the full record."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'aughisky'."
+  }
+}

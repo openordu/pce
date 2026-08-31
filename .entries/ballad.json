@@ -1,0 +1,47 @@
+{
+  "name": "ballad",
+  "fname": "ballad.json",
+  "text": "The ballad is a song form that circulated anonymously across Western Europe. Its composition in many lands, including the Celtic-speaking ones, took hold after the 12th century. MacKillop derives the word from Old French baladé. Modern Irish renders the term as bailéad. Scottish Gaelic uses duanag, a diminutive of duan, meaning song. The language also offers òran for song, laoidh for verse, and luinneag for a ditty. Manx has bannag, while Welsh gives baled and balad. The Breton term is gwerz.",
+  "entities": [
+    {
+      "entity": "ballad",
+      "type": "Text"
+    },
+    {
+      "entity": "bailéad",
+      "type": "Text"
+    },
+    {
+      "entity": "duanag",
+      "type": "Text"
+    },
+    {
+      "entity": "gwerz",
+      "type": "Text"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "ballad",
+      "attribute": "anonymous song form whose Celtic composition took hold after the 12th century"
+    },
+    {
+      "entity": "ballad",
+      "attribute": "renders in Modern Irish as bailéad and in Scottish Gaelic as duanag"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'ballad'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Define the ballad as an anonymous Western European song form and list its Celtic-language terms.",
+    "key_results": [
+      "Date the rise of ballad composition to after the 12th century.",
+      "Record the Irish, Scottish Gaelic, Manx, Welsh, and Breton terms."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'ballad'."
+  }
+}

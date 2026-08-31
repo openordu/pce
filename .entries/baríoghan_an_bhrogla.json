@@ -1,0 +1,38 @@
+{
+  "name": "baríoghan an bhrogla",
+  "fname": "baríoghan_an_bhrogla.json",
+  "text": "baríoghan an bhrogla is an Irish phrase. It translates as queen of the fairy palace. MacKillop groups it with the variant forms banríon na brug and bean ríghan na burgh. The phrase may denote the otherworld woman Úna or the figure Grian.",
+  "entities": [
+    {
+      "entity": "baríoghan an bhrogla",
+      "type": "Concept"
+    },
+    {
+      "entity": "Úna",
+      "type": "Being"
+    },
+    {
+      "entity": "Grian",
+      "type": "Being"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "baríoghan an bhrogla",
+      "attribute": "Irish phrase meaning queen of the fairy palace, perhaps denoting Úna or Grian"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'baríoghan an bhrogla'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Define baríoghan an bhrogla as an Irish phrase for the queen of the fairy palace.",
+    "key_results": [
+      "List its variant forms and its possible referents Úna and Grian."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'baríoghan an bhrogla'."
+  }
+}

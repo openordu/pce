@@ -1,0 +1,43 @@
+{
+  "name": "arkan sonney",
+  "fname": "arkan_sonney.json",
+  "text": "arkan sonney is the Manx fairy pig. English speakers on the Isle of Man also call it the lucky piggy. Tradition usually gives the animal a white coat and red ears, a colouring shared by many Celtic supernatural creatures. The pig can change its size, yet observers report no change of shape. People believe it brings luck to anyone who catches it, but the animal is hard to catch.",
+  "entities": [
+    {
+      "entity": "arkan sonney",
+      "type": "Animal"
+    },
+    {
+      "entity": "Man",
+      "type": "Place"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "arkan sonney",
+      "attribute": "Manx fairy pig, white with red ears"
+    },
+    {
+      "entity": "arkan sonney",
+      "attribute": "renders as lucky piggy in English"
+    },
+    {
+      "entity": "arkan sonney",
+      "attribute": "can change size but not shape"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'arkan sonney'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Define arkan sonney as the lucky fairy pig of Manx tradition.",
+    "key_results": [
+      "Text records the white coat and red ears of the animal.",
+      "Text records its power to change size, not shape, and its luck-bringing repute."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'arkan sonney'."
+  }
+}

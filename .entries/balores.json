@@ -1,0 +1,43 @@
+{
+  "name": "balores",
+  "fname": "balores.json",
+  "text": "The balores is a Cornish name for the chough, a crow-like bird of the species pyrrhocorax pyrrhocorax. The bird shows black plumage with a red bill and red legs. Cornish usage usually sets the name behind the definite article, giving An Balores. The chough stands as a symbol of Cornish identity. R. Morton Nance chose it for the title of his play in the Cornish language, An Balores, staged in 1932. Cornish tradition also ties the chough to King Arthur.",
+  "entities": [
+    {
+      "entity": "balores",
+      "type": "Animal"
+    },
+    {
+      "entity": "An Balores",
+      "type": "Text"
+    },
+    {
+      "entity": "King Arthur",
+      "type": "Character"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "balores",
+      "attribute": "Cornish name for the chough, species pyrrhocorax pyrrhocorax"
+    },
+    {
+      "entity": "balores",
+      "attribute": "symbol of Cornish identity and title of the 1932 play An Balores by R. Morton Nance"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'balores'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Define balores as the Cornish term for the chough and a marker of Cornish identity.",
+    "key_results": [
+      "Record the species and colouring of the bird.",
+      "Note the 1932 play An Balores by R. Morton Nance and the Arthurian link."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'balores'."
+  }
+}

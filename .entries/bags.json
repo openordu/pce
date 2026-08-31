@@ -1,0 +1,34 @@
+{
+  "name": "bags",
+  "fname": "bags.json",
+  "text": "The entry bags records a discarded derivation. Older writers took the name Fir Bolg to mean Men of the Bags. Informed commentators no longer accept that account.",
+  "entities": [
+    {
+      "entity": "bags",
+      "type": "Concept"
+    },
+    {
+      "entity": "Fir Bolg",
+      "type": "Being"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "bags",
+      "attribute": "word behind a discarded derivation of the name Fir Bolg"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'bags'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Record the rejected derivation that read Fir Bolg as Men of the Bags.",
+    "key_results": [
+      "State that informed commentators no longer accept the derivation."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'bags'."
+  }
+}

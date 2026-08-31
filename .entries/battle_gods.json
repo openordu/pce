@@ -1,0 +1,44 @@
+{
+  "name": "battle gods",
+  "fname": "battle_gods.json",
+  "text": "battle gods is a headword that MacKillop uses to gather Irish war deities under one pointer. The entry directs readers to badb and néit for the main record. It also notes bócánach and bánánach, whom it names as the battle demons. The Battle of... titles sit under Welsh cad and Irish cath.",
+  "entities": [
+    {
+      "entity": "battle gods",
+      "type": "Being"
+    },
+    {
+      "entity": "badb; néit",
+      "type": "Being"
+    },
+    {
+      "entity": "bócánach",
+      "type": "Being"
+    },
+    {
+      "entity": "bánánach",
+      "type": "Being"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "battle gods",
+      "attribute": "points to badb and néit for the main record, with secondary pointers to bócánach and bánánach and to the Battle-of titles under cad and cath"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'battle gods'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "battle gods is a multi-target cross-reference entry pointing to badb and néit.",
+    "key_results": [
+      "Signpost cites badb and néit for the main record.",
+      "Signpost notes bócánach and bánánach as secondary pointers.",
+      "Signpost notes the Battle-of titles filed under Welsh cad and Irish cath."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'battle gods'."
+  }
+}
