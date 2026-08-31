@@ -8,6 +8,18 @@
     {
       "entity": "féis",
       "attribute": "Celtic term for a feast"
+    },
+    {
+      "entity": "féis",
+      "attribute": "Irish feast term from a verb meaning to sleep with"
+    },
+    {
+      "entity": "féis",
+      "attribute": "royal marriage feast celebrated at Cruachain, Emain Macha, and Tara"
+    },
+    {
+      "entity": "Feis Cheoil",
+      "attribute": "musical convention founded at Dublin in 1897"
     }
   ],
   "entities": [
@@ -18,24 +30,42 @@
     {
       "entity": "Feast",
       "type": "event"
+    },
+    {
+      "entity": "Tara",
+      "type": "place"
+    },
+    {
+      "entity": "Cruachain",
+      "type": "place"
+    },
+    {
+      "entity": "Emain Macha",
+      "type": "place"
+    },
+    {
+      "entity": "Feis Cheoil",
+      "type": "event"
     }
   ],
   "sources": [
-    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.",
+    "MacKillop 2008, s.v. 'feis'"
   ],
   "image": [
     "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Feis_competition.jpg/1200px-Feis_competition.jpg"
   ],
   "cyphertext": "8SMUvKvXNqcpef37pPKECGT4Wog4Etcws-K1ahZBJie1RPxAttReGZ_Q96MF",
   "salt": "wZYLgJ-DcgmVJ_jrrXQ1hw==",
-  "text": "Féis is a cross-reference that directs the reader to the Feast entry.",
+  "text": "Féis is a cross-reference that directs the reader to the Feast entry. MacKillop records féis, with plural feiseanna, from an Irish verb meaning to sleep with. Early Irish gave the word as many as six meanings. English usage keeps two main senses. One sense names a feast or celebration, chiefly for a royal marriage. Such a feast could also stage a symbolic union with a sovereignty figure. Leading examples ran at Cruachain, at Emain Macha, and above all at Tara. The other sense names a musical contest on the Welsh eisteddfod model. The Feis Cheoil began at Dublin in 1897 as a promoter of Irish music. MacKillop distinguishes féis from fair, féil, and festival. The entry also routes related titles: Feis Charmain goes to Carman, and Feis Temro goes to Tara and kingship.",
   "okr": {
-    "objective": "féis is a Celtic feast cross-reference.",
+    "objective": "Féis is the Irish feast term that the entry routes to Feast, now with its own MacKillop material.",
     "key_results": [
-      "Féis is a Celtic term.",
-      "The entry points to the Feast article.",
-      "It carries no separate account of its own."
+      "Féis remains a cross-reference to the Feast entry.",
+      "MacKillop gives féis two main senses: a royal marriage feast and a competitive musical contest.",
+      "Major féis celebrations ran at Cruachain, Emain Macha, and Tara.",
+      "The Feis Cheoil began at Dublin in 1897 to advance Irish music."
     ],
-    "evidence": "Monaghan, Encyclopedia of Celtic Mythology and Folklore"
+    "evidence": "MacKillop 2008, s.v. 'feis'"
   }
 }

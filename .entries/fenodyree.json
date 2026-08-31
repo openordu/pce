@@ -4,6 +4,18 @@
     {
       "entity": "fenodyree",
       "attribute": "cross-reference to GLASTIG"
+    },
+    {
+      "entity": "fenodyree",
+      "attribute": "Manx name meaning hairy stockings"
+    },
+    {
+      "entity": "fenodyree",
+      "attribute": "carries the title yn foldyr gastey, the nimble mower"
+    },
+    {
+      "entity": "glashtin",
+      "attribute": "southern Manx counterpart of the fenodyree"
     }
   ],
   "entities": [
@@ -14,21 +26,43 @@
     {
       "entity": "GLASTIG",
       "type": "being"
+    },
+    {
+      "entity": "brownie",
+      "type": "being"
+    },
+    {
+      "entity": "ferrishyn",
+      "type": "being"
+    },
+    {
+      "entity": "glashtin",
+      "type": "being"
+    },
+    {
+      "entity": "Isle of Man",
+      "type": "place"
+    },
+    {
+      "entity": "Glen Aldyn",
+      "type": "place"
     }
   ],
   "sources": [
-    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.",
+    "MacKillop 2008, s.v. 'fenodyree'"
   ],
   "cyphertext": "HHnnYLIiW4AJjj2K-EEyVs_3nGVMnskqwazFS9RwEBcq-P6cec3Psi2BoqHWSJV7nU0_",
   "salt": "N_OJsQuaEGKXiyXXXf709w==",
-  "text": "Fenodyree is a cross-reference. It directs the reader to the entry for GLASTIG.",
+  "text": "Fenodyree is a cross-reference. It directs the reader to the entry for GLASTIG. MacKillop treats fenodyree as its own subject, a short dark supernatural being from the Isle of Man. Spellings include fenoderee, phynnodderee, and phynodderree, from Manx words for hairy stockings. The creature counts among the best-known Manx ferrishyn and usually appears naked apart from a covering of body hair. Like the Scottish brownie, it helps with tasks of huge strength. Its labours include moving a massive marble block and harvesting a whole field. For that mowing feat it carries the Manx title yn foldyr gastey, meaning the nimble mower. Tradition says the being was once handsome, called uddereek, until it wooed a mortal girl of Glen Aldyn. That conduct turned it ugly and solitary. Some writers call it satyr-like for its hairy legs rather than any sexual aggression. MacKillop notes the southern Manx glashtin appears identical with the fenodyree. Sir John Rhys printed the tales of this creature in his 1891 Oxford folklore volume.",
   "okr": {
-    "objective": "Fenodyree directs the reader to the entry for GLASTIG.",
+    "objective": "Fenodyree is a Manx hairy creature that the entry routes to GLASTIG, now with its own MacKillop material.",
     "key_results": [
-      "The source records fenodyree as a cross-reference.",
-      "It points to the entry for GLASTIG.",
-      "The source offers no further detail on the fenodyree."
+      "Fenodyree remains a cross-reference to the GLASTIG entry.",
+      "MacKillop describes a short hairy being of Manx tradition within the ferrishyn.",
+      "It performs feats of huge strength and carries the title yn foldyr gastey.",
+      "The southern Manx glashtin appears identical with the fenodyree."
     ],
-    "evidence": "Monaghan, Encyclopedia of Celtic Mythology and Folklore"
+    "evidence": "MacKillop 2008, s.v. 'fenodyree'"
   }
 }

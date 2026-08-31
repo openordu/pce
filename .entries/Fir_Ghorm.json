@@ -20,6 +20,18 @@
     {
       "entity": "first footer",
       "attribute": "offered food or drink in return"
+    },
+    {
+      "entity": "Fir Ghorm",
+      "attribute": "Gaelic rendering of Blue Men of the Minch, plural na fir ghorma"
+    },
+    {
+      "entity": "Fir Fálgae",
+      "attribute": "warriors who fought Cúchulainn and Cú Roi in Scotland"
+    },
+    {
+      "entity": "Fir Morca",
+      "attribute": "legendary west Munster people ruled by king Scoriath"
     }
   ],
   "entities": [
@@ -54,22 +66,55 @@
     {
       "entity": "Manx",
       "type": "group"
+    },
+    {
+      "entity": "na fir ghorma",
+      "type": "concept"
+    },
+    {
+      "entity": "Fir Fálgae",
+      "type": "tribe"
+    },
+    {
+      "entity": "Fir Morca",
+      "type": "tribe"
+    },
+    {
+      "entity": "Scoriath",
+      "type": "mythological figure"
+    },
+    {
+      "entity": "Luachair Dedad",
+      "type": "place"
+    },
+    {
+      "entity": "Munster",
+      "type": "place"
+    },
+    {
+      "entity": "Armorica",
+      "type": "place"
+    },
+    {
+      "entity": "far darrig",
+      "type": "mythological figure"
     }
   ],
   "sources": [
-    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.",
+    "MacKillop 2008, s.v. 'fir gorm'"
   ],
   "cyphertext": "MNiSF5vH-VQpEbGFoRGtsIz5LITI4cp09kMjYD_4GI2SxM3DLXP6rpb7ktt4Lamjrcz5E3erPqLE-NUNIpBJWcK3EqohHHpNrz7JhMCXRCj3vzzWiPJDKWG2J2o_2zTxUtx011C6BWHDUEALVuaHvbNs4iYgrys2zbE8Dkom4kE-LwZ_c8l8FzihVJyW9SmqUpQjJdQe6B6Mu-gQH5nF1QD8TqMW7Z_Zp7ezOl_vI6zGNHTQ_Afo3OyWld6MzFfRYOmis8wGP5u2MbJLfHQoebBLKqpFuILs-d0P9fgPcU8M4eoBfAI_nOJ4XVIV01nneZXjmdIvVVQxgmPwuiKMiBFvmBXkX1UBLDndoDZUyV8GLci0mUFF4fpHHSDu5b3jaXnGnCK9iWN3Y34g0ln6MydOSD3mtlkXkHske4xO6HHhQDWVTshESUwyN1HEwDwP91tid-UwGKEPQhFqZCqcNQ6BonuoB7t13_xUt-smdztnH-JSf7y8Nt8CZuikiCv29Eeo7qD5hm4hV18lEeljhF_MlHS3LnoT2K_YKmTViHbiZ9NulZInjAYdG234b_b4lPlgJM2mpyaHg4WYcvuKwWMp7GtQ4E9nTmhHIHuONFA_gaYwqQn1rE7F1SOI3eVOmN645TBICxImvoIF7q0s_oLFiS5Wa4QeAel7Pq8ZTB64hOYvjOcmlshuLf2N1SO0caarBJkBWgu-PhlSTyiVVULeQrWJb-7Eky4jEelavF2DJAPFeekhRHn6L-aKH8gTLdcPPIoKLMlkSP03ecd72-KykR1bwlwmu40W0M41PjwBZ2ix7Ouc5f2QXpFrfcVdNZGW9g-gi8Pm1PiSaivUlNTGEPPERld6ShmWpHdZPsVTxlf_X4cxa6AvJl6ZXydUoacwW1m-g3itf6SeP9tjFfY8KPQ2mD6OeWce33Hc9Qc-mC3b5rudIZOACYgYKDNVl_8aQwrBSVTsaKjvVQOcRluQ8NXuuWNFRqcrNfeWuYRrvdmdagcndFqgmgZ_aAHgrWIixdnTHI4mdf0CeOa0FKpT4I6o98z6R0NsICX-o6ZuKhtTKHQ2A90SjhuoXKRAH_8Gxjj8KdHohY7HWNKUA-Q0rG7NSsI61PCoWfpjpIO_f1WHGS7Z2QUweeTBKjXhCnUl9c7z9Cn4FrIOv6hP2CvVxM8xyjRGGEpuj_V6JNQHBbTpDlAVgoSQsYIT0QkMW_mjOBl29L-QYp0UMfNUOxW_94wamRKnl4Uha7MaYykPYbtrFAp-emp4bMGsJHsu0SsuEqE_uABTOUgwlJNzFms=",
   "salt": "SII6pqY3IzInDC2lJaLgmA==",
-  "text": "Fir Ghorm, also written Fir Gorm, is another name for the Blue Men of the Minch. These are beings of Scottish and Gaelic folklore. The same record sets out the custom of the first footer, a duty the Manx people call the qualtagh. Across Scotland and the Isle of Man, the person a party met first while heading for a christening or a wedding received bread and cheese. That act bought goodwill from the spirits for the year to come. The moment that carried the most weight came on January 1, when the first caller entered a house. That caller should be a dark-skinned man in good health. People on the Isle of Man dreaded a red-haired first footer, for that tint marked the Fairy realm. In Scotland, a redhead drew no objection. The first footer needed to bear a gift, for a caller with empty hands signaled poor luck. In return, he received food or drink.",
+  "text": "Fir Ghorm, also written Fir Gorm, is another name for the Blue Men of the Minch. These are beings of Scottish and Gaelic folklore. MacKillop identifies fir gorm as the Scottish Gaelic rendering of the name of that sea-people. He also gives the plural form na fir ghorma. The same record sets out the custom of the first footer, a duty the Manx people call the qualtagh. Across Scotland and Man alike, whoever a party met first on the way to a christening got bread and cheese. The same held for a wedding journey. That act bought goodwill from the spirits for the year to come. The moment that carried the most weight came on January 1, when the first caller entered a house. That caller should be a dark-skinned man in good health. People on the Isle of Man dreaded a red-haired first footer, for that tint marked the Fairy realm. In Scotland, a redhead drew no objection. The first footer needed to bear a gift, for a caller with empty hands signaled poor luck. In return, he received food or drink. The Fir Ghorm entry also anchors a family of kindred Fir- names inside the dictionary of MacKillop. The Fir Fálgae were mythical warriors who contended with the heroes Cúchulainn and Cú Roi. The contention arose when those men made forays into Scotland. Tradition speciously tied them to men-at-arms from the Isle of Man. The Fir Morca were legendary people of early Ireland under their king Scoriath. Writers conventionally describe them as big men living near Luachair Dedad in west Munster. O'Rahilly argued in 1946 that their name arose as folk etymology from Armorica, the Latin designation for Brittany. Related plural forms such as fir darrig and fir dhearga belong to the far darrig. The Fir Domnann are treated under Domnainn.",
   "okr": {
-    "objective": "Fir Ghorm names the Blue Men of the Minch and frames the first footer custom.",
+    "objective": "Fir Ghorm names the Blue Men of the Minch, frames the first footer custom, and anchors the Fir- name family in the dictionary.",
     "key_results": [
-      "Fir Ghorm is another name for the Blue Men of the Minch.",
-      "The first footer is called the qualtagh among the Manx.",
-      "The first footer should be a dark-complected man in good health.",
-      "An empty-handed first footer meant poor fortune for the year."
+      "Fir Ghorm is the Scottish Gaelic name for the Blue Men of the Minch, plural na fir ghorma.",
+      "The first footer, the Manx qualtagh, must be dark-complected, healthy, and bear a gift.",
+      "The Fir Fálgae contended with Cúchulainn and Cú Roi during forays into Scotland.",
+      "The Fir Morca were big men of west Munster under king Scoriath, a name O'Rahilly derived from Armorica."
     ],
-    "evidence": "Monaghan, Encyclopedia of Celtic Mythology and Folklore"
+    "evidence": "MacKillop 2008, s.v. 'fir gorm'"
   }
 }
