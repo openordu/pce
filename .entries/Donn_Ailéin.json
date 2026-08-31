@@ -1,0 +1,32 @@
+{
+  "name": "Donn Ailéin",
+  "attributes": [],
+  "entities": [
+    {
+      "entity": "Donn mac Miled",
+      "type": "character",
+      "attribute": "identification target"
+    },
+    {
+      "entity": "Tuatha Dé Danann",
+      "type": "group",
+      "attribute": "Lebor Gabála leader list"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Donn Ailéin'"
+  ],
+  "cyphertext": "",
+  "salt": "",
+  "image": null,
+  "text": "Donn Ailéin heads one of the six Donn entries the Book of Invasions records. The text lists him among the chiefs of the Tuatha Dé Danann. His entry is a brief name record rather than a full tale. MacKillop reads the name as another shape of Donn mac Miled. The name therefore reaches back to Donn the god of the dead. The six-leader frame places Donn Ailéin inside the invasion-list tradition, where several sons of Míl Espáine take the Donn title. The Book of Invasions gives him no separate deeds. Scholars therefore treat him as a doubling of the chief Donn figure rather than an independent person. His listing still documents how widely the name spread through the invasion account.",
+  "okr": {
+    "objective": "Record the Donn Ailéin entry of MacKillop's Dictionary of Celtic Mythology as a PCE node grounded in the Lebor Gabála six-Donn listing.",
+    "key_results": [
+      "The node names Donn Ailéin as one of six leaders called Donn in the Book of Invasions.",
+      "The node routes him to Donn mac Miled and Donn the god of the dead through the identification MacKillop states.",
+      "The node carries the MacKillop 2008 citation and links the named corpus entities."
+    ],
+    "evidence": "MacKillop 2008 article 'Donn Ailéin', Dictionary of Celtic Mythology, s.v. Donn Ailéin."
+  }
+}
