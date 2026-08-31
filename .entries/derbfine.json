@@ -17,23 +17,32 @@
     {
       "name": "éric",
       "type": "Concept"
+    },
+    {
+      "entity": "Gaelic Scotland",
+      "type": "Place"
+    },
+    {
+      "entity": "primogeniture",
+      "type": "Concept"
     }
   ],
   "sources": [
-    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.",
+    "MacKillop 2008, s.v. 'derbfhine'"
   ],
   "cyphertext": "o2ARfZ5IM_VDbkSDnOEfBAElCsV8aFhirhO7plisB-LqmwT9WIcxKCSwRxrBYHo=",
   "salt": "gVMbPfSQ4uAz0wU-ptyRIA==",
-  "text": "Derbfine meant \"true kin\" in early Irish law. It named the closest kin group. The group held the descendants of the same great-grandfather. These kin shared land. No member could sell that land without the consent of the others. The group carried joint responsibility for wrongs. It answered for the honor price, called the éric, for injuries its members caused. The fine was often paid in cows.",
+  "text": "Derbfine meant \"true kin\" in early Irish law. It named the closest kin group. The group held the descendants of the same great-grandfather. Four generations of a family formed this circle. The system ran in early Ireland and in Gaelic Scotland. These kin shared land. No member could sell that land without the consent of the others. The group carried joint responsibility for wrongs. It answered for the honor price, called the éric, for injuries its members caused. The fine was often paid in cows. The derbfine was the normal property-owning unit in that society. It also served as the unit for dynastic succession. Any male of a royal derbfine could succeed a king, whether a son, an uncle, a brother, or a nephew. Primogeniture did not prevail in this system. Property and power did not pass automatically to the eldest legitimate male. Scholars treat the derbfine as the core of kingship and inheritance in early Ireland.",
   "okr": {
-    "objective": "This entry records derbfine, the closest kin group in early Irish law.",
+    "objective": "This entry records derbfine, the closest kin group in early Irish law, as the property-owning and dynastic-succession unit.",
     "key_results": [
-      "Derbfine translates as \"true kin.\"",
-      "It covered descendants of the same great-grandfather.",
+      "Derbfine translates as \"true kin\" and covered descendants of the same great-grandfather.",
       "The group shared land that no member could sell alone.",
-      "The group answered for the honor price, the éric, for injuries it caused.",
-      "Compensation was commonly paid in cows."
+      "The group answered for the honor price, the éric, and compensation was commonly paid in cows.",
+      "The derbfine was the normal property-owning unit and the unit for dynastic succession in early Ireland and Gaelic Scotland.",
+      "Any male of a royal derbfine might succeed the king, so primogeniture did not prevail."
     ],
-    "evidence": "Rewritten from Monaghan fine entry; controller preserves original sources field."
+    "evidence": "MacKillop 2008, s.v. 'derbfhine'."
   }
 }

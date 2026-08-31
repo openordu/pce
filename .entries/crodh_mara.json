@@ -16,6 +16,18 @@
     {
       "entity": "crodh mara",
       "attribute": "often red, sometimes gray or dun"
+    },
+    {
+      "entity": "crodh mara",
+      "attribute": "haunts fresh and salt water on the west coast of Scotland"
+    },
+    {
+      "entity": "crodh mara",
+      "attribute": "generally dun, near Skye red and speckled though described as black"
+    },
+    {
+      "entity": "Gwartheg y Llyn",
+      "attribute": "the fairy cattle of Wales"
     }
   ],
   "entities": [
@@ -38,21 +50,39 @@
     {
       "entity": "Scotland",
       "type": "place"
+    },
+    {
+      "entity": "each uisce",
+      "type": "being"
+    },
+    {
+      "entity": "Gwartheg y Llyn",
+      "type": "mythological creature"
+    },
+    {
+      "entity": "Skye",
+      "type": "place"
+    },
+    {
+      "entity": "Highlanders",
+      "type": "group"
     }
   ],
   "sources": [
-    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.",
+    "MacKillop 2008, s.v. 'crodh mara'"
   ],
   "cyphertext": "CyrEt9qGYb1BbDDglEnBl9Vz7mvK5lU9xv8OAGF3n03xaSOaSnmQdyjwZY0DhpI_M7y1m_1qq6a7FGHjP4-xBsNGP-M5PcgtuW8aRpSoARPUzLMk097ctYkYuhqQAaTOgTStvsg7MUG7m-KQjdQZKevF3-qKhn1ZX3hxqDdKBtSScRWAfw2sQQNYC5Xl4NlQHI3-8OkNula8CQde8r0NtgtRrlfdslAJipK8eG8wIJUeLnzbVHsbUXecVpgrcXlWVqKIh2NU5_wQpH7S_B_SYC3_rr_Sh6kxrpqvmrR8EbPGw60d6ZuwsznBRNkd9m76mWJG91DWodTZZEdeF7rcK1Li31FE7Ib-Y8lahTr48HKiqnqtP5t1wgzQkIS6JQzBUkwN5oFzij8frgZpAptxmV2lNT57jW3BoDLmQEoUq3Br3yBAwgiZQ6Z0OLw1qJhoKgLFJNesAuPLfkDooYvGUt1FV0j3iPU=",
   "salt": "6MhUvyV0PTG5yRuNvnG52Q==",
-  "text": "The Highlanders of Scotland called this mythological animal crodh mara. They believed hornless supernatural cattle belonged to the fairies and dwelt in the ocean deeps. The cattle could leave the sea and pair with ordinary cows. The pairing bettered the herds of the land. The cattle usually carried a red coat, a color shared by many fairy beasts. Sometimes they appeared gray or dun in color.",
+  "text": "Highlanders called these fairy beasts crodh mara, the cattle of the sea. The name is Scottish Gaelic. The cattle dwelt in the ocean deeps and belonged to the fairies. They haunted fresh and salt water along the west coast of Scotland. The cattle could leave the sea and pair with ordinary cows. Their bulls mated with mortal cows, and the pairing bettered the herds of the land. The cattle carried no horns. Most wore a dun coat. Animals near Skye ran red and speckled, though people there described them as black. These sea cattle were gentler kin of the each uisce, the water horse. Welsh storytellers knew kindred beasts as Gwartheg y Llyn.",
   "okr": {
-    "objective": "crodh mara are fairy cattle of the Scottish ocean deeps.",
+    "objective": "crodh mara are the Gaelic fairy cattle of the sea, haunting the west coast of Scotland.",
     "key_results": [
-      "Highlanders of Scotland believed fairies kept these hornless cattle at sea.",
-      "The cattle came ashore to mate with mortal cows and bettered earthly herds.",
-      "They were often red and sometimes seen as gray or dun."
+      "The name is Scottish Gaelic for cattle of the sea.",
+      "The hornless cattle generally wore dun coats, with red speckled stock near Skye.",
+      "Their bulls mated with mortal cows and improved earthly herds.",
+      "They were gentler than the each uisce and had Welsh kin in Gwartheg y Llyn."
     ],
-    "evidence": "Monaghan, Encyclopedia of Celtic Mythology and Folklore"
+    "evidence": "MacKillop 2008, s.v. 'crodh mara'."
   }
 }
