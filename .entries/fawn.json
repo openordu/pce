@@ -4,6 +4,18 @@
     {
       "entity": "fawn",
       "attribute": "cross-reference to DEER"
+    },
+    {
+      "entity": "fawn",
+      "attribute": "Lugaid Laigde pursued a fawn read as a divine personification of Ireland"
+    },
+    {
+      "entity": "fawn",
+      "attribute": "Oisín name is the Irish word for fawn"
+    },
+    {
+      "entity": "fawn",
+      "attribute": "folk etymology wrongly glosses Uisnech as place of the fawn"
     }
   ],
   "entities": [
@@ -14,24 +26,38 @@
     {
       "entity": "DEER",
       "type": "animal"
+    },
+    {
+      "entity": "Lugaid Laigde",
+      "type": "person"
+    },
+    {
+      "entity": "Sadb",
+      "type": "person"
+    },
+    {
+      "entity": "Donn mac Midir",
+      "type": "person"
     }
   ],
   "sources": [
-    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.",
+    "MacKillop 2008, s.v. 'fawn'"
   ],
   "image": [
     "https://upload.wikimedia.org/wikipedia/commons/6/67/Cervidae1.jpg"
   ],
   "cyphertext": "6Tl6E9XEPPDPhkth3IaY8eVxKo4iI6Mqxu8bWZwUFaK_HjNM59Qzbj_A3g==",
   "salt": "JuPMoeBsa_D4XjMAHPvVKA==",
-  "text": "Fawn is a cross-reference. It directs the reader to the entry for DEER.",
+  "text": "Fawn names the young of the deer. Older catalog notes sent readers from fawn to the DEER entry. The fawn held great sway in the early Celtic imagination, as deer and stag lore shows. Lugaid Laigde of the Érainn chased a fawn on the hunt. Tradition reads that quarry as Ireland itself in divine form. Magic changed Aige and Sadb into fawns. Donn mac Midir dressed a third transformed woman in fawn shape. The disguise lured Fionn mac Cumhaill and his band. Some fawn figures are male, like Oisín the son of Fionn. The name oisín remains the ordinary Irish term for the fawn. The Perceval legend keeps a fawn ahead of the stag as the older form. Folk etymology wrongly glosses Uisnech as a place of the fawn. Old Irish and Modern Irish give oisín. Scottish Gaelic has laogh féidh and fiadh òg, and Manx has minjeig. Welsh has elain and hydd ifanc, Cornish yorghyk, and Breton menn-karvez.",
   "okr": {
-    "objective": "Fawn directs the reader to the entry for DEER.",
+    "objective": "Fawn is a shape-shifting creature that powered early Celtic imagination.",
     "key_results": [
-      "The source records fawn as a cross-reference.",
-      "It points to the entry for DEER.",
-      "The source offers no further detail on the fawn."
+      "Lugaid Laigde of the Érainn pursued a fawn that tradition reads as a divine personification of Ireland.",
+      "Aige and Sadb became fawns through transformation, and Donn mac Midir used a transformed woman in fawn shape to lure Fionn mac Cumhaill.",
+      "Oisín keeps a name that remains the Irish word for fawn.",
+      "Folk etymology wrongly glosses Uisnech as a place of the fawn."
     ],
-    "evidence": "Monaghan, Encyclopedia of Celtic Mythology and Folklore"
+    "evidence": "MacKillop 2008, s.v. 'fawn'."
   }
 }

@@ -12,6 +12,10 @@
         {
             "entity": "Fintan",
             "attribute": "a name for the salmon"
+        },
+        {
+            "entity": "eó fis",
+            "attribute": "Irish term for the salmon of knowledge alongside fìosach, fìos, and feasach"
         }
     ],
     "entities": [
@@ -33,18 +37,18 @@
         }
     ],
     "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.",
+        "MacKillop 2008, s.v. 'eó fis'"
     ],
     "cyphertext": "cxH1ARnqXThvRHuPiPil-EzynOeztUojfpspNoOi7TYYcHBazshhDXMVWvVdvjc3",
     "salt": "2mx6pHxP-gPbLfrX6L47rQ==",
-    "text": "Eó fis is the fish of knowledge in Irish lore. Bubbles named eó fis rise in a sacred well. Hazel nuts fall into the water and give the fish wisdom. Eating the fish passes wisdom to a person. This salmon of wisdom is sometimes called Fintan. See also SALMON.",
+    "text": "Eó fis is the fish of knowledge in Irish lore. Bubbles named eó fis rise in a sacred well. Hazel nuts drop into the water. They give the fish its wisdom. Eating the fish passes wisdom to a person. MacKillop records eó fis as an Irish term for the salmon of knowledge. He adds two near words, fìosach and fìos, that carry the same sense of knowledge. Feasach is a third term and means knowing or aware. This salmon of wisdom is sometimes called Fintan. See also SALMON.",
     "okr": {
-        "objective": "Rewrite the eó fis cross-reference with the fish of knowledge claims.",
+        "objective": "Fuse the eó fis entry with MacKillop's Irish term family.",
         "key_results": [
-            "Define eó fis as bubbles of knowledge",
-            "Record the hazel nuts that grant wisdom",
-            "Name Fintan as one of the fish identities"
+            "Keep the bubbles, the hazel nuts, and the Fintan name",
+            "Add fìosach, fìos, and feasach as sibling terms of knowledge"
         ],
-        "evidence": "Monaghan, The Encyclopedia of Celtic Mythology and Folklore, 2008, s.v. eó fis."
+        "evidence": "MacKillop 2008, s.v. 'eó fis'."
     }
 }

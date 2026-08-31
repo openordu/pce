@@ -20,6 +20,18 @@
     {
       "entity": "Áine",
       "attribute": "linked to Lough Gur"
+    },
+    {
+      "entity": "Lady Wilde",
+      "attribute": "called the leanan sidhe the poet's inspirer"
+    },
+    {
+      "entity": "W. B. Yeats",
+      "attribute": "held that her inspiration burns the artist's life short"
+    },
+    {
+      "entity": "fairy lover",
+      "attribute": "male counterparts are courteous and commanding"
     }
   ],
   "entities": [
@@ -54,24 +66,37 @@
     {
       "entity": "John Keats",
       "type": "person"
+    },
+    {
+      "entity": "Lady Wilde",
+      "type": "person"
+    },
+    {
+      "entity": "W. B. Yeats",
+      "type": "person"
+    },
+    {
+      "entity": "banshee",
+      "type": "mythological figure"
     }
   ],
   "sources": [
     "Briggs, Katherine. The Fairies in Tradition and Literature. London: Routledge & Kegan Paul, 1967.",
     "Wilde, Lady. Ancient Legends, Mystic Charms and Superstitions of Ireland. London: Chatto and Windus, 1902, 134.",
-    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.",
+    "MacKillop 2008, s.v. 'fairy lover'"
   ],
   "cyphertext": "IP8xTy5l8ftUB23d2ZH7UBd7uLwz_Xjb1aytpeQzIkkUwwg2G7q7xQEAwhaJ6894qmpXO0Ak_ZRLLnXTBqRbqm524m8NjNw_mlojLVXgd-OcAufT3NTzTqtRzj7qt5TM6N8ocqbSiYUYyoNZ9QLYdk5NdpHIcC-0L9BpBzqeYZYtYIFHYz0ec8X4CvqnJvhaWaN4atZj7q6d7xqNKDJHZ3Alne6blnpoiYESJOkdJaoKz8hHoKjcXKDqawRvcsxdPFbKX03iT4d8Y-w1sYrlNkZvIKuWmROr9s6GKZf16iPJVLis7biJ8dRcEX_SlXOTEshHeBCuRgBhJ7Lcp12HujB3azW3k00ffs6jvp_JR7sHhGcjbD-0-KsYVAiCjt-B_VLUNKUXNO3XoP6SiMba8DZDBVMgF2wJVAH9-vTmGqeou-yh4-60Wl18zR7oKv6aXZox8pxfAOCxQENpEolFHFPgt74GFFJYWrsSBIajR4on7LG3f4GgHJFEG1103wsLJmQV9_2BHgV5UKmlJ-X7ZJqz7s3ilQaqNuqSI1G5V0Ps_Y9CPbqwLlpyNhJRx2_pDiYhWSbHjUP6nKebiPxB8u9KOcgpr5rOqFVM8aaQaZivTOo7rEk35L7pLs4Ill6CroUWgm9-wAoiOYHUPF55tiwrmQmTJ19W9qFovPZT6B-RNKQki3_MFu14eNOIYURimuqMvgfe__8bU3MqykCyr7ZaB3N8Vdjy1erb93Ino2-YgJuvJRVKjyVdpXqomdGAUAkCnqG0M52HoLnDTVoBjDHx8o26-SZW1zH78m-CbQ6rBA3vtl7o0E8qtWQZMcn0O_u8qwgTBokyubaPJp0OmDEdGpy47z9rgvkhPge36rU0nDtchafNfwdfEg90WFovYwWyiWiqw1p1IqTIiHGIvakv73YuZgKjyf-bfhhAsrzF6w5QjcFSHATsRosFtNyByYrOcFemHNOvqcVUf-1Iy_Q1JydvZZJ02d2q-R68VpkOMHn45ZDNA5-BIxZY7krRWrSUg4z2h3mw_TkwYL3fUPa_8mUHP6XdiyVrHcy2r5ZKl82nH90IGhMOe_1-o-E3Nm36Ho4t7-Qi2_2r4rAmKeFaGxEdmkq6TW8G_D-kkOwRqGi3GFYgPl-2Nm1ZE7Ru3D5zWgkyCZTM0f4V0NrdJ1ukAWEQsZPZ3CvBUUC7CnypXG9sCrgCj9Q0zbdPBOs6iEWEKfii1CnH-NUjuNM7_YQkKiVC5SCGhxovKgn7VpyVS-V-lkR2JIYutj_iOcgtCluock1GoZFrG-XO-Kz9WnLP0nyeRzvU0PCrZbPMeZlpO9T-Ak7xDNLFH2vo_mC6u2jdLluqyRiD7E5pKqzp7HJIYFnjISuFOmpUCrZKO5Q52UpNF26O7EYKQUUUqfDpkEuP7CStbEnLOTSMYAvInszSFtg2ZOox9dAjwdNHC4fAyi6ovFrTbskUlFDCqbYGmGN5q2qdwKdrwvDaWbKdhG0ikhAbSWteqId_N0FR6iOinsM3qujFVqzKLtnvO6iaIOmzJbPVUhsynyBq8CPJNE4PAQXZjn5SumKUPa7NKe376um_KZU9rIDx6xywDx3fZR91cXhJjC5l05Dz1nzmoi2IKPieUUNEHjjGwFGLjtQqKLcA51_tDMuOfXnyGoLdDoNgaafMlMkSBsdSIH_waGhGAKiALhwLRywWw8yVpp3MxDehFTvWxZu2g2db1t36p-EnLVi_Gyf1f3Vf8XP5H3u0zsvA1Ei5jjFIsEYoQfl9CcmIEPPbvintAlYj4XofqEOW5HsprJ0TJCy-ixVMxWw4UDNE5lmDQMsUzG2Xj3-cm3z9YYF-IUdeTUQmTXiZQsOegYQPc7hkICkBjB1-kkfrnQjiplIQS9q1lRR-uOvVTegidFNtYfGcjcwtLebA82y2VgTulqSLHxGhD_XPNRmPeQR1zqDyAsgP0vnArnDaZlyh9nOrp1nbEYFCu_Gryk5pZFAnQP0xOI5OFqOr_Qx-uOAxgk3ezPOFM_IFIb27JsQyxUs9sd_NBmFKsoGwqGqiAumrJHio8Xv0QW4XVGQwJSgmdrTOlCUoO91pNWWUci0GeujVhPt32TmPmYeRo8NILAr8PoIx75Ggx_nVc1GWMM1JVJA5eu4NprUhmSdv16aWNTRdKo3T7NNJCJQOVfQTvNeu9QrZH5tyrSIvLN1UJbQosNXw4pnND3_kMq-5_bTsIpI4pXD4x-C1XYpi2ZGPpK6RUTQpAkemVW6OHpjKBYA7BxZCjlGCIvJbCC1LIa8HSEfV5WS74J0nVelK7ADhs4WjhBWKbTsZtyCSNrpwqA3Z304YzFozzbPmngnwvUFspSZ25BmC95rASwEsWL7lfzzkCh6r6bFkU9Xb1ZYQVnl0drNR5oUCtAM0vVb33M6XGWSZeJzKEHr0FxJdx-tngfmKhovtYvkOtv3qVx34VNRv-1e4eNa1x6gYwpH6W4BkYta0u_TnZFjkfCM_B43llUtcTe_hlALSCtkgC2G5oN4pTwTAm4tXSOH66jokO6nW5ePNuvKT8FZzeZia5yc8OOF1OP4JTW1dC4weWGve6I1BqRwtAREcQzkjEwo54Euw9MIYOa_de1lEKKLr1V7Ku-G_z_0ssKPk73WQlExS-SFt-LDhfHD57cbxIXJMqkDG87CyQ_5Rh0qx5Jo62wy-H_zuvODPTKmGqpENWLwb2HmFDEpQxnXyB0m78z0VsxTSD83JsnvwHcKjUO4diQ39OifjTDBSV4jvCJU1Y4GA6nJXcdjL8nzkghmZBR1XvhBwEMkiCkHorSyydd6tfiUOr39QQDwyUJIE2nftrP30PNG9Q-pqO9Yfd03uGspUBezo5gGa6Js5fdJ-sSdsAmBObJh7U1HMrogSIy2Um-TX17SQRET6hU0OTUuTGxlKeuXe-1aEF_KdhQPex9llIyy7OyyNWDZdf_HSkDXfr-UfZDAe_9QlQGCj9IRk_RG0HziIu1O3q1FIjWe_s7vlyFllNLzMdk-O8DCDNW9SlDRPLmcyQaSbdh3RWOuAiZ-_sJRLd0GVSqy0PxpQJ94OnZgHhe6k2s0trVvFh6PKHz7ahfbZx-1td3S4LqAWvLCs4KsPySHTuDkqcNoc9eZbisFnw255ArimL-EkTyOXYNf-qdS319tSj5D77M-5lvz-dZr0cFchUy3R1RThl05O986n5iBsb7yJQh5m_Ky70Glv9IcNH16a-MenQHq_bkNOSFPAmQraRmASEOU5LeLUcYaoJaM8p4GkC6lxW_sSNLggVfzZFgpP8RdJ09BHqwCstnZbdYDK8pHL7wDL1yjwH8xoxFgeHqEBNXn2bCJcP4vVYX75wl_4CaQaCs0NRQIIBJpGI1kVgtJqw-mOcCX990eLP9emFODxmWEosQqBqDs72CaWR8Upw58aIRrv0O54J75phFdqDemWCfrq9evf_Gs542KihCZ8eNQawzzQ9jc3iEme56MCPWz6Ep0u0z5WnW_3gRU0pWWg_OtsymaY6KtbVpD3PG1HbvE9umDh4vMianQf8o1m1hHsbRIrbmpOKCXByfIWh_qzmpfbmhObhsUvOqfc3ikMu6v1O0SBNOZ9CE8F6r4vQA5gTvNOAd8obokmwaT3eRIbzB6U2v3kGFGV7uAoFA6uDL02_JxUjXQguZjJsRLbDX4N6J5o_Ck-fViUDlyEYgiczaeY9oxZGkXEqxwmDvoiVm-YoOCM0OyRNGLUfP4L_I3f8OkDCEG1-Spa091uQwJOl2K7G9dJUAgDUSgjzSwHA-TIioY4M8Mlb-gMSbWETlrhLNQ86E1RSPnQ7mtgcE--_iMpJAvclX5AfSIerYz1TiVWIxk3ZjRY0zveN6wo0FnvBTE1ZBOLNzbUBnsmBDeE8cqjr9RlwEv9r1KW70uU797X8tJaA7qty9tN6xGvC6-I6k1x3q8vmX5EzdnM5oZ-pz_gvCN0dsszBuLuffsLUs7NYNb1t5Pk6ihRw04pvBqpGrQNh6Poxa0asrJUrJwmHoDBgBXTTDMgKmZP0utRCPbsiHFkpRUzsQKA83Da7EyEqbVgk4tRBlEnXVOYMWjY4xsKfogB0yvk4Bp0__D2-LyyFGWYf3WuxuLn_pcsCLA2_qCrFyk3MH0n9wE0Wjn7F1zyDITO0NaUsNc5byufq0O0YlW3HOA3mvtF3trM44Ikdvhbq3s9uPCtXx25hGDDKEc=",
   "salt": "6jqrtqcLn5gZ3QP2i_8rgw==",
-  "text": "Fairy lover, the fairy mistress, is an Irish, Scottish, and Breton figure. The lianan sidhe, she is also the spirit the bards knew. She carried off the greatest poet or the fairest mortal male. Her grace made the loveliest woman seem plain. She called her mate through his dreams until he came to her. He found her on a charmed island in the west or under an old mound. Time passed by differently in her land. A single night there could cross a century here. The poet Oisín was taken by Niamh of the Golden Hair. He fell from his horse and turned to dust at once. Some fairy women left their human husbands and they pined away. Aine of Lough Gur appears in both the lover and the death parts. Keats used her shape for his poem.",
+  "text": "Fairy lover, the fairy mistress, is an Irish, Scottish, and Breton figure. MacKillop lists English spellings such as lannan shee, leannan shee, and lannanshee. The Modern Irish phrase leannán sidhe underlies them all. Variants leanhaun shee, lianhan shee, and leanan sidhe also appear. The Old Irish form was lennán side, and Manx speakers said lhiannan shee. The story binds a mortal man to an immortal woman in a love that must end badly. Folklorists find this pattern across the world, and Celtic tales follow a fixed four-part scheme. First the mortal falls for the supernatural being. Next she agrees to marry him under one condition, such as avoiding her sight at set times. He then violates the condition and loses her. He seeks her afterward and sometimes wins her back only through great effort. In one version the fairy lover seduces the man and wastes away when they part. She loves him deeply even when he does not deserve it. Only the rules of her kind keep them apart. A second variation paints a fearful woman who wants both the love and the rule of mortal men. Male fairy lovers appear in stories too, courteous, talkative, and commanding. Lady Wilde wrote in 1887 that the leanan sidhe embodied life itself. She called the leanan sidhe the inspirer of poets and the reverse of the banshee. W. B. Yeats argued in 1888 that her gift burned so hard that the artist must die young. The lianan sidhe was the spirit the bards knew. She carried off the greatest poet or the fairest mortal male. Her grace made the loveliest woman seem plain. She summoned her mate through his dreams until he came to her. Her home lay on a charmed island in the west or beneath an old mound. Time passed differently in her land. One night there could span a century here. The poet Oisín rode away with Niamh of the Golden Hair. He fell from his horse and crumbled to dust at once. Some fairy women left their human husbands, and the men pined away. Áine of Lough Gur fills both the lover role and the death role. Keats shaped her form for his poem.",
   "okr": {
-    "objective": "Fairy lover is a folk figure who carried a poet or handsome man to her island.",
+    "objective": "Fairy lover is the immortal woman who draws a mortal man into a doomed love across Celtic lands.",
     "key_results": [
-      "Fairy lover stole the poet or the handsome man.",
-      "Her beauty made the loveliest mortal woman seem plain.",
-      "Oisín fell from his horse and dissolved.",
-      "Áine of Lough Gur took both the bride and the death form."
+      "Writers spell the Irish name as lannan shee, leannan shee, or lannanshee.",
+      "Her tales follow a four-part pattern of union, taboo, loss, and recovery.",
+      "Lady Wilde and W. B. Yeats read the leanan sidhe as the poet's inspirer.",
+      "Oisín crumbled to dust after one night in her land."
     ],
-    "evidence": "Monaghan, Encyclopedia of Celtic Mythology and Folklore"
+    "evidence": "MacKillop 2008, s.v. 'fairy lover'."
   }
 }
