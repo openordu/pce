@@ -1,0 +1,43 @@
+{
+ "name": "Dermit",
+ "text": "Dermit and Dermot are anglicizations of the Irish name Diarmait. The dictionary routes the spellings straight to that record. Diarmait Ua Duibne is the great heroic bearer of the name. He is the Fenian warrior who eloped with Gráinne, the promised bride of Fionn mac Cumhaill. Kings of later history also carried the name. Readers should follow the Diarmait entry for the name's full record.",
+ "entities": [
+  {
+   "entity": "Diarmait Ua Duibne",
+   "type": "hero"
+  },
+  {
+   "entity": "Fionn mac Cumhaill",
+   "type": "hero"
+  },
+  {
+   "entity": "Gráinne",
+   "type": "heroine"
+  }
+ ],
+ "attributes": [
+  {
+   "entity": "Dermit",
+   "attribute": "an anglicization of Diarmait"
+  },
+  {
+   "entity": "Dermot",
+   "attribute": "a second anglicization of Diarmait"
+  }
+ ],
+ "okr": {
+  "objective": "Route readers from the anglicizations Dermit and Dermot to Diarmait.",
+  "key_results": [
+   "Dermit and Dermot both anglicize the name Diarmait.",
+   "The heroic bearer of the name is Diarmait Ua Duibne.",
+   "The full record sits at the Diarmait entry."
+  ],
+  "evidence": "MacKillop 2008, s.v. 'Dermit'."
+ },
+ "image": [],
+ "cyphertext": "",
+ "salt": "",
+ "sources": [
+  "MacKillop 2008, s.v. 'Dermit'"
+ ]
+}

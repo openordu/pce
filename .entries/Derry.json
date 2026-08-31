@@ -1,0 +1,35 @@
+{
+ "name": "Derry",
+ "text": "Derry is an anglicization of the Irish name Doire, which means an oak grove. The dictionary routes the city name straight to that record. Many a place on the early Irish map carried the name Doire. The most famous is the monastery that stands on the Foyle's western bank. St Colum Cille is reputed to have founded it after the year 544. In his honour the settlement sometimes took the name Doire Choluim Chille. The renaming also served to erase the pagan past. Before it, the place had been Doire Calgaich, the oak grove of Calgach. Doire is coextensive with the modern industrial city of Derry, the fourth largest in Ireland. The British have called it Londonderry since the reign of James the First.",
+ "entities": [
+  {
+   "entity": "Colum Cille",
+   "type": "saint"
+  }
+ ],
+ "attributes": [
+  {
+   "entity": "Derry",
+   "attribute": "the anglicization of Doire, an oak grove"
+  },
+  {
+   "entity": "Doire",
+   "attribute": "the Irish place name behind Derry"
+  }
+ ],
+ "okr": {
+  "objective": "Route readers from Derry to the Irish name Doire.",
+  "key_results": [
+   "Derry anglicizes Doire, the Irish word for an oak grove.",
+   "St Colum Cille founded the famous settlement on the Foyle after 544.",
+   "The site was once called Doire Calgaich, Calgach's oak grove."
+  ],
+  "evidence": "MacKillop 2008, s.v. 'Derry'."
+ },
+ "image": [],
+ "cyphertext": "",
+ "salt": "",
+ "sources": [
+  "MacKillop 2008, s.v. 'Derry'"
+ ]
+}
