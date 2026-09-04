@@ -1,0 +1,68 @@
+{
+  "name": "divine land",
+  "fname": "divine-land.json",
+  "text": "divine land is a phrase MacKillop uses in English renderings of stories drawn from Irish and Welsh sources. The phrase points to a specific realm only when the reader knows the Celtic text in view. By implication the divine land is a pleasant Elysian place. It is not the realm of the dead. MacKillop points readers to the broader Otherworld entry. In Irish stories the divine land most often names Tír na nÓg, the Land of Youth. Several heroes visit Tír na nÓg, and Oisín is the most famous of them. The divine land may also refer to Mag Mell, the Pleasant Plain, or to Tír Taimgire, the Land of Promise. It may likewise point to Tír na mBan, the Land of Women, or to other named abodes. In Welsh contexts the divine land can refer to Annwfn.",
+  "entities": [
+    {
+      "entity": "divine land",
+      "type": "Concept"
+    },
+    {
+      "entity": "Otherworld",
+      "type": "Place"
+    },
+    {
+      "entity": "Tír na nÓg",
+      "type": "Place"
+    },
+    {
+      "entity": "Mag Mell",
+      "type": "Place"
+    },
+    {
+      "entity": "Tír Taimgire",
+      "type": "Place"
+    },
+    {
+      "entity": "Tír na mBan",
+      "type": "Place"
+    },
+    {
+      "entity": "Annwfn",
+      "type": "Place"
+    },
+    {
+      "entity": "Oisín",
+      "type": "Character"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "divine land",
+      "attribute": "English translation convention used in Irish and Welsh stories for a pleasant Otherworld place, not the realm of the dead"
+    },
+    {
+      "entity": "divine land",
+      "attribute": "In Irish contexts refers most often to Tír na nÓg (visited by Oisín) and also to Mag Mell, Tír Taimgire, and Tír na mBan"
+    },
+    {
+      "entity": "divine land",
+      "attribute": "In Welsh contexts may refer to Annwfn"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'divine land'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "divine land names the English translation convention MacKillop uses for pleasant Irish and Welsh Otherworld places.",
+    "key_results": [
+      "Article distinguishes the divine land from the realm of the dead and points to Otherworld.",
+      "Article names the Irish referents Tír na nÓg, Mag Mell, Tír Taimgire, and Tír na mBan.",
+      "Article names the Welsh referent Annwfn."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'divine land'."
+  }
+}

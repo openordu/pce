@@ -1,0 +1,43 @@
+{
+  "name": "círein cròin",
+  "fname": "cirein-croin.json",
+  "text": "círein cròin is a sea creature in Scottish Gaelic folklore, described as the largest of all living things. A single animal could make a meal of seven whales. The creature appears in Gaelic songs and legends under several titles. Gaelic speakers called it mial mhòr a' chuain, meaning the great beast of the ocean. Another name, curtag mhòr a' chuain, means the great whirlpool of the ocean. A third title, uile bhéisd a' chuain, names it the greatest monster of the sea.",
+  "entities": [
+    {
+      "entity": "círein cròin",
+      "type": "Being"
+    },
+    {
+      "entity": "mial mhòr a' chuain",
+      "type": "Being"
+    },
+    {
+      "entity": "curtag mhòr a' chuain",
+      "type": "Being"
+    },
+    {
+      "entity": "uile bhéisd a' chuain",
+      "type": "Being"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "círein cròin",
+      "attribute": "Largest of all living creatures in Scottish Gaelic folklore, able to eat seven whales at a sitting"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'cirein cròin'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Document the círein cròin and its Gaelic titles.",
+    "key_results": [
+      "Ranks the creature as the largest of all living things.",
+      "Lists three Gaelic titles: mial mhòr a' chuain, curtag mhòr a' chuain, uile bhéisd a' chuain."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'cirein cròin'."
+  }
+}

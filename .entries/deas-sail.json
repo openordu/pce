@@ -1,0 +1,43 @@
+{
+  "name": "deas-sail",
+  "fname": "deas-sail.json",
+  "text": "deas-sail is a single-line cross-reference pointing the reader to the entry sunwise turn. MacKillop records the headword as a variant spelling of deiseal, a Modern Irish and Scottish Gaelic term naming the sunwise turn. The full record of the ritual concept, a clockwise turn taken for blessing or protection, sits under the headword sunwise turn.",
+  "entities": [
+    {
+      "entity": "deas-sail",
+      "type": "Concept"
+    },
+    {
+      "entity": "deiseal",
+      "type": "Concept"
+    },
+    {
+      "entity": "sunwise turn",
+      "type": "Concept"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "deas-sail",
+      "attribute": "Variant spelling of deiseal"
+    },
+    {
+      "entity": "deas-sail",
+      "attribute": "MacKillop cross-reference pointing to the headword sunwise turn"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'deas-sail'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "deas-sail is a variant-spelling cross-reference pointing to the sunwise turn node.",
+    "key_results": [
+      "Signpost cites the headword sunwise turn for the full record.",
+      "Notes the variant relationship to deiseal."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'deas-sail'."
+  }
+}

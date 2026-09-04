@@ -1,0 +1,39 @@
+{
+  "name": "deirbhfhine",
+  "fname": "deirbhfhine.json",
+  "text": "deirbhfhine is a single-line cross-reference pointing the reader to the headword derbfhine. MacKillop records the headword as a variant spelling of derbfhine. The full record of the kin-group concept sits under derbfhine.",
+  "entities": [
+    {
+      "entity": "deirbhfhine",
+      "type": "Concept"
+    },
+    {
+      "entity": "derbfhine",
+      "type": "Concept"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "deirbhfhine",
+      "attribute": "Variant spelling of derbfhine"
+    },
+    {
+      "entity": "deirbhfhine",
+      "attribute": "MacKillop cross-reference pointing to the headword derbfhine"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'deirbhfhine'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "deirbhfhine is a variant-spelling cross-reference pointing to the derbfhine node.",
+    "key_results": [
+      "Signpost cites the headword derbfhine for the full record.",
+      "Notes the variant spelling relationship to derbfhine."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'deirbhfhine'."
+  }
+}

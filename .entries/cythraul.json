@@ -1,0 +1,35 @@
+{
+  "name": "cythraul",
+  "fname": "cythraul.json",
+  "text": "cythraul is a Welsh word carrying the senses hostile, devil, and enemy. The spelling cythrawl appears as a variant. The word served in early Welsh narrative as the standard term for the devil and for other incarnations of evil. Its semantic range moved between personal enmity and demonic opposition.",
+  "entities": [
+    {
+      "entity": "cythraul",
+      "type": "Concept"
+    },
+    {
+      "entity": "cythrawl",
+      "type": "Concept"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "cythraul",
+      "attribute": "Welsh word meaning hostile, devil, or enemy, used for the devil and other incarnations of evil in early narrative"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'cythraul'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Record the Welsh word cythraul and its narrative use.",
+    "key_results": [
+      "Glosses cythraul as hostile, devil, enemy.",
+      "Notes the variant spelling cythrawl."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'cythraul'."
+  }
+}

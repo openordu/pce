@@ -1,0 +1,43 @@
+{
+  "name": "deena shee",
+  "fname": "deena-shee.json",
+  "text": "deena shee is a single-line cross-reference that MacKillop marks as a phonetic anglicization of the Irish word daoine. The phrase preserves the spoken sound of the Irish fairy name in English spelling. The conventional PCE target for the entry is the headword daoine sí, the people of the fairy mound in Modern Irish and Scottish Gaelic. The full record of the fairy people sits under daoine sí.",
+  "entities": [
+    {
+      "entity": "deena shee",
+      "type": "Concept"
+    },
+    {
+      "entity": "daoine",
+      "type": "Concept"
+    },
+    {
+      "entity": "daoine sí",
+      "type": "Concept"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "deena shee",
+      "attribute": "Phonetic anglicization of the Irish word daoine"
+    },
+    {
+      "entity": "deena shee",
+      "attribute": "MacKillop cross-reference pointing to daoine sí for the full record"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'deena shee'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "deena shee is a phonetic-anglicization cross-reference pointing to the daoine sí node.",
+    "key_results": [
+      "Signpost cites daoine sí for the full record.",
+      "Records the anglicization relationship to Irish daoine."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'deena shee'."
+  }
+}

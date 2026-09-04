@@ -1,0 +1,56 @@
+{
+  "name": "cŵn annwfn",
+  "fname": "cwn-annwfn.json",
+  "text": "cŵn annwfn, also written cŵn annwn, are the Otherworldly hounds of Welsh tradition, named for the realm annwfn. They appear as a spectral pack, small in build, with red-grey or snow-white coats and red ears. Up close their cry sounds like that of ordinary beagles. Heard from far away it rises into wild lamentation. They terrify ordinary dogs, and a dog that howls at night is read as a bad omen. The pack rides out from the Otherworld to chase human souls across the air, to kidnap mortals, and to drive the souls of the damned toward infernal regions. The huntsmen who ride with them include Arthur and the dark-faced Gwyn ap Nudd. Welsh folklore also names them cŵn bendith y mamau, cŵn cyrff, cŵn wybr, and cŵn toili. In English tradition they appear as Gabriel hounds, ratchets, and hell hounds. The motif is recorded as E501.13.4 in the folklore catalogue.",
+  "entities": [
+    {
+      "entity": "cŵn annwfn",
+      "type": "Being"
+    },
+    {
+      "entity": "annwfn",
+      "type": "Place"
+    },
+    {
+      "entity": "Arthur",
+      "type": "Character"
+    },
+    {
+      "entity": "Gwyn ap Nudd",
+      "type": "Character"
+    },
+    {
+      "entity": "Gabriel hounds",
+      "type": "Being"
+    },
+    {
+      "entity": "Otherworld",
+      "type": "Place"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "cŵn annwfn",
+      "attribute": "Welsh Otherworldly hounds, also called cŵn bendith y mamau, cŵn cyrff, cŵn wybr, and cŵn toili"
+    },
+    {
+      "entity": "cŵn annwfn",
+      "attribute": "Indexed under motif E501.13.4"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'cwn annwfn'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Document the Welsh Otherworld hounds and their named riders.",
+    "key_results": [
+      "Places the pack in Welsh tradition as Otherworldly hell-hounds.",
+      "Lists Welsh and English variant names.",
+      "Cites motif E501.13.4."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'cwn annwfn'."
+  }
+}

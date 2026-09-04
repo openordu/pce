@@ -1,0 +1,51 @@
+{
+  "name": "daoine uaisle",
+  "fname": "daoine-uaise.json",
+  "text": "daoine uaisle is an Irish-language name meaning noble people or gentry. MacKillop classifies it as a euphemism for fairies. The term belongs to the same Modern Irish cluster of polite substitutes as daoine maithe (good people), daoine sídhe (people of the fairy mound), and slua sí (fairy host). The MacKillop window for this headword ends partway through the entry, so the full article is not preserved in the source slice. What the window does preserve is the gloss noble people, gentry and the simple classification as a fairy euphemism. The reader who needs the full record should consult MacKillop's printed article under this headword.",
+  "entities": [
+    {
+      "entity": "daoine uaisle",
+      "type": "Concept"
+    },
+    {
+      "entity": "daoine maithe",
+      "type": "Concept"
+    },
+    {
+      "entity": "daoine sídhe",
+      "type": "Concept"
+    },
+    {
+      "entity": "slua sí",
+      "type": "Concept"
+    },
+    {
+      "entity": "fairies",
+      "type": "Being"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "daoine uaisle",
+      "attribute": "Irish-language euphemism for fairies, meaning noble people or gentry"
+    },
+    {
+      "entity": "daoine uaisle",
+      "attribute": "MacKillop article window is incomplete in the source slice; full record lies in the printed dictionary"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'daoine uaisle'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Identify daoine uaisle as an Irish fairy euphemism meaning noble people or gentry.",
+    "key_results": [
+      "Records the gloss noble people, gentry.",
+      "Flags the truncated source window for downstream repair."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'daoine uaisle'."
+  }
+}
