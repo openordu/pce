@@ -1,0 +1,44 @@
+{
+  "name": "cughtagh",
+  "fname": "cughtagh.json",
+  "text": "cughtagh is a cave-dwelling spirit of the Isle of Man. In older Manx folklore the creature stood apart. Tradition now merges it with the buggane. Some scholars link cughtagh to the Scottish Gaelic duthach as a regional parallel. The figure survives as a cave-haunting being in Manx oral memory.",
+  "entities": [
+    {
+      "entity": "cughtagh",
+      "type": "Being"
+    },
+    {
+      "entity": "buggane",
+      "type": "Being"
+    },
+    {
+      "entity": "duthach",
+      "type": "Being"
+    },
+    {
+      "entity": "Isle of Man",
+      "type": "Place"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "cughtagh",
+      "attribute": "Manx cave-dwelling spirit merged with the buggane"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'cughtagh'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Record the cughtagh as a Manx cave-spirit merged with the buggane.",
+    "key_results": [
+      "Cave-dwelling nature recorded",
+      "Merge with buggane recorded",
+      "Possible link to duthach noted"
+    ],
+    "evidence": "MacKillop 2008, s.v. 'cughtagh'."
+  }
+}

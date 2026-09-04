@@ -1,0 +1,52 @@
+{
+  "name": "cities",
+  "fname": "cities.json",
+  "text": "The entry cities argues that Celtic-speaking populations did not found great cities of their own, since the indigenous peoples of Celtic lands lived mostly as country folk. Most urban centres in those lands were the work of outsiders. The Romans established oppida across Celtic territory, and the Danes are credited as the earliest inhabitants of Dublin. Yet the Celtic narrative traditions preserve a number of imaginary cities alongside the historical record. The Bretons tell of the sunken city of Ys, and the Irish describe a city belonging to Manannán mac Lir in the ocean world. The MacKillop entry thus contrasts real urban history (Roman oppida, Viking Dublin) with mythological urbanism drawn from Breton and Irish tale-cycles.",
+  "entities": [
+    {
+      "entity": "cities",
+      "type": "Concept"
+    },
+    {
+      "entity": "Dublin",
+      "type": "Place"
+    },
+    {
+      "entity": "Ys",
+      "type": "Place"
+    },
+    {
+      "entity": "Manannán mac Lir",
+      "type": "Character"
+    },
+    {
+      "entity": "Romans",
+      "type": "Concept"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "cities",
+      "attribute": "Celtic peoples did not found their own cities; Roman oppida and Viking Dublin dominate the historical record"
+    },
+    {
+      "entity": "cities",
+      "attribute": "Mythological urbanism survives in the sunken city of Ys and the Irish sea-city of Manannán mac Lir"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'cities'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Distinguish the historical absence of indigenous Celtic cities from the mythological cities of Celtic narrative.",
+    "key_results": [
+      "Names Roman oppida and Viking Dublin as historical urban foundations",
+      "Cites the Breton sunken city Ys",
+      "Cites the Irish sea-city of Manannán mac Lir"
+    ],
+    "evidence": "MacKillop 2008, s.v. 'cities'."
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "name": "cuachag",
+  "fname": "cuachag.json",
+  "text": "cuachag is a kind of fuath or water-sprite. The name comes from Scottish Gaelic words for girl with curly hair, curl, and cuckoo. The cuachag lives in the central Highlands of Scotland, in the area that was Inverness-shire until 1974. The creature takes its name from Loch Cuaich, which lies eight miles south-west of Kingussie. Like all the fuathan, the cuachag can be dangerous to those who meet it.",
+  "entities": [
+    {
+      "entity": "cuachag",
+      "type": "Being"
+    },
+    {
+      "entity": "fuath",
+      "type": "Being"
+    },
+    {
+      "entity": "Loch Cuaich",
+      "type": "Place"
+    },
+    {
+      "entity": "Inverness-shire",
+      "type": "Place"
+    },
+    {
+      "entity": "Kingussie",
+      "type": "Place"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "cuachag",
+      "attribute": "Highland fuath or water-sprite localized in Inverness-shire"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'cuachag'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Record the cuachag as a Highland water-sprite tied to Loch Cuaich.",
+    "key_results": [
+      "Creature classified as fuath or water-sprite",
+      "Highland locale in Inverness-shire named",
+      "Loch Cuaich named as origin of the name"
+    ],
+    "evidence": "MacKillop 2008, s.v. 'cuachag'."
+  }
+}

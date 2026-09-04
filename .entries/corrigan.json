@@ -1,0 +1,34 @@
+{
+  "name": "corrigan",
+  "fname": "corrigan.json",
+  "text": "corrigan is a variant spelling recorded in the MacKillop dictionary that points the reader to the entry korrigan. The MacKillop entry gives corrigan as a single-line cross-reference for the Breton fairy figure. The full record of the korrigan tradition sits under the headword korrigan.",
+  "entities": [
+    {
+      "entity": "corrigan",
+      "type": "Concept"
+    },
+    {
+      "entity": "korrigan",
+      "type": "Being"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "corrigan",
+      "attribute": "variant spelling of korrigan, the Breton fairy figure"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'corrigan'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "corrigan is a variant cross-reference pointing to the korrigan article.",
+    "key_results": [
+      "Signpost cites the headword korrigan for the full record of the Breton fairy tradition."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'corrigan'."
+  }
+}

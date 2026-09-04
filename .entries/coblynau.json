@@ -1,0 +1,56 @@
+{
+  "name": "coblynau",
+  "fname": "coblynau.json",
+  "text": "The coblynau (singular coblyn; variant spelling coblynnod) are Welsh sprites of the mines, whose name MacKillop derives from the English word goblins. They resemble the Cornish knockers in type and role. Although usually described as quiet and only about eighteen inches tall, the coblynau are perceived as friendly and helpful. Welsh miners credited them with knowing where rich lodes of ore could be found. The creatures are recorded under folk motif F456 in the international folk-tale index. The MacKillop entry closes by drawing the parallel between the Welsh coblynau and the Cornish knockers, placing both in a shared Atlantic family of mine-spirits.",
+  "entities": [
+    {
+      "entity": "coblynau",
+      "type": "Being"
+    },
+    {
+      "entity": "coblyn",
+      "type": "Being"
+    },
+    {
+      "entity": "knockers",
+      "type": "Being"
+    },
+    {
+      "entity": "Cornwall",
+      "type": "Place"
+    },
+    {
+      "entity": "Wales",
+      "type": "Place"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "coblynau",
+      "attribute": "Welsh mine-spirits named from English goblins, parallel to the Cornish knockers"
+    },
+    {
+      "entity": "coblynau",
+      "attribute": "Friendly helpers, eighteen inches tall, who know the location of rich ore lodes"
+    },
+    {
+      "entity": "coblynau",
+      "attribute": "Indexed in the international folk motif catalogue as F456"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'coblynau'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Place the coblynau within the wider family of Celtic mine-spirits and link them to the Cornish knockers.",
+    "key_results": [
+      "Gives the singular form coblyn and the variant coblynnod",
+      "Notes the eighteen-inch stature and helpful disposition",
+      "Cites folk motif F456 and the parallel with the Cornish knockers"
+    ],
+    "evidence": "MacKillop 2008, s.v. 'coblynau'."
+  }
+}

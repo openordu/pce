@@ -1,0 +1,34 @@
+{
+  "name": "corrbolg",
+  "fname": "corrbolg.json",
+  "text": "corrbolg is an Irish word that points the reader to the entry crane bag. It appears in the MacKillop dictionary as a single-line cross-reference for the celebrated Irish treasure-bag of Manannán mac Lir. The full record of the corrbolg tradition sits under the headword crane bag.",
+  "entities": [
+    {
+      "entity": "corrbolg",
+      "type": "Concept"
+    },
+    {
+      "entity": "crane bag",
+      "type": "Thing"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "corrbolg",
+      "attribute": "Irish word for the crane bag, the celebrated treasure-bag of Manannán mac Lir"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'corrbolg'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "corrbolg is a single-line cross-reference pointing to the crane bag article.",
+    "key_results": [
+      "Signpost cites the headword crane bag for the full record of the Irish corrbolg tradition."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'corrbolg'."
+  }
+}

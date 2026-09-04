@@ -1,0 +1,48 @@
+{
+  "name": "copóg Phádraig",
+  "fname": "copog-phadraig.json",
+  "text": "copóg Phádraig serves as the Irish folk name for two related low-growing herbs, the plantain and the water-plantain, both grouped under the genus plantago. The literal English rendering of the Irish form is leaf of Patrick, linking the herb to Ireland's patron saint. Folk tradition credited the leaves with power to repel fairies from households and pastures. The water-plantain form favours wet ditches and slow streams across the British Isles. Plain ribbed foliage marks the plant for herbal collectors. Modern herbalists still prize the genus for its soothing qualities.",
+  "entities": [
+    {
+      "entity": "copóg Phádraig",
+      "type": "Concept"
+    },
+    {
+      "entity": "Patrick",
+      "type": "Character"
+    },
+    {
+      "entity": "plantago",
+      "type": "Thing"
+    },
+    {
+      "entity": "fairies",
+      "type": "Being"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "copóg Phádraig",
+      "attribute": "Irish name for the plantain or water-plantain (genus plantago), used in folk belief to ward off fairies"
+    },
+    {
+      "entity": "copóg Phádraig",
+      "attribute": "literal Irish meaning is leaf of Patrick, named for Ireland's patron saint"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'copóg Phádraig'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Define copóg Phádraig as the Irish folk name for the plantain and note its fairy-warding role.",
+    "key_results": [
+      "States the Irish headword copóg Phádraig and its literal meaning leaf of Patrick.",
+      "Identifies the plant as the plantain or water-plantain of the genus plantago.",
+      "Notes the folk belief that the plant wards off fairies."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'copóg Phádraig'."
+  }
+}

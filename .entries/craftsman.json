@@ -1,0 +1,101 @@
+{
+  "name": "craftsman",
+  "fname": "craftsman.json",
+  "text": "In the Celtic tradition the craftsman covers the artisan, the carpenter, the potter, and the wright, but the term does not always include the smith. The Irish forms are ceardai and saor, and the Welsh form is crefflwr. In Ireland the smith has his own word, gabha in Irish and gof in Welsh. The craftsman of the Tuathá Dé Danann is Luchta, a carpenter. Luchta often works with Goibniu, a weaponmaker and wright, and with Credne, a metalsmith. In folk-tales Goibniu bears the name Gobbán Saor, meaning Gobbán the wright or craftsman. Partholón in the Lebor Gabála, the Book of Invasions, is the master artisan who stands at the head of every craft. The descriptive title applied to Lug Lámfhota is Samildánach, meaning the possessor of many talents or crafts. In the Mabinogi, the third branch called Manawydan, Llassar Llaes Gyfnewid owns the cauldron of regeneration and earns his fame for fine craftsmanship.",
+  "entities": [
+    {
+      "entity": "craftsman",
+      "type": "Concept"
+    },
+    {
+      "entity": "ceardai",
+      "type": "Concept"
+    },
+    {
+      "entity": "saor",
+      "type": "Concept"
+    },
+    {
+      "entity": "crefflwr",
+      "type": "Concept"
+    },
+    {
+      "entity": "Tuathá Dé Danann",
+      "type": "Being"
+    },
+    {
+      "entity": "Luchta",
+      "type": "Character"
+    },
+    {
+      "entity": "Goibniu",
+      "type": "Character"
+    },
+    {
+      "entity": "Credne",
+      "type": "Character"
+    },
+    {
+      "entity": "Gobbán Saor",
+      "type": "Character"
+    },
+    {
+      "entity": "Partholón",
+      "type": "Character"
+    },
+    {
+      "entity": "Lebor Gabála",
+      "type": "Text"
+    },
+    {
+      "entity": "Lug Lámfhota",
+      "type": "Character"
+    },
+    {
+      "entity": "Samildánach",
+      "type": "Concept"
+    },
+    {
+      "entity": "Llassar Llaes Gyfnewid",
+      "type": "Character"
+    },
+    {
+      "entity": "Mabinogi",
+      "type": "Text"
+    },
+    {
+      "entity": "Manawydan",
+      "type": "Text"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "craftsman",
+      "attribute": "Celtic artisan covering carpenter, potter, and wright, with Irish ceardai and saor and Welsh crefflwr"
+    },
+    {
+      "entity": "craftsman",
+      "attribute": "Partholón of the Lebor Gabála is the chief of every craft, and Lug Lámfhota bears the epithet Samildánach"
+    },
+    {
+      "entity": "craftsman",
+      "attribute": "Luchta is the carpenter of the Tuathá Dé Danann and works with Goibniu and Credne"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'craftsman'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Define the Celtic craftsman across Irish and Welsh tradition and name its major figures.",
+    "key_results": [
+      "Lists the Irish and Welsh terms ceardai, saor, and crefflwr, and excludes the smith.",
+      "Names Luchta, Goibniu, and Credne as the divine craftsman trio of the Tuathá Dé Danann.",
+      "Cites Gobbán Saor, Partholón, and the epithet Samildánach on Lug Lámfhota.",
+      "Names Llassar Llaes Gyfnewid of the Mabinogi for his craftsmanship and the cauldron of regeneration."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'craftsman'."
+  }
+}
