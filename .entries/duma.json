@@ -1,0 +1,39 @@
+{
+  "name": "duma",
+  "fname": "duma.json",
+  "text": "duma is an Irish word meaning mound, tumulus, or barrow, and it names a burial-ground in the landscape. The term appears as a recurring element in many ancient Irish place-names. A recorded example is Duma na nGall, the mound of the foreign hostages, located at Tara.",
+  "entities": [
+    {
+      "entity": "duma",
+      "type": "Concept"
+    },
+    {
+      "entity": "Tara",
+      "type": "Place"
+    },
+    {
+      "entity": "Duma na nGall",
+      "type": "Place"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "duma",
+      "attribute": "Irish term for mound, tumulus, barrow, and burial-ground, recurring in ancient place-names"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'duma'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "duma is recorded as the Irish word for a mound, tumulus, or barrow used for a burial-ground and as a place-name element.",
+    "key_results": [
+      "Article defines duma as Irish for mound, tumulus, barrow, and burial-ground",
+      "Article cites Tara's Duma na nGall as a documented example"
+    ],
+    "evidence": "MacKillop 2008, s.v. 'duma'."
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "name": "earwig",
+  "fname": "earwig.json",
+  "text": "earwig is the common English name for the small insect named from Old English ears and wicga. The creature carries pincer-like appendages that protrude from its abdomen. Folk belief once held that the earwig could penetrate a person's head through the ear. In Irish folklore the insect was seen as a disguise of the devil. Custom required that earwigs be killed as soon as anyone saw one. James Joyce drew on earwig lore when he built the figure of HCE in Finnegans Wake (1939). The insect bears its own name in each Celtic language. Modern Irish calls it gaillseach. Scottish Gaelic calls it fiolan. Manx calls it gollage. Welsh calls it chwilen glust. Cornish calls it gor-losten. Breton calls it garlostenn.",
+  "entities": [
+    {
+      "entity": "earwig",
+      "type": "Animal"
+    },
+    {
+      "entity": "devil",
+      "type": "Being"
+    },
+    {
+      "entity": "HCE",
+      "type": "Character"
+    },
+    {
+      "entity": "Finnegans Wake",
+      "type": "Text"
+    },
+    {
+      "entity": "James Joyce",
+      "type": "Character"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "earwig",
+      "attribute": "Small insect with pincer-like abdominal appendages, once regarded in Irish folklore as a disguise of the devil."
+    },
+    {
+      "entity": "earwig",
+      "attribute": "Folk belief held the creature could enter a person's head through the ear."
+    },
+    {
+      "entity": "earwig",
+      "attribute": "Drew on by James Joyce for the HCE persona in Finnegans Wake (1939)."
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'earwig'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Document the earwig insect, its folk belief as a devil disguise in Ireland, its use in Joyce's Finnegans Wake, and its six Celtic-language names.",
+    "key_results": [
+      "Names the insect's Old English etymology and the folk belief about ear penetration.",
+      "Notes the Irish perception as a disguise of the devil and the custom of killing on sight.",
+      "Records Joyce's use of earwig lore for the HCE persona in Finnegans Wake (1939).",
+      "Lists the six Celtic-language names: ModIr gaillseach, ScG fiolan, Manx gollage, W chwilen glust, Com gor-losten, Bret garlostenn."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'earwig'."
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "name": "earrach",
+  "fname": "earrach.json",
+  "text": "earrach names the season of spring in Modern Irish and Scottish Gaelic. In ordinary use the word denotes the springtime of the year. Some writers use the same word to imply Imbolc, the February festival that marks the Celtic turning toward spring. The term thus carries both a seasonal sense and a calendrical sense in Celtic usage.",
+  "entities": [
+    {
+      "entity": "earrach",
+      "type": "Concept"
+    },
+    {
+      "entity": "Imbolc",
+      "type": "Concept"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "earrach",
+      "attribute": "Modern Irish and Scottish Gaelic word for spring, sometimes used to imply the February festival Imbolc."
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'earrach'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Document earrach as the shared Modern Irish and Scottish Gaelic term for spring, with its occasional use for Imbolc.",
+    "key_results": [
+      "Names the term as the Modern Irish and Scottish Gaelic word for spring.",
+      "Notes the occasional implication of the February festival Imbolc."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'earrach'."
+  }
+}

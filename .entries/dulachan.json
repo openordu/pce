@@ -1,0 +1,35 @@
+{
+  "name": "dulachan",
+  "fname": "dulachan.json",
+  "text": "dulachan is recorded alongside dulacaun as variant spellings of the dullahan, the headless phantom of Irish and Scottish Gaelic tradition. Both forms redirect the reader to the canonical headword. The full record on this headless rider sits under the headword dullahan.",
+  "entities": [
+    {
+      "entity": "dulachan",
+      "type": "Concept"
+    },
+    {
+      "entity": "dullahan",
+      "type": "Being"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "dulachan",
+      "attribute": "Variant spelling (with dulacaun) of the headless phantom dullahan"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'dulachan'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "dulachan is recorded as one of the variant spellings pointing the reader to the dullahan article.",
+    "key_results": [
+      "Signpost names dulachan and dulacaun as variant spellings of dullahan",
+      "Signpost cites dullahan as the target node for the full record"
+    ],
+    "evidence": "MacKillop 2008, s.v. 'dulachan'."
+  }
+}

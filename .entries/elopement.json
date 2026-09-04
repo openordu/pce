@@ -1,0 +1,48 @@
+{
+  "name": "elopement",
+  "fname": "elopement.json",
+  "text": "elopement is the standard English translation of the Irish Aíthéd. Aíthéd stands as the first word of a recognised tale category in Old and Middle Irish literature. A well-known example is Aíthéd Finn, or The Elopement of Fionn. Writers occasionally misuse elopement as a translation of Tóraigheacht, which actually means pursuit. The two tale-types share narrative surface but name distinct genres. The English term thus sits at the hinge of two related Irish tale categories.",
+  "entities": [
+    {
+      "entity": "elopement",
+      "type": "Concept"
+    },
+    {
+      "entity": "Aíthéd",
+      "type": "Concept"
+    },
+    {
+      "entity": "Tóraigheacht",
+      "type": "Concept"
+    },
+    {
+      "entity": "Fionn",
+      "type": "Character"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "elopement",
+      "attribute": "English translation of the Irish tale-category word Aíthéd, with Aíthéd Finn as a primary example."
+    },
+    {
+      "entity": "elopement",
+      "attribute": "Occasionally misapplied to Tóraigheacht, the Irish word for pursuit."
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'elopement'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Document elopement as the English translation of the Irish tale-category word Aíthéd and note its occasional confusion with Tóraigheacht.",
+    "key_results": [
+      "Names elopement as the English rendering of the Irish Aíthéd.",
+      "Cites Aíthéd Finn (The Elopement of Fionn) as the primary example of the tale category.",
+      "Notes the occasional mistranslation of Tóraigheacht (pursuit) as elopement."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'elopement'."
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "name": "elves",
+  "fname": "elves.json",
+  "text": "elves is the English plural form that points the reader to the headword elf. The full record of these supernatural beings in Celtic and Germanic tradition sits under the headword elf. The plural appears in MacKillop only as a one-line cross-reference.",
+  "entities": [
+    {
+      "entity": "elves",
+      "type": "Concept"
+    },
+    {
+      "entity": "elf",
+      "type": "Being"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "elves",
+      "attribute": "English plural of the headword elf, presented as a single-line cross-reference."
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'elves'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "elves is a one-line cross-reference pointing to the existing headword elf.",
+    "key_results": [
+      "Signpost names elf as the target for the full record."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'elves'."
+  }
+}
