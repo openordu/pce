@@ -1,0 +1,39 @@
+{
+  "name": "bledlochtana",
+  "fname": "bledlochtana.json",
+  "text": "bledlochtana is an Irish word meaning monsters. The term names a host of monstrous beings in Irish story. Their screams roll across the earth when the Battle of Mag Tuired reaches its fourth day. The full account of that battle sits in the text Cath Maige Tuired.",
+  "entities": [
+    {
+      "entity": "bledlochtana",
+      "type": "Being"
+    },
+    {
+      "entity": "Cath Maige Tuired",
+      "type": "Text"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "bledlochtana",
+      "attribute": "Irish for monsters"
+    },
+    {
+      "entity": "bledlochtana",
+      "attribute": "Cries resound over the earth on day four of the Battle of Mag Tuired"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'bledlochtana'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "bledlochtana records the screaming monsters of the Battle of Mag Tuired.",
+    "key_results": [
+      "Node fixes their outcry to the fourth day of the battle.",
+      "Node points to Cath Maige Tuired for the full account."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'bledlochtana'."
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "name": "biast",
+  "fname": "biast.json",
+  "text": "biast is the Scottish Gaelic word for a beast. Variants include béist and biasd. The term descends from Latin bestia and matches Old Irish biast. In folklore it labels a range of monstrous characters. Named examples include the Arrach, the fuath, and the Muilearteach. Each of those beings carries its own entry.",
+  "entities": [
+    {
+      "entity": "biast",
+      "type": "Concept"
+    },
+    {
+      "entity": "Arrach",
+      "type": "Being"
+    },
+    {
+      "entity": "fuath",
+      "type": "Being"
+    },
+    {
+      "entity": "Muilearteach",
+      "type": "Being"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "biast",
+      "attribute": "Scottish Gaelic beast-word, from Latin bestia"
+    },
+    {
+      "entity": "biast",
+      "attribute": "Covers beings such as Arrach, fuath, and Muilearteach"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'biast'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "biast defines the Scottish Gaelic beast-word and its folkloric bearers.",
+    "key_results": [
+      "Node gives the Latin and Old Irish comparisons.",
+      "Node names Arrach, fuath, and Muilearteach as the usual referents."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'biast'."
+  }
+}

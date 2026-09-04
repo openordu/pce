@@ -1,0 +1,34 @@
+{
+  "name": "beer",
+  "fname": "beer.json",
+  "text": "beer is a bare see-reference in MacKillop. The entry gives no brewing lore of its own. It points the reader to the entry ale, where the full record sits.",
+  "entities": [
+    {
+      "entity": "beer",
+      "type": "Concept"
+    },
+    {
+      "entity": "ale",
+      "type": "Concept"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "beer",
+      "attribute": "See-reference pointing to the headword ale"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'beer'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "beer is a see-reference to ale.",
+    "key_results": [
+      "Signpost directs the reader to the headword ale for the full record."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'beer'."
+  }
+}

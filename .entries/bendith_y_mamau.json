@@ -1,0 +1,43 @@
+{
+  "name": "bendith y mamau",
+  "fname": "bendith_y_mamau.json",
+  "text": "bendith y mamau is a Welsh phrase meaning the blessings of the mothers. Speakers in Glamorganshire use it as a euphemism for the fairies. Welsh tradition more often calls those beings tylwyth teg. Users prefer the euphemism to avoid kidnapping and the fairies' mischief. Related lore also names a hound pack, cwn bendith y mamau, the dogs of the blessed ones. MacKillop treats that phrase under the entry c’wn annwn.",
+  "entities": [
+    {
+      "entity": "bendith y mamau",
+      "type": "Concept"
+    },
+    {
+      "entity": "tylwyth teg",
+      "type": "Being"
+    },
+    {
+      "entity": "c’wn annwn",
+      "type": "Being"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "bendith y mamau",
+      "attribute": "Glamorganshire euphemism for the fairies"
+    },
+    {
+      "entity": "bendith y mamau",
+      "attribute": "Welsh for the blessings of the mothers"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'bendith y mamau'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "bendith y mamau records the Glamorganshire euphemism for the fairies of Wales.",
+    "key_results": [
+      "Node links the phrase to the better-known tylwyth teg.",
+      "Node notes the hound phrase treated under c’wn annwn."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'bendith y mamau'."
+  }
+}

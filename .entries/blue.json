@@ -1,0 +1,40 @@
+{
+  "name": "blue",
+  "fname": "blue.json",
+  "text": "blue is the hue of a clear sky, and Celtic tradition ties that azure to royal power. The link shows most strongly in Ireland. Irish kings flew a heraldic flag on a blue ground, and the modern presidential flag keeps that field. Many significant Irish women bore the name Gormlaith. The name pairs Old Irish gorm flaith, which yields the sense blue sovereignty. Celtic blue-words do not map onto the shades implied in English. Old Irish and Modern Irish use gorm, as does Scottish Gaelic. Manx uses gorrym. Welsh, Cornish, and Breton all use glas.",
+  "entities": [
+    {
+      "entity": "blue",
+      "type": "Concept"
+    },
+    {
+      "entity": "Gormlaith",
+      "type": "Character"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "blue",
+      "attribute": "Azure tied to sovereignty and kingship, chiefly in Ireland"
+    },
+    {
+      "entity": "blue",
+      "attribute": "Ground of the Irish royal heraldic flag, kept by the modern presidential flag"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'blue'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "blue records the royal sense of azure and the Celtic blue-word set.",
+    "key_results": [
+      "Node links the colour to the Irish kingly flag and the modern presidential flag.",
+      "Node explains the name Gormlaith from Old Irish gorm flaith.",
+      "Node lists gorm, gorrym, and glas across the Celtic languages."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'blue'."
+  }
+}

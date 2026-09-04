@@ -1,0 +1,31 @@
+{
+  "name": "bo-lol",
+  "fname": "bo-lol.json",
+  "text": "The bo-lol is a fright figure of Welsh folklore. People described it as an apparition of the bogey or bugbear kind. The term marks a class of feared beings rather than one named character. MacKillop records the word as a definition without a story of its own.",
+  "entities": [
+    {
+      "entity": "bo-lol",
+      "type": "Being"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "bo-lol",
+      "attribute": "Welsh folklore apparition of the bogey or bugbear kind"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'bo-lol'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Define bo-lol as a Welsh bogey-type apparition.",
+    "key_results": [
+      "Classify the bo-lol as a fright figure of the bogey or bugbear kind.",
+      "Note that MacKillop gives the word only a bare definition."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'bo-lol'."
+  }
+}
