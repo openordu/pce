@@ -1,0 +1,34 @@
+{
+  "name": "bull feast",
+  "fname": "bull_feast.json",
+  "text": "bull feast is a one-line entry pointing the reader to the bull article, which covers the Tarbh Feis bull-sacrifice ritual of early Ireland. MacKillop records no independent article body for bull feast. The full record of the bull ritual, its participants, and its place in the inauguration of kings sits under the headword bull.",
+  "entities": [
+    {
+      "entity": "bull feast",
+      "type": "Concept"
+    },
+    {
+      "entity": "bull",
+      "type": "Concept"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "bull feast",
+      "attribute": "see-reference for the bull article on the Tarbh Feis bull-sacrifice."
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'bull feast'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "bull feast is a see-reference signpost pointing readers to the bull node for the Tarbh Feis article.",
+    "key_results": [
+      "Signpost cites the headword bull as the destination for the full record of the Tarbh Feis ritual."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'bull feast'."
+  }
+}

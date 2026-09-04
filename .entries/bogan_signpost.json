@@ -1,0 +1,34 @@
+{
+  "name": "bogan",
+  "fname": "bogan_signpost.json",
+  "text": "bogan is a one-line variant spelling of the headword bogan (MacKillop's bòcan article, the Gaelic Scotland hobgoblin or sprite). The full record of the bòcan word-article sits under the headword bogan.",
+  "entities": [
+    {
+      "entity": "bogan",
+      "type": "Concept"
+    },
+    {
+      "entity": "bogan",
+      "type": "Being"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "bogan",
+      "attribute": "variant spelling of the headword bogan (bòcan article)"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'bogan'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "bogan is a variant spelling pointing to the bogan node for the bòcan word-article.",
+    "key_results": [
+      "Signpost cites the headword bogan for the full record of the bòcan article."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'bogan'."
+  }
+}

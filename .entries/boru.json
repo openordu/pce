@@ -1,0 +1,35 @@
+{
+  "name": "boru",
+  "fname": "boru.json",
+  "text": "boru is the anglicized form of bórama, with a cross-reference to the brian article. The full record sits under the headword bórama.",
+  "entities": [
+    {
+      "entity": "boru",
+      "type": "Concept"
+    },
+    {
+      "entity": "bórama",
+      "type": "Concept"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "boru",
+      "attribute": "anglicization of bórama; also points to brian"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'boru'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "boru is an anglicization pointing to the bórama node.",
+    "key_results": [
+      "Signpost identifies boru as the anglicized form of bórama.",
+      "Signpost cross-references the brian article."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'boru'."
+  }
+}

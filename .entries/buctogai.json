@@ -1,0 +1,34 @@
+{
+  "name": "buctogai",
+  "fname": "buctogai.json",
+  "text": "buctogai is a variant spelling of boctogai, the Irish word for the fairy folk of the sea. MacKillop records this entry only as a one-line cross-reference, with no independent article body. The full record of the boctogai word-article, including the related phrase bunadh beag na farraige, sits under the headword boctogai, and readers should follow that entry for the main definition and the wider family of sea-fairy names.",
+  "entities": [
+    {
+      "entity": "buctogai",
+      "type": "Concept"
+    },
+    {
+      "entity": "boctogai",
+      "type": "Being"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "buctogai",
+      "attribute": "variant spelling of boctogai; pointer to the boctogai node for the full sea-fairy article."
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'buctogai'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "buctogai is a variant-spelling signpost pointing readers to the boctogai node for the full sea-fairy word-article.",
+    "key_results": [
+      "Signpost cites the headword boctogai as the destination for the full record of the sea-fairy article."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'buctogai'."
+  }
+}

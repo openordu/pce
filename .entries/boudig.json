@@ -1,0 +1,35 @@
+{
+  "name": "boudig",
+  "fname": "boudig.json",
+  "text": "boudig names a Breton word that translates as fairy in English. The fuller Breton fairy record sits with korrigan, the other Breton term for this kind of being.",
+  "entities": [
+    {
+      "entity": "boudig",
+      "type": "Concept"
+    },
+    {
+      "entity": "korrigan",
+      "type": "Concept"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "boudig",
+      "attribute": "one of two Breton words for a fairy; the other Breton word is korrigan"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'boudig'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Identify boudig as one of two Breton words for fairy and link to korrigan.",
+    "key_results": [
+      "Names boudig as one of two Breton words for fairy.",
+      "Cross-references korrigan for the full Breton fairy record."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'boudig'."
+  }
+}

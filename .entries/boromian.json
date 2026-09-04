@@ -1,0 +1,34 @@
+{
+  "name": "boromian",
+  "fname": "boromian.json",
+  "text": "boromian points the reader to the bórama entry for the boromean tribute. The full record of the tribute sits under the headword bórama.",
+  "entities": [
+    {
+      "entity": "boromian",
+      "type": "Concept"
+    },
+    {
+      "entity": "bórama",
+      "type": "Concept"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "boromian",
+      "attribute": "cross-reference to the bórama headword for the boromean tribute"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'boromian'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "boromian is a cross-reference pointing to the bórama node for the boromean tribute.",
+    "key_results": [
+      "Signpost directs the reader to the bórama headword for the boromean tribute."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'boromian'."
+  }
+}

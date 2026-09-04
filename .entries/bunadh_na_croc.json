@@ -1,0 +1,43 @@
+{
+  "name": "bunadh na croc",
+  "fname": "bunadh_na_croc.json",
+  "text": "bunadh na croc is an Irish phrase naming the fairy folk of a hill. MacKillop glosses the elements as stock, host, or kindred tied to the mound. The term serves as one of many bynames for the fairies in the Irish tradition. MacKillop places Búrc Búiredach in the same paragraph as the headword and names him father of Éme, the figure who gives her name to an early Irish place. The hill element marks the same fairy-mound link carried by other Irish compounds. See also the entry for fairies for the broader folk taxonomy.",
+  "entities": [
+    {
+      "entity": "bunadh na croc",
+      "type": "Being"
+    },
+    {
+      "entity": "fairies",
+      "type": "Concept"
+    },
+    {
+      "entity": "Búrc Búiredach",
+      "type": "Character"
+    },
+    {
+      "entity": "Éme",
+      "type": "Character"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "bunadh na croc",
+      "attribute": "Irish phrase naming the fairy folk of a hill; a byname for the fairies, glossed by MacKillop as stock, host, or kindred of the mound."
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'bunadh na croc'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Document bunadh na croc as a hill-fairy byname in MacKillop.",
+    "key_results": [
+      "Records the Irish gloss stock, host, or family of the hill.",
+      "Notes the link to Búrc Búiredach and his daughter Éme."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'bunadh na croc'."
+  }
+}

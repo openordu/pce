@@ -1,0 +1,39 @@
+{
+  "name": "bruig",
+  "fname": "bruig.json",
+  "text": "bruig is an Irish word rendered in modern sources as bruigh, brug, brugh, or brú. Its basic senses cover a farmhouse, a dwelling of any kind, a wider district or region, and ground that has been brought under cultivation. Within Irish storytelling the noun took on further associations with the unseen realm, since the same root could describe the inside of a sidhe. In oral tradition gathered across the centuries bruig frequently refers to the chambered hollow within a fairy mound, and especially to a residence inside that mound shared by many members of the fairy host. It is not restricted to the single-family household implied by the everyday sense. Readers comparing related entries should also consult bruiden and the major site Brug na Bóinne.",
+  "entities": [
+    {
+      "entity": "bruig",
+      "type": "Concept"
+    },
+    {
+      "entity": "fairies",
+      "type": "Being"
+    },
+    {
+      "entity": "Brug na Bóinne",
+      "type": "Place"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "bruig",
+      "attribute": "Irish noun covering a dwelling, a region, and the interior of a fairy mound shared by many fairies."
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'bruig'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Document the Irish term bruig and its fairy-mound associations as recorded by MacKillop.",
+    "key_results": [
+      "Records the everyday senses (farmhouse, abode, region, cultivated land) and the narrative sense covering a shared fairy-mound interior.",
+      "Cross-references fairies as the inhabitants and Brug na Bóinne as a parallel site entry."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'bruig'."
+  }
+}

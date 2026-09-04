@@ -1,0 +1,34 @@
+{
+  "name": "buckawn",
+  "fname": "buckawn.json",
+  "text": "buckawn is the anglicized form of the Gaelic Scotland word bòcan, the hobgoblin or household sprite of Highland tradition. MacKillop records this entry only as a one-line pointer, with no independent article body. The full record of the bòcan word-article sits under the headword bogan, and readers should follow that entry for definitions, regional variants, and related beings.",
+  "entities": [
+    {
+      "entity": "buckawn",
+      "type": "Concept"
+    },
+    {
+      "entity": "bogan",
+      "type": "Being"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "buckawn",
+      "attribute": "anglicized spelling of bòcan; pointer to the bogan node for the full bòcan word-article."
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'buckawn'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "buckawn is an anglicized-spelling signpost pointing readers to the bogan node for the bòcan word-article.",
+    "key_results": [
+      "Signpost cites the headword bogan as the destination for the full record of the bòcan article."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'buckawn'."
+  }
+}
