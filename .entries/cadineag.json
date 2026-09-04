@@ -1,0 +1,48 @@
+{
+  "name": "cadineag",
+  "fname": "cadineag.json",
+  "text": "cadineag is a Scottish Gaelic spirit of mourning resembling the bean nighe. Her keening is said to be audible by nightfall near running water, sounding before some disaster befalls a clan. Some accounts of cadineag connect her image with the standing stones of the massacre at Glencoe in north Strathclyde, formerly Argyllshire, in 1692. The figure may be identical with other named mourners of Gaelic tradition.",
+  "entities": [
+    {
+      "entity": "cadineag",
+      "type": "Being"
+    },
+    {
+      "entity": "bean nighe",
+      "type": "Being"
+    },
+    {
+      "entity": "Glencoe",
+      "type": "Place"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "cadineag",
+      "attribute": "Scottish Gaelic fairy or weeper similar to the bean nighe"
+    },
+    {
+      "entity": "cadineag",
+      "attribute": "heard wailing near a waterfall before catastrophe overtakes a clan"
+    },
+    {
+      "entity": "cadineag",
+      "attribute": "sometimes portrayed in stones of the Glencoe massacre (1692)"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'cadineag'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Document the Scottish Gaelic mourning spirit cadineag as recorded by MacKillop.",
+    "key_results": [
+      "Places cadineag as a Gaelic weeper akin to the bean nighe",
+      "Notes the wailing-near-waterfall motif as a warning of clan-wide disaster",
+      "Connects the figure to the stones of Glencoe (1692)"
+    ],
+    "evidence": "MacKillop 2008, s.v. 'cadineag'."
+  }
+}

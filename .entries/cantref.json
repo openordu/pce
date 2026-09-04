@@ -1,0 +1,44 @@
+{
+  "name": "cantref",
+  "fname": "cantref.json",
+  "text": "cantref is a Welsh division of land recorded in early Welsh literature, formed from cant, meaning hundred, and tref, meaning dwelling-place. The unit grouped around one hundred dwellings or hamlets. A cantref in turn comprised two or more commotes. The form cantred passed into English from Welsh, where it survives as a regional term.",
+  "entities": [
+    {
+      "entity": "cantref",
+      "type": "Concept"
+    },
+    {
+      "entity": "commotes",
+      "type": "Concept"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "cantref",
+      "attribute": "Welsh division of land containing about 100 dwellings or hamlets"
+    },
+    {
+      "entity": "cantref",
+      "attribute": "comprises two or more commotes"
+    },
+    {
+      "entity": "cantref",
+      "attribute": "form 'cantred' entered English from Welsh"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'cantref'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Document the Welsh land-unit cantref as recorded by MacKillop.",
+    "key_results": [
+      "Defines cantref as a hundred-dwelling Welsh division",
+      "Notes that a cantref contains two or more commotes",
+      "Traces the English form 'cantred' back to Welsh"
+    ],
+    "evidence": "MacKillop 2008, s.v. 'cantref'."
+  }
+}

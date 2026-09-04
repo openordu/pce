@@ -1,0 +1,36 @@
+{
+  "name": "ceithern",
+  "fname": "ceithern.json",
+  "text": "ceithern is an Old Irish term for a company of armed fighters. From it come the derived forms ceithernach and ceatharnach, which English speakers anglicized as kern and kerne. The modern Irish descendants are ceard and ceardach. Compare ceithern with the fianna, the warrior bands of early Irish tradition.",
+  "entities": [
+    {
+      "entity": "ceithern",
+      "type": "Concept"
+    },
+    {
+      "entity": "fianna",
+      "type": "Concept"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "ceithern",
+      "attribute": "Old Irish word for a band of fighting men"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'ceithern'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Document the Old Irish word ceithern and its anglicized descendants.",
+    "key_results": [
+      "Defines ceithern as a band of fighting men.",
+      "Notes anglicized forms kern and kerne.",
+      "Cross-references the fianna warrior bands."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'ceithern'."
+  }
+}

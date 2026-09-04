@@ -1,0 +1,34 @@
+{
+  "name": "cawr",
+  "fname": "cawr.json",
+  "text": "cawr is the Welsh word for a giant. The term marks the towering being of Welsh tradition and appears in tales of the old north. The word itself is the standard label, and MacKillop gives no separate article beyond the brief definition that the giant of Welsh folklore is called a cawr.",
+  "entities": [
+    {
+      "entity": "cawr",
+      "type": "Concept"
+    },
+    {
+      "entity": "giant",
+      "type": "Concept"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "cawr",
+      "attribute": "Welsh word for giant"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'cawr'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Record cawr as the Welsh term for giant.",
+    "key_results": [
+      "Defines cawr as the Welsh word for giant."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'cawr'."
+  }
+}

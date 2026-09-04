@@ -1,0 +1,34 @@
+{
+  "name": "ceo síth",
+  "fname": "ceo-sith.json",
+  "text": "ceo síth is a one-line cross-reference pointing the reader to the entry fairy mist. The full record for this fairy phenomenon sits under the headword fairy mist.",
+  "entities": [
+    {
+      "entity": "ceo síth",
+      "type": "Concept"
+    },
+    {
+      "entity": "fairy mist",
+      "type": "Concept"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "ceo síth",
+      "attribute": "see-reference pointing to the fairy mist article"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'ceo síth'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "ceo síth is a see-reference pointing to the fairy mist node.",
+    "key_results": [
+      "Signpost names fairy mist as the target article."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'ceo síth'."
+  }
+}

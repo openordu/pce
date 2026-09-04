@@ -1,0 +1,68 @@
+{
+  "name": "bórama",
+  "fname": "borama.json",
+  "text": "bórama is an Irish word for tribute or cattle-levy, naming the payment that stronger chiefs extracted from weaker neighbours. The Leinster bórama stands as the most famous example: the Lagin delivered it to the kingship at Tara, on account of their non-Goidelic blood. Tuathal Techtmar was the first ruler to call for it. Imaginative narrative sets the price in cattle, fleecy beasts, swine, and cloaks; in bronze vessels; and in ounces of silver — five thousand beasts and goods. The cause given was one of Tuathal Techtmar's daughters taken by Eochaid, king of Leinster, who had already married another of Tuathal's daughters. The tribute ceased after the eighth century. The tale titled Bórama also records the death of Eochaid's son and the burial alive of fifty captives around the son's grave. The text is published in S. H. O'Grady's Silva Gadelica (1892). The byname Brian Bórama, also Boru (d. 1014), takes its name from the ring-fort earthwork at Béal Bórama near Killaloe in County Clare. It is unclear whether Brian ever demanded tribute at that pass or whether his name attached there for some other reason.",
+  "entities": [
+    {
+      "entity": "bórama",
+      "type": "Concept"
+    },
+    {
+      "entity": "Tuathal Techtmar",
+      "type": "Character"
+    },
+    {
+      "entity": "Eochaid",
+      "type": "Character"
+    },
+    {
+      "entity": "Tara",
+      "type": "Place"
+    },
+    {
+      "entity": "Brian Bórama",
+      "type": "Character"
+    },
+    {
+      "entity": "Lagin",
+      "type": "Concept"
+    },
+    {
+      "entity": "Béal Bórama",
+      "type": "Place"
+    },
+    {
+      "entity": "Killaloe",
+      "type": "Place"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "bórama",
+      "attribute": "Irish tribute exacted by stronger chiefs or tribes from weaker ones"
+    },
+    {
+      "entity": "bórama",
+      "attribute": "first demanded by Tuathal Techtmar from the Lagin for Tara"
+    },
+    {
+      "entity": "bórama",
+      "attribute": "sobriquet Brian Bórama (Boru, d. 1014) drawn from the ring-fort Béal Bórama"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'bórama'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Document the bórama tribute of early Ireland as recorded by MacKillop.",
+    "key_results": [
+      "Names the Leinster bórama and the first king who demanded it",
+      "Lists the tribute items set by narrative",
+      "Links the Brian Bórama sobriquet to the Béal Bórama ring-fort"
+    ],
+    "evidence": "MacKillop 2008, s.v. 'bórama'."
+  }
+}

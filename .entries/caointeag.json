@@ -1,0 +1,43 @@
+{
+  "name": "caointeag",
+  "fname": "caointeag.json",
+  "text": "The caointeag is a regional name used on the isle of Islay and in nearby Kintyre for the spirit otherwise known as the caoineach. It belongs to the wider family of Gaelic mourning figures. The variant label keeps the local tradition distinct within that family.",
+  "entities": [
+    {
+      "entity": "caointeag",
+      "type": "Being"
+    },
+    {
+      "entity": "caoineach",
+      "type": "Being"
+    },
+    {
+      "entity": "Islay",
+      "type": "Place"
+    },
+    {
+      "entity": "Kintyre",
+      "type": "Place"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "caointeag",
+      "attribute": "Islay and Kintyre name for the caoineach"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'caointeag'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Record caointeag as a regional name for the caoineach on Islay and in Kintyre.",
+    "key_results": [
+      "Names caointeag as the Islay and Kintyre form of the caoineach.",
+      "Places caointeag inside the broader family of Gaelic mourning figures."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'caointeag'."
+  }
+}

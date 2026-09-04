@@ -1,0 +1,44 @@
+{
+  "name": "cath",
+  "fname": "cath.json",
+  "text": "cath is an Irish word that simply means battle. It opens the title of many narrative texts and so marks their shared theme. Tales whose titles begin with cath are filed word by word rather than by initial letter alone. The modern Irish word descends from Old Celtic calu and sits beside the Welsh cad, which carries the same sense of battle.",
+  "entities": [
+    {
+      "entity": "cath",
+      "type": "Concept"
+    },
+    {
+      "entity": "calu",
+      "type": "Concept"
+    },
+    {
+      "entity": "cad",
+      "type": "Concept"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "cath",
+      "attribute": "Irish word for battle used to classify many tale titles"
+    },
+    {
+      "entity": "cath",
+      "attribute": "cognate with Old Celtic calu and Welsh cad"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'cath'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Record cath as the Irish word for battle and as a title-classifier for many narratives.",
+    "key_results": [
+      "Defines cath as the Irish word for battle.",
+      "Notes that titles beginning with cath are alphabetized word by word.",
+      "Connects cath with Old Celtic calu and Welsh cad."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'cath'."
+  }
+}

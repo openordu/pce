@@ -1,0 +1,34 @@
+{
+  "name": "ces noínden",
+  "fname": "ces-noinden.json",
+  "text": "ces noínden, Irish for difficulty of nine, is a one-line cross-reference pointing the reader to the entry Noínden Ulad. The full record for that tale sits under the headword Noínden Ulad.",
+  "entities": [
+    {
+      "entity": "ces noínden",
+      "type": "Text"
+    },
+    {
+      "entity": "Noínden Ulad",
+      "type": "Text"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "ces noínden",
+      "attribute": "Irish phrase meaning difficulty of nine, pointing to the Noínden Ulad article"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'ces noínden'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "ces noínden is a see-reference pointing to the Noínden Ulad node.",
+    "key_results": [
+      "Signpost names Noínden Ulad as the target article."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'ces noínden'."
+  }
+}
