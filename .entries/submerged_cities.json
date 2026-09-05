@@ -1,0 +1,56 @@
+{
+  "name": "submerged cities",
+  "text": "submerged cities names the Celtic tradition that whole cities have been inundated. Flood legends in Celtic lands carry this motif. The best-known Celtic examples are Ys in Finistère from Breton tradition and Cantre'r Gwaelod on Cardigan Bay in Welsh tradition. In Ireland, drowned cities are thought to lie under Lough Neagh, Lough Ree, and the Shannon River. The Shannon City resurfaces every seven years, and those who glimpse it meet a fatal end. Lancarrow, in the Cornish record, lies buried beneath the sands. The wider tradition also covers the Land Under Wave.",
+  "entities": [
+    {
+      "entity": "submerged cities",
+      "type": "Concept"
+    },
+    {
+      "entity": "Ys",
+      "type": "Place"
+    },
+    {
+      "entity": "Cantre'r Gwaelod",
+      "type": "Place"
+    },
+    {
+      "entity": "Lough Neagh",
+      "type": "Place"
+    },
+    {
+      "entity": "Lough Ree",
+      "type": "Place"
+    },
+    {
+      "entity": "Shannon River",
+      "type": "Place"
+    },
+    {
+      "entity": "Lancarrow",
+      "type": "Place"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "submerged cities",
+      "attribute": "Celtic tradition of drowned cities; Ys, Cantre'r Gwaelod, Shannon City, Lancarrow"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'submerged cities'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "submerged cities is the MacKillop headword for the Celtic drowned-cities tradition.",
+    "key_results": [
+      "Celtic tradition of whole cities inundated.",
+      "Ys in Finistère and Cantre'r Gwaelod in Wales are the best-known.",
+      "Shannon City in Ireland reappears every seven years.",
+      "Lancarrow in Cornwall lies submerged beneath the sands."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'submerged cities'."
+  }
+}

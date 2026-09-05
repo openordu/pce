@@ -1,0 +1,39 @@
+{
+  "name": "suileach",
+  "text": "suileach is the multi-eyed, eponymous sea-monster MacKillop records for Lough Swilly in County Donegal. The name comes from the Irish suil, eye, and marks the creature's many eyes as its distinguishing feature. St Colum Cille, who lived from 521 to 597, is said to have dispatched the creature in the early Christian centuries. The figure sits within the wider family of Celtic sea-monsters covered by the headword sea-monster.",
+  "entities": [
+    {
+      "entity": "suileach",
+      "type": "Being"
+    },
+    {
+      "entity": "Lough Swilly",
+      "type": "Place"
+    },
+    {
+      "entity": "Colum Cille",
+      "type": "Person"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "suileach",
+      "attribute": "Multi-eyed sea-monster of Lough Swilly; dispatched by St Colum Cille"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'suileach'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "suileach is the MacKillop headword for the multi-eyed Lough Swilly sea-monster.",
+    "key_results": [
+      "Multi-eyed, eponymous sea-monster of Lough Swilly.",
+      "Dispatched by St Colum Cille (521-597).",
+      "Belongs to the wider Celtic sea-monster family."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'suileach'."
+  }
+}

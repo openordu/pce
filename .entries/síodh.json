@@ -1,0 +1,33 @@
+{
+  "name": "síodh",
+  "text": "síodh is a MacKillop variant spelling of sidh. The form appears in older Irish sources as a phonetic rendering of the sídhe headword. The full record of the sídhe tradition sits under the headword sídhe.",
+  "entities": [
+    {
+      "entity": "síodh",
+      "type": "Concept"
+    },
+    {
+      "entity": "sídhe",
+      "type": "Concept"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "síodh",
+      "attribute": "Variant spelling of sidh; pointer to sídhe headword"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'síodh'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "síodh is a MacKillop signpost for the sídhe headword.",
+    "key_results": [
+      "Signpost cites sídhe as the canonical headword."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'síodh'."
+  }
+}

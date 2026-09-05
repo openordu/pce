@@ -1,0 +1,33 @@
+{
+  "name": "spear",
+  "text": "spear is a MacKillop see-ref that points the reader to the gáe sídhe headword. The gáe sídhe covers the wider record of Celtic spear tradition and the throwing-spear magic associated with the sídhe. The full article sits under the headword gáe sídhe.",
+  "entities": [
+    {
+      "entity": "spear",
+      "type": "Thing"
+    },
+    {
+      "entity": "gáe sídhe",
+      "type": "Thing"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "spear",
+      "attribute": "Common-English gloss for gáe sídhe; pointer to gáe sídhe headword"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'spear'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "spear is a MacKillop signpost for the gáe sídhe headword.",
+    "key_results": [
+      "Signpost cites gáe sídhe as the canonical headword."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'spear'."
+  }
+}

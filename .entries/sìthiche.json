@@ -1,0 +1,41 @@
+{
+  "name": "sìthiche",
+  "text": "sìthiche names the headword variant MacKillop gives for the druid Sithchenn at the court of Eochaid Mugmedón. The druid devises two contests by which Niall Noigiallach wins the kingship of his father. The full record sits under the headword Sithchenn and the adventure Echtra Mac nEchach Muigmedóin.",
+  "entities": [
+    {
+      "entity": "sìthiche",
+      "type": "Person"
+    },
+    {
+      "entity": "Sithchenn",
+      "type": "Person"
+    },
+    {
+      "entity": "Eochaid Mugmedón",
+      "type": "Person"
+    },
+    {
+      "entity": "Niall Noigiallach",
+      "type": "Person"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "sìthiche",
+      "attribute": "Headword variant for the druid Sithchenn; pointer to Sithchenn headword"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'sìthiche'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "sìthiche is a MacKillop signpost for the Sithchenn headword.",
+    "key_results": [
+      "Signpost cites Sithchenn as the canonical headword."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'sìthiche'."
+  }
+}
