@@ -1,0 +1,42 @@
+{
+  "name": "Àth Fodhla",
+  "text": "Àth Fodhla is the Scottish Gaelic form of Atholl, the highland district of Scotland. MacKillop records the form as the Scottish Gaelic rendering, with Fodla as a parallel Irish place-name. The principal record sits under Atholl, with FÓDLA as a related headword.",
+  "entities": [
+    {
+      "entity": "Àth Fodhla",
+      "type": "Place"
+    },
+    {
+      "entity": "Atholl",
+      "type": "Place"
+    },
+    {
+      "entity": "Fodla",
+      "type": "Place"
+    },
+    {
+      "entity": "Scottish Gaelic",
+      "type": "Language"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Àth Fodhla",
+      "attribute": "Scottish Gaelic form of Atholl; pointer to Atholl headword"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Àth Fodhla'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Àth Fodhla is a MacKillop signpost to Atholl.",
+    "key_results": [
+      "Cites Atholl as the canonical headword.",
+      "Notes parallel Irish form Fodla."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Àth Fodhla'."
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "name": "sióg",
+  "text": "sióg is the Modern Irish word for a single fairy. The unreformed spelling sídheóg appears in older texts. MacKillop points the reader to the sheogue headword for the anglicized rendering. The sióg belongs to the wider Irish fairy family that includes the síth and the sídhe.",
+  "entities": [
+    {
+      "entity": "sióg",
+      "type": "Being"
+    },
+    {
+      "entity": "sheogue",
+      "type": "Being"
+    },
+    {
+      "entity": "fairy",
+      "type": "Being"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "sióg",
+      "attribute": "Modern Irish word for a single fairy; pointer to sheogue headword"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'sióg'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "sióg is a MacKillop see-ref signpost for the sheogue headword.",
+    "key_results": [
+      "Signpost cites sheogue as the canonical anglicization.",
+      "Unreformed form sídheóg."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'sióg'."
+  }
+}

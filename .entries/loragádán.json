@@ -1,0 +1,33 @@
+{
+  "name": "loragádán",
+  "text": "loragádán is a MacKillop variant spelling of leprechaun. MacKillop records the form as one of several dialect variants of the same folkloric being. The full record of the leprechaun tradition in Celtic folklore sits under the headword leprechaun.",
+  "entities": [
+    {
+      "entity": "loragádán",
+      "type": "Being"
+    },
+    {
+      "entity": "leprechaun",
+      "type": "Being"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "loragádán",
+      "attribute": "Variant spelling of leprechaun; pointer to leprechaun headword"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'loragádán'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "loragádán is a MacKillop variant-signpost for the leprechaun headword.",
+    "key_results": [
+      "Signpost cites leprechaun as the canonical headword."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'loragádán'."
+  }
+}

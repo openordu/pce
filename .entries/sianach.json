@@ -1,0 +1,34 @@
+{
+  "name": "sianach",
+  "text": "sianach names the large, malevolent, predatory deer of Highland folk memory. The creature belongs to the wider family of monstrous animals that haunt the Scottish landscape. Gaelic sources preserve the form as a beast of dread to travellers who crossed the empty hills. The sianach shares its ecological niche with other folkloric beasts of the Highlands and often features in oral warnings to children.",
+  "entities": [
+    {
+      "entity": "sianach",
+      "type": "Animal"
+    },
+    {
+      "entity": "deer",
+      "type": "Animal"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "sianach",
+      "attribute": "Large predatory deer of Scottish Gaelic oral tradition"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'sianach'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "sianach is the MacKillop headword for the Scottish Gaelic monstrous deer.",
+    "key_results": [
+      "Large malevolent deer of Scottish Gaelic tradition.",
+      "Predatory creature of the Highland landscape."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'sianach'."
+  }
+}

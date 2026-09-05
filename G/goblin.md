@@ -2,81 +2,87 @@
 layout: layouts/pce.njk
 title: goblin
 icon: file-lines
-order: 1109
+order: 1272
 contributors: [ 'Christopher Godwin' ]
 attributes:
-  - goblin general name for evil Fairies
-  - goblin being who is at best mischievous and irritating, at worst dangerous
-  - goblin various guises, including the Vough and the Pooka, the Bogie and the Water Horse
-  - goblin roots in the Celtic vision of the Otherworld
-  - Gnomes belong to the lore of medieval alchemy
-  - Christina Rossetti English poet
-  - Goblin Market long poem
-  - leering, evil goblins image
-  - motif of Fairy Kidnapping linked with the image of leering, evil goblins
-  - frightening vision of emotional distress created
+  - goblin general name for an evil fairy
+  - goblin mischievous at best and dangerous at worst
+  - goblin rooted in the Celtic vision of the Otherworld
+  - goblin distinct from gnomes, which come from alchemy
+  - goblin etymology traced to Middle High German kobolt and Old French gobelin
+  - goblin concept originates outside Celtic tradition and applies to Celtic material only figuratively
+  - goblin Welsh colynau and bwgan occasionally called goblins
+  - goblin Irish cluricaune and dullahan occasionally called goblins
+  - goblin Wirt Sikes catalogued British goblins in 1880
 categories:
-  - evil
-  - Otherworld
-  - guise
-  - lore of medieval alchemy
-  - British folkloric figure
-  - long poem
-  - English poet
+  - Creature
+  - Text
+  - Person
+  - Concept
+  - Being
 entities:
-  - goblin(British folkloric figure)
-  - Fairies(evil)
-  - Vough(guise)
-  - Pooka(guise)
-  - Bogie(guise)
-  - Water Horse(guise)
-  - Celtic vision(Otherworld)
-  - Gnomes(lore of medieval alchemy)
-  - Christina Rossetti(English poet)
-  - Goblin Market(long poem)
+  - goblin(Being)
+  - vough(Being)
+  - pooka(Being)
+  - bogie(Being)
+  - water horse(Creature)
+  - kobolt(Concept)
+  - gobelin(Concept)
+  - colynau(Being)
+  - bwgan(Being)
+  - cluricaune(Being)
+  - dullahan(Being)
+  - Wirt Sikes(Person)
+  - British Goblins(Text)
 tags:
   - goblin
-  - Fairies
-  - Vough
-  - Pooka
-  - Bogie
-  - Water Horse
-  - Celtic vision
-  - Gnomes
-  - Christina Rossetti
-  - Goblin Market
+  - vough
+  - pooka
+  - bogie
+  - water horse
+  - kobolt
+  - gobelin
+  - colynau
+  - bwgan
+  - cluricaune
+  - dullahan
+  - Wirt Sikes
+  - British Goblins
 ---
 ``` tab [group1:Info]
 ::: magazinestyle
-A British folkloric figure, the goblin (hobgoblin) is a general term for Fairies who are considered evil. Goblins are known to be mischievous and irritating, and can also be dangerous. They come in various forms such as the Vough, the Pooka, the Bogie, and the Water Horse; all of which have roots in the Celtic concept of the Otherworld. Gnomes belong to the medieval alchemy lore and are distinct from goblins. In her long poem "Goblin Market," English poet Christina Rossetti drew from traditional fairylore, linking leering and wicked goblins with the theme of Fairy Kidnapping to create a haunting vision of emotional distress.
+A goblin is a general name for an evil fairy. This British folkloric being can be mischievous or irritating. At its worst it is dangerous. Forms include the vough, the pooka, and the bogie. The water horse also counts as a goblin. All share roots in the Celtic Otherworld. They differ from gnomes, which come from alchemy. Christina Rossetti used fairy lore in her poem Goblin Market. The poem links evil goblins with fairy kidnapping. The word itself reaches English from Middle High German kobolt and Old French gobelin. The idea of a grotesque, malicious, tiny sprite begins outside Celtic tradition. Folk apply the label to Celtic material only by extension. Few Celtic beings are ever called goblins. Among the Welsh, the colynau and the bwgan bear the name. Among the Irish, the cluricaune and the dullahan do. Wirt Sikes treated the topic in British Goblins of 1880.
 
 :::
 ```
 ``` tab [group1:Attributes]
-- **goblin**: general name for evil Fairies
-- **goblin**: being who is at best mischievous and irritating, at worst dangerous
-- **goblin**: various guises, including the Vough and the Pooka, the Bogie and the Water Horse
-- **goblin**: roots in the Celtic vision of the Otherworld
-- **Gnomes**: belong to the lore of medieval alchemy
-- **Christina Rossetti**: English poet
-- **Goblin Market**: long poem
-- **leering, evil goblins**: image
-- **motif of Fairy Kidnapping**: linked with the image of leering, evil goblins
-- **frightening vision of emotional distress**: created
+- **goblin**: general name for an evil fairy
+- **goblin**: mischievous at best and dangerous at worst
+- **goblin**: rooted in the Celtic vision of the Otherworld
+- **goblin**: distinct from gnomes, which come from alchemy
+- **goblin**: etymology traced to Middle High German kobolt and Old French gobelin
+- **goblin**: concept originates outside Celtic tradition and applies to Celtic material only figuratively
+- **goblin**: Welsh colynau and bwgan occasionally called goblins
+- **goblin**: Irish cluricaune and dullahan occasionally called goblins
+- **goblin**: Wirt Sikes catalogued British goblins in 1880
 ```
 ``` tab [group1:Entities]
-- **goblin**: British folkloric figure
-- **Fairies**: evil
-- **Vough**: guise
-- **Pooka**: guise
-- **Bogie**: guise
-- **Water Horse**: guise
-- **Celtic vision**: Otherworld
-- **Gnomes**: lore of medieval alchemy
-- **Christina Rossetti**: English poet
-- **Goblin Market**: long poem
+- **goblin**: Being
+- **vough**: Being
+- **pooka**: Being
+- **bogie**: Being
+- **water horse**: Creature
+- **kobolt**: Concept
+- **gobelin**: Concept
+- **colynau**: Being
+- **bwgan**: Being
+- **cluricaune**: Being
+- **dullahan**: Being
+- **Wirt Sikes**: Person
+- **British Goblins**: Text
 ```
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
+- MacKillop 2008, s.v. 'goblin'
 ```
 ![goblin Image](https://upload.wikimedia.org/wikipedia/commons/a/ac/Goblin_illustration_from_19th_century.png)

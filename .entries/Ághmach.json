@@ -1,0 +1,38 @@
+{
+  "name": "Ághmach",
+  "text": "Ághmach is the modern Irish spelling of Ágach, the Fomorian enemy of the Tuatha Dé Danann. MacKillop records the modern rendering as the contemporary form of the older name. The principal record sits under Ágach.",
+  "entities": [
+    {
+      "entity": "Ághmach",
+      "type": "Person"
+    },
+    {
+      "entity": "Ágach",
+      "type": "Person"
+    },
+    {
+      "entity": "Modern Irish",
+      "type": "Language"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Ághmach",
+      "attribute": "Modern Irish spelling of Ágach; pointer to Ágach headword"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Ághmach'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Ághmach is a MacKillop signpost to Ágach.",
+    "key_results": [
+      "Cites Ágach as the canonical headword.",
+      "Modern Irish spelling of the Fomorian enemy."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Ághmach'."
+  }
+}

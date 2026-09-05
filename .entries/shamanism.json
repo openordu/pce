@@ -12,6 +12,34 @@
     {
       "entity": "Amairgin",
       "attribute": "spoke the Song of Amairgin"
+    },
+    {
+      "entity": "shamanism",
+      "attribute": "A religion of the far north whose name derives from a Tungus word compared with the Sanskrit term for an ascetic"
+    },
+    {
+      "entity": "shamanism",
+      "attribute": "First described by anthropologists among the Tungus and other peoples of western Siberia in the late nineteenth century"
+    },
+    {
+      "entity": "shamanism",
+      "attribute": "Later found among North American Indians and elsewhere"
+    },
+    {
+      "entity": "shamanism",
+      "attribute": "Traced by many commentators in the practice of early Celtic poets"
+    },
+    {
+      "entity": "bard",
+      "attribute": "Practised divination while wearing a cloak of bird-feathers, much as Siberian shamans did"
+    },
+    {
+      "entity": "Adamnán",
+      "attribute": "His soul goes forth from his body on the midsummer feast of Saint John the Baptist, the summer solstice, in the Vision of Adamnán"
+    },
+    {
+      "entity": "Gwrhyr Gwalstawd Ieithoedd",
+      "attribute": "The Welsh Arthurian figure who carries the shamanistic power to speak the language of animals"
     }
   ],
   "entities": [
@@ -30,23 +58,61 @@
     {
       "entity": "Otherworld",
       "type": "Concept"
+    },
+    {
+      "entity": "Tungus people",
+      "type": "Tribe"
+    },
+    {
+      "entity": "western Siberia",
+      "type": "Place"
+    },
+    {
+      "entity": "North American Indians",
+      "type": "Tribe"
+    },
+    {
+      "entity": "Fis Adamnáin",
+      "type": "Artifact"
+    },
+    {
+      "entity": "Adamnán",
+      "type": "Person"
+    },
+    {
+      "entity": "Saint John the Baptist",
+      "type": "Person"
+    },
+    {
+      "entity": "Gwrhyr Gwalstawd Ieithoedd",
+      "type": "Person"
+    },
+    {
+      "entity": "Sanskrit ascetic",
+      "type": "Concept"
     }
   ],
   "sources": [
-    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.",
+    "MacKillop 2008, s.v. 'shamanism'"
   ],
   "image": [
     "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Khagdaev1.JPG/1200px-Khagdaev1.JPG"
   ],
   "cyphertext": "E-s-Q3Yk_RIRg7IZrxCHcdZWW9ro3qT7v8hxDlEV8rark6CYnlbJaLO2435pNsaTeQAB4nFqF9T8ZabN",
   "salt": "TvDx55EXpgjoitb1xl4-Ig==",
-  "text": "Shamanism is a religion of the far north. The word shaman comes from the Tungus tongue of south Siberia. Some scholars find a shamanic thread in early Celtic faith. That thread is the poet as a shape-shifting seer. The poet saw an Otherworld, a realm separate from ours yet joined to it. The Song of Amairgin calls the poet a wave of the sea and a tear of the sun. A northern shaman drums and dances into a trance and takes the form of a bear. Both the poet and the shaman cross into another body. The poet kept the group in balance through satire. The Celts drank ale toward this state, not mind-changing plants. We cannot prove an arctic hysteria among them. Scholars stay split on whether the word fits. Some want shamanism kept for Asia. Others doubt we can read an old faith.",
+  "text": "Shamanism is a religion of the far north. The English word comes from a Tungus term recorded in southern Siberia. Scholars have compared it with the Sanskrit word for an ascetic. Anthropologists first described the practice in the late nineteenth century. They worked among the Tungus and other peoples of western Siberia. The same pattern later turned up among North American Indians and elsewhere. Many readers have seen hints of the same ritual among the early Celts. The poet of early Ireland sometimes practised divination while wrapped in a cloak of bird-feathers. The Celtic poet did so much as Siberian shamans did. The tale called Fis Adamnáin, the Vision of Adamnán, sets the saint's soul loose from his body. The soul departs on the midsummer feast of Saint John the Baptist. The date marks the summer solstice. The soul's departure mirrors what shamans claim to do beyond the body. From the Welsh Arthurian cycle, Gwrhyr Gwalstawd Ieithoedd carries a shamanistic gift. The gift is the ability to converse with beasts in their own speech. Scholars have tied the Celtic bard to the shamanic type. The bard stood as a seer who shifted shape. He drummed and danced his way into a trance. He took another body. He did so just as a Siberian shaman takes the form of a bear. The Song of Amairgin names the poet a wave of the sea. It also names him a tear of the sun. The poet crossed into another world and back. The bard kept the community in balance through satire. The Celts reached that state with ale rather than with mind-changing plants. We cannot prove an arctic hysteria among them. Scholars stay split on whether the word fits. Some want shamanism kept for Asia. Others doubt we can read an old faith that way.",
   "okr": {
-    "objective": "Replace the machine text for shamanism with a fresh CSG-SME1000 rewrite from Monaghan.",
+    "objective": "Document shamanism as a far-north religion traced by scholars into early Celtic poetry.",
     "key_results": [
-      "text holds a fresh CSG-SME1000 rewrite, not a copy of the machine prose",
-      "entities and attributes corrected and enriched for the kgraph"
+      "Records the Tungus origin of the word and its link to the Sanskrit word for an ascetic.",
+      "Sets the first anthropological study among the Tungus and other peoples of western Siberia in the late nineteenth century.",
+      "Notes the later parallels found among North American Indians and elsewhere.",
+      "Records the cloaks of bird-feathers worn by early Irish poet-diviners and the soul-journey of Adamnán at the midsummer feast of Saint John the Baptist.",
+      "Names Gwrhyr Gwalstawd Ieithoedd as the Welsh Arthurian figure who speaks the language of animals.",
+      "Keeps the bard as a shape-shifting seer and the Ale path that the Celts followed in place of mind-changing plants.",
+      "Preserves the open scholarly split over whether shamanism fits the Celtic record."
     ],
-    "evidence": "Monaghan 2003 (Celtic shamanism); Lonigan, Shamanism in the Old Irish Tradition."
+    "evidence": "MacKillop 2008, s.v. 'shamanism'."
   }
 }

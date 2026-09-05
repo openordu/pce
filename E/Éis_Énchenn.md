@@ -2,45 +2,87 @@
 layout: layouts/pce.njk
 title: Éis Énchenn
 icon: file-lines
-order: 783
+order: 4636
 contributors: [ 'Christopher Godwin' ]
 attributes:
-  - Cúchulainn famous Salmon-leap
-  - Éis Énchenn mother of Bir, Blicne, and Ciri
+  - Éis Énchenn mother of the warriors Bir, Blicne, and Ciri
+  - Cúchulainn killed the three warriors
+  - Éis Énchenn stomped on Cúchulainn's hands
+  - Cúchulainn made a Salmon-leap to kill her
+  - Éis Énchenn name means band plus bird-headed
+  - Éis Énchenn described as grotesque and one-eyed
+  - Éis Énchenn first commands and then begs Cúchulainn to clear the path
+  - Éis Énchenn strikes him while he clings by his toes
+  - Éis Énchenn Beheaded by Cúchulainn's salmon leap on the narrow ridge
+  - Cúchulainn sees the strike in time and leaps upward
+  - Scáthach rules the land of shadow where Cúchulainn trains
 categories:
-  - person
-  - warrior
+  - Person
+  - Concept
+  - character
+  - event
+  - place
+  - Place
+  - hero
 entities:
-  - Cúchulainn(person)
-  - Éis Énchenn(person)
-  - Bir(warrior)
-  - Blicne(warrior)
-  - Ciri(warrior)
+  - Éis Énchenn(character)
+  - Cúchulainn(hero)
+  - Scáthach(character)
+  - Isle of Skye(place)
+  - Bir(character)
+  - Blicne(character)
+  - Ciri(character)
+  - Salmon-leap(event)
+  - Ess Euchenn(Person)
+  - land of shadow(Place)
+  - salmon leap(Concept)
 tags:
-  - Cúchulainn
   - Éis Énchenn
+  - Cúchulainn
+  - Scáthach
+  - Isle of Skye
   - Bir
   - Blicne
   - Ciri
+  - Salmon-leap
+  - Ess Euchenn
+  - land of shadow
+  - salmon leap
 ---
 ``` tab [group1:Info]
 ::: magazinestyle
-There was an Irish heroine named Éis Énchenn (also known as Ess Euchenn). When the great hero Cúchulainn went to Isle of Skye in Scotland to learn martial arts from a woman warrior named Scáthach, he had to contend with three strong men who were no match for him. Cúchulainn beheaded them and continued his journey. On his way back, he had to traverse a narrow road running alongside an abyss. While doing that, he came across a fragile hag who requested him to move over and let her pass. However, since there was space only for a single traveler on the road, Cúchulainn hung out over the abyss, keeping his balance only by his toes. Éis Énchenn, who was the mother of the warriors Bir, Blicne, and Ciri, the ones that Cúchulainn had killed, happened to be that crone. Instead of passing gracefully, she stomped on Cúchulainn's hands, hoping to send him tumbling to his demise. However, Cúchulainn executed his famous Salmon-leap and beheaded Éis Énchenn, killing her.
+Éis Énchenn appears under the variant name Ess Euchenn. The name breaks into éis, a band or troop, and Énchenn, meaning bird-headed. She stands as a grotesque one-eyed female adversary of Cúchulainn. The hero meets her on a narrow ridge as he departs from Scáthach and that shadowy realm. She first orders him out of her way and then pleads for the same. He obeys and grips the cliff only by his toes. She strikes at him to knock him down. He spots her in time and launches a salmon leap upward. The blow takes off her head. Earlier tradition names her the mother of the warriors Bir, Blicne, and Ciri. Cúchulainn had cut down those three men on Skye where he trained under Scáthach. On his homeward path a frail hag blocked a narrow road above a deep chasm. The path held space for one traveler. Cúchulainn hung out over the abyss and held by his toes. The crone stomped on his hands to send him falling. He made a salmon leap and killed her with a single strike.
 
 :::
 ```
 ``` tab [group1:Attributes]
-- **Cúchulainn**: famous Salmon-leap
-- **Éis Énchenn**: mother of Bir, Blicne, and Ciri
+- **Éis Énchenn**: mother of the warriors Bir, Blicne, and Ciri
+- **Cúchulainn**: killed the three warriors
+- **Éis Énchenn**: stomped on Cúchulainn's hands
+- **Cúchulainn**: made a Salmon-leap to kill her
+- **Éis Énchenn**: name means band plus bird-headed
+- **Éis Énchenn**: described as grotesque and one-eyed
+- **Éis Énchenn**: first commands and then begs Cúchulainn to clear the path
+- **Éis Énchenn**: strikes him while he clings by his toes
+- **Éis Énchenn**: Beheaded by Cúchulainn's salmon leap on the narrow ridge
+- **Cúchulainn**: sees the strike in time and leaps upward
+- **Scáthach**: rules the land of shadow where Cúchulainn trains
 ```
 ``` tab [group1:Entities]
-- **Cúchulainn**: person
-- **Éis Énchenn**: person
-- **Bir**: warrior
-- **Blicne**: warrior
-- **Ciri**: warrior
+- **Éis Énchenn**: character
+- **Cúchulainn**: hero
+- **Scáthach**: character
+- **Isle of Skye**: place
+- **Bir**: character
+- **Blicne**: character
+- **Ciri**: character
+- **Salmon-leap**: event
+- **Ess Euchenn**: Person
+- **land of shadow**: Place
+- **salmon leap**: Concept
 ```
 ``` tab [group1:Sources]
 - Hull, Eleanor. The Cuchullin Saga in Irish Literature. (London: David Nutt, 1898), 79.
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
+- MacKillop 2008, s.v. 'Éis Énchenn'
 ```

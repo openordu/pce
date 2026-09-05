@@ -1,0 +1,43 @@
+{
+  "name": "Áed Finn",
+  "text": "Áed Finn, the fair Aed in Irish, is the author of the Imram Curaig Máile Dúin tale. One surviving manuscript names him the chief scholar of Ireland. A second Aed Finn appears in the annals with a death recorded in the year 777, as a king of Dál riada, though no mention of scholarly attainment appears there. The principal record sits under the imram headword.",
+  "entities": [
+    {
+      "entity": "Áed Finn",
+      "type": "Person"
+    },
+    {
+      "entity": "Imram Curaig Maile Dúin",
+      "type": "Text"
+    },
+    {
+      "entity": "Dál Riada",
+      "type": "Place"
+    },
+    {
+      "entity": "Máel Dúin",
+      "type": "Person"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Áed Finn",
+      "attribute": "Author of the Voyage of Máel Dúin's Boat; king of Dál Riada"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Áed Finn'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Áed Finn is a MacKillop signpost to Imram Curaig Maile Dúin.",
+    "key_results": [
+      "Cites Imram Curaig Maile Dúin as the canonical headword.",
+      "Chief scholar in Ireland per one manuscript.",
+      "King of Dál Riada; died 777 per annals."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Áed Finn'."
+  }
+}

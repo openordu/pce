@@ -28,6 +28,34 @@
         {
             "entity": "heroes",
             "attribute": "pledged to avoid taboo places, people, and foods, with their strength tied to performance"
+        },
+        {
+            "entity": "geis",
+            "attribute": "may require a positive demand or injunction, not only a negative taboo"
+        },
+        {
+            "entity": "geis",
+            "attribute": "sometimes shades into the meaning of an incantation, a spell, or a point of honour"
+        },
+        {
+            "entity": "Cúchulainn",
+            "attribute": "forbidden to eat the meat of a dog or hound, the rule that named him"
+        },
+        {
+            "entity": "ruler of Tara",
+            "attribute": "forbidden by geis to have the sunrise catch him still lying in Tara"
+        },
+        {
+            "entity": "geasa",
+            "attribute": "some are prescribed by druids at birth"
+        },
+        {
+            "entity": "geis-breaking",
+            "attribute": "brings instant death and destruction to the culprit's people"
+        },
+        {
+            "entity": "kingship",
+            "attribute": "early rituals of kingship may be the source of the geis concept"
         }
     ],
     "entities": [
@@ -50,23 +78,28 @@
         {
             "entity": "Tara",
             "type": "Place"
+        },
+        {
+            "entity": "Cúchulainn",
+            "type": "Person"
         }
     ],
     "sources": [
         "Dillon, Myles. There Was a King in Ireland: Five Tales from Oral Tradition. Texas Folklore Society. Austin: University of Texas Press, 1971, 21.",
         "Joyce, Patrick Weston. Ancient Celtic Romances. London: Parkgate Books, 1997, 433–434.",
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.",
+        "MacKillop 2008, s.v. 'geis'"
     ],
     "cyphertext": "IzAVpTsgySSCw3CYsge_0ho0x9i4IzyYrGp9r6_sVVt5PF0O5O9s8c0NfUM362rGThok3rMmkN-FUawS-oteGJybaSGGc_aR7RIPZu-E4zi6RQtLWq_O4zNEgzWQwOSIoKxJ9q-mxBUIgT1P8YWUcqlSi49AKAHnI5srGR_CMO4rpPCYw6x6yj8PeBPKitz-i16yE2jJx8tnW0XZgjRtSEUZpEny1bhy6_SwNvFLkCH1iWQr9ZfSBrwDHnSwH03mh5y_LwhR8R8GwUJzgN_V2oD83URDf0o51dMTLGcJuC9OJ3Immf8n5NfUvX2_EKKVQ_xR6Oqp-qVT_onmRckWpTYX_SQNZ7b3mJmQSUxDuJDbfPQSjznX8O-0Wjeuja8a-kr0hmo8Ug4YkOBEdESOVe8k2kp7O74_cL9bkYjtYINEtcn8zErNsXS39a2HzNfV5u_3qPwN-zF6emu1hgwoTsyb3e3TqlRhTK55lOOLyV9lxWVoSfPIhHcCF15FVcb2K5KtJqFNAzFleRz7IeF2KzAbLl1vvr1_8J8E77C4d38vmlWclPDS81c5c9alYCHSEMxgC15w63cCkAykMW-Zbl5Jvw9lX2OF2IsNtSO-2gw7vSurtOOjYLZ_RhVebjXRGQuf9IvOmUzW3igz4mFXvRuebiku28GEcj2O_ezWcMFCOyMP3Q01X6UoQ-6srcBymD-iyBPFnoSsL6nlYykH7sC_fPepOgty2Vi_x7jcFhPF8xS-Cu8VWvQeaXi5Rj9jKeWImUDCPPRRwBWvM-PC9VyXbN0tJ6S3RqJ60OW5chfd2nCupzkicNqVefj_1A3bqHuhCHqPiLAlhBdJBF3nVpBOPYwMvZkaG02_x5uLmmdEfq-xOOydCDzx2JHjVIQwwQjfE2dUEr1kuB9uJBJ2I565DOroNNklV9yTdymbwPeMf6SMw9g362l8TVDt1kmCuDxSdaSP3Zgi6iKN5ikgiU-Ga369MsFxReupJupyFAcXYEFLfiLX9zGyVnthZxnipovvbNocIXwvRA4MbZ8SsDwaZLkHCq2PKzU5tyDQ4kRmz4ZvK60iCGhfmR81Wq4pIvWBIxt_vnj-acjAD4uW-9h3cbL8b4_sYLz9o4z8mKkogkWlS8lf_Xqmm3Ap1mez5ZjDg8majsr-D9BylQfcQ5njm-uaIY-7F1bAUVne6Oa_2Ha4qJQVZicrLq4Mbhjihwd43q0ltSlOjeALn7DigMint_tnJ8dxL_bSRvomQNSPCB4vUqagNKXzHnELPvipzkIat07Wg43i8fJLMgOtQLC7mj3Sl04M6mDy5IZhcpFZfhSDrM54FQ52Km3sGAQAsSbCgGIZad7SMJlwpG189hqJeNwamaArKLJp6V1rnLK9KeSdM52vwqcyk1vxC0g8DiE8WF38CkeevGJHUh3OkUk4J-3o9D8QvMuwXHrf2ADCgWlRTazaT7iKFqpKD9WEWksst7cWgsgHXVOpEy0aAIhooJktAF6ef_STTIuu4lOBWG9_lFC6ZhGfAVe7_FbgTjrEjJMi7_IZLP_9zHnAK9-VwrnhA4wdbDPFETjSZjVQpaN6XM7AFr9JFDg6DmGBfQNCnAYgzYFrr3HAXbkqnIaBz2ibcGNwxQQCln1HcgX_vwGayOJn-QGTlYIoZzd-odEiZM-H140rHYPeOfGCDfuDpK2ekv9-beG9lNsmkwFViWawrH7Z9fXK5GyWgQbWXV9yEDiz6uU6bi7gtCq3mhdT24tqfeH1vpmtSTrVhpJb3XAaJ2nGLkRxVerRMewE5oZWwj8cAADznxxlOqrkh7NcHW5xrlxG1wMy2y4vPH-YHQ1n8yYM4WnTZvxyIxtGqwznYPdpyP36rP32oWJtQVJy-AVXUfRrM7c645-62PJUCwQmAplD_khw5qq1Wpn7_XOz15eQAcMEbkCzrE5PtA5lJrlbC2eY9O7lD90jMnfueUn3FWw1v66dxJNORqRRQrnpF3wGnDSqe4VNFg-jHi1Xv4zZulClemlChBgdy5Yku57shPogrV-dV4is-ICaq3VITRgnE0rWQ7xodqWpJexc0m72U5Pq7yB5plMASrPW_cmoRZzxkFXDjje6utzBccovWbTMMxpLxHjN-VZTqdqpnMIG88gRqSkqO7_440wjZMLka4urulqh8sNXDpMsV2NLetwTMLnq1Lop61sGHzuuOvOcpD967ZQnEgs4ovSUfNJq5_DGaoJO9bkRE9pg1SsygLaO6yqNlX6hqD0r8qBi8RzEt-5nXB9YC257d9Rsl1Axp954cnev7ElcDfSXUUJhoxFXhoW1v4nHqCY_FpUxyXMKLlzgbdvfwLWWVvlZCrHSTFSP0whiZqbY2AeEd2wfNo9fowJUsDTgrYtHlMnzedIC9w0mHYm5UKv00EVSqG8nd6uPbuHXhXOWsIb_1Ba2SPHcNUYKTauhXFdb4r_A2S8AsZr2BtFJfwljCoCVL4mkOFMI3eL2AkAZ94sWZZAFXu1kYGb4Ni9c8bq_46nPnS4-nCc3B42OzBhCkCeome5t7VsqXhhMwYgGSytnjDsUcDkW-cLSTp-y57D7Ca4hXU6gf0OtkJCkvqyy0GACxTp0DcZ9H-awKy8Zw573PSl6pMSJNC8r-ktI_XIHodOynoEJNqMz-Md2",
     "salt": "tkus5Jrsyg-1jWiCE_HFLA==",
-    "text": "A geis is an Irish ritual vow, also written geas, geiss, or ges. Its plural is geasa or gessa. Kings and heroes made these magical pledges in ancient Irish literature. Druids or women imposed the geasa, never the men themselves. Some geasa had a clear reason. King Conaire of Tara could not eat the flesh of birds because his mother had been enchanted into bird form. Other geasa seemed trivial. Conaire also vowed not to ride around Tara with his right shoulder to the sea. He could not be away from Tara for more than eight nights. The hero Diarmait pledged never to refuse a woman's advances. Breaking a geis brought serious results, even death. The fertility of the land depended on the king's righteousness. A king who broke his geasa, like Conaire, left his land sterile. The performance of geasa bound the strength and even the life of heroes. These vows wound through many ancient Celtic legends.",
+    "text": "A geis is an Irish ritual taboo or prohibition placed on prominent figures in narrative. The term is also written geas, geiss, or ges. Its plural forms are gessa (Old Irish) and geasa (Modern Irish). Kings and heroes took these binding pledges in early Irish literature. A geis can take three forms. It can forbid a specific action. It can demand a positive act or injunction. In some contexts it shades into an incantation, a spell, or a matter of honour. Druids or women laid geasa on a man. They never imposed them on themselves. The most famous bearer was Conaire of Tara. He could not eat the flesh of birds because his mother had been enchanted into bird form. He could not ride around Tara with his right shoulder to the sea. He could not stay away from Tara for more than eight nights. MacKillop draws a parallel. The ruler of Tara must never let the sun find him still abed in his hall. The hero Diarmait pledged never to refuse a woman's advances. Cúchulainn could not consume dog or hound flesh, a ban that gave him his very name. Many geasa at first look capricious. They gain meaning only in a wider context. Some druidic vows were laid at the moment of birth. To break any geis meant sudden death. That breach also brought ruin and disgrace on the wrongdoer's clan. The fertility of the land depended on a king's righteousness. A king who broke his geasa, like Conaire, left his land sterile. The performance of geasa bound the strength and even the life of heroes. These vows wound through many ancient Celtic legends.",
     "okr": {
-        "objective": "Explain the Irish ritual vow of the geis and its force on kings and heroes.",
+        "objective": "Explain the Irish ritual taboo of the geis and its force on kings and heroes.",
         "key_results": [
-            "Name the figure, its aliases, and its region in the first clauses.",
-            "Give the concrete anchors of the legend without copying the source prose.",
-            "Close with the entry's place in Celtic folk belief."
+            "Name the figure, spell out its aliases, and give the three forms a geis can take.",
+            "Cite the named examples (Conaire, Diarmait, Cúchulainn, the ruler of Tara) with their concrete constraints.",
+            "Record the consequences of breaking a geis, including the link between royal righteousness and land fertility."
         ],
-        "evidence": "Monaghan, The Encyclopedia of Celtic Mythology and Folklore, 2003"
+        "evidence": "MacKillop 2008, s.v. 'geis'."
     }
 }

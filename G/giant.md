@@ -2,44 +2,79 @@
 layout: layouts/pce.njk
 title: giant
 icon: file-lines
-order: 1087
+order: 1245
 contributors: [ 'Christopher Godwin' ]
 attributes:
-  - Jonathan Swift author of Gulliver's Travels
-  - Gulliver's Travels famous literary vestige of Celtic folkloric tradition
-  - eponymous hero protagonist of Gulliver's Travels
+  - giants suggested by huge rocks left by retreating glaciers
+  - gigantic women said to drop boulders from their aprons
+  - Cailleach pre-Celtic figure credited as a creator of landscapes
+  - Cailleach formed mountains whenever pebbles slipped from her apron
+  - male giants of Cornwall threw boulders in hurling matches that raised mountains
+  - Giant's Causeway a line of basalt slabs in Ireland said to be built by giants
+  - giants Irish and Cornish ones tend to be foolish and gentle, while Scottish Gaelic ones can be astute
+  - heroes sometimes take giant form, as Fionn mac Cumhaill does in oral tradition and Cú Roi does in tale
+  - giants can assist heroes, as Wrmach aids Culhwch
+  - Fomorians treated as giants in pseudo-history and named in the Irish form Clochan na bhFómharach as the causeway's makers
+  - Giant's Causeway more than forty thousand basaltic columns on the north shore of County Antrim, two and a half miles north-east of Bushmills
 categories:
-  - culture
-  - book
-  - person
-  - character
+  - Creature
+  - Tribe
+  - Person
+  - Deity
+  - Place
 entities:
-  - Celtic folkloric tradition(culture)
-  - Jonathan Swift(person)
-  - Gulliver's Travels(book)
-  - hero(character)
+  - giant(Creature)
+  - Cailleach(Deity)
+  - Giant's Causeway(Place)
+  - Cornwall(Place)
+  - Fionn mac Cumhaill(Person)
+  - Cú Roi(Person)
+  - Culhwch(Person)
+  - Fomorians(Tribe)
+  - Bushmills(Place)
+  - County Antrim(Place)
 tags:
-  - Celtic folkloric tradition
-  - Jonathan Swift
-  - Gulliver's Travels
-  - hero
+  - giant
+  - Cailleach
+  - Giant's Causeway
+  - Cornwall
+  - Fionn mac Cumhaill
+  - Cú Roi
+  - Culhwch
+  - Fomorians
+  - Bushmills
+  - County Antrim
 ---
 ``` tab [group1:Info]
 ::: magazinestyle
-A well-known figure in folklore is the giant or giantess. The existence of massive rocks, too large to be moved by humans, scattered across Ireland and Britain by melting glaciers led to the conception of powerful beings capable of creating these natural features. Legends speak of enormous women who drop boulders from their aprons and of battling giants who hurl these stones at each other. Carvings of giant men and animals are also found on the chalk hills of southern England; local lore associates these images, such as the Long Man of Wilmington and the Cerne Abbas Giant in Dorset, with the outlines left behind by giants slain on the hillsides. Although no one knows when these figures were first created, it is uncertain if they represent a continuation of Celtic beliefs. The folklore of England describes other giants that had to be defeated to make the countryside safe for settlement. For instance, it is believed that Tom Hickathrift from the marshes of Norfolk defeated the Giant of Smeeth. While many giants were perceived as a threat to humans, some had positive qualities such as Jack o' Legs who, akin to Robin Hood, distributed the wealth of the local rich to the area's poor in Herefordshire. In Scotland, it is said that a giantess carved the 70-foot Great Cave, or Cave of Raitts in Inverness, from a hillside while her cohorts quarried the stone used to reinforce the cave's walls. Legends that shape the landscape are a common theme in Scotland. There is a tale of giants who desired to marry human knight's daughters. Men came to the rescue and fought with a massive hag who could turn people to stone. The curse could be lifted, and the stone figures brought back to life with water from the Well on the Island of the Big Women. This is a mythical land that appears in numerous Scottish folktales and is known to be specifically inhabited by giants in the Otherworld. In Wales, the giantess Mol Walbee is known for throwing a pebble from her shoe to the ground. The pebble still stands as a substantial boulder in a churchyard today. Mol Walbee is likely a form of the pre-Celtic Cailleach, who is hailed as the creator of landscapes. The Cailleach, a woman of gigantic proportions, formed mountains by letting stones slip from her apron. Land-forming giants were not exclusively women. In Cornwall, stories of throwing matches between groups of male giants throwing pebbles that would eventually shape the mountains explicitly exist. The Giant's Causeway is found in Ireland, an enormous series of basalt slabs that seem to form steps leading out to the sea. It is said that the step-like basalt was created by the giant carvers. The connection between giants and the creation of landscapes and texts describing them as lingering in various Celtic lands before human occupation may suggest a recollection of ancient divinities displaced by later invaders or immigrants. Prominent hills were named after non-Celtic divine beings, such as the Cailleach—giants to whom the pre-Celtic people paid their respects. The Celts, then, absorbed these worshipped figures into their own religion. The divinities of the subjugated were often labeled as monsters by invaders, and giants like the Fomorians of Ireland were believed to occupy lands sought after by historic people, who had to vanquish them to acquire the riches of the land. According to Geoffrey of Monmouth’s History of the Kings of Britain, Brutus, the first king of Britain—known as Albion—discovered only a handful of inhabitants upon arrival, all of them giants, such as the monstrous Gog. The heroic wrestler Corineus defeated Gog in a battle whose depiction still adorns London's Guildhall, although the figures are wrongly identified as Gog and Magog. This Celtic mythology inspired Jonathan Swift’s Gulliver’s Travels, perhaps the most notable literary legacy of the tradition; in the book, the protagonist fluctuates between being a giant among minuscule people and a mite among giants.
+Giants are figures of Celtic folklore. Retreating glaciers left huge rocks across Ireland and Britain. These boulders made the landscape suggest huge beings. People told of gigantic women who dropped boulders from their aprons. Other tales describe feuding giants who hurled stones. The pre-Celtic Cailleach was tied to these giants. She formed mountains whenever pebbles slipped from her apron. Not all earth-forming giants were female. In Cornwall groups of male giants held hurling matches. Their thrown pebbles raised mountains. Ireland has the Giant's Causeway, a band of basalt slabs that step down to the sea. MacKillop shows that size and brute force are nearly the only traits holding the great-sized figures of Celtic tradition together. Irish and Cornish giants tend to be foolish and gentle. Giants in Gaelic Scotland can be more astute. Heroes can step into giant form. Fionn mac Cumhaill appears that way in the oral record, and so does Cú Roi in his tale. Giants can also assist heroes, as Wrmach aids Culhwch. The named male giants span a wide roster. They include the athach, Bendigeidfran (Bran the Blessed), Cam Galver, Cormoran, and Dhoya. Further names are Dillus Frafag, the direach, the fachan, and Fachtna Fáthach. The list ends with Gruagach, Llassar Llaes Gyfnewid, Searbhán, Tegid Foel, and Ysbaddaden Bencawr. Named giantesses include Bébinn, Boudicca, and Cymidei Cymeinfoll. The Fomorians of pseudo-history can appear as giants. The Giant's Causeway sits on the north shore of County Antrim, two and a half miles north-east of Bushmills. Over forty thousand basalt columns stand tightly stacked where a tall cliff drops to the sea. Fionn mac Cumhaill is often named as the builder. The Irish name Clochan na bhFómharach credits the Fomorians instead. These giants may recall ancient divinities displaced by later invaders.
 
 :::
 ```
 ``` tab [group1:Attributes]
-- **Jonathan Swift**: author of Gulliver's Travels
-- **Gulliver's Travels**: famous literary vestige of Celtic folkloric tradition
-- **eponymous hero**: protagonist of Gulliver's Travels
+- **giants**: suggested by huge rocks left by retreating glaciers
+- **gigantic women**: said to drop boulders from their aprons
+- **Cailleach**: pre-Celtic figure credited as a creator of landscapes
+- **Cailleach**: formed mountains whenever pebbles slipped from her apron
+- **male giants of Cornwall**: threw boulders in hurling matches that raised mountains
+- **Giant's Causeway**: a line of basalt slabs in Ireland said to be built by giants
+- **giants**: Irish and Cornish ones tend to be foolish and gentle, while Scottish Gaelic ones can be astute
+- **heroes**: sometimes take giant form, as Fionn mac Cumhaill does in oral tradition and Cú Roi does in tale
+- **giants**: can assist heroes, as Wrmach aids Culhwch
+- **Fomorians**: treated as giants in pseudo-history and named in the Irish form Clochan na bhFómharach as the causeway's makers
+- **Giant's Causeway**: more than forty thousand basaltic columns on the north shore of County Antrim, two and a half miles north-east of Bushmills
 ```
 ``` tab [group1:Entities]
-- **Celtic folkloric tradition**: culture
-- **Jonathan Swift**: person
-- **Gulliver's Travels**: book
-- **hero**: character
+- **giant**: Creature
+- **Cailleach**: Deity
+- **Giant's Causeway**: Place
+- **Cornwall**: Place
+- **Fionn mac Cumhaill**: Person
+- **Cú Roi**: Person
+- **Culhwch**: Person
+- **Fomorians**: Tribe
+- **Bushmills**: Place
+- **County Antrim**: Place
 ```
 ``` tab [group1:Sources]
 - Briggs, Katherine M., and Ruth L. Tongue. Folktales of Britain. London: Routledge & Kegan Paul, 1965.
@@ -51,5 +86,6 @@ A well-known figure in folklore is the giant or giantess. The existence of massi
 - McKay, John G. More West Highland Tales. Vol. 2. Scottish Anthropological and Folklore Society. Edinburgh: Oliver and Boyd, 1969, 28.
 - Spence, Lewis. The Minor Traditions of British Mythology. New York: Benjamin Blom, Inc., 1972, 71.
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
+- MacKillop 2008, s.v. 'giant'
 ```
 ![giant Image](https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Rhinegold_and_the_Valkyries_p_032.jpg/1200px-Rhinegold_and_the_Valkyries_p_032.jpg)

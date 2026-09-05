@@ -1,41 +1,47 @@
 {
- "name": "taboo",
- "attributes": [
-  {
-   "entity": "taboo",
-   "attribute": "sacred restriction on Celtic kings and people"
-  },
-  {
-   "entity": "geis",
-   "attribute": "the Irish word for a taboo"
-  }
- ],
- "entities": [
-  {
-   "entity": "geis",
-   "type": "Concept"
-  },
-  {
-   "entity": "Geis",
-   "type": "Concept"
-  }
- ],
- "sources": [
-  "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
- ],
- "image": [
-  "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Social_Network_Diagram_%28segment%29.svg/1200px-Social_Network_Diagram_%28segment%29.svg.png"
- ],
- "cyphertext": "OApjQSqZ_QmmsCMOIjh_n1_jfV26sP5Ldb_rocS79SyNvHI5CoGEMM9R4mQ=",
- "salt": "OjkCnUz_0kZb8F8yLHVzFw==",
- "text": "In Celtic usage a taboo is a sacred restriction. The Irish record calls such a rule geis, and the plural form is geasa. A king had to keep his taboos and his sacred promises. Breaking one could put the well-being of the whole land at risk. The entry GEIS covers these rules in full.",
- "okr": {
-  "objective": "Record the taboo as a sacred Celtic restriction given to geis.",
-  "key_results": [
-   "States that the Irish word for taboo is geis",
-   "Notes that a king broke a taboo at risk to the land",
-   "Directs the reader to the geis entry for the full account"
+  "name": "taboo",
+  "text": "In Celtic usage a taboo is a sacred restriction. The Irish record calls such a rule geis, and the plural form is geasa. A king had to keep his taboos and his sacred promises. Breaking one could put the well-being of the whole land at risk. The entry GEIS covers these rules in full. MacKillop treats the term within the wider tradition of sacred Celtic restriction, citing the geis as the principal Irish form.",
+  "entities": [
+    {
+      "entity": "geis",
+      "type": "Concept"
+    },
+    {
+      "entity": "Geis",
+      "type": "Concept"
+    }
   ],
-  "evidence": "Monaghan 2008, s.v. 'taboo'."
- }
+  "attributes": [
+    {
+      "entity": "taboo",
+      "attribute": "sacred restriction on Celtic kings and people"
+    },
+    {
+      "entity": "geis",
+      "attribute": "the Irish word for a taboo"
+    },
+    {
+      "entity": "taboo",
+      "attribute": "MacKillop pointer to the geis as the principal Irish form of sacred restriction"
+    }
+  ],
+  "sources": [
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.",
+    "MacKillop 2008, s.v. 'taboo'"
+  ],
+  "cyphertext": "OApjQSqZ_QmmsCMOIjh_n1_jfV26sP5Ldb_rocS79SyNvHI5CoGEMM9R4mQ=",
+  "salt": "OjkCnUz_0kZb8F8yLHVzFw==",
+  "okr": {
+    "objective": "Record the taboo as a sacred Celtic restriction given to geis.",
+    "key_results": [
+      "States that the Irish word for taboo is geis",
+      "Notes that a king broke a taboo at risk to the land",
+      "Directs the reader to the geis entry for the full account",
+      "MacKillop anchors taboo to the geis as the Irish form of sacred restriction."
+    ],
+    "evidence": "Monaghan 2008, s.v. 'taboo'."
+  },
+  "image": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Social_Network_Diagram_%28segment%29.svg/1200px-Social_Network_Diagram_%28segment%29.svg.png"
+  ]
 }

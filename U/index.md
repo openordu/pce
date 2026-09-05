@@ -25,5 +25,8 @@ layout: layouts/pce.njk
 - [Uí](Uí)
 - [Uí_Maine](Uí_Maine)
 - [Uí_Néill](Uí_Néill)
+- [uilepheist](uilepheist)
 - [ulster_cycle](ulster_cycle)
+- [underworld](underworld)
 - [urien_of_rheged](urien_of_rheged)
+- [urisk](urisk)

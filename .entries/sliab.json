@@ -1,0 +1,33 @@
+{
+  "name": "sliab",
+  "text": "sliab names a hill or peak in Celtic speech, the older Irish and modern Scottish Gaelic form. The word opens many place-names across Ireland and Scotland and anglicizes as slieve. The full record of Celtic hill terminology sits under the headword hill.",
+  "entities": [
+    {
+      "entity": "sliab",
+      "type": "Concept"
+    },
+    {
+      "entity": "hill",
+      "type": "Concept"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "sliab",
+      "attribute": "Irish and Scottish Gaelic word for mountain; pointer to hill headword"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'sliab'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "sliab is a MacKillop signpost for the hill headword.",
+    "key_results": [
+      "Signpost cites hill as the canonical headword."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'sliab'."
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "name": "muirdris",
+  "text": "muirdris is a MacKillop headword naming the older label for the fearsome sea-monster that the hero Fergus mac Léti slays in a lake of Co. Down. MacKillop notes that later texts call the same monster sinach. The full record of this sea-monster tradition sits under the headword sinach.",
+  "entities": [
+    {
+      "entity": "muirdris",
+      "type": "Being"
+    },
+    {
+      "entity": "sinach",
+      "type": "Being"
+    },
+    {
+      "entity": "Fergus mac Léti",
+      "type": "Character"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "muirdris",
+      "attribute": "Earlier name for the sea-monster later called sinach; slain by Fergus mac Léti"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'muirdris'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "muirdris is a MacKillop headword for the earlier name of the sea-monster sinach.",
+    "key_results": [
+      "Signpost cites sinach as the canonical headword."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'muirdris'."
+  }
+}

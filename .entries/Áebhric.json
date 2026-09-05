@@ -1,0 +1,42 @@
+{
+  "name": "Áebhric",
+  "text": "Áebhric is a young man, perhaps a monk, living at Erris in County Mayo, who listened to the singing of Lir's children as recorded in the Oidheadh Chlainne Lir tradition. MacKillop reads the form as the witness to that famous lament among the children of Lir. The principal record of the tragic story itself sits under the Oidheadh Chlainne Lir headword.",
+  "entities": [
+    {
+      "entity": "Áebhric",
+      "type": "Person"
+    },
+    {
+      "entity": "Oidheadh Chlainne Lir",
+      "type": "Text"
+    },
+    {
+      "entity": "children of Lir",
+      "type": "Person"
+    },
+    {
+      "entity": "Erris",
+      "type": "Place"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Áebhric",
+      "attribute": "Young man or monk at Erris who witnessed the singing of the children of Lir"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Áebhric'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Áebhric is a MacKillop signpost to Oidheadh Chlainne Lir.",
+    "key_results": [
+      "Cites Oidheadh Chlainne Lir as the canonical headword.",
+      "Witness to the lament of the children of Lir."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Áebhric'."
+  }
+}

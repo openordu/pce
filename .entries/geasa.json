@@ -1,0 +1,33 @@
+{
+  "name": "geasa",
+  "text": "geasa is the Irish plural form of the headword geis. MacKillop treats the two spellings as the same record. MacKillop records geasa in the 2008 Dictionary of Celtic Mythology as a cross-reference to the singular headword. The fuller record of the binding taboo, its its role in Irish heroic cycles, and its its ritual uses sits under geis.",
+  "entities": [
+    {
+      "entity": "geasa",
+      "type": "Concept"
+    },
+    {
+      "entity": "geis",
+      "type": "Concept"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "geasa",
+      "attribute": "Plural form of the Irish headword geis"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'geasa'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "geasa is a MacKillop pointer headword resolving to geis.",
+    "key_results": [
+      "Signpost cites the headword geis for the full record."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'geasa'."
+  }
+}

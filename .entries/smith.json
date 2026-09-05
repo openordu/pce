@@ -20,6 +20,22 @@
     {
       "entity": "Govannon",
       "attribute": "honored as smith in early Welsh narrative"
+    },
+    {
+      "entity": "Goibniu",
+      "attribute": "one of the three Irish craft-gods, the band called na trí dé dána, with Credne and Luchta"
+    },
+    {
+      "entity": "Goibniu",
+      "attribute": "appears in Cath Maige Tuired as a tireless armourer forging spears"
+    },
+    {
+      "entity": "Goibniu",
+      "attribute": "forged the spear that Lug Lámfhota drove through Balor's eye"
+    },
+    {
+      "entity": "Goibniu",
+      "attribute": "his spear-points always strike a fatal wound"
     }
   ],
   "entities": [
@@ -42,6 +58,30 @@
     {
       "entity": "Tuatha Dé Danann",
       "type": "Tribe"
+    },
+    {
+      "entity": "Credne",
+      "type": "God"
+    },
+    {
+      "entity": "Luchta",
+      "type": "God"
+    },
+    {
+      "entity": "na trí dé dána",
+      "type": "Concept"
+    },
+    {
+      "entity": "Cath Maige Tuired",
+      "type": "Concept"
+    },
+    {
+      "entity": "Lug Lámfhota",
+      "type": "God"
+    },
+    {
+      "entity": "Balor",
+      "type": "God"
     }
   ],
   "sources": [
@@ -50,16 +90,18 @@
   ],
   "cyphertext": "BxUBC1r8djcIaE7E073DNfh8g5s8SyisTEcbSmwgtzPCxcLFXJWEUOE-AKLxTZAvTx3VipWn9DmqK71t7nIR5yTAqgGAIw8lrpRh0nSQnol2el3HRbo2KICn-WDrTHRXRmcd5CafqIQiGYNI93FThKmIWl6tgCoDAx0gV9dc8W1tsNi50dX4GFpYq3ddf4LOKwB79WdqB5JhoL7ej8Doxje9JAmT8EZNtECCGxVieSo9qMTfcTgJU3MruuTV4wWXwWBupo38Af9u2s5-m2nO19tI9el8QbERJxHT76p5DQTtLN_KCFEatpUAkDVL1Kv22mS9rLNwOAV0aU8VWncxunYyPfn2bYMRkvqSD_K95nNMfW3IaQUNpbppDVZIdnvSgTshz3XFErVDDZE6hxhfhE_COPkezM72RHb9Z43Zj4iQ98jqvXuHCZnjopGkDOSX2nQgiMVzeCLpJhbSThu44GliyDzS1KdPcLkdhUfl108sC-cPlryoGhwto0n97JLFynRzyapNCEtIk1uevrmsc2CxSegJfYHed12rU6wnnaKHIFHcv22MkNyFd3mzyMYEczxnjbZvQQpU06bicdEc78Ccf9YsKN53bnUJ36Cisw_pLwD-nnpa_WHQtQTtaOaOv5XopzFG0MEml5X0MZib--o1VsvrFoQ=",
   "salt": "zDq3Q6jxBHzOQUnTLMb3MQ==",
-  "text": "The smith stands as a figure of Irish and continental Celtic myth. Working metal ranked among the chief sources of Celtic wealth from the start. The smith melted ore of iron and gold and shaped it into tools and ornament. The land held the craft in high regard. In the tales, the smith bore the power of magic and of the alchemist. Irish tradition set the god Goibniu over this craft as smith to the Tuatha Dé Danann. Early Welsh narrative named its smith Gofannon, a figure also spelled Govannon. The lore tied the smith to the Glas Ghaibhleann, the magic cow of plenty. Through that bond, the maker of tools stood near the wealth of the land. Folk honor gathered around the smoke, the forge, and the hand that turned ore into blade and ring. The headword blacksmith cross-refers the reader to Goibniu, to Gofannon, and to smith.",
+  "text": "The smith stands as a figure of Irish and continental Celtic myth. Working metal ranked among the chief sources of Celtic wealth from the start. The smith melted ore of iron and gold and shaped it into tools and ornament. The land held the craft in high regard. In the tales, the smith bore the power of magic and of the alchemist. Irish tradition set the god Goibniu over this craft as smith to the Tuatha Dé Danann. Goibniu sits among the three Irish craft-gods of the band na trí dé dána. Beside him stand the brothers Credne and Luchta. The tale of Cath Maige Tuired, the Second Battle of Mag Tuired, shows Goibniu most clearly as a tireless armourer. In that fight Goibniu forged the spear that Lug Lámfhota hurled through the eye of the war-god Balor. The spear-points of Goibniu always strike a fatal wound. Early Welsh narrative named its smith Gofannon, a figure also spelled Govannon. The lore tied the smith to the Glas Ghaibhleann, the magic cow of plenty. Through that bond, the maker of tools stood near the wealth of the land. Folk honor gathered around the smoke, the forge, and the hand that turned ore into blade and ring. The headword blacksmith cross-refers the reader to Goibniu, to Gofannon, and to smith.",
   "okr": {
     "objective": "Present the smith as a revered mythical craft tied to Goibniu, Gofannon, and the Glas Ghaibhleann.",
     "key_results": [
-      "The fused text keeps every baseline fact about the smith, his craft, and his divine bearers.",
-      "The text cites Goibniu as smith to the Tuatha Dé Danann.",
-      "The text cites Gofannon, spelled Govannon in the baseline, as the smith of Welsh narrative.",
-      "The text keeps the link to the Glas Ghaibhleann and the folk honor for forge and smoke.",
-      "The cross-references from the blacksmith headword appear in the prose."
+      "The fused text keeps every baseline fact about the smith, his craft, and his divine bearers",
+      "The text cites Goibniu as smith to the Tuatha Dé Danann and member of the craft band na trí dé dána",
+      "The text names Credne and Luchta as the other two gods of craft beside Goibniu",
+      "The text cites Gofannon, spelled Govannon in the baseline, as the smith of Welsh narrative",
+      "The text keeps the link to the Glas Ghaibhleann and the folk honor for forge and smoke",
+      "The cross-references from the blacksmith headword appear in the prose",
+      "The text records Goibniu's spear that pierced Balor's eye at the Second Battle of Mag Tuired"
     ],
-    "evidence": "Monaghan 2003 (smith; Goibniu; Govannon; Glas Ghaibhnear). MacKillop 2008, s.v. 'blacksmith'."
+    "evidence": "MacKillop 2008, s.v. 'smith'."
   }
 }

@@ -8,6 +8,22 @@
     {
       "entity": "Cornwall",
       "type": "Place"
+    },
+    {
+      "entity": "piskie",
+      "type": "Being"
+    },
+    {
+      "entity": "cairn",
+      "type": "Thing"
+    },
+    {
+      "entity": "cromlech",
+      "type": "Thing"
+    },
+    {
+      "entity": "barrow",
+      "type": "Thing"
     }
   ],
   "attributes": [
@@ -22,23 +38,53 @@
     {
       "entity": "spriggans",
       "attribute": "thieves linked to buried treasure"
+    },
+    {
+      "entity": "spriggans",
+      "attribute": "dour and ugly warrior fairies of Cornish tradition, almost as well known as the piskie"
+    },
+    {
+      "entity": "spriggans",
+      "attribute": "very small in resting form but able to swell into monstrous shapes through shape-shifting"
+    },
+    {
+      "entity": "spriggans",
+      "attribute": "haunt cairns, cromlechs, and barrows around Cornwall"
+    },
+    {
+      "entity": "spriggans",
+      "attribute": "guard buried treasure at those sites"
+    },
+    {
+      "entity": "spriggans",
+      "attribute": "bring storms that wreck buildings and ruin crops"
+    },
+    {
+      "entity": "spriggans",
+      "attribute": "may abduct children like the piskies"
     }
   ],
   "sources": [
-    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.",
+    "MacKillop 2008, s.v. 'spriggan'"
   ],
   "image": [
     "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Spriggan_sculpture_by_Marilyn_Collins%2C_Parkland_Walk%2C_Haringey.jpg/1200px-Spriggan_sculpture_by_Marilyn_Collins%2C_Parkland_Walk%2C_Haringey.jpg"
   ],
   "cyphertext": "1Lz-Yp8wnubCg9d9SaSoyNFPZCDHNRm0MMscsONigbhFMRhQ-XUwIPZjjdd-zJq1RQNKYFvD9cA824-PbOE-a9lahqPg6p30V64xQtMbpD8wmhr2PfK5UBE2Rdpqq9BsXreTODJHjbaSloFJJTmao3EcnKDDi7G8oQft0PNW71jq2ek-uGahVOpxm7L_X02cfGZYb_TYq5ishP5Sdo6k2eh3KaquW3qWAyGXQxU-zrPlV2QGXDMfwa6gMK0sInlQGRzrBOXyI7D1O9PS38zzzD9BhEB_9tYmwMDY1a6PtoUJClWmHzPhDF3cWb9JGvK8QtqVaoJTeVRwG4Kz55-MIfbDwm7ct9Lct3z12jyphAoWf0U1V7rZDPWJcZnWjVi-v-fC7T00B3BtSdt3EXXlKgwdt1OT1YcWFM6SbWhxRC1Cjs4wJj9uUiv1b2GWs0Yh4vKPA9KPw97OERPzq2wxI48_jI9YxwmYt4VM-m9PmRUCbi-2yy1Ptx9ct2md4a4c8eQVeYTbTaYabZAp-1SO0oY5WhGTkyyeSWqOOtxoSeLepikR0sIZhR7AvZt0YAS_60fmvkrH57Sr5cWWFxfRI_2RrApEt5aZFUqwr35l_7mb",
   "salt": "wxKwiq4WTAk0Q1ByvkNcRQ==",
-  "text": "Spriggans are Cornish folk figures. They are the ghosts of a race of giants, reduced to fairies. They guard other fairies as bodyguards. They are playful but not violent. A spriggan will chase an intruder from a fairy gathering rather than hurt him. They are old thieves. They steal butter and other valuables from the fields. Some stories set them in old mounds and ruins, watching a buried treasure. Other Cornish tales give a giant the same charge of the land.",
+  "text": "Spriggans are Cornish folk figures. They are the ghosts of a race of giants, reduced to fairies. The spriggan of Cornwall stands as a dour and ugly warrior among the local fairy host. The spriggan rivals the piskie of the same county in folk renown. Spriggans are now very small in size, yet they can swell up to monstrous shapes through shape-shifting. The figures haunt old cairns, cromlechs, and barrows across Cornwall. They stand guard over buried treasure in those places. They also bring storms that wreck buildings and ruin the crops. They chase an intruder from a fairy gathering rather than hurt him. They are old thieves. They steal butter and other valuables from the fields. They guard other fairies as bodyguards. Like the piskies they may also carry off children. Some stories set them in old mounds and ruins, watching a buried treasure. Other Cornish tales give a giant the same charge of the land.",
   "okr": {
-    "objective": "Replace the machine text for spriggans with a true rewrite from Monaghan and Koch.",
+    "objective": "Document the spriggan as a Cornish fairy warrior and guardian of buried treasure.",
     "key_results": [
-      "text holds a fresh CSG-SME1000 rewrite",
-      "entities and attributes corrected for the kgraph"
+      "Names the spriggan as a Cornish fairy ghost of ancient giants",
+      "Marks the spriggan as nearly as well known as the Cornish piskie",
+      "Records the size-shift from very small to monstrous form",
+      "Places spriggans at cairns, cromlechs, and barrows around Cornwall",
+      "Links spriggans to buried treasure and to storms that wreck buildings and crops",
+      "Keeps the thief, bodyguard, and child-snatching roles from the baseline",
+      "Keeps the giant-as-guardian variant and the mound-and-ruin hauntings from the baseline"
     ],
-    "evidence": "Monaghan 2003 (spriggans, giants, fairies, thieves); Koch 2006 (Cornwall, buried treasure)."
+    "evidence": "MacKillop 2008, s.v. 'spriggan'."
   }
 }

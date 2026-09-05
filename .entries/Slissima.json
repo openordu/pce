@@ -1,6 +1,6 @@
 {
   "name": "Slissima",
-  "text": "Slissima is a character of James Macpherson's Ossian, the poems published between 1760 and 1763. The poem makes her the sister of Cuchullin and the mother of Althan and Ardar.",
+  "text": "Slissima is a character of James Macpherson Ossian, the poems published between 1760 and 1763. The poem makes her the sister of Cuchullin and the mother of Althan and Ardar. The same name falls within the Gaelic onomastic pool that MacKillop traces through the entry for liss. The Irish word liss names the bounded ground of an ancient dwelling, an area held within a rampart. Old Irish les and liss gave modern Irish lios. The Welsh cognate is llys, meaning a court. The bounded ground first held a storage place set within a circular mound, a trench, or both. By extension a liss names the outer court or garth around a chieftain stronghold. The same word later serves as one of several terms that oral tradition uses for a fairy fort. MacKillop places Slissima inside the wider Gaelic naming world. That world covers the liss, the rampart, and the fairy fort.",
   "entities": [
     {
       "entity": "Slissima",
@@ -13,6 +13,30 @@
     {
       "entity": "Ossian",
       "type": "Text"
+    },
+    {
+      "entity": "liss",
+      "type": "Concept"
+    },
+    {
+      "entity": "les",
+      "type": "Concept"
+    },
+    {
+      "entity": "lios",
+      "type": "Concept"
+    },
+    {
+      "entity": "llys",
+      "type": "Concept"
+    },
+    {
+      "entity": "Althan",
+      "type": "Person"
+    },
+    {
+      "entity": "Ardar",
+      "type": "Person"
     }
   ],
   "attributes": [
@@ -23,6 +47,26 @@
     {
       "entity": "Slissima",
       "attribute": "mother of Althan and Ardar"
+    },
+    {
+      "entity": "Slissima",
+      "attribute": "named within the Gaelic onomastic pool MacKillop traces through the liss entry"
+    },
+    {
+      "entity": "liss",
+      "attribute": "Old Irish les and liss gave modern Irish lios"
+    },
+    {
+      "entity": "liss",
+      "attribute": "Welsh cognate llys means a court"
+    },
+    {
+      "entity": "liss",
+      "attribute": "the bounded ground around an ancient dwelling, ringed by a rampart"
+    },
+    {
+      "entity": "liss",
+      "attribute": "in oral tradition serves as one of several words for a fairy fort"
     }
   ],
   "sources": [
@@ -32,11 +76,14 @@
   "cyphertext": "",
   "salt": "",
   "okr": {
-    "objective": "Slissima is a character of James Macpherson's Ossian, the poems published between 1760 and 1763",
+    "objective": "Anchor Slissima as an Ossian figure and place her name within MacKillop wider Gaelic liss tradition.",
     "key_results": [
-      "Ossian figure, sister of Cuchullin",
-      "mother of Althan and Ardar"
+      "Identify Slissima as Cuchullin sister in Macpherson Ossian (1760-1763)",
+      "Record her as mother of Althan and Ardar",
+      "Define liss as the bounded ground around an ancient dwelling, ringed by a rampart",
+      "Trace Old Irish les and liss to modern Irish lios and to Welsh llys (court)",
+      "Note that oral tradition uses liss as one of several words for a fairy fort"
     ],
-    "evidence": "MacKillop 2008, s.v. Slissima."
+    "evidence": "MacKillop 2008, s.v. 'liss'"
   }
 }

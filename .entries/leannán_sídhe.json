@@ -1,0 +1,33 @@
+{
+  "name": "leannán sídhe",
+  "text": "leannán sídhe is the modern Irish form of the MacKillop headword fairy lover. MacKillop lists the Irish term alongside several anglicized spellings including lennan sídhe. The fuller record of the fairy lover, the love-sick bond with a chosen mortal, and the deadly end of such unions sits under fairy_lover.",
+  "entities": [
+    {
+      "entity": "leannán sídhe",
+      "type": "Being"
+    },
+    {
+      "entity": "fairy_lover",
+      "type": "Being"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "leannán sídhe",
+      "attribute": "Irish form of fairy lover; pointer to fairy_lover headword"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'leannán sídhe'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "leannán sídhe is a MacKillop pointer headword resolving to fairy_lover.",
+    "key_results": [
+      "Signpost cites the headword fairy_lover for the full record."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'leannán sídhe'."
+  }
+}

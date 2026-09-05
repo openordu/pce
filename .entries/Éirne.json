@@ -1,0 +1,43 @@
+{
+  "name": "Éirne",
+  "text": "Éirne is a legendary princess of Irish tradition, the daughter of Búrc Búiredach, whose personal name became the Erne waterway's title. The river runs seventy-five miles northwest from Lough Gowna in County Longford, through Lough Oughter and Lough Erne in counties Cavan and Fermanagh, before emptying into the Atlantic. MacKillop reads the form as the eponym of the Erne. The principal record sits under Érne.",
+  "entities": [
+    {
+      "entity": "Éirne",
+      "type": "Person"
+    },
+    {
+      "entity": "Búrc Búiredach",
+      "type": "Person"
+    },
+    {
+      "entity": "Erne",
+      "type": "Place"
+    },
+    {
+      "entity": "Lough Erne",
+      "type": "Place"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Éirne",
+      "attribute": "Legendary princess; eponym of the Erne waterway"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Éirne'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Éirne is a MacKillop signpost to Érne.",
+    "key_results": [
+      "Cites Érne as the canonical headword.",
+      "Daughter of Búrc Búiredach.",
+      "Gave her name to the Erne river."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Éirne'."
+  }
+}

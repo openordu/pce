@@ -16,6 +16,14 @@
     {
       "entity": "Otherworld",
       "type": "Place"
+    },
+    {
+      "entity": "sluagh-sithe",
+      "type": "Being"
+    },
+    {
+      "entity": "sluagh na marbh",
+      "type": "Being"
     }
   ],
   "attributes": [
@@ -30,20 +38,50 @@
     {
       "entity": "sluagh",
       "attribute": "at war with one another, the bloody marks found each morning"
+    },
+    {
+      "entity": "sluagh",
+      "attribute": "in Scottish Gaelic known as sluagh-sithe and also sluagh na marbh"
+    },
+    {
+      "entity": "sluagh",
+      "attribute": "ride out only after dark and may come from any quarter save the east, often in crescent form like grey birds"
+    },
+    {
+      "entity": "sluagh",
+      "attribute": "able to lift a person bodily and carry him aloft across the sea between islands"
+    },
+    {
+      "entity": "sluagh",
+      "attribute": "occasionally rescue a man from a dangerous cleft in the rocks"
+    },
+    {
+      "entity": "sluagh",
+      "attribute": "usually bode no good to mortals and are said to harm cattle"
+    },
+    {
+      "entity": "sluagh",
+      "attribute": "named in the Gaelic exclamation 'O shluagh!' as a cry for succour to the fairies"
     }
   ],
   "sources": [
-    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.",
+    "MacKillop 2008, s.v. 'sluagh'"
   ],
   "cyphertext": "Av67hCWhkYQZAnuY14xREqVfZl86M4EZGgMk_BdNUUhaRObDRdt_2z3vho_S7M4MumVVswYDuuWrlU97nAhu6WOeZQqDLrShH-VXegK-bb94A5SRzxgDhTxruLa2MJmQGFGAPcynFXzfSQmrzQCN1G-EpJYxLLyG4pE9yx0ZB0s7w9iXRyQWnCQddDqDsQ-cDJLwFvWR5TJPjoFPbcAplIDh5rBjQh8Yh6R3_w-BYv3JvhpIhw9zLUgvqc7fDX93v6vRkUcRLXNbH9jqhkMobTAJsFAg7jDtRwWPp-C9SJ0P7TkOmrPzxTYFE2JyF5Jq6-Z0nDK7NWxYcpZsqQW04JVmJNbXl5v3M_6IAqeQMzlh1Z17X7NeagWwkYLzGaRDPxBB8W4XiNwTSV8CnkeyZzBbas5t1me_wzb0BE37ex3Nxp89r_1vWYoiQT-ZrvhPNozli5R5-FIKQHZv62cmP5EEqwQlF8JMbYl8zLzwkT2NlEcW9OvOUUtP-UiUbYOLumg-3RkVsHVHS4_0ZVE4U-Jw5bW-o0l-vKTaB3vT8UYRXonuaSoXfEhOV38OkJxSDtQpj6tICJgZb1tGqYBWCQbuCls_j0bdMcEDkI5eeiz9onBm0JrJoMBqoaiH49qQaF8SJ1rUM0t8YtbRMQGqR8cBqFEtxVHzB776AkPx",
   "salt": "Zp69SQzQuwjLxryFd1IBsw==",
-  "text": "The sluagh is a name for the Host of the Unforgiven Dead. These are Scottish folk figures, but they are not the fairies. They ride forth only in the night. They are the ghosts and the souls of those who died without being forgiven for the sins they did on earth. Their wrongs trapped them in this world. They could not move on to the Otherworld. They lived in the dark and never walked in the day. The host waged endless war upon itself. Each morning the field held the bloody stripes they had left behind. The unforgiven dead stayed bound to the night and to one another in a war that never truly ends.",
+  "text": "The sluagh marks the band of unforgiven dead who haunt Scottish folk tradition. The Scottish Gaelic form sluagh-sithe derives from the older words for folk, host, and army. Another name, sluagh na marbh, calls them the host of the dead. These spirits are not the fairies, though they stand as the most formidable of the fairy host of Scotland. They ride out only after dark. They may come from any quarter save the east, and often take the shape of a crescent of grey birds. The host can lift a person bodily and carry him aloft from one island across the sea to another. They sometimes drag a man from a dangerous cleft in the rocks. They usually bring no good to mortals, and folk say they also harm cattle. The Gaelic cry 'O shluagh!' calls on the fairies for help. The band numbers souls who died in old Scotland without being forgiven. Their wrongs trapped them in this world. They could not move on to the Otherworld. They lived in the dark and never walked in the day. The host waged endless war upon itself. Each morning the field held the bloody stripes they had left behind. The unforgiven dead stayed bound to the night and to one another in a war that never truly ends.",
   "okr": {
-    "objective": "Replace the machine text for sluagh with a fresh CSG-SME1000 rewrite sourced from Monaghan.",
+    "objective": "Document the sluagh as the Host of the Unforgiven Dead in Scottish Gaelic tradition.",
     "key_results": [
-      "A fresh CSG-SME1000 rewrite replaces the machine text",
-      "entities and attributes enriched for the kgraph"
+      "Define sluagh and sluagh-sithe with the alternative name sluagh na marbh",
+      "Mark the host as distinct from yet the most formidable among Scottish fairy people",
+      "Note the night-only riding and the crescent flight of grey birds from any direction but the east",
+      "Record the ability to carry a person bodily through the air between islands and to pull a man from a rock cleft",
+      "Record the harm to mortals and to cattle",
+      "Cite the Gaelic exclamation 'O shluagh!' as a call for succour to the fairies",
+      "Keep the unforgiven-dead war motif and the morning bloody stripes"
     ],
-    "evidence": "Monaghan 2003 (sluagh)."
+    "evidence": "MacKillop 2008, s.v. 'sluagh'."
   }
 }

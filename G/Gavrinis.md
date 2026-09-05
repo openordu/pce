@@ -2,58 +2,95 @@
 layout: layouts/pce.njk
 title: Gavrinis
 icon: file-lines
-order: 1068
+order: 1223
 contributors: [ 'Christopher Godwin' ]
 attributes:
-  - Gavrinis ritual site
-  - Megalithic Civilization monuments
-  - Celtic peoples local
-  - Breton megalithic sites Otherworld happenings
-  - monuments meaning was forgotten
+  - Gavrinis an island off Morbihan in southern Brittany
+  - Gavrinis linked by spiral carvings to Brú na Bóinne
+  - Gavrinis resembles Stonehenge in megalithic architecture
+  - Gavrinis oriented to the winter solstice sunrise
+  - Gavrinis carries the Irish word inis, for island, at the head of its name
+  - inis Irish word for island that begins scores of place-names
+  - Inis Ealga poetic nickname for Ireland that translates as noble isle
+  - Inis Fáil poetic nickname for Ireland that translates as isle of destiny
+  - Inis Fionnchuire imaginary underwater island beneath Muir Torrain populated by nymphs
+  - Lug Lámfhota demanded that Brian, Iuchair, and Iucharba fetch a cooking-spit from Inis Fionnchuire in the Tragic Story of the Sons of Tuireann
 categories:
-  - ethnic group
-  - monument
-  - country
-  - ancient civilization
-  - celestial object
+  - Concept
+  - Place
+  - Work
+  - Person
 entities:
-  - Sun(celestial object)
-  - Gavrinis(monument)
-  - Megalithic Civilization(ancient civilization)
-  - Celtic peoples(ethnic group)
-  - Breton megalithic sites(monument)
-  - Ireland(country)
+  - Gavrinis(Place)
+  - Brú na Bóinne(Place)
+  - Stonehenge(Place)
+  - Morbihan(Place)
+  - innis(Concept)
+  - ynys(Concept)
+  - Inis Ealga(Place)
+  - Inis Fáil(Place)
+  - Inis Fionnchuire(Place)
+  - Muir Torrain(Place)
+  - Oidheadh Chlainne Tuireann(Work)
+  - Lug Lámfhota(Person)
+  - Brian(Person)
+  - Iuchair(Person)
+  - Iucharba(Person)
 tags:
-  - Sun
   - Gavrinis
-  - Megalithic Civilization
-  - Celtic peoples
-  - Breton megalithic sites
-  - Ireland
+  - Brú na Bóinne
+  - Stonehenge
+  - Morbihan
+  - innis
+  - ynys
+  - Inis Ealga
+  - Inis Fáil
+  - Inis Fionnchuire
+  - Muir Torrain
+  - Oidheadh Chlainne Tuireann
+  - Lug Lámfhota
+  - Brian
+  - Iuchair
+  - Iucharba
 ---
 ``` tab [group1:Info]
 ::: magazinestyle
-An island located in a small harbor off the coast of Morbihan in southern Brittany, Gavrinis (Gavr’inis) is a Breton mythological site that features the fabulously engraved ritual chamber. This site is linked to Britain’s Stonehenge by its megalithic rock architecture and by its Spiral iconography, which includes deeply incised carvings that decorate more than twenty enormous granite uprights, it is connected to Ireland’s Brú Na Bóinne, this network predating the Celts by far. Typically, astronomical points are found in such monuments, though it is unknown for what purpose they were intended. In the case of Gavrinis, this means that it may have been oriented towards the winter Solstice sunrise, which it is precisely aligned with. The Sun rising on that day, as it begins to rebirth towards summer, may have been thought to revive the bones placed within that have left traces. Just like other monuments of the Megalithic Civilization, Gavrinis was perhaps known by the local Celtic peoples and could have been a ritual site for them. These other Breton megalithic sites are often described in folklore as the place of Otherworld happenings, so it is possible that superstitious local lore protected such monuments long after their meaning was forgotten.
+Gavrinis, also written Gavr'inis, is a Breton site of old ritual. An island sits in a small harbor off the coast of Morbihan in southern Brittany. The island holds a richly engraved chamber that far predates the Celts. Its spiral carvings tie it to the iconography of Ireland's Brú na Bóinne. Deep incised work decorates more than twenty enormous granite uprights. Its megalithic rock architecture resembles Britain's Stonehenge. The chamber lines up with an astronomical point. That alignment fixes it precisely to the winter solstice sunrise. The name Gavrinis carries the word inis at its heart. Inis is the Irish word for an island. The same word appears as the first element in scores of Irish place-names. Scottish Gaelic keeps a near cousin in innis. The Welsh form is ynys. Inis Ealga, the noble isle, stands as one poetic name by which Ireland was hailed in verse. Inis Fáil, the isle of destiny, serves as a second such name for the same land. Other inis names reach well beyond real geography. Inis Fionnchuire, also spelled Findchuire, Fianchuibhe, and Finchory, marks an imaginary island beneath Muir Torrain. Nymphs populate that sunken place. The Sons of Tuireann is an Irish tale that names a sunken island. In that tale Lug Lámfhota set a quest. Brian, Iuchair, and Iucharba had to fetch a cooking-spit from that island.
 
 :::
 ```
 ``` tab [group1:Attributes]
-- **Gavrinis**: ritual site
-- **Megalithic Civilization**: monuments
-- **Celtic peoples**: local
-- **Breton megalithic sites**: Otherworld happenings
-- **monuments**: meaning was forgotten
+- **Gavrinis**: an island off Morbihan in southern Brittany
+- **Gavrinis**: linked by spiral carvings to Brú na Bóinne
+- **Gavrinis**: resembles Stonehenge in megalithic architecture
+- **Gavrinis**: oriented to the winter solstice sunrise
+- **Gavrinis**: carries the Irish word inis, for island, at the head of its name
+- **inis**: Irish word for island that begins scores of place-names
+- **Inis Ealga**: poetic nickname for Ireland that translates as noble isle
+- **Inis Fáil**: poetic nickname for Ireland that translates as isle of destiny
+- **Inis Fionnchuire**: imaginary underwater island beneath Muir Torrain populated by nymphs
+- **Lug Lámfhota**: demanded that Brian, Iuchair, and Iucharba fetch a cooking-spit from Inis Fionnchuire in the Tragic Story of the Sons of Tuireann
 ```
 ``` tab [group1:Entities]
-- **Sun**: celestial object
-- **Gavrinis**: monument
-- **Megalithic Civilization**: ancient civilization
-- **Celtic peoples**: ethnic group
-- **Breton megalithic sites**: monument
-- **Ireland**: country
+- **Gavrinis**: Place
+- **Brú na Bóinne**: Place
+- **Stonehenge**: Place
+- **Morbihan**: Place
+- **innis**: Concept
+- **ynys**: Concept
+- **Inis Ealga**: Place
+- **Inis Fáil**: Place
+- **Inis Fionnchuire**: Place
+- **Muir Torrain**: Place
+- **Oidheadh Chlainne Tuireann**: Work
+- **Lug Lámfhota**: Person
+- **Brian**: Person
+- **Iuchair**: Person
+- **Iucharba**: Person
 ```
 ``` tab [group1:Sources]
 - Evans-Wentz, W. Y. The Fairy-Faith in Celtic Countries. Gerrards Cross: Colin Smythe Humanities Press, 1911, 409+.
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
+- MacKillop 2008, s.v. 'inis'
 ```
 ![Gavrinis Image](https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Gavrinis_1a.jpg/1200px-Gavrinis_1a.jpg)

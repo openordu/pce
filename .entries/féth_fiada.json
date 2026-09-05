@@ -4,6 +4,10 @@
     {
       "entity": "féth fiada",
       "attribute": "cross-reference to Druid's Fog"
+    },
+    {
+      "entity": "féth fiada",
+      "attribute": "carries variant forms feth fìadha, fé fiada, and faeth fiadha"
     }
   ],
   "entities": [
@@ -14,21 +18,30 @@
     {
       "entity": "Druid's Fog",
       "type": "concept"
+    },
+    {
+      "entity": "druid",
+      "type": "Person"
+    },
+    {
+      "entity": "fé fiadha",
+      "type": "Concept"
     }
   ],
   "sources": [
-    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.",
+    "MacKillop 2008, s.v. 'féth fiada'"
   ],
   "cyphertext": "FlIQuT5VWSgw14BjneXHcja8xULq0YsckiDxZG6_SY_SCsVBkE7mLeqQ3g_PYnYYwP-TuvHt9QD-Mco=",
   "salt": "6HWDzUlaYq6CcMV80UWbFw==",
-  "text": "Féth fiada is a cross-reference that directs the reader to the Druid's Fog entry.",
+  "text": "Féth fiada is an Old Irish term. The headword lists variant forms feth fìadha, fé fiada, and faeth fiadha. The phrase points to the article on the Druid Fog. MacKillop frames it as a cross-reference entry. In the Old Irish tradition the féth fiada was the mist that druids conjured around themselves and their companions. The fog hid a sacred party from mortal sight. Heroes and kings sometimes moved under the féth fiada. The fog belonged to the Old Irish magical vocabulary. Its modern Irish descendant form is fé fiadha. Variant spellings include feth fìadha and faeth fiadha, recorded in MacKillop's entry. The entry stands as a pointer toward the full Druid Fog article, where the broader tradition sits.",
   "okr": {
-    "objective": "féth fiada is a cross-reference to Druid's Fog.",
+    "objective": "Hold féth fiada as a cross-reference with its variant forms.",
     "key_results": [
-      "Féth fiada is an Irish term.",
-      "The entry points to the Druid's Fog article.",
-      "It holds no account of its own."
+      "Mark féth fiada as Old Irish.",
+      "Record variant spellings feth fìadha, fé fiada, and faeth fiadha.",
+      "Direct the reader to the Druid Fog article."
     ],
-    "evidence": "Monaghan, Encyclopedia of Celtic Mythology and Folklore"
+    "evidence": "MacKillop 2008, s.v. 'féth fiada'"
   }
 }

@@ -1,0 +1,33 @@
+{
+  "name": "salmon leap",
+  "text": "salmon leap marks the aggressive, highly effective combat strategy of Cúchulainn. One modern commentator has suggested the move resembles the energetic jump of football players on the field. The full record of the hero and his combat arts sits under the headword Cúchulainn.",
+  "entities": [
+    {
+      "entity": "salmon leap",
+      "type": "Concept"
+    },
+    {
+      "entity": "Cúchulainn",
+      "type": "Character"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "salmon leap",
+      "attribute": "Combat strategy of Cúchulainn; pointer to Cúchulainn headword"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'salmon leap'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "salmon leap is a MacKillop signpost for the Cúchulainn headword.",
+    "key_results": [
+      "Signpost cites Cúchulainn as the canonical headword."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'salmon leap'."
+  }
+}

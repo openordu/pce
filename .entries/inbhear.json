@@ -1,0 +1,33 @@
+{
+  "name": "inbhear",
+  "text": "inbhear is a modern Irish equivalent of the geographical headword inber. MacKillop treats inbhear and inbher as alternate modern spellings that resolve to the same record. The fuller record of the river-mouth place-name element in Celtic geography sits under the headword inber.",
+  "entities": [
+    {
+      "entity": "inbhear",
+      "type": "Concept"
+    },
+    {
+      "entity": "inber",
+      "type": "Concept"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "inbhear",
+      "attribute": "Modern Irish equivalent of inber; pointer to the canonical headword"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'inbhear'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "inbhear is a MacKillop pointer headword resolving to inber.",
+    "key_results": [
+      "Signpost cites the headword inber for the full record."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'inbhear'."
+  }
+}

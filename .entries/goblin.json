@@ -16,6 +16,26 @@
         {
             "entity": "goblin",
             "attribute": "distinct from gnomes, which come from alchemy"
+        },
+        {
+            "entity": "goblin",
+            "attribute": "etymology traced to Middle High German kobolt and Old French gobelin"
+        },
+        {
+            "entity": "goblin",
+            "attribute": "concept originates outside Celtic tradition and applies to Celtic material only figuratively"
+        },
+        {
+            "entity": "goblin",
+            "attribute": "Welsh colynau and bwgan occasionally called goblins"
+        },
+        {
+            "entity": "goblin",
+            "attribute": "Irish cluricaune and dullahan occasionally called goblins"
+        },
+        {
+            "entity": "goblin",
+            "attribute": "Wirt Sikes catalogued British goblins in 1880"
         }
     ],
     "entities": [
@@ -38,25 +58,62 @@
         {
             "entity": "water horse",
             "type": "Creature"
+        },
+        {
+            "entity": "kobolt",
+            "type": "Concept"
+        },
+        {
+            "entity": "gobelin",
+            "type": "Concept"
+        },
+        {
+            "entity": "colynau",
+            "type": "Being"
+        },
+        {
+            "entity": "bwgan",
+            "type": "Being"
+        },
+        {
+            "entity": "cluricaune",
+            "type": "Being"
+        },
+        {
+            "entity": "dullahan",
+            "type": "Being"
+        },
+        {
+            "entity": "Wirt Sikes",
+            "type": "Person"
+        },
+        {
+            "entity": "British Goblins",
+            "type": "Text"
         }
     ],
     "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.",
+        "MacKillop 2008, s.v. 'goblin'"
     ],
     "image": [
         "https://upload.wikimedia.org/wikipedia/commons/a/ac/Goblin_illustration_from_19th_century.png"
     ],
     "cyphertext": "oQkYfnWng_xyWpDdyWnIjtdn8LPBXb4QZuNefEdRn5G5aAz-yWcY_B0aW8vQMpg-7W5o0H5RDgLtIAjEwtU2A4zqS7e5LHAlfpCUMNDY4x-lUW4qXTsHSHJ2DnV02I0fG2rZn7xUmo7xtziGBREol4ZJInbnWehOyAsWgc0G5nnD_EEQRNg1BZ3ldCNXMkPHA3MkLx4G4PNbm6S5C0JH36EXnYuU6q0mLxhNbIme7nr0LVyfWRlNEplcNH5z8ldXKvkBhBDI0NfYast_I7vwYq8V4K8DHrHzGzmsAFjP5Xo7hIQI2cE6Kx0ka5piWJP4wrsrkl1qp0fuZVGcG4ZwszwpwN-cX1k23tqPofUKV8B8qWyfy7cp1sG77J4VgW7F3QVG-OTNb5ESKYF7Y2zNGhmlJcwNxAE3zGtWJJyMXEWbS-SawO_ffVaCtbThYTib0ELbKF6uiQOjrTe312AZlL0O5vS65IE3OXPBgcGXW4rXR5-Gl4tNpEU891P7MH98qto4AVCCmzJOvCsBwDbJ240jKM7xtyfAgaq1P5aBWJ63-0ULEYlF62Yrlu10sPFpDjn_JeWc_RNd-NY3Z8Izjpo7EwdaGnlcOv_pVWyQWFcq6V8xgH5ciYFeQAnNnwrXZpGoa81gd97dGCjdVC_aeGcHrhfKcc-NHfvXHJYTh4AHi7LoI10Oc1giUFs2-Io5VzRVR-TmNMM8rceRIW1XZkqhhj-3eNxtwh2SedvGCp2phb0Ph9zMG7z5FSgcpgGQMLZyCiQyp_PsGlsOuOMRHX2Lt6vkG2JOSNxnsT63AWcEbq0ex4hs-JpFp6UNDuvKPgeboY3Bj_cKpigXd3sX16pnZqOyV1mnAwAUpq2ACy6iU4KC9bCyFHBdr7Uqir7CdVhS_w==",
     "salt": "A6r5L8aaf7PRFbuhse0jpg==",
-    "text": "A goblin is a general name for an evil fairy. This British folkloric figure can be mischievous and irritating. At worst it is dangerous. Goblins appeared in many forms. These include the vough, the pooka, and the bogie. The water horse also counts as a goblin. All share roots in the Celtic Otherworld. They differ from gnomes, which come from alchemy. Christina Rossetti used fairy lore in her poem Goblin Market. The poem links evil goblins with fairy kidnapping.",
+    "text": "A goblin is a general name for an evil fairy. This British folkloric being can be mischievous or irritating. At its worst it is dangerous. Forms include the vough, the pooka, and the bogie. The water horse also counts as a goblin. All share roots in the Celtic Otherworld. They differ from gnomes, which come from alchemy. Christina Rossetti used fairy lore in her poem Goblin Market. The poem links evil goblins with fairy kidnapping. The word itself reaches English from Middle High German kobolt and Old French gobelin. The idea of a grotesque, malicious, tiny sprite begins outside Celtic tradition. Folk apply the label to Celtic material only by extension. Few Celtic beings are ever called goblins. Among the Welsh, the colynau and the bwgan bear the name. Among the Irish, the cluricaune and the dullahan do. Wirt Sikes treated the topic in British Goblins of 1880.",
     "okr": {
-        "objective": "Define the goblin as an evil fairy of British folklore rooted in the Celtic Otherworld.",
+        "objective": "Define the goblin as an evil fairy of British folklore with Celtic and extra-Celtic strands, drawn from both sources.",
         "key_results": [
-            "Goblin is a general name for an evil fairy.",
+            "Goblin names an evil fairy of British folklore.",
             "Forms include the vough, pooka, bogie, and water horse.",
-            "Goblins differ from gnomes of medieval alchemy.",
-            "Rossetti's Goblin Market links goblins with fairy kidnapping."
+            "Goblins differ from the gnomes of medieval alchemy.",
+            "Rossetti links goblins and kidnapping in Goblin Market.",
+            "The word reaches English from German kobolt and Old French gobelin.",
+            "The concept lies outside Celtic origins.",
+            "Only a few Celtic beings, such as the Welsh colynau and bwgan and the Irish cluricaune and dullahan, bear the name.",
+            "Wirt Sikes published British Goblins in 1880."
         ],
-        "evidence": "Monaghan 2008, s.v. 'goblin'."
+        "evidence": "MacKillop 2008, s.v. 'goblin'; fused with Monaghan 2008 baseline."
     }
 }

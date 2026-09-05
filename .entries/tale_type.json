@@ -1,0 +1,34 @@
+{
+  "name": "tale type",
+  "text": "tale type names the cross-classification MacKillop records for Celtic folktales against the international Aarne-Thompson-Uther index. The tale type framework groups stories by plot and motif across cultures, letting scholars compare Celtic examples with their counterparts elsewhere. Celtic examples appear under many AT-U numbers; MacKillop points the reader to the related entries for fuller record.",
+  "entities": [
+    {
+      "entity": "tale type",
+      "type": "Concept"
+    },
+    {
+      "entity": "Aarne-Thompson-Uther index",
+      "type": "Thing"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "tale type",
+      "attribute": "Cross-classification of Celtic folktales against the AT-U index"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'tale type'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "tale type is the MacKillop headword for the folktale cross-classification.",
+    "key_results": [
+      "Cross-classification of Celtic folktales.",
+      "Grounded in the Aarne-Thompson-Uther index."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'tale type'."
+  }
+}

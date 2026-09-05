@@ -1,0 +1,47 @@
+{
+  "name": "glaistig",
+  "text": "glaistig names the usually malevolent solitary female fairy of Scottish Gaelic tradition. The headword also covers the spellings glaestig and glastig, plus the label maighdean uaine, the green maiden. MacKillop notes that the glaistig haunts lonely pools, and that she is sometimes half-woman, half-goat. She can appear as a beautiful woman near children or travellers in the dark. MacKillop links the figure to the wider family of Celtic water fairies. The Cornish equivalent is the Gorrion, the Welsh is the Gwragedd Annwn. MacKillop treats the glaistig as one of the most fully attested of the Scottish water fae.",
+  "entities": [
+    {
+      "entity": "glaistig",
+      "type": "Being"
+    },
+    {
+      "entity": "glaestig",
+      "type": "Being"
+    },
+    {
+      "entity": "glastig",
+      "type": "Being"
+    },
+    {
+      "entity": "maighdean uaine",
+      "type": "Concept"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "glaistig",
+      "attribute": "Malevolent solitary female fairy haunting lonely pools in Scottish Gaelic tradition"
+    },
+    {
+      "entity": "glaistig",
+      "attribute": "Sometimes half-woman, half-goat; may appear as beautiful woman"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'glaistig'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "glaistig is the MacKillop headword for the Scottish Gaelic water fairy.",
+    "key_results": [
+      "Malevolent solitary female fairy of Scottish Gaelic tradition.",
+      "Haunts lonely pools, sometimes half-woman half-goat.",
+      "Cornish equivalent Gorrion; Welsh equivalent Gwragedd Annwn."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'glaistig'."
+  }
+}

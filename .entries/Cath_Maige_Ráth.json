@@ -1,19 +1,94 @@
 {
   "name": "Cath Maige Ráth",
-  "text": "Cath Maige Ráth is the Irish title for the battle narrative of Mag Rath. The dictionary gives this headword a single line and points readers to Buile Shuibne. That tale holds the fuller account, and it makes the battle the turning point of its hero's life. Buile Shuibne is a twelfth-century Irish work in the Cycle of Kings. English readers know it as The Frenzy of Suibne or The Madness of Sweeney. It ends a trilogy of tales about Suibne Geilt, a minor king in seventh-century Ulster. Suibne went mad at the battle fought at Moira in 637. His mad wanderings then fill the rest of the tale. The fuller story of the fight therefore sits inside that text rather than under this title.",
+  "text": "Cath Maige Ráth is the Irish title for the battle narrative of Mag Rath. The dictionary gives this headword a single line and points readers to Buile Shuibne. That tale holds the fuller account, and it makes the battle the turning point of its hero's life. Buile Shuibne is a twelfth-century Irish work in the Cycle of Kings. English readers know it as The Frenzy of Suibne or The Madness of Sweeney. It ends a trilogy of tales about Suibne Geilt, a minor king in seventh-century Ulster. Suibne went mad at the battle fought at Moira in 637. His mad wanderings then fill the rest of the tale. The fuller story of the fight therefore sits inside that text rather than under this title. MacKillop defines rath as a circular earthen rampart, normally timber-reinforced or palisaded, that ringed old Irish homes. More loosely the word names the fortified dwelling itself. That dwelling was the home of an early chief or king, ringed by such a rampart. Rath is the leading element in a great many Irish place-names. In some names it is rendered as royal seat. The word is nearly interchangeable with the older term dún. Irish oral tradition often holds that a rath houses fairies.",
   "image": [],
-  "sources": ["MacKillop 2008, s.v. 'Cath Maige Ráth'."],
+  "sources": [
+    "MacKillop 2008, s.v. 'Cath Maige Ráth'."
+  ],
   "attributes": [
-    {"entity": "Cath Maige Ráth", "attribute": "Irish battle title that points to Buile Shuibne for the fuller account"},
-    {"entity": "Buile Shuibhne", "attribute": "twelfth-century Cycle of Kings tale in which Suibne Geilt goes mad after the fight at Moira in 637"},
-    {"entity": "Mag Rath", "attribute": "battle site near Moira where the petty king Suibne lost his reason"}
+    {
+      "entity": "Cath Maige Ráth",
+      "attribute": "Irish battle title that points to Buile Shuibne for the fuller account"
+    },
+    {
+      "entity": "Buile Shuibhne",
+      "attribute": "twelfth-century Cycle of Kings tale in which Suibne Geilt goes mad after the fight at Moira in 637"
+    },
+    {
+      "entity": "Mag Rath",
+      "attribute": "battle site near Moira where the petty king Suibne lost his reason"
+    },
+    {
+      "entity": "rath",
+      "attribute": "circular earthen rampart, normally timber-reinforced or palisaded, ringed old Irish homes"
+    },
+    {
+      "entity": "rath",
+      "attribute": "more loosely names the fortified dwelling of an early chief or king"
+    },
+    {
+      "entity": "rath",
+      "attribute": "first element of innumerable Irish place-names, sometimes rendered as royal seat"
+    },
+    {
+      "entity": "rath",
+      "attribute": "nearly interchangeable with the older term dún"
+    },
+    {
+      "entity": "rath",
+      "attribute": "in Irish oral tradition thought to house fairies"
+    }
   ],
   "entities": [
-    {"entity": "Cath Maige Ráth", "type": "Text"},
-    {"entity": "Buile Shuibhne", "type": "Text"},
-    {"entity": "Mag Rath", "type": "Place"}
+    {
+      "entity": "Cath Maige Ráth",
+      "type": "Text"
+    },
+    {
+      "entity": "Buile Shuibhne",
+      "type": "Text"
+    },
+    {
+      "entity": "Mag Rath",
+      "type": "Place"
+    },
+    {
+      "entity": "rath",
+      "type": "Place"
+    },
+    {
+      "entity": "dún",
+      "type": "Place"
+    },
+    {
+      "entity": "fairies",
+      "type": "Being"
+    },
+    {
+      "entity": "ancient Irish dwellings",
+      "type": "Place"
+    },
+    {
+      "entity": "Irish oral tradition",
+      "type": "Concept"
+    },
+    {
+      "entity": "chieftain",
+      "type": "Person"
+    }
   ],
   "cyphertext": "",
   "salt": "",
-  "okr": {"objective": "Point readers from the battle title Cath Maige Ráth to the fuller narrative in Buile Shuibne.", "key_results": ["Identified Cath Maige Ráth as a pointer headword to Buile Shuibne.", "Recorded the twelfth-century dating and Cycle of Kings setting of the target tale.", "Noted Suibne Geilt's madness after the battle at Moira in 637."], "evidence": "MacKillop 2008, s.v. 'Cath Maige Ráth'."}
+  "okr": {
+    "objective": "Point readers from the battle title Cath Maige Ráth to the fuller narrative in Buile Shuibne while defining rath as a circular fortified dwelling.",
+    "key_results": [
+      "Identified Cath Maige Ráth as a pointer headword to Buile Shuibne.",
+      "Recorded the twelfth-century dating and Cycle of Kings setting of the target tale.",
+      "Noted Suibne Geilt's madness after the battle at Moira in 637.",
+      "Defined rath as a circular earthen rampart, normally timber-reinforced or palisaded, that ringed old Irish homes.",
+      "Recorded that rath also names the fortified dwelling of an early chief or king.",
+      "Recorded that rath is nearly interchangeable with dún and houses fairies in oral tradition."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'ráth'."
+  }
 }

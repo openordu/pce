@@ -1,6 +1,6 @@
 {
   "name": "Síth Emna",
-  "text": "Síth Emna is a variant of the otherworld place-name Emain Ablach. The dictionary prints the head as a one-line cross-reference. The name carries the síth element that marks fairy dwellings in Irish. The fuller record sits under the Emain Ablach node.",
+  "text": "Síth Emna is a cross-reference head in MacKillop's dictionary. The form points readers to the fuller Emain Ablach entry. It sits among the variant renderings of that otherworld island. The full record of the island sits under Emain Ablach in the dictionary. The first element, síth, is an Old Irish spelling. That spelling comes from the same root as *sidh. The word *sidh marks fairy dwellings in the older language. The síth element places Síth Emna in the family of otherworldly place-names. Those names carry fairy associations in the Irish tradition. The two lines under the síth head give a brief etymology. The same lines also point to Emain Ablach. All depth on geography, lore, and sources sits with the Emain Ablach node.",
   "entities": [
     {
       "entity": "Síth Emna",
@@ -19,6 +19,14 @@
     {
       "entity": "Síth Emna",
       "attribute": "cross-reference to the Emain Ablach record"
+    },
+    {
+      "entity": "Síth Emna",
+      "attribute": "cross-reference head whose first element síth is the Old Irish spelling of *sidh"
+    },
+    {
+      "entity": "Síth Emna",
+      "attribute": "given as a variant form of *Emain Ablach under the síth head"
     }
   ],
   "sources": [
@@ -28,11 +36,12 @@
   "cyphertext": "",
   "salt": "",
   "okr": {
-    "objective": "Síth Emna is a variant of the otherworld place-name Emain Ablach",
+    "objective": "Fuse the baseline variant note with the article's OIr. síth etymology and the Emain Ablach pointer.",
     "key_results": [
-      "variant of the Emain Ablach place-name",
-      "signpost to the Emain Ablach node"
+      "Names Síth Emna as a cross-reference under the síth head pointing to Emain Ablach",
+      "States that síth is the Old Irish spelling drawn from the *sidh root for fairy dwellings",
+      "Records the síth head article as a brief etymology plus a pointer to the Emain Ablach record"
     ],
-    "evidence": "MacKillop 2008, s.v. Síth Emna."
+    "evidence": "MacKillop 2008, s.v. 'síth'."
   }
 }

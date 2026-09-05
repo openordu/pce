@@ -2,48 +2,55 @@
 layout: layouts/pce.njk
 title: raven
 icon: file-lines
-order: 1892
+order: 2205
 contributors: [ 'Christopher Godwin' ]
 attributes:
-  - ravens unlucky
-  - ground being broken
-  - house new projects
-  - appearance foretells a bad end to the project
-  - house hanging around
-  - occupants near death
+  - raven feather lay with blood on the snow
+  - the woman wished for a man with hair as black as the raven
+  - the woman wished for white skin and red lips
+  - Leborcham bard and nurse who found the man
+  - Noísiu man who answered the wish
+  - raven MacKillop pointer to crow for the wider corvid record
 categories:
-  - people
-  - building
   - animal
+  - character
+  - Animal
 entities:
-  - ravens(animal)
-  - house(building)
-  - occupants(people)
+  - raven(animal)
+  - the woman(character)
+  - Leborcham(character)
+  - Noísiu(character)
+  - crow(Animal)
 tags:
-  - ravens
-  - house
-  - occupants
+  - raven
+  - the woman
+  - Leborcham
+  - Noísiu
+  - crow
 ---
 ``` tab [group1:Info]
 ::: magazinestyle
-The raven is an animal with symbolic meaning. It is not always easy to tell the difference between the raven and the crow without proper training. They both belong to the Corvus genus and share similar dietary habits, such as devouring dead animals. This feature led to the belief that the birds were associated with war goddesses like the Irish Mórrígan and Badb, who were known to take the form of the birds to encourage slaughter. Ravens and crows were also viewed as oracular, and were thought to represent the goddess who cleaned the clothing or armor of those destined to die in the following day's battle. As a symbol of both death and rebirth, the raven's meaning is complex and can appear contradictory. Despite the ancient tradition attributing bad luck to ravens, they continue to carry a significant meaning. If one is noticed during the construction of a new house, it signifies an unlucky outcome for the project, and if they stick around a home, it is interpreted as an indication of someone's impending death.
+The raven leaves its mark on a Celtic tale of love. A woman saw a feather and a drop of blood on snow. She wished for a man whose hair was black like that raven. She wanted his skin white and his lips red. The bard Leborcham guided her to the man who fit the wish. That man bore the name Noísiu. MacKillop points the reader to the crow headword for the wider corvid article. The bird appears in omens and battlefield poetry across the Celtic tradition.
 
 :::
 ```
 ``` tab [group1:Attributes]
-- **ravens**: unlucky
-- **ground**: being broken
-- **house**: new projects
-- **appearance**: foretells a bad end to the project
-- **house**: hanging around
-- **occupants**: near death
+- **raven**: feather lay with blood on the snow
+- **the woman**: wished for a man with hair as black as the raven
+- **the woman**: wished for white skin and red lips
+- **Leborcham**: bard and nurse who found the man
+- **Noísiu**: man who answered the wish
+- **raven**: MacKillop pointer to crow for the wider corvid record
 ```
 ``` tab [group1:Entities]
-- **ravens**: animal
-- **house**: building
-- **occupants**: people
+- **raven**: animal
+- **the woman**: character
+- **Leborcham**: character
+- **Noísiu**: character
+- **crow**: Animal
 ```
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
+- MacKillop 2008, s.v. 'raven'
 ```
 ![raven Image](https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/3782_Common_Raven_in_flight.jpg/1200px-3782_Common_Raven_in_flight.jpg)

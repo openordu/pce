@@ -16,6 +16,14 @@
     {
       "entity": "Mauthe Doog",
       "attribute": "a glance from its eyes could kill"
+    },
+    {
+      "entity": "Mauthe Doog",
+      "attribute": "place-by-place form of moddey dhoo, the famous black hound of Manx tradition"
+    },
+    {
+      "entity": "Mauthe Doog",
+      "attribute": "spelling made use of by Sir Walter Scott in Lay of the Last Minstrel, sixth canto of 1805"
     }
   ],
   "entities": [
@@ -30,23 +38,35 @@
     {
       "entity": "spectral creature",
       "type": "Concept"
+    },
+    {
+      "entity": "moddey dhoo",
+      "type": "Being"
+    },
+    {
+      "entity": "Sir Walter Scott",
+      "type": "Person"
+    },
+    {
+      "entity": "Lay of the Last Minstrel",
+      "type": "Artifact"
     }
   ],
   "sources": [
-    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.",
+    "MacKillop 2008, s.v. 'mauthe doog'"
   ],
   "cyphertext": "HL4XfbLpOgigKnb8Hlmy_r40Zn_0YOSb7Hdn0wPFn9sspIwy9pvA12PM3qpIhh1oaeHrjYbcYw==",
   "salt": "yow_Iplf-wr_G0ZZQPmojw==",
-  "text": "Mauthe Doog is the Manx name of the Black Dog. Monaghan directs the reader to the fuller Black Dog entry. This spectral creature was usually shaggy and about the size of a calf. It was known throughout the insular Celtic world. The dog was an indication of great change and probable death. Black Dogs could sometimes be helpful. A single glance from the dog's eyes could kill.",
+  "text": "Mauthe Doog is the Manx name of the Black Dog. Monaghan directs the reader to the fuller Black Dog entry. This spectral creature was usually shaggy and about the size of a calf. It was known throughout the insular Celtic world. The dog was an indication of great change and probable death. Black Dogs could sometimes be helpful. A single glance from the dog's eyes could kill. The spelling mauthe doog serves as a place-by-place form of moddey dhoo, the famous black hound of Manx tradition. The poet Sir Walter Scott made use of this spelling in his Lay of the Last Minstrel, in the sixth canto published in 1805.",
   "okr": {
-    "objective": "Document Mauthe Doog, the Manx name of the spectral Black Dog.",
+    "objective": "Document Mauthe Doog, the Manx spectral Black Dog.",
     "key_results": [
-      "Record Mauthe Doog as the Manx name of the Black Dog.",
-      "Record the spectral appearance of the creature.",
-      "Record its meaning as an indication of change and probable death."
+      "Record Mauthe Doog as the Manx name of the Black Dog",
+      "Record its spectral appearance, usually shaggy and calf-sized",
+      "Record its meaning as an indication of great change and probable death",
+      "Link the form to moddey dhoo and to Scott's Lay of the Last Minstrel (1805)"
     ],
-    "evidence": [
-      "Monaghan, P. The Encyclopedia of Celtic Mythology and Folklore (2008): Mauthe Doog entry, p. 318; Black Dog entry, p. 47."
-    ]
+    "evidence": "MacKillop 2008, s.v. 'mauthe doog'"
   }
 }

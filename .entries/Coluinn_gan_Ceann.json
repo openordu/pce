@@ -1,6 +1,6 @@
 {
  "name": "Coluinn gan Ceann",
- "text": "Coluinn gan Ceann is a variant spelling of Colann gun Cheann, the Scottish Gaelic name of the headless spirit. Highland tales give the formula as body without head. MacKillop files this spelling as a pointer to his article on the bòcan figure. See Colann gun Cheann.",
+ "text": "Coluinn gan Ceann is a Scottish Gaelic name-form for the headless spirit. The phrase means body without head. MacKillop files this spelling under the bòcan article. The Irish entry gan ceann carries the same name and the variant gan-ceann. The term translates from Irish as without a head. It names a headless and somewhat threatening Irish fairy. The gan ceann ranks as a figure comparable to the dullahan. Unlike other fairies, the gan ceann fears gold. A gan ceann chased a boat heading for America across the sea. A pin of gold tossed into his path broke the chase. The gan ceann is sometimes confused with the ganconer. MacKillop treats them as very different.",
  "entities": [
   {
    "entity": "Coluinn gan Ceann",
@@ -9,6 +9,14 @@
   {
    "entity": "Colann gun Cheann",
    "type": "person"
+  },
+  {
+   "entity": "ganconer",
+   "type": "Being"
+  },
+  {
+   "entity": "America",
+   "type": "Place"
   }
  ],
  "attributes": [
@@ -19,6 +27,26 @@
   {
    "entity": "Coluinn gan Ceann",
    "attribute": "Scottish Gaelic name-form recorded by MacKillop"
+  },
+  {
+   "entity": "gan ceann",
+   "attribute": "headless Irish fairy comparable to the dullahan"
+  },
+  {
+   "entity": "gan ceann",
+   "attribute": "fears gold unlike other fairies"
+  },
+  {
+   "entity": "gan ceann",
+   "attribute": "would have overtaken a boat for America save for a gold pin"
+  },
+  {
+   "entity": "gan ceann",
+   "attribute": "often confused with but distinct from the ganconer"
+  },
+  {
+   "entity": "Coluinn gan Ceann",
+   "attribute": "Highland Gaelic counterpart of the Irish gan ceann"
   }
  ],
  "sources": [
@@ -29,11 +57,16 @@
  "cyphertext": "",
  "salt": "",
  "okr": {
-  "objective": "Coluinn gan Ceann is a variant of the headless spirit's name.",
+  "objective": "Place Coluinn gan Ceann beside its Irish gan ceann entry and the dullahan.",
   "key_results": [
-   "The spelling differs from Colann gun Cheann by one word-form.",
-   "MacKillop treats the two as a single folklore referent."
+   "Read Coluinn gan Ceann as a Highland Gaelic name for the headless spirit.",
+   "Take body without head as the literal sense.",
+   "Mark the bòcan article as MacKillop's filing.",
+   "Identify the gan ceann as a headless Irish fairy.",
+   "Set the dullahan as its chief parallel.",
+   "Record the gan ceann's fear of gold and the gold-pin episode.",
+   "Separate the gan ceann from the ganconer."
   ],
-  "evidence": "MacKillop, Dictionary of Celtic Mythology, 2008"
+  "evidence": "MacKillop 2008, s.v. 'gan ceann' / 'Coluinn gan Ceann'"
  }
 }

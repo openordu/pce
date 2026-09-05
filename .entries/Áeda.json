@@ -1,0 +1,33 @@
+{
+  "name": "Áeda",
+  "text": "Áeda is a MacKillop cross-reference pointing to the Áedán headword. MacKillop reads the form as a parallel Gaelic name form attached to the same bearer. The principal record of the common Gaelic saint-name tradition sits under the Áedán headword.",
+  "entities": [
+    {
+      "entity": "Áeda",
+      "type": "Person"
+    },
+    {
+      "entity": "Áedán",
+      "type": "Person"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Áeda",
+      "attribute": "Parallel Gaelic name form; pointer to Áedán headword"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Áeda'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Áeda is a MacKillop signpost to Áedán.",
+    "key_results": [
+      "Cites Áedán as the canonical headword."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Áeda'."
+  }
+}

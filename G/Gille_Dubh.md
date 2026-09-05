@@ -2,37 +2,55 @@
 layout: layouts/pce.njk
 title: Gille Dubh
 icon: file-lines
-order: 1093
+order: 4425
 contributors: [ 'Christopher Godwin' ]
 attributes:
-  - he made himself scarce
-  - night full
-  - hunting a full night's
-  - he did not scare up
-  - he was never seen afterward
+  - Gille Dubh is a fairy man of the Scottish Highlands
+  - Gille Dubh wore only moss and leaves
+  - Gille Dubh rescued the lost and cared for the needy
+  - Gille Dubh vanished after lairds hunted him for sport
+  - Gille Dubh Scottish Gaelic name meaning dark boy, also spelled gille dhu
+  - Gille Dubh dwelt among birch woods near Gairloch in the former county of Ross and Cromarty
+  - Gille Dubh traditionally regarded as benevolent
 categories:
-  - time
+  - Place
+  - Being
 entities:
-  - night(time)
+  - Gille Dubh(Being)
+  - Loch a Druing(Place)
+  - Scottish Highlands(Place)
+  - Gairloch(Place)
+  - Ross and Cromarty(Place)
 tags:
-  - night
+  - Gille Dubh
+  - Loch a Druing
+  - Scottish Highlands
+  - Gairloch
+  - Ross and Cromarty
 ---
 ``` tab [group1:Info]
 ::: magazinestyle
-A Scottish folkloric figure named Gille Dubh, also known as Ghillie Dhu, emerged at the end of the 18th century in the vicinity of Loch a Druing in the Scottish Highlands. This Fairy man was a rather disheveled-looking individual who wore only moss and leaves, and his long, black hair hung around him like a cloak. Despite this, he was a quiet and benevolent type, always willing to aid the lost and help those in need. Unfortunately, certain local lairds chose to use him for target practice, and he was made the subject of their cruel sport. Despite his kind nature, the fairy was forced to disappear without a trace, never to be spotted again, even after a full night's hunting failed to produce him.
+Gille Dubh, also written gille dhu, is a solitary Scottish fairy whose name means dark boy in Scottish Gaelic. He makes his home in the birch groves around Gairloch, in the far north-west of the Highlands. Before 1974 that area belonged to the county of Ross and Cromarty. Folk tradition regarded him as a kindly, benevolent figure rather than a threat. He clothed himself in moss and leaves rather than woven cloth, and his black hair hung loose like a cloak. He appeared near Loch a Druing in the late eighteenth century. There he rescued the lost and cared for the needy in silence. Local lairds later hunted him for sport and shot at him as a target. After that persecution he vanished from the Highlands and was never seen again.
 
 :::
 ```
 ``` tab [group1:Attributes]
-- **he**: made himself scarce
-- **night**: full
-- **hunting**: a full night's
-- **he**: did not scare up
-- **he**: was never seen afterward
+- **Gille Dubh**: is a fairy man of the Scottish Highlands
+- **Gille Dubh**: wore only moss and leaves
+- **Gille Dubh**: rescued the lost and cared for the needy
+- **Gille Dubh**: vanished after lairds hunted him for sport
+- **Gille Dubh**: Scottish Gaelic name meaning dark boy, also spelled gille dhu
+- **Gille Dubh**: dwelt among birch woods near Gairloch in the former county of Ross and Cromarty
+- **Gille Dubh**: traditionally regarded as benevolent
 ```
 ``` tab [group1:Entities]
-- **night**: time
+- **Gille Dubh**: Being
+- **Loch a Druing**: Place
+- **Scottish Highlands**: Place
+- **Gairloch**: Place
+- **Ross and Cromarty**: Place
 ```
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
+- MacKillop 2008, s.v. 'gille dubh'
 ```

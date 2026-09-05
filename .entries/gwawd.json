@@ -1,0 +1,39 @@
+{
+  "name": "gwawd",
+  "text": "gwawd was at first a cognate of the Irish word fáith, meaning seer or prophet. MacKillop notes that the Welsh word drifted to mean lampoon or ridicule in later usage. Some early sources also used gwawd for panegyric and praise poetry. MacKillop treats gwawd as the broader Welsh term covering the bards praise and the bards blame. The fuller record of the Welsh seer and prophet class sits under the headword gweledydd. MacKillop links gwawd to the wider family of Celtic bardic offices.",
+  "entities": [
+    {
+      "entity": "gwawd",
+      "type": "Concept"
+    },
+    {
+      "entity": "fáith",
+      "type": "Concept"
+    },
+    {
+      "entity": "gweledydd",
+      "type": "Concept"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "gwawd",
+      "attribute": "Welsh cognate of Irish fáith, meaning satire, mockery, or praise poetry"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'gwawd'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "gwawd is the MacKillop headword for the Welsh bardic office.",
+    "key_results": [
+      "Originally cognate with Irish fáith (seer).",
+      "Came to mean satire, mockery, or panegyric in later Welsh tradition.",
+      "Related Welsh office is gweledydd (seer)."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'gwawd'."
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "name": "patronymic",
+  "text": "patronymic names a male ancestor in Celtic naming. The father usually gives the form in early Welsh and Irish records. The construction ap Rhŷs or mac Cumhaill works as a clear example. In early periods such names did not function as family surnames in the modern sense. Companion to the matronymic, which records a female ancestor. Patronymics shifted over time as fixed family names became the standard. The shift moved through different regions at different speeds.",
+  "entities": [
+    {
+      "entity": "patronymic",
+      "type": "Concept"
+    },
+    {
+      "entity": "matronymic",
+      "type": "Concept"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "patronymic",
+      "attribute": "Male-ancestor name in Celtic naming; pre-modern function"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'patronymic'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "patronymic is the MacKillop headword for male-ancestor Celtic names.",
+    "key_results": [
+      "Male-ancestor name, contrasts with matronymic.",
+      "Forms like ap Rhŷs or mac Cumhaill.",
+      "Did not function as fixed family names in early periods."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'patronymic'."
+  }
+}

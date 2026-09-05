@@ -1,0 +1,47 @@
+{
+  "name": "Énloch",
+  "text": "Énloch, bird lake in Irish, is a lake near Mag Ai and Cruachain in what is today County Roscommon. In the older Connacht narratives the kings of that province are said to have convened gatherings of nobles beside the Énloch waters. MacKillop reads the form as a place of princely assembly in the Connacht tradition. The principal record sits under Mag Ai.",
+  "entities": [
+    {
+      "entity": "Énloch",
+      "type": "Place"
+    },
+    {
+      "entity": "Mag Ai",
+      "type": "Place"
+    },
+    {
+      "entity": "Cruachain",
+      "type": "Place"
+    },
+    {
+      "entity": "Connacht",
+      "type": "Place"
+    },
+    {
+      "entity": "County Roscommon",
+      "type": "Place"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Énloch",
+      "attribute": "Bird lake near Mag Ai; site of Connacht princely assemblies"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Énloch'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Énloch is a MacKillop signpost to Mag Ai.",
+    "key_results": [
+      "Cites Mag Ai as the canonical headword.",
+      "Lake near Cruachain in County Roscommon.",
+      "Site of Connacht assemblies."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Énloch'."
+  }
+}

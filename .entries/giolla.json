@@ -1,0 +1,43 @@
+{
+  "name": "giolla",
+  "text": "giolla is the modern Irish word for youth, page, gilly, or manservant. The term descends from Old Irish gilla. MacKillop notes that giolla, paired with an epithet, names a particular servant in Irish tales, for example Giolla na gCon or Giolla Deacair in the Fenian cycle. The headword giolla carries the same record as the variant spellings gille, gillie, and gilly. The Irish servant class of medieval tales draws the names directly from this word. MacKillop places giolla as the canonical headword for the entire family of servant names in Irish literature.",
+  "entities": [
+    {
+      "entity": "giolla",
+      "type": "Concept"
+    },
+    {
+      "entity": "Giolla na gCon",
+      "type": "Person"
+    },
+    {
+      "entity": "Giolla Deacair",
+      "type": "Person"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "giolla",
+      "attribute": "Modern Irish word for youth, page, manservant; descendant of OIr gilla"
+    },
+    {
+      "entity": "giolla",
+      "attribute": "Canonical headword for Irish servant characters in medieval literature"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'giolla'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "giolla is the MacKillop headword for the Irish servant class.",
+    "key_results": [
+      "Modern Irish word for youth, page, or manservant, from Old Irish gilla.",
+      "With an epithet, names specific story characters like Giolla na gCon.",
+      "Canonical headword for the family of servant names in medieval Irish literature."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'giolla'."
+  }
+}

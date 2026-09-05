@@ -16,6 +16,26 @@
     {
       "entity": "County Limerick",
       "type": "place"
+    },
+    {
+      "entity": "salmon",
+      "type": "Being"
+    },
+    {
+      "entity": "Jasconius",
+      "type": "Being"
+    },
+    {
+      "entity": "St Brendan",
+      "type": "Person"
+    },
+    {
+      "entity": "dolphin",
+      "type": "Being"
+    },
+    {
+      "entity": "Gallo-Roman altars",
+      "type": "Thing"
     }
   ],
   "attributes": [
@@ -34,25 +54,35 @@
     {
       "entity": "need-fire",
       "attribute": "made by rubbing planks of wood"
+    },
+    {
+      "entity": "salmon",
+      "attribute": "the most notable Celtic sea creature named in MacKillop"
+    },
+    {
+      "entity": "Jasconius",
+      "attribute": "the whale on which St Brendan and his followers landed"
     }
   ],
   "sources": [
-    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.",
+    "MacKillop 2008, s.v. 'fish'"
   ],
   "image": [
     "https://upload.wikimedia.org/wikipedia/commons/2/23/Georgia_Aquarium_-_Giant_Grouper_edit.jpg"
   ],
   "cyphertext": "jkpavVjBL7K1iNMjEFbHwK-1a7NQMePx4avZqLsDvedv4N4vFgDcXGw6Pi_uh88ai-IgEUn6IcGKSupglGsBEnLhaWH-hJqU7eZGevm8xyBsDyUg98mJojQiIkWl6UfsP1BgpPMBDioxbTMBYEVxgXRZ7pAWT13LAKwO9ZSKCQ__WOe_EofoXy9ZvUce8XHiCiZG9nCgjT2G1alRHg70BXbdeaGb1vG9Jh1wyAQROc1j4XAl-TLtsH1CzIZsQx0GNVQumgJvKSlr_Y_hvuod36nNZ2t-DN9Gw1SPH099GIwfKpLbhf2DjXtOwjkEQ-i29xJQsbhKxHjkjvsp8TNkPH0F19SnBIlREaTqHtGf7PHDaRF-X_xYmrpxlN18d1N-uqYXkaldl5Y_VtUocG_VZl2VvGrtqEj-phRv_Gv_TQfHOS-LXAIAbxTSKMDKoOjA0FsDGWXCBGaRRH7Cy_LmqIMXBB5vZuG4AsBY315a1bp8vR3FlIPk5GG5VMmyGc6Iq1Ur6TMm1syISVtetkutOFv9OoYrjsYMnUZvGVmXe8ZKkoSJ",
   "salt": "eboT2qFYWlK3BvJvUCJGNA==",
-  "text": "A fragment about a famine joins a protective fire ritual. In County Limerick, dancers received a tap from a cut reed to ward off illness. The reeds went into a fire, where the contagion burned away. Dancers leapt over the flames. People then used the ashes to bless their harvest and livestock. In Scotland, flame shielded and cleansed at the same time. One ritual carried a flame around a house, moving sunwise, to guard the building and its people. When famine or epidemic threatened, the need-fire served. Each hearth in that area was put out. A team of men rubbed planks of wood to strike a flame. Each family took a flame from the fresh fire home. The men doused the old fire and spread its ashes on cattle for protection.",
+  "text": "Fish held a thin place in the Celtic record. A famine fragment joins a protective fire ritual. In County Limerick, dancers received a tap from a cut reed to ward off illness. The reeds went into a fire, where the contagion burned away. Dancers leapt over the flames. People then used the ashes to bless their harvest and livestock. In Scotland, flame shielded and cleansed at the same time. One ritual carried a flame around a house, moving sunwise, to guard the building and its people. When famine or epidemic threatened, the need-fire served. Each hearth in that area was put out. A team of men rubbed planks of wood to strike a flame. Each family took a flame from the fresh fire home. The men doused the old fire and spread its ashes on cattle for protection. Pictish and Gallo-Roman altars rarely carried the sea creatures. Most named sea creatures in Celtic lore stand outside fish in the narrow sense. The salmon stands as the chief of them. St Brendan and his followers landed on the whale Jasconius.",
   "okr": {
-    "objective": "The fish entry records the protective fire ritual and the need-fire.",
+    "objective": "Record fish as a thin Celtic category with the salmon as the chief named sea creature.",
     "key_results": [
-      "The reeds were tossed into a fire to burn away illness.",
-      "Fire carried sunwise guarded a Scottish house.",
-      "The need-fire answered famine or epidemic.",
-      "Plank of wood rubbing struck the new flame."
+      "Reeds burned in a County Limerick fire drove away contagion.",
+      "Sunwise flame around a house guarded a Scottish household.",
+      "The need-fire answered famine or epidemic through plank-rubbing.",
+      "The salmon stood out as the named sea creature of the Celtic record.",
+      "St Brendan and his followers landed on the whale Jasconius."
     ],
-    "evidence": "Monaghan, Encyclopedia of Celtic Mythology and Folklore"
+    "evidence": "MacKillop 2008, s.v. 'fish'"
   }
 }

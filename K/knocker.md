@@ -2,67 +2,69 @@
 layout: layouts/pce.njk
 title: knocker
 icon: file-lines
-order: 1366
+order: 1613
 contributors: [ 'Christopher Godwin' ]
 attributes:
-  - Barker name
-  - fairy language language
-  - presence annoyance
-  - fairy tools left on his knee
-  - pain immense
-  - stiffness in his knees
-  - Cornish proverb stiff as Barker’s knee
+  - knocker ghostlike figure heard in Cornish mines
+  - knocker knocking grew louder near rich ore
+  - knocker disliked crosses and whistling
+  - Cornwall place where knockers were heard
+  - knocker MacKillop also lists knacker as a second headword spelling
+  - knocker MacKillop links the figure to ghosts of Jews who worked the mines in the 11th and 12th centuries
+  - knocker sometimes confused with the bucca
+  - knocker Welsh counterpart named the coblynau
+  - knocker gnomelike and for the most part harmless
+  - knocker stays out of sight of humans and cannot endure the sign of the Cross
+  - knocker logged under folk motifs F456, F456.1.1, F456.1.1.1, F456.1.2.1.1, F456.1.2.2.1, and M242
 categories:
-  - proper noun
-  - noun
+  - place
+  - location
+  - mythological creature
+  - Being
 entities:
-  - creatures(noun)
-  - man(noun)
-  - Barker(proper noun)
-  - fairy language(noun)
-  - presence(noun)
-  - fairy tools(noun)
-  - pain(noun)
-  - stiffness(noun)
-  - Cornish proverb(noun)
+  - knocker(mythological creature)
+  - mine(location)
+  - Cornwall(place)
+  - bucca(Being)
+  - coblynau(Being)
+  - knacker(Being)
 tags:
-  - creatures
-  - man
-  - Barker
-  - fairy language
-  - presence
-  - fairy tools
-  - pain
-  - stiffness
-  - Cornish proverb
+  - knocker
+  - mine
+  - Cornwall
+  - bucca
+  - coblynau
+  - knacker
 ---
 ``` tab [group1:Info]
 ::: magazinestyle
-In Cornish folklore, the knockers (also known as knackers) were mysterious creatures that caused strange knockings to be heard on the walls of mineshafts. Although nobody ever appeared after the eerie rapping, it was believed that these invisible knockers were actually the ghosts of long-dead miners, still working hard at their job. While some speculate that they might have been Jewish miners, who did indeed work in the Cornish mines, it is more likely that they were Fairies. The knockers were known to be helpful rather than harmful, as their knocking would grow louder as miners approached a rich vein of ore. However, they tended to haunt only the rich mines where tin could be extracted, and they did not bother with mined-out tunnels. If one were to say rude things about them, these spirits could turn vindictive, as they did not appreciate disrespect.  As such, miners traditionally took care not to wear crosses or leave tools crossing each other when leaving work at night, both of which were disliked by the knockers. Although singing in mines was completely acceptable, knockers did not like whistling. While they could be found haunting wells and caves occasionally, their main focus was on mines, and their relationship with miners was quite strong. These creatures were known to be private and did not appreciate being spied upon. There's a story about a man named Barker who managed to eavesdrop on them and even learn their fairy language. The creatures were so annoyed at his presence that they planned to leave their fairy tools on his knee, causing him to suffer immense pain and stiffness. From then on, people referred to the phrase "stiff as Barker's knee" to describe stiffness.
+Knockers are Cornish folkloric figures. Strange knockings were heard on mineshaft walls in Cornwall. No one appeared after the rapping, for the unseen knockers were the ghosts of miners dead long ago. They may have been Jews who toiled in the Cornish mines. Yet more likely they were fairies still at their work. The knockers were helpful. Their knocking swelled close to a rich seam of ore. They haunted only rich mines, preferably where tin promised a fortune. To hear a knocker brought good fortune, yet rude words could make them vengeful. Knockers disliked crosses, so miners avoided wearing them and left no tools crossing when going home at night. They disliked whistling, though singing was acceptable. Occasionally they haunted wells and caves, but they specialized in mines. MacKillop adds a second name, knacker, to the same headword. He traces the figure to ghosts of Jews who toiled in Cornish mines during the eleventh and twelfth centuries. The Cornish knockers share traits with the Welsh coblynau. They also get confused at times with the bucca. The gnomelike knocker stays harmless on the whole. It stays out of sight of humans and cannot bear the Cross. Folklorists log the knocker under several Aarne-Thompson motifs. F456 and its many sub-numbers carry the spirit-knocker story. M242 covers the mining-spirit pattern. Across these labels the same small worker of the deep stays a quiet companion to the Cornish tin miner.
 
 :::
 ```
 ``` tab [group1:Attributes]
-- **Barker**: name
-- **fairy language**: language
-- **presence**: annoyance
-- **fairy tools**: left on his knee
-- **pain**: immense
-- **stiffness**: in his knees
-- **Cornish proverb**: stiff as Barker’s knee
+- **knocker**: ghostlike figure heard in Cornish mines
+- **knocker**: knocking grew louder near rich ore
+- **knocker**: disliked crosses and whistling
+- **Cornwall**: place where knockers were heard
+- **knocker**: MacKillop also lists knacker as a second headword spelling
+- **knocker**: MacKillop links the figure to ghosts of Jews who worked the mines in the 11th and 12th centuries
+- **knocker**: sometimes confused with the bucca
+- **knocker**: Welsh counterpart named the coblynau
+- **knocker**: gnomelike and for the most part harmless
+- **knocker**: stays out of sight of humans and cannot endure the sign of the Cross
+- **knocker**: logged under folk motifs F456, F456.1.1, F456.1.1.1, F456.1.2.1.1, F456.1.2.2.1, and M242
 ```
 ``` tab [group1:Entities]
-- **creatures**: noun
-- **man**: noun
-- **Barker**: proper noun
-- **fairy language**: noun
-- **presence**: noun
-- **fairy tools**: noun
-- **pain**: noun
-- **stiffness**: noun
-- **Cornish proverb**: noun
+- **knocker**: mythological creature
+- **mine**: location
+- **Cornwall**: place
+- **bucca**: Being
+- **coblynau**: Being
+- **knacker**: Being
 ```
 ``` tab [group1:Sources]
 - Courtney, M. A. Cornish Feasts and Folklore. (Penzance: Beare and Son, 1890), 138.
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
+- MacKillop 2008, s.v. 'knocker'
 ```

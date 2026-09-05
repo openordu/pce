@@ -1,0 +1,33 @@
+{
+  "name": "ghillie",
+  "text": "ghillie is the anglicized spelling of the Scottish Gaelic word gille. MacKillop records the form as a cross-reference to the canonical headword gilla. The fuller record of the youth, page, or manservant sits under gilla. MacKillop lists ghillie alongside the spelling gillie in the same pointer entry.",
+  "entities": [
+    {
+      "entity": "ghillie",
+      "type": "Concept"
+    },
+    {
+      "entity": "gilla",
+      "type": "Concept"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "ghillie",
+      "attribute": "Anglicization of ScG gille; pointer to gilla headword"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'ghillie'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "ghillie is a MacKillop pointer headword resolving to gilla.",
+    "key_results": [
+      "Signpost cites the headword gilla for the full record."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'ghillie'."
+  }
+}

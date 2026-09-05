@@ -2,37 +2,75 @@
 layout: layouts/pce.njk
 title: washer at the ford
 icon: file-lines
-order: 2287
+order: 4594
 contributors: [ 'Christopher Godwin' ]
 attributes:
-  - she sometimes associated with the war goddess Badb
-  - she sometimes associated with the phantom queen Mórrígan
+  - washer at the ford a form of the banshee
+  - washer at the ford washes the clothes of the doomed in a river
+  - washer at the ford appeared as a small green woman with red webbed feet
+  - washer at the ford gives an accurate prophecy
+  - washer at the ford could break the bones of a spy
+  - washer at the ford appeared before battles
+  - Badb war goddess linked to the washer
+  - Mórrígan phantom queen linked to the washer
+  - washer at the ford MacKillop cross-record across Irish, Scottish Gaelic, Welsh, Breton tradition
 categories:
-  - goddess
-  - queen
+  - god
+  - mythological figure
+  - mythological creature
+  - Being
 entities:
-  - war goddess Badb(goddess)
-  - phantom queen Mórrígan(queen)
+  - washer at the ford(mythological figure)
+  - banshee(mythological figure)
+  - Badb(god)
+  - Mórrígan(god)
+  - fairy(mythological creature)
+  - Mórrígan(Being)
+  - Badb(Being)
+  - banshee(Being)
+  - bean nighe(Being)
 tags:
-  - war goddess Badb
-  - phantom queen Mórrígan
+  - washer at the ford
+  - banshee
+  - Badb
+  - Mórrígan
+  - fairy
+  - Mórrígan
+  - Badb
+  - banshee
+  - bean nighe
 ---
 ``` tab [group1:Info]
 ::: magazinestyle
-A folkloric figure of Irish and Scottish origin, the washer at the ford (also known as the bean nigh, bean nighe, washer-wife, or washing fairy), is considered to be a Banshee or death prophet. Usually seen before a death, this spectral woman can be found washing the clothes of the soon to-be-deceased in a river, stream, or small pool. Passersby could hear the splashing sounds of her slapping at the laundry in the cold water. She wears green garments and has red webbed feet, and despite it being conveyed that she could be the ghost of an unfinished laundress and a death prophet, most people agree that she is a member of the Fairy race. As is the case with others of her kind, the washer had prescience and could see things in the future beyond imminent death. Therefore, if someone catches a glimpse of her before she catches sight of them, they could demand a prophecy. These prophecies were always accurate, however, spying on the washer was a risky endeavour since she could injure anyone caught in the act by waving her washing and inflict broken bones. The washer commonly emerged before battles and had a considerable amount of work to do when that happened. The more brutal the battle, the bigger her workload. Due to this association with the war goddess Badb and the phantom queen Mórrígan.
+The washer at the ford is a form of the banshee. She is a death prophet who appears before a doom. She washes the clothes of the doomed one in a river or stream. Her slapping of the laundry made a rippling sound. She stood as a small woman dressed in green. Her feet were red and webbed. Some say she was a ghost who died in childbirth. Most say she belongs to the fairy folk. She could see the future and give an accurate prophecy. A person who spied on her first could ask for that prophecy. Spying carried a risk of broken bones. She appeared before battles with a large pile of washing. At times she joined the war goddess Badb and the phantom queen Mórrígan. MacKillop records the washer at the ford across the Irish, Scottish Gaelic, and Welsh oral record, with Breton instances probable. The persona may derive from the Mórrígan or Badb, and the figure is nearly synonymous with the banshee in Irish lore.
 
 :::
 ```
 ``` tab [group1:Attributes]
-- **she**: sometimes associated with the war goddess Badb
-- **she**: sometimes associated with the phantom queen Mórrígan
+- **washer at the ford**: a form of the banshee
+- **washer at the ford**: washes the clothes of the doomed in a river
+- **washer at the ford**: appeared as a small green woman with red webbed feet
+- **washer at the ford**: gives an accurate prophecy
+- **washer at the ford**: could break the bones of a spy
+- **washer at the ford**: appeared before battles
+- **Badb**: war goddess linked to the washer
+- **Mórrígan**: phantom queen linked to the washer
+- **washer at the ford**: MacKillop cross-record across Irish, Scottish Gaelic, Welsh, Breton tradition
 ```
 ``` tab [group1:Entities]
-- **war goddess Badb**: goddess
-- **phantom queen Mórrígan**: queen
+- **washer at the ford**: mythological figure
+- **banshee**: mythological figure
+- **Badb**: god
+- **Mórrígan**: god
+- **fairy**: mythological creature
+- **Mórrígan**: Being
+- **Badb**: Being
+- **banshee**: Being
+- **bean nighe**: Being
 ```
 ``` tab [group1:Sources]
 - McKay, John G. More West Highland Tales. Vol. 2. Scottish Anthropological and Folklore Society. Edinburgh: Oliver and Boyd, 1969, 32.
 - Spence, Lewis. The Minor Traditions of British Mythology. (New York: Benjamin Blom, Inc., 1972), 22.
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
+- MacKillop 2008, s.v. 'washer at the ford'
 ```

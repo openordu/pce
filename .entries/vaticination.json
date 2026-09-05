@@ -1,0 +1,33 @@
+{
+  "name": "vaticination",
+  "text": "vaticination is a MacKillop cross-reference pointing to the canonical divination headword. MacKillop reads the form as a synonym pointer to the wider record of Celtic prophecy and augury. The principal survey sits under divination.",
+  "entities": [
+    {
+      "entity": "vaticination",
+      "type": "Concept"
+    },
+    {
+      "entity": "divination",
+      "type": "Concept"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "vaticination",
+      "attribute": "MacKillop synonym-pointer to divination"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'vaticination'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "vaticination is a MacKillop signpost to divination.",
+    "key_results": [
+      "Cites divination as the canonical headword."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'vaticination'."
+  }
+}

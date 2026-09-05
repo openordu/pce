@@ -12,6 +12,18 @@
     {
       "entity": "swan",
       "attribute": "hurting one brought bad luck on the community"
+    },
+    {
+      "entity": "swan",
+      "attribute": "MacKillop headword cross-refers to the sunken-cities tradition"
+    },
+    {
+      "entity": "Shannon City",
+      "attribute": "emerges once each seven years and dooms to death any mortal who sees it"
+    },
+    {
+      "entity": "Lancarrow",
+      "attribute": "Cornish sunken city that lies beneath the sands"
     }
   ],
   "entities": [
@@ -26,23 +38,53 @@
     {
       "entity": "nun",
       "type": "Person"
+    },
+    {
+      "entity": "Lough Neagh",
+      "type": "Place"
+    },
+    {
+      "entity": "Lough Ree",
+      "type": "Place"
+    },
+    {
+      "entity": "Shannon River",
+      "type": "Place"
+    },
+    {
+      "entity": "Shannon City",
+      "type": "Place"
+    },
+    {
+      "entity": "Lancarrow",
+      "type": "Place"
+    },
+    {
+      "entity": "Tír fo Thuinn",
+      "type": "Concept"
     }
   ],
   "sources": [
-    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.",
+    "MacKillop 2008, s.v. 'swan'"
   ],
   "image": [
     "https://upload.wikimedia.org/wikipedia/commons/1/12/Cygnus_olor_2_%28Marek_Szczepanek%29.jpg"
   ],
   "cyphertext": "Lwfc5hqtNvhvsXTvgTGwkJeteeTM1N5x1x7ZMNqBkgA26vBodiWOcOzZr1uqWDIKhM2R877TogXnKMLqS1yZVIKiPEOohRVrNg5UNrYGmOZ7TV74mqV7CQ35IYWTZc8fl7GCNNgy_qeUO5tLGgnrKlZ7JFbPQold5731wZEZi_ZY8r4-KJahATJ2dtMIJbKQi9I7QoGHd9HugkFaR4RzkdE16nOYgAchIwg8RuWpXy6ORrQPLpbEJVlJvQrb26Zzy1_SdknKz3Cd4h4BJMVBuA8osCPTxPFDaPJOVpcK_QZnhxSJGDuZYGs-o-PVYJfk53G3DvEAL-J2ZLv7v60ereHM6zwA2YNCK_LNbW3SuirsWLx4kMqAnEJPh8Aa7SWj9oY_uuUHC9s5giDZ7HG8e52Ieo-SJxWCM4fQrUNKumPfkGjn38fcr8S1ZjBO60PpvjPwBo-ZeMyGadDC-cMZv_uQOXWvpNdFleFbXMTEY1zE0t99mJh0yKueQGBMVLqStEvesLRoNPoqfC0DaGnOMCkpS45xraNwxPOQYZaFMD8zDqhmGI16KcYcOmj1JfVDjXR3inNZqyNgtW_s590zJs1pDQKx2Jg=",
   "salt": "g-CC9LFZpIypZjQYNn2kRQ==",
-  "text": "The swan is a folkloric bird. The swan was often seen as a transformed human, much like the seal. Occasionally the swan was believed to be a bewitched nun. A person who saw seven swans flying could expect seven years of good luck. A flock of a multiple of seven brought that many more years of good fortune. To hurt or kill a swan brought bad luck on the person and on the whole community. The swan therefore held a protected place in the belief of the people. It was not a bird for the table but a being of the water that carried a hidden human form.",
+  "text": "The swan is a folkloric bird of the Celtic lands. The swan was often seen as a transformed human, much like the seal. Occasionally the swan was believed to be a bewitched nun. A person who saw seven swans flying could expect seven years of good luck. A flock of a multiple of seven brought that many more years of good fortune. To hurt or kill a swan brought bad luck on the person and on the whole community. The swan therefore held a protected place in the belief of the people. It was not a bird for the table but a being of the water that carried a hidden human form. In the MacKillop entry the headword swan also points to the sunken-cities tradition. Welsh lore, Irish lore, and Cornish lore all carry stories of drowned cities. In Ireland three such cities lie under named waters. Lough Neagh covers one, Lough Ree covers another, and the Shannon River covers a third. Shannon City emerges once each seven years, and any mortal who sees it is doomed to die. In Cornish tradition the city of Lancarrow lies beneath the sands. The sunken-cities thread is gathered under the Irish name Tír fo Thuinn, Land Under Wave. Readers of the sunken-cities material may follow the MacKillop article for further sources.",
   "okr": {
-    "objective": "Replace the weak machine text for swan with a fresh CSG-SME1000 rewrite from Monaghan.",
+    "objective": "Document the swan as a folkloric bird seen as a transformed human and link the MacKillop headword to its sunken-cities cross-reference.",
     "key_results": [
-      "text is a fresh CSG-SME1000 rewrite of the folkloric swan",
-      "entities and attributes corrected and enriched"
+      "The text records the swan as a folkloric bird of transformed human shape, like the seal",
+      "The text keeps the belief in a bewitched nun for some swans",
+      "The text keeps the seven-swans rule of seven years good luck and its multiple",
+      "The text keeps the bad-luck consequence of harming a swan for the whole community",
+      "The text notes that the swan is a being of the water with a hidden human form",
+      "The text adds the MacKillop cross-reference to Welsh, Irish, and Cornish sunken cities",
+      "The text names Lough Neagh, Lough Ree, the Shannon River, Shannon City, Lancarrow, and Tír fo Thuinn"
     ],
-    "evidence": "Monaghan 2003 (swan, seal, changed human, bewrapped nun, seven swans)."
+    "evidence": "MacKillop 2008, s.v. 'swan'"
   }
 }

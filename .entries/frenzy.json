@@ -1,0 +1,34 @@
+{
+  "name": "frenzy",
+  "text": "frenzy is a MacKillop cross-reference headword that points the reader to the entry for battle fury. The 2008 Dictionary of Celtic Mythology places the full record of the warrior's contortion under the canonical headword battle fury. Related terms MacKillop gathers beside it include warp spasm, the heroic battle fit of Cúchulainn. No independent entry sits under frenzy in the 2008 dictionary.",
+  "entities": [
+    {
+      "entity": "frenzy",
+      "type": "Concept"
+    },
+    {
+      "entity": "battle fury",
+      "type": "Concept"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "frenzy",
+      "attribute": "MacKillop pointer headword resolving to battle fury"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'frenzy'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "frenzy is a MacKillop pointer headword.",
+    "key_results": [
+      "Pointer cites the headword battle fury for the full record.",
+      "Related term warp spasm is the heroic battle fit of Cúchulainn."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'frenzy'."
+  }
+}

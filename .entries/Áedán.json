@@ -1,0 +1,51 @@
+{
+  "name": "Áedán",
+  "text": "Áedán is a diminutive of the Irish name Áed. The form occurs widely across early Ireland and Gaelic Scotland, borne by no fewer than twenty-three saints and by many figures in lore. Common anglicized forms include Aidan and Edan. The saint-bearers span the foundation narratives of Iona and Lindisfarne. The legendary Áedáns include warriors and poets. The form stands as a generic Gaelic name covering all those bearers.",
+  "entities": [
+    {
+      "entity": "Áedán",
+      "type": "Person"
+    },
+    {
+      "entity": "Iona",
+      "type": "Place"
+    },
+    {
+      "entity": "Lindisfarne",
+      "type": "Place"
+    },
+    {
+      "entity": "Áed",
+      "type": "Person"
+    },
+    {
+      "entity": "Gaelic Scotland",
+      "type": "Place"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Áedán",
+      "attribute": "Diminutive of Áed; common Gaelic name borne by at least 23 saints"
+    },
+    {
+      "entity": "Áedán",
+      "attribute": "Anglicized forms include Aidan and Edan"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Áedán'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Áedán is the MacKillop headword for the common Gaelic saint-name.",
+    "key_results": [
+      "Diminutive of the name Áed.",
+      "At least twenty-three saints bore the name.",
+      "Anglicizations include Aidan and Edan."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Áedán'."
+  }
+}

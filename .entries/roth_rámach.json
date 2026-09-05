@@ -1,0 +1,43 @@
+{
+  "name": "roth rámach",
+  "text": "roth rámach names the fabulous flying machine constructed in Christian legend by Simon Magus with the help of Mug Ruith. The craft appeared at the gathering of Tlachtga, a site named for the daughter of Mug Ruith. Later tradition reads the machine as a deadly contraption that would cross Europe before Judgement Day. The punishment runs through the way each nation sent disciples to Simon Magus. Mug Ruith grounds the wider legend of the contraption.",
+  "entities": [
+    {
+      "entity": "roth rámach",
+      "type": "Thing"
+    },
+    {
+      "entity": "Simon Magus",
+      "type": "Person"
+    },
+    {
+      "entity": "Mug Ruith",
+      "type": "Person"
+    },
+    {
+      "entity": "Tlachtga",
+      "type": "Place"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "roth rámach",
+      "attribute": "Flying machine of Simon Magus and Mug Ruith in Christian legend"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'roth rámach'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "roth rámach is the MacKillop headword for the flying-machine legend.",
+    "key_results": [
+      "Flying machine built by Simon Magus with Mug Ruith.",
+      "Sighted at the fair of Tlachtga.",
+      "Read as engine of destruction before Judgement Day."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'roth rámach'."
+  }
+}

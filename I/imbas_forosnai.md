@@ -2,45 +2,58 @@
 layout: layouts/pce.njk
 title: imbas forosnai
 icon: file-lines
-order: 1280
+order: 4485
 contributors: [ 'Christopher Godwin' ]
 attributes:
-  - imbas forosnai divination system
-  - Irish Druids used for divination
-  - illumination between the hands refers to the second stage of the ritual
-  - Bard or seer chewed on raw meat
-  - seer slept with palms on cheeks
+  - imbas forosnai an Irish Druidic divination system used to find hidden objects and learn secrets
+  - imbas forosnai a ritual where the seer chewed raw meat, then slept with palms on cheeks to dream the answer
+  - imbas forosnai MacKillop treats this form as the most consistent variant spelling for the Irish Druidic divination system.
 categories:
-  - divination system
-  - mythical place
-  - group of people
+  - Concept
+  - Place
+  - Group
+  - Person
 entities:
-  - imbas forosnai(divination system)
-  - Irish Druids(group of people)
-  - Otherworld(mythical place)
+  - imbas forosnai(Concept)
+  - imbus forosna(Concept)
+  - himbas forosnai(Concept)
+  - Irish Druids(Group)
+  - bard(Group)
+  - Otherworld(Place)
+  - divination(Concept)
+  - Patrick(Person)
 tags:
   - imbas forosnai
+  - imbus forosna
+  - himbas forosnai
   - Irish Druids
+  - bard
   - Otherworld
+  - divination
+  - Patrick
 ---
 ``` tab [group1:Info]
 ::: magazinestyle
-Imbas Forosnai, also known as Imbus Forosna or Himbas Forosnai, was a divination system utilized by Irish Druids to reveal the location of hidden or stolen objects or to unravel secrets not meant for public knowledge. The second phase of the ritual, referred to as "illumination between the hands," involved the Bard or seer consuming raw meat that was subsequently offered to the powers of the Otherworld. The seer was supposed to receive the answer to the query by the next day, but if that did not occur, the second phase was initiated. This included the seer uttering incantations into their hands, sleeping with their palms on their cheeks, and dreaming the answer to the questions posed.
+Imbas forosnai is an Irish divination system. It is also called imbus forosna or himbas forosnai. The Irish Druids used it. It found hidden or stolen objects. It also learned secrets kept from public knowledge. The term illumination between the hands names the second stage of the ritual. First the bard or seer chewed raw meat. The meat was then offered to the powers of the Otherworld. The answer was to come to the seer by the next day. If it did not, the second stage began. The seer spoke incantations into his or her hands. The seer then slept with palms on cheeks and dreamed the answer. MacKillop records imbas forosnai as the most consistent spelling for the Irish Druidic divination system. Saint Patrick famously practiced the art.
 
 :::
 ```
 ``` tab [group1:Attributes]
-- **imbas forosnai**: divination system
-- **Irish Druids**: used for divination
-- **illumination between the hands**: refers to the second stage of the ritual
-- **Bard or seer**: chewed on raw meat
-- **seer**: slept with palms on cheeks
+- **imbas forosnai**: an Irish Druidic divination system used to find hidden objects and learn secrets
+- **imbas forosnai**: a ritual where the seer chewed raw meat, then slept with palms on cheeks to dream the answer
+- **imbas forosnai**: MacKillop treats this form as the most consistent variant spelling for the Irish Druidic divination system.
 ```
 ``` tab [group1:Entities]
-- **imbas forosnai**: divination system
-- **Irish Druids**: group of people
-- **Otherworld**: mythical place
+- **imbas forosnai**: Concept
+- **imbus forosna**: Concept
+- **himbas forosnai**: Concept
+- **Irish Druids**: Group
+- **bard**: Group
+- **Otherworld**: Place
+- **divination**: Concept
+- **Patrick**: Person
 ```
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
+- MacKillop 2008, s.v. 'imbas forosnai'
 ```

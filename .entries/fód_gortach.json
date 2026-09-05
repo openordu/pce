@@ -1,0 +1,34 @@
+{
+  "name": "fód gortach",
+  "text": "fód gortach is the Irish phrase for hungry ground, the enchanted sod that makes a traveller lose their way. MacKillop places the fuller record under the headword hungry grass in the 2008 dictionary. The phrase joins fód (a piece of earth or sod) with gortach (hungry or famine-stricken) in Irish. No independent entry sits under fód gortach in the 2008 dictionary.",
+  "entities": [
+    {
+      "entity": "fód gortach",
+      "type": "Concept"
+    },
+    {
+      "entity": "hungry grass",
+      "type": "Concept"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "fód gortach",
+      "attribute": "Irish phrase for hungry ground, pointing to hungry grass"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'fód gortach'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "fód gortach is a MacKillop pointer headword.",
+    "key_results": [
+      "Pointer cites the headword hungry grass for the full record.",
+      "Combines fód = sod with gortach = hungry in Irish."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'fód gortach'."
+  }
+}

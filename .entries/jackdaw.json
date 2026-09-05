@@ -1,0 +1,43 @@
+{
+  "name": "jackdaw",
+  "text": "jackdaw is the MacKillop headword for the small European crow species Corvus monedula. The bird resembles the common crow but belongs to its own species within the wider corvid family. Celtic oral traditions sometimes attribute speech to the jackdaw, giving it a voice of warning or mockery. MacKillop records a specific story of jackdaws from Kilgarvan in County Kerry asking to enter the town to escape the depredations of crows. The Irish tradition treats the bird as a community actor with its own culture and grievance against the larger crow species.",
+  "entities": [
+    {
+      "entity": "jackdaw",
+      "type": "Animal"
+    },
+    {
+      "entity": "crow",
+      "type": "Animal"
+    },
+    {
+      "entity": "Kerry",
+      "type": "Place"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "jackdaw",
+      "attribute": "European corvid (Corvus monedula) sometimes represented as talking in Celtic traditions"
+    },
+    {
+      "entity": "jackdaw",
+      "attribute": "Kilgarvan jackdaws asked to enter the town to escape crows"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'jackdaw'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "jackdaw is the MacKillop headword for the talking crow of Celtic folklore.",
+    "key_results": [
+      "The jackdaw resembles the crow but is a distinct species.",
+      "Celtic traditions attribute speech to the bird.",
+      "Kilgarvan jackdaws asked the townspeople for refuge from crows."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'jackdaw'."
+  }
+}

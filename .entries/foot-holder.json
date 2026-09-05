@@ -1,0 +1,42 @@
+{
+  "name": "foot-holder",
+  "text": "foot-holder names an officer in the courts of medieval Welsh kings. The Welsh laws designate a male foot-holder whose duty is to support the king. The Mabinogi records an exception to that male office in the person of Math's foot-holder, the virgin Goewin. The role appears in MacKillop as a piece of medieval Welsh court terminology in the 2008 Dictionary of Celtic Mythology. The function survives in no living court today.",
+  "entities": [
+    {
+      "entity": "foot-holder",
+      "type": "Concept"
+    },
+    {
+      "entity": "Mabinogi",
+      "type": "Text"
+    },
+    {
+      "entity": "Math",
+      "type": "Person"
+    },
+    {
+      "entity": "Goewin",
+      "type": "Person"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "foot-holder",
+      "attribute": "Medieval Welsh court officer supporting the king"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'foot-holder'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "foot-holder is a headword in MacKillop's Dictionary of Celtic Mythology.",
+    "key_results": [
+      "Welsh law designates the office as male; Goewin is the documented exception.",
+      "Role recorded in the Mabinogi."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'foot-holder'."
+  }
+}

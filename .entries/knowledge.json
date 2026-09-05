@@ -1,0 +1,47 @@
+{
+  "name": "knowledge",
+  "text": "knowledge in Celtic tradition names a deeper kind of knowing than the English word usually implies. Celtic knowing is esoteric and metaphysical, more akin to inspired perception than accumulated erudition. The Celts treated knowledge as something the seer received rather than something the student acquired. Knowledge often derived from dead ancestors, who passed it down through the otherworld. Fionn mac Cumhaill touches the salmon of knowledge and gains wisdom that guides him for the rest of his life. MacKillop treats Celtic knowledge as a gift from beyond, not the product of human study. The tradition links wisdom to death, inspiration, and the otherworld rather than to learning alone.",
+  "entities": [
+    {
+      "entity": "knowledge",
+      "type": "Concept"
+    },
+    {
+      "entity": "Fionn mac Cumhaill",
+      "type": "Character"
+    },
+    {
+      "entity": "salmon of knowledge",
+      "type": "Being"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "knowledge",
+      "attribute": "Celtic conception of knowing as inspired esoteric perception, not erudition"
+    },
+    {
+      "entity": "knowledge",
+      "attribute": "Often derived from dead ancestors and the otherworld"
+    },
+    {
+      "entity": "knowledge",
+      "attribute": "Fionn mac Cumhaill acquires it through touching the salmon of knowledge"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'knowledge'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "knowledge is the MacKillop headword for the Celtic conception of esoteric knowing.",
+    "key_results": [
+      "Celtic knowing is inspired rather than acquired.",
+      "Knowledge often derives from dead ancestors and the otherworld.",
+      "Fionn mac Cumhaill gains wisdom through the salmon of knowledge."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'knowledge'."
+  }
+}

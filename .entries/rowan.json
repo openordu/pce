@@ -28,6 +28,126 @@
         {
             "entity": "Otherworld",
             "type": "location"
+        },
+        {
+            "entity": "Sorbus aucuparia",
+            "type": "plant"
+        },
+        {
+            "entity": "quicken tree",
+            "type": "plant"
+        },
+        {
+            "entity": "ogham",
+            "type": "Concept"
+        },
+        {
+            "entity": "Luis",
+            "type": "Concept"
+        },
+        {
+            "entity": "Tuatha Dé Danann",
+            "type": "Tribe"
+        },
+        {
+            "entity": "Tir Taimgire",
+            "type": "Place"
+        },
+        {
+            "entity": "Tochmarc Étaíne",
+            "type": "Concept"
+        },
+        {
+            "entity": "Fuamnach",
+            "type": "Person"
+        },
+        {
+            "entity": "Étaín",
+            "type": "Person"
+        },
+        {
+            "entity": "Ailill mac Máta",
+            "type": "Person"
+        },
+        {
+            "entity": "Fráech",
+            "type": "Person"
+        },
+        {
+            "entity": "Gráinne",
+            "type": "Person"
+        },
+        {
+            "entity": "Diarmait",
+            "type": "Person"
+        },
+        {
+            "entity": "salmon of knowledge",
+            "type": "Being"
+        },
+        {
+            "entity": "Isle of Man",
+            "type": "Place"
+        },
+        {
+            "entity": "crosh cuim",
+            "type": "Artifact"
+        },
+        {
+            "entity": "Beltaine",
+            "type": "Concept"
+        },
+        {
+            "entity": "Brúidhean Chaorthainn",
+            "type": "Concept"
+        },
+        {
+            "entity": "druids",
+            "type": "Person"
+        },
+        {
+            "entity": "hawthorn",
+            "type": "plant"
+        },
+        {
+            "entity": "yew",
+            "type": "plant"
+        },
+        {
+            "entity": "oak",
+            "type": "plant"
+        },
+        {
+            "entity": "Gaul",
+            "type": "Place"
+        },
+        {
+            "entity": "Irish",
+            "type": "Concept"
+        },
+        {
+            "entity": "Scottish Gaelic",
+            "type": "Concept"
+        },
+        {
+            "entity": "Manx",
+            "type": "Concept"
+        },
+        {
+            "entity": "Welsh",
+            "type": "Concept"
+        },
+        {
+            "entity": "Cornish",
+            "type": "Concept"
+        },
+        {
+            "entity": "Breton",
+            "type": "Concept"
+        },
+        {
+            "entity": "ash",
+            "type": "plant"
         }
     ],
     "attributes": [
@@ -50,25 +170,84 @@
         {
             "entity": "rowan",
             "attribute": "grew near stone circles and old ruins"
+        },
+        {
+            "entity": "rowan",
+            "attribute": "botanical name Sorbus aucuparia, the quicken tree or mountain ash"
+        },
+        {
+            "entity": "rowan",
+            "attribute": "white flower clusters and orange-red berries"
+        },
+        {
+            "entity": "rowan",
+            "attribute": "signified by the birch-letter Luis in the ogham alphabet of early Ireland"
+        },
+        {
+            "entity": "rowan",
+            "attribute": "preferred by Irish druids over the oak favoured by Gaulish druids, alongside hawthorn and yew"
+        },
+        {
+            "entity": "rowan",
+            "attribute": "brought to Ireland by the Tuatha Dé Danann from Tir Taimgire"
+        },
+        {
+            "entity": "Étaín",
+            "attribute": "transformed into water by Fuamnach using a rowan wand in Tochmarc Étaíne"
+        },
+        {
+            "entity": "Fráech",
+            "attribute": "sent by Ailill mac Máta to fetch rowan"
+        },
+        {
+            "entity": "Diarmait",
+            "attribute": "asked by Gráinne to bring back rowan"
+        },
+        {
+            "entity": "rowan",
+            "attribute": "rowanberries credited with renewing youth and bringing a man of 160 years back to his prime"
+        },
+        {
+            "entity": "Otherworld",
+            "attribute": "blessed dead rest under woven roofs of quicken boughs"
+        },
+        {
+            "entity": "salmon of knowledge",
+            "attribute": "feeds on rowanberries"
+        },
+        {
+            "entity": "rowan",
+            "attribute": "twigs made into crosh cuim hung over doorways and tucked into the long tails of cattle on the Isle of Man"
+        },
+        {
+            "entity": "rowan",
+            "attribute": "Manx folk carried boughs at Beltaine May Day rites"
         }
     ],
     "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.",
+        "MacKillop 2008, s.v. 'rowan'"
     ],
     "image": [
         "https://upload.wikimedia.org/wikipedia/commons/d/d7/Rowanberries_in_late_August_2004_in_Helsinki.jpg"
     ],
     "cyphertext": "Ab2Pg5OjqRrGkhnjsBetiPJizOk_zfAMwFNbdFF1KpZgBPOR3J0p3bCUUKaiOtyyusbbYO3S19-bUHpv78SkTP8pZIEyDmW3mfgMqpA56ypS89y_MDj0Bv_tgIwY8kkjUIL3jPQh_9bV581XBONyrgo4z5DQ1rYSJeQkPdVxeHPIsbJC-s_eMdlpWHHF_THhxeoK0xBxOkGWoXb3TATpT2bbWZJeHQjy4sRLPpCdpg34yQFvPrMFd1fFl-gzVZz1c0u-TX1fF514aTT61tciRBXKm-kJvFBkTZ_R6EzBwF0m8Tx5X02TRihAXu55Vdw-w_qh_v-cv7k1m8dwlRYaj5i3sk1ZVzMth2Gqm1QJPm4og7H3Tmr_M8AzviWCsOnkCkPdlCScpL5S3Of4NOlubdrhqfmhWw1lix4LjGyFdkEvLfYOGobDOdDCKg3WrwaT42Cu3jeIKlXgir8PV1DtoZ-iIt_clabiJQsyzC6QovuqaiJpkCKMO_8jDA5UiDf-gI_mWqcc7pPPb3Z0HhbdmOItFg6ejw2eT29yCxWl_USmSgY9Dv-KJToNppo3OTkcIvTcjex5gRhqVt8_nLREwK52_cpountyv76Izf2wq2VQjckW_mXwlNVUESLRFf7IA9L_YvvzR8g8fIUmQZ4V4429s8xg8YMwXDActzaOyzjUXnPF7U444RUaGDlcVCSGbyzAGA80m-FWLng3jhJ8xSqCRTX9_IdblGX631aeTy4NyU8nGkyuxOLXodeegIHB4yQviPcJ3tZPKXD514WnDj2Kz7n9a3XUKasWlBk5bIvqAeYXvGSc0_kBBCZC-ff9biZwRFvDdT5QeswwriaT0koBfDa1xGlT5vAUTFtXRQv08PVDktLx8K2T3XQU4jbxZJbwNXXNtEJ4kX9AMXVLqIRBulRgoj9qGLGLpmiPrzAItmM_ua_YOIppu_zg0dFKnW_cvgldIAqzNZVKE1SZEPnYFciKxptbc1vI3lj3N6WLIJWCqSCwV3yRoiEWs4rQQ5qkxXGw5hhRvREdrxQG-VrihyqPKudUbuZr3zHikfEMs01PMd4I-MgbUFZXHjhIOkK-pVPnq_1RXd0-pt1rJPFo2jAFRoxH0-isGB4OS8ZI_Qa7msiJA2okkKm23fGWNJuZNrrOe1m_c7KuMxREkvERnxUtrnyqKnV3B3iHUsh7KTuh9fWyvM7jGNph2MMnrnvABBUA049vcUAUO4DSKR8VHXRYxYxLPAPoPSlTLTGcQfHugGQz0xDaFZ8V_sjIKAZGAwcKvlOxWIE6OReg73RHMwwnsbi-FORnvjonBYimXv1P8-E_2W0JGRk1MlWVPVocwlHdn42KE0zl-fx5cX2bE8PHkxUFtuS1T_jmLUO6AuMGtSMExLCYwwzX80OrLSFfkjbHX_E4F9vOulbeijzKe-DNGewTnpQPOKmOOJNf9eetOWbq6bJtzuPjwD2CAB5icJI14VUdXKUyWBpGuvgMq6veIz3ZwGmHkipGCWY78vU3TD3hLt8uLpBaX0ozlP0hwktW4zNlt1cL-Id1y78DnwInyxYWJ_Sn8FJMdof_26s3bDgELRxMl0r6P-komMGXr4nqCd4eTK8GcaHZchYutUGlNUthT68vW0agHrzYriyIP6kUWcp54zeKD41jhUD03AAFJxjdT6o29sdvLg-qhD-powghYumLYHmweHw--kKKdoO5O0wv-FOwdAZgsJG20LhRqroZIQIN740PVM5kBgxe2608gdwcBRJLPulvQQNQRsclk_GrF_2WLRRQpLzjL1zPmSpv6aid3MsrqkzE4hRhXckukEhn1u5ZLbdpkEskmPJPOo8AcvArkIe-4V-VGhlGcobAFwXMhg-0BZCPfDxbWpY3obucX8CT_kV19aKAyYLAKrkaIXc=",
     "salt": "ZECWE5L1miSCZuXOrzHsHg==",
-    "text": "The rowan is the mountain ash, a protective tree. People tied rowan crosses to the necks of cattle. Elder leaves set on windows and doors turned back fairy power. The tree grows near stone circles and old ruins. People planted it by homes and along property lines. Its wood guarded against witches and the evil eye. A fairy can leave its mark in the dew. People gathered that dew and used it.",
+    "text": "The rowan is the mountain ash, a protective tree. People tied rowan crosses to the necks of cattle. Elder leaves set on windows and doors turned back fairy power. The tree grows near stone circles and old ruins. People planted it by homes and along property lines. Its wood guarded against witches and the evil eye. A fairy can leave its mark in the dew. People gathered that dew and used it. MacKillop calls the rowan the small deciduous tree known to science as Sorbus aucuparia. Folk names include the quicken tree and mountain ash. White flower clusters and orange-red berries mark the species out across Celtic lands. Within early Irish ogham the birch-letter Luis stood for rowan. Irish druids preferred rowan, hawthorn, and yew where Gaulish druids preferred oak. MacKillop credits the Tuatha Dé Danann, a semi-divine race, with bringing the rowan to Ireland. They brought it out of Tir Taimgire, the fabled Land of Promise. In the tale Tochmarc Étaíne the jealous Fuamnach reduces Étaín to water by hitting her with a rowan wand. Ailill mac Máta sends Fráech to fetch the tree, much as Gráinne insists that Diarmait bring some back. Rowanberries were credited with renewing youth. A man of 160 years could be brought back to his prime by their honeyed taste. The blessed dead lie beneath woven roofs of quicken boughs. The Salmon of Knowledge feeds on the berries. Across every strand of Celtic fairy lore the rowan gave the strongest defence against enchantments and witchcraft. On the Isle of Man twigs were bound into crosh cuim. They were hung over doorways. They were tucked into the long tails of cattle for protection. Manx folk also carried rowan boughs at Beltaine, the May Day rites. Linguistic variants include Old Irish luis, Scottish Gaelic caorunn, Manx keim, Welsh cerddinen, Cornish kerdhynen, and Breton kerzhinenn. The Brúidhean Chaorthainn tale and the ash tree entry offer further detail.",
     "okr": {
-        "objective": "The rowan is the protective mountain ash of Celtic lore.",
+        "objective": "The rowan is the protective mountain ash of Celtic lore, rich in ogham, literary, and folk belief.",
         "key_results": [
             "The rowan is the mountain ash, a protective tree.",
             "Rowan crosses tied to cattle necks guarded the herd.",
             "Elder leaves on windows and doors turned back fairy power.",
-            "Its wood guarded against witches and the evil eye."
+            "Its wood guarded against witches and the evil eye.",
+            "The rowan is the small deciduous tree Sorbus aucuparia, also called the quicken tree.",
+            "The birch-letter Luis of ogham signified the rowan in early Ireland.",
+            "Irish druids preferred the rowan to the oak of Gaulish druids.",
+            "The Tuatha Dé Danann were said to have brought the rowan from Tir Taimgire.",
+            "Rowanberries were credited with renewing youth and feeding the Salmon of Knowledge.",
+            "On the Isle of Man crosh cuim were hung over doorways and tucked into cattle tails."
         ],
-        "evidence": "Monaghan, Encyclopedia of Celtic Mythology and Folklore"
+        "evidence": "MacKillop, Dictionary of Celtic Mythology, s.v. 'rowan'."
     }
 }

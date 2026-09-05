@@ -1,0 +1,36 @@
+{
+  "name": "tarbh uisge",
+  "text": "tarbh uisge, the Scottish Gaelic water-bull, is the malevolent bull of Highland folklore. By night the creature rises from the sea to menace the countryside. The beast is huge and black, with a head the color of a thunder cloud and nostrils redder than lightning. Its great bull neck parts the waves as it swims. Calves born with split ears are said to have been sired by the tarbh uisge. Farmers traditionally slaughter such calves at birth to spare the herd disaster. The wider family also includes the tarroo ushtey.",
+  "entities": [
+    {
+      "entity": "tarbh uisge",
+      "type": "Being"
+    },
+    {
+      "entity": "tarroo ushtey",
+      "type": "Being"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "tarbh uisge",
+      "attribute": "Malevolent Scottish Gaelic water-bull; fathers split-eared calves"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'tarbh uisge'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "tarbh uisge is the MacKillop headword for the Scottish Gaelic water-bull.",
+    "key_results": [
+      "Malevolent bull of Scottish Gaelic tradition.",
+      "Emerges from the sea by moonlight.",
+      "Fathers split-eared calves that must be killed.",
+      "Related to tarroo ushtey."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'tarbh uisge'."
+  }
+}

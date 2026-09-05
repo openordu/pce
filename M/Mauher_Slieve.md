@@ -2,71 +2,63 @@
 layout: layouts/pce.njk
 title: Mauher Slieve
 icon: file-lines
-order: 1582
+order: 4427
 contributors: [ 'Christopher Godwin' ]
 attributes:
-  - Mauher Slieve Irish mythological site
-  - Province of Munster southwestern
-  - mountains named for goddesses
-  - Co. Tipperary center of a group of 12 mountains
-  - hill called Mauher Slieve
-  - Mother Mountain traditional site of celebrations for the Celtic harvest feast of Lughnasa
-  - Book Of Invasions some versions say that the goddess of the Mother Mountain was Fódla, one of Ireland’s Three major earth goddesses
+  - Mauher Slieve an Irish mythological site whose name means Mother Mountain
+  - Mauher Slieve a hill in Tipperary among twelve mountains named for the goddess Ebhlinne
+  - Mauher Slieve a traditional site of celebrations for the harvest feast of Lughnasa
+  - Mauher Slieve linked in some versions of the Book of Invasions to the goddess Fodla
 categories:
-  - County
-  - Celtic harvest feast
-  - Province
-  - country
-  - goddess
-  - earth goddess
-  - mountain
+  - Concept
+  - Place
+  - Person
+  - Artifact
 entities:
-  - Mauher Slieve(mountain)
-  - Munster(Province)
-  - Áine(goddess)
-  - Mis(goddess)
-  - Tipperary(County)
-  - Ébhlinne(goddess)
-  - Lughnasa(Celtic harvest feast)
-  - Fódla(earth goddess)
-  - Ireland(country)
+  - Mauher Slieve(Place)
+  - Munster(Place)
+  - Tipperary(Place)
+  - Áine(Person)
+  - Mis(Person)
+  - Ébhlinne(Person)
+  - Lughnasa(Concept)
+  - Book of Invasions(Artifact)
+  - Fódla(Person)
 tags:
   - Mauher Slieve
   - Munster
+  - Tipperary
   - Áine
   - Mis
-  - Tipperary
   - Ébhlinne
   - Lughnasa
+  - Book of Invasions
   - Fódla
-  - Ireland
 ---
 ``` tab [group1:Info]
 ::: magazinestyle
-In the southwestern Province of Munster lies Mauher Slieve, an Irish mythological site. Goddesses such as Áine and Mis lend their names to many of the mountains in the area. One of the twelve mountains named after the otherwise unknown goddess Ébhlinne in Co. Tipperary is crowned by a hill named Mauher Slieve, also known as the Mother Mountain. This hill serves as a traditional location for honoring the Celtic harvest feast of Lughnasa. The Book Of Invasions recounts that Fódla, one of Ireland’s three primary earth goddesses, may have been the deity of the Mother Mountain.
+Mauher Slieve is an Irish mythological site. The name translates from Irish as Mother Mountain. The form slieve marks the phonetic English spelling of the older Irish words sliab and sliabh. The mountain lies in the southwestern province of Munster, in County Tipperary. Many Munster peaks carry the names of goddesses, such as Áine and Mis. Mauher Slieve rises at the center of a group of twelve mountains. Each of those twelve peaks bears the name of the goddess Ébhlinne. The hill served as a traditional gathering place for the Celtic harvest feast of Lughnasa. Some recensions of the Book of Invasions name the patroness of the Mother Mountain as Fódla. Fódla ranked among the three great earth goddesses of Ireland.
 
 :::
 ```
 ``` tab [group1:Attributes]
-- **Mauher Slieve**: Irish mythological site
-- **Province of Munster**: southwestern
-- **mountains**: named for goddesses
-- **Co. Tipperary**: center of a group of 12 mountains
-- **hill**: called Mauher Slieve
-- **Mother Mountain**: traditional site of celebrations for the Celtic harvest feast of Lughnasa
-- **Book Of Invasions**: some versions say that the goddess of the Mother Mountain was Fódla, one of Ireland’s Three major earth goddesses
+- **Mauher Slieve**: an Irish mythological site whose name means Mother Mountain
+- **Mauher Slieve**: a hill in Tipperary among twelve mountains named for the goddess Ebhlinne
+- **Mauher Slieve**: a traditional site of celebrations for the harvest feast of Lughnasa
+- **Mauher Slieve**: linked in some versions of the Book of Invasions to the goddess Fodla
 ```
 ``` tab [group1:Entities]
-- **Mauher Slieve**: mountain
-- **Munster**: Province
-- **Áine**: goddess
-- **Mis**: goddess
-- **Tipperary**: County
-- **Ébhlinne**: goddess
-- **Lughnasa**: Celtic harvest feast
-- **Fódla**: earth goddess
-- **Ireland**: country
+- **Mauher Slieve**: Place
+- **Munster**: Place
+- **Tipperary**: Place
+- **Áine**: Person
+- **Mis**: Person
+- **Ébhlinne**: Person
+- **Lughnasa**: Concept
+- **Book of Invasions**: Artifact
+- **Fódla**: Person
 ```
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
+- MacKillop 2008, s.v. 'slieve'
 ```

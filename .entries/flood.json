@@ -1,0 +1,67 @@
+{
+  "name": "flood",
+  "text": "flood legends fill Celtic literatures. MacKillop treats the international flood theme, catalogued as folk motif A1010-22, as it appears in Irish and Welsh tradition. Irish pseudo-history treats the biblical Deluge as a factual anchor; only Fintan mac Bóchra survives the waters in that telling. Wales, a mountainous country, carries two flood stories. Cantre'r Gwaelod, the land of Gwyddno Garanhir, sank to form Cardigan Bay after Seithennyn, the drunken dike-keeper, neglected his post. The lake called Llyn Llion burst its banks and forced Dwyfan and Dwyfach to escape in a ship built on the spur of the moment. The Breton city of Ys ranks as the best-known of the Celtic flood legends. MacKillop points the reader to submerged cities for the wider record.",
+  "entities": [
+    {
+      "entity": "flood",
+      "type": "Concept"
+    },
+    {
+      "entity": "Fintan mac Bóchra",
+      "type": "Person"
+    },
+    {
+      "entity": "Lebor Gabala",
+      "type": "Text"
+    },
+    {
+      "entity": "Cantre'r Gwaelod",
+      "type": "Place"
+    },
+    {
+      "entity": "Gwyddno Garanhir",
+      "type": "Person"
+    },
+    {
+      "entity": "Seithennyn",
+      "type": "Person"
+    },
+    {
+      "entity": "Llyn Llion",
+      "type": "Place"
+    },
+    {
+      "entity": "Dwyfan",
+      "type": "Person"
+    },
+    {
+      "entity": "Dwyfach",
+      "type": "Person"
+    },
+    {
+      "entity": "Ys",
+      "type": "Place"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "flood",
+      "attribute": "International flood theme (motif A1010-22) in Celtic literatures"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'flood'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "flood is a headword in MacKillop's Dictionary of Celtic Mythology.",
+    "key_results": [
+      "Irish pseudo-history Lebor Gabala treats the biblical Deluge as factual.",
+      "Welsh tradition preserves two flood legends: Cantre'r Gwaelod and Llyn Llion.",
+      "Breton Ys stands as the best-known Celtic flood legend."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'flood'."
+  }
+}

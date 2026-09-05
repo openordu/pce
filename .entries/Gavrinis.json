@@ -16,6 +16,30 @@
         {
             "entity": "Gavrinis",
             "attribute": "oriented to the winter solstice sunrise"
+        },
+        {
+            "entity": "Gavrinis",
+            "attribute": "carries the Irish word inis, for island, at the head of its name"
+        },
+        {
+            "entity": "inis",
+            "attribute": "Irish word for island that begins scores of place-names"
+        },
+        {
+            "entity": "Inis Ealga",
+            "attribute": "poetic nickname for Ireland that translates as noble isle"
+        },
+        {
+            "entity": "Inis Fáil",
+            "attribute": "poetic nickname for Ireland that translates as isle of destiny"
+        },
+        {
+            "entity": "Inis Fionnchuire",
+            "attribute": "imaginary underwater island beneath Muir Torrain populated by nymphs"
+        },
+        {
+            "entity": "Lug Lámfhota",
+            "attribute": "demanded that Brian, Iuchair, and Iucharba fetch a cooking-spit from Inis Fionnchuire in the Tragic Story of the Sons of Tuireann"
         }
     ],
     "entities": [
@@ -34,26 +58,73 @@
         {
             "entity": "Morbihan",
             "type": "Place"
+        },
+        {
+            "entity": "innis",
+            "type": "Concept"
+        },
+        {
+            "entity": "ynys",
+            "type": "Concept"
+        },
+        {
+            "entity": "Inis Ealga",
+            "type": "Place"
+        },
+        {
+            "entity": "Inis Fáil",
+            "type": "Place"
+        },
+        {
+            "entity": "Inis Fionnchuire",
+            "type": "Place"
+        },
+        {
+            "entity": "Muir Torrain",
+            "type": "Place"
+        },
+        {
+            "entity": "Oidheadh Chlainne Tuireann",
+            "type": "Work"
+        },
+        {
+            "entity": "Lug Lámfhota",
+            "type": "Person"
+        },
+        {
+            "entity": "Brian",
+            "type": "Person"
+        },
+        {
+            "entity": "Iuchair",
+            "type": "Person"
+        },
+        {
+            "entity": "Iucharba",
+            "type": "Person"
         }
     ],
     "sources": [
         "Evans-Wentz, W. Y. The Fairy-Faith in Celtic Countries. Gerrards Cross: Colin Smythe Humanities Press, 1911, 409+.",
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.",
+        "MacKillop 2008, s.v. 'inis'"
     ],
     "image": [
         "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Gavrinis_1a.jpg/1200px-Gavrinis_1a.jpg"
     ],
     "cyphertext": "-B0tWTdwJLRlFefApxDVgrzP_bvlnfqAUeQEhQQHeVeKSKiBbBKEPJgLgJM5iW-Em2exjoVdaM7WJw2aYqOm8J_l-_JNzHzyPAfw2v2WOpuPNlEYAbnJX8D3ukODq4TDt8OoooxOVBG6maOHPugVEJFhhA1IvYDPKnEwpxk6Oo8Xm-4mBfGUvaSQlAZfjZzYCJjwEfZSlnIKPXgEvQTEcA2oVXg4jyeSA5NMPIdk2hmk1iCIQBDF4ty4iytYXItNb0hN_k5rg8O4OVbufIDywq8LvuDyjoDxqqWNSOVxaLfuvimDm6_JNmd5DykjicGWksnfq1wD-m9l6OcUMmouJVlNz_6qQdi06auH4y4eSS_0cN1_EsXscXXbbM_Xfd-fagcr2g004pAmMYfD70H6cQ4xhItgyGHqqiRhkxpuc46wDphTAUyWvhf8mGCa-eWTTFEAr_2R-Y1J8nFF7V4ch8HgEA_F3wUaM9r5rTJmycKJgi9FNjhpL9Z-gwYTlmTqJty0soVoy-CbbbR-eXAkogcgwGnqxjJyNm-inl40hug6mwdYbHsD3bhRTErFyi0k4PTlwlu8NKQJvjbYAUDxDYaVOuHjhuPtuym-wKKkrwMmTdTMUaX5dn6azvTi85j_vPTViKIOF1gStyJ05KpwHENwbdZOH0LF9VkhUflQWEAt_0-I7LrTUsrRUiDW-lbIkBNOq2lfS95DinsffRgpfxi8UkeECmL_gOKTbjZSxuZpfFEeyWTDHb04AfiFw0c2oIU1OhnWsU774MuxDmiL5kdpwlAKBcNhtQDt_F0iCHDsBqlz57o46ARoP8hF28fM-R1xn6r9fY6EFUXLwAxfvLBUl_dmvrxY1QUIQx1ClKluOFNnAWPuasZ_37YS69Ax6ooX2D-ASSUeQcEIc7h6PPTMKG9PzJRRfII02dm3uwkw4ds1S1BDNY_XBvQj6S1ncvwY8uXCfjaECDLkDx_M6dDGS6JH25oZYJkvPMUUjZfnZPZk_fuB43ml3LhO9govqPYjNMWh2qWJavmQiphlog1OczCeoddxbSjApkS9Uz0W1JbtWe5Ofa9kBqUCQmI58BW8RRMiwsSyxQ--mXOZ51ge40P5V_iuLaYzM55HxK_5pH0zg81794ZwMlUudd84PfUccTgNZIHpU6drccxFdmd0QaYBMyhHYjm8PCmyEd_y_CMYl-yEKFB7UgJpn0EyFTebMwn_VKDBJyg2EL49c7WhgdL0Na1XlclfIj4HyHPYQG8zq_SIdT1S4YaQfM74ddFdOseQa5gXKyKg2Q5KrVKtiPkbJYobaaUSq63qfuKr0ayCPsV6-4-M6_ThTnlAFzCSZmIXbas8Cx36ibK86c8YKterLf5wISAvH8go_ZpGlVCSJerQuftxx3dh5k1ZDVnvBaMoFvfYAOpAljEOkaINx8Hj9qgEpj8zGwLJ5VrI6q-eDpHrrKOV2OkUlKJSVIqkjNNffx7950YRg40qSMsFgedL7v5Qb97tmkZVYLpJWlaXcn2uK6NknHgUiLo8Txum-hi5LAZQT2MUqZ1pYDPMzx-4mH-RY9QEjxNDwnhN_ig4MBr3gyOONBq92IBWNsO2ZqzrjRAsPm3pT5nffbschfsE5Lbu90eFKTMdsBCz_m1FjOMTQ2MQGMqtxYYvdm1KKXbPMgpLB-tW08qh4Hs5JZ1cKrnkFiHjeBWVZuuGSh9GSc73hIXqt2VbaukGGuTEoGRPGJQJcBMEOUuwGQ35FVcCtEiQvP1kqQDRkLMxhlkvnlLs3xd7r2tFGEd2cgJkYkXtjnaFXNj265saS6T4j75NO4LN07kgph4FYfiqP0ICmN8YTPlHZfgvNLjrleFYcrXMjsJvcKUdAhfzxw2MsubXLZyM2LUbqWKE24A9IVd1Kzzd_0s-on499yU7g3VV2pPM-tp0QFE=",
     "salt": "r-clIe2SRKq1-U7dKvOuJw==",
-    "text": "Gavrinis is a Breton mythological site. The name is also written Gavr'inis. An island sits in a small harbor off the coast of Morbihan in southern Brittany. The island holds a richly engraved ritual chamber. This chamber far predates the Celts. Its spiral iconography links it to Ireland's Brú na Bóinne. Deep incised carvings decorate more than twenty enormous granite uprights. Its megalithic rock architecture resembles Britain's Stonehenge. The purpose is unknown. Such monuments often line up with an astronomical point. Gavrinis points precisely to the winter solstice sunrise.",
+    "text": "Gavrinis, also written Gavr'inis, is a Breton site of old ritual. An island sits in a small harbor off the coast of Morbihan in southern Brittany. The island holds a richly engraved chamber that far predates the Celts. Its spiral carvings tie it to the iconography of Ireland's Brú na Bóinne. Deep incised work decorates more than twenty enormous granite uprights. Its megalithic rock architecture resembles Britain's Stonehenge. The chamber lines up with an astronomical point. That alignment fixes it precisely to the winter solstice sunrise. The name Gavrinis carries the word inis at its heart. Inis is the Irish word for an island. The same word appears as the first element in scores of Irish place-names. Scottish Gaelic keeps a near cousin in innis. The Welsh form is ynys. Inis Ealga, the noble isle, stands as one poetic name by which Ireland was hailed in verse. Inis Fáil, the isle of destiny, serves as a second such name for the same land. Other inis names reach well beyond real geography. Inis Fionnchuire, also spelled Findchuire, Fianchuibhe, and Finchory, marks an imaginary island beneath Muir Torrain. Nymphs populate that sunken place. The Sons of Tuireann is an Irish tale that names a sunken island. In that tale Lug Lámfhota set a quest. Brian, Iuchair, and Iucharba had to fetch a cooking-spit from that island.",
     "okr": {
-        "objective": "Record Gavrinis as a pre-Celtic ritual chamber linked to Ireland and Britain.",
+        "objective": "Place Gavrinis as a Breton megalithic chamber and ground its name in the wider inis family of island words.",
         "key_results": [
-            "Gavrinis is an island chamber off Morbihan in Brittany.",
-            "Its spiral carvings link it to Brú na Bóinne.",
-            "Its stone architecture resembles Stonehenge.",
-            "It is oriented precisely to the winter solstice sunrise."
+            "Set Gavrinis as a pre-Celtic chamber off Morbihan in southern Brittany",
+            "Link the spiral carvings to Brú na Bóinne and the stonework to Stonehenge",
+            "Fix the orientation to the winter solstice sunrise",
+            "Record inis as the Irish word for island and link it to innis in Scottish Gaelic and ynys in Welsh",
+            "Place Inis Ealga and Inis Fáil as poetic nicknames for Ireland",
+            "Place Inis Fionnchuire as a nymph-haunted underwater island and link it to the Sons of Tuireann"
         ],
-        "evidence": "Monaghan, The Encyclopedia of Celtic Mythology and Folklore, 2003"
+        "evidence": "MacKillop 2008, s.v. 'inis'"
     }
 }

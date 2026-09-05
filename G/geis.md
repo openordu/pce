@@ -2,43 +2,76 @@
 layout: layouts/pce.njk
 title: geis
 icon: file-lines
-order: 1073
+order: 1228
 contributors: [ 'Christopher Godwin' ]
 attributes:
-  - kings especially subject to sacred geasa
-  - land's Fertility depended upon the king's righteousness
-  - king broke his geasa as Conaire did caused privation when the land became sterile
-  - heroes pledged to avoid taboo places, people, and foods, or to satisfy certain peculiar demands, their strength and even continued life depending upon their performance
-  - geasa wound into the plot of many ancient Celtic legends and romances
+  - Conaire king of Tara bound by sacred geasa
+  - Conaire forbidden to eat the flesh of birds because his mother was enchanted into bird form
+  - Conaire forbidden to ride around Tara with his right shoulder to the sea or to be away more than eight nights
+  - Diarmait pledged never to refuse a woman's advances
+  - Druids imposed geasa, often as surrogates of the goddess of Sovereignty
+  - a king's righteousness held to control the fertility of the land
+  - heroes pledged to avoid taboo places, people, and foods, with their strength tied to performance
+  - geis may require a positive demand or injunction, not only a negative taboo
+  - geis sometimes shades into the meaning of an incantation, a spell, or a point of honour
+  - Cúchulainn forbidden to eat the meat of a dog or hound, the rule that named him
+  - ruler of Tara forbidden by geis to have the sunrise catch him still lying in Tara
+  - geasa some are prescribed by druids at birth
+  - geis-breaking brings instant death and destruction to the culprit's people
+  - kingship early rituals of kingship may be the source of the geis concept
 categories:
-  - concept
-  - literature
+  - Concept
+  - Place
+  - Group
+  - Person
 entities:
-  - Kingship(concept)
-  - Celtic legends and romances(literature)
+  - geis(Concept)
+  - Conaire(Person)
+  - Diarmait(Person)
+  - Druids(Group)
+  - Tara(Place)
+  - Cúchulainn(Person)
 tags:
-  - Kingship
-  - Celtic legends and romances
+  - geis
+  - Conaire
+  - Diarmait
+  - Druids
+  - Tara
+  - Cúchulainn
 ---
 ``` tab [group1:Info]
 ::: magazinestyle
-Irish literature often references geis (also spelled geas, geiss, ges, and in plural form, geasa or gessa), an Irish ritual vow. In accordance to this real religious custom, kings and other heroes were often required to make magical vows or pledges. Although some geasa were imposed with a clear purpose, such as preventing the king of Tara, Conaire, from eating the flesh of birds due to the belief that his mother had been cursed to take bird form, most geasa seemed frivolous. One of Conaire’s vows, for instance, prevented him from riding around Tara with his right shoulder facing the sea, prohibited him from letting Three Red horsemen ride past him to the hostel of a red man, and restricted him from being absent from Tara for over eight consecutive nights. The geasa could also be incredibly complex, as evidenced by Diarmait’s vow that hindered him from ever refusing the advances of a woman, be it day or night, and whether she came on horseback or on foot, clothed or naked. Despite their comical nature, violating a geis resulted in serious consequences, even death. The man making the vow, most often kings, did not choose the geasa imposed on him. Instead, they were inflicted by Druids or women, often substituting for the goddess of Sovereignty. Kings were held to a higher standard of sacred geasa, ensuring their integrity (See Kingship). The righteousness of a king was believed to determine the land’s fertility; if a king violated his geasa like Conaire, the land suffered and became sterile. In ancient Celtic legends and romances, heroes had an obligation to adhere to certain taboos and fulfill peculiar requests in order to maintain their strength and even their life. The performance of these obligations was tied to geasa, which were often woven into the plot of these tales.
+A geis is an Irish ritual taboo or prohibition placed on prominent figures in narrative. The term is also written geas, geiss, or ges. Its plural forms are gessa (Old Irish) and geasa (Modern Irish). Kings and heroes took these binding pledges in early Irish literature. A geis can take three forms. It can forbid a specific action. It can demand a positive act or injunction. In some contexts it shades into an incantation, a spell, or a matter of honour. Druids or women laid geasa on a man. They never imposed them on themselves. The most famous bearer was Conaire of Tara. He could not eat the flesh of birds because his mother had been enchanted into bird form. He could not ride around Tara with his right shoulder to the sea. He could not stay away from Tara for more than eight nights. MacKillop draws a parallel. The ruler of Tara must never let the sun find him still abed in his hall. The hero Diarmait pledged never to refuse a woman's advances. Cúchulainn could not consume dog or hound flesh, a ban that gave him his very name. Many geasa at first look capricious. They gain meaning only in a wider context. Some druidic vows were laid at the moment of birth. To break any geis meant sudden death. That breach also brought ruin and disgrace on the wrongdoer's clan. The fertility of the land depended on a king's righteousness. A king who broke his geasa, like Conaire, left his land sterile. The performance of geasa bound the strength and even the life of heroes. These vows wound through many ancient Celtic legends.
 
 :::
 ```
 ``` tab [group1:Attributes]
-- **kings**: especially subject to sacred geasa
-- **land's Fertility**: depended upon the king's righteousness
-- **king**: broke his geasa as Conaire did caused privation when the land became sterile
-- **heroes**: pledged to avoid taboo places, people, and foods, or to satisfy certain peculiar demands, their strength and even continued life depending upon their performance
-- **geasa**: wound into the plot of many ancient Celtic legends and romances
+- **Conaire**: king of Tara bound by sacred geasa
+- **Conaire**: forbidden to eat the flesh of birds because his mother was enchanted into bird form
+- **Conaire**: forbidden to ride around Tara with his right shoulder to the sea or to be away more than eight nights
+- **Diarmait**: pledged never to refuse a woman's advances
+- **Druids**: imposed geasa, often as surrogates of the goddess of Sovereignty
+- **a king's righteousness**: held to control the fertility of the land
+- **heroes**: pledged to avoid taboo places, people, and foods, with their strength tied to performance
+- **geis**: may require a positive demand or injunction, not only a negative taboo
+- **geis**: sometimes shades into the meaning of an incantation, a spell, or a point of honour
+- **Cúchulainn**: forbidden to eat the meat of a dog or hound, the rule that named him
+- **ruler of Tara**: forbidden by geis to have the sunrise catch him still lying in Tara
+- **geasa**: some are prescribed by druids at birth
+- **geis-breaking**: brings instant death and destruction to the culprit's people
+- **kingship**: early rituals of kingship may be the source of the geis concept
 ```
 ``` tab [group1:Entities]
-- **Kingship**: concept
-- **Celtic legends and romances**: literature
+- **geis**: Concept
+- **Conaire**: Person
+- **Diarmait**: Person
+- **Druids**: Group
+- **Tara**: Place
+- **Cúchulainn**: Person
 ```
 ``` tab [group1:Sources]
 - Dillon, Myles. There Was a King in Ireland: Five Tales from Oral Tradition. Texas Folklore Society. Austin: University of Texas Press, 1971, 21.
 - Joyce, Patrick Weston. Ancient Celtic Romances. London: Parkgate Books, 1997, 433–434.
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
+- MacKillop 2008, s.v. 'geis'
 ```

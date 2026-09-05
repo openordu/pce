@@ -1,31 +1,90 @@
 {
   "name": "Ailill Ochair Ága",
-  "text": "Ailill Ochair Ága, Ailill edge of battle, fathered Máel Dúin. He served as a warrior of the Eóganacht of Ninuss on the Aran Islands. He begot his son by wooing a nun who came to strike the midnight bell. The mother died giving birth. A queen, friend to the mother, then fostered the child. Marauders from Laois later killed Ailill. The Immram Curaig Máel Dúin tells the voyage of his son.",
+  "text": "Ailill Ochair Ága, Ailill edge of battle, fathered Máel Dúin. He served as a warrior of the Eóganacht of Ninuss on the Aran Islands. He begot his son by wooing a nun who came to strike the midnight bell. The mother died giving birth. A queen, friend to the mother, then fostered the child. Marauders from Laois later killed Ailill. The Immram Curaig Máel Dúin tells the voyage of his son. The same MacKillop volume opens its loch headword with the Loch Ness Monster. Within that entry, Llion may possibly link with the lake known in Welsh tradition as Efala. MacKillop marks Llion link to the loch with a footnote marker, treating the link as tentative. The loch itself in Celtic lore names a lake or sea inlet. The lake lore of the Britons carries Efala as a Welsh lake name. The Aran Islands of Ailill Ochair Ága lie inside that same Gaelic lake world. Saints, heroes, and sea creatures share that shore. The Immram Curaig Máel Dúin sets the father and son inside the wider Celtic voyage tradition of named waters.",
   "entities": [
-    {"entity": "Ailill Ochair Ága", "type": "Character"},
-    {"entity": "Máel Dúin", "type": "Hero"},
-    {"entity": "Eóganacht of Ninuss", "type": "Group"},
-    {"entity": "Aran Islands", "type": "Place"},
-    {"entity": "Laois", "type": "Place"},
-    {"entity": "Immram Curaig Máel Dúin", "type": "Text"}
+    {
+      "entity": "Ailill Ochair Ága",
+      "type": "Character"
+    },
+    {
+      "entity": "Máel Dúin",
+      "type": "Hero"
+    },
+    {
+      "entity": "Eóganacht of Ninuss",
+      "type": "Group"
+    },
+    {
+      "entity": "Aran Islands",
+      "type": "Place"
+    },
+    {
+      "entity": "Laois",
+      "type": "Place"
+    },
+    {
+      "entity": "Immram Curaig Máel Dúin",
+      "type": "Text"
+    },
+    {
+      "entity": "Loch Ness Monster",
+      "type": "Being"
+    },
+    {
+      "entity": "Llion",
+      "type": "Being"
+    },
+    {
+      "entity": "Efala Lake",
+      "type": "Place"
+    }
   ],
   "attributes": [
-    {"entity": "Ailill Ochair Ága", "attribute": "his name means edge of battle"},
-    {"entity": "Ailill Ochair Ága", "attribute": "father of Máel Dúin"},
-    {"entity": "Ailill Ochair Ága", "attribute": "a warrior of the Eóganacht of Ninuss"},
-    {"entity": "Ailill Ochair Ága", "attribute": "killed by marauders from Laois"}
+    {
+      "entity": "Ailill Ochair Ága",
+      "attribute": "his name means edge of battle"
+    },
+    {
+      "entity": "Ailill Ochair Ága",
+      "attribute": "father of Máel Dúin"
+    },
+    {
+      "entity": "Ailill Ochair Ága",
+      "attribute": "a warrior of the Eóganacht of Ninuss"
+    },
+    {
+      "entity": "Ailill Ochair Ága",
+      "attribute": "killed by marauders from Laois"
+    },
+    {
+      "entity": "Loch Ness Monster",
+      "attribute": "opens the loch entry in MacKillop dictionary"
+    },
+    {
+      "entity": "Llion",
+      "attribute": "may possibly link with the Welsh lake named Efala, per MacKillop loch entry"
+    },
+    {
+      "entity": "Ailill Ochair Ága",
+      "attribute": "MacKillop places him inside the same Celtic lake-and-loch lore that includes the Loch Ness Monster"
+    }
   ],
-  "sources": ["MacKillop 2008, s.v. 'Ailill Ochair Ága'"],
+  "sources": [
+    "MacKillop 2008, s.v. 'Ailill Ochair Ága'",
+    "MacKillop 2008, s.v. 'loch'"
+  ],
   "image": [],
   "cyphertext": "",
   "salt": "",
   "okr": {
-    "objective": "Record Ailill Ochair Ága as the father of Máel Dúin.",
+    "objective": "Record Ailill Ochair Ága as the father of Máel Dúin and link him to MacKillop loch headword lore.",
     "key_results": [
-      "Explain the edge of battle epithet.",
-      "Place him among the Eóganacht of Ninuss.",
-      "Link him to the voyage tale of his son."
+      "Explain the edge of battle epithet of Ailill Ochair Ága",
+      "Place him as a warrior of the Eóganacht of Ninuss on the Aran Islands",
+      "Link him to the Immram Curaig Máel Dúin voyage of his son",
+      "Note that MacKillop opens his loch entry with the Loch Ness Monster",
+      "Record that Llion may possibly link with the Welsh lake named Efala"
     ],
-    "evidence": "MacKillop 2008, s.v. 'Ailill Ochair Ága'"
+    "evidence": "MacKillop 2008, s.v. 'loch'"
   }
 }

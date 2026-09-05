@@ -1,0 +1,33 @@
+{
+  "name": "hound",
+  "text": "hound is the English word that MacKillop records as a cross-reference to the headword dog. MacKillop treats hound as one of the general labels for the hunting and fairy dogs of Celtic folklore. The fuller record of the dog in Celtic legend sits under dog. MacKillop notes the spectral hounds, fairy dogs, and ordinary hunting hounds as variants of the same family.",
+  "entities": [
+    {
+      "entity": "hound",
+      "type": "Being"
+    },
+    {
+      "entity": "dog",
+      "type": "Being"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "hound",
+      "attribute": "English label for the hunting and fairy dog; pointer to dog headword"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'hound'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "hound is a MacKillop pointer headword resolving to dog.",
+    "key_results": [
+      "Signpost cites the headword dog for the full record."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'hound'."
+  }
+}

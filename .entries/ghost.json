@@ -20,6 +20,30 @@
         {
             "entity": "unsettled soul",
             "attribute": "could come back to haunt house and family"
+        },
+        {
+            "entity": "ghost stories",
+            "attribute": "mostly local post-medieval borrowings from other European traditions, not an inherited Celtic stock"
+        },
+        {
+            "entity": "Celtic ghost vocabulary",
+            "attribute": "largely drawn from other languages rather than native Celtic roots"
+        },
+        {
+            "entity": "Irish anam",
+            "attribute": "word for ghost borrowed from Latin anima"
+        },
+        {
+            "entity": "Irish sprid",
+            "attribute": "word for ghost borrowed from English spirit"
+        },
+        {
+            "entity": "Cornish bucca gwyn",
+            "attribute": "literally white hobgoblin, the Cornish word for ghost"
+        },
+        {
+            "entity": "Breton teuz",
+            "attribute": "the Breton word for ghost"
         }
     ],
     "entities": [
@@ -34,26 +58,43 @@
         {
             "entity": "Otherworld",
             "type": "Place"
+        },
+        {
+            "entity": "tannasg",
+            "type": "Being"
+        },
+        {
+            "entity": "scanjoon",
+            "type": "Being"
+        },
+        {
+            "entity": "ysbryd",
+            "type": "Being"
+        },
+        {
+            "entity": "teuz",
+            "type": "Being"
         }
     ],
     "sources": [
         "Jones, T. Gwynn. Welsh Folklore and Folk Custom. London: Methuen & Co., Ltd., 1930. Pp. 32-50.",
         "Ó Catháin, Séamus, and Patrick O’Flanagan. The Living Landscape: Kilgallian, Erris, County Mayo. Dublin: Comhairle Bhéaloideas Éireann, 1975, 102, 119.",
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.",
+        "MacKillop 2008, s.v. 'ghost'"
     ],
     "image": [
         "https://upload.wikimedia.org/wikipedia/en/thumb/0/02/Hammersmith_Ghost.PNG/1200px-Hammersmith_Ghost.PNG"
     ],
     "cyphertext": "mCZFm7c8KZY9AWinW9HbHGmiZxPGE9b_tyD5pGpe5aVZ69-TdF3bcaTVFTSUQeEp4xPilW5TWTXc914cQf1Zq2Q_c6du2u93RD-BEC1aUSUQDcaNWNJE1MxiTxyFlMcdj-MJwpart6aIXeszbOURzhh42VA9EA22lX3Tj-UCT981t8j5hPpNJSu85pjr8P-7xbv-Haz4wvwLEi8GKJtMSEqDChFdTrtq2jwRoa0QXlr8-5AF6iNpwhwo0C-2H5dET4_I6cW6Izukw2UTB2xfjJqqEDC9bBhsud-GaIPa1DKy9HcYotDH1SMwTlMHRJBH6z9MhKSrwyW-cADENbEv5Sy_uvr0E_7P2LvJXQblJyfqPnBuedzgup0ssx1x1g1p5H7c41NHcENR73TW9XKhHiHaFUwqpWvV7UBBTA9t5Fydej517Jbyr8sFK-bHRhezb6soJB6uimh9MnP6RxxKi_dLqo19WqoN0GSDsQpIndzl2nCUq4FM4-Lr5zyUR-4PMOpKB5CEA98r6f0HKKkull0n_i4kD8qScHPAX0CZDGzVYa-ddnshRZugpQDqXfQkazNmFMPDAJZ798I6TCaIB3tddyIyjK1KsIlRoqvpT-X-HSLwK-X_vWnjmwzl_PVozwBa7OGYVcWlN5y7Kpl7K5v5fAUWQTlyW97swTlWbl5jKdgugygT72P1q6xj4MmvnXEETWDEOeq24jFIdXJwFubbuCQoLaLC_S_C7x-5MHi5AnH1lYnjuTcrC67iT-XvA92zQRjsqWBKNgO7zFFL61wbqfXaHlWszCWQiSDJ-Ful4AUJbBaAWJHMX0BxDKdVpH6abjkl5rB2HnQpZwuxDJ1mFUbBD9Hhjhdx97icZS6XmywEWDbwCOdjYy8C-8mDxgbyBUMwgD0ivAFzlb-HoQ_FMfr78cWw2kAuD0l_n1nQM5zeTaYCgDhlUV2lxa_2dhl2pPIhUnz5GBW0SUlmHfR1wo2Zc_zN_jzvpGi3p3kYjEnrH8KyAtociX4FzXITF3AQbhxFF9hAoivq8i2aqqLrK55Q8R8OvVe8CMfrfxu3t-6cryuf8RXCWvXRPeL9bSqqn2MQ19BF6Nq3L5K2o7bEsinbej_Gn0MHMCFr1pi8vhHTcocE3B87T2SDBDEH_EtK4M9mxKcF_AemvCsMFKws-CwOUswPakH3w_EeQ54--y1NfqUR4XzcxCaoMb2xRT6LcoC2wfj1Gt-RCpb26XPPrg6uNdRUxGx9D7M4h9lJtKTlcjpAQP6EclkQt6ihYxv4-56dtsSQCOuSuH17MdENJRaqmWqBCfbzaHl0xC4s2QYHTDDOBBeZTZOGQFJKM4Hb64i41eWRKqJkWzh9sMLQxqJWi7EgpqN3dNdsdPtRDRvHqwWHWvKlpLcRi4zAi8iCxyXRkPtz8ad27RrUdfkOiH-HbOKt2Dw0SQm4LeG2sfl5DCkamotYMwhYtjoPd74pKpCq21-XcXsrmCs7Gd5aV5y1C1pW94WZ5O_KnAoqzVap1hQr_B3FsDtYt3usIdjsZoweJN0l9tzFugbClZCgDvwOzTUZOnCbc30OmpKXaZpu0vNQRTnWDVeWa0bCybnXw1NtkeppTxexGRdPZQwIZRNoSMthxq2OiW7oYplMxZr31F9Ynqj0-GrlU_GnybI6qZyZCgaPuhjmahmNU0i6b9aRrWhwMg5yQ5TQ3owyzqO0N-cgDi9FexMSvx0-n9EkLtq0_gSL70uTDlS_t0gMU0Fokp5_pnK4w0fyD5K5rpekvpBhGmRfyTPM9AAq0xN7-AW3udgDbSYOR7rOK9wJiH4K8T3EjyjU0LUElTrIQ_QbeQPdLs4FUkQPSOb-Ws7rq8ZtiS25YHfMCHBubb4bMAKXHF8PfPITAvd1myZs3vsCKbgTsFZRZ-rjXVrKv7H1yih-DpmekSh60XW1OKBkZQFS89EjP7dBYauBGck3PKUC0hgrRBYjcFlU5uyrOWIRIXJPDz-uJg5jhSLAFZVQU3_uSrWKXBV9EnhIchjejYbsiUanhJhKB8hgFoHdKDAMrRzZAXeSxtaG-IDvHZQwid50IQ_OHMJt7DGG5C9Mu6QWJ5G8X1cRPrATsuZxnypCIEea_Xf9XLoMhD60N8j35Pn_SjmkKppY_ikWR6UwCaJ3eNTXZrD8eq844lxsOli8UO3z7oODrYwPmH6Vim0qrSzNOs7dz3SCTgMEMvB15Fg6VETJBD2m0Dxyi2OpKu8O9zruOHbOBDlyYBhPvcYQpPe7Pgf-kDjwPoXhV7Sj7Dw-ZBzZ3hjrJKfb-WEkWw21M7BH0L_O5IdNSEIykYZAE5yVSHMy7CJiHPsuXIs0OyZ6GCRpcf71xzlmplGe-YM0w6Nrg3llNc8tGGuchBsOfk4KH-8=",
     "salt": "qvmwM_IcQDv1vFQhcrbw0Q==",
-    "text": "A ghost is a folkloric figure in Celtic belief. The Otherworld and the land of the dead blend together in the Celtic mind. Ghosts of dead humans are hard to tell from the diminished divinities called fairies. Both groups used the same magical parts of the landscape. They frequented bogs, lakes, and islands. They shared roughly the same habits. Ghosts, like fairies, could take humans away to the Otherworld. Not every dead person became a ghost. Only those whose lives suffered an interruption returned. A young mother who died in childbirth might come back for her child's safety. An unsettled soul could haunt house and family. Some elders returned out of long habit even after a full life.",
+    "text": "A ghost is a folkloric figure in Celtic belief. The Otherworld and the land of the dead blend together in the Celtic mind. Ghosts of dead humans are hard to tell from the diminished divinities called fairies. Both groups used the same magical parts of the landscape. They frequented bogs, lakes, and islands. They shared roughly the same habits. Ghosts, like fairies, could take humans away to the Otherworld. Not every dead person became a ghost. Only those whose lives suffered an interruption returned. A young mother who died in childbirth might come back for her child's safety. An unsettled soul could haunt house and family. Some elders returned out of long habit even after a full life. By MacKillop's reading, the older Celtic record carries no broad ghost lore of the dead returning to plague the living. Most Celtic hauntings are later European borrowings, drawn in during the post-medieval period. Celtic words for ghost are often loanwords from other languages. Irish anam comes from Latin anima. Irish sprid comes from English spirit. Scottish Gaelic tannasg, Manx scanjoon, and Welsh ysbryd are native terms. Cornish bucca gwyn means white hobgoblin. Breton teuz names the ghost in that language.",
     "okr": {
-        "objective": "Describe Celtic beliefs about ghosts and their link to the Otherworld.",
+        "objective": "Describe Celtic beliefs about ghosts, their link to the Otherworld, and the linguistic evidence on the concept.",
         "key_results": [
-            "Name the figure, its aliases, and its region in the first clauses.",
-            "Give the concrete anchors of the legend without copying the source prose.",
-            "Close with the entry's place in Celtic folk belief."
+            "Place the ghost inside the Celtic Otherworld and distinguish it from fairies.",
+            "Cite the kinds of dead who return and the haunts they frequent.",
+            "Record MacKillop's point that the surviving ghost lore is largely borrowed and name the Celtic ghost-words."
         ],
-        "evidence": "Monaghan, The Encyclopedia of Celtic Mythology and Folklore, 2003"
+        "evidence": "MacKillop 2008, s.v. 'ghost'."
     }
 }

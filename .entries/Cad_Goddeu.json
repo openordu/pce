@@ -1,6 +1,6 @@
 {
   "name": "Cad Goddeu",
-  "text": "Cad Goddeu is a short and obscure Welsh poem of great antiquity. The verse survives in the Book of Taliesin, a thirteenth-century manuscript. English readers call it The Battle of the Trees, and some know it as The Army of the Trees. It tells of a war between Arawn, king of Annwfn, and Amaethon the ploughman. Their conflict sprang from Amaethon grabbing a white roebuck. He also took a young whelp and a lapwing. The magician Gwydion stands at the poem's core. He wields a staff of enchantment to change trees into fighting men. Experts still cannot explain the poem's full purpose. Robert Graves rearranged the text to support his thesis. That reasoning appears in The White Goddess of 1948. Learned commentators scorn his views on Welsh verse.",
+  "text": "Cad Goddeu is a short and obscure Welsh poem of great antiquity. The verse survives in the Book of Taliesin, a thirteenth-century manuscript. English readers call it The Battle of the Trees. Some know it as The Army of the Trees. It tells of a war between Arawn, king of Annwfn, and Amaethon the ploughman. Their conflict sprang from Amaethon grabbing a white roebuck. He also took a young whelp and a lapwing. The magician Gwydion stands at the center of the poem. He wields a staff of enchantment to change trees into fighting men. Scholars still cannot explain the full purpose of the poem. Robert Graves rearranged the text to support his thesis. That reasoning appears in The White Goddess of 1948. Learned commentators scorn his views on Welsh verse. Celtic tradition itself holds no formal pantheon of deities. The very use of English god or goddess misreads what survives. The label implies a superhuman immortal who receives worship and rules human affairs. Surviving records do not match that picture. Scholars still call the Dagda the Good God and Cernunnos the Horned God by convention. Escaping death alone does not make a being divine. The Tuatha De Danann appear in the pseudo-history Lebor Gabala as immortals rather than gods. Continental Celts honoured figures such as Borvo or Glanis at healing springs. Unnamed powers behind Gaulish Apollo or Mercury likely received cult. Modern scholars more often look for a shadowed divine figure behind kings and warriors of heroic narrative. Earlier writers preferred to seek a historical original.",
   "entities": [
     {
       "entity": "Book of Taliesin",
@@ -25,6 +25,38 @@
     {
       "entity": "The White Goddess",
       "type": "Text"
+    },
+    {
+      "entity": "Lebor Gabala",
+      "type": "Text"
+    },
+    {
+      "entity": "Dagda",
+      "type": "Person"
+    },
+    {
+      "entity": "Cernunnos",
+      "type": "Person"
+    },
+    {
+      "entity": "Tuatha De Danann",
+      "type": "Tribe"
+    },
+    {
+      "entity": "Borvo",
+      "type": "Person"
+    },
+    {
+      "entity": "Glanis",
+      "type": "Person"
+    },
+    {
+      "entity": "Apollo",
+      "type": "Person"
+    },
+    {
+      "entity": "Mercury",
+      "type": "Person"
     }
   ],
   "attributes": [
@@ -47,16 +79,65 @@
     {
       "entity": "Amaethon",
       "attribute": "stole a roebuck, a whelp, and a lapwing"
+    },
+    {
+      "entity": "Cad Goddeu",
+      "attribute": "war sprang from Amaethon stealing a white roebuck, a whelp, and a lapwing"
+    },
+    {
+      "entity": "Gwydion",
+      "attribute": "uses a staff of enchantment to turn trees into warriors"
+    },
+    {
+      "entity": "Celtic tradition",
+      "attribute": "holds no formal pantheon of deities"
+    },
+    {
+      "entity": "Dagda",
+      "attribute": "conventionally called the Good God"
+    },
+    {
+      "entity": "Cernunnos",
+      "attribute": "conventionally called the Horned God"
+    },
+    {
+      "entity": "Tuatha De Danann",
+      "attribute": "treated as immortals rather than gods in the pseudo-history Lebor Gabala"
+    },
+    {
+      "entity": "Borvo",
+      "attribute": "Continental Celtic figure venerated at healing springs"
+    },
+    {
+      "entity": "Glanis",
+      "attribute": "Continental Celtic figure venerated at healing springs"
+    },
+    {
+      "entity": "Apollo (Gaulish)",
+      "attribute": "unnamed Gaulish power probably worshipped as a god"
+    },
+    {
+      "entity": "Mercury (Gaulish)",
+      "attribute": "unnamed Gaulish power probably worshipped as a god"
+    },
+    {
+      "entity": "heroic narrative",
+      "attribute": "modern scholars seek a shadowed divine figure behind its kings and warriors"
     }
   ],
   "okr": {
-    "objective": "Present an accurate account of Cad Goddeu as an ancient Welsh poem.",
+    "objective": "Present Cad Goddeu as an ancient Welsh poem and place it against MacKillop's argument that Celtic tradition has no formal pantheon.",
     "key_results": [
-      "state the poem survives in the Book of Taliesin",
-      "identify the war between Arawn and Amaethon",
-      "note Gwydion's magic and the Graves thesis"
+      "The poem survives in the Book of Taliesin, a thirteenth-century manuscript.",
+      "It tells of war between Arawn and Amaethon over a white roebuck, a whelp, and a lapwing.",
+      "Gwydion wields a staff of enchantment and turns trees into warriors.",
+      "Graves rearranged the text to support his thesis in The White Goddess of 1948.",
+      "Celtic tradition holds no formal pantheon of deities.",
+      "The Dagda and Cernunnos are called gods by convention.",
+      "The Tuatha De Danann appear as immortals rather than gods.",
+      "Continental Celts worshipped figures such as Borvo and Glanis at healing springs."
     ],
-    "evidence": "MacKillop 2008, s.v. 'Cad Goddeu'."
+    "evidence": "MacKillop 2008, s.v. 'Cad Goddeu' (treated under the god, goddess entry); fused with the Cad Goddeu baseline."
   },
   "sources": [
     "MacKillop 2008, s.v. 'Cad Goddeu'."

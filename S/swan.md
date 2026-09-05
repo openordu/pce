@@ -2,59 +2,68 @@
 layout: layouts/pce.njk
 title: swan
 icon: file-lines
-order: 2094
+order: 2412
 contributors: [ 'Christopher Godwin' ]
 attributes:
-  - swan Folkloric animal
-  - swan transformed human
-  - swan bewitched nun
-  - swan lucky to see seven swans flying
-  - swan seven years of good luck would follow
-  - swan seeing a multiple of seven brought that many more years of good luck
-  - swan Hurting or killing a swan brought bad luck to oneself and one’s entire community
-  - Swan Maiden None
+  - swan a bird often seen as a transformed human
+  - swan seeing seven swans meant seven years of good luck
+  - swan hurting one brought bad luck on the community
+  - swan MacKillop headword cross-refers to the sunken-cities tradition
+  - Shannon City emerges once each seven years and dooms to death any mortal who sees it
+  - Lancarrow Cornish sunken city that lies beneath the sands
 categories:
-  - mythical creature
-  - being
-  - animal
-  - religious figure
+  - Concept
+  - Place
+  - Person
+  - Being
 entities:
-  - swan(animal)
-  - Seal(animal)
-  - human(being)
-  - nun(religious figure)
-  - Swan Maiden(mythical creature)
+  - swan(Being)
+  - seal(Being)
+  - nun(Person)
+  - Lough Neagh(Place)
+  - Lough Ree(Place)
+  - Shannon River(Place)
+  - Shannon City(Place)
+  - Lancarrow(Place)
+  - Tír fo Thuinn(Concept)
 tags:
   - swan
-  - Seal
-  - human
+  - seal
   - nun
-  - Swan Maiden
+  - Lough Neagh
+  - Lough Ree
+  - Shannon River
+  - Shannon City
+  - Lancarrow
+  - Tír fo Thuinn
 ---
 ``` tab [group1:Info]
 ::: magazinestyle
-Folklore speaks of the swan as a significant animal, often witnessed as a human who has undergone a transformation, akin to the Seal. On occasion, it was believed that a swan could be a cursed nun. It was considered auspicious to witness seven swans soaring through the sky, signifying seven years of good fortune. If multiple swans were sighted, the good luck multiplied by the number of birds seen. However, if one were to harm or kill a swan, it would bring misfortune not only to themselves but to their community as a whole. To learn more about the swan, refer to Swan Maiden.
+The swan is a folkloric bird of the Celtic lands. The swan was often seen as a transformed human, much like the seal. Occasionally the swan was believed to be a bewitched nun. A person who saw seven swans flying could expect seven years of good luck. A flock of a multiple of seven brought that many more years of good fortune. To hurt or kill a swan brought bad luck on the person and on the whole community. The swan therefore held a protected place in the belief of the people. It was not a bird for the table but a being of the water that carried a hidden human form. In the MacKillop entry the headword swan also points to the sunken-cities tradition. Welsh lore, Irish lore, and Cornish lore all carry stories of drowned cities. In Ireland three such cities lie under named waters. Lough Neagh covers one, Lough Ree covers another, and the Shannon River covers a third. Shannon City emerges once each seven years, and any mortal who sees it is doomed to die. In Cornish tradition the city of Lancarrow lies beneath the sands. The sunken-cities thread is gathered under the Irish name Tír fo Thuinn, Land Under Wave. Readers of the sunken-cities material may follow the MacKillop article for further sources.
 
 :::
 ```
 ``` tab [group1:Attributes]
-- **swan**: Folkloric animal
-- **swan**: transformed human
-- **swan**: bewitched nun
-- **swan**: lucky to see seven swans flying
-- **swan**: seven years of good luck would follow
-- **swan**: seeing a multiple of seven brought that many more years of good luck
-- **swan**: Hurting or killing a swan brought bad luck to oneself and one’s entire community
-- **Swan Maiden**: None
+- **swan**: a bird often seen as a transformed human
+- **swan**: seeing seven swans meant seven years of good luck
+- **swan**: hurting one brought bad luck on the community
+- **swan**: MacKillop headword cross-refers to the sunken-cities tradition
+- **Shannon City**: emerges once each seven years and dooms to death any mortal who sees it
+- **Lancarrow**: Cornish sunken city that lies beneath the sands
 ```
 ``` tab [group1:Entities]
-- **swan**: animal
-- **Seal**: animal
-- **human**: being
-- **nun**: religious figure
-- **Swan Maiden**: mythical creature
+- **swan**: Being
+- **seal**: Being
+- **nun**: Person
+- **Lough Neagh**: Place
+- **Lough Ree**: Place
+- **Shannon River**: Place
+- **Shannon City**: Place
+- **Lancarrow**: Place
+- **Tír fo Thuinn**: Concept
 ```
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
+- MacKillop 2008, s.v. 'swan'
 ```
 ![swan Image](https://upload.wikimedia.org/wikipedia/commons/1/12/Cygnus_olor_2_%28Marek_Szczepanek%29.jpg)

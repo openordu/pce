@@ -1,0 +1,47 @@
+{
+  "name": "Éinne",
+  "text": "Éinne names the Killeany monastic foundation on the Aranmore coast in the Aran Islands, off the western Irish shore. The founder Saint Énna of Aran was famed for an austere and holy way of life. Saint Ciarán of Clonmacnoise numbered among his principal disciples. The site also lends its name to the Saint Enda's boys' nationalist school, founded by Patrick Pearse in the year 1908. MacKillop reads the form as the monastic place-name from the Aran tradition. The principal record sits under Énna.",
+  "entities": [
+    {
+      "entity": "Éinne",
+      "type": "Place"
+    },
+    {
+      "entity": "Énna",
+      "type": "Person"
+    },
+    {
+      "entity": "Aran Islands",
+      "type": "Place"
+    },
+    {
+      "entity": "Killeany",
+      "type": "Place"
+    },
+    {
+      "entity": "Patrick Pearse",
+      "type": "Person"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Éinne",
+      "attribute": "Killeany monastery on Aranmore; patron of Pearse's Saint Enda's school"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Éinne'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Éinne is a MacKillop signpost to Énna.",
+    "key_results": [
+      "Cites Énna as the canonical headword.",
+      "Monastery place-name on Aranmore.",
+      "Patron of Pearse's 1908 school."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Éinne'."
+  }
+}

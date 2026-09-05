@@ -1,0 +1,33 @@
+{
+  "name": "jeshal",
+  "text": "jeshal is the Manx word for the sunwise turn, the deiseil in Irish and the deosil in Scottish Gaelic. MacKillop treats the Manx form as a brief pointer to the same record. The fuller record of the Celtic ritual direction, its use in folklore, and its role as a boundary gesture sits under sunwise_turn.",
+  "entities": [
+    {
+      "entity": "jeshal",
+      "type": "Concept"
+    },
+    {
+      "entity": "sunwise_turn",
+      "type": "Concept"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "jeshal",
+      "attribute": "Manx word for sunwise turn; pointer to sunwise_turn headword"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'jeshal'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "jeshal is a MacKillop pointer headword resolving to sunwise_turn.",
+    "key_results": [
+      "Signpost cites the headword sunwise_turn for the full record."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'jeshal'."
+  }
+}

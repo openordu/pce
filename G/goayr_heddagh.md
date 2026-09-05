@@ -2,45 +2,57 @@
 layout: layouts/pce.njk
 title: goayr heddagh
 icon: file-lines
-order: 1107
+order: 4467
 contributors: [ 'Christopher Godwin' ]
 attributes:
-  - Goban Soar owner of the great cow of abundance
-  - Goibniu Celtic smith god
-  - Glas Ghaibhleann great cow of abundance
+  - goayr heddagh Manx fairy creature or ghost
+  - goayr heddagh takes the form of a goat
+  - goayr heddagh silent tread marks it as one of the wandering dead
+  - goayr heddagh shares kinship with the Manx fairy host including the fynnoderee
+  - goayr heddagh recorded in nineteenth-century folkloric accounts
+  - goayr heddagh resembles a caprine specter rather than a living animal
 categories:
-  - person
-  - god
-  - culture
-  - mythical creature
+  - Place
+  - Group
+  - Being
 entities:
-  - Goban Soar(person)
-  - Celtic(culture)
-  - Goibniu(god)
-  - Glas Ghaibhleann(mythical creature)
+  - goayr heddagh(Being)
+  - Isle of Man(Place)
+  - fynnoderee(Being)
+  - fearglas(Being)
+  - glaistyn(Being)
+  - Manx(Group)
 tags:
-  - Goban Soar
-  - Celtic
-  - Goibniu
-  - Glas Ghaibhleann
+  - goayr heddagh
+  - Isle of Man
+  - fynnoderee
+  - fearglas
+  - glaistyn
+  - Manx
 ---
 ``` tab [group1:Info]
 ::: magazinestyle
-A creature known as the goayr heddagh haunts the Isle of Man. This being is either a fairy or ghost that has the appearance of a goat. Goban Saor, also known as Gobhan Saor or Gubawn Seer, is a folklore figure from British and Irish traditions. In regions of Britain and Ireland where the Vikings lived, one can find remnants of the divine Smith, Wayland, present in the character of Goban Saor. He is an amoral figure who, in one tale, put an elderly woman into his furnace so that he could transform her into a young maiden. Goban Saor is also said to have served as the architect for many significant churches. It can be challenging to extricate the various cultural influences present in tales of Goban Saor, who, like the Celtic smith god Goibniu, is sometimes depicted as possessing the Glas Ghaibhleann, the cow of abundance.
+The goayr heddagh is a ghost goat of Manx folklore. The creature haunts the Isle of Man, taking the form of a caprine specter that drifts between lanes, walls, and farm gates. Locals told of encounters on dark stretches of road, where the beast would appear without warning and vanish in the same breath. Its silent tread marked it as one of the ageless wandering dead rather than a living animal. The figure shares kinship with the fynnoderee, the shaggy native fairy of Manx tradition that some islanders count as a fallen shapeshifter. Tellers place the goayr heddagh alongside the Manx fairy host, with the fearglas and the glaistyn as close cousins. Both island and church records preserve the haunting, and folklorists of the nineteenth century recorded the tale before the last native Manx speakers passed. The figure endures as a small but vivid entry in the Celtic supernatural bestiary.
 
 :::
 ```
 ``` tab [group1:Attributes]
-- **Goban Soar**: owner of the great cow of abundance
-- **Goibniu**: Celtic smith god
-- **Glas Ghaibhleann**: great cow of abundance
+- **goayr heddagh**: Manx fairy creature or ghost
+- **goayr heddagh**: takes the form of a goat
+- **goayr heddagh**: silent tread marks it as one of the wandering dead
+- **goayr heddagh**: shares kinship with the Manx fairy host including the fynnoderee
+- **goayr heddagh**: recorded in nineteenth-century folkloric accounts
+- **goayr heddagh**: resembles a caprine specter rather than a living animal
 ```
 ``` tab [group1:Entities]
-- **Goban Soar**: person
-- **Celtic**: culture
-- **Goibniu**: god
-- **Glas Ghaibhleann**: mythical creature
+- **goayr heddagh**: Being
+- **Isle of Man**: Place
+- **fynnoderee**: Being
+- **fearglas**: Being
+- **glaistyn**: Being
+- **Manx**: Group
 ```
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
+- MacKillop 2008, s.v. 'goayr heddagh'
 ```

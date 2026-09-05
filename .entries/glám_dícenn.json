@@ -24,6 +24,14 @@
         {
             "entity": "geis",
             "type": "Concept"
+        },
+        {
+            "entity": "hija",
+            "type": "Concept"
+        },
+        {
+            "entity": "Hag",
+            "type": "Being"
         }
     ],
     "attributes": [
@@ -42,21 +50,38 @@
         {
             "entity": "geis",
             "attribute": "sacred vows broken by King Conaire"
+        },
+        {
+            "entity": "glám dícenn",
+            "attribute": "Irish poet's execration functioning as a weapon of war"
+        },
+        {
+            "entity": "glám dícenn",
+            "attribute": "could raise blisters on the victim's face or kill him"
+        },
+        {
+            "entity": "glám dícenn",
+            "attribute": "left the victim shunned at every level of society"
+        },
+        {
+            "entity": "glám dícenn",
+            "attribute": "parallels the hija of early Arab poets"
         }
     ],
     "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.",
+        "MacKillop 2008, s.v. 'glám dícenn'"
     ],
     "cyphertext": "z6RvTQOP7NdEK_-xC3UN6W8N8cWmE0jmo3ETNnLHtuS13NtyvLMI9_ihMSqgxOuCzWOF1agg-8FaW6Gru3C76S4biP7MX7cvmnHDgaWVAhlmj74aIZfalnubqqZtla0X6YpVyIfgfRNSEyoV8e1lb-PuRUt8_2J-4YKtQhdrXzzPq5f1ZCVjL46ohXFq1y1LATAqpG0ERlovRnYAO3XWmQGoEvvAXbn7tfRd2QUR1ML_OGUJZIHKJbNIsNTodF8pzzZU2n4gYXxywwns1pFl2OYfZcYxwIrl9re_hJDIqjmkbAQR8kzQb4cFF-OmCEMmJOWBp_RLcqkhZGKyMz4bjLJpdwzaR-x9cHj7L_BZ6TyFEE3gJv6hz0DzqQVuZNALZAdHZL60xYDKRaXmQ8Ryq0de54bktnbmxVjWgJxtNbIIKR8evHLtYQMmjvTAupNTNUkWdCq61rRSBI-LNDvgx_J2KBRm7sQ-9Npg8C1oZimUol2umvmOEWnWxRqHmX1rtQX1AU0isos4sHm9wFGve_wEuLpy8Onbg9Id8zOWxCFHT3NYMSFXryJmdEP2ImvqsP_H6enziLuJCd_eIlwqFrziziC-w4MyotJT4S0s928iSKXPpYeTO3VuYeDrsLF6MMJUODTPyQVrPGGDfcQiulLiHFDozu9zVy3gNf0As5cHsTDwD386-wPwT0DW",
     "salt": "6NTCUItJKezn3Yxn3P43qw==",
-    "text": "In ancient Ireland a bard or druid used a ritual posture to cast a curse. The posture was called glám dícenn. The caster stood on one leg. He held out one arm and closed one eye. The pose made the curse hard to avoid. A Hag used the glám dícenn against King Conaire. She cursed him for breaking his sacred vows, called geis. The story appears in Da Derga's Hostel.",
+    "text": "In ancient Ireland a bard or druid used a ritual posture to cast a poet's execration. The practice is known as the glám dícenn. The Irish word pairs glám, meaning satire or lampoon, with a verb form meaning to destroy outright. The caster stood on one leg in a crane-like pose. He closed one eye and stretched out one arm. The pose was not theatre. The ritual carried weight as a weapon of war. It could raise blisters on the target's face. It could cost the target his life. Society at every level shunned a man once the curse was laid. The form compares with the hija wielded by early Arab poets. A Hag used the glám dícenn against King Conaire in Da Derga's Hostel. She cursed him for breaking his sacred vows, called geis.",
     "okr": {
-        "objective": "Explain glám dícenn as the Irish ritual posture used to intensify a curse.",
+        "objective": "Present the glám dícenn as a poet's execration with a defined ritual posture and real social force.",
         "key_results": [
-            "A bard or druid used the glám dícenn to cast a curse.",
-            "The posture used one leg, one arm, and one closed eye.",
-            "A Hag used it to curse King Conaire in Da Derga's Hostel."
+            "A bard or druid cast the glám dícenn from a one-leg, one-arm, one-eye pose.",
+            "The ritual acted as a weapon of war that could maim or kill the target.",
+            "Society shunned the victim at every level, in the manner of the hija curse."
         ],
-        "evidence": "Monaghan 2008, s.v. 'glám dícenn'."
+        "evidence": "MacKillop 2008, s.v. 'glám dícenn'."
     }
 }

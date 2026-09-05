@@ -4,6 +4,18 @@
   {
    "entity": "Land Under Wave",
    "attribute": "a name for the Otherworld that means under the wave"
+  },
+  {
+   "entity": "Land Under Wave",
+   "attribute": "the MacKillop dictionary entry for wave is a short cross-reference pointing the reader to tonn, tír fo thuinn, and the white-black-red colour scheme"
+  },
+  {
+   "entity": "white-black-red symbolism",
+   "attribute": "a colour scheme that marks the boundary of the wave and the entrance to the drowned land in Celtic sea lore"
+  },
+  {
+   "entity": "Tir Fo Thuinn",
+   "attribute": "the buried country reached across the water from the land of the living in old Irish tradition"
   }
  ],
  "entities": [
@@ -18,20 +30,31 @@
   {
    "entity": "Otherworld",
    "type": "Place"
+  },
+  {
+   "entity": "tonn",
+   "type": "Concept"
+  },
+  {
+   "entity": "white-black-red symbolism",
+   "type": "Concept"
   }
  ],
  "sources": [
-  "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+  "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.",
+  "MacKillop 2008, s.v. 'wave'"
  ],
  "cyphertext": "8OdC5h8AOkBxoqg9_SqXFJrbiQxF-r5suukTejZYLqoQh4V8x_9LeSzoYH7-eRX6TW3yWPPuK-JzF5aP47T5",
  "salt": "S-JG4BELHMLX9HaKoe8zag==",
- "text": "Land Under Wave is one of the many names for the Celtic Otherworld. The source spells it as Tir Fo Thuinn, the land under the wave. The Otherworld is also called the plain of honey and the great plain. These names point to a land across the sea.",
+ "text": "Tír Fo Thuinn, the Land Under Wave, is one of the many names for the Celtic Otherworld. The phrase itself sets the sea above a buried realm. Old Irish tradition reaches that buried realm across the water from the land of the living. Other names carry the same idea of a distant and fertile country. The tradition also calls it the plain of honey and the great plain. All three names point to a land across the sea. In the MacKillop dictionary the entry for wave is a short cross-reference. The reader is sent to tonn for the older Irish term for wave. The reader is sent to tír fo thuinn for the buried country. The reader is sent to the black entry for the white-black-red colour scheme. That colour scheme runs through much of the Celtic sea lore. It ties the white of foam, the black of deep water, and the red of the setting sun. The three together mark the boundary of the wave and the entrance to the drowned land. Together the cross-reference and the three old names fix the Land Under Wave in the Celtic Otherworld.",
  "okr": {
-  "objective": "Explain the Otherworld name that means under the wave.",
+  "objective": "Record Tír Fo Thuinn as a fixed name for the Celtic Otherworld and link it to the wave cross-reference in MacKillop.",
   "key_results": [
-   "The source spells it Tir Fo Thuinn, the land under the wave.",
-   "Other names for the realm include the plain of honey and the great plain."
+   "Records the name Tír Fo Thuinn and translates it as the Land Under Wave",
+   "Records the plain of honey and the great plain as parallel Otherworld names",
+   "Notes that the MacKillop entry for wave sends the reader to tonn, tír fo thuinn, and the white-black-red colour scheme",
+   "Sets the white-black-red scheme as the colour mark of the wave and the entrance to the drowned land"
   ],
-  "evidence": "Monaghan, Encyclopedia of Celtic Mythology and Folklore (Checkmark 2008), s.v. Land Under Wave."
+  "evidence": "MacKillop 2008, s.v. 'wave'"
  }
 }

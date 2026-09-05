@@ -1,0 +1,38 @@
+{
+  "name": "foxglove",
+  "text": "foxglove is a tall plant of the genus digitalis with distinctive white or purple flowers. Classical tradition already knew its healing powers, real and supposed, for sprains, bruises, and bone troubles when applied externally. The plant is poisonous if swallowed. Gaelic and Welsh tradition treats its powers as a gift flowing from the realm of the fairy. The Irish name means fairy fingers (méirini piica) or fairy thimble (méaracán sidhe). Scottish Gaelic calls the plant banshee herb (lus-nam-ban-sith), parallel to Irish lus na mban sidhe. Hiberno-English keeps the prestige of the plant in the word lusmore, from Irish lus mór, great herb. Manx uses sleggan for the plant. Welsh names it bysedd y cŵn, dog finger. Cornish calls it manneklowam, and Breton bruluenn.",
+  "entities": [
+    {
+      "entity": "foxglove",
+      "type": "Thing"
+    },
+    {
+      "entity": "digitalis",
+      "type": "Thing"
+    },
+    {
+      "entity": "fairy",
+      "type": "Being"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "foxglove",
+      "attribute": "Tall flowering plant of genus digitalis, named for fairy powers in Celtic traditions"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'foxglove'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "foxglove is a headword in MacKillop's Dictionary of Celtic Mythology.",
+    "key_results": [
+      "Externally applied for sprains, bruises, and bone troubles; poisonous if swallowed.",
+      "Irish, Scottish Gaelic, Welsh, Cornish, Breton, and Manx names all link the plant to the fairy realm."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'foxglove'."
+  }
+}

@@ -52,6 +52,38 @@
         {
             "entity": "Mabinogi",
             "attribute": "tales show support between foster kin in later life"
+        },
+        {
+            "entity": "fosterage",
+            "attribute": "MacKillop frames it as training and protection by a distinguished patron outside the family"
+        },
+        {
+            "entity": "fosterage",
+            "attribute": "survived in Gaelic Scotland into the 18th century"
+        },
+        {
+            "entity": "fosterage",
+            "attribute": "set by the Brehon Laws of early Ireland"
+        },
+        {
+            "entity": "fosterer",
+            "attribute": "might be a distant chieftain, a druid, or a monk"
+        },
+        {
+            "entity": "fosterage",
+            "attribute": "children began at age seven"
+        },
+        {
+            "entity": "fosterage",
+            "attribute": "girls left at fourteen and boys at seventeen"
+        },
+        {
+            "entity": "fosterage",
+            "attribute": "Christian-era fosterage added revealed belief and classical languages"
+        },
+        {
+            "entity": "fosterage",
+            "attribute": "a former foster child served as an ally in maturity"
         }
     ],
     "entities": [
@@ -102,23 +134,44 @@
         {
             "entity": "bondman",
             "type": "role"
+        },
+        {
+            "entity": "Brehon Laws",
+            "type": "Text"
+        },
+        {
+            "entity": "druid fosterer",
+            "type": "Role"
+        },
+        {
+            "entity": "monk fosterer",
+            "type": "Role"
+        },
+        {
+            "entity": "Gaelic Scotland",
+            "type": "Place"
         }
     ],
     "sources": [
         "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.",
-        "Koch 2006, s.v. 'fosterage'"
+        "Koch 2006, s.v. 'fosterage'",
+        "MacKillop 2008, s.v. 'fosterage'"
     ],
     "cyphertext": "IUtvdKc0_qzn-TMfDBOt-szj185Xyy83fo5AJhKvhbPR_g6aekGHGxbRR_92Jqr0TWLwL-XT1vqTzKKDQeE-ryOUJbE9TWBALVNGvRZTOO1VYjLU36rSY0NKGpcgEd87rn7ii0yb50d615kx97WRB0Bwg5O-YcqxeTO0dbfrhhGn9vzt8ZuR7BFXRfdtr4_-LK4FQx0yoCr4PctFEb84lyCWa_syVihBAum3gA5GSgID-dgnUnyqnBhnO3ooHLcE-LXVqFMKHKclJZiXgf8XrlOHy3hL3ai2IPMdD6MK-guvfjdn0HXD00DfgOsPgZKZ0Cxox_OUkxQQdaK5Grtkw4YD3_kEgchDXITuoS0tlmsbF6E4A-S7hjQn4jGIkUiRFGgvVhogzUP__Qmj5GQFVWE4Byx6IVvlIszzKSdu0b7MNkILxnd9HnPZ4tkKoyYli4yEPDAQijF7OPZS756b1M9pHhGBM-Gfe6D0P9gCJBADxNgWFdz9M4oJnXCmPuarVYfYD2Z2zXoGXrvb00OY3n3Gj3ghTqlBa7ocd25mt84M_2XfQ-KZ985knTEYBs-jxdXDw8Tp9TlE2MPc0_FBqTHr6a4pAaeRbFdDQCol67svXMr7bBGi_6KimfQG8ojAtK_PFHk420tBBEs9eZM89Zc9LMDoFEbx4zhyY8Y9OqDHcoDu_xUprj4EUIysWXKKa5uAgammUMYR_Zi3fu68qbJlRc-YbjE7VVkJkEEwgLNeezL0KdtZUI29O9naFUNA9iAlWVbr91hH1v7CxgTeyPHw-4UHzgL6ZO0ZwOsHKh1fJzRUDcXOMhQKofWG96IS9A60NpWBnRQGFguVIZxs2jaGU6u4pkL9thAERXSeeRz_p4i4h5P-Q0w486ovpQCmR0htTlDmx-vzJ4_SsjA6OXWIM0vf5-TtkHy-Q4h227vWJ7YZcrv6AZv7RnttffGTzaP6bAAnq7alTI7JkSHyfBF8PMSDmdgZ7Kr89rw6bQ_Z_kbei6BAzQOu8xs7WdAtbc3B0xkfZIVBr98rbzwRL_9ZvL5E4gmLP5qgyL-sLRQv39eVMzpbucSb9-q02Ab8fXjmBRDPXLjCG8s_tk0-PyH-7PPvjE4Dh5PzIQlnZugaYplIqU82CcUKPLIICXziIaEqDPQPKvmpqm5YSxhKgE4zmS8LNO-kXJ9HfUJOM4JmdXP1fa4oYfPDPMObOdPckz8YutiwxGJiJqdwFSv7rwO3Yqb-bWBIRTt3L2FGHK28v_TfNQDycHc8L3emIXGYTDscbnUJv_EL8lA6N_yuWV_NtfedAsSOSBd1QhylOJMiHQDU7Os7aE34SUfddbVrdPJe6nlRWtDFRTmatGvgcYrHr7JFhtRa4vg2dIjXmRxjsEYqwlFO1K4GDfNCdynkPbRmiYvW2RPJ4UC2vFkAyl90s3LiWuJtjTXKIztKX2djvUhgqLQjuEfHqsnUhSpYM92rLZekQK37vPgkqjyXvhH_6oqeUvSzsAmvRo22mhfo8dBb6z-VTbzstFt7ZwGi0HOnKby-jkv4RG-pWPX9SetB0bWRoMchK82Rd5vS30yI7UoTS17yoTcuEJGE57SB_kYojyQR-m2dHagxuNL4LcQBojq3JYIUNGncv3W7jx4s2hkmONeJ3vfCq-GTrLzlUhF4dZ48PsEk21QWhjy30ZXQ7y7APDxhWFpgcSH0f3GLdtNUHHQK55Rio51Sx6R86p7Dy1ROV51o63_Toe-rXJCBOkDuunITC2BFpmshnbNic3xKY6YEFUE4JRaowWpE5gGvIzxGdaV2pQ_upJZ6-_uQjjYK0fkOGrseEsBYdmhT0KmJGhldjE9eWlsJhHb8udj5bnL_P0krSfQ0kmWQjME3niYdN_sOXFG9lywRBqYGtbqY0QTWMBJokiSaFc7JAxsj8d4_X2zepcezqY-pvKY7mv6S4YSLWwDDe4--udS889khxyWWTpJNnOG2ooXcwal1MdFi00ejyMpfkV311vWCxEpMV5OVuS8Kx90tW8dtuwDWUMRdmXePUPj-m_i_0vKu0pEw531ay66s8Td4t8tdULFR_WKLbFyt8w4adO5qY6rufuRQHA2fUvmxId4Hvzl65EmB",
     "salt": "xhfqAgM5bkQDGYPeKr50bg==",
-    "text": "Fosterage is a system of child care. In this system, adults who are not a child's parents raise the child. The child stays a fixed period. The practice follows set rules. In early Ireland the custom was already established. Its roots stretch back into an Indo-European past. The true origin remains unclear. Old Irish terms carry warmth. Aite names the foster father. Muime names the foster mother. These words draw on a common baby talk. Altram, the main word, carries the sense of feeding and nurture. Dalta names the foster child. Irish legal notes hold three age stages, ending at seven, twelve, and seventeen years. Families chose their own start. The deal stood as a formal contract. One kind ran on a fee. Another kind ran on affection. The fee rose with rank. It took the form of cattle. That payment returned to the family when the term closed. A girl child made the fee higher. Education stood at the core. A fine of two parts fell when a set skill went untaught. The freeman's child learned the quern and food work. Children of higher grade learned games and riding. Both sets of kin paid. Each half gave one share. The mother's kin could protest a match. They kept that right. A blemish on the child cost the foster father two thirds of the fee. Foster care bought by friendship freed the foster parents from the foster child's crimes. Fee-based care made them liable. The age of the child shaped the duty owed. A foster parent could hand the child back by a public claim. The maternal uncle carried strong weight. King Conchobar mac Nessa raised his nephew Cuchulainn in his court. The hero later fought his foster brother Ferdiad to the end. The tie of uncle to fosterling nearly matched parent to child. It bound the child to care for the older kin too. In Wales the record runs thinner. Welsh law placed the child at the father's dish. A child kept with a bondman past a year and a day could win a land right. The tales of the Mabinogi affirm the bond. A fostered adult gave support to his kin in later life. Both sides said the tie should bring prosperity. Fosterage joined households, duties, and fortunes. The practice stood on the strength of its own kinship.",
+    "text": "Fosterage is a system of child care. In this system, adults who are not a child's parents raise the child. The child stays a fixed period. The practice follows set rules. In early Ireland the custom was already established. Its roots stretch back into an Indo-European past. The true origin remains unclear. Old Irish terms carry warmth. Aite names the foster father. Muime names the foster mother. These words draw on a common baby talk. Altram, the main word, carries the sense of feeding and nurture. Dalta names the foster child. Irish legal notes hold three age stages, ending at seven, twelve, and seventeen years. Families chose their own start. The deal stood as a formal contract. One kind ran on a fee. Another kind ran on affection. The fee rose with rank. It took the form of cattle. That payment returned to the family when the term closed. A girl child made the fee higher. Education stood at the core. A fine of two parts fell when a set skill went untaught. The freeman's child learned the quern and food work. Children of higher grade learned games and riding. Both sets of kin paid. Each half gave one share. The mother's kin could protest a match. They kept that right. A blemish on the child cost the foster father two thirds of the fee. Foster care bought by friendship freed the foster parents from the foster child's crimes. Fee-based care made them liable. The age of the child shaped the duty owed. A foster parent could hand the child back by a public claim. The maternal uncle carried strong weight. King Conchobar mac Nessa raised his nephew Cuchulainn in his court. The hero later fought his foster brother Ferdiad to the end. The tie of uncle to fosterling nearly matched parent to child. It bound the child to care for the older kin too. In Wales the record runs thinner. Welsh law placed the child at the father's dish. A child kept with a bondman past a year and a day could win a land right. The tales of the Mabinogi affirm the bond. A foster tie stood five times stronger than blood. MacKillop frames fosterage as training and protection by a distinguished patron outside the family. The English word falls short, since it carries the sense of charity. The custom survived in Gaelic Scotland into the eighteenth century. The Brehon Laws of early Ireland set the rules. Wealthy men sometimes had children by several wives. Primogeniture did not always pass the inheritance. The fosterer might be a distant chieftain, a druid, or a monk. The arts of war stood alongside poetry, music, and games. Children began at seven years. They left at fourteen for girls and seventeen for boys. In Christian times they also learned belief and classical languages. A former foster child became an ally in maturity.",
     "okr": {
-        "objective": "Fosterage was the formal early custom of raising a noble family's child under another's care.",
+        "objective": "Fosterage was the formal early custom of raising children outside the family under set law.",
         "key_results": [
             "Irish law set age stages that closed at seven, twelve, and seventeen years.",
             "An affection-based tie freed foster parents from a foster child's misdeeds.",
             "The maternal uncle's role carried legal weight in Irish fosterage.",
-            "A foster relationship could open a land right in Wales."
+            "A foster relationship could open a land right in Wales.",
+            "MacKillop frames fosterage as training and protection by a distinguished outside patron.",
+            "Gaelic Scotland kept the custom into the eighteenth century.",
+            "Children began at seven and left at fourteen for girls and seventeen for boys.",
+            "A former foster child became an ally to the former patron in maturity."
         ],
-        "evidence": "Koch 2006, s.v. 'fosterage'"
+        "evidence": "MacKillop 2008, s.v. 'fosterage'"
     }
 }

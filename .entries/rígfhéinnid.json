@@ -1,0 +1,39 @@
+{
+  "name": "rígfhéinnid",
+  "text": "rígfhéinnid names the leader of the Fianna in Irish tradition. The compound ríg and fiinnid gives king-warrior as the literal reading of the title. MacKillop ties the rank to Fionn mac Cumhaill as its best-known holder. The rígfhéinnid stood at the head of the warrior-band in the Fenian cycle and led the hunt across Ireland. The title marked the highest office among the Fianna's roving warriors in early Celtic tradition.",
+  "entities": [
+    {
+      "entity": "rígfhéinnid",
+      "type": "Person"
+    },
+    {
+      "entity": "Fianna",
+      "type": "Tribe"
+    },
+    {
+      "entity": "Fionn mac Cumhaill",
+      "type": "Person"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "rígfhéinnid",
+      "attribute": "Leader of the Fianna; title held by Fionn mac Cumhaill"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'rígfhéinnid'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "rígfhéinnid is the MacKillop headword for the Fianna-leadership title.",
+    "key_results": [
+      "Title of the leader of the Fianna.",
+      "Held by Fionn mac Cumhaill.",
+      "Compound of ríg (king) and fiinnid (warrior)."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'rígfhéinnid'."
+  }
+}

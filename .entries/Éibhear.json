@@ -1,0 +1,38 @@
+{
+  "name": "Éibhear",
+  "text": "Éibhear is the modern Irish spelling of Éber, one of the mythological founders of the Irish race. MacKillop reads the form as the contemporary rendering of the older name. The principal record sits under Éber.",
+  "entities": [
+    {
+      "entity": "Éibhear",
+      "type": "Person"
+    },
+    {
+      "entity": "Éber",
+      "type": "Person"
+    },
+    {
+      "entity": "Modern Irish",
+      "type": "Language"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Éibhear",
+      "attribute": "Modern Irish spelling of Éber; pointer to Éber headword"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Éibhear'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Éibhear is a MacKillop signpost to Éber.",
+    "key_results": [
+      "Cites Éber as the canonical headword.",
+      "Modern Irish form of the mythological founder."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Éibhear'."
+  }
+}

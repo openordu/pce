@@ -1,0 +1,42 @@
+{
+  "name": "Énna Cennselach",
+  "text": "Énna Cennselach is a legendary forebear of the kings of south Leinster. In a note supplied by medieval Irish commentators, he is presented as the killer of Eochaid Mugmedón. MacKillop reads the figure as the royal ancestor of the Leinster ruling line in the surviving genealogies.",
+  "entities": [
+    {
+      "entity": "Énna Cennselach",
+      "type": "Person"
+    },
+    {
+      "entity": "Leinster",
+      "type": "Place"
+    },
+    {
+      "entity": "Eochaid Mugmedón",
+      "type": "Person"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Énna Cennselach",
+      "attribute": "Legendary ancestor of south Leinster kings"
+    },
+    {
+      "entity": "Énna Cennselach",
+      "attribute": "Said to have killed Eochaid Mugmedón in medieval anecdote"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Énna Cennselach'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Énna Cennselach is the MacKillop headword for the Leinster ancestor.",
+    "key_results": [
+      "Ancestor of the south Leinster kings.",
+      "Said to have killed Eochaid Mugmedón."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Énna Cennselach'."
+  }
+}

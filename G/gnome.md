@@ -2,40 +2,64 @@
 layout: layouts/pce.njk
 title: gnome
 icon: file-lines
-order: 1105
+order: 1268
 contributors: [ 'Christopher Godwin' ]
 attributes:
-  - Dwarfs familiar to modern children from the tale of Sleeping Beauty
-  - gnome a variation of
+  - gnome earth-element being from medieval alchemy
+  - gnome lived under the ground and worked as miners
+  - gnome not a Celtic creature and carries no folk legends
+  - gnome coined as a concept by Paracelsus in the sixteenth century
+  - gnome framed as a fabled race of treasure-guarding dwarfs
+  - gnome carries international folk motif number F456
+  - gnome parallels the Cornish knocker and the Breton goric
 categories:
-  - mythical creature
-  - fairy tale
-  - fictional characters
+  - Concept
+  - Creature
+  - Person
+  - Being
 entities:
-  - Dwarfs(fictional characters)
-  - Sleeping Beauty(fairy tale)
-  - gnome(mythical creature)
+  - gnome(Being)
+  - fairy(Creature)
+  - knocker(Creature)
+  - dwarf(Being)
+  - Paracelsus(Person)
+  - gnomus(Concept)
+  - goric(Being)
 tags:
-  - Dwarfs
-  - Sleeping Beauty
   - gnome
+  - fairy
+  - knocker
+  - dwarf
+  - Paracelsus
+  - gnomus
+  - goric
 ---
 ``` tab [group1:Info]
 ::: magazinestyle
-Folkloric figures known as gnomes have been found in Celtic lands. However, they are not traditionally Celtic creatures. Instead, they were imagined by medieval science and alchemy to represent creatures of each of the four elements: fire (salamanders), water (nereids), air (sylphs), and earth (gnomes). Gnomes were believed to live underground, possibly working as miners, and the word itself may derive from “earth-dweller.” Although they are sometimes confused with creatures of authentic folklore such as Fairies and Knockers, there are no real legends attached to gnomes. In modern culture, Dwarfs from tales such as Sleeping Beauty are often seen as a variation of gnomes.
+The gnome is not a native Celtic creature. It entered the Celtic world from medieval science and alchemy. Thinkers mapped a being onto each element. Salamanders stood for fire. Nereids stood for water. Sylphs stood for air. Gnomes stood for earth. People imagined gnomes living underground and working as miners. The Latin name gnomus may give the word its root. Scholars trace the idea to Paracelsus, the sixteenth-century alchemist. He framed the gnome as a fabled race of treasure-guarding dwarfs. The role gave it the folkloric task of hoarding riches under the earth. Celtic tradition offers few true parallels. The knocker of Cornwall and the goric of Brittany come closest. Folklorists catalogue the figure under international motif F456. People still confuse gnomes with fairies and with knockers. The dwarfs of Sleeping Beauty carry a softer version of the gnome.
 
 :::
 ```
 ``` tab [group1:Attributes]
-- **Dwarfs**: familiar to modern children from the tale of Sleeping Beauty
-- **gnome**: a variation of
+- **gnome**: earth-element being from medieval alchemy
+- **gnome**: lived under the ground and worked as miners
+- **gnome**: not a Celtic creature and carries no folk legends
+- **gnome**: coined as a concept by Paracelsus in the sixteenth century
+- **gnome**: framed as a fabled race of treasure-guarding dwarfs
+- **gnome**: carries international folk motif number F456
+- **gnome**: parallels the Cornish knocker and the Breton goric
 ```
 ``` tab [group1:Entities]
-- **Dwarfs**: fictional characters
-- **Sleeping Beauty**: fairy tale
-- **gnome**: mythical creature
+- **gnome**: Being
+- **fairy**: Creature
+- **knocker**: Creature
+- **dwarf**: Being
+- **Paracelsus**: Person
+- **gnomus**: Concept
+- **goric**: Being
 ```
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
+- MacKillop 2008, s.v. 'gnome'
 ```
 ![gnome Image](https://upload.wikimedia.org/wikipedia/commons/3/31/Heinrich_Schlitt_Gnom_mit_Zeitung_und_Tabakspfeife.jpg)

@@ -1,0 +1,33 @@
+{
+  "name": "millpreve",
+  "text": "millpreve is a MacKillop headword naming the Cornish version of the druidical adder stones. MacKillop records the form as a regional variant of the broader Celtic folklore tradition. The full record of the druidical adder-stone tradition sits under the headword adder stone.",
+  "entities": [
+    {
+      "entity": "millpreve",
+      "type": "Thing"
+    },
+    {
+      "entity": "adder stone",
+      "type": "Thing"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "millpreve",
+      "attribute": "Cornish version of druidical adder stones; pointer to adder stone headword"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'millpreve'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "millpreve is a MacKillop headword for the Cornish adder stones.",
+    "key_results": [
+      "Signpost cites adder stone as the canonical headword."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'millpreve'."
+  }
+}

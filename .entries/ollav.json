@@ -1,0 +1,33 @@
+{
+  "name": "ollav",
+  "text": "ollav is a MacKillop headword naming the phonetic anglicization of ollam, the Irish poet grade. MacKillop lists ollav alongside the alternate form ollave as standard English spellings of the same word. The full record of the ollam poetic tradition in early Irish literature sits under the headword ollam.",
+  "entities": [
+    {
+      "entity": "ollav",
+      "type": "Concept"
+    },
+    {
+      "entity": "ollam",
+      "type": "Person"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "ollav",
+      "attribute": "Phonetic anglicization of ollam; pointer to ollam headword"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'ollav'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "ollav is a MacKillop headword for the anglicization of ollam.",
+    "key_results": [
+      "Signpost cites ollam as the canonical headword."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'ollav'."
+  }
+}
