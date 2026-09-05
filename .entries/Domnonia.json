@@ -1,0 +1,48 @@
+{
+  "name": "Domnonia",
+  "attributes": {
+    "category": "place",
+    "domain": "brittany",
+    "associations": [
+      "Brittany",
+      "Armorica",
+      "Cornouaille",
+      "Bro Waroch",
+      "Léon",
+      "Côtes d'Armor",
+      "Finistère",
+      "Dumnonia"
+    ]
+  },
+  "entities": [
+    {"name": "Domnonia", "type": "Place"},
+    {"name": "Brittany", "type": "Place"},
+    {"name": "Cornouaille", "type": "Place"},
+    {"name": "Bro Waroch", "type": "Place"},
+    {"name": "Léon", "type": "Place"},
+    {"name": "Côtes d'Armor", "type": "Place"},
+    {"name": "Finistère", "type": "Place"},
+    {"name": "Dumnonia", "type": "Place"}
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Domnonia'."
+  ],
+  "cyphertext": "",
+  "salt": "",
+  "image": [],
+  "text": "Domnonia is the Latin name for the British kingdom in Brittany, the old Armorica. The kingdom was established in the fifth century AD. Domnonia was one of three kingdoms, along with Cornouaille and Bro Waroch. It covered most of northern Brittany. After 530 the kingdom took in the province of Léon in the north-west. Its relationship with the British province of Dumnonia, covering Devon and Cornwall, is not certain. A portion of the kingdom became the pre-Napoleonic county of Domnonée. Today it covers the Departments of Côtes d'Armor and Finistère north of the River Élorn. The sister south-western Domnonia sits in Dumnonia on the British side of the Channel.",
+  "okr": {
+    "objective": "Domnonia as the fifth-century British kingdom of northern Brittany and its sister south-western Domnonia.",
+    "key_results": [
+      "Domnonia is the Latin name for the Breton kingdom in Armorica.",
+      "The kingdom was established in the fifth century AD.",
+      "It was one of three kingdoms, with Cornouaille and Bro Waroch.",
+      "It covered most of northern Brittany.",
+      "It took in Léon after 530.",
+      "Its link to British Dumnonia in Devon and Cornwall is uncertain.",
+      "Today it covers Côtes d'Armor and northern Finistère.",
+      "The south-western Domnonia routes to Dumnonia."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Domnonia'"
+  }
+}

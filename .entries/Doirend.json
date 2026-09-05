@@ -1,0 +1,41 @@
+{
+  "name": "Doirend",
+  "attributes": {
+    "category": "person",
+    "domain": "ireland",
+    "associations": [
+      "Midir's daughter",
+      "Bodb's daughter",
+      "Fenian Cycle",
+      "Fionn",
+      "enchanted mead"
+    ]
+  },
+  "entities": [
+    {"name": "Doirend", "type": "Person"},
+    {"name": "Midir", "type": "Person"},
+    {"name": "Bodb", "type": "Person"},
+    {"name": "Fionn mac Cumhaill", "type": "Person"},
+    {"name": "Fenian Cycle", "type": "Group"}
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Doirend, Doirenn, Doireand, Doirinn, Dairenn, Dairean, Daireann, Doireann'."
+  ],
+  "cyphertext": "",
+  "salt": "",
+  "image": [],
+  "text": "Doirend bears many spellings. MacKillop lists Doirenn, Doireand, Doirinn, Dairenn, Dairean, Daireann, and Doireann as variants. Several female figures in Irish myth and legend carry the name. They are usually minor characters in other figures' stories. One is the daughter of Midir the fairy king. The most significant belongs to the Fenian Cycle. She is the woman of the sidh, supposedly daughter of Bodb. She tempted Fionn and made him pay. She offered to be his wife if he would be faithful for a year and half of that time after. When Fionn refused, she gave him a cup of enchanted mead. The drink drove him insane.",
+  "okr": {
+    "objective": "Doirend as the sidh-woman of the Fenian Cycle and her variants across legend.",
+    "key_results": [
+      "Doirend has many variant spellings, including Doireann.",
+      "The name is borne by several female figures in Irish legend.",
+      "One is a daughter of Midir the fairy king.",
+      "The most significant is the woman of the sidh in the Fenian Cycle.",
+      "She was supposedly the daughter of Bodb.",
+      "She offered to be Fionn's wife for a year and a half.",
+      "Fionn refused, and she drove him mad with enchanted mead."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Doirend, Doirenn, Doireand, Doirinn, Dairenn, Dairean, Daireann, Doireann'"
+  }
+}

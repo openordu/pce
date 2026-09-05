@@ -1,0 +1,41 @@
+{
+  "name": "Domnall Brecc",
+  "attributes": {
+    "category": "person",
+    "domain": "scotland",
+    "associations": [
+      "Dál Riada",
+      "Domnall mac Áedo",
+      "Battle of Mag Rath",
+      "Buile Shuibhne",
+      "Conall"
+    ]
+  },
+  "entities": [
+    {"name": "Domnall Brecc", "type": "Person"},
+    {"name": "Dál Riada", "type": "Place"},
+    {"name": "Domnall", "type": "Person"},
+    {"name": "Congal Cáech", "type": "Person"},
+    {"name": "Battle of Mag Rath", "type": "Battle"},
+    {"name": "Suibhne", "type": "Person"}
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Domnall Brecc, Breac'."
+  ],
+  "cyphertext": "",
+  "salt": "",
+  "image": [],
+  "text": "Domnall Brecc, where Brecc means speckled, was the king of Dál Riada. That was the Irish enclave in north Strathclyde, the old Argyllshire, until 1974. Domnall Brecc fought the high-king Domnall mac Áedo over an Irish dynastic dispute. MacKillop places his defeat at the Battle of Mag Rath, also known as Moira, around 637. The battle coincided with the madness of Suibne in Buile Shuibhne. Domnall Brecc had a magical shield. The shield was pierced by Conall during the fighting. His loss to Domnall mac Áedo was the decisive engagement that cost Dál Riada its Irish territories.",
+  "okr": {
+    "objective": "Domnall Brecc as the defeated Dál Riada king at Mag Rath in 637.",
+    "key_results": [
+      "Domnall Brecc means speckled Domnall.",
+      "He was king of Dál Riada in north Strathclyde.",
+      "He fought the high-king Domnall mac Áedo.",
+      "MacKillop dates his defeat at Mag Rath to c.637.",
+      "The same battle triggered the madness of Suibhne in Buile Shuibhne.",
+      "His magical shield was pierced by Conall."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Domnall Brecc, Breac'"
+  }
+}

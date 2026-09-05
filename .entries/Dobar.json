@@ -1,0 +1,39 @@
+{
+  "name": "Dobar",
+  "attributes": {
+    "category": "person",
+    "domain": "ireland",
+    "associations": [
+      "Oidheadh Chlainne Tuireann",
+      "Lug Lámfhota",
+      "children of Tuireann",
+      "Sicily",
+      "magical horses"
+    ]
+  },
+  "entities": [
+    {"name": "Dobar", "type": "Person"},
+    {"name": "Lug Lámfhota", "type": "Person"},
+    {"name": "Children of Tuireann", "type": "Group"},
+    {"name": "Sicily", "type": "Place"}
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Dobar, Dobhar'."
+  ],
+  "cyphertext": "",
+  "salt": "",
+  "image": [],
+  "text": "Dobar, also written Dobhar, is the fanciful king of Siogar in the Fate of the Children of Tuireann. MacKillop notes the place as probably Sicily, with the Old Irish form Sieil for the same island. Dobar owned horses that travelled with equal ease over land and sea. Lug Lámfhota ordered the Children to fetch the horses and the royal chariot. They obeyed by killing Dobar with a poisoned spear. The tale belongs to the cycle of plundering quests assigned to the Tuireann brothers.",
+  "okr": {
+    "objective": "Dobar as the Sicilian king whose magical horses drew the Tuireann brothers' quest.",
+    "key_results": [
+      "Dobar ruled the fanciful land of Siogar.",
+      "MacKillop identifies Siogar as probably Sicily.",
+      "He owned horses that travelled over land and sea.",
+      "Lug Lámfhota commanded the Children of Tuireann to bring them.",
+      "Dobar was killed by a poisoned spear.",
+      "The variant spelling is Dobhar."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Dobar, Dobhar'"
+  }
+}

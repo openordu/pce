@@ -1,0 +1,42 @@
+{
+  "name": "Domnainn",
+  "attributes": {
+    "category": "people",
+    "domain": "ireland",
+    "associations": [
+      "Fir Domnann",
+      "Fir Dhomhnann",
+      "Domnannaig",
+      "Laginians",
+      "Dumnonii",
+      "P-Celt",
+      "north-west Mayo"
+    ]
+  },
+  "entities": [
+    {"name": "Domnainn", "type": "People"},
+    {"name": "Lagin", "type": "People"},
+    {"name": "Galióin", "type": "People"},
+    {"name": "Dumnonii", "type": "People"},
+    {"name": "Mayo", "type": "Place"}
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Domnainn, Fir Domnann, Fir Dhomhnann, Domnannaig'."
+  ],
+  "cyphertext": "",
+  "salt": "",
+  "image": [],
+  "text": "The Domnainn, also called Fir Domnann, Fir Dhomhnann, or Domnannaig, are one of three early invading Celtic peoples of Ireland. The other two were the Lagin and the Galióin, known collectively as the Laginians. MacKillop suggests that the Domnainn, like their companions, may have been P-Celts from Great Britain. He adds that the distinction between the three groups is now thought to be the invention of tendentious medieval historians. The Domnainn of pre-Roman Britain are usually taken as cognates of the Irish Domnainn. They ultimately settled in north-west County Mayo. Allusions to their name survive in place-names across Ireland.",
+  "okr": {
+    "objective": "The Domnainn as the P-Celt people of north-west Mayo and their British cognates.",
+    "key_results": [
+      "The Domnainn are also Fir Domnann, Fir Dhomhnann, and Domnannaig.",
+      "They are one of three early invading peoples, with the Lagin and Galióin.",
+      "MacKillop treats them as probably P-Celts from Great Britain.",
+      "He regards the tripartite distinction as a medieval historian's invention.",
+      "The Domnainn ultimately settled in north-west County Mayo.",
+      "The Dumnonii of pre-Roman Britain are their usual cognates."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Domnainn, Fir Domnann, Fir Dhomhnann, Domnannaig'"
+  }
+}

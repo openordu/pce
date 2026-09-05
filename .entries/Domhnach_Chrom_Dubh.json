@@ -1,0 +1,34 @@
+{
+  "name": "Domhnach Chrom Dubh",
+  "attributes": {
+    "category": "festival",
+    "domain": "ireland",
+    "associations": [
+      "Sunday of Crom Dubh",
+      "Lughnasa",
+      "harvest festival"
+    ]
+  },
+  "entities": [
+    {"name": "Domhnach Chrom Dubh", "type": "Festival"},
+    {"name": "Crom Dubh", "type": "Mythology"},
+    {"name": "Lughnasa", "type": "Festival"}
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Domhnach Chrom Dubh'."
+  ],
+  "cyphertext": "",
+  "salt": "",
+  "image": [],
+  "text": "Domhnach Chrom Dubh means Sunday of Crom Dubh in Irish. MacKillop gives the name as another name for Lughnasa. The harvest festival at Lughnasa sits at the heart of late-summer Irish tradition. Crom Dubh's hiding was once blamed for bad harvests. The linkage to that older stratum sits inside the harvest festival of Lughnasa. The older Sunday-of-Crom-Dubh observance gets absorbed into the wider Lugh festival complex. The harvest traditions of late summer carried Crom Dubh's older stratum forward.",
+  "okr": {
+    "objective": "Domhnach Chrom Dubh as an Irish harvest-Sunday name for Lughnasa.",
+    "key_results": [
+      "The name means Sunday of Crom Dubh.",
+      "MacKillop treats it as another name for Lughnasa.",
+      "It sits in the late-summer harvest tradition.",
+      "Crom Dubh is the older mythological figure behind the festival."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Domhnach Chrom Dubh'"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "name": "Doire",
+  "attributes": {
+    "category": "place",
+    "domain": "ireland",
+    "associations": [
+      "oak grove",
+      "River Foyle",
+      "Colum Cille",
+      "Derry",
+      "Londonderry",
+      "Doire Calgaich"
+    ]
+  },
+  "entities": [
+    {"name": "Doire", "type": "Place"},
+    {"name": "Colum Cille", "type": "Person"},
+    {"name": "River Foyle", "type": "Place"},
+    {"name": "Calgach", "type": "Person"},
+    {"name": "Derry", "type": "Place"}
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Doire'."
+  ],
+  "cyphertext": "",
+  "salt": "",
+  "image": [],
+  "text": "Doire, simply the Irish word for oak grove, gave its name to many places on the early map. The most famous of these is the monastic settlement on the west banks of the River Foyle. Colum Cille reputedly established it after 544. The settlement was sometimes called Doire Choluim Chille in his honour. The earlier pagan name was Doire Calgaich, the oak grove of Calgach. Doire is coextensive with the modern industrial city of Derry, the fourth largest in Ireland. The British have called it Londonderry since the reign of James I.",
+  "okr": {
+    "objective": "Doire as the Irish oak-grove name carried forward into modern Derry/Londonderry.",
+    "key_results": [
+      "Doire means oak grove in Old Irish.",
+      "Many early Irish places bore the name.",
+      "The most famous is Colum Cille's foundation on the Foyle.",
+      "The earlier name was Doire Calgaich.",
+      "The monastic form was Doire Choluim Chille.",
+      "The site is modern Derry, the fourth largest city in Ireland.",
+      "The British name Londonderry dates from James I."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Doire'"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "name": "Domnannaig",
+  "attributes": {
+    "category": "people",
+    "domain": "ireland",
+    "associations": [
+      "Domnainn",
+      "Fir Domnann",
+      "Laginians"
+    ]
+  },
+  "entities": [
+    {"name": "Domnannaig", "type": "People"},
+    {"name": "Domnainn", "type": "People"}
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Domnannaig'."
+  ],
+  "cyphertext": "",
+  "salt": "",
+  "image": [],
+  "text": "Domnannaig is a synonym variant. MacKillop routes readers to the Domnainn entry, the canonical spelling for the same early Celtic people of Ireland. Domnannaig and Fir Domnann are both names in circulation for the group that settled in north-west Mayo. The see-ref into the Domnainn node keeps all variants accounted for in a single people record. No separate history is attempted here.",
+  "okr": {
+    "objective": "Domnannaig as a see-ref variant spelling for the Domnainn people.",
+    "key_results": [
+      "Domnannaig is a synonym form of Domnainn.",
+      "MacKillop points to the Domnainn headword as the canonical entry.",
+      "The two names denote the same early Celtic people.",
+      "The variant preserves the historical attestation route."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Domnannaig'"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "name": "Domhnach",
+  "attributes": {
+    "category": "person",
+    "domain": "ireland",
+    "associations": [
+      "Demne Máel",
+      "oral tradition",
+      "Modern Irish variant"
+    ]
+  },
+  "entities": [
+    {"name": "Domhnach", "type": "Person"},
+    {"name": "Demne Máel", "type": "Person"}
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Domhnach'."
+  ],
+  "cyphertext": "",
+  "salt": "",
+  "image": [],
+  "text": "Domhnach is a Modern Irish oral-tradition variant of the head Demne Máel. MacKillop treats the name as a phonetic reformulation whose folk currency rests on oral transmission rather than literary attestation. The entry functions as a cross-reference. Readers seeking the full material should consult the PCE node for Demne Máel. That node carries the MacKillop dossier for that head.",
+  "okr": {
+    "objective": "Domhnach as the Modern Irish oral variant of Demne Máel.",
+    "key_results": [
+      "Domhnach is a Modern Irish form.",
+      "MacKillop treats it as an oral-tradition variant.",
+      "It maps onto the head Demne Máel."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Domhnach'"
+  }
+}

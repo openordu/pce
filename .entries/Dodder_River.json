@@ -1,0 +1,37 @@
+{
+  "name": "Dodder River",
+  "attributes": {
+    "category": "place",
+    "domain": "ireland",
+    "associations": [
+      "Co. Dublin",
+      "Wicklow mountains",
+      "Ballsbridge",
+      "Togail Bruidne Dá Derga"
+    ]
+  },
+  "entities": [
+    {"name": "Dodder River", "type": "Place"},
+    {"name": "Dublin Bay", "type": "Place"},
+    {"name": "Wicklow Mountains", "type": "Place"},
+    {"name": "Ballsbridge", "type": "Place"}
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Dodder River'."
+  ],
+  "cyphertext": "",
+  "salt": "",
+  "image": [],
+  "text": "The Dodder River, in Irish Dothra, is a small stream in County Dublin. Its headwaters rise in the Wicklow mountains. It runs about twelve miles to Dublin Bay. Two and a half miles from the city centre at Ballsbridge lies a contemporary residential neighbourhood. MacKillop marks the Dodder as the setting for the Togail Bruidne Dá Derga. The Dublin stretch of the river has long carried the literary weight of that tale.",
+  "okr": {
+    "objective": "The Dodder River as the Wicklow-to-Dublin stream that frames the Togail setting.",
+    "key_results": [
+      "The Dodder is a small stream in County Dublin.",
+      "Its Irish name is Dothra.",
+      "It rises in the Wicklow mountains and runs twelve miles to Dublin Bay.",
+      "Ballsbridge sits two and a half miles from the city centre.",
+      "MacKillop names the Dodder as the setting of the Togail Bruidne Dá Derga."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Dodder River'"
+  }
+}

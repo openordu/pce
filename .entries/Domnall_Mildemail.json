@@ -1,0 +1,38 @@
+{
+  "name": "Domnall Míldemail",
+  "attributes": {
+    "category": "person",
+    "domain": "scotland",
+    "associations": [
+      "Alba",
+      "Táin Bó Cuailnge",
+      "Forgall",
+      "Cúchulainn"
+    ]
+  },
+  "entities": [
+    {"name": "Domnall Míldemail", "type": "Person"},
+    {"name": "Alba", "type": "Place"},
+    {"name": "Táin Bó Cuailnge", "type": "Text"},
+    {"name": "Forgall", "type": "Person"},
+    {"name": "Cúchulainn", "type": "Person"}
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Domnall Mildemail, Maeltemel'."
+  ],
+  "cyphertext": "",
+  "salt": "",
+  "image": [],
+  "text": "Domnall Míldemail, also called Maeltemel, takes his epithet from the Irish words for warlike or martial. MacKillop identifies him as the king of Alba, that is Scotland, in the Táin Bó Cuailnge. Domnall Míldemail is the ruler whose lands Cúchulainn visited. Forgall, the father of Cúchulainn's bride Emer, sent him there. The errand gave the suitor time and distance from Emer. Forgall feared for his daughter's virtue while Cúchulainn was training nearby.",
+  "okr": {
+    "objective": "Domnall Míldemail as the Scottish king in the Táin Bó Cuailnge.",
+    "key_results": [
+      "Míldemail means warlike or martial.",
+      "MacKillop calls him king of Alba in the Táin Bó Cuailnge.",
+      "Maeltemel is the alternative name.",
+      "Forgall sent Cúchulainn to his lands.",
+      "The errand kept Cúchulainn from Emer while training."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Domnall Mildemail, Maeltemel'"
+  }
+}
