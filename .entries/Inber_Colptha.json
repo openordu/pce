@@ -1,22 +1,56 @@
 {
   "name": "Inber Colptha",
-  "text": "Inber Colptha is the title the old Irish sources gave to the mouth of the River Boyne. The name also embraces the broad Boyne estuary on the east coast of Ireland. Many of the great events of early Irish history and myth belong to this water. The most famous is the landing of the Milesians in the Book of Invasions. That landing starts the old tale of how the people reached the island.",
+  "text": "Inber Colptha is the old Irish title for the mouth of the River Boyne on the east coast of Ireland. The name also covers the broad estuary of the Boyne where that river meets the sea. Many of the early events of Irish history and myth belong to this stretch of water. The most famous of those events is the landing of the Milesians told in the Book of Invasions. That landing opens the old tale of how a people came to the island. The inber that names this place belongs to a wider family of river-mouth names across Ireland. Old Irish records the word as inber, with the spelling indber beside it. The same word sits at the head of countless place-names throughout the country. Each of those names marks a point where a river yields to the tide.",
   "entities": [
-    {"entity": "Inber Colptha", "type": "Place"},
-    {"entity": "Boyne", "type": "Place"},
-    {"entity": "Milesians", "type": "Group"},
-    {"entity": "Lebor Gabala", "type": "Work"}
+    {
+      "entity": "Inber Colptha",
+      "type": "Place"
+    },
+    {
+      "entity": "Boyne",
+      "type": "Place"
+    },
+    {
+      "entity": "Milesians",
+      "type": "Group"
+    },
+    {
+      "entity": "Lebor Gabala",
+      "type": "Work"
+    },
+    {
+      "entity": "indber",
+      "type": "Concept"
+    }
   ],
   "attributes": [
-    {"entity": "Inber Colptha", "attribute": "old Irish name for the mouth of the Boyne"}
+    {
+      "entity": "Inber Colptha",
+      "attribute": "old Irish name for the mouth of the Boyne"
+    },
+    {
+      "entity": "Inber Colptha",
+      "attribute": "named with an inber word that belongs to a large family of Irish river-mouth place-names"
+    },
+    {
+      "entity": "Inber Colptha",
+      "attribute": "spelled indber as an alternate Old Irish form of the river-mouth word"
+    }
   ],
-  "sources": ["MacKillop 2008, s.v. 'Inber Colptha'"],
+  "sources": [
+    "MacKillop 2008, s.v. 'Inber Colptha'"
+  ],
   "image": [],
   "cyphertext": "",
   "salt": "",
   "okr": {
-    "objective": "Record Inber Colptha.",
-    "key_results": ["Locate the place at the Boyne mouth.", "Recall the Milesian landing there.", "Set it on the east coast of Ireland."],
-    "evidence": "MacKillop 2008, s.v. 'Inber Colptha'"
+    "objective": "Place Inber Colptha as the Old Irish name for the Boyne estuary and tie it to the broader inber family of river-mouth names.",
+    "key_results": [
+      "Set Inber Colptha at the mouth of the Boyne on the east coast of Ireland",
+      "Link the site to the Milesian landing in the Book of Invasions",
+      "Record inber and indber as Old Irish terms for a river mouth",
+      "Note that inber heads a wide family of Irish place-names"
+    ],
+    "evidence": "MacKillop 2008, s.v. 'inber'"
   }
 }

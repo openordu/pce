@@ -16,6 +16,30 @@
     {
       "entity": "korrigan",
       "attribute": "described as the Breton kin of the kelpie"
+    },
+    {
+      "entity": "kelpie",
+      "attribute": "fairy water-creature of Scottish folklore tied to lonely streams and later any body of water"
+    },
+    {
+      "entity": "kelpie",
+      "attribute": "most often described as mischievous and more often malevolent"
+    },
+    {
+      "entity": "kelpie",
+      "attribute": "usually takes horse form and sometimes human form"
+    },
+    {
+      "entity": "kelpie",
+      "attribute": "entices travellers onto its back and rushes into deep pools to drown them"
+    },
+    {
+      "entity": "kelpie",
+      "attribute": "strikes the water with its tail in thunder and disappears in a flash of lightning"
+    },
+    {
+      "entity": "kelpie",
+      "attribute": "Scottish Gaelic links the word to colpach or calpach, meaning heifer, bullock, or colt"
     }
   ],
   "entities": [
@@ -34,27 +58,50 @@
     {
       "entity": "korrigan",
       "type": "mythological creature"
+    },
+    {
+      "entity": "kelpy",
+      "type": "Concept"
+    },
+    {
+      "entity": "waterkelpie",
+      "type": "Concept"
+    },
+    {
+      "entity": "colpach",
+      "type": "Concept"
+    },
+    {
+      "entity": "calpach",
+      "type": "Concept"
+    },
+    {
+      "entity": "Kentigern",
+      "type": "Person"
     }
   ],
   "sources": [
     "Evans-Wentz, W. Y. The Fairy-Faith in Celtic Countries. Gerrards Cross: Colin Smythe Humanities Press, 1911, 28.",
     "MacGregor, Alasdair Alpin. The Peat-Fire Flame: Folk-Tales and Traditions of the Highlands & Islands. Edinburgh: The Moray Press, 1937, 116.",
-    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.",
+    "MacKillop 2008, s.v. 'kelpie'"
   ],
   "image": [
     "https://upload.wikimedia.org/wikipedia/commons/2/25/Thekelpie_large.jpg"
   ],
   "cyphertext": "nUJtYCrUvD7zLckDivmuRBCe3X7QTeNTVk6NwY_Sy_piSXmquPDcP04fK4mVgcUADXkAM0Mc8vvkDYoZwmpTTnwAvBHc54Iyt45l8rRaL_H3H6JgV2ydAdc5ISxmsbq48QR76swp0TvwM_TchRDhY5PXu8UzQZ3h35r8XumJHHNJT2pMVK2TXOCNM7ADlgQ4ylRnGyboxlZlqBO8OKKRKDiNfJWQnROMBVcTdj7iLtLXOEX3g4HgKX2nrnGpuUcLzgYva5X5LoR_bnGrDuXk7E5c_G8muEgshegCSEh0ul8yAeNQKxngkEGZFPbIhqrUiwhBGYzMXviqnWETqALx7tFNXmp-Qcc8LS1B920ukEF9UKu3XWRhFU0fhxAI56UGcSWbHRHyx8Ga4YY368KXUY3lXg5ERHDDhrZeFj2JtB4UVG6_X_31IQSiuEh4BJ_TsBNOd8wYqBCKGpA72Pl7UXj_fprEI5UYDqmBsMsCxGzT4kjRvGOpmCaTD2oLpI8PSpAM7fta9lQFcjJunCeRyx2YU-VFtEAhFjET7rNA4S_pvG439lf47aHrdjp2HXTxAvjxXeJJUxhgGEvNrfqIHnsGAzKmniW5K9BFVmdeFxewa13vLz6LpBConZBrHn2rToaEKhysTzwDjSZTFXTklYryH99aG1R_wNtL7hkfXEJGoa_IWfjCQ_TSl1mqLrm-JvL8jlfzLsKPxUCqtxxra10RI5s-waEQ5Ge1zgrWwmekcAin2vKZRdHBQr3VOHet7ZMG0tJ11MR_vz076lkKeszI1kvbrdyWYFAYGHX-jUPp_goTPHlnEW01cuLHJX6tL9MF385c6baKuGR2WNkcRyY2VDjLn-28DKTVQpBX0DkKHXeklQMrFchVfz7LUpZ3WBDtMLIW7XVUVqNR6SfToHFEMpcsuXm3n53TDM1koo1EhSVmJukhwbrNGNotwogIpr7OMLClB6cVpSa658L1bi8_dhxqmjo_InmXVvM9WGLQUYjYHMsLVyvi2qiSliYAnDLi8qxaQA7hkxU8Lc31rA5A14ZRIp-WvBngpQ770mcZF9EvjqNPueyiSQcpYYykvi88N0Bmd1SLHemmObN-b3LuZ0fL0oPgx7PzKm8C4YDRW4QuM9wNvje1sznCDfWqP0_qnQQice2SSTz8C76wGJ-NHt29Qm3UgdoweJeb9FoiY3L7B1QyCcgXyiO1O9nbqvVkXmA-R-T1D3uofgq-eEbneSBkCIn7_ekVmnR-gCyuFnPUCAwJngqIMdCN8NRa46xpos_69t23RWqYPu_aAUmEwcxXtd7MdY3bH3XAZnRHNuIDej-EdZ85iNwNjx3LQ8yk-zUMQQiSXtobkJM6LKLdjdxhMN-O-u6DHCjf10yefWe5VHRVSkTVEkBZTVgw6ZRJUQWkqcaCuWndfRRJkT0TYtWblAcJ3Y-q8pjInJksdWXm6gaD0KIbRA7VA1I5JtL0qyaB7hOE9nXBa9ziqfT_gMFVkaKsWDBeZCxpEP3sm0ezCSZ21uaIykjrhXP_oSB3fvTjfIPHsB4YrLkakaSBRM-UajHJ_jHWsUABmj1R97uZ1MDujmcgVgAyPFDoA7PvKiA6BJXHEWk52qf85EwLMt3F",
   "salt": "ZxdUYEJ08DkTQ6gRnS9-bw==",
-  "text": "The kelpie is a Scottish spirit. Storms at sea were believed to come from these mischievous and sometimes destructive beings. They usually appeared as blue men. They could also adopt a fierce watery form. The Minch's blue men set the sea boiling so sailors kept clear. Other kelpies stirred the water only to cause trouble. A calm river or pond could become dangerous once someone stepped into it. A kelpie could leap onto a horse crossing a ford, drive it mad, and put the rider in danger. Vessels could fall to malevolent kelpies. A skipper who completed rhyming couplets could force the kelpie away. Scholars describe the kelpie as the Scottish version of the Breton korrigan. The korrigan more often appears as a luring maiden, while the kelpie shows less sexual urge.",
+  "text": "The kelpie is a Scottish fairy water-creature of long-standing folklore. Sailors once blamed storms at sea on these beings. Most accounts paint the creature as mischievous, and many go further and call it malevolent. The being first belonged to lonely, fast-moving streams, and only later spread to any stretch of water. The Minch's blue men set the sea boiling so sailors kept clear. Other kelpies stirred the water only to cause trouble. A calm river or pond could become dangerous once someone stepped into it. A kelpie could leap onto a horse crossing a ford, drive it mad, and put the rider in danger. Vessels could fall to malevolent kelpies. A skipper who completed rhyming couplets could force the kelpie away. The creature usually took the shape of a horse. At times it wore a human form. In horse-shape it lured riders onto its back, then bore them down into dark water where they drowned. Its tail struck the water in thunder and the being vanished in a flash of lightning. Scholars describe the kelpie as the Scottish version of the Breton korrigan. The korrigan more often appears as a luring maiden, while the kelpie shows less sexual urge. Scottish Gaelic links the word to colpach or calpach, terms for a young cow, bullock, or colt. Kentigern names the saint to whom the kelpie stands as a watery counterpart. Variants of the name include kelpy and waterkelpie.",
   "okr": {
-    "objective": "kelpie is the Scottish water spirit.",
+    "objective": "Present the kelpie as the Scottish water-creature that ranged from streams to the open sea.",
     "key_results": [
-      "The kelpie is a mischievous Scottish spirit.",
-      "It appeared as blue men or a fearsome water horse.",
-      "It could drive a horse mad and endanger its rider.",
-      "It matches the Breton korrigan in folklore."
+      "Place the kelpie as a fairy water-creature of Scottish folklore",
+      "Link it to storms at sea and to the Blue Men of the Minch",
+      "Record horse-shape drowning of riders and the thunder-and-lightning vanishing",
+      "Note the variants kelpy and waterkelpie",
+      "Tie the word to Scottish Gaelic colpach and calpach",
+      "Match the kelpie to the Breton korrigan and contrast their luring behaviour"
     ],
-    "evidence": "Monaghan, Encyclopedia of Celtic Mythology and Folklore"
+    "evidence": "MacKillop 2008, s.v. 'kelpie'"
   }
 }

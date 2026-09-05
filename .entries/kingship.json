@@ -20,6 +20,46 @@
     {
       "entity": "Tara",
       "attribute": "site of the royal night rite for a high king"
+    },
+    {
+      "entity": "kingship",
+      "attribute": "the English word king is an inadequate translation of OIr. ri"
+    },
+    {
+      "entity": "kingship",
+      "attribute": "ri denotes the leader of a single tuath, the basic territorial unit"
+    },
+    {
+      "entity": "kingship",
+      "attribute": "ri is sometimes more accurately translated as petty king"
+    },
+    {
+      "entity": "kingship",
+      "attribute": "the ard ri was inaugurated at the feis Temhra at Tara"
+    },
+    {
+      "entity": "kingship",
+      "attribute": "the ard ri was not a national sovereign of all Ireland"
+    },
+    {
+      "entity": "kingship",
+      "attribute": "the idea of an island-wide ruler was propagated by partisans of the Uí Néill"
+    },
+    {
+      "entity": "kingship",
+      "attribute": "Irish instances posit a kingship from pre-Christian tithes"
+    },
+    {
+      "entity": "Uí Néill",
+      "attribute": "dynasty that claimed descent from Niall Noigiallach"
+    },
+    {
+      "entity": "Niall Noigiallach",
+      "attribute": "eponymous ancestor of the Uí Néill, called Niall of the Nine Hostages"
+    },
+    {
+      "entity": "brenin",
+      "attribute": "the only Celtic term that names a native ruler rather than a foreign or literary one"
     }
   ],
   "entities": [
@@ -50,28 +90,52 @@
     {
       "entity": "blue",
       "type": "concept"
+    },
+    {
+      "entity": "feis Temhra",
+      "type": "Concept"
+    },
+    {
+      "entity": "Uí Néill",
+      "type": "Tribe"
+    },
+    {
+      "entity": "Niall Noigiallach",
+      "type": "Person"
+    },
+    {
+      "entity": "Tuatha De Danann",
+      "type": "Tribe"
+    },
+    {
+      "entity": "brenin",
+      "type": "Concept"
     }
   ],
   "sources": [
     "Kelly, Fergus. A Guide to Early Irish Law. (Dublin: School of Celtic Studies, Dublin Institute for Advanced Studies, 1988), 17-21.",
     "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.",
     "Koch 2006, s.v. 'kingship'",
-    "MacKillop 2008, s.v. 'Kings'"
+    "MacKillop 2008, s.v. 'Kings'",
+    "MacKillop 2008, s.v. 'kingship'"
   ],
   "image": [
     "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Aachen_Domschatz_Bueste1.jpg/1200px-Aachen_Domschatz_Bueste1.jpg"
   ],
   "cyphertext": "YlYAcb7sa_aLjholEudwUdVeD9a46WXTxX9Gb33QKkoD5XfpDh8yfH5hwSawU7HjIGqM340IuawGz-CbWQYf6V6w-U_OjGQu5w19O2YeQRQ4k1UjIaWTWTsFMUwviltrXbzU7hNNCkK2jgCflAtyqHWF43C66v7_E9VfeugOUedfEyOtnqc4dmFMfuS7pufTqnTAbAiAeuP2rlUgHOpZESX9S6tnpTIb5O6R3lcz6QPBPmJFMoxufvRctuGHO0KjVRGSq8GLY-PQLsP3mrJoLpbtw5RTTF8WuWR8z2VRxvKYgf0pVq5vdYHgDntJfFT7UGZBkccKoIlAWlBqv8vl-u5GOCYg0qayfQJHPsMS87mHsuD9cVIKRqbxG-ZV5oGPWXO3bEDXBr2MMz2kx9dLyakOSjwu-mtTc_UPxuhw8WesEbZavW1M_kUq16XVKbS30_iyUnJITgcbHFCJ1IMWgcU-cbY2ydZsoGuhwxQLPxO3z08tpeUW-oigizh-Qkw1xMExMScJU9kMsJBDm83u6obVamKtF7JC8rE_zTsO8przIFdyWLkC8h8OLCvy6fmntM1mcKR2c0IkuAqRxqs3DHGadQj3_RnlZQJ0cuMud2x2wQmPMc1laRH3TMtVrElc64KC-u2oueG_K7SwkhDm93sQVZOyZH7Au0I3-tDmmkSRJBgBJFqZiOfCfx4yxaXAZ-ixga7iT9z7MLInw4aeAUmJxylZDqi6LN9uWND7f3zsBTVUEgJ27F8c-mX0iRAzsPraaRIFGwHY40q2CcAwi9QiSnZYsg-INntjjGpwizxT7IQYk9Kbc8zfEkPIjIUIBBq7fVe8gJ50dMxOWs_4rm_96kxtOwGOwXPyN8ZpLnK68CrVdjlmwqsvwNZVup0PG0EGPCVlsIuFXVwSum6eLvktC4UCUGUVMyTn9A1vzY4jIZsyS1sqKaq5_Wl2k0vp-D5ZAaUpEKbhiZiFMiDgYU26HJcWvgAn9F21uM6cexVSAF6K3Rw88KdKFztJgroGLv7XteI7KhE9amniIqCugfgIpJB5Iir5gLoZHcJIqaDTstCxrVxItmRBLIlwScKvPskDhTpV-3x5mdKft2gyZOywF1jAiioxo46-IVCUIRD6DD-m5A7aV7-cLeN1TGoAk3qoAgdYesPIFxVQn_RW3qvXNp1aScg8XIKpYZUYB_OT3pA8XAovcK-BnUFLOIJNH9zwrMPuSYvK54QiGbipawwPPUIPyNko-W4C7L1Cy2lbgeMRBruczy58XqgoAcWruiClAlPoRs-VPXhwt786w6TuiE9a0YGcJ48kzcUyRMsd94IFJuQRMT7eNSgZaL9rURxWw5kXfrtCUFwKdfiPb5mbSm4744oxNiXwjD7htDRNXTZmXWXWJPniDX4COx1zn08JRdLLqDzbAdMLiFwu074qssvFp3VPwFOaE-ZLfj6jkIiyCPp4soasxUiXu59GTRVbEOvhR6L4I2gmg7dt_OWhsvFU3plrsJ1U-elYhtSNUi14dwWaDEgwzFkL6bHpiLNsuT-KEo6OB48I7vThjgTd-0fVTiMrMK54YsFtwHANpCr-gjEGep_WZfXQTUouoWO8YsaZp5-v2AmKOkTTSA-vp1BSZM6fipqfM4gXBiMjeKNzaCeT3HZe198-TZz-rJ60fWmYs4Fr368-QYh9sCWOhiDu3HAoyFTqlHXyRTBY52aLwFoGpC0RD0zFy-xVnczTMFV4sm3WEGtvf_oyWmgPGQxxowUqfn9m23DAE7DiQgkhVLV1On4Pm55hC6tHKcoqjvD6G12OPwbhM-JnAnYnDy62q8O9OkyJhXJFPj1p62bOPRjFHYmJMe0_ZLBLLWmITE8c880_O30r0WqQn8xaHohsI_9Ukh2gE0TD49_9BgLqJugswNdhtg1BJXYm5yI4JPH_bMhpReR62yx98__A1DdIU8ToERnyJ5k7u-M3msLABqrVqaKUcpdxL6HkN63F0cDQSqhlss-OQxbL9-UbOWL74urJJjQMKU__zzdre_6uaDIXa6YRS445oXNm-Jpp6Ju8MAVX7_ddtDByuQQlUPPJoNO_FN1Lxxjsc5Sr8ALScMPqwlnoZSl-ARLYOISmwn2oK8V2wtTiiTVn7P9_HSWsQY2nYKC_P5BTWYBks2MYtoVCDlfE8WIzSHR5jLRvhV5ZVqoZTnd3woazy48GH4QwOCAxjil1Rj0UBUloI2eDIGmXunFYlsx7OC814z_9G_RprFhY9YxVQbpZrB6GXtAWBDNrjxjZ-qFcppnL-0m9G8XM5dUIuv0PH4ELL1u53NRMtK8YfA9XJ_DVVS9UVXwprvyYMYtxkjS701sPGrmZtE7ouO4szvPAXVIy1fr-cGouS9-TAiaoDCqst6dp8wM4k-KGo58eK2j63j9Ek4wyZE7sc9KeAWhpdAirXWiCDmEuBUpw0nhjt6BCaTLjlJpH12iyXh3iqvMRj6f2CYXEWQoVYOksR900PCawblIZKN2lBbqqgsd44RCX4UiOxsAjuRMIO_BkhBfqC_LmvZ8U-9js4NU0P3_SQqprril-DpgvBy0GumNUHxymMvylFeKBkZGuVt_uSOHmGMd0zbVtskS9nwEVbiGl__jhmHjgCp3UZuPYf9HEK9BJQUfLlyl9vprmStjUADjuMl_U2Qmo2yVK2SClCED7MRhfBTI1GTNhyyqmLscQtM1ZeKvNBt8lHBbzwtHvonjxvROAwMrTk4JcIzOOxZ6j1ekwKodlj_yIkLFmcHlt30gBOE066LfVhb_Wk-Gg18ck4qJysHXHQ4HKMnXnlf2mNEX-clbQIG-x5-AjieZ9bNZH7VIzjt_sRoRtOoOopx-jMISn5voMkm6l7s04gkpyM9js31ogyhs2iH3YMhjcFcSFigS7EbmnDPRp3froQKieDpk14kcODnARa0pHItnCtj3sq-ff0xmW4Gice4XVCAfp2DgrAfMYxtGwFeiC-QxiUIEb4fAK0E46YYK5b_rSNPBLdP4GXhJl1aWxaddU4AjMxmZGCE_aug5OYir1dnknaZbi_gL65UhmDcMSknbs9lFhnQt8Vl6TQuB_y8iIkYVQ-6rI4Xf0oAGPnMzxlQSiX9uE2Wje6vdPBZk39Ago7PDLJPlYmoVyZrm0piJ16712MyoYVuf2oGDtsdF3YR1-IGkqEEs_Px_bQHbrbWVW02SKS2h81UKZDgfYVv2w5L2GM9W07PqZAymHaXwzeRHlgQnQNhiUUx83Tj45RM3L0WH4ncuHiYQlqAFDtE2UmulyUawLRf2kJrk7oehN4WagyTt2NJ5zVRqozGl5zRytZUk188uGzAFGHYym6EQr-zyIo5R7AXTLHYv2nXSMV9oWbTM_A7eP6NML9s_xU_9tWHrKcgecUxs3hkTshbeSG5NW88CFT2x5gHOBzh4wHCCYuvWnX-wfnWS9vhuybj6MJwRQxytFyMs-AyWm9ERlNqoRb_mKMpf0O2bmSdhdsE0OxliT05KcNkViAe070x4QIyzFbXL57Sum7PtTEyH5KUjkJtCz4EQyjMmv_pusBC_fpmuPULPVTCAInbOic7YNC4Gx0yAczlkvyf-tO-JG19WiLJbfJxsvBbw6J4m2OPravVP9wq6cMq2ZOdgWC68QzIWyKT9DrYP1FWbB5Is6rpsHCv-iIvLmm1etkWa01_FhOvyIwti9jaTc4ynEd_817nDiUSfpgm3W_Aw6mFazuCCWN22tse1ZRHTamPCNPY2KXb__wMi7CPw64wVbazFf-QjaTT2G2hKz1QBCEXYKxKiGSURqF0RMMiiyXOpBaIwi85GAs5CdkO5wjxqBEoj01G-g61kBLHtsH4Dk4-fx0Xiup3fGwtCLJCAJKHeTmMg4aCBgajLLQoN-6CWIYsWAykDIcORzFG3CU5RxBq4on4aC2mx0Jg_SavJ7twZZBDD0Vawb77oVqR_SM1pwt1absSxhFmt_EQEQYe8Uo_UDfmOvoBPsfqoDDyQHYqLxipi7UHYSf9YZVFTFhh-wFyUjbbCjZwwnPckVNXRnVjJV7oUxMzlRZ4bqZyKbk-cHlKKBlAQT5WxSI6XQQAoDqdiAcROKQSldjMVw2sT8jwJp5Ms0tpgwMZKSMebSDBlwpSJ1sMYiFkbehh4UTY1hSnccUSSIgKPkz88ehunk3h9rrqLxAwfpj65LpSwqLnTU8JfMp4AOHvqo0smSn2ojm0kODF4RTOcgq6YFLVPHTkScIENXzzKLuqvObSWu87f-IS27Ci6KGVBwcy-PXIKfziyHZjPtbOz5200kV5th_4qOxxmVR1RTP09cH1_ths0DgeillESyhy02khoGKhapvJ71nCdorTcr5jhRPzK3npRWu_ewRR-miVImxBzn71cvRgERyGylKSBc8MnkpExAp_x7Kj1I9FSOam8NqyIoCqWsI3lUb5kMc0njrh55IjbF4Zp-fcDJVanW2jURnp_5A8vUgdAx_5eRc2ZkfKBIsZQn2Zo1-liC6jioBkUD_-Fh6UvGmrs70tJhyC16G0EGBdg96_7wAqFDNYKBsHnl89RFUmdq_PkEAt8QDPinBb4ZYXlq-mJSRkgvSaAyE-KZimlfkadpB2zsLw==",
   "salt": "6LfZVJhdPfYfxgRer2A5Bg==",
-  "text": "Kingship in Celtic tradition binds the ruler to the life of the land. The king must stay physically whole. A blemish can end his reign. Annals record that bees partly blinded Congal Caech, so he forfeited the kingship of Tara. Nuadu lost his reign over the Tuatha De Danann after injury in battle, though he wore a well-wrought silver arm. Justice, named in Irish law, keeps the streams full and the harvest rich. The wolves keep peace with their prey under a wholly good king. A false verdict brings the wasteland instead. The old terms ri and tuath define each other. A ri rules a tuath, and the tuath gives a ri his duty. The root of ri means to reach out straight, that is, to rule. The king's whole body and the plenty of his land stand or fall together. MacKillop ties kingship to a sacred union with the land. In the rite a ruler takes the earth to wife. She appears as a queen of power, and the king must win her. One story shows her as a plain hag who turns lovely after the wedding night. The Irish name for this wedding feast of kings is the banis. The ceremony is a holy wedding of the sovereign to his realm. At Tara the crowning of the high king came through a night-long rite. The title of high king fit a strong local lord, not a master of all Ireland. Blue is the colour of Irish king and rule. The flag of the old kings carried a blue field. The name blue lady holds the same bond between rule and land. ",
+  "text": "Kingship in Celtic tradition binds the ruler to the life of the land. The king must stay physically whole. A blemish can end his reign. Annals record that bees partly blinded Congal Caech, so he forfeited the kingship of Tara. Nuadu lost his reign over the Tuatha De Danann after injury in battle, though he wore a well-wrought silver arm. Justice, named in Irish law, keeps the streams full and the harvest rich. The wolves keep peace with their prey under a wholly good king. A false verdict brings the wasteland instead. The old terms ri and tuath define each other. A ri rules a tuath, and the tuath gives a ri his duty. The root of ri means to reach out straight, that is, to rule. The whole body of the king and the plenty of his land stand or fall together. MacKillop ties kingship to a sacred union with the land. In the rite a ruler takes the earth to wife. She appears as a queen of power, and the king must win her. One story shows her as a plain hag who turns lovely after the wedding night. The Irish name for this wedding feast of kings is the banis. The ceremony is a holy wedding of the sovereign to his realm. At Tara the crowning of the high king came through a night-long rite. The title of high king fit a strong local lord, not a master of all Ireland. Blue is the colour of Irish king and rule. The flag of the old kings carried a blue field. The name blue lady holds the same bond between rule and land. MacKillop underlines how thin the English word king sits against the Irish evidence. The OIr. ri marks only the leader of a single tuath, the basic land unit. Scholars often render ri as petty king. The Irish ard ri held his office at the feis Temhra by the hill of Tara. He was not a sovereign of the whole island. The notion of one true island-ruler was carried forward by historians loyal to the Uí Néill. That dynasty claimed descent from Niall Noigiallach of the Nine Hostages. Across the wider Celtic world the words for king often pointed to a foreign or a literary monarch. ScG righ, Manx ree, Cornish myghtem, and Breton roue fall into that group. Only Welsh brenin names a native ruler in his own land. The Irish record still reaches back to tithes from the pre-Christian centuries.",
   "okr": {
-    "objective": "Kingship is bound to the land, and the kingdom's health rests on a rightful king.",
+    "objective": "Set out Celtic kingship as a sacred bond between king and land and trace its Irish institutional form through MacKillop.",
     "key_results": [
-      "Corruption of justice or body harms the kingship.",
-      "The royal wedding rite binds king and land.",
-      "Blue is the mark of royal power.",
-      "The high king ruled a local realm, not all Ireland."
+      "Note the body-and-land link and the loss of rule through blemish",
+      "Show the banis rite that weds the king to Sovereignty as the realm",
+      "Mark blue as the colour of royal power and Tara as the high king's crowning site",
+      "Record ri as the leader of a single tuath, not a national sovereign",
+      "Document the ard ri's inauguration at the feis Temhra",
+      "Note the Uí Néill claim through Niall Noigiallach",
+      "Distinguish brenin as the only Celtic word for a native ruler"
     ],
-    "evidence": "MacKillop 2008, s.v. 'Kings'"
+    "evidence": "MacKillop 2008, s.v. 'kingship'; Kelly 1988; Koch 2006, s.v. 'kingship'"
   }
 }

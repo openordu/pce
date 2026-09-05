@@ -32,6 +32,38 @@
     {
       "entity": "Conaire Mór",
       "attribute": "idealized king who tests the cycle's ideals"
+    },
+    {
+      "entity": "Coel Hen",
+      "attribute": "king of Aeron in Ayrshire, mentioned by Taliesin"
+    },
+    {
+      "entity": "Coel Hen",
+      "attribute": "bore the agnomen Hen (the Old)"
+    },
+    {
+      "entity": "Coel Hen",
+      "attribute": "bore a second agnomen read as Adulterer or Hawk"
+    },
+    {
+      "entity": "Coel Hen",
+      "attribute": "popular tradition claims him as the original of Old King Cole"
+    },
+    {
+      "entity": "Coel Hen",
+      "attribute": "popular etymology holds him as the eponymous founder of Colchester"
+    },
+    {
+      "entity": "Coel Hen",
+      "attribute": "pious medieval legend calls him father of Elen, mother of Constantine"
+    },
+    {
+      "entity": "Elen",
+      "attribute": "Welsh-born St Helen in pious medieval legend"
+    },
+    {
+      "entity": "Constantine the Great",
+      "attribute": "3rd-century Christian emperor named as grandson of Coel Hen"
     }
   ],
   "entities": [
@@ -86,27 +118,53 @@
     {
       "entity": "Suibhne",
       "type": "Person"
+    },
+    {
+      "entity": "Coel Hen",
+      "type": "Person"
+    },
+    {
+      "entity": "Aeron",
+      "type": "Place"
+    },
+    {
+      "entity": "Taliesin",
+      "type": "Person"
+    },
+    {
+      "entity": "Colchester",
+      "type": "Place"
+    },
+    {
+      "entity": "Elen",
+      "type": "Person"
+    },
+    {
+      "entity": "Constantine the Great",
+      "type": "Person"
     }
   ],
   "sources": [
     "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.",
-    "Koch 2006, s.v. \"Kings'Cycles\""
+    "Koch 2006, s.v. \"Kings'Cycles\"",
+    "MacKillop 2008, s.v. 'king'"
   ],
   "image": [
     "https://upload.wikimedia.org/wikipedia/commons/9/90/Hope-coventina01a.jpg"
   ],
   "cyphertext": "lomi8hNUQQ9XO0AJEQGKU2-1US-8iot77RS-aKn4bFUMuXbrvBOVKAfTiRb4SCCDE2jLFC6K2ot0KU5vJgrMl3hwm0xQe80g8vZk09QDb8DHP8PSdeSicYa0BCnzRtkAilyH5GvU67SCJlLUO7yCesPnsyMQnltin6jBos8HFG4m9UZPeNn-IOUqOMzm6JvdkHzNEkBEUm-My_4fzYsd-4LFuzEeOtkPxAX1y3vZ5X6Ge1fvP89Nl5Y7ln9utxkOiDq6PUkUa9948IUvdgD1OZ_HlxpJgYndnBIgYgc65lQXLoQPxWvgxl39HmgQoVqXUHHMDhDXf__m98b3Xxu3Wf3Uvuxgpji3p2jZuuNulL1wxRS4G9MYwBmnnV55ubnhf2Eka84wW39RDpjQ-JkrrVq_Weeouu-my9knijTbb2muV4bEciUhHcRA-TElyozOBPmiHmZOD8vStZZ3LL_GkXUcMR1S2_J45ZD5S0Sij8sUsib6VYloLYRbmhUdomXXI5Xxr-WYAULYoIV82qxjNxsDIEwinc_lylmlgaLrN5gmiVZuvHqRyuSZM5s3pBK0f8sorRgLZuV7_kyJZYSEEB0X5dAnmDP3vIKzOgCyV2pNvMoAQwLP2lO0driRHhOkDsQTMvpdaHL7zsuRGMuPWsvj7uxxDpCqOr0NH9ZxSwKvRzCy0_B79vMpHRX2b5vmEs3bYIbrLu54ZB9QaLbAWXE8sm_rreqXGGXDV9CtfxnEIdLyA_Wavz37ujxokEegaN9_21mwlePBGfHbii_6PO4bEomUQn8qC8AsqKkbIaBXiEztG7o6mZ63UgK3QwJtX1XDx5LucOj4l7XOepmvNkVRmyHq1KK6Ccp8bW8j55EENfvTvrQWfz3gtex0Wyq6-AkUlxADBjpVYuZk0vbMWeSgRNrUkUfqBn-vL_tsXLRNU9LpS52s8uw7bNrb0TWKxsM1r0GQBjVeEzupHELl7glGm3x9iXcdCuW_RoeZ189sb9o4b2r6ftgwjkRVoOZC1WYTjrWAQUassngRH1Al084VyvFBrQwFzGjQ372glldeO9YGaBZxv5S4dGmJT0hzXNZ-ij6Muh4YlkyHvqW5c6ReSDZoNbfumdteMwhcvhJJ6AZyJc7NYvKrSfq9J9vaXgTW7fxrtEn0zW_g1R6WLhfTCLWx4Tg2JwlPEHWlNlG7Bo_cEnmKjfgetQrf0-mD875NNDArMvp13vso-PvNLQ1XL0iTKUuDAD5cO1swrRuGoeQG3hQvZOmbmeVFfHXnrg-RH0loP1UjnkUNeWPxubEr7GH8B4WI3ynGCYg-N6tu5I6XbGcxghp052UsAgzwIXdEKwXqe38_8CcQRCfAw2Xp0aUmlUvYAGopF3t2lUzzxLA2tklzhd5g5kOFps97iSxRRhD59Z_t-qcvfBpF8oMHI7b73pGIX9_W71bDG5KfkrcaWD31hBdopV32C5Gy34PxnqT44J_aoIXBv6NZdOGfrlrnbvH7YkNzoKsDgJDRmi7peiDSil8XidDZlU8HC0KliP4JvyaIvzcfSymDJKxA_iu6aZml",
   "salt": "QN41s43dUZ-3MPH-dO1jxA==",
-  "text": "The Cycle of the Kings ranks among the four main classes of early Irish narrative lore. Scholars also know it as the Historical Cycle. The term gathers sagas, poems, and anecdotes about Irish kings and dynasties. The tales center on the kings of Tara and other rulers from all five provinces. They stand with the Ulster, Fenian, and Mythological cycles as core traditions. The stories test a ruler's courage, wisdom, and judgment under trial. Idealized figures such as Cormac mac Airt and Conaire Mór fill the cast. The cycle preserves traces of an archaic Celtic sacral kingship. In that old model the roles of ruler, judge, and priest stayed undivided. Society ranked classes by honour, with a warrior aristocracy held high. Without a full cash market, people gave surplus as gifts. Each gift carried a personal duty between giver and receiver. A king needed noble birth and skill as a war leader. He shared his wealth to hold the loyalty of followers. Scholars such as Georges Dumézil and Donnchadh Ó Corráin shaped its study. The corpus includes the tale Scél Éogan ocus Cormaic. The manuscripts Laud 610 and Rawlinson B 502 preserve these texts.",
+  "text": "The Cycle of the Kings ranks among the four main classes of early Irish narrative lore. Scholars also know it as the Historical Cycle. The term gathers sagas, poems, and anecdotes about Irish kings and dynasties. The tales center on the kings of Tara and other rulers from all five provinces. They stand with the Ulster, Fenian, and Mythological cycles as core traditions. The stories test a ruler for courage, wisdom, and judgment under trial. Idealized figures such as Cormac mac Airt and Conaire Mór fill the cast. The cycle preserves traces of an archaic Celtic sacral kingship. In that old model the roles of ruler, judge, and priest stayed undivided. Society ranked classes by honour, with a warrior aristocracy held high. Without a full cash market, people gave surplus as gifts. Each gift carried a personal duty between giver and receiver. A king needed noble birth and skill as a war leader. He shared his wealth to hold the loyalty of followers. Scholars such as Georges Dumézil and Donnchadh Ó Corráin shaped its study. The corpus includes the tale Scél Éogan ocus Cormaic. The manuscripts Laud 610 and Rawlinson B 502 preserve these texts. MacKillop also opens a side door from the king headword to early medieval Britain. He names Coel Hen, the old king of Aeron in Ayrshire, who appears in a Taliesin poem. Coel Hen held two agnomens. One marked him as the Old, the other as the Hawk or Adulterer. Popular tradition linked him to the figure called Old King Cole, a man of the nursery rhymes. Popular etymology also made him the founder of Colchester. A pious medieval legend named him father of Elen. He was also called grandfather of Constantine the Great, a Christian emperor of the third century. These British strands sit beside the Irish cycle but share the same search for the rightful king.",
   "okr": {
-    "objective": "Cycle of the Kings is one of the four main classes of Irish narrative literature.",
+    "objective": "Present the Cycle of the Kings as a core Irish narrative tradition and link it to British king lore through MacKillop's Coel Hen.",
     "key_results": [
-      "It is also called the Historical Cycle.",
-      "It centers on the kings of Tara and rulers from all provinces.",
-      "Its tales test a ruler's courage, justice, and wisdom.",
-      "It preserves an archaic idea of Celtic sacral kingship.",
-      "It sits with the Ulster, Fenian, and Mythological cycles."
+      "Place the corpus among the four main cycles of early Irish narrative",
+      "Note the Historical Cycle label and the kings-of-Tara focus",
+      "Preserve the sacral-kingship model with judge-priest unity and gift economy",
+      "Record Scél Éogan ocus Cormaic and the Laud 610 and Rawlinson B 502 manuscripts",
+      "Document Coel Hen of Aeron and his role as the British king of the Taliesin poem",
+      "Note Coel Hen's link to Old King Cole, Colchester, and Constantine through legend"
     ],
-    "evidence": "Koch 2006, s.v. \"Kings'Cycles\"; Monaghan 2008."
+    "evidence": "MacKillop 2008, s.v. 'king'; Monaghan 2008; Koch 2006, s.v. 'Kings' Cycles'"
   }
 }
