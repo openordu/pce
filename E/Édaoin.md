@@ -1,0 +1,37 @@
+---
+layout: layouts/pce.njk
+title: Édaoin
+icon: file-lines
+order: 4628
+contributors: [ 'Christopher Godwin' ]
+attributes:
+  - Édaoin Variant spelling of Étaín; pointer to Étaín headword
+categories:
+  - Person
+  - Text
+entities:
+  - Édaoin(Person)
+  - Étaín(Person)
+  - Tochmarc Étaíne(Text)
+tags:
+  - Édaoin
+  - Étaín
+  - Tochmarc Étaíne
+---
+``` tab [group1:Info]
+::: magazinestyle
+Édaoin is a variant spelling of Étaín, the celebrated heroine of the early Irish story Tochmarc Étaíne. MacKillop lists Édaoin among the several variant forms of the name, alongside Édain, Éadoin, Achtan, and Aideen. The form sometimes overlaps with the related name Étan. The principal record sits under Étaín.
+
+:::
+```
+``` tab [group1:Attributes]
+- **Édaoin**: Variant spelling of Étaín; pointer to Étaín headword
+```
+``` tab [group1:Entities]
+- **Édaoin**: Person
+- **Étaín**: Person
+- **Tochmarc Étaíne**: Text
+```
+``` tab [group1:Sources]
+- MacKillop 2008, s.v. 'Édaoin'
+```

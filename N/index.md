@@ -106,6 +106,7 @@ layout: layouts/pce.njk
 - [na_buchtogai](na_buchtogai)
 - [name](name)
 - [names_for_the_Otherworld](names_for_the_Otherworld)
+- [narrative_type](narrative_type)
 - [nature](nature)
 - [nature_poetry](nature_poetry)
 - [necromancy](necromancy)
@@ -117,4 +118,5 @@ layout: layouts/pce.njk
 - [north](north)
 - [nuckelavee](nuckelavee)
 - [numbers](numbers)
+- [nuts_of_knowledge_wisdom](nuts_of_knowledge_wisdom)
 - [nygel](nygel)

@@ -2,49 +2,93 @@
 layout: layouts/pce.njk
 title: korrigan
 icon: file-lines
-order: 1374
+order: 1621
 contributors: [ 'Christopher Godwin' ]
 attributes:
-  - korrigans spent time guarding buried treasure
-  - korrigans made mischief for humans
-  - korrigans derived most pleasure from circle dances within or near the pre-Celtic Stone Circles and megalithic shrines still found in Brittany
-  - korrigans singing “Monday, Tuesday, Wednesday, Thursday, Friday” (Di Lun, Di Merh, Di Merhier…) but never mentioning the days of the weekend
-  - korrigans caused magical deformation such as a lump on the back
+  - korrigan Breton water fairy
+  - korrigan descended from women druids
+  - Dahut princess for whom korrigans built Ys
+  - Ys city built by the korrigans
+  - korrigan MacKillop also lists corrigan as a paired spelling
+  - korrigan the Breton root korr means dwarf
+  - korrigan wanton, impish, sprightly female fairy of Breton folklore
+  - korrigan desires sexual union with humans
+  - korrigan especially malicious toward celibate Catholic priests
+  - korrigan can enmesh the heart of the most constant swain and doom him to perish for love of her
+  - korrigan in Christian folklore blamed for changeling substitutions
+  - korrigan found near wells, fountains, dolmens, and menhirs, especially in the forest of Brocéliande
+  - korrigan thought very beautiful, with golden hair, flashing eyes, and laughing lips
+  - korrigan known as Ozegan or Ozeganned near Vannes
+  - druidess MacKillop names ancient druidesses as ancestors of the korrigan
 categories:
-  - region
-  - mythical creature
-  - archaeological site
+  - person
+  - Concept
+  - Person
+  - place
+  - Thing
+  - Place
+  - Being
+  - mythological creature
 entities:
-  - korrigans(mythical creature)
-  - Brittany(region)
-  - Stone Circles(archaeological site)
-  - megalithic shrines(archaeological site)
+  - korrigan(mythological creature)
+  - Brittany(place)
+  - Dahut(person)
+  - Ys(place)
+  - corrigan(Concept)
+  - Brocéliande(Place)
+  - dolmen(Thing)
+  - menhir(Thing)
+  - druidess(Person)
+  - Ozegan(Being)
 tags:
-  - korrigans
+  - korrigan
   - Brittany
-  - Stone Circles
-  - megalithic shrines
+  - Dahut
+  - Ys
+  - corrigan
+  - Brocéliande
+  - dolmen
+  - menhir
+  - druidess
+  - Ozegan
 ---
 ``` tab [group1:Info]
 ::: magazinestyle
-Breton folklore is rife with tales of the korrigan, also known as the corrigan or ozeganned. These mythical beings are said to live in the sea, rivers, and springs, and are often depicted as beautiful, golden-haired women who seek to lure men to their deaths by drowning. While similar myths can be found in many regions of the world, the Breton version stands out for the connection between the korrigan and ancient beliefs in earth goddesses and female druids. According to oral tradition, the korrigan are descendants of these women, and their loyalties lie with the old ways. Indeed, Christianity's suppression of these beliefs led to a lasting enmity between the korrigan and the celibate priests who represented the new religion. In Breton folklore, the korrigan are responsible for building the magnificent city of Ys, and are tied to woodland grottoes and running streams, where they might sometimes be coaxed into revealing the future. However, seeking them out is not without risk, for the korrigan, like all fairies, were said to be amoral, and could just as easily steal a person or a child as impart a piece of knowledge. Some legends suggest that the korrigan were once human, trapped by a tragic death to wander the earth, but more commonly, they are seen as a race apart from humans – indeed, in Breton, the term is often used to refer to fairies in general. It is said that Korrigans are more visible in odd-numbered centuries than in even-numbered ones. For example, the 1900s saw more activity from these mythical beings than the 2000s. Typically observed during twilight hours, they are known to be liminal creatures. Some Korrigans act as guardians of buried treasure, while others prefer to create mischief for humans. They have been known to tickle horses and cause nightmares. Korrigans derive immense delight from circle dances that take place within, or close to, pre-Celtic Stone Circles and megalithic shrines still found in Brittany. The lyrics to their songs go “Monday, Tuesday, Wednesday, Thursday, Friday” (Di Lun, Di Merh, Di Merhier...), but they never mention the days of the weekend, as this is said to cause magical deformation such as a lump on the back.
+Korrigans are beings from Breton folklore. In Brittany the sea, the rivers, and the springs held women with golden hair. They sought to draw men into their beds and into death by water. Such water sirens appear across the lands. The Breton version stands apart in oral lore. The korrigans trace their line to old worshipers of earth goddesses or to women druids. Christian persecution of earlier faiths created fierce enmity between korrigans and celibate priests. The korrigans helped build the city of Ys for the pagan princess Dahut. They were small fairies under two feet tall with translucent wasp-like wings. They favored woodland grottoes with running streams and could on occasion predict what was to come. To seek them brought risk, for they might steal a person or child. Some legends call them human souls caught in a tragic death, yet they more often appear as beings apart. Across Breton folklore the word korrigan often names the whole fairy race. MacKillop opens the headword with a paired spelling, corrigan, and a root word, korr, meaning dwarf. The Breton korrigan is a wanton, impish, and sprightly female fairy of Breton folklore. She hungers for union with humans and turns especially cruel toward celibate Catholic priests. Each korrigan can snare the heart of the steadiest swain and doom him to die for love of her. Christian storytellers drew the korrigan in the darkest colors and blamed her for changeling substitutions. She haunts wells, fountains, dolmens, and menhirs, and gathers thickest in the forest of Brocéliande. Even so, folklorists still paint her as very beautiful. She wears fair hair, bright eyes, and a laughing mouth. Near Vannes the same beings take the names Ozegan and Ozeganned in the plural.
 
 :::
 ```
 ``` tab [group1:Attributes]
-- **korrigans**: spent time guarding buried treasure
-- **korrigans**: made mischief for humans
-- **korrigans**: derived most pleasure from circle dances within or near the pre-Celtic Stone Circles and megalithic shrines still found in Brittany
-- **korrigans**: singing “Monday, Tuesday, Wednesday, Thursday, Friday” (Di Lun, Di Merh, Di Merhier…) but never mentioning the days of the weekend
-- **korrigans**: caused magical deformation such as a lump on the back
+- **korrigan**: Breton water fairy
+- **korrigan**: descended from women druids
+- **Dahut**: princess for whom korrigans built Ys
+- **Ys**: city built by the korrigans
+- **korrigan**: MacKillop also lists corrigan as a paired spelling
+- **korrigan**: the Breton root korr means dwarf
+- **korrigan**: wanton, impish, sprightly female fairy of Breton folklore
+- **korrigan**: desires sexual union with humans
+- **korrigan**: especially malicious toward celibate Catholic priests
+- **korrigan**: can enmesh the heart of the most constant swain and doom him to perish for love of her
+- **korrigan**: in Christian folklore blamed for changeling substitutions
+- **korrigan**: found near wells, fountains, dolmens, and menhirs, especially in the forest of Brocéliande
+- **korrigan**: thought very beautiful, with golden hair, flashing eyes, and laughing lips
+- **korrigan**: known as Ozegan or Ozeganned near Vannes
+- **druidess**: MacKillop names ancient druidesses as ancestors of the korrigan
 ```
 ``` tab [group1:Entities]
-- **korrigans**: mythical creature
-- **Brittany**: region
-- **Stone Circles**: archaeological site
-- **megalithic shrines**: archaeological site
+- **korrigan**: mythological creature
+- **Brittany**: place
+- **Dahut**: person
+- **Ys**: place
+- **corrigan**: Concept
+- **Brocéliande**: Place
+- **dolmen**: Thing
+- **menhir**: Thing
+- **druidess**: Person
+- **Ozegan**: Being
 ```
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
+- MacKillop 2008, s.v. 'korrigan'
 ```
 ![korrigan Image](https://upload.wikimedia.org/wikipedia/commons/c/c8/B60227df7efed11ec27fc3628b239efe_500.jpg)

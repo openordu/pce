@@ -2,56 +2,51 @@
 layout: layouts/pce.njk
 title: menhir
 icon: file-lines
-order: 1603
+order: 1904
 contributors: [ 'Christopher Godwin' ]
 attributes:
-  - menhir mythological and folkloric site
-  - menhir single
-  - menhir enormous
-  - menhir erected upright in the ground
-  - megalithic civilization mysterious
-  - megalithic civilization 6,000 years ago
-  - stones dressed or worked into a specific shape
-  - stones erected without alteration
-  - ancient people moved the stones from their original location
-  - ancient people engineered them into place
+  - menhir a single large stone set upright in the ground
+  - menhir raised by the megalithic civilization some six thousand years ago
+  - menhir most were left whole, and the way of moving them is unknown
+  - menhir MacKillop pointer to cromlech and dolmen for the fuller megalithic record
 categories:
-  - mythological and folkloric site
-  - object
-  - ancient civilization
+  - Thing
+  - Concept
+  - Artifact
 entities:
-  - menhir(mythological and folkloric site)
-  - standing stone(object)
-  - megalithic civilization(ancient civilization)
+  - menhir(Artifact)
+  - standing stone(Artifact)
+  - megalithic civilization(Concept)
+  - cromlech(Thing)
+  - dolmen(Thing)
 tags:
   - menhir
   - standing stone
   - megalithic civilization
+  - cromlech
+  - dolmen
 ---
 ``` tab [group1:Info]
 ::: magazinestyle
-The folkloric and mythological site referred to as the menhir is commonly known as a Standing Stone. Erected by the enigmatic Megalithic Civilization approximately 6,000 years ago, it consists of a single stone often of remarkable size. These stones were sometimes shaped and carved, but typically, they were left unaltered. The means by which the people of this ancient society transported the menhirs from their original locations, sometimes many miles away, to their final resting places, and then raised them into position continues to be the subject of much speculation.
+A menhir is a standing stone. It is a single large stone set upright in the ground. The people of the megalithic civilization raised it, about six thousand years ago. Some stones were cut or shaped into a set form. Most were set up as they came from the earth. No one knows how the stone was moved from the place where it was found, sometimes many miles away. The mystery of its raising is part of its wonder. MacKillop points the reader to cromlech and dolmen for the broader megalithic article on the standing stones of the Atlantic coast.
 
 :::
 ```
 ``` tab [group1:Attributes]
-- **menhir**: mythological and folkloric site
-- **menhir**: single
-- **menhir**: enormous
-- **menhir**: erected upright in the ground
-- **megalithic civilization**: mysterious
-- **megalithic civilization**: 6,000 years ago
-- **stones**: dressed or worked into a specific shape
-- **stones**: erected without alteration
-- **ancient people**: moved the stones from their original location
-- **ancient people**: engineered them into place
+- **menhir**: a single large stone set upright in the ground
+- **menhir**: raised by the megalithic civilization some six thousand years ago
+- **menhir**: most were left whole, and the way of moving them is unknown
+- **menhir**: MacKillop pointer to cromlech and dolmen for the fuller megalithic record
 ```
 ``` tab [group1:Entities]
-- **menhir**: mythological and folkloric site
-- **standing stone**: object
-- **megalithic civilization**: ancient civilization
+- **menhir**: Artifact
+- **standing stone**: Artifact
+- **megalithic civilization**: Concept
+- **cromlech**: Thing
+- **dolmen**: Thing
 ```
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
+- MacKillop 2008, s.v. 'menhir'
 ```
 ![menhir Image](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Ballinagree.jpg/1200px-Ballinagree.jpg)

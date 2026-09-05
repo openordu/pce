@@ -12,25 +12,40 @@ attributes:
   - brollachan also spelled brollochan and grollican
   - brollachan Gaelic name denoting a shapeless, deformed, or senseless creature
   - brollachan counted among the children of the fuath under tale type 1137
+  - brollachan MacKillop lists grollican as a variant form
+  - fuath English writers render the Gaelic fuath as vough or voght
+  - vough the most fearsome apparition in the Scottish Highlands
+  - vough a capture dissolved into a smear of jellyfish
+  - vough the name carries the meaning of hatred or aversion
+  - vough usually female but sometimes male, with webbed feet and noseless faces
+  - vough wears green, the fairy color, and dislikes daylight
+  - vough some Scottish families claimed descent from it
+  - brollachan indexed under international tale type 1137
 categories:
   - Being
+  - Concept
   - Creature
+  - Place
 entities:
   - brollachan(Creature)
   - vough(Creature)
   - kelpie(Creature)
   - fairy(Being)
   - fuath(Creature)
+  - tale type 1137(Concept)
+  - Scottish Highlands(Place)
 tags:
   - brollachan
   - vough
   - kelpie
   - fairy
   - fuath
+  - tale type 1137
+  - Scottish Highlands
 ---
 ``` tab [group1:Info]
 ::: magazinestyle
-The brollachan is a formless and malevolent being of Scottish Gaelic folklore. Writers also spell the name brollochan and grollican. The Gaelic word denotes a shapeless, deformed, or senseless creature. See Vough. The word brollachan describes the vough. It marks the vough in its immature stage. It is the larval form of the being. MacKillop counts the brollachan among the children of the fuath. English writers render fuath as vough or voght. The vough is a terrifying female bogie or kelpie. It is the most fearful apparition in the Scottish Highlands. A hunter could capture it but not hold it. One catch dissolved into a smear of jellyfish. The name means hatred or aversion. The vough is usually female. It sometimes appears as male. Both sexes have webbed feet and noseless faces. They wear green, the fairy color. They dislike daylight. Some families claimed to have vough blood. Folklorists index the brollachan under international tale type 1137.
+The brollachan is a formless and malevolent being of Scottish Gaelic folklore. Writers also spell the name brollochan and grollican. The Gaelic word denotes a shapeless, deformed, or senseless creature. See Vough. The word brollachan describes the vough. It marks the vough in its immature stage. It is the larval form of the being. MacKillop counts the brollachan among the children of the fuath. English writers render fuath as vough or voght. The vough is a terrifying female bogie or kelpie. It is the most fearful apparition in the Scottish Highlands. A hunter could capture it but not hold it. One catch dissolved into a smear of jellyfish. The name means hatred or aversion. The vough is usually female. It sometimes appears as male. Both sexes have webbed feet and noseless faces. They wear green, the fairy color. They dislike daylight. Some families claimed to have vough blood. Folklorists index the brollachan under international tale type 1137. MacKillop lists grollican as a variant form of brollachan.
 
 :::
 ```
@@ -42,6 +57,15 @@ The brollachan is a formless and malevolent being of Scottish Gaelic folklore. W
 - **brollachan**: also spelled brollochan and grollican
 - **brollachan**: Gaelic name denoting a shapeless, deformed, or senseless creature
 - **brollachan**: counted among the children of the fuath under tale type 1137
+- **brollachan**: MacKillop lists grollican as a variant form
+- **fuath**: English writers render the Gaelic fuath as vough or voght
+- **vough**: the most fearsome apparition in the Scottish Highlands
+- **vough**: a capture dissolved into a smear of jellyfish
+- **vough**: the name carries the meaning of hatred or aversion
+- **vough**: usually female but sometimes male, with webbed feet and noseless faces
+- **vough**: wears green, the fairy color, and dislikes daylight
+- **vough**: some Scottish families claimed descent from it
+- **brollachan**: indexed under international tale type 1137
 ```
 ``` tab [group1:Entities]
 - **brollachan**: Creature
@@ -49,9 +73,12 @@ The brollachan is a formless and malevolent being of Scottish Gaelic folklore. W
 - **kelpie**: Creature
 - **fairy**: Being
 - **fuath**: Creature
+- **tale type 1137**: Concept
+- **Scottish Highlands**: Place
 ```
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 - MacKillop 2008, s.v. 'brollachan'
+- MacKillop 2008, s.v. 'grollican'
 ```
 ![brollachan Image](https://upload.wikimedia.org/wikipedia/commons/2/2d/Colum-KOIS%28Holt1916%29-Pogany-illustr-p095-fua%28water_creature%29.png)

@@ -2,78 +2,135 @@
 layout: layouts/pce.njk
 title: ogham
 icon: file-lines
-order: 1771
+order: 2077
 contributors: [ 'Christopher Godwin' ]
 attributes:
-  - wooden wands inscribed with such lines
-  - inscriptions carved on stone
-  - ogham tablets predominantly come from the southwestern Irish province of Munster
-  - script invented in between the third and fourth centuries C.E.
-  - tablets found in Wales and Scotland as well
-  - Tree Alphabet None
+  - ogham symbolic writing script
+  - Celts kept lore in memory
+  - Druids guarded oral knowledge
+  - ogham stones stone markers
+  - Munster Irish province
+  - ogham earliest form of writing in Irish
+  - ogham adapts Latin alphabet to twenty straight-line letters
+  - ogham letters divided into four groups of five sounds
+  - ogham twenty-first upturned arrow sign used for p in British inscriptions
+  - ogham foundation line called drum
+  - ogham each letter named after a tree (ailm for pine, beithe for birch)
+  - ogham letters for q, v, z support an Irish-through-Latin origin
+  - ogham displaces runic, Chalcidic Greek, and northern Etruscan origin theories
+  - ogham inscriptions date chiefly 4th-8th centuries
+  - ogham inscriptions 1945 survey found 121 in Kerry and 81 in County Cork
+  - ogham inscriptions around thirty in Scotland, mainly in Pictish areas
+  - ogham inscriptions over forty in Wales
+  - ogham inscriptions five in Cornwall
+  - ogham also used to write Pictish
+  - South Wales received settlers from southern Ireland including the Déisi
+  - Welsh ogham stones sometimes paired with Brythonic-Latin inscriptions
 categories:
-  - time
-  - number
-  - libraries
-  - material
-  - location
-  - writing
+  - place
+  - artifact
+  - word
+  - group
+  - concept
 entities:
-  - Epics(libraries)
-  - wood(material)
-  - inscriptions(writing)
-  - 400(number)
-  - stone(material)
-  - ogham tablets(writing)
-  - Irish province of Munster(location)
-  - script(writing)
-  - third and fourth centuries C.E.(time)
-  - tablets(writing)
-  - Wales(location)
-  - Scotland(location)
+  - ogham(concept)
+  - Celts(group)
+  - Druids(group)
+  - ogham stones(artifact)
+  - Munster(place)
+  - Ireland(place)
+  - Wales(place)
+  - drum(word)
+  - ailm(word)
+  - beithe(word)
+  - Kerry(place)
+  - County Cork(place)
+  - Isle of Man(place)
+  - Cornwall(place)
+  - Pictish areas(place)
+  - Déisi(group)
+  - Chalcidic Greek(concept)
+  - northern Etruscan(concept)
+  - runic alphabet(concept)
+  - Brythonic-Latin(concept)
+  - Pictish(concept)
 tags:
-  - Epics
-  - wood
-  - inscriptions
-  - 400
-  - stone
-  - ogham tablets
-  - Irish province of Munster
-  - script
-  - third and fourth centuries C.E.
-  - tablets
+  - ogham
+  - Celts
+  - Druids
+  - ogham stones
+  - Munster
+  - Ireland
   - Wales
-  - Scotland
+  - drum
+  - ailm
+  - beithe
+  - Kerry
+  - County Cork
+  - Isle of Man
+  - Cornwall
+  - Pictish areas
+  - Déisi
+  - Chalcidic Greek
+  - northern Etruscan
+  - runic alphabet
+  - Brythonic-Latin
+  - Pictish
 ---
 ``` tab [group1:Info]
 ::: magazinestyle
-The Celtic people did not utilize alphabetic letters or pictorial script to spell out words in their writing. Rather, religious, ritual, and historical material was committed to memory by the Druids. The Druids believed that this kind of material was too precious to be written down and thus at risk of coming into the possession of those who may not understand or appreciate its meaning and value. As a result, we have no written mythology, prayer books, or even historical works from the Celts themselves. It is important to note that any written sources regarding Celtic material may harbor political or religious biases. The Celt's lack of interest in or taboo against writing was rooted in the belief that spoken words held great power. Even in modern times, eloquent speech is held in high regard in ancient Celtic territories. Despite the absence of a widespread writing system, the Celts did have a symbolic script system called ogham. This system was said to have been invented by Ogma or Brigit, gods of eloquence and poetry, respectively. The ogham "letters" were created by drawing lines horizontally and diagonally on wood, with 20 different possible stroke combinations. It is unclear if ogham was inspired by contact with literate cultures or if it was a wholly original invention. Libraries consisting of wooden wands inscribed with such lines are referred to as epics; however, wood is not generally long-lasting. The inscriptions discovered until now, which amount to fewer than 400, are mainly carved on stone, and most of them contain only a single name or title. The ogham tablets are mostly from the province of Munster, situated in the southwest of Ireland. Some scholars argue that the script was invented during the period between the third and fourth centuries C.E. However, these tablets are also found in Wales and Scotland. Consult Tree Alphabet for more information.
+Ogham is the earliest Irish writing form. It adapts the Latin alphabet to twenty straight-line letters. Those letters are cut along the edge of a stone or wooden piece. The script divides into four sets of five sounds. A separate upturned-arrow sign serves for the consonant p in British examples. Notches and grooves are cut along either flank of a base line called the drum. Every letter takes a tree-name. Ailm for pine stands for the vowel a. Beithe for birch marks b. The presence of signs for q, v, and z, none of which Irish uses, points to a current view. The script carried Irish through the Latin alphabet. It did not grow from runic, Chalcidic Greek, or northern Etruscan sources. Inscriptions date chiefly from the fourth to the eighth century. They sit mostly on standing stones. Wood examples are known only by report. A 1945 survey counted 121 stones in Kerry and 81 in County Cork. Others lie across the island of Ireland and across Great Britain. The Isle of Man holds a few more. Five stand in Cornwall. Around thirty sit in Scotland, chiefly in Pictish areas. Over forty stand in Wales. South Wales took many settlers from southern Ireland, including the Déisi. Ogham also served Pictish. Welsh stones sometimes carry Irish ogham next to Brythonic-Latin lines. Druids treated sacred lore as too holy for written notes. They kept most teaching by memory. So few ogham stones survive and most record a single name. Surviving stones gather chiefly in Munster, with others in Wales and Britain.
 
 :::
 ```
 ``` tab [group1:Attributes]
-- **wooden wands**: inscribed with such lines
-- **inscriptions**: carved on stone
-- **ogham tablets**: predominantly come from the southwestern Irish province of Munster
-- **script**: invented in between the third and fourth centuries C.E.
-- **tablets**: found in Wales and Scotland as well
-- **Tree Alphabet**: None
+- **ogham**: symbolic writing script
+- **Celts**: kept lore in memory
+- **Druids**: guarded oral knowledge
+- **ogham stones**: stone markers
+- **Munster**: Irish province
+- **ogham**: earliest form of writing in Irish
+- **ogham**: adapts Latin alphabet to twenty straight-line letters
+- **ogham**: letters divided into four groups of five sounds
+- **ogham**: twenty-first upturned arrow sign used for p in British inscriptions
+- **ogham**: foundation line called drum
+- **ogham**: each letter named after a tree (ailm for pine, beithe for birch)
+- **ogham**: letters for q, v, z support an Irish-through-Latin origin
+- **ogham**: displaces runic, Chalcidic Greek, and northern Etruscan origin theories
+- **ogham inscriptions**: date chiefly 4th-8th centuries
+- **ogham inscriptions**: 1945 survey found 121 in Kerry and 81 in County Cork
+- **ogham inscriptions**: around thirty in Scotland, mainly in Pictish areas
+- **ogham inscriptions**: over forty in Wales
+- **ogham inscriptions**: five in Cornwall
+- **ogham**: also used to write Pictish
+- **South Wales**: received settlers from southern Ireland including the Déisi
+- **Welsh ogham stones**: sometimes paired with Brythonic-Latin inscriptions
 ```
 ``` tab [group1:Entities]
-- **Epics**: libraries
-- **wood**: material
-- **inscriptions**: writing
-- **400**: number
-- **stone**: material
-- **ogham tablets**: writing
-- **Irish province of Munster**: location
-- **script**: writing
-- **third and fourth centuries C.E.**: time
-- **tablets**: writing
-- **Wales**: location
-- **Scotland**: location
+- **ogham**: concept
+- **Celts**: group
+- **Druids**: group
+- **ogham stones**: artifact
+- **Munster**: place
+- **Ireland**: place
+- **Wales**: place
+- **drum**: word
+- **ailm**: word
+- **beithe**: word
+- **Kerry**: place
+- **County Cork**: place
+- **Isle of Man**: place
+- **Cornwall**: place
+- **Pictish areas**: place
+- **Déisi**: group
+- **Chalcidic Greek**: concept
+- **northern Etruscan**: concept
+- **runic alphabet**: concept
+- **Brythonic-Latin**: concept
+- **Pictish**: concept
 ```
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
+- MacKillop 2008, s.v. 'ogham'
 ```
 ![ogham Image](https://upload.wikimedia.org/wikipedia/commons/9/92/Ogham_Stone_Rathass_Church_Tralee_Kerry.jpg)

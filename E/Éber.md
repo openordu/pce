@@ -2,7 +2,7 @@
 layout: layouts/pce.njk
 title: Éber
 icon: file-lines
-order: 0
+order: 2706
 contributors: [ 'Christopher Godwin' ]
 attributes:
   - Éber a name shared by several heroes in the Book of Invasions
@@ -11,12 +11,28 @@ attributes:
   - Éber Donn the envious older brother who may hide the death god Don
   - Eber Scot a made-up father of the Irish and the Scots in the Book
   - Mug Nuadat son-in-law of the hero and ancestor of the Munster rulers
+  - Éber carries disputed spellings Eber, Heber, Ébir, and Éibhear
+  - Éber MacKillop points one etymology back to the biblical Eber, son of Salah, in Genesis 11
+  - Éber Donn means Dark Éber and stands as the envious older brother of Éber Finn in the Lebor Gabála
+  - Éber Donn T. F. O'Rahilly in Early Irish History and Mythology (Dublin, 1946) reads the name as a bridge between Donn, the Irish god of the dead, and the pseudo-history of the invasion story
+  - Éber Donn passes today mostly under the alias Donn mac Míled while keeping a place of his own in the Lebor Gabála
+  - Éber Finn means Fair Éber and leads the Milesian thrust against Ireland in the Lebor Gabála
+  - Éber Finn cited as a recurring ancestor of the southern Gaels of Ireland
+  - Éber Finn one of eight sons of Míl Espáine and younger brother of Éber Donn
+  - Éber Finn received the south of Ireland from an award by the poet Amairgin while Éremón received the north
+  - Éber Finn seven chiefs rode north with Éremón and only six rode south with Éber
+  - Éber Finn Eiscir Riada marks the customary frontier, a ridge of low mounds running between Galway Bay and the Dublin area
+  - Éber Finn standing stones and ancient mounds in Counties Galway, Limerick, and Wexford carry his name
+  - Éber Finn killed at Argetros in County Kilkenny in a failed bid to take Éremón's throne
+  - Éber Glúinfhinn means Éber of the white knee and sits eight generations higher in the descent above Éber Scot
+  - Éber Scot means Éber the Scot and is given as a fabricated forefather of both the Irish and the Scots
+  - Éber Scot sits in a family line that climbs back to a daughter of a pharaoh of Egypt
 categories:
-  - Work
   - Deity
+  - Work
+  - Person
   - Group
   - Place
-  - Person
 entities:
   - Éber(Person)
   - Eber(Person)
@@ -33,6 +49,21 @@ entities:
   - Mug Nuadat(Person)
   - Munster(Place)
   - Ireland(Place)
+  - Heber(Person)
+  - Ébir(Person)
+  - Éibhear(Person)
+  - Lebor Gabála(Work)
+  - T. F. O'Rahilly(Person)
+  - Early Irish History and Mythology(Work)
+  - Donn mac Míled(Person)
+  - southern Gaels(Group)
+  - Amairgin(Person)
+  - Eiscir Riada(Place)
+  - Galway Bay(Place)
+  - Argetros(Place)
+  - County Kilkenny(Place)
+  - Salah(Person)
+  - Genesis 11(Work)
 tags:
   - Éber
   - Eber
@@ -49,12 +80,35 @@ tags:
   - Mug Nuadat
   - Munster
   - Ireland
+  - Heber
+  - Ébir
+  - Éibhear
+  - Lebor Gabála
+  - T. F. O'Rahilly
+  - Early Irish History and Mythology
+  - Donn mac Míled
+  - southern Gaels
+  - Amairgin
+  - Eiscir Riada
+  - Galway Bay
+  - Argetros
+  - County Kilkenny
+  - Salah
+  - Genesis 11
 ---
 ``` tab [group1:Info]
 ::: magazinestyle
-Éber, also spelt Eber or Heber, ranks as an Irish hero. Several characters in the conquest story known as the Book of Invasions carry the name. Some hold that it reaches back to Eber, or Heber, named in the Book of Genesis. The chief among them was Eber Finn, leader of the Milesian host. He was a son of Mír Espáine, little changed by others as the soldier of Spain. After the Milesians drove the Tuatha De Danann out of the south land, Eber Finn received the southern half and his brother Éremón took the north. Eber felt his share was the smaller of the two. He opened a war he could not win, and the battle cost his own life. Eber Don was the jealous elder brother of Eber, and his story bends into the tale of Donn, the god of the dead. A reader can mix one Eber for another, and some texts treat them as one.
+Éber, also written Eber, Heber, Ébir, and Éibhear, gathers a small clan of figures under one name. They all sit inside the Book of Invasions. The etymology remains disputed. MacKillop points one leading thread back to the Eber of Scripture, the son of Salah listed in Genesis 11. The same title has been carried forward in five distinct ways.
 
-More of the name appears in the same book of myth. The text names Eber the Scot as a made-up forefather of the Irish and the Scots, set in a family line that climbs back to a daughter of a pharaoh of Egypt. Another Eber White-Knee stands eight generations higher than that, closer to the start of the family line. Even the southern kings drew from the custom: Eber's son-in-law was Mug Nuadat, later son of Nuadu, and his name became the seed of a long line of Munster rulers. So the one common title covers a hero of conquest, a founder of a people, and a stretch of royal descent.
+Éber Donn — Dark Éber — is the older and envious brother of Éber Finn. He plays his role inside the Lebor Gabála. T. F. O'Rahilly's 1946 Early Irish History and Mythology reads the name as a bridge. The name slots Donn, the death-god of the old pagan order, into the made-up framework of the invasion story. The figure passes today mostly under the alias Donn mac Míled. His tale now overlaps with Donn's, even though he keeps a place of his own inside the Lebor Gabála.
+
+Éber Finn — Fair Éber — heads the Milesian thrust against Ireland in the Lebor Gabála. He stands as a recurring ancestor for the southern Gaels. He is one of eight sons of Míl Espáine. He sits below his elder brother Éber Donn. He is sometimes mixed up with Donn, the pre-Christian ancestor-deity. Éber Finn fought through the conquest. He came away bitter over the carve-up of the land. Amairgin, acting as poet-arbitrator, awarded the south of Ireland to Éber Finn. The north went to his brother Éremón. Éber Finn held that his half was the lesser share. Seven chiefs rode north with Éremón. Six rode south with Éber. Several witnesses hand the kingship to Éremón as well. The customary frontier is Eiscir Riada. That ridge of low mounds runs across the land, linking Galway Bay with the Dublin coast. Cairns, standing stones, and old barrows scattered through Counties Galway, Limerick, and Wexford still carry Éber Finn's name forward. He later fell in battle at Argetros in County Kilkenny. He died reaching for Éremón's throne. His son-in-law was Mug Nuadat.
+
+Éber Glúinfhinn — Éber of the white knee — sits eight generations higher in the family line. He stands closer to the head of the descent. The line above him reaches through Éber Scot toward a daughter of a pharaoh of Egypt.
+
+Éber Scot — Éber the Scot — is a fabricated forefather. The Irish and the Scots both claim him. The pedigree that rises above him climbs all the way back to a pharaoh's daughter.
+
+One common title thus covers a hero of conquest, a founder of peoples, and a long stretch of royal descent. The Munster line below the invasion draws its seed from the same root.
 
 :::
 ```
@@ -65,6 +119,22 @@ More of the name appears in the same book of myth. The text names Eber the Scot 
 - **Éber Donn**: the envious older brother who may hide the death god Don
 - **Eber Scot**: a made-up father of the Irish and the Scots in the Book
 - **Mug Nuadat**: son-in-law of the hero and ancestor of the Munster rulers
+- **Éber**: carries disputed spellings Eber, Heber, Ébir, and Éibhear
+- **Éber**: MacKillop points one etymology back to the biblical Eber, son of Salah, in Genesis 11
+- **Éber Donn**: means Dark Éber and stands as the envious older brother of Éber Finn in the Lebor Gabála
+- **Éber Donn**: T. F. O'Rahilly in Early Irish History and Mythology (Dublin, 1946) reads the name as a bridge between Donn, the Irish god of the dead, and the pseudo-history of the invasion story
+- **Éber Donn**: passes today mostly under the alias Donn mac Míled while keeping a place of his own in the Lebor Gabála
+- **Éber Finn**: means Fair Éber and leads the Milesian thrust against Ireland in the Lebor Gabála
+- **Éber Finn**: cited as a recurring ancestor of the southern Gaels of Ireland
+- **Éber Finn**: one of eight sons of Míl Espáine and younger brother of Éber Donn
+- **Éber Finn**: received the south of Ireland from an award by the poet Amairgin while Éremón received the north
+- **Éber Finn**: seven chiefs rode north with Éremón and only six rode south with Éber
+- **Éber Finn**: Eiscir Riada marks the customary frontier, a ridge of low mounds running between Galway Bay and the Dublin area
+- **Éber Finn**: standing stones and ancient mounds in Counties Galway, Limerick, and Wexford carry his name
+- **Éber Finn**: killed at Argetros in County Kilkenny in a failed bid to take Éremón's throne
+- **Éber Glúinfhinn**: means Éber of the white knee and sits eight generations higher in the descent above Éber Scot
+- **Éber Scot**: means Éber the Scot and is given as a fabricated forefather of both the Irish and the Scots
+- **Éber Scot**: sits in a family line that climbs back to a daughter of a pharaoh of Egypt
 ```
 ``` tab [group1:Entities]
 - **Éber**: Person
@@ -82,8 +152,28 @@ More of the name appears in the same book of myth. The text names Eber the Scot 
 - **Mug Nuadat**: Person
 - **Munster**: Place
 - **Ireland**: Place
+- **Heber**: Person
+- **Ébir**: Person
+- **Éibhear**: Person
+- **Lebor Gabála**: Work
+- **T. F. O'Rahilly**: Person
+- **Early Irish History and Mythology**: Work
+- **Donn mac Míled**: Person
+- **southern Gaels**: Group
+- **Amairgin**: Person
+- **Eiscir Riada**: Place
+- **Galway Bay**: Place
+- **Argetros**: Place
+- **County Kilkenny**: Place
+- **Salah**: Person
+- **Genesis 11**: Work
 ```
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 - MacKillop 2008, s.v. 'Heber'
+- MacKillop 2008, s.v. 'Éber'
+- MacKillop 2008, s.v. 'Éber Donn'
+- MacKillop 2008, s.v. 'Éber Finn'
+- MacKillop 2008, s.v. 'Éber Glúinfhinn'
+- MacKillop 2008, s.v. 'Éber Scot'
 ```

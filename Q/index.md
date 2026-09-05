@@ -6,4 +6,5 @@ layout: layouts/pce.njk
 - [Quelgny](Quelgny)
 - [Quinipily](Quinipily)
 - [questing_beast](questing_beast)
+- [quicken_tree](quicken_tree)
 - [quintessence](quintessence)

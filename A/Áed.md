@@ -2,48 +2,88 @@
 layout: layouts/pce.njk
 title: Áed
 icon: file-lines
-order: 19
+order: 2686
 contributors: [ 'Christopher Godwin' ]
 attributes:
-  - Áed Srónmár lover of the goddess or Fairy Ruad
-  - Ruad beloved of Áed Srónmár
-  - Ruad died before reaching him
-  - goddess inspired Ruad's fatal trip from the Otherworld to join Áed Srónmár on earth
+  - Áed is a common ancient Irish name anglicized as Hugh
+  - Áed gave rise to the surnames Hay, Hayes, Hughes, McHugh, and MacKay
+  - Áed Abrat is a fairy king and the father of Fand and Lí Ban
+  - Eochaid Lethderg had a son named Áed held captive three years by fairy women
+  - Áed a son of Lir became a swan for nine hundred years
+  - Áed a king of Tara died after leaving his magical cow at home
+  - Áed the most common personal name in early Ireland, held by at least twenty saints, many high kings and petty kings, and a multitude of saga and legend characters
+  - Áed derives from Irish for fire and is cognate with the Latin aedes and aestus
+  - Aodh the Modern Irish and Scottish Gaelic spelling under which some characters of the name are always known
+  - Áed spawned more than twelve family names, with Hay, Hayes, Ó hAodha, Hughes, McHugh, McCue, and MacKay among them
 categories:
-  - Fairy
-  - Human
-  - Place
+  - location
+  - mythological figure
+  - person
+  - Concept
+  - hero
+  - event
+  - concept
 entities:
-  - Áed Srónmár(Human)
-  - goddess(Fairy)
-  - Ruad(Fairy)
-  - Otherworld(Place)
-  - earth(Place)
+  - Áed(hero)
+  - Hugh(concept)
+  - Áed Abrat(mythological figure)
+  - Fand(mythological figure)
+  - Lí Ban(mythological figure)
+  - Eochaid Lethderg(mythological figure)
+  - Leinster(location)
+  - Saint Patrick(person)
+  - Children of Lir(event)
+  - Tara(location)
+  - Aodh(Concept)
+  - Ó hAodha(Concept)
+  - McCue(Concept)
 tags:
-  - Áed Srónmár
-  - goddess
-  - Ruad
-  - Otherworld
-  - earth
+  - Áed
+  - Hugh
+  - Áed Abrat
+  - Fand
+  - Lí Ban
+  - Eochaid Lethderg
+  - Leinster
+  - Saint Patrick
+  - Children of Lir
+  - Tara
+  - Aodh
+  - Ó hAodha
+  - McCue
 ---
 ``` tab [group1:Info]
 ::: magazinestyle
-A common name in ancient Ireland, Áed (Aedh, Aodh) produced several heroic figures and divinities, and its Anglicization as Hugh gave birth to surname variations like Hay, Hayes, Hughes, McHugh, and MacKay. Some renowned legends have connections to this name, like Áed Abrat, a Fairy King, father to the fairy queens Fand and Lí Ban. Áed Alain, Bébinn's husband, who was the goddess of birth and sister to Bóand. Áed Eangach, the former king of Ireland, was believed to be born miraculously from the side of a pillar on Tara. Despite the expectation of his birth, this "red-handed" king never came to be, and his impending arrival became part of Irish poetic folklore for centuries. Áed, husband of Aíbell, queen of Connacht, fell prey to the powerful and lusty king Mongán who transformed into Áed's form to sleep with Aíbell, using a transfigured crone to hide his deception. In contrast, Áed, the sixth-century king of Tara, owned a magical Cow that he believed would keep him safe in war. However, Áed was killed in battle as he left the Cow at home. Áed Minbhrec, the son of the Dagda, drew the wrath of hero Coincheann after seducing his wife. Coincheann killed Áed Minbhrec, and the Dagda punished him, forcing him to carry Áed's corpse. Coincheann eventually died of exhaustion from bearing the boulder and body near the Grianán Aileach. However, some variations of the story suggest that Áed is still alive and reigning from his Fairy Mound at Mullaghnasee, close to Ballyshannon in Co. Donegal has a rich history of mythological figures, including Áed Ruad, the father of the goddess and queen Macha Mong Rua. He ruled jointly with two other Ulster kings, Cimbáeth and Díthorba, in periods of seven years each. When Áed Ruad drowned in the famous waterfall Assaroe in Co. Donegal, Macha went to war for the right to succeed him. While some consider Áed an Otherworldly figure, others identify him with Goll Mac Morna. Another mythological figure, Áed Slaine, is also associated with Donegal. He has connections to the town of Slane. Meanwhile, Áed, son of Eochaid Lethderg of Leinster, differs from most Fairy Kidnapping victims in that he sought to escape the beautiful but sterile land he was held captive in for three years by two fairy women. Similarly, Áed, son of Miodhchaoin, killed and was killed by the Sons Of Tuireann, making him one of the most tragic figures in Irish mythology. Lastly, Áed Srónmár plays little part in myth except to inspire his beloved Fairy Ruad's fatal trip from the Otherworld to join him on earth; Ruad died before reaching him. It is important to note that while the tale of the Children of Lir details Áed's transformation into a swan for 900 years by his jealous stepmother, the story is also shrouded in mythology.
+Irish tradition names Áed a hero and a divinity. The name, also written Aedh or Aodh, was common in ancient Ireland. Anglicized, it became Hugh. From it came the family names Hay, Hayes, and Hughes. Others include McHugh and MacKay. The word itself comes from Irish and means fire. It is cognate with the Latin aedes and aestus. The MacKillop dictionary calls Áed the most common personal name in early Ireland. The name belonged to at least twenty saints. It was also borne by many high kings and petty kings. The list also stretches across a multitude of characters from saga and legend. Some of these characters are always known by the Modern Irish and Scottish Gaelic spelling of Aodh. From the name arose more than twelve family names. The family names include Hay, Hayes, Ó hAodha, Hughes, McHugh, McCue, and MacKay. Several legendary figures share the name. Áed Abrat ruled as a fairy king. He sired the queens Fand and Lí Ban. Hardly any tale about him has been kept. A son of Eochaid Lethderg, from Leinster, spent three years as the captive of two fairy women. Unlike many who were taken, he tried to flee the beautiful but sterile land. After he escaped, he journeyed to Saint Patrick. Patrick released him from the remaining ties of fairyland. The start of the tale fits Irish myth. The close of the tale appears to come from the Christian era. A prince of the Lir swan-children carried the name as well. His jealous stepmother changed him into a swan for nine hundred years. Áed, king of Tara, ruled during the sixth century. He kept a magical cow that he believed guarded him in war. He marched to war without the cow, and he was killed.
 
 :::
 ```
 ``` tab [group1:Attributes]
-- **Áed Srónmár**: lover of the goddess or Fairy Ruad
-- **Ruad**: beloved of Áed Srónmár
-- **Ruad**: died before reaching him
-- **goddess**: inspired Ruad's fatal trip from the Otherworld to join Áed Srónmár on earth
+- **Áed**: is a common ancient Irish name anglicized as Hugh
+- **Áed**: gave rise to the surnames Hay, Hayes, Hughes, McHugh, and MacKay
+- **Áed Abrat**: is a fairy king and the father of Fand and Lí Ban
+- **Eochaid Lethderg**: had a son named Áed held captive three years by fairy women
+- **Áed**: a son of Lir became a swan for nine hundred years
+- **Áed**: a king of Tara died after leaving his magical cow at home
+- **Áed**: the most common personal name in early Ireland, held by at least twenty saints, many high kings and petty kings, and a multitude of saga and legend characters
+- **Áed**: derives from Irish for fire and is cognate with the Latin aedes and aestus
+- **Aodh**: the Modern Irish and Scottish Gaelic spelling under which some characters of the name are always known
+- **Áed**: spawned more than twelve family names, with Hay, Hayes, Ó hAodha, Hughes, McHugh, McCue, and MacKay among them
 ```
 ``` tab [group1:Entities]
-- **Áed Srónmár**: Human
-- **goddess**: Fairy
-- **Ruad**: Fairy
-- **Otherworld**: Place
-- **earth**: Place
+- **Áed**: hero
+- **Hugh**: concept
+- **Áed Abrat**: mythological figure
+- **Fand**: mythological figure
+- **Lí Ban**: mythological figure
+- **Eochaid Lethderg**: mythological figure
+- **Leinster**: location
+- **Saint Patrick**: person
+- **Children of Lir**: event
+- **Tara**: location
+- **Aodh**: Concept
+- **Ó hAodha**: Concept
+- **McCue**: Concept
 ```
 ``` tab [group1:Sources]
 - Gwynn, Edward. The Metrical Dindshenchas. Part IV. Royal Irish Academy, Todd Lecture Series. Dublin: Hodges, Figgis, and Co., Ltd., 1906–1924. Pp. 3–9, 95, 103, 298, 375–376.
@@ -52,5 +92,6 @@ A common name in ancient Ireland, Áed (Aedh, Aodh) produced several heroic figu
 - O’Rahilly, Thomas. Early Irish History and Mythology. (Dublin: The Dublin Institute for Advanced Studies, 1946), 319.
 - Squire, Charles. Mythology of the Celtic People. London: Bracken Books, 1996.
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
+- MacKillop 2008, s.v. 'Áed'
 ```
 ![Áed Image](https://upload.wikimedia.org/wikipedia/commons/3/36/Large_bonfire.jpg)

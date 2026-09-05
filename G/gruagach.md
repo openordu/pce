@@ -2,48 +2,64 @@
 layout: layouts/pce.njk
 title: gruagach
 icon: file-lines
-order: 1158
+order: 1332
 contributors: [ 'Christopher Godwin' ]
 attributes:
-  - gruagach nakedness
-  - gruagach spectacularly endowed with hair
+  - gruagach fairy guardian who minds cattle
+  - gruagach took milk poured into hollow stones
+  - gruagach dressed in green with golden hair
+  - gruagach could appear as a small red-haired man
+  - gruagach solitary presence within Irish and Scottish Gaelic fairy lore
+  - gruagach could show as a giant or as an ogre
+  - gruagach long hair ties the figure to the woodwose, the wild man of the forest
+  - gruagach in Scotland could be a slender handsome man of fairy kind or a fairy woman in green
+  - grógach variant spelling of the headword gruagach
 categories:
-  - person
-  - location
-  - clothing
-  - mythical creature
+  - Being
+  - Animal
 entities:
-  - woman(person)
-  - place(location)
-  - laborer(person)
-  - fairy(mythical creature)
-  - gruagach(mythical creature)
-  - sweater(clothing)
+  - gruagach(Being)
+  - brownie(Being)
+  - cattle(Animal)
+  - woodwose(Being)
+  - grógach(Being)
 tags:
-  - woman
-  - place
-  - laborer
-  - fairy
   - gruagach
-  - sweater
+  - brownie
+  - cattle
+  - woodwose
+  - grógach
 ---
 ``` tab [group1:Info]
 ::: magazinestyle
-A figure in Scottish and Irish folklore by the name of gruagach (also known as grogan or grógach) may have originated from guardian divinities belonging to the Celtic tradition, who watched over specific families and were possibly divine ancestors. Though perceived to be fairies, gruagachs in Scotland were depicted as women who tended to the cattle, similar to a barnyard Brownie. These mythical creatures demanded frequent libations of milk- poured into special hollowed-out stones named leacna gruagach. A customary fairy dress code required gruagachs to wear green, accompanied by long, golden hair, substantiating their Otherworld nature. Despite the weather, a gruagach would often appear drenched, seemingly from a downpour, and silently request passer-bys if she could stand by their fire to dry herself. Notably, gruagachs could also manifest themselves as males. A small man with very long red hair was seen hanging about a farmstead in County Donegal, signaling his fairy blood. The farmer, later injured while threshing oats, was replaced by the little naked fellow, who kept a steady pace without appropriate attire. The respective woman of the place, suspicious of a possible fairy in her midst, opted not to converse with him or least thank him for his hard work (see: Laying The Fairies). However, after the gruagach's consistent work for several days, the woman felt pity for his nakedness and knit him a tiny sweater. The gruagach vanished the next day. Interestingly, the term "gruagach" has a connection with "hair," commonly associated with the creature's illustrious tresses.
+The gruagach stands as a solitary presence within Irish and Scottish Gaelic fairy lore. In Scottish tales the figure takes a female shape. She serves as a barnyard brownie who minds cattle on the farm. She asks the householders for milk poured into hollow stones. She wears green cloth and bears long golden hair. On the finest of days she appears dripping wet. She asks those she meets by the road if she might dry herself by the fire. A small man with long red hair also comes and takes on the farm work. The same name can name a very different shape. MacKillop allows that this being may show as a giant or even as an ogre. The long hair of the figure ties it to the woodwose, the wild man of the woods. Across Scotland the word also covers a slender, handsome man of fairy kind, or again a fairy woman in green. The form grógach is logged in MacKillop as a variant spelling of the same headword. Old Irish describes the figure as a
+hairy or wizard-like goblin. That old label captures the long hair
+that marks the being across tales. As a goblin the gruagach can
+move through stone, water, or earth unseen. As a wizard-like
+figure the gruagach can also enchant and bind. Both senses sit
+alongside the farmyard brownie reading in Scottish lore. The
+being's reach stretches from a barnyard haunting to a powerful
+enchantment of the field.
 
 :::
 ```
 ``` tab [group1:Attributes]
-- **gruagach**: nakedness
-- **gruagach**: spectacularly endowed with hair
+- **gruagach**: fairy guardian who minds cattle
+- **gruagach**: took milk poured into hollow stones
+- **gruagach**: dressed in green with golden hair
+- **gruagach**: could appear as a small red-haired man
+- **gruagach**: solitary presence within Irish and Scottish Gaelic fairy lore
+- **gruagach**: could show as a giant or as an ogre
+- **gruagach**: long hair ties the figure to the woodwose, the wild man of the forest
+- **gruagach**: in Scotland could be a slender handsome man of fairy kind or a fairy woman in green
+- **grógach**: variant spelling of the headword gruagach
 ```
 ``` tab [group1:Entities]
-- **woman**: person
-- **place**: location
-- **laborer**: person
-- **fairy**: mythical creature
-- **gruagach**: mythical creature
-- **sweater**: clothing
+- **gruagach**: Being
+- **brownie**: Being
+- **cattle**: Animal
+- **woodwose**: Being
+- **grógach**: Being
 ```
 ``` tab [group1:Sources]
 - Kennedy, Patrick. Legendary Fictions of the Irish Celts. (New York: Benjamin Blom, 1969), 136.
@@ -51,5 +67,7 @@ A figure in Scottish and Irish folklore by the name of gruagach (also known as g
 - MacDougall, James. Folk Tales and Fairy Lore in Gaelic and English. Edinburgh: John Grant, 1910. Pp. 217-221.
 - OhEochaidh, Séan. Fairy Legends of Donegal. Translated by Máire MacNeill. Dublin: Comhairle Bhéaloideas Éireann, 1977. Page 89.
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
+- MacKillop 2008, s.v. 'gruagach'
+- MacKillop 2008, s.v. 'grógach'
 ```
 ![gruagach Image](https://upload.wikimedia.org/wikipedia/commons/9/95/Illustration_of_a_brownie_by_Alice_B_Woodward.jpg)
