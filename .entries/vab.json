@@ -1,0 +1,34 @@
+{
+  "name": "vab",
+  "text": "vab is a MacKillop variant cross-reference pointing to the mab headword. MacKillop reads the form as a variant or alternate spelling of the Welsh mab figure. The principal record of the Welsh mythic hero tradition sits under the mab headword.",
+  "entities": [
+    {
+      "entity": "vab",
+      "type": "Person"
+    },
+    {
+      "entity": "mab",
+      "type": "Person"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "vab",
+      "attribute": "MacKillop variant spelling; pointer to mab headword"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'vab'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "vab is a MacKillop signpost to mab.",
+    "key_results": [
+      "Cites mab as the canonical headword.",
+      "Variant spelling of the Welsh mab tradition."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'vab'."
+  }
+}

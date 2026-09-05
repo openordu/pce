@@ -1,0 +1,33 @@
+{
+  "name": "wolf",
+  "text": "wolf is a MacKillop cross-reference to the canonical animals entry. MacKillop reads the form as a cross-pointer to the wider record of animals in Celtic tradition. The principal survey sits under animals.",
+  "entities": [
+    {
+      "entity": "wolf",
+      "type": "Animal"
+    },
+    {
+      "entity": "animals",
+      "type": "Concept"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "wolf",
+      "attribute": "MacKillop cross-reference to the animals headword"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'wolf'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "wolf is a MacKillop signpost to animals.",
+    "key_results": [
+      "Cites animals as the canonical headword."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'wolf'."
+  }
+}

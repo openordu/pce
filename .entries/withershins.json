@@ -1,0 +1,56 @@
+{
+  "name": "withershins",
+  "text": "withershins names the ritual of taking a course opposite to the sun: counterclockwise, lefthandwise, or circling an object while keeping it on the left. MacKillop records the form as the English word that comes from Scottish regional usage. Such a turn is thought unlucky or bound to evil purpose in much of the Celtic written record, as well as in much of the older European popular belief. The word derives from Middle High German Widersinnes, counter-course. Old Irish túaithbel, Modern Irish tuathal, Scottish Gaelic tuathal, and Manx jannoo my-lheh all carry the same sense. The antonym sits under the sunwise turn headword.",
+  "entities": [
+    {
+      "entity": "withershins",
+      "type": "Concept"
+    },
+    {
+      "entity": "túaithbel",
+      "type": "Concept"
+    },
+    {
+      "entity": "tuathal",
+      "type": "Concept"
+    },
+    {
+      "entity": "sunwise turn",
+      "type": "Concept"
+    },
+    {
+      "entity": "Middle High German",
+      "type": "Language"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "withershins",
+      "attribute": "Counterclockwise ritual course; unlucky or given to evil"
+    },
+    {
+      "entity": "withershins",
+      "attribute": "Celtic cognates: OIr túaithbel, ModIr tuathal, ScG tuathal"
+    },
+    {
+      "entity": "withershins",
+      "attribute": "Antonym of the sunwise turn"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'withershins'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "withershins is the MacKillop headword for the counterclockwise ritual course.",
+    "key_results": [
+      "Counterclockwise; keeps an object on the left.",
+      "Unlucky or evil in Celtic and older European tradition.",
+      "Celtic cognates: túaithbel, tuathal.",
+      "Antonym of the sunwise turn."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'withershins'."
+  }
+}

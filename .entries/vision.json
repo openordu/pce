@@ -1,15 +1,6 @@
 {
   "name": "vision",
-  "attributes": [
-    {
-      "entity": "vision",
-      "attribute": "a cross-reference to Aisling"
-    },
-    {
-      "entity": "Aisling",
-      "attribute": "a form of Irish vision-poetry"
-    }
-  ],
+  "text": "Vision is a cross-reference entry. It directs the reader to the Aisling article. Aisling is a form of Irish vision-poetry. A woman-poet figure appears in the dream-vision. MacKillop pairs vision with the Otherworld entry and treats the headword as a pointer to the wider dream-vision record that sits under Vision Literature.",
   "entities": [
     {
       "entity": "vision",
@@ -18,20 +9,47 @@
     {
       "entity": "Aisling",
       "type": "concept"
+    },
+    {
+      "entity": "Otherworld",
+      "type": "Place"
+    },
+    {
+      "entity": "Vision Literature",
+      "type": "Text"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "vision",
+      "attribute": "a cross-reference to Aisling"
+    },
+    {
+      "entity": "Aisling",
+      "attribute": "a form of Irish vision-poetry"
+    },
+    {
+      "entity": "vision",
+      "attribute": "MacKillop pointer to the Otherworld headword and the Vision Literature survey"
     }
   ],
   "sources": [
-    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.",
+    "MacKillop 2008, s.v. 'vision'"
   ],
   "cyphertext": "oZKBmaL6YFsDJ19Am2K-C7YJaZSUErCbULgrr1DBmnxwzcrJFLmDLw4Sj8VAKSR5",
   "salt": "lE5uby36Vfh1pVpDfk4lAg==",
-  "text": "Vision is a cross-reference entry. It directs the reader to the Aisling article. Aisling is a form of Irish vision-poetry. A woman-poet figure appears in the dream-vision.",
   "okr": {
     "objective": "Vision is a cross-reference that points to Aisling.",
     "key_results": [
       "Vision directs the reader to Aisling.",
       "Aisling is a form of Irish vision-poetry.",
-      "The source offers no fuller account at this heading."
+      "The source offers no fuller account at this heading.",
+      "Vision directs the reader to Aisling.",
+      "Aisling is a form of Irish vision-poetry.",
+      "The source offers no fuller account at this heading.",
+      "MacKillop cross-ref pairs vision with the Otherworld headword.",
+      "Vision Literature holds the canonical survey of vision-texts."
     ],
     "evidence": "Monaghan, Encyclopedia of Celtic Mythology and Folklore"
   }

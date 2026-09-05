@@ -1,0 +1,55 @@
+{
+  "name": "vates",
+  "text": "vates names the Celtic religious figure attested in Strabo and other classical commentators. The word, of probable Celtic origin, meant interpreter of offerings and of natural lore in the Gaulish priestly world. The vates held one of three ranks of high honor in Gaul: alongside the bards and druids. The vates foretold the future by augury and by the slaughter of victims. Although apparently below the druids in rank, the vates certainly held some religious standing of their own. The Irish fáith is the closest Celtic cognate of the Latin form.",
+  "entities": [
+    {
+      "entity": "vates",
+      "type": "Person"
+    },
+    {
+      "entity": "Strabo",
+      "type": "Person"
+    },
+    {
+      "entity": "fáith",
+      "type": "Person"
+    },
+    {
+      "entity": "druids",
+      "type": "Person"
+    },
+    {
+      "entity": "bards",
+      "type": "Person"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "vates",
+      "attribute": "Celtic religious figure attested in Strabo; interpreter of sacrifice"
+    },
+    {
+      "entity": "vates",
+      "attribute": "One of three Gaulish honor-ranks alongside bards and druids"
+    },
+    {
+      "entity": "vates",
+      "attribute": "Irish cognate is the fáith"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'vates'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "vates is the MacKillop headword for the Gaulish religious class attested in classical sources.",
+    "key_results": [
+      "Attested in Strabo and other classical commentators.",
+      "One of three honor-ranks in Gaulish society: vates, bards, druids.",
+      "Irish cognate is the fáith."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'vates'."
+  }
+}

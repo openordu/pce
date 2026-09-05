@@ -1,0 +1,34 @@
+{
+  "name": "voght",
+  "text": "voght is a MacKillop anglicization pointing to the canonical fuath headword. MacKillop records voght and vough as the Lowland Scots phonetic anglicizations of the Scottish Gaelic fuath. The principal record of the Highland water-spirit family sits under fuath.",
+  "entities": [
+    {
+      "entity": "voght",
+      "type": "Being"
+    },
+    {
+      "entity": "fuath",
+      "type": "Being"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "voght",
+      "attribute": "Lowland Scots anglicization of fuath; pointer to fuath headword"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'voght'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "voght is a MacKillop signpost to fuath.",
+    "key_results": [
+      "Cites fuath as the canonical headword.",
+      "Lowland Scots phonetic anglicization."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'voght'."
+  }
+}

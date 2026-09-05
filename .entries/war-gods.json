@@ -1,0 +1,46 @@
+{
+  "name": "war-gods",
+  "text": "war-gods is a MacKillop cross-reference pointing to the canonical battle_gods headword. The MacKillop entry directs readers to the wider survey of Celtic war deities. The battle gods survey gathers Badb, Macha, and the Mórrígan as the chief Irish war-figures.",
+  "entities": [
+    {
+      "entity": "war-gods",
+      "type": "Concept"
+    },
+    {
+      "entity": "battle_gods",
+      "type": "Concept"
+    },
+    {
+      "entity": "Badb",
+      "type": "Being"
+    },
+    {
+      "entity": "Macha",
+      "type": "Being"
+    },
+    {
+      "entity": "Mórrígan",
+      "type": "Being"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "war-gods",
+      "attribute": "MacKillop signpost for the battle_gods headword"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'war-gods'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "war-gods is a MacKillop signpost to battle_gods.",
+    "key_results": [
+      "Cites battle_gods as the canonical headword.",
+      "Irish war-figures: Badb, Macha, Mórrígan."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'war-gods'."
+  }
+}

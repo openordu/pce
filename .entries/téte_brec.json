@@ -1,0 +1,38 @@
+{
+  "name": "téte brec",
+  "text": "téte brec [twinkling hoard] is a MacKillop cross-reference to the Concobar mac Nessa legend. MacKillop reads the form as a cross-pointer to the king of Ulster and the Emain Macha tradition. The principal record of the Ulidian king sits under Concobar mac Nessa.",
+  "entities": [
+    {
+      "entity": "téte brec",
+      "type": "Concept"
+    },
+    {
+      "entity": "Concobar mac Nessa",
+      "type": "Person"
+    },
+    {
+      "entity": "Emain Macha",
+      "type": "Place"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "téte brec",
+      "attribute": "MacKillop cross-ref to the Concobar mac Nessa legend; twinkling-hoard byname"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'téte brec'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "téte brec is a MacKillop signpost to Concobar mac Nessa.",
+    "key_results": [
+      "Cites Concobar mac Nessa as the canonical headword.",
+      "Notes the Emain Macha court connection."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'téte brec'."
+  }
+}

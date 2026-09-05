@@ -1,0 +1,38 @@
+{
+  "name": "tàcharan",
+  "text": "tàcharan is the Scottish Gaelic word for changeling. MacKillop reads the form as the Scottish Gaelic counterpart of the broader tradition of fairy-substituted children. The principal record of that tradition sits under the changeling headword.",
+  "entities": [
+    {
+      "entity": "tàcharan",
+      "type": "Concept"
+    },
+    {
+      "entity": "changeling",
+      "type": "Concept"
+    },
+    {
+      "entity": "Scottish Gaelic",
+      "type": "Language"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "tàcharan",
+      "attribute": "Scottish Gaelic word for changeling; pointer to changeling headword"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'tàcharan'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "tàcharan is a MacKillop signpost to changeling.",
+    "key_results": [
+      "Cites changeling as the canonical headword.",
+      "Scottish Gaelic term in the fairy-substitution tradition."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'tàcharan'."
+  }
+}

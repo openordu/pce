@@ -1,0 +1,50 @@
+{
+  "name": "urisk",
+  "text": "urisk is the Lowland Scots anglicization of the Scottish Gaelic ùruisg, a Highland water-sprite. MacKillop records the form as the vernacular anglicization used in Lowland Scots speech. The ùruisg inhabits rivers, lochs, and seashores, and overlaps with the broader fuath family of Highland water-spirits. The wider spirit class sits under fuath, and the full record of the Highland water-sprite tradition lives there.",
+  "entities": [
+    {
+      "entity": "urisk",
+      "type": "Being"
+    },
+    {
+      "entity": "ùruisg",
+      "type": "Being"
+    },
+    {
+      "entity": "fuath",
+      "type": "Being"
+    },
+    {
+      "entity": "Scottish Gaelic",
+      "type": "Language"
+    },
+    {
+      "entity": "Lowland Scots",
+      "type": "Language"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "urisk",
+      "attribute": "Lowland Scots anglicization of the Scottish Gaelic ùruisg water-sprite"
+    },
+    {
+      "entity": "urisk",
+      "attribute": "Belongs to the wider fuath family of Highland water-spirits"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'urisk'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "urisk is the MacKillop headword for the anglicized form of ùruisg.",
+    "key_results": [
+      "Anglicization of the Scottish Gaelic ùruisg.",
+      "Inhabits rivers, lochs, seashores; overlaps with fuath."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'urisk'."
+  }
+}

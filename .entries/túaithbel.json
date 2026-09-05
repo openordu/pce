@@ -1,0 +1,38 @@
+{
+  "name": "túaithbel",
+  "text": "túaithbel is the Old Irish word for withershins, the counterclockwise ritual course. MacKillop reads the form as the early Irish term for the lefthandwise turn. The full record of the counterclockwise ritual sits under the withershins headword.",
+  "entities": [
+    {
+      "entity": "túaithbel",
+      "type": "Concept"
+    },
+    {
+      "entity": "withershins",
+      "type": "Concept"
+    },
+    {
+      "entity": "Old Irish",
+      "type": "Language"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "túaithbel",
+      "attribute": "Old Irish word for withershins; pointer to withershins headword"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'túaithbel'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "túaithbel is a MacKillop signpost to withershins.",
+    "key_results": [
+      "Cites withershins as the canonical headword.",
+      "Old Irish term in the counterclockwise-ritual tradition."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'túaithbel'."
+  }
+}
