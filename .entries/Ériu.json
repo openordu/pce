@@ -1,87 +1,157 @@
 {
-    "name": "Ériu",
-    "attributes": [
-        {
-            "entity": "Eriu",
-            "attribute": "an Irish goddess"
-        },
-        {
-            "entity": "Tuatha De Danann",
-            "attribute": "displaced the Fomorians"
-        },
-        {
-            "entity": "Eriu",
-            "attribute": "met a man with hair and cloak of gold"
-        },
-        {
-            "entity": "Eithne",
-            "attribute": "named in some variants"
-        },
-        {
-            "entity": "Ériu",
-            "attribute": "her name yields the Old Irish form of Ireland and the later Éire"
-        },
-        {
-            "entity": "Íth",
-            "attribute": "praisest the plenty of mast, honey, wheat, and fish"
-        },
-        {
-            "entity": "Ériu",
-            "attribute": "is the land goddess whose root carries the sense of fertile earth"
-        }
-    ],
-    "entities": [
-        {
-            "entity": "Eriu",
-            "type": "god"
-        },
-        {
-            "entity": "Tuatha De Danann",
-            "type": "group"
-        },
-        {
-            "entity": "Fomorians",
-            "type": "group"
-        },
-        {
-            "entity": "Ireland",
-            "type": "place"
-        },
-        {
-            "entity": "Eithne",
-            "type": "person"
-        },
-        {
-            "entity": "Íth",
-            "type": "legendary ancestor"
-        },
-        {
-            "entity": "Míl Espáine",
-            "type": "legendary ancestor"
-        },
-        {
-            "entity": "Éire",
-            "type": "place"
-        }
-    ],
-    "sources": [
-        "MacAlister, R. A. Stewart. Lebor Gabála Érenn: The Book of the Taking of Ireland, Part 5. Dublin: Irish Texts Society, 1956, 35.",
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.",
-        "Koch 2006, s.v. 'Ériu'"
-    ],
-    "image": [
-        "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/%27The_Harp_of_Erin%27%2C_oil_on_canvas_painting_by_Thomas_Buchanan_Read.JPG/1200px-%27The_Harp_of_Erin%27%2C_oil_on_canvas_painting_by_Thomas_Buchanan_Read.JPG"
-    ],
-    "cyphertext": "KoyBQcROmV4E3Y3mPeZEM3f3SQS4uGMzagMwQ-nRjF8zFkDV6nIcvIT6g7Fom10-WIKd2fLszyhIDwTM-BAghqEYuFo_QPl7yV-z8JM21Rq6Hyp2gukpf6MVCVbxd9BF6TSYIlfL18dBYZMKJ-4vA8OSbjrt7sL-v21nAYM_ExDTU0fZKjkRMw_FUtUHFF2aR1g1qCBFyZ01onkZQxABznvZJ1CP86Obdaw_XEw90Is179AwY0v27buRLpPJj_PuoL6NPev-5All5G1NRbe6rpzSZP9JJQ2TTK1LFFK0r5Oi_osOM73txTCposlJSUNr_GuiA42b56J__x5U40ycUbun8o_rMRLFcZuQp6BX-VaHFHmm-00PVe2DW7OvnoWIam6i9_Wzjk8FKiMpF1g7ke2f55pZHGRuHiO8mnNd5NYrmHJj1T3VABTsyxeJmORkNqJFssffurR3njVDpedi_c9tMmWpt0BFvXJ4fXrghWuJta11zkXz5HScWZu0qnY6jAf7zTjbjJMR62Q6ZE5-a0X1AN708tmJViR4KFPRJf_vDI1lPpaiEMHczXm9uJokC4pJnQN6mC07Ot_xQPGfKXOifj2yziNc9V4d_l1CLj3wpfJW62nA3KWdq1IiIZYXrojE62EhiNWQehFXAAH8H1APMiFQBLj2fc1NIWuloym3HpeLqgPM84IVgF7_7jG6byWWGW80dVunVNvhi8y7ZRBHE1kVokKw8vaZQnM6ThBgGokV7Rfh6Isnsfe6VM9fs4CzdTqC2BIUFSC5QEdrxqHpzf3aRH6gOILnkXkS_bSLWLPpViA82MeQ26oWJ5aWKYiaTtyl3d-z6jhlAk4xJq59FH_Qekf3FICTBt8mcSfTrnuTMIViXvqdopPZ3lVF1ErvjhM4SSD8CaBJx36dkv47rtRYc8aW6jN-DQdwIeLBRVgtLPQqOKclt_q3H5BMnpDZeRWIhDJdfJ4nTQy0yk4cnxh0VCFM1gSBxgJ63gIMruQKWELEQQwg00SfDWTwA-g7HTG5WBWRvGWupYhk10Bbaz06bLWt9ZT2sh8G6M4Lsoie2I97rfDYS0eDdeQowC9Uo4vWlmYaMR_Xd0ZgRPbgqrcc8ew_Ki5GuOtj7Tx-Q4Ei8jgwuskts7NQuPvyXSpze2jD4tm_V7-LaE_r64ys6_gdJLFxdAGPdJ7IypSeKbFjpwSoS3KE8BCbYpFXJJt1pQvDxiYV8usu0M_hVfg0D_gtxzTqrZYXKLuw-TCSJXEJg0iy0TgUE8__rjIlcN3vShacACmZu_1dplmJpjIIVQ8KhFL-XVK3OLmfSG5yRU6nTrsu9iB_jXgu9o0_9J2N1JwcPZ0Fyt4Gwr3AdFnHNOZqfWfL8J93vJsT5geHrIvBB-DvEWeiy0bHjWy_PgEQUXkQ7XbxRxrmP5DZrXuQ9VMyaU5EKdCAOGOSfhiy7L-J8FGnhlfPT2xHNUj-jcXjtVTWm7Zg5Frnd4fVnmnvUkqo0LWBJ3u0V5zPHvOhCQpbA1tiFOe9izxBP8JCau1KNMYwIpiu-DPw52nBv6hmCqUFKaRlSHxgXic3D4PXsoU54UilYj8rpEk3mHLWYDNUYV4U9_O4INEYinee0qhUucdeC2KGJZIFtxMDgkCc6m37e-U9n6cmzeXZX3ORkFbjGFZCEz3lozXljYBTesqk8gR5_6IHkvJqUrWjYydweiMiIUYm-wRfUUWOljgeNKIc2KNQkLZDIxH3dL5Y3yyyH0NY5F32reU97iJpCHNww66xGJ8sta7yGuvlEU-wSoK7jU_XBF2b_4X7qEjLoRt8KvJvn58f_nRSbcYJ59Ye6tNF-45roQIESN-py6SLCzfauLjPm7qXLsCLfTMrSm6pL5LI83noZYE1sNIto51OD90oIrVB_uAqqgfcpVUK1L-AiUjB04fffHe7lOu-X5JVof07UnfRMnx269gtXcs3bKUEmLpEV4GKIRlaXBiG868fuXoZdHvdCtOq6PGq0hByVxIgKeYiAk6O4oOofT-Q1LBGGIn2gW74pyjxSOUfaQE9kUGdLwHa5lvobCEjs8_LCtFJqxiGksIVCMcclakDb4q_x93bgQ_jBMFid4ScB8L_LF0S-V3JLC8xUYLschHtDLhxFu2eDE_12CuqzvAihdAjYnI0di27eqwww89_DP92uC7IsMriL7Br_3_4VhLrFukX831gY4Q08Pwrn_u8i9BiLIHtT-8flfXm4-qnBbbxZ23AZBE6adbvqVKUmB89fVSFlJS_Dhlm7v5Sfzb0W_Gqm_09I4QpeBhdHTET-Rij_w2dAxNkSjJpPPxoEHt0GbE0Ozu3d3w8wBj-H45j4O_bdbOd0S4yfrNKCRlo2sbls-1htGhR4RSvLbuIvivysX_KdpU7i-vBQqn1gWMLdqNuNGJ-7GDkm962niFBhhWB2n9QkHjEn5GOcNEMkBNV_UJefxQTqHKz2nWTpt8GIJ-6ooLU7RQ5XrrSAPu-cObP9KkwXT-n42TOJNGV7Ep-pR6Rrb8D8ib-s0dw_H-o2jXyj74WMuUeUiRK7c8MTuUF3y2G89Bl5FVg8tw5qoJfZUidwfgp_uDElj00tLAa0VPfgP6d7tO2lL9u0AJV9b-48EbeLS12N-GH72CChyll-GR__kaU-EDrPeicIwPYcdLJMibA8Psa-W2dqxB6Fs0aJ730QWljhEMjFfledOGZFJbEii8YpEEDiLTLQhFEvyVBwj59iAtLMPkwDRwpYNuJJhL4Mil4ZPtQSSZsZWCI71zznDFD9e0r1-TyIT_q_8DD-Em4h0NGi1RxoPDeagi9hKNCx8aPjHpBo-ThNdqnlnl3DQs0XBBWYVU5YiWuo5LBjUoGdbGGriyFNK34S6gxHgCr4uTmHGb5VlAFCuaz_VSriRBKoRdSrVR1p0Fnx4RlMuFXtE9X6FDLawanebIgJZQo2U9v7UdIOn8fz2lEftBS0Mvu7oqiBbU4hcM2lrQ5GJL3MV5iJ4jK4-ob8hQf6juSVYY9nPAuf3Q1LRIrUqQPQC6p_6GG43NkqrAtIUYbahAabx1l7VxsWEGP5UwE3yQ28KNxyBYcW3z45Vx3H3c_RGY1-GZ4SCRwYRqQx89Kzu1NgLmNtBPQlN15c5hAz5nqTY_bGuIbRrAx5-GWKywMinUuPeaa5rBnlFbqC7ok_tRaliWfGvDLKOF9hQy8DWcNvSms4CNsJc8k7WOuI8_M6JJjc4KRIgGXi0WKPbayj_JCNLpedVwaAyvXQ0t-M9MCP5CL0gBwSq0jvg7nT4pfXDMD9s_q7egF1LVuYjgLIMTpZ05Yx9Egz1uuwJkCJ5g2sFkG59A5XK8N_Yxzf0dU9sWa4BHBXmksaJ5K33bAISoFiDd6nN8JJgkVWqFz7pMzMKnh_JUB0MCdt-ifcnTtkKnYe7XQyBlFWjNr9RHsKGQnoZTfY4O7PmKpDK69mSB-Dd_muopDm-4bhantlIWB8QITChyfF8RDg4A2vsmiKCGSFxK5dfet49WlDATDOr3AJuccmR-9cioipqUWzVTVi9cg12qL2AJMyUWNdidMHth0D_5PvCf7miqPk4OBbIlbxbCF8NeQ-6DPzdC2UVl4mU_qKCtynMZ0jiSJUpQufHh9QEZjxQ76ks8tKS6a_iWyJJ2ChcnJlPod6sLb3FSPGwCaOJQSb1MGLGkEiKGUXd-logjGw15zzTSGXrm9Ffr2_m81HBt5AsJQw-UrgxeISBq7Vs1s0yis3ZWrClehkv92yqoo7AAArJOYfy6SbaIhJOUuGvN2u9WfJrq5ZiaedUj_RCK5W-xiZ9Sn5jDNTb7XCPXK_xzUDhBLZEqeqI0gSxKbajK8tRQQswbO9UZxLcJoSEwaVfh1Brg8J_eZdKfkS_XqFZtH7c17ZLwCINbt5Iw12O9L5iZgjf5i1FFR4iQHbLA2vAlzQBSwgIPoj5rc",
-    "salt": "GsSTB3EjGP5znKmxHRglAg==",
-    "text": "Ériu is the Irish goddess who gave her island its name. In Old Irish the word Ériu names Ireland itself, and out of it grows modern Éire. The root carries the sense of a fertile and rich land, the same word that lives in the old noun for earth. Her people, the Tuatha Dé Danann, pushed the Fomorians off that island. She is not a distant queen. In one telling she is already married, and she still yields to a man whose hair and cloak are the colour of gold thread, a story of the land giving its name to a new people. Other versions place Eithne in that same role. The tale of Íth follows the same shape. Íth, a kinsman of the household of Míl, is the first of his folk to spy Ireland from the sea. He is the first to set foot ashore, and he praises the land to those who greet him, naming mast, honey, wheat, and fish among its abundance. So the goddess and the ancestor both bend on a single truth: the island is fertile and the name of the island enshrines that fact.",
-    "okr": {
-        "objective": "Set down Ériu as the Irish goddess whose name carries the fertility of the island.",
-        "key_results": [
-            "Show the name now rooted in happiness, horse-root, and later the island of Éire.",
-            "Record her meeting with a lord like a gold.",
-            "Note that some tellings place Eithne in the same role."
-        ],
-        "evidence": "Monaghan 2003, s.v. Ériu; Koch 2006, s.v. Ériu"
+  "name": "Ériu",
+  "attributes": [
+    {
+      "entity": "Eriu",
+      "attribute": "an Irish goddess"
+    },
+    {
+      "entity": "Tuatha De Danann",
+      "attribute": "displaced the Fomorians"
+    },
+    {
+      "entity": "Eriu",
+      "attribute": "met a man with hair and cloak of gold"
+    },
+    {
+      "entity": "Eithne",
+      "attribute": "named in some variants"
+    },
+    {
+      "entity": "Ériu",
+      "attribute": "her name yields the Old Irish form of Ireland and the later Éire"
+    },
+    {
+      "entity": "Íth",
+      "attribute": "praisest the plenty of mast, honey, wheat, and fish"
+    },
+    {
+      "entity": "Ériu",
+      "attribute": "is the land goddess whose root carries the sense of fertile earth"
+    },
+    {
+      "entity": "Ériu",
+      "attribute": "one of three sister-eponyms of Ireland alongside Banba and Fódla"
+    },
+    {
+      "entity": "Ériu",
+      "attribute": "greets the Milesians at Uisnech and wins the island's name"
+    },
+    {
+      "entity": "Ériu",
+      "attribute": "sovereignty consort of Lug Lámfhota in Baile in Scáil"
+    },
+    {
+      "entity": "Ériu",
+      "attribute": "killed at the Battle of Tailtiu by Suiige"
+    },
+    {
+      "entity": "Ériu",
+      "attribute": "Éri is a one-line variant spelling of her name"
     }
+  ],
+  "entities": [
+    {
+      "entity": "Eriu",
+      "type": "god"
+    },
+    {
+      "entity": "Tuatha De Danann",
+      "type": "group"
+    },
+    {
+      "entity": "Fomorians",
+      "type": "group"
+    },
+    {
+      "entity": "Ireland",
+      "type": "place"
+    },
+    {
+      "entity": "Eithne",
+      "type": "person"
+    },
+    {
+      "entity": "Íth",
+      "type": "legendary ancestor"
+    },
+    {
+      "entity": "Míl Espáine",
+      "type": "legendary ancestor"
+    },
+    {
+      "entity": "Éire",
+      "type": "place"
+    },
+    {
+      "entity": "Banba",
+      "type": "god"
+    },
+    {
+      "entity": "Fódla",
+      "type": "god"
+    },
+    {
+      "entity": "Amairgin",
+      "type": "legendary ancestor"
+    },
+    {
+      "entity": "Mac Gréine",
+      "type": "god"
+    },
+    {
+      "entity": "Elatha mac Delbaith",
+      "type": "god"
+    },
+    {
+      "entity": "Bres",
+      "type": "god"
+    },
+    {
+      "entity": "Lug Lámfhota",
+      "type": "god"
+    },
+    {
+      "entity": "Delbáeth",
+      "type": "god"
+    },
+    {
+      "entity": "Milesians",
+      "type": "group"
+    },
+    {
+      "entity": "Uisnech",
+      "type": "place"
+    },
+    {
+      "entity": "Lebor Gabála",
+      "type": "manuscript"
+    },
+    {
+      "entity": "Tailtiu",
+      "type": "place"
+    }
+  ],
+  "sources": [
+    "MacAlister, R. A. Stewart. Lebor Gabála Érenn: The Book of the Taking of Ireland, Part 5. Dublin: Irish Texts Society, 1956, 35.",
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.",
+    "Koch 2006, s.v. 'Ériu'",
+    "MacKillop 2008, s.v. 'Ériu'"
+  ],
+  "image": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/%27The_Harp_of_Erin%27%2C_oil_on_canvas_painting_by_Thomas_Buchanan_Read.JPG/1200px-%27The_Harp_of_Erin%27%2C_oil_on_canvas_painting_by_Thomas_Buchanan_Read.JPG"
+  ],
+  "cyphertext": "KoyBQcROmV4E3Y3mPeZEM3f3SQS4uGMzagMwQ-nRjF8zFkDV6nIcvIT6g7Fom10-WIKd2fLszyhIDwTM-BAghqEYuFo_QPl7yV-z8JM21Rq6Hyp2gukpf6MVCVbxd9BF6TSYIlfL18dBYZMKJ-4vA8OSbjrt7sL-v21nAYM_ExDTU0fZKjkRMw_FUtUHFF2aR1g1qCBFyZ01onkZQxABznvZJ1CP86Obdaw_XEw90Is179AwY0v27buRLpPJj_PuoL6NPev-5All5G1NRbe6rpzSZP9JJQ2TTK1LFFK0r5Oi_osOM73txTCposlJSUNr_GuiA42b56J__x5U40ycUbun8o_rMRLFcZuQp6BX-VaHFHmm-00PVe2DW7OvnoWIam6i9_Wzjk8FKiMpF1g7ke2f55pZHGRuHiO8mnNd5NYrmHJj1T3VABTsyxeJmORkNqJFssffurR3njVDpedi_c9tMmWpt0BFvXJ4fXrghWuJta11zkXz5HScWZu0qnY6jAf7zTjbjJMR62Q6ZE5-a0X1AN708tmJViR4KFPRJf_vDI1lPpaiEMHczXm9uJokC4pJnQN6mC07Ot_xQPGfKXOifj2yziNc9V4d_l1CLj3wpfJW62nA3KWdq1IiIZYXrojE62EhiNWQehFXAAH8H1APMiFQBLj2fc1NIWuloym3HpeLqgPM84IVgF7_7jG6byWWGW80dVunVNvhi8y7ZRBHE1kVokKw8vaZQnM6ThBgGokV7Rfh6Isnsfe6VM9fs4CzdTqC2BIUFSC5QEdrxqHpzf3aRH6gOILnkXkS_bSLWLPpViA82MeQ26oWJ5aWKYiaTtyl3d-z6jhlAk4xJq59FH_Qekf3FICTBt8mcSfTrnuTMIViXvqdopPZ3lVF1ErvjhM4SSD8CaBJx36dkv47rtRYc8aW6jN-DQdwIeLBRVgtLPQqOKclt_q3H5BMnpDZeRWIhDJdfJ4nTQy0yk4cnxh0VCFM1gSBxgJ63gIMruQKWELEQQwg00SfDWTwA-g7HTG5WBWRvGWupYhk10Bbaz06bLWt9ZT2sh8G6M4Lsoie2I97rfDYS0eDdeQowC9Uo4vWlmYaMR_Xd0ZgRPbgqrcc8ew_Ki5GuOtj7Tx-Q4Ei8jgwuskts7NQuPvyXSpze2jD4tm_V7-LaE_r64ys6_gdJLFxdAGPdJ7IypSeKbFjpwSoS3KE8BCbYpFXJJt1pQvDxiYV8usu0M_hVfg0D_gtxzTqrZYXKLuw-TCSJXEJg0iy0TgUE8__rjIlcN3vShacACmZu_1dplmJpjIIVQ8KhFL-XVK3OLmfSG5yRU6nTrsu9iB_jXgu9o0_9J2N1JwcPZ0Fyt4Gwr3AdFnHNOZqfWfL8J93vJsT5geHrIvBB-DvEWeiy0bHjWy_PgEQUXkQ7XbxRxrmP5DZrXuQ9VMyaU5EKdCAOGOSfhiy7L-J8FGnhlfPT2xHNUj-jcXjtVTWm7Zg5Frnd4fVnmnvUkqo0LWBJ3u0V5zPHvOhCQpbA1tiFOe9izxBP8JCau1KNMYwIpiu-DPw52nBv6hmCqUFKaRlSHxgXic3D4PXsoU54UilYj8rpEk3mHLWYDNUYV4U9_O4INEYinee0qhUucdeC2KGJZIFtxMDgkCc6m37e-U9n6cmzeXZX3ORkFbjGFZCEz3lozXljYBTesqk8gR5_6IHkvJqUrWjYydweiMiIUYm-wRfUUWOljgeNKIc2KNQkLZDIxH3dL5Y3yyyH0NY5F32reU97iJpCHNww66xGJ8sta7yGuvlEU-wSoK7jU_XBF2b_4X7qEjLoRt8KvJvn58f_nRSbcYJ59Ye6tNF-45roQIESN-py6SLCzfauLjPm7qXLsCLfTMrSm6pL5LI83noZYE1sNIto51OD90oIrVB_uAqqgfcpVUK1L-AiUjB04fffHe7lOu-X5JVof07UnfRMnx269gtXcs3bKUEmLpEV4GKIRlaXBiG868fuXoZdHvdCtOq6PGq0hByVxIgKeYiAk6O4oOofT-Q1LBGGIn2gW74pyjxSOUfaQE9kUGdLwHa5lvobCEjs8_LCtFJqxiGksIVCMcclakDb4q_x93bgQ_jBMFid4ScB8L_LF0S-V3JLC8xUYLschHtDLhxFu2eDE_12CuqzvAihdAjYnI0di27eqwww89_DP92uC7IsMriL7Br_3_4VhLrFukX831gY4Q08Pwrn_u8i9BiLIHtT-8flfXm4-qnBbbxZ23AZBE6adbvqVKUmB89fVSFlJS_Dhlm7v5Sfzb0W_Gqm_09I4QpeBhdHTET-Rij_w2dAxNkSjJpPPxoEHt0GbE0Ozu3d3w8wBj-H45j4O_bdbOd0S4yfrNKCRlo2sbls-1htGhR4RSvLbuIvivysX_KdpU7i-vBQqn1gWMLdqNuNGJ-7GDkm962niFBhhWB2n9QkHjEn5GOcNEMkBNV_UJefxQTqHKz2nWTpt8GIJ-6ooLU7RQ5XrrSAPu-cObP9KkwXT-n42TOJNGV7Ep-pR6Rrb8D8ib-s0dw_H-o2jXyj74WMuUeUiRK7c8MTuUF3y2G89Bl5FVg8tw5qoJfZUidwfgp_uDElj00tLAa0VPfgP6d7tO2lL9u0AJV9b-48EbeLS12N-GH72CChyll-GR__kaU-EDrPeicIwPYcdLJMibA8Psa-W2dqxB6Fs0aJ730QWljhEMjFfledOGZFJbEii8YpEEDiLTLQhFEvyVBwj59iAtLMPkwDRwpYNuJJhL4Mil4ZPtQSSZsZWCI71zznDFD9e0r1-TyIT_q_8DD-Em4h0NGi1RxoPDeagi9hKNCx8aPjHpBo-ThNdqnlnl3DQs0XBBWYVU5YiWuo5LBjUoGdbGGriyFNK34S6gxHgCr4uTmHGb5VlAFCuaz_VSriRBKoRdSrVR1p0Fnx4RlMuFXtE9X6FDLawanebIgJZQo2U9v7UdIOn8fz2lEftBS0Mvu7oqiBbU4hcM2lrQ5GJL3MV5iJ4jK4-ob8hQf6juSVYY9nPAuf3Q1LRIrUqQPQC6p_6GG43NkqrAtIUYbahAabx1l7VxsWEGP5UwE3yQ28KNxyBYcW3z45Vx3H3c_RGY1-GZ4SCRwYRqQx89Kzu1NgLmNtBPQlN15c5hAz5nqTY_bGuIbRrAx5-GWKywMinUuPeaa5rBnlFbqC7ok_tRaliWfGvDLKOF9hQy8DWcNvSms4CNsJc8k7WOuI8_M6JJjc4KRIgGXi0WKPbayj_JCNLpedVwaAyvXQ0t-M9MCP5CL0gBwSq0jvg7nT4pfXDMD9s_q7egF1LVuYjgLIMTpZ05Yx9Egz1uuwJkCJ5g2sFkG59A5XK8N_Yxzf0dU9sWa4BHBXmksaJ5K33bAISoFiDd6nN8JJgkVWqFz7pMzMKnh_JUB0MCdt-ifcnTtkKnYe7XQyBlFWjNr9RHsKGQnoZTfY4O7PmKpDK69mSB-Dd_muopDm-4bhantlIWB8QITChyfF8RDg4A2vsmiKCGSFxK5dfet49WlDATDOr3AJuccmR-9cioipqUWzVTVi9cg12qL2AJMyUWNdidMHth0D_5PvCf7miqPk4OBbIlbxbCF8NeQ-6DPzdC2UVl4mU_qKCtynMZ0jiSJUpQufHh9QEZjxQ76ks8tKS6a_iWyJJ2ChcnJlPod6sLb3FSPGwCaOJQSb1MGLGkEiKGUXd-logjGw15zzTSGXrm9Ffr2_m81HBt5AsJQw-UrgxeISBq7Vs1s0yis3ZWrClehkv92yqoo7AAArJOYfy6SbaIhJOUuGvN2u9WfJrq5ZiaedUj_RCK5W-xiZ9Sn5jDNTb7XCPXK_xzUDhBLZEqeqI0gSxKbajK8tRQQswbO9UZxLcJoSEwaVfh1Brg8J_eZdKfkS_XqFZtH7c17ZLwCINbt5Iw12O9L5iZgjf5i1FFR4iQHbLA2vAlzQBSwgIPoj5rc",
+  "salt": "GsSTB3EjGP5znKmxHRglAg==",
+  "text": "Ériu is one of three divine sisters who personify Ireland itself, alongside her two kin Banba and Fódla. The trio appear together in the Lebor Gabála as eponymous tutelary goddesses. Any one of their names could be lifted up as the island's title. The figure wears a circlet or ring. Scholars read the emblem as a solar or lunar sign. The very word Ériu carries the root sense of fertile ground. When the Milesians come to take the island, Ériu meets them at the hill of Uisnech. She tells them Ireland is the fairest land beneath the sun. She flatters the newcomers as the finest folk the world has ever seen. One of their leaders, Donn mac Miled, insults her. Ériu answers back: he and his descendants will never enjoy this island. Donn later drowns. The Milesian poet Amairgin then pledges on her behalf that the land shall take her name. The spelling Éire is the modern Irish form of Ériu. Erin is its anglicized cognate. Banba and Fódla survive only as poetic names for the same island. Ériu's father is usually Delbáeth, her mother Emmas or Eimin, her foster-father Codal. She is the wife of Mac Gréine. Through him or through Elatha mac Delbaith she mothers Bres. In Baile in Scáil she is the sovereignty consort of Lug Lámfhota. She dies at the Battle of Tailtiu by the hand of Suiige. At that battle the Milesians kill every king and queen of the defeated Tuatha Dé Danann. The earlier goddess of the land and the later figure of Ériu who bears Bres can be the same person across variant tellings.",
+  "okr": {
+    "objective": "Frame Ériu as the Irish goddess whose name anchors the island's identity.",
+    "key_results": [
+      "Place her among the three sister-eponyms Banba and Fódla.",
+      "Track her meeting with the Milesians at Uisnech and Amairgin's naming pledge.",
+      "Note her parentage (Delbáeth, Emmas or Eimin), marriages (Mac Gréine, Elatha), and son Bres.",
+      "Record her death at Tailtiu and her sovereignty role in Baile in Scáil."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Ériu'; Monaghan 2004; Koch 2006, s.v. 'Ériu'"
+  }
 }

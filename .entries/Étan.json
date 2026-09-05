@@ -20,6 +20,22 @@
     {
       "entity": "Cúchulainn",
       "type": "hero"
+    },
+    {
+      "entity": "Tuireann",
+      "type": "person"
+    },
+    {
+      "entity": "Cairbre mac Ethne",
+      "type": "legendary ancestor"
+    },
+    {
+      "entity": "Cúchulainn",
+      "type": "legendary hero"
+    },
+    {
+      "entity": "Fianna Éireann",
+      "type": "group"
     }
   ],
   "attributes": [
@@ -42,22 +58,34 @@
     {
       "entity": "Cúchulainn",
       "attribute": "had a mistress named Étan"
+    },
+    {
+      "entity": "Étan",
+      "attribute": "wife of Ogma and mother of Tuireann"
+    },
+    {
+      "entity": "Étan",
+      "attribute": "daughter of Dian Cécht and patroness of crafts"
+    },
+    {
+      "entity": "Étan",
+      "attribute": "the second Étan is Cúchulainn's lover and receives his ring"
     }
   ],
   "sources": [
-    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.",
+    "MacKillop 2008, s.v. 'Étan'"
   ],
   "cyphertext": "f_lpPV4fuBm8P4TsvbK673zr73zckcMg6FvCPK6r_7wGSopzxjT2zEW3NsVdeEV2lsVTzFFkQugInsOPTA9SPxH8JqeSe0GBF7WIVG3Sdj86OEjg8JnSGF8e6LxC0rjcNwp2eGYkvDThEYF6MuTH-nJV9u9MbT1qesb8SMyx6grwSt9F9_QfuxHr7iYb622mpp7d74mX5Ba495Vmb5_qbUn3n2xrA1kFabfkS8PtZV8hOAiAn5C9qBLyKih7iuA3KSXvTCamyMQvE8BoVS3XNypJHDiCxRNYuVQphxT7nAgnCKlBIqxgeDeoBwhkzCi9GkwGO3qvdl5ogM20T7P6x7HApMIky2OG9R4ZAgqnEU1Tk_2Faws8pTzX3pbS7KwHqg==",
   "salt": "TyHWQIr-8bs2OV8G9SVlNQ==",
-  "text": "Étan is an Irish goddess of crafts. People often confuse her with Étain. Étan is the daughter of Dian Cécht, the healer god. She is the wife of Ogma, the god of eloquence. Other minor figures bear the same name. One of them is a mistress of the hero Cúchulainn.",
+  "text": "Étan appears as the personal name of several women in early Irish literature. The most prominent is Étan, the wife of Ogma, the god of eloquence. She is the daughter of Dian Cécht, who heals among the gods, and she herself stands as a patron of crafts. Most traditions name her as the mother of Tuireann, and some add the satirist Cairbre mac Ethne to her children. A second Étan is the lover of Cúchulainn, who gives her a ring after their lovemaking. A third Étan belongs to the Fianna Éireann. The name has been confused with Étain in later tradition.",
   "okr": {
-    "objective": "Étan is an Irish goddess of crafts.",
+    "objective": "Distinguish the several women named Étan in early Irish literature.",
     "key_results": [
-      "Étan is a crafts goddess and the daughter of the healer god Dian Cécht.",
-      "She is the wife of Ogma, the god of eloquence.",
-      "Other minor figures, including one mistress of Cúchulainn, share the name.",
-      "People often confuse Étan with Étain."
+      "Identify the principal Étan as wife of Ogma.",
+      "Separate the Cúchulainn-lover Étan and the Fianna woman Étan.",
+      "Note the late-tradition confusion with Étain."
     ],
-    "evidence": "Monaghan, Encyclopedia of Celtic Mythology and Folklore"
+    "evidence": "MacKillop 2008, s.v. 'Étan'"
   }
 }
