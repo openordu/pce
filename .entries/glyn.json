@@ -1,0 +1,43 @@
+{
+  "name": "glyn",
+  "text": "glyn is the Welsh word for valley. MacKillop notes that the headword appears as the first element in dozens of Welsh place names, for example Glyn Cuch in Dyfed, Glyn Ceiriog in Clwyd, and Glynneath in Glamorgan. MacKillop treats glyn as a pointer to the English headword glen and the place-name element glen-. The fuller record of the Celtic valley names sits under glen, with glyn as the Welsh branch of that family. MacKillop also records the place names that begin with the element, including Glyn Cuch, Glyn Dyfi, and Glyn Rhondda. Each of these names a specific valley in the Welsh landscape.",
+  "entities": [
+    {
+      "entity": "glyn",
+      "type": "Concept"
+    },
+    {
+      "entity": "Glyn Cuch",
+      "type": "Place"
+    },
+    {
+      "entity": "Dyfed",
+      "type": "Place"
+    },
+    {
+      "entity": "glen",
+      "type": "Concept"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "glyn",
+      "attribute": "Welsh word for valley; first element in dozens of place-names"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'glyn'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "glyn is the MacKillop headword for the Welsh valley.",
+    "key_results": [
+      "Welsh word for valley, appearing in dozens of place-names.",
+      "Pointer to the English headword glen and the element glen-.",
+      "Examples include Glyn Cuch in Dyfed, Glyn Ceiriog in Clwyd, Glynneath in Glamorgan."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'glyn'."
+  }
+}

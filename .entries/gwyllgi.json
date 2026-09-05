@@ -1,0 +1,42 @@
+{
+  "name": "gwyllgi",
+  "text": "gwyllgi is the fearsome, huge, spectral mastiff of Welsh oral tradition. MacKillop records the headword as one of the named Welsh black dogs. MacKillop treats gwyllgi as the Welsh counterpart of the Irish Cú Sith and the Manx moddey dhoo. The fuller record of the Celtic black dog family sits under the headword dog. MacKillop notes that the gwyllgi could also appear as a fairy dog in more recent Welsh folklore.",
+  "entities": [
+    {
+      "entity": "gwyllgi",
+      "type": "Being"
+    },
+    {
+      "entity": "Cú Sith",
+      "type": "Being"
+    },
+    {
+      "entity": "moddey dhoo",
+      "type": "Being"
+    },
+    {
+      "entity": "dog",
+      "type": "Being"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "gwyllgi",
+      "attribute": "Fearsome, huge, spectral mastiff of Welsh oral tradition"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'gwyllgi'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "gwyllgi is the MacKillop headword for the Welsh spectral mastiff.",
+    "key_results": [
+      "Fearsome, huge, spectral mastiff of Welsh oral tradition.",
+      "Welsh counterpart of the Irish Cú Sith and the Manx moddey dhoo."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'gwyllgi'."
+  }
+}

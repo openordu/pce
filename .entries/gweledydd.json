@@ -1,0 +1,38 @@
+{
+  "name": "gweledydd",
+  "text": "gweledydd is the Welsh word for seer or prophet. MacKillop records the headword as the Welsh counterpart of the Irish fáith. MacKillop treats gweledydd as the broader label for the Welsh prophetic class. The fuller record of the Celtic seer and prophet class sits under the headword fáith. MacKillop links gweledydd to the related Welsh office gwawd.",
+  "entities": [
+    {
+      "entity": "gweledydd",
+      "type": "Concept"
+    },
+    {
+      "entity": "fáith",
+      "type": "Concept"
+    },
+    {
+      "entity": "gwawd",
+      "type": "Concept"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "gweledydd",
+      "attribute": "Welsh word for seer or prophet; counterpart of Irish fáith"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'gweledydd'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "gweledydd is a MacKillop headword for the Welsh seer.",
+    "key_results": [
+      "Welsh counterpart of the Irish fáith (seer, prophet).",
+      "Related Welsh office is gwawd (satire, praise poetry)."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'gweledydd'."
+  }
+}
