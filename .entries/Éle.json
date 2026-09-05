@@ -1,11 +1,12 @@
 {
   "name": "Éle",
   "sources": [
-    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.",
+    "MacKillop 2008, s.v. 'Éle'"
   ],
   "cyphertext": "5eYYcyW81xDxCTcpwgWY28tz77yInuGTT605Tjqz-5Y9qtaaVB4YUZxytWJIe8BKKPEzgDju4Se1dVRFi4yfw7DcGdycLkw-69V-kLW82CUZNuW2Nl87xLroI7R1KE0bLMzkFnkRLchflJNTcL-FYIsyKThnksPrDOWr93-qhLkSr3GBFpfNiapj3141zKt1FSY5uO5_9Mu6JcSlLCkbkHJTaE60zv-GEukSdg32r2N16jPEhuntTqpk7sclZZXk0sGzXNAlQFlLilg=",
   "salt": "DIvW2951Zdxsvz-M0sXvmw==",
-  "text": "Éle is a legendary Irish figure. Most accounts overlook her. Her sister Medb is the famous queen and goddess of Ireland. The name Éle links her to the Fairy race. That race is also called the elfin race. ",
+  "text": "Éle, also written Éile, is a legendary Irish figure whom most accounts pass over. Her famous sister Medb stands as the queen and goddess of Ireland. The name Éle ties her to the Fairy race, also called the elfin race. MacKillop records Éle as a daughter of Eochaid Feidlech. The same entry places her among the sisters of Medb. It adds Clothra, Eithne, and Mugain to that sister group. Éle remains the overshadowed sibling beside her celebrated sister. Her fairy name marks her place within a mythic people. The article itself leads from Éle into a separate British headword Elen, also called Elen Luyddog and Helen. MacKillop traces that Welsh virgin princess to the dream vision Breuddwyd Macsen Wledig. The prince Macsen Wledig is the likely historical figure Magnus Maximus who died in 388. Macsen grew weary of imperial rule in fourth century Britain. He raised an army and marched to take Rome itself. Once seated as emperor he dreamed of the Elen he had left behind.",
   "entities": [
     {
       "entity": "Éle",
@@ -18,6 +19,46 @@
     {
       "entity": "Fairy",
       "type": "group"
+    },
+    {
+      "entity": "Éile",
+      "type": "Person"
+    },
+    {
+      "entity": "Eochaid Feidlech",
+      "type": "Person"
+    },
+    {
+      "entity": "Clothra",
+      "type": "Person"
+    },
+    {
+      "entity": "Eithne",
+      "type": "Person"
+    },
+    {
+      "entity": "Mugain",
+      "type": "Person"
+    },
+    {
+      "entity": "Elen",
+      "type": "Person"
+    },
+    {
+      "entity": "Elen Luyddog",
+      "type": "Person"
+    },
+    {
+      "entity": "Macsen Wledig",
+      "type": "Person"
+    },
+    {
+      "entity": "Magnus Maximus",
+      "type": "Person"
+    },
+    {
+      "entity": "Breuddwyd Macsen Wledig",
+      "type": "Artifact"
     }
   ],
   "attributes": [
@@ -28,15 +69,42 @@
     {
       "entity": "Éle",
       "attribute": "name linked to the Fairy or elfin race"
+    },
+    {
+      "entity": "Éle",
+      "attribute": "daughter of Eochaid Feidlech"
+    },
+    {
+      "entity": "Éle",
+      "attribute": "listed with sisters Clothra, Eithne, and Mugain beside Medb"
+    },
+    {
+      "entity": "Elen Luyddog",
+      "attribute": "British virgin princess in Breuddwyd Macsen Wledig"
+    },
+    {
+      "entity": "Macsen Wledig",
+      "attribute": "likely historical figure Magnus Maximus who died in 388"
+    },
+    {
+      "entity": "Macsen Wledig",
+      "attribute": "raised an army from fourth century Britain to take Rome"
+    },
+    {
+      "entity": "Macsen Wledig",
+      "attribute": "dreamed of Elen after winning the empire"
     }
   ],
   "okr": {
-    "objective": "Éle is the overlooked legendary sister of Medb.",
+    "objective": "Éle is the overlooked fairy-named sister of Medb and daughter of Eochaid Feidlech.",
     "key_results": [
-      "Her sister Medb is the queen and goddess of Ireland.",
-      "Her name links her to the Fairy race.",
-      "That race is also called the elfin race."
+      "Éle is also written Éile.",
+      "She is the daughter of Eochaid Feidlech.",
+      "MacKillop lists her beside sisters Clothra, Eithne, Mugain, and Medb.",
+      "Her name links her to the Fairy or elfin race.",
+      "The article follows Éle with the British figure Elen Luyddog.",
+      "Macsen Wledig is likely Magnus Maximus who died in 388."
     ],
-    "evidence": "Monaghan, Encyclopedia of Celtic Mythology and Folklore"
+    "evidence": "MacKillop 2008, s.v. 'Éle'; Monaghan, Encyclopedia of Celtic Mythology and Folklore"
   }
 }
