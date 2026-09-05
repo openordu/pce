@@ -1,0 +1,44 @@
+{
+  "name": "pencerdd",
+  "text": "pencerdd names the chief poet of early Wales, a title that demanded preparation across nine years of study. Subjects included the rules of language, the patterns of verse, and the lineages of the great houses. Only a holder of the title could teach a bard. As late as 1547 the poet Simwnt Fychan received a written licence to bear the rank, and the document survives. The Welsh rank roughly parallels the early Irish ollam.",
+  "entities": [
+    {
+      "entity": "pencerdd",
+      "type": "Person"
+    },
+    {
+      "entity": "Simwnt Fychan",
+      "type": "Person"
+    },
+    {
+      "entity": "bard",
+      "type": "Person"
+    },
+    {
+      "entity": "ollam",
+      "type": "Person"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "pencerdd",
+      "attribute": "Chief poet of early Wales; nine-year training in grammar, metrics, genealogy"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'pencerdd'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "pencerdd is the MacKillop headword for the chief poet of early Wales.",
+    "key_results": [
+      "Chief poet of early Wales.",
+      "Nine years of training required.",
+      "Only a pencerdd could teach a bard.",
+      "Roughly parallel to the Irish ollam."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'pencerdd'."
+  }
+}

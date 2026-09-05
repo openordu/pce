@@ -1,0 +1,33 @@
+{
+  "name": "senchaid",
+  "text": "senchaid names a class of Irish poet MacKillop ties to the broader fili tradition. MacKillop points the reader to the fili headword for the full record of the poetic order. The senchaid sat below the fili in rank but shared the central function of poetic memory.",
+  "entities": [
+    {
+      "entity": "senchaid",
+      "type": "Person"
+    },
+    {
+      "entity": "fili",
+      "type": "Person"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "senchaid",
+      "attribute": "Lower-ranking Irish poet; pointer to fili headword"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'senchaid'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "senchaid is a MacKillop see-ref signpost for the fili headword.",
+    "key_results": [
+      "Signpost cites fili as the canonical headword."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'senchaid'."
+  }
+}

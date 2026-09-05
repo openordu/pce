@@ -1,0 +1,34 @@
+{
+  "name": "phooka",
+  "text": "phooka and phouka are MacKillop variant spellings of pooka. MacKillop lists the forms alongside the headword spelling in his dictionary. The full record of the Irish púca tradition sits under the headword pooka.",
+  "entities": [
+    {
+      "entity": "phooka",
+      "type": "Being"
+    },
+    {
+      "entity": "pooka",
+      "type": "Being"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "phooka",
+      "attribute": "Variant spellings of pooka; pointer to pooka headword"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'phooka'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "phooka is a MacKillop variant-signpost for the pooka headword.",
+    "key_results": [
+      "Signpost cites pooka as the canonical headword.",
+      "Variants include phouka."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'phooka'."
+  }
+}

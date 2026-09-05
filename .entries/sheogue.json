@@ -1,0 +1,34 @@
+{
+  "name": "sheogue",
+  "text": "sheogue is a phonetic anglicization MacKillop records for the Modern Irish sióg. The unreformed spelling sídheóg appears in older texts. The full record of the single Irish fairy tradition sits under the headword sióg.",
+  "entities": [
+    {
+      "entity": "sheogue",
+      "type": "Being"
+    },
+    {
+      "entity": "sióg",
+      "type": "Being"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "sheogue",
+      "attribute": "Phonetic anglicization of sióg; pointer to sióg headword"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'sheogue'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "sheogue is a MacKillop see-ref signpost for the sióg headword.",
+    "key_results": [
+      "Signpost cites sióg as the canonical headword.",
+      "Unreformed form sídheóg."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'sheogue'."
+  }
+}

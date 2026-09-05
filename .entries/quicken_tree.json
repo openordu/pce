@@ -1,0 +1,33 @@
+{
+  "name": "quicken tree",
+  "text": "quicken tree names the rowan of Celtic tradition. MacKillop points the reader to the rowan headword for the full record of the tree. The Celtic literatures treat the rowan as a protective presence against ill luck and enchantment. Place-names and folklore records place it at many boundary spots across Highland and Welsh landscapes.",
+  "entities": [
+    {
+      "entity": "quicken tree",
+      "type": "Thing"
+    },
+    {
+      "entity": "rowan",
+      "type": "Thing"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "quicken tree",
+      "attribute": "Common name for rowan; pointer to rowan headword"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'quicken tree'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "quicken tree is a MacKillop see-ref signpost for the rowan headword.",
+    "key_results": [
+      "Signpost cites rowan as the canonical headword."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'quicken tree'."
+  }
+}

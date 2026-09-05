@@ -1,0 +1,33 @@
+{
+  "name": "sheevra",
+  "text": "sheevra is the anglicization MacKillop records for the Irish siabair. The form appears in English-language scholarship as a phonetic rendering of the headword. The full record of the Irish phantom-hag tradition sits under the headword siabair.",
+  "entities": [
+    {
+      "entity": "sheevra",
+      "type": "Being"
+    },
+    {
+      "entity": "siabair",
+      "type": "Being"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "sheevra",
+      "attribute": "Anglicization of siabair; pointer to siabair headword"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'sheevra'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "sheevra is a MacKillop see-ref signpost for the siabair headword.",
+    "key_results": [
+      "Signpost cites siabair as the canonical headword."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'sheevra'."
+  }
+}

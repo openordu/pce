@@ -1,0 +1,46 @@
+{
+  "name": "sea-monster",
+  "text": "sea-monster marks a category in Celtic tradition that MacKillop treats under the broader water-monster theme. MacKillop points the reader to the afanc headword for the fuller record of the lake-haunting monster. Related entries include bèist, bledmall, caoránach, cìre in cròin, muirdris, oilliphéist, and suileach.",
+  "entities": [
+    {
+      "entity": "sea-monster",
+      "type": "Being"
+    },
+    {
+      "entity": "afanc",
+      "type": "Being"
+    },
+    {
+      "entity": "bèist",
+      "type": "Being"
+    },
+    {
+      "entity": "muirdris",
+      "type": "Being"
+    },
+    {
+      "entity": "oilliphéist",
+      "type": "Being"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "sea-monster",
+      "attribute": "Celtic water-monster category; pointer to afanc headword"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'sea-monster'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "sea-monster is a MacKillop see-ref signpost for the afanc headword.",
+    "key_results": [
+      "Signpost cites afanc as the canonical headword.",
+      "Related terms include bèist, bledmall, muirdris, oilliphéist."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'sea-monster'."
+  }
+}

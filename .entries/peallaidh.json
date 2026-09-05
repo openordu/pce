@@ -1,0 +1,43 @@
+{
+  "name": "peallaidh",
+  "text": "peallaidh names a regional Scottish Gaelic water-haunting spirit related to the ùruisg. The form is especially tied to the town of Aberfeldy, thirty-two miles northwest of Perth. The town borrows its name from this creature. Although not a water-spirit proper, the peallaidh was said to haunt rivers, lochs, and the seashore. The wider family of such figures also includes the fuath, and the tradition sits within Highland folklore.",
+  "entities": [
+    {
+      "entity": "peallaidh",
+      "type": "Being"
+    },
+    {
+      "entity": "ùruisg",
+      "type": "Being"
+    },
+    {
+      "entity": "Aberfeldy",
+      "type": "Place"
+    },
+    {
+      "entity": "fuath",
+      "type": "Being"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "peallaidh",
+      "attribute": "Scottish Gaelic water-haunting spirit associated with Aberfeldy"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'peallaidh'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "peallaidh is the MacKillop headword for the Aberfeldy water-haunting spirit.",
+    "key_results": [
+      "Regional variant of the ùruisg in Scottish Gaelic tradition.",
+      "Associated with the town of Aberfeldy.",
+      "Haunts rivers, lochs, and the seashore."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'peallaidh'."
+  }
+}
