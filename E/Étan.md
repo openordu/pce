@@ -14,12 +14,12 @@ attributes:
   - Étan daughter of Dian Cécht and patroness of crafts
   - Étan the second Étan is Cúchulainn's lover and receives his ring
 categories:
+  - legendary hero
+  - group
+  - legendary ancestor
+  - god
   - person
   - hero
-  - group
-  - legendary hero
-  - god
-  - legendary ancestor
 entities:
   - Étan(god)
   - Étain(god)

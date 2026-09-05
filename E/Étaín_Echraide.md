@@ -12,8 +12,8 @@ attributes:
   - Étaín Echraide functions in the encyclopedia as a cross-reference to the parent Étain entry
 categories:
   - Person
-  - Text
   - Cycle
+  - Text
 entities:
   - Étain(Person)
   - Midir(Person)

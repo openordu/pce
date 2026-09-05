@@ -14,11 +14,11 @@ attributes:
   - Ésa daughter of Eochaid Airem and Étaín in variant tellings
   - Ésa ancestor of Mes Buachalla and so of Conaire Mór
 categories:
+  - legendary ancestor
+  - god
   - person
   - tale
   - place
-  - god
-  - legendary ancestor
 entities:
   - Esa(person)
   - Etain(person)

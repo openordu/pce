@@ -18,8 +18,8 @@ attributes:
   - Úgaine Mór only Cobthach and Lóegaire Lore left surviving lines
 categories:
   - Person
-  - Text
   - Place
+  - Text
 entities:
   - Labraid Loingsech(Person)
   - Conn Cétchathach(Person)

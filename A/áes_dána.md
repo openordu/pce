@@ -12,10 +12,10 @@ attributes:
   - salmon its flesh passed on inspiration to those who tasted it
   - áes dána professional class of poets and craftsmen in Old Irish law
 categories:
-  - concept
   - group
-  - animal
   - place
+  - animal
+  - concept
 entities:
   - áes dána(concept)
   - poets(group)

@@ -19,8 +19,8 @@ attributes:
   - Étaín Óg occupies roughly twenty-two lines of the 2008 Oxford edition
 categories:
   - Person
-  - Text
   - Place
+  - Text
 entities:
   - Étaín Óg(Person)
   - Étain(Person)

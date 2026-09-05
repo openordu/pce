@@ -13,14 +13,14 @@ attributes:
   - Íth killed by the Tuatha Dé Danann for fear of his eloquence
   - Íth avenged by his nephew Míl Espáine in the invasion of Ireland
 categories:
-  - person
-  - hero
   - group
-  - artifact
-  - place
   - legendary hero
   - legendary ancestor
+  - place
+  - person
   - manuscript
+  - artifact
+  - hero
 entities:
   - Íth(hero)
   - Book of Invasions(artifact)

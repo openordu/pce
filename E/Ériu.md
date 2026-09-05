@@ -18,12 +18,12 @@ attributes:
   - Ériu killed at the Battle of Tailtiu by Suiige
   - Ériu Éri is a one-line variant spelling of her name
 categories:
-  - person
   - group
-  - place
-  - god
   - legendary ancestor
+  - god
+  - person
   - manuscript
+  - place
 entities:
   - Eriu(god)
   - Tuatha De Danann(group)

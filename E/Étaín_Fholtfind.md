@@ -13,8 +13,8 @@ attributes:
   - Étaín Fholtfind occupies roughly six lines of the 2008 Oxford entry
 categories:
   - Person
-  - Deity
   - Place
+  - Deity
 entities:
   - Étaín Fholtfind(Person)
   - Étar(Person)

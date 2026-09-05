@@ -18,8 +18,8 @@ attributes:
   - Étaín the signpost points to four PCE nodes: Étaín Echraide, Fholtfind, of Inis Grecraige, and Óg
   - Étaín the entry is a see-ref node, not a body article, in MacKillop 2008
 categories:
-  - Person
   - Group
+  - Person
   - Text
 entities:
   - Étaín(Person)

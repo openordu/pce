@@ -12,9 +12,9 @@ attributes:
   - Ír O'Rahilly (1946) treated him as a later genealogical construction
   - Ír often conflated with Íth in catalogues of the invasion
 categories:
+  - People
   - Person
   - Text
-  - People
 entities:
   - Míl Espáine(Person)
   - Lebor Gabála(Text)
