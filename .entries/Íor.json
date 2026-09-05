@@ -1,0 +1,27 @@
+{
+  "name": "Íor",
+  "text": "Íor is a modernized spelling of Ír noted in MacKillop's Dictionary of Celtic Mythology. The dictionary records the form as a single-line cross-reference, redirecting the reader to the longer article on Ír. No independent narrative, genealogy, or name-bearing episode attaches to the spelling itself; the entry functions as a typographical signpost rather than a stand-alone mythographic node. MacKillop treats Íor as identical with the older Middle Irish form Ír, the third son of Míl Espáine, after whom Ireland is named in the Lebor Gabála [Book of Invasions] tradition.",
+  "entities": [
+    {"entity": "Ír", "type": "Person"},
+    {"entity": "Lebor Gabála", "type": "Text"}
+  ],
+  "attributes": [
+    {"entity": "Íor", "attribute": "modernized spelling of Ír in MacKillop's 2008 Dictionary"},
+    {"entity": "Íor", "attribute": "treated as identical with Middle Irish Ír"},
+    {"entity": "Íor", "attribute": "no independent narrative or genealogy in MacKillop"},
+    {"entity": "Íor", "attribute": "entry functions as a typographical cross-reference"}
+  ],
+  "sources": ["MacKillop 2008, s.v. 'Íor'"],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Íor is a modern spelling variant of Ír recorded by MacKillop in 2008.",
+    "key_results": [
+      "treated as identical with Middle Irish Ír",
+      "no independent narrative in the dictionary",
+      "functions as a typographical cross-reference"
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Íor'."
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "name": "Étaín",
+  "text": "Étaín is the personal name MacKillop uses to gather three related heroines of early Irish tradition under one heading. The MacKillop Dictionary of Celtic Mythology entry for Étaín runs as a single line of see-references, pointing the reader to the three distinct characters, the fair-haired daughter, the Inis Grecraige daughter, and the daughter known by the Óig suffix, alongside the Etan family. MacKillop's own notation (1-3) marks the three Étaíns as a numbered set. The first is the wife of Eochaid Airem and mother of Étaín Óg, the central figure of Tochmarc Étaíne, whose jealousy-driven exile and rebirth drive the longest of the Tochmarc episodes. The second is the same woman in her later life as wife of Eochaid Feidlech and mother of the Mes Buachalla line. The third is the daughter of Ailill of the routing host and a faery woman, raised as a foster-child of the Tuatha Dé Danann. Fholtfhind marks the fair-haired member of the family. The Inis Grecraige entry refers to a daughter belonging to the king of that island, herself a figure in her own right. Étaín Óg, with Óig as a variant, is the daughter of Étain (i) whose story closes the Da Derga hostel cycle. MacKillop advises readers not to flatten the three figures into one, since the texts treat them as discrete characters and the names diverge in the genealogical tracts. The signpost points the researcher to the four PCE nodes that handle each figure: Étaín Echraide, Étaín Fholtfind, Étaín of Inis Grecraige, and Étaín Óg.",
+  "entities": [
+    {"entity": "Étaín", "type": "Person"},
+    {"entity": "Étaín (1)", "type": "Person"},
+    {"entity": "Étaín (2)", "type": "Person"},
+    {"entity": "Étaín (3)", "type": "Person"},
+    {"entity": "Étaín Echraide", "type": "Person"},
+    {"entity": "Étaín Fholtfind", "type": "Person"},
+    {"entity": "Étaín of Inis Grecraige", "type": "Person"},
+    {"entity": "Étaín Óg", "type": "Person"},
+    {"entity": "Eochaid Airem", "type": "Person"},
+    {"entity": "Eochaid Feidlech", "type": "Person"},
+    {"entity": "Mes Buachalla", "type": "Person"},
+    {"entity": "Tochmarc Étaíne", "type": "Text"},
+    {"entity": "Togail Bruidne Da Derga", "type": "Text"},
+    {"entity": "Tuatha Dé Danann", "type": "Group"},
+    {"entity": "Ailill of the Routing Host", "type": "Person"}
+  ],
+  "attributes": [
+    {"entity": "Étaín", "attribute": "MacKillop's umbrella name for three numbered heroines (1-3)"},
+    {"entity": "Étaín", "attribute": "the entry is a one-line see-ref cluster at L43945 of the 2008 edition"},
+    {"entity": "Étaín (1)", "attribute": "wife of Eochaid Airem and mother of Étaín Óg in the Tochmarc cycle"},
+    {"entity": "Étaín (2)", "attribute": "later wife of Eochaid Feidlech, mother of the Mes Buachalla line"},
+    {"entity": "Étaín (3)", "attribute": "daughter of Ailill of the routing host, foster-child of the Tuatha Dé Danann"},
+    {"entity": "Étaín Fholtfind", "attribute": "the fair-haired member of the family, a signpost target"},
+    {"entity": "Étaín of Inis Grecraige", "attribute": "daughter of the king of that island, her own figure"},
+    {"entity": "Étaín Óg", "attribute": "the daughter of Étain (i) who marries Cormac and triggers the Da Derga hostel cycle"},
+    {"entity": "Étaín", "attribute": "MacKillop flags the three as discrete characters, not a single figure"},
+    {"entity": "Étaín", "attribute": "genealogical tracts treat the names as distinct, not interchangeable"},
+    {"entity": "Étaín", "attribute": "the signpost points to four PCE nodes: Étaín Echraide, Fholtfind, of Inis Grecraige, and Óg"},
+    {"entity": "Étaín", "attribute": "the entry is a see-ref node, not a body article, in MacKillop 2008"}
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Étaín'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Étaín is the MacKillop umbrella signpost for three numbered heroines of early Irish tradition and the family cluster around them, recorded as a one-line see-ref entry in the 2008 Dictionary of Celtic Mythology.",
+    "key_results": [
+      "MacKillop groups the three characters under the notation Étaín (1-3)",
+      "the first is the wife of Eochaid Airem and mother of Étaín Óg",
+      "the second is the later wife of Eochaid Feidlech and mother of the Mes Buachalla line",
+      "the third is the daughter of Ailill of the routing host, raised among the Tuatha Dé Danann",
+      "Fholtfind marks the fair-haired member, and Inis Grecraige marks the daughter of that island's king",
+      "Étaín Óg, with Óig as a variant, is the daughter whose marriage to Cormac drives the Da Derga hostel cycle",
+      "MacKillop cautions against flattening the three into a single figure"
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Étaín'."
+  }
+}

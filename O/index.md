@@ -89,3 +89,5 @@ layout: layouts/pce.njk
 - [owl](owl)
 - [ox](ox)
 - [Óenach](Óenach)
+- [Óengus](Óengus)
+- [óenach](óenach)

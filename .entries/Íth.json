@@ -24,6 +24,30 @@
     {
       "entity": "Míl Despaine",
       "type": "person"
+    },
+    {
+      "entity": "Breogan",
+      "type": "legendary ancestor"
+    },
+    {
+      "entity": "Míl Espáine",
+      "type": "legendary ancestor"
+    },
+    {
+      "entity": "Mag Ítha",
+      "type": "place"
+    },
+    {
+      "entity": "Eochaid mac Luchta",
+      "type": "legendary ancestor"
+    },
+    {
+      "entity": "Lugaid mac Con",
+      "type": "legendary hero"
+    },
+    {
+      "entity": "Lebor Gabála",
+      "type": "manuscript"
     }
   ],
   "attributes": [
@@ -42,26 +66,38 @@
     {
       "entity": "Míl Despaine",
       "attribute": "led the Milesians in a successful invasion"
+    },
+    {
+      "entity": "Íth",
+      "attribute": "first Milesian to set foot on Ireland"
+    },
+    {
+      "entity": "Íth",
+      "attribute": "killed by the Tuatha Dé Danann for fear of his eloquence"
+    },
+    {
+      "entity": "Íth",
+      "attribute": "avenged by his nephew Míl Espáine in the invasion of Ireland"
     }
   ],
   "sources": [
-    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.",
+    "MacKillop 2008, s.v. 'Íth'"
   ],
   "image": [
     "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Torre_de_H%C3%A9rcules_-_DivesGallaecia2012-62.jpg/1200px-Torre_de_H%C3%A9rcules_-_DivesGallaecia2012-62.jpg"
   ],
   "cyphertext": "3vJ-LRhba7c_NpZulKbH0hIbdxxCNV2VPzdN5zbwssuIliDYiygHFZI4S6RUlZsLVtRIIcuUjGR5le71qLxkzB3VaCjAGlz4AbJnSy2bFOGtWbdNkNOipgXYegJPqSvd8qBfcRH3_Og5A3mU6OaA5GGi7TiIFBqeSHeHlX3rNlzx7pZRHVfrG2u9IL5Ja4KPwbfXSYOtO-t0yPOSFp_XEk5dkva28K82DvrirfvvI7H77XDqzC5PPVj7tqEMrmQchZ8lu5cY52zm3x5AM1CzegPrsmerp65dZ0ZbKzvxMR8f1HlvE7D7K20ejh9v4V2Ee9V_1ZO1H0If_h2UgWsiPErB4NRchHcyivRGR-kfY9V_8HX8G8CZd0k3xAG1Qbqd5rbjZ6q40aTujrOsPVT-8awFFiHu8ghxbBkOUNAq6wH_51r6C9s7Ry2J-F3gu1_ri6PpA8fpE8UOHjoIZeIK6bzcxMH1wpDHgexQ5xJPJrBMm-yO5xm9naHsPSXFbjdnV5wLjpEOfCzd49iB7cn9Klh3zxzSzjAiK1LMLL4julh3alOCFSx5qMbhOR4=",
   "salt": "8cSTlJu3eM8uQJtN0lZMWA==",
-  "text": "Íth was an Irish hero in the Book of Invasions. He was a Milesian, and the first of them to glimpse Ireland across the sea. He guided a band of kin to the island. The magical Tuatha Dé Danann slew him soon after. They already ruled the land. His nephew Míl Despaine repaid the slaying. Then Míl led the Milesians into Ireland and won the land.",
+  "text": "Íth is the first of the Milesians to set foot on Ireland in the pseudo-history of the Lebor Gabála. He is a son of Breogan in Spain. He sails to the island to settle a quarrel among the Tuatha Dé Danann. His eloquence alarms the disputants, who fear he means to claim their kingship. They kill him. His nephew Míl Espáine leads the invasion that avenges his murder. The Irish map carries several places named for him, including Mag Ítha in County Donegal. Medieval genealogists placed him at the head of many pedigrees. The fictitious king Eochaid mac Luchta claimed descent from Íth. The hero Lugaid mac Con was given a Goidelic heritage by an invented patronymic Lugaid mac Ítha. Íth is often confused with Ír.",
   "okr": {
-    "objective": "Íth is an Irish hero of the Book of Invasions.",
+    "objective": "Set down Íth as the first Milesian scout in the pseudo-history of Ireland.",
     "key_results": [
-      "Íth was the first Milesian to glimpse Ireland across the sea.",
-      "He guided a band of kin to the island and the Tuatha Dé Danann slew him.",
-      "His nephew Míl Despaine avenged his death.",
-      "Míl then led the Milesians in a successful invasion."
+      "Track his lineage from Breogan of Spain.",
+      "Record his death at the hands of the Tuatha Dé Danann.",
+      "Mark his legacy through Mag Ítha and the genealogical claims of Eochaid mac Luchta and Lugaid mac Con."
     ],
-    "evidence": "Monaghan, Encyclopedia of Celtic Mythology and Folklore"
+    "evidence": "MacKillop 2008, s.v. 'Íth'"
   },
   "objective": "Document Íth as an Irish hero of the Book of Invasions.",
   "key_results": [

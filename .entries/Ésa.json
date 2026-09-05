@@ -1,76 +1,108 @@
 {
-    "name": "Ésa",
-    "attributes": [
-        {
-            "entity": "Esa",
-            "attribute": "a minor heroine of Ireland"
-        },
-        {
-            "entity": "Etain",
-            "attribute": "mother of Esa"
-        },
-        {
-            "entity": "Eochaid Airem",
-            "attribute": "father of Esa"
-        },
-        {
-            "entity": "Midir",
-            "attribute": "came to reclaim Etain"
-        },
-        {
-            "entity": "Eochaid Airem",
-            "attribute": "married his own daughter"
-        },
-        {
-            "entity": "Mess Buachalla",
-            "attribute": "daughter of Eochaid and Esa"
-        }
-    ],
-    "entities": [
-        {
-            "entity": "Esa",
-            "type": "person"
-        },
-        {
-            "entity": "Etain",
-            "type": "person"
-        },
-        {
-            "entity": "Eochaid Airem",
-            "type": "person"
-        },
-        {
-            "entity": "Midir",
-            "type": "person"
-        },
-        {
-            "entity": "Tara",
-            "type": "place"
-        },
-        {
-            "entity": "Otherworld",
-            "type": "place"
-        },
-        {
-            "entity": "Mess Buachalla",
-            "type": "person"
-        }
-    ],
-    "sources": [
-        "Gwynn, Edward. The Metrical Dindshenchas. Part II, Vol. IX. Royal Irish Academy, Todd Lecture Series. Dublin: Hodges, Figgis, and Co., Ltd., 1906–1924, 22.",
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "cyphertext": "fAl_330o0fqzkXE1HdwcqvdSXlcp5EXYqXTkg0E6WBiNXMnork77fWl6ZFW9rnHk57NQO2vnTgCICxtdSrTdnidxpwbw3vwdE13T0Fw96gEH-Ij7vBFti_ifTWocNbKekLAJT8s3hFysAMMdTdr4MpM8Uqt0mF-l7uzqr1pVqwrE1IGzl_WqN7BBvPdq7Y-hMri_ECmPv0YDryGXgBunO1_GHWkE5l0ydnz1iWneSyUf3nYIGIQEvWg0Ei_B1MjgqW9XtLf3pCYxm087-2uRlGzVt8opm_Ez04I8gEbVt3eAz3rPLTnQajvAMlpFZIws1i_fZ6Wg0kuTmTtKOrLcO3Zp-cuHzDPey8iBkJfWGx9VNj1vSEhCjjdTCP26sEH8lxQfkVFM-2I7-V8zeoyo9diQ8j08NPUaljoc-3KKt_feGemHmsD3FzfgkOkZGW4KCu-Or7hjZAnCduJB9YWR_08lRLog6KBTBQ_iYJ4hJf-7KLmXZh4AofXyB5NpQvm583JiO6asl8-RNl2rF4QLDaApgHcoNJAjLmirhIHBB7wqaV6P2z9Vss498JpWbcWab3DV5GGEDl-K5stuRg4X_-VTkkLMjyo6GBgt8FhuKL2oKcU4MxbQQN92OyU3vOVUz2fiDMDqxS6lrT8mT8QWF0-Wvk_SV8jgIxEqdI0ySe4FTqoI8FAiCuVSwgqBGujECQT8xPju_4gp5qjow9pmNWNOmu9Dv3IndMST0mkxMMnIjkkSk2AffY19tqEBR3_ZlSrlRKXkeL_U7BUFilIkZiSUqhD6TDeBW_tsPC8sO-iFOaXpifXZQAwvFs_LvAtQLqHfteCS3P7CiQd0KbixQM7i1P80ijh8cSqwn0gbn56m7Es8C4udfTErbYrBLT-HxjFyIJdOSg6GjQL6DxpPCB23rMrI3QBSg2g6hfNRcFNUN2GP-0Dhk4YQU1E3mq7YUuHnew==",
-    "salt": "BDqCmtpuC0buTZzH4R5Gxg==",
-    "text": "Esa is a heroine of Irish myth. Her mother Etain is a woman from fairy stock who returned to life as a human. Her father is Eochaid Airem, the king of Tara. Her mother's first love, the fairy king, arrived out of the living world seeking to take Etain home. At that time Etain carried the child of Eochaid, and that child was Esa. Eochaid later married his own daughter by mistake. He was tricked into thinking Esa was Etain. The child of Esa and Eochaid lost her mind. That woman later became the queen named Mess Buachalla.",
-    "okr": {
-        "objective": "the Irish heroine Esa",
-        "key_results": [
-            "Esa was a minor heroine of Ireland.",
-            "Her mother was the fairy born again as Etain.",
-            "Her father was the king of Tara.",
-            "The king later married his own daughter."
-        ],
-        "evidence": "Monaghan, Encyclopedia of Celtic Mythology and Folklore"
+  "name": "Ésa",
+  "attributes": [
+    {
+      "entity": "Esa",
+      "attribute": "a minor heroine of Ireland"
+    },
+    {
+      "entity": "Etain",
+      "attribute": "mother of Esa"
+    },
+    {
+      "entity": "Eochaid Airem",
+      "attribute": "father of Esa"
+    },
+    {
+      "entity": "Midir",
+      "attribute": "came to reclaim Etain"
+    },
+    {
+      "entity": "Eochaid Airem",
+      "attribute": "married his own daughter"
+    },
+    {
+      "entity": "Mess Buachalla",
+      "attribute": "daughter of Eochaid and Esa"
+    },
+    {
+      "entity": "Ésa",
+      "attribute": "daughter of Eochaid Airem and Étaín in variant tellings"
+    },
+    {
+      "entity": "Ésa",
+      "attribute": "ancestor of Mes Buachalla and so of Conaire Mór"
     }
+  ],
+  "entities": [
+    {
+      "entity": "Esa",
+      "type": "person"
+    },
+    {
+      "entity": "Etain",
+      "type": "person"
+    },
+    {
+      "entity": "Eochaid Airem",
+      "type": "person"
+    },
+    {
+      "entity": "Midir",
+      "type": "person"
+    },
+    {
+      "entity": "Tara",
+      "type": "place"
+    },
+    {
+      "entity": "Otherworld",
+      "type": "place"
+    },
+    {
+      "entity": "Mess Buachalla",
+      "type": "person"
+    },
+    {
+      "entity": "Eochaid Airem",
+      "type": "legendary ancestor"
+    },
+    {
+      "entity": "Étaín",
+      "type": "god"
+    },
+    {
+      "entity": "Mes Buachalla",
+      "type": "person"
+    },
+    {
+      "entity": "Conaire Mór",
+      "type": "legendary ancestor"
+    },
+    {
+      "entity": "Tochmarc Étaíne",
+      "type": "tale"
+    },
+    {
+      "entity": "Togail Bruidne Da Derga",
+      "type": "tale"
+    }
+  ],
+  "sources": [
+    "Gwynn, Edward. The Metrical Dindshenchas. Part II, Vol. IX. Royal Irish Academy, Todd Lecture Series. Dublin: Hodges, Figgis, and Co., Ltd., 1906–1924, 22.",
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.",
+    "MacKillop 2008, s.v. 'Ésa'"
+  ],
+  "cyphertext": "fAl_330o0fqzkXE1HdwcqvdSXlcp5EXYqXTkg0E6WBiNXMnork77fWl6ZFW9rnHk57NQO2vnTgCICxtdSrTdnidxpwbw3vwdE13T0Fw96gEH-Ij7vBFti_ifTWocNbKekLAJT8s3hFysAMMdTdr4MpM8Uqt0mF-l7uzqr1pVqwrE1IGzl_WqN7BBvPdq7Y-hMri_ECmPv0YDryGXgBunO1_GHWkE5l0ydnz1iWneSyUf3nYIGIQEvWg0Ei_B1MjgqW9XtLf3pCYxm087-2uRlGzVt8opm_Ez04I8gEbVt3eAz3rPLTnQajvAMlpFZIws1i_fZ6Wg0kuTmTtKOrLcO3Zp-cuHzDPey8iBkJfWGx9VNj1vSEhCjjdTCP26sEH8lxQfkVFM-2I7-V8zeoyo9diQ8j08NPUaljoc-3KKt_feGemHmsD3FzfgkOkZGW4KCu-Or7hjZAnCduJB9YWR_08lRLog6KBTBQ_iYJ4hJf-7KLmXZh4AofXyB5NpQvm583JiO6asl8-RNl2rF4QLDaApgHcoNJAjLmirhIHBB7wqaV6P2z9Vss498JpWbcWab3DV5GGEDl-K5stuRg4X_-VTkkLMjyo6GBgt8FhuKL2oKcU4MxbQQN92OyU3vOVUz2fiDMDqxS6lrT8mT8QWF0-Wvk_SV8jgIxEqdI0ySe4FTqoI8FAiCuVSwgqBGujECQT8xPju_4gp5qjow9pmNWNOmu9Dv3IndMST0mkxMMnIjkkSk2AffY19tqEBR3_ZlSrlRKXkeL_U7BUFilIkZiSUqhD6TDeBW_tsPC8sO-iFOaXpifXZQAwvFs_LvAtQLqHfteCS3P7CiQd0KbixQM7i1P80ijh8cSqwn0gbn56m7Es8C4udfTErbYrBLT-HxjFyIJdOSg6GjQL6DxpPCB23rMrI3QBSg2g6hfNRcFNUN2GP-0Dhk4YQU1E3mq7YUuHnew==",
+  "salt": "BDqCmtpuC0buTZzH4R5Gxg==",
+  "text": "Ésa is named in versions of the Tochmarc Étaíne and the Togail Bruidne Da Derga that fall outside the most widely known text. In those tellings she is a daughter of Eochaid Airem and Étaín. From her line comes Mes Buachalla, the foundling who becomes the mother of Conaire Mór. The spelling Ésa also appears as Esa, Ess, or Es across manuscripts.",
+  "okr": {
+    "objective": "Record Ésa as the daughter of Eochaid Airem and Étaín in variant texts.",
+    "key_results": [
+      "Name the manuscripts where she appears outside the canonical Tochmarc Étaíne.",
+      "Show her connection to Mes Buachalla and Conaire Mór.",
+      "Catalog the spelling variants Ésa, Esa, Ess, Es."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Ésa'; Gwynn, Metrical Dindshenchas"
+  }
 }

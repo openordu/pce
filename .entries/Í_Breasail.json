@@ -1,0 +1,31 @@
+{
+  "name": "Í Breasail",
+  "text": "Í Breasail records speculative Irish-language forms for the phantom island known in English as Hy Brasil. MacKillop's Dictionary of Celtic Mythology lists the forms under the heading Í Breasail, with Í Breasil as an alternate spelling, and explains both as attempts to give an Irish-language name to the island that appears on maps west of Ireland. The forms are speculative because Hy Brasil itself has no fixed Irish-language pedigree. PCE treats this entry as a signpost rather than a body article, pointing readers to the full Hy Brasil article for the cartographic and folkloric detail. The MacKillop entry is short, occupying roughly the line that introduces the OCR-corrupted reading f Breasail alongside the corrected Í Breasail form.",
+  "entities": [
+    {"entity": "Hy Brasil", "type": "Place"},
+    {"entity": "Í Breasail", "type": "Place"},
+    {"entity": "Í Breasil", "type": "Place"}
+  ],
+  "attributes": [
+    {"entity": "Í Breasail", "attribute": "speculative Irish-language form for Hy Brasil"},
+    {"entity": "Í Breasail", "attribute": "Í Breasil is recorded as an alternate spelling"},
+    {"entity": "Í Breasail", "attribute": "MacKillop notes the OCR-corrupted reading f Breasail in the source line"},
+    {"entity": "Í Breasail", "attribute": "treated in PCE as a signpost, not a body article"},
+    {"entity": "Í Breasail", "attribute": "points readers to the full Hy Brasil article for cartographic and folkloric detail"}
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Í Breasail'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Í Breasail is a speculative Irish-language form for the phantom island known in English as Hy Brasil.",
+    "key_results": [
+      "Í Breasil is the alternate spelling recorded by MacKillop",
+      "f Breasail appears as an OCR-corrupted reading in the source line",
+      "functions as a signpost to the full Hy Brasil article"
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Í Breasail'."
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "name": "Úgaine Mór",
+  "text": "Úgaine Mór, also written Ugaine Már, Ughaine, Úgoine, Ugainy, or Ugony, is in MacKillop's Dictionary of Celtic Mythology a possibly historical early Irish chieftain who stands at the head of medieval genealogies. Both Labraid Loingsech of Leinster and Conn Cétchathach of the Hundred Battles claim descent from him. The fictionalized story-cycle, written centuries after his time, makes Úgaine a foster-son of Queen Macha, sets him on the throne of Tara for forty years, and ranges his dominion across the northern realm as far as Scotland, the Isle of Wight in the south, and onward to the rest of Europe. A tenth-century tale, now lost, had Úgaine warring as far as Italy. He takes to wife Cesair (2), a Frankish princess, who bears him twenty-five children, a different Cesair from the first invader of Ireland named in the Lebor Gabála [Book of Invasions]. The whole island was carved into twenty-five shares, one for each child, but only two of them, Cobthach and Lóegaire Lore (Lóegaire's son Labraid Loingsech is the third generation), left any descendants at all. MacKillop frames Úgaine as a node of dynastic convergence rather than a round-by-round narrative hero.",
+  "entities": [
+    {"entity": "Labraid Loingsech", "type": "Person"},
+    {"entity": "Conn Cétchathach", "type": "Person"},
+    {"entity": "Macha", "type": "Person"},
+    {"entity": "Tara", "type": "Place"},
+    {"entity": "Cesair", "type": "Person"},
+    {"entity": "Lebor Gabála", "type": "Text"},
+    {"entity": "Cobthach", "type": "Person"},
+    {"entity": "Lóegaire Lore", "type": "Person"},
+    {"entity": "Scotland", "type": "Place"},
+    {"entity": "Isle of Wight", "type": "Place"}
+  ],
+  "attributes": [
+    {"entity": "Úgaine Mór", "attribute": "possibly historical early Irish chieftain"},
+    {"entity": "Úgaine Mór", "attribute": "ultimate genealogical anchor in medieval Irish lists"},
+    {"entity": "Úgaine Mór", "attribute": "claimed ancestor of Labraid Loingsech and Conn Cétchathach"},
+    {"entity": "Úgaine Mór", "attribute": "fostered by Queen Macha in the story-cycle"},
+    {"entity": "Úgaine Mór", "attribute": "sat on the throne of Tara for forty years"},
+    {"entity": "Úgaine Mór", "attribute": "dominion stretched to Scotland, the Isle of Wight, and Europe"},
+    {"entity": "Úgaine Mór", "attribute": "a lost tenth-century tale placed his army in Italy"},
+    {"entity": "Úgaine Mór", "attribute": "married Cesair (2), daughter of the king of the Franks"},
+    {"entity": "Úgaine Mór", "attribute": "fathered twenty-five children by her"},
+    {"entity": "Úgaine Mór", "attribute": "allotted one share of the island to each child"},
+    {"entity": "Úgaine Mór", "attribute": "only Cobthach and Lóegaire Lore left surviving lines"}
+  ],
+  "sources": ["MacKillop 2008, s.v. 'Úgaine Mór'"],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Úgaine Mór is a possibly historical early Irish chieftain in MacKillop's 2008 Dictionary, ultimate ancestor of two later royal lines.",
+    "key_results": [
+      "possibly historical early Irish chieftain",
+      "claimed ancestor of Labraid Loingsech and Conn Cétchathach",
+      "fostered by Macha, ruled Tara for forty years",
+      "married Cesair (2) and fathered twenty-five children",
+      "island carved into twenty-five shares, only Cobthach and Lóegaire Lore survived"
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Úgaine Mór'."
+  }
+}

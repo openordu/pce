@@ -1,0 +1,33 @@
+{
+  "name": "Í Choluim Chille",
+  "text": "Í Choluim Chille is the Old Irish name for Iona, the small Hebridean island where Columba established his monastic settlement in the sixth century. MacKillop records the form in his Dictionary of Celtic Mythology as a one-line cross-reference under the prefix Í, which itself is the Old Irish word for island. The form means island of Colum Cille, with the genitive Choluim naming the saint and the genitive Chille giving the byname of the church. Later anglicizations such as Icolumkil descend from the same Irish compound. PCE treats this entry as a signpost pointing to the full Columba article, because the Irish-language place name carries no independent mythology beyond Columba's foundation.",
+  "entities": [
+    {"entity": "Columba", "type": "Person"},
+    {"entity": "Iona", "type": "Place"},
+    {"entity": "Í Choluim Chille", "type": "Place"},
+    {"entity": "Colum Cille", "type": "Person"}
+  ],
+  "attributes": [
+    {"entity": "Í Choluim Chille", "attribute": "Old Irish name for Iona"},
+    {"entity": "Í Choluim Chille", "attribute": "translates as island of Colum Cille"},
+    {"entity": "Í Choluim Chille", "attribute": "uses the genitive Choluim for Columba and the genitive Chille for the saint's byname"},
+    {"entity": "Í Choluim Chille", "attribute": "recorded by MacKillop as a one-line cross-reference under the prefix Í"},
+    {"entity": "Í Choluim Chille", "attribute": "anglicized in later sources as Icolumkil"},
+    {"entity": "Í Choluim Chille", "attribute": "treated in PCE as a signpost to the full Columba article"}
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Í Choluim Chille'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Í Choluim Chille is the Old Irish name for Iona, translating as island of Colum Cille.",
+    "key_results": [
+      "uses the genitive Choluim for Columba and the genitive Chille for the byname",
+      "recorded by MacKillop as a one-line cross-reference under the prefix Í",
+      "treated in PCE as a signpost to the full Columba article"
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Í Choluim Chille'."
+  }
+}

@@ -2,66 +2,85 @@
 layout: layouts/pce.njk
 title: Ésa
 icon: file-lines
-order: 844
+order: 2715
 contributors: [ 'Christopher Godwin' ]
 attributes:
-  - Ésa Irish heroine
-  - Étain Fairy woman reborn as a mortal
-  - Eochaid Airem human king of Tara
-  - Midir fairy king
-  - Otherworld None
-  - Mess Buachalla madwoman and later queen
+  - Esa a minor heroine of Ireland
+  - Etain mother of Esa
+  - Eochaid Airem father of Esa
+  - Midir came to reclaim Etain
+  - Eochaid Airem married his own daughter
+  - Mess Buachalla daughter of Eochaid and Esa
+  - Ésa daughter of Eochaid Airem and Étaín in variant tellings
+  - Ésa ancestor of Mes Buachalla and so of Conaire Mór
 categories:
-  - None
-  - human king
-  - Irish heroine
-  - fairy king
-  - Fairy woman
-  - madwoman and later queen
+  - legendary ancestor
+  - god
+  - person
+  - tale
+  - place
 entities:
-  - Ésa(Irish heroine)
-  - Irish mythology(None)
-  - Étain(Fairy woman)
-  - Eochaid Airem(human king)
-  - Tara(None)
-  - Midir(fairy king)
-  - Otherworld(None)
-  - Mess Buachalla(madwoman and later queen)
+  - Esa(person)
+  - Etain(person)
+  - Eochaid Airem(person)
+  - Midir(person)
+  - Tara(place)
+  - Otherworld(place)
+  - Mess Buachalla(person)
+  - Eochaid Airem(legendary ancestor)
+  - Étaín(god)
+  - Mes Buachalla(person)
+  - Conaire Mór(legendary ancestor)
+  - Tochmarc Étaíne(tale)
+  - Togail Bruidne Da Derga(tale)
 tags:
-  - Ésa
-  - Irish mythology
-  - Étain
+  - Esa
+  - Etain
   - Eochaid Airem
-  - Tara
   - Midir
+  - Tara
   - Otherworld
   - Mess Buachalla
+  - Eochaid Airem
+  - Étaín
+  - Mes Buachalla
+  - Conaire Mór
+  - Tochmarc Étaíne
+  - Togail Bruidne Da Derga
 ---
 ``` tab [group1:Info]
 ::: magazinestyle
-Ésa, also spelled as Esa or Ess, was a heroine in Irish mythology who played a minor role. She was the daughter of Étain, a gorgeous fairy woman who became human, and Eochaid Airem, the human king of Tara. Étain was pregnant with Ésa when Midir, the fairy king and her first love, arrived from the Otherworld to take her back. Later, Eochaid ended up marrying his own daughter Ésa unknowingly as he was tricked into believing that she was Étain. The child of Eochaid and Ésa was the woman who became mad and eventually turned into a queen known as Mess Buachalla.
+Ésa is named in versions of the Tochmarc Étaíne and the Togail Bruidne Da Derga that fall outside the most widely known text. In those tellings she is a daughter of Eochaid Airem and Étaín. From her line comes Mes Buachalla, the foundling who becomes the mother of Conaire Mór. The spelling Ésa also appears as Esa, Ess, or Es across manuscripts.
 
 :::
 ```
 ``` tab [group1:Attributes]
-- **Ésa**: Irish heroine
-- **Étain**: Fairy woman reborn as a mortal
-- **Eochaid Airem**: human king of Tara
-- **Midir**: fairy king
-- **Otherworld**: None
-- **Mess Buachalla**: madwoman and later queen
+- **Esa**: a minor heroine of Ireland
+- **Etain**: mother of Esa
+- **Eochaid Airem**: father of Esa
+- **Midir**: came to reclaim Etain
+- **Eochaid Airem**: married his own daughter
+- **Mess Buachalla**: daughter of Eochaid and Esa
+- **Ésa**: daughter of Eochaid Airem and Étaín in variant tellings
+- **Ésa**: ancestor of Mes Buachalla and so of Conaire Mór
 ```
 ``` tab [group1:Entities]
-- **Ésa**: Irish heroine
-- **Irish mythology**: None
-- **Étain**: Fairy woman
-- **Eochaid Airem**: human king
-- **Tara**: None
-- **Midir**: fairy king
-- **Otherworld**: None
-- **Mess Buachalla**: madwoman and later queen
+- **Esa**: person
+- **Etain**: person
+- **Eochaid Airem**: person
+- **Midir**: person
+- **Tara**: place
+- **Otherworld**: place
+- **Mess Buachalla**: person
+- **Eochaid Airem**: legendary ancestor
+- **Étaín**: god
+- **Mes Buachalla**: person
+- **Conaire Mór**: legendary ancestor
+- **Tochmarc Étaíne**: tale
+- **Togail Bruidne Da Derga**: tale
 ```
 ``` tab [group1:Sources]
 - Gwynn, Edward. The Metrical Dindshenchas. Part II, Vol. IX. Royal Irish Academy, Todd Lecture Series. Dublin: Hodges, Figgis, and Co., Ltd., 1906–1924, 22.
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
+- MacKillop 2008, s.v. 'Ésa'
 ```

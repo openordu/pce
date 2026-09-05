@@ -1,0 +1,30 @@
+{
+  "name": "áenach",
+  "text": "áenach is a one-line variant spelling of aonach in MacKillop's Dictionary of Celtic Mythology. The dictionary treats the form as a typographical cross-reference to the parent article on aonach, with no independent mythography or narrative attached. The aonach page sets out the early Irish popular assembly, the place-names where the gatherings met (Tara, Tailtiu, Tlachtga, Uisnech), and the modern fair-ground uses (Millstreet, County Cork). MacKillop's áenach entry is a stub redirecting the reader to the full treatment.",
+  "entities": [
+    {"entity": "aonach", "type": "Concept"},
+    {"entity": "Tara", "type": "Place"},
+    {"entity": "Tailtiu", "type": "Place"},
+    {"entity": "Tlachtga", "type": "Place"},
+    {"entity": "Uisnech", "type": "Place"}
+  ],
+  "attributes": [
+    {"entity": "áenach", "attribute": "variant spelling of aonach in MacKillop's 2008 Dictionary"},
+    {"entity": "áenach", "attribute": "one-line cross-reference to the parent aonach article"},
+    {"entity": "áenach", "attribute": "no independent narrative or place-list in the dictionary"},
+    {"entity": "áenach", "attribute": "treated as a typographical redirect"}
+  ],
+  "sources": ["MacKillop 2008, s.v. 'áenach'"],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "áenach is a one-line variant spelling of aonach recorded by MacKillop in 2008.",
+    "key_results": [
+      "variant spelling of aonach",
+      "one-line cross-reference to the parent aonach article",
+      "no independent narrative in the dictionary"
+    ],
+    "evidence": "MacKillop 2008, s.v. 'áenach'."
+  }
+}

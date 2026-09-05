@@ -1,0 +1,35 @@
+{
+  "name": "Étaín Fholtfind",
+  "text": "Étaín Fholtfind, whose name means she of the fair hair in Irish, is a beautiful maiden named in two rival genealogies inside MacKillop's Dictionary. One genealogy calls her the daughter of Étar and places her living in the fairy residence on the hill of Howth. The other genealogy names her as the daughter of Gebann, the chief druid of Manannán mac Lir, and gives her brother Clidna. The two accounts cannot be reconciled, and MacKillop records both without choosing between them. The figure occupies roughly six lines of the 2008 Oxford entry and has no independent narrative beyond these rival birth-tales.",
+  "entities": [
+    {"entity": "Étaín Fholtfind", "type": "Person"},
+    {"entity": "Étar", "type": "Person"},
+    {"entity": "Gebann", "type": "Person"},
+    {"entity": "Manannán mac Lir", "type": "Deity"},
+    {"entity": "Clidna", "type": "Person"},
+    {"entity": "Howth", "type": "Place"}
+  ],
+  "attributes": [
+    {"entity": "Étaín Fholtfind", "attribute": "name means she of the fair hair in Irish"},
+    {"entity": "Étaín Fholtfind", "attribute": "identified in one genealogy as the daughter of Étar, living in the fairy residence of Howth"},
+    {"entity": "Étaín Fholtfind", "attribute": "identified in another genealogy as the daughter of Gebann, chief druid of Manannán mac Lir"},
+    {"entity": "Étaín Fholtfind", "attribute": "sister of Clidna in the Manannán mac Lir genealogy"},
+    {"entity": "Étaín Fholtfind", "attribute": "the two rival genealogies cannot be reconciled and MacKillop records both"},
+    {"entity": "Étaín Fholtfind", "attribute": "occupies roughly six lines of the 2008 Oxford entry"}
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Étaín Fholtfind'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Étaín Fholtfind is a beautiful maiden whose name means she of the fair hair and whose parentage is given in two rival genealogies.",
+    "key_results": [
+      "daughter of Étar in one genealogy, with residence on Howth",
+      "daughter of Gebann, sister of Clidna, in the Manannán mac Lir genealogy",
+      "the rival accounts cannot be reconciled"
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Étaín Fholtfind'."
+  }
+}

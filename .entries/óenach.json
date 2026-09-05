@@ -1,0 +1,33 @@
+{
+  "name": "óenach",
+  "text": "óenach, in MacKillop's Dictionary of Celtic Mythology, is the Old Irish word commonly translated as 'popular assembly' or 'fair'. MacKillop records the form as a short entry that points the reader toward aonach, the modern Irish spelling, where the full treatment of the assemblies sits. The 2008 dictionary lists widely reported early-Ireland instances at Tara, Tailtiu, Tlachtga, and Uisnech, with athletic contests and other competitive gatherings. The modern Irish word aonach covers the surviving fair tradition, with four annual openings in the calendar year and Millstreet in County Cork as one named example. MacKillop treats óenach as the philological headword for the assembly tradition that survives in the modern aonach page.",
+  "entities": [
+    {"entity": "aonach", "type": "Concept"},
+    {"entity": "Tara", "type": "Place"},
+    {"entity": "Tailtiu", "type": "Place"},
+    {"entity": "Tlachtga", "type": "Place"},
+    {"entity": "Uisnech", "type": "Place"}
+  ],
+  "attributes": [
+    {"entity": "óenach", "attribute": "Old Irish word for popular assembly or fair in MacKillop's 2008 Dictionary"},
+    {"entity": "óenach", "attribute": "modern form aonach"},
+    {"entity": "óenach", "attribute": "widely reported early-Ireland instances at Tara, Tailtiu, Tlachtga, Uisnech"},
+    {"entity": "óenach", "attribute": "athletic contests and other competitive gatherings held at those sites"},
+    {"entity": "óenach", "attribute": "modern aonach assemblies took place on the first days of March, July, September, December"},
+    {"entity": "óenach", "attribute": "Millstreet in County Cork named as a modern fair-ground"}
+  ],
+  "sources": ["MacKillop 2008, s.v. 'óenach'"],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "óenach is the Old Irish word for popular assembly recorded by MacKillop in 2008, modernized as aonach.",
+    "key_results": [
+      "Old Irish word for popular assembly or fair",
+      "modern form aonach",
+      "widely reported early-Ireland instances at Tara, Tailtiu, Tlachtga, Uisnech",
+      "modern aonach covers the surviving fair tradition with annual openings in the calendar year"
+    ],
+    "evidence": "MacKillop 2008, s.v. 'óenach'."
+  }
+}
