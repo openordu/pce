@@ -20,6 +20,30 @@
     {
       "entity": "ollam",
       "attribute": "also recites 100 lesser tales"
+    },
+    {
+      "entity": "Ollam Fodla",
+      "attribute": "legendary king of Tara"
+    },
+    {
+      "entity": "Ollam Fodla",
+      "attribute": "held an oenach fair every three years at Samain"
+    },
+    {
+      "entity": "Ollam Fodla",
+      "attribute": "tenth ard ri in line from Éremón"
+    },
+    {
+      "entity": "Ollam Fodla",
+      "attribute": "esteemed for poetry and wisdom"
+    },
+    {
+      "entity": "Ollam Fodla",
+      "attribute": "credited with drawing up an early code of laws"
+    },
+    {
+      "entity": "Ollam Fodla",
+      "attribute": "credited with dividing the country into five parts"
     }
   ],
   "entities": [
@@ -42,25 +66,60 @@
     {
       "entity": "bardic order",
       "type": "concept"
+    },
+    {
+      "entity": "Ollam Fodla",
+      "type": "being"
+    },
+    {
+      "entity": "Ollamh Fodhla",
+      "type": "being"
+    },
+    {
+      "entity": "Tara",
+      "type": "place"
+    },
+    {
+      "entity": "Samain",
+      "type": "concept"
+    },
+    {
+      "entity": "oenach",
+      "type": "concept"
+    },
+    {
+      "entity": "ard ri",
+      "type": "concept"
+    },
+    {
+      "entity": "high-kingship",
+      "type": "concept"
+    },
+    {
+      "entity": "Éremón",
+      "type": "being"
     }
   ],
   "sources": [
-    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.",
+    "MacKillop 2008, s.v. 'ollam'"
   ],
   "image": [
     "https://upload.wikimedia.org/wikipedia/commons/6/6d/Alexander_III_and_Ollamh_R%C3%ADgh.JPG"
   ],
   "cyphertext": "EkGjdWZqB3AHgLFlc2MUol-HX2dhscV-YXSS1aBjaGsqplEBLURRV-iJgbw7CZVtkbA8yn6yvUYqgPT6OQnsvIVDkPRd-noLKFjRm0M5oNXgQ7XHyc6AhJD4YvQpvWETr1jjEf8wJTCg7vQ7AXl-UqGFem4TvSujO6cHOrzCBIFiKG_ZW97Ik4Lw8mzI4qEWGkzAm8NtAYkoz8YZCxQ-KsQCz9jbjszUOzE3sOQYlpGrRox46XP0KKKk4iR0lYOO9zL0G5ZGvhKA4qMQAj57lXnOLn2qDlY1AtqeK5IK3oiFVA==",
   "salt": "2_Feu3WpRjaWTEHfacfJyQ==",
-  "text": "The ollam was the top rank in the Irish bardic order. Irish custom set seven levels for the Fili, the class of poets. The ollam stood at the highest step. Someone of this rank had to give all 250 chief stories of the country. The task also covered 100 of the lesser tales.",
+  "text": "The ollam was the highest rank among the seven levels of the Fili. The Fili was the Irish bardic order. The title also appears as ollamh and ollave. Someone at this rank had to recite all 250 chief tales. The bard also had to recite 100 of the lesser ones. The same word ollam appears in later legendary kingship. Ollam Fodla, also called Ollamh Fodhla, was a fabled king. He ruled at Tara. He is said to have set up the fair held every three years at Samain. Old Irish names this fair an oenach. He stood tenth in the line of ard ri. Ard ri means the high-kingship. The line was counted from Éremón. His renown rested on poetry and wisdom. He is also credited with drawing up an early code of laws. He shares the honor of dividing the country into five parts. Several other figures share that same credit. The bardic ollam and the legendary king Ollam Fodla thus share a single title across very different roles.",
   "okr": {
-    "objective": "Define the ollam as the highest Irish bardic rank among the seven levels of Fili.",
+    "objective": "Define the ollam as the highest rank among the seven Fili grades and link the same title to the legendary king Ollam Fodla of Tara.",
     "key_results": [
-      "The ollam ranks above the other six bard levels.",
-      "The ollam must recite all 250 chief tales of the country.",
-      "The ollam also recites 100 lesser tales.",
-      "The title was also spelled ollamh or ollave."
+      "The ollam was the highest of the seven Fili grades in the bardic order.",
+      "An ollam recited all 250 chief tales of the country and 100 lesser tales.",
+      "The title also appears in the variant forms ollamh and ollave.",
+      "Ollam Fodla was a legendary king of Tara credited with founding a triennial oenach at Samain.",
+      "Ollam Fodla stood tenth in the ard ri line from Éremón and won renown for poetry and wisdom.",
+      "Ollam Fodla is also credited with drawing up an early code of laws and with the fivefold division of the country."
     ],
-    "evidence": "Monaghan, Encyclopedia of Celtic Mythology and Folklore"
+    "evidence": "MacKillop 2008, s.v. 'ollam'; Monaghan, Encyclopedia of Celtic Mythology and Folklore."
   }
 }

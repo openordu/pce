@@ -32,6 +32,18 @@
     {
       "entity": "Medionemeton",
       "attribute": "settlement named for nemeton"
+    },
+    {
+      "entity": "nemeton",
+      "attribute": "Gaulish word for sacred grove or sanctuary"
+    },
+    {
+      "entity": "Nemeton",
+      "attribute": "medieval sacred forest near Locronan"
+    },
+    {
+      "entity": "Nemeton",
+      "attribute": "later site of a Benedictine priory in south-western Brittany"
     }
   ],
   "entities": [
@@ -82,27 +94,41 @@
     {
       "entity": "Scotland",
       "type": "place"
+    },
+    {
+      "entity": "Locronan",
+      "type": "place"
+    },
+    {
+      "entity": "Brittany",
+      "type": "place"
+    },
+    {
+      "entity": "Benedictine priory",
+      "type": "artifact"
     }
   ],
   "sources": [
     "Cunliffe, Barry. The Ancient Celts. (Oxford: Oxford University Press, 1997), 198.",
     "Lonigan, Paul R. The Druids: Priests of the Ancient Celts. Contributions to the Study of Religion, No. 45. Westport, Conn.: Greenwood Press, 1996, 3.",
-    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.",
+    "MacKillop 2008, s.v. 'nemeton'"
   ],
   "image": [
     "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Nemeton2escorial.jpg/1200px-Nemeton2escorial.jpg"
   ],
   "cyphertext": "TOSPM-z9ni7uwUrUQuZMsWorCLVDw8XtcuJGmGVJWm-LgzXGtjKh6FkoxVUu-P7c6de4w5vBDQWp3ikQ2TFZcvNrsBpl2gwYJaPMUCkE6CbQyJYWmLD4PDL6EoiFFsZu5bltCRSimGRkqi3AqSOEIcXzysPfcHYNcOIGjj05Rp5F7Fkg9ySQNnNu_5mHmC7COJADKptRMVdiY9g0API7GtkqvQdBEselJRqXYly7h2aXF5vN5wTzupMslIiRWa7iPeJU12Bx9iJe_ZC-Ikh4ZZGcWaDZJqS1cxQ1EeAD-Eby-eYzartDxyLyC4xydoqw_oTHd6p5nkn6o2rEPCBzNrwp_U0xS-aTqDwK6XVgyy6nVSVp3UhFiiNzRdfTqDalgi3v-nkv2xgcdUXAvXQ-DBB4nNwi_2sW1ZvE1YpB5MCUvi04EbTM7rxjP5tAEiwX8H69A_r6jt3Ly7kSDdap9JX2Damy5agJKwDn6GVce-sBqgUqLhHAOVOky5qmnQayvOceuWOtnIKmXUgSEvG5qKgiMeskGotJtCQ2HaK0K29A5beWzUy7oFyluqNtcUcHH-_RXivZf1ZbEox2knpWe4rn1LO8LHI1MdSwymuXVQxITP5cFMKr6ap3j0aUtLgPBV9kC2lFfkB5sSKeCl7kkZMduo89a0aPwSdbL-dqFPcrsNntsrOSnGlv-5DmuIM4UbXNzf3CV356qyxi6qV0-LkPsOpUF_f4kglBGPBT-HPNqW2ZEa7fcB87XDziz4ycRqqEjQn5FRs4ghlktc_p-QIq4Uw7_VTsuzZRKX7ZUiR5kXx8WQgalEe3Ch3xGmcpBb8zvumAHhvijU-wVpdbyN1r-QgQo9yWrwVTXsCZU2xRVli55Le6yGBcTFBZn7V4LkrAXd-QG3oS7IJ-Va1-zXbvI5RaT32tYOB0-MVYn3g3OixcNjzTU94FnaNxbcJB0ni1wjBAeq_RpOhKNvXCef_CD3n2dU-wKNVet_9-OdLnaIScROIi0N5yKPSx2nkHvDLpUUX_Qqaw1eDdiJGJks67HJRSp3Mcj9xJxRHhFBxX9TtkbR-KncazKBQpjqXe_y0SrSDSxMbfEaC1WN0yPinegQUt1zwJuB3Kt-JhwB7Fnn9jEXriJSufB015PHeEvjuRqsiZqvojYDp8ChEAWKRPiuPLLsS62KpFyqvPteG_5MVgOb5yiSr5z2yRw-in_o3y5QVvPSZbfFZJUW-c8y-1livA3_KkJdhI7CesvdreriY542SdwQsuvEKG5oAq4Eyf0OWUP3VIgF-guebuf1OGlr_a1I5ltOri30QUDEcuOwuEVdhDVy69tgMNJ8eWwI-w155FjI8jRGjEfvrPCzRcXhA3Zo2wHFFUy1U73C6yJ6dC92KiimeG1bDUwZomesUhLksMEeQtz0wWTeQiYAhidRQmKa8bi-Z67oPKMUZnmkn38gRNpgL_I9ZVr75sV-E6RKgcRZ5pex73zuTGgm5WAak2oah8jnFx4ux9yvdvv6TPy3rfzz0uJuK99FeAR02K3fHBai7K8lITLd8gVK_f5AIhYm52nvWrp2AKAi-rS-5cG6iktBPa1ifYMKvx8jcO3E_8uChQyhzIHvm07whmDFhO5Jz_u4NA-IzBetGnDK0C0BwB5MS5wmZq2q3TxA_hoHhAzmMe0WbCXIh6c6fqEKFJMYYW4JdjEYhA3J3BjxJUrib3oCFh1dZt4sGguqnnKkZO15rG0JZSJLZaWVipaWnVXupM-iS95T_pP_2fOn_E5ml2HZy6y7tp-qHH1mryq-e3wHM41JKzpqMUT2xp-z-Q7OXBvzd2zq7lTs85vQyYGCsg35eNyUlUDBBgBJaKDnpxyUEcuR3AGxtnre_6-FBSf-47Kf55VvW_iIDP_lyGwb49QIyMYsdNGFoTg0imRS-qD4M6psPi2LWh_x6yZqzmIKy1G0WyMn97Oqh5isH2o4okhPmEnWP6jwMYtOkaU4QWryx3jn0uEUrLRZfM-3jktj0p1QmlXy_2X9vBL-9B4MHuoBhoFvGwG0dcBaEgIsjH8SZr5NBbfeOsdUqqSyLKMZJ5EU0Cqh-Ty5M0mEGvxtF9wzrz07kTIzBYeRN_p1fHKOC3cDwdhtiiSxTNT7kNII1MWm2nlHmvk_a8Ojm9e5dbaJN4GPtZFntDtG8uTXVwUXKsRePT9KN74N7nfZNqHd_3AQV56oewUiNWZ7hIsSZT_B3blugLsniY_WR_cazShj2f2T4z0Dq7OQ77w8PWpj3_2fzqpSHQv0o9GYUaaFiliLq9vRsPdMBWqdOC8V2I-mQ9RUsGHm-CZ8yjN6Rj3E6mPeYFCZnM6rNlDqHb2IgrV6K3vFsXGgJPoGpJA_R_paJ6RHX1nYVuayWPJYiGYyI6DvVVHtiYSh5MGP1GXV9TbG3lsgXfNm4GPoPh8rGxIyP7onsX220EokcTXBNTlDfsMQaVtE_HPUHban2k6sUFNh-Mv0_I_1tnkvI75OhZpeYsa_Z-l8iOwBMIs0upjIoSOi8-sg_JlohYPk-Nydc4VHTkCbiPmPbm0Mz87dzrt_ZiNnsqp6Jvlu-1JdMIRVwNuesEi6EVfuwmkeCohh2VMbwrQ9e0U0dND7jIjGN300gCu6gFV4ynwoo=",
   "salt": "9bxu7ExBSYnKZ3etJ_IHVg==",
-  "text": "The nemeton was a sacred forest clearing where the Celts held outdoor rites. Celtic worship took place mostly outside, in groves and open ground, rather than inside a building. Trees carried deep religious meaning in Celtic life, never more than in these clearings. The name links to older European roots: Greek nemos means glade, and Latin nemus means sacred. It may also grow from an old Irish root, nem, whose meaning covered heaven and all things holy. Strabo wrote of the oak groves where the Galatian clans gathered to worship. The poet Lucan gave a dark, shadowed image of such groves, where old god figures sat as rough blocks of carved wood. Fire and earth-motion might strike a sacred grove, yet the trees stayed whole. After Rome moved in, the word came to name stone temples and whole towns such as Medionemeton in Scotland.",
+  "text": "The nemeton was a sacred grove or sanctuary. The term comes from Gaulish and ties to outdoor rites of the Celts. Worship took place outside rather than inside buildings. Trees carried deep religious weight in such clearings. The word links to old European roots. Greek nemos names a glade. Latin nemus names what is sacred. An older Irish root nem covers heaven and holy things. Greek and Roman writers set the image. Strabo recorded oak groves where Galatian clans gathered. The poet Lucan gave a darker picture, with rough wooden figures seated in deep shade. Fire or earth-shaking might touch a nemeton. Yet the trees stayed whole. After Roman rule spread, the same word named stone shrines. It also named whole towns. Medionemeton in what is now Scotland took the name that way. A medieval forest called Nemeton sat near Locronan. Locronan lies in south-western Brittany. A Benedictine priory later rose within those bounds.",
   "okr": {
-    "objective": "Capture the nemeton as a sacred Celtic forest clearing and trace how the word and its sites moved from grove to stone under Roman rule.",
+    "objective": "Define the nemeton as a Gaulish word for a sacred grove and trace how it named Celtic ritual sites, Roman-era stone shrines, and later Christian foundations.",
     "key_results": [
-      "The nemeton was a forest clearing used for outdoor Celtic rites.",
-      "Greek and Latin related terms signified glade and the sacred for the nemeton.",
-      "Strabo described the oak groves where the Galatian people gathered.",
-      "With Rome, the term came to name stone temples."
+      "The nemeton was a Gaulish term for a sacred grove or sanctuary.",
+      "Greek nemos, Latin nemus, and Old Irish nem mark the wider Indo-European roots.",
+      "Strabo and Lucan described the oak groves used by Galatian and other Celtic worshippers.",
+      "Medionemeton in Scotland shows the term naming a Roman-era settlement.",
+      "A medieval sacred forest called Nemeton lay near Locronan in south-western Brittany and hosted a Benedictine priory."
     ],
-    "evidence": "Monaghan, Encyclopedia of Celtic Mythology and Folklore"
+    "evidence": "MacKillop 2008, s.v. 'nemeton'; Monaghan, Encyclopedia of Celtic Mythology and Folklore."
   }
 }

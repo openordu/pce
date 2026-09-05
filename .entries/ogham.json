@@ -20,6 +20,70 @@
     {
       "entity": "Munster",
       "attribute": "Irish province"
+    },
+    {
+      "entity": "ogham",
+      "attribute": "earliest form of writing in Irish"
+    },
+    {
+      "entity": "ogham",
+      "attribute": "adapts Latin alphabet to twenty straight-line letters"
+    },
+    {
+      "entity": "ogham",
+      "attribute": "letters divided into four groups of five sounds"
+    },
+    {
+      "entity": "ogham",
+      "attribute": "twenty-first upturned arrow sign used for p in British inscriptions"
+    },
+    {
+      "entity": "ogham",
+      "attribute": "foundation line called drum"
+    },
+    {
+      "entity": "ogham",
+      "attribute": "each letter named after a tree (ailm for pine, beithe for birch)"
+    },
+    {
+      "entity": "ogham",
+      "attribute": "letters for q, v, z support an Irish-through-Latin origin"
+    },
+    {
+      "entity": "ogham",
+      "attribute": "displaces runic, Chalcidic Greek, and northern Etruscan origin theories"
+    },
+    {
+      "entity": "ogham inscriptions",
+      "attribute": "date chiefly 4th-8th centuries"
+    },
+    {
+      "entity": "ogham inscriptions",
+      "attribute": "1945 survey found 121 in Kerry and 81 in County Cork"
+    },
+    {
+      "entity": "ogham inscriptions",
+      "attribute": "around thirty in Scotland, mainly in Pictish areas"
+    },
+    {
+      "entity": "ogham inscriptions",
+      "attribute": "over forty in Wales"
+    },
+    {
+      "entity": "ogham inscriptions",
+      "attribute": "five in Cornwall"
+    },
+    {
+      "entity": "ogham",
+      "attribute": "also used to write Pictish"
+    },
+    {
+      "entity": "South Wales",
+      "attribute": "received settlers from southern Ireland including the Déisi"
+    },
+    {
+      "entity": "Welsh ogham stones",
+      "attribute": "sometimes paired with Brythonic-Latin inscriptions"
     }
   ],
   "entities": [
@@ -50,25 +114,88 @@
     {
       "entity": "Wales",
       "type": "place"
+    },
+    {
+      "entity": "drum",
+      "type": "word"
+    },
+    {
+      "entity": "ailm",
+      "type": "word"
+    },
+    {
+      "entity": "beithe",
+      "type": "word"
+    },
+    {
+      "entity": "Kerry",
+      "type": "place"
+    },
+    {
+      "entity": "County Cork",
+      "type": "place"
+    },
+    {
+      "entity": "Isle of Man",
+      "type": "place"
+    },
+    {
+      "entity": "Cornwall",
+      "type": "place"
+    },
+    {
+      "entity": "Pictish areas",
+      "type": "place"
+    },
+    {
+      "entity": "Déisi",
+      "type": "group"
+    },
+    {
+      "entity": "Chalcidic Greek",
+      "type": "concept"
+    },
+    {
+      "entity": "northern Etruscan",
+      "type": "concept"
+    },
+    {
+      "entity": "runic alphabet",
+      "type": "concept"
+    },
+    {
+      "entity": "Brythonic-Latin",
+      "type": "concept"
+    },
+    {
+      "entity": "Pictish",
+      "type": "concept"
     }
   ],
   "sources": [
-    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.",
+    "MacKillop 2008, s.v. 'ogham'"
   ],
   "image": [
     "https://upload.wikimedia.org/wikipedia/commons/9/92/Ogham_Stone_Rathass_Church_Tralee_Kerry.jpg"
   ],
   "cyphertext": "rzmSp0zksMs76rNeZpb5T741rtvghRRfs21dXsCgwCbo-VfQFeiCckijgnAXSq0pm4ba1jGebtGlIx7gzMHeWCo_b07dm_S3WqLTCD1limlJacGlTO5AINGnYvRHo5YM5X0b_PwVKi4EROkGwkwp_4qB5chhPnqKOl8o6V2ZFMenpNLNB9HXVAfdwiB0MfaxA3A9UrfDU0q-Wo_b4nAJuHUjqxQfCtyv-2AVX98VrR7nFB6ydPQ_Yk8KyzG_Ml4AticQUFDTELNha6QwAUvqjKwwYu2YmX5Ph5Kkv5UUpcngIamZe9uwi40KHSjHw7k2RcXrKFrAMyHKOgq3MNsqx-y2U5-sPHDeGV-4QGanSH09EIC6bcM8PCIoEQBdVho5dMo2ziWeQF0SR4Wp5G7DiVIWyoQkdR8wxQ7TRfxrrkYo2FqBz3c1K2I5vBamB8gURSoP9iTfaWftsYG9FdzusZFswGyMkzOhgvQkz_GzUr2dJR6KoaiUDBmjr_iJ4itcvqfU8GPVF54JY3Th8dGcPExMdAggHhkd8BrzklNpK1aZQ3e7mMVJ9ZoK8g1V_6SShOHkh2680bnXfkp6Q0jG_KUq4mc-vh6J0rIq4ZBRP7AiL0zASvrIUQmYdFs04wu53A-_2uCBg05ojfiW4pFHV-3uaMDd4ViNPPQLlo2AreVgn0ZSVAtYpxx3WE1opkOT5usApw-tRlHCKTCSd-_zjuNpjeIVNTUr7f6RiR5f_V3Gqkv1o8CTcOai3d9Y0Zx4R-NiGqbn8CgIneb21EU1IYVKt6mdiOh-HNWMSHkLF1ioTJHh7bQK_MWK9hszsw87lOZ8VsrvkjGiH-XpKeD1XnD8SmD9w-5eiWCQeTFVqs7DL1bzu_DNsca8fbF4_edF4sBL5NM7XCkn-p8PTNEtxiLId7YEiPpk6PiLtSyWPUHOdh57v0FIYlFYwMcJqnyrkndkMeXlbZLEwpqrFd-CRfop9vA8JVybhMom0u3ObHpEsQ7GvNQmJwqRTipFCzpVeXvCmsMH7YgaY-hxx5cXUQMjM8I2PYrvVfXCbLXjgs3klYcUNAZg-dGoJFImUdgAzUs_gzC7TJaf1vStElSxCPTxqiv9H2u74oko4UNvJ7ifnhmlauiLv6E_rT4pmtahRrEDl9cIo5aM_XWa9knKEsDFcz9y9wa748zk4upNAEGQ7qPt5QEsyrD7o4uxliTukZeX-h9SU86MacPCtzR86EFst3Lm-YGNjBkMj7vmE5kfBrtKn2mO2DdMBBoFKfxGpZde3jGRd1j5Zkqa94cwFl2wI7StfH5HrjZbcEx0I-diJ9X2J5J3esdqATt4d5LDugSTI6dnxQSjQ3wZ-gkIPaa0RUFOn2M2f-1jxuLOd1apmD72uli_kMBBOY4iTct8VcqTEDitXR53p1uIVcyIA9A0dMbFlRkyytE5m66NxqLPE8PZwMLYVTmnsZJ4VH1uzS-v5ek2zgZuZCgNbq7jizKJJrA-LmLnelgqPeqMvWtoAcRlwyCCoMvIxNz4Z_yfSNyklmzbfVSGcA3TVKgDWq_MkzbFCgKtoCi7-oY4Gy08ZSVpHZKe6xnnd_OIO9q97HPa-HCAUI8tv8EyfR3-c6K9UhyW55n7Ogh-13wGH71ctu4VGLkzWZmKyTfHvO1QaHw6wu9DGD4aA56nUYBt731br7efT90Pn47u5lRrD8sBr8MtFDgEmc3fsUVmifutK76r2ttwgz3hjo6G-f7ixrncDyujN0Tlm6WEP1ZZUW1lo2koV8Ve5r5ZZu89zzR8sDuQsGylua-ciqgQmbywZGn92qvjuri8woTN-Pf2ebhMWg_ZmisNw4Eu26Y_f5ePxa3gAUND58n7je-OzGWvZtJTCvfApPU24Snus2CZuhGTAY8x5IkITWBNApPKH9lU3UHE3un5370aRfbUcZ07kkgYvnjOnK7Q1wNCDSeQGlZwFdKOyeiYJCyk5GYUCrC6g9bMFteLE3WSgxuaZnkHjTYwm3-EK5WiHLzKpOBG0qOPSTdqcxbGh7ZtKqq40WqFm0buUtTj6NI4INsMhR5R-b50IpWBE5ia9Xhgr7VSli7JRYJ3EJXiUZEWKxW9RkCfI8spqM-aOFt1Fc05-927QCuTXENWai-Aq1S3sZ8sTV1pC_A9H2JZraBV5bSAt8iZaRW7SDCgvGeV6LB3xjq8f8fafPS9VUCWAC7gCaFoNCayYDwEhsoqJ6MX7pF9zmwWfQqoQcE2qXQKfJdhEDBIlRU23_uWDU64jGZzQK_iWOKVKlqi5CpTNa9r_hKwfCzPd5UlGjfYciOs6IdiOxH_JSAc5tB_MG2umeJvQt5vd_n_lJmd2IjVKPiGPjYBoIIczr9v6N7YWcQBe7qx2rChGAN91NN9MqbFkQYzG-sno3G9gOnf8KTpWsHkclpfNof-7rx_ro_JJJPvvreEKZIpxqG0wml8UKRf0aZwAnCN4SuW5dbsml2cVdyd_TfQhceAn5T-BMKg_I44kxWki_HTnOoLLUg21iU5xDctwOq-BTR_xK8tG2_Njc-beJtxqw3c4dSVAwhLAXRGWP-emiMUhY4vn8LM1-Fk_HKK4T6XvswubIrZPTaJbUTI1_1tMqpe6lmdNxmk93d92KBx7rrDGcTCx2WSTTemEtXScnsRXwpRpSIHY0KV3AzsvbIDTD1S5j8cm-sydMVyT92c1E2DdOoMRmibeZQ_gZR-zXg6v6uD1ZSj9gG69lOlm23Ze1PD2TOuZLG7m1x9x9el8g1ke-bfqkc30dpcEzfC4bcglGeZSA==",
   "salt": "tt-s1nlljrY6E2zpGBemJg==",
-  "text": "The ogham was a symbolic writing system used by the Celts. The Celts normally left religious lore and old stories to memory rather than to an alphabet. The Druids judged that sort of material too sacred for written notes. Ogham stood apart, drawn as straight lines cut across wood. Twenty marks shaped its script, though the true source of that design stays unclear. Fewer than 400 stone inscriptions survive, and most carry a single name. The stones gather in Munster, a province in southwest Ireland, with others in Wales and Britain.",
+  "text": "Ogham is the earliest Irish writing form. It adapts the Latin alphabet to twenty straight-line letters. Those letters are cut along the edge of a stone or wooden piece. The script divides into four sets of five sounds. A separate upturned-arrow sign serves for the consonant p in British examples. Notches and grooves are cut along either flank of a base line called the drum. Every letter takes a tree-name. Ailm for pine stands for the vowel a. Beithe for birch marks b. The presence of signs for q, v, and z, none of which Irish uses, points to a current view. The script carried Irish through the Latin alphabet. It did not grow from runic, Chalcidic Greek, or northern Etruscan sources. Inscriptions date chiefly from the fourth to the eighth century. They sit mostly on standing stones. Wood examples are known only by report. A 1945 survey counted 121 stones in Kerry and 81 in County Cork. Others lie across the island of Ireland and across Great Britain. The Isle of Man holds a few more. Five stand in Cornwall. Around thirty sit in Scotland, chiefly in Pictish areas. Over forty stand in Wales. South Wales took many settlers from southern Ireland, including the Déisi. Ogham also served Pictish. Welsh stones sometimes carry Irish ogham next to Brythonic-Latin lines. Druids treated sacred lore as too holy for written notes. They kept most teaching by memory. So few ogham stones survive and most record a single name. Surviving stones gather chiefly in Munster, with others in Wales and Britain.",
   "okr": {
-    "objective": "Describe ogham as the Celtic symbolic script preserved on stone, set apart because the Druids kept sacred lore in memory.",
+    "objective": "Define ogham as the earliest Irish script, an adaptation of the Latin alphabet in twenty straight-line letters, and locate its surviving stones across Ireland, Britain, and Wales.",
     "key_results": [
-      "Ogham is a symbolic script used by the Celts.",
-      "The Druids kept religious lore by memory rather than writing.",
-      "Fewer than 400 inscriptions in ogham survive.",
-      "Most ogham stones appear in Munster."
+      "Ogham adapts the Latin alphabet to twenty straight-line letters carved on the edge of a stone or wood.",
+      "A foundation line called the drum carries notches and grooves on either flank.",
+      "Each letter carries a tree-name such as ailm for pine and beithe for birch.",
+      "A twenty-first upturned arrow sign stands for p in British inscriptions.",
+      "Surviving ogham stones date chiefly from the fourth to the eighth century.",
+      "A 1945 survey counted 121 ogham stones in Kerry and 81 in County Cork.",
+      "Ogham stones also appear in the Isle of Man, five in Cornwall, around thirty in Scotland, and over forty in Wales.",
+      "Ogham was used for Pictish and appears beside Brythonic-Latin inscriptions in Wales.",
+      "Druids treated sacred lore as too holy to write, so most surviving stones carry only a single name.",
+      "Munster holds the greatest density of ogham stones within Ireland."
     ],
-    "evidence": "Monaghan, Encyclopedia of Celtic Mythology and Folklore"
+    "evidence": "MacKillop 2008, s.v. 'ogham'; Monaghan, Encyclopedia of Celtic Mythology and Folklore."
   }
 }

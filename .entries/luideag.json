@@ -4,6 +4,30 @@
   {
    "entity": "Luideag",
    "attribute": "a monstrous female lake spirit of Scottish lore"
+  },
+  {
+   "entity": "Luideag",
+   "attribute": "name is a Scottish Gaelic diminutive of luid, a word meaning rag or slovenly person"
+  },
+  {
+   "entity": "Luideag",
+   "attribute": "killing female demon of the Scottish Gaelic oral record"
+  },
+  {
+   "entity": "Luideag",
+   "attribute": "stands beside the athach as another fearful spirit"
+  },
+  {
+   "entity": "Luideag",
+   "attribute": "filthy in looks and wicked in will"
+  },
+  {
+   "entity": "Luideag",
+   "attribute": "troubled several small pools on the Isle of Skye, most often a Skye pool called Lochan of Black Trout"
+  },
+  {
+   "entity": "Luideag",
+   "attribute": "catalogued under folk motifs Ó11.3 and G346.2"
   }
  ],
  "entities": [
@@ -14,21 +38,36 @@
   {
    "entity": "Isle of Skye",
    "type": "Place"
+  },
+  {
+   "entity": "luid",
+   "type": "Concept"
+  },
+  {
+   "entity": "athach",
+   "type": "Being"
+  },
+  {
+   "entity": "Lochan of Black Trout",
+   "type": "Place"
   }
  ],
  "sources": [
-  "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+  "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.",
+  "MacKillop 2008, s.v. 'luideag'"
  ],
  "cyphertext": "I02-jQLAydwkweaRr61Pe5hgm8Nx_jUxHmm6G90tuZqYdKebQAnf2QVFn6K7C5ci_0EinmOICqHsN3p8PoIlm3ZUpARkcBPeL6Plznea4a1AmZZyk0Zm5KGytzr6NU9nkVhOR7-2MNruBMKoognxUFbq18IpgP7pbNp9MdpbC4_ZnCM4X2vjbs7ZPfpSI75kSwvWAXnQp4z-ibYvDS_usbpcJffaGlFEgtTeWQLKWnJBr3j0HQs=",
  "salt": "o5_-FUEJMWSfruHEzNYK-w==",
- "text": "The luideag is a female being of Scottish folklore. She haunted a lake on the Isle of Skye. She had a plain form and a quick temper. People kept away from the water because of her. She belongs to the larger body of Scottish water lore.",
+ "text": "The luideag is a female being of Scottish folklore. She haunted a lake on the Isle of Skye. She had a plain form and a quick temper. People kept away from the water because of her. She belongs to the larger body of Scottish water lore. The Scottish Gaelic name luideag comes as a diminutive of luid, a word for a rag or slovenly person. Folk tradition classes her as a killing female demon of the Scottish Gaelic oral record. She stands beside the athach as another fearful spirit of that lore. Her looks were filthy, and her will was wicked. Rather than one lake she troubled several small pools on the Isle of Skye. She showed up most often at a Skye pool called Lochan of Black Trout. Cataloguers mark her under motif numbers Ó11.3 and G346.2.",
  "okr": {
-  "objective": "Describe the luideag of Scottish water lore.",
+  "objective": "Describe the luideag of Scottish Gaelic water lore.",
   "key_results": [
-   "Name the luideag as a monstrous female lake spirit of Scotland",
-   "Put her home on the Isle of Skye",
-   "Note her great ugliness and short temper"
+   "Identify her as a monstrous female lake spirit of Scotland",
+   "Place her haunts on the Isle of Skye, especially the Lochan of the Black Trout",
+   "Note her filthy appearance and wicked will",
+   "Link her to the athach and to the Gaelic word luid",
+   "Record folk motifs Ó11.3 and G346.2"
   ],
-  "evidence": "Monaghan 2008, s.v. 'Luideag'."
+  "evidence": "MacKillop 2008, s.v. 'luideag'"
  }
 }

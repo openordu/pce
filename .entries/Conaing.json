@@ -1,10 +1,42 @@
 {
   "name": "Conaing",
-  "text": "Conaing is several figures of early Irish genealogy and of the island's civil and church history carried it. The word looks related to a Germanic royal title, Old English cyning, king. Some commentators have confused the name with that of Conand, the leader of the Fomorians, but the two are distinct. The name therefore sits at a crossroads of native genealogy and borrowed royal vocabulary.",
+  "text": "Conaing is several figures of early Irish genealogy and of the island's civil and church history carried it. The word looks related to a Germanic royal title, Old English cyning, king. Some commentators have confused the name with that of Conand, the leader of the Fomorians, but the two are distinct. The name therefore sits at a crossroads of native genealogy and borrowed royal vocabulary. A separate Breton tradition names the nain, a dreadful demon-like being of Breton folklore. Dark and threatening, the nain looks down at road-goers much as a stone gargoyle might. His hands carry the claws of a cat. His feet are the hooves of a satyr. Beneath his dark elf-locks his tiny red eyes burn like coals. He roams around old dolmens, above all those of Morbihan, said to be the work of a vanished race. He also crosses paths with travellers on empty moors and quiet roads. His preferred day is Wednesday, and his chief night-feast falls on the opening Wednesday of May. Folk belief held that nains sprang from a cabalistic alphabet cut into several megalithic stones. In the same way as the gorics, nains stand as keepers of buried treasure.",
   "entities": [
     {
       "entity": "Conaing",
       "type": "mythological figure"
+    },
+    {
+      "entity": "nain",
+      "type": "Being"
+    },
+    {
+      "entity": "Conand",
+      "type": "Being"
+    },
+    {
+      "entity": "Fomorians",
+      "type": "Tribe"
+    },
+    {
+      "entity": "Morbihan",
+      "type": "Place"
+    },
+    {
+      "entity": "dolmen",
+      "type": "Thing"
+    },
+    {
+      "entity": "gorics",
+      "type": "Being"
+    },
+    {
+      "entity": "cabalistic alphabet",
+      "type": "Concept"
+    },
+    {
+      "entity": "cyning",
+      "type": "Concept"
     }
   ],
   "attributes": [
@@ -19,6 +51,38 @@
     {
       "entity": "Conaing",
       "attribute": "compared with Old English cyning, king"
+    },
+    {
+      "entity": "Conaing",
+      "attribute": "name related to Old English cyning, the Germanic royal title for king"
+    },
+    {
+      "entity": "Conand",
+      "attribute": "leader of the Fomorians, distinct from Conaing"
+    },
+    {
+      "entity": "nain",
+      "attribute": "dreadful demon-like being of Breton folklore"
+    },
+    {
+      "entity": "nain",
+      "attribute": "dark and threatening, with cat-claws on his hands, satyr-like hooves, and tiny red eyes burning like coals under elf-locks"
+    },
+    {
+      "entity": "nain",
+      "attribute": "roams around old dolmens, above all those of Morbihan, said to be the work of a vanished race"
+    },
+    {
+      "entity": "nain",
+      "attribute": "preferred day is Wednesday; his chief night-feast falls on the opening Wednesday of May"
+    },
+    {
+      "entity": "nain",
+      "attribute": "folk belief held that nains sprang from a cabalistic alphabet cut into several megalithic stones"
+    },
+    {
+      "entity": "nain",
+      "attribute": "keepers of buried treasure, like the gorics"
     }
   ],
   "sources": [
@@ -28,12 +92,16 @@
   "cyphertext": "",
   "salt": "",
   "okr": {
-    "objective": "Conaing is an early Irish name carried by genealogical and historical figures.",
+    "objective": "Cover Conaing as a native Irish name and pair it with the Breton nain tradition.",
     "key_results": [
-      "Several genealogical and historical figures bore the name Conaing.",
-      "The name invites comparison with Old English cyning, king.",
-      "Commentators sometimes mistake it for the Fomorian Conand."
+      "Record Conaing as a name borne by several early Irish genealogical and historical figures",
+      "Link the name to Old English cyning, king",
+      "Mark the confusion with the Fomorian leader Conand",
+      "Describe the nain as a Breton demon-like being with claws, hooves, and red eyes",
+      "Place nain haunts in Morbihan dolmens and on empty moors and quiet roads",
+      "Note the Wednesday festival on the opening Wednesday of May",
+      "Link nain to the cabalistic alphabet and to gorics as treasure keepers"
     ],
-    "evidence": "MacKillop, Dictionary of Celtic Mythology, 2008"
+    "evidence": "MacKillop 2008, s.v. 'nain'"
   }
 }
