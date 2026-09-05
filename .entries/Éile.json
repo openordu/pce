@@ -1,0 +1,38 @@
+{
+  "name": "Éile",
+  "text": "Éile is the modern Irish spelling of Éle, daughter of Eochaid Feidlech and sister of the famous Medb. MacKillop reads the form as the contemporary rendering of the older name. The principal record sits under Éle.",
+  "entities": [
+    {
+      "entity": "Éile",
+      "type": "Person"
+    },
+    {
+      "entity": "Éle",
+      "type": "Person"
+    },
+    {
+      "entity": "Modern Irish",
+      "type": "Language"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Éile",
+      "attribute": "Modern Irish spelling of Éle; pointer to Éle headword"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Éile'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Éile is a MacKillop signpost to Éle.",
+    "key_results": [
+      "Cites Éle as the canonical headword.",
+      "Modern Irish form of the Connacht royal figure."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Éile'."
+  }
+}

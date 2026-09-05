@@ -1,0 +1,42 @@
+{
+  "name": "Éccell",
+  "text": "Éccell, concealed or unforeseen peril or trap in Irish, is the brother of the terrifying Ingcél Cáech in the early saga Togail Bruidne Dá Derga. He is described as the grandson of Conmac, a monarch of the Britons in the same narrative. MacKillop reads the form as the named sibling in the Ingcél family. The principal record sits under trickery and the wider saga tradition.",
+  "entities": [
+    {
+      "entity": "Éccell",
+      "type": "Person"
+    },
+    {
+      "entity": "Ingcél Cáech",
+      "type": "Person"
+    },
+    {
+      "entity": "Conmac",
+      "type": "Person"
+    },
+    {
+      "entity": "Togail Bruidne Dá Derga",
+      "type": "Text"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Éccell",
+      "attribute": "Brother of Ingcél Cáech; grandson of Conmac"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Éccell'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Éccell is a MacKillop headword for Ingcél's brother.",
+    "key_results": [
+      "Sibling of the terrifying Ingcél Cáech.",
+      "Attested in Togail Bruidne Dá Derga."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Éccell'."
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "name": "Éllim mac Conrach",
+  "text": "Éllim mac Conrach is a shadowy early ruler of the Dál nAraide people of Ulster who, alongside three confederates, killed King Fiachu and seized the high throne of Tara. The killing drew divine punishment in the form of a famine across the island. Éllim held the kingship for a score of years until Fiachu's offspring Tuathal Techtmar avenged the murder and reclaimed his patrimony. Tuathal Techtmar would later rank among the greatest of the pre-Patrician high kings of Ireland.",
+  "entities": [
+    {
+      "entity": "Éllim mac Conrach",
+      "type": "Person"
+    },
+    {
+      "entity": "Dál nAraide",
+      "type": "Tribe"
+    },
+    {
+      "entity": "Fiachu",
+      "type": "Person"
+    },
+    {
+      "entity": "Tara",
+      "type": "Place"
+    },
+    {
+      "entity": "Tuathal Techtmar",
+      "type": "Person"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Éllim mac Conrach",
+      "attribute": "Usurper of the Tara throne; reigned 20 years before Tuathal's revenge"
+    },
+    {
+      "entity": "Éllim mac Conrach",
+      "attribute": "King of the Dál nAraide"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Éllim mac Conrach'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Éllim mac Conrach is the MacKillop headword for the usurper king.",
+    "key_results": [
+      "Murdered King Fiachu with three confederates.",
+      "Reigned for twenty years before Tuathal Techtmar.",
+      "God sent a famine as punishment."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Éllim mac Conrach'."
+  }
+}

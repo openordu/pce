@@ -1,0 +1,51 @@
+{
+  "name": "Énna Airgthech",
+  "text": "Énna Airgthech, the plunderer in Irish, was a legendary ruler of Munster celebrated for being the first to commission silver shields on Irish soil, which he then distributed to his chieftains. The shields were crafted near what is today called Rathbeagh, beside the Nore in northern County Kilkenny. MacKillop reads the figure as the royal innovator of the Munster arms tradition.",
+  "entities": [
+    {
+      "entity": "Énna Airgthech",
+      "type": "Person"
+    },
+    {
+      "entity": "Munster",
+      "type": "Place"
+    },
+    {
+      "entity": "Rathbeagh",
+      "type": "Place"
+    },
+    {
+      "entity": "River Nore",
+      "type": "Place"
+    },
+    {
+      "entity": "County Kilkenny",
+      "type": "Place"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Énna Airgthech",
+      "attribute": "Legendary king of Munster; introduced silver shields"
+    },
+    {
+      "entity": "Énna Airgthech",
+      "attribute": "Shields produced near Rathbeagh on the River Nore"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Énna Airgthech'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Énna Airgthech is the MacKillop headword for the Munster king.",
+    "key_results": [
+      "Legendary king of Munster.",
+      "Introduced the first silver shields in Ireland.",
+      "Shields produced near Rathbeagh on the River Nore."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Énna Airgthech'."
+  }
+}

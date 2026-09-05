@@ -1,0 +1,64 @@
+{
+  "name": "Énna",
+  "text": "Énna, whose name is sometimes glossed bird-like, was carried by many heroes, kings, and saints through early Irish lore; the most celebrated is the sixth-century Saint Énna of Aran. His feast is observed on 21 March. After a violent youth he entered the religious life, an influence traced to his sister Saint Fanchea. He reportedly travelled to Rome and founded several churches in the Boyne valley. Rejecting counsel to choose richer ground, he planted his principal monastery at Cill Éanna, also called Cill Éinne, on the Aranmore shore of the Aran Islands. Saint Ciarán of Clonmacnoise was a notable disciple. Énna is also the patron of the Saint Enda's boys' nationalist school, established by Patrick Pearse in 1908.",
+  "entities": [
+    {
+      "entity": "Énna",
+      "type": "Person"
+    },
+    {
+      "entity": "Saint Fanchea",
+      "type": "Person"
+    },
+    {
+      "entity": "Aranmore",
+      "type": "Place"
+    },
+    {
+      "entity": "Aran Islands",
+      "type": "Place"
+    },
+    {
+      "entity": "Ciarán of Clonmacnoise",
+      "type": "Person"
+    },
+    {
+      "entity": "Patrick Pearse",
+      "type": "Person"
+    },
+    {
+      "entity": "Boyne valley",
+      "type": "Place"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Énna",
+      "attribute": "Sixth-century saint of Aran; founded Killeany monastery on Aranmore"
+    },
+    {
+      "entity": "Énna",
+      "attribute": "Patron of Pearse's Saint Enda's school, founded 1908"
+    },
+    {
+      "entity": "Énna",
+      "attribute": "Travelled to Rome; founded churches in the Boyne valley"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Énna'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Énna is the MacKillop headword for the Aran saint.",
+    "key_results": [
+      "Sixth-century saint of Aran; feast-day 21 March.",
+      "Founded Killeany on Aranmore.",
+      "Patron of Pearse's Saint Enda's school.",
+      "Visited Rome; founded churches in the Boyne valley."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Énna'."
+  }
+}
