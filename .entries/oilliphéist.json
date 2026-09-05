@@ -1,0 +1,44 @@
+{
+  "name": "oilliphéist",
+  "text": "oilliphéist is a dragon-like monster from Irish oral tradition, named from the Irish words oil meaning great and prist meaning fabulous beast or reptile. In the best-known story, the oilliphéist dams the watercourse of the Shannon River on hearing that Saint Patrick has arrived to expel its kind from the land. In a comic sequel, the monster swallows a drunken piper who keeps playing inside it until the creature coughs him up. The Scottish Gaelic counterpart is uilepheist. The wider tradition also names related monsters caoránach, muirdris, and sinach.",
+  "entities": [
+    {
+      "entity": "oilliphéist",
+      "type": "Being"
+    },
+    {
+      "entity": "Shannon River",
+      "type": "Place"
+    },
+    {
+      "entity": "Saint Patrick",
+      "type": "Person"
+    },
+    {
+      "entity": "uilepheist",
+      "type": "Being"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "oilliphéist",
+      "attribute": "Irish dragon-like monster that dams the Shannon against Saint Patrick"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'oilliphéist'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "oilliphéist is the MacKillop headword for the Irish dragon-like monster.",
+    "key_results": [
+      "Etymology: oil great + prist fabulous beast.",
+      "The oilliphéist dams the Shannon River on hearing of Saint Patrick.",
+      "A piper inside the monster keeps playing until coughed up.",
+      "Scottish Gaelic counterpart is uilepheist; related monsters include caoránach, muirdris, sinach."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'oilliphéist'."
+  }
+}

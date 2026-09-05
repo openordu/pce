@@ -1,0 +1,33 @@
+{
+  "name": "ogum",
+  "text": "ogum is a MacKillop headword naming a variant spelling of ogham, treated as a synonym of the Scottish Gaelic form oghum. MacKillop lists ogum alongside oghum as alternate spellings of the same tradition. The full record of the Celtic ogham alphabet and its traditions sits under the headword ogham.",
+  "entities": [
+    {
+      "entity": "ogum",
+      "type": "Concept"
+    },
+    {
+      "entity": "ogham",
+      "type": "Concept"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "ogum",
+      "attribute": "Variant spelling of ogham; pointer to ogham headword"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'ogum'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "ogum is a MacKillop headword for a variant spelling of ogham.",
+    "key_results": [
+      "Signpost cites ogham as the canonical headword."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'ogum'."
+  }
+}

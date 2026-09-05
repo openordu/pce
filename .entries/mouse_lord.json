@@ -1,0 +1,33 @@
+{
+  "name": "mouse lord",
+  "text": "mouse lord is a MacKillop headword that points the reader to luchtigern. MacKillop treats mouse lord as a brief English-language pointer without a fuller standalone article. The full record of the great mouse of Celtic tradition sits under the headword luchtigern.",
+  "entities": [
+    {
+      "entity": "mouse lord",
+      "type": "Concept"
+    },
+    {
+      "entity": "luchtigern",
+      "type": "Being"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "mouse lord",
+      "attribute": "MacKillop see-ref pointing to luchtigern"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'mouse lord'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "mouse lord is a MacKillop see-ref signpost for luchtigern.",
+    "key_results": [
+      "Signpost cites luchtigern as the canonical headword."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'mouse lord'."
+  }
+}

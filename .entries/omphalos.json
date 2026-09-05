@@ -1,0 +1,33 @@
+{
+  "name": "omphalos",
+  "text": "omphalos is a MacKillop headword naming the cultural heart of a people, by analogy with the famous navel-stone of Delphi in ancient Greece. MacKillop lists several Celtic examples of the centre-stone tradition across Brittany, Wales, Ireland, and the Isle of Man. The full record of the centre-stone tradition sits under the headword uisnech.",
+  "entities": [
+    {
+      "entity": "omphalos",
+      "type": "Concept"
+    },
+    {
+      "entity": "uisnech",
+      "type": "Place"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "omphalos",
+      "attribute": "Cultural centre-stone by analogy with Delphi; cites uisnech"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'omphalos'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "omphalos is a MacKillop headword for the centre-of-culture stone tradition.",
+    "key_results": [
+      "Signpost cites uisnech as the canonical Celtic headword."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'omphalos'."
+  }
+}

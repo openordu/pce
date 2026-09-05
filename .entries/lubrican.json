@@ -1,0 +1,33 @@
+{
+  "name": "lubrican",
+  "text": "lubrican is a MacKillop archaic anglicization of leprechaun. MacKillop records the form as one of several older English spellings of the same folkloric being. The full record of the leprechaun tradition in Celtic folklore sits under the headword leprechaun.",
+  "entities": [
+    {
+      "entity": "lubrican",
+      "type": "Being"
+    },
+    {
+      "entity": "leprechaun",
+      "type": "Being"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "lubrican",
+      "attribute": "Archaic anglicization of leprechaun; pointer to leprechaun headword"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'lubrican'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "lubrican is a MacKillop archaic-signpost for the leprechaun headword.",
+    "key_results": [
+      "Signpost cites leprechaun as the canonical headword."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'lubrican'."
+  }
+}
