@@ -1,0 +1,33 @@
+{
+  "name": "innis",
+  "text": "innis is the Scottish Gaelic word for island. MacKillop treats innis as the Gaelic form of the same place-name element recorded under inis. The fuller record of the Celtic island-place-name element, its Irish counterpart, and the Welsh cognate ynys sits under the headword inis.",
+  "entities": [
+    {
+      "entity": "innis",
+      "type": "Concept"
+    },
+    {
+      "entity": "inis",
+      "type": "Concept"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "innis",
+      "attribute": "ScG word for island; pointer to inis headword"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'innis'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "innis is a MacKillop pointer headword resolving to inis.",
+    "key_results": [
+      "Signpost cites the headword inis for the full record."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'innis'."
+  }
+}

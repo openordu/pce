@@ -1,0 +1,33 @@
+{
+  "name": "leipreachán",
+  "text": "leipreachán is the preferred modern Irish form of the MacKillop headword leprechaun. MacKillop treats leipreachán as the canonical Gaelic spelling of the same record. The fuller record of the leprechaun, his shoemaker's trade, his gold crock, and his capture by mortal tricksters sits under leprechaun.",
+  "entities": [
+    {
+      "entity": "leipreachán",
+      "type": "Being"
+    },
+    {
+      "entity": "leprechaun",
+      "type": "Being"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "leipreachán",
+      "attribute": "Preferred modern Irish form of leprechaun; pointer to leprechaun headword"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'leipreachán'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "leipreachán is a MacKillop pointer headword resolving to leprechaun.",
+    "key_results": [
+      "Signpost cites the headword leprechaun for the full record."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'leipreachán'."
+  }
+}
