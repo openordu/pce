@@ -17,11 +17,11 @@ attributes:
   - Fingula an anglicization of Finnguala, one of the twin daughters of Áeb, perversely substituted for Áeb in some English retellings
   - Oidheadh Chlainne Lir the full Irish title of the tale, here rendered as the sorrowful tale of the Lir children
 categories:
-  - mythological figure
-  - Concept
-  - hero
   - Person
+  - Concept
+  - mythological figure
   - event
+  - hero
 entities:
   - Áeb(hero)
   - Children of Lir(event)

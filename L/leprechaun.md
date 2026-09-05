@@ -12,9 +12,9 @@ attributes:
   - leprechaun a third anglicised spelling sits grouped near leipreachân in the printed entry
   - leprechaun the headword opens a bracketed cross-reference in MacKillop
 categories:
-  - Being
-  - Place
   - Deity
+  - Place
+  - Being
 entities:
   - leprechaun(Being)
   - Lugh(Deity)

@@ -28,11 +28,11 @@ attributes:
   - Éber Scot means Éber the Scot and is given as a fabricated forefather of both the Irish and the Scots
   - Éber Scot sits in a family line that climbs back to a daughter of a pharaoh of Egypt
 categories:
-  - Deity
   - Work
   - Person
-  - Group
+  - Deity
   - Place
+  - Group
 entities:
   - Éber(Person)
   - Eber(Person)

@@ -8,8 +8,8 @@ attributes:
   - giolla Modern Irish word for youth, page, manservant; descendant of OIr gilla
   - giolla Canonical headword for Irish servant characters in medieval literature
 categories:
-  - Person
   - Concept
+  - Person
 entities:
   - giolla(Concept)
   - Giolla na gCon(Person)

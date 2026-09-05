@@ -7,8 +7,8 @@ contributors: [ 'Christopher Godwin' ]
 attributes:
   - firedrake MacKillop cross-reference headword pointing to dragon
 categories:
-  - Being
   - Concept
+  - Being
 entities:
   - firedrake(Concept)
   - dragon(Being)

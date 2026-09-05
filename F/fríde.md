@@ -7,8 +7,8 @@ contributors: [ 'Christopher Godwin' ]
 attributes:
   - fríde Scottish Highland gnome or rock-elf who devours spilled milk
 categories:
-  - Being
   - Place
+  - Being
 entities:
   - fríde(Being)
   - Highland(Place)

@@ -8,8 +8,8 @@ attributes:
   - roth rámach Flying machine of Simon Magus and Mug Ruith in Christian legend
 categories:
   - Thing
-  - Person
   - Place
+  - Person
 entities:
   - roth rámach(Thing)
   - Simon Magus(Person)

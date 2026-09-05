@@ -24,14 +24,14 @@ attributes:
   - Goibniu craft-god hosting the otherworldly Fled Goibnenn
   - Fled Goibnenn otherworldly feast flowing with endless ale
 categories:
-  - being
-  - place
-  - artifact
   - word
+  - mythological creature
+  - artifact
+  - battle
+  - place
+  - being
   - thing
   - concept
-  - mythological creature
-  - battle
 entities:
   - otter(mythological creature)
   - king otter(mythological creature)

@@ -7,10 +7,10 @@ contributors: [ 'Christopher Godwin' ]
 attributes:
   - pangs/debility of the Ulstermen Curse on the Ulstermen from the Táin Bó Cuailnge tradition
 categories:
-  - Person
   - Concept
-  - Character
   - Text
+  - Person
+  - Character
 entities:
   - pangs/debility of the Ulstermen(Concept)
   - Macha(Character)

@@ -7,8 +7,8 @@ contributors: [ 'Christopher Godwin' ]
 attributes:
   - Éibhear Modern Irish spelling of Éber; pointer to Éber headword
 categories:
-  - Person
   - Language
+  - Person
 entities:
   - Éibhear(Person)
   - Éber(Person)

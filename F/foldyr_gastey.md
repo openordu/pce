@@ -7,8 +7,8 @@ contributors: [ 'Christopher Godwin' ]
 attributes:
   - foldyr gastey Manx nickname meaning nimble mower, pointing to fenodyree
 categories:
-  - Being
   - Concept
+  - Being
 entities:
   - foldyr gastey(Concept)
   - fenodyree(Being)

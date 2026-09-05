@@ -18,9 +18,9 @@ attributes:
   - Manannán mac Lir sea-deity whose epithet Oirbsiu Mór denotes inundation and may be his original name
   - Lough Corrib region country beside Connemara carrying a wealth of folklore and folk culture
 categories:
-  - Being
   - Concept
   - Place
+  - Being
 entities:
   - Táin bó Cuailnge (Cattle Raid of Cooley)(Concept)
   - Lough Neagh(Place)

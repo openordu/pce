@@ -7,8 +7,8 @@ contributors: [ 'Christopher Godwin' ]
 attributes:
   - Ébliu Sister of Lug Láthfhota; wife of Fintan mac Bóchra; variant of Ériu
 categories:
-  - Person
   - Place
+  - Person
 entities:
   - Ébliu(Person)
   - Lug Láthfhota(Person)

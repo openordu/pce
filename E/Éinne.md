@@ -7,8 +7,8 @@ contributors: [ 'Christopher Godwin' ]
 attributes:
   - Éinne Killeany monastery on Aranmore; patron of Pearse's Saint Enda's school
 categories:
-  - Person
   - Place
+  - Person
 entities:
   - Éinne(Place)
   - Énna(Person)

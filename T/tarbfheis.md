@@ -7,8 +7,8 @@ contributors: [ 'Christopher Godwin' ]
 attributes:
   - tarbfheis Irish for bull feast; pointer to bull headword and kingship
 categories:
-  - Animal
   - Concept
+  - Animal
 entities:
   - tarbfheis(Concept)
   - bull(Animal)

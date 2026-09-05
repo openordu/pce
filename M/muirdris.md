@@ -7,8 +7,8 @@ contributors: [ 'Christopher Godwin' ]
 attributes:
   - muirdris Earlier name for the sea-monster later called sinach; slain by Fergus mac Léti
 categories:
-  - Being
   - Character
+  - Being
 entities:
   - muirdris(Being)
   - sinach(Being)

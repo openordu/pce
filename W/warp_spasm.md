@@ -7,8 +7,8 @@ contributors: [ 'Christopher Godwin' ]
 attributes:
   - warp spasm MacKillop cross-ref to the Cúchulainn headword; battle-fury distortion
 categories:
-  - Person
   - Concept
+  - Person
 entities:
   - warp spasm(Concept)
   - Cúchulainn(Person)

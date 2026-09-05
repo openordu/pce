@@ -14,10 +14,10 @@ attributes:
   - Gaesatae commonly read as forerunners of the fianna of early Ireland, especially the Fianna Érainn of Fionn mac Cumhaill
   - Gaesatae their battle nakedness was a shared Celtic practice rooted in a belief that bare skin granted magical protection from the gods
 categories:
-  - Person
-  - Being
   - Concept
   - Tribe
+  - Person
+  - Being
 entities:
   - boctogai(Being)
   - bocaidhe(Being)

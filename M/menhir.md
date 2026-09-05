@@ -10,8 +10,8 @@ attributes:
   - menhir most were left whole, and the way of moving them is unknown
   - menhir MacKillop pointer to cromlech and dolmen for the fuller megalithic record
 categories:
-  - Thing
   - Concept
+  - Thing
   - Artifact
 entities:
   - menhir(Artifact)

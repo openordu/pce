@@ -15,8 +15,8 @@ attributes:
   - gruagach in Scotland could be a slender handsome man of fairy kind or a fairy woman in green
   - grógach variant spelling of the headword gruagach
 categories:
-  - Being
   - Animal
+  - Being
 entities:
   - gruagach(Being)
   - brownie(Being)

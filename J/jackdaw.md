@@ -8,8 +8,8 @@ attributes:
   - jackdaw European corvid (Corvus monedula) sometimes represented as talking in Celtic traditions
   - jackdaw Kilgarvan jackdaws asked to enter the town to escape crows
 categories:
-  - Animal
   - Place
+  - Animal
 entities:
   - jackdaw(Animal)
   - crow(Animal)

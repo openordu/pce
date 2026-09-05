@@ -20,10 +20,10 @@ attributes:
   - geis-breaking brings instant death and destruction to the culprit's people
   - kingship early rituals of kingship may be the source of the geis concept
 categories:
-  - Person
   - Concept
-  - Group
   - Place
+  - Group
+  - Person
 entities:
   - geis(Concept)
   - Conaire(Person)

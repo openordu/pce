@@ -7,8 +7,8 @@ contributors: [ 'Christopher Godwin' ]
 attributes:
   - fáinne sídhe Irish name for the fairy ring
 categories:
-  - Thing
   - Concept
+  - Thing
 entities:
   - fáinne sídhe(Concept)
   - fairy ring(Thing)

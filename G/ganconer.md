@@ -17,11 +17,11 @@ attributes:
   - ganconer cataloged as folk motif F301.2
   - ganconer confused with but distinct from the gan ceann
 categories:
-  - Concept
-  - Artifact
-  - Person
   - Thing
   - Being
+  - Person
+  - Concept
+  - Artifact
 entities:
   - ganconer(Concept)
   - geancanach(Being)

@@ -10,10 +10,10 @@ attributes:
   - Mauher Slieve a traditional site of celebrations for the harvest feast of Lughnasa
   - Mauher Slieve linked in some versions of the Book of Invasions to the goddess Fodla
 categories:
-  - Person
   - Concept
-  - Artifact
   - Place
+  - Person
+  - Artifact
 entities:
   - Mauher Slieve(Place)
   - Munster(Place)

@@ -7,8 +7,8 @@ contributors: [ 'Christopher Godwin' ]
 attributes:
   - tale type Cross-classification of Celtic folktales against the AT-U index
 categories:
-  - Thing
   - Concept
+  - Thing
 entities:
   - tale type(Concept)
   - Aarne-Thompson-Uther index(Thing)

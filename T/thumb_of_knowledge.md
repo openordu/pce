@@ -7,8 +7,8 @@ contributors: [ 'Christopher Godwin' ]
 attributes:
   - thumb of knowledge MacKillop cross-ref to the knowledge headword and Fionn mac Cumhaill
 categories:
-  - Person
   - Concept
+  - Person
 entities:
   - thumb of knowledge(Concept)
   - knowledge(Concept)

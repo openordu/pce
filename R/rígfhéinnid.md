@@ -7,8 +7,8 @@ contributors: [ 'Christopher Godwin' ]
 attributes:
   - rígfhéinnid Leader of the Fianna; title held by Fionn mac Cumhaill
 categories:
-  - Person
   - Tribe
+  - Person
 entities:
   - rígfhéinnid(Person)
   - Fianna(Tribe)

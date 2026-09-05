@@ -9,8 +9,8 @@ attributes:
   - Aisling a form of Irish vision-poetry
   - vision MacKillop pointer to the Otherworld headword and the Vision Literature survey
 categories:
-  - concept
   - Place
+  - concept
   - Text
 entities:
   - vision(concept)

@@ -9,9 +9,9 @@ attributes:
   - knowledge Often derived from dead ancestors and the otherworld
   - knowledge Fionn mac Cumhaill acquires it through touching the salmon of knowledge
 categories:
-  - Being
   - Concept
   - Character
+  - Being
 entities:
   - knowledge(Concept)
   - Fionn mac Cumhaill(Character)

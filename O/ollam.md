@@ -17,10 +17,10 @@ attributes:
   - Ollam Fodla credited with drawing up an early code of laws
   - Ollam Fodla credited with dividing the country into five parts
 categories:
-  - being
-  - place
   - word
   - group
+  - place
+  - being
   - concept
 entities:
   - ollam(word)

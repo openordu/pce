@@ -7,8 +7,8 @@ contributors: [ 'Christopher Godwin' ]
 attributes:
   - Éccell Brother of Ingcél Cáech; grandson of Conmac
 categories:
-  - Person
   - Text
+  - Person
 entities:
   - Éccell(Person)
   - Ingcél Cáech(Person)

@@ -7,9 +7,9 @@ contributors: [ 'Christopher Godwin' ]
 attributes:
   - oilliphéist Irish dragon-like monster that dams the Shannon against Saint Patrick
 categories:
+  - Place
   - Person
   - Being
-  - Place
 entities:
   - oilliphéist(Being)
   - Shannon River(Place)

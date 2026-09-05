@@ -7,8 +7,8 @@ contributors: [ 'Christopher Godwin' ]
 attributes:
   - Éile Modern Irish spelling of Éle; pointer to Éle headword
 categories:
-  - Person
   - Language
+  - Person
 entities:
   - Éile(Person)
   - Éle(Person)

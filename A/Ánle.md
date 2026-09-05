@@ -7,8 +7,8 @@ contributors: [ 'Christopher Godwin' ]
 attributes:
   - Ánle Old Irish variant of Ainnle; pointer to Ainnle headword
 categories:
-  - Person
   - Language
+  - Person
 entities:
   - Ánle(Person)
   - Ainnle(Person)

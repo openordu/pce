@@ -13,10 +13,10 @@ attributes:
   - gnome carries international folk motif number F456
   - gnome parallels the Cornish knocker and the Breton goric
 categories:
-  - Person
-  - Being
   - Concept
   - Creature
+  - Person
+  - Being
 entities:
   - gnome(Being)
   - fairy(Creature)

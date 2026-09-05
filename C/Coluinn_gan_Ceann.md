@@ -13,9 +13,9 @@ attributes:
   - gan ceann often confused with but distinct from the ganconer
   - Coluinn gan Ceann Highland Gaelic counterpart of the Irish gan ceann
 categories:
+  - Place
   - person
   - Being
-  - Place
 entities:
   - Coluinn gan Ceann(person)
   - Colann gun Cheann(person)

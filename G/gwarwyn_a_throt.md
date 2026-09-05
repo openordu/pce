@@ -7,8 +7,8 @@ contributors: [ 'Christopher Godwin' ]
 attributes:
   - gwarwyn a throt Hidden Welsh fairy name meaning the white-naped one with the trot
 categories:
-  - Being
   - Place
+  - Being
 entities:
   - gwarwyn a throt(Being)
   - tylwyth teg(Being)

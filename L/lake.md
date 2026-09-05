@@ -10,9 +10,9 @@ attributes:
   - lake passageway to the Otherworld
   - lake MacKillop pointer to the Celtic terms loch, lough, and llyn
 categories:
-  - Thing
   - Concept
   - Place
+  - Thing
 entities:
   - lake(Place)
   - Otherworld(Concept)

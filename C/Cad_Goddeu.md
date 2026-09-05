@@ -22,10 +22,10 @@ attributes:
   - Mercury (Gaulish) unnamed Gaulish power probably worshipped as a god
   - heroic narrative modern scholars seek a shadowed divine figure behind its kings and warriors
 categories:
-  - Person
-  - Tribe
   - Place
   - Text
+  - Tribe
+  - Person
 entities:
   - Book of Taliesin(Text)
   - Arawn(Person)

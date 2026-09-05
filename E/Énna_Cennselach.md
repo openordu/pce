@@ -8,8 +8,8 @@ attributes:
   - Énna Cennselach Legendary ancestor of south Leinster kings
   - Énna Cennselach Said to have killed Eochaid Mugmedón in medieval anecdote
 categories:
-  - Person
   - Place
+  - Person
 entities:
   - Énna Cennselach(Person)
   - Leinster(Place)

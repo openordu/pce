@@ -7,10 +7,10 @@ contributors: [ 'Christopher Godwin' ]
 attributes:
   - teinm laída Celtic divination incantation; one of three ways of prophetic knowledge
 categories:
-  - Person
   - Concept
-  - Character
   - Text
+  - Person
+  - Character
 entities:
   - teinm laída(Concept)
   - Fionn mac Cumhaill(Character)

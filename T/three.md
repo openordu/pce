@@ -13,11 +13,11 @@ attributes:
   - Tuatha Dé Danann produce a triad of children, two of whom a grandfather has drowned
   - three marked in the story of three children of a union where two are drowned and only one, Lug, escapes
 categories:
-  - Concept
-  - Deity
-  - Ritual
-  - Tribe
   - Text
+  - Tribe
+  - Concept
+  - Ritual
+  - Deity
 entities:
   - three(Concept)
   - five(Concept)

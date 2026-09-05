@@ -15,9 +15,9 @@ attributes:
   - sluagh usually bode no good to mortals and are said to harm cattle
   - sluagh named in the Gaelic exclamation 'O shluagh!' as a cry for succour to the fairies
 categories:
-  - Being
-  - Group
   - Place
+  - Group
+  - Being
 entities:
   - sluagh(Being)
   - Host of the Unforgiven Dead(Group)

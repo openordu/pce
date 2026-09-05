@@ -10,9 +10,9 @@ attributes:
   - Éire modern spelling of Ériu
   - Ard Éireann carries the meaning height of Ireland as a mythic anchor
 categories:
-  - Being
   - Concept
   - Place
+  - Being
 entities:
   - Ard Éireann(Place)
   - Slieve Bloom(Place)

@@ -11,9 +11,9 @@ attributes:
   - glastyn lived on the Isle of Man
   - glastyn recorded by MacKillop as a variant spelling of glashtin
 categories:
-  - Being
-  - Creature
   - Place
+  - Creature
+  - Being
 entities:
   - glastyn(Being)
   - water horse(Creature)

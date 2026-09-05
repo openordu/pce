@@ -7,9 +7,9 @@ contributors: [ 'Christopher Godwin' ]
 attributes:
   - Áebhric Young man or monk at Erris who witnessed the singing of the children of Lir
 categories:
-  - Person
   - Place
   - Text
+  - Person
 entities:
   - Áebhric(Person)
   - Oidheadh Chlainne Lir(Text)

@@ -13,9 +13,9 @@ attributes:
   - Tonn Tuaig the wave of Tuag at Inber Glas at the mouth of the river Bann in County Londonderry, also called Tonn Tuaithe
   - Bann River the river at whose mouth the wave Tonn Tuaig breaks at Inber Glas
 categories:
-  - Person
   - Language
   - Place
+  - Person
 entities:
   - Brittonnic(Language)
   - Brythonic(Language)

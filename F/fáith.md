@@ -7,8 +7,8 @@ contributors: [ 'Christopher Godwin' ]
 attributes:
   - fáith Old and Middle Irish word for seer or prophet
 categories:
-  - Person
   - Concept
+  - Person
 entities:
   - fáith(Concept)
   - Scáthach(Person)

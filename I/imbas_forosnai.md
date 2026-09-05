@@ -9,10 +9,10 @@ attributes:
   - imbas forosnai a ritual where the seer chewed raw meat, then slept with palms on cheeks to dream the answer
   - imbas forosnai MacKillop treats this form as the most consistent variant spelling for the Irish Druidic divination system.
 categories:
-  - Person
   - Concept
-  - Group
   - Place
+  - Group
+  - Person
 entities:
   - imbas forosnai(Concept)
   - imbus forosna(Concept)

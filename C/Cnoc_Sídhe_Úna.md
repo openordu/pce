@@ -15,10 +15,10 @@ attributes:
   - bean sidhe the woman of the sídh, called banshee in English, whose night wail foretells death
   - Cnoc Sídhe_Úna one named Irish example of the broader sídh fairy-mound class
 categories:
-  - Concept
   - Tribe
   - mythological location
   - Person
+  - Concept
   - Place
   - Being
   - festival

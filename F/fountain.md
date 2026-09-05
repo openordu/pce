@@ -7,9 +7,9 @@ contributors: [ 'Christopher Godwin' ]
 attributes:
   - fountain Sacred and literary springs in Celtic tradition
 categories:
-  - Person
   - Concept
   - Place
+  - Person
 entities:
   - fountain(Concept)
   - Cormac mac Airt(Person)

@@ -27,13 +27,13 @@ attributes:
   - Igerna marries Uther after the Duke of Cornwall dies
   - Igerna Welsh forerunner Eigr, famed in old Welsh verse for rare beauty
 categories:
-  - Deity
-  - Person
   - Creature
-  - Group
+  - Person
+  - Deity
   - Place
   - Being
   - Event
+  - Group
 entities:
   - Knockfierna(Place)
   - Cnoc Firinne(Place)

@@ -7,9 +7,9 @@ contributors: [ 'Christopher Godwin' ]
 attributes:
   - moddey dhoo Manx great black dog tradition; sometimes haunts Peel Castle
 categories:
+  - Place
   - Person
   - Being
-  - Place
 entities:
   - moddey dhoo(Being)
   - Peel Castle(Place)

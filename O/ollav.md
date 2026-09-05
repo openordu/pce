@@ -7,8 +7,8 @@ contributors: [ 'Christopher Godwin' ]
 attributes:
   - ollav Phonetic anglicization of ollam; pointer to ollam headword
 categories:
-  - Person
   - Concept
+  - Person
 entities:
   - ollav(Concept)
   - ollam(Person)

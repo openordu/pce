@@ -14,13 +14,13 @@ attributes:
   - Ireland personified in a triad of Eriu, Banba, and Fodla
   - craft overseen by a triad of gods Credne, Goibniu, and Luchta
 categories:
-  - Concept
-  - Artifact
+  - Thing
   - Tribe
   - Person
-  - Profession
-  - Thing
+  - Concept
+  - Artifact
   - Place
+  - Profession
   - Being
 entities:
   - tuath(Concept)

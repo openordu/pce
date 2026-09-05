@@ -13,9 +13,9 @@ attributes:
   - Luideag troubled several small pools on the Isle of Skye, most often a Skye pool called Lochan of Black Trout
   - Luideag catalogued under folk motifs Ó11.3 and G346.2
 categories:
-  - Being
   - Concept
   - Place
+  - Being
 entities:
   - Luideag(Being)
   - Isle of Skye(Place)

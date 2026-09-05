@@ -18,11 +18,11 @@ attributes:
   - Lios Áine a place-name preserved at Lissan in Northern Ireland
   - Dún Áine a place-name at the entrance to Dundalk Bay in County Louth
 categories:
-  - location
   - Tribe
+  - location
   - Person
-  - being
   - god
+  - being
   - Place
 entities:
   - Áine(god)

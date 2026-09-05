@@ -17,13 +17,13 @@ attributes:
   - Cúchulainn sees the strike in time and leaps upward
   - Scáthach rules the land of shadow where Cúchulainn trains
 categories:
-  - Concept
-  - hero
   - Person
-  - place
-  - event
+  - Concept
   - character
+  - event
+  - place
   - Place
+  - hero
 entities:
   - Éis Énchenn(character)
   - Cúchulainn(hero)

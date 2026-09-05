@@ -13,10 +13,10 @@ attributes:
   - glen Celtic loanword prefixing dozens of Irish and Scottish place-names, with Welsh cognate glyn
   - glen runs from Old Irish glenn and Modern Irish gleann to Scottish Gaelic gleam and glenn
 categories:
-  - Person
-  - Being
   - Concept
   - Place
+  - Person
+  - Being
 entities:
   - Black Sainglend(Being)
   - Saingliu(Being)

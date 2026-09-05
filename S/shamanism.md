@@ -16,13 +16,13 @@ attributes:
   - Adamnán His soul goes forth from his body on the midsummer feast of Saint John the Baptist, the summer solstice, in the Vision of Adamnán
   - Gwrhyr Gwalstawd Ieithoedd The Welsh Arthurian figure who carries the shamanistic power to speak the language of animals
 categories:
-  - Poet
-  - Concept
-  - Artifact
   - Tribe
-  - Role
   - Person
+  - Concept
+  - Poet
+  - Role
   - Place
+  - Artifact
 entities:
   - shamanism(Concept)
   - bard(Role)

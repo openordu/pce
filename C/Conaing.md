@@ -17,10 +17,10 @@ attributes:
   - nain folk belief held that nains sprang from a cabalistic alphabet cut into several megalithic stones
   - nain keepers of buried treasure, like the gorics
 categories:
-  - mythological figure
-  - Concept
-  - Tribe
   - Thing
+  - Tribe
+  - Concept
+  - mythological figure
   - Place
   - Being
 entities:

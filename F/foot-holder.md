@@ -7,9 +7,9 @@ contributors: [ 'Christopher Godwin' ]
 attributes:
   - foot-holder Medieval Welsh court officer supporting the king
 categories:
-  - Person
   - Concept
   - Text
+  - Person
 entities:
   - foot-holder(Concept)
   - Mabinogi(Text)

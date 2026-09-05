@@ -20,15 +20,15 @@ attributes:
   - Suibhne__Sweeney__Mad_Sweeney__Suibne__Suibne_mac_Colmain__Suibhne_geilt_ MacKillop defines geilt as an Old Irish word meaning one who goes mad from terror
   - Suibhne__Sweeney__Mad_Sweeney__Suibne__Suibne_mac_Colmain__Suibhne_geilt_ the headword geilt most often names Suibhne, with the tale Buile Shuibhne as the load-bearing example
 categories:
-  - person
-  - Person
-  - place
   - Text
+  - Person
+  - person
   - group
   - character
-  - Place
-  - text
   - battle
+  - text
+  - Place
+  - place
 entities:
   - Suibhne(Person)
   - Ulster(Place)

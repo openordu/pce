@@ -11,11 +11,11 @@ attributes:
   - Étain flew from Tara as a swan
   - Cian became a pig to hide from the Sons of Tuireann
 categories:
-  - Poet
-  - Concept
   - Person
-  - Group
+  - Concept
+  - Poet
   - Being
+  - Group
 entities:
   - shape-shifting(Concept)
   - Amairgin(Poet)

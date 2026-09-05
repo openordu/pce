@@ -7,8 +7,8 @@ contributors: [ 'Christopher Godwin' ]
 attributes:
   - sínach Stormy sea-monster; later name for the foe of Fergus mac Léti
 categories:
-  - Being
   - Character
+  - Being
 entities:
   - sínach(Being)
   - Fergus mac Léti(Character)

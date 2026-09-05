@@ -7,8 +7,8 @@ contributors: [ 'Christopher Godwin' ]
 attributes:
   - Ábhartach Modern Irish spelling of Ábartach; pointer to Ábartach headword
 categories:
-  - Person
   - Language
+  - Person
 entities:
   - Ábhartach(Person)
   - Ábartach(Person)

@@ -21,14 +21,14 @@ attributes:
   - korrigan known as Ozegan or Ozeganned near Vannes
   - druidess MacKillop names ancient druidesses as ancestors of the korrigan
 categories:
+  - Thing
   - person
+  - mythological creature
   - Concept
   - Person
   - place
-  - Thing
   - Place
   - Being
-  - mythological creature
 entities:
   - korrigan(mythological creature)
   - Brittany(place)

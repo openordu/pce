@@ -7,8 +7,8 @@ contributors: [ 'Christopher Godwin' ]
 attributes:
   - war-gods MacKillop signpost for the battle_gods headword
 categories:
-  - Being
   - Concept
+  - Being
 entities:
   - war-gods(Concept)
   - battle_gods(Concept)

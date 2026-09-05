@@ -16,8 +16,8 @@ attributes:
   - kelpie strikes the water with its tail in thunder and disappears in a flash of lightning
   - kelpie Scottish Gaelic links the word to colpach or calpach, meaning heifer, bullock, or colt
 categories:
-  - place
   - Concept
+  - place
   - Person
   - mythological creature
 entities:

@@ -7,8 +7,8 @@ contributors: [ 'Christopher Godwin' ]
 attributes:
   - fóidín mearaí Enchanted turf that confuses travellers, leading to pixie-led wandering
 categories:
-  - Being
   - Concept
+  - Being
 entities:
   - fóidín mearaí(Concept)
   - pisky(Being)

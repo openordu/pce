@@ -15,10 +15,10 @@ attributes:
   - goblin Irish cluricaune and dullahan occasionally called goblins
   - goblin Wirt Sikes catalogued British goblins in 1880
 categories:
-  - Concept
-  - Person
   - Creature
   - Text
+  - Person
+  - Concept
   - Being
 entities:
   - goblin(Being)

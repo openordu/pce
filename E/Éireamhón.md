@@ -7,8 +7,8 @@ contributors: [ 'Christopher Godwin' ]
 attributes:
   - Éireamhón Modern Irish spelling of Éremón; pointer to Éremón headword
 categories:
-  - Person
   - Language
+  - Person
 entities:
   - Éireamhón(Person)
   - Éremón(Person)

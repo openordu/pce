@@ -16,11 +16,11 @@ attributes:
   - Llyn Llyw The Welsh salmon of wisdom along the Severn, called the oldest of living creatures and the wisest of forty animals
   - Llyn Llyw Told the hero Culhwch where Mabon was held prisoner
 categories:
-  - Artifact
-  - Person
   - Thing
-  - Place
   - Being
+  - Person
+  - Place
+  - Artifact
 entities:
   - salmon(Being)
   - Fionn mac Cumhaill(Person)

@@ -9,8 +9,8 @@ attributes:
   - Ábartach Daughter Aife was changed into a heron by Iuchra
   - Ábartach First appears in narrative as the Hard Gilly
 categories:
-  - Person
   - Place
+  - Person
   - Text
 entities:
   - Ábartach(Person)

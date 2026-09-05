@@ -14,9 +14,9 @@ attributes:
   - rath nearly interchangeable with the older term dún
   - rath in Irish oral tradition thought to house fairies
 categories:
-  - Concept
-  - Person
   - Text
+  - Person
+  - Concept
   - Place
   - Being
 entities:

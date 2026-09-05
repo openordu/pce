@@ -16,10 +16,10 @@ attributes:
   - Inis Fionnchuire imaginary underwater island beneath Muir Torrain populated by nymphs
   - Lug Lámfhota demanded that Brian, Iuchair, and Iucharba fetch a cooking-spit from Inis Fionnchuire in the Tragic Story of the Sons of Tuireann
 categories:
-  - Person
-  - Work
   - Concept
   - Place
+  - Work
+  - Person
 entities:
   - Gavrinis(Place)
   - Brú na Bóinne(Place)

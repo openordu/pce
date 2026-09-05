@@ -14,10 +14,10 @@ attributes:
   - glám dícenn left the victim shunned at every level of society
   - glám dícenn parallels the hija of early Arab poets
 categories:
-  - Person
-  - Being
   - Concept
   - Role
+  - Person
+  - Being
 entities:
   - glám dícenn(Concept)
   - Bard(Role)

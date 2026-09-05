@@ -14,10 +14,10 @@ attributes:
   - Cernunnos Cemunnus spelling used by MacKillop
   - Gaborchend Irish goat-headed people possibly descended from the Fomorians
 categories:
-  - Deity
   - Tribe
   - Person
   - Animal
+  - Deity
   - Place
   - Being
 entities:

@@ -13,8 +13,8 @@ attributes:
   - Gille Dubh dwelt among birch woods near Gairloch in the former county of Ross and Cromarty
   - Gille Dubh traditionally regarded as benevolent
 categories:
-  - Being
   - Place
+  - Being
 entities:
   - Gille Dubh(Being)
   - Loch a Druing(Place)

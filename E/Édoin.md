@@ -7,8 +7,8 @@ contributors: [ 'Christopher Godwin' ]
 attributes:
   - Édoin Variant spelling of Étaín; pointer to Étaín headword
 categories:
-  - Person
   - Text
+  - Person
 entities:
   - Édoin(Person)
   - Étaín(Person)

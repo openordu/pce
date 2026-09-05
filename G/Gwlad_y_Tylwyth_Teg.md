@@ -20,13 +20,13 @@ attributes:
   - tylwyth teg thought to possess magical cattle, including the Speckled Cow of Hiraethog
   - crannog primitive lake dwelling whose dark-skinned, short early occupants some scholars link to the tylwyth teg
 categories:
-  - Concept
-  - Artifact
-  - Person
   - Thing
-  - Kind
-  - Place
   - Being
+  - Person
+  - Concept
+  - Place
+  - Kind
+  - Artifact
 entities:
   - Tylwyth Teg(Kind)
   - Charles-Edwards, T. M.(Person)

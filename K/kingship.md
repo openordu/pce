@@ -21,10 +21,10 @@ attributes:
   - Niall Noigiallach eponymous ancestor of the Uí Néill, called Niall of the Nine Hostages
   - brenin the only Celtic term that names a native ruler rather than a foreign or literary one
 categories:
-  - person
-  - Concept
   - Tribe
+  - person
   - Person
+  - Concept
   - place
   - concept
 entities:

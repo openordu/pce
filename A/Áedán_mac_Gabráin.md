@@ -7,8 +7,8 @@ contributors: [ 'Christopher Godwin' ]
 attributes:
   - Áedán mac Gabráin Founder of Dál Riada; friend of Colum Cille; fought Saxons
 categories:
-  - Person
   - Place
+  - Person
 entities:
   - Áedán mac Gabráin(Person)
   - Dál Riada(Place)

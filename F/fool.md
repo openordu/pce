@@ -7,8 +7,8 @@ contributors: [ 'Christopher Godwin' ]
 attributes:
   - fool Jesters, buffoons, and mimics in medieval Celtic courts
 categories:
-  - Person
   - Concept
+  - Person
 entities:
   - fool(Concept)
   - Lomna(Person)

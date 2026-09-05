@@ -8,9 +8,9 @@ attributes:
   - Éllim mac Conrach Usurper of the Tara throne; reigned 20 years before Tuathal's revenge
   - Éllim mac Conrach King of the Dál nAraide
 categories:
-  - Person
   - Place
   - Tribe
+  - Person
 entities:
   - Éllim mac Conrach(Person)
   - Dál nAraide(Tribe)

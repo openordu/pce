@@ -10,10 +10,10 @@ attributes:
   - Fetch a double that appears before a death and walks the funeral path
   - second sight MacKillop anchor example: the Brahan Seer Kenneth MacKenzie, who foresaw Highland decline
 categories:
-  - Person
   - Concept
   - Supernatural being
   - Folkloric motif
+  - Person
 entities:
   - second sight(Folkloric motif)
   - Otherworld(Concept)

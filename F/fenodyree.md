@@ -13,10 +13,10 @@ attributes:
   - fenodyree one-time beauty spoiled by courting a mortal
   - fenodyree satyr-like description rests on hairy legs not sexual conduct
 categories:
-  - Being
+  - place
   - being
   - Person
-  - place
+  - Being
 entities:
   - fenodyree(being)
   - GLASTIG(being)

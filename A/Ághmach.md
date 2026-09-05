@@ -7,8 +7,8 @@ contributors: [ 'Christopher Godwin' ]
 attributes:
   - Ághmach Modern Irish spelling of Ágach; pointer to Ágach headword
 categories:
-  - Person
   - Language
+  - Person
 entities:
   - Ághmach(Person)
   - Ágach(Person)

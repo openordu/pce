@@ -7,8 +7,8 @@ contributors: [ 'Christopher Godwin' ]
 attributes:
   - tàcharan Scottish Gaelic word for changeling; pointer to changeling headword
 categories:
-  - Language
   - Concept
+  - Language
 entities:
   - tàcharan(Concept)
   - changeling(Concept)

@@ -8,8 +8,8 @@ attributes:
   - Áedán Diminutive of Áed; common Gaelic name borne by at least 23 saints
   - Áedán Anglicized forms include Aidan and Edan
 categories:
-  - Person
   - Place
+  - Person
 entities:
   - Áedán(Person)
   - Iona(Place)

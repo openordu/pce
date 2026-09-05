@@ -8,9 +8,9 @@ attributes:
   - féth fiada cross-reference to Druid's Fog
   - féth fiada carries variant forms feth fìadha, fé fiada, and faeth fiadha
 categories:
-  - Person
   - Concept
   - concept
+  - Person
 entities:
   - féth fiada(concept)
   - Druid's Fog(concept)

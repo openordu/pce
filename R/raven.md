@@ -12,9 +12,9 @@ attributes:
   - Noísiu man who answered the wish
   - raven MacKillop pointer to crow for the wider corvid record
 categories:
-  - Animal
   - animal
   - character
+  - Animal
 entities:
   - raven(animal)
   - the woman(character)

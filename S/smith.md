@@ -15,10 +15,10 @@ attributes:
   - Goibniu forged the spear that Lug Lámfhota drove through Balor's eye
   - Goibniu his spear-points always strike a fatal wound
 categories:
-  - Concept
-  - God
   - Tribe
+  - Concept
   - Role
+  - God
   - Being
 entities:
   - smith(Role)

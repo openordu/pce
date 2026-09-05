@@ -13,8 +13,8 @@ attributes:
   - glastig left if given no milk, drying up the supply as punishment
   - glastig Variant spelling of glaistig in MacKillop's Dictionary of Celtic Mythology
 categories:
-  - Being
   - Animal
+  - Being
 entities:
   - glastig(Being)
   - Brownie(Being)

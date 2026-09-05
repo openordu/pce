@@ -7,9 +7,9 @@ contributors: [ 'Christopher Godwin' ]
 attributes:
   - téte brec MacKillop cross-ref to the Concobar mac Nessa legend; twinkling-hoard byname
 categories:
-  - Person
   - Concept
   - Place
+  - Person
 entities:
   - téte brec(Concept)
   - Concobar mac Nessa(Person)

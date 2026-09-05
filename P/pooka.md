@@ -14,10 +14,10 @@ attributes:
   - Harvey 1944 Broadway comedy by Mary Chase whose unseen rabbit is identified as a pooka
   - pooka linked etymologically to Old Norse Puki
 categories:
-  - Person
-  - Being
   - Concept
   - Place
+  - Person
+  - Being
 entities:
   - pooka(Being)
   - Munster(Place)

@@ -17,9 +17,9 @@ attributes:
   - Cornish bucca gwyn literally white hobgoblin, the Cornish word for ghost
   - Breton teuz the Breton word for ghost
 categories:
-  - Being
-  - Group
   - Place
+  - Group
+  - Being
 entities:
   - ghost(Being)
   - Fairies(Group)

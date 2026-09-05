@@ -17,11 +17,11 @@ attributes:
   - Áed spawned more than twelve family names, with Hay, Hayes, Ó hAodha, Hughes, McHugh, McCue, and MacKay among them
 categories:
   - location
-  - mythological figure
   - person
   - Concept
-  - hero
+  - mythological figure
   - event
+  - hero
   - concept
 entities:
   - Áed(hero)

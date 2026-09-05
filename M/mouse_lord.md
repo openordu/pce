@@ -7,8 +7,8 @@ contributors: [ 'Christopher Godwin' ]
 attributes:
   - mouse lord MacKillop see-ref pointing to luchtigern
 categories:
-  - Being
   - Concept
+  - Being
 entities:
   - mouse lord(Concept)
   - luchtigern(Being)

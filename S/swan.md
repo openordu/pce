@@ -12,10 +12,10 @@ attributes:
   - Shannon City emerges once each seven years and dooms to death any mortal who sees it
   - Lancarrow Cornish sunken city that lies beneath the sands
 categories:
-  - Person
-  - Being
   - Concept
   - Place
+  - Person
+  - Being
 entities:
   - swan(Being)
   - seal(Being)

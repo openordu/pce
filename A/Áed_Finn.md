@@ -7,9 +7,9 @@ contributors: [ 'Christopher Godwin' ]
 attributes:
   - Áed Finn Author of the Voyage of Máel Dúin's Boat; king of Dál Riada
 categories:
-  - Person
   - Place
   - Text
+  - Person
 entities:
   - Áed Finn(Person)
   - Imram Curaig Maile Dúin(Text)

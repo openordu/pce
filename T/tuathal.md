@@ -9,9 +9,9 @@ attributes:
   - Tuathal (high king) an early Irish high king who warred on Leinster and imposed the Borama tribute
   - Borama an annual tribute of five thousand cows, sheep, hogs, and cloaks levied on Leinster
 categories:
-  - Person
   - Concept
   - Place
+  - Person
 entities:
   - tuathal(Concept)
   - Deosil(Concept)

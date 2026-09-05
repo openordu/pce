@@ -8,8 +8,8 @@ attributes:
   - glaistig Malevolent solitary female fairy haunting lonely pools in Scottish Gaelic tradition
   - glaistig Sometimes half-woman, half-goat; may appear as beautiful woman
 categories:
-  - Being
   - Concept
+  - Being
 entities:
   - glaistig(Being)
   - glaestig(Being)

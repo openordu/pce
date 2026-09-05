@@ -17,11 +17,11 @@ attributes:
   - Nemeton medieval sacred forest near Locronan
   - Nemeton later site of a Benedictine priory in south-western Brittany
 categories:
-  - being
-  - place
-  - artifact
   - word
+  - artifact
   - group
+  - place
+  - being
 entities:
   - nemeton(word)
   - nemos(word)

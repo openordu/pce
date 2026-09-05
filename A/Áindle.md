@@ -7,8 +7,8 @@ contributors: [ 'Christopher Godwin' ]
 attributes:
   - Áindle Old Irish spelling of Ainnle; pointer to Ainnle headword
 categories:
-  - Person
   - Language
+  - Person
 entities:
   - Áindle(Person)
   - Ainnle(Person)

@@ -13,9 +13,9 @@ attributes:
   - liss the bounded ground around an ancient dwelling, ringed by a rampart
   - liss in oral tradition serves as one of several words for a fairy fort
 categories:
-  - Person
   - Concept
   - Text
+  - Person
 entities:
   - Slissima(Person)
   - Cuchullin(Person)

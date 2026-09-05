@@ -14,13 +14,13 @@ attributes:
   - Glastonbury called Ynys Wydrin, Ynys Gutrin, or Ynys Witrin in Welsh, meaning glass island
   - druid’s glass named glaine in Old Irish, gloine in Modern Irish, glaine in Scottish Gaelic, giess in Manx, gwydr in Welsh, gweder in Cornish, gwer in Breton
 categories:
-  - Concept
-  - Artifact
   - Tribe
   - Person
-  - Group
+  - Concept
+  - Artifact
   - Place
   - Being
+  - Group
 entities:
   - serpent stone(Artifact)
   - druid’s glass(Artifact)

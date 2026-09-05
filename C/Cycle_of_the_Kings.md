@@ -22,10 +22,10 @@ attributes:
   - Elen Welsh-born St Helen in pious medieval legend
   - Constantine the Great 3rd-century Christian emperor named as grandson of Coel Hen
 categories:
-  - Person
-  - concept
   - group
   - Place
+  - concept
+  - Person
 entities:
   - Cycle of the Kings(concept)
   - Historical Cycle(concept)

@@ -32,12 +32,12 @@ attributes:
   - Mór Muman a goddess of the Érainn before becoming the territorial goddess of Munster
 categories:
   - person
-  - mythological figure
-  - being
   - artifact
-  - place
   - group
+  - mythological figure
   - people
+  - place
+  - being
 entities:
   - Érainn(group)
   - Celts(people)

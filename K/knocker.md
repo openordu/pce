@@ -17,10 +17,10 @@ attributes:
   - knocker stays out of sight of humans and cannot endure the sign of the Cross
   - knocker logged under folk motifs F456, F456.1.1, F456.1.1.1, F456.1.2.1.1, F456.1.2.2.1, and M242
 categories:
-  - location
-  - Being
   - place
+  - location
   - mythological creature
+  - Being
 entities:
   - knocker(mythological creature)
   - mine(location)

@@ -7,8 +7,8 @@ contributors: [ 'Christopher Godwin' ]
 attributes:
   - Éirne Legendary princess; eponym of the Erne waterway
 categories:
-  - Person
   - Place
+  - Person
 entities:
   - Éirne(Person)
   - Búrc Búiredach(Person)

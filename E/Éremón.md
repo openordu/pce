@@ -44,11 +44,11 @@ attributes:
   - Georges Dumézil scholar (1898–1986) who read Éremón as the north man holding the whole island and kingship
   - Le Troisième Souverain Dumézil's 1949 work (Paris), pages 167–86, on Éremón's holding of the whole island and kingship
 categories:
-  - person
   - Person
-  - place
+  - person
   - artifact
   - group
+  - place
   - Place
 entities:
   - Eremon(person)

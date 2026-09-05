@@ -24,17 +24,17 @@ attributes:
   - rowan twigs made into crosh cuim hung over doorways and tucked into the long tails of cattle on the Isle of Man
   - rowan Manx folk carried boughs at Beltaine May Day rites
 categories:
-  - person
+  - animal
   - location
-  - Concept
-  - Artifact
   - Tribe
+  - person
+  - mythological creature
+  - Concept
   - Person
+  - Artifact
   - plant
   - Place
   - Being
-  - animal
-  - mythological creature
 entities:
   - rowan(plant)
   - mountain ash(plant)

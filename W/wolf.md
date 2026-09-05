@@ -7,8 +7,8 @@ contributors: [ 'Christopher Godwin' ]
 attributes:
   - wolf MacKillop cross-reference to the animals headword
 categories:
-  - Animal
   - Concept
+  - Animal
 entities:
   - wolf(Animal)
   - animals(Concept)

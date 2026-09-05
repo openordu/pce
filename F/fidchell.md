@@ -16,11 +16,11 @@ attributes:
   - fithchill variant spelling of fidchell recorded by MacKillop
   - fidchell MacWhite surveyed the family of games in Eigse in 1945
 categories:
+  - Text
+  - Person
   - person
   - Concept
-  - Person
   - place
-  - Text
   - concept
 entities:
   - fidhell(concept)

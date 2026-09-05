@@ -18,12 +18,12 @@ attributes:
   - Richard Powers novelist who wrote a 1969 book titled The Hungry Grass, issued in London and New York
   - hungry grass cross-reference to MacKillop's fóidín mearaí entry
 categories:
-  - Concept
-  - Artifact
-  - Person
   - Being
-  - Place
+  - Person
+  - Concept
   - Animal
+  - Place
+  - Artifact
   - Event
 entities:
   - hungry grass(Place)

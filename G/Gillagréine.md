@@ -14,9 +14,9 @@ attributes:
   - gilla from the tenth century on used as the first element in masculine proper names such as Gilla Cóemáin and Gilla Crist
   - Gillagréine her name follows the gilla plus gréine pattern, naming the goddess as servant or daughter of the sun
 categories:
-  - Person
-  - Place
   - Deity
+  - Place
+  - Person
 entities:
   - Gillagréine(Deity)
   - Lough Gréine(Place)

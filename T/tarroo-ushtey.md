@@ -12,10 +12,10 @@ attributes:
   - tarroo-ushtey frequents swamps and shallow water and at times walks the fields beside farm cattle
   - tarroo-ushtey judged less malign than the cabyll-ushtey of the same island
 categories:
-  - Being
   - Concept
   - Plant
   - Place
+  - Being
 entities:
   - tarroo-ushtey(Being)
   - rowan(Plant)

@@ -7,10 +7,10 @@ contributors: [ 'Christopher Godwin' ]
 attributes:
   - Éamonn an Chnuic Tipperary folk-tale rapparee; Edmund Ryan of the Hill
 categories:
-  - Person
   - Concept
-  - Event
   - Place
+  - Person
+  - Event
 entities:
   - Éamonn an Chnuic(Person)
   - Edmund Ryan(Person)

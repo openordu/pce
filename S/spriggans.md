@@ -16,8 +16,8 @@ attributes:
   - spriggans may abduct children like the piskies
 categories:
   - Thing
-  - Being
   - Place
+  - Being
 entities:
   - spriggans(Being)
   - Cornwall(Place)

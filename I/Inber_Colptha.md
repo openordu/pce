@@ -9,10 +9,10 @@ attributes:
   - Inber Colptha named with an inber word that belongs to a large family of Irish river-mouth place-names
   - Inber Colptha spelled indber as an alternate Old Irish form of the river-mouth word
 categories:
-  - Work
   - Concept
-  - Group
   - Place
+  - Work
+  - Group
 entities:
   - Inber Colptha(Place)
   - Boyne(Place)

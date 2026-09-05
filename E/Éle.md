@@ -14,11 +14,11 @@ attributes:
   - Macsen Wledig raised an army from fourth century Britain to take Rome
   - Macsen Wledig dreamed of Elen after winning the empire
 categories:
+  - Person
+  - group
+  - god
   - mythological figure
   - Artifact
-  - Person
-  - god
-  - group
 entities:
   - Éle(mythological figure)
   - Medb(god)

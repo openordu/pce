@@ -22,10 +22,10 @@ attributes:
   - vough some Scottish families claimed descent from it
   - brollachan indexed under international tale type 1137
 categories:
-  - Being
   - Concept
   - Creature
   - Place
+  - Being
 entities:
   - brollachan(Creature)
   - vough(Creature)

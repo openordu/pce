@@ -7,8 +7,8 @@ contributors: [ 'Christopher Godwin' ]
 attributes:
   - geancánach Irish form of the love-token spirit ganconer
 categories:
-  - Being
   - Concept
+  - Being
 entities:
   - geancánach(Concept)
   - ganconer(Being)

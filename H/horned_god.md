@@ -7,9 +7,9 @@ contributors: [ 'Christopher Godwin' ]
 attributes:
   - horned god Celtic horned deity; pointer to the Cernunnos headword
 categories:
+  - Concept
   - Thing
   - Being
-  - Concept
 entities:
   - horned god(Concept)
   - Cernunnos(Being)

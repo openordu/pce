@@ -19,13 +19,13 @@ attributes:
   - hazel in Fenian legends a leafless hazel stood as evil, dripping poisonous milk and giving a home to vultures
   - hazel across Ireland and Wales a fairy tree, its wood sacred to poets and so a forbidden fuel on any hearth
 categories:
+  - Person
   - Concept
   - Plant
-  - Person
+  - Animal
+  - Place
   - Being
   - Group
-  - Place
-  - Animal
 entities:
   - hazel(Plant)
   - Corylus(Concept)

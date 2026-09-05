@@ -8,8 +8,8 @@ attributes:
   - sunwise turn Sun-following ritual circumambulation; brings good fortune, wards off evil
 categories:
   - Concept
-  - Character
   - Text
+  - Character
 entities:
   - sunwise turn(Concept)
   - Medb(Character)

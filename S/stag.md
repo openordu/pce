@@ -26,9 +26,9 @@ attributes:
   - Hyddwn Welsh little stag, son of Gilfaethwy and Gwydion
   - Stag of Rhedynfre supernatural speaking stag who aids Culhwch in Culhwch ac Olwen
 categories:
+  - Place
   - Person
   - Being
-  - Place
 entities:
   - stag(Being)
   - deer(Being)

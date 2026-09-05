@@ -7,10 +7,10 @@ contributors: [ 'Christopher Godwin' ]
 attributes:
   - flood International flood theme (motif A1010-22) in Celtic literatures
 categories:
-  - Person
   - Concept
-  - Place
   - Text
+  - Place
+  - Person
 entities:
   - flood(Concept)
   - Fintan mac Bóchra(Person)

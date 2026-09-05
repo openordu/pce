@@ -15,9 +15,9 @@ attributes:
   - gwartheg y llyn usually thought milk-white themselves
   - gwartheg y llyn when joined to an earthly herd brought top milk, fine cream, and rich butter
 categories:
-  - Animal
-  - Group
   - Place
+  - Group
+  - Animal
 entities:
   - gwartheg y llyn(Animal)
   - Plant Annwn(Group)

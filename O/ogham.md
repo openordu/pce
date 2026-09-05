@@ -27,10 +27,10 @@ attributes:
   - South Wales received settlers from southern Ireland including the Déisi
   - Welsh ogham stones sometimes paired with Brythonic-Latin inscriptions
 categories:
-  - place
-  - artifact
   - word
+  - artifact
   - group
+  - place
   - concept
 entities:
   - ogham(concept)

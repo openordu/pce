@@ -13,12 +13,12 @@ attributes:
   - Llion may possibly link with the Welsh lake named Efala, per MacKillop loch entry
   - Ailill Ochair Ága MacKillop places him inside the same Celtic lake-and-loch lore that includes the Loch Ness Monster
 categories:
-  - Text
   - Hero
-  - Character
-  - Group
+  - Text
   - Place
   - Being
+  - Group
+  - Character
 entities:
   - Ailill Ochair Ága(Character)
   - Máel Dúin(Hero)

@@ -9,8 +9,8 @@ attributes:
   - withershins Celtic cognates: OIr túaithbel, ModIr tuathal, ScG tuathal
   - withershins Antonym of the sunwise turn
 categories:
-  - Language
   - Concept
+  - Language
 entities:
   - withershins(Concept)
   - túaithbel(Concept)

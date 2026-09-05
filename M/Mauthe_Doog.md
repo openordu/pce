@@ -12,10 +12,10 @@ attributes:
   - Mauthe Doog place-by-place form of moddey dhoo, the famous black hound of Manx tradition
   - Mauthe Doog spelling made use of by Sir Walter Scott in Lay of the Last Minstrel, sixth canto of 1805
 categories:
-  - Person
-  - Being
   - Concept
   - Artifact
+  - Person
+  - Being
 entities:
   - Mauthe Doog(Being)
   - Black Dog(Being)

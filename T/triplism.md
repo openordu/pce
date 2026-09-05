@@ -9,10 +9,10 @@ attributes:
   - triplism Tripartite society: farmers, warriors, clergy (Dumézil)
   - triplism Vendryes thesis: dominant personality plus two ciphers
 categories:
-  - Person
-  - Being
   - Concept
   - Text
+  - Person
+  - Being
 entities:
   - triplism(Concept)
   - Pythagoras(Person)

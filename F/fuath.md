@@ -12,9 +12,9 @@ attributes:
   - fuath mother of the brollachan
   - vough phonetic anglicization of fuath
 categories:
-  - Being
-  - mythological figure
   - Place
+  - mythological figure
+  - Being
 entities:
   - fuath(mythological figure)
   - Vough(mythological figure)

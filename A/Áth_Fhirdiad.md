@@ -7,8 +7,8 @@ contributors: [ 'Christopher Godwin' ]
 attributes:
   - Áth Fhirdiad Ford of the River Dee in County Louth; site of the Cúchulainn-Ferdia combat
 categories:
-  - Person
   - Place
+  - Person
   - Text
 entities:
   - Áth Fhirdiad(Place)

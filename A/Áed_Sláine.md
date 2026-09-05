@@ -7,8 +7,8 @@ contributors: [ 'Christopher Godwin' ]
 attributes:
   - Áed Sláine Tara high king c. 600; son of the territorial goddess Mugain Mór
 categories:
-  - Person
   - Place
+  - Person
 entities:
   - Áed Sláine(Person)
   - Tara(Place)

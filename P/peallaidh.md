@@ -7,8 +7,8 @@ contributors: [ 'Christopher Godwin' ]
 attributes:
   - peallaidh Scottish Gaelic water-haunting spirit associated with Aberfeldy
 categories:
-  - Being
   - Place
+  - Being
 entities:
   - peallaidh(Being)
   - ùruisg(Being)

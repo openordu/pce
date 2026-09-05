@@ -7,8 +7,8 @@ contributors: [ 'Christopher Godwin' ]
 attributes:
   - glain nadredd Welsh and Breton term for the magical adder stone
 categories:
-  - Thing
   - Concept
+  - Thing
 entities:
   - glain nadredd(Concept)
   - adder stone(Thing)

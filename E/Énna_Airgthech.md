@@ -8,8 +8,8 @@ attributes:
   - Énna Airgthech Legendary king of Munster; introduced silver shields
   - Énna Airgthech Shields produced near Rathbeagh on the River Nore
 categories:
-  - Person
   - Place
+  - Person
 entities:
   - Énna Airgthech(Person)
   - Munster(Place)

@@ -7,9 +7,9 @@ contributors: [ 'Christopher Godwin' ]
 attributes:
   - suileach Multi-eyed sea-monster of Lough Swilly; dispatched by St Colum Cille
 categories:
+  - Place
   - Person
   - Being
-  - Place
 entities:
   - suileach(Being)
   - Lough Swilly(Place)

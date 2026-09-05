@@ -10,8 +10,8 @@ attributes:
   - Sidhe the Irish name for this fairy folk
   - fairy folk called Ny Shee in Manx and Sidhe in Irish
 categories:
-  - mythological figure
   - place
+  - mythological figure
   - mythological creature
 entities:
   - Ny Shee(mythological figure)

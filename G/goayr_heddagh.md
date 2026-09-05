@@ -12,9 +12,9 @@ attributes:
   - goayr heddagh recorded in nineteenth-century folkloric accounts
   - goayr heddagh resembles a caprine specter rather than a living animal
 categories:
-  - Being
-  - Group
   - Place
+  - Group
+  - Being
 entities:
   - goayr heddagh(Being)
   - Isle of Man(Place)

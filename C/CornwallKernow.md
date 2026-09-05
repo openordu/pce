@@ -13,12 +13,12 @@ attributes:
   - chough a bird used as an emblem of Cornish cultural identity
   - kern MacKillop entry covering kern and kerne as anglicizations of the Celtic term ceithem
 categories:
+  - Creature
+  - Person
   - Language
   - Concept
-  - Person
-  - Creature
-  - Group
   - Place
+  - Group
 entities:
   - Cornwall(Place)
   - Cornish(Language)

@@ -9,8 +9,8 @@ attributes:
   - Áed Ruad Ruled Ireland for seven years in a 21-year joint reign
   - Áed Ruad Drowned in the Assaroe waterfall at Eas Ruaidh
 categories:
-  - Person
   - Place
+  - Person
 entities:
   - Áed Ruad(Person)
   - Macha(Person)

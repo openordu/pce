@@ -12,10 +12,10 @@ attributes:
   - salmon the most notable Celtic sea creature named in MacKillop
   - Jasconius the whale on which St Brendan and his followers landed
 categories:
-  - Person
-  - place
   - Thing
+  - Person
   - event
+  - place
   - Being
   - concept
 entities:

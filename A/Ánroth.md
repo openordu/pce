@@ -10,9 +10,9 @@ attributes:
   - Ánroth Key figure in Éoganacht royal myth
   - Ánroth Key figure in Éoganacht royal myth
 categories:
-  - Person
-  - Tribe
   - Text
+  - Tribe
+  - Person
 entities:
   - Ánroth(Person)
   - Éoganacht(Tribe)

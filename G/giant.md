@@ -17,10 +17,10 @@ attributes:
   - Fomorians treated as giants in pseudo-history and named in the Irish form Clochan na bhFómharach as the causeway's makers
   - Giant's Causeway more than forty thousand basaltic columns on the north shore of County Antrim, two and a half miles north-east of Bushmills
 categories:
-  - Tribe
-  - Deity
-  - Person
   - Creature
+  - Tribe
+  - Person
+  - Deity
   - Place
 entities:
   - giant(Creature)

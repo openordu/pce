@@ -13,10 +13,10 @@ attributes:
   - Heffernan, Carol T. author of a 1982 Eire-Ireland study of the early Irish pursuit of the Gilla Decair
   - Krappe, A. H. author of a 1932 Revue Celtique article on the Gilla Dacker and the Celtic Dioscuri
 categories:
+  - Person
   - Concept
   - Plant
   - Artifact
-  - Person
   - Group
 entities:
   - tree(Concept)

@@ -27,14 +27,14 @@ attributes:
   - fosterage Christian-era fosterage added revealed belief and classical languages
   - fosterage a former foster child served as an ally in maturity
 categories:
-  - person
-  - hero
-  - Role
-  - text
-  - place
-  - term
   - Text
+  - person
+  - Role
+  - place
+  - text
   - Place
+  - term
+  - hero
   - role
   - concept
 entities:

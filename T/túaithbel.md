@@ -7,8 +7,8 @@ contributors: [ 'Christopher Godwin' ]
 attributes:
   - túaithbel Old Irish word for withershins; pointer to withershins headword
 categories:
-  - Language
   - Concept
+  - Language
 entities:
   - túaithbel(Concept)
   - withershins(Concept)

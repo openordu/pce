@@ -9,8 +9,8 @@ attributes:
   - Énna Patron of Pearse's Saint Enda's school, founded 1908
   - Énna Travelled to Rome; founded churches in the Boyne valley
 categories:
-  - Person
   - Place
+  - Person
 entities:
   - Énna(Person)
   - Saint Fanchea(Person)
