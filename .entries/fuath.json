@@ -4,6 +4,26 @@
     {
       "entity": "fuath",
       "attribute": "a cross-reference directing to Vough"
+    },
+    {
+      "entity": "fuath",
+      "attribute": "spectral monster of Highland Gaelic folklore tied to water"
+    },
+    {
+      "entity": "fuath",
+      "attribute": "Scottish Gaelic etymology hatred or aversion"
+    },
+    {
+      "entity": "fuath",
+      "attribute": "Old Irish cognate fuath for hate and likeness"
+    },
+    {
+      "entity": "fuath",
+      "attribute": "mother of the brollachan"
+    },
+    {
+      "entity": "vough",
+      "attribute": "phonetic anglicization of fuath"
     }
   ],
   "entities": [
@@ -14,24 +34,69 @@
     {
       "entity": "Vough",
       "type": "mythological figure"
+    },
+    {
+      "entity": "arrachd",
+      "type": "Being"
+    },
+    {
+      "entity": "fuath-arrachd",
+      "type": "Being"
+    },
+    {
+      "entity": "brollachan",
+      "type": "Being"
+    },
+    {
+      "entity": "beithir",
+      "type": "Being"
+    },
+    {
+      "entity": "fideal",
+      "type": "Being"
+    },
+    {
+      "entity": "peallaidh",
+      "type": "Being"
+    },
+    {
+      "entity": "ùruisg",
+      "type": "Being"
+    },
+    {
+      "entity": "Highland",
+      "type": "Place"
+    },
+    {
+      "entity": "arrach",
+      "type": "Being"
+    },
+    {
+      "entity": "glastig",
+      "type": "Being"
     }
   ],
   "sources": [
-    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.",
+    "MacKillop 2008, s.v. 'fuath'"
   ],
   "image": [
     "https://upload.wikimedia.org/wikipedia/commons/2/2d/Colum-KOIS%28Holt1916%29-Pogany-illustr-p095-fua%28water_creature%29.png"
   ],
   "cyphertext": "lJ_tS5-yFM4a5vnsrCtKjYiUnrFt-4W7AUlmXOftFwH3yb_hs8iWIfLdGl-1",
   "salt": "vFYsWbv5jBanE6zSVAK2IA==",
-  "text": "fuath is a cross-reference entry. The entry directs the reader to the separate article on Vough. The source gives no further detail under this heading.",
+  "text": "The fuath names a group of spirit beings drawn from Highland Gaelic folk tradition. The Scottish Gaelic root carries the sense of aversion. Old Irish attests a cognate form for hate and likeness. These beings most often haunt waters, lochs, rivers, and the open sea. Some sources call the same beings arrachd or fuath-arrachd. A fuath gives birth to the brollachan. The Highland varieties include the beithir, the fideal, the peallaidh, and the ùruisg. The spelling vough is a phonetic anglicization. Related figures appear under arrach and glastig. Folklorists list motifs F420.5.2 and F470.",
   "okr": {
-    "objective": "the fuath entry directs the reader to the Vough article.",
+    "objective": "Anchor fuath as a Highland Gaelic water-monster class with subspecies and folk motifs.",
     "key_results": [
-      "fuath is a cross-reference entry.",
-      "The entry sends the reader to Vough.",
-      "The source gives no further detail on fuath."
+      "Give the Scottish Gaelic etymology for fuath.",
+      "Name water, lochs, rivers, and the sea as the fuath haunts.",
+      "Record arrachd and fuath-arrachd as alternate names.",
+      "List beithir, fideal, peallaidh, and ùruisg as subspecies.",
+      "Note the brollachan as the offspring of a fuath.",
+      "Mark vough as a phonetic anglicization.",
+      "Assign folk motifs F420.5.2 and F470."
     ],
-    "evidence": "Monaghan, Encyclopedia of Celtic Mythology and Folklore"
+    "evidence": "MacKillop 2008, s.v. 'fuath'"
   }
 }

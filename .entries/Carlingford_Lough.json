@@ -1,6 +1,6 @@
 {
   "name": "Carlingford Lough",
-  "text": "Carlingford Lough is a sea inlet of striking size. It runs ten miles long and two miles wide. The water separates County Down from County Louth. Down lies in Northern Ireland, Louth in the Republic. Dundalk stands nine miles to the southwest. Much of the great Cattle Raid of Cooley unfolds on this water. The Newry Canal links the lough to Lough Neagh. The town of Carlingford sits on the southern shore of Louth.",
+  "text": "Carlingford Lough is a sea inlet of striking size. It runs ten miles long and two miles wide. The water separates County Down from County Louth. Down lies in Northern Ireland, Louth in the Republic. Dundalk stands nine miles to the southwest. Much of the great Cattle Raid of Cooley unfolds on this water. The Newry Canal links the lough to Lough Neagh. The town of Carlingford sits on the southern shore of Louth. Shallow river crossings mattered to the early Celts before ferries and bridges came. Ritona stood among the Continental Celtic goddesses of river crossings and was honoured at Trier in modern Germany. Clashes at fords appear in old tales. A fight between Cuchulainn and Ferdiad in the Tain Bo Cuailnge stands as the chief of them. Irish and Scottish Gaelic folklore also knows the washer at the ford.",
   "entities": [
     {
       "entity": "Táin bó Cuailnge (Cattle Raid of Cooley)",
@@ -9,6 +9,18 @@
     {
       "entity": "Lough Neagh",
       "type": "Place"
+    },
+    {
+      "entity": "Ritona",
+      "type": "Being"
+    },
+    {
+      "entity": "Trier",
+      "type": "Place"
+    },
+    {
+      "entity": "washer at the ford",
+      "type": "Being"
     }
   ],
   "attributes": [
@@ -27,16 +39,31 @@
     {
       "entity": "Carlingford",
       "attribute": "town standing on the south shore"
+    },
+    {
+      "entity": "Ritona",
+      "attribute": "Continental Celtic goddess of fords honoured at Trier"
+    },
+    {
+      "entity": "washer at the ford",
+      "attribute": "spectral figure of Irish and Scottish Gaelic folklore"
+    },
+    {
+      "entity": "Carlingford Lough",
+      "attribute": "site of the Cuchulainn-Ferdiad ford combat within the Tain Bo Cuailnge"
     }
   ],
   "okr": {
-    "objective": "Record Carlingford Lough as the sea inlet known through the Cattle Raid of Cooley.",
+    "objective": "Anchor Carlingford Lough and the ford tradition in one node.",
     "key_results": [
-      "Give the length and width of Carlingford Lough",
-      "Place it between two counties beside Dundalk",
-      "Connect it to the Tain and to Lough Neagh"
+      "Give the length and width of Carlingford Lough.",
+      "Place it between two counties beside Dundalk.",
+      "Connect it to the Tain and to Lough Neagh.",
+      "Record Ritona as the Continental goddess of fords at Trier.",
+      "Mark the Cuchulainn and Ferdiad ford fight within the Tain.",
+      "Note the washer at the ford of Gaelic folklore."
     ],
-    "evidence": "MacKillop 2008, s.v. 'Carlingford Lough'."
+    "evidence": "MacKillop 2008, s.v. 'ford'"
   },
   "image": [],
   "cyphertext": "",

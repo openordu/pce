@@ -32,6 +32,14 @@
     {
       "entity": "fidchell",
       "attribute": "linked to Munster and akin to brandub, buanfach, and gwyddbwyll"
+    },
+    {
+      "entity": "fithchill",
+      "attribute": "variant spelling of fidchell recorded by MacKillop"
+    },
+    {
+      "entity": "fidchell",
+      "attribute": "MacWhite surveyed the family of games in Eigse in 1945"
     }
   ],
   "entities": [
@@ -82,6 +90,18 @@
     {
       "entity": "gwyddbwyll",
       "type": "concept"
+    },
+    {
+      "entity": "fithchill",
+      "type": "Concept"
+    },
+    {
+      "entity": "Eoin MacWhite",
+      "type": "Person"
+    },
+    {
+      "entity": "Eigse",
+      "type": "Text"
     }
   ],
   "sources": [
@@ -90,9 +110,9 @@
   ],
   "cyphertext": "yAYUL2g8US4IPJurFRFKIsMRx7sA6WL0R3SSVwjrDHlNS2BW1hUwbu9Jw8TcrVKYulZc3ZKwpE5XmRm0FjFZkknc52OvOSJ0_i8ew4Nl2CNUQVEn_Dtwg3SBW0zFi--Le1CGhlp5-Zgyyq_ESe2opE4JjkIa0RQo21DqFzGIKG1OgwBiTPZcKV5nXlLGkq8CWFkw8qQ0oVosLHxmW1IN2I8_a_ztHlrFnGRiNsj9_wkraXe9H5GsK7zfxmzwCBNGDo5BtWH0ouHNa3Y_O1_XO_338INJ330ie-pjRoT0x6nBd034PqcL3OKtZ4fxldlBZ9f7VOL-1RKsfe3rtAMcGhUDtW3pPg1JiNedsyQ_sSvR7NNJRq8AFhYo73OyFKEUESwBz4ssY714JaSkx-9MnkioqSvT6Noh1qvnUpaG5nmDO-RdlJd1f9Eb9Z7Kqop7keKtwGaUOlvnpbVCghO-BBIEMnIycfZJWSrx74PrJ0A77Pqkx91PlerugH6Jase0MUoMadjL7ezQWe6-pZenJtfJZl77_sZE1NVLMA9pFRz99EU0yKSmqXXS1rByGBXw8td2cN_qDQcMtSEo1j-a9LPSGbaQSqk5F9N6mYV3LDmoHm_64ZLLBWd-QQpvIxufqqsjFlAastGjZeA-KjbZyhMdP9MY_CsMMdmI0YC1_myhd9fma-g6L-nnwVuY3UWQVzebngglHpBtRw2jdDv73U7Y_g0=",
   "salt": "PyGl9KNXpA02bpDQHGOzkQ==",
-  "text": "Fidchell is an ancient Irish game. Sources record the spellings fidhcheall and fithchill. The name means wood wisdom or wood intelligence, so the pegs likely were cut of wood. The game resembled cribbage, with pegs moved about a board. MacKillop calls fidchell an early Irish board game, close to chess but distinct from it. No precise account of play survives, but allusions to fidchell abound in story. Players faced each other across a square board. Writers called the pieces smooth, speckled, and peaked, and players pegged them into rows. The main object was capturing the pieces of an opponent, sometimes their complete annihilation. People played fidchell for amusement, and they also played for high stakes, as in the Wooing of Etain. Legend credited Lug Lamfhota with inventing fidchell. It named Cuchulainn a recognized champion. The tradition calls fidchell a game of kings and ties it to Munster. Similar games include brandub, buanfach, and the Welsh gwyddbwyll. Midir, king of the Otherworld, wagered against Eochaid Airem, king of Tara, with queen Etain as the prize. No game board has been found. Eoin MacWhite surveyed these games in Eigse in 1945.",
+  "text": "Fidchell is an ancient Irish game. Sources record the spellings fidhcheall and fithchill. The name means wood wisdom or wood intelligence, so the pegs likely were cut of wood. The game resembled cribbage, with pegs moved about a board. MacKillop calls fidchell an early Irish board game, close to chess but distinct from it. No precise account of play survives, but allusions to fidchell abound in story. Players faced each other across a square board. Writers called the pieces smooth, speckled, and peaked, and players pegged them into rows. The main object was capturing the pieces of an opponent, sometimes their complete annihilation. People played fidchell for amusement, and they also played for high stakes, as in the Wooing of Etain. Legend credited Lug Lamfhota with inventing fidchell. It named Cuchulainn a recognized champion. The tradition calls fidchell a game of kings and ties it to Munster. Similar games include brandub, buanfach, and the Welsh gwyddbwyll. Midir, king of the Otherworld, wagered against Eochaid Airem, king of Tara, with queen Etain as the prize. No game board has been found. Eoin MacWhite surveyed these games in Eigse in 1945. MacKillop enters fithchill as a variant spelling of fidchell.",
   "okr": {
-    "objective": "Fidchell is an early Irish board game of kings known through story allusion rather than any surviving board.",
+    "objective": "Fidchell is an early Irish board game of kings with the variant spelling fithchill.",
     "key_results": [
       "Fidchell resembled cribbage and stayed distinct from chess.",
       "The name means wood wisdom or wood intelligence.",
@@ -100,8 +120,9 @@
       "Lug Lamfhota invented fidchell and Cuchulainn was a champion.",
       "Midir wagered against Eochaid Airem for queen Etain.",
       "Brandub, buanfach, and gwyddbwyll were comparable games.",
-      "No game board has been found."
+      "No game board has been found.",
+      "Fithchill stands as a variant spelling of fidchell in the same dictionary."
     ],
-    "evidence": "MacKillop 2008, s.v. 'fidchell'"
+    "evidence": "MacKillop 2008, s.v. 'fithchill'"
   }
 }
