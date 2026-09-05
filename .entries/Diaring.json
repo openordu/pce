@@ -1,0 +1,29 @@
+{
+    "name": "Diaring",
+    "attributes": {
+        "category": "onomastics",
+        "domain": "ireland",
+        "associations": ["spelling variant", "Diorruing", "Fianna"]
+    },
+    "entities": [
+        {"name": "Diaring", "type": "Name"},
+        {"name": "Diorruing", "type": "Person"}
+    ],
+    "sources": [
+        "MacKillop 2008, s.v. 'Diaring'."
+    ],
+    "cyphertext": "",
+    "salt": "",
+    "image": [],
+    "text": "Diaring is a variant spelling of the name Diorruing. The dictionary lists Diaring as a spelling only. It sends readers onward to the Diorruing entry. Diorruing is the Fenian attendant of Fionn mac Cumhaill. He is the clairvoyant among Fionn's retinue. Diaring is the older or alternate form of the same name. Scholars treat Diaring and Diorruing as the same figure. The Diaring form appears chiefly in early manuscripts. The Diorruing form is the standard modern spelling. Either form names the same attendant in the Fenian Cycle. See the Diorruing entry for the full record.",
+    "okr": {
+        "objective": "Diaring as a manuscript spelling variant of the Fenian name Diorruing.",
+        "key_results": [
+            "Diaring is a variant spelling of Diorruing.",
+            "The dictionary treats it as a cross-reference.",
+            "Diorruing is the clairvoyant Fenian attendant of Fionn mac Cumhaill.",
+            "The Diaring form is older; Diorruing is the standard modern spelling."
+        ],
+        "evidence": "MacKillop 2008, s.v. 'Diaring'"
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "name": "Dialogue of the Elders",
+    "attributes": {
+        "category": "literature",
+        "domain": "ireland",
+        "associations": ["see-ref", "Acallam na Senórach", "tales of the Elders"]
+    },
+    "entities": [
+        {"name": "Dialogue of the Elders", "type": "Tale title"},
+        {"name": "Acallam na Senórach", "type": "Tale"}
+    ],
+    "sources": [
+        "MacKillop 2008, s.v. 'Dialogue of the Elders'."
+    ],
+    "cyphertext": "",
+    "salt": "",
+    "image": [],
+    "text": "Dialogue of the Elders is a title under which some readers seek an early Irish text. The dictionary treats the title as a cross-reference. Readers looking for Dialogue of the Elders are sent to the Acallam na Senórach. Acallam na Senórach is the standard scholarly title. The English phrase Dialogue of the Elders is a loose translation. The Irish title names the tales told by the aged survivors of the Fianna. Cáilte mac Rónáin and Oisín are the chief speakers. The setting places the speakers in the centuries after the battle of Gabhair. Scholars treat Dialogue of the Elders as a useful English gloss. The proper entry is the Acallam.",
+    "okr": {
+        "objective": "Dialogue of the Elders as an English see-reference pointing to the Acallam na Senórach.",
+        "key_results": [
+            "Dialogue of the Elders is an English gloss on the Acallam na Senórach.",
+            "The dictionary treats it as a cross-reference.",
+            "The Acallam is the scholarly title for the tales of the aged Fianna.",
+            "Cáilte and Oisín are the chief speakers of the Acallam."
+        ],
+        "evidence": "MacKillop 2008, s.v. 'Dialogue of the Elders'"
+    }
+}

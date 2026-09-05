@@ -1,0 +1,31 @@
+{
+    "name": "Destructions",
+    "attributes": {
+        "category": "literature",
+        "domain": "ireland",
+        "associations": ["tale type", "Togail", "early Irish narrative", "Da Derga's Hostel"]
+    },
+    "entities": [
+        {"name": "Destructions", "type": "Tale type"},
+        {"name": "Togail", "type": "Genre term"},
+        {"name": "Da Derga's Hostel", "type": "Tale"},
+        {"name": "Bruiden Da Derga", "type": "Tale"}
+    ],
+    "sources": [
+        "MacKillop 2008, s.v. 'Destructions'."
+    ],
+    "cyphertext": "",
+    "salt": "",
+    "image": [],
+    "text": "Destructions is a class of tales in early Irish literature. The class takes its label from the first word of each tale title. The Irish noun Togail carries the singular sense. The plural form Togla carries the same sense. A tale of the Destructions class therefore stands as a Togail or Togla story. Each tale tells the ruin of a fortified hall or a hero's house. Among the class, the ruin of Da Derga's hostel is the best known. That ruin names the bruiden at Da Derga as the doomed hostel. Other tales of the class follow the same Togail pattern. Readers meet the Destructions class chiefly through its individual tales.",
+    "okr": {
+        "objective": "Destructions as a class of early Irish tales named for the word Togail and exemplified by the Destruction of Da Derga's Hostel.",
+        "key_results": [
+            "Destructions is a tale class named after the word Togail.",
+            "Togail is the singular and Togla is the plural.",
+            "The Destruction of Da Derga's Hostel is the best known member.",
+            "Each tale tells the ruin of a fortified hall or a hero's house."
+        ],
+        "evidence": "MacKillop 2008, s.v. 'Destructions'"
+    }
+}

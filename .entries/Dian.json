@@ -1,0 +1,33 @@
+{
+    "name": "Dian",
+    "attributes": {
+        "category": "mythology",
+        "domain": "ireland",
+        "associations": ["Irish name", "Carman", "Fianna", "Otherworld", "swift"]
+    },
+    "entities": [
+        {"name": "Dian", "type": "Person"},
+        {"name": "Carman", "type": "Person"},
+        {"name": "Fianna", "type": "Group"},
+        {"name": "Fionn mac Cumhaill", "type": "Person"},
+        {"name": "sidh", "type": "Supernatural place"}
+    ],
+    "sources": [
+        "MacKillop 2008, s.v. 'Dian'."
+    ],
+    "cyphertext": "",
+    "salt": "",
+    "image": [],
+    "text": "Dian is an Irish name that means swift, rapid, intense, or strong. Several figures of early Irish narrative bore the name. Dian I stands as the son of the malevolent Carman. With his brothers he helped bring ruin upon Ireland. A second Dian served as a young Fianna chief under Fionn mac Cumhaill. This second Dian was carried off into the Otherworld by the sidh folk. On coming back he gave a single answer. He would rather serve the Fianna as a follower than sit as king across in the Otherworld. His remark matches what Achilles says to Odysseus in the Odyssey. The name Dian therefore marks both a destroyer of Ireland and a homesick Fianna hero. Each bearer of the name keeps the sense of swiftness.",
+    "okr": {
+        "objective": "Dian as an Irish name borne by Carman's son and by a Fianna chieftain taken to the Otherworld.",
+        "key_results": [
+            "Dian means swift or strong in Irish.",
+            "Dian I was the son of Carman and joined in laying waste to Ireland.",
+            "A second Dian was a Fianna chieftain taken to the sidh.",
+            "On returning, the second Dian preferred Fianna service to Otherworld rule.",
+            "His remark echoes Achilles speaking to Odysseus."
+        ],
+        "evidence": "MacKillop 2008, s.v. 'Dian'"
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "name": "Devenish",
+    "attributes": {
+        "category": "place",
+        "domain": "ireland",
+        "associations": ["Lough Erne", "monastic site", "Fermanagh", "Ann Hamlin"]
+    },
+    "entities": [
+        {"name": "Devenish", "type": "Place"},
+        {"name": "Lough Erne", "type": "Lake"},
+        {"name": "County Fermanagh", "type": "County"}
+    ],
+    "sources": [
+        "MacKillop 2008, s.v. 'Devenish'.",
+        "Ann Hamlin, Devenish (Newry, 1979)."
+    ],
+    "cyphertext": "",
+    "salt": "",
+    "image": [],
+    "text": "Devenish is an island in Lough Erne in County Fermanagh. Its Irish name Daim Inis means ox island. Devenish held an early island monastery whose ruins still stand. The monastery belongs to the older monastic pattern of lake-island sites. Visitors reach it by boat across the lough. Ann Hamlin's study of the site remains the standard reference. Hamlin's book Devenish was published at Newry in 1979. The site lies in the part of Ulster now governed from Northern Ireland. Devenish stands as a working record of early Irish monastic life.",
+    "okr": {
+        "objective": "Devenish as the ox-island monastery in Lough Erne, County Fermanagh.",
+        "key_results": [
+            "Devenish is an island in Lough Erne, County Fermanagh.",
+            "Its Irish name Daim Inis means ox island.",
+            "It held an early island monastery whose ruins survive.",
+            "Ann Hamlin's 1979 monograph Devenish is the standard reference."
+        ],
+        "evidence": "MacKillop 2008, s.v. 'Devenish'"
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "name": "Dhoya",
+    "attributes": {
+        "category": "literature",
+        "domain": "ireland",
+        "associations": ["Yeats", "short story", "Fomorian giant", "Sligo", "Eochaid Airem"]
+    },
+    "entities": [
+        {"name": "Dhoya", "type": "Literary character"},
+        {"name": "W. B. Yeats", "type": "Author"},
+        {"name": "Sligo", "type": "Place"},
+        {"name": "Eochaid Airem", "type": "Person"},
+        {"name": "Étain", "type": "Person"}
+    ],
+    "sources": [
+        "MacKillop 2008, s.v. 'Dhoya'.",
+        "John Sherman and Dhoya, ed. R. J. Finneran (Detroit, 1969)."
+    ],
+    "cyphertext": "",
+    "salt": "",
+    "image": [],
+    "text": "Dhoya is a character in an early Yeats short story. The story first appeared in print in 1891. Dhoya stands there as a Fomorian giant left by his comrades near Sligo. He marries a fairy bride yet loses her again. Her fairy husband wins her back over a chess board. The piece reads as the author's own dream vision. Yeats appears to have borrowed from the older cycle of Eochaid Airem and Étain. The chess-game motif finds its model in the Wooing of Étain. Dhoya himself may owe his name to Pool Dyoya. Pool Dyoya lies at the deepest point of Sligo Bay. The 1969 Finneran volume John Sherman and Dhoya carries the text.",
+    "okr": {
+        "objective": "Dhoya as Yeats's 1891 short-story giant in Sligo, with echoes of the Étain tale.",
+        "key_results": [
+            "Dhoya is a Yeats short-story character published in 1891.",
+            "He is a Fomorian giant abandoned by his comrades near Sligo.",
+            "He marries a fairy bride who is won back by her fairy husband at chess.",
+            "The tale echoes the older story of Eochaid Airem and Étain.",
+            "The 1969 Finneran edition John Sherman and Dhoya carries the text."
+        ],
+        "evidence": "MacKillop 2008, s.v. 'Dhoya'"
+    }
+}

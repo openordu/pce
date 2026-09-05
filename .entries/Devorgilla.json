@@ -1,0 +1,29 @@
+{
+    "name": "Devorgilla",
+    "attributes": {
+        "category": "onomastics",
+        "domain": "ireland",
+        "associations": ["see-ref", "Derbforgaill", "spelling variant"]
+    },
+    "entities": [
+        {"name": "Devorgilla", "type": "Name"},
+        {"name": "Derbforgaill", "type": "Person"}
+    ],
+    "sources": [
+        "MacKillop 2008, s.v. 'Devorgilla'."
+    ],
+    "cyphertext": "",
+    "salt": "",
+    "image": [],
+    "text": "Devorgilla is a spelling variant of the name Derbforgaill. The dictionary treats Devorgilla as a cross-reference rather than a separate figure. Readers looking for Devorgilla are sent to the Derbforgaill entry. Derbforgaill of Lochlainn is the figure most readers seek under either spelling. The Devorgilla form appears chiefly in Anglo-Norman and later English sources. The Irish literary tradition keeps the Derbforgaill spelling. Either form points to the same historical person. See the Derbforgaill entry for the full record.",
+    "okr": {
+        "objective": "Devorgilla as a see-reference pointing to the name Derbforgaill.",
+        "key_results": [
+            "Devorgilla is a spelling variant of Derbforgaill.",
+            "The dictionary treats it as a cross-reference.",
+            "Derbforgaill of Lochlainn is the figure most readers seek.",
+            "The Anglo-Norman record uses Devorgilla; Irish sources keep Derbforgaill."
+        ],
+        "evidence": "MacKillop 2008, s.v. 'Devorgilla'"
+    }
+}

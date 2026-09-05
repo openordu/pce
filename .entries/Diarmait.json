@@ -1,0 +1,32 @@
+{
+    "name": "Diarmait",
+    "attributes": {
+        "category": "onomastics",
+        "domain": "ireland",
+        "associations": ["Irish name", "kings", "saints", "heroes", "Diarmait Ua Duibne", "Diarmait mac Cerbaill"]
+    },
+    "entities": [
+        {"name": "Diarmait", "type": "Name"},
+        {"name": "Diarmait Ua Duibne", "type": "Person"},
+        {"name": "Diarmait mac Cerbaill", "type": "Person"},
+        {"name": "Gráinne", "type": "Person"}
+    ],
+    "sources": [
+        "MacKillop 2008, s.v. 'Diarmait'."
+    ],
+    "cyphertext": "",
+    "salt": "",
+    "image": [],
+    "text": "Diarmait is among the most common names found in early Ireland. The original sense of the name remains unknown. The name travels under several spellings: Diarmaid, Diarmuid, Diarmit, Dearmid, and Dermot. English writers sometimes render it as Jeremiah, Jerome, or Darby. Many kings, saints, and heroes carried it across the centuries. The most notable bearer is Diarmait Ua Duibne. Diarmait Ua Duibne is the lover of Gráinne in the long pursuit tale. Another major bearer is Diarmait mac Cerbaill. That same Diarmait mac Cerbaill was an historical high king of Ireland. The name therefore spans pagan kingship, early saints, and the Fenian hero cycle. Each bearer keeps the same Irish name across the centuries. Readers meeting any spelling are pointed to the relevant individual entry. See Diarmait Ua Duibne and Diarmait mac Cerbaill for the two main figures.",
+    "okr": {
+        "objective": "Diarmait as a common early Irish name borne by kings, saints, and the lover of Gráinne.",
+        "key_results": [
+            "Diarmait is one of the most common names in early Ireland.",
+            "Its spellings include Diarmaid, Diarmuid, Diarmit, Dearmid, and Dermot.",
+            "It is sometimes anglicized as Jeremiah, Jerome, or Darby.",
+            "Diarmait Ua Duibne is the most notable bearer as the lover of Gráinne.",
+            "Diarmait mac Cerbaill was an historical high king of Ireland."
+        ],
+        "evidence": "MacKillop 2008, s.v. 'Diarmait'"
+    }
+}
