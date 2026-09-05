@@ -396,4 +396,6 @@ layout: layouts/pce.njk
 - [Ánroth](Ánroth)
 - [Áth_Cliath](Áth_Cliath)
 - [Áth_Fhirdiad](Áth_Fhirdiad)
+- [áenach](áenach)
 - [áes_dána](áes_dána)
+- [áes_sídhe](áes_sídhe)
