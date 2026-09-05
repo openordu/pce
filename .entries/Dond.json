@@ -1,0 +1,31 @@
+{
+  "name": "Dond",
+  "attributes": {
+    "category": "person",
+    "domain": "ireland",
+    "associations": [
+      "variant spelling",
+      "Donn"
+    ]
+  },
+  "entities": [
+    {"name": "Dond", "type": "Person"},
+    {"name": "Donn", "type": "Person"}
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Dond'."
+  ],
+  "cyphertext": "",
+  "salt": "",
+  "image": [],
+  "text": "Dond is a variant spelling of the Irish name Donn. MacKillop records the form as an attested orthographic variant in his dictionary. The head functions as a cross-reference. Readers seeking the full material should consult the PCE node for Donn. That node carries the MacKillop dossier on the chthonic Irish lord of the dead. It also covers the manifold figures who bear the name.",
+  "okr": {
+    "objective": "Dond as the variant spelling of Donn.",
+    "key_results": [
+      "Dond is a variant spelling.",
+      "MacKillop treats it as a form of Donn.",
+      "Full material lives in the PCE node for Donn."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Dond'"
+  }
+}

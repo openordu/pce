@@ -1,0 +1,31 @@
+{
+  "name": "Donann",
+  "attributes": {
+    "category": "person",
+    "domain": "ireland",
+    "associations": [
+      "variant spelling",
+      "Tuatha Dé Danann"
+    ]
+  },
+  "entities": [
+    {"name": "Donann", "type": "Person"},
+    {"name": "Tuatha Dé Danann", "type": "Group"}
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Donann'."
+  ],
+  "cyphertext": "",
+  "salt": "",
+  "image": [],
+  "text": "Donann is a variant spelling of Tuatha Dé Danann. MacKillop records the form as one of the orthographic variants that surface in secondary literature. The head functions as a cross-reference. Readers seeking the full material should consult the PCE node for Tuatha Dé Danann. That node carries the full MacKillop dossier for the people of the goddess Danu.",
+  "okr": {
+    "objective": "Donann as the variant spelling of Tuatha Dé Danann.",
+    "key_results": [
+      "Donann is a variant spelling.",
+      "MacKillop treats it as a form of Tuatha Dé Danann.",
+      "Full material lives in the PCE node for Tuatha Dé Danann."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Donann'"
+  }
+}

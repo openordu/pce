@@ -1,0 +1,43 @@
+{
+  "name": "Donegal",
+  "attributes": {
+    "category": "place",
+    "domain": "ireland",
+    "associations": [
+      "Ulster",
+      "Tír Chonaill",
+      "Conall Gulban",
+      "Niall Noigiallach",
+      "Ui Néill",
+      "Irish language preservation"
+    ]
+  },
+  "entities": [
+    {"name": "Donegal", "type": "Place"},
+    {"name": "Tír Chonaill", "type": "Place"},
+    {"name": "Conall Gulban", "type": "Person"},
+    {"name": "Niall Noigiallach", "type": "Person"},
+    {"name": "Ui Néill", "type": "Group"},
+    {"name": "Ulster", "type": "Region"}
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Donegal'."
+  ],
+  "cyphertext": "",
+  "salt": "",
+  "image": [],
+  "text": "Donegal is a county in the far north-west of the Republic of Ireland. It is the most westerly county of the province of Ulster. MacKillop derives the Irish name Tír Chonaill as meaning the country of Conall. At 1,865 square miles, the county is sizeable, mountainous, and sparsely populated. Donegal carries a heavy load of romantic lore for an Irish county. The Irish language held on in Donegal longer than in any other part of Ulster. Some Irish-speaking pockets survived there into the closing years of the twentieth century. The medieval kingdom of Tír Chonaill covered most of what is now the county. Its founder was Conall Gulban, son of Niall Noigiallach of the Nine Hostages. The foundation brought much of the land under the early rule of the Ui Néill.",
+  "okr": {
+    "objective": "Donegal as the north-westernmost county of Ulster, founded as Tír Chonaill by Conall Gulban.",
+    "key_results": [
+      "Donegal is the most westerly county in Ulster.",
+      "The Irish name is Tír Chonaill, meaning the country of Conall.",
+      "The county covers 1,865 square miles.",
+      "Irish survived in Donegal longer than elsewhere in Ulster.",
+      "The medieval kingdom of Tír Chonaill was founded by Conall Gulban.",
+      "Conall was son of Niall Noigiallach of the Nine Hostages.",
+      "The Ui Néill ruled much of the land in early historical times."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Donegal'"
+  }
+}

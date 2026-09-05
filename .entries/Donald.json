@@ -1,0 +1,35 @@
+{
+  "name": "Donald",
+  "attributes": {
+    "category": "person",
+    "domain": "scotland-ireland",
+    "associations": [
+      "anglicization",
+      "Domhnall",
+      "MacDonald Lord of the Isles",
+      "shadowy figures"
+    ]
+  },
+  "entities": [
+    {"name": "Donald", "type": "Person"},
+    {"name": "Domhnall", "type": "Person"},
+    {"name": "MacDonald Lord of the Isles", "type": "Person"}
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Donald'."
+  ],
+  "cyphertext": "",
+  "salt": "",
+  "image": [],
+  "text": "Donald is the anglicized form of the Gaelic name Domhnall. MacKillop lists two references under the head. The first traces the line of the MacDonald Lord of the Isles. The second notes Donald as a name carried by a swarm of small figures in the early and medieval record. The entry functions chiefly as a cross-reference. Readers seeking the Gaelic material should consult the PCE node for Domhnall. That node carries the full MacKillop dossier for that head.",
+  "okr": {
+    "objective": "Donald as the anglicization of Domhnall and a cross-reference to the Gaelic head.",
+    "key_results": [
+      "Donald is the anglicized form of Domhnall.",
+      "MacKillop cites the MacDonald Lord of the Isles line under this head.",
+      "Many shadowy historical figures bore the name Donald.",
+      "Full material lives in the PCE node for Domhnall."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Donald'"
+  }
+}
