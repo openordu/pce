@@ -1,11 +1,53 @@
 {
   "name": "Gwlad y Tylwyth Teg",
-  "text": "Gwlad y Tylwyth Teg is the Welsh phrase for the land of the fair folk. In everyday speech the same words may also mean sleep or the grave. The name points to the home of the Tylwyth Teg, the fairies of Welsh custom. The phrase therefore joins a place of the imagination with the country of the dead. The reader should seek the fuller account in the entry of the fair folk.",
+  "text": "Gwlad y Tylwyth Teg is the Welsh phrase for the land of the fair folk. In everyday speech the same words can also name sleep or the grave. The phrase points to the home of the Tylwyth Teg, the fairies of Welsh custom. It thus links a place of the imagination with the country of the dead. MacKillop enters gwlad as a Welsh word for land or country. The term may name an independent small kingdom in Wales before 1282, the year of the English conquest. The term may also name a cultural region. There folk with a common dialect and a common set of customs dwelt for ages. The reader may consult T. M. Charles-Edwards for the broader scholarly treatment of gwlad. His 1993 Oxford study, called Early Irish and Welsh Kinship, sets the kinship field alongside the land-word. MacKillop notes that the same article gwarwyn a throt once served as a hidden name. It served in Monmouthshire, now Gwent. It named the tylwyth teg, the Welsh fairy folk. That nickname, meaning the white-naped one with the trot, kept the fairy folk out of plain speech.",
   "entities": [
-    { "entity": "Tylwyth Teg", "type": "Kind" }
+    {
+      "entity": "Tylwyth Teg",
+      "type": "Kind"
+    },
+    {
+      "entity": "Charles-Edwards, T. M.",
+      "type": "Person"
+    },
+    {
+      "entity": "Early Irish and Welsh Kinship",
+      "type": "Artifact"
+    },
+    {
+      "entity": "gwarwyn a throt",
+      "type": "Concept"
+    },
+    {
+      "entity": "Monmouthshire",
+      "type": "Place"
+    },
+    {
+      "entity": "Gwent",
+      "type": "Place"
+    }
   ],
   "attributes": [
-    { "entity": "Gwlad y Tylwyth Teg", "attribute": "the land of the fair folk" }
+    {
+      "entity": "Gwlad y Tylwyth Teg",
+      "attribute": "the land of the fair folk"
+    },
+    {
+      "entity": "gwlad",
+      "attribute": "Welsh term for land or country"
+    },
+    {
+      "entity": "gwlad",
+      "attribute": "could name an independent small kingdom in Wales before the English conquest of 1282"
+    },
+    {
+      "entity": "gwlad",
+      "attribute": "could also name a cultural region where folk shared a common dialect and common customs"
+    },
+    {
+      "entity": "gwarwyn a throt",
+      "attribute": "hidden or secret name in Monmouthshire, now Gwent, for the tylwyth teg Welsh fairy folk"
+    }
   ],
   "sources": [
     "MacKillop 2008, s.v. 'Gwlad y Tylwyth Teg'"
@@ -14,11 +56,14 @@
   "cyphertext": "",
   "salt": "",
   "okr": {
-    "objective": "Record the phrase Gwlad y Tylwyth Teg.",
+    "objective": "Record the phrase Gwlad y Tylwyth Teg and the wider Welsh sense of gwlad.",
     "key_results": [
-      "Give the meaning of the phrase.",
-      "Note the bond with sleep and the grave."
+      "Give the fairy-land sense of Gwlad y Tylwyth Teg and its bond to sleep and the grave",
+      "Note the Tylwyth Teg as the Welsh fair folk whose home the phrase names",
+      "Record MacKillop's broader definition of gwlad as land, kingdom, or cultural region",
+      "Point to Charles-Edwards for the fuller scholarly treatment",
+      "Note gwarwyn a throt as the hidden Monmouthshire name for the tylwyth teg"
     ],
-    "evidence": "MacKillop 2008, s.v. 'Gwlad y Tylwyth Teg'"
+    "evidence": "MacKillop 2008, s.v. 'gwlad'"
   }
 }

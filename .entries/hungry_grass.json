@@ -16,6 +16,38 @@
     {
       "entity": "potato",
       "attribute": "a South American crop that thrived in Ireland and fed tenant families"
+    },
+    {
+      "entity": "hungry grass",
+      "attribute": "Irish names féargortach and fódgortach"
+    },
+    {
+      "entity": "hungry grass",
+      "attribute": "alternative name fairy grass"
+    },
+    {
+      "entity": "hungry grass",
+      "attribute": "origin traced to oral tradition of unknown date, perhaps Famine times c.1846 to 1848"
+    },
+    {
+      "entity": "fear gortach",
+      "attribute": "hungry man who begs alms and rewards generous givers"
+    },
+    {
+      "entity": "hungry grass",
+      "attribute": "recurring image in 20th-century Irish literature"
+    },
+    {
+      "entity": "Donagh MacDonagh",
+      "attribute": "author of the poem collection The Hungry Grass (London, 1947)"
+    },
+    {
+      "entity": "Richard Powers",
+      "attribute": "novelist who wrote a 1969 book titled The Hungry Grass, issued in London and New York"
+    },
+    {
+      "entity": "hungry grass",
+      "attribute": "cross-reference to MacKillop's fóidín mearaí entry"
     }
   ],
   "entities": [
@@ -46,23 +78,56 @@
     {
       "entity": "unmarked grave",
       "type": "Place"
+    },
+    {
+      "entity": "féargortach",
+      "type": "Concept"
+    },
+    {
+      "entity": "fódgortach",
+      "type": "Concept"
+    },
+    {
+      "entity": "fairy grass",
+      "type": "Concept"
+    },
+    {
+      "entity": "fear gortach",
+      "type": "Being"
+    },
+    {
+      "entity": "Donagh MacDonagh",
+      "type": "Person"
+    },
+    {
+      "entity": "Richard Powers",
+      "type": "Person"
+    },
+    {
+      "entity": "fóidín mearaí",
+      "type": "Concept"
     }
   ],
   "sources": [
-    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.",
+    "MacKillop 2008, s.v. 'hungry grass'"
   ],
   "cyphertext": "SSvUd0uRjq-5ozq8QyAULh3rT1c7Or3YXizSrg7JVRvmmfVQCf11vHbtwgOFhuycZNhnIcsUfpsa32Cenit8zlyf87TBvGlDPd6qNCKIsj6AKuW7FJb8tfwuX2gdF7SxqeyOJF-ZpOhSRWfmC10BKMo_RJPH09Fh9Fv2cGsqAZES1rwIvLVTlxdPA_gktefF24WHzPlKG22rYct2TYtBJ-DRJW8Ac7U-IEOlySM1ZEfbg-e8YxeengkKYP6TjE6T0iJ51fzSF2fL2SFjvB6a-PkcN25rz9_Fd_NsllxjA5tJABORoL8LjH1e7vJb7Y-vh217DJovibLdr52YowKhluD1hkZA38Vj1ZEFkynWUh8jguPWe_3LLy_bJcRoWW2vYsILvzAy49FL_NHBQWI72c8J6DzMYCcNiKDcwrlZ7vgyTosyjLFd7oLFyfh0po53UhqFDVNUrNk=",
   "salt": "WhqkY21rDETGxAB5-GQILw==",
-  "text": "The hungry grass is an Irish folkloric site. It grew from the Irish Famine, called An Gorta Mór, the Great Hunger. English occupation denied Irish farmers the right to own land, so most lived as poor tenants of absent landlords. The potato, an import from South America, made this possible. It thrived in the rainy Irish climate. A small patch, even less than an acre, could feed a family. But a single crop invites famine when disease strikes. In 1848 to 1850 an airborne fungus turned stored potatoes into black slime. Cattle stood ready for market, yet most belonged to the landlords. Millions of tenant farmers starved. Ireland still exported food through the famine years, which bred bitterness and political strife. The population today is half of what it was before. Between one and one-and-a-half million people died; about the same number emigrated. From this tragedy came the legend. Patches of soil, infected with the memory of the famine, strike anyone who steps on them with insatiable hunger, so the person soon dies even though well fed. The hungry grass grows over unmarked graves, or wherever people died of hunger, by the roadside or in hovels.",
+  "text": "The hungry grass is an Irish folkloric site born of the Famine called An Gorta Mór. English occupation denied Irish farmers land ownership and bound most as tenants of absent landlords. The potato, a South American import, thrived in rainy Irish soil. Less than an acre fed a family. A single crop invited disaster when blight struck. From 1848 to 1850 an airborne fungus rotted stored potatoes into black slime. Cattle stood ready for market but belonged to landlords. Tenant farmers starved in the millions. Ireland still exported food through those years. Between one and one and a half million people died and a similar number emigrated. The current Irish population sits at half its pre-famine figure. Patches of soil infected with the famine memory strike anyone who steps on them with a hunger no meal satisfies. Such patches grow over unmarked graves and along roadsides where the hungry died. MacKillop records the Irish names féargortach and fódgortach. He traces the belief to oral tradition of unknown date, perhaps the Famine years of around 1846 to 1848. He describes a bewitched tuft that inflicts the same unquenchable hunger on whoever walks across it. A related and less familiar tradition tells of the fear gortach, the hungry man. He asks passing strangers for charity. He pays back those who give. The hungry grass also passes under the name fairy grass. Twentieth century Irish literature returns to the image often. Donagh MacDonagh published a 1947 London poetry collection titled The Hungry Grass. Richard Powers released a 1969 novel of the same name, published in London and New York. MacKillop points readers onward to the entry for fóidín mearaí.",
   "okr": {
-    "objective": "Document the hungry grass as a folkloric site born of the Irish Famine.",
+    "objective": "Document the hungry grass as an Irish folkloric site tied to An Gorta Mór and to later oral tradition.",
     "key_results": [
-      "Record the fashions that caused the famine and its death and emigration toll.",
-      "Describe the hungry grass and the hunger it inflicts on those who step on it.",
-      "Note where the hungry grass grows, on unmarked graves and sites of death."
+      "Record the conditions behind An Gorta Mór and its death and emigration toll.",
+      "Describe the hungry grass patch and the unquenchable hunger it inflicts.",
+      "Note where hungry grass appears: unmarked graves and roadsides where the hungry died.",
+      "Add the Irish names féargortach and fódgortach and the alternative name fairy grass.",
+      "Add the fear gortach alms tradition and the 20th century literary allusions.",
+      "Cross-reference MacKillop's fóidín mearaí entry."
     ],
     "evidence": [
-      "Monaghan, P. The Encyclopedia of Celtic Mythology and Folklore (2008): hungry grass entry."
+      "Monaghan, P. The Encyclopedia of Celtic Mythology and Folklore (2008): hungry grass entry.",
+      "MacKillop 2008, s.v. 'hungry grass'."
     ]
   }
 }
