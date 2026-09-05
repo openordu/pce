@@ -1,0 +1,29 @@
+{
+    "name": "Dithreach",
+    "attributes": {
+        "category": "creature",
+        "domain": "scotland",
+        "associations": ["variant spelling", "Direach", "see-ref", "fachan family"]
+    },
+    "entities": [
+        {"name": "Dithreach", "type": "Creature"},
+        {"name": "Direach", "type": "Creature"}
+    ],
+    "sources": [
+        "MacKillop 2008, s.v. 'Dithreach'."
+    ],
+    "cyphertext": "",
+    "salt": "",
+    "image": [],
+    "text": "Dithreach is treated by the dictionary as a variant spelling of Direach. The direach is a creature of Scottish Gaelic folklore. The word comes from the Scottish Gaelic dithreach meaning desert, uncultivated, or solitary. The creature belongs to the family of the fachan. It is counted among the ugly monsters of the Highland tradition. Readers looking for the full description should consult the Direach entry. That entry sets out the deformities, the haunt at Glen Eiti, and the link to Glen Etive south of Ballachulish.",
+    "okr": {
+        "objective": "Dithreach as a spelling variant of the Scottish Gaelic creature Direach.",
+        "key_results": [
+            "Dithreach is a variant spelling of Direach.",
+            "The direach belongs to the family of the fachan.",
+            "The word dithreach means desert or uncultivated.",
+            "The fuller story sits at the Direach entry."
+        ],
+        "evidence": "MacKillop 2008, s.v. 'Dithreach'"
+    }
+}

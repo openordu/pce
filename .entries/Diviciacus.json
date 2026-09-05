@@ -1,0 +1,29 @@
+{
+    "name": "Diviciacus",
+    "attributes": {
+        "category": "person",
+        "domain": "classical",
+        "associations": ["variant spelling", "Divitiacus", "see-ref", "Aeduan druid"]
+    },
+    "entities": [
+        {"name": "Diviciacus", "type": "Person"},
+        {"name": "Divitiacus", "type": "Person"}
+    ],
+    "sources": [
+        "MacKillop 2008, s.v. 'Diviciacus'."
+    ],
+    "cyphertext": "",
+    "salt": "",
+    "image": [],
+    "text": "Diviciacus is treated by the dictionary as a variant spelling of Divitiacus. The figure is the Roman name for the Aeduan druid of the Liger valley. Julius Caesar of the first century BC knew him by reputation. Cicero of the same century cited him for his knowledge of divination. Readers looking for the full record of his career should consult the Divitiacus entry. That entry sets out his kinship with Dumnorix, his embassy to Rome, and his standing among the Gaulish druids.",
+    "okr": {
+        "objective": "Diviciacus as a spelling variant of the Aeduan druid better known as Divitiacus.",
+        "key_results": [
+            "Diviciacus is a variant spelling of Divitiacus.",
+            "The figure was an Aeduan druid of the Liger valley.",
+            "Caesar and Cicero both cite him for divination.",
+            "The fuller story sits at the Divitiacus entry."
+        ],
+        "evidence": "MacKillop 2008, s.v. 'Diviciacus'"
+    }
+}

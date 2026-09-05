@@ -1,0 +1,32 @@
+{
+    "name": "Diurán",
+    "attributes": {
+        "category": "person",
+        "domain": "ireland",
+        "associations": ["poet", "Imram Curaig Máele Dúin", "Máel Dúin", "voyage literature"]
+    },
+    "entities": [
+        {"name": "Diurán", "type": "Person"},
+        {"name": "Máel Dúin", "type": "Person"},
+        {"name": "Imram Curaig Máele Dúin", "type": "Tale"},
+        {"name": "Armagh", "type": "Place"}
+    ],
+    "sources": [
+        "MacKillop 2008, s.v. 'Diurán'."
+    ],
+    "cyphertext": "",
+    "salt": "",
+    "image": [],
+    "text": "Diurán, sometimes called Diurán the Rhymer, was a poet of early Ireland. He sailed as a companion of Máel Dúin on the fabulous voyage known as Imram Curaig Máele Dúin. His adventures aboard included a plunge into a magic fountain. The plunge gave him lifelong youth and good health. He also cut free the crew by severing a stranger's arm. The stranger had held them fast with a magical thread. He tore a piece of net from a silver pillar and laid it on the altar at Armagh. Most scholars treat that final offering as a later Christian touch added to the older voyage text.",
+    "okr": {
+        "objective": "Diurán the Rhymer as the poet who sailed with Máel Dúin on the immram voyage.",
+        "key_results": [
+            "Diurán was a poet of early Ireland.",
+            "He sailed with Máel Dúin on the immram voyage.",
+            "He bathed in a magic fountain and gained youth and health.",
+            "He severed the arm that held the magical thread.",
+            "He laid a piece of silver net on the altar at Armagh."
+        ],
+        "evidence": "MacKillop 2008, s.v. 'Diurán'"
+    }
+}

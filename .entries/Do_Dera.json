@@ -1,0 +1,33 @@
+{
+    "name": "Do Dera",
+    "attributes": {
+        "category": "person",
+        "domain": "ireland",
+        "associations": ["fool of Lugaid", "Battle of Cenn Abrat", "Eógan of Munster"]
+    },
+    "entities": [
+        {"name": "Do Dera", "type": "Person"},
+        {"name": "Lugaid mac Con", "type": "Person"},
+        {"name": "Eógan", "type": "Person"},
+        {"name": "Battle of Cenn Abrat", "type": "Battle"},
+        {"name": "Munster", "type": "Region"}
+    ],
+    "sources": [
+        "MacKillop 2008, s.v. 'Do Dera'."
+    ],
+    "cyphertext": "",
+    "salt": "",
+    "image": [],
+    "text": "Do Dera, also spelled Dadara or Da Deara, was the fool of Lugaid mac Con. At the Battle of Cenn Abrat he put on the royal crown to impersonate the king. The ruse let Lugaid himself escape the field. Do Dera was killed in his master's place. The killer was Eógan of Munster. The episode became a byword for the loyal jester who paid with his life. The tale sits in the cycle of stories around Lugaid and the fall of the Dáirine.",
+    "okr": {
+        "objective": "Do Dera as the fool of Lugaid mac Con who died in his master's crown at Cenn Abrat.",
+        "key_results": [
+            "Do Dera was the fool of Lugaid mac Con.",
+            "He wore the crown to impersonate the king at Cenn Abrat.",
+            "The ruse let Lugaid escape the battle.",
+            "Do Dera was killed by Eógan of Munster.",
+            "Other spellings include Dadara and Da Deara."
+        ],
+        "evidence": "MacKillop 2008, s.v. 'Do Dera'"
+    }
+}

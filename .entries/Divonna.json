@@ -1,0 +1,29 @@
+{
+    "name": "Divonna",
+    "attributes": {
+        "category": "deity",
+        "domain": "continental",
+        "associations": ["variant name", "Sirona", "see-ref", "healing goddess"]
+    },
+    "entities": [
+        {"name": "Divonna", "type": "Deity"},
+        {"name": "Sirona", "type": "Deity"}
+    ],
+    "sources": [
+        "MacKillop 2008, s.v. 'Divonna'."
+    ],
+    "cyphertext": "",
+    "salt": "",
+    "image": [],
+    "text": "Divonna, also spelled Divona, is treated by the dictionary as another name for Sirona. Sirona was a Continental Celtic healing goddess whose name means star. Inscriptions across Gaul called her by either name. Artists often paired her with the Celtic Apollo, though she also stood alone. The form Divonna appears chiefly in Gallo-Roman inscriptions in central Gaul. Readers looking for the full record of her cult should consult the Sirona entry. That entry sets out her shrines, her serpent iconography, and her healing lore.",
+    "okr": {
+        "objective": "Divonna as an alternative name for the Continental Celtic healing goddess Sirona.",
+        "key_results": [
+            "Divonna is another name for Sirona.",
+            "The name appears chiefly in central Gaulish inscriptions.",
+            "The figure was a healing goddess whose name means star.",
+            "The fuller story sits at the Sirona entry."
+        ],
+        "evidence": "MacKillop 2008, s.v. 'Divonna'"
+    }
+}

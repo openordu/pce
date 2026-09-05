@@ -1,0 +1,37 @@
+{
+    "name": "Diwrnach Wyddel",
+    "attributes": {
+        "category": "person",
+        "domain": "wales",
+        "associations": ["Irish owner", "cauldron", "Culhwch ac Olwen", "Odgar", "Ysbaddaden Bencawr"]
+    },
+    "entities": [
+        {"name": "Diwrnach Wyddel", "type": "Person"},
+        {"name": "Diwmach Wyddel", "type": "Person"},
+        {"name": "Dyrnwch", "type": "Person"},
+        {"name": "Culhwch ac Olwen", "type": "Tale"},
+        {"name": "Arthur", "type": "Person"},
+        {"name": "Ysbaddaden Bencawr", "type": "Person"},
+        {"name": "Olwen", "type": "Person"},
+        {"name": "Preiddiau Annwfn", "type": "Tale"}
+    ],
+    "sources": [
+        "MacKillop 2008, s.v. 'Diwrnach Wyddel'."
+    ],
+    "cyphertext": "",
+    "salt": "",
+    "image": [],
+    "text": "Diwrnach Wyddel, also known as Dyrnwch and as the Irish owner Diwmach, was a figure of Welsh tradition. The name Wyddel means Irishman. He held the magical cauldron in the tale of Culhwch ac Olwen. He served in the household of King Odgar son of Aedd. Diwrnach is sometimes described as a giant. His cauldron refused to cook food for a coward. The giant Ysbaddaden Bencawr, father of Olwen, demanded the cauldron be brought to Wales. He wanted it for his daughter's wedding feast. Arthur asked Odgar to persuade Diwrnach to give it up. The steward refused. Arthur seized the cauldron and carried it to Wales, brimming with Irish treasure. The same cauldron also turns up in the second part of the Mabinogi and in Preiddiau Annwfn.",
+    "okr": {
+        "objective": "Diwrnach Wyddel as the Irish steward who owned the cauldron of Culhwch ac Olwen.",
+        "key_results": [
+            "Diwrnach Wyddel was an Irish steward in the household of King Odgar.",
+            "He is sometimes called a giant.",
+            "He owned the magical cauldron at the heart of Culhwch ac Olwen.",
+            "The cauldron refused to cook the food of a coward.",
+            "Arthur seized it and brought it to Wales.",
+            "The cauldron also appears in the Mabinogi and Preiddiau Annwfn."
+        ],
+        "evidence": "MacKillop 2008, s.v. 'Diwrnach Wyddel'"
+    }
+}

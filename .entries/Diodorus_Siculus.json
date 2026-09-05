@@ -1,0 +1,31 @@
+{
+    "name": "Diodorus Siculus",
+    "attributes": {
+        "category": "person",
+        "domain": "classical",
+        "associations": ["historian", "Bibliotheca Historica", "Celtic ethnography"]
+    },
+    "entities": [
+        {"name": "Diodorus Siculus", "type": "Person"},
+        {"name": "Bibliotheca Historica", "type": "Work"},
+        {"name": "Oldfather", "type": "Person"}
+    ],
+    "sources": [
+        "MacKillop 2008, s.v. 'Diodorus Siculus'."
+    ],
+    "cyphertext": "",
+    "salt": "",
+    "image": [],
+    "text": "Diodorus Siculus was a Sicilian-born classical historian of the first century BC. Modern readers often draw on his descriptions of the Celts, especially the tribes of northern Gaul. His masterwork, the Bibliotheca Historica, surveyed world history from mythic origins to his own day. That survey included the Roman takeover of Gaul. The original work ran to forty books. Only ten of those books survive today. The surviving text remains a major source on Celtic religion. The standard English edition is the Loeb translation by C. H. Oldfather, published in 1935.",
+    "okr": {
+        "objective": "Diodorus Siculus as a Sicilian historian of the first century BC cited for Celtic ethnography.",
+        "key_results": [
+            "He was a Sicilian historian of the first century BC.",
+            "His Bibliotheca Historica was a universal history in forty books.",
+            "Of those books, ten survive today.",
+            "Modern scholars cite him on the religion of the Celts.",
+            "The Oldfather edition and translation remains standard."
+        ],
+        "evidence": "MacKillop 2008, s.v. 'Diodorus Siculus'"
+    }
+}

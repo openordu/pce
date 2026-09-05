@@ -1,0 +1,33 @@
+{
+    "name": "Dionysus",
+    "attributes": {
+        "category": "deity",
+        "domain": "classical",
+        "associations": ["Greek god", "wine", "Liber", "Lug Lámfhota"]
+    },
+    "entities": [
+        {"name": "Dionysus", "type": "Deity"},
+        {"name": "Bacchus", "type": "Deity"},
+        {"name": "Liber", "type": "Deity"},
+        {"name": "Lug Lámfhota", "type": "Person"},
+        {"name": "Michael Tierney", "type": "Person"}
+    ],
+    "sources": [
+        "MacKillop 2008, s.v. 'Dionysus'."
+    ],
+    "cyphertext": "",
+    "salt": "",
+    "image": [],
+    "text": "Dionysus was an ancient Greek deity linked to wine and to fertility rites. His cult favoured ecstatic celebration. The Greeks adapted the figure from an earlier Lydian god. The Romans called the same figure Bacchus. They also called him Liber. Some twentieth-century scholars drew a parallel with the Irish hero Lug Lámfhota. The parallel rested on shared features of cult and seasonal festival. Michael Tierney argued the case in a 1963 article in Éigse. The article is titled Lughnasa and Dionysus. The comparison still draws scholarly attention today.",
+    "okr": {
+        "objective": "Dionysus as the Greek deity linked to wine and to possible Irish parallels in Lug Lámfhota.",
+        "key_results": [
+            "Dionysus was a Greek deity of wine and fertility rites.",
+            "The Greeks adapted him from an earlier Lydian god.",
+            "Romans knew him as Bacchus or Liber.",
+            "Some scholars compare him with the Irish Lug Lámfhota.",
+            "Michael Tierney made the case in 1963 in Éigse."
+        ],
+        "evidence": "MacKillop 2008, s.v. 'Dionysus'"
+    }
+}

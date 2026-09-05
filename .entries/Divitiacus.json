@@ -1,0 +1,33 @@
+{
+    "name": "Divitiacus",
+    "attributes": {
+        "category": "person",
+        "domain": "classical",
+        "associations": ["Aeduan druid", "Loire valley", "Julius Caesar", "Cicero"]
+    },
+    "entities": [
+        {"name": "Divitiacus", "type": "Person"},
+        {"name": "Aedui", "type": "People"},
+        {"name": "Julius Caesar", "type": "Person"},
+        {"name": "Cicero", "type": "Person"},
+        {"name": "Loire", "type": "River"}
+    ],
+    "sources": [
+        "MacKillop 2008, s.v. 'Divitiacus'."
+    ],
+    "cyphertext": "",
+    "salt": "",
+    "image": [],
+    "text": "Divitiacus, sometimes spelled Diviciacus, was the Roman name for a west Gaulish druid. He led the Aedui, the people of the Liger or Loire valley. Julius Caesar of the first century BC knew him and recorded his standing. Cicero of the same century cited him for his knowledge of divination. Caesar describes him as the most influential druid of Gaul. He led an embassy to Rome on behalf of his people. His brother Dumnorix was his political rival. The name Diviciacus is treated by the dictionary as a variant spelling of the same figure.",
+    "okr": {
+        "objective": "Divitiacus as the Aeduan druid known to Caesar and Cicero for his art of divination.",
+        "key_results": [
+            "Divitiacus was a west Gaulish druid of the Aedui.",
+            "His home was the Liger or Loire valley.",
+            "Caesar recorded his standing among Gaulish druids.",
+            "Cicero cited him for his knowledge of divination.",
+            "He led an embassy to Rome on behalf of his people."
+        ],
+        "evidence": "MacKillop 2008, s.v. 'Divitiacus'"
+    }
+}

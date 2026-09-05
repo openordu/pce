@@ -1,0 +1,34 @@
+{
+    "name": "Diorruing",
+    "attributes": {
+        "category": "person",
+        "domain": "ireland",
+        "associations": ["Fenian hero", "Fianna", "second sight", "Fionn mac Cumhaill", "Tóraigheacht Dhiarmada agus Ghráinne"]
+    },
+    "entities": [
+        {"name": "Diorruing", "type": "Person"},
+        {"name": "Fionn mac Cumhaill", "type": "Person"},
+        {"name": "Fianna", "type": "Warriors"},
+        {"name": "Dobar Ua Baiscne", "type": "Person"},
+        {"name": "Gráinne", "type": "Person"},
+        {"name": "Diarmait Ua Duibne", "type": "Person"}
+    ],
+    "sources": [
+        "MacKillop 2008, s.v. 'Diorruing'."
+    ],
+    "cyphertext": "",
+    "salt": "",
+    "image": [],
+    "text": "Diorruing, also spelled Diorraing, Diaring, Dering, or Deering, was a Fenian warrior. He belonged to the war-band of Fionn mac Cumhaill. He was counted among the Fianna. His father was Dobar Ua Baiscne. The tradition credits Diorruing with a powerful gift of second sight. The gift let him read events far away or yet to come. He had only to close his eyes and peer inward. At the opening of Tóraigheacht Dhiarmada agus Ghráinne, Diorruing speaks to the lonely Fionn. He names the one woman in Ireland worthy of the aging hero. That woman was Gráinne, the wife who would flee with Diarmait Ua Duibne.",
+    "okr": {
+        "objective": "Diorruing as the Fenian second-sight hero who opens the Pursuit of Diarmait and Gráinne.",
+        "key_results": [
+            "Diorruing was a Fenian hero and member of the Fianna.",
+            "He was a son of Dobar Ua Baiscne.",
+            "He had second sight and could see distant or future events.",
+            "At the start of the Pursuit, he named Gráinne as the woman for Fionn.",
+            "Other spellings include Diorraing, Diaring, Dering, and Deering."
+        ],
+        "evidence": "MacKillop 2008, s.v. 'Diorruing'"
+    }
+}

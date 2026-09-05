@@ -1,0 +1,34 @@
+{
+    "name": "Dioscuri",
+    "attributes": {
+        "category": "deity",
+        "domain": "classical",
+        "associations": ["Castor", "Pollux", "Polydeuces", "Celtic Gaul"]
+    },
+    "entities": [
+        {"name": "Dioscuri", "type": "Deity"},
+        {"name": "Castor", "type": "Deity"},
+        {"name": "Pollux", "type": "Deity"},
+        {"name": "Polydeuces", "type": "Deity"},
+        {"name": "Diodorus Siculus", "type": "Person"},
+        {"name": "Gaul", "type": "Region"}
+    ],
+    "sources": [
+        "MacKillop 2008, s.v. 'Dioscuri'."
+    ],
+    "cyphertext": "",
+    "salt": "",
+    "image": [],
+    "text": "Dioscuri is the paired name given to the divine twins Castor and Pollux. Castor is also called Polydeuces. The classical historian Diodorus Siculus of the first century BC records that the twins ranked high in Gaulish religion. He calls them especially honoured in the western reaches of Gaul. An altar at Paris shows the twins flanked by Celtic figures. The pairing suggests a long-standing link between the classical cult and the religion of Gaul. The twins appear in inscriptions and reliefs across the western provinces of the empire.",
+    "okr": {
+        "objective": "The Dioscuri as the divine twins Castor and Pollux honoured by the Celts of Gaul.",
+        "key_results": [
+            "Dioscuri is the paired name for Castor and Pollux.",
+            "Castor is also called Polydeuces.",
+            "Diodorus Siculus ranks them high in Gaulish religion.",
+            "An altar at Paris shows the twins amid Celtic figures.",
+            "The cult spread widely across the western provinces."
+        ],
+        "evidence": "MacKillop 2008, s.v. 'Dioscuri'"
+    }
+}
