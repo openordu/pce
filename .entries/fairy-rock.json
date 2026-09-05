@@ -1,0 +1,51 @@
+{
+  "name": "fairy rock",
+  "fname": "fairy-rock.json",
+  "text": "fairy rock names the many megalithic monuments scattered across the Celtic world that folklore ties to the fairy folk. The phrase covers standing stones, dolmens, and other prehistoric remains. The best-known example is the cluster of dolmens called La Roche aux Fées near Essé in Brittany. Other named examples appear throughout Brittany, Ireland, Wales, and the rest of the Celtic-speaking lands.",
+  "entities": [
+    {
+      "entity": "fairy rock",
+      "type": "Concept"
+    },
+    {
+      "entity": "La Roche aux Fées",
+      "type": "Place"
+    },
+    {
+      "entity": "Essé",
+      "type": "Place"
+    },
+    {
+      "entity": "Brittany",
+      "type": "Place"
+    },
+    {
+      "entity": "dolmen",
+      "type": "Thing"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "fairy rock",
+      "attribute": "Folklore label for megalithic monuments linked to fairies"
+    },
+    {
+      "entity": "fairy rock",
+      "attribute": "Best-known example is the La Roche aux Fées dolmens near Essé"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'fairy rock'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Define fairy rock as a folk name for megalithic monuments tied to fairy lore.",
+    "key_results": [
+      "Identify fairy rock as covering dozens of megalithic sites across the Celtic world",
+      "Anchor the definition to the La Roche aux Fées dolmens near Essé in Brittany"
+    ],
+    "evidence": "MacKillop 2008, s.v. 'fairy rock'."
+  }
+}

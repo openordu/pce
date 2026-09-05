@@ -1,0 +1,44 @@
+{
+  "name": "fairy wind",
+  "fname": "fairy-wind.json",
+  "text": "fairy wind names the sudden gust or whirlwind that Irish tradition blamed on the passage of fairy hosts. Country people crossed themselves when they saw the gust coming. Several Irish expressions label the gust. The forms include a wind of the hill, a wind of the host, a gust of the hill-folk, and a blast of the hill-folk. Folk belief held that the host itself rode inside the wind. A farmer might watch hay lifted at one end of a meadow. The air at the other end lay perfectly still. The same gusts were taken as proof that the hill-folk were lending a hand with the harvest. The fairy wind was also feared as the carrier of illness. It can strip a roof from a poor family's house. It can let the host inside. It can guard fairy treasure from thieves. It can silence mortal musicians playing fairy tunes. It can hurt humans or animals, with special danger to the eyes.",
+  "entities": [
+    {
+      "entity": "fairy wind",
+      "type": "Concept"
+    },
+    {
+      "entity": "fairy",
+      "type": "Being"
+    },
+    {
+      "entity": "Ireland",
+      "type": "Place"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "fairy wind",
+      "attribute": "Sudden gust or whirlwind in Irish folklore blamed on passing fairy hosts"
+    },
+    {
+      "entity": "fairy wind",
+      "attribute": "Believed to carry the fairy host and to harm humans, animals, and property"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'fairy wind'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Define the fairy wind of Irish tradition and its folk effects.",
+    "key_results": [
+      "Identify fairy wind as a gust or whirlwind blamed on fairy hosts",
+      "Survey the Irish terms used for the gust and its variants",
+      "Catalog the folk harms: roof damage, silenced musicians, injury to humans and animals"
+    ],
+    "evidence": "MacKillop 2008, s.v. 'fairy wind'."
+  }
+}

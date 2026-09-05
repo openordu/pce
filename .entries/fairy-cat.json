@@ -1,0 +1,48 @@
+{
+  "name": "fairy cat",
+  "fname": "fairy-cat.json",
+  "text": "fairy cat is a cross-reference pointing the reader to the entry cait sìth. The full record of the fairy cat sits under cait sìth. Related entries include cathpulac and lucht igern.",
+  "entities": [
+    {
+      "entity": "fairy cat",
+      "type": "Concept"
+    },
+    {
+      "entity": "cait sìth",
+      "type": "Being"
+    },
+    {
+      "entity": "cath pulach",
+      "type": "Being"
+    },
+    {
+      "entity": "luchtigearn",
+      "type": "Being"
+    },
+    {
+      "entity": "cat",
+      "type": "Animal"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "fairy cat",
+      "attribute": "Cross-reference listing cait sìth, cath pulach, luchtigearn, with see-also cat"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'fairy cat'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "fairy cat is a multi-target cross-reference signpost for cait sìth.",
+    "key_results": [
+      "Signpost cites the headword cait sìth for the full record.",
+      "Lists cath pulach and luchtigearn as parallel headwords.",
+      "Includes a see-also link to the headword cat."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'fairy cat'."
+  }
+}

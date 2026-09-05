@@ -1,0 +1,61 @@
+{
+  "name": "fairy",
+  "fname": "fairy.json",
+  "text": "fairy names the diminutive supernatural beings in human form that appear across modern Celtic traditions. English uses the single word fairy where the Celtic languages each carry a fuller vocabulary. That mismatch has long hampered careful discussion. Celtic fairy beings may be clever or mischievous. They can help or hinder human endeavour. Learned observers like Giraldus Cambrensis recorded the earliest references. He worked around 1146 to 1223. Oral tradition supplied the great bulk of later lore. The portrayal shows a quasi-orthodoxy that runs through English Scandinavian and Continental material. Scandinavian parallels include the hulda-folk. The absence of a single shared Celtic term for fairy implies the absence of one discrete Celtic tradition. Irish offers sidheog in unreformed form, síóg in reformed form, sheogue as the anglicized shape, and boctogai. Scottish Gaelic uses sithiche. Manx uses ferrish. Welsh uses tylwyth teg, rendered in English as fair family. Cornish records spyrys for spirit. Breton records korriganez and boudig. Courtesy euphemisms for the fairy include several forms. Irish offers daoine maithe, the good people. Irish also uses daoine sídhe, also written áes sídhe or aos si, people of the mound. Welsh euphemisms include bendith y mamau, mother's blessings. Breton uses the equivalent bonnes dames. Cornish uses the phrasal fairy people. Manx lists ny guillyn beggey, ny mooinjer veggey, and ny sleih veggey. Scottish Gaelic uses daoine sith for the parallel mound people.",
+  "entities": [
+    {
+      "entity": "fairy",
+      "type": "Being"
+    },
+    {
+      "entity": "Giraldus Cambrensis",
+      "type": "Character"
+    },
+    {
+      "entity": "tylwyth teg",
+      "type": "Concept"
+    },
+    {
+      "entity": "fair family",
+      "type": "Concept"
+    },
+    {
+      "entity": "hulda-folk",
+      "type": "Being"
+    },
+    {
+      "entity": "féth fiada",
+      "type": "Concept"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "fairy",
+      "attribute": "Diminutive supernatural beings in human form common to all modern Celtic traditions"
+    },
+    {
+      "entity": "fairy",
+      "attribute": "Earliest citations appear in writings of learned observers like Giraldus Cambrensis c.1146-1223"
+    },
+    {
+      "entity": "fairy",
+      "attribute": "Celtic vocabulary includes Irish sidheog / síóg / sheogue / boctogai, ScG sithiche, Manx ferrish, Welsh tylwyth teg, Cornish spyrys, Breton korriganez / boudig"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'fairy'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Anchor the Celtic fairy as a diminutive supernatural tradition with named vocabulary across Irish Scottish Gaelic Manx Welsh Cornish and Breton.",
+    "key_results": [
+      "Names Giraldus Cambrensis as the earliest written source of fairy lore.",
+      "Catalogues Irish ScG Manx Welsh Cornish and Breton vocabulary for the fairy.",
+      "Notes Scandinavian and Continental parallels through the hulda-folk.",
+      "Records courtesy euphemisms including daoine maithe, daoine sídhe, and bendith y mamau."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'fairy'."
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "name": "far gorta",
+  "fname": "far-gorta.json",
+  "text": "far gorta, also spelled fear gorta, comes from the Irish fear gorta. It means man of hunger. The figure is a benevolent fairy of Hiberno-English oral tradition. This pale and emaciated figure appears in famine time. He walks the land and begs door to door. Whoever gives him charity earns good luck. The figure appears so weak and thin that he is hard pressed to lift his begging cup. He has only scraps of clothing to cover his modesty even in winter. Only smug and selfish people turn him away in disgust. He belongs to the same circle of famine folk as the hungry grass.",
+  "entities": [
+    {
+      "entity": "far gorta",
+      "type": "Being"
+    },
+    {
+      "entity": "hungry grass",
+      "type": "Concept"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "far gorta",
+      "attribute": "Benevolent famine-time fairy beggar of Hiberno-English oral tradition"
+    },
+    {
+      "entity": "far gorta",
+      "attribute": "Brings good luck to those who give him charity"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'far gorta'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Define far gorta as the benevolent famine beggar of Hiberno-English folk tradition.",
+    "key_results": [
+      "Identify far gorta as a pale, emaciated fairy who begs in famine time",
+      "Connect him to the wider famine-fairy circle through hungry grass"
+    ],
+    "evidence": "MacKillop 2008, s.v. 'far gorta'."
+  }
+}

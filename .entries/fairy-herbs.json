@@ -1,0 +1,47 @@
+{
+  "name": "fairy herbs",
+  "fname": "fairy-herbs.json",
+  "text": "fairy herbs is a short cross-reference in MacKillop that lists plants bound to fairy lore. MacKillop names dandelion, eyebright, foxglove, and yarrow, and adds ivy, plantain, polypody of oak, and vervain. The full record of these plants sits under the headword dandelion.",
+  "entities": [
+    {
+      "entity": "fairy herbs",
+      "type": "Concept"
+    },
+    {
+      "entity": "dandelion",
+      "type": "Thing"
+    },
+    {
+      "entity": "eyebright",
+      "type": "Thing"
+    },
+    {
+      "entity": "foxglove",
+      "type": "Thing"
+    },
+    {
+      "entity": "yarrow",
+      "type": "Thing"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "fairy herbs",
+      "attribute": "MacKillop plant cross-reference list pointing to dandelion and others"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'fairy herbs'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "fairy herbs is a plant cross-reference list anchored at the dandelion entry.",
+    "key_results": [
+      "Signpost cites the headword dandelion for the full record.",
+      "Signpost lists the other named herbs from the source cross-references."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'fairy herbs'."
+  }
+}

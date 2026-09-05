@@ -1,0 +1,35 @@
+{
+  "name": "fair",
+  "fname": "fair.json",
+  "text": "fair is a one-line stub cross-reference pointing the reader to the entry fair family. The headword fair itself has no dedicated MacKillop article body. The full record sits under the headword fair family.",
+  "entities": [
+    {
+      "entity": "fair",
+      "type": "Concept"
+    },
+    {
+      "entity": "fair family",
+      "type": "Concept"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "fair",
+      "attribute": "Stub pointer directing readers to the headword fair family"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'fair'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "fair is a stub signpost that points to the fair family article.",
+    "key_results": [
+      "Signpost cites the headword fair family for the full record.",
+      "Notes that fair carries no independent article body in MacKillop."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'fair'."
+  }
+}
