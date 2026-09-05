@@ -2,44 +2,66 @@
 layout: layouts/pce.njk
 title: changeling
 icon: file-lines
-order: 454
+order: 512
 contributors: [ 'Christopher Godwin' ]
 attributes:
-  - Bridget Cleary burned to death
-  - Bridget Cleary apparently
-  - Bridget Cleary taking unaccountably ill
-  - belief still strong at that point
-  - belief used to do away with an ambitious and therefore troublesome woman of the community
+  - changeling placed in the bed of a human child
+  - fairy parent took healthy babies
+  - nickname hid the true name from fairies
+  - Wales site of harsh tests on the changeling
+  - changeling Irish names include corpán sidhe, siodhbhradh, and siofra
+  - changeling Manx name lhiannoo shee and Welsh name plentyn a newidiwyd am arall
+  - changeling belief blames malevolent spiritual forces beyond the fairies
 categories:
-  - Event
-  - Date
-  - Person
+  - being
+  - location
+  - concept
 entities:
-  - Bridget Cleary(Person)
-  - 19th century(Date)
-  - Fairy Kidnapping(Event)
+  - changeling(being)
+  - fairy(being)
+  - nickname(concept)
+  - baptism(concept)
+  - Wales(location)
+  - otherworld(location)
+  - corpán sidhe(concept)
+  - lhiannoo shee(concept)
+  - fairy stroke(concept)
 tags:
-  - Bridget Cleary
-  - 19th century
-  - Fairy Kidnapping
+  - changeling
+  - fairy
+  - nickname
+  - baptism
+  - Wales
+  - otherworld
+  - corpán sidhe
+  - lhiannoo shee
+  - fairy stroke
 ---
 ``` tab [group1:Info]
 ::: magazinestyle
-The folklore of the Irish, Scottish, and occasionally Breton regions includes tales of the changeling, a figure associated with fairies. In these tales, fairy babies were born looking like withered little raisinettes, unattractive and more like elderly people than newborns. As a result, many fairy parents were tempted to take plump and jolly human infants and leave their own offspring in their place. To prevent this, there was a strong tradition of protective rituals, such as giving nicknames to children so the fairies could not learn their true names and thus gain power over them. Speedy baptism was also important, as it made a child unattractive to fairies. In place of this, burning old leather shoes in the birthing chamber was deemed a good substitute. If parents discovered their child had been changed, turning from a sweet and calm infant to a bad-tempered, angry brat, there was little recourse but to journey to FairyLAND to try and reclaim the child that had been taken. In some cases, the enchantment of the changeling was so strong that even the parents believed the changed baby was their own. To determine the truth, a test could be administered to the suspected fairy offspring. The suspicious parent would perform an unusual action, such as beating an egg in its shell, rather than in a bowl, or announcing an intention to brew beer from eggs. This would cause confusion to the changeling, which would reveal its true nature by demanding an explanation. Nonetheless, the fairy would remain until the stolen child was found and returned from the Otherworld. Exposing the changeling to the elements was a tactic employed by human parents who sought the return of their children. Unfortunately, such beliefs were sometimes used as justification for abuse and murder of children who were unwanted or disabled. In Wales, the practice was to turn away the said changelings either by exposure to the elements, starvation, or drowning, in the hopes that the fairies would retrieve their lost kin. The fairy changelings were not just infants, as adults who possessed special skills were also taken, including midwives, musicians, and beautiful persons of either gender. In some instances, these individuals were replaced by enchanted stocks of wood. Similar to child changelings, proof exists that people who were believed to have been stolen were subjected to torture and even killed by their own kin. It was still a significant belief in the 19th century as seen from the death of Bridget Cleary who was burned by her family after exhibiting an unexplained illness. This could either mean that the belief was still prevalent or that it was used as a ploy to get rid of a troublesome or ambitious woman in the community. For more information on this, refer to Fairy Kidnapping.
+A changeling is a baby left by fairies in place of a human one. MacKillop frames the belief as widespread across Celtic oral tradition and adds other malevolent spiritual forces to the swap. Irish speech gives several names for the foundling, among them corpán sidhe, siodhbhradh, and siofra. Scottish Gaelic speakers said tàcharan or ùmaidh. On Man the word was lhiannoo shee. In Wales the term was plentyn a newidiwyd am arall. Fairy parents took a healthy child and put their own small, pale offspring in the bed. Parents guarded the child with rituals. A nickname hid the true name so the fairies could not learn it. An early baptism and a shower of old shoes in the birthing room also gave safety. Some families forced the matter by setting the child outside. In Wales a changeling might face harsh tests. Adults of skill or beauty could be stolen too. A block of wood sometimes sat where a person had sat. MacKillop links the subject to the fairy stroke entry.
 
 :::
 ```
 ``` tab [group1:Attributes]
-- **Bridget Cleary**: burned to death
-- **Bridget Cleary**: apparently
-- **Bridget Cleary**: taking unaccountably ill
-- **belief**: still strong at that point
-- **belief**: used to do away with an ambitious and therefore troublesome woman of the community
+- **changeling**: placed in the bed of a human child
+- **fairy**: parent took healthy babies
+- **nickname**: hid the true name from fairies
+- **Wales**: site of harsh tests on the changeling
+- **changeling**: Irish names include corpán sidhe, siodhbhradh, and siofra
+- **changeling**: Manx name lhiannoo shee and Welsh name plentyn a newidiwyd am arall
+- **changeling**: belief blames malevolent spiritual forces beyond the fairies
 ```
 ``` tab [group1:Entities]
-- **Bridget Cleary**: Person
-- **19th century**: Date
-- **Fairy Kidnapping**: Event
+- **changeling**: being
+- **fairy**: being
+- **nickname**: concept
+- **baptism**: concept
+- **Wales**: location
+- **otherworld**: location
+- **corpán sidhe**: concept
+- **lhiannoo shee**: concept
+- **fairy stroke**: concept
 ```
 ``` tab [group1:Sources]
 - Bourke, Angela. The Burning of Bridget Cleary. London: Pimlico, 1999.
@@ -51,5 +73,6 @@ The folklore of the Irish, Scottish, and occasionally Breton regions includes ta
 - Kennedy, Patrick. Legendary Fictions of the Irish Celts. New York: Benjamin Blom, 1969.
 - Parry-Jones, D. Welsh Legends and Fairy Lore. (London: B. T. Batsford, Ltd., 1953), 42.
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
+- MacKillop 2008, s.v. 'changeling'
 ```
 ![changeling Image](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/F%C3%BCssli_-_Der_Wechselbalg_-_1780.jpeg/1200px-F%C3%BCssli_-_Der_Wechselbalg_-_1780.jpeg)

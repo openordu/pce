@@ -2,46 +2,97 @@
 layout: layouts/pce.njk
 title: fire
 icon: file-lines
-order: 990
+order: 1125
 contributors: [ 'Christopher Godwin' ]
 attributes:
-  - Need-Fire practiced when famine or epidemic threatened
-  - hearth fires extinguished
-  - group of men created a new fire by rubbing planks of wood together
-  - flame burst forth
-  - ceremony attended
-  - new fire flame of the new fire taken to their home
-  - original fire doused with water
-  - ashes smeared on cattle for protection
+  - fire the subject of a Kildare ritual
+  - fire-temple found on the cathedral grounds
+  - well dedicated to Brigit
+  - Brigit goddess and saint conflated
+  - La Faele Bhride the feast of Brigit in Kildare
+  - fire held to be the earthly counterpart of the sun
+  - fire honored at Samain, Beltaine, and midsummer bonfires
+  - Mide druid who lit the first fire of Ireland at Uisnech
 categories:
-  - Location
-  - Custom
+  - god
+  - place
+  - mythological figure
+  - person
+  - concept
+  - tribe
+  - event
+  - artifact
 entities:
-  - Scotland(Location)
-  - Need-Fire(Custom)
+  - fire(concept)
+  - fire-temple(artifact)
+  - well(artifact)
+  - Kildare(place)
+  - Brigit(god)
+  - La Faele Bhride(event)
+  - Imbolc(event)
+  - Samain(event)
+  - Beltaine(event)
+  - the feast of St John(event)
+  - Taranis(god)
+  - St Barbe(person)
+  - Dewi Sant(person)
+  - Mide(mythological figure)
+  - Uisnech(place)
+  - Lebor Gabála(artifact)
+  - Nemedians(tribe)
 tags:
-  - Scotland
-  - Need-Fire
+  - fire
+  - fire-temple
+  - well
+  - Kildare
+  - Brigit
+  - La Faele Bhride
+  - Imbolc
+  - Samain
+  - Beltaine
+  - the feast of St John
+  - Taranis
+  - St Barbe
+  - Dewi Sant
+  - Mide
+  - Uisnech
+  - Lebor Gabála
+  - Nemedians
 ---
 ``` tab [group1:Info]
 ::: magazinestyle
-Fire is a symbolic element that is distinct from other major elements as it is not constant. Unlike water, which is present in various forms like rain, rivers, and oceans, and earth, which surrounds us, fire is only found in two ways. It exists within the domestic hearth and in the flames of wildfires, which are commonly caused by lightning. Additionally, fire can be perceived as present in the Sun, often depicted as a ball of flame. The Celts documented a connection between the earthly and solar fires. Celtic mythology includes fire deities that are commonly male for wildfire divinities and female for hearth fire divinities. Continental Celtic thunder god, Taranis, was connected with lightning and the fires that often followed it. Similarly, Lugh appears to have served the same function in insular mythology. The Celts shared the belief of honoring the hearth fire with their Indo-European kin from numerous areas, including Lithuania and India. They followed the ritual of serving the Roman Vesta cult, which was run by a college of priestesses. The Irish goddess Brigit was served by a similar college, and interlocutors argue that the Christian sisterhood of Kildare perpetuated the Celtic tradition. The tradition included tending to an ashless, ever-burning fire, which was taken up by one sister each night for 19 nights, and the 20th day was left for Brigit herself. The flame burnt for over 10 centuries until it was blown out by a Protestant bishop. The Brigidine order, which was established by St. Brigid, relit the holy flame in 1994. With an abundance of female hearthfire divinities and the connection between fire and the sun, one might assume that the sun would be perceived as a goddess. However, the long-standing belief that all cultures considered the sun a masculine force has hindered investigation into this possibility until recently. In recent decades, mounting evidence suggests that sun goddesses were more prevalent than previously thought. Many scholars now argue that the Celts viewed the sun as a nurturing, feminine force, much like the hearth goddess. Others suggest a dual rulership over the sun by both god and goddess. In Ireland, fire was linked with numerous festivals, such as Midsummer. This celebration may have originated from pre-Celtic times or been displaced from Lughnasa, the Celtic summer festival. St. John’s Eve, held on June 23rd, just two days after the summer Solstice, was known as Bonfire Night in many parts of Ireland. Circular fires were lit near holy wells and other sacred sites, and dances were held throughout the night. Failing to light the fires may have resulted in fish not entering the rivers or crops not growing. In Co. Limerick, there was a tradition of striking dancers with a recently cut reed to protect them from illness. The reeds were then thrown into the fire to burn away any potential contagion. The bravest dancers would jump over the fire, and its ashes were used in blessings for crops, livestock, and homes. Fire held a dual significance in Scotland - it was seen as having the power to protect and purify. To safeguard a house and its inhabitants from harm, fire was carried around it in a sunwise direction. The Need-Fire, an ancient practice that persisted in Scotland till fairly recently, was invoked as a means of dealing with famine or epidemic. To ensure success, all hearth fires within a region were first extinguished, after which a group of men would rub planks of wood together until a flame emerged. Those present at the ceremony could then carry a flame from the newly created fire back to their homes. Meanwhile, the original fire would be extinguished with water and its ashes applied on the cattle for protection.
+Fire returns to the ancient fire-temple at Kildare. Restoration in the 1980s uncovered the temple within the Protestant cathedral grounds. Vigils at the well of Brigit continue. Ceremonial events and works make up La Fáile Bhrude, the feast of Brigit, in Kildare. Beyond Kildare the goddess and the saint fused even more firmly. February 1, the festival of Brigit the goddess, also keeps the day that belongs to the saint. MacKillop sets this Irish material inside a wider account of sacred flame. The Celts, like other ancient peoples, held fire for an earthly mirror of the sun. No Celtic Prometheus appears. Fire still purifies as a gift the sun grants. It can cleanse, warm, and light up while it also destroys. Peoples of cold northern Europe honored fire at seasonal feasts. The chief days were the new year on November 1, Samain, and the start of summer on May 1, Beltaine. Vestiges of those celebrations survive into modern times. Great bonfires burned on those days and at midsummer. The church reshaped midsummer as the feast of St John for the supposed birthday of John the Baptist. Celebrations also rolled giant wheels of fire. Julius Caesar and Strabo, classical observers of the first century BC, report a grim rite. The Celts burned victims inside wicker frames shaped like men during such rites. Animal and human captives could perish alive in those frames. A commentator of the ninth century tied such offerings to the thunder-god Taranis. Straw men burned in spring festivals of the medieval and early Renaissance eras may carry that practice forward. Brigit herself, the Irish fire-goddess, became the early saint Brigid. Tradition held that the Breton St Barbe descended from a fire-goddess. St Patrick kindled the paschal flame in Ireland, and Dewi Sant kindled one to claim Wales. In the pseudo-history Lebor Gabála, the druid Mide of the Nemedians lit the first blaze in Ireland at Uisnech. That flame burned for seven years and reached every principal hearth of the island.
 
 :::
 ```
 ``` tab [group1:Attributes]
-- **Need-Fire**: practiced when famine or epidemic threatened
-- **hearth fires**: extinguished
-- **group of men**: created a new fire by rubbing planks of wood together
-- **flame**: burst forth
-- **ceremony**: attended
-- **new fire**: flame of the new fire taken to their home
-- **original fire**: doused with water
-- **ashes**: smeared on cattle for protection
+- **fire**: the subject of a Kildare ritual
+- **fire-temple**: found on the cathedral grounds
+- **well**: dedicated to Brigit
+- **Brigit**: goddess and saint conflated
+- **La Faele Bhride**: the feast of Brigit in Kildare
+- **fire**: held to be the earthly counterpart of the sun
+- **fire**: honored at Samain, Beltaine, and midsummer bonfires
+- **Mide**: druid who lit the first fire of Ireland at Uisnech
 ```
 ``` tab [group1:Entities]
-- **Scotland**: Location
-- **Need-Fire**: Custom
+- **fire**: concept
+- **fire-temple**: artifact
+- **well**: artifact
+- **Kildare**: place
+- **Brigit**: god
+- **La Faele Bhride**: event
+- **Imbolc**: event
+- **Samain**: event
+- **Beltaine**: event
+- **the feast of St John**: event
+- **Taranis**: god
+- **St Barbe**: person
+- **Dewi Sant**: person
+- **Mide**: mythological figure
+- **Uisnech**: place
+- **Lebor Gabála**: artifact
+- **Nemedians**: tribe
 ```
 ``` tab [group1:Sources]
 - Danaher, Kevin. *The Year in Ireland.* Cork: Mercier Press, 1922, 135.
@@ -49,5 +100,6 @@ Fire is a symbolic element that is distinct from other major elements as it is n
 - McCrickard, Janet. Eclipse of the Sun. (Glastonbury: Gothic Image, 1994), 22.
 - Ross, Anne. Folklore of the Scottish Highlands. London: B. T. Batsford, Ltd., 1976, 98.
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
+- MacKillop 2008, s.v. 'fire'
 ```
 ![fire Image](https://upload.wikimedia.org/wikipedia/commons/3/36/Large_bonfire.jpg)

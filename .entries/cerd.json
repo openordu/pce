@@ -1,0 +1,36 @@
+{
+  "name": "cerd",
+  "fname": "cerd.json",
+  "text": "cerd is an Old Irish noun with two related senses. It means a craftsman or artisan, and it also names the handicraft, art, skill, accomplishment, or feat itself. The variant spelling caird points to the same word. See also the craftsman entry for fuller treatment of the figure in early Irish tradition.",
+  "entities": [
+    {
+      "entity": "cerd",
+      "type": "Concept"
+    },
+    {
+      "entity": "caird",
+      "type": "Concept"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "cerd",
+      "attribute": "Old Irish word meaning craftsman or artisan, and also the craft or skill itself"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'cerd'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Document the Old Irish word cerd and its two senses.",
+    "key_results": [
+      "Records cerd as craftsman or artisan.",
+      "Records cerd as the handicraft or feat itself.",
+      "Cross-references the variant caird."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'cerd'."
+  }
+}

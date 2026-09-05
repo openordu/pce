@@ -1,0 +1,52 @@
+{
+  "name": "bwci",
+  "fname": "bwci.json",
+  "text": "bwci, with plurals bwcïod and variant bwca, is Welsh for bogy, hobgoblin, ghost, or spectre. It names a Welsh solitary fairy or ghost of the household. The bwci may serve the home, play pranks there, or strike awe into the family. Folk custom obliges the household to set out bread and bowls of milk on his behalf. Any family that neglects the duty or tampers with what has been left earns his vengeance. Folk tradition often equates the bwci with the pwca, though that spelling tends to mark a livelier temperament. One bwci who pesters a farm maiden keeps the secret name gwarwyn a throt. The entry cross-references bucca, bwbach, and bwgan as related Welsh terms.",
+  "entities": [
+    {
+      "entity": "bwci",
+      "type": "Being"
+    },
+    {
+      "entity": "pwca",
+      "type": "Being"
+    },
+    {
+      "entity": "bucca",
+      "type": "Being"
+    },
+    {
+      "entity": "bwbach",
+      "type": "Being"
+    },
+    {
+      "entity": "bwgan",
+      "type": "Being"
+    },
+    {
+      "entity": "gwarwyn a throt",
+      "type": "Concept"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "bwci",
+      "attribute": "Welsh solitary household fairy or ghost, food-offerings expected, often equated with pwca; secret name gwarwyn a throt."
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'bwci'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Document bwci as a Welsh household fairy with food-offering customs.",
+    "key_results": [
+      "Records Welsh gloss bogy, hobgoblin, ghost, spectre and variants bwcïod, bwca.",
+      "Notes the food-offering rule and vengeance for neglect or tampering.",
+      "Cross-references pwca, bucca, bwbach, bwgan and the secret name gwarwyn a throt."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'bwci'."
+  }
+}

@@ -1,5 +1,5 @@
 {
- "text": "Ball seirc is an Irish mythological motif. It is a love spot on a hero's skin. The handsome hero Diarmait carried such a mark. The spot sat on his forehead or sometimes on his shoulder. Any woman who saw it fell in love with him. To live a quiet life he hid it under a fringe of hair or a cap. He showed the mark by accident while fighting a pack of dogs. The heroine Grainne spied it at that moment. She loved him at once. She then tricked Diarmait into fleeing with her.",
+ "text": "Ball seirc is an Irish mythological motif. The Irish name means a love spot or a blemish on the skin. The handsome hero Diarmait bore the mark, and his full name was Diarmait Ua Duibne. The spot sat on his forehead, and at times on his shoulder. Every woman who saw the spot desired him. He hid it beneath a fringe of hair or a cap to live in peace. While he fought a pack of dogs the mark came into view. Grainne spied it in that moment and loved him at once. She then tricked Diarmait into fleeing with her.",
  "entities": [
   {
    "entity": "ball seirc",
@@ -11,6 +11,10 @@
   },
   {
    "entity": "Grainne",
+   "type": "Person"
+  },
+  {
+   "entity": "Diarmait Ua Duibne",
    "type": "Person"
   }
  ],
@@ -38,22 +42,31 @@
   {
    "entity": "Grainne",
    "attribute": "tricked Diarmait into escaping with her"
+  },
+  {
+   "entity": "ball seirc",
+   "attribute": "Irish term meaning a love spot or blemish on the skin"
+  },
+  {
+   "entity": "Diarmait",
+   "attribute": "known in full as Diarmait Ua Duibne"
   }
  ],
  "okr": {
-  "objective": "Ball seirc is the Irish love spot on Diarmait's flesh that draws Grainne to him and sets the elopement in motion.",
+  "objective": "Ball seirc is the Irish love spot that made Diarmait irresistible to women and set Grainne's elopement in motion.",
   "key_results": [
-   "The ball seirc is a dimple or other mark on Diarmait's forehead or shoulder",
-   "It made him irresistible to women, so he hid it under bangs or a cap",
-   "Diarmait revealed the mark while struggling with some dogs",
-   "Grainne saw it, fell in love, and tricked Diarmait into escaping"
+   "The Irish term ball seirc names a love spot or blemish on the skin",
+   "The spot sat on Diarmait's forehead or shoulder and drew every woman who saw it",
+   "He hid it under a fringe of hair or a cap, and it showed while he fought a pack of dogs",
+   "Grainne saw the mark, fell in love at once, and tricked Diarmait into fleeing with her"
   ],
-  "evidence": "Monaghan 2008, s.v. 'ball seirc'."
+  "evidence": "Monaghan 2008, s.v. 'ball seirc'. MacKillop 2008, s.v. 'ball seirc'."
  },
  "cyphertext": "8p6BhGSCHcQAuEjlZPvP7TWaLwkw1R2Z9OZHrghQcHkBdwf1yXtx_EdGyC0r5PlCvwBFLXzWpq79XpqtgFYy2eKMk1BvacGbgR-2ddgW6DlHFVYTSLHcEOsB_SrwkRJaL6xk3M7iGO3SlDK8zrF-WOnNH1ItGI2hQXKZiIP13tEXY1ah5yhM6L9jhfqzpfpJ6MPD0TsnHjjnO0M7lnqQY0VP7sz8GNKylRCjRysgS811Z9n_cBEMqeFeFisXY8TEaEtjio4aLKP0OisWB_dG3GA28kh7INo484gPrvz0SnGsnLKxtR18D4oSpFkEgmchiDXUPSNvfLIENvW-20t4H4891ZszP9pFuz98mK_1erPvTfLuHIiJe6ka7jMdOpJJIhVPmtB--b4XOn7QNPF5HwbAnLlaoOLeuxYL3nH9RnRA7Yh8zqGvKCi3oQGal7HFA71Zm69HRi7Sclzh3vDg9qCF8rSVsN1JQ0M9Tk1MYjcJmssn6IEARiGWV3FMbutXPXfcmZBjYgcywn9VKG5C6BhMHW7QXSchPR8FG_r8wmg96OfJu7TV4mX6FIiYGEDMeUUUzgRLPYkGuR5Q7JXcM99B6foMC07LR6ZhG2VdY-GjOmfCgX8s1AFalkDMeD2JhnSnMe1TqpLAbsbdLbHgIg9UfD54M31TpR1Vff9RYfzkT9ytUHufRqKwjUtCV-pJJrfywTwi2HmMjNw6IJu3",
  "salt": "wOCyiBJoFJ_HFpO_DUWocw==",
  "sources": [
-  "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+  "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.",
+  "MacKillop 2008, s.v. 'ball seirce'"
  ],
  "name": "ball seirc"
 }

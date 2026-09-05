@@ -1,0 +1,35 @@
+{
+  "name": "bocaidhe",
+  "fname": "bocaidhe.json",
+  "text": "Bocaidhe is a modern Irish term for the fairies. The entry compares it with Old Irish bocaide, a he-goat. In west Donegal the diminutive form boctogai serves for the same beings.",
+  "entities": [
+    {
+      "entity": "bocaidhe",
+      "type": "Being"
+    },
+    {
+      "entity": "fairies",
+      "type": "Being"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "bocaidhe",
+      "attribute": "Modern Irish term for the fairies, compared with Old Irish bocaide (he-goat)"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'bocaidhe'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Record bocaidhe as a modern Irish term for the fairies.",
+    "key_results": [
+      "Compare the word with Old Irish bocaide, a he-goat.",
+      "Note the west Donegal diminutive form boctogai."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'bocaidhe'."
+  }
+}

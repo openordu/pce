@@ -1,0 +1,44 @@
+{
+  "name": "commote",
+  "fname": "commote.json",
+  "text": "The commote (variant spelling commot; Welsh cwmwd) is a territorial and administrative division of medieval Wales. In most arrangements a cantref or cantred grouped one or more commotes beneath it, so the commote sat one level below the cantref in the Welsh land-hierarchy. A given cantref could therefore be assembled from several smaller commotes rather than forming a single undivided unit. MacKillop frames the term strictly as a Welsh administrative unit, separate from the Irish and Scottish tale-cycles and place-name material that surrounds the entry in the dictionary. The MacKillop entry closes by leaving the reader with the cantref above and the local land-unit beneath it as the operative frame.",
+  "entities": [
+    {
+      "entity": "commote",
+      "type": "Concept"
+    },
+    {
+      "entity": "cantref",
+      "type": "Concept"
+    },
+    {
+      "entity": "Wales",
+      "type": "Place"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "commote",
+      "attribute": "Welsh territorial and administrative division (Welsh cwmwd), usually subordinate to a cantref"
+    },
+    {
+      "entity": "commote",
+      "attribute": "Variant spelling commot also recorded in the dictionary entry"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'commote'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Anchor the commote as a Welsh administrative unit one level below the cantref.",
+    "key_results": [
+      "Gives the Welsh etymon cwmwd and the variant spelling commot",
+      "Places the commote beneath the cantref in the land-hierarchy",
+      "States that a cantref might be assembled from several commotes"
+    ],
+    "evidence": "MacKillop 2008, s.v. 'commote'."
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "name": "búanfach",
+  "fname": "buanfach.json",
+  "text": "búanfach is the name of an Irish board-game whose rules no longer survive. The word may draw on Irish buan, meaning good or lasting. Scholars compare the lost game to fidchell and brandub. Eóin MacWhite discusses búanfach and related early Irish board-games in his article Early Irish Board Games, published in Éigse 5 (1945), pages 25 to 35.",
+  "entities": [
+    {
+      "entity": "búanfach",
+      "type": "Concept"
+    },
+    {
+      "entity": "fidchell",
+      "type": "Concept"
+    },
+    {
+      "entity": "brandub",
+      "type": "Concept"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "búanfach",
+      "attribute": "Irish board-game whose rules are lost"
+    },
+    {
+      "entity": "búanfach",
+      "attribute": "perhaps comparable to fidchell or brandub"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'búanfach'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Record the lost Irish board-game búanfach as named by MacKillop.",
+    "key_results": [
+      "States the game rules are lost to modern readers",
+      "Links búanfach to fidchell and brandub as comparable games"
+    ],
+    "evidence": "MacKillop 2008, s.v. 'búanfach'."
+  }
+}

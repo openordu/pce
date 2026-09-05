@@ -1,0 +1,68 @@
+{
+  "name": "dandelion",
+  "fname": "dandelion.json",
+  "text": "dandelion names the common plant Taraxacum officinale, a yellow-flowered weed whose leaves are edible. Celtic peoples credited the plant with curative powers. The strongest reputation lay in treating heart problems and in warding off diseases blamed on fairies. Irish speakers called the plant caisearbhán, or caol dearg when used as medicine. Scottish Gaelic speakers named it am beàrnan Brìde. In Manx the plant was lus y minnag. Welsh speakers called it dant y llew. Cornish speakers used dans-lew. Breton speakers used c'hwervizon.",
+  "entities": [
+    {
+      "entity": "dandelion",
+      "type": "Thing"
+    },
+    {
+      "entity": "Taraxacum officinale",
+      "type": "Thing"
+    },
+    {
+      "entity": "caisearbhán",
+      "type": "Thing"
+    },
+    {
+      "entity": "caol dearg",
+      "type": "Thing"
+    },
+    {
+      "entity": "am beàrnan Brìde",
+      "type": "Thing"
+    },
+    {
+      "entity": "lus y minnag",
+      "type": "Thing"
+    },
+    {
+      "entity": "dant y llew",
+      "type": "Thing"
+    },
+    {
+      "entity": "dans-lew",
+      "type": "Thing"
+    },
+    {
+      "entity": "c'hwervizon",
+      "type": "Thing"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "dandelion",
+      "attribute": "Plant of Celtic curative reputation, especially for heart trouble and fairy-caused illness"
+    },
+    {
+      "entity": "dandelion",
+      "attribute": "Carries distinct names in Irish, Scottish Gaelic, Manx, Welsh, Cornish, and Breton"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'dandelion'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Document the dandelion as a Celtic curative plant and list its regional names.",
+    "key_results": [
+      "Identifies the plant as Taraxacum officinale.",
+      "Names its Celtic medicinal reputation against heart trouble and fairy disease.",
+      "Lists six regional names across Irish, Scottish Gaelic, Manx, Welsh, Cornish, and Breton."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'dandelion'."
+  }
+}

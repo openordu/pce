@@ -1,0 +1,52 @@
+{
+  "name": "curragh",
+  "fname": "curragh.json",
+  "text": "curragh comes from the Irish word corrach, which means wet bog, march, morass, or low-lying plain. Across Ireland and the Isle of Man, any wide stretch of boggy lowland earns this name. The most celebrated example sits at The Curragh of Kildare. That ground covers roughly 5,000 acres and runs about 6 miles by 2 miles. It lies 2 miles east of the town of Kildare. Irish storytellers have placed Fenian tales on The Curragh for more than 1,000 years. The site also holds prehistoric ring burial-mounds and a feature folklorists call the Race of the Black Pig. Scholars sometimes read the Race as a relic cattleway. During 1798, soldiers killed some 350 unarmed United Irishmen on this ground. A famous horse race-track operates here today. The Irish military uses the site as a training centre.",
+  "entities": [
+    {
+      "entity": "curragh",
+      "type": "Concept"
+    },
+    {
+      "entity": "The Curragh of Kildare",
+      "type": "Place"
+    },
+    {
+      "entity": "Ireland",
+      "type": "Place"
+    },
+    {
+      "entity": "Isle of Man",
+      "type": "Place"
+    },
+    {
+      "entity": "Kildare",
+      "type": "Place"
+    },
+    {
+      "entity": "Fenian tales",
+      "type": "Text"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "curragh",
+      "attribute": "flat boggy terrain of Ireland and the Isle of Man, best known from The Curragh of Kildare"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'curragh'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Record the curragh as a flat boggy terrain with The Curragh of Kildare as the prime example.",
+    "key_results": [
+      "Etymology from Irish corrach recorded",
+      "The Curragh of Kildare dimensions and locale named",
+      "Fenian tales, prehistoric mounds, 1798 massacre, race-track, and military training centre listed"
+    ],
+    "evidence": "MacKillop 2008, s.v. 'curragh'."
+  }
+}

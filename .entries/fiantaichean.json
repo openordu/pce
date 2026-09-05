@@ -1,0 +1,34 @@
+{
+ "name": "fiantaichean",
+ "fname": "fiantaichean.json",
+ "text": "Fiantaichean is a MacKillop headword. The label sits under the Fianna cross-reference in the dictionary. MacKillop records it as the Scottish Gaelic form of the Irish Fianna. The note directs the reader to the Fianna entry for the full record.",
+ "entities": [
+  {
+   "entity": "fiantaichean",
+   "type": "Concept"
+  },
+  {
+   "entity": "Fianna",
+   "type": "Concept"
+  }
+ ],
+ "attributes": [
+  {
+   "entity": "fiantaichean",
+   "attribute": "Scottish Gaelic form of the Irish Fianna, per MacKillop"
+  }
+ ],
+ "sources": [
+  "MacKillop 2008, s.v. 'fiantaichean'"
+ ],
+ "image": [],
+ "cyphertext": "",
+ "salt": "",
+ "okr": {
+  "objective": "Define the MacKillop headword fiantaichean as the Scottish Gaelic form of Fianna.",
+  "key_results": [
+   "Records the Scottish Gaelic label and links to the Fianna entry."
+  ],
+  "evidence": "MacKillop 2008, s.v. 'fiantaichean'."
+ }
+}

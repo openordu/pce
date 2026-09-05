@@ -2,46 +2,96 @@
 layout: layouts/pce.njk
 title: boar
 icon: file-lines
-order: 267
+order: 286
 contributors: [ 'Christopher Godwin' ]
 attributes:
-  - boars originate in the Otherworld
-  - Otherworld source of their fierce strength in the surface world
+  - boar a symbolic animal
+  - boar the most savage animal the ancient Celts met
+  - boar stood for strength, tenacity, and sexual potency
+  - boar its meat was part of the Champion's Portion
+  - Arkan Sonney a white fairy pig that brought good luck on the Isle of Man
+  - Diarmait Ua Duibine died on a poisonous bristle after killing a boar
+  - Diarmait Ua Duibine was killed by a boar at several claimed sites, most often Ben Bulben in Sligo
+  - Donn Ua Duibne killed a bastard son whose transformation produced the boar that slew Diarmait
+  - Twrch Trwyth the otherworld boar of Welsh tradition with the Breton counterpart Tourtain
 categories:
-  - Mythical Place
-  - Book
-  - Place
   - Animal
+  - Person
+  - Place
+  - Title
+  - Concept
+  - Being
 entities:
-  - Welsh Mabinogion(Book)
-  - boars(Animal)
-  - Otherworld(Mythical Place)
-  - surface world(Place)
+  - boar(Animal)
+  - Champion's Portion(Concept)
+  - Arkan Sonney(Being)
+  - Isle of Man(Place)
+  - Diarmait Ua Duibine(Person)
+  - Otherworld(Concept)
+  - Mabinogion(Title)
+  - Donn Ua Duibne(Person)
+  - Ben Bulben(Place)
+  - Twrch Trwyth(Being)
+  - Tourtain(Being)
+  - Pryderi(Person)
+  - Gwydion(Person)
+  - Gilfaethwy(Person)
+  - Hychdwn Hir(Being)
 tags:
-  - Welsh Mabinogion
-  - boars
+  - boar
+  - Champion's Portion
+  - Arkan Sonney
+  - Isle of Man
+  - Diarmait Ua Duibine
   - Otherworld
-  - surface world
+  - Mabinogion
+  - Donn Ua Duibne
+  - Ben Bulben
+  - Twrch Trwyth
+  - Tourtain
+  - Pryderi
+  - Gwydion
+  - Gilfaethwy
+  - Hychdwn Hir
 ---
 ``` tab [group1:Info]
 ::: magazinestyle
-The boar holds symbolic importance as an animal. Celts encountered the male pig or wild boar, which was depicted in art and coins from both insular and continental sources, representing the most savage animal they were to encounter. As a result, the boar came to represent strength, tenacity, and sexual potency. It was commonly consumed as part of the Champion's portion, which was often praised in song and story. The boar's skin was used for warriors' cloaks, and it represented prosperity, as its meat was highly favored. Various Gaelic languages refer to the boar as Torc, which is also the word for the warrior's neckpiece. The boar is frequently mentioned in important cycles of Irish legend, particularly in the story of Diarmait Ua Duibine, who kills a boar that was causing mayhem only to die when he stepped on one of its poisonous bristles while measuring its size. Legends also mention an otherworldly pig that could be endlessly replenished as it was carved up and devoured. In the Welsh Mabinogion, boars originate from the Otherworld, which may account for their fierce strength in the surface world.
+The boar stands among the chief symbolic animals of the Celtic world. Art and coins from insular and continental sources carry its image. It was the most savage beast the ancient Celts faced. It signified raw force, firm endurance, and sexual power. Its flesh often filled the Champion's Portion, and that favor made it an emblem of prosperity. Warriors cloaked themselves in its hide. The Arkan Sonney of the Isle of Man, a white fairy pig called the lucky piggy, brought luck. Irish legend gives the animal a lethal role. Diarmait Ua Duibine stepped on the dead boar's poisonous bristle while measuring the carcass. MacKillop records several claimed death sites and ranks Ben Bulben in Sligo as the most popular. He also traces the animal's origin. Diarmait's father Donn Ua Duibne killed a bastard son, and that slain youth became the boar. MacKillop separates a boar often cited in Fenian stories from this killer. Welsh tradition prizes the boar as well. In some Welsh stories boars serve as cult heroes. Twrch Trwyth, the otherworld swine of Welsh tale, has Tourtain as his Breton counterpart. In the third branch of the Mabinogion a gleaming white boar lures Pryderi into an enclosure that holds him. In the fourth branch Gwydion wears boar shape while Gilfaethwy takes sow shape, and their pairing produces Hychdwn Hir. Mabinogion boars arrive from the Otherworld. An Otherworld pig could be eaten and still restore its flesh without end.
 
 :::
 ```
 ``` tab [group1:Attributes]
-- **boars**: originate in the Otherworld
-- **Otherworld**: source of their fierce strength in the surface world
+- **boar**: a symbolic animal
+- **boar**: the most savage animal the ancient Celts met
+- **boar**: stood for strength, tenacity, and sexual potency
+- **boar**: its meat was part of the Champion's Portion
+- **Arkan Sonney**: a white fairy pig that brought good luck on the Isle of Man
+- **Diarmait Ua Duibine**: died on a poisonous bristle after killing a boar
+- **Diarmait Ua Duibine**: was killed by a boar at several claimed sites, most often Ben Bulben in Sligo
+- **Donn Ua Duibne**: killed a bastard son whose transformation produced the boar that slew Diarmait
+- **Twrch Trwyth**: the otherworld boar of Welsh tradition with the Breton counterpart Tourtain
 ```
 ``` tab [group1:Entities]
-- **Welsh Mabinogion**: Book
-- **boars**: Animal
-- **Otherworld**: Mythical Place
-- **surface world**: Place
+- **boar**: Animal
+- **Champion's Portion**: Concept
+- **Arkan Sonney**: Being
+- **Isle of Man**: Place
+- **Diarmait Ua Duibine**: Person
+- **Otherworld**: Concept
+- **Mabinogion**: Title
+- **Donn Ua Duibne**: Person
+- **Ben Bulben**: Place
+- **Twrch Trwyth**: Being
+- **Tourtain**: Being
+- **Pryderi**: Person
+- **Gwydion**: Person
+- **Gilfaethwy**: Person
+- **Hychdwn Hir**: Being
 ```
 ``` tab [group1:Sources]
 - Campbell, J. F. Popular Tales of the West Highlands. Vol. III. Edinburgh: Edmonston and Douglas, 1862, 81.
 - Green, Miranda. Symbol and Image in Celtic Religious Art. London: Routledge, 1989. Pp. 27, 139.
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
+- MacKillop 2008, s.v. 'boar'
 ```
 ![boar Image](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Wildschwein%2C_N%C3%A4he_Pulverstampftor_%28cropped%29.jpg/1200px-Wildschwein%2C_N%C3%A4he_Pulverstampftor_%28cropped%29.jpg)

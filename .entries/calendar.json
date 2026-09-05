@@ -56,6 +56,18 @@
         {
             "entity": "Samain",
             "attribute": "gives its name to the month of November and to a quarter day on 1 November"
+        },
+        {
+            "entity": "Coligny",
+            "attribute": "bronze tablets unearthed in 1897 and preserved at Lyons"
+        },
+        {
+            "entity": "Coligny",
+            "attribute": "sixty-two consecutive months spanning about five solar years"
+        },
+        {
+            "entity": "Samain",
+            "attribute": "1 November by the Julian and Gregorian count but 11 November in Gaelic Scotland"
         }
     ],
     "entities": [
@@ -110,26 +122,40 @@
         {
             "entity": "Gregorian calendar",
             "type": "concept"
+        },
+        {
+            "entity": "Lyons",
+            "type": "place"
+        },
+        {
+            "entity": "MAT",
+            "type": "concept"
+        },
+        {
+            "entity": "ANM",
+            "type": "concept"
         }
     ],
     "sources": [
         "Danaher, Kevin. “Irish Folk Tradition and the Celtic Calendar.” In The Celtic Consciousness, edited by Robert O’Driscoll, 217–242. New York: George Braziller, 1981.",
         "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.",
-        "Koch 2006, s.v. 'Calendar'"
+        "Koch 2006, s.v. 'Calendar'",
+        "MacKillop 2008, s.v. 'calendar'"
     ],
     "image": [
         "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Kalender_Indonesia.jpg/1200px-Kalender_Indonesia.jpg"
     ],
     "cyphertext": "tYMOKdzh-0LR7Cp_djBeRhSUYP2hhzHbt4x2eJUFMNrxpSDIt7nnKxUcU-TWGDbetpZ8OTxTx0emYe0FBRnl4oys9Xqs4I0ni2glRBgP169u96B_7a1GVbhTLxoldTm2wxNyJTtkGHfJloeQmaWHJo7z2-O6NtL-AY8xaOSh0NlWQ-Q9eOSmHTCOG5-f3hlbC3cqEiM36CxZNNdy-OcBUN6DvbYky_iYdmAePRaggdaPZPahUNSiSPxW5ZaMipYEWwGtKMJ_CZwA9_J5bBatSRvUiaZg7olBhZ_V04ljIp892IxZP35a6J-B8WC5kZjIxkEExyviUB0A2lftK1iziiFVWlR5xFJy4GaVE2xAmW-zEi9Lqs-ItBWrXaZMEz1hB8ob0gxBM2-zy02RT1GC8Ytth-Dxn9WdoDMN6nH0kLFD_zqMaSGHuPiLc9-KEKdm38korZl83sIcmb-cgGCzA_JNRbPaFyJMlyTTnMiTpAcsKw58dIz3o2my4qCkE23JXtoH4ity2hhA6NO0qm4-CPYZCxSbfqV3YjKeJuxKcPdlfTnR_zIUZaZoUlnpytlztHtgNOnT8S0WuIic8ZJ1j6zMgw8yZmQ2I2WqM_4KiMxXXW60sulaIKzuscGrWwqmPb-HWCUxixMYxya1ad7TLpuTy7t5S5aqYRLqLIFDKlojWVut6_EoYxjysRm7jqRgYg30aMqneh8XglsHoLaMegSphOgBlpd8zCNohWgZyTZ4tLGKDs6RVori7hAWPLbGK6dKdV0VP32FvJXE14SzgkC8o84vbOWgi66aFtqOTN7vqEpUqNmBPwc87_ywiRybKdBQ-Fll8COs5LIxOz1HpIOffxChGKwU2tK4a0u4Z_9GPWDmV2hIUyNiL4o7pIY0yT-CKfVPdvaxBkxVkdL_DIVfBPdT7zR7E1J6xe7ipj-AQCG6exikc9iroT5R0XoEgb-m0Rlh5e9oXq1O6l8ElQSzqd8JttKCd1e4ktIRjUp4t9WzRss7CTNXsN4-jEPmwB5z0pRnnl7OA_2vwrn6SLH1t9UehsPee7f4gS9SPcSYuVDOdZOroZatR9GbnwSz9S8pZIdBEgJ9Fs9rzwU37Oi9zFggK9-9h6FTnSMGzTO8270BDHun081dFwd5lM2JOgPREGzl4VLr0Dv580ZP7wraQNhtrRUwMXisfF0RHrQrZ8mdO51tQqddo8Rdgk-zypfL2IRBgxFLXzcMxIxp53gb6QnrfL1ooSlFz556oRFZtM6EKlfMgHCYpa6mXnJwRmOk_5lcCJa5jXcj6NT2SwBzufF5WzU_lLR0rlkjbpx5MVf5JC5BnlWGiHjvUNs2bMT9uR9N0ldWGyv4X2liLIX8xDRQwoAEgaxs1FH1QSmyNz_z7ice3wiuAzHSPAmDSCG5UZopkQsShugr7vUiEeIpveKOmbkf0MTqBY5z6ciiQzE0QM4wAwFUG38ez0SFFjj3mIEabNckjRZN0-FdoTmcHZYjES-7Y3Vpzn3rmvlFrAwjiD5qZbBRByuQtTUBWs-XgrDdLR5D-U2U6Cbv-B9pyAOKO0uwbeH9_IP5U-J4Y4PM4NReLTSF2AA8zjLRgVRsiSTNuCBF5MXCxLJdvibSxRjZW2OCn2kldeZpC6enbs0M1BK8PvNNOIxgSPqAxSRJnAMQG4rq1W-jKUSXToHeLJYb8kFmlbRKkKrEZqbyCCvDtRDXMbM5cAdjrLPLSwtpncNDxgcvW6gxfK08-3fSEXeNSdKtZz7QQSYbfBib2VqZft-NZn4_yesdWLQePMEyCyyKo4-aYvfrIgX6BFho3bXxGvRxupy4QZOzo01cHtXIFlUqWafgLRlc4_5YG6SFVnuphNBT3bE9C9Dk19NS4Sr0VGl2IaVdRofsH3cf-w5lKI7wWh-1LmPLKiFIQT8DW124-xvSoUnDk4s5ElI2cEPmbxgdjFQDRCWXLHVL8giGBe8pCqFhNtKo6J-VF1I5O02B5HWS2EqJiYnIRfp_LqrMCkxD8aIOigK-_inKKh-ratrE7IntvrkCPvaQbPOZ-4sTgxf3YHZ1sfZOLPEv0UmnieYMQ-SvW1Q-BmxgozzlqlUTz1JEwrJJH5Qqh39TLA000VIKwtfA9Dyox4AoYPCkGh2YHlHDCu7naZFLfXrS_DkyeCf3qRRxg5OJKcF3pFRsmFK71dR4X7IkWQGVANMZjD9J40nt3RdH0aqO-Rk1jNpoQ_dfeDFfbKNeeA6IRQhLNAnDeo8luhK0KYPUBErQoOT-CjQzOHXVyea9j-F8ObxDJX75k8xxuSrCUHZZzwQG15_hNPYGMxGhgcyg71p5K2NEMVQm0J-O98DsAcnZ-R5xNInIshaApbLDW3krklJobIo27UOBZcW3TtDn63VyNOVTedhCFzxPkZbRvaJSJYFY8vAS6_YkfNyCEZBALabTRrd97GkqHbSmgh99EY6qxb0qLtB2FTv1PsWI_IVd8bMiVmyYGXLB-w7mggR0esTAXN9r__DK6YvsEMiU6L8cGeFMITtAjvfDCokWq0oljAf8adPVVCUz8F4uX5FUIAWpyn6b5wiBW8wo50DZJqBEH95t141tlp47Ph9vGUgOHbg79o7uh5GuJuvI4aXfx2FFTWtaNRvB1Lei9ewQDlxRChhGJxQ8TBPjp5qR2TzJBZVn3jchP24NoI-2ICnOj7Vh3Ux3vkcTuEgjVi9xFequFo1cpXLsy21OLm2fXK0Ru9cL3m2Gyh-8VV0U8S93sMyERuHhCUaSYj3n-11aRA2Gmgel6pfHvItsNbx39Hs8tyWfyLHmUuixigVqpqGc0i5TUZ-9bwOaJc7xor0f5LHbsWXJsil0aMnV7nprYE_vxRLfP2Zw_qqok_R4IEHWht8tlnk4q_Ktl9d3zzldY5pvZM27K8GNvQFVrVHd_0jZ8mAATgXtfyh99bUb4uerQLMAkLo6S7GDYKq9Wed4RTCwUVepjhLtULdn73MZ27DsdSaDbR8RL9orYVJDKE4Yd0fh80Y7tThivfWE8j5LgNn4bidOagvPxzMkfmyHgojU8AC_ajUNJVG3NW2Whm9qgdL2qBmwwgdYRqqFqKUcJjCEkjlIuMJjGoXI-Zp4twPRmYHgbdJrXbhCpfSgC9Yrl0NUtVeh8IDIXo-mo0kv6--YYMlp0cnNT9R3c9M1Sck8rOLlGe2_yNFdqG6xa0jyNIX4hCsRbURUAYV6qtqyzHDDe3ggjoXuowkGjggOpnXHAMJOLO6VLHBQJqjSzbuuDb86qFcyobFNqSEToRLo3VW7",
     "salt": "kYt0fvgpxXhOSqHq5tsbhA==",
-    "text": "The Celtic peoples kept no single calendar that survived into later use. The pre-Christian systems are well documented, notably the lunar Coligny Calendar from Gaul. The seven-day week reached the Celts from Rome, and the Celtic day may have run from dusk to dusk. August and November take their names from Lugnasad and Samain, while December rests on Christmas. The Gregorian reform reached England, Ireland, and Wales in 1752. The Irish year still turns on four quarter days.",
+    "text": "The Celtic peoples kept no single calendar that survived into later use. The pre-Christian systems are well documented, notably the lunar Coligny Calendar from Gaul. Celtic timekeeping assumed that darkness came before light. The year therefore opened at the start of winter. Samain began the year on 1 November by the Julian and Gregorian count. Gaelic Scotland kept it on 11 November. Beltaine opened the light half on 1 May, though Scotland held it on 15 May. Imbolc divided the dark half on 1 or 2 February. Lughnasa divided the light half on 1 August, with some Scottish observance as late as 29 September. Workers found the bronze tablets at Coligny in 1897. The site lies 14 miles north-north-east of Bourg-en-Bresse in eastern France. The tablets carry the most extensive text yet recovered in the Gaulish language, from the first century AD. They rest today at Lyons. They record sixty-two consecutive months, close to five solar years. Each month runs twenty-nine or thirty days and splits into halves. The twelve-month lunar year gained a thirty-day month every third year to match the sun. The tablets mark months as MAT, good, or ANM, not good. Welsh Triads keep this habit in the words mad, fortunate, and anfad, unfortunate. The seven-day week reached the Celts from Rome. The Celtic day ran from dusk to dusk. August and November take their names from Lugnasad and Samain, while December rests on Christmas. The Gregorian reform reached England, Ireland, and Wales in 1752. The Irish year still turns on four quarter days.",
     "okr": {
-        "objective": "Document the Celtic reckoning of time, from the lunar Coligny Calendar to the four quarter-day festivals.",
+        "objective": "Document Celtic timekeeping from the Coligny tablets to the four quarter-day festivals.",
         "key_results": [
-            "Record the Roman origin of the seven-day week and of the Celtic names for the days.",
-            "Note the slow adoption of the Gregorian reform across the Celtic countries.",
-            "Show the Irish quarter days continuing the older festivals Imbolc, Beltaine, Lugnasad, and Samain."
+            "State the darkness-first premise and the winter start of the Celtic year.",
+            "Give the dates of Samain, Beltaine, Imbolc, and Lughnasa with their Scottish variants.",
+            "Record the Coligny tablets of 1897, their sixty-two months, and the MAT and ANM marks.",
+            "Keep the Roman seven-day week, the dusk-to-dusk day, and the Gregorian change of 1752."
         ],
-        "evidence": "Koch 2006, s.v. Calendar, pp. 331-333"
+        "evidence": "MacKillop 2008, s.v. 'calendar'."
     }
 }

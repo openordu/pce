@@ -1,0 +1,76 @@
+{
+  "name": "black",
+  "fname": "black.json",
+  "text": "black names the darkest colour, and Celtic tradition loads it with evil, dread, and death. The Irish crow-goddess Badb, a figure of battlefields, keeps close ties to blackness. The villain Arca Dubh killed Cumhall. A one-eyed giant, the Black Oppressor, fights the Welsh hero Owain. Breuddwyd Rhonabwy parades Danish knights dressed in black. The colour also appears beside red and white in the motif Z65.1. That triple shapes the stories of Peredur, of Deirdre, and of the modern tale King of Ireland's Son. Tellers explain the triple through the raven's black and the dark hair of the beloved. White matches snow and the beloved's skin. Red matches blood on the lips or as a cheek spot. A later Christian reading finds the Trinity in the three shades. In that reading black marks condemnation by God, red the Crucifixion, and white the spirit made clean.",
+  "entities": [
+    {
+      "entity": "black",
+      "type": "Concept"
+    },
+    {
+      "entity": "Badb",
+      "type": "Character"
+    },
+    {
+      "entity": "Cumhall",
+      "type": "Character"
+    },
+    {
+      "entity": "Arca Dubh",
+      "type": "Character"
+    },
+    {
+      "entity": "Black Oppressor",
+      "type": "Being"
+    },
+    {
+      "entity": "Owain",
+      "type": "Character"
+    },
+    {
+      "entity": "Breuddwyd Rhonabwy",
+      "type": "Text"
+    },
+    {
+      "entity": "Peredur",
+      "type": "Character"
+    },
+    {
+      "entity": "Deirdre",
+      "type": "Character"
+    },
+    {
+      "entity": "The King of Ireland's Son",
+      "type": "Text"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "black",
+      "attribute": "Celtic colour of evil, dread, and death"
+    },
+    {
+      "entity": "black",
+      "attribute": "Forms the Z65.1 triple with red and white"
+    },
+    {
+      "entity": "black",
+      "attribute": "Christian reading links it to condemnation by God"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'black'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "black charts the evil, courtly, and mystical roles of the darkest colour in Celtic narrative.",
+    "key_results": [
+      "Node ties black to Badb, Arca Dubh, the Black Oppressor, and the knights of Breuddwyd Rhonabwy.",
+      "Node explains the Z65.1 triple in Peredur, Deirdre, and The King of Ireland's Son.",
+      "Node records the later Christian Trinity reading of the three colours."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'black'."
+  }
+}

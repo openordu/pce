@@ -1,0 +1,47 @@
+{
+  "name": "cyfarwyddyd",
+  "fname": "cyfarwyddyd.json",
+  "text": "cyfarwyddyd names the office of guidance, instruction, information, and knowledge in medieval Welsh literary tradition. The role linked recitation, exposition, and narrative memory across court and assembly. Constance Bullock-Davies studied the office through her work on Professional Interpreters of the Matter of Britain, published in Cardiff in 1966. Proinsias Mac Cana placed related practice in Learned Tales of Medieval Ireland, issued in Dublin in 1980. Patrick K. Ford set out the poet as cyfarwydd in an article in Studia Celtica, volumes 10 and 11, dated 1975-6.",
+  "entities": [
+    {
+      "entity": "cyfarwyddyd",
+      "type": "Concept"
+    },
+    {
+      "entity": "Constance Bullock-Davies",
+      "type": "Character"
+    },
+    {
+      "entity": "Proinsias Mac Cana",
+      "type": "Character"
+    },
+    {
+      "entity": "Patrick K. Ford",
+      "type": "Character"
+    },
+    {
+      "entity": "Studia Celtica",
+      "type": "Text"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "cyfarwyddyd",
+      "attribute": "Welsh term for guidance, instruction, information, and knowledge in early narrative tradition"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'cyfarwyddyd'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Document the cyfarwyddyd concept and its three cited scholarly treatments.",
+    "key_results": [
+      "Glosses cyfarwyddyd as guidance, instruction, information, and knowledge.",
+      "Cites Bullock-Davies 1966, Mac Cana 1980, and Ford 1975-6."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'cyfarwyddyd'."
+  }
+}

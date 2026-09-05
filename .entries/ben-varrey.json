@@ -1,0 +1,43 @@
+{
+  "name": "ben-varrey",
+  "fname": "ben-varrey.json",
+  "text": "ben-varrey is the Manx term for the mermaid. The word belongs to the sea-folk lore of the Isle of Man. Her male counterpart in Manx belief is the dinny-mara. Together the two names cover the merman and mermaid pair of Manx coastal tradition.",
+  "entities": [
+    {
+      "entity": "ben-varrey",
+      "type": "Being"
+    },
+    {
+      "entity": "dinny-mara",
+      "type": "Being"
+    },
+    {
+      "entity": "Isle of Man",
+      "type": "Place"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "ben-varrey",
+      "attribute": "Manx name for the mermaid"
+    },
+    {
+      "entity": "ben-varrey",
+      "attribute": "Male counterpart is the dinny-mara"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'ben-varrey'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Record ben-varrey as the Manx name for the mermaid.",
+    "key_results": [
+      "Node gives the Manx term and its mermaid meaning.",
+      "Node names the dinny-mara as the male counterpart."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'ben-varrey'."
+  }
+}

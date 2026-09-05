@@ -1,0 +1,36 @@
+{
+  "name": "curmudgeon",
+  "fname": "curmudgeon.json",
+  "text": "curmudgeon is a common English translation of the Irish bodach. The bodach also appears in Scottish Gaelic tradition as a hobgoblin figure. MacKillop records curmudgeon as the regular English rendering of this Celtic word. The Irish and Scottish Gaelic bodach denotes a hobgoblin or similar uncanny being in folk belief. curmudgeon thus names the English term that scholars and translators often reach for when conveying the Celtic concept.",
+  "entities": [
+    {
+      "entity": "curmudgeon",
+      "type": "Concept"
+    },
+    {
+      "entity": "bodach",
+      "type": "Being"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "curmudgeon",
+      "attribute": "common English translation of the Irish bodach, a hobgoblin figure"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'curmudgeon'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Record curmudgeon as a common English translation of the Irish bodach.",
+    "key_results": [
+      "English translation role named",
+      "Irish headword bodach named",
+      "Hobgoblin classification noted"
+    ],
+    "evidence": "MacKillop 2008, s.v. 'curmudgeon'."
+  }
+}

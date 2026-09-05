@@ -16,6 +16,22 @@
     {
       "entity": "díchetal do chennaib",
       "attribute": "did not invoke old gods"
+    },
+    {
+      "entity": "díchetal do chennaib",
+      "attribute": "Old Irish sense rendered as extempore incantation"
+    },
+    {
+      "entity": "díchetal do chennaib",
+      "attribute": "seer conveyed the message in quatrain or verse"
+    },
+    {
+      "entity": "ollam",
+      "attribute": "required to master both díchetal do chennaib and imbas forosnai"
+    },
+    {
+      "entity": "Fionn mac Cumhaill",
+      "attribute": "described as especially proficient at díchetal do chennaib"
     }
   ],
   "entities": [
@@ -42,24 +58,40 @@
     {
       "entity": "divination",
       "type": "Practice"
+    },
+    {
+      "entity": "fili",
+      "type": "Person"
+    },
+    {
+      "entity": "ollam",
+      "type": "Person"
+    },
+    {
+      "entity": "imbas forosnai",
+      "type": "Practice"
+    },
+    {
+      "entity": "Fionn mac Cumhaill",
+      "type": "Person"
     }
   ],
   "sources": [
-    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.",
+    "MacKillop 2008, s.v. 'díchetal do chennaib'"
   ],
   "cyphertext": "-250DGHoq3wyg8soAVU172bwF-U8RiVM4c2SypUJx0E-ADuCZuUE286WTRb9r0a4Jlrjux7g6MxO2mJw1JpMw9sAJ5t6WCltn-GMXLXF9r1h8UIf3DqJ9ATdhodtugA2CVWKFyoMYgIk260I5EjhL55Vm8iZqkpgGzhg5PkggaXi25pYZgTlRP72pAUF36FWHzEy63okv5wDX9SOsaIeeknEx3uCRtMMCTdhPFsPpgnqssJl9-oZ9szns0zXeDeNfm10EIaRcFiUS5-NIegZarf2xYhDyHYsqhU5Thmi2qlXpqzXLzgTGvbDG5616VYKIvXSFKQJ1iMqhwf4gMTZG95SlUvgiEKSPQrmay18PIJ8zcdfblTkC-oe-GyJixYL0CXAUbDT_QI2948HiibB_an9mWujCPYkBFadi35dWIMioyx6gl0fW-kJiHa6Tog0wINQ6sYvcLoM9TfkWdaC9xhKxcXkqEWiL21xF-YA2JG2Jgxt0jipDzAoRzjFx-zBCuQdT8tN0ysVO5KP3uFK1wSA_uvHCEMw7mz1-EZ6okZ-Fn3kE1wiIvhHP69g4GapBygdrtDmjypCgIKgsVHPSm-Ev-1D739wYPA8koxWwX1SSEW0nL746f86ywVRCQe4GCnM8vAo7DSFVtx8hnvBZokMOJF_m2sNI9yJydPVBY9Rh945wj3AzP02cHeMj_drt8Boonll37nOxmH5xM2M-hJ5mpdPwzj3xKi63mw_XGDDzxV1zpTb3Pl56Uqg4xnxC4SYwCg4-16rf79kzQuf-r1SYWfGnddNYDjfPA1ByJ8R0ER-5w5e5vyJNXI5b5-9fLXCQZ5TjPTEMtvoGiQQNqSqfFCHdN65ivveiwLyvIT_N6XPV1awSeuqwv4AlhBXr6Id2GW39Z7Kdjpb75sfF0CRLyty8_UbGugtkllFicsT9r0-ZVkpvDnUOu-0AEZGvuGo9yzO0J0ouKAPoKTXrXh1XbdPiszJrp548t55UiUSfe-7iD1VQM3g3gZK9kLvTMwn2eSnwUCHVdMPAA5JxQ==",
   "salt": "fyH53zmj7YovAY9ZejuhWg==",
-  "text": "Díchetal do chennaib was a form of divination used by the ancient Irish. Its name means composing on the fingertips. Writers are unsure how it worked. It may have been psychometry, which reads information about a person or object through touch. It may have been an incantation that used fingertips as mnemonic aids for memorizing words or syllables. It may also have been a prophecy in which bards and seers among the druids drew meaning from an automatic flood of speech. The practice rested on Celtic religious custom in Ireland. Saint Patrick permitted its continued use when he banned other divinatory arts. He allowed it because this ritual did not call on the names of the old gods.",
+  "text": "Díchetal do chennaib was a form of divination used by the ancient Irish. MacKillop records variant forms, among them díchetal do chennaib and dichedal do chennaib, and renders the Old Irish sense as extempore incantation. Poets called filid and druids composed this kind of spell in early Ireland. Early sources describe composers working extemporaneously, often with the fingertips. That use of the fingers may point toward divination. Writers are unsure how the ritual worked. It may have been clairvoyance or psychometry, which reads a person or object through touch. The seer then conveyed the message in quatrains or verse. It may instead have been an incantation that used the fingertips as mnemonic aids. It may also have been a prophecy in which bards and seers drew meaning from an automatic flood of speech. The ollam, the highest grade of poet, had to master both this art and the imbas forosnai. Fionn mac Cumhaill appears in the tales as especially skilled at díchetal do chennaib. Saint Patrick permitted its continued use when he banned other divinatory arts. He allowed it because judges held the ritual harmless and free of pagan rites.",
   "okr": {
     "objective": "Describe the mysterious Irish ritual díchetal do chennaib and note why Saint Patrick allowed it.",
     "key_results": [
-      "The name díchetal do chennaib translates as composing on the fingertips.",
-      "Scholars are unsure whether it was psychometry or an incantation.",
-      "It may have produced prophecy through an automatic flood of speech.",
-      "Saint Patrick allowed it because it did not invoke the names of old gods."
+      "MacKillop renders díchetal do chennaib as an Old Irish extempore incantation composed by filid and druids.",
+      "Composers worked extemporaneously with the fingertips, which may imply divination.",
+      "Scholars debate whether it was clairvoyance, psychometry, or prophecy delivered in quatrains.",
+      "The ollam had to be proficient in both this art and imbas forosnai, and Fionn mac Cumhaill excelled at it.",
+      "Saint Patrick allowed the ritual to continue because judges deemed it harmless and free of pagan rites."
     ],
-    "evidence": [
-      "Monaghan, Encyclopedia of Celtic Mythology and Folklore (2003): díchetal do chennaib."
-    ]
+    "evidence": "MacKillop 2008, s.v. 'díchetal do chennaib'."
   }
 }

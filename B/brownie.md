@@ -2,51 +2,69 @@
 layout: layouts/pce.njk
 title: brownie
 icon: file-lines
-order: 334
+order: 359
 contributors: [ 'Christopher Godwin' ]
 attributes:
-  - Bucca of Wales Equivalent creature in other Celtic areas
-  - Highland Bodach Equivalent creature in other Celtic areas
-  - Manx fenodyree Equivalent creature in other Celtic areas
-  - Glastig Related creature
+  - brownie housebound and friendly member of the fairy race
+  - Juliette Gordon Low named the youngest branch of Girl Scouts after the brownie
+  - Gruagach brownie of the Hebrides that seemed divine
+  - brownie stout hairy man who wore ragged brown clothes
+  - brownie did threshing, tidying, and horse-currying at night
+  - brownie left when offered a suit of human clothes
+  - brownie a name known only in English form, from the earlier phrase little brown man
+  - brownie wears a brown hood and attaches itself to families in farmhouses or barns
+  - brownie assisted at childbirth and answered criticism by wrecking dishes, milk, cattle, and crops
 categories:
-  - Location
+  - Being
+  - Person
   - Creature
 entities:
-  - Celtic areas(Location)
-  - Bucca of Wales(Creature)
-  - Highland Bodach(Creature)
-  - Manx fenodyree(Creature)
-  - Glastig(Creature)
+  - brownie(Creature)
+  - Juliette Gordon Low(Person)
+  - Gruagach(Creature)
+  - fairy(Being)
+  - boggart(Creature)
+  - kobold(Creature)
+  - Fenodyree(Creature)
 tags:
-  - Celtic areas
-  - Bucca of Wales
-  - Highland Bodach
-  - Manx fenodyree
-  - Glastig
+  - brownie
+  - Juliette Gordon Low
+  - Gruagach
+  - fairy
+  - boggart
+  - kobold
+  - Fenodyree
 ---
 ``` tab [group1:Info]
 ::: magazinestyle
-A Scottish and British mythical figure, known as the brownie, has been a source of inspiration for many. Juliette Gordon Low, a feminist, named the youngest members of Girl Scouts after these helpful household spirits that were traditionally seen as friendly members of the Fairy race. While some argue that brownie may not have roots in the Celtic or pre-Celtic worldviews, there is evidence to suggest that it is a late mythological development. One theory suggests that brownie may have emerged from ancestor worship, in which forebears are imagined to be hanging around to help the living. However, due to its close relationships with fairies, brownie may have an exalted past as well. The specialized brownie, called the Gruagach, had divine qualities, and people used to pour milk offerings over its sacred stones to persuade it to protect their herds. Brownie's appearance is also a debatable topic, with some believing it to be a stout, hairy man, while others believe it to be fair and flowing-haired, not necessarily rotund. Brownie typically wore ragged brown clothes but could sometimes take on the form of a female. Brownie's specialty was doing barn work at night, which included threshing, tidying, currying horses, and more. They also worked outdoors with sheepherding, mowing, running errands, and could even be a confidante and adviser if needed. Having a brownie in the household was considered a blessing, and a visible representation of one was a good omen. The brownie was occasionally given milk in a special vessel, but it was crucial not to draw too much attention to his needs or shoddy attire in the presence of the other supernatural beings living there. Should anyone offer a human outfit, the brownie would swiftly quit his loyalties and find work elsewhere. The boggart, a hobgoblin notorious for causing mayhem and throwing things around the house, was commonplace in Cornwall and could emerge if mistreated by his host family. Other Celtic regions featured similar beings, such as Wales' Bucca, the Highland Bodach and the Manx fenodyree (see Glastig).
+The brownie is a friendly household spirit of Scottish and British folklore. Its name survives only in English and derives from the older phrase little brown man. Feminist Juliette Gordon Low recalled such spirits and named the youngest branch of her Scouts after them. Some evidence presents the brownie as a late development without roots in the Celtic worldview. One theory traces it to disguised ancestor worship. A brown hood and ragged brown clothes dress the brownie. It attaches itself to families and lives in farmhouses or barns. It does its work at night while people sleep. It threshes grain, tidies the house, curries horses, herds sheep, and mows fields. MacKillop adds that a brownie has even assisted at childbirth. It can serve as a confidante and adviser. Householders must not fuss over its needs. A gift of clothes makes the brownie leave forever. Criticism provokes revenge instead. An offended brownie smashes dishes, spills milk, drives cattle off course, and ruins crops. Most observers described it as a stout hairy man, typically male. Others called it short but not rotund, with fair flowing hair. The Gruagach of the Hebrides seemed divine and guarded the herds. People poured milk over stones it held sacred. MacKillop classes the brownie as a solitary fairy despite its goodwill. It shares much with the kobold of Germanic folklore. The belief spread through the British Isles and the English-speaking world. The Cornish boggart is its trickster version.
 
 :::
 ```
 ``` tab [group1:Attributes]
-- **Bucca of Wales**: Equivalent creature in other Celtic areas
-- **Highland Bodach**: Equivalent creature in other Celtic areas
-- **Manx fenodyree**: Equivalent creature in other Celtic areas
-- **Glastig**: Related creature
+- **brownie**: housebound and friendly member of the fairy race
+- **Juliette Gordon Low**: named the youngest branch of Girl Scouts after the brownie
+- **Gruagach**: brownie of the Hebrides that seemed divine
+- **brownie**: stout hairy man who wore ragged brown clothes
+- **brownie**: did threshing, tidying, and horse-currying at night
+- **brownie**: left when offered a suit of human clothes
+- **brownie**: a name known only in English form, from the earlier phrase little brown man
+- **brownie**: wears a brown hood and attaches itself to families in farmhouses or barns
+- **brownie**: assisted at childbirth and answered criticism by wrecking dishes, milk, cattle, and crops
 ```
 ``` tab [group1:Entities]
-- **Celtic areas**: Location
-- **Bucca of Wales**: Creature
-- **Highland Bodach**: Creature
-- **Manx fenodyree**: Creature
-- **Glastig**: Creature
+- **brownie**: Creature
+- **Juliette Gordon Low**: Person
+- **Gruagach**: Creature
+- **fairy**: Being
+- **boggart**: Creature
+- **kobold**: Creature
+- **Fenodyree**: Creature
 ```
 ``` tab [group1:Sources]
 - Briggs, Katherine. The Fairies in Tradition and Literature. London: Routledge & Kegan Paul, 1967.
 - Keightley, Thomas. The Fairy Mythology. London: H. G. Bohn, 1870.
 - MacGregor, Alasdair Alpin. The Peat-Fire Flame: Folk-Tales and Traditions of the Highlands & Islands. Edinburgh: The Moray Press, 1937, 44+.
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
+- MacKillop 2008, s.v. 'brownie'
 ```

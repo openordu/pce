@@ -1,0 +1,35 @@
+{
+  "name": "blackthorn",
+  "fname": "blackthorn.json",
+  "text": "blackthorn is the thorny shrub prunus spinosa. People in Ireland trusted it to shield them from ghosts. The Modern Irish name draighean carries that protective lore. The wood has long been favoured for light walking-sticks. Custom bars cutting the shrub on 11 May and on 11 November.",
+  "entities": [
+    {
+      "entity": "blackthorn",
+      "type": "Thing"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "blackthorn",
+      "attribute": "Shrub prunus spinosa, held to ward off ghosts in Ireland"
+    },
+    {
+      "entity": "blackthorn",
+      "attribute": "Must not be cut on 11 May or 11 November"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'blackthorn'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "blackthorn records the protective and craft uses of prunus spinosa.",
+    "key_results": [
+      "Node ties the shrub to ghost-warding in Ireland and to walking-stick wood.",
+      "Node gives the two forbidden cutting dates, 11 May and 11 November."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'blackthorn'."
+  }
+}

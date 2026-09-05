@@ -1,0 +1,48 @@
+{
+  "name": "boctogai",
+  "fname": "boctogaí.json",
+  "text": "Boctogai is a west Donegal name for the fairies, spelled also bostogai and buctogai. The word is an Irish variant of bocaidhe. These fairies made their home in the sea rather than on land. They gathered most often around rocks and along the shore. Mortals found them harsher than the land fairies were. In rough weather watchers saw their heads rise well above the waves. Every visible head bore yellow hair that reached the middle of the back. The Donegal people also called them bunadh beagna farraige, a phrase that means wee folk of the sea.",
+  "entities": [
+    {
+      "entity": "boctogai",
+      "type": "Being"
+    },
+    {
+      "entity": "bocaidhe",
+      "type": "Being"
+    },
+    {
+      "entity": "fairies",
+      "type": "Being"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "boctogai",
+      "attribute": "West Donegal term for fairies dwelling in the sea near rocks and shore"
+    },
+    {
+      "entity": "boctogai",
+      "attribute": "Heads with long yellow hair seen above the water in rough weather"
+    },
+    {
+      "entity": "boctogai",
+      "attribute": "Alternate Irish name bunadh beagna farraige, glossed wee folk of the sea"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'boctogai'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Describe the boctogai, the sea-dwelling fairies of west Donegal.",
+    "key_results": [
+      "Identify boctogai as an Irish variant of bocaidhe.",
+      "Record the sea habitat, the rough-weather appearances, and the harsher temper toward mortals.",
+      "Note the alternate name bunadh beagna farraige."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'boctogai'."
+  }
+}

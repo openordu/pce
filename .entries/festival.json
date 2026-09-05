@@ -16,6 +16,18 @@
     {
       "entity": "sacred center",
       "attribute": "a geographical and spiritual concept"
+    },
+    {
+      "entity": "festival",
+      "attribute": "the word descends from Medieval Latin"
+    },
+    {
+      "entity": "Samain",
+      "attribute": "fell in November"
+    },
+    {
+      "entity": "Beltaine",
+      "attribute": "fell in May"
     }
   ],
   "entities": [
@@ -34,25 +46,36 @@
     {
       "entity": "sacred center",
       "type": "concept"
+    },
+    {
+      "entity": "Samain",
+      "type": "event"
+    },
+    {
+      "entity": "Beltaine",
+      "type": "event"
     }
   ],
   "sources": [
-    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.",
+    "MacKillop 2008, s.v. 'festival'"
   ],
   "image": [
     "https://upload.wikimedia.org/wikipedia/commons/6/64/Village_Feast_Fac_simile_of_a_Woodcut_of_the_Sandrin_ou_Verd_Galant_facetious_Work_of_the_End_of_the_Sixteenth_Century_edition_of_1609.png"
   ],
   "cyphertext": "Y0BF3ObR6-SjVwr_TJTEMMzDdymIV2xE2U2TFTKTaAIfAIg0u_Vor_NckpaVLHhjpNGuj0vQ-oIb1Q==",
   "salt": "bBY18ey7hPDEsOfkqU4_Ww==",
-  "text": "Celtic peoples marked the midpoints between great solar events. Imbolc fell on February 1, when winter moved toward spring. Lughnasa fell on August 1, when summer passed into fall. Other peoples divided their year by the solstices, on June 21 and December 21, and by the equinoxes, on March 21 and September 21. The Celts watched the midpoints rather than the points of change. This choice may spring from a belief in the sacred center, a concept both geographical and spiritual.",
+  "text": "Celtic peoples marked the midpoints between great solar events. Imbolc fell on February 1, when winter moved toward spring. Lughnasa fell on August 1, when summer passed into fall. MacKillop counts four mainline festival days on the Celtic calendar. Samain arrived in November, Imbolc in February, Beltaine in May, and Lughnasa in August. Other peoples divided their year by the solstices and the equinoxes. Those points fell on June 21, December 21, March 21, and September 21. The Celts watched the midpoints rather than the points of change. This choice may spring from a belief in the sacred center, a concept both geographical and spiritual. The word festival itself descends from Medieval Latin.",
   "okr": {
-    "objective": "The festival entry explains the Celtic marking of midpoints between solar events.",
+    "objective": "The festival entry explains the Celtic habit of marking midpoints and names the four mainline festival days.",
     "key_results": [
-      "Imbolc fell on February 1.",
-      "Lughnasa fell on August 1.",
-      "Other peoples marked the solstices and equinoxes.",
-      "The sacred center is both geographical and spiritual."
+      "Imbolc fell on February 1 and Lughnasa fell on August 1.",
+      "Samain fell in November and Beltaine fell in May.",
+      "Other peoples divided the year by solstices and equinoxes.",
+      "The Celts watched midpoints rather than points of change.",
+      "The sacred center is both geographical and spiritual.",
+      "The word festival descends from Medieval Latin."
     ],
-    "evidence": "Monaghan, Encyclopedia of Celtic Mythology and Folklore"
+    "evidence": "MacKillop 2008, s.v. 'festival'"
   }
 }

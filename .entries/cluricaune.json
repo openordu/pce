@@ -16,6 +16,18 @@
     {
       "entity": "Little Wildbeam",
       "attribute": "helped a Quaker family in Cork"
+    },
+    {
+      "entity": "cluricaune",
+      "attribute": "one of the three Irish solitary fairies"
+    },
+    {
+      "entity": "cluricaune",
+      "attribute": "carries the shilling fortune, a purse that runs with silver"
+    },
+    {
+      "entity": "cluricaune",
+      "attribute": "matches the buttery spirit of European folklore, motif F473.6.3"
     }
   ],
   "entities": [
@@ -42,26 +54,36 @@
     {
       "entity": "Co. Cork",
       "type": "location"
+    },
+    {
+      "entity": "far darrig",
+      "type": "mythological creature"
+    },
+    {
+      "entity": "buttery spirit",
+      "type": "mythological creature"
     }
   ],
   "sources": [
     "Croker, T. Crofton. Fairy Legends and Traditions of the South of Ireland. London: William Tegg, 1862, 73.",
-    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.",
+    "MacKillop 2008, s.v. 'cluricaune'"
   ],
   "image": [
     "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Four_Provinces_Flag.svg/1200px-Four_Provinces_Flag.svg.png"
   ],
   "cyphertext": "kl6TkvLlQ75gJGx2N7PaU6kTR1opI8CiMbFa8_6LlSIGz8zZ0TIbtQ9iGk94BNrsGd3ndeCzvQ1SFGe_2iSgCvCbmI0xE0c8cWdzBnqcDlsIqXogHEyFIPcRWWRL-jtn-_6CMBvTRj2CNPM8sxoY8HidWl6hJfGjCkvJrLvL4xfD451kiTQ6FzK_c7C4yFpv8GHOI4n1-RdR0oIqAplBLwh86wOG-hPPC2c7134WT2KL6hIg1B0I6wQe8lvAhIGohc6CLSAZ2KnQIIo3b0ogZPP7MuWeMFOOfsoechGWEcb1Gx_Pjbu6Q5pFjvLVpy9wzDb6Q6q-R4B-PHRVKqgP2eNcOuCItQSQXzga9p0DmqQb7TbdtBlTf1LrxqQX5t_tkpWAqtTVF7oH6MdTZpl9UC0YTHMxo6PAvTVILhAoYPvnhgdkqIB2JtgfClFmXfHzhdZtP6yuee_5YkYjnpqlSqoLfWt-MhF_f2OCQPYvVxVYjU9GI63tpMUngBLAdbrPptDc4mThWRpP3QvGW1-fY8C4tsQUmryvjtGWHBeBqqbsaRc3UWcNaI_2H3_w_MAyz7VhKlIVBMS6C9tAKqNFjeaD7Z_7EP271MHYr65eId12hsB8b7E2P3KXXU5YQB7jnn92IU1TLPRzw6JkU5v6GBMlWMYlW_hCnaWQ21IjxM9Z68XMeHX5iUZDEogtP8FnZR8aa_qn-xcYzLjZ0yuwiRCbHAm4YcfDbX5ifXe-4S1HsLIX-8-6bfW7sK_WvI1tjYHS2VyJ3OB_TJ43QH9dAzr4DhxG_NpogT70lNHfD3LELobTRAC_yLCyppQzvobJnOHDuUL0uxJ6eHCZ9fUbZEls_yO7tvjQxFxoWCnQGNKrEwxD0CuToI77rxDKDDVTUTk4jXa4HfpYi6bGWWopmvTaQ5yhF3vBkUDV4Uzp2W9ZM-FC7x1Gp063kF1K6sZhpvDJ7w1G4WhFTM-gN_MZEvI9fG9uprYYNVuHUncvRbKF1F-oYud-kr9sbDFJCFYwnJJ_Qp2ctcBkd8EBx4a1NDEHRqz_sDO-ElF39CKa6GicOCI6gNaa1NTHQi-fvo3XdTRWyjG5JY7t28JGECWC7kcxCUtza9xz7533OFplvPf35xaDvL25YfL56giKYK_kspbLmdNJNgp0fgUR-CBrehWqKLVo8Nc8ZPZ4Zk0u73SZuI2EUImGtTZNokdtEXsUK_9UsWsXyzRGUcojp8ok7zjefHuQMHFsETbOILQfRwscCC8ul4rSaG378siGoZguvV1eZruFTi8PcT0Q9aL2Bi0Geavf_pDnIjVQHFEMhqk456PgMGd2Nc7j1KSvnEE54xf9oirxxrFg8qlZMKifrOPqkXRP69p7NS8_5CR1u-DbjX_pGYbBK7f77cxXaP7F0WAqmkM4jyZrbmY2_fNkvC7aPXn7AwsEXsu-miUrX4kW6DgvfLTcSMpnxaOtjBOtGHVwxIbpInS3YkmgQNKWIsV_ymYVuGRpcI_35HZZIIyZaozC-KhcYA1RlY7BpGBOOzXD8gigpxXA6dZuK9Gb94EBZYKt8sNsbBopswwbCv6twQhJK8x1qBxikFGa8GiWeL4vTrEya9BlR5HMc5TSi_to0T_mvy1213OrXyArDamEppU_f6014mPG2YJwwa0hr5awyf9eiD9RojiobmV7PbaFP1otQx8ENhsygeM3MSOSWoypTHVqYqS24KSHjTdW3IEC5GWw0znWlm30YovVZp2RuHxjshFHkX0juL99X2GgG8gdckQzb8FOM-1Q4jHm6sunO4dDEcXaFdsZzCCcewqhb5MMoUXn7uy4zYNl97gbhOiTELgvkP2Zz6QmMPq0MCm2si80pBKsUaKFTd_dKFZDSzt-bsFZDpfu-YjG8Ks6txxV72CBDp-OHL91eq72y7DLUhUxCl_-VP112dWnRloXmtMdDO7yfxjB3I0frRERRQ==",
   "salt": "9oo-6KgSkCDKB_viKS5Qtw==",
-  "text": "The cluricaune is a Scottish and Irish being. Unlike the busy leprechaun, this solitary fairy liked to lounge and to dress with care. He wore silver-buckled shoes, a cap with golden lace, and a suit of red, the color of the Solitary Fairy. Fond of strong drink, he stole into wine cellars to lift bottles. He was hard to expel, for he rode away inside a cask. Folk in Co. Cork used this name, while nearby areas gave him other names. One such being, named Little Wildbeam, helped a Quaker family in Cork by saving every drop of beer from a cask.",
+  "text": "The cluricaune is a Scottish and Irish household sprite. In Irish his names were cluracan, durachan, and clutharachan. Of the three Irish solitary fairies, one is this sprite. A second fellow is the leprechaun, and a third goes by the name far darrig. Commentators have worked to mark him off from the better-known leprechaun. In his Dublin dictionary of 1927, Dinneen calls him a dwarfish sprite. He is usually a withered little man, with a stronger pink tinge on his nose. Red, the color of the Solitary Fairy, clothed him more often than green. Unlike the busy leprechaun, this solitary fairy liked to lounge and to dress with care. He showed no desire for work of any kind. He wore silver-buckled shoes, a cap with golden lace, and blue silk stockings under his breeches. Fond of strong drink, he stole into wine cellars to lift bottles. In that habit he matched the buttery spirit of European folklore, folk motif F473.6.3. Like the leprechaun he knew where gold lay hidden. He could also carry the shilling fortune, a purse that ran with silver. Householders found him hard to expel, for he rode away inside a cask. Folk in Co. Cork used this name, while nearby areas gave him other names. One such being, Little Wildbeam, helped a Quaker family in Cork by saving every drop of beer from a cask.",
   "okr": {
-    "objective": "The cluricaune is a solitary fairy who curses wine cellars and dresses with care.",
+    "objective": "The cluricaune is a solitary household fairy who steals drink and dresses with care.",
     "key_results": [
-      "The cluricaune is a solitary fairy of Scotland and Ireland.",
-      "He wears silver-buckled shoes and a red suit.",
-      "He steals wine and is difficult to drive away.",
-      "One such being, Little Wildbeam, served a Cork family."
+      "Of the three Irish solitary fairies, this sprite has two fellows, the far darrig and the leprechaun.",
+      "He is a withered little man in red, with silver buckles and blue silk stockings.",
+      "He does no work, steals wine, and can carry a purse that runs with silver.",
+      "His habits match the buttery spirit of European folklore, folk motif F473.6.3.",
+      "Little Wildbeam, one such sprite, served a Quaker family in Cork."
     ],
-    "evidence": "Monaghan, Encyclopedia of Celtic Mythology and Folklore"
+    "evidence": "MacKillop 2008, s.v. 'cluricaune'"
   }
 }

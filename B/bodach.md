@@ -2,36 +2,74 @@
 layout: layouts/pce.njk
 title: bodach
 icon: file-lines
-order: 270
+order: 289
 contributors: [ 'Christopher Godwin' ]
 attributes:
-  - word sometimes found in Ireland
-  - figure referring to the same figure
+  - bodach a Scottish folkloric figure
+  - bodach appears as a harmless trickster in the Highlands
+  - Bodach Glas a male banshee seen just before a death
+  - bodach made beckoning motions or stared into windows after dark
+  - Bodach a Chipein a friendly Highland fairy who wept at funerals
+  - bodach a bugbear figure of Gaelic and Irish folklore that frightens naughty children
+  - Bodach an Chóta Lachtna a huge grey-coated Fenian Cycle helper revealed as Manannán mac Lir
+  - bodachan sàbhail a helpful barn sprite who threshed grain for old farmers
 categories:
-  - Location
-  - Object
+  - Person
+  - Place
+  - Being
 entities:
-  - Ireland(Location)
-  - figure(Object)
+  - bodach(Being)
+  - carle(Being)
+  - Bodach Glas(Being)
+  - Bodach a Chipein(Being)
+  - banshee(Being)
+  - Highlands(Place)
+  - Manannán mac Lir(Person)
+  - Walter Scott(Person)
+  - Bodach an Chóta Lachtna(Being)
+  - bodachan sàbhail(Being)
 tags:
-  - Ireland
-  - figure
+  - bodach
+  - carle
+  - Bodach Glas
+  - Bodach a Chipein
+  - banshee
+  - Highlands
+  - Manannán mac Lir
+  - Walter Scott
+  - Bodach an Chóta Lachtna
+  - bodachan sàbhail
 ---
 ``` tab [group1:Info]
 ::: magazinestyle
-A Scottish figure believed to exist in folklore is the bodach (carle). In the Highland region, this folkloric figure could manifest in two forms — either as a harmless prankster, or as the Bodach Glas or Dark Gray Man, a male Banshee that would appear just before an imminent death. The term bodach is derived from its portrayal as a frail elderly man that made invitations or stared into windows during night-time hours. Even though somewhat intimidating, the bodach was not considered to be significantly dangerous. Another Highland Fairy was the Bodach á Chipein, or the “Old Man with the Peg”. Known to be friendly and amiable, it would observe humans while they engaged in their routine activities, shedding tears every time mourners passed by. Occasionally, the term is found in Ireland, indicating the same figure.
+The bodach is a folkloric old man in Scottish Gaelic and Irish tradition. The word means churl or clown in Irish and an old or churlish person in Scottish Gaelic. It descends from Old Irish botach, serf or peasant. It is a bugbear figure of Gaelic and Irish folklore. In recent years it serves chiefly to frighten naughty children. Modern children's books translate the name as curmudgeon or as Nod. Earlier, the bodach was a more formidable figure. In the Highlands it could be a harmless trickster that made beckoning signs or peered into windows after dark. As the Bodach Glas, the Dark Gray Man, it was a male banshee appearing just before death. Walter Scott's novel Waverley of 1814 shows a bodach glas that foretells death. The Bodach a Chipein, or Old Man with the Peg, was a friendly Highland fairy. It watched humans at daily tasks and wept when funerals went by. Ireland keeps a related tale figure, the Bodach an Chóta Lachtna, the churl in the grey coat. This huge ugly helper races for the Fenians against a challenger called Ironbones. He dawdles and eats blackberries before the tale reveals him as Manannán mac Lir. A gentler cousin, the bodachan sàbhail, was a helpful barn sprite who threshed grain for old farmers. Matching bugbear figures appear as the bwci of Wales and the buggane of Man.
 
 :::
 ```
 ``` tab [group1:Attributes]
-- **word**: sometimes found in Ireland
-- **figure**: referring to the same figure
+- **bodach**: a Scottish folkloric figure
+- **bodach**: appears as a harmless trickster in the Highlands
+- **Bodach Glas**: a male banshee seen just before a death
+- **bodach**: made beckoning motions or stared into windows after dark
+- **Bodach a Chipein**: a friendly Highland fairy who wept at funerals
+- **bodach**: a bugbear figure of Gaelic and Irish folklore that frightens naughty children
+- **Bodach an Chóta Lachtna**: a huge grey-coated Fenian Cycle helper revealed as Manannán mac Lir
+- **bodachan sàbhail**: a helpful barn sprite who threshed grain for old farmers
 ```
 ``` tab [group1:Entities]
-- **Ireland**: Location
-- **figure**: Object
+- **bodach**: Being
+- **carle**: Being
+- **Bodach Glas**: Being
+- **Bodach a Chipein**: Being
+- **banshee**: Being
+- **Highlands**: Place
+- **Manannán mac Lir**: Person
+- **Walter Scott**: Person
+- **Bodach an Chóta Lachtna**: Being
+- **bodachan sàbhail**: Being
 ```
 ``` tab [group1:Sources]
 - McKay, John G. More West Highland Tales. Vol. 2. Scottish Anthropological and Folklore Society. Edinburgh: Oliver and Boyd, 1969, 489.
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
+- MacKillop 2008, s.v. 'bodach'
 ```

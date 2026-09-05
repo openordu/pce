@@ -1,0 +1,47 @@
+{
+  "name": "fab",
+  "fname": "fab.json",
+  "text": "fab is a mutated form of the Welsh noun map, mab meaning boy or son. The form appears at the start of patronymics that name a child by reference to the father. MacKillop lists fab alongside two parallel mutated prefixes. The first is ap, ap. The second is vab, vab. Compare the unmodified Welsh mab in the same patronymic slot.",
+  "entities": [
+    {
+      "entity": "fab",
+      "type": "Concept"
+    },
+    {
+      "entity": "mab",
+      "type": "Thing"
+    },
+    {
+      "entity": "ap",
+      "type": "Concept"
+    },
+    {
+      "entity": "vab",
+      "type": "Concept"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "fab",
+      "attribute": "Welsh mutated form of mab (boy, son) used in patronymics"
+    },
+    {
+      "entity": "fab",
+      "attribute": "Parallel to ap- and vab- as patronymic prefixes"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'fab'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Identify fab as the mutated patronymic prefix cognate with Welsh mab.",
+    "key_results": [
+      "Records the mutation rule from map to fab.",
+      "Cross-references the parallel prefixes ap- and vab-."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'fab'."
+  }
+}

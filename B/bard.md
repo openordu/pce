@@ -2,7 +2,7 @@
 layout: layouts/pce.njk
 title: bard
 icon: file-lines
-order: 196
+order: 204
 contributors: [ 'Christopher Godwin' ]
 attributes:
   - bards social role
@@ -28,17 +28,21 @@ attributes:
   - bard the lowest rank of poet in Gaul
   - bard kept the bare facts of a story whole
   - bard his satire could punish a king
+  - bard the modern English sense of an exalted national poet dates from Thomas Gray's poem The Bard in 1757
+  - bard in Ireland ranked low in the seven orders of the fili, short of the ollam's 350 stories and twelve years of study
+  - bard in Wales preceded and outlasted the hereditary princes within the Bardd Teulu household order
 categories:
-  - Person
-  - location
-  - Group
+  - Place
+  - gender
+  - social role
   - skill
+  - location
   - connected skill
   - requirement
-  - Place
-  - social role
   - requirement for social role
-  - gender
+  - Concept
+  - Person
+  - Group
 entities:
   - Gaul(location)
   - Ireland(location)
@@ -68,6 +72,19 @@ entities:
   - Ollam(Group)
   - Gaul(Place)
   - Ireland(Place)
+  - Thomas Gray(Person)
+  - Wales(Place)
+  - Aneirin(Person)
+  - Taliesin(Person)
+  - Blwchbardd(Person)
+  - Cian(Person)
+  - Talheam Tad Awen(Person)
+  - cynfeirdd(Concept)
+  - hengerdd(Concept)
+  - pencerdd(Concept)
+  - Bardd Teulu(Concept)
+  - cyfarwydd(Concept)
+  - eisteddfod(Concept)
 tags:
   - Gaul
   - Ireland
@@ -97,10 +114,33 @@ tags:
   - Ollam
   - Gaul
   - Ireland
+  - Thomas Gray
+  - Wales
+  - Aneirin
+  - Taliesin
+  - Blwchbardd
+  - Cian
+  - Talheam Tad Awen
+  - cynfeirdd
+  - hengerdd
+  - pencerdd
+  - Bardd Teulu
+  - cyfarwydd
+  - eisteddfod
 ---
 ``` tab [group1:Info]
 ::: magazinestyle
-In the Celtic world the poet held a high place. Their power to praise and to curse gave them great weight. The Roman writers, drawing on Posidonius, described the bards as singers and reciters who travelled with the chieftains, even in war. They recited praises before each listener according to rank. A famous banquet of Lovernios showed the bard at work. A poet arrived late to the feast and sang of Lovernios' greatness. The chief threw him a bag of gold, and the bard sang that even the chariot tracks gave gold to his people. The bards formed one of three honoured orders with the vates, the seers, and the druids. Strabo named the bards as singers and poets, the vates as overseers of sacred rites, and the druids as natural and moral philosophers. The bard often served a diplomatic role, praising an ambassador and his people. In Ireland the bard was a low-ranked poet who still studied hundreds of tales. Rising rank led to the fili, whose highest grade was the ollam. The words of a satirist were feared because honour mattered so much to the Celts. The bardic orders were open to anyone with the calling, regardless of gender.
+The bard was the poet of the Celtic peoples, and each nation shaped the office in its own way.
+
+The word appears as bard in Irish and Scottish Gaelic, bardd in Welsh, and barzh in Breton. Latin gave bardus and Greek bardos. Thomas Gray fixed the modern English sense of an exalted national poet in his poem The Bard of 1757. Gray drew that sense chiefly from Welsh tradition.
+
+Celtic poets held high standing because their praise and their curse carried weight. Roman writers, following Posidonius, described bards as singers and reciters who moved with chieftains even in war. Each listener heard praise fitted to his rank. At a famous banquet that Lovernios hosted, a bard arrived late and sang his host's greatness. The chief tossed him a bag of gold. The bard answered that even the chariot ruts paid gold to his people.
+
+On the Continent the bards ranked below the vates and the druids, who drew the highest esteem. The bards formed one of three honoured orders beside the vates, the seers, and the druids. Strabo named the bards singers and poets, the vates interpreters of sacrifice, and the druids philosophers of nature and morals. Bards also served diplomacy, praising an envoy and his nation. A satirist's words carried fear because honour weighed so heavily among the Celts.
+
+In Ireland the bard sat low in the seven orders of the fili and still studied hundreds of tales. The grades rose through the fili, whose top rank was the ollam. That peak grade demanded twelve years of study and command of 350 stories, which the bard had not mastered. The bardic orders admitted anyone with the calling, regardless of gender.
+
+Wales gave the office even greater weight. There the bard's power came before the hereditary princes and outlasted them. The earliest Welsh bards came in the sixth century. They were Aneirin, Taliesin, and Blwchbardd, with Cian and Talheam Tad Awen among them. People called them the cynfeirdd, the early poets, and their verse hengerdd. In later centuries only the pencerdd, trained for nine years, could teach a bard. Welsh bards formed the Bardd Teulu, a household order that served kings and princes across more than a thousand years. It formed a distinct part of society with privileges of its own. A bard might also take the cyfarwydd role of storyteller, though the sources never settle that question. From 1176 onward great bardic assemblies met and grew into the eisteddfod.
 
 :::
 ```
@@ -128,6 +168,9 @@ In the Celtic world the poet held a high place. Their power to praise and to cur
 - **bard**: the lowest rank of poet in Gaul
 - **bard**: kept the bare facts of a story whole
 - **bard**: his satire could punish a king
+- **bard**: the modern English sense of an exalted national poet dates from Thomas Gray's poem The Bard in 1757
+- **bard**: in Ireland ranked low in the seven orders of the fili, short of the ollam's 350 stories and twelve years of study
+- **bard**: in Wales preceded and outlasted the hereditary princes within the Bardd Teulu household order
 ```
 ``` tab [group1:Entities]
 - **Gaul**: location
@@ -158,9 +201,23 @@ In the Celtic world the poet held a high place. Their power to praise and to cur
 - **Ollam**: Group
 - **Gaul**: Place
 - **Ireland**: Place
+- **Thomas Gray**: Person
+- **Wales**: Place
+- **Aneirin**: Person
+- **Taliesin**: Person
+- **Blwchbardd**: Person
+- **Cian**: Person
+- **Talheam Tad Awen**: Person
+- **cynfeirdd**: Concept
+- **hengerdd**: Concept
+- **pencerdd**: Concept
+- **Bardd Teulu**: Concept
+- **cyfarwydd**: Concept
+- **eisteddfod**: Concept
 ```
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 - Koch 2006, s.v. 'Bard'
+- MacKillop 2008, s.v. 'bard'
 ```
 ![bard Image](https://upload.wikimedia.org/wikipedia/commons/9/90/Hope-coventina01a.jpg)

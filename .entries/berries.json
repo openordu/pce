@@ -1,0 +1,38 @@
+{
+  "name": "berries",
+  "fname": "berries.json",
+  "text": "berries is a short entry about a life-giving motif. In several Celtic stories the rowan can grant immortality through its berries. The tree itself carries the fuller record in the entry rowan.",
+  "entities": [
+    {
+      "entity": "berries",
+      "type": "Concept"
+    },
+    {
+      "entity": "rowan",
+      "type": "Thing"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "berries",
+      "attribute": "Rowan berries can confer immortality in Celtic story"
+    },
+    {
+      "entity": "berries",
+      "attribute": "Points to the rowan entry for the fuller tree lore"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'berries'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "berries records the rowan-berry immortality motif of Celtic narrative.",
+    "key_results": [
+      "Node ties the motif to Celtic stories and to the entry rowan."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'berries'."
+  }
+}

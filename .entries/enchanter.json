@@ -1,0 +1,39 @@
+{
+  "name": "enchanter",
+  "fname": "enchanter.json",
+  "text": "enchanter is an English term that in MacKillop appears as a one-line cross-reference. The reference points the reader to two Welsh wizard types: dyn hysbys and eiddiliggor. The dyn hysbys article sits in this same N7 batch as the primary Welsh wizard entry. The eiddiliggor target lies outside the present GAF-288 scope and is not followed here.",
+  "entities": [
+    {
+      "entity": "enchanter",
+      "type": "Concept"
+    },
+    {
+      "entity": "dyn hysbys",
+      "type": "Being"
+    },
+    {
+      "entity": "eiddiliggor",
+      "type": "Being"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "enchanter",
+      "attribute": "English term pointing to the Welsh wizard entries dyn hysbys (same-batch) and eiddiliggor (out of scope)."
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'enchanter'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "enchanter is a one-line cross-reference pointing primarily to dyn hysbys, with eiddiliggor out of GAF-288 scope.",
+    "key_results": [
+      "Signpost names dyn hysbys as the primary Welsh wizard target authored in this same batch.",
+      "Notes eiddiliggor as a secondary target outside the current GAF-288 scope."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'enchanter'."
+  }
+}

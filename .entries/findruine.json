@@ -1,0 +1,48 @@
+{
+ "name": "findruine",
+ "fname": "findruine.json",
+ "text": "findruine is an Old Irish word for a precious white-bronze metal repeatedly named in early Irish manuscripts. Commentators treat it as a blend, mostly of silver joined with copper and possibly a trace of gold. Manuscripts rank it beneath gold and above common bronze in value. The metal takes a hammer well. Smiths beat it out into thin leaves and drew it into fine wire. Noble young women of the heroic age are said to have worn sandals fashioned of findruine at courtly gatherings. A few scholars connect it to the antique alloy called orichalch, prized in Greek and Roman antiquity for its sheen. Related Middle Irish spellings include fiondruine and fionndruine, with anglicized shortenings such as findrinny, findrina, and findriny recorded in later sources. The Old Irish form findbruine literally points to white bronze, though the exact recipe remains a matter of scholarly debate.",
+ "entities": [
+  {
+   "entity": "findruine",
+   "type": "Thing"
+  },
+  {
+   "entity": "fiondruine",
+   "type": "Thing"
+  },
+  {
+   "entity": "fionndruine",
+   "type": "Thing"
+  },
+  {
+   "entity": "orichalch",
+   "type": "Thing"
+  }
+ ],
+ "attributes": [
+  {
+   "entity": "findruine",
+   "attribute": "Old Irish term for a precious white-bronze metal, valued below gold and above ordinary bronze"
+  },
+  {
+   "entity": "findruine",
+   "attribute": "Hammered into thin sheets and drawn into fine wire, with sandals made of it for noble maidens"
+  }
+ ],
+ "sources": [
+  "MacKillop 2008, s.v. 'findruine'"
+ ],
+ "image": [],
+ "cyphertext": "",
+ "salt": "",
+ "okr": {
+  "objective": "Author a brief encyclopedia article on the Old Irish precious metal findruine from the MacKillop window.",
+  "key_results": [
+   "States the metal's place in the early Irish value hierarchy.",
+   "Notes its use in sheet and wire form and in sandals of noblewomen.",
+   "Records the Middle Irish variant spellings cited by MacKillop."
+  ],
+  "evidence": "MacKillop 2008, s.v. 'findruine'."
+ }
+}

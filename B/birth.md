@@ -2,62 +2,42 @@
 layout: layouts/pce.njk
 title: birth
 icon: file-lines
-order: 249
+order: 266
 contributors: [ 'Christopher Godwin' ]
 attributes:
-  - fertility increase
-  - childbirth safe
+  - birth a mythic theme among the Celts
+  - fertility not taken for granted
+  - holy well source of protective waters for childbirth
+  - holy well often had oracular functions
 categories:
-  - mythic theme
-  - expected child
-  - safe childbirth
-  - fertility
-  - oracular functions
-  - protective rituals
+  - Concept
+  - Place
+  - Event
 entities:
-  - fertility(mythic theme)
-  - fields(fertility)
-  - herds(fertility)
-  - humans(fertility)
-  - birth(mythic theme)
-  - protective rituals(safe childbirth)
-  - holy Wells(protective rituals)
-  - clothing(protective rituals)
-  - Wells(oracular functions)
-  - parents-to-be(expected child)
+  - birth(Event)
+  - fertility(Concept)
+  - holy well(Place)
 tags:
-  - fertility
-  - fields
-  - herds
-  - humans
   - birth
-  - protective rituals
-  - holy Wells
-  - clothing
-  - Wells
-  - parents-to-be
+  - fertility
+  - holy well
 ---
 ``` tab [group1:Info]
 ::: magazinestyle
-Mythic theme: Birth. The Celts did not assume fertility in nature, be it in the fields, the herds, or in humans. There are numerous recorded invocations and rituals that the Celts practiced to enhance fertility, indicating its importance as a serious concern. The act of giving birth was fraught with dangers, hence the need for protective rituals to ensure safe childbirth, such as drinking from holy Wells or wearing clothing dipped in them. Since many wells also served as oracles, expectant parents probably sought their advice regarding the anticipated child.
+Birth is a mythic theme among the Celts. Fertility was never taken for granted. The Celts recorded many invocations and rituals to raise it. Those records show real concern. Birth itself carried danger. Protective rites for safe childbirth included drinking holy well waters. Some wore clothing dipped in those waters. Many wells also had oracular roles. Parents-to-be likely consulted them about the child.
 
 :::
 ```
 ``` tab [group1:Attributes]
-- **fertility**: increase
-- **childbirth**: safe
+- **birth**: a mythic theme among the Celts
+- **fertility**: not taken for granted
+- **holy well**: source of protective waters for childbirth
+- **holy well**: often had oracular functions
 ```
 ``` tab [group1:Entities]
-- **fertility**: mythic theme
-- **fields**: fertility
-- **herds**: fertility
-- **humans**: fertility
-- **birth**: mythic theme
-- **protective rituals**: safe childbirth
-- **holy Wells**: protective rituals
-- **clothing**: protective rituals
-- **Wells**: oracular functions
-- **parents-to-be**: expected child
+- **birth**: Event
+- **fertility**: Concept
+- **holy well**: Place
 ```
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.

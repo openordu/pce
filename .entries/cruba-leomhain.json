@@ -1,0 +1,40 @@
+{
+  "name": "crúba leomhain",
+  "fname": "cruba-leomhain.json",
+  "text": "crúba leomhain is the Irish name for a plant known in English as vervain. The phrase translates literally as lion's feet. The scientific name for vervain is Verbena officinalis. crúba leomhain appears in Irish sources as a folk name for this medicinal herb. The window in MacKillop records the name and its literal meaning but does not extend further.",
+  "entities": [
+    {
+      "entity": "crúba leomhain",
+      "type": "Concept"
+    },
+    {
+      "entity": "vervain",
+      "type": "Thing"
+    },
+    {
+      "entity": "Verbena officinalis",
+      "type": "Thing"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "crúba leomhain",
+      "attribute": "Irish folk name for vervain, literally meaning lion's feet"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'crúba leomhain'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Record crúba leomhain as the Irish name for vervain with literal meaning.",
+    "key_results": [
+      "Name recorded with accent form",
+      "Literal meaning 'lion's feet' recorded",
+      "English and Latin equivalents named"
+    ],
+    "evidence": "MacKillop 2008, s.v. 'crúba leomhain'."
+  }
+}

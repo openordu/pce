@@ -2,64 +2,55 @@
 layout: layouts/pce.njk
 title: fine
 icon: file-lines
-order: 968
+order: 1102
 contributors: [ 'Christopher Godwin' ]
 attributes:
-  - honor price usually paid in Cows
-  - heads of kin groups chosen by election
-  - heads of kin groups negotiated for the group
-  - heads of kin groups represented them in public gatherings
+  - Concobar abandoned by his warriors
+  - Medb queen of Connacht
+  - Medb launched a war on Concobar
+  - Tain Bo Cuailnge grounded in the conflict
+  - Scotland gave English the word clan through its Gaelic
+  - Scotland clans there often carried an attached sept
 categories:
-  - leaders
-  - punishment
-  - animal
-  - voting process
   - person
-  - meetings
-  - collection of people
-  - monetary compensation
+  - place
+  - event
 entities:
-  - member(person)
-  - fine(punishment)
-  - group(collection of people)
-  - honor price(monetary compensation)
-  - Cows(animal)
-  - heads of kin groups(leaders)
-  - election(voting process)
-  - public gatherings(meetings)
+  - Concobar(person)
+  - Medb(person)
+  - Connacht(place)
+  - Tain Bo Cuailnge(event)
+  - Scotland(place)
 tags:
-  - member
-  - fine
-  - group
-  - honor price
-  - Cows
-  - heads of kin groups
-  - election
-  - public gatherings
+  - Concobar
+  - Medb
+  - Connacht
+  - Tain Bo Cuailnge
+  - Scotland
 ---
 ``` tab [group1:Info]
 ::: magazinestyle
-The ancient Irish society had a significant social organization known as the fine or the "kin group". The fine consisted of individuals originating from the same great-grandfather, referred to as the derbfine or the "true kin". This group possessed land that could not be sold by any member of the fine without the consent of others. Those who were less related belonged to the same fine. The individual was accountable to the whole kin group for his actions since the entire fine was held responsible for any injury or killing of a member of another kin group, and any Éric or honor price in this regard was demanded from the entire group. Conversely, whenever a member of the fine was injured or killed, the entire group bore the honor price which was typically paid in Cows. Electoral heads of kin groups negotiated for the fine and represented them in public assemblies.
+Fine is the Irish term for a kin group, the seed of the later idea of a clan. English took clan from Scottish Gaelic, and the word points to shared blood rather than shared land. Old Irish clann named children and offspring before it named a whole line. The Latin planta, a plant or setting out, stands at its far root. Beside fine stood terms such as cenel and derbfine, while tuath leaned toward territory and people. In Scotland a clan often carried a sept whose tie to the founder sat distant or doubted. Warriors sickened of Concobar and left his kingdom. They went to serve queen Medb of Connacht. Medb then launched a war against him. Their struggle formed the basis of the epic Tain Bo Cuailnge.
 
 :::
 ```
 ``` tab [group1:Attributes]
-- **honor price**: usually paid in Cows
-- **heads of kin groups**: chosen by election
-- **heads of kin groups**: negotiated for the group
-- **heads of kin groups**: represented them in public gatherings
+- **Concobar**: abandoned by his warriors
+- **Medb**: queen of Connacht
+- **Medb**: launched a war on Concobar
+- **Tain Bo Cuailnge**: grounded in the conflict
+- **Scotland**: gave English the word clan through its Gaelic
+- **Scotland**: clans there often carried an attached sept
 ```
 ``` tab [group1:Entities]
-- **member**: person
-- **fine**: punishment
-- **group**: collection of people
-- **honor price**: monetary compensation
-- **Cows**: animal
-- **heads of kin groups**: leaders
-- **election**: voting process
-- **public gatherings**: meetings
+- **Concobar**: person
+- **Medb**: person
+- **Connacht**: place
+- **Tain Bo Cuailnge**: event
+- **Scotland**: place
 ```
 ``` tab [group1:Sources]
 - Kelly, Fergus. A Guide to Early Irish Law. (Dublin: School of Celtic Studies, Dublin Institute for Advanced Studies, 1988), 12-13.
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
+- MacKillop 2008, s.v. 'clan'
 ```

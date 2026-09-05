@@ -1,0 +1,39 @@
+{
+  "name": "bánánach",
+  "fname": "bananach.json",
+  "text": "bánánach names preternatural female beings of early Irish literature. They appear above the field of battle, marking the carnage in the manner of the war-furies of older tradition. The MacKillop entry cross-references the badb and the bocánach, two related battle-haunting figures of early Irish lore.",
+  "entities": [
+    {
+      "entity": "bánánach",
+      "type": "Being"
+    },
+    {
+      "entity": "Badb",
+      "type": "Being"
+    },
+    {
+      "entity": "bocánach",
+      "type": "Being"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "bánánach",
+      "attribute": "Preternatural female beings of early Irish literature who appear over the field of battle."
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'bánánach'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Document bánánach as battle-haunting female beings in early Irish literature.",
+    "key_results": [
+      "Records the war-field haunting role.",
+      "Cross-references Badb and bocánach as related figures."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'bánánach'."
+  }
+}

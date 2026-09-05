@@ -2,47 +2,79 @@
 layout: layouts/pce.njk
 title: fairy lover
 icon: file-lines
-order: 896
+order: 4386
 contributors: [ 'Christopher Godwin' ]
 attributes:
-  - La Belle Dame Sans Merci beautiful
-  - La Belle Dame Sans Merci merciless
-  - John Keats poet
-  - John Keats English
-  - John Keats inspired by her image
+  - fairy lover lured a poet or a handsome man
+  - Oisín taken by Niamh of the Golden Hair
+  - fairy lover lived on a charmed island
+  - fairy lover passed time differently than mortals did
+  - Áine linked to Lough Gur
+  - Lady Wilde called the leanan sidhe the poet's inspirer
+  - W. B. Yeats held that her inspiration burns the artist's life short
+  - fairy lover male counterparts are courteous and commanding
 categories:
-  - Character
-  - Nationality
-  - Person
+  - mythological figure
+  - person
+  - place
+  - god
 entities:
-  - John Keats(Person)
-  - La Belle Dame Sans Merci(Character)
-  - English(Nationality)
+  - fairy lover(mythological figure)
+  - fairy mistress(mythological figure)
+  - lianan sidhe(mythological figure)
+  - Oisín(person)
+  - Niamh(mythological figure)
+  - Áine(god)
+  - Lough Gur(place)
+  - John Keats(person)
+  - Lady Wilde(person)
+  - W. B. Yeats(person)
+  - banshee(mythological figure)
 tags:
+  - fairy lover
+  - fairy mistress
+  - lianan sidhe
+  - Oisín
+  - Niamh
+  - Áine
+  - Lough Gur
   - John Keats
-  - La Belle Dame Sans Merci
-  - English
+  - Lady Wilde
+  - W. B. Yeats
+  - banshee
 ---
 ``` tab [group1:Info]
 ::: magazinestyle
-A figure in Irish, Scottish, and Breton folklore is the fairy lover (also known as the fairy mistress, lianan sidhe, or la belle dame sans merci). These ethereal women, who were usually depicted as being ravishingly beautiful, were the center of many stories from Fairyland. They often stole away the most talented poets or handsome men from our world, making them their lovers. The fairy lover had to do little to entice these men as their beauty made even the most attractive mortal women seem coarse and unattractive. Through haunting dreams, the fairy mistress called to her chosen mate until he came to reside on her charmed Island in the western sea or under a mound. Once he experienced her charms, he seldom attempted to leave her side because not only was she breath-taking to behold, she was also completely wanton. Time passed differently in Fairyland than in our world, so what seemed like a single night with the fairy mistress would feel like centuries had passed in reality. If the human lover grew homesick and returned to our world, their home was often lost in the mists of time, and they also lost their fairy lover. The tragic story of Oisín, the great Bard, is a perfect example. He was kidnapped from our world by the beautiful Niamh of the Golden Hair. Despite enjoying his time with Niamh, Oisín became homesick and begged for a brief visit home. She warned him to stay on his magical horse while he looked upon his beloved Ireland. However, when he leaned down to touch the soil, he fell from his horse and instantly dissolved into dust. Fairies were notorious for their fickleness, which sometimes led to fairy women abandoning their human husbands and returning them unceremoniously to the human world. Most of these men never fully recovered and died soon after, longing for the beauty of fairyland. However, there were rare cases, like that of Thomas The Rhymer, where the man survived and was ultimately reunited with his fairy lover, residing happily ever after in the Otherworld. Several goddess figures were seen in these instances, embodying both the spirit of life and beauty as well as being the foreteller of doom, like the sister of the Banshee. Both took human lovers from this world in different ways. Áine of the magical lake Lough Gur also served as banshee or death-warner for local families in Co. Limerick. She became the bride of a human earl and bore his son before abandoning him. Occasionally, the fairy king would steal human maidens away, often on their wedding day (see Fairy Bride). There are also tales of male fairies seducing young women in Scotland and Ireland (see Ganconer). However, it is far more common to find the fairy lover in female form, inspiring many artists like the famed English poet, John Keats, who immortalized her as “La Belle Dame Sans Merci,” the mercilessly beautiful woman.
+Fairy lover, the fairy mistress, is an Irish, Scottish, and Breton figure. MacKillop lists English spellings such as lannan shee, leannan shee, and lannanshee. The Modern Irish phrase leannán sidhe underlies them all. Variants leanhaun shee, lianhan shee, and leanan sidhe also appear. The Old Irish form was lennán side, and Manx speakers said lhiannan shee. The story binds a mortal man to an immortal woman in a love that must end badly. Folklorists find this pattern across the world, and Celtic tales follow a fixed four-part scheme. First the mortal falls for the supernatural being. Next she agrees to marry him under one condition, such as avoiding her sight at set times. He then violates the condition and loses her. He seeks her afterward and sometimes wins her back only through great effort. In one version the fairy lover seduces the man and wastes away when they part. She loves him deeply even when he does not deserve it. Only the rules of her kind keep them apart. A second variation paints a fearful woman who wants both the love and the rule of mortal men. Male fairy lovers appear in stories too, courteous, talkative, and commanding. Lady Wilde wrote in 1887 that the leanan sidhe embodied life itself. She called the leanan sidhe the inspirer of poets and the reverse of the banshee. W. B. Yeats argued in 1888 that her gift burned so hard that the artist must die young. The lianan sidhe was the spirit the bards knew. She carried off the greatest poet or the fairest mortal male. Her grace made the loveliest woman seem plain. She summoned her mate through his dreams until he came to her. Her home lay on a charmed island in the west or beneath an old mound. Time passed differently in her land. One night there could span a century here. The poet Oisín rode away with Niamh of the Golden Hair. He fell from his horse and crumbled to dust at once. Some fairy women left their human husbands, and the men pined away. Áine of Lough Gur fills both the lover role and the death role. Keats shaped her form for his poem.
 
 :::
 ```
 ``` tab [group1:Attributes]
-- **La Belle Dame Sans Merci**: beautiful
-- **La Belle Dame Sans Merci**: merciless
-- **John Keats**: poet
-- **John Keats**: English
-- **John Keats**: inspired by her image
+- **fairy lover**: lured a poet or a handsome man
+- **Oisín**: taken by Niamh of the Golden Hair
+- **fairy lover**: lived on a charmed island
+- **fairy lover**: passed time differently than mortals did
+- **Áine**: linked to Lough Gur
+- **Lady Wilde**: called the leanan sidhe the poet's inspirer
+- **W. B. Yeats**: held that her inspiration burns the artist's life short
+- **fairy lover**: male counterparts are courteous and commanding
 ```
 ``` tab [group1:Entities]
-- **John Keats**: Person
-- **La Belle Dame Sans Merci**: Character
-- **English**: Nationality
+- **fairy lover**: mythological figure
+- **fairy mistress**: mythological figure
+- **lianan sidhe**: mythological figure
+- **Oisín**: person
+- **Niamh**: mythological figure
+- **Áine**: god
+- **Lough Gur**: place
+- **John Keats**: person
+- **Lady Wilde**: person
+- **W. B. Yeats**: person
+- **banshee**: mythological figure
 ```
 ``` tab [group1:Sources]
 - Briggs, Katherine. The Fairies in Tradition and Literature. London: Routledge & Kegan Paul, 1967.
 - Wilde, Lady. Ancient Legends, Mystic Charms and Superstitions of Ireland. London: Chatto and Windus, 1902, 134.
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
+- MacKillop 2008, s.v. 'fairy lover'
 ```

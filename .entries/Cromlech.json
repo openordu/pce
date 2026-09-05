@@ -8,6 +8,18 @@
     {
       "entity": "Cromlech",
       "attribute": "points to the entries for Dolmen and Megalithic Civilization"
+    },
+    {
+      "entity": "Cromlech",
+      "attribute": "from Welsh crom, bent, and llech, flat stone"
+    },
+    {
+      "entity": "Cromlech",
+      "attribute": "a large flat stone set upon three or more upright stones"
+    },
+    {
+      "entity": "Carnac",
+      "attribute": "Breton site with a squared or circular assemblage of dolmens"
     }
   ],
   "entities": [
@@ -22,21 +34,31 @@
     {
       "entity": "Megalithic Civilization",
       "type": "concept"
+    },
+    {
+      "entity": "Carnac",
+      "type": "place"
+    },
+    {
+      "entity": "Brittany",
+      "type": "location"
     }
   ],
   "sources": [
-    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.",
+    "MacKillop 2008, s.v. 'cromlech'"
   ],
   "cyphertext": "pebt7hj9Veb81NCCx-U0LQOMsi9JsvOXhy_auL33mQ5_N8OtgKPsRX-Y1tDIrEgP9RS0RL__WVvjUU9Wn0Goa6w7eesR6iiRBh7YGA==",
   "salt": "5Ha_XWhYUW1sevoxG_T8Mg==",
-  "text": "Cromlech is a cross-reference entry. It sends the reader to the articles on Dolmen and Megalithic Civilization.",
+  "text": "Cromlech is a cross-reference entry. It sends the reader to the articles on Dolmen and Megalithic Civilization. The word joins Welsh crom, bent, with llech, flat stone. Irish gives crom, stooped, and leac, flagstone. Welsh and Cornish writers prefer this word for the prehistoric structure, which appears in every Celtic country. That structure sets a large flat stone upon three or more upright stones. English writers describing sites in Ireland and Brittany call the same structure a dolmen. The word can also name a dolmen built in a rounder form. French usage stretches the word to a grouping of dolmens, squared or round. Carnac in Brittany supplies the classic example.",
   "okr": {
-    "objective": "Cromlech is a cross-reference entry pointing to Dolmen and Megalithic Civilization.",
+    "objective": "Cromlech is a cross-reference entry and also the Welsh and Cornish name for a megalithic chambered structure.",
     "key_results": [
-      "The Cromlech entry is a cross-reference.",
-      "It directs the reader to the entry for Dolmen.",
-      "It directs the reader to the entry for Megalithic Civilization."
+      "The entry directs the reader to Dolmen and Megalithic Civilization.",
+      "The word joins Welsh crom, bent, with llech, flat stone.",
+      "The structure sets a large flat stone upon three or more upright stones.",
+      "French usage extends the word to dolmen assemblages such as Carnac in Brittany."
     ],
-    "evidence": "Monaghan, Encyclopedia of Celtic Mythology and Folklore"
+    "evidence": "MacKillop 2008, s.v. 'cromlech'."
   }
 }

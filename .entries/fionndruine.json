@@ -1,0 +1,38 @@
+{
+ "name": "fionndruine",
+ "fname": "fionndruine.json",
+ "text": "fionndruine is a MacKillop cross-reference, recorded in his dictionary as a Middle Irish spelling of the Old Irish metal-name findruine. The headword carries no independent article and serves only as an alternate route to the canonical entry findruine, where the metal's value, composition, and craft uses are set out at length.",
+ "entities": [
+  {
+   "entity": "fionndruine",
+   "type": "Thing"
+  },
+  {
+   "entity": "findruine",
+   "type": "Thing"
+  }
+ ],
+ "attributes": [
+  {
+   "entity": "fionndruine",
+   "attribute": "Middle Irish variant spelling of findruine recorded by MacKillop"
+  },
+  {
+   "entity": "fionndruine",
+   "attribute": "MacKillop cross-reference pointing to the canonical headword findruine"
+  }
+ ],
+ "sources": [
+  "MacKillop 2008, s.v. 'fionndruine'"
+ ],
+ "image": [],
+ "cyphertext": "",
+ "salt": "",
+ "okr": {
+  "objective": "Provide a signpost pointer that routes readers from fionndruine to the article findruine.",
+  "key_results": [
+   "Names the canonical article findruine as the destination of the cross-reference."
+  ],
+  "evidence": "MacKillop 2008, s.v. 'fionndruine'."
+ }
+}

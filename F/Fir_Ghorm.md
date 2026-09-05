@@ -2,78 +2,95 @@
 layout: layouts/pce.njk
 title: Fir Ghorm
 icon: file-lines
-order: 992
+order: 4196
 contributors: [ 'Christopher Godwin' ]
 attributes:
-  - first footer dark-complected
-  - Isle of Man feared redheaded people as first footers
-  - Scotland redheads were acceptable
-  - first footer bear a gift
-  - first footer offered something in return
+  - Fir Ghorm another name for the Blue Men of the Minch
+  - first footer called qualtagh among the Manx
+  - first footer should be dark-complected and healthy
+  - first footer should carry a gift
+  - first footer offered food or drink in return
+  - Fir Ghorm Gaelic rendering of Blue Men of the Minch, plural na fir ghorma
+  - Fir Fálgae warriors who fought Cúchulainn and Cú Roi in Scotland
+  - Fir Morca legendary west Munster people ruled by king Scoriath
 categories:
-  - time
+  - group
   - place
-  - person
-  - people
-  - attribute
-  - item
+  - character
+  - mythological figure
+  - concept
+  - tribe
+  - mythological creature
 entities:
-  - qualtagh(person)
-  - Manx(people)
-  - first footer(person)
-  - Scotland(place)
+  - Fir Ghorm(mythological creature)
+  - Blue Men of the Minch(mythological creature)
+  - first footer(character)
+  - qualtagh(character)
   - Isle of Man(place)
-  - redheaded people(people)
-  - coloring(attribute)
+  - Scotland(place)
   - Fairy realm(place)
-  - caller(person)
-  - fortune(attribute)
-  - year(time)
-  - food(item)
-  - drink(item)
+  - Manx(group)
+  - na fir ghorma(concept)
+  - Fir Fálgae(tribe)
+  - Fir Morca(tribe)
+  - Scoriath(mythological figure)
+  - Luachair Dedad(place)
+  - Munster(place)
+  - Armorica(place)
+  - far darrig(mythological figure)
 tags:
-  - qualtagh
-  - Manx
+  - Fir Ghorm
+  - Blue Men of the Minch
   - first footer
-  - Scotland
+  - qualtagh
   - Isle of Man
-  - redheaded people
-  - coloring
+  - Scotland
   - Fairy realm
-  - caller
-  - fortune
-  - year
-  - food
-  - drink
+  - Manx
+  - na fir ghorma
+  - Fir Fálgae
+  - Fir Morca
+  - Scoriath
+  - Luachair Dedad
+  - Munster
+  - Armorica
+  - far darrig
 ---
 ``` tab [group1:Info]
 ::: magazinestyle
-Blue Men Of The Minch, also known as Fir Ghorm (Fir Gorm), are mythological creatures found in Scottish and Gaelic folklore. A significant part of Scottish folklore is the first footer, also called qualtagh on the Isle of Man, which is the first person or creature met on the road while on the way to a wedding or christening. According to tradition, they are offered bread and cheese to appease spirits and ensure good luck for the new year. In Scotland, and among the Manx, the first footer who enters a house on January 1 should be a dark complexioned man in good health, known as a first footer. Red-headed people are feared as first footers on the Isle of Man because they are believed to be associated with the Fairy realm, but in Scotland, they are considered acceptable. The first footer must bear a gift, as it is believed to bring good fortune, and in return, they are offered food or drink.
+Fir Ghorm, also written Fir Gorm, is another name for the Blue Men of the Minch. These are beings of Scottish and Gaelic folklore. MacKillop identifies fir gorm as the Scottish Gaelic rendering of the name of that sea-people. He also gives the plural form na fir ghorma. The same record sets out the custom of the first footer, a duty the Manx people call the qualtagh. Across Scotland and Man alike, whoever a party met first on the way to a christening got bread and cheese. The same held for a wedding journey. That act bought goodwill from the spirits for the year to come. The moment that carried the most weight came on January 1, when the first caller entered a house. That caller should be a dark-skinned man in good health. People on the Isle of Man dreaded a red-haired first footer, for that tint marked the Fairy realm. In Scotland, a redhead drew no objection. The first footer needed to bear a gift, for a caller with empty hands signaled poor luck. In return, he received food or drink. The Fir Ghorm entry also anchors a family of kindred Fir- names inside the dictionary of MacKillop. The Fir Fálgae were mythical warriors who contended with the heroes Cúchulainn and Cú Roi. The contention arose when those men made forays into Scotland. Tradition speciously tied them to men-at-arms from the Isle of Man. The Fir Morca were legendary people of early Ireland under their king Scoriath. Writers conventionally describe them as big men living near Luachair Dedad in west Munster. O'Rahilly argued in 1946 that their name arose as folk etymology from Armorica, the Latin designation for Brittany. Related plural forms such as fir darrig and fir dhearga belong to the far darrig. The Fir Domnann are treated under Domnainn.
 
 :::
 ```
 ``` tab [group1:Attributes]
-- **first footer**: dark-complected
-- **Isle of Man**: feared redheaded people as first footers
-- **Scotland**: redheads were acceptable
-- **first footer**: bear a gift
-- **first footer**: offered something in return
+- **Fir Ghorm**: another name for the Blue Men of the Minch
+- **first footer**: called qualtagh among the Manx
+- **first footer**: should be dark-complected and healthy
+- **first footer**: should carry a gift
+- **first footer**: offered food or drink in return
+- **Fir Ghorm**: Gaelic rendering of Blue Men of the Minch, plural na fir ghorma
+- **Fir Fálgae**: warriors who fought Cúchulainn and Cú Roi in Scotland
+- **Fir Morca**: legendary west Munster people ruled by king Scoriath
 ```
 ``` tab [group1:Entities]
-- **qualtagh**: person
-- **Manx**: people
-- **first footer**: person
-- **Scotland**: place
+- **Fir Ghorm**: mythological creature
+- **Blue Men of the Minch**: mythological creature
+- **first footer**: character
+- **qualtagh**: character
 - **Isle of Man**: place
-- **redheaded people**: people
-- **coloring**: attribute
+- **Scotland**: place
 - **Fairy realm**: place
-- **caller**: person
-- **fortune**: attribute
-- **year**: time
-- **food**: item
-- **drink**: item
+- **Manx**: group
+- **na fir ghorma**: concept
+- **Fir Fálgae**: tribe
+- **Fir Morca**: tribe
+- **Scoriath**: mythological figure
+- **Luachair Dedad**: place
+- **Munster**: place
+- **Armorica**: place
+- **far darrig**: mythological figure
 ```
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
+- MacKillop 2008, s.v. 'fir gorm'
 ```

@@ -52,6 +52,18 @@
         {
             "entity": "Ailill",
             "attribute": "provincial king of Connacht in the fivefold scheme"
+        },
+        {
+            "entity": "Cóiced",
+            "attribute": "Recorded in the spellings cóigeadh and cúige, with cúige as the modern form"
+        },
+        {
+            "entity": "Meath",
+            "attribute": "The usual fifth province, holding Tara and matching the later counties of Meath and Westmeath"
+        },
+        {
+            "entity": "Munster",
+            "attribute": "Sometimes counted as two provinces to keep the provincial total at five"
         }
     ],
     "entities": [
@@ -106,23 +118,40 @@
         {
             "entity": "Lebor na Cert",
             "type": "text"
+        },
+        {
+            "entity": "cóigeadh",
+            "type": "concept"
+        },
+        {
+            "entity": "Cóiced Ulad",
+            "type": "concept"
+        },
+        {
+            "entity": "Tara",
+            "type": "place"
+        },
+        {
+            "entity": "Westmeath",
+            "type": "place"
         }
     ],
     "sources": [
         "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.",
-        "Koch 2006, s.v. 'Cóiced'"
+        "Koch 2006, s.v. 'Cóiced'",
+        "MacKillop 2008, s.v. 'cóiced'"
     ],
     "cyphertext": "lxz46j58pCX2jSnqhwLzrnkzKu3pnH_WQ4mlIt9wnVmK81NeeE3FN7GZyMXKW0ku_l8SsTK047YvmjfQkzurg2qjuongRsAtpjMEsfYCRHDx_R9UmHUFBqe1rHurfwdBWNRdv3PZxCtfrzwPIni_4Wo1A7e9AkS2UvEqKymKQ_Eeb9Jx91DgxLtcBMravINqyuWL6UD4e_9AEg4Pac7j6JzcjQPbwgfVjNVJfPagowAXs8-NHVeY-RIXPk7abjr9wUSCB2uDY5LnpMaRzI6-79TiZJyWd__ueVwVBOj0Z9JfVJdATKY8KA41KX-sZGf4q5KPwNJpKClkxgE2oXZ8WaQTlLBnDIBZHBgMZx84qMr-vcoxdVLVNDqL3tqAQF33vGbL1j1ZfIVWB2LGHI-GPOgxC2WaS7vs37EF23MyhZ3-WZ9y50QdB41J0Zxxxqe4iAid87iRTVXHFndaYU-gmZX7sz8zSn3AkgCeuy7cBvAs2EtDL9RnNp_Pnpp_7Caq8uAzQHqQTMFCcnfF0zUKMGcZGtOHxcA2hYZUT841QAUD4aAh95nqA30wFLM7TFaWIiYYwfLLDdLYsJQJOqm8VZK4oLm9YxCu6xdxWFbdjRfxDK8ZvMscI3Kf3gPiNzIP6dOgeXD0LGwCMZ8QTSrwhFe3caklmhvEp9GhD5YCeckNfjAY9aRqHhAlfMp1OAa_5omnrPfEqW1EB4_VwsZBJaWILFjR5K695RmKr8MAuPCKoOrdyBwVq9EKO1lqZn47JXFt2v-38s9ifx3ybeSz7ZstPJXUvSdLnfuaUUU2fvMeoHzX_NUo7Uf-fWOo4fgt3XK0aG_XTxgtZyu0zfMaJQeFuqage23mHOT1_CYRuK1SteI094siVIFbcIPF_f83dYVhV1lysMmyujImsQI0MePU9x40PtBhe4VnX92KaA==",
     "salt": "2ZPWqbluZmj1vp2ENCGEHg==",
-    "text": "Cóiced was the early Irish word for a province, meaning literally \"a fifth.\" Medieval Ireland had five such lands: Ulster, Connacht, Munster, Leinster, and Meath; the modern form is cúige. The term appears in eighth-century law texts and the great epics, framing the Ulster Cycle as a pentarchy of equal kings, such as Conchobar and Ailill of Connacht. A provincial king ruled above lesser kings. Many scholars accept this fivefold order as historical.",
+    "text": "Cóiced was the early Irish word for a province. The word means literally a fifth. MacKillop records the spelling variants cóigeadh and cúige. Cúige survives as the modern form. Each cóiced formed one of five lands that stood in Ireland before the English conquest. The five lands were Ulster, Connacht, Munster, Leinster, and Meath. The usual fifth was Meath, which matched the later counties of Meath and of Westmeath. That fifth held Tara. Meath sat near the middle of Ireland. At times Munster counts as two provinces, which keeps the total at five. MacKillop gives Cóiced Ulad as the name for the province of Ulster. The term appears in eighth-century law texts and the great epics. It frames the Ulster Cycle as a pentarchy of equal kings, such as Conchobar and Ailill of Connacht. A provincial king ruled above lesser kings. Many scholars accept this fivefold order as historical. Tradition sets Mide, the fifth province, at the hill of Uisneach. The Stone of Divisions stands there as a rock on the hill.",
     "okr": {
-        "objective": "Cóiced was the Irish term for province, literally 'a fifth', naming the five early realms of Ireland.",
+        "objective": "Cóiced is the early Irish term for a province, literally a fifth, naming the five old realms of Ireland.",
         "key_results": [
-            "The word literally means 'a fifth' and survives in modern cúige.",
-            "The five provinces were Ulster, Connacht, Munster, Leinster, and Meath.",
-            "A provincial king ruled as the highest order of lord over lesser kings.",
-            "The term appears in 8th-century law texts and in epic literature."
+            "The word means a fifth and carries the spellings cóigeadh and cúige.",
+            "The five provinces predate the English conquest.",
+            "The usual fifth is Meath with Tara, though Munster sometimes counts as two.",
+            "The term frames the Ulster Cycle as a pentarchy of equal provincial kings."
         ],
-        "evidence": "Koch 2006, s.v. 'Cóiced'"
+        "evidence": "MacKillop 2008, s.v. 'cóiced'"
     }
 }

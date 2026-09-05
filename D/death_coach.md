@@ -2,37 +2,66 @@
 layout: layouts/pce.njk
 title: death coach
 icon: file-lines
-order: 646
+order: 4329
 contributors: [ 'Christopher Godwin' ]
 attributes:
-  - death coach foretold death
-  - Banshee cry foretold death
+  - category mythology
+  - domain celtic
+  - associations omen of death
+  - associations black coach
+  - associations headless driver
+  - associations Banshee
 categories:
-  - vehicle
-  - mythical creature
+  - Location
+  - Artifact
+  - Animal
+  - Being
 entities:
-  - death coach(vehicle)
-  - Banshee(mythical creature)
+  - (Artifact)
+  - (Location)
+  - (Location)
+  - (Being)
+  - (Animal)
+  - Dullahan(Being)
+  - Angau(Being)
+  - Ankou(Being)
 tags:
-  - death coach
-  - Banshee
+  - 
+  - 
+  - 
+  - 
+  - 
+  - Dullahan
+  - Angau
+  - Ankou
 ---
 ``` tab [group1:Info]
 ::: magazinestyle
-A mysterious object in Irish folklore is the death coach, also known as the dead coach. During foggy nights in Ireland, a black coach without any coachman or occupants would draw up to a home. The coach was pulled by black horses and sometimes the horses too would be headless. It was believed that this coach was sent from the land of the dead to collect someone from the world of the living. The coach never left empty-handed, and anyone who stood in its way, even if they were not scheduled to die, would become its victim. Therefore, it was advised to avoid the death coach and never attempt to stop it from picking up its intended passenger. The sighting of the death coach was considered a sign of impending death, similar to the Banshee's cry.
+The death coach is an Irish folkloric object sent from the land of the dead. On foggy nights a black coach could draw up to a home. When it stopped at a door, a person of that household died the next day. Black horses pulled it, and it carried no coachman or passengers. Its driver, if present, had no head. The horses could be headless as well. These traits earned the vehicle its other name, the headless coach. The coach came to collect a person from this life. It never left the earth empty. A person who was not scheduled to die became the victim if he stood in its path. People were told to avoid it and never to stop it from taking its intended passenger. Anyone who halted it brought death near the place where it came to rest. Fallen bridges gave it no obstruction. A sighting of the death coach foretold death, just as the cry of the Banshee did. Sometimes the Banshee rode on the coach, and at other times she flew through the air close to it. On other occasions the headless Dullahan held the reins. The motif has close parallels elsewhere in the Celtic world, such as Angau in Wales and Ankou in Brittany. Folklorists place the coach in international tale type 335. The coach reached a wide modern audience through a 1958 Disney film built on the fiction of H. T. Kavanagh.
 
 :::
 ```
 ``` tab [group1:Attributes]
-- **death coach**: foretold death
-- **Banshee**: cry foretold death
+- **category**: mythology
+- **domain**: celtic
+- **associations**: omen of death
+- **associations**: black coach
+- **associations**: headless driver
+- **associations**: Banshee
 ```
 ``` tab [group1:Entities]
-- **death coach**: vehicle
-- **Banshee**: mythical creature
+- ****: Artifact
+- ****: Location
+- ****: Location
+- ****: Being
+- ****: Animal
+- **Dullahan**: Being
+- **Angau**: Being
+- **Ankou**: Being
 ```
 ``` tab [group1:Sources]
 - Evans-Wentz, W. Y. The Fairy-Faith in Celtic Countries. Gerrards Cross: Colin Smythe Humanities Press, 1911, 221.
 - Westropp, T. J. Folklore of Clare: A Folklore Survey of Country Clare and County Clare Folk-Tales and Myths. Ennis, Co. Clare: Clasp Press, 2000, 10-12.
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
+- MacKillop 2008, s.v. 'death coach'
 ```

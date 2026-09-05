@@ -24,6 +24,18 @@
         {
             "entity": "Posidonius",
             "attribute": "sets the scene in Gaul for the great meats"
+        },
+        {
+            "entity": "curad-mir",
+            "attribute": "Old Irish form curadmir, Modern Irish curadhmír"
+        },
+        {
+            "entity": "champion's portion",
+            "attribute": "also known as the hero's portion"
+        },
+        {
+            "entity": "champion's portion",
+            "attribute": "share of beef or pork given to the hero of the hour"
         }
     ],
     "entities": [
@@ -74,23 +86,29 @@
         {
             "entity": "Ajax",
             "type": "Person"
+        },
+        {
+            "entity": "hero's portion",
+            "type": "concept"
         }
     ],
     "sources": [
         "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.",
-        "Koch 2006, s.v. 'Champion’s portion'"
+        "Koch 2006, s.v. 'Champion’s portion'",
+        "MacKillop 2008, s.v. 'champion's portion'"
     ],
     "cyphertext": "Q_--07Tu-lVnP4Lq-ak3MVUNNYWqEh5XW1S08_oQjOvKsRlLyiZ-yYkmzmH6-LCR-uS1ZFOPFSen_ceawq6TAp7-GhimCaCNS-ny44PuyMtIxawpAgIs13CKwwAtkO1YQMdpc3XGtXz1QKLR2zAE1EpBSM2o1QnqRM2Zr3FexuMbCzD7sjPTH4UZ3syN_VGDlzeA44mhN_tYasB_QuU6OK3_oJLjnyYsTyYuhuAEdloHNe09LsTunSoDb_9uQ3rM3ThitihUpP1uOmcusdrmmyUMhK1ylJ_JYldJfxf6w795SPMpMMmQGJ9DQ2UO4bdlsPnoSNKZd0swmpRS4JLLnSv-d9x6LwCtlYT8XBp-wVssUJP41ty2xqgIjlQT7GEsmNfQOAx7OqkytSA68KzBahD0TVNX4kf7arx8ZwQhVsv2vgNjfnlOeinasEX3_wGrRbps7qCg2N9t3792jbSbuHs8i3-8AVbXIBFUaIGFn8lPJw1c_B_MT1mzvZCvc1b6kQa-o6BQSHrOoGltVhXBeIHcpMWNE7FLtOaD6JuN5DOasL3FwEUrPVcc2WzCPBbcwnkNXREDHMuHGUunBx6jbf1tL0u5W6MRe2mDAp7nUHkpC-vWtMs9IZPWvfQ7CwNgbhWw3hln1pDrrDMQk9U3oGVdk4i06rBcW8XI3xxLIvW6PlIyhE1MclFF4VnT7sLSBZ5XcEcX2JGM6mH8zZ3J8JNJNyoiwER-eVAz268B30zEjsSLM8cCMwwJxBMd",
     "salt": "d02gOQimou08HKSJsXyHGA==",
-    "text": "Champion's portion names the choice share of meat at a Celtic feast. The strongest warrior received the curad-mir, the best cut, often read as the thigh. When two warriors claimed it, they fought at once. The duel could continue to the death. Records place the custom around the first century BCE. Two great Irish tales turn on this rule. In the feast of Bricriu, the hero fights to prove himself the boldest. In the story of Mac's pig, Conall Cernach earns the right to carve the great boar. The Greek writer Posidonius set the same scene in Gaul. He reported two warriors dueling for the prized cut. Athenaeus carried his account onward. Homer gave Ajax a like honour after victory. Welsh tradition keeps the theme softly. It grants the chief man the best seat and the finest cup.",
+    "text": "Champion’s portion names the choice share of meat at a Celtic feast. MacKillop traces the term to Old Irish curadmir and gives Modern Irish curadhmír. The strongest warrior received the curad-mir, the best cut of the beef or pork, often read as the thigh. When two warriors claimed it, they fought at once. The duel could continue to the death. MacKillop calls the winner the hero of the hour and records hero's portion as another name for the custom. Records place the custom around the first century BCE. Two great Irish tales turn on this rule. In the feast of Bricriu, the champion's portion drives the hero to prove himself the boldest. In the story of Mac's pig, Conall Cernach earns the right to carve the great boar. The Greek writer Posidonius set the same scene in Gaul. He reported two warriors dueling for the prized cut. Athenaeus carried his account onward. MacKillop cites Posidonius as proof of the custom's great age. Homer gave Ajax a like honour after victory. Welsh tradition keeps the theme softly. It grants the chief man the best seat and the finest cup.",
     "okr": {
-        "objective": "Show how the champion's portion shaped many Irish and Greek traditions.",
+        "objective": "The champion's portion gave the top warrior the best meat and forced rivals to duel for it.",
         "key_results": [
-            "The fairest cut went to the strongest warrior at a feast.",
-            "Irish sagas and Gallic tales both include champion holding a duel.",
-            "Athenaeus and Posidonius recorded the custom from the first century."
+            "MacKillop derives the custom from Old Irish curadmir.",
+            "The winner of the duel earns the name hero of the hour.",
+            "Posidonius of the first century BCE confirms the custom's antiquity.",
+            "The tales of Bricriu's feast and Mac Da Tho's pig both turn on this rule."
         ],
-        "evidence": "Koch 2006, s.v. 'Champion’s portion'"
+        "evidence": "MacKillop 2008, s.v. 'champion's portion'"
     },
     "order": 452
 }

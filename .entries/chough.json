@@ -1,0 +1,48 @@
+{
+  "name": "chough",
+  "fname": "chough.json",
+  "text": "The chough is a European member of the crow family (Corvidae), and the form most often cited in Celtic folklore is the red-legged or Cornish chough (Pyrrhocorax pyrrhocorax). In the Cornish language the bird bears the name An Balores, a name that has since been adopted as a marker of revived Cornish cultural identity. Outside Cornwall, the chough is frequently mistaken for the ordinary crow or for the raven. The MacKillop entry groups the bird under the wider crow family and records its Cornish name as evidence of regional folk knowledge.",
+  "entities": [
+    {
+      "entity": "chough",
+      "type": "Animal"
+    },
+    {
+      "entity": "Cornish chough",
+      "type": "Animal"
+    },
+    {
+      "entity": "An Balores",
+      "type": "Concept"
+    },
+    {
+      "entity": "Cornwall",
+      "type": "Place"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "chough",
+      "attribute": "European corvid; the red-legged Cornish form (Pyrrhocorax pyrrhocorax) is the type cited in Celtic material"
+    },
+    {
+      "entity": "chough",
+      "attribute": "Known in Cornish as An Balores, and a modern emblem of Cornish identity"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'chough'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Anchor the chough as the Cornish-form corvid cited in Celtic folklore and Cornish cultural revival.",
+    "key_results": [
+      "Identifies the bird as Pyrrhocorax pyrrhocorax",
+      "Records the Cornish name An Balores",
+      "Notes the confusion with crow and raven outside Cornwall"
+    ],
+    "evidence": "MacKillop 2008, s.v. 'chough'."
+  }
+}

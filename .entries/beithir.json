@@ -1,0 +1,56 @@
+{
+  "name": "beithir",
+  "fname": "beithir.json",
+  "text": "beithir is a Scottish Gaelic term of the early narratives. It names a savage creature that the tales leave undetermined. Glosses offer bear, serpent, savage beast, or dragon. The word may translate a Norse term for bear. A second sense is thunderbolt, with later readings taking it as lightning or as serpent. The creature may show a long tail. It never takes the shape of the blazing winged dragon told of in Germanic story. Recent oral tradition makes the beithir one kind of fuath. This fuath lurks in caves and in conies, narrow ring-shaped valleys with high walls. South of the mouth of Glencoe a mountain bears the name Ben Vair or Ben Vehir. Local belief holds that the name marks a beithir which once sheltered in Conie Lia.",
+  "entities": [
+    {
+      "entity": "beithir",
+      "type": "Being"
+    },
+    {
+      "entity": "fuath",
+      "type": "Being"
+    },
+    {
+      "entity": "Ben Vair",
+      "type": "Place"
+    },
+    {
+      "entity": "Conie Lia",
+      "type": "Place"
+    },
+    {
+      "entity": "Glencoe",
+      "type": "Place"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "beithir",
+      "attribute": "Early Gaelic term for a savage creature of undetermined kind"
+    },
+    {
+      "entity": "beithir",
+      "attribute": "Oral tradition makes it a fuath of caves and conies"
+    },
+    {
+      "entity": "beithir",
+      "attribute": "Ben Vair near Glencoe marks a beithir that sheltered in Conie Lia"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'beithir'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Define the beithir as the undetermined savage creature of Scottish Gaelic tradition.",
+    "key_results": [
+      "Node gives the word senses bear, serpent, dragon, thunderbolt, and lightning.",
+      "Node separates the early creature from the winged Germanic dragon.",
+      "Node records the fuath lore and the Ben Vair legend at Glencoe."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'beithir'."
+  }
+}

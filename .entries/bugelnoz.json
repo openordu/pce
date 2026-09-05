@@ -1,0 +1,35 @@
+{
+  "name": "bugelnoz",
+  "fname": "bugelnoz.json",
+  "text": "bugelnoz is a Breton word meaning a night imp or goblin, attested in the folklore of the Vannes region in south-central Brittany. Within that local tradition the creature comes out under cover of night, in the hours after midnight and before dawn, in order to snatch victims away from the clutches of the devil. He performs this rescue by opening his mouth wide and drawing the endangered soul inside it, a protective act that distinguishes the bugelnoz from the merely threatening night-imp of neighboring tales.",
+  "entities": [
+    {
+      "entity": "bugelnoz",
+      "type": "Being"
+    },
+    {
+      "entity": "Vannes",
+      "type": "Place"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "bugelnoz",
+      "attribute": "Breton night-imp of the Vannes region who rescues victims from the devil by drawing them into his mouth."
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'bugelnoz'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Document the Breton night-imp bugelnoz and its Vannes-region rescue role as recorded by MacKillop.",
+    "key_results": [
+      "Identifies bugelnoz as a Breton night-imp or goblin from the Vannes area of south-central Brittany.",
+      "Records the rescue-from-the-devil motif in which the imp shelters victims inside his own mouth."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'bugelnoz'."
+  }
+}

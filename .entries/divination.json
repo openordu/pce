@@ -16,6 +16,22 @@
     {
       "entity": "ogham",
       "attribute": "a letter system used in divination"
+    },
+    {
+      "entity": "raven and wren",
+      "attribute": "birds with divining powers from the earliest times"
+    },
+    {
+      "entity": "tarbfheis",
+      "attribute": "bull-feast rite used at Tara to select a new king"
+    },
+    {
+      "entity": "yew wands",
+      "attribute": "cast with ogham inscriptions to learn the future"
+    },
+    {
+      "entity": "Deirdre",
+      "attribute": "heroine whose fate was foretold at birth"
     }
   ],
   "entities": [
@@ -38,25 +54,57 @@
     {
       "entity": "Samhain",
       "type": "concept"
+    },
+    {
+      "entity": "Deirdre",
+      "type": "person"
+    },
+    {
+      "entity": "Conaire Mór",
+      "type": "person"
+    },
+    {
+      "entity": "tarbfheis",
+      "type": "ritual"
+    },
+    {
+      "entity": "yew wands",
+      "type": "artifact"
+    },
+    {
+      "entity": "Fionn mac Cumhaill",
+      "type": "person"
+    },
+    {
+      "entity": "Merlin",
+      "type": "person"
+    },
+    {
+      "entity": "nélladóir",
+      "type": "concept"
     }
   ],
   "sources": [
     "MacCulloch, J. A. The Religion of the Ancient Celts. London: Constable, 1911, 247ff.",
-    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.",
+    "MacKillop 2008, s.v. 'divination'"
   ],
   "image": [
     "https://upload.wikimedia.org/wikipedia/commons/d/d2/Rhumsiki_crab_sorceror.jpg"
   ],
   "cyphertext": "k6K4yc2x2oiZJtd6PvTl_yKUCWIcSdQh9gCV27zLWQITJU-UnKYTyukBf8kvmnKhs-C78Zx8o_y5ftXYQfP93bIJFbEA9-SXZMtdL-AVF3Wz0PRDkgN2QvGPEChLRX4YRI79KqhCfzU63hOKhCU7WXW8iovnmZWboxHwejYpxHOW7UdpC57jt5SwjjRW_-7JmLNgrhxWIwxqWRBoZNzzqiuujVRlc3o20_JNPEry0_Qu-d9mX3E86forDS7sT-4134yim7LWMT3xjZaYfvQ7kuxI5I9q0_qZarVw2hemdAvfRAt7-RXntkWsB5VysoN8dbAPCUOxoUmCHVszoaFixq_mi_HLDYTAOsK0WZiin-6oc3cqYfDALbGMOa28wsxEwZ-jISPc7fMa3haBtboo0O4Tahbmx-vUXkoxWQx0xkWsnQjAwbsHcJlWpd9o5C2GW2DMzNriUTZD2UQft1-PBVvfx2AC8PfWKS2slmb96UFkQCRxERv-iQGpHjbSwteg_nyfGCorbxW0EQ3SrCdVUeJE8JOxlRQWyFTV00B9Myup7Kh5mQmtOMlK8hh8iKS8nyEgD73uilUycweTE9L9ZQKAUEQxpWCoJzQ3hRMyR6o1SfMXpOB3oirAOsqThz_rkVNWIER5KOhJUwcdoKbJb61hi9Z1XSxc_qQumyqZcBgHmYzRO_Ig-3s_aQoGDslL4yHuG-W6hxDG4vN1bSWa0SaCByyyK7B6GBmhAEDwW9tKl_Q-CoJG4XLurPacjTzcGCJWGiXR9hNG4_4YE4zVXiwl4Hese8mIHwpIaZoVjSXU68JvZNVKfrJxkE_C7PjKQdglAppPmZCBPVdPea4Ru8JbJW_HByO4Dhr4G44J_cgKhdLf-KU4bAalFllNVn4aD7cIFfHzdYTDHATYxV81lMQHOQKu-PWSrBKOQYekwLp4PK7p9URYLrFRELIirnc3VItzsTR1cYZZrLcqFc7C8dIkOgPNGBHO7H4LNv5hMfVpG9IJzwtJH3kP9GH-tew4OP4Z2fUSYebjHDbGMTbvUVRH7FM6ai6LPeEJFWySSByruZfSz1sU4a6-wG5YkDBZoTM1yVnp6JcR6byB_WrE5K0XvZiEpW3LMHLMaU99o_GMrkLBbUrBJ5voo75wadOnYGqUz6R7ursVGTxZSm3g5-hzYaS6eAAXErSbBU7MbdWXeErAVQFAB6rScc73Orep4Bcj56Rqjz5bpELjT0l-YFjZSVeq-c0IoBT41kvU_NeIXvp1R5VjgHusSfPzoS6oLoWF16se2WKzQ6aFZAfmPo_ru2KYVS2AdpXamHl1x4rrcU25yVOPvIDSvHuwT6uqGc5ijgGtjYpf0MZTOS5pqEBpKKKUoX69rP_ienyreJlynBlPbdbw35bllJzqgCQ1QLbJEl7nAsp1Mvzpnl3py0Nskkk78OqmNkBXXavcQaEx4UK-8p3rdV4NvpsnMpDI_Ma1MUf7Y_iaCEQ-xKKjTkVtEwnC2nXQc9bT4X6Vu8ZeGBWxdoODCFAN2G9XDV5g68VlPU6wmPJ0EVrtxZ2byudDGt9scSrDjzPFMcOXRlQzxSBnqXKI23wQqwuWTfkZH3P-cqdrgJQsVFsEqU9jnt-AaMbjDiTzK75gnbKKke9x_PW6QzD_pN3ebyzNty2gLvtJuiFAXCuPhXsRFzo9sFx0LNrE_s9Zk_2eGCwPDbEYqEgV-3RaehhobTSBVJ0iEUsYIn6OmuxVHYFaC3lCXyJMMgkW3-0swiSHxkLLFrGMMgoi7dQuEpzGyKXjxHt6R4m12lN4jYH_e1JJOyuGjwVOXzD7ky1vaH4ciuoa_dJhVv45pGS2ccqwQIb2hXgR768NA1Z4jqFIDd93qSg9RnWBO4HbvDxPSK4MpMELYRvXZDiyExjXycO16ZmXlVlVpMA0L5nvK__QY4i1hSFb7lmzVyvTp9pwTsHv1kiQGXWMdQgQSploN9Wh1m65oRjDiMR2p7AA5nP22GaD6YPbrM9BAHyHNEMCdx2XiEDTfQdxfUKiEoSNklPTKdUWUmPYsx48mRbZtWZVkDJnek4Iii3rx27Kl43jq1kMlDtXAvR9oDFVoWIbv-RN5LTO2rtIDciVcAxyizAgkpilFNaOIKuEM8b5_x158zi8_s9R25cpVbf1F1KI7hYuj0WwftdZPVHhvFd3laiCcnOD7pcFthUqiBkkaMlB8iLMhydeBwgUEcta0-ncwHPC8njqaTF90JpgTO2imO0hzBKHDtljwpPDQbZFSgpCPo3z_Di0Ie3eRA7Rj47zTfZ8QiZ0xpMkhmyC3aTZy7u3-iKSHmf6AyqEv3N379dsmOGvxlAK1VhN6dYm-n-QBFaiReMZmiwZL6Y2n5xVU_TACvtb-tVosAdZ9mEndOV9fAD_Z5bfYhLN-uqRSXmfpy3NCxknMD6BOPRmO8S3DeRNH7HSL5zjw_S3k-qBx4VVf91IFuE753DUTaRcAry86wHwdyNo08uWm-TI6OW6N7RENQ7ibUu8Iil1_hFxaCaxGptUkcLk6HkBGmu3dMTUaJfH-b6ynOpRu_fQrNUekvZv9Lp5IdD9B3yZQHQN1ycA2cZYSN-F-UCDoto3F7ymO3xlfBwCleJrYfaZ3iPZnB8kW4BzQ8YWC3WBxPqg9RHsDlm4mp1tL3CefH1zOYnhqTNyEnnUSBAEIaoI5CI-LFKaAwn5Uq5VdCTtum1FMSBQdVa8sdOqFKtI5Wh7f2zg-izaZCQ3zlvHmfx1NgEwPyCXLF03q8WovCAR7fefSyachGVCWb9vfy_X2w5m8-wKooDdrETtAiIKQw7UfEJi_qlTQO5RdiyvY0upMKoQvIkENazvt0HYlotZuk3BAVV_LwtgYNwXysZPRwWVZ_7B-s0VDNuL3MmRf04ueIZBv7FfCbIJSZ0uJVSURb91BQqmPPXP7Q==",
   "salt": "bhVKZsyFcXjECSpDTkzDyA==",
-  "text": "Seeing the future, divination, was a duty of the druids among the insular and continental Celts. Roman writers Tacitus and Strabo claimed Celts read the entrails of sacrificed humans. Both Romans had reason to paint their enemies as barbarians, so that evidence of human sacrifice is arguable. Less disputed are rites that used animals and the flight of birds. Irish sources show druids and bards read omens. Rituals used chanted words, called díchetal do chennaib, and object reading, called teinm laeda. They also used trance, called imbas forosnai, and the letters of ogham. A grand rite chose the king, when a poet ate uncooked meat and slept wrapped in a bull's hide to dream the ruler, a practice called bull-sleep. On pivot days such as Samhain, common people read the future in omens and dreams.",
+  "text": "divination means foretelling the future or uncovering what is hidden. Its name comes from Latin divinus, meaning divine. Divination differs from prophecy. Prophecy does not always carry a magical motive. Sources inside and outside the Celtic world testify to a broad belief in divination. Druids among the insular and continental Celts held this as a duty. Both male and female druids were thought adept. From the earliest times birds carried divining powers, above all the raven and the wren. Roman writers Tacitus and Strabo claimed Celts read the entrails of sacrificed humans. Both Romans had reason to paint their enemies as barbarians, so that evidence of human sacrifice is arguable. Less disputed are rites that used animals and the flight of birds. Irish sources show druids and bards read omens. They chanted words called díchetal do chennaib. They read objects in the teinm laeda method. They entered trance through imbas forosnai. They also used the letters of ogham. A grand rite chose the king at Tara. The poet ate uncooked meat. He slept wrapped in a bull's hide. His dream revealed the ruler. This bull-sleep bore the name tarbfheis. On pivot days such as Samhain, the Celtic New Year on 1 November, common people read omens and dreams. Questions ranged over the winter harvest and the marriage prospects of a young maiden. Heroes and heroines like Deirdre had their fate told at birth. Conaire Mór shows that ignoring such warnings courts disaster. Natural signs, omens, and dream images supplied the raw material, and each took many shapes. Astrology may have appeared in early Ireland, since nélladóir means cloud diviner. Wood held special powers for readers. Casting yew wands inscribed with ogham on the ground revealed the future. In Fenian stories wood shavings help locate a missing or fugitive person. Fionn mac Cumhaill and Merlin both show special powers of this kind.",
   "okr": {
-    "objective": "Describe the methods and contested evidence of Celtic divination.",
+    "objective": "Describe the methods, specialists, and contested evidence of Celtic divination.",
     "key_results": [
+      "Define divination as foretelling the future or finding what is hidden, distinct from prophecy",
+      "Record birds, chiefly raven and wren, as diviners from the earliest times",
       "Roman writers Tacitus and Strabo claimed Celts read the entrails of sacrifices.",
-      "Druids and bards used ritual chants, trance, and ogham letters for divination.",
-      "On pivot days such as Samhain, common people read the future in omens and dreams."
+      "Druids and bards used díchetal do chennaib, teinm laeda, imbas forosnai, and ogham",
+      "The tarbfheis bull-sleep chose the king, and Samhain omens served the common people",
+      "Yew wands cast with ogham revealed the future, and Fionn and Merlin show special powers"
     ],
-    "evidence": "Monaghan, The Encyclopedia of Celtic Mythology and Folklore"
+    "evidence": "MacKillop 2008, s.v. 'divination'."
   }
 }

@@ -1,0 +1,51 @@
+{
+  "name": "daoine maithe",
+  "fname": "daoine-maithe.json",
+  "text": "daoine maithe is an Irish-language name meaning good people. MacKillop records it as one of several euphemisms for fairies in Modern Irish folklore. The phrase belongs to a family of polite substitutes that Irish and Scottish Gaelic speakers used in place of the direct fairy name. The related term daoine sídhe (often shortened to daoine sí or sidh) names the people of the fairy mound. The label daoine uaisle, meaning noble people or gentry, sits in the same cluster of flattering alternatives. Slua sí, meaning fairy host, names the troop of the otherworld in another turn of phrase. Each of these expressions lets a speaker name the fairies without speaking their proper name.",
+  "entities": [
+    {
+      "entity": "daoine maithe",
+      "type": "Concept"
+    },
+    {
+      "entity": "daoine sídhe",
+      "type": "Concept"
+    },
+    {
+      "entity": "daoine uaisle",
+      "type": "Concept"
+    },
+    {
+      "entity": "slua sí",
+      "type": "Concept"
+    },
+    {
+      "entity": "fairies",
+      "type": "Being"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "daoine maithe",
+      "attribute": "Irish-language euphemism for fairies, meaning good people"
+    },
+    {
+      "entity": "daoine maithe",
+      "attribute": "Member of a Modern Irish set of polite fairy names including daoine sídhe, daoine uaisle, and slua sí"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'daoine maithe'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Identify daoine maithe as an Irish fairy euphemism meaning good people.",
+    "key_results": [
+      "Locates the term in the Modern Irish cluster of polite fairy names.",
+      "Names related Irish euphemisms (daoine sídhe, daoine uaisle, slua sí)."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'daoine maithe'."
+  }
+}

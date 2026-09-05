@@ -1,0 +1,48 @@
+{
+  "name": "caoineag",
+  "fname": "caoineag.json",
+  "text": "The caoineag is a Scottish Gaelic spirit of mourning known across the northern Highlands and the Hebrides. The word itself means weeper. Folk tradition frames the caoineag as a local form of the banshee. Hearers in MacDonald country reported cries from the caoineag after the slaughter at Glencoe in 1692. Some sources also identify her with the bean nighe of wider Gaelic tradition.",
+  "entities": [
+    {
+      "entity": "caoineag",
+      "type": "Being"
+    },
+    {
+      "entity": "banshee",
+      "type": "Being"
+    },
+    {
+      "entity": "Glencoe",
+      "type": "Place"
+    },
+    {
+      "entity": "bean nighe",
+      "type": "Being"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "caoineag",
+      "attribute": "Highland and Hebridean banshee figure"
+    },
+    {
+      "entity": "caoineag",
+      "attribute": "linked in tradition to Glencoe 1692"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'caoineag'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Record the caoineag as a Scottish Gaelic banshee figure tied to the Highlands and Glencoe.",
+    "key_results": [
+      "Defines the caoineag as a weeper of the northern Highlands and Hebrides.",
+      "Connects the caoineag to the banshee tradition and to Glencoe 1692.",
+      "Links the caoineag with the bean nighe of wider Gaelic lore."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'caoineag'."
+  }
+}

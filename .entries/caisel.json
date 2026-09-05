@@ -1,0 +1,48 @@
+{
+  "name": "caisel",
+  "fname": "caisel.json",
+  "text": "caisel is an Irish word that English often renders as castle, by way of the Latin root castellum. The Irish term in fact covers any large secular building put up with drystone walls, not a church. Caisel Muman serves as the Old Irish name for Cashel. The headword appears in the spellings caisel and caiseal.",
+  "entities": [
+    {
+      "entity": "caisel",
+      "type": "Thing"
+    },
+    {
+      "entity": "Cashel",
+      "type": "Place"
+    },
+    {
+      "entity": "Caisel Muman",
+      "type": "Place"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "caisel",
+      "attribute": "Irish word usually translated as 'castle' from Latin castellum"
+    },
+    {
+      "entity": "caisel",
+      "attribute": "more often describes any large non-ecclesiastical drystone building"
+    },
+    {
+      "entity": "caisel",
+      "attribute": "Caisel Muman is the Old Irish name for Cashel"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'caisel'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Explain the Irish architectural term caisel as recorded by MacKillop.",
+    "key_results": [
+      "Traces caisel to the Latin root castellum",
+      "Notes the term covers large drystone secular buildings",
+      "Identifies Caisel Muman as the Old Irish name for Cashel"
+    ],
+    "evidence": "MacKillop 2008, s.v. 'caisel'."
+  }
+}

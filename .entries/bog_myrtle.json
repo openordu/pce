@@ -1,0 +1,40 @@
+{
+  "name": "bog myrtle",
+  "fname": "bog_myrtle.json",
+  "text": "Bog myrtle is an Irish name for the shrub Myrica gale. The shrub has bitter leaves with a strong fragrance. Elsewhere English speakers know the plant as sweet gale, as sweet willow, or as buck bean. Rural communities in Ireland once carried bog myrtle as palm on Palm Sunday. Custom barred the bog myrtle from use as a switch for driving cattle. The ban reflected the belief that the shrub had scourged Jesus. An infusion of the branch tips yields a yellow dye for cloth. The same infusion served tanners in preparing hides. Modern Irish roideog and roilleog, Scottish Gaelic roid, and Manx roddagagh name the shrub across the Celtic languages.",
+  "entities": [
+    {
+      "entity": "bog myrtle",
+      "type": "Thing"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "bog myrtle",
+      "attribute": "Irish name for the shrub Myrica gale, whose bitter leaves carry a strong fragrance"
+    },
+    {
+      "entity": "bog myrtle",
+      "attribute": "Carried as palm on Palm Sunday in rural Ireland, but barred as a cattle switch"
+    },
+    {
+      "entity": "bog myrtle",
+      "attribute": "Branch-tip infusion yields a yellow dye and serves in tanning"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'bog myrtle'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Describe bog myrtle as the Irish shrub Myrica gale and its folk uses.",
+    "key_results": [
+      "Record the English names sweet gale, sweet willow, and buck bean.",
+      "Explain the Palm Sunday palm custom and the ban on its use as a cattle switch.",
+      "Note the yellow dye and tanning value of the branch-tip infusion."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'bog myrtle'."
+  }
+}

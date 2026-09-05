@@ -1,0 +1,39 @@
+{
+  "name": "bocánach",
+  "fname": "bocánach.json",
+  "text": "Bocánach is an Irish term for a goblin with the form of a goat. The creature ranks among the demons of the battlefield in Irish tradition. MacKillop notes its frequent association with the bánánach. Bocánachs shrieked through the air while Cúchulainn fought Ferdiad.",
+  "entities": [
+    {
+      "entity": "bocánach",
+      "type": "Being"
+    },
+    {
+      "entity": "Ferdiad",
+      "type": "Character"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "bocánach",
+      "attribute": "Irish goblin of goat form that kept to the battlefield"
+    },
+    {
+      "entity": "bocánach",
+      "attribute": "Shrieked through the air over the fight of Cúchulainn and Ferdiad"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'bocánach'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Define the bocánach as an Irish battlefield goblin of goat form.",
+    "key_results": [
+      "Record the frequent association with the bánánach.",
+      "Note the shrieking over the combat of Cúchulainn and Ferdiad."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'bocánach'."
+  }
+}

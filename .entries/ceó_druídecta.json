@@ -4,6 +4,14 @@
     {
       "entity": "ceó druídecta",
       "attribute": "points to the Druid's Fog entry"
+    },
+    {
+      "entity": "ceó druídecta",
+      "attribute": "variant spelling ceo draoidheachte in MacKillop"
+    },
+    {
+      "entity": "ceó druídecta",
+      "attribute": "routes readers to féth fíada in MacKillop"
     }
   ],
   "entities": [
@@ -14,21 +22,26 @@
     {
       "entity": "Druid's Fog",
       "type": "concept"
+    },
+    {
+      "entity": "féth fíada",
+      "type": "concept"
     }
   ],
   "sources": [
-    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.",
+    "MacKillop 2008, s.v. 'ceó druídecta'"
   ],
   "cyphertext": "9thez-q7zprpZs8N4WON87y4jXlMh616H3-5n8xNW_4kmHBFo_igRSCFl2yzU7aJg1jamNRUMEc6Rmv_v2Zo",
   "salt": "BVPFFVCtYKZCP0cz4tTDGw==",
-  "text": "ceó druídecta is an Irish phrase that stands as a heading in this encyclopedia. The heading sends the reader to the Druid's Fog entry for the full account. No separate tale is told under this title.",
+  "text": "ceó druídecta is an Irish phrase that stands as a heading in this encyclopedia. MacKillop lists a variant spelling, ceo draoidheachte. The heading sends the reader to the Druid's Fog entry for the full account. MacKillop likewise routes the phrase to the féth fíada entry. No separate tale is told under this title. The form exists to catch variant spellings and to pass readers on to the fuller treatment of the magical mist.",
   "okr": {
-    "objective": "ceó druídecta is a cross-reference pointing to Druid's Fog.",
+    "objective": "ceó druídecta is an Irish cross-reference heading that points to the Druid's Fog material.",
     "key_results": [
-      "The heading holds two words that form an Irish phrase.",
-      "It directs the reader to the Druid's Fog entry.",
-      "No other detail appears under this heading."
+      "MacKillop records ceo draoidheachte as a variant form.",
+      "The heading directs the reader to the Druid's Fog entry.",
+      "MacKillop routes the same phrase to féth fíada."
     ],
-    "evidence": "Monaghan, Encyclopedia of Celtic Mythology and Folklore"
+    "evidence": "MacKillop 2008, s.v. 'ceó druídecta'"
   }
 }

@@ -1,0 +1,34 @@
+{
+  "name": "bán síde",
+  "fname": "ban_side.json",
+  "text": "bán síde is the Old-Irish spelling of the headword banshee. MacKillop prints the form as bán side, without the fada on the s. The full record of the banshee word-article sits under the headword banshee.",
+  "entities": [
+    {
+      "entity": "bán síde",
+      "type": "Concept"
+    },
+    {
+      "entity": "banshee",
+      "type": "Being"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "bán síde",
+      "attribute": "Old-Irish spelling of the headword banshee."
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'bán side'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "bán síde is an Old-Irish spelling signpost pointing to the banshee node.",
+    "key_results": [
+      "Signpost cites the headword banshee for the full record of the article."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'bán side'."
+  }
+}

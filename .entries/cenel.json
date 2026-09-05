@@ -1,0 +1,48 @@
+{
+  "name": "cenél",
+  "fname": "cenel.json",
+  "text": "cenél is an Old Irish noun that scholars gloss as race, tribe, nation, or kindred. It labels an aristocratic descent group in early Ireland and in Gaelic Scotland. Two of the best-known groups under this heading were the Cenél Conaill ruling Tír Chonaill (also called Tirconnell, modern Donegal) and the Cenél Eógain ruling Tír Eógain (also called Tirowen, modern Tyrone). The Welsh cognate cenedl carries the same range of meaning. T. M. Charles-Edwards devotes a study to the topic in his 1993 work on early Gaelic and Welsh kinship.",
+  "entities": [
+    {
+      "entity": "cenél",
+      "type": "Concept"
+    },
+    {
+      "entity": "Cenél Conaill",
+      "type": "Concept"
+    },
+    {
+      "entity": "Cenél Eógain",
+      "type": "Concept"
+    },
+    {
+      "entity": "Tír Eógain",
+      "type": "Place"
+    },
+    {
+      "entity": "Tír Chonaill",
+      "type": "Place"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "cenél",
+      "attribute": "Old Irish word for an aristocratic descent group, usually glossed race, tribe, nation, or kindred"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'cenél'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Document the Old Irish kinship term cenél and its main historical examples.",
+    "key_results": [
+      "Defines cenél as an aristocratic descent group.",
+      "Names Cenél Conaill and Cenél Eógain as best-known groups.",
+      "Cites Charles-Edwards 1993 for further reading."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'cenél'."
+  }
+}

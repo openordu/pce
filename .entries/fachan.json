@@ -24,6 +24,14 @@
     {
       "entity": "druid",
       "attribute": "cast curses on one leg with an arm raised"
+    },
+    {
+      "entity": "fachan",
+      "attribute": "variant of the athach and read as a kind of giant in some accounts"
+    },
+    {
+      "entity": "fachan",
+      "attribute": "bears rough, spiky hair beside its one leg, one hand, and one eye"
     }
   ],
   "entities": [
@@ -54,25 +62,34 @@
     {
       "entity": "Glám Dícenn",
       "type": "concept"
+    },
+    {
+      "entity": "fbarcaille",
+      "type": "mythological creature"
+    },
+    {
+      "entity": "fomorians",
+      "type": "mythological creature"
     }
   ],
   "sources": [
-    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.",
+    "MacKillop 2008, s.v. 'fachan'"
   ],
   "image": [
     "https://upload.wikimedia.org/wikipedia/commons/2/23/Direach_Ghlinn_Eiti_or_Fachan.jpg"
   ],
   "cyphertext": "EbkDw4880ZWtEpS4OKGnoLSC5d1HdMIZl-mhxz0HSVmUguqbBEbQiF7lTZI0AFbi3ekOBXLpWgr4LRNxmcRdJdZMxqmWhWIaioL6CA8rZdWJab2qeuxQ3C7We42ZzY_rxTB87VVZ3K3WnaRaGZ9S4zELrLl9M3Uo0AhcGRzt8LXviZqKeS8ZEfJaIFYx1ZyO74YFgWSKrqcZNIADxGOyNlqqDyxhqdGrtbnPYd3SNTtfSczFXMrMxDCIB5glKBcY1fp3sOVB-UZAVNW0O9JzQuUJQwcD-5pwnK3_4wd59aGoWJ0IFSWqjWWBawIWClanKIsW_-1eZc14lsF-flkexWEjTH1pIZ2Xq3Uiy3HyH8mQeamfRusAH--UNCFq097oCT6Zd4MKo7FnBjE3OUpMp9Nr9i7x6XnQwT-0DmHz4Cv-f7qhf2MdrcB82FJD8vSaEizLTdwzL68iEtFhMSSDoUu_pPFvyOiAzQpTsvOeC55K75K1U5nEApVTgDAXQuOX8sH_17UJC_MKY0vvLyC_8sPZbjgAqDqXEfShdQzerkmVl2TZs88ufhYsgYMIUvge-CIsxJj9pROXqH39JN69ZlqxnSrDM7NlQvhpgabYshE5bp_OFM6OfrHUlod-lmSr4T5x4Pum9T7zfvUnH8qwPn-SdylpX64bKDw2K4x3H2Ys2zt4rKbiqKSB7VjgOHMF_Aq3fpLtnbbZg29UgTAxk0vPCtQStnjZy9RqguMyLSxGZKe0wvChy2z040Irqo8NTaPIOdZPmr54H0Ip7WDC",
   "salt": "tmWAWxktuntDNZ34Z_fkdg==",
-  "text": "The fachan, also called the athach, is a Scottish folkloric figure. It is a one-legged, one-eyed monster of Scotland's wild country. A single hand grew from its chest. That hand gripped a flail thick with iron apples. It struck at passersby while hopping on its one leg. The creature came in two forms, the first being the Athach. The other form, the dìreach, prowled the quiet Glen Eitive. A druid would curse by balancing on one leg and lifting an arm. Some believe the fachan stories grew from fear of that posture. The posture is linked to the Glám Dícenn.",
+  "text": "The fachan, also called the athach, is a Scottish folkloric figure. Scottish Gaelic tales also spell it fachin. Irish tradition knows counterparts of this same grotesque being. MacKillop ranks the fachan as a variety of the better-known athach. He treats the dìreach as a more particular fachan. The creature is grotesquely ugly and wholly supernatural. It has one leg that grows from the haunch. One hand protrudes from its chest. It bears a single eye and rough, spiky hair. That hand gripped a flail thick with iron apples. It struck at passersby while hopping on its one leg. No other monster of the lonely gorges and lochs filled peasants with greater dread. Some accounts class the fachan as a giant. The creature came in two forms, the first being the Athach. The other form, the dìreach, prowled the quiet Glen Eitive. A druid would curse by balancing on one leg and lifting an arm. Some believe the fachan stories grew from fear of that posture. The posture is linked to the Glám Dícenn. Irish lore offers the fbarcaille and the fomorians as likenesses.",
   "okr": {
-    "objective": "The fachan is a one-legged, one-eyed monster of the Scottish wilds.",
+    "objective": "Fuse the fachan entry with MacKillop's taxonomy and Irish parallels.",
     "key_results": [
-      "The fachan, also called the athach, is a Scottish folkloric figure.",
-      "Its one hand grows from its chest and holds a flail with iron apples.",
-      "The Athach and the dìreach are its two forms, the latter haunting Glen Eitive.",
-      "Its stories may grow from fear of a druid's one-legged cursing posture."
+      "Rank the fachan as a variety of the athach and the dìreach as its particular form",
+      "Add the spiky hair to the one-leg, one-hand, one-eye body",
+      "Record the dread of gorges and lochs and the giant classing",
+      "Note the Irish parallels fbarcaille and fomorians"
     ],
-    "evidence": "Monaghan, Encyclopedia of Celtic Mythology and Folklore"
+    "evidence": "MacKillop 2008, s.v. 'fachan'."
   }
 }

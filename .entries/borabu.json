@@ -1,0 +1,40 @@
+{
+  "name": "borabu",
+  "fname": "borabu.json",
+  "text": "borabu names the horn of the Fianna. Oisín discovered the horn beneath a stone; its coils swept round like a sea-shell. One blast on the borabu drew fighting men from every quarter of Ireland without delay.",
+  "entities": [
+    {
+      "entity": "borabu",
+      "type": "Thing"
+    },
+    {
+      "entity": "Fianna",
+      "type": "Concept"
+    },
+    {
+      "entity": "Oisín",
+      "type": "Character"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "borabu",
+      "attribute": "horn of the Fianna; one blast summons warriors from every part of Ireland"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'borabu'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Identify borabu as the horn of the Fianna and its summoning power.",
+    "key_results": [
+      "Names the horn of the Fianna as borabu.",
+      "Records Oisín's discovery of the horn under a stone.",
+      "States that one blast summons warriors from every part of Ireland."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'borabu'."
+  }
+}

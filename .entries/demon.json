@@ -1,0 +1,84 @@
+{
+  "name": "demon",
+  "fname": "demon.json",
+  "text": "demon in MacKillop is a Greek concept, named from Gk. daimön, marking an evil spirit ranked second in the spiritual order. Christian commentators borrowed the term and applied it subjectively to pre-Christian Celtic figures and events. A familiar trope calls the creatures driven from Ireland by St Patrick demons. Almost any pre-Christian personality may be called a demon, with both the Fomorian hosts and the people of the Tuatha Dé Danann falling under that label. Many mischievous or malevolent beings from oral tradition also carry the label. The Irish examples named in MacKillop include the bocánach and the Cornu of Ireland. The Breton examples include the ankou, nain, and youdik. Bodb changes Aife into a demon of the air, an aerial-demon motif that appears in many translated texts even when no Irish phrase names it. The concept overlaps with the devil, to which MacKillop cross-refers.",
+  "entities": [
+    {
+      "entity": "demon",
+      "type": "Concept"
+    },
+    {
+      "entity": "devil",
+      "type": "Concept"
+    },
+    {
+      "entity": "Patrick",
+      "type": "Character"
+    },
+    {
+      "entity": "Fomorians",
+      "type": "Being"
+    },
+    {
+      "entity": "Tuatha Dé Danann",
+      "type": "Being"
+    },
+    {
+      "entity": "bocánach",
+      "type": "Being"
+    },
+    {
+      "entity": "Cornu",
+      "type": "Being"
+    },
+    {
+      "entity": "ankou",
+      "type": "Being"
+    },
+    {
+      "entity": "nain",
+      "type": "Being"
+    },
+    {
+      "entity": "youdik",
+      "type": "Being"
+    },
+    {
+      "entity": "Bodb",
+      "type": "Character"
+    },
+    {
+      "entity": "Aife",
+      "type": "Character"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "demon",
+      "attribute": "Greek concept (Gk. daimön) of an evil spirit ranked second spiritually"
+    },
+    {
+      "entity": "demon",
+      "attribute": "Applied by Christian commentators to pre-Christian Celtic figures including the Fomorians and the Tuatha Dé Danann"
+    },
+    {
+      "entity": "demon",
+      "attribute": "Includes the malevolent figures bocánach and Cornu of Ireland and the ankou, nain, and youdik of Brittany"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'demon'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "demon names the Greek concept (Gk. daimön) of a second-rank evil spirit that Christian commentators applied to pre-Christian Celtic figures.",
+    "key_results": [
+      "Article explains the Greek etymology and the Christian application to figures such as the Fomorians and Tuatha Dé Danann.",
+      "Article lists specific Irish and Breton malevolent figures grouped under the label.",
+      "Article links the aerial-demon motif to Bodb and Aife and cross-refers to devil."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'demon'."
+  }
+}

@@ -2,37 +2,73 @@
 layout: layouts/pce.njk
 title: Devil
 icon: file-lines
-order: 668
+order: 780
 contributors: [ 'Christopher Godwin' ]
 attributes:
-  - goddesses demonized
-  - goddesses sometimes described as the Devil's Mother
+  - Devil concept the Celts lacked an image of
+  - Celts worldview ambiguous and non-dualistic
+  - Cernunnos main inspiration for Christian devil iconography
+  - Devil's Mother name given to demonized goddesses
+  - Caoránach Lough Derg monster known as the devil's mother
+  - Donn traits borrowed for pious Irish portrayals of the devil
+  - earwig devil disguise in Irish folklore
 categories:
-  - mythological beings
-  - mythological being
+  - Animal
+  - group
+  - God
+  - Concept
+  - Goddess
+  - Being
 entities:
-  - goddesses(mythological beings)
-  - Devil(mythological being)
+  - Devil(Concept)
+  - Celts(group)
+  - Cernunnos(God)
+  - Christianization(Concept)
+  - Devil's Mother(Goddess)
+  - Caoránach(Being)
+  - Donn(God)
+  - earwig(Animal)
+  - An tÁibhirseoir(Concept)
 tags:
-  - goddesses
   - Devil
+  - Celts
+  - Cernunnos
+  - Christianization
+  - Devil's Mother
+  - Caoránach
+  - Donn
+  - earwig
+  - An tÁibhirseoir
 ---
 ``` tab [group1:Info]
 ::: magazinestyle
-The concept of the Devil in Christian cosmology was absent among the Celts. Rather than having a dualistic worldview that was pitted with light against darkness, they leaned toward something more ambiguous, where darkness and light were balanced against one another. With the advent of Christianization in the area, some Celtic gods were reinterpreted in this new religion as being negative forces. This is a normal pattern; gods from one religion can become demons in the next. It was the god Cernunnos, the god of wilderness from continental Celtic mythology, that was the primary model for Christian iconography of the devil. This was because of his horns and partially animalistic body. As goddesses were gradually demonized, they were sometimes referred to as the Devil’s Mother.
+Devil is a Christian cosmological concept. The Celts had no matching image of an evil force. Their worldview stayed ambiguous and non-dualistic. Dark balanced light. The two powers did not wage war. Christianization changed that balance. Gods of one faith often become the devils of the next. Cernunnos shaped the Christian devil's picture. He was the Continental god of wilderness. His horns and partly animal body inspired the iconography. Demonized goddesses took the name Devil's Mother. Irish folklore adds further alignments. Irish tradition knows Caoránach of Lough Derg as the devil's mother. Pious Irish portrayals of the fiend drew traits from Donn, who rules the dead. Irish belief makes even the earwig one of his disguises. That insect is a small centipede. Speakers conventionally call him The Adversary, An tÁibhirseoir. Most Celtic languages took his name from Latin, English, or French. Irish and Scottish Gaelic use diabhal. Manx gives jouyl. Welsh offers diafol, diawl, and cythraul. Cornish uses dyawl and Breton diaoul. The concept grew from Celtic roots after conversion. Old deities found new roles in the new faith. The Devil carried Celtic traces forward into Christian belief.
 
 :::
 ```
 ``` tab [group1:Attributes]
-- **goddesses**: demonized
-- **goddesses**: sometimes described as the Devil's Mother
+- **Devil**: concept the Celts lacked an image of
+- **Celts**: worldview ambiguous and non-dualistic
+- **Cernunnos**: main inspiration for Christian devil iconography
+- **Devil's Mother**: name given to demonized goddesses
+- **Caoránach**: Lough Derg monster known as the devil's mother
+- **Donn**: traits borrowed for pious Irish portrayals of the devil
+- **earwig**: devil disguise in Irish folklore
 ```
 ``` tab [group1:Entities]
-- **goddesses**: mythological beings
-- **Devil**: mythological being
+- **Devil**: Concept
+- **Celts**: group
+- **Cernunnos**: God
+- **Christianization**: Concept
+- **Devil's Mother**: Goddess
+- **Caoránach**: Being
+- **Donn**: God
+- **earwig**: Animal
+- **An tÁibhirseoir**: Concept
 ```
 ``` tab [group1:Sources]
 - Grinsell, Leslie V. Folklore of Prehistoric Sites in Britain. London: David & Charles, 1976, 20.
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
+- MacKillop 2008, s.v. 'devil'
 ```
 ![Devil Image](https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/022_devil_representation.JPG/1200px-022_devil_representation.JPG)

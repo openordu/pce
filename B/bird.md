@@ -2,67 +2,86 @@
 layout: layouts/pce.njk
 title: bird
 icon: file-lines
-order: 247
+order: 265
 contributors: [ 'Christopher Godwin' ]
 attributes:
-  - bird species specific associated traditions
+  - bird a symbolic animal
+  - bird emblem or escort of Celtic goddesses
+  - Crow a carrion-eater that attended goddesses of war and death
+  - Raven a carrion-eater that attended goddesses of war and death
+  - Mórrígan appears at times as a crow, with Badb and Macha
+  - Conaire was forbidden to kill birds
+  - chough serves as the emblem of Cornish identity under the name An Balores
 categories:
-  - bird species
-  - animal
+  - Animal
+  - Being
+  - Place
+  - Deity
+  - Person
 entities:
-  - bird species(animal)
-  - Cock(bird species)
-  - Crane(bird species)
-  - Dove(bird species)
-  - Duck(bird species)
-  - Eagle(bird species)
-  - Egret(bird species)
-  - Goose(bird species)
-  - Heron(bird species)
-  - Owl(bird species)
-  - Swallow(bird species)
-  - Swan(bird species)
-  - Wren(bird species)
+  - bird(Animal)
+  - Crow(Animal)
+  - Raven(Animal)
+  - Badb(Deity)
+  - Macha(Deity)
+  - Mórrígan(Deity)
+  - Conaire(Person)
+  - Angus Óg(Deity)
+  - Cáer(Person)
+  - Children of Lir(Being)
+  - Éis Enchenn(Being)
+  - Cúchulainn(Person)
+  - chough(Animal)
+  - Brittany(Place)
 tags:
-  - bird species
-  - Cock
-  - Crane
-  - Dove
-  - Duck
-  - Eagle
-  - Egret
-  - Goose
-  - Heron
-  - Owl
-  - Swallow
-  - Swan
-  - Wren
+  - bird
+  - Crow
+  - Raven
+  - Badb
+  - Macha
+  - Mórrígan
+  - Conaire
+  - Angus Óg
+  - Cáer
+  - Children of Lir
+  - Éis Enchenn
+  - Cúchulainn
+  - chough
+  - Brittany
 ---
 ``` tab [group1:Info]
 ::: magazinestyle
-A symbolic animal within Celtic mythology is the bird. Birds oftentimes served as emblems or escorts of Celtic goddesses, specifically the carrion-eaters like Crows or Ravens that would accompany the goddesses of war and death. Birds were sometimes used to represent souls departing from the body, a fitting symbol due to their connection with warrior goddesses. Alternatively, they could also serve as a means of divination, where the designs formed by birds in flight were interpreted. Not all bird imagery in Celtic mythology was associated with gloom or foreboding. Some goddesses, such as Rhiannon, were accompanied by sweetly singing birds that surrounded her, bringing joy wherever she went. Clídna's bright-feathered companions sought to ease the pains of the sick with their songs. Each individual bird species held specific associated traditions. For a deeper understanding of the significance of the Cock, Crane, Dove, Duck, Eagle, Egret, Goose, Heron, Owl, Swallow, Swan, and Wren within Celtic mythology, refer to these entries.
+The bird is a symbolic animal in Celtic thought. Celtic tradition presents birds as divine signs, as servants of the gods, and as their messengers. Birds often serve as marks or escorts of the goddesses. The Continental Celts carved bird figures in temples and stamped them on coins. Later Celtic narrative holds a rich store of bird symbolism. Early imagery links birds with the bull. Some Continental Celtic artists showed birds joined by silver chains. The carrion-eaters stand out most clearly. Crows and ravens accompanied goddesses of war and death. Irish legend casts the goddesses Badb, Macha, and Mórrígan at times as crows. The Irish hero Conaire could not kill birds. Irish tales tell of figures changed into birds: the Children of Lir, Cáer, and Angus Óg. The bird-headed Éis Enchenn fought Cúchulainn as a grotesque foe. Breton belief let the dead come back in bird shape. A Breton family killed and ate the enfant-oiseau, the infant-bird of Breton tale. The chough, called An Balores, stands as the emblem of Cornish identity. MacKillop lists many birds as important in the tradition, among them the crane, eagle, goose, and hawk. The bird is éan in Irish, eun in Scottish Gaelic, eean in Manx, and aderyn in Welsh.
 
 :::
 ```
 ``` tab [group1:Attributes]
-- **bird species**: specific associated traditions
+- **bird**: a symbolic animal
+- **bird**: emblem or escort of Celtic goddesses
+- **Crow**: a carrion-eater that attended goddesses of war and death
+- **Raven**: a carrion-eater that attended goddesses of war and death
+- **Mórrígan**: appears at times as a crow, with Badb and Macha
+- **Conaire**: was forbidden to kill birds
+- **chough**: serves as the emblem of Cornish identity under the name An Balores
 ```
 ``` tab [group1:Entities]
-- **bird species**: animal
-- **Cock**: bird species
-- **Crane**: bird species
-- **Dove**: bird species
-- **Duck**: bird species
-- **Eagle**: bird species
-- **Egret**: bird species
-- **Goose**: bird species
-- **Heron**: bird species
-- **Owl**: bird species
-- **Swallow**: bird species
-- **Swan**: bird species
-- **Wren**: bird species
+- **bird**: Animal
+- **Crow**: Animal
+- **Raven**: Animal
+- **Badb**: Deity
+- **Macha**: Deity
+- **Mórrígan**: Deity
+- **Conaire**: Person
+- **Angus Óg**: Deity
+- **Cáer**: Person
+- **Children of Lir**: Being
+- **Éis Enchenn**: Being
+- **Cúchulainn**: Person
+- **chough**: Animal
+- **Brittany**: Place
 ```
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
+- MacKillop 2008, s.v. 'birds'
 ```
 ![bird Image](https://upload.wikimedia.org/wikipedia/commons/b/bf/Bird_Diversity_2013.png)

@@ -1,0 +1,43 @@
+{
+  "name": "deamhan aeir",
+  "fname": "deamhan-aeir.json",
+  "text": "deamhan aeir is an Irish-language name for a demon of the air. MacKillop cross-refers the term to the headword aedhir and classifies it as an Irish-tradition spirit of the upper air. The Children of Lir tale provides the named example MacKillop records: a demon of the air taunts the transformed children in that story. The MacKillop source slice preserves only a short entry for the term, so further narrative context sits in the printed dictionary under deamhan aeir and aedhir. The phrase combines deamhan, an Irish word for demon, with aeir, the genitive of aer, meaning of the air.",
+  "entities": [
+    {
+      "entity": "deamhan aeir",
+      "type": "Being"
+    },
+    {
+      "entity": "aedhir",
+      "type": "Being"
+    },
+    {
+      "entity": "Children of Lir",
+      "type": "Text"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "deamhan aeir",
+      "attribute": "Irish term for a demon of the air"
+    },
+    {
+      "entity": "deamhan aeir",
+      "attribute": "MacKillop notes that one such demon taunts the Children of Lir"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'deamhan aeir'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Identify deamhan aeir as the Irish-tradition demon of the air, cross-referred to aedhir.",
+    "key_results": [
+      "Gives the literal gloss demon of the air.",
+      "Links the term to the Children of Lir taunter example."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'deamhan aeir'."
+  }
+}

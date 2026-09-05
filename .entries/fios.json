@@ -1,0 +1,48 @@
+{
+ "name": "fios",
+ "fname": "fios.json",
+ "text": "fios is an Old Irish noun, glossed by MacKillop as ascertaining, and used in early texts as one of several terms for esoteric knowledge. The word carries a strong link to the hunter-warrior-seer Fionn mac Cumhaill, whose wisdom tradition often turns on the acquisition of hidden lore. MacKillop places fios alongside related terms for full or revealed knowledge and the enigmatic phrase teinm laída. The noun also doubles as a proper name in the pseudo-history, where one of the three druids of Partholón bears the title Fios. In Modern Irish the same word still lives on, now serving as the everyday term for second sight and otherworldly perception. The headword thus bridges early learned tradition and living folk belief, holding both a technical sense and a popular one.",
+ "entities": [
+  {
+   "entity": "fios",
+   "type": "Concept"
+  },
+  {
+   "entity": "Fionn mac Cumhaill",
+   "type": "Character"
+  },
+  {
+   "entity": "Partholón",
+   "type": "Character"
+  },
+  {
+   "entity": "druid",
+   "type": "Concept"
+  }
+ ],
+ "attributes": [
+  {
+   "entity": "fios",
+   "attribute": "Old Irish noun meaning ascertaining, used as a term for esoteric knowledge"
+  },
+  {
+   "entity": "fios",
+   "attribute": "Modern Irish equivalent denotes second sight"
+  }
+ ],
+ "sources": [
+  "MacKillop 2008, s.v. 'fios'"
+ ],
+ "image": [],
+ "cyphertext": "",
+ "salt": "",
+ "okr": {
+  "objective": "Author a brief encyclopedia article on the Old Irish term fios, covering its link to Fionn, its use as a druidic name, and its Modern Irish meaning.",
+  "key_results": [
+   "Records fios as an Old Irish term for esoteric knowledge tied to Fionn mac Cumhaill.",
+   "Notes its appearance as the name of one of Partholón's three druids.",
+   "States the Modern Irish sense of second sight."
+  ],
+  "evidence": "MacKillop 2008, s.v. 'fios'."
+ }
+}

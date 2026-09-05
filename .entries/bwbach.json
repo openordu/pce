@@ -1,0 +1,31 @@
+{
+  "name": "bwbach",
+  "fname": "bwbach.json",
+  "text": "bwbach is Welsh, glossed by MacKillop as bogy, scarecrow, or bugbear, and named in the plural as bwbachod. It names a Welsh supernatural being that can act as a household helper or a domestic troublemaker. The bwbach berates teetotallers and dissenting ministers, treating them as unwelcome guests. The same word can describe a warrior leader whose mere presence spreads terror on the march. The tradition is strongest across the three Glamorganshires of south Wales.",
+  "entities": [
+    {
+      "entity": "bwbach",
+      "type": "Being"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "bwbach",
+      "attribute": "Welsh household spirit, helpful or troublesome, who scolds teetotallers and dissenting ministers; also a term for a terror-spreading warrior leader."
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'bwbach'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Document bwbach as a Welsh household spirit with terror-leader meaning.",
+    "key_results": [
+      "Records the Welsh gloss bogy, scarecrow, bugbear and plural bwbachod.",
+      "Notes the household-help or troublemaker role and the Glamorganshire locale."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'bwbach'."
+  }
+}

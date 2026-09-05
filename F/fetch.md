@@ -2,52 +2,45 @@
 layout: layouts/pce.njk
 title: fetch
 icon: file-lines
-order: 947
+order: 1081
 contributors: [ 'Christopher Godwin' ]
 attributes:
-  - fetch distinct from Cowalker
-  - Cowalker could be a Fairy or ghost rather than an aura
+  - fetch a Scottish and Irish folk figure
+  - fetch a kind of double of a person
+  - fetch derived from Old Irish feccan
+  - fetch a morning sighting promised long life
+  - fetch a night sighting limited life to the span of a hearth turf sod
 categories:
-  - creature
-  - phenomenon
-  - ability
-  - group
+  - mythological figure
+  - person
 entities:
-  - Second Sight(ability)
-  - fetches(phenomenon)
-  - people(group)
-  - Cowalker(phenomenon)
-  - Fairy(creature)
-  - ghost(creature)
-  - aura(phenomenon)
+  - fetch(mythological figure)
+  - feac(mythological figure)
+  - Michael Traynor(person)
 tags:
-  - Second Sight
-  - fetches
-  - people
-  - Cowalker
-  - Fairy
-  - ghost
-  - aura
+  - fetch
+  - feac
+  - Michael Traynor
 ---
 ``` tab [group1:Info]
 ::: magazinestyle
-A Scottish and Irish phenomenon of folklore is the fetch (feach). It was believed that each person had their own detachable aura or shell that resembled their physical body and could wander as a spectral entity. Encountering one's fetch had varying significance; seeing oneself in the morning was an indication of forthcoming good fortune, while spotting one's own image in the evening or near a burial ground was a bad omen of death. The individuals possessing Second Sight had the ability to perceive fetches of others besides their own. It appears the fetch was separate from the Cowalker, which could either be a Fairy or ghost rather than an aura.
+The fetch, also spelled feac, is a figure of Scottish and Irish folklore. MacKillop derives the name from Old Irish feccan and calls the being a fairy doppelganger. The belief held that each person had a companion double, called the fetch. Seeing this apparition in the early morning promised the viewer a long life. Seeing it at night was fatal. The viewer would live no longer than a sod of turf kept in the fireplace. Michael Traynor noted in The English Dialect of Donegal that the word had no Irish equivalent in Irish contexts.
 
 :::
 ```
 ``` tab [group1:Attributes]
-- **fetch**: distinct from Cowalker
-- **Cowalker**: could be a Fairy or ghost rather than an aura
+- **fetch**: a Scottish and Irish folk figure
+- **fetch**: a kind of double of a person
+- **fetch**: derived from Old Irish feccan
+- **fetch**: a morning sighting promised long life
+- **fetch**: a night sighting limited life to the span of a hearth turf sod
 ```
 ``` tab [group1:Entities]
-- **Second Sight**: ability
-- **fetches**: phenomenon
-- **people**: group
-- **Cowalker**: phenomenon
-- **Fairy**: creature
-- **ghost**: creature
-- **aura**: phenomenon
+- **fetch**: mythological figure
+- **feac**: mythological figure
+- **Michael Traynor**: person
 ```
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
+- MacKillop 2008, s.v. 'fetch'
 ```

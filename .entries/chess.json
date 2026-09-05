@@ -1,0 +1,43 @@
+{
+  "name": "chess",
+  "fname": "chess.json",
+  "text": "chess is the standard English label, but applied to the early insular board-games it gives a misleading translation. The label covers a handful of distinct Irish and Welsh traditions, including fidchell, gwyddbwyll, and búanfach, each with its own rules and lore. Scholars therefore warn against treating chess as a precise term for any single one of these games.",
+  "entities": [
+    {
+      "entity": "chess",
+      "type": "Concept"
+    },
+    {
+      "entity": "fidchell",
+      "type": "Concept"
+    },
+    {
+      "entity": "gwyddbwyll",
+      "type": "Concept"
+    },
+    {
+      "entity": "búanfach",
+      "type": "Concept"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "chess",
+      "attribute": "misleading English label used for several distinct early Irish and Welsh board-games"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'chess'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Document the misleading use of chess as a label for early Celtic board-games.",
+    "key_results": [
+      "Flags chess as a misleading translation.",
+      "Names fidchell, gwyddbwyll, and búanfach as distinct games covered by the label."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'chess'."
+  }
+}

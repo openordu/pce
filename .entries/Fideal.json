@@ -1,11 +1,12 @@
 {
   "name": "Fideal",
   "sources": [
-    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.",
+    "MacKillop 2008, s.v. 'fideal'"
   ],
   "cyphertext": "HoTl22Rm6dMBa9aAFao0npw1lQjT9TeNkF5YdKsyyn5khSFLEPrBJ9aSJSCWMXB32QJJdvs0YYrewCun1Gnb_vKcFIw2Deln8tL2bP81cESTHPF6cUdTFOxTXNaWxlABfuxRlo-JQuAKP5w7S9zIG1T_3egJ38gmlXqeeQLpdOI0tfVkCbNQmoWXhqitEZEqow3m22nfpaouk2o-XdiiRAtyEId5or-TBfJK4rjCAe-nRsxDcsU=",
   "salt": "tieO8o2zBHNGMuskJzxdTw==",
-  "text": "Fideal is a figure from the folklore of Scotland. This Highland water spirit led attractive young men toward lakes and ponds, where she drowned them. She counts as a kind of Vough.",
+  "text": "Fideal is a figure from the folklore of Scotland. This Highland water spirit led attractive young men toward lakes and ponds, where she drowned them. The name echoes Scottish Gaelic words for entwining and twisting. Fideal embodies the tangled bog grasses and water weeds that haunt Loch na Fideil near Gairloch. That loch lies in the Highlands of the north-west, in the old county of Ross and Cromarty. Ross and Cromarty held that ground until 1974. MacKillop classes the creature as a subspecies of the fuath, and Monaghan counts her a kind of Vough.",
   "entities": [
     {
       "entity": "Fideal",
@@ -17,6 +18,18 @@
     },
     {
       "entity": "Vough",
+      "type": "species"
+    },
+    {
+      "entity": "Loch na Fideil",
+      "type": "place"
+    },
+    {
+      "entity": "Gairloch",
+      "type": "place"
+    },
+    {
+      "entity": "fuath",
       "type": "species"
     }
   ],
@@ -32,16 +45,29 @@
     {
       "entity": "Fideal",
       "attribute": "a species of the Vough"
+    },
+    {
+      "entity": "Fideal",
+      "attribute": "embodies entangling bog grasses and water weeds"
+    },
+    {
+      "entity": "Fideal",
+      "attribute": "haunts Loch na Fideil near Gairloch"
+    },
+    {
+      "entity": "Fideal",
+      "attribute": "a subspecies of the fuath"
     }
   ],
   "okr": {
-    "objective": "Fideal is a Scottish water siren and a species of the Vough.",
+    "objective": "Fideal is a Scottish water spirit tied to a haunted loch in the north-west Highlands.",
     "key_results": [
-      "A figure from Scottish folklore.",
-      "A Highland siren who lured handsome young men into lakes and ponds.",
-      "She drowned her victims.",
-      "Classed as a species of the Vough."
+      "Fideal led attractive young men toward lakes and ponds and drowned them.",
+      "The name echoes Scottish Gaelic words for entwining and twisting.",
+      "She embodies the bog grasses and water weeds of Loch na Fideil near Gairloch.",
+      "The loch lies in the north-west Highlands in Ross and Cromarty.",
+      "MacKillop classes her a subspecies of the fuath."
     ],
-    "evidence": "Monaghan, Encyclopedia of Celtic Mythology and Folklore"
+    "evidence": "MacKillop 2008, s.v. 'fideal'"
   }
 }

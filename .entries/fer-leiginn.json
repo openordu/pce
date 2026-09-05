@@ -1,0 +1,59 @@
+{
+ "name": "fer léiginn",
+ "fname": "fer-leiginn.json",
+ "text": "Fer léiginn is Irish for man of reading. The headword marks a twelfth-century Irish church role that gradually displaced the older Latin scriba. An idiomatic English version is master of studies. The entry notes that the 1162 rule required an Armagh degree. The same role served Gaelic Scotland. The Book of Deer is given as one witness. The MacKillop block then places short side notes on figures close to the headword. Fer Li is named as grandson of Goll mac Moma. He tried to avenge his grandfather. He only wounded Fionn mac Cumhaill and was himself killed. Fer Rogain is named as a son of Donn Désa. MacKillop lists him alongside his brothers Fer Lé and Fer Gair. He is foster-brother of Conaire. The pair appears in the tale Togail Bruidne Da Derga. He speaks with Ingcél. He reads a vision of slaughter without fully understanding it.",
+ "entities": [
+  {
+   "entity": "fer léiginn",
+   "type": "Concept"
+  },
+  {
+   "entity": "scriba",
+   "type": "Concept"
+  },
+  {
+   "entity": "Armagh",
+   "type": "Place"
+  },
+  {
+   "entity": "Book of Deer",
+   "type": "Text"
+  },
+  {
+   "entity": "Fionn mac Cumhaill",
+   "type": "Character"
+  },
+  {
+   "entity": "Goll mac Moma",
+   "type": "Character"
+  },
+  {
+   "entity": "Togail Bruidne Da Derga",
+   "type": "Text"
+  }
+ ],
+ "attributes": [
+  {
+   "entity": "fer léiginn",
+   "attribute": "Twelfth-century Irish monastic office later rendered as master of studies"
+  },
+  {
+   "entity": "fer léiginn",
+   "attribute": "Replaced the older Latin scriba and required a degree from Armagh by 1162"
+  }
+ ],
+ "sources": [
+  "MacKillop 2008, s.v. 'fer léiginn'"
+ ],
+ "image": [],
+ "cyphertext": "",
+ "salt": "",
+ "okr": {
+  "objective": "Define the Irish monastic post of fer léiginn and link its side notes.",
+  "key_results": [
+   "Records the twelfth-century origin and the 1162 Armagh-degree rule.",
+   "Points to side notes on Fer Li and Fer Rogain from the same MacKillop block."
+  ],
+  "evidence": "MacKillop 2008, s.v. 'fer léiginn'."
+ }
+}

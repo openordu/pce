@@ -1,0 +1,44 @@
+{
+  "name": "fair family",
+  "fname": "fair-family.json",
+  "text": "fair family, folk is a translation of tylwyth teg. The phrase names the Welsh fairies. Tylwyth teg is the usual Welsh term.",
+  "entities": [
+    {
+      "entity": "fair family",
+      "type": "Concept"
+    },
+    {
+      "entity": "tylwyth teg",
+      "type": "Concept"
+    },
+    {
+      "entity": "fairy",
+      "type": "Concept"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "fair family",
+      "attribute": "English translation of the Welsh tylwyth teg"
+    },
+    {
+      "entity": "fair family",
+      "attribute": "Usual Welsh name for fairies"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'fair family'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Record fair family as the English translation of the Welsh tylwyth teg.",
+    "key_results": [
+      "States the Welsh source term tylwyth teg.",
+      "Marks fair family as the standard Welsh label for fairies.",
+      "Cross-references the wider fairy entry."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'fair family'."
+  }
+}

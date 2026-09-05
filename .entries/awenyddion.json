@@ -1,0 +1,56 @@
+{
+  "name": "awenyddion",
+  "fname": "awenyddion.json",
+  "text": "awenyddion denotes the power of poetic insight in Welsh tradition. MacKillop records the alternative form awenithion and connects the word to Welsh awen, poetic or inspired utterance. Giraldus Cambrensis described the practice in the twelfth century, although he judged it little better than soothsaying. A person could receive the awenyddion gift while in an inspired sleep. During that sleep the person fell into a rapturous state and spoke aloud. The speech was hard to follow because the utterances stayed veiled, seemingly self-contradictory, and strongly figurative. The antiquarian Iolo Morganwg of the eighteenth-century revival later applied the word to a bardic pupil. Related concepts include imbas forosnai and the Welsh lore linked to such inspiration.",
+  "entities": [
+    {
+      "entity": "awenyddion",
+      "type": "Concept"
+    },
+    {
+      "entity": "awen",
+      "type": "Concept"
+    },
+    {
+      "entity": "Giraldus Cambrensis",
+      "type": "Character"
+    },
+    {
+      "entity": "Iolo Morganwg",
+      "type": "Character"
+    },
+    {
+      "entity": "imbas forosnai",
+      "type": "Concept"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "awenyddion",
+      "attribute": "Welsh power of poetic insight, from awen"
+    },
+    {
+      "entity": "awenyddion",
+      "attribute": "conferred during an inspired sleep, producing veiled and figurative speech"
+    },
+    {
+      "entity": "awenyddion",
+      "attribute": "described by Giraldus Cambrensis in the twelfth century"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'awenyddion'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Define awenyddion as the Welsh gift of poetic insight and trace its documented descriptions.",
+    "key_results": [
+      "Text presents Giraldus Cambrensis as the twelfth-century witness to the practice.",
+      "Text describes the inspired sleep, the ecstatic speech, and its veiled figurative character.",
+      "Text records the later use of the word by Iolo Morganwg for a bardic pupil."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'awenyddion'."
+  }
+}

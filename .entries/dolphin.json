@@ -1,0 +1,40 @@
+{
+  "name": "dolphin",
+  "fname": "dolphin.json",
+  "text": "The dolphin is a porpoise-like marine mammal of warm waters whose name comes from Latin and ultimately from Greek delphis. The creature turns up repeatedly in early Celtic iconography yet vanishes from later material. Sculpted and engraved dolphins appear on the Gundestrup cauldron and on Iron-Age Gaulish coins. Other pre-Christian British sites, notably Lydney Park in Gloucestershire, have also yielded dolphin imagery. Celtic-language names for the animal vary by tradition. Modern Irish calls it deilf. Scottish Gaelic uses an leumadair. Manx names it perkin. Welsh offers dolffin and morwch. Breton uses delfin.",
+  "entities": [
+    {
+      "entity": "dolphin",
+      "type": "Animal"
+    },
+    {
+      "entity": "Gundestrup cauldron",
+      "type": "Thing"
+    },
+    {
+      "entity": "Lydney Park",
+      "type": "Place"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "dolphin",
+      "attribute": "Porpoise-like warm-water mammal of early Celtic iconography"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'dolphin'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Document the dolphin as a marine mammal of early Celtic iconography and list its Celtic-language names.",
+    "key_results": [
+      "State the porpoise-like warm-water character of the mammal.",
+      "Locate early Celtic attestations at the Gundestrup cauldron, on Gaulish coins, and at Lydney Park.",
+      "Record the Celtic-language names: ModIr deilf, ScG an leumadair, Manx perkin, Welsh dolffin and morwch, Breton delfin."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'dolphin'."
+  }
+}

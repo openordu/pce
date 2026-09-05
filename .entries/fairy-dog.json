@@ -1,0 +1,52 @@
+{
+  "name": "fairy dog",
+  "fname": "fairy-dog.json",
+  "text": "fairy dog names a recurrent black hound of Celtic folklore that roams wild places. Irish tradition near Galway tells of a large unnamed hound with white rings about its neck. Related named hounds include Bran and Sceolan, Cù Sith, Cŵn Annwfn, Far Bhann, Gwyllgi, and Mauth Dooog. An unnamed black dog haunts Slieve Mish in Kerry. Brittany adds unnamed menacing black dogs at the Youdic quagmire.",
+  "entities": [
+    {
+      "entity": "fairy dog",
+      "type": "Concept"
+    },
+    {
+      "entity": "Cù Sith",
+      "type": "Being"
+    },
+    {
+      "entity": "Cŵn Annwfn",
+      "type": "Being"
+    },
+    {
+      "entity": "Gwyllgi",
+      "type": "Being"
+    },
+    {
+      "entity": "Mauth Dooog",
+      "type": "Being"
+    },
+    {
+      "entity": "Slieve Mish",
+      "type": "Place"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "fairy dog",
+      "attribute": "Generic Celtic term for a supernatural black hound haunting wild places"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'fairy dog'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "fairy dog names the family of unnamed supernatural hounds across Celtic folklore.",
+    "key_results": [
+      "Article cites the unnamed Galway hound with white neck rings.",
+      "Article lists named hounds Bran, Sceolan, Cù Sith, Cŵn Annwfn, Far Bhann, Gwyllgi, Mauth Dooog.",
+      "Article names sites Slieve Mish and the Youdic quagmire."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'fairy dog'."
+  }
+}

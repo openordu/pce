@@ -1,0 +1,38 @@
+{
+ "name": "finoderee",
+ "fname": "finoderee.json",
+ "text": "finoderee is a short MacKillop cross-reference that redirects the reader to the article fenodyree. The headword here serves only as an alternate English spelling recorded in MacKillop's dictionary, with the full record of the figure held under the canonical name fenodyree. Readers seeking lore, sources, and attributes should consult that headword directly.",
+ "entities": [
+  {
+   "entity": "finoderee",
+   "type": "Concept"
+  },
+  {
+   "entity": "fenodyree",
+   "type": "Being"
+  }
+ ],
+ "attributes": [
+  {
+   "entity": "finoderee",
+   "attribute": "MacKillop cross-reference pointing to the article fenodyree"
+  },
+  {
+   "entity": "finoderee",
+   "attribute": "Alternate anglicized spelling listed by MacKillop in the dictionary entry"
+  }
+ ],
+ "sources": [
+  "MacKillop 2008, s.v. 'finoderee'"
+ ],
+ "image": [],
+ "cyphertext": "",
+ "salt": "",
+ "okr": {
+  "objective": "Provide a signpost pointer that routes readers from finoderee to the existing article fenodyree.",
+  "key_results": [
+   "Names the canonical article fenodyree as the destination of the cross-reference."
+  ],
+  "evidence": "MacKillop 2008, s.v. 'finoderee'."
+ }
+}

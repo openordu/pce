@@ -1,0 +1,55 @@
+{
+ "name": "fferyllt",
+ "fname": "fferyllt.json",
+ "text": "Fferyllt, with feryllt as a variant spelling, is a MacKillop headword. The label means alchemist or magician in Welsh. MacKillop compares it to the Welsh fferyìl, which derives from Virgil, the Roman poet of 70 to 19 BC. Medieval Europe treated Virgil as a magical figure. The headword is often rendered in English as fairy, even though it comes from the poet's name. Ceridwen is named as one who used the books of the fferyllt. She drew on those books while preparing her cauldron of inspiration. It was from that cauldron that Gwion drank. MacKillop closes the entry with a reference to Juliette Wood, who wrote on Virgil and Taliesin. Her article covers the medieval folkloric idea of the magician.",
+ "entities": [
+  {
+   "entity": "fferyllt",
+   "type": "Concept"
+  },
+  {
+   "entity": "feryllt",
+   "type": "Concept"
+  },
+  {
+   "entity": "Virgil",
+   "type": "Character"
+  },
+  {
+   "entity": "Ceridwen",
+   "type": "Character"
+  },
+  {
+   "entity": "Gwion",
+   "type": "Character"
+  },
+  {
+   "entity": "Taliesin",
+   "type": "Character"
+  }
+ ],
+ "attributes": [
+  {
+   "entity": "fferyllt",
+   "attribute": "Welsh headword meaning alchemist or magician, often translated as fairy"
+  },
+  {
+   "entity": "fferyllt",
+   "attribute": "Derived from the medieval folkloric treatment of Virgil as a magician"
+  }
+ ],
+ "sources": [
+  "MacKillop 2008, s.v. 'fferyllt'"
+ ],
+ "image": [],
+ "cyphertext": "",
+ "salt": "",
+ "okr": {
+  "objective": "Define the Welsh headword fferyllt and link it to Ceridwen and Gwion.",
+  "key_results": [
+   "Records the Welsh meaning alchemist or magician and the Virgil derivation.",
+   "Names Ceridwen's cauldron of inspiration and Gwion's drinking from it."
+  ],
+  "evidence": "MacKillop 2008, s.v. 'fferyllt'."
+ }
+}

@@ -16,6 +16,18 @@
         {
             "entity": "Esus",
             "attribute": "continental Celtic god whose symbol was the egret"
+        },
+        {
+            "entity": "egret",
+            "attribute": "appears in Celtic iconography from the Urnfield period, around 800 BC"
+        },
+        {
+            "entity": "egret",
+            "attribute": "three symbolic egrets stood in a temple of Esus"
+        },
+        {
+            "entity": "egret",
+            "attribute": "paired with bulls and with the willow tree in art"
         }
     ],
     "entities": [
@@ -34,25 +46,34 @@
         {
             "entity": "waterbird",
             "type": "Animal"
+        },
+        {
+            "entity": "bull",
+            "type": "Animal"
+        },
+        {
+            "entity": "willow tree",
+            "type": "Thing"
         }
     ],
     "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.",
+        "MacKillop 2008, s.v. 'egret'"
     ],
     "image": [
         "https://upload.wikimedia.org/wikipedia/commons/0/06/Ardea_modesta.jpg"
     ],
     "cyphertext": "4qW6DdUDo5wAatiyCqSLlZz11gFv6yp2I4zKy4G8puZTazl29aifcK_Kt-T2-3hPFpfcvs1rUA_y4GsJw8eGcqusJmgS6LKzMg92-Jbm0PjnTImTfi7BBtCjhyzGAuO5jz2Z-Vdcl-13DGS-R-wk2X9CaoaoyAZrl-cYlNS43Uu-vQssgjenEizd3-PbsydX-Hl6PY8b81i0dBryPoBM658HwbpKxQ612eCY7zQFoAL21Qb8aZBbvwoAP85p7awelztM1a4Vh8koTIrZN-HsdQQAfnhogRmfsPx8xJRWGKmEkTjH3kGM978Nj0TW-ChpDAQM1Aae9VAF6HwT-n4lCvXXTsRojh1R7WCu0Six_4Tn_n0yWkK2FeSPpbLCwEsZXHHBI7BUSy-AAcgivTiw",
     "salt": "sx4Y2uoF96YKgdB_5bWQ7Q==",
-    "text": "The egret is a symbolic bird. Waterbirds carried religious weight for the Celts. They lived easily in the air, in water, and on land. This bird served as the emblem of Esus, a continental Celtic god. The crane kept a place in his iconography as well.",
+    "text": "The egret is a symbolic bird. Waterbirds carried religious weight for the Celts. They lived easily in the air, in water, and on land. The long-legged wading bird with long white tail feathers took a strong role in Celtic art from an early date. MacKillop dates that presence to the Urnfield period, around 800 BC, though later vernacular tales passed it by. A temple of the continental god Esus shows three egrets in symbolic poses. The egret served as his emblem. The crane kept a place in his iconography as well. From the earliest times artists paired egrets with bulls. The pairing likely reflects the habit of the living birds, which perch on the backs of cattle to eat their lice. Artists also linked the egret with the willow tree. The marsh-foraging habits of the bird fit that watery tie. Egret, bull, and willow often appear together in one scene. The egret can sometimes be confused with the crane.",
     "okr": {
         "objective": "Rewrite the thin egret entry with the source's factual claims only.",
         "key_results": [
-            "Present the egret as a symbolic waterbird",
-            "Link the egret to the god Esus",
-            "Note the crane in the same iconography",
-            "Keep the entry brief to match the thin source"
+            "Present the egret as a symbolic waterbird tied to the god Esus.",
+            "MacKillop dates the bird's iconographic role to the Urnfield period, around 800 BC.",
+            "Artists paired the egret with bulls and with the willow tree.",
+            "Three symbolic egrets stood in a temple of Esus, and the crane shares the same imagery."
         ],
-        "evidence": "Monaghan, The Encyclopedia of Celtic Mythology and Folklore, 2008, s.v. egret."
+        "evidence": "MacKillop 2008, s.v. 'egret'."
     }
 }

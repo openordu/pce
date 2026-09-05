@@ -1,0 +1,40 @@
+{
+  "name": "bridge",
+  "fname": "bridge.json",
+  "text": "bridge names the Bridge of Leaps, which Cúchulainn had to cross to reach Scáthach's realm. The bridge stood tall and thin, slick as an eel's tail, so travellers who slipped plunged to the sea-monsters beneath. Cúchulainn crossed it; on a return crossing he killed a hag who stood in his way.",
+  "entities": [
+    {
+      "entity": "bridge",
+      "type": "Thing"
+    },
+    {
+      "entity": "Cúchulainn",
+      "type": "Character"
+    },
+    {
+      "entity": "Scáthach",
+      "type": "Character"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "bridge",
+      "attribute": "Bridge of Leaps crossed by Cúchulainn on the way to Scáthach's realm"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'bridge'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Describe the Bridge of Leaps, its perils, and Cúchulainn's crossings.",
+    "key_results": [
+      "Names the Bridge of Leaps as the bridge crossed to reach Scáthach's realm.",
+      "Records Cúchulainn as the hero who crossed it.",
+      "Notes a second crossing in which he killed an opposing hag."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'bridge'."
+  }
+}
