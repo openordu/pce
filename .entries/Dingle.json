@@ -1,0 +1,34 @@
+{
+  "name": "Dingle",
+  "attributes": {
+    "category": "place",
+    "domain": "ireland",
+    "associations": ["Kerry", "Corcaguiney", "Gaeltacht", "Cú Roi", "Sliab Mis"]
+  },
+  "entities": [
+    {"name": "Dingle", "type": "Place"},
+    {"name": "Kerry", "type": "Region"},
+    {"name": "Corcu Duibne", "type": "People"},
+    {"name": "Cú Roi", "type": "Person"},
+    {"name": "Sliab Mis", "type": "Place"},
+    {"name": "Cailleach Bhéire", "type": "Person"}
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Dingle'."
+  ],
+  "cyphertext": "",
+  "salt": "",
+  "image": [],
+  "text": "Dingle, in Irish An Daingean meaning the fortress, names a peninsula in west Kerry of about a hundred square miles. The land runs from Tralee onward. It stretches to the Sliab Mis mountains and on to Ireland's westernmost tip. An older name is Corcaguiney, modern Corca Dhuibhne. It recalls the early people called the Corcu Duibne. The name Dingle also names a town of about four thousand souls facing south along the coast. Dingle Bay lies to the south of the peninsula. Dingle is held to be among the most Irish corners of Ireland. It shelters one of the last surviving Gaeltacht areas. The land bears a great scatter of early historic and megalithic remains. The warrior Cú Roi made Dingle his home. Several early Irish narratives unfold there, including Cath Fionntrágha, set at Ventry harbour. Local lore named a Witch of Dingle. She was a woman of powerful magic who shared the lineage of the Cailleach Bhéire.",
+  "okr": {
+    "objective": "Dingle as the Kerry peninsula named for An Daingean and home of Cú Roi.",
+    "key_results": [
+      "Dingle is a peninsula of about one hundred square miles in west Kerry.",
+      "Its Irish form An Daingean means the fortress.",
+      "The peninsula is also called Corcaguiney after the Corcu Duibne.",
+      "It contains a Gaeltacht area and many early historic remains.",
+      "Cú Roi made Dingle his home and many tales are set there."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Dingle'"
+  }
+}

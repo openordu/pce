@@ -1,0 +1,32 @@
+{
+  "name": "Dillus Farfog",
+  "attributes": {
+    "category": "person",
+    "domain": "wales",
+    "associations": ["Welsh giant", "Culhwch", "Twrch Trwyth", "beard hair"]
+  },
+  "entities": [
+    {"name": "Dillus Farfog", "type": "Person"},
+    {"name": "Culhwch", "type": "Person"},
+    {"name": "Twrch Trwyth", "type": "Animal"},
+    {"name": "Drudwyn", "type": "Animal"},
+    {"name": "Cei", "type": "Person"},
+    {"name": "Bedwyr", "type": "Person"}
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Dillus Farfog'."
+  ],
+  "cyphertext": "",
+  "salt": "",
+  "image": [],
+  "text": "Dillus Farfog, also called Dillus the Bearded, was a Welsh giant of legend. One of the tasks set for Culhwch in courting Olwen was to obtain hair from the beard of Dillus Farfog. The hair was needed to make a leash for the great boar Twrch Trwyth. It was also needed for the hound Drudwyn. Daunting as the task was, Culhwch accomplished it with little trouble. In a separate tradition Cei and Bedwyr also fashion a leash from the beard of Dillus Farfog. The giant's name itself means the bearded one in Welsh. See the Culhwch ac Olwen entry for the wider story.",
+  "okr": {
+    "objective": "Dillus Farfog as the Welsh giant whose beard hair served Culhwch's leash for Twrch Trwyth.",
+    "key_results": [
+      "Dillus Farfog was a Welsh giant of the Arthurian cycle.",
+      "Culhwch obtained hair from his beard for Twrch Trwyth's leash.",
+      "Cei and Bedwyr also made a leash from the same beard."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Dillus Farfog'"
+  }
+}

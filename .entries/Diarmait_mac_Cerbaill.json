@@ -1,0 +1,32 @@
+{
+  "name": "Diarmait mac Cerbaill",
+  "attributes": {
+    "category": "person",
+    "domain": "ireland",
+    "associations": ["Ui Neill", "high king", "feis Temrach", "Battle of Cul Dremne"]
+  },
+  "entities": [
+    {"name": "Diarmait mac Cerbaill", "type": "Person"},
+    {"name": "Fergus Cerrbel", "type": "Person"},
+    {"name": "Ui Neill", "type": "People"},
+    {"name": "Tara", "type": "Place"},
+    {"name": "Cul Dremne", "type": "Place"}
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Diarmait mac Cerbaill'."
+  ],
+  "cyphertext": "",
+  "salt": "",
+  "image": [],
+  "text": "Diarmait mac Cerbaill served as the high king of Ireland from about 545 to 565 or 568 AD. He led the southern Ui Neill branch. He is remembered as the closing pagan sovereign of Ireland. He was reputedly the last king to perform the pagan rite of feis Temrach. That rite was sleeping with the earth-goddess of Tara. The annals record his defeat. He fell at the Battle of Cul Dremne in 561 AD by the rival northern Ui Neill. He is better remembered for drawing down curses from holy men than for his wars. One such curse doomed Tara to lie empty until Doomsday. A fanciful St Rúadán, sometimes St Rónán, pronounced the curse. The trouble began when a retainer of Diarmait offended a cleric.",
+  "okr": {
+    "objective": "Diarmait mac Cerbaill as the last pagan high king of Ireland and last celebrant of feis Temrach.",
+    "key_results": [
+      "He reigned c.545 to 565/8 as a southern Ui Neill leader.",
+      "He was the last king to perform the pagan feis Temrach rite.",
+      "He lost the Battle of Cul Dremne in 561 AD to the northern Ui Neill.",
+      "A curse from holy men doomed Tara to desolation."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Diarmait mac Cerbaill'"
+  }
+}

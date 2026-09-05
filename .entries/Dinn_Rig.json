@@ -1,0 +1,28 @@
+{
+  "name": "Dinn Rig",
+  "attributes": {
+    "category": "place",
+    "domain": "ireland",
+    "associations": ["variant spelling", "Dind Rig", "see-ref"]
+  },
+  "entities": [
+    {"name": "Dinn Rig", "type": "Place"},
+    {"name": "Dind Rig", "type": "Place"}
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Dinn Rig'."
+  ],
+  "cyphertext": "",
+  "salt": "",
+  "image": [],
+  "text": "Dinn Rig, also spelled Dinnrigh, is treated by the dictionary as a variant spelling of Dind Rig. The form appears in Irish literature and scholarship for the royal fort on the Barrow River near Leighlinbridge. Readers looking for the political and legendary material should consult the Dind Rig entry. The fuller entry there sets out the connection to the south Leinster kings and to Orgain Denna Rig. Other variant spellings of the same place are Dinnrigh, Dinrigh, and Duma Sláinge. All forms point to the same earthworks in County Carlow.",
+  "okr": {
+    "objective": "Dinn Rig as a spelling variant of the royal fort better known as Dind Rig.",
+    "key_results": [
+      "Dinn Rig is a variant spelling of Dind Rig.",
+      "The site lies near Leighlinbridge on the Barrow River.",
+      "The fuller story sits at the Dind Rig entry."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Dinn Rig'"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "name": "Dind Rig",
+  "attributes": {
+    "category": "place",
+    "domain": "ireland",
+    "associations": ["Barrow River", "Leighlinbridge", "Leinster kings", "Fir Bolg", "Sláinge", "Orgain Denna Rig"]
+  },
+  "entities": [
+    {"name": "Dind Rig", "type": "Place"},
+    {"name": "Barrow River", "type": "Place"},
+    {"name": "Leighlinbridge", "type": "Place"},
+    {"name": "Leinster", "type": "Region"},
+    {"name": "Sláinge", "type": "Person"},
+    {"name": "Labraid Loingsech", "type": "Person"},
+    {"name": "Orgain Denna Rig", "type": "Tale"},
+    {"name": "T. F. O'Rahilly", "type": "Person"}
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Dind Rig'."
+  ],
+  "cyphertext": "",
+  "salt": "",
+  "image": [],
+  "text": "Dind Rig, also written Dinn Rig, Dinnrigh, or Dinrigh, is a place-name meaning royal fort or fortress of kings. The earthworks at the site were once a citadel. It stood west along the Barrow River near Leighlinbridge in County Carlow. T. F. O'Rahilly argued in 1946 that the same citadel could be the Dunon recorded by Ptolemy in the second century AD. Dind Rig is most often regarded as the chief stronghold from which the south Leinster kings ruled in earlier centuries. Tradition held that the Fir Bolg king Sláinge lay buried within the ramparts. The site is also known as Duma Sláinge or Sláine. A second name, Tuaim Tenba, appears in older lists of Leinster fortresses. The best-known story, Orgain Denna Rig, narrates how the high king Labraid Loingsech razed the citadel. See also the Dinn Rig and Dinrigh entries for variant spellings.",
+  "okr": {
+    "objective": "Dind Rig as the royal fort of south Leinster kings near Leighlinbridge on the Barrow.",
+    "key_results": [
+      "Dind Rig lies on the Barrow River near Leighlinbridge in County Carlow.",
+      "It served as the seat of the south Leinster kings.",
+      "O'Rahilly suggested Ptolemy's Dunon was the same place.",
+      "The Fir Bolg king Sláinge was thought buried there.",
+      "Labraid Loingsech burned it in the tale Orgain Denna Rig."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Dind Rig'"
+  }
+}

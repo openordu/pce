@@ -1,0 +1,30 @@
+{
+  "name": "Dinas Emrys",
+  "attributes": {
+    "category": "place",
+    "domain": "wales",
+    "associations": ["Ambrosius", "hill-fort", "Snowdon", "Gwynedd", "Arthurian"]
+  },
+  "entities": [
+    {"name": "Dinas Emrys", "type": "Place"},
+    {"name": "Snowdon", "type": "Place"},
+    {"name": "Gwynedd", "type": "Region"},
+    {"name": "Ambrosius", "type": "Person"}
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Dinas Emrys'."
+  ],
+  "cyphertext": "",
+  "salt": "",
+  "image": [],
+  "text": "Dinas Emrys is the Welsh name for an ancient hill-fort standing beneath the southern skirts of Mount Snowdon in Gwynedd. The Welsh form Ambrosius's fort preserves the link to the late Romano-British leader Ambrosius Aurelianus. The site carries both Arthurian and other legendary associations. Dinas Emrys stands near the modern village of Beddgelert. Folklore later placed here the boy-prophet tale of the red and white dragons. See the Ambrosius entry for the wider Romano-British setting.",
+  "okr": {
+    "objective": "Dinas Emrys as the Gwynedd hill-fort linked to Ambrosius and Arthurian tradition.",
+    "key_results": [
+      "Dinas Emrys lies on the southern flanks of Snowdon in Gwynedd.",
+      "The name means Ambrosius's fort in Welsh.",
+      "The site carries Arthurian and other legendary associations."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Dinas Emrys'"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "name": "Dinas Vawr",
+  "attributes": {
+    "category": "literature",
+    "domain": "wales",
+    "associations": ["Peacock", "The Misfortunes of Elphin", "War-Song", "comic"]
+  },
+  "entities": [
+    {"name": "Dinas Vawr", "type": "Place"},
+    {"name": "Thomas Love Peacock", "type": "Person"},
+    {"name": "The Misfortunes of Elphin", "type": "Tale"}
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Dinas Vawr'."
+  ],
+  "cyphertext": "",
+  "salt": "",
+  "image": [],
+  "text": "Dinas Vawr is an anglicized rendering of a fortress of pretended historicity. It was dreamed up by Thomas Love Peacock. Peacock coined the name for his comic novel The Misfortunes of Elphin, which appeared in 1829. Inside the novel stands a poem, The War-Song of Dinas Vawr. It celebrates Welshmen's joy in lifting sheep from neighbouring pastures. Set later to music, the piece has acquired almost the standing of a folk-song. Peacock offers no Welsh original. The implied form is dinas fawr, or mawr, meaning big fort. The spelling Dinas Vawr is therefore a literary jest rather than a real archaeological site.",
+  "okr": {
+    "objective": "Dinas Vawr as Peacock's fictitious Welsh fortress from The Misfortunes of Elphin.",
+    "key_results": [
+      "Dinas Vawr is a comic invention of Thomas Love Peacock.",
+      "It appears in the 1829 novel The Misfortunes of Elphin.",
+      "The War-Song of Dinas Vawr is a sheep-stealing set piece.",
+      "The implied Welsh form is dinas fawr or mawr, big fort."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Dinas Vawr'"
+  }
+}

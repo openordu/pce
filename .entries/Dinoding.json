@@ -1,0 +1,31 @@
+{
+  "name": "Dinoding",
+  "attributes": {
+    "category": "place",
+    "domain": "wales",
+    "associations": ["Gwynedd", "Merionethshire", "cantref", "Mabinogi"]
+  },
+  "entities": [
+    {"name": "Dinoding", "type": "Place"},
+    {"name": "Gwynedd", "type": "Region"},
+    {"name": "Merionethshire", "type": "Place"},
+    {"name": "Blodeuedd", "type": "Person"},
+    {"name": "Lleu Llaw Gyffes", "type": "Person"}
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Dinoding'."
+  ],
+  "cyphertext": "",
+  "salt": "",
+  "image": [],
+  "text": "Dinoding, also spelled Dinodig, was a former cantref of about a hundred townships in Gwynedd in north Wales. Until the 1974 local government reorganisation the territory lay within the old county of Merionethshire. Dinoding serves as a setting within the Fourth Branch of the Mabinogi. There Lleu Llaw Gyffes weds Blodeuedd and reigns as king. The cantref was a unit of medieval Welsh administration rather than a single ancient polity. The name itself combines an old Welsh element with the standard cantref suffix. See the Mabinogi entry for the wider literary setting.",
+  "okr": {
+    "objective": "Dinoding as the Gwynedd cantref of the Mabinogi where Lleu Llaw Gyffes reigned.",
+    "key_results": [
+      "Dinoding was a cantref of about one hundred townships in Gwynedd.",
+      "Until 1974 it lay within the old county of Merionethshire.",
+      "In the Mabinogi, Lleu Llaw Gyffes reigns there with Blodeuedd."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Dinoding'"
+  }
+}

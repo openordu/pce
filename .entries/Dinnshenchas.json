@@ -1,0 +1,28 @@
+{
+  "name": "Dinnshenchas",
+  "attributes": {
+    "category": "literature",
+    "domain": "ireland",
+    "associations": ["variant spelling", "Dindshenchas", "see-ref"]
+  },
+  "entities": [
+    {"name": "Dinnshenchas", "type": "Tale"},
+    {"name": "Dindshenchas", "type": "Tale"}
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Dinnshenchas'."
+  ],
+  "cyphertext": "",
+  "salt": "",
+  "image": [],
+  "text": "Dinnshenchas is treated by the dictionary as a variant spelling of the Dindshenchas. The tradition itself gathers Irish place-name lore and the verses that name a hill, a plain, or a river. Readers looking for the full body of lore should consult the Dindshenchas entry. That entry sets out the metres, the named poets, and the Christian closes that mark the corpus. The spelling with double n appears in some manuscripts of the place-name tradition. The dictionary records the form here only as a cross-reference. See also the related spelling Dindshenchas and the verse tradition gathered under The Metrical Dindshenchas.",
+  "okr": {
+    "objective": "Dinnshenchas as a variant spelling of the Dindshenchas place-name tradition.",
+    "key_results": [
+      "Dinnshenchas is a variant spelling of Dindshenchas.",
+      "It points readers to the Dindshenchas entry for the full tradition.",
+      "The form with double n appears in some manuscripts."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Dinnshenchas'"
+  }
+}

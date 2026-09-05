@@ -1,0 +1,30 @@
+{
+  "name": "Din Eidyn",
+  "attributes": {
+    "category": "place",
+    "domain": "scotland",
+    "associations": ["Gododdin", "citadel", "Edinburgh Castle Rock", "Dumbarton rock"]
+  },
+  "entities": [
+    {"name": "Din Eidyn", "type": "Place"},
+    {"name": "Gododdin", "type": "People"},
+    {"name": "Dumbarton", "type": "Place"},
+    {"name": "Edinburgh", "type": "Place"}
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Din Eidyn'."
+  ],
+  "cyphertext": "",
+  "salt": "",
+  "image": [],
+  "text": "Din Eidyn was the historical citadel of the Brittonic people called the Gododdin in what is now Scotland. Scholars compare Din Eidyn to the rock of Dumbarton as a comparable northern stronghold. The site is widely presumed to be the great Castle Rock that anchors modern Edinburgh. The Gododdin of the poem Y Gododdin took their name in turn from their fortress. Din Eidyn thus stands as a key marker of late Brittonic presence north of the old Roman frontier. See the Gododdin entry for the literary corpus.",
+  "okr": {
+    "objective": "Din Eidyn as the Brittonic citadel of the Gododdin, identified with Edinburgh's Castle Rock.",
+    "key_results": [
+      "Din Eidyn was the citadel of the Gododdin.",
+      "It is usually identified with the Castle Rock of Edinburgh.",
+      "It is comparable in status to Dumbarton rock as a Brittonic stronghold."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Din Eidyn'"
+  }
+}
