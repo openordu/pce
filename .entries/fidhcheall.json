@@ -1,0 +1,34 @@
+{
+ "name": "fidhcheall",
+ "fname": "fidhcheall.json",
+ "text": "Fidhcheall is a MacKillop cross-reference. The note directs the reader to the headword fidchell, where the full record of the chess-like strategy game sits.",
+ "entities": [
+  {
+   "entity": "fidhcheall",
+   "type": "Concept"
+  },
+  {
+   "entity": "fidchell",
+   "type": "Concept"
+  }
+ ],
+ "attributes": [
+  {
+   "entity": "fidhcheall",
+   "attribute": "MacKillop one-line see-reference that points to the headword fidchell"
+  }
+ ],
+ "sources": [
+  "MacKillop 2008, s.v. 'fidhcheall'"
+ ],
+ "image": [],
+ "cyphertext": "",
+ "salt": "",
+ "okr": {
+  "objective": "fidhcheall is a signpost pointing the reader to the article fidchell.",
+  "key_results": [
+   "Signpost cites the headword fidchell for the full record."
+  ],
+  "evidence": "MacKillop 2008, s.v. 'fidhcheall'."
+ }
+}

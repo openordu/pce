@@ -1,0 +1,48 @@
+{
+ "name": "fionn",
+ "fname": "fionn.json",
+ "text": "fionn is a Modern Irish word, also usable as a prefix, meaning fair, bright, white, lustrous, or light-hued. MacKillop's dictionary marks the word as the Modern Irish reflex of an earlier concept recorded in Old and Middle Irish under the forms find and finn. Several figures in the cycle literature bear names built from this root. They include Find, Finn, or Fionn. All of these heroes except Fionn mac Cumhaill appear in this dictionary under the older Old and Middle Irish spellings. The Modern Irish headword fionn itself functions chiefly as a colour adjective. It also serves as a pointer for any reader tracing the family of light-named champions back to their Old Irish origins. The earliest spellings preserve the same basic sense of pale brilliance that the modern word still carries.",
+ "entities": [
+  {
+   "entity": "fionn",
+   "type": "Concept"
+  },
+  {
+   "entity": "find",
+   "type": "Concept"
+  },
+  {
+   "entity": "finn",
+   "type": "Concept"
+  },
+  {
+   "entity": "Fionn mac Cumhaill",
+   "type": "Character"
+  }
+ ],
+ "attributes": [
+  {
+   "entity": "fionn",
+   "attribute": "Modern Irish word meaning fair, bright, white, lustrous, or light-hued"
+  },
+  {
+   "entity": "fionn",
+   "attribute": "Modern Irish reflex of Old Irish find and Middle Irish finn"
+  }
+ ],
+ "sources": [
+  "MacKillop 2008, s.v. 'fionn'"
+ ],
+ "image": [],
+ "cyphertext": "",
+ "salt": "",
+ "okr": {
+  "objective": "Author a brief encyclopedia article on the Modern Irish word fionn, summarising its meaning and historical spellings.",
+  "key_results": [
+   "States the meaning of the colour adjective.",
+   "Records its role as the Modern Irish form of find and finn.",
+   "Notes that most named figures appear under the older spellings, with Fionn mac Cumhaill as the single named exception."
+  ],
+  "evidence": "MacKillop 2008, s.v. 'fionn'."
+ }
+}
