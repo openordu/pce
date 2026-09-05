@@ -20,6 +20,30 @@
     {
       "entity": "Aífe",
       "attribute": "cursed the children into singing swans"
+    },
+    {
+      "entity": "Áeb",
+      "attribute": "the name derives from Old Irish oib, meaning attractiveness or beauty"
+    },
+    {
+      "entity": "Áeb",
+      "attribute": "the second of three wives of Lir and the woman who bore the four doomed Lir children"
+    },
+    {
+      "entity": "Áeb",
+      "attribute": "raised as foster-child of the magician Bodb Derg and blood-sister to Aife, the third wife"
+    },
+    {
+      "entity": "Áeb",
+      "attribute": "in some texts known as Niam or Albha"
+    },
+    {
+      "entity": "Fingula",
+      "attribute": "an anglicization of Finnguala, one of the twin daughters of Áeb, perversely substituted for Áeb in some English retellings"
+    },
+    {
+      "entity": "Oidheadh Chlainne Lir",
+      "attribute": "the full Irish title of the tale, here rendered as the sorrowful tale of the Lir children"
     }
   ],
   "entities": [
@@ -46,14 +70,39 @@
     {
       "entity": "Aífe",
       "type": "mythological figure"
+    },
+    {
+      "entity": "Oidheadh Chlainne Lir",
+      "type": "Concept"
+    },
+    {
+      "entity": "Niam",
+      "type": "Person"
+    },
+    {
+      "entity": "Albha",
+      "type": "Person"
+    },
+    {
+      "entity": "Fingula",
+      "type": "Concept"
+    },
+    {
+      "entity": "Finnguala",
+      "type": "Person"
+    },
+    {
+      "entity": "oib",
+      "type": "Concept"
     }
   ],
   "sources": [
-    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.",
+    "MacKillop 2008, s.v. 'Áeb'"
   ],
   "cyphertext": "ua_gPx0eCun3Jndv2Z1cqWGuBAw_CWee-AjIZ6deeafdsN8GHvoQmpmC-w1gHE3mMrNfI3MT1BHXghFzqzr-BT_dtTyE3ZbBIj4V3b0Dfz6uAcAfiIPzJrRTfO1eKYwouJJ2eQfyqeKn-TkbAU3pyhqBi-ECzLOVSlEZsHJ1_NE4sjkXGaHb8yw4Ckgfy5ns_YEgcn0o2R0RI4aCJMjNAAvdRdKFCmJgasFjubv7bnxuLdFuHB-OimqizE1P61ycp3-4Wla1vBOeUPiGNwqyqfQQhuC9lkY9zNYTKVA_N155-ly97moNWaecGnEbAvhacwxXp0nwlh60MsrfXSap7SIroLPxRNMl4nzJ_Mo-BVjIfv6SrrJl30bGesECsAlBsLuIFRM0jlTmElVuqNxQ50uuVqYueUk4bByiSPHj7QjRwW7MKg40MQ2txE392Ocaqn4qK2mvQq4DgxSpdRT7lkV5JvEtZSGD7IDAMyiaBoDbloKHyYt-eXNm2o1EoRIJfWl40P-npBiacElNSyy5YYPvEFT-8dh5JwY6B_RSAmL-3dNMo60MZcWJKxvC2CbgD1wYZ7epqePs575PQmJV0rYlSifjcPt1gpeTHfPTTTGFZ_qPEQvIhhAo6wdc4LBQLlh3rZCaVTNvjneX2jB9aTBXfzqOEYtvTdWXazzzb_hlWAt_zOp5NGpcgnoPzGjflrFgixfvNU6OK5FBmW-wPyhpe7LOT8jfxDQIGRmimcPzh3sbwst4bKpJO_6kfh0t7ZLIEQ==",
   "salt": "W93CvvrgJSSlXid0Kf9FTg==",
-  "text": "Áeb, also written Aebh or Aobh, was a heroine of Irish legend. The tale of the Children of Lir names her as the mother who bore the doomed children. She was the daughter of the magician Bodb Derg. Her life ended as she brought her second pair of twins into the world. Her only daughter, Fionnuala, then stepped into her place. Fionnuala became the hero of the tale after the children lost their mother. The death of Áeb carried her childless foster-sister, Aífe, into Lir's household. Aífe worked a curse that changed the children into singing swans. ",
+  "text": "Áeb, also written Aebh or Aobh, was a heroine of Irish legend. The name comes from Old Irish oib, which means attractiveness or beauty. The tale of the Children of Lir names her as the mother who bore the doomed children. She stood as the second of three wives of the high king Lir. She was born the daughter of the magician Bodb Derg and grew up as his foster-daughter. She was also a blood-sister of the third wife, Aife. Some texts give her the alternate names Niam or Albha. Her life ended as she brought her second pair of twins into the world. Her only daughter, Fionnuala, then stepped into her place. Fionnuala became the hero of the tale after the children lost their mother. The death of Áeb carried her childless foster-sister Aife into the household of Lir. Aife worked a curse that changed the children into singing swans. The full Irish title of the story is Oidheadh Chlainne Lir, the sorrowful tale of the Lir children. In some English retellings the name Fingula takes the place of Áeb. That name is an anglicization of Finnguala, who was one of the twin daughters of Áeb. The swap puts a daughter where the mother belongs and reads as a perverse choice.",
   "objective": "To record who Áeb was and how her death set in motion the tragedy of the Children of Lir.",
   "key_results": [
     "Áeb was the daughter of the magician Bodb Derg.",
@@ -64,13 +113,15 @@
   ],
   "evidence": "In the story of the Children of Lir, Áeb is the birth mother of the fated children, and her death brought her childless fostersister Aífe into Lir's household.",
   "okr": {
-    "objective": "Áeb is the Irish heroine whose death set the tragedy of the Children of Lir in motion.",
+    "objective": "Record Áeb as the Irish heroine whose death set the Lir swan-tragedy in motion and add the etymological and onomastic facts the article supplies.",
     "key_results": [
-      "Áeb is the birth mother of the Children of Lir.",
-      "She is the daughter of the magician Bodb Derg.",
-      "She died bringing forth her second pair of twins.",
-      "Aífe cursed the children into singing swans."
+      "Records Áeb as the second of three wives of Lir and as the woman who bore the four doomed Lir children",
+      "Names Old Irish oib as the root of the name and translates it as attractiveness or beauty",
+      "Marks Áeb as foster-child of Bodb Derg and blood-sister to the third wife Aife",
+      "Lists Niam and Albha as alternative names in some texts",
+      "Notes that Fingula, an anglicization of Finnguala, is perversely substituted for Áeb in some English retellings",
+      "Gives the full Irish title Oidheadh Chlainne Lir as the sorrowful tale of the Lir children"
     ],
-    "evidence": "Monaghan, Encyclopedia of Celtic Mythology and Folklore"
+    "evidence": "MacKillop 2008, s.v. 'Áeb'"
   }
 }
