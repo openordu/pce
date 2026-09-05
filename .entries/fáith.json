@@ -1,0 +1,47 @@
+{
+  "name": "fáith",
+  "text": "fáith is the Old and Middle Irish word for seer or prophet, covering both male and female examples. Scáthach, the warrior woman who trained Cúchulainn, is conventionally described as a ban-fháith, a woman seer. MacKillop treats fáith as the probable Irish cognate of the Latin vates that classical commentators used. The Welsh cognates gweledydd and gwawd stand beside it. Modern Irish uses the form fáidh for the same office.",
+  "entities": [
+    {
+      "entity": "fáith",
+      "type": "Concept"
+    },
+    {
+      "entity": "Scáthach",
+      "type": "Person"
+    },
+    {
+      "entity": "Cúchulainn",
+      "type": "Person"
+    },
+    {
+      "entity": "vates",
+      "type": "Concept"
+    },
+    {
+      "entity": "fáidh",
+      "type": "Concept"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "fáith",
+      "attribute": "Old and Middle Irish word for seer or prophet"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'fáith'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "fáith is a headword in MacKillop's Dictionary of Celtic Mythology.",
+    "key_results": [
+      "Scáthach is the documented ban-fháith, woman seer.",
+      "Irish cognate of Latin vates; Welsh cognates gweledydd and gwawd.",
+      "Modern Irish form is fáidh."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'fáith'."
+  }
+}

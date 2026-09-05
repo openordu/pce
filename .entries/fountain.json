@@ -1,0 +1,51 @@
+{
+  "name": "fountain",
+  "text": "fountain is a MacKillop headword gathering sacred and literary springs in Celtic tradition. Cormac mac Airt travels to the Fountain of Knowledge that lies inside Tir Taimgire, the Land of Promise. The Lady of the Fountain stands as a separate headword, spelled owain in MacKillop. The Fountain of Baranton in the forest of Brocéliande completes the record. MacKillop places the three traditions side by side under the single headword fountain in the 2008 dictionary.",
+  "entities": [
+    {
+      "entity": "fountain",
+      "type": "Concept"
+    },
+    {
+      "entity": "Cormac mac Airt",
+      "type": "Person"
+    },
+    {
+      "entity": "Tir Taimgire",
+      "type": "Place"
+    },
+    {
+      "entity": "Owain",
+      "type": "Person"
+    },
+    {
+      "entity": "Fountain of Baranton",
+      "type": "Place"
+    },
+    {
+      "entity": "Brocéliande",
+      "type": "Place"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "fountain",
+      "attribute": "Sacred and literary springs in Celtic tradition"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'fountain'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "fountain is a headword in MacKillop's Dictionary of Celtic Mythology.",
+    "key_results": [
+      "Cormac mac Airt visits the Fountain of Knowledge inside Tir Taimgire.",
+      "Lady of the Fountain is the separate headword Owain.",
+      "Fountain of Baranton belongs to the Breton Brocéliande cycle."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'fountain'."
+  }
+}
