@@ -20,6 +20,18 @@
     {
       "entity": "garter snake",
       "attribute": "mating habit mirrors the stone’s formation tale"
+    },
+    {
+      "entity": "druid’s glass",
+      "attribute": "fired the wider Celtic imagination as a fortress and tower material"
+    },
+    {
+      "entity": "Glastonbury",
+      "attribute": "called Ynys Wydrin, Ynys Gutrin, or Ynys Witrin in Welsh, meaning glass island"
+    },
+    {
+      "entity": "druid’s glass",
+      "attribute": "named glaine in Old Irish, gloine in Modern Irish, glaine in Scottish Gaelic, giess in Manx, gwydr in Welsh, gweder in Cornish, gwer in Breton"
     }
   ],
   "entities": [
@@ -50,24 +62,66 @@
     {
       "entity": "garter snake",
       "type": "Being"
+    },
+    {
+      "entity": "Caer Wydyr",
+      "type": "Place"
+    },
+    {
+      "entity": "Conand’s Tower",
+      "type": "Place"
+    },
+    {
+      "entity": "Tory Island",
+      "type": "Place"
+    },
+    {
+      "entity": "Donegal",
+      "type": "Place"
+    },
+    {
+      "entity": "Bran",
+      "type": "Person"
+    },
+    {
+      "entity": "Saint Brendan",
+      "type": "Person"
+    },
+    {
+      "entity": "Máel Dún",
+      "type": "Person"
+    },
+    {
+      "entity": "Merlin",
+      "type": "Person"
+    },
+    {
+      "entity": "Glastonbury",
+      "type": "Place"
+    },
+    {
+      "entity": "Fomorian",
+      "type": "Tribe"
+    },
+    {
+      "entity": "Otherworld",
+      "type": "Concept"
     }
   ],
   "sources": [
-    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.",
+    "MacKillop 2008, s.v. 'glass'"
   ],
   "cyphertext": "pqSH6vagyDe7Q5x8z_UXCu1VVdUbFYbV7koApYxvIVRSuj6vMhxB6bMKOwO0GqKLNwFLzVrVqD32p9CeYSnT",
   "salt": "icwLfV3sBpy--HtT5GGWmA==",
-  "text": "The serpent stone is a small round piece of glass. The druids used it for divination and healing. Romans called it druid’s glass or ovum anguinum. Pliny wrote that a Vocontian warrior carried one. Emperor Claudius had that warrior executed because Rome feared the stone. Serpents formed the stone in summer at a certain moon phase. They writhed together and secreted a liquid ball into the air. The garter snake shows similar mating behavior. The stone healed bewitchment. A glass of water held the stone after dipping. The cure served sufferers of many kinds. Folklore treasured the stone as medicine long after the druids faded.",
+  "text": "The serpent stone, also called druid’s glass or ovum anguinum, is a small round piece of glass. The druids used it for divination and healing. Pliny recorded that a Vocontian warrior carried one of these stones. Emperor Claudius ordered that warrior executed because Rome feared the stone’s power. Folk belief held that serpents formed the stone in summer at a fixed phase of the moon. The reptiles writhed together and secreted a liquid ball that hardened in the air. The garter snake shows similar mating behavior, which gave the tale its shape. Dipped into a glass of water, the stone healed bewitchment. Folk belief kept it as medicine for many other ailments long after the druids faded. The word glass itself fired the wider Celtic imagination beyond the druids’ charm. Welsh legend named a Caer Wydyr, a shining fortress that stood for a glimpse of the Otherworld. Conand’s Tower on Tory Island off County Donegal, the Fomorian stronghold, was built of the same clear substance. Irish sea tales sent Bran, Saint Brendan, and Máel Dún past shining spires of glass on their voyages. Merlin put to sea in a vessel made of that same brittle material. Welsh speakers once gave Glastonbury three names meaning glass island. Those names were Ynys Wydrin, Ynys Gutrin, and Ynys Witrin. The English place-name does not translate them. The Celtic word family for the material begins with Old Irish glaine. It runs through Modern Irish gloine, Scottish Gaelic glaine, and Manx giess. Welsh uses gwydr, Cornish gweder, and Breton gwer.",
   "okr": {
-    "objective": "Rewrite the druid’s glass entry in CSG-SME1000 prose with source-accurate nouns.",
+    "objective": "Fuse the serpent stone lore with MacKillop’s broader Celtic glass tradition into one entry on druid’s glass.",
     "key_results": [
-      "Meets CSG-SME1000 sentence rules",
-      "All required nouns present",
-      "110-140 words",
-      "No prose fragments"
+      "Carry the serpent stone, ovum anguinum, Pliny, Claudius, and garter snake anchors from baseline",
+      "Add the Caer Wydyr, Conand’s Tower, Bran, Brendan, Máel Dún, Merlin, and Glastonbury names from MacKillop",
+      "Record the Old Irish glaine through Breton gwer word family for glass"
     ],
-    "evidence": [
-      "monaghan.txt:35084-35121 serpent stone (serpent’s egg, druid’s glass...)"
-    ]
+    "evidence": "MacKillop 2008, s.v. 'glass'."
   }
 }

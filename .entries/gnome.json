@@ -12,6 +12,22 @@
         {
             "entity": "gnome",
             "attribute": "not a Celtic creature and carries no folk legends"
+        },
+        {
+            "entity": "gnome",
+            "attribute": "coined as a concept by Paracelsus in the sixteenth century"
+        },
+        {
+            "entity": "gnome",
+            "attribute": "framed as a fabled race of treasure-guarding dwarfs"
+        },
+        {
+            "entity": "gnome",
+            "attribute": "carries international folk motif number F456"
+        },
+        {
+            "entity": "gnome",
+            "attribute": "parallels the Cornish knocker and the Breton goric"
         }
     ],
     "entities": [
@@ -30,24 +46,37 @@
         {
             "entity": "dwarf",
             "type": "Being"
+        },
+        {
+            "entity": "Paracelsus",
+            "type": "Person"
+        },
+        {
+            "entity": "gnomus",
+            "type": "Concept"
+        },
+        {
+            "entity": "goric",
+            "type": "Being"
         }
     ],
     "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.",
+        "MacKillop 2008, s.v. 'gnome'"
     ],
     "image": [
         "https://upload.wikimedia.org/wikipedia/commons/3/31/Heinrich_Schlitt_Gnom_mit_Zeitung_und_Tabakspfeife.jpg"
     ],
     "cyphertext": "8vQK_Quas1N3mDImEkt621Ya3Apfe36gfMt0YJjxvV0pRx8hbnSmAOprBPNpDHnIrHZNYs_FbG2q07Vtnu_PJ32AHqbYkhq2AZ6mlLf-exPMurIiC0PDKlD-Vl_6nCUYBgUiouXbWwN-okfEXgSDB7NYJ1nMaXhCWJJbfIjskkrCVNP3b0ST9Pwf-LIA4IVLba8eiU5Sl9Ng2JKmXtYd0Hmsg4zNLNKj52fJIjK9tFHm6g0G1eBkl2CVD4GWIjHoqYdQV0i6iOMlf094Ja7TkRMhzMIfvj_EGQmy6E2-7PhHi0RmNHwEJv9Awqnn9FwhixRNFn29rHKQ-W2yt1Yd176ENjO_RkmxxA-tgp_Y83wSkx-ou_NZ1tOvgE7_vWWgM3qny-zqvlUIdF2M6lMQvdToxyYkB4sRpHnsiDRn7kGlm7bgHQ4pFtIx3TFa3oKzR09Xi-_JW2lGJsoYPDfxr3lQvd36vujLj_WCEk-9GIYACptJSNp3ZBMCyTk-jzIqhbqs15VNWZO5zatva47A_VmipkP_xoN_9zuopwRvv2idnb4hf49NZ9ofG3886zrROHOc3syTPCgeb91nNdyQ1HQtQwFxaaKPmMF3Z9cyLymxzsyxttznEFLhNocOY4FOx70-26A8kyTk2C_SQ7kRedzwyIZqM1vxrvX-IlZG7Bd4bSNHhReaBWd2fDdqXb9BZvlJDQjoV65UoMYsJYjxQtO2vlcZMsC08wiA2AXa24-1XW7L6lDNU-CQXmVV1Sr85VdQzG_eaTl2ZXNFDfyNxl-3jTeE7UaGy8pWi2mo7D_av22-20lwALv7RIhkpkO6KHPKgrRfu8EeCuabpkJtAprvWuzHR2Vn0duST078",
     "salt": "xKiC_-4EMusSeylnHEhxmQ==",
-    "text": "The gnome is not a Celtic creature. It entered Celtic lands from medieval science and alchemy. Thinkers gave each element a being. Salamanders meant fire. Nereids meant water. Sylphs meant air. Gnomes meant earth. People thought gnomes lived under the ground and worked as miners. The word may come from genomus, which means earth-dweller. Gnomes have no folk legends. People confuse them with fairies and knockers. The dwarfs of Sleeping Beauty are a version of the gnome.",
+    "text": "The gnome is not a native Celtic creature. It entered the Celtic world from medieval science and alchemy. Thinkers mapped a being onto each element. Salamanders stood for fire. Nereids stood for water. Sylphs stood for air. Gnomes stood for earth. People imagined gnomes living underground and working as miners. The Latin name gnomus may give the word its root. Scholars trace the idea to Paracelsus, the sixteenth-century alchemist. He framed the gnome as a fabled race of treasure-guarding dwarfs. The role gave it the folkloric task of hoarding riches under the earth. Celtic tradition offers few true parallels. The knocker of Cornwall and the goric of Brittany come closest. Folklorists catalogue the figure under international motif F456. People still confuse gnomes with fairies and with knockers. The dwarfs of Sleeping Beauty carry a softer version of the gnome.",
     "okr": {
-        "objective": "Frame the gnome as a medieval alchemy being distinct from native Celtic creatures.",
+        "objective": "Frame the gnome as a Paracelsan invention of medieval alchemy that barely entered Celtic tradition.",
         "key_results": [
-            "The gnome came from medieval science and alchemy, not Celtic tradition.",
-            "Gnomes stood for the earth element among the four elements.",
-            "The word may derive from genomus, meaning earth-dweller."
+            "Paracelsus coined the gnome as a treasure-guarding dwarf of the sixteenth century.",
+            "The Latin term gnomus anchors the name, and the figure covers international motif F456.",
+            "Celtic parallels are limited to the Cornish knocker and the Breton goric."
         ],
-        "evidence": "Monaghan 2008, s.v. 'gnome'."
+        "evidence": "MacKillop 2008, s.v. 'gnome'."
     }
 }

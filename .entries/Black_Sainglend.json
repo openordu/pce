@@ -3,7 +3,7 @@
   "image": [],
   "cyphertext": "",
   "salt": "",
-  "text": "Black Sainglend is an alternate name for the horse Saingliu. Saingliu is also called Dubh Sainglenn. He was one of the two favourite mounts of the Ulster hero Cuchulainn. The other was Liath Macha. Both horses were seen as magical. They rose from a grey lake near Slieve Fuad. The hero tamed each by leaping onto its back. After a day of riding around the full circuit of Ireland they grew gentle. A reader who meets the shorter form Black Sainglend should turn to the Saingliu entry. There the horse and its bond with Cuchulainn are told in full.",
+  "text": "Black Sainglend is an alternate name for the horse Saingliu, also written Dubh Sainglenn. Saingliu served the Ulster hero Cuchulainn as one of his two favourite mounts. The other was Liath Macha, and folk tradition treated both horses as magical. They rose from a grey lake near Slieve Fuad before the hero caught them. Cuchulainn tamed each by leaping onto its back. He then rode the beast a full circuit of Ireland in a single day. After that ride the horse grew gentle and would serve him in battle. A reader who meets the shorter form Black Sainglend should turn to the fuller Saingliu entry. The MacKillop dictionary gives the wider word family behind the name. The headword glen comes from Old Irish glenn and Modern Irish gleann. Scottish Gaelic records both gleam and glenn for the same valley word. The form is a Celtic loanword. It prefixes dozens of place-names across Ireland and Scotland. The Welsh cousin of the word is glyn.",
   "entities": [
     {
       "entity": "Black Sainglend",
@@ -24,6 +24,14 @@
     {
       "entity": "Ireland",
       "type": "Place"
+    },
+    {
+      "entity": "Slieve Fuad",
+      "type": "Place"
+    },
+    {
+      "entity": "Scottish Gaelic",
+      "type": "Concept"
     }
   ],
   "attributes": [
@@ -42,16 +50,28 @@
     {
       "entity": "Black Sainglend",
       "attribute": "a cross-reference directing the reader to the Saingliu entry"
+    },
+    {
+      "entity": "Black Sainglend",
+      "attribute": "carries the glen word family in its second element"
+    },
+    {
+      "entity": "glen",
+      "attribute": "Celtic loanword prefixing dozens of Irish and Scottish place-names, with Welsh cognate glyn"
+    },
+    {
+      "entity": "glen",
+      "attribute": "runs from Old Irish glenn and Modern Irish gleann to Scottish Gaelic gleam and glenn"
     }
   ],
   "okr": {
-    "objective": "Provide a short cross-reference telling that Black Sainglend points to Saingliu.",
+    "objective": "Keep Black Sainglend as a cross-reference to Saingliu and add the glen word family behind the name.",
     "key_results": [
-      "Black Sainglend is an alternate name of the horse Saingliu.",
-      "Saingliu was one of Cuchulainn's two magical mounts.",
-      "Black Sainglend directs the reader to the fuller Saingliu entry."
+      "Keep the Saingliu, Cuchulainn, Liath Macha, and Slieve Fuad anchors from baseline",
+      "Add the Old Irish glenn, Modern Irish gleann, Scottish Gaelic gleam and glenn forms from MacKillop",
+      "Note the wider Celtic loanword role of glen in Irish and Scottish place-names"
     ],
-    "evidence": "MacKillop 2008, s.v. 'Black Sainglend'."
+    "evidence": "MacKillop 2008, s.v. 'glen'."
   },
   "sources": [
     "MacKillop 2008, s.v. 'Black Sainglend'."
