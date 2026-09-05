@@ -1,0 +1,33 @@
+{
+  "name": "Úna",
+  "text": "Úna, also rendered Oonagh or Oona, is in MacKillop's Dictionary of Celtic Mythology the wife of Finnbheara, king of the Irish fairies, with the pet-form Nuala carried in some folk tellings. MacKillop frames her as the most beautiful woman of the whole tradition, the long hair sweeping the ground a recurring tag. She bears seventeen sons to Finnbheara. Some versions of the lore give Úna a residence of her own at Cnoc Sídh Úna [Knockshegouna] in County Tipperary, separate from the king's hall at the heart of the síth. Folklorists number her under motif F252.2, the stock fairy-queen type. MacKillop treats Úna as the central female figure of Finnbheara's household, around whom the household's emotional and dynastic life turns.",
+  "entities": [
+    {"entity": "Finnbheara", "type": "Person"},
+    {"entity": "Cnoc Sídh Úna", "type": "Place"},
+    {"entity": "Tipperary", "type": "Place"}
+  ],
+  "attributes": [
+    {"entity": "Úna", "attribute": "wife of Finnbheara, king of the Irish fairies"},
+    {"entity": "Úna", "attribute": "alternate forms Oonagh, Oona, and the pet-form Nuala"},
+    {"entity": "Úna", "attribute": "named as the most beautiful of all women"},
+    {"entity": "Úna", "attribute": "long hair sweeping the ground, a recurring tag"},
+    {"entity": "Úna", "attribute": "bears seventeen sons"},
+    {"entity": "Úna", "attribute": "separate residence at Cnoc Sídh Úna in Tipperary"},
+    {"entity": "Úna", "attribute": "numbered under folk motif F252.2"}
+  ],
+  "sources": ["MacKillop 2008, s.v. 'Úna'"],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Úna is the wife of Finnbheara in MacKillop's 2008 Dictionary, central fairy queen of the Irish síth.",
+    "key_results": [
+      "wife of Finnbheara, king of the Irish fairies",
+      "alternate forms Oonagh, Oona, Nuala",
+      "named as the most beautiful of all women",
+      "bears seventeen sons",
+      "separate residence at Cnoc Sídh Úna in Tipperary"
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Úna'."
+  }
+}

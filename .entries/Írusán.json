@@ -1,0 +1,32 @@
+{
+  "name": "Írusán",
+  "text": "Írusán, in MacKillop's Dictionary of Celtic Mythology, is the King of the Cats of Irish memory, a felid the size of an ox with a throne in the cat-realm. The founding story opens when Senchán, Ireland's chief poet, lifts his satire against the cat kind. Írusán emerges from a cave at Knowth, hoists Senchán across his back, and bounds off with the poet. The route passes Clonmacnoise, where Saint Ciarán strikes the cat dead with a red-hot poker, sparing the poet. MacKillop treats Írusán as a single-character article that holds the poet-cat conflict together as one of the bardic tradition's small cautionary tableaux, a figure of retribution against a poet who had overstepped.",
+  "entities": [
+    {"entity": "Senchán Torpéist", "type": "Person"},
+    {"entity": "Knowth", "type": "Place"},
+    {"entity": "Clonmacnoise", "type": "Place"},
+    {"entity": "Ciarán", "type": "Person"}
+  ],
+  "attributes": [
+    {"entity": "Írusán", "attribute": "King of the Cats in MacKillop's 2008 Dictionary"},
+    {"entity": "Írusán", "attribute": "cat of oxen stature"},
+    {"entity": "Írusán", "attribute": "dwells in a cave at Knowth"},
+    {"entity": "Írusán", "attribute": "binds Senchán Torpéist on his back after the satire"},
+    {"entity": "Írusán", "attribute": "killed at Clonmacnoise by Saint Ciarán's red-hot poker"},
+    {"entity": "Írusán", "attribute": "treated as a single-character article in MacKillop"}
+  ],
+  "sources": ["MacKillop 2008, s.v. 'Írusán'"],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Írusán is the King of the Cats in MacKillop's 2008 Dictionary, struck down at Clonmacnoise by Saint Ciarán.",
+    "key_results": [
+      "King of the Cats in Irish tradition",
+      "cat of oxen stature",
+      "dwells in a cave at Knowth",
+      "kills by Saint Ciarán's red-hot poker at Clonmacnoise"
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Írusán'."
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "name": "Óengus",
+  "text": "Óengus, with Oenghus as an alternate spelling, is the preferred Irish form of the name rendered in English as Angus, MacKillop notes. The dictionary treats the Irish-language spelling as a cross-reference to the longer article, rather than as an independent entry with its own narrative. No separate myth, genealogy, or episode attaches to the spelling itself; it functions as a typographical signpost pointing readers to the parent Angus article where the full mythology is set out, including the cycles of Angus Óg and the Brug na Bóinne tradition.",
+  "entities": [
+    {"entity": "Angus", "type": "Person"},
+    {"entity": "Angus Óg", "type": "Person"}
+  ],
+  "attributes": [
+    {"entity": "Óengus", "attribute": "preferred Irish form of Angus in MacKillop's 2008 Dictionary"},
+    {"entity": "Óengus", "attribute": "alternate spelling Oenghus"},
+    {"entity": "Óengus", "attribute": "no independent narrative in the dictionary"},
+    {"entity": "Óengus", "attribute": "functions as a typographical cross-reference to the parent Angus entry"}
+  ],
+  "sources": ["MacKillop 2008, s.v. 'Óengus'"],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Óengus is the preferred Irish form of Angus recorded by MacKillop in 2008.",
+    "key_results": [
+      "preferred Irish form of Angus",
+      "alternate spelling Oenghus",
+      "no independent narrative in the dictionary",
+      "functions as a cross-reference to the parent Angus entry"
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Óengus'."
+  }
+}
