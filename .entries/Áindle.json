@@ -1,0 +1,42 @@
+{
+  "name": "Áindle",
+  "text": "Áindle is the Old Irish spelling of Ainnle, one of the trio of sons of Uisnech in the longes tradition. MacKillop reads the form as the early Irish variant of the headword. The principal record sits under the Ainnle headword.",
+  "entities": [
+    {
+      "entity": "Áindle",
+      "type": "Person"
+    },
+    {
+      "entity": "Ainnle",
+      "type": "Person"
+    },
+    {
+      "entity": "Uisnech",
+      "type": "Person"
+    },
+    {
+      "entity": "Old Irish",
+      "type": "Language"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Áindle",
+      "attribute": "Old Irish spelling of Ainnle; pointer to Ainnle headword"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Áindle'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Áindle is a MacKillop signpost to Ainnle.",
+    "key_results": [
+      "Cites Ainnle as the canonical headword.",
+      "Old Irish spelling of the name."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Áindle'."
+  }
+}

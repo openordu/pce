@@ -1,0 +1,33 @@
+{
+  "name": "woman",
+  "text": "woman is a MacKillop cross-reference pointing to the canonical female warriors and champions headword. MacKillop reads the form as a directional pointer to the survey of heroic women in Celtic tradition. The principal record sits under female warriors and champions.",
+  "entities": [
+    {
+      "entity": "woman",
+      "type": "Concept"
+    },
+    {
+      "entity": "female warriors and champions",
+      "type": "Concept"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "woman",
+      "attribute": "MacKillop cross-ref to the female warriors and champions survey"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'woman'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "woman is a MacKillop signpost to female warriors and champions.",
+    "key_results": [
+      "Cites female warriors and champions as the canonical headword."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'woman'."
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "name": "Áed mac Fidga",
+  "text": "Áed mac Fidga is another name for Goll mac Moma, the Connacht warrior. MacKillop reads the form as an alternative patronymic for the famous Ulster-cycle hero. The principal record sits under Goll mac Moma.",
+  "entities": [
+    {
+      "entity": "Áed mac Fidga",
+      "type": "Person"
+    },
+    {
+      "entity": "Goll mac Moma",
+      "type": "Person"
+    },
+    {
+      "entity": "Cúldub",
+      "type": "Person"
+    }
+  ],
+  "attributes": [
+    {
+      "entity": "Áed mac Fidga",
+      "attribute": "Alternative name for Goll mac Moma; pointer to Goll mac Moma headword"
+    }
+  ],
+  "sources": [
+    "MacKillop 2008, s.v. 'Áed mac Fidga'"
+  ],
+  "image": [],
+  "cyphertext": "",
+  "salt": "",
+  "okr": {
+    "objective": "Áed mac Fidga is a MacKillop signpost to Goll mac Moma.",
+    "key_results": [
+      "Cites Goll mac Moma as the canonical headword.",
+      "Alternative patronymic for the Connacht warrior."
+    ],
+    "evidence": "MacKillop 2008, s.v. 'Áed mac Fidga'."
+  }
+}
