@@ -2,71 +2,126 @@
 layout: layouts/pce.njk
 title: dog
 icon: file-lines
-order: 700
+order: 812
 contributors: [ 'Christopher Godwin' ]
 attributes:
-  - dogs supernatural powers
-  - dogs ability to see ghosts
-  - moon supernatural powers
-  - witches visibility only to people with Second Sight
-  - persons visibility only to people with Second Sight
+  - dog appears as the animal form of a goddess
+  - dog appears as a companion to male heroes
+  - dog associated with the Otherworld
+  - Nehalennia shown with a small lapdog gazing up from her feet
+  - dog symbolized fertility and abundance
+  - Sirona healing goddess accompanied by a dog
+  - dog on the Gundestrup Cauldron connected with death
+  - Black Dog warned of death and war
+  - Cú Síth had a dark green coat and moved soundlessly
+  - Cú Síth barked three times then devoured anyone near
+  - Cúchulainn name starts with the word for hound, cú
+  - Adhnúall, Bran, and Sceolan were hunting dogs of Fionn mac Cumhaill
+  - Lí Ban was turned into a mermaid with her pet dog
+  - dog carries healing, hunting, and death associations inherited from Mediterranean religion
+  - Cunobelinus name means hound of Belinus
+  - Nodens cult tied to the Romano-British temple at Lydney Park on the Severn
 categories:
-  - Location
-  - Ability
-  - Supernatural Being
-  - Attribute
-  - State of Being
-  - Animal
-  - Person
+  - Welsh hero
+  - goddess
+  - Irish god
+  - temple site
+  - Irish folkloric figure
+  - healing goddess
+  - Irish hero
+  - Irish goddess
+  - folkloric figure
+  - artifact
+  - Briton leader
+  - Irish smith
+  - symbolic animal
 entities:
-  - Scotland(Location)
-  - dogs(Animal)
-  - supernatural powers(Attribute)
-  - human keepers(Person)
-  - fairy powers(Supernatural Being)
-  - ghosts(Supernatural Being)
-  - dead(State of Being)
-  - witches(Person)
-  - persons(Person)
-  - Second Sight(Ability)
+  - dog(symbolic animal)
+  - Nehalennia(goddess)
+  - Sirona(healing goddess)
+  - Gundestrup Cauldron(artifact)
+  - Black Dog(folkloric figure)
+  - Cú Síth(folkloric figure)
+  - Bóand(Irish goddess)
+  - Lí Ban(Irish folkloric figure)
+  - Cúchulainn(Irish hero)
+  - Cú Roí(Irish hero)
+  - Fionn mac Cumhaill(Irish hero)
+  - Kulhwch(Welsh hero)
+  - Lugh(Irish god)
+  - banshee(folkloric figure)
+  - Cunobelinus(Briton leader)
+  - Culann(Irish smith)
+  - Lydney Park(temple site)
 tags:
-  - Scotland
-  - dogs
-  - supernatural powers
-  - human keepers
-  - fairy powers
-  - ghosts
-  - dead
-  - witches
-  - persons
-  - Second Sight
+  - dog
+  - Nehalennia
+  - Sirona
+  - Gundestrup Cauldron
+  - Black Dog
+  - Cú Síth
+  - Bóand
+  - Lí Ban
+  - Cúchulainn
+  - Cú Roí
+  - Fionn mac Cumhaill
+  - Kulhwch
+  - Lugh
+  - banshee
+  - Cunobelinus
+  - Culann
+  - Lydney Park
 ---
 ``` tab [group1:Info]
 ::: magazinestyle
-The Celtic lands are rich in mythology and folklore, and dogs appear prominently in both. Dogs are symbolic animals and are often depicted in various forms. They are the animal form of a divinity, usually a goddess, or a companion to heroes, typically male. They are also associated with the Otherworld as spirit beings. In Celtic lands, it seems that dogs were connected with religion for a very long time, as remains of dog bones found at early sites suggest that they were killed sacrificially. Even today, many people in ancient Celtic lands feel disgusted by the thought of eating dog meat, which may be a memory of a taboo against consuming sacrificial victims.
+The dog is a symbolic animal in Celtic mythology. MacKillop traces its many roles across thirty centuries of Celtic imagination. Dogs appear often in the myths and folklore of Celtic lands. Some appear as the animal form of a goddess. Others serve male heroes as companions. Still others are spirit-beings tied to the Otherworld. The link between dogs and religion may be very old. Bone remains at early sites suggest dogs were killed sacrificially. Dog bones also surface in ancient holy wells. Many Celtic peoples still dislike eating dog meat. This disgust may recall an old taboo against eating sacrificial flesh. MacKillop reads healing, hunting, and death as three dog associations the Celts drew from Mediterranean religion.
 
-The dog symbolizes fertility and abundance and has connections to ancient healing practices. For instance, goddess Nehalennia was always portrayed with a small lapdog reverently gazing up from beside her feet, and fruit and eggs would often appear on the same altars. The dog may have been perceived as a healer due to their tendency to lick their wounds until they heal. This belief led to the mistaken notion in Celtic countries that dogs can heal human wounds through licking. Furthermore, it's possible that the representation of healing goddesses with dogs originates from the period when Celtic lands were occupied by the legions of imperial Rome. The presence of dogs in Celtic mythology is not always tied to their ability to provide healing to humans. A dog is depicted as accompanying a massive goddess on the Gundestrup Cauldron, which was found in Denmark but apparently depicts Celtic myth and ritual. This dog seems to be connected with death, just like the folkloric Black Dog. However, death in the Celtic worldview is followed by rebirth, so the dog images found in graves may have symbolized the promise of future life. Additionally, dog and corn are portrayed together on statues of the goddess, which implies that the Celts associated the death of the seed with new growth, and both with the dog as a healer and psychopomp, or leader of the souls of the newly dead. There are also stories of Irish goddesses, such as Bóand and Lí Ban, who are connected to the Otherworld through their pet dogs. Several gods are associated with dogs, especially Nodens. However, in most cases, dogs are linked to heroic warriors. The Irish word for "hound," cú, is the first syllable in the name of great heroic figures like Cúchulainn and Cú Roí. Just as goddesses had lapdogs, heroes had hunting hounds, many of whose names come down to us in legend, like Adhnúall, Bran, and Sceolan, dogs of Fionn Mac Cumhaill, or Drudwyn, the hunting dog of the hero Kulhwch. These dogs seem to have served just as a way to emphasize their owners' masculinity and rarely had personalities of their own, with the exception of Fionn's Bran. Their hunting practices made them participants in the life-and-death cycle by providing sustenance for humans, but also involved the death of birds and other animals. These hunting dogs could be associated with the companions of goddesses due to this embodiment of life and death. Another canine figure, the Fairy dog or Black Dog, was a mysterious and intimidating presence that straddled the line between life and death. This creature, with its burning eyes and terrifying howl, was spotted in Germany, Britain, and Ireland, and was said to warn of death and war. In Ireland, such dogs were connected with the Banshee, or fairy woman who warned of impending death. If dogs howled near the home of a sick person, it was believed to be a bad omen that predicted death. Additionally, the first note of the traditional Irish funeral dirge was said to resemble the howling of the Black Dog. The Cú Síth, or fairy dog, was distinct from the Black Dog in that its coat was a dark green color. It moved without making a sound, always in a straight line, which set it apart from other hunting dogs that followed scent trails in circles. The Cú Síth could bark, but only three times, and on the third bark it would leap forward and devour anyone in the vicinity. According to legend, survivors of these attacks were able to extract a tooth from the Cú Síth. This tooth then acted as an oracle until its owner emigrated to Canada, where it may still be located. Dogs in Scotland were believed to possess supernatural abilities, even if they were not otherworldly creatures. When they barked at the moon or growled for no apparent reason, it was thought that they were warning their human caretakers about the presence of fairies or supernatural forces. Dogs were also thought to possess the ability to see ghosts, witches, and other ethereal beings which were invisible to humans who lacked the gift of Second Sight.
+The goddess Nehalennia appears with a small lapdog at her feet. Fruit and eggs on her altars link the dog to fertility and abundance. MacKillop takes her constant canine escort as a sign of healing. The healing goddess Sirona also appears with a dog. Dogs lick their wounds until they heal. Their saliva closes the sore. This may be why Celtic people believed dogs could heal human wounds through licking.
+
+Not all dogs are healers. The dog on the Gundestrup Cauldron seems tied to death. So does the folkloric Black Dog. MacKillop grounds the death link in the carrion instinct of dogs. Goethe's Faust of 1808 gives a black dog the same grim role. In the Celtic view death led to rebirth. So dog images in graves may promise future life. Dogs and corn appear together on statues. The pairing links seed death to new growth. The goddess Bóand drowned with her lapdog Dabilla. Lí Ban became a mermaid with her pet dog. MacKillop counts the dog and the horse as the favored domestic animals among Celtic fairies.
+
+The hero-warrior link is strong. The word cú, or hound, opens the names Cúchulainn and Cú Roí. MacKillop renders Cúchulainn as the hound of Culann. English keeps the hunting sense in the word hound. In the Celtic languages the hunting role turns heroic. Cunobelinus, a British leader before the Claudian invasion, bore a name meaning hound of Belinus. Heroes kept famous hunting hounds. Adhnúall, Bran, and Sceolan served Fionn mac Cumhaill. The Welsh Drudwyn served the hero Kulhwch. Failinis was the hound of the god Lugh. Several gods were tied to dogs, notably Nodens. MacKillop ties his cult to Lydney Park on the Severn, site of a Romano-British temple. Their hunting embodied the life-and-death cycle. MacKillop finds no sign of a Celtic dog-deity. A wolf-deity may have existed. No dog counterpart did. Most story dogs stay flat figures with little individual character.
+
+The Black Dog was an apparition with burning eyes and a terrible howl. It warned of death and of war across Ireland, Britain, and Germany. Irish belief tied such dogs to the banshee. Folk belief read the howl of a dog near a sick person as a death omen. The Cú Síth, or fairy dog, had a dark green coat. It moved soundlessly in a straight line. It could bark loudly, but only three times. On the third bark it devoured anyone near.
 
 :::
 ```
 ``` tab [group1:Attributes]
-- **dogs**: supernatural powers
-- **dogs**: ability to see ghosts
-- **moon**: supernatural powers
-- **witches**: visibility only to people with Second Sight
-- **persons**: visibility only to people with Second Sight
+- **dog**: appears as the animal form of a goddess
+- **dog**: appears as a companion to male heroes
+- **dog**: associated with the Otherworld
+- **Nehalennia**: shown with a small lapdog gazing up from her feet
+- **dog**: symbolized fertility and abundance
+- **Sirona**: healing goddess accompanied by a dog
+- **dog on the Gundestrup Cauldron**: connected with death
+- **Black Dog**: warned of death and war
+- **Cú Síth**: had a dark green coat and moved soundlessly
+- **Cú Síth**: barked three times then devoured anyone near
+- **Cúchulainn**: name starts with the word for hound, cú
+- **Adhnúall, Bran, and Sceolan**: were hunting dogs of Fionn mac Cumhaill
+- **Lí Ban**: was turned into a mermaid with her pet dog
+- **dog**: carries healing, hunting, and death associations inherited from Mediterranean religion
+- **Cunobelinus**: name means hound of Belinus
+- **Nodens**: cult tied to the Romano-British temple at Lydney Park on the Severn
 ```
 ``` tab [group1:Entities]
-- **Scotland**: Location
-- **dogs**: Animal
-- **supernatural powers**: Attribute
-- **human keepers**: Person
-- **fairy powers**: Supernatural Being
-- **ghosts**: Supernatural Being
-- **dead**: State of Being
-- **witches**: Person
-- **persons**: Person
-- **Second Sight**: Ability
+- **dog**: symbolic animal
+- **Nehalennia**: goddess
+- **Sirona**: healing goddess
+- **Gundestrup Cauldron**: artifact
+- **Black Dog**: folkloric figure
+- **Cú Síth**: folkloric figure
+- **Bóand**: Irish goddess
+- **Lí Ban**: Irish folkloric figure
+- **Cúchulainn**: Irish hero
+- **Cú Roí**: Irish hero
+- **Fionn mac Cumhaill**: Irish hero
+- **Kulhwch**: Welsh hero
+- **Lugh**: Irish god
+- **banshee**: folkloric figure
+- **Cunobelinus**: Briton leader
+- **Culann**: Irish smith
+- **Lydney Park**: temple site
 ```
 ``` tab [group1:Sources]
 - Campbell, John Grigorson. Witchcraft and Second Sight in the Highlands and Islands of Scotland. Detroid: Singing Tree Press, 1970, 163.
@@ -74,4 +129,5 @@ The dog symbolizes fertility and abundance and has connections to ancient healin
 - MacGregor, Alasdair Alpin. The Peat-Fire Flame: Folk-Tales and Traditions of the Highlands & Islands. Edinburgh: The Moray Press, 1937, 37+.
 - Whitlock, Ralph. The Folklore of Wiltshire. London: B. T. Batsford, Ltd., 1976, 129.
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
+- MacKillop 2008, s.v. 'dog'
 ```

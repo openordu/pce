@@ -2,39 +2,68 @@
 layout: layouts/pce.njk
 title: cluricaune
 icon: file-lines
-order: 485
+order: 557
 contributors: [ 'Christopher Godwin' ]
 attributes:
-  - cluricaune would not vacate the premises
-  - family packed up and moved
-  - annoying helper made his way to their new home
+  - cluricaune lounges and dresses with care
+  - cluricaune steals bottles of wine
+  - cluricaune hard to drive from a home
+  - Little Wildbeam helped a Quaker family in Cork
+  - cluricaune one of the three Irish solitary fairies
+  - cluricaune carries the shilling fortune, a purse that runs with silver
+  - cluricaune matches the buttery spirit of European folklore, motif F473.6.3
 categories:
-  - group of people
-  - mythical creature
+  - character
+  - mythological creature
+  - place
+  - location
 entities:
-  - cluricaune(mythical creature)
-  - family(group of people)
+  - cluricaune(mythological creature)
+  - leprechaun(mythological creature)
+  - solitary fairy(mythological creature)
+  - wine cellar(place)
+  - Little Wildbeam(character)
+  - Co. Cork(location)
+  - far darrig(mythological creature)
+  - buttery spirit(mythological creature)
 tags:
   - cluricaune
-  - family
+  - leprechaun
+  - solitary fairy
+  - wine cellar
+  - Little Wildbeam
+  - Co. Cork
+  - far darrig
+  - buttery spirit
 ---
 ``` tab [group1:Info]
 ::: magazinestyle
-A being of Irish and Scottish mythology, the cluricaune (also spelled cluricane or cluracan) was quite unlike its fellow fairy, the Leprechaun. Unlike the hardworking Leprechaun, this Solitary Fairy preferred to laze about and flaunt its fancy attire, which included a flashy cap with golden lace, silver-buckled shoes, and a red suit (a typical color for Solitary Fairies, unlike Trooping Fairies who wore green). Fond of alcohol, the cluricaune would sneak into cellars and help itself to bottles, especially those belonging to alcoholics. It was incredibly difficult to remove, as it could easily travel inside a cask if the owner tried to move it. The name cluricaune was used primarily in Co. Cork, while in Co. Kerry, the fairy was known as the Luricaune, and in Tipperary and Ulster, it was called the Lugirgadaune and Loghery Man, respectively. One particular cluricaune, named Little Wildbeam, inhabited a Quaker family in Cork and proved to be most helpful when a servant left a bit of beer dripping from the cask; the fairy would shrink and wedge itself into the spigot to prevent any loss. However, if it was not fed well, the cluricaune would emerge at night and beat the maids senseless. This behavior eventually became too much for the family, who decided to move. To their surprise, when they unpacked at their new home, they found that the cluricaune had followed them there and had no intention of leaving.
+The cluricaune is a Scottish and Irish household sprite. In Irish his names were cluracan, durachan, and clutharachan. Of the three Irish solitary fairies, one is this sprite. A second fellow is the leprechaun, and a third goes by the name far darrig. Commentators have worked to mark him off from the better-known leprechaun. In his Dublin dictionary of 1927, Dinneen calls him a dwarfish sprite. He is usually a withered little man, with a stronger pink tinge on his nose. Red, the color of the Solitary Fairy, clothed him more often than green. Unlike the busy leprechaun, this solitary fairy liked to lounge and to dress with care. He showed no desire for work of any kind. He wore silver-buckled shoes, a cap with golden lace, and blue silk stockings under his breeches. Fond of strong drink, he stole into wine cellars to lift bottles. In that habit he matched the buttery spirit of European folklore, folk motif F473.6.3. Like the leprechaun he knew where gold lay hidden. He could also carry the shilling fortune, a purse that ran with silver. Householders found him hard to expel, for he rode away inside a cask. Folk in Co. Cork used this name, while nearby areas gave him other names. One such being, Little Wildbeam, helped a Quaker family in Cork by saving every drop of beer from a cask.
 
 :::
 ```
 ``` tab [group1:Attributes]
-- **cluricaune**: would not vacate the premises
-- **family**: packed up and moved
-- **annoying helper**: made his way to their new home
+- **cluricaune**: lounges and dresses with care
+- **cluricaune**: steals bottles of wine
+- **cluricaune**: hard to drive from a home
+- **Little Wildbeam**: helped a Quaker family in Cork
+- **cluricaune**: one of the three Irish solitary fairies
+- **cluricaune**: carries the shilling fortune, a purse that runs with silver
+- **cluricaune**: matches the buttery spirit of European folklore, motif F473.6.3
 ```
 ``` tab [group1:Entities]
-- **cluricaune**: mythical creature
-- **family**: group of people
+- **cluricaune**: mythological creature
+- **leprechaun**: mythological creature
+- **solitary fairy**: mythological creature
+- **wine cellar**: place
+- **Little Wildbeam**: character
+- **Co. Cork**: location
+- **far darrig**: mythological creature
+- **buttery spirit**: mythological creature
 ```
 ``` tab [group1:Sources]
 - Croker, T. Crofton. Fairy Legends and Traditions of the South of Ireland. London: William Tegg, 1862, 73.
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
+- MacKillop 2008, s.v. 'cluricaune'
 ```
 ![cluricaune Image](https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Four_Provinces_Flag.svg/1200px-Four_Provinces_Flag.svg.png)

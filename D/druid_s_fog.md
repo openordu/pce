@@ -2,39 +2,54 @@
 layout: layouts/pce.njk
 title: druid’s fog
 icon: file-lines
-order: 725
+order: 4349
 contributors: [ 'Christopher Godwin' ]
 attributes:
-  - St. Patrick believed to have made himself invisible to the eyes of those who would harm him
-  - St. Patrick's Breastplate famous poem
-  - St. Patrick's Breastplate he and a companion passed by dangerous druids
-  - dangerous druids saw only a fawn and a deer
+  - druid's fog mist that lets a druid pass unseen
+  - féth fiada other name for the druid's fog
+  - Tuatha Dé Danann received the fog after losing Ireland to the Milesians
+  - Milesians people who defeated the Tuatha Dé Danann
+  - St. Patrick hid with a fawn and a deer in the poem
+  - druid's fog MacKillop entry is a one-line cross-reference to féth fiada
 categories:
-  - WorkOfArt
+  - Concept
   - Person
+  - Group
 entities:
+  - druid's fog(Concept)
+  - féth fiada(Concept)
   - St. Patrick(Person)
-  - St. Patrick's Breastplate(WorkOfArt)
+  - Tuatha Dé Danann(Group)
+  - Milesians(Group)
 tags:
+  - druid's fog
+  - féth fiada
   - St. Patrick
-  - St. Patrick's Breastplate
+  - Tuatha Dé Danann
+  - Milesians
 ---
 ``` tab [group1:Info]
 ::: magazinestyle
-The féth fiada or ceó druídecta, known as the druid’s fog, is considered a symbol of the abilities held by Druids. They were believed to be capable of enveloping themselves in a misty shroud and moving past both their friends and enemies undetected. This phenomenon may be likened to Shape-Shifting because a druid could become a veil of mist, an animal or even a bird. Possession of the magical fog was a quality the Druids shared with gods and Fairies; the Tuatha Dé Danann were bestowed this fog by Druids as recompense after losing Ireland to the Milesians. It was also said that St. Patrick had the power to become invisible to those who threatened him. In the well-known “St. Patrick’s Breastplate” poem, he and a companion walked by dangerous druids unnoticed, appearing only as a fawn and a deer.
+Some druids held a concealment power called druid’s fog. A druid wrapped himself in mist and walked past watching enemies unseen. Irish tradition calls the same power the féth fiada. MacKillop prints druid’s fog as a one-line cross-reference and sends readers to the féth fiada entry. The printed article adds no detail beyond that pointer. The gift could turn its bearer into a veil of mist, much as a shape-shifter takes an animal body. Druids, gods, and a saint all drew on the same mist. Tradition says the Tuatha Dé Danann kept the fog as their consolation when the Milesians won Ireland. St. Patrick also trusted this gift. In the poem St. Patrick’s Breastplate, he and a companion passed dangerous druids. Those druids saw only a fawn and a deer.
 
 :::
 ```
 ``` tab [group1:Attributes]
-- **St. Patrick**: believed to have made himself invisible to the eyes of those who would harm him
-- **St. Patrick's Breastplate**: famous poem
-- **St. Patrick's Breastplate**: he and a companion passed by dangerous druids
-- **dangerous druids**: saw only a fawn and a deer
+- **druid's fog**: mist that lets a druid pass unseen
+- **féth fiada**: other name for the druid's fog
+- **Tuatha Dé Danann**: received the fog after losing Ireland to the Milesians
+- **Milesians**: people who defeated the Tuatha Dé Danann
+- **St. Patrick**: hid with a fawn and a deer in the poem
+- **druid's fog**: MacKillop entry is a one-line cross-reference to féth fiada
 ```
 ``` tab [group1:Entities]
+- **druid's fog**: Concept
+- **féth fiada**: Concept
 - **St. Patrick**: Person
-- **St. Patrick's Breastplate**: WorkOfArt
+- **Tuatha Dé Danann**: Group
+- **Milesians**: Group
 ```
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
+- MacKillop 2008, s.v. 'druid's fog'
 ```

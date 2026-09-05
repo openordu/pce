@@ -2,41 +2,47 @@
 layout: layouts/pce.njk
 title: fairy mist
 icon: file-lines
-order: 898
+order: 4387
 contributors: [ 'Christopher Godwin' ]
 attributes:
   - fairy mist Irish folkloric motif
-  - Druid's Fog hid people from sight
-  - fairy mist appeared suddenly and without warning
-  - fairy mist especially dangerous at night or on bogs and similar wild places
-  - fairy mist an Omen of impending death
+  - fairy mist rose suddenly and without warning
+  - fairy mist dangerous at night or on bogs
+  - fairy mist omen of death in some legends
+  - fairy mist Irish name ceo sidhe
+  - fairy mist led travellers off their path
 categories:
-  - legend
-  - folkloric motif
+  - place
+  - concept
 entities:
-  - fairy mist(folkloric motif)
-  - Druid's Fog(legend)
+  - fairy mist(concept)
+  - Druid's Fog(concept)
+  - bog(place)
 tags:
   - fairy mist
   - Druid's Fog
+  - bog
 ---
 ``` tab [group1:Info]
 ::: magazinestyle
-A well-known motif in Irish folklore is the fairy mist, which resembles the Druid's Fog that provided individuals with camouflage. The fairy mist emerged without warning, particularly at night or in desolate locations such as bogs, and was regarded as particularly perilous. According to certain myths, being encircled by this mist foreshadowed death.
+Fairy mist is an Irish folkloric motif. MacKillop records the Irish name as ceo sidhe. The fairy mist leads travellers off their path. Like the Druid fog, it hid people from sight. It rose suddenly and without warning. It proved most deadly after dark or across bogs and open wild ground. Some legends claim that to be surrounded by the fairy mist foretold death.
 
 :::
 ```
 ``` tab [group1:Attributes]
 - **fairy mist**: Irish folkloric motif
-- **Druid's Fog**: hid people from sight
-- **fairy mist**: appeared suddenly and without warning
-- **fairy mist**: especially dangerous at night or on bogs and similar wild places
-- **fairy mist**: an Omen of impending death
+- **fairy mist**: rose suddenly and without warning
+- **fairy mist**: dangerous at night or on bogs
+- **fairy mist**: omen of death in some legends
+- **fairy mist**: Irish name ceo sidhe
+- **fairy mist**: led travellers off their path
 ```
 ``` tab [group1:Entities]
-- **fairy mist**: folkloric motif
-- **Druid's Fog**: legend
+- **fairy mist**: concept
+- **Druid's Fog**: concept
+- **bog**: place
 ```
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
+- MacKillop 2008, s.v. 'fairy mist'
 ```

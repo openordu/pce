@@ -2,64 +2,90 @@
 layout: layouts/pce.njk
 title: bear
 icon: file-lines
-order: 208
+order: 219
 contributors: [ 'Christopher Godwin' ]
 attributes:
-  - Celtic bear goddess Artio sculpture found in the city of Berne
-  - parallel bear god named Artaios referred to as Mercury by the Romans
-  - Andarta obscure Gaulish goddess with a possible meaning of 'great bear'
-  - Arthur mythological figure with an ursine name
-  - Cormac Mac Airt mythological figure with an ursine name
+  - bear dim-sighted but sharp-eared, with great speed and strength
+  - bear thought of as nearly human because a skinned bear looks like a human
+  - Artio Celtic bear goddess honored with a sculpture at Berne
+  - Berne a city whose name means the bear
+  - bear honored by all early people who met it
+  - Artio also worshipped as Andarta at Berne in Switzerland
+  - Matus bear divinity venerated at Risingham, also called Matunus
+  - bear ranked with the boar among the fiercest native beasts of northern Europe
 categories:
-  - Location
-  - Bear god
-  - Mythological figure
-  - Gaulish goddess
-  - Roman god
-  - Celtic bear goddess
+  - Animal
+  - Person
+  - Place
+  - Deity
+  - Concept
+  - Being
+  - Group
 entities:
-  - Swiss sites(Location)
-  - Berne(Location)
-  - Artio(Celtic bear goddess)
-  - Artaios(Bear god)
-  - Mercury(Roman god)
-  - Andarta(Gaulish goddess)
-  - Arthur(Mythological figure)
-  - Cormac Mac Airt(Mythological figure)
+  - bear(Animal)
+  - Artio(Deity)
+  - Berne(Place)
+  - Celts(Group)
+  - Andarta(Being)
+  - Matus(Being)
+  - Matunus(Being)
+  - Risingham(Place)
+  - Hadrian's Wall(Place)
+  - Switzerland(Place)
+  - Art(Person)
+  - Arthur(Person)
+  - Ursidae(Concept)
+  - boar(Being)
 tags:
-  - Swiss sites
-  - Berne
+  - bear
   - Artio
-  - Artaios
-  - Mercury
+  - Berne
+  - Celts
   - Andarta
+  - Matus
+  - Matunus
+  - Risingham
+  - Hadrian's Wall
+  - Switzerland
+  - Art
   - Arthur
-  - Cormac Mac Airt
+  - Ursidae
+  - boar
 ---
 ``` tab [group1:Info]
 ::: magazinestyle
-The bear is a symbolic animal that was revered by early people for its strength, impressive speed, and climbing ability despite being dim-sighted. The bear was imagined as almost human, possibly due to its resemblance to a skinned person and its ability to walk upright like a man. The region where the Celts originated, which is mountainous central Europe, was an ideal habitat for bears, which may have contributed to their significance in Celtic mythology. Before the emergence of the Celts, evidence suggests that there was a bear cult in Alpine caves, which probably influenced the Celtic belief in the bear's divine nature. The bear's importance is also evident in Swiss sites, particularly in the city of Berne, whose name means "bear," where the Celtic bear goddess Artio's sculpture was discovered. A bear god named Artaios, who the Romans called Mercury, existed alongside the goddess. In addition, the name of Andarta, a goddess with Gaulish origins, may mean "great bear." Finally, Arthur and Cormac Mac Airt are other mythological figures with ursine names.
+The bear is a symbolic animal of great strength. It sees poorly, hears with sharp ears, runs fast, and climbs well. Early people feared and respected it. The bear can stand and walk like a man. A skinned bear resembles the carcass of a human, so people thought of it as nearly human. Bears of several species, the family Ursidae, lived across western and northern Europe into modern times. The bear ranked with the boar among the fiercest native beasts a person could meet. Bears appear on Gaulish coins and on statuettes. The Celts arose in the mountains of central Europe, which was prime bear country. Caves in the Alps preserve traces of an old bear cult. That worship may have shaped the Celtic view of the bear. The bear-goddess Artio, also called Andarta, received veneration at Berne in Switzerland, a city whose name means the bear. A sculpture there shows her. People honored Matus, also called Matunus, a bear divinity of Risingham north of Hadrian's Wall. Welsh and Irish genealogies often cite names drawn from native words for the bear. The Welsh word is arth or arthen. It matches Breton arzh and produced the Gaelic personal name Art, and perhaps Arthur. The Old Irish word for bear is math. Irish later forms are mathgamain and mathghamhainn, and Scots Gaelic has math-ghamhainn.
 
 :::
 ```
 ``` tab [group1:Attributes]
-- **Celtic bear goddess Artio**: sculpture found in the city of Berne
-- **parallel bear god named Artaios**: referred to as Mercury by the Romans
-- **Andarta**: obscure Gaulish goddess with a possible meaning of 'great bear'
-- **Arthur**: mythological figure with an ursine name
-- **Cormac Mac Airt**: mythological figure with an ursine name
+- **bear**: dim-sighted but sharp-eared, with great speed and strength
+- **bear**: thought of as nearly human because a skinned bear looks like a human
+- **Artio**: Celtic bear goddess honored with a sculpture at Berne
+- **Berne**: a city whose name means the bear
+- **bear**: honored by all early people who met it
+- **Artio**: also worshipped as Andarta at Berne in Switzerland
+- **Matus**: bear divinity venerated at Risingham, also called Matunus
+- **bear**: ranked with the boar among the fiercest native beasts of northern Europe
 ```
 ``` tab [group1:Entities]
-- **Swiss sites**: Location
-- **Berne**: Location
-- **Artio**: Celtic bear goddess
-- **Artaios**: Bear god
-- **Mercury**: Roman god
-- **Andarta**: Gaulish goddess
-- **Arthur**: Mythological figure
-- **Cormac Mac Airt**: Mythological figure
+- **bear**: Animal
+- **Artio**: Deity
+- **Berne**: Place
+- **Celts**: Group
+- **Andarta**: Being
+- **Matus**: Being
+- **Matunus**: Being
+- **Risingham**: Place
+- **Hadrian's Wall**: Place
+- **Switzerland**: Place
+- **Art**: Person
+- **Arthur**: Person
+- **Ursidae**: Concept
+- **boar**: Being
 ```
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
+- MacKillop 2008, s.v. 'bear'
 ```
 ![bear Image](https://upload.wikimedia.org/wikipedia/commons/9/9e/Ours_brun_parcanimalierpyrenees_1.jpg)

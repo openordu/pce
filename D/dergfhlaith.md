@@ -2,59 +2,84 @@
 layout: layouts/pce.njk
 title: dergfhlaith
 icon: file-lines
-order: 663
+order: 774
 contributors: [ 'Christopher Godwin' ]
 attributes:
-  - red ale associated with Medb
-  - red ale associated with goddesses of the land
-  - Medb humanized into great queen of Connacht
-  - Ériu goddess of the land
-  - Flaith goddess of the land
+  - dergfhlaith means the dark-red ale of sovereignty
+  - dergfhlaith offered to the king by the earth goddess at inauguration
+  - dergfhlaith binds the king to the land with sacred vows
+  - dergfhlaith linked to Medb, Ériu, and Flaith
+  - geis sacred vows and responsibilities specific to the king's region
+  - buada requirements of generosity and nobility for Irish kings
+  - dergfhlaith MacKillop renders the name as red sovereignty and reads it as a pun on flaith meaning sovereignty and laith meaning ale
+  - dergfhlaith In the dream of Conn Cétchathach, Sovereignty gave him the red ale instead of union with him, and his descendants kept drinking of it
 categories:
-  - alcoholic beverage
-  - concept
-  - region
-  - goddess
-  - title
+  - Place
+  - Goddess
+  - Concept
+  - Artifact
+  - Person
 entities:
-  - red ale(alcoholic beverage)
-  - Medb(goddess)
-  - sovereignty(concept)
-  - queen(title)
-  - Connacht(region)
-  - Ériu(goddess)
-  - Flaith(goddess)
+  - dergfhlaith(Artifact)
+  - derg(Concept)
+  - flaith(Concept)
+  - laith(Concept)
+  - earth goddess(Goddess)
+  - Medb(Goddess)
+  - Ériu(Goddess)
+  - Flaith(Goddess)
+  - Connacht(Place)
+  - geis(Concept)
+  - buada(Concept)
+  - Conn Cétchathach(Person)
+  - Sovereignty(Goddess)
 tags:
-  - red ale
+  - dergfhlaith
+  - derg
+  - flaith
+  - laith
+  - earth goddess
   - Medb
-  - sovereignty
-  - queen
-  - Connacht
   - Ériu
   - Flaith
+  - Connacht
+  - geis
+  - buada
+  - Conn Cétchathach
+  - Sovereignty
 ---
 ``` tab [group1:Info]
 ::: magazinestyle
-Dergfhlaith is an Irish ceremonial drink which derives its name by combining the words for dark red, sovereignty and ale. It is referred to as “the dark-red ale of sovereignty” and is given to the king by the earth goddess to confirm their union. Although the Irish Inauguration custom is believed to have continental Celtic origins, there is a disagreement among scholars regarding its evolution from the integration of Celtic intruders with an earlier, goddess-oriented culture. The red ale's acceptance unites the king with the land, establishing a bond of sacred vows and regional responsibilities (see Geis and Buada) in addition to the generosity and nobility expected of all Irish sovereigns. Myths link the red ale explicitly to Medb, the goddess of sovereignty who became the queen of Connacht; it is also connected to other goddesses of the land including Ériu and Flaith.
+dergfhlaith is an Irish ritual drink. The name means 'the dark-red ale of sovereignty.' Derg means dark red. Flaith means sovereignty. Laith means ale. MacKillop gives the sense as red sovereignty and reads the word as a pun on flaith and laith. The drink sealed the union of the king and the earth goddess. The earth goddess offered it to the king at his inauguration. The custom had Continental Celtic antecedents. Scholars disagreed about its origin. It may have evolved when Celtic invaders met an older goddess-centered culture. The red ale bound the king to the land. It placed sacred vows and responsibilities on him. These were the geis and buada specific to his region. They also demanded the generosity and nobility required of all Irish kings. Some myths connect the ale to Medb. Medb was the goddess of sovereignty humanized into the great queen of Connacht. The ale is also associated with the land goddesses Ériu and Flaith. The story of Conn Cétchathach pictures the drink directly. Conn dreamed that Sovereignty handed him the red ale instead of taking him to her bed. He and his descendants kept drinking of it after that gift.
 
 :::
 ```
 ``` tab [group1:Attributes]
-- **red ale**: associated with Medb
-- **red ale**: associated with goddesses of the land
-- **Medb**: humanized into great queen of Connacht
-- **Ériu**: goddess of the land
-- **Flaith**: goddess of the land
+- **dergfhlaith**: means the dark-red ale of sovereignty
+- **dergfhlaith**: offered to the king by the earth goddess at inauguration
+- **dergfhlaith**: binds the king to the land with sacred vows
+- **dergfhlaith**: linked to Medb, Ériu, and Flaith
+- **geis**: sacred vows and responsibilities specific to the king's region
+- **buada**: requirements of generosity and nobility for Irish kings
+- **dergfhlaith**: MacKillop renders the name as red sovereignty and reads it as a pun on flaith meaning sovereignty and laith meaning ale
+- **dergfhlaith**: In the dream of Conn Cétchathach, Sovereignty gave him the red ale instead of union with him, and his descendants kept drinking of it
 ```
 ``` tab [group1:Entities]
-- **red ale**: alcoholic beverage
-- **Medb**: goddess
-- **sovereignty**: concept
-- **queen**: title
-- **Connacht**: region
-- **Ériu**: goddess
-- **Flaith**: goddess
+- **dergfhlaith**: Artifact
+- **derg**: Concept
+- **flaith**: Concept
+- **laith**: Concept
+- **earth goddess**: Goddess
+- **Medb**: Goddess
+- **Ériu**: Goddess
+- **Flaith**: Goddess
+- **Connacht**: Place
+- **geis**: Concept
+- **buada**: Concept
+- **Conn Cétchathach**: Person
+- **Sovereignty**: Goddess
 ```
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
+- MacKillop 2008, s.v. 'dergfhlaith'
 ```

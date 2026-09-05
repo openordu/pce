@@ -2,7 +2,7 @@
 layout: layouts/pce.njk
 title: feast
 icon: file-lines
-order: 923
+order: 1057
 contributors: [ 'Christopher Godwin' ]
 attributes:
   - feast came to mark holy ground
@@ -15,13 +15,13 @@ attributes:
   - feast joined living people and the powers of the land
   - feast shows one root word across the Celtic tongues
 categories:
+  - god
   - place
   - group
-  - event
   - person
   - concept
   - location
-  - god
+  - event
 entities:
   - feast(event)
   - churches(concept)
@@ -59,7 +59,7 @@ The archaeology is strong. In the early Iron Age the people of west-central Euro
 
 The Greek and Roman writers record feasts in sharp detail. There is the story of the great feast of a Gaulish chief. The host set the time for the praise poets, and the singers were rewarded with cups of gold. Another chief kept the feast going at great halls for a full year. At many feasts the warriors competed in strong tests, and a brave man offered his neck to the blade. One old writer says that a host secretly poisoned the guests from a distant land. The founding tale of a Greek city in Gaul is told as the story of men who came to a royal marriage feast in the heart of the Gaulish land.
 
-The tradition of Ireland gives the fullest record. The rules for the table of a king are set out in a wise text from the ninth century. The old word for a royal feast in Irish carried the deeper sense of a joining. It was a rite of union, like the making of a marriage or the fixing of a true king. Later the word came to mean any great feast. The feast of Tara was the rite that drew the power of the land to a whole king. The people linked the first night of a king with union with the goddess of the land. A number of the old tales end at a feast. In them heroic men matched their force and courage at the table, and the strongest claimed the best joint of the meat. The word for the feast and its one root are common to every land of the Celtic tongue. In this way the feast joined the living people of the tribe with the older powers of the land.
+The tradition of Ireland gives the fullest record. The rules for the table of a king are set out in a wise text from the ninth century. The old word for a royal feast in Irish carried the deeper sense of a joining. It was a rite of union, like the making of a marriage or the fixing of a true king. Later the word came to mean any great feast. The feast of Tara was the rite that drew the power of the land to a whole king. The people linked the first night of a king with union with the goddess of the land. A number of the old tales end at a feast. In them heroic men matched their force and courage at the table, and the strongest claimed the best joint of the meat. The word for the feast and its one root are common to every land of the Celtic tongue. In this way the feast joined the living people of the tribe with the older powers of the land. MacKillop 2008 lists feast as a one-line cross-reference that points the reader to the entries festival, féil, feis, and fair. The PCE article already covers the substantive record; MacKillop adds no new material beyond the pointer.
 
 :::
 ```
@@ -92,5 +92,6 @@ The tradition of Ireland gives the fullest record. The rules for the table of a 
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 - Koch 2006, s.v. 'feast'
+- MacKillop 2008, s.v. 'feast'
 ```
 ![feast Image](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Monreale-cattedrale-mosaik-abendmahl.JPG/1200px-Monreale-cattedrale-mosaik-abendmahl.JPG)

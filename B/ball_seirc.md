@@ -2,51 +2,54 @@
 layout: layouts/pce.njk
 title: ball seirc
 icon: file-lines
-order: 187
+order: 4207
 contributors: [ 'Christopher Godwin' ]
 attributes:
-  - Diarmait handsome hero
-  - Diarmait usually wore bangs or a cap
-  - ball seirc kind of dimple or other mark on his forehead (sometimes, on his shoulder)
-  - Gráinne heroine
-  - Gráinne fell in love with Diarmait after seeing the ball seirc
-  - Gráinne tricked Diarmait into escaping with her
+  - ball seirc a love spot on the hero's skin
+  - Diarmait handsome hero who bore the spot on his forehead or shoulder
+  - Diarmait hid the spot under bangs or a cap
+  - Diarmait showed the spot while struggling with dogs
+  - Grainne heroine who fell in love upon seeing the spot
+  - Grainne tricked Diarmait into escaping with her
+  - ball seirc Irish term meaning a love spot or blemish on the skin
+  - Diarmait known in full as Diarmait Ua Duibne
 categories:
-  - heroine
-  - active
-  - Irish mythological motif
-  - handsome hero
+  - Concept
+  - Person
 entities:
-  - ball seirc(Irish mythological motif)
-  - Gráinne(heroine)
-  - Diarmait(handsome hero)
-  - dogs(active)
+  - ball seirc(Concept)
+  - Diarmait(Person)
+  - Grainne(Person)
+  - Diarmait Ua Duibne(Person)
 tags:
   - ball seirc
-  - Gráinne
   - Diarmait
-  - dogs
+  - Grainne
+  - Diarmait Ua Duibne
 ---
 ``` tab [group1:Info]
 ::: magazinestyle
-A striking feature in Irish mythology is the ball seirc motif. It was a charming “love spot” on the forehead or sometimes on the shoulder of the handsome hero Diarmait. This dimple or mark made him irresistible to women, which often led him to wear bangs or a cap to cover it up. Diarmait's fortune changed when he exposed the ball seirc whilst trying to overpower some dogs. At that moment, the heroine Gráinne fell under its spell and tricked him into taking her away.
+Ball seirc is an Irish mythological motif. The Irish name means a love spot or a blemish on the skin. The handsome hero Diarmait bore the mark, and his full name was Diarmait Ua Duibne. The spot sat on his forehead, and at times on his shoulder. Every woman who saw the spot desired him. He hid it beneath a fringe of hair or a cap to live in peace. While he fought a pack of dogs the mark came into view. Grainne spied it in that moment and loved him at once. She then tricked Diarmait into fleeing with her.
 
 :::
 ```
 ``` tab [group1:Attributes]
-- **Diarmait**: handsome hero
-- **Diarmait**: usually wore bangs or a cap
-- **ball seirc**: kind of dimple or other mark on his forehead (sometimes, on his shoulder)
-- **Gráinne**: heroine
-- **Gráinne**: fell in love with Diarmait after seeing the ball seirc
-- **Gráinne**: tricked Diarmait into escaping with her
+- **ball seirc**: a love spot on the hero's skin
+- **Diarmait**: handsome hero who bore the spot on his forehead or shoulder
+- **Diarmait**: hid the spot under bangs or a cap
+- **Diarmait**: showed the spot while struggling with dogs
+- **Grainne**: heroine who fell in love upon seeing the spot
+- **Grainne**: tricked Diarmait into escaping with her
+- **ball seirc**: Irish term meaning a love spot or blemish on the skin
+- **Diarmait**: known in full as Diarmait Ua Duibne
 ```
 ``` tab [group1:Entities]
-- **ball seirc**: Irish mythological motif
-- **Gráinne**: heroine
-- **Diarmait**: handsome hero
-- **dogs**: active
+- **ball seirc**: Concept
+- **Diarmait**: Person
+- **Grainne**: Person
+- **Diarmait Ua Duibne**: Person
 ```
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
+- MacKillop 2008, s.v. 'ball seirce'
 ```

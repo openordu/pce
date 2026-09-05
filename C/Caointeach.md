@@ -2,40 +2,99 @@
 layout: layouts/pce.njk
 title: Caointeach
 icon: file-lines
-order: 395
+order: 440
 contributors: [ 'Christopher Godwin' ]
 attributes:
-  - Fairies carefully ignored
-  - Fairies doing their jobs
-  - Cyhyreath cries were said to imitate the sighs and groans of the dying
+  - Caointeach a Highland name for the banshee
+  - Caointeach meaning wailer
+  - Caoineag the second name, meaning weeper
+  - Caointeach a spirit that wailed by a waterfall
+  - Caointeach wept loudly before a great disaster
+  - Caointeach mourned for days before the Glencoe massacre
+  - Caointeach washed the clothes of the doomed at night
+  - Caointeach was kind and wept with human grief
+  - Washer at the Ford a spirit that washed clothes to warn of death
+  - Cyhyreath the Welsh banshee
+  - Caointeach a solitary fairy of the southern Highlands and old Argyllshire
+  - Caointeach a child or a very small woman in a short green petticoat and a high-crowned white cap
+  - Caointeach heard wailing after the Glencoe massacre of 1692
 categories:
-  - Language
-  - Creature
+  - family
+  - mythological figure
+  - person
+  - place
 entities:
-  - Fairies(Creature)
-  - Welsh(Language)
-  - Cyhyreath(Creature)
+  - Caointeach(mythological figure)
+  - Caoineag(person)
+  - Banshee(mythological figure)
+  - Washer at the Ford(mythological figure)
+  - Fairies(mythological figure)
+  - Cyhyreath(mythological figure)
+  - Macdonalds(family)
+  - Glencoe(place)
+  - bean nighe(mythological figure)
+  - cadineag(mythological figure)
+  - Hebrides(place)
+  - Argyllshire(place)
+  - north Strathclyde(place)
+  - Islay(place)
+  - Kintyre(place)
 tags:
+  - Caointeach
+  - Caoineag
+  - Banshee
+  - Washer at the Ford
   - Fairies
-  - Welsh
   - Cyhyreath
+  - Macdonalds
+  - Glencoe
+  - bean nighe
+  - cadineag
+  - Hebrides
+  - Argyllshire
+  - north Strathclyde
+  - Islay
+  - Kintyre
 ---
 ``` tab [group1:Info]
 ::: magazinestyle
-The Scottish Banshee was known by the Highland names of Caointeach (or Caoineag), which meant "wailer" and "weeper," respectively. This mythical being could be heard crying out when death was approaching. Caointeach would sit by a waterfall and wail before any death, but her crying would become particularly intense when disaster was imminent. As an example, the Caointeach of the Macdonalds mourned for days before the terrible massacre at Glencoe. At times, Caointeach was also believed to be washing the clothes of those who were doomed to die at night, much like the Washer At The Ford. Despite the despair her presence caused, the Caointeach was not malevolent, and was known to be deeply moved by human grief, which only caused her to weep even more copiously. These Fairy-like entities were generally not acknowledged, and it was believed that they should not be rewarded for performing their duties. Otherwise, they would vanish, leaving the family without a warning of imminent death. The Welsh version of this creature was known as the Cyhyreath, whose cries were said to replicate the sighs and groans of the dying.
+The Caointeach haunts the Scottish Highlands as a wailing spirit of death. Her second name in the Highlands is Caoineag, the weeper, while canejach renders her the mourner or whiner. Both titles place her in the banshee family, and her cry foretold a death in the house. She sat by a waterfall and keened before any death. When a great calamity approached, her voice rose far louder. The Macdonalds heard their Caointeach mourn for days before the massacre at Glencoe in 1692. Tradition also records her wailing after the slaughter. Her cry sounded across the northern Highlands and through the Hebrides. Storytellers placed her chiefly in the southern Highlands and old Argyllshire. That region took the name north Strathclyde in 1974. She shares traits with the bean nighe, the washing spirit. On certain nights she laundered the clothes of people fated to die. The Washer at the Ford worked the same way. She appeared as a child or as a very small woman. She wore a short green petticoat and a high-crowned white cap. A green shawl sometimes covered her shoulders. She lived as a solitary fairy, akin to the caoineag and the cadineag. Malice played no part in her grief, and human sorrow moved her to weep harder. People still shunned her. Custom ordered families to refuse her any gift. A reward made her vanish and robbed the household of its warning. The name caointeag served her on Islay and in nearby Kintyre. Wales honored a counterpart named the Cyhyreath, whose voice copies the sighs and groans of people near death.
 
 :::
 ```
 ``` tab [group1:Attributes]
-- **Fairies**: carefully ignored
-- **Fairies**: doing their jobs
-- **Cyhyreath**: cries were said to imitate the sighs and groans of the dying
+- **Caointeach**: a Highland name for the banshee
+- **Caointeach**: meaning wailer
+- **Caoineag**: the second name, meaning weeper
+- **Caointeach**: a spirit that wailed by a waterfall
+- **Caointeach**: wept loudly before a great disaster
+- **Caointeach**: mourned for days before the Glencoe massacre
+- **Caointeach**: washed the clothes of the doomed at night
+- **Caointeach**: was kind and wept with human grief
+- **Washer at the Ford**: a spirit that washed clothes to warn of death
+- **Cyhyreath**: the Welsh banshee
+- **Caointeach**: a solitary fairy of the southern Highlands and old Argyllshire
+- **Caointeach**: a child or a very small woman in a short green petticoat and a high-crowned white cap
+- **Caointeach**: heard wailing after the Glencoe massacre of 1692
 ```
 ``` tab [group1:Entities]
-- **Fairies**: Creature
-- **Welsh**: Language
-- **Cyhyreath**: Creature
+- **Caointeach**: mythological figure
+- **Caoineag**: person
+- **Banshee**: mythological figure
+- **Washer at the Ford**: mythological figure
+- **Fairies**: mythological figure
+- **Cyhyreath**: mythological figure
+- **Macdonalds**: family
+- **Glencoe**: place
+- **bean nighe**: mythological figure
+- **cadineag**: mythological figure
+- **Hebrides**: place
+- **Argyllshire**: place
+- **north Strathclyde**: place
+- **Islay**: place
+- **Kintyre**: place
 ```
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
+- MacKillop 2008, s.v. 'caointeach'
 ```

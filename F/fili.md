@@ -2,56 +2,58 @@
 layout: layouts/pce.njk
 title: fili
 icon: file-lines
-order: 964
+order: 1098
 contributors: [ 'Christopher Godwin' ]
 attributes:
-  - Celtic Ireland waned
-  - poets powerful
-  - chieftains powerful
-  - poetic schools ceased to function
-  - poet status remained high
-  - poet status remains high
+  - fili a learned poet class of early Ireland
+  - fili linked to poetry and satire in the index
+  - fili privileged order serving as poets, diviners, and seers
+  - fili trained at least twelve years in mental exercise
+  - ollam highest of the seven grades of fili
 categories:
-  - Location
-  - Organization
-  - Person
+  - mythological figure
+  - group
+  - concept
 entities:
-  - Celtic Ireland(Location)
-  - poets(Person)
-  - chieftains(Person)
-  - poetic schools(Organization)
-  - poet(Person)
-  - Celtic lands(Location)
+  - fili(group)
+  - Tuan mac Cairill(mythological figure)
+  - bard(group)
+  - brehon(group)
+  - ollam(group)
+  - bérla na filed(concept)
+  - filedecht(concept)
 tags:
-  - Celtic Ireland
-  - poets
-  - chieftains
-  - poetic schools
-  - poet
-  - Celtic lands
+  - fili
+  - Tuan mac Cairill
+  - bard
+  - brehon
+  - ollam
+  - bérla na filed
+  - filedecht
 ---
 ``` tab [group1:Info]
 ::: magazinestyle
-The Celtic social role known as fili (file; pl., filid, filidh) was fulfilled by poets in early Ireland. Filid were highly trained professionals who belonged to a hierarchical system that comprised seven levels, with the ollam being the most senior level. The filid families, such as the Ó Daillaighs of Co. Clare, established schools and honed the skills of their kin and other apprentices through demanding memorization practices with rigorous expectations. The filid were required to memorize hundreds of pieces before attempting to create any new composition. They also had to learn divination techniques and other magical rituals. The roles of the Brehon, or lawyer, and the Bard, or singer, overlapped with that of the fili, making it hard to distinguish among their fields. During the earliest times, it was difficult to differentiate between the Druid and fili roles since poetry was perceived to be a magical art. Satire is the sole connection that can be clearly drawn between them as poets were required to assail with their incisive words any king who needed chastening. The magic contained in the fili's words would disfigure the misguided king and strip him of his right to rule (See Blemished King). As Celtic Ireland declined, the poets' power became more mundane, leading them to attach themselves to influential chieftains for whom they created praiseworthy poetry. Despite the cessation of the great poetic schools, the prestige of the poet's role remained high, as is still observed in Celtic lands today.
+The index keeps a page for fili, a class of learned poets in early Ireland. MacKillop presents the fili as a privileged and powerful learned order, one serving as poets, diviners, and seers. The rank sat above the lower-status bard, while the brehon dealt more with law. Seven grades existed, and the ollam ranked highest among them. The label poet misleads, because the fili also worked as senchaid, or historian. He composed prose sagas, romances, genealogies, topography, historical narrative, and the satires that made him feared. The calling was hereditary, and each fili served in the household of a chief. Serving a clan head was the right of one particular family. Training lasted at least twelve years and demanded rigorous mental exercise. Some fili used the esoteric tongue called bérla na filed, and the craft itself bore the name filedecht. Commentators have ranked the caste beside the brahmins of India or the Christian clergy of Europe in early modern times. The index also ties fili to shape-shifting and to Tuan mac Cairill.
 
 :::
 ```
 ``` tab [group1:Attributes]
-- **Celtic Ireland**: waned
-- **poets**: powerful
-- **chieftains**: powerful
-- **poetic schools**: ceased to function
-- **poet**: status remained high
-- **poet**: status remains high
+- **fili**: a learned poet class of early Ireland
+- **fili**: linked to poetry and satire in the index
+- **fili**: privileged order serving as poets, diviners, and seers
+- **fili**: trained at least twelve years in mental exercise
+- **ollam**: highest of the seven grades of fili
 ```
 ``` tab [group1:Entities]
-- **Celtic Ireland**: Location
-- **poets**: Person
-- **chieftains**: Person
-- **poetic schools**: Organization
-- **poet**: Person
-- **Celtic lands**: Location
+- **fili**: group
+- **Tuan mac Cairill**: mythological figure
+- **bard**: group
+- **brehon**: group
+- **ollam**: group
+- **bérla na filed**: concept
+- **filedecht**: concept
 ```
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
+- MacKillop 2008, s.v. 'fili'
 ```

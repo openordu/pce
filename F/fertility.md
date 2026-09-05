@@ -2,64 +2,102 @@
 layout: layouts/pce.njk
 title: fertility
 icon: file-lines
-order: 945
+order: 1079
 contributors: [ 'Christopher Godwin' ]
 attributes:
-  - abundance images
-  - Cornucopia found with both gods and goddesses
-  - Egg found with both gods and goddesses
+  - fertility chief question for those who dwell close to the land
+  - fertility tied by the Irish to the king's conduct
+  - goddess of Sovereignty king's spouse, bore in plenty when pleased
+  - fertility sat in the balance between masculine and feminine
+  - Continental Celts used the CORNUCOPIA and the EGG
+  - fertility power dispersed between sacred objects and many figures
+  - fertility often implied by the cauldron
+  - Fomorians linked to blight as well as fertility
 categories:
-  - culture
-  - object
+  - god
+  - group
+  - person
   - concept
-  - gender
-  - deity
+  - artifact
 entities:
-  - Fertility(concept)
-  - feminine(gender)
-  - masculine(gender)
-  - balance(concept)
-  - continental Celts(culture)
-  - abundance(concept)
-  - Cornucopia(object)
-  - Egg(object)
-  - gods(deity)
-  - goddesses(deity)
+  - fertility(concept)
+  - the land(concept)
+  - goddess of Sovereignty(god)
+  - the king(person)
+  - masculine(concept)
+  - feminine(concept)
+  - Continental Celts(group)
+  - CORNUCOPIA(artifact)
+  - EGG(artifact)
+  - cauldron(artifact)
+  - Rosmerta(god)
+  - Cemunnos(god)
+  - Matres(god)
+  - Áine(god)
+  - Brigit(god)
+  - Cymidei Cymeinfoll(god)
+  - Dagda(god)
+  - Dôn(god)
+  - Fomorians(group)
 tags:
-  - Fertility
-  - feminine
+  - fertility
+  - the land
+  - goddess of Sovereignty
+  - the king
   - masculine
-  - balance
-  - continental Celts
-  - abundance
-  - Cornucopia
-  - Egg
-  - gods
-  - goddesses
+  - feminine
+  - Continental Celts
+  - CORNUCOPIA
+  - EGG
+  - cauldron
+  - Rosmerta
+  - Cemunnos
+  - Matres
+  - Áine
+  - Brigit
+  - Cymidei Cymeinfoll
+  - Dagda
+  - Dôn
+  - Fomorians
 ---
 ``` tab [group1:Info]
 ::: magazinestyle
-Fertility is a cosmological concept that holds great significance to those who live in close communion with the land. The prospect of barren land, empty herds, and unproductive rivers is particularly terrifying, as it can lead to famine and death. The Irish associated the fertility of the land with the king's virtue, believing that the goddess of the land's Sovereignty, who was also the king's spouse, would bear bountifully if the king was generous and honorable. Fertility was therefore not confined to either the feminine or masculine, but rather relied on a harmonious balance between the two. The Cornucopia and the Egg, symbols of abundance, were prevalent among both male and female deities among the continental Celts.
+Fertility looms as a cosmological concept. For people who dwell close to the land, it is the chief question. If the land grew barren, the herds empty, and the rivers thin of fish, starvation could follow. The Irish tied the yield of the land to the conduct of the king. A generous and upright king pleased the SOVEREIGNTY goddess of the land. That goddess, spouse of the king, would then bear in plenty. Fertility sat in the balance between the masculine and the feminine. It did not rest in either alone. Continental Celts used the CORNUCOPIA and the EGG with both gods and goddesses. Celtic traditions dispersed that power between sacred objects and many figures. A cauldron often marks fertility in several Celtic traditions. Goddesses foster fertility more often than gods do, yet either gender may preside. No single fertility god or goddess exists. Rosmerta stands out as a fertility goddess. Aspects of Cemunnos imagery imply fertility roles. The Romano-Gaulish trio named Matres embraces motherhood and maidenhood at once. Áine, Brigit, the Dagda, Dôn, and Cymidei Cymeinfoll also carry fertility associations. In the pseudo-history Lebor Gabala, the Fomorians of Ireland hold links to blight as well as fertility.
 
 :::
 ```
 ``` tab [group1:Attributes]
-- **abundance**: images
-- **Cornucopia**: found with both gods and goddesses
-- **Egg**: found with both gods and goddesses
+- **fertility**: chief question for those who dwell close to the land
+- **fertility**: tied by the Irish to the king's conduct
+- **goddess of Sovereignty**: king's spouse, bore in plenty when pleased
+- **fertility**: sat in the balance between masculine and feminine
+- **Continental Celts**: used the CORNUCOPIA and the EGG
+- **fertility**: power dispersed between sacred objects and many figures
+- **fertility**: often implied by the cauldron
+- **Fomorians**: linked to blight as well as fertility
 ```
 ``` tab [group1:Entities]
-- **Fertility**: concept
-- **feminine**: gender
-- **masculine**: gender
-- **balance**: concept
-- **continental Celts**: culture
-- **abundance**: concept
-- **Cornucopia**: object
-- **Egg**: object
-- **gods**: deity
-- **goddesses**: deity
+- **fertility**: concept
+- **the land**: concept
+- **goddess of Sovereignty**: god
+- **the king**: person
+- **masculine**: concept
+- **feminine**: concept
+- **Continental Celts**: group
+- **CORNUCOPIA**: artifact
+- **EGG**: artifact
+- **cauldron**: artifact
+- **Rosmerta**: god
+- **Cemunnos**: god
+- **Matres**: god
+- **Áine**: god
+- **Brigit**: god
+- **Cymidei Cymeinfoll**: god
+- **Dagda**: god
+- **Dôn**: god
+- **Fomorians**: group
 ```
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
+- MacKillop 2008, s.v. 'fertility'
 ```

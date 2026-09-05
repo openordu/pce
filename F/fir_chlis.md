@@ -2,37 +2,48 @@
 layout: layouts/pce.njk
 title: fir chlis
 icon: file-lines
-order: 987
+order: 4417
 contributors: [ 'Christopher Godwin' ]
 attributes:
-  - fir chlis nimble man
+  - fir chlis a Scottish folk figure
+  - fir chlis personified the northern lights
+  - fir chlis Gaelic term formed from chlis, quick and nimble
+  - fir chlis sometimes translated as the merry dancers
+  - fir chlis takes the article na in Gaelic usage
 categories:
-  - folklore
-  - aurora borealis
-  - Scottish folkloric figure
+  - mythological figure
+  - concept
 entities:
-  - fir chlis(Scottish folkloric figure)
-  - northern lights(aurora borealis)
-  - Scottish folklore(folklore)
+  - fir chlis(mythological figure)
+  - northern lights(concept)
+  - aurora borealis(concept)
+  - merry dancers(concept)
 tags:
   - fir chlis
   - northern lights
-  - Scottish folklore
+  - aurora borealis
+  - merry dancers
 ---
 ``` tab [group1:Info]
 ::: magazinestyle
-The Scottish folklore depicted a figure called fir chlis who represented the northern lights or aurora borealis. He was known as the "nimble man."
+Fir chlis is a figure of Scottish folklore. Known as the nimble man, he stood for the northern lights, called the aurora borealis. He appears in the folklore of Scotland. MacKillop glosses the name in Scottish Gaelic from chlis, meaning quick, lively, or nimble. The term names the aurora borealis in Gaelic folklore, and writers sometimes render it as the merry dancers. In Gaelic usage the plural term takes the definite article na before it. Gaelic speakers therefore say na fir chlis when they name the lights. The term serves as a named spirit of the lights. It also stands as the everyday Gaelic label for the display itself.
 
 :::
 ```
 ``` tab [group1:Attributes]
-- **fir chlis**: nimble man
+- **fir chlis**: a Scottish folk figure
+- **fir chlis**: personified the northern lights
+- **fir chlis**: Gaelic term formed from chlis, quick and nimble
+- **fir chlis**: sometimes translated as the merry dancers
+- **fir chlis**: takes the article na in Gaelic usage
 ```
 ``` tab [group1:Entities]
-- **fir chlis**: Scottish folkloric figure
-- **northern lights**: aurora borealis
-- **Scottish folklore**: folklore
+- **fir chlis**: mythological figure
+- **northern lights**: concept
+- **aurora borealis**: concept
+- **merry dancers**: concept
 ```
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
+- MacKillop 2008, s.v. 'fir chlis'
 ```

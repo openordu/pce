@@ -8,6 +8,9 @@ attributes:
   - Bladmall an alternate spelling of the sea-monster name Bledmall
   - Bladmall a cross-reference directing the reader to the Bledmall entry
   - Bledmall the target Being of the Bladmall cross-reference
+  - Bledmall glossed in Irish as a sea-monster
+  - Bledmall recorded in the variant forms bledmall, bladmall, and bledmail
+  - Bledmall cited in several early Irish narratives
 categories:
   - Being
 entities:
@@ -19,7 +22,7 @@ tags:
 ---
 ``` tab [group1:Info]
 ::: magazinestyle
-Bladmall is an alternate spelling for the sea-monster name Bledmall. In Irish the word Bledmall, along with the variants bladmall and bledmail, marks a fearsome deep-water creature. Several early Irish tales make mention of such underwater beasts. A reader who meets the form Bladmall should turn to the Bledmall entry for the fuller account.
+Bladmall is an alternate spelling of Bledmall, a sea-monster name in Irish tradition. MacKillop lists the forms bledmall, bladmall, and bledmail together. The word marks fearsome creatures of the deep. Early Irish narratives allude to these underwater beasts on several occasions. A reader who meets the form Bladmall should turn to the Bledmall entry for the fuller account.
 
 :::
 ```
@@ -27,6 +30,9 @@ Bladmall is an alternate spelling for the sea-monster name Bledmall. In Irish th
 - **Bladmall**: an alternate spelling of the sea-monster name Bledmall
 - **Bladmall**: a cross-reference directing the reader to the Bledmall entry
 - **Bledmall**: the target Being of the Bladmall cross-reference
+- **Bledmall**: glossed in Irish as a sea-monster
+- **Bledmall**: recorded in the variant forms bledmall, bladmall, and bledmail
+- **Bledmall**: cited in several early Irish narratives
 ```
 ``` tab [group1:Entities]
 - **Bladmall**: Being

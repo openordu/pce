@@ -2,45 +2,77 @@
 layout: layouts/pce.njk
 title: cattle
 icon: file-lines
-order: 416
+order: 465
 contributors: [ 'Christopher Godwin' ]
 attributes:
-  - Bull-Sleep performed by sleeping in the hide of a recently slaughtered Bull
-  - Beltane cattle were driven between signal fires on Beltane to magically assure their health and well-being
-  - summer grazing season Beltane marks the beginning of the summer grazing season
+  - Ailill set obstacles in the hero's path
+  - Fracch wished to wed Finnabair
+  - Finnabair daughter of Ailill and Medb
+  - Ailill plays a major part in Echtra Nerai
+  - Nera moves at Ailill's instigation
+  - cattle cross-reference entry routing readers to bull, cow, and the tain bo tales
+  - Caturix a Gaulish epithet of Mars meaning battle king
 categories:
-  - food
-  - practice
-  - animal
+  - god
+  - hero
+  - character
+  - concept
+  - artifact
 entities:
-  - Divination(practice)
-  - Bull(animal)
-  - cattle(animal)
-  - Butter(food)
+  - Ailill(character)
+  - Fracch(hero)
+  - Finnabair(character)
+  - Medb(character)
+  - Echtra Nerai(artifact)
+  - Nera(hero)
+  - cattle(concept)
+  - bull(concept)
+  - cow(concept)
+  - tain bo(concept)
+  - Caturix(god)
 tags:
-  - Divination
-  - Bull
+  - Ailill
+  - Fracch
+  - Finnabair
+  - Medb
+  - Echtra Nerai
+  - Nera
   - cattle
-  - Butter
+  - bull
+  - cow
+  - tain bo
+  - Caturix
 ---
 ``` tab [group1:Info]
 ::: magazinestyle
-Cattle, a symbolic animal, held great importance for the Celts who primarily relied on herding. Their wealth was not only symbolically represented by cattle but was also defined by it in reality. Therefore, many Celtic deities, rituals, and myths were associated with cattle. The white Cow goddess Bó Find represented the prosperity of healthy herds while the Mórrígan symbolized the Otherworld aspect of cattle. She was believed to lead her herds through the narrow passage of the cave at Oweynagat and away from the surface world. Divination was conducted by sleeping in the hide of a recently slaughtered Bull (refer to Bull-Sleep). On Beltane, the start of the summer grazing season, cattle were ritually driven between signal fires to magically ensure their good health and well-being. Butter also had connections to cattle.
+Cattle stand at the center of early Irish heroic story, and this entry points to the wider entries on the bull and the cow. The famous raid narratives carry the title tain bo, and MacKillop routes readers there for the full tales. The extract for the cattle entry concerns the cattle raid of the hero Fracch. Ailill set obstacles in the path of the hero. Fracch wished to wed Finnabair, the daughter of Ailill and Medb. Ailill matters again in Echtra Nerai, the story titled the Adventure of Nera. In that text he directs the hero Nera's next move. Raiding herds thus marks both tales, and the wealth of a king shows through his beasts. The word caturix, meaning battle king, names a Gaulish epithet of Mars in the same part of the dictionary. Plunder of cattle therefore ran beside war in the Celtic imagination.
 
 :::
 ```
 ``` tab [group1:Attributes]
-- **Bull-Sleep**: performed by sleeping in the hide of a recently slaughtered Bull
-- **Beltane**: cattle were driven between signal fires on Beltane to magically assure their health and well-being
-- **summer grazing season**: Beltane marks the beginning of the summer grazing season
+- **Ailill**: set obstacles in the hero's path
+- **Fracch**: wished to wed Finnabair
+- **Finnabair**: daughter of Ailill and Medb
+- **Ailill**: plays a major part in Echtra Nerai
+- **Nera**: moves at Ailill's instigation
+- **cattle**: cross-reference entry routing readers to bull, cow, and the tain bo tales
+- **Caturix**: a Gaulish epithet of Mars meaning battle king
 ```
 ``` tab [group1:Entities]
-- **Divination**: practice
-- **Bull**: animal
-- **cattle**: animal
-- **Butter**: food
+- **Ailill**: character
+- **Fracch**: hero
+- **Finnabair**: character
+- **Medb**: character
+- **Echtra Nerai**: artifact
+- **Nera**: hero
+- **cattle**: concept
+- **bull**: concept
+- **cow**: concept
+- **tain bo**: concept
+- **Caturix**: god
 ```
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
+- MacKillop 2008, s.v. 'cattle'
 ```
 ![cattle Image](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Cow_%28Fleckvieh_breed%29_Oeschinensee_Slaunger_2009-07-07.jpg/1200px-Cow_%28Fleckvieh_breed%29_Oeschinensee_Slaunger_2009-07-07.jpg)

@@ -2,44 +2,52 @@
 layout: layouts/pce.njk
 title: fairy stroke
 icon: file-lines
-order: 910
+order: 4391
 contributors: [ 'Christopher Godwin' ]
 attributes:
-  - fairy hand powerful enough to paralyze even the strongest man
-  - sites of legendary importance protected for generations by this belief
-  - Fairy Mounds protected for generations by this belief
+  - fairy stroke sudden paralysis taken as fairy punishment
+  - fairy punished those who cut a fairy tree or grazed a ring
+  - fairy hand could cripple the strongest person
+  - fairy stroke greatly feared
+  - fairy stroke Irish poc sidhe, chiefly naming a paralytic seizure
+  - fairy stroke gave everyday English the word stroke for a cerebral haemorrhage
+  - fairy stroke matched the kinkisha Whitsuntide evil destiny, with kinkishin as its directing agent and McArdle's film The Kinkisha around 1978 as its modern echo
 categories:
-  - person
-  - place
-  - mythical creature body part
+  - mythological creature
+  - concept
 entities:
-  - fairy hand(mythical creature body part)
-  - strongest man(person)
-  - sites of legendary importance(place)
-  - Fairy Mounds(place)
+  - fairy stroke(concept)
+  - fairy(mythological creature)
+  - fairy tree(concept)
+  - fairy ring(concept)
 tags:
-  - fairy hand
-  - strongest man
-  - sites of legendary importance
-  - Fairy Mounds
+  - fairy stroke
+  - fairy
+  - fairy tree
+  - fairy ring
 ---
 ``` tab [group1:Info]
 ::: magazinestyle
-One motif that commonly appears in folklore is the fairy stroke. Nowadays, if someone loses their control over a part of, or their entire body, we would say that they have suffered a stroke. However, in the past, people believed that full or partial paralysis was a form of punishment from the Fairies. It was thought that they could inflict punishment with just a touch. Offenses such as felling a Fairy Tree, allowing cattle to graze in a Fairy Ring, or even stealing something belonging to them could lead to Fairy retribution. The Fairy's stroke was said to be powerful enough to paralyze the strongest of individuals, and as such, people were fearful of it. This belief was so strong that many places of legendary significance, such as Fairy Mounds, were protected for generations due to the fear of punishment.
+Fairy stroke is a folkloric name for sudden paralysis. Irish speakers called it poc sidhe. People once blamed abrupt changes in health on the fairies, for humans and animals alike. Most often the fairy stroke meant a paralytic seizure. Modern medicine ties a stroke to a break in blood flow to the brain. Everyday English still uses the word stroke for a bleed in the brain. That habit grew out of an old belief in the fairies. Some storytellers claimed the fairies had carried a victim away and set a substitute figure in the place. The stroke also stood for punishment. Cutting a fairy tree could draw the blow. So could grazing cattle on a fairy ring or stealing from the fairies. One touch of a fairy hand could cripple even the strongest person. People feared that power deeply. In Ireland the fairy stroke matched the ill fate said to hang over a child born at Pentecost. The Hiberno-English words kinkisha and kinkesha name that Whitsuntide evil destiny. Speakers usually gloss both words as fairy stroke. A person able to aim such malicious power carries the name kinkishin or kinkeshin. Irish also offers millteoireacht, a word for the act of spoiling or destroying. Tommy McArdle made the film The Kinkisha around 1978. The film carries this theme into a modern setting.
 
 :::
 ```
 ``` tab [group1:Attributes]
-- **fairy hand**: powerful enough to paralyze even the strongest man
-- **sites of legendary importance**: protected for generations by this belief
-- **Fairy Mounds**: protected for generations by this belief
+- **fairy stroke**: sudden paralysis taken as fairy punishment
+- **fairy**: punished those who cut a fairy tree or grazed a ring
+- **fairy hand**: could cripple the strongest person
+- **fairy stroke**: greatly feared
+- **fairy stroke**: Irish poc sidhe, chiefly naming a paralytic seizure
+- **fairy stroke**: gave everyday English the word stroke for a cerebral haemorrhage
+- **fairy stroke**: matched the kinkisha Whitsuntide evil destiny, with kinkishin as its directing agent and McArdle's film The Kinkisha around 1978 as its modern echo
 ```
 ``` tab [group1:Entities]
-- **fairy hand**: mythical creature body part
-- **strongest man**: person
-- **sites of legendary importance**: place
-- **Fairy Mounds**: place
+- **fairy stroke**: concept
+- **fairy**: mythological creature
+- **fairy tree**: concept
+- **fairy ring**: concept
 ```
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
+- MacKillop 2008, s.v. 'fairy stroke'
 ```
