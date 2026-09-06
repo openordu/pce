@@ -2,16 +2,24 @@
   "name": "Fionn mac Cumhaill",
   "attributes": [
     {
+      "entity": "Fionn mac Cumhaill",
+      "attribute": "birth name Demne Maél"
+    },
+    {
+      "entity": "Fionn mac Cumhaill",
+      "attribute": "residence Hill of Allen, Co. Kildare"
+    },
+    {
       "entity": "Bran",
       "attribute": "primary companion hound"
     },
     {
-      "entity": "Sceolan",
+      "entity": "Sceólan",
       "attribute": "primary companion hound"
     },
     {
-      "entity": "Adhnaall",
-      "attribute": "accompanied Fionn less often"
+      "entity": "Adhnúall",
+      "attribute": "lesser companion hound"
     }
   ],
   "entities": [
@@ -20,11 +28,35 @@
       "type": "hero"
     },
     {
+      "entity": "Demne Maél",
+      "type": "alternate name"
+    },
+    {
+      "entity": "Finneéces",
+      "type": "druid"
+    },
+    {
+      "entity": "salmon of knowledge",
+      "type": "artifact"
+    },
+    {
+      "entity": "Linn Feéc",
+      "type": "place"
+    },
+    {
+      "entity": "Sliab na mBan",
+      "type": "place"
+    },
+    {
+      "entity": "Hill of Allen",
+      "type": "place"
+    },
+    {
       "entity": "Bran",
       "type": "animal"
     },
     {
-      "entity": "Sceolan",
+      "entity": "Sceólan",
       "type": "animal"
     },
     {
@@ -47,14 +79,16 @@
   ],
   "cyphertext": "rHp08XhEp2XW7TJQHvkULuNnJBMCGK5LvB6Ejo9aJzNZFAO3CDiEO9lhVMB020Nt5EjDKmnit-6BujWTWsmJw9LejOsDQY_J32Hx_9-G05Tq_b1AeGsfKa_9HM4wFrEV66ESyK6obiMD4jlBdmCKdNG0iSlSQfTwvf8K7FGtejcRP6dB_3pweVy6yAA7RD5zeaQ-JBCJkX2srkeqWi3w1XyGDBkusSLRYJXK0-j5F2TNtR502bkP6nazgvs2xGSDptHKyOYNQKcgmsOi-i5bSG-IGWdQYH-ONqV5Tb365JT6tSvQnA_Uxbxj-j40LCp8wBXP9KlJlzvNJ2fx0aCmX7DbyBgGv6eUfKUpmmmNwxsWHaiepQEjAhZilVJKWEAShc7g60gzWUSBlHiOw2F0ySfxGPXx7qj8ePZiaK31R5NI0GYmnwJjjot9aLLn-vK7Tm2_H-Yhvzuv7MChXBBtn_Jo6kDl43uYunaLDK6dAA9M9L2-aAZ4CdAFkQelEb_X5c8DjyRgxYKy0giMnB31jnWEjKRG7o1zd0nFyljIzsbTFsJoE_x38iFobSWqWzsFtbMLTD_Qq-_5uc6GNNl6d27uZtY2-0tBWfy3aEp6cC4EENFckaC8yo1bbeGtay6J-iXznLVyv-KwTHkrtrNkVaJUcL2Ilcx10zVbIPGUfIIgQbsZgK0tSSs65QdllBBeOdkL9zdlJTECNqfYwX3W_KeYCLAErfm7XWRW3rYrS4GiAYbcDUtKyaEKwx0gYlwktJOvHS2JfVYT-CBblqB2klG1GkRGDGs1AFIdKOmHRF5e0o6yyTeJ7dZVG1THW897FJQF-uOBK6-hfsrByUjMZJQGo86fIgO_KW8AUkodbljdiNytLkkJu70LNw7pNi06xUmF3Pj8s0XuZOhww6n6WPVGDmJ1tzqzC-zSr7zEbsfrSdRsjtv75gKyLF6wpVPIgDZU5LMEA_K1HKRGJLOLgWQUsqJ-5uNMt97Ck1qZzDAaIHvKghYOfAazvXzRo5Xiu9GbWlNaYHAPZ_fCjTYEcO_NwmKYgmBfXR-gfqsU1wJjWDP4BGZmXe-BmqtNxJIpqC1N4CRPaApIpHIv8TVwEM_8gEqrwJr4GiaEh9-1iQ-X12QyB8v9SjNrNcxQVgS_BCIkKe12nZ19O9d51a1_dCJgqs7KU5xyl7tdhBZQzx9DqSN4Blx0fZ1X3yZkI2AnMPiTPK8rZyZStjHZzcxgPVRkkBHKcuJdiZQm6rAx8aHWaAty1CHTiLP2mL4voHj4IlD1WNziIu1XsC7wYMnYF2asFKq5V7Y9KaRIQS51oQs_rWn6nHmg3zneI8QA49LEtZ-DTVSJcLYl_RO9wkxMzuob2FbHFm7KR4bSiPYFcDB4pza_TnKRwpt-8TSucdrgjMQdq5hk4g--l9YlETbE0nr4wrNo_Tv5omY-xHGuBlo3fM44KxqKsGW-OZNsRX1QbW4mcnUVin0fysz7PU3sb5JX7BFJOWmqU-oLr2HT8cfh6qNrehCaiiw8QQ430WYeMb8V2-kSFzw5ooEnOcekDZcJVO1z4fupDm9a9Dm3_zF9OK1TGVzWQPnX1Bn-ycRAQ0-jJFvLTVs2ZwElDGpGPYkMPjRqK8cPTUxkHG3WMnft0O8RRII4s1aYHE1b-S0oYijmIZLMpyxMnCY8xJl8nyKZEKkInhrkHvuLlVs8ibKQqEoI4xW2T8WciVEF3VUVCkI8tC-zXA99kNCu2WSTppEsXPuOVciOupsBYfAbKfqac4it_aeE4BN_zs7kwlRwlpfzwq6eEYGm7PzPIRZndVbIm7WPe3xTzWWJ9tEdEeIFfSrvov1VZgHWpjI_cD8dGVT38Cg8YEBxYIbx0t7o9Ug48cXjxCfGg3_lLX5J8putfidaQ66hFy9T6_fyemp0rRh6atRaYWnlc7AlC0qwHnzuiZYzqK2qibtoX3jJsCuDVICBc-4KG7PVjJMeJLbQrbP9QAPQegHgB0fBzurQ9y2_lihXMCNsvS1vsT48q8veZZbIPLH5N883Oj_8kisSKdEelOGQW2YEL84mYbM6u_jSSL-LV0c4oKQO34_By7fLGEVSxc1-5LuMKesE_nEBgu_7irC7rmF5ilqceCctap2KS6rCt_rOTHkZ40bBLQi7w7CQ0X_pmNz5FvvluwH-tl2J8n4J8-QNs76JRoQv7LA2h3DfS9OyM7Cl4BvI4jkhFJa-Q6aqUeZpIbxATXTC8ZgN5T_rGBEEQ3LgsoQmmHhuaA-U4K149lMLhGW4LqKev8BJctooqWUtE_MRwjYo2q492YRuX3HSUe0sqj5yF3TRtoR89QItMkJ-IpXrlLdy1TZhesgvJ96tSNSS6WVIOgbCtj7VmB3YMYz-kgXnPzDHc0GcRZDVxLJI7r8-sLJ9hu1uLEqWBcrT8V4bq3K1BvR90X7EVN997H0sB-GpJ5oB3Pa2tO4nxqItv9IaIIzYKNg4LxO3W4pYNKFRG4mL5sIR0-klu6-MkZRXgZlEPO24lb6n7vJ9zIkROXlXo2HcAzdkOZxIw-DiQDt4P_tBUOg3Q8WU6vaDSCth48k65Ps3T2nIZ3QUhOF426Tt-KOdzl0MokWAjcPSdtBx71ZklBWdFtv0JdqdPd9Da4m2eCvfbStSkYtqPbXgAzUnhHkw_Heo1nbI9DH8qHKtrYxZSpzl17K7yvkXchE9fwgAR9H19B0JJi-NmCIgH47qdud4vpa26AggmhGT-AtuAGZiO4lyMjiRUcWmKPNAQc3iERzEIiELQce6wW2nc0LLOpjNwFiee-j40GfaKwUP2PGBF1C758zOkqhm_NoOae-Ugc1fkm_-PDfXuCmeiu7oTYenxMrLJF5R7-IScDDFn-NrtzXbv6M_B-NMMrWNIbYpcdoq21qFjWzZtkgPRb31iERdnXmRKEglZtqxTc6Il9HsvFZ_2rHtejjawVzWW7Ex_H7TUKA1IaZY5G_2asZ8S0ikkmc2R6wFzrNSeysn-xRaXUqu057TdOs-Vqu7nrK6YKefNlulVu3IOEWcnaCzQh7X5mMUjZPlv6k1RYuvzkxljUEcoEgMg_QEYc-li_A35vxHsOzut69QLI6mE0KWFjHYVfDAZF3x_WPxhUOgmwlHj1buXaUqbCo5k8P6T6Vf2bl8gBpyNV-p3pOlMltoo6yyqQUQBJ-t1YE01FdsgCs4WxZlkptB03kVuntSWcKS4r6KRDGKbmYKo4c64acIXkxTgIdjhudk6zjpmSluvVWiT6H8-wYecfXEbp9ZjXJxY9ZpCfMw3cKYtSAgBTMwqjR2sTT2GPx4tODcOf_f48upf0-fblv2oOSxL3ja9JSTFoa-hNCyVzEnT5LfNmDFx_0d6C-mMEihOcVDk1F4EVB5qWdKMoVfvTmk140jIgHHzbqsrv_crG-xJ3Ir9tErhqnKyMgysO3Sey9ZsvmqqNNuJHO0uXJ0grGX9taXW7ox5Fc9GA-W3tybZj8UZ7X7ei2fzgxQJoMgs2cJm9Ivxv5tSN6OoS4BTHDCpwpUG0WLJr630dZUhYUCQvO8Tgfrnq9vvqCPcaakF1W_WxKaKrmTztEI6lug7Gtxhy_uA1y9EIO4luFPGZCocd--eqBr8iKNd3-K4LsZw8Wyr1SF-Rd_K_bbzs1X5VJ1Nb0EXkyHYaooMgrPMDoUmA6KPGx27da0SKrzxqSrLRZX3xMscgIkNib15ZDhlq2pX2VfQqwfULwCoVfVTXnJapQD6gZWQvG4V0b90ZPJNzNGUTve4jFnMvitDs3u7BdBBlk40LhsXBYlxtVZhOBybK4rY3CFCFgTzdgn_7Kx5R4Ca1Ivu5YLvpPAQm1T0SaXoShhtZ2Yu-Q5kutaZr3F5WnDvGw2j22hbz1YyBjYGU8sXd6_gL2wK7Dig3MrGZ8Poqa9E5tPuyIp1q_fH7tweo-6cNZK8B3cwytkwR50s0oar3Mju0APgj-rSv_jx_rwPD244qjUDswn5-uX7Veq8_NcCLsKmjI05Uu96QoPh4NJ4LzyQjz1N-4b9_wEPS5mxAWKxrfR9xZhek2lQyE-uZMkaLfO1XflCiQ8cCy7hH_TKDFAJq8f5OFcTvMEU5k0Kp-LPEehuvD8zOrFOTpWCrXti99EUicwYjj4F8_ZprRI_h10Sf2xlhoicI6gbdw9SeGWxQEK7O9Z3HYU8NHpRp3AS8ToPBUWZmv1L9iJitOSyhHTvGS4Y8BzeFpdXaXkpMX1tYhFMjEVfql1ugxk07i-QUxuwgyw9UBFrJf0-bvlf4forcayFMZ3X3PeQLDQDPQ8QJQjolGWtTvDGzAf41sEyG79hfv4_qXe0smZ6ZnchsQ-kGBxplcVcOvn_hK1tte0Th_-qWtOQp6B0GyAw6FUK7uAUsq6Rk6HvO_mrz8hVl8DEQYxz8kVI2OWdTJiE_mAye18EFjR5k0Hu6_bhuGgopqw4KwHGZthaxeE_4-V4hjx6TC8VRZLerchJvWzynD6RGTymtitRoE0C5P10nvflkKQhYqqINzVFs8GBe2N-dP6atvUZPbaP5vOcyDP74D2-bQUhxdF1RxCip30UFlEpMi-AJWReUTmSxdnZuuEJd-8UfZn3LCcPgbRgkWX4SwVv0jnEzZUZeIrhi7Bj0hFn5ni-0Eafc7dVstS6Ou1ZTMlJM8jR44Zn4ggEOSck1VOUHraNa0zSeMcwlXfgu0L4NlsbWfWY3467WTyEjkdcKbOIhsFa_EqKjQx6mX0Yi8MmCb4_3SocoQ5b2LCSDlzVpQfjgIPgiQtMK16eIFOxutHrsVKBKnuXqnLamwtlwl35UEjZO-s8O_HRHkw61q9Mb7sfhxTFciVvo7e3mJl0HbwrTjgYf4lL2m6n90u-Tcx8jdijb-c_nGHJTx8fFQlPioosQ_o51L7AI-oHpky-6wgrkzakaen4Timr6JCajBY-izf-KfqYCBZ_YinQ9mN1IdJ2y4VbRJ_yA6JDqFNX_tNlBM1xRueOSJ9ienYogFvIm_0PPCdaM36BUSsqyr1lipZ5jt56H8aFU6eLhfyKL0w980cjVld0JbviM-kngg497jGxz64BZuyiXUKoxfU3wfrpRDYTmii5CiXZJK_zI2BivXB8EXNWkRJw0FhpJAaWQftX5gFyqVwSWTeoHJDm39rqmEltkljw4B5ZgxtY5ysPRTN7HisNTwRRH8NX0Z6lBajSY1qaPE4FAA-kC9z01wDqqXR_sSj8B_ErhY1a1A6RCr3b-602wcvPql_ON5nl4EGUHRBs5PGk_Qsa5ctoAya3_4XQm2cSLsj5aUOH5x3YuUg2Bt7NuLzyB91q5JE7rDeVOABDoT6vcJI5of_JDrUxyljDwy8XY7guRWNvGzP2o-Ok1MWIxQZakZUK4_O33qzEPimqEfZQKtSjYhlYX-nC6xhW-e53wwbRH-F77IklJZqUAel8XrEMSefo-wpgvVXfql9oOgqvOj01nsH3Ppf9xNZU6d7DKwu1_9omL4KY5r5rYOCHva8RWXmUOmT1144fmMrn0DOrsPM-NCcxeZfHYL4JkUe9tROCnFeou9boAPJf3pJv-6nZ5EuSli2RzKNKnFX2iWYt7-l0ji5HZBZGRms_AZ_wcct5B14eBPwG7vKrVQeHFGFU-_Vh9VG_esFNcPxgArnoZJRV57JFvFyvJt6RUN9zWwkUnvJ7ND6k_4wIoKUT1_2JmwB1JYVtN10nFf_UWd-b8aLRf2y_mWCdkWG9LiAY5K1ZN-eLQwwGo7LZY9Yi9JKh4jx_l_361L6aBUMCM5w9Tp6jEKFjfOqTsctd2szqrBUXKowpGKy3H5FbQ9ezJ1cAplRYG1kyKe7c8c3BtRwFbL4aw7NndFm6Bx1W-xuZzgoRi7fbbrsBsEQGe5QQG8P7YAsL59oZruJ3RKuZW2ILH1jERAhL5mpEsK8Wm_3MiClCFiCBDM8U_nDoItk8sF9UBzzGEb0l4JcDwP7hB5gk3ckFklCiWiaEQUEeUK9HbKcnUy8S8aAer2aOWbn7ViSJdFeKB_Nwnzb-IGBczylwn3rxgKhxbJGPPkeST1O9kTqqKwCrXeNn_U4UBl5J_BjpQSv4nxuB0kldh441nAG2x0dUDWl7QN6hHiqJG6tITa28HXkvMuiO5UOegXTSI56bzhO8ZCpU1Vox_M5xZiXHr_aKTj_tqbMHhWSIJvJcCuhplRZ0ZRpcJ5VFB8EZfjQAy0g8CimCkN8PFPtrLlRia4ZHSYOxzIoFA1kkQR9PO1OEGMBr1cF0NL-AI8SC4hCw0Y1dGlD9eGvXeto1fzhXI2Len080iPU5VItTKfhgdcms5Esg8PEYbguAKMvMdfJWY3-454HD5COrXMEE7wL2wKwSJ-ceaKbxlxpik_Jtqi0YaSW-lecmuXIByUj6vCmPbg1Iw3dmgKZ819BAnlGHerZYQN5pxTHEoDjGbWak7KiFHO1zPaR0RvlkqwSOwnuIyVWzSdbHH15AzVu78GtHRud8p494FCxPVDsCn_Ud8VE0XLrAoaD3xvmt6LcT-kk4b4pB4Fax_le2oqNpJSME7fBrFy6zL_L_m_-mE0RS3jUTmBcZs8KgDdWPKyoHfzGWcoU5iMxa8mtdGWs8Nft7dAVDPNionOfQKbI6C961IKrwIa8KOeCdiQCZHe2PGfvu41DnDWWDMz40qjY1fRYYb9GvskpgPj87qyMIdvhOXiP3t3yuGskseprvA6erraJbGUGc9eV-QsW1m81ehsZDrnyO4atYv20F7vT11xAf9LgP5f_WCSEb5i-wCJ9PFDgJ2nj3H8dB96R-9sgC78V1eaMvnGae9IKCzkQjQKPVneMbDnQgc__T-Nbln_8izS1KV3XU75tMePJGGu0_scVN1NZ9MjGTMj9RNkbvTPJbI4ta6capj9c-p8dK9YO6xm0rfhFQqtDN6WbFMwPSdJd0hqgp8ks-GHVHhY1dp0WrfTt5gcxWzyUJvMz6bOMBnhfeyBGT-sU7b41YYXzSQwenMLk2dEWX_aYuAz20GcKQINkfBaMo0wWfYJDt8b98CPCCUAAuh4osDuT8Wpd5jg8TIs02-RhP9nNGxMh_7fJvpCXYuzd7clmmSvi6jiFIqUgIp0MexiH7v5inVBUN60kOiPVGVhP8MRN6kdZxWJwmtzK8eolVPUDNExIgicAcCn8LpZXR8JdcnsHtPSGXHypmHWZGXHm9nIPpbal8GBhweycQQZWW8gnkweUXEnG93gFWUIhXTeu4-bRzkU2TxklqEqCwNAC3V5e_wHBgYFsjsDvb5Jrgw6tbi44xsSPklfnnI9asaiwpdmLXg3sFBPW6EeRCy8ZgJzqaqLrXWWQZWHPxTAm2cU9w0Of3gur8jkiNm4NoOoAHEK3sT7PbPzizpuWklUjhzudPGeWsdjWEoyI5RoPE0eGTW34LuYCCYuL8NrQbwQhglr82WXODfC8hg4naJ-lESJfknV32RHP_cl_AWZHIm70N4Z_CHqVSmOqMzUwIE4dV0CAA_nmvt7bFefB7pKotuBP4N-nmXp23RunL1k0GXAWtTr6qSwACBlHN3Bo5dJgG7W3CZd35Cw1DyDeivYrIrt0YOWqwBLJFqPmpKLbiQOxMKGbhHnFBC9VXYCfAoqzsJY5gDzG9EmmvKzVVf483GDbZ5jm4UtVqSv482CPH3O-LiaOicGRENu4_OpanCI4t8KbCSOYw_Nd176igqyCQEDspoe9sNHggFupm4LY661QEQtWa4D9D2id3ZymhrB73uLIInVgY2rvhHQbsVS0EqjseCP0bGsIkTk5HS0uCIhs21twQxhLJltMhY4CEOr8jtVlKqxMGUjfGQb0yQvQ-8Q0GBa6COBxCZwDBfRMDLmJIBUnxENMX7S0MjWGZfdc8SAHsaF1JuB8A5ghDZjg2BVLLAsP1k5NwRSuTc8vvY3peEem1hoI8XAW0YdS2ivLYZy8xnjyCNn5qvHShOnjyFyQ7Xb7gjtfqN_As0jGx1Q6zEZK6swNY9JGQ4p-vK3Eyw1A7xtm5BA1dVpNwS93f8PuJHQvueUIOfB5r8rTroYO01H-JYiwZS-bxMYSyTIVUrSzFKwWnISkY28cY-FeJXcMSUxHfzt08oMyww6jiF1UslfzRtn59RjhmObL8upCjZUiNb11SKAt5J0EnV-MJemWvqKvA3o5A0ZVGsZDktmjMuMXkoBvvZrDbhqbAmbDOlSjOoei8Rtw4iVrhbKsECnYhnF0L1qTYOz0G-iCElEbIgF9h3Tyh19AP47TYO3Vn99ljzQpD29g0tjBxd64cU4VeC4Sfh2xvibuR4iNg_NDtTMcwNbXF9jd-yOUG-Y-SwMsPpL4TDIQAMCnJOttNVT3zlxyhW2V3Q8WRT4tfavUpK6gCaickKcuuTY07jmpQBnu4NauEoiIfXf0F0WfKJie2n11rgLRT7ZUDz09iY2ZTdWXUyu9Fj0K3nkBbkdP3yb93IyBHD_Z7Kvzr1Hk6qI_t_RPJ9Jk7VBOb1o6zzq3X-9ywF_lTMOm8_lYx2ZXW14WxKDnOTHPZKl5jwGVw77zLzpxHZR5oztQ-NXACu3pMTHLi41AVjsHJ9PzyHoNYW68AFB4W5hW-IJ97W9usTFgL68gpccTA7YVQUFmcP8WnzyE_paBcdwgQvcKGi4u3bG4KqR018yAJVz2FB-HfpxeZGzcnWX0-3NIv3fDb_kTmhdeeKAZHziosgJaUorNycMezHiDJxDgL-JYLP_xOxpnh7cGpdVME0TXPZ-Bht1G1tmD5I1zwfya1KsuyObm9pj5n3F-uiDRWYhmDXGsO0dVliDr6TG5FfLF3HlHczBpFs_XDJHc-0NbwjJCtTWpMdtGCJzuekxV2AHtUWDx4czZ3rUk0Y-UmYckyVHj82qCUiUMZFrvkyy5XL1_U6H7kRBJR3c3JtayGTIXBPgFReR0f5Unh1mCITb4GY1jpX07-XYOxpchPgdG6DK4j9V4TqR_7dBSf47FuEoOWPOkr9hNxPoHVK9W3GoK_03RRPQmvVl-dt5aTaW80IW1ghqVEpQ1sXFcNXYe5hFfSgYdn-WWRHOmFvmoMSys3fO91ygZEGGlcLxRbIrGlXLHUrEqWOa0JCmH54LdqQlGBhzRm9ghCLrsKNLvoqLU4jBjJ2tu_trkwOWeaUYXXLBZARSh-W0__q0_0hzW3anZ79Ov914YGj6TbyBqO0b2Jo_hgNZ1L65i-UydLdubshr2GT5aetbvahqbMnp0hwifz-zoxn7hkpE2H2M4vTUatbSRR5LQvR9KNEmiKtZqFl5OU-erHvAFbmjYkXmWC1Y2XNx25rVEhdE1zEDOrsOu_-_YseePER3WHcrVUjpj5wqJMsswOA2ES2LJRC7jkxfHbCbbi5NlLSar92bB_ndFg18Q4-AK3kKyZ-VkqjCJ9RT5bxwez_VBR56sC0SwIJy8iUQ3TcfG2Zg-7z4zsoLVaIdhQ6kEjeAWH5ftdBCdeyGBEmg88bADAR9x03EQjW6Lvwo7xpHNqsX4nICAvtwVzjFkPZ3oMTZecsVgc3NpwJ7raUsd8jCK1DASHnVxgsq480y8giDh27-UMP71L7n293JpxTp1Q9v8mmZanOnV_Diqd8TO2dKHbvIYMpj1YQZA3Z9nNWe8TbLcy7JjgbBnOsYB5oiol9rXx3hPF82NSk0NgIV21GBkxpMAT-Gt4VTAjdhBY4x_v3_idlXRLJLHk8xO5oX5MFi9p6j7YqUo5sRFyVp-MT3fHcr9yXJBiRysup4Rys7tQSU-csvVaRZIVlGjKkmZ-iEeZpek1XKrDWxMO-fSTM7gwB60zs0ni4Su8AqQtzgRc3qjx7ukzDISibOi6kfwzIOrXDUQj7BFKWgL4RBJFv7RwBB_40ify28MQRrPcYfXEA5lBdhG6D0OYo0upLtS_ivqWrjyXXPiQgo2Hg-SlsBx02FwTP9NGqI4L2KNLlcJu2MxGLiTmhU-_ueGnd9lzkzyMS6sFhxFBDD0T_M9_brDDOEV-e3eeZ1d3EQXDU_F3ApyC8YwsLQlkgR5xTF2zLu_U5vc_KjwvNUMUlzxKWfar7yM-y3DVTm4G1x9sSGOCh7F9wp4kSBucI2n07Fytav39JSUADCAdaK53Z1YNovgE0_Wu7cAOgrD42y_bzKbiRYORC3FyQvNiLTUwx2ROxtYSQEy5-h2Y41C-zNt4XSGG3sEiJA99dCESLRAdqxhp2yfq67YFfemXT7hxCJJfQngGfTQkK9bOrVzzOnUk8ZjNT2No5m1r5D9l9GU4mwyIw34V0xjD67v9JP5Piw3BAZT92UX6QP9ENEnNUpQonCf8pGa-q4rQ90EBnaXUbrqK8fsGVymDY5D0f_QOt4YnaPVKQavHL8Fu0KHVN-8lb51DNdRzFD5lPiahx3fTFBB2_WC5wp7HHiMIYh0aEg19qKFW0nsYUUC3EL5cTq_Tq4-iFww8u-tQWTNOIL8YVW3iZFNWujeHX0F86nsUfI2mN4cRYfiTdptqN89qXNyvx8epjk0-8hS5bDvbnJZWLOaGm_imgU34YETNyRzGMnbKJxoZBacysYjnWaE6nZruVvf9N0d-w5TROYtiy2Lbd1wbFdios-8tSgdKpMqH4h3t8ZFUPf_HnFj4vxNJoJRdv9Q3XNT96dbsSeVznhovzKyxOza_jjjE_P6vN8W0vjclyt3bx8mbvMkN5eKHlb3maWf3NW5md0BJ2o9scnMGGsko9aX9R247g-1IgoN03pkTZv81uf9Vd_lBFjx-uNbI2HDntjscGNZr7oCV4RkqQ0r5AhNLDiIdhIvvi39W42jLNzENPZXrZszb6IkDGbBempBwmY63STlqbx9IWZfh2nGhgSEiloo3Jyi4FHCTSzH_foM4wOZr9Vd7ZsV56YaQ8sU8xKjtPyCHNVWDHm5W_VLK28XhVhpd9Mb-2CcgRq_3kxEYgz-U78d8pKUXalLvYM1m9LipxwFUTXn5bknB07l6flJDTf6dqqMiDkjYvvIuVZhEuNH1mHZChZDB92ZeoAI8j_w3Jriityp2SvM1rjIc9Xp3SqxVJPzNm5hFCGVBtHzNPLEvAvQe7mWTE5vpaXyOvp8JKcYaRCBA51MZmTJyIo0dnjqmEAvsW1qgkZSk8_WHal70ps_cag6tT_HwjQP_1Ph0LR-zxs_nURRJgPwRozauUMklDkeqZEfJqPMBu5xgXy7tfAWhGUpP4Rcdw5CMMKkeeRFcsfUv_at974RDxu3_Autpy4ZwsN7674bYq_Z46sdPU8CCM3atygjj_Am_pIAsoMGl7XPg3rHBY1npNS-ImoBxo5elymk1wrPHbNBqepyB79KwQm0-Lvhdr-T7dDpim4RqecAhdOK5TyUSkomBGmTELtGtKnjhRj9X5vy-9uFFb9sBp2uW6Ts6yW3t49qeZHIsvlp_GmPYwV9ahaVtAngMiNNKq2HLc_JXpJkThgyeUFaPqVBU8iJogqi82XhAAosFQSEsi3oTuQ4t9j589DJJfG964JIgl8A0_UX7tKDNHzyFWsEKE0bGSyk83v_XN4_Riz6P9f9XhUtOv_JQUShKEg6rnZN8XCGMnT6xggKvBqHSh4szg2USETxcGZERRWXo0BMr7x6oWjsbgaypqehI3op3j-yDUC9K9rN-OigNw_KC9FZYnhrKyjUAgWfj709y7Qd_clbPHLoP71p2pCW-I2yavnu3NziAwGdLSKC_L5ZBuI3TVngb_t73JbgiuSs_betrLDV1rQsDfWVnHjv1FpnUduoHkf2DGzVJvv1tI2Pv84_mGtp7MdE6l_nMNQVeDUtmQoYUF9ZPvOq3MCgJTmA8AZLCy9wDwc6Ryz_jV_bsLOkLEyn4BpvyK-ZZYpvgTWaTLyECyu_2qSUHaXoV8-ZXTaWaQQL67GXSQOUzhRTENIgJS29OQiPww7pX3GDIkZZVwuQCz9gxnAvYT4b_jSQAlwn0p8OEegAWk9v8qt8EPJG_j7RHYGyeDfG0SKDyfwbLLlf0J9c335RMe3-rWIHX2Wq2lQiAovfkB_pp9QRzBbqQiHVIPa6FqHh1cHqdu0yOeEeoNoj0ObCvUnvhaavWI1nc8qnNW4Ec6gQPxqQGNaUzVB3fua8QPqhuoG76xExWXtwx_7XpgJkboeoUUjM1aeadBe5MuulxSXvs6dCEd2EPt5JtMOl9dwCGHjBp5xyjx6Z6hF8rOwtfTV6JruKU6eYL6JIkJAm5pLfm-bN6O18XNHfONtegaomkP8qwvcH6WrED3kZ2nHFxoOoZt9_tJq5RsRo5VbD7LsnbFz29nifcutC7TbvrFmVIMNYLAPrd6N6acosUUZO5hR55MxSSFt3leEI6E13sp9Xd1UCSugb9nBXgkffBhesOM8UoTSXCN2uD0I9-_5KoxubWx1qOO0WoSBj5aD0e_94pFdtmO6lk-O_lS5jddqejVreqH73Ce79ALq5d3U4EhumffWBOvpEOGlABDtMuK0Q8hcXhcHJsukLOog0aXci--V0RsLrNUSaYN3Gi7F4B8z5nRSd_0MylD3LJRkLcPxRTmZVUkFfusJhYeCpmEbvAETwVNhaJx-PXOKv3SlucTWV1AYNhjTso0SO-i_rLlNzQXY1RgoV1USBItU__9CevjSyv5ukjWUDZDMmyY_6PtLuSd7C68XL_3jhBYvg9YVCE5Bj5DzylqL1HVg9O-O22EhaGa3xKjs0CYqCjkR3qQMy_SGC0YLuIMLKtUtARQkQzMhPnFYGZJLkfbhEQd-2qAZxmu-6HUQ=",
   "salt": "xFoO-lN8xkhKSsvZkGE-gQ==",
-  "text": "Fionn mac Cumhaill kept several hunting hounds. Bran and Sceolan were his primary companions. The hound Adhnúall came with him less often. Adhnúall served the great hero as a lesser companion.",
+  "text": "Fionn mac Cumhaill is the central hero of the Fenian cycle. His birth name was Demne Maél, a name that pointed to his shorn hair and to his links with druids, poets, and craftsmen. He took the name Fionn, \"the fair one,\" after a spectator cried out \"Who is the fair boy?\" when he won an athletic contest and killed the rival who challenged his victory.\n\nAs a boy he became a pupil of the druid and seer Finneéces, who had waited seven years to catch the salmon of knowledge at Linn Feéc, Fiac's Pool, on the Boyne. In one version the boy touched the roasting salmon, burnt his thumb, and put it in his mouth, so the divine knowledge meant for Finneéces passed to him. An older version from the eighth century says he gained the knowledge when he caught his thumb in the door of an otherworldly house on Sliab na mBan, Slievenamon, in County Tipperary.\n\nFionn is always tall, fair-haired, and handsome, with broad shoulders and a broad brow. No portraits of him survive from Irish or Scottish Gaelic tradition, and no notable modern work of art shows him. His usual residence is the Hill of Allen in County Kildare, a site tied to his family.\n\nStorytellers describe him as a superb athlete, a runner and swimmer, and a fighter with sword and spear. He hunts wild boar and deer. Tradition says he slew a serpent in almost every body of water in Ireland, and in many in Scotland and the Isle of Man, though more of these place-names come from Leinster than elsewhere.\n\nHe kept several hunting hounds. Bran and Sceólan were his primary companions. The hound Adhnúall came with him less often and served the great hero as a lesser companion.",
   "okr": {
-    "objective": "Fionn mac Cumhaill is the great hero who kept hunting hounds.",
+    "objective": "Fionn mac Cumhaill is the central hero of the Fenian cycle: his naming, the salmon of knowledge, his person, and his deeds.",
     "key_results": [
-      "Fionn mac Cumhaill kept hunting hounds.",
-      "Bran and Sceolan were his primary companions.",
-      "The hound Adhnúall joined him less often."
+      "Fionn's birth name was Demne Maél; he won the name Fionn after an athletic victory.",
+      "He gained divine knowledge from the salmon of knowledge through his burnt thumb, or from an otherworldly door on Sliab na mBan.",
+      "He is tall, fair-haired, and handsome; his residence is the Hill of Allen in County Kildare.",
+      "He excels as runner, swimmer, and fighter, and slays serpents across Ireland, Scotland, and the Isle of Man.",
+      "His hounds were Bran and Sceólan as primary companions, with Adhnúall a lesser companion."
     ],
-    "evidence": "Monaghan, Encyclopedia of Celtic Mythology and Folklore"
+    "evidence": "Monaghan, Encyclopedia of Celtic Mythology and Folklore, s.v. Fionn mac Cumhaill (MacKillop corpus source article)."
   }
 }
