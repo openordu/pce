@@ -1,0 +1,228 @@
+#!/usr/bin/env python3
+"""Build T82 Koch batch-C manifest: 4 blends (Cailleach, Cernunnos, Camulos,
+Cathbad). Koch 2006 enrichment, own-words CSG-SME1000 prose, verbatim-6
+self-checked against culture.txt + myth.txt."""
+import json, re, unicodedata, os
+
+REPO = "/home/hermes/code/openordu/pce-clawson"
+
+def norm(s):
+    s = unicodedata.normalize("NFKD", s)
+    s = "".join(c for c in s if not unicodedata.combining(c))
+    s = s.lower().replace("’", "'").replace("‘", "'")
+    s = re.sub(r"[^a-z0-9' ]", " ", s)
+    return " ".join(s.split())
+
+corpus = ""
+for c in ("sources/culture.txt", "sources/myth.txt"):
+    corpus += norm(open(os.path.join(REPO, c), encoding="utf-8", errors="replace").read()) + "\n"
+ct = corpus.split()
+CORPUS6 = {" ".join(ct[i:i+6]) for i in range(len(ct) - 5)}
+
+ISSUES = {}
+
+def lint(text, label):
+    issues = []
+    assert "\n" not in text, label + ": newline"
+    if ";" in text:
+        issues.append("semicolon")
+    low = " " + text.lower() + " "
+    for bad in (" very ", " really ", " truly ", " extremely ", " incredibly "):
+        if bad in low:
+            issues.append("intensifier " + bad.strip())
+    for s in re.split(r"(?<=[.!?]) ", text):
+        if len(s.split()) > 30:
+            issues.append("long sentence (" + str(len(s.split())) + "w): " + s[:60])
+    assert len(text) >= 150, label + ": text <150"
+    toks = norm(text).split()
+    for i in range(len(toks) - 5):
+        run = " ".join(toks[i:i+6])
+        if run in CORPUS6:
+            issues.append("verbatim-6 [" + run + "]")
+    if issues:
+        ISSUES[label] = issues
+
+ALLOWED = {"Person", "Place", "Deity", "Being", "Creature", "Event", "Artifact",
+           "Concept", "Culture", "Group", "Animal", "Object", "Role", "Title",
+           "Festival", "Motif", "Country", "Plant", "Saint", "Organization"}
+
+M = {}
+
+def blend(fn, cite, text, ents_new, attrs_new, okr):
+    lint(text, fn)
+    for e, t in ents_new:
+        assert t in ALLOWED, fn + ": type " + t
+    M[fn] = {"text": text,
+             "entities": [{"entity": e, "type": t} for e, t in ents_new],
+             "attributes": [{"entity": e, "attribute": a} for e, a in attrs_new],
+             "okr": okr,
+             "add_sources": [cite]}
+
+# ---------- 1. Cailleach ----------
+blend("Cailleach.json", "Koch 2006, s.v. 'Cailleach Bhéirre'.",
+ "The Cailleach is a goddess and a hag of Scotland and Ireland. "
+ "Her name means the veiled one or the hooded one, and modern Gaelic still uses it for an old woman. "
+ "Folk-tales make her older than the Celtic gods. "
+ "She shaped the mountains, and the rocks fell from her apron. "
+ "One tale has her dragging the land along on a straw rope. The rope parted, and the islands of Scariff and Deenish were left behind. "
+ "A strike of her staff turned a bull into a stone island. "
+ "She had one eye and a grey-blue skin. "
+ "She guarded the wildwood and punished hunters who killed a beast with young. "
+ "She granted the rule of the land to a chosen king. "
+ "When the king held the hag in his arms she became a young girl, a sign of the land renewed. "
+ "In Munster she was the Hag of Beare, and her second name, the cow, spoke of plenty. "
+ "Winter obeyed her, and she gave way to Bride at the turn of spring. "
+ "The poem Cailleach Bhéirre, or the old woman of Beare, is one of the finest works of early Irish verse. "
+ "It probably dates from the late ninth century and holds thirty-four quatrains plus a later addition. "
+ "An old woman contrasts the loneliness and privations of age with the joys of her youth. "
+ "No one knows who composed it, a woman or a professional poet, and its female voice gives it deep power in the Irish tradition. "
+ "The best manuscript copy opens with a prose introduction that was once separate. "
+ "B. K. Martin read the poem as contempt for the world and found Latin influence in it. "
+ "Proinsias Mac Cana saw its true subject as the conflict between Christianity and the world of pagan belief, a clash that left the pagan side conquered and poor. "
+ "John Carey held that the old woman is Christian and looks toward death, not rebirth. "
+ "The poet sets the decay of the human body against the endless renewal of nature, the sea flooding after ebb and the land bearing a new crop. "
+ "The word brat, a cloak, appears in a few images, including the green cloak of the King spread over Drumain.",
+ [("Cailleach", "Being"), ("Hag of Beare", "Being"), ("Cailleach Bhéirre", "Title"),
+  ("Scotland", "Place"), ("Ireland", "Place"), ("Munster", "Place"),
+  ("Scariff and Deenish", "Place"), ("Bride", "Deity"),
+  ("B. K. Martin", "Person"), ("Proinsias Mac Cana", "Person"), ("John Carey", "Person"),
+  ("deer", "Animal"), ("hare", "Animal")],
+ [("Cailleach", "means the veiled one or the hooded one"),
+  ("Cailleach", "shaped the mountains and left the islands of Scariff and Deenish"),
+  ("Cailleach", "granted the rule of the land to a chosen king"),
+  ("Cailleach", "known in Munster as the Hag of Beare"),
+  ("Cailleach Bhéirre", "a late ninth-century poem of thirty-four quatrains"),
+  ("Cailleach Bhéirre", "its old woman contrasts age with the joys of youth"),
+  ("B. K. Martin", "read the poem as contempt for the world with Latin influence"),
+  ("Proinsias Mac Cana", "saw the poem as the conflict of Christianity and pagan belief"),
+  ("John Carey", "held the old woman to be Christian, looking to death not rebirth")],
+ {"objective": "Record the Cailleach as winter hag and as the voice of the great Beare poem.",
+  "key_results": ["Her name means the veiled one, and tales link her to mountain shaping, wildwood, and kingship.",
+                  "In Munster she was the Hag of Beare, and winter gave way to Bride at spring.",
+                  "The poem Cailleach Bhéirre, late ninth century, holds thirty-four quatrains of an old woman's lament.",
+                  "Martin, Mac Cana, and Carey read the poem as the clash of age and renewal or of Christianity and the pagan world."],
+  "evidence": "Monaghan 2003, s.v. Cailleach; Koch 2006, s.v. 'Cailleach Bhéirre'."})
+
+# ---------- 2. Cernunnos ----------
+blend("Cernunnos.json", "Koch 2006, s.v. 'Cernunnos'.",
+ "Cernunnos was one of the most ancient gods of the Celts. "
+ "His representative features are antlers or horns on the head, torcs around the neck, stags beside him, and ram-horned snakes in his company. "
+ "Modern writers often call him the lord of the animals. "
+ "The name Cernunnos comes down in only one ancient attestation. "
+ "The one ancient text that names him is the Nautae Parisiaci monument, raised by the Gaulish sailors of the Parisi people. "
+ "No other text names him. "
+ "The famous image on the Gundestrup Cauldron shows him seated cross-legged. "
+ "Some writers have called the pose a Buddha position or a lotus position. Koch rejects both terms as inaccurate, since they imply a link to south and east Asian traditions. "
+ "The same cross-legged god appears on the rock carving of Val Camonica. "
+ "Antlered goddesses are known from Clermont-Ferrand and Besançon. "
+ "In Britain his image appears on a carving from Corinium, the Romano-British town now called Cirencester. A single coin from Petersfield in Hampshire also shows him. "
+ "Cernunnos wears stag antlers, not the horns of a farm animal, which links him to the wildwood. "
+ "Deer shed antlers each autumn and grow them again in spring, so the god follows the seasonal cycle. "
+ "He often carries a torc, a mark of rank, and symbols of plenty such as the cornucopia. "
+ "His myths do not survive. "
+ "Many believe the horned devil figure of later art grew from his image.",
+ [("Cernunnos", "Deity"), ("Gundestrup Cauldron", "Artifact"),
+  ("Nautae Parisiaci", "Group"), ("Val Camonica", "Place"),
+  ("Corinium", "Place"), ("Cirencester", "Place"), ("Petersfield", "Place"),
+  ("Clermont-Ferrand", "Place"), ("Besançon", "Place"),
+  ("torc", "Artifact"), ("stag", "Animal"), ("deer", "Animal"),
+  ("snake", "Animal"), ("cornucopia", "Artifact"), ("horned devil", "Being")],
+ [("Cernunnos", "wears antlers or horns with torcs, stags, and ram-horned snakes"),
+  ("Cernunnos", "known to modern writers as the lord of the animals"),
+  ("Nautae Parisiaci", "their monument carries the single attestation of the name"),
+  ("Gundestrup Cauldron", "shows him seated cross-legged, a pose Koch calls misread as Buddha or lotus"),
+  ("Cernunnos", "appears at Val Camonica, Corinium, and on a coin from Petersfield"),
+  ("Cernunnos", "wears stag antlers, tying him to the wildwood and the seasonal cycle")],
+ {"objective": "Record Cernunnos, the antlered god known from one naming inscription and many images.",
+  "key_results": ["His features are antlers, torcs, stags, and ram-horned snakes, read as the lord of the animals.",
+                  "The Nautae Parisiaci monument gives the only ancient attestation of his name.",
+                  "The Gundestrup Cauldron shows him cross-legged, a pose Koch rejects as Buddha or lotus.",
+                  "His images run from Val Camonica to Corinium and a coin from Petersfield."],
+  "evidence": "Monaghan 2003, s.v. Cernunnos; Koch 2006, s.v. 'Cernunnos'."})
+
+# ---------- 3. Camulos ----------
+blend("Camulos.json", "Koch 2006, s.v. 'Camulodunon'.",
+ "Camulos is a British god. "
+ "His name opens the place-name Camulodunon, today Colchester in Essex, and the compound holds the sense of the fort of Camulos. "
+ "Koch records the god's name extensively across the Continent, in inscriptions from Iberia, including Galicia, as far east as Galatia. "
+ "Camulodunon was a great Iron Age stronghold, raised before the Romans came. "
+ "It started as the main stronghold of the Trinovantes and later became their civitas under Rome. "
+ "Around the year ad 5 the Catuvellauni leader Cunobelinos took the site and raised a new capital at Sheepen Farm. "
+ "Straight dykes between the rivers Colne and Roman enclosed a territory of thirty-one square kilometres, and no other oppidum in Britain matched its size. "
+ "Camulodunon became the chief mint of Cunobelinos, whose coins carry the name in short forms such as CAM, CAMV, and CAMVL. "
+ "When Claudius invaded in ad 43, the settlement became the seat of the new province of Britannia. "
+ "A colonia for veteran soldiers was founded after ad 49, and a temple honoured the divinized Emperor Claudius. "
+ "The temple and the seizure of land for colonists fed the revolt of Boudicca in ad 60 or 61, when the colony was destroyed and its people killed. "
+ "Camulodunon recovered slowly, and London took over as the capital of the province. "
+ "The invading Romans linked Camulos to their war god Mars. "
+ "Some scholars pair Camulos with the Irish ancestor Cumhall, the sire of Fionn Mac Cumhaill.",
+ [("Camulos", "Deity"), ("Camulodunon", "Place"), ("Colchester", "Place"),
+  ("Trinovantes", "Group"), ("Cunobelinos", "Person"), ("Sheepen Farm", "Place"),
+  ("Colne", "Place"), ("Roman", "Place"), ("Britannia", "Place"),
+  ("Claudius", "Person"), ("Boudicca", "Person"), ("Iberia", "Place"),
+  ("Galicia", "Place"), ("Galatia", "Place"), ("Mars", "Deity"),
+  ("Cumhall", "Person"), ("Fionn Mac Cumhaill", "Person")],
+ [("Camulos", "his name opens Camulodunon, the fort of Camulos, today Colchester"),
+  ("Camulos", "attested in inscriptions from Iberia to Galatia"),
+  ("Camulodunon", "the chief seat of the Trinovantes, taken by Cunobelinos around ad 5"),
+  ("Camulodunon", "no other oppidum in Britain matched its size"),
+  ("Cunobelinos", "minted coins bearing CAM, CAMV, and CAMVL at Camulodunon"),
+  ("Camulodunon", "a colony destroyed in Boudicca's revolt of ad 60 or 61"),
+  ("Camulos", "linked by the Romans to Mars and by scholars to Cumhall")],
+ {"objective": "Record Camulos, the god behind Camulodunon, and the oppidum that bore his name.",
+  "key_results": ["His name opens Camulodunon, the fort of Camulos, today Colchester.",
+                  "Inscriptions attest the god from Iberia, including Galicia, to Galatia.",
+                  "Camulodunon became Cunobelinos's mint and the largest oppidum in Britain.",
+                  "The colony fell in Boudicca's revolt, and London then took the capital from it."],
+  "evidence": "Monaghan 2003, s.v. Camulos; Koch 2006, s.v. 'Camulodunon'."})
+
+# ---------- 4. Cathbad ----------
+blend("Cathbad.json", "Koch 2006, s.v. 'Cathbad'.",
+ "Cathbad is a druid of the Ulster Cycle, the early Irish tales of the kingdom of the Ulaid. "
+ "His social function is generally given as druí, the druid. Scholars use him as a test case for how far the early Christian Irish literature opens a window on pre-Christian society and religion. "
+ "The essay of Jackson, The Oldest Irish Tradition, made him a standard example. "
+ "The Táin Bó Cuailnge carries the tale of Cú Chulainn's boyhood deeds. In it Cathbad inspires the hero to take arms at an unusually early age by declaring the day auspicious. "
+ "In Longas mac nUislenn he foretells the birth of Derdriu and the tragedy she will bring. "
+ "He also appears in Mesca Ulad and in Fled Bricrenn. "
+ "He is the father of Findchoem, a noblewoman of amusing envy who is the wife of the contending hero Conall Cernach. "
+ "The older stories give him a darker past. "
+ "He longed for the bookish Assa, murdered her guardians to reach her, caught her as she bathed, forced himself upon her, and made her his taken concubine. "
+ "A version of Conchobar's begetting story, Compert Conchobuir, shows him as a fénnid, a tribeless warrior, as well as a druid. "
+ "He compels Nes, the future king's mother, into the match. "
+ "The tale allows that another lover, or else a worm swallowed in a drink, could have impregnated Nes. "
+ "Cathbad, as druid and soothsayer, decides the day of the birth. "
+ "He arranges the birth to fall on the same day as the birth of Jesus, an event he also foresees. "
+ "In this way he fixes the destiny of the infant king. "
+ "After this he instructs Conchobar's champion Cú Chulainn and sires Findchoem.",
+ [("Cathbad", "Person"), ("Ulster Cycle", "Title"), ("druid", "Role"),
+  ("Cú Chulainn", "Person"), ("Táin Bó Cuailnge", "Title"),
+  ("Longas mac nUislenn", "Title"), ("Derdriu", "Person"),
+  ("Mesca Ulad", "Title"), ("Fled Bricrenn", "Title"),
+  ("Findchoem", "Person"), ("Conall Cernach", "Person"),
+  ("Assa", "Person"), ("Nes", "Person"), ("Conchobar mac Nessa", "Person"),
+  ("Compert Conchobuir", "Title"), ("fían", "Concept")],
+ [("Cathbad", "a druid of the Ulster Cycle, standard evidence for pre-Christian society"),
+  ("Cathbad", "inspires Cú Chulainn to take arms on an auspicious day"),
+  ("Cathbad", "foretells Derdriu's birth and her tragedy in Longas mac nUislenn"),
+  ("Cathbad", "father of Findchoem, wife of the contending hero Conall Cernach"),
+  ("Cathbad", "forced himself upon Assa, who became Nessa"),
+  ("Cathbad", "acts as a fénnid and forces Nes into marriage"),
+  ("Cathbad", "sets the king's birth to coincide with the birth of Jesus"),
+  ("Cathbad", "instructed Cú Chulainn and sired Findchoem")],
+ {"objective": "Record Cathbad, the prophetic druid of the Ulster Cycle and a key witness for pre-Christian society.",
+  "key_results": ["Scholars treat his druí role as evidence for pre-Christian religion, as in Jackson's essay.",
+                  "He inspires Cú Chulainn to take arms and foretells Derdriu's tragedy.",
+                  "He fathers Findchoem, wife of Conall Cernach, and appears in Mesca Ulad and Fled Bricrenn.",
+                  "In Compert Conchobuir he forces Nes into marriage and fixes the king's birth to the day of Jesus's birth."],
+  "evidence": "Monaghan 2003, s.v. Cathbad; Koch 2006, s.v. 'Cathbad'."})
+
+out = os.path.join(REPO, "rewrite/patch/t82_koch_c.json")
+if ISSUES:
+    for k, v in ISSUES.items():
+        print("ISSUES", k)
+        for i in v:
+            print("   ", i)
+    raise SystemExit(1)
+json.dump(M, open(out, "w", encoding="utf-8"), indent=1, ensure_ascii=False)
+open(out, "a", encoding="utf-8").write("\n")
+print("BUILD-OK", len(M), [k for k in M])

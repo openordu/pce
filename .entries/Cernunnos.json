@@ -1,90 +1,111 @@
 {
-  "name": "Cernunnos",
-  "attributes": [
-    {
-      "entity": "Cernunnos",
-      "attribute": "one of the most ancient Celtic gods"
-    },
-    {
-      "entity": "Cernunnos",
-      "attribute": "known as the horned one"
-    },
-    {
-      "entity": "Cernunnos",
-      "attribute": "wears the antlers of a stag"
-    },
-    {
-      "entity": "Cernunnos",
-      "attribute": "appears with wild and farm animals as the Master of Animals"
-    },
-    {
-      "entity": "Cernunnos",
-      "attribute": "bears a torc, a symbol of high status"
-    },
-    {
-      "entity": "Cernunnos",
-      "attribute": "depicted with the cornucopia and moneybag as symbols of plenty"
-    },
-    {
-      "entity": "horned devil",
-      "attribute": "an image thought to come from Cernunnos"
-    }
-  ],
-  "entities": [
-    {
-      "entity": "Cernunnos",
-      "type": "god"
-    },
-    {
-      "entity": "France",
-      "type": "location"
-    },
-    {
-      "entity": "Gundestrup Cauldron",
-      "type": "artifact"
-    },
-    {
-      "entity": "stag",
-      "type": "animal"
-    },
-    {
-      "entity": "deer",
-      "type": "animal"
-    },
-    {
-      "entity": "torc",
-      "type": "artifact"
-    },
-    {
-      "entity": "cornucopia",
-      "type": "artifact"
-    },
-    {
-      "entity": "moneybag",
-      "type": "artifact"
-    },
-    {
-      "entity": "horned devil",
-      "type": "being"
-    }
-  ],
-  "sources": [
-    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-  ],
-  "image": [
-    "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Gundestrupkedlen-_00054_%28cropped%29.jpg/1200px-Gundestrupkedlen-_00054_%28cropped%29.jpg"
-  ],
-  "cyphertext": "5bIpb18kjRb9ELv8oVHkNl__37DzfYEN-BHoQ1sJYDFB8vCmDsHKT36Bel-mc8kE5g99JxQI1IjqJqKFQr3RjAcwvpXKrMzGuCGsZi_UyvWkoX3c1gFF06vw61KumNZGSrDc7uN-yodxKCaZ2ZoS2VTqCscEaYTA8KyWBv5gseqOGntLlm6T7issiIOqUeKiqgbO6sUmkE0W2GoeZk7ZgRBuA7pjrIfV1kI8PX-pZjjdZMFVw1kYZai-hTB0iLJwDWrg1Kq4SLq6Lpu1vq4qSorpYPktvaS1SPqkIFqEpN2nCjv8J9Y44PbwZSiVtN3YUBh44IJry0FcteFi3HQaGiYViDATWeuFEyS97ECO6MPXw4XNNe00de3YUi4Vs-fZhDYM7NLqMCWvprgwcQZBC4W9S27gTMeZuLO72W66sXICmZCwRZvqfvamjg2Vzqf5HpOISNwK6R7C7qsj5V_Y4Zgy_or21dV3leP57zjYdRxfUY4kAgYvfqWPF_SA8MNPf2sLkpJTLR6PRIpFh3ce2bQChQ0PJrE_-tDX0NjDtrtB9FhDTEwghgeaJOxr9k_FGsfNgyeyI0IdJGjxzoOKr12pAp02E8Rc1sCGJIWk_BJbx92hf0gPVOpjRJDGpQ5SUwbqsbPLFntgXXQM-imicTiJ-v_0Fb022uNAU6ubFOJTR5_fb91uq02iWIsMyIr6biQ_dpA_PwN9ASrwia_W55hRubzOs6s9NU4tSeMzkwJq-W4KGib7W4ecBCgZCBAFLxpsTjAiotAyhWj94tSqZc9v4SWGwVdO-83a4PWdj21woNU_pERwc_6IkQD7fTvM9mnxPmhfJlTBGrPiUbIaRTmufVIAEk8mCZWwdZqYKkS5IRDqH-MPvO9YbwD1mcA_FkudPoAbPVtnOZvS7fKrzcwGb589i7FJwKpt3x9gfl11lXlhBeqgivlOLK34a9CsIZPwkygex3WFzov4LpY0xPPWNhDBIYnhsK7c7DC2xT-9VG31wZB9v2V1QcofXF-7vp2xuhsCHGlosWNsf_wko8CpD3046JiEaleNHhNdhViQjFltIEjZOA1yJ3rSFJl_Yro-TI16zPy0yUM2xmUSUEj0ArL5aGsOzJBbEvTprlhqz2DPU-MJh7S8q-ObvPgoCsjQ3L4oVtR6_Th98UOEyNGPbOS3fEQLRatYgRh8b5Fcx5SkzW9FmM4LwXb1jB6gvZA_FsPXT5KNlZseIlC8GxpNdUu35jnmc34i1NArP_Dh-4RpDyt_mr-7eGITEm-0bBLvcl4ghhNVZiC6KRanbv8vJIXZD1goDhd8-Asam8og8jNeBNPKM6SJkhy3-VfAvRQoG0uAoEfB4Ni0SeU8GhQvswP0sSogMPu4dTbHOYxjNxX3QKWOr4LIXpEOf1OXEHnTCCmnk0GLJbY0qjxc1RM4hjdqunvEpGP14s2BkWBebs8U92btZETo4Tg6u7dqG4hvHuPCjgxsBbQbODEDduh_yJtL6BjhleAxbQBTBtSg_zkpC_hsN_jnWQqFKXuwIVgGeXEQ2yNlcMq1ruZHAp-vig350H-PQLUKndiDMbBMzqhhRy5Qxojx7ScaaC62w9_eG1-wFcIXh2TnDs9wmMLxBjZBBxiEpdd2LdDhfboypI0SH0pd5K3jiYCjDhXMaPcEEGzX6c4FTFahU_Wj18z6ldUVnl2gNcyxiQlwUdlwe_RorfTUzFaty81FlyELcLAv8dzsBa7HJcs0UzPHncVztGWyFzLJVR8=",
-  "salt": "SQGmHOCX-hFpwBKr63upzw==",
-  "text": "Cernunnos was a Celtic god, one of the most ancient of the Celts. His name and image appear among both continental and insular Celtic peoples. Both go back as far as the fourth century BCE. His name appears in just one inscription from France. The meaning, the horned one, comes from images rather than from language. The image of the horned god appears on the Gundestrup Cauldron. Cernunnos wears the antlers of a stag, not the horns of a farm animal. This links him to the powers of the wildwood. Deer sprout antlers in spring and shed them in autumn. This ties Cernunnos to the seasonal cycle. In nearly every image he appears with animals, both wild and tame. People called him the Master of Animals. He often bears a torc, a symbol of high status. He may stand for abundance and prosperity. He is usually shown with symbols of plenty, such as the cornucopia and the moneybag. No records of his myths survive. His image remains common today. Many think the horned devil image came from Cernunnos.",
-  "okr": {
-    "objective": "Cernunnos is an ancient horned Celtic god linked to animals and plenty.",
-    "key_results": [
-      "His name appears in a single inscription from France.",
-      "He wears stag antlers and appears with animals as the Master of Animals.",
-      "He bears a torc and symbols of plenty such as the cornucopia.",
-      "His image is thought to be the source of the horned devil."
-    ],
-    "evidence": "Monaghan, Encyclopedia of Celtic Mythology and Folklore"
+ "name": "Cernunnos",
+ "attributes": [
+  {
+   "entity": "Cernunnos",
+   "attribute": "wears antlers or horns with torcs, stags, and ram-horned snakes"
+  },
+  {
+   "entity": "Cernunnos",
+   "attribute": "known to modern writers as the lord of the animals"
+  },
+  {
+   "entity": "Nautae Parisiaci",
+   "attribute": "their monument carries the single attestation of the name"
+  },
+  {
+   "entity": "Gundestrup Cauldron",
+   "attribute": "shows him seated cross-legged, a pose Koch calls misread as Buddha or lotus"
+  },
+  {
+   "entity": "Cernunnos",
+   "attribute": "appears at Val Camonica, Corinium, and on a coin from Petersfield"
+  },
+  {
+   "entity": "Cernunnos",
+   "attribute": "wears stag antlers, tying him to the wildwood and the seasonal cycle"
   }
+ ],
+ "entities": [
+  {
+   "entity": "Cernunnos",
+   "type": "Deity"
+  },
+  {
+   "entity": "Gundestrup Cauldron",
+   "type": "Artifact"
+  },
+  {
+   "entity": "Nautae Parisiaci",
+   "type": "Group"
+  },
+  {
+   "entity": "Val Camonica",
+   "type": "Place"
+  },
+  {
+   "entity": "Corinium",
+   "type": "Place"
+  },
+  {
+   "entity": "Cirencester",
+   "type": "Place"
+  },
+  {
+   "entity": "Petersfield",
+   "type": "Place"
+  },
+  {
+   "entity": "Clermont-Ferrand",
+   "type": "Place"
+  },
+  {
+   "entity": "Besançon",
+   "type": "Place"
+  },
+  {
+   "entity": "torc",
+   "type": "Artifact"
+  },
+  {
+   "entity": "stag",
+   "type": "Animal"
+  },
+  {
+   "entity": "deer",
+   "type": "Animal"
+  },
+  {
+   "entity": "snake",
+   "type": "Animal"
+  },
+  {
+   "entity": "cornucopia",
+   "type": "Artifact"
+  },
+  {
+   "entity": "horned devil",
+   "type": "Being"
+  }
+ ],
+ "sources": [
+  "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.",
+  "Koch 2006, s.v. 'Cernunnos'."
+ ],
+ "image": [
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Gundestrupkedlen-_00054_%28cropped%29.jpg/1200px-Gundestrupkedlen-_00054_%28cropped%29.jpg"
+ ],
+ "cyphertext": "5bIpb18kjRb9ELv8oVHkNl__37DzfYEN-BHoQ1sJYDFB8vCmDsHKT36Bel-mc8kE5g99JxQI1IjqJqKFQr3RjAcwvpXKrMzGuCGsZi_UyvWkoX3c1gFF06vw61KumNZGSrDc7uN-yodxKCaZ2ZoS2VTqCscEaYTA8KyWBv5gseqOGntLlm6T7issiIOqUeKiqgbO6sUmkE0W2GoeZk7ZgRBuA7pjrIfV1kI8PX-pZjjdZMFVw1kYZai-hTB0iLJwDWrg1Kq4SLq6Lpu1vq4qSorpYPktvaS1SPqkIFqEpN2nCjv8J9Y44PbwZSiVtN3YUBh44IJry0FcteFi3HQaGiYViDATWeuFEyS97ECO6MPXw4XNNe00de3YUi4Vs-fZhDYM7NLqMCWvprgwcQZBC4W9S27gTMeZuLO72W66sXICmZCwRZvqfvamjg2Vzqf5HpOISNwK6R7C7qsj5V_Y4Zgy_or21dV3leP57zjYdRxfUY4kAgYvfqWPF_SA8MNPf2sLkpJTLR6PRIpFh3ce2bQChQ0PJrE_-tDX0NjDtrtB9FhDTEwghgeaJOxr9k_FGsfNgyeyI0IdJGjxzoOKr12pAp02E8Rc1sCGJIWk_BJbx92hf0gPVOpjRJDGpQ5SUwbqsbPLFntgXXQM-imicTiJ-v_0Fb022uNAU6ubFOJTR5_fb91uq02iWIsMyIr6biQ_dpA_PwN9ASrwia_W55hRubzOs6s9NU4tSeMzkwJq-W4KGib7W4ecBCgZCBAFLxpsTjAiotAyhWj94tSqZc9v4SWGwVdO-83a4PWdj21woNU_pERwc_6IkQD7fTvM9mnxPmhfJlTBGrPiUbIaRTmufVIAEk8mCZWwdZqYKkS5IRDqH-MPvO9YbwD1mcA_FkudPoAbPVtnOZvS7fKrzcwGb589i7FJwKpt3x9gfl11lXlhBeqgivlOLK34a9CsIZPwkygex3WFzov4LpY0xPPWNhDBIYnhsK7c7DC2xT-9VG31wZB9v2V1QcofXF-7vp2xuhsCHGlosWNsf_wko8CpD3046JiEaleNHhNdhViQjFltIEjZOA1yJ3rSFJl_Yro-TI16zPy0yUM2xmUSUEj0ArL5aGsOzJBbEvTprlhqz2DPU-MJh7S8q-ObvPgoCsjQ3L4oVtR6_Th98UOEyNGPbOS3fEQLRatYgRh8b5Fcx5SkzW9FmM4LwXb1jB6gvZA_FsPXT5KNlZseIlC8GxpNdUu35jnmc34i1NArP_Dh-4RpDyt_mr-7eGITEm-0bBLvcl4ghhNVZiC6KRanbv8vJIXZD1goDhd8-Asam8og8jNeBNPKM6SJkhy3-VfAvRQoG0uAoEfB4Ni0SeU8GhQvswP0sSogMPu4dTbHOYxjNxX3QKWOr4LIXpEOf1OXEHnTCCmnk0GLJbY0qjxc1RM4hjdqunvEpGP14s2BkWBebs8U92btZETo4Tg6u7dqG4hvHuPCjgxsBbQbODEDduh_yJtL6BjhleAxbQBTBtSg_zkpC_hsN_jnWQqFKXuwIVgGeXEQ2yNlcMq1ruZHAp-vig350H-PQLUKndiDMbBMzqhhRy5Qxojx7ScaaC62w9_eG1-wFcIXh2TnDs9wmMLxBjZBBxiEpdd2LdDhfboypI0SH0pd5K3jiYCjDhXMaPcEEGzX6c4FTFahU_Wj18z6ldUVnl2gNcyxiQlwUdlwe_RorfTUzFaty81FlyELcLAv8dzsBa7HJcs0UzPHncVztGWyFzLJVR8=",
+ "salt": "SQGmHOCX-hFpwBKr63upzw==",
+ "text": "Cernunnos was one of the most ancient gods of the Celts. His representative features are antlers or horns on the head, torcs around the neck, stags beside him, and ram-horned snakes in his company. Modern writers often call him the lord of the animals. The name Cernunnos comes down in only one ancient attestation. The one ancient text that names him is the Nautae Parisiaci monument, raised by the Gaulish sailors of the Parisi people. No other text names him. The famous image on the Gundestrup Cauldron shows him seated cross-legged. Some writers have called the pose a Buddha position or a lotus position. Koch rejects both terms as inaccurate, since they imply a link to south and east Asian traditions. The same cross-legged god appears on the rock carving of Val Camonica. Antlered goddesses are known from Clermont-Ferrand and Besançon. In Britain his image appears on a carving from Corinium, the Romano-British town now called Cirencester. A single coin from Petersfield in Hampshire also shows him. Cernunnos wears stag antlers, not the horns of a farm animal, which links him to the wildwood. Deer shed antlers each autumn and grow them again in spring, so the god follows the seasonal cycle. He often carries a torc, a mark of rank, and symbols of plenty such as the cornucopia. His myths do not survive. Many believe the horned devil figure of later art grew from his image.",
+ "okr": {
+  "objective": "Record Cernunnos, the antlered god known from one naming inscription and many images.",
+  "key_results": [
+   "His features are antlers, torcs, stags, and ram-horned snakes, read as the lord of the animals.",
+   "The Nautae Parisiaci monument gives the only ancient attestation of his name.",
+   "The Gundestrup Cauldron shows him cross-legged, a pose Koch rejects as Buddha or lotus.",
+   "His images run from Val Camonica to Corinium and a coin from Petersfield."
+  ],
+  "evidence": "Monaghan 2003, s.v. Cernunnos; Koch 2006, s.v. 'Cernunnos'."
+ }
 }

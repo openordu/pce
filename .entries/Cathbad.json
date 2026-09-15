@@ -1,99 +1,120 @@
 {
-  "name": "Cathbad",
-  "attributes": [
-    {
-      "entity": "Cathbad",
-      "attribute": "a Druid of the Ulster Cycle"
-    },
-    {
-      "entity": "Cathbad",
-      "attribute": "served the court of King Concobar"
-    },
-    {
-      "entity": "Cathbad",
-      "attribute": "had Assa's tutors killed"
-    },
-    {
-      "entity": "Cathbad",
-      "attribute": "raped Nessa and kept her a prisoner"
-    },
-    {
-      "entity": "Nessa",
-      "attribute": "became a warrior out of Assa"
-    },
-    {
-      "entity": "worm",
-      "attribute": "made Nessa conceive a hero when swallowed"
-    },
-    {
-      "entity": "Cathbad",
-      "attribute": "taught the hero Cúchulainn"
-    },
-    {
-      "entity": "Cathbad",
-      "attribute": "father of the heroine Findchóem"
-    },
-    {
-      "entity": "Cathbad",
-      "attribute": "prophesied Deirdre would sorrow Ulster"
-    }
-  ],
-  "entities": [
-    {
-      "entity": "Cathbad",
-      "type": "person"
-    },
-    {
-      "entity": "Concobar mac Nessa",
-      "type": "person"
-    },
-    {
-      "entity": "Nessa",
-      "type": "person"
-    },
-    {
-      "entity": "Assa",
-      "type": "person"
-    },
-    {
-      "entity": "Cúchulainn",
-      "type": "hero"
-    },
-    {
-      "entity": "Findchóem",
-      "type": "person"
-    },
-    {
-      "entity": "Deirdre",
-      "type": "person"
-    },
-    {
-      "entity": "Ulster",
-      "type": "location"
-    },
-    {
-      "entity": "Ulster Cycle",
-      "type": "concept"
-    },
-    {
-      "entity": "Druid",
-      "type": "person"
-    }
-  ],
-  "sources": [
-    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-  ],
-  "cyphertext": "7AR_tGWDmdgOW5EeIquUZka8tk3BrgFhtmOXDBaGd1zsggL0WhortY8WEkcnpj-R7t4OgzC3r_oZPA8j9cmY1Z5S43YO2r-TDMjF2W7TUnZjONYd8xGSvMOpX3gm2YFBOIl_knPQwLYtT51rY4JiJUpLSeDB2niwZ1cQO_RQQog8X1xb1GUohoBL4tE_4BbFWcAnal8nM9wq48PQs_aWmnhMWsj3zabAULzbHXqar3zld7g9UFCV0UmvCG-tQJVVYl54Q5Xu7ot65iIQYyFFr78dAIeejCFT6qNzEWohmiqj59wMGyCT44V1b7ZU3A1gGZ90rROwb6cdMv80umsoU0gj2-FYpiLwb5ZD2_pDBFg87Jh_aioR4bIMOv1NuttqBbpKaYqdlk7WN24j0yz_SoLV94QlHWZQmnKQvTGHRKcJa35GnG87SAJC6L5L0KjT_7JVNaV3ZxXIrwKEJKRfHVlx1wGi0ANTSGhO3-5PEw3EiAGNKHrPNO8hrbCpWTm1OWhFs_HoWHmZRuwsAJRJQVvdsSgvywl0ZJnbQ-Ly7Yx9WYQSNzFwM2RpZuqcHfTeAHNuNc_2CGqTmvdI9IQ5k-I4PILv6Z3q3Md8KAw2rzi-eGr7gA6EKRGTjPFNRkvwyKdQ3LZ3daNzYy97N2LVcBQtPKD9qnwRMn3ZJ87L-yxCm6TJn214tvp_ocJ2iqZsqneTTB2Ojp7l2P5Q0a1q9MQ9WVKncizkk1R8pIttdDkU6rSRt-x0em_lBPYm1CsJxZF7_cmdmVrmL40aCRBPzpY94Uzd0KwJ7_63IRawmEWKnbCcBSGsBdLajPahNmTsAIaaTLFQtumKHfupCzTDRRXIhxzBvMpcd-CWkydnxfDmMiK2yKm8KfT3zzn-fajsi3e4KhZ3Lq9_7gBb1eXYcQkyz2S8gZkdLlpSeqfzTeMUHa1kS0_g8GG5l-lcezqn6PHUZf7WFJ7cck6PtSNKZNFrvBZp6Rv4xHJWpSRD0bVMIbrBdt1nBpciEuwwmqpPUUoIXUhxFfxrrZPyTDW9RCoHu02CJXfR9htgtCqPkfHHszKmSwDsDMI5HnkTyXIobwRkfkiyFsILbnJ1ahTc-zYpt8xz6BbmKbNuB6uf7TjxojL663Rmg7yedYtU0b7yz5ieGAVGLkcASfrfkjZqND_smLxqaDBRLPEIenc06Y7WLd52AKESHoVuyKojVMW1Thc9oGwS8sUWj7BxnYCE-RPDZuCcJ4SD-qBcDtJidScKg0TiwTXzYA-Q0o30CyUKVJgfPnzBYylWtI6g5jZ3ybMUYMayReSeG5oC2_2pTbLkrY5wLONI-5rTrRtb5HX0GJpjtLbEbcGuhKaoPKCL8AW9DgV9TpbvqffeoOe8_Nvi9ZEdF3JtVJGR0jj6XHrCELI943iP7a9222sPXtodexaTIJgvqUkWzKEsTMBPDNOgurSP4h1CSFzAoiQzfdm-88ssfzVfmJF2p4igtYGH3yNq2F95G5W-vR5_c8uKCQ==",
-  "salt": "AWPRw4S97Dj8Pbe4YBfsSQ==",
-  "text": "Cathbad was a druid in the stories of the Ulster Cycle. He served the king Concobar mac Nessa at his seat of power. He longed for Assa, a bookish maiden, and had her guardians murdered so that he might reach her. The slaughter wrecked her peaceful life and turned the girl into a fighter who went among men under the name Nessa, that is, ungentle. Cathbad would not be put off. He caught Nessa at a moment, while she bathed and was stripped of her weapons, forced himself upon her, and then held her close as his taken concubine. Yet Nessa was keener than he. Skilled in the art of augury, she saw that a worm drifting in a wineglass would give her a hero for offspring, and she drank it down, in time conceiving the coming king Concobar mac Nessa. Cathbad afterwards instructed Concobar's champion Cuchulainn and sired the heroine Findchoem, who employed that same manner of begetting. He also turns up in the tale of Deirdre, whose birth he foretold, warning that she would carry sorrow to Ulster.",
-  "okr": {
-    "objective": "Cathbad is the prophetic Druid of the Ulster Cycle.",
-    "key_results": [
-      "He served in the court of King Concobar mac Nessa.",
-      "He turned Assa into the warrior Nessa.",
-      "He taught the hero Cúchulainn.",
-      "He prophesied Deirdre's sorrow for Ulster."
-    ],
-    "evidence": "Monaghan, Encyclopedia of Celtic Mythology and Folklore"
+ "name": "Cathbad",
+ "attributes": [
+  {
+   "entity": "Cathbad",
+   "attribute": "a druid of the Ulster Cycle, standard evidence for pre-Christian society"
+  },
+  {
+   "entity": "Cathbad",
+   "attribute": "inspires Cú Chulainn to take arms on an auspicious day"
+  },
+  {
+   "entity": "Cathbad",
+   "attribute": "foretells Derdriu's birth and her tragedy in Longas mac nUislenn"
+  },
+  {
+   "entity": "Cathbad",
+   "attribute": "father of Findchoem, wife of the contending hero Conall Cernach"
+  },
+  {
+   "entity": "Cathbad",
+   "attribute": "forced himself upon Assa, who became Nessa"
+  },
+  {
+   "entity": "Cathbad",
+   "attribute": "acts as a fénnid and forces Nes into marriage"
+  },
+  {
+   "entity": "Cathbad",
+   "attribute": "sets the king's birth to coincide with the birth of Jesus"
+  },
+  {
+   "entity": "Cathbad",
+   "attribute": "instructed Cú Chulainn and sired Findchoem"
   }
+ ],
+ "entities": [
+  {
+   "entity": "Cathbad",
+   "type": "Person"
+  },
+  {
+   "entity": "Ulster Cycle",
+   "type": "Title"
+  },
+  {
+   "entity": "druid",
+   "type": "Role"
+  },
+  {
+   "entity": "Cú Chulainn",
+   "type": "Person"
+  },
+  {
+   "entity": "Táin Bó Cuailnge",
+   "type": "Title"
+  },
+  {
+   "entity": "Longas mac nUislenn",
+   "type": "Title"
+  },
+  {
+   "entity": "Derdriu",
+   "type": "Person"
+  },
+  {
+   "entity": "Mesca Ulad",
+   "type": "Title"
+  },
+  {
+   "entity": "Fled Bricrenn",
+   "type": "Title"
+  },
+  {
+   "entity": "Findchoem",
+   "type": "Person"
+  },
+  {
+   "entity": "Conall Cernach",
+   "type": "Person"
+  },
+  {
+   "entity": "Assa",
+   "type": "Person"
+  },
+  {
+   "entity": "Nes",
+   "type": "Person"
+  },
+  {
+   "entity": "Conchobar mac Nessa",
+   "type": "Person"
+  },
+  {
+   "entity": "Compert Conchobuir",
+   "type": "Title"
+  },
+  {
+   "entity": "fían",
+   "type": "Concept"
+  }
+ ],
+ "sources": [
+  "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.",
+  "Koch 2006, s.v. 'Cathbad'."
+ ],
+ "cyphertext": "7AR_tGWDmdgOW5EeIquUZka8tk3BrgFhtmOXDBaGd1zsggL0WhortY8WEkcnpj-R7t4OgzC3r_oZPA8j9cmY1Z5S43YO2r-TDMjF2W7TUnZjONYd8xGSvMOpX3gm2YFBOIl_knPQwLYtT51rY4JiJUpLSeDB2niwZ1cQO_RQQog8X1xb1GUohoBL4tE_4BbFWcAnal8nM9wq48PQs_aWmnhMWsj3zabAULzbHXqar3zld7g9UFCV0UmvCG-tQJVVYl54Q5Xu7ot65iIQYyFFr78dAIeejCFT6qNzEWohmiqj59wMGyCT44V1b7ZU3A1gGZ90rROwb6cdMv80umsoU0gj2-FYpiLwb5ZD2_pDBFg87Jh_aioR4bIMOv1NuttqBbpKaYqdlk7WN24j0yz_SoLV94QlHWZQmnKQvTGHRKcJa35GnG87SAJC6L5L0KjT_7JVNaV3ZxXIrwKEJKRfHVlx1wGi0ANTSGhO3-5PEw3EiAGNKHrPNO8hrbCpWTm1OWhFs_HoWHmZRuwsAJRJQVvdsSgvywl0ZJnbQ-Ly7Yx9WYQSNzFwM2RpZuqcHfTeAHNuNc_2CGqTmvdI9IQ5k-I4PILv6Z3q3Md8KAw2rzi-eGr7gA6EKRGTjPFNRkvwyKdQ3LZ3daNzYy97N2LVcBQtPKD9qnwRMn3ZJ87L-yxCm6TJn214tvp_ocJ2iqZsqneTTB2Ojp7l2P5Q0a1q9MQ9WVKncizkk1R8pIttdDkU6rSRt-x0em_lBPYm1CsJxZF7_cmdmVrmL40aCRBPzpY94Uzd0KwJ7_63IRawmEWKnbCcBSGsBdLajPahNmTsAIaaTLFQtumKHfupCzTDRRXIhxzBvMpcd-CWkydnxfDmMiK2yKm8KfT3zzn-fajsi3e4KhZ3Lq9_7gBb1eXYcQkyz2S8gZkdLlpSeqfzTeMUHa1kS0_g8GG5l-lcezqn6PHUZf7WFJ7cck6PtSNKZNFrvBZp6Rv4xHJWpSRD0bVMIbrBdt1nBpciEuwwmqpPUUoIXUhxFfxrrZPyTDW9RCoHu02CJXfR9htgtCqPkfHHszKmSwDsDMI5HnkTyXIobwRkfkiyFsILbnJ1ahTc-zYpt8xz6BbmKbNuB6uf7TjxojL663Rmg7yedYtU0b7yz5ieGAVGLkcASfrfkjZqND_smLxqaDBRLPEIenc06Y7WLd52AKESHoVuyKojVMW1Thc9oGwS8sUWj7BxnYCE-RPDZuCcJ4SD-qBcDtJidScKg0TiwTXzYA-Q0o30CyUKVJgfPnzBYylWtI6g5jZ3ybMUYMayReSeG5oC2_2pTbLkrY5wLONI-5rTrRtb5HX0GJpjtLbEbcGuhKaoPKCL8AW9DgV9TpbvqffeoOe8_Nvi9ZEdF3JtVJGR0jj6XHrCELI943iP7a9222sPXtodexaTIJgvqUkWzKEsTMBPDNOgurSP4h1CSFzAoiQzfdm-88ssfzVfmJF2p4igtYGH3yNq2F95G5W-vR5_c8uKCQ==",
+ "salt": "AWPRw4S97Dj8Pbe4YBfsSQ==",
+ "text": "Cathbad is a druid of the Ulster Cycle, the early Irish tales of the kingdom of the Ulaid. His social function is generally given as druí, the druid. Scholars use him as a test case for how far the early Christian Irish literature opens a window on pre-Christian society and religion. The essay of Jackson, The Oldest Irish Tradition, made him a standard example. The Táin Bó Cuailnge carries the tale of Cú Chulainn's boyhood deeds. In it Cathbad inspires the hero to take arms at an unusually early age by declaring the day auspicious. In Longas mac nUislenn he foretells the birth of Derdriu and the tragedy she will bring. He also appears in Mesca Ulad and in Fled Bricrenn. He is the father of Findchoem, a noblewoman of amusing envy who is the wife of the contending hero Conall Cernach. The older stories give him a darker past. He longed for the bookish Assa, murdered her guardians to reach her, caught her as she bathed, forced himself upon her, and made her his taken concubine. A version of Conchobar's begetting story, Compert Conchobuir, shows him as a fénnid, a tribeless warrior, as well as a druid. He compels Nes, the future king's mother, into the match. The tale allows that another lover, or else a worm swallowed in a drink, could have impregnated Nes. Cathbad, as druid and soothsayer, decides the day of the birth. He arranges the birth to fall on the same day as the birth of Jesus, an event he also foresees. In this way he fixes the destiny of the infant king. After this he instructs Conchobar's champion Cú Chulainn and sires Findchoem.",
+ "okr": {
+  "objective": "Record Cathbad, the prophetic druid of the Ulster Cycle and a key witness for pre-Christian society.",
+  "key_results": [
+   "Scholars treat his druí role as evidence for pre-Christian religion, as in Jackson's essay.",
+   "He inspires Cú Chulainn to take arms and foretells Derdriu's tragedy.",
+   "He fathers Findchoem, wife of Conall Cernach, and appears in Mesca Ulad and Fled Bricrenn.",
+   "In Compert Conchobuir he forces Nes into marriage and fixes the king's birth to the day of Jesus's birth."
+  ],
+  "evidence": "Monaghan 2003, s.v. Cathbad; Koch 2006, s.v. 'Cathbad'."
+ }
 }

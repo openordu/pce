@@ -1,76 +1,120 @@
 {
-  "name": "Camulos",
-  "entities": [
-    {
-      "entity": "Camulos",
-      "type": "god"
-    },
-    {
-      "entity": "Camulodunum",
-      "type": "place"
-    },
-    {
-      "entity": "Colchester",
-      "type": "place"
-    },
-    {
-      "entity": "Romans",
-      "type": "people"
-    },
-    {
-      "entity": "Mars",
-      "type": "god"
-    },
-    {
-      "entity": "Cumhall",
-      "type": "mythological figure"
-    },
-    {
-      "entity": "Fionn Mac Cumhaill",
-      "type": "hero"
-    }
-  ],
-  "attributes": [
-    {
-      "entity": "Camulos",
-      "attribute": "British god"
-    },
-    {
-      "entity": "Camulos",
-      "attribute": "name used in the town of Camulodunum"
-    },
-    {
-      "entity": "Camulodunum",
-      "attribute": "means “fort of Camulos”"
-    },
-    {
-      "entity": "Camulodunum",
-      "attribute": "became the city of Colchester"
-    },
-    {
-      "entity": "Romans",
-      "attribute": "linked Camulos with their war god Mars"
-    },
-    {
-      "entity": "Cumhall",
-      "attribute": "father of Fionn Mac Cumhaill"
-    }
-  ],
-  "sources": [
-    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-  ],
-  "cyphertext": "MiEW_YJ0wGnogIH9Or5L7K_FnwIQR9Pt9gRYVFPhMjatr9WCIJPooPd9xsyHKRT-ZiwOoTBdGAmkGk_QrBu4AmanhO5nDC4zy0rqbx0ysN6G2sab-fHLAjRr4OkQEcgCsM9h-YGUefY6byDExOLYJ4DJ4uJZ05ndrfrQ2_wqiM-DE0YQeX_vPeBJmqPtYO1J6Qz_fdJlQEwPzLM74NYG1jMmKV77oIEw6fFVa4wuzhSIIQP2mo7-wZZOKi_fsrSumVdH6udZh-tJHLX7lpgH1YXDb_6oUpE37OQGYsVkSA48wOqOcRYwNkpCgCFZXGq7CWqhOf684rk9_vSl68qszZsZBCPtKmAAu0nzwBfy00QWM3q6cqJQIQiigqINprs0AA5YXcYc1prJMI5T4a-b27ZWNFlWUVMJGF9dJLRBHt4uIgpiIx-FLsm1RX1-zEKtWf2H6LTq2qo_efYDKduXa6TsitYHWPdq0fYjTNuti7oxVNhttAZ6pRXdSILSL38XF0MU1Qr6cqzEYe9OmYkhl5EA16ugUA==",
-  "salt": "C-RFyBGbTdp2rNXwAgrOEw==",
-  "text": "Camulos is a British god. Little evidence of his worship survives. His name appears in the Roman town name Camulodunum. That name means “fort of Camulos.” The town became the city of Colchester. The invading Romans linked Camulos to their war god Mars. Some scholars treat Camulos as a mirror of the Irish ancestor Cumhall. Cumhall sired the hero Fionn Mac Cumhaill.",
-  "okr": {
-    "objective": "Camulos is a thinly attested British god.",
-    "key_results": [
-      "Only a little evidence of his cult survives.",
-      "His name lives on in the town name Camulodunum.",
-      "Camulodunum means “fort of Camulos” and became Colchester.",
-      "The Romans tied him to their war god Mars.",
-      "Scholars link him with the Irish ancestor Cumhall."
-    ],
-    "evidence": "Monaghan, Encyclopedia of Celtic Mythology and Folklore"
+ "name": "Camulos",
+ "entities": [
+  {
+   "entity": "Camulos",
+   "type": "Deity"
+  },
+  {
+   "entity": "Camulodunon",
+   "type": "Place"
+  },
+  {
+   "entity": "Colchester",
+   "type": "Place"
+  },
+  {
+   "entity": "Trinovantes",
+   "type": "Group"
+  },
+  {
+   "entity": "Cunobelinos",
+   "type": "Person"
+  },
+  {
+   "entity": "Sheepen Farm",
+   "type": "Place"
+  },
+  {
+   "entity": "Colne",
+   "type": "Place"
+  },
+  {
+   "entity": "Roman",
+   "type": "Place"
+  },
+  {
+   "entity": "Britannia",
+   "type": "Place"
+  },
+  {
+   "entity": "Claudius",
+   "type": "Person"
+  },
+  {
+   "entity": "Boudicca",
+   "type": "Person"
+  },
+  {
+   "entity": "Iberia",
+   "type": "Place"
+  },
+  {
+   "entity": "Galicia",
+   "type": "Place"
+  },
+  {
+   "entity": "Galatia",
+   "type": "Place"
+  },
+  {
+   "entity": "Mars",
+   "type": "Deity"
+  },
+  {
+   "entity": "Cumhall",
+   "type": "Person"
+  },
+  {
+   "entity": "Fionn Mac Cumhaill",
+   "type": "Person"
   }
+ ],
+ "attributes": [
+  {
+   "entity": "Camulos",
+   "attribute": "his name opens Camulodunon, the fort of Camulos, today Colchester"
+  },
+  {
+   "entity": "Camulos",
+   "attribute": "attested in inscriptions from Iberia to Galatia"
+  },
+  {
+   "entity": "Camulodunon",
+   "attribute": "the chief seat of the Trinovantes, taken by Cunobelinos around ad 5"
+  },
+  {
+   "entity": "Camulodunon",
+   "attribute": "no other oppidum in Britain matched its size"
+  },
+  {
+   "entity": "Cunobelinos",
+   "attribute": "minted coins bearing CAM, CAMV, and CAMVL at Camulodunon"
+  },
+  {
+   "entity": "Camulodunon",
+   "attribute": "a colony destroyed in Boudicca's revolt of ad 60 or 61"
+  },
+  {
+   "entity": "Camulos",
+   "attribute": "linked by the Romans to Mars and by scholars to Cumhall"
+  }
+ ],
+ "sources": [
+  "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.",
+  "Koch 2006, s.v. 'Camulodunon'."
+ ],
+ "cyphertext": "MiEW_YJ0wGnogIH9Or5L7K_FnwIQR9Pt9gRYVFPhMjatr9WCIJPooPd9xsyHKRT-ZiwOoTBdGAmkGk_QrBu4AmanhO5nDC4zy0rqbx0ysN6G2sab-fHLAjRr4OkQEcgCsM9h-YGUefY6byDExOLYJ4DJ4uJZ05ndrfrQ2_wqiM-DE0YQeX_vPeBJmqPtYO1J6Qz_fdJlQEwPzLM74NYG1jMmKV77oIEw6fFVa4wuzhSIIQP2mo7-wZZOKi_fsrSumVdH6udZh-tJHLX7lpgH1YXDb_6oUpE37OQGYsVkSA48wOqOcRYwNkpCgCFZXGq7CWqhOf684rk9_vSl68qszZsZBCPtKmAAu0nzwBfy00QWM3q6cqJQIQiigqINprs0AA5YXcYc1prJMI5T4a-b27ZWNFlWUVMJGF9dJLRBHt4uIgpiIx-FLsm1RX1-zEKtWf2H6LTq2qo_efYDKduXa6TsitYHWPdq0fYjTNuti7oxVNhttAZ6pRXdSILSL38XF0MU1Qr6cqzEYe9OmYkhl5EA16ugUA==",
+ "salt": "C-RFyBGbTdp2rNXwAgrOEw==",
+ "text": "Camulos is a British god. His name opens the place-name Camulodunon, today Colchester in Essex, and the compound holds the sense of the fort of Camulos. Koch records the god's name extensively across the Continent, in inscriptions from Iberia, including Galicia, as far east as Galatia. Camulodunon was a great Iron Age stronghold, raised before the Romans came. It started as the main stronghold of the Trinovantes and later became their civitas under Rome. Around the year ad 5 the Catuvellauni leader Cunobelinos took the site and raised a new capital at Sheepen Farm. Straight dykes between the rivers Colne and Roman enclosed a territory of thirty-one square kilometres, and no other oppidum in Britain matched its size. Camulodunon became the chief mint of Cunobelinos, whose coins carry the name in short forms such as CAM, CAMV, and CAMVL. When Claudius invaded in ad 43, the settlement became the seat of the new province of Britannia. A colonia for veteran soldiers was founded after ad 49, and a temple honoured the divinized Emperor Claudius. The temple and the seizure of land for colonists fed the revolt of Boudicca in ad 60 or 61, when the colony was destroyed and its people killed. Camulodunon recovered slowly, and London took over as the capital of the province. The invading Romans linked Camulos to their war god Mars. Some scholars pair Camulos with the Irish ancestor Cumhall, the sire of Fionn Mac Cumhaill.",
+ "okr": {
+  "objective": "Record Camulos, the god behind Camulodunon, and the oppidum that bore his name.",
+  "key_results": [
+   "His name opens Camulodunon, the fort of Camulos, today Colchester.",
+   "Inscriptions attest the god from Iberia, including Galicia, to Galatia.",
+   "Camulodunon became Cunobelinos's mint and the largest oppidum in Britain.",
+   "The colony fell in Boudicca's revolt, and London then took the capital from it."
+  ],
+  "evidence": "Monaghan 2003, s.v. Camulos; Koch 2006, s.v. 'Camulodunon'."
+ }
 }
