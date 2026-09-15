@@ -1,5 +1,5 @@
 {
- "text": "The banshee is an Irish spirit of death. The name means the woman of the fairy people. Long ago she was a goddess of the land or of its sovereignty. When her glory faded, her role narrowed to a single task. She now warns that death draws near. She favors the old families of Ireland. Their names often begin with O or Mac. She appears as a hag or as a young woman. Red hair and white or green robes mark her as other. She wails and combs her hair with a golden comb. She warns of death from any cause. The Washer at the Ford warns only of a death in battle. A banshee can follow her own people when they travel. The banshee of the O'Gradys family went with them to Canada.",
+ "text": "The banshee is an Irish spirit of death. The name means the woman of the fairy people. In an older age she was the goddess of a land and of its sovereignty. Koch traces her to the territorial goddesses of early Irish literature, who guarded their rulers and could also appear as war goddesses under the name Badb. When her glory faded, her role narrowed to a single task. She now warns that death draws near. She favors the old families of Ireland. Their names often begin with O or Mac. She appears as a hag or as a young woman. She is most often an outdoor being in a white cloak, with her head bare. Red hair and white or green robes mark her as other. She wails, and she draws a golden comb through her hair. In the east of Ireland she combs that hair, and in Galway she washes a garment in a stream. That deed matches the bean-nighe of Gaelic Scotland and the kannerezed noz of Brittany. An older layer of the same image shows the war goddess badhbh washing the clothes of men fated to fall in battle. A Galway tale places such a washer by the stream on the eve of Aughrim in 1691. The sovereignty goddess could also foretell a king's death. Aoibheall of Craglea foretold the fall of Brian Bóruma at Clontarf in 1014. In the eighth-century Táin Bó Fraích, the cries of Otherworld women, led by the hero's own mother Bé Find, sang Fraoch toward his end. Áine of north Munster appears as a weeping banshee and the ancestress of the FitzGeralds. She warns of death from any cause. The Washer at the Ford warns only of a death in battle. A banshee can follow her own people when they travel. The banshee of the O'Gradys family went with them to Canada.",
  "entities": [
   {
    "entity": "banshee",
@@ -20,6 +20,30 @@
   {
    "entity": "Canada",
    "type": "Place"
+  },
+  {
+   "entity": "Aoibheall",
+   "type": "Being"
+  },
+  {
+   "entity": "Brian Bóruma",
+   "type": "Person"
+  },
+  {
+   "entity": "bean-nighe",
+   "type": "Being"
+  },
+  {
+   "entity": "Bé Find",
+   "type": "Being"
+  },
+  {
+   "entity": "Badb",
+   "type": "Deity"
+  },
+  {
+   "entity": "Táin Bó Fraích",
+   "type": "Title"
   }
  ],
  "attributes": [
@@ -42,17 +66,37 @@
   {
    "entity": "O'Gradys",
    "attribute": "banshee followed the family to Canada"
+  },
+  {
+   "entity": "banshee",
+   "attribute": "an outdoor being in a white cloak with her head bare"
+  },
+  {
+   "entity": "bean-nighe",
+   "attribute": "the Scottish counterpart who washes clothes at a stream"
+  },
+  {
+   "entity": "badhbh",
+   "attribute": "the war goddess who washed the clothes of men fated to fall"
+  },
+  {
+   "entity": "Aoibheall",
+   "attribute": "foretold the death of Brian Bóruma at Clontarf in 1014"
+  },
+  {
+   "entity": "Bé Find",
+   "attribute": "mother of Fraoch, whose cries sang her son toward his death"
   }
  ],
  "okr": {
-  "objective": "The banshee is an Irish death spirit, a fallen land goddess who warns certain families when death is near.",
+  "objective": "Record the banshee as the fallen sovereignty goddess who warns of death.",
   "key_results": [
-   "The banshee's name means the woman of the fairy people",
-   "She was once a goddess of the land or of sovereignty",
-   "She warns of death from any cause, unlike the Washer at the Ford",
-   "A banshee follows one family, and the O'Gradys' spirit went with them to Canada"
+   "Her name means the woman of the fairy people, and she once held the role of a land goddess.",
+   "She wears a white cloak, combs her hair in the east, and washes clothes in Galway.",
+   "Her washing parallels the bean-nighe of Scotland and the kannerezed noz of Brittany.",
+   "Aoibheall foretold Brian Bóruma's fall, and Bé Find sang Fraoch toward his death."
   ],
-  "evidence": "Monaghan 2008, s.v. 'banshee'."
+  "evidence": "Monaghan 2003, s.v. banshee; Koch 2006, s.v. 'bean sí / banshee'."
  },
  "image": [
   "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Banshee.jpg/1200px-Banshee.jpg"
@@ -65,7 +109,8 @@
   "MacDougall, James. Folk Tales and Fairy Lore in Gaelic and English. Edinburgh: John Grant, 1910. Pp. 175-179.",
   "Westropp, T. J. Folklore of Clare: A Folklore Survey of County Clare and County Clare FolkTales and Myths. Ennis, Co. Clare: Clasp Press, 2000, pp. 6–10.",
   "Wilde, Lady. Ancient Legends, Mystic Charms and Superstitions of Ireland. London: Chatto and Windus, 1902, 136.",
-  "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+  "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.",
+  "Koch 2006, s.v. 'bean sí / banshee'."
  ],
  "name": "banshee"
 }

@@ -1,53 +1,83 @@
 {
-  "name": "Andraste",
-  "attributes": [
-    {
-      "entity": "Boudicca",
-      "attribute": "invoked her in a sacred rite before battle"
-    },
-    {
-      "entity": "Andraste",
-      "attribute": "name means “invincibility”"
-    },
-    {
-      "entity": "hare",
-      "attribute": "released in her ritual, a symbol of the queen Medb"
-    }
-  ],
-  "entities": [
-    {
-      "entity": "Boudicca",
-      "type": "Person"
-    },
-    {
-      "entity": "Iceni",
-      "type": "Organization"
-    },
-    {
-      "entity": "Romans",
-      "type": "Organization"
-    },
-    {
-      "entity": "Medb",
-      "type": "Person"
-    },
-    {
-      "entity": "hare",
-      "type": "Being"
-    }
-  ],
-  "sources": [
-    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-  ],
-  "cyphertext": "EZCfYXrWZDbIkT5hXM5wGCEjLS6GHqq8X4Y7czDiK2LI4n2MAhdCcL0r4F-kNf-VBzH--Jm3GGEsM7K-Q1O03LSbgdEVyXmYsPzhbv6Lw1bGhGL5x-vroNDQ0k9KWRWgc5nX67DQlKpbkfPe_HLo6h9wctTzSg39UZj7DNl0uWPXMzVM1oFEarNhH_Ra46lqkg_DrNC2-9vObtiAgj4E6sEZuD9f1_g1QAIAB5fc8Sp9yoH6MsZbBGxhfJtAfKqaOHRDfxAYt2a4SFCw0bjqzIAzexzexHlqPDJAgFZyqJsGg7z_XhU7QiK-532DS1mN8bABx1RQh7HkZ03FCytfwIFPyxt7mmy1-xOzjMc4BqMNlucIwseMPJLtYxTlnuqtx4QqVBgMMwLEK18CGbcrWi0Q8f3KkAQkEHmArTty5Kz1gN6_0mE8CEqhnxwnkDT6A6k1u8fzZzn6fG0Ws6EuwCNGxBDDDiZ8CC0HC-dPRbfXsNVXNL8ShnJ39FsAc_yuZl0xrd9zWdE3qAmvC7i6_zoM3xzilHGRUhQKTgeFnfEw0N_ufZM00bvtuUzEbaJqY5F7lzLyZk1PfP8z9Q_VCoM1SUm1tmIM8JJ8UZ4xR3rcXamtrtR4e0VWINLa5eUsk8BV8tJ8xCpsfs9-Qidm-NPfWWCrwBDaPK5EBEMC-H6Dt2Xv0h2COD8eXFbfroxacd5arS4bZ_FtO8P5AocRaxmm0WIdSJIdfYfkafwAn46ChG4bauuFHL26xZ6c3VXjb92d7rIMhGwL3mnziJql_684QhCukeONnT5LlRIlmwnPBAinPxfrQZXe9JScFh74zc3I-WEF2BlJJL_eQLLa3dyhFH8HePF38FAJc2r2HJy_JyBBo7kjdFrJ9kJLWNfHg7gQbfrWp7KxTZ7CG6Wef2b-M4xgbJEJQffEfWeJpHoL3b5QqgpYVFsXIAjqyAURsVQcI_FPsGRoI72Lgm84y_0Ndq6rv30QnZ13HrxEkSKrbxwesyIAmPEH5A==",
-  "salt": "ITgJPgyAyhV6SzkNOoaazQ==",
-  "text": "Andraste is a British goddess. Her name means “invincibility.” The warrior queen Boudicca of the Iceni summoned her in a sacred grove before leading her troops against the Roman invaders. In the rite Boudicca set free a hare. The hare was an occasional symbol of the warrior queen Medb, famed in Ireland. At first the hare appears a small creature for a war goddess, but it turns fierce when caught, and so it fits an image of defense. Boudicca came close to driving the Romans from her land. When the war turned against her, she died by her own hand rather than face the humiliations the Romans gave their defeated enemies.",
-  "okr": {
-    "objective": "Record Andraste, the British goddess of victory.",
-    "key_results": [
-      "Show Boudicca’s rite and the released hare.",
-      "Show the meaning of the name and her end."
-    ],
-    "evidence": "Monaghan 2003, s.v. Andraste; Koch 2006, s.v. Andraste"
+ "name": "Andraste",
+ "attributes": [
+  {
+   "entity": "Boudicca",
+   "attribute": "invoked her in a sacred rite before battle"
+  },
+  {
+   "entity": "Andraste",
+   "attribute": "name means victory, from a verb with the negative prefix an-"
+  },
+  {
+   "entity": "hare",
+   "attribute": "released in her ritual, a symbol of the queen Medb"
+  },
+  {
+   "entity": "Boudicca",
+   "attribute": "freed a hare from her garment to read the omen"
+  },
+  {
+   "entity": "Andraste",
+   "attribute": "worshipped in a grove where Roman women died in the revolt"
+  },
+  {
+   "entity": "Cassius Dio",
+   "attribute": "preserves the only surviving account of the goddess"
   }
+ ],
+ "entities": [
+  {
+   "entity": "Andraste",
+   "type": "Being"
+  },
+  {
+   "entity": "Andrasta",
+   "type": "Being"
+  },
+  {
+   "entity": "Cassius Dio",
+   "type": "Person"
+  },
+  {
+   "entity": "Boudicca",
+   "type": "Person"
+  },
+  {
+   "entity": "Iceni",
+   "type": "Group"
+  },
+  {
+   "entity": "Romans",
+   "type": "Group"
+  },
+  {
+   "entity": "Medb",
+   "type": "Person"
+  },
+  {
+   "entity": "hare",
+   "type": "Being"
+  },
+  {
+   "entity": "nemeton",
+   "type": "Concept"
+  }
+ ],
+ "sources": [
+  "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.",
+  "Koch 2006, s.v. 'Andraste / Andrasta'."
+ ],
+ "cyphertext": "EZCfYXrWZDbIkT5hXM5wGCEjLS6GHqq8X4Y7czDiK2LI4n2MAhdCcL0r4F-kNf-VBzH--Jm3GGEsM7K-Q1O03LSbgdEVyXmYsPzhbv6Lw1bGhGL5x-vroNDQ0k9KWRWgc5nX67DQlKpbkfPe_HLo6h9wctTzSg39UZj7DNl0uWPXMzVM1oFEarNhH_Ra46lqkg_DrNC2-9vObtiAgj4E6sEZuD9f1_g1QAIAB5fc8Sp9yoH6MsZbBGxhfJtAfKqaOHRDfxAYt2a4SFCw0bjqzIAzexzexHlqPDJAgFZyqJsGg7z_XhU7QiK-532DS1mN8bABx1RQh7HkZ03FCytfwIFPyxt7mmy1-xOzjMc4BqMNlucIwseMPJLtYxTlnuqtx4QqVBgMMwLEK18CGbcrWi0Q8f3KkAQkEHmArTty5Kz1gN6_0mE8CEqhnxwnkDT6A6k1u8fzZzn6fG0Ws6EuwCNGxBDDDiZ8CC0HC-dPRbfXsNVXNL8ShnJ39FsAc_yuZl0xrd9zWdE3qAmvC7i6_zoM3xzilHGRUhQKTgeFnfEw0N_ufZM00bvtuUzEbaJqY5F7lzLyZk1PfP8z9Q_VCoM1SUm1tmIM8JJ8UZ4xR3rcXamtrtR4e0VWINLa5eUsk8BV8tJ8xCpsfs9-Qidm-NPfWWCrwBDaPK5EBEMC-H6Dt2Xv0h2COD8eXFbfroxacd5arS4bZ_FtO8P5AocRaxmm0WIdSJIdfYfkafwAn46ChG4bauuFHL26xZ6c3VXjb92d7rIMhGwL3mnziJql_684QhCukeONnT5LlRIlmwnPBAinPxfrQZXe9JScFh74zc3I-WEF2BlJJL_eQLLa3dyhFH8HePF38FAJc2r2HJy_JyBBo7kjdFrJ9kJLWNfHg7gQbfrWp7KxTZ7CG6Wef2b-M4xgbJEJQffEfWeJpHoL3b5QqgpYVFsXIAjqyAURsVQcI_FPsGRoI72Lgm84y_0Ndq6rv30QnZ13HrxEkSKrbxwesyIAmPEH5A==",
+ "salt": "ITgJPgyAyhV6SzkNOoaazQ==",
+ "text": "Andraste is a British goddess, also written Andrasta. The historian Cassius Dio preserves the only surviving account of her, and he says the name meant victory. The form looks like a feminine name built on a verb that carries the Celtic negative prefix an-, so it may suggest the unconquerable one. The warrior queen Boudicca of the Iceni called on her during the rising of ad 61. In the rite Boudicca freed a hare from among the folds of her garment, and the way it ran told the warriors the attack held favor. In her speech she hailed the goddess as one woman to another and asked for triumph, life, and freedom. Dio adds that the goddess was worshipped in a grove, a nemeton, where Roman women were put to death during the revolt. The hare was an occasional symbol of the warrior queen Medb, famed in Ireland. It turns fierce when caught, and so it fits an image of defense. Boudicca came close to driving the Romans from her land. When the war turned against her, she died by her own hand rather than face the humiliations the Romans gave their defeated enemies.",
+ "okr": {
+  "objective": "Record Andraste, the British victory goddess invoked by Boudicca.",
+  "key_results": [
+   "Cassius Dio preserves the only surviving account and gives the name the sense of victory.",
+   "Boudicca freed a hare from her garment as an omen before the rising of ad 61.",
+   "The goddess was worshipped in a grove, a nemeton, where Roman women died in the revolt."
+  ],
+  "evidence": "Monaghan 2003, s.v. Andraste; Koch 2006, s.v. 'Andraste / Andrasta'."
+ }
 }

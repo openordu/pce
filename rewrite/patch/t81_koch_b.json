@@ -1,0 +1,1060 @@
+{
+ "Abnoba.json": {
+  "text": "Abnoba is a Celtic goddess honoured in Britain and on the mainland. She gave her name to rivers called Avon, as the one in England that runs through Stratford. Rome called the Black Forest Mons Abnoba in her honor, and streams from its eastern slopes meet to form the young river Danube. A stone statue from Mühlburg shows her dressed as Diana, touching a tree while a hound and a hare rest beneath. A relief at the source of the Brigach adds a stag and a bird to her company. The hare ties her to the same ritual world as the goddess Andraste. Inscriptions from Muhlbach and Rothenburg keep her name, and a bronze native Diana in Köln may show her or the goddess Arduinna. Pliny and Tacitus both name her in their writings. Her image shows a huntress, her hunting dog, and a stag beside her.",
+  "entities": [
+   {
+    "entity": "Abnoba",
+    "type": "Being"
+   },
+   {
+    "entity": "Diana",
+    "type": "Being"
+   },
+   {
+    "entity": "Black Forest",
+    "type": "Place"
+   },
+   {
+    "entity": "Danube",
+    "type": "Place"
+   },
+   {
+    "entity": "Arduinna",
+    "type": "Deity"
+   },
+   {
+    "entity": "Brigach",
+    "type": "Place"
+   }
+  ],
+  "attributes": [
+   {
+    "entity": "Abnoba",
+    "attribute": "gave her name to the river Avon"
+   },
+   {
+    "entity": "Abnoba",
+    "attribute": "ruled the source of the Danube"
+   },
+   {
+    "entity": "Black Forest",
+    "attribute": "the Mons Abnoba of the Romans, where she was tutelary goddess"
+   },
+   {
+    "entity": "Abnoba",
+    "attribute": "shown as Diana touching a tree with a hound and a hare at Mühlburg"
+   },
+   {
+    "entity": "Brigach",
+    "attribute": "her relief at its source adds a stag and a bird"
+   }
+  ],
+  "okr": {
+   "objective": "Record Abnoba, the Black Forest goddess whom Rome read as Diana.",
+   "key_results": [
+    "Rome named the Black Forest Mons Abnoba, and its eastern streams form the Danube's source.",
+    "A statue at Mühlburg shows her as Diana with a tree, a hound, and a hare.",
+    "A relief at the Brigach source adds a stag and a bird, and inscriptions keep her name.",
+    "Pliny and Tacitus both record her."
+   ],
+   "evidence": "Monaghan 2003, s.v. Abnoba; Koch 2006, s.v. 'Abnoba'."
+  },
+  "add_sources": [
+   "Koch 2006, s.v. 'Abnoba'."
+  ]
+ },
+ "Andraste.json": {
+  "text": "Andraste is a British goddess, also written Andrasta. The historian Cassius Dio preserves the only surviving account of her, and he says the name meant victory. The form looks like a feminine name built on a verb that carries the Celtic negative prefix an-, so it may suggest the unconquerable one. The warrior queen Boudicca of the Iceni called on her during the rising of ad 61. In the rite Boudicca freed a hare from among the folds of her garment, and the way it ran told the warriors the attack held favor. In her speech she hailed the goddess as one woman to another and asked for triumph, life, and freedom. Dio adds that the goddess was worshipped in a grove, a nemeton, where Roman women were put to death during the revolt. The hare was an occasional symbol of the warrior queen Medb, famed in Ireland. It turns fierce when caught, and so it fits an image of defense. Boudicca came close to driving the Romans from her land. When the war turned against her, she died by her own hand rather than face the humiliations the Romans gave their defeated enemies.",
+  "entities": [
+   {
+    "entity": "Andraste",
+    "type": "Being"
+   },
+   {
+    "entity": "Andrasta",
+    "type": "Being"
+   },
+   {
+    "entity": "Cassius Dio",
+    "type": "Person"
+   },
+   {
+    "entity": "Boudicca",
+    "type": "Person"
+   },
+   {
+    "entity": "Iceni",
+    "type": "Group"
+   },
+   {
+    "entity": "Romans",
+    "type": "Group"
+   },
+   {
+    "entity": "Medb",
+    "type": "Person"
+   },
+   {
+    "entity": "hare",
+    "type": "Being"
+   },
+   {
+    "entity": "nemeton",
+    "type": "Concept"
+   }
+  ],
+  "attributes": [
+   {
+    "entity": "Boudicca",
+    "attribute": "invoked her in a sacred rite before battle"
+   },
+   {
+    "entity": "Andraste",
+    "attribute": "name means victory, from a verb with the negative prefix an-"
+   },
+   {
+    "entity": "hare",
+    "attribute": "released in her ritual, a symbol of the queen Medb"
+   },
+   {
+    "entity": "Boudicca",
+    "attribute": "freed a hare from her garment to read the omen"
+   },
+   {
+    "entity": "Andraste",
+    "attribute": "worshipped in a grove where Roman women died in the revolt"
+   },
+   {
+    "entity": "Cassius Dio",
+    "attribute": "preserves the only surviving account of the goddess"
+   }
+  ],
+  "okr": {
+   "objective": "Record Andraste, the British victory goddess invoked by Boudicca.",
+   "key_results": [
+    "Cassius Dio preserves the only surviving account and gives the name the sense of victory.",
+    "Boudicca freed a hare from her garment as an omen before the rising of ad 61.",
+    "The goddess was worshipped in a grove, a nemeton, where Roman women died in the revolt."
+   ],
+   "evidence": "Monaghan 2003, s.v. Andraste; Koch 2006, s.v. 'Andraste / Andrasta'."
+  },
+  "add_sources": [
+   "Koch 2006, s.v. 'Andraste / Andrasta'."
+  ]
+ },
+ "Annwn.json": {
+  "text": "Annwn, also called Annwyn and Annwfn, is the Welsh Otherworld, the Un-world that lies on the far side of ordinary life. Its name may grow from the old Celtic word dwfn, deep. A Gaulish inscription from Collias invokes underworld spirits with the word andounnabo, set at a ritual spring. The Welsh, like the Irish, offered several places for the Otherworld. Annwn means abyss. The Welsh saw it as a castle by the sea, called Caer Siddi. They also saw it as a court of intoxication, called Caer Feddwid, and as a palace of glass, called Caer Wydyr. Like Tir na nOg, that Irish island of the blessed, Annwn was a land of sweetness and charm. Its people knew neither age nor suffering. A magic cauldron fed each of them their fill. An unfailing well quenched their thirst. Two kings ruled Annwn, Arawn and Hafgan, locked in endless war. The legends tell more of Arawn. In the Mabinogi's first branch, the prince Pwyll met Arawn while hunting, and the two traded shapes for a year. That season bound the royal house of Dyfed to the powers of Annwfn. In the early poem Preiddiau Annwfn, which tells of the spoils of Annwn, Arthur and his men stormed stronghold after stronghold in that other realm.",
+  "entities": [
+   {
+    "entity": "Annwn",
+    "type": "Place"
+   },
+   {
+    "entity": "Annwyn",
+    "type": "Place"
+   },
+   {
+    "entity": "Annwfn",
+    "type": "Place"
+   },
+   {
+    "entity": "Caer Siddi",
+    "type": "Place"
+   },
+   {
+    "entity": "Caer Feddwid",
+    "type": "Place"
+   },
+   {
+    "entity": "Caer Wydyr",
+    "type": "Place"
+   },
+   {
+    "entity": "Tir na nOg",
+    "type": "Place"
+   },
+   {
+    "entity": "Arawn",
+    "type": "Person"
+   },
+   {
+    "entity": "Hafgan",
+    "type": "Person"
+   },
+   {
+    "entity": "Pwyll",
+    "type": "Person"
+   },
+   {
+    "entity": "Arthur",
+    "type": "Person"
+   },
+   {
+    "entity": "Preiddiau Annwfn",
+    "type": "Title"
+   },
+   {
+    "entity": "dwfn",
+    "type": "Concept"
+   },
+   {
+    "entity": "andounnabo",
+    "type": "Concept"
+   }
+  ],
+  "attributes": [
+   {
+    "entity": "Annwn",
+    "attribute": "a Welsh Otherworld known as abyss, shown as castle, court, and palace"
+   },
+   {
+    "entity": "Caer Siddi",
+    "attribute": "a seagirt castle form of Annwn"
+   },
+   {
+    "entity": "Caer Feddwid",
+    "attribute": "a court of intoxication form of Annwn"
+   },
+   {
+    "entity": "Caer Wydyr",
+    "attribute": "a palace of glass form of Annwn"
+   },
+   {
+    "entity": "Arawn",
+    "attribute": "one of two warring kings of Annwn"
+   },
+   {
+    "entity": "Hafgan",
+    "attribute": "one of two warring kings of Annwn"
+   },
+   {
+    "entity": "Annwn",
+    "attribute": "the Un-world, whose name may grow from the Celtic word dwfn, deep"
+   },
+   {
+    "entity": "Pwyll",
+    "attribute": "traded shapes with Arawn for a year in the first branch"
+   },
+   {
+    "entity": "Arthur",
+    "attribute": "stormed its strongholds in the poem Preiddiau Annwfn"
+   }
+  ],
+  "okr": {
+   "objective": "Record Annwn, the Welsh Otherworld, from its name to its kings.",
+   "key_results": [
+    "The name may grow from Celtic dwfn, deep, and a Gaulish form marks underworld spirits.",
+    "Its three forms are a seagirt castle, a court of intoxication, and a palace of glass.",
+    "Two kings, Arawn and Hafgan, ruled it, and Pwyll traded shapes with Arawn for a year.",
+    "Arthur raided its strongholds in the poem Preiddiau Annwfn."
+   ],
+   "evidence": "Monaghan 2003, s.v. Annwn; Koch 2006, s.v. 'Annwn / Annwfn'."
+  },
+  "add_sources": [
+   "Koch 2006, s.v. 'Annwn / Annwfn'."
+  ]
+ },
+ "Arawn.json": {
+  "text": "Arawn is a Welsh god. He is the lord of Annwn, the Welsh Otherworld. His world is a typical Celtic Otherworld. It is beautiful and unchanging, without pain, death, or disease. Its residents pass their time in merrymaking and games. Koch calls him the king of Annwfn in the Mabinogi's opening branch. Arawn owned a magical cauldron. It suggests a parallel with the Dagda, the Irish father god. Arawn had magical pigs, another motif of the Dagda. He handed the pigs to the mortal king Pryderi as a gift. The theft cost Gwydion his freedom, and Annwn held him prisoner after he took the pigs. Three magical animals of Arawn were stolen by the obscure god Amaethon. The motif holds that domesticated animals once belonged to the gods. People had to bring them to this world by force or trickery. In the Mabinogi tale of Pwyll, Arawn exchanged identities with the mortal king for a year. Pwyll spent his year in the Otherworld and killed Arawn's enemy and rival, Hafgan. Koch adds a rule to that combat. A single blow could kill Hafgan, but a second blow gave him back his strength. So the victor had to strike once and stop. Pwyll learned the rule and ended the long war in one stroke. In return Arawn built a model kingdom in Dyfed, known for warmth, kindness, and a clear sense of justice. An early poem about the spoils of Annwfn still remembers the king and his realm.",
+  "entities": [
+   {
+    "entity": "Arawn",
+    "type": "Person"
+   },
+   {
+    "entity": "Annwn",
+    "type": "Place"
+   },
+   {
+    "entity": "cauldron",
+    "type": "Artifact"
+   },
+   {
+    "entity": "Dagda",
+    "type": "Person"
+   },
+   {
+    "entity": "pigs",
+    "type": "Being"
+   },
+   {
+    "entity": "Pryderi",
+    "type": "Person"
+   },
+   {
+    "entity": "Gwydion",
+    "type": "Person"
+   },
+   {
+    "entity": "Amaethon",
+    "type": "Person"
+   },
+   {
+    "entity": "Pwyll",
+    "type": "Person"
+   },
+   {
+    "entity": "Hafgan",
+    "type": "Person"
+   },
+   {
+    "entity": "Preiddiau Annwfn",
+    "type": "Title"
+   }
+  ],
+  "attributes": [
+   {
+    "entity": "Arawn",
+    "attribute": "lord of the Welsh Otherworld, Annwn, owner of a magical cauldron"
+   },
+   {
+    "entity": "cauldron",
+    "attribute": "a magical vessel owned by Arawn, parallel to the Dagda's"
+   },
+   {
+    "entity": "Hafgan",
+    "attribute": "a single blow could kill him, but a second restored his strength"
+   },
+   {
+    "entity": "Arawn",
+    "attribute": "made Dyfed a model kingdom known for kindness and justice"
+   },
+   {
+    "entity": "Arawn",
+    "attribute": "fought Hafgan until Pwyll ended the war in one stroke"
+   }
+  ],
+  "okr": {
+   "objective": "Record Arawn, the Welsh lord of Annwn.",
+   "key_results": [
+    "He rules the Otherworld and owns the cauldron and pigs that parallel the Dagda.",
+    "He traded shapes with Pwyll for a year in the first branch.",
+    "Pwyll killed Hafgan with a single blow, since a second blow restored his strength.",
+    "Arawn answered with a model kingdom known for kindness and justice."
+   ],
+   "evidence": "Monaghan 2003, s.v. Arawn; Koch 2006, s.v. 'Arawn'."
+  },
+  "add_sources": [
+   "Koch 2006, s.v. 'Arawn'."
+  ]
+ },
+ "Arberth.json": {
+  "text": "Arberth is a Welsh mythological site. Pwyll's kingdom held the mound, a place of fairy magic that bore this name. Koch identifies it with Narberth in Pembrokeshire and calls it the royal seat of the old kingdom of Dyfed. People went there to see visions. The mound itself bears the name Gorsedd Arberth, and strange events gather around it. It is the scene of much of the Mabinogi, standing at the heart of the first and fourth branches. The mystifying horsewoman Rhiannon appears on the mound in Pwyll's tale. Her horse appears to walk, yet no one can catch her. In the tale of Manawydan, a mist descends on the mound and takes the people of Dyfed away.",
+  "entities": [
+   {
+    "entity": "Arberth",
+    "type": "Place"
+   },
+   {
+    "entity": "Pwyll",
+    "type": "Person"
+   },
+   {
+    "entity": "Narberth",
+    "type": "Place"
+   },
+   {
+    "entity": "Dyfed",
+    "type": "Place"
+   },
+   {
+    "entity": "Rhiannon",
+    "type": "Person"
+   },
+   {
+    "entity": "Manawydan",
+    "type": "Person"
+   },
+   {
+    "entity": "Gorsedd Arberth",
+    "type": "Place"
+   }
+  ],
+  "attributes": [
+   {
+    "entity": "Arberth",
+    "attribute": "a magical fairy mound where people see visions"
+   },
+   {
+    "entity": "Gorsedd Arberth",
+    "attribute": "the mound near the court, prone to strange events"
+   },
+   {
+    "entity": "Arberth",
+    "attribute": "the royal seat of the old kingdom of Dyfed"
+   },
+   {
+    "entity": "Rhiannon",
+    "attribute": "first appeared on the mound, riding a horse that could not be caught"
+   },
+   {
+    "entity": "Manawydan",
+    "attribute": "a mist over the mound swept away the people of Dyfed"
+   }
+  ],
+  "okr": {
+   "objective": "Record Arberth, the fairy mound at the heart of the Mabinogi.",
+   "key_results": [
+    "Koch identifies the site with Narberth in Pembrokeshire.",
+    "The mound Gorsedd Arberth drew visions and strange events.",
+    "Rhiannon first appeared there, and a mist in the fourth branch swallowed Dyfed."
+   ],
+   "evidence": "Monaghan 2003, s.v. Arberth; Koch 2006, s.v. 'Arberth'."
+  },
+  "add_sources": [
+   "Koch 2006, s.v. 'Arberth'."
+  ]
+ },
+ "Armorica.json": {
+  "text": "Armorica is an ancient place-name. It names the coast of Gaul facing the Atlantic. The name means country facing the sea. In Roman usage the Tractus Armoricanus ran from the mouth of the Seine to the Loire. The tract took in the country of the Belgae to the west and the Aquitani to the north, land that Normandy and Brittany later shared. Julius Caesar gives the earliest surviving examples of the name. He writes of the civitates Armoricae, the tribal states by the ocean. His list names the Curiosolites, the Redones, the Ambibarii, the Caletes, the Osismii, the Veneti, the Lemovices, and the Venelli. Caesar also records the Veneti as the strongest people of the coast and tells how Rome broke their sea power. Their name lives on in Breton Gwened, the town the French call Vannes. Modern works often use Armorica for the land later called Brittany. Koch also records the older spelling Aremorica.",
+  "entities": [
+   {
+    "entity": "Armorica",
+    "type": "Place"
+   },
+   {
+    "entity": "Brittany",
+    "type": "Place"
+   },
+   {
+    "entity": "Gaul",
+    "type": "Place"
+   },
+   {
+    "entity": "Aremorica",
+    "type": "Place"
+   },
+   {
+    "entity": "Caesar",
+    "type": "Person"
+   },
+   {
+    "entity": "Seine",
+    "type": "Place"
+   },
+   {
+    "entity": "Loire",
+    "type": "Place"
+   },
+   {
+    "entity": "Veneti",
+    "type": "Group"
+   },
+   {
+    "entity": "Belgae",
+    "type": "Group"
+   }
+  ],
+  "attributes": [
+   {
+    "entity": "Armorica",
+    "attribute": "a coast of Gaul facing the Atlantic"
+   },
+   {
+    "entity": "Brittany",
+    "attribute": "the later land assigned this name"
+   },
+   {
+    "entity": "Armorica",
+    "attribute": "the Tractus Armoricanus ran from the Seine to the Loire"
+   },
+   {
+    "entity": "Caesar",
+    "attribute": "listed its peoples as the civitates Armoricae"
+   },
+   {
+    "entity": "Veneti",
+    "attribute": "the strongest coastal people, remembered in Breton Gwened"
+   }
+  ],
+  "okr": {
+   "objective": "Record Armorica, the old name of a Gaulish coast.",
+   "key_results": [
+    "The Tractus Armoricanus ran from the mouth of the Seine to the Loire.",
+    "Caesar named its peoples the civitates Armoricae and lists eight of them.",
+    "The Veneti were its strongest people, and their name survives in Breton Gwened.",
+    "Modern works use Armorica for the land later called Brittany."
+   ],
+   "evidence": "Monaghan 2003, s.v. Armorica; Koch 2006, s.v. 'Armorica'."
+  },
+  "add_sources": [
+   "Koch 2006, s.v. 'Armorica'."
+  ]
+ },
+ "banshee.json": {
+  "text": "The banshee is an Irish spirit of death. The name means the woman of the fairy people. In an older age she was the goddess of a land and of its sovereignty. Koch traces her to the territorial goddesses of early Irish literature, who guarded their rulers and could also appear as war goddesses under the name Badb. When her glory faded, her role narrowed to a single task. She now warns that death draws near. She favors the old families of Ireland. Their names often begin with O or Mac. She appears as a hag or as a young woman. She is most often an outdoor being in a white cloak, with her head bare. Red hair and white or green robes mark her as other. She wails, and she draws a golden comb through her hair. In the east of Ireland she combs that hair, and in Galway she washes a garment in a stream. That deed matches the bean-nighe of Gaelic Scotland and the kannerezed noz of Brittany. An older layer of the same image shows the war goddess badhbh washing the clothes of men fated to fall in battle. A Galway tale places such a washer by the stream on the eve of Aughrim in 1691. The sovereignty goddess could also foretell a king's death. Aoibheall of Craglea foretold the fall of Brian Bóruma at Clontarf in 1014. In the eighth-century Táin Bó Fraích, the cries of Otherworld women, led by the hero's own mother Bé Find, sang Fraoch toward his end. Áine of north Munster appears as a weeping banshee and the ancestress of the FitzGeralds. She warns of death from any cause. The Washer at the Ford warns only of a death in battle. A banshee can follow her own people when they travel. The banshee of the O'Gradys family went with them to Canada.",
+  "entities": [
+   {
+    "entity": "banshee",
+    "type": "Being"
+   },
+   {
+    "entity": "Washer at the Ford",
+    "type": "Being"
+   },
+   {
+    "entity": "Aine",
+    "type": "Deity"
+   },
+   {
+    "entity": "O'Gradys",
+    "type": "Group"
+   },
+   {
+    "entity": "Canada",
+    "type": "Place"
+   },
+   {
+    "entity": "Aoibheall",
+    "type": "Being"
+   },
+   {
+    "entity": "Brian Bóruma",
+    "type": "Person"
+   },
+   {
+    "entity": "bean-nighe",
+    "type": "Being"
+   },
+   {
+    "entity": "Bé Find",
+    "type": "Being"
+   },
+   {
+    "entity": "Badb",
+    "type": "Deity"
+   },
+   {
+    "entity": "Táin Bó Fraích",
+    "type": "Title"
+   }
+  ],
+  "attributes": [
+   {
+    "entity": "banshee",
+    "attribute": "Irish being whose name means woman of the fairy people"
+   },
+   {
+    "entity": "banshee",
+    "attribute": "once a goddess of the land or of sovereignty"
+   },
+   {
+    "entity": "banshee",
+    "attribute": "became a spirit who announced that death drew near"
+   },
+   {
+    "entity": "banshee",
+    "attribute": "linked to goddesses such as Aine"
+   },
+   {
+    "entity": "O'Gradys",
+    "attribute": "banshee followed the family to Canada"
+   },
+   {
+    "entity": "banshee",
+    "attribute": "an outdoor being in a white cloak with her head bare"
+   },
+   {
+    "entity": "bean-nighe",
+    "attribute": "the Scottish counterpart who washes clothes at a stream"
+   },
+   {
+    "entity": "badhbh",
+    "attribute": "the war goddess who washed the clothes of men fated to fall"
+   },
+   {
+    "entity": "Aoibheall",
+    "attribute": "foretold the death of Brian Bóruma at Clontarf in 1014"
+   },
+   {
+    "entity": "Bé Find",
+    "attribute": "mother of Fraoch, whose cries sang her son toward his death"
+   }
+  ],
+  "okr": {
+   "objective": "Record the banshee as the fallen sovereignty goddess who warns of death.",
+   "key_results": [
+    "Her name means the woman of the fairy people, and she once held the role of a land goddess.",
+    "She wears a white cloak, combs her hair in the east, and washes clothes in Galway.",
+    "Her washing parallels the bean-nighe of Scotland and the kannerezed noz of Brittany.",
+    "Aoibheall foretold Brian Bóruma's fall, and Bé Find sang Fraoch toward his death."
+   ],
+   "evidence": "Monaghan 2003, s.v. banshee; Koch 2006, s.v. 'bean sí / banshee'."
+  },
+  "add_sources": [
+   "Koch 2006, s.v. 'bean sí / banshee'."
+  ]
+ },
+ "Balor.json": {
+  "text": "Balor is an Irish god. He is also called Balar, Bolar, and Balor of the Evil Eye. He reigned as king of the Fomorians, the monstrous race who held Ireland before the first invaders. His daughter was the fair Eithne. A prophecy warned that a son born to Eithne would kill his grandfather. Balor shut Eithne in a tower to keep every man away from her. He hoped that this would spare his own life. Koch takes his fullest early portrait of him from the second battle at Mag Tuired. That tale was set down in the ninth or tenth century. There Balor leads the Fomoiri against his grandson Lug and the Tuath Dé. Balor's greed undid his plan. He stole the magical cow Glas Ghaibhleann from a smith. Lugh struck him down in that battle with a slingshot or a spear made by the smith god Goibniu. Lugh cut off Balor's head. Even in death, Balor's remaining eye could split boulders. The eye was his ruin from the start. Koch tells how Balor won the eye as a boy, spying on his father's druids at their magic. Its heavy lid took four men to lift, and its gaze struck soldiers of the Tuath Dé helpless. When Lug's stone flew through it, the fatal power turned back on the Fomoiri. Monaghan calls the eye a third eye set at the centre of Balor's forehead. It spat flames and destruction. His consort Cethlion carried poisons of her own, and they killed the god Dagda. In later folk-tales Balor loses his role as a war leader and becomes a monstrous villain. Scholars see him in two lights: a sun god, or a clash between the outgoing year and the one arriving. The tale ties him to the Hebrides, and modern storytellers place his fortress on Tory Island. He is linked to Mizen Head in County Cork and to Land's End in Wales.",
+  "entities": [
+   {
+    "entity": "Balor",
+    "type": "Deity"
+   },
+   {
+    "entity": "Eithne",
+    "type": "Person"
+   },
+   {
+    "entity": "Lugh",
+    "type": "Deity"
+   },
+   {
+    "entity": "Goibniu",
+    "type": "Deity"
+   },
+   {
+    "entity": "Cethlion",
+    "type": "Being"
+   },
+   {
+    "entity": "Dagda",
+    "type": "Deity"
+   },
+   {
+    "entity": "Fomorians",
+    "type": "Group"
+   },
+   {
+    "entity": "Glas Ghaibhleann",
+    "type": "Animal"
+   },
+   {
+    "entity": "Mag Tuired",
+    "type": "Place"
+   },
+   {
+    "entity": "Mizen Head",
+    "type": "Place"
+   },
+   {
+    "entity": "Tuath Dé",
+    "type": "Group"
+   },
+   {
+    "entity": "Cath Maige Tuired",
+    "type": "Title"
+   },
+   {
+    "entity": "Tory Island",
+    "type": "Place"
+   }
+  ],
+  "attributes": [
+   {
+    "entity": "Balor",
+    "attribute": "king of the Fomorians"
+   },
+   {
+    "entity": "Balor",
+    "attribute": "father of Eithne"
+   },
+   {
+    "entity": "Balor",
+    "attribute": "stole the magical cow Glas Ghaibhleann from a smith"
+   },
+   {
+    "entity": "Balor",
+    "attribute": "evil eye could split boulders and had to be lifted by four men"
+   },
+   {
+    "entity": "Cethlion",
+    "attribute": "consort whose poison killed the god Dagda"
+   },
+   {
+    "entity": "Balor",
+    "attribute": "associated with Mizen Head and Land's End"
+   },
+   {
+    "entity": "Balor",
+    "attribute": "gained the evil eye as a boy by watching his father's druids"
+   },
+   {
+    "entity": "Balor",
+    "attribute": "leads the Fomoiri in the second battle of Mag Tuired"
+   },
+   {
+    "entity": "Tuath Dé",
+    "attribute": "his basilisk gaze struck their soldiers helpless"
+   },
+   {
+    "entity": "Balor",
+    "attribute": "read as a sun god or as the strife between the old year and the new"
+   }
+  ],
+  "okr": {
+   "objective": "Record Balor, the one-eyed Fomorian king felled by his grandson.",
+   "key_results": [
+    "The second battle of Mag Tuired gives his fullest early picture as leader of the Fomoiri.",
+    "He gained the evil eye as a boy by watching the magic of his father's druids.",
+    "Four men lifted its lid, and Lug's slingshot turned its fatal power on the Fomoiri.",
+    "Later tales make him a villain, read as a sun god or the strife of the old year and the new."
+   ],
+   "evidence": "Monaghan 2003, s.v. Balor; Koch 2006, s.v. 'Balor'."
+  },
+  "add_sources": [
+   "Koch 2006, s.v. 'Balor'."
+  ]
+ },
+ "Banba.json": {
+  "text": "Banba is an Irish goddess. She is one of three earth goddesses, with Fódla and Ériu, who met the Milesians. The medieval lore of women and the Book of Invasions group the three as daughters of Fiachra or of Ernmas. The Milesians were the mythological invaders seen as the first Irish Celts. The Book of Invasions places the meeting at Slieve Mis in County Kerry. Some sources place her on the plain from which the hill of Tara rises. Banba offered the Milesians happiness and wealth if the land bore her name. The Milesians instead gave precedence to Ériu, who made the same promise from the hill of Uisneach. The sources name a god or hero for each goddess as her husband. Banba's husband was Mac Cuill, whose name means son of Hazel. Legend holds that the salmon of wisdom fed on hazel nuts. Koch calls Mac Cuill a king of the Tuath Dé and a grandson of the Dagda. Geoffrey Keating, drawing on a lost Old Irish manuscript, tells another arrival tale. In that telling Banba and her sisters arrived as daughters of Cain, fifty women and three men with them. All of them died in a plague. The name may join ban, woman, with ba, an old word for death, for gain, or for cow. That last sense echoes Bóand, the river Boyne, whose name means white as a cow. The pig is an emblem of Banba, and her name resembles the Irish word for piglet, banb. Banba said she had walked Ireland before the time of the biblical Noah. In some tellings the Milesians drove her out with sung spells. Her name survives today as a poetic name for Ireland.",
+  "entities": [
+   {
+    "entity": "Banba",
+    "type": "Deity"
+   },
+   {
+    "entity": "Fódla",
+    "type": "Deity"
+   },
+   {
+    "entity": "Ériu",
+    "type": "Deity"
+   },
+   {
+    "entity": "Milesians",
+    "type": "Group"
+   },
+   {
+    "entity": "Mac Cuill",
+    "type": "Person"
+   },
+   {
+    "entity": "Slieve Mis",
+    "type": "Place"
+   },
+   {
+    "entity": "Tara",
+    "type": "Place"
+   },
+   {
+    "entity": "Uisneach",
+    "type": "Place"
+   },
+   {
+    "entity": "Book of Invasions",
+    "type": "Title"
+   },
+   {
+    "entity": "banshenchas",
+    "type": "Title"
+   },
+   {
+    "entity": "Keating",
+    "type": "Person"
+   },
+   {
+    "entity": "Dagda",
+    "type": "Deity"
+   },
+   {
+    "entity": "Cín Dromma Snechtai",
+    "type": "Title"
+   }
+  ],
+  "attributes": [
+   {
+    "entity": "Banba",
+    "attribute": "one of the three earth goddesses, with Fódla and Ériu"
+   },
+   {
+    "entity": "Banba",
+    "attribute": "met the Milesians at Slieve Mis in County Kerry"
+   },
+   {
+    "entity": "Banba",
+    "attribute": "promised happiness and wealth if the land bore her name"
+   },
+   {
+    "entity": "Mac Cuill",
+    "attribute": "husband of Banba, his name meaning son of Hazel"
+   },
+   {
+    "entity": "Banba",
+    "attribute": "name remains a poetic term for Ireland"
+   },
+   {
+    "entity": "Banba",
+    "attribute": "grouped with her sisters as daughters of Fiachra or of Ernmas"
+   },
+   {
+    "entity": "Mac Cuill",
+    "attribute": "a king of the Tuath Dé and a grandson of the Dagda"
+   },
+   {
+    "entity": "Keating",
+    "attribute": "tells of an arrival under Cain that ended in a plague"
+   }
+  ],
+  "okr": {
+   "objective": "Record Banba, one of the three goddesses who personify Ireland.",
+   "key_results": [
+    "The lore of women and the Book of Invasions call her a daughter of Fiachra or of Ernmas.",
+    "She met the Milesians and promised happiness and wealth if the land bore her name.",
+    "Her husband Mac Cuill was a king of the Tuath Dé and a grandson of the Dagda.",
+    "Her name may join woman with death, gain, or cow, as in Bóand."
+   ],
+   "evidence": "Monaghan 2003, s.v. Banba; Koch 2006, s.v. 'Banba'."
+  },
+  "add_sources": [
+   "Koch 2006, s.v. 'Banba'."
+  ]
+ },
+ "Bath.json": {
+  "text": "Bath is a British mythological site. It lies in the southwest of England, where the river Avon cuts through the limestone of the Cotswolds. Three hot springs rise within a short walk of one another. People have valued these waters as a cure for roughly two thousand years. Some think the spring was used before the Celts. Coins from the late Iron Age and the remains of a causeway have come to light beneath the later King's Bath. The records that survive date from Celtic times. The local goddess was Sulis, and the Romans named the town Aquae Sulis, the waters of Sulis. The Romans folded Sul into their goddess Minerva. They raised columned temples and inner bathing rooms. Koch dates the first sanctuary complex to the Flavian age, between ad 69 and 138. It held a Corinthian temple of four columns, a paved court, an altar, and a spring left open to the sky. A fort on the Fosse Way watched the river crossing in the first years of the conquest. After the army moved on, the town grew as a civil settlement around the crossing. These buildings stand today. Celtic custom showed itself at Bath. People threw coins into the water. They also wrote curses on sheets of lead. Excavators have found 16,000 coins at the site. They have found more than 50 cursing tablets as well.",
+  "entities": [
+   {
+    "entity": "Bath",
+    "type": "Place"
+   },
+   {
+    "entity": "Sul",
+    "type": "Deity"
+   },
+   {
+    "entity": "Sulis",
+    "type": "Deity"
+   },
+   {
+    "entity": "Minerva",
+    "type": "Deity"
+   },
+   {
+    "entity": "Aquae Sulis",
+    "type": "Place"
+   },
+   {
+    "entity": "Celtic",
+    "type": "Group"
+   },
+   {
+    "entity": "Avon",
+    "type": "Place"
+   }
+  ],
+  "attributes": [
+   {
+    "entity": "Bath",
+    "attribute": "British mythological site with healing hot springs"
+   },
+   {
+    "entity": "Bath",
+    "attribute": "Roman name Aquae Sulis"
+   },
+   {
+    "entity": "Sul",
+    "attribute": "Celtic goddess of the site, merged with Minerva"
+   },
+   {
+    "entity": "Bath",
+    "attribute": "site of the Celtic coin-throwing custom"
+   },
+   {
+    "entity": "Bath",
+    "attribute": "source of 16,000 coins and more than 50 cursing tablets"
+   },
+   {
+    "entity": "Avon",
+    "attribute": "the river whose bend frames the site in the Cotswolds"
+   },
+   {
+    "entity": "Sulis",
+    "attribute": "the fuller name of the spring goddess, waters of Sulis"
+   }
+  ],
+  "okr": {
+   "objective": "Record Bath as a healing site of the goddess Sulis.",
+   "key_results": [
+    "Three hot springs rise close together where the Avon cuts the Cotswolds.",
+    "The Romans named the town Aquae Sulis and joined Sulis to Minerva.",
+    "The first sanctuary of the Flavian age held a Corinthian temple, a court, and an altar.",
+    "Iron Age coins and a causeway lie beneath the later King's Bath."
+   ],
+   "evidence": "Monaghan 2003, s.v. Bath; Koch 2006, s.v. 'Bath'."
+  },
+  "add_sources": [
+   "Koch 2006, s.v. 'Bath'."
+  ]
+ },
+ "Badb.json": {
+  "text": "Badb, also written Bodb, means the scald crow. In early Irish tradition she was a supernatural woman linked to battle and slaughter. The name works as a proper name and as a general term for a battle creature. She sometimes merges with the Morrigan, Nemain, Be Neit, or Macha, and at other times stands apart from them. The stock phrase badb catha means the Badb of battle. Translators of Latin tales recast the Furies and Bellona as fern battle goddesses named Badb. Her appearance was an evil omen. The male figure Bodb Derg, king of the sidhe of Munster, shared her name.",
+  "entities": [
+   {
+    "entity": "Badb",
+    "type": "Deity"
+   },
+   {
+    "entity": "Bodb Derg",
+    "type": "Person"
+   },
+   {
+    "entity": "Morrígan",
+    "type": "Deity"
+   },
+   {
+    "entity": "Nemain",
+    "type": "Deity"
+   },
+   {
+    "entity": "Macha",
+    "type": "Deity"
+   },
+   {
+    "entity": "badb catha",
+    "type": "Concept"
+   }
+  ],
+  "attributes": [
+   {
+    "entity": "Badb",
+    "attribute": "war goddess whose name means the scald crow"
+   },
+   {
+    "entity": "Badb",
+    "attribute": "both a proper name and a general term for a battle creature"
+   },
+   {
+    "entity": "Badb",
+    "attribute": "linked to the Morrigan, Nemain, Be Neit, and Macha"
+   },
+   {
+    "entity": "badb catha",
+    "attribute": "the stock phrase meaning the Badb of battle"
+   }
+  ],
+  "okr": {
+   "objective": "Record Badb, the Irish scald-crow war goddess, from Koch 2006.",
+   "key_results": [
+    "Badb means the scald crow and links to battle and slaughter.",
+    "The name serves as a proper name and a generic term.",
+    "She merges with or stands apart from the Morrigan, Nemain, and Macha.",
+    "Bodb Derg, a male king of the sidhe, shared her name."
+   ],
+   "evidence": "Koch 2006, s.v. 'Bodb'."
+  },
+  "add_sources": [
+   "Koch 2006, s.v. 'Bodb'."
+  ]
+ },
+ "boar.json": {
+  "text": "The wild boar held deep symbolic weight for the ancient Celts. Art and coinage from the Continent and the islands show it. Writers linked the Gaulish god Moccus to the Roman Mercury, and he may have stood for a pig or a boar. In the Welsh tale Culhwch and Olwen, Arthur's men first hunted Ysgithrwyn, a chief boar called the white tusk, before the great chase of Twrch Trwyth and his offspring. The Middle Welsh name hob set the tame pig's origin in the Otherworld. In the Fourth Branch of the Mabinogi, a sow from the Otherworld guided Gwydion to the slain Lleu.",
+  "entities": [
+   {
+    "entity": "boar",
+    "type": "Animal"
+   },
+   {
+    "entity": "Moccus",
+    "type": "Deity"
+   },
+   {
+    "entity": "Culhwch and Olwen",
+    "type": "Title"
+   },
+   {
+    "entity": "Ysgithrwyn",
+    "type": "Creature"
+   },
+   {
+    "entity": "Twrch Trwyth",
+    "type": "Creature"
+   },
+   {
+    "entity": "Gwydion",
+    "type": "Person"
+   },
+   {
+    "entity": "Lleu",
+    "type": "Person"
+   }
+  ],
+  "attributes": [
+   {
+    "entity": "boar",
+    "attribute": "held deep symbolic weight for the Celts"
+   },
+   {
+    "entity": "Moccus",
+    "attribute": "a Gaulish god of the pig or the boar linked to Mercury"
+   },
+   {
+    "entity": "Ysgithrwyn",
+    "attribute": "a chief boar called the white tusk in Culhwch and Olwen"
+   },
+   {
+    "entity": "Twrch Trwyth",
+    "attribute": "the great boar hunted in Culhwch and Olwen"
+   }
+  ],
+  "okr": {
+   "objective": "Record the boar's symbolic role and its place in Welsh legend from Koch 2006.",
+   "key_results": [
+    "The boar appears in Celtic art and on coinage.",
+    "The Gaulish god Moccus may represent a pig or a boar.",
+    "Arthur's men hunted Ysgithrwyn before the chase of Twrch Trwyth.",
+    "The Middle Welsh name hob set the tame pig's origin in the Otherworld."
+   ],
+   "evidence": "Koch 2006, s.v. 'boar'."
+  },
+  "add_sources": [
+   "Koch 2006, s.v. 'boar'."
+  ]
+ },
+ "aisling.json": {
+  "text": "An aisling is a vision poem in the Irish language, often allegorical and usually written in the eighteenth century. In it a woman from the Otherworld visits the poet in a dream. Gerard Murphy set out three principal forms. The love aisling bewitches the poet with the woman's beauty. The prophecy aisling lets the dreamer predict the future. In the allegorical aisling the woman often stands for Ireland and comforts the distressed poet. Murphy thought the third form, common in the eighteenth century, might fuse the first two. The early Irish Aislinge Oengusa, the vision of Aonghus, and the later Aislinge Meic Con Glinne are famous examples.",
+  "entities": [
+   {
+    "entity": "aisling",
+    "type": "Concept"
+   },
+   {
+    "entity": "Gerard Murphy",
+    "type": "Person"
+   },
+   {
+    "entity": "Otherworld",
+    "type": "Concept"
+   },
+   {
+    "entity": "Ireland",
+    "type": "Place"
+   },
+   {
+    "entity": "Aislinge Oengusa",
+    "type": "Title"
+   }
+  ],
+  "attributes": [
+   {
+    "entity": "aisling",
+    "attribute": "a vision poem in the Irish language"
+   },
+   {
+    "entity": "aisling",
+    "attribute": "often composed in the eighteenth century"
+   },
+   {
+    "entity": "aisling",
+    "attribute": "recounts a visit from a woman of the Otherworld"
+   },
+   {
+    "entity": "Gerard Murphy",
+    "attribute": "set out three principal forms of the aisling"
+   }
+  ],
+  "okr": {
+   "objective": "Record the aisling, an Irish vision poem, from Koch 2006.",
+   "key_results": [
+    "The aisling is an allegorical Irish-language poem of the eighteenth century.",
+    "A woman from the Otherworld visits the poet in a dream.",
+    "Gerard Murphy described three principal forms.",
+    "The allegorical aisling often lets the woman stand for Ireland."
+   ],
+   "evidence": "Koch 2006, s.v. 'Aisling'."
+  },
+  "add_sources": [
+   "Koch 2006, s.v. 'Aisling'."
+  ]
+ }
+}

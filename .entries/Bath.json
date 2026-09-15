@@ -1,64 +1,81 @@
 {
-    "name": "Bath",
-    "attributes": [
-        {
-            "entity": "Bath",
-            "attribute": "British mythological site with healing hot springs"
-        },
-        {
-            "entity": "Bath",
-            "attribute": "Roman name Aquae Sulis"
-        },
-        {
-            "entity": "Sul",
-            "attribute": "Celtic goddess of the site, merged with Minerva"
-        },
-        {
-            "entity": "Bath",
-            "attribute": "site of the Celtic coin-throwing custom"
-        },
-        {
-            "entity": "Bath",
-            "attribute": "source of 16,000 coins and more than 50 cursing tablets"
-        }
-    ],
-    "entities": [
-        {
-            "entity": "Bath",
-            "type": "Place"
-        },
-        {
-            "entity": "Sul",
-            "type": "Deity"
-        },
-        {
-            "entity": "Minerva",
-            "type": "Deity"
-        },
-        {
-            "entity": "Aquae Sulis",
-            "type": "Place"
-        },
-        {
-            "entity": "Celtic",
-            "type": "Group"
-        }
-    ],
-    "sources": [
-        "Ross, Anne, and Michael Cyprien. A Traveller’s Guide to Celtic Britain. Harrisburg, Pa.: Historical Times, 1985, 19.",
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "cyphertext": "Jff3sw-WRrNNI0QGqmWIzQ5PhP_TqIWEt4p6irJSh2tQ5g8BsNJcRzzep_T0CwvmPMsPf3LRBzneM5TxeZjOc8OFJa_nG3YN3Pzm81vOCFtNP4Bnw2QjFEDhLrG-PdU0d8Q58NN66hli7AS2_MqBNJIjGp0GARtSflrP3xqPygOzjTFy7AJuqngzYurbGn34suEhf8Hi5vNeeU9mCqspjsWQQfyv7cdBaPXoZHECTzASZ2OSJJ85l3UoQeqBBiDodeMTd_uwf8dsMp1OR01ElKRg7cEX6UjCg5EbqFQfyegDr0fPbuWfhYxJ3TAONbHzjaS4MidVAh46zvIo0m1ZjvD5jedpeozjKTS6edTCV51RMLCJnMIKJPnnL3DGaZ0f14wzORxtMN6fC3Xv2nagfupAeajLKJ0tcirOC1icvp1Lcn2sIhEsXl23Ur4Z4auOD_IrIqACykeLFl9e4ihXz_SusIuRhV7xzAw3eIqWkPs_9oAksPQ7cquZ4TFRl06mDfwbchZdRAYjYXJHdvAJ14EqStYXe1EzsWWJQu9emg73ePtXs53fjjrY8OeYC6be29nvYv5ulzmUYINKEcrUUykI6wmvBXLXjqbRLyhCXBMszpjmWijHm14wQheUt1blS0wMqNfEex8ESn8EyqgcnL3BRfhIjDJPhna80WUMz29NVhlwKNoa9GnVjc_VuE8c797UttUXT06CUsL82KCbIOUmffp-NJkK47Vz-J8QmBuinbRjtygH9WXVGLbKeL_4G8sVGp0cJ0SIDWOuFFR-RpZALHFZUhtSfkGMGNtonjLFOpEZYli1qtUbf_xHwBLmlmadJJW2ecpD5kc9OOF1ZL-RXxzGFOFldckI1wKMEuxf7T3jam4PWGEITB9oBEUZ4OQaQJVO2c5yQ7MFI_O8XLyYG3R00YRuhvHGaJQOAQiBmAUSLBlxGtLgqSAMWIGL-rX_He786tLlYJsXTaTns07FTt14XmmebaNAdz_TwW3OuazTyAc_h9_3CGj4ddSqCvdBPZ0psH45HnJ08Ecwhme7naHzjwwYidiCnhkAlwuv7L3gpammxdjedx_S7-vt5uSHG0VSiAkgDHB1J5fZC_xPzPsi4EVf_UxSL2a-ajRKq8WMwZ56CK6zfR6HmLlMu9ygow==",
-    "salt": "Jlpu0fug8jTHNISs_DhH7A==",
-    "text": "Bath is a British mythological site. It lies in the southwest of England. Great hot springs bubble from the earth there. The waters have been prized for healing for at least two thousand years. Some think the spring was used before the Celts. The records that survive date from Celtic times. The Romans named the town Aquae Sulis.\n\nThe Celts linked the site to their goddess Sul. The Romans folded Sul into their goddess Minerva. They built colonnaded temples and interior bathing rooms. These buildings stand today.\n\nCeltic custom showed itself at Bath. People threw coins into the water. They also wrote curses on sheets of lead. Excavators have found 16,000 coins at the site. They have found more than 50 cursing tablets as well.",
-    "okr": {
-        "objective": "Describe Bath as a British healing site centered on the goddess Sul.",
-        "key_results": [
-            "The Bath hot springs have healed for at least two thousand years.",
-            "The Roman called the site Aquae Sulis and merged Sul with Minerva.",
-            "Celtic custom at Bath included throwing coins and writing curses on lead.",
-            "Excavators found 16,000 coins and more than 50 cursing tablets."
-        ],
-        "evidence": "Monaghan, Encyclopedia of Celtic Mythology and Folklore"
-    }
+ "name": "Bath",
+ "attributes": [
+  {
+   "entity": "Bath",
+   "attribute": "British mythological site with healing hot springs"
+  },
+  {
+   "entity": "Bath",
+   "attribute": "Roman name Aquae Sulis"
+  },
+  {
+   "entity": "Sul",
+   "attribute": "Celtic goddess of the site, merged with Minerva"
+  },
+  {
+   "entity": "Bath",
+   "attribute": "site of the Celtic coin-throwing custom"
+  },
+  {
+   "entity": "Bath",
+   "attribute": "source of 16,000 coins and more than 50 cursing tablets"
+  },
+  {
+   "entity": "Avon",
+   "attribute": "the river whose bend frames the site in the Cotswolds"
+  },
+  {
+   "entity": "Sulis",
+   "attribute": "the fuller name of the spring goddess, waters of Sulis"
+  }
+ ],
+ "entities": [
+  {
+   "entity": "Bath",
+   "type": "Place"
+  },
+  {
+   "entity": "Sul",
+   "type": "Deity"
+  },
+  {
+   "entity": "Sulis",
+   "type": "Deity"
+  },
+  {
+   "entity": "Minerva",
+   "type": "Deity"
+  },
+  {
+   "entity": "Aquae Sulis",
+   "type": "Place"
+  },
+  {
+   "entity": "Celtic",
+   "type": "Group"
+  },
+  {
+   "entity": "Avon",
+   "type": "Place"
+  }
+ ],
+ "sources": [
+  "Ross, Anne, and Michael Cyprien. A Traveller’s Guide to Celtic Britain. Harrisburg, Pa.: Historical Times, 1985, 19.",
+  "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.",
+  "Koch 2006, s.v. 'Bath'."
+ ],
+ "cyphertext": "Jff3sw-WRrNNI0QGqmWIzQ5PhP_TqIWEt4p6irJSh2tQ5g8BsNJcRzzep_T0CwvmPMsPf3LRBzneM5TxeZjOc8OFJa_nG3YN3Pzm81vOCFtNP4Bnw2QjFEDhLrG-PdU0d8Q58NN66hli7AS2_MqBNJIjGp0GARtSflrP3xqPygOzjTFy7AJuqngzYurbGn34suEhf8Hi5vNeeU9mCqspjsWQQfyv7cdBaPXoZHECTzASZ2OSJJ85l3UoQeqBBiDodeMTd_uwf8dsMp1OR01ElKRg7cEX6UjCg5EbqFQfyegDr0fPbuWfhYxJ3TAONbHzjaS4MidVAh46zvIo0m1ZjvD5jedpeozjKTS6edTCV51RMLCJnMIKJPnnL3DGaZ0f14wzORxtMN6fC3Xv2nagfupAeajLKJ0tcirOC1icvp1Lcn2sIhEsXl23Ur4Z4auOD_IrIqACykeLFl9e4ihXz_SusIuRhV7xzAw3eIqWkPs_9oAksPQ7cquZ4TFRl06mDfwbchZdRAYjYXJHdvAJ14EqStYXe1EzsWWJQu9emg73ePtXs53fjjrY8OeYC6be29nvYv5ulzmUYINKEcrUUykI6wmvBXLXjqbRLyhCXBMszpjmWijHm14wQheUt1blS0wMqNfEex8ESn8EyqgcnL3BRfhIjDJPhna80WUMz29NVhlwKNoa9GnVjc_VuE8c797UttUXT06CUsL82KCbIOUmffp-NJkK47Vz-J8QmBuinbRjtygH9WXVGLbKeL_4G8sVGp0cJ0SIDWOuFFR-RpZALHFZUhtSfkGMGNtonjLFOpEZYli1qtUbf_xHwBLmlmadJJW2ecpD5kc9OOF1ZL-RXxzGFOFldckI1wKMEuxf7T3jam4PWGEITB9oBEUZ4OQaQJVO2c5yQ7MFI_O8XLyYG3R00YRuhvHGaJQOAQiBmAUSLBlxGtLgqSAMWIGL-rX_He786tLlYJsXTaTns07FTt14XmmebaNAdz_TwW3OuazTyAc_h9_3CGj4ddSqCvdBPZ0psH45HnJ08Ecwhme7naHzjwwYidiCnhkAlwuv7L3gpammxdjedx_S7-vt5uSHG0VSiAkgDHB1J5fZC_xPzPsi4EVf_UxSL2a-ajRKq8WMwZ56CK6zfR6HmLlMu9ygow==",
+ "salt": "Jlpu0fug8jTHNISs_DhH7A==",
+ "text": "Bath is a British mythological site. It lies in the southwest of England, where the river Avon cuts through the limestone of the Cotswolds. Three hot springs rise within a short walk of one another. People have valued these waters as a cure for roughly two thousand years. Some think the spring was used before the Celts. Coins from the late Iron Age and the remains of a causeway have come to light beneath the later King's Bath. The records that survive date from Celtic times. The local goddess was Sulis, and the Romans named the town Aquae Sulis, the waters of Sulis. The Romans folded Sul into their goddess Minerva. They raised columned temples and inner bathing rooms. Koch dates the first sanctuary complex to the Flavian age, between ad 69 and 138. It held a Corinthian temple of four columns, a paved court, an altar, and a spring left open to the sky. A fort on the Fosse Way watched the river crossing in the first years of the conquest. After the army moved on, the town grew as a civil settlement around the crossing. These buildings stand today. Celtic custom showed itself at Bath. People threw coins into the water. They also wrote curses on sheets of lead. Excavators have found 16,000 coins at the site. They have found more than 50 cursing tablets as well.",
+ "okr": {
+  "objective": "Record Bath as a healing site of the goddess Sulis.",
+  "key_results": [
+   "Three hot springs rise close together where the Avon cuts the Cotswolds.",
+   "The Romans named the town Aquae Sulis and joined Sulis to Minerva.",
+   "The first sanctuary of the Flavian age held a Corinthian temple, a court, and an altar.",
+   "Iron Age coins and a causeway lie beneath the later King's Bath."
+  ],
+  "evidence": "Monaghan 2003, s.v. Bath; Koch 2006, s.v. 'Bath'."
+ }
 }
