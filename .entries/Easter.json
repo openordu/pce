@@ -1,67 +1,96 @@
 {
-    "name": "Easter",
-    "attributes": [
-        {
-            "entity": "Easter",
-            "attribute": "a Christian feast that took the place of Beltane in Celtic lands"
-        },
-        {
-            "entity": "Saint Patrick",
-            "attribute": "lit an Easter fire on Slane hill near Tara"
-        },
-        {
-            "entity": "Beltane",
-            "attribute": "the spring festival that Easter replaced"
-        },
-        {
-            "entity": "holy wells",
-            "attribute": "held more powerful for cures at Easter"
-        }
-    ],
-    "entities": [
-        {
-            "entity": "Easter",
-            "type": "Event"
-        },
-        {
-            "entity": "Beltane",
-            "type": "Event"
-        },
-        {
-            "entity": "Saint Patrick",
-            "type": "Person"
-        },
-        {
-            "entity": "Slane",
-            "type": "Place"
-        },
-        {
-            "entity": "Tara",
-            "type": "Place"
-        },
-        {
-            "entity": "holy wells",
-            "type": "Place"
-        }
-    ],
-    "sources": [
-        "MacNeill, Máire. The Festival of Lughnasa, Parts I and II. Dublin: Comhairle Bhéaloideas Éireann, 1982.",
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "image": [
-        "https://upload.wikimedia.org/wikipedia/commons/b/b2/Resurrection_%2824%29.jpg"
-    ],
-    "cyphertext": "l1Ob6pdz_kAC1IF_nnywHFcpzYztVtaucE9SFG5FUH2E8Wm_seX-xnE7RtD4LgDx_vBAox8NbpsUtYju9vBWo5mpTeIPObNJ1jY5LE4SRYAgxZcOPHLXFRJYztKz4mPVNu1NMoyLOWrn4J-eO8zV5FIx8EjK505Qq0LpLRCd0I71VjiBMmnnLD3wedvSx4CJxbmQrJZ314sjTAVybqnM0xpFRD3b7c-2zxX0m1RMlQUAqPjqQad2sJSbK4YD2VqGvnh78hvZ_Rxi-DHxuzbAc-ZvxQcL-HF9murZ53dI9BYlqOWVT5mQRM3blZNuoMxoppTPXP3uWpnNG3LnT7wH0lPvTI7ZqNPmLEoYRuJnt1c158XnwkSxQZ0aK8kbTJKljRM8vggGoH46P2ekeZQPie570j1S843QYuMMqbCj-NlW28AEnKug5uHCuNGoJML0Bkyl8schY_rKdEW1s8dqZ7AwicL3P8cPkc7lSKDMiKT0goGYm-OkceSk-ltZtTBRowjPo7vb3gjuUkCds7OVmACwb_qmXUoltTgW5S2KfRh6K3Jl5AQvRwPsdwT4_jsUyIaKUa1pCK7SDCvCXAtr49piHpxLQGFT0OdmOh_UYS2279HuZq5w2qsVPNIHXepCa4amrCeik9sH_yJeG_7prvWVeR5KUIcQkDVM7TmFcDhK8GsqMYFI_l7OAtPRKNVyTcPI0UGLQyoxjaxd2uOxirTTLIri20vMJLGCoP6JZLsLKgUKj9ht_Gyd9uYpMFJJ5t5uD-k4ygjq_kBppKCgNCjtx6GqTEDbY7mVKHf7-Mqg6rZ0TUMe6tg9QUWZIwqvvnuXjNAbr2DaCD8TG04YZGbboDRK9Y28E1BRz2wsk3qym1PQjnhy5xh03S_LA9Iq24TVAG4e87T-b4pwcBnDTOhrOlmMv7AZg1wpdgO4Qx43MSetHDZ1W92GAsvm7y8wPyLvfrtZgMU3l-6XTAEPWEdjMX2aHkHzrMAKaHmGpH-GgUkI3oTflV3uoxh22tBHjD2LM8ysVQhgl0mSxpNhmmgBHCFZ5ADV6yoU1EuU5Piol-fXpqrKNRMyQn-ruaPVyJeBqG1Amyba9ag3TMQOgMqbgMIa663KN6vrd1mi2vJ-Kq3kUI8CS1_dlBJP",
-    "salt": "OKyDqLOItFjprLlUo9SHkQ==",
-    "text": "Easter is a Christian feast that reached the Celtic lands. There it stood in for Beltane, the spring festival of returned life. The famous Irish Easter story mixes the two feasts. Saint Patrick lit an Easter fire on Slane hill near Tara. He did this to challenge the high king's fire. Pagan Ireland had no Easter, so such fires must be Beltane. Other spring customs moved to Easter after Christianization. People said the sun danced that day. Holy wells were held more effective for cures then too.",
-    "okr": {
-        "objective": "Explain Easter as a Christian feast that replaced Beltane in the Celtic lands.",
-        "key_results": [
-            "Easter stood in for Beltane, the spring festival of returning life.",
-            "Saint Patrick lit an Easter fire on Slane hill to challenge the high king's fire.",
-            "Pagan Ireland never kept Easter, so those fires were Beltane.",
-            "Spring customs passed to Easter, including the sun's dance and stronger wells."
-        ],
-        "evidence": "Monaghan 2008, s.v. 'Easter'."
-    }
+ "name": "Easter",
+ "attributes": [
+  {
+   "entity": "Easter",
+   "attribute": "kept on different dates by insular and Roman churches"
+  },
+  {
+   "entity": "Easter controversy",
+   "attribute": "dispute over the date of Easter among the Celtic churches"
+  },
+  {
+   "entity": "Synod of Whitby",
+   "attribute": "664 council that settled Northumbria on the Roman reckoning"
+  },
+  {
+   "entity": "Easter",
+   "attribute": "took over spring rites such as the dancing sun and holy well cures"
+  }
+ ],
+ "entities": [
+  {
+   "entity": "Easter",
+   "type": "Event"
+  },
+  {
+   "entity": "Easter controversy",
+   "type": "Event"
+  },
+  {
+   "entity": "Britons",
+   "type": "Group"
+  },
+  {
+   "entity": "Irish",
+   "type": "Group"
+  },
+  {
+   "entity": "Patrick",
+   "type": "Person"
+  },
+  {
+   "entity": "Columbanus",
+   "type": "Person"
+  },
+  {
+   "entity": "Gregory",
+   "type": "Person"
+  },
+  {
+   "entity": "Synod of Whitby",
+   "type": "Event"
+  },
+  {
+   "entity": "Colmán",
+   "type": "Person"
+  },
+  {
+   "entity": "Iona",
+   "type": "Place"
+  },
+  {
+   "entity": "Elfoddw",
+   "type": "Person"
+  },
+  {
+   "entity": "Beltane",
+   "type": "Event"
+  },
+  {
+   "entity": "holy wells",
+   "type": "Place"
+  }
+ ],
+ "sources": [
+  "MacNeill, Máire. The Festival of Lughnasa, Parts I and II. Dublin: Comhairle Bhéaloideas Éireann, 1982.",
+  "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.",
+  "Koch 2006, s.v. 'Easter controversy'."
+ ],
+ "image": [
+  "https://upload.wikimedia.org/wikipedia/commons/b/b2/Resurrection_%2824%29.jpg"
+ ],
+ "cyphertext": "l1Ob6pdz_kAC1IF_nnywHFcpzYztVtaucE9SFG5FUH2E8Wm_seX-xnE7RtD4LgDx_vBAox8NbpsUtYju9vBWo5mpTeIPObNJ1jY5LE4SRYAgxZcOPHLXFRJYztKz4mPVNu1NMoyLOWrn4J-eO8zV5FIx8EjK505Qq0LpLRCd0I71VjiBMmnnLD3wedvSx4CJxbmQrJZ314sjTAVybqnM0xpFRD3b7c-2zxX0m1RMlQUAqPjqQad2sJSbK4YD2VqGvnh78hvZ_Rxi-DHxuzbAc-ZvxQcL-HF9murZ53dI9BYlqOWVT5mQRM3blZNuoMxoppTPXP3uWpnNG3LnT7wH0lPvTI7ZqNPmLEoYRuJnt1c158XnwkSxQZ0aK8kbTJKljRM8vggGoH46P2ekeZQPie570j1S843QYuMMqbCj-NlW28AEnKug5uHCuNGoJML0Bkyl8schY_rKdEW1s8dqZ7AwicL3P8cPkc7lSKDMiKT0goGYm-OkceSk-ltZtTBRowjPo7vb3gjuUkCds7OVmACwb_qmXUoltTgW5S2KfRh6K3Jl5AQvRwPsdwT4_jsUyIaKUa1pCK7SDCvCXAtr49piHpxLQGFT0OdmOh_UYS2279HuZq5w2qsVPNIHXepCa4amrCeik9sH_yJeG_7prvWVeR5KUIcQkDVM7TmFcDhK8GsqMYFI_l7OAtPRKNVyTcPI0UGLQyoxjaxd2uOxirTTLIri20vMJLGCoP6JZLsLKgUKj9ht_Gyd9uYpMFJJ5t5uD-k4ygjq_kBppKCgNCjtx6GqTEDbY7mVKHf7-Mqg6rZ0TUMe6tg9QUWZIwqvvnuXjNAbr2DaCD8TG04YZGbboDRK9Y28E1BRz2wsk3qym1PQjnhy5xh03S_LA9Iq24TVAG4e87T-b4pwcBnDTOhrOlmMv7AZg1wpdgO4Qx43MSetHDZ1W92GAsvm7y8wPyLvfrtZgMU3l-6XTAEPWEdjMX2aHkHzrMAKaHmGpH-GgUkI3oTflV3uoxh22tBHjD2LM8ysVQhgl0mSxpNhmmgBHCFZ5ADV6yoU1EuU5Piol-fXpqrKNRMyQn-ruaPVyJeBqG1Amyba9ag3TMQOgMqbgMIa663KN6vrd1mi2vJ-Kq3kUI8CS1_dlBJP",
+ "salt": "OKyDqLOItFjprLlUo9SHkQ==",
+ "text": "Easter is a Christian feast that reached the Celtic lands, where it stood alongside the older spring festival. In early Ireland and Britain the churches argued for over a century over the date on which to keep it, a dispute known as the Easter controversy. Koch 2006 explains that the Britons and Irish used an older 84-year cycle, while the Roman church used a 19-year cycle. To medieval minds Easter marked the yearly victory of light over darkness, so to date it wrongly was to misunderstand creation. St Patrick followed the Alexandrian computus of the Roman type. Around 600 the Irish monk Columbanus wrote to Pope Gregory defending the insular Easter. In 664 the Synod of Whitby settled the question for Northumbria, which took the Roman reckoning, and the Irish abbot Colmán withdrew to Ireland. Iona came into line in 716, and St Elfoddw changed the reckoning in Wales in 768. In Irish folk custom Easter took over spring rites, so that people said the sun danced on Easter morning and held the holy wells more potent for cures then. Some folk tales even set the great fires of the old season on Easter.",
+ "okr": {
+  "objective": "Document Easter and the Easter controversy in the Celtic lands, from Koch 2006.",
+  "key_results": [
+   "The insular churches used an older 84-year cycle, the Roman church a 19-year cycle.",
+   "Columbanus defended the insular Easter in letters to Pope Gregory around 600.",
+   "The Synod of Whitby in 664 set Northumbria on the Roman reckoning.",
+   "Irish folk custom gave Easter the sun's dance and holy well cures."
+  ],
+  "evidence": "Koch 2006, s.v. 'Easter controversy'; Monaghan, The Encyclopedia of Celtic Mythology and Folklore (2008)."
+ }
 }

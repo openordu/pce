@@ -5,44 +5,63 @@ icon: file-lines
 order: 785
 contributors: [ 'Christopher Godwin' ]
 attributes:
-  - National Eisteddfod events
-  - Welsh language almost exclusively used
-  - poetry featured
-  - song featured
+  - Eisteddfod name comes from the Welsh verb eistedd, to sit
+  - Eisteddfod first recorded at Cardigan castle in 1176 under Rhys ap Gruffudd
+  - Eisteddfod proclaimed a year ahead through Wales and the neighbouring countries
+  - Eisteddfod Welsh is heard almost alone at the National Eisteddfod
 categories:
-  - Language
+  - Person
+  - Place
+  - Group
+  - Role
+  - Title
   - Event
-  - Art form
 entities:
-  - National Eisteddfod(Event)
-  - Welsh language(Language)
-  - poetry(Art form)
-  - song(Art form)
+  - Eisteddfod(Event)
+  - Wales(Place)
+  - Cardigan(Place)
+  - Aberteifi(Place)
+  - Rhys ap Gruffudd(Person)
+  - Deheubarth(Place)
+  - Brut y Tywysogyon(Title)
+  - Gorsedd(Group)
+  - bard(Role)
 tags:
-  - National Eisteddfod
-  - Welsh language
-  - poetry
-  - song
+  - Eisteddfod
+  - Wales
+  - Cardigan
+  - Aberteifi
+  - Rhys ap Gruffudd
+  - Deheubarth
+  - Brut y Tywysogyon
+  - Gorsedd
+  - bard
 ---
 ``` tab [group1:Info]
 ::: magazinestyle
-A festival in Wales called the Eisteddfod has been celebrated for a long time and is widely considered as the longest running Celtic festival, even if some argue that Ireland’s Puck Fair holds that title. It has always been a bardic competition, taking place each year in different locations in Wales around the time of the ancient Lughnasa feast, which is on August 1. According to many experts, the festival may have begun in Celtic times or shortly after that period, when Bards who had an extensive knowledge of oral traditions engaged in poetical duels. Despite the fact that it was recognized as a national event in 1860, it was already mentioned in historical records dating back to 1176. The festival showcases both poetry and song, which are performed in Welsh almost exclusively.
+The eisteddfod is a Welsh festival of bards and minstrels. The name comes from the Welsh verb eistedd, to sit, and means a sitting together, a session of poets showing their skill before a noble patron. Koch 2006 records the first eisteddfod in Brut y Tywysogyon at the castle in Cardigan, also called Aberteifi, at Christmas 1176, when Lord Rhys ap Gruffudd of Deheubarth presided and bards competed for two Chair awards. It was proclaimed a year in advance throughout Wales, England, Scotland, and Ireland. The National Eisteddfod, held in the first full week of August, is the chief modern form, and the Welsh language is heard almost alone at it. In the nineteenth century it was rebuilt as a national event and tied to the Gorsedd of bards. The festival remains the major signifier of Welsh cultural distinctiveness.
 
 :::
 ```
 ``` tab [group1:Attributes]
-- **National Eisteddfod**: events
-- **Welsh language**: almost exclusively used
-- **poetry**: featured
-- **song**: featured
+- **Eisteddfod**: name comes from the Welsh verb eistedd, to sit
+- **Eisteddfod**: first recorded at Cardigan castle in 1176 under Rhys ap Gruffudd
+- **Eisteddfod**: proclaimed a year ahead through Wales and the neighbouring countries
+- **Eisteddfod**: Welsh is heard almost alone at the National Eisteddfod
 ```
 ``` tab [group1:Entities]
-- **National Eisteddfod**: Event
-- **Welsh language**: Language
-- **poetry**: Art form
-- **song**: Art form
+- **Eisteddfod**: Event
+- **Wales**: Place
+- **Cardigan**: Place
+- **Aberteifi**: Place
+- **Rhys ap Gruffudd**: Person
+- **Deheubarth**: Place
+- **Brut y Tywysogyon**: Title
+- **Gorsedd**: Group
+- **bard**: Role
 ```
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
+- Koch 2006, s.v. 'eisteddfod' and 'Eisteddfod Genedlaethol Cymru'.
 ```
 ![Eisteddfod Image](https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Flag_of_Wales.svg/1200px-Flag_of_Wales.svg.png)
