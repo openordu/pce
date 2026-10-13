@@ -1,0 +1,810 @@
+{
+ "fairies.json": {
+  "text": "Fairies are supernatural beings of Celtic folk belief who appear in many sizes and forms, from tiny sprites to giants, and who dwell in mounds, caves, lakes, and other natural places. Folk tradition explains them in several ways: some say they are the souls of the dead, others hold that they are fallen angels, and still others treat them as nature spirits. Fairies bring both good and ill. They reward musical skill and second sight, yet they also steal healthy children and leave changelings in their place, and they were blamed for strokes, nightmares, and mental illness. People avoided offending them by using euphemistic names such as the Good People or the Welsh Tylwyth Teg, by shunning green clothing, and by keeping iron close at hand. Time inside the fairy realm runs faster than mortal time, so a night of fairy dancing can cost a human decades of ordinary life. Each Celtic country has its own fairy kinds: Ireland has the sí folk of the mounds, Scotland knows NicNeven as fairy queen, the Isle of Man has the fynnoderee and the buggane, Wales has the Tylwyth Teg, Brittany has the korrigans and the dead-like Anaon, and Cornwall has piskies, spriggans, and mine knockers. Tales of marriage between fairy women and mortal men, as in the story from Wales of a man who married a lake fairy at Llyn y Fan Fach, explain the rise of lucky families and of healing dynasties. David MacRitchie once argued that fairy belief preserves the memory of earlier peoples such as the Picts; scholars have abandoned that idea, but it lives on in popular culture.",
+  "entities": [
+   {
+    "entity": "fairies",
+    "type": "Being"
+   },
+   {
+    "entity": "Tylwyth Teg",
+    "type": "Group"
+   },
+   {
+    "entity": "Anaon",
+    "type": "Group"
+   },
+   {
+    "entity": "korrigan",
+    "type": "Being"
+   },
+   {
+    "entity": "fynnoderee",
+    "type": "Being"
+   },
+   {
+    "entity": "buggane",
+    "type": "Being"
+   },
+   {
+    "entity": "NicNeven",
+    "type": "Deity"
+   },
+   {
+    "entity": "Llyn y Fan Fach",
+    "type": "Place"
+   },
+   {
+    "entity": "David MacRitchie",
+    "type": "Person"
+   },
+   {
+    "entity": "Picts",
+    "type": "Group"
+   },
+   {
+    "entity": "changeling",
+    "type": "concept"
+   }
+  ],
+  "attributes": [
+   {
+    "entity": "fairies",
+    "attribute": "dwell in mounds, caves, lakes, and other natural places"
+   },
+   {
+    "entity": "fairies",
+    "attribute": "bring both good fortune and illness"
+   },
+   {
+    "entity": "fairies",
+    "attribute": "steal children and leave changelings in their place"
+   },
+   {
+    "entity": "Tylwyth Teg",
+    "attribute": "is the euphemistic Welsh name for the fairies"
+   },
+   {
+    "entity": "Llyn y Fan Fach",
+    "attribute": "tells of a fairy bride who leaves her mortal husband"
+   },
+   {
+    "entity": "David MacRitchie",
+    "attribute": "linked fairy belief to the memory of earlier peoples"
+   }
+  ],
+  "okr": {
+   "objective": "Fairies are supernatural beings of Celtic folk belief whose lore spans every Celtic country.",
+   "key_results": [
+    "Folk tradition explains fairies as dead souls, fallen angels, or nature spirits.",
+    "Fairies bring good and ill and were blamed for illness and the theft of children.",
+    "Euphemistic names, iron, and the avoidance of green served as protection.",
+    "Each Celtic country has its own fairy kinds, from the sí folk to the Tylwyth Teg."
+   ],
+   "evidence": "Koch 2006, s.v. 'fairies'."
+  },
+  "add_sources": [
+   "Koch 2006, s.v. 'fairies'."
+  ]
+ },
+ "feast.json": {
+  "text": "Feasts were central to Celtic social and religious life, both as ritual banquets and as festival days. Archaeology shows that Iron Age aristocrats drank wine from Greek and Etruscan vessels and placed rich drinking gear in their graves, as at Hochdorf and Vix. Classical writers such as Athenaeus, drawing on Posidonius, describe the banquets of the Gaulish leader Lovernios, where praise poetry earned gold, and the custom of giving the choice cut of meat to the best warrior, the champion's portion. Early Irish tales make the feast a stage for rivalry: in Fled Bricrenn, Bricriu's feast goads the Ulster heroes into competing for precedence, and contention over the champion's portion could end in bloodshed. The Tuath Dé won immortality at the feast of Goibniu, and the feast of Tara, Feis Temro, marked the inauguration of kings. Celtic words for feast, such as Old Irish fled, Welsh gwledd, and Breton gloé, all descend from Proto-Celtic *wlid-. The Irish word feis, often translated 'feast', literally means 'spending the night' and carried a ritual sense of royal union. Feasts also came to mark holy ground: churches rose over old holy sites, pagan divinities were 'canonized' as saints, and Ireland followed the same pattern as the other Celtic lands.",
+  "entities": [
+   {
+    "entity": "feast",
+    "type": "event"
+   },
+   {
+    "entity": "churches",
+    "type": "concept"
+   },
+   {
+    "entity": "pagan divinities",
+    "type": "god"
+   },
+   {
+    "entity": "saints",
+    "type": "group"
+   },
+   {
+    "entity": "Ireland",
+    "type": "place"
+   },
+   {
+    "entity": "ancient holy sites",
+    "type": "location"
+   },
+   {
+    "entity": "Goibniu",
+    "type": "Deity"
+   },
+   {
+    "entity": "Lovernios",
+    "type": "Person"
+   },
+   {
+    "entity": "Athenaeus",
+    "type": "Person"
+   },
+   {
+    "entity": "Posidonius",
+    "type": "Person"
+   },
+   {
+    "entity": "Bricriu",
+    "type": "Person"
+   },
+   {
+    "entity": "Fled Bricrenn",
+    "type": "artifact"
+   },
+   {
+    "entity": "Feis Temro",
+    "type": "event"
+   },
+   {
+    "entity": "Proto-Celtic",
+    "type": "Language"
+   }
+  ],
+  "attributes": [
+   {
+    "entity": "feast",
+    "attribute": "served as ritual banquet and festival day"
+   },
+   {
+    "entity": "feast",
+    "attribute": "staged heroic rivalry in early Irish tales"
+   },
+   {
+    "entity": "Goibniu",
+    "attribute": "hosted the feast that gave the Tuath Dé immortality"
+   },
+   {
+    "entity": "Feis Temro",
+    "attribute": "marked the inauguration of the kings of Tara"
+   },
+   {
+    "entity": "Proto-Celtic",
+    "attribute": "gives the shared words for feast in Irish, Welsh, and Breton"
+   }
+  ],
+  "okr": {
+   "objective": "Feasts were ritual banquets and festival days that shaped Celtic society.",
+   "key_results": [
+    "Iron Age burials show rich feasting equipment, as at Hochdorf and Vix.",
+    "Classical writers describe Gaulish feasts where praise poetry earned gold.",
+    "Irish tales stage heroic rivalry at feasts such as Fled Bricrenn.",
+    "Words for feast descend from Proto-Celtic *wlid-."
+   ],
+   "evidence": "Koch 2006, s.v. 'feast'."
+  },
+  "add_sources": [
+   "Koch 2006, s.v. 'feast'."
+  ]
+ },
+ "Fergus_mac_Róich.json": {
+  "text": "Fergus mac Róich stands among the foremost figures of the Ulster Cycle, the great saga cycle of early Ireland, and appears in many of its tales as an older warrior of high standing. Scholars compare him to the wise Greek elder Nestor, and he often serves as spokesman of the warriors of Ulster and keeper of their oral lore. The kingship of Ulster slipped from him to Conchobar thanks to the scheming of Conchobar's mother Nes. Nessa, called the Warrior Woman, married Fergus on condition that her son become a royal heir; after a year she joined his nobles in keeping him from the throne, and Conchobar held the kingship against his army. Fergus long kept much of his old standing and at times acted almost as a joint king: in the decapitation contest in Fled Bricrenn, the sage Sencha exempts Conchobar and Fergus from the axe-wielding stranger's challenge because of their rank. When Deirdre was born, prophecy said her beauty would ruin the land, and Conchobar had her raised away from court. She later fled to Scotland with her lover Noísiu, and Fergus promised them safe passage back to Ireland; as he left the court, Conchobar killed Noísiu and took Deirdre, who then killed herself rather than live on without him. Rage drove Fergus to lead his warriors in burning the stronghold at Emain Macha, and archaeology does show traces of a huge fire at that site. He then rode west to Queen Medb's palace at Cruachan, and the sources say the pair became lovers. The Lia Fáil, a seven-foot stone pillar at Tara, was also called Bod Fhearghais, meaning Fergus's phallus.",
+  "entities": [
+   {
+    "entity": "Fergus mac Róich",
+    "type": "hero"
+   },
+   {
+    "entity": "Ulster",
+    "type": "place"
+   },
+   {
+    "entity": "Nessa",
+    "type": "person"
+   },
+   {
+    "entity": "Conchobar Mac Nessa",
+    "type": "person"
+   },
+   {
+    "entity": "Tara",
+    "type": "place"
+   },
+   {
+    "entity": "Deirdre",
+    "type": "person"
+   },
+   {
+    "entity": "Noísiu",
+    "type": "person"
+   },
+   {
+    "entity": "Emain Macha",
+    "type": "place"
+   },
+   {
+    "entity": "Medb",
+    "type": "person"
+   },
+   {
+    "entity": "Cruachan",
+    "type": "place"
+   },
+   {
+    "entity": "Lia Fáil",
+    "type": "artifact"
+   },
+   {
+    "entity": "Nestor",
+    "type": "Person"
+   },
+   {
+    "entity": "Sencha",
+    "type": "Person"
+   }
+  ],
+  "attributes": [
+   {
+    "entity": "Fergus mac Róich",
+    "attribute": "acts as spokesman of the warriors of Ulster"
+   },
+   {
+    "entity": "Fergus mac Róich",
+    "attribute": "is likened to the aged Greek counselor Nestor"
+   },
+   {
+    "entity": "Fergus mac Róich",
+    "attribute": "is exempted with Conchobar in the beheading challenge of Fled Bricrenn"
+   },
+   {
+    "entity": "Ulster",
+    "attribute": "lost its king when Conchobar took the throne through Nessa's wiles"
+   }
+  ],
+  "okr": {
+   "objective": "Fergus mac Róich is an Ulster hero and king whose story moves from marriage and alliance to betrayal and conquest.",
+   "key_results": [
+    "He lost the kingship of Ulster to Conchobar through Nessa's wiles.",
+    "He serves as spokesman of the Ulaid and is likened to the Greek elder Nestor.",
+    "He burned the royal court at Emain Macha in anger at Conchobar's deceit.",
+    "He went west to the court of Queen Medb at Cruachan."
+   ],
+   "evidence": "Koch 2006, s.v. 'Fergus mac Róich'."
+  },
+  "add_sources": [
+   "Koch 2006, s.v. 'Fergus mac Róich'."
+  ]
+ },
+ "Fionn_Cycle.json": {
+  "text": "The Fionn Cycle, called fiannaíocht in Irish, is the most enduring cycle of storytelling in the written and oral tradition of Ireland and Gaelic Scotland. The name covers lesser cycles about local heroes that gathered around the larger body of tales centred on Fionn mac Cumhaill, who is warrior, leader, and poet-seer, and on the fían, the hunting and fighting band where young heroes prove themselves. The English word Fenian derives from fían, and the same band inspired the Ossianic poems of James Macpherson. The clerics who wrote early Irish literature left few Fenian tales, and the earliest surviving witnesses, such as the Boyhood Deeds of Finn, show Fionn as a lone hunter of wondrous beasts and a raider of the Otherworld rather than a general. From the twelfth century the fían became, in the literary imagination, a disciplined company that hunts and fights for the high-king and protects Ireland, with its headquarters at Tara; its heroes answer the royal summons in the Acallam na Senórach, the Battle of Ventry, and many later works. The tragic affair of Gráinne and Diarmaid, told in The Pursuit of Diarmaid and Gráinne, is the best-known episode of the later phase. The Fenian tales crossed between writing and oral performance for centuries, and twentieth-century storytellers in Ireland and Scotland still kept them in their repertoires. The cycle is often called the Fenian Cycle in English.",
+  "entities": [
+   {
+    "entity": "Fionn Cycle",
+    "type": "concept"
+   },
+   {
+    "entity": "Fenian Cycle",
+    "type": "concept"
+   },
+   {
+    "entity": "Fionn",
+    "type": "hero"
+   },
+   {
+    "entity": "fiannaíocht",
+    "type": "concept"
+   },
+   {
+    "entity": "fían",
+    "type": "group"
+   },
+   {
+    "entity": "Fionn mac Cumhaill",
+    "type": "hero"
+   },
+   {
+    "entity": "Acallam na Senórach",
+    "type": "artifact"
+   },
+   {
+    "entity": "Gráinne",
+    "type": "person"
+   },
+   {
+    "entity": "Diarmaid",
+    "type": "person"
+   },
+   {
+    "entity": "James Macpherson",
+    "type": "Person"
+   },
+   {
+    "entity": "Tara",
+    "type": "place"
+   }
+  ],
+  "attributes": [
+   {
+    "entity": "Fionn Cycle",
+    "attribute": "is centred on the hero Fionn and his warrior band"
+   },
+   {
+    "entity": "fían",
+    "attribute": "is the hunting and warring band of the cycle"
+   },
+   {
+    "entity": "Acallam na Senórach",
+    "attribute": "recounts the adventures of the surviving warriors"
+   },
+   {
+    "entity": "Gráinne",
+    "attribute": "eloped with Diarmaid, stirring the cycle's great love story"
+   }
+  ],
+  "okr": {
+   "objective": "The Fionn Cycle is the enduring body of tales about the hero Fionn and his band.",
+   "key_results": [
+    "The cycle grew around Fionn mac Cumhaill and the institution of the fían.",
+    "Early texts show Fionn as a lone hunter rather than a leader.",
+    "From the twelfth century the fían serves the high-king of Ireland.",
+    "The tales survived in writing and in oral repertoires into the twentieth century."
+   ],
+   "evidence": "Koch 2006, s.v. 'fiannaíocht'."
+  },
+  "add_sources": [
+   "Koch 2006, s.v. 'fiannaíocht'."
+  ]
+ },
+ "Fianna.json": {
+  "text": "The Fianna are the great warrior band of Irish tradition, and in Old Irish the word fían meant a warring and hunting band, above all a company of young men and social outsiders bonded together on the border zones between territories. These warriors, called féinnidi, lived by hunting, fighting, and raiding, and they trained in martial and athletic games, the fíanchluichi, and even in poetry. The institution prepared young men for adult duties, much like male-bonding groups in other Indo-European societies, and it appears in law tracts and annals as a real presence in early medieval Ireland; clerics condemned the destructiveness of fían bands, and saints' lives show holy men converting roaming raiders known as the sons of death. The wolf and the deer served as the mascots of the fían. The band of Fionn mac Cumhaill became the most famous fían of all. In one tale, the figure Abarta tricked the warriors onto his frail old horse, which carried them to the Otherworld, where he held them hostage; after many magical exploits and battles, Fionn freed them, and afterward did not invite Abarta to join the band.",
+  "entities": [
+   {
+    "entity": "Fianna",
+    "type": "group"
+   },
+   {
+    "entity": "Abarta",
+    "type": "mythological figure"
+   },
+   {
+    "entity": "Fionn",
+    "type": "hero"
+   },
+   {
+    "entity": "Otherworld",
+    "type": "place"
+   },
+   {
+    "entity": "fían",
+    "type": "concept"
+   },
+   {
+    "entity": "féinnidi",
+    "type": "group"
+   },
+   {
+    "entity": "fíanchluichi",
+    "type": "concept"
+   }
+  ],
+  "attributes": [
+   {
+    "entity": "Fianna",
+    "attribute": "were a warring and hunting band in Irish tradition"
+   },
+   {
+    "entity": "fían",
+    "attribute": "bound young warriors together on the borderlands"
+   },
+   {
+    "entity": "féinnidi",
+    "attribute": "trained in hunting, raiding, games, and poetry"
+   },
+   {
+    "entity": "Abarta",
+    "attribute": "carried the Fianna to the Otherworld as hostages"
+   }
+  ],
+  "okr": {
+   "objective": "The Fianna are the Irish warrior band, rooted in the old institution of the fían.",
+   "key_results": [
+    "The fían was a band of young warriors on the borders between territories.",
+    "Fían members trained in hunting, raiding, games, and poetry.",
+    "Law tracts and annals show the institution was real in early medieval Ireland.",
+    "Abarta carried the Fianna to the Otherworld until Fionn freed them."
+   ],
+   "evidence": "Koch 2006, s.v. 'fían'."
+  },
+  "add_sources": [
+   "Koch 2006, s.v. 'fían'."
+  ]
+ },
+ "Fir_Bolg.json": {
+  "text": "The Fir Bolg are a legendary people of Irish tradition who number among the peoples said to have made Ireland their home in the pre-Christian era. The Book of Invasions, a mythical history, tells how Ireland was settled in several waves; different peoples arrived over time, and the Fir Bolg grew legendary among them. Scholars suspect the legend keeps a memory of a real people: the element Bolg appears in the personal names of the Érainn of west Munster, and the name is probably related to the Belgae of northern Gaul and southern Britain and with Bolgios, who attacked Macedonia in 280 BC. They are first mentioned under the archaic form Builc in the ninth-century Historia Brittonum. In the tale Cath Maige Tuired they are credited with dividing Ireland into the five provinces, the cóicid, and the name recurs in famous weapons, from Cú Chulainn's gae bulga to Fergus's sword Caladbolg. Older scholars tied their name to the word for a bag and called them the men of the bags, an explanation that goes back to the medieval Irish etymologists themselves. The Fir Bolg came from the children of Nemed. After the Fomorians drove them out, Nemed's son Starn reached Greece, and his descendants stayed in slavery there for 230 years, carrying bags of earth to raise hills until they used the bags to build boats and sail away. They returned to Ireland under Dela, who came at the feast of Lughnasa and split the island among his sons: Gann and Sengann took Munster, Slane took Leinster, and Rudraige gained Ulster. Eochaid mac Eirc ruled the middle province with his wife Tailtiu; Rinnal invented spear points, and Delga raised the stronghold later called Dundalk. The Fir Bolg ruled for 37 years before the Tuatha De Danann arrived, and when the armies clashed at the first Mag Tuired battle, king Nuada drove them out of Ireland, losing an arm and his throne in the fight. Some Fir Bolg may have retreated to the Aran Islands, where Aonghus raised Dun Aongusa, and others may have gone to the Scottish islands and to Connemara; place-names such as Dun Bolg and Moyboulogue recall this race.",
+  "entities": [
+   {
+    "entity": "Fir Bolg",
+    "type": "group"
+   },
+   {
+    "entity": "Book of Invasions",
+    "type": "artifact"
+   },
+   {
+    "entity": "Nemed",
+    "type": "mythological figure"
+   },
+   {
+    "entity": "Tuatha De Danann",
+    "type": "group"
+   },
+   {
+    "entity": "Eochaid mac Eirc",
+    "type": "hero"
+   },
+   {
+    "entity": "Tailtiu",
+    "type": "character"
+   },
+   {
+    "entity": "Nuada",
+    "type": "hero"
+   },
+   {
+    "entity": "Aran Islands",
+    "type": "place"
+   },
+   {
+    "entity": "Dela",
+    "type": "mythological figure"
+   },
+   {
+    "entity": "Belgae",
+    "type": "group"
+   },
+   {
+    "entity": "Bolgios",
+    "type": "Person"
+   },
+   {
+    "entity": "Historia Brittonum",
+    "type": "artifact"
+   },
+   {
+    "entity": "cóicid",
+    "type": "concept"
+   }
+  ],
+  "attributes": [
+   {
+    "entity": "Fir Bolg",
+    "attribute": "are remembered as legendary settlers and a probable historical people"
+   },
+   {
+    "entity": "Fir Bolg",
+    "attribute": "divided Ireland into five provinces, the cóicid"
+   },
+   {
+    "entity": "Bolg",
+    "attribute": "appears in names of the Érainn and of the leader Bolgios"
+   },
+   {
+    "entity": "Historia Brittonum",
+    "attribute": "first mentions the Fir Bolg under the form Builc"
+   }
+  ],
+  "okr": {
+   "objective": "The Fir Bolg were a legendary race who once ruled Ireland.",
+   "key_results": [
+    "The Fir Bolg were descended from the children of Nemed.",
+    "Their name links to the Belgae and to the leader Bolgios.",
+    "They divided Ireland into five provinces, the cóicid.",
+    "Nuada drove them out at the first battle of Mag Tuired."
+   ],
+   "evidence": "Koch 2006, s.v. 'Fir Bolg'."
+  },
+  "add_sources": [
+   "Koch 2006, s.v. 'Fir Bolg'."
+  ]
+ },
+ "Fomorians.json": {
+  "text": "The Fomorians, called Fomoiri in Irish sources, are a hostile race of supernatural beings in Irish legend, often imagined as monstrous in appearance. The name begins with the preposition fo, 'under', while the second element is uncertain: some scholarship links it to the 'mare' of nightmare, and medieval etymologists took it as muir, 'sea', fitting the Fomorians' role as raiders of the sea. The later form Fomóraig reflects a reading of the second element as mór, 'big', and in modern Gaelic the word simply means 'giants'. In legendary history they fight against Ireland's first settlers and against several of its early kings; the earliest reference, perhaps in a seventh-century elegy for a prince of Leinster, places them 'under the worlds of men'. In Cath Maige Tuired they oppose the Tuath Dé as a contrasting race, and the same tale identifies them with the Vikings. Elsewhere the two peoples overlap: the Fomorians are called the champions of the síd, the figure Tethra presides over both races, and a gloss explains 'demons and Fomóraig' as the Tuath Dé Donann. A Middle Irish text, Sex Aetates Mundi, lists the Fomóraig with the giant tribes that trace descent from Ham, in line with their later status as giants. They appear in the tales of the warrior band called the Fianna: an eager man named Abarta of this race wanted to join those heroes, and he came to them while he acted like a lazy worker. Fionn Mac Cumhaill took him into service, and Abarta led the Fianna onto a weak old horse that carried them away to the Otherworld, where he kept them prisoner; Fionn passed through many adventures and freed his men, and afterward gave Abarta no place in the band.",
+  "entities": [
+   {
+    "entity": "Fomorians",
+    "type": "group"
+   },
+   {
+    "entity": "Fianna",
+    "type": "group"
+   },
+   {
+    "entity": "Abarta",
+    "type": "mythological figure"
+   },
+   {
+    "entity": "Fionn Mac Cumhaill",
+    "type": "hero"
+   },
+   {
+    "entity": "Otherworld",
+    "type": "place"
+   },
+   {
+    "entity": "Fomoiri",
+    "type": "group"
+   },
+   {
+    "entity": "Tethra",
+    "type": "person"
+   },
+   {
+    "entity": "Cath Maige Tuired",
+    "type": "artifact"
+   },
+   {
+    "entity": "Sex Aetates Mundi",
+    "type": "artifact"
+   },
+   {
+    "entity": "síd",
+    "type": "place"
+   }
+  ],
+  "attributes": [
+   {
+    "entity": "Fomoiri",
+    "attribute": "are a hostile race of supernatural beings in Irish legend"
+   },
+   {
+    "entity": "Fomoiri",
+    "attribute": "oppose the Tuath Dé in Cath Maige Tuired"
+   },
+   {
+    "entity": "Tethra",
+    "attribute": "presides over both the Fomoiri and the Tuath Dé"
+   },
+   {
+    "entity": "Fomóraig",
+    "attribute": "came to mean giants in modern Gaelic"
+   }
+  ],
+  "okr": {
+   "objective": "Fomorians are a hostile supernatural race in Irish legend.",
+   "key_results": [
+    "The name is read as fo 'under' joined to sea, nightmare, or big.",
+    "They appear as the enemies of the first settlers of Ireland.",
+    "They oppose the Tuath Dé and at times overlap with them.",
+    "Abarta of the Fomorians carried the Fianna to the Otherworld."
+   ],
+   "evidence": "Koch 2006, s.v. 'Fomoiri'."
+  },
+  "add_sources": [
+   "Koch 2006, s.v. 'Fomoiri'."
+  ]
+ },
+ "fosterage.json": {
+  "text": "Fosterage was the practice of handing a child over to adults other than its own parents to be raised for a set span of years under fixed terms. When Ireland emerges in the historic period, the custom is already well established, and its terms carry affection: aite for foster-father, muime for foster-mother, altram for fosterage itself, with its sense of feeding and nourishing, and dalta for the foster-child. Irish law recognized three ages of fosterage: up to seven years, from seven to twelve, and from twelve to seventeen. Fosterage was a formal contract, either for payment or for affection. The fee was fixed by rank, took the form of a cattle payment, cost more for a female child, and the foster-parents handed it back when the child went home; the fosterer lost two-thirds of the fee if a required skill was not taught, or if the child was blemished. Education matched rank: the sons of freemen learned farming crafts such as kiln-drying and the use of the quern, while the children of higher grades learned board games, horse-riding, and embroidery. Both the maternal and the paternal kin shared the cost, and the mother's kin could protest a placement. Foster-parents held real legal power over the child, including the right of witness and judgement in proceedings. On completion the foster-child received the sét gertha, a payment that ensured the foster-parents' upkeep in old age. Many held the bond of fosterage as five times more durable than the bond of blood, and the most intense bonds in Irish mythology run between fosterlings: the combat of the hero Cuchulainn against his foster brother Ferdiad reaches Ferdiad's death after three days. Fosterage also existed in Wales, where the law said a child is 'at his father's dish', and where fostering with a bondman could, with the lord's consent, let the foster-son inherit land if the boy stayed past a full year and a day. The Mabinogi tale of Pwyll counts the support of a foster-son among the benefits of the custom. The Welsh term cyfaill came to mean 'friend', while its Irish counterpart comaltae meant 'foster-brother'.",
+  "entities": [
+   {
+    "entity": "fosterage",
+    "type": "concept"
+   },
+   {
+    "entity": "noble children",
+    "type": "person"
+   },
+   {
+    "entity": "Cuchulainn",
+    "type": "hero"
+   },
+   {
+    "entity": "Ferdiad",
+    "type": "person"
+   },
+   {
+    "entity": "Conchobar mac Nessa",
+    "type": "person"
+   },
+   {
+    "entity": "Ireland",
+    "type": "place"
+   },
+   {
+    "entity": "aite",
+    "type": "concept"
+   },
+   {
+    "entity": "muime",
+    "type": "concept"
+   },
+   {
+    "entity": "altram",
+    "type": "concept"
+   },
+   {
+    "entity": "dalta",
+    "type": "concept"
+   },
+   {
+    "entity": "sét gertha",
+    "type": "concept"
+   },
+   {
+    "entity": "Wales",
+    "type": "place"
+   }
+  ],
+  "attributes": [
+   {
+    "entity": "fosterage",
+    "attribute": "was a formal contract for payment or for affection"
+   },
+   {
+    "entity": "altram",
+    "attribute": "carries the sense of feeding and nourishing"
+   },
+   {
+    "entity": "sét gertha",
+    "attribute": "ensured the foster-parents' upkeep in old age"
+   },
+   {
+    "entity": "fosterage",
+    "attribute": "could let a Welsh foster-son inherit land in some cases"
+   }
+  ],
+  "okr": {
+   "objective": "Fosterage was the Irish and Welsh custom of raising children away from their kin.",
+   "key_results": [
+    "The fee was fixed by rank, paid in cattle, and higher for a girl.",
+    "Education matched rank, and a lost skill cost two-thirds of the fee.",
+    "Foster-parents held legal power over the foster-child.",
+    "In Wales, fosterage could even bring a right to inherit land."
+   ],
+   "evidence": "Koch 2006, s.v. 'fosterage'."
+  },
+  "add_sources": [
+   "Koch 2006, s.v. 'fosterage'."
+  ]
+ },
+ "__new__folk-tales_and_legends": {
+  "file": "folk-tales_and_legends.json",
+  "name": "folk-tales and legends",
+  "text": "Folk-tales and legends are the two great branches of traditional narrative collected across the Celtic countries. In folklore scholarship, the folk-tale is a fictional story told for entertainment, with a linear plot and casual magic, while the legend is a tale regarded as plausible within the traditional worldview, from saints' lives to urban legends; myth, by contrast, tells of sacred events held to be true. Because no narrative literature from the pre-Christian period survives in the Celtic languages, Celtic mythology is known mainly through later art and literature. The Irish collections are among the richest in Europe: the index Types of the Irish Folktale catalogues more than 43,000 versions of over 700 tale types. Collectors such as Thomas Crofton Croker, correspondent of the Grimm brothers, Lady Wilde, W. B. Yeats, Jeremiah Curtin, and Douglas Hyde gathered the Irish repertoire, while the professional storyteller, the seanchaí, passed on lore that mixed genealogy, history, and tale. Scottish Gaelic tradition was recorded by John Francis Campbell and later by Edinburgh's School of Scottish Studies, and Manx, Welsh, Breton, and Cornish collectors built their own archives, from Sophia Morrison's Manx Fairy Tales to the Breton work of François-Marie Luzel and the Cornish collections of Robert Hunt and William Bottrell. The Welsh Mabinogi, the story from Wales of the fairy bride who left her mortal husband at Llyn y Fan Fach. The legend of Gelert shows how deeply folk narrative shaped the Celtic literary imagination.",
+  "entities": [
+   {
+    "entity": "folk-tale",
+    "type": "concept"
+   },
+   {
+    "entity": "legend",
+    "type": "concept"
+   },
+   {
+    "entity": "myth",
+    "type": "concept"
+   },
+   {
+    "entity": "seanchaí",
+    "type": "person"
+   },
+   {
+    "entity": "Thomas Crofton Croker",
+    "type": "person"
+   },
+   {
+    "entity": "W. B. Yeats",
+    "type": "person"
+   },
+   {
+    "entity": "Douglas Hyde",
+    "type": "person"
+   },
+   {
+    "entity": "François-Marie Luzel",
+    "type": "person"
+   },
+   {
+    "entity": "John Francis Campbell",
+    "type": "person"
+   },
+   {
+    "entity": "Mabinogi",
+    "type": "artifact"
+   },
+   {
+    "entity": "Llyn y Fan Fach",
+    "type": "Place"
+   }
+  ],
+  "attributes": [
+   {
+    "entity": "folk-tale",
+    "attribute": "is a fictional story told for entertainment"
+   },
+   {
+    "entity": "legend",
+    "attribute": "is a tale held plausible within the traditional worldview"
+   },
+   {
+    "entity": "seanchaí",
+    "attribute": "was the professional Irish storyteller"
+   },
+   {
+    "entity": "Mabinogi",
+    "attribute": "shows how folk narrative shaped Welsh literature"
+   }
+  ],
+  "okr": {
+   "objective": "Folk-tales and legends form the traditional narrative heritage of the Celtic countries.",
+   "key_results": [
+    "Folk-tales are fictional, legends are held plausible, and myths are sacred.",
+    "Irish archives hold over 43,000 versions of more than 700 tale types.",
+    "Collectors from Croker to Luzel recorded the national repertoires.",
+    "Folk narrative shaped the Mabinogi and famous tales such as Gelert."
+   ],
+   "evidence": "Koch 2006, s.v. 'folk-tales and legends'."
+  },
+  "sources": [
+   "Koch 2006, s.v. 'folk-tales and legends'."
+  ]
+ },
+ "__new__Marc_harid_Fulup": {
+  "file": "Marc_harid_Fulup.json",
+  "name": "Marc'harid Fulup",
+  "text": "Marc'harid Fulup, born Marguerite Philippe in 1867 at Plûned in the Trégor district of Brittany, is the best-known of the ordinary Breton people who passed songs and tales to the great nineteenth-century collectors. Her father was a tailor and her mother a spinner-woman, and from her mother, Yvonne Le Maillot, she learned a wide repertoire of lore in childhood. She made her name as a singer and narrator who charmed winter gatherings in the farmhouses with her gwerzioù, the traditional Breton verse narratives, and with tales of miracles. She practised the old cult activities connected with water, and people believed she could find healing wells. Disabled from her early years and later losing the use of one hand, she supported herself by begging and by travelling as a pilgrim on the errands of others, and on those journeys she heard songs, tales, and beliefs which she committed to memory, adding to the lore of her native Lannion and Trégor districts. Her whole life, she said, was one thing only: singing. Her repertoire fed the collections that preserve Breton oral tradition, and she remains a celebrated figure of the nineteenth-century folk revival.",
+  "entities": [
+   {
+    "entity": "Marc'harid Fulup",
+    "type": "person"
+   },
+   {
+    "entity": "Marguerite Philippe",
+    "type": "person"
+   },
+   {
+    "entity": "Yvonne Le Maillot",
+    "type": "person"
+   },
+   {
+    "entity": "gwerzioù",
+    "type": "concept"
+   },
+   {
+    "entity": "Trégor",
+    "type": "place"
+   },
+   {
+    "entity": "Plûned",
+    "type": "place"
+   },
+   {
+    "entity": "Brittany",
+    "type": "place"
+   }
+  ],
+  "attributes": [
+   {
+    "entity": "Marc'harid Fulup",
+    "attribute": "was a Breton singer and storyteller"
+   },
+   {
+    "entity": "Marc'harid Fulup",
+    "attribute": "passed gwerzioù and miracle tales to the collectors"
+   },
+   {
+    "entity": "Marc'harid Fulup",
+    "attribute": "could find healing wells through the old water cults"
+   }
+  ],
+  "okr": {
+   "objective": "Marc'harid Fulup was a Breton tradition-bearer whose repertoire fed the folk-tale collectors.",
+   "key_results": [
+    "Born in 1867 at Plûned in Trégor, she learned lore from her mother.",
+    "She was known as a singer and storyteller of gwerzioù and miracle tales.",
+    "She gathered songs and beliefs on her pilgrimages.",
+    "She said her whole life was one thing only: singing."
+   ],
+   "evidence": "Koch 2006, s.v. 'Fulup, Marc'harid'."
+  },
+  "sources": [
+   "Koch 2006, s.v. 'Fulup, Marc'harid'."
+  ]
+ }
+}

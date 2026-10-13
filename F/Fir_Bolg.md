@@ -5,45 +5,79 @@ icon: file-lines
 order: 986
 contributors: [ 'Christopher Godwin' ]
 attributes:
-  - Celtic people driven to the geographical fringes by later Celtic invaders
-  - areas descend from the Fir Bolg
+  - Fir Bolg are remembered as legendary settlers and a probable historical people
+  - Fir Bolg divided Ireland into five provinces, the cóicid
+  - Bolg appears in names of the Érainn and of the leader Bolgios
+  - Historia Brittonum first mentions the Fir Bolg under the form Builc
 categories:
-  - Location
-  - Mythological Group
-  - Culture
+  - concept
+  - Person
+  - character
+  - hero
+  - group
+  - artifact
+  - place
+  - mythological figure
 entities:
-  - Clare(Location)
-  - Moyboulogue(Location)
-  - Co. Cavan(Location)
-  - Celtic people(Culture)
-  - Fir Bolg(Mythological Group)
+  - Fir Bolg(group)
+  - Book of Invasions(artifact)
+  - Nemed(mythological figure)
+  - Tuatha De Danann(group)
+  - Eochaid mac Eirc(hero)
+  - Tailtiu(character)
+  - Nuada(hero)
+  - Aran Islands(place)
+  - Dela(mythological figure)
+  - Belgae(group)
+  - Bolgios(Person)
+  - Historia Brittonum(artifact)
+  - cóicid(concept)
 tags:
-  - Clare
-  - Moyboulogue
-  - Co. Cavan
-  - Celtic people
   - Fir Bolg
+  - Book of Invasions
+  - Nemed
+  - Tuatha De Danann
+  - Eochaid mac Eirc
+  - Tailtiu
+  - Nuada
+  - Aran Islands
+  - Dela
+  - Belgae
+  - Bolgios
+  - Historia Brittonum
+  - cóicid
 ---
 ``` tab [group1:Info]
 ::: magazinestyle
-The Fir Bolg (Gáilióin, Fir Domnann) were an Irish mythological race. The Book Of Invasions, a legendary history of Ireland, speaks of many invasions; while the magical and sometimes monstrous races mentioned are clearly mythical, the text does reflect the historical truth that Ireland was settled in multiple migratory waves. Some of these were by non-Celtic people, including the earliest settlers and later Picts, followed by the Celts, who arrived in several waves. The earliest spoke P-Celtic, and the later arrivals spoke a Q-Celtic language. The exact number of migrations or tribes that came, and the place they originated from, is not conclusively established. What is clear is that Ireland was not settled by only one people, neither was there always a peaceful reaction to new arrivals in already occupied lands. Among these early immigrants or invaders were some, who have become legendary as the Fir Bolg; earlier scholars derived their name from the word "bag", thinking that it was connected with them, and called them "men of the bags"; however, the current understanding is that their name is related to the tribal names Builg or Belgae, the same Celtic tribes that gave their name to Belgium. These groups may have traced their descent from Bolg or Bulg, a hypothesized ancestral deity, possibly the ruler of thunder; therefore, their name would mean "sons of the god/dess Bolg" and would be equivalent to the later Tuatha Dé Danann, or the "children of the goddess Danu." Descended from the children of Nemed or Nemedians, another mythological race who had lived in Ireland generations prior, the Fir Bolg's origins are steeped in legend. Cast out by the fierce Fomorians, Nemed's son Starn found himself in Greece, where his descendants were enslaved for 230 years. They were forced to carry bags of dirt to build up hills. Eventually, they used these bags to build boats and escaped, returning to their ancient homeland. They arrived on the harvest feast of Lughnasa under the guidance of Dela, who then divided the island among his sons. Gann and Sengann received the southwestern Province of Munster, Slane took the eastern province of Leinster, and Rudraige gained Ulster to the north. Dynasties were established and rulers sat on thrones. Eochaid mac Eirc was among the Fir Bolg kings of note, who ruled the middle province with his famed wife Tailtiu. Other notable figures include Rinnal, who invented spear points, Delga, who built the great fort of Dún Delgan, now Dundalk in Co. Louth, Fingein Fisiochda, who was a healer, and hero Sreng. Curiously, there is no mention of the monstrous Fomorians who originally ousted the Fir Bolg's ancestors, although they reappear to ultimately combat the Fir Bolg's own conquers. The Tuatha Dé Danann, the most magical of Ireland's mythological races, arrived after the Fir Bolg ruled for only 37 years. In the great combat, called the first battle of Mag Tuired, Tuatha Dé Danann's king Nuada drove the Fir Bolg from Ireland, losing an arm and his right to the throne in the process (see Blemished King). The Fir Bolg, like other conquered peoples in Ireland, may have retreated to distant parts of the Celtic world such as the Aran Islands off the west coast of Ireland. It was there that King Aonghus constructed the magnificent fort of Dún Aongusa. Other areas where the Fir Bolg may have retreated to include islands off the Scottish coast and wild Connemara, where it is said that their king was named Bola, which is possibly derived from their tribal name. Irish place-names such as Dún Bolg in Co. Wicklow, Moherbullog in Co. Clare, and Moyboulogue in Co. Cavan reference this mythological race. If the Fir Bolg truly represents a Celtic people who were driven towards the fringes by later Celtic conquerors, then it is reasonable to assume that the inhabitants of these areas are descendants of the Fir Bolg.
+The Fir Bolg are a legendary people of Irish tradition who number among the peoples said to have made Ireland their home in the pre-Christian era. The Book of Invasions, a mythical history, tells how Ireland was settled in several waves; different peoples arrived over time, and the Fir Bolg grew legendary among them. Scholars suspect the legend keeps a memory of a real people: the element Bolg appears in the personal names of the Érainn of west Munster, and the name is probably related to the Belgae of northern Gaul and southern Britain and with Bolgios, who attacked Macedonia in 280 BC. They are first mentioned under the archaic form Builc in the ninth-century Historia Brittonum. In the tale Cath Maige Tuired they are credited with dividing Ireland into the five provinces, the cóicid, and the name recurs in famous weapons, from Cú Chulainn's gae bulga to Fergus's sword Caladbolg. Older scholars tied their name to the word for a bag and called them the men of the bags, an explanation that goes back to the medieval Irish etymologists themselves. The Fir Bolg came from the children of Nemed. After the Fomorians drove them out, Nemed's son Starn reached Greece, and his descendants stayed in slavery there for 230 years, carrying bags of earth to raise hills until they used the bags to build boats and sail away. They returned to Ireland under Dela, who came at the feast of Lughnasa and split the island among his sons: Gann and Sengann took Munster, Slane took Leinster, and Rudraige gained Ulster. Eochaid mac Eirc ruled the middle province with his wife Tailtiu; Rinnal invented spear points, and Delga raised the stronghold later called Dundalk. The Fir Bolg ruled for 37 years before the Tuatha De Danann arrived, and when the armies clashed at the first Mag Tuired battle, king Nuada drove them out of Ireland, losing an arm and his throne in the fight. Some Fir Bolg may have retreated to the Aran Islands, where Aonghus raised Dun Aongusa, and others may have gone to the Scottish islands and to Connemara; place-names such as Dun Bolg and Moyboulogue recall this race.
 
 :::
 ```
 ``` tab [group1:Attributes]
-- **Celtic people**: driven to the geographical fringes by later Celtic invaders
-- **areas**: descend from the Fir Bolg
+- **Fir Bolg**: are remembered as legendary settlers and a probable historical people
+- **Fir Bolg**: divided Ireland into five provinces, the cóicid
+- **Bolg**: appears in names of the Érainn and of the leader Bolgios
+- **Historia Brittonum**: first mentions the Fir Bolg under the form Builc
 ```
 ``` tab [group1:Entities]
-- **Clare**: Location
-- **Moyboulogue**: Location
-- **Co. Cavan**: Location
-- **Celtic people**: Culture
-- **Fir Bolg**: Mythological Group
+- **Fir Bolg**: group
+- **Book of Invasions**: artifact
+- **Nemed**: mythological figure
+- **Tuatha De Danann**: group
+- **Eochaid mac Eirc**: hero
+- **Tailtiu**: character
+- **Nuada**: hero
+- **Aran Islands**: place
+- **Dela**: mythological figure
+- **Belgae**: group
+- **Bolgios**: Person
+- **Historia Brittonum**: artifact
+- **cóicid**: concept
 ```
 ``` tab [group1:Sources]
 - MacAlister, R. A. Stewart. Lebor Gabála Érenn: The Book of the Taking of Ireland, Part 4. Dublin: Irish Texts Society, 1941, pp. 1–90.
 - O’Rahilly, Thomas. Early Irish History and Mythology. Dublin: The Dublin Institute for Advanced Studies, 1946.
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
+- Koch 2006, s.v. 'Fir Bolg'.
 ```
 ![Fir Bolg Image](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Myths_and_legends%3B_the_Celtic_race_%281910%29_%2814760453666%29.jpg/1200px-Myths_and_legends%3B_the_Celtic_race_%281910%29_%2814760453666%29.jpg)

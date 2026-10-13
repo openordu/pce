@@ -5,73 +5,66 @@ icon: file-lines
 order: 1007
 contributors: [ 'Christopher Godwin' ]
 attributes:
-  - Tuatha Dé Danann peers of the Fomorians
-  - Ériu goddess of the Tuatha Dé Danann
-  - Ireland named after the Tuatha Dé goddess Ériu
-  - Elatha Fomorian king and husband of Ériu
-  - Bres Mac Elatha son of Elatha and king at Tara
-  - Balor gigantic and evil Fomorian king
-  - Eithne daughter of Balor
-  - Lugh son of Eithne and half-breed
-  - Mag Tuired site of the greatest combat in Irish mythology
+  - Fomoiri are a hostile race of supernatural beings in Irish legend
+  - Fomoiri oppose the Tuath Dé in Cath Maige Tuired
+  - Tethra presides over both the Fomoiri and the Tuath Dé
+  - Fomóraig came to mean giants in modern Gaelic
 categories:
-  - son of Eithne
-  - king
-  - daughter of Balor
-  - Fomorian king
-  - mythological group
-  - goddess
-  - geographic location
+  - mythological figure
+  - hero
+  - group
+  - person
+  - artifact
+  - place
 entities:
-  - Tuatha Dé Danann(mythological group)
-  - Fomorians(mythological group)
-  - Ériu(goddess)
-  - Ireland(geographic location)
-  - Elatha(Fomorian king)
-  - Bres Mac Elatha(king)
-  - Balor(Fomorian king)
-  - Eithne(daughter of Balor)
-  - Lugh(son of Eithne)
+  - Fomorians(group)
+  - Fianna(group)
+  - Abarta(mythological figure)
+  - Fionn Mac Cumhaill(hero)
+  - Otherworld(place)
+  - Fomoiri(group)
+  - Tethra(person)
+  - Cath Maige Tuired(artifact)
+  - Sex Aetates Mundi(artifact)
+  - síd(place)
 tags:
-  - Tuatha Dé Danann
   - Fomorians
-  - Ériu
-  - Ireland
-  - Elatha
-  - Bres Mac Elatha
-  - Balor
-  - Eithne
-  - Lugh
+  - Fianna
+  - Abarta
+  - Fionn Mac Cumhaill
+  - Otherworld
+  - Fomoiri
+  - Tethra
+  - Cath Maige Tuired
+  - Sex Aetates Mundi
+  - síd
 ---
 ``` tab [group1:Info]
 ::: magazinestyle
-A mythological race known as the Fomorians (also Fomoire, Fomhóire, Fomoré) play a significant role in Ireland's history. These monsters, in Ireland's mythological past, were known to attack and fight against various settlers until they were defeated by the magical Tuatha Dé Danann. As scholars widely agree that Ireland's settlement myths mentioned in the Book of Invasion and other texts have historical roots, the question arises as to who these demonic beings truly were. Initial descriptions of them representing one-legged and one-armed beings, for instance, are unlikely to be a factual representation of these beings. While earlier interpretations suggested that they were sea monsters or pirates, historical etymology today discredits such views since the mor in their names refers to the word "phantom" rather than "sea." A more common approach is to interpret them as the remnants of ancient divinities who were subjugated in early invasions and subsequently intermingled and intermarried with their conquerors. While earlier narratives did not differentiate one Fomorian from another, later mythological texts portrayed them individually. They were found to be on par with the Tuatha Dé Danann, frequently intermarrying among themselves. For instance, Elatha, a Fomorian king, became the husband of Ériu, the Tuatha Dé goddess, after whom Ireland is named. Bres Mac Elatha, their son, was the king at Tara for a brief period. Even the half-breed Lugh was related to the evil Fomorian king Balor through his daughter, Eithne, who was renowned for her beauty. Alliances between the Tuatha Dé and the Fomorians were not firm. Eventually, in the second battle of Mag Tuired, which is considered to be the most significant battle in Irish mythology, the Tuatha Dé squared off against the Fomorians. During the battle, Lugh killed his grandfather Balor and the Fomorians were banished permanently from the island and forced into the sea.
+The Fomorians, called Fomoiri in Irish sources, are a hostile race of supernatural beings in Irish legend, often imagined as monstrous in appearance. The name begins with the preposition fo, 'under', while the second element is uncertain: some scholarship links it to the 'mare' of nightmare, and medieval etymologists took it as muir, 'sea', fitting the Fomorians' role as raiders of the sea. The later form Fomóraig reflects a reading of the second element as mór, 'big', and in modern Gaelic the word simply means 'giants'. In legendary history they fight against Ireland's first settlers and against several of its early kings; the earliest reference, perhaps in a seventh-century elegy for a prince of Leinster, places them 'under the worlds of men'. In Cath Maige Tuired they oppose the Tuath Dé as a contrasting race, and the same tale identifies them with the Vikings. Elsewhere the two peoples overlap: the Fomorians are called the champions of the síd, the figure Tethra presides over both races, and a gloss explains 'demons and Fomóraig' as the Tuath Dé Donann. A Middle Irish text, Sex Aetates Mundi, lists the Fomóraig with the giant tribes that trace descent from Ham, in line with their later status as giants. They appear in the tales of the warrior band called the Fianna: an eager man named Abarta of this race wanted to join those heroes, and he came to them while he acted like a lazy worker. Fionn Mac Cumhaill took him into service, and Abarta led the Fianna onto a weak old horse that carried them away to the Otherworld, where he kept them prisoner; Fionn passed through many adventures and freed his men, and afterward gave Abarta no place in the band.
 
 :::
 ```
 ``` tab [group1:Attributes]
-- **Tuatha Dé Danann**: peers of the Fomorians
-- **Ériu**: goddess of the Tuatha Dé Danann
-- **Ireland**: named after the Tuatha Dé goddess Ériu
-- **Elatha**: Fomorian king and husband of Ériu
-- **Bres Mac Elatha**: son of Elatha and king at Tara
-- **Balor**: gigantic and evil Fomorian king
-- **Eithne**: daughter of Balor
-- **Lugh**: son of Eithne and half-breed
-- **Mag Tuired**: site of the greatest combat in Irish mythology
+- **Fomoiri**: are a hostile race of supernatural beings in Irish legend
+- **Fomoiri**: oppose the Tuath Dé in Cath Maige Tuired
+- **Tethra**: presides over both the Fomoiri and the Tuath Dé
+- **Fomóraig**: came to mean giants in modern Gaelic
 ```
 ``` tab [group1:Entities]
-- **Tuatha Dé Danann**: mythological group
-- **Fomorians**: mythological group
-- **Ériu**: goddess
-- **Ireland**: geographic location
-- **Elatha**: Fomorian king
-- **Bres Mac Elatha**: king
-- **Balor**: Fomorian king
-- **Eithne**: daughter of Balor
-- **Lugh**: son of Eithne
+- **Fomorians**: group
+- **Fianna**: group
+- **Abarta**: mythological figure
+- **Fionn Mac Cumhaill**: hero
+- **Otherworld**: place
+- **Fomoiri**: group
+- **Tethra**: person
+- **Cath Maige Tuired**: artifact
+- **Sex Aetates Mundi**: artifact
+- **síd**: place
 ```
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
+- Koch 2006, s.v. 'Fomoiri'.
 ```
 ![Fomorians Image](https://upload.wikimedia.org/wikipedia/commons/2/27/The_Fomorians%2C_Duncan_1912.jpg)

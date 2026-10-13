@@ -1,0 +1,64 @@
+{
+ "name": "Marc'harid Fulup",
+ "text": "Marc'harid Fulup, born Marguerite Philippe in 1867 at Plûned in the Trégor district of Brittany, is the best-known of the ordinary Breton people who passed songs and tales to the great nineteenth-century collectors. Her father was a tailor and her mother a spinner-woman, and from her mother, Yvonne Le Maillot, she learned a wide repertoire of lore in childhood. She made her name as a singer and narrator who charmed winter gatherings in the farmhouses with her gwerzioù, the traditional Breton verse narratives, and with tales of miracles. She practised the old cult activities connected with water, and people believed she could find healing wells. Disabled from her early years and later losing the use of one hand, she supported herself by begging and by travelling as a pilgrim on the errands of others, and on those journeys she heard songs, tales, and beliefs which she committed to memory, adding to the lore of her native Lannion and Trégor districts. Her whole life, she said, was one thing only: singing. Her repertoire fed the collections that preserve Breton oral tradition, and she remains a celebrated figure of the nineteenth-century folk revival.",
+ "entities": [
+  {
+   "entity": "Marc'harid Fulup",
+   "type": "person"
+  },
+  {
+   "entity": "Marguerite Philippe",
+   "type": "person"
+  },
+  {
+   "entity": "Yvonne Le Maillot",
+   "type": "person"
+  },
+  {
+   "entity": "gwerzioù",
+   "type": "concept"
+  },
+  {
+   "entity": "Trégor",
+   "type": "place"
+  },
+  {
+   "entity": "Plûned",
+   "type": "place"
+  },
+  {
+   "entity": "Brittany",
+   "type": "place"
+  }
+ ],
+ "attributes": [
+  {
+   "entity": "Marc'harid Fulup",
+   "attribute": "was a Breton singer and storyteller"
+  },
+  {
+   "entity": "Marc'harid Fulup",
+   "attribute": "passed gwerzioù and miracle tales to the collectors"
+  },
+  {
+   "entity": "Marc'harid Fulup",
+   "attribute": "could find healing wells through the old water cults"
+  }
+ ],
+ "okr": {
+  "objective": "Marc'harid Fulup was a Breton tradition-bearer whose repertoire fed the folk-tale collectors.",
+  "key_results": [
+   "Born in 1867 at Plûned in Trégor, she learned lore from her mother.",
+   "She was known as a singer and storyteller of gwerzioù and miracle tales.",
+   "She gathered songs and beliefs on her pilgrimages.",
+   "She said her whole life was one thing only: singing."
+  ],
+  "evidence": "Koch 2006, s.v. 'Fulup, Marc'harid'."
+ },
+ "image": [],
+ "cyphertext": "",
+ "salt": "",
+ "sources": [
+  "Koch 2006, s.v. 'Fulup, Marc'harid'."
+ ]
+}

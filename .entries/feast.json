@@ -1,70 +1,103 @@
 {
-  "name": "feast",
-  "attributes": [
-    {
-      "entity": "feast",
-      "attribute": "came to mark holy ground"
-    },
-    {
-      "entity": "churches",
-      "attribute": "rose over old holy sites"
-    },
-    {
-      "entity": "pagan divinities",
-      "attribute": "canonized as saints"
-    },
-    {
-      "entity": "Ireland",
-      "attribute": "followed the pattern of the other Celtic lands"
-    },
-    {
-      "entity": "ancient holy sites",
-      "attribute": "consecrated to Christian uses"
-    }
-  ],
-  "entities": [
-    {
-      "entity": "feast",
-      "type": "event"
-    },
-    {
-      "entity": "churches",
-      "type": "concept"
-    },
-    {
-      "entity": "pagan divinities",
-      "type": "god"
-    },
-    {
-      "entity": "saints",
-      "type": "group"
-    },
-    {
-      "entity": "Ireland",
-      "type": "place"
-    },
-    {
-      "entity": "ancient holy sites",
-      "type": "location"
-    }
-  ],
-  "sources": [
-    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-  ],
-  "image": [
-    "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Monreale-cattedrale-mosaik-abendmahl.JPG/1200px-Monreale-cattedrale-mosaik-abendmahl.JPG"
-  ],
-  "cyphertext": "DSmFDqsHX4KVJ5PoPkRZ87aZ7GTDak2tOdygtCO_AFNlko6sHy4MS82kEofusNSDHTKssaLm7spSyVqONrW3YWaZH9xNw0MvTrvw7q0ONpqFUAQrhbBWE6LfU3mUDoG-tUTHmkFBUBp-kNdczH_MdKq3UnDHHmEO7jSn2gRFfqv3giKRgLTRjzvJ7HC8gvJ8_U-XmTW-ScZb-dpvanqJVrxFLTcgAiUkV5ktFcOLymkj8vKrevasw_zHrNyBdQToPbZ0SvFkhAcERDG1sXZ5kSbXbcji_3R5fi-6UXXzJCZJJrJsipKogoLRRPforgHPXr4xXxFcfTCfZnb3nPGaXcr6Nd304VzT0b5L6PuQk0NDV0AEF5qYnC8WcPLWyA9BCUwijJl1aODItfX0zW8JQnoImDVHLldjnPKDF4-uVFM1FVkRm6fxu3DNCAOcX8rIPgutS9PEN8D4Q480Y-4D6L7rnz54cJ-cODryYdahJiajWnXJCZfJbD6ZAnIkxb6uIIDrj0eZOjoQdUZOIcUPbaX4r2SIODDw1E39AxNE5aOJYkKLCbuJ2Na16TrmRQCCDVqz9y5EOKM4Yd3dB_pZ1zmCqk4p0MwpJ0i7F23SdV0hT9xavCRgbFYfNxt7yg_BHqYNLOCsvv5PGYf1sKyILmaY4KYkq_AJpqlr9HoFJY_Hsx_RKS66FfmSynxD4HYCbFu0HjfonaG0PHL4p-SK4772FKP4a7aJ5fyL9tT5k4VVEjnBUJUSJrsF1hScoeSwlkdRk3BazaszBY6PiObapF9E1HoB9iMwhnVxXR-HvvJa0DAEXWvTd8v53BM8utvCLY8G635u1FYsl4m4qXo=",
-  "salt": "VyULohFSraZi6s3IQD6Hng==",
-  "text": "Irish feasts came to mark holy ground. Churches rose over old holy sites. Pagan divinities were 'canonized' as saints. Ireland followed the same pattern as the other Celtic lands. Ancient sites were consecrated to Christian uses.",
-  "okr": {
-    "objective": "Irish feasts and church lands grew from rank conversion of holy sites.",
-    "key_results": [
-      "Churches rose over old holy sites in Ireland.",
-      "Pagan divinities were canonized as saints.",
-      "Ireland followed the pattern of the other Celtic lands.",
-      "Ancient sites passed to Christian uses."
-    ],
-    "evidence": "Monaghan, Encyclopedia of Celtic Mythology and Folklore"
+ "name": "feast",
+ "attributes": [
+  {
+   "entity": "feast",
+   "attribute": "served as ritual banquet and festival day"
+  },
+  {
+   "entity": "feast",
+   "attribute": "staged heroic rivalry in early Irish tales"
+  },
+  {
+   "entity": "Goibniu",
+   "attribute": "hosted the feast that gave the Tuath Dé immortality"
+  },
+  {
+   "entity": "Feis Temro",
+   "attribute": "marked the inauguration of the kings of Tara"
+  },
+  {
+   "entity": "Proto-Celtic",
+   "attribute": "gives the shared words for feast in Irish, Welsh, and Breton"
   }
+ ],
+ "entities": [
+  {
+   "entity": "feast",
+   "type": "event"
+  },
+  {
+   "entity": "churches",
+   "type": "concept"
+  },
+  {
+   "entity": "pagan divinities",
+   "type": "god"
+  },
+  {
+   "entity": "saints",
+   "type": "group"
+  },
+  {
+   "entity": "Ireland",
+   "type": "place"
+  },
+  {
+   "entity": "ancient holy sites",
+   "type": "location"
+  },
+  {
+   "entity": "Goibniu",
+   "type": "Deity"
+  },
+  {
+   "entity": "Lovernios",
+   "type": "Person"
+  },
+  {
+   "entity": "Athenaeus",
+   "type": "Person"
+  },
+  {
+   "entity": "Posidonius",
+   "type": "Person"
+  },
+  {
+   "entity": "Bricriu",
+   "type": "Person"
+  },
+  {
+   "entity": "Fled Bricrenn",
+   "type": "artifact"
+  },
+  {
+   "entity": "Feis Temro",
+   "type": "event"
+  },
+  {
+   "entity": "Proto-Celtic",
+   "type": "Language"
+  }
+ ],
+ "sources": [
+  "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.",
+  "Koch 2006, s.v. 'feast'."
+ ],
+ "image": [
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Monreale-cattedrale-mosaik-abendmahl.JPG/1200px-Monreale-cattedrale-mosaik-abendmahl.JPG"
+ ],
+ "cyphertext": "DSmFDqsHX4KVJ5PoPkRZ87aZ7GTDak2tOdygtCO_AFNlko6sHy4MS82kEofusNSDHTKssaLm7spSyVqONrW3YWaZH9xNw0MvTrvw7q0ONpqFUAQrhbBWE6LfU3mUDoG-tUTHmkFBUBp-kNdczH_MdKq3UnDHHmEO7jSn2gRFfqv3giKRgLTRjzvJ7HC8gvJ8_U-XmTW-ScZb-dpvanqJVrxFLTcgAiUkV5ktFcOLymkj8vKrevasw_zHrNyBdQToPbZ0SvFkhAcERDG1sXZ5kSbXbcji_3R5fi-6UXXzJCZJJrJsipKogoLRRPforgHPXr4xXxFcfTCfZnb3nPGaXcr6Nd304VzT0b5L6PuQk0NDV0AEF5qYnC8WcPLWyA9BCUwijJl1aODItfX0zW8JQnoImDVHLldjnPKDF4-uVFM1FVkRm6fxu3DNCAOcX8rIPgutS9PEN8D4Q480Y-4D6L7rnz54cJ-cODryYdahJiajWnXJCZfJbD6ZAnIkxb6uIIDrj0eZOjoQdUZOIcUPbaX4r2SIODDw1E39AxNE5aOJYkKLCbuJ2Na16TrmRQCCDVqz9y5EOKM4Yd3dB_pZ1zmCqk4p0MwpJ0i7F23SdV0hT9xavCRgbFYfNxt7yg_BHqYNLOCsvv5PGYf1sKyILmaY4KYkq_AJpqlr9HoFJY_Hsx_RKS66FfmSynxD4HYCbFu0HjfonaG0PHL4p-SK4772FKP4a7aJ5fyL9tT5k4VVEjnBUJUSJrsF1hScoeSwlkdRk3BazaszBY6PiObapF9E1HoB9iMwhnVxXR-HvvJa0DAEXWvTd8v53BM8utvCLY8G635u1FYsl4m4qXo=",
+ "salt": "VyULohFSraZi6s3IQD6Hng==",
+ "text": "Feasts were central to Celtic social and religious life, both as ritual banquets and as festival days. Archaeology shows that Iron Age aristocrats drank wine from Greek and Etruscan vessels and placed rich drinking gear in their graves, as at Hochdorf and Vix. Classical writers such as Athenaeus, drawing on Posidonius, describe the banquets of the Gaulish leader Lovernios, where praise poetry earned gold, and the custom of giving the choice cut of meat to the best warrior, the champion's portion. Early Irish tales make the feast a stage for rivalry: in Fled Bricrenn, Bricriu's feast goads the Ulster heroes into competing for precedence, and contention over the champion's portion could end in bloodshed. The Tuath Dé won immortality at the feast of Goibniu, and the feast of Tara, Feis Temro, marked the inauguration of kings. Celtic words for feast, such as Old Irish fled, Welsh gwledd, and Breton gloé, all descend from Proto-Celtic *wlid-. The Irish word feis, often translated 'feast', literally means 'spending the night' and carried a ritual sense of royal union. Feasts also came to mark holy ground: churches rose over old holy sites, pagan divinities were 'canonized' as saints, and Ireland followed the same pattern as the other Celtic lands.",
+ "okr": {
+  "objective": "Feasts were ritual banquets and festival days that shaped Celtic society.",
+  "key_results": [
+   "Iron Age burials show rich feasting equipment, as at Hochdorf and Vix.",
+   "Classical writers describe Gaulish feasts where praise poetry earned gold.",
+   "Irish tales stage heroic rivalry at feasts such as Fled Bricrenn.",
+   "Words for feast descend from Proto-Celtic *wlid-."
+  ],
+  "evidence": "Koch 2006, s.v. 'feast'."
+ }
 }

@@ -1,49 +1,87 @@
 {
-  "name": "Fionn Cycle",
-  "attributes": [
-    {
-      "entity": "Fionn Cycle",
-      "attribute": "cross-reference to the Fenian Cycle"
-    },
-    {
-      "entity": "Fenian Cycle",
-      "attribute": "tales of the hero Fionn"
-    },
-    {
-      "entity": "Fionn",
-      "attribute": "hero of the cycle"
-    }
-  ],
-  "entities": [
-    {
-      "entity": "Fionn Cycle",
-      "type": "concept"
-    },
-    {
-      "entity": "Fenian Cycle",
-      "type": "concept"
-    },
-    {
-      "entity": "Fionn",
-      "type": "hero"
-    }
-  ],
-  "sources": [
-    "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-  ],
-  "image": [
-    "https://upload.wikimedia.org/wikipedia/commons/8/88/Irishfairytales01step_0219.jpg"
-  ],
-  "cyphertext": "cFigmkHoxnFya1s-8cz9eZggHfixPQOrqnXP5hgO9Ev5tvxs3UVPfOfgPyYjJ5YO6YYuna5HZyrcwg==",
-  "salt": "2cTGB7pOtbcuH7pdO9PmOg==",
-  "text": "Fionn Cycle is a cross-reference entry. It points the reader to the Fenian Cycle. The Fenian Cycle holds the tales of the hero Fionn and his band of warriors.",
-  "okr": {
-    "objective": "Fionn Cycle directs readers to the Fenian Cycle.",
-    "key_results": [
-      "Fionn Cycle is a cross-reference entry.",
-      "It points to the Fenian Cycle.",
-      "The Fenian Cycle holds the tales of the hero Fionn."
-    ],
-    "evidence": "Monaghan, Encyclopedia of Celtic Mythology and Folklore"
+ "name": "Fionn Cycle",
+ "attributes": [
+  {
+   "entity": "Fionn Cycle",
+   "attribute": "is centred on the hero Fionn and his warrior band"
+  },
+  {
+   "entity": "fían",
+   "attribute": "is the hunting and warring band of the cycle"
+  },
+  {
+   "entity": "Acallam na Senórach",
+   "attribute": "recounts the adventures of the surviving warriors"
+  },
+  {
+   "entity": "Gráinne",
+   "attribute": "eloped with Diarmaid, stirring the cycle's great love story"
   }
+ ],
+ "entities": [
+  {
+   "entity": "Fionn Cycle",
+   "type": "concept"
+  },
+  {
+   "entity": "Fenian Cycle",
+   "type": "concept"
+  },
+  {
+   "entity": "Fionn",
+   "type": "hero"
+  },
+  {
+   "entity": "fiannaíocht",
+   "type": "concept"
+  },
+  {
+   "entity": "fían",
+   "type": "group"
+  },
+  {
+   "entity": "Fionn mac Cumhaill",
+   "type": "hero"
+  },
+  {
+   "entity": "Acallam na Senórach",
+   "type": "artifact"
+  },
+  {
+   "entity": "Gráinne",
+   "type": "person"
+  },
+  {
+   "entity": "Diarmaid",
+   "type": "person"
+  },
+  {
+   "entity": "James Macpherson",
+   "type": "Person"
+  },
+  {
+   "entity": "Tara",
+   "type": "place"
+  }
+ ],
+ "sources": [
+  "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.",
+  "Koch 2006, s.v. 'fiannaíocht'."
+ ],
+ "image": [
+  "https://upload.wikimedia.org/wikipedia/commons/8/88/Irishfairytales01step_0219.jpg"
+ ],
+ "cyphertext": "cFigmkHoxnFya1s-8cz9eZggHfixPQOrqnXP5hgO9Ev5tvxs3UVPfOfgPyYjJ5YO6YYuna5HZyrcwg==",
+ "salt": "2cTGB7pOtbcuH7pdO9PmOg==",
+ "text": "The Fionn Cycle, called fiannaíocht in Irish, is the most enduring cycle of storytelling in the written and oral tradition of Ireland and Gaelic Scotland. The name covers lesser cycles about local heroes that gathered around the larger body of tales centred on Fionn mac Cumhaill, who is warrior, leader, and poet-seer, and on the fían, the hunting and fighting band where young heroes prove themselves. The English word Fenian derives from fían, and the same band inspired the Ossianic poems of James Macpherson. The clerics who wrote early Irish literature left few Fenian tales, and the earliest surviving witnesses, such as the Boyhood Deeds of Finn, show Fionn as a lone hunter of wondrous beasts and a raider of the Otherworld rather than a general. From the twelfth century the fían became, in the literary imagination, a disciplined company that hunts and fights for the high-king and protects Ireland, with its headquarters at Tara; its heroes answer the royal summons in the Acallam na Senórach, the Battle of Ventry, and many later works. The tragic affair of Gráinne and Diarmaid, told in The Pursuit of Diarmaid and Gráinne, is the best-known episode of the later phase. The Fenian tales crossed between writing and oral performance for centuries, and twentieth-century storytellers in Ireland and Scotland still kept them in their repertoires. The cycle is often called the Fenian Cycle in English.",
+ "okr": {
+  "objective": "The Fionn Cycle is the enduring body of tales about the hero Fionn and his band.",
+  "key_results": [
+   "The cycle grew around Fionn mac Cumhaill and the institution of the fían.",
+   "Early texts show Fionn as a lone hunter rather than a leader.",
+   "From the twelfth century the fían serves the high-king of Ireland.",
+   "The tales survived in writing and in oral repertoires into the twentieth century."
+  ],
+  "evidence": "Koch 2006, s.v. 'fiannaíocht'."
+ }
 }
