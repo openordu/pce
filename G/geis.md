@@ -5,40 +5,61 @@ icon: file-lines
 order: 1073
 contributors: [ 'Christopher Godwin' ]
 attributes:
-  - kings especially subject to sacred geasa
-  - land's Fertility depended upon the king's righteousness
-  - king broke his geasa as Conaire did caused privation when the land became sterile
-  - heroes pledged to avoid taboo places, people, and foods, or to satisfy certain peculiar demands, their strength and even continued life depending upon their performance
-  - geasa wound into the plot of many ancient Celtic legends and romances
+  - geis is a ritual taboo that binds a named king or hero
+  - geis was enforced by gods or cosmic powers, not by courts
+  - geis is linked etymologically to the verb guidid, 'prays, asks'
+  - geis has a Welsh counterpart in the swearing of destiny
+  - Conaire Mór broke his gessa and met death at Da Derga's hostel
 categories:
-  - concept
-  - literature
+  - Person
+  - Concept
+  - Place
+  - Language
 entities:
-  - Kingship(concept)
-  - Celtic legends and romances(literature)
+  - geis(Concept)
+  - Conaire Mór(Person)
+  - Tara(Place)
+  - Togail Bruidne Da Derga(Concept)
+  - guidid(Language)
+  - Math fab Mathonwy(Concept)
+  - Culhwch ac Olwen(Concept)
+  - heroic ethos(Concept)
 tags:
-  - Kingship
-  - Celtic legends and romances
+  - geis
+  - Conaire Mór
+  - Tara
+  - Togail Bruidne Da Derga
+  - guidid
+  - Math fab Mathonwy
+  - Culhwch ac Olwen
+  - heroic ethos
 ---
 ``` tab [group1:Info]
 ::: magazinestyle
-Irish literature often references geis (also spelled geas, geiss, ges, and in plural form, geasa or gessa), an Irish ritual vow. In accordance to this real religious custom, kings and other heroes were often required to make magical vows or pledges. Although some geasa were imposed with a clear purpose, such as preventing the king of Tara, Conaire, from eating the flesh of birds due to the belief that his mother had been cursed to take bird form, most geasa seemed frivolous. One of Conaire’s vows, for instance, prevented him from riding around Tara with his right shoulder facing the sea, prohibited him from letting Three Red horsemen ride past him to the hostel of a red man, and restricted him from being absent from Tara for over eight consecutive nights. The geasa could also be incredibly complex, as evidenced by Diarmait’s vow that hindered him from ever refusing the advances of a woman, be it day or night, and whether she came on horseback or on foot, clothed or naked. Despite their comical nature, violating a geis resulted in serious consequences, even death. The man making the vow, most often kings, did not choose the geasa imposed on him. Instead, they were inflicted by Druids or women, often substituting for the goddess of Sovereignty. Kings were held to a higher standard of sacred geasa, ensuring their integrity (See Kingship). The righteousness of a king was believed to determine the land’s fertility; if a king violated his geasa like Conaire, the land suffered and became sterile. In ancient Celtic legends and romances, heroes had an obligation to adhere to certain taboos and fulfill peculiar requests in order to maintain their strength and even their life. The performance of these obligations was tied to geasa, which were often woven into the plot of these tales.
+A geis is a ritual prohibition in early Irish literature, and the plural is gessa. The word names a taboo or sworn injunction that binds a named person, most often a king or a hero. Scholars link it to the verb guidid, 'prays' or 'asks', so the taboo began as a formal request. Welsh gwŷs, 'summons', may come from the same Common Celtic formation. Irish texts also use other words for the same idea, among them airmit and airgart. No court or lawman enforced geasa. The narrative holds that gods, the heroic code, or unnamed cosmic powers made them bite. Most gessa came at birth or when a person took up a new role, so breaking one undid that person's own nature. The tales use the pattern to mark a hero's doom in advance. King Conaire Mór of Tara carried a string of prohibitions: no hunting of the birds of the air, no night away from Tara, no entry by three red riders. He broke them one by one, and the breaking led to his death in Togail Bruidne Da Derga. Some scholars think the idea came from the Bible, while others argue for a native Irish institution. A Welsh parallel appears in the swearing of destiny in the Welsh tales Math and Culhwch ac Olwen. The concept joined magical force to social duty, and it shaped how storytellers built a hero's rise and fall.
 
 :::
 ```
 ``` tab [group1:Attributes]
-- **kings**: especially subject to sacred geasa
-- **land's Fertility**: depended upon the king's righteousness
-- **king**: broke his geasa as Conaire did caused privation when the land became sterile
-- **heroes**: pledged to avoid taboo places, people, and foods, or to satisfy certain peculiar demands, their strength and even continued life depending upon their performance
-- **geasa**: wound into the plot of many ancient Celtic legends and romances
+- **geis**: is a ritual taboo that binds a named king or hero
+- **geis**: was enforced by gods or cosmic powers, not by courts
+- **geis**: is linked etymologically to the verb guidid, 'prays, asks'
+- **geis**: has a Welsh counterpart in the swearing of destiny
+- **Conaire Mór**: broke his gessa and met death at Da Derga's hostel
 ```
 ``` tab [group1:Entities]
-- **Kingship**: concept
-- **Celtic legends and romances**: literature
+- **geis**: Concept
+- **Conaire Mór**: Person
+- **Tara**: Place
+- **Togail Bruidne Da Derga**: Concept
+- **guidid**: Language
+- **Math fab Mathonwy**: Concept
+- **Culhwch ac Olwen**: Concept
+- **heroic ethos**: Concept
 ```
 ``` tab [group1:Sources]
 - Dillon, Myles. There Was a King in Ireland: Five Tales from Oral Tradition. Texas Folklore Society. Austin: University of Texas Press, 1971, 21.
 - Joyce, Patrick Weston. Ancient Celtic Romances. London: Parkgate Books, 1997, 433–434.
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
+- Koch 2006, s.v. 'geis'.
 ```

@@ -3,19 +3,23 @@
  "attributes": [
   {
    "entity": "Grannos",
-   "attribute": "a form of Apollo who governed healing waters"
+   "attribute": "is a Gaulish healing god equated with Apollo"
   },
   {
    "entity": "Grannos",
-   "attribute": "consort of the goddess Sirona"
+   "attribute": "is named in eighteen inscriptions, mostly as Apollo Grannus"
   },
   {
    "entity": "Grannos",
-   "attribute": "name shares a root with the Irish sun goddess Grian"
+   "attribute": "has a sacred spring at Aachen, Aquis Granni"
   },
   {
    "entity": "Grannos",
-   "attribute": "honored in Auvergne with burning grain sheafs"
+   "attribute": "is consort of Sirona"
+  },
+  {
+   "entity": "Grannos",
+   "attribute": "was honoured in Auvergne with burning grain sheaves"
   }
  ],
  "entities": [
@@ -36,27 +40,52 @@
    "type": "Deity"
   },
   {
+   "entity": "Gráinne",
+   "type": "Person"
+  },
+  {
    "entity": "Auvergne",
    "type": "Place"
+  },
+  {
+   "entity": "Bonn",
+   "type": "Place"
+  },
+  {
+   "entity": "Aachen",
+   "type": "Place"
+  },
+  {
+   "entity": "Musselburgh",
+   "type": "Place"
+  },
+  {
+   "entity": "Ephesus",
+   "type": "Place"
+  },
+  {
+   "entity": "interpretatio romana",
+   "type": "Concept"
   }
  ],
  "sources": [
-  "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
+  "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.",
+  "Koch 2006, s.v. 'Grannus'."
  ],
  "image": [
   "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Lauingen_Apollo-Grannus-Tempel.jpg/1200px-Lauingen_Apollo-Grannus-Tempel.jpg"
  ],
  "cyphertext": "3cP6e84w4cI8svMWH6UvtXcAvG7HIlXrGXFtXGGneDVMz6uYadk2U-H1NzdUetLc9rWGDRkDiY5ogA==",
  "salt": "ZnAx1uxW7MlueW05lQImhA==",
- "text": "Grannos, also named Grannus, is another face of Apollo. He governed healing waters throughout Europe and Scotland, sharing his cult with the goddess Sirona. His name seems to spring from the same root as Grian, the Irish sun goddess. In the Auvergne region of France, worshippers set grain sheafs on fire and sang to him, calling him friend, father, and mother, a sign of a dual or unclear gender.",
+ "text": "Grannos, also spelled Grannus, is a Gaulish healing god whom Roman worshippers joined to Apollo. The pairing belongs to interpretatio romana, the habit of matching Celtic gods with Greek and Roman ones. He governed healing waters across Europe and Scotland, and his cult was shared with the goddess Sirona, whose name means something like 'star goddess'. Eighteen inscriptions name him. Only one, from Bonn, calls him Grannus alone. Elsewhere the name serves as a byname of Apollo. Offerings appear in the Rhineland, at Musselburgh near Edinburgh, at Brigetio in Hungary, at Astorga in Spain, in Västmanland in Sweden, and at Ephesus in Turkey. Aachen was known as Aquis Granni, 'the waters of Grannus', which points to a sacred spring. His name seems to spring from the same root as Grian, the Irish sun figure, and the heroine Gráinne has been proposed as a further cognate. In the Auvergne, worshippers set grain sheaves on fire and sang to him as friend, father, and mother, a sign of a dual or unclear gender.",
  "okr": {
-  "objective": "Present Grannos as Apollo's healing-water aspect, Sirona's consort, and the Auvergne ritual.",
+  "objective": "Present Grannos as a Gaulish healing god, his inscriptions, consort, and Auvergne ritual.",
   "key_results": [
-   "Grannos is a form of Apollo tied to healing springs in Europe and Scotland.",
-   "He shared his cult with the goddess Sirona.",
-   "His name links to Grian, the Irish sun goddess.",
-   "In Auvergne people burned grain sheafs and sang to him."
+   "Explain his equation with Apollo under interpretatio romana.",
+   "Give the spread of his inscriptions and the Aachen spring.",
+   "Name Sirona as consort and discuss the 'sun' etymology.",
+   "Keep the Auvergne grain-sheaf rite."
   ],
-  "evidence": "Monaghan, The Encyclopedia of Celtic Mythology and Folklore, 2003"
+  "evidence": "Koch 2006, s.v. 'Grannus'."
  }
 }

@@ -1,53 +1,91 @@
 {
-    "name": "Galatia",
-    "attributes": [
-        {
-            "entity": "Galatia",
-            "attribute": "was an ancient Celtic land in central Anatolia"
-        },
-        {
-            "entity": "Celts",
-            "attribute": "settled in Galatia in the third century B.C.E."
-        },
-        {
-            "entity": "St. Paul",
-            "attribute": "wrote to the residents of Galatia in his epistles"
-        }
-    ],
-    "entities": [
-        {
-            "entity": "Galatia",
-            "type": "Place"
-        },
-        {
-            "entity": "Anatolia",
-            "type": "Place"
-        },
-        {
-            "entity": "Celts",
-            "type": "Group"
-        },
-        {
-            "entity": "St. Paul",
-            "type": "Person"
-        }
-    ],
-    "sources": [
-        "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008."
-    ],
-    "image": [
-        "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Asia_Minor_in_the_Greco-Roman_period_-_general_map_-_regions_and_main_settlements.jpg/1200px-Asia_Minor_in_the_Greco-Roman_period_-_general_map_-_regions_and_main_settlements.jpg"
-    ],
-    "cyphertext": "Ztvwlnv5IXuBMRGhgj8QC5GWgbdjSQOWUMK9zCAgNziV8ZppdZ9uVGvcCFYCyIzoNugC9U4hReG7HOxwp4Edy1b1xnHXqmsry0voQnridpoEFsSMh-ymrBVIxFSFQrNXLqkSW2eZTt0LK1EbmTHV91ScpRpvMBW030eHUG1Hu9GIwq-krdGZIZ7Yb_hFAwaRhMSbYwfxAd850LupTXgl6z-Fvqd1klmFhAo_SFz63wpZ5GJZrNrY0O5J1Bp9lUPVBL7RLfaZ43deGXBnKpdQCizfc0TJkl48xHPmVG1TEHLUHdDWS4rJqcSSyg==",
-    "salt": "FsETR0Y8vvYzGdpBS_DygQ==",
-    "text": "Galatia was an ancient Celtic land. It stood in central Anatolia. That region is now part of Turkey. Celts settled there in the third century B.C.E. St. Paul mentioned the region in his epistles. He wrote to the residents of the land.",
-    "okr": {
-        "objective": "Record the ancient Celtic land of Galatia.",
-        "key_results": [
-            "Place Galatia in central Anatolia in modern Turkey.",
-            "State that the Celts settled there in the third century B.C.E.",
-            "Name St. Paul's letter to the residents of the region."
-        ],
-        "evidence": "Monaghan, The Encyclopedia of Celtic Mythology and Folklore, 2008, s.v. 'Galatia'."
-    }
+ "name": "Galatia",
+ "attributes": [
+  {
+   "entity": "Galatia",
+   "attribute": "was settled by Gauls in 278 BCE"
+  },
+  {
+   "entity": "Galatia",
+   "attribute": "held the Tolistobogii, Tectosages, and Trocmi tribes"
+  },
+  {
+   "entity": "Galatia",
+   "attribute": "kept the Galatian language under Roman rule"
+  },
+  {
+   "entity": "Galatia",
+   "attribute": "had a sacred oak assembly called Drunemeton"
+  }
+ ],
+ "entities": [
+  {
+   "entity": "Galatia",
+   "type": "Place"
+  },
+  {
+   "entity": "Anatolia",
+   "type": "Place"
+  },
+  {
+   "entity": "Nicomedes I",
+   "type": "Person"
+  },
+  {
+   "entity": "Bithynia",
+   "type": "Place"
+  },
+  {
+   "entity": "Tolistobogii",
+   "type": "Group"
+  },
+  {
+   "entity": "Tectosages",
+   "type": "Group"
+  },
+  {
+   "entity": "Trocmi",
+   "type": "Group"
+  },
+  {
+   "entity": "Ancyra",
+   "type": "Place"
+  },
+  {
+   "entity": "Drunemeton",
+   "type": "Place"
+  },
+  {
+   "entity": "Brennos",
+   "type": "Person"
+  },
+  {
+   "entity": "St. Paul",
+   "type": "Person"
+  },
+  {
+   "entity": "Galatian",
+   "type": "Language"
+  }
+ ],
+ "sources": [
+  "Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.",
+  "Koch 2006, s.v. 'Galatia'."
+ ],
+ "image": [
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Asia_Minor_in_the_Greco-Roman_period_-_general_map_-_regions_and_main_settlements.jpg/1200px-Asia_Minor_in_the_Greco-Roman_period_-_general_map_-_regions_and_main_settlements.jpg"
+ ],
+ "cyphertext": "Ztvwlnv5IXuBMRGhgj8QC5GWgbdjSQOWUMK9zCAgNziV8ZppdZ9uVGvcCFYCyIzoNugC9U4hReG7HOxwp4Edy1b1xnHXqmsry0voQnridpoEFsSMh-ymrBVIxFSFQrNXLqkSW2eZTt0LK1EbmTHV91ScpRpvMBW030eHUG1Hu9GIwq-krdGZIZ7Yb_hFAwaRhMSbYwfxAd850LupTXgl6z-Fvqd1klmFhAo_SFz63wpZ5GJZrNrY0O5J1Bp9lUPVBL7RLfaZ43deGXBnKpdQCizfc0TJkl48xHPmVG1TEHLUHdDWS4rJqcSSyg==",
+ "salt": "FsETR0Y8vvYzGdpBS_DygQ==",
+ "text": "Galatia was an ancient Celtic land. It stood in central Anatolia. That region is now part of Turkey. Celts settled there during the 3rd century BCE. Classical sources say the Gauls crossed into Phrygia in 278 BCE at the call of Nicomedes I, the Thracian ruler of Bithynia. They came in families, so the move looks like a migration and not a slow mixing of mercenaries. The incomers may have gathered survivors of the Celtic invasion of Greece under Brennos. Three tribes held the land: the Tolistobogii in the west, the Tectosages around Ancyra, and the Trocmi in the east. They kept their Galatian speech and many Celtic customs for centuries under Roman rule. They met at a sacred oak grove called Drunemeton. Four tetrarchs governed, three of them military, and the fourth served as a judge, perhaps a druid. St. Paul mentioned the region in his epistles. He wrote to the residents of the land, but the community he addressed may have been largely non-Celtic and taken its name from Galatian neighbours.",
+ "okr": {
+  "objective": "Describe Galatia as a Celtic land in Anatolia, its tribes, institutions, and language.",
+  "key_results": [
+   "Date the Galatian settlement to 278 BCE under Nicomedes I.",
+   "Name the three tribes and their chief centres.",
+   "Record Drunemeton and the fourfold tetrarchy.",
+   "Qualify St. Paul's address to the Galatians."
+  ],
+  "evidence": "Koch 2006, s.v. 'Galatia'."
+ }
 }

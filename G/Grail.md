@@ -5,59 +5,64 @@ icon: file-lines
 order: 1136
 contributors: [ 'Christopher Godwin' ]
 attributes:
-  - Galahad receives the Grail and is transfigured into sanctity
-  - Lancelot finds the Grail Castle but falls into a trance and does not enter
-  - Percival returns to the Grail Castle, asks the relevant questions—whose is the cup, why does the lance bleed, and what does it all mean?—and thus heals the king and restores the land, after which he himself is elevated to the Kingship
+  - Holy Grail is imagined as the cup of the Last Supper and the vessel of Christ's blood
+  - Holy Grail may descend from Celtic cauldrons of plenty and rebirth
+  - Holy Grail serves as a moral test that only the worthy knight can pass
+  - Fisher King is healed only when the Grail quest succeeds
 categories:
-  - Object
-  - Location
-  - Event
-  - Concept
   - Person
+  - Artifact
+  - Concept
+  - Place
 entities:
-  - Christian hero Galahad(Person)
-  - Grail(Object)
-  - Lancelot(Person)
-  - Grail Castle(Location)
-  - Percival(Person)
-  - king(Person)
-  - land(Location)
-  - quest for the Grail(Event)
-  - Celtic motifs(Concept)
+  - Holy Grail(Artifact)
+  - Jesus(Person)
+  - Joseph of Arimathea(Person)
+  - Fisher King(Person)
+  - Branwen(Person)
+  - Annwn(Place)
+  - Culhwch ac Olwen(Concept)
+  - Llyn Fawr(Place)
+  - head cult(Concept)
+  - Peredur(Person)
 tags:
-  - Christian hero Galahad
-  - Grail
-  - Lancelot
-  - Grail Castle
-  - Percival
-  - king
-  - land
-  - quest for the Grail
-  - Celtic motifs
+  - Holy Grail
+  - Jesus
+  - Joseph of Arimathea
+  - Fisher King
+  - Branwen
+  - Annwn
+  - Culhwch ac Olwen
+  - Llyn Fawr
+  - head cult
+  - Peredur
 ---
 ``` tab [group1:Info]
 ::: magazinestyle
-The Grail, a symbolic object, is often depicted as the sacred cup used by Jesus during his Last Supper in Jerusalem. Alternatively, it is said to be the platter on which his bread or lamb was served or a cup that caught his blood as he lay dying. According to legend, after his resurrection and crucifixion, Joseph Of Arimathea, who was hosting the Last Supper, brought the Grail to Britain. Thus, a Christian emblem of transubstantiation, which denotes the conversion of bread and wine into the body and blood of Jesus, was blended with a series of Celtic legends and myths, creating a complex yet fascinating narrative that has inspired writers and scholars. The Grail quest originated from a Round Table knight named Percival, who visited a dead kingdom ruled by a wounded king with a groin injury, symbolizing his Fertility, causing him to fish in the land's increasingly empty lakes, leading to him being named the Fisher King. Percival was invited to the king's castle and presented with strange visions, including a floating chalice and a bleeding lance that remained suspended in the air while the court sat in silence. Without ever questioning their meaning, Percival simply observed the marvels before him, his silence profound. The vision faded soon after he arrived, the palace, king and court vanishing with it. And thus began the quest for the Grail, each knight granted an individual pursuit based on character alone. The Grail quest culminates in various possible scenarios depending on the text. The Christian hero Galahad, thinly veiled, achieves sanctity by obtaining the Grail. Lancelot finds the Grail Castle but only enters a trance and does not proceed. Percival, however, returns to the Grail Castle, asks the pertinent questions pertaining to the cup, the bleeding lance, and their meaning; he takes the ensuing answers to heal the king and restore the land, ultimately rising to the throne himself. The Grail quest narrative incorporates many Celtic elements; the Fisher King referencing the Blemished King from Celtic lore, where kings with physical imperfections were deemed unfit to rule. The Grail, respectively, embodies the Cauldron from Celtic mythology, utilized by the Welsh goddess Ceridwen to brew Wisdom, and associated with the Welsh hero, Efnisien, as well as the Irish god Dagda's ever-abundant cauldron. The Grail symbolises fertility and is linked with sexuality, sterility occasionally alluded to in certain Christian versions.
+The Holy Grail is a symbolic object pictured as the sacred cup Jesus drank from at the Last Supper. Some tellings describe it as the platter for his bread or the paschal lamb. Others say it caught his blood as he lay dying. Joseph of Arimathea, the merchant who owned the supper house, carried the Grail to Britain. The Christian emblem of transubstantiation then fused with Celtic legends into a complex tale that still moves poets and thinkers. In that tale the Fisher King lies wounded in his body and heals only when the quest is complete. Celtic studies reads the Grail at two levels. The first asks whether older Celtic vessels lie behind it. Loomis and others point to wonder cauldrons that feed or revive: the peir dadeni of Branwen, the chief of Annwn's cauldron in Preiddiau Annwfn, and Diwrnach's vessel in Culhwch ac Olwen. The pearl-rimmed cauldron of the poem will not boil meat for a coward or a liar, a moral test close to the Grail's own. Cauldrons placed in lakes and bogs, as at Llyn Fawr, show that such vessels held ritual weight in Late Bronze and Iron Age deposits. Other scholars read the severed head of the Welsh procession as a trace of the Celtic head cult. The second level is the later Welsh and Irish retelling of French Grail romances.
 
 :::
 ```
 ``` tab [group1:Attributes]
-- **Galahad**: receives the Grail and is transfigured into sanctity
-- **Lancelot**: finds the Grail Castle but falls into a trance and does not enter
-- **Percival**: returns to the Grail Castle, asks the relevant questions—whose is the cup, why does the lance bleed, and what does it all mean?—and thus heals the king and restores the land, after which he himself is elevated to the Kingship
+- **Holy Grail**: is imagined as the cup of the Last Supper and the vessel of Christ's blood
+- **Holy Grail**: may descend from Celtic cauldrons of plenty and rebirth
+- **Holy Grail**: serves as a moral test that only the worthy knight can pass
+- **Fisher King**: is healed only when the Grail quest succeeds
 ```
 ``` tab [group1:Entities]
-- **Christian hero Galahad**: Person
-- **Grail**: Object
-- **Lancelot**: Person
-- **Grail Castle**: Location
-- **Percival**: Person
-- **king**: Person
-- **land**: Location
-- **quest for the Grail**: Event
-- **Celtic motifs**: Concept
+- **Holy Grail**: Artifact
+- **Jesus**: Person
+- **Joseph of Arimathea**: Person
+- **Fisher King**: Person
+- **Branwen**: Person
+- **Annwn**: Place
+- **Culhwch ac Olwen**: Concept
+- **Llyn Fawr**: Place
+- **head cult**: Concept
+- **Peredur**: Person
 ```
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
+- Koch 2006, s.v. 'Grail'.
 ```
 ![Grail Image](https://upload.wikimedia.org/wikipedia/commons/7/7c/Dante_Gabriel_Rossetti_-_The_Damsel_of_the_Sanct_Grael_%281874%29.jpg)
